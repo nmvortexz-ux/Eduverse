@@ -69,7 +69,7 @@ export default function SignInPage() {
               colorInputBackground: '#090D16',
               colorInputText: '#FFFFFF',
               borderRadius: '0.75rem',
-            },
+            } as any,
             elements: {
               rootBox: 'mx-auto',
               card: 'bg-slate-900 border-3 border-white shadow-[6px_6px_0px_0px_rgba(255,255,255,1)] rounded-2xl p-6 sm:p-8',
@@ -91,7 +91,7 @@ export default function SignInPage() {
               identityPreviewText: 'text-slate-200 font-bold',
               identityPreviewEditButton: 'text-teal-400 hover:text-teal-300 font-bold',
             },
-          }}
+          } as any}
         />
       </div>
 

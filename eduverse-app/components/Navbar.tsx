@@ -110,7 +110,7 @@ export default function Navbar() {
                       colorTextSecondary: '#CBD5E1',
                       colorInputBackground: '#020617',
                       colorInputText: '#FFFFFF',
-                    },
+                    } as any,
                     elements: {
                       userButtonTrigger: 'focus:shadow-none focus:outline-none',
                       avatarBox:
@@ -125,7 +125,7 @@ export default function Navbar() {
                       userButtonPopoverActionButtonIcon: '!text-teal-400 w-4 h-4',
                       userButtonPopoverFooter: 'bg-slate-950/90 border-t border-slate-800 mt-2 p-2 rounded-b-xl',
                     },
-                  }}
+                  } as any}
                 />
               </div>
             </div>

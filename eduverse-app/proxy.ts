@@ -1,14 +1,18 @@
 import { clerkMiddleware, createRouteMatcher } from "@clerk/nextjs/server";
 
-// Define public routes explicitly
+// Define public routes explicitly to allow frictionless access for students
 const isPublicRoute = createRouteMatcher([
   "/",
+  "/select(.*)",
+  "/configure(.*)",
+  "/quiz(.*)",
+  "/results(.*)",
+  "/dashboard(.*)",
+  "/leaderboard(.*)",
+  "/terms(.*)",
   "/sign-in(.*)",
   "/sign-up(.*)",
-  "/api/meta(.*)",
-  "/api/stats(.*)",
-  "/api/questions(.*)",
-  "/api/leaderboard(.*)",
+  "/api/(.*)",
 ]);
 
 export default clerkMiddleware(async (auth, req) => {

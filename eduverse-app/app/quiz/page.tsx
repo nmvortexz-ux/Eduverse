@@ -279,7 +279,7 @@ function QuizContent() {
   // Slide animation variants
   const slideVariants = {
     enter:  (d: number) => ({ x: d > 0 ? 60 : -60, opacity: 0 }),
-    center: { x: 0, opacity: 1, transition: { duration: 0.25, ease: 'easeOut' } },
+    center: { x: 0, opacity: 1, transition: { duration: 0.25, ease: 'easeOut' as const } },
     exit:   (d: number) => ({ x: d > 0 ? -60 : 60, opacity: 0, transition: { duration: 0.15 } }),
   };
 

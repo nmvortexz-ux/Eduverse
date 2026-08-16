@@ -12,7 +12,7 @@ export default function MathText({ text, className = '' }: MathTextProps) {
   if (!text) return null;
 
   // Regex to split text into math delimiters: $$...$$, $...$, \[...\], \(...\)
-  const regex = /(\$\$.*?\$\$|\$.*?\$|\\\[.*?\\\]|\\\(.*?\\\))/gs;
+  const regex = /(\$\$[\s\S]*?\$\$|\$[\s\S]*?\$|\\\[[\s\S]*?\\\]|\\\([\s\S]*?\\\))/g;
   const parts = text.split(regex);
 
   return (

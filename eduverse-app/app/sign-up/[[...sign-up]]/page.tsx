@@ -69,7 +69,7 @@ export default function SignUpPage() {
               colorInputBackground: '#090D16',
               colorInputText: '#FFFFFF',
               borderRadius: '0.75rem',
-            },
+            } as any,
             elements: {
               rootBox: 'mx-auto',
               card: 'bg-slate-900 border-3 border-white shadow-[6px_6px_0px_0px_rgba(255,255,255,1)] rounded-2xl p-6 sm:p-8',
@@ -88,7 +88,7 @@ export default function SignUpPage() {
               footerActionLink: 'text-teal-400 hover:text-teal-300 font-black text-xs underline underline-offset-4',
               footerActionText: 'text-xs font-semibold text-slate-400',
             },
-          }}
+          } as any}
         />
       </div>
 

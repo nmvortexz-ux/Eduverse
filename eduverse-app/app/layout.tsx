@@ -28,7 +28,7 @@ export default function RootLayout({
           colorInputBackground: '#020617',  // Slate-950 input background
           colorInputText: '#FFFFFF',        // Pure white input text
           borderRadius: '0.75rem',
-        },
+        } as any,
         elements: {
           // Outer Modal Card with distinct outline
           card: 'bg-slate-900 border-2 border-slate-600 shadow-[0_10px_30px_rgba(0,0,0,0.8)] rounded-2xl p-6',
@@ -91,7 +91,7 @@ export default function RootLayout({
           accordionTriggerButton: '!text-white font-bold hover:!text-teal-300',
           badge: '!text-slate-300 bg-slate-800 border border-slate-700',
         },
-      }}
+      } as any}
     >
       <html lang="en" className="dark">
         <head>
