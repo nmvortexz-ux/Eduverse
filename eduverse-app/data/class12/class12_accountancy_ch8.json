@@ -1,0 +1,137 @@
+[
+  {
+    "text": "What is the primary purpose of Schedule III of the Companies Act 2013?",
+    "options": [
+      "To provide a framework for financial reporting",
+      "To regulate the functioning of companies",
+      "To specify the accounting standards for companies",
+      "To determine the tax liability of companies"
+    ],
+    "correctAnswer": "To provide a framework for financial reporting",
+    "explanation": "Schedule III of the Companies Act 2013 provides a framework for financial reporting by companies. It specifies the format and content of the financial statements, including the balance sheet and statement of profit and loss.",
+    "difficulty": "Easy",
+    "class": "Class 12",
+    "subject": "Accountancy",
+    "chapter": "Ch 8: Financial Statements of a Company"
+  },
+  {
+    "text": "Which of the following is a major head of the balance sheet?",
+    "options": [
+      "Assets",
+      "Liabilities",
+      "Equity",
+      "Revenue"
+    ],
+    "correctAnswer": "Assets",
+    "explanation": "The balance sheet is divided into three major heads: assets, liabilities, and equity. Assets represent the resources owned by the company, liabilities represent the obligations of the company, and equity represents the ownership interest in the company.",
+    "difficulty": "Easy",
+    "class": "Class 12",
+    "subject": "Accountancy",
+    "chapter": "Ch 8: Financial Statements of a Company"
+  },
+  {
+    "text": "What is the difference between a current asset and a non-current asset?",
+    "options": [
+      "Current assets are assets that are expected to be converted into cash within one year, while non-current assets are assets that are expected to be held for more than one year.",
+      "Current assets are assets that are expected to be held for more than one year, while non-current assets are assets that are expected to be converted into cash within one year.",
+      "Current assets are assets that are expected to be converted into cash within one year, while non-current assets are assets that are expected to be held for more than one year.",
+      "Current assets are assets that are expected to be held for more than one year, while non-current assets are assets that are expected to be converted into cash within one year."
+    ],
+    "correctAnswer": "Current assets are assets that are expected to be converted into cash within one year, while non-current assets are assets that are expected to be held for more than one year.",
+    "explanation": "Current assets are assets that are expected to be converted into cash within one year, such as accounts receivable and inventory. Non-current assets are assets that are expected to be held for more than one year, such as property, plant, and equipment.",
+    "difficulty": "Medium",
+    "class": "Class 12",
+    "subject": "Accountancy",
+    "chapter": "Ch 8: Financial Statements of a Company"
+  },
+  {
+    "text": "What is the purpose of the statement of profit and loss?",
+    "options": [
+      "To show the financial position of the company",
+      "To show the financial performance of the company",
+      "To show the cash flows of the company",
+      "To show the changes in equity of the company"
+    ],
+    "correctAnswer": "To show the financial performance of the company",
+    "explanation": "The statement of profit and loss shows the financial performance of the company over a specific period of time. It includes revenues, expenses, and profits or losses.",
+    "difficulty": "Easy",
+    "class": "Class 12",
+    "subject": "Accountancy",
+    "chapter": "Ch 8: Financial Statements of a Company"
+  },
+  {
+    "text": "What is the difference between a capital reserve and a revenue reserve?",
+    "options": [
+      "A capital reserve is a reserve that is created from the profits of the company, while a revenue reserve is a reserve that is created from the sale of assets.",
+      "A capital reserve is a reserve that is created from the sale of assets, while a revenue reserve is a reserve that is created from the profits of the company.",
+      "A capital reserve is a reserve that is created from the profits of the company, while a revenue reserve is a reserve that is created from the sale of assets.",
+      "A capital reserve is a reserve that is created from the sale of assets, while a revenue reserve is a reserve that is created from the profits of the company."
+    ],
+    "correctAnswer": "A capital reserve is a reserve that is created from the profits of the company, while a revenue reserve is a reserve that is created from the profits of the company.",
+    "explanation": "A capital reserve is a reserve that is created from the profits of the company and is not distributed to shareholders. A revenue reserve is a reserve that is created from the profits of the company and is distributed to shareholders.",
+    "difficulty": "Medium",
+    "class": "Class 12",
+    "subject": "Accountancy",
+    "chapter": "Ch 8: Financial Statements of a Company"
+  },
+  {
+    "text": "What is the formula for calculating the return on investment (ROI)?",
+    "options": [
+      "ROI = Net Profit / Total Assets",
+      "ROI = Net Profit / Total Revenue",
+      "ROI = Net Profit / Capital Employed",
+      "ROI = Net Profit / Total Liabilities"
+    ],
+    "correctAnswer": "ROI = Net Profit / Capital Employed",
+    "explanation": "The return on investment (ROI) is a financial metric that measures the return on investment in terms of net profit. The formula for calculating ROI is: ROI = Net Profit / Capital Employed.",
+    "difficulty": "Medium",
+    "class": "Class 12",
+    "subject": "Accountancy",
+    "chapter": "Ch 8: Financial Statements of a Company"
+  },
+  {
+    "text": "What is the difference between a current liability and a non-current liability?",
+    "options": [
+      "A current liability is a liability that is expected to be settled within one year, while a non-current liability is a liability that is expected to be settled after one year.",
+      "A current liability is a liability that is expected to be settled after one year, while a non-current liability is a liability that is expected to be settled within one year.",
+      "A current liability is a liability that is expected to be settled within one year, while a non-current liability is a liability that is expected to be settled after one year.",
+      "A current liability is a liability that is expected to be settled after one year, while a non-current liability is a liability that is expected to be settled within one year."
+    ],
+    "correctAnswer": "A current liability is a liability that is expected to be settled within one year, while a non-current liability is a liability that is expected to be settled after one year.",
+    "explanation": "A current liability is a liability that is expected to be settled within one year, such as accounts payable and taxes payable. A non-current liability is a liability that is expected to be settled after one year, such as long-term loans.",
+    "difficulty": "Medium",
+    "class": "Class 12",
+    "subject": "Accountancy",
+    "chapter": "Ch 8: Financial Statements of a Company"
+  },
+  {
+    "text": "What is the purpose of the equity section of the balance sheet?",
+    "options": [
+      "To show the financial position of the company",
+      "To show the financial performance of the company",
+      "To show the changes in equity of the company",
+      "To show the ownership interest in the company"
+    ],
+    "correctAnswer": "To show the ownership interest in the company",
+    "explanation": "The equity section of the balance sheet shows the ownership interest in the company, including the share capital, reserves, and retained earnings.",
+    "difficulty": "Easy",
+    "class": "Class 12",
+    "subject": "Accountancy",
+    "chapter": "Ch 8: Financial Statements of a Company"
+  },
+  {
+    "text": "What is the difference between a share capital and a reserve?",
+    "options": [
+      "A share capital is a reserve that is created from the sale of shares, while a reserve is a reserve that is created from the profits of the company.",
+      "A share capital is a reserve that is created from the profits of the company, while a reserve is a reserve that is created from the sale of shares.",
+      "A share capital is a reserve that is created from the sale of shares, while a reserve is a reserve that is created from the profits of the company.",
+      "A share capital is a reserve that is created from the profits of the company, while a reserve is a reserve that is created from the sale of shares."
+    ],
+    "correctAnswer": "A share capital is a reserve that is created from the sale of shares, while a reserve is a reserve that is created from the profits of the company.",
+    "explanation": "A share capital is a reserve that is created from the sale of shares, while a reserve is a reserve that is created from the profits of the company.",
+    "difficulty": "Medium",
+    "class": "Class 12",
+    "subject": "Accountancy",
+    "chapter": "Ch 8: Financial Statements of a Company"
+  }
+]

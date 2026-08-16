@@ -1,0 +1,317 @@
+[
+  {
+    "text": "What is the primary purpose of preparing a Trading Account?",
+    "options": [
+      "To calculate the Gross Profit",
+      "To calculate the Net Profit",
+      "To calculate the Cost of Goods Sold",
+      "To calculate the Balance Sheet"
+    ],
+    "correctAnswer": "To calculate the Gross Profit",
+    "explanation": "The Trading Account is prepared to calculate the Gross Profit, which is the difference between the Revenue from Sales and the Cost of Goods Sold. This is an important step in preparing the Financial Statements, as it helps to determine the profitability of the business.",
+    "difficulty": "Easy",
+    "class": "Class 11",
+    "subject": "Accountancy",
+    "chapter": "Ch 8: Financial Statements - I"
+  },
+  {
+    "text": "Which of the following is a Current Asset?",
+    "options": [
+      "Land and Building",
+      "Machinery and Equipment",
+      "Inventory",
+      "Goodwill"
+    ],
+    "correctAnswer": "Inventory",
+    "explanation": "Current Assets are assets that are expected to be converted into cash within one year or within the company's operating cycle, whichever is longer. Inventory is a type of Current Asset, as it is expected to be sold and converted into cash within a short period of time.",
+    "difficulty": "Easy",
+    "class": "Class 11",
+    "subject": "Accountancy",
+    "chapter": "Ch 8: Financial Statements - I"
+  },
+  {
+    "text": "What is the formula to calculate the Cost of Goods Sold?",
+    "options": [
+      "$\text{COGS} = \text{Opening Stock} + \text{Purchases} - \text{Closing Stock}$",
+      "$\text{COGS} = \text{Opening Stock} - \text{Purchases} + \text{Closing Stock}$",
+      "$\text{COGS} = \text{Opening Stock} + \text{Purchases} + \text{Closing Stock}$",
+      "$\text{COGS} = \text{Opening Stock} - \text{Purchases} - \text{Closing Stock}$"
+    ],
+    "correctAnswer": "$\text{COGS} = \text{Opening Stock} + \text{Purchases} - \text{Closing Stock}$",
+    "explanation": "The Cost of Goods Sold (COGS) is calculated by adding the Opening Stock and Purchases, and then subtracting the Closing Stock. This formula is used to determine the total cost of the goods that were sold during the period.",
+    "difficulty": "Medium",
+    "class": "Class 11",
+    "subject": "Accountancy",
+    "chapter": "Ch 8: Financial Statements - I"
+  },
+  {
+    "text": "What is the purpose of preparing a Profit and Loss Account?",
+    "options": [
+      "To calculate the Gross Profit",
+      "To calculate the Net Profit",
+      "To calculate the Cost of Goods Sold",
+      "To calculate the Balance Sheet"
+    ],
+    "correctAnswer": "To calculate the Net Profit",
+    "explanation": "The Profit and Loss Account is prepared to calculate the Net Profit, which is the difference between the Revenue from Sales and the Total Expenses. This includes the Cost of Goods Sold, as well as other expenses such as Salaries, Rent, and Utilities.",
+    "difficulty": "Easy",
+    "class": "Class 11",
+    "subject": "Accountancy",
+    "chapter": "Ch 8: Financial Statements - I"
+  },
+  {
+    "text": "Which of the following is a Non-Current Liability?",
+    "options": [
+      "Accounts Payable",
+      "Salaries Payable",
+      "Long-term Loan",
+      "Rent Payable"
+    ],
+    "correctAnswer": "Long-term Loan",
+    "explanation": "Non-Current Liabilities are liabilities that are not expected to be paid within one year or within the company's operating cycle, whichever is longer. A Long-term Loan is a type of Non-Current Liability, as it is not expected to be paid back within a short period of time.",
+    "difficulty": "Easy",
+    "class": "Class 11",
+    "subject": "Accountancy",
+    "chapter": "Ch 8: Financial Statements - I"
+  },
+  {
+    "text": "What is the formula to calculate the Gross Profit?",
+    "options": [
+      "$\text{Gross Profit} = \text{Revenue from Sales} - \text{COGS}$",
+      "$\text{Gross Profit} = \text{Revenue from Sales} + \text{COGS}$",
+      "$\text{Gross Profit} = \text{Revenue from Sales} \times \text{COGS}$",
+      "$\text{Gross Profit} = \text{Revenue from Sales} div \text{COGS}$"
+    ],
+    "correctAnswer": "$\text{Gross Profit} = \text{Revenue from Sales} - \text{COGS}$",
+    "explanation": "The Gross Profit is calculated by subtracting the Cost of Goods Sold (COGS) from the Revenue from Sales. This formula is used to determine the profit that the company has made from its sales, before taking into account other expenses.",
+    "difficulty": "Medium",
+    "class": "Class 11",
+    "subject": "Accountancy",
+    "chapter": "Ch 8: Financial Statements - I"
+  },
+  {
+    "text": "What is the purpose of preparing a Balance Sheet?",
+    "options": [
+      "To calculate the Gross Profit",
+      "To calculate the Net Profit",
+      "To calculate the Financial Position of the company",
+      "To calculate the Cost of Goods Sold"
+    ],
+    "correctAnswer": "To calculate the Financial Position of the company",
+    "explanation": "The Balance Sheet is prepared to calculate the Financial Position of the company, which includes the company's Assets, Liabilities, and Equity. This provides a snapshot of the company's financial situation at a particular point in time.",
+    "difficulty": "Easy",
+    "class": "Class 11",
+    "subject": "Accountancy",
+    "chapter": "Ch 8: Financial Statements - I"
+  },
+  {
+    "text": "Which of the following is a Current Asset?",
+    "options": [
+      "Land and Building",
+      "Machinery and Equipment",
+      "Accounts Receivable",
+      "Goodwill"
+    ],
+    "correctAnswer": "Accounts Receivable",
+    "explanation": "Current Assets are assets that are expected to be converted into cash within one year or within the company's operating cycle, whichever is longer. Accounts Receivable is a type of Current Asset, as it is expected to be collected and converted into cash within a short period of time.",
+    "difficulty": "Easy",
+    "class": "Class 11",
+    "subject": "Accountancy",
+    "chapter": "Ch 8: Financial Statements - I"
+  },
+  {
+    "text": "What is the formula to calculate the Net Profit?",
+    "options": [
+      "$\text{Net Profit} = \text{Gross Profit} - \text{Total Expenses}$",
+      "$\text{Net Profit} = \text{Gross Profit} + \text{Total Expenses}$",
+      "$\text{Net Profit} = \text{Gross Profit} \times \text{Total Expenses}$",
+      "$\text{Net Profit} = \text{Gross Profit} div \text{Total Expenses}$"
+    ],
+    "correctAnswer": "$\text{Net Profit} = \text{Gross Profit} - \text{Total Expenses}$",
+    "explanation": "The Net Profit is calculated by subtracting the Total Expenses from the Gross Profit. This formula is used to determine the profit that the company has made after taking into account all of its expenses.",
+    "difficulty": "Medium",
+    "class": "Class 11",
+    "subject": "Accountancy",
+    "chapter": "Ch 8: Financial Statements - I"
+  },
+  {
+    "text": "What is the purpose of classifying Assets and Liabilities into Current and Non-Current?",
+    "options": [
+      "To calculate the Gross Profit",
+      "To calculate the Net Profit",
+      "To provide a clear picture of the company's financial position",
+      "To calculate the Cost of Goods Sold"
+    ],
+    "correctAnswer": "To provide a clear picture of the company's financial position",
+    "explanation": "Classifying Assets and Liabilities into Current and Non-Current provides a clear picture of the company's financial position, as it separates the short-term and long-term components of the Balance Sheet. This helps to identify the company's liquidity and solvency.",
+    "difficulty": "Easy",
+    "class": "Class 11",
+    "subject": "Accountancy",
+    "chapter": "Ch 8: Financial Statements - I"
+  },
+  {
+    "text": "Which of the following is a Non-Current Asset?",
+    "options": [
+      "Inventory",
+      "Accounts Receivable",
+      "Land and Building",
+      "Salaries Payable"
+    ],
+    "correctAnswer": "Land and Building",
+    "explanation": "Non-Current Assets are assets that are not expected to be converted into cash within one year or within the company's operating cycle, whichever is longer. Land and Building is a type of Non-Current Asset, as it is not expected to be sold and converted into cash within a short period of time.",
+    "difficulty": "Easy",
+    "class": "Class 11",
+    "subject": "Accountancy",
+    "chapter": "Ch 8: Financial Statements - I"
+  },
+  {
+    "text": "What is the formula to calculate the Total Expenses?",
+    "options": [
+      "$\text{Total Expenses} = \text{Salaries} + \text{Rent} + \text{Utilities}$",
+      "$\text{Total Expenses} = \text{Salaries} - \text{Rent} + \text{Utilities}$",
+      "$\text{Total Expenses} = \text{Salaries} \times \text{Rent} + \text{Utilities}$",
+      "$\text{Total Expenses} = \text{Salaries} div \text{Rent} + \text{Utilities}$"
+    ],
+    "correctAnswer": "$\text{Total Expenses} = \text{Salaries} + \text{Rent} + \text{Utilities}$",
+    "explanation": "The Total Expenses is calculated by adding up all of the company's expenses, including Salaries, Rent, and Utilities. This formula is used to determine the total amount of expenses that the company has incurred during the period.",
+    "difficulty": "Medium",
+    "class": "Class 11",
+    "subject": "Accountancy",
+    "chapter": "Ch 8: Financial Statements - I"
+  },
+  {
+    "text": "What is the purpose of preparing a Trading Account?",
+    "options": [
+      "To calculate the Net Profit",
+      "To calculate the Gross Profit",
+      "To calculate the Cost of Goods Sold",
+      "To calculate the Balance Sheet"
+    ],
+    "correctAnswer": "To calculate the Gross Profit",
+    "explanation": "The Trading Account is prepared to calculate the Gross Profit, which is the difference between the Revenue from Sales and the Cost of Goods Sold. This is an important step in preparing the Financial Statements, as it helps to determine the profitability of the business.",
+    "difficulty": "Easy",
+    "class": "Class 11",
+    "subject": "Accountancy",
+    "chapter": "Ch 8: Financial Statements - I"
+  },
+  {
+    "text": "Which of the following is a Current Liability?",
+    "options": [
+      "Long-term Loan",
+      "Accounts Payable",
+      "Salaries Payable",
+      "Goodwill"
+    ],
+    "correctAnswer": "Accounts Payable",
+    "explanation": "Current Liabilities are liabilities that are expected to be paid within one year or within the company's operating cycle, whichever is longer. Accounts Payable is a type of Current Liability, as it is expected to be paid within a short period of time.",
+    "difficulty": "Easy",
+    "class": "Class 11",
+    "subject": "Accountancy",
+    "chapter": "Ch 8: Financial Statements - I"
+  },
+  {
+    "text": "What is the formula to calculate the Cost of Goods Sold?",
+    "options": [
+      "$\text{COGS} = \text{Opening Stock} + \text{Purchases} - \text{Closing Stock}$",
+      "$\text{COGS} = \text{Opening Stock} - \text{Purchases} + \text{Closing Stock}$",
+      "$\text{COGS} = \text{Opening Stock} + \text{Purchases} + \text{Closing Stock}$",
+      "$\text{COGS} = \text{Opening Stock} - \text{Purchases} - \text{Closing Stock}$"
+    ],
+    "correctAnswer": "$\text{COGS} = \text{Opening Stock} + \text{Purchases} - \text{Closing Stock}$",
+    "explanation": "The Cost of Goods Sold (COGS) is calculated by adding the Opening Stock and Purchases, and then subtracting the Closing Stock. This formula is used to determine the total cost of the goods that were sold during the period.",
+    "difficulty": "Medium",
+    "class": "Class 11",
+    "subject": "Accountancy",
+    "chapter": "Ch 8: Financial Statements - I"
+  },
+  {
+    "text": "What is the purpose of preparing a Profit and Loss Account?",
+    "options": [
+      "To calculate the Gross Profit",
+      "To calculate the Net Profit",
+      "To calculate the Cost of Goods Sold",
+      "To calculate the Balance Sheet"
+    ],
+    "correctAnswer": "To calculate the Net Profit",
+    "explanation": "The Profit and Loss Account is prepared to calculate the Net Profit, which is the difference between the Revenue from Sales and the Total Expenses. This includes the Cost of Goods Sold, as well as other expenses such as Salaries, Rent, and Utilities.",
+    "difficulty": "Easy",
+    "class": "Class 11",
+    "subject": "Accountancy",
+    "chapter": "Ch 8: Financial Statements - I"
+  },
+  {
+    "text": "Which of the following is a Non-Current Asset?",
+    "options": [
+      "Inventory",
+      "Accounts Receivable",
+      "Machinery and Equipment",
+      "Salaries Payable"
+    ],
+    "correctAnswer": "Machinery and Equipment",
+    "explanation": "Non-Current Assets are assets that are not expected to be converted into cash within one year or within the company's operating cycle, whichever is longer. Machinery and Equipment is a type of Non-Current Asset, as it is not expected to be sold and converted into cash within a short period of time.",
+    "difficulty": "Easy",
+    "class": "Class 11",
+    "subject": "Accountancy",
+    "chapter": "Ch 8: Financial Statements - I"
+  },
+  {
+    "text": "What is the formula to calculate the Total Expenses?",
+    "options": [
+      "$\text{Total Expenses} = \text{Salaries} + \text{Rent} + \text{Utilities}$",
+      "$\text{Total Expenses} = \text{Salaries} - \text{Rent} + \text{Utilities}$",
+      "$\text{Total Expenses} = \text{Salaries} \times \text{Rent} + \text{Utilities}$",
+      "$\text{Total Expenses} = \text{Salaries} div \text{Rent} + \text{Utilities}$"
+    ],
+    "correctAnswer": "$\text{Total Expenses} = \text{Salaries} + \text{Rent} + \text{Utilities}$",
+    "explanation": "The Total Expenses is calculated by adding up all of the company's expenses, including Salaries, Rent, and Utilities. This formula is used to determine the total amount of expenses that the company has incurred during the period.",
+    "difficulty": "Medium",
+    "class": "Class 11",
+    "subject": "Accountancy",
+    "chapter": "Ch 8: Financial Statements - I"
+  },
+  {
+    "text": "What is the purpose of preparing a Balance Sheet?",
+    "options": [
+      "To calculate the Gross Profit",
+      "To calculate the Net Profit",
+      "To calculate the Financial Position of the company",
+      "To calculate the Cost of Goods Sold"
+    ],
+    "correctAnswer": "To calculate the Financial Position of the company",
+    "explanation": "The Balance Sheet is prepared to calculate the Financial Position of the company, which includes the company's Assets, Liabilities, and Equity. This provides a snapshot of the company's financial situation at a particular point in time.",
+    "difficulty": "Easy",
+    "class": "Class 11",
+    "subject": "Accountancy",
+    "chapter": "Ch 8: Financial Statements - I"
+  },
+  {
+    "text": "Which of the following is a Current Liability?",
+    "options": [
+      "Long-term Loan",
+      "Accounts Payable",
+      "Salaries Payable",
+      "Goodwill"
+    ],
+    "correctAnswer": "Salaries Payable",
+    "explanation": "Current Liabilities are liabilities that are expected to be paid within one year or within the company's operating cycle, whichever is longer. Salaries Payable is a type of Current Liability, as it is expected to be paid within a short period of time.",
+    "difficulty": "Easy",
+    "class": "Class 11",
+    "subject": "Accountancy",
+    "chapter": "Ch 8: Financial Statements - I"
+  },
+  {
+    "text": "What is the formula to calculate the Net Profit?",
+    "options": [
+      "$\text{Net Profit} = \text{Gross Profit} - \text{Total Expenses}$",
+      "$\text{Net Profit} = \text{Gross Profit} + \text{Total Expenses}$",
+      "$\text{Net Profit} = \text{Gross Profit} \times \text{Total Expenses}$",
+      "$\text{Net Profit} = \text{Gross Profit} div \text{Total Expenses}$"
+    ],
+    "correctAnswer": "$\text{Net Profit} = \text{Gross Profit} - \text{Total Expenses}$",
+    "explanation": "The Net Profit is calculated by subtracting the Total Expenses from the Gross Profit. This formula is used to determine the profit that the company has made after taking into account all of its expenses.",
+    "difficulty": "Medium",
+    "class": "Class 11",
+    "subject": "Accountancy",
+    "chapter": "Ch 8: Financial Statements - I"
+  }
+]

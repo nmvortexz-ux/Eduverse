@@ -1,0 +1,327 @@
+[
+  {
+    "class": "Class 9",
+    "subject": "Science",
+    "difficulty": "EASY",
+    "text": "What is the physical state of water at $100^\\circ\\text{C}$ at normal atmospheric pressure?",
+    "explanation": "At its boiling point of $100^\\circ\\text{C}$, water exists in transition between liquid and gaseous (steam) states.",
+    "options": [
+      { "text": "Solid only", "isCorrect": false },
+      { "text": "Liquid only", "isCorrect": false },
+      { "text": "Liquid and gas both", "isCorrect": true },
+      { "text": "Solid and liquid both", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 9",
+    "subject": "Science",
+    "difficulty": "EASY",
+    "text": "Which cell organelle is commonly referred to as the 'powerhouse of the cell'?",
+    "explanation": "Mitochondria are called the powerhouses of the cell because they produce energy in the form of ATP (Adenosine Triphosphate) molecules.",
+    "options": [
+      { "text": "Golgi apparatus", "isCorrect": false },
+      { "text": "Mitochondria", "isCorrect": true },
+      { "text": "Lysosomes", "isCorrect": false },
+      { "text": "Ribosomes", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 9",
+    "subject": "Science",
+    "difficulty": "EASY",
+    "text": "What is the SI unit of acceleration?",
+    "explanation": "Acceleration is defined as the rate of change of velocity per unit time, so its SI unit is $\\text{m/s}^2$ or $\\text{m s}^{-2}$.",
+    "options": [
+      { "text": "$\\text{m/s}$", "isCorrect": false },
+      { "text": "$\\text{m s}^{-2}$", "isCorrect": true },
+      { "text": "$\\text{m s}$", "isCorrect": false },
+      { "text": "$\\text{kg m/s}$", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 9",
+    "subject": "Science",
+    "difficulty": "EASY",
+    "text": "The process of conversion of a liquid into its vapor state at any temperature below its boiling point is known as:",
+    "explanation": "Evaporation is a surface phenomenon where liquid particles convert into vapor below the boiling point.",
+    "options": [
+      { "text": "Boiling", "isCorrect": false },
+      { "text": "Sublimation", "isCorrect": false },
+      { "text": "Evaporation", "isCorrect": true },
+      { "text": "Condensation", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 9",
+    "subject": "Science",
+    "difficulty": "EASY",
+    "text": "Who discovered the cell for the first time in 1665 by observing a thin slice of cork?",
+    "explanation": "Robert Hooke discovered cells in 1665 when he observed a slice of cork under a self-designed primitive microscope.",
+    "options": [
+      { "text": "Leeuwenhoek", "isCorrect": false },
+      { "text": "Robert Hooke", "isCorrect": true },
+      { "text": "Robert Brown", "isCorrect": false },
+      { "text": "Purkinje", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 9",
+    "subject": "Science",
+    "difficulty": "EASY",
+    "text": "A body is said to be in uniform motion when it travels:",
+    "explanation": "Uniform motion implies that the velocity remains constant, meaning the body covers equal distances in equal intervals of time.",
+    "options": [
+      { "text": "Unequal distances in equal intervals of time", "isCorrect": false },
+      { "text": "Equal distances in equal intervals of time", "isCorrect": true },
+      { "text": "Equal distances in unequal intervals of time", "isCorrect": false },
+      { "text": "Variable distances in constant speed", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 9",
+    "subject": "Science",
+    "difficulty": "MEDIUM",
+    "text": "What is the chemical representation of 'dry ice'?",
+    "explanation": "Dry ice is the solid state of Carbon Dioxide gas, represented as solid $\\text{CO}_2$.",
+    "options": [
+      { "text": "Solid $\\text{H}_2\\text{O}$", "isCorrect": false },
+      { "text": "Solid $\\text{CO}_2$", "isCorrect": true },
+      { "text": "Liquid $\\text{N}_2$", "isCorrect": false },
+      { "text": "Solid $\\text{CH}_4$", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 9",
+    "subject": "Science",
+    "difficulty": "MEDIUM",
+    "text": "Which cellular organelle plays a primary role in protein synthesis?",
+    "explanation": "Ribosomes are the site of protein synthesis in cells; they can be free in cytoplasm or attached to the rough endoplasmic reticulum.",
+    "options": [
+      { "text": "Lysosomes", "isCorrect": false },
+      { "text": "Ribosomes", "isCorrect": true },
+      { "text": "Vacuoles", "isCorrect": false },
+      { "text": "Centrosomes", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 9",
+    "subject": "Science",
+    "difficulty": "MEDIUM",
+    "text": "A car accelerates from rest and achieves a speed of $18\\text{ km/h}$ in $5\\text{ s}$. Find its acceleration.",
+    "explanation": "Initial velocity $u = 0$. Final velocity $v = 18\\text{ km/h} = 18 \\times \\frac{5}{18} = 5\\text{ m/s}$. Using $v = u + at$, we get $5 = 0 + a(5) \\Rightarrow a = 1\\text{ m/s}^2$.",
+    "options": [
+      { "text": "$2\\text{ m/s}^2$", "isCorrect": false },
+      { "text": "$1\\text{ m/s}^2$", "isCorrect": true },
+      { "text": "$0.5\\text{ m/s}^2$", "isCorrect": false },
+      { "text": "$3.6\\text{ m/s}^2$", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 9",
+    "subject": "Science",
+    "difficulty": "MEDIUM",
+    "text": "During the process of evaporation, how does the temperature of the surrounding environment change, and why?",
+    "explanation": "Evaporation causes cooling because the liquid particles absorb heat energy from the surroundings to change state.",
+    "options": [
+      { "text": "It increases because particles release heat", "isCorrect": false },
+      { "text": "It decreases because particles absorb heat from surroundings", "isCorrect": true },
+      { "text": "It remains unchanged because it is a physical process", "isCorrect": false },
+      { "text": "It fluctuates depending on the chemical composition of the liquid", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 9",
+    "subject": "Science",
+    "difficulty": "MEDIUM",
+    "text": "If a plant cell is placed in a hypertonic solution, what will be the result?",
+    "explanation": "In a hypertonic solution, water moves out of the cell via osmosis, causing the cytoplasm to shrink away from the cell wall (plasmolysis).",
+    "options": [
+      { "text": "The cell will swell and burst", "isCorrect": false },
+      { "text": "The cell will shrink and undergo plasmolysis", "isCorrect": true },
+      { "text": "No change will take place", "isCorrect": false },
+      { "text": "The cell will start dividing immediately", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 9",
+    "subject": "Science",
+    "difficulty": "MEDIUM",
+    "text": "What physical quantity does the area under a velocity-time graph represent?",
+    "explanation": "The product of velocity and time represents displacement, which corresponds to the area under the velocity-time curve.",
+    "options": [
+      { "text": "Acceleration", "isCorrect": false },
+      { "text": "Displacement", "isCorrect": true },
+      { "text": "Speed", "isCorrect": false },
+      { "text": "Force", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 9",
+    "subject": "Science",
+    "difficulty": "MEDIUM",
+    "text": "What is the equivalent temperature in Kelvin for a room temperature of $27^\\circ\\text{C}$?",
+    "explanation": "To convert Celsius to Kelvin, we use the formula $T(\\text{K}) = t(^\\circ\\text{C}) + 273$. Hence, $27 + 273 = 300\\text{ K}$.",
+    "options": [
+      { "text": "$273\\text{ K}$", "isCorrect": false },
+      { "text": "$300\\text{ K}$", "isCorrect": true },
+      { "text": "$246\\text{ K}$", "isCorrect": false },
+      { "text": "$373\\text{ K}$", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 9",
+    "subject": "Science",
+    "difficulty": "MEDIUM",
+    "text": "Which plant plastid contains the pigment chlorophyll and is essential for photosynthesis?",
+    "explanation": "Chloroplasts are green-colored plastids containing chlorophyll, which trap light energy to perform photosynthesis.",
+    "options": [
+      { "text": "Leucoplast", "isCorrect": false },
+      { "text": "Chloroplast", "isCorrect": true },
+      { "text": "Chromoplast", "isCorrect": false },
+      { "text": "Amyloplast", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 9",
+    "subject": "Science",
+    "difficulty": "MEDIUM",
+    "text": "An athlete completes half a round of a circular track of radius $R$. What is the magnitude of their displacement?",
+    "explanation": "Displacement is the shortest distance between the initial and final positions. For half a circle, it is equal to the diameter, which is $2R$.",
+    "options": [
+      { "text": "$\\pi R$", "isCorrect": false },
+      { "text": "$2R$", "isCorrect": true },
+      { "text": "$2\\pi R$", "isCorrect": false },
+      { "text": "Zero", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 9",
+    "subject": "Science",
+    "difficulty": "HARD",
+    "text": "Why does water at $373\\text{ K}$ ($100^\\circ\\text{C}$) have less energy compared to steam at the same temperature?",
+    "explanation": "Steam has extra energy known as the latent heat of vaporization, which is absorbed during the transition from liquid to gas.",
+    "options": [
+      { "text": "Steam has higher density than water", "isCorrect": false },
+      { "text": "Steam contains extra latent heat of vaporization", "isCorrect": true },
+      { "text": "Water molecules move faster than steam molecules", "isCorrect": false },
+      { "text": "Steam has a lower kinetic energy than boiling water", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 9",
+    "subject": "Science",
+    "difficulty": "HARD",
+    "text": "Why is the plasma membrane of a cell called a selectively permeable membrane?",
+    "explanation": "The plasma membrane regulates entry and exit, allowing only specific molecules to pass through while restricting others.",
+    "options": [
+      { "text": "It permits the passage of all substances through it", "isCorrect": false },
+      { "text": "It allows specific substances to pass while preventing the entry of others", "isCorrect": true },
+      { "text": "It is completely impermeable to water molecules", "isCorrect": false },
+      { "text": "It only allows waste materials to leave the cell", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 9",
+    "subject": "Science",
+    "difficulty": "HARD",
+    "text": "An object is projected vertically upward and reaches a maximum height $h$. Find its initial velocity $u$.",
+    "explanation": "At maximum height, final velocity $v = 0$. Using the equation $v^2 - u^2 = -2gh$, we get $0 - u^2 = -2gh \\Rightarrow u = \\sqrt{2gh}$.",
+    "options": [
+      { "text": "$u = gh$", "isCorrect": false },
+      { "text": "$u = \\sqrt{2gh}$", "isCorrect": true },
+      { "text": "$u = 2gh$", "isCorrect": false },
+      { "text": "$u = \\sqrt{gh}$", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 9",
+    "subject": "Science",
+    "difficulty": "HARD",
+    "text": "Camphor disappears when heated without leaving any liquid residue. What is this phenomenon called?",
+    "explanation": "Sublimation is the direct transition of a substance from solid to gas phase without passing through the liquid phase.",
+    "options": [
+      { "text": "Evaporation", "isCorrect": false },
+      { "text": "Sublimation", "isCorrect": true },
+      { "text": "Vaporization", "isCorrect": false },
+      { "text": "Fusion", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 9",
+    "subject": "Science",
+    "difficulty": "HARD",
+    "text": "Why are lysosomes described as the 'suicide bags' of a cell?",
+    "explanation": "Lysosomes contain powerful digestive enzymes; if the cell gets damaged, they can burst and digest their own cell.",
+    "options": [
+      { "text": "They produce energy and destroy surrounding foreign particles", "isCorrect": false },
+      { "text": "Their digestive enzymes can digest the cell itself if it gets damaged", "isCorrect": true },
+      { "text": "They cause programmed cell division during growth", "isCorrect": false },
+      { "text": "They store toxic waste products of the cell", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 9",
+    "subject": "Science",
+    "difficulty": "HARD",
+    "text": "A train starting from rest attains a velocity of $72\\text{ km/h}$ in $5\\text{ minutes}$. Assuming uniform acceleration, calculate the distance covered by the train.",
+    "explanation": "Here $u = 0$, $v = 72\\text{ km/h} = 20\\text{ m/s}$, and $t = 300\\text{ s}$. Acceleration $a = \\frac{20 - 0}{300} = \\frac{1}{15}\\text{ m/s}^2$. Distance $s = ut + \\frac{1}{2}at^2 = 0 + \\frac{1}{2} \\times \\frac{1}{15} \\times 90000 = 3000\\text{ m} = 3\\text{ km}$.",
+    "options": [
+      { "text": "$1.5\\text{ km}$", "isCorrect": false },
+      { "text": "$3\\text{ km}$", "isCorrect": true },
+      { "text": "$6\\text{ km}$", "isCorrect": false },
+      { "text": "$4.5\\text{ km}$", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 9",
+    "subject": "Science",
+    "difficulty": "VERY HARD",
+    "text": "What happens to the rate of diffusion of gas particles when the temperature increases, and what is the thermodynamic explanation?",
+    "explanation": "As temperature increases, the kinetic energy of gas molecules increases, causing them to move faster and diffuse at a higher rate.",
+    "options": [
+      { "text": "It decreases because molecules experience higher intermolecular attraction", "isCorrect": false },
+      { "text": "It increases because the kinetic energy of the particles increases with temperature", "isCorrect": true },
+      { "text": "It remains unchanged since diffusion only depends on pressure gradient", "isCorrect": false },
+      { "text": "It first decreases and then increases exponentially as density changes", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 9",
+    "subject": "Science",
+    "difficulty": "VERY HARD",
+    "text": "How is the Golgi apparatus structurally and functionally linked to the synthesis and maturation of lysosomes?",
+    "explanation": "Golgi apparatus cisternae receive enzymes synthesized by the rough endoplasmic reticulum, modify, concentrate, and pack them into vesicles that bud off as lysosomes.",
+    "options": [
+      { "text": "The Golgi apparatus directly synthesizes the hydrolytic enzymes of the lysosomes", "isCorrect": false },
+      { "text": "It modifies, packages, and buds off lysosomal enzymes received from the endoplasmic reticulum", "isCorrect": true },
+      { "text": "It acts as a storage vacuole before the mitochondria destroy the enzymes", "isCorrect": false },
+      { "text": "It provides ATP to the lysosomes for active transport of wastes", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 9",
+    "subject": "Science",
+    "difficulty": "VERY HARD",
+    "text": "Identify the equation representing the relationship between displacement, initial velocity, acceleration, and final velocity for a uniformly accelerating body.",
+    "explanation": "The third equation of motion is $v^2 - u^2 = 2as$. It can be derived by substituting $t = \\frac{v - u}{a}$ into $s = ut + \\frac{1}{2}at^2$.",
+    "options": [
+      { "text": "$v^2 - u^2 = 2as$", "isCorrect": true },
+      { "text": "$s = vt + \\frac{1}{2}at^2$", "isCorrect": false },
+      { "text": "$v = u + 2as$", "isCorrect": false },
+      { "text": "$v^2 + u^2 = 2as^2$", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 9",
+    "subject": "Science",
+    "difficulty": "VERY HARD",
+    "text": "A stone is dropped from the top of a tower $100\\text{ m}$ high. Simultaneously, another stone is projected vertically upward from the ground with a velocity of $25\\text{ m/s}$. Find the time at which they meet (take $g = 10\\text{ m/s}^2$).",
+    "explanation": "Let they meet at time $t$. Distance for falling stone: $s_1 = \\frac{1}{2}gt^2$. Distance for rising stone: $s_2 = 25t - \\frac{1}{2}gt^2$. Since $s_1 + s_2 = 100\\text{ m}$, we get $\\frac{1}{2}gt^2 + 25t - \\frac{1}{2}gt^2 = 100 \\Rightarrow 25t = 100 \\Rightarrow t = 4\\text{ s}$.",
+    "options": [
+      { "text": "$2\\text{ s}$", "isCorrect": false },
+      { "text": "$4\\text{ s}$", "isCorrect": true },
+      { "text": "$5\\text{ s}$", "isCorrect": false },
+      { "text": "$3\\text{ s}$", "isCorrect": false }
+    ]
+  }
+]

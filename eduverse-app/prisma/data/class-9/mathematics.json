@@ -1,0 +1,132 @@
+[
+  {
+    "class": "Class 9",
+    "subject": "Mathematics",
+    "difficulty": "Easy",
+    "text": "What is the value of 2^5?",
+    "explanation": "2 raised to the power of 5 means multiplying 2 by itself 5 times: 2 × 2 × 2 × 2 × 2 = 32.",
+    "options": [
+      { "text": "10", "isCorrect": false },
+      { "text": "16", "isCorrect": false },
+      { "text": "32", "isCorrect": true },
+      { "text": "64", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 9",
+    "subject": "Mathematics",
+    "difficulty": "Medium",
+    "text": "Which of the following is an irrational number?",
+    "explanation": "√2 is an irrational number because it cannot be expressed as a simple fraction, and its decimal representation is non-terminating and non-repeating.",
+    "options": [
+      { "text": "1/2", "isCorrect": false },
+      { "text": "0.75", "isCorrect": false },
+      { "text": "√4", "isCorrect": false },
+      { "text": "√2", "isCorrect": true }
+    ]
+  },
+  {
+    "class": "Class 9",
+    "subject": "Mathematics",
+    "difficulty": "Medium",
+    "text": "What is the formula for the area of a circle?",
+    "explanation": "The area of a circle is calculated using the formula πr², where r is the radius of the circle.",
+    "options": [
+      { "text": "2πr", "isCorrect": false },
+      { "text": "πr²", "isCorrect": true },
+      { "text": "πd", "isCorrect": false },
+      { "text": "4πr²", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 9",
+    "subject": "Mathematics",
+    "difficulty": "Hard",
+    "text": "What is the surface area of a sphere with radius r?",
+    "explanation": "The formula for the surface area of a sphere is 4πr².",
+    "options": [
+      { "text": "4πr²", "isCorrect": true },
+      { "text": "4/3πr³", "isCorrect": false },
+      { "text": "2πr²", "isCorrect": false },
+      { "text": "πr²h", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 9",
+    "subject": "Mathematics",
+    "difficulty": "Medium",
+    "text": "If x + y = 5 and x - y = 1, what is the value of x?",
+    "explanation": "Adding the two equations: (x + y) + (x - y) = 5 + 1 => 2x = 6 => x = 3.",
+    "options": [
+      { "text": "2", "isCorrect": false },
+      { "text": "3", "isCorrect": true },
+      { "text": "4", "isCorrect": false },
+      { "text": "5", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 9",
+    "subject": "Mathematics",
+    "difficulty": "Easy",
+    "text": "What is the probability of an impossible event?",
+    "explanation": "The probability of an event that cannot possibly happen is 0.",
+    "options": [
+      { "text": "1", "isCorrect": false },
+      { "text": "0.5", "isCorrect": false },
+      { "text": "-1", "isCorrect": false },
+      { "text": "0", "isCorrect": true }
+    ]
+  },
+  {
+    "class": "Class 9",
+    "subject": "Mathematics",
+    "difficulty": "Hard",
+    "text": "The point (0, -5) lies on which axis?",
+    "explanation": "Since the x-coordinate is 0 and the y-coordinate is non-zero, the point lies on the y-axis.",
+    "options": [
+      { "text": "x-axis", "isCorrect": false },
+      { "text": "y-axis", "isCorrect": true },
+      { "text": "Origin", "isCorrect": false },
+      { "text": "None of the above", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 9",
+    "subject": "Mathematics",
+    "difficulty": "Medium",
+    "text": "The sum of the angles of a quadrilateral is:",
+    "explanation": "A quadrilateral can be divided into two triangles, and since the sum of angles of a triangle is 180°, for a quadrilateral it is 2 × 180° = 360°.",
+    "options": [
+      { "text": "180°", "isCorrect": false },
+      { "text": "270°", "isCorrect": false },
+      { "text": "360°", "isCorrect": true },
+      { "text": "90°", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 9",
+    "subject": "Mathematics",
+    "difficulty": "Easy",
+    "text": "What is 15% of 200?",
+    "explanation": "15% of 200 is (15/100) × 200 = 15 × 2 = 30.",
+    "options": [
+      { "text": "15", "isCorrect": false },
+      { "text": "30", "isCorrect": true },
+      { "text": "45", "isCorrect": false },
+      { "text": "60", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 9",
+    "subject": "Mathematics",
+    "difficulty": "Medium",
+    "text": "Which of the following polynomials is a binomial?",
+    "explanation": "A binomial is a polynomial with exactly two terms.",
+    "options": [
+      { "text": "x² + 2x + 1", "isCorrect": false },
+      { "text": "3x", "isCorrect": false },
+      { "text": "x + 5", "isCorrect": true },
+      { "text": "x³ - x² + x - 1", "isCorrect": false }
+    ]
+  }
+]

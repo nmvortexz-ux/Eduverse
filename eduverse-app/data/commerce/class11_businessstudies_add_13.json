@@ -1,0 +1,152 @@
+[
+  {
+    "text": "What is the primary difference between B2B and B2C models?",
+    "options": [
+      "B2B involves direct interaction between businesses, while B2C involves direct interaction between businesses and customers.",
+      "B2B involves direct interaction between businesses, while B2C involves direct interaction between customers.",
+      "B2B involves indirect interaction between businesses, while B2C involves direct interaction between customers.",
+      "B2B involves indirect interaction between businesses, while B2C involves indirect interaction between businesses."
+    ],
+    "correctAnswer": "B2B involves direct interaction between businesses, while B2C involves direct interaction between customers.",
+    "explanation": "In B2B model, businesses interact with each other to exchange goods and services. In B2C model, businesses interact directly with customers to exchange goods and services.",
+    "difficulty": "Easy",
+    "class": "Class 11",
+    "subject": "Business Studies",
+    "chapter": "Ch 5: Emerging Modes of Business"
+  },
+  {
+    "text": "What is the primary advantage of using digital signatures?",
+    "options": [
+      "Security",
+      "Authenticity",
+      "Non-repudiation",
+      "All of the above"
+    ],
+    "correctAnswer": "All of the above",
+    "explanation": "Digital signatures provide security, authenticity, and non-repudiation. They ensure that the message is secure, authentic, and cannot be denied by the sender.",
+    "difficulty": "Medium",
+    "class": "Class 11",
+    "subject": "Business Studies",
+    "chapter": "Ch 5: Emerging Modes of Business"
+  },
+  {
+    "text": "What is the primary difference between BPO and KPO services?",
+    "options": [
+      "BPO involves high-level knowledge work, while KPO involves routine administrative tasks.",
+      "BPO involves routine administrative tasks, while KPO involves high-level knowledge work.",
+      "BPO involves high-level knowledge work, while KPO involves high-level knowledge work.",
+      "BPO involves routine administrative tasks, while KPO involves routine administrative tasks."
+    ],
+    "correctAnswer": "BPO involves routine administrative tasks, while KPO involves high-level knowledge work.",
+    "explanation": "BPO involves routine administrative tasks such as data entry, customer service, and bookkeeping. KPO involves high-level knowledge work such as research, consulting, and strategy development.",
+    "difficulty": "Medium",
+    "class": "Class 11",
+    "subject": "Business Studies",
+    "chapter": "Ch 5: Emerging Modes of Business"
+  },
+  {
+    "text": "What is the primary function of a payment gateway?",
+    "options": [
+      "To facilitate online transactions between businesses and customers.",
+      "To facilitate online transactions between businesses and banks.",
+      "To facilitate online transactions between customers and banks.",
+      "To facilitate online transactions between businesses and suppliers."
+    ],
+    "correctAnswer": "To facilitate online transactions between businesses and customers.",
+    "explanation": "A payment gateway is a secure online service that enables businesses to accept payments from customers. It facilitates online transactions between businesses and customers.",
+    "difficulty": "Easy",
+    "class": "Class 11",
+    "subject": "Business Studies",
+    "chapter": "Ch 5: Emerging Modes of Business"
+  },
+  {
+    "text": "What is the primary characteristic of C2C model?",
+    "options": [
+      "Direct interaction between businesses and customers.",
+      "Direct interaction between customers and suppliers.",
+      "Direct interaction between businesses and suppliers.",
+      "Direct interaction between customers and customers."
+    ],
+    "correctAnswer": "Direct interaction between customers and customers.",
+    "explanation": "C2C model involves direct interaction between customers. For example, online marketplaces where customers buy and sell goods and services directly with each other.",
+    "difficulty": "Easy",
+    "class": "Class 11",
+    "subject": "Business Studies",
+    "chapter": "Ch 5: Emerging Modes of Business"
+  },
+  {
+    "text": "What is the primary advantage of using B2B model?",
+    "options": [
+      "Increased customer base",
+      "Reduced costs",
+      "Improved efficiency",
+      "All of the above"
+    ],
+    "correctAnswer": "All of the above",
+    "explanation": "B2B model involves direct interaction between businesses. This leads to increased customer base, reduced costs, and improved efficiency.",
+    "difficulty": "Medium",
+    "class": "Class 11",
+    "subject": "Business Studies",
+    "chapter": "Ch 5: Emerging Modes of Business"
+  },
+  {
+    "text": "What is the primary function of a digital signature?",
+    "options": [
+      "To authenticate the sender of a message.",
+      "To authenticate the recipient of a message.",
+      "To authenticate the content of a message.",
+      "To authenticate the sender, recipient, and content of a message."
+    ],
+    "correctAnswer": "To authenticate the sender, recipient, and content of a message.",
+    "explanation": "A digital signature is a secure electronic signature that authenticates the sender, recipient, and content of a message.",
+    "difficulty": "Medium",
+    "class": "Class 11",
+    "subject": "Business Studies",
+    "chapter": "Ch 5: Emerging Modes of Business"
+  },
+  {
+    "text": "What is the primary difference between BPO and KPO services in terms of skill level?",
+    "options": [
+      "BPO requires high-level skills, while KPO requires low-level skills.",
+      "BPO requires low-level skills, while KPO requires high-level skills.",
+      "BPO requires high-level skills, while KPO requires high-level skills.",
+      "BPO requires low-level skills, while KPO requires low-level skills."
+    ],
+    "correctAnswer": "BPO requires low-level skills, while KPO requires high-level skills.",
+    "explanation": "BPO involves routine administrative tasks that require low-level skills. KPO involves high-level knowledge work that requires high-level skills.",
+    "difficulty": "Medium",
+    "class": "Class 11",
+    "subject": "Business Studies",
+    "chapter": "Ch 5: Emerging Modes of Business"
+  },
+  {
+    "text": "What is the primary advantage of using payment gateways?",
+    "options": [
+      "Increased security",
+      "Improved efficiency",
+      "Reduced costs",
+      "All of the above"
+    ],
+    "correctAnswer": "All of the above",
+    "explanation": "Payment gateways provide increased security, improved efficiency, and reduced costs. They enable secure online transactions and reduce the risk of fraud.",
+    "difficulty": "Medium",
+    "class": "Class 11",
+    "subject": "Business Studies",
+    "chapter": "Ch 5: Emerging Modes of Business"
+  },
+  {
+    "text": "What is the primary characteristic of B2C model?",
+    "options": [
+      "Direct interaction between businesses and suppliers.",
+      "Direct interaction between businesses and customers.",
+      "Direct interaction between customers and customers.",
+      "Direct interaction between customers and suppliers."
+    ],
+    "correctAnswer": "Direct interaction between businesses and customers.",
+    "explanation": "B2C model involves direct interaction between businesses and customers. For example, e-commerce websites where businesses sell goods and services directly to customers.",
+    "difficulty": "Easy",
+    "class": "Class 11",
+    "subject": "Business Studies",
+    "chapter": "Ch 5: Emerging Modes of Business"
+  }
+]

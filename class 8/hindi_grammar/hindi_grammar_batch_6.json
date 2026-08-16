@@ -1,0 +1,327 @@
+[
+  {
+    "class": "Class 8",
+    "subject": "Hindi Grammar",
+    "difficulty": "Very Hard",
+    "text": "'उच्छृंखल' शब्द का सही और व्याकरण सम्मत संधि-विच्छेद निम्नलिखित में से क्या होगा?",
+    "explanation": "व्यंजन संधि के नियम के अनुसार, यदि 'त' के बाद 'श' हो, तो 'त' का 'च' और 'श' का 'छ' हो जाता है। शृंखल में 'श' के साथ 'ऋ' की मात्रा होने से वह 'छृ' बन जाता है। अतः 'उत् + शृंखल = उच्छृंखल' है।",
+    "options": [
+      { "text": "उच् + शृंखल", "isCorrect": false },
+      { "text": "उत् + शृंखल", "isCorrect": true },
+      { "text": "उत् + खंल", "isCorrect": false },
+      { "text": "उच् + खंल", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 8",
+    "subject": "Hindi Grammar",
+    "difficulty": "Very Hard",
+    "text": "'धनुष्टंकार' शब्द का सही संधि-विच्छेद और संधि का नाम निम्नलिखित में से क्या होगा?",
+    "explanation": "'धनुः + टंकार' मिलकर 'धनुष्टंकार' बनता है। विसर्ग (ः) के बाद ट या ठ होने पर विसर्ग 'ष' में बदल जाता है। यह विसर्ग संधि का नियम है।",
+    "options": [
+      { "text": "धनुष + टंकार (व्यंजन संधि)", "isCorrect": false },
+      { "text": "धनुः + टंकार (विसर्ग संधि)", "isCorrect": true },
+      { "text": "धनु + टंकार (विसर्ग संधि)", "isCorrect": false },
+      { "text": "धनुस + टंकार (व्यंजन संधि)", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 8",
+    "subject": "Hindi Grammar",
+    "difficulty": "Very Hard",
+    "text": "'रामायण' शब्द का सही संधि-विच्छेद निम्नलिखित में से क्या होगा?",
+    "explanation": "'राम + अयन' मिलकर 'रामायण' बनता है। यहाँ दीर्घ स्वर संधि (अ + अ = आ) और व्यंजन संधि का नियम (र के प्रभाव से न का ण होना) दोनों एक साथ लागू होते हैं।",
+    "options": [
+      { "text": "राम + आयन", "isCorrect": false },
+      { "text": "राम + अयन", "isCorrect": true },
+      { "text": "रामा + अयन", "isCorrect": false },
+      { "text": "रामा + यण", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 8",
+    "subject": "Hindi Grammar",
+    "difficulty": "Very Hard",
+    "text": "'मनोभाव' शब्द का सही संधि-विच्छेद निम्नलिखित में से क्या होगा?",
+    "explanation": "'मनः + भाव' मिलकर 'मनोभाव' बनता है। विसर्ग के पूर्व 'अ' होने और बाद में किसी वर्ग का तृतीय वर्ण (भ) होने के कारण विसर्ग 'ओ' में बदल जाता है। यह विसर्ग संधि है।",
+    "options": [
+      { "text": "मनो + भाव", "isCorrect": false },
+      { "text": "मनः + भाव", "isCorrect": true },
+      { "text": "मन + भाव", "isCorrect": false },
+      { "text": "मनस + भाव", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 8",
+    "subject": "Hindi Grammar",
+    "difficulty": "Very Hard",
+    "text": "'पंचामृत' (पांच अमृतों का समाहार) में कौन सा समास प्रयुक्त हुआ है?",
+    "explanation": "जिस समास का पहला पद संख्यावाचक हो और वह एक विशिष्ट समूह या समाहार का बोध कराए, उसे द्विगु समास कहते हैं।",
+    "options": [
+      { "text": "द्वंद्व समास", "isCorrect": false },
+      { "text": "द्विगु समास", "isCorrect": true },
+      { "text": "बहुव्रीहि समास", "isCorrect": false },
+      { "text": "तत्पुरुष समास", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 8",
+    "subject": "Hindi Grammar",
+    "difficulty": "Very Hard",
+    "text": "'चंद्रचूड़' (चंद्र है चूड़ अर्थात् सिर पर जिसके, वह अर्थात् शिव) में कौन सा समास प्रयुक्त है?",
+    "explanation": "दोनों पद मिलकर किसी तीसरे पद (भगवान शिव) की विशेषता बता रहे हैं, इसलिए यहाँ बहुव्रीहि समास है।",
+    "options": [
+      { "text": "कर्मधारय समास", "isCorrect": false },
+      { "text": "बहुव्रीहि समास", "isCorrect": true },
+      { "text": "तत्पुरुष समास", "isCorrect": false },
+      { "text": "द्वंद्व समास", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 8",
+    "subject": "Hindi Grammar",
+    "difficulty": "Very Hard",
+    "text": "'हस्तलिखित' (हाथ से लिखा हुआ) में कौन सा तत्पुरुष समास है?",
+    "explanation": "'हस्तलिखित' का विग्रह 'हाथ से लिखा हुआ' है। क्रिया के साधन 'से' (करण कारक की विभक्ति) का लोप होने के कारण यह करण तत्पुरुष समास है।",
+    "options": [
+      { "text": "कर्म तत्पुरुष", "isCorrect": false },
+      { "text": "करण तत्पुरुष", "isCorrect": true },
+      { "text": "संप्रदान तत्पुरुष", "isCorrect": false },
+      { "text": "अपादान तत्पुरुष", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 8",
+    "subject": "Hindi Grammar",
+    "difficulty": "Very Hard",
+    "text": "'रामानुज' (राम का अनुज) में कौन सा समास है?",
+    "explanation": "'रामानुज' का विग्रह 'राम का अनुज' (छोटा भाई) है। इसमें संबंध कारक की विभक्ति 'का' का लोप होने के कारण यह संबंध तत्पुरुष समास है।",
+    "options": [
+      { "text": "बहुव्रीहि समास", "isCorrect": false },
+      { "text": "तत्पुरुष समास", "isCorrect": true },
+      { "text": "अव्ययीभाव समास", "isCorrect": false },
+      { "text": "द्वंद्व समास", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 8",
+    "subject": "Hindi Grammar",
+    "difficulty": "Very Hard",
+    "text": "\"जैसे ही वर्षा शुरू हुई, वैसे ही मोर नाचने लगे।\" इस मिश्र वाक्य को सरल वाक्य में बदलने पर कौन सा रूप सही होगा?",
+    "explanation": "सरल वाक्य में केवल एक ही मुख्य क्रिया होती है और कोई आश्रित उपवाक्य नहीं होता। अतः \"वर्षा शुरू होते ही मोर नाचने लगे\" सही रूप है।",
+    "options": [
+      { "text": "वर्षा शुरू हुई और मोर नाचने लगे।", "isCorrect": false },
+      { "text": "वर्षा शुरू होते ही मोर नाचने लगे।", "isCorrect": true },
+      { "text": "जब वर्षा शुरू हुई तब मोर नाचे।", "isCorrect": false },
+      { "text": "वर्षा के शुरू होने पर मोर नाचेगा।", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 8",
+    "subject": "Hindi Grammar",
+    "difficulty": "Very Hard",
+    "text": "\"वह बीमार था, इसलिए स्कूल नहीं आया।\" रचना के आधार पर यह किस प्रकार का वाक्य है?",
+    "explanation": "इस वाक्य में दो स्वतंत्र उपवाक्य 'वह बीमार था' और 'वह स्कूल नहीं आया' योजक शब्द 'इसलिए' द्वारा जुड़े हैं, अतः यह संयुक्त वाक्य है।",
+    "options": [
+      { "text": "सरल वाक्य", "isCorrect": false },
+      { "text": "संयुक्त वाक्य", "isCorrect": true },
+      { "text": "मिश्र वाक्य", "isCorrect": false },
+      { "text": "विधानवाचक वाक्य", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 8",
+    "subject": "Hindi Grammar",
+    "difficulty": "Very Hard",
+    "text": "\"बाजार में खड़ा व्यक्ति चोर है।\" इस वाक्य में रेखांकित पद 'बाजार में खड़ा व्यक्ति' किस प्रकार का पदबंध है?",
+    "explanation": "इस पदबंध का अंतिम और मुख्य पद 'व्यक्ति' एक संज्ञा है, और बाकी पद उसकी विशेषता बता रहे हैं, इसलिए यह संज्ञा पदबंध है।",
+    "options": [
+      { "text": "विशेषण पदबंध", "isCorrect": false },
+      { "text": "संज्ञा पदबंध", "isCorrect": true },
+      { "text": "क्रियाविशेषण पदबंध", "isCorrect": false },
+      { "text": "सर्वनाम पदबंध", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 8",
+    "subject": "Hindi Grammar",
+    "difficulty": "Very Hard",
+    "text": "\"घर के कोने में बैठा हुआ वह चुपचाप पढ़ रहा है।\" इस वाक्य में 'घर के कोने में बैठा हुआ वह' किस प्रकार का पदबंध है?",
+    "explanation": "इस पदबंध का शीर्ष (मुख्य) पद 'वह' एक सर्वनाम है, इसलिए यह सर्वनाम पदबंध का सही उदाहरण है।",
+    "options": [
+      { "text": "संज्ञा पदबंध", "isCorrect": false },
+      { "text": "सर्वनाम पदबंध", "isCorrect": true },
+      { "text": "विशेषण पदबंध", "isCorrect": false },
+      { "text": "क्रियाविशेषण पदबंध", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 8",
+    "subject": "Hindi Grammar",
+    "difficulty": "Very Hard",
+    "text": "\"वह लड़का बिल्कुल गधा है।\" इस वाक्य में प्रयुक्त 'गधा' शब्द में कौन सी शब्द शक्ति कार्य कर रही है?",
+    "explanation": "यहाँ गधे का मुख्य अर्थ (चार पैरों वाला जानवर) न लेकर उसके लक्षण (मूर्खता) को ग्रहण किया गया है, अतः यहाँ लक्षणा शब्द शक्ति है।",
+    "options": [
+      { "text": "अभिधा", "isCorrect": false },
+      { "text": "लक्षणा", "isCorrect": true },
+      { "text": "व्यंजना", "isCorrect": false },
+      { "text": "तात्पर्या", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 8",
+    "subject": "Hindi Grammar",
+    "difficulty": "Very Hard",
+    "text": "\"सूर्य अस्त हो गया है।\" इस वाक्य से अलग-अलग व्यक्ति अपनी परिस्थिति के अनुसार अलग-अलग अर्थ निकालते हैं। इसमें कौन सी शब्द शक्ति है?",
+    "explanation": "जब किसी वाक्य का मुख्य अर्थ और लक्ष्यार्थ दोनों से भिन्न कोई तीसरा विशिष्ट अर्थ प्रकट होता है, तो वहाँ व्यंजना शब्द शक्ति होती है।",
+    "options": [
+      { "text": "अभिधा", "isCorrect": false },
+      { "text": "व्यंजना", "isCorrect": true },
+      { "text": "लक्षणा", "isCorrect": false },
+      { "text": "अभिधा-लक्षणा", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 8",
+    "subject": "Hindi Grammar",
+    "difficulty": "Very Hard",
+    "text": "शब्दों के साधारण, लोक-प्रसिद्ध और शब्दकोशीय मुख्य अर्थ को प्रकट करने वाली प्राथमिक शब्द शक्ति को क्या कहते हैं?",
+    "explanation": "शब्द के मुख्य अर्थ (वाच्यार्थ) का बोध कराने वाली प्राथमिक और साधारण शब्द शक्ति को 'अभिधा' कहते हैं।",
+    "options": [
+      { "text": "लक्षणा", "isCorrect": false },
+      { "text": "अभिधा", "isCorrect": true },
+      { "text": "व्यंजना", "isCorrect": false },
+      { "text": "लक्षण-लक्षणा", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 8",
+    "subject": "Hindi Grammar",
+    "difficulty": "Very Hard",
+    "text": "निम्नलिखित में से किस शब्द की वर्तनी व्याकरणिक नियमों के अनुसार पूर्णतः शुद्ध है?",
+    "explanation": "'आशीर्वाद' में 'श' के ऊपर बड़ी 'ई' की मात्रा होती है और रेफ़ 'र' की मात्रा 'व' के ऊपर लगाई जाती है।",
+    "options": [
+      { "text": "आशिर्वाद", "isCorrect": false },
+      { "text": "आशीर्वाद", "isCorrect": true },
+      { "text": "आशिरवाद", "isCorrect": false },
+      { "text": "आसीर्वाद", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 8",
+    "subject": "Hindi Grammar",
+    "difficulty": "Very Hard",
+    "text": "\"सज्जन लोग हमेशा परोपकार करते हैं।\" इस वाक्य में कौन सा दोष है और इसका शुद्ध रूप क्या होगा?",
+    "explanation": "'सज्जन' का अर्थ 'सत् + जन' (अच्छे लोग) होता है, अतः इसके साथ पुनः 'लोग' शब्द का प्रयोग करना पुनरुक्ति दोष है। शुद्ध रूप: \"सज्जन हमेशा परोपकार करते हैं।\"",
+    "options": [
+      { "text": "सर्वनाम दोष; \"सज्जन पुरुषों हमेशा परोपकार करते हैं।\"", "isCorrect": false },
+      { "text": "पुनरुक्ति दोष; \"सज्जन हमेशा परोपकार करते हैं।\"", "isCorrect": true },
+      { "text": "लिंग दोष; \"सज्जन लोग परोपकार करती हैं।\"", "isCorrect": false },
+      { "text": "यह वाक्य व्याकरण सम्मत और शुद्ध है।", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 8",
+    "subject": "Hindi Grammar",
+    "difficulty": "Very Hard",
+    "text": "निम्नलिखित वाक्यों में से कौन सा वाक्य व्याकरणिक रूप से पूर्णतः शुद्ध है?",
+    "explanation": "संबंधों की प्रगाढ़ता को दर्शाने के लिए 'घनिष्ठ' विशेषण का प्रयोग ही सर्वाधिक उपयुक्त और व्याकरण सम्मत माना जाता है।",
+    "options": [
+      { "text": "साहित्य और जीवन का घोर संबंध है।", "isCorrect": false },
+      { "text": "साहित्य और जीवन का घनिष्ठ संबंध है।", "isCorrect": true },
+      { "text": "साहित्य और जीवन का घमासान संबंध है।", "isCorrect": false },
+      { "text": "साहित्य और जीवन का भारी संबंध है।", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 8",
+    "subject": "Hindi Grammar",
+    "difficulty": "Very Hard",
+    "text": "'द्विज' शब्द के हिंदी व्याकरण में अनेक अर्थ होते हैं। निम्नलिखित में से कौन सा शब्द 'द्विज' का अनेकार्थी अर्थ नहीं है?",
+    "explanation": "'द्विज' का अर्थ 'दो बार जन्म लेने वाला' होता है, जिसमें ब्राह्मण, पक्षी और दाँत शामिल हैं। 'सिंह' इसका अर्थ नहीं है।",
+    "options": [
+      { "text": "पक्षी", "isCorrect": false },
+      { "text": "सिंह", "isCorrect": true },
+      { "text": "ब्राह्मण", "isCorrect": false },
+      { "text": "दाँत", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 8",
+    "subject": "Hindi Grammar",
+    "difficulty": "Very Hard",
+    "text": "'कृशानु' शब्द निम्नलिखित में से किस तत्सम शब्द का सही पर्यायवाची है?",
+    "explanation": "'कृशानु' अग्नि (आग) का पर्यायवाची शब्द है। इसके अन्य पर्यायवाची हुताशन, अनल, पावक हैं।",
+    "options": [
+      { "text": "हवा", "isCorrect": false },
+      { "text": "अग्नि", "isCorrect": true },
+      { "text": "जल", "isCorrect": false },
+      { "text": "आकाश", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 8",
+    "subject": "Hindi Grammar",
+    "difficulty": "Very Hard",
+    "text": "'कुल' और 'कूल' शब्द-युग्म का सही अर्थ-भेद निम्नलिखित में से कौन सा है?",
+    "explanation": "'कुल' का अर्थ 'वंश' या 'सब' (योग) होता है और 'कूल' का अर्थ नदी का 'किनारा' या तट होता है।",
+    "options": [
+      { "text": "किनारा और वंश", "isCorrect": false },
+      { "text": "वंश और किनारा", "isCorrect": true },
+      { "text": "सारा और किनारा", "isCorrect": false },
+      { "text": "किनारा और कुल", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 8",
+    "subject": "Hindi Grammar",
+    "difficulty": "Very Hard",
+    "text": "'अब्ज' और 'अब्द' शब्द-युग्म का सही अर्थ-भेद निम्नलिखित में से क्या होगा?",
+    "explanation": "'अब्ज' (अप + ज) का अर्थ 'कमल' (पानी में जन्म लेने वाला) होता है और 'अब्द' (अप + द) का अर्थ 'वर्ष' या 'बादल' होता है।",
+    "options": [
+      { "text": "वर्ष और कमल", "isCorrect": false },
+      { "text": "कमल और वर्ष", "isCorrect": true },
+      { "text": "पानी और बादल", "isCorrect": false },
+      { "text": "बादल और पानी", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 8",
+    "subject": "Hindi Grammar",
+    "difficulty": "Very Hard",
+    "text": "रौद्र रस का स्थायी भाव निम्नलिखित में से कौन सा है?",
+    "explanation": "जब किसी अनुचित कार्य या शत्रु के प्रति मन में क्रोध उत्पन्न होता है, तो वहाँ रौद्र रस की निष्पत्ति होती है और इसका स्थायी भाव 'क्रोध' है।",
+    "options": [
+      { "text": "भय", "isCorrect": false },
+      { "text": "क्रोध", "isCorrect": true },
+      { "text": "विस्मय", "isCorrect": false },
+      { "text": "उत्साह", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 8",
+    "subject": "Hindi Grammar",
+    "difficulty": "Very Hard",
+    "text": "'विस्मय' निम्नलिखित में से किस रस का स्थायी भाव है?",
+    "explanation": "जब मन में किसी अलौकिक, विचित्र या आश्चर्यजनक वस्तु को देखकर विस्मय (आश्चर्य) का भाव जाग्रत होता है, तो वहाँ अद्भुत रस होता है।",
+    "options": [
+      { "text": "शांत रस", "isCorrect": false },
+      { "text": "अद्भुत रस", "isCorrect": true },
+      { "text": "भयानक रस", "isCorrect": false },
+      { "text": "बीभत्स रस", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 8",
+    "subject": "Hindi Grammar",
+    "difficulty": "Very Hard",
+    "text": "बीभत्स रस का स्थायी भाव निम्नलिखित में से कौन सा है?",
+    "explanation": "घृणास्पद या घिनौनी वस्तुओं या दृश्यों को देखकर मन में उत्पन्न होने वाली घृणा (जुगुप्सा) बीभत्स रस का स्थायी भाव है।",
+    "options": [
+      { "text": "क्रोध", "isCorrect": false },
+      { "text": "जुगुप्सा (घृणा)", "isCorrect": true },
+      { "text": "शोक", "isCorrect": false },
+      { "text": "निर्वेद", "isCorrect": false }
+    ]
+  }
+]

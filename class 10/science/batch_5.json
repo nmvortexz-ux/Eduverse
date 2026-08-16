@@ -1,0 +1,327 @@
+[
+  {
+    "class": "Class 10",
+    "subject": "Science",
+    "difficulty": "EASY",
+    "text": "What is the primary function of salivary amylase in the human digestive system?",
+    "explanation": "Salivary amylase is an enzyme in saliva that begins chemical digestion by breaking down starch (complex carbohydrate) into maltose (simpler sugar).",
+    "options": [
+      { "text": "Digestion of starch into sugar", "isCorrect": true },
+      { "text": "Digestion of proteins into amino acids", "isCorrect": false },
+      { "text": "Emulsification of fats", "isCorrect": false },
+      { "text": "Absorption of vitamins", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 10",
+    "subject": "Science",
+    "difficulty": "EASY",
+    "text": "Which organic acid is naturally found in tomatoes?",
+    "explanation": "Tomatoes naturally contain oxalic acid along with citric and malic acids.",
+    "options": [
+      { "text": "Oxalic acid", "isCorrect": true },
+      { "text": "Citric acid", "isCorrect": false },
+      { "text": "Tartaric acid", "isCorrect": false },
+      { "text": "Methanoic acid", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 10",
+    "subject": "Science",
+    "difficulty": "EASY",
+    "text": "What is the chemical formula of baking soda?",
+    "explanation": "Baking soda is chemically sodium hydrogen carbonate, represented by the formula \\text{NaHCO}_3.",
+    "options": [
+      { "text": "\\text{NaHCO}_3", "isCorrect": true },
+      { "text": "\\text{Na}_2\\text{CO}_3", "isCorrect": false },
+      { "text": "\\text{NaCl}", "isCorrect": false },
+      { "text": "\\text{NaOH}", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 10",
+    "subject": "Science",
+    "difficulty": "EASY",
+    "text": "Which of the following organisms reproduces asexually through budding?",
+    "explanation": "Hydra and yeast reproduce by budding, where a small bud develops as an outgrowth and eventually detaches to form a new individual.",
+    "options": [
+      { "text": "Hydra", "isCorrect": true },
+      { "text": "Amoeba", "isCorrect": false },
+      { "text": "Plasmodium", "isCorrect": false },
+      { "text": "Planaria", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 10",
+    "subject": "Science",
+    "difficulty": "EASY",
+    "text": "Which part of the human eye acts as a diaphragm, regulating the amount of light entering the eye?",
+    "explanation": "The iris is a dark muscular diaphragm that controls the size of the pupil, thereby regulating the amount of light entering the eye.",
+    "options": [
+      { "text": "Iris", "isCorrect": true },
+      { "text": "Pupil", "isCorrect": false },
+      { "text": "Retina", "isCorrect": false },
+      { "text": "Cornea", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 10",
+    "subject": "Science",
+    "difficulty": "EASY",
+    "text": "Which plant hormone is responsible for promoting stem elongation and growth?",
+    "explanation": "Gibberellins are plant growth regulators that promote stem elongation, bolting, and seed germination.",
+    "options": [
+      { "text": "Gibberellin", "isCorrect": true },
+      { "text": "Auxin", "isCorrect": false },
+      { "text": "Cytokinin", "isCorrect": false },
+      { "text": "Abscisic acid", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 10",
+    "subject": "Science",
+    "difficulty": "MEDIUM",
+    "text": "An element belongs to Period 3 and Group 13 of the modern periodic table. What is the element and its number of valence electrons?",
+    "explanation": "The element is Aluminium (atomic number 13, electronic configuration 2, 8, 3), which has 3 valence electrons.",
+    "options": [
+      { "text": "Aluminium, 3 valence electrons", "isCorrect": true },
+      { "text": "Boron, 3 valence electrons", "isCorrect": false },
+      { "text": "Silicon, 4 valence electrons", "isCorrect": false },
+      { "text": "Magnesium, 2 valence electrons", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 10",
+    "subject": "Science",
+    "difficulty": "MEDIUM",
+    "text": "Which mirror is used as a rear-view mirror in vehicles, and why?",
+    "explanation": "Convex mirrors are used because they always form an erect, diminished image, which gives a wider field of view to the driver.",
+    "options": [
+      { "text": "Convex mirror, because it gives an erect image and wider field of view.", "isCorrect": true },
+      { "text": "Concave mirror, because it forms a magnified image of distant traffic.", "isCorrect": false },
+      { "text": "Plane mirror, because it shows the exact distance of vehicles behind.", "isCorrect": false },
+      { "text": "Convex mirror, because it forms a real and inverted image.", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 10",
+    "subject": "Science",
+    "difficulty": "MEDIUM",
+    "text": "What is the S.I. unit of the power of a lens?",
+    "explanation": "The S.I. unit of lens power is dioptre (D). A lens of focal length 1 metre has a power of 1 dioptre.",
+    "options": [
+      { "text": "dioptre (D)", "isCorrect": true },
+      { "text": "metre (m)", "isCorrect": false },
+      { "text": "decibel (dB)", "isCorrect": false },
+      { "text": "watt (W)", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 10",
+    "subject": "Science",
+    "difficulty": "MEDIUM",
+    "text": "During the electrolysis of brine (chlor-alkali process), which substance is obtained at the cathode?",
+    "explanation": "During the electrolysis of aqueous sodium chloride (brine), hydrogen gas (\\text{H}_2) is evolved at the cathode (-) while chlorine gas (\\text{Cl}_2) is evolved at the anode (+).",
+    "options": [
+      { "text": "Hydrogen gas", "isCorrect": true },
+      { "text": "Chlorine gas", "isCorrect": false },
+      { "text": "Sodium hydroxide", "isCorrect": false },
+      { "text": "Oxygen gas", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 10",
+    "subject": "Science",
+    "difficulty": "MEDIUM",
+    "text": "Which metal is highly reactive and catches fire easily when kept open in the air, requiring storage under kerosene oil?",
+    "explanation": "Sodium (\\text{Na}) and potassium (\\text{K}) react vigorously with atmospheric oxygen and moisture to catch fire, so they are stored in kerosene.",
+    "options": [
+      { "text": "Sodium", "isCorrect": true },
+      { "text": "Calcium", "isCorrect": false },
+      { "text": "Magnesium", "isCorrect": false },
+      { "text": "Zinc", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 10",
+    "subject": "Science",
+    "difficulty": "MEDIUM",
+    "text": "The flow of energy in any food chain within an ecosystem is always:",
+    "explanation": "Energy flow is unidirectional: it flows from producers to primary consumers and then to secondary consumers, and cannot flow back.",
+    "options": [
+      { "text": "Unidirectional", "isCorrect": true },
+      { "text": "Bidirectional", "isCorrect": false },
+      { "text": "Multidirectional", "isCorrect": false },
+      { "text": "Cyclic", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 10",
+    "subject": "Science",
+    "difficulty": "MEDIUM",
+    "text": "What is the structural and functional unit of the human kidney?",
+    "explanation": "The nephron is the basic structural and functional unit of the kidney, consisting of the glomerulus and renal tubules.",
+    "options": [
+      { "text": "Nephron", "isCorrect": true },
+      { "text": "Neuron", "isCorrect": false },
+      { "text": "Alveolus", "isCorrect": false },
+      { "text": "Ureter", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 10",
+    "subject": "Science",
+    "difficulty": "HARD",
+    "text": "Why do covalent compounds generally have low melting and boiling points compared to ionic compounds?",
+    "explanation": "Covalent compounds consist of molecules held by weak intermolecular forces, which require little energy to break, unlike strong electrostatic forces in ionic compounds.",
+    "options": [
+      { "text": "They have weak intermolecular forces holding their molecules together.", "isCorrect": true },
+      { "text": "They consist of charged ions that repel each other.", "isCorrect": false },
+      { "text": "They form a giant three-dimensional lattice structure.", "isCorrect": false },
+      { "text": "They are composed of metal atoms with high thermal capacity.", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 10",
+    "subject": "Science",
+    "difficulty": "HARD",
+    "text": "What is the pattern of magnetic field lines around a straight current-carrying wire?",
+    "explanation": "The magnetic field lines are concentric circles centered on the wire, whose direction is given by the Right-Hand Thumb Rule.",
+    "options": [
+      { "text": "Concentric circles around the wire.", "isCorrect": true },
+      { "text": "Parallel straight lines along the wire.", "isCorrect": false },
+      { "text": "Helical pathways winding around the wire.", "isCorrect": false },
+      { "text": "Radial lines spreading outwards from the wire.", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 10",
+    "subject": "Science",
+    "difficulty": "HARD",
+    "text": "When a ray of light passes from air to a glass slab, what happens to its wavelength and frequency?",
+    "explanation": "Frequency is determined by the source and remains constant. As speed decreases in a denser medium, the wavelength must decrease (v = f\\lambda).",
+    "options": [
+      { "text": "Wavelength decreases, and frequency remains constant.", "isCorrect": true },
+      { "text": "Wavelength increases, and frequency decreases.", "isCorrect": false },
+      { "text": "Wavelength remains constant, and frequency increases.", "isCorrect": false },
+      { "text": "Wavelength and frequency both remain constant.", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 10",
+    "subject": "Science",
+    "difficulty": "HARD",
+    "text": "What is 'water of crystallization' and what is the chemical formula of washing soda?",
+    "explanation": "Water of crystallization is the fixed number of water molecules chemically combined in one formula unit of a salt. Washing soda is \\text{Na}_2\\text{CO}_3 \\cdot 10\\text{H}_2\\text{O}.",
+    "options": [
+      { "text": "Fixed water molecules in a salt; \\text{Na}_2\\text{CO}_3 \\cdot 10\\text{H}_2\\text{O}", "isCorrect": true },
+      { "text": "Water absorbed by hygroscopic salts; \\text{NaHCO}_3", "isCorrect": false },
+      { "text": "Chemically bound hydrogen atoms; \\text{NaOH}", "isCorrect": false },
+      { "text": "Water added during dissolution; \\text{CaSO}_4 \\cdot 2\\text{H}_2\\text{O}", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 10",
+    "subject": "Science",
+    "difficulty": "HARD",
+    "text": "What gas is released when ethanoic acid reacts with sodium hydrogen carbonate, and how is it tested?",
+    "explanation": "The reaction produces carbon dioxide gas (\\text{CO}_2), which turns lime water milky due to the formation of calcium carbonate precipitate.",
+    "options": [
+      { "text": "Carbon dioxide gas; tested by passing through lime water, which turns milky.", "isCorrect": true },
+      { "text": "Hydrogen gas; tested by bringing a burning splinter, which burns with a pop sound.", "isCorrect": false },
+      { "text": "Oxygen gas; tested by relighting a glowing splint.", "isCorrect": false },
+      { "text": "Chlorine gas; tested by its bleaching effect on litmus paper.", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 10",
+    "subject": "Science",
+    "difficulty": "HARD",
+    "text": "Which of the following describes the function of human chromosomes in determining sex of offspring?",
+    "explanation": "Sperms carry either X or Y chromosome (50% each), whereas eggs carry only X chromosome. A zygote inheriting Y from sperm is male (XY) and X is female (XX).",
+    "options": [
+      { "text": "Male gamete determines the sex because sperms carry either X or Y chromosome.", "isCorrect": true },
+      { "text": "Female gamete determines the sex because eggs carry either X or Y chromosome.", "isCorrect": false },
+      { "text": "Both gametes must carry a Y chromosome to produce a female child.", "isCorrect": false },
+      { "text": "The autosomes of both parents play the primary role in sex determination.", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 10",
+    "subject": "Science",
+    "difficulty": "VERY HARD",
+    "text": "A convex lens of focal length 20 cm forms a virtual, erect image that is 2 times the size of the object. Find the object distance.",
+    "explanation": "Since the image is virtual, magnification m = +2. From m = v/u \\Rightarrow v = 2u. Using lens formula: 1/f = 1/v - 1/u \\Rightarrow 1/20 = 1/(2u) - 1/u = -1/(2u) \\Rightarrow 2u = -20 \\Rightarrow u = -10 cm.",
+    "options": [
+      { "text": "-10 cm", "isCorrect": true },
+      { "text": "-20 cm", "isCorrect": false },
+      { "text": "-5 cm", "isCorrect": false },
+      { "text": "-15 cm", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 10",
+    "subject": "Science",
+    "difficulty": "VERY HARD",
+    "text": "Why do metals conduct electricity in the solid state, whereas ionic compounds conduct only in molten or aqueous solutions?",
+    "explanation": "Metals have free electrons in solid state. Ionic compounds in solid state have ions fixed in position, but in molten or aqueous state, the ions become free to move.",
+    "options": [
+      { "text": "Metals have free electrons; ionic solids have fixed ions that become free only in liquid/solution form.", "isCorrect": true },
+      { "text": "Metals contain free ions; ionic solids contain free electrons that are trapped in solid state.", "isCorrect": false },
+      { "text": "Ionic compounds are non-polar, whereas metals are polar substances.", "isCorrect": false },
+      { "text": "Ionic solids have high electrical resistance due to covalent bonds.", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 10",
+    "subject": "Science",
+    "difficulty": "VERY HARD",
+    "text": "In birds, how is sex determined genetically, and how does it differ from human sex determination?",
+    "explanation": "In birds, females are heterogametic (ZW) and males are homogametic (ZZ). Thus, female birds determine the sex of offspring, unlike in humans where males (XY) do.",
+    "options": [
+      { "text": "Female birds are ZW (heterogametic) and determine sex, whereas human males are XY (heterogametic) and determine sex.", "isCorrect": true },
+      { "text": "Male birds are ZW (heterogametic) and determine sex, whereas human females are XX (homogametic).", "isCorrect": false },
+      { "text": "Both male and female birds have ZZ chromosomes, and temperature determines sex.", "isCorrect": false },
+      { "text": "Birds have a XO system where males have only one sex chromosome.", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 10",
+    "subject": "Science",
+    "difficulty": "VERY HARD",
+    "text": "A current of 0.5 A is drawn by the filament of an electric bulb for 10 minutes. Calculate the number of electrons flowing through the circuit.",
+    "explanation": "Charge Q = I \\times t = 0.5 \\times 600 = 300 C. Number of electrons n = Q/e = 300 / (1.6 \\times 10^{-19}) = 1.875 \\times 10^{21}.",
+    "options": [
+      { "text": "1.875 \\times 10^{21}", "isCorrect": true },
+      { "text": "3 \\times 10^{20}", "isCorrect": false },
+      { "text": "1.875 \\times 10^{19}", "isCorrect": false },
+      { "text": "3.125 \\times 10^{21}", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 10",
+    "subject": "Science",
+    "difficulty": "VERY HARD",
+    "text": "In a genetic cross of blood groups, a parent with blood group A (heterozygous I^A I^O) and a parent with blood group B (heterozygous I^B I^O) have children. What are the possible blood groups of their children?",
+    "explanation": "The gametes can combine to form genotypes I^A I^B (group AB), I^A I^O (group A), I^B I^O (group B), and I^O I^O (group O), presenting all four phenotypes.",
+    "options": [
+      { "text": "A, B, AB, and O", "isCorrect": true },
+      { "text": "AB and O only", "isCorrect": false },
+      { "text": "A and B only", "isCorrect": false },
+      { "text": "AB, A, and B only", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 10",
+    "subject": "Science",
+    "difficulty": "VERY HARD",
+    "text": "What is biological magnification, and which trophic level shows the maximum concentration of toxic chemicals?",
+    "explanation": "Biological magnification is the progressive accumulation of non-biodegradable chemicals at each trophic level. The highest concentration is found at the top trophic level (highest consumers).",
+    "options": [
+      { "text": "Accumulation of toxic chemicals; highest concentration is at the top trophic level.", "isCorrect": true },
+      { "text": "Increase in biomass of producers; highest concentration is at the producer level.", "isCorrect": false },
+      { "text": "Accumulation of biodegradable wastes; highest concentration is at the decomposer level.", "isCorrect": false },
+      { "text": "Loss of energy in a food chain; highest concentration is at the primary consumer level.", "isCorrect": false }
+    ]
+  }
+]

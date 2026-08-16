@@ -1,0 +1,197 @@
+[
+  {
+    "text": "What is the meaning of the term 'Statistics'?",
+    "options": [
+      "A collection of numerical data",
+      "A branch of mathematics dealing with collection, presentation, analysis and interpretation of numerical data",
+      "A branch of economics dealing with collection, presentation, analysis and interpretation of numerical data",
+      "A branch of science dealing with collection, presentation, analysis and interpretation of numerical data"
+    ],
+    "correctAnswer": "B",
+    "explanation": "Statistics is a branch of mathematics dealing with collection, presentation, analysis and interpretation of numerical data.",
+    "difficulty": "Easy",
+    "class": "Class 11",
+    "subject": "Economics",
+    "chapter": "Ch 5: Introduction to Statistics"
+  },
+  {
+    "text": "What is the plural form of the term 'Statistic'?",
+    "options": [
+      "Statistics",
+      "Statistical",
+      "Statistics",
+      "Statistics"
+    ],
+    "correctAnswer": "A",
+    "explanation": "The plural form of the term 'Statistic' is 'Statistics'.",
+    "difficulty": "Easy",
+    "class": "Class 11",
+    "subject": "Economics",
+    "chapter": "Ch 5: Introduction to Statistics"
+  },
+  {
+    "text": "What is the scope of Statistics in Economics?",
+    "options": [
+      "To collect and present data",
+      "To analyze and interpret data",
+      "To collect, present, analyze and interpret data",
+      "To collect, present, analyze and interpret data and make predictions"
+    ],
+    "correctAnswer": "C",
+    "explanation": "The scope of Statistics in Economics is to collect, present, analyze and interpret data.",
+    "difficulty": "Medium",
+    "class": "Class 11",
+    "subject": "Economics",
+    "chapter": "Ch 5: Introduction to Statistics"
+  },
+  {
+    "text": "What is the function of Statistics in Economics?",
+    "options": [
+      "To collect and present data",
+      "To analyze and interpret data",
+      "To collect, present, analyze and interpret data",
+      "To make predictions and decisions"
+    ],
+    "correctAnswer": "C",
+    "explanation": "The function of Statistics in Economics is to collect, present, analyze and interpret data.",
+    "difficulty": "Medium",
+    "class": "Class 11",
+    "subject": "Economics",
+    "chapter": "Ch 5: Introduction to Statistics"
+  },
+  {
+    "text": "What is the limitation of Statistics in Economics?",
+    "options": [
+      "It does not provide a complete picture of the situation",
+      "It is based on past data and may not reflect the current situation",
+      "It is based on sample data and may not be representative of the population",
+      "All of the above"
+    ],
+    "correctAnswer": "D",
+    "explanation": "The limitation of Statistics in Economics is that it does not provide a complete picture of the situation, it is based on past data and may not reflect the current situation, and it is based on sample data and may not be representative of the population.",
+    "difficulty": "Hard",
+    "class": "Class 11",
+    "subject": "Economics",
+    "chapter": "Ch 5: Introduction to Statistics"
+  },
+  {
+    "text": "What is the difference between 'Statistics' and 'Statistical Methods'?",
+    "options": [
+      "Statistics is a branch of mathematics, while Statistical Methods are techniques used to collect and analyze data",
+      "Statistics is a branch of economics, while Statistical Methods are techniques used to collect and analyze data",
+      "Statistics is a branch of mathematics dealing with collection, presentation, analysis and interpretation of numerical data, while Statistical Methods are techniques used to collect and analyze data",
+      "Statistics is a branch of economics dealing with collection, presentation, analysis and interpretation of numerical data, while Statistical Methods are techniques used to collect and analyze data"
+    ],
+    "correctAnswer": "C",
+    "explanation": "Statistics is a branch of mathematics dealing with collection, presentation, analysis and interpretation of numerical data, while Statistical Methods are techniques used to collect and analyze data.",
+    "difficulty": "Medium",
+    "class": "Class 11",
+    "subject": "Economics",
+    "chapter": "Ch 5: Introduction to Statistics"
+  },
+  {
+    "text": "What is the importance of Statistics in Economics?",
+    "options": [
+      "It helps in decision-making",
+      "It helps in understanding the economy",
+      "It helps in understanding the economy and making decisions",
+      "It helps in understanding the economy, making decisions and predicting future trends"
+    ],
+    "correctAnswer": "D",
+    "explanation": "The importance of Statistics in Economics is that it helps in understanding the economy, making decisions and predicting future trends.",
+    "difficulty": "Medium",
+    "class": "Class 11",
+    "subject": "Economics",
+    "chapter": "Ch 5: Introduction to Statistics"
+  },
+  {
+    "text": "What is the role of Statistics in Business?",
+    "options": [
+      "To collect and present data",
+      "To analyze and interpret data",
+      "To collect, present, analyze and interpret data",
+      "To make predictions and decisions"
+    ],
+    "correctAnswer": "C",
+    "explanation": "The role of Statistics in Business is to collect, present, analyze and interpret data.",
+    "difficulty": "Medium",
+    "class": "Class 11",
+    "subject": "Economics",
+    "chapter": "Ch 5: Introduction to Statistics"
+  },
+  {
+    "text": "What is the limitation of Statistical Methods in Economics?",
+    "options": [
+      "It does not provide a complete picture of the situation",
+      "It is based on past data and may not reflect the current situation",
+      "It is based on sample data and may not be representative of the population",
+      "All of the above"
+    ],
+    "correctAnswer": "D",
+    "explanation": "The limitation of Statistical Methods in Economics is that it does not provide a complete picture of the situation, it is based on past data and may not reflect the current situation, and it is based on sample data and may not be representative of the population.",
+    "difficulty": "Hard",
+    "class": "Class 11",
+    "subject": "Economics",
+    "chapter": "Ch 5: Introduction to Statistics"
+  },
+  {
+    "text": "What is the difference between 'Descriptive Statistics' and 'Inferential Statistics'?",
+    "options": [
+      "Descriptive Statistics deals with the collection and presentation of data, while Inferential Statistics deals with the analysis and interpretation of data",
+      "Descriptive Statistics deals with the analysis and interpretation of data, while Inferential Statistics deals with the collection and presentation of data",
+      "Descriptive Statistics deals with the collection and presentation of data, while Inferential Statistics deals with the analysis and interpretation of data",
+      "Descriptive Statistics deals with the analysis and interpretation of data, while Inferential Statistics deals with the collection and presentation of data"
+    ],
+    "correctAnswer": "A",
+    "explanation": "Descriptive Statistics deals with the collection and presentation of data, while Inferential Statistics deals with the analysis and interpretation of data.",
+    "difficulty": "Medium",
+    "class": "Class 11",
+    "subject": "Economics",
+    "chapter": "Ch 5: Introduction to Statistics"
+  },
+  {
+    "text": "What is the importance of Descriptive Statistics in Economics?",
+    "options": [
+      "It helps in understanding the economy",
+      "It helps in making decisions",
+      "It helps in understanding the economy and making decisions",
+      "It helps in understanding the economy, making decisions and predicting future trends"
+    ],
+    "correctAnswer": "C",
+    "explanation": "The importance of Descriptive Statistics in Economics is that it helps in understanding the economy and making decisions.",
+    "difficulty": "Medium",
+    "class": "Class 11",
+    "subject": "Economics",
+    "chapter": "Ch 5: Introduction to Statistics"
+  },
+  {
+    "text": "What is the role of Inferential Statistics in Economics?",
+    "options": [
+      "To collect and present data",
+      "To analyze and interpret data",
+      "To collect, present, analyze and interpret data",
+      "To make predictions and decisions"
+    ],
+    "correctAnswer": "C",
+    "explanation": "The role of Inferential Statistics in Economics is to collect, present, analyze and interpret data.",
+    "difficulty": "Medium",
+    "class": "Class 11",
+    "subject": "Economics",
+    "chapter": "Ch 5: Introduction to Statistics"
+  },
+  {
+    "text": "What is the limitation of Descriptive Statistics in Economics?",
+    "options": [
+      "It does not provide a complete picture of the situation",
+      "It is based on past data and may not reflect the current situation",
+      "It is based on sample data and may not be representative of the population",
+      "All of the above"
+    ],
+    "correctAnswer": "D",
+    "explanation": "The limitation of Descriptive Statistics in Economics is that it does not provide a complete picture of the situation, it is based on past data and may not reflect the current situation, and it is based on sample data and may not be representative of the population.",
+    "difficulty": "Hard",
+    "class": "Class 11",
+    "subject": "Economics",
+    "chapter": "Ch 5: Introduction to Statistics"
+  }
+]

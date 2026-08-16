@@ -1,0 +1,107 @@
+[
+  {
+    "text": "The fiscal deficit is calculated as the difference between the actual revenue and the actual expenditure of the government. What is the formula for calculating the fiscal deficit?",
+    "options": [
+      "Actual Revenue - Actual Expenditure",
+      "Actual Expenditure - Actual Revenue",
+      "Actual Revenue + Actual Expenditure",
+      "Actual Expenditure + Actual Revenue"
+    ],
+    "correctAnswer": "Actual Revenue - Actual Expenditure",
+    "explanation": "The fiscal deficit is calculated as the difference between the actual revenue and the actual expenditure of the government. It is represented by the formula: Fiscal Deficit = Actual Revenue - Actual Expenditure.",
+    "difficulty": "Easy",
+    "class": "Class 12",
+    "subject": "Economics",
+    "chapter": "Ch 4: Government Budget and the Economy"
+  },
+  {
+    "text": "What is the primary deficit?",
+    "options": [
+      "The difference between the fiscal deficit and the interest payments on the debt",
+      "The difference between the actual revenue and the interest payments on the debt",
+      "The difference between the actual expenditure and the interest payments on the debt",
+      "The difference between the fiscal deficit and the actual revenue"
+    ],
+    "correctAnswer": "The difference between the fiscal deficit and the interest payments on the debt",
+    "explanation": "The primary deficit is the difference between the fiscal deficit and the interest payments on the debt. It is calculated as: Primary Deficit = Fiscal Deficit - Interest Payments.",
+    "difficulty": "Medium",
+    "class": "Class 12",
+    "subject": "Economics",
+    "chapter": "Ch 4: Government Budget and the Economy"
+  },
+  {
+    "text": "The government's actual revenue is $100 billion and the actual expenditure is $120 billion. What is the fiscal deficit?",
+    "options": [
+      "$10 billion",
+      "$20 billion",
+      "$30 billion",
+      "$40 billion"
+    ],
+    "correctAnswer": "$20 billion",
+    "explanation": "The fiscal deficit is calculated as the difference between the actual revenue and the actual expenditure. In this case, the fiscal deficit is $20 billion ($120 billion - $100 billion).",
+    "difficulty": "Easy",
+    "class": "Class 12",
+    "subject": "Economics",
+    "chapter": "Ch 4: Government Budget and the Economy"
+  },
+  {
+    "text": "The government's fiscal deficit is $50 billion and the interest payments on the debt are $20 billion. What is the primary deficit?",
+    "options": [
+      "$30 billion",
+      "$40 billion",
+      "$50 billion",
+      "$60 billion"
+    ],
+    "correctAnswer": "$30 billion",
+    "explanation": "The primary deficit is the difference between the fiscal deficit and the interest payments on the debt. In this case, the primary deficit is $30 billion ($50 billion - $20 billion).",
+    "difficulty": "Medium",
+    "class": "Class 12",
+    "subject": "Economics",
+    "chapter": "Ch 4: Government Budget and the Economy"
+  },
+  {
+    "text": "What is the formula for calculating the primary deficit?",
+    "options": [
+      "Primary Deficit = Fiscal Deficit - Actual Revenue",
+      "Primary Deficit = Actual Expenditure - Interest Payments",
+      "Primary Deficit = Fiscal Deficit - Interest Payments",
+      "Primary Deficit = Actual Revenue - Interest Payments"
+    ],
+    "correctAnswer": "Primary Deficit = Fiscal Deficit - Interest Payments",
+    "explanation": "The primary deficit is the difference between the fiscal deficit and the interest payments on the debt. It is represented by the formula: Primary Deficit = Fiscal Deficit - Interest Payments.",
+    "difficulty": "Easy",
+    "class": "Class 12",
+    "subject": "Economics",
+    "chapter": "Ch 4: Government Budget and the Economy"
+  },
+  {
+    "text": "The government's actual revenue is $80 billion and the actual expenditure is $100 billion. What is the fiscal deficit?",
+    "options": [
+      "$10 billion",
+      "$20 billion",
+      "$30 billion",
+      "$40 billion"
+    ],
+    "correctAnswer": "$20 billion",
+    "explanation": "The fiscal deficit is calculated as the difference between the actual revenue and the actual expenditure. In this case, the fiscal deficit is $20 billion ($100 billion - $80 billion).",
+    "difficulty": "Easy",
+    "class": "Class 12",
+    "subject": "Economics",
+    "chapter": "Ch 4: Government Budget and the Economy"
+  },
+  {
+    "text": "The government's fiscal deficit is $60 billion and the interest payments on the debt are $30 billion. What is the primary deficit?",
+    "options": [
+      "$30 billion",
+      "$40 billion",
+      "$50 billion",
+      "$60 billion"
+    ],
+    "correctAnswer": "$30 billion",
+    "explanation": "The primary deficit is the difference between the fiscal deficit and the interest payments on the debt. In this case, the primary deficit is $30 billion ($60 billion - $30 billion).",
+    "difficulty": "Medium",
+    "class": "Class 12",
+    "subject": "Economics",
+    "chapter": "Ch 4: Government Budget and the Economy"
+  }
+]

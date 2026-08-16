@@ -1,0 +1,47 @@
+[
+  {
+    "text": "Which of the following is NOT a part of the 4 Ps of Marketing?",
+    "options": [
+      "Product",
+      "Price",
+      "Promotion",
+      "Place"
+    ],
+    "correctAnswer": "Place",
+    "explanation": "The 4 Ps of Marketing are Product, Price, Promotion, and People (not Place). People refers to the personnel involved in the marketing process.",
+    "difficulty": "Easy",
+    "class": "Class 12",
+    "subject": "Business Studies",
+    "chapter": "Ch 11: Marketing Management"
+  },
+  {
+    "text": "Which of the following is a characteristic of Advertising?",
+    "options": [
+      "Mass communication",
+      "Personal communication",
+      "One-to-one communication",
+      "Two-way communication"
+    ],
+    "correctAnswer": "Mass communication",
+    "explanation": "Advertising is a form of mass communication that reaches a large number of people through various media channels.",
+    "difficulty": "Medium",
+    "class": "Class 12",
+    "subject": "Business Studies",
+    "chapter": "Ch 11: Marketing Management"
+  },
+  {
+    "text": "Which of the following is a key difference between Advertising and Personal Selling?",
+    "options": [
+      "Advertising is one-to-one communication, while Personal Selling is mass communication.",
+      "Advertising is mass communication, while Personal Selling is one-to-one communication.",
+      "Advertising is a push strategy, while Personal Selling is a pull strategy.",
+      "Advertising is a pull strategy, while Personal Selling is a push strategy."
+    ],
+    "correctAnswer": "Advertising is mass communication, while Personal Selling is one-to-one communication.",
+    "explanation": "Advertising is a form of mass communication that reaches a large number of people, while Personal Selling is a one-to-one communication between a salesperson and a customer.",
+    "difficulty": "Hard",
+    "class": "Class 12",
+    "subject": "Business Studies",
+    "chapter": "Ch 11: Marketing Management"
+  }
+]

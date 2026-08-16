@@ -1,0 +1,362 @@
+[
+  {
+    "text": "What is the relationship between Aggregate Demand (AD) and Aggregate Supply (AS) in an economy?",
+    "options": [
+      "AD is always greater than AS",
+      "AS is always greater than AD",
+      "AD equals AS at equilibrium",
+      "AD and AS are unrelated"
+    ],
+    "correctAnswer": "AD equals AS at equilibrium",
+    "explanation": "According to the NCERT textbook, in an economy, the point at which the aggregate demand curve intersects the aggregate supply curve is known as equilibrium. At this point, the quantity of goods and services that businesses are willing to supply equals the quantity that households, firms, government, and foreigners are willing to buy.",
+    "difficulty": "Easy",
+    "class": "Class 12",
+    "subject": "Economics",
+    "chapter": "Ch 3: Determination of Income and Employment"
+  },
+  {
+    "text": "What does the Propensity to Consume (APC) represent?",
+    "options": [
+      "The ratio of consumption to income",
+      "The ratio of saving to income",
+      "The ratio of investment to income",
+      "The ratio of government expenditure to income"
+    ],
+    "correctAnswer": "The ratio of consumption to income",
+    "explanation": "As per the NCERT textbook, the Propensity to Consume (APC) is the ratio of consumption expenditure to income. It represents the proportion of income that is spent on consumption.",
+    "difficulty": "Easy",
+    "class": "Class 12",
+    "subject": "Economics",
+    "chapter": "Ch 3: Determination of Income and Employment"
+  },
+  {
+    "text": "What is the relationship between the Marginal Propensity to Consume (MPC) and the Marginal Propensity to Save (MPS)?",
+    "options": [
+      "$MPC + MPS = 1$",
+      "$MPC - MPS = 1$",
+      "$MPC \times MPS = 1$",
+      "$MPC div MPS = 1$"
+    ],
+    "correctAnswer": "$MPC + MPS = 1$",
+    "explanation": "The NCERT textbook explains that the sum of the Marginal Propensity to Consume (MPC) and the Marginal Propensity to Save (MPS) is always equal to 1. This is because an increase in income can either be consumed or saved.",
+    "difficulty": "Medium",
+    "class": "Class 12",
+    "subject": "Economics",
+    "chapter": "Ch 3: Determination of Income and Employment"
+  },
+  {
+    "text": "What is the formula for calculating the Investment Multiplier?",
+    "options": [
+      "$k = \frac{1}{1-MPC}$",
+      "$k = \frac{1}{1-MPS}$",
+      "$k = \frac{MPC}{1-MPS}$",
+      "$k = \frac{MPS}{1-MPC}$"
+    ],
+    "correctAnswer": "$k = \frac{1}{1-MPC}$",
+    "explanation": "According to the NCERT textbook, the Investment Multiplier is calculated using the formula $k = \frac{1}{1-MPC}$. This formula shows that the multiplier is inversely related to the Marginal Propensity to Consume (MPC).",
+    "difficulty": "Medium",
+    "class": "Class 12",
+    "subject": "Economics",
+    "chapter": "Ch 3: Determination of Income and Employment"
+  },
+  {
+    "text": "What is a Deflationary Gap?",
+    "options": [
+      "A situation where AD is greater than AS",
+      "A situation where AS is greater than AD",
+      "A situation where AD equals AS",
+      "A situation where there is no demand"
+    ],
+    "correctAnswer": "A situation where AS is greater than AD",
+    "explanation": "The NCERT textbook defines a Deflationary Gap as a situation where the aggregate supply is greater than the aggregate demand. This occurs when the economy is producing more goods and services than what is being demanded, leading to a surplus.",
+    "difficulty": "Medium",
+    "class": "Class 12",
+    "subject": "Economics",
+    "chapter": "Ch 3: Determination of Income and Employment"
+  },
+  {
+    "text": "What is an Inflationary Gap?",
+    "options": [
+      "A situation where AD is greater than AS",
+      "A situation where AS is greater than AD",
+      "A situation where AD equals AS",
+      "A situation where there is no demand"
+    ],
+    "correctAnswer": "A situation where AD is greater than AS",
+    "explanation": "According to the NCERT textbook, an Inflationary Gap occurs when the aggregate demand is greater than the aggregate supply. This leads to a shortage of goods and services, causing prices to rise and resulting in inflation.",
+    "difficulty": "Medium",
+    "class": "Class 12",
+    "subject": "Economics",
+    "chapter": "Ch 3: Determination of Income and Employment"
+  },
+  {
+    "text": "What is the remedy for a Deflationary Gap?",
+    "options": [
+      "Increase government expenditure",
+      "Decrease government expenditure",
+      "Increase taxes",
+      "Decrease taxes"
+    ],
+    "correctAnswer": "Increase government expenditure",
+    "explanation": "The NCERT textbook suggests that the remedy for a Deflationary Gap is to increase government expenditure. This will help to increase the aggregate demand and bridge the gap between the aggregate supply and demand.",
+    "difficulty": "Medium",
+    "class": "Class 12",
+    "subject": "Economics",
+    "chapter": "Ch 3: Determination of Income and Employment"
+  },
+  {
+    "text": "What is the remedy for an Inflationary Gap?",
+    "options": [
+      "Increase government expenditure",
+      "Decrease government expenditure",
+      "Increase taxes",
+      "Decrease taxes"
+    ],
+    "correctAnswer": "Decrease government expenditure",
+    "explanation": "According to the NCERT textbook, the remedy for an Inflationary Gap is to decrease government expenditure. This will help to reduce the aggregate demand and bridge the gap between the aggregate supply and demand.",
+    "difficulty": "Medium",
+    "class": "Class 12",
+    "subject": "Economics",
+    "chapter": "Ch 3: Determination of Income and Employment"
+  },
+  {
+    "text": "What is the effect of an increase in the Marginal Propensity to Consume (MPC) on the Investment Multiplier?",
+    "options": [
+      "The Investment Multiplier increases",
+      "The Investment Multiplier decreases",
+      "The Investment Multiplier remains unchanged",
+      "The Investment Multiplier becomes zero"
+    ],
+    "correctAnswer": "The Investment Multiplier increases",
+    "explanation": "The NCERT textbook explains that an increase in the Marginal Propensity to Consume (MPC) will lead to an increase in the Investment Multiplier. This is because a higher MPC means that a larger proportion of income is being consumed, leading to a greater multiplier effect.",
+    "difficulty": "Hard",
+    "class": "Class 12",
+    "subject": "Economics",
+    "chapter": "Ch 3: Determination of Income and Employment"
+  },
+  {
+    "text": "What is the effect of a decrease in the Marginal Propensity to Save (MPS) on the Investment Multiplier?",
+    "options": [
+      "The Investment Multiplier increases",
+      "The Investment Multiplier decreases",
+      "The Investment Multiplier remains unchanged",
+      "The Investment Multiplier becomes zero"
+    ],
+    "correctAnswer": "The Investment Multiplier increases",
+    "explanation": "According to the NCERT textbook, a decrease in the Marginal Propensity to Save (MPS) will lead to an increase in the Investment Multiplier. This is because a lower MPS means that a smaller proportion of income is being saved, leading to a greater multiplier effect.",
+    "difficulty": "Hard",
+    "class": "Class 12",
+    "subject": "Economics",
+    "chapter": "Ch 3: Determination of Income and Employment"
+  },
+  {
+    "text": "What is the relationship between the Average Propensity to Consume (APC) and the Marginal Propensity to Consume (MPC)?",
+    "options": [
+      "$APC = MPC$",
+      "$APC > MPC$",
+      "$APC < MPC$",
+      "$APC$ and $MPC$ are unrelated"
+    ],
+    "correctAnswer": "$APC > MPC$",
+    "explanation": "The NCERT textbook explains that the Average Propensity to Consume (APC) is greater than the Marginal Propensity to Consume (MPC). This is because the APC is the ratio of total consumption to total income, while the MPC is the ratio of the change in consumption to the change in income.",
+    "difficulty": "Hard",
+    "class": "Class 12",
+    "subject": "Economics",
+    "chapter": "Ch 3: Determination of Income and Employment"
+  },
+  {
+    "text": "What is the effect of an increase in taxes on the aggregate demand?",
+    "options": [
+      "The aggregate demand increases",
+      "The aggregate demand decreases",
+      "The aggregate demand remains unchanged",
+      "The aggregate demand becomes zero"
+    ],
+    "correctAnswer": "The aggregate demand decreases",
+    "explanation": "According to the NCERT textbook, an increase in taxes will lead to a decrease in the aggregate demand. This is because higher taxes will reduce the disposable income of households, leading to a decrease in consumption expenditure.",
+    "difficulty": "Medium",
+    "class": "Class 12",
+    "subject": "Economics",
+    "chapter": "Ch 3: Determination of Income and Employment"
+  },
+  {
+    "text": "What is the effect of a decrease in government expenditure on the aggregate demand?",
+    "options": [
+      "The aggregate demand increases",
+      "The aggregate demand decreases",
+      "The aggregate demand remains unchanged",
+      "The aggregate demand becomes zero"
+    ],
+    "correctAnswer": "The aggregate demand decreases",
+    "explanation": "The NCERT textbook explains that a decrease in government expenditure will lead to a decrease in the aggregate demand. This is because government expenditure is a component of the aggregate demand, and a decrease in it will reduce the overall demand for goods and services.",
+    "difficulty": "Medium",
+    "class": "Class 12",
+    "subject": "Economics",
+    "chapter": "Ch 3: Determination of Income and Employment"
+  },
+  {
+    "text": "What is the effect of an increase in the money supply on the aggregate demand?",
+    "options": [
+      "The aggregate demand increases",
+      "The aggregate demand decreases",
+      "The aggregate demand remains unchanged",
+      "The aggregate demand becomes zero"
+    ],
+    "correctAnswer": "The aggregate demand increases",
+    "explanation": "According to the NCERT textbook, an increase in the money supply will lead to an increase in the aggregate demand. This is because a higher money supply will lead to lower interest rates, making borrowing cheaper and increasing consumption and investment expenditure.",
+    "difficulty": "Medium",
+    "class": "Class 12",
+    "subject": "Economics",
+    "chapter": "Ch 3: Determination of Income and Employment"
+  },
+  {
+    "text": "What is the effect of a decrease in the price level on the aggregate demand?",
+    "options": [
+      "The aggregate demand increases",
+      "The aggregate demand decreases",
+      "The aggregate demand remains unchanged",
+      "The aggregate demand becomes zero"
+    ],
+    "correctAnswer": "The aggregate demand increases",
+    "explanation": "The NCERT textbook explains that a decrease in the price level will lead to an increase in the aggregate demand. This is because a lower price level will increase the purchasing power of households, leading to an increase in consumption expenditure.",
+    "difficulty": "Medium",
+    "class": "Class 12",
+    "subject": "Economics",
+    "chapter": "Ch 3: Determination of Income and Employment"
+  },
+  {
+    "text": "What is the relationship between the aggregate demand and the aggregate supply in the long run?",
+    "options": [
+      "The aggregate demand is always greater than the aggregate supply",
+      "The aggregate supply is always greater than the aggregate demand",
+      "The aggregate demand equals the aggregate supply",
+      "The aggregate demand and aggregate supply are unrelated"
+    ],
+    "correctAnswer": "The aggregate demand equals the aggregate supply",
+    "explanation": "According to the NCERT textbook, in the long run, the aggregate demand equals the aggregate supply. This is because the economy will always tend towards equilibrium, where the quantity of goods and services produced equals the quantity demanded.",
+    "difficulty": "Hard",
+    "class": "Class 12",
+    "subject": "Economics",
+    "chapter": "Ch 3: Determination of Income and Employment"
+  },
+  {
+    "text": "What is the effect of an increase in the production capacity on the aggregate supply?",
+    "options": [
+      "The aggregate supply increases",
+      "The aggregate supply decreases",
+      "The aggregate supply remains unchanged",
+      "The aggregate supply becomes zero"
+    ],
+    "correctAnswer": "The aggregate supply increases",
+    "explanation": "The NCERT textbook explains that an increase in the production capacity will lead to an increase in the aggregate supply. This is because a higher production capacity will allow firms to produce more goods and services, leading to an increase in the overall supply.",
+    "difficulty": "Medium",
+    "class": "Class 12",
+    "subject": "Economics",
+    "chapter": "Ch 3: Determination of Income and Employment"
+  },
+  {
+    "text": "What is the effect of a decrease in the cost of production on the aggregate supply?",
+    "options": [
+      "The aggregate supply increases",
+      "The aggregate supply decreases",
+      "The aggregate supply remains unchanged",
+      "The aggregate supply becomes zero"
+    ],
+    "correctAnswer": "The aggregate supply increases",
+    "explanation": "According to the NCERT textbook, a decrease in the cost of production will lead to an increase in the aggregate supply. This is because lower costs will increase the profitability of firms, leading to an increase in production and supply.",
+    "difficulty": "Medium",
+    "class": "Class 12",
+    "subject": "Economics",
+    "chapter": "Ch 3: Determination of Income and Employment"
+  },
+  {
+    "text": "What is the effect of an increase in the price of a raw material on the aggregate supply?",
+    "options": [
+      "The aggregate supply increases",
+      "The aggregate supply decreases",
+      "The aggregate supply remains unchanged",
+      "The aggregate supply becomes zero"
+    ],
+    "correctAnswer": "The aggregate supply decreases",
+    "explanation": "The NCERT textbook explains that an increase in the price of a raw material will lead to a decrease in the aggregate supply. This is because higher raw material costs will reduce the profitability of firms, leading to a decrease in production and supply.",
+    "difficulty": "Medium",
+    "class": "Class 12",
+    "subject": "Economics",
+    "chapter": "Ch 3: Determination of Income and Employment"
+  },
+  {
+    "text": "What is the effect of a decrease in the tax rate on the aggregate supply?",
+    "options": [
+      "The aggregate supply increases",
+      "The aggregate supply decreases",
+      "The aggregate supply remains unchanged",
+      "The aggregate supply becomes zero"
+    ],
+    "correctAnswer": "The aggregate supply increases",
+    "explanation": "According to the NCERT textbook, a decrease in the tax rate will lead to an increase in the aggregate supply. This is because lower taxes will increase the profitability of firms, leading to an increase in production and supply.",
+    "difficulty": "Medium",
+    "class": "Class 12",
+    "subject": "Economics",
+    "chapter": "Ch 3: Determination of Income and Employment"
+  },
+  {
+    "text": "What is the effect of an increase in the interest rate on the aggregate demand?",
+    "options": [
+      "The aggregate demand increases",
+      "The aggregate demand decreases",
+      "The aggregate demand remains unchanged",
+      "The aggregate demand becomes zero"
+    ],
+    "correctAnswer": "The aggregate demand decreases",
+    "explanation": "The NCERT textbook explains that an increase in the interest rate will lead to a decrease in the aggregate demand. This is because higher interest rates will make borrowing more expensive, leading to a decrease in consumption and investment expenditure.",
+    "difficulty": "Medium",
+    "class": "Class 12",
+    "subject": "Economics",
+    "chapter": "Ch 3: Determination of Income and Employment"
+  },
+  {
+    "text": "What is the effect of a decrease in the exchange rate on the aggregate demand?",
+    "options": [
+      "The aggregate demand increases",
+      "The aggregate demand decreases",
+      "The aggregate demand remains unchanged",
+      "The aggregate demand becomes zero"
+    ],
+    "correctAnswer": "The aggregate demand increases",
+    "explanation": "According to the NCERT textbook, a decrease in the exchange rate will lead to an increase in the aggregate demand. This is because a lower exchange rate will make exports cheaper, leading to an increase in export demand and an increase in the overall aggregate demand.",
+    "difficulty": "Medium",
+    "class": "Class 12",
+    "subject": "Economics",
+    "chapter": "Ch 3: Determination of Income and Employment"
+  },
+  {
+    "text": "What is the effect of an increase in the government expenditure on the aggregate demand?",
+    "options": [
+      "The aggregate demand increases",
+      "The aggregate demand decreases",
+      "The aggregate demand remains unchanged",
+      "The aggregate demand becomes zero"
+    ],
+    "correctAnswer": "The aggregate demand increases",
+    "explanation": "The NCERT textbook explains that an increase in the government expenditure will lead to an increase in the aggregate demand. This is because government expenditure is a component of the aggregate demand, and an increase in it will lead to an increase in the overall demand for goods and services.",
+    "difficulty": "Medium",
+    "class": "Class 12",
+    "subject": "Economics",
+    "chapter": "Ch 3: Determination of Income and Employment"
+  },
+  {
+    "text": "What is the effect of a decrease in the money supply on the aggregate demand?",
+    "options": [
+      "The aggregate demand increases",
+      "The aggregate demand decreases",
+      "The aggregate demand remains unchanged",
+      "The aggregate demand becomes zero"
+    ],
+    "correctAnswer": "The aggregate demand decreases",
+    "explanation": "According to the NCERT textbook, a decrease in the money supply will lead to a decrease in the aggregate demand. This is because a lower money supply will lead to higher interest rates, making borrowing more expensive and leading to a decrease in consumption and investment expenditure.",
+    "difficulty": "Medium",
+    "class": "Class 12",
+    "subject": "Economics",
+    "chapter": "Ch 3: Determination of Income and Employment"
+  }
+]

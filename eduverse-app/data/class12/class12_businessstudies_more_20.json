@@ -1,0 +1,182 @@
+[
+  {
+    "text": "What is the effect of financial leverage on EPS (Earnings Per Share)?",
+    "options": [
+      "EPS increases with an increase in financial leverage",
+      "EPS decreases with an increase in financial leverage",
+      "EPS remains constant with an increase in financial leverage",
+      "EPS is unaffected by financial leverage"
+    ],
+    "correctAnswer": "EPS increases with an increase in financial leverage",
+    "explanation": "Financial leverage increases the risk of a company but also increases its potential returns. This is because financial leverage involves using borrowed funds to finance assets, which can amplify both profits and losses. As a result, EPS increases with an increase in financial leverage.",
+    "difficulty": "Medium",
+    "class": "Class 12",
+    "subject": "Business Studies",
+    "chapter": "Ch 9: Financial Management"
+  },
+  {
+    "text": "Which of the following is a determinant of fixed capital requirement?",
+    "options": [
+      "Market demand",
+      "Production capacity",
+      "Raw material availability",
+      "All of the above"
+    ],
+    "correctAnswer": "All of the above",
+    "explanation": "Fixed capital requirement is determined by various factors, including market demand, production capacity, and raw material availability. These factors influence the level of investment required to meet the company's production needs.",
+    "difficulty": "Medium",
+    "class": "Class 12",
+    "subject": "Business Studies",
+    "chapter": "Ch 9: Financial Management"
+  },
+  {
+    "text": "What is the primary purpose of floatation costs?",
+    "options": [
+      "To cover the cost of issuing new shares",
+      "To provide a source of long-term finance",
+      "To reduce the risk of financial leverage",
+      "To increase the company's market value"
+    ],
+    "correctAnswer": "To cover the cost of issuing new shares",
+    "explanation": "Floatation costs refer to the expenses incurred by a company when issuing new shares to the public. These costs include underwriting fees, legal fees, and other expenses associated with the IPO process.",
+    "difficulty": "Medium",
+    "class": "Class 12",
+    "subject": "Business Studies",
+    "chapter": "Ch 9: Financial Management"
+  },
+  {
+    "text": "Which of the following is a characteristic of a stable dividend policy?",
+    "options": [
+      "Dividend payout ratio is high",
+      "Dividend payout ratio is low",
+      "Dividend payout ratio is constant",
+      "Dividend payout ratio varies with profits"
+    ],
+    "correctAnswer": "Dividend payout ratio is constant",
+    "explanation": "A stable dividend policy involves maintaining a consistent dividend payout ratio, regardless of changes in profits. This approach provides investors with a predictable income stream and helps to build investor confidence.",
+    "difficulty": "Medium",
+    "class": "Class 12",
+    "subject": "Business Studies",
+    "chapter": "Ch 9: Financial Management"
+  },
+  {
+    "text": "What is the effect of a high dividend payout ratio on a company's ability to invest in new projects?",
+    "options": [
+      "It increases the company's ability to invest in new projects",
+      "It decreases the company's ability to invest in new projects",
+      "It has no effect on the company's ability to invest in new projects",
+      "It increases the company's risk of financial distress"
+    ],
+    "correctAnswer": "It decreases the company's ability to invest in new projects",
+    "explanation": "A high dividend payout ratio reduces the company's ability to invest in new projects, as a larger portion of profits is distributed to shareholders rather than retained for reinvestment.",
+    "difficulty": "Medium",
+    "class": "Class 12",
+    "subject": "Business Studies",
+    "chapter": "Ch 9: Financial Management"
+  },
+  {
+    "text": "What is the formula for calculating the cost of equity using the Capital Asset Pricing Model (CAPM)?",
+    "options": [
+      "$r_e = r_f + \beta(r_m - r_f)$",
+      "$r_e = r_f + alpha(r_m - r_f)$",
+      "$r_e = r_f + \beta(r_f - r_m)$",
+      "$r_e = r_f + alpha(r_f - r_m)$"
+    ],
+    "correctAnswer": "$r_e = r_f + \beta(r_m - r_f)$",
+    "explanation": "The CAPM formula for calculating the cost of equity is $r_e = r_f + \beta(r_m - r_f)$, where $r_e$ is the cost of equity, $r_f$ is the risk-free rate, $\beta$ is the beta coefficient, and $r_m$ is the market return.",
+    "difficulty": "Hard",
+    "class": "Class 12",
+    "subject": "Business Studies",
+    "chapter": "Ch 9: Financial Management"
+  },
+  {
+    "text": "What is the accounting entry for issuing new shares at a premium?",
+    "options": [
+      "Debit Share Capital, Credit Premium on Share Capital",
+      "Debit Premium on Share Capital, Credit Share Capital",
+      "Debit Share Capital, Credit Cash",
+      "Debit Cash, Credit Share Capital"
+    ],
+    "correctAnswer": "Debit Share Capital, Credit Premium on Share Capital",
+    "explanation": "When issuing new shares at a premium, the accounting entry is Debit Share Capital and Credit Premium on Share Capital. This reflects the increase in share capital and the creation of a premium on share capital.",
+    "difficulty": "Medium",
+    "class": "Class 12",
+    "subject": "Business Studies",
+    "chapter": "Ch 9: Financial Management"
+  },
+  {
+    "text": "What is the effect of a decrease in the risk-free rate on the cost of equity?",
+    "options": [
+      "It increases the cost of equity",
+      "It decreases the cost of equity",
+      "It has no effect on the cost of equity",
+      "It increases the risk of financial distress"
+    ],
+    "correctAnswer": "It decreases the cost of equity",
+    "explanation": "A decrease in the risk-free rate reduces the cost of equity, as investors require a lower return to compensate for the lower risk.",
+    "difficulty": "Medium",
+    "class": "Class 12",
+    "subject": "Business Studies",
+    "chapter": "Ch 9: Financial Management"
+  },
+  {
+    "text": "What is the purpose of a dividend reinvestment plan?",
+    "options": [
+      "To provide a source of long-term finance",
+      "To reduce the risk of financial leverage",
+      "To increase the company's market value",
+      "To allow shareholders to reinvest their dividends in the company's shares"
+    ],
+    "correctAnswer": "To allow shareholders to reinvest their dividends in the company's shares",
+    "explanation": "A dividend reinvestment plan allows shareholders to reinvest their dividends in the company's shares, rather than receiving cash payments. This can help to increase the company's market value and provide a long-term source of finance.",
+    "difficulty": "Medium",
+    "class": "Class 12",
+    "subject": "Business Studies",
+    "chapter": "Ch 9: Financial Management"
+  },
+  {
+    "text": "What is the effect of a high beta coefficient on a company's cost of equity?",
+    "options": [
+      "It decreases the cost of equity",
+      "It increases the cost of equity",
+      "It has no effect on the cost of equity",
+      "It increases the risk of financial distress"
+    ],
+    "correctAnswer": "It increases the cost of equity",
+    "explanation": "A high beta coefficient indicates that a company's stock price is highly sensitive to market fluctuations. As a result, investors require a higher return to compensate for the increased risk, which increases the cost of equity.",
+    "difficulty": "Medium",
+    "class": "Class 12",
+    "subject": "Business Studies",
+    "chapter": "Ch 9: Financial Management"
+  },
+  {
+    "text": "What is the accounting entry for declaring dividends?",
+    "options": [
+      "Debit Dividend Account, Credit Share Capital",
+      "Debit Share Capital, Credit Dividend Account",
+      "Debit Dividend Account, Credit Cash",
+      "Debit Cash, Credit Dividend Account"
+    ],
+    "correctAnswer": "Debit Dividend Account, Credit Cash",
+    "explanation": "When declaring dividends, the accounting entry is Debit Dividend Account and Credit Cash. This reflects the distribution of dividends to shareholders and the reduction in cash reserves.",
+    "difficulty": "Medium",
+    "class": "Class 12",
+    "subject": "Business Studies",
+    "chapter": "Ch 9: Financial Management"
+  },
+  {
+    "text": "What is the effect of a decrease in the market return on the cost of equity?",
+    "options": [
+      "It increases the cost of equity",
+      "It decreases the cost of equity",
+      "It has no effect on the cost of equity",
+      "It increases the risk of financial distress"
+    ],
+    "correctAnswer": "It decreases the cost of equity",
+    "explanation": "A decrease in the market return reduces the cost of equity, as investors require a lower return to compensate for the lower market return.",
+    "difficulty": "Medium",
+    "class": "Class 12",
+    "subject": "Business Studies",
+    "chapter": "Ch 9: Financial Management"
+  }
+]

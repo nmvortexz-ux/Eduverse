@@ -1,0 +1,327 @@
+[
+  {
+    "class": "Class 8",
+    "subject": "Science",
+    "difficulty": "Easy",
+    "text": "What type of reproduction involves the fusion of male and female gametes?",
+    "explanation": "Sexual reproduction is the process of reproduction that begins with the fusion of male and female gametes to form a zygote.",
+    "options": [
+      { "text": "Sexual reproduction", "isCorrect": true },
+      { "text": "Asexual reproduction", "isCorrect": false },
+      { "text": "Binary fission", "isCorrect": false },
+      { "text": "Budding", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 8",
+    "subject": "Science",
+    "difficulty": "Medium",
+    "text": "Animals that lay eggs are called oviparous, while animals that give birth to young ones are called viviparous. Which of the following is an example of an oviparous animal?",
+    "explanation": "Oviparous animals are those that lay eggs, which later hatch into young ones. Examples include hens, frogs, butterflies, and crows.",
+    "options": [
+      { "text": "Hen", "isCorrect": true },
+      { "text": "Human", "isCorrect": false },
+      { "text": "Dog", "isCorrect": false },
+      { "text": "Cow", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 8",
+    "subject": "Science",
+    "difficulty": "Hard",
+    "text": "In Vitro Fertilization (IVF) is a modern reproductive technique. In this technique, where does fertilization and initial development take place?",
+    "explanation": "In IVF, fertilization of the egg by the sperm is carried out outside the body in a laboratory (in vitro). Once the zygote develops for about a week, it is placed in the mother's uterus for complete development.",
+    "options": [
+      { "text": "Fertilization in the uterus, development in a test tube", "isCorrect": false },
+      { "text": "Fertilization in a laboratory, development in the uterus", "isCorrect": true },
+      { "text": "Both fertilization and development in a laboratory", "isCorrect": false },
+      { "text": "Both fertilization and development in the fallopian tube", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 8",
+    "subject": "Science",
+    "difficulty": "Very Hard",
+    "text": "The transformation of the larva into an adult through drastic changes is called metamorphosis. What is the correct sequence of stages in the life cycle of a frog?",
+    "explanation": "The life cycle of a frog progresses through distinct stages: Egg \\\\(\\\\rightarrow\\\\) Tadpole (larval stage) \\\\(\\\\rightarrow\\\\) Adult frog. Metamorphosis transforms the fish-like tadpole into an adult capable of jumping and breathing on land.",
+    "options": [
+      { "text": "Egg \\\\(\\\\rightarrow\\\\) Adult \\\\(\\\\rightarrow\\\\) Tadpole", "isCorrect": false },
+      { "text": "Tadpole \\\\(\\\\rightarrow\\\\) Egg \\\\(\\\\rightarrow\\\\) Adult", "isCorrect": false },
+      { "text": "Egg \\\\(\\\\rightarrow\\\\) Tadpole \\\\(\\\\rightarrow\\\\) Adult", "isCorrect": true },
+      { "text": "Adult \\\\(\\\\rightarrow\\\\) Tadpole \\\\(\\\\rightarrow\\\\) Egg", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 8",
+    "subject": "Science",
+    "difficulty": "Medium",
+    "text": "Asexual reproduction involves only a single parent. How does reproduction occur in Hydra?",
+    "explanation": "Hydra reproduces asexually by budding, a process where new individuals develop as outgrowths (buds) from the parent body and eventually detach to grow independently.",
+    "options": [
+      { "text": "Binary fission", "isCorrect": false },
+      { "text": "Budding", "isCorrect": true },
+      { "text": "Spore formation", "isCorrect": false },
+      { "text": "Fragmentation", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 8",
+    "subject": "Science",
+    "difficulty": "Easy",
+    "text": "Which endocrine gland is known as the 'master gland' because it controls the secretions of other endocrine glands?",
+    "explanation": "The pituitary gland is called the master gland because it secretes hormones that stimulate other glands, such as the thyroid, testes, ovaries, and adrenals, to release their hormones.",
+    "options": [
+      { "text": "Thyroid gland", "isCorrect": false },
+      { "text": "Adrenal gland", "isCorrect": false },
+      { "text": "Pituitary gland", "isCorrect": true },
+      { "text": "Pancreas", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 8",
+    "subject": "Science",
+    "difficulty": "Medium",
+    "text": "Thyroxine hormone is produced by the thyroid gland. Which nutrient is essential in our diet to ensure the proper production of thyroxine?",
+    "explanation": "The thyroid gland requires iodine to produce thyroxine. Insufficient iodine in diet can lead to goitre, a disease characterized by a swollen neck.",
+    "options": [
+      { "text": "Iron", "isCorrect": false },
+      { "text": "Calcium", "isCorrect": false },
+      { "text": "Iodine", "isCorrect": true },
+      { "text": "Vitamin C", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 8",
+    "subject": "Science",
+    "difficulty": "Hard",
+    "text": "During adolescence, the larynx (voice box) begins to grow. The protruding part of the throat visible in boys is called:",
+    "explanation": "At puberty, the voice box or larynx begins to grow. Boys develop a larger voice box, which protrudes in the throat region and is called the Adam's apple.",
+    "options": [
+      { "text": "Adam's apple", "isCorrect": true },
+      { "text": "Thyroid cartilage", "isCorrect": false },
+      { "text": "Epiglottis", "isCorrect": false },
+      { "text": "Windpipe", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 8",
+    "subject": "Science",
+    "difficulty": "Very Hard",
+    "text": "How is the sex of a human baby determined at fertilization?",
+    "explanation": "The sex chromosome of the sperm determines the baby's sex. If a sperm carrying an X chromosome fertilizes the egg, the zygote is female (XX); if it carries a Y chromosome, the zygote is male (XY).",
+    "options": [
+      { "text": "By the mother's X chromosome", "isCorrect": false },
+      { "text": "By the father's X or Y chromosome in the sperm", "isCorrect": true },
+      { "text": "By the hormone levels of the mother during pregnancy", "isCorrect": false },
+      { "text": "By the environmental temperature during fertilization", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 8",
+    "subject": "Science",
+    "difficulty": "Easy",
+    "text": "Which hormone is responsible for the 'fight or flight' response, helping the body adjust to sudden stress when one is angry or worried?",
+    "explanation": "Adrenaline, secreted by the adrenal glands, helps the body manage stress and prepares it for quick physical action when angry, embarrassed, or worried.",
+    "options": [
+      { "text": "Insulin", "isCorrect": false },
+      { "text": "Adrenaline", "isCorrect": true },
+      { "text": "Growth hormone", "isCorrect": false },
+      { "text": "Estrogen", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 8",
+    "subject": "Science",
+    "difficulty": "Easy",
+    "text": "Pressure is defined as the force acting per unit area. What is the SI unit of pressure?",
+    "explanation": "Pressure is force per unit area. Its SI unit is Pascal (Pa), which is equal to one Newton per square meter (\\\\(\\\\text{N/m}^2\\\\)).",
+    "options": [
+      { "text": "Newton", "isCorrect": false },
+      { "text": "Joule", "isCorrect": false },
+      { "text": "Pascal", "isCorrect": true },
+      { "text": "Watt", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 8",
+    "subject": "Science",
+    "difficulty": "Medium",
+    "text": "A solid rectangular block is placed on a table in three different orientations. Under which orientation will it exert the maximum pressure on the table?",
+    "explanation": "Pressure is inversely proportional to the area of contact for a constant force (the weight of the block). Therefore, it exerts maximum pressure when placed on its smallest face.",
+    "options": [
+      { "text": "When placed on its smallest face", "isCorrect": true },
+      { "text": "When placed on its largest face", "isCorrect": false },
+      { "text": "When placed on its medium face", "isCorrect": false },
+      { "text": "Pressure is the same in all orientations", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 8",
+    "subject": "Science",
+    "difficulty": "Hard",
+    "text": "A force of \\\\(200 \\\\text{ N}\\\\) is applied perpendicularly to a flat surface having an area of \\\\(0.5 \\\\text{ m}^2\\\\). Calculate the pressure exerted on the surface.",
+    "explanation": "Using the formula \\\\(\\\\text{Pressure} = \\\\text{Force} / \\\\text{Area}\\\\), we calculate: \\\\(\\\\text{Pressure} = 200 \\\\text{ N} / 0.5 \\\\text{ m}^2 = 400 \\\\text{ Pa}\\\\).",
+    "options": [
+      { "text": "\\\\(100 \\\\text{ Pa}\\\\)", "isCorrect": false },
+      { "text": "\\\\(200 \\\\text{ Pa}\\\\)", "isCorrect": false },
+      { "text": "\\\\(400 \\\\text{ Pa}\\\\)", "isCorrect": true },
+      { "text": "\\\\(800 \\\\text{ Pa}\\\\)", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 8",
+    "subject": "Science",
+    "difficulty": "Very Hard",
+    "text": "Why does the pressure exerted by a liquid increase as the depth increases?",
+    "explanation": "The pressure at a point in a liquid depends on the height of the liquid column above it. As depth increases, the weight of the liquid column above increases, exerting more force and thus higher pressure.",
+    "options": [
+      { "text": "Due to the increasing weight of the liquid column above", "isCorrect": true },
+      { "text": "Due to the decrease in density of the liquid at greater depths", "isCorrect": false },
+      { "text": "Due to the decrease in atmospheric pressure at greater depths", "isCorrect": false },
+      { "text": "Due to the gravitational acceleration increasing with depth", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 8",
+    "subject": "Science",
+    "difficulty": "Medium",
+    "text": "Forces can be categorized as contact and non-contact forces. Which of the following is an example of a non-contact force?",
+    "explanation": "A non-contact force acts on an object without physical interaction. Magnetic force is a non-contact force, whereas friction, tension, and muscular forces are contact forces.",
+    "options": [
+      { "text": "Frictional force", "isCorrect": false },
+      { "text": "Muscular force", "isCorrect": false },
+      { "text": "Magnetic force", "isCorrect": true },
+      { "text": "Tension force", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 8",
+    "subject": "Science",
+    "difficulty": "Easy",
+    "text": "Which of the following statements correctly describes the direction and effect of the force of friction?",
+    "explanation": "Friction is a contact force that always acts in a direction opposite to the relative motion or the tendency of motion between the two surfaces in contact.",
+    "options": [
+      { "text": "It always opposes the relative motion between two contact surfaces", "isCorrect": true },
+      { "text": "It always assists the motion of a moving body", "isCorrect": false },
+      { "text": "It works only when an object moves on a gaseous surface", "isCorrect": false },
+      { "text": "It increases the speed of an object moving on a rough surface", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 8",
+    "subject": "Science",
+    "difficulty": "Hard",
+    "text": "Arrange the three types of friction (static friction, sliding friction, and rolling friction) in increasing order of their magnitude.",
+    "explanation": "Rolling friction is the smallest because rolling reduces friction. Sliding friction is larger than rolling friction but smaller than static friction, which is the maximum force of friction.",
+    "options": [
+      { "text": "Rolling friction < Sliding friction < Static friction", "isCorrect": true },
+      { "text": "Static friction < Sliding friction < Rolling friction", "isCorrect": false },
+      { "text": "Sliding friction < Rolling friction < Static friction", "isCorrect": false },
+      { "text": "Rolling friction < Static friction < Sliding friction", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 8",
+    "subject": "Science",
+    "difficulty": "Hard",
+    "text": "Why do kabaddi players rub their hands with soil, and gymnasts apply coarse substances on their hands before performance?",
+    "explanation": "Soil or coarse powders create rough contact surfaces, which increases the force of friction between the hands, offering a much better grip and preventing slipping.",
+    "options": [
+      { "text": "To decrease friction and make hands smooth", "isCorrect": false },
+      { "text": "To increase friction for a better grip", "isCorrect": true },
+      { "text": "To cool down their hands during physical exertion", "isCorrect": false },
+      { "text": "To lubricate their hands to prevent injury", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 8",
+    "subject": "Science",
+    "difficulty": "Very Hard",
+    "text": "A wooden block of mass \\\\(m\\\\) is placed on a rough horizontal table. If the contact area between the block and the table is doubled while keeping its mass constant, what will be the effect on the sliding force of friction?",
+    "explanation": "The force of sliding friction depends on the normal force (weight) and the nature of the surfaces in contact, but it is independent of the area of contact.",
+    "options": [
+      { "text": "The force of friction will be doubled", "isCorrect": false },
+      { "text": "The force of friction will be halved", "isCorrect": false },
+      { "text": "The force of friction will remain unchanged", "isCorrect": true },
+      { "text": "The force of friction will increase four times", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 8",
+    "subject": "Science",
+    "difficulty": "Medium",
+    "text": "Ball bearings are widely used in ceiling fans, bicycles, and motor vehicles. How do they reduce friction in rotating parts?",
+    "explanation": "Ball bearings convert sliding friction into rolling friction by using metal spheres that roll between the rotating parts, significantly lowering friction.",
+    "options": [
+      { "text": "By converting sliding friction into rolling friction", "isCorrect": true },
+      { "text": "By converting static friction into sliding friction", "isCorrect": false },
+      { "text": "By converting rolling friction into sliding friction", "isCorrect": false },
+      { "text": "By replacing contact force with electromagnetic force", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 8",
+    "subject": "Science",
+    "difficulty": "Easy",
+    "text": "Sound is produced by which of the following physical states of an object?",
+    "explanation": "Sound is produced by vibrating bodies. When an object vibrates, it transmits energy through waves in the surrounding medium.",
+    "options": [
+      { "text": "Vibrating bodies", "isCorrect": true },
+      { "text": "Heating bodies", "isCorrect": false },
+      { "text": "Cooling bodies", "isCorrect": false },
+      { "text": "Stationary bodies", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 8",
+    "subject": "Science",
+    "difficulty": "Medium",
+    "text": "A bird makes a high-pitched sound whereas a lion makes a low-pitched roar. Which property of sound determines its pitch?",
+    "explanation": "The pitch of a sound is determined by its frequency of vibration. A high frequency of vibration produces a high-pitched sound, while a low frequency produces a low-pitched sound.",
+    "options": [
+      { "text": "Amplitude", "isCorrect": false },
+      { "text": "Frequency", "isCorrect": true },
+      { "text": "Loudness", "isCorrect": false },
+      { "text": "Speed", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 8",
+    "subject": "Science",
+    "difficulty": "Hard",
+    "text": "What is the typical audible frequency range of sound waves for a healthy human ear?",
+    "explanation": "The range of audible frequencies for a normal human ear is roughly between \\\\(20 \\\\text{ Hz}\\\\) and \\\\(20000 \\\\text{ Hz}\\\\) (or \\\\(20 \\\\text{ kHz}\\\\)). Sounds outside this range are inaudible.",
+    "options": [
+      { "text": "Below \\\\(20 \\\\text{ Hz}\\\\) only", "isCorrect": false },
+      { "text": "Between \\\\(20 \\\\text{ Hz}\\\\) and \\\\(20000 \\\\text{ Hz}\\\\)", "isCorrect": true },
+      { "text": "Above \\\\(20000 \\\\text{ Hz}\\\\) only", "isCorrect": false },
+      { "text": "Between \\\\(200 \\\\text{ Hz}\\\\) and \\\\(2000 \\\\text{ Hz}\\\\)", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 8",
+    "subject": "Science",
+    "difficulty": "Very Hard",
+    "text": "In which of the following media will sound travel the fastest at a given temperature, and why?",
+    "explanation": "Sound travels fastest in solids (like iron) because the molecules are closely packed, enabling rapid transmission of vibrational energy compared to liquids and gases.",
+    "options": [
+      { "text": "Iron rod, because solids have closely packed molecules facilitating rapid vibration transfer", "isCorrect": true },
+      { "text": "Water, because liquid molecules slide over each other carrying sound faster", "isCorrect": false },
+      { "text": "Air, because gas molecules have high kinetic energy to transmit sound waves", "isCorrect": false },
+      { "text": "Vacuum, because there are no molecules to obstruct the sound wave", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 8",
+    "subject": "Science",
+    "difficulty": "Very Hard",
+    "text": "The loudness of a sound is directly related to the amplitude of the vibration producing it. What is the exact mathematical relationship between loudness and amplitude?",
+    "explanation": "Loudness is proportional to the square of the amplitude of the vibration. If the amplitude is doubled, the loudness increases by a factor of four.",
+    "options": [
+      { "text": "Loudness is directly proportional to the amplitude", "isCorrect": false },
+      { "text": "Loudness is inversely proportional to the amplitude", "isCorrect": false },
+      { "text": "Loudness is proportional to the square of the amplitude", "isCorrect": true },
+      { "text": "Loudness is proportional to the square root of the amplitude", "isCorrect": false }
+    ]
+  }
+]

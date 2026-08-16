@@ -1,0 +1,182 @@
+[
+  {
+    "text": "A firm's total cost curve lies above its average variable cost curve because of the presence of which type of cost?",
+    "options": [
+      "Fixed Cost",
+      "Variable Cost",
+      "Average Fixed Cost",
+      "Average Variable Cost"
+    ],
+    "correctAnswer": "Fixed Cost",
+    "explanation": "The total cost curve lies above the average variable cost curve because of the presence of fixed costs. Fixed costs are those costs that do not change with the change in the level of output. These costs are incurred even if the firm does not produce any output.",
+    "difficulty": "Easy",
+    "class": "Class 11",
+    "subject": "Economics",
+    "chapter": "Ch 3: Producer Behaviour and Supply"
+  },
+  {
+    "text": "The law of variable proportions states that as one input is increased, while the other input is kept fixed, the output will increase at first but then eventually decrease. This is due to the presence of which type of returns?",
+    "options": [
+      "Increasing Returns to Scale",
+      "Decreasing Returns to Scale",
+      "Constant Returns to Scale",
+      "Diminishing Returns to a Variable Factor"
+    ],
+    "correctAnswer": "Diminishing Returns to a Variable Factor",
+    "explanation": "The law of variable proportions states that as one input is increased, while the other input is kept fixed, the output will increase at first but then eventually decrease. This is due to the presence of diminishing returns to a variable factor. Diminishing returns occur when the addition of a variable factor leads to a decrease in the marginal product of that factor.",
+    "difficulty": "Medium",
+    "class": "Class 11",
+    "subject": "Economics",
+    "chapter": "Ch 3: Producer Behaviour and Supply"
+  },
+  {
+    "text": "The supply curve of a firm is downward sloping because of the presence of which type of cost?",
+    "options": [
+      "Fixed Cost",
+      "Variable Cost",
+      "Average Fixed Cost",
+      "Average Variable Cost"
+    ],
+    "correctAnswer": "Average Variable Cost",
+    "explanation": "The supply curve of a firm is downward sloping because of the presence of average variable cost. As the price of the commodity increases, the firm's average variable cost decreases, leading to an increase in supply.",
+    "difficulty": "Easy",
+    "class": "Class 11",
+    "subject": "Economics",
+    "chapter": "Ch 3: Producer Behaviour and Supply"
+  },
+  {
+    "text": "The supply curve of a firm is upward sloping because of the presence of which type of cost?",
+    "options": [
+      "Fixed Cost",
+      "Variable Cost",
+      "Average Fixed Cost",
+      "Average Variable Cost"
+    ],
+    "correctAnswer": "Average Fixed Cost",
+    "explanation": "The supply curve of a firm is upward sloping because of the presence of average fixed cost. As the price of the commodity increases, the firm's average fixed cost increases, leading to a decrease in supply.",
+    "difficulty": "Medium",
+    "class": "Class 11",
+    "subject": "Economics",
+    "chapter": "Ch 3: Producer Behaviour and Supply"
+  },
+  {
+    "text": "The supply elasticity of a firm is measured by the percentage change in the quantity supplied in response to a 1% change in the price. If the supply elasticity is 0.5, then the supply curve is?",
+    "options": [
+      "Downward Sloping",
+      "Upward Sloping",
+      "Horizontal",
+      "Vertical"
+    ],
+    "correctAnswer": "Upward Sloping",
+    "explanation": "The supply elasticity of a firm is measured by the percentage change in the quantity supplied in response to a 1% change in the price. If the supply elasticity is 0.5, then the supply curve is upward sloping. An upward sloping supply curve indicates that the firm is a price taker and is willing to supply more at higher prices.",
+    "difficulty": "Hard",
+    "class": "Class 11",
+    "subject": "Economics",
+    "chapter": "Ch 3: Producer Behaviour and Supply"
+  },
+  {
+    "text": "The supply curve of a firm is horizontal because of the presence of which type of cost?",
+    "options": [
+      "Fixed Cost",
+      "Variable Cost",
+      "Average Fixed Cost",
+      "Average Variable Cost"
+    ],
+    "correctAnswer": "Average Variable Cost",
+    "explanation": "The supply curve of a firm is horizontal because of the presence of average variable cost. If the average variable cost is constant, then the supply curve will be horizontal. This indicates that the firm is a price taker and is willing to supply the same quantity at any price.",
+    "difficulty": "Easy",
+    "class": "Class 11",
+    "subject": "Economics",
+    "chapter": "Ch 3: Producer Behaviour and Supply"
+  },
+  {
+    "text": "The law of returns to scale states that as all inputs are increased in the same proportion, the output will increase in the same proportion. This is known as?",
+    "options": [
+      "Constant Returns to Scale",
+      "Increasing Returns to Scale",
+      "Decreasing Returns to Scale",
+      "Diminishing Returns to a Variable Factor"
+    ],
+    "correctAnswer": "Constant Returns to Scale",
+    "explanation": "The law of returns to scale states that as all inputs are increased in the same proportion, the output will increase in the same proportion. This is known as constant returns to scale. Constant returns to scale occur when the addition of all inputs leads to a proportional increase in output.",
+    "difficulty": "Medium",
+    "class": "Class 11",
+    "subject": "Economics",
+    "chapter": "Ch 3: Producer Behaviour and Supply"
+  },
+  {
+    "text": "The supply curve of a firm is vertical because of the presence of which type of cost?",
+    "options": [
+      "Fixed Cost",
+      "Variable Cost",
+      "Average Fixed Cost",
+      "Average Variable Cost"
+    ],
+    "correctAnswer": "Average Variable Cost",
+    "explanation": "The supply curve of a firm is vertical because of the presence of average variable cost. If the average variable cost is zero, then the supply curve will be vertical. This indicates that the firm is a price maker and is willing to supply any quantity at any price.",
+    "difficulty": "Hard",
+    "class": "Class 11",
+    "subject": "Economics",
+    "chapter": "Ch 3: Producer Behaviour and Supply"
+  },
+  {
+    "text": "The supply curve of a firm is downward sloping because of the presence of which type of returns?",
+    "options": [
+      "Increasing Returns to Scale",
+      "Decreasing Returns to a Variable Factor",
+      "Constant Returns to Scale",
+      "Diminishing Returns to a Variable Factor"
+    ],
+    "correctAnswer": "Decreasing Returns to a Variable Factor",
+    "explanation": "The supply curve of a firm is downward sloping because of the presence of decreasing returns to a variable factor. Decreasing returns occur when the addition of a variable factor leads to a decrease in the marginal product of that factor.",
+    "difficulty": "Easy",
+    "class": "Class 11",
+    "subject": "Economics",
+    "chapter": "Ch 3: Producer Behaviour and Supply"
+  },
+  {
+    "text": "The supply curve of a firm is upward sloping because of the presence of which type of returns?",
+    "options": [
+      "Increasing Returns to Scale",
+      "Decreasing Returns to a Variable Factor",
+      "Constant Returns to Scale",
+      "Diminishing Returns to a Variable Factor"
+    ],
+    "correctAnswer": "Increasing Returns to Scale",
+    "explanation": "The supply curve of a firm is upward sloping because of the presence of increasing returns to scale. Increasing returns occur when the addition of all inputs leads to a more than proportional increase in output.",
+    "difficulty": "Medium",
+    "class": "Class 11",
+    "subject": "Economics",
+    "chapter": "Ch 3: Producer Behaviour and Supply"
+  },
+  {
+    "text": "The supply elasticity of a firm is measured by the percentage change in the quantity supplied in response to a 1% change in the price. If the supply elasticity is 2, then the supply curve is?",
+    "options": [
+      "Downward Sloping",
+      "Upward Sloping",
+      "Horizontal",
+      "Vertical"
+    ],
+    "correctAnswer": "Downward Sloping",
+    "explanation": "The supply elasticity of a firm is measured by the percentage change in the quantity supplied in response to a 1% change in the price. If the supply elasticity is 2, then the supply curve is downward sloping. A downward sloping supply curve indicates that the firm is a price taker and is willing to supply less at lower prices.",
+    "difficulty": "Hard",
+    "class": "Class 11",
+    "subject": "Economics",
+    "chapter": "Ch 3: Producer Behaviour and Supply"
+  },
+  {
+    "text": "The supply curve of a firm is horizontal because of the presence of which type of returns?",
+    "options": [
+      "Increasing Returns to Scale",
+      "Decreasing Returns to a Variable Factor",
+      "Constant Returns to Scale",
+      "Diminishing Returns to a Variable Factor"
+    ],
+    "correctAnswer": "Constant Returns to Scale",
+    "explanation": "The supply curve of a firm is horizontal because of the presence of constant returns to scale. Constant returns occur when the addition of all inputs leads to a proportional increase in output.",
+    "difficulty": "Easy",
+    "class": "Class 11",
+    "subject": "Economics",
+    "chapter": "Ch 3: Producer Behaviour and Supply"
+  }
+]

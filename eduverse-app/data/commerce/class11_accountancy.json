@@ -1,0 +1,422 @@
+[
+  {
+    "text": "According to the American Institute of Certified Public Accountants (AICPA), accounting is the art of recording, classifying, and summarising in a significant manner and in terms of:",
+    "options": [
+      "Physical units only",
+      "Money, transactions and events which are in part at least of a financial character",
+      "Future qualitative projections only",
+      "Government policies and industrial relations"
+    ],
+    "correctAnswer": "Money, transactions and events which are in part at least of a financial character",
+    "explanation": "AICPA defines accounting as 'the art of recording, classifying, and summarising in a significant manner and in terms of money, transactions and events which are, in part at least, of a financial character, and interpreting the results thereof.'",
+    "class": "Class 11",
+    "subject": "Accountancy",
+    "chapter": "Ch 1: Introduction to Accounting"
+  },
+  {
+    "text": "Which of the following represents the correct sequential order of the accounting process?",
+    "options": [
+      "Classifying → Recording → Identifying → Summarising → Communicating",
+      "Identifying → Measuring → Recording → Classifying → Summarising → Communicating",
+      "Measuring → Summarising → Recording → Classifying → Interpreting",
+      "Recording → Identifying → Classifying → Communicating → Summarising"
+    ],
+    "correctAnswer": "Identifying → Measuring → Recording → Classifying → Summarising → Communicating",
+    "explanation": "The NCERT accounting cycle begins with identification of financial transactions, measuring them in monetary terms, recording in the Journal, classifying into the Ledger, summarising in Trial Balance & Final Accounts, and finally communicating to users.",
+    "class": "Class 11",
+    "subject": "Accountancy",
+    "chapter": "Ch 1: Introduction to Accounting"
+  },
+  {
+    "text": "Which of the following is considered the primary book of original entry where financial transactions are first recorded in chronological order?",
+    "options": [
+      "Ledger",
+      "Trial Balance",
+      "Journal",
+      "Balance Sheet"
+    ],
+    "correctAnswer": "Journal",
+    "explanation": "Transactions are first recorded in the Journal (or subsidiary special journals) in chronological order with date and narration as soon as they occur.",
+    "class": "Class 11",
+    "subject": "Accountancy",
+    "chapter": "Ch 1: Introduction to Accounting"
+  },
+  {
+    "text": "The process of grouping transactions of one nature at one place in a separate account is known as:",
+    "options": [
+      "Recording",
+      "Classifying",
+      "Summarising",
+      "Auditing"
+    ],
+    "correctAnswer": "Classifying",
+    "explanation": "Classification is the process of grouping transactions or entries of one nature at one place by opening accounts in a ledger book.",
+    "class": "Class 11",
+    "subject": "Accountancy",
+    "chapter": "Ch 1: Introduction to Accounting"
+  },
+  {
+    "text": "Which of the following is an example of an internal user of accounting information?",
+    "options": [
+      "Prospective investors",
+      "Tax authorities",
+      "Chief Executive Officer (CEO) / Board of Directors",
+      "Suppliers and trade creditors"
+    ],
+    "correctAnswer": "Chief Executive Officer (CEO) / Board of Directors",
+    "explanation": "Internal users are persons who have direct access to the management and internal records of the enterprise, such as directors, managers, and departmental heads.",
+    "class": "Class 11",
+    "subject": "Accountancy",
+    "chapter": "Ch 1: Introduction to Accounting"
+  },
+  {
+    "text": "Which of the following events will NOT be recorded in the books of accounts?",
+    "options": [
+      "Payment of monthly salary of ₹50,000 to staff",
+      "Purchase of office machinery on credit for ₹2,00,000",
+      "Resignation of an exceptionally skilled General Manager",
+      "Sale of merchandise for ₹80,000 in cash"
+    ],
+    "correctAnswer": "Resignation of an exceptionally skilled General Manager",
+    "explanation": "Under the Money Measurement concept in NCERT Accountancy, only transactions and events measurable in terms of money are recorded. Qualitative factors like employee resignation cannot be quantified financially.",
+    "class": "Class 11",
+    "subject": "Accountancy",
+    "chapter": "Ch 1: Introduction to Accounting"
+  },
+  {
+    "text": "The fundamental accounting equation based on the Dual Aspect concept is expressed as:",
+    "options": [
+      "$\\text{Assets} = \\text{Liabilities} - \\text{Capital}$",
+      "$\\text{Assets} = \\text{Liabilities} + \\text{Capital}$",
+      "$\\text{Capital} = \\text{Assets} + \\text{Liabilities}$",
+      "$\\text{Liabilities} = \\text{Assets} + \\text{Capital}$"
+    ],
+    "correctAnswer": "$\\text{Assets} = \\text{Liabilities} + \\text{Capital}$",
+    "explanation": "Every business transaction has a dual effect. Total resources (Assets) are financed either by external claims (Liabilities) or owner's claim (Capital), giving $\\text{Assets} = \\text{Liabilities} + \\text{Capital}$.",
+    "class": "Class 11",
+    "subject": "Accountancy",
+    "chapter": "Ch 1: Introduction to Accounting"
+  },
+  {
+    "text": "If a business entity possesses total assets of ₹5,00,000 and outside liabilities of ₹1,80,000, what is the value of the owner's capital?",
+    "options": [
+      "₹6,80,000",
+      "₹3,20,000",
+      "₹1,80,000",
+      "₹5,00,000"
+    ],
+    "correctAnswer": "₹3,20,000",
+    "explanation": "Using the accounting equation $\\text{Capital} = \\text{Assets} - \\text{Liabilities} = ₹5,00,000 - ₹1,80,000 = ₹3,20,000$.",
+    "class": "Class 11",
+    "subject": "Accountancy",
+    "chapter": "Ch 1: Introduction to Accounting"
+  },
+  {
+    "text": "Which qualitative characteristic of accounting information ensures that financial reports are free from material error and personal bias?",
+    "options": [
+      "Relevance",
+      "Reliability / Verifiability",
+      "Understandability",
+      "Comparability"
+    ],
+    "correctAnswer": "Reliability / Verifiability",
+    "explanation": "Reliability means that users can depend upon the accounting information. It requires the information to be factual, verifiable, and free from bias and material error.",
+    "class": "Class 11",
+    "subject": "Accountancy",
+    "chapter": "Ch 1: Introduction to Accounting"
+  },
+  {
+    "text": "Which qualitative characteristic enables users to identify similarities and differences between two enterprises or between different financial years of the same enterprise?",
+    "options": [
+      "Comparability",
+      "Relevance",
+      "Materiality",
+      "Timeliness"
+    ],
+    "correctAnswer": "Comparability",
+    "explanation": "Comparability allows intra-firm (over time) and inter-firm (with other entities) evaluation of performance and financial position.",
+    "class": "Class 11",
+    "subject": "Accountancy",
+    "chapter": "Ch 1: Introduction to Accounting"
+  },
+  {
+    "text": "The branch of accounting specifically designed to assist management in planning, controlling, and decision-making is:",
+    "options": [
+      "Financial Accounting",
+      "Cost Accounting",
+      "Management Accounting",
+      "Social Responsibility Accounting"
+    ],
+    "correctAnswer": "Management Accounting",
+    "explanation": "Management Accounting is primarily concerned with generating accounting information relating to funds, costs, profits, and budgets for managerial decision-making.",
+    "class": "Class 11",
+    "subject": "Accountancy",
+    "chapter": "Ch 1: Introduction to Accounting"
+  },
+  {
+    "text": "Which branch of accounting deals with ascertainment of cost of products, services, or activities undertaken by an enterprise?",
+    "options": [
+      "Financial Accounting",
+      "Cost Accounting",
+      "Human Resource Accounting",
+      "Inflation Accounting"
+    ],
+    "correctAnswer": "Cost Accounting",
+    "explanation": "Cost accounting involves recording, classifying, and allocating cost data for determining the cost of production and controlling operational costs.",
+    "class": "Class 11",
+    "subject": "Accountancy",
+    "chapter": "Ch 1: Introduction to Accounting"
+  },
+  {
+    "text": "Bookkeeping is considered:",
+    "options": [
+      "A primary stage that involves identifying, measuring, and recording transactions in books of accounts",
+      "A tertiary stage concerned only with communicating audited statements to the public",
+      "The entire systematic body of accounting knowledge and rules",
+      "An analytical stage starting after financial statements are finalised"
+    ],
+    "correctAnswer": "A primary stage that involves identifying, measuring, and recording transactions in books of accounts",
+    "explanation": "Bookkeeping is a mechanical and clerical process that covers identifying, measuring, recording in journals, and posting to ledgers. Accounting begins where bookkeeping ends.",
+    "class": "Class 11",
+    "subject": "Accountancy",
+    "chapter": "Ch 1: Introduction to Accounting"
+  },
+  {
+    "text": "What is the key distinction between Bookkeeping and Accounting?",
+    "options": [
+      "Bookkeeping is analytical, whereas accounting is clerical",
+      "Accounting begins where bookkeeping ends and involves summarising, analysing, and interpreting data",
+      "Bookkeeping requires special analytical skills while accounting does not",
+      "Bookkeeping produces final profit and loss statements while accounting only writes vouchers"
+    ],
+    "correctAnswer": "Accounting begins where bookkeeping ends and involves summarising, analysing, and interpreting data",
+    "explanation": "Bookkeeping is the routine recording part of transactions, whereas Accounting encompasses summarising, interpreting, and communicating the results to stakeholders.",
+    "class": "Class 11",
+    "subject": "Accountancy",
+    "chapter": "Ch 1: Introduction to Accounting"
+  },
+  {
+    "text": "Amount or assets withdrawn by the proprietor from the business for personal or domestic use is termed as:",
+    "options": [
+      "Capital Expenditure",
+      "Drawings",
+      "Bad Debts",
+      "Loss on Assets"
+    ],
+    "correctAnswer": "Drawings",
+    "explanation": "Drawings refer to the amount of cash or value of goods withdrawn by the owner from the business for personal use, which reduces the owner's capital.",
+    "class": "Class 11",
+    "subject": "Accountancy",
+    "chapter": "Ch 1: Introduction to Accounting"
+  },
+  {
+    "text": "Which of the following is an example of an Intangible Asset?",
+    "options": [
+      "Plant and Machinery",
+      "Inventories of raw materials",
+      "Patents and Trademarks",
+      "Cash and Bank Balances"
+    ],
+    "correctAnswer": "Patents and Trademarks",
+    "explanation": "Intangible assets are assets that have no physical existence but possess economic value and legal rights, such as patents, copyrights, goodwill, and trademarks.",
+    "class": "Class 11",
+    "subject": "Accountancy",
+    "chapter": "Ch 1: Introduction to Accounting"
+  },
+  {
+    "text": "Liabilities that are payable within a short duration, usually within 12 months from the reporting date, are classified as:",
+    "options": [
+      "Non-Current Liabilities",
+      "Current Liabilities",
+      "Contingent Liabilities",
+      "Fictitious Liabilities"
+    ],
+    "correctAnswer": "Current Liabilities",
+    "explanation": "Current liabilities are short-term financial obligations of an enterprise that are expected to be settled in the normal operating cycle or within 12 months (e.g., trade creditors, short-term bills payable).",
+    "class": "Class 11",
+    "subject": "Accountancy",
+    "chapter": "Ch 1: Introduction to Accounting"
+  },
+  {
+    "text": "A person or firm from whom an enterprise has purchased goods or received services on credit and to whom money is owed is a:",
+    "options": [
+      "Debtor",
+      "Creditor",
+      "Promoter",
+      "Underwriter"
+    ],
+    "correctAnswer": "Creditor",
+    "explanation": "A creditor is a person or entity to whom the business owes money on account of goods or services received on credit.",
+    "class": "Class 11",
+    "subject": "Accountancy",
+    "chapter": "Ch 1: Introduction to Accounting"
+  },
+  {
+    "text": "Debtors are categorized under which major financial statement classification?",
+    "options": [
+      "Non-Current Liabilities",
+      "Current Assets",
+      "Tangible Fixed Assets",
+      "Capital Reserves"
+    ],
+    "correctAnswer": "Current Assets",
+    "explanation": "Debtors represent trade receivables due to the business from credit sales, which are expected to be converted into cash within 12 months, making them Current Assets.",
+    "class": "Class 11",
+    "subject": "Accountancy",
+    "chapter": "Ch 1: Introduction to Accounting"
+  },
+  {
+    "text": "An expenditure that results in the acquisition of a fixed asset or increases the earning capacity of an existing asset is termed as:",
+    "options": [
+      "Revenue Expenditure",
+      "Capital Expenditure",
+      "Deferred Revenue Expense",
+      "Operating Expense"
+    ],
+    "correctAnswer": "Capital Expenditure",
+    "explanation": "Capital expenditure provides enduring economic benefit over multiple accounting periods (e.g., purchasing a factory or upgrading machinery to expand capacity).",
+    "class": "Class 11",
+    "subject": "Accountancy",
+    "chapter": "Ch 1: Introduction to Accounting"
+  },
+  {
+    "text": "Which of the following is classified as a Revenue Expenditure?",
+    "options": [
+      "Cost of constructing an additional floor in an office building",
+      "Purchase price of new delivery van",
+      "Payment of annual fire insurance premium for warehouse",
+      "Legal charges paid to acquire permanent title of land"
+    ],
+    "correctAnswer": "Payment of annual fire insurance premium for warehouse",
+    "explanation": "Revenue expenditure is an expense incurred for day-to-day operations whose benefit is completely consumed within the current accounting period.",
+    "class": "Class 11",
+    "subject": "Accountancy",
+    "chapter": "Ch 1: Introduction to Accounting"
+  },
+  {
+    "text": "A deduction allowed by a seller to a buyer from the catalogue/list price of goods at the time of purchase in large quantities is called:",
+    "options": [
+      "Cash Discount",
+      "Trade Discount",
+      "Rebate on insolvency",
+      "Commission"
+    ],
+    "correctAnswer": "Trade Discount",
+    "explanation": "Trade discount is granted by wholesalers/manufacturers to retailers on catalogue prices for bulk orders. It is not separately recorded in the ledger books.",
+    "class": "Class 11",
+    "subject": "Accountancy",
+    "chapter": "Ch 1: Introduction to Accounting"
+  },
+  {
+    "text": "A discount allowed to encourage a debtor to make prompt or immediate payment before the due credit date is called:",
+    "options": [
+      "Trade Discount",
+      "Cash Discount",
+      "Quantity Rebate",
+      "Quality Allowance"
+    ],
+    "correctAnswer": "Cash Discount",
+    "explanation": "Cash discount is an incentive offered to debtors to motivate prompt settlement of dues within a specified time frame, and it is recorded in the books of accounts.",
+    "class": "Class 11",
+    "subject": "Accountancy",
+    "chapter": "Ch 1: Introduction to Accounting"
+  },
+  {
+    "text": "Goods unsold at the end of the accounting period are termed as:",
+    "options": [
+      "Opening Stock",
+      "Closing Stock",
+      "Dead Stock",
+      "Consignment"
+    ],
+    "correctAnswer": "Closing Stock",
+    "explanation": "Closing stock (or ending inventory) refers to the unsold goods, raw materials, or work-in-progress remaining at the close of the financial year.",
+    "class": "Class 11",
+    "subject": "Accountancy",
+    "chapter": "Ch 1: Introduction to Accounting"
+  },
+  {
+    "text": "The amount that becomes irrecoverable from a debtor who has turned insolvent is known in accounting as:",
+    "options": [
+      "Doubtful Debt",
+      "Bad Debt",
+      "Discount Allowed",
+      "Capital Loss"
+    ],
+    "correctAnswer": "Bad Debt",
+    "explanation": "Bad debts represent the portion of trade receivables that is completely uncollectible due to the debtor's inability to pay.",
+    "class": "Class 11",
+    "subject": "Accountancy",
+    "chapter": "Ch 1: Introduction to Accounting"
+  },
+  {
+    "text": "A documentary evidence in writing in support of a financial transaction having taken place (e.g., cash memo, invoice, receipt) is termed as a:",
+    "options": [
+      "Ledger folio",
+      "Voucher",
+      "Trial balance",
+      "Passbook"
+    ],
+    "correctAnswer": "Voucher",
+    "explanation": "A voucher is a written document prepared by the accountant based on source documents (like invoices, bills, cash memos) establishing the validity and authorization of a transaction.",
+    "class": "Class 11",
+    "subject": "Accountancy",
+    "chapter": "Ch 1: Introduction to Accounting"
+  },
+  {
+    "text": "Which of the following is a limitation of Financial Accounting as outlined in NCERT?",
+    "options": [
+      "Accounting does not provide any records for tax assessment",
+      "Financial accounting records historical costs and ignores the impact of price level changes (inflation)",
+      "It prevents fraud and maintains systematic ledger accounts",
+      "It facilitates comparison between businesses"
+    ],
+    "correctAnswer": "Financial accounting records historical costs and ignores the impact of price level changes (inflation)",
+    "explanation": "A major limitation of traditional financial accounting is that assets are recorded at historical cost, ignoring changes in purchasing power and market valuation due to inflation.",
+    "class": "Class 11",
+    "subject": "Accountancy",
+    "chapter": "Ch 1: Introduction to Accounting"
+  },
+  {
+    "text": "Which Italian mathematician is historically acknowledged as the 'Father of Accounting' for publishing the first systematic treatise on the Double Entry System in 1494?",
+    "options": [
+      "Leonardo da Vinci",
+      "Luca Pacioli",
+      "Adam Smith",
+      "Alfred Marshall"
+    ],
+    "correctAnswer": "Luca Pacioli",
+    "explanation": "Fra Luca Pacioli, a Franciscan friar and mathematician in Venice, published 'Summa de Arithmetica, Geometria, Proportioni et Proportionalita' in 1494, describing the double-entry bookkeeping method.",
+    "class": "Class 11",
+    "subject": "Accountancy",
+    "chapter": "Ch 1: Introduction to Accounting"
+  },
+  {
+    "text": "If a proprietor invests ₹1,00,000 cash and ₹50,000 worth of furniture to commence business, what is the initial total Capital credited?",
+    "options": [
+      "₹1,00,000",
+      "₹50,000",
+      "₹1,50,000",
+      "₹2,00,000"
+    ],
+    "correctAnswer": "₹1,50,000",
+    "explanation": "Capital includes all monetary resources and asset values introduced by the owner into the business: $\\text{Capital} = \\text{Cash} (₹1,00,000) + \\text{Furniture} (₹50,000) = ₹1,50,000$.",
+    "class": "Class 11",
+    "subject": "Accountancy",
+    "chapter": "Ch 1: Introduction to Accounting"
+  },
+  {
+    "text": "Which accounting term represents the excess of revenue over expenses incurred during an accounting period?",
+    "options": [
+      "Gross Turn-over",
+      "Net Profit",
+      "Capital Appreciation",
+      "Total Assets"
+    ],
+    "correctAnswer": "Net Profit",
+    "explanation": "When total revenues earned from business operations exceed the total matching expenses during an accounting year, the residual surplus is termed Net Profit.",
+    "class": "Class 11",
+    "subject": "Accountancy",
+    "chapter": "Ch 1: Introduction to Accounting"
+  }
+]

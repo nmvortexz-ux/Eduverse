@@ -1,0 +1,327 @@
+[
+  {
+    "class": "Class 10",
+    "subject": "GK",
+    "difficulty": "EASY",
+    "text": "Who is widely referred to as the 'Nightingale of India' (Bharat Kokila) for her lyrical poetry and role in the freedom struggle?",
+    "explanation": "Sarojini Naidu was given the title 'Nightingale of India' by Mahatma Gandhi. She was a renowned poet and a prominent leader in the Indian independence movement.",
+    "options": [
+      { "text": "Sarojini Naidu", "isCorrect": true },
+      { "text": "Lata Mangeshkar", "isCorrect": false },
+      { "text": "Indira Gandhi", "isCorrect": false },
+      { "text": "Sarada Devi", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 10",
+    "subject": "GK",
+    "difficulty": "EASY",
+    "text": "Which animal is designated as the National Heritage Animal of India?",
+    "explanation": "The Indian Elephant (Elephas maximus indicus) was declared the national heritage animal of India in October 2010 to promote elephant conservation.",
+    "options": [
+      { "text": "Bengal Tiger", "isCorrect": false },
+      { "text": "Indian Elephant", "isCorrect": true },
+      { "text": "One-horned Rhinoceros", "isCorrect": false },
+      { "text": "Snow Leopard", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 10",
+    "subject": "GK",
+    "difficulty": "EASY",
+    "text": "Which is the largest hot desert in India, situated mostly in the state of Rajasthan?",
+    "explanation": "The Thar Desert (also known as the Great Indian Desert) is the world's 20th-largest desert and forms a natural boundary between India and Pakistan.",
+    "options": [
+      { "text": "Sahara Desert", "isCorrect": false },
+      { "text": "Gobi Desert", "isCorrect": false },
+      { "text": "Thar Desert", "isCorrect": true },
+      { "text": "Kalahari Desert", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 10",
+    "subject": "GK",
+    "difficulty": "EASY",
+    "text": "What is the capital city of Germany?",
+    "explanation": "Berlin is the capital and largest city of Germany, located in northeastern Germany on the banks of the rivers Spree and Havel.",
+    "options": [
+      { "text": "Munich", "isCorrect": false },
+      { "text": "Frankfurt", "isCorrect": false },
+      { "text": "Berlin", "isCorrect": true },
+      { "text": "Hamburg", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 10",
+    "subject": "GK",
+    "difficulty": "EASY",
+    "text": "Which inert gas is commonly used in household incandescent light bulbs to prevent the tungsten filament from burning?",
+    "explanation": "Argon gas is used inside light bulbs to provide an inactive atmosphere, which retards the evaporation of the tungsten filament and increases its lifespan.",
+    "options": [
+      { "text": "Oxygen", "isCorrect": false },
+      { "text": "Argon", "isCorrect": true },
+      { "text": "Helium", "isCorrect": false },
+      { "text": "Hydrogen", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 10",
+    "subject": "GK",
+    "difficulty": "EASY",
+    "text": "Which British physicist discovered the neutron in 1932, winning the Nobel Prize in Physics in 1935?",
+    "explanation": "James Chadwick discovered the neutron, a subatomic particle with no electrical charge, which paved the way for nuclear fission and atomic energy research.",
+    "options": [
+      { "text": "Ernest Rutherford", "isCorrect": false },
+      { "text": "James Chadwick", "isCorrect": true },
+      { "text": "J.J. Thomson", "isCorrect": false },
+      { "text": "Niels Bohr", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 10",
+    "subject": "GK",
+    "difficulty": "MEDIUM",
+    "text": "In which year did the Imperial Legislative Council pass the controversial Rowlatt Act, which allowed detention of political suspects without trial?",
+    "explanation": "The Rowlatt Act (Anarchical and Revolutionary Crimes Act) was passed in March 1919, leading to nationwide Satyagraha protests led by Mahatma Gandhi.",
+    "options": [
+      { "text": "1909", "isCorrect": false },
+      { "text": "1919", "isCorrect": true },
+      { "text": "1928", "isCorrect": false },
+      { "text": "1935", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 10",
+    "subject": "GK",
+    "difficulty": "MEDIUM",
+    "text": "Which organ in the human body serves to store and concentrate bile produced by the liver before releasing it into the small intestine?",
+    "explanation": "The gallbladder is a small, pear-shaped pouch located under the liver that stores bile, which helps digest fats in the duodenum.",
+    "options": [
+      { "text": "Pancreas", "isCorrect": false },
+      { "text": "Gallbladder", "isCorrect": true },
+      { "text": "Stomach", "isCorrect": false },
+      { "text": "Spleen", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 10",
+    "subject": "GK",
+    "difficulty": "MEDIUM",
+    "text": "Which is the largest state in Northeast India by geographical land area?",
+    "explanation": "Arunachal Pradesh is the largest of the northeastern states, covering 83,743 square kilometers, characterized by a mountainous landscape and rich forest cover.",
+    "options": [
+      { "text": "Assam", "isCorrect": false },
+      { "text": "Meghalaya", "isCorrect": false },
+      { "text": "Arunachal Pradesh", "isCorrect": true },
+      { "text": "Manipur", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 10",
+    "subject": "GK",
+    "difficulty": "MEDIUM",
+    "text": "The Fundamental Rights of Indian citizens are enshrined in which specific Part of the Constitution of India?",
+    "explanation": "Part III of the Constitution (Articles 12 to 35) contains the Fundamental Rights, which are inspired by the US Bill of Rights and are legally enforceable.",
+    "options": [
+      { "text": "Part II", "isCorrect": false },
+      { "text": "Part III", "isCorrect": true },
+      { "text": "Part IV", "isCorrect": false },
+      { "text": "Part IVA", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 10",
+    "subject": "GK",
+    "difficulty": "MEDIUM",
+    "text": "Which Himalayan kingdom is known as the 'Land of the Thunder Dragon' (Druk Yul) due to fierce storms rolling off the mountains?",
+    "explanation": "Bhutan is called Druk Yul, which translates to Land of the Thunder Dragon, and the dragon features prominently on its national flag.",
+    "options": [
+      { "text": "Nepal", "isCorrect": false },
+      { "text": "Bhutan", "isCorrect": true },
+      { "text": "Tibet", "isCorrect": false },
+      { "text": "Sikkim", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 10",
+    "subject": "GK",
+    "difficulty": "MEDIUM",
+    "text": "What does the term 'Balance of Payments' represent in macroeconomic statistics?",
+    "explanation": "The Balance of Payments is a systematic record of all economic and financial transactions conducted between the residents of a country and the rest of the world over a specific time period.",
+    "options": [
+      { "text": "The difference between government tax revenues and total public debt", "isCorrect": false },
+      { "text": "A statement of all financial transactions between a country and the rest of the world", "isCorrect": true },
+      { "text": "The total foreign exchange reserves held by the central bank at any given date", "isCorrect": false },
+      { "text": "The net profit earned by domestic commercial banks from international trade", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 10",
+    "subject": "GK",
+    "difficulty": "HARD",
+    "text": "Who co-founded the 'Swaraj Party' in January 1923, becoming its first President alongside Secretary Motilal Nehru?",
+    "explanation": "Chittaranjan Das (C.R. Das) was the first President of the Swaraj Party, which sought to fight British rule from within the legislative councils.",
+    "options": [
+      { "text": "Chittaranjan Das", "isCorrect": true },
+      { "text": "Lala Lajpat Rai", "isCorrect": false },
+      { "text": "Subhas Chandra Bose", "isCorrect": false },
+      { "text": "Madan Mohan Malaviya", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 10",
+    "subject": "GK",
+    "difficulty": "HARD",
+    "text": "Which Article of the Indian Constitution outlines the duties and powers of the Comptroller and Auditor General (CAG) of India?",
+    "explanation": "Article 149 details the duties and powers of the CAG regarding auditing the accounts of the Union, states, and any other authority.",
+    "options": [
+      { "text": "Article 148", "isCorrect": false },
+      { "text": "Article 149", "isCorrect": true },
+      { "text": "Article 151", "isCorrect": false },
+      { "text": "Article 280", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 10",
+    "subject": "GK",
+    "difficulty": "HARD",
+    "text": "Which is the largest brackish water lagoon in India, located in the state of Odisha?",
+    "explanation": "Chilika Lake is the largest brackish water lagoon in India and the second-largest coastal lagoon in the world, designated as the first Indian wetland of international importance under the Ramsar Convention.",
+    "options": [
+      { "text": "Pulicat Lake", "isCorrect": false },
+      { "text": "Chilika Lake", "isCorrect": true },
+      { "text": "Vembanad Lake", "isCorrect": false },
+      { "text": "Kolleru Lake", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 10",
+    "subject": "GK",
+    "difficulty": "HARD",
+    "text": "Who was the first Indian female athlete to win an Olympic silver medal, achieving the feat in badminton at the 2016 Rio Games?",
+    "explanation": "P.V. Sindhu won a silver medal in the women's singles badminton event at the Rio 2016 Olympics, losing to Spain's Carolina Marin in the final.",
+    "options": [
+      { "text": "Saina Nehwal", "isCorrect": false },
+      { "text": "P.V. Sindhu", "isCorrect": true },
+      { "text": "Mary Kom", "isCorrect": false },
+      { "text": "Sakshi Malik", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 10",
+    "subject": "GK",
+    "difficulty": "HARD",
+    "text": "Which city serves as the de facto federal capital of Switzerland, housing the Federal Palace and Parliament?",
+    "explanation": "Bern is the federal city (de facto capital) of Switzerland, while Zurich is the largest city and Geneva is the main diplomatic hub.",
+    "options": [
+      { "text": "Zurich", "isCorrect": false },
+      { "text": "Geneva", "isCorrect": false },
+      { "text": "Bern", "isCorrect": true },
+      { "text": "Basel", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 10",
+    "subject": "GK",
+    "difficulty": "HARD",
+    "text": "Which African nation hosted the 20th G20 Summit in 2025?",
+    "explanation": "South Africa hosted the G20 Summit in 2025, which marked the first time the summit was hosted on the African continent.",
+    "options": [
+      { "text": "Egypt", "isCorrect": false },
+      { "text": "Nigeria", "isCorrect": false },
+      { "text": "South Africa", "isCorrect": true },
+      { "text": "Kenya", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 10",
+    "subject": "GK",
+    "difficulty": "VERY HARD",
+    "text": "Which British Governor-General of India officially introduced the 'Subsidiary Alliance System' in 1798 to reduce Indian rulers to dependent status?",
+    "explanation": "Lord Wellesley (Governor-General from 1798 to 1805) used the Subsidiary Alliance to bring Indian states under British control by offering military protection in exchange for stationing British forces at the ruler's expense.",
+    "options": [
+      { "text": "Lord Cornwallis", "isCorrect": false },
+      { "text": "Lord Wellesley", "isCorrect": true },
+      { "text": "Lord Hastings", "isCorrect": false },
+      { "text": "Lord Dalhousie", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 10",
+    "subject": "GK",
+    "difficulty": "VERY HARD",
+    "text": "Who served as the first Speaker of the Lok Sabha (House of the People) of independent India from 1952 to 1956?",
+    "explanation": "Ganesh Vasudev Mavalankar (G.V. Mavalankar) was the first Speaker of the Lok Sabha, affectionately called 'Dadasaheb' by Prime Minister Jawaharlal Nehru.",
+    "options": [
+      { "text": "M. Ananthasayanam Ayyangar", "isCorrect": false },
+      { "text": "G.V. Mavalankar", "isCorrect": true },
+      { "text": "Hukam Singh", "isCorrect": false },
+      { "text": "Neelam Sanjiva Reddy", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 10",
+    "subject": "GK",
+    "difficulty": "VERY HARD",
+    "text": "The strategic 'Strait of Hormuz', a vital marine passage for global oil exports, connects the Persian Gulf to which body of water?",
+    "explanation": "The Strait of Hormuz is a sea strait between the Persian Gulf and the Gulf of Oman, separating Iran from Oman and the United Arab Emirates.",
+    "options": [
+      { "text": "Red Sea", "isCorrect": false },
+      { "text": "Gulf of Oman", "isCorrect": true },
+      { "text": "Arabian Sea", "isCorrect": false },
+      { "text": "Gulf of Aden", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 10",
+    "subject": "GK",
+    "difficulty": "VERY HARD",
+    "text": "In public finance and supply-side economics, the 'Laffer Curve' represents the relationship between which two variables?",
+    "explanation": "The Laffer Curve, named after Arthur Laffer, illustrates the relationship between tax rates and the resulting levels of government tax revenue, suggesting an optimal tax rate maximizes revenue.",
+    "options": [
+      { "text": "Interest rates and investment volume", "isCorrect": false },
+      { "text": "Tax rates and tax revenues", "isCorrect": true },
+      { "text": "Government spending and economic growth", "isCorrect": false },
+      { "text": "Unemployment rate and wage inflation", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 10",
+    "subject": "GK",
+    "difficulty": "VERY HARD",
+    "text": "The 'Namdapha National Park', renowned for its extreme altitudinal variations and as the northernmost lowland evergreen rainforest, is located in which Indian state?",
+    "explanation": "Namdapha National Park is located in the Changlang district of Arunachal Pradesh, near the border with Myanmar, and is the fourth-largest national park in India.",
+    "options": [
+      { "text": "Assam", "isCorrect": false },
+      { "text": "Arunachal Pradesh", "isCorrect": true },
+      { "text": "Mizoram", "isCorrect": false },
+      { "text": "Sikkim", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 10",
+    "subject": "GK",
+    "difficulty": "VERY HARD",
+    "text": "Which British physicist discovered the subatomic particle electron in 1897 through his cathode ray tube experiments?",
+    "explanation": "J.J. Thomson showed that cathode rays were composed of previously unknown negatively charged particles, which he called 'corpuscles' (later electrons), winning the 1906 Nobel Prize in Physics.",
+    "options": [
+      { "text": "John Dalton", "isCorrect": false },
+      { "text": "J.J. Thomson", "isCorrect": true },
+      { "text": "Ernest Rutherford", "isCorrect": false },
+      { "text": "James Chadwick", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 10",
+    "subject": "GK",
+    "difficulty": "VERY HARD",
+    "text": "The historic 'Treaty of Yandabo' of 1826, which led to the annexation of Assam and Manipur by British India, ended which war?",
+    "explanation": "The Treaty of Yandabo was signed on 24 February 1826 between the East India Company and the Kingdom of Ava (Burma), ending the First Anglo-Burmese War.",
+    "options": [
+      { "text": "First Anglo-Afghan War", "isCorrect": false },
+      { "text": "First Anglo-Burmese War", "isCorrect": true },
+      { "text": "Third Anglo-Maratha War", "isCorrect": false },
+      { "text": "Second Anglo-Sikh War", "isCorrect": false }
+    ]
+  }
+]

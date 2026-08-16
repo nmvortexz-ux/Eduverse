@@ -1,0 +1,167 @@
+[
+  {
+    "text": "What is the primary purpose of a cash flow statement?",
+    "options": [
+      "To show the profitability of a business",
+      "To show the financial position of a business",
+      "To show the inflows and outflows of cash and cash equivalents",
+      "To show the changes in equity"
+    ],
+    "correctAnswer": "C",
+    "explanation": "The cash flow statement is a financial statement that provides information about the inflows and outflows of cash and cash equivalents of a business during a specific period. It helps users to understand the liquidity and solvency of a business.",
+    "difficulty": "Easy",
+    "class": "Class 12",
+    "subject": "Accountancy",
+    "chapter": "Ch 11: Cash Flow Statement"
+  },
+  {
+    "text": "Which of the following is an example of an investing activity?",
+    "options": [
+      "Purchase of inventory",
+      "Payment of salaries",
+      "Sale of a long-term investment",
+      "Collection of accounts receivable"
+    ],
+    "correctAnswer": "C",
+    "explanation": "Investing activities are those activities that result in the acquisition or disposal of long-term assets or investments. An example of an investing activity is the sale of a long-term investment.",
+    "difficulty": "Easy",
+    "class": "Class 12",
+    "subject": "Accountancy",
+    "chapter": "Ch 11: Cash Flow Statement"
+  },
+  {
+    "text": "What is the indirect method of presenting cash flows from operating activities?",
+    "options": [
+      "It starts with net income and then adds back non-cash items",
+      "It starts with net income and then subtracts non-cash items",
+      "It starts with net income and then adds back non-cash items and subtracts non-operating items",
+      "It starts with net income and then subtracts non-operating items"
+    ],
+    "correctAnswer": "A",
+    "explanation": "The indirect method of presenting cash flows from operating activities starts with net income and then adds back non-cash items such as depreciation and amortization. This method is also known as the 'net income method'.",
+    "difficulty": "Medium",
+    "class": "Class 12",
+    "subject": "Accountancy",
+    "chapter": "Ch 11: Cash Flow Statement"
+  },
+  {
+    "text": "What is the effect of a non-cash transaction on the cash flow statement?",
+    "options": [
+      "It increases cash flows from operating activities",
+      "It decreases cash flows from operating activities",
+      "It has no effect on cash flows",
+      "It increases cash flows from investing activities"
+    ],
+    "correctAnswer": "C",
+    "explanation": "A non-cash transaction is a transaction that does not involve the exchange of cash. Examples of non-cash transactions include the issuance of shares, the recognition of depreciation, and the recognition of bad debts. Non-cash transactions have no effect on the cash flow statement.",
+    "difficulty": "Medium",
+    "class": "Class 12",
+    "subject": "Accountancy",
+    "chapter": "Ch 11: Cash Flow Statement"
+  },
+  {
+    "text": "What is the difference between cash and cash equivalents?",
+    "options": [
+      "Cash is a liquid asset, while cash equivalents are illiquid assets",
+      "Cash is a short-term asset, while cash equivalents are long-term assets",
+      "Cash is a short-term asset, while cash equivalents are liquid assets",
+      "Cash is a long-term asset, while cash equivalents are short-term assets"
+    ],
+    "correctAnswer": "C",
+    "explanation": "Cash is a short-term asset that includes cash on hand and demand deposits. Cash equivalents are short-term, highly liquid investments that can be converted into cash quickly and with minimal risk. Examples of cash equivalents include commercial paper, treasury bills, and money market funds.",
+    "difficulty": "Medium",
+    "class": "Class 12",
+    "subject": "Accountancy",
+    "chapter": "Ch 11: Cash Flow Statement"
+  },
+  {
+    "text": "What is the purpose of the cash flow statement in the context of AS-3 (Revised)?",
+    "options": [
+      "To provide information about the liquidity and solvency of a business",
+      "To provide information about the profitability of a business",
+      "To provide information about the financial position of a business",
+      "To provide information about the changes in equity"
+    ],
+    "correctAnswer": "A",
+    "explanation": "The cash flow statement is a financial statement that provides information about the inflows and outflows of cash and cash equivalents of a business during a specific period. In the context of AS-3 (Revised), the cash flow statement is used to provide information about the liquidity and solvency of a business.",
+    "difficulty": "Hard",
+    "class": "Class 12",
+    "subject": "Accountancy",
+    "chapter": "Ch 11: Cash Flow Statement"
+  },
+  {
+    "text": "What is the difference between the direct method and the indirect method of presenting cash flows from operating activities?",
+    "options": [
+      "The direct method starts with net income, while the indirect method starts with net cash flows from operating activities",
+      "The direct method starts with net cash flows from operating activities, while the indirect method starts with net income",
+      "The direct method starts with net income and then adds back non-cash items, while the indirect method starts with net income and then subtracts non-operating items",
+      "The direct method starts with net income and then subtracts non-operating items, while the indirect method starts with net income and then adds back non-cash items"
+    ],
+    "correctAnswer": "B",
+    "explanation": "The direct method of presenting cash flows from operating activities starts with net cash flows from operating activities, while the indirect method starts with net income. The direct method is more useful for users who want to understand the cash inflows and outflows of a business.",
+    "difficulty": "Hard",
+    "class": "Class 12",
+    "subject": "Accountancy",
+    "chapter": "Ch 11: Cash Flow Statement"
+  },
+  {
+    "text": "What is the effect of a change in working capital on the cash flow statement?",
+    "options": [
+      "It increases cash flows from operating activities",
+      "It decreases cash flows from operating activities",
+      "It has no effect on cash flows",
+      "It increases cash flows from investing activities"
+    ],
+    "correctAnswer": "B",
+    "explanation": "A change in working capital can affect the cash flow statement. For example, if a business increases its accounts receivable, it will have to pay more cash to its customers, which will decrease cash flows from operating activities.",
+    "difficulty": "Hard",
+    "class": "Class 12",
+    "subject": "Accountancy",
+    "chapter": "Ch 11: Cash Flow Statement"
+  },
+  {
+    "text": "What is the purpose of the cash flow statement in the context of financial analysis?",
+    "options": [
+      "To provide information about the liquidity and solvency of a business",
+      "To provide information about the profitability of a business",
+      "To provide information about the financial position of a business",
+      "To provide information about the changes in equity"
+    ],
+    "correctAnswer": "A",
+    "explanation": "The cash flow statement is a financial statement that provides information about the inflows and outflows of cash and cash equivalents of a business during a specific period. In the context of financial analysis, the cash flow statement is used to provide information about the liquidity and solvency of a business.",
+    "difficulty": "Hard",
+    "class": "Class 12",
+    "subject": "Accountancy",
+    "chapter": "Ch 11: Cash Flow Statement"
+  },
+  {
+    "text": "What is the difference between the cash flow statement and the income statement?",
+    "options": [
+      "The cash flow statement shows the inflows and outflows of cash, while the income statement shows the revenues and expenses of a business",
+      "The cash flow statement shows the revenues and expenses of a business, while the income statement shows the inflows and outflows of cash",
+      "The cash flow statement shows the financial position of a business, while the income statement shows the profitability of a business",
+      "The cash flow statement shows the changes in equity, while the income statement shows the revenues and expenses of a business"
+    ],
+    "correctAnswer": "A",
+    "explanation": "The cash flow statement and the income statement are two different financial statements that provide different information about a business. The cash flow statement shows the inflows and outflows of cash, while the income statement shows the revenues and expenses of a business.",
+    "difficulty": "Hard",
+    "class": "Class 12",
+    "subject": "Accountancy",
+    "chapter": "Ch 11: Cash Flow Statement"
+  },
+  {
+    "text": "What is the effect of a change in accounting policy on the cash flow statement?",
+    "options": [
+      "It increases cash flows from operating activities",
+      "It decreases cash flows from operating activities",
+      "It has no effect on cash flows",
+      "It increases cash flows from investing activities"
+    ],
+    "correctAnswer": "C",
+    "explanation": "A change in accounting policy can affect the cash flow statement. However, the effect of a change in accounting policy on the cash flow statement is typically immaterial and has no significant impact on the financial statements.",
+    "difficulty": "Hard",
+    "class": "Class 12",
+    "subject": "Accountancy",
+    "chapter": "Ch 11: Cash Flow Statement"
+  }
+]

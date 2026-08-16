@@ -1,0 +1,327 @@
+[
+  {
+    "class": "Class 8",
+    "subject": "Science",
+    "difficulty": "Hard",
+    "text": "The chemical compound 2,4-D is a widely used weedicide in agricultural fields. Which of the following statements correctly describes its target selectivity?",
+    "explanation": "2,4-D is a synthetic auxin herbicide that selectively kills broad-leaved dicot weeds while leaving monocot crops (like wheat, maize, and rice) unaffected.",
+    "options": [
+      { "text": "It selectively kills monocot weeds and leaves dicot crops unaffected", "isCorrect": false },
+      { "text": "It selectively kills broad-leaved dicot weeds and leaves monocot crops unaffected", "isCorrect": true },
+      { "text": "It kills all green plants indiscriminately on contact", "isCorrect": false },
+      { "text": "It selectively targets insect pests without affecting any weed species", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 8",
+    "subject": "Science",
+    "difficulty": "Very Hard",
+    "text": "Large-scale storage of grains is done in silos and granaries. Which gas is commonly used to create a modified atmosphere in modern silos to prevent pest infestation without using chemical pesticides?",
+    "explanation": "Pumping Carbon dioxide (\\\\(\\\\text{CO}_2\\\\)) or Nitrogen (\\\\(\\\\text{N}_2\\\\)) into silos replaces oxygen, creating an anoxic environment that suffocates insects, pests, and aerobic fungi.",
+    "options": [
+      { "text": "Oxygen, to accelerate grain maturation", "isCorrect": false },
+      { "text": "Chlorine, to bleach and sterilize the grain surfaces", "isCorrect": false },
+      { "text": "Carbon dioxide, to create an oxygen-depleted atmosphere that suffocates pests", "isCorrect": true },
+      { "text": "Methane, to keep the grains warm in winter", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 8",
+    "subject": "Science",
+    "difficulty": "Very Hard",
+    "text": "The nitrogenase enzyme is responsible for biological nitrogen fixation in the root nodules of leguminous plants. Why is this enzyme highly sensitive to oxygen, and how does the plant protect it?",
+    "explanation": "Nitrogenase is irreversibly inactivated by oxygen. The leguminous plant produces leghaemoglobin, an oxygen-scavenging protein that binds oxygen, maintaining a microaerophilic (low-oxygen) environment in the nodule.",
+    "options": [
+      { "text": "Oxygen breaks down the protein structure; the plant coats the root nodules with a thick layer of wax", "isCorrect": false },
+      { "text": "Nitrogenase is inactivated by oxygen; the plant uses leghaemoglobin to bind and remove free oxygen from the nodule", "isCorrect": true },
+      { "text": "Oxygen increases the rate of nitrogenase reaction; the plant produces more oxygen to boost nitrogen fixation", "isCorrect": false },
+      { "text": "Nitrogenase requires a high oxygen environment; the plant uses root cells to actively pump oxygen into the nodules", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 8",
+    "subject": "Science",
+    "difficulty": "Very Hard",
+    "text": "Penicillin is an antibiotic that kills bacteria. Why does penicillin destroy bacterial cells but have no toxic effect on human cells?",
+    "explanation": "Penicillin inhibits the synthesis of peptidoglycan, a critical component of bacterial cell walls. Since human cells lack cell walls and peptidoglycan, they are unaffected by this antibiotic.",
+    "options": [
+      { "text": "Penicillin targets cell membranes, and human cells lack cell membranes", "isCorrect": false },
+      { "text": "Penicillin inhibits peptidoglycan synthesis in bacterial cell walls; human cells lack cell walls", "isCorrect": true },
+      { "text": "Penicillin is neutralized by the high temperature of human blood", "isCorrect": false },
+      { "text": "Penicillin binds only to the ribosomes of prokaryotic cells to stop energy generation", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 8",
+    "subject": "Science",
+    "difficulty": "Very Hard",
+    "text": "In conservation ecology, what is a 'keystone species', and why is it given high priority in biosphere reserve management?",
+    "explanation": "A keystone species has a disproportionately large impact on its community structure and ecosystem function. If it is removed, the ecosystem undergoes dramatic shifts or collapses.",
+    "options": [
+      { "text": "A species that has the largest physical size in the biosphere reserve", "isCorrect": false },
+      { "text": "A species that has a disproportionately large effect on its environment, whose removal can collapse the ecosystem", "isCorrect": true },
+      { "text": "A species that is newly introduced and adapts very quickly to the ecosystem", "isCorrect": false },
+      { "text": "A species of plant that produces stone-like hard fruits used by animals", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 8",
+    "subject": "Science",
+    "difficulty": "Hard",
+    "text": "What is the legal and functional difference between a Wildlife Sanctuary and a National Park regarding human activities?",
+    "explanation": "In a Wildlife Sanctuary, limited human activities like grazing or collecting minor forest produce can be permitted by local authorities. In a National Park, all human exploitation and habitation are strictly prohibited.",
+    "options": [
+      { "text": "Limited human activities may be allowed in a Wildlife Sanctuary, whereas they are completely prohibited in a National Park", "isCorrect": true },
+      { "text": "Tourism is allowed only in Wildlife Sanctuaries, while National Parks are open only to scientists", "isCorrect": false },
+      { "text": "National Parks focus only on plant conservation, while Wildlife Sanctuaries focus only on animal conservation", "isCorrect": false },
+      { "text": "Private land ownership is allowed in National Parks but not in Wildlife Sanctuaries", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 8",
+    "subject": "Science",
+    "difficulty": "Very Hard",
+    "text": "During the menstrual cycle of female mammals, a sudden surge of which hormone from the pituitary gland triggers the release of the mature egg (ovulation) from the Graafian follicle?",
+    "explanation": "A surge in Luteinizing Hormone (LH) secreted by the anterior pituitary gland is the direct trigger that causes the mature follicle to rupture and release the egg.",
+    "options": [
+      { "text": "Progesterone", "isCorrect": false },
+      { "text": "Estrogen", "isCorrect": false },
+      { "text": "Luteinizing Hormone (LH)", "isCorrect": true },
+      { "text": "Thyroid-stimulating hormone (TSH)", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 8",
+    "subject": "Science",
+    "difficulty": "Very Hard",
+    "text": "What is the correct chronological sequence of developmental stages in mammalian reproduction, starting from fertilization?",
+    "explanation": "The correct sequence is: Zygote (single-cell) \\\\(\\\\rightarrow\\\\) Morula (solid ball of cells) \\\\(\\\\rightarrow\\\\) Blastocyst (hollow ball of cells that implants) \\\\(\\\\rightarrow\\\\) Embryo (organogenesis stage) \\\\(\\\\rightarrow\\\\) Fetus (developed recognizable organs).",
+    "options": [
+      { "text": "Zygote \\\\(\\\\rightarrow\\\\) Blastocyst \\\\(\\\\rightarrow\\\\) Morula \\\\(\\\\rightarrow\\\\) Embryo \\\\(\\\\rightarrow\\\\) Fetus", "isCorrect": false },
+      { "text": "Zygote \\\\(\\\\rightarrow\\\\) Morula \\\\(\\\\rightarrow\\\\) Blastocyst \\\\(\\\\rightarrow\\\\) Embryo \\\\(\\\\rightarrow\\\\) Fetus", "isCorrect": true },
+      { "text": "Embryo \\\\(\\\\rightarrow\\\\) Zygote \\\\(\\\\rightarrow\\\\) Blastocyst \\\\(\\\\rightarrow\\\\) Morula \\\\(\\\\rightarrow\\\\) Fetus", "isCorrect": false },
+      { "text": "Zygote \\\\(\\\\rightarrow\\\\) Morula \\\\(\\\\rightarrow\\\\) Embryo \\\\(\\\\rightarrow\\\\) Blastocyst \\\\(\\\\rightarrow\\\\) Fetus", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 8",
+    "subject": "Science",
+    "difficulty": "Hard",
+    "text": "How does iodine deficiency in water and diet lead to the development of a goitre, in terms of endocrine feedback loops?",
+    "explanation": "A lack of iodine prevents the thyroid gland from synthesizing thyroxine. The low level of thyroxine in the blood stimulates the pituitary gland to secrete more TSH, causing hypertrophy (enlargement) of the thyroid gland.",
+    "options": [
+      { "text": "Low iodine causes the parathyroid gland to release excess calcium, which deposits in the neck", "isCorrect": false },
+      { "text": "Low iodine prevents thyroxine production, stimulating the pituitary to release excess TSH, which enlarges the thyroid gland", "isCorrect": true },
+      { "text": "Low iodine causes the throat muscles to swell due to the accumulation of unused salts", "isCorrect": false },
+      { "text": "Iodine deficiency directly poisons the larynx, making it expand to block toxins", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 8",
+    "subject": "Science",
+    "difficulty": "Very Hard",
+    "text": "Chromosomal abnormalities can arise during gamete formation. What is the chromosomal configuration and gender of an individual with Klinefelter syndrome?",
+    "explanation": "Klinefelter syndrome is caused by the presence of an extra X chromosome in a male, resulting in a chromosomal configuration of 47, XXY. These individuals are biologically male but exhibit some female physical traits.",
+    "options": [
+      { "text": "45, XO; Female", "isCorrect": false },
+      { "text": "47, XXY; Male", "isCorrect": true },
+      { "text": "47, XYY; Male", "isCorrect": false },
+      { "text": "47, XXX; Female", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 8",
+    "subject": "Science",
+    "difficulty": "Very Hard",
+    "text": "During fractional distillation of petroleum, hydrocarbons are separated into fractions. How do chain length, boiling point, and volatility correlate as you move higher up the fractionating column?",
+    "explanation": "As you move higher up the column, temperatures are lower. Hydrocarbons with shorter carbon chains, lower boiling points, and higher volatility condense and are collected near the top.",
+    "options": [
+      { "text": "Chain length increases, boiling point increases, volatility decreases", "isCorrect": false },
+      { "text": "Chain length decreases, boiling point decreases, volatility increases", "isCorrect": true },
+      { "text": "Chain length decreases, boiling point increases, volatility increases", "isCorrect": false },
+      { "text": "Chain length increases, boiling point decreases, volatility decreases", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 8",
+    "subject": "Science",
+    "difficulty": "Very Hard",
+    "text": "Thermoplastics (like polythene) melt on heating, whereas thermosetting plastics (like bakelite) do not soften when heated. What molecular structure of thermosetting plastics is responsible for this property?",
+    "explanation": "Thermosetting plastics have cross-linked polymer chains. These cross-links form strong covalent bonds between adjacent polymer chains, preventing them from moving or sliding past each other when heated.",
+    "options": [
+      { "text": "Linear polymer chains with no chemical bonds between them", "isCorrect": false },
+      { "text": "Cross-linked polymer chains that prevent the chains from sliding past each other on heating", "isCorrect": true },
+      { "text": "Shorter polymer chains that contain high percentages of metal ions", "isCorrect": false },
+      { "text": "Highly branched chains held together only by weak van der Waals forces", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 8",
+    "subject": "Science",
+    "difficulty": "Hard",
+    "text": "When a candle burns, the region immediately surrounding the wick is black in color. What does this innermost zone represent, and what does it contain?",
+    "explanation": "The innermost zone around the wick is black because it lacks oxygen. It contains unburnt wax vapors that rise from the melted wax but cannot burn due to a lack of air.",
+    "options": [
+      { "text": "Zone of complete combustion containing carbon dioxide gas", "isCorrect": false },
+      { "text": "Zone of partial combustion containing carbon monoxide and soot", "isCorrect": false },
+      { "text": "Zone of no combustion containing unburnt wax vapors", "isCorrect": true },
+      { "text": "Zone of ionization containing high-temperature plasma", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 8",
+    "subject": "Science",
+    "difficulty": "Very Hard",
+    "text": "A gaseous fuel mixture contains \\\\(80\\%\\\\) methane (\\\\(\\\\text{CH}_4\\\\)) and \\\\(20\\%\\\\) hydrogen (\\\\(\\\\text{H}_2\\\\)) by volume. What volume of pure oxygen is required for the complete combustion of \\\\(100 \\\\text{ L}\\\\) of this fuel mixture?",
+    "explanation": "Combustion reactions: \\\\(\\\\text{CH}_4 + 2\\\\text{O}_2 \\\\rightarrow \\\\text{CO}_2 + 2\\\\text{H}_2\\\\text{O}\\\\) and \\\\(2\\\\text{H}_2 + \\\\text{O}_2 \\\\rightarrow 2\\\\text{H}_2\\\\text{O}\\\\). For \\\\(80 \\\\text{ L}\\\\) of methane, we need \\\\(160 \\\\text{ L}\\\\) of oxygen. For \\\\(20 \\\\text{ L}\\\\) of hydrogen, we need \\\\(10 \\\\text{ L}\\\\) of oxygen. Total = \\\\(160 + 10 = 170 \\\\text{ L}\\\\).",
+    "options": [
+      { "text": "\\\\(100 \\\\text{ L}\\\\)", "isCorrect": false },
+      { "text": "\\\\(170 \\\\text{ L}\\\\)", "isCorrect": true },
+      { "text": "\\\\(200 \\\\text{ L}\\\\)", "isCorrect": false },
+      { "text": "\\\\(220 \\\\text{ L}\\\\)", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 8",
+    "subject": "Science",
+    "difficulty": "Very Hard",
+    "text": "During the electrolysis of copper sulphate (\\\\(\\\\text{CuSO}_4\\\\)) solution using inert platinum electrodes, what products are formed at the anode and the cathode?",
+    "explanation": "At the cathode, copper ions are reduced to metallic copper. At the anode, water is oxidized because platinum is inert, releasing oxygen gas (\\\\(\\\\text{O}_2\\\\)) and leaving hydrogen ions behind in the solution.",
+    "options": [
+      { "text": "Anode: Copper metal; Cathode: Oxygen gas", "isCorrect": false },
+      { "text": "Anode: Oxygen gas; Cathode: Copper metal", "isCorrect": true },
+      { "text": "Anode: Sulphur dioxide; Cathode: Hydrogen gas", "isCorrect": false },
+      { "text": "Anode: Chlorine gas; Cathode: Platinum metal", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 8",
+    "subject": "Science",
+    "difficulty": "Very Hard",
+    "text": "Two electrolytic cells, one containing copper sulphate and the other containing silver nitrate, are connected in series. If a constant current is passed through them, what determines the ratio of the masses of copper and silver deposited?",
+    "explanation": "According to Faraday's Second Law of Electrolysis, when the same quantity of electricity is passed through different electrolytes connected in series, the masses of substances liberated are directly proportional to their chemical equivalent weights.",
+    "options": [
+      { "text": "The ratio of their boiling points", "isCorrect": false },
+      { "text": "The ratio of their chemical equivalent weights", "isCorrect": true },
+      { "text": "The ratio of the volumes of the two containers", "isCorrect": false },
+      { "text": "The concentration of acid in each solution", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 8",
+    "subject": "Science",
+    "difficulty": "Hard",
+    "text": "A U-tube contains water and an immiscible liquid. If a column of the immiscible liquid of height \\\\(15 \\\\text{ cm}\\\\) balances a water column of height \\\\(12 \\\\text{ cm}\\\\), what is the relative density of the liquid?",
+    "explanation": "Since the pressures exerted by the two columns at the interface are equal: \\\\(h_1 \\\\rho_1 g = h_2 \\\\rho_2 g\\\\). This gives \\\\(\\\\rho_2 / \\\\rho_{\\\\text{water}} = h_{\\\\text{water}} / h_2 = 12 / 15 = 0.8\\\\).",
+    "options": [
+      { "text": "\\\\(1.25\\\\)", "isCorrect": false },
+      { "text": "\\\\(0.8\\\\)", "isCorrect": true },
+      { "text": "\\\\(1.5\\\\)", "isCorrect": false },
+      { "text": "\\\\(0.6\\\\)", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 8",
+    "subject": "Science",
+    "difficulty": "Very Hard",
+    "text": "A wooden block of weight \\\\(50 \\\\text{ N}\\\\) is held stationary against a rough vertical wall by pressing it horizontally with a force of \\\\(80 \\\\text{ N}\\\\). What is the magnitude and direction of the static frictional force acting on the block?",
+    "explanation": "For the block to remain stationary, the vertical forces must balance. The downward force is the weight of the block (\\\\(50 \\\\text{ N}\\\\)). Thus, the static frictional force must be exactly \\\\(50 \\\\text{ N}\\\\) acting vertically upwards.",
+    "options": [
+      { "text": "\\\\(80 \\\\text{ N}\\\\) acting vertically upwards", "isCorrect": false },
+      { "text": "\\\\(50 \\\\text{ N}\\\\) acting vertically upwards", "isCorrect": true },
+      { "text": "\\\\(50 \\\\text{ N}\\\\) acting horizontally into the wall", "isCorrect": false },
+      { "text": "\\\\(30 \\\\text{ N}\\\\) acting vertically downwards", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 8",
+    "subject": "Science",
+    "difficulty": "Very Hard",
+    "text": "An object of mass \\\\(m\\\\) is placed on a rough inclined plane. As the angle of inclination is slowly increased, the object just begins to slide at an angle of \\\\(30^\\\\circ\\\\). What physical constant does the mathematical tangent of this angle (\\\\(\\\\tan 30^\\\\circ\\\\)) represent?",
+    "explanation": "The angle at which an object just begins to slide down an inclined plane is called the angle of repose. The tangent of the angle of repose is equal to the coefficient of static friction (\\\\(\\\\mu_s\\\\)) between the contact surfaces.",
+    "options": [
+      { "text": "The coefficient of kinetic friction", "isCorrect": false },
+      { "text": "The coefficient of static friction", "isCorrect": true },
+      { "text": "The acceleration due to gravity", "isCorrect": false },
+      { "text": "The normal reaction force of the plane", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 8",
+    "subject": "Science",
+    "difficulty": "Very Hard",
+    "text": "A metal ball falls through a column of highly viscous liquid. Which of the following statements describes the change in the drag force and the velocity of the ball over time?",
+    "explanation": "As the ball falls, its velocity increases, which increases the fluid drag force. When the drag force plus buoyant force equals the gravitational pull, the net force is zero, and the ball falls at a constant terminal velocity.",
+    "options": [
+      { "text": "The velocity increases indefinitely, while the drag force remains constant", "isCorrect": false },
+      { "text": "The drag force increases until it, with buoyancy, balances gravity, and the ball falls at a constant terminal velocity", "isCorrect": true },
+      { "text": "The drag force immediately drops to zero once the ball enters the liquid", "isCorrect": false },
+      { "text": "The ball accelerates at a rate of \\\\(9.8 \\\\text{ m/s}^2\\\\) throughout its descent", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 8",
+    "subject": "Science",
+    "difficulty": "Very Hard",
+    "text": "When a vibrating tuning fork of frequency \\\\(256 \\\\text{ Hz}\\\\) is held near the open end of a closed tube, a loud booming sound is heard at a specific air column length. What is this wave phenomenon called?",
+    "explanation": "This phenomenon is resonance. It occurs when the frequency of the external source (tuning fork) matches the natural frequency of vibration of the air column in the tube, resulting in large-amplitude waves.",
+    "options": [
+      { "text": "Reverberation", "isCorrect": false },
+      { "text": "Resonance", "isCorrect": true },
+      { "text": "Destructive interference", "isCorrect": false },
+      { "text": "Diffraction", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 8",
+    "subject": "Science",
+    "difficulty": "Very Hard",
+    "text": "The speed of sound in air at \\\\(0^\\\\circ\\\\text{C}\\\\) is \\\\(331 \\\\text{ m/s}\\\\). How does the speed of sound change as the absolute temperature of the air increases?",
+    "explanation": "The speed of sound in an ideal gas is directly proportional to the square root of its absolute temperature (in Kelvin), expressed mathematically as \\\\(v \\\\propto \\\\sqrt{T}\\\\).",
+    "options": [
+      { "text": "It increases linearly with Celsius temperature", "isCorrect": false },
+      { "text": "It is directly proportional to the square root of the absolute temperature", "isCorrect": true },
+      { "text": "It decreases as the temperature increases", "isCorrect": false },
+      { "text": "It is proportional to the square of the temperature", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 8",
+    "subject": "Science",
+    "difficulty": "Very Hard",
+    "text": "Earthquakes occur due to tectonic plate movement. In which layer of the earth's lithosphere do these plates slide past each other, and what are these boundaries called?",
+    "explanation": "Tectonic plates reside in the outer crust (lithosphere) of the earth. The boundaries where plates slide or collide, forming fault lines where earthquakes originate, are called fault zones or seismic zones.",
+    "options": [
+      { "text": "In the liquid outer core; Mantle plumes", "isCorrect": false },
+      { "text": "In the crust; Fault zones (or seismic zones)", "isCorrect": true },
+      { "text": "In the inner core; Epicentres", "isCorrect": false },
+      { "text": "In the asthenosphere; Subduction ridges", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 8",
+    "subject": "Science",
+    "difficulty": "Very Hard",
+    "text": "A ray of light is incident on a plane mirror. If the incident ray is rotated by \\\\(15^\\\\circ\\\\) clockwise while keeping the mirror fixed, by how much and in what direction does the reflected ray rotate?",
+    "explanation": "If the mirror is fixed, rotating the incident ray by \\\\(15^\\\\circ\\\\) clockwise shifts it closer to or further from the normal. The reflected ray will rotate by the same angle \\\\(15^\\\\circ\\\\) but in the counter-clockwise direction to keep the angles of incidence and reflection equal.",
+    "options": [
+      { "text": "\\\\(30^\\\\circ\\\\) in the clockwise direction", "isCorrect": false },
+      { "text": "\\\\(15^\\\\circ\\\\) in the counter-clockwise direction", "isCorrect": true },
+      { "text": "\\\\(15^\\\\circ\\\\) in the clockwise direction", "isCorrect": false },
+      { "text": "\\\\(30^\\\\circ\\\\) in the counter-clockwise direction", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 8",
+    "subject": "Science",
+    "difficulty": "Very Hard",
+    "text": "When white light passes through a glass prism, it undergoes dispersion. Why does red light bend the least while violet light bends the most?",
+    "explanation": "The refractive index of glass is different for different wavelengths. Glass has a lower refractive index for red light (higher speed in glass) than for violet light (lower speed in glass), causing violet to bend more.",
+    "options": [
+      { "text": "Because red light travels slower in glass than violet light", "isCorrect": false },
+      { "text": "Because glass has a lower refractive index for red light than for violet light", "isCorrect": true },
+      { "text": "Because red light has a shorter wavelength than violet light", "isCorrect": false },
+      { "text": "Because violet light has a higher intensity than red light", "isCorrect": false }
+    ]
+  }
+]

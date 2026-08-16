@@ -1,0 +1,182 @@
+[
+  {
+    "text": "The Karl Pearson coefficient of correlation is used to measure the strength and direction of the linear relationship between two variables.",
+    "options": [
+      "Option A",
+      "Option B",
+      "Option C",
+      "Option D"
+    ],
+    "correctAnswer": "Option D",
+    "explanation": "The Karl Pearson coefficient of correlation is a statistical measure that calculates the strength and direction of the linear relationship between two variables. It is denoted by the symbol r and is calculated using the formula: $r = \frac{sum{(x_i - \bar{x})(y_i - \bar{y})}}{sqrt{sum{(x_i - \bar{x})^2}sum{(y_i - \bar{y})^2}}}$",
+    "difficulty": "Easy",
+    "class": "Class 11",
+    "subject": "Economics",
+    "chapter": "Ch 8: Correlation and Index Numbers"
+  },
+  {
+    "text": "The Spearman rank correlation coefficient is used to measure the strength and direction of the relationship between two variables.",
+    "options": [
+      "Option A",
+      "Option B",
+      "Option C",
+      "Option D"
+    ],
+    "correctAnswer": "Option D",
+    "explanation": "The Spearman rank correlation coefficient is a non-parametric measure that calculates the strength and direction of the relationship between two variables. It is denoted by the symbol $r_s$ and is calculated using the formula: $r_s = 1 - \frac{6sum{d_i^2}}{n(n^2 - 1)}$",
+    "difficulty": "Medium",
+    "class": "Class 11",
+    "subject": "Economics",
+    "chapter": "Ch 8: Correlation and Index Numbers"
+  },
+  {
+    "text": "The Laspeyres index is a type of price index that is based on the prices of a fixed basket of goods.",
+    "options": [
+      "Option A",
+      "Option B",
+      "Option C",
+      "Option D"
+    ],
+    "correctAnswer": "Option D",
+    "explanation": "The Laspeyres index is a type of price index that is based on the prices of a fixed basket of goods. It is calculated using the formula: $L = \frac{sum{p_0q_0}}{sum{p_1q_0}} \times 100$",
+    "difficulty": "Easy",
+    "class": "Class 11",
+    "subject": "Economics",
+    "chapter": "Ch 8: Correlation and Index Numbers"
+  },
+  {
+    "text": "The Paasche index is a type of price index that is based on the prices of a changing basket of goods.",
+    "options": [
+      "Option A",
+      "Option B",
+      "Option C",
+      "Option D"
+    ],
+    "correctAnswer": "Option D",
+    "explanation": "The Paasche index is a type of price index that is based on the prices of a changing basket of goods. It is calculated using the formula: $P = \frac{sum{p_1q_1}}{sum{p_1q_0}} \times 100$",
+    "difficulty": "Easy",
+    "class": "Class 11",
+    "subject": "Economics",
+    "chapter": "Ch 8: Correlation and Index Numbers"
+  },
+  {
+    "text": "The Karl Pearson coefficient of correlation ranges from -1 to 1.",
+    "options": [
+      "Option A",
+      "Option B",
+      "Option C",
+      "Option D"
+    ],
+    "correctAnswer": "Option D",
+    "explanation": "The Karl Pearson coefficient of correlation ranges from -1 to 1, where -1 indicates a perfect negative linear relationship, 0 indicates no linear relationship, and 1 indicates a perfect positive linear relationship.",
+    "difficulty": "Easy",
+    "class": "Class 11",
+    "subject": "Economics",
+    "chapter": "Ch 8: Correlation and Index Numbers"
+  },
+  {
+    "text": "The Spearman rank correlation coefficient is sensitive to outliers.",
+    "options": [
+      "Option A",
+      "Option B",
+      "Option C",
+      "Option D"
+    ],
+    "correctAnswer": "Option A",
+    "explanation": "The Spearman rank correlation coefficient is sensitive to outliers, which means that it can be affected by extreme values in the data.",
+    "difficulty": "Medium",
+    "class": "Class 11",
+    "subject": "Economics",
+    "chapter": "Ch 8: Correlation and Index Numbers"
+  },
+  {
+    "text": "The Laspeyres index is a type of quantity index.",
+    "options": [
+      "Option A",
+      "Option B",
+      "Option C",
+      "Option D"
+    ],
+    "correctAnswer": "Option A",
+    "explanation": "The Laspeyres index is a type of quantity index, which measures the change in the quantity of a basket of goods over time.",
+    "difficulty": "Easy",
+    "class": "Class 11",
+    "subject": "Economics",
+    "chapter": "Ch 8: Correlation and Index Numbers"
+  },
+  {
+    "text": "The Paasche index is a type of price index that is based on the prices of a fixed basket of goods.",
+    "options": [
+      "Option A",
+      "Option B",
+      "Option C",
+      "Option D"
+    ],
+    "correctAnswer": "Option A",
+    "explanation": "The Paasche index is a type of price index that is based on the prices of a fixed basket of goods. It is calculated using the formula: $P = \frac{sum{p_1q_1}}{sum{p_1q_0}} \times 100$",
+    "difficulty": "Easy",
+    "class": "Class 11",
+    "subject": "Economics",
+    "chapter": "Ch 8: Correlation and Index Numbers"
+  },
+  {
+    "text": "The Karl Pearson coefficient of correlation is a measure of the strength and direction of the linear relationship between two variables.",
+    "options": [
+      "Option A",
+      "Option B",
+      "Option C",
+      "Option D"
+    ],
+    "correctAnswer": "Option D",
+    "explanation": "The Karl Pearson coefficient of correlation is a measure of the strength and direction of the linear relationship between two variables. It is denoted by the symbol r and is calculated using the formula: $r = \frac{sum{(x_i - \bar{x})(y_i - \bar{y})}}{sqrt{sum{(x_i - \bar{x})^2}sum{(y_i - \bar{y})^2}}}$",
+    "difficulty": "Medium",
+    "class": "Class 11",
+    "subject": "Economics",
+    "chapter": "Ch 8: Correlation and Index Numbers"
+  },
+  {
+    "text": "The Spearman rank correlation coefficient is a non-parametric measure.",
+    "options": [
+      "Option A",
+      "Option B",
+      "Option C",
+      "Option D"
+    ],
+    "correctAnswer": "Option D",
+    "explanation": "The Spearman rank correlation coefficient is a non-parametric measure, which means that it does not require the data to be normally distributed.",
+    "difficulty": "Medium",
+    "class": "Class 11",
+    "subject": "Economics",
+    "chapter": "Ch 8: Correlation and Index Numbers"
+  },
+  {
+    "text": "The Laspeyres index is a type of price index that is based on the prices of a changing basket of goods.",
+    "options": [
+      "Option A",
+      "Option B",
+      "Option C",
+      "Option D"
+    ],
+    "correctAnswer": "Option A",
+    "explanation": "The Laspeyres index is a type of price index that is based on the prices of a changing basket of goods. It is calculated using the formula: $L = \frac{sum{p_0q_0}}{sum{p_1q_0}} \times 100$",
+    "difficulty": "Easy",
+    "class": "Class 11",
+    "subject": "Economics",
+    "chapter": "Ch 8: Correlation and Index Numbers"
+  },
+  {
+    "text": "The Paasche index is a type of quantity index.",
+    "options": [
+      "Option A",
+      "Option B",
+      "Option C",
+      "Option D"
+    ],
+    "correctAnswer": "Option A",
+    "explanation": "The Paasche index is a type of quantity index, which measures the change in the quantity of a basket of goods over time.",
+    "difficulty": "Easy",
+    "class": "Class 11",
+    "subject": "Economics",
+    "chapter": "Ch 8: Correlation and Index Numbers"
+  }
+]

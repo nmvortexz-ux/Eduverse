@@ -1,0 +1,167 @@
+[
+  {
+    "text": "What is the primary function of the Cash Reserve Ratio (CRR)?",
+    "options": [
+      "To control inflation",
+      "To increase the money supply",
+      "To ensure that banks maintain a minimum percentage of their deposits in reserve",
+      "To reduce the interest rates"
+    ],
+    "correctAnswer": "To ensure that banks maintain a minimum percentage of their deposits in reserve",
+    "explanation": "The Cash Reserve Ratio (CRR) is the percentage of deposits that commercial banks are required to hold in reserve with the central bank. This is done to ensure that banks maintain a minimum percentage of their deposits in reserve, which helps to prevent banks from over-extending themselves and reduces the risk of bank runs.",
+    "difficulty": "Easy",
+    "class": "Class 12",
+    "subject": "Economics",
+    "chapter": "Ch 2: Money and Banking"
+  },
+  {
+    "text": "What is the effect of an increase in the Statutory Liquidity Ratio (SLR) on the money supply?",
+    "options": [
+      "Increases the money supply",
+      "Decreases the money supply",
+      "Has no effect on the money supply",
+      "Increases the interest rates"
+    ],
+    "correctAnswer": "Decreases the money supply",
+    "explanation": "An increase in the Statutory Liquidity Ratio (SLR) requires banks to hold a larger proportion of their deposits in liquid assets, such as cash and gold. This reduces the amount of money available for lending and spending, which decreases the money supply.",
+    "difficulty": "Medium",
+    "class": "Class 12",
+    "subject": "Economics",
+    "chapter": "Ch 2: Money and Banking"
+  },
+  {
+    "text": "What is the purpose of the Reserve Bank of India (RBI) using moral suasion?",
+    "options": [
+      "To increase the interest rates",
+      "To decrease the interest rates",
+      "To influence the behavior of commercial banks without using monetary policy tools",
+      "To increase the money supply"
+    ],
+    "correctAnswer": "To influence the behavior of commercial banks without using monetary policy tools",
+    "explanation": "Moral suasion is a technique used by the RBI to influence the behavior of commercial banks without using monetary policy tools. This can include persuasion, advice, or guidance to encourage banks to adopt certain policies or practices.",
+    "difficulty": "Medium",
+    "class": "Class 12",
+    "subject": "Economics",
+    "chapter": "Ch 2: Money and Banking"
+  },
+  {
+    "text": "What is the formula for calculating the High-Powered Money (H)?",
+    "options": [
+      "H = CRR x Total Deposits",
+      "H = SLR x Total Deposits",
+      "H = CRR x Total Deposits + SLR x Total Deposits",
+      "H = CRR x Total Deposits - SLR x Total Deposits"
+    ],
+    "correctAnswer": "H = CRR x Total Deposits + SLR x Total Deposits",
+    "explanation": "High-Powered Money (H) is calculated as the sum of the Cash Reserve Ratio (CRR) and the Statutory Liquidity Ratio (SLR) multiplied by the total deposits. This is represented by the formula: H = CRR x Total Deposits + SLR x Total Deposits.",
+    "difficulty": "Hard",
+    "class": "Class 12",
+    "subject": "Economics",
+    "chapter": "Ch 2: Money and Banking"
+  },
+  {
+    "text": "What is the effect of a decrease in the Margin Requirements on the money supply?",
+    "options": [
+      "Increases the money supply",
+      "Decreases the money supply",
+      "Has no effect on the money supply",
+      "Increases the interest rates"
+    ],
+    "correctAnswer": "Increases the money supply",
+    "explanation": "A decrease in the Margin Requirements allows banks to lend more money to customers, which increases the money supply. This is because banks are required to hold a smaller proportion of the loan amount as margin, allowing them to lend more and increase the money supply.",
+    "difficulty": "Medium",
+    "class": "Class 12",
+    "subject": "Economics",
+    "chapter": "Ch 2: Money and Banking"
+  },
+  {
+    "text": "What is the purpose of the Reserve Bank of India (RBI) setting the Cash Reserve Ratio (CRR)?",
+    "options": [
+      "To increase the money supply",
+      "To decrease the money supply",
+      "To ensure that banks maintain a minimum percentage of their deposits in reserve",
+      "To reduce the interest rates"
+    ],
+    "correctAnswer": "To ensure that banks maintain a minimum percentage of their deposits in reserve",
+    "explanation": "The RBI sets the Cash Reserve Ratio (CRR) to ensure that banks maintain a minimum percentage of their deposits in reserve. This helps to prevent banks from over-extending themselves and reduces the risk of bank runs.",
+    "difficulty": "Easy",
+    "class": "Class 12",
+    "subject": "Economics",
+    "chapter": "Ch 2: Money and Banking"
+  },
+  {
+    "text": "What is the effect of an increase in the Statutory Liquidity Ratio (SLR) on the liquidity of banks?",
+    "options": [
+      "Increases the liquidity of banks",
+      "Decreases the liquidity of banks",
+      "Has no effect on the liquidity of banks",
+      "Increases the interest rates"
+    ],
+    "correctAnswer": "Decreases the liquidity of banks",
+    "explanation": "An increase in the Statutory Liquidity Ratio (SLR) requires banks to hold a larger proportion of their deposits in liquid assets, such as cash and gold. This reduces the liquidity of banks, making it more difficult for them to meet their short-term obligations.",
+    "difficulty": "Medium",
+    "class": "Class 12",
+    "subject": "Economics",
+    "chapter": "Ch 2: Money and Banking"
+  },
+  {
+    "text": "What is the formula for calculating the money multiplier?",
+    "options": [
+      "Money Multiplier = 1 / (CRR + SLR)",
+      "Money Multiplier = 1 / (CRR - SLR)",
+      "Money Multiplier = (CRR + SLR) / 1",
+      "Money Multiplier = (CRR - SLR) / 1"
+    ],
+    "correctAnswer": "Money Multiplier = 1 / (CRR + SLR)",
+    "explanation": "The money multiplier is calculated as the reciprocal of the sum of the Cash Reserve Ratio (CRR) and the Statutory Liquidity Ratio (SLR). This is represented by the formula: Money Multiplier = 1 / (CRR + SLR).",
+    "difficulty": "Hard",
+    "class": "Class 12",
+    "subject": "Economics",
+    "chapter": "Ch 2: Money and Banking"
+  },
+  {
+    "text": "What is the effect of a decrease in the Cash Reserve Ratio (CRR) on the money supply?",
+    "options": [
+      "Increases the money supply",
+      "Decreases the money supply",
+      "Has no effect on the money supply",
+      "Increases the interest rates"
+    ],
+    "correctAnswer": "Increases the money supply",
+    "explanation": "A decrease in the Cash Reserve Ratio (CRR) allows banks to lend more money to customers, which increases the money supply. This is because banks are required to hold a smaller proportion of their deposits in reserve, allowing them to lend more and increase the money supply.",
+    "difficulty": "Medium",
+    "class": "Class 12",
+    "subject": "Economics",
+    "chapter": "Ch 2: Money and Banking"
+  },
+  {
+    "text": "What is the purpose of the Reserve Bank of India (RBI) using open market operations?",
+    "options": [
+      "To increase the money supply",
+      "To decrease the money supply",
+      "To influence the behavior of commercial banks without using monetary policy tools",
+      "To reduce the interest rates"
+    ],
+    "correctAnswer": "To influence the behavior of commercial banks without using monetary policy tools",
+    "explanation": "Open market operations are a technique used by the RBI to influence the behavior of commercial banks without using monetary policy tools. This can include buying or selling government securities on the open market to increase or decrease the money supply.",
+    "difficulty": "Medium",
+    "class": "Class 12",
+    "subject": "Economics",
+    "chapter": "Ch 2: Money and Banking"
+  },
+  {
+    "text": "What is the effect of an increase in the Statutory Liquidity Ratio (SLR) on the credit creation ability of banks?",
+    "options": [
+      "Increases the credit creation ability of banks",
+      "Decreases the credit creation ability of banks",
+      "Has no effect on the credit creation ability of banks",
+      "Increases the interest rates"
+    ],
+    "correctAnswer": "Decreases the credit creation ability of banks",
+    "explanation": "An increase in the Statutory Liquidity Ratio (SLR) requires banks to hold a larger proportion of their deposits in liquid assets, such as cash and gold. This reduces the credit creation ability of banks, making it more difficult for them to create new loans and credit.",
+    "difficulty": "Medium",
+    "class": "Class 12",
+    "subject": "Economics",
+    "chapter": "Ch 2: Money and Banking"
+  }
+]

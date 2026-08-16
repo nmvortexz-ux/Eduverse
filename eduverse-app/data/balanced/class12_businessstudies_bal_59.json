@@ -1,0 +1,47 @@
+[
+  {
+    "text": "Which of the following is a type of selection process?",
+    "options": [
+      "Interview",
+      "Training",
+      "Appraisal",
+      "Promotion"
+    ],
+    "correctAnswer": "Interview",
+    "explanation": "The selection process is a method of choosing the right candidate for a job. It involves various methods such as interview, written test, group discussion, etc. An interview is a type of selection process where the candidate is asked questions by the interviewer to assess their skills and knowledge.",
+    "difficulty": "Easy",
+    "class": "Class 12",
+    "subject": "Business Studies",
+    "chapter": "Ch 6: Staffing"
+  },
+  {
+    "text": "What is the main purpose of training methods?",
+    "options": [
+      "To increase employee turnover",
+      "To improve employee productivity",
+      "To reduce employee morale",
+      "To increase employee absenteeism"
+    ],
+    "correctAnswer": "To improve employee productivity",
+    "explanation": "Training methods are designed to improve employee productivity, efficiency, and performance. It helps employees to acquire new skills and knowledge, and to adapt to new technologies and processes.",
+    "difficulty": "Medium",
+    "class": "Class 12",
+    "subject": "Business Studies",
+    "chapter": "Ch 6: Staffing"
+  },
+  {
+    "text": "Which of the following is a type of training method?",
+    "options": [
+      "On-the-job training",
+      "Off-the-job training",
+      "Appraisal",
+      "Promotion"
+    ],
+    "correctAnswer": "On-the-job training",
+    "explanation": "On-the-job training is a type of training method where the employee learns new skills and knowledge by performing the job under the supervision of an experienced employee. This type of training is also known as 'learning by doing'.",
+    "difficulty": "Easy",
+    "class": "Class 12",
+    "subject": "Business Studies",
+    "chapter": "Ch 6: Staffing"
+  }
+]

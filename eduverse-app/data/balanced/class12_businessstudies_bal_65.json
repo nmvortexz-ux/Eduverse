@@ -1,0 +1,47 @@
+[
+  {
+    "text": "Which of the following is a part of the Consumer Protection Act, 1986?",
+    "options": [
+      "District Forum",
+      "State Commission",
+      "National Commission",
+      "Consumer Protection Council"
+    ],
+    "correctAnswer": "Consumer Protection Council",
+    "explanation": "The Consumer Protection Act, 1986, established the Consumer Protection Council at the national and state levels to promote and protect consumer rights. The Councils are responsible for creating awareness about consumer rights and duties, and for providing guidance to consumers.",
+    "difficulty": "Easy",
+    "class": "Class 12",
+    "subject": "Business Studies",
+    "chapter": "Ch 12: Consumer Protection"
+  },
+  {
+    "text": "What is the primary function of the National Commission under the Consumer Protection Act, 1986?",
+    "options": [
+      "To hear appeals from the State Commissions",
+      "To hear complaints directly from consumers",
+      "To regulate consumer markets",
+      "To provide consumer education"
+    ],
+    "correctAnswer": "To hear appeals from the State Commissions",
+    "explanation": "The National Commission is the highest consumer dispute redressal forum under the Consumer Protection Act, 1986. Its primary function is to hear appeals from the State Commissions, which have jurisdiction over specific states or union territories.",
+    "difficulty": "Medium",
+    "class": "Class 12",
+    "subject": "Business Studies",
+    "chapter": "Ch 12: Consumer Protection"
+  },
+  {
+    "text": "Which of the following is a characteristic of the District Forum under the Consumer Protection Act, 1986?",
+    "options": [
+      "It has jurisdiction over the entire country",
+      "It has jurisdiction over a district",
+      "It has jurisdiction over a state",
+      "It has jurisdiction over a union territory"
+    ],
+    "correctAnswer": "It has jurisdiction over a district",
+    "explanation": "The District Forum is the lowest consumer dispute redressal forum under the Consumer Protection Act, 1986. It has jurisdiction over a district and is responsible for hearing complaints related to consumer disputes within that district.",
+    "difficulty": "Easy",
+    "class": "Class 12",
+    "subject": "Business Studies",
+    "chapter": "Ch 12: Consumer Protection"
+  }
+]

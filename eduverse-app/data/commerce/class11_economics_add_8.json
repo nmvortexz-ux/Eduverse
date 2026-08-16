@@ -1,0 +1,272 @@
+[
+  {
+    "text": "What is the primary purpose of constructing a scatter diagram in the context of correlation?",
+    "options": [
+      "To calculate the correlation coefficient",
+      "To visualize the relationship between two variables",
+      "To determine the slope of the regression line",
+      "To forecast future values of a variable"
+    ],
+    "correctAnswer": "To visualize the relationship between two variables",
+    "explanation": "A scatter diagram is a graphical representation of the relationship between two variables. It helps to identify the nature and strength of the relationship, which is essential for further analysis.",
+    "difficulty": "Easy",
+    "class": "Class 11",
+    "subject": "Economics",
+    "chapter": "Ch 8: Correlation and Index Numbers"
+  },
+  {
+    "text": "Spearman's rank correlation coefficient ($r_s$) is used to measure the relationship between two variables when the data is in the form of:",
+    "options": [
+      "Ratio scales",
+      "Interval scales",
+      "Ordinal scales",
+      "Nominal scales"
+    ],
+    "correctAnswer": "Ordinal scales",
+    "explanation": "Spearman's rank correlation coefficient is a non-parametric measure of correlation that is used when the data is in the form of ranks or ordinal scales.",
+    "difficulty": "Medium",
+    "class": "Class 11",
+    "subject": "Economics",
+    "chapter": "Ch 8: Correlation and Index Numbers"
+  },
+  {
+    "text": "The formula for calculating Spearman's rank correlation coefficient ($r_s$) is given by $r_s = 1 - \frac{6sum d^2}{n(n^2-1)}$, where $d$ represents the difference between the ranks of the two variables. What does $n$ represent in this formula?",
+    "options": [
+      "The number of observations",
+      "The number of variables",
+      "The number of ranks",
+      "The number of correlations"
+    ],
+    "correctAnswer": "The number of observations",
+    "explanation": "In the formula for Spearman's rank correlation coefficient, $n$ represents the number of observations or the number of data points.",
+    "difficulty": "Medium",
+    "class": "Class 11",
+    "subject": "Economics",
+    "chapter": "Ch 8: Correlation and Index Numbers"
+  },
+  {
+    "text": "Index numbers are used to measure changes in the:",
+    "options": [
+      "Price level of a commodity",
+      "Quantity level of a commodity",
+      "Value level of a commodity",
+      "All of the above"
+    ],
+    "correctAnswer": "All of the above",
+    "explanation": "Index numbers are used to measure changes in the price level, quantity level, or value level of a commodity or a group of commodities over time.",
+    "difficulty": "Easy",
+    "class": "Class 11",
+    "subject": "Economics",
+    "chapter": "Ch 8: Correlation and Index Numbers"
+  },
+  {
+    "text": "The Consumer Price Index (CPI) is an example of a:",
+    "options": [
+      "Price index",
+      "Quantity index",
+      "Value index",
+      "All of the above"
+    ],
+    "correctAnswer": "Price index",
+    "explanation": "The CPI is a price index that measures the average change in prices of a basket of goods and services consumed by households.",
+    "difficulty": "Easy",
+    "class": "Class 11",
+    "subject": "Economics",
+    "chapter": "Ch 8: Correlation and Index Numbers"
+  },
+  {
+    "text": "The formula for calculating the CPI is given by $CPI = \frac{sum p_n}{sum p_0} \times 100$, where $p_n$ represents the current year price and $p_0$ represents the base year price. What does $sum p_0$ represent in this formula?",
+    "options": [
+      "The sum of current year prices",
+      "The sum of base year prices",
+      "The sum of price relatives",
+      "The sum of quantity relatives"
+    ],
+    "correctAnswer": "The sum of base year prices",
+    "explanation": "In the formula for calculating the CPI, $sum p_0$ represents the sum of the prices of the commodities in the base year.",
+    "difficulty": "Medium",
+    "class": "Class 11",
+    "subject": "Economics",
+    "chapter": "Ch 8: Correlation and Index Numbers"
+  },
+  {
+    "text": "The process of combining two or more index numbers to obtain a new index number is called:",
+    "options": [
+      "Base shifting",
+      "Splicing",
+      "Chaining",
+      "All of the above"
+    ],
+    "correctAnswer": "Splicing",
+    "explanation": "Splicing is the process of combining two or more index numbers to obtain a new index number, often used when the base year changes.",
+    "difficulty": "Medium",
+    "class": "Class 11",
+    "subject": "Economics",
+    "chapter": "Ch 8: Correlation and Index Numbers"
+  },
+  {
+    "text": "The cost of living index is calculated using the formula $CLI = \frac{sum p_n w}{sum p_0 w} \times 100$, where $p_n$ represents the current year price, $p_0$ represents the base year price, and $w$ represents the weight. What does $w$ represent in this formula?",
+    "options": [
+      "The quantity of the commodity",
+      "The price of the commodity",
+      "The weight of the commodity",
+      "The importance of the commodity in the consumer's budget"
+    ],
+    "correctAnswer": "The importance of the commodity in the consumer's budget",
+    "explanation": "In the formula for calculating the cost of living index, $w$ represents the weight or the importance of the commodity in the consumer's budget.",
+    "difficulty": "Medium",
+    "class": "Class 11",
+    "subject": "Economics",
+    "chapter": "Ch 8: Correlation and Index Numbers"
+  },
+  {
+    "text": "The base shifting method is used to:",
+    "options": [
+      "Change the base year of an index number",
+      "Combine two or more index numbers",
+      "Calculate the value of an index number",
+      "All of the above"
+    ],
+    "correctAnswer": "Change the base year of an index number",
+    "explanation": "The base shifting method is used to change the base year of an index number, which involves recalculating the index number with a new base year.",
+    "difficulty": "Medium",
+    "class": "Class 11",
+    "subject": "Economics",
+    "chapter": "Ch 8: Correlation and Index Numbers"
+  },
+  {
+    "text": "The CPI weights are typically based on the:",
+    "options": [
+      "Expenditure pattern of the consumer",
+      "Income level of the consumer",
+      "Price level of the commodity",
+      "Quantity level of the commodity"
+    ],
+    "correctAnswer": "Expenditure pattern of the consumer",
+    "explanation": "The CPI weights are typically based on the expenditure pattern of the consumer, which reflects the importance of each commodity in the consumer's budget.",
+    "difficulty": "Easy",
+    "class": "Class 11",
+    "subject": "Economics",
+    "chapter": "Ch 8: Correlation and Index Numbers"
+  },
+  {
+    "text": "The cost of living index is used to:",
+    "options": [
+      "Measure the change in the price level of a commodity",
+      "Measure the change in the quantity level of a commodity",
+      "Measure the change in the standard of living of a consumer",
+      "All of the above"
+    ],
+    "correctAnswer": "Measure the change in the standard of living of a consumer",
+    "explanation": "The cost of living index is used to measure the change in the standard of living of a consumer, which takes into account the changes in the prices of commodities and the consumer's expenditure pattern.",
+    "difficulty": "Easy",
+    "class": "Class 11",
+    "subject": "Economics",
+    "chapter": "Ch 8: Correlation and Index Numbers"
+  },
+  {
+    "text": "The formula for calculating the cost of living index using the $LASPEYRES$ index is given by $CLI = \frac{sum p_n q_0}{sum p_0 q_0} \times 100$, where $p_n$ represents the current year price, $p_0$ represents the base year price, and $q_0$ represents the base year quantity. What does $q_0$ represent in this formula?",
+    "options": [
+      "The current year quantity",
+      "The base year quantity",
+      "The price relative",
+      "The quantity relative"
+    ],
+    "correctAnswer": "The base year quantity",
+    "explanation": "In the formula for calculating the cost of living index using the $LASPEYRES$ index, $q_0$ represents the base year quantity.",
+    "difficulty": "Medium",
+    "class": "Class 11",
+    "subject": "Economics",
+    "chapter": "Ch 8: Correlation and Index Numbers"
+  },
+  {
+    "text": "The $PAASCHE$ index is used to calculate the cost of living index using the current year quantities. The formula for the $PAASCHE$ index is given by $CLI = \frac{sum p_n q_n}{sum p_0 q_n} \times 100$, where $p_n$ represents the current year price, $p_0$ represents the base year price, and $q_n$ represents the current year quantity. What does $q_n$ represent in this formula?",
+    "options": [
+      "The base year quantity",
+      "The current year quantity",
+      "The price relative",
+      "The quantity relative"
+    ],
+    "correctAnswer": "The current year quantity",
+    "explanation": "In the formula for calculating the cost of living index using the $PAASCHE$ index, $q_n$ represents the current year quantity.",
+    "difficulty": "Medium",
+    "class": "Class 11",
+    "subject": "Economics",
+    "chapter": "Ch 8: Correlation and Index Numbers"
+  },
+  {
+    "text": "The cost of living index is typically calculated using the $LASPEYRES$ index or the $PAASCHE$ index. Which of the following statements is true about these two indexes?",
+    "options": [
+      "The $LASPEYRES$ index uses the current year quantities, while the $PAASCHE$ index uses the base year quantities",
+      "The $LASPEYRES$ index uses the base year quantities, while the $PAASCHE$ index uses the current year quantities",
+      "The $LASPEYRES$ index uses the price relatives, while the $PAASCHE$ index uses the quantity relatives",
+      "The $LASPEYRES$ index uses the quantity relatives, while the $PAASCHE$ index uses the price relatives"
+    ],
+    "correctAnswer": "The $LASPEYRES$ index uses the base year quantities, while the $PAASCHE$ index uses the current year quantities",
+    "explanation": "The $LASPEYRES$ index uses the base year quantities, while the $PAASCHE$ index uses the current year quantities.",
+    "difficulty": "Medium",
+    "class": "Class 11",
+    "subject": "Economics",
+    "chapter": "Ch 8: Correlation and Index Numbers"
+  },
+  {
+    "text": "The cost of living index is used to adjust the salaries of the employees to account for the changes in the price level. Which of the following statements is true about this adjustment?",
+    "options": [
+      "The adjustment is made to reduce the salaries of the employees",
+      "The adjustment is made to increase the salaries of the employees",
+      "The adjustment is made to keep the salaries of the employees constant in terms of purchasing power",
+      "The adjustment is made to reduce the purchasing power of the employees"
+    ],
+    "correctAnswer": "The adjustment is made to keep the salaries of the employees constant in terms of purchasing power",
+    "explanation": "The cost of living index is used to adjust the salaries of the employees to account for the changes in the price level, with the goal of keeping the salaries constant in terms of purchasing power.",
+    "difficulty": "Easy",
+    "class": "Class 11",
+    "subject": "Economics",
+    "chapter": "Ch 8: Correlation and Index Numbers"
+  },
+  {
+    "text": "The CPI is used to measure the change in the price level of a basket of goods and services. Which of the following statements is true about the CPI?",
+    "options": [
+      "The CPI is a measure of the change in the quantity level of a basket of goods and services",
+      "The CPI is a measure of the change in the value level of a basket of goods and services",
+      "The CPI is a measure of the change in the price level of a basket of goods and services",
+      "The CPI is a measure of the change in the standard of living of a consumer"
+    ],
+    "correctAnswer": "The CPI is a measure of the change in the price level of a basket of goods and services",
+    "explanation": "The CPI is a measure of the change in the price level of a basket of goods and services.",
+    "difficulty": "Easy",
+    "class": "Class 11",
+    "subject": "Economics",
+    "chapter": "Ch 8: Correlation and Index Numbers"
+  },
+  {
+    "text": "The cost of living index is calculated using the formula $CLI = \frac{sum p_n w}{sum p_0 w} \times 100$, where $p_n$ represents the current year price, $p_0$ represents the base year price, and $w$ represents the weight. What is the purpose of using weights ($w$) in this formula?",
+    "options": [
+      "To give more importance to the commodities with higher prices",
+      "To give more importance to the commodities with lower prices",
+      "To give more importance to the commodities with higher quantities",
+      "To give more importance to the commodities with higher expenditure"
+    ],
+    "correctAnswer": "To give more importance to the commodities with higher expenditure",
+    "explanation": "The weights ($w$) in the formula for calculating the cost of living index are used to give more importance to the commodities with higher expenditure, which reflects the consumer's budget allocation.",
+    "difficulty": "Medium",
+    "class": "Class 11",
+    "subject": "Economics",
+    "chapter": "Ch 8: Correlation and Index Numbers"
+  },
+  {
+    "text": "The base year for the CPI is typically:",
+    "options": [
+      "The current year",
+      "The previous year",
+      "A fixed year in the past",
+      "A moving average of the past few years"
+    ],
+    "correctAnswer": "A fixed year in the past",
+    "explanation": "The base year for the CPI is typically a fixed year in the past, which serves as a reference point for calculating the index.",
+    "difficulty": "Easy",
+    "class": "Class 11",
+    "subject": "Economics",
+    "chapter": "Ch 8: Correlation and Index Numbers"
+  }
+]

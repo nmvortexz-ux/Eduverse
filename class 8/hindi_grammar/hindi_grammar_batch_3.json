@@ -1,0 +1,327 @@
+[
+  {
+    "class": "Class 8",
+    "subject": "Hindi Grammar",
+    "difficulty": "Easy",
+    "text": "\"मोहन स्कूल जाता है।\" यह अर्थ के आधार पर किस प्रकार का वाक्य है?",
+    "explanation": "जिस वाक्य से किसी कार्य के होने या करने की सामान्य सूचना मिलती है, उसे विधानवाचक वाक्य कहते हैं।",
+    "options": [
+      { "text": "निषेधवाचक वाक्य", "isCorrect": false },
+      { "text": "विधानवाचक वाक्य", "isCorrect": true },
+      { "text": "आज्ञावाचक वाक्य", "isCorrect": false },
+      { "text": "विस्मयादिबोधक वाक्य", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 8",
+    "subject": "Hindi Grammar",
+    "difficulty": "Medium",
+    "text": "\"वाह! कितना सुंदर दृश्य है।\" यह वाक्य अर्थ के आधार पर किस श्रेणी के अंतर्गत आता है?",
+    "explanation": "जिस वाक्य से आश्चर्य, हर्ष, घृणा, शोक आदि भाव प्रकट होते हैं, उसे विस्मयादिबोधक वाक्य कहते हैं।",
+    "options": [
+      { "text": "इच्छावाचक वाक्य", "isCorrect": false },
+      { "text": "विस्मयादिबोधक वाक्य", "isCorrect": true },
+      { "text": "संकेतवाचक वाक्य", "isCorrect": false },
+      { "text": "प्रश्नवाचक वाक्य", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 8",
+    "subject": "Hindi Grammar",
+    "difficulty": "Hard",
+    "text": "\"यद्यपि वह परिश्रमी है, तथापि वह सफल नहीं हो सका।\" रचना के आधार पर यह किस प्रकार का वाक्य है?",
+    "explanation": "इस वाक्य में एक मुख्य उपवाक्य है और दूसरा उस पर आश्रित उपवाक्य है, जो 'यद्यपि-तथापि' योजकों द्वारा जुड़ा है, इसलिए यह मिश्र वाक्य है।",
+    "options": [
+      { "text": "सरल वाक्य", "isCorrect": false },
+      { "text": "मिश्र वाक्य", "isCorrect": true },
+      { "text": "संयुक्त वाक्य", "isCorrect": false },
+      { "text": "साधारण वाक्य", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 8",
+    "subject": "Hindi Grammar",
+    "difficulty": "Medium",
+    "text": "\"लेखक द्वारा पुस्तक लिखी गई।\" यह वाक्य वाच्य के किस भेद के अंतर्गत आता है?",
+    "explanation": "इस वाक्य में कर्म (पुस्तक) की प्रधानता है और क्रिया कर्म के लिंग-वचन के अनुसार स्त्रीलिंग में प्रयुक्त हुई है, इसलिए यह कर्मवाच्य है।",
+    "options": [
+      { "text": "कर्तृवाच्य", "isCorrect": false },
+      { "text": "कर्मवाच्य", "isCorrect": true },
+      { "text": "भाववाच्य", "isCorrect": false },
+      { "text": "अकर्मक वाच्य", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 8",
+    "subject": "Hindi Grammar",
+    "difficulty": "Hard",
+    "text": "\"अब चला जाए।\" यह वाक्य किस वाच्य का उदाहरण है?",
+    "explanation": "जहाँ कर्ता या कर्म की प्रधानता न होकर केवल क्रिया के भाव (जाने की इच्छा/असमर्थता) की प्रधानता होती है, वहाँ भाववाच्य होता है।",
+    "options": [
+      { "text": "कर्तृवाच्य", "isCorrect": false },
+      { "text": "भाववाच्य", "isCorrect": true },
+      { "text": "कर्मवाच्य", "isCorrect": false },
+      { "text": "आज्ञावाच्य", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 8",
+    "subject": "Hindi Grammar",
+    "difficulty": "Very Hard",
+    "text": "\"पक्षी आकाश में उड़ते हैं।\" इस वाक्य का भाववाच्य में सही रूपांतरण क्या होगा?",
+    "explanation": "भाववाच्य में बदलते समय कर्ता के साथ 'से' लगाया जाता है और क्रिया सदैव एकवचन, पुल्लिंग, अन्य पुरुष और अकर्मक धातु की होती है।",
+    "options": [
+      { "text": "पक्षियों द्वारा आकाश में उड़ा जाएगा।", "isCorrect": false },
+      { "text": "पक्षियों से आकाश में उड़ा जाता है।", "isCorrect": true },
+      { "text": "पक्षी आकाश में उड़ेंगे।", "isCorrect": false },
+      { "text": "पक्षियों ने आकाश में उड़ान भरी।", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 8",
+    "subject": "Hindi Grammar",
+    "difficulty": "Easy",
+    "text": "'अतिशय' शब्द में कौन सा उपसर्ग प्रयुक्त हुआ है?",
+    "explanation": "'अतिशय' शब्द 'अति' उपसर्ग और 'शय' मूल शब्द से मिलकर बना है। 'अति' का अर्थ 'अधिकता' होता है।",
+    "options": [
+      { "text": "अ", "isCorrect": false },
+      { "text": "अति", "isCorrect": true },
+      { "text": "अतिश", "isCorrect": false },
+      { "text": "अत", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 8",
+    "subject": "Hindi Grammar",
+    "difficulty": "Medium",
+    "text": "'घबराहट' शब्द में कौन सा प्रत्यय प्रयुक्त हुआ है?",
+    "explanation": "'घबराना' क्रिया में भाववाचक कृत प्रत्यय 'आहट' जोड़ने पर 'घबराहट' शब्द बनता है।",
+    "options": [
+      { "text": "हट", "isCorrect": false },
+      { "text": "आहट", "isCorrect": true },
+      { "text": "घबरा", "isCorrect": false },
+      { "text": "ट", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 8",
+    "subject": "Hindi Grammar",
+    "difficulty": "Very Hard",
+    "text": "'लौकिक' शब्द में मूल शब्द और प्रत्यय का सही विभाजन क्या है?",
+    "explanation": "'लोक' मूल शब्द में 'इक' प्रत्यय जोड़ने पर आदि स्वर 'ओ' का 'औ' में परिवर्तन हो जाता है, जिससे 'लौकिक' शब्द बनता है।",
+    "options": [
+      { "text": "लौक + इक", "isCorrect": false },
+      { "text": "लोक + इक्", "isCorrect": true },
+      { "text": "लौक + इक", "isCorrect": false },
+      { "text": "लौकिक + अ", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 8",
+    "subject": "Hindi Grammar",
+    "difficulty": "Medium",
+    "text": "\"मोहन सो रहा था।\" यह वाक्य भूतकाल के किस भेद का उदाहरण है?",
+    "explanation": "वाक्य से पता चलता है कि क्रिया भूतकाल में जारी थी और उसकी समाप्ति का पता नहीं चला, इसलिए यह अपूर्ण भूतकाल है।",
+    "options": [
+      { "text": "पूर्ण भूतकाल", "isCorrect": false },
+      { "text": "अपूर्ण भूतकाल", "isCorrect": true },
+      { "text": "सामान्य भूतकाल", "isCorrect": false },
+      { "text": "आसन्न भूतकाल", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 8",
+    "subject": "Hindi Grammar",
+    "difficulty": "Hard",
+    "text": "\"उसने पुस्तक पढ़ी है।\" यह वाक्य भूतकाल के किस भेद का उदाहरण है?",
+    "explanation": "जिस क्रिया से यह पता चले कि कार्य अभी-अभी या निकट भूतकाल में समाप्त हुआ है, उसे आसन्न भूतकाल कहते हैं।",
+    "options": [
+      { "text": "सामान्य भूतकाल", "isCorrect": false },
+      { "text": "आसन्न भूतकाल", "isCorrect": true },
+      { "text": "पूर्ण भूतकाल", "isCorrect": false },
+      { "text": "हेतुहेतुमद् भूतकाल", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 8",
+    "subject": "Hindi Grammar",
+    "difficulty": "Very Hard",
+    "text": "\"शायद नौकर घर आया हो।\" यह वाक्य किस काल का सही उदाहरण है?",
+    "explanation": "जहाँ वर्तमान काल की क्रिया में होने का संदेह हो, पर संभावना बनी रहे, वहाँ संभाव्य वर्तमान काल होता है।",
+    "options": [
+      { "text": "संदिग्ध वर्तमान काल", "isCorrect": false },
+      { "text": "संभाव्य वर्तमान काल", "isCorrect": true },
+      { "text": "सामान्य वर्तमान काल", "isCorrect": false },
+      { "text": "अपूर्ण वर्तमान काल", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 8",
+    "subject": "Hindi Grammar",
+    "difficulty": "Easy",
+    "text": "'सज्जन' शब्द का सही संधि-विच्छेद क्या होगा?",
+    "explanation": "'सत् + जन' मिलकर 'सज्जन' बनता है। त् का ज में परिवर्तन होना व्यंजन संधि का नियम है।",
+    "options": [
+      { "text": "सज + जन", "isCorrect": false },
+      { "text": "सत् + जन", "isCorrect": true },
+      { "text": "सत + जन", "isCorrect": false },
+      { "text": "सज् + जन", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 8",
+    "subject": "Hindi Grammar",
+    "difficulty": "Hard",
+    "text": "'संतुष्ट' शब्द का सही संधि-विच्छेद निम्नलिखित में से क्या होगा?",
+    "explanation": "व्यंजन संधि के नियम के अनुसार, यदि 'म' के बाद कोई स्पर्श व्यंजन आए, तो 'म' का अनुस्वार (ं) हो जाता है। अतः 'सम् + तुष्ट = संतुष्ट' है।",
+    "options": [
+      { "text": "सन् + तुष्ट", "isCorrect": false },
+      { "text": "सम् + तुष्ट", "isCorrect": true },
+      { "text": "स + तुष्ट", "isCorrect": false },
+      { "text": "सं + तुष्ट", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 8",
+    "subject": "Hindi Grammar",
+    "difficulty": "Very Hard",
+    "text": "'दिग्गज' शब्द का सही संधि-विच्छेद और संधि का नाम क्या है?",
+    "explanation": "'दिक् + गज' मिलकर 'दिग्गज' बनता है। वर्ग के प्रथम वर्ण (क) का अपने वर्ग के तीसरे वर्ण (ग) में परिवर्तन व्यंजन संधि का नियम है।",
+    "options": [
+      { "text": "दिग + गज (व्यंजन संधि)", "isCorrect": false },
+      { "text": "दिक् + गज (व्यंजन संधि)", "isCorrect": true },
+      { "text": "दि + गज (विसर्ग संधि)", "isCorrect": false },
+      { "text": "दिक् + अज (व्यंजन संधि)", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 8",
+    "subject": "Hindi Grammar",
+    "difficulty": "Medium",
+    "text": "'माता-पिता' (माता और पिता) में कौन सा समास प्रयुक्त है?",
+    "explanation": "जिस समास में दोनों पद प्रधान हों और उनके बीच 'और' योजक का लोप हो, उसे द्वंद्व समास कहते हैं।",
+    "options": [
+      { "text": "द्विगु समास", "isCorrect": false },
+      { "text": "द्वंद्व समास", "isCorrect": true },
+      { "text": "तत्पुरुष समास", "isCorrect": false },
+      { "text": "बहुव्रीहि समास", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 8",
+    "subject": "Hindi Grammar",
+    "difficulty": "Hard",
+    "text": "'त्रिलोचन' (तीन नेत्र हैं जिसके अर्थात् शिव) शब्द में कौन सा समास है?",
+    "explanation": "यद्यपि पहला पद संख्यावाचक 'त्रि' है, परंतु यह पद भगवान शिव के लिए रूढ़ है, इसलिए यहाँ बहुव्रीहि समास है।",
+    "options": [
+      { "text": "द्विगु समास", "isCorrect": false },
+      { "text": "बहुव्रीहि समास", "isCorrect": true },
+      { "text": "तत्पुरुष समास", "isCorrect": false },
+      { "text": "द्वंद्व समास", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 8",
+    "subject": "Hindi Grammar",
+    "difficulty": "Very Hard",
+    "text": "'चौराहा' (चार राहों का समाहार) में कौन सा समास प्रयुक्त है?",
+    "explanation": "पहला पद संख्यावाचक 'चार' होने के कारण और यह एक समाहार (समूह) का बोध कराने के कारण द्विगु समास का उदाहरण है।",
+    "options": [
+      { "text": "तत्पुरुष समास", "isCorrect": false },
+      { "text": "द्विगु समास", "isCorrect": true },
+      { "text": "बहुव्रीहि समास", "isCorrect": false },
+      { "text": "द्वंद्व समास", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 8",
+    "subject": "Hindi Grammar",
+    "difficulty": "Easy",
+    "text": "'अमृत' शब्द का सही विलोम शब्द निम्नलिखित में से क्या होगा?",
+    "explanation": "'अमृत' का विलोम शब्द 'विष' होता है। सुधा इसका पर्यायवाची है, और गरल भी विष का ही पर्यायवाची है।",
+    "options": [
+      { "text": "गरल", "isCorrect": false },
+      { "text": "विष", "isCorrect": true },
+      { "text": "सुधा", "isCorrect": false },
+      { "text": "अमृत्यु", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 8",
+    "subject": "Hindi Grammar",
+    "difficulty": "Medium",
+    "text": "निम्नलिखित में से कौन सा शब्द 'आकाश' का सही पर्यायवाची नहीं है?",
+    "explanation": "'नभ', 'गगन', और 'व्योम' आकाश के पर्यायवाची हैं, जबकि 'पावक' अग्नि का पर्यायवाची है।",
+    "options": [
+      { "text": "नभ", "isCorrect": false },
+      { "text": "पावक", "isCorrect": true },
+      { "text": "गगन", "isCorrect": false },
+      { "text": "व्योम", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 8",
+    "subject": "Hindi Grammar",
+    "difficulty": "Hard",
+    "text": "'अनुराग' शब्द का सही विलोम शब्द क्या होगा?",
+    "explanation": "'अनुराग' (प्रेम) का सही विलोम शब्द 'विराग' (उदासीनता) होता है।",
+    "options": [
+      { "text": "प्रेम", "isCorrect": false },
+      { "text": "विराग", "isCorrect": true },
+      { "text": "नफरत", "isCorrect": false },
+      { "text": "द्वेष", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 8",
+    "subject": "Hindi Grammar",
+    "difficulty": "Very Hard",
+    "text": "'कृपण' शब्द का सही विलोम शब्द निम्नलिखित में से कौन सा है?",
+    "explanation": "'कृपण' का अर्थ 'कंजूस' होता है, इसलिए इसका विलोम 'दानी' (दान देने वाला) होगा।",
+    "options": [
+      { "text": "कंजूस", "isCorrect": false },
+      { "text": "दानी", "isCorrect": true },
+      { "text": "उदार", "isCorrect": false },
+      { "text": "भिखारी", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 8",
+    "subject": "Hindi Grammar",
+    "difficulty": "Hard",
+    "text": "\"आँखें दिखाना\" इस मुहावरे का सही अर्थ क्या है?",
+    "explanation": "\"आँखें दिखाना\" मुहावरे का अर्थ होता है किसी पर अत्यधिक क्रोध या गुस्सा प्रकट करना।",
+    "options": [
+      { "text": "देखना", "isCorrect": false },
+      { "text": "क्रोध प्रकट करना", "isCorrect": true },
+      { "text": "डराना", "isCorrect": false },
+      { "text": "आँखें दर्द होना", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 8",
+    "subject": "Hindi Grammar",
+    "difficulty": "Very Hard",
+    "text": "\"खिसियानी बिल्ली खंभा नोचे\" इस लोकोक्ति का सही अर्थ क्या है?",
+    "explanation": "इस लोकोक्ति का अर्थ है कि जब कोई व्यक्ति अपनी विफलता या लज्जा से घबरा जाता है, तो वह अपनी खींच छिपाने के लिए दूसरों पर व्यर्थ में क्रोध करता है।",
+    "options": [
+      { "text": "बिल्ली का खंभे पर चढ़ना", "isCorrect": false },
+      { "text": "अपनी शर्म छिपाने के लिए व्यर्थ में गुस्सा होना", "isCorrect": true },
+      { "text": "बिना कारण गुस्सा करना", "isCorrect": false },
+      { "text": "कायरता दिखाना", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 8",
+    "subject": "Hindi Grammar",
+    "difficulty": "Very Hard",
+    "text": "\"अकेला चना भाड़ नहीं फोड़ सकता\" इस लोकोक्ति का सही अर्थ क्या है?",
+    "explanation": "इस लोकोक्ति का अर्थ है कि एक अकेला व्यक्ति अपने दम पर कोई बड़ा या कठिन कार्य संपन्न नहीं कर सकता, उसके लिए सहयोग की आवश्यकता होती है।",
+    "options": [
+      { "text": "अकेले चने का भूनना", "isCorrect": false },
+      { "text": "अकेला व्यक्ति कोई बड़ा काम नहीं कर सकता", "isCorrect": true },
+      { "text": "सामूहिक कार्य करना", "isCorrect": false },
+      { "text": "चने का बिखर जाना", "isCorrect": false }
+    ]
+  }
+]

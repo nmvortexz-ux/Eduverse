@@ -1,0 +1,327 @@
+[
+  {
+    "class": "Class 10",
+    "subject": "GK",
+    "difficulty": "EASY",
+    "text": "Who was the first Prime Minister of independent India?",
+    "explanation": "Jawaharlal Nehru served as the first Prime Minister of India from its independence in 1947 until his death in 1964.",
+    "options": [
+      { "text": "Jawaharlal Nehru", "isCorrect": true },
+      { "text": "Lal Bahadur Shastri", "isCorrect": false },
+      { "text": "Sardar Vallabhbhai Patel", "isCorrect": false },
+      { "text": "Mahatma Gandhi", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 10",
+    "subject": "GK",
+    "difficulty": "EASY",
+    "text": "Which animal is designated as the National Animal of India?",
+    "explanation": "The Royal Bengal Tiger (Panthera tigris) was declared the national animal of India in April 1972, replacing the lion, to promote tiger conservation.",
+    "options": [
+      { "text": "Asiatic Lion", "isCorrect": false },
+      { "text": "Bengal Tiger", "isCorrect": true },
+      { "text": "Indian Elephant", "isCorrect": false },
+      { "text": "One-horned Rhinoceros", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 10",
+    "subject": "GK",
+    "difficulty": "EASY",
+    "text": "Which is the highest uninterrupted waterfall in the world?",
+    "explanation": "Angel Falls, located in Venezuela, is the world's highest uninterrupted waterfall, with a height of 979 meters (3,212 feet).",
+    "options": [
+      { "text": "Niagara Falls", "isCorrect": false },
+      { "text": "Victoria Falls", "isCorrect": false },
+      { "text": "Angel Falls", "isCorrect": true },
+      { "text": "Yosemite Falls", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 10",
+    "subject": "GK",
+    "difficulty": "EASY",
+    "text": "What is the capital city of France?",
+    "explanation": "Paris is the capital and most populous city of France, situated on the Seine River in the north-central part of the country.",
+    "options": [
+      { "text": "Rome", "isCorrect": false },
+      { "text": "Berlin", "isCorrect": false },
+      { "text": "Paris", "isCorrect": true },
+      { "text": "Madrid", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 10",
+    "subject": "GK",
+    "difficulty": "EASY",
+    "text": "Which gas is the most abundant in the Earth's atmosphere by volume?",
+    "explanation": "Nitrogen is the most abundant gas in the atmosphere, making up approximately 78% of the air we breathe, followed by oxygen at 21%.",
+    "options": [
+      { "text": "Oxygen", "isCorrect": false },
+      { "text": "Nitrogen", "isCorrect": true },
+      { "text": "Carbon Dioxide", "isCorrect": false },
+      { "text": "Argon", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 10",
+    "subject": "GK",
+    "difficulty": "EASY",
+    "text": "Who is credited with inventing the telephone in 1876?",
+    "explanation": "Alexander Graham Bell was awarded the first US patent for the telephone in 1876, establishing the Bell Telephone Company.",
+    "options": [
+      { "text": "Thomas Edison", "isCorrect": false },
+      { "text": "Alexander Graham Bell", "isCorrect": true },
+      { "text": "Nikola Tesla", "isCorrect": false },
+      { "text": "Guglielmo Marconi", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 10",
+    "subject": "GK",
+    "difficulty": "MEDIUM",
+    "text": "In which year was the 'Quit India Movement' launched by Mahatma Gandhi, demanding an end to British rule?",
+    "explanation": "Mahatma Gandhi launched the Quit India Movement (August Kranti Movement) at the Bombay session of the All India Congress Committee on 8 August 1942.",
+    "options": [
+      { "text": "1930", "isCorrect": false },
+      { "text": "1942", "isCorrect": true },
+      { "text": "1920", "isCorrect": false },
+      { "text": "1947", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 10",
+    "subject": "GK",
+    "difficulty": "MEDIUM",
+    "text": "Which organ in the human body is primarily responsible for filtering waste from the blood and producing urine?",
+    "explanation": "The kidneys filter blood to remove metabolic wastes, excess salts, and water, excreting them in the form of urine.",
+    "options": [
+      { "text": "Liver", "isCorrect": false },
+      { "text": "Kidneys", "isCorrect": true },
+      { "text": "Lungs", "isCorrect": false },
+      { "text": "Spleen", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 10",
+    "subject": "GK",
+    "difficulty": "MEDIUM",
+    "text": "Which is the largest state in India by geographic land area?",
+    "explanation": "Rajasthan is the largest state in India by area, covering 342,239 square kilometers, which is about 10.4% of the country's total land area.",
+    "options": [
+      { "text": "Madhya Pradesh", "isCorrect": false },
+      { "text": "Maharashtra", "isCorrect": false },
+      { "text": "Uttar Pradesh", "isCorrect": false },
+      { "text": "Rajasthan", "isCorrect": true }
+    ]
+  },
+  {
+    "class": "Class 10",
+    "subject": "GK",
+    "difficulty": "MEDIUM",
+    "text": "The Universal Declaration of Human Rights (UDHR) was adopted by the United Nations General Assembly in which year?",
+    "explanation": "The UDHR was adopted by the UN General Assembly on 10 December 1948 in Paris, establishing fundamental human rights to be universally protected.",
+    "options": [
+      { "text": "1945", "isCorrect": false },
+      { "text": "1948", "isCorrect": true },
+      { "text": "1950", "isCorrect": false },
+      { "text": "1954", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 10",
+    "subject": "GK",
+    "difficulty": "MEDIUM",
+    "text": "Which country is globally referred to as the 'Sugar Bowl of the World' due to its massive sugar production?",
+    "explanation": "Cuba was historically nicknamed the Sugar Bowl of the World as it was the largest exporter of sugar, though Brazil and India have now surpassed it in production.",
+    "options": [
+      { "text": "Brazil", "isCorrect": false },
+      { "text": "Cuba", "isCorrect": true },
+      { "text": "India", "isCorrect": false },
+      { "text": "Thailand", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 10",
+    "subject": "GK",
+    "difficulty": "MEDIUM",
+    "text": "What does the standard economic indicator abbreviation 'GDP' stand for?",
+    "explanation": "GDP stands for Gross Domestic Product, which represents the total monetary or market value of all finished goods and services produced within a country's borders in a specific time period.",
+    "options": [
+      { "text": "Gross Development Product", "isCorrect": false },
+      { "text": "Gross Domestic Product", "isCorrect": true },
+      { "text": "General Domestic Price", "isCorrect": false },
+      { "text": "Government Debt Percent", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 10",
+    "subject": "GK",
+    "difficulty": "HARD",
+    "text": "Who founded the reformist social movement 'Brahmo Samaj' in Calcutta in 1828?",
+    "explanation": "Raja Ram Mohan Roy founded the Brahmo Samaj in 1828 to fight social evils like Sati, child marriage, and caste discrimination, promoting monotheism and rationalism.",
+    "options": [
+      { "text": "Raja Ram Mohan Roy", "isCorrect": true },
+      { "text": "Swami Dayanand Saraswati", "isCorrect": false },
+      { "text": "Ishwar Chandra Vidyasagar", "isCorrect": false },
+      { "text": "Swami Vivekananda", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 10",
+    "subject": "GK",
+    "difficulty": "HARD",
+    "text": "Which Article of the Indian Constitution grants the Parliament the power to amend the Constitution and its procedures?",
+    "explanation": "Article 368 of Part XX of the Indian Constitution details the power of Parliament to amend the constitution by way of addition, variation, or repeal.",
+    "options": [
+      { "text": "Article 356", "isCorrect": false },
+      { "text": "Article 368", "isCorrect": true },
+      { "text": "Article 370", "isCorrect": false },
+      { "text": "Article 324", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 10",
+    "subject": "GK",
+    "difficulty": "HARD",
+    "text": "Which is the longest river in the world, flowing northwards through northeastern Africa?",
+    "explanation": "The Nile River is traditionally considered the longest river in the world, stretching about 6,650 kilometers (4,132 miles) and flowing into the Mediterranean Sea.",
+    "options": [
+      { "text": "Amazon River", "isCorrect": false },
+      { "text": "Yangtze River", "isCorrect": false },
+      { "text": "Nile River", "isCorrect": true },
+      { "text": "Mississippi River", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 10",
+    "subject": "GK",
+    "difficulty": "HARD",
+    "text": "Who was the first Indian (and Asian) to receive a Nobel Prize, winning it in the Literature category in 1913?",
+    "explanation": "Rabindranath Tagore won the Nobel Prize in Literature in 1913 for his collection of poems 'Gitanjali', becoming the first non-European to win the award.",
+    "options": [
+      { "text": "C.V. Raman", "isCorrect": false },
+      { "text": "Rabindranath Tagore", "isCorrect": true },
+      { "text": "Mother Teresa", "isCorrect": false },
+      { "text": "Hargobind Khorana", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 10",
+    "subject": "GK",
+    "difficulty": "HARD",
+    "text": "Which city is the federal capital of Australia?",
+    "explanation": "Canberra was selected as the capital city of Australia in 1908 as a compromise between rivals Sydney and Melbourne.",
+    "options": [
+      { "text": "Sydney", "isCorrect": false },
+      { "text": "Melbourne", "isCorrect": false },
+      { "text": "Canberra", "isCorrect": true },
+      { "text": "Brisbane", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 10",
+    "subject": "GK",
+    "difficulty": "HARD",
+    "text": "Which national football team won the FIFA Men's World Cup in 2022?",
+    "explanation": "Argentina won the 2022 FIFA World Cup hosted in Qatar, defeating France in a dramatic penalty shootout in the final.",
+    "options": [
+      { "text": "France", "isCorrect": false },
+      { "text": "Brazil", "isCorrect": false },
+      { "text": "Argentina", "isCorrect": true },
+      { "text": "Croatia", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 10",
+    "subject": "GK",
+    "difficulty": "VERY HARD",
+    "text": "Under whose viceroyalty was the highly controversial 'Vernacular Press Act' of 1878 enacted to muzzle regional newspapers?",
+    "explanation": "Lord Lytton passed the Vernacular Press Act of 1878 to suppress local-language newspapers that criticized British policies. It was later repealed by Lord Ripon in 1882.",
+    "options": [
+      { "text": "Lord Lytton", "isCorrect": true },
+      { "text": "Lord Ripon", "isCorrect": false },
+      { "text": "Lord Dufferin", "isCorrect": false },
+      { "text": "Lord Lytton II", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 10",
+    "subject": "GK",
+    "difficulty": "VERY HARD",
+    "text": "Who was appointed as the first Chief Election Commissioner of independent India, overseeing the first two general elections?",
+    "explanation": "Sukumar Sen, an Indian civil servant, served as the first Chief Election Commissioner of India from 1950 to 1958, managing the massive 1951-52 and 1957 elections.",
+    "options": [
+      { "text": "K.V.K. Sundaram", "isCorrect": false },
+      { "text": "Sukumar Sen", "isCorrect": true },
+      { "text": "T.N. Seshan", "isCorrect": false },
+      { "text": "S.P. Sen Verma", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 10",
+    "subject": "GK",
+    "difficulty": "VERY HARD",
+    "text": "Which narrow sea strait separates the main continent of Australia from the island state of Tasmania?",
+    "explanation": "The Bass Strait is a body of water that separates Tasmania from the Australian mainland (the state of Victoria) and connects the Tasman Sea to the Indian Ocean.",
+    "options": [
+      { "text": "Torres Strait", "isCorrect": false },
+      { "text": "Bass Strait", "isCorrect": true },
+      { "text": "Cook Strait", "isCorrect": false },
+      { "text": "Malacca Strait", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 10",
+    "subject": "GK",
+    "difficulty": "VERY HARD",
+    "text": "Which economic indicator calculates the total value of all goods and services produced by a country's residents and businesses, regardless of the production location?",
+    "explanation": "Gross National Product (GNP) measures the total value of goods and services produced by a nation's citizens, including those residing abroad, but excluding foreign residents living within the nation.",
+    "options": [
+      { "text": "Gross Domestic Product", "isCorrect": false },
+      { "text": "Gross National Product", "isCorrect": true },
+      { "text": "Net Domestic Product", "isCorrect": false },
+      { "text": "National Income", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 10",
+    "subject": "GK",
+    "difficulty": "VERY HARD",
+    "text": "The 'Dampa Tiger Reserve', which is a rich biosphere reserve hosting cloud leopards and rare bird species, is located in which Indian state?",
+    "explanation": "Dampa Tiger Reserve is located in the Mamit district of Mizoram along the border with Bangladesh, covering an area of 500 square kilometers.",
+    "options": [
+      { "text": "Nagaland", "isCorrect": false },
+      { "text": "Mizoram", "isCorrect": true },
+      { "text": "Tripura", "isCorrect": false },
+      { "text": "Manipur", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 10",
+    "subject": "GK",
+    "difficulty": "VERY HARD",
+    "text": "Which Russian chemist is credited with formulating the Periodic Law and creating the first version of the Periodic Table of Elements in 1869?",
+    "explanation": "Dmitri Mendeleev arranged the chemical elements by atomic weight, predicting the properties of elements that were yet to be discovered, which revolutionized chemical science.",
+    "options": [
+      { "text": "John Newlands", "isCorrect": false },
+      { "text": "Dmitri Mendeleev", "isCorrect": true },
+      { "text": "Henry Moseley", "isCorrect": false },
+      { "text": "Antoine Lavoisier", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 10",
+    "subject": "GK",
+    "difficulty": "VERY HARD",
+    "text": "The 'Simla Accord' of 1972 was signed between India and Pakistan to define the Line of Control. Who signed this historic agreement on behalf of Pakistan?",
+    "explanation": "The Simla Accord was signed on 2 July 1972 in Shimla by Prime Minister Indira Gandhi of India and President Zulfikar Ali Bhutto of Pakistan.",
+    "options": [
+      { "text": "Zulfikar Ali Bhutto", "isCorrect": true },
+      { "text": "Yahya Khan", "isCorrect": false },
+      { "text": "Liaquat Ali Khan", "isCorrect": false },
+      { "text": "Ayub Khan", "isCorrect": false }
+    ]
+  }
+]

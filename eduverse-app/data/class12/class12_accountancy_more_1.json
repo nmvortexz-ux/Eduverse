@@ -1,0 +1,32 @@
+[
+  {
+    "text": "A not-for-profit organisation receives a life membership fee of $10,000. How will this be treated in the financial statements?",
+    "options": [
+      "Debit Life Membership Fee to Income",
+      "Credit Life Membership Fee to Income",
+      "Debit Life Membership Fee to Capital Fund",
+      "Credit Life Membership Fee to Capital Fund"
+    ],
+    "correctAnswer": "Credit Life Membership Fee to Capital Fund",
+    "explanation": "According to the NCERT textbook, life membership fees are treated as capital receipts and credited to the Capital Fund account. This is because life membership fees are received in exchange for a permanent right or privilege, which is a characteristic of capital receipts.",
+    "difficulty": "Easy",
+    "class": "Class 12",
+    "subject": "Accountancy",
+    "chapter": "Ch 1: Accounting for Not-for-Profit Organisation"
+  },
+  {
+    "text": "A not-for-profit organisation has the following data for consumable items: Opening Stock = $5,000, Purchases = $20,000, Closing Stock = $8,000. What is the total cost of consumable items for the year?",
+    "options": [
+      "$17,000",
+      "$17,500",
+      "$18,000",
+      "$18,500"
+    ],
+    "correctAnswer": "$17,000",
+    "explanation": "The total cost of consumable items is calculated using the formula: Opening Stock + Purchases - Closing Stock. Substituting the given values, we get: $5,000 + $20,000 - $8,000 = $17,000.",
+    "difficulty": "Medium",
+    "class": "Class 12",
+    "subject": "Accountancy",
+    "chapter": "Ch 1: Accounting for Not-for-Profit Organisation"
+  }
+]

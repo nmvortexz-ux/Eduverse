@@ -1,0 +1,47 @@
+[
+  {
+    "text": "What is the main advantage of a company having a high debt-equity ratio?",
+    "options": [
+      "It increases the cost of capital.",
+      "It reduces the cost of capital.",
+      "It increases the risk of the company.",
+      "It reduces the risk of the company."
+    ],
+    "correctAnswer": "B. It reduces the cost of capital.",
+    "explanation": "A high debt-equity ratio means that a company has more debt and less equity. This can reduce the cost of capital for the company because debt is generally cheaper than equity. However, it also increases the risk of the company.",
+    "difficulty": "Medium",
+    "class": "Class 12",
+    "subject": "Business Studies",
+    "chapter": "Ch 9: Financial Management"
+  },
+  {
+    "text": "What is trading on equity?",
+    "options": [
+      "It refers to the practice of issuing new shares to raise capital.",
+      "It refers to the practice of buying back shares from the market.",
+      "It refers to the practice of using debt to finance new projects.",
+      "It refers to the practice of using equity to finance new projects."
+    ],
+    "correctAnswer": "A. It refers to the practice of issuing new shares to raise capital.",
+    "explanation": "Trading on equity refers to the practice of issuing new shares to raise capital. This is done when a company needs to raise funds for a new project or to expand its operations. The new shares are issued to the public or to existing shareholders.",
+    "difficulty": "Easy",
+    "class": "Class 12",
+    "subject": "Business Studies",
+    "chapter": "Ch 9: Financial Management"
+  },
+  {
+    "text": "What is the optimal capital structure?",
+    "options": [
+      "The capital structure that minimizes the cost of capital.",
+      "The capital structure that maximizes the return on equity.",
+      "The capital structure that minimizes the risk of the company.",
+      "The capital structure that maximizes the value of the company."
+    ],
+    "correctAnswer": "A. The capital structure that minimizes the cost of capital.",
+    "explanation": "The optimal capital structure is the one that minimizes the cost of capital for the company. This is because the cost of capital is a key determinant of the company's profitability and value. The optimal capital structure will depend on the company's specific circumstances and goals.",
+    "difficulty": "Hard",
+    "class": "Class 12",
+    "subject": "Business Studies",
+    "chapter": "Ch 9: Financial Management"
+  }
+]

@@ -1,0 +1,167 @@
+[
+  {
+    "text": "What is the primary difference between the Current Account and the Capital Account in the Balance of Payments?",
+    "options": [
+      "Current Account records transactions in goods and services, while the Capital Account records transactions in assets and liabilities.",
+      "Current Account records transactions in assets and liabilities, while the Capital Account records transactions in goods and services.",
+      "Current Account records transactions in assets and liabilities, while the Capital Account records transactions in assets and liabilities.",
+      "Current Account records transactions in goods and services, while the Capital Account records transactions in assets and liabilities."
+    ],
+    "correctAnswer": "Option A",
+    "explanation": "According to NCERT, the Current Account records transactions in goods, services, income, and current transfers, while the Capital Account records transactions in assets and liabilities.",
+    "difficulty": "Easy",
+    "class": "Class 12",
+    "subject": "Economics",
+    "chapter": "Ch 5: Balance of Payments and Foreign Exchange"
+  },
+  {
+    "text": "What is the meaning of Autonomous items in the Balance of Payments?",
+    "options": [
+      "Items that are influenced by external factors.",
+      "Items that are influenced by internal factors.",
+      "Items that are not influenced by external factors.",
+      "Items that are not influenced by internal factors."
+    ],
+    "correctAnswer": "Option C",
+    "explanation": "According to NCERT, Autonomous items are those that are not influenced by external factors, such as exchange rates or interest rates.",
+    "difficulty": "Easy",
+    "class": "Class 12",
+    "subject": "Economics",
+    "chapter": "Ch 5: Balance of Payments and Foreign Exchange"
+  },
+  {
+    "text": "What is the formula for calculating the value of a currency in a Fixed Exchange Rate system?",
+    "options": [
+      "$S = F$",
+      "$S = F \times R$",
+      "$S = \frac{F}{R}$",
+      "$S = F + R$"
+    ],
+    "correctAnswer": "Option B",
+    "explanation": "According to NCERT, in a Fixed Exchange Rate system, the value of a currency is fixed at a predetermined rate, so $S = F \times R$.",
+    "difficulty": "Medium",
+    "class": "Class 12",
+    "subject": "Economics",
+    "chapter": "Ch 5: Balance of Payments and Foreign Exchange"
+  },
+  {
+    "text": "What is the effect of Devaluation on a country's exports?",
+    "options": [
+      "Decreases exports",
+      "Increases exports",
+      "Has no effect on exports",
+      "Increases imports"
+    ],
+    "correctAnswer": "Option B",
+    "explanation": "According to NCERT, Devaluation makes a country's exports cheaper and more competitive in the international market, leading to an increase in exports.",
+    "difficulty": "Medium",
+    "class": "Class 12",
+    "subject": "Economics",
+    "chapter": "Ch 5: Balance of Payments and Foreign Exchange"
+  },
+  {
+    "text": "What is the difference between a Managed Floating Exchange Rate system and a Flexible Exchange Rate system?",
+    "options": [
+      "Managed Floating is a system where the government intervenes in the foreign exchange market, while Flexible is a system where the government does not intervene.",
+      "Managed Floating is a system where the government does not intervene in the foreign exchange market, while Flexible is a system where the government intervenes.",
+      "Managed Floating is a system where the exchange rate is determined by market forces, while Flexible is a system where the exchange rate is determined by the government.",
+      "Managed Floating is a system where the exchange rate is determined by the government, while Flexible is a system where the exchange rate is determined by market forces."
+    ],
+    "correctAnswer": "Option D",
+    "explanation": "According to NCERT, a Managed Floating Exchange Rate system is a system where the government intervenes in the foreign exchange market to influence the exchange rate, while a Flexible Exchange Rate system is a system where the exchange rate is determined by market forces.",
+    "difficulty": "Hard",
+    "class": "Class 12",
+    "subject": "Economics",
+    "chapter": "Ch 5: Balance of Payments and Foreign Exchange"
+  },
+  {
+    "text": "What is the accounting entry for a country's current account deficit?",
+    "options": [
+      "Debit: Foreign Exchange Reserves, Credit: Current Account",
+      "Debit: Current Account, Credit: Foreign Exchange Reserves",
+      "Debit: Foreign Exchange Reserves, Credit: Current Account",
+      "Debit: Current Account, Credit: Capital Account"
+    ],
+    "correctAnswer": "Option A",
+    "explanation": "According to NCERT, a country's current account deficit is recorded as a debit to Foreign Exchange Reserves and a credit to Current Account.",
+    "difficulty": "Medium",
+    "class": "Class 12",
+    "subject": "Economics",
+    "chapter": "Ch 5: Balance of Payments and Foreign Exchange"
+  },
+  {
+    "text": "What is the effect of a country's currency depreciating on its imports?",
+    "options": [
+      "Decreases imports",
+      "Increases imports",
+      "Has no effect on imports",
+      "Increases exports"
+    ],
+    "correctAnswer": "Option B",
+    "explanation": "According to NCERT, a country's currency depreciating makes imports more expensive, leading to an increase in imports.",
+    "difficulty": "Medium",
+    "class": "Class 12",
+    "subject": "Economics",
+    "chapter": "Ch 5: Balance of Payments and Foreign Exchange"
+  },
+  {
+    "text": "What is the difference between a Fixed Exchange Rate system and a Managed Floating Exchange Rate system?",
+    "options": [
+      "Fixed is a system where the exchange rate is determined by the government, while Managed Floating is a system where the exchange rate is determined by market forces.",
+      "Fixed is a system where the exchange rate is determined by market forces, while Managed Floating is a system where the exchange rate is determined by the government.",
+      "Fixed is a system where the exchange rate is fixed at a predetermined rate, while Managed Floating is a system where the exchange rate is allowed to float.",
+      "Fixed is a system where the exchange rate is allowed to float, while Managed Floating is a system where the exchange rate is fixed at a predetermined rate."
+    ],
+    "correctAnswer": "Option C",
+    "explanation": "According to NCERT, a Fixed Exchange Rate system is a system where the exchange rate is fixed at a predetermined rate, while a Managed Floating Exchange Rate system is a system where the exchange rate is allowed to float but the government intervenes to influence it.",
+    "difficulty": "Hard",
+    "class": "Class 12",
+    "subject": "Economics",
+    "chapter": "Ch 5: Balance of Payments and Foreign Exchange"
+  },
+  {
+    "text": "What is the effect of a country's currency appreciating on its exports?",
+    "options": [
+      "Decreases exports",
+      "Increases exports",
+      "Has no effect on exports",
+      "Increases imports"
+    ],
+    "correctAnswer": "Option A",
+    "explanation": "According to NCERT, a country's currency appreciating makes exports more expensive, leading to a decrease in exports.",
+    "difficulty": "Medium",
+    "class": "Class 12",
+    "subject": "Economics",
+    "chapter": "Ch 5: Balance of Payments and Foreign Exchange"
+  },
+  {
+    "text": "What is the difference between a Flexible Exchange Rate system and a Managed Floating Exchange Rate system?",
+    "options": [
+      "Flexible is a system where the exchange rate is determined by market forces, while Managed Floating is a system where the exchange rate is determined by the government.",
+      "Flexible is a system where the exchange rate is determined by the government, while Managed Floating is a system where the exchange rate is determined by market forces.",
+      "Flexible is a system where the exchange rate is allowed to float, while Managed Floating is a system where the exchange rate is fixed at a predetermined rate.",
+      "Flexible is a system where the exchange rate is fixed at a predetermined rate, while Managed Floating is a system where the exchange rate is allowed to float."
+    ],
+    "correctAnswer": "Option A",
+    "explanation": "According to NCERT, a Flexible Exchange Rate system is a system where the exchange rate is determined by market forces, while a Managed Floating Exchange Rate system is a system where the exchange rate is allowed to float but the government intervenes to influence it.",
+    "difficulty": "Hard",
+    "class": "Class 12",
+    "subject": "Economics",
+    "chapter": "Ch 5: Balance of Payments and Foreign Exchange"
+  },
+  {
+    "text": "What is the effect of a country's current account deficit on its foreign exchange reserves?",
+    "options": [
+      "Increases foreign exchange reserves",
+      "Decreases foreign exchange reserves",
+      "Has no effect on foreign exchange reserves",
+      "Increases imports"
+    ],
+    "correctAnswer": "Option B",
+    "explanation": "According to NCERT, a country's current account deficit leads to a decrease in its foreign exchange reserves.",
+    "difficulty": "Medium",
+    "class": "Class 12",
+    "subject": "Economics",
+    "chapter": "Ch 5: Balance of Payments and Foreign Exchange"
+  }
+]

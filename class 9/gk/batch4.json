@@ -1,0 +1,327 @@
+[
+  {
+    "class": "Class 10",
+    "subject": "GK",
+    "difficulty": "EASY",
+    "text": "In which year did Mahatma Gandhi launch the historic Quit India Movement?",
+    "explanation": "The Quit India Movement, also known as the August Movement, was launched on August 8, 1942, during World War II, demanding an end to British rule.",
+    "options": [
+      { "text": "1930", "isCorrect": false },
+      { "text": "1942", "isCorrect": true },
+      { "text": "1919", "isCorrect": false },
+      { "text": "1945", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 10",
+    "subject": "GK",
+    "difficulty": "EASY",
+    "text": "Which country is globally known as the 'Land of the Rising Sun'?",
+    "explanation": "Japan is referred to as the Land of the Rising Sun because from China's perspective, the sun rises in the direction of Japan.",
+    "options": [
+      { "text": "Norway", "isCorrect": false },
+      { "text": "Japan", "isCorrect": true },
+      { "text": "New Zealand", "isCorrect": false },
+      { "text": "Australia", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 10",
+    "subject": "GK",
+    "difficulty": "EASY",
+    "text": "Who was the first Indian (and Asian) to receive a Nobel Prize?",
+    "explanation": "Rabindranath Tagore won the Nobel Prize in Literature in 1913 for his collection of poems titled 'Gitanjali'.",
+    "options": [
+      { "text": "Sir C.V. Raman", "isCorrect": false },
+      { "text": "Rabindranath Tagore", "isCorrect": true },
+      { "text": "Mother Teresa", "isCorrect": false },
+      { "text": "Dr. Amartya Sen", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 10",
+    "subject": "GK",
+    "difficulty": "EASY",
+    "text": "What is the national animal of India?",
+    "explanation": "The Royal Bengal Tiger (Panthera tigris) was declared the national animal of India in April 1973 with the launch of Project Tiger.",
+    "options": [
+      { "text": "Asiatic Lion", "isCorrect": false },
+      { "text": "Bengal Tiger", "isCorrect": true },
+      { "text": "Indian Elephant", "isCorrect": false },
+      { "text": "One-horned Rhinoceros", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 10",
+    "subject": "GK",
+    "difficulty": "EASY",
+    "text": "Which gas do humans inhale for respiration and cellular energy production?",
+    "explanation": "Oxygen ($O_2$) is inhaled by humans and used in cellular respiration to break down glucose and release energy.",
+    "options": [
+      { "text": "Nitrogen", "isCorrect": false },
+      { "text": "Oxygen", "isCorrect": true },
+      { "text": "Carbon Dioxide", "isCorrect": false },
+      { "text": "Argon", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 10",
+    "subject": "GK",
+    "difficulty": "EASY",
+    "text": "Who was the first woman Prime Minister of India?",
+    "explanation": "Indira Gandhi served as the first and, to date, only female Prime Minister of India from 1966 to 1977 and again from 1980 to 1984.",
+    "options": [
+      { "text": "Pratibha Patil", "isCorrect": false },
+      { "text": "Indira Gandhi", "isCorrect": true },
+      { "text": "Sarojini Naidu", "isCorrect": false },
+      { "text": "Sushma Swaraj", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 10",
+    "subject": "GK",
+    "difficulty": "MEDIUM",
+    "text": "Which amendment act to the Indian Constitution granted constitutional status to Panchayati Raj Institutions?",
+    "explanation": "The 73rd Amendment Act of 1992 added Part IX and the 11th Schedule to the Constitution, establishing a three-tier Panchayati Raj system.",
+    "options": [
+      { "text": "74th Amendment Act", "isCorrect": false },
+      { "text": "73rd Amendment Act", "isCorrect": true },
+      { "text": "44th Amendment Act", "isCorrect": false },
+      { "text": "86th Amendment Act", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 10",
+    "subject": "GK",
+    "difficulty": "MEDIUM",
+    "text": "Where is the headquarters of the World Trade Organization (WTO) located?",
+    "explanation": "The WTO, which replaced GATT in 1995 to regulate international trade, is headquartered in Geneva, Switzerland.",
+    "options": [
+      { "text": "Brussels", "isCorrect": false },
+      { "text": "Geneva", "isCorrect": true },
+      { "text": "Washington D.C.", "isCorrect": false },
+      { "text": "Paris", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 10",
+    "subject": "GK",
+    "difficulty": "MEDIUM",
+    "text": "Which is the deepest ocean trench in the world, located in the Western Pacific?",
+    "explanation": "The Mariana Trench contains the deepest known point on Earth, the Challenger Deep, measuring nearly 11,000 meters.",
+    "options": [
+      { "text": "Java Trench", "isCorrect": false },
+      { "text": "Mariana Trench", "isCorrect": true },
+      { "text": "Puerto Rico Trench", "isCorrect": false },
+      { "text": "Sunda Trench", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 10",
+    "subject": "GK",
+    "difficulty": "MEDIUM",
+    "text": "What is the term of office for an elected member of the Rajya Sabha (Upper House of Indian Parliament)?",
+    "explanation": "The Rajya Sabha is a permanent body; its members are elected for a term of 6 years, with one-third retiring every 2 years.",
+    "options": [
+      { "text": "5 years", "isCorrect": false },
+      { "text": "6 years", "isCorrect": true },
+      { "text": "4 years", "isCorrect": false },
+      { "text": "2 years", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 10",
+    "subject": "GK",
+    "difficulty": "MEDIUM",
+    "text": "Which Indian city, capital of Rajasthan, is popularly known as the 'Pink City'?",
+    "explanation": "Jaipur was painted pink in 1876 under the rule of Maharaja Sawai Ram Singh to welcome the Prince of Wales, hence the nickname.",
+    "options": [
+      { "text": "Jodhpur", "isCorrect": false },
+      { "text": "Jaipur", "isCorrect": true },
+      { "text": "Udaipur", "isCorrect": false },
+      { "text": "Jaisalmer", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 10",
+    "subject": "GK",
+    "difficulty": "MEDIUM",
+    "text": "Where is the Bhabha Atomic Research Centre (BARC) located?",
+    "explanation": "BARC, India's premier nuclear research facility, is situated in Trombay, Mumbai, Maharashtra.",
+    "options": [
+      { "text": "Kalpakkam", "isCorrect": false },
+      { "text": "Trombay (Mumbai)", "isCorrect": true },
+      { "text": "Rawatbhata", "isCorrect": false },
+      { "text": "Tarapur", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 10",
+    "subject": "GK",
+    "difficulty": "MEDIUM",
+    "text": "Which ocean is the largest by surface area and volume?",
+    "explanation": "The Pacific Ocean is the largest ocean, covering more than the entire landmass of Earth combined.",
+    "options": [
+      { "text": "Atlantic Ocean", "isCorrect": false },
+      { "text": "Pacific Ocean", "isCorrect": true },
+      { "text": "Indian Ocean", "isCorrect": false },
+      { "text": "Southern Ocean", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 10",
+    "subject": "GK",
+    "difficulty": "MEDIUM",
+    "text": "Under which article of the Indian Constitution can the Governor of a state promulgate ordinances when the legislature is not in session?",
+    "explanation": "Article 213 empowers the Governor to promulgate ordinances, having the same force as an act of the state legislature.",
+    "options": [
+      { "text": "Article 123", "isCorrect": false },
+      { "text": "Article 213", "isCorrect": true },
+      { "text": "Article 356", "isCorrect": false },
+      { "text": "Article 163", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 10",
+    "subject": "GK",
+    "difficulty": "MEDIUM",
+    "text": "Who was the President of India when the National Emergency was declared in June 1975?",
+    "explanation": "Fakhruddin Ali Ahmed signed the emergency proclamation on the advice of Prime Minister Indira Gandhi, which lasted until 1977.",
+    "options": [
+      { "text": "V.V. Giri", "isCorrect": false },
+      { "text": "Fakhruddin Ali Ahmed", "isCorrect": true },
+      { "text": "Zail Singh", "isCorrect": false },
+      { "text": "Neelam Sanjiva Reddy", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 10",
+    "subject": "GK",
+    "difficulty": "HARD",
+    "text": "In which year was the historic Gandhi-Irwin Pact signed in New Delhi?",
+    "explanation": "The pact was signed on March 5, 1931, between Mahatma Gandhi and Viceroy Lord Irwin, leading to the suspension of Civil Disobedience.",
+    "options": [
+      { "text": "1930", "isCorrect": false },
+      { "text": "1931", "isCorrect": true },
+      { "text": "1932", "isCorrect": false },
+      { "text": "1928", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 10",
+    "subject": "GK",
+    "difficulty": "HARD",
+    "text": "What is the term of office for an elected judge of the International Court of Justice (ICJ)?",
+    "explanation": "The ICJ consists of 15 judges elected for 9-year terms by the UN General Assembly and Security Council.",
+    "options": [
+      { "text": "5 years", "isCorrect": false },
+      { "text": "9 years", "isCorrect": true },
+      { "text": "6 years", "isCorrect": false },
+      { "text": "10 years", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 10",
+    "subject": "GK",
+    "difficulty": "HARD",
+    "text": "Which Indian state is the largest producer of Gold, accounting for nearly 99% of India's gold production?",
+    "explanation": "Karnataka is the leading producer of gold, primarily from the Kolar Gold Fields (KGF) and Hutti Gold Mines.",
+    "options": [
+      { "text": "Andhra Pradesh", "isCorrect": false },
+      { "text": "Karnataka", "isCorrect": true },
+      { "text": "Rajasthan", "isCorrect": false },
+      { "text": "Jharkhand", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 10",
+    "subject": "GK",
+    "difficulty": "HARD",
+    "text": "How many Sustainable Development Goals (SDGs) were adopted by all United Nations Member States in 2015?",
+    "explanation": "The UN Agenda 2030 established 17 interconnected SDGs (such as No Poverty, Zero Hunger) to achieve a sustainable future.",
+    "options": [
+      { "text": "10", "isCorrect": false },
+      { "text": "17", "isCorrect": true },
+      { "text": "15", "isCorrect": false },
+      { "text": "21", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 10",
+    "subject": "GK",
+    "difficulty": "HARD",
+    "text": "In which Indian city is the main campus of the National Chemical Laboratory (NCL) situated?",
+    "explanation": "NCL, a constituent laboratory of CSIR, is located in Pune, Maharashtra, established in 1950.",
+    "options": [
+      { "text": "Bengaluru", "isCorrect": false },
+      { "text": "Pune", "isCorrect": true },
+      { "text": "Hyderabad", "isCorrect": false },
+      { "text": "Kolkata", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 10",
+    "subject": "GK",
+    "difficulty": "HARD",
+    "text": "What is the localized, hot, dry summer wind that blows during afternoons in the northern plains of India called?",
+    "explanation": "The 'Loo' is a strong, dusty, hot summer wind that blows in the Indo-Gangetic plains, causing heat strokes.",
+    "options": [
+      { "text": "Chinook", "isCorrect": false },
+      { "text": "Loo", "isCorrect": true },
+      { "text": "Mistral", "isCorrect": false },
+      { "text": "Mango Showers", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 10",
+    "subject": "GK",
+    "difficulty": "VERY HARD",
+    "text": "Which British committee was appointed in 1927 to suggest constitutional reforms in India, but boycotted by Indians for lacking any Indian member?",
+    "explanation": "The Simon Commission, headed by Sir John Simon, was boycotted under the slogan 'Simon Go Back' because it had no Indian representation.",
+    "options": [
+      { "text": "Hunter Commission", "isCorrect": false },
+      { "text": "Simon Commission", "isCorrect": true },
+      { "text": "Cabinet Mission", "isCorrect": false },
+      { "text": "Cripps Mission", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 10",
+    "subject": "GK",
+    "difficulty": "VERY HARD",
+    "text": "What was the primary, controversial provision of the Rowlatt Act passed by the Imperial Legislative Council in 1919?",
+    "explanation": "The Rowlatt Act authorized the British government to arrest and detain any person without warrant or trial for up to two years.",
+    "options": [
+      { "text": "Imposition of high taxes on local salt production", "isCorrect": false },
+      { "text": "Imprisonment of political suspects without trial and warrant for up to two years", "isCorrect": true },
+      { "text": "Complete ban on vernacular press publications", "isCorrect": false },
+      { "text": "Prohibition of trade with foreign nations in cotton", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 10",
+    "subject": "GK",
+    "difficulty": "VERY HARD",
+    "text": "In monetary economics, what does Gresham's Law state?",
+    "explanation": "Gresham's Law states that 'bad money drives out good money' from circulation if they have equal legal tender value but different commodity values.",
+    "options": [
+      { "text": "Rising prices cause inflation to outpace supply", "isCorrect": false },
+      { "text": "Bad money drives out good money from circulation", "isCorrect": true },
+      { "text": "Higher interest rates lead to increased savings", "isCorrect": false },
+      { "text": "Currency depreciation always stimulates exports", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 10",
+    "subject": "GK",
+    "difficulty": "VERY HARD",
+    "text": "Which Indian environmental activist is famously celebrated as the 'Waterman of India' for reviving traditional water harvesting structures (johads) in Rajasthan?",
+    "explanation": "Rajendra Singh founded Tarun Bharat Sangh and won the Magsaysay Award in 2001 for his work in rain water harvesting and managing water tables.",
+    "options": [
+      { "text": "Sunderlal Bahuguna", "isCorrect": false },
+      { "text": "Rajendra Singh", "isCorrect": true },
+      { "text": "Medha Patkar", "isCorrect": false },
+      { "text": "Chandi Prasad Bhatt", "isCorrect": false }
+    ]
+  }
+]

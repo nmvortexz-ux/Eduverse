@@ -1,0 +1,627 @@
+[
+  {
+    "class": "Class 10",
+    "subject": "Science",
+    "difficulty": "EASY",
+    "text": "What happens when dilute hydrochloric acid is added to iron filings?",
+    "explanation": "When a metal reacts with dilute acid, hydrogen gas is evolved and a metal salt is formed: \\text{Fe} + 2\\text{HCl} \\rightarrow \\text{FeCl}_2 + \\text{H}_2\\uparrow.",
+    "options": [
+      {
+        "text": "Hydrogen gas and iron chloride are produced.",
+        "isCorrect": true
+      },
+      {
+        "text": "Chlorine gas and iron hydroxide are produced.",
+        "isCorrect": false
+      },
+      {
+        "text": "No reaction takes place.",
+        "isCorrect": false
+      },
+      {
+        "text": "Iron salt and water are produced.",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "class": "Class 10",
+    "subject": "Science",
+    "difficulty": "EASY",
+    "text": "Which of the following is the correct path of urine in the human body?",
+    "explanation": "Urine is formed in the kidney, passes through the ureter to the urinary bladder, and is excreted via the urethra.",
+    "options": [
+      {
+        "text": "Kidney \\rightarrow Ureter \\rightarrow Urinary bladder \\rightarrow Urethra",
+        "isCorrect": true
+      },
+      {
+        "text": "Kidney \\rightarrow Urinary bladder \\rightarrow Ureter \\rightarrow Urethra",
+        "isCorrect": false
+      },
+      {
+        "text": "Urinary bladder \\rightarrow Kidney \\rightarrow Ureter \\rightarrow Urethra",
+        "isCorrect": false
+      },
+      {
+        "text": "Kidney \\rightarrow Ureter \\rightarrow Urethra \\rightarrow Urinary bladder",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "class": "Class 10",
+    "subject": "Science",
+    "difficulty": "EASY",
+    "text": "What is the pH range of our body?",
+    "explanation": "Our body works within a narrow pH range of 7.0 to 7.8. Living organisms can survive only in a narrow range of pH change.",
+    "options": [
+      {
+        "text": "7.0 to 7.8",
+        "isCorrect": true
+      },
+      {
+        "text": "6.0 to 6.8",
+        "isCorrect": false
+      },
+      {
+        "text": "8.0 to 8.5",
+        "isCorrect": false
+      },
+      {
+        "text": "5.5 to 6.0",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "class": "Class 10",
+    "subject": "Science",
+    "difficulty": "EASY",
+    "text": "The unit of electrical resistivity is:",
+    "explanation": "Resistivity \\rho = R \\frac{A}{l}, where unit is \\Omega \\cdot \\frac{\\text{m}^2}{\\text{m}} = \\Omega\\cdot\\text{m}.",
+    "options": [
+      {
+        "text": "\\text{ohm-metre} (\\Omega\\cdot\\text{m})",
+        "isCorrect": true
+      },
+      {
+        "text": "\\text{ohm} (\\Omega)",
+        "isCorrect": false
+      },
+      {
+        "text": "\\text{ampere} (\\text{A})",
+        "isCorrect": false
+      },
+      {
+        "text": "\\text{volt} (\\text{V})",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "class": "Class 10",
+    "subject": "Science",
+    "difficulty": "EASY",
+    "text": "A spherical mirror and a thin spherical lens have each a focal length of -15 cm. The mirror and the lens are likely to be:",
+    "explanation": "By convention, the focal length of a concave mirror and a concave lens are both negative.",
+    "options": [
+      {
+        "text": "both concave",
+        "isCorrect": true
+      },
+      {
+        "text": "both convex",
+        "isCorrect": false
+      },
+      {
+        "text": "the mirror is concave and the lens is convex",
+        "isCorrect": false
+      },
+      {
+        "text": "the mirror is convex and the lens is concave",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "class": "Class 10",
+    "subject": "Science",
+    "difficulty": "EASY",
+    "text": "Which of the following constitute a food-chain?",
+    "explanation": "Grass is the producer, goat is the primary consumer, and human is the secondary consumer.",
+    "options": [
+      {
+        "text": "Grass, Goat and Human",
+        "isCorrect": true
+      },
+      {
+        "text": "Grass, Wheat and Mango",
+        "isCorrect": false
+      },
+      {
+        "text": "Goat, Cow and Elephant",
+        "isCorrect": false
+      },
+      {
+        "text": "Grass, Fish and Goat",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "class": "Class 10",
+    "subject": "Science",
+    "difficulty": "MEDIUM",
+    "text": "Alloy Alnico, used for making permanent magnets, contains which of the following elements?",
+    "explanation": "Alnico is an acronym referring to iron alloys which are focused on Aluminium (Al), Nickel (Ni), and Cobalt (Co).",
+    "options": [
+      {
+        "text": "\\text{Fe, Al, Ni, Co}",
+        "isCorrect": true
+      },
+      {
+        "text": "\\text{Fe, Cu, Zn, Sn}",
+        "isCorrect": false
+      },
+      {
+        "text": "\\text{Al, Mg, Mn, Cu}",
+        "isCorrect": false
+      },
+      {
+        "text": "\\text{Fe, Cr, Ni, C}",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "class": "Class 10",
+    "subject": "Science",
+    "difficulty": "MEDIUM",
+    "text": "During cellular respiration in yeast, anaerobic breakdown of glucose results in the formation of:",
+    "explanation": "In yeast, the breakdown of pyruvate in the absence of oxygen produces ethanol, carbon dioxide, and energy.",
+    "options": [
+      {
+        "text": "Ethanol + Carbon dioxide + Energy",
+        "isCorrect": true
+      },
+      {
+        "text": "Lactic acid + Energy",
+        "isCorrect": false
+      },
+      {
+        "text": "Carbon dioxide + Water + Energy",
+        "isCorrect": false
+      },
+      {
+        "text": "Pyruvate + Energy",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "class": "Class 10",
+    "subject": "Science",
+    "difficulty": "MEDIUM",
+    "text": "Three resistors of resistances 2 \\Omega, 3 \\Omega, and 6 \\Omega are connected in parallel. Their equivalent resistance is:",
+    "explanation": "Using the formula for parallel combination: \\frac{1}{R_p} = \\frac{1}{2} + \\frac{1}{3} + \\frac{1}{6} = \\frac{3+2+1}{6} = 1\\, \\Omega.",
+    "options": [
+      {
+        "text": "1 \\Omega",
+        "isCorrect": true
+      },
+      {
+        "text": "11 \\Omega",
+        "isCorrect": false
+      },
+      {
+        "text": "3 \\Omega",
+        "isCorrect": false
+      },
+      {
+        "text": "0.5 \\Omega",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "class": "Class 10",
+    "subject": "Science",
+    "difficulty": "MEDIUM",
+    "text": "Which plant hormone inhibits growth and is associated with the wilting of leaves?",
+    "explanation": "Abscisic acid is a plant growth inhibitor that promotes leaf senescence and wilting.",
+    "options": [
+      {
+        "text": "Abscisic acid",
+        "isCorrect": true
+      },
+      {
+        "text": "Auxin",
+        "isCorrect": false
+      },
+      {
+        "text": "Gibberellin",
+        "isCorrect": false
+      },
+      {
+        "text": "Cytokinin",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "class": "Class 10",
+    "subject": "Science",
+    "difficulty": "MEDIUM",
+    "text": "An object is placed at a distance of 10 cm in front of a convex mirror of focal length 15 cm. The position and nature of the image are:",
+    "explanation": "Using mirror formula \\frac{1}{f} = \\frac{1}{v} + \\frac{1}{u}: \\frac{1}{15} = \\frac{1}{v} - \\frac{1}{10} \\Rightarrow \\frac{1}{v} = \\frac{1}{15} + \\frac{1}{10} = \\frac{5}{30} \\Rightarrow v = 6\\text{ cm}.",
+    "options": [
+      {
+        "text": "6 cm behind the mirror, virtual and erect",
+        "isCorrect": true
+      },
+      {
+        "text": "6 cm in front of the mirror, real and inverted",
+        "isCorrect": false
+      },
+      {
+        "text": "30 cm behind the mirror, virtual and erect",
+        "isCorrect": false
+      },
+      {
+        "text": "30 cm in front of the mirror, real and inverted",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "class": "Class 10",
+    "subject": "Science",
+    "difficulty": "MEDIUM",
+    "text": "Which of the following organic compounds will undergo an addition reaction?",
+    "explanation": "Addition reactions are characteristic of unsaturated hydrocarbons (alkenes and alkynes). \\text{C}_3\\text{H}_6 (propene) is unsaturated, while the others are saturated.",
+    "options": [
+      {
+        "text": "\\text{C}_3\\text{H}_6",
+        "isCorrect": true
+      },
+      {
+        "text": "\\text{C}_3\\text{H}_8",
+        "isCorrect": false
+      },
+      {
+        "text": "\\text{CH}_4",
+        "isCorrect": false
+      },
+      {
+        "text": "\\text{C}_2\\text{H}_6",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "class": "Class 10",
+    "subject": "Science",
+    "difficulty": "MEDIUM",
+    "text": "The phenomenon of electromagnetic induction is:",
+    "explanation": "Electromagnetic induction is the production of an electromotive force (and hence current) across an electrical conductor in a changing magnetic field.",
+    "options": [
+      {
+        "text": "producing induced current in a coil due to relative motion between a magnet and the coil",
+        "isCorrect": true
+      },
+      {
+        "text": "the process of charging a body",
+        "isCorrect": false
+      },
+      {
+        "text": "the process of generating magnetic field due to current passing through a coil",
+        "isCorrect": false
+      },
+      {
+        "text": "rotating the coil of an electric motor",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "class": "Class 10",
+    "subject": "Science",
+    "difficulty": "HARD",
+    "text": "A compound 'X' is obtained by heating ethanol with excess concentrated sulphuric acid at 443 K. What is compound 'X' and what role does concentrated sulphuric acid play?",
+    "explanation": "Heating ethanol at 443 K with excess conc. \\text{H}_2\\text{SO}_4 leads to dehydration forming ethene (\\text{C}_2\\text{H}_4). Conc. \\text{H}_2\\text{SO}_4 acts as a dehydrating agent.",
+    "options": [
+      {
+        "text": "Ethene, dehydrating agent",
+        "isCorrect": true
+      },
+      {
+        "text": "Ethane, reducing agent",
+        "isCorrect": false
+      },
+      {
+        "text": "Ethyl hydrogen sulphate, catalyst",
+        "isCorrect": false
+      },
+      {
+        "text": "Ethanoic acid, oxidizing agent",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "class": "Class 10",
+    "subject": "Science",
+    "difficulty": "HARD",
+    "text": "A cylindrical conductor of length l and uniform area of cross-section A has resistance R. Another conductor of length 2l and resistance R of the same material has area of cross-section:",
+    "explanation": "Let R_2 = \\rho \\frac{l_2}{A_2}. Since R_2 = R and material is same, \\rho \\frac{2l}{A_2} = \\rho \\frac{l}{A} \\Rightarrow A_2 = 2A.",
+    "options": [
+      {
+        "text": "2A",
+        "isCorrect": true
+      },
+      {
+        "text": "A/2",
+        "isCorrect": false
+      },
+      {
+        "text": "3A",
+        "isCorrect": false
+      },
+      {
+        "text": "4A",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "class": "Class 10",
+    "subject": "Science",
+    "difficulty": "HARD",
+    "text": "If a round, green-seeded pea plant (RRyy) is crossed with a wrinkled, yellow-seeded pea plant (rrYY), the seeds produced in F1 generation are:",
+    "explanation": "The F1 progeny will have genotype RrYy, exhibiting dominant phenotypes: Round (from R) and Yellow (from Y).",
+    "options": [
+      {
+        "text": "Round and yellow",
+        "isCorrect": true
+      },
+      {
+        "text": "Wrinkled and green",
+        "isCorrect": false
+      },
+      {
+        "text": "Round and green",
+        "isCorrect": false
+      },
+      {
+        "text": "Wrinkled and yellow",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "class": "Class 10",
+    "subject": "Science",
+    "difficulty": "HARD",
+    "text": "Which of the following is correct regarding the double fertilization in angiosperms?",
+    "explanation": "Double fertilization involves syngamy (fusion of male gamete + egg cell to form zygote) and triple fusion (fusion of male gamete + two polar nuclei to form endosperm).",
+    "options": [
+      {
+        "text": "One male gamete fuses with the egg cell, while the other fuses with the two polar nuclei.",
+        "isCorrect": true
+      },
+      {
+        "text": "Both male gametes fuse with two different egg cells inside the embryo sac.",
+        "isCorrect": false
+      },
+      {
+        "text": "One male gamete fuses with the egg cell, while the other degenerates.",
+        "isCorrect": false
+      },
+      {
+        "text": "Both male gametes fuse with the diploid secondary nucleus.",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "class": "Class 10",
+    "subject": "Science",
+    "difficulty": "HARD",
+    "text": "A person needs a lens of power -5.5 dioptres for correcting his distant vision. For correcting his near vision, he needs a lens of power +1.5 dioptre. What is the focal length of the lens required for correcting distant vision and near vision respectively?",
+    "explanation": "Focal length f = \\frac{1}{P}. For distant: f = \\frac{1}{-5.5} \\approx -0.1818\\text{ m} = -18.18\\text{ cm}. For near: f = \\frac{1}{1.5} \\approx 0.666\\text{ m} = +66.6\\text{ cm}.",
+    "options": [
+      {
+        "text": "-18.18 cm and +66.6 cm",
+        "isCorrect": true
+      },
+      {
+        "text": "-55 cm and +15 cm",
+        "isCorrect": false
+      },
+      {
+        "text": "-18.18 cm and +15 cm",
+        "isCorrect": false
+      },
+      {
+        "text": "-5.5 cm and +66.6 cm",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "class": "Class 10",
+    "subject": "Science",
+    "difficulty": "HARD",
+    "text": "When hydrogen sulphide gas is passed through a blue solution of copper sulphate, a black precipitate of copper sulphide is obtained and the sulphuric acid remains in the solution. This reaction is an example of a:",
+    "explanation": "The reaction \\text{CuSO}_4 + \\text{H}_2\\text{S} \\rightarrow \\text{CuS}\\downarrow + \\text{H}_2\\text{SO}_4 is a double displacement reaction because ions are exchanged between two compounds.",
+    "options": [
+      {
+        "text": "Double displacement reaction",
+        "isCorrect": true
+      },
+      {
+        "text": "Combination reaction",
+        "isCorrect": false
+      },
+      {
+        "text": "Displacement reaction",
+        "isCorrect": false
+      },
+      {
+        "text": "Decomposition reaction",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "class": "Class 10",
+    "subject": "Science",
+    "difficulty": "VERY HARD",
+    "text": "An organic compound A with formula \\text{C}_2\\text{H}_4\\text{O}_2 turns blue litmus red. On heating with ethanol in the presence of acid catalyst, it forms a sweet-smelling compound B. Compound B reacts with sodium hydroxide to give back sodium salt of A and ethanol. Identify A and B:",
+    "explanation": "Ethanoic acid (\\text{CH}_3\\text{COOH}) turns blue litmus red. Reacting with ethanol yields ethyl ethanoate (\\text{CH}_3\\text{COOCH}_2\\text{CH}_3), which undergoes saponification with NaOH.",
+    "options": [
+      {
+        "text": "A: Ethanoic acid, B: Ethyl ethanoate",
+        "isCorrect": true
+      },
+      {
+        "text": "A: Ethanol, B: Ethyl ethanoate",
+        "isCorrect": false
+      },
+      {
+        "text": "A: Methanoic acid, B: Methyl methanoate",
+        "isCorrect": false
+      },
+      {
+        "text": "A: Ethanoic acid, B: Methyl ethanoate",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "class": "Class 10",
+    "subject": "Science",
+    "difficulty": "VERY HARD",
+    "text": "A copper wire has a diameter of 0.5 mm and resistivity of 1.6 \\times 10^{-8} \\, \\Omega\\cdot\\text{m}. What is the length of this wire to make its resistance 10 \\Omega?",
+    "explanation": "Area A = \\pi \\frac{d^2}{4} = 3.14 \\times \\frac{(0.5 \\times 10^{-3})^2}{4} \\approx 1.96 \\times 10^{-7} \\text{ m}^2. Length l = \\frac{R A}{\\rho} = \\frac{10 \\times 1.96 \\times 10^{-7}}{1.6 \\times 10^{-8}} \\approx 122.7\\text{ m}.",
+    "options": [
+      {
+        "text": "122.7 m",
+        "isCorrect": true
+      },
+      {
+        "text": "12.27 m",
+        "isCorrect": false
+      },
+      {
+        "text": "1227 m",
+        "isCorrect": false
+      },
+      {
+        "text": "1.227 m",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "class": "Class 10",
+    "subject": "Science",
+    "difficulty": "VERY HARD",
+    "text": "A student projects a real image of a candle flame onto a screen using a convex lens. If the lower half of the lens is covered with a black paper, what happens to the image?",
+    "explanation": "Light rays from every point of the object can still pass through the upper half of the lens to form a complete image, but since less light is transmitted, the image will be less bright.",
+    "options": [
+      {
+        "text": "A complete image is formed, but its intensity is reduced.",
+        "isCorrect": true
+      },
+      {
+        "text": "Only the upper half of the image is formed on the screen.",
+        "isCorrect": false
+      },
+      {
+        "text": "Only the lower half of the image is formed on the screen.",
+        "isCorrect": false
+      },
+      {
+        "text": "No image is formed on the screen.",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "class": "Class 10",
+    "subject": "Science",
+    "difficulty": "VERY HARD",
+    "text": "During the chlor-alkali process, three highly useful products X, Y, and Z are formed. X is released at the anode, Y is released at the cathode, and Z is formed near the cathode. Identify X, Y, and Z:",
+    "explanation": "Electrolysis of brine yields chlorine gas (X) at the anode (+), hydrogen gas (Y) at the cathode (-), and sodium hydroxide solution (Z) near the cathode.",
+    "options": [
+      {
+        "text": "X: Chlorine gas, Y: Hydrogen gas, Z: Sodium hydroxide",
+        "isCorrect": true
+      },
+      {
+        "text": "X: Hydrogen gas, Y: Chlorine gas, Z: Sodium hydroxide",
+        "isCorrect": false
+      },
+      {
+        "text": "X: Chlorine gas, Y: Oxygen gas, Z: Sodium chloride",
+        "isCorrect": false
+      },
+      {
+        "text": "X: Oxygen gas, Y: Hydrogen gas, Z: Sodium hydroxide",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "class": "Class 10",
+    "subject": "Science",
+    "difficulty": "VERY HARD",
+    "text": "In the kidney, glucose, amino acids, salts, and a major amount of water are selectively reabsorbed. This selective reabsorption takes place in which part of the nephron?",
+    "explanation": "Selective reabsorption of essential substances like glucose, amino acids, and water occurs primarily in the renal tubule, specifically the Proximal Convoluted Tubule (PCT).",
+    "options": [
+      {
+        "text": "Proximal Convoluted Tubule (PCT)",
+        "isCorrect": true
+      },
+      {
+        "text": "Bowman's Capsule",
+        "isCorrect": false
+      },
+      {
+        "text": "Glomerulus",
+        "isCorrect": false
+      },
+      {
+        "text": "Collecting Duct",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "class": "Class 10",
+    "subject": "Science",
+    "difficulty": "VERY HARD",
+    "text": "A proton enters a uniform magnetic field at right angles to it. The direction of force acting on the proton is given by Fleming's Left-Hand Rule. If the proton moves from left to right and the magnetic field is directed into the page, the force is directed:",
+    "explanation": "By Fleming's Left-Hand Rule, if the index finger points into the page (field) and the middle finger points to the right (direction of positive charge motion/current), the thumb points to the top (force).",
+    "options": [
+      {
+        "text": "towards the top of the page",
+        "isCorrect": true
+      },
+      {
+        "text": "towards the bottom of the page",
+        "isCorrect": false
+      },
+      {
+        "text": "out of the page",
+        "isCorrect": false
+      },
+      {
+        "text": "towards the left",
+        "isCorrect": false
+      }
+    ]
+  }
+]

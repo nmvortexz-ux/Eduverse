@@ -1,0 +1,212 @@
+[
+  {
+    "text": "Which of the following is a primary source of data?",
+    "options": [
+      "NSSO",
+      "Census of India",
+      "Government Reports",
+      "Market Research"
+    ],
+    "correctAnswer": "Census of India",
+    "explanation": "The Census of India is a primary source of data as it collects data directly from the population. It is conducted once in every 10 years.",
+    "difficulty": "Easy",
+    "class": "Class 11",
+    "subject": "Economics",
+    "chapter": "Ch 6: Collection, Organisation and Presentation of Data"
+  },
+  {
+    "text": "Which of the following is a type of sampling method?",
+    "options": [
+      "Stratified Sampling",
+      "Random Sampling",
+      "Systematic Sampling",
+      "All of the above"
+    ],
+    "correctAnswer": "All of the above",
+    "explanation": "Stratified Sampling, Random Sampling, and Systematic Sampling are all types of sampling methods used to collect data.",
+    "difficulty": "Medium",
+    "class": "Class 11",
+    "subject": "Economics",
+    "chapter": "Ch 6: Collection, Organisation and Presentation of Data"
+  },
+  {
+    "text": "What is the main difference between a Histogram and a Frequency Polygon?",
+    "options": [
+      "Histogram is a graphical representation of data, while Frequency Polygon is a graphical representation of a histogram.",
+      "Histogram is a graphical representation of a frequency polygon, while Frequency Polygon is a graphical representation of data.",
+      "Histogram is a graphical representation of data, while Frequency Polygon is a graphical representation of a histogram with a smooth curve.",
+      "Histogram is a graphical representation of a frequency polygon with a smooth curve, while Frequency Polygon is a graphical representation of data."
+    ],
+    "correctAnswer": "Histogram is a graphical representation of data, while Frequency Polygon is a graphical representation of a histogram with a smooth curve.",
+    "explanation": "A Histogram is a graphical representation of data, while a Frequency Polygon is a graphical representation of a histogram with a smooth curve.",
+    "difficulty": "Hard",
+    "class": "Class 11",
+    "subject": "Economics",
+    "chapter": "Ch 6: Collection, Organisation and Presentation of Data"
+  },
+  {
+    "text": "Which of the following is used to find the median of a dataset?",
+    "options": [
+      "Histogram",
+      "Frequency Polygon",
+      "Ogive Curve",
+      "Bar Chart"
+    ],
+    "correctAnswer": "Ogive Curve",
+    "explanation": "An Ogive Curve is used to find the median of a dataset. It is a graphical representation of the cumulative frequency distribution of a dataset.",
+    "difficulty": "Medium",
+    "class": "Class 11",
+    "subject": "Economics",
+    "chapter": "Ch 6: Collection, Organisation and Presentation of Data"
+  },
+  {
+    "text": "What is the purpose of stratified sampling?",
+    "options": [
+      "To collect data from a large population",
+      "To reduce the cost of data collection",
+      "To increase the accuracy of data collection",
+      "To reduce the time taken for data collection"
+    ],
+    "correctAnswer": "To increase the accuracy of data collection",
+    "explanation": "Stratified sampling is used to increase the accuracy of data collection by dividing the population into subgroups or strata and collecting data from each subgroup.",
+    "difficulty": "Medium",
+    "class": "Class 11",
+    "subject": "Economics",
+    "chapter": "Ch 6: Collection, Organisation and Presentation of Data"
+  },
+  {
+    "text": "Which of the following is a characteristic of a good sample?",
+    "options": [
+      "Representativeness",
+      "Reliability",
+      "Validity",
+      "All of the above"
+    ],
+    "correctAnswer": "All of the above",
+    "explanation": "A good sample should be representative of the population, reliable, and valid.",
+    "difficulty": "Medium",
+    "class": "Class 11",
+    "subject": "Economics",
+    "chapter": "Ch 6: Collection, Organisation and Presentation of Data"
+  },
+  {
+    "text": "What is the difference between a census and a sample survey?",
+    "options": [
+      "A census is a survey of the entire population, while a sample survey is a survey of a subset of the population.",
+      "A census is a survey of a subset of the population, while a sample survey is a survey of the entire population.",
+      "A census is a survey of the entire population, while a sample survey is a survey of a larger population.",
+      "A census is a survey of a larger population, while a sample survey is a survey of the entire population."
+    ],
+    "correctAnswer": "A census is a survey of the entire population, while a sample survey is a survey of a subset of the population.",
+    "explanation": "A census is a survey of the entire population, while a sample survey is a survey of a subset of the population.",
+    "difficulty": "Medium",
+    "class": "Class 11",
+    "subject": "Economics",
+    "chapter": "Ch 6: Collection, Organisation and Presentation of Data"
+  },
+  {
+    "text": "Which of the following is a type of data?",
+    "options": [
+      "Qualitative data",
+      "Quantitative data",
+      "Secondary data",
+      "Primary data"
+    ],
+    "correctAnswer": "Quantitative data",
+    "explanation": "Quantitative data is a type of data that can be measured or counted.",
+    "difficulty": "Easy",
+    "class": "Class 11",
+    "subject": "Economics",
+    "chapter": "Ch 6: Collection, Organisation and Presentation of Data"
+  },
+  {
+    "text": "What is the purpose of data collection?",
+    "options": [
+      "To analyze data",
+      "To present data",
+      "To collect data",
+      "To make decisions"
+    ],
+    "correctAnswer": "To make decisions",
+    "explanation": "The purpose of data collection is to make decisions based on the data collected.",
+    "difficulty": "Medium",
+    "class": "Class 11",
+    "subject": "Economics",
+    "chapter": "Ch 6: Collection, Organisation and Presentation of Data"
+  },
+  {
+    "text": "Which of the following is a method of data presentation?",
+    "options": [
+      "Histogram",
+      "Frequency Polygon",
+      "Bar Chart",
+      "All of the above"
+    ],
+    "correctAnswer": "All of the above",
+    "explanation": "Histogram, Frequency Polygon, and Bar Chart are all methods of data presentation.",
+    "difficulty": "Medium",
+    "class": "Class 11",
+    "subject": "Economics",
+    "chapter": "Ch 6: Collection, Organisation and Presentation of Data"
+  },
+  {
+    "text": "What is the difference between a population and a sample?",
+    "options": [
+      "A population is a subset of the sample, while a sample is a subset of the population.",
+      "A population is a larger group of individuals, while a sample is a smaller group of individuals.",
+      "A population is a smaller group of individuals, while a sample is a larger group of individuals.",
+      "A population is a subset of the sample, while a sample is a subset of the population."
+    ],
+    "correctAnswer": "A population is a larger group of individuals, while a sample is a smaller group of individuals.",
+    "explanation": "A population is a larger group of individuals, while a sample is a smaller group of individuals.",
+    "difficulty": "Medium",
+    "class": "Class 11",
+    "subject": "Economics",
+    "chapter": "Ch 6: Collection, Organisation and Presentation of Data"
+  },
+  {
+    "text": "Which of the following is a type of data collection method?",
+    "options": [
+      "Survey",
+      "Interview",
+      "Questionnaire",
+      "All of the above"
+    ],
+    "correctAnswer": "All of the above",
+    "explanation": "Survey, Interview, and Questionnaire are all types of data collection methods.",
+    "difficulty": "Medium",
+    "class": "Class 11",
+    "subject": "Economics",
+    "chapter": "Ch 6: Collection, Organisation and Presentation of Data"
+  },
+  {
+    "text": "What is the purpose of data analysis?",
+    "options": [
+      "To present data",
+      "To collect data",
+      "To make decisions",
+      "To analyze data"
+    ],
+    "correctAnswer": "To make decisions",
+    "explanation": "The purpose of data analysis is to make decisions based on the data collected.",
+    "difficulty": "Medium",
+    "class": "Class 11",
+    "subject": "Economics",
+    "chapter": "Ch 6: Collection, Organisation and Presentation of Data"
+  },
+  {
+    "text": "Which of the following is a type of data presentation?",
+    "options": [
+      "Histogram",
+      "Frequency Polygon",
+      "Bar Chart",
+      "All of the above"
+    ],
+    "correctAnswer": "All of the above",
+    "explanation": "Histogram, Frequency Polygon, and Bar Chart are all types of data presentation.",
+    "difficulty": "Medium",
+    "class": "Class 11",
+    "subject": "Economics",
+    "chapter": "Ch 6: Collection, Organisation and Presentation of Data"
+  }
+]

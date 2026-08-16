@@ -1,0 +1,327 @@
+[
+  {
+    "class": "Class 9",
+    "subject": "Science",
+    "difficulty": "EASY",
+    "text": "What is the chemical valency of a Helium atom (Atomic number $= 2$)?",
+    "explanation": "Helium has a completely filled shell ($2$ electrons in K-shell), so its combining capacity (valency) is $0$.",
+    "options": [
+      { "text": "$2$", "isCorrect": false },
+      { "text": "$0$", "isCorrect": true },
+      { "text": "$1$", "isCorrect": false },
+      { "text": "$4$", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 9",
+    "subject": "Science",
+    "difficulty": "EASY",
+    "text": "Which of the following crops is cultivated during the Rabi season in India?",
+    "explanation": "Wheat is a Rabi crop, sown in winter (November) and harvested in spring (April). Paddy, maize, and soyabean are Kharif crops.",
+    "options": [
+      { "text": "Paddy", "isCorrect": false },
+      { "text": "Wheat", "isCorrect": true },
+      { "text": "Maize", "isCorrect": false },
+      { "text": "Soyabean", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 9",
+    "subject": "Science",
+    "difficulty": "EASY",
+    "text": "What physical quantity does the odometer of an automobile measure?",
+    "explanation": "An odometer measures the total distance traveled by the vehicle.",
+    "options": [
+      { "text": "Instantaneous speed", "isCorrect": false },
+      { "text": "Distance traveled", "isCorrect": true },
+      { "text": "Average velocity", "isCorrect": false },
+      { "text": "Acceleration", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 9",
+    "subject": "Science",
+    "difficulty": "EASY",
+    "text": "Who discovered the subatomic particle neutron in 1932?",
+    "explanation": "James Chadwick discovered the neutron, a neutral subatomic particle present in the nucleus.",
+    "options": [
+      { "text": "J.J. Thomson", "isCorrect": false },
+      { "text": "James Chadwick", "isCorrect": true },
+      { "text": "Ernest Rutherford", "isCorrect": false },
+      { "text": "Niels Bohr", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 9",
+    "subject": "Science",
+    "difficulty": "EASY",
+    "text": "The commercial rearing of silkworms to produce silk is called:",
+    "explanation": "Sericulture is the breeding and rearing of silkworms for raw silk production.",
+    "options": [
+      { "text": "Apiculture", "isCorrect": false },
+      { "text": "Sericulture", "isCorrect": true },
+      { "text": "Pisciculture", "isCorrect": false },
+      { "text": "Horticulture", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 9",
+    "subject": "Science",
+    "difficulty": "EASY",
+    "text": "What is the SI unit of momentum?",
+    "explanation": "Momentum is the product of mass and velocity ($p = mv$), so its SI unit is $\\text{kg m/s}$ or $\\text{kg m s}^{-1}$.",
+    "options": [
+      { "text": "$\\text{kg m/s}^2$", "isCorrect": false },
+      { "text": "$\\text{kg m/s}$", "isCorrect": true },
+      { "text": "$\\text{N m}$", "isCorrect": false },
+      { "text": "$\\text{kg/s}$", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 9",
+    "subject": "Science",
+    "difficulty": "MEDIUM",
+    "text": "The mass number of an atom is defined as:",
+    "explanation": "The mass number is the sum of the total number of protons and neutrons (nucleons) present in the nucleus of an atom.",
+    "options": [
+      { "text": "The total number of electrons in the shells", "isCorrect": false },
+      { "text": "The sum of the number of protons and neutrons in the nucleus", "isCorrect": true },
+      { "text": "The number of protons in the nucleus", "isCorrect": false },
+      { "text": "The number of neutrons in the nucleus", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 9",
+    "subject": "Science",
+    "difficulty": "MEDIUM",
+    "text": "Which plant nutrient is absorbed primarily from water?",
+    "explanation": "Plants absorb Hydrogen from water, while Carbon and Oxygen are absorbed from air.",
+    "options": [
+      { "text": "Nitrogen", "isCorrect": false },
+      { "text": "Hydrogen", "isCorrect": true },
+      { "text": "Phosphorus", "isCorrect": false },
+      { "text": "Calcium", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 9",
+    "subject": "Science",
+    "difficulty": "MEDIUM",
+    "text": "An object moves along a circular path of radius $r$. What is its displacement after completing one full revolution?",
+    "explanation": "Since the initial and final positions are identical after one full revolution, the net displacement is zero.",
+    "options": [
+      { "text": "$2\\pi r$", "isCorrect": false },
+      { "text": "Zero", "isCorrect": true },
+      { "text": "$r$", "isCorrect": false },
+      { "text": "$\\pi r$", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 9",
+    "subject": "Science",
+    "difficulty": "MEDIUM",
+    "text": "Which isotope is used as a fuel in nuclear power reactors?",
+    "explanation": "An isotope of Uranium ($^{235}\\text{U}$) is used as fuel in nuclear reactors to generate power.",
+    "options": [
+      { "text": "Isotope of Cobalt", "isCorrect": false },
+      { "text": "Isotope of Uranium", "isCorrect": true },
+      { "text": "Isotope of Carbon", "isCorrect": false },
+      { "text": "Isotope of Hydrogen", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 9",
+    "subject": "Science",
+    "difficulty": "MEDIUM",
+    "text": "Why are exotic milch breeds of cows (like Jersey) selected in dairy farming?",
+    "explanation": "Exotic breeds are preferred for their exceptionally long lactation periods compared to local breeds.",
+    "options": [
+      { "text": "They show high resistance to tropical diseases", "isCorrect": false },
+      { "text": "They exhibit long lactation periods", "isCorrect": true },
+      { "text": "They require very little feed", "isCorrect": false },
+      { "text": "They are suitable for heavy agricultural labor", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 9",
+    "subject": "Science",
+    "difficulty": "MEDIUM",
+    "text": "A gun recoils after firing a bullet. This is a direct consequence of:",
+    "explanation": "Newton's third law states that every action has an equal and opposite reaction; the forward force on the bullet equals the backward force on the gun.",
+    "options": [
+      { "text": "Newton's first law of motion", "isCorrect": false },
+      { "text": "Newton's third law of motion", "isCorrect": true },
+      { "text": "Newton's second law of motion", "isCorrect": false },
+      { "text": "Law of conservation of energy", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 9",
+    "subject": "Science",
+    "difficulty": "MEDIUM",
+    "text": "What is the molecular mass of Oxygen gas ($\\text{O}_2$)? (Atomic mass of $\\text{O} = 16\\text{ u}$)",
+    "explanation": "Oxygen gas exists as a diatomic molecule. Molecular mass = $2 \\times 16 = 32\\text{ u}$.",
+    "options": [
+      { "text": "$16\\text{ u}$", "isCorrect": false },
+      { "text": "$32\\text{ u}$", "isCorrect": true },
+      { "text": "$48\\text{ u}$", "isCorrect": false },
+      { "text": "$8\\text{ u}$", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 9",
+    "subject": "Science",
+    "difficulty": "MEDIUM",
+    "text": "Which of the following represents a common agricultural weed that competes with crops for nutrients?",
+    "explanation": "Parthenium (gajar ghas) and Xanthium (gokhru) are common weeds that reduce crop yields by competing for resources.",
+    "options": [
+      { "text": "Gram", "isCorrect": false },
+      { "text": "Parthenium", "isCorrect": true },
+      { "text": "Mustard", "isCorrect": false },
+      { "text": "Moong", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 9",
+    "subject": "Science",
+    "difficulty": "MEDIUM",
+    "text": "A racing car starts from rest and moves with a uniform acceleration of $2\\text{ m/s}^2$. Calculate its velocity after $10\\text{ s}$.",
+    "explanation": "$u = 0$, $a = 2\\text{ m/s}^2$, $t = 10\\text{ s}$. Velocity $v = u + at = 0 + 2 \\times 10 = 20\\text{ m/s}$.",
+    "options": [
+      { "text": "$10\\text{ m/s}$", "isCorrect": false },
+      { "text": "$20\\text{ m/s}$", "isCorrect": true },
+      { "text": "$100\\text{ m/s}$", "isCorrect": false },
+      { "text": "$5\\text{ m/s}$", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 9",
+    "subject": "Science",
+    "difficulty": "HARD",
+    "text": "What is the difference between valency and valence electrons?",
+    "explanation": "Valence electrons are the electrons present in the outermost shell; valency is the chemical combining capacity of the atom.",
+    "options": [
+      { "text": "Valency is always equal to the number of valence electrons", "isCorrect": false },
+      { "text": "Valence electrons are in the outermost shell; valency is the combining capacity of the atom", "isCorrect": true },
+      { "text": "Valency is the charge of the nucleus; valence electrons are the total electrons", "isCorrect": false },
+      { "text": "Valency is always double the number of valence electrons", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 9",
+    "subject": "Science",
+    "difficulty": "HARD",
+    "text": "Compare intercropping and crop rotation based on their planting designs.",
+    "explanation": "Intercropping involves growing two or more crops simultaneously in a definite row pattern; crop rotation is growing different crops sequentially on the same land.",
+    "options": [
+      { "text": "Both involve growing crops in identical rows, but crop rotation is seasonal", "isCorrect": false },
+      { "text": "Intercropping has a definite row pattern; crop rotation involves growing different crops sequentially on the same plot", "isCorrect": true },
+      { "text": "Intercropping is done only with GM crops; crop rotation only uses legumes", "isCorrect": false },
+      { "text": "Crop rotation requires no soil preparation between crops", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 9",
+    "subject": "Science",
+    "difficulty": "HARD",
+    "text": "A constant force of $5\\text{ N}$ gives a mass $m_1$ an acceleration of $10\\text{ m/s}^2$, and a mass $m_2$ an acceleration of $20\\text{ m/s}^2$. What acceleration would it give if both masses were tied together?",
+    "explanation": "$m_1 = \\frac{5}{10} = 0.5\\text{ kg}$. $m_2 = \\frac{5}{20} = 0.25\\text{ kg}$. Combined mass $m = 0.75\\text{ kg}$. Acceleration $a = \\frac{F}{m} = \\frac{5}{0.75} = 6.67\\text{ m/s}^2$.",
+    "options": [
+      { "text": "$15\\text{ m/s}^2$", "isCorrect": false },
+      { "text": "$6.67\\text{ m/s}^2$", "isCorrect": true },
+      { "text": "$30\\text{ m/s}^2$", "isCorrect": false },
+      { "text": "$5\\text{ m/s}^2$", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 9",
+    "subject": "Science",
+    "difficulty": "HARD",
+    "text": "Calculate the number of atoms present in $0.5\\text{ moles}$ of Nitrogen atoms.",
+    "explanation": "Number of atoms = $\\text{moles} \\times N_A = 0.5 \\times 6.022 \\times 10^{23} = 3.011 \\times 10^{23}$ atoms.",
+    "options": [
+      { "text": "$6.022 \\times 10^{23}$ atoms", "isCorrect": false },
+      { "text": "$3.011 \\times 10^{23}$ atoms", "isCorrect": true },
+      { "text": "$1.204 \\times 10^{24}$ atoms", "isCorrect": false },
+      { "text": "$3.011 \\times 10^{22}$ atoms", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 9",
+    "subject": "Science",
+    "difficulty": "HARD",
+    "text": "What factors determine the quantity and quality of honey in apiculture?",
+    "explanation": "The honey yield and quality depend on the pasturage (flowers available) and the botanical varieties of flora.",
+    "options": [
+      { "text": "The material of the beehive alone", "isCorrect": false },
+      { "text": "The pasturage (flowers available) and type of flora", "isCorrect": true },
+      { "text": "The size of the honeybees", "isCorrect": false },
+      { "text": "The frequency of artificial feeding with sucrose", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 9",
+    "subject": "Science",
+    "difficulty": "HARD",
+    "text": "A cyclist moves with a speed that increases at a variable rate. Which graph correctly represents this motion?",
+    "explanation": "Variable acceleration is represented by a curved displacement-time graph with a changing slope.",
+    "options": [
+      { "text": "A straight line parallel to the time axis", "isCorrect": false },
+      { "text": "A curved line on a displacement-time graph", "isCorrect": true },
+      { "text": "A straight line inclined to the time axis", "isCorrect": false },
+      { "text": "A vertical line parallel to the displacement axis", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 9",
+    "subject": "Science",
+    "difficulty": "VERY HARD",
+    "text": "State the key postulates of Bohr's atomic model and how they resolved Rutherford's limitation.",
+    "explanation": "Bohr proposed that electrons revolve in discrete non-radiating orbits, explaining why electrons do not lose energy and fall into the nucleus.",
+    "options": [
+      { "text": "Electrons can orbit at any distance and emit continuous electromagnetic radiation", "isCorrect": false },
+      { "text": "Electrons revolve only in discrete, non-radiating orbits; energy is emitted/absorbed only during transitions", "isCorrect": true },
+      { "text": "Protons revolve around the central mass of electrons in quantized orbits", "isCorrect": false },
+      { "text": "Neutrons act as electrostatic shield around the orbits to keep electrons from crashing", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 9",
+    "subject": "Science",
+    "difficulty": "VERY HARD",
+    "text": "What is composite fish culture, and what ecological advantage does it provide?",
+    "explanation": "It uses 5-6 fish species with different food habits in a single pond, ensuring complete resource utilization without competition.",
+    "options": [
+      { "text": "Culturing only predatory marine fish in fresh water to increase fish survival", "isCorrect": false },
+      { "text": "Rearing five or six fish species with different feeding habits in one pond to maximize food utilization", "isCorrect": true },
+      { "text": "Farming fish along with rice crops in waterlogged paddy fields using chemical nutrients", "isCorrect": false },
+      { "text": "Breeding marine fish in high-temperature tanks to increase lipid synthesis", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 9",
+    "subject": "Science",
+    "difficulty": "VERY HARD",
+    "text": "A hammer of mass $500\\text{ g}$, moving at $50\\text{ m/s}$, strikes a nail. The nail stops the hammer in $0.01\\text{ s}$. Find the average force exerted by the nail on the hammer.",
+    "explanation": "Mass $m = 0.5\\text{ kg}$, $u = 50\\text{ m/s}$, $v = 0$, $t = 0.01\\text{ s}$. Force $F = \\frac{m(v - u)}{t} = \\frac{0.5(0 - 50)}{0.01} = -2500\\text{ N}$.",
+    "options": [
+      { "text": "$-500\\text{ N}$", "isCorrect": false },
+      { "text": "$-2500\\text{ N}$", "isCorrect": true },
+      { "text": "$2500\\text{ N}$", "isCorrect": false },
+      { "text": "$-1250\\text{ N}$", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 9",
+    "subject": "Science",
+    "difficulty": "VERY HARD",
+    "text": "Derive the second equation of motion ($s = ut + \\frac{1}{2}at^2$) graphically using a velocity-time graph.",
+    "explanation": "Displacement is the area under the $v-t$ curve. Area = Area of rectangle ($ut$) + Area of triangle ($\\frac{1}{2} t \\times at = \\frac{1}{2}at^2$).",
+    "options": [
+      { "text": "Area under $v-t$ graph $=$ Area of rectangle alone $= ut$", "isCorrect": false },
+      { "text": "Displacement $s =$ Area of rectangle ($ut$) $+$ Area of triangle ($\\frac{1}{2}at^2$)", "isCorrect": true },
+      { "text": "Slope of $v-t$ graph $\\times$ time $=$ Area of trapezium $= u + at$", "isCorrect": false },
+      { "text": "Displacement $s =$ Slope of $d-t$ graph $\\times$ acceleration $= 2as$", "isCorrect": false }
+    ]
+  }
+]

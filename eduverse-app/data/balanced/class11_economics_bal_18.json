@@ -1,0 +1,152 @@
+[
+  {
+    "text": "What is the primary purpose of sampling in statistics?",
+    "options": [
+      "To collect data from the entire population.",
+      "To collect data from a representative subset of the population.",
+      "To analyze data without collecting any data.",
+      "To present data in a graphical format."
+    ],
+    "correctAnswer": "To collect data from a representative subset of the population.",
+    "explanation": "Sampling is a method used to collect data from a representative subset of the population, which helps in making inferences about the entire population. This is done to reduce the time, cost, and effort required to collect data from the entire population.",
+    "difficulty": "Easy",
+    "class": "Class 11",
+    "subject": "Economics",
+    "chapter": "Ch 6: Collection, Organisation and Presentation of Data"
+  },
+  {
+    "text": "Which of the following is a type of sampling method?",
+    "options": [
+      "Systematic sampling",
+      "Stratified sampling",
+      "Cluster sampling",
+      "All of the above"
+    ],
+    "correctAnswer": "All of the above",
+    "explanation": "There are several types of sampling methods, including systematic sampling, stratified sampling, and cluster sampling. Systematic sampling involves selecting samples at regular intervals, stratified sampling involves dividing the population into subgroups and selecting samples from each subgroup, and cluster sampling involves selecting a group of individuals or items and studying the entire group.",
+    "difficulty": "Medium",
+    "class": "Class 11",
+    "subject": "Economics",
+    "chapter": "Ch 6: Collection, Organisation and Presentation of Data"
+  },
+  {
+    "text": "What is the purpose of tabulation in statistics?",
+    "options": [
+      "To present data in a graphical format.",
+      "To summarize and organize data in a table format.",
+      "To analyze data using statistical methods.",
+      "To collect data from a representative subset of the population."
+    ],
+    "correctAnswer": "To summarize and organize data in a table format.",
+    "explanation": "Tabulation is a method used to summarize and organize data in a table format, making it easier to understand and analyze. It helps to identify patterns and trends in the data and to make inferences about the population.",
+    "difficulty": "Easy",
+    "class": "Class 11",
+    "subject": "Economics",
+    "chapter": "Ch 6: Collection, Organisation and Presentation of Data"
+  },
+  {
+    "text": "What is a histogram?",
+    "options": [
+      "A graphical representation of a single data point.",
+      "A graphical representation of a single variable.",
+      "A graphical representation of two or more variables.",
+      "A graphical representation of a distribution of data."
+    ],
+    "correctAnswer": "A graphical representation of a distribution of data.",
+    "explanation": "A histogram is a graphical representation of a distribution of data, which shows the frequency or density of different values in the data. It is a type of bar chart that is used to display the distribution of a single variable.",
+    "difficulty": "Medium",
+    "class": "Class 11",
+    "subject": "Economics",
+    "chapter": "Ch 6: Collection, Organisation and Presentation of Data"
+  },
+  {
+    "text": "What is an ogive?",
+    "options": [
+      "A graphical representation of a single data point.",
+      "A graphical representation of a single variable.",
+      "A graphical representation of two or more variables.",
+      "A cumulative frequency curve."
+    ],
+    "correctAnswer": "A cumulative frequency curve.",
+    "explanation": "An ogive is a graphical representation of a cumulative frequency distribution, which shows the cumulative frequency of different values in the data. It is a type of curve that is used to display the distribution of a single variable.",
+    "difficulty": "Medium",
+    "class": "Class 11",
+    "subject": "Economics",
+    "chapter": "Ch 6: Collection, Organisation and Presentation of Data"
+  },
+  {
+    "text": "What is the difference between a histogram and a bar chart?",
+    "options": [
+      "A histogram is a graphical representation of a single variable, while a bar chart is a graphical representation of two or more variables.",
+      "A histogram is a graphical representation of two or more variables, while a bar chart is a graphical representation of a single variable.",
+      "A histogram is a graphical representation of a distribution of data, while a bar chart is a graphical representation of a single data point.",
+      "A histogram is a graphical representation of a single data point, while a bar chart is a graphical representation of a distribution of data."
+    ],
+    "correctAnswer": "A histogram is a graphical representation of a distribution of data, while a bar chart is a graphical representation of a single data point.",
+    "explanation": "A histogram is a graphical representation of a distribution of data, while a bar chart is a graphical representation of a single data point. A histogram shows the frequency or density of different values in the data, while a bar chart shows the value of a single data point.",
+    "difficulty": "Hard",
+    "class": "Class 11",
+    "subject": "Economics",
+    "chapter": "Ch 6: Collection, Organisation and Presentation of Data"
+  },
+  {
+    "text": "What is the purpose of using a histogram to display data?",
+    "options": [
+      "To display the distribution of a single variable.",
+      "To display the relationship between two or more variables.",
+      "To display the value of a single data point.",
+      "To display the frequency or density of different values in the data."
+    ],
+    "correctAnswer": "To display the frequency or density of different values in the data.",
+    "explanation": "The purpose of using a histogram to display data is to show the frequency or density of different values in the data. It helps to identify patterns and trends in the data and to make inferences about the population.",
+    "difficulty": "Easy",
+    "class": "Class 11",
+    "subject": "Economics",
+    "chapter": "Ch 6: Collection, Organisation and Presentation of Data"
+  },
+  {
+    "text": "What is the difference between a frequency distribution and a relative frequency distribution?",
+    "options": [
+      "A frequency distribution shows the frequency of different values in the data, while a relative frequency distribution shows the relative frequency of different values in the data.",
+      "A frequency distribution shows the relative frequency of different values in the data, while a relative frequency distribution shows the frequency of different values in the data.",
+      "A frequency distribution shows the value of a single data point, while a relative frequency distribution shows the distribution of a single variable.",
+      "A frequency distribution shows the distribution of a single variable, while a relative frequency distribution shows the value of a single data point."
+    ],
+    "correctAnswer": "A frequency distribution shows the frequency of different values in the data, while a relative frequency distribution shows the relative frequency of different values in the data.",
+    "explanation": "A frequency distribution shows the frequency of different values in the data, while a relative frequency distribution shows the relative frequency of different values in the data. The relative frequency is calculated by dividing the frequency of each value by the total number of observations.",
+    "difficulty": "Medium",
+    "class": "Class 11",
+    "subject": "Economics",
+    "chapter": "Ch 6: Collection, Organisation and Presentation of Data"
+  },
+  {
+    "text": "What is the purpose of using an ogive to display data?",
+    "options": [
+      "To display the distribution of a single variable.",
+      "To display the relationship between two or more variables.",
+      "To display the value of a single data point.",
+      "To display the cumulative frequency of different values in the data."
+    ],
+    "correctAnswer": "To display the cumulative frequency of different values in the data.",
+    "explanation": "The purpose of using an ogive to display data is to show the cumulative frequency of different values in the data. It helps to identify patterns and trends in the data and to make inferences about the population.",
+    "difficulty": "Easy",
+    "class": "Class 11",
+    "subject": "Economics",
+    "chapter": "Ch 6: Collection, Organisation and Presentation of Data"
+  },
+  {
+    "text": "What is the difference between a histogram and an ogive?",
+    "options": [
+      "A histogram shows the frequency or density of different values in the data, while an ogive shows the cumulative frequency of different values in the data.",
+      "A histogram shows the cumulative frequency of different values in the data, while an ogive shows the frequency or density of different values in the data.",
+      "A histogram shows the value of a single data point, while an ogive shows the distribution of a single variable.",
+      "A histogram shows the distribution of a single variable, while an ogive shows the value of a single data point."
+    ],
+    "correctAnswer": "A histogram shows the frequency or density of different values in the data, while an ogive shows the cumulative frequency of different values in the data.",
+    "explanation": "A histogram shows the frequency or density of different values in the data, while an ogive shows the cumulative frequency of different values in the data. A histogram is a graphical representation of a distribution of data, while an ogive is a graphical representation of a cumulative frequency distribution.",
+    "difficulty": "Hard",
+    "class": "Class 11",
+    "subject": "Economics",
+    "chapter": "Ch 6: Collection, Organisation and Presentation of Data"
+  }
+]

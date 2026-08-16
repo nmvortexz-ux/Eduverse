@@ -1,0 +1,257 @@
+[
+  {
+    "text": "What is the Law of Diminishing Marginal Utility?",
+    "options": [
+      "The marginal utility of a commodity increases as its consumption increases",
+      "The marginal utility of a commodity decreases as its consumption increases",
+      "The marginal utility of a commodity remains constant as its consumption increases",
+      "The marginal utility of a commodity first increases and then decreases as its consumption increases"
+    ],
+    "correctAnswer": "The marginal utility of a commodity decreases as its consumption increases",
+    "explanation": "The Law of Diminishing Marginal Utility states that as the consumption of a commodity increases, the marginal utility derived from each successive unit of the commodity decreases. This is because as we consume more of a commodity, our desire for it decreases, and we get less satisfaction from each additional unit.",
+    "difficulty": "Easy",
+    "class": "Class 11",
+    "subject": "Economics",
+    "chapter": "Ch 2: Consumer's Equilibrium and Demand"
+  },
+  {
+    "text": "What is the formula for calculating the price elasticity of demand?",
+    "options": [
+      "$\\text{Elasticity } (e_d) = \\frac{\\% \\Delta Q}{\\% \\Delta P}$",
+      "$\\text{Elasticity } (e_d) = \\frac{\\% \\Delta P}{\\% \\Delta Q}$",
+      "$\\text{Elasticity } (e_d) = \\frac{\\Delta Q}{\\Delta P}$",
+      "$\\text{Elasticity } (e_d) = \\frac{\\Delta P}{\\Delta Q}$"
+    ],
+    "correctAnswer": "$\\text{Elasticity } (e_d) = \\frac{\\% \\Delta Q}{\\% \\Delta P}$",
+    "explanation": "The price elasticity of demand measures the responsiveness of the quantity demanded of a commodity to a change in its price. The formula for calculating the price elasticity of demand is $\\text{Elasticity } (e_d) = \\frac{\\% \\Delta Q}{\\% \\Delta P}$. This formula shows that the price elasticity of demand is equal to the percentage change in quantity demanded divided by the percentage change in price.",
+    "difficulty": "Medium",
+    "class": "Class 11",
+    "subject": "Economics",
+    "chapter": "Ch 2: Consumer's Equilibrium and Demand"
+  },
+  {
+    "text": "What is the concept of indifference curve analysis?",
+    "options": [
+      "A graphical representation of the various combinations of two commodities that a consumer is willing to buy",
+      "A graphical representation of the various combinations of two commodities that a consumer is not willing to buy",
+      "A graphical representation of the various combinations of two commodities that a consumer is willing to sell",
+      "A graphical representation of the various combinations of two commodities that a consumer is not willing to sell"
+    ],
+    "correctAnswer": "A graphical representation of the various combinations of two commodities that a consumer is willing to buy",
+    "explanation": "Indifference curve analysis is a graphical representation of the various combinations of two commodities that a consumer is willing to buy. It shows the different combinations of two commodities that give the consumer the same level of satisfaction or utility. The indifference curve is a downward sloping curve, which means that as the consumer gets more of one commodity, he is willing to give up some of the other commodity.",
+    "difficulty": "Medium",
+    "class": "Class 11",
+    "subject": "Economics",
+    "chapter": "Ch 2: Consumer's Equilibrium and Demand"
+  },
+  {
+    "text": "What is the concept of marginal rate of substitution?",
+    "options": [
+      "The rate at which a consumer is willing to substitute one commodity for another",
+      "The rate at which a consumer is not willing to substitute one commodity for another",
+      "The rate at which a consumer is willing to buy one commodity",
+      "The rate at which a consumer is willing to sell one commodity"
+    ],
+    "correctAnswer": "The rate at which a consumer is willing to substitute one commodity for another",
+    "explanation": "The marginal rate of substitution is the rate at which a consumer is willing to substitute one commodity for another. It is the amount of one commodity that a consumer is willing to give up in exchange for an additional unit of another commodity. The marginal rate of substitution is measured by the slope of the indifference curve.",
+    "difficulty": "Medium",
+    "class": "Class 11",
+    "subject": "Economics",
+    "chapter": "Ch 2: Consumer's Equilibrium and Demand"
+  },
+  {
+    "text": "What is the concept of budget line?",
+    "options": [
+      "A graphical representation of the various combinations of two commodities that a consumer can buy with a given income",
+      "A graphical representation of the various combinations of two commodities that a consumer cannot buy with a given income",
+      "A graphical representation of the various combinations of two commodities that a consumer is willing to buy",
+      "A graphical representation of the various combinations of two commodities that a consumer is not willing to buy"
+    ],
+    "correctAnswer": "A graphical representation of the various combinations of two commodities that a consumer can buy with a given income",
+    "explanation": "The budget line is a graphical representation of the various combinations of two commodities that a consumer can buy with a given income. It shows the different combinations of two commodities that a consumer can buy with a given income, and it is determined by the consumer's income and the prices of the two commodities.",
+    "difficulty": "Medium",
+    "class": "Class 11",
+    "subject": "Economics",
+    "chapter": "Ch 2: Consumer's Equilibrium and Demand"
+  },
+  {
+    "text": "What is the concept of consumer's equilibrium?",
+    "options": [
+      "A situation in which a consumer is able to buy the optimal combination of commodities that gives him the maximum satisfaction",
+      "A situation in which a consumer is not able to buy the optimal combination of commodities that gives him the maximum satisfaction",
+      "A situation in which a consumer is able to sell the optimal combination of commodities that gives him the maximum satisfaction",
+      "A situation in which a consumer is not able to sell the optimal combination of commodities that gives him the maximum satisfaction"
+    ],
+    "correctAnswer": "A situation in which a consumer is able to buy the optimal combination of commodities that gives him the maximum satisfaction",
+    "explanation": "The consumer's equilibrium is a situation in which a consumer is able to buy the optimal combination of commodities that gives him the maximum satisfaction. This occurs when the consumer's budget line is tangent to the highest possible indifference curve. At this point, the consumer is able to buy the combination of commodities that gives him the maximum satisfaction, given his income and the prices of the commodities.",
+    "difficulty": "Medium",
+    "class": "Class 11",
+    "subject": "Economics",
+    "chapter": "Ch 2: Consumer's Equilibrium and Demand"
+  },
+  {
+    "text": "What is the law of demand?",
+    "options": [
+      "The quantity demanded of a commodity increases as its price increases",
+      "The quantity demanded of a commodity decreases as its price increases",
+      "The quantity demanded of a commodity remains constant as its price increases",
+      "The quantity demanded of a commodity first increases and then decreases as its price increases"
+    ],
+    "correctAnswer": "The quantity demanded of a commodity decreases as its price increases",
+    "explanation": "The law of demand states that the quantity demanded of a commodity decreases as its price increases, ceteris paribus. This means that as the price of a commodity increases, the quantity demanded of it decreases, and vice versa. This is because as the price of a commodity increases, it becomes more expensive for consumers to buy, and they may choose to buy less of it or substitute it with a cheaper alternative.",
+    "difficulty": "Easy",
+    "class": "Class 11",
+    "subject": "Economics",
+    "chapter": "Ch 2: Consumer's Equilibrium and Demand"
+  },
+  {
+    "text": "What is the concept of demand function?",
+    "options": [
+      "A mathematical representation of the relationship between the quantity demanded of a commodity and its price",
+      "A mathematical representation of the relationship between the quantity supplied of a commodity and its price",
+      "A mathematical representation of the relationship between the quantity demanded of a commodity and its income",
+      "A mathematical representation of the relationship between the quantity supplied of a commodity and its income"
+    ],
+    "correctAnswer": "A mathematical representation of the relationship between the quantity demanded of a commodity and its price",
+    "explanation": "The demand function is a mathematical representation of the relationship between the quantity demanded of a commodity and its price. It shows how the quantity demanded of a commodity changes in response to a change in its price, ceteris paribus. The demand function can be represented by the equation Q = f(P), where Q is the quantity demanded and P is the price of the commodity.",
+    "difficulty": "Medium",
+    "class": "Class 11",
+    "subject": "Economics",
+    "chapter": "Ch 2: Consumer's Equilibrium and Demand"
+  },
+  {
+    "text": "What is the concept of elasticity of demand?",
+    "options": [
+      "A measure of the responsiveness of the quantity demanded of a commodity to a change in its price",
+      "A measure of the responsiveness of the quantity supplied of a commodity to a change in its price",
+      "A measure of the responsiveness of the quantity demanded of a commodity to a change in its income",
+      "A measure of the responsiveness of the quantity supplied of a commodity to a change in its income"
+    ],
+    "correctAnswer": "A measure of the responsiveness of the quantity demanded of a commodity to a change in its price",
+    "explanation": "The elasticity of demand is a measure of the responsiveness of the quantity demanded of a commodity to a change in its price. It shows how much the quantity demanded of a commodity changes in response to a change in its price, ceteris paribus. The elasticity of demand can be calculated using the formula $\\text{Elasticity } (e_d) = \\frac{\\% \\Delta Q}{\\% \\Delta P}$.",
+    "difficulty": "Medium",
+    "class": "Class 11",
+    "subject": "Economics",
+    "chapter": "Ch 2: Consumer's Equilibrium and Demand"
+  },
+  {
+    "text": "What is the concept of percentage method of measuring elasticity of demand?",
+    "options": [
+      "A method of measuring elasticity of demand by calculating the percentage change in quantity demanded in response to a percentage change in price",
+      "A method of measuring elasticity of demand by calculating the absolute change in quantity demanded in response to an absolute change in price",
+      "A method of measuring elasticity of demand by calculating the percentage change in quantity supplied in response to a percentage change in price",
+      "A method of measuring elasticity of demand by calculating the absolute change in quantity supplied in response to an absolute change in price"
+    ],
+    "correctAnswer": "A method of measuring elasticity of demand by calculating the percentage change in quantity demanded in response to a percentage change in price",
+    "explanation": "The percentage method of measuring elasticity of demand is a method of calculating the elasticity of demand by measuring the percentage change in quantity demanded in response to a percentage change in price. This method is useful for comparing the elasticity of demand for different commodities.",
+    "difficulty": "Medium",
+    "class": "Class 11",
+    "subject": "Economics",
+    "chapter": "Ch 2: Consumer's Equilibrium and Demand"
+  },
+  {
+    "text": "What is the difference between total utility and marginal utility?",
+    "options": [
+      "Total utility is the total satisfaction derived from consuming a commodity, while marginal utility is the additional satisfaction derived from consuming one more unit of the commodity",
+      "Total utility is the additional satisfaction derived from consuming one more unit of a commodity, while marginal utility is the total satisfaction derived from consuming the commodity",
+      "Total utility is the total cost of consuming a commodity, while marginal utility is the additional cost of consuming one more unit of the commodity",
+      "Total utility is the total revenue from selling a commodity, while marginal utility is the additional revenue from selling one more unit of the commodity"
+    ],
+    "correctAnswer": "Total utility is the total satisfaction derived from consuming a commodity, while marginal utility is the additional satisfaction derived from consuming one more unit of the commodity",
+    "explanation": "Total utility is the total satisfaction derived from consuming a commodity, while marginal utility is the additional satisfaction derived from consuming one more unit of the commodity. The law of diminishing marginal utility states that as the consumption of a commodity increases, the marginal utility derived from each successive unit of the commodity decreases.",
+    "difficulty": "Easy",
+    "class": "Class 11",
+    "subject": "Economics",
+    "chapter": "Ch 2: Consumer's Equilibrium and Demand"
+  },
+  {
+    "text": "What is the concept of consumer's surplus?",
+    "options": [
+      "The difference between the maximum price a consumer is willing to pay for a commodity and the actual price paid",
+      "The difference between the minimum price a consumer is willing to accept for a commodity and the actual price received",
+      "The difference between the total utility derived from consuming a commodity and the total cost of consuming the commodity",
+      "The difference between the total revenue from selling a commodity and the total cost of producing the commodity"
+    ],
+    "correctAnswer": "The difference between the maximum price a consumer is willing to pay for a commodity and the actual price paid",
+    "explanation": "The consumer's surplus is the difference between the maximum price a consumer is willing to pay for a commodity and the actual price paid. It is a measure of the benefit that a consumer derives from buying a commodity at a price that is lower than the maximum price he is willing to pay.",
+    "difficulty": "Medium",
+    "class": "Class 11",
+    "subject": "Economics",
+    "chapter": "Ch 2: Consumer's Equilibrium and Demand"
+  },
+  {
+    "text": "What is the concept of price elasticity of demand?",
+    "options": [
+      "A measure of the responsiveness of the quantity demanded of a commodity to a change in its price",
+      "A measure of the responsiveness of the quantity supplied of a commodity to a change in its price",
+      "A measure of the responsiveness of the quantity demanded of a commodity to a change in its income",
+      "A measure of the responsiveness of the quantity supplied of a commodity to a change in its income"
+    ],
+    "correctAnswer": "A measure of the responsiveness of the quantity demanded of a commodity to a change in its price",
+    "explanation": "The price elasticity of demand is a measure of the responsiveness of the quantity demanded of a commodity to a change in its price. It shows how much the quantity demanded of a commodity changes in response to a change in its price, ceteris paribus.",
+    "difficulty": "Medium",
+    "class": "Class 11",
+    "subject": "Economics",
+    "chapter": "Ch 2: Consumer's Equilibrium and Demand"
+  },
+  {
+    "text": "What is the concept of income elasticity of demand?",
+    "options": [
+      "A measure of the responsiveness of the quantity demanded of a commodity to a change in the consumer's income",
+      "A measure of the responsiveness of the quantity supplied of a commodity to a change in the consumer's income",
+      "A measure of the responsiveness of the quantity demanded of a commodity to a change in its price",
+      "A measure of the responsiveness of the quantity supplied of a commodity to a change in its price"
+    ],
+    "correctAnswer": "A measure of the responsiveness of the quantity demanded of a commodity to a change in the consumer's income",
+    "explanation": "The income elasticity of demand is a measure of the responsiveness of the quantity demanded of a commodity to a change in the consumer's income. It shows how much the quantity demanded of a commodity changes in response to a change in the consumer's income, ceteris paribus.",
+    "difficulty": "Medium",
+    "class": "Class 11",
+    "subject": "Economics",
+    "chapter": "Ch 2: Consumer's Equilibrium and Demand"
+  },
+  {
+    "text": "What is the concept of cross elasticity of demand?",
+    "options": [
+      "A measure of the responsiveness of the quantity demanded of a commodity to a change in the price of another commodity",
+      "A measure of the responsiveness of the quantity supplied of a commodity to a change in the price of another commodity",
+      "A measure of the responsiveness of the quantity demanded of a commodity to a change in its own price",
+      "A measure of the responsiveness of the quantity supplied of a commodity to a change in its own price"
+    ],
+    "correctAnswer": "A measure of the responsiveness of the quantity demanded of a commodity to a change in the price of another commodity",
+    "explanation": "The cross elasticity of demand is a measure of the responsiveness of the quantity demanded of a commodity to a change in the price of another commodity. It shows how much the quantity demanded of a commodity changes in response to a change in the price of another commodity, ceteris paribus.",
+    "difficulty": "Medium",
+    "class": "Class 11",
+    "subject": "Economics",
+    "chapter": "Ch 2: Consumer's Equilibrium and Demand"
+  },
+  {
+    "text": "What is the concept of composite demand?",
+    "options": [
+      "A demand that is derived from the demand for another commodity",
+      "A demand that is not derived from the demand for another commodity",
+      "A demand that is derived from the demand for multiple commodities",
+      "A demand that is not derived from the demand for multiple commodities"
+    ],
+    "correctAnswer": "A demand that is derived from the demand for another commodity",
+    "explanation": "The composite demand is a demand that is derived from the demand for another commodity. For example, the demand for steel is derived from the demand for cars, which use steel as an input.",
+    "difficulty": "Medium",
+    "class": "Class 11",
+    "subject": "Economics",
+    "chapter": "Ch 2: Consumer's Equilibrium and Demand"
+  },
+  {
+    "text": "What is the concept of derived demand?",
+    "options": [
+      "A demand that is derived from the demand for another commodity",
+      "A demand that is not derived from the demand for another commodity",
+      "A demand that is derived from the demand for multiple commodities",
+      "A demand that is not derived from the demand for multiple commodities"
+    ],
+    "correctAnswer": "A demand that is derived from the demand for another commodity",
+    "explanation": "The derived demand is a demand that is derived from the demand for another commodity. For example, the demand for labor is derived from the demand for the goods and services that labor is used to produce.",
+    "difficulty": "Medium",
+    "class": "Class 11",
+    "subject": "Economics",
+    "chapter": "Ch 2: Consumer's Equilibrium and Demand"
+  }
+]

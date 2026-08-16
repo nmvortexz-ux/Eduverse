@@ -1,0 +1,327 @@
+[
+  {
+    "class": "Class 10",
+    "subject": "GK",
+    "difficulty": "EASY",
+    "text": "In which year was the partition of Bengal announced by Viceroy Lord Curzon?",
+    "explanation": "The Partition of Bengal was carried out in 1905 by Lord Curzon to divide the province along communal lines, sparking widespread Swadeshi protests.",
+    "options": [
+      { "text": "1905", "isCorrect": true },
+      { "text": "1911", "isCorrect": false },
+      { "text": "1885", "isCorrect": false },
+      { "text": "1920", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 10",
+    "subject": "GK",
+    "difficulty": "EASY",
+    "text": "Which is the highest mountain peak in the world, located in the Himalayas?",
+    "explanation": "Mount Everest is the highest peak above sea level, reaching a height of 8,848.86 meters on the Nepal-China border.",
+    "options": [
+      { "text": "Mount K2 (Godwin-Austen)", "isCorrect": false },
+      { "text": "Mount Everest", "isCorrect": true },
+      { "text": "Kanchenjunga", "isCorrect": false },
+      { "text": "Mount Lhotse", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 10",
+    "subject": "GK",
+    "difficulty": "EASY",
+    "text": "Who was the first Indian citizen to travel into outer space?",
+    "explanation": "Wing Commander Rakesh Sharma flew aboard the Soviet spacecraft Soyuz T-11 on April 3, 1984.",
+    "options": [
+      { "text": "Kalpana Chawla", "isCorrect": false },
+      { "text": "Rakesh Sharma", "isCorrect": true },
+      { "text": "Sunita Williams", "isCorrect": false },
+      { "text": "Ravish Malhotra", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 10",
+    "subject": "GK",
+    "difficulty": "EASY",
+    "text": "What is the national flower of India?",
+    "explanation": "The Lotus (Nelumbo nucifera) is the national flower of India, representing purity, beauty, and divinity in Indian culture.",
+    "options": [
+      { "text": "Rose", "isCorrect": false },
+      { "text": "Lotus", "isCorrect": true },
+      { "text": "Marigold", "isCorrect": false },
+      { "text": "Jasmine", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 10",
+    "subject": "GK",
+    "difficulty": "EASY",
+    "text": "Which gas is primarily absorbed by green plants from the atmosphere during photosynthesis?",
+    "explanation": "Plants absorb Carbon Dioxide ($CO_2$) and release Oxygen ($O_2$) during the process of photosynthesis.",
+    "options": [
+      { "text": "Oxygen", "isCorrect": false },
+      { "text": "Carbon Dioxide", "isCorrect": true },
+      { "text": "Nitrogen", "isCorrect": false },
+      { "text": "Carbon Monoxide", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 10",
+    "subject": "GK",
+    "difficulty": "EASY",
+    "text": "Who was the founder of the ancient Maurya Empire in India?",
+    "explanation": "Chandragupta Maurya founded the Maurya Empire around 322 BCE after defeating Dhanananda, the last ruler of the Nanda Dynasty, with the help of Chanakya.",
+    "options": [
+      { "text": "Ashoka the Great", "isCorrect": false },
+      { "text": "Chandragupta Maurya", "isCorrect": true },
+      { "text": "Samudragupta", "isCorrect": false },
+      { "text": "Chandragupta I", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 10",
+    "subject": "GK",
+    "difficulty": "MEDIUM",
+    "text": "In which year did Mahatma Gandhi launch the nationwide Non-Cooperation Movement against British rule?",
+    "explanation": "The Non-Cooperation Movement was launched in 1920 to demand Swaraj and protest the Jallianwala Bagh massacre, later suspended after the Chauri Chaura incident in 1922.",
+    "options": [
+      { "text": "1915", "isCorrect": false },
+      { "text": "1920", "isCorrect": true },
+      { "text": "1930", "isCorrect": false },
+      { "text": "1942", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 10",
+    "subject": "GK",
+    "difficulty": "MEDIUM",
+    "text": "Which Indian city is globally recognized as the 'Silicon Valley of India' due to its status as a major IT hub?",
+    "explanation": "Bengaluru is called the Silicon Valley of India because it houses the country's leading information technology companies and startups.",
+    "options": [
+      { "text": "Hyderabad", "isCorrect": false },
+      { "text": "Bengaluru", "isCorrect": true },
+      { "text": "Pune", "isCorrect": false },
+      { "text": "Chennai", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 10",
+    "subject": "GK",
+    "difficulty": "MEDIUM",
+    "text": "Which is the longest canal in India, irrigating large parts of Rajasthan?",
+    "explanation": "The Indira Gandhi Canal (originally Rajasthan Canal) is the longest canal in India, originating from Harike Barrage in Punjab.",
+    "options": [
+      { "text": "Buckingham Canal", "isCorrect": false },
+      { "text": "Indira Gandhi Canal", "isCorrect": true },
+      { "text": "Sarda Canal", "isCorrect": false },
+      { "text": "Sirhind Canal", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 10",
+    "subject": "GK",
+    "difficulty": "MEDIUM",
+    "text": "How many members can the President of India nominate to the Rajya Sabha (Upper House of Parliament)?",
+    "explanation": "Under Article 80 of the Constitution, the President can nominate 12 members having special knowledge in literature, science, art, and social service.",
+    "options": [
+      { "text": "2", "isCorrect": false },
+      { "text": "12", "isCorrect": true },
+      { "text": "10", "isCorrect": false },
+      { "text": "250", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 10",
+    "subject": "GK",
+    "difficulty": "MEDIUM",
+    "text": "Which policy think-tank replaced the 65-year-old Planning Commission of India on January 1, 2015?",
+    "explanation": "NITI Aayog (National Institution for Transforming India) was formed to serve as a policy think-tank adopting a bottom-up approach to federal planning.",
+    "options": [
+      { "text": "Finance Commission", "isCorrect": false },
+      { "text": "NITI Aayog", "isCorrect": true },
+      { "text": "National Development Council", "isCorrect": false },
+      { "text": "Competition Commission of India", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 10",
+    "subject": "GK",
+    "difficulty": "MEDIUM",
+    "text": "Where is the Satish Dhawan Space Centre (SDSC), India's primary rocket launch site, located?",
+    "explanation": "SDSC is located in Sriharikota, an island off the coast of Andhra Pradesh, selected for its eastward launch capability.",
+    "options": [
+      { "text": "Thiruvananthapuram", "isCorrect": false },
+      { "text": "Sriharikota", "isCorrect": true },
+      { "text": "Bengaluru", "isCorrect": false },
+      { "text": "Balasore", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 10",
+    "subject": "GK",
+    "difficulty": "MEDIUM",
+    "text": "Which is the largest cold desert in the world, covering the southern polar region?",
+    "explanation": "The Antarctic Desert is the largest desert on Earth, cold and dry, covering over 14 million square kilometers.",
+    "options": [
+      { "text": "Gobi Desert", "isCorrect": false },
+      { "text": "Antarctic Desert", "isCorrect": true },
+      { "text": "Thar Desert", "isCorrect": false },
+      { "text": "Atacama Desert", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 10",
+    "subject": "GK",
+    "difficulty": "MEDIUM",
+    "text": "Under which article of the Indian Constitution can the Supreme Court issue writs for the enforcement of Fundamental Rights?",
+    "explanation": "Article 32 gives citizens the right to move the Supreme Court, which can issue writs like Habeas Corpus and Mandamus.",
+    "options": [
+      { "text": "Article 226", "isCorrect": false },
+      { "text": "Article 32", "isCorrect": true },
+      { "text": "Article 136", "isCorrect": false },
+      { "text": "Article 143", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 10",
+    "subject": "GK",
+    "difficulty": "MEDIUM",
+    "text": "Who was the reigning Mughal Emperor when the British East India Company established its first factory in Surat?",
+    "explanation": "Mughal Emperor Jahangir issued a farman in 1613 allowing the English East India Company to build a factory in Surat.",
+    "options": [
+      { "text": "Akbar", "isCorrect": false },
+      { "text": "Jahangir", "isCorrect": true },
+      { "text": "Shah Jahan", "isCorrect": false },
+      { "text": "Aurangzeb", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 10",
+    "subject": "GK",
+    "difficulty": "HARD",
+    "text": "Who presided over the historic Lahore Session of the Indian National Congress in 1929 where the 'Poorna Swaraj' (Complete Independence) resolution was passed?",
+    "explanation": "Jawaharlal Nehru was the President of the 1929 Lahore session, where Congress declared January 26, 1930, as Independence Day.",
+    "options": [
+      { "text": "Motilal Nehru", "isCorrect": false },
+      { "text": "Jawaharlal Nehru", "isCorrect": true },
+      { "text": "Mahatma Gandhi", "isCorrect": false },
+      { "text": "Subhas Chandra Bose", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 10",
+    "subject": "GK",
+    "difficulty": "HARD",
+    "text": "What is the constitutional term of office for the Attorney General of India?",
+    "explanation": "According to Article 76, the Attorney General is appointed by the President and holds office during the pleasure of the President.",
+    "options": [
+      { "text": "5 years", "isCorrect": false },
+      { "text": "Holds office during the pleasure of the President", "isCorrect": true },
+      { "text": "6 years or until age 65", "isCorrect": false },
+      { "text": "Life term", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 10",
+    "subject": "GK",
+    "difficulty": "HARD",
+    "text": "Which Indian state is the largest producer of Bauxite (the primary ore of aluminum)?",
+    "explanation": "Odisha is the leading bauxite-producing state in India, accounting for over 50% of the country's total output.",
+    "options": [
+      { "text": "Jharkhand", "isCorrect": false },
+      { "text": "Odisha", "isCorrect": true },
+      { "text": "Chhattisgarh", "isCorrect": false },
+      { "text": "Madhya Pradesh", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 10",
+    "subject": "GK",
+    "difficulty": "HARD",
+    "text": "Which single indirect tax, introduced in 2017, replaced multiple central and state taxes in India?",
+    "explanation": "Goods and Services Tax (GST) is a comprehensive destination-based indirect tax that subsumed excise duty, VAT, and service tax.",
+    "options": [
+      { "text": "Corporate Tax", "isCorrect": false },
+      { "text": "Goods and Services Tax", "isCorrect": true },
+      { "text": "Securities Transaction Tax", "isCorrect": false },
+      { "text": "Customs Duty", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 10",
+    "subject": "GK",
+    "difficulty": "HARD",
+    "text": "In which Indian city is the main campus of the historic Forest Research Institute (FRI) located?",
+    "explanation": "The Forest Research Institute is located in Dehradun, Uttarakhand, famous for its grand Greco-Roman architecture.",
+    "options": [
+      { "text": "Shimla", "isCorrect": false },
+      { "text": "Dehradun", "isCorrect": true },
+      { "text": "Jorhat", "isCorrect": false },
+      { "text": "Bhopal", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 10",
+    "subject": "GK",
+    "difficulty": "HARD",
+    "text": "Which of the following terms refers to the extensive temperate grasslands found in South Africa?",
+    "explanation": "The temperate grasslands of South Africa are called Velds; Prairies are in North America, Pampas in South America, and Steppes in Eurasia.",
+    "options": [
+      { "text": "Pampas", "isCorrect": false },
+      { "text": "Velds", "isCorrect": true },
+      { "text": "Downs", "isCorrect": false },
+      { "text": "Prairies", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 10",
+    "subject": "GK",
+    "difficulty": "VERY HARD",
+    "text": "Which land revenue system, introduced by Thomas Munro in Madras and Bombay presidencies, settled revenue directly with the cultivators?",
+    "explanation": "The Ryotwari system (1820) eliminated intermediaries, making the peasants (ryots) directly responsible for paying land revenue to the British.",
+    "options": [
+      { "text": "Permanent Settlement (Zamindari)", "isCorrect": false },
+      { "text": "Ryotwari System", "isCorrect": true },
+      { "text": "Mahalwari System", "isCorrect": false },
+      { "text": "Dahsala System", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 10",
+    "subject": "GK",
+    "difficulty": "VERY HARD",
+    "text": "The Salt Satyagraha of 1930 began at Sabarmati Ashram and ended at Dandi. What was the approximate distance of this historic march?",
+    "explanation": "The march spanned 24 days from March 12 to April 6, 1930, covering approximately 240 miles (385 km) with 78 satyagrahis.",
+    "options": [
+      { "text": "120 miles", "isCorrect": false },
+      { "text": "240 miles", "isCorrect": true },
+      { "text": "360 miles", "isCorrect": false },
+      { "text": "180 miles", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 10",
+    "subject": "GK",
+    "difficulty": "VERY HARD",
+    "text": "In macroeconomics, what does a 'Liquidity Trap' describe?",
+    "explanation": "A liquidity trap is a situation where interest rates are extremely low and savings rates are high, making consumers hoard cash and rendering expansionary monetary policy ineffective.",
+    "options": [
+      { "text": "A situation where high interest rates cause rapid withdrawal of bank deposits", "isCorrect": false },
+      { "text": "A situation where interest rates are so low that consumers hoard cash, making monetary policy ineffective", "isCorrect": true },
+      { "text": "A collapse of stock exchange due to shortage of foreign capital", "isCorrect": false },
+      { "text": "A state policy where banks are banned from distributing credit", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 10",
+    "subject": "GK",
+    "difficulty": "VERY HARD",
+    "text": "Which Indian scientist is popularly celebrated as the 'Missile Woman of India' for her role in the Agni-IV and Agni-V missile projects?",
+    "explanation": "Dr. Tessy Thomas was the Project Director for the Agni-IV and Agni-V missile systems at DRDO, making her the first woman to lead a missile project in India.",
+    "options": [
+      { "text": "Dr. Gagandeep Kang", "isCorrect": false },
+      { "text": "Dr. Tessy Thomas", "isCorrect": true },
+      { "text": "Dr. Soumya Swaminathan", "isCorrect": false },
+      { "text": "Dr. Ritu Karidhal", "isCorrect": false }
+    ]
+  }
+]

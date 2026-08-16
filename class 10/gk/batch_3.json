@@ -1,0 +1,327 @@
+[
+  {
+    "class": "Class 10",
+    "subject": "GK",
+    "difficulty": "EASY",
+    "text": "Who was the first President of independent India?",
+    "explanation": "Dr. Rajendra Prasad served as the first President of India from 1950 to 1962, and remains the longest-serving President of India.",
+    "options": [
+      { "text": "Dr. Rajendra Prasad", "isCorrect": true },
+      { "text": "Dr. S. Radhakrishnan", "isCorrect": false },
+      { "text": "Jawaharlal Nehru", "isCorrect": false },
+      { "text": "Sardar Vallabhbhai Patel", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 10",
+    "subject": "GK",
+    "difficulty": "EASY",
+    "text": "Which Indian state is famously known as the 'Spice Garden of India'?",
+    "explanation": "Kerala is known as the Spice Garden of India because of its rich diversity of spices like black pepper, cardamom, cinnamon, and cloves.",
+    "options": [
+      { "text": "Karnataka", "isCorrect": false },
+      { "text": "Kerala", "isCorrect": true },
+      { "text": "Tamil Nadu", "isCorrect": false },
+      { "text": "Andhra Pradesh", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 10",
+    "subject": "GK",
+    "difficulty": "EASY",
+    "text": "Which is the smallest country in the world by land area?",
+    "explanation": "Vatican City is the smallest country in the world, covering an area of only about 0.49 square kilometers (121 acres) and surrounded by Rome, Italy.",
+    "options": [
+      { "text": "Monaco", "isCorrect": false },
+      { "text": "San Marino", "isCorrect": false },
+      { "text": "Vatican City", "isCorrect": true },
+      { "text": "Liechtenstein", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 10",
+    "subject": "GK",
+    "difficulty": "EASY",
+    "text": "What is the chemical formula of common table salt?",
+    "explanation": "Common table salt is chemically known as Sodium Chloride, represented by the chemical formula NaCl.",
+    "options": [
+      { "text": "H2O", "isCorrect": false },
+      { "text": "NaCl", "isCorrect": true },
+      { "text": "CO2", "isCorrect": false },
+      { "text": "NaHCO3", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 10",
+    "subject": "GK",
+    "difficulty": "EASY",
+    "text": "Which is the largest animal currently living on Earth?",
+    "explanation": "The Blue Whale is the largest animal ever known to have lived on Earth, reaching lengths of up to 30 meters and weights of over 150 tons.",
+    "options": [
+      { "text": "African Elephant", "isCorrect": false },
+      { "text": "Blue Whale", "isCorrect": true },
+      { "text": "Colossal Squid", "isCorrect": false },
+      { "text": "Giraffe", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 10",
+    "subject": "GK",
+    "difficulty": "EASY",
+    "text": "Which is the national flower of India?",
+    "explanation": "The Nelumbo nucifera, commonly known as the Lotus, is the national flower of India, representing purity, beauty, and divinity.",
+    "options": [
+      { "text": "Rose", "isCorrect": false },
+      { "text": "Lotus", "isCorrect": true },
+      { "text": "Marigold", "isCorrect": false },
+      { "text": "Jasmine", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 10",
+    "subject": "GK",
+    "difficulty": "MEDIUM",
+    "text": "Who served as the first Governor-General of independent India in 1947?",
+    "explanation": "Lord Mountbatten served as the last Viceroy of British India and the first Governor-General of independent India until June 1948, when he was succeeded by C. Rajagopalachari.",
+    "options": [
+      { "text": "C. Rajagopalachari", "isCorrect": false },
+      { "text": "Lord Mountbatten", "isCorrect": true },
+      { "text": "Jawaharlal Nehru", "isCorrect": false },
+      { "text": "Dr. Rajendra Prasad", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 10",
+    "subject": "GK",
+    "difficulty": "MEDIUM",
+    "text": "In which year was the First Battle of Panipat fought, marking the beginning of the Mughal Empire in India?",
+    "explanation": "The First Battle of Panipat was fought in 1526 between the invading forces of Babur and the Lodi Dynasty, leading to the establishment of the Mughal Empire.",
+    "options": [
+      { "text": "1526", "isCorrect": true },
+      { "text": "1556", "isCorrect": false },
+      { "text": "1761", "isCorrect": false },
+      { "text": "1191", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 10",
+    "subject": "GK",
+    "difficulty": "MEDIUM",
+    "text": "Which layer of the Earth's atmosphere contains the ozone layer, which absorbs harmful ultraviolet rays?",
+    "explanation": "The ozone layer is found in the lower region of the Stratosphere, which lies above the Troposphere and below the Mesosphere.",
+    "options": [
+      { "text": "Troposphere", "isCorrect": false },
+      { "text": "Stratosphere", "isCorrect": true },
+      { "text": "Mesosphere", "isCorrect": false },
+      { "text": "Thermosphere", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 10",
+    "subject": "GK",
+    "difficulty": "MEDIUM",
+    "text": "The local self-government 'Panchayati Raj System' was first officially introduced in 1959 in which Indian state?",
+    "explanation": "The Panchayati Raj System was inaugurated by Prime Minister Jawaharlal Nehru on 2 October 1959 in Nagaur district of Rajasthan.",
+    "options": [
+      { "text": "Andhra Pradesh", "isCorrect": false },
+      { "text": "Rajasthan", "isCorrect": true },
+      { "text": "Gujarat", "isCorrect": false },
+      { "text": "Uttar Pradesh", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 10",
+    "subject": "GK",
+    "difficulty": "MEDIUM",
+    "text": "Which Asian country is historically known as the 'Land of the White Elephants'?",
+    "explanation": "Thailand is known as the Land of White Elephants because white elephants are considered sacred animals and symbols of royal power and good fortune in Thai culture.",
+    "options": [
+      { "text": "Myanmar", "isCorrect": false },
+      { "text": "Thailand", "isCorrect": true },
+      { "text": "Cambodia", "isCorrect": false },
+      { "text": "Sri Lanka", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 10",
+    "subject": "GK",
+    "difficulty": "MEDIUM",
+    "text": "What does the term 'Inflation' represent in macroeconomics?",
+    "explanation": "Inflation is a general, sustained increase in the prices of goods and services in an economy over time, which reduces the purchasing power of money.",
+    "options": [
+      { "text": "A decline in general price level", "isCorrect": false },
+      { "text": "A general rise in price levels", "isCorrect": true },
+      { "text": "An increase in employment rate", "isCorrect": false },
+      { "text": "A growth in export volume", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 10",
+    "subject": "GK",
+    "difficulty": "HARD",
+    "text": "Which committee, appointed in 1957, recommended the establishment of a three-tier Panchayati Raj system in India?",
+    "explanation": "The Balwant Rai Mehta Committee recommended the establishment of a three-tier local self-government system consisting of Gram Panchayats, Panchayat Samitis, and Zilla Parishads.",
+    "options": [
+      { "text": "Balwant Rai Mehta Committee", "isCorrect": true },
+      { "text": "Ashok Mehta Committee", "isCorrect": false },
+      { "text": "L.M. Singhvi Committee", "isCorrect": false },
+      { "text": "Sarkaria Commission", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 10",
+    "subject": "GK",
+    "difficulty": "HARD",
+    "text": "Which Mughal Emperor constructed the famous Red Fort (Lal Qila) in Delhi after shifting his capital from Agra?",
+    "explanation": "Emperor Shah Jahan commissioned the construction of the Red Fort in 1638 when he decided to shift his capital from Agra to Delhi (Shahjahanabad).",
+    "options": [
+      { "text": "Akbar", "isCorrect": false },
+      { "text": "Shah Jahan", "isCorrect": true },
+      { "text": "Aurangzeb", "isCorrect": false },
+      { "text": "Jahangir", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 10",
+    "subject": "GK",
+    "difficulty": "HARD",
+    "text": "Which is the largest natural freshwater lake in India, located in Jammu and Kashmir?",
+    "explanation": "Wular Lake is one of the largest freshwater lakes in Asia, fed by the Jhelum River, and plays a major role in the regional ecology.",
+    "options": [
+      { "text": "Chilika Lake", "isCorrect": false },
+      { "text": "Wular Lake", "isCorrect": true },
+      { "text": "Loktak Lake", "isCorrect": false },
+      { "text": "Dal Lake", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 10",
+    "subject": "GK",
+    "difficulty": "HARD",
+    "text": "Who was the first Indian woman to successfully scale Mount Everest, achieving the feat in 1984?",
+    "explanation": "Bachendri Pal scaled Mount Everest on 23 May 1984, becoming the first Indian woman and the fifth woman in the world to reach the summit.",
+    "options": [
+      { "text": "Santosh Yadav", "isCorrect": false },
+      { "text": "Bachendri Pal", "isCorrect": true },
+      { "text": "Premlata Agrawal", "isCorrect": false },
+      { "text": "Arunima Sinha", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 10",
+    "subject": "GK",
+    "difficulty": "HARD",
+    "text": "What is the official currency of Japan?",
+    "explanation": "The Japanese Yen, symbolized as ¥, is the official currency of Japan and is the third most traded currency in the foreign exchange market.",
+    "options": [
+      { "text": "Won", "isCorrect": false },
+      { "text": "Yuan", "isCorrect": false },
+      { "text": "Yen", "isCorrect": true },
+      { "text": "Baht", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 10",
+    "subject": "GK",
+    "difficulty": "HARD",
+    "text": "Which country hosted the first modern Olympic Games in 1896?",
+    "explanation": "The first modern Olympic Games were held in Athens, Greece, in 1896 under the auspices of the newly created International Olympic Committee (IOC).",
+    "options": [
+      { "text": "France", "isCorrect": false },
+      { "text": "United Kingdom", "isCorrect": false },
+      { "text": "Greece", "isCorrect": true },
+      { "text": "United States", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 10",
+    "subject": "GK",
+    "difficulty": "VERY HARD",
+    "text": "The landmark 'Tashkent Agreement' of 1966 was signed between India and Pakistan following which armed conflict?",
+    "explanation": "The Tashkent Agreement was signed on 10 January 1966 by Prime Minister Lal Bahadur Shastri and President Ayub Khan to resolve the Indo-Pakistani War of 1965.",
+    "options": [
+      { "text": "Indo-Pakistani War of 1947", "isCorrect": false },
+      { "text": "Indo-Pakistani War of 1965", "isCorrect": true },
+      { "text": "Bangladesh Liberation War of 1971", "isCorrect": false },
+      { "text": "Kargil War of 1999", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 10",
+    "subject": "GK",
+    "difficulty": "VERY HARD",
+    "text": "Who was the author of the ancient Sanskrit political play 'Mudrarakshasa', which narrates the ascent of Chandragupta Maurya to power?",
+    "explanation": "Vishakhadatta was a Sanskrit poet and playwright who wrote the historical drama 'Mudrarakshasa' during the late Gupta period.",
+    "options": [
+      { "text": "Kalidasa", "isCorrect": false },
+      { "text": "Vishakhadatta", "isCorrect": true },
+      { "text": "Bhasa", "isCorrect": false },
+      { "text": "Sudraka", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 10",
+    "subject": "GK",
+    "difficulty": "VERY HARD",
+    "text": "The 'Karakum Desert', known for its famous 'Door to Hell' gas crater, is located in which Central Asian nation?",
+    "explanation": "The Karakum Desert occupies about 70 percent of the area of Turkmenistan and contains the Darvaza gas crater, a natural gas field that has been burning since 1971.",
+    "options": [
+      { "text": "Uzbekistan", "isCorrect": false },
+      { "text": "Turkmenistan", "isCorrect": true },
+      { "text": "Kazakhstan", "isCorrect": false },
+      { "text": "Kyrgyzstan", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 10",
+    "subject": "GK",
+    "difficulty": "VERY HARD",
+    "text": "Which economic model served as the blueprint and foundation for India's Second Five-Year Plan (1956-1961), emphasizing heavy industrialization?",
+    "explanation": "The Mahalanobis Model, formulated by Indian statistician Prasanta Chandra Mahalanobis, prioritized rapid development of basic and heavy industries to promote self-reliance.",
+    "options": [
+      { "text": "Harrod-Domar Model", "isCorrect": false },
+      { "text": "Mahalanobis Model", "isCorrect": true },
+      { "text": "Rao-Manmohan Model", "isCorrect": false },
+      { "text": "Gandhian Economic Model", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 10",
+    "subject": "GK",
+    "difficulty": "VERY HARD",
+    "text": "The 'Nokrek Biosphere Reserve', which is one of the key habitats of the red panda and a major UNESCO World Network site, is located in which Indian state?",
+    "explanation": "The Nokrek Biosphere Reserve is located in the West Garo Hills district of Meghalaya, and comprises the Nokrek National Park.",
+    "options": [
+      { "text": "Sikkim", "isCorrect": false },
+      { "text": "Meghalaya", "isCorrect": true },
+      { "text": "Arunachal Pradesh", "isCorrect": false },
+      { "text": "Manipur", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 10",
+    "subject": "GK",
+    "difficulty": "VERY HARD",
+    "text": "Which visionary Indian physicist is celebrated as the 'Father of the Indian Space Program' and was instrumental in establishing ISRO?",
+    "explanation": "Dr. Vikram Sarabhai was a pioneer who established the Physical Research Laboratory and successfully convinced the government of the importance of space research, founding INCOSPAR (later ISRO).",
+    "options": [
+      { "text": "Homi J. Bhabha", "isCorrect": false },
+      { "text": "Vikram Sarabhai", "isCorrect": true },
+      { "text": "A.P.J. Abdul Kalam", "isCorrect": false },
+      { "text": "Satish Dhawan", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 10",
+    "subject": "GK",
+    "difficulty": "VERY HARD",
+    "text": "The international boundary line between India and China in the eastern sector, proposed during the Simla Accord of 1914, is known as which line?",
+    "explanation": "The McMahon Line is the boundary line proposed by Sir Henry McMahon at the Simla Convention, which is recognized by India as its official border but contested by China.",
+    "options": [
+      { "text": "Radcliffe Line", "isCorrect": false },
+      { "text": "McMahon Line", "isCorrect": true },
+      { "text": "Durand Line", "isCorrect": false },
+      { "text": "Line of Control (LoC)", "isCorrect": false }
+    ]
+  }
+]

@@ -1,0 +1,152 @@
+[
+  {
+    "text": "From the following common size statement percentages, which one represents the percentage of net sales to total assets?",
+    "options": [
+      "30%",
+      "40%",
+      "50%",
+      "60%"
+    ],
+    "correctAnswer": "40%",
+    "explanation": "Common size statement percentages are calculated by expressing each item of the financial statement as a percentage of a base item. In this case, the percentage of net sales to total assets is calculated by dividing net sales by total assets and multiplying by 100.",
+    "difficulty": "Easy",
+    "class": "Class 12",
+    "subject": "Accountancy",
+    "chapter": "Ch 9: Analysis of Financial Statements"
+  },
+  {
+    "text": "What is the purpose of comparative financial statements?",
+    "options": [
+      "To compare the financial position of two companies",
+      "To compare the financial position of a company over a period of time",
+      "To compare the financial position of a company with its competitors",
+      "To compare the financial position of a company with its industry"
+    ],
+    "correctAnswer": "To compare the financial position of a company over a period of time",
+    "explanation": "Comparative financial statements are used to compare the financial position of a company over a period of time. This helps to identify trends and changes in the company's financial position.",
+    "difficulty": "Easy",
+    "class": "Class 12",
+    "subject": "Accountancy",
+    "chapter": "Ch 9: Analysis of Financial Statements"
+  },
+  {
+    "text": "What is the formula for calculating the percentage of net profit to net sales?",
+    "options": [
+      "($Net Profit ÷ Net Sales) × 100",
+      "($Net Sales ÷ Net Profit) × 100",
+      "($Net Profit ÷ Total Assets) × 100",
+      "($Total Assets ÷ Net Profit) × 100"
+    ],
+    "correctAnswer": "($Net Profit ÷ Net Sales) × 100",
+    "explanation": "The percentage of net profit to net sales is calculated by dividing net profit by net sales and multiplying by 100.",
+    "difficulty": "Medium",
+    "class": "Class 12",
+    "subject": "Accountancy",
+    "chapter": "Ch 9: Analysis of Financial Statements"
+  },
+  {
+    "text": "What is the purpose of common size statement percentages?",
+    "options": [
+      "To compare the financial position of two companies",
+      "To compare the financial position of a company over a period of time",
+      "To compare the financial position of a company with its competitors",
+      "To enable comparison of financial statements of different companies"
+    ],
+    "correctAnswer": "To enable comparison of financial statements of different companies",
+    "explanation": "Common size statement percentages are used to enable comparison of financial statements of different companies. This helps to identify trends and changes in the company's financial position.",
+    "difficulty": "Medium",
+    "class": "Class 12",
+    "subject": "Accountancy",
+    "chapter": "Ch 9: Analysis of Financial Statements"
+  },
+  {
+    "text": "What is the formula for calculating the percentage of total assets to net sales?",
+    "options": [
+      "($Total Assets ÷ Net Sales) × 100",
+      "($Net Sales ÷ Total Assets) × 100",
+      "($Net Profit ÷ Total Assets) × 100",
+      "($Total Assets ÷ Net Profit) × 100"
+    ],
+    "correctAnswer": "($Total Assets ÷ Net Sales) × 100",
+    "explanation": "The percentage of total assets to net sales is calculated by dividing total assets by net sales and multiplying by 100.",
+    "difficulty": "Medium",
+    "class": "Class 12",
+    "subject": "Accountancy",
+    "chapter": "Ch 9: Analysis of Financial Statements"
+  },
+  {
+    "text": "What is the difference between comparative financial statements and common size statement percentages?",
+    "options": [
+      "Comparative financial statements compare the financial position of a company over a period of time, while common size statement percentages compare the financial position of two companies.",
+      "Comparative financial statements compare the financial position of two companies, while common size statement percentages compare the financial position of a company over a period of time.",
+      "Comparative financial statements compare the financial position of a company over a period of time, while common size statement percentages compare the financial position of a company with its competitors.",
+      "Comparative financial statements compare the financial position of a company with its competitors, while common size statement percentages compare the financial position of a company over a period of time."
+    ],
+    "correctAnswer": "Comparative financial statements compare the financial position of a company over a period of time, while common size statement percentages compare the financial position of two companies.",
+    "explanation": "Comparative financial statements are used to compare the financial position of a company over a period of time, while common size statement percentages are used to compare the financial position of two companies.",
+    "difficulty": "Hard",
+    "class": "Class 12",
+    "subject": "Accountancy",
+    "chapter": "Ch 9: Analysis of Financial Statements"
+  },
+  {
+    "text": "What is the formula for calculating the percentage of net profit to total assets?",
+    "options": [
+      "($Net Profit ÷ Total Assets) × 100",
+      "($Total Assets ÷ Net Profit) × 100",
+      "($Net Profit ÷ Net Sales) × 100",
+      "($Net Sales ÷ Total Assets) × 100"
+    ],
+    "correctAnswer": "($Net Profit ÷ Total Assets) × 100",
+    "explanation": "The percentage of net profit to total assets is calculated by dividing net profit by total assets and multiplying by 100.",
+    "difficulty": "Medium",
+    "class": "Class 12",
+    "subject": "Accountancy",
+    "chapter": "Ch 9: Analysis of Financial Statements"
+  },
+  {
+    "text": "What is the purpose of ratio analysis?",
+    "options": [
+      "To compare the financial position of two companies",
+      "To compare the financial position of a company over a period of time",
+      "To compare the financial position of a company with its competitors",
+      "To enable comparison of financial statements of different companies"
+    ],
+    "correctAnswer": "To enable comparison of financial statements of different companies",
+    "explanation": "Ratio analysis is used to enable comparison of financial statements of different companies. This helps to identify trends and changes in the company's financial position.",
+    "difficulty": "Medium",
+    "class": "Class 12",
+    "subject": "Accountancy",
+    "chapter": "Ch 9: Analysis of Financial Statements"
+  },
+  {
+    "text": "What is the formula for calculating the percentage of total assets to net profit?",
+    "options": [
+      "($Total Assets ÷ Net Profit) × 100",
+      "($Net Profit ÷ Total Assets) × 100",
+      "($Net Profit ÷ Net Sales) × 100",
+      "($Net Sales ÷ Total Assets) × 100"
+    ],
+    "correctAnswer": "($Total Assets ÷ Net Profit) × 100",
+    "explanation": "The percentage of total assets to net profit is calculated by dividing total assets by net profit and multiplying by 100.",
+    "difficulty": "Medium",
+    "class": "Class 12",
+    "subject": "Accountancy",
+    "chapter": "Ch 9: Analysis of Financial Statements"
+  },
+  {
+    "text": "What is the difference between common size statement percentages and ratio analysis?",
+    "options": [
+      "Common size statement percentages compare the financial position of two companies, while ratio analysis compares the financial position of a company over a period of time.",
+      "Common size statement percentages compare the financial position of a company over a period of time, while ratio analysis compares the financial position of two companies.",
+      "Common size statement percentages compare the financial position of a company with its competitors, while ratio analysis compares the financial position of a company over a period of time.",
+      "Common size statement percentages compare the financial position of a company over a period of time, while ratio analysis compares the financial position of two companies."
+    ],
+    "correctAnswer": "Common size statement percentages compare the financial position of a company over a period of time, while ratio analysis compares the financial position of two companies.",
+    "explanation": "Common size statement percentages are used to compare the financial position of a company over a period of time, while ratio analysis is used to compare the financial position of two companies.",
+    "difficulty": "Hard",
+    "class": "Class 12",
+    "subject": "Accountancy",
+    "chapter": "Ch 9: Analysis of Financial Statements"
+  }
+]

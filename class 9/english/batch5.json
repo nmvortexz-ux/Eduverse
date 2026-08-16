@@ -1,0 +1,327 @@
+[
+  {
+    "class": "Class 9",
+    "subject": "English",
+    "difficulty": "E",
+    "text": "What does the title 'A Truly Beautiful Mind' refer to?",
+    "explanation": "The title refers to Albert Einstein, whose mind was not only brilliant in science but also beautiful due to his advocacy for world peace and humanity.",
+    "options": [
+      { "text": "Isaac Newton", "isCorrect": false },
+      { "text": "Albert Einstein", "isCorrect": true },
+      { "text": "Stephen Hawking", "isCorrect": false },
+      { "text": "Thomas Edison", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 9",
+    "subject": "English",
+    "difficulty": "E",
+    "text": "In the poem 'The Lake Isle of Innisfree', what kind of place is Innisfree?",
+    "explanation": "Innisfree is a peaceful, quiet, and natural island where the poet spent time in his childhood.",
+    "options": [
+      { "text": "A busy industrial city", "isCorrect": false },
+      { "text": "A peaceful natural island", "isCorrect": true },
+      { "text": "A crowded market town", "isCorrect": false },
+      { "text": "A dry desert region", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 9",
+    "subject": "English",
+    "difficulty": "E",
+    "text": "In 'The Little Girl', what did Kezia's father do on Sundays?",
+    "explanation": "On Sunday afternoons, Kezia's father would stretch out on the sofa, cover his face with a handkerchief, and sleep soundly.",
+    "options": [
+      { "text": "He took the family out for picnics", "isCorrect": false },
+      { "text": "He slept soundly on the sofa", "isCorrect": true },
+      { "text": "He taught Kezia how to read", "isCorrect": false },
+      { "text": "He worked in the garden", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 9",
+    "subject": "English",
+    "difficulty": "E",
+    "text": "In 'The Sound of Music' (Part I), where did Evelyn Glennie get admission to study music?",
+    "explanation": "Evelyn Glennie auditioned for and was selected by the Royal Academy of Music in London.",
+    "options": [
+      { "text": "Royal Academy of Music, London", "isCorrect": true },
+      { "text": "Juilliard School, New York", "isCorrect": false },
+      { "text": "Conservatoire de Paris", "isCorrect": false },
+      { "text": "Vienna Music University", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 9",
+    "subject": "English",
+    "difficulty": "E",
+    "text": "What does the poet of 'Wind' compare the wind's actions to in the beginning of the poem?",
+    "explanation": "In the beginning, the poet describes the wind breaking the shutters of windows, scattering papers, and throwing down books.",
+    "options": [
+      { "text": "Gently watering the fields", "isCorrect": false },
+      { "text": "Breaking window shutters and throwing books", "isCorrect": true },
+      { "text": "Making soft music", "isCorrect": false },
+      { "text": "Guiding ships safely", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 9",
+    "subject": "English",
+    "difficulty": "E",
+    "text": "In 'The Adventures of Toto', where did Grandfather keep Toto initially to hide him from Grandmother?",
+    "explanation": "Toto was kept in a little closet opening into the narrator's bedroom wall, tied securely to a peg.",
+    "options": [
+      { "text": "In the garden cage", "isCorrect": false },
+      { "text": "In a little closet in the narrator's bedroom", "isCorrect": true },
+      { "text": "Under the kitchen table", "isCorrect": false },
+      { "text": "In the stable with Nana the donkey", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 9",
+    "subject": "English",
+    "difficulty": "M",
+    "text": "In 'The Lost Child', how does the author describe the onset of spring and the crowd going to the fair?",
+    "explanation": "People emerged from the narrow lanes clad in gay attire, some walking, some riding on horses, and others in bullock carts, joyful and full of life.",
+    "options": [
+      { "text": "People were sad and walking silently due to cold weather", "isCorrect": false },
+      { "text": "People emerged from narrow lanes in colorful clothes, full of joy and excitement", "isCorrect": true },
+      { "text": "People were rushing in cars and buses to reach the fair early", "isCorrect": false },
+      { "text": "The lanes were deserted because of dust storms", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 9",
+    "subject": "English",
+    "difficulty": "M",
+    "text": "Complete the sentence with the correct prepositional phrase: 'He succeeded ___ hard work.'",
+    "explanation": "'By dint of' means 'by means of' or 'because of', which is the correct idiomatic phrase to associate success with hard work.",
+    "options": [
+      { "text": "by dint of", "isCorrect": true },
+      { "text": "by way of", "isCorrect": false },
+      { "text": "in spite of", "isCorrect": false },
+      { "text": "with respect to", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 9",
+    "subject": "English",
+    "difficulty": "M",
+    "text": "In 'In the Kingdom of Fools', how did the Guru save his disciple's life from execution?",
+    "explanation": "He confused the king by stating that whoever died on the new stake first would be reborn as the king of the kingdom in the next life.",
+    "options": [
+      { "text": "He fought the king's army with his magical powers", "isCorrect": false },
+      { "text": "He claimed that the person executed on the stake first would become the next King", "isCorrect": true },
+      { "text": "He proved the merchant's wall was built by the disciple's father", "isCorrect": false },
+      { "text": "He offered the king a large sum of gold in exchange for the disciple", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 9",
+    "subject": "English",
+    "difficulty": "M",
+    "text": "Choose the sentence that correctly uses the passive voice: 'Someone has stolen my watch.'",
+    "explanation": "Present perfect active 'has stolen' changes to 'has been stolen' in passive voice.",
+    "options": [
+      { "text": "My watch was stolen.", "isCorrect": false },
+      { "text": "My watch has been stolen.", "isCorrect": true },
+      { "text": "My watch is being stolen.", "isCorrect": false },
+      { "text": "My watch had been stolen.", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 9",
+    "subject": "English",
+    "difficulty": "M",
+    "text": "In the poem 'Wind', what does the wind symbolize in human life?",
+    "explanation": "The wind symbolizes the challenges, obstacles, and hardships that humans face in their lives.",
+    "options": [
+      { "text": "Wealth and prosperity", "isCorrect": false },
+      { "text": "Challenges and hardships of life", "isCorrect": true },
+      { "text": "The passage of time", "isCorrect": false },
+      { "text": "The gentleness of nature", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 9",
+    "subject": "English",
+    "difficulty": "M",
+    "text": "In 'My Childhood', who were Kalam's three close childhood friends?",
+    "explanation": "Kalam's three friends from orthodox Hindu Brahmin families were Ramanadha Sastry, Aravindan, and Sivaprakasan.",
+    "options": [
+      { "text": "Ramanadha Sastry, Aravindan, and Sivaprakasan", "isCorrect": true },
+      { "text": "Samsuddin, Jallaluddin, and Sivasubramania", "isCorrect": false },
+      { "text": "Salim, Yousuf, and Abdul", "isCorrect": false },
+      { "text": "Raman, Krishna, and Hari", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 9",
+    "subject": "English",
+    "difficulty": "M",
+    "text": "Identify the option that correctly changes direct speech into indirect speech: 'My father said, \"Honesty is the best policy.\"'",
+    "explanation": "Universal truths and habits do not change their tense in reported speech.",
+    "options": [
+      { "text": "My father said that honesty was the best policy.", "isCorrect": false },
+      { "text": "My father said that honesty is the best policy.", "isCorrect": true },
+      { "text": "My father told that honesty is the best policy.", "isCorrect": false },
+      { "text": "My father says that honesty is the best policy.", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 9",
+    "subject": "English",
+    "difficulty": "M",
+    "text": "In 'The Sound of Music' (Part II), why did Bismillah Khan refuse to start a shehnai school in the USA?",
+    "explanation": "Bismillah Khan loved India, the Ganga, and Dumraon deeply and could not think of living away from them.",
+    "options": [
+      { "text": "Because they did not offer him enough money", "isCorrect": false },
+      { "text": "Because he could not live away from India, the Ganga, and Dumraon", "isCorrect": true },
+      { "text": "Because he was not allowed to perform classical ragas there", "isCorrect": false },
+      { "text": "Because he feared traveling by air", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 9",
+    "subject": "English",
+    "difficulty": "M",
+    "text": "Choose the correct verb form for the blank: 'Either the teacher or his assistants ___ grading the papers.'",
+    "explanation": "When subjects are connected by 'either... or', the verb agrees with the subject closest to it ('assistants' is plural, so 'are').",
+    "options": [
+      { "text": "is", "isCorrect": false },
+      { "text": "are", "isCorrect": true },
+      { "text": "was", "isCorrect": false },
+      { "text": "has been", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 9",
+    "subject": "English",
+    "difficulty": "H",
+    "text": "In 'The Adventures of Toto', why did the ticket-collector charge Grandfather three rupees for Toto at Saharanpur station?",
+    "explanation": "The ticket-collector classified Toto as a dog under the railway rule book and charged fare accordingly.",
+    "options": [
+      { "text": "Because monkeys were banned on the train", "isCorrect": false },
+      { "text": "Because he classified Toto as a dog and charged for it", "isCorrect": true },
+      { "text": "Because Grandfather had not bought a luggage ticket", "isCorrect": false },
+      { "text": "Because Toto had damaged railway property", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 9",
+    "subject": "English",
+    "difficulty": "H",
+    "text": "What is the central paradox present in the play 'If I Were You'?",
+    "explanation": "The intruder thinks he is control because he has a gun, but Gerrard's intelligence and quick wit make him the one who manipulates the entire situation.",
+    "options": [
+      { "text": "Gerrard is actually the intruder's long-lost brother", "isCorrect": false },
+      { "text": "The armed intruder is outsmarted by the unarmed playwright using words alone", "isCorrect": true },
+      { "text": "The police arrest Gerrard thinking he is the intruder", "isCorrect": false },
+      { "text": "The cottage belongs to the police inspector", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 9",
+    "subject": "English",
+    "difficulty": "H",
+    "text": "In 'The Fun They Had', what did Margie write in her diary on 17 May 2157?",
+    "explanation": "Margie wrote, 'Today Tommy found a real book!', which was a major discovery for children who only studied on telebooks.",
+    "options": [
+      { "text": "She wrote about her geography test scores", "isCorrect": false },
+      { "text": "She wrote: 'Today Tommy found a real book!'", "isCorrect": true },
+      { "text": "She wrote about her hatred for school", "isCorrect": false },
+      { "text": "She wrote about the County Inspector's visit", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 9",
+    "subject": "English",
+    "difficulty": "H",
+    "text": "What is the grammatical error in the sentence: 'She is senior than me in service, so I must respect her.'",
+    "explanation": "Adjectives like senior, junior, superior, inferior are followed by the preposition 'to', not the conjunction 'than'.",
+    "options": [
+      { "text": "Replace 'so' with 'yet'", "isCorrect": false },
+      { "text": "Replace 'senior than' with 'senior to'", "isCorrect": true },
+      { "text": "Replace 'must' with 'should have'", "isCorrect": false },
+      { "text": "Replace 'in' with 'for'", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 9",
+    "subject": "English",
+    "difficulty": "H",
+    "text": "In 'Weathering the Storm in Ersama', how did Prashant help the orphans and widows of his village?",
+    "explanation": "He organized a sports event (cricket match) for children and mobilized women to look after orphans, while men secured food.",
+    "options": [
+      { "text": "He sent them to big orphanages in the city", "isCorrect": false },
+      { "text": "He set up foster families with widows and orphans, and organized sports for children", "isCorrect": true },
+      { "text": "He asked the government to give them cash pensions immediately", "isCorrect": false },
+      { "text": "He built separate shelters for widows and children", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 9",
+    "subject": "English",
+    "difficulty": "H",
+    "text": "Identify the sentence that represents correct usage of the subjunctive mood:",
+    "explanation": "The subjunctive mood for expressing a wish/condition contrary to fact uses 'were' for all subjects ('If I were...').",
+    "options": [
+      { "text": "If I was the Prime Minister, I would change the education system.", "isCorrect": false },
+      { "text": "If I were the Prime Minister, I would change the education system.", "isCorrect": true },
+      { "text": "If I am the Prime Minister, I will change the education system.", "isCorrect": false },
+      { "text": "If I would be the Prime Minister, I would change the education system.", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 9",
+    "subject": "English",
+    "difficulty": "VH",
+    "text": "In 'A Truly Beautiful Mind', what did Einstein's letter to President Franklin D. Roosevelt in 1939 warn him about, and what was its unexpected consequence?",
+    "explanation": "He warned about the potential of a German atomic bomb, which prompted the US to secretly launch the Manhattan Project to build their own atomic bomb.",
+    "options": [
+      { "text": "He warned about Nazi Germany invading Poland, leading to US entering the war", "isCorrect": false },
+      { "text": "He warned about German atomic research, which led to the secret US Manhattan Project", "isCorrect": true },
+      { "text": "He warned about economic collapse, leading to the creation of the United Nations", "isCorrect": false },
+      { "text": "He warned about weapon space race, leading to NASA's establishment", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 9",
+    "subject": "English",
+    "difficulty": "VH",
+    "text": "Analyze the sentence: 'No sooner did he see the police ___ he fled.' Which word correctly completes this negative introductory structure?",
+    "explanation": "'No sooner' is followed by 'than' to connect the main clause in time-bound sentences.",
+    "options": [
+      { "text": "when", "isCorrect": false },
+      { "text": "than", "isCorrect": true },
+      { "text": "then", "isCorrect": false },
+      { "text": "before", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 9",
+    "subject": "English",
+    "difficulty": "VH",
+    "text": "In 'The Lost Child', what does the child's final silence and refusal of the toys and sweets suggest about human relationships?",
+    "explanation": "It shows that material pleasures are meaningless to a child compared to the security and love provided by their parents.",
+    "options": [
+      { "text": "The child had lost interest in playing games because he was tired", "isCorrect": false },
+      { "text": "Material things are secondary, and parental presence is the supreme source of security and love", "isCorrect": true },
+      { "text": "The stranger's behavior made the child suspicious and quiet", "isCorrect": false },
+      { "text": "The child was angry at the merchant for not selling him cheap items", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 9",
+    "subject": "English",
+    "difficulty": "VH",
+    "text": "Identify the clause category of the underlined part: 'He will go <u>wherever you send him</u>.'",
+    "explanation": "The underlined clause modifies the verb 'will go' by indicating place, so it is an Adverb Clause of Place.",
+    "options": [
+      { "text": "Noun Clause", "isCorrect": false },
+      { "text": "Adverb Clause of Place", "isCorrect": true },
+      { "text": "Adjective Clause", "isCorrect": false },
+      { "text": "Relative Clause", "isCorrect": false }
+    ]
+  }
+]

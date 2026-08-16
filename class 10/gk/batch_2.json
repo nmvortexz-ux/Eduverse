@@ -1,0 +1,327 @@
+[
+  {
+    "class": "Class 10",
+    "subject": "GK",
+    "difficulty": "EASY",
+    "text": "Who wrote the national anthem of India, 'Jana Gana Mana'?",
+    "explanation": "Rabindranath Tagore wrote the national anthem of India, which was originally composed in Bengali as 'Bharoto Bhagyo Bidhata' and adopted in its Hindi version in 1950.",
+    "options": [
+      { "text": "Rabindranath Tagore", "isCorrect": true },
+      { "text": "Bankim Chandra Chattopadhyay", "isCorrect": false },
+      { "text": "Subhas Chandra Bose", "isCorrect": false },
+      { "text": "Sarojini Naidu", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 10",
+    "subject": "GK",
+    "difficulty": "EASY",
+    "text": "What is the minimum age required to become the Prime Minister of India?",
+    "explanation": "To be the Prime Minister of India, a person must be a member of either the Lok Sabha (minimum age 25) or the Rajya Sabha (minimum age 30). Thus, the absolute minimum age is 25 years.",
+    "options": [
+      { "text": "18 years", "isCorrect": false },
+      { "text": "21 years", "isCorrect": false },
+      { "text": "25 years", "isCorrect": true },
+      { "text": "35 years", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 10",
+    "subject": "GK",
+    "difficulty": "EASY",
+    "text": "Which is the highest mountain peak located entirely within India?",
+    "explanation": "Kanchenjunga is the highest mountain peak in India and the third highest in the world, located on the border between India (Sikkim) and Nepal.",
+    "options": [
+      { "text": "Mount Everest", "isCorrect": false },
+      { "text": "K2 (Godwin-Austen)", "isCorrect": false },
+      { "text": "Kanchenjunga", "isCorrect": true },
+      { "text": "Nanda Devi", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 10",
+    "subject": "GK",
+    "difficulty": "EASY",
+    "text": "Which planet in our solar system is known as the 'Red Planet'?",
+    "explanation": "Mars is known as the Red Planet due to the presence of iron oxide (rust) on its surface, giving it a reddish appearance.",
+    "options": [
+      { "text": "Venus", "isCorrect": false },
+      { "text": "Mars", "isCorrect": true },
+      { "text": "Jupiter", "isCorrect": false },
+      { "text": "Saturn", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 10",
+    "subject": "GK",
+    "difficulty": "EASY",
+    "text": "Which institution is known as the 'Banker's Bank' in India?",
+    "explanation": "The Reserve Bank of India (RBI) acts as the Banker's Bank because it regulates and provides financial support and liquidity to all commercial banks in India.",
+    "options": [
+      { "text": "State Bank of India", "isCorrect": false },
+      { "text": "Reserve Bank of India", "isCorrect": true },
+      { "text": "Punjab National Bank", "isCorrect": false },
+      { "text": "HDFC Bank", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 10",
+    "subject": "GK",
+    "difficulty": "EASY",
+    "text": "What is the official currency of the United Kingdom?",
+    "explanation": "The official currency of the United Kingdom is the Pound Sterling, symbolized by £.",
+    "options": [
+      { "text": "Euro", "isCorrect": false },
+      { "text": "US Dollar", "isCorrect": false },
+      { "text": "Pound Sterling", "isCorrect": true },
+      { "text": "Yen", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 10",
+    "subject": "GK",
+    "difficulty": "MEDIUM",
+    "text": "In which year was the partition of Bengal announced by the Viceroy of India, Lord Curzon?",
+    "explanation": "Lord Curzon announced the Partition of Bengal in July 1905, separating the largely Muslim eastern areas from the largely Hindu western areas, leading to widespread Swadeshi protests.",
+    "options": [
+      { "text": "1905", "isCorrect": true },
+      { "text": "1909", "isCorrect": false },
+      { "text": "1911", "isCorrect": false },
+      { "text": "1919", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 10",
+    "subject": "GK",
+    "difficulty": "MEDIUM",
+    "text": "Which organ in the human body produces the hormone insulin?",
+    "explanation": "The pancreas produces insulin, which regulates blood glucose levels by helping cells absorb glucose for energy.",
+    "options": [
+      { "text": "Liver", "isCorrect": false },
+      { "text": "Pancreas", "isCorrect": true },
+      { "text": "Kidney", "isCorrect": false },
+      { "text": "Thyroid", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 10",
+    "subject": "GK",
+    "difficulty": "MEDIUM",
+    "text": "The Tropic of Cancer does not pass through which of the following Indian states?",
+    "explanation": "The Tropic of Cancer passes through eight Indian states: Gujarat, Rajasthan, Madhya Pradesh, Chhattisgarh, Jharkhand, West Bengal, Tripura, and Mizoram. It does not pass through Odisha.",
+    "options": [
+      { "text": "Rajasthan", "isCorrect": false },
+      { "text": "Chhattisgarh", "isCorrect": false },
+      { "text": "West Bengal", "isCorrect": false },
+      { "text": "Odisha", "isCorrect": true }
+    ]
+  },
+  {
+    "class": "Class 10",
+    "subject": "GK",
+    "difficulty": "MEDIUM",
+    "text": "Who was the first woman President of India?",
+    "explanation": "Pratibha Patil served as the 12th President of India from 2007 to 2012, becoming the first woman to hold the office.",
+    "options": [
+      { "text": "Indira Gandhi", "isCorrect": false },
+      { "text": "Pratibha Patil", "isCorrect": true },
+      { "text": "Droupadi Murmu", "isCorrect": false },
+      { "text": "Sarojini Naidu", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 10",
+    "subject": "GK",
+    "difficulty": "MEDIUM",
+    "text": "Which country is internationally known as the 'Land of the Midnight Sun'?",
+    "explanation": "Norway is called the Land of the Midnight Sun because parts of the country lie north of the Arctic Circle, where the sun remains visible for a continuous 24 hours during summer.",
+    "options": [
+      { "text": "Japan", "isCorrect": false },
+      { "text": "Norway", "isCorrect": true },
+      { "text": "Finland", "isCorrect": false },
+      { "text": "Canada", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 10",
+    "subject": "GK",
+    "difficulty": "MEDIUM",
+    "text": "What does the abbreviation 'GST' stand for in the Indian economic and taxation system?",
+    "explanation": "GST stands for Goods and Services Tax, which is an indirect tax introduced in India on 1 July 2017 to replace multiple cascading taxes levied by the central and state governments.",
+    "options": [
+      { "text": "Government Sales Tax", "isCorrect": false },
+      { "text": "Goods and Services Tax", "isCorrect": true },
+      { "text": "General Sales Tariff", "isCorrect": false },
+      { "text": "Gross Services Tax", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 10",
+    "subject": "GK",
+    "difficulty": "HARD",
+    "text": "Who founded the 'Servants of India Society' in Pune in 1905?",
+    "explanation": "Gopal Krishna Gokhale, a prominent moderate leader of the Indian National Congress, founded the Servants of India Society to promote education, sanitation, and social development.",
+    "options": [
+      { "text": "Gopal Krishna Gokhale", "isCorrect": true },
+      { "text": "Bal Gangadhar Tilak", "isCorrect": false },
+      { "text": "Lala Lajpat Rai", "isCorrect": false },
+      { "text": "Dadabhai Naoroji", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 10",
+    "subject": "GK",
+    "difficulty": "HARD",
+    "text": "Which Article of the Constitution of India contains the provisions for the 'Right to Education'?",
+    "explanation": "Article 21A, added by the 86th Constitutional Amendment Act of 2002, directs the state to provide free and compulsory education to all children aged 6 to 14 years.",
+    "options": [
+      { "text": "Article 19", "isCorrect": false },
+      { "text": "Article 21A", "isCorrect": true },
+      { "text": "Article 45", "isCorrect": false },
+      { "text": "Article 51A", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 10",
+    "subject": "GK",
+    "difficulty": "HARD",
+    "text": "Which is the longest river in the continent of Europe?",
+    "explanation": "The Volga River, flowing entirely through Russia, is the longest river in Europe and discharges into the Caspian Sea.",
+    "options": [
+      { "text": "Danube River", "isCorrect": false },
+      { "text": "Rhine River", "isCorrect": false },
+      { "text": "Volga River", "isCorrect": true },
+      { "text": "Seine River", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 10",
+    "subject": "GK",
+    "difficulty": "HARD",
+    "text": "In which year was the National Bank for Agriculture and Rural Development (NABARD) established in India?",
+    "explanation": "NABARD was established on 12 July 1982 under the NABARD Act 1981, as the apex development finance institution for agriculture and rural development.",
+    "options": [
+      { "text": "1975", "isCorrect": false },
+      { "text": "1982", "isCorrect": true },
+      { "text": "1991", "isCorrect": false },
+      { "text": "2001", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 10",
+    "subject": "GK",
+    "difficulty": "HARD",
+    "text": "The 'Barda Wildlife Sanctuary' is located in which Indian state?",
+    "explanation": "Barda Wildlife Sanctuary is located in Gujarat, about 15 kilometers from Porbandar, and is characterized by a hilly terrain and rich dry deciduous forest.",
+    "options": [
+      { "text": "Rajasthan", "isCorrect": false },
+      { "text": "Gujarat", "isCorrect": true },
+      { "text": "Madhya Pradesh", "isCorrect": false },
+      { "text": "Maharashtra", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 10",
+    "subject": "GK",
+    "difficulty": "HARD",
+    "text": "Which international organization publishes the biannual 'World Economic Outlook' report?",
+    "explanation": "The International Monetary Fund (IMF) publishes the World Economic Outlook report, containing global economic analyses and forecasts.",
+    "options": [
+      { "text": "World Bank", "isCorrect": false },
+      { "text": "World Economic Forum", "isCorrect": false },
+      { "text": "International Monetary Fund", "isCorrect": true },
+      { "text": "World Trade Organization", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 10",
+    "subject": "GK",
+    "difficulty": "VERY HARD",
+    "text": "Who was the first female judge to be appointed to the Supreme Court of India?",
+    "explanation": "Justice M. Fathima Beevi was appointed to the Supreme Court of India in 1989, becoming the first female judge in the apex court and the first Muslim woman in the higher judiciary.",
+    "options": [
+      { "text": "Justice Sujata Manohar", "isCorrect": false },
+      { "text": "Justice M. Fathima Beevi", "isCorrect": true },
+      { "text": "Justice Ruma Pal", "isCorrect": false },
+      { "text": "Justice Leila Seth", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 10",
+    "subject": "GK",
+    "difficulty": "VERY HARD",
+    "text": "In which session of the Indian National Congress was the resolution of 'Poorna Swaraj' (Complete Independence) officially adopted?",
+    "explanation": "The Lahore Session of the Indian National Congress in December 1929, presided over by Jawaharlal Nehru, officially adopted the resolution for Complete Independence.",
+    "options": [
+      { "text": "Lahore Session (1929)", "isCorrect": true },
+      { "text": "Karachi Session (1931)", "isCorrect": false },
+      { "text": "Calcutta Session (1928)", "isCorrect": false },
+      { "text": "Tripuri Session (1939)", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 10",
+    "subject": "GK",
+    "difficulty": "VERY HARD",
+    "text": "The 'Chagos Archipelago', which has been a long-standing territorial dispute between Mauritius and the United Kingdom, is located in which ocean?",
+    "explanation": "The Chagos Archipelago is a group of seven atolls in the Indian Ocean, which includes Diego Garcia, a strategic joint US-UK military base.",
+    "options": [
+      { "text": "Pacific Ocean", "isCorrect": false },
+      { "text": "Indian Ocean", "isCorrect": true },
+      { "text": "Atlantic Ocean", "isCorrect": false },
+      { "text": "Southern Ocean", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 10",
+    "subject": "GK",
+    "difficulty": "VERY HARD",
+    "text": "Which economic index or coefficient measures the degree of income inequality within a population?",
+    "explanation": "The Gini Coefficient, developed by Corrado Gini, is a standard measure of statistical dispersion representing the income or wealth inequality within a nation.",
+    "options": [
+      { "text": "Human Development Index", "isCorrect": false },
+      { "text": "Gini Coefficient", "isCorrect": true },
+      { "text": "Consumer Price Index", "isCorrect": false },
+      { "text": "Engel Coefficient", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 10",
+    "subject": "GK",
+    "difficulty": "VERY HARD",
+    "text": "The 'Araku Valley', a hill station famous for its biodiverse coffee plantations and tribal museums, is located in which Indian state?",
+    "explanation": "Araku Valley is a valley in the Eastern Ghats located in the Visakhapatnam district (now Alluri Sitharama Raju district) of Andhra Pradesh.",
+    "options": [
+      { "text": "Odisha", "isCorrect": false },
+      { "text": "Andhra Pradesh", "isCorrect": true },
+      { "text": "Karnataka", "isCorrect": false },
+      { "text": "Kerala", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 10",
+    "subject": "GK",
+    "difficulty": "VERY HARD",
+    "text": "Which prominent Indian scientist discovered the phenomenon of light scattering known as the 'Raman Effect', winning the Nobel Prize in Physics in 1930?",
+    "explanation": "Sir Chandrasekhara Venkata Raman (C.V. Raman) discovered the Raman Effect in 1928, showing that when light traverses a transparent material, some of the deflected light changes wavelength.",
+    "options": [
+      { "text": "Satyendra Nath Bose", "isCorrect": false },
+      { "text": "Sir C.V. Raman", "isCorrect": true },
+      { "text": "Homi J. Bhabha", "isCorrect": false },
+      { "text": "Jagadish Chandra Bose", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 10",
+    "subject": "GK",
+    "difficulty": "VERY HARD",
+    "text": "The 'Nansen Passport' was an internationally recognized refugee travel document first issued by the League of Nations. Who was it named after?",
+    "explanation": "It was named after Fridtjof Nansen, a Norwegian explorer and scientist who served as the League of Nations High Commissioner for Refugees and won the Nobel Peace Prize in 1922.",
+    "options": [
+      { "text": "Fridtjof Nansen", "isCorrect": true },
+      { "text": "Nelson Mandela", "isCorrect": false },
+      { "text": "Dag Hammarskjöld", "isCorrect": false },
+      { "text": "Kofi Annan", "isCorrect": false }
+    ]
+  }
+]

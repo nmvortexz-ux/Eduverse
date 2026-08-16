@@ -1,0 +1,327 @@
+[
+  {
+    "class": "Class 10",
+    "subject": "GK",
+    "difficulty": "EASY",
+    "text": "Who was the first Indian citizen to travel into space?",
+    "explanation": "Rakesh Sharma, a former Indian Air Force pilot, flew aboard the Soviet spacecraft Soyuz T-11 on 3 April 1984, spending nearly 8 days in space.",
+    "options": [
+      { "text": "Ravish Malhotra", "isCorrect": false },
+      { "text": "Rakesh Sharma", "isCorrect": true },
+      { "text": "Kalpana Chawla", "isCorrect": false },
+      { "text": "Sunita Williams", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 10",
+    "subject": "GK",
+    "difficulty": "EASY",
+    "text": "Which fruit is designated as the National Fruit of India?",
+    "explanation": "The Mango (Mangifera indica) is the national fruit of India, representing prosperity and abundant nature, and is cultivated across most states of India.",
+    "options": [
+      { "text": "Banana", "isCorrect": false },
+      { "text": "Mango", "isCorrect": true },
+      { "text": "Apple", "isCorrect": false },
+      { "text": "Guava", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 10",
+    "subject": "GK",
+    "difficulty": "EASY",
+    "text": "Which is the coldest and windiest continent on Earth?",
+    "explanation": "Antarctica is the coldest, driest, and windiest continent, containing about 90% of all the ice on Earth.",
+    "options": [
+      { "text": "North America", "isCorrect": false },
+      { "text": "Asia", "isCorrect": false },
+      { "text": "Antarctica", "isCorrect": true },
+      { "text": "Europe", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 10",
+    "subject": "GK",
+    "difficulty": "EASY",
+    "text": "What is the capital city of Spain?",
+    "explanation": "Madrid is the capital and largest city of Spain, situated on the Manzanares River in the center of the Iberian Peninsula.",
+    "options": [
+      { "text": "Barcelona", "isCorrect": false },
+      { "text": "Lisbon", "isCorrect": false },
+      { "text": "Madrid", "isCorrect": true },
+      { "text": "Seville", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 10",
+    "subject": "GK",
+    "difficulty": "EASY",
+    "text": "Which vital gas is released as a byproduct by plants during the process of photosynthesis?",
+    "explanation": "During photosynthesis, plants take in carbon dioxide and water, converting them into glucose and releasing oxygen gas (O2) into the atmosphere.",
+    "options": [
+      { "text": "Carbon Dioxide", "isCorrect": false },
+      { "text": "Oxygen", "isCorrect": true },
+      { "text": "Nitrogen", "isCorrect": false },
+      { "text": "Hydrogen", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 10",
+    "subject": "GK",
+    "difficulty": "EASY",
+    "text": "Which scientist first observed and coined the term 'cell' in 1665 while examining cork under a microscope?",
+    "explanation": "Robert Hooke discovered plant cells in 1665, publishing his observations in his book 'Micrographia'.",
+    "options": [
+      { "text": "Antonie van Leeuwenhoek", "isCorrect": false },
+      { "text": "Robert Hooke", "isCorrect": true },
+      { "text": "Robert Brown", "isCorrect": false },
+      { "text": "Theodor Schwann", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 10",
+    "subject": "GK",
+    "difficulty": "MEDIUM",
+    "text": "In which year was the 'Non-Cooperation Movement' suspended by Mahatma Gandhi following the violent Chauri Chaura incident?",
+    "explanation": "Mahatma Gandhi suspended the Non-Cooperation Movement in February 1922 after a mob set fire to a police station in Chauri Chaura, killing 22 policemen.",
+    "options": [
+      { "text": "1920", "isCorrect": false },
+      { "text": "1922", "isCorrect": true },
+      { "text": "1924", "isCorrect": false },
+      { "text": "1930", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 10",
+    "subject": "GK",
+    "difficulty": "MEDIUM",
+    "text": "Which specific part of the human brain is primarily responsible for regulating voluntary muscle movements, posture, and balance?",
+    "explanation": "The cerebellum, located at the back of the brain below the cerebrum, coordinates complex voluntary movements and maintains body balance and muscle tone.",
+    "options": [
+      { "text": "Cerebrum", "isCorrect": false },
+      { "text": "Cerebellum", "isCorrect": true },
+      { "text": "Medulla Oblongata", "isCorrect": false },
+      { "text": "Pons", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 10",
+    "subject": "GK",
+    "difficulty": "MEDIUM",
+    "text": "Which is the smallest state in India by geographical land area?",
+    "explanation": "Goa is the smallest state in India by area, covering 3,702 square kilometers, situated on the southwestern coast of the country.",
+    "options": [
+      { "text": "Sikkim", "isCorrect": false },
+      { "text": "Tripura", "isCorrect": false },
+      { "text": "Goa", "isCorrect": true },
+      { "text": "Mizoram", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 10",
+    "subject": "GK",
+    "difficulty": "MEDIUM",
+    "text": "The Fundamental Duties were incorporated into the Indian Constitution via the 42nd Amendment on the recommendation of which committee?",
+    "explanation": "The Swaran Singh Committee recommended the addition of Fundamental Duties to the Constitution in 1976 to remind citizens of their obligations while enjoying fundamental rights.",
+    "options": [
+      { "text": "Sarkaria Commission", "isCorrect": false },
+      { "text": "Swaran Singh Committee", "isCorrect": true },
+      { "text": "Verma Committee", "isCorrect": false },
+      { "text": "Balwant Rai Mehta Committee", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 10",
+    "subject": "GK",
+    "difficulty": "MEDIUM",
+    "text": "Which European country is geographically nicknamed the 'Land of a Thousand Lakes' due to its high density of lakes?",
+    "explanation": "Finland contains about 188,000 lakes, making it the country with the highest number of lakes relative to its size.",
+    "options": [
+      { "text": "Sweden", "isCorrect": false },
+      { "text": "Finland", "isCorrect": true },
+      { "text": "Switzerland", "isCorrect": false },
+      { "text": "Iceland", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 10",
+    "subject": "GK",
+    "difficulty": "MEDIUM",
+    "text": "What does the term 'Devaluation' of currency mean in international finance?",
+    "explanation": "Devaluation is the deliberate official reduction in the value of a nation's currency relative to a foreign currency or monetary standard, often done to boost exports.",
+    "options": [
+      { "text": "A decrease in price levels due to market forces", "isCorrect": false },
+      { "text": "The deliberate downward adjustment of a currency's official value", "isCorrect": true },
+      { "text": "The increase in the interest rate by the central bank", "isCorrect": false },
+      { "text": "The total default on national sovereign debt", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 10",
+    "subject": "GK",
+    "difficulty": "HARD",
+    "text": "Who founded the social reform organisation 'Satyashodhak Samaj' in Pune, Maharashtra in 1873?",
+    "explanation": "Jyotirao Phule established Satyashodhak Samaj (Truth-seekers' Society) to liberate depressed castes and women from exploitation, promoting education and equality.",
+    "options": [
+      { "text": "Dr. B.R. Ambedkar", "isCorrect": false },
+      { "text": "Jyotirao Phule", "isCorrect": true },
+      { "text": "Mahadev Govind Ranade", "isCorrect": false },
+      { "text": "E.V. Ramasamy (Periyar)", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 10",
+    "subject": "GK",
+    "difficulty": "HARD",
+    "text": "Which Article of the Indian Constitution empowers the President to impose President's Rule in a state on the breakdown of constitutional machinery?",
+    "explanation": "Article 356 allows the President to assume executive powers of a state if a report from the Governor or other sources proves the state government cannot function constitutionally.",
+    "options": [
+      { "text": "Article 352", "isCorrect": false },
+      { "text": "Article 356", "isCorrect": true },
+      { "text": "Article 360", "isCorrect": false },
+      { "text": "Article 365", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 10",
+    "subject": "GK",
+    "difficulty": "HARD",
+    "text": "Which is the highest mountain peak in the continent of North America?",
+    "explanation": "Denali (formerly known as Mount McKinley) is located in Alaska and is the highest mountain peak in North America, with a summit elevation of 6,190 meters.",
+    "options": [
+      { "text": "Mount Logan", "isCorrect": false },
+      { "text": "Mount Rainier", "isCorrect": false },
+      { "text": "Denali", "isCorrect": true },
+      { "text": "Mount Elbert", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 10",
+    "subject": "GK",
+    "difficulty": "HARD",
+    "text": "Who was the first Indian athlete to win an individual gold medal at the Olympic Games?",
+    "explanation": "Abhinav Bindra won the gold medal in the men's 10m Air Rifle shooting event at the 2008 Beijing Olympics, becoming India's first individual Olympic champion.",
+    "options": [
+      { "text": "Rajyavardhan Singh Rathore", "isCorrect": false },
+      { "text": "Abhinav Bindra", "isCorrect": true },
+      { "text": "Neeraj Chopra", "isCorrect": false },
+      { "text": "Sushil Kumar", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 10",
+    "subject": "GK",
+    "difficulty": "HARD",
+    "text": "Which city is the national capital of New Zealand?",
+    "explanation": "Wellington is the capital of New Zealand, located at the southern tip of the North Island. It is the world's southernmost capital city.",
+    "options": [
+      { "text": "Auckland", "isCorrect": false },
+      { "text": "Christchurch", "isCorrect": false },
+      { "text": "Wellington", "isCorrect": true },
+      { "text": "Hamilton", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 10",
+    "subject": "GK",
+    "difficulty": "HARD",
+    "text": "Which national football team won the FIFA Women's World Cup in 2023?",
+    "explanation": "Spain's women's national football team won their first-ever FIFA Women's World Cup title in 2023 by defeating England 1-0 in the final in Sydney.",
+    "options": [
+      { "text": "England", "isCorrect": false },
+      { "text": "United States", "isCorrect": false },
+      { "text": "Spain", "isCorrect": true },
+      { "text": "Sweden", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 10",
+    "subject": "GK",
+    "difficulty": "VERY HARD",
+    "text": "Which Governor-General of India aggressively implemented the 'Doctrine of Lapse' to annex princely states like Satara, Sambalpur, and Jhansi?",
+    "explanation": "Lord Dalhousie (Governor-General from 1848 to 1856) used the Doctrine of Lapse to annex states where the ruler died without a direct male heir, fueling discontent leading to the Revolt of 1857.",
+    "options": [
+      { "text": "Lord Wellesley", "isCorrect": false },
+      { "text": "Lord Dalhousie", "isCorrect": true },
+      { "text": "Lord Canning", "isCorrect": false },
+      { "text": "Lord Cornwallis", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 10",
+    "subject": "GK",
+    "difficulty": "VERY HARD",
+    "text": "Who was appointed as the first Chief Justice of the Supreme Court of independent India in 1950?",
+    "explanation": "Justice Harilal Jekisundas Kania (H.J. Kania) served as the first Chief Justice of India from 26 January 1950 until his sudden death in office in November 1951.",
+    "options": [
+      { "text": "Justice M. Patanjali Sastri", "isCorrect": false },
+      { "text": "Justice H.J. Kania", "isCorrect": true },
+      { "text": "Justice Mehr Chand Mahajan", "isCorrect": false },
+      { "text": "Justice Sudhi Ranjan Das", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 10",
+    "subject": "GK",
+    "difficulty": "VERY HARD",
+    "text": "The strategic 'Strait of Malacca', connecting the Indian Ocean to the Pacific Ocean, flows between which two major landmasses?",
+    "explanation": "The Strait of Malacca is a narrow stretch of water flowing between the Malay Peninsula (West Malaysia) and the Indonesian island of Sumatra.",
+    "options": [
+      { "text": "Sumatra and Java", "isCorrect": false },
+      { "text": "Malay Peninsula and Sumatra", "isCorrect": true },
+      { "text": "Borneo and Sulawesi", "isCorrect": false },
+      { "text": "Vietnam and Philippines", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 10",
+    "subject": "GK",
+    "difficulty": "VERY HARD",
+    "text": "What is a 'Giffen Good' in microeconomic theory?",
+    "explanation": "A Giffen good is a low-income, non-luxury product that violates standard laws of demand, where the quantity demanded rises as the price increases due to strong income effects.",
+    "options": [
+      { "text": "A luxury good whose demand rises as price rises", "isCorrect": false },
+      { "text": "A basic product whose demand increases as price increases", "isCorrect": true },
+      { "text": "A standard good whose demand falls to zero if price changes slightly", "isCorrect": false },
+      { "text": "A product whose demand is completely unaffected by price shifts", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 10",
+    "subject": "GK",
+    "difficulty": "VERY HARD",
+    "text": "The 'Dachigam National Park', famous as the last viable habitat of the critically endangered Hangul (Kashmir Stag), is located in which state or union territory?",
+    "explanation": "Dachigam National Park is located in the union territory of Jammu and Kashmir, near Srinagar, and has been a protected area since 1910.",
+    "options": [
+      { "text": "Himachal Pradesh", "isCorrect": false },
+      { "text": "Jammu and Kashmir", "isCorrect": true },
+      { "text": "Uttarakhand", "isCorrect": false },
+      { "text": "Sikkim", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 10",
+    "subject": "GK",
+    "difficulty": "VERY HARD",
+    "text": "Which Scottish physician and microbiologist discovered the world's first effective antibiotic, Penicillin, in 1928?",
+    "explanation": "Sir Alexander Fleming discovered penicillin produced by the mold Penicillium notatum when he returned to his lab to find a contaminated culture plate had killed bacteria.",
+    "options": [
+      { "text": "Louis Pasteur", "isCorrect": false },
+      { "text": "Alexander Fleming", "isCorrect": true },
+      { "text": "Edward Jenner", "isCorrect": false },
+      { "text": "Robert Koch", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 10",
+    "subject": "GK",
+    "difficulty": "VERY HARD",
+    "text": "The historic 'Simla Conference' of 1945 was convened by which Viceroy of India to discuss the Wavell Plan for Indian self-government?",
+    "explanation": "Viceroy Lord Wavell convened the Simla Conference of June-July 1945 to discuss a proposal for an interim executive council containing equal representation of caste Hindus and Muslims, which failed.",
+    "options": [
+      { "text": "Lord Linlithgow", "isCorrect": false },
+      { "text": "Lord Wavell", "isCorrect": true },
+      { "text": "Lord Mountbatten", "isCorrect": false },
+      { "text": "Lord Irwin", "isCorrect": false }
+    ]
+  }
+]

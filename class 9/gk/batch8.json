@@ -1,0 +1,327 @@
+[
+  {
+    "class": "Class 10",
+    "subject": "GK",
+    "difficulty": "EASY",
+    "text": "Who is popularly known as the 'Iron Man of India'?",
+    "explanation": "Sardar Vallabhbhai Patel is called the Iron Man of India for his role in integrating over 560 princely states into the Indian Union.",
+    "options": [
+      { "text": "Subhas Chandra Bose", "isCorrect": false },
+      { "text": "Sardar Vallabhbhai Patel", "isCorrect": true },
+      { "text": "Bhagat Singh", "isCorrect": false },
+      { "text": "Lal Bahadur Shastri", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 10",
+    "subject": "GK",
+    "difficulty": "EASY",
+    "text": "Which is the largest country in the world by total land area?",
+    "explanation": "Russia is the largest country, covering more than 17 million square kilometers, spanning across Eastern Europe and Northern Asia.",
+    "options": [
+      { "text": "Canada", "isCorrect": false },
+      { "text": "Russia", "isCorrect": true },
+      { "text": "China", "isCorrect": false },
+      { "text": "United States", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 10",
+    "subject": "GK",
+    "difficulty": "EASY",
+    "text": "On which date is World Health Day celebrated globally every year?",
+    "explanation": "World Health Day is celebrated on April 7 to mark the founding of the World Health Organization (WHO) in 1948.",
+    "options": [
+      { "text": "April 7", "isCorrect": true },
+      { "text": "April 22", "isCorrect": false },
+      { "text": "May 31", "isCorrect": false },
+      { "text": "June 21", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 10",
+    "subject": "GK",
+    "difficulty": "EASY",
+    "text": "What is the capital city of Japan?",
+    "explanation": "Tokyo is the capital of Japan, functioning as the center of the Greater Tokyo Area, the most populous metropolitan area in the world.",
+    "options": [
+      { "text": "Seoul", "isCorrect": false },
+      { "text": "Tokyo", "isCorrect": true },
+      { "text": "Beijing", "isCorrect": false },
+      { "text": "Kyoto", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 10",
+    "subject": "GK",
+    "difficulty": "EASY",
+    "text": "Which inert gas is commonly filled in electric bulbs to prevent the oxidation of the tungsten filament?",
+    "explanation": "Argon or Nitrogen is used because it does not react with the hot tungsten filament, increasing the bulb's lifespan.",
+    "options": [
+      { "text": "Oxygen", "isCorrect": false },
+      { "text": "Argon", "isCorrect": true },
+      { "text": "Hydrogen", "isCorrect": false },
+      { "text": "Chlorine", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 10",
+    "subject": "GK",
+    "difficulty": "EASY",
+    "text": "Who was the first Indian sportsperson to win an individual Olympic gold medal?",
+    "explanation": "Abhinav Bindra won gold in the 10m Air Rifle event at the Beijing 2008 Olympics, becoming India's first individual gold medalist.",
+    "options": [
+      { "text": "Rajyavardhan Singh Rathore", "isCorrect": false },
+      { "text": "Abhinav Bindra", "isCorrect": true },
+      { "text": "Neeraj Chopra", "isCorrect": false },
+      { "text": "Sushil Kumar", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 10",
+    "subject": "GK",
+    "difficulty": "MEDIUM",
+    "text": "Who was the primary founder of the Indian National Congress (INC) in 1885?",
+    "explanation": "Allan Octavian Hume (A.O. Hume), a retired British civil servant, took the initiative to establish the INC to create a political platform for Indians.",
+    "options": [
+      { "text": "W.C. Bonnerjee", "isCorrect": false },
+      { "text": "A.O. Hume", "isCorrect": true },
+      { "text": "Surendranath Banerjee", "isCorrect": false },
+      { "text": "Dadabhai Naoroji", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 10",
+    "subject": "GK",
+    "difficulty": "MEDIUM",
+    "text": "What was the name of India's first research station established in Antarctica in 1983?",
+    "explanation": "Dakshin Gangotri was the first Indian scientific research station in Antarctica, later decommissioned and replaced by Maitri and Bharati.",
+    "options": [
+      { "text": "Maitri", "isCorrect": false },
+      { "text": "Dakshin Gangotri", "isCorrect": true },
+      { "text": "Bharati", "isCorrect": false },
+      { "text": "Himadri", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 10",
+    "subject": "GK",
+    "difficulty": "MEDIUM",
+    "text": "Which Indian state is the largest producer of Rice in the country?",
+    "explanation": "West Bengal is the leading rice-producing state, accounting for over 13% of the nation's total rice cultivation.",
+    "options": [
+      { "text": "Uttar Pradesh", "isCorrect": false },
+      { "text": "West Bengal", "isCorrect": true },
+      { "text": "Punjab", "isCorrect": false },
+      { "text": "Andhra Pradesh", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 10",
+    "subject": "GK",
+    "difficulty": "MEDIUM",
+    "text": "Which constitutional amendment act reduced the voting age in India from 21 to 18 years?",
+    "explanation": "The 61st Amendment Act (1989) amended Article 326 of the Constitution to reduce the voting age to 18 for Lok Sabha and Assembly elections.",
+    "options": [
+      { "text": "42nd Amendment Act", "isCorrect": false },
+      { "text": "61st Amendment Act", "isCorrect": true },
+      { "text": "44th Amendment Act", "isCorrect": false },
+      { "text": "73rd Amendment Act", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 10",
+    "subject": "GK",
+    "difficulty": "MEDIUM",
+    "text": "Which high mountain pass connects Srinagar to Leh in the Ladakh region?",
+    "explanation": "Zoji La Pass is a critical pass on National Highway 1, connecting the Kashmir Valley with Ladakh.",
+    "options": [
+      { "text": "Rohtang Pass", "isCorrect": false },
+      { "text": "Zoji La Pass", "isCorrect": true },
+      { "text": "Nathu La Pass", "isCorrect": false },
+      { "text": "Shipki La Pass", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 10",
+    "subject": "GK",
+    "difficulty": "MEDIUM",
+    "text": "Where is the head office of the Indian Space Research Organisation (ISRO) located?",
+    "explanation": "ISRO is headquartered in Bengaluru, Karnataka, managing the space exploration and satellite program of India.",
+    "options": [
+      { "text": "New Delhi", "isCorrect": false },
+      { "text": "Bengaluru", "isCorrect": true },
+      { "text": "Thiruvananthapuram", "isCorrect": false },
+      { "text": "Sriharikota", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 10",
+    "subject": "GK",
+    "difficulty": "MEDIUM",
+    "text": "Which is the largest gulf in the world by coastline and basin area?",
+    "explanation": "The Gulf of Mexico is the largest gulf in the world, bounded by North America, Mexico, and Cuba.",
+    "options": [
+      { "text": "Persian Gulf", "isCorrect": false },
+      { "text": "Gulf of Mexico", "isCorrect": true },
+      { "text": "Gulf of Aden", "isCorrect": false },
+      { "text": "Gulf of Khambhat", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 10",
+    "subject": "GK",
+    "difficulty": "MEDIUM",
+    "text": "Under which article of the Indian Constitution is the Comptroller and Auditor General (CAG) appointed by the President?",
+    "explanation": "Article 148 provides for an independent office of the CAG of India, who acts as the guardian of the public purse.",
+    "options": [
+      { "text": "Article 76", "isCorrect": false },
+      { "text": "Article 148", "isCorrect": true },
+      { "text": "Article 280", "isCorrect": false },
+      { "text": "Article 324", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 10",
+    "subject": "GK",
+    "difficulty": "MEDIUM",
+    "text": "Who was the last Governor-General of independent India, serving from 1948 to 1950?",
+    "explanation": "C. Rajagopalachari was the first and last Indian Governor-General of independent India before the office was abolished in 1950.",
+    "options": [
+      { "text": "Lord Mountbatten", "isCorrect": false },
+      { "text": "C. Rajagopalachari", "isCorrect": true },
+      { "text": "Dr. Rajendra Prasad", "isCorrect": false },
+      { "text": "Sardar Vallabhbhai Patel", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 10",
+    "subject": "GK",
+    "difficulty": "HARD",
+    "text": "Who was the key founder of the revolutionary 'Ghadar Party' in San Francisco, USA, in 1913?",
+    "explanation": "Lala Har Dayal was the founding leader and secretary of the Ghadar Party, which sought to end British rule in India through armed revolution.",
+    "options": [
+      { "text": "Bhagat Singh", "isCorrect": false },
+      { "text": "Lala Har Dayal", "isCorrect": true },
+      { "text": "Rash Behari Bose", "isCorrect": false },
+      { "text": "V.D. Savarkar", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 10",
+    "subject": "GK",
+    "difficulty": "HARD",
+    "text": "Which meridian is selected as the Standard Meridian of India, determining Indian Standard Time?",
+    "explanation": "$82^\\circ 30'\\text{ East}$ longitude, passing through Mirzapur in Uttar Pradesh, is the Standard Meridian of India.",
+    "options": [
+      { "text": "$80^\\circ 00'\\text{ East}$", "isCorrect": false },
+      { "text": "$82^\\circ 30'\\text{ East}$", "isCorrect": true },
+      { "text": "$88^\\circ 30'\\text{ East}$", "isCorrect": false },
+      { "text": "$75^\\circ 00'\\text{ East}$", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 10",
+    "subject": "GK",
+    "difficulty": "HARD",
+    "text": "Which Indian state is the largest producer of Iron Ore in the country?",
+    "explanation": "Odisha is the leading producer of iron ore, followed by Chhattisgarh and Karnataka, housing major high-grade hematite deposits.",
+    "options": [
+      { "text": "Jharkhand", "isCorrect": false },
+      { "text": "Odisha", "isCorrect": true },
+      { "text": "Chhattisgarh", "isCorrect": false },
+      { "text": "Goa", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 10",
+    "subject": "GK",
+    "difficulty": "HARD",
+    "text": "What is the primary difference between a direct tax and an indirect tax?",
+    "explanation": "Direct tax is levied directly on the income or wealth of a person (tax burden cannot be shifted); indirect tax is levied on goods and services (burden can be shifted to consumers).",
+    "options": [
+      { "text": "Indirect tax is paid only by corporations; direct tax by retail citizens", "isCorrect": false },
+      { "text": "Direct tax is paid directly on income/wealth; indirect tax is levied on goods/services and can be shifted to consumers", "isCorrect": true },
+      { "text": "Direct tax is regulated by states; indirect tax by the central government alone", "isCorrect": false },
+      { "text": "Direct tax applies only to cash transactions; indirect tax to electronic ones", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 10",
+    "subject": "GK",
+    "difficulty": "HARD",
+    "text": "In which city is the National Environmental Engineering Research Institute (NEERI) situated?",
+    "explanation": "NEERI, a constituent laboratory of CSIR, is located in Nagpur, Maharashtra, focusing on environmental science and engineering research.",
+    "options": [
+      { "text": "New Delhi", "isCorrect": false },
+      { "text": "Nagpur", "isCorrect": true },
+      { "text": "Dehradun", "isCorrect": false },
+      { "text": "Hyderabad", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 10",
+    "subject": "GK",
+    "difficulty": "HARD",
+    "text": "Who was the first Indian journalist/writer to win the prestigious Pulitzer Prize in 1937?",
+    "explanation": "Gobind Behari Lal won the Pulitzer Prize for Journalism in 1937 for coverage of science, working as a science editor for Hearst newspapers.",
+    "options": [
+      { "text": "Kushwant Singh", "isCorrect": false },
+      { "text": "Gobind Behari Lal", "isCorrect": true },
+      { "text": "Kuldip Nayar", "isCorrect": false },
+      { "text": "R.K. Narayan", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 10",
+    "subject": "GK",
+    "difficulty": "VERY HARD",
+    "text": "Which British legislation proposed a federal system of government at the center and introduced provincial autonomy by abolishing dyarchy in provinces?",
+    "explanation": "The Government of India Act 1935 introduced provincial autonomy, abolished provincial dyarchy, and planned a Federation of India (which never materialized).",
+    "options": [
+      { "text": "Indian Councils Act 1909", "isCorrect": false },
+      { "text": "Government of India Act 1935", "isCorrect": true },
+      { "text": "Charter Act of 1853", "isCorrect": false },
+      { "text": "Indian Independence Act 1947", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 10",
+    "subject": "GK",
+    "difficulty": "VERY HARD",
+    "text": "How does a Solar Eclipse occur?",
+    "explanation": "A solar eclipse occurs when the Moon passes directly between the Sun and the Earth, blocking solar rays and casting a shadow on the Earth.",
+    "options": [
+      { "text": "The Earth comes between the Sun and the Moon", "isCorrect": false },
+      { "text": "The Moon comes between the Sun and the Earth", "isCorrect": true },
+      { "text": "The Sun comes between the Earth and the Moon", "isCorrect": false },
+      { "text": "Venus aligns between Earth and Sun", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 10",
+    "subject": "GK",
+    "difficulty": "VERY HARD",
+    "text": "In economics, what is the 'Gini Coefficient' used to measure?",
+    "explanation": "The Gini Coefficient (or Gini Index) is a statistical measure of economic inequality, representing income or wealth distribution within a nation.",
+    "options": [
+      { "text": "The rate of inflation in industrial sectors", "isCorrect": false },
+      { "text": "The degree of income or wealth inequality within a population", "isCorrect": true },
+      { "text": "The efficiency of commercial bank lending systems", "isCorrect": false },
+      { "text": "The ratio of agricultural exports to imports", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 10",
+    "subject": "GK",
+    "difficulty": "VERY HARD",
+    "text": "Which supersonic cruise missile is developed as a joint venture between the Defense Research and Development Organisation (DRDO) of India and NPOM of Russia?",
+    "explanation": "BrahMos is a medium-range ramjet supersonic cruise missile, named after the Brahmaputra and Moskva rivers, capable of being launched from land, sea, sub-sea, or air.",
+    "options": [
+      { "text": "Nirbhay", "isCorrect": false },
+      { "text": "BrahMos", "isCorrect": true },
+      { "text": "Prithvi", "isCorrect": false },
+      { "text": "Astra", "isCorrect": false }
+    ]
+  }
+]

@@ -1,0 +1,327 @@
+[
+  {
+    "class": "Class 10",
+    "subject": "GK",
+    "difficulty": "EASY",
+    "text": "Who was the first Indian woman to travel into space?",
+    "explanation": "Kalpana Chawla was an Indian-American astronaut and engineer who flew on Space Shuttle Columbia in 1997 as a mission specialist and primary robotic arm operator.",
+    "options": [
+      { "text": "Sunita Williams", "isCorrect": false },
+      { "text": "Kalpana Chawla", "isCorrect": true },
+      { "text": "Rakesh Sharma", "isCorrect": false },
+      { "text": "Sirisha Bandla", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 10",
+    "subject": "GK",
+    "difficulty": "EASY",
+    "text": "Which bird is designated as the National Bird of India?",
+    "explanation": "The Indian Peacock (Pavo cristatus) was declared the national bird of India in 1963 due to its rich religious and cultural involvement in Indian heritage.",
+    "options": [
+      { "text": "Great Indian Bustard", "isCorrect": false },
+      { "text": "Indian Peacock", "isCorrect": true },
+      { "text": "House Sparrow", "isCorrect": false },
+      { "text": "Himalayan Monal", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 10",
+    "subject": "GK",
+    "difficulty": "EASY",
+    "text": "Which is the largest hot desert in the world, stretching across Northern Africa?",
+    "explanation": "The Sahara Desert is the largest hot desert in the world, covering an area of about 9.2 million square kilometers, comparable to the area of the United States.",
+    "options": [
+      { "text": "Gobi Desert", "isCorrect": false },
+      { "text": "Kalahari Desert", "isCorrect": false },
+      { "text": "Sahara Desert", "isCorrect": true },
+      { "text": "Thar Desert", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 10",
+    "subject": "GK",
+    "difficulty": "EASY",
+    "text": "What is the capital city of Italy?",
+    "explanation": "Rome is the capital of Italy and serves as a major global center of history, art, and culture, housing the Vatican City within its borders.",
+    "options": [
+      { "text": "Milan", "isCorrect": false },
+      { "text": "Venice", "isCorrect": false },
+      { "text": "Rome", "isCorrect": true },
+      { "text": "Florence", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 10",
+    "subject": "GK",
+    "difficulty": "EASY",
+    "text": "Which gas do plants primarily absorb from the atmosphere to perform photosynthesis?",
+    "explanation": "Plants absorb Carbon Dioxide (CO2) and release Oxygen (O2) during photosynthesis, converting light energy into chemical energy.",
+    "options": [
+      { "text": "Oxygen", "isCorrect": false },
+      { "text": "Carbon Dioxide", "isCorrect": true },
+      { "text": "Nitrogen", "isCorrect": false },
+      { "text": "Hydrogen", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 10",
+    "subject": "GK",
+    "difficulty": "EASY",
+    "text": "Which scientist famously formulated the laws of motion and universal gravitation?",
+    "explanation": "Sir Isaac Newton formulated the three laws of motion and the law of universal gravitation in his ground-breaking work, 'Philosophiae Naturalis Principia Mathematica' in 1687.",
+    "options": [
+      { "text": "Albert Einstein", "isCorrect": false },
+      { "text": "Sir Isaac Newton", "isCorrect": true },
+      { "text": "Galileo Galilei", "isCorrect": false },
+      { "text": "Johannes Kepler", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 10",
+    "subject": "GK",
+    "difficulty": "MEDIUM",
+    "text": "In which year did Mahatma Gandhi launch the 'Civil Disobedience Movement' with the famous Dandi Salt March?",
+    "explanation": "The Salt March took place from March to April 1930, protesting the British salt monopoly, which officially initiated the Civil Disobedience Movement.",
+    "options": [
+      { "text": "1920", "isCorrect": false },
+      { "text": "1930", "isCorrect": true },
+      { "text": "1942", "isCorrect": false },
+      { "text": "1919", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 10",
+    "subject": "GK",
+    "difficulty": "MEDIUM",
+    "text": "Which component of blood contains hemoglobin and is responsible for transporting oxygen to cells?",
+    "explanation": "Red Blood Cells (Erythrocytes) contain the iron-rich protein hemoglobin, which binds to oxygen in the lungs and delivers it to tissues.",
+    "options": [
+      { "text": "White Blood Cells", "isCorrect": false },
+      { "text": "Red Blood Cells", "isCorrect": true },
+      { "text": "Platelets", "isCorrect": false },
+      { "text": "Blood Plasma", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 10",
+    "subject": "GK",
+    "difficulty": "MEDIUM",
+    "text": "Which river is the longest river that originates and flows entirely within the borders of India?",
+    "explanation": "The Godavari is the longest river flowing entirely within India, starting in Trimbakeshwar, Maharashtra, and running 1,465 kilometers before entering the Bay of Bengal.",
+    "options": [
+      { "text": "Ganges", "isCorrect": false },
+      { "text": "Godavari", "isCorrect": true },
+      { "text": "Krishna", "isCorrect": false },
+      { "text": "Narmada", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 10",
+    "subject": "GK",
+    "difficulty": "MEDIUM",
+    "text": "The Preamble of the Indian Constitution is based on the 'Objective Resolution' introduced in the Constituent Assembly by whom?",
+    "explanation": "Jawaharlal Nehru introduced the historic Objective Resolution on 13 December 1946, outlining the architectural foundations of the Indian Constitution, which was later adopted as the Preamble.",
+    "options": [
+      { "text": "Dr. B.R. Ambedkar", "isCorrect": false },
+      { "text": "Jawaharlal Nehru", "isCorrect": true },
+      { "text": "Sardar Vallabhbhai Patel", "isCorrect": false },
+      { "text": "Dr. Rajendra Prasad", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 10",
+    "subject": "GK",
+    "difficulty": "MEDIUM",
+    "text": "Which country is called the 'Land of the Rising Sun' because of its easternmost location in Asia?",
+    "explanation": "Japan is referred to as Nihon or Nippon in Japanese, which literally translates to 'source of the sun' or 'rising sun'.",
+    "options": [
+      { "text": "China", "isCorrect": false },
+      { "text": "Japan", "isCorrect": true },
+      { "text": "South Korea", "isCorrect": false },
+      { "text": "Philippines", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 10",
+    "subject": "GK",
+    "difficulty": "MEDIUM",
+    "text": "What does the term 'Fiscal Policy' refer to in macroeconomic management?",
+    "explanation": "Fiscal policy refers to the use of government spending and revenue collection (taxation) to influence a nation's economic conditions.",
+    "options": [
+      { "text": "Central bank policy of printing money", "isCorrect": false },
+      { "text": "Government spending and taxation policies", "isCorrect": true },
+      { "text": "Commercial bank lending guidelines", "isCorrect": false },
+      { "text": "Foreign trade tariffs and exchange controls", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 10",
+    "subject": "GK",
+    "difficulty": "HARD",
+    "text": "Who founded the Hindu reform movement 'Arya Samaj' in Bombay in 1875?",
+    "explanation": "Swami Dayanand Saraswati founded the Arya Samaj to promote the authority of the Vedas, opposing idol worship, animal sacrifices, and caste rigidity.",
+    "options": [
+      { "text": "Swami Vivekananda", "isCorrect": false },
+      { "text": "Swami Dayanand Saraswati", "isCorrect": true },
+      { "text": "Raja Ram Mohan Roy", "isCorrect": false },
+      { "text": "Devendranath Tagore", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 10",
+    "subject": "GK",
+    "difficulty": "HARD",
+    "text": "Which Article of the Constitution of India contains provisions for the declaration of a National Emergency?",
+    "explanation": "Article 352 empowers the President of India to declare a National Emergency when the security of India or any part of it is threatened by war, external aggression, or armed rebellion.",
+    "options": [
+      { "text": "Article 352", "isCorrect": true },
+      { "text": "Article 356", "isCorrect": false },
+      { "text": "Article 360", "isCorrect": false },
+      { "text": "Article 350", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 10",
+    "subject": "GK",
+    "difficulty": "HARD",
+    "text": "Which is the highest mountain peak in the continent of Africa?",
+    "explanation": "Mount Kilimanjaro is a dormant volcano in Tanzania and the highest peak in Africa, rising approximately 5,895 meters (19,341 feet) above sea level.",
+    "options": [
+      { "text": "Mount Kenya", "isCorrect": false },
+      { "text": "Mount Stanley", "isCorrect": false },
+      { "text": "Mount Kilimanjaro", "isCorrect": true },
+      { "text": "Mount Ras Dashen", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 10",
+    "subject": "GK",
+    "difficulty": "HARD",
+    "text": "Who was the first Indian woman to win an Olympic medal, winning bronze in weightlifting at the 2000 Sydney Games?",
+    "explanation": "Karnam Malleswari won a bronze medal in the women's 69 kg weightlifting category at the Sydney Olympics, making history for Indian female sports.",
+    "options": [
+      { "text": "Mary Kom", "isCorrect": false },
+      { "text": "Karnam Malleswari", "isCorrect": true },
+      { "text": "Saina Nehwal", "isCorrect": false },
+      { "text": "P.T. Usha", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 10",
+    "subject": "GK",
+    "difficulty": "HARD",
+    "text": "Which city is the national capital of Canada?",
+    "explanation": "Ottawa was appointed as the capital of Canada by Queen Victoria in 1857 due to its strategic inland location and boundary between English and French speaking areas.",
+    "options": [
+      { "text": "Toronto", "isCorrect": false },
+      { "text": "Montreal", "isCorrect": false },
+      { "text": "Ottawa", "isCorrect": true },
+      { "text": "Vancouver", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 10",
+    "subject": "GK",
+    "difficulty": "HARD",
+    "text": "Which national cricket team won the ICC Men's Cricket World Cup in 2023?",
+    "explanation": "Australia won the 2023 ICC Men's Cricket World Cup hosted in India, defeating India in the final match at Ahmedabad.",
+    "options": [
+      { "text": "India", "isCorrect": false },
+      { "text": "New Zealand", "isCorrect": false },
+      { "text": "Australia", "isCorrect": true },
+      { "text": "England", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 10",
+    "subject": "GK",
+    "difficulty": "VERY HARD",
+    "text": "Under whose viceroyalty was the capital of British India officially shifted from Calcutta to Delhi in 1911?",
+    "explanation": "Lord Hardinge was the Viceroy of India when King George V announced the transfer of the capital from Calcutta to Delhi during the Delhi Durbar of 1911.",
+    "options": [
+      { "text": "Lord Curzon", "isCorrect": false },
+      { "text": "Lord Hardinge", "isCorrect": true },
+      { "text": "Lord Minto", "isCorrect": false },
+      { "text": "Lord Chelmsford", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 10",
+    "subject": "GK",
+    "difficulty": "VERY HARD",
+    "text": "Who was appointed as the first Chairperson of the Finance Commission of India in 1951?",
+    "explanation": "Kshitish Chandra Neogy (K.C. Neogy) served as the chairperson of the First Finance Commission of India, which was established under Article 280.",
+    "options": [
+      { "text": "K. Santhanam", "isCorrect": false },
+      { "text": "K.C. Neogy", "isCorrect": true },
+      { "text": "A.K. Chanda", "isCorrect": false },
+      { "text": "Y.B. Chavan", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 10",
+    "subject": "GK",
+    "difficulty": "VERY HARD",
+    "text": "The strategic 'Bab-el-Mandeb' strait, a bottleneck in global trade, connects the Red Sea to which body of water?",
+    "explanation": "The Bab-el-Mandeb is a strait located between Yemen on the Arabian Peninsula, and Djibouti and Eritrea in the Horn of Africa, connecting the Red Sea to the Gulf of Aden.",
+    "options": [
+      { "text": "Persian Gulf", "isCorrect": false },
+      { "text": "Gulf of Aden", "isCorrect": true },
+      { "text": "Arabian Sea", "isCorrect": false },
+      { "text": "Gulf of Oman", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 10",
+    "subject": "GK",
+    "difficulty": "VERY HARD",
+    "text": "Which term describes a market structure in economics that is dominated by a small number of large sellers or producers, leading to limited competition?",
+    "explanation": "An oligopoly exists when a market is shared by a small number of producers or sellers who can coordinate pricing and output levels.",
+    "options": [
+      { "text": "Monopsony", "isCorrect": false },
+      { "text": "Oligopoly", "isCorrect": true },
+      { "text": "Perfect Competition", "isCorrect": false },
+      { "text": "Monopolistic Competition", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 10",
+    "subject": "GK",
+    "difficulty": "VERY HARD",
+    "text": "The 'Keibul Lamjao National Park', famous as the world's only floating national park, is situated on which lake in Manipur?",
+    "explanation": "Keibul Lamjao National Park is situated on Loktak Lake and is characterized by floating decomposed plant materials locally called 'phumdis', which are the main habitat of the endangered Sangai deer.",
+    "options": [
+      { "text": "Wular Lake", "isCorrect": false },
+      { "text": "Loktak Lake", "isCorrect": true },
+      { "text": "Chilika Lake", "isCorrect": false },
+      { "text": "Kolleru Lake", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 10",
+    "subject": "GK",
+    "difficulty": "VERY HARD",
+    "text": "Which physicist proposed the Special and General theories of Relativity, which revolutionized modern space-time physics?",
+    "explanation": "Albert Einstein published the Special Theory of Relativity in 1905 and the General Theory of Relativity in 1915, replacing Newtonian gravitation.",
+    "options": [
+      { "text": "Max Planck", "isCorrect": false },
+      { "text": "Albert Einstein", "isCorrect": true },
+      { "text": "Niels Bohr", "isCorrect": false },
+      { "text": "Werner Heisenberg", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 10",
+    "subject": "GK",
+    "difficulty": "VERY HARD",
+    "text": "The historic 'Panchsheel Agreement' of 1954, defining the five principles of peaceful coexistence, was signed between India and which neighbor?",
+    "explanation": "The Panchsheel Treaty was signed on 29 April 1954 between Prime Minister Jawaharlal Nehru of India and Premier Zhou Enlai of China.",
+    "options": [
+      { "text": "Pakistan", "isCorrect": false },
+      { "text": "China", "isCorrect": true },
+      { "text": "Nepal", "isCorrect": false },
+      { "text": "Bhutan", "isCorrect": false }
+    ]
+  }
+]

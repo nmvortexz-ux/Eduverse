@@ -1,0 +1,327 @@
+[
+  {
+    "class": "Class 10",
+    "subject": "English",
+    "difficulty": "EASY",
+    "text": "Who first discovered Lencho's letter to God and brought it to the postmaster?",
+    "explanation": "A postman, who was also an employee at the post office, found the letter addressed 'To God' and showed it to his boss.",
+    "options": [
+      { "text": "A postman of the post office", "isCorrect": true },
+      { "text": "Lencho's eldest son", "isCorrect": false },
+      { "text": "The local mayor", "isCorrect": false },
+      { "text": "A passing traveler", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 10",
+    "subject": "English",
+    "difficulty": "EASY",
+    "text": "On which day did Nelson Mandela take the oath as the first black president of South Africa?",
+    "explanation": "Mandela was sworn in on 10th May 1994, during the inauguration ceremony held at the Union Buildings amphitheatre in Pretoria.",
+    "options": [
+      { "text": "10th May", "isCorrect": true },
+      { "text": "20th April", "isCorrect": false },
+      { "text": "15th August", "isCorrect": false },
+      { "text": "1st January", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 10",
+    "subject": "English",
+    "difficulty": "EASY",
+    "text": "What was Tricki's main problem according to Dr. Herriot in 'A Triumph of Surgery'?",
+    "explanation": "Tricki's only fault was greed. He had never been known to refuse food and would tackle a meal at any hour.",
+    "options": [
+      { "text": "His greed for food", "isCorrect": true },
+      { "text": "His physical aggression", "isCorrect": false },
+      { "text": "His constant barking", "isCorrect": false },
+      { "text": "His fear of other dogs", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 10",
+    "subject": "English",
+    "difficulty": "EASY",
+    "text": "In Leslie Norris's poem 'A Tiger in the Zoo', how are the tiger's eyes described?",
+    "explanation": "The poet describes the tiger as staring with his 'brilliant eyes' at the 'brilliant stars' in the night.",
+    "options": [
+      { "text": "Brilliant", "isCorrect": true },
+      { "text": "Sad and dull", "isCorrect": false },
+      { "text": "Fierce and red", "isCorrect": false },
+      { "text": "Blind with rage", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 10",
+    "subject": "English",
+    "difficulty": "EASY",
+    "text": "What was the age of Anil in the story 'The Thief's Story'?",
+    "explanation": "Anil was a tall, lean fellow of about twenty-five years, who lived a simple life writing for magazines.",
+    "options": [
+      { "text": "Twenty-five years old", "isCorrect": true },
+      { "text": "Fifteen years old", "isCorrect": false },
+      { "text": "Thirty years old", "isCorrect": false },
+      { "text": "Forty years old", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 10",
+    "subject": "English",
+    "difficulty": "EASY",
+    "text": "Fill in the blank with the correct determiner: ________ of the two candidates is qualified for the post.",
+    "explanation": "'Neither' is used to refer to 'not one nor the other' of two things or people, and takes a singular verb.",
+    "options": [
+      { "text": "Neither", "isCorrect": true },
+      { "text": "Both", "isCorrect": false },
+      { "text": "All", "isCorrect": false },
+      { "text": "Any", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 10",
+    "subject": "English",
+    "difficulty": "MEDIUM",
+    "text": "In 'From the Diary of Anne Frank', who was the only member of the Frank family to survive World War II?",
+    "explanation": "Anne's father, Otto Frank, was the only survivor of the family who later published Anne's diary.",
+    "options": [
+      { "text": "Otto Frank, her father", "isCorrect": true },
+      { "text": "Edith Frank, her mother", "isCorrect": false },
+      { "text": "Margot Frank, her sister", "isCorrect": false },
+      { "text": "Anne Frank herself", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 10",
+    "subject": "English",
+    "difficulty": "MEDIUM",
+    "text": "In 'The Black Aeroplane', how did the narrator behave inside the storm clouds when he saw the mysterious plane?",
+    "explanation": "The narrator was glad to see another person and followed the strange black aeroplane like an obedient child.",
+    "options": [
+      { "text": "He followed the other plane like an obedient child.", "isCorrect": true },
+      { "text": "He turned back and flew towards Paris.", "isCorrect": false },
+      { "text": "He tried to overtake the black plane.", "isCorrect": false },
+      { "text": "He called the security radar for assistance.", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 10",
+    "subject": "English",
+    "difficulty": "MEDIUM",
+    "text": "In the poem 'How to Tell Wild Animals', what is the Bengal Tiger's distinguishing feature?",
+    "explanation": "The Bengal Tiger is described as a noble wild beast with black stripes on a yellow background (ground).",
+    "options": [
+      { "text": "Black stripes on a yellow ground", "isCorrect": true },
+      { "text": "A large mane around his neck", "isCorrect": false },
+      { "text": "Spots similar to a leopard's coat", "isCorrect": false },
+      { "text": "A tail that winds around tree branches", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 10",
+    "subject": "English",
+    "difficulty": "MEDIUM",
+    "text": "Choose the correct indirect form of: The doctor said to me, 'Don't eat junk food.'",
+    "explanation": "Negative imperatives in indirect speech change the reporting verb to 'advised' and use 'not to + verb'.",
+    "options": [
+      { "text": "The doctor advised me not to eat junk food.", "isCorrect": true },
+      { "text": "The doctor advised me to don't eat junk food.", "isCorrect": false },
+      { "text": "The doctor ordered me that I do not eat junk food.", "isCorrect": false },
+      { "text": "The doctor suggested me to not eating junk food.", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 10",
+    "subject": "English",
+    "difficulty": "MEDIUM",
+    "text": "What physical description of Ausable is given in 'The Midnight Visitor'?",
+    "explanation": "Ausable was a secret agent who did not fit any description of a spy, being very fat and sloppy.",
+    "options": [
+      { "text": "Very fat and sloppy", "isCorrect": true },
+      { "text": "Tall, dark, and handsome", "isCorrect": false },
+      { "text": "Thin, muscular, and quick-witted", "isCorrect": false },
+      { "text": "Old, frail, and wearing thick glasses", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 10",
+    "subject": "English",
+    "difficulty": "MEDIUM",
+    "text": "In 'Madam Rides the Bus', why did Valli stand up on her seat during the bus ride?",
+    "explanation": "Valli stood up because the canvas blind covering the lower part of the bus window blocked her view of the outside landscape.",
+    "options": [
+      { "text": "Because the window blind cut off her view outside.", "isCorrect": true },
+      { "text": "Because the conductor asked her to stand up.", "isCorrect": false },
+      { "text": "Because she wanted to get off the bus early.", "isCorrect": false },
+      { "text": "Because she was excited to see the canal water.", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 10",
+    "subject": "English",
+    "difficulty": "MEDIUM",
+    "text": "Fill in the blank with the correct form of the verb: The novelist and the dramatist ________ arrived.",
+    "explanation": "The repetition of the article 'the' before both nouns shows they refer to two distinct people. Therefore, the verb must be plural ('have').",
+    "options": [
+      { "text": "have", "isCorrect": true },
+      { "text": "has", "isCorrect": false },
+      { "text": "is", "isCorrect": false },
+      { "text": "was", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 10",
+    "subject": "English",
+    "difficulty": "HARD",
+    "text": "In 'A Question of Trust', which house did Horace Danby plan to rob after studying its layout for two weeks?",
+    "explanation": "Horace planned to rob the safe containing fifteen thousand pounds worth of jewels at Shotover Grange.",
+    "options": [
+      { "text": "Shotover Grange", "isCorrect": true },
+      { "text": "Grange Hall", "isCorrect": false },
+      { "text": "Sherlock Manor", "isCorrect": false },
+      { "text": "Sunnyvale Cottage", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 10",
+    "subject": "English",
+    "difficulty": "HARD",
+    "text": "In 'The Ball Poem', what does the phrase 'in the world of possessions' mean?",
+    "explanation": "It refers to the materialist world where people love to own, buy, and accumulate material possessions.",
+    "options": [
+      { "text": "A world where material things are highly valued and owned.", "isCorrect": true },
+      { "text": "A world of spiritual and religious beliefs.", "isCorrect": false },
+      { "text": "A world where toys are distributed for free.", "isCorrect": false },
+      { "text": "A world dominated by science and technology.", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 10",
+    "subject": "English",
+    "difficulty": "HARD",
+    "text": "What critical discovery did Richard Ebright make regarding the gold spots on monarch butterfly pupae?",
+    "explanation": "Ebright proved that the spots were not decorative but produced a hormone necessary for the butterfly's development.",
+    "options": [
+      { "text": "The spots produce a hormone necessary for the butterfly's development.", "isCorrect": true },
+      { "text": "The spots are purely decorative to attract mates.", "isCorrect": false },
+      { "text": "The spots are used to absorb heat from sunlight.", "isCorrect": false },
+      { "text": "The spots serve as a camouflage mechanism against predators.", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 10",
+    "subject": "English",
+    "difficulty": "HARD",
+    "text": "Fill in the blank with the appropriate modal verb: You ________ pay your taxes on time as it is a legal duty.",
+    "explanation": "'Must' is used to express logical necessity or legal requirement, which fits the context of tax payments.",
+    "options": [
+      { "text": "must", "isCorrect": true },
+      { "text": "might", "isCorrect": false },
+      { "text": "would", "isCorrect": false },
+      { "text": "could", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 10",
+    "subject": "English",
+    "difficulty": "HARD",
+    "text": "In 'The Necklace', what truth did Madame Forestier reveal to Matilda ten years after the ball?",
+    "explanation": "Madame Forestier revealed that her original necklace was not real diamonds but cheap imitation jewelry worth only five hundred francs.",
+    "options": [
+      { "text": "Her original necklace was fake and made of imitation diamonds.", "isCorrect": true },
+      { "text": "She had sold the necklace to buy a new house.", "isCorrect": false },
+      { "text": "She had found the lost necklace in her wardrobe.", "isCorrect": false },
+      { "text": "The necklace was a gift from M. Loisel's family.", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 10",
+    "subject": "English",
+    "difficulty": "HARD",
+    "text": "In 'The Proposal', what was Chubukov's primary social class or occupation?",
+    "explanation": "Stephen Stepanovitch Chubukov was a wealthy Russian landowner and neighbor of Lomov.",
+    "options": [
+      { "text": "Landowner", "isCorrect": true },
+      { "text": "Military General", "isCorrect": false },
+      { "text": "Government clerk", "isCorrect": false },
+      { "text": "Vicar of the church", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 10",
+    "subject": "English",
+    "difficulty": "VERY HARD",
+    "text": "In the poem 'Amanda!', what is Amanda's mother correcting when she says: 'Stop that slouching and sit up straight!'?",
+    "explanation": "Her mother is correcting Amanda's lazy sitting posture (slouching) to make her sit upright.",
+    "options": [
+      { "text": "Her sitting posture", "isCorrect": true },
+      { "text": "Her reading habits in the dark", "isCorrect": false },
+      { "text": "Her handwriting style in notebooks", "isCorrect": false },
+      { "text": "Her way of speaking to elders", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 10",
+    "subject": "English",
+    "difficulty": "VERY HARD",
+    "text": "Why did Bholi develop a stammering problem during her childhood?",
+    "explanation": "Bholi fell off her cot in infancy, damaging her brain. Later, when she started speaking at age five, other children mimicked and teased her, making her lose confidence and stammer.",
+    "options": [
+      { "text": "She suffered brain damage in infancy and was teased by other children.", "isCorrect": true },
+      { "text": "She was born mute and could not speak at all.", "isCorrect": false },
+      { "text": "She had a severe case of smallpox that damaged her tongue.", "isCorrect": false },
+      { "text": "Her mother kept her isolated from other children.", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 10",
+    "subject": "English",
+    "difficulty": "VERY HARD",
+    "text": "In 'Glimpses of India', what is the traditional dress of the Coorgis called, and what does it resemble?",
+    "explanation": "The traditional black coat with an embroidered waistbelt is called 'Kuppia', which resembles the 'Kuffia' worn by Arabs.",
+    "options": [
+      { "text": "Kuppia, which resembles the Kuffia worn by Arabs.", "isCorrect": true },
+      { "text": "Kabai, which resembles the frocks worn by bakers.", "isCorrect": false },
+      { "text": "Lungi, which resembles traditional south Indian dress.", "isCorrect": false },
+      { "text": "Dhoti, which resembles north Indian formal dress.", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 10",
+    "subject": "English",
+    "difficulty": "VERY HARD",
+    "text": "Choose the correct indirect form of: She said, 'Alas! I have lost my purse.'",
+    "explanation": "Exclamatory sentences expressing sorrow use 'exclaimed with sorrow' or 'exclaimed sadly', and the tense shifts to past perfect.",
+    "options": [
+      { "text": "She exclaimed with sorrow that she had lost her purse.", "isCorrect": true },
+      { "text": "She said sadly that I have lost my purse.", "isCorrect": false },
+      { "text": "She cried that she lost her purse.", "isCorrect": false },
+      { "text": "She exclaimed with sorrow that she has lost her purse.", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 10",
+    "subject": "English",
+    "difficulty": "VERY HARD",
+    "text": "In 'The Tale of Custard the Dragon', Belinda's other pets mocked Custard by comparing him to which legendary figure?",
+    "explanation": "Ink, Blink, and Mustard rudely called Custard 'Percival', referring to a legendary knight of King Arthur who was mocked for his cowardice.",
+    "options": [
+      { "text": "Percival", "isCorrect": true },
+      { "text": "King Arthur", "isCorrect": false },
+      { "text": "Lancelot", "isCorrect": false },
+      { "text": "Merlin", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 10",
+    "subject": "English",
+    "difficulty": "VERY HARD",
+    "text": "In 'The Book That Saved the Earth', what alternative purpose does Noodle suggest for the 'sandwiches' (books) in the library?",
+    "explanation": "Noodle suggests that Earthlings do not eat them but use them as devices for eye communication (reading).",
+    "options": [
+      { "text": "Devices for eye communication (reading).", "isCorrect": true },
+      { "text": "Devices for ear communication (listening).", "isCorrect": false },
+      { "text": "Storage cases for secret microfilms.", "isCorrect": false },
+      { "text": "Decoy items to hide Martian weapons.", "isCorrect": false }
+    ]
+  }
+]

@@ -1,0 +1,122 @@
+[
+  {
+    "text": "What is the circular flow of income?",
+    "options": [
+      "A flow of income from households to firms and back to households.",
+      "A flow of income from firms to households and back to firms.",
+      "A flow of income from government to households and back to government.",
+      "A flow of income from foreign countries to households and back to foreign countries."
+    ],
+    "correctAnswer": "A flow of income from households to firms and back to households.",
+    "explanation": "The circular flow of income is a model that shows the flow of income between households and firms. It is a two-way flow, where households supply factors of production (labour, capital, etc.) to firms in exchange for income, and firms use these factors to produce goods and services, which are then sold to households.",
+    "difficulty": "Easy",
+    "class": "Class 12",
+    "subject": "Economics",
+    "chapter": "Ch 1: National Income and Related Aggregates"
+  },
+  {
+    "text": "What is the difference between Nominal and Real GDP?",
+    "options": [
+      "Nominal GDP is the value of goods and services produced in a year, while Real GDP is the value of goods and services produced in a year, adjusted for inflation.",
+      "Nominal GDP is the value of goods and services produced in a year, while Real GDP is the value of goods and services produced in a previous year.",
+      "Nominal GDP is the value of goods and services produced in a previous year, while Real GDP is the value of goods and services produced in a year, adjusted for inflation.",
+      "Nominal GDP is the value of goods and services produced in a year, while Real GDP is the value of goods and services produced in a year, without any adjustments."
+    ],
+    "correctAnswer": "Nominal GDP is the value of goods and services produced in a year, while Real GDP is the value of goods and services produced in a year, adjusted for inflation.",
+    "explanation": "Nominal GDP is the value of goods and services produced in a year, without any adjustments for inflation. Real GDP, on the other hand, is the value of goods and services produced in a year, adjusted for inflation. This means that Real GDP takes into account the changes in prices over time, while Nominal GDP does not.",
+    "difficulty": "Medium",
+    "class": "Class 12",
+    "subject": "Economics",
+    "chapter": "Ch 1: National Income and Related Aggregates"
+  },
+  {
+    "text": "What is the formula for GDP Deflator?",
+    "options": [
+      "GDP Deflator = (Nominal GDP - Real GDP) / Real GDP",
+      "GDP Deflator = (Nominal GDP + Real GDP) / 2",
+      "GDP Deflator = (Nominal GDP / Real GDP) x 100",
+      "GDP Deflator = (Real GDP / Nominal GDP) x 100"
+    ],
+    "correctAnswer": "GDP Deflator = (Nominal GDP / Real GDP) x 100",
+    "explanation": "The GDP Deflator is a measure of inflation, and it is calculated as the ratio of Nominal GDP to Real GDP, multiplied by 100. This means that it measures the change in prices over time, relative to the value of goods and services produced.",
+    "difficulty": "Medium",
+    "class": "Class 12",
+    "subject": "Economics",
+    "chapter": "Ch 1: National Income and Related Aggregates"
+  },
+  {
+    "text": "What is the difference between GNP and GDP?",
+    "options": [
+      "GNP is the value of goods and services produced by a country's citizens, while GDP is the value of goods and services produced within a country's borders.",
+      "GNP is the value of goods and services produced within a country's borders, while GDP is the value of goods and services produced by a country's citizens.",
+      "GNP is the value of goods and services produced by a country's citizens, both within and outside the country's borders, while GDP is the value of goods and services produced within a country's borders.",
+      "GNP is the value of goods and services produced within a country's borders, while GDP is the value of goods and services produced by a country's citizens, both within and outside the country's borders."
+    ],
+    "correctAnswer": "GNP is the value of goods and services produced by a country's citizens, both within and outside the country's borders, while GDP is the value of goods and services produced within a country's borders.",
+    "explanation": "GNP (Gross National Product) is the value of goods and services produced by a country's citizens, both within and outside the country's borders. GDP (Gross Domestic Product), on the other hand, is the value of goods and services produced within a country's borders.",
+    "difficulty": "Medium",
+    "class": "Class 12",
+    "subject": "Economics",
+    "chapter": "Ch 1: National Income and Related Aggregates"
+  },
+  {
+    "text": "What is the formula for NNP at Market Price?",
+    "options": [
+      "NNP = C + I + G + (X - M)",
+      "NNP = C + I + G + X",
+      "NNP = C + I + G + (X - M) - Depreciation",
+      "NNP = C + I + G + X - M"
+    ],
+    "correctAnswer": "NNP = C + I + G + (X - M) - Depreciation",
+    "explanation": "NNP (Net National Product) at Market Price is the value of goods and services produced by a country's citizens, minus depreciation. It is calculated as the sum of consumption, investment, government spending, and net exports (exports minus imports), minus depreciation.",
+    "difficulty": "Hard",
+    "class": "Class 12",
+    "subject": "Economics",
+    "chapter": "Ch 1: National Income and Related Aggregates"
+  },
+  {
+    "text": "What is the Value Added Method?",
+    "options": [
+      "A method of calculating GDP by adding up the value of intermediate goods and services.",
+      "A method of calculating GDP by adding up the value of final goods and services.",
+      "A method of calculating GDP by subtracting the value of intermediate goods and services from the value of final goods and services.",
+      "A method of calculating GDP by adding up the value of all goods and services produced in a year."
+    ],
+    "correctAnswer": "A method of calculating GDP by adding up the value of final goods and services.",
+    "explanation": "The Value Added Method is a way of calculating GDP by adding up the value of final goods and services produced in a year. It takes into account the value added at each stage of production, from raw materials to final goods.",
+    "difficulty": "Medium",
+    "class": "Class 12",
+    "subject": "Economics",
+    "chapter": "Ch 1: National Income and Related Aggregates"
+  },
+  {
+    "text": "What is the Income Method?",
+    "options": [
+      "A method of calculating GDP by adding up the income earned by households and firms.",
+      "A method of calculating GDP by adding up the expenditure made by households and firms.",
+      "A method of calculating GDP by subtracting the income earned by households and firms from the expenditure made by households and firms.",
+      "A method of calculating GDP by adding up the value of all goods and services produced in a year."
+    ],
+    "correctAnswer": "A method of calculating GDP by adding up the income earned by households and firms.",
+    "explanation": "The Income Method is a way of calculating GDP by adding up the income earned by households and firms. It includes all types of income, such as wages, rents, and profits.",
+    "difficulty": "Medium",
+    "class": "Class 12",
+    "subject": "Economics",
+    "chapter": "Ch 1: National Income and Related Aggregates"
+  },
+  {
+    "text": "What is the Expenditure Method?",
+    "options": [
+      "A method of calculating GDP by adding up the expenditure made by households and firms.",
+      "A method of calculating GDP by adding up the income earned by households and firms.",
+      "A method of calculating GDP by subtracting the expenditure made by households and firms from the income earned by households and firms.",
+      "A method of calculating GDP by adding up the value of all goods and services produced in a year."
+    ],
+    "correctAnswer": "A method of calculating GDP by adding up the expenditure made by households and firms.",
+    "explanation": "The Expenditure Method is a way of calculating GDP by adding up the expenditure made by households and firms. It includes all types of expenditure, such as consumption, investment, government spending, and net exports.",
+    "difficulty": "Medium",
+    "class": "Class 12",
+    "subject": "Economics",
+    "chapter": "Ch 1: National Income and Related Aggregates"
+  }
+]

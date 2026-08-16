@@ -1,0 +1,327 @@
+[
+  {
+    "class": "Class 8",
+    "subject": "Hindi Grammar",
+    "difficulty": "Easy",
+    "text": "\"पेड़ से पत्ता गिरा।\" इस वाक्य में 'पेड़ से' पद में कौन सा कारक है?",
+    "explanation": "जब किसी संज्ञा या सर्वनाम से किसी वस्तु का अलग होने का भाव प्रकट होता है, वहाँ अपादान कारक होता है। यहाँ पत्ता पेड़ से अलग हो रहा है।",
+    "options": [
+      { "text": "करण कारक", "isCorrect": false },
+      { "text": "अपादान कारक", "isCorrect": true },
+      { "text": "कर्ता कारक", "isCorrect": false },
+      { "text": "कर्म कारक", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 8",
+    "subject": "Hindi Grammar",
+    "difficulty": "Medium",
+    "text": "\"राम ने रावण को बाण से मारा।\" इस वाक्य में 'बाण से' पद में कौन सा कारक प्रयुक्त हुआ है?",
+    "explanation": "कर्ता जिस साधन या माध्यम से क्रिया करता है, उसे करण कारक कहते हैं। यहाँ बाण मारने का साधन है, इसलिए करण कारक है।",
+    "options": [
+      { "text": "अपादान कारक", "isCorrect": false },
+      { "text": "करण कारक", "isCorrect": true },
+      { "text": "संप्रदान कारक", "isCorrect": false },
+      { "text": "अधिकरण कारक", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 8",
+    "subject": "Hindi Grammar",
+    "difficulty": "Hard",
+    "text": "\"हे राम! मेरी रक्षा करो।\" इस वाक्य में 'हे राम!' पद में कौन सा कारक प्रयुक्त हुआ है?",
+    "explanation": "किसी को बुलाने, सचेत करने या पुकारने के लिए संबोधन कारक का प्रयोग किया जाता है, जिसके चिह्न 'हे', 'अरे' आदि हैं।",
+    "options": [
+      { "text": "कर्ता कारक", "isCorrect": false },
+      { "text": "संबोधन कारक", "isCorrect": true },
+      { "text": "अधिकरण कारक", "isCorrect": false },
+      { "text": "कर्म कारक", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 8",
+    "subject": "Hindi Grammar",
+    "difficulty": "Easy",
+    "text": "'कवि' शब्द का सही स्त्रीलिंग रूप निम्नलिखित में से कौन सा है?",
+    "explanation": "'कवि' का स्त्रीलिंग रूप 'कवयित्री' होता है। वर्तनी की दृष्टि से यह शब्द अत्यधिक महत्वपूर्ण है।",
+    "options": [
+      { "text": "कवियित्री", "isCorrect": false },
+      { "text": "कवयित्री", "isCorrect": true },
+      { "text": "कविनी", "isCorrect": false },
+      { "text": "कवियानी", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 8",
+    "subject": "Hindi Grammar",
+    "difficulty": "Medium",
+    "text": "'चिड़िया' शब्द का सही बहुवचन रूप निम्नलिखित में से क्या होगा?",
+    "explanation": "इकारांत स्त्रीलिंग शब्दों के अंत में आने वाले 'या' को 'याँ' में बदलकर उनका बहुवचन बनाया जाता है।",
+    "options": [
+      { "text": "चिड़ियाएँ", "isCorrect": false },
+      { "text": "चिड़ियाँ", "isCorrect": true },
+      { "text": "चिड़ियों", "isCorrect": false },
+      { "text": "चिड़ियाओं", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 8",
+    "subject": "Hindi Grammar",
+    "difficulty": "Hard",
+    "text": "निम्नलिखित में से कौन सा शब्द सदा बहुवचन के रूप में ही प्रयुक्त होता है?",
+    "explanation": "हिंदी में कुछ शब्द जैसे 'प्राण', 'हस्ताक्षर', 'आँसू', 'दर्शन' आदि सदैव बहुवचन में ही प्रयोग किए जाते हैं।",
+    "options": [
+      { "text": "लड़का", "isCorrect": false },
+      { "text": "पुस्तक", "isCorrect": false },
+      { "text": "प्राण", "isCorrect": true },
+      { "text": "नदी", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 8",
+    "subject": "Hindi Grammar",
+    "difficulty": "Easy",
+    "text": "\"वह धीरे-धीरे चलता है।\" इस वाक्य में प्रयुक्त 'धीरे-धीरे' शब्द क्या है?",
+    "explanation": "'धीरे-धीरे' शब्द 'चलता है' (क्रिया) की विशेषता या ढंग बता रहा है, इसलिए यह रीतिवाचक क्रियाविशेषण है।",
+    "options": [
+      { "text": "विशेषण", "isCorrect": false },
+      { "text": "क्रियाविशेषण", "isCorrect": true },
+      { "text": "क्रिया", "isCorrect": false },
+      { "text": "संज्ञा", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 8",
+    "subject": "Hindi Grammar",
+    "difficulty": "Medium",
+    "text": "\"दरवाजे के बाहर कोई खड़ा है।\" इस वाक्य में 'बाहर' किस प्रकार का क्रियाविशेषण है?",
+    "explanation": "'बाहर' शब्द क्रिया के संपन्न होने के स्थान का बोध कराता है, इसलिए यह स्थानवाचक क्रियाविशेषण है।",
+    "options": [
+      { "text": "कालवाचक क्रियाविशेषण", "isCorrect": false },
+      { "text": "स्थानवाचक क्रियाविशेषण", "isCorrect": true },
+      { "text": "परिमाणवाचक क्रियाविशेषण", "isCorrect": false },
+      { "text": "रीतिवाचक क्रियाविशेषण", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 8",
+    "subject": "Hindi Grammar",
+    "difficulty": "Very Hard",
+    "text": "\"तुम थोड़ा ही खा सके।\" इस वाक्य में 'ही' व्याकरण की दृष्टि से क्या है?",
+    "explanation": "जो अव्यय शब्द किसी शब्द के बाद लगकर उसके अर्थ पर विशेष बल देते हैं, उन्हें 'निपात' कहा जाता है (जैसे: ही, भी, तो, मात्र)।",
+    "options": [
+      { "text": "विशेषण", "isCorrect": false },
+      { "text": "निपात", "isCorrect": true },
+      { "text": "क्रियाविशेषण", "isCorrect": false },
+      { "text": "अव्यय", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 8",
+    "subject": "Hindi Grammar",
+    "difficulty": "Hard",
+    "text": "\"मुझसे चला नहीं जाता।\" यह वाक्य वाच्य के किस भेद का सही उदाहरण है?",
+    "explanation": "इस वाक्य में न तो कर्ता की प्रधानता है और न कर्म की, बल्कि क्रिया का भाव (असमर्थता) प्रधान है, इसलिए यह भाववाच्य है।",
+    "options": [
+      { "text": "कर्तृवाच्य", "isCorrect": false },
+      { "text": "भाववाच्य", "isCorrect": true },
+      { "text": "कर्मवाच्य", "isCorrect": false },
+      { "text": "प्रेरणार्थक वाच्य", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 8",
+    "subject": "Hindi Grammar",
+    "difficulty": "Very Hard",
+    "text": "\"यदि वह पढ़ता तो परीक्षा में उत्तीर्ण हो जाता।\" यह वाक्य भूतकाल के किस भेद का उदाहरण है?",
+    "explanation": "जहाँ भूतकाल में एक क्रिया का होना किसी दूसरी क्रिया के होने पर निर्भर करता है, वहाँ हेतुहेतुमद् भूतकाल होता है।",
+    "options": [
+      { "text": "सामान्य भूतकाल", "isCorrect": false },
+      { "text": "हेतुहेतुमद् भूतकाल", "isCorrect": true },
+      { "text": "संदिग्ध भूतकाल", "isCorrect": false },
+      { "text": "अपूर्ण भूतकाल", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 8",
+    "subject": "Hindi Grammar",
+    "difficulty": "Very Hard",
+    "text": "\"रोहन पुस्तक पढ़ता है।\" इस कर्तृवाच्य वाक्य को कर्मवाच्य में बदलने पर कौन सा रूप सही होगा?",
+    "explanation": "कर्तृवाच्य से कर्मवाच्य बनाते समय कर्ता के साथ 'द्वारा' या 'से' लगाया जाता है और क्रिया कर्म (पुस्तक - स्त्रीलिंग) के अनुसार 'पढ़ी जाती है' हो जाएगी।",
+    "options": [
+      { "text": "रोहन पुस्तक पढ़ रहा है।", "isCorrect": false },
+      { "text": "रोहन द्वारा पुस्तक पढ़ी जाती है।", "isCorrect": true },
+      { "text": "रोहन से पुस्तक नहीं पढ़ी जाती।", "isCorrect": false },
+      { "text": "रोहन ने पुस्तक पढ़ी।", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 8",
+    "subject": "Hindi Grammar",
+    "difficulty": "Easy",
+    "text": "'पवन' शब्द का सही संधि-विच्छेद निम्नलिखित में से क्या होगा?",
+    "explanation": "'पो + अन' मिलकर 'पवन' बनता है। यहाँ 'ओ + अ = अव' का नियम लागू हुआ है, जो अयादि स्वर संधि का उदाहरण है।",
+    "options": [
+      { "text": "पौ + अन", "isCorrect": false },
+      { "text": "पो + अन", "isCorrect": true },
+      { "text": "प + वन", "isCorrect": false },
+      { "text": "प + अन", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 8",
+    "subject": "Hindi Grammar",
+    "difficulty": "Hard",
+    "text": "'सदाचार' शब्द का सही संधि-विच्छेद और संधि का नाम क्या होगा?",
+    "explanation": "'सत् + आचार' मिलकर 'सदाचार' बनता है। वर्ग के प्रथम वर्ण का तृतीय वर्ण में परिवर्तन होने के कारण यह व्यंजन संधि का उदाहरण है।",
+    "options": [
+      { "text": "सदा + चार (स्वर संधि)", "isCorrect": false },
+      { "text": "सत् + आचार (व्यंजन संधि)", "isCorrect": true },
+      { "text": "सत् + अचार (विसर्ग संधि)", "isCorrect": false },
+      { "text": "सद + आचार (व्यंजन संधि)", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 8",
+    "subject": "Hindi Grammar",
+    "difficulty": "Very Hard",
+    "text": "'उज्ज्वल' शब्द का सही संधि-विच्छेद निम्नलिखित में से क्या होगा?",
+    "explanation": "'उत् + ज्वल' मिलकर 'उज्ज्वल' बनता है। व्यंजन संधि के नियम के अनुसार, यदि 'त' के बाद 'ज' हो, तो 'त' भी 'ज' में बदल जाता है।",
+    "options": [
+      { "text": "उज + ज्वल", "isCorrect": false },
+      { "text": "उत् + ज्वल", "isCorrect": true },
+      { "text": "उत् + जल", "isCorrect": false },
+      { "text": "उद + ज्वल", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 8",
+    "subject": "Hindi Grammar",
+    "difficulty": "Medium",
+    "text": "'लंबोदर' (लंबा है उदर जिसका अर्थात् गणेश) शब्द में कौन सा समास है?",
+    "explanation": "जिस समास में दोनों पद मिलकर किसी तीसरे विशेष पद (गणेश) की ओर संकेत करते हैं, वहाँ बहुव्रीहि समास होता है।",
+    "options": [
+      { "text": "कर्मधारय समास", "isCorrect": false },
+      { "text": "बहुव्रीहि समास", "isCorrect": true },
+      { "text": "तत्पुरुष समास", "isCorrect": false },
+      { "text": "द्विगु समास", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 8",
+    "subject": "Hindi Grammar",
+    "difficulty": "Hard",
+    "text": "'पंचवटी' (पांच वटों का समूह) में कौन सा समास प्रयुक्त है?",
+    "explanation": "जिस समास का पहला पद संख्यावाचक विशेषण हो और वह किसी समूह का बोध कराए, उसे द्विगु समास कहते हैं।",
+    "options": [
+      { "text": "द्वंद्व समास", "isCorrect": false },
+      { "text": "द्विगु समास", "isCorrect": true },
+      { "text": "बहुव्रीहि समास", "isCorrect": false },
+      { "text": "तत्पुरुष समास", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 8",
+    "subject": "Hindi Grammar",
+    "difficulty": "Very Hard",
+    "text": "'पीतांबर' शब्द में वाक्य के प्रयोग और विग्रह की स्थिति के अनुसार कौन से दो समास हो सकते हैं?",
+    "explanation": "'पीत है जो अंबर' के रूप में यह कर्मधारय समास है, और 'पीत है अंबर जिसका अर्थात् कृष्ण' के रूप में यह बहुव्रीहि समास है।",
+    "options": [
+      { "text": "द्विगु और तत्पुरुष", "isCorrect": false },
+      { "text": "कर्मधारय और बहुव्रीहि", "isCorrect": true },
+      { "text": "द्वंद्व और अव्ययीभाव", "isCorrect": false },
+      { "text": "बहुव्रीहि और तत्पुरुष", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 8",
+    "subject": "Hindi Grammar",
+    "difficulty": "Easy",
+    "text": "निम्नलिखित में से कौन सा शब्द तद्भव शब्द का उदाहरण है?",
+    "explanation": "'सूर्य' तत्सम शब्द है, जिसका परिवर्तित तद्भव रूप 'सूरज' है। चंद्र और अग्नि भी तत्सम शब्द हैं।",
+    "options": [
+      { "text": "सूर्य", "isCorrect": false },
+      { "text": "सूरज", "isCorrect": true },
+      { "text": "चंद्र", "isCorrect": false },
+      { "text": "अग्नि", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 8",
+    "subject": "Hindi Grammar",
+    "difficulty": "Medium",
+    "text": "'जो सब कुछ जानता हो' इस वाक्यांश के लिए एक सही शब्द क्या होगा?",
+    "explanation": "सब कुछ जानने वाले को 'सर्वज्ञ' कहते हैं। कम जानने वाले को 'अल्पज्ञ' और बहुत जानने वाले को 'बहुज्ञ' कहा जाता है।",
+    "options": [
+      { "text": "अल्पज्ञ", "isCorrect": false },
+      { "text": "सर्वज्ञ", "isCorrect": true },
+      { "text": "बहुज्ञ", "isCorrect": false },
+      { "text": "विज्ञ", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 8",
+    "subject": "Hindi Grammar",
+    "difficulty": "Hard",
+    "text": "निम्नलिखित में से कौन सा शब्द 'कनक' का अनेकार्थी शब्द नहीं है?",
+    "explanation": "'कनक' के अनेकार्थी अर्थ सोना, धतूरा और गेहूँ हैं। 'कमल' इसका अनेकार्थी शब्द नहीं है।",
+    "options": [
+      { "text": "सोना", "isCorrect": false },
+      { "text": "कमल", "isCorrect": true },
+      { "text": "धतूरा", "isCorrect": false },
+      { "text": "गेहूँ", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 8",
+    "subject": "Hindi Grammar",
+    "difficulty": "Very Hard",
+    "text": "'अनल' और 'अनिल' शब्द-युग्म का सही अर्थ-भेद क्या है?",
+    "explanation": "'अनल' का अर्थ 'आग' होता है तथा 'अनिल' का अर्थ 'हवा' (वायु) होता है।",
+    "options": [
+      { "text": "हवा और आग", "isCorrect": false },
+      { "text": "आग और हवा", "isCorrect": true },
+      { "text": "पानी और आग", "isCorrect": false },
+      { "text": "आग और पानी", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 8",
+    "subject": "Hindi Grammar",
+    "difficulty": "Medium",
+    "text": "\"अँगूठा दिखाना\" इस मुहावरे का सही अर्थ क्या है?",
+    "explanation": "\"अँगूठा दिखाना\" मुहावरे का अर्थ होता है ऐन वक्त पर किसी काम के लिए साफ मना कर देना।",
+    "options": [
+      { "text": "चिढ़ाना", "isCorrect": false },
+      { "text": "वक्त पर मना कर देना", "isCorrect": true },
+      { "text": "मदद करना", "isCorrect": false },
+      { "text": "शाबाशी देना", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 8",
+    "subject": "Hindi Grammar",
+    "difficulty": "Hard",
+    "text": "\"काला अक्षर भैंस बराबर\" इस लोकोक्ति का सही अर्थ क्या है?",
+    "explanation": "इस लोकोक्ति का अर्थ है कि जो व्यक्ति बिल्कुल पढ़ा-लिखा न हो (पूर्णतः अनपढ़ हो)।",
+    "options": [
+      { "text": "काली भैंस पालना", "isCorrect": false },
+      { "text": "बिल्कुल अनपढ़ होना", "isCorrect": true },
+      { "text": "सुंदर लिखावट होना", "isCorrect": false },
+      { "text": "कठिन कार्य करना", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 8",
+    "subject": "Hindi Grammar",
+    "difficulty": "Very Hard",
+    "text": "\"चिराग तले अँधेरा\" इस लोकोक्ति का सही अर्थ क्या है?",
+    "explanation": "इस लोकोक्ति का अर्थ है कि दूसरों को ज्ञान देने वाले या सुधारने वाले व्यक्ति में स्वयं के पास ही दोष या अज्ञान का होना।",
+    "options": [
+      { "text": "दिए के नीचे अँधेरा होना", "isCorrect": false },
+      { "text": "अपनी बुराई न दिखाई देना", "isCorrect": true },
+      { "text": "कम रोशनी होना", "isCorrect": false },
+      { "text": "चिराग का बुझ जाना", "isCorrect": false }
+    ]
+  }
+]

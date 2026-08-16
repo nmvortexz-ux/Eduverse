@@ -1,0 +1,132 @@
+[
+  {
+    "class": "Class 9",
+    "subject": "English",
+    "difficulty": "Easy",
+    "text": "Identify the noun in the sentence: 'The swift fox jumped over the lazy dog.'",
+    "explanation": "'Fox' and 'dog' are the nouns (things/animals) in this sentence.",
+    "options": [
+      { "text": "swift", "isCorrect": false },
+      { "text": "jumped", "isCorrect": false },
+      { "text": "fox", "isCorrect": true },
+      { "text": "over", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 9",
+    "subject": "English",
+    "difficulty": "Medium",
+    "text": "Choose the correct synonym for 'Benevolent':",
+    "explanation": "'Benevolent' means well meaning and kindly.",
+    "options": [
+      { "text": "Cruel", "isCorrect": false },
+      { "text": "Kind", "isCorrect": true },
+      { "text": "Greedy", "isCorrect": false },
+      { "text": "Selfish", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 9",
+    "subject": "English",
+    "difficulty": "Medium",
+    "text": "Identify the figure of speech: 'The wind whispered through the trees.'",
+    "explanation": "Personification gives human qualities (whispering) to non-human things (the wind).",
+    "options": [
+      { "text": "Simile", "isCorrect": false },
+      { "text": "Metaphor", "isCorrect": false },
+      { "text": "Personification", "isCorrect": true },
+      { "text": "Hyperbole", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 9",
+    "subject": "English",
+    "difficulty": "Hard",
+    "text": "What is the meaning of the idiom 'A blessing in disguise'?",
+    "explanation": "A blessing in disguise refers to a good thing that initially seemed bad.",
+    "options": [
+      { "text": "A good thing that seemed bad at first", "isCorrect": true },
+      { "text": "A bad thing disguised as good", "isCorrect": false },
+      { "text": "Something that is hidden from view", "isCorrect": false },
+      { "text": "A secret gift", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 9",
+    "subject": "English",
+    "difficulty": "Easy",
+    "text": "Which of the following is a pronoun?",
+    "explanation": "'He' is a pronoun, a word that can function as a noun phrase used by itself and that refers either to the participants in the discourse or to someone or something mentioned elsewhere.",
+    "options": [
+      { "text": "Run", "isCorrect": false },
+      { "text": "Beautiful", "isCorrect": false },
+      { "text": "He", "isCorrect": true },
+      { "text": "Quickly", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 9",
+    "subject": "English",
+    "difficulty": "Medium",
+    "text": "Select the correctly spelled word:",
+    "explanation": "'Accommodation' is spelled with two c's and two m's.",
+    "options": [
+      { "text": "Accomodation", "isCorrect": false },
+      { "text": "Acommodation", "isCorrect": false },
+      { "text": "Accommodation", "isCorrect": true },
+      { "text": "Acomodation", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 9",
+    "subject": "English",
+    "difficulty": "Hard",
+    "text": "Identify the tense: 'She had been reading for two hours when I arrived.'",
+    "explanation": "This sentence is in the Past Perfect Continuous tense ('had been reading').",
+    "options": [
+      { "text": "Past Perfect", "isCorrect": false },
+      { "text": "Past Continuous", "isCorrect": false },
+      { "text": "Past Perfect Continuous", "isCorrect": true },
+      { "text": "Present Perfect Continuous", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 9",
+    "subject": "English",
+    "difficulty": "Medium",
+    "text": "What is the antonym of 'Diligent'?",
+    "explanation": "Diligent means having or showing care and conscientiousness in one's work. Lazy is the antonym.",
+    "options": [
+      { "text": "Hardworking", "isCorrect": false },
+      { "text": "Lazy", "isCorrect": true },
+      { "text": "Attentive", "isCorrect": false },
+      { "text": "Careful", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 9",
+    "subject": "English",
+    "difficulty": "Easy",
+    "text": "Fill in the blank: Neither John ___ Mary knew the answer.",
+    "explanation": "'Nor' is the correct correlative conjunction to use with 'Neither'.",
+    "options": [
+      { "text": "or", "isCorrect": false },
+      { "text": "and", "isCorrect": false },
+      { "text": "nor", "isCorrect": true },
+      { "text": "but", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 9",
+    "subject": "English",
+    "difficulty": "Hard",
+    "text": "Which word is an adjective in the sentence: 'The quickly moving train startled the loudly barking dog.'",
+    "explanation": "'Train' and 'dog' are nouns. 'Moving' and 'barking' are participles acting as adjectives, but the core nouns are being modified. Here 'barking' acts as an adjective.",
+    "options": [
+      { "text": "quickly", "isCorrect": false },
+      { "text": "loudly", "isCorrect": false },
+      { "text": "moving", "isCorrect": true },
+      { "text": "startled", "isCorrect": false }
+    ]
+  }
+]

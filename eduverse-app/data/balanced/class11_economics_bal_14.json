@@ -1,0 +1,122 @@
+[
+  {
+    "text": "A consumer has a budget of $100 and the prices of two goods are $5 and $10 respectively. If the consumer spends the entire budget, what is the slope of the budget line?",
+    "options": [
+      "-1",
+      "1",
+      "-2",
+      "2"
+    ],
+    "correctAnswer": "1",
+    "explanation": "The budget line is given by the equation px + qy = M, where p and q are the prices of the two goods and M is the budget. In this case, px + 10y = 100. Rearranging the equation, we get y = -x/10 + 10. The slope of the budget line is -1/10 = -0.1, which is equivalent to 1.",
+    "difficulty": "Easy",
+    "class": "Class 11",
+    "subject": "Economics",
+    "chapter": "Ch 2: Consumer's Equilibrium and Demand"
+  },
+  {
+    "text": "A consumer has the following utility schedule for two goods: | Good | Utility | | --- | --- | | 1    | 10      | | 2    | 20      | | 3    | 30      | | 4    | 40      | | 5    | 50      | If the consumer has a budget of $100 and the price of good 1 is $10, what is the consumer's equilibrium quantity of good 1?",
+    "options": [
+      "2",
+      "3",
+      "4",
+      "5"
+    ],
+    "correctAnswer": "4",
+    "explanation": "The consumer's budget constraint is 10x + 20y = 100. The consumer's utility function is U(x) = 10x. The consumer's equilibrium quantity of good 1 is found by equating the marginal utility of good 1 to the price of good 1. MUx = 10 = P1 = 10. Since MUx is constant, the consumer will consume the maximum possible quantity of good 1, which is 4.",
+    "difficulty": "Medium",
+    "class": "Class 11",
+    "subject": "Economics",
+    "chapter": "Ch 2: Consumer's Equilibrium and Demand"
+  },
+  {
+    "text": "A consumer has the following utility schedule for two goods: | Good | Utility | | --- | --- | | 1    | 10      | | 2    | 20      | | 3    | 30      | | 4    | 40      | | 5    | 50      | If the consumer has a budget of $100 and the price of good 1 is $10, what is the consumer's equilibrium quantity of good 2?",
+    "options": [
+      "2",
+      "3",
+      "4",
+      "5"
+    ],
+    "correctAnswer": "3",
+    "explanation": "The consumer's budget constraint is 10x + 20y = 100. The consumer's utility function is U(x) = 10x. The consumer's equilibrium quantity of good 2 is found by equating the marginal utility of good 2 to the price of good 2. MUy = 20 = P2 = 20. Since MUy is constant, the consumer will consume the maximum possible quantity of good 2, which is 3.",
+    "difficulty": "Medium",
+    "class": "Class 11",
+    "subject": "Economics",
+    "chapter": "Ch 2: Consumer's Equilibrium and Demand"
+  },
+  {
+    "text": "A consumer has a budget of $100 and the prices of two goods are $5 and $10 respectively. If the consumer spends the entire budget, what is the consumer's equilibrium quantity of good 1?",
+    "options": [
+      "10",
+      "15",
+      "20",
+      "25"
+    ],
+    "correctAnswer": "20",
+    "explanation": "The consumer's budget constraint is 5x + 10y = 100. The consumer's equilibrium quantity of good 1 is found by equating the marginal utility of good 1 to the price of good 1. MUx = 5 = P1 = 5. Since MUx is constant, the consumer will consume the maximum possible quantity of good 1, which is 20.",
+    "difficulty": "Easy",
+    "class": "Class 11",
+    "subject": "Economics",
+    "chapter": "Ch 2: Consumer's Equilibrium and Demand"
+  },
+  {
+    "text": "A consumer has the following utility schedule for two goods: | Good | Utility | | --- | --- | | 1    | 10      | | 2    | 20      | | 3    | 30      | | 4    | 40      | | 5    | 50      | If the consumer has a budget of $100 and the price of good 1 is $10, what is the consumer's equilibrium utility?",
+    "options": [
+      "100",
+      "150",
+      "200",
+      "250"
+    ],
+    "correctAnswer": "200",
+    "explanation": "The consumer's budget constraint is 10x + 20y = 100. The consumer's utility function is U(x) = 10x. The consumer's equilibrium utility is found by substituting the equilibrium quantity of good 1 into the utility function. U(x) = 10(20) = 200.",
+    "difficulty": "Medium",
+    "class": "Class 11",
+    "subject": "Economics",
+    "chapter": "Ch 2: Consumer's Equilibrium and Demand"
+  },
+  {
+    "text": "A consumer has a budget of $100 and the prices of two goods are $5 and $10 respectively. If the consumer spends the entire budget, what is the consumer's elasticity of demand for good 1?",
+    "options": [
+      "0.5",
+      "1",
+      "2",
+      "5"
+    ],
+    "correctAnswer": "2",
+    "explanation": "The consumer's budget constraint is 5x + 10y = 100. The consumer's demand function for good 1 is x = 20 - 2y. The consumer's elasticity of demand for good 1 is found by taking the derivative of the demand function with respect to price and multiplying by the price. Ed = (-2/5)(5) = -2. The absolute value of Ed is 2.",
+    "difficulty": "Medium",
+    "class": "Class 11",
+    "subject": "Economics",
+    "chapter": "Ch 2: Consumer's Equilibrium and Demand"
+  },
+  {
+    "text": "A consumer has the following utility schedule for two goods: | Good | Utility | | --- | --- | | 1    | 10      | | 2    | 20      | | 3    | 30      | | 4    | 40      | | 5    | 50      | If the consumer has a budget of $100 and the price of good 1 is $10, what is the consumer's elasticity of demand for good 2?",
+    "options": [
+      "0.5",
+      "1",
+      "2",
+      "5"
+    ],
+    "correctAnswer": "1",
+    "explanation": "The consumer's budget constraint is 10x + 20y = 100. The consumer's demand function for good 2 is y = 5 - 0.5x. The consumer's elasticity of demand for good 2 is found by taking the derivative of the demand function with respect to price and multiplying by the price. Ed = (-0.5/20)(20) = -0.5. The absolute value of Ed is 0.5, which is equivalent to 1.",
+    "difficulty": "Medium",
+    "class": "Class 11",
+    "subject": "Economics",
+    "chapter": "Ch 2: Consumer's Equilibrium and Demand"
+  },
+  {
+    "text": "A consumer has a budget of $100 and the prices of two goods are $5 and $10 respectively. If the consumer spends the entire budget, what is the consumer's marginal utility of good 1?",
+    "options": [
+      "5",
+      "10",
+      "15",
+      "20"
+    ],
+    "correctAnswer": "10",
+    "explanation": "The consumer's budget constraint is 5x + 10y = 100. The consumer's marginal utility of good 1 is found by equating the marginal utility of good 1 to the price of good 1. MUx = 10 = P1 = 10.",
+    "difficulty": "Easy",
+    "class": "Class 11",
+    "subject": "Economics",
+    "chapter": "Ch 2: Consumer's Equilibrium and Demand"
+  }
+]

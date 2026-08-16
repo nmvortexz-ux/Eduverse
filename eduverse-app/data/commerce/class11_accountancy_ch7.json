@@ -1,0 +1,362 @@
+[
+  {
+    "text": "What is the primary cause of depreciation of assets?",
+    "options": [
+      "Obsolescence",
+      "Wear and Tear",
+      "Efflux of time",
+      "All of the above"
+    ],
+    "correctAnswer": "All of the above",
+    "explanation": "Depreciation is caused by various factors including wear and tear, efflux of time, and obsolescence. As per the NCERT textbook, these factors contribute to the decrease in the value of assets over their useful life.",
+    "difficulty": "Easy",
+    "class": "Class 11",
+    "subject": "Accountancy",
+    "chapter": "Ch 7: Depreciation, Provisions and Reserves"
+  },
+  {
+    "text": "Which method of depreciation is based on the assumption that the asset will lose its value evenly over its useful life?",
+    "options": [
+      "Straight Line Method (SLM)",
+      "Written Down Value (WDV) Method",
+      "Annuity Method",
+      "Revaluation Method"
+    ],
+    "correctAnswer": "Straight Line Method (SLM)",
+    "explanation": "The Straight Line Method (SLM) of depreciation assumes that the asset will lose its value evenly over its useful life. This method calculates depreciation as $\\frac{Cost - Residual\\ Value}{Useful\\ Life}$, as explained in the NCERT textbook.",
+    "difficulty": "Medium",
+    "class": "Class 11",
+    "subject": "Accountancy",
+    "chapter": "Ch 7: Depreciation, Provisions and Reserves"
+  },
+  {
+    "text": "What is the formula to calculate the depreciation under the Written Down Value (WDV) Method?",
+    "options": [
+      "$Depreciation = \\frac{Cost - Residual\\ Value}{Useful\\ Life}$",
+      "$Depreciation = \\frac{Opening\\ Balance - Residual\\ Value}{Useful\\ Life} \\times Rate\\ of\\ Depreciation$",
+      "$Depreciation = Rate\\ of\\ Depreciation \\times Opening\\ Balance$",
+      "$Depreciation = Cost - Residual\\ Value$"
+    ],
+    "correctAnswer": "$Depreciation = Rate\\ of\\ Depreciation \\times Opening\\ Balance$",
+    "explanation": "The Written Down Value (WDV) Method calculates depreciation as $Rate\\ of\\ Depreciation \\times Opening\\ Balance$. This method takes into account the reducing balance of the asset over its useful life, as explained in the NCERT textbook.",
+    "difficulty": "Medium",
+    "class": "Class 11",
+    "subject": "Accountancy",
+    "chapter": "Ch 7: Depreciation, Provisions and Reserves"
+  },
+  {
+    "text": "What is the main difference between provisions and reserves?",
+    "options": [
+      "Provisions are made for known liabilities, while reserves are made for unknown liabilities",
+      "Provisions are made for unknown liabilities, while reserves are made for known liabilities",
+      "Provisions are made for revenue items, while reserves are made for capital items",
+      "Provisions are made for capital items, while reserves are made for revenue items"
+    ],
+    "correctAnswer": "Provisions are made for known liabilities, while reserves are made for unknown liabilities",
+    "explanation": "Provisions are made for known liabilities, such as depreciation, bad debts, etc. On the other hand, reserves are made for unknown liabilities or for strengthening the financial position of the business, as explained in the NCERT textbook.",
+    "difficulty": "Medium",
+    "class": "Class 11",
+    "subject": "Accountancy",
+    "chapter": "Ch 7: Depreciation, Provisions and Reserves"
+  },
+  {
+    "text": "Which of the following is a type of reserve?",
+    "options": [
+      "General Reserve",
+      "Provision for Depreciation",
+      "Provision for Bad Debts",
+      "All of the above"
+    ],
+    "correctAnswer": "General Reserve",
+    "explanation": "A general reserve is a type of reserve that is created by transferring a portion of the profits to a reserve account. It is not a provision, but a reserve, as explained in the NCERT textbook.",
+    "difficulty": "Easy",
+    "class": "Class 11",
+    "subject": "Accountancy",
+    "chapter": "Ch 7: Depreciation, Provisions and Reserves"
+  },
+  {
+    "text": "What is the purpose of creating a reserve?",
+    "options": [
+      "To meet known liabilities",
+      "To strengthen the financial position of the business",
+      "To reduce the tax liability",
+      "To increase the dividend payout"
+    ],
+    "correctAnswer": "To strengthen the financial position of the business",
+    "explanation": "The purpose of creating a reserve is to strengthen the financial position of the business by setting aside a portion of the profits. This helps to meet unknown liabilities, contingencies, or future expenses, as explained in the NCERT textbook.",
+    "difficulty": "Medium",
+    "class": "Class 11",
+    "subject": "Accountancy",
+    "chapter": "Ch 7: Depreciation, Provisions and Reserves"
+  },
+  {
+    "text": "Which of the following is a capital reserve?",
+    "options": [
+      "General Reserve",
+      "Dividend Equalization Reserve",
+      "Share Premium Reserve",
+      "All of the above"
+    ],
+    "correctAnswer": "Share Premium Reserve",
+    "explanation": "A share premium reserve is a type of capital reserve that is created when the company issues shares at a premium. It is a capital reserve because it is created from the proceeds of the issue of shares, as explained in the NCERT textbook.",
+    "difficulty": "Medium",
+    "class": "Class 11",
+    "subject": "Accountancy",
+    "chapter": "Ch 7: Depreciation, Provisions and Reserves"
+  },
+  {
+    "text": "What is the effect of depreciation on the financial statements?",
+    "options": [
+      "It increases the net profit",
+      "It decreases the net profit",
+      "It has no effect on the net profit",
+      "It increases the assets"
+    ],
+    "correctAnswer": "It decreases the net profit",
+    "explanation": "Depreciation is a non-cash expense that reduces the net profit of the business. It is charged to the profit and loss account, which reduces the net profit, as explained in the NCERT textbook.",
+    "difficulty": "Easy",
+    "class": "Class 11",
+    "subject": "Accountancy",
+    "chapter": "Ch 7: Depreciation, Provisions and Reserves"
+  },
+  {
+    "text": "Which of the following is a revenue reserve?",
+    "options": [
+      "General Reserve",
+      "Dividend Equalization Reserve",
+      "Debenture Redemption Reserve",
+      "All of the above"
+    ],
+    "correctAnswer": "Dividend Equalization Reserve",
+    "explanation": "A dividend equalization reserve is a type of revenue reserve that is created to stabilize the dividend payout. It is a revenue reserve because it is created from the revenue profits of the business, as explained in the NCERT textbook.",
+    "difficulty": "Medium",
+    "class": "Class 11",
+    "subject": "Accountancy",
+    "chapter": "Ch 7: Depreciation, Provisions and Reserves"
+  },
+  {
+    "text": "What is the purpose of creating a provision for bad debts?",
+    "options": [
+      "To reduce the tax liability",
+      "To increase the dividend payout",
+      "To meet the known liability of bad debts",
+      "To strengthen the financial position of the business"
+    ],
+    "correctAnswer": "To meet the known liability of bad debts",
+    "explanation": "The purpose of creating a provision for bad debts is to meet the known liability of bad debts. It is a provision because it is made for a known liability, as explained in the NCERT textbook.",
+    "difficulty": "Easy",
+    "class": "Class 11",
+    "subject": "Accountancy",
+    "chapter": "Ch 7: Depreciation, Provisions and Reserves"
+  },
+  {
+    "text": "Which of the following is not a type of provision?",
+    "options": [
+      "Provision for Depreciation",
+      "Provision for Bad Debts",
+      "Provision for Taxation",
+      "General Reserve"
+    ],
+    "correctAnswer": "General Reserve",
+    "explanation": "A general reserve is not a provision, but a reserve. Provisions are made for known liabilities, while reserves are made for unknown liabilities or for strengthening the financial position of the business, as explained in the NCERT textbook.",
+    "difficulty": "Medium",
+    "class": "Class 11",
+    "subject": "Accountancy",
+    "chapter": "Ch 7: Depreciation, Provisions and Reserves"
+  },
+  {
+    "text": "What is the effect of creating a provision on the financial statements?",
+    "options": [
+      "It increases the net profit",
+      "It decreases the net profit",
+      "It has no effect on the net profit",
+      "It increases the assets"
+    ],
+    "correctAnswer": "It decreases the net profit",
+    "explanation": "Creating a provision reduces the net profit of the business. It is a non-cash expense that is charged to the profit and loss account, which reduces the net profit, as explained in the NCERT textbook.",
+    "difficulty": "Easy",
+    "class": "Class 11",
+    "subject": "Accountancy",
+    "chapter": "Ch 7: Depreciation, Provisions and Reserves"
+  },
+  {
+    "text": "Which of the following is a characteristic of a provision?",
+    "options": [
+      "It is made for a known liability",
+      "It is made for an unknown liability",
+      "It is a non-cash expense",
+      "All of the above"
+    ],
+    "correctAnswer": "It is made for a known liability",
+    "explanation": "A provision is made for a known liability, such as depreciation, bad debts, etc. It is a provision because it is made for a known liability, as explained in the NCERT textbook.",
+    "difficulty": "Easy",
+    "class": "Class 11",
+    "subject": "Accountancy",
+    "chapter": "Ch 7: Depreciation, Provisions and Reserves"
+  },
+  {
+    "text": "What is the purpose of creating a depreciation provision?",
+    "options": [
+      "To reduce the tax liability",
+      "To increase the dividend payout",
+      "To meet the known liability of depreciation",
+      "To strengthen the financial position of the business"
+    ],
+    "correctAnswer": "To meet the known liability of depreciation",
+    "explanation": "The purpose of creating a depreciation provision is to meet the known liability of depreciation. It is a provision because it is made for a known liability, as explained in the NCERT textbook.",
+    "difficulty": "Easy",
+    "class": "Class 11",
+    "subject": "Accountancy",
+    "chapter": "Ch 7: Depreciation, Provisions and Reserves"
+  },
+  {
+    "text": "Which of the following is not a type of depreciation method?",
+    "options": [
+      "Straight Line Method (SLM)",
+      "Written Down Value (WDV) Method",
+      "Annuity Method",
+      "Revaluation Method"
+    ],
+    "correctAnswer": "Revaluation Method",
+    "explanation": "The revaluation method is not a type of depreciation method. It is a method of valuing assets, as explained in the NCERT textbook.",
+    "difficulty": "Medium",
+    "class": "Class 11",
+    "subject": "Accountancy",
+    "chapter": "Ch 7: Depreciation, Provisions and Reserves"
+  },
+  {
+    "text": "What is the formula to calculate the depreciation under the Straight Line Method (SLM)?",
+    "options": [
+      "$Depreciation = \\frac{Cost - Residual\\ Value}{Useful\\ Life}$",
+      "$Depreciation = \\frac{Opening\\ Balance - Residual\\ Value}{Useful\\ Life} \\times Rate\\ of\\ Depreciation$",
+      "$Depreciation = Rate\\ of\\ Depreciation \\times Opening\\ Balance$",
+      "$Depreciation = Cost - Residual\\ Value$"
+    ],
+    "correctAnswer": "$Depreciation = \\frac{Cost - Residual\\ Value}{Useful\\ Life}$",
+    "explanation": "The Straight Line Method (SLM) of depreciation calculates depreciation as $\\frac{Cost - Residual\\ Value}{Useful\\ Life}$. This method assumes that the asset will lose its value evenly over its useful life, as explained in the NCERT textbook.",
+    "difficulty": "Medium",
+    "class": "Class 11",
+    "subject": "Accountancy",
+    "chapter": "Ch 7: Depreciation, Provisions and Reserves"
+  },
+  {
+    "text": "Which of the following is a characteristic of a reserve?",
+    "options": [
+      "It is made for a known liability",
+      "It is made for an unknown liability",
+      "It is a non-cash expense",
+      "All of the above"
+    ],
+    "correctAnswer": "It is made for an unknown liability",
+    "explanation": "A reserve is made for an unknown liability or for strengthening the financial position of the business. It is not a provision, but a reserve, as explained in the NCERT textbook.",
+    "difficulty": "Easy",
+    "class": "Class 11",
+    "subject": "Accountancy",
+    "chapter": "Ch 7: Depreciation, Provisions and Reserves"
+  },
+  {
+    "text": "What is the purpose of creating a general reserve?",
+    "options": [
+      "To reduce the tax liability",
+      "To increase the dividend payout",
+      "To meet the known liability of depreciation",
+      "To strengthen the financial position of the business"
+    ],
+    "correctAnswer": "To strengthen the financial position of the business",
+    "explanation": "The purpose of creating a general reserve is to strengthen the financial position of the business. It is a reserve because it is made for an unknown liability or for strengthening the financial position of the business, as explained in the NCERT textbook.",
+    "difficulty": "Easy",
+    "class": "Class 11",
+    "subject": "Accountancy",
+    "chapter": "Ch 7: Depreciation, Provisions and Reserves"
+  },
+  {
+    "text": "Which of the following is a type of capital reserve?",
+    "options": [
+      "General Reserve",
+      "Dividend Equalization Reserve",
+      "Share Premium Reserve",
+      "All of the above"
+    ],
+    "correctAnswer": "Share Premium Reserve",
+    "explanation": "A share premium reserve is a type of capital reserve that is created when the company issues shares at a premium. It is a capital reserve because it is created from the proceeds of the issue of shares, as explained in the NCERT textbook.",
+    "difficulty": "Medium",
+    "class": "Class 11",
+    "subject": "Accountancy",
+    "chapter": "Ch 7: Depreciation, Provisions and Reserves"
+  },
+  {
+    "text": "What is the effect of creating a reserve on the financial statements?",
+    "options": [
+      "It increases the net profit",
+      "It decreases the net profit",
+      "It has no effect on the net profit",
+      "It increases the assets"
+    ],
+    "correctAnswer": "It has no effect on the net profit",
+    "explanation": "Creating a reserve does not affect the net profit of the business. It is a transfer of profits to a reserve account, which does not affect the net profit, as explained in the NCERT textbook.",
+    "difficulty": "Easy",
+    "class": "Class 11",
+    "subject": "Accountancy",
+    "chapter": "Ch 7: Depreciation, Provisions and Reserves"
+  },
+  {
+    "text": "Which of the following is a characteristic of a capital reserve?",
+    "options": [
+      "It is made for a known liability",
+      "It is made for an unknown liability",
+      "It is created from the proceeds of the issue of shares",
+      "All of the above"
+    ],
+    "correctAnswer": "It is created from the proceeds of the issue of shares",
+    "explanation": "A capital reserve is created from the proceeds of the issue of shares, such as a share premium reserve. It is a capital reserve because it is created from the proceeds of the issue of shares, as explained in the NCERT textbook.",
+    "difficulty": "Medium",
+    "class": "Class 11",
+    "subject": "Accountancy",
+    "chapter": "Ch 7: Depreciation, Provisions and Reserves"
+  },
+  {
+    "text": "What is the purpose of creating a share premium reserve?",
+    "options": [
+      "To reduce the tax liability",
+      "To increase the dividend payout",
+      "To meet the known liability of depreciation",
+      "To strengthen the financial position of the business"
+    ],
+    "correctAnswer": "To strengthen the financial position of the business",
+    "explanation": "The purpose of creating a share premium reserve is to strengthen the financial position of the business. It is a capital reserve because it is created from the proceeds of the issue of shares, as explained in the NCERT textbook.",
+    "difficulty": "Easy",
+    "class": "Class 11",
+    "subject": "Accountancy",
+    "chapter": "Ch 7: Depreciation, Provisions and Reserves"
+  },
+  {
+    "text": "Which of the following is not a type of revenue reserve?",
+    "options": [
+      "General Reserve",
+      "Dividend Equalization Reserve",
+      "Debenture Redemption Reserve",
+      "All of the above"
+    ],
+    "correctAnswer": "Debenture Redemption Reserve",
+    "explanation": "A debenture redemption reserve is a type of capital reserve, not a revenue reserve. It is created to redeem debentures, as explained in the NCERT textbook.",
+    "difficulty": "Medium",
+    "class": "Class 11",
+    "subject": "Accountancy",
+    "chapter": "Ch 7: Depreciation, Provisions and Reserves"
+  },
+  {
+    "text": "What is the effect of creating a provision for bad debts on the financial statements?",
+    "options": [
+      "It increases the net profit",
+      "It decreases the net profit",
+      "It has no effect on the net profit",
+      "It increases the assets"
+    ],
+    "correctAnswer": "It decreases the net profit",
+    "explanation": "Creating a provision for bad debts reduces the net profit of the business. It is a non-cash expense that is charged to the profit and loss account, which reduces the net profit, as explained in the NCERT textbook.",
+    "difficulty": "Easy",
+    "class": "Class 11",
+    "subject": "Accountancy",
+    "chapter": "Ch 7: Depreciation, Provisions and Reserves"
+  }
+]

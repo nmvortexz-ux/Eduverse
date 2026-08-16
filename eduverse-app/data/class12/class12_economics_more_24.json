@@ -1,0 +1,137 @@
+[
+  {
+    "text": "What is the difference between factor income and transfer income?",
+    "options": [
+      "Factor income is the income earned by factors of production, while transfer income is the income received by households as a result of transactions in the product market.",
+      "Transfer income is the income earned by factors of production, while factor income is the income received by households as a result of transactions in the product market.",
+      "Factor income and transfer income are the same thing.",
+      "Factor income is the income received by households as a result of transactions in the product market, while transfer income is the income earned by factors of production."
+    ],
+    "correctAnswer": "Factor income is the income earned by factors of production, while transfer income is the income received by households as a result of transactions in the product market.",
+    "explanation": "According to NCERT, factor income is the income earned by factors of production, such as wages, rent, interest, and profit. Transfer income, on the other hand, is the income received by households as a result of transactions in the product market, such as interest on savings or dividends on shares.",
+    "difficulty": "Medium",
+    "class": "Class 12",
+    "subject": "Economics",
+    "chapter": "Ch 1: National Income and Related Aggregates"
+  },
+  {
+    "text": "Which of the following is an example of an intermediate good?",
+    "options": [
+      "A car manufactured by a company",
+      "A house purchased by a consumer",
+      "A computer chip used in the production of a smartphone",
+      "A smartphone purchased by a consumer"
+    ],
+    "correctAnswer": "A computer chip used in the production of a smartphone",
+    "explanation": "According to NCERT, an intermediate good is a good that is used in the production of another good. In this case, the computer chip is an intermediate good because it is used in the production of a smartphone.",
+    "difficulty": "Easy",
+    "class": "Class 12",
+    "subject": "Economics",
+    "chapter": "Ch 1: National Income and Related Aggregates"
+  },
+  {
+    "text": "What is the formula for Net Factor Income from Abroad (NFIA)?",
+    "options": [
+      "$NFIA = X - M$",
+      "$NFIA = X + M$",
+      "$NFIA = X - IM$",
+      "$NFIA = X + IM$"
+    ],
+    "correctAnswer": "$NFIA = X - M$",
+    "explanation": "According to NCERT, Net Factor Income from Abroad (NFIA) is calculated as the difference between the value of exports (X) and the value of imports (M). The formula is $NFIA = X - M$.",
+    "difficulty": "Medium",
+    "class": "Class 12",
+    "subject": "Economics",
+    "chapter": "Ch 1: National Income and Related Aggregates"
+  },
+  {
+    "text": "Which of the following is an example of an externality?",
+    "options": [
+      "A factory emitting pollutants into the air",
+      "A consumer buying a product from a store",
+      "A farmer selling produce to a market",
+      "A student attending school"
+    ],
+    "correctAnswer": "A factory emitting pollutants into the air",
+    "explanation": "According to NCERT, an externality is a cost or benefit that affects a third party who is not involved in the market transaction. In this case, the factory emitting pollutants into the air is an example of a negative externality because it affects the health and well-being of people living nearby.",
+    "difficulty": "Easy",
+    "class": "Class 12",
+    "subject": "Economics",
+    "chapter": "Ch 1: National Income and Related Aggregates"
+  },
+  {
+    "text": "Why is GDP not a perfect measure of welfare?",
+    "options": [
+      "Because it does not take into account the distribution of income",
+      "Because it does not take into account the value of leisure time",
+      "Because it does not take into account the value of unpaid household work",
+      "All of the above"
+    ],
+    "correctAnswer": "All of the above",
+    "explanation": "According to NCERT, GDP is not a perfect measure of welfare because it does not take into account the distribution of income, the value of leisure time, or the value of unpaid household work. These factors are important components of a person's overall well-being, but they are not included in the calculation of GDP.",
+    "difficulty": "Medium",
+    "class": "Class 12",
+    "subject": "Economics",
+    "chapter": "Ch 1: National Income and Related Aggregates"
+  },
+  {
+    "text": "What is the difference between gross domestic product (GDP) and net domestic product (NDP)?",
+    "options": [
+      "GDP is the total value of all final goods and services produced within a country, while NDP is the total value of all final goods and services produced within a country, minus depreciation.",
+      "GDP is the total value of all final goods and services produced within a country, while NDP is the total value of all final goods and services produced within a country, plus depreciation.",
+      "GDP is the total value of all intermediate goods and services produced within a country, while NDP is the total value of all final goods and services produced within a country.",
+      "GDP is the total value of all final goods and services produced within a country, while NDP is the total value of all intermediate goods and services produced within a country."
+    ],
+    "correctAnswer": "GDP is the total value of all final goods and services produced within a country, while NDP is the total value of all final goods and services produced within a country, minus depreciation.",
+    "explanation": "According to NCERT, gross domestic product (GDP) is the total value of all final goods and services produced within a country, while net domestic product (NDP) is the total value of all final goods and services produced within a country, minus depreciation. Depreciation is the decrease in the value of assets over time due to wear and tear, obsolescence, or other factors.",
+    "difficulty": "Medium",
+    "class": "Class 12",
+    "subject": "Economics",
+    "chapter": "Ch 1: National Income and Related Aggregates"
+  },
+  {
+    "text": "What is the formula for calculating the value of depreciation?",
+    "options": [
+      "$Depreciation = \frac{1}{2} \times (P_L + P_A)$",
+      "$Depreciation = \frac{1}{2} \times (P_L - P_A)$",
+      "$Depreciation = P_L - P_A$",
+      "$Depreciation = P_L + P_A$"
+    ],
+    "correctAnswer": "$Depreciation = \frac{1}{2} \times (P_L - P_A)$",
+    "explanation": "According to NCERT, the formula for calculating the value of depreciation is $Depreciation = \frac{1}{2} \times (P_L - P_A)$, where $P_L$ is the original price of the asset and $P_A$ is the current price of the asset.",
+    "difficulty": "Medium",
+    "class": "Class 12",
+    "subject": "Economics",
+    "chapter": "Ch 1: National Income and Related Aggregates"
+  },
+  {
+    "text": "What is the difference between capital consumption allowance (CCA) and depreciation?",
+    "options": [
+      "CCA is the decrease in the value of assets due to wear and tear, while depreciation is the decrease in the value of assets due to obsolescence.",
+      "CCA is the decrease in the value of assets due to obsolescence, while depreciation is the decrease in the value of assets due to wear and tear.",
+      "CCA is the decrease in the value of assets due to wear and tear, while depreciation is the decrease in the value of assets due to obsolescence.",
+      "CCA is the same as depreciation."
+    ],
+    "correctAnswer": "CCA is the decrease in the value of assets due to wear and tear, while depreciation is the decrease in the value of assets due to obsolescence.",
+    "explanation": "According to NCERT, capital consumption allowance (CCA) is the decrease in the value of assets due to wear and tear, while depreciation is the decrease in the value of assets due to obsolescence.",
+    "difficulty": "Medium",
+    "class": "Class 12",
+    "subject": "Economics",
+    "chapter": "Ch 1: National Income and Related Aggregates"
+  },
+  {
+    "text": "What is the formula for calculating the value of capital consumption allowance (CCA)?",
+    "options": [
+      "$CCA = \frac{1}{2} \times (P_L + P_A)$",
+      "$CCA = \frac{1}{2} \times (P_L - P_A)$",
+      "$CCA = P_L - P_A$",
+      "$CCA = P_L + P_A$"
+    ],
+    "correctAnswer": "$CCA = \frac{1}{2} \times (P_L - P_A)$",
+    "explanation": "According to NCERT, the formula for calculating the value of capital consumption allowance (CCA) is $CCA = \frac{1}{2} \times (P_L - P_A)$, where $P_L$ is the original price of the asset and $P_A$ is the current price of the asset.",
+    "difficulty": "Medium",
+    "class": "Class 12",
+    "subject": "Economics",
+    "chapter": "Ch 1: National Income and Related Aggregates"
+  }
+]

@@ -1,0 +1,327 @@
+[
+  {
+    "class": "Class 9",
+    "subject": "English",
+    "difficulty": "E",
+    "text": "In the story 'The Fun They Had', where did Tommy find the real book?",
+    "explanation": "Tommy found a real printed paper book in the attic of his house.",
+    "options": [
+      { "text": "In the school library", "isCorrect": false },
+      { "text": "In the attic of his house", "isCorrect": true },
+      { "text": "In Margie's drawer", "isCorrect": false },
+      { "text": "On the street", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 9",
+    "subject": "English",
+    "difficulty": "E",
+    "text": "What was Margie's mechanical teacher doing wrong that caused her to perform poorly in Geography?",
+    "explanation": "The geography sector of the mechanical teacher was geared a little too quick for her age level.",
+    "options": [
+      { "text": "It was giving incorrect test questions", "isCorrect": false },
+      { "text": "The geography sector was geared a little too quick", "isCorrect": true },
+      { "text": "It was skipping chapters automatically", "isCorrect": false },
+      { "text": "It was displaying lessons in a foreign language", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 9",
+    "subject": "English",
+    "difficulty": "E",
+    "text": "In the poem 'The Road Not Taken', what does yellow wood signify?",
+    "explanation": "The 'yellow wood' symbolizes an autumn season forest where leaves have turned yellow.",
+    "options": [
+      { "text": "A forest during spring season", "isCorrect": false },
+      { "text": "A forest during autumn season", "isCorrect": true },
+      { "text": "A forest painted yellow", "isCorrect": false },
+      { "text": "A desert area with sand", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 9",
+    "subject": "English",
+    "difficulty": "E",
+    "text": "In 'The Sound of Music' (Part I), at what age did Evelyn Glennie's deafness begin to be noticed?",
+    "explanation": "Evelyn's mother noticed her hearing impairment when she was eight years old while waiting for her to play the piano.",
+    "options": [
+      { "text": "Eight years old", "isCorrect": true },
+      { "text": "Eleven years old", "isCorrect": false },
+      { "text": "Five years old", "isCorrect": false },
+      { "text": "Sixteen years old", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 9",
+    "subject": "English",
+    "difficulty": "E",
+    "text": "Who spotted Evelyn Glennie's potential and encouraged her to play percussion despite her hearing loss?",
+    "explanation": "Percussionist Ron Forbes recognized her talent and guided her to feel sound vibrations through different parts of her body.",
+    "options": [
+      { "text": "Her headmistress", "isCorrect": false },
+      { "text": "Ron Forbes", "isCorrect": true },
+      { "text": "Bismillah Khan", "isCorrect": false },
+      { "text": "Her mother Isabel", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 9",
+    "subject": "English",
+    "difficulty": "E",
+    "text": "In 'The Lost Child', what was the child's reaction when he realized his parents were lost?",
+    "explanation": "A full, deep cry rose within his throat and he ran about in panic, crying out for his mother and father.",
+    "options": [
+      { "text": "He bought toys by himself", "isCorrect": false },
+      { "text": "He sat down quietly and waited", "isCorrect": false },
+      { "text": "He panicked and wept bitterly calling for his parents", "isCorrect": true },
+      { "text": "He went back home on his own", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 9",
+    "subject": "English",
+    "difficulty": "M",
+    "text": "Identify the correct passive voice form: 'The County Inspector repaired the mechanical teacher.'",
+    "explanation": "The past simple active sentence 'repaired' converts to 'was repaired' in passive voice with the object becoming the subject.",
+    "options": [
+      { "text": "The mechanical teacher is repaired by the County Inspector.", "isCorrect": false },
+      { "text": "The mechanical teacher was repaired by the County Inspector.", "isCorrect": true },
+      { "text": "The mechanical teacher had been repaired by the County Inspector.", "isCorrect": false },
+      { "text": "The mechanical teacher has been repaired by the County Inspector.", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 9",
+    "subject": "English",
+    "difficulty": "M",
+    "text": "Fill in the blank with the correct determiners: '___ student must bring ___ own book to the class.'",
+    "explanation": "'Every' refers to individual members of a group singular, paired with 'their' or 'his/her' (or 'their' in general non-gendered usage; here 'Each / their' or 'Every / their'). 'Each / their' correctly fits singular agreement.",
+    "options": [
+      { "text": "Many / their", "isCorrect": false },
+      { "text": "Each / their", "isCorrect": true },
+      { "text": "All / his", "isCorrect": false },
+      { "text": "Few / their", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 9",
+    "subject": "English",
+    "difficulty": "M",
+    "text": "In 'The Little Girl', why was Kezia afraid of her father?",
+    "explanation": "Kezia felt her father was strict, heavy-built, and stern, and he often spoke to her harshly without showing affection.",
+    "options": [
+      { "text": "Because he often beat her without reason", "isCorrect": false },
+      { "text": "Because he was strict, stern, and rarely showed warmth", "isCorrect": true },
+      { "text": "Because he never let her go to school", "isCorrect": false },
+      { "text": "Because he made her work long hours in the house", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 9",
+    "subject": "English",
+    "difficulty": "M",
+    "text": "What gift did Kezia prepare for her father's upcoming birthday?",
+    "explanation": "On her grandmother's advice, Kezia prepared a pin-cushion made out of yellow silk.",
+    "options": [
+      { "text": "A knitted sweater", "isCorrect": false },
+      { "text": "A hand-painted greeting card", "isCorrect": false },
+      { "text": "A pin-cushion made of yellow silk", "isCorrect": true },
+      { "text": "A leather pen stand", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 9",
+    "subject": "English",
+    "difficulty": "M",
+    "text": "In 'A Truly Beautiful Mind', what did Albert Einstein call his desk drawer at the patent office in Bern?",
+    "explanation": "Einstein playfully referred to his desk drawer as the 'bureau of theoretical physics' because he secretly worked on his own papers there.",
+    "options": [
+      { "text": "The storehouse of patents", "isCorrect": false },
+      { "text": "The bureau of theoretical physics", "isCorrect": true },
+      { "text": "The secret chamber of science", "isCorrect": false },
+      { "text": "The box of universal constants", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 9",
+    "subject": "English",
+    "difficulty": "M",
+    "text": "In the poem 'Wind', what advice does the poet give to people to face the strong wind?",
+    "explanation": "Subramania Bharati advises building strong homes, joining doors firmly, and practicing to firm the body to make friends with the wind.",
+    "options": [
+      { "text": "To hide inside dark rooms until wind stops", "isCorrect": false },
+      { "text": "To build strong homes and make their bodies firm", "isCorrect": true },
+      { "text": "To pray to God for shelter", "isCorrect": false },
+      { "text": "To chop down all surrounding trees", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 9",
+    "subject": "English",
+    "difficulty": "M",
+    "text": "In 'The Adventures of Toto', why did Grandfather take Toto to Saharanpur?",
+    "explanation": "Grandfather took Toto secretly because Toto did not allow any of the other pets to sleep peacefully at night.",
+    "options": [
+      { "text": "To sell Toto to a zoo", "isCorrect": false },
+      { "text": "Because Toto kept troubling all other pets at home", "isCorrect": true },
+      { "text": "To get Toto treated by a vet", "isCorrect": false },
+      { "text": "To gift Toto to his friend", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 9",
+    "subject": "English",
+    "difficulty": "M",
+    "text": "In 'Iswaran the Storyteller', what quality made Iswaran an asset to Mahendra?",
+    "explanation": "Iswaran cooked delicious meals, washed clothes, chatted with Mahendra, and narrated dramatic, engaging stories effortlessly.",
+    "options": [
+      { "text": "He was a trained security guard", "isCorrect": false },
+      { "text": "He managed Mahendra's financial accounts", "isCorrect": false },
+      { "text": "He cooked well, managed household work, and narrated enthralling stories", "isCorrect": true },
+      { "text": "He drove Mahendra across construction sites", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 9",
+    "subject": "English",
+    "difficulty": "M",
+    "text": "Choose the correctly reported speech sentence for: She said, \"I have finished my homework.\"",
+    "explanation": "Present perfect 'have finished' changes to past perfect 'had finished', and pronouns adjust to third person.",
+    "options": [
+      { "text": "She said that she has finished her homework.", "isCorrect": false },
+      { "text": "She said that she had finished her homework.", "isCorrect": true },
+      { "text": "She told that she finished her homework.", "isCorrect": false },
+      { "text": "She said that I had finished my homework.", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 9",
+    "subject": "English",
+    "difficulty": "H",
+    "text": "In 'In the Kingdom of Fools', why did the king decide to execute the disciple instead of the merchant?",
+    "explanation": "The merchant was too thin to fit the newly built execution stake properly, so they looked for a fat man who would fit it.",
+    "options": [
+      { "text": "Because the disciple confessed to breaking into the house", "isCorrect": false },
+      { "text": "Because the merchant was too thin to fit the execution stake", "isCorrect": true },
+      { "text": "Because the disciple spoke disrespectfully to the minister", "isCorrect": false },
+      { "text": "Because the guru had ordered the execution", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 9",
+    "subject": "English",
+    "difficulty": "H",
+    "text": "Read the sentence and choose the correct subject-verb agreement: 'Neither the teacher nor the students ___ present at the seminar yesterday.'",
+    "explanation": "When subjects are joined by 'neither... nor', the verb agrees with the closer subject ('the students', which is plural, hence 'were').",
+    "options": [
+      { "text": "was", "isCorrect": false },
+      { "text": "were", "isCorrect": true },
+      { "text": "is", "isCorrect": false },
+      { "text": "are", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 9",
+    "subject": "English",
+    "difficulty": "H",
+    "text": "What underlying central theme is reflected in Robert Frost's poem 'The Road Not Taken'?",
+    "explanation": "The poem explores the inevitability of making choices in life and how those choices shape one's destiny irrevocably.",
+    "options": [
+      { "text": "The joy of traveling through autumn forests", "isCorrect": false },
+      { "text": "The burden of decision-making and how choices shape future destiny", "isCorrect": true },
+      { "text": "The superiority of taking lesser-known pathways in nature", "isCorrect": false },
+      { "text": "The regret of not living in a rural area", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 9",
+    "subject": "English",
+    "difficulty": "H",
+    "text": "In 'The Snake and the Mirror', what contrast does the doctor observe between his thoughts in front of the mirror and his reaction when the snake landed on him?",
+    "explanation": "Before the snake appeared, he vanity-doted on his looks as an eligible bachelor doctor; upon facing the snake, he felt turned to stone, realizing his foolishness and helplessness.",
+    "options": [
+      { "text": "He went from feeling brave and energetic to feeling angry and aggressive", "isCorrect": false },
+      { "text": "He went from vain self-admiration to quiet humility and absolute helplessness", "isCorrect": true },
+      { "text": "He shifted from worrying about money to admiring the snake's skin", "isCorrect": false },
+      { "text": "He moved from fear of thieves to terror of dark shadows", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 9",
+    "subject": "English",
+    "difficulty": "H",
+    "text": "Choose the option that correctly identifies the error in the sentence: 'If he would have studied harder, he would pass the examination with distinction.'",
+    "explanation": "In third conditional sentences, the condition clause uses the past perfect ('had studied'), not 'would have studied'.",
+    "options": [
+      { "text": "Replace 'would pass' with 'will pass'", "isCorrect": false },
+      { "text": "Replace 'If he would have studied' with 'If he had studied'", "isCorrect": true },
+      { "text": "Replace 'with distinction' by 'in distinction'", "isCorrect": false },
+      { "text": "Replace 'harder' with 'hardly'", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 9",
+    "subject": "English",
+    "difficulty": "H",
+    "text": "In 'The Happy Prince', why did the Swallow choose to stay with the Happy Prince even after winter approached?",
+    "explanation": "The Swallow became deeply attached to the Prince's selfless compassion and chose to stay after the Prince became completely blind.",
+    "options": [
+      { "text": "Because the weather suddenly turned warm again", "isCorrect": false },
+      { "text": "Because he loved the Prince for his nobility and refused to abandon him when blind", "isCorrect": true },
+      { "text": "Because he lost his wings during a storm", "isCorrect": false },
+      { "text": "Because his flock decided to spend winter in the city", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 9",
+    "subject": "English",
+    "difficulty": "VH",
+    "text": "Which literary device is primarily employed in the underlined phrase: 'The wind blows out weak fires / He makes strong fires roar and flourish'?",
+    "explanation": "The wind is given human attributes ('makes strong fires roar') and acts as a symbol/personification of life's hardships testing human character.",
+    "options": [
+      { "text": "Simile and Onomatopoeia", "isCorrect": false },
+      { "text": "Personification and Symbolism", "isCorrect": true },
+      { "text": "Hyperbole and Oxymoron", "isCorrect": false },
+      { "text": "Alliteration and Apostrophe", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 9",
+    "subject": "English",
+    "difficulty": "VH",
+    "text": "In 'My Childhood', how did APJ Abdul Kalam's father respond when Kalam sought permission to go to Ramanathapuram for higher studies?",
+    "explanation": "Jainulabdeen cited Khalil Gibran's philosophy: 'Your children are not your children... They come through you but not from you,' recognizing that growing children must fly away like a seagull.",
+    "options": [
+      { "text": "He discouraged him, saying family trade was more important", "isCorrect": false },
+      { "text": "He quoted Khalil Gibran to show that children must fly away to grow, like a seagull across the sun", "isCorrect": true },
+      { "text": "He insisted on moving the entire family to Ramanathapuram with him", "isCorrect": false },
+      { "text": "He asked his mother to restrict Kalam's movement outside Rameswaram", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 9",
+    "subject": "English",
+    "difficulty": "VH",
+    "text": "Analyze the modal verb usage in: 'You ___ submit your assignment by 5 PM today, otherwise marks will be deducted.' Which modal conveys the exact sense of strict authority/obligation?",
+    "explanation": "'Must' expresses strong internal/authoritative obligation, fitting the strict deadline condition with consequence.",
+    "options": [
+      { "text": "might", "isCorrect": false },
+      { "text": "must", "isCorrect": true },
+      { "text": "could", "isCorrect": false },
+      { "text": "should have", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 9",
+    "subject": "English",
+    "difficulty": "VH",
+    "text": "In 'The Last Leaf', what was Behrman's masterpiece and why was it considered a masterpiece?",
+    "explanation": "His masterpiece was the ivy leaf painted on the wall; it was a masterpiece because it looked so real that it restored Johnsy's will to live, painted at the cost of his own life.",
+    "options": [
+      { "text": "A portrait of Sue that won an international award in Paris", "isCorrect": false },
+      { "text": "The painted ivy leaf on the wall that saved Johnsy's life by giving her hope", "isCorrect": true },
+      { "text": "A canvas sculpture displayed in the local art gallery", "isCorrect": false },
+      { "text": "A landscape of Greenwich Village during heavy snowfall", "isCorrect": false }
+    ]
+  }
+]

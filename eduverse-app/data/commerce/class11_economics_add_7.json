@@ -1,0 +1,167 @@
+[
+  {
+    "text": "The algebraic sum of deviations from the mean is always equal to:",
+    "options": [
+      "0",
+      "N",
+      "Mean",
+      "Median"
+    ],
+    "correctAnswer": "0",
+    "explanation": "The algebraic sum of deviations from the mean is always zero. This is because the sum of positive and negative deviations will cancel each other out.",
+    "difficulty": "Easy",
+    "class": "Class 11",
+    "subject": "Economics",
+    "chapter": "Ch 7: Measures of Central Tendency and Dispersion"
+  },
+  {
+    "text": "The formula to calculate the median in a continuous series is:",
+    "options": [
+      "L + (N/2 - cf) / f * h",
+      "L + (cf) / f * h",
+      "L + (N/2 + cf) / f * h",
+      "L + (N/2 - cf) / f * h"
+    ],
+    "correctAnswer": "L + (N/2 - cf) / f * h",
+    "explanation": "The formula to calculate the median in a continuous series is given by L + (N/2 - cf) / f * h, where L is the lower limit of the median class, N is the total number of observations, cf is the cumulative frequency of the class preceding the median class, f is the frequency of the median class, and h is the width of the median class.",
+    "difficulty": "Medium",
+    "class": "Class 11",
+    "subject": "Economics",
+    "chapter": "Ch 7: Measures of Central Tendency and Dispersion"
+  },
+  {
+    "text": "The empirical relation between mode, median, and mean is given by:",
+    "options": [
+      "Mode = 3Median - 2Mean",
+      "Mode = 2Median - 3Mean",
+      "Mode = Mean - 2Median",
+      "Mode = 2Mean - 3Median"
+    ],
+    "correctAnswer": "Mode = 3Median - 2Mean",
+    "explanation": "The empirical relation between mode, median, and mean is given by Mode = 3Median - 2Mean. This relation is used to estimate the mode when the values of median and mean are known.",
+    "difficulty": "Medium",
+    "class": "Class 11",
+    "subject": "Economics",
+    "chapter": "Ch 7: Measures of Central Tendency and Dispersion"
+  },
+  {
+    "text": "The coefficient of variation is given by:",
+    "options": [
+      "(σ / x̄) * 100",
+      "(x̄ / σ) * 100",
+      "(σ / x̄)",
+      "(x̄ / σ)"
+    ],
+    "correctAnswer": "(σ / x̄) * 100",
+    "explanation": "The coefficient of variation is given by (σ / x̄) * 100, where σ is the standard deviation and x̄ is the mean. It is a measure of relative variability or dispersion.",
+    "difficulty": "Easy",
+    "class": "Class 11",
+    "subject": "Economics",
+    "chapter": "Ch 7: Measures of Central Tendency and Dispersion"
+  },
+  {
+    "text": "The formula to calculate the standard deviation is:",
+    "options": [
+      "√[(Σ(x - x̄)^2) / (N - 1)]",
+      "√[(Σ(x - x̄)^2) / N]",
+      "√[(Σ(x - x̄)^2) / (N + 1)]",
+      "√[(Σ(x - x̄)^2) / (N - 2)]"
+    ],
+    "correctAnswer": "√[(Σ(x - x̄)^2) / (N - 1)]",
+    "explanation": "The formula to calculate the standard deviation is √[(Σ(x - x̄)^2) / (N - 1)], where Σ(x - x̄)^2 is the sum of squared deviations from the mean, N is the total number of observations, and x̄ is the mean.",
+    "difficulty": "Medium",
+    "class": "Class 11",
+    "subject": "Economics",
+    "chapter": "Ch 7: Measures of Central Tendency and Dispersion"
+  },
+  {
+    "text": "The range is given by:",
+    "options": [
+      "Maximum value - Minimum value",
+      "Maximum value + Minimum value",
+      "Maximum value - Mean",
+      "Minimum value - Mean"
+    ],
+    "correctAnswer": "Maximum value - Minimum value",
+    "explanation": "The range is given by Maximum value - Minimum value. It is a measure of dispersion that represents the difference between the largest and smallest values in a dataset.",
+    "difficulty": "Easy",
+    "class": "Class 11",
+    "subject": "Economics",
+    "chapter": "Ch 7: Measures of Central Tendency and Dispersion"
+  },
+  {
+    "text": "The formula to calculate the variance is:",
+    "options": [
+      "(Σ(x - x̄)^2) / N",
+      "(Σ(x - x̄)^2) / (N - 1)",
+      "(Σ(x - x̄)^2) / (N + 1)",
+      "(Σ(x - x̄)^2) / (N - 2)"
+    ],
+    "correctAnswer": "(Σ(x - x̄)^2) / (N - 1)",
+    "explanation": "The formula to calculate the variance is (Σ(x - x̄)^2) / (N - 1), where Σ(x - x̄)^2 is the sum of squared deviations from the mean, N is the total number of observations, and x̄ is the mean.",
+    "difficulty": "Medium",
+    "class": "Class 11",
+    "subject": "Economics",
+    "chapter": "Ch 7: Measures of Central Tendency and Dispersion"
+  },
+  {
+    "text": "The mean deviation is given by:",
+    "options": [
+      "(Σ|x - x̄|) / N",
+      "(Σ|x - x̄|) / (N - 1)",
+      "(Σ|x - x̄|) / (N + 1)",
+      "(Σ|x - x̄|) / (N - 2)"
+    ],
+    "correctAnswer": "(Σ|x - x̄|) / N",
+    "explanation": "The mean deviation is given by (Σ|x - x̄|) / N, where Σ|x - x̄| is the sum of absolute deviations from the mean, N is the total number of observations, and x̄ is the mean.",
+    "difficulty": "Easy",
+    "class": "Class 11",
+    "subject": "Economics",
+    "chapter": "Ch 7: Measures of Central Tendency and Dispersion"
+  },
+  {
+    "text": "The standard deviation is a measure of:",
+    "options": [
+      "Central tendency",
+      "Dispersion",
+      "Skewness",
+      "Kurtosis"
+    ],
+    "correctAnswer": "Dispersion",
+    "explanation": "The standard deviation is a measure of dispersion, which represents the amount of variation or spread in a dataset.",
+    "difficulty": "Medium",
+    "class": "Class 11",
+    "subject": "Economics",
+    "chapter": "Ch 7: Measures of Central Tendency and Dispersion"
+  },
+  {
+    "text": "The coefficient of quartile deviation is given by:",
+    "options": [
+      "(Q3 - Q1) / 2",
+      "(Q3 - Q1) / (Q3 + Q1)",
+      "(Q3 - Q1) / (Q3 + Q1) * 100",
+      "(Q3 - Q1) / 2 * 100"
+    ],
+    "correctAnswer": "(Q3 - Q1) / 2",
+    "explanation": "The coefficient of quartile deviation is given by (Q3 - Q1) / 2, where Q3 is the third quartile and Q1 is the first quartile.",
+    "difficulty": "Easy",
+    "class": "Class 11",
+    "subject": "Economics",
+    "chapter": "Ch 7: Measures of Central Tendency and Dispersion"
+  },
+  {
+    "text": "The formula to calculate the quartile deviation is:",
+    "options": [
+      "(Q3 - Q1) / 2",
+      "(Q3 - Q1) / (Q3 + Q1)",
+      "(Q3 - Q1) / (Q3 + Q1) * 100",
+      "(Q3 - Q1) / 2 * 100"
+    ],
+    "correctAnswer": "(Q3 - Q1) / 2",
+    "explanation": "The formula to calculate the quartile deviation is (Q3 - Q1) / 2, where Q3 is the third quartile and Q1 is the first quartile.",
+    "difficulty": "Medium",
+    "class": "Class 11",
+    "subject": "Economics",
+    "chapter": "Ch 7: Measures of Central Tendency and Dispersion"
+  }
+]

@@ -1,0 +1,327 @@
+[
+  {
+    "class": "Class 8",
+    "subject": "GK",
+    "difficulty": "Very Hard",
+    "text": "Which ruler of the Pala Dynasty founded the famous Vikramashila University, which became a major center of Buddhist learning in ancient India?",
+    "explanation": "Dharmapala, the second ruler of the Pala Dynasty, founded Vikramashila in the late 8th century CE to revive Buddhist education and counter the decline of Nalanda.",
+    "options": [
+      { "text": "Gopala", "isCorrect": false },
+      { "text": "Dharmapala", "isCorrect": true },
+      { "text": "Devapala", "isCorrect": false },
+      { "text": "Mahipala I", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 8",
+    "subject": "GK",
+    "difficulty": "Very Hard",
+    "text": "Who was the legendary leader of the Revolt of 1857 in the Bihar region (specifically Jagdishpur), who led the rebellion despite his advanced age?",
+    "explanation": "Kunwar Singh, a local zamindar of Jagdishpur (now in Bhojpur district), led the rebellion in Bihar at the age of 80, employing guerrilla warfare tactics against the British.",
+    "options": [
+      { "text": "Nana Sahib", "isCorrect": false },
+      { "text": "Kunwar Singh", "isCorrect": true },
+      { "text": "Tatya Tope", "isCorrect": false },
+      { "text": "Khan Bahadur Khan", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 8",
+    "subject": "GK",
+    "difficulty": "Very Hard",
+    "text": "What was the name of the treaty signed between Maharaja Ranjit Singh and the British East India Company in 1809, which defined the Sutlej River as the eastern boundary of the Sikh Empire?",
+    "explanation": "The Treaty of Amritsar (1809) was signed by Ranjit Singh and Charles Metcalfe, halting the Sikh expansion east of the Sutlej River and establishing peace between the two powers for decades.",
+    "options": [
+      { "text": "Treaty of Lahore", "isCorrect": false },
+      { "text": "Treaty of Amritsar", "isCorrect": true },
+      { "text": "Treaty of Sugauli", "isCorrect": false },
+      { "text": "Treaty of Purandar", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 8",
+    "subject": "GK",
+    "difficulty": "Very Hard",
+    "text": "In which year was the highly restrictive Vernacular Press Act passed under Viceroy Lord Lytton to suppress nationalistic publications in Indian languages?",
+    "explanation": "The Vernacular Press Act was enacted in 1878 to curtail the freedom of the Indian press. It targeted vernacular papers while exempting English-language publications from censorship.",
+    "options": [
+      { "text": "1872", "isCorrect": false },
+      { "text": "1878", "isCorrect": true },
+      { "text": "1882", "isCorrect": false },
+      { "text": "1885", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 8",
+    "subject": "GK",
+    "difficulty": "Very Hard",
+    "text": "Who was the founder of the Satavahana Dynasty, which ruled over parts of Southern and Central India following the decline of the Maurya Empire?",
+    "explanation": "Simuka founded the Satavahana Dynasty in the 1st century BCE, establishing control over modern-day Andhra Pradesh, Telangana, and Maharashtra.",
+    "options": [
+      { "text": "Satakarni I", "isCorrect": false },
+      { "text": "Simuka", "isCorrect": true },
+      { "text": "Gautamiputra Satakarni", "isCorrect": false },
+      { "text": "Hala", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 8",
+    "subject": "GK",
+    "difficulty": "Very Hard",
+    "text": "Which high mountain pass, located in the state of Uttarakhand, connects India with Tibet and is a major route for pilgrims undertaking the Kailash Mansarovar Yatra?",
+    "explanation": "The Lipulekh Pass, situated at 5,200 meters in the Himalayas, is a vital border pass between India, Nepal, and China used for trade and pilgrimage.",
+    "options": [
+      { "text": "Rohtang Pass", "isCorrect": false },
+      { "text": "Lipulekh Pass", "isCorrect": true },
+      { "text": "Nathu La Pass", "isCorrect": false },
+      { "text": "Zoji La Pass", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 8",
+    "subject": "GK",
+    "difficulty": "Very Hard",
+    "text": "The Wheeler Island, off the coast of Odisha, used as a missile testing range by the DRDO, was renamed in 2015 to honor which former President of India?",
+    "explanation": "The island was renamed Dr. Abdul Kalam Island in September 2015 to honor the late scientist and former President of India, Dr. A. P. J. Abdul Kalam.",
+    "options": [
+      { "text": "Dr. Pranab Mukherjee Island", "isCorrect": false },
+      { "text": "Dr. Abdul Kalam Island", "isCorrect": true },
+      { "text": "Dr. S. Radhakrishnan Island", "isCorrect": false },
+      { "text": "Dr. Rajendra Prasad Island", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 8",
+    "subject": "GK",
+    "difficulty": "Very Hard",
+    "text": "The Hogenakkal Falls, often referred to as the 'Niagara Falls of India' due to their power and shape, are formed by which river on the border of Karnataka and Tamil Nadu?",
+    "explanation": "Hogenakkal Falls are formed by the Kaveri River in Dharmapuri district, Tamil Nadu, where the river descends into a deep gorge creating a misty spray.",
+    "options": [
+      { "text": "Krishna River", "isCorrect": false },
+      { "text": "Kaveri River", "isCorrect": true },
+      { "text": "Godavari River", "isCorrect": false },
+      { "text": "Narmada River", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 8",
+    "subject": "GK",
+    "difficulty": "Very Hard",
+    "text": "The 'Khetri' region of Rajasthan is famous in Indian history and geography for the mining and production of which metal since ancient Indus Valley times?",
+    "explanation": "Khetri contains major copper deposits and has been a center for copper mining since the Harappan Civilisation, supplying metal for tools and weapons.",
+    "options": [
+      { "text": "Iron", "isCorrect": false },
+      { "text": "Copper", "isCorrect": true },
+      { "text": "Gold", "isCorrect": false },
+      { "text": "Zinc", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 8",
+    "subject": "GK",
+    "difficulty": "Very Hard",
+    "text": "Which marine biosphere reserve in India is famous for being the primary natural habitat of the rare and endangered 'Dugong' (also known as the Sea Cow)?",
+    "explanation": "The Gulf of Mannar Biosphere Reserve, located between India and Sri Lanka, is a shallow marine ecosystem famous for its seagrass beds that support the endangered Dugong.",
+    "options": [
+      { "text": "Sundarbans Biosphere Reserve", "isCorrect": false },
+      { "text": "Gulf of Mannar Biosphere Reserve", "isCorrect": true },
+      { "text": "Great Nicobar Biosphere Reserve", "isCorrect": false },
+      { "text": "Nokrek Biosphere Reserve", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 8",
+    "subject": "GK",
+    "difficulty": "Very Hard",
+    "text": "The provision of the 'Joint Sitting of both Houses of Parliament' (Article 108) in the Indian Constitution was borrowed from which country's constitution?",
+    "explanation": "The concept of a Joint Sitting to resolve a deadlock between the Lok Sabha and Rajya Sabha over an ordinary bill was borrowed from the Constitution of Australia.",
+    "options": [
+      { "text": "United States of America", "isCorrect": false },
+      { "text": "Australia", "isCorrect": true },
+      { "text": "Canada", "isCorrect": false },
+      { "text": "South Africa", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 8",
+    "subject": "GK",
+    "difficulty": "Very Hard",
+    "text": "Under which article of the Indian Constitution is the Comptroller and Auditor General (CAG) of India appointed by the President?",
+    "explanation": "Article 148 of the Indian Constitution details the appointment, oath, and conditions of service for the Comptroller and Auditor General of India.",
+    "options": [
+      { "text": "Article 110", "isCorrect": false },
+      { "text": "Article 148", "isCorrect": true },
+      { "text": "Article 280", "isCorrect": false },
+      { "text": "Article 324", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 8",
+    "subject": "GK",
+    "difficulty": "Very Hard",
+    "text": "Which Constitutional Amendment Act officially granted constitutional status to the Panchayati Raj (Rural Local Government) system in 1992?",
+    "explanation": "The 73rd Constitutional Amendment Act of 1992 added Part IX and the 11th Schedule to the Constitution, establishing a three-tier Panchayati Raj system across India.",
+    "options": [
+      { "text": "74th Amendment Act", "isCorrect": false },
+      { "text": "73rd Amendment Act", "isCorrect": true },
+      { "text": "86th Amendment Act", "isCorrect": false },
+      { "text": "44th Amendment Act", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 8",
+    "subject": "GK",
+    "difficulty": "Very Hard",
+    "text": "Which committee, set up in 1976, recommended the incorporation of 'Fundamental Duties' into the Indian Constitution during the Emergency?",
+    "explanation": "The Swaran Singh Committee recommended adding Fundamental Duties, which led to the 42nd Amendment incorporating Article 51A (Part IV-A) listing ten duties for citizens.",
+    "options": [
+      { "text": "Sarkaria Commission", "isCorrect": false },
+      { "text": "Swaran Singh Committee", "isCorrect": true },
+      { "text": "Balwant Rai Mehta Committee", "isCorrect": false },
+      { "text": "Verma Committee", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 8",
+    "subject": "GK",
+    "difficulty": "Very Hard",
+    "text": "In the Indian federal structure, which constitutional article defines the 'Residuary Powers' of legislation, vesting them exclusively in the Union Parliament?",
+    "explanation": "Article 248 grants the Union Parliament exclusive power to make laws on any subject not listed in the Union, State, or Concurrent Lists (Residuary Lists).",
+    "options": [
+      { "text": "Article 246", "isCorrect": false },
+      { "text": "Article 248", "isCorrect": true },
+      { "text": "Article 250", "isCorrect": false },
+      { "text": "Article 300", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 8",
+    "subject": "GK",
+    "difficulty": "Very Hard",
+    "text": "What is the name of India's first scientific research base station established in the Arctic region in July 2008?",
+    "explanation": "Himadri is India's first permanent Arctic research station, located at Ny-\u00c5lesund, Svalbard, Norway, to monitor glaciers and atmospheric conditions.",
+    "options": [
+      { "text": "Himadri", "isCorrect": true },
+      { "text": "Maitri", "isCorrect": false },
+      { "text": "Dakshin Gangotri", "isCorrect": false },
+      { "text": "Bharti", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 8",
+    "subject": "GK",
+    "difficulty": "Very Hard",
+    "text": "Which chemical compound is commonly used in voter ink (indelible ink) in India to prevent double voting by staining the fingernail?",
+    "explanation": "Silver nitrate (\\\\(\\\\text{AgNO}_3\\\\)) is used in voter ink. It reacts with the salt in the skin to form silver chloride, which is insoluble in water and leaves a dark stain.",
+    "options": [
+      { "text": "Sodium chloride", "isCorrect": false },
+      { "text": "Silver nitrate", "isCorrect": true },
+      { "text": "Potassium permanganate", "isCorrect": false },
+      { "text": "Copper sulphate", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 8",
+    "subject": "GK",
+    "difficulty": "Very Hard",
+    "text": "Which heavy-lift launch vehicle of ISRO successfully launched the historic Chandrayaan-3 lunar mission into orbit in July 2023?",
+    "explanation": "ISRO's LVM3 (Launch Vehicle Mark 3, previously GSLV Mk III) launched the Chandrayaan-3 spacecraft from the Satish Dhawan Space Centre.",
+    "options": [
+      { "text": "PSLV-C55", "isCorrect": false },
+      { "text": "LVM3-M4", "isCorrect": true },
+      { "text": "GSLV-F12", "isCorrect": false },
+      { "text": "SSLV-D2", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 8",
+    "subject": "GK",
+    "difficulty": "Very Hard",
+    "text": "Who was appointed as the first Indian director of the Indian Institute of Science (IISc), Bangalore, in the year 1933?",
+    "explanation": "Sir C. V. Raman became the first Indian director of IISc in 1933. Prior to him, the directors were British scientists, starting with Morris Travers.",
+    "options": [
+      { "text": "Dr. Homi J. Bhabha", "isCorrect": false },
+      { "text": "Sir C. V. Raman", "isCorrect": true },
+      { "text": "Jagadish Chandra Bose", "isCorrect": false },
+      { "text": "Satish Dhawan", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 8",
+    "subject": "GK",
+    "difficulty": "Very Hard",
+    "text": "During nuclear fission of Uranium-235 inside a nuclear power reactor, what subatomic particles are released that carry on and sustain the chain reaction?",
+    "explanation": "Nuclear fission of U-235 by a slow neutron splits the atom, releasing huge energy along with 2 to 3 fast neutrons that hit other U-235 atoms to sustain the chain reaction.",
+    "options": [
+      { "text": "Protons", "isCorrect": false },
+      { "text": "Neutrons", "isCorrect": true },
+      { "text": "Electrons", "isCorrect": false },
+      { "text": "Alpha particles", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 8",
+    "subject": "GK",
+    "difficulty": "Very Hard",
+    "text": "Which ancient medical treatise, written by the physician Sushruta, is celebrated as one of the foundational texts of Ayurveda and ancient plastic surgery?",
+    "explanation": "The 'Sushruta Samhita' is an ancient Sanskrit text detailing surgical techniques, including rhinoplasty (nasal reconstruction), making Sushruta the 'Father of Surgery'.",
+    "options": [
+      { "text": "Charaka Samhita", "isCorrect": false },
+      { "text": "Sushruta Samhita", "isCorrect": true },
+      { "text": "Ashtanga Hridayam", "isCorrect": false },
+      { "text": "Madhava Nidana", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 8",
+    "subject": "GK",
+    "difficulty": "Very Hard",
+    "text": "Who was the first Indian woman writer to win the prestigious Man Booker Prize for her novel 'The God of Small Things' in 1997?",
+    "explanation": "Arundhati Roy won the Man Booker Prize in 1997 for her debut novel 'The God of Small Things', which explores family relationships and social dynamics in Kerala.",
+    "options": [
+      { "text": "Kiran Desai", "isCorrect": false },
+      { "text": "Arundhati Roy", "isCorrect": true },
+      { "text": "Anita Desai", "isCorrect": false },
+      { "text": "Jhumpa Lahiri", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 8",
+    "subject": "GK",
+    "difficulty": "Very Hard",
+    "text": "Which Indian classical dance form from Manipur incorporates the martial art style of Thang-Ta and features dancers wearing stiff, barrel-shaped skirts?",
+    "explanation": "Manipuri dance is a major classical dance from Manipur, known for its Raslila theme, where female dancers wear the 'Kumil', a barrel-shaped stiff skirt decorated with mirrors.",
+    "options": [
+      { "text": "Kathakali", "isCorrect": false },
+      { "text": "Manipuri", "isCorrect": true },
+      { "text": "Odissi", "isCorrect": false },
+      { "text": "Sattriya", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 8",
+    "subject": "GK",
+    "difficulty": "Very Hard",
+    "text": "Who was the first individual Indian athlete to win two Olympic medals in consecutive games in independent India's history?",
+    "explanation": "Wrestler Sushil Kumar won a bronze medal in Beijing 2008 and a silver medal in London 2012 in the 66 kg freestyle wrestling category, becoming the first Indian to do so.",
+    "options": [
+      { "text": "PV Sindhu", "isCorrect": false },
+      { "text": "Sushil Kumar", "isCorrect": true },
+      { "text": "Neeraj Chopra", "isCorrect": false },
+      { "text": "Khashaba Dadasaheb Jadhav", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 8",
+    "subject": "GK",
+    "difficulty": "Very Hard",
+    "text": "In which year was the National Bank for Agriculture and Rural Development (NABARD) established on the recommendations of the B. Sivaraman Committee?",
+    "explanation": "NABARD was established on July 12, 1982, by an act of Parliament, to promote sustainable and equitable agriculture and rural development.",
+    "options": [
+      { "text": "1969", "isCorrect": false },
+      { "text": "1982", "isCorrect": true },
+      { "text": "1991", "isCorrect": false },
+      { "text": "1955", "isCorrect": false }
+    ]
+  }
+]

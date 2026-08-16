@@ -1,0 +1,152 @@
+[
+  {
+    "text": "What is the effect of a price ceiling on the equilibrium price and quantity in a market?",
+    "options": [
+      "It increases the equilibrium price and quantity.",
+      "It decreases the equilibrium price and quantity.",
+      "It has no effect on the equilibrium price and quantity.",
+      "It increases the equilibrium price but decreases the equilibrium quantity."
+    ],
+    "correctAnswer": "It decreases the equilibrium price and quantity.",
+    "explanation": "A price ceiling is a legal maximum price that can be charged for a good or service. If the price ceiling is below the equilibrium price, it will lead to a shortage, causing the price to decrease and the quantity to decrease as well.",
+    "difficulty": "Medium",
+    "class": "Class 11",
+    "subject": "Economics",
+    "chapter": "Ch 4: Forms of Market and Price Determination"
+  },
+  {
+    "text": "What is the effect of a price floor on the equilibrium price and quantity in a market?",
+    "options": [
+      "It increases the equilibrium price and quantity.",
+      "It decreases the equilibrium price and quantity.",
+      "It has no effect on the equilibrium price and quantity.",
+      "It decreases the equilibrium price but increases the equilibrium quantity."
+    ],
+    "correctAnswer": "It decreases the equilibrium price but increases the equilibrium quantity.",
+    "explanation": "A price floor is a legal minimum price that can be charged for a good or service. If the price floor is above the equilibrium price, it will lead to a surplus, causing the price to increase and the quantity to increase as well.",
+    "difficulty": "Medium",
+    "class": "Class 11",
+    "subject": "Economics",
+    "chapter": "Ch 4: Forms of Market and Price Determination"
+  },
+  {
+    "text": "What happens to the equilibrium price and quantity in a market when the demand curve shifts to the left?",
+    "options": [
+      "The equilibrium price increases and the equilibrium quantity decreases.",
+      "The equilibrium price decreases and the equilibrium quantity increases.",
+      "The equilibrium price remains the same and the equilibrium quantity decreases.",
+      "The equilibrium price increases and the equilibrium quantity remains the same."
+    ],
+    "correctAnswer": "The equilibrium price increases and the equilibrium quantity decreases.",
+    "explanation": "When the demand curve shifts to the left, it means that the demand for the good or service has decreased. This leads to a decrease in the equilibrium quantity and an increase in the equilibrium price.",
+    "difficulty": "Medium",
+    "class": "Class 11",
+    "subject": "Economics",
+    "chapter": "Ch 4: Forms of Market and Price Determination"
+  },
+  {
+    "text": "What happens to the equilibrium price and quantity in a market when the supply curve shifts to the right?",
+    "options": [
+      "The equilibrium price increases and the equilibrium quantity decreases.",
+      "The equilibrium price decreases and the equilibrium quantity increases.",
+      "The equilibrium price remains the same and the equilibrium quantity increases.",
+      "The equilibrium price decreases and the equilibrium quantity decreases."
+    ],
+    "correctAnswer": "The equilibrium price decreases and the equilibrium quantity increases.",
+    "explanation": "When the supply curve shifts to the right, it means that the supply of the good or service has increased. This leads to a decrease in the equilibrium price and an increase in the equilibrium quantity.",
+    "difficulty": "Medium",
+    "class": "Class 11",
+    "subject": "Economics",
+    "chapter": "Ch 4: Forms of Market and Price Determination"
+  },
+  {
+    "text": "What is the effect of a price ceiling on the quantity supplied in a market?",
+    "options": [
+      "It increases the quantity supplied.",
+      "It decreases the quantity supplied.",
+      "It has no effect on the quantity supplied.",
+      "It increases the quantity supplied but only at a price below the equilibrium price."
+    ],
+    "correctAnswer": "It decreases the quantity supplied.",
+    "explanation": "A price ceiling is a legal maximum price that can be charged for a good or service. If the price ceiling is below the equilibrium price, it will lead to a decrease in the quantity supplied as producers will not be willing to supply at a price below the equilibrium price.",
+    "difficulty": "Easy",
+    "class": "Class 11",
+    "subject": "Economics",
+    "chapter": "Ch 4: Forms of Market and Price Determination"
+  },
+  {
+    "text": "What is the effect of a price floor on the quantity demanded in a market?",
+    "options": [
+      "It increases the quantity demanded.",
+      "It decreases the quantity demanded.",
+      "It has no effect on the quantity demanded.",
+      "It decreases the quantity demanded but only at a price above the equilibrium price."
+    ],
+    "correctAnswer": "It decreases the quantity demanded.",
+    "explanation": "A price floor is a legal minimum price that can be charged for a good or service. If the price floor is above the equilibrium price, it will lead to a decrease in the quantity demanded as consumers will not be willing to buy at a price above the equilibrium price.",
+    "difficulty": "Easy",
+    "class": "Class 11",
+    "subject": "Economics",
+    "chapter": "Ch 4: Forms of Market and Price Determination"
+  },
+  {
+    "text": "What happens to the equilibrium price and quantity in a market when the demand curve shifts to the right?",
+    "options": [
+      "The equilibrium price increases and the equilibrium quantity decreases.",
+      "The equilibrium price decreases and the equilibrium quantity increases.",
+      "The equilibrium price remains the same and the equilibrium quantity increases.",
+      "The equilibrium price decreases and the equilibrium quantity decreases."
+    ],
+    "correctAnswer": "The equilibrium price increases and the equilibrium quantity increases.",
+    "explanation": "When the demand curve shifts to the right, it means that the demand for the good or service has increased. This leads to an increase in the equilibrium price and an increase in the equilibrium quantity.",
+    "difficulty": "Medium",
+    "class": "Class 11",
+    "subject": "Economics",
+    "chapter": "Ch 4: Forms of Market and Price Determination"
+  },
+  {
+    "text": "What happens to the equilibrium price and quantity in a market when the supply curve shifts to the left?",
+    "options": [
+      "The equilibrium price increases and the equilibrium quantity decreases.",
+      "The equilibrium price decreases and the equilibrium quantity increases.",
+      "The equilibrium price remains the same and the equilibrium quantity decreases.",
+      "The equilibrium price decreases and the equilibrium quantity decreases."
+    ],
+    "correctAnswer": "The equilibrium price increases and the equilibrium quantity decreases.",
+    "explanation": "When the supply curve shifts to the left, it means that the supply of the good or service has decreased. This leads to an increase in the equilibrium price and a decrease in the equilibrium quantity.",
+    "difficulty": "Medium",
+    "class": "Class 11",
+    "subject": "Economics",
+    "chapter": "Ch 4: Forms of Market and Price Determination"
+  },
+  {
+    "text": "What is the effect of a price ceiling on the equilibrium quantity in a market?",
+    "options": [
+      "It increases the equilibrium quantity.",
+      "It decreases the equilibrium quantity.",
+      "It has no effect on the equilibrium quantity.",
+      "It increases the equilibrium quantity but only at a price below the equilibrium price."
+    ],
+    "correctAnswer": "It decreases the equilibrium quantity.",
+    "explanation": "A price ceiling is a legal maximum price that can be charged for a good or service. If the price ceiling is below the equilibrium price, it will lead to a decrease in the equilibrium quantity as consumers will not be willing to buy at a price above the equilibrium price.",
+    "difficulty": "Easy",
+    "class": "Class 11",
+    "subject": "Economics",
+    "chapter": "Ch 4: Forms of Market and Price Determination"
+  },
+  {
+    "text": "What is the effect of a price floor on the equilibrium price in a market?",
+    "options": [
+      "It increases the equilibrium price.",
+      "It decreases the equilibrium price.",
+      "It has no effect on the equilibrium price.",
+      "It decreases the equilibrium price but only at a price above the equilibrium price."
+    ],
+    "correctAnswer": "It increases the equilibrium price.",
+    "explanation": "A price floor is a legal minimum price that can be charged for a good or service. If the price floor is above the equilibrium price, it will lead to an increase in the equilibrium price as producers will not be willing to supply at a price below the equilibrium price.",
+    "difficulty": "Easy",
+    "class": "Class 11",
+    "subject": "Economics",
+    "chapter": "Ch 4: Forms of Market and Price Determination"
+  }
+]

@@ -1,0 +1,327 @@
+[
+  {
+    "class": "Class 9",
+    "subject": "Science",
+    "difficulty": "EASY",
+    "text": "Which scientist discovered the subatomic particle electron in 1897?",
+    "explanation": "J.J. Thomson discovered electrons through his cathode ray tube experiments.",
+    "options": [
+      { "text": "Ernest Rutherford", "isCorrect": false },
+      { "text": "J.J. Thomson", "isCorrect": true },
+      { "text": "James Chadwick", "isCorrect": false },
+      { "text": "E. Goldstein", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 9",
+    "subject": "Science",
+    "difficulty": "EASY",
+    "text": "Plants obtain their macronutrient carbon primarily from:",
+    "explanation": "Plants absorb carbon dioxide gas from the air to obtain carbon for photosynthesis.",
+    "options": [
+      { "text": "Soil", "isCorrect": false },
+      { "text": "Air", "isCorrect": true },
+      { "text": "Water", "isCorrect": false },
+      { "text": "Fertilizers", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 9",
+    "subject": "Science",
+    "difficulty": "EASY",
+    "text": "What is the SI unit of work?",
+    "explanation": "Work is the product of force and displacement ($W = F \\cdot s$), and its SI unit is Newton-meter ($\\text{N m}$) or Joule ($\\text{J}$).",
+    "options": [
+      { "text": "Watt", "isCorrect": false },
+      { "text": "Joule", "isCorrect": true },
+      { "text": "Newton", "isCorrect": false },
+      { "text": "Pascal", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 9",
+    "subject": "Science",
+    "difficulty": "EASY",
+    "text": "According to the Bohr-Bury scheme, what is the maximum number of electrons that can be accommodated in the outermost shell of any atom?",
+    "explanation": "The maximum capacity of the outermost shell is 8 electrons (octet rule) to maintain stability.",
+    "options": [
+      { "text": "2", "isCorrect": false },
+      { "text": "8", "isCorrect": true },
+      { "text": "18", "isCorrect": false },
+      { "text": "32", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 9",
+    "subject": "Science",
+    "difficulty": "EASY",
+    "text": "The scientific rearing and management of honeybees for honey and wax production is known as:",
+    "explanation": "Apiculture is the maintenance of honeybee colonies (apiaries) for commercial honey production.",
+    "options": [
+      { "text": "Pisciculture", "isCorrect": false },
+      { "text": "Apiculture", "isCorrect": true },
+      { "text": "Sericulture", "isCorrect": false },
+      { "text": "Aquaculture", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 9",
+    "subject": "Science",
+    "difficulty": "EASY",
+    "text": "What form of energy is stored in a compressed metallic spring?",
+    "explanation": "Elastic potential energy is stored in a body due to deformation of its shape or configuration.",
+    "options": [
+      { "text": "Kinetic energy", "isCorrect": false },
+      { "text": "Elastic potential energy", "isCorrect": true },
+      { "text": "Chemical energy", "isCorrect": false },
+      { "text": "Thermal energy", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 9",
+    "subject": "Science",
+    "difficulty": "MEDIUM",
+    "text": "What are isotopes?",
+    "explanation": "Isotopes are atoms of the same element having the same atomic number but different mass numbers.",
+    "options": [
+      { "text": "Atoms with same mass number but different atomic numbers", "isCorrect": false },
+      { "text": "Atoms with same atomic number but different mass numbers", "isCorrect": true },
+      { "text": "Atoms with different number of protons and electrons", "isCorrect": false },
+      { "text": "Compounds with same molecular formulas", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 9",
+    "subject": "Science",
+    "difficulty": "MEDIUM",
+    "text": "Which group of plant nutrients are required in relatively large quantities and are called macronutrients?",
+    "explanation": "Macronutrients include Nitrogen, Phosphorus, Potassium, Calcium, Magnesium, and Sulfur.",
+    "options": [
+      { "text": "Iron, Manganese, Boron", "isCorrect": false },
+      { "text": "Nitrogen, Phosphorus, Potassium", "isCorrect": true },
+      { "text": "Zinc, Copper, Chlorine", "isCorrect": false },
+      { "text": "Carbon, Hydrogen, Oxygen", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 9",
+    "subject": "Science",
+    "difficulty": "MEDIUM",
+    "text": "An object of mass $5\\text{ kg}$ is lifted vertically to a height of $10\\text{ m}$. Calculate its potential energy (take $g = 10\\text{ m/s}^2$).",
+    "explanation": "Potential energy $E_p = mgh = 5 \\times 10 \\times 10 = 500\\text{ J}$.",
+    "options": [
+      { "text": "$50\\text{ J}$", "isCorrect": false },
+      { "text": "$500\\text{ J}$", "isCorrect": true },
+      { "text": "$100\\text{ J}$", "isCorrect": false },
+      { "text": "$250\\text{ J}$", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 9",
+    "subject": "Science",
+    "difficulty": "MEDIUM",
+    "text": "Which isotope is widely used in the medical treatment of cancer?",
+    "explanation": "An isotope of Cobalt ($^{60}\\text{Co}$) is used in radiotherapy to treat cancer.",
+    "options": [
+      { "text": "Isotope of Iodine", "isCorrect": false },
+      { "text": "Isotope of Cobalt", "isCorrect": true },
+      { "text": "Isotope of Uranium", "isCorrect": false },
+      { "text": "Isotope of Carbon", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 9",
+    "subject": "Science",
+    "difficulty": "MEDIUM",
+    "text": "What is the cultivation and harvesting of aquatic plants and animals in both fresh and marine water called?",
+    "explanation": "Aquaculture is the farming of aquatic organisms, including fish, molluscs, crustaceans, and aquatic plants.",
+    "options": [
+      { "text": "Mariculture", "isCorrect": false },
+      { "text": "Aquaculture", "isCorrect": true },
+      { "text": "Pisciculture", "isCorrect": false },
+      { "text": "Apiculture", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 9",
+    "subject": "Science",
+    "difficulty": "MEDIUM",
+    "text": "An electric heater of $1000\\text{ W}$ is operated for $2\\text{ hours}$ daily. Calculate the electrical energy consumed in commercial units.",
+    "explanation": "Energy $E = \\text{Power} \\times \\text{Time} = 1\\text{ kW} \\times 2\\text{ h} = 2\\text{ kWh} = 2\\text{ units}$.",
+    "options": [
+      { "text": "$1\\text{ unit}$", "isCorrect": false },
+      { "text": "$2\\text{ units}$", "isCorrect": true },
+      { "text": "$0.5\\text{ unit}$", "isCorrect": false },
+      { "text": "$2000\\text{ units}$", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 9",
+    "subject": "Science",
+    "difficulty": "MEDIUM",
+    "text": "What is the valency of a Chlorine atom (Atomic number $= 17$)?",
+    "explanation": "The electronic configuration of Chlorine is $2, 8, 7$. It needs $1$ electron to complete its octet, so its valency is $1$.",
+    "options": [
+      { "text": "$7$", "isCorrect": false },
+      { "text": "$1$", "isCorrect": true },
+      { "text": "$8$", "isCorrect": false },
+      { "text": "$2$", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 9",
+    "subject": "Science",
+    "difficulty": "MEDIUM",
+    "text": "Which cropping season in India begins with the southwest monsoon in June and ends in October?",
+    "explanation": "Kharif crops are sown in June and harvested in October (e.g., paddy, maize).",
+    "options": [
+      { "text": "Rabi season", "isCorrect": false },
+      { "text": "Kharif season", "isCorrect": true },
+      { "text": "Zaid season", "isCorrect": false },
+      { "text": "Winter season", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 9",
+    "subject": "Science",
+    "difficulty": "MEDIUM",
+    "text": "Write the expression for the kinetic energy of an object of mass $m$ moving with velocity $v$.",
+    "explanation": "Kinetic energy is the work done to accelerate a body of mass $m$ to velocity $v$, given by $E_k = \\frac{1}{2}mv^2$.",
+    "options": [
+      { "text": "$E_k = mv$", "isCorrect": false },
+      { "text": "$E_k = \\frac{1}{2}mv^2$", "isCorrect": true },
+      { "text": "$E_k = mgh$", "isCorrect": false },
+      { "text": "$E_k = \\frac{1}{2}m^2v$", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 9",
+    "subject": "Science",
+    "difficulty": "HARD",
+    "text": "In Rutherford's alpha particle scattering experiment, what observation led to the conclusion that most of the space inside the atom is empty?",
+    "explanation": "Since most alpha particles passed straight through the gold foil without any deflection, Rutherford concluded that most of the atom is empty space.",
+    "options": [
+      { "text": "A small fraction of particles deflected by large angles", "isCorrect": false },
+      { "text": "Most alpha particles passed through the gold foil without deflection", "isCorrect": true },
+      { "text": "One in 12000 particles rebounded completely", "isCorrect": false },
+      { "text": "Alpha particles changed their charge after passing through gold", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 9",
+    "subject": "Science",
+    "difficulty": "HARD",
+    "text": "What is the primary advantage of adopting mixed cropping practices in agriculture?",
+    "explanation": "Mixed cropping involves growing two or more crops simultaneously on the same land, which reduces the risk of total crop failure due to weather/pests.",
+    "options": [
+      { "text": "It increases the water requirement of the soil", "isCorrect": false },
+      { "text": "It reduces the risk of crop failure and offers insurance against crop loss", "isCorrect": true },
+      { "text": "It makes mechanical harvesting much easier", "isCorrect": false },
+      { "text": "It completely eliminates the need for chemical fertilizers", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 9",
+    "subject": "Science",
+    "difficulty": "HARD",
+    "text": "A force of $10\\text{ N}$ acts on an object and displaces it through $2\\text{ m}$ at an angle of $60^\\circ$ to the direction of force. Calculate the work done.",
+    "explanation": "Work done $W = F \\cdot s \\cdot \\cos(\\theta) = 10 \\times 2 \\times \\cos(60^\\circ) = 20 \\times 0.5 = 10\\text{ J}$.",
+    "options": [
+      { "text": "$20\\text{ J}$", "isCorrect": false },
+      { "text": "$10\\text{ J}$", "isCorrect": true },
+      { "text": "$17.3\\text{ J}$", "isCorrect": false },
+      { "text": "Zero", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 9",
+    "subject": "Science",
+    "difficulty": "HARD",
+    "text": "Determine the number of protons, neutrons, and electrons in a Chloride ion ($\\text{Cl}^-$) with atomic number $17$ and mass number $35$.",
+    "explanation": "Protons = Atomic number = $17$. Neutrons = Mass number - Protons = $35 - 17 = 18$. Electrons = Protons + $1$ (due to negative charge) = $18$.",
+    "options": [
+      { "text": "Protons $= 17$, Neutrons $= 17$, Electrons $= 17$", "isCorrect": false },
+      { "text": "Protons $= 17$, Neutrons $= 18$, Electrons $= 18$", "isCorrect": true },
+      { "text": "Protons $= 18$, Neutrons $= 17$, Electrons $= 18$", "isCorrect": false },
+      { "text": "Protons $= 17$, Neutrons $= 18$, Electrons $= 17$", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 9",
+    "subject": "Science",
+    "difficulty": "HARD",
+    "text": "Differentiate between layer and broiler poultry birds regarding their rearing purposes and nutrition.",
+    "explanation": "Layers are reared for producing eggs and need vitamin-rich feed; broilers are reared for meat and need protein and fat-rich feed.",
+    "options": [
+      { "text": "Broilers produce eggs; layers are reared for meat", "isCorrect": false },
+      { "text": "Layers are reared for egg production; broilers are raised for meat production", "isCorrect": true },
+      { "text": "Broilers require high calcium; layers require high protein and vitamin A only", "isCorrect": false },
+      { "text": "Layers have a shorter life cycle and are harvested at 6 weeks", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 9",
+    "subject": "Science",
+    "difficulty": "HARD",
+    "text": "An object of mass $2\\text{ kg}$ is dropped from a height of $10\\text{ m}$. Calculate its kinetic energy just before touching the ground (take $g = 10\\text{ m/s}^2$).",
+    "explanation": "By conservation of energy, loss in potential energy = gain in kinetic energy. Kinetic energy $= mgh = 2 \\times 10 \\times 10 = 200\\text{ J}$.",
+    "options": [
+      { "text": "$100\\text{ J}$", "isCorrect": false },
+      { "text": "$200\\text{ J}$", "isCorrect": true },
+      { "text": "$20\\text{ J}$", "isCorrect": false },
+      { "text": "$400\\text{ J}$", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 9",
+    "subject": "Science",
+    "difficulty": "VERY HARD",
+    "text": "Write the electronic configuration and valency of an element with atomic number $15$, and explain its chemical identity.",
+    "explanation": "Atomic number $15$ is Phosphorus. Configuration is $2, 8, 5$. It needs $3$ electrons for stability, hence its valency is $3$ (it can also expand to show valency $5$).",
+    "options": [
+      { "text": "Configuration: $2, 8, 3$; Valency: $3$; Metal", "isCorrect": false },
+      { "text": "Configuration: $2, 8, 5$; Valency: $3$ (and $5$); Non-metal", "isCorrect": true },
+      { "text": "Configuration: $2, 6, 7$; Valency: $2$; Metalloid", "isCorrect": false },
+      { "text": "Configuration: $2, 8, 4$; Valency: $4$; Semimetal", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 9",
+    "subject": "Science",
+    "difficulty": "VERY HARD",
+    "text": "What is hybridization in crop variety improvement, and how does it differ from genetic modification?",
+    "explanation": "Hybridization is the cross-breeding of two genetically different varieties; genetic modification introduces a foreign gene directly to insert a trait.",
+    "options": [
+      { "text": "Hybridization changes soil chemistry; genetic modification only changes plant color", "isCorrect": false },
+      { "text": "Hybridization involves crossing genetically distinct varieties; genetic modification inserts a specific foreign gene into the genome", "isCorrect": true },
+      { "text": "Hybridization is done in laboratories using chemical synthesis; genetic modification is natural", "isCorrect": false },
+      { "text": "Hybridization increases pesticide use; genetic modification always eliminates the need for water", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 9",
+    "subject": "Science",
+    "difficulty": "VERY HARD",
+    "text": "An electric pump of power $2.0\\text{ kW}$ is used to pump water to a tank at a height of $10\\text{ m}$. If the pump efficiency is $80\\%$, how much water (in kg) can it lift in $10\\text{ minutes}$? (take $g = 10\\text{ m/s}^2$)",
+    "explanation": "Total energy input $= 2.0\\text{ kW} \\times 600\\text{ s} = 1200\\text{ kJ}$. Useful work $= 0.80 \\times 1200\\text{ kJ} = 960\\text{ kJ}$. Using $W = mgh \\Rightarrow 960000 = m(10)(10) \\Rightarrow m = 9600\\text{ kg}$.",
+    "options": [
+      { "text": "$12000\\text{ kg}$", "isCorrect": false },
+      { "text": "$9600\\text{ kg}$", "isCorrect": true },
+      { "text": "$7200\\text{ kg}$", "isCorrect": false },
+      { "text": "$4800\\text{ kg}$", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 9",
+    "subject": "Science",
+    "difficulty": "VERY HARD",
+    "text": "A $10\\text{ kg}$ ball is dropped from a height of $20\\text{ m}$. Calculate its kinetic energy and potential energy at a height of $10\\text{ m}$ from the ground (take $g = 10\\text{ m/s}^2$).",
+    "explanation": "Potential energy at $10\\text{ m} = mgh_2 = 10 \\times 10 \\times 10 = 1000\\text{ J}$. Initial energy $= mgh_1 = 2000\\text{ J}$. Kinetic energy $= \\text{Total energy} - \\text{Potential energy} = 2000 - 1000 = 1000\\text{ J}$.",
+    "options": [
+      { "text": "Kinetic Energy $= 2000\\text{ J}$, Potential Energy $= 0\\text{ J}$", "isCorrect": false },
+      { "text": "Kinetic Energy $= 1000\\text{ J}$, Potential Energy $= 1000\\text{ J}$", "isCorrect": true },
+      { "text": "Kinetic Energy $= 500\\text{ J}$, Potential Energy $= 1500\\text{ J}$", "isCorrect": false },
+      { "text": "Kinetic Energy $= 1500\\text{ J}$, Potential Energy $= 500\\text{ J}$", "isCorrect": false }
+    ]
+  }
+]

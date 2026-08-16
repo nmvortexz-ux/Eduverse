@@ -1,0 +1,327 @@
+[
+  {
+    "class": "Class 10",
+    "subject": "GK",
+    "difficulty": "EASY",
+    "text": "Who was the first Indian woman to be awarded the Nobel Peace Prize?",
+    "explanation": "Mother Teresa, an Albanian-Indian Roman Catholic nun, was awarded the Nobel Peace Prize in 1979 for her humanitarian work with the Missionaries of Charity.",
+    "options": [
+      { "text": "Sarojini Naidu", "isCorrect": false },
+      { "text": "Mother Teresa", "isCorrect": true },
+      { "text": "Indira Gandhi", "isCorrect": false },
+      { "text": "Asha Purna Devi", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 10",
+    "subject": "GK",
+    "difficulty": "EASY",
+    "text": "Which tree is designated as the National Tree of India?",
+    "explanation": "The Indian Banyan (Ficus benghalensis) is the national tree of India, symbolizing eternal life and shelter due to its expanding branches and aerial roots.",
+    "options": [
+      { "text": "Neem Tree", "isCorrect": false },
+      { "text": "Indian Banyan", "isCorrect": true },
+      { "text": "Peepal Tree", "isCorrect": false },
+      { "text": "Mango Tree", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 10",
+    "subject": "GK",
+    "difficulty": "EASY",
+    "text": "Which is the highest and largest plateau in the world, often referred to as the 'Roof of the World'?",
+    "explanation": "The Tibetan Plateau is the world's highest and largest plateau, covering about 2.5 million square kilometers with an average elevation of over 4,500 meters.",
+    "options": [
+      { "text": "Deccan Plateau", "isCorrect": false },
+      { "text": "Colorado Plateau", "isCorrect": false },
+      { "text": "Tibetan Plateau", "isCorrect": true },
+      { "text": "Anatolian Plateau", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 10",
+    "subject": "GK",
+    "difficulty": "EASY",
+    "text": "What is the capital city of Russia?",
+    "explanation": "Moscow is the capital and largest city of Russia, located in the European part of the country on the Moskva River.",
+    "options": [
+      { "text": "Saint Petersburg", "isCorrect": false },
+      { "text": "Vladivostok", "isCorrect": false },
+      { "text": "Moscow", "isCorrect": true },
+      { "text": "Novosibirsk", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 10",
+    "subject": "GK",
+    "difficulty": "EASY",
+    "text": "Which chemical compound is commonly known as 'Laughing Gas' due to its intoxicating effects when inhaled?",
+    "explanation": "Nitrous oxide (N2O) is a colorless gas commonly used in dentistry and surgery for its anesthetic and pain-relieving effects, which also cause mild euphoria.",
+    "options": [
+      { "text": "Nitric Oxide", "isCorrect": false },
+      { "text": "Nitrous Oxide", "isCorrect": true },
+      { "text": "Nitrogen Dioxide", "isCorrect": false },
+      { "text": "Ammonia", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 10",
+    "subject": "GK",
+    "difficulty": "EASY",
+    "text": "Who is credited with inventing the first commercially practical incandescent light bulb in 1879?",
+    "explanation": "Thomas Alva Edison patented the carbon filament incandescent light bulb in 1879, which could burn for over 13 hours and became commercially successful.",
+    "options": [
+      { "text": "Nikola Tesla", "isCorrect": false },
+      { "text": "Thomas Edison", "isCorrect": true },
+      { "text": "Benjamin Franklin", "isCorrect": false },
+      { "text": "Humphry Davy", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 10",
+    "subject": "GK",
+    "difficulty": "MEDIUM",
+    "text": "In which year did the tragic Jallianwala Bagh Massacre take place in Amritsar, Punjab?",
+    "explanation": "The Jallianwala Bagh Massacre occurred on 13 April 1919, when British troops under Brigadier-General Reginald Dyer opened fire on a crowd of unarmed civilians celebrating Baisakhi.",
+    "options": [
+      { "text": "1905", "isCorrect": false },
+      { "text": "1919", "isCorrect": true },
+      { "text": "1922", "isCorrect": false },
+      { "text": "1931", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 10",
+    "subject": "GK",
+    "difficulty": "MEDIUM",
+    "text": "Which is the largest internal organ in the human body, responsible for detoxification and protein synthesis?",
+    "explanation": "The liver is the largest internal organ (and the largest gland) in the human body, weighing about 1.5 kg in an adult.",
+    "options": [
+      { "text": "Brain", "isCorrect": false },
+      { "text": "Liver", "isCorrect": true },
+      { "text": "Heart", "isCorrect": false },
+      { "text": "Stomach", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 10",
+    "subject": "GK",
+    "difficulty": "MEDIUM",
+    "text": "Which Indian state has the longest coastline, stretching over 1,600 kilometers?",
+    "explanation": "Gujarat has the longest coastline among all Indian states, which is about 24% of the country's total coastline, facing the Arabian Sea.",
+    "options": [
+      { "text": "Maharashtra", "isCorrect": false },
+      { "text": "Tamil Nadu", "isCorrect": false },
+      { "text": "Andhra Pradesh", "isCorrect": false },
+      { "text": "Gujarat", "isCorrect": true }
+    ]
+  },
+  {
+    "class": "Class 10",
+    "subject": "GK",
+    "difficulty": "MEDIUM",
+    "text": "The 'Directive Principles of State Policy' (DPSP) in Part IV of the Indian Constitution were borrowed from the constitution of which country?",
+    "explanation": "The makers of the Indian Constitution borrowed the concept of DPSP from the Constitution of Ireland, which had copied it from the Spanish Constitution.",
+    "options": [
+      { "text": "United Kingdom", "isCorrect": false },
+      { "text": "Ireland", "isCorrect": true },
+      { "text": "United States", "isCorrect": false },
+      { "text": "Australia", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 10",
+    "subject": "GK",
+    "difficulty": "MEDIUM",
+    "text": "Which country is called the 'Land of the Maple Leaf' due to the maple leaf being its central national symbol?",
+    "explanation": "Canada is known as the Land of the Maple Leaf, and the maple leaf features prominently on the national flag and military insignia.",
+    "options": [
+      { "text": "Sweden", "isCorrect": false },
+      { "text": "Canada", "isCorrect": true },
+      { "text": "Switzerland", "isCorrect": false },
+      { "text": "New Zealand", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 10",
+    "subject": "GK",
+    "difficulty": "MEDIUM",
+    "text": "What does the term 'Balance of Trade' mean in economic terminology?",
+    "explanation": "The Balance of Trade is the difference between the monetary value of a nation's exports and imports of physical goods over a specific period.",
+    "options": [
+      { "text": "The difference between total government revenue and expenditure", "isCorrect": false },
+      { "text": "The difference between the value of a nation's exports and imports of goods", "isCorrect": true },
+      { "text": "The ratio of domestic currency value to foreign currency value", "isCorrect": false },
+      { "text": "The total volume of international trade handled by domestic ports", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 10",
+    "subject": "GK",
+    "difficulty": "HARD",
+    "text": "Who was one of the key co-founders of the 'Deccan Education Society' established in Pune in 1884 to provide quality nationalist education?",
+    "explanation": "Bal Gangadhar Tilak, along with Gopal Ganesh Agarkar and others, founded the Deccan Education Society, which established Fergusson College in 1885.",
+    "options": [
+      { "text": "Bal Gangadhar Tilak", "isCorrect": true },
+      { "text": "Lala Lajpat Rai", "isCorrect": false },
+      { "text": "Bipin Chandra Pal", "isCorrect": false },
+      { "text": "Mahatma Jyotirao Phule", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 10",
+    "subject": "GK",
+    "difficulty": "HARD",
+    "text": "Which Article of the Indian Constitution provides for the appointment and functions of the Attorney General of India?",
+    "explanation": "Article 76 of the Indian Constitution states that the President shall appoint a person who is qualified to be appointed a Judge of the Supreme Court to be the Attorney General.",
+    "options": [
+      { "text": "Article 72", "isCorrect": false },
+      { "text": "Article 76", "isCorrect": true },
+      { "text": "Article 88", "isCorrect": false },
+      { "text": "Article 148", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 10",
+    "subject": "GK",
+    "difficulty": "HARD",
+    "text": "Which is the deepest lake in the world, containing nearly 20% of the world's unfrozen surface fresh water?",
+    "explanation": "Lake Baikal in southern Siberia, Russia, is the deepest lake on Earth at 1,642 meters (5,387 feet) and is also the oldest lake, formed 25-30 million years ago.",
+    "options": [
+      { "text": "Lake Superior", "isCorrect": false },
+      { "text": "Lake Victoria", "isCorrect": false },
+      { "text": "Lake Baikal", "isCorrect": true },
+      { "text": "Lake Tanganyika", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 10",
+    "subject": "GK",
+    "difficulty": "HARD",
+    "text": "Who was the first Indian woman athlete to win a medal at the World Athletics Championships, winning bronze in long jump in Paris in 2003?",
+    "explanation": "Anju Bobby George made history by winning the bronze medal in the long jump event at the 2003 World Championships in Athletics with a jump of 6.70 meters.",
+    "options": [
+      { "text": "P.T. Usha", "isCorrect": false },
+      { "text": "Anju Bobby George", "isCorrect": true },
+      { "text": "Hima Das", "isCorrect": false },
+      { "text": "Dutee Chand", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 10",
+    "subject": "GK",
+    "difficulty": "HARD",
+    "text": "Which city serves as the official administrative capital of South Africa, housing the Union Buildings and the President's office?",
+    "explanation": "South Africa has three capitals: Pretoria is the administrative capital, Cape Town is the legislative capital, and Bloemfontein is the judicial capital.",
+    "options": [
+      { "text": "Johannesburg", "isCorrect": false },
+      { "text": "Cape Town", "isCorrect": false },
+      { "text": "Pretoria", "isCorrect": true },
+      { "text": "Durban", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 10",
+    "subject": "GK",
+    "difficulty": "HARD",
+    "text": "Which South American country hosted the G20 Summit in November 2024?",
+    "explanation": "Brazil hosted the 19th G20 Summit in Rio de Janeiro in November 2024, focusing on combating hunger, poverty, and promoting sustainable development.",
+    "options": [
+      { "text": "Argentina", "isCorrect": false },
+      { "text": "India", "isCorrect": false },
+      { "text": "Brazil", "isCorrect": true },
+      { "text": "Mexico", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 10",
+    "subject": "GK",
+    "difficulty": "VERY HARD",
+    "text": "Under which British Governor-General of India was the custom of Sati officially abolished and declared illegal in 1829?",
+    "explanation": "Lord William Bentinck enacted the Bengal Sati Regulation of 1829 with the support of Indian social reformer Raja Ram Mohan Roy, banning Sati in British India.",
+    "options": [
+      { "text": "Lord Dalhousie", "isCorrect": false },
+      { "text": "Lord William Bentinck", "isCorrect": true },
+      { "text": "Lord Hastings", "isCorrect": false },
+      { "text": "Lord Amherst", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 10",
+    "subject": "GK",
+    "difficulty": "VERY HARD",
+    "text": "Who was the first woman to serve as the Governor of an Indian state, taking office in the United Provinces in 1947?",
+    "explanation": "Sarojini Naidu, the 'Nightingale of India', served as the Governor of the United Provinces (now Uttar Pradesh) from 15 August 1947 until her death in 1949.",
+    "options": [
+      { "text": "Sucheta Kripalani", "isCorrect": false },
+      { "text": "Sarojini Naidu", "isCorrect": true },
+      { "text": "Vijayalakshmi Pandit", "isCorrect": false },
+      { "text": "Padmaja Naidu", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 10",
+    "subject": "GK",
+    "difficulty": "VERY HARD",
+    "text": "The 'Bering Strait', connecting the Arctic Ocean to the Pacific Ocean, separates Russia from which US state?",
+    "explanation": "The Bering Strait lies between Cape Dezhnev, Russia (the easternmost point of Asia), and Cape Prince of Wales, Alaska, USA (the westernmost point of North America).",
+    "options": [
+      { "text": "Hawaii", "isCorrect": false },
+      { "text": "Alaska", "isCorrect": true },
+      { "text": "Washington", "isCorrect": false },
+      { "text": "California", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 10",
+    "subject": "GK",
+    "difficulty": "VERY HARD",
+    "text": "In welfare and development economics, what relationship is represented by the 'Kuznets Curve'?",
+    "explanation": "The Kuznets Curve, formulated by Simon Kuznets, hypothesizes that as an economy develops, market forces first increase and then decrease economic inequality.",
+    "options": [
+      { "text": "Relationship between inflation and tax rates", "isCorrect": false },
+      { "text": "Relationship between economic growth and inequality", "isCorrect": true },
+      { "text": "Relationship between unemployment and productivity", "isCorrect": false },
+      { "text": "Relationship between money supply and interest rates", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 10",
+    "subject": "GK",
+    "difficulty": "VERY HARD",
+    "text": "The 'Bhitarkanika National Park', which contains the second-largest mangrove ecosystem in India and is a Ramsar site, is located in which state?",
+    "explanation": "Bhitarkanika National Park is located in the Kendrapara district of Odisha and is renowned for its giant saltwater crocodiles and nesting site of Olive Ridley turtles.",
+    "options": [
+      { "text": "West Bengal", "isCorrect": false },
+      { "text": "Odisha", "isCorrect": true },
+      { "text": "Andhra Pradesh", "isCorrect": false },
+      { "text": "Tamil Nadu", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 10",
+    "subject": "GK",
+    "difficulty": "VERY HARD",
+    "text": "Which American molecular biologist co-discovered the double-helix structure of the DNA molecule along with Francis Crick in 1953?",
+    "explanation": "James Watson and Francis Crick proposed the double-helix structure of DNA in a landmark paper in Nature, sharing the 1962 Nobel Prize in Physiology or Medicine with Maurice Wilkins.",
+    "options": [
+      { "text": "Richard Feynman", "isCorrect": false },
+      { "text": "James Watson", "isCorrect": true },
+      { "text": "Linus Pauling", "isCorrect": false },
+      { "text": "Robert Oppenheimer", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 10",
+    "subject": "GK",
+    "difficulty": "VERY HARD",
+    "text": "The historic 'Treaty of Sugauli' of 1816, which defined the boundaries of modern Nepal, was signed between the British East India Company and Nepal after which war?",
+    "explanation": "The Treaty of Sugauli was signed in March 1816, ending the Anglo-Nepalese War (1814-16) and establishing the Kali River as the western boundary of Nepal.",
+    "options": [
+      { "text": "First Anglo-Burmese War", "isCorrect": false },
+      { "text": "Anglo-Nepalese War", "isCorrect": true },
+      { "text": "First Anglo-Sikh War", "isCorrect": false },
+      { "text": "Anglo-Maratha War", "isCorrect": false }
+    ]
+  }
+]

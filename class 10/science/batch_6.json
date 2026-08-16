@@ -1,0 +1,327 @@
+[
+  {
+    "class": "Class 10",
+    "subject": "Science",
+    "difficulty": "EASY",
+    "text": "What is the primary site of photosynthesis inside plant cells?",
+    "explanation": "Chloroplasts contain the green pigment chlorophyll, which absorbs light energy and is the primary site where photosynthesis occurs.",
+    "options": [
+      { "text": "Chloroplast", "isCorrect": true },
+      { "text": "Mitochondria", "isCorrect": false },
+      { "text": "Ribosome", "isCorrect": false },
+      { "text": "Cytoplasm", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 10",
+    "subject": "Science",
+    "difficulty": "EASY",
+    "text": "What is the common chemical name of Sodium Carbonate Decahydrate?",
+    "explanation": "Sodium carbonate decahydrate (\\text{Na}_2\\text{CO}_3 \\cdot 10\\text{H}_2\\text{O}) is commonly known as washing soda.",
+    "options": [
+      { "text": "Washing soda", "isCorrect": true },
+      { "text": "Baking soda", "isCorrect": false },
+      { "text": "Bleaching powder", "isCorrect": false },
+      { "text": "Plaster of Paris", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 10",
+    "subject": "Science",
+    "difficulty": "EASY",
+    "text": "Which acid is present in vinegar?",
+    "explanation": "Vinegar is a 5-8% solution of acetic acid (ethanoic acid) in water.",
+    "options": [
+      { "text": "Acetic acid", "isCorrect": true },
+      { "text": "Citric acid", "isCorrect": false },
+      { "text": "Tartaric acid", "isCorrect": false },
+      { "text": "Lactic acid", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 10",
+    "subject": "Science",
+    "difficulty": "EASY",
+    "text": "Which instrument is used to detect the presence and direction of electric current in a circuit?",
+    "explanation": "A galvanometer is a sensitive instrument used to detect the presence of even small electric currents and their direction in a circuit.",
+    "options": [
+      { "text": "Galvanometer", "isCorrect": true },
+      { "text": "Ammeter", "isCorrect": false },
+      { "text": "Voltmeter", "isCorrect": false },
+      { "text": "Rheostat", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 10",
+    "subject": "Science",
+    "difficulty": "EASY",
+    "text": "The focal length of a plane mirror is considered to be:",
+    "explanation": "A plane mirror is flat and has no curvature, which mathematically corresponds to an infinite radius of curvature and an infinite focal length.",
+    "options": [
+      { "text": "Infinity", "isCorrect": true },
+      { "text": "Zero", "isCorrect": false },
+      { "text": "25 cm", "isCorrect": false },
+      { "text": "-15 cm", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 10",
+    "subject": "Science",
+    "difficulty": "EASY",
+    "text": "The functional unit of the environment comprising living organisms and their non-living surroundings is called:",
+    "explanation": "An ecosystem consists of all the biotic (living) and abiotic (non-living) components interacting in a specific area.",
+    "options": [
+      { "text": "Ecosystem", "isCorrect": true },
+      { "text": "Biosphere", "isCorrect": false },
+      { "text": "Community", "isCorrect": false },
+      { "text": "Biome", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 10",
+    "subject": "Science",
+    "difficulty": "MEDIUM",
+    "text": "The loss of water in the form of water vapour from the aerial parts of a plant is known as:",
+    "explanation": "Transpiration is the process of water movement through a plant and its evaporation from aerial parts, primarily stomata of leaves.",
+    "options": [
+      { "text": "Transpiration", "isCorrect": true },
+      { "text": "Translocation", "isCorrect": false },
+      { "text": "Guttation", "isCorrect": false },
+      { "text": "Respiration", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 10",
+    "subject": "Science",
+    "difficulty": "MEDIUM",
+    "text": "Which type of mirror is best suited for use in a solar cooker to focus sunlight?",
+    "explanation": "Concave mirrors are converging mirrors that collect parallel rays of sunlight and focus them at a single point (focus), generating high heat.",
+    "options": [
+      { "text": "Concave mirror", "isCorrect": true },
+      { "text": "Convex mirror", "isCorrect": false },
+      { "text": "Plane mirror", "isCorrect": false },
+      { "text": "Double convex mirror", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 10",
+    "subject": "Science",
+    "difficulty": "MEDIUM",
+    "text": "Which non-metal is an allotrope of carbon and conducts electricity?",
+    "explanation": "Graphite is an allotrope of carbon where each carbon atom is bonded to three others, leaving one free electron per atom to conduct electricity.",
+    "options": [
+      { "text": "Graphite", "isCorrect": true },
+      { "text": "Diamond", "isCorrect": false },
+      { "text": "Sulphur", "isCorrect": false },
+      { "text": "Phosphorus", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 10",
+    "subject": "Science",
+    "difficulty": "MEDIUM",
+    "text": "During the chlor-alkali process, which gas is released at the anode?",
+    "explanation": "Electrolysis of brine oxidizes chloride ions to chlorine gas (\\text{Cl}_2) at the positive electrode (anode).",
+    "options": [
+      { "text": "Chlorine gas", "isCorrect": true },
+      { "text": "Hydrogen gas", "isCorrect": false },
+      { "text": "Oxygen gas", "isCorrect": false },
+      { "text": "Carbon dioxide", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 10",
+    "subject": "Science",
+    "difficulty": "MEDIUM",
+    "text": "What is the movement of plant parts in response to gravity called?",
+    "explanation": "Geotropism (or gravitropism) is plant growth movement in response to gravity; roots show positive geotropism, shoots show negative geotropism.",
+    "options": [
+      { "text": "Geotropism", "isCorrect": true },
+      { "text": "Phototropism", "isCorrect": false },
+      { "text": "Hydrotropism", "isCorrect": false },
+      { "text": "Chemotropism", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 10",
+    "subject": "Science",
+    "difficulty": "MEDIUM",
+    "text": "Which acid is present in citrus fruits like lemons and oranges?",
+    "explanation": "Citrus fruits contain citric acid, which gives them their characteristic sour taste.",
+    "options": [
+      { "text": "Citric acid", "isCorrect": true },
+      { "text": "Tartaric acid", "isCorrect": false },
+      { "text": "Acetic acid", "isCorrect": false },
+      { "text": "Methanoic acid", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 10",
+    "subject": "Science",
+    "difficulty": "MEDIUM",
+    "text": "The S.I. unit of electric power is:",
+    "explanation": "The S.I. unit of electric power is the watt (W), representing energy consumption rate of 1 joule per second.",
+    "options": [
+      { "text": "watt (W)", "isCorrect": true },
+      { "text": "joule (J)", "isCorrect": false },
+      { "text": "ampere (A)", "isCorrect": false },
+      { "text": "volt (V)", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 10",
+    "subject": "Science",
+    "difficulty": "HARD",
+    "text": "Why do the ventricles of the human heart have thicker muscular walls than the atria?",
+    "explanation": "Atria only receive blood and pump it to ventricles, whereas ventricles have to pump blood to various distant body organs at much higher pressure.",
+    "options": [
+      { "text": "To pump blood out to various organs at high pressure.", "isCorrect": true },
+      { "text": "To prevent the backflow of oxygenated blood into the lungs.", "isCorrect": false },
+      { "text": "To hold a larger volume of blood during diastole.", "isCorrect": false },
+      { "text": "To resist mechanical shocks during heart beats.", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 10",
+    "subject": "Science",
+    "difficulty": "HARD",
+    "text": "What are amphoteric oxides? Choose the correct examples from the following.",
+    "explanation": "Amphoteric oxides are metal oxides that exhibit both acidic and basic characteristics, reacting with both acids and bases to form salt and water, e.g., \\text{Al}_2\\text{O}_3 and \\text{ZnO}.",
+    "options": [
+      { "text": "Oxides reacting with both acids and bases; \\text{Al}_2\\text{O}_3, \\text{ZnO}", "isCorrect": true },
+      { "text": "Oxides reacting with water to form bases; \\text{Na}_2\\text{O}, \\text{K}_2\\text{O}", "isCorrect": false },
+      { "text": "Oxides reacting with water to form acids; \\text{SO}_2, \\text{CO}_2", "isCorrect": false },
+      { "text": "Insoluble metal oxides; \\text{CuO}, \\text{Fe}_2\\text{O}_3", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 10",
+    "subject": "Science",
+    "difficulty": "HARD",
+    "text": "What is the primary role of decomposers in an ecosystem?",
+    "explanation": "Decomposers break down complex organic remains of dead plants and animals into simple inorganic nutrients, which are recycled back into soil for producers.",
+    "options": [
+      { "text": "To break down organic wastes into simple inorganic substances for nutrient recycling.", "isCorrect": true },
+      { "text": "To convert radiant solar energy into chemical energy.", "isCorrect": false },
+      { "text": "To regulate the population of herbivores in the food web.", "isCorrect": false },
+      { "text": "To release oxygen gas back into the atmosphere.", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 10",
+    "subject": "Science",
+    "difficulty": "HARD",
+    "text": "An electric lamp of resistance 20 \\Omega and a conductor of 4 \\Omega resistance are connected in series to a 6 V battery. Calculate the total circuit resistance and current.",
+    "explanation": "In series, R_total = 20 + 4 = 24 \\, \\Omega. Circuit current I = V/R_total = 6 V / 24 \\, \\Omega = 0.25 A.",
+    "options": [
+      { "text": "Total resistance = 24 \\Omega, Current = 0.25 A", "isCorrect": true },
+      { "text": "Total resistance = 16 \\Omega, Current = 0.375 A", "isCorrect": false },
+      { "text": "Total resistance = 24 \\Omega, Current = 1.5 A", "isCorrect": false },
+      { "text": "Total resistance = 4.8 \\Omega, Current = 1.25 A", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 10",
+    "subject": "Science",
+    "difficulty": "HARD",
+    "text": "Which expression correctly defines the refractive index of medium 2 with respect to medium 1 (n_{21}) in terms of speed of light?",
+    "explanation": "The refractive index of medium 2 with respect to medium 1 is the ratio of speed of light in medium 1 (v_1) to speed of light in medium 2 (v_2): n_{21} = v_1 / v_2.",
+    "options": [
+      { "text": "n_{21} = \\frac{v_1}{v_2}", "isCorrect": true },
+      { "text": "n_{21} = \\frac{v_2}{v_1}", "isCorrect": false },
+      { "text": "n_{21} = v_1 \\times v_2", "isCorrect": false },
+      { "text": "n_{21} = \\frac{c}{v_1}", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 10",
+    "subject": "Science",
+    "difficulty": "HARD",
+    "text": "What is the difference between a reflex action and a voluntary action?",
+    "explanation": "Reflex actions are rapid, automatic, and controlled by the spinal cord. Voluntary actions are conscious, deliberate, and controlled by the forebrain.",
+    "options": [
+      { "text": "Reflex actions are involuntary and controlled by the spinal cord; Voluntary actions are conscious and controlled by the forebrain.", "isCorrect": true },
+      { "text": "Reflex actions are conscious actions; Voluntary actions are rapid and automatic.", "isCorrect": false },
+      { "text": "Reflex actions are controlled by the cerebellum; Voluntary actions are controlled by the medulla.", "isCorrect": false },
+      { "text": "Reflex actions take longer to process compared to voluntary actions.", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 10",
+    "subject": "Science",
+    "difficulty": "VERY HARD",
+    "text": "Why do warm-blooded animals like mammals and birds require a complete separation of oxygenated and deoxygenated blood, unlike cold-blooded amphibians?",
+    "explanation": "Warm-blooded animals must maintain a constant body temperature. This requires high energy, which demands highly efficient oxygen supply provided by separate oxygenated and deoxygenated blood channels.",
+    "options": [
+      { "text": "To maintain a constant body temperature through highly efficient oxygen delivery and respiration.", "isCorrect": true },
+      { "text": "To prevent blood clotting in the heart chambers.", "isCorrect": false },
+      { "text": "To reduce the overall workload of the single atrium.", "isCorrect": false },
+      { "text": "To enable amphibians to breathe exclusively through their skin.", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 10",
+    "subject": "Science",
+    "difficulty": "VERY HARD",
+    "text": "What is the operating principle of an electric generator, and what energy conversion occurs?",
+    "explanation": "An electric generator works on the principle of electromagnetic induction (inducing current in a coil by rotating it in a magnetic field) and converts mechanical energy to electrical energy.",
+    "options": [
+      { "text": "Electromagnetic induction, converts mechanical energy to electrical energy.", "isCorrect": true },
+      { "text": "Magnetic effect of current, converts electrical energy to mechanical energy.", "isCorrect": false },
+      { "text": "Chemical effect of current, converts chemical energy to electrical energy.", "isCorrect": false },
+      { "text": "Joule heating effect, converts electrical energy to thermal energy.", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 10",
+    "subject": "Science",
+    "difficulty": "VERY HARD",
+    "text": "An organic compound 'X' reacts with sodium metal to evolve hydrogen gas. When heated with concentrated sulphuric acid at 443 K, it forms an unsaturated hydrocarbon 'Y'. Identify X and Y.",
+    "explanation": "Ethanol (X) reacts with sodium to release hydrogen gas and undergoes dehydration with conc. \\text{H}_2\\text{SO}_4 at 443 K to form ethene (Y).",
+    "options": [
+      { "text": "X: Ethanol, Y: Ethene", "isCorrect": true },
+      { "text": "X: Ethanoic acid, Y: Ethene", "isCorrect": false },
+      { "text": "X: Ethanol, Y: Ethane", "isCorrect": false },
+      { "text": "X: Ethanoic acid, Y: Ethyl ethanoate", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 10",
+    "subject": "Science",
+    "difficulty": "VERY HARD",
+    "text": "How is ozone (\\text{O}_3) formed in the upper atmosphere, and what chemical compounds are primarily responsible for its depletion?",
+    "explanation": "High energy UV radiation splits oxygen (\\text{O}_2) into free oxygen atoms, which combine with \\text{O}_2 to form ozone. Chlorofluorocarbons (CFCs) release chlorine radicals that deplete this ozone layer.",
+    "options": [
+      { "text": "UV rays split \\text{O}_2 into free O atoms which combine with \\text{O}_2 to form \\text{O}_3; depleted by CFCs.", "isCorrect": true },
+      { "text": "Combustion of fossil fuels releases free oxygen; depleted by carbon dioxide.", "isCorrect": false },
+      { "text": "Lightning strikes convert oxygen to ozone; depleted by nitrogen oxides.", "isCorrect": false },
+      { "text": "Photosynthesis releases ozone directly; depleted by sulphur dioxide.", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 10",
+    "subject": "Science",
+    "difficulty": "VERY HARD",
+    "text": "A student cannot read the blackboard clearly when sitting on the last bench 3 metres away. Identify the defect of vision and the type of lens required to correct it.",
+    "explanation": "Since the student cannot see distant objects clearly, they have Myopia (near-sightedness). It is corrected using a concave lens of appropriate power.",
+    "options": [
+      { "text": "Myopia, Concave lens", "isCorrect": true },
+      { "text": "Hypermetropia, Convex lens", "isCorrect": false },
+      { "text": "Presbyopia, Bifocal lens", "isCorrect": false },
+      { "text": "Astigmatism, Cylindrical lens", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 10",
+    "subject": "Science",
+    "difficulty": "VERY HARD",
+    "text": "If the current flowing through a fixed resistor is doubled (at a constant temperature), how does the power dissipated in the resistor change?",
+    "explanation": "Power P = I^2 R. If the current is doubled (I' = 2I), the new power is P' = (2I)^2 R = 4 I^2 R = 4P. The power increases to 4 times, which is a 300% increase.",
+    "options": [
+      { "text": "It increases to four times its original value.", "isCorrect": true },
+      { "text": "It doubles its original value.", "isCorrect": false },
+      { "text": "It remains unchanged.", "isCorrect": false },
+      { "text": "It decreases to one-fourth of its original value.", "isCorrect": false }
+    ]
+  }
+]

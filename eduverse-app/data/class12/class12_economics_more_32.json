@@ -1,0 +1,152 @@
+[
+  {
+    "text": "What is the primary difference between Human Development Index (HDI) and Human Capital?",
+    "options": [
+      "HDI measures economic growth, while Human Capital measures education and health.",
+      "HDI measures education, health, and income, while Human Capital measures only income.",
+      "HDI measures only education and health, while Human Capital measures income and economic growth.",
+      "HDI measures income, education, and health, while Human Capital measures only education and health."
+    ],
+    "correctAnswer": "HDI measures education, health, and income, while Human Capital measures only income.",
+    "explanation": "Human Development Index (HDI) is a composite index measuring average achievement in three basic dimensions of human development: a long and healthy life, knowledge, and a decent standard of living. Human Capital, on the other hand, focuses on the productive capacity of individuals, primarily measured by their income.",
+    "difficulty": "Medium",
+    "class": "Class 12",
+    "subject": "Economics",
+    "chapter": "Ch 9: Current Challenges Facing Indian Economy"
+  },
+  {
+    "text": "The Kudumbashree women empowerment project is an example of which type of government initiative?",
+    "options": [
+      "Microfinance program",
+      "Social security scheme",
+      "Community development project",
+      "Public-private partnership"
+    ],
+    "correctAnswer": "Community development project",
+    "explanation": "Kudumbashree is a community development project that aims to empower women through various initiatives, including microfinance, skill development, and social support. It is a community-led initiative that focuses on poverty alleviation and women's empowerment.",
+    "difficulty": "Easy",
+    "class": "Class 12",
+    "subject": "Economics",
+    "chapter": "Ch 9: Current Challenges Facing Indian Economy"
+  },
+  {
+    "text": "Operation Flood was a government initiative aimed at increasing milk production in India. What was its primary objective?",
+    "options": [
+      "To increase milk production through large-scale dairy farming",
+      "To promote small-scale dairy farming and improve milk production",
+      "To reduce milk production and increase imports",
+      "To improve milk quality and reduce wastage"
+    ],
+    "correctAnswer": "To promote small-scale dairy farming and improve milk production",
+    "explanation": "Operation Flood was a government initiative launched in 1970 to increase milk production in India. The primary objective of the program was to promote small-scale dairy farming and improve milk production through the use of modern technology and management practices.",
+    "difficulty": "Medium",
+    "class": "Class 12",
+    "subject": "Economics",
+    "chapter": "Ch 9: Current Challenges Facing Indian Economy"
+  },
+  {
+    "text": "What is the impact of casualisation and informalisation of the workforce on the Indian economy?",
+    "options": [
+      "It leads to increased employment opportunities and higher economic growth",
+      "It results in lower productivity and reduced economic growth",
+      "It has no significant impact on the economy",
+      "It leads to increased income inequality and poverty"
+    ],
+    "correctAnswer": "It leads to increased income inequality and poverty",
+    "explanation": "The casualisation and informalisation of the workforce in India have led to increased income inequality and poverty. This is because informal workers often lack access to social security benefits, fair wages, and safe working conditions, making them more vulnerable to poverty and exploitation.",
+    "difficulty": "Hard",
+    "class": "Class 12",
+    "subject": "Economics",
+    "chapter": "Ch 9: Current Challenges Facing Indian Economy"
+  },
+  {
+    "text": "What is the Human Development Index (HDI) formula?",
+    "options": [
+      "HDI = (Life Expectancy + Education Index + Income Index) / 3",
+      "HDI = (Life Expectancy + Education Index + Income Index) / 2",
+      "HDI = (Life Expectancy + Education Index + Income Index) / 1",
+      "HDI = (Life Expectancy + Education Index + Income Index)"
+    ],
+    "correctAnswer": "HDI = (Life Expectancy + Education Index + Income Index) / 3",
+    "explanation": "The Human Development Index (HDI) is a composite index that measures average achievement in three basic dimensions of human development: a long and healthy life, knowledge, and a decent standard of living. The HDI formula is HDI = (Life Expectancy + Education Index + Income Index) / 3.",
+    "difficulty": "Medium",
+    "class": "Class 12",
+    "subject": "Economics",
+    "chapter": "Ch 9: Current Challenges Facing Indian Economy"
+  },
+  {
+    "text": "What is the difference between formal and informal employment?",
+    "options": [
+      "Formal employment provides job security, while informal employment does not",
+      "Formal employment provides social security benefits, while informal employment does not",
+      "Formal employment provides higher wages, while informal employment provides lower wages",
+      "Formal employment provides a fixed work schedule, while informal employment provides flexible work hours"
+    ],
+    "correctAnswer": "Formal employment provides social security benefits, while informal employment does not",
+    "explanation": "Formal employment refers to employment in a registered and regulated sector, which provides social security benefits, fair wages, and safe working conditions. Informal employment, on the other hand, refers to employment in an unregistered and unregulated sector, which often lacks these benefits.",
+    "difficulty": "Easy",
+    "class": "Class 12",
+    "subject": "Economics",
+    "chapter": "Ch 9: Current Challenges Facing Indian Economy"
+  },
+  {
+    "text": "What is the impact of Operation Flood on the Indian dairy industry?",
+    "options": [
+      "It led to a decline in milk production",
+      "It led to an increase in milk production and improved milk quality",
+      "It had no significant impact on the industry",
+      "It led to a shift from small-scale to large-scale dairy farming"
+    ],
+    "correctAnswer": "It led to an increase in milk production and improved milk quality",
+    "explanation": "Operation Flood was a government initiative launched in 1970 to increase milk production in India. The program led to an increase in milk production and improved milk quality through the use of modern technology and management practices.",
+    "difficulty": "Medium",
+    "class": "Class 12",
+    "subject": "Economics",
+    "chapter": "Ch 9: Current Challenges Facing Indian Economy"
+  },
+  {
+    "text": "What is the Human Capital Index (HCI) formula?",
+    "options": [
+      "HCI = (Education Index + Health Index + Income Index) / 3",
+      "HCI = (Education Index + Health Index + Income Index) / 2",
+      "HCI = (Education Index + Health Index + Income Index) / 1",
+      "HCI = (Education Index + Health Index + Income Index)"
+    ],
+    "correctAnswer": "HCI = (Education Index + Health Index + Income Index) / 3",
+    "explanation": "The Human Capital Index (HCI) is a composite index that measures the productive capacity of individuals. The HCI formula is HCI = (Education Index + Health Index + Income Index) / 3.",
+    "difficulty": "Medium",
+    "class": "Class 12",
+    "subject": "Economics",
+    "chapter": "Ch 9: Current Challenges Facing Indian Economy"
+  },
+  {
+    "text": "What is the impact of casualisation and informalisation of the workforce on the Indian government?",
+    "options": [
+      "It leads to increased tax revenue and reduced expenditure on social security",
+      "It leads to reduced tax revenue and increased expenditure on social security",
+      "It has no significant impact on the government",
+      "It leads to increased expenditure on law and order"
+    ],
+    "correctAnswer": "It leads to reduced tax revenue and increased expenditure on social security",
+    "explanation": "The casualisation and informalisation of the workforce in India have led to reduced tax revenue and increased expenditure on social security. This is because informal workers often lack access to social security benefits, making them more vulnerable to poverty and exploitation.",
+    "difficulty": "Hard",
+    "class": "Class 12",
+    "subject": "Economics",
+    "chapter": "Ch 9: Current Challenges Facing Indian Economy"
+  },
+  {
+    "text": "What is the difference between Human Development Index (HDI) and Gross National Income (GNI)?",
+    "options": [
+      "HDI measures economic growth, while GNI measures education and health",
+      "HDI measures education, health, and income, while GNI measures only income",
+      "HDI measures only education and health, while GNI measures income and economic growth",
+      "HDI measures income, education, and health, while GNI measures only income"
+    ],
+    "correctAnswer": "HDI measures education, health, and income, while GNI measures only income",
+    "explanation": "Human Development Index (HDI) is a composite index measuring average achievement in three basic dimensions of human development: a long and healthy life, knowledge, and a decent standard of living. Gross National Income (GNI), on the other hand, measures the total income earned by a country's citizens, including income earned abroad.",
+    "difficulty": "Medium",
+    "class": "Class 12",
+    "subject": "Economics",
+    "chapter": "Ch 9: Current Challenges Facing Indian Economy"
+  }
+]

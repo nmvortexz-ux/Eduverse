@@ -1,0 +1,327 @@
+[
+  {
+    "class": "Class 10",
+    "subject": "English",
+    "difficulty": "EASY",
+    "text": "What did Lencho discover when he opened the envelope from God?",
+    "explanation": "Lencho found only seventy pesos inside the envelope, along with a letter containing no words other than a signature: God.",
+    "options": [
+      { "text": "Seventy pesos and a letter signed 'God'", "isCorrect": true },
+      { "text": "One hundred pesos and a letter of apology", "isCorrect": false },
+      { "text": "Nothing but blank papers", "isCorrect": false },
+      { "text": "An invitation to the city church", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 10",
+    "subject": "English",
+    "difficulty": "EASY",
+    "text": "According to Nelson Mandela, a man who takes away another man's freedom is:",
+    "explanation": "Mandela states that one who oppresses others and deprives them of freedom is himself a 'prisoner of hatred' behind bars of prejudice.",
+    "options": [
+      { "text": "A prisoner of hatred", "isCorrect": true },
+      { "text": "A national hero", "isCorrect": false },
+      { "text": "A brave soldier", "isCorrect": false },
+      { "text": "A free citizen", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 10",
+    "subject": "English",
+    "difficulty": "EASY",
+    "text": "What social and economic status did Mrs. Pumphrey possess in the story 'A Triumph of Surgery'?",
+    "explanation": "Mrs. Pumphrey was an extremely rich lady who pampered Tricki with luxury items like cushions, coats, toys, and expensive food.",
+    "options": [
+      { "text": "A very rich lady", "isCorrect": true },
+      { "text": "A middle-class schoolteacher", "isCorrect": false },
+      { "text": "A poor peasant widow", "isCorrect": false },
+      { "text": "A government clerk", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 10",
+    "subject": "English",
+    "difficulty": "EASY",
+    "text": "In the poem 'A Tiger in the Zoo', what does the tiger stare at with his brilliant eyes?",
+    "explanation": "The poet describes the captive tiger as staring at the 'brilliant stars' at night, dreaming of freedom.",
+    "options": [
+      { "text": "Brilliant stars", "isCorrect": true },
+      { "text": "Visitors in the zoo", "isCorrect": false },
+      { "text": "Zookeepers carrying meat", "isCorrect": false },
+      { "text": "The moon in the sky", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 10",
+    "subject": "English",
+    "difficulty": "EASY",
+    "text": "In 'The Thief's Story', which train did Hari Singh intend to catch after stealing Anil's money?",
+    "explanation": "Hari Singh stole the money, ran to the station, and arrived just as the Lucknow Express was clearing the platform.",
+    "options": [
+      { "text": "The Lucknow Express", "isCorrect": true },
+      { "text": "The Delhi Mail", "isCorrect": false },
+      { "text": "The Howrah Express", "isCorrect": false },
+      { "text": "The Punjab Mail", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 10",
+    "subject": "English",
+    "difficulty": "EASY",
+    "text": "Fill in the blank with the correct determiner: Is there ________ sugar in the jar?",
+    "explanation": "'Any' is standard for negative and interrogative sentences when checking the existence or quantity of uncountable nouns.",
+    "options": [
+      { "text": "any", "isCorrect": true },
+      { "text": "many", "isCorrect": false },
+      { "text": "few", "isCorrect": false },
+      { "text": "several", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 10",
+    "subject": "English",
+    "difficulty": "MEDIUM",
+    "text": "In 'From the Diary of Anne Frank', when and where was Anne Frank born?",
+    "explanation": "Anne Frank was born in Frankfurt, Germany, on 12 June 1929, before her family migrated to Amsterdam.",
+    "options": [
+      { "text": "12 June 1929, Frankfurt", "isCorrect": true },
+      { "text": "12 June 1930, Amsterdam", "isCorrect": false },
+      { "text": "10 May 1929, Berlin", "isCorrect": false },
+      { "text": "15 June 1932, London", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 10",
+    "subject": "English",
+    "difficulty": "MEDIUM",
+    "text": "In 'The Black Aeroplane', what did the narrator do immediately after landing safely?",
+    "explanation": "He went to the control centre and asked the lady on duty where he was and who the other pilot was who helped him.",
+    "options": [
+      { "text": "He asked the control centre lady who the other pilot was.", "isCorrect": true },
+      { "text": "He refueled his plane and flew back to Paris.", "isCorrect": false },
+      { "text": "He reported the strange black plane as a hostile spy craft.", "isCorrect": false },
+      { "text": "He checked in at a nearby hotel to rest.", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 10",
+    "subject": "English",
+    "difficulty": "MEDIUM",
+    "text": "In the poem 'How to Tell Wild Animals', what is the Leopard described as doing when it meets you?",
+    "explanation": "The poet says that if a beast has spots and leaps (leps) on you again and again, it is the Leopard.",
+    "options": [
+      { "text": "Leaping on you again and again.", "isCorrect": true },
+      { "text": "Hugging you tightly with affection.", "isCorrect": false },
+      { "text": "Roaring loudly to make you faint.", "isCorrect": false },
+      { "text": "Crying real tears while eating you.", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 10",
+    "subject": "English",
+    "difficulty": "MEDIUM",
+    "text": "Choose the correct indirect form of: The father said to his son, 'Work hard to succeed.'",
+    "explanation": "Imperatives containing advice change 'said to' to 'advised' followed by infinitive 'to work'.",
+    "options": [
+      { "text": "The father advised his son to work hard to succeed.", "isCorrect": true },
+      { "text": "The father ordered his son that he works hard to succeed.", "isCorrect": false },
+      { "text": "The father requested his son to work hard to succeed.", "isCorrect": false },
+      { "text": "The father suggested his son for working hard to succeed.", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 10",
+    "subject": "English",
+    "difficulty": "MEDIUM",
+    "text": "In 'The Midnight Visitor', what did Max hold in his hand when Ausable entered the room?",
+    "explanation": "Max was waiting with an automatic pistol in his hand to threaten Ausable into giving him the secret report.",
+    "options": [
+      { "text": "An automatic pistol", "isCorrect": true },
+      { "text": "A folder of secret documents", "isCorrect": false },
+      { "text": "A bottle of sleeping pills", "isCorrect": false },
+      { "text": "A knife and a camera", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 10",
+    "subject": "English",
+    "difficulty": "MEDIUM",
+    "text": "In 'Madam Rides the Bus', how does the author describe the character of the bus conductor?",
+    "explanation": "The conductor is described as a jolly sort of fellow who is fond of joking and calls Valli 'Madam'.",
+    "options": [
+      { "text": "A jolly fellow fond of joking", "isCorrect": true },
+      { "text": "A quiet and serious elderly man", "isCorrect": false },
+      { "text": "A rude and impatient young official", "isCorrect": false },
+      { "text": "A shy man who rarely spoke", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 10",
+    "subject": "English",
+    "difficulty": "MEDIUM",
+    "text": "Fill in the blank with the correct form of the verb: The criteria for selection ________ change every year.",
+    "explanation": "'Criteria' is the plural form of the singular noun 'criterion'. Therefore, it requires a plural verb ('change'), not 'changes'.",
+    "options": [
+      { "text": "change", "isCorrect": true },
+      { "text": "changes", "isCorrect": false },
+      { "text": "is changing", "isCorrect": false },
+      { "text": "has changed", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 10",
+    "subject": "English",
+    "difficulty": "HARD",
+    "text": "In 'A Question of Trust', during which month did Horace Danby execute his annual safe robbery?",
+    "explanation": "Horace was walking in the bright July sunshine, planning and executing his robbery at Shotover Grange.",
+    "options": [
+      { "text": "July", "isCorrect": true },
+      { "text": "December", "isCorrect": false },
+      { "text": "March", "isCorrect": false },
+      { "text": "September", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 10",
+    "subject": "English",
+    "difficulty": "HARD",
+    "text": "In 'The Ball Poem', what does the poet mean by the boy's 'first responsibility'?",
+    "explanation": "It refers to the boy's realization that he lives in a world of possessions where things will get lost, and he must learn to accept loss.",
+    "options": [
+      { "text": "Learning that things will get lost and accepting it.", "isCorrect": true },
+      { "text": "Learning to earn money to buy new toys.", "isCorrect": false },
+      { "text": "Taking care of all family properties.", "isCorrect": false },
+      { "text": "Finding lost items through investigation.", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 10",
+    "subject": "English",
+    "difficulty": "HARD",
+    "text": "Who was Richard Ebright's college roommate with whom he co-authored the paper on cell life?",
+    "explanation": "Richard Ebright and his college roommate, James R. Wong, worked together and wrote the paper explaining the cell life theory.",
+    "options": [
+      { "text": "James R. Wong", "isCorrect": true },
+      { "text": "Dr. Frederick A. Urquhart", "isCorrect": false },
+      { "text": "Albert Einstein", "isCorrect": false },
+      { "text": "John Watson", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 10",
+    "subject": "English",
+    "difficulty": "HARD",
+    "text": "Fill in the blank with the appropriate modal verb: You ________ keep your promises; otherwise, people will lose trust in you.",
+    "explanation": "'Should' or 'ought to' is used to express moral advice or duty.",
+    "options": [
+      { "text": "should", "isCorrect": true },
+      { "text": "might", "isCorrect": false },
+      { "text": "could", "isCorrect": false },
+      { "text": "would", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 10",
+    "subject": "English",
+    "difficulty": "HARD",
+    "text": "In which market or area of Paris did M. Loisel find the replacement diamond necklace?",
+    "explanation": "In a shop at the Palais-Royal, they found a chaplet of diamonds which seemed to them exactly like the one they had lost.",
+    "options": [
+      { "text": "Palais-Royal", "isCorrect": true },
+      { "text": "Champs-Élysées", "isCorrect": false },
+      { "text": "Rue de la Paix", "isCorrect": false },
+      { "text": "Montmartre", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 10",
+    "subject": "English",
+    "difficulty": "HARD",
+    "text": "In 'The Proposal', what was the buying price of Natalya's dog Squeezer?",
+    "explanation": "Natalya argues that Squeezer was bought for eighty-five rubles, which makes him far superior to Lomov's dog Guess.",
+    "options": [
+      { "text": "Eighty-five rubles", "isCorrect": true },
+      { "text": "One hundred rubles", "isCorrect": false },
+      { "text": "One hundred and twenty-five rubles", "isCorrect": false },
+      { "text": "Fifty rubles", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 10",
+    "subject": "English",
+    "difficulty": "VERY HARD",
+    "text": "Who is the speaker nagging Amanda throughout the poem 'Amanda!'?",
+    "explanation": "Although the name is not explicitly written, the speaker is widely understood to be Amanda's mother (or parent) who regulates her habits.",
+    "options": [
+      { "text": "Her mother", "isCorrect": true },
+      { "text": "Her school headmistress", "isCorrect": false },
+      { "text": "Her elder sister", "isCorrect": false },
+      { "text": "Her father", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 10",
+    "subject": "English",
+    "difficulty": "VERY HARD",
+    "text": "In 'Bholi', what did Bholi do when Bishamber Nath raised the garland to put it around her neck?",
+    "explanation": "Bholi's hand struck out like a streak of lightning, and the garland was flung into the sacred fire as she declared she would not marry him.",
+    "options": [
+      { "text": "She flung the garland into the sacred fire and rejected him.", "isCorrect": true },
+      { "text": "She accepted it silently and sat down next to him.", "isCorrect": false },
+      { "text": "She ran away from the wedding hall in tears.", "isCorrect": false },
+      { "text": "She fainted on the wedding stage.", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 10",
+    "subject": "English",
+    "difficulty": "VERY HARD",
+    "text": "According to the Chinese legend mentioned in 'Tea from Assam', how was tea discovered?",
+    "explanation": "A Chinese emperor always boiled water before drinking. Twigs of tea burning under the pot fell in, giving it a delicious flavor.",
+    "options": [
+      { "text": "Leaves from twigs burning under a boiling pot fell in, flavoring the water.", "isCorrect": true },
+      { "text": "A Buddhist ascetic cut off his eyelids, and tea plants grew from them.", "isCorrect": false },
+      { "text": "A Chinese farmer discovered tea leaves while searching for herbal medicines.", "isCorrect": false },
+      { "text": "A king was gifted tea leaves by a visiting foreign ambassador.", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 10",
+    "subject": "English",
+    "difficulty": "VERY HARD",
+    "text": "Choose the correct indirect form of: The officer asked the driver, 'Show me your license.'",
+    "explanation": "Commands are reported using 'ordered' or 'commanded', followed by infinitive 'to show' and shift of pronoun ('me' -> 'him').",
+    "options": [
+      { "text": "The officer ordered the driver to show him his license.", "isCorrect": true },
+      { "text": "The officer asked the driver that show him his license.", "isCorrect": false },
+      { "text": "The officer requested the driver to show me his license.", "isCorrect": false },
+      { "text": "The officer ordered the driver to showing him his license.", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 10",
+    "subject": "English",
+    "difficulty": "VERY HARD",
+    "text": "In the poem 'The Tale of Custard the Dragon', how did Custard deal with the pirate who broke in?",
+    "explanation": "Custard snorted, clashed his tail, jumped like a robin at a worm, and swallowed the pirate whole.",
+    "options": [
+      { "text": "He clashed his tail, snorted, and swallowed the pirate whole.", "isCorrect": true },
+      { "text": "He chased the pirate away with fire breathing.", "isCorrect": false },
+      { "text": "He trapped the pirate under his large claws.", "isCorrect": false },
+      { "text": "He called the police while other pets held the pirate down.", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 10",
+    "subject": "English",
+    "difficulty": "VERY HARD",
+    "text": "In 'The Book That Saved the Earth', what order does Think-Tank give to his crew on Earth regarding the library books?",
+    "explanation": "Believing they are sandwiches, Think-Tank orders Captain Omega and the crew to eat them to verify Martian theories.",
+    "options": [
+      { "text": "He orders them to eat the books.", "isCorrect": true },
+      { "text": "He orders them to burn the library down.", "isCorrect": false },
+      { "text": "He orders them to load them onto the spaceship.", "isCorrect": false },
+      { "text": "He orders them to translate the languages.", "isCorrect": false }
+    ]
+  }
+]

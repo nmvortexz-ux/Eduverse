@@ -1,0 +1,182 @@
+[
+  {
+    "text": "What is the primary objective of financial management?",
+    "options": [
+      "To maximize shareholders' wealth",
+      "To minimize costs",
+      "To increase market share",
+      "To reduce debt"
+    ],
+    "correctAnswer": "Option A",
+    "explanation": "Financial management aims to maximize shareholders' wealth by making informed decisions on investment, financing, and dividend policies. This is achieved by creating value for the shareholders through efficient use of resources.",
+    "difficulty": "Easy",
+    "class": "Class 12",
+    "subject": "Business Studies",
+    "chapter": "Ch 9: Financial Management"
+  },
+  {
+    "text": "What is the formula for calculating Return on Investment (ROI)?",
+    "options": [
+      "ROI = Net Profit / Total Assets",
+      "ROI = EBIT / Capital Employed",
+      "ROI = Net Profit / Total Revenue",
+      "ROI = EBIT / Total Assets"
+    ],
+    "correctAnswer": "Option B",
+    "explanation": "ROI is calculated by dividing EBIT (Earnings Before Interest and Taxes) by Capital Employed. This ratio indicates the efficiency of capital utilization and helps in evaluating investment decisions.",
+    "difficulty": "Medium",
+    "class": "Class 12",
+    "subject": "Business Studies",
+    "chapter": "Ch 9: Financial Management"
+  },
+  {
+    "text": "What is the impact of trading on equity on a company's financial position?",
+    "options": [
+      "It increases the company's debt-to-equity ratio",
+      "It decreases the company's debt-to-equity ratio",
+      "It has no impact on the company's debt-to-equity ratio",
+      "It increases the company's equity"
+    ],
+    "correctAnswer": "Option A",
+    "explanation": "Trading on equity occurs when a company uses its retained earnings to finance new investments. This increases the company's debt-to-equity ratio, making it riskier and potentially affecting its creditworthiness.",
+    "difficulty": "Medium",
+    "class": "Class 12",
+    "subject": "Business Studies",
+    "chapter": "Ch 9: Financial Management"
+  },
+  {
+    "text": "What is the purpose of capital budgeting?",
+    "options": [
+      "To determine the optimal capital structure",
+      "To evaluate investment opportunities",
+      "To minimize costs",
+      "To maximize shareholders' wealth"
+    ],
+    "correctAnswer": "Option B",
+    "explanation": "Capital budgeting involves evaluating investment opportunities to determine whether they are likely to generate returns that exceed their costs. This helps companies make informed decisions about which projects to undertake.",
+    "difficulty": "Easy",
+    "class": "Class 12",
+    "subject": "Business Studies",
+    "chapter": "Ch 9: Financial Management"
+  },
+  {
+    "text": "What is the difference between fixed and working capital?",
+    "options": [
+      "Fixed capital is used for long-term investments, while working capital is used for short-term operations",
+      "Fixed capital is used for short-term operations, while working capital is used for long-term investments",
+      "Fixed capital is used for long-term investments, while working capital is used for long-term investments",
+      "Fixed capital is used for short-term operations, while working capital is used for short-term operations"
+    ],
+    "correctAnswer": "Option A",
+    "explanation": "Fixed capital refers to long-term investments, such as plant and equipment, while working capital refers to short-term assets, such as inventory and accounts receivable, used to finance day-to-day operations.",
+    "difficulty": "Easy",
+    "class": "Class 12",
+    "subject": "Business Studies",
+    "chapter": "Ch 9: Financial Management"
+  },
+  {
+    "text": "What is the impact of dividend policy on a company's financial position?",
+    "options": [
+      "It increases the company's debt-to-equity ratio",
+      "It decreases the company's debt-to-equity ratio",
+      "It has no impact on the company's debt-to-equity ratio",
+      "It increases the company's equity"
+    ],
+    "correctAnswer": "Option B",
+    "explanation": "Dividend policy affects a company's financial position by influencing its cash flow and capital structure. A high dividend payout ratio can reduce the company's ability to invest in new projects and increase its debt-to-equity ratio.",
+    "difficulty": "Medium",
+    "class": "Class 12",
+    "subject": "Business Studies",
+    "chapter": "Ch 9: Financial Management"
+  },
+  {
+    "text": "What is the formula for calculating the weighted average cost of capital (WACC)?",
+    "options": [
+      "WACC = (Debt / Total Assets) x (Interest Rate on Debt)",
+      "WACC = (Equity / Total Assets) x (Cost of Equity)",
+      "WACC = (Debt / Total Assets) x (Cost of Debt) + (Equity / Total Assets) x (Cost of Equity)",
+      "WACC = (Debt / Total Assets) x (Cost of Debt)"
+    ],
+    "correctAnswer": "Option C",
+    "explanation": "WACC is calculated by multiplying the proportion of debt and equity in the capital structure by their respective costs and summing the results. This provides a weighted average cost of capital that reflects the company's overall cost of capital.",
+    "difficulty": "Hard",
+    "class": "Class 12",
+    "subject": "Business Studies",
+    "chapter": "Ch 9: Financial Management"
+  },
+  {
+    "text": "What is the impact of capital structure on a company's financial position?",
+    "options": [
+      "It increases the company's debt-to-equity ratio",
+      "It decreases the company's debt-to-equity ratio",
+      "It has no impact on the company's debt-to-equity ratio",
+      "It increases the company's equity"
+    ],
+    "correctAnswer": "Option A",
+    "explanation": "Capital structure affects a company's financial position by influencing its debt-to-equity ratio and overall cost of capital. A high debt-to-equity ratio can increase the company's risk and potentially affect its creditworthiness.",
+    "difficulty": "Medium",
+    "class": "Class 12",
+    "subject": "Business Studies",
+    "chapter": "Ch 9: Financial Management"
+  },
+  {
+    "text": "What is the purpose of financial leverage?",
+    "options": [
+      "To minimize costs",
+      "To maximize shareholders' wealth",
+      "To increase market share",
+      "To increase financial risk"
+    ],
+    "correctAnswer": "Option B",
+    "explanation": "Financial leverage involves using debt to finance investments and increase returns. This can amplify profits but also increases financial risk, making it essential to manage leverage effectively.",
+    "difficulty": "Medium",
+    "class": "Class 12",
+    "subject": "Business Studies",
+    "chapter": "Ch 9: Financial Management"
+  },
+  {
+    "text": "What is the impact of working capital management on a company's financial position?",
+    "options": [
+      "It increases the company's debt-to-equity ratio",
+      "It decreases the company's debt-to-equity ratio",
+      "It has no impact on the company's debt-to-equity ratio",
+      "It increases the company's equity"
+    ],
+    "correctAnswer": "Option B",
+    "explanation": "Working capital management affects a company's financial position by influencing its cash flow and liquidity. Effective working capital management can reduce the company's debt-to-equity ratio and improve its financial health.",
+    "difficulty": "Medium",
+    "class": "Class 12",
+    "subject": "Business Studies",
+    "chapter": "Ch 9: Financial Management"
+  },
+  {
+    "text": "What is the formula for calculating the current ratio?",
+    "options": [
+      "Current Ratio = Current Assets / Current Liabilities",
+      "Current Ratio = Total Assets / Total Liabilities",
+      "Current Ratio = Current Assets / Total Assets",
+      "Current Ratio = Current Liabilities / Total Assets"
+    ],
+    "correctAnswer": "Option A",
+    "explanation": "The current ratio is calculated by dividing current assets by current liabilities. This ratio indicates the company's ability to pay its short-term debts and is an essential measure of liquidity.",
+    "difficulty": "Easy",
+    "class": "Class 12",
+    "subject": "Business Studies",
+    "chapter": "Ch 9: Financial Management"
+  },
+  {
+    "text": "What is the impact of financial decisions on a company's financial position?",
+    "options": [
+      "It increases the company's debt-to-equity ratio",
+      "It decreases the company's debt-to-equity ratio",
+      "It has no impact on the company's debt-to-equity ratio",
+      "It increases the company's equity"
+    ],
+    "correctAnswer": "Option A",
+    "explanation": "Financial decisions, such as investment and financing decisions, affect a company's financial position by influencing its capital structure and overall cost of capital. Ineffective financial decisions can increase the company's debt-to-equity ratio and potentially affect its creditworthiness.",
+    "difficulty": "Medium",
+    "class": "Class 12",
+    "subject": "Business Studies",
+    "chapter": "Ch 9: Financial Management"
+  }
+]

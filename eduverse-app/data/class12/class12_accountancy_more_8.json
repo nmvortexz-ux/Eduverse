@@ -1,0 +1,197 @@
+[
+  {
+    "text": "Which of the following is classified as a non-current liability?",
+    "options": [
+      "Bank overdraft",
+      "Long-term loan",
+      "Short-term loan",
+      "Dividend payable"
+    ],
+    "correctAnswer": "Long-term loan",
+    "explanation": "According to Schedule III of the Companies Act, 2013, non-current liabilities include long-term loans and borrowings. Long-term loans are those that are repayable after one year or more.",
+    "difficulty": "Medium",
+    "class": "Class 12",
+    "subject": "Accountancy",
+    "chapter": "Ch 8: Financial Statements of a Company"
+  },
+  {
+    "text": "What is the accounting treatment for property, plant, and equipment?",
+    "options": [
+      "Depreciated immediately",
+      "Depreciated over its useful life",
+      "Not depreciated",
+      "Depreciated over 5 years"
+    ],
+    "correctAnswer": "Depreciated over its useful life",
+    "explanation": "According to the Accounting Standard (AS) 10, property, plant, and equipment are assets that are expected to be used for more than one year. They are depreciated over their useful life, which is the period over which the asset is expected to be used.",
+    "difficulty": "Medium",
+    "class": "Class 12",
+    "subject": "Accountancy",
+    "chapter": "Ch 8: Financial Statements of a Company"
+  },
+  {
+    "text": "Which of the following is classified as a current liability?",
+    "options": [
+      "Long-term loan",
+      "Dividend payable",
+      "Short-term loan",
+      "Bank overdraft"
+    ],
+    "correctAnswer": "Dividend payable",
+    "explanation": "According to Schedule III of the Companies Act, 2013, current liabilities include dividends, interest on debentures, and other short-term obligations. Dividend payable is a current liability as it is expected to be paid within one year.",
+    "difficulty": "Medium",
+    "class": "Class 12",
+    "subject": "Accountancy",
+    "chapter": "Ch 8: Financial Statements of a Company"
+  },
+  {
+    "text": "What is the accounting treatment for other current assets?",
+    "options": [
+      "Not recognized",
+      "Recognized at cost",
+      "Recognized at cost and depreciated",
+      "Recognized at cost and amortized"
+    ],
+    "correctAnswer": "Recognized at cost",
+    "explanation": "According to the Accounting Standard (AS) 2, other current assets include prepaid expenses, advances, and other short-term assets. They are recognized at cost, which is the amount paid to acquire the asset.",
+    "difficulty": "Medium",
+    "class": "Class 12",
+    "subject": "Accountancy",
+    "chapter": "Ch 8: Financial Statements of a Company"
+  },
+  {
+    "text": "What is the formula for calculating the carrying value of property, plant, and equipment?",
+    "options": [
+      "Cost - Accumulated depreciation",
+      "Cost + Accumulated depreciation",
+      "Cost - Accumulated amortization",
+      "Cost + Accumulated impairment"
+    ],
+    "correctAnswer": "Cost - Accumulated depreciation",
+    "explanation": "The carrying value of property, plant, and equipment is calculated by subtracting the accumulated depreciation from the cost of the asset. This is in accordance with the Accounting Standard (AS) 10.",
+    "difficulty": "High",
+    "class": "Class 12",
+    "subject": "Accountancy",
+    "chapter": "Ch 8: Financial Statements of a Company"
+  },
+  {
+    "text": "Which of the following is an example of a non-current liability?",
+    "options": [
+      "Bank overdraft",
+      "Long-term loan",
+      "Short-term loan",
+      "Accrued expenses"
+    ],
+    "correctAnswer": "Long-term loan",
+    "explanation": "According to Schedule III of the Companies Act, 2013, non-current liabilities include long-term loans and borrowings. Long-term loans are those that are repayable after one year or more.",
+    "difficulty": "Medium",
+    "class": "Class 12",
+    "subject": "Accountancy",
+    "chapter": "Ch 8: Financial Statements of a Company"
+  },
+  {
+    "text": "What is the accounting treatment for impairment of property, plant, and equipment?",
+    "options": [
+      "Recognized immediately",
+      "Recognized over its useful life",
+      "Not recognized",
+      "Recognized at cost"
+    ],
+    "correctAnswer": "Recognized immediately",
+    "explanation": "According to the Accounting Standard (AS) 10, impairment of property, plant, and equipment is recognized immediately. This means that if the asset's carrying value exceeds its recoverable amount, the impairment loss is recognized in the current period.",
+    "difficulty": "High",
+    "class": "Class 12",
+    "subject": "Accountancy",
+    "chapter": "Ch 8: Financial Statements of a Company"
+  },
+  {
+    "text": "Which of the following is classified as a current asset?",
+    "options": [
+      "Long-term loan",
+      "Dividend payable",
+      "Short-term loan",
+      "Bank overdraft"
+    ],
+    "correctAnswer": "Bank overdraft",
+    "explanation": "According to Schedule III of the Companies Act, 2013, current assets include cash, bank balances, and other short-term assets. Bank overdraft is a current asset as it is expected to be repaid within one year.",
+    "difficulty": "Medium",
+    "class": "Class 12",
+    "subject": "Accountancy",
+    "chapter": "Ch 8: Financial Statements of a Company"
+  },
+  {
+    "text": "What is the formula for calculating the depreciation of property, plant, and equipment?",
+    "options": [
+      "Cost / Useful life",
+      "Cost / Accumulated depreciation",
+      "Cost - Accumulated depreciation",
+      "Cost + Accumulated depreciation"
+    ],
+    "correctAnswer": "Cost / Useful life",
+    "explanation": "The depreciation of property, plant, and equipment is calculated by dividing the cost of the asset by its useful life. This is in accordance with the Accounting Standard (AS) 10.",
+    "difficulty": "High",
+    "class": "Class 12",
+    "subject": "Accountancy",
+    "chapter": "Ch 8: Financial Statements of a Company"
+  },
+  {
+    "text": "Which of the following is an example of other current assets?",
+    "options": [
+      "Long-term loan",
+      "Dividend payable",
+      "Short-term loan",
+      "Prepaid expenses"
+    ],
+    "correctAnswer": "Prepaid expenses",
+    "explanation": "According to the Accounting Standard (AS) 2, other current assets include prepaid expenses, advances, and other short-term assets. Prepaid expenses are an example of other current assets.",
+    "difficulty": "Medium",
+    "class": "Class 12",
+    "subject": "Accountancy",
+    "chapter": "Ch 8: Financial Statements of a Company"
+  },
+  {
+    "text": "What is the accounting treatment for accrued expenses?",
+    "options": [
+      "Recognized immediately",
+      "Recognized over its useful life",
+      "Not recognized",
+      "Recognized at cost"
+    ],
+    "correctAnswer": "Recognized immediately",
+    "explanation": "According to the Accounting Standard (AS) 2, accrued expenses are recognized immediately. This means that if the expense is incurred but not paid, it is recognized in the current period.",
+    "difficulty": "Medium",
+    "class": "Class 12",
+    "subject": "Accountancy",
+    "chapter": "Ch 8: Financial Statements of a Company"
+  },
+  {
+    "text": "Which of the following is classified as a non-current asset?",
+    "options": [
+      "Bank overdraft",
+      "Long-term loan",
+      "Short-term loan",
+      "Property, plant, and equipment"
+    ],
+    "correctAnswer": "Property, plant, and equipment",
+    "explanation": "According to Schedule III of the Companies Act, 2013, non-current assets include property, plant, and equipment, investments, and other long-term assets. Property, plant, and equipment are non-current assets as they are expected to be used for more than one year.",
+    "difficulty": "Medium",
+    "class": "Class 12",
+    "subject": "Accountancy",
+    "chapter": "Ch 8: Financial Statements of a Company"
+  },
+  {
+    "text": "What is the formula for calculating the carrying value of other current assets?",
+    "options": [
+      "Cost - Accumulated depreciation",
+      "Cost + Accumulated depreciation",
+      "Cost - Accumulated amortization",
+      "Cost + Accumulated impairment"
+    ],
+    "correctAnswer": "Cost - Accumulated amortization",
+    "explanation": "The carrying value of other current assets is calculated by subtracting the accumulated amortization from the cost of the asset. This is in accordance with the Accounting Standard (AS) 2.",
+    "difficulty": "High",
+    "class": "Class 12",
+    "subject": "Accountancy",
+    "chapter": "Ch 8: Financial Statements of a Company"
+  }
+]

@@ -1,0 +1,152 @@
+[
+  {
+    "text": "What is the money multiplier formula?",
+    "options": [
+      "1/LRR",
+      "LRR/1",
+      "1 + LRR",
+      "LRR - 1"
+    ],
+    "correctAnswer": "1/LRR",
+    "explanation": "The money multiplier formula is 1/LRR, where LRR is the liquidity reserve ratio. This formula is used to calculate the money multiplier, which represents the increase in the money supply resulting from a given increase in deposits.",
+    "difficulty": "Easy",
+    "class": "Class 12",
+    "subject": "Economics",
+    "chapter": "Ch 2: Money and Banking"
+  },
+  {
+    "text": "What is the function of the Reverse Repo Rate?",
+    "options": [
+      "To increase the money supply in the economy",
+      "To decrease the money supply in the economy",
+      "To control inflation",
+      "To reduce the interest rate"
+    ],
+    "correctAnswer": "To decrease the money supply in the economy",
+    "explanation": "The Reverse Repo Rate is a monetary policy tool used by the central bank to decrease the money supply in the economy. When the central bank sells securities to commercial banks at a higher interest rate than the prevailing market rate, it absorbs excess liquidity from the market, thereby reducing the money supply.",
+    "difficulty": "Medium",
+    "class": "Class 12",
+    "subject": "Economics",
+    "chapter": "Ch 2: Money and Banking"
+  },
+  {
+    "text": "What is the Cash Reserve Ratio (CRR)?",
+    "options": [
+      "The minimum percentage of deposits that commercial banks are required to hold in cash",
+      "The minimum percentage of deposits that commercial banks are required to lend to customers",
+      "The minimum percentage of deposits that commercial banks are required to invest in government securities",
+      "The minimum percentage of deposits that commercial banks are required to hold in gold"
+    ],
+    "correctAnswer": "The minimum percentage of deposits that commercial banks are required to hold in cash",
+    "explanation": "The Cash Reserve Ratio (CRR) is the minimum percentage of deposits that commercial banks are required to hold in cash. This ratio is set by the central bank to regulate the money supply in the economy.",
+    "difficulty": "Easy",
+    "class": "Class 12",
+    "subject": "Economics",
+    "chapter": "Ch 2: Money and Banking"
+  },
+  {
+    "text": "What is the difference between M1 and M2?",
+    "options": [
+      "M1 includes currency in circulation and demand deposits, while M2 includes time deposits and savings deposits",
+      "M1 includes time deposits and savings deposits, while M2 includes currency in circulation and demand deposits",
+      "M1 includes currency in circulation, demand deposits, and time deposits, while M2 includes currency in circulation, demand deposits, time deposits, and savings deposits",
+      "M1 includes currency in circulation, demand deposits, and savings deposits, while M2 includes currency in circulation, demand deposits, time deposits, and savings deposits"
+    ],
+    "correctAnswer": "M1 includes currency in circulation and demand deposits, while M2 includes time deposits and savings deposits",
+    "explanation": "M1 includes currency in circulation and demand deposits, while M2 includes time deposits and savings deposits. M2 is a broader measure of money supply than M1.",
+    "difficulty": "Medium",
+    "class": "Class 12",
+    "subject": "Economics",
+    "chapter": "Ch 2: Money and Banking"
+  },
+  {
+    "text": "What is the Open Market Operations (OMO) tool?",
+    "options": [
+      "Buying or selling government securities in the open market to increase or decrease the money supply",
+      "Increasing or decreasing the reserve requirements of commercial banks to increase or decrease the money supply",
+      "Increasing or decreasing the interest rates to increase or decrease the money supply",
+      "Increasing or decreasing the cash reserve ratio to increase or decrease the money supply"
+    ],
+    "correctAnswer": "Buying or selling government securities in the open market to increase or decrease the money supply",
+    "explanation": "Open Market Operations (OMO) is a monetary policy tool used by the central bank to increase or decrease the money supply in the economy. The central bank buys or sells government securities in the open market to increase or decrease the money supply.",
+    "difficulty": "Hard",
+    "class": "Class 12",
+    "subject": "Economics",
+    "chapter": "Ch 2: Money and Banking"
+  },
+  {
+    "text": "What is the Repo Rate?",
+    "options": [
+      "The interest rate at which commercial banks borrow money from the central bank",
+      "The interest rate at which commercial banks lend money to the central bank",
+      "The interest rate at which the central bank borrows money from commercial banks",
+      "The interest rate at which the central bank lends money to commercial banks"
+    ],
+    "correctAnswer": "The interest rate at which commercial banks borrow money from the central bank",
+    "explanation": "The Repo Rate is the interest rate at which commercial banks borrow money from the central bank. When commercial banks borrow money from the central bank at the repo rate, they are required to pledge securities as collateral.",
+    "difficulty": "Easy",
+    "class": "Class 12",
+    "subject": "Economics",
+    "chapter": "Ch 2: Money and Banking"
+  },
+  {
+    "text": "What is the difference between M3 and M4?",
+    "options": [
+      "M3 includes M2 and time deposits, while M4 includes M3 and savings deposits",
+      "M3 includes M2 and savings deposits, while M4 includes M3 and time deposits",
+      "M3 includes M2 and currency in circulation, while M4 includes M3 and demand deposits",
+      "M3 includes M2 and demand deposits, while M4 includes M3 and time deposits"
+    ],
+    "correctAnswer": "M3 includes M2 and time deposits, while M4 includes M3 and savings deposits",
+    "explanation": "M3 includes M2 and time deposits, while M4 includes M3 and savings deposits. M4 is a broader measure of money supply than M3.",
+    "difficulty": "Medium",
+    "class": "Class 12",
+    "subject": "Economics",
+    "chapter": "Ch 2: Money and Banking"
+  },
+  {
+    "text": "What is the function of the Statutory Liquidity Ratio (SLR)?",
+    "options": [
+      "To increase the money supply in the economy",
+      "To decrease the money supply in the economy",
+      "To control inflation",
+      "To reduce the interest rate"
+    ],
+    "correctAnswer": "To increase the money supply in the economy",
+    "explanation": "The Statutory Liquidity Ratio (SLR) is a monetary policy tool used by the central bank to increase the money supply in the economy. When the central bank reduces the SLR, commercial banks are required to hold a lower percentage of their deposits in liquid assets, thereby increasing the money supply.",
+    "difficulty": "Hard",
+    "class": "Class 12",
+    "subject": "Economics",
+    "chapter": "Ch 2: Money and Banking"
+  },
+  {
+    "text": "What is the difference between the Cash Reserve Ratio (CRR) and the Statutory Liquidity Ratio (SLR)?",
+    "options": [
+      "CRR is the minimum percentage of deposits that commercial banks are required to hold in cash, while SLR is the minimum percentage of deposits that commercial banks are required to hold in liquid assets",
+      "CRR is the minimum percentage of deposits that commercial banks are required to hold in liquid assets, while SLR is the minimum percentage of deposits that commercial banks are required to hold in cash",
+      "CRR is the minimum percentage of deposits that commercial banks are required to hold in cash, while SLR is the minimum percentage of deposits that commercial banks are required to hold in gold",
+      "CRR is the minimum percentage of deposits that commercial banks are required to hold in gold, while SLR is the minimum percentage of deposits that commercial banks are required to hold in cash"
+    ],
+    "correctAnswer": "CRR is the minimum percentage of deposits that commercial banks are required to hold in cash, while SLR is the minimum percentage of deposits that commercial banks are required to hold in liquid assets",
+    "explanation": "The Cash Reserve Ratio (CRR) is the minimum percentage of deposits that commercial banks are required to hold in cash, while the Statutory Liquidity Ratio (SLR) is the minimum percentage of deposits that commercial banks are required to hold in liquid assets.",
+    "difficulty": "Medium",
+    "class": "Class 12",
+    "subject": "Economics",
+    "chapter": "Ch 2: Money and Banking"
+  },
+  {
+    "text": "What is the money multiplier formula when the liquidity reserve ratio is 0.2?",
+    "options": [
+      "1/0.2",
+      "0.2/1",
+      "1 + 0.2",
+      "0.2 - 1"
+    ],
+    "correctAnswer": "1/0.2",
+    "explanation": "The money multiplier formula is 1/LRR, where LRR is the liquidity reserve ratio. When the LRR is 0.2, the money multiplier formula is 1/0.2.",
+    "difficulty": "Easy",
+    "class": "Class 12",
+    "subject": "Economics",
+    "chapter": "Ch 2: Money and Banking"
+  }
+]

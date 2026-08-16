@@ -1,0 +1,132 @@
+[
+  {
+    "class": "Class 9",
+    "subject": "Hindi Grammar",
+    "difficulty": "Easy",
+    "text": "'कमल' शब्द का पर्यायवाची क्या है?",
+    "explanation": "'पंकज' कमल का एक प्रसिद्ध पर्यायवाची शब्द है, जिसका अर्थ है 'कीचड़ में उत्पन्न होने वाला' (पंक + ज)।",
+    "options": [
+      { "text": "जलद", "isCorrect": false },
+      { "text": "पंकज", "isCorrect": true },
+      { "text": "गगन", "isCorrect": false },
+      { "text": "अनल", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 9",
+    "subject": "Hindi Grammar",
+    "difficulty": "Medium",
+    "text": "इनमें से कौन सा शब्द शुद्ध है?",
+    "explanation": "'आशीर्वाद' सही वर्तनी है, 'र' की रेफ 'वा' पर लगती है।",
+    "options": [
+      { "text": "आशिर्वाद", "isCorrect": false },
+      { "text": "आशीर्वाद", "isCorrect": true },
+      { "text": "अशीर्वाद", "isCorrect": false },
+      { "text": "आशीर्बाद", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 9",
+    "subject": "Hindi Grammar",
+    "difficulty": "Medium",
+    "text": "'रात-दिन' में कौन सा समास है?",
+    "explanation": "'रात-दिन' द्वंद्व समास का उदाहरण है क्योंकि इसमें दोनों पद प्रधान हैं और विग्रह करने पर 'और' का लोप होता है (रात और दिन)।",
+    "options": [
+      { "text": "अव्ययीभाव", "isCorrect": false },
+      { "text": "तत्पुरुष", "isCorrect": false },
+      { "text": "बहुव्रीहि", "isCorrect": false },
+      { "text": "द्वंद्व", "isCorrect": true }
+    ]
+  },
+  {
+    "class": "Class 9",
+    "subject": "Hindi Grammar",
+    "difficulty": "Hard",
+    "text": "'न नौ मन तेल होगा, न राधा नाचेगी' मुहावरे/लोकोक्ति का अर्थ है:",
+    "explanation": "इसका अर्थ है किसी काम को करने के लिए असंभव शर्त रख देना, जिससे वह काम न हो सके।",
+    "options": [
+      { "text": "असंभव शर्त रखना", "isCorrect": true },
+      { "text": "बहुत अधिक तेल का उपयोग", "isCorrect": false },
+      { "text": "खुशी मनाना", "isCorrect": false },
+      { "text": "किसी काम को टालना", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 9",
+    "subject": "Hindi Grammar",
+    "difficulty": "Easy",
+    "text": "'विद्यार्थी' का संधि विच्छेद क्या होगा?",
+    "explanation": "विद्यार्थी का सही संधि विच्छेद है: विद्या + अर्थी (दीर्घ संधि)।",
+    "options": [
+      { "text": "विद्य + अर्थी", "isCorrect": false },
+      { "text": "विद्या + र्थी", "isCorrect": false },
+      { "text": "विद्या + अर्थी", "isCorrect": true },
+      { "text": "विद् + यार्थी", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 9",
+    "subject": "Hindi Grammar",
+    "difficulty": "Medium",
+    "text": "जो सब कुछ जानता हो, उसके लिए एक शब्द:",
+    "explanation": "जो सब कुछ जानता है उसे 'सर्वज्ञ' कहा जाता है।",
+    "options": [
+      { "text": "अज्ञ", "isCorrect": false },
+      { "text": "सर्वज्ञ", "isCorrect": true },
+      { "text": "अल्पज्ञ", "isCorrect": false },
+      { "text": "बहुज्ञ", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 9",
+    "subject": "Hindi Grammar",
+    "difficulty": "Hard",
+    "text": "'चौराहा' शब्द में कौन सा समास है?",
+    "explanation": "'चौराहा' का अर्थ है चार राहों का समूह। इसमें पहला पद संख्यावाचक है, अतः यह द्विगु समास है।",
+    "options": [
+      { "text": "द्वंद्व", "isCorrect": false },
+      { "text": "द्विगु", "isCorrect": true },
+      { "text": "तत्पुरुष", "isCorrect": false },
+      { "text": "कर्मधारय", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 9",
+    "subject": "Hindi Grammar",
+    "difficulty": "Medium",
+    "text": "'अनुज' का विलोम शब्द है:",
+    "explanation": "'अनुज' का अर्थ है छोटा भाई, इसका विलोम 'अग्रज' (बड़ा भाई) होता है।",
+    "options": [
+      { "text": "अग्रज", "isCorrect": true },
+      { "text": "मनुज", "isCorrect": false },
+      { "text": "धनुज", "isCorrect": false },
+      { "text": "तनुज", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 9",
+    "subject": "Hindi Grammar",
+    "difficulty": "Easy",
+    "text": "हिंदी वर्णमाला में कितने स्वर होते हैं?",
+    "explanation": "मूल रूप से हिंदी वर्णमाला में 11 स्वर माने जाते हैं।",
+    "options": [
+      { "text": "10", "isCorrect": false },
+      { "text": "11", "isCorrect": true },
+      { "text": "13", "isCorrect": false },
+      { "text": "33", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 9",
+    "subject": "Hindi Grammar",
+    "difficulty": "Hard",
+    "text": "इनमें से कौन सा शब्द भाववाचक संज्ञा है?",
+    "explanation": "'मिठास' एक भाववाचक संज्ञा है, जिसे केवल महसूस किया जा सकता है।",
+    "options": [
+      { "text": "मीठा", "isCorrect": false },
+      { "text": "मिठाई", "isCorrect": false },
+      { "text": "मिठास", "isCorrect": true },
+      { "text": "मिठवाला", "isCorrect": false }
+    ]
+  }
+]

@@ -1,0 +1,167 @@
+[
+  {
+    "text": "What are the three central problems of an economy?",
+    "options": [
+      "Scarcity, Inequality, and Unemployment",
+      "Scarcity, Inefficiency, and Inequality",
+      "Scarcity, Inefficiency, and Unemployment",
+      "Scarcity, Inequality, and Inefficiency"
+    ],
+    "correctAnswer": "Scarcity, Inequality, and Unemployment",
+    "explanation": "The three central problems of an economy are scarcity, inequality, and unemployment. Scarcity arises due to the limited availability of resources, inequality refers to the unequal distribution of resources, and unemployment refers to the underutilization of resources.",
+    "difficulty": "Easy",
+    "class": "Class 11",
+    "subject": "Economics",
+    "chapter": "Ch 1: Introduction to Microeconomics"
+  },
+  {
+    "text": "What happens to the PPC when a country moves from autarky to free trade?",
+    "options": [
+      "The PPC shifts outward",
+      "The PPC shifts inward",
+      "The PPC remains unchanged",
+      "The PPC shifts outward but then inward"
+    ],
+    "correctAnswer": "The PPC shifts outward",
+    "explanation": "When a country moves from autarky to free trade, it gains access to new technologies and resources, leading to an increase in production possibilities. This results in an outward shift of the PPC.",
+    "difficulty": "Medium",
+    "class": "Class 11",
+    "subject": "Economics",
+    "chapter": "Ch 1: Introduction to Microeconomics"
+  },
+  {
+    "text": "What is the opportunity cost of producing 100 units of good X?",
+    "options": [
+      "$100",
+      "$200",
+      "$500",
+      "$1000"
+    ],
+    "correctAnswer": "$500",
+    "explanation": "The opportunity cost of producing 100 units of good X is the value of the next best alternative that is given up. Let's assume the production of good X requires 100 units of labor and the production of good Y requires 100 units of labor. If the wage rate is $5 per unit of labor, then the opportunity cost of producing 100 units of good X is $500.",
+    "difficulty": "Medium",
+    "class": "Class 11",
+    "subject": "Economics",
+    "chapter": "Ch 1: Introduction to Microeconomics"
+  },
+  {
+    "text": "What is the main difference between a normal good and an inferior good?",
+    "options": [
+      "Normal goods are consumed more when income increases, while inferior goods are consumed less when income increases.",
+      "Normal goods are consumed less when income increases, while inferior goods are consumed more when income increases.",
+      "Normal goods are consumed more when income decreases, while inferior goods are consumed less when income decreases.",
+      "Normal goods are consumed less when income decreases, while inferior goods are consumed more when income decreases."
+    ],
+    "correctAnswer": "Normal goods are consumed more when income increases, while inferior goods are consumed less when income increases.",
+    "explanation": "Normal goods are consumed more when income increases, while inferior goods are consumed less when income increases. This is because normal goods are considered to be a luxury item, and as income increases, people are willing to spend more on them.",
+    "difficulty": "Medium",
+    "class": "Class 11",
+    "subject": "Economics",
+    "chapter": "Ch 1: Introduction to Microeconomics"
+  },
+  {
+    "text": "What is the concept of opportunity cost in terms of PPC?",
+    "options": [
+      "The value of the next best alternative that is given up.",
+      "The value of the next best alternative that is taken up.",
+      "The value of the next best alternative that is not taken up.",
+      "The value of the next best alternative that is not given up."
+    ],
+    "correctAnswer": "The value of the next best alternative that is given up.",
+    "explanation": "The concept of opportunity cost in terms of PPC refers to the value of the next best alternative that is given up when a choice is made. This is represented by the slope of the PPC.",
+    "difficulty": "Hard",
+    "class": "Class 11",
+    "subject": "Economics",
+    "chapter": "Ch 1: Introduction to Microeconomics"
+  },
+  {
+    "text": "What is the effect of a technological improvement on the PPC?",
+    "options": [
+      "The PPC shifts inward",
+      "The PPC shifts outward",
+      "The PPC remains unchanged",
+      "The PPC shifts outward but then inward"
+    ],
+    "correctAnswer": "The PPC shifts outward",
+    "explanation": "A technological improvement leads to an increase in productivity, resulting in an outward shift of the PPC. This is because the same resources can now produce more output.",
+    "difficulty": "Medium",
+    "class": "Class 11",
+    "subject": "Economics",
+    "chapter": "Ch 1: Introduction to Microeconomics"
+  },
+  {
+    "text": "What is the concept of scarcity in economics?",
+    "options": [
+      "The unlimited availability of resources.",
+      "The limited availability of resources.",
+      "The equal distribution of resources.",
+      "The unequal distribution of resources."
+    ],
+    "correctAnswer": "The limited availability of resources.",
+    "explanation": "Scarcity refers to the limited availability of resources. This means that the wants and needs of individuals cannot be fulfilled due to the limited availability of resources.",
+    "difficulty": "Easy",
+    "class": "Class 11",
+    "subject": "Economics",
+    "chapter": "Ch 1: Introduction to Microeconomics"
+  },
+  {
+    "text": "What is the effect of a decrease in population on the PPC?",
+    "options": [
+      "The PPC shifts inward",
+      "The PPC shifts outward",
+      "The PPC remains unchanged",
+      "The PPC shifts outward but then inward"
+    ],
+    "correctAnswer": "The PPC shifts outward",
+    "explanation": "A decrease in population leads to a decrease in the number of people, resulting in an outward shift of the PPC. This is because the same resources can now be allocated to fewer people, resulting in an increase in output per person.",
+    "difficulty": "Medium",
+    "class": "Class 11",
+    "subject": "Economics",
+    "chapter": "Ch 1: Introduction to Microeconomics"
+  },
+  {
+    "text": "What is the concept of opportunity cost in terms of budget constraint?",
+    "options": [
+      "The value of the next best alternative that is given up.",
+      "The value of the next best alternative that is taken up.",
+      "The value of the next best alternative that is not taken up.",
+      "The value of the next best alternative that is not given up."
+    ],
+    "correctAnswer": "The value of the next best alternative that is given up.",
+    "explanation": "The concept of opportunity cost in terms of budget constraint refers to the value of the next best alternative that is given up when a choice is made. This is represented by the slope of the budget constraint.",
+    "difficulty": "Hard",
+    "class": "Class 11",
+    "subject": "Economics",
+    "chapter": "Ch 1: Introduction to Microeconomics"
+  },
+  {
+    "text": "What is the effect of a change in technology on the PPC?",
+    "options": [
+      "The PPC shifts inward",
+      "The PPC shifts outward",
+      "The PPC remains unchanged",
+      "The PPC shifts outward but then inward"
+    ],
+    "correctAnswer": "The PPC shifts outward",
+    "explanation": "A change in technology leads to an increase in productivity, resulting in an outward shift of the PPC. This is because the same resources can now produce more output.",
+    "difficulty": "Medium",
+    "class": "Class 11",
+    "subject": "Economics",
+    "chapter": "Ch 1: Introduction to Microeconomics"
+  },
+  {
+    "text": "What is the concept of opportunity cost in terms of production possibilities curve?",
+    "options": [
+      "The value of the next best alternative that is given up.",
+      "The value of the next best alternative that is taken up.",
+      "The value of the next best alternative that is not taken up.",
+      "The value of the next best alternative that is not given up."
+    ],
+    "correctAnswer": "The value of the next best alternative that is given up.",
+    "explanation": "The concept of opportunity cost in terms of production possibilities curve refers to the value of the next best alternative that is given up when a choice is made. This is represented by the slope of the PPC.",
+    "difficulty": "Hard",
+    "class": "Class 11",
+    "subject": "Economics",
+    "chapter": "Ch 1: Introduction to Microeconomics"
+  }
+]

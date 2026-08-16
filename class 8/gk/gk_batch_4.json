@@ -1,0 +1,327 @@
+[
+  {
+    "class": "Class 8",
+    "subject": "GK",
+    "difficulty": "Easy",
+    "text": "Under whose dynamic leadership was the Indian National Army (INA), or Azad Hind Fauj, reorganized and revived in Singapore in 1943?",
+    "explanation": "Netaji Subhas Chandra Bose took command of the Indian National Army in Singapore in 1943, organizing it to fight alongside Japanese forces against British colonial rule.",
+    "options": [
+      { "text": "Rash Behari Bose", "isCorrect": false },
+      { "text": "Subhas Chandra Bose", "isCorrect": true },
+      { "text": "Mahatma Gandhi", "isCorrect": false },
+      { "text": "Bhagat Singh", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 8",
+    "subject": "GK",
+    "difficulty": "Medium",
+    "text": "Who was the founder of the Mamluk (Slave) Dynasty, which marks the beginning of the Delhi Sultanate in 1206?",
+    "explanation": "Qutb-ud-din Aibak, a former general of Muhammad Ghori, founded the Mamluk Dynasty and built the first monuments of the Qutb Minar complex in Delhi.",
+    "options": [
+      { "text": "Sultan Iltutmish", "isCorrect": false },
+      { "text": "Qutb-ud-din Aibak", "isCorrect": true },
+      { "text": "Ghiyas-ud-din Balban", "isCorrect": false },
+      { "text": "Alauddin Khalji", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 8",
+    "subject": "GK",
+    "difficulty": "Hard",
+    "text": "During the reign of which Gupta Emperor did the famous Chinese Buddhist monk and traveler Faxian (Fa-Hien) visit India to collect sacred Buddhist texts?",
+    "explanation": "Faxian visited India during the reign of Chandragupta II (also known as Chandragupta Vikramaditya) in the early 5th century CE, documenting the prosperous social and religious life of the period.",
+    "options": [
+      { "text": "Samudragupta", "isCorrect": false },
+      { "text": "Chandragupta II", "isCorrect": true },
+      { "text": "Kumargupta I", "isCorrect": false },
+      { "text": "Skandagupta", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 8",
+    "subject": "GK",
+    "difficulty": "Very Hard",
+    "text": "What was the name of the weekly journal/newspaper founded and published by Mahatma Gandhi in South Africa in 1903 to advocate for civil rights?",
+    "explanation": "Mahatma Gandhi started publishing 'Indian Opinion' in 1903 in South Africa to raise awareness about the struggles of the Indian community and promote racial equality.",
+    "options": [
+      { "text": "Young India", "isCorrect": false },
+      { "text": "Indian Opinion", "isCorrect": true },
+      { "text": "Harijan", "isCorrect": false },
+      { "text": "Navajivan", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 8",
+    "subject": "GK",
+    "difficulty": "Hard",
+    "text": "Who led the famous Bardoli Satyagraha of 1928, where he was honored by the local women with the title of 'Sardar'?",
+    "explanation": "Sardar Vallabhbhai Patel led the successful peasant strike in Bardoli, Gujarat, against tax hikes during a famine, earning him the title 'Sardar' (meaning leader).",
+    "options": [
+      { "text": "Mahatma Gandhi", "isCorrect": false },
+      { "text": "Sardar Vallabhbhai Patel", "isCorrect": true },
+      { "text": "Jawaharlal Nehru", "isCorrect": false },
+      { "text": "Lala Lajpat Rai", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 8",
+    "subject": "GK",
+    "difficulty": "Easy",
+    "text": "Which Indian state is the easternmost state of the country, where the sun rises first?",
+    "explanation": "Arunachal Pradesh, literally meaning 'Land of the Dawn-lit Mountains', is the easternmost state of India, situated in the eastern Himalayas.",
+    "options": [
+      { "text": "Assam", "isCorrect": false },
+      { "text": "Arunachal Pradesh", "isCorrect": true },
+      { "text": "Nagaland", "isCorrect": false },
+      { "text": "Manipur", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 8",
+    "subject": "GK",
+    "difficulty": "Medium",
+    "text": "Which is the largest brackish water lake (lagoon) in India, located on the east coast of Odisha?",
+    "explanation": "Chilika Lake is the largest brackish water lagoon in India and the second largest in the world, hosting millions of migratory birds and rare Irrawaddy dolphins.",
+    "options": [
+      { "text": "Pulicat Lake", "isCorrect": false },
+      { "text": "Chilika Lake", "isCorrect": true },
+      { "text": "Sambhar Lake", "isCorrect": false },
+      { "text": "Vembanad Lake", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 8",
+    "subject": "GK",
+    "difficulty": "Hard",
+    "text": "The spectacular 'Dhuandhar Falls', where water crashes down from marble rocks, are formed by which river in Madhya Pradesh?",
+    "explanation": "The Dhuandhar Falls are located in Bhedaghat near Jabalpur on the Narmada River, creating a misty smoke-like effect due to the force of the falling water.",
+    "options": [
+      { "text": "Tapi River", "isCorrect": false },
+      { "text": "Narmada River", "isCorrect": true },
+      { "text": "Mahanadi River", "isCorrect": false },
+      { "text": "Godavari River", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 8",
+    "subject": "GK",
+    "difficulty": "Very Hard",
+    "text": "Which high mountain pass, located in the Himalayas, connects the Kashmir Valley (Srinagar) to the Ladakh region (Leh)?",
+    "explanation": "The Zoji La pass, situated at an altitude of about 3,528 meters, serves as the vital road link connecting Srinagar with Kargil and Leh.",
+    "options": [
+      { "text": "Rohtang Pass", "isCorrect": false },
+      { "text": "Zoji La Pass", "isCorrect": true },
+      { "text": "Nathu La Pass", "isCorrect": false },
+      { "text": "Shipki La", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 8",
+    "subject": "GK",
+    "difficulty": "Hard",
+    "text": "Which Indian state shares the longest international land border with the neighboring country of Bangladesh?",
+    "explanation": "West Bengal shares a 2,217 km border with Bangladesh, which is the longest boundary any Indian state shares with a single foreign country.",
+    "options": [
+      { "text": "Assam", "isCorrect": false },
+      { "text": "West Bengal", "isCorrect": true },
+      { "text": "Tripura", "isCorrect": false },
+      { "text": "Meghalaya", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 8",
+    "subject": "GK",
+    "difficulty": "Medium",
+    "text": "Under the Constitution of India, who has the official authority to appoint the Chief Justice of India and the other judges of the Supreme Court?",
+    "explanation": "The President of India appoints the Chief Justice of India and other judges of the Supreme Court under Article 124(2) of the Constitution.",
+    "options": [
+      { "text": "The Prime Minister of India", "isCorrect": false },
+      { "text": "The President of India", "isCorrect": true },
+      { "text": "The Law Minister of India", "isCorrect": false },
+      { "text": "The Parliament of India", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 8",
+    "subject": "GK",
+    "difficulty": "Hard",
+    "text": "Which specific article of the Constitution of India mandates the establishment and composition of the Supreme Court of India?",
+    "explanation": "Article 124 of the Indian Constitution details the establishment, appointment of judges, and constitution of the Supreme Court.",
+    "options": [
+      { "text": "Article 32", "isCorrect": false },
+      { "text": "Article 124", "isCorrect": true },
+      { "text": "Article 143", "isCorrect": false },
+      { "text": "Article 74", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 8",
+    "subject": "GK",
+    "difficulty": "Hard",
+    "text": "The concept of 'Single Citizenship' implemented in the Indian Constitution was inspired and borrowed from which nation's constitutional system?",
+    "explanation": "The framers of the Constitution introduced a single citizenship for the whole of India, borrowed from the British constitutional model (United Kingdom).",
+    "options": [
+      { "text": "United States of America", "isCorrect": false },
+      { "text": "United Kingdom", "isCorrect": true },
+      { "text": "Canada", "isCorrect": false },
+      { "text": "Switzerland", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 8",
+    "subject": "GK",
+    "difficulty": "Very Hard",
+    "text": "Which independent constitutional authority in India is responsible for auditing all receipts and expenditures of the Union and State governments?",
+    "explanation": "The Comptroller and Auditor General of India (CAG), established under Article 148, is the guardian of the public purse and audits all government spending.",
+    "options": [
+      { "text": "The Finance Minister", "isCorrect": false },
+      { "text": "The Comptroller and Auditor General (CAG)", "isCorrect": true },
+      { "text": "The Reserve Bank Governor", "isCorrect": false },
+      { "text": "The Chairman of Finance Commission", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 8",
+    "subject": "GK",
+    "difficulty": "Very Hard",
+    "text": "What is the minimum number of Supreme Court judges required to sit on a bench to hear cases involving substantial questions of law as to the interpretation of the Constitution?",
+    "explanation": "Article 145(3) of the Constitution mandates that a minimum of five judges must sit on a Constitutional Bench to hear cases involving interpretation of the Constitution.",
+    "options": [
+      { "text": "Three", "isCorrect": false },
+      { "text": "Five", "isCorrect": true },
+      { "text": "Seven", "isCorrect": false },
+      { "text": "Nine", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 8",
+    "subject": "GK",
+    "difficulty": "Hard",
+    "text": "What is the name of India's first commercial nuclear power station, commissioned in 1969 with American assistance in Maharashtra?",
+    "explanation": "The Tarapur Atomic Power Station (TAPS), located in Palghar, Maharashtra, was the first commercial nuclear power plant built in India, starting operations in October 1969.",
+    "options": [
+      { "text": "Kudankulam Nuclear Power Plant", "isCorrect": false },
+      { "text": "Tarapur Atomic Power Station", "isCorrect": true },
+      { "text": "Kaiga Generating Station", "isCorrect": false },
+      { "text": "Narora Atomic Power Station", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 8",
+    "subject": "GK",
+    "difficulty": "Medium",
+    "text": "What is the chemical name of the common disinfectant and water treatment compound known as bleaching powder?",
+    "explanation": "Bleaching powder has the chemical formula \\\\(\\\\text{Ca(OCl)}_2\\\\) or \\\\(\\\\text{CaOCl}_2\\\\), and its chemical name is calcium hypochlorite (or calcium oxychloride).",
+    "options": [
+      { "text": "Sodium carbonate", "isCorrect": false },
+      { "text": "Calcium hypochlorite", "isCorrect": true },
+      { "text": "Calcium sulphate", "isCorrect": false },
+      { "text": "Sodium thiosulphate", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 8",
+    "subject": "GK",
+    "difficulty": "Medium",
+    "text": "Which of the following gases is primarily responsible for absorbing infrared radiation and causing the greenhouse effect on Earth?",
+    "explanation": "Carbon dioxide (\\\\(\\\\text{CO}_2\\\\)) is the main greenhouse gas released by human activities, trapping heat in the atmosphere and causing global warming.",
+    "options": [
+      { "text": "Oxygen", "isCorrect": false },
+      { "text": "Carbon dioxide", "isCorrect": true },
+      { "text": "Nitrogen", "isCorrect": false },
+      { "text": "Helium", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 8",
+    "subject": "GK",
+    "difficulty": "Very Hard",
+    "text": "What is the name of India's first indigenous nuclear-powered ballistic missile submarine (SSBN), officially commissioned into the Indian Navy in 2016?",
+    "explanation": "INS Arihant is the lead ship of India's Arihant class of nuclear-powered ballistic missile submarines, making India one of the few nations to design and build its own SSBN.",
+    "options": [
+      { "text": "INS Kalvari", "isCorrect": false },
+      { "text": "INS Arihant", "isCorrect": true },
+      { "text": "INS Chakra", "isCorrect": false },
+      { "text": "INS Vikrant", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 8",
+    "subject": "GK",
+    "difficulty": "Very Hard",
+    "text": "Which British physician and scientist discovered the transmission of malaria by female Anopheles mosquitoes while doing research in Secunderabad, India, and won the Nobel Prize in Medicine in 1902?",
+    "explanation": "Sir Ronald Ross discovered the malaria parasite in the gastrointestinal tract of Anopheles mosquitoes in 1902 in India, proving that mosquitoes transmit the disease.",
+    "options": [
+      { "text": "Alexander Fleming", "isCorrect": false },
+      { "text": "Sir Ronald Ross", "isCorrect": true },
+      { "text": "Louis Pasteur", "isCorrect": false },
+      { "text": "Robert Koch", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 8",
+    "subject": "GK",
+    "difficulty": "Hard",
+    "text": "Which famous Indian author wrote the historic partition novel titled 'Train to Pakistan', first published in 1956?",
+    "explanation": "Khushwant Singh wrote 'Train to Pakistan', which recounts the partition of India through the perspective of a fictional border village called Mano Majra.",
+    "options": [
+      { "text": "Mulk Raj Anand", "isCorrect": false },
+      { "text": "Khushwant Singh", "isCorrect": true },
+      { "text": "R. K. Narayan", "isCorrect": false },
+      { "text": "Arundhati Roy", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 8",
+    "subject": "GK",
+    "difficulty": "Hard",
+    "text": "The 'Dronacharya Award' is presented annually by the Government of India to recognize outstanding contributions in which of the following fields?",
+    "explanation": "The Dronacharya Award, instituted in 1985, is presented to sports coaches who produce medalists in prestigious international sports events.",
+    "options": [
+      { "text": "Literature and Poetry", "isCorrect": false },
+      { "text": "Sports Coaching", "isCorrect": true },
+      { "text": "Classical Music", "isCorrect": false },
+      { "text": "Journalism and Media", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 8",
+    "subject": "GK",
+    "difficulty": "Very Hard",
+    "text": "Who was the first Indian woman to successfully scale Mount Everest, achieving this feat in May 1984?",
+    "explanation": "Bachendri Pal became the first Indian woman to climb Mount Everest in May 1984 as part of an expedition organized by the Tata Steel Adventure Foundation.",
+    "options": [
+      { "text": "Santosh Yadav", "isCorrect": false },
+      { "text": "Bachendri Pal", "isCorrect": true },
+      { "text": "Premlata Agarwal", "isCorrect": false },
+      { "text": "Arunima Sinha", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 8",
+    "subject": "GK",
+    "difficulty": "Very Hard",
+    "text": "Which is the highest motorable mountain pass in the world, built by the Border Roads Organisation at an altitude of 19,024 feet in Ladakh, India?",
+    "explanation": "Umling La Pass in Ladakh, situated at 19,024 feet, was constructed by the Border Roads Organisation (BRO) under Project Himank and holds the Guinness World Record for the highest motorable road.",
+    "options": [
+      { "text": "Khardung La Pass", "isCorrect": false },
+      { "text": "Umling La Pass", "isCorrect": true },
+      { "text": "Mana Pass", "isCorrect": false },
+      { "text": "Chang La Pass", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 8",
+    "subject": "GK",
+    "difficulty": "Very Hard",
+    "text": "The national flag of India, the 'Tiranga', was designed by which freedom fighter from Andhra Pradesh?",
+    "explanation": "Pingali Venkayya designed the basic design of the national flag, which was later adopted in its modified form by the Constituent Assembly on July 22, 1947.",
+    "options": [
+      { "text": "Bhikaiji Cama", "isCorrect": false },
+      { "text": "Pingali Venkayya", "isCorrect": true },
+      { "text": "Alluri Sitarama Raju", "isCorrect": false },
+      { "text": "Potti Sreeramulu", "isCorrect": false }
+    ]
+  }
+]

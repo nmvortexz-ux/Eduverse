@@ -1,0 +1,327 @@
+[
+  {
+    "class": "Class 8",
+    "subject": "GK",
+    "difficulty": "Easy",
+    "text": "Who is popularly known as the 'Father of the Nation' in India?",
+    "explanation": "Mahatma Gandhi is widely recognized as the Father of the Nation in India for his leading role in the Indian independence movement using non-violent civil disobedience.",
+    "options": [
+      { "text": "Jawaharlal Nehru", "isCorrect": false },
+      { "text": "Subhas Chandra Bose", "isCorrect": false },
+      { "text": "Mahatma Gandhi", "isCorrect": true },
+      { "text": "Bal Gangadhar Tilak", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 8",
+    "subject": "GK",
+    "difficulty": "Medium",
+    "text": "The Revolt of 1857, also known as the First War of Indian Independence, officially started in which historical city?",
+    "explanation": "The uprising began on May 10, 1857, in the garrison town of Meerut when Indian sepoys of the British East India Company's army mutinied against their officers.",
+    "options": [
+      { "text": "Delhi", "isCorrect": false },
+      { "text": "Meerut", "isCorrect": true },
+      { "text": "Jhansi", "isCorrect": false },
+      { "text": "Kanpur", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 8",
+    "subject": "GK",
+    "difficulty": "Hard",
+    "text": "In which year did the Jallianwala Bagh massacre take place, and which British officer ordered the troops to open fire on the unarmed gathering?",
+    "explanation": "On April 13, 1919, Brigadier-General Reginald Dyer ordered British troops to fire on a large, peaceful crowd gathered at Jallianwala Bagh in Amritsar, Punjab.",
+    "options": [
+      { "text": "1919, Brigadier-General Reginald Dyer", "isCorrect": true },
+      { "text": "1920, General Lord Chelmsford", "isCorrect": false },
+      { "text": "1919, General Michael O'Dwyer", "isCorrect": false },
+      { "text": "1922, Lord Reading", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 8",
+    "subject": "GK",
+    "difficulty": "Very Hard",
+    "text": "Who was the founder of the Maurya Empire in ancient India, and who served as his chief political advisor and strategist?",
+    "explanation": "Chandragupta Maurya founded the Maurya Empire in 322 BCE with the help of his teacher and chief advisor, Chanakya (also known as Kautilya), who authored the Arthashastra.",
+    "options": [
+      { "text": "Ashoka the Great, Radhagupta", "isCorrect": false },
+      { "text": "Chandragupta Maurya, Chanakya", "isCorrect": true },
+      { "text": "Samudragupta, Harisena", "isCorrect": false },
+      { "text": "Bindusara, Chanakya", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 8",
+    "subject": "GK",
+    "difficulty": "Hard",
+    "text": "Who was the chief Persian architect of the Taj Mahal in Agra, built by the Mughal Emperor Shah Jahan in memory of Mumtaz Mahal?",
+    "explanation": "Ustad Ahmad Lahori is widely credited as the chief architect of the Taj Mahal, which is a masterpiece of Mughal architecture.",
+    "options": [
+      { "text": "Mirak Mirza Ghiyas", "isCorrect": false },
+      { "text": "Ustad Ahmad Lahori", "isCorrect": true },
+      { "text": "Ustad Isa", "isCorrect": false },
+      { "text": "Bahauddin", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 8",
+    "subject": "GK",
+    "difficulty": "Easy",
+    "text": "Which of the following is the longest river flowing entirely within or through India?",
+    "explanation": "The Ganga is the longest river in India, flowing over 2,525 km from its origin in the Himalayas down to the Bay of Bengal.",
+    "options": [
+      { "text": "Ganga", "isCorrect": true },
+      { "text": "Godavari", "isCorrect": false },
+      { "text": "Yamuna", "isCorrect": false },
+      { "text": "Brahmaputra", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 8",
+    "subject": "GK",
+    "difficulty": "Medium",
+    "text": "What is the capital city of the northeastern Indian state of Arunachal Pradesh?",
+    "explanation": "Itanagar is the capital city of Arunachal Pradesh, known for its rich tribal culture and historical sites like the Ita Fort.",
+    "options": [
+      { "text": "Dispur", "isCorrect": false },
+      { "text": "Shillong", "isCorrect": false },
+      { "text": "Itanagar", "isCorrect": true },
+      { "text": "Kohima", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 8",
+    "subject": "GK",
+    "difficulty": "Hard",
+    "text": "Which national park in India is famous as the last remaining natural habitat of the endangered Asiatic Lion?",
+    "explanation": "Gir National Park in Gujarat is the only natural habitat in the world where the Asiatic Lion is found in the wild.",
+    "options": [
+      { "text": "Jim Corbett National Park", "isCorrect": false },
+      { "text": "Gir National Park", "isCorrect": true },
+      { "text": "Kaziranga National Park", "isCorrect": false },
+      { "text": "Sundarbans National Park", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 8",
+    "subject": "GK",
+    "difficulty": "Very Hard",
+    "text": "The Barren Island, located in the Andaman Sea, is famous in Indian geography for which unique feature?",
+    "explanation": "Barren Island contains South Asia's only active volcano. Its first recorded eruption dates back to 1787.",
+    "options": [
+      { "text": "It is the only coral island in the Indian Ocean", "isCorrect": false },
+      { "text": "It contains the only active volcano in South Asia", "isCorrect": true },
+      { "text": "It is the southernmost point of Indian territory", "isCorrect": false },
+      { "text": "It has the largest mangrove forest in India", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 8",
+    "subject": "GK",
+    "difficulty": "Easy",
+    "text": "Which major mountain range forms a natural barrier along the northern boundary of the Indian subcontinent?",
+    "explanation": "The Himalayas form a massive mountain range along the northern boundary of India, separating the subcontinent from the Tibetan Plateau.",
+    "options": [
+      { "text": "The Aravalis", "isCorrect": false },
+      { "text": "The Himalayas", "isCorrect": true },
+      { "text": "The Vindhyas", "isCorrect": false },
+      { "text": "The Western Ghats", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 8",
+    "subject": "GK",
+    "difficulty": "Easy",
+    "text": "Who was appointed as the Chairman of the Drafting Committee of the Constituent Assembly of India?",
+    "explanation": "Dr. B. R. Ambedkar served as the chairman of the Drafting Committee, which was responsible for preparing the final draft of the Indian Constitution.",
+    "options": [
+      { "text": "Dr. Rajendra Prasad", "isCorrect": false },
+      { "text": "Jawaharlal Nehru", "isCorrect": false },
+      { "text": "Dr. B. R. Ambedkar", "isCorrect": true },
+      { "text": "Sardar Vallabhbhai Patel", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 8",
+    "subject": "GK",
+    "difficulty": "Medium",
+    "text": "How many Fundamental Rights are currently guaranteed to the citizens of India by the Constitution?",
+    "explanation": "There are six Fundamental Rights guaranteed by the Constitution: Right to Equality, Right to Freedom, Right against Exploitation, Right to Freedom of Religion, Cultural and Educational Rights, and Right to Constitutional Remedies.",
+    "options": [
+      { "text": "Seven", "isCorrect": false },
+      { "text": "Six", "isCorrect": true },
+      { "text": "Eight", "isCorrect": false },
+      { "text": "Five", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 8",
+    "subject": "GK",
+    "difficulty": "Hard",
+    "text": "Under the provisions of the Indian Constitution, who has the executive power to officially declare a National Emergency?",
+    "explanation": "The President of India can declare a National Emergency under Article 352 of the Constitution, on the written advice of the Union Cabinet.",
+    "options": [
+      { "text": "The Prime Minister of India", "isCorrect": false },
+      { "text": "The President of India", "isCorrect": true },
+      { "text": "The Chief Justice of India", "isCorrect": false },
+      { "text": "The Speaker of the Lok Sabha", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 8",
+    "subject": "GK",
+    "difficulty": "Very Hard",
+    "text": "Which amendment to the Constitution of India is widely referred to as the 'Mini-Constitution' because of the massive changes it introduced in 1976?",
+    "explanation": "The 42nd Constitutional Amendment Act of 1976 made extensive changes, including adding the words 'Socialist', 'Secular', and 'Integrity' to the Preamble, and introducing Fundamental Duties.",
+    "options": [
+      { "text": "44th Amendment", "isCorrect": false },
+      { "text": "42nd Amendment", "isCorrect": true },
+      { "text": "86th Amendment", "isCorrect": false },
+      { "text": "73rd Amendment", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 8",
+    "subject": "GK",
+    "difficulty": "Medium",
+    "text": "What is the minimum age required under the Constitution of India to be eligible to become the Prime Minister of India?",
+    "explanation": "A person must be at least 25 years old if they are a member of the Lok Sabha, or 30 years old if they are a member of the Rajya Sabha. Thus, the minimum age is 25.",
+    "options": [
+      { "text": "35 years", "isCorrect": false },
+      { "text": "30 years", "isCorrect": false },
+      { "text": "25 years", "isCorrect": true },
+      { "text": "21 years", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 8",
+    "subject": "GK",
+    "difficulty": "Easy",
+    "text": "Which planet is situated closest to the Sun in our Solar System?",
+    "explanation": "Mercury is the closest planet to the Sun, orbiting it at an average distance of about 58 million kilometers.",
+    "options": [
+      { "text": "Venus", "isCorrect": false },
+      { "text": "Mars", "isCorrect": false },
+      { "text": "Mercury", "isCorrect": true },
+      { "text": "Earth", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 8",
+    "subject": "GK",
+    "difficulty": "Medium",
+    "text": "What is the chemical name of common table salt used in cooking?",
+    "explanation": "Common table salt is composed of sodium and chlorine atoms, and its chemical name is sodium chloride (\\\\(\\\\text{NaCl}\\\\)).",
+    "options": [
+      { "text": "Sodium bicarbonate", "isCorrect": false },
+      { "text": "Sodium chloride", "isCorrect": true },
+      { "text": "Calcium carbonate", "isCorrect": false },
+      { "text": "Potassium chloride", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 8",
+    "subject": "GK",
+    "difficulty": "Hard",
+    "text": "Which Indian space mission made India the first nation in the world to successfully enter Mars' orbit on its maiden attempt?",
+    "explanation": "The Mars Orbiter Mission (MOM), also called Mangalyaan, was launched by ISRO in November 2013 and successfully entered Martian orbit in September 2014.",
+    "options": [
+      { "text": "Chandrayaan-1", "isCorrect": false },
+      { "text": "Mars Orbiter Mission (Mangalyaan)", "isCorrect": true },
+      { "text": "Gaganyaan", "isCorrect": false },
+      { "text": "Aditya-L1", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 8",
+    "subject": "GK",
+    "difficulty": "Very Hard",
+    "text": "Which Indian scientist won the Nobel Prize in Physics in 1930 for discovering the phenomenon of inelastic scattering of light?",
+    "explanation": "Sir C. V. Raman won the Nobel Prize for Physics in 1930 for his work on the scattering of light and the discovery of the Raman Effect. National Science Day is celebrated on Feb 28 to commemorate this.",
+    "options": [
+      { "text": "Homi J. Bhabha", "isCorrect": false },
+      { "text": "Sir C. V. Raman", "isCorrect": true },
+      { "text": "Jagadish Chandra Bose", "isCorrect": false },
+      { "text": "Subrahmanyan Chandrasekhar", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 8",
+    "subject": "GK",
+    "difficulty": "Very Hard",
+    "text": "What is the primary component of household Liquefied Petroleum Gas (LPG), and which compound is added to it to detect leakages by its strong odor?",
+    "explanation": "LPG consists primarily of butane and propane. Since they are odorless, ethyl mercaptan (an organosulfur compound) is added to give it a strong smell to help detect leaks.",
+    "options": [
+      { "text": "Methane, hydrogen sulphide", "isCorrect": false },
+      { "text": "Butane, ethyl mercaptan", "isCorrect": true },
+      { "text": "Propane, carbon monoxide", "isCorrect": false },
+      { "text": "Ethane, sulphur dioxide", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 8",
+    "subject": "GK",
+    "difficulty": "Easy",
+    "text": "In which sport is the term 'Deuce' used when players reach a tie score of 40-40?",
+    "explanation": "In Tennis, when the score is tied at 40-40, it is called a deuce. A player must then win two consecutive points to win the game.",
+    "options": [
+      { "text": "Cricket", "isCorrect": false },
+      { "text": "Football", "isCorrect": false },
+      { "text": "Tennis", "isCorrect": true },
+      { "text": "Basketball", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 8",
+    "subject": "GK",
+    "difficulty": "Medium",
+    "text": "Who composed the national anthem of India, 'Jana Gana Mana'?",
+    "explanation": "Rabindranath Tagore wrote and composed 'Jana Gana Mana' in Bengali, which was officially adopted as the National Anthem of India on January 24, 1950.",
+    "options": [
+      { "text": "Bankim Chandra Chattopadhyay", "isCorrect": false },
+      { "text": "Rabindranath Tagore", "isCorrect": true },
+      { "text": "Subramania Bharati", "isCorrect": false },
+      { "text": "Rabindranath Tagore", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 8",
+    "subject": "GK",
+    "difficulty": "Hard",
+    "text": "Which of the following is the highest civilian award in the Republic of India?",
+    "explanation": "The Bharat Ratna, instituted in 1954, is the highest civilian award of India, awarded in recognition of exceptional service/performance of the highest order.",
+    "options": [
+      { "text": "Padma Vibhushan", "isCorrect": false },
+      { "text": "Bharat Ratna", "isCorrect": true },
+      { "text": "Param Vir Chakra", "isCorrect": false },
+      { "text": "Sahitya Akademi Award", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 8",
+    "subject": "GK",
+    "difficulty": "Very Hard",
+    "text": "Who was the first Indian woman to win an individual medal at the Olympic Games, and in which sport?",
+    "explanation": "Weightlifter Karnam Malleswari won a bronze medal in the 69 kg weight category at the Sydney 2000 Olympic Games, becoming the first Indian woman to win an Olympic medal.",
+    "options": [
+      { "text": "Saina Nehwal, Badminton", "isCorrect": false },
+      { "text": "Karnam Malleswari, Weightlifting", "isCorrect": true },
+      { "text": "P. T. Usha, Athletics", "isCorrect": false },
+      { "text": "Mary Kom, Boxing", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 8",
+    "subject": "GK",
+    "difficulty": "Medium",
+    "text": "Which major Indian city is widely known as the 'Silicon Valley of India' due to its role as the nation's leading information technology (IT) exporter?",
+    "explanation": "Bengaluru is called the Silicon Valley of India because it is the country's main hub for technology and IT service companies.",
+    "options": [
+      { "text": "Hyderabad", "isCorrect": false },
+      { "text": "Pune", "isCorrect": false },
+      { "text": "Bengaluru", "isCorrect": true },
+      { "text": "Mumbai", "isCorrect": false }
+    ]
+  }
+]

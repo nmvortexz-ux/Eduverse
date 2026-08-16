@@ -1,0 +1,32 @@
+[
+  {
+    "text": "A company's sales revenue for the year 2020-21 was $10,00,000. In the year 2021-22, the sales revenue increased by 20%. What is the percentage increase in sales revenue?",
+    "options": [
+      "10%",
+      "12%",
+      "15%",
+      "20%"
+    ],
+    "correctAnswer": "20%",
+    "explanation": "Percentage increase in sales revenue = ((Increase in sales revenue) / (Original sales revenue)) × 100% = ((20% of $10,00,000) / $10,00,000) × 100% = 20%",
+    "difficulty": "Easy",
+    "class": "Class 12",
+    "subject": "Accountancy",
+    "chapter": "Ch 9: Analysis of Financial Statements"
+  },
+  {
+    "text": "The following are the comparative balance sheets of XYZ Ltd. for the years 2020 and 2021.",
+    "options": [
+      "Increase",
+      "Decrease",
+      "No change",
+      "Cannot be determined"
+    ],
+    "correctAnswer": "Increase",
+    "explanation": "To determine the change in the value of an asset, we need to compare the opening and closing balances of the asset in the two years. If the opening balance is less than the closing balance, the value of the asset has increased. In this case, the opening balance of the asset in 2021 is $5,00,000, which is more than the closing balance of $4,00,000 in 2020. Therefore, the value of the asset has decreased.",
+    "difficulty": "Medium",
+    "class": "Class 12",
+    "subject": "Accountancy",
+    "chapter": "Ch 9: Analysis of Financial Statements"
+  }
+]

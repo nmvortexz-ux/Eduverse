@@ -1,0 +1,327 @@
+[
+  {
+    "class": "Class 10",
+    "subject": "English",
+    "difficulty": "EASY",
+    "text": "What did Lencho compare the large raindrops to?",
+    "explanation": "Lencho compared the large raindrops to ten-cent coins and the small ones to five-cent coins, referring to them as new coins because they promised a good harvest.",
+    "options": [
+      { "text": "New coins", "isCorrect": true },
+      { "text": "Silver coins", "isCorrect": false },
+      { "text": "Pearls", "isCorrect": false },
+      { "text": "Diamonds", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 10",
+    "subject": "English",
+    "difficulty": "EASY",
+    "text": "According to Nelson Mandela, what is a country's greatest wealth?",
+    "explanation": "Nelson Mandela states that a country's greatest wealth is its people, who are finer and truer than the purest diamonds.",
+    "options": [
+      { "text": "Its people", "isCorrect": true },
+      { "text": "Its minerals and gems", "isCorrect": false },
+      { "text": "Its technology", "isCorrect": false },
+      { "text": "Its military power", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 10",
+    "subject": "English",
+    "difficulty": "EASY",
+    "text": "Who was Tricki in the story 'A Triumph of Surgery'?",
+    "explanation": "Tricki was a small, pampered dog belonging to the rich lady Mrs. Pumphrey, who fell ill due to overfeeding.",
+    "options": [
+      { "text": "A pampered small dog", "isCorrect": true },
+      { "text": "A stray cat", "isCorrect": false },
+      { "text": "A veterinary doctor", "isCorrect": false },
+      { "text": "Mrs. Pumphrey's gardener", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 10",
+    "subject": "English",
+    "difficulty": "EASY",
+    "text": "Identify the correct option to fill in the blank: Each of the boys ________ given a prize yesterday.",
+    "explanation": "The subject 'Each' is singular, so it takes a singular verb. Since the action happened 'yesterday', the past tense 'was' is correct.",
+    "options": [
+      { "text": "was", "isCorrect": true },
+      { "text": "were", "isCorrect": false },
+      { "text": "has", "isCorrect": false },
+      { "text": "are", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 10",
+    "subject": "English",
+    "difficulty": "EASY",
+    "text": "What did the hemlock tree symbolize in Robert Frost's poem 'Dust of Snow'?",
+    "explanation": "The hemlock tree is a poisonous tree, traditionally symbolizing sorrow, negativity, and gloom in literature.",
+    "options": [
+      { "text": "Sorrow and poisonous gloom", "isCorrect": true },
+      { "text": "Joy and prosperity", "isCorrect": false },
+      { "text": "Strength and durability", "isCorrect": false },
+      { "text": "Rebirth and hope", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 10",
+    "subject": "English",
+    "difficulty": "EASY",
+    "text": "What did Hari Singh want from Anil when he first met him?",
+    "explanation": "When Hari Singh first approached Anil, he asked for work, and Anil agreed to keep him if he could cook and feed him.",
+    "options": [
+      { "text": "Work and food", "isCorrect": true },
+      { "text": "Money and gold", "isCorrect": false },
+      { "text": "A place to study", "isCorrect": false },
+      { "text": "A job in a shop", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 10",
+    "subject": "English",
+    "difficulty": "MEDIUM",
+    "text": "What urged the young seagull to make his first flight?",
+    "explanation": "The young seagull had been starving for twenty-four hours. When he saw his mother with food, hunger drove him to dive off the ledge.",
+    "options": [
+      { "text": "Extreme hunger", "isCorrect": true },
+      { "text": "Encouragement from siblings", "isCorrect": false },
+      { "text": "Fear of a predator", "isCorrect": false },
+      { "text": "Anger at his parents", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 10",
+    "subject": "English",
+    "difficulty": "MEDIUM",
+    "text": "Why did Anne Frank want to keep a diary?",
+    "explanation": "Anne felt that paper has more patience than people. She lacked a close, true friend to share her deepest feelings, so she made the diary her friend 'Kitty'.",
+    "options": [
+      { "text": "She did not have a true friend to confide in.", "isCorrect": true },
+      { "text": "She wanted to be a famous writer in the future.", "isCorrect": false },
+      { "text": "Her father forced her to write daily.", "isCorrect": false },
+      { "text": "She wanted to record historical events of WWII.", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 10",
+    "subject": "English",
+    "difficulty": "MEDIUM",
+    "text": "In the poem 'A Tiger in the Zoo', what does the phrase 'quiet rage' imply?",
+    "explanation": "The tiger is angry at being locked in a cage, but he is helpless and cannot express his rage, making it a quiet, suppressed anger.",
+    "options": [
+      { "text": "The tiger's suppressed anger due to captivity", "isCorrect": true },
+      { "text": "The tiger's calm nature in the wild", "isCorrect": false },
+      { "text": "The tiger's silent hunting technique", "isCorrect": false },
+      { "text": "The fear of the visitors watching the tiger", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 10",
+    "subject": "English",
+    "difficulty": "MEDIUM",
+    "text": "Choose the correct indirect form of: She said to me, 'Where are you going?'",
+    "explanation": "In indirect speech, interrogative sentences become statements (subject before verb), tenses shift back, and the reporting verb 'said to' changes to 'asked'.",
+    "options": [
+      { "text": "She asked me where I was going.", "isCorrect": true },
+      { "text": "She asked me where was I going.", "isCorrect": false },
+      { "text": "She told me where I am going.", "isCorrect": false },
+      { "text": "She inquired of me that where I went.", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 10",
+    "subject": "English",
+    "difficulty": "MEDIUM",
+    "text": "How did Ausable make Max believe there was a balcony attached to his room?",
+    "explanation": "Ausable fabricated a convincing story about a non-existent balcony, explaining that it was the second time that month someone had entered his room through it.",
+    "options": [
+      { "text": "By describing in detail how someone else had entered through it before", "isCorrect": true },
+      { "text": "By showing him a blueprint of the hotel room", "isCorrect": false },
+      { "text": "By opening the window and pointing to the balcony outside", "isCorrect": false },
+      { "text": "By telling him the police used it to enter", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 10",
+    "subject": "English",
+    "difficulty": "MEDIUM",
+    "text": "What saddened Valli on her return journey in 'Madam Rides the Bus'?",
+    "explanation": "Valli saw a beautiful young cow running merrily on her way to the town, but on her return, she saw the same cow dead by the roadside, which filled her with sadness.",
+    "options": [
+      { "text": "The sight of a dead cow by the roadside", "isCorrect": true },
+      { "text": "The conductor's rude behavior", "isCorrect": false },
+      { "text": "Losing her thirty-paise coin", "isCorrect": false },
+      { "text": "Not being allowed to get off the bus", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 10",
+    "subject": "English",
+    "difficulty": "MEDIUM",
+    "text": "Fill in the blank with the appropriate modal verb: We ________ respect our elders and teachers.",
+    "explanation": "'Ought to' is used to express moral obligation, duty, or social responsibility, which fits the context of respecting elders.",
+    "options": [
+      { "text": "ought to", "isCorrect": true },
+      { "text": "might", "isCorrect": false },
+      { "text": "can", "isCorrect": false },
+      { "text": "would", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 10",
+    "subject": "English",
+    "difficulty": "HARD",
+    "text": "What did Kisa Gotami learn from her search for mustard seeds?",
+    "explanation": "Kisa Gotami could not find a single house where no one had died. She realized that death is universal and grief only increases suffering instead of bringing peace.",
+    "options": [
+      { "text": "Death is common to all, and grief only increases pain.", "isCorrect": true },
+      { "text": "Mustard seeds can cure any mortal disease.", "isCorrect": false },
+      { "text": "People in Benares are selfish and unkind.", "isCorrect": false },
+      { "text": "Buddha had supernatural powers to revive the dead.", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 10",
+    "subject": "English",
+    "difficulty": "HARD",
+    "text": "What does the poet mean by 'the epistemology of loss' in 'The Ball Poem'?",
+    "explanation": "The epistemology of loss refers to understanding the nature of grief and loss, and learning the vital life lesson of accepting loss and moving forward.",
+    "options": [
+      { "text": "Understanding the nature of loss and how to stand up after it", "isCorrect": true },
+      { "text": "Learning the cost of replacing lost items in money", "isCorrect": false },
+      { "text": "Studying the scientific cause behind losing things", "isCorrect": false },
+      { "text": "Blaming others for not taking care of one's belongings", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 10",
+    "subject": "English",
+    "difficulty": "HARD",
+    "text": "What was the purpose of Richard Ebright's project on viral disease in monarch caterpillars?",
+    "explanation": "Ebright raised caterpillars in the presence of beetles to test if beetles carried the virus causing monarch caterpillars to die every few years.",
+    "options": [
+      { "text": "To find if a beetle was the carrier of the viral disease", "isCorrect": true },
+      { "text": "To genetically modify monarch butterflies to resist virus", "isCorrect": false },
+      { "text": "To prove that viceroy butterflies mimic monarchs to avoid predators", "isCorrect": false },
+      { "text": "To isolate the DNA structure of the monarch butterfly", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 10",
+    "subject": "English",
+    "difficulty": "HARD",
+    "text": "Identify the grammatically correct sentence from the options below:",
+    "explanation": "In the correct sentence, 'The novelist and poet' refers to the same singular person (indicated by a single article 'the'). Hence, the singular verb 'is' is correct.",
+    "options": [
+      { "text": "The novelist and poet is dead.", "isCorrect": true },
+      { "text": "The novelist and the poet is dead.", "isCorrect": false },
+      { "text": "Either of the plans are acceptable to us.", "isCorrect": false },
+      { "text": "Bread and butter are my favorite breakfast.", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 10",
+    "subject": "English",
+    "difficulty": "HARD",
+    "text": "Why did Madame Loisel suffer constantly after marrying M. Loisel?",
+    "explanation": "Matilda was extremely pretty and felt she deserved a life of luxury. She suffered constantly because of her shabby apartment, poor walls, and worn chairs.",
+    "options": [
+      { "text": "She felt she was born for all delicacies and luxuries but had to live in poverty.", "isCorrect": true },
+      { "text": "Her husband was abusive and did not care for her basic needs.", "isCorrect": false },
+      { "text": "She was forced to work hard as a clerk in the Ministry of Education.", "isCorrect": false },
+      { "text": "She had lost her family inheritance due to a legal dispute.", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 10",
+    "subject": "English",
+    "difficulty": "HARD",
+    "text": "What is the primary reason Lomov decides to marry Natalya in 'The Proposal'?",
+    "explanation": "Lomov is a hypochondriac who is already 35 (a critical age). He marries Natalya not for love, but because she is well-educated, not bad-looking, and an excellent housekeeper.",
+    "options": [
+      { "text": "He is thirty-five, needs a quiet life, and she is an excellent housekeeper.", "isCorrect": true },
+      { "text": "He is deeply in love with her beauty and character.", "isCorrect": false },
+      { "text": "Her father Chubukov offered him a large dowry of land.", "isCorrect": false },
+      { "text": "He wanted to resolve the dispute over the Oxen Meadows.", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 10",
+    "subject": "English",
+    "difficulty": "VERY HARD",
+    "text": "What is the significance of the speaker's mention of 'Rapunzel' in the poem 'Amanda!'?",
+    "explanation": "Amanda imagines herself as Rapunzel living in a peaceful tower. However, she states she would never let down her bright hair, indicating she wants absolute solitude and no visitors.",
+    "options": [
+      { "text": "Amanda wishes to live alone in a tower like Rapunzel, but she wants to keep her hair down so no one can climb up.", "isCorrect": true },
+      { "text": "Amanda wants to escape her mother by letting her hair down for a savior.", "isCorrect": false },
+      { "text": "Amanda wants to live a life of glamour and royalty in a castle.", "isCorrect": false },
+      { "text": "Amanda's mother is warning her not to act like a fairy tale princess.", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 10",
+    "subject": "English",
+    "difficulty": "VERY HARD",
+    "text": "What was the turning point in Bholi's life that transformed her into a confident girl?",
+    "explanation": "Bholi was neglected and stammered. Her schoolteacher spoke to her kindly, encouraged her to read, and built her confidence, allowing her to speak up against Bishamber later.",
+    "options": [
+      { "text": "Her teacher's affection, encouragement, and education at school", "isCorrect": true },
+      { "text": "Her father Ramlal defending her against Bishamber's demands", "isCorrect": false },
+      { "text": "Her recovery from smallpox which made her beautiful again", "isCorrect": false },
+      { "text": "Her marriage to a wealthy, kind-hearted gentleman from another village", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 10",
+    "subject": "English",
+    "difficulty": "VERY HARD",
+    "text": "What is the theory regarding the Greek origin of the Kodavu people of Coorg?",
+    "explanation": "As per legend, a part of Alexander's army moved south along the coast and settled in Coorg because they could not return home. They married locals, and their culture is seen in martial traditions.",
+    "options": [
+      { "text": "A part of Alexander's army moved south and settled there when return became impractical.", "isCorrect": true },
+      { "text": "They are descendants of Greek traders who set up spice ports on the coast.", "isCorrect": false },
+      { "text": "They were brought as prisoners of war during ancient Greek invasions.", "isCorrect": false },
+      { "text": "Their religious scriptures are written in a dialect of ancient Greek.", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 10",
+    "subject": "English",
+    "difficulty": "VERY HARD",
+    "text": "Choose the correct indirect speech for: The teacher said to the students, 'Don't make a noise.'",
+    "explanation": "'Forbade' itself carries a negative meaning, so 'forbade the students to make' is the correct and most concise indirect form of a negative command.",
+    "options": [
+      { "text": "The teacher forbade the students to make a noise.", "isCorrect": true },
+      { "text": "The teacher ordered the students that don't make a noise.", "isCorrect": false },
+      { "text": "The teacher advised the students not to making a noise.", "isCorrect": false },
+      { "text": "The teacher requested the students to not make a noise.", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 10",
+    "subject": "English",
+    "difficulty": "VERY HARD",
+    "text": "In the poem 'The Tale of Custard the Dragon', what does the contrast between Custard's usual behavior and his reaction to the pirate highlight?",
+    "explanation": "While Ink, Blink, and Mustard bragged about their courage, they ran away in fear of the pirate. Custard, who cried for a nice safe cage, acted bravely when needed, highlighting that true bravery does not require boasting.",
+    "options": [
+      { "text": "True bravery is quiet and shows itself in crisis, while loud boasting is often empty.", "isCorrect": true },
+      { "text": "Custard was indeed a coward but got lucky during the pirate attack.", "isCorrect": false },
+      { "text": "Belinda's other pets were brave but were caught off guard by the pirate.", "isCorrect": false },
+      { "text": "The pirate was easily scared by the appearance of a dragon.", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 10",
+    "subject": "English",
+    "difficulty": "VERY HARD",
+    "text": "How did a book of nursery rhymes save the Earth from Martian invasion in 'The Book That Saved the Earth'?",
+    "explanation": "Think-Tank, the arrogant Martian commander, took literal meanings of rhymes like 'Humpty Dumpty' and 'Mistress Mary', misinterpreting them as Earth's plans to invade Mars, causing him to flee.",
+    "options": [
+      { "text": "Think-Tank misinterpreted nursery rhymes as coded military strategies and space plans.", "isCorrect": true },
+      { "text": "The Martians were deeply moved by the emotional beauty of Earth's literature.", "isCorrect": false },
+      { "text": "Earth's space force used the book to decipher Martian transmission codes.", "isCorrect": false },
+      { "text": "Martian computers crashed when trying to read the poetic structure of the rhymes.", "isCorrect": false }
+    ]
+  }
+]

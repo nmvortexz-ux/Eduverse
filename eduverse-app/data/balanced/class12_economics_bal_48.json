@@ -1,0 +1,107 @@
+[
+  {
+    "text": "What is the primary distinction between the Current Account and the Capital Account in the Balance of Payments?",
+    "options": [
+      "Current Account records transactions in goods and services, while the Capital Account records transactions in financial assets.",
+      "Current Account records transactions in financial assets, while the Capital Account records transactions in goods and services.",
+      "Current Account records transactions in capital goods, while the Capital Account records transactions in consumer goods.",
+      "Current Account records transactions in consumer goods, while the Capital Account records transactions in capital goods."
+    ],
+    "correctAnswer": "Option A",
+    "explanation": "The Current Account records transactions in goods, services, and income, while the Capital Account records transactions in financial assets, such as foreign direct investment, portfolio investment, and other investments. This distinction is essential in understanding the Balance of Payments.",
+    "difficulty": "Easy",
+    "class": "Class 12",
+    "subject": "Economics",
+    "chapter": "Ch 5: Balance of Payments and Foreign Exchange"
+  },
+  {
+    "text": "Which of the following is an example of an Autonomous Transaction in the Balance of Payments?",
+    "options": [
+      "Export of goods by a firm to meet its contractual obligations.",
+      "Import of goods by a firm to meet its contractual obligations.",
+      "Export of goods by a firm to meet its contractual obligations, without any government intervention.",
+      "Import of goods by a firm to meet its contractual obligations, without any government intervention."
+    ],
+    "correctAnswer": "Option D",
+    "explanation": "Autonomous transactions are those that occur without any government intervention. In this case, the export or import of goods by a firm to meet its contractual obligations is an example of an autonomous transaction.",
+    "difficulty": "Medium",
+    "class": "Class 12",
+    "subject": "Economics",
+    "chapter": "Ch 5: Balance of Payments and Foreign Exchange"
+  },
+  {
+    "text": "What is the effect of a trade deficit on the exchange rate?",
+    "options": [
+      "A trade deficit leads to an appreciation of the exchange rate.",
+      "A trade deficit leads to a depreciation of the exchange rate.",
+      "A trade deficit has no effect on the exchange rate.",
+      "A trade deficit leads to a stable exchange rate."
+    ],
+    "correctAnswer": "Option B",
+    "explanation": "A trade deficit occurs when a country imports more goods and services than it exports. This leads to a decrease in the demand for the domestic currency, causing its value to depreciate. Therefore, a trade deficit leads to a depreciation of the exchange rate.",
+    "difficulty": "Medium",
+    "class": "Class 12",
+    "subject": "Economics",
+    "chapter": "Ch 5: Balance of Payments and Foreign Exchange"
+  },
+  {
+    "text": "What is the purpose of the Capital Account in the Balance of Payments?",
+    "options": [
+      "To record transactions in goods and services.",
+      "To record transactions in financial assets.",
+      "To record transactions in capital goods.",
+      "To record transactions in consumer goods."
+    ],
+    "correctAnswer": "Option B",
+    "explanation": "The Capital Account records transactions in financial assets, such as foreign direct investment, portfolio investment, and other investments. This helps to understand the flow of capital between countries.",
+    "difficulty": "Easy",
+    "class": "Class 12",
+    "subject": "Economics",
+    "chapter": "Ch 5: Balance of Payments and Foreign Exchange"
+  },
+  {
+    "text": "What is the difference between an Accommodating Transaction and an Autonomous Transaction?",
+    "options": [
+      "An Accommodating Transaction is one that occurs without any government intervention, while an Autonomous Transaction is one that occurs with government intervention.",
+      "An Autonomous Transaction is one that occurs without any government intervention, while an Accommodating Transaction is one that occurs with government intervention.",
+      "An Accommodating Transaction is one that occurs with government intervention, while an Autonomous Transaction is one that occurs without government intervention.",
+      "An Autonomous Transaction is one that occurs with government intervention, while an Accommodating Transaction is one that occurs without government intervention."
+    ],
+    "correctAnswer": "Option C",
+    "explanation": "An Autonomous Transaction is one that occurs without any government intervention, while an Accommodating Transaction is one that occurs with government intervention. For example, a trade deficit caused by a decrease in exports is an Autonomous Transaction, while a trade deficit caused by a government policy to import more goods is an Accommodating Transaction.",
+    "difficulty": "Hard",
+    "class": "Class 12",
+    "subject": "Economics",
+    "chapter": "Ch 5: Balance of Payments and Foreign Exchange"
+  },
+  {
+    "text": "What is the effect of a decrease in foreign direct investment on the Balance of Payments?",
+    "options": [
+      "A decrease in foreign direct investment leads to an increase in the Current Account deficit.",
+      "A decrease in foreign direct investment leads to a decrease in the Current Account deficit.",
+      "A decrease in foreign direct investment has no effect on the Current Account deficit.",
+      "A decrease in foreign direct investment leads to an increase in the Capital Account surplus."
+    ],
+    "correctAnswer": "Option A",
+    "explanation": "Foreign direct investment is a component of the Capital Account. A decrease in foreign direct investment leads to a decrease in the Capital Account surplus, which in turn leads to an increase in the Current Account deficit.",
+    "difficulty": "Medium",
+    "class": "Class 12",
+    "subject": "Economics",
+    "chapter": "Ch 5: Balance of Payments and Foreign Exchange"
+  },
+  {
+    "text": "What is the purpose of the Current Account in the Balance of Payments?",
+    "options": [
+      "To record transactions in financial assets.",
+      "To record transactions in goods and services.",
+      "To record transactions in capital goods.",
+      "To record transactions in consumer goods."
+    ],
+    "correctAnswer": "Option B",
+    "explanation": "The Current Account records transactions in goods, services, and income. This helps to understand the flow of goods and services between countries.",
+    "difficulty": "Easy",
+    "class": "Class 12",
+    "subject": "Economics",
+    "chapter": "Ch 5: Balance of Payments and Foreign Exchange"
+  }
+]

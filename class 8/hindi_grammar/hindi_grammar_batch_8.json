@@ -1,0 +1,327 @@
+[
+  {
+    "class": "Class 8",
+    "subject": "Hindi Grammar",
+    "difficulty": "Very Hard",
+    "text": "'उद्धरण' शब्द का सही और व्याकरण सम्मत संधि-विच्छेद निम्नलिखित में से क्या होगा?",
+    "explanation": "व्यंजन संधि के नियम के अनुसार, यदि 'त' के बाद 'ह' हो, तो 'त' का 'द' और 'ह' का 'ध' हो जाता है। अतः 'उत् + हरण = उद्धरण' है।",
+    "options": [
+      { "text": "उच् + धरण", "isCorrect": false },
+      { "text": "उत् + हरण", "isCorrect": true },
+      { "text": "उद + धरण", "isCorrect": false },
+      { "text": "उत् + धरण", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 8",
+    "subject": "Hindi Grammar",
+    "difficulty": "Very Hard",
+    "text": "'प्रत्यक्ष' शब्द का सही संधि-विच्छेद और संधि का नाम निम्नलिखित में से क्या होगा?",
+    "explanation": "'प्रति + अक्ष' मिलकर 'प्रत्यक्ष' बनता है (इ + अ = य)। यह यण स्वर संधि का प्रसिद्ध उदाहरण है।",
+    "options": [
+      { "text": "प्रति + अक्ष (गुण संधि)", "isCorrect": false },
+      { "text": "प्रति + अक्ष (यण संधि)", "isCorrect": true },
+      { "text": "प्रत्य + अक्ष (व्यंजन संधि)", "isCorrect": false },
+      { "text": "प्रति + अक्षी (दीर्घ संधि)", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 8",
+    "subject": "Hindi Grammar",
+    "difficulty": "Very Hard",
+    "text": "'निःसंदेह' शब्द का सही संधि रूप निम्नलिखित में से क्या होगा?",
+    "explanation": "विसर्ग संधि के नियमानुसार विसर्ग के बाद स, श, ष होने पर विसर्ग अपने मूल रूप में बना रहता है या अपने बाद वाले वर्ण के समान (आधा) हो जाता है। अतः 'निःसंदेह' और 'निस्संदेह' दोनों रूप शुद्ध हैं।",
+    "options": [
+      { "text": "केवल निःसंदेह", "isCorrect": false },
+      { "text": "निःसंदेह और निस्संदेह दोनों रूप", "isCorrect": true },
+      { "text": "केवल निसंदेह", "isCorrect": false },
+      { "text": "केवल निस्संदेह", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 8",
+    "subject": "Hindi Grammar",
+    "difficulty": "Very Hard",
+    "text": "'महौषध' शब्द का सही संधि-विच्छेद और संधि का नाम निम्नलिखित में से क्या होगा?",
+    "explanation": "'महा + औषध' मिलकर 'महौषध' बनता है (आ + औ = औ)। यह वृद्धि स्वर संधि का उदाहरण है।",
+    "options": [
+      { "text": "महा + औषध (गुण संधि)", "isCorrect": false },
+      { "text": "महा + औषध (वृद्धि संधि)", "isCorrect": true },
+      { "text": "महा + ओषध (वृद्धि संधि)", "isCorrect": false },
+      { "text": "महो + औषध (दीर्घ संधि)", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 8",
+    "subject": "Hindi Grammar",
+    "difficulty": "Very Hard",
+    "text": "'त्रिफला' (तीन फलों का समाहार) में द्विगु समास है। इसी नियम के आधार पर 'चौकड़ी' में कौन सा समास होगा?",
+    "explanation": "'चौकड़ी' (चार कड़ियों का समूह) का पहला पद संख्यावाचक 'चौ' (चार) होने के कारण और यह एक समूह का बोध कराने के कारण द्विगु समास है।",
+    "options": [
+      { "text": "द्वंद्व समास", "isCorrect": false },
+      { "text": "द्विगु समास", "isCorrect": true },
+      { "text": "बहुव्रीहि समास", "isCorrect": false },
+      { "text": "कर्मधारय समास", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 8",
+    "subject": "Hindi Grammar",
+    "difficulty": "Very Hard",
+    "text": "'मृगनयनी' (मृग के नयनों के समान नयन हैं जिसके अर्थात् एक विशिष्ट सुंदर स्त्री) में मुख्य रूप से कौन सा समास होता है?",
+    "explanation": "यह पद दोनों पदों को छोड़कर किसी तीसरे विशेष अर्थ (सुंदर स्त्री या सीता जी) को प्रकट कर रहा है, इसलिए यहाँ बहुव्रीहि समास मुख्य माना जाता है।",
+    "options": [
+      { "text": "कर्मधारय समास", "isCorrect": false },
+      { "text": "बहुव्रीहि समास", "isCorrect": true },
+      { "text": "तत्पुरुष समास", "isCorrect": false },
+      { "text": "द्वंद्व समास", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 8",
+    "subject": "Hindi Grammar",
+    "difficulty": "Very Hard",
+    "text": "'स्वर्गप्राप्त' (स्वर्ग को प्राप्त) शब्द में कौन सा तत्पुरुष समास प्रयुक्त हुआ है?",
+    "explanation": "'स्वर्गप्राप्त' का विग्रह 'स्वर्ग को प्राप्त' है। इसमें कर्म कारक की विभक्ति 'को' का लोप होने के कारण यह कर्म तत्पुरुष समास है।",
+    "options": [
+      { "text": "करण तत्पुरुष", "isCorrect": false },
+      { "text": "कर्म तत्पुरुष", "isCorrect": true },
+      { "text": "संप्रदान तत्पुरुष", "isCorrect": false },
+      { "text": "अपादान तत्पुरुष", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 8",
+    "subject": "Hindi Grammar",
+    "difficulty": "Very Hard",
+    "text": "'पदच्युत' (पद से च्युत/अलग) शब्द में कौन सा तत्पुरुष समास प्रयुक्त हुआ है?",
+    "explanation": "'पदच्युत' का विग्रह 'पद से अलग करना' (च्युत) है। यहाँ अलग होने का भाव होने के कारण अपादान तत्पुरुष समास है।",
+    "options": [
+      { "text": "करण तत्पुरुष", "isCorrect": false },
+      { "text": "अपादान तत्पुरुष", "isCorrect": true },
+      { "text": "संबंध तत्पुरुष", "isCorrect": false },
+      { "text": "अधिकरण तत्पुरुष", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 8",
+    "subject": "Hindi Grammar",
+    "difficulty": "Very Hard",
+    "text": "\"वह अत्यंत सुंदर चित्र बनाता है।\" इस वाक्य में रेखांकित शब्द 'अत्यंत' व्याकरण की दृष्टि से क्या है?",
+    "explanation": "'अत्यंत' शब्द 'सुंदर' (विशेषण) की विशेषता बता रहा है, इसलिए यह प्रविशेषण का उदाहरण है।",
+    "options": [
+      { "text": "विशेषण", "isCorrect": false },
+      { "text": "प्रविशेषण", "isCorrect": true },
+      { "text": "क्रियाविशेषण", "isCorrect": false },
+      { "text": "संज्ञा", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 8",
+    "subject": "Hindi Grammar",
+    "difficulty": "Very Hard",
+    "text": "\"बच्चा रो-रोकर सो गया।\" इस वाक्य में 'रो-रोकर' किस प्रकार का क्रियाविशेषण है?",
+    "explanation": "'रो-रोकर' क्रिया के होने के तरीके या ढंग का बोध कराता है, इसलिए यह रीतिवाचक क्रियाविशेषण का उदाहरण है।",
+    "options": [
+      { "text": "कालवाचक क्रियाविशेषण", "isCorrect": false },
+      { "text": "रीतिवाचक क्रियाविशेषण", "isCorrect": true },
+      { "text": "स्थानवाचक क्रियाविशेषण", "isCorrect": false },
+      { "text": "परिमाणवाचक क्रियाविशेषण", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 8",
+    "subject": "Hindi Grammar",
+    "difficulty": "Very Hard",
+    "text": "\"संभवतः आज पिताजी आएँ।\" यह वाक्य काल के किस भेद के अंतर्गत आएगा?",
+    "explanation": "इस वाक्य में भविष्य में क्रिया के होने की संभावना व्यक्त की जा रही है, इसलिए यह संभाव्य भविष्यत् काल है।",
+    "options": [
+      { "text": "संभाव्य वर्तमान काल", "isCorrect": false },
+      { "text": "संभाव्य भविष्यत् काल", "isCorrect": true },
+      { "text": "संदिग्ध भविष्यत् काल", "isCorrect": false },
+      { "text": "सामान्य भविष्यत् काल", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 8",
+    "subject": "Hindi Grammar",
+    "difficulty": "Very Hard",
+    "text": "\"अध्यापक द्वारा छात्रों को पढ़ाया गया।\" यह वाक्य किस वाच्य का उदाहरण है?",
+    "explanation": "इस वाक्य में कर्म (छात्रों) की प्रधानता है और क्रिया कर्म के अनुसार बदल रही है, इसलिए यह कर्मवाच्य है।",
+    "options": [
+      { "text": "कर्तृवाच्य", "isCorrect": false },
+      { "text": "कर्मवाच्य", "isCorrect": true },
+      { "text": "भाववाच्य", "isCorrect": false },
+      { "text": "अकर्मक वाच्य", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 8",
+    "subject": "Hindi Grammar",
+    "difficulty": "Very Hard",
+    "text": "\"कृपया आज का अवकाश देने की कृपा करें।\" इस अशुद्ध वाक्य का शुद्ध रूप निम्नलिखित में से क्या होगा?",
+    "explanation": "वाक्य में 'कृपया' और 'कृपा करें' दोनों का एक साथ प्रयोग पुनरुक्ति दोष उत्पन्न करता है, इसलिए शुद्ध रूप \"आज का अवकाश देने की कृपा करें\" होगा।",
+    "options": [
+      { "text": "कृपया आज का अवकाश दें।", "isCorrect": false },
+      { "text": "आज का अवकाश देने की कृपा करें।", "isCorrect": true },
+      { "text": "कृपया मुझे आज का अवकाश देने की कृपा करें।", "isCorrect": false },
+      { "text": "आज का अवकाश कृपया दें।", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 8",
+    "subject": "Hindi Grammar",
+    "difficulty": "Very Hard",
+    "text": "\"शीला को दो बच्चे हैं।\" इस अशुद्ध वाक्य का शुद्ध रूप निम्नलिखित में से क्या होगा?",
+    "explanation": "संतानों के संबंध में 'को' परसर्ग का प्रयोग अशुद्ध है; इसके स्थान पर संबंध सूचक विभक्ति 'के' का प्रयोग होना चाहिए।",
+    "options": [
+      { "text": "शीला को दो बच्चे ही हैं।", "isCorrect": false },
+      { "text": "शीला के दो बच्चे हैं।", "isCorrect": true },
+      { "text": "शीला के पास दो बच्चे हैं।", "isCorrect": false },
+      { "text": "शीला का दो बच्चा है।", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 8",
+    "subject": "Hindi Grammar",
+    "difficulty": "Very Hard",
+    "text": "\"वहाँ सब प्रकार के सामान मिलते हैं।\" इस अशुद्ध वाक्य का व्याकरण सम्मत शुद्ध रूप क्या होगा?",
+    "explanation": "'सामान' शब्द सदैव एकवचन में ही प्रयुक्त होता है, इसलिए 'सामान मिलता है' शुद्ध होगा, 'सामान मिलते हैं' अशुद्ध है।",
+    "options": [
+      { "text": "वहाँ सब प्रकार के सामान मिलते हैं।", "isCorrect": false },
+      { "text": "वहाँ सब प्रकार का सामान मिलता है।", "isCorrect": true },
+      { "text": "वहाँ सब प्रकार का सामान मिलते हैं।", "isCorrect": false },
+      { "text": "वहाँ सब प्रकार के सामान मिलता है।", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 8",
+    "subject": "Hindi Grammar",
+    "difficulty": "Very Hard",
+    "text": "\"मेरे पास केवल मात्र एक रुपया है।\" इस अशुद्ध वाक्य का शुद्ध रूप निम्नलिखित में से क्या होगा?",
+    "explanation": "'केवल' और 'मात्र' दोनों शब्दों का एक साथ प्रयोग अशुद्ध है। शुद्ध वाक्य होगा: \"मेरे पास केवल एक रुपया है।\"",
+    "options": [
+      { "text": "मेरे पास मात्र केवल एक रुपया है।", "isCorrect": false },
+      { "text": "मेरे पास केवल एक रुपया है।", "isCorrect": true },
+      { "text": "मेरे पास मात्र एक रुपया है ही।", "isCorrect": false },
+      { "text": "मेरे पास केवल एक रुपये हैं।", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 8",
+    "subject": "Hindi Grammar",
+    "difficulty": "Very Hard",
+    "text": "'कलाधर' निम्नलिखित में से किस संज्ञा शब्द का सही पर्यायवाची है?",
+    "explanation": "'कलाधर' (कलाओं को धारण करने वाला) चंद्रमा का पर्यायवाची शब्द है। चंद्रमा के अन्य पर्यायवाची सुधाकर, शशांक, राकेश हैं।",
+    "options": [
+      { "text": "सूर्य", "isCorrect": false },
+      { "text": "चंद्रमा", "isCorrect": true },
+      { "text": "तारा", "isCorrect": false },
+      { "text": "आकाश", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 8",
+    "subject": "Hindi Grammar",
+    "difficulty": "Very Hard",
+    "text": "'स्थावर' शब्द का सही और उपयुक्त विलोम शब्द निम्नलिखित में से क्या होगा?",
+    "explanation": "'स्थावर' (जो एक जगह स्थिर रहे) का सही विलोम शब्द 'जंगम' (जो चल सके या गतिशील हो) होता है।",
+    "options": [
+      { "text": "अस्थिर", "isCorrect": false },
+      { "text": "जंगम", "isCorrect": true },
+      { "text": "चंचल", "isCorrect": false },
+      { "text": "जड़", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 8",
+    "subject": "Hindi Grammar",
+    "difficulty": "Very Hard",
+    "text": "'कौमुदी' शब्द निम्नलिखित में से किसका प्रसिद्ध पर्यायवाची है?",
+    "explanation": "'कौमुदी' चाँदनी (चंद्रिका) का पर्यायवाची शब्द है। चाँदनी के अन्य पर्यायवाची ज्योत्स्ना, चंद्रिका हैं।",
+    "options": [
+      { "text": "धूप", "isCorrect": false },
+      { "text": "चाँदनी", "isCorrect": true },
+      { "text": "रात", "isCorrect": false },
+      { "text": "बिजली", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 8",
+    "subject": "Hindi Grammar",
+    "difficulty": "Very Hard",
+    "text": "\"उलटी गंगा बहाना\" इस प्रसिद्ध मुहावरे का सही अर्थ निम्नलिखित में से क्या है?",
+    "explanation": "\"उलटी गंगा बहाना\" का अर्थ होता है समाज की स्थापित परंपराओं, नियमों या रीति-रिवाज के विपरीत कोई कार्य करना।",
+    "options": [
+      { "text": "नदी की धारा बदल देना", "isCorrect": false },
+      { "text": "नियम या परंपरा के विरुद्ध कार्य करना", "isCorrect": true },
+      { "text": "बहुत कठिन कार्य करना", "isCorrect": false },
+      { "text": "असंभव कार्य करना", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 8",
+    "subject": "Hindi Grammar",
+    "difficulty": "Very Hard",
+    "text": "\"हंसुआ के ब्याह में खुरपी का गीत\" इस लोकोक्ति का सही अर्थ निम्नलिखित में से क्या है?",
+    "explanation": "इस लोकोक्ति का अर्थ है कि किसी विशेष अवसर पर उससे सर्वथा असंगत, बेमेल या अनुपयुक्त बातें करना या काम करना।",
+    "options": [
+      { "text": "विवाह में गीत गाना", "isCorrect": false },
+      { "text": "असंगत बातें करना या बेमौका काम करना", "isCorrect": true },
+      { "text": "कृषि उपकरणों का प्रयोग करना", "isCorrect": false },
+      { "text": "बहुत खुशी मनाना", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 8",
+    "subject": "Hindi Grammar",
+    "difficulty": "Very Hard",
+    "text": "\"कंगाली में आटा गीला\" इस लोकोक्ति का सही अर्थ निम्नलिखित में से क्या होगा?",
+    "explanation": "इस लोकोक्ति का अर्थ है कि पहले से ही परेशानी या तंगी (आर्थिक तंगी) में होने पर कोई और अतिरिक्त मुसीबत या संकट आ जाना।",
+    "options": [
+      { "text": "गरीब होना", "isCorrect": false },
+      { "text": "मुसीबत पर और मुसीबत आना", "isCorrect": true },
+      { "text": "आटा खराब होना", "isCorrect": false },
+      { "text": "राशन कम होना", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 8",
+    "subject": "Hindi Grammar",
+    "difficulty": "Very Hard",
+    "text": "\"जहँ तहँ मज्जा मास रुचिर लखि परत बघारे। जित जित छिटकत हाड सेत कहुँ कहुँ रत्नाारे।\" इन काव्य पंक्तियों में कौन सा रस निष्पन्न हो रहा है?",
+    "explanation": "इन पंक्तियों में मांस, मज्जा और हड्डियों का अत्यंत घृणास्पद वर्णन है, जिससे जुगुप्सा (घृणा) का भाव जाग्रत होता है, अतः यहाँ बीभत्स रस है।",
+    "options": [
+      { "text": "रौद्र रस", "isCorrect": false },
+      { "text": "बीभत्स रस", "isCorrect": true },
+      { "text": "भयानक रस", "isCorrect": false },
+      { "text": "करुण रस", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 8",
+    "subject": "Hindi Grammar",
+    "difficulty": "Very Hard",
+    "text": "\"रघुपति राघव राजा राम।\" इस काव्य पंक्ति में निम्नलिखित में से कौन सा अलंकार प्रयुक्त हुआ है?",
+    "explanation": "इस पंक्ति में 'र' वर्ण की आवृत्ति बार-बार हुई है, इसलिए यहाँ अनुप्रास अलंकार है।",
+    "options": [
+      { "text": "यमक अलंकार", "isCorrect": false },
+      { "text": "अनुप्रास अलंकार", "isCorrect": true },
+      { "text": "रूपक अलंकार", "isCorrect": false },
+      { "text": "श्लेष अलंकार", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 8",
+    "subject": "Hindi Grammar",
+    "difficulty": "Very Hard",
+    "text": "\"कनक कनक ते सौ गुनी, मादकता अधिकाय। वा खाए बौराय जग, या पाए बौराय।\" इस पंक्ति में कौन सा अलंकार प्रयुक्त हुआ है?",
+    "explanation": "यहाँ 'कनक' शब्द दो बार आया है और दोनों के अर्थ भिन्न हैं (पहला धतूरा, दूसरा सोना), अतः यहाँ यमक अलंकार है।",
+    "options": [
+      { "text": "उपमा अलंकार", "isCorrect": false },
+      { "text": "यमक अलंकार", "isCorrect": true },
+      { "text": "रूपक अलंकार", "isCorrect": false },
+      { "text": "श्लेष अलंकार", "isCorrect": false }
+    ]
+  }
+]

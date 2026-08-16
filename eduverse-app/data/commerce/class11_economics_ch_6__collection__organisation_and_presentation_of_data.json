@@ -1,0 +1,182 @@
+[
+  {
+    "text": "What is the primary source of data?",
+    "options": [
+      "Data collected from secondary sources",
+      "Data collected from primary sources",
+      "Data collected from both primary and secondary sources",
+      "Data collected from government offices"
+    ],
+    "correctAnswer": "Data collected from primary sources",
+    "explanation": "Primary data is collected through original observations or experiments. It is collected from the first-hand information. For example, a survey conducted by a researcher to collect information about the consumer behaviour.",
+    "difficulty": "Easy",
+    "class": "Class 11",
+    "subject": "Economics",
+    "chapter": "Ch 6: Collection, Organisation and Presentation of Data"
+  },
+  {
+    "text": "Which of the following is an example of a census method?",
+    "options": [
+      "Conducting a survey of 1000 people in a city",
+      "Conducting a survey of all the people in a country",
+      "Conducting a survey of 50 people in a village",
+      "Conducting a survey of all the people in a state"
+    ],
+    "correctAnswer": "Conducting a survey of all the people in a country",
+    "explanation": "A census is a method of collecting data from the entire population. It is a complete count of the population. For example, the census conducted by the government to collect information about the population of the country.",
+    "difficulty": "Easy",
+    "class": "Class 11",
+    "subject": "Economics",
+    "chapter": "Ch 6: Collection, Organisation and Presentation of Data"
+  },
+  {
+    "text": "What is the main advantage of using a sample method?",
+    "options": [
+      "It is time-consuming and expensive",
+      "It is less time-consuming and less expensive",
+      "It is more accurate and reliable",
+      "It is less accurate and reliable"
+    ],
+    "correctAnswer": "It is less time-consuming and less expensive",
+    "explanation": "A sample method is a method of collecting data from a small part of the population. It is less time-consuming and less expensive compared to the census method. For example, a survey conducted by a researcher to collect information about the consumer behaviour.",
+    "difficulty": "Medium",
+    "class": "Class 11",
+    "subject": "Economics",
+    "chapter": "Ch 6: Collection, Organisation and Presentation of Data"
+  },
+  {
+    "text": "What is the main disadvantage of using a census method?",
+    "options": [
+      "It is less time-consuming and less expensive",
+      "It is more accurate and reliable",
+      "It is time-consuming and expensive",
+      "It is less accurate and reliable"
+    ],
+    "correctAnswer": "It is time-consuming and expensive",
+    "explanation": "A census is a method of collecting data from the entire population. It is a complete count of the population. However, it is time-consuming and expensive. For example, the census conducted by the government to collect information about the population of the country.",
+    "difficulty": "Medium",
+    "class": "Class 11",
+    "subject": "Economics",
+    "chapter": "Ch 6: Collection, Organisation and Presentation of Data"
+  },
+  {
+    "text": "What is the purpose of classification of data?",
+    "options": [
+      "To present the data in a simple and easy to understand format",
+      "To make the data more complex and difficult to understand",
+      "To identify the patterns and trends in the data",
+      "To make the data more accurate and reliable"
+    ],
+    "correctAnswer": "To identify the patterns and trends in the data",
+    "explanation": "Classification of data is the process of grouping the data into different categories. It helps to identify the patterns and trends in the data. For example, classifying the data on the basis of age, sex, income, etc.",
+    "difficulty": "Medium",
+    "class": "Class 11",
+    "subject": "Economics",
+    "chapter": "Ch 6: Collection, Organisation and Presentation of Data"
+  },
+  {
+    "text": "What is the purpose of frequency distribution?",
+    "options": [
+      "To present the data in a simple and easy to understand format",
+      "To identify the patterns and trends in the data",
+      "To make the data more complex and difficult to understand",
+      "To make the data more accurate and reliable"
+    ],
+    "correctAnswer": "To identify the patterns and trends in the data",
+    "explanation": "Frequency distribution is a table that shows the number of observations in each category. It helps to identify the patterns and trends in the data. For example, a frequency distribution table that shows the number of people in each age group.",
+    "difficulty": "Medium",
+    "class": "Class 11",
+    "subject": "Economics",
+    "chapter": "Ch 6: Collection, Organisation and Presentation of Data"
+  },
+  {
+    "text": "What is the purpose of tabulation of data?",
+    "options": [
+      "To present the data in a simple and easy to understand format",
+      "To make the data more complex and difficult to understand",
+      "To identify the patterns and trends in the data",
+      "To make the data more accurate and reliable"
+    ],
+    "correctAnswer": "To present the data in a simple and easy to understand format",
+    "explanation": "Tabulation of data is the process of presenting the data in a table format. It helps to present the data in a simple and easy to understand format. For example, a table that shows the number of people in each age group.",
+    "difficulty": "Easy",
+    "class": "Class 11",
+    "subject": "Economics",
+    "chapter": "Ch 6: Collection, Organisation and Presentation of Data"
+  },
+  {
+    "text": "What is the purpose of diagrammatic presentation?",
+    "options": [
+      "To present the data in a simple and easy to understand format",
+      "To make the data more complex and difficult to understand",
+      "To identify the patterns and trends in the data",
+      "To make the data more accurate and reliable"
+    ],
+    "correctAnswer": "To present the data in a simple and easy to understand format",
+    "explanation": "Diagrammatic presentation is the process of presenting the data in a graphical format. It helps to present the data in a simple and easy to understand format. For example, a bar chart or a pie chart.",
+    "difficulty": "Easy",
+    "class": "Class 11",
+    "subject": "Economics",
+    "chapter": "Ch 6: Collection, Organisation and Presentation of Data"
+  },
+  {
+    "text": "What is the purpose of graphic presentation?",
+    "options": [
+      "To present the data in a simple and easy to understand format",
+      "To make the data more complex and difficult to understand",
+      "To identify the patterns and trends in the data",
+      "To make the data more accurate and reliable"
+    ],
+    "correctAnswer": "To identify the patterns and trends in the data",
+    "explanation": "Graphic presentation is the process of presenting the data in a graphical format. It helps to identify the patterns and trends in the data. For example, a histogram or an ogive.",
+    "difficulty": "Medium",
+    "class": "Class 11",
+    "subject": "Economics",
+    "chapter": "Ch 6: Collection, Organisation and Presentation of Data"
+  },
+  {
+    "text": "What is the main advantage of using a bar chart?",
+    "options": [
+      "It is difficult to understand and interpret",
+      "It is easy to understand and interpret",
+      "It is time-consuming and expensive",
+      "It is less accurate and reliable"
+    ],
+    "correctAnswer": "It is easy to understand and interpret",
+    "explanation": "A bar chart is a type of diagrammatic presentation that is used to compare the data across different categories. It is easy to understand and interpret. For example, a bar chart that shows the number of people in each age group.",
+    "difficulty": "Easy",
+    "class": "Class 11",
+    "subject": "Economics",
+    "chapter": "Ch 6: Collection, Organisation and Presentation of Data"
+  },
+  {
+    "text": "What is the main disadvantage of using a pie chart?",
+    "options": [
+      "It is difficult to understand and interpret",
+      "It is easy to understand and interpret",
+      "It is time-consuming and expensive",
+      "It is less accurate and reliable"
+    ],
+    "correctAnswer": "It is difficult to understand and interpret",
+    "explanation": "A pie chart is a type of diagrammatic presentation that is used to show the proportion of different categories. However, it can be difficult to understand and interpret. For example, a pie chart that shows the proportion of people in each age group.",
+    "difficulty": "Medium",
+    "class": "Class 11",
+    "subject": "Economics",
+    "chapter": "Ch 6: Collection, Organisation and Presentation of Data"
+  },
+  {
+    "text": "What is the main advantage of using a histogram?",
+    "options": [
+      "It is difficult to understand and interpret",
+      "It is easy to understand and interpret",
+      "It is time-consuming and expensive",
+      "It is less accurate and reliable"
+    ],
+    "correctAnswer": "It is easy to understand and interpret",
+    "explanation": "A histogram is a type of graphic presentation that is used to show the distribution of data. It is easy to understand and interpret. For example, a histogram that shows the distribution of income across different age groups.",
+    "difficulty": "Medium",
+    "class": "Class 11",
+    "subject": "Economics",
+    "chapter": "Ch 6: Collection, Organisation and Presentation of Data"
+  }
+]

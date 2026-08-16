@@ -1,0 +1,327 @@
+[
+  {
+    "class": "Class 8",
+    "subject": "Hindi Grammar",
+    "difficulty": "Very Hard",
+    "text": "'वाङ्मय' शब्द का सही और व्याकरण सम्मत संधि-विच्छेद निम्नलिखित में से क्या होगा?",
+    "explanation": "व्यंजन संधि के नियम के अनुसार, यदि वर्ग के प्रथम वर्ण (क) के बाद पंचम वर्ण (म) आए, तो प्रथम वर्ण अपने वर्ग के पंचम वर्ण (ङ) में बदल जाता है। अतः 'वाक् + मय = वाङ्मय' है।",
+    "options": [
+      { "text": "वाङ + मय", "isCorrect": false },
+      { "text": "वाक् + मय", "isCorrect": true },
+      { "text": "वाण + मय", "isCorrect": false },
+      { "text": "वाग् + मय", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 8",
+    "subject": "Hindi Grammar",
+    "difficulty": "Very Hard",
+    "text": "'प्रत्युपकार' शब्द का सही संधि-विच्छेद और संधि का नाम निम्नलिखित में से क्या होगा?",
+    "explanation": "'प्रति + उपकार' मिलकर 'प्रत्युपकार' बनता है। यहाँ 'इ + उ = यु' का नियम लागू हुआ है, जो यण स्वर संधि का उदाहरण है।",
+    "options": [
+      { "text": "प्रति + अपकार (यण संधि)", "isCorrect": false },
+      { "text": "प्रति + उपकार (यण संधि)", "isCorrect": true },
+      { "text": "प्रत्यु + कार (व्यंजन संधि)", "isCorrect": false },
+      { "text": "प्रति + उपकार (गुण संधि)", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 8",
+    "subject": "Hindi Grammar",
+    "difficulty": "Very Hard",
+    "text": "'यशोधरा' शब्द का सही संधि-विच्छेद निम्नलिखित में से क्या होगा?",
+    "explanation": "'यशः + धरा' मिलकर 'यशोधरा' बनता है। विसर्ग के पहले 'अ' होने और बाद में किसी वर्ग का चतुर्थ वर्ण (ध) होने के कारण विसर्ग 'ओ' में परिवर्तित हो जाता है। यह विसर्ग संधि है।",
+    "options": [
+      { "text": "यशो + धरा", "isCorrect": false },
+      { "text": "यशः + धरा", "isCorrect": true },
+      { "text": "यश + धरा", "isCorrect": false },
+      { "text": "यशः + अधरा", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 8",
+    "subject": "Hindi Grammar",
+    "difficulty": "Very Hard",
+    "text": "'अन्वेषण' शब्द का सही संधि-विच्छेद निम्नलिखित में से क्या होगा?",
+    "explanation": "'अनु + एषण' मिलकर 'अन्वेषण' बनता है। यहाँ 'उ + ए = वे' का नियम प्रयुक्त हुआ है, जो यण स्वर संधि का उदाहरण है।",
+    "options": [
+      { "text": "अनु + ऐषण", "isCorrect": false },
+      { "text": "अनु + एषण", "isCorrect": true },
+      { "text": "अन्व + एषण", "isCorrect": false },
+      { "text": "अन + वेषण", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 8",
+    "subject": "Hindi Grammar",
+    "difficulty": "Very Hard",
+    "text": "'कनफटा' (कान है फटा जिसका अर्थात् एक विशेष नाथ संप्रदाय का साधू) में कौन सा समास प्रयुक्त हुआ है?",
+    "explanation": "जब दोनों पद प्रधान न होकर किसी तीसरे विशेष संज्ञा पद (नाथ संप्रदाय के साधू) की ओर संकेत करते हैं, तो वहाँ बहुव्रीहि समास होता है।",
+    "options": [
+      { "text": "कर्मधारय समास", "isCorrect": false },
+      { "text": "बहुव्रीहि समास", "isCorrect": true },
+      { "text": "तत्पुरुष समास", "isCorrect": false },
+      { "text": "द्वंद्व समास", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 8",
+    "subject": "Hindi Grammar",
+    "difficulty": "Very Hard",
+    "text": "'पर्णकुटी' (पर्ण या पत्तियों से निर्मित कुटी) में कौन सा समास प्रयुक्त हुआ है?",
+    "explanation": "'पर्णकुटी' का विग्रह 'पर्ण (पत्तियों) से बनी कुटी' है। इसमें माध्यम सूचक विभक्ति 'से' और मध्य पद 'बनी' का लोप होने के कारण यह लुप्तपद तत्पुरुष समास है।",
+    "options": [
+      { "text": "अव्ययीभाव समास", "isCorrect": false },
+      { "text": "तत्पुरुष समास", "isCorrect": true },
+      { "text": "बहुव्रीहि समास", "isCorrect": false },
+      { "text": "कर्मधारय समास", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 8",
+    "subject": "Hindi Grammar",
+    "difficulty": "Very Hard",
+    "text": "'सुखप्राप्त' (सुख को प्राप्त) शब्द में कौन सा तत्पुरुष समास प्रयुक्त है?",
+    "explanation": "'सुखप्राप्त' का समास विग्रह 'सुख को प्राप्त' होता है। इसमें कर्म कारक की विभक्ति 'को' का लोप होने के कारण यह कर्म तत्पुरुष समास है।",
+    "options": [
+      { "text": "करण तत्पुरुष", "isCorrect": false },
+      { "text": "कर्म तत्पुरुष", "isCorrect": true },
+      { "text": "संप्रदान तत्पुरुष", "isCorrect": false },
+      { "text": "अपादान तत्पुरुष", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 8",
+    "subject": "Hindi Grammar",
+    "difficulty": "Very Hard",
+    "text": "'धर्मभ्रष्ट' (धर्म से भ्रष्ट) में कौन सा तत्पुरुष समास प्रयुक्त हुआ है?",
+    "explanation": "'धर्मभ्रष्ट' का विग्रह 'धर्म से भ्रष्ट' होता है। यहाँ धर्म से अलग होने या विमुख होने का भाव होने के कारण अपादान तत्पुरुष समास है।",
+    "options": [
+      { "text": "करण तत्पुरुष", "isCorrect": false },
+      { "text": "अपादान तत्पुरुष", "isCorrect": true },
+      { "text": "संबंध तत्पुरुष", "isCorrect": false },
+      { "text": "अधिकरण तत्पुरुष", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 8",
+    "subject": "Hindi Grammar",
+    "difficulty": "Very Hard",
+    "text": "\"वह बहुत तेज दौड़ता है।\" इस वाक्य में 'तेज' शब्द किस प्रकार का क्रियाविशेषण है?",
+    "explanation": "'तेज' शब्द क्रिया 'दौड़ता है' के होने के ढंग या रीति को स्पष्ट कर रहा है, इसलिए यह रीतिवाचक क्रियाविशेषण है।",
+    "options": [
+      { "text": "कालवाचक क्रियाविशेषण", "isCorrect": false },
+      { "text": "रीतिवाचक क्रियाविशेषण", "isCorrect": true },
+      { "text": "स्थानवाचक क्रियाविशेषण", "isCorrect": false },
+      { "text": "परिमाणवाचक क्रियाविशेषण", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 8",
+    "subject": "Hindi Grammar",
+    "difficulty": "Very Hard",
+    "text": "विशेषण की तुलनात्मक रूप से तीन अवस्थाएँ होती हैं। 'लघु' शब्द का सही उत्तमावस्था रूप क्या होगा?",
+    "explanation": "विशेषण की तीन अवस्थाएँ होती हैं: मूलावस्था (लघु), उत्तरावस्था (लघुतर), और उत्तमावस्था (लघुतम)।",
+    "options": [
+      { "text": "लघुतर", "isCorrect": false },
+      { "text": "लघुतम", "isCorrect": true },
+      { "text": "सबसे लघुतर", "isCorrect": false },
+      { "text": "लघुता", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 8",
+    "subject": "Hindi Grammar",
+    "difficulty": "Very Hard",
+    "text": "\"पिताजी अभी दफ्तर से आए होंगे।\" यह वाक्य भूतकाल के किस भेद का सही उदाहरण है?",
+    "explanation": "इस वाक्य में क्रिया के भूतकाल में संपन्न होने में संदेह प्रकट हो रहा है ('आए होंगे'), इसलिए यह संदिग्ध भूतकाल है।",
+    "options": [
+      { "text": "आसन्न भूतकाल", "isCorrect": false },
+      { "text": "संदिग्ध भूतकाल", "isCorrect": true },
+      { "text": "सामान्य भूतकाल", "isCorrect": false },
+      { "text": "पूर्ण भूतकाल", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 8",
+    "subject": "Hindi Grammar",
+    "difficulty": "Very Hard",
+    "text": "निम्नलिखित में से कौन सा शब्द विशेषण से बनी भाववाचक संज्ञा का सही उदाहरण है?",
+    "explanation": "'सुंदर' विशेषण में 'ता' प्रत्यय जोड़कर 'सुंदरता' भाववाचक संज्ञा बनाई गई है। 'बचपन' जातिवाचक संज्ञा से तथा 'ममत्व' सर्वनाम से बना है।",
+    "options": [
+      { "text": "बचपन", "isCorrect": false },
+      { "text": "सुंदरता", "isCorrect": true },
+      { "text": "ममत्व", "isCorrect": false },
+      { "text": "दौड़", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 8",
+    "subject": "Hindi Grammar",
+    "difficulty": "Very Hard",
+    "text": "\"यह काम आप पर निर्भर करता है।\" इस अशुद्ध वाक्य का शुद्ध रूप निम्नलिखित में से क्या होगा?",
+    "explanation": "'निर्भर' शब्द के साथ 'करता है' क्रिया का प्रयोग निरर्थक और अशुद्ध है। शुद्ध रूप होगा: \"यह काम आप पर निर्भर है।\"",
+    "options": [
+      { "text": "यह काम आपके ऊपर निर्भर करता है।", "isCorrect": false },
+      { "text": "यह काम आप पर निर्भर है।", "isCorrect": true },
+      { "text": "यह काम आप पर निर्भर करता ही है।", "isCorrect": false },
+      { "text": "यह काम आप पर ही निर्भर करता है।", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 8",
+    "subject": "Hindi Grammar",
+    "difficulty": "Very Hard",
+    "text": "\"सारे देश भर में यह बात फैल गई।\" इस वाक्य का शुद्ध रूप निम्नलिखित में से क्या होगा?",
+    "explanation": "' सारे' और 'भर' दोनों का एक साथ प्रयोग पुनरुक्ति दोष उत्पन्न करता है। शुद्ध रूप होगा: \"देश भर में यह बात फैल गई।\"",
+    "options": [
+      { "text": "सारे देश में भर यह बात फैल गई।", "isCorrect": false },
+      { "text": "देश भर में यह बात फैल गई।", "isCorrect": true },
+      { "text": "पूरे सारे देश भर में यह बात फैल गई।", "isCorrect": false },
+      { "text": "सारे देश भर में ही यह बात फैल गई।", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 8",
+    "subject": "Hindi Grammar",
+    "difficulty": "Very Hard",
+    "text": "निम्नलिखित वाक्यों में से कौन सा वाक्य व्याकरणिक रूप से पूर्णतः शुद्ध है?",
+    "explanation": "'केवल' और 'मात्र' दोनों शब्दों का एक साथ प्रयोग करना अशुद्ध है, अतः 'उसके पास केवल एक घड़ी है' पूर्णतः शुद्ध रूप है।",
+    "options": [
+      { "text": "उसके पास केवल मात्र एक घड़ी है।", "isCorrect": false },
+      { "text": "उसके पास केवल एक घड़ी है।", "isCorrect": true },
+      { "text": "उसके पास मात्र केवल एक घड़ी है।", "isCorrect": false },
+      { "text": "उसके पास केवल एक घड़ियाँ हैं।", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 8",
+    "subject": "Hindi Grammar",
+    "difficulty": "Very Hard",
+    "text": "\"राम ने पुस्तक पढ़ा।\" इस अशुद्ध वाक्य का शुद्ध रूप निम्नलिखित में से क्या होगा?",
+    "explanation": "भूतकाल में जब कर्ता के साथ 'ने' विभक्ति का प्रयोग होता है, तो क्रिया कर्ता के अनुसार न बदलकर कर्म (पुस्तक - स्त्रीलिंग) के अनुसार 'पढ़ी' हो जाती है।",
+    "options": [
+      { "text": "राम ने पुस्तक को पढ़ा।", "isCorrect": false },
+      { "text": "राम ने पुस्तक पढ़ी।", "isCorrect": true },
+      { "text": "राम पुस्तक पढ़ा।", "isCorrect": false },
+      { "text": "राम ने पुस्तकें पढ़ा।", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 8",
+    "subject": "Hindi Grammar",
+    "difficulty": "Very Hard",
+    "text": "'व्योमकेश' निम्नलिखित में से किस देवता का एक प्रसिद्ध पर्यायवाची शब्द है?",
+    "explanation": "'व्योमकेश' (आकाश रूपी जटाओं वाले) भगवान शिव का एक प्रसिद्ध पर्यायवाची शब्द है।",
+    "options": [
+      { "text": "भगवान विष्णु", "isCorrect": false },
+      { "text": "भगवान शिव", "isCorrect": true },
+      { "text": "भगवान इंद्र", "isCorrect": false },
+      { "text": "भगवान ब्रह्मा", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 8",
+    "subject": "Hindi Grammar",
+    "difficulty": "Very Hard",
+    "text": "'उन्मीलन' शब्द का सही और व्याकरण सम्मत विलोम शब्द निम्नलिखित में से क्या होगा?",
+    "explanation": "'उन्मीलन' (खुलना या विकसित होना) का विलोम शब्द 'निमीलन' (बंद होना या मुँदना) होता है। 'रोपण' का विलोम 'उन्मूलन' होता है।",
+    "options": [
+      { "text": "रोपण", "isCorrect": false },
+      { "text": "निमीलन", "isCorrect": true },
+      { "text": "अवमीलन", "isCorrect": false },
+      { "text": "अनुमीलन", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 8",
+    "subject": "Hindi Grammar",
+    "difficulty": "Very Hard",
+    "text": "'उदधि' शब्द निम्नलिखित में से किसका सही और तत्सम पर्यायवाची है?",
+    "explanation": "'उदधि' (जल को धारण करने वाला) समुद्र का पर्यायवाची है। समुद्र के अन्य पर्यायवाची पयोधि, जलधि, वारिधि हैं।",
+    "options": [
+      { "text": "नदी", "isCorrect": false },
+      { "text": "समुद्र", "isCorrect": true },
+      { "text": "बादल", "isCorrect": false },
+      { "text": "तालाब", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 8",
+    "subject": "Hindi Grammar",
+    "difficulty": "Very Hard",
+    "text": "\"गड़े मुर्दे उखाड़ना\" इस मुहावरे का सही अर्थ निम्नलिखित में से क्या है?",
+    "explanation": "\"गड़े मुर्दे उखाड़ना\" का अर्थ होता है बहुत पुरानी, दबी हुई या भूली हुई बातों या विवादों को दोबारा उठाना या दोहराना।",
+    "options": [
+      { "text": "कब्र से शव बाहर निकालना", "isCorrect": false },
+      { "text": "पुरानी बातों को याद करना या दोहराना", "isCorrect": true },
+      { "text": "पिछली दुश्मनी को पूरी तरह भुलाना", "isCorrect": false },
+      { "text": "नया काम शुरू करना", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 8",
+    "subject": "Hindi Grammar",
+    "difficulty": "Very Hard",
+    "text": "\"एक तो करेला, दूजे नीम चढ़ा\" इस प्रसिद्ध लोकोक्ति का सही अर्थ क्या है?",
+    "explanation": "इस लोकोक्ति का अर्थ है कि किसी व्यक्ति में पहले से ही कोई अवगुण हो और उसमें किसी दूसरे अवगुण का भी समावेश हो जाना (दोष पर दोष होना)।",
+    "options": [
+      { "text": "करेले को नीम के पेड़ पर उगाना", "isCorrect": false },
+      { "text": "एक दोष के साथ दूसरा दोष भी आ जाना", "isCorrect": true },
+      { "text": "अत्यधिक कड़वा होना", "isCorrect": false },
+      { "text": "दो अच्छी चीजों का एक साथ मिलना", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 8",
+    "subject": "Hindi Grammar",
+    "difficulty": "Very Hard",
+    "text": "\"होनहार बिरवान के होत चीकने पात\" इस लोकोक्ति का सही अर्थ निम्नलिखित में से क्या होगा?",
+    "explanation": "इस लोकोक्ति का अर्थ है कि प्रतिभाशाली या महान बनने वाले व्यक्तियों के लक्षण उनके बचपन में ही प्रकट होने लगते हैं।",
+    "options": [
+      { "text": "स्वस्थ पौधों की पत्तियां चिकनी होती हैं", "isCorrect": false },
+      { "text": "होनहार व्यक्ति के लक्षण बचपन से ही दिखाई देने लगते हैं", "isCorrect": true },
+      { "text": "अच्छी शुरुआत होना", "isCorrect": false },
+      { "text": "पौधे लगाना", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 8",
+    "subject": "Hindi Grammar",
+    "difficulty": "Very Hard",
+    "text": "\"अति मलीन वृषभानु कुमारी। हरि श्रम जल भीज्यो उर अंचल, तिहि लालच न धुवावति सारी।\" इन काव्य पंक्तियों में कौन सा रस निष्पन्न हो रहा है?",
+    "explanation": "इन पंक्तियों में राधा की विरह-अवस्था (कृष्ण के वियोग में) का अत्यंत मर्मस्पर्शी वर्णन किया गया है, इसलिए यहाँ वियोग शृंगार (विप्रलभ शृंगार) रस है।",
+    "options": [
+      { "text": "संयोग शृंगार रस", "isCorrect": false },
+      { "text": "वियोग शृंगार रस", "isCorrect": true },
+      { "text": "करुण रस", "isCorrect": false },
+      { "text": "शांत रस", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 8",
+    "subject": "Hindi Grammar",
+    "difficulty": "Very Hard",
+    "text": "\"मैया मैं तो चंद्र-खिलौना लैहौं।\" इस काव्य पंक्ति में कौन सा अलंकार प्रयुक्त हुआ है?",
+    "explanation": "यहाँ उपमेय 'चंद्र' पर उपमान 'खिलौना' का अभेद आरोप किया गया है (चंद्रमा को ही खिलौना मान लिया गया है), इसलिए यहाँ रूपक अलंकार है।",
+    "options": [
+      { "text": "उपमा अलंकार", "isCorrect": false },
+      { "text": "रूपक अलंकार", "isCorrect": true },
+      { "text": "उत्प्रेक्षा अलंकार", "isCorrect": false },
+      { "text": "यमक अलंकार", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 8",
+    "subject": "Hindi Grammar",
+    "difficulty": "Very Hard",
+    "text": "\"पीपर पात सरिस मन डोला।\" इस पंक्ति में निम्नलिखित में से कौन सा अलंकार प्रयुक्त हुआ है?",
+    "explanation": "यहाँ उपमेय (मन) की तुलना उपमान (पीपल के पत्ते) से 'सरिस' (वाचक शब्द) के माध्यम से की गई है, इसलिए यहाँ उपमा अलंकार है।",
+    "options": [
+      { "text": "रूपक अलंकार", "isCorrect": false },
+      { "text": "उपमा अलंकार", "isCorrect": true },
+      { "text": "उत्प्रेक्षा अलंकार", "isCorrect": false },
+      { "text": "श्लेष अलंकार", "isCorrect": false }
+    ]
+  }
+]

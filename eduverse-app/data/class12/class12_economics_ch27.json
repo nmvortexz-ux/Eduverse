@@ -1,0 +1,167 @@
+[
+  {
+    "text": "What are capital receipts?",
+    "options": [
+      "Revenue generated from the sale of goods and services",
+      "Loans and deposits received from the public",
+      "Revenue generated from taxes",
+      "Loans and deposits received from the central bank"
+    ],
+    "correctAnswer": "Loans and deposits received from the public",
+    "explanation": "Capital receipts are the inflows of money into the government's account, which are not related to the current year's transactions. These include loans and deposits received from the public, foreign aid, and the sale of public assets.",
+    "difficulty": "Easy",
+    "class": "Class 12",
+    "subject": "Economics",
+    "chapter": "Ch 4: Government Budget and the Economy"
+  },
+  {
+    "text": "What is the difference between revenue expenditure and capital expenditure?",
+    "options": [
+      "Revenue expenditure is for the current year, while capital expenditure is for future years",
+      "Revenue expenditure is for future years, while capital expenditure is for the current year",
+      "Revenue expenditure is for the current year, while capital expenditure is for the current year's assets",
+      "Revenue expenditure is for the current year's assets, while capital expenditure is for future years"
+    ],
+    "correctAnswer": "Revenue expenditure is for the current year, while capital expenditure is for the current year's assets",
+    "explanation": "Revenue expenditure refers to the government's spending on goods and services for the current year, such as salaries, pensions, and interest payments. Capital expenditure, on the other hand, refers to the government's spending on assets that will last for more than a year, such as infrastructure projects.",
+    "difficulty": "Medium",
+    "class": "Class 12",
+    "subject": "Economics",
+    "chapter": "Ch 4: Government Budget and the Economy"
+  },
+  {
+    "text": "What is the fiscal deficit?",
+    "options": [
+      "The difference between revenue receipts and capital receipts",
+      "The difference between revenue expenditure and capital expenditure",
+      "The difference between revenue receipts and revenue expenditure",
+      "The difference between capital receipts and capital expenditure"
+    ],
+    "correctAnswer": "The difference between revenue expenditure and capital receipts",
+    "explanation": "The fiscal deficit is the difference between the government's revenue expenditure and its capital receipts. It represents the amount by which the government's spending exceeds its inflows of money.",
+    "difficulty": "Easy",
+    "class": "Class 12",
+    "subject": "Economics",
+    "chapter": "Ch 4: Government Budget and the Economy"
+  },
+  {
+    "text": "What is the primary deficit?",
+    "options": [
+      "The difference between revenue receipts and revenue expenditure",
+      "The difference between capital receipts and capital expenditure",
+      "The difference between revenue expenditure and interest payments",
+      "The difference between interest payments and capital receipts"
+    ],
+    "correctAnswer": "The difference between revenue expenditure and interest payments",
+    "explanation": "The primary deficit is the difference between the government's revenue expenditure and its interest payments. It represents the amount by which the government's spending exceeds its interest payments.",
+    "difficulty": "Medium",
+    "class": "Class 12",
+    "subject": "Economics",
+    "chapter": "Ch 4: Government Budget and the Economy"
+  },
+  {
+    "text": "What is the revenue deficit?",
+    "options": [
+      "The difference between revenue receipts and revenue expenditure",
+      "The difference between capital receipts and capital expenditure",
+      "The difference between revenue expenditure and interest payments",
+      "The difference between interest payments and capital receipts"
+    ],
+    "correctAnswer": "The difference between revenue receipts and revenue expenditure",
+    "explanation": "The revenue deficit is the difference between the government's revenue receipts and its revenue expenditure. It represents the amount by which the government's inflows of money fall short of its spending.",
+    "difficulty": "Easy",
+    "class": "Class 12",
+    "subject": "Economics",
+    "chapter": "Ch 4: Government Budget and the Economy"
+  },
+  {
+    "text": "What is the accounting entry for the government's fiscal deficit?",
+    "options": [
+      "Debit: Capital Receipts, Credit: Revenue Expenditure",
+      "Debit: Revenue Expenditure, Credit: Capital Receipts",
+      "Debit: Capital Receipts, Credit: Revenue Expenditure",
+      "Debit: Revenue Expenditure, Credit: Capital Receipts"
+    ],
+    "correctAnswer": "Debit: Revenue Expenditure, Credit: Capital Receipts",
+    "explanation": "The accounting entry for the government's fiscal deficit is Debit: Revenue Expenditure, Credit: Capital Receipts. This represents the difference between the government's revenue expenditure and its capital receipts.",
+    "difficulty": "Hard",
+    "class": "Class 12",
+    "subject": "Economics",
+    "chapter": "Ch 4: Government Budget and the Economy"
+  },
+  {
+    "text": "What is the accounting entry for the government's primary deficit?",
+    "options": [
+      "Debit: Revenue Expenditure, Credit: Interest Payments",
+      "Debit: Interest Payments, Credit: Revenue Expenditure",
+      "Debit: Revenue Expenditure, Credit: Interest Payments",
+      "Debit: Interest Payments, Credit: Revenue Expenditure"
+    ],
+    "correctAnswer": "Debit: Revenue Expenditure, Credit: Interest Payments",
+    "explanation": "The accounting entry for the government's primary deficit is Debit: Revenue Expenditure, Credit: Interest Payments. This represents the difference between the government's revenue expenditure and its interest payments.",
+    "difficulty": "Hard",
+    "class": "Class 12",
+    "subject": "Economics",
+    "chapter": "Ch 4: Government Budget and the Economy"
+  },
+  {
+    "text": "What is the accounting entry for the government's revenue deficit?",
+    "options": [
+      "Debit: Revenue Receipts, Credit: Revenue Expenditure",
+      "Debit: Revenue Expenditure, Credit: Revenue Receipts",
+      "Debit: Revenue Receipts, Credit: Revenue Expenditure",
+      "Debit: Revenue Expenditure, Credit: Revenue Receipts"
+    ],
+    "correctAnswer": "Debit: Revenue Expenditure, Credit: Revenue Receipts",
+    "explanation": "The accounting entry for the government's revenue deficit is Debit: Revenue Expenditure, Credit: Revenue Receipts. This represents the difference between the government's revenue expenditure and its revenue receipts.",
+    "difficulty": "Hard",
+    "class": "Class 12",
+    "subject": "Economics",
+    "chapter": "Ch 4: Government Budget and the Economy"
+  },
+  {
+    "text": "What is the relationship between the government's fiscal deficit and its revenue deficit?",
+    "options": [
+      "Fiscal deficit = Revenue deficit + Interest payments",
+      "Fiscal deficit = Revenue deficit - Interest payments",
+      "Fiscal deficit = Revenue deficit + Capital receipts",
+      "Fiscal deficit = Revenue deficit - Capital receipts"
+    ],
+    "correctAnswer": "Fiscal deficit = Revenue deficit + Interest payments",
+    "explanation": "The government's fiscal deficit is equal to its revenue deficit plus interest payments. This is because the fiscal deficit includes both the revenue deficit and the interest payments on the government's debt.",
+    "difficulty": "Medium",
+    "class": "Class 12",
+    "subject": "Economics",
+    "chapter": "Ch 4: Government Budget and the Economy"
+  },
+  {
+    "text": "What is the relationship between the government's primary deficit and its fiscal deficit?",
+    "options": [
+      "Primary deficit = Fiscal deficit - Interest payments",
+      "Primary deficit = Fiscal deficit + Interest payments",
+      "Primary deficit = Fiscal deficit - Revenue deficit",
+      "Primary deficit = Fiscal deficit + Revenue deficit"
+    ],
+    "correctAnswer": "Primary deficit = Fiscal deficit - Interest payments",
+    "explanation": "The government's primary deficit is equal to its fiscal deficit minus interest payments. This is because the primary deficit excludes interest payments, which are included in the fiscal deficit.",
+    "difficulty": "Medium",
+    "class": "Class 12",
+    "subject": "Economics",
+    "chapter": "Ch 4: Government Budget and the Economy"
+  },
+  {
+    "text": "What is the relationship between the government's revenue deficit and its fiscal deficit?",
+    "options": [
+      "Revenue deficit = Fiscal deficit - Interest payments",
+      "Revenue deficit = Fiscal deficit + Interest payments",
+      "Revenue deficit = Fiscal deficit - Capital receipts",
+      "Revenue deficit = Fiscal deficit + Capital receipts"
+    ],
+    "correctAnswer": "Revenue deficit = Fiscal deficit - Interest payments",
+    "explanation": "The government's revenue deficit is equal to its fiscal deficit minus interest payments. This is because the revenue deficit excludes interest payments, which are included in the fiscal deficit.",
+    "difficulty": "Medium",
+    "class": "Class 12",
+    "subject": "Economics",
+    "chapter": "Ch 4: Government Budget and the Economy"
+  }
+]

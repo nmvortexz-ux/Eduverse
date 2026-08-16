@@ -1,0 +1,212 @@
+[
+  {
+    "text": "The Indus Valley Civilisation is also known as the Harappan Civilisation.",
+    "options": [
+      "True",
+      "False",
+      "Harappan and Indus Valley are the same",
+      "Harappan is older than Indus Valley"
+    ],
+    "correctAnswer": "True",
+    "explanation": "The Indus Valley Civilisation is also known as the Harappan Civilisation. It is one of the four major ancient civilizations of the world, along with ancient Egypt, Mesopotamia, and the Shang Dynasty of China. The Indus Valley Civilisation is known for its sophisticated urban planning, architecture, and water management systems.",
+    "difficulty": "Easy",
+    "class": "Class 11",
+    "subject": "GK",
+    "chapter": "Ch 5: History, Culture & Heritage"
+  },
+  {
+    "text": "The Mauryan Empire was founded by Chandragupta Maurya.",
+    "options": [
+      "Chandragupta Maurya",
+      "Buddha",
+      "Ashoka",
+      "Samrat Ashoka"
+    ],
+    "correctAnswer": "Chandragupta Maurya",
+    "explanation": "Chandragupta Maurya, also known as Samrat Chandragupta, was the founder of the Mauryan Empire. He was a skilled military leader who united various tribes and kingdoms to form a vast empire.",
+    "difficulty": "Easy",
+    "class": "Class 11",
+    "subject": "GK",
+    "chapter": "Ch 5: History, Culture & Heritage"
+  },
+  {
+    "text": "The Gupta Empire was known for its significant contributions to mathematics.",
+    "options": [
+      "True",
+      "False",
+      "Gupta Empire was known for its significant contributions to astronomy",
+      "Gupta Empire was known for its significant contributions to medicine"
+    ],
+    "correctAnswer": "True",
+    "explanation": "The Gupta Empire was known for its significant contributions to mathematics. Mathematicians such as Aryabhata and Brahmagupta made important contributions to the field of mathematics during this period.",
+    "difficulty": "Medium",
+    "class": "Class 11",
+    "subject": "GK",
+    "chapter": "Ch 5: History, Culture & Heritage"
+  },
+  {
+    "text": "The Indian National Congress was founded in 1885.",
+    "options": [
+      "1875",
+      "1885",
+      "1895",
+      "1905"
+    ],
+    "correctAnswer": "1885",
+    "explanation": "The Indian National Congress was founded in 1885 by A.O. Hume. It was a major platform for the Indian freedom struggle against British colonial rule.",
+    "difficulty": "Easy",
+    "class": "Class 11",
+    "subject": "GK",
+    "chapter": "Ch 5: History, Culture & Heritage"
+  },
+  {
+    "text": "The Bharatnatyam dance is a classical dance form of India.",
+    "options": [
+      "True",
+      "False",
+      "Bharatnatyam is a folk dance form of India",
+      "Bharatnatyam is a tribal dance form of India"
+    ],
+    "correctAnswer": "True",
+    "explanation": "Bharatnatyam is a classical dance form of India. It is a highly stylized and expressive dance form that originated in the southern state of Tamil Nadu.",
+    "difficulty": "Easy",
+    "class": "Class 11",
+    "subject": "GK",
+    "chapter": "Ch 5: History, Culture & Heritage"
+  },
+  {
+    "text": "The Red Fort in Delhi is a UNESCO World Heritage Site.",
+    "options": [
+      "True",
+      "False",
+      "Red Fort is a National Monument",
+      "Red Fort is a State Monument"
+    ],
+    "correctAnswer": "True",
+    "explanation": "The Red Fort in Delhi is a UNESCO World Heritage Site. It was built by Mughal Emperor Shah Jahan in 1648 and served as the imperial palace for the Mughal emperors.",
+    "difficulty": "Easy",
+    "class": "Class 11",
+    "subject": "GK",
+    "chapter": "Ch 5: History, Culture & Heritage"
+  },
+  {
+    "text": "The Indus Valley Civilisation was known for its writing system.",
+    "options": [
+      "True",
+      "False",
+      "Indus Valley Civilisation was known for its trade network",
+      "Indus Valley Civilisation was known for its architecture"
+    ],
+    "correctAnswer": "False",
+    "explanation": "The Indus Valley Civilisation is known for its sophisticated urban planning, architecture, and water management systems, but it did not have a writing system.",
+    "difficulty": "Medium",
+    "class": "Class 11",
+    "subject": "GK",
+    "chapter": "Ch 5: History, Culture & Heritage"
+  },
+  {
+    "text": "The Mauryan Empire was known for its significant contributions to science.",
+    "options": [
+      "True",
+      "False",
+      "Mauryan Empire was known for its significant contributions to mathematics",
+      "Mauryan Empire was known for its significant contributions to astronomy"
+    ],
+    "correctAnswer": "False",
+    "explanation": "The Mauryan Empire was known for its significant contributions to administration, economy, and art, but it did not have significant contributions to science.",
+    "difficulty": "Medium",
+    "class": "Class 11",
+    "subject": "GK",
+    "chapter": "Ch 5: History, Culture & Heritage"
+  },
+  {
+    "text": "The Gupta Empire was known for its significant contributions to medicine.",
+    "options": [
+      "True",
+      "False",
+      "Gupta Empire was known for its significant contributions to mathematics",
+      "Gupta Empire was known for its significant contributions to astronomy"
+    ],
+    "correctAnswer": "False",
+    "explanation": "The Gupta Empire was known for its significant contributions to mathematics, but it did not have significant contributions to medicine.",
+    "difficulty": "Medium",
+    "class": "Class 11",
+    "subject": "GK",
+    "chapter": "Ch 5: History, Culture & Heritage"
+  },
+  {
+    "text": "The Indian National Congress was founded by A.O. Hume.",
+    "options": [
+      "True",
+      "False",
+      "Indian National Congress was founded by Mahatma Gandhi",
+      "Indian National Congress was founded by Jawaharlal Nehru"
+    ],
+    "correctAnswer": "True",
+    "explanation": "The Indian National Congress was founded in 1885 by A.O. Hume. It was a major platform for the Indian freedom struggle against British colonial rule.",
+    "difficulty": "Easy",
+    "class": "Class 11",
+    "subject": "GK",
+    "chapter": "Ch 5: History, Culture & Heritage"
+  },
+  {
+    "text": "The Bharatnatyam dance is a folk dance form of India.",
+    "options": [
+      "True",
+      "False",
+      "Bharatnatyam is a classical dance form of India",
+      "Bharatnatyam is a tribal dance form of India"
+    ],
+    "correctAnswer": "False",
+    "explanation": "Bharatnatyam is a classical dance form of India. It is a highly stylized and expressive dance form that originated in the southern state of Tamil Nadu.",
+    "difficulty": "Easy",
+    "class": "Class 11",
+    "subject": "GK",
+    "chapter": "Ch 5: History, Culture & Heritage"
+  },
+  {
+    "text": "The Red Fort in Delhi is a National Monument.",
+    "options": [
+      "True",
+      "False",
+      "Red Fort is a UNESCO World Heritage Site",
+      "Red Fort is a State Monument"
+    ],
+    "correctAnswer": "False",
+    "explanation": "The Red Fort in Delhi is a UNESCO World Heritage Site. It was built by Mughal Emperor Shah Jahan in 1648 and served as the imperial palace for the Mughal emperors.",
+    "difficulty": "Easy",
+    "class": "Class 11",
+    "subject": "GK",
+    "chapter": "Ch 5: History, Culture & Heritage"
+  },
+  {
+    "text": "The Indus Valley Civilisation was known for its trade network.",
+    "options": [
+      "True",
+      "False",
+      "Indus Valley Civilisation was known for its writing system",
+      "Indus Valley Civilisation was known for its architecture"
+    ],
+    "correctAnswer": "True",
+    "explanation": "The Indus Valley Civilisation was known for its trade network, which extended to present-day Iran, Afghanistan, and Central Asia.",
+    "difficulty": "Medium",
+    "class": "Class 11",
+    "subject": "GK",
+    "chapter": "Ch 5: History, Culture & Heritage"
+  },
+  {
+    "text": "The Mauryan Empire was known for its significant contributions to art.",
+    "options": [
+      "True",
+      "False",
+      "Mauryan Empire was known for its significant contributions to mathematics",
+      "Mauryan Empire was known for its significant contributions to astronomy"
+    ],
+    "correctAnswer": "True",
+    "explanation": "The Mauryan Empire was known for its significant contributions to art, including sculpture, architecture, and painting.",
+    "difficulty": "Medium",
+    "class": "Class 11",
+    "subject": "GK",
+    "chapter": "Ch 5: History, Culture & Heritage"
+  }
+]

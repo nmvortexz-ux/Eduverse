@@ -1,0 +1,132 @@
+[
+  {
+    "class": "Class 9",
+    "subject": "Social Studies",
+    "difficulty": "Easy",
+    "text": "Who was the first President of India?",
+    "explanation": "Dr. Rajendra Prasad was the first President of India, serving from 1950 to 1962.",
+    "options": [
+      { "text": "Jawaharlal Nehru", "isCorrect": false },
+      { "text": "Dr. Rajendra Prasad", "isCorrect": true },
+      { "text": "Sardar Patel", "isCorrect": false },
+      { "text": "Dr. S. Radhakrishnan", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 9",
+    "subject": "Social Studies",
+    "difficulty": "Medium",
+    "text": "The French Revolution began in which year?",
+    "explanation": "The French Revolution began in 1789 with the storming of the Bastille.",
+    "options": [
+      { "text": "1776", "isCorrect": false },
+      { "text": "1789", "isCorrect": true },
+      { "text": "1815", "isCorrect": false },
+      { "text": "1798", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 9",
+    "subject": "Social Studies",
+    "difficulty": "Medium",
+    "text": "Which latitude passes almost halfway through India?",
+    "explanation": "The Tropic of Cancer (23°30'N) passes almost halfway through India.",
+    "options": [
+      { "text": "Equator", "isCorrect": false },
+      { "text": "Tropic of Capricorn", "isCorrect": false },
+      { "text": "Tropic of Cancer", "isCorrect": true },
+      { "text": "Arctic Circle", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 9",
+    "subject": "Social Studies",
+    "difficulty": "Hard",
+    "text": "Who was the author of the book 'The Social Contract'?",
+    "explanation": "Jean-Jacques Rousseau was an influential Genevan philosopher whose political philosophy influenced the progress of the Enlightenment. He wrote 'The Social Contract' in 1762.",
+    "options": [
+      { "text": "Montesquieu", "isCorrect": false },
+      { "text": "John Locke", "isCorrect": false },
+      { "text": "Voltaire", "isCorrect": false },
+      { "text": "Rousseau", "isCorrect": true }
+    ]
+  },
+  {
+    "class": "Class 9",
+    "subject": "Social Studies",
+    "difficulty": "Easy",
+    "text": "What is the standard meridian of India?",
+    "explanation": "The standard meridian of India is 82°30'E.",
+    "options": [
+      { "text": "82°30'E", "isCorrect": true },
+      { "text": "68°7'E", "isCorrect": false },
+      { "text": "97°25'E", "isCorrect": false },
+      { "text": "23°30'N", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 9",
+    "subject": "Social Studies",
+    "difficulty": "Medium",
+    "text": "Which right was removed from the list of Fundamental Rights by the 44th Amendment?",
+    "explanation": "The Right to Property was removed from the list of Fundamental Rights and made a legal right.",
+    "options": [
+      { "text": "Right to Freedom", "isCorrect": false },
+      { "text": "Right to Equality", "isCorrect": false },
+      { "text": "Right to Property", "isCorrect": true },
+      { "text": "Right to Education", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 9",
+    "subject": "Social Studies",
+    "difficulty": "Hard",
+    "text": "In the context of the Russian Revolution, who were the Bolsheviks?",
+    "explanation": "The Bolsheviks were a faction of the Marxist Russian Social Democratic Labour Party which split apart from the Menshevik faction and eventually formed the Communist Party of the Soviet Union.",
+    "options": [
+      { "text": "Supporters of the Tsar", "isCorrect": false },
+      { "text": "A majority socialist group led by Lenin", "isCorrect": true },
+      { "text": "A minority democratic group", "isCorrect": false },
+      { "text": "Foreign invaders", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 9",
+    "subject": "Social Studies",
+    "difficulty": "Medium",
+    "text": "What is 'Poverty Line'?",
+    "explanation": "The poverty line is an imaginary line used by any country to determine its poverty based on income or consumption levels.",
+    "options": [
+      { "text": "A line dividing poor and rich states", "isCorrect": false },
+      { "text": "An indicator based on income or consumption to measure poverty", "isCorrect": true },
+      { "text": "A physical line where poor people live", "isCorrect": false },
+      { "text": "A limit on maximum wealth", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 9",
+    "subject": "Social Studies",
+    "difficulty": "Easy",
+    "text": "Which of the following is a fundamental right?",
+    "explanation": "The Right to Constitutional Remedies allows citizens to move the Supreme Court to enforce other fundamental rights.",
+    "options": [
+      { "text": "Right to Vote", "isCorrect": false },
+      { "text": "Right to Property", "isCorrect": false },
+      { "text": "Right to Constitutional Remedies", "isCorrect": true },
+      { "text": "Right to Work", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 9",
+    "subject": "Social Studies",
+    "difficulty": "Medium",
+    "text": "Which ocean lies to the south of India?",
+    "explanation": "The Indian Ocean lies to the south of the Indian subcontinent.",
+    "options": [
+      { "text": "Pacific Ocean", "isCorrect": false },
+      { "text": "Atlantic Ocean", "isCorrect": false },
+      { "text": "Arctic Ocean", "isCorrect": false },
+      { "text": "Indian Ocean", "isCorrect": true }
+    ]
+  }
+]

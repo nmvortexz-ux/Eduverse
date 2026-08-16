@@ -1,0 +1,197 @@
+[
+  {
+    "text": "What is the formula for Operating Ratio?",
+    "options": [
+      "Operating Expenses / Total Revenue",
+      "Total Revenue / Operating Expenses",
+      "Operating Expenses / Total Assets",
+      "Total Revenue / Total Assets"
+    ],
+    "correctAnswer": "Operating Expenses / Total Revenue",
+    "explanation": "Operating Ratio is calculated by dividing the total operating expenses by the total revenue. It is expressed as a percentage.",
+    "difficulty": "Easy",
+    "class": "Class 12",
+    "subject": "Accountancy",
+    "chapter": "Ch 10: Accounting Ratios"
+  },
+  {
+    "text": "Which of the following ratios is used to measure the relationship between the amount of trade payables and the total sales?",
+    "options": [
+      "Trade Payables Turnover Ratio",
+      "Debt to Equity Ratio",
+      "Debt to Capital Employed Ratio",
+      "Current Ratio"
+    ],
+    "correctAnswer": "Trade Payables Turnover Ratio",
+    "explanation": "Trade Payables Turnover Ratio is calculated by dividing the total sales by the average trade payables. It indicates the number of times trade payables are turned over during a year.",
+    "difficulty": "Medium",
+    "class": "Class 12",
+    "subject": "Accountancy",
+    "chapter": "Ch 10: Accounting Ratios"
+  },
+  {
+    "text": "What is the formula for Return on Investment (ROI)?",
+    "options": [
+      "Net Profit / Total Assets",
+      "Net Profit / Total Revenue",
+      "Net Profit / Capital Employed",
+      "Net Profit / Total Expenses"
+    ],
+    "correctAnswer": "Net Profit / Capital Employed",
+    "explanation": "Return on Investment (ROI) is calculated by dividing the net profit by the capital employed. It indicates the return earned by the investors on their investment.",
+    "difficulty": "Easy",
+    "class": "Class 12",
+    "subject": "Accountancy",
+    "chapter": "Ch 10: Accounting Ratios"
+  },
+  {
+    "text": "What is the relationship between Operating Ratio and Operating Profit Ratio?",
+    "options": [
+      "Operating Ratio + Operating Profit Ratio = 100%",
+      "Operating Ratio - Operating Profit Ratio = 100%",
+      "Operating Ratio x Operating Profit Ratio = 100%",
+      "Operating Ratio / Operating Profit Ratio = 100%"
+    ],
+    "correctAnswer": "Operating Ratio - Operating Profit Ratio = 100%",
+    "explanation": "Operating Ratio and Operating Profit Ratio are related in such a way that their difference is equal to 100%. This means that Operating Profit Ratio is equal to Operating Ratio minus 100%.",
+    "difficulty": "Medium",
+    "class": "Class 12",
+    "subject": "Accountancy",
+    "chapter": "Ch 10: Accounting Ratios"
+  },
+  {
+    "text": "What is the formula for Debt to Capital Employed Ratio?",
+    "options": [
+      "Total Debt / Total Assets",
+      "Total Debt / Total Equity",
+      "Total Debt / Capital Employed",
+      "Total Debt / Total Revenue"
+    ],
+    "correctAnswer": "Total Debt / Capital Employed",
+    "explanation": "Debt to Capital Employed Ratio is calculated by dividing the total debt by the capital employed. It indicates the proportion of debt in the capital structure of a company.",
+    "difficulty": "Easy",
+    "class": "Class 12",
+    "subject": "Accountancy",
+    "chapter": "Ch 10: Accounting Ratios"
+  },
+  {
+    "text": "A company has an Operating Ratio of 80% and an Operating Profit Ratio of 20%. What is the net profit?",
+    "options": [
+      "20% of Total Revenue",
+      "20% of Total Expenses",
+      "80% of Total Revenue",
+      "80% of Total Expenses"
+    ],
+    "correctAnswer": "20% of Total Revenue",
+    "explanation": "Given that Operating Ratio is 80% and Operating Profit Ratio is 20%, we can calculate the net profit by multiplying the Operating Profit Ratio with the Total Revenue.",
+    "difficulty": "Medium",
+    "class": "Class 12",
+    "subject": "Accountancy",
+    "chapter": "Ch 10: Accounting Ratios"
+  },
+  {
+    "text": "What is the significance of Trade Payables Turnover Ratio?",
+    "options": [
+      "It indicates the liquidity of a company",
+      "It indicates the efficiency of a company",
+      "It indicates the profitability of a company",
+      "It indicates the solvency of a company"
+    ],
+    "correctAnswer": "It indicates the efficiency of a company",
+    "explanation": "Trade Payables Turnover Ratio is an indicator of the efficiency of a company in managing its trade payables. It shows how quickly a company can pay its trade payables.",
+    "difficulty": "Easy",
+    "class": "Class 12",
+    "subject": "Accountancy",
+    "chapter": "Ch 10: Accounting Ratios"
+  },
+  {
+    "text": "A company has a Debt to Capital Employed Ratio of 60%. What is the proportion of equity in the capital structure?",
+    "options": [
+      "40%",
+      "50%",
+      "60%",
+      "80%"
+    ],
+    "correctAnswer": "40%",
+    "explanation": "Given that Debt to Capital Employed Ratio is 60%, we can calculate the proportion of equity in the capital structure by subtracting the Debt to Capital Employed Ratio from 100%.",
+    "difficulty": "Medium",
+    "class": "Class 12",
+    "subject": "Accountancy",
+    "chapter": "Ch 10: Accounting Ratios"
+  },
+  {
+    "text": "What is the formula for Current Ratio?",
+    "options": [
+      "Current Assets / Current Liabilities",
+      "Current Assets / Total Assets",
+      "Current Liabilities / Current Assets",
+      "Current Liabilities / Total Liabilities"
+    ],
+    "correctAnswer": "Current Assets / Current Liabilities",
+    "explanation": "Current Ratio is calculated by dividing the current assets by the current liabilities. It indicates the ability of a company to pay its short-term debts.",
+    "difficulty": "Easy",
+    "class": "Class 12",
+    "subject": "Accountancy",
+    "chapter": "Ch 10: Accounting Ratios"
+  },
+  {
+    "text": "A company has a Return on Investment (ROI) of 15% and a Capital Employed of ₹ 1,00,000. What is the net profit?",
+    "options": [
+      "₹ 15,000",
+      "₹ 18,750",
+      "₹ 20,000",
+      "₹ 22,500"
+    ],
+    "correctAnswer": "₹ 15,000",
+    "explanation": "Given that ROI is 15% and Capital Employed is ₹ 1,00,000, we can calculate the net profit by multiplying the ROI with the Capital Employed.",
+    "difficulty": "Medium",
+    "class": "Class 12",
+    "subject": "Accountancy",
+    "chapter": "Ch 10: Accounting Ratios"
+  },
+  {
+    "text": "What is the significance of Debt to Equity Ratio?",
+    "options": [
+      "It indicates the liquidity of a company",
+      "It indicates the efficiency of a company",
+      "It indicates the profitability of a company",
+      "It indicates the solvency of a company"
+    ],
+    "correctAnswer": "It indicates the solvency of a company",
+    "explanation": "Debt to Equity Ratio is an indicator of the solvency of a company. It shows the proportion of debt in the capital structure of a company.",
+    "difficulty": "Easy",
+    "class": "Class 12",
+    "subject": "Accountancy",
+    "chapter": "Ch 10: Accounting Ratios"
+  },
+  {
+    "text": "A company has a Trade Payables Turnover Ratio of 8 times and a Trade Payables of ₹ 50,000. What is the total sales?",
+    "options": [
+      "₹ 4,00,000",
+      "₹ 5,00,000",
+      "₹ 6,00,000",
+      "₹ 7,00,000"
+    ],
+    "correctAnswer": "₹ 4,00,000",
+    "explanation": "Given that Trade Payables Turnover Ratio is 8 times and Trade Payables is ₹ 50,000, we can calculate the total sales by multiplying the Trade Payables with the Trade Payables Turnover Ratio.",
+    "difficulty": "Medium",
+    "class": "Class 12",
+    "subject": "Accountancy",
+    "chapter": "Ch 10: Accounting Ratios"
+  },
+  {
+    "text": "What is the relationship between Operating Ratio and Profitability?",
+    "options": [
+      "Operating Ratio is directly proportional to Profitability",
+      "Operating Ratio is inversely proportional to Profitability",
+      "Operating Ratio is independent of Profitability",
+      "Operating Ratio is equal to Profitability"
+    ],
+    "correctAnswer": "Operating Ratio is inversely proportional to Profitability",
+    "explanation": "Operating Ratio and Profitability are inversely related. As Operating Ratio increases, Profitability decreases, and vice versa.",
+    "difficulty": "Medium",
+    "class": "Class 12",
+    "subject": "Accountancy",
+    "chapter": "Ch 10: Accounting Ratios"
+  }
+]

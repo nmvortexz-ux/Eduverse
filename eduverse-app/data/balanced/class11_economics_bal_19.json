@@ -1,0 +1,197 @@
+[
+  {
+    "text": "What is the formula to calculate the arithmetic mean for a dataset?",
+    "options": [
+      "Arithmetic Mean = $\frac{sum (x_i - \bar{x})}{n}$",
+      "Arithmetic Mean = $\frac{sum x_i}{n}$",
+      "Arithmetic Mean = $\frac{sum (x_i + \bar{x})}{n}$",
+      "Arithmetic Mean = $\frac{sum x_i^2}{n}$"
+    ],
+    "correctAnswer": "Arithmetic Mean = $\frac{sum x_i}{n}$",
+    "explanation": "The arithmetic mean is calculated by summing all the values in the dataset and then dividing by the number of values. This is a basic concept in statistics and is used to describe the central tendency of a dataset.",
+    "difficulty": "Easy",
+    "class": "Class 11",
+    "subject": "Economics",
+    "chapter": "Ch 7: Measures of Central Tendency and Dispersion"
+  },
+  {
+    "text": "Which of the following is a characteristic of the median?",
+    "options": [
+      "The median is sensitive to extreme values",
+      "The median is the most commonly occurring value",
+      "The median is the middle value when the data is arranged in ascending order",
+      "The median is always greater than the mean"
+    ],
+    "correctAnswer": "The median is the middle value when the data is arranged in ascending order",
+    "explanation": "The median is the middle value in a dataset when it is arranged in ascending or descending order. If there are an even number of observations, the median is the average of the two middle numbers.",
+    "difficulty": "Medium",
+    "class": "Class 11",
+    "subject": "Economics",
+    "chapter": "Ch 7: Measures of Central Tendency and Dispersion"
+  },
+  {
+    "text": "What is the mode of a dataset?",
+    "options": [
+      "The mode is the average of the dataset",
+      "The mode is the middle value of the dataset",
+      "The mode is the most frequently occurring value in the dataset",
+      "The mode is the least frequently occurring value in the dataset"
+    ],
+    "correctAnswer": "The mode is the most frequently occurring value in the dataset",
+    "explanation": "The mode is the value that appears most frequently in a dataset. A dataset may have one mode (unimodal), more than one mode (bimodal or multimodal), or no mode at all if all values are unique.",
+    "difficulty": "Easy",
+    "class": "Class 11",
+    "subject": "Economics",
+    "chapter": "Ch 7: Measures of Central Tendency and Dispersion"
+  },
+  {
+    "text": "Which measure of dispersion is calculated using the formula $SD = sqrt{\frac{sum (x_i - \bar{x})^2}{n}}$?",
+    "options": [
+      "Variance",
+      "Standard Deviation",
+      "Range",
+      "Mean Absolute Deviation"
+    ],
+    "correctAnswer": "Standard Deviation",
+    "explanation": "The standard deviation is a measure of the amount of variation or dispersion of a set of values. It is calculated as the square root of the variance, which is the average of the squared differences from the mean.",
+    "difficulty": "Hard",
+    "class": "Class 11",
+    "subject": "Economics",
+    "chapter": "Ch 7: Measures of Central Tendency and Dispersion"
+  },
+  {
+    "text": "What does a low standard deviation indicate about a dataset?",
+    "options": [
+      "The data points are highly spread out",
+      "The data points are closely clustered around the mean",
+      "The data points are normally distributed",
+      "The data points are skewed"
+    ],
+    "correctAnswer": "The data points are closely clustered around the mean",
+    "explanation": "A low standard deviation indicates that the data points tend to be close to the mean (also called the expected value) of the set, while a high standard deviation indicates that the data points are spread out over a wider range of values.",
+    "difficulty": "Medium",
+    "class": "Class 11",
+    "subject": "Economics",
+    "chapter": "Ch 7: Measures of Central Tendency and Dispersion"
+  },
+  {
+    "text": "What is the purpose of calculating the mean, median, and mode?",
+    "options": [
+      "To determine the range of the dataset",
+      "To identify the most frequently occurring value",
+      "To describe the central tendency of a dataset",
+      "To calculate the standard deviation"
+    ],
+    "correctAnswer": "To describe the central tendency of a dataset",
+    "explanation": "The mean, median, and mode are measures of central tendency, which help to describe the typical value in a dataset. They provide a summary of the dataset and help to understand the distribution of the data.",
+    "difficulty": "Easy",
+    "class": "Class 11",
+    "subject": "Economics",
+    "chapter": "Ch 7: Measures of Central Tendency and Dispersion"
+  },
+  {
+    "text": "How is the median calculated for an even number of observations?",
+    "options": [
+      "By taking the average of the two middle numbers",
+      "By taking the average of the first and last numbers",
+      "By taking the middle number",
+      "By taking the average of all the numbers"
+    ],
+    "correctAnswer": "By taking the average of the two middle numbers",
+    "explanation": "When there are an even number of observations, the median is calculated by taking the average of the two middle numbers. This is because there is no single middle value, so the average of the two middle values is used as the median.",
+    "difficulty": "Medium",
+    "class": "Class 11",
+    "subject": "Economics",
+    "chapter": "Ch 7: Measures of Central Tendency and Dispersion"
+  },
+  {
+    "text": "What is the formula for calculating the variance?",
+    "options": [
+      "Variance = $\frac{sum (x_i - \bar{x})}{n}$",
+      "Variance = $\frac{sum (x_i - \bar{x})^2}{n}$",
+      "Variance = $\frac{sum x_i}{n}$",
+      "Variance = $\frac{sum x_i^2}{n}$"
+    ],
+    "correctAnswer": "Variance = $\frac{sum (x_i - \bar{x})^2}{n}$",
+    "explanation": "The variance is a measure of the spread or dispersion of a dataset from its mean value. It is calculated as the average of the squared differences from the mean.",
+    "difficulty": "Hard",
+    "class": "Class 11",
+    "subject": "Economics",
+    "chapter": "Ch 7: Measures of Central Tendency and Dispersion"
+  },
+  {
+    "text": "What is the relationship between the mean and the median?",
+    "options": [
+      "The mean is always greater than the median",
+      "The mean is always less than the median",
+      "The mean and median are always equal",
+      "The mean and median may be equal or unequal, depending on the distribution of the data"
+    ],
+    "correctAnswer": "The mean and median may be equal or unequal, depending on the distribution of the data",
+    "explanation": "The mean and median are both measures of central tendency, but they are calculated differently. The mean is sensitive to extreme values, while the median is not. In a symmetrical distribution, the mean and median are equal, but in a skewed distribution, they may be unequal.",
+    "difficulty": "Medium",
+    "class": "Class 11",
+    "subject": "Economics",
+    "chapter": "Ch 7: Measures of Central Tendency and Dispersion"
+  },
+  {
+    "text": "What is the purpose of calculating the standard deviation?",
+    "options": [
+      "To describe the central tendency of a dataset",
+      "To describe the spread or dispersion of a dataset",
+      "To identify the most frequently occurring value",
+      "To calculate the mean"
+    ],
+    "correctAnswer": "To describe the spread or dispersion of a dataset",
+    "explanation": "The standard deviation is a measure of the amount of variation or dispersion of a set of values. It is used to describe the spread of the data and to compare the spread of different datasets.",
+    "difficulty": "Easy",
+    "class": "Class 11",
+    "subject": "Economics",
+    "chapter": "Ch 7: Measures of Central Tendency and Dispersion"
+  },
+  {
+    "text": "How is the mode different from the mean and median?",
+    "options": [
+      "The mode is the average of the dataset",
+      "The mode is the middle value of the dataset",
+      "The mode is the most frequently occurring value in the dataset",
+      "The mode is the least frequently occurring value in the dataset"
+    ],
+    "correctAnswer": "The mode is the most frequently occurring value in the dataset",
+    "explanation": "The mode is different from the mean and median because it is the most frequently occurring value in the dataset, whereas the mean and median are measures of central tendency that are calculated using different formulas.",
+    "difficulty": "Medium",
+    "class": "Class 11",
+    "subject": "Economics",
+    "chapter": "Ch 7: Measures of Central Tendency and Dispersion"
+  },
+  {
+    "text": "What is the range of a dataset?",
+    "options": [
+      "The range is the average of the dataset",
+      "The range is the middle value of the dataset",
+      "The range is the difference between the largest and smallest values in the dataset",
+      "The range is the most frequently occurring value in the dataset"
+    ],
+    "correctAnswer": "The range is the difference between the largest and smallest values in the dataset",
+    "explanation": "The range is a measure of the spread or dispersion of a dataset. It is calculated by subtracting the smallest value from the largest value in the dataset.",
+    "difficulty": "Easy",
+    "class": "Class 11",
+    "subject": "Economics",
+    "chapter": "Ch 7: Measures of Central Tendency and Dispersion"
+  },
+  {
+    "text": "What is the relationship between the variance and the standard deviation?",
+    "options": [
+      "The variance is the square of the standard deviation",
+      "The standard deviation is the square of the variance",
+      "The variance and standard deviation are equal",
+      "The variance and standard deviation are unrelated"
+    ],
+    "correctAnswer": "The standard deviation is the square of the variance",
+    "explanation": "The standard deviation is the square root of the variance. The variance is a measure of the spread or dispersion of a dataset, and the standard deviation is a measure of the amount of variation or dispersion of a set of values.",
+    "difficulty": "Hard",
+    "class": "Class 11",
+    "subject": "Economics",
+    "chapter": "Ch 7: Measures of Central Tendency and Dispersion"
+  }
+]

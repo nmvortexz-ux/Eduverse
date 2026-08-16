@@ -1,0 +1,327 @@
+[
+  {
+    "class": "Class 8",
+    "subject": "GK",
+    "difficulty": "Easy",
+    "text": "Which Mauryan Emperor renounced violence and embraced Buddhism after witnessing the devastation of the Kalinga War?",
+    "explanation": "Emperor Ashoka the Great converted to Buddhism after the Kalinga War in 261 BCE, dedicating the rest of his reign to propagating the principles of non-violence and Dhamma.",
+    "options": [
+      { "text": "Chandragupta Maurya", "isCorrect": false },
+      { "text": "Bindusara", "isCorrect": false },
+      { "text": "Ashoka", "isCorrect": true },
+      { "text": "Brihadratha", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 8",
+    "subject": "GK",
+    "difficulty": "Medium",
+    "text": "Who was the first and only female ruler to ascend the throne of the Delhi Sultanate?",
+    "explanation": "Razia Sultana, the daughter of Sultan Iltutmish, ruled the Delhi Sultanate from 1236 to 1240, defying the orthodox assembly of nobles.",
+    "options": [
+      { "text": "Nur Jahan", "isCorrect": false },
+      { "text": "Razia Sultana", "isCorrect": true },
+      { "text": "Chand Bibi", "isCorrect": false },
+      { "text": "Rani Durgavati", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 8",
+    "subject": "GK",
+    "difficulty": "Hard",
+    "text": "In which year did the Portuguese explorer Vasco da Gama arrive at Calicut, discovering the direct sea route from Europe to India?",
+    "explanation": "Vasco da Gama landed in Calicut (now Kozhikode) on May 20, 1498, establishing the sea route around the Cape of Good Hope, which opened up direct spice trade between Europe and Asia.",
+    "options": [
+      { "text": "1492", "isCorrect": false },
+      { "text": "1498", "isCorrect": true },
+      { "text": "1526", "isCorrect": false },
+      { "text": "1600", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 8",
+    "subject": "GK",
+    "difficulty": "Very Hard",
+    "text": "Who was appointed as the first Governor-General of Bengal under the Regulating Act of 1773?",
+    "explanation": "Warren Hastings became the first Governor-General of Bengal in 1773, bringing the presidencies of Madras and Bombay under the control of Bengal.",
+    "options": [
+      { "text": "Lord Cornwallis", "isCorrect": false },
+      { "text": "Warren Hastings", "isCorrect": true },
+      { "text": "Lord William Bentinck", "isCorrect": false },
+      { "text": "Lord Robert Clive", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 8",
+    "subject": "GK",
+    "difficulty": "Hard",
+    "text": "Who wrote the famous book 'Poverty and Un-British Rule in India', introducing the 'Drain of Wealth' theory to describe British exploitation?",
+    "explanation": "Dadabhai Naoroji, known as the 'Grand Old Man of India', wrote this book to explain how Britain was draining India's wealth, keeping the country in deep poverty.",
+    "options": [
+      { "text": "Bal Gangadhar Tilak", "isCorrect": false },
+      { "text": "Dadabhai Naoroji", "isCorrect": true },
+      { "text": "Gopal Krishna Gokhale", "isCorrect": false },
+      { "text": "Romesh Chunder Dutt", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 8",
+    "subject": "GK",
+    "difficulty": "Easy",
+    "text": "Which is the highest mountain peak located in India, situated in the state of Sikkim?",
+    "explanation": "Kanchenjunga is the highest mountain peak in India and the third highest in the world, with an elevation of 8,586 meters.",
+    "options": [
+      { "text": "Mount Everest", "isCorrect": false },
+      { "text": "Kanchenjunga", "isCorrect": true },
+      { "text": "Nanda Devi", "isCorrect": false },
+      { "text": "K2 (Mount Godwin-Austen)", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 8",
+    "subject": "GK",
+    "difficulty": "Medium",
+    "text": "Which Indian state is the largest producer of tea, contributing to more than half of the country's total tea production?",
+    "explanation": "Assam is the largest producer of tea in India, famous worldwide for its strong, full-bodied black tea.",
+    "options": [
+      { "text": "West Bengal", "isCorrect": false },
+      { "text": "Assam", "isCorrect": true },
+      { "text": "Tamil Nadu", "isCorrect": false },
+      { "text": "Kerala", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 8",
+    "subject": "GK",
+    "difficulty": "Hard",
+    "text": "Majuli, the world's largest inhabited river island, is located in which river in India?",
+    "explanation": "Majuli is a large river island located in the Brahmaputra River in the state of Assam, known for its rich Vaishnavite cultural heritage.",
+    "options": [
+      { "text": "Ganga River", "isCorrect": false },
+      { "text": "Brahmaputra River", "isCorrect": true },
+      { "text": "Narmada River", "isCorrect": false },
+      { "text": "Indus River", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 8",
+    "subject": "GK",
+    "difficulty": "Very Hard",
+    "text": "Which channel or strait separates the southern tip of India from the island nation of Sri Lanka?",
+    "explanation": "The Palk Strait is a narrow strait that connects the Bay of Bengal with the Gulf of Mannar, separating Tamil Nadu in India from northern Sri Lanka.",
+    "options": [
+      { "text": "Ten Degree Channel", "isCorrect": false },
+      { "text": "Palk Strait", "isCorrect": true },
+      { "text": "Duncan Passage", "isCorrect": false },
+      { "text": "Nine Degree Channel", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 8",
+    "subject": "GK",
+    "difficulty": "Medium",
+    "text": "Which imaginary line passes approximately through the middle of India, dividing the country into two temperature zones?",
+    "explanation": "The Tropic of Cancer (23.5 degrees North latitude) passes through eight Indian states, dividing the country into northern temperate and southern tropical zones.",
+    "options": [
+      { "text": "Equator", "isCorrect": false },
+      { "text": "Tropic of Cancer", "isCorrect": true },
+      { "text": "Tropic of Capricorn", "isCorrect": false },
+      { "text": "Prime Meridian", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 8",
+    "subject": "GK",
+    "difficulty": "Easy",
+    "text": "Who is the executive head of the Union of India and the first citizen of the country?",
+    "explanation": "The President of India is the head of state and the first citizen, representing the sovereignty and unity of the nation.",
+    "options": [
+      { "text": "The Prime Minister", "isCorrect": false },
+      { "text": "The President of India", "isCorrect": true },
+      { "text": "The Chief Justice of India", "isCorrect": false },
+      { "text": "The Vice-President", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 8",
+    "subject": "GK",
+    "difficulty": "Medium",
+    "text": "How many members are nominated to the Rajya Sabha (Upper House) by the President of India for their contributions to science, art, literature, and social service?",
+    "explanation": "The President of India nominates 12 members to the Rajya Sabha to ensure representation of individuals with distinguished achievements in various fields.",
+    "options": [
+      { "text": "10", "isCorrect": false },
+      { "text": "12", "isCorrect": true },
+      { "text": "15", "isCorrect": false },
+      { "text": "20", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 8",
+    "subject": "GK",
+    "difficulty": "Hard",
+    "text": "What is the maximum initial period for which a state can be placed under President's Rule (Article 356) before requiring a parliamentary extension?",
+    "explanation": "A proclamation of President's Rule must be approved by Parliament within two months, and once approved, it is valid for an initial period of six months.",
+    "options": [
+      { "text": "Three months", "isCorrect": false },
+      { "text": "Six months", "isCorrect": true },
+      { "text": "One year", "isCorrect": false },
+      { "text": "Two years", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 8",
+    "subject": "GK",
+    "difficulty": "Very Hard",
+    "text": "Under which article of the Indian Constitution is the Finance Commission of India constituted by the President?",
+    "explanation": "Article 280 of the Constitution mandates the President to constitute a Finance Commission every five years to define financial relations between the Centre and the States.",
+    "options": [
+      { "text": "Article 360", "isCorrect": false },
+      { "text": "Article 280", "isCorrect": true },
+      { "text": "Article 324", "isCorrect": false },
+      { "text": "Article 110", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 8",
+    "subject": "GK",
+    "difficulty": "Very Hard",
+    "text": "Who among the following holds the office of the ex-officio Chairman of the Rajya Sabha?",
+    "explanation": "The Vice-President of India acts as the ex-officio Chairman of the Rajya Sabha under Article 89 of the Constitution, presiding over its sessions.",
+    "options": [
+      { "text": "The Prime Minister", "isCorrect": false },
+      { "text": "The Vice-President of India", "isCorrect": true },
+      { "text": "The Speaker of Lok Sabha", "isCorrect": false },
+      { "text": "The Deputy Speaker of Rajya Sabha", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 8",
+    "subject": "GK",
+    "difficulty": "Easy",
+    "text": "Which gas is the most abundant in the Earth's atmosphere, making up approximately 78% of the air?",
+    "explanation": "Nitrogen is the most abundant gas in our atmosphere, followed by oxygen which makes up about 21%.",
+    "options": [
+      { "text": "Oxygen", "isCorrect": false },
+      { "text": "Nitrogen", "isCorrect": true },
+      { "text": "Carbon dioxide", "isCorrect": false },
+      { "text": "Argon", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 8",
+    "subject": "GK",
+    "difficulty": "Medium",
+    "text": "Which of the following is the ultimate and main source of heat and light energy for the planet Earth?",
+    "explanation": "The Sun is the main source of light and heat energy for the Earth, driving our climate, seasons, and supporting photosynthesis in plants.",
+    "options": [
+      { "text": "The Moon", "isCorrect": false },
+      { "text": "The Sun", "isCorrect": true },
+      { "text": "Volcanoes", "isCorrect": false },
+      { "text": "Lightning", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 8",
+    "subject": "GK",
+    "difficulty": "Hard",
+    "text": "In which year did India launch its first ever artificial satellite, named 'Aryabhata', into orbit?",
+    "explanation": "India's first satellite, Aryabhata, was launched on April 19, 1975, using a Soviet Kosmos-3M rocket from Kapustin Yar.",
+    "options": [
+      { "text": "1969", "isCorrect": false },
+      { "text": "1975", "isCorrect": true },
+      { "text": "1984", "isCorrect": false },
+      { "text": "1991", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 8",
+    "subject": "GK",
+    "difficulty": "Very Hard",
+    "text": "Which eminent scientist is widely regarded as the 'Father of the Indian Nuclear Programme'?",
+    "explanation": "Dr. Homi Jehangir Bhabha founded the Tata Institute of Fundamental Research (TIFR) and formulated India's three-stage nuclear power programme.",
+    "options": [
+      { "text": "Dr. Vikram Sarabhai", "isCorrect": false },
+      { "text": "Dr. Homi J. Bhabha", "isCorrect": true },
+      { "text": "Dr. A. P. J. Abdul Kalam", "isCorrect": false },
+      { "text": "Dr. Satish Dhawan", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 8",
+    "subject": "GK",
+    "difficulty": "Hard",
+    "text": "What is the name of India's first permanent scientific research station in Antarctica, established in 1983?",
+    "explanation": "Dakshin Gangotri was established as India's first permanent base in Antarctica in 1983. It was decommissioned in 1990 after being buried in ice, and replaced by Maitri.",
+    "options": [
+      { "text": "Maitri", "isCorrect": false },
+      { "text": "Dakshin Gangotri", "isCorrect": true },
+      { "text": "Bharti", "isCorrect": false },
+      { "text": "Himadri", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 8",
+    "subject": "GK",
+    "difficulty": "Easy",
+    "text": "Which legendary Indian cricketer is widely known by the nickname 'Master Blaster'?",
+    "explanation": "Sachin Tendulkar is known as the Master Blaster due to his brilliant batting career, holding records for the highest runs in both Test and ODI formats.",
+    "options": [
+      { "text": "Kapil Dev", "isCorrect": false },
+      { "text": "Sachin Tendulkar", "isCorrect": true },
+      { "text": "Sunil Gavaskar", "isCorrect": false },
+      { "text": "Virat Kohli", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 8",
+    "subject": "GK",
+    "difficulty": "Medium",
+    "text": "Which classical dance form, famous for its elaborate makeup, dramatic costumes, and facial expressions, originated in Kerala?",
+    "explanation": "Kathakali is a major classical dance-drama from Kerala that tells stories from epics like Ramayana and Mahabharata using facial expressions and hand gestures.",
+    "options": [
+      { "text": "Bharatanatyam", "isCorrect": false },
+      { "text": "Kathakali", "isCorrect": true },
+      { "text": "Kathak", "isCorrect": false },
+      { "text": "Kuchipudi", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 8",
+    "subject": "GK",
+    "difficulty": "Hard",
+    "text": "Who was the first Indian citizen to be awarded the Nobel Prize in Literature in 1913?",
+    "explanation": "Rabindranath Tagore won the Nobel Prize in Literature in 1913 for his collection of poems titled Gitanjali, becoming the first non-European to win this honor.",
+    "options": [
+      { "text": "Sarojini Naidu", "isCorrect": false },
+      { "text": "Rabindranath Tagore", "isCorrect": true },
+      { "text": "R. K. Narayan", "isCorrect": false },
+      { "text": "Bankim Chandra Chattopadhyay", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 8",
+    "subject": "GK",
+    "difficulty": "Very Hard",
+    "text": "Which iconic book was written by Jawaharlal Nehru during his imprisonment at Ahmednagar Fort from 1942 to 1945?",
+    "explanation": "Jawaharlal Nehru wrote 'The Discovery of India' while imprisoned for participating in the Quit India Movement. The book explores Indian history, culture, and philosophy.",
+    "options": [
+      { "text": "My Experiments with Truth", "isCorrect": false },
+      { "text": "The Discovery of India", "isCorrect": true },
+      { "text": "Gitanjali", "isCorrect": false },
+      { "text": "Hind Swaraj", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 8",
+    "subject": "GK",
+    "difficulty": "Very Hard",
+    "text": "Which is the oldest national park in India, established in 1936 to protect the endangered Bengal tiger?",
+    "explanation": "Jim Corbett National Park in Uttarakhand is the oldest national park in India, established in 1936 as Hailey National Park. It was later renamed after the hunter and naturalist Jim Corbett.",
+    "options": [
+      { "text": "Kanha National Park", "isCorrect": false },
+      { "text": "Jim Corbett National Park", "isCorrect": true },
+      { "text": "Kaziranga National Park", "isCorrect": false },
+      { "text": "Gir National Park", "isCorrect": false }
+    ]
+  }
+]

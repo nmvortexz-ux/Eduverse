@@ -1,0 +1,327 @@
+[
+  {
+    "class": "Class 8",
+    "subject": "Hindi Grammar",
+    "difficulty": "Medium",
+    "text": "\"दौड़ता हुआ बालक गिर गया।\" इस वाक्य में 'दौड़ता हुआ बालक' किस प्रकार का पदबंध है?",
+    "explanation": "इस पदबंध में मुख्य पद 'बालक' (संज्ञा) है, जिसके लिए 'दौड़ता हुआ' विशेषण का कार्य कर रहा है, अतः यह संज्ञा पदबंध है।",
+    "options": [
+      { "text": "विशेषण पदबंध", "isCorrect": false },
+      { "text": "संज्ञा पदबंध", "isCorrect": true },
+      { "text": "क्रिया पदबंध", "isCorrect": false },
+      { "text": "क्रियाविशेषण पदबंध", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 8",
+    "subject": "Hindi Grammar",
+    "difficulty": "Hard",
+    "text": "\"जो लड़का बाहर खड़ा है, वह मेरा मित्र है।\" इस वाक्य में रेखांकित पद 'जो लड़का बाहर खड़ा है' किस प्रकार का उपवाक्य है?",
+    "explanation": "यह उपवाक्य मुख्य उपवाक्य की संज्ञा 'वह लड़का' की विशेषता बता रहा है, इसलिए यह विशेषण उपवाक्य है।",
+    "options": [
+      { "text": "संज्ञा उपवाक्य", "isCorrect": false },
+      { "text": "विशेषण उपवाक्य", "isCorrect": true },
+      { "text": "क्रियाविशेषण उपवाक्य", "isCorrect": false },
+      { "text": "स्वतंत्र उपवाक्य", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 8",
+    "subject": "Hindi Grammar",
+    "difficulty": "Very Hard",
+    "text": "\"जैसे ही सूर्य उदय हुआ, वैसे ही पक्षी चहकने लगे।\" इस वाक्य में 'जैसे ही सूर्य उदय हुआ' किस प्रकार का उपवाक्य है?",
+    "explanation": "यह उपवाक्य मुख्य वाक्य की क्रिया के होने के समय की विशेषता बता रहा है, इसलिए यह कालवाचक क्रियाविशेषण उपवाक्य है।",
+    "options": [
+      { "text": "संज्ञा उपवाक्य", "isCorrect": false },
+      { "text": "क्रियाविशेषण उपवाक्य", "isCorrect": true },
+      { "text": "विशेषण उपवाक्य", "isCorrect": false },
+      { "text": "प्रधान उपवाक्य", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 8",
+    "subject": "Hindi Grammar",
+    "difficulty": "Medium",
+    "text": "'निष्कपट' शब्द का सही संधि-विच्छेद निम्नलिखित में से क्या होगा?",
+    "explanation": "'निः + कपट' मिलकर 'निष्कपट' बनता है। विसर्ग (ः) के बाद क, ख, प, फ होने पर विसर्ग 'ष' में बदल जाता है। यह विसर्ग संधि है।",
+    "options": [
+      { "text": "निस + कपट", "isCorrect": false },
+      { "text": "निः + कपट", "isCorrect": true },
+      { "text": "नि + कपट", "isCorrect": false },
+      { "text": "निष् + कपट", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 8",
+    "subject": "Hindi Grammar",
+    "difficulty": "Hard",
+    "text": "'नमस्ते' शब्द का सही संधि-विच्छेद निम्नलिखित में से क्या होगा?",
+    "explanation": "'नमः + ते' मिलकर 'नमस्ते' बनता है। विसर्ग के बाद त या थ होने पर विसर्ग 'स' में बदल जाता है। यह विसर्ग संधि का नियम है।",
+    "options": [
+      { "text": "नमस + ते", "isCorrect": false },
+      { "text": "नमः + ते", "isCorrect": true },
+      { "text": "नम + ते", "isCorrect": false },
+      { "text": "नमा + ते", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 8",
+    "subject": "Hindi Grammar",
+    "difficulty": "Very Hard",
+    "text": "'दुष्कर' शब्द का सही संधि-विच्छेद और संधि का नाम निम्नलिखित में से क्या होगा?",
+    "explanation": "'दुः + कर' मिलकर 'दुष्कर' बनता है। विसर्ग के बाद क, ख, प, फ होने पर विसर्ग 'ष' में बदल जाता है। यह विसर्ग संधि है।",
+    "options": [
+      { "text": "दुस + कर (व्यंजन संधि)", "isCorrect": false },
+      { "text": "दुः + कर (विसर्ग संधि)", "isCorrect": true },
+      { "text": "दु + कर (स्वर संधि)", "isCorrect": false },
+      { "text": "दुश् + कर (व्यंजन संधि)", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 8",
+    "subject": "Hindi Grammar",
+    "difficulty": "Medium",
+    "text": "'नीलकमल' (नीला है जो कमल) शब्द में कौन सा समास प्रयुक्त हुआ है?",
+    "explanation": "इस शब्द में पहला पद 'नील' (विशेषण) और दूसरा पद 'कमल' (विशेष्य) है। विशेषण-विशेष्य संबंध होने के कारण यह कर्मधारय समास है।",
+    "options": [
+      { "text": "बहुव्रीहि समास", "isCorrect": false },
+      { "text": "कर्मधारय समास", "isCorrect": true },
+      { "text": "तत्पुरुष समास", "isCorrect": false },
+      { "text": "द्विगु समास", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 8",
+    "subject": "Hindi Grammar",
+    "difficulty": "Hard",
+    "text": "'घनश्याम' (घन के समान श्याम) शब्द में कौन सा समास है?",
+    "explanation": "इस शब्द में उपमेय (श्याम) की उपमान (घन) से तुलना की गई है। उपमेय-उपमान संबंध होने के कारण यहाँ कर्मधारय समास है।",
+    "options": [
+      { "text": "बहुव्रीहि समास", "isCorrect": false },
+      { "text": "कर्मधारय समास", "isCorrect": true },
+      { "text": "तत्पुरुष समास", "isCorrect": false },
+      { "text": "द्वंद्व समास", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 8",
+    "subject": "Hindi Grammar",
+    "difficulty": "Very Hard",
+    "text": "'चंद्रशेखर' (चंद्र है शिखर पर जिसके अर्थात् शिव) में कौन सा समास प्रयुक्त हुआ है?",
+    "explanation": "इस समास में दोनों पद मिलकर किसी तीसरे पद (भगवान शिव) की ओर संकेत कर रहे हैं, इसलिए यहाँ बहुव्रीहि समास है।",
+    "options": [
+      { "text": "कर्मधारय समास", "isCorrect": false },
+      { "text": "बहुव्रीहि समास", "isCorrect": true },
+      { "text": "तत्पुरुष समास", "isCorrect": false },
+      { "text": "द्वंद्व समास", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 8",
+    "subject": "Hindi Grammar",
+    "difficulty": "Easy",
+    "text": "'पंकज' शब्द बनावट या व्युत्पत्ति के आधार पर किस प्रकार का शब्द है?",
+    "explanation": "'पंकज' का शाब्दिक अर्थ 'कीचड़ में जन्म लेने वाला' है, परंतु यह केवल 'कमल' के लिए रूढ़ हो चुका है, इसलिए यह योगरूढ़ शब्द है।",
+    "options": [
+      { "text": "रूढ़ शब्द", "isCorrect": false },
+      { "text": "योगरूढ़ शब्द", "isCorrect": true },
+      { "text": "यौगिक शब्द", "isCorrect": false },
+      { "text": "देशज शब्द", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 8",
+    "subject": "Hindi Grammar",
+    "difficulty": "Medium",
+    "text": "'विद्यालय' शब्द बनावट या व्युत्पत्ति के आधार पर किस श्रेणी के अंतर्गत आता है?",
+    "explanation": "'विद्या' और 'आलय' दो स्वतंत्र सार्थक शब्दों के मेल से बने होने के कारण यह एक यौगिक शब्द है।",
+    "options": [
+      { "text": "रूढ़ शब्द", "isCorrect": false },
+      { "text": "यौगिक शब्द", "isCorrect": true },
+      { "text": "योगरूढ़ शब्द", "isCorrect": false },
+      { "text": "विदेशी शब्द", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 8",
+    "subject": "Hindi Grammar",
+    "difficulty": "Hard",
+    "text": "'जल' शब्द बनावट या व्युत्पत्ति के आधार पर किस श्रेणी का उदाहरण है?",
+    "explanation": "जिन शब्दों के सार्थक खंड (टुकड़े) नहीं किए जा सकते, उन्हें रूढ़ शब्द कहते हैं। 'ज' और 'ल' का अलग कोई अर्थ नहीं है।",
+    "options": [
+      { "text": "यौगिक शब्द", "isCorrect": false },
+      { "text": "रूढ़ शब्द", "isCorrect": true },
+      { "text": "योगरूढ़ शब्द", "isCorrect": false },
+      { "text": "तद्भव शब्द", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 8",
+    "subject": "Hindi Grammar",
+    "difficulty": "Very Hard",
+    "text": "हिंदी में बहुतायत से प्रयुक्त होने वाला शब्द 'रिक्शा' मूल रूप से किस विदेशी भाषा का शब्द है?",
+    "explanation": "'रिक्शा' जापानी भाषा का शब्द है जो हिंदी में आगत (विदेशी) शब्द के रूप में अपना लिया गया है।",
+    "options": [
+      { "text": "चीनी", "isCorrect": false },
+      { "text": "जापानी", "isCorrect": true },
+      { "text": "अरबी", "isCorrect": false },
+      { "text": "तुर्की", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 8",
+    "subject": "Hindi Grammar",
+    "difficulty": "Hard",
+    "text": "निम्नलिखित में से किस शब्द की वर्तनी व्याकरणिक रूप से पूर्णतः शुद्ध है?",
+    "explanation": "'उत् + ज्वल = उज्ज्वल' होता है। संधि नियम के कारण इसमें दोनों 'ज' आधे लिखे जाते हैं।",
+    "options": [
+      { "text": "उज्जवल", "isCorrect": false },
+      { "text": "उज्ज्वल", "isCorrect": true },
+      { "text": "उज्वल", "isCorrect": false },
+      { "text": "उजवल", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 8",
+    "subject": "Hindi Grammar",
+    "difficulty": "Very Hard",
+    "text": "\"मेरे को घर जाना है।\" इस अशुद्ध वाक्य का व्याकरण सम्मत शुद्ध रूप क्या होगा?",
+    "explanation": "हिंदी व्याकरण में उत्तम पुरुष सर्वनाम के साथ 'मेरे को' का प्रयोग अशुद्ध माना जाता है, इसके स्थान पर 'मुझे' का प्रयोग होना चाहिए।",
+    "options": [
+      { "text": "मेरे को घर को जाना है।", "isCorrect": false },
+      { "text": "मुझे घर जाना है।", "isCorrect": true },
+      { "text": "मुझको घर को जाना है।", "isCorrect": false },
+      { "text": "मेरे को घर जाना ही है।", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 8",
+    "subject": "Hindi Grammar",
+    "difficulty": "Very Hard",
+    "text": "निम्नलिखित वाक्यों में से कौन सा वाक्य व्याकरण की दृष्टि से शुद्ध है?",
+    "explanation": "'वहाँ भारी भीड़ जमा थी' शुद्ध वाक्य है। 'भीड़' के साथ 'भारी' विशेषण का प्रयोग भीड़ की सघनता बताने के लिए सही है।",
+    "options": [
+      { "text": "वहाँ भारी भीड़ इकट्ठा थी।", "isCorrect": false },
+      { "text": "वहाँ भारी भीड़ जमा थी", "isCorrect": true },
+      { "text": "वहाँ बहुत भारी भीड़ थी।", "isCorrect": false },
+      { "text": "वहाँ भारी भीड़ जमा थे।", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 8",
+    "subject": "Hindi Grammar",
+    "difficulty": "Easy",
+    "text": "'अंधकार' शब्द का सही विलोम शब्द निम्नलिखित में से क्या होगा?",
+    "explanation": "तत्सम शब्द 'अंधकार' का विलोम तत्सम शब्द 'प्रकाश' होगा। तद्भव शब्द 'अँधेरा' का विलोम 'उजाला' होता है।",
+    "options": [
+      { "text": "उजाला", "isCorrect": false },
+      { "text": "प्रकाश", "isCorrect": true },
+      { "text": "आलोक", "isCorrect": false },
+      { "text": "प्रभा", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 8",
+    "subject": "Hindi Grammar",
+    "difficulty": "Hard",
+    "text": "निम्नलिखित में से कौन सा शब्द 'जंगल' का सही पर्यायवाची शब्द है?",
+    "explanation": "'कानन' जंगल का पर्यायवाची है। 'पावक' आग का, 'उदधि' समुद्र का और 'सदन' घर का पर्यायवाची है।",
+    "options": [
+      { "text": "पावक", "isCorrect": false },
+      { "text": "कानन", "isCorrect": true },
+      { "text": "उदधि", "isCorrect": false },
+      { "text": "सदन", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 8",
+    "subject": "Hindi Grammar",
+    "difficulty": "Hard",
+    "text": "'आकर्षण' शब्द का सही विलोम शब्द क्या होगा?",
+    "explanation": "'आकर्षण' (खींचने की शक्ति) का सही और व्याकरण सम्मत विलोम शब्द 'विकर्षण' होता है।",
+    "options": [
+      { "text": "अनाकर्षण", "isCorrect": false },
+      { "text": "विकर्षण", "isCorrect": true },
+      { "text": "प्रतिकर्षण", "isCorrect": false },
+      { "text": "पराकर्षण", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 8",
+    "subject": "Hindi Grammar",
+    "difficulty": "Hard",
+    "text": "\"घी के दिए जलाना\" इस मुहावरे का सही अर्थ निम्नलिखित में से क्या है?",
+    "explanation": "\"घी के दिए जलाना\" मुहावरे का अर्थ होता है अत्यधिक खुशियाँ मनाना या प्रसन्नता प्रकट करना।",
+    "options": [
+      { "text": "दीवाली मनाना", "isCorrect": false },
+      { "text": "अत्यधिक प्रसन्नता या खुशियाँ मनाना", "isCorrect": true },
+      { "text": "धनवान होना", "isCorrect": false },
+      { "text": "घी का अपव्यय करना", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 8",
+    "subject": "Hindi Grammar",
+    "difficulty": "Very Hard",
+    "text": "\"दूर के ढोल सुहावने होते हैं\" इस लोकोक्ति का सही अर्थ क्या है?",
+    "explanation": "इस लोकोक्ति का अर्थ है कि दूर से चीजें देखने या सुनने में अच्छी लगती हैं, परंतु उनकी असलियत का पता नजदीक जाने पर ही चलता है।",
+    "options": [
+      { "text": "ढोल की आवाज दूर से सुनना", "isCorrect": false },
+      { "text": "दूर की चीजें अच्छी लगना या वास्तविकता से दूर होना", "isCorrect": true },
+      { "text": "संगीत पसंद होना", "isCorrect": false },
+      { "text": "दूर की योजना बनाना", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 8",
+    "subject": "Hindi Grammar",
+    "difficulty": "Very Hard",
+    "text": "\"काठ की हांडी बार-बार नहीं चढ़ती\" इस लोकोक्ति का सही अर्थ क्या है?",
+    "explanation": "इस लोकोक्ति का अर्थ है कि छल-कपट या धोखेबाजी का व्यवहार केवल एक ही बार सफल हो सकता है, बार-बार नहीं।",
+    "options": [
+      { "text": "लकड़ी के बर्तन में खाना बनाना", "isCorrect": false },
+      { "text": "छल-कपट का व्यवहार हमेशा नहीं चलता", "isCorrect": true },
+      { "text": "आर्थिक नुकसान होना", "isCorrect": false },
+      { "text": "बार-बार धोखा खाना", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 8",
+    "subject": "Hindi Grammar",
+    "difficulty": "Medium",
+    "text": "\"चारु चंद्र की चंचल किरणें, खेल रही थीं जल-थल में।\" इन पंक्तियों में कौन सा अलंकार प्रयुक्त हुआ है?",
+    "explanation": "इन पंक्तियों में 'च' वर्ण की आवृत्ति दो से अधिक बार हुई है, इसलिए यहाँ अनुप्रास अलंकार है।",
+    "options": [
+      { "text": "यमक अलंकार", "isCorrect": false },
+      { "text": "अनुप्रास अलंकार", "isCorrect": true },
+      { "text": "उपमा अलंकार", "isCorrect": false },
+      { "text": "रूपक अलंकार", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 8",
+    "subject": "Hindi Grammar",
+    "difficulty": "Hard",
+    "text": "\"कनक कनक ते सौ गुनी, मादकता अधिकाय।\" इस प्रसिद्ध पंक्ति में कौन सा अलंकार प्रयुक्त है?",
+    "explanation": "यहाँ 'कनक' शब्द दो बार आया है और दोनों बार उसका अर्थ भिन्न है (पहला सोना, दूसरा धतूरा), इसलिए यहाँ यमक अलंकार है।",
+    "options": [
+      { "text": "अनुप्रास अलंकार", "isCorrect": false },
+      { "text": "यमक अलंकार", "isCorrect": true },
+      { "text": "श्लेष अलंकार", "isCorrect": false },
+      { "text": "रूपक अलंकार", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 8",
+    "subject": "Hindi Grammar",
+    "difficulty": "Very Hard",
+    "text": "\"चरण कमल बंदौ हरिराई\" इस पंक्ति में निम्नलिखित में से कौन सा अलंकार है?",
+    "explanation": "यहाँ उपमेय (चरण) पर उपमान (कमल) का अभेद आरोप किया गया है, अर्थात चरणों को ही सीधे कमल मान लिया गया है, इसलिए यहाँ रूपक अलंकार है.",
+    "options": [
+      { "text": "उपमा अलंकार", "isCorrect": false },
+      { "text": "रूपक अलंकार", "isCorrect": true },
+      { "text": "श्लेष अलंकार", "isCorrect": false },
+      { "text": "उत्प्रेक्षा अलंकार", "isCorrect": false }
+    ]
+  }
+]

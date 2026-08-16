@@ -1,0 +1,327 @@
+[
+  {
+    "class": "Class 10",
+    "subject": "Hindi Grammar",
+    "difficulty": "EASY",
+    "text": "रचना के आधार पर मिश्र वाक्य में प्रयुक्त आश्रित उपवाक्य कितने प्रकार के होते हैं?",
+    "explanation": "मिश्र वाक्य में तीन प्रकार के आश्रित उपवाक्य होते हैं: संज्ञा उपवाक्य, विशेषण उपवाक्य और क्रियाविशेषण उपवाक्य।",
+    "options": [
+      { "text": "तीन", "isCorrect": true },
+      { "text": "चार", "isCorrect": false },
+      { "text": "दो", "isCorrect": false },
+      { "text": "पाँच", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 10",
+    "subject": "Hindi Grammar",
+    "difficulty": "EASY",
+    "text": "'मुझसे सेब खाया जाता है।' यह वाक्य किस वाच्य का उदाहरण है?",
+    "explanation": "यहाँ कर्म 'सेब' प्रधान है और क्रिया कर्म के लिंग तथा वचन के अनुसार प्रयुक्त हुई है, इसलिए यह कर्मवाच्य है।",
+    "options": [
+      { "text": "कर्मवाच्य", "isCorrect": true },
+      { "text": "कर्तृवाच्य", "isCorrect": false },
+      { "text": "भाववाच्य", "isCorrect": false },
+      { "text": "करणवाच्य", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 10",
+    "subject": "Hindi Grammar",
+    "difficulty": "EASY",
+    "text": "'रसोईघर' (रसोई के लिए घर) शब्द में कौन-सा समास है?",
+    "explanation": "'रसोईघर' का विग्रह 'रसोई के लिए घर' होता है। इसमें 'के लिए' संप्रदान कारक की विभक्ति का लोप होने के कारण संप्रदान तत्पुरुष समास है।",
+    "options": [
+      { "text": "तत्पुरुष समास", "isCorrect": true },
+      { "text": "द्वंद्व समास", "isCorrect": false },
+      { "text": "द्विगु समास", "isCorrect": false },
+      { "text": "अव्ययीभाव समास", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 10",
+    "subject": "Hindi Grammar",
+    "difficulty": "EASY",
+    "text": "'हास्य रस' का स्थायी भाव निम्नलिखित में से कौन-सा है?",
+    "explanation": "हास्य रस का स्थायी भाव हास (हँसी) होता है, जो किसी की अनोखी वेशभूषा या बातों से जागृत होता है।",
+    "options": [
+      { "text": "हास", "isCorrect": true },
+      { "text": "रति", "isCorrect": false },
+      { "text": "क्रोध", "isCorrect": false },
+      { "text": "शोक", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 10",
+    "subject": "Hindi Grammar",
+    "difficulty": "EASY",
+    "text": "'कान भरना' मुहावरे का सही अर्थ क्या है?",
+    "explanation": "किसी के विरुद्ध किसी अन्य के मन में गलत बातें बिठाना या चुगली करने के लिए 'कान भरना' मुहावरे का प्रयोग किया जाता है।",
+    "options": [
+      { "text": "पीठ पीछे चुगली करना", "isCorrect": true },
+      { "text": "दीक्षा देना", "isCorrect": false },
+      { "text": "कान में तेल डालना", "isCorrect": false },
+      { "text": "सावधान करना", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 10",
+    "subject": "Hindi Grammar",
+    "difficulty": "EASY",
+    "text": "व्याकरण में क्रियाविशेषण के मुख्य रूप से कितने भेद माने जाते हैं?",
+    "explanation": "क्रियाविशेषण के चार मुख्य भेद होते हैं: कालवाचक, स्थानवाचक, परिमाणवाचक और रीतिवाचक क्रियाविशेषण।",
+    "options": [
+      { "text": "चार", "isCorrect": true },
+      { "text": "तीन", "isCorrect": false },
+      { "text": "पाँच", "isCorrect": false },
+      { "text": "दो", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 10",
+    "subject": "Hindi Grammar",
+    "difficulty": "MEDIUM",
+    "text": "'परिश्रम करने वाले छात्र सफल होते हैं।' इस सरल वाक्य का सही संयुक्त वाक्य रूप क्या होगा?",
+    "explanation": "संयुक्त वाक्य में दो स्वतंत्र वाक्यों को 'और' योजक द्वारा जोड़ा जाता है, जैसे- 'छात्र परिश्रम करते हैं और सफल होते हैं'।",
+    "options": [
+      { "text": "छात्र परिश्रम करते हैं और सफल होते हैं।", "isCorrect": true },
+      { "text": "चूँकि छात्र परिश्रम करते हैं, इसलिए सफल होते हैं।", "isCorrect": false },
+      { "text": "जो छात्र परिश्रम करते हैं, वे सफल होते हैं।", "isCorrect": false },
+      { "text": "परिश्रमी छात्र ही सफल होते दिखाई देते हैं।", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 10",
+    "subject": "Hindi Grammar",
+    "difficulty": "MEDIUM",
+    "text": "'चलो, अब धूप में बैठा जाए।' यह वाक्य किस वाच्य के अंतर्गत आता है?",
+    "explanation": "इस वाक्य में अकर्मक क्रिया 'बैठा जाए' प्रयुक्त है और भाव की प्रधानता है, अतः यह भाववाच्य है।",
+    "options": [
+      { "text": "भाववाच्य", "isCorrect": true },
+      { "text": "कर्तृवाच्य", "isCorrect": false },
+      { "text": "कर्मवाच्य", "isCorrect": false },
+      { "text": "करणवाच्य", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 10",
+    "subject": "Hindi Grammar",
+    "difficulty": "MEDIUM",
+    "text": "'त्रिभुवन' (तीन भुवनों का समूह) शब्द का समास विग्रह किस समास का उदाहरण है?",
+    "explanation": "जिस समास का पहला पद संख्यावाचक हो और वह समूह का बोध कराए, वहाँ द्विगु समास होता है।",
+    "options": [
+      { "text": "द्विगु समास", "isCorrect": true },
+      { "text": "बहुव्रीहि समास", "isCorrect": false },
+      { "text": "कर्मधारय समास", "isCorrect": false },
+      { "text": "तत्पुरुष समास", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 10",
+    "subject": "Hindi Grammar",
+    "difficulty": "MEDIUM",
+    "text": "'रौद्र रस' का स्थायी भाव निम्नलिखित में से कौन-सा है?",
+    "explanation": "रौद्र रस का स्थायी भाव क्रोध होता है, जो अपमान या अत्याचार के विरोध में हृदय में जागृत होता है।",
+    "options": [
+      { "text": "क्रोध", "isCorrect": true },
+      { "text": "भय", "isCorrect": false },
+      { "text": "शोक", "isCorrect": false },
+      { "text": "उत्साह", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 10",
+    "subject": "Hindi Grammar",
+    "difficulty": "MEDIUM",
+    "text": "'अरे! वह गिर पड़ा।' इस वाक्य में प्रयुक्त पद 'अरे!' का सही पद-परिचय क्या है?",
+    "explanation": "'अरे!' शब्द आश्चर्य और भय के मनोभाव को व्यक्त करता है, अतः यह विस्मयादिबोधक अव्यय है।",
+    "options": [
+      { "text": "विस्मयादिबोधक अव्यय (आश्चर्य/भय सूचक)", "isCorrect": true },
+      { "text": "संबोधन कारक, संज्ञा", "isCorrect": false },
+      { "text": "क्रियाविशेषण (रीतिवाचक)", "isCorrect": false },
+      { "text": "समुच्चयबोधक अव्यय (संयोजक)", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 10",
+    "subject": "Hindi Grammar",
+    "difficulty": "MEDIUM",
+    "text": "'कनक कनक ते सौ गुनी, मादकता अधिकाय।' इस पंक्ति में कौन-सा अलंकार है?",
+    "explanation": "यहाँ 'कनक' शब्द दो बार आया है और दोनों के अर्थ अलग-अलग हैं (सोना और धतूरा), अतः यह यमक अलंकार है।",
+    "options": [
+      { "text": "यमक अलंकार", "isCorrect": true },
+      { "text": "श्लेष अलंकार", "isCorrect": false },
+      { "text": "अनुप्रास अलंकार", "isCorrect": false },
+      { "text": "उपमा अलंकार", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 10",
+    "subject": "Hindi Grammar",
+    "difficulty": "MEDIUM",
+    "text": "'दाँत खट्टे करना' मुहावरे का सही अर्थ क्या है?",
+    "explanation": "'दाँत खट्टे करना' मुहावरे का अर्थ है विरोधियों को बुरी तरह पराजित करना या हराना।",
+    "options": [
+      { "text": "बुरी तरह हराना", "isCorrect": true },
+      { "text": "खट्टी चीज़ खाना", "isCorrect": false },
+      { "text": "ईर्ष्या करना", "isCorrect": false },
+      { "text": "दाँत साफ करना", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 10",
+    "subject": "Hindi Grammar",
+    "difficulty": "HARD",
+    "text": "'जब मैं छोटा था, तब साइकिल चलाता था।' यह किस प्रकार का वाक्य है?",
+    "explanation": "इस वाक्य में 'जब मैं छोटा था' क्रियाविशेषण आश्रित उपवाक्य है, जो 'तब' योजक से जुड़ा है। अतः यह मिश्र वाक्य है।",
+    "options": [
+      { "text": "मिश्र वाक्य", "isCorrect": true },
+      { "text": "संयुक्त वाक्य", "isCorrect": false },
+      { "text": "सरल वाक्य", "isCorrect": false },
+      { "text": "विधानवाचक वाक्य", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 10",
+    "subject": "Hindi Grammar",
+    "difficulty": "HARD",
+    "text": "'चोर पुलिस द्वारा पकड़ा गया।' यह वाक्य किस वाच्य का उदाहरण है?",
+    "explanation": "यहाँ कर्ता अप्रधान है, कर्म 'चोर' प्रधान है और कर्ता के बाद 'द्वारा' लगा है, इसलिए यह कर्मवाच्य है।",
+    "options": [
+      { "text": "कर्मवाच्य", "isCorrect": true },
+      { "text": "कर्तृवाच्य", "isCorrect": false },
+      { "text": "भाववाच्य", "isCorrect": false },
+      { "text": "करणवाच्य", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 10",
+    "subject": "Hindi Grammar",
+    "difficulty": "HARD",
+    "text": "यदि 'नीलकंठ' शब्द का विग्रह 'नीला है जो कंठ' किया जाए, तो कौन-सा समास होगा?",
+    "explanation": "यदि केवल कंठ की विशेषता बताई जाए (विशेषण-विशेष्य), तो वहाँ कर्मधारय समास माना जाएगा।",
+    "options": [
+      { "text": "कर्मधारय समास", "isCorrect": true },
+      { "text": "बहुव्रीहि समास", "isCorrect": false },
+      { "text": "अव्ययीभाव समास", "isCorrect": false },
+      { "text": "तत्पुरुष समास", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 10",
+    "subject": "Hindi Grammar",
+    "difficulty": "HARD",
+    "text": "'सैनिकों ने युद्ध जीता।' इस वाक्य में रेखांकित पद 'युद्ध' का सही पद-परिचय क्या होगा?",
+    "explanation": "'युद्ध' जातिवाचक संज्ञा है, जो एकवचन, पुल्लिंग और सकर्मक क्रिया 'जीता' का कर्म होने से कर्म कारक है।",
+    "options": [
+      { "text": "जातिवाचक संज्ञा, पुल्लिंग, एकवचन, कर्म कारक", "isCorrect": true },
+      { "text": "व्यक्तिवाचक संज्ञा, पुल्लिंग, एकवचन, कर्ता कारक", "isCorrect": false },
+      { "text": "भाववाचक संज्ञा, स्त्रीलिंग, बहुवचन", "isCorrect": false },
+      { "text": "जातिवाचक संज्ञा, स्त्रीलिंग, एकवचन, कर्म कारक", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 10",
+    "subject": "Hindi Grammar",
+    "difficulty": "HARD",
+    "text": "'भयानक रस' का स्थायी भाव कौन-सा है?",
+    "explanation": "भयानक रस का स्थायी भाव भय होता है, जो किसी अनिष्टकारी वस्तु या परिस्थिति को देखकर हृदय में उत्पन्न होता है।",
+    "options": [
+      { "text": "भय", "isCorrect": true },
+      { "text": "क्रोध", "isCorrect": false },
+      { "text": "शोक", "isCorrect": false },
+      { "text": "जुगुप्सा", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 10",
+    "subject": "Hindi Grammar",
+    "difficulty": "HARD",
+    "text": "'पीपर पात सरिस मन डोला।' इस पंक्ति में कौन-सा अलंकार प्रयुक्त है?",
+    "explanation": "यहाँ मन (उपमेय) की तुलना पीपल के पत्ते (उपमान) से की गई है, अतः यह उपमा अलंकार है।",
+    "options": [
+      { "text": "उपमा अलंकार", "isCorrect": true },
+      { "text": "रूपक अलंकार", "isCorrect": false },
+      { "text": "उत्प्रेक्षा अलंकार", "isCorrect": false },
+      { "text": "अतिशयोक्ति अलंकार", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 10",
+    "subject": "Hindi Grammar",
+    "difficulty": "VERY HARD",
+    "text": "'मैं कल दिल्ली जाऊँगा।' इस वाक्य में प्रयुक्त पद 'मैं' का सही पद-परिचय क्या होगा?",
+    "explanation": "'मैं' उत्तम पुरुषवाचक सर्वनाम है, जो एकवचन, पुल्लिंग/स्त्रीलिंग और कर्ता कारक के रूप में प्रयुक्त हुआ है।",
+    "options": [
+      { "text": "पुरुषवाचक सर्वनाम (उत्तम पुरुष), एकवचन, पुल्लिंग/स्त्रीलिंग, कर्ता कारक", "isCorrect": true },
+      { "text": "निश्चयवाचक सर्वनाम, स्त्रीलिंग, बहुवचन", "isCorrect": false },
+      { "text": "निजवाचक सर्वनाम, एकवचन, अन्य पुरुष", "isCorrect": false },
+      { "text": "सार्वनामिक विशेषण, एकवचन, पुल्लिंग", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 10",
+    "subject": "Hindi Grammar",
+    "difficulty": "VERY HARD",
+    "text": "'जो घड़ी तुमने मुझे दी थी, वह खो गई।' इस वाक्य में 'जो घड़ी तुमने मुझे दी थी' किस प्रकार का आश्रित उपवाक्य है?",
+    "explanation": "यह उपवाक्य खो जाने वाली संज्ञा 'घड़ी' की विशेषता बता रहा है, इसलिए यह विशेषण आश्रित उपवाक्य है।",
+    "options": [
+      { "text": "विशेषण आश्रित उपवाक्य", "isCorrect": true },
+      { "text": "संज्ञा आश्रित उपवाक्य", "isCorrect": false },
+      { "text": "क्रियाविशेषण आश्रित उपवाक्य", "isCorrect": false },
+      { "text": "प्रधान उपवाक्य", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 10",
+    "subject": "Hindi Grammar",
+    "difficulty": "VERY HARD",
+    "text": "'पक्षी चहचहा रहे हैं।' इस वाक्य का सही भाववाच्य रूप क्या होगा?",
+    "explanation": "भाववाच्य में क्रिया अकर्मक होती है और कर्ता के साथ 'द्वारा' लगाकर क्रिया को एकवचन पुल्लिंग अन्य पुरुष में बदला जाता है।",
+    "options": [
+      { "text": "पक्षियों द्वारा चहचहाया जा रहा है।", "isCorrect": true },
+      { "text": "पक्षी चहचहा नहीं सकते।", "isCorrect": false },
+      { "text": "पक्षियों से चहचहाया जाता था।", "isCorrect": false },
+      { "text": "आकाश में पक्षी चहचहाते हैं।", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 10",
+    "subject": "Hindi Grammar",
+    "difficulty": "VERY HARD",
+    "text": "करुण रस की निष्पत्ति के लिए शारीरिक चेष्टाएँ (अनुभाव) निम्नलिखित में से क्या हो सकती हैं?",
+    "explanation": "करुण रस के जागृत होने पर आश्रय द्वारा रोना, विलाप करना, पछाड़ खाकर गिरना, छाती पीटना आदि अनुभाव होते हैं।",
+    "options": [
+      { "text": "रुदन, विलाप करना, पछाड़ खाकर गिरना, लंबी सांसें लेना", "isCorrect": true },
+      { "text": "मुस्कुराना, आँखें बंद करना, तालियाँ बजाना", "isCorrect": false },
+      { "text": "आँखें लाल करना, हथियार उठाना, गर्जना करना", "isCorrect": false },
+      { "text": "काँपना, पसीना आना, रोमांच होना", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 10",
+    "subject": "Hindi Grammar",
+    "difficulty": "VERY HARD",
+    "text": "'प्रतिवर्ष' (वर्ष-वर्ष) शब्द में कौन-सा समास पाया जाता है?",
+    "explanation": "जिस समास का पहला पद 'प्रति' अव्यय और प्रधान हो, वह अव्ययीभाव समास कहलाता है।",
+    "options": [
+      { "text": "अव्ययीभाव समास", "isCorrect": true },
+      { "text": "तत्पुरुष समास", "isCorrect": false },
+      { "text": "कर्मधारय समास", "isCorrect": false },
+      { "text": "द्विगु समास", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 10",
+    "subject": "Hindi Grammar",
+    "difficulty": "VERY HARD",
+    "text": "'यह कार मेरी है।' इस वाक्य में प्रयुक्त पद 'यह' का सही पद-परिचय क्या होगा?",
+    "explanation": "'यह' शब्द संज्ञा 'कार' से तुरंत पहले आकर उसकी विशेषता बता रहा है, अतः यह सार्वनामिक विशेषण है।",
+    "options": [
+      { "text": "सार्वनामिक विशेषण, विशेष्य- कार, एकवचन, स्त्रीलिंग", "isCorrect": true },
+      { "text": "निश्चयवाचक सर्वनाम, स्त्रीलिंग, एकवचन, कर्ता कारक", "isCorrect": false },
+      { "text": "पुरुषवाचक सर्वनाम (अन्य पुरुष), स्त्रीलिंग, एकवचन", "isCorrect": false },
+      { "text": "गुणवाचक विशेषण, एकवचन, स्त्रीलिंग", "isCorrect": false }
+    ]
+  }
+]

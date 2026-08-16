@@ -1,0 +1,152 @@
+[
+  {
+    "text": "What is the treatment of proposed dividend as per AS-3?",
+    "options": [
+      "It is treated as a liability and shown in the balance sheet.",
+      "It is not shown in the balance sheet.",
+      "It is treated as a revenue and shown in the profit and loss account.",
+      "It is treated as a capital receipt and shown in the cash flow statement."
+    ],
+    "correctAnswer": "It is treated as a liability and shown in the balance sheet.",
+    "explanation": "According to AS-3, proposed dividend is treated as a liability and shown in the balance sheet. This is because it is a commitment to pay a certain amount to the shareholders, and it is not a cash flow.",
+    "difficulty": "Easy",
+    "class": "Class 12",
+    "subject": "Accountancy",
+    "chapter": "Ch 11: Cash Flow Statement"
+  },
+  {
+    "text": "What is the effect of purchase of a fixed asset with accumulated depreciation on the cash flow statement?",
+    "options": [
+      "It is treated as a cash outflow.",
+      "It is treated as a cash inflow.",
+      "It has no effect on the cash flow statement.",
+      "It is treated as a non-cash item."
+    ],
+    "correctAnswer": "It is treated as a non-cash item.",
+    "explanation": "When a fixed asset is purchased with accumulated depreciation, the cash outflow is equal to the cost of the asset minus the accumulated depreciation. However, this is a non-cash item, and it is not shown in the cash flow statement. Instead, it is shown in the statement of changes in financial position.",
+    "difficulty": "Medium",
+    "class": "Class 12",
+    "subject": "Accountancy",
+    "chapter": "Ch 11: Cash Flow Statement"
+  },
+  {
+    "text": "What is the treatment of interim dividend on the cash flow statement?",
+    "options": [
+      "It is treated as a cash outflow.",
+      "It is treated as a cash inflow.",
+      "It has no effect on the cash flow statement.",
+      "It is treated as a non-cash item."
+    ],
+    "correctAnswer": "It is treated as a cash outflow.",
+    "explanation": "Interim dividend is paid during the year, and it is a cash outflow. Therefore, it is shown as a cash outflow in the cash flow statement.",
+    "difficulty": "Easy",
+    "class": "Class 12",
+    "subject": "Accountancy",
+    "chapter": "Ch 11: Cash Flow Statement"
+  },
+  {
+    "text": "What is the effect of sale of a fixed asset with accumulated depreciation on the cash flow statement?",
+    "options": [
+      "It is treated as a cash inflow.",
+      "It is treated as a cash outflow.",
+      "It has no effect on the cash flow statement.",
+      "It is treated as a non-cash item."
+    ],
+    "correctAnswer": "It is treated as a cash inflow.",
+    "explanation": "When a fixed asset is sold with accumulated depreciation, the cash inflow is equal to the sale proceeds minus the accumulated depreciation. This is a cash inflow, and it is shown in the cash flow statement.",
+    "difficulty": "Medium",
+    "class": "Class 12",
+    "subject": "Accountancy",
+    "chapter": "Ch 11: Cash Flow Statement"
+  },
+  {
+    "text": "What is the classification of cash and cash equivalents in the cash flow statement?",
+    "options": [
+      "Cash and cash equivalents are classified as cash inflows.",
+      "Cash and cash equivalents are classified as cash outflows.",
+      "Cash and cash equivalents are classified as non-cash items.",
+      "Cash and cash equivalents are classified as operating activities."
+    ],
+    "correctAnswer": "Cash and cash equivalents are classified as cash inflows.",
+    "explanation": "Cash and cash equivalents are classified as cash inflows in the cash flow statement. This is because they are liquid assets that can be easily converted into cash.",
+    "difficulty": "Easy",
+    "class": "Class 12",
+    "subject": "Accountancy",
+    "chapter": "Ch 11: Cash Flow Statement"
+  },
+  {
+    "text": "What is the effect of purchase of a fixed asset with accumulated depreciation on the statement of changes in financial position?",
+    "options": [
+      "It is treated as a cash outflow.",
+      "It is treated as a cash inflow.",
+      "It has no effect on the statement of changes in financial position.",
+      "It is treated as a non-cash item."
+    ],
+    "correctAnswer": "It is treated as a non-cash item.",
+    "explanation": "When a fixed asset is purchased with accumulated depreciation, the cash outflow is equal to the cost of the asset minus the accumulated depreciation. However, this is a non-cash item, and it is not shown in the statement of changes in financial position. Instead, it is shown in the cash flow statement.",
+    "difficulty": "Medium",
+    "class": "Class 12",
+    "subject": "Accountancy",
+    "chapter": "Ch 11: Cash Flow Statement"
+  },
+  {
+    "text": "What is the treatment of proposed dividend on the statement of changes in financial position?",
+    "options": [
+      "It is treated as a liability and shown in the balance sheet.",
+      "It is not shown in the statement of changes in financial position.",
+      "It is treated as a revenue and shown in the profit and loss account.",
+      "It is treated as a capital receipt and shown in the cash flow statement."
+    ],
+    "correctAnswer": "It is treated as a liability and shown in the balance sheet.",
+    "explanation": "According to AS-3, proposed dividend is treated as a liability and shown in the balance sheet. This is because it is a commitment to pay a certain amount to the shareholders, and it is not a cash flow.",
+    "difficulty": "Easy",
+    "class": "Class 12",
+    "subject": "Accountancy",
+    "chapter": "Ch 11: Cash Flow Statement"
+  },
+  {
+    "text": "What is the effect of sale of a fixed asset with accumulated depreciation on the statement of changes in financial position?",
+    "options": [
+      "It is treated as a cash inflow.",
+      "It is treated as a cash outflow.",
+      "It has no effect on the statement of changes in financial position.",
+      "It is treated as a non-cash item."
+    ],
+    "correctAnswer": "It is treated as a cash inflow.",
+    "explanation": "When a fixed asset is sold with accumulated depreciation, the cash inflow is equal to the sale proceeds minus the accumulated depreciation. This is a cash inflow, and it is shown in the statement of changes in financial position.",
+    "difficulty": "Medium",
+    "class": "Class 12",
+    "subject": "Accountancy",
+    "chapter": "Ch 11: Cash Flow Statement"
+  },
+  {
+    "text": "What is the classification of cash and cash equivalents in the statement of changes in financial position?",
+    "options": [
+      "Cash and cash equivalents are classified as cash inflows.",
+      "Cash and cash equivalents are classified as cash outflows.",
+      "Cash and cash equivalents are classified as non-cash items.",
+      "Cash and cash equivalents are classified as operating activities."
+    ],
+    "correctAnswer": "Cash and cash equivalents are classified as cash inflows.",
+    "explanation": "Cash and cash equivalents are classified as cash inflows in the statement of changes in financial position. This is because they are liquid assets that can be easily converted into cash.",
+    "difficulty": "Easy",
+    "class": "Class 12",
+    "subject": "Accountancy",
+    "chapter": "Ch 11: Cash Flow Statement"
+  },
+  {
+    "text": "A company purchases a fixed asset for $$10,000$ and incurs an additional cost of $$2,000$ for installation. The accumulated depreciation on the asset is $$3,000$. What is the effect of this transaction on the cash flow statement?",
+    "options": [
+      "It is treated as a cash outflow of $$9,000$.",
+      "It is treated as a cash outflow of $$11,000$.",
+      "It is treated as a cash inflow of $$7,000$.",
+      "It is treated as a non-cash item."
+    ],
+    "correctAnswer": "It is treated as a cash outflow of $$9,000$.",
+    "explanation": "The cash outflow is equal to the cost of the asset plus the installation cost minus the accumulated depreciation. Therefore, the cash outflow is $$10,000 + $2,000 - $3,000 = $9,000$.",
+    "difficulty": "Medium",
+    "class": "Class 12",
+    "subject": "Accountancy",
+    "chapter": "Ch 11: Cash Flow Statement"
+  }
+]

@@ -1,0 +1,327 @@
+[
+  {
+    "class": "Class 9",
+    "subject": "Science",
+    "difficulty": "EASY",
+    "text": "What is the physical state of water at $0^\\circ\\text{C}$?",
+    "explanation": "At $0^\\circ\\text{C}$ (melting point of ice / freezing point of water), water exists in equilibrium as both solid (ice) and liquid states.",
+    "options": [
+      { "text": "Solid only", "isCorrect": false },
+      { "text": "Liquid only", "isCorrect": false },
+      { "text": "Solid and liquid both", "isCorrect": true },
+      { "text": "Gas only", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 9",
+    "subject": "Science",
+    "difficulty": "EASY",
+    "text": "Which cellular organelle is responsible for releasing energy through cellular respiration?",
+    "explanation": "Mitochondria are responsible for cellular respiration, converting chemical energy of food into ATP.",
+    "options": [
+      { "text": "Chloroplast", "isCorrect": false },
+      { "text": "Mitochondrion", "isCorrect": true },
+      { "text": "Ribosome", "isCorrect": false },
+      { "text": "Lysosome", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 9",
+    "subject": "Science",
+    "difficulty": "EASY",
+    "text": "What is the mathematical relation between the frequency ($\\nu$) and time period ($T$) of a wave?",
+    "explanation": "Frequency is defined as the reciprocal of the time period of a wave: $\\nu = \\frac{1}{T}$.",
+    "options": [
+      { "text": "$\\nu = T$", "isCorrect": false },
+      { "text": "$\\nu = \\frac{1}{T}$", "isCorrect": true },
+      { "text": "$\\nu = T^2$", "isCorrect": false },
+      { "text": "$\\nu = \\frac{1}{T^2}$", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 9",
+    "subject": "Science",
+    "difficulty": "EASY",
+    "text": "Which separation method is used to separate the different colored pigments from black ink?",
+    "explanation": "Chromatography is used to separate solutes that dissolve in the same solvent (like dyes in ink).",
+    "options": [
+      { "text": "Evaporation", "isCorrect": false },
+      { "text": "Chromatography", "isCorrect": true },
+      { "text": "Centrifugation", "isCorrect": false },
+      { "text": "Distillation", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 9",
+    "subject": "Science",
+    "difficulty": "EASY",
+    "text": "Which animal tissue is specialized for storing fat in our body?",
+    "explanation": "Adipose tissue cells are filled with fat globules; it is found below the skin and between internal organs.",
+    "options": [
+      { "text": "Areolar tissue", "isCorrect": false },
+      { "text": "Adipose tissue", "isCorrect": true },
+      { "text": "Cartilage", "isCorrect": false },
+      { "text": "Tendon", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 9",
+    "subject": "Science",
+    "difficulty": "EASY",
+    "text": "What is the acceleration of a body moving with a constant velocity?",
+    "explanation": "Acceleration is the rate of change of velocity. If velocity is constant, the change in velocity is zero, so acceleration is zero.",
+    "options": [
+      { "text": "Constant positive value", "isCorrect": false },
+      { "text": "Zero", "isCorrect": true },
+      { "text": "Constant negative value", "isCorrect": false },
+      { "text": "Infinite", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 9",
+    "subject": "Science",
+    "difficulty": "MEDIUM",
+    "text": "Which of the following is classified as a chemical compound?",
+    "explanation": "Water is a chemical compound composed of Hydrogen and Oxygen in a fixed ratio. Iron is an element, while air and soil are mixtures.",
+    "options": [
+      { "text": "Air", "isCorrect": false },
+      { "text": "Water", "isCorrect": true },
+      { "text": "Iron", "isCorrect": false },
+      { "text": "Soil", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 9",
+    "subject": "Science",
+    "difficulty": "MEDIUM",
+    "text": "Which animal epithelial tissue is found in the lining of the stomach and intestine, facilitating absorption and secretion?",
+    "explanation": "Columnar epithelium consists of tall pillar-like cells, which are present where absorption and secretion occur.",
+    "options": [
+      { "text": "Squamous epithelium", "isCorrect": false },
+      { "text": "Columnar epithelium", "isCorrect": true },
+      { "text": "Cuboidal epithelium", "isCorrect": false },
+      { "text": "Ciliated epithelium", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 9",
+    "subject": "Science",
+    "difficulty": "MEDIUM",
+    "text": "A sailor jumps forward out of a boat. The boat moves backward. This illustrates which law of motion?",
+    "explanation": "According to Newton's third law of motion, the forward force of the sailor's jump has an equal and opposite reaction force pushing the boat backward.",
+    "options": [
+      { "text": "Newton's first law of motion", "isCorrect": false },
+      { "text": "Newton's third law of motion", "isCorrect": true },
+      { "text": "Newton's second law of motion", "isCorrect": false },
+      { "text": "Law of conservation of energy", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 9",
+    "subject": "Science",
+    "difficulty": "MEDIUM",
+    "text": "What is the chemical valency of a Magnesium atom (Atomic number $= 12$)?",
+    "explanation": "Magnesium has electronic configuration $2, 8, 2$. It loses $2$ valence electrons to gain octet stability, so its valency is $2$.",
+    "options": [
+      { "text": "$1$", "isCorrect": false },
+      { "text": "$2$", "isCorrect": true },
+      { "text": "$6$", "isCorrect": false },
+      { "text": "$0$", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 9",
+    "subject": "Science",
+    "difficulty": "MEDIUM",
+    "text": "Which of the following is NOT a branch of animal husbandry?",
+    "explanation": "Apiculture (beekeeping), poultry, and pisciculture (fish farming) are parts of animal husbandry. Crop variety hybridization is a plant breeding method.",
+    "options": [
+      { "text": "Apiculture", "isCorrect": false },
+      { "text": "Crop variety hybridization", "isCorrect": true },
+      { "text": "Poultry farming", "isCorrect": false },
+      { "text": "Pisciculture", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 9",
+    "subject": "Science",
+    "difficulty": "MEDIUM",
+    "text": "Calculate the kinetic energy of an object of mass $10\\text{ kg}$ moving with a uniform velocity of $4\\text{ m/s}$.",
+    "explanation": "Kinetic energy $E_k = \\frac{1}{2}mv^2 = \\frac{1}{2} \\times 10 \\times 16 = 80\\text{ J}$.",
+    "options": [
+      { "text": "$40\\text{ J}$", "isCorrect": false },
+      { "text": "$80\\text{ J}$", "isCorrect": true },
+      { "text": "$160\\text{ J}$", "isCorrect": false },
+      { "text": "$20\\text{ J}$", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 9",
+    "subject": "Science",
+    "difficulty": "MEDIUM",
+    "text": "What is the number of atoms present in a single molecule of an element called?",
+    "explanation": "Atomicity is the total number of atoms constituting a molecule of an element (e.g., oxygen has an atomicity of 2).",
+    "options": [
+      { "text": "Atomic number", "isCorrect": false },
+      { "text": "Atomicity", "isCorrect": true },
+      { "text": "Valency", "isCorrect": false },
+      { "text": "Mass number", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 9",
+    "subject": "Science",
+    "difficulty": "MEDIUM",
+    "text": "Which parenchymatous tissue has large air cavities that provide buoyancy to help aquatic plants float?",
+    "explanation": "Aerenchyma is a type of parenchyma tissue found in aquatic plants containing air cavities.",
+    "options": [
+      { "text": "Chlorenchyma", "isCorrect": false },
+      { "text": "Aerenchyma", "isCorrect": true },
+      { "text": "Collenchyma", "isCorrect": false },
+      { "text": "Sclerenchyma", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 9",
+    "subject": "Science",
+    "difficulty": "MEDIUM",
+    "text": "Find the weight of a baby of mass $9.8\\text{ kg}$ on the Earth's surface (take $g = 9.8\\text{ m/s}^2$).",
+    "explanation": "Weight $W = mg = 9.8 \\times 9.8 = 96.04\\text{ N}$.",
+    "options": [
+      { "text": "$9.8\\text{ N}$", "isCorrect": false },
+      { "text": "$96.0\\text{ N}$", "isCorrect": true },
+      { "text": "$1\\text{ N}$", "isCorrect": false },
+      { "text": "$19.6\\text{ N}$", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 9",
+    "subject": "Science",
+    "difficulty": "HARD",
+    "text": "How do physical changes differ from chemical changes in terms of molecular composition and energy requirements?",
+    "explanation": "Physical changes involve no change in chemical composition and usually involve small energy changes; chemical changes create new substances with high energy exchanges.",
+    "options": [
+      { "text": "Physical changes create new molecules with high chemical energy", "isCorrect": false },
+      { "text": "Chemical changes alter molecular composition and involve significant energy exchange; physical changes do not", "isCorrect": true },
+      { "text": "Chemical changes are always easily reversible through physical filtration", "isCorrect": false },
+      { "text": "Physical changes occur only at absolute zero temperature", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 9",
+    "subject": "Science",
+    "difficulty": "HARD",
+    "text": "Which component of the complex tissue phloem consists of dead cells?",
+    "explanation": "Phloem fibers are dead sclerenchymatous cells; sieve tubes, companion cells, and phloem parenchyma are living cells.",
+    "options": [
+      { "text": "Sieve tubes", "isCorrect": false },
+      { "text": "Phloem fibers", "isCorrect": true },
+      { "text": "Companion cells", "isCorrect": false },
+      { "text": "Phloem parenchyma", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 9",
+    "subject": "Science",
+    "difficulty": "HARD",
+    "text": "A sound wave has a frequency of $1000\\text{ Hz}$ and a wavelength of $34\\text{ cm}$. Calculate its propagation speed.",
+    "explanation": "Wavelength $\\lambda = 34\\text{ cm} = 0.34\\text{ m}$. Speed $v = \\nu \\lambda = 1000\\text{ Hz} \\times 0.34\\text{ m} = 340\\text{ m/s}$.",
+    "options": [
+      { "text": "$34\\text{ m/s}$", "isCorrect": false },
+      { "text": "$340\\text{ m/s}$", "isCorrect": true },
+      { "text": "$3400\\text{ m/s}$", "isCorrect": false },
+      { "text": "$170\\text{ m/s}$", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 9",
+    "subject": "Science",
+    "difficulty": "HARD",
+    "text": "Calculate the mass of $0.2\\text{ moles}$ of Oxygen atoms ($\\text{O}$). (Atomic mass $= 16\\text{ u}$)",
+    "explanation": "Mass = Moles $\\times$ Molar mass $= 0.2 \\times 16\\text{ g} = 3.2\\text{ g}$.",
+    "options": [
+      { "text": "$1.6\\text{ g}$", "isCorrect": false },
+      { "text": "$3.2\\text{ g}$", "isCorrect": true },
+      { "text": "$6.4\\text{ g}$", "isCorrect": false },
+      { "text": "$0.8\\text{ g}$", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 9",
+    "subject": "Science",
+    "difficulty": "HARD",
+    "text": "What is the primary objective of cross-breeding local cattle varieties with exotic breeds?",
+    "explanation": "Cross-breeding aims to combine the disease resistance of local breeds with the long lactation periods of exotic breeds.",
+    "options": [
+      { "text": "To increase the drought resistance of crops grown nearby", "isCorrect": false },
+      { "text": "To combine high disease resistance and long lactation periods in the offspring", "isCorrect": true },
+      { "text": "To reduce the feed requirement of the hybrid offspring", "isCorrect": false },
+      { "text": "To produce calves that do not require vaccination", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 9",
+    "subject": "Science",
+    "difficulty": "HARD",
+    "text": "A body of mass $5\\text{ kg}$ is thrown vertically upwards with a speed of $20\\text{ m/s}$. Find its kinetic energy after $1\\text{ s}$ (take $g = 10\\text{ m/s}^2$).",
+    "explanation": "Velocity after $1\\text{ s}$: $v = u - gt = 20 - 10(1) = 10\\text{ m/s}$. Kinetic energy $E_k = \\frac{1}{2}mv^2 = \\frac{1}{2} \\times 5 \\times 100 = 250\\text{ J}$.",
+    "options": [
+      { "text": "$1000\\text{ J}$", "isCorrect": false },
+      { "text": "$250\\text{ J}$", "isCorrect": true },
+      { "text": "$500\\text{ J}$", "isCorrect": false },
+      { "text": "$125\\text{ J}$", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 9",
+    "subject": "Science",
+    "difficulty": "VERY HARD",
+    "text": "Write the electronic configuration, valence shell, and chemical valency of Nitrogen (Atomic number $= 7$) and Sulfur (Atomic number $= 16$).",
+    "explanation": "Nitrogen: $2, 5$ (Valence shell: L, Valency: $8-5=3$). Sulfur: $2, 8, 6$ (Valence shell: M, Valency: $8-6=2$).",
+    "options": [
+      { "text": "Nitrogen: $2, 3$ (Valency $3$); Sulfur: $2, 8, 6$ (Valency $6$)", "isCorrect": false },
+      { "text": "Nitrogen: $2, 5$ (Valence shell L, Valency $3$); Sulfur: $2, 8, 6$ (Valence shell M, Valency $2$)", "isCorrect": true },
+      { "text": "Nitrogen: $2, 5$ (Valency $5$); Sulfur: $2, 6, 8$ (Valency $8$)", "isCorrect": false },
+      { "text": "Nitrogen: $5$ (Valency $3$); Sulfur: $6$ (Valency $6$)", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 9",
+    "subject": "Science",
+    "difficulty": "VERY HARD",
+    "text": "Compare blood tissue and bone tissue on the basis of their intercellular matrix composition and physical properties.",
+    "explanation": "Blood has a fluid plasma matrix containing proteins and salts, facilitating transport; bone has a hard matrix composed of calcium and phosphorus, providing support.",
+    "options": [
+      { "text": "Blood matrix is made of calcium; bone matrix is purely proteinaceous", "isCorrect": false },
+      { "text": "Blood has a fluid matrix (plasma) for transport; bone has a hard, rigid matrix of calcium and phosphorus for support", "isCorrect": true },
+      { "text": "Both tissues contain a flexible collagen matrix with zero inorganic salt deposition", "isCorrect": false },
+      { "text": "Bone has no cellular components; blood cells lack cytoplasm", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 9",
+    "subject": "Science",
+    "difficulty": "VERY HARD",
+    "text": "Show how Newton's first law of motion can be mathematically derived from Newton's second law of motion.",
+    "explanation": "From second law, $F = ma = \\frac{m(v - u)}{t} \\Rightarrow Ft = mv - mu$. If force $F = 0$, then $mv = mu \\Rightarrow v = u$, meaning the body maintains its state of motion.",
+    "options": [
+      { "text": "Newton's first law cannot be derived since it is purely qualitative", "isCorrect": false },
+      { "text": "From $F = \\frac{m(v-u)}{t}$, setting $F = 0$ yields $v = u$, showing a body remains in its state of rest or uniform motion", "isCorrect": true },
+      { "text": "Setting $m = 0$ in $F = ma$ shows that only massless bodies obey inertia", "isCorrect": false },
+      { "text": "Substituting conservation of momentum into $F = ma^2$ yields $v = 0$", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 9",
+    "subject": "Science",
+    "difficulty": "VERY HARD",
+    "text": "A stone is dropped from a cliff $80\\text{ m}$ high. Calculate its velocity just before hitting the ground, and the total time taken (take $g = 10\\text{ m/s}^2$).",
+    "explanation": "$u = 0$, $h = 80\\text{ m}$, $g = 10\\text{ m/s}^2$. Time $t = \\sqrt{\\frac{2h}{g}} = \\sqrt{\\frac{160}{10}} = 4\\text{ s}$. Velocity $v = u + gt = 0 + 10(4) = 40\\text{ m/s}$.",
+    "options": [
+      { "text": "Velocity $= 20\\text{ m/s}$, Time $= 2\\text{ s}$", "isCorrect": false },
+      { "text": "Velocity $= 40\\text{ m/s}$, Time $= 4\\text{ s}$", "isCorrect": true },
+      { "text": "Velocity $= 80\\text{ m/s}$, Time $= 8\\text{ s}$", "isCorrect": false },
+      { "text": "Velocity $= 40\\text{ m/s}$, Time $= 8\\text{ s}$", "isCorrect": false }
+    ]
+  }
+]

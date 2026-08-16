@@ -1,0 +1,332 @@
+[
+  {
+    "text": "What is the primary purpose of a Cash Book in accounting?",
+    "options": [
+      "To record all credit transactions",
+      "To record all cash and bank transactions",
+      "To record all asset transactions",
+      "To record all liability transactions"
+    ],
+    "correctAnswer": "To record all cash and bank transactions",
+    "explanation": "A Cash Book is a book of account that records all cash and bank transactions of a business. It is a primary book of entry and is used to record all receipts and payments of cash and bank transactions.",
+    "difficulty": "Easy",
+    "class": "Class 11",
+    "subject": "Accountancy",
+    "chapter": "Ch 4: Recording of Transactions - II"
+  },
+  {
+    "text": "What is the difference between a Single Column Cash Book and a Double Column Cash Book?",
+    "options": [
+      "A Single Column Cash Book records only cash transactions, while a Double Column Cash Book records both cash and bank transactions",
+      "A Single Column Cash Book records only bank transactions, while a Double Column Cash Book records both cash and bank transactions",
+      "A Single Column Cash Book records only credit transactions, while a Double Column Cash Book records both cash and credit transactions",
+      "A Single Column Cash Book records only asset transactions, while a Double Column Cash Book records both asset and liability transactions"
+    ],
+    "correctAnswer": "A Single Column Cash Book records only cash transactions, while a Double Column Cash Book records both cash and bank transactions",
+    "explanation": "A Single Column Cash Book records only cash transactions, while a Double Column Cash Book records both cash and bank transactions. The Double Column Cash Book has two columns, one for cash and one for bank transactions.",
+    "difficulty": "Medium",
+    "class": "Class 11",
+    "subject": "Accountancy",
+    "chapter": "Ch 4: Recording of Transactions - II"
+  },
+  {
+    "text": "What is the purpose of a Petty Cash Book?",
+    "options": [
+      "To record all cash transactions",
+      "To record all bank transactions",
+      "To record all small cash transactions",
+      "To record all credit transactions"
+    ],
+    "correctAnswer": "To record all small cash transactions",
+    "explanation": "A Petty Cash Book is a book of account that records all small cash transactions of a business. It is used to record transactions that are too small to be recorded in the main Cash Book.",
+    "difficulty": "Easy",
+    "class": "Class 11",
+    "subject": "Accountancy",
+    "chapter": "Ch 4: Recording of Transactions - II"
+  },
+  {
+    "text": "What is the Imprest System of Petty Cash?",
+    "options": [
+      "A system where the petty cash balance is not fixed",
+      "A system where the petty cash balance is fixed",
+      "A system where all cash transactions are recorded",
+      "A system where all bank transactions are recorded"
+    ],
+    "correctAnswer": "A system where the petty cash balance is fixed",
+    "explanation": "The Imprest System of Petty Cash is a system where the petty cash balance is fixed. The petty cash balance is replenished periodically to maintain the fixed balance.",
+    "difficulty": "Medium",
+    "class": "Class 11",
+    "subject": "Accountancy",
+    "chapter": "Ch 4: Recording of Transactions - II"
+  },
+  {
+    "text": "What is the purpose of a Purchases Book?",
+    "options": [
+      "To record all cash transactions",
+      "To record all bank transactions",
+      "To record all credit purchases",
+      "To record all asset transactions"
+    ],
+    "correctAnswer": "To record all credit purchases",
+    "explanation": "A Purchases Book is a book of account that records all credit purchases of a business. It is used to record transactions where goods are purchased on credit.",
+    "difficulty": "Easy",
+    "class": "Class 11",
+    "subject": "Accountancy",
+    "chapter": "Ch 4: Recording of Transactions - II"
+  },
+  {
+    "text": "What is the purpose of a Sales Book?",
+    "options": [
+      "To record all cash transactions",
+      "To record all bank transactions",
+      "To record all credit sales",
+      "To record all asset transactions"
+    ],
+    "correctAnswer": "To record all credit sales",
+    "explanation": "A Sales Book is a book of account that records all credit sales of a business. It is used to record transactions where goods are sold on credit.",
+    "difficulty": "Easy",
+    "class": "Class 11",
+    "subject": "Accountancy",
+    "chapter": "Ch 4: Recording of Transactions - II"
+  },
+  {
+    "text": "What is the purpose of a Return Book?",
+    "options": [
+      "To record all cash transactions",
+      "To record all bank transactions",
+      "To record all returns of goods",
+      "To record all asset transactions"
+    ],
+    "correctAnswer": "To record all returns of goods",
+    "explanation": "A Return Book is a book of account that records all returns of goods of a business. It is used to record transactions where goods are returned by customers or suppliers.",
+    "difficulty": "Easy",
+    "class": "Class 11",
+    "subject": "Accountancy",
+    "chapter": "Ch 4: Recording of Transactions - II"
+  },
+  {
+    "text": "What is the purpose of a Journal Proper?",
+    "options": [
+      "To record all cash transactions",
+      "To record all bank transactions",
+      "To record all transactions that do not fit into other books of account",
+      "To record all asset transactions"
+    ],
+    "correctAnswer": "To record all transactions that do not fit into other books of account",
+    "explanation": "A Journal Proper is a book of account that records all transactions that do not fit into other books of account. It is used to record transactions that are not recorded in the Cash Book, Purchases Book, Sales Book, or Return Book.",
+    "difficulty": "Medium",
+    "class": "Class 11",
+    "subject": "Accountancy",
+    "chapter": "Ch 4: Recording of Transactions - II"
+  },
+  {
+    "text": "How are transactions recorded in a Cash Book?",
+    "options": [
+      "Using the $\text{Assets} = \text{Liabilities} + \text{Capital}$ equation",
+      "Using the $\text{Debit} = \text{Credit}$ equation",
+      "Using the $\text{Cash} + \text{Bank}$ equation",
+      "Using the $\text{Receipts} - \text{Payments}$ equation"
+    ],
+    "correctAnswer": "Using the $\text{Debit} = \text{Credit}$ equation",
+    "explanation": "Transactions are recorded in a Cash Book using the $\text{Debit} = \text{Credit}$ equation. The Cash Book is a book of account that records all cash and bank transactions of a business.",
+    "difficulty": "Medium",
+    "class": "Class 11",
+    "subject": "Accountancy",
+    "chapter": "Ch 4: Recording of Transactions - II"
+  },
+  {
+    "text": "What is the effect of a cash receipt on the Cash Book?",
+    "options": [
+      "It increases the cash balance and decreases the bank balance",
+      "It decreases the cash balance and increases the bank balance",
+      "It increases the cash balance and has no effect on the bank balance",
+      "It decreases the cash balance and has no effect on the bank balance"
+    ],
+    "correctAnswer": "It increases the cash balance and has no effect on the bank balance",
+    "explanation": "A cash receipt increases the cash balance and has no effect on the bank balance. The cash receipt is recorded on the debit side of the Cash Book.",
+    "difficulty": "Easy",
+    "class": "Class 11",
+    "subject": "Accountancy",
+    "chapter": "Ch 4: Recording of Transactions - II"
+  },
+  {
+    "text": "What is the effect of a bank payment on the Cash Book?",
+    "options": [
+      "It increases the cash balance and decreases the bank balance",
+      "It decreases the cash balance and increases the bank balance",
+      "It has no effect on the cash balance and decreases the bank balance",
+      "It has no effect on the cash balance and increases the bank balance"
+    ],
+    "correctAnswer": "It has no effect on the cash balance and decreases the bank balance",
+    "explanation": "A bank payment has no effect on the cash balance and decreases the bank balance. The bank payment is recorded on the credit side of the Cash Book.",
+    "difficulty": "Easy",
+    "class": "Class 11",
+    "subject": "Accountancy",
+    "chapter": "Ch 4: Recording of Transactions - II"
+  },
+  {
+    "text": "How are petty cash transactions recorded in the Petty Cash Book?",
+    "options": [
+      "Using the $\text{Assets} = \text{Liabilities} + \text{Capital}$ equation",
+      "Using the $\text{Debit} = \text{Credit}$ equation",
+      "Using the $\text{Cash} + \text{Bank}$ equation",
+      "Using the $\text{Receipts} - \text{Payments}$ equation"
+    ],
+    "correctAnswer": "Using the $\text{Debit} = \text{Credit}$ equation",
+    "explanation": "Petty cash transactions are recorded in the Petty Cash Book using the $\text{Debit} = \text{Credit}$ equation. The Petty Cash Book is a book of account that records all small cash transactions of a business.",
+    "difficulty": "Medium",
+    "class": "Class 11",
+    "subject": "Accountancy",
+    "chapter": "Ch 4: Recording of Transactions - II"
+  },
+  {
+    "text": "What is the purpose of replenishing the petty cash balance?",
+    "options": [
+      "To increase the petty cash balance",
+      "To decrease the petty cash balance",
+      "To maintain the fixed petty cash balance",
+      "To record all cash transactions"
+    ],
+    "correctAnswer": "To maintain the fixed petty cash balance",
+    "explanation": "The petty cash balance is replenished to maintain the fixed petty cash balance. The Imprest System of Petty Cash is a system where the petty cash balance is fixed and replenished periodically.",
+    "difficulty": "Easy",
+    "class": "Class 11",
+    "subject": "Accountancy",
+    "chapter": "Ch 4: Recording of Transactions - II"
+  },
+  {
+    "text": "How are credit purchases recorded in the Purchases Book?",
+    "options": [
+      "Using the $\text{Assets} = \text{Liabilities} + \text{Capital}$ equation",
+      "Using the $\text{Debit} = \text{Credit}$ equation",
+      "Using the $\text{Cash} + \text{Bank}$ equation",
+      "Using the $\text{Receipts} - \text{Payments}$ equation"
+    ],
+    "correctAnswer": "Using the $\text{Debit} = \text{Credit}$ equation",
+    "explanation": "Credit purchases are recorded in the Purchases Book using the $\text{Debit} = \text{Credit}$ equation. The Purchases Book is a book of account that records all credit purchases of a business.",
+    "difficulty": "Medium",
+    "class": "Class 11",
+    "subject": "Accountancy",
+    "chapter": "Ch 4: Recording of Transactions - II"
+  },
+  {
+    "text": "What is the effect of a credit sale on the Sales Book?",
+    "options": [
+      "It increases the sales balance and decreases the debtors balance",
+      "It decreases the sales balance and increases the debtors balance",
+      "It increases the sales balance and has no effect on the debtors balance",
+      "It decreases the sales balance and has no effect on the debtors balance"
+    ],
+    "correctAnswer": "It increases the sales balance and has no effect on the debtors balance",
+    "explanation": "A credit sale increases the sales balance and has no effect on the debtors balance. The credit sale is recorded on the credit side of the Sales Book.",
+    "difficulty": "Easy",
+    "class": "Class 11",
+    "subject": "Accountancy",
+    "chapter": "Ch 4: Recording of Transactions - II"
+  },
+  {
+    "text": "How are returns of goods recorded in the Return Book?",
+    "options": [
+      "Using the $\text{Assets} = \text{Liabilities} + \text{Capital}$ equation",
+      "Using the $\text{Debit} = \text{Credit}$ equation",
+      "Using the $\text{Cash} + \text{Bank}$ equation",
+      "Using the $\text{Receipts} - \text{Payments}$ equation"
+    ],
+    "correctAnswer": "Using the $\text{Debit} = \text{Credit}$ equation",
+    "explanation": "Returns of goods are recorded in the Return Book using the $\text{Debit} = \text{Credit}$ equation. The Return Book is a book of account that records all returns of goods of a business.",
+    "difficulty": "Medium",
+    "class": "Class 11",
+    "subject": "Accountancy",
+    "chapter": "Ch 4: Recording of Transactions - II"
+  },
+  {
+    "text": "What is the purpose of a Journal Proper?",
+    "options": [
+      "To record all cash transactions",
+      "To record all bank transactions",
+      "To record all transactions that do not fit into other books of account",
+      "To record all asset transactions"
+    ],
+    "correctAnswer": "To record all transactions that do not fit into other books of account",
+    "explanation": "A Journal Proper is a book of account that records all transactions that do not fit into other books of account. It is used to record transactions that are not recorded in the Cash Book, Purchases Book, Sales Book, or Return Book.",
+    "difficulty": "Medium",
+    "class": "Class 11",
+    "subject": "Accountancy",
+    "chapter": "Ch 4: Recording of Transactions - II"
+  },
+  {
+    "text": "How are transactions recorded in a Journal Proper?",
+    "options": [
+      "Using the $\text{Assets} = \text{Liabilities} + \text{Capital}$ equation",
+      "Using the $\text{Debit} = \text{Credit}$ equation",
+      "Using the $\text{Cash} + \text{Bank}$ equation",
+      "Using the $\text{Receipts} - \text{Payments}$ equation"
+    ],
+    "correctAnswer": "Using the $\text{Debit} = \text{Credit}$ equation",
+    "explanation": "Transactions are recorded in a Journal Proper using the $\text{Debit} = \text{Credit}$ equation. The Journal Proper is a book of account that records all transactions that do not fit into other books of account.",
+    "difficulty": "Medium",
+    "class": "Class 11",
+    "subject": "Accountancy",
+    "chapter": "Ch 4: Recording of Transactions - II"
+  },
+  {
+    "text": "What is the effect of a transaction on the accounting equation?",
+    "options": [
+      "It increases the assets and decreases the liabilities",
+      "It decreases the assets and increases the liabilities",
+      "It has no effect on the assets and liabilities",
+      "It increases the assets and has no effect on the liabilities"
+    ],
+    "correctAnswer": "It has no effect on the assets and liabilities",
+    "explanation": "A transaction has no effect on the assets and liabilities. The accounting equation is $\text{Assets} = \text{Liabilities} + \text{Capital}$, and transactions are recorded using the $\text{Debit} = \text{Credit}$ equation.",
+    "difficulty": "Hard",
+    "class": "Class 11",
+    "subject": "Accountancy",
+    "chapter": "Ch 4: Recording of Transactions - II"
+  },
+  {
+    "text": "How are accounting equations used in recording transactions?",
+    "options": [
+      "Using the $\text{Assets} = \text{Liabilities} + \text{Capital}$ equation",
+      "Using the $\text{Debit} = \text{Credit}$ equation",
+      "Using the $\text{Cash} + \text{Bank}$ equation",
+      "Using the $\text{Receipts} - \text{Payments}$ equation"
+    ],
+    "correctAnswer": "Using the $\text{Debit} = \text{Credit}$ equation",
+    "explanation": "Accounting equations are used in recording transactions using the $\text{Debit} = \text{Credit}$ equation. The $\text{Assets} = \text{Liabilities} + \text{Capital}$ equation is the basic accounting equation, but transactions are recorded using the $\text{Debit} = \text{Credit}$ equation.",
+    "difficulty": "Medium",
+    "class": "Class 11",
+    "subject": "Accountancy",
+    "chapter": "Ch 4: Recording of Transactions - II"
+  },
+  {
+    "text": "What is the purpose of using accounting equations in recording transactions?",
+    "options": [
+      "To increase the assets and decrease the liabilities",
+      "To decrease the assets and increase the liabilities",
+      "To ensure that the accounting equation is balanced",
+      "To record all cash transactions"
+    ],
+    "correctAnswer": "To ensure that the accounting equation is balanced",
+    "explanation": "The purpose of using accounting equations in recording transactions is to ensure that the accounting equation is balanced. The accounting equation is $\text{Assets} = \text{Liabilities} + \text{Capital}$, and transactions are recorded using the $\text{Debit} = \text{Credit}$ equation to maintain the balance.",
+    "difficulty": "Medium",
+    "class": "Class 11",
+    "subject": "Accountancy",
+    "chapter": "Ch 4: Recording of Transactions - II"
+  },
+  {
+    "text": "How are transactions recorded in the ledger accounts?",
+    "options": [
+      "Using the $\text{Assets} = \text{Liabilities} + \text{Capital}$ equation",
+      "Using the $\text{Debit} = \text{Credit}$ equation",
+      "Using the $\text{Cash} + \text{Bank}$ equation",
+      "Using the $\text{Receipts} - \text{Payments}$ equation"
+    ],
+    "correctAnswer": "Using the $\text{Debit} = \text{Credit}$ equation",
+    "explanation": "Transactions are recorded in the ledger accounts using the $\text{Debit} = \text{Credit}$ equation. The ledger accounts are the final accounts that record all the transactions of a business.",
+    "difficulty": "Medium",
+    "class": "Class 11",
+    "subject": "Accountancy",
+    "chapter": "Ch 4: Recording of Transactions - II"
+  }
+]

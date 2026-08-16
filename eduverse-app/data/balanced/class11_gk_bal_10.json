@@ -1,0 +1,197 @@
+[
+  {
+    "text": "What is the primary objective of the Aditya-L1 mission?",
+    "options": [
+      "To study the Sun's corona",
+      "To explore the surface of Mars",
+      "To launch a human into space",
+      "To study the effects of climate change"
+    ],
+    "correctAnswer": "To study the Sun's corona",
+    "explanation": "The Aditya-L1 mission is designed to study the Sun's corona, the outer atmosphere of the Sun, in ultraviolet and X-ray wavelengths. This will help scientists understand the solar corona's heating mechanism and its impact on the Earth's magnetic field and upper atmosphere.",
+    "difficulty": "Easy",
+    "class": "Class 11",
+    "subject": "GK",
+    "chapter": "Ch 4: Science, Space & Technology"
+  },
+  {
+    "text": "Which of the following is NOT a type of renewable energy?",
+    "options": [
+      "Solar energy",
+      "Wind energy",
+      "Hydro energy",
+      "Nuclear energy"
+    ],
+    "correctAnswer": "Nuclear energy",
+    "explanation": "Nuclear energy is a non-renewable source of energy, whereas solar, wind, and hydro energy are all forms of renewable energy.",
+    "difficulty": "Medium",
+    "class": "Class 11",
+    "subject": "GK",
+    "chapter": "Ch 4: Science, Space & Technology"
+  },
+  {
+    "text": "Who is credited with the invention of the first practical light bulb?",
+    "options": [
+      "Thomas Edison",
+      "Nikola Tesla",
+      "Alexander Graham Bell",
+      "Guglielmo Marconi"
+    ],
+    "correctAnswer": "Thomas Edison",
+    "explanation": "Thomas Edison is credited with the invention of the first practical light bulb, which used a carbon filament and could burn for hours using a relatively low voltage.",
+    "difficulty": "Easy",
+    "class": "Class 11",
+    "subject": "GK",
+    "chapter": "Ch 4: Science, Space & Technology"
+  },
+  {
+    "text": "What is the primary goal of the Gaganyaan mission?",
+    "options": [
+      "To send a human to the Moon",
+      "To launch a satellite into orbit around the Earth",
+      "To send a human into space and return them safely to Earth",
+      "To study the effects of microgravity on the human body"
+    ],
+    "correctAnswer": "To send a human into space and return them safely to Earth",
+    "explanation": "The Gaganyaan mission is designed to send a human into space and return them safely to Earth, marking a major milestone in India's space program.",
+    "difficulty": "Medium",
+    "class": "Class 11",
+    "subject": "GK",
+    "chapter": "Ch 4: Science, Space & Technology"
+  },
+  {
+    "text": "Which of the following is a type of artificial intelligence?",
+    "options": [
+      "Machine learning",
+      "Deep learning",
+      "Natural language processing",
+      "All of the above"
+    ],
+    "correctAnswer": "All of the above",
+    "explanation": "Machine learning, deep learning, and natural language processing are all types of artificial intelligence, which enable computers to perform tasks that typically require human intelligence.",
+    "difficulty": "Medium",
+    "class": "Class 11",
+    "subject": "GK",
+    "chapter": "Ch 4: Science, Space & Technology"
+  },
+  {
+    "text": "What is the primary objective of the Chandrayaan-3 mission?",
+    "options": [
+      "To study the lunar exosphere",
+      "To search for water on the Moon",
+      "To study the lunar regolith",
+      "To test the technologies for a manned mission to the Moon"
+    ],
+    "correctAnswer": "To search for water on the Moon",
+    "explanation": "The Chandrayaan-3 mission is designed to search for water on the Moon, which is a crucial resource for future human missions to the lunar surface.",
+    "difficulty": "Medium",
+    "class": "Class 11",
+    "subject": "GK",
+    "chapter": "Ch 4: Science, Space & Technology"
+  },
+  {
+    "text": "Who is credited with the discovery of the first antibiotic?",
+    "options": [
+      "Alexander Fleming",
+      "Louis Pasteur",
+      "Robert Koch",
+      "Germ theory of disease"
+    ],
+    "correctAnswer": "Alexander Fleming",
+    "explanation": "Alexander Fleming is credited with the discovery of the first antibiotic, penicillin, which revolutionized the treatment of bacterial infections.",
+    "difficulty": "Easy",
+    "class": "Class 11",
+    "subject": "GK",
+    "chapter": "Ch 4: Science, Space & Technology"
+  },
+  {
+    "text": "What is the primary goal of the ISRO's Reusable Launch Vehicle Technology Demonstration (RLV-TD) program?",
+    "options": [
+      "To develop a reusable launch vehicle",
+      "To reduce the cost of access to space",
+      "To increase the payload capacity of the launch vehicle",
+      "To study the effects of re-entry on the launch vehicle"
+    ],
+    "correctAnswer": "To develop a reusable launch vehicle",
+    "explanation": "The RLV-TD program is designed to develop a reusable launch vehicle, which can significantly reduce the cost of access to space and increase the efficiency of space missions.",
+    "difficulty": "Medium",
+    "class": "Class 11",
+    "subject": "GK",
+    "chapter": "Ch 4: Science, Space & Technology"
+  },
+  {
+    "text": "Who is credited with the invention of the first computer?",
+    "options": [
+      "Charles Babbage",
+      "Alan Turing",
+      "Ada Lovelace",
+      "John von Neumann"
+    ],
+    "correctAnswer": "Charles Babbage",
+    "explanation": "Charles Babbage is credited with the invention of the first computer, the Difference Engine, which was designed to perform mathematical calculations.",
+    "difficulty": "Easy",
+    "class": "Class 11",
+    "subject": "GK",
+    "chapter": "Ch 4: Science, Space & Technology"
+  },
+  {
+    "text": "What is the primary objective of the ISRO's Astrosat mission?",
+    "options": [
+      "To study the Sun's corona",
+      "To study the lunar exosphere",
+      "To study the black hole at the center of the Milky Way galaxy",
+      "To study the X-ray binaries in the Milky Way galaxy"
+    ],
+    "correctAnswer": "To study the X-ray binaries in the Milky Way galaxy",
+    "explanation": "The Astrosat mission is designed to study the X-ray binaries in the Milky Way galaxy, which are systems consisting of a star and a compact object, such as a black hole or neutron star.",
+    "difficulty": "Medium",
+    "class": "Class 11",
+    "subject": "GK",
+    "chapter": "Ch 4: Science, Space & Technology"
+  },
+  {
+    "text": "Who is credited with the discovery of the first X-ray?",
+    "options": [
+      "Wilhelm Conrad Röntgen",
+      "Antoine Henri Becquerel",
+      "Pierre Curie",
+      "Marie Curie"
+    ],
+    "correctAnswer": "Wilhelm Conrad Röntgen",
+    "explanation": "Wilhelm Conrad Röntgen is credited with the discovery of the first X-ray, which was a major breakthrough in the field of physics.",
+    "difficulty": "Easy",
+    "class": "Class 11",
+    "subject": "GK",
+    "chapter": "Ch 4: Science, Space & Technology"
+  },
+  {
+    "text": "What is the primary goal of the ISRO's Chandrayaan-1 mission?",
+    "options": [
+      "To study the lunar exosphere",
+      "To search for water on the Moon",
+      "To study the lunar regolith",
+      "To test the technologies for a manned mission to the Moon"
+    ],
+    "correctAnswer": "To study the lunar exosphere",
+    "explanation": "The Chandrayaan-1 mission is designed to study the lunar exosphere, which is the outer atmosphere of the Moon.",
+    "difficulty": "Medium",
+    "class": "Class 11",
+    "subject": "GK",
+    "chapter": "Ch 4: Science, Space & Technology"
+  },
+  {
+    "text": "Who is credited with the invention of the first laser?",
+    "options": [
+      "Theodore Maiman",
+      "Charles Townes",
+      "Arthur Schawlow",
+      "Nikolai Basov"
+    ],
+    "correctAnswer": "Theodore Maiman",
+    "explanation": "Theodore Maiman is credited with the invention of the first laser, which was a major breakthrough in the field of optics.",
+    "difficulty": "Easy",
+    "class": "Class 11",
+    "subject": "GK",
+    "chapter": "Ch 4: Science, Space & Technology"
+  }
+]

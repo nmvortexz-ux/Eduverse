@@ -1,0 +1,142 @@
+[
+  {
+    "text": "Karl Pearson's coefficient of correlation ($r$) always lies within which of the following mathematical limits?",
+    "options": [
+      "$0 \\le r \\le 1$",
+      "$-1 \\le r \\le +1$",
+      "$-\\infty < r < +\\infty$",
+      "$-1 \\le r \\le 0$"
+    ],
+    "correctAnswer": "$-1 \\le r \\le +1$",
+    "explanation": "Karl Pearson's coefficient of correlation ($r$) is a pure number ranging strictly between $-1$ (perfect negative correlation) and $+1$ (perfect positive correlation).",
+    "class": "Class 11",
+    "subject": "Economics",
+    "chapter": "Ch 8: Correlation and Index Numbers"
+  },
+  {
+    "text": "If two variables $X$ and $Y$ move in the same direction (i.e., as $X$ increases, $Y$ also increases), the correlation between them is said to be:",
+    "options": [
+      "Negative correlation",
+      "Positive correlation",
+      "Zero correlation",
+      "Spurious correlation"
+    ],
+    "correctAnswer": "Positive correlation",
+    "explanation": "Positive correlation occurs when both variables deviate in the same direction—an increase in one is accompanied by an increase in the other.",
+    "class": "Class 11",
+    "subject": "Economics",
+    "chapter": "Ch 8: Correlation and Index Numbers"
+  },
+  {
+    "text": "Which formula correctly represents Karl Pearson's coefficient of correlation ($r$) using actual deviations from arithmetic mean ($x = X - \\bar{X}$ and $y = Y - \\bar{Y}$)?",
+    "options": [
+      "$r = \\frac{\\sum xy}{\\sqrt{\\sum x^2 \\cdot \\sum y^2}}$",
+      "$r = \\frac{\\sum x^2}{\\sum y^2}$",
+      "$r = \\frac{\\sum xy}{N \\cdot \\sigma_x}$",
+      "$r = \\sqrt{\\frac{\\sum x \\cdot \\sum y}{N}}$"
+    ],
+    "correctAnswer": "$r = \\frac{\\sum xy}{\\sqrt{\\sum x^2 \\cdot \\sum y^2}}$",
+    "explanation": "Pearson's product moment formula is $r = \\frac{\\text{Cov}(X, Y)}{\\sigma_X \\sigma_Y} = \\frac{\\sum xy}{\\sqrt{\\sum x^2 \\cdot \\sum y^2}}$.",
+    "class": "Class 11",
+    "subject": "Economics",
+    "chapter": "Ch 8: Correlation and Index Numbers"
+  },
+  {
+    "text": "Spearman's Rank Correlation Coefficient ($r_s$) when ranks are not tied is calculated using the formula:",
+    "options": [
+      "$r_s = 1 - \\frac{6\\sum D^2}{N(N^2 - 1)}$",
+      "$r_s = 1 + \\frac{6\\sum D^2}{N^2 - 1}$",
+      "$r_s = \\frac{6\\sum D^2}{N(N^2 + 1)}$",
+      "$r_s = 1 - \\frac{\\sum D^2}{N(N - 1)}$"
+    ],
+    "correctAnswer": "$r_s = 1 - \\frac{6\\sum D^2}{N(N^2 - 1)}$",
+    "explanation": "Charles Spearman's rank correlation formula is $r_s = 1 - \\frac{6\\sum D^2}{N(N^2 - 1)}$, where $D = R_1 - R_2$ is the difference in ranks and $N$ is the number of pairs.",
+    "class": "Class 11",
+    "subject": "Economics",
+    "chapter": "Ch 8: Correlation and Index Numbers"
+  },
+  {
+    "text": "Which index number is known as the 'Ideal Index Number' because it satisfies both the Time Reversal Test and Factor Reversal Test?",
+    "options": [
+      "Laspeyres Price Index",
+      "Paasche Price Index",
+      "Fisher's Ideal Index",
+      "Bowley's Price Index"
+    ],
+    "correctAnswer": "Fisher's Ideal Index",
+    "explanation": "Fisher's Index is the geometric mean of Laspeyres and Paasche index numbers ($P_{01} = \\sqrt{L \\times P}$) and satisfies both Time Reversal and Factor Reversal consistency tests.",
+    "class": "Class 11",
+    "subject": "Economics",
+    "chapter": "Ch 8: Correlation and Index Numbers"
+  },
+  {
+    "text": "Laspeyres' Price Index ($P_{01}$) uses weights from which period?",
+    "options": [
+      "Current year quantities ($q_1$)",
+      "Base year quantities ($q_0$)",
+      "Average of base year and current year quantities",
+      "Base year prices ($p_0$)"
+    ],
+    "correctAnswer": "Base year quantities ($q_0$)",
+    "explanation": "Laspeyres' Price Index is a base-year weighted index: $P_{01}^L = \\frac{\\sum p_1 q_0}{\\sum p_0 q_0} \\times 100$.",
+    "class": "Class 11",
+    "subject": "Economics",
+    "chapter": "Ch 8: Correlation and Index Numbers"
+  },
+  {
+    "text": "Paasche's Price Index ($P_{01}$) uses weights from which period?",
+    "options": [
+      "Base year quantities ($q_0$)",
+      "Current year quantities ($q_1$)",
+      "Base year expenditures ($p_0 q_0$)",
+      "Current year prices ($p_1$)"
+    ],
+    "correctAnswer": "Current year quantities ($q_1$)",
+    "explanation": "Paasche's Price Index is a current-year weighted index: $P_{01}^P = \\frac{\\sum p_1 q_1}{\\sum p_0 q_1} \\times 100$.",
+    "class": "Class 11",
+    "subject": "Economics",
+    "chapter": "Ch 8: Correlation and Index Numbers"
+  },
+  {
+    "text": "The index number that measures the average change in prices of goods and services purchased by households for consumption is known as the:",
+    "options": [
+      "Wholesale Price Index (WPI)",
+      "Consumer Price Index (CPI) / Cost of Living Index",
+      "Index of Industrial Production (IIP)",
+      "Human Development Index (HDI)"
+    ],
+    "correctAnswer": "Consumer Price Index (CPI) / Cost of Living Index",
+    "explanation": "The Consumer Price Index (CPI) measures changes over time in the general price level of consumer goods and services that households acquire for consumption.",
+    "class": "Class 11",
+    "subject": "Economics",
+    "chapter": "Ch 8: Correlation and Index Numbers"
+  },
+  {
+    "text": "In a scatter diagram, if all the plotted points lie exactly on a straight line rising from bottom left to top right, the correlation coefficient $r$ is:",
+    "options": [
+      "$r = 0$",
+      "$r = +1$",
+      "$r = -1$",
+      "$r = +0.5$"
+    ],
+    "correctAnswer": "$r = +1$",
+    "explanation": "When all points form a straight upward sloping line with positive gradient, it represents perfect positive correlation ($r = +1$).",
+    "class": "Class 11",
+    "subject": "Economics",
+    "chapter": "Ch 8: Correlation and Index Numbers"
+  },
+  {
+    "text": "If the Consumer Price Index (CPI) increases from $100$ in the base year to $250$ in the current year, while a worker's nominal wage rises from ₹8,000 to ₹16,000, what is the worker's real wage in the current year?",
+    "options": [
+      "₹6,400",
+      "₹8,000",
+      "₹10,000",
+      "₹16,000"
+    ],
+    "correctAnswer": "₹6,400",
+    "explanation": "$\\text{Real Wage} = \\frac{\\text{Nominal Wage}}{\\text{CPI}} \\times 100 = \\frac{16000}{250} \\times 100 = ₹6,400$. Since real wage fell from ₹8,000 to ₹6,400, the worker's purchasing power decreased.",
+    "class": "Class 11",
+    "subject": "Economics",
+    "chapter": "Ch 8: Correlation and Index Numbers"
+  }
+]

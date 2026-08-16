@@ -1,0 +1,327 @@
+[
+  {
+    "class": "Class 10",
+    "subject": "GK",
+    "difficulty": "EASY",
+    "text": "In which year did Bal Gangadhar Tilak launch the Home Rule League in Maharashtra?",
+    "explanation": "Bal Gangadhar Tilak launched the Home Rule League in April 1916 at Belgaum, promoting self-government for India under British rule.",
+    "options": [
+      { "text": "1914", "isCorrect": false },
+      { "text": "1916", "isCorrect": true },
+      { "text": "1920", "isCorrect": false },
+      { "text": "1905", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 10",
+    "subject": "GK",
+    "difficulty": "EASY",
+    "text": "Which planet is closest to the Sun in our solar system?",
+    "explanation": "Mercury is the closest planet to the Sun, completing a full orbit in just 88 Earth days.",
+    "options": [
+      { "text": "Venus", "isCorrect": false },
+      { "text": "Mercury", "isCorrect": true },
+      { "text": "Mars", "isCorrect": false },
+      { "text": "Earth", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 10",
+    "subject": "GK",
+    "difficulty": "EASY",
+    "text": "On which date is National Sports Day celebrated in India, commemorating the birth anniversary of Major Dhyan Chand?",
+    "explanation": "National Sports Day is celebrated on August 29 to honor hockey legend Major Dhyan Chand.",
+    "options": [
+      { "text": "August 29", "isCorrect": true },
+      { "text": "August 15", "isCorrect": false },
+      { "text": "September 5", "isCorrect": false },
+      { "text": "October 2", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 10",
+    "subject": "GK",
+    "difficulty": "EASY",
+    "text": "What is the capital city of Canada?",
+    "explanation": "Ottawa is the capital of Canada, located in the province of Ontario.",
+    "options": [
+      { "text": "Toronto", "isCorrect": false },
+      { "text": "Ottawa", "isCorrect": true },
+      { "text": "Vancouver", "isCorrect": false },
+      { "text": "Montreal", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 10",
+    "subject": "GK",
+    "difficulty": "EASY",
+    "text": "Which gas is commonly used in fire extinguishers to suppress fires?",
+    "explanation": "Carbon Dioxide ($CO_2$) is used because it is denser than oxygen and cuts off the oxygen supply to the fire.",
+    "options": [
+      { "text": "Oxygen", "isCorrect": false },
+      { "text": "Carbon Dioxide", "isCorrect": true },
+      { "text": "Helium", "isCorrect": false },
+      { "text": "Hydrogen", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 10",
+    "subject": "GK",
+    "difficulty": "EASY",
+    "text": "Who was the first Indian woman to win the Nobel Peace Prize?",
+    "explanation": "Mother Teresa was awarded the Nobel Peace Prize in 1979 for her work in overcoming poverty and distress through Missionaries of Charity.",
+    "options": [
+      { "text": "Sarojini Naidu", "isCorrect": false },
+      { "text": "Mother Teresa", "isCorrect": true },
+      { "text": "Indira Gandhi", "isCorrect": false },
+      { "text": "Arundhati Roy", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 10",
+    "subject": "GK",
+    "difficulty": "MEDIUM",
+    "text": "The split in the Indian National Congress between Modrates and Extremists (Surat Split) occurred in which year?",
+    "explanation": "The Surat Split took place in 1907 at the Surat session of the INC, presided over by Rash Behari Ghosh.",
+    "options": [
+      { "text": "1905", "isCorrect": false },
+      { "text": "1907", "isCorrect": true },
+      { "text": "1916", "isCorrect": false },
+      { "text": "1920", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 10",
+    "subject": "GK",
+    "difficulty": "MEDIUM",
+    "text": "What is the name of India's first supercomputer, designed by C-DAC in 1991?",
+    "explanation": "PARAM 8000 was developed by the Centre for Development of Advanced Computing (C-DAC), led by Dr. Vijay Bhatkar.",
+    "options": [
+      { "text": "Pratyush", "isCorrect": false },
+      { "text": "PARAM 8000", "isCorrect": true },
+      { "text": "Mihir", "isCorrect": false },
+      { "text": "Anupam", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 10",
+    "subject": "GK",
+    "difficulty": "MEDIUM",
+    "text": "Which Indian state is the largest producer of Wheat in the country?",
+    "explanation": "Uttar Pradesh is the largest producer of wheat, followed by Punjab and Madhya Pradesh.",
+    "options": [
+      { "text": "Punjab", "isCorrect": false },
+      { "text": "Uttar Pradesh", "isCorrect": true },
+      { "text": "Haryana", "isCorrect": false },
+      { "text": "Madhya Pradesh", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 10",
+    "subject": "GK",
+    "difficulty": "MEDIUM",
+    "text": "Who elects the President of India?",
+    "explanation": "The President is elected by an Electoral College consisting of elected members of both Houses of Parliament and Legislative Assemblies of all states and UTs.",
+    "options": [
+      { "text": "Direct vote of citizens", "isCorrect": false },
+      { "text": "An Electoral College of elected MPs and MLAs", "isCorrect": true },
+      { "text": "Lok Sabha members only", "isCorrect": false },
+      { "text": "Prime Minister and Cabinet ministers", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 10",
+    "subject": "GK",
+    "difficulty": "MEDIUM",
+    "text": "Which is the longest National Highway in India, running from Srinagar to Kanyakumari?",
+    "explanation": "National Highway 44 (NH 44) is the longest highway in India, stretching over 3,745 kilometers.",
+    "options": [
+      { "text": "NH 7", "isCorrect": false },
+      { "text": "NH 44", "isCorrect": true },
+      { "text": "NH 2", "isCorrect": false },
+      { "text": "NH 48", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 10",
+    "subject": "GK",
+    "difficulty": "MEDIUM",
+    "text": "Where is the Vikram Sarabhai Space Centre (VSSC), specializing in launch vehicle development, located?",
+    "explanation": "VSSC is situated in Thiruvananthapuram, Kerala, named in honor of the father of Indian space program.",
+    "options": [
+      { "text": "Bengaluru", "isCorrect": false },
+      { "text": "Thiruvananthapuram", "isCorrect": true },
+      { "text": "Sriharikota", "isCorrect": false },
+      { "text": "Ahmedabad", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 10",
+    "subject": "GK",
+    "difficulty": "MEDIUM",
+    "text": "Which is the highest waterfall in the world, located in Venezuela?",
+    "explanation": "Angel Falls (Kerepakupai Meru) is the highest waterfall, with an uninterrupted drop of 807 meters and total height of 979 meters.",
+    "options": [
+      { "text": "Niagara Falls", "isCorrect": false },
+      { "text": "Angel Falls", "isCorrect": true },
+      { "text": "Victoria Falls", "isCorrect": false },
+      { "text": "Jog Falls", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 10",
+    "subject": "GK",
+    "difficulty": "MEDIUM",
+    "text": "Under which article of the Indian Constitution can the President's Rule be imposed in a state in case of failure of constitutional machinery?",
+    "explanation": "Article 356 provides for the imposition of President's Rule in a state, commonly known as State Emergency.",
+    "options": [
+      { "text": "Article 352", "isCorrect": false },
+      { "text": "Article 356", "isCorrect": true },
+      { "text": "Article 360", "isCorrect": false },
+      { "text": "Article 370", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 10",
+    "subject": "GK",
+    "difficulty": "MEDIUM",
+    "text": "Who was appointed the first Governor-General of India under the Charter Act of 1833?",
+    "explanation": "Lord William Bentinck became the first Governor-General of India, famous for social reforms like abolishing Sati in 1829.",
+    "options": [
+      { "text": "Lord Dalhousie", "isCorrect": false },
+      { "text": "Lord William Bentinck", "isCorrect": true },
+      { "text": "Lord Warren Hastings", "isCorrect": false },
+      { "text": "Lord Canning", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 10",
+    "subject": "GK",
+    "difficulty": "HARD",
+    "text": "Who founded the 'Servants of India Society' in Pune in 1905 to train national missionaries for service?",
+    "explanation": "Gopal Krishna Gokhale, political mentor of Mahatma Gandhi, founded the society to promote education and social reform.",
+    "options": [
+      { "text": "Bal Gangadhar Tilak", "isCorrect": false },
+      { "text": "Gopal Krishna Gokhale", "isCorrect": true },
+      { "text": "Lala Lajpat Rai", "isCorrect": false },
+      { "text": "Dadabhai Naoroji", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 10",
+    "subject": "GK",
+    "difficulty": "HARD",
+    "text": "If the time at Greenwich Mean Time (GMT) is 12:00 Noon, what will be the local time at Mumbai, located at $73^\\circ\\text{ East}$ longitude?",
+    "explanation": "Each degree of longitude is equal to 4 minutes. $73 \\times 4 = 292\\text{ minutes} = 4\\text{ hours and } 52\\text{ minutes}$ ahead. Time will be 4:52 PM.",
+    "options": [
+      { "text": "5:30 PM", "isCorrect": false },
+      { "text": "4:52 PM", "isCorrect": true },
+      { "text": "7:08 AM", "isCorrect": false },
+      { "text": "12:00 Noon", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 10",
+    "subject": "GK",
+    "difficulty": "HARD",
+    "text": "Which Indian state is the largest producer of Copper in the country?",
+    "explanation": "Madhya Pradesh is the leading copper-producing state, with major reserves in the Malanjkhand belt, followed by Rajasthan.",
+    "options": [
+      { "text": "Rajasthan", "isCorrect": false },
+      { "text": "Madhya Pradesh", "isCorrect": true },
+      { "text": "Jharkhand", "isCorrect": false },
+      { "text": "Karnataka", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 10",
+    "subject": "GK",
+    "difficulty": "HARD",
+    "text": "In the Balance of Payments framework, how do Current Account and Capital Account transactions differ?",
+    "explanation": "Current Account records trade in goods, services, and transfer payments; Capital Account records net change in ownership of national assets (investments, loans).",
+    "options": [
+      { "text": "Current account deals with taxation; capital account with bank deposits", "isCorrect": false },
+      { "text": "Current account records trade in goods, services, and transfers; capital account records financial investments and loans", "isCorrect": true },
+      { "text": "Capital account deals only with gold reserves; current account with currency", "isCorrect": false },
+      { "text": "Current account has a fixed term; capital account changes daily", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 10",
+    "subject": "GK",
+    "difficulty": "HARD",
+    "text": "In which city is the National Geophysical Research Institute (NGRI) located?",
+    "explanation": "NGRI, a research laboratory under CSIR, was established in 1961 in Hyderabad, Telangana, to study solid Earth geophysics.",
+    "options": [
+      { "text": "Dehradun", "isCorrect": false },
+      { "text": "Hyderabad", "isCorrect": true },
+      { "text": "Nagpur", "isCorrect": false },
+      { "text": "Kolkata", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 10",
+    "subject": "GK",
+    "difficulty": "HARD",
+    "text": "Who was the first recipient of the Dronacharya Award for excellence in sports coaching, introduced in 1985?",
+    "explanation": "In 1985, wrestling coach Bhalchandra Bhaskar Bhagwat was among the first three recipients, alongside O.M. Nambiar (athletics) and OM Prakash Bhardwaj (boxing).",
+    "options": [
+      { "text": "Ramakant Achrekar", "isCorrect": false },
+      { "text": "Bhalchandra Bhaskar Bhagwat", "isCorrect": true },
+      { "text": "Pullela Gopichand", "isCorrect": false },
+      { "text": "Homi Motivala", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 10",
+    "subject": "GK",
+    "difficulty": "VERY HARD",
+    "text": "Which British legislation introduced provincial autonomy and established a Federal Court in Delhi?",
+    "explanation": "The Government of India Act 1935 ended dyarchy in provinces, introduced provincial autonomy, and paved the way for a Federal Court (established in 1937).",
+    "options": [
+      { "text": "Government of India Act 1919", "isCorrect": false },
+      { "text": "Government of India Act 1935", "isCorrect": true },
+      { "text": "Indian Independence Act 1947", "isCorrect": false },
+      { "text": "Council Act of 1861", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 10",
+    "subject": "GK",
+    "difficulty": "VERY HARD",
+    "text": "How does a Lunar Eclipse occur?",
+    "explanation": "A lunar eclipse occurs when the Earth passes directly between the Sun and the Moon, casting its shadow (umbra and penumbra) on the Moon.",
+    "options": [
+      { "text": "The Moon comes between the Sun and the Earth", "isCorrect": false },
+      { "text": "The Earth comes between the Sun and the Moon", "isCorrect": true },
+      { "text": "The Sun comes between the Earth and the Moon", "isCorrect": false },
+      { "text": "Mercury aligns directly with the Moon", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 10",
+    "subject": "GK",
+    "difficulty": "VERY HARD",
+    "text": "What is the primary difference between a Balance of Payments (BoP) crisis and a Fiscal Crisis?",
+    "explanation": "BoP crisis is an inability to pay for imports or service foreign debt due to depletion of foreign exchange reserves; fiscal crisis is a deficit in domestic budget expenditure over tax revenues.",
+    "options": [
+      { "text": "Fiscal crisis relates to gold mining; BoP relates to currency printing", "isCorrect": false },
+      { "text": "BoP crisis is a deficit in foreign trade transactions; fiscal crisis is a deficit in domestic government budget revenues", "isCorrect": true },
+      { "text": "BoP crisis is regulated by the World Bank; fiscal crisis by local courts", "isCorrect": false },
+      { "text": "Fiscal crisis occurs only in socialist economies; BoP only in capitalist ones", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 10",
+    "subject": "GK",
+    "difficulty": "VERY HARD",
+    "text": "Which Indian supercomputer was ranked among the top 100 fastest supercomputers in the world in 2020?",
+    "explanation": "PARAM Siddhi-AI, developed under the National Supercomputing Mission (NSM) by C-DAC, achieved 63rd rank globally in November 2020.",
+    "options": [
+      { "text": "Pratyush", "isCorrect": false },
+      { "text": "PARAM Siddhi-AI", "isCorrect": true },
+      { "text": "Mihir", "isCorrect": false },
+      { "text": "Sahasrat T", "isCorrect": false }
+    ]
+  }
+]

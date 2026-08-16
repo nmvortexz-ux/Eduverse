@@ -1,0 +1,152 @@
+[
+  {
+    "text": "What is the meaning of statistics?",
+    "options": [
+      "The study of the collection, analysis, interpretation, presentation, and organization of data.",
+      "The study of the collection, analysis, and interpretation of data.",
+      "The study of the collection and presentation of data.",
+      "The study of the analysis and interpretation of data."
+    ],
+    "correctAnswer": "The study of the collection, analysis, interpretation, presentation, and organization of data.",
+    "explanation": "Statistics is a branch of mathematics that deals with the collection, analysis, interpretation, presentation, and organization of data. It helps in making informed decisions by providing a quantitative analysis of data.",
+    "difficulty": "Easy",
+    "class": "Class 11",
+    "subject": "Economics",
+    "chapter": "Ch 5: Introduction to Statistics"
+  },
+  {
+    "text": "What is the scope of statistics?",
+    "options": [
+      "It is limited to the collection and presentation of data.",
+      "It is limited to the analysis and interpretation of data.",
+      "It deals with the collection, analysis, interpretation, presentation, and organization of data.",
+      "It deals with the collection and analysis of data."
+    ],
+    "correctAnswer": "It deals with the collection, analysis, interpretation, presentation, and organization of data.",
+    "explanation": "The scope of statistics is vast and it deals with the collection, analysis, interpretation, presentation, and organization of data. It helps in making informed decisions by providing a quantitative analysis of data.",
+    "difficulty": "Medium",
+    "class": "Class 11",
+    "subject": "Economics",
+    "chapter": "Ch 5: Introduction to Statistics"
+  },
+  {
+    "text": "What are the limitations of statistics?",
+    "options": [
+      "It is limited to the collection and presentation of data.",
+      "It is limited to the analysis and interpretation of data.",
+      "It is limited to the collection, analysis, interpretation, presentation, and organization of data.",
+      "It is limited to the collection and analysis of data."
+    ],
+    "correctAnswer": "It is limited to the collection and presentation of data.",
+    "explanation": "The limitations of statistics include its inability to provide a complete picture of the data, its reliance on assumptions and models, and its susceptibility to errors and biases. It is also limited to the collection and presentation of data.",
+    "difficulty": "Hard",
+    "class": "Class 11",
+    "subject": "Economics",
+    "chapter": "Ch 5: Introduction to Statistics"
+  },
+  {
+    "text": "What is the importance of statistics in economics?",
+    "options": [
+      "It helps in making informed decisions by providing a quantitative analysis of data.",
+      "It helps in making informed decisions by providing a qualitative analysis of data.",
+      "It helps in making informed decisions by providing a graphical analysis of data.",
+      "It helps in making informed decisions by providing a tabular analysis of data."
+    ],
+    "correctAnswer": "It helps in making informed decisions by providing a quantitative analysis of data.",
+    "explanation": "Statistics plays a crucial role in economics as it helps in making informed decisions by providing a quantitative analysis of data. It helps in understanding the trends, patterns, and relationships between variables.",
+    "difficulty": "Easy",
+    "class": "Class 11",
+    "subject": "Economics",
+    "chapter": "Ch 5: Introduction to Statistics"
+  },
+  {
+    "text": "What is the difference between statistics and mathematics?",
+    "options": [
+      "Statistics is a branch of mathematics that deals with the collection, analysis, interpretation, presentation, and organization of data.",
+      "Statistics is a branch of mathematics that deals with the collection and presentation of data.",
+      "Statistics is a branch of mathematics that deals with the analysis and interpretation of data.",
+      "Statistics is a branch of mathematics that deals with the collection and analysis of data."
+    ],
+    "correctAnswer": "Statistics is a branch of mathematics that deals with the collection, analysis, interpretation, presentation, and organization of data.",
+    "explanation": "Statistics is a branch of mathematics that deals with the collection, analysis, interpretation, presentation, and organization of data. It is distinct from mathematics in its focus on data and its application in real-world problems.",
+    "difficulty": "Medium",
+    "class": "Class 11",
+    "subject": "Economics",
+    "chapter": "Ch 5: Introduction to Statistics"
+  },
+  {
+    "text": "What is the role of statistics in research?",
+    "options": [
+      "It helps in making informed decisions by providing a quantitative analysis of data.",
+      "It helps in making informed decisions by providing a qualitative analysis of data.",
+      "It helps in making informed decisions by providing a graphical analysis of data.",
+      "It helps in making informed decisions by providing a tabular analysis of data."
+    ],
+    "correctAnswer": "It helps in making informed decisions by providing a quantitative analysis of data.",
+    "explanation": "Statistics plays a crucial role in research as it helps in making informed decisions by providing a quantitative analysis of data. It helps in understanding the trends, patterns, and relationships between variables.",
+    "difficulty": "Easy",
+    "class": "Class 11",
+    "subject": "Economics",
+    "chapter": "Ch 5: Introduction to Statistics"
+  },
+  {
+    "text": "What is the difference between descriptive and inferential statistics?",
+    "options": [
+      "Descriptive statistics deals with the collection, analysis, interpretation, presentation, and organization of data, while inferential statistics deals with the analysis and interpretation of data.",
+      "Descriptive statistics deals with the collection and presentation of data, while inferential statistics deals with the analysis and interpretation of data.",
+      "Descriptive statistics deals with the analysis and interpretation of data, while inferential statistics deals with the collection and presentation of data.",
+      "Descriptive statistics deals with the collection and analysis of data, while inferential statistics deals with the collection and presentation of data."
+    ],
+    "correctAnswer": "Descriptive statistics deals with the collection, analysis, interpretation, presentation, and organization of data, while inferential statistics deals with the analysis and interpretation of data.",
+    "explanation": "Descriptive statistics deals with the collection, analysis, interpretation, presentation, and organization of data, while inferential statistics deals with the analysis and interpretation of data. Descriptive statistics provides a summary of the data, while inferential statistics makes inferences about the population.",
+    "difficulty": "Medium",
+    "class": "Class 11",
+    "subject": "Economics",
+    "chapter": "Ch 5: Introduction to Statistics"
+  },
+  {
+    "text": "What is the importance of data in statistics?",
+    "options": [
+      "Data is the raw material of statistics.",
+      "Data is the final product of statistics.",
+      "Data is the tool used in statistics.",
+      "Data is the application of statistics."
+    ],
+    "correctAnswer": "Data is the raw material of statistics.",
+    "explanation": "Data is the raw material of statistics. It is the foundation upon which all statistical analysis is built. Without data, statistics would be meaningless.",
+    "difficulty": "Easy",
+    "class": "Class 11",
+    "subject": "Economics",
+    "chapter": "Ch 5: Introduction to Statistics"
+  },
+  {
+    "text": "What is the role of statistics in decision-making?",
+    "options": [
+      "It helps in making informed decisions by providing a quantitative analysis of data.",
+      "It helps in making informed decisions by providing a qualitative analysis of data.",
+      "It helps in making informed decisions by providing a graphical analysis of data.",
+      "It helps in making informed decisions by providing a tabular analysis of data."
+    ],
+    "correctAnswer": "It helps in making informed decisions by providing a quantitative analysis of data.",
+    "explanation": "Statistics plays a crucial role in decision-making as it helps in making informed decisions by providing a quantitative analysis of data. It helps in understanding the trends, patterns, and relationships between variables.",
+    "difficulty": "Medium",
+    "class": "Class 11",
+    "subject": "Economics",
+    "chapter": "Ch 5: Introduction to Statistics"
+  },
+  {
+    "text": "What is the difference between statistics and information?",
+    "options": [
+      "Statistics is a branch of mathematics that deals with the collection, analysis, interpretation, presentation, and organization of data.",
+      "Statistics is a branch of mathematics that deals with the collection and presentation of data.",
+      "Statistics is a branch of mathematics that deals with the analysis and interpretation of data.",
+      "Statistics is a branch of mathematics that deals with the collection and analysis of data."
+    ],
+    "correctAnswer": "Statistics is a branch of mathematics that deals with the collection, analysis, interpretation, presentation, and organization of data.",
+    "explanation": "Statistics is a branch of mathematics that deals with the collection, analysis, interpretation, presentation, and organization of data. Information, on the other hand, is the result of statistical analysis.",
+    "difficulty": "Hard",
+    "class": "Class 11",
+    "subject": "Economics",
+    "chapter": "Ch 5: Introduction to Statistics"
+  }
+]

@@ -1,0 +1,152 @@
+[
+  {
+    "text": "What is the main difference between a debenture and a share?",
+    "options": [
+      "A debenture is a type of share.",
+      "A debenture is a type of loan.",
+      "A debenture is a type of equity.",
+      "A debenture is a type of debt."
+    ],
+    "correctAnswer": "D",
+    "explanation": "A debenture is a type of debt, whereas a share is a type of equity. Debentures are issued by a company to raise long-term funds by borrowing from investors.",
+    "difficulty": "Easy",
+    "class": "Class 12",
+    "subject": "Accountancy",
+    "chapter": "Ch 7: Issue and Redemption of Debentures"
+  },
+  {
+    "text": "What is the purpose of issuing collateral security debentures?",
+    "options": [
+      "To reduce the risk of default by the issuer.",
+      "To increase the risk of default by the issuer.",
+      "To reduce the cost of borrowing for the issuer.",
+      "To increase the cost of borrowing for the issuer."
+    ],
+    "correctAnswer": "A",
+    "explanation": "Collateral security debentures are issued to reduce the risk of default by the issuer. In this type of debenture, the issuer provides collateral or security to the debenture holders, which reduces the risk of default.",
+    "difficulty": "Medium",
+    "class": "Class 12",
+    "subject": "Accountancy",
+    "chapter": "Ch 7: Issue and Redemption of Debentures"
+  },
+  {
+    "text": "How are debentures redeemed?",
+    "options": [
+      "By issuing new shares to the debenture holders.",
+      "By paying the face value of the debenture to the debenture holders.",
+      "By paying the face value of the debenture plus interest to the debenture holders.",
+      "By paying the face value of the debenture plus a premium to the debenture holders."
+    ],
+    "correctAnswer": "C",
+    "explanation": "Debentures are redeemed by paying the face value of the debenture plus interest to the debenture holders. The interest is calculated at the rate specified in the debenture prospectus.",
+    "difficulty": "Medium",
+    "class": "Class 12",
+    "subject": "Accountancy",
+    "chapter": "Ch 7: Issue and Redemption of Debentures"
+  },
+  {
+    "text": "What is the disclosure required for debentures in the balance sheet?",
+    "options": [
+      "Face value of debentures.",
+      "Face value of debentures and interest accrued.",
+      "Face value of debentures and interest paid.",
+      "Face value of debentures, interest accrued, and interest paid."
+    ],
+    "correctAnswer": "C",
+    "explanation": "The face value of debentures and interest paid are disclosed in the balance sheet. Interest accrued is not disclosed in the balance sheet, but it is shown in the profit and loss account.",
+    "difficulty": "Hard",
+    "class": "Class 12",
+    "subject": "Accountancy",
+    "chapter": "Ch 7: Issue and Redemption of Debentures"
+  },
+  {
+    "text": "What is the difference between a convertible debenture and a non-convertible debenture?",
+    "options": [
+      "A convertible debenture can be converted into shares, whereas a non-convertible debenture cannot be converted into shares.",
+      "A convertible debenture cannot be converted into shares, whereas a non-convertible debenture can be converted into shares.",
+      "A convertible debenture is issued at a premium, whereas a non-convertible debenture is issued at a discount.",
+      "A convertible debenture is issued at a discount, whereas a non-convertible debenture is issued at a premium."
+    ],
+    "correctAnswer": "A",
+    "explanation": "A convertible debenture can be converted into shares at the option of the debenture holder, whereas a non-convertible debenture cannot be converted into shares.",
+    "difficulty": "Medium",
+    "class": "Class 12",
+    "subject": "Accountancy",
+    "chapter": "Ch 7: Issue and Redemption of Debentures"
+  },
+  {
+    "text": "What is the accounting treatment for debenture interest?",
+    "options": [
+      "Debenture interest is shown as an expense in the profit and loss account.",
+      "Debenture interest is shown as a liability in the balance sheet.",
+      "Debenture interest is shown as an asset in the balance sheet.",
+      "Debenture interest is shown as a revenue in the profit and loss account."
+    ],
+    "correctAnswer": "A",
+    "explanation": "Debenture interest is shown as an expense in the profit and loss account. It is calculated at the rate specified in the debenture prospectus and is paid to the debenture holders.",
+    "difficulty": "Medium",
+    "class": "Class 12",
+    "subject": "Accountancy",
+    "chapter": "Ch 7: Issue and Redemption of Debentures"
+  },
+  {
+    "text": "What is the difference between a secured debenture and an unsecured debenture?",
+    "options": [
+      "A secured debenture is issued at a premium, whereas an unsecured debenture is issued at a discount.",
+      "A secured debenture is issued at a discount, whereas an unsecured debenture is issued at a premium.",
+      "A secured debenture is backed by collateral or security, whereas an unsecured debenture is not backed by collateral or security.",
+      "A secured debenture is not backed by collateral or security, whereas an unsecured debenture is backed by collateral or security."
+    ],
+    "correctAnswer": "C",
+    "explanation": "A secured debenture is backed by collateral or security, whereas an unsecured debenture is not backed by collateral or security.",
+    "difficulty": "Medium",
+    "class": "Class 12",
+    "subject": "Accountancy",
+    "chapter": "Ch 7: Issue and Redemption of Debentures"
+  },
+  {
+    "text": "What is the accounting treatment for debenture redemption?",
+    "options": [
+      "Debenture redemption is shown as a liability in the balance sheet.",
+      "Debenture redemption is shown as an asset in the balance sheet.",
+      "Debenture redemption is shown as an expense in the profit and loss account.",
+      "Debenture redemption is shown as a revenue in the profit and loss account."
+    ],
+    "correctAnswer": "C",
+    "explanation": "Debenture redemption is shown as an expense in the profit and loss account. It is calculated at the face value of the debenture plus interest.",
+    "difficulty": "Medium",
+    "class": "Class 12",
+    "subject": "Accountancy",
+    "chapter": "Ch 7: Issue and Redemption of Debentures"
+  },
+  {
+    "text": "What is the difference between a convertible debenture and a debenture stock?",
+    "options": [
+      "A convertible debenture can be converted into shares, whereas a debenture stock cannot be converted into shares.",
+      "A convertible debenture cannot be converted into shares, whereas a debenture stock can be converted into shares.",
+      "A convertible debenture is issued at a premium, whereas a debenture stock is issued at a discount.",
+      "A convertible debenture is issued at a discount, whereas a debenture stock is issued at a premium."
+    ],
+    "correctAnswer": "A",
+    "explanation": "A convertible debenture can be converted into shares at the option of the debenture holder, whereas a debenture stock cannot be converted into shares.",
+    "difficulty": "Medium",
+    "class": "Class 12",
+    "subject": "Accountancy",
+    "chapter": "Ch 7: Issue and Redemption of Debentures"
+  },
+  {
+    "text": "What is the accounting treatment for debenture issue costs?",
+    "options": [
+      "Debenture issue costs are shown as an asset in the balance sheet.",
+      "Debenture issue costs are shown as a liability in the balance sheet.",
+      "Debenture issue costs are shown as an expense in the profit and loss account.",
+      "Debenture issue costs are shown as a revenue in the profit and loss account."
+    ],
+    "correctAnswer": "C",
+    "explanation": "Debenture issue costs are shown as an expense in the profit and loss account. They are the costs incurred by the company in issuing the debentures.",
+    "difficulty": "Medium",
+    "class": "Class 12",
+    "subject": "Accountancy",
+    "chapter": "Ch 7: Issue and Redemption of Debentures"
+  }
+]

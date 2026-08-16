@@ -1,0 +1,197 @@
+[
+  {
+    "text": "What is the characteristic of a perfectly competitive market?",
+    "options": [
+      "Many buyers and sellers",
+      "Barriers to entry are high",
+      "Only one firm controls the market",
+      "Firms produce homogeneous products"
+    ],
+    "correctAnswer": "Firms produce homogeneous products",
+    "explanation": "A perfectly competitive market is characterized by many buyers and sellers, free entry and exit, homogeneous products, and perfect knowledge. The correct answer is 'Firms produce homogeneous products' because in a perfectly competitive market, firms produce identical products.",
+    "difficulty": "Easy",
+    "class": "Class 11",
+    "subject": "Economics",
+    "chapter": "Ch 4: Forms of Market and Price Determination"
+  },
+  {
+    "text": "What is the main difference between a monopoly and a perfectly competitive market?",
+    "options": [
+      "Monopoly has many buyers and sellers",
+      "Monopoly has a single buyer",
+      "Monopoly has a single seller",
+      "Monopoly has a fixed price"
+    ],
+    "correctAnswer": "Monopoly has a single seller",
+    "explanation": "A monopoly is a market structure where there is only one firm producing a particular good or service. The main difference between a monopoly and a perfectly competitive market is that a monopoly has a single seller, whereas a perfectly competitive market has many buyers and sellers.",
+    "difficulty": "Medium",
+    "class": "Class 11",
+    "subject": "Economics",
+    "chapter": "Ch 4: Forms of Market and Price Determination"
+  },
+  {
+    "text": "What is the relationship between the demand curve and the marginal revenue curve in a perfectly competitive market?",
+    "options": [
+      "MR > D",
+      "MR = D",
+      "MR < D",
+      "MR = 0"
+    ],
+    "correctAnswer": "MR = D",
+    "explanation": "In a perfectly competitive market, the demand curve and the marginal revenue curve are identical. This is because the firm is a price-taker and the price is determined by the market equilibrium.",
+    "difficulty": "Medium",
+    "class": "Class 11",
+    "subject": "Economics",
+    "chapter": "Ch 4: Forms of Market and Price Determination"
+  },
+  {
+    "text": "What is the effect of an increase in the price of a complementary good on the demand for a good?",
+    "options": [
+      "Increase in demand",
+      "Decrease in demand",
+      "No effect on demand",
+      "Increase in supply"
+    ],
+    "correctAnswer": "Decrease in demand",
+    "explanation": "If the price of a complementary good increases, the demand for the good decreases. This is because the complementary good is now more expensive, making the good less desirable.",
+    "difficulty": "Medium",
+    "class": "Class 11",
+    "subject": "Economics",
+    "chapter": "Ch 4: Forms of Market and Price Determination"
+  },
+  {
+    "text": "What is the purpose of a price ceiling?",
+    "options": [
+      "To increase the price of a good",
+      "To decrease the price of a good",
+      "To prevent the price of a good from increasing",
+      "To prevent the price of a good from decreasing"
+    ],
+    "correctAnswer": "To prevent the price of a good from increasing",
+    "explanation": "A price ceiling is a maximum price that can be charged for a good. The purpose of a price ceiling is to prevent the price of a good from increasing above a certain level.",
+    "difficulty": "Easy",
+    "class": "Class 11",
+    "subject": "Economics",
+    "chapter": "Ch 4: Forms of Market and Price Determination"
+  },
+  {
+    "text": "What is the effect of an increase in the price of a substitute good on the demand for a good?",
+    "options": [
+      "Increase in demand",
+      "Decrease in demand",
+      "No effect on demand",
+      "Increase in supply"
+    ],
+    "correctAnswer": "Decrease in demand",
+    "explanation": "If the price of a substitute good increases, the demand for the good decreases. This is because the substitute good is now more expensive, making the good less desirable.",
+    "difficulty": "Medium",
+    "class": "Class 11",
+    "subject": "Economics",
+    "chapter": "Ch 4: Forms of Market and Price Determination"
+  },
+  {
+    "text": "What is the relationship between the supply curve and the marginal cost curve in a perfectly competitive market?",
+    "options": [
+      "MC > S",
+      "MC = S",
+      "MC < S",
+      "MC = 0"
+    ],
+    "correctAnswer": "MC = S",
+    "explanation": "In a perfectly competitive market, the supply curve and the marginal cost curve are identical. This is because the firm is a price-taker and the price is determined by the market equilibrium.",
+    "difficulty": "Medium",
+    "class": "Class 11",
+    "subject": "Economics",
+    "chapter": "Ch 4: Forms of Market and Price Determination"
+  },
+  {
+    "text": "What is the effect of an increase in the price of a complementary good on the supply of a good?",
+    "options": [
+      "Increase in supply",
+      "Decrease in supply",
+      "No effect on supply",
+      "Increase in demand"
+    ],
+    "correctAnswer": "No effect on supply",
+    "explanation": "An increase in the price of a complementary good has no effect on the supply of the good. The supply of a good is determined by the firm's marginal cost and the price of the good, not by the price of a complementary good.",
+    "difficulty": "Medium",
+    "class": "Class 11",
+    "subject": "Economics",
+    "chapter": "Ch 4: Forms of Market and Price Determination"
+  },
+  {
+    "text": "What is the purpose of a price floor?",
+    "options": [
+      "To increase the price of a good",
+      "To decrease the price of a good",
+      "To prevent the price of a good from decreasing",
+      "To prevent the price of a good from increasing"
+    ],
+    "correctAnswer": "To prevent the price of a good from decreasing",
+    "explanation": "A price floor is a minimum price that can be charged for a good. The purpose of a price floor is to prevent the price of a good from decreasing below a certain level.",
+    "difficulty": "Easy",
+    "class": "Class 11",
+    "subject": "Economics",
+    "chapter": "Ch 4: Forms of Market and Price Determination"
+  },
+  {
+    "text": "What is the effect of an increase in the price of a substitute good on the supply of a good?",
+    "options": [
+      "Increase in supply",
+      "Decrease in supply",
+      "No effect on supply",
+      "Increase in demand"
+    ],
+    "correctAnswer": "No effect on supply",
+    "explanation": "An increase in the price of a substitute good has no effect on the supply of the good. The supply of a good is determined by the firm's marginal cost and the price of the good, not by the price of a substitute good.",
+    "difficulty": "Medium",
+    "class": "Class 11",
+    "subject": "Economics",
+    "chapter": "Ch 4: Forms of Market and Price Determination"
+  },
+  {
+    "text": "What is the relationship between the demand curve and the marginal revenue curve in a monopoly?",
+    "options": [
+      "MR > D",
+      "MR = D",
+      "MR < D",
+      "MR = 0"
+    ],
+    "correctAnswer": "MR < D",
+    "explanation": "In a monopoly, the demand curve and the marginal revenue curve are not identical. The marginal revenue curve is less than the demand curve because the firm can increase its price and reduce its quantity sold.",
+    "difficulty": "Hard",
+    "class": "Class 11",
+    "subject": "Economics",
+    "chapter": "Ch 4: Forms of Market and Price Determination"
+  },
+  {
+    "text": "What is the effect of an increase in the price of a complementary good on the demand for a good in a monopoly?",
+    "options": [
+      "Increase in demand",
+      "Decrease in demand",
+      "No effect on demand",
+      "Increase in supply"
+    ],
+    "correctAnswer": "Decrease in demand",
+    "explanation": "If the price of a complementary good increases, the demand for the good decreases in a monopoly. This is because the complementary good is now more expensive, making the good less desirable.",
+    "difficulty": "Hard",
+    "class": "Class 11",
+    "subject": "Economics",
+    "chapter": "Ch 4: Forms of Market and Price Determination"
+  },
+  {
+    "text": "What is the relationship between the supply curve and the marginal cost curve in a monopoly?",
+    "options": [
+      "MC > S",
+      "MC = S",
+      "MC < S",
+      "MC = 0"
+    ],
+    "correctAnswer": "MC < S",
+    "explanation": "In a monopoly, the supply curve and the marginal cost curve are not identical. The marginal cost curve is less than the supply curve because the firm can increase its price and reduce its quantity sold.",
+    "difficulty": "Hard",
+    "class": "Class 11",
+    "subject": "Economics",
+    "chapter": "Ch 4: Forms of Market and Price Determination"
+  }
+]

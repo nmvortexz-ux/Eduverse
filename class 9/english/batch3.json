@@ -1,0 +1,327 @@
+[
+  {
+    "class": "Class 9",
+    "subject": "English",
+    "difficulty": "E",
+    "text": "Who wrote the poem 'A Legend of the Northland'?",
+    "explanation": "'A Legend of the Northland' is a ballad written by Phoebe Cary.",
+    "options": [
+      { "text": "Phoebe Cary", "isCorrect": true },
+      { "text": "Coates Kinney", "isCorrect": false },
+      { "text": "Gieve Patel", "isCorrect": false },
+      { "text": "Robert Frost", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 9",
+    "subject": "English",
+    "difficulty": "E",
+    "text": "In 'Reach for the Top' (Part I), what is the name of the only woman in the world who has scaled Mt. Everest twice?",
+    "explanation": "Santosh Yadav is the only woman in the world who has climbed Mount Everest twice.",
+    "options": [
+      { "text": "Bachendri Pal", "isCorrect": false },
+      { "text": "Santosh Yadav", "isCorrect": true },
+      { "text": "Maria Sharapova", "isCorrect": false },
+      { "text": "Junko Tabei", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 9",
+    "subject": "English",
+    "difficulty": "E",
+    "text": "In 'A House Is Not a Home', what pet did the author love dearly and lose temporarily during the fire?",
+    "explanation": "The author had a red tabby cat whom he loved dearly and lost when the house caught fire.",
+    "options": [
+      { "text": "A small puppy", "isCorrect": false },
+      { "text": "A red tabby cat", "isCorrect": true },
+      { "text": "A parakeet", "isCorrect": false },
+      { "text": "A white rabbit", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 9",
+    "subject": "English",
+    "difficulty": "E",
+    "text": "What does the word 'legend' in the context of 'A Legend of the Northland' mean?",
+    "explanation": "A legend is an old traditional story passed down through generations, which may or may not be historically true.",
+    "options": [
+      { "text": "A modern scientific theory", "isCorrect": false },
+      { "text": "An old traditional story passed down", "isCorrect": true },
+      { "text": "A formal legal document", "isCorrect": false },
+      { "text": "A dictionary entry", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 9",
+    "subject": "English",
+    "difficulty": "E",
+    "text": "In 'The Beggar', who is Sergei?",
+    "explanation": "Sergei is an advocate who offers Lushkoff, the beggar, work to earn money honestly.",
+    "options": [
+      { "text": "A teacher at the village school", "isCorrect": false },
+      { "text": "An advocate who met Lushkoff", "isCorrect": true },
+      { "text": "A writer looking for stories", "isCorrect": false },
+      { "text": "The mayor of the town", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 9",
+    "subject": "English",
+    "difficulty": "E",
+    "text": "In 'Reach for the Top' (Part II), which sport is Maria Sharapova associated with?",
+    "explanation": "Maria Sharapova is a world-renowned professional tennis player from Russia.",
+    "options": [
+      { "text": "Badminton", "isCorrect": false },
+      { "text": "Women's Tennis", "isCorrect": true },
+      { "text": "Gymnastics", "isCorrect": false },
+      { "text": "Table Tennis", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 9",
+    "subject": "English",
+    "difficulty": "M",
+    "text": "Why did Santosh Yadav leave her home in Haryana at the age of sixteen?",
+    "explanation": "She was under pressure from her parents to get married, but she wanted to get a proper education first.",
+    "options": [
+      { "text": "To go on a trekking expedition in the Himalayas", "isCorrect": false },
+      { "text": "To get a proper education in Delhi instead of marrying", "isCorrect": true },
+      { "text": "To work as a sports instructor", "isCorrect": false },
+      { "text": "To visit her grandmother in Rajasthan", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 9",
+    "subject": "English",
+    "difficulty": "M",
+    "text": "In 'A House Is Not a Home', how did the author's new schoolmates surprise and help him after the fire?",
+    "explanation": "They collected school supplies, books, and clothes for him, which made him feel accepted and happy.",
+    "options": [
+      { "text": "They helped him rebuild his house physically", "isCorrect": false },
+      { "text": "They gathered school supplies, clothes, and books for him", "isCorrect": true },
+      { "text": "They threw him a birthday party", "isCorrect": false },
+      { "text": "They gave him a new pet kitten", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 9",
+    "subject": "English",
+    "difficulty": "M",
+    "text": "In 'A Truly Beautiful Mind', what did Einstein's famous equation E = mc² establish?",
+    "explanation": "The equation, part of his Special Theory of Relativity, describes the relationship between mass (m) and energy (E).",
+    "options": [
+      { "text": "The relation between gravitational force and weight", "isCorrect": false },
+      { "text": "The relationship between mass and energy", "isCorrect": true },
+      { "text": "The speed of sound in different media", "isCorrect": false },
+      { "text": "The theory of planetary motion", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 9",
+    "subject": "English",
+    "difficulty": "M",
+    "text": "Identify the direct speech version of: 'He told me that he had already read the book.'",
+    "explanation": "Past perfect 'had already read' changes to present perfect 'have already read' in direct speech, and 'told me' becomes 'said to me'.",
+    "options": [
+      { "text": "He said to me, \"I have already read the book.\"", "isCorrect": true },
+      { "text": "He said to me, \"I had already read the book.\"", "isCorrect": false },
+      { "text": "He said, \"He has already read the book.\"", "isCorrect": false },
+      { "text": "He says to me, \"I am reading the book.\"", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 9",
+    "subject": "English",
+    "difficulty": "M",
+    "text": "What does the poet of 'No Men Are Foreign' want us to remember about all human beings?",
+    "explanation": "James Kirkup states that no men are strange and no countries are foreign; beneath all uniforms, a single body breathes.",
+    "options": [
+      { "text": "That we must learn different languages to survive", "isCorrect": false },
+      { "text": "That we all share the same earth and are essentially brothers", "isCorrect": true },
+      { "text": "That different countries have superior citizens", "isCorrect": false },
+      { "text": "That soldiers must defend borders at all costs", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 9",
+    "subject": "English",
+    "difficulty": "M",
+    "text": "In 'The Beggar', Lushkoff was hired by Sergei to do what job first?",
+    "explanation": "Lushkoff was first hired by Sergei to chop wood in his yard.",
+    "options": [
+      { "text": "To clean his office", "isCorrect": false },
+      { "text": "To chop wood in his yard", "isCorrect": true },
+      { "text": "To copy manuscripts", "isCorrect": false },
+      { "text": "To carry luggage", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 9",
+    "subject": "English",
+    "difficulty": "M",
+    "text": "Fill in the blank with the correct form of the verb: 'Neither of the plans ___ approved by the committee.'",
+    "explanation": "'Neither of' takes a singular verb, so 'was' or 'is' is appropriate depending on the tense; here, 'was' is correct.",
+    "options": [
+      { "text": "were", "isCorrect": false },
+      { "text": "was", "isCorrect": true },
+      { "text": "are", "isCorrect": false },
+      { "text": "have been", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 9",
+    "subject": "English",
+    "difficulty": "M",
+    "text": "In 'My Childhood', what business did Kalam's cousin Samsuddin run in Rameswaram?",
+    "explanation": "Samsuddin distributed newspapers in Rameswaram, and Kalam helped him catch the newspaper bundles thrown from the moving train.",
+    "options": [
+      { "text": "Selling tamarind seeds", "isCorrect": false },
+      { "text": "Distribution of newspapers", "isCorrect": true },
+      { "text": "Ferry services to Dhanuskodi", "isCorrect": false },
+      { "text": "Groceries supply", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 9",
+    "subject": "English",
+    "difficulty": "M",
+    "text": "Change this sentence to passive voice: 'The students are writing a poem.'",
+    "explanation": "Present continuous active 'are writing' becomes 'is/are being written' in passive voice.",
+    "options": [
+      { "text": "A poem was written by the students.", "isCorrect": false },
+      { "text": "A poem is being written by the students.", "isCorrect": true },
+      { "text": "A poem has been written by the students.", "isCorrect": false },
+      { "text": "A poem is written by the students.", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 9",
+    "subject": "English",
+    "difficulty": "H",
+    "text": "In 'Reach for the Top', what environmental contribution did Santosh Yadav make during her Everest expedition?",
+    "explanation": "As a member of the Himalayan Environment Trust, she collected and brought down 500 kilograms of garbage from the Himalayas.",
+    "options": [
+      { "text": "She planted trees at the base camp", "isCorrect": false },
+      { "text": "She brought down 500 kilograms of garbage from the Everest slopes", "isCorrect": true },
+      { "text": "She developed solar-powered camps", "isCorrect": false },
+      { "text": "She raised funds to protect wild animals in the region", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 9",
+    "subject": "English",
+    "difficulty": "H",
+    "text": "Identify the correct error correction in the sentence: 'She had left the room before I arrived, so we don't meet.'",
+    "explanation": "Since both actions happened in the past, 'don't meet' (present tense) should be changed to 'didn't meet' (past tense).",
+    "options": [
+      { "text": "Change 'had left' to 'has left'", "isCorrect": false },
+      { "text": "Change 'don't meet' to 'didn't meet'", "isCorrect": true },
+      { "text": "Change 'arrived' to 'arrive'", "isCorrect": false },
+      { "text": "Change 'before' to 'after'", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 9",
+    "subject": "English",
+    "difficulty": "H",
+    "text": "In the poem 'No Men Are Foreign', what does the poet mean by saying 'their hands are ours, and in their lines we read / A labour not different from our own'?",
+    "explanation": "He emphasizes that people of other nations work equally hard to earn a living, making their struggles identical to ours.",
+    "options": [
+      { "text": "That we share similar palm prints and features", "isCorrect": false },
+      { "text": "That they do the same kind of physical work and hard labor to live", "isCorrect": true },
+      { "text": "That they use similar tools and machinery", "isCorrect": false },
+      { "text": "That their boundaries are manually created", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 9",
+    "subject": "English",
+    "difficulty": "H",
+    "text": "In 'The Last Leaf', what disease was Johnsy suffering from?",
+    "explanation": "Johnsy was suffering from pneumonia, which was spreading through Greenwich Village in November.",
+    "options": [
+      { "text": "Malaria", "isCorrect": false },
+      { "text": "Pneumonia", "isCorrect": true },
+      { "text": "Tuberculosis", "isCorrect": false },
+      { "text": "Typhoid", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 9",
+    "subject": "English",
+    "difficulty": "H",
+    "text": "What did the author of 'A House Is Not a Home' realize when the lady brought back his lost cat?",
+    "explanation": "The return of the cat helped him overcome his feeling of loss and isolation, making him realize that his life was starting anew.",
+    "options": [
+      { "text": "He realized that his new school was not worth attending", "isCorrect": false },
+      { "text": "He realized that his life was coming back to him and he felt gratitude", "isCorrect": true },
+      { "text": "He realized he needed to buy more fire alarms", "isCorrect": false },
+      { "text": "He realized the neighbor was looking for a reward", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 9",
+    "subject": "English",
+    "difficulty": "H",
+    "text": "Complete the sentence with the appropriate modal verb: 'You ___ touch the live wires; it is extremely dangerous.'",
+    "explanation": "'Must not' is used to express a strong prohibition, which is appropriate for a highly dangerous situation.",
+    "options": [
+      { "text": "should not", "isCorrect": false },
+      { "text": "must not", "isCorrect": true },
+      { "text": "need not", "isCorrect": false },
+      { "text": "cannot", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 9",
+    "subject": "English",
+    "difficulty": "VH",
+    "text": "In the poem 'No Men Are Foreign', what does the poet warn us about when we are told to hate our brothers?",
+    "explanation": "He warns that by hating others, we disposses, betray, and condemn ourselves, polluting our common air.",
+    "options": [
+      { "text": "We will lose our land and property to foreigners", "isCorrect": false },
+      { "text": "We disposses, betray, and condemn ourselves", "isCorrect": true },
+      { "text": "Our military strength will be reduced", "isCorrect": false },
+      { "text": "We will violate international treaties", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 9",
+    "subject": "English",
+    "difficulty": "VH",
+    "text": "In 'The Beggar', Lushkoff says, 'By your words and your noble deeds a change took place in my heart.' Who is 'your' referring to in this statement and who actually did the work?",
+    "explanation": "Lushkoff is speaking to Sergei ('your words'), but he reveals that it was actually Olga's noble deeds and woodchopping that changed him.",
+    "options": [
+      { "text": "He is speaking to Olga, thanking her for giving him money", "isCorrect": false },
+      { "text": "He is speaking to Sergei about his words, though Olga did the actual physical work", "isCorrect": true },
+      { "text": "He is speaking to the notary who gave him a job copy-writing", "isCorrect": false },
+      { "text": "He is speaking to his mother who guided him in childhood", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 9",
+    "subject": "English",
+    "difficulty": "VH",
+    "text": "Analyze the sentence: 'She behaved in such a manner ___ everyone was shocked.' Which relative/conjunction fits this context?",
+    "explanation": "The correlative structure is 'such... that' when expressing cause and effect (manner leading to shock).",
+    "options": [
+      { "text": "as", "isCorrect": false },
+      { "text": "that", "isCorrect": true },
+      { "text": "like", "isCorrect": false },
+      { "text": "than", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 9",
+    "subject": "English",
+    "difficulty": "VH",
+    "text": "In the context of Maria Sharapova's biography 'Reach for the Top', what sacrifice did Maria make at the age of nine that shaped her tennis career?",
+    "explanation": "She had to leave her mother Yelena behind in Siberia due to visa restrictions and travel alone with her father Yuri to Florida.",
+    "options": [
+      { "text": "She gave up her high school education entirely", "isCorrect": false },
+      { "text": "She stayed separated from her mother for two years to train in the US", "isCorrect": true },
+      { "text": "She changed her Russian citizenship to become American", "isCorrect": false },
+      { "text": "She worked part-time as a maid to pay for coaching", "isCorrect": false }
+    ]
+  }
+]

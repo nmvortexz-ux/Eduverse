@@ -1,0 +1,152 @@
+[
+  {
+    "text": "The current ratio is calculated as Current Assets divided by Current Liabilities. What is the correct formula?",
+    "options": [
+      "Current Assets / Total Assets",
+      "Current Assets / Current Liabilities",
+      "Total Assets / Current Liabilities",
+      "Current Liabilities / Current Assets"
+    ],
+    "correctAnswer": "Current Assets / Current Liabilities",
+    "explanation": "The current ratio is calculated as Current Assets divided by Current Liabilities. It is a liquidity ratio that indicates the ability of a business to pay its short-term debts.",
+    "difficulty": "Easy",
+    "class": "Class 12",
+    "subject": "Accountancy",
+    "chapter": "Ch 10: Accounting Ratios"
+  },
+  {
+    "text": "Which of the following is a solvency ratio?",
+    "options": [
+      "Current Ratio",
+      "Debt-Equity Ratio",
+      "Asset Turnover Ratio",
+      "Return on Investment (ROI)"
+    ],
+    "correctAnswer": "Debt-Equity Ratio",
+    "explanation": "Solvency ratios are used to assess the ability of a business to pay its long-term debts. The debt-equity ratio is a solvency ratio that indicates the proportion of long-term debt to shareholders' equity.",
+    "difficulty": "Medium",
+    "class": "Class 12",
+    "subject": "Accountancy",
+    "chapter": "Ch 10: Accounting Ratios"
+  },
+  {
+    "text": "What is the effect of an increase in current assets on the current ratio?",
+    "options": [
+      "Increases the current ratio",
+      "Decreases the current ratio",
+      "Remains unchanged",
+      "Depends on the increase in current liabilities"
+    ],
+    "correctAnswer": "Increases the current ratio",
+    "explanation": "An increase in current assets will increase the numerator of the current ratio, resulting in an increase in the ratio.",
+    "difficulty": "Easy",
+    "class": "Class 12",
+    "subject": "Accountancy",
+    "chapter": "Ch 10: Accounting Ratios"
+  },
+  {
+    "text": "The asset turnover ratio is calculated as Net Sales divided by?",
+    "options": [
+      "Total Assets",
+      "Average Assets",
+      "Average Inventory",
+      "Average Accounts Payable"
+    ],
+    "correctAnswer": "Average Assets",
+    "explanation": "The asset turnover ratio is calculated as Net Sales divided by Average Assets. It indicates the efficiency with which a business uses its assets to generate sales.",
+    "difficulty": "Medium",
+    "class": "Class 12",
+    "subject": "Accountancy",
+    "chapter": "Ch 10: Accounting Ratios"
+  },
+  {
+    "text": "What is the effect of an increase in debt on the debt-equity ratio?",
+    "options": [
+      "Increases the debt-equity ratio",
+      "Decreases the debt-equity ratio",
+      "Remains unchanged",
+      "Depends on the increase in equity"
+    ],
+    "correctAnswer": "Increases the debt-equity ratio",
+    "explanation": "An increase in debt will increase the numerator of the debt-equity ratio, resulting in an increase in the ratio.",
+    "difficulty": "Easy",
+    "class": "Class 12",
+    "subject": "Accountancy",
+    "chapter": "Ch 10: Accounting Ratios"
+  },
+  {
+    "text": "The current ratio is 2:1. What is the value of current assets?",
+    "options": [
+      "₹ 50,000",
+      "₹ 100,000",
+      "₹ 200,000",
+      "₹ 500,000"
+    ],
+    "correctAnswer": "₹ 100,000",
+    "explanation": "The current ratio is calculated as Current Assets divided by Current Liabilities. Given that the current ratio is 2:1, we can set up the equation: Current Assets / Current Liabilities = 2. Let Current Assets = x. Then, x / 1 = 2. Solving for x, we get x = 2.",
+    "difficulty": "Medium",
+    "class": "Class 12",
+    "subject": "Accountancy",
+    "chapter": "Ch 10: Accounting Ratios"
+  },
+  {
+    "text": "Which of the following is an activity ratio?",
+    "options": [
+      "Debt-Equity Ratio",
+      "Current Ratio",
+      "Asset Turnover Ratio",
+      "Return on Investment (ROI)"
+    ],
+    "correctAnswer": "Asset Turnover Ratio",
+    "explanation": "Activity ratios are used to assess the efficiency with which a business uses its assets to generate sales. The asset turnover ratio is an activity ratio that indicates the efficiency with which a business uses its assets to generate sales.",
+    "difficulty": "Easy",
+    "class": "Class 12",
+    "subject": "Accountancy",
+    "chapter": "Ch 10: Accounting Ratios"
+  },
+  {
+    "text": "What is the effect of an increase in sales on the asset turnover ratio?",
+    "options": [
+      "Increases the asset turnover ratio",
+      "Decreases the asset turnover ratio",
+      "Remains unchanged",
+      "Depends on the increase in assets"
+    ],
+    "correctAnswer": "Increases the asset turnover ratio",
+    "explanation": "An increase in sales will increase the numerator of the asset turnover ratio, resulting in an increase in the ratio.",
+    "difficulty": "Medium",
+    "class": "Class 12",
+    "subject": "Accountancy",
+    "chapter": "Ch 10: Accounting Ratios"
+  },
+  {
+    "text": "The debt-equity ratio is 1:1. What is the value of shareholders' equity?",
+    "options": [
+      "₹ 50,000",
+      "₹ 100,000",
+      "₹ 200,000",
+      "₹ 500,000"
+    ],
+    "correctAnswer": "₹ 100,000",
+    "explanation": "The debt-equity ratio is calculated as Total Debt divided by Shareholders' Equity. Given that the debt-equity ratio is 1:1, we can set up the equation: Total Debt / Shareholders' Equity = 1. Let Shareholders' Equity = x. Then, x / 1 = 1. Solving for x, we get x = 1.",
+    "difficulty": "Easy",
+    "class": "Class 12",
+    "subject": "Accountancy",
+    "chapter": "Ch 10: Accounting Ratios"
+  },
+  {
+    "text": "Which of the following is a liquidity ratio?",
+    "options": [
+      "Debt-Equity Ratio",
+      "Current Ratio",
+      "Asset Turnover Ratio",
+      "Return on Investment (ROI)"
+    ],
+    "correctAnswer": "Current Ratio",
+    "explanation": "Liquidity ratios are used to assess the ability of a business to pay its short-term debts. The current ratio is a liquidity ratio that indicates the ability of a business to pay its short-term debts.",
+    "difficulty": "Medium",
+    "class": "Class 12",
+    "subject": "Accountancy",
+    "chapter": "Ch 10: Accounting Ratios"
+  }
+]

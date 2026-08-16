@@ -1,0 +1,327 @@
+[
+  {
+    "class": "Class 10",
+    "subject": "Science",
+    "difficulty": "EASY",
+    "text": "Which of the following represents a decomposition reaction?",
+    "explanation": "A decomposition reaction is one in which a single reactant breaks down to give simpler products, such as heating ferrous sulphate: 2\\text{FeSO}_4(s) \\rightarrow \\text{Fe}_2\\text{O}_3(s) + \\text{SO}_2(g) + \\text{SO}_3(g).",
+    "options": [
+      { "text": "2\\text{FeSO}_4(s) \\xrightarrow{\\Delta} \\text{Fe}_2\\text{O}_3(s) + \\text{SO}_2(g) + \\text{SO}_3(g)", "isCorrect": true },
+      { "text": "\\text{CaO}(s) + \\text{H}_2\\text{O}(l) \\rightarrow \\text{Ca(OH)}_2(aq)", "isCorrect": false },
+      { "text": "\\text{Zn}(s) + \\text{CuSO}_4(aq) \\rightarrow \\text{ZnSO}_4(aq) + \\text{Cu}(s)", "isCorrect": false },
+      { "text": "\\text{NaOH}(aq) + \\text{HCl}(aq) \\rightarrow \\text{NaCl}(aq) + \\text{H}_2\\text{O}(l)", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 10",
+    "subject": "Science",
+    "difficulty": "EASY",
+    "text": "What is the main function of bile juice secreted by the liver?",
+    "explanation": "Bile juice emulsifies fats (breaks down large fat globules into smaller ones) and makes the acidic food coming from the stomach alkaline for pancreatic enzymes to act.",
+    "options": [
+      { "text": "Emulsification of fats and making food alkaline", "isCorrect": true },
+      { "text": "Digestion of proteins into amino acids", "isCorrect": false },
+      { "text": "Absorption of digested food in the ileum", "isCorrect": false },
+      { "text": "Digestion of starch into maltose", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 10",
+    "subject": "Science",
+    "difficulty": "EASY",
+    "text": "The power of a lens of focal length f (in metres) is given by which of the following relations?",
+    "explanation": "The power of a lens is defined as the reciprocal of its focal length in metres. Thus, P = 1/f.",
+    "options": [
+      { "text": "P = \\frac{1}{f}", "isCorrect": true },
+      { "text": "P = f", "isCorrect": false },
+      { "text": "P = \\frac{v}{u}", "isCorrect": false },
+      { "text": "P = 2f", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 10",
+    "subject": "Science",
+    "difficulty": "EASY",
+    "text": "What is the primary function of guard cells in plant leaves?",
+    "explanation": "Guard cells control the opening and closing of stomatal pores, regulating gas exchange and transpiration.",
+    "options": [
+      { "text": "Opening and closing of stomata", "isCorrect": true },
+      { "text": "Photosynthesis in the leaf", "isCorrect": false },
+      { "text": "Conduction of water and minerals", "isCorrect": false },
+      { "text": "Protection against herbivores", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 10",
+    "subject": "Science",
+    "difficulty": "EASY",
+    "text": "Which device is used to measure electric current in a circuit?",
+    "explanation": "An ammeter is a device used to measure electric current in a circuit. It is always connected in series.",
+    "options": [
+      { "text": "Ammeter", "isCorrect": true },
+      { "text": "Voltmeter", "isCorrect": false },
+      { "text": "Galvanometer", "isCorrect": false },
+      { "text": "Rheostat", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 10",
+    "subject": "Science",
+    "difficulty": "EASY",
+    "text": "What is the chemical formula of Plaster of Paris?",
+    "explanation": "Plaster of Paris is calcium sulphate hemihydrate, represented by the formula \\text{CaSO}_4 \\cdot \\frac{1}{2}\\text{H}_2\\text{O}.",
+    "options": [
+      { "text": "\\text{CaSO}_4 \\cdot \\frac{1}{2}\\text{H}_2\\text{O}", "isCorrect": true },
+      { "text": "\\text{CaSO}_4 \\cdot 2\\text{H}_2\\text{O}", "isCorrect": false },
+      { "text": "\\text{CaSO}_4 \\cdot 10\\text{H}_2\\text{O}", "isCorrect": false },
+      { "text": "\\text{CaCO}_3", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 10",
+    "subject": "Science",
+    "difficulty": "MEDIUM",
+    "text": "Which of the following is the balanced chemical equation for the combustion of methane?",
+    "explanation": "Combustion of methane (\\text{CH}_4) reacts with oxygen (\\text{O}_2) to form carbon dioxide (\\text{CO}_2) and water (\\text{H}_2\\text{O}). The balanced equation is \\text{CH}_4 + 2\\text{O}_2 \\rightarrow \\text{CO}_2 + 2\\text{H}_2\\text{O}.",
+    "options": [
+      { "text": "\\text{CH}_4 + 2\\text{O}_2 \\rightarrow \\text{CO}_2 + 2\\text{H}_2\\text{O}", "isCorrect": true },
+      { "text": "\\text{CH}_4 + \\text{O}_2 \\rightarrow \\text{CO}_2 + \\text{H}_2\\text{O}", "isCorrect": false },
+      { "text": "2\\text{CH}_4 + 3\\text{O}_2 \\rightarrow 2\\text{CO} + 4\\text{H}_2\\text{O}", "isCorrect": false },
+      { "text": "\\text{CH}_4 + 2\\text{O}_2 \\rightarrow \\text{CO}_2 + \\text{H}_2", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 10",
+    "subject": "Science",
+    "difficulty": "MEDIUM",
+    "text": "Why does copper metal not react with dilute hydrochloric acid to liberate hydrogen gas?",
+    "explanation": "Copper is placed below hydrogen in the reactivity series. Therefore, it cannot displace hydrogen from dilute acids.",
+    "options": [
+      { "text": "Copper is less reactive than hydrogen.", "isCorrect": true },
+      { "text": "Copper is highly reactive and forms a protective oxide layer.", "isCorrect": false },
+      { "text": "Hydrochloric acid is a weak reducing agent.", "isCorrect": false },
+      { "text": "Copper reacts only with concentrated bases.", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 10",
+    "subject": "Science",
+    "difficulty": "MEDIUM",
+    "text": "Which of the following correctly traces the path of a reflex arc?",
+    "explanation": "A reflex arc flows from Receptor \\rightarrow Sensory neuron \\rightarrow Spinal cord \\rightarrow Motor neuron \\rightarrow Effector.",
+    "options": [
+      { "text": "Receptor \\rightarrow Sensory neuron \\rightarrow Spinal cord \\rightarrow Motor neuron \\rightarrow Effector", "isCorrect": true },
+      { "text": "Receptor \\rightarrow Motor neuron \\rightarrow Spinal cord \\rightarrow Sensory neuron \\rightarrow Effector", "isCorrect": false },
+      { "text": "Effector \\rightarrow Sensory neuron \\rightarrow Brain \\rightarrow Motor neuron \\rightarrow Receptor", "isCorrect": false },
+      { "text": "Receptor \\rightarrow Sensory neuron \\rightarrow Brain \\rightarrow Effector \\rightarrow Motor neuron", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 10",
+    "subject": "Science",
+    "difficulty": "MEDIUM",
+    "text": "A wire of resistance R is stretched such that its length is doubled and its area of cross-section is halved. What will be its new resistance?",
+    "explanation": "Resistance R = \\rho \\frac{l}{A}. When length becomes 2l and area becomes A/2, the new resistance is R' = \\rho \\frac{2l}{A/2} = 4\\rho \\frac{l}{A} = 4R.",
+    "options": [
+      { "text": "4R", "isCorrect": true },
+      { "text": "2R", "isCorrect": false },
+      { "text": "R", "isCorrect": false },
+      { "text": "R/4", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 10",
+    "subject": "Science",
+    "difficulty": "MEDIUM",
+    "text": "Find the focal length of a convex lens whose power is +2.0 D.",
+    "explanation": "Focal length f = 1/P = 1/(+2.0) = +0.5 m = +50 cm.",
+    "options": [
+      { "text": "+50 cm", "isCorrect": true },
+      { "text": "-50 cm", "isCorrect": false },
+      { "text": "+20 cm", "isCorrect": false },
+      { "text": "+2.0 m", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 10",
+    "subject": "Science",
+    "difficulty": "MEDIUM",
+    "text": "Two successive members of a homologous series differ in their molecular formula by:",
+    "explanation": "Members of a homologous series have the same general formula but differ by a -\\text{CH}_2- group (molecular mass of 14 u) from their adjacent members.",
+    "options": [
+      { "text": "-\\text{CH}_2-", "isCorrect": true },
+      { "text": "-\\text{CH}_3-", "isCorrect": false },
+      { "text": "-\\text{CH}_4-", "isCorrect": false },
+      { "text": "-\\text{C}_2\\text{H}_4-", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 10",
+    "subject": "Science",
+    "difficulty": "MEDIUM",
+    "text": "Which chemical substance is injected into the skin during an ant sting, causing pain and irritation?",
+    "explanation": "An ant sting injects methanoic acid (also known as formic acid) into the skin, which can be neutralized by applying a mild base like baking soda.",
+    "options": [
+      { "text": "Methanoic acid", "isCorrect": true },
+      { "text": "Acetic acid", "isCorrect": false },
+      { "text": "Citric acid", "isCorrect": false },
+      { "text": "Hydrochloric acid", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 10",
+    "subject": "Science",
+    "difficulty": "HARD",
+    "text": "What is the difference between Roasting and Calcination in metallurgy?",
+    "explanation": "Roasting is heating sulphide ores strongly in the presence of excess air to convert them into oxides. Calcination is heating carbonate ores strongly in limited or no air.",
+    "options": [
+      { "text": "Roasting is for sulphide ores in excess air; Calcination is for carbonate ores in limited air.", "isCorrect": true },
+      { "text": "Roasting is for carbonate ores in limited air; Calcination is for sulphide ores in excess air.", "isCorrect": false },
+      { "text": "Roasting uses reducing agents; Calcination uses oxidizing agents.", "isCorrect": false },
+      { "text": "Both process sulphide ores but Roasting uses lower temperatures.", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 10",
+    "subject": "Science",
+    "difficulty": "HARD",
+    "text": "What is the chemical name and formula of Gypsum, which is used to manufacture Plaster of Paris?",
+    "explanation": "Gypsum is Calcium Sulphate Dihydrate, with the chemical formula \\text{CaSO}_4 \\cdot 2\\text{H}_2\\text{O}.",
+    "options": [
+      { "text": "Calcium sulphate dihydrate, \\text{CaSO}_4 \\cdot 2\\text{H}_2\\text{O}", "isCorrect": true },
+      { "text": "Calcium sulphate hemihydrate, \\text{CaSO}_4 \\cdot \\frac{1}{2}\\text{H}_2\\text{O}", "isCorrect": false },
+      { "text": "Calcium carbonate, \\text{CaCO}_3", "isCorrect": false },
+      { "text": "Copper sulphate pentahydrate, \\text{CuSO}_4 \\cdot 5\\text{H}_2\\text{O}", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 10",
+    "subject": "Science",
+    "difficulty": "HARD",
+    "text": "Which of the following processes describes the formation of urine in the nephron in the correct sequence?",
+    "explanation": "Urine formation starts with Ultrafiltration in the glomerulus, followed by Selective Reabsorption of nutrients in the tubules, and Tubular Secretion.",
+    "options": [
+      { "text": "Ultrafiltration \\rightarrow Selective Reabsorption \\rightarrow Tubular Secretion", "isCorrect": true },
+      { "text": "Selective Reabsorption \\rightarrow Ultrafiltration \\rightarrow Tubular Secretion", "isCorrect": false },
+      { "text": "Tubular Secretion \\rightarrow Ultrafiltration \\rightarrow Selective Reabsorption", "isCorrect": false },
+      { "text": "Ultrafiltration \\rightarrow Tubular Secretion \\rightarrow Selective Reabsorption", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 10",
+    "subject": "Science",
+    "difficulty": "HARD",
+    "text": "An object is placed between the Focus (F) and the Center of Curvature (C) of a concave mirror. The image formed will be:",
+    "explanation": "When the object is placed between C and F, the image is formed beyond C. The image is real, inverted, and magnified.",
+    "options": [
+      { "text": "Beyond C, real, inverted, and magnified", "isCorrect": true },
+      { "text": "Between C and F, real, inverted, and diminished", "isCorrect": false },
+      { "text": "At infinity, real, inverted, and highly magnified", "isCorrect": false },
+      { "text": "Behind the mirror, virtual, erect, and magnified", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 10",
+    "subject": "Science",
+    "difficulty": "HARD",
+    "text": "Joule's law of heating states that the heat produced in a resistor is:",
+    "explanation": "According to Joule's law of heating, H = I^2 R t. The heat is directly proportional to the square of current (I^2), resistance (R), and time (t).",
+    "options": [
+      { "text": "Directly proportional to the square of current, resistance, and time of flow.", "isCorrect": true },
+      { "text": "Directly proportional to current, resistance, and square of time.", "isCorrect": false },
+      { "text": "Inversely proportional to current, directly proportional to resistance and time.", "isCorrect": false },
+      { "text": "Directly proportional to current, and inversely proportional to resistance.", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 10",
+    "subject": "Science",
+    "difficulty": "HARD",
+    "text": "Which of the following structures constitute the female reproductive parts of a flower?",
+    "explanation": "The female reproductive part (carpel/pistil) consists of three parts: Stigma (receives pollen), Style (passage tube), and Ovary (contains ovules).",
+    "options": [
+      { "text": "Stigma, Style, Ovary", "isCorrect": true },
+      { "text": "Anther, Filament, Stigma", "isCorrect": false },
+      { "text": "Petals, Sepals, Stamens", "isCorrect": false },
+      { "text": "Pollen grain, Style, Ovule", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 10",
+    "subject": "Science",
+    "difficulty": "VERY HARD",
+    "text": "Three identical resistors each of resistance R are first connected in series and then in parallel. What is the ratio of equivalent resistance in series (R_s) to parallel (R_p)?",
+    "explanation": "In series, R_s = R + R + R = 3R. In parallel, 1/R_p = 1/R + 1/R + 1/R = 3/R \\Rightarrow R_p = R/3. The ratio R_s / R_p = 3R / (R/3) = 9.",
+    "options": [
+      { "text": "9", "isCorrect": true },
+      { "text": "3", "isCorrect": false },
+      { "text": "1/9", "isCorrect": false },
+      { "text": "1/3", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 10",
+    "subject": "Science",
+    "difficulty": "VERY HARD",
+    "text": "The absolute refractive index of medium A is 1.5 and that of medium B is 2.0. What is the refractive index of medium B with respect to medium A?",
+    "explanation": "The refractive index of medium B with respect to medium A is given by n_{ba} = n_b / n_a = 2.0 / 1.5 = 4/3 \\approx 1.33.",
+    "options": [
+      { "text": "1.33", "isCorrect": true },
+      { "text": "0.75", "isCorrect": false },
+      { "text": "3.0", "isCorrect": false },
+      { "text": "0.5", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 10",
+    "subject": "Science",
+    "difficulty": "VERY HARD",
+    "text": "Saponification is the alkaline hydrolysis of fats or oils. What are the reactants and products of the saponification reaction of ethyl ethanoate?",
+    "explanation": "Ethyl ethanoate (ester) reacts with sodium hydroxide (base) to form sodium ethanoate (soap/salt) and ethanol. \\text{CH}_3\\text{COOC}_2\\text{H}_5 + \\text{NaOH} \\rightarrow \\text{CH}_3\\text{COONa} + \\text{C}_2\\text{H}_5\\text{OH}.",
+    "options": [
+      { "text": "Reactants: Ethyl ethanoate + NaOH; Products: Sodium ethanoate + Ethanol", "isCorrect": true },
+      { "text": "Reactants: Ethyl ethanoate + HCl; Products: Ethanoic acid + Ethanol", "isCorrect": false },
+      { "text": "Reactants: Ethanoic acid + Ethanol; Products: Ethyl ethanoate + Water", "isCorrect": false },
+      { "text": "Reactants: Ethyl ethanoate + Sodium carbonate; Products: Sodium acetate + Ethene", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 10",
+    "subject": "Science",
+    "difficulty": "VERY HARD",
+    "text": "In humans, sex determination is controlled genetically. Which of the following statements explains this correctly?",
+    "explanation": "Females produce eggs containing only X chromosomes. Males produce two types of sperms, 50% with X and 50% with Y chromosomes. Thus, the type of sperm fertilizing the egg determines the sex.",
+    "options": [
+      { "text": "All children inherit an X chromosome from their mother, and the sex is determined by whether they inherit X or Y from their father.", "isCorrect": true },
+      { "text": "The sex of the child depends on the environmental temperature at the time of fertilization.", "isCorrect": false },
+      { "text": "Children inherit Y chromosome from mother and X chromosome from father.", "isCorrect": false },
+      { "text": "Sex determination in humans is completely random and does not depend on chromosomes.", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 10",
+    "subject": "Science",
+    "difficulty": "VERY HARD",
+    "text": "Adrenaline is called the 'emergency hormone'. Which of the following physiological changes is NOT directly triggered by adrenaline secretion?",
+    "explanation": "Adrenaline increases heart rate, increases breathing rate, and diverts blood to skeletal muscles (constricting blood to skin/digestive system). It does not increase digestive enzymes secretion.",
+    "options": [
+      { "text": "Increased secretion of digestive enzymes to speed up metabolism", "isCorrect": true },
+      { "text": "Increased heart rate leading to faster oxygen supply to muscles", "isCorrect": false },
+      { "text": "Contraction of muscles around small arteries feeding the skin and digestive system", "isCorrect": false },
+      { "text": "Increased breathing rate due to contractions of the diaphragm and rib muscles", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 10",
+    "subject": "Science",
+    "difficulty": "VERY HARD",
+    "text": "Rusting of iron is an electrochemical process. What is the chemical formula of rust and what type of chemical reaction is rusting?",
+    "explanation": "Rusting is an oxidation reaction (and red-ox reaction) that forms hydrated ferric oxide: \\text{Fe}_2\\text{O}_3 \\cdot x\\text{H}_2\\text{O}.",
+    "options": [
+      { "text": "\\text{Fe}_2\\text{O}_3 \\cdot x\\text{H}_2\\text{O}, Oxidation and Redox reaction", "isCorrect": true },
+      { "text": "\\text{Fe}_3\\text{O}_4, Decomposition reaction", "isCorrect": false },
+      { "text": "\\text{FeCO}_3, Double displacement reaction", "isCorrect": false },
+      { "text": "\\text{FeO} \\cdot x\\text{H}_2\\text{O}, Combination reaction", "isCorrect": false }
+    ]
+  }
+]

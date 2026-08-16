@@ -1,0 +1,107 @@
+[
+  {
+    "text": "What is the difference between Real GDP and Nominal GDP?",
+    "options": [
+      "Real GDP is calculated at constant prices, while Nominal GDP is calculated at current prices.",
+      "Real GDP is calculated at current prices, while Nominal GDP is calculated at constant prices.",
+      "Real GDP is the value of goods and services produced in a year at current market prices.",
+      "Nominal GDP is the value of goods and services produced in a year at current market prices."
+    ],
+    "correctAnswer": "Option A",
+    "explanation": "Real GDP is calculated at constant prices, which means that the prices of the previous year are used to calculate the value of goods and services produced in the current year. This helps to eliminate the effect of price changes on the value of output. On the other hand, Nominal GDP is calculated at current prices, which means that the prices of the current year are used to calculate the value of goods and services produced in the current year.",
+    "difficulty": "Easy",
+    "class": "Class 12",
+    "subject": "Economics",
+    "chapter": "Ch 1: National Income and Related Aggregates"
+  },
+  {
+    "text": "What is the purpose of GDP deflator?",
+    "options": [
+      "To calculate the value of goods and services produced in a year at constant prices.",
+      "To calculate the value of goods and services produced in a year at current prices.",
+      "To measure the price level of goods and services in an economy.",
+      "To calculate the national income of a country."
+    ],
+    "correctAnswer": "Option C",
+    "explanation": "GDP deflator is a price index that measures the average price level of all goods and services produced in an economy. It is calculated by dividing the Nominal GDP by the Real GDP and multiplying by 100. The GDP deflator helps to measure the price level of goods and services in an economy and is used to calculate the Real GDP.",
+    "difficulty": "Medium",
+    "class": "Class 12",
+    "subject": "Economics",
+    "chapter": "Ch 1: National Income and Related Aggregates"
+  },
+  {
+    "text": "What is double counting in the context of National Income?",
+    "options": [
+      "Double counting occurs when the same item is counted twice in the calculation of National Income.",
+      "Double counting occurs when the same item is not counted at all in the calculation of National Income.",
+      "Double counting is a method used to calculate the National Income of a country.",
+      "Double counting is a concept used to measure the price level of goods and services in an economy."
+    ],
+    "correctAnswer": "Option A",
+    "explanation": "Double counting occurs when the same item is counted twice in the calculation of National Income. For example, if a farmer sells wheat to a miller and the miller sells flour to a consumer, the wheat and flour are both counted in the National Income. To avoid double counting, the value of intermediate goods and services is subtracted from the value of final goods and services.",
+    "difficulty": "Medium",
+    "class": "Class 12",
+    "subject": "Economics",
+    "chapter": "Ch 1: National Income and Related Aggregates"
+  },
+  {
+    "text": "How is the value of intermediate goods and services treated in the calculation of National Income?",
+    "options": [
+      "The value of intermediate goods and services is added to the value of final goods and services.",
+      "The value of intermediate goods and services is subtracted from the value of final goods and services.",
+      "The value of intermediate goods and services is ignored in the calculation of National Income.",
+      "The value of intermediate goods and services is added to the value of capital formation."
+    ],
+    "correctAnswer": "Option B",
+    "explanation": "The value of intermediate goods and services is subtracted from the value of final goods and services to avoid double counting. This is because intermediate goods and services are used as inputs in the production of final goods and services, and their value is already included in the value of final goods and services.",
+    "difficulty": "Easy",
+    "class": "Class 12",
+    "subject": "Economics",
+    "chapter": "Ch 1: National Income and Related Aggregates"
+  },
+  {
+    "text": "What is the formula for calculating the GDP deflator?",
+    "options": [
+      "$\\frac{\\text{Nominal GDP}}{\\text{Real GDP}} \\times 100$",
+      "$\\frac{\\text{Real GDP}}{\\text{Nominal GDP}} \\times 100$",
+      "$\\frac{\\text{Nominal GDP} - \\text{Real GDP}}{\\text{Real GDP}} \\times 100$",
+      "$\\frac{\\text{Real GDP} - \\text{Nominal GDP}}{\\text{Nominal GDP}} \\times 100$"
+    ],
+    "correctAnswer": "Option A",
+    "explanation": "The formula for calculating the GDP deflator is $\\frac{\\text{Nominal GDP}}{\\text{Real GDP}} \\times 100$. This formula helps to measure the price level of goods and services in an economy.",
+    "difficulty": "Hard",
+    "class": "Class 12",
+    "subject": "Economics",
+    "chapter": "Ch 1: National Income and Related Aggregates"
+  },
+  {
+    "text": "What is the difference between Gross National Product (GNP) and Gross Domestic Product (GDP)?",
+    "options": [
+      "GNP is the value of goods and services produced by citizens of a country, while GDP is the value of goods and services produced within a country.",
+      "GNP is the value of goods and services produced within a country, while GDP is the value of goods and services produced by citizens of a country.",
+      "GNP is the value of goods and services produced by foreigners within a country, while GDP is the value of goods and services produced by citizens of a country.",
+      "GNP is the value of goods and services produced by citizens of a country, while GDP is the value of goods and services produced by foreigners within a country."
+    ],
+    "correctAnswer": "Option A",
+    "explanation": "GNP is the value of goods and services produced by citizens of a country, while GDP is the value of goods and services produced within a country. GNP takes into account the income earned by citizens of a country from abroad, while GDP does not.",
+    "difficulty": "Medium",
+    "class": "Class 12",
+    "subject": "Economics",
+    "chapter": "Ch 1: National Income and Related Aggregates"
+  },
+  {
+    "text": "What is the concept of National Income?",
+    "options": [
+      "National Income is the value of goods and services produced within a country.",
+      "National Income is the value of goods and services produced by citizens of a country.",
+      "National Income is the value of goods and services produced within a country, plus the income earned by citizens of a country from abroad.",
+      "National Income is the value of goods and services produced by foreigners within a country."
+    ],
+    "correctAnswer": "Option A",
+    "explanation": "National Income is the value of goods and services produced within a country. It includes the value of all final goods and services produced within the country, excluding the value of intermediate goods and services.",
+    "difficulty": "Easy",
+    "class": "Class 12",
+    "subject": "Economics",
+    "chapter": "Ch 1: National Income and Related Aggregates"
+  }
+]

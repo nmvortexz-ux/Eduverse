@@ -1,0 +1,375 @@
+@import url('https://fonts.googleapis.com/css2?family=Nunito:wght@400;600;700;800;900&family=Space+Grotesk:wght@500;600;700;800&display=swap');
+
+@import "tailwindcss";
+
+/* =============================================
+   EduVerse — Dark Retro-Pop Design System
+   ============================================= */
+
+:root {
+  /* Backgrounds */
+  --bg-page:       #0B0F19;
+  --bg-surface:    #111827;
+  --bg-card:       #1E293B;
+  --bg-card-hover: #334155;
+
+  /* Brand colours */
+  --teal-dark:     #0F766E;
+  --teal-mid:      #0D9488;
+  --teal-light:    #14B8A6;
+  --coral:         #FB7185;
+  --coral-dark:    #E11D48;
+  --mint:          #34D399;
+  --sky:           #38BDF8;
+  --amber:         #F59E0B;
+  --purple-pop:    #A855F7;
+
+  /* Text */
+  --text-primary:  #F8FAFC;
+  --text-secondary:#E2E8F0;
+  --text-muted:    #94A3B8;
+  --text-faint:    #64748B;
+
+  /* Borders & Retro Contrast */
+  --border-light:  #334155;
+  --border-white:  #FFFFFF;
+  --border-neon:   #14B8A6;
+
+  /* Shadows — Retro Pop Offset Style (High Contrast on Dark) */
+  --shadow-card:   4px 4px 0px 0px #FFFFFF;
+  --shadow-card-sm:3px 3px 0px 0px #FFFFFF;
+  --shadow-btn:    3px 3px 0px 0px #FFFFFF;
+  --shadow-teal:   4px 4px 0px 0px #0D9488;
+  --shadow-amber:  4px 4px 0px 0px #F59E0B;
+
+  --font-body:     'Nunito', sans-serif;
+  --font-display:  'Space Grotesk', sans-serif;
+}
+
+/* ─── Reset ────────────────────────────────── */
+*, *::before, *::after { box-sizing: border-box; }
+
+html { scroll-behavior: smooth; -webkit-font-smoothing: antialiased; }
+
+body {
+  background-color: var(--bg-page);
+  color: var(--text-primary);
+  font-family: var(--font-body);
+  min-height: 100vh;
+  overflow-x: hidden;
+}
+
+/* ─── Scrollbar for Dark Mode ──────────────── */
+::-webkit-scrollbar { width: 6px; height: 6px; }
+::-webkit-scrollbar-track { background: #0B0F19; }
+::-webkit-scrollbar-thumb { background: #334155; border-radius: 4px; }
+::-webkit-scrollbar-thumb:hover { background: #475569; }
+
+/* ─── Typography helpers ───────────────────── */
+.font-display { font-family: var(--font-display); }
+.font-body    { font-family: var(--font-body); }
+
+/* ─── Flat retro dark card ──────────────────── */
+.card-flat {
+  background: var(--bg-card);
+  border: 2px solid var(--border-white);
+  border-radius: 1.25rem;
+  box-shadow: var(--shadow-card);
+  transition: transform 0.15s ease, box-shadow 0.15s ease;
+}
+.card-flat:hover {
+  transform: translate(-2px, -2px);
+  box-shadow: 6px 6px 0px 0px #FFFFFF;
+}
+
+/* ─── Pill button base ─────────────────────── */
+.btn-pill {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  gap: 0.5rem;
+  padding: 0.6rem 1.4rem;
+  border-radius: 9999px;
+  border: 2px solid var(--border-white);
+  font-family: var(--font-body);
+  font-weight: 800;
+  font-size: 0.875rem;
+  cursor: pointer;
+  transition: transform 0.12s ease, box-shadow 0.12s ease, background 0.15s ease;
+  box-shadow: var(--shadow-btn);
+  white-space: nowrap;
+}
+.btn-pill:hover {
+  transform: translate(-1px, -1px);
+  box-shadow: 4px 4px 0px 0px #FFFFFF;
+}
+.btn-pill:active {
+  transform: translate(1px, 1px);
+  box-shadow: 1px 1px 0px 0px #FFFFFF;
+}
+
+.btn-teal   { background: var(--teal-mid);  color: #FFFFFF; }
+.btn-coral  { background: var(--coral);     color: #FFFFFF; }
+.btn-mint   { background: var(--mint);      color: #0F172A; }
+.btn-sky    { background: var(--sky);       color: #0F172A; }
+.btn-amber  { background: var(--amber);     color: #0F172A; }
+.btn-white  { background: #FFFFFF;          color: #0F172A; }
+.btn-dark   { background: #1E293B;          color: #FFFFFF; }
+
+.btn-outline {
+  background: transparent;
+  color: var(--text-primary);
+  border: 2px solid var(--border-white);
+  box-shadow: var(--shadow-btn);
+}
+.btn-outline:hover {
+  background: var(--bg-card);
+  transform: translate(-1px, -1px);
+  box-shadow: 4px 4px 0px 0px #FFFFFF;
+}
+
+/* ─── Input flat ───────────────────────────── */
+.input-flat {
+  background: #1E293B;
+  border: 2px solid var(--border-white);
+  border-radius: 9999px;
+  padding: 0.55rem 1.2rem;
+  font-family: var(--font-body);
+  font-size: 0.9rem;
+  color: #FFFFFF;
+  outline: none;
+  transition: box-shadow 0.15s;
+}
+.input-flat::placeholder { color: var(--text-muted); }
+.input-flat:focus { box-shadow: 3px 3px 0px 0px #0D9488; }
+
+/* ─── Tag / badge ──────────────────────────── */
+.badge {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.3rem;
+  padding: 0.25rem 0.75rem;
+  border-radius: 9999px;
+  border: 2px solid var(--border-white);
+  font-size: 0.75rem;
+  font-weight: 700;
+  box-shadow: 2px 2px 0px 0px #FFFFFF;
+}
+
+/* ─── Section heading ──────────────────────── */
+.section-heading {
+  font-family: var(--font-display);
+  font-size: 1.25rem;
+  font-weight: 800;
+  color: var(--text-primary);
+}
+
+/* ─── KaTeX Math Formula Inversion on Dark ──── */
+.katex {
+  color: #F8FAFC !important;
+  font-size: 1.05em;
+}
+.katex-display {
+  margin: 0.6em 0 !important;
+}
+.katex-html {
+  color: inherit;
+}
+
+/* ==========================================================================
+   CLERK AUTH & USER PROFILE / MANAGE ACCOUNT UNIVERSAL HIGH-CONTRAST FIXES
+   ========================================================================== */
+
+/* UserButton Avatar Box Squircle Styling */
+.cl-userButtonTrigger,
+button[class*="cl-userButtonTrigger"] {
+  border-radius: 0.75rem !important;
+  outline: none !important;
+}
+
+.cl-userButtonAvatarBox,
+.cl-avatarBox,
+div[class*="cl-userButtonAvatarBox"],
+div[class*="cl-avatarBox"] {
+  border-radius: 0.65rem !important;
+  border: 2px solid #FFFFFF !important;
+  box-shadow: 1.5px 1.5px 0px 0px #14B8A6 !important;
+  overflow: hidden !important;
+}
+
+.cl-userButtonAvatarImage,
+.cl-avatarImage {
+  border-radius: 0.65rem !important;
+}
+
+/* Universal Dark Card Container */
+.cl-userProfile-root,
+.cl-modalContent,
+.cl-card,
+.cl-userButtonPopoverCard,
+.cl-popoverBox,
+div[class*="cl-userProfile"],
+div[class*="cl-modalContent"],
+div[class*="cl-card"] {
+  background-color: #0F172A !important;
+  color: #FFFFFF !important;
+  border-color: #475569 !important;
+}
+
+/* Left Sidebar in Manage Account / UserProfile modal */
+.cl-navbar,
+nav[class*="cl-navbar"],
+div[class*="cl-navbar"] {
+  background-color: #0B0F19 !important;
+  border-right: 1.5px solid #334155 !important;
+}
+
+/* Sidebar Title & Subtitle */
+.cl-navbarTitle,
+div[class*="cl-navbarTitle"],
+h1[class*="cl-navbarTitle"],
+h2[class*="cl-navbarTitle"] {
+  color: #FFFFFF !important;
+  font-weight: 800 !important;
+}
+
+.cl-navbarSubtitle,
+p[class*="cl-navbarSubtitle"],
+div[class*="cl-navbarSubtitle"] {
+  color: #94A3B8 !important;
+}
+
+/* Sidebar Buttons (Profile, Security, etc.) */
+.cl-navbarButton,
+button[class*="cl-navbarButton"],
+a[class*="cl-navbarButton"] {
+  color: #CBD5E1 !important;
+  font-weight: 600 !important;
+}
+
+.cl-navbarButtonText,
+span[class*="cl-navbarButtonText"] {
+  color: #CBD5E1 !important;
+}
+
+.cl-navbarButton[data-active="true"],
+.cl-navbarButton[data-active="true"] .cl-navbarButtonText,
+.cl-navbarButton[data-active="true"] span,
+button[class*="cl-navbarButton"][data-active="true"] {
+  color: #14B8A6 !important;
+  background-color: #1E293B !important;
+  font-weight: 800 !important;
+}
+
+.cl-navbarButton:hover,
+button[class*="cl-navbarButton"]:hover {
+  background-color: #1E293B !important;
+  color: #FFFFFF !important;
+}
+
+.cl-navbarButtonIcon,
+.cl-navbarButton svg {
+  color: #14B8A6 !important;
+}
+
+/* Right Content Area in Manage Account modal */
+.cl-pageScrollBox,
+.cl-scrollBox,
+div[class*="cl-pageScrollBox"],
+div[class*="cl-scrollBox"] {
+  background-color: #0F172A !important;
+}
+
+/* Main Section Titles ("Profile details", etc.) */
+.cl-headerTitle,
+.cl-profileSectionTitleText,
+h1[class*="cl-headerTitle"],
+h2[class*="cl-headerTitle"],
+h3[class*="cl-profileSectionTitleText"],
+div[class*="cl-profileSectionTitleText"] {
+  color: #FFFFFF !important;
+  font-weight: 800 !important;
+  font-size: 1.1rem !important;
+}
+
+/* Section Labels ("Profile", "Email addresses", "Connected accounts") */
+.cl-profileSectionTitle,
+.cl-formFieldLabel,
+div[class*="cl-profileSectionTitle"],
+span[class*="cl-profileSectionTitle"],
+label[class*="cl-formFieldLabel"] {
+  color: #E2E8F0 !important;
+  font-weight: 700 !important;
+}
+
+/* Content Details (User Name, Email address text e.g. "nmvortexz@gmail.com") */
+.cl-profileSectionContent,
+.cl-profileSectionItem,
+.cl-userPreviewMainIdentifier,
+.cl-userPreviewSecondaryIdentifier,
+div[class*="cl-profileSectionContent"],
+span[class*="cl-profileSectionContent"],
+p[class*="cl-profileSectionContent"],
+div[class*="cl-userPreview"],
+span[class*="cl-userPreview"] {
+  color: #F8FAFC !important;
+}
+
+/* Secondary identifiers & labels (e.g. "Primary", "Google") */
+.cl-badge,
+.cl-profileSectionSubtitle,
+.cl-formFieldHintText,
+.cl-breadcrumbsItem,
+span[class*="cl-badge"],
+div[class*="cl-badge"] {
+  color: #94A3B8 !important;
+}
+
+/* Action Links inside modal ("Update profile", "+ Add email address") */
+.cl-profileSectionPrimaryButton,
+.cl-footerActionLink,
+button[class*="cl-profileSectionPrimaryButton"],
+a[class*="cl-profileSectionPrimaryButton"],
+button[class*="cl-footerActionLink"] {
+  color: #14B8A6 !important;
+  font-weight: 700 !important;
+}
+
+.cl-profileSectionPrimaryButton:hover,
+.cl-footerActionLink:hover {
+  color: #2DD4BF !important;
+  text-decoration: underline !important;
+}
+
+/* Modal Close Button */
+.cl-modalCloseButton,
+button[class*="cl-modalCloseButton"] {
+  color: #CBD5E1 !important;
+}
+.cl-modalCloseButton:hover {
+  color: #FFFFFF !important;
+  background-color: #1E293B !important;
+}
+
+/* Dropdown popover menu item texts */
+.cl-userButtonPopoverActionButtonText,
+button[class*="cl-userButtonPopoverActionButton"] {
+  color: #FFFFFF !important;
+  font-weight: 700 !important;
+}
+
+/* Force all general text elements inside Clerk modals to light text */
+.cl-rootBox p,
+.cl-rootBox span,
+.cl-rootBox div,
+.cl-rootBox label,
+.cl-modalContent p,
+.cl-modalContent span,
+.cl-modalContent div,
+.cl-modalContent label {
+  color: inherit;
+}
+
+/* ─── Utility overrides ────────────────────── */
+a { text-decoration: none; color: inherit; }
+button { cursor: pointer; }

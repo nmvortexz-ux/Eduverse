@@ -1,0 +1,137 @@
+[
+  {
+    "text": "What is the primary difference between a Departmental Undertaking and a Statutory Corporation?",
+    "options": [
+      "It is owned by the government, but operates independently.",
+      "It is a separate legal entity, but is owned by the government.",
+      "It is a department of the government, but has its own budget.",
+      "It is a private company, but is contracted by the government to provide services."
+    ],
+    "correctAnswer": "It is a department of the government, but has its own budget.",
+    "explanation": "Departmental Undertaking is a part of the government, but has its own budget and autonomy. On the other hand, a Statutory Corporation is a separate legal entity, but is owned by the government.",
+    "difficulty": "Easy",
+    "class": "Class 11",
+    "subject": "Business Studies",
+    "chapter": "Ch 3: Private, Public and Global Enterprises"
+  },
+  {
+    "text": "Which of the following is a feature of a Government Company?",
+    "options": [
+      "It is owned by the government, but operates independently.",
+      "It is a separate legal entity, but is owned by the government.",
+      "It has a single shareholder, which is the government.",
+      "It is a private company, but is contracted by the government to provide services."
+    ],
+    "correctAnswer": "It has a single shareholder, which is the government.",
+    "explanation": "A Government Company is a company in which the government has a majority stake, but it operates independently. It has a single shareholder, which is the government.",
+    "difficulty": "Medium",
+    "class": "Class 11",
+    "subject": "Business Studies",
+    "chapter": "Ch 3: Private, Public and Global Enterprises"
+  },
+  {
+    "text": "What is the Disinvestment policy?",
+    "options": [
+      "The process of selling off government-owned companies to private investors.",
+      "The process of increasing government ownership in private companies.",
+      "The process of reducing government ownership in government-owned companies.",
+      "The process of increasing government control over private companies."
+    ],
+    "correctAnswer": "The process of selling off government-owned companies to private investors.",
+    "explanation": "Disinvestment policy is a process of selling off government-owned companies to private investors, in order to reduce government ownership and increase private sector participation.",
+    "difficulty": "Medium",
+    "class": "Class 11",
+    "subject": "Business Studies",
+    "chapter": "Ch 3: Private, Public and Global Enterprises"
+  },
+  {
+    "text": "Which of the following is a feature of a Multinational Corporation (MNC)?",
+    "options": [
+      "It has a single shareholder, which is the government.",
+      "It has a presence in multiple countries, but is owned by a single country.",
+      "It has a presence in multiple countries, and is owned by multiple countries.",
+      "It has a presence in a single country, and is owned by a single country."
+    ],
+    "correctAnswer": "It has a presence in multiple countries, but is owned by a single country.",
+    "explanation": "A Multinational Corporation (MNC) is a company that has a presence in multiple countries, but is owned by a single country. It has a global presence, but is controlled by a single country.",
+    "difficulty": "Hard",
+    "class": "Class 11",
+    "subject": "Business Studies",
+    "chapter": "Ch 3: Private, Public and Global Enterprises"
+  },
+  {
+    "text": "What is the main advantage of a Statutory Corporation?",
+    "options": [
+      "It is owned by the government, but operates independently.",
+      "It is a separate legal entity, but is owned by the government.",
+      "It has a single shareholder, which is the government.",
+      "It is a private company, but is contracted by the government to provide services."
+    ],
+    "correctAnswer": "It is a separate legal entity, but is owned by the government.",
+    "explanation": "A Statutory Corporation is a separate legal entity, but is owned by the government. It has a separate legal identity, and is able to operate independently.",
+    "difficulty": "Easy",
+    "class": "Class 11",
+    "subject": "Business Studies",
+    "chapter": "Ch 3: Private, Public and Global Enterprises"
+  },
+  {
+    "text": "Which of the following is a feature of a Government Company?",
+    "options": [
+      "It is owned by the government, but operates independently.",
+      "It is a separate legal entity, but is owned by the government.",
+      "It has a single shareholder, which is the government.",
+      "It is a private company, but is contracted by the government to provide services."
+    ],
+    "correctAnswer": "It has a single shareholder, which is the government.",
+    "explanation": "A Government Company is a company in which the government has a majority stake, but it operates independently. It has a single shareholder, which is the government.",
+    "difficulty": "Medium",
+    "class": "Class 11",
+    "subject": "Business Studies",
+    "chapter": "Ch 3: Private, Public and Global Enterprises"
+  },
+  {
+    "text": "What is the main disadvantage of a Departmental Undertaking?",
+    "options": [
+      "It is owned by the government, but operates independently.",
+      "It is a separate legal entity, but is owned by the government.",
+      "It has a single shareholder, which is the government.",
+      "It is a part of the government, but has its own budget and autonomy."
+    ],
+    "correctAnswer": "It is a part of the government, but has its own budget and autonomy.",
+    "explanation": "A Departmental Undertaking is a part of the government, but has its own budget and autonomy. However, it is not a separate legal entity, and is subject to government control.",
+    "difficulty": "Easy",
+    "class": "Class 11",
+    "subject": "Business Studies",
+    "chapter": "Ch 3: Private, Public and Global Enterprises"
+  },
+  {
+    "text": "Which of the following is a feature of a Multinational Corporation (MNC)?",
+    "options": [
+      "It has a single shareholder, which is the government.",
+      "It has a presence in multiple countries, but is owned by a single country.",
+      "It has a presence in multiple countries, and is owned by multiple countries.",
+      "It has a presence in a single country, and is owned by a single country."
+    ],
+    "correctAnswer": "It has a presence in multiple countries, and is owned by multiple countries.",
+    "explanation": "A Multinational Corporation (MNC) is a company that has a presence in multiple countries, and is owned by multiple countries. It has a global presence, and is controlled by multiple countries.",
+    "difficulty": "Hard",
+    "class": "Class 11",
+    "subject": "Business Studies",
+    "chapter": "Ch 3: Private, Public and Global Enterprises"
+  },
+  {
+    "text": "What is the main advantage of a Government Company?",
+    "options": [
+      "It is owned by the government, but operates independently.",
+      "It is a separate legal entity, but is owned by the government.",
+      "It has a single shareholder, which is the government.",
+      "It is a private company, but is contracted by the government to provide services."
+    ],
+    "correctAnswer": "It has a single shareholder, which is the government.",
+    "explanation": "A Government Company is a company in which the government has a majority stake, but it operates independently. It has a single shareholder, which is the government.",
+    "difficulty": "Medium",
+    "class": "Class 11",
+    "subject": "Business Studies",
+    "chapter": "Ch 3: Private, Public and Global Enterprises"
+  }
+]

@@ -1,0 +1,392 @@
+[
+  {
+    "text": "What is the purpose of making adjustments in the final accounts?",
+    "options": [
+      "To record all the transactions",
+      "To match the expenses with the revenues",
+      "To calculate the profit",
+      "To prepare the balance sheet"
+    ],
+    "correctAnswer": "To match the expenses with the revenues",
+    "explanation": "According to the NCERT textbook, adjustments are made in the final accounts to match the expenses with the revenues. This is based on the matching principle of accounting, which states that the expenses should be matched with the revenues of the same period.",
+    "difficulty": "Easy",
+    "class": "Class 11",
+    "subject": "Accountancy",
+    "chapter": "Ch 9: Financial Statements - II"
+  },
+  {
+    "text": "What is the effect of closing stock on the financial statements?",
+    "options": [
+      "It increases the cost of goods sold",
+      "It decreases the cost of goods sold",
+      "It has no effect on the cost of goods sold",
+      "It increases the revenue"
+    ],
+    "correctAnswer": "It decreases the cost of goods sold",
+    "explanation": "As per the NCERT textbook, the closing stock is valued at the end of the accounting period and is deducted from the cost of goods sold. This decreases the cost of goods sold and increases the profit.",
+    "difficulty": "Medium",
+    "class": "Class 11",
+    "subject": "Accountancy",
+    "chapter": "Ch 9: Financial Statements - II"
+  },
+  {
+    "text": "How are outstanding expenses treated in the final accounts?",
+    "options": [
+      "They are added to the expenses",
+      "They are deducted from the expenses",
+      "They are ignored",
+      "They are added to the assets"
+    ],
+    "correctAnswer": "They are added to the expenses",
+    "explanation": "According to the NCERT textbook, outstanding expenses are the expenses that have been incurred but not paid. They are added to the expenses in the profit and loss account to match the expenses with the revenues.",
+    "difficulty": "Easy",
+    "class": "Class 11",
+    "subject": "Accountancy",
+    "chapter": "Ch 9: Financial Statements - II"
+  },
+  {
+    "text": "What is the purpose of providing for doubtful debts?",
+    "options": [
+      "To reduce the profit",
+      "To increase the profit",
+      "To match the expenses with the revenues",
+      "To provide for the bad debts"
+    ],
+    "correctAnswer": "To provide for the bad debts",
+    "explanation": "As per the NCERT textbook, the provision for doubtful debts is made to provide for the debts that may become bad in the future. This is based on the principle of prudence, which states that the expenses should be anticipated and provided for.",
+    "difficulty": "Medium",
+    "class": "Class 11",
+    "subject": "Accountancy",
+    "chapter": "Ch 9: Financial Statements - II"
+  },
+  {
+    "text": "How are prepaid expenses treated in the final accounts?",
+    "options": [
+      "They are added to the expenses",
+      "They are deducted from the expenses",
+      "They are ignored",
+      "They are added to the assets"
+    ],
+    "correctAnswer": "They are deducted from the expenses",
+    "explanation": "According to the NCERT textbook, prepaid expenses are the expenses that have been paid but not incurred. They are deducted from the expenses in the profit and loss account to match the expenses with the revenues.",
+    "difficulty": "Easy",
+    "class": "Class 11",
+    "subject": "Accountancy",
+    "chapter": "Ch 9: Financial Statements - II"
+  },
+  {
+    "text": "What is the effect of accrued income on the financial statements?",
+    "options": [
+      "It increases the revenue",
+      "It decreases the revenue",
+      "It has no effect on the revenue",
+      "It increases the expenses"
+    ],
+    "correctAnswer": "It increases the revenue",
+    "explanation": "As per the NCERT textbook, accrued income is the income that has been earned but not received. It is added to the revenue in the profit and loss account to match the expenses with the revenues.",
+    "difficulty": "Medium",
+    "class": "Class 11",
+    "subject": "Accountancy",
+    "chapter": "Ch 9: Financial Statements - II"
+  },
+  {
+    "text": "How are bad debts treated in the final accounts?",
+    "options": [
+      "They are added to the expenses",
+      "They are deducted from the expenses",
+      "They are ignored",
+      "They are added to the assets"
+    ],
+    "correctAnswer": "They are added to the expenses",
+    "explanation": "According to the NCERT textbook, bad debts are the debts that have become irrecoverable. They are added to the expenses in the profit and loss account to match the expenses with the revenues.",
+    "difficulty": "Easy",
+    "class": "Class 11",
+    "subject": "Accountancy",
+    "chapter": "Ch 9: Financial Statements - II"
+  },
+  {
+    "text": "What is the purpose of making a provision for doubtful debts?",
+    "options": [
+      "To reduce the profit",
+      "To increase the profit",
+      "To match the expenses with the revenues",
+      "To provide for the bad debts"
+    ],
+    "correctAnswer": "To provide for the bad debts",
+    "explanation": "As per the NCERT textbook, the provision for doubtful debts is made to provide for the debts that may become bad in the future. This is based on the principle of prudence, which states that the expenses should be anticipated and provided for.",
+    "difficulty": "Medium",
+    "class": "Class 11",
+    "subject": "Accountancy",
+    "chapter": "Ch 9: Financial Statements - II"
+  },
+  {
+    "text": "How are unearned incomes treated in the final accounts?",
+    "options": [
+      "They are added to the revenue",
+      "They are deducted from the revenue",
+      "They are ignored",
+      "They are added to the assets"
+    ],
+    "correctAnswer": "They are deducted from the revenue",
+    "explanation": "According to the NCERT textbook, unearned incomes are the incomes that have been received but not earned. They are deducted from the revenue in the profit and loss account to match the expenses with the revenues.",
+    "difficulty": "Easy",
+    "class": "Class 11",
+    "subject": "Accountancy",
+    "chapter": "Ch 9: Financial Statements - II"
+  },
+  {
+    "text": "What is the effect of prepaid expenses on the financial statements?",
+    "options": [
+      "It increases the expenses",
+      "It decreases the expenses",
+      "It has no effect on the expenses",
+      "It increases the revenue"
+    ],
+    "correctAnswer": "It decreases the expenses",
+    "explanation": "As per the NCERT textbook, prepaid expenses are the expenses that have been paid but not incurred. They are deducted from the expenses in the profit and loss account to match the expenses with the revenues.",
+    "difficulty": "Medium",
+    "class": "Class 11",
+    "subject": "Accountancy",
+    "chapter": "Ch 9: Financial Statements - II"
+  },
+  {
+    "text": "How are accrued expenses treated in the final accounts?",
+    "options": [
+      "They are added to the expenses",
+      "They are deducted from the expenses",
+      "They are ignored",
+      "They are added to the assets"
+    ],
+    "correctAnswer": "They are added to the expenses",
+    "explanation": "According to the NCERT textbook, accrued expenses are the expenses that have been incurred but not paid. They are added to the expenses in the profit and loss account to match the expenses with the revenues.",
+    "difficulty": "Easy",
+    "class": "Class 11",
+    "subject": "Accountancy",
+    "chapter": "Ch 9: Financial Statements - II"
+  },
+  {
+    "text": "What is the purpose of making adjustments in the final accounts?",
+    "options": [
+      "To record all the transactions",
+      "To match the expenses with the revenues",
+      "To calculate the profit",
+      "To prepare the balance sheet"
+    ],
+    "correctAnswer": "To match the expenses with the revenues",
+    "explanation": "According to the NCERT textbook, adjustments are made in the final accounts to match the expenses with the revenues. This is based on the matching principle of accounting, which states that the expenses should be matched with the revenues of the same period.",
+    "difficulty": "Easy",
+    "class": "Class 11",
+    "subject": "Accountancy",
+    "chapter": "Ch 9: Financial Statements - II"
+  },
+  {
+    "text": "How are outstanding incomes treated in the final accounts?",
+    "options": [
+      "They are added to the revenue",
+      "They are deducted from the revenue",
+      "They are ignored",
+      "They are added to the assets"
+    ],
+    "correctAnswer": "They are added to the revenue",
+    "explanation": "According to the NCERT textbook, outstanding incomes are the incomes that have been earned but not received. They are added to the revenue in the profit and loss account to match the expenses with the revenues.",
+    "difficulty": "Easy",
+    "class": "Class 11",
+    "subject": "Accountancy",
+    "chapter": "Ch 9: Financial Statements - II"
+  },
+  {
+    "text": "What is the effect of unearned income on the financial statements?",
+    "options": [
+      "It increases the revenue",
+      "It decreases the revenue",
+      "It has no effect on the revenue",
+      "It increases the expenses"
+    ],
+    "correctAnswer": "It decreases the revenue",
+    "explanation": "As per the NCERT textbook, unearned income is the income that has been received but not earned. It is deducted from the revenue in the profit and loss account to match the expenses with the revenues.",
+    "difficulty": "Medium",
+    "class": "Class 11",
+    "subject": "Accountancy",
+    "chapter": "Ch 9: Financial Statements - II"
+  },
+  {
+    "text": "How are bad debts recovered treated in the final accounts?",
+    "options": [
+      "They are added to the expenses",
+      "They are deducted from the expenses",
+      "They are ignored",
+      "They are added to the assets"
+    ],
+    "correctAnswer": "They are deducted from the expenses",
+    "explanation": "According to the NCERT textbook, bad debts recovered are the debts that were previously written off as bad but have been recovered. They are deducted from the expenses in the profit and loss account to match the expenses with the revenues.",
+    "difficulty": "Easy",
+    "class": "Class 11",
+    "subject": "Accountancy",
+    "chapter": "Ch 9: Financial Statements - II"
+  },
+  {
+    "text": "What is the purpose of making a provision for discount on debtors?",
+    "options": [
+      "To reduce the profit",
+      "To increase the profit",
+      "To match the expenses with the revenues",
+      "To provide for the discount on debtors"
+    ],
+    "correctAnswer": "To provide for the discount on debtors",
+    "explanation": "As per the NCERT textbook, the provision for discount on debtors is made to provide for the discount that may be allowed to the debtors in the future. This is based on the principle of prudence, which states that the expenses should be anticipated and provided for.",
+    "difficulty": "Medium",
+    "class": "Class 11",
+    "subject": "Accountancy",
+    "chapter": "Ch 9: Financial Statements - II"
+  },
+  {
+    "text": "How are prepaid incomes treated in the final accounts?",
+    "options": [
+      "They are added to the revenue",
+      "They are deducted from the revenue",
+      "They are ignored",
+      "They are added to the assets"
+    ],
+    "correctAnswer": "They are deducted from the revenue",
+    "explanation": "According to the NCERT textbook, prepaid incomes are the incomes that have been received but not earned. They are deducted from the revenue in the profit and loss account to match the expenses with the revenues.",
+    "difficulty": "Easy",
+    "class": "Class 11",
+    "subject": "Accountancy",
+    "chapter": "Ch 9: Financial Statements - II"
+  },
+  {
+    "text": "What is the effect of accrued income on the financial statements?",
+    "options": [
+      "It increases the revenue",
+      "It decreases the revenue",
+      "It has no effect on the revenue",
+      "It increases the expenses"
+    ],
+    "correctAnswer": "It increases the revenue",
+    "explanation": "As per the NCERT textbook, accrued income is the income that has been earned but not received. It is added to the revenue in the profit and loss account to match the expenses with the revenues.",
+    "difficulty": "Medium",
+    "class": "Class 11",
+    "subject": "Accountancy",
+    "chapter": "Ch 9: Financial Statements - II"
+  },
+  {
+    "text": "How are outstanding expenses treated in the final accounts?",
+    "options": [
+      "They are added to the expenses",
+      "They are deducted from the expenses",
+      "They are ignored",
+      "They are added to the assets"
+    ],
+    "correctAnswer": "They are added to the expenses",
+    "explanation": "According to the NCERT textbook, outstanding expenses are the expenses that have been incurred but not paid. They are added to the expenses in the profit and loss account to match the expenses with the revenues.",
+    "difficulty": "Easy",
+    "class": "Class 11",
+    "subject": "Accountancy",
+    "chapter": "Ch 9: Financial Statements - II"
+  },
+  {
+    "text": "What is the purpose of making adjustments in the final accounts?",
+    "options": [
+      "To record all the transactions",
+      "To match the expenses with the revenues",
+      "To calculate the profit",
+      "To prepare the balance sheet"
+    ],
+    "correctAnswer": "To match the expenses with the revenues",
+    "explanation": "According to the NCERT textbook, adjustments are made in the final accounts to match the expenses with the revenues. This is based on the matching principle of accounting, which states that the expenses should be matched with the revenues of the same period.",
+    "difficulty": "Easy",
+    "class": "Class 11",
+    "subject": "Accountancy",
+    "chapter": "Ch 9: Financial Statements - II"
+  },
+  {
+    "text": "How are bad debts written off treated in the final accounts?",
+    "options": [
+      "They are added to the expenses",
+      "They are deducted from the expenses",
+      "They are ignored",
+      "They are added to the assets"
+    ],
+    "correctAnswer": "They are added to the expenses",
+    "explanation": "According to the NCERT textbook, bad debts written off are the debts that have become irrecoverable. They are added to the expenses in the profit and loss account to match the expenses with the revenues.",
+    "difficulty": "Easy",
+    "class": "Class 11",
+    "subject": "Accountancy",
+    "chapter": "Ch 9: Financial Statements - II"
+  },
+  {
+    "text": "What is the effect of provision for doubtful debts on the financial statements?",
+    "options": [
+      "It increases the profit",
+      "It decreases the profit",
+      "It has no effect on the profit",
+      "It increases the revenue"
+    ],
+    "correctAnswer": "It decreases the profit",
+    "explanation": "As per the NCERT textbook, the provision for doubtful debts is made to provide for the debts that may become bad in the future. This decreases the profit and increases the expenses.",
+    "difficulty": "Medium",
+    "class": "Class 11",
+    "subject": "Accountancy",
+    "chapter": "Ch 9: Financial Statements - II"
+  },
+  {
+    "text": "How are accrued expenses treated in the final accounts?",
+    "options": [
+      "They are added to the expenses",
+      "They are deducted from the expenses",
+      "They are ignored",
+      "They are added to the assets"
+    ],
+    "correctAnswer": "They are added to the expenses",
+    "explanation": "According to the NCERT textbook, accrued expenses are the expenses that have been incurred but not paid. They are added to the expenses in the profit and loss account to match the expenses with the revenues.",
+    "difficulty": "Easy",
+    "class": "Class 11",
+    "subject": "Accountancy",
+    "chapter": "Ch 9: Financial Statements - II"
+  },
+  {
+    "text": "What is the purpose of making a provision for discount on creditors?",
+    "options": [
+      "To reduce the profit",
+      "To increase the profit",
+      "To match the expenses with the revenues",
+      "To provide for the discount on creditors"
+    ],
+    "correctAnswer": "To provide for the discount on creditors",
+    "explanation": "As per the NCERT textbook, the provision for discount on creditors is made to provide for the discount that may be allowed to the creditors in the future. This is based on the principle of prudence, which states that the expenses should be anticipated and provided for.",
+    "difficulty": "Medium",
+    "class": "Class 11",
+    "subject": "Accountancy",
+    "chapter": "Ch 9: Financial Statements - II"
+  },
+  {
+    "text": "How are unearned incomes treated in the final accounts?",
+    "options": [
+      "They are added to the revenue",
+      "They are deducted from the revenue",
+      "They are ignored",
+      "They are added to the assets"
+    ],
+    "correctAnswer": "They are deducted from the revenue",
+    "explanation": "According to the NCERT textbook, unearned incomes are the incomes that have been received but not earned. They are deducted from the revenue in the profit and loss account to match the expenses with the revenues.",
+    "difficulty": "Easy",
+    "class": "Class 11",
+    "subject": "Accountancy",
+    "chapter": "Ch 9: Financial Statements - II"
+  },
+  {
+    "text": "What is the effect of closing stock on the financial statements?",
+    "options": [
+      "It increases the cost of goods sold",
+      "It decreases the cost of goods sold",
+      "It has no effect on the cost of goods sold",
+      "It increases the revenue"
+    ],
+    "correctAnswer": "It decreases the cost of goods sold",
+    "explanation": "As per the NCERT textbook, the closing stock is valued at the end of the accounting period and is deducted from the cost of goods sold. This decreases the cost of goods sold and increases the profit.",
+    "difficulty": "Medium",
+    "class": "Class 11",
+    "subject": "Accountancy",
+    "chapter": "Ch 9: Financial Statements - II"
+  }
+]

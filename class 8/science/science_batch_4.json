@@ -1,0 +1,327 @@
+[
+  {
+    "class": "Class 8",
+    "subject": "Science",
+    "difficulty": "Hard",
+    "text": "Which of the following sequences correctly represents the sequence of biochemical steps in the nitrogen cycle in nature?",
+    "explanation": "The nitrogen cycle consists of: Nitrogen fixation (atmospheric to compounds) \\\\(\\\\rightarrow\\\\) Nitrogen assimilation (taken up by plants) \\\\(\\\\rightarrow\\\\) Ammonification (decomposition to ammonia) \\\\(\\\\rightarrow\\\\) Nitrification (ammonia to nitrates) \\\\(\\\\rightarrow\\\\) Denitrification (nitrates back to gaseous nitrogen).",
+    "options": [
+      { "text": "Nitrogen fixation \\\\(\\\\rightarrow\\\\) Ammonification \\\\(\\\\rightarrow\\\\) Nitrification \\\\(\\\\rightarrow\\\\) Nitrogen assimilation \\\\(\\\\rightarrow\\\\) Denitrification", "isCorrect": false },
+      { "text": "Nitrogen fixation \\\\(\\\\rightarrow\\\\) Nitrogen assimilation \\\\(\\\\rightarrow\\\\) Ammonification \\\\(\\\\rightarrow\\\\) Nitrification \\\\(\\\\rightarrow\\\\) Denitrification", "isCorrect": true },
+      { "text": "Ammonification \\\\(\\\\rightarrow\\\\) Nitrogen fixation \\\\(\\\\rightarrow\\\\) Nitrification \\\\(\\\\rightarrow\\\\) Denitrification \\\\(\\\\rightarrow\\\\) Nitrogen assimilation", "isCorrect": false },
+      { "text": "Nitrification \\\\(\\\\rightarrow\\\\) Ammonification \\\\(\\\\rightarrow\\\\) Denitrification \\\\(\\\\rightarrow\\\\) Nitrogen fixation \\\\(\\\\rightarrow\\\\) Nitrogen assimilation", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 8",
+    "subject": "Science",
+    "difficulty": "Very Hard",
+    "text": "Food grains are thoroughly dried in the sun before storage. Why is a high moisture content in stored grains highly detrimental to their quality and preservation?",
+    "explanation": "Moisture creates an ideal environment for fungi, bacteria, and insects to multiply, which spoils the grains, reduces their germination capacity, and leads to enzymatic degradation.",
+    "options": [
+      { "text": "Moisture promotes the growth of fungi, bacteria, and pests, destroying germination capacity and spoiling grains", "isCorrect": true },
+      { "text": "Moisture causes the grains to merge and fuse together into a single large block", "isCorrect": false },
+      { "text": "Moisture reacts chemically with grain starch to produce toxic carbon monoxide gas", "isCorrect": false },
+      { "text": "Moisture increases the weight of the grains, making them explode under high pressure", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 8",
+    "subject": "Science",
+    "difficulty": "Medium",
+    "text": "Why are antibiotics ineffective against viral diseases like influenza or COVID-19, whereas they are highly effective against bacterial infections?",
+    "explanation": "Antibiotics target bacterial cell walls, protein synthesis, or specific bacterial metabolic pathways. Viruses do not possess these structures or pathways, relying instead on the host cell's machinery.",
+    "options": [
+      { "text": "Because viruses are too small to be physically blocked by chemical molecules", "isCorrect": false },
+      { "text": "Because viruses lack cell walls and their own metabolic pathways, which are the targets of antibiotics", "isCorrect": true },
+      { "text": "Because antibiotics are neutralized by the acidic envelope of viruses", "isCorrect": false },
+      { "text": "Because viruses reproduce only inside red blood cells, which antibiotics cannot enter", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 8",
+    "subject": "Science",
+    "difficulty": "Very Hard",
+    "text": "Sodium benzoate and sodium metabisulphite are commonly used food preservatives in jams and squashes. What is their primary biochemical mechanism of action?",
+    "explanation": "These chemical preservatives release compounds (like benzoic acid or sulphur dioxide) that lower pH and inhibit cellular respiration and enzymatic activity in spoilage microbes.",
+    "options": [
+      { "text": "They absorb all light falling on the food to prevent photo-oxidation", "isCorrect": false },
+      { "text": "They create conditions that inhibit microbial growth and metabolic activities", "isCorrect": true },
+      { "text": "They chemically convert sugars into indigestible complex starches", "isCorrect": false },
+      { "text": "They sterilize the food by producing high-intensity heat locally", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 8",
+    "subject": "Science",
+    "difficulty": "Medium",
+    "text": "If a species of plant or animal is declared 'extinct in the wild' by conservation organizations, what does it mean?",
+    "explanation": "Extinct in the wild means a species no longer exists in its natural habitat and is only known to survive in captivity, botanical gardens, or controlled breeding facilities.",
+    "options": [
+      { "text": "The species has completely died out and no living individuals exist anywhere", "isCorrect": false },
+      { "text": "The species survives only in captivity, cultivation, or controlled human care", "isCorrect": true },
+      { "text": "The species has migrated to another continent and changed its habits", "isCorrect": false },
+      { "text": "The species has been cloned and reintroduced into municipal parks", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 8",
+    "subject": "Science",
+    "difficulty": "Hard",
+    "text": "The Pachmarhi Biosphere Reserve contains diverse conservation zones. Which combination of national parks and wildlife sanctuaries is located within this biosphere reserve?",
+    "explanation": "The Pachmarhi Biosphere Reserve consists of one national park named Satpura National Park, and two wildlife sanctuaries named Bori Sanctuary and Pachmarhi Sanctuary.",
+    "options": [
+      { "text": "Satpura National Park, Bori Sanctuary, and Pachmarhi Sanctuary", "isCorrect": true },
+      { "text": "Jim Corbett National Park, Gir Sanctuary, and Kaziranga Sanctuary", "isCorrect": false },
+      { "text": "Kaziranga National Park, Sundarbans Sanctuary, and Bori Sanctuary", "isCorrect": false },
+      { "text": "Satpura National Park, Kanha Sanctuary, and Bharatpur Sanctuary", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 8",
+    "subject": "Science",
+    "difficulty": "Hard",
+    "text": "In human reproduction, what is the role of the acrosome, located at the front tip of the sperm cell head, during fertilization?",
+    "explanation": "The acrosome contains specialized enzymes that break down the outer protective layer (zona pellucida) of the ovum, enabling the sperm nucleus to enter and fuse with the egg nucleus.",
+    "options": [
+      { "text": "It provides energy to the tail for swimming towards the ovum", "isCorrect": false },
+      { "text": "It carries the genetic chromosomes from the father", "isCorrect": false },
+      { "text": "It releases enzymes to digest the outer protective layers of the egg cell", "isCorrect": true },
+      { "text": "It prevents other sperm cells from entering the uterus", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 8",
+    "subject": "Science",
+    "difficulty": "Very Hard",
+    "text": "Dolly the sheep was the first mammal successfully cloned. From which ewe was the nucleus taken, and which ewe gave birth to Dolly?",
+    "explanation": "Dolly's nucleus was taken from a Finn Dorsett ewe's mammary gland and inserted into an enucleated egg from a Scottish Blackface ewe. The surrogate mother ewe was also a Scottish Blackface, but Dolly was genetically identical to the Finn Dorsett.",
+    "options": [
+      { "text": "Nucleus from Scottish Blackface; surrogate mother was Finn Dorsett", "isCorrect": false },
+      { "text": "Nucleus from Finn Dorsett; surrogate mother was Scottish Blackface", "isCorrect": true },
+      { "text": "Nucleus from Finn Dorsett; surrogate mother was Finn Dorsett", "isCorrect": false },
+      { "text": "Nucleus and egg both from Scottish Blackface; no surrogate mother", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 8",
+    "subject": "Science",
+    "difficulty": "Medium",
+    "text": "Which hormone, endocrine gland, and associated medical condition are correctly matched?",
+    "explanation": "Growth hormone is secreted by the pituitary gland, and its deficiency during childhood causes dwarfism.",
+    "options": [
+      { "text": "Insulin \u2014 Thyroid gland \u2014 Goitre", "isCorrect": false },
+      { "text": "Growth hormone \u2014 Pituitary gland \u2014 Dwarfism", "isCorrect": true },
+      { "text": "Thyroxine \u2014 Adrenal gland \u2014 Diabetes", "isCorrect": false },
+      { "text": "Adrenaline \u2014 Pancreas \u2014 Gigantism", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 8",
+    "subject": "Science",
+    "difficulty": "Very Hard",
+    "text": "During puberty, which hormones secreted by the pituitary gland play the primary role in stimulating the production of testosterone in boys and estrogen in girls?",
+    "explanation": "Gonadotropins (specifically LH and FSH) secreted by the pituitary gland stimulate the testes in males to produce testosterone, and the ovaries in females to produce estrogen.",
+    "options": [
+      { "text": "Thyroxine and Adrenaline", "isCorrect": false },
+      { "text": "Follicle-stimulating hormone (FSH) and Luteinizing hormone (LH)", "isCorrect": true },
+      { "text": "Insulin and Glucagon", "isCorrect": false },
+      { "text": "Growth hormone and Melatonin", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 8",
+    "subject": "Science",
+    "difficulty": "Hard",
+    "text": "Coal is classified into different ranks based on its carbon content. Arrange Peat, Lignite, Bituminous, and Anthracite in increasing order of carbon percentage.",
+    "explanation": "Peat has the lowest carbon content (< 60%). Lignite is next (60-70%), followed by Bituminous coal (70-86%), and Anthracite has the highest carbon content (> 86%).",
+    "options": [
+      { "text": "Peat < Lignite < Bituminous < Anthracite", "isCorrect": true },
+      { "text": "Anthracite < Bituminous < Lignite < Peat", "isCorrect": false },
+      { "text": "Lignite < Peat < Bituminous < Anthracite", "isCorrect": false },
+      { "text": "Peat < Bituminous < Lignite < Anthracite", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 8",
+    "subject": "Science",
+    "difficulty": "Very Hard",
+    "text": "During the fractional distillation of crude petroleum, how are the different constituents separated, and which one remains at the very bottom of the fractionating column?",
+    "explanation": "Separation is based on the boiling points. Hydrocarbons with higher boiling points condense lower down. Bitumen (asphalt) has the highest boiling point (> 350\u00b0C) and remains at the bottom.",
+    "options": [
+      { "text": "Separated by densities; Kerosene remains at the bottom", "isCorrect": false },
+      { "text": "Separated by boiling points; Petrol remains at the bottom", "isCorrect": false },
+      { "text": "Separated by boiling points; Bitumen remains at the bottom", "isCorrect": true },
+      { "text": "Separated by molecular weights; Liquid petroleum gas remains at the bottom", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 8",
+    "subject": "Science",
+    "difficulty": "Hard",
+    "text": "Combustion can be rapid, spontaneous, or explosive. Which of the following is an example of spontaneous combustion?",
+    "explanation": "Spontaneous combustion is the type of combustion in which a material suddenly bursts into flames without any apparent cause. White phosphorus catches fire in air on its own at room temperature.",
+    "options": [
+      { "text": "A burning matchstick igniting a gas stove", "isCorrect": false },
+      { "text": "Burning of white phosphorus in air at room temperature", "isCorrect": true },
+      { "text": "Ignition of a firecracker during a festival", "isCorrect": false },
+      { "text": "Burning of LPG in a burner when sparked", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 8",
+    "subject": "Science",
+    "difficulty": "Very Hard",
+    "text": "The calorific value of hydrogen is \\\\(150000 \\\\text{ kJ/kg}\\\\), and that of wood is \\\\(20000 \\\\text{ kJ/kg}\\\\). If a process requires \\\\(300000 \\\\text{ kJ}\\\\) of heat energy, what mass of hydrogen is needed compared to wood?",
+    "explanation": "Using \\\\(m = \\\\text{Energy} / \\\\text{Calorific Value}\\\\), we calculate: Hydrogen mass = \\\\(300000 / 150000 = 2 \\\\text{ kg}\\\\), and Wood mass = \\\\(300000 / 20000 = 15 \\\\text{ kg}\\\\).",
+    "options": [
+      { "text": "\\\\(2 \\\\text{ kg}\\\\) of hydrogen and \\\\(15 \\\\text{ kg}\\\\) of wood", "isCorrect": true },
+      { "text": "\\\\(1.5 \\\\text{ kg}\\\\) of hydrogen and \\\\(30 \\\\text{ kg}\\\\) of wood", "isCorrect": false },
+      { "text": "\\\\(5 \\\\text{ kg}\\\\) of hydrogen and \\\\(10 \\\\text{ kg}\\\\) of wood", "isCorrect": false },
+      { "text": "\\\\(10 \\\\text{ kg}\\\\) of hydrogen and \\\\(100 \\\\text{ kg}\\\\) of wood", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 8",
+    "subject": "Science",
+    "difficulty": "Hard",
+    "text": "During the electrolysis of copper sulphate solution using copper electrodes, what happens to the concentration of copper sulphate in the electrolyte?",
+    "explanation": "Copper ions from the solution deposit onto the cathode, while an equal amount of copper dissolves from the copper anode into the solution. Thus, the concentration of copper sulphate in the electrolyte remains constant.",
+    "options": [
+      { "text": "It decreases steadily as copper is deposited on the cathode", "isCorrect": false },
+      { "text": "It increases steadily as copper is dissolved from the anode", "isCorrect": false },
+      { "text": "It remains constant", "isCorrect": true },
+      { "text": "It turns colorless because of chemical decomposition", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 8",
+    "subject": "Science",
+    "difficulty": "Very Hard",
+    "text": "A student wants to electroplate a copper key with silver. How should the student set up the electrodes and the electrolyte?",
+    "explanation": "In electroplating, the object to be coated (copper key) must be the cathode (negative electrode), the metal to be deposited (pure silver) must be the anode (positive electrode), and the electrolyte must contain ions of the coating metal (silver nitrate).",
+    "options": [
+      { "text": "Anode: Copper key; Cathode: Pure silver rod; Electrolyte: Copper sulphate solution", "isCorrect": false },
+      { "text": "Anode: Pure silver rod; Cathode: Copper key; Electrolyte: Silver nitrate solution", "isCorrect": true },
+      { "text": "Anode: Pure silver rod; Cathode: Copper key; Electrolyte: Copper sulphate solution", "isCorrect": false },
+      { "text": "Anode: Copper key; Cathode: Pure silver rod; Electrolyte: Silver nitrate solution", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 8",
+    "subject": "Science",
+    "difficulty": "Medium",
+    "text": "A heavy wooden crate is being pushed across a floor. What type of friction opposes its motion once it starts moving, and how does it compare to the friction before it started moving?",
+    "explanation": "Once the crate starts moving, the interlocking between microscopic irregularities is less, resulting in sliding friction, which is slightly smaller than the static friction required to start the motion.",
+    "options": [
+      { "text": "Sliding friction, which is slightly smaller than static friction", "isCorrect": true },
+      { "text": "Static friction, which is larger than sliding friction", "isCorrect": false },
+      { "text": "Rolling friction, which is larger than sliding friction", "isCorrect": false },
+      { "text": "Sliding friction, which is twice the static friction", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 8",
+    "subject": "Science",
+    "difficulty": "Hard",
+    "text": "Why do mountaineers sometimes experience nosebleeds at high altitudes?",
+    "explanation": "At high altitudes, the atmospheric pressure decreases. The pressure of the blood inside the body is greater than the external atmospheric pressure, causing delicate blood capillaries in the nose to rupture.",
+    "options": [
+      { "text": "Because the high concentration of oxygen increases blood pressure", "isCorrect": false },
+      { "text": "Because the atmospheric pressure decreases, becoming lower than the internal blood pressure", "isCorrect": true },
+      { "text": "Because the rapid heartbeat at high altitudes thins the blood", "isCorrect": false },
+      { "text": "Because the extreme cold freezes the blood vessels in the nasal passage", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 8",
+    "subject": "Science",
+    "difficulty": "Hard",
+    "text": "The frictional force exerted by fluids is called drag. Which set of factors determines the magnitude of drag on an object moving through a fluid?",
+    "explanation": "The fluid friction or drag depends on the speed of the object relative to the fluid, the physical shape of the object, and the viscosity (nature) of the fluid.",
+    "options": [
+      { "text": "Only the speed of the object and the mass of the object", "isCorrect": false },
+      { "text": "The speed of the object relative to the fluid, the shape of the object, and the nature of the fluid", "isCorrect": true },
+      { "text": "Only the color of the object, the density of the fluid, and temperature", "isCorrect": false },
+      { "text": "The volume of the object, the atmospheric pressure, and the gravitational force", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 8",
+    "subject": "Science",
+    "difficulty": "Very Hard",
+    "text": "Lubricants are applied between moving machine parts to reduce friction. Why can lubricants never reduce the force of friction to zero?",
+    "explanation": "No surface is perfectly smooth. Microscopic irregularities exist on every surface, and some interlocking will always occur even with a thin film of lubricant between them.",
+    "options": [
+      { "text": "Because lubricants chemically react with metal to produce new irregularities", "isCorrect": false },
+      { "text": "Because no surface is perfectly smooth and microscopic irregularities still interlock to some extent", "isCorrect": true },
+      { "text": "Because the lubricant itself exerts a strong magnetic attraction between the surfaces", "isCorrect": false },
+      { "text": "Because lubricants increase the normal force acting on the surfaces", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 8",
+    "subject": "Science",
+    "difficulty": "Medium",
+    "text": "If a guitar string is plucked harder, what physical characteristic of the sound wave changes, and how does it affect our perception of the sound?",
+    "explanation": "Plucking the string harder increases the energy of vibration, which increases the amplitude of the sound wave, making the sound louder.",
+    "options": [
+      { "text": "The frequency increases, making the sound higher in pitch", "isCorrect": false },
+      { "text": "The amplitude increases, making the sound louder", "isCorrect": true },
+      { "text": "The speed of the sound wave increases, making it reach our ears faster", "isCorrect": false },
+      { "text": "The wavelength decreases, making the sound softer", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 8",
+    "subject": "Science",
+    "difficulty": "Very Hard",
+    "text": "A person standing at a distance from a tall cliff claps and hears the echo after \\\\(0.4 \\\\text{ s}\\\\). If the speed of sound in air is \\\\(340 \\\\text{ m/s}\\\\), how far is the person from the cliff?",
+    "explanation": "The sound travels to the cliff and back, covering twice the distance. Distance is calculated as: \\\\(d = (v \\\\times t) / 2 = (340 \\\\text{ m/s} \\\\times 0.4 \\\\text{ s}) / 2 = 68 \\\\text{ m}\\\\).",
+    "options": [
+      { "text": "\\\\(136 \\\\text{ m}\\\\)", "isCorrect": false },
+      { "text": "\\\\(68 \\\\text{ m}\\\\)", "isCorrect": true },
+      { "text": "\\\\(340 \\\\text{ m}\\\\)", "isCorrect": false },
+      { "text": "\\\\(170 \\\\text{ m}\\\\)", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 8",
+    "subject": "Science",
+    "difficulty": "Hard",
+    "text": "How do primary seismic waves (P-waves) and secondary seismic waves (S-waves) differ in their transmission through different states of matter?",
+    "explanation": "P-waves are longitudinal waves that can travel through both solid and liquid layers of the earth, whereas S-waves are transverse waves that can only propagate through solids.",
+    "options": [
+      { "text": "P-waves travel only through liquids; S-waves travel only through solids", "isCorrect": false },
+      { "text": "P-waves travel through both solids and liquids; S-waves travel only through solids", "isCorrect": true },
+      { "text": "Both P-waves and S-waves travel only through liquid magma", "isCorrect": false },
+      { "text": "S-waves travel through both solids and liquids; P-waves travel only through gases", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 8",
+    "subject": "Science",
+    "difficulty": "Very Hard",
+    "text": "A ray of light strikes a plane mirror at an angle of incidence of \\\\(30^\\\\circ\\\\). If the mirror is rotated by \\\\(10^\\\\circ\\\\) about an axis lying in its plane, what are the possible new angles of reflection?",
+    "explanation": "If the mirror is rotated by \\\\(10^\\\\circ\\\\), the normal to the mirror also rotates by \\\\(10^\\\\circ\\\\). Depending on the direction of rotation, the new angle of incidence (and thus reflection) will be either \\\\(30^\\\\circ - 10^\\\\circ = 20^\\\\circ\\\\) or \\\\(30^\\\\circ + 10^\\\\circ = 40^\\\\circ\\\\).",
+    "options": [
+      { "text": "Only \\\\(30^\\\\circ\\\\)", "isCorrect": false },
+      { "text": "Either \\\\(20^\\\\circ\\\\) or \\\\(40^\\\\circ\\\\)", "isCorrect": true },
+      { "text": "Only \\\\(40^\\\\circ\\\\)", "isCorrect": false },
+      { "text": "Either \\\\(15^\\\\circ\\\\) or \\\\(45^\\\\circ\\\\)", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 8",
+    "subject": "Science",
+    "difficulty": "Hard",
+    "text": "A person can see nearby objects clearly but struggles to focus on distant objects. What is this vision defect called, and how is it corrected?",
+    "explanation": "Myopia (nearsightedness) occurs when the light rays focus in front of the retina rather than on it. It is corrected using a concave (diverging) lens to shift the focus back onto the retina.",
+    "options": [
+      { "text": "Hypermetropia, corrected using a convex lens", "isCorrect": false },
+      { "text": "Myopia, corrected using a concave lens", "isCorrect": true },
+      { "text": "Presbyopia, corrected using a cylindrical lens", "isCorrect": false },
+      { "text": "Myopia, corrected using a convex lens", "isCorrect": false }
+    ]
+  }
+]

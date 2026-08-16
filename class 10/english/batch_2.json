@@ -1,0 +1,327 @@
+[
+  {
+    "class": "Class 10",
+    "subject": "English",
+    "difficulty": "EASY",
+    "text": "What did Lencho's fields need most before the hailstorm?",
+    "explanation": "According to the story, the earth needed a downpour or at least a shower of rain to ensure a good harvest.",
+    "options": [
+      { "text": "A downpour or a light shower", "isCorrect": true },
+      { "text": "Chemical fertilizers", "isCorrect": false },
+      { "text": "Sufficient sunlight", "isCorrect": false },
+      { "text": "Tractor plowing", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 10",
+    "subject": "English",
+    "difficulty": "EASY",
+    "text": "Who is the author of the autobiographical piece 'Long Walk to Freedom'?",
+    "explanation": "'Long Walk to Freedom' is the autobiography of Nelson Mandela, the anti-apartheid revolutionary and former president of South Africa.",
+    "options": [
+      { "text": "Nelson Mandela", "isCorrect": true },
+      { "text": "Liam O'Flaherty", "isCorrect": false },
+      { "text": "Robert Frost", "isCorrect": false },
+      { "text": "G.L. Fuentes", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 10",
+    "subject": "English",
+    "difficulty": "EASY",
+    "text": "What is the primary setting where Tricki recovers in 'A Triumph of Surgery'?",
+    "explanation": "Tricki was hospitalized for a fortnight at Dr. Herriot's veterinary clinic, where he recovered naturally through diet and exercise.",
+    "options": [
+      { "text": "The veterinary surgery clinic", "isCorrect": true },
+      { "text": "Mrs. Pumphrey's drawing room", "isCorrect": false },
+      { "text": "A local public park", "isCorrect": false },
+      { "text": "The gardener's cottage", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 10",
+    "subject": "English",
+    "difficulty": "EASY",
+    "text": "The symbolic poem 'Fire and Ice' is written by which American poet?",
+    "explanation": "'Fire and Ice' is a famous short poem written by Robert Frost, discussing the end of the world.",
+    "options": [
+      { "text": "Robert Frost", "isCorrect": true },
+      { "text": "Leslie Norris", "isCorrect": false },
+      { "text": "Robin Klein", "isCorrect": false },
+      { "text": "John Berryman", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 10",
+    "subject": "English",
+    "difficulty": "EASY",
+    "text": "In 'The Thief's Story', what was Hari Singh particularly skilled at?",
+    "explanation": "Hari Singh was a fifteen-year-old thief who was highly experienced and successful at stealing and deceiving people.",
+    "options": [
+      { "text": "Stealing and pickpocketing", "isCorrect": true },
+      { "text": "Cooking delicious meals", "isCorrect": false },
+      { "text": "Writing books and articles", "isCorrect": false },
+      { "text": "Teaching young children", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 10",
+    "subject": "English",
+    "difficulty": "EASY",
+    "text": "Fill in the blank with the correct determiner: Is there ________ milk left in the container?",
+    "explanation": "'Any' is generally used in negative sentences and questions when referring to an indefinite quantity of an uncountable noun.",
+    "options": [
+      { "text": "any", "isCorrect": true },
+      { "text": "many", "isCorrect": false },
+      { "text": "few", "isCorrect": false },
+      { "text": "several", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 10",
+    "subject": "English",
+    "difficulty": "MEDIUM",
+    "text": "In 'From the Diary of Anne Frank', why did her teacher Mr. Keesing assign her extra homework?",
+    "explanation": "Mr. Keesing was annoyed with Anne because she was extremely talkative during his mathematics classes.",
+    "options": [
+      { "text": "Because she was talking too much in class.", "isCorrect": true },
+      { "text": "Because she failed her math exams.", "isCorrect": false },
+      { "text": "Because she was rude to her classmates.", "isCorrect": false },
+      { "text": "Because she did not bring her notebook.", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 10",
+    "subject": "English",
+    "difficulty": "MEDIUM",
+    "text": "In 'The Black Aeroplane', what happened to the instruments in the narrator's plane inside the storm clouds?",
+    "explanation": "The compass, radio, and other instruments stopped working and went dead due to the severe storm.",
+    "options": [
+      { "text": "They stopped working and went dead.", "isCorrect": true },
+      { "text": "They started showing wrong directions but worked.", "isCorrect": false },
+      { "text": "They functioned normally throughout the storm.", "isCorrect": false },
+      { "text": "They caught fire due to lightning.", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 10",
+    "subject": "English",
+    "difficulty": "MEDIUM",
+    "text": "In 'A Tiger in the Zoo', where should the tiger be snarling according to the poet's description of his natural habitat?",
+    "explanation": "The poet says that if the tiger were free in the wild, he should be snarling around houses at the jungle's edge.",
+    "options": [
+      { "text": "Around houses at the jungle's edge", "isCorrect": true },
+      { "text": "Behind the concrete cell walls", "isCorrect": false },
+      { "text": "Near the water hole waiting for deer", "isCorrect": false },
+      { "text": "On top of the rocky mountain hills", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 10",
+    "subject": "English",
+    "difficulty": "MEDIUM",
+    "text": "Choose the correct indirect form of: He said, 'I have finished my homework.'",
+    "explanation": "In indirect speech, the present perfect tense ('have finished') shifts to the past perfect tense ('had finished') when the reporting verb is in the past tense.",
+    "options": [
+      { "text": "He said that he had finished his homework.", "isCorrect": true },
+      { "text": "He said that he has finished his homework.", "isCorrect": false },
+      { "text": "He told that he finished his homework.", "isCorrect": false },
+      { "text": "He says that he had finished his homework.", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 10",
+    "subject": "English",
+    "difficulty": "MEDIUM",
+    "text": "Why was the rival spy Max present in Ausable's room in 'The Midnight Visitor'?",
+    "explanation": "Max had sneaked into Ausable's room using a passkey to force Ausable to hand over a secret government report concerning some new missiles.",
+    "options": [
+      { "text": "To intercept a secret report on missiles.", "isCorrect": true },
+      { "text": "To kill Ausable and take over his position.", "isCorrect": false },
+      { "text": "To steal money from Ausable's safe.", "isCorrect": false },
+      { "text": "To invite Ausable to a secret meeting.", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 10",
+    "subject": "English",
+    "difficulty": "MEDIUM",
+    "text": "How did Valli manage to accumulate the fare of sixty paise for her bus ride?",
+    "explanation": "Valli saved every stray coin by suppressing her desires to buy toys, balloons, peppermints, and skipping the merry-go-round at the village fair.",
+    "options": [
+      { "text": "By saving pocket money and avoiding temptations like buying toys/sweets.", "isCorrect": true },
+      { "text": "By stealing coins from her mother's kitchen box.", "isCorrect": false },
+      { "text": "By working part-time at a local village shop.", "isCorrect": false },
+      { "text": "By selling hand-made toys to village kids.", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 10",
+    "subject": "English",
+    "difficulty": "MEDIUM",
+    "text": "Fill in the blank with the correct form of the verb: A number of students ________ absent today.",
+    "explanation": "The phrase 'A number of' functions as a plural determiner, so it takes a plural verb ('are'), whereas 'The number of' takes a singular verb.",
+    "options": [
+      { "text": "are", "isCorrect": true },
+      { "text": "is", "isCorrect": false },
+      { "text": "was", "isCorrect": false },
+      { "text": "has", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 10",
+    "subject": "English",
+    "difficulty": "HARD",
+    "text": "In 'A Question of Trust', why was Horace Danby arrested although he opened the safe for the lady of the house?",
+    "explanation": "Horace had opened the safe without wearing gloves, leaving his fingerprints all over. The lady turned out to be a clever thief herself, not the owner.",
+    "options": [
+      { "text": "He left his fingerprints on the safe, which belonged to a woman who tricked him.", "isCorrect": true },
+      { "text": "The real lady of the house shot him and called the police.", "isCorrect": false },
+      { "text": "He forgot to take the jewels and left them on the table.", "isCorrect": false },
+      { "text": "His partner betrayed him and reported him to the police.", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 10",
+    "subject": "English",
+    "difficulty": "HARD",
+    "text": "In 'The Ball Poem', what does the lost ball primarily symbolize for the young boy?",
+    "explanation": "The ball represents the boy's innocent childhood days and memories, and losing it marks his first experience with responsibility and loss.",
+    "options": [
+      { "text": "His innocent childhood days and memories.", "isCorrect": true },
+      { "text": "The monetary value of his belongings.", "isCorrect": false },
+      { "text": "His anger towards his parents.", "isCorrect": false },
+      { "text": "His failure to become a good sportsman.", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 10",
+    "subject": "English",
+    "difficulty": "HARD",
+    "text": "According to the story 'The Making of a Scientist', how did Richard Ebright's mother help him in his scientific endeavors?",
+    "explanation": "She encouraged his curiosity, took him on trips, and bought him scientific equipment like microscopes, telescopes, and cameras.",
+    "options": [
+      { "text": "By encouraging his interest and buying him equipment like microscopes.", "isCorrect": true },
+      { "text": "By writing his science research papers for school competitions.", "isCorrect": false },
+      { "text": "By paying famous scientists to tutor him privately.", "isCorrect": false },
+      { "text": "By sending him to a prestigious boarding school abroad.", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 10",
+    "subject": "English",
+    "difficulty": "HARD",
+    "text": "Fill in the blank with the appropriate modal verb: We ________ carry an umbrella as it might rain later.",
+    "explanation": "'Should' is used to give advice or make recommendations, which fits the context of preparing for rain.",
+    "options": [
+      { "text": "should", "isCorrect": true },
+      { "text": "must not", "isCorrect": false },
+      { "text": "would", "isCorrect": false },
+      { "text": "could", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 10",
+    "subject": "English",
+    "difficulty": "HARD",
+    "text": "In 'The Necklace', from whom did Matilda borrow the diamond necklace for the ball?",
+    "explanation": "Matilda Loisel borrowed the necklace from her rich friend, Madame Jeanne Forestier.",
+    "options": [
+      { "text": "Madame Forestier", "isCorrect": true },
+      { "text": "Madame Ramponneau", "isCorrect": false },
+      { "text": "Madame Loisel", "isCorrect": false },
+      { "text": "Her husband's mother", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 10",
+    "subject": "English",
+    "difficulty": "HARD",
+    "text": "What is the dispute over the 'Oxen Meadows' in Anton Chekhov's play 'The Proposal'?",
+    "explanation": "Lomov claims the Oxen Meadows belong to his family, while Natalya and her father Chubukov insist they belong to the Chubukovs, starting a major argument.",
+    "options": [
+      { "text": "Lomov and Natalya both claim ownership of the land.", "isCorrect": true },
+      { "text": "They argue over the price of selling the land to a third party.", "isCorrect": false },
+      { "text": "Lomov accuses Chubukov of damaging the meadow's grass.", "isCorrect": false },
+      { "text": "They fight over who has the right to graze cattle on the meadow.", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 10",
+    "subject": "English",
+    "difficulty": "VERY HARD",
+    "text": "In the poem 'Amanda!', what is the significance of the lines: '(Silence is golden, freedom is sweet)'?",
+    "explanation": "Amanda finds her mother's constant nagging suffocating, and these parenthetical lines show her inner desire for complete silence and freedom.",
+    "options": [
+      { "text": "Amanda values quiet solitude and independence over her mother's constant nagging.", "isCorrect": true },
+      { "text": "Amanda's mother is teaching her about the value of speaking less.", "isCorrect": false },
+      { "text": "Amanda is expressing her fear of being left alone in the dark.", "isCorrect": false },
+      { "text": "Amanda wants to escape to a gold mine to become rich.", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 10",
+    "subject": "English",
+    "difficulty": "VERY HARD",
+    "text": "In 'Bholi', what led Bholi to refuse to marry Bishamber Nath at the wedding ceremony?",
+    "explanation": "Bishamber demanded a dowry of 5000 rupees when he saw Bholi's pockmarked face. This greed and humiliation made Bholi reject him.",
+    "options": [
+      { "text": "He demanded five thousand rupees as dowry due to her pockmarked face.", "isCorrect": true },
+      { "text": "She found out that he was already married and had children.", "isCorrect": false },
+      { "text": "Her teacher advised her not to marry an uneducated man.", "isCorrect": false },
+      { "text": "Bishamber refused to take her to the temple for the rituals.", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 10",
+    "subject": "English",
+    "difficulty": "VERY HARD",
+    "text": "Describe the hospitality traditions of the people of Coorg as mentioned in 'Glimpses of India'.",
+    "explanation": "The people of Coorg are known for their warm hospitality and are always ready to recount numerous tales of bravery related to their sons and fathers.",
+    "options": [
+      { "text": "They are hospitable and proud to share stories of the bravery of their ancestors.", "isCorrect": true },
+      { "text": "They invite tourists to participate in local coffee cultivation.", "isCorrect": false },
+      { "text": "They perform traditional martial dances for every visitor.", "isCorrect": false },
+      { "text": "They host annual rafting competitions in the Kaveri river.", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 10",
+    "subject": "English",
+    "difficulty": "VERY HARD",
+    "text": "Choose the correct indirect form of: She asked, 'Can you help me?'",
+    "explanation": "For yes/no questions, 'if' or 'whether' is used. The pronoun 'you' changes based on object (me -> I), 'can' changes to 'could', and word order becomes assertive.",
+    "options": [
+      { "text": "She asked if I could help her.", "isCorrect": true },
+      { "text": "She asked that if I can help her.", "isCorrect": false },
+      { "text": "She requested me that can I help her.", "isCorrect": false },
+      { "text": "She asked if could I help her.", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 10",
+    "subject": "English",
+    "difficulty": "VERY HARD",
+    "text": "In the poem 'The Tale of Custard the Dragon', how does Custard prove his courage when a pirate attacks?",
+    "explanation": "While other pets fled or hid in fear, Custard bravely jumped, snorted like an engine, clashed his tail, and gobbled the pirate.",
+    "options": [
+      { "text": "He confronted the pirate bravely and swallowed him whole.", "isCorrect": true },
+      { "text": "He flew Belinda to safety on his back.", "isCorrect": false },
+      { "text": "He breathed fire to burn down the pirate's weapons.", "isCorrect": false },
+      { "text": "He tricked the pirate into entering a metal cage.", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 10",
+    "subject": "English",
+    "difficulty": "VERY HARD",
+    "text": "In 'The Book That Saved the Earth', what led Think-Tank to cancel the Martian invasion of Earth?",
+    "explanation": "He misinterpreted rhymes in 'Mother Goose' as warnings of advanced Earth technology and military power, fearing they would capture him.",
+    "options": [
+      { "text": "He misinterpreted nursery rhymes as warnings of Earth's superior military plans.", "isCorrect": true },
+      { "text": "He realized that Martian spacecraft could not survive Earth's atmosphere.", "isCorrect": false },
+      { "text": "He was inspired by Earth's music and decided to make peace.", "isCorrect": false },
+      { "text": "Noodle convinced him that Earth had no resources worth taking.", "isCorrect": false }
+    ]
+  }
+]

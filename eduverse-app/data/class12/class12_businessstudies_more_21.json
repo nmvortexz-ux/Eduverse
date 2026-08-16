@@ -1,0 +1,182 @@
+[
+  {
+    "text": "What is the primary function of the Depository system in the Indian financial market?",
+    "options": [
+      "To facilitate the transfer of securities",
+      "To provide a platform for trading securities",
+      "To reduce the risk of fraud in securities transactions",
+      "To increase the liquidity of securities"
+    ],
+    "correctAnswer": "To facilitate the transfer of securities",
+    "explanation": "The Depository system, as introduced by NSDL and CDSL, allows for the dematerialisation of securities, making it easier to transfer ownership. This reduces the risk of physical securities being lost or damaged and facilitates faster settlement of transactions.",
+    "difficulty": "Medium",
+    "class": "Class 12",
+    "subject": "Business Studies",
+    "chapter": "Ch 10: Financial Markets"
+  },
+  {
+    "text": "Which of the following is a protective function of SEBI?",
+    "options": [
+      "Regulating the issue of securities",
+      "Protecting the interests of investors",
+      "Providing a platform for trading securities",
+      "Maintaining the integrity of the stock market"
+    ],
+    "correctAnswer": "Protecting the interests of investors",
+    "explanation": "SEBI's protective functions include protecting the interests of investors by regulating the issue of securities, preventing insider trading, and ensuring that companies disclose accurate information to the public.",
+    "difficulty": "Medium",
+    "class": "Class 12",
+    "subject": "Business Studies",
+    "chapter": "Ch 10: Financial Markets"
+  },
+  {
+    "text": "What is the difference between a Rights Issue and a Private Placement?",
+    "options": [
+      "Rights Issue is a public issue, while Private Placement is a private issue",
+      "Rights Issue is a private issue, while Private Placement is a public issue",
+      "Rights Issue is a short-term issue, while Private Placement is a long-term issue",
+      "Rights Issue is a long-term issue, while Private Placement is a short-term issue"
+    ],
+    "correctAnswer": "Rights Issue is a public issue, while Private Placement is a private issue",
+    "explanation": "A Rights Issue is a public issue where existing shareholders are given the option to purchase additional shares at a predetermined price. A Private Placement, on the other hand, is a private issue where shares are sold to a select group of investors, often institutional investors.",
+    "difficulty": "Medium",
+    "class": "Class 12",
+    "subject": "Business Studies",
+    "chapter": "Ch 10: Financial Markets"
+  },
+  {
+    "text": "What is the purpose of dematerialisation of securities?",
+    "options": [
+      "To increase the liquidity of securities",
+      "To reduce the risk of fraud in securities transactions",
+      "To facilitate the transfer of securities",
+      "To reduce the cost of maintaining physical securities"
+    ],
+    "correctAnswer": "To facilitate the transfer of securities",
+    "explanation": "Dematerialisation of securities involves converting physical securities into electronic form, making it easier to transfer ownership and reducing the risk of physical securities being lost or damaged.",
+    "difficulty": "Medium",
+    "class": "Class 12",
+    "subject": "Business Studies",
+    "chapter": "Ch 10: Financial Markets"
+  },
+  {
+    "text": "What is the role of NSDL and CDSL in the Indian financial market?",
+    "options": [
+      "To provide a platform for trading securities",
+      "To facilitate the transfer of securities",
+      "To maintain the integrity of the stock market",
+      "To regulate the issue of securities"
+    ],
+    "correctAnswer": "To facilitate the transfer of securities",
+    "explanation": "NSDL and CDSL are depositories that provide a platform for dematerialisation of securities, making it easier to transfer ownership and reducing the risk of physical securities being lost or damaged.",
+    "difficulty": "Medium",
+    "class": "Class 12",
+    "subject": "Business Studies",
+    "chapter": "Ch 10: Financial Markets"
+  },
+  {
+    "text": "What is the difference between a Public Issue and a Private Placement?",
+    "options": [
+      "Public Issue is a private issue, while Private Placement is a public issue",
+      "Public Issue is a public issue, while Private Placement is a private issue",
+      "Public Issue is a short-term issue, while Private Placement is a long-term issue",
+      "Public Issue is a long-term issue, while Private Placement is a short-term issue"
+    ],
+    "correctAnswer": "Public Issue is a public issue, while Private Placement is a private issue",
+    "explanation": "A Public Issue is a public issue where shares are sold to the general public, while a Private Placement is a private issue where shares are sold to a select group of investors, often institutional investors.",
+    "difficulty": "Medium",
+    "class": "Class 12",
+    "subject": "Business Studies",
+    "chapter": "Ch 10: Financial Markets"
+  },
+  {
+    "text": "What is the purpose of SEBI's regulatory functions?",
+    "options": [
+      "To protect the interests of investors",
+      "To maintain the integrity of the stock market",
+      "To regulate the issue of securities",
+      "To provide a platform for trading securities"
+    ],
+    "correctAnswer": "To regulate the issue of securities",
+    "explanation": "SEBI's regulatory functions include regulating the issue of securities, preventing insider trading, and ensuring that companies disclose accurate information to the public.",
+    "difficulty": "Medium",
+    "class": "Class 12",
+    "subject": "Business Studies",
+    "chapter": "Ch 10: Financial Markets"
+  },
+  {
+    "text": "What is the difference between a Rights Issue and a Bonus Issue?",
+    "options": [
+      "Rights Issue is a public issue, while Bonus Issue is a private issue",
+      "Rights Issue is a private issue, while Bonus Issue is a public issue",
+      "Rights Issue is a short-term issue, while Bonus Issue is a long-term issue",
+      "Rights Issue is a long-term issue, while Bonus Issue is a short-term issue"
+    ],
+    "correctAnswer": "Rights Issue is a public issue, while Bonus Issue is a private issue",
+    "explanation": "A Rights Issue is a public issue where existing shareholders are given the option to purchase additional shares at a predetermined price. A Bonus Issue, on the other hand, is a private issue where additional shares are issued to existing shareholders without any additional cost.",
+    "difficulty": "Medium",
+    "class": "Class 12",
+    "subject": "Business Studies",
+    "chapter": "Ch 10: Financial Markets"
+  },
+  {
+    "text": "What is the role of Depository Participants (DPs) in the Indian financial market?",
+    "options": [
+      "To provide a platform for trading securities",
+      "To facilitate the transfer of securities",
+      "To maintain the integrity of the stock market",
+      "To regulate the issue of securities"
+    ],
+    "correctAnswer": "To facilitate the transfer of securities",
+    "explanation": "Depository Participants (DPs) are intermediaries that facilitate the transfer of securities between investors and depositories, making it easier to buy and sell securities.",
+    "difficulty": "Medium",
+    "class": "Class 12",
+    "subject": "Business Studies",
+    "chapter": "Ch 10: Financial Markets"
+  },
+  {
+    "text": "What is the purpose of demat accounts?",
+    "options": [
+      "To increase the liquidity of securities",
+      "To reduce the risk of fraud in securities transactions",
+      "To facilitate the transfer of securities",
+      "To reduce the cost of maintaining physical securities"
+    ],
+    "correctAnswer": "To facilitate the transfer of securities",
+    "explanation": "Demat accounts allow investors to hold securities in electronic form, making it easier to transfer ownership and reducing the risk of physical securities being lost or damaged.",
+    "difficulty": "Medium",
+    "class": "Class 12",
+    "subject": "Business Studies",
+    "chapter": "Ch 10: Financial Markets"
+  },
+  {
+    "text": "What is the difference between a Public Issue and a Rights Issue?",
+    "options": [
+      "Public Issue is a private issue, while Rights Issue is a public issue",
+      "Public Issue is a public issue, while Rights Issue is a private issue",
+      "Public Issue is a short-term issue, while Rights Issue is a long-term issue",
+      "Public Issue is a long-term issue, while Rights Issue is a short-term issue"
+    ],
+    "correctAnswer": "Public Issue is a public issue, while Rights Issue is a private issue",
+    "explanation": "A Public Issue is a public issue where shares are sold to the general public, while a Rights Issue is a private issue where existing shareholders are given the option to purchase additional shares at a predetermined price.",
+    "difficulty": "Medium",
+    "class": "Class 12",
+    "subject": "Business Studies",
+    "chapter": "Ch 10: Financial Markets"
+  },
+  {
+    "text": "What is the purpose of SEBI's protective functions?",
+    "options": [
+      "To regulate the issue of securities",
+      "To maintain the integrity of the stock market",
+      "To protect the interests of investors",
+      "To provide a platform for trading securities"
+    ],
+    "correctAnswer": "To protect the interests of investors",
+    "explanation": "SEBI's protective functions include protecting the interests of investors by regulating the issue of securities, preventing insider trading, and ensuring that companies disclose accurate information to the public.",
+    "difficulty": "Medium",
+    "class": "Class 12",
+    "subject": "Business Studies",
+    "chapter": "Ch 10: Financial Markets"
+  }
+]

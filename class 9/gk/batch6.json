@@ -1,0 +1,327 @@
+[
+  {
+    "class": "Class 10",
+    "subject": "GK",
+    "difficulty": "EASY",
+    "text": "Who were the primary leaders of the Santhal Rebellion (Hool) of 1855 against British rule?",
+    "explanation": "Sidhu and Kanhu Murmu were the two brothers who led the Santhal rebellion in Jharkhand/Bihar against the oppressive zamindari and colonial systems.",
+    "options": [
+      { "text": "Birsa Munda and Gaya Munda", "isCorrect": false },
+      { "text": "Sidhu and Kanhu Murmu", "isCorrect": true },
+      { "text": "Alluri Sitarama Raju", "isCorrect": false },
+      { "text": "Tana Bhagat", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 10",
+    "subject": "GK",
+    "difficulty": "EASY",
+    "text": "Which is the smallest continent on Earth by land area?",
+    "explanation": "Australia is the smallest continent, often referred to as an island continent due to its isolation and size.",
+    "options": [
+      { "text": "Europe", "isCorrect": false },
+      { "text": "Australia", "isCorrect": true },
+      { "text": "South America", "isCorrect": false },
+      { "text": "Antarctica", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 10",
+    "subject": "GK",
+    "difficulty": "EASY",
+    "text": "On which date is National Science Day celebrated in India every year?",
+    "explanation": "National Science Day is celebrated on February 28 to commemorate the discovery of the Raman Effect by Sir C.V. Raman in 1928.",
+    "options": [
+      { "text": "February 28", "isCorrect": true },
+      { "text": "January 12", "isCorrect": false },
+      { "text": "September 5", "isCorrect": false },
+      { "text": "November 11", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 10",
+    "subject": "GK",
+    "difficulty": "EASY",
+    "text": "What is the capital city of Australia?",
+    "explanation": "Canberra is the federal capital of Australia, selected as a compromise between rival cities Sydney and Melbourne.",
+    "options": [
+      { "text": "Sydney", "isCorrect": false },
+      { "text": "Canberra", "isCorrect": true },
+      { "text": "Melbourne", "isCorrect": false },
+      { "text": "Brisbane", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 10",
+    "subject": "GK",
+    "difficulty": "EASY",
+    "text": "Which chemical compound is commonly known as 'Laughing Gas'?",
+    "explanation": "Nitrous Oxide ($N_2O$) is known as laughing gas because inhaling it produces euphoric effects and mild dissociation.",
+    "options": [
+      { "text": "Nitric Oxide", "isCorrect": false },
+      { "text": "Nitrous Oxide", "isCorrect": true },
+      { "text": "Nitrogen Dioxide", "isCorrect": false },
+      { "text": "Sulfur Dioxide", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 10",
+    "subject": "GK",
+    "difficulty": "EASY",
+    "text": "Who was the first Indian woman to successfully scale Mount Everest?",
+    "explanation": "Bachendri Pal reached the summit of Mount Everest on May 23, 1984, becoming the first Indian woman to do so.",
+    "options": [
+      { "text": "Santosh Yadav", "isCorrect": false },
+      { "text": "Bachendri Pal", "isCorrect": true },
+      { "text": "Arunima Sinha", "isCorrect": false },
+      { "text": "Premlata Agarwal", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 10",
+    "subject": "GK",
+    "difficulty": "MEDIUM",
+    "text": "Which tribal leader led the famous 'Ulgulan' (Great Tumult) rebellion against the British in the late 1890s?",
+    "explanation": "Birsa Munda mobilized the Munda tribe in the Ranchi region to resist the land-grabbing policies of British officers and landlords.",
+    "options": [
+      { "text": "Kanhu Murmu", "isCorrect": false },
+      { "text": "Birsa Munda", "isCorrect": true },
+      { "text": "Tantya Bhil", "isCorrect": false },
+      { "text": "Kumaram Bheem", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 10",
+    "subject": "GK",
+    "difficulty": "MEDIUM",
+    "text": "In banking terminology, what does the term 'Repo Rate' represent?",
+    "explanation": "Repo Rate is the interest rate at which the Reserve Bank of India (RBI) lends short-term money to commercial banks.",
+    "options": [
+      { "text": "The rate at which commercial banks deposit funds with the RBI", "isCorrect": false },
+      { "text": "The rate at which the RBI lends money to commercial banks", "isCorrect": true },
+      { "text": "The rate of interest offered to retail depositors", "isCorrect": false },
+      { "text": "The rate at which banks exchange foreign currency", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 10",
+    "subject": "GK",
+    "difficulty": "MEDIUM",
+    "text": "Which Indian state is the largest producer of Coffee in the country?",
+    "explanation": "Karnataka accounts for over 70% of the total coffee produced in India, primarily in the Kodagu, Chikmagalur, and Hassan districts.",
+    "options": [
+      { "text": "Kerala", "isCorrect": false },
+      { "text": "Karnataka", "isCorrect": true },
+      { "text": "Tamil Nadu", "isCorrect": false },
+      { "text": "Assam", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 10",
+    "subject": "GK",
+    "difficulty": "MEDIUM",
+    "text": "The Right to Education (RTE) was inserted as a Fundamental Right under which Article of the Indian Constitution?",
+    "explanation": "The 86th Constitutional Amendment Act (2002) inserted Article 21A, making free and compulsory education for children aged 6 to 14 a Fundamental Right.",
+    "options": [
+      { "text": "Article 19A", "isCorrect": false },
+      { "text": "Article 21A", "isCorrect": true },
+      { "text": "Article 45", "isCorrect": false },
+      { "text": "Article 51A", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 10",
+    "subject": "GK",
+    "difficulty": "MEDIUM",
+    "text": "Which is the oldest operational oil refinery in India, established in 1901?",
+    "explanation": "Digboi Oil Refinery in Assam is the oldest oil refinery in India, established by the Assam Oil Company.",
+    "options": [
+      { "text": "Trombay Refinery", "isCorrect": false },
+      { "text": "Digboi Refinery", "isCorrect": true },
+      { "text": "Koyali Refinery", "isCorrect": false },
+      { "text": "Mathura Refinery", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 10",
+    "subject": "GK",
+    "difficulty": "MEDIUM",
+    "text": "Where is the Kudankulam Nuclear Power Plant, built with Russian assistance, located?",
+    "explanation": "Kudankulam Nuclear Power Plant is located in the Tirunelveli district of Tamil Nadu.",
+    "options": [
+      { "text": "Maharashtra", "isCorrect": false },
+      { "text": "Tamil Nadu", "isCorrect": true },
+      { "text": "Karnataka", "isCorrect": false },
+      { "text": "Gujarat", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 10",
+    "subject": "GK",
+    "difficulty": "MEDIUM",
+    "text": "Which major warm ocean current flows along the east coast of North America into the Atlantic Ocean?",
+    "explanation": "The Gulf Stream is a powerful, warm ocean current that originates in the Gulf of Mexico and flows northwards, influencing the climate of Western Europe.",
+    "options": [
+      { "text": "Labrador Current", "isCorrect": false },
+      { "text": "Gulf Stream", "isCorrect": true },
+      { "text": "Canary Current", "isCorrect": false },
+      { "text": "California Current", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 10",
+    "subject": "GK",
+    "difficulty": "MEDIUM",
+    "text": "Under which article of the Indian Constitution can the President declare a Financial Emergency?",
+    "explanation": "Article 360 empowers the President to declare a Financial Emergency if the financial stability or credit of India is threatened.",
+    "options": [
+      { "text": "Article 356", "isCorrect": false },
+      { "text": "Article 360", "isCorrect": true },
+      { "text": "Article 352", "isCorrect": false },
+      { "text": "Article 368", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 10",
+    "subject": "GK",
+    "difficulty": "MEDIUM",
+    "text": "Who was appointed as the first Governor-General of Bengal under the Regulating Act of 1773?",
+    "explanation": "Warren Hastings became the first Governor-General of Bengal, governing from 1773 to 1785.",
+    "options": [
+      { "text": "Lord Cornwallis", "isCorrect": false },
+      { "text": "Warren Hastings", "isCorrect": true },
+      { "text": "Lord Robert Clive", "isCorrect": false },
+      { "text": "Lord William Bentinck", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 10",
+    "subject": "GK",
+    "difficulty": "HARD",
+    "text": "In which year did the historic Indigo Revolt (Nil Bidroho) of peasant agitation erupt in Bengal?",
+    "explanation": "The Indigo Revolt took place in 1859-60, where peasants in Bengal refused to grow indigo under the oppressive conditions imposed by British planters.",
+    "options": [
+      { "text": "1857", "isCorrect": false },
+      { "text": "1859", "isCorrect": true },
+      { "text": "1885", "isCorrect": false },
+      { "text": "1917", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 10",
+    "subject": "GK",
+    "difficulty": "HARD",
+    "text": "What is the primary difference between Cash Reserve Ratio (CRR) and Statutory Liquidity Ratio (SLR) in India?",
+    "explanation": "CRR requires commercial banks to keep a percentage of their deposits as cash with the RBI; SLR requires them to maintain liquid assets (gold, government securities) with themselves.",
+    "options": [
+      { "text": "SLR is kept with the RBI; CRR is kept by commercial banks themselves", "isCorrect": false },
+      { "text": "CRR is maintained in cash with the RBI; SLR is maintained by banks themselves in liquid assets", "isCorrect": true },
+      { "text": "CRR applies only to foreign banks; SLR applies to nationalized banks", "isCorrect": false },
+      { "text": "SLR is regulated by the Finance Ministry; CRR by the RBI", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 10",
+    "subject": "GK",
+    "difficulty": "HARD",
+    "text": "Which Indian state is the largest producer of Sugarcane?",
+    "explanation": "Uttar Pradesh is the leading sugarcane-producing state in India, followed by Maharashtra and Karnataka.",
+    "options": [
+      { "text": "Maharashtra", "isCorrect": false },
+      { "text": "Uttar Pradesh", "isCorrect": true },
+      { "text": "Punjab", "isCorrect": false },
+      { "text": "Tamil Nadu", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 10",
+    "subject": "GK",
+    "difficulty": "HARD",
+    "text": "How do warm and cold ocean currents differ in terms of their flow direction?",
+    "explanation": "Warm ocean currents originate near the equator and flow towards the poles; cold ocean currents originate near the poles and flow towards the equator.",
+    "options": [
+      { "text": "Warm currents flow from poles to equator; cold currents flow from equator to poles", "isCorrect": false },
+      { "text": "Warm currents flow from equator to poles; cold currents flow from poles to equator", "isCorrect": true },
+      { "text": "Warm currents flow from east to west; cold currents flow from west to east", "isCorrect": false },
+      { "text": "Cold currents flow only in deep oceans; warm currents only on coastlines", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 10",
+    "subject": "GK",
+    "difficulty": "HARD",
+    "text": "In which city is the National Metallurgical Laboratory (NML) of India located?",
+    "explanation": "NML, a national laboratory under CSIR, was established in 1950 in Jamshedpur, Jharkhand, focusing on minerals and metals research.",
+    "options": [
+      { "text": "Bhilai", "isCorrect": false },
+      { "text": "Jamshedpur", "isCorrect": true },
+      { "text": "Kolkata", "isCorrect": false },
+      { "text": "Rourkela", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 10",
+    "subject": "GK",
+    "difficulty": "HARD",
+    "text": "Who was the first Indian citizen to win the prestigious Man Booker Prize for Fiction?",
+    "explanation": "Arundhati Roy was the first Indian to win the Booker Prize in 1997 for her debut novel 'The God of Small Things'.",
+    "options": [
+      { "text": "Salman Rushdie", "isCorrect": false },
+      { "text": "Arundhati Roy", "isCorrect": true },
+      { "text": "Kiran Desai", "isCorrect": false },
+      { "text": "Aravind Adiga", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 10",
+    "subject": "GK",
+    "difficulty": "VERY HARD",
+    "text": "Which British India legislation introduced the system of 'Dyarchy' (dual government) in the provinces for the first time?",
+    "explanation": "The Government of India Act 1919 (Montagu-Chelmsford Reforms) introduced dyarchy, dividing provincial subjects into Transferred and Reserved.",
+    "options": [
+      { "text": "Indian Councils Act 1892", "isCorrect": false },
+      { "text": "Government of India Act 1919", "isCorrect": true },
+      { "text": "Indian Councils Act 1909", "isCorrect": false },
+      { "text": "Government of India Act 1935", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 10",
+    "subject": "GK",
+    "difficulty": "VERY HARD",
+    "text": "The 'Kuroshio Current' is a major ocean current located in which ocean?",
+    "explanation": "The Kuroshio Current, also known as the Black Current, is a warm north-flowing ocean current in the western Pacific Ocean.",
+    "options": [
+      { "text": "North Atlantic Ocean", "isCorrect": false },
+      { "text": "North Pacific Ocean", "isCorrect": true },
+      { "text": "Indian Ocean", "isCorrect": false },
+      { "text": "Southern Ocean", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 10",
+    "subject": "GK",
+    "difficulty": "VERY HARD",
+    "text": "In public finance, what does the term 'Deficit Financing' describe?",
+    "explanation": "Deficit financing is a practice where the government borrows or prints additional money to fund the gap between budget expenditure and revenue.",
+    "options": [
+      { "text": "Reducing government expenditure to match revenue limits", "isCorrect": false },
+      { "text": "Borrowing or printing currency to cover the gap between public expenditure and revenue", "isCorrect": true },
+      { "text": "Imposing special taxes on corporate profits", "isCorrect": false },
+      { "text": "Selling government bonds exclusively to foreign central banks", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 10",
+    "subject": "GK",
+    "difficulty": "VERY HARD",
+    "text": "Which Indian nuclear power station has the highest total installed capacity?",
+    "explanation": "The Kudankulam Nuclear Power Plant has an active capacity of 2,000 MW (two VVER-1000 reactors), designed to expand up to 6,000 MW.",
+    "options": [
+      { "text": "Tarapur Atomic Power Station", "isCorrect": false },
+      { "text": "Kudankulam Nuclear Power Plant", "isCorrect": true },
+      { "text": "Rajasthan Atomic Power Station", "isCorrect": false },
+      { "text": "Kaiga Generating Station", "isCorrect": false }
+    ]
+  }
+]

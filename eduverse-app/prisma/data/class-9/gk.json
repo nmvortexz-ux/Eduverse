@@ -1,0 +1,132 @@
+[
+  {
+    "class": "Class 9",
+    "subject": "GK",
+    "difficulty": "Easy",
+    "text": "Who is known as the Father of the Indian Constitution?",
+    "explanation": "Dr. B.R. Ambedkar was the chairman of the drafting committee and is widely recognized as the Father of the Indian Constitution.",
+    "options": [
+      { "text": "Jawaharlal Nehru", "isCorrect": false },
+      { "text": "Mahatma Gandhi", "isCorrect": false },
+      { "text": "Dr. B.R. Ambedkar", "isCorrect": true },
+      { "text": "Sardar Vallabhbhai Patel", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 9",
+    "subject": "GK",
+    "difficulty": "Medium",
+    "text": "Which planet is known as the Red Planet?",
+    "explanation": "Mars is called the Red Planet because of the iron oxide (rust) on its surface, which gives it a reddish appearance.",
+    "options": [
+      { "text": "Venus", "isCorrect": false },
+      { "text": "Jupiter", "isCorrect": false },
+      { "text": "Mars", "isCorrect": true },
+      { "text": "Saturn", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 9",
+    "subject": "GK",
+    "difficulty": "Easy",
+    "text": "What is the capital city of Japan?",
+    "explanation": "Tokyo is the capital and largest city of Japan.",
+    "options": [
+      { "text": "Kyoto", "isCorrect": false },
+      { "text": "Osaka", "isCorrect": false },
+      { "text": "Tokyo", "isCorrect": true },
+      { "text": "Seoul", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 9",
+    "subject": "GK",
+    "difficulty": "Hard",
+    "text": "Which is the largest desert in the world (including polar regions)?",
+    "explanation": "The Antarctic Desert is the largest desert in the world. Deserts are defined by low precipitation, not just sand and heat.",
+    "options": [
+      { "text": "Sahara Desert", "isCorrect": false },
+      { "text": "Gobi Desert", "isCorrect": false },
+      { "text": "Arabian Desert", "isCorrect": false },
+      { "text": "Antarctic Desert", "isCorrect": true }
+    ]
+  },
+  {
+    "class": "Class 9",
+    "subject": "GK",
+    "difficulty": "Medium",
+    "text": "Who invented the telephone?",
+    "explanation": "Alexander Graham Bell is credited with patenting the first practical telephone.",
+    "options": [
+      { "text": "Thomas Edison", "isCorrect": false },
+      { "text": "Nikola Tesla", "isCorrect": false },
+      { "text": "Alexander Graham Bell", "isCorrect": true },
+      { "text": "Guglielmo Marconi", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 9",
+    "subject": "GK",
+    "difficulty": "Easy",
+    "text": "Which is the longest river in the world?",
+    "explanation": "The Nile River in Africa is traditionally considered the longest river in the world.",
+    "options": [
+      { "text": "Amazon", "isCorrect": false },
+      { "text": "Nile", "isCorrect": true },
+      { "text": "Yangtze", "isCorrect": false },
+      { "text": "Mississippi", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 9",
+    "subject": "GK",
+    "difficulty": "Hard",
+    "text": "In which year did the Titanic sink?",
+    "explanation": "The RMS Titanic sank on April 15, 1912, after striking an iceberg during its maiden voyage.",
+    "options": [
+      { "text": "1910", "isCorrect": false },
+      { "text": "1912", "isCorrect": true },
+      { "text": "1915", "isCorrect": false },
+      { "text": "1908", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 9",
+    "subject": "GK",
+    "difficulty": "Medium",
+    "text": "What is the chemical symbol for Gold?",
+    "explanation": "The symbol 'Au' comes from the Latin word 'aurum', meaning gold.",
+    "options": [
+      { "text": "Ag", "isCorrect": false },
+      { "text": "Au", "isCorrect": true },
+      { "text": "Go", "isCorrect": false },
+      { "text": "Gd", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 9",
+    "subject": "GK",
+    "difficulty": "Easy",
+    "text": "How many continents are there in the world?",
+    "explanation": "There are 7 continents: Asia, Africa, North America, South America, Antarctica, Europe, and Australia.",
+    "options": [
+      { "text": "5", "isCorrect": false },
+      { "text": "6", "isCorrect": false },
+      { "text": "7", "isCorrect": true },
+      { "text": "8", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 9",
+    "subject": "GK",
+    "difficulty": "Medium",
+    "text": "Who wrote the play 'Romeo and Juliet'?",
+    "explanation": "William Shakespeare wrote the famous tragedy 'Romeo and Juliet' early in his career.",
+    "options": [
+      { "text": "Charles Dickens", "isCorrect": false },
+      { "text": "William Shakespeare", "isCorrect": true },
+      { "text": "Jane Austen", "isCorrect": false },
+      { "text": "Mark Twain", "isCorrect": false }
+    ]
+  }
+]

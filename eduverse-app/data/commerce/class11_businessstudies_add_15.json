@@ -1,0 +1,152 @@
+[
+  {
+    "text": "What is the main difference between equity shares and debentures?",
+    "options": [
+      "Equity shares are secured, while debentures are unsecured.",
+      "Equity shares are unsecured, while debentures are secured.",
+      "Equity shares are convertible, while debentures are non-convertible.",
+      "Equity shares are non-convertible, while debentures are convertible."
+    ],
+    "correctAnswer": "Equity shares are unsecured, while debentures are secured.",
+    "explanation": "Equity shares are unsecured, meaning that the investor's claim on assets is not secured by any specific asset. Debentures, on the other hand, are secured, meaning that the investor's claim on assets is secured by a specific asset or a charge on the company's assets.",
+    "difficulty": "Easy",
+    "class": "Class 11",
+    "subject": "Business Studies",
+    "chapter": "Ch 7: Sources of Business Finance"
+  },
+  {
+    "text": "What is the characteristic of cumulative preference shares?",
+    "options": [
+      "They do not carry any voting rights.",
+      "They carry voting rights.",
+      "They have a right to receive a fixed dividend.",
+      "They have a right to receive a variable dividend."
+    ],
+    "correctAnswer": "They have a right to receive a fixed dividend.",
+    "explanation": "Cumulative preference shares have a right to receive a fixed dividend, which is paid before the dividend on equity shares. If the company is unable to pay the dividend in a particular year, it can be carried forward to the next year.",
+    "difficulty": "Medium",
+    "class": "Class 11",
+    "subject": "Business Studies",
+    "chapter": "Ch 7: Sources of Business Finance"
+  },
+  {
+    "text": "What is the difference between recourse and non-recourse factoring?",
+    "options": [
+      "Recourse factoring involves the sale of accounts receivable, while non-recourse factoring involves the sale of inventory.",
+      "Recourse factoring involves the sale of inventory, while non-recourse factoring involves the sale of accounts receivable.",
+      "Recourse factoring involves the sale of accounts receivable with the seller bearing the risk of bad debts, while non-recourse factoring involves the sale of accounts receivable with the buyer bearing the risk of bad debts.",
+      "Recourse factoring involves the sale of accounts receivable with the buyer bearing the risk of bad debts, while non-recourse factoring involves the sale of accounts receivable with the seller bearing the risk of bad debts."
+    ],
+    "correctAnswer": "Recourse factoring involves the sale of accounts receivable with the seller bearing the risk of bad debts, while non-recourse factoring involves the sale of accounts receivable with the buyer bearing the risk of bad debts.",
+    "explanation": "Recourse factoring involves the sale of accounts receivable with the seller bearing the risk of bad debts. In non-recourse factoring, the buyer bears the risk of bad debts.",
+    "difficulty": "Medium",
+    "class": "Class 11",
+    "subject": "Business Studies",
+    "chapter": "Ch 7: Sources of Business Finance"
+  },
+  {
+    "text": "What is lease financing?",
+    "options": [
+      "It is a type of loan where the borrower pays interest on the loan amount.",
+      "It is a type of loan where the borrower pays a fixed amount each month.",
+      "It is a type of financing where the borrower uses the asset for a specified period and pays a fixed rent.",
+      "It is a type of financing where the borrower buys the asset and pays a fixed amount each month."
+    ],
+    "correctAnswer": "It is a type of financing where the borrower uses the asset for a specified period and pays a fixed rent.",
+    "explanation": "Lease financing is a type of financing where the borrower uses the asset for a specified period and pays a fixed rent. The lessor retains ownership of the asset, and the lessee has the right to use the asset for the specified period.",
+    "difficulty": "Easy",
+    "class": "Class 11",
+    "subject": "Business Studies",
+    "chapter": "Ch 7: Sources of Business Finance"
+  },
+  {
+    "text": "What is the main advantage of inter-corporate deposits (ICD)?",
+    "options": [
+      "It provides a low-cost source of finance.",
+      "It provides a high-cost source of finance.",
+      "It provides a flexible source of finance.",
+      "It provides a long-term source of finance."
+    ],
+    "correctAnswer": "It provides a low-cost source of finance.",
+    "explanation": "ICD is a low-cost source of finance because it involves borrowing from other companies at a lower interest rate compared to borrowing from banks or other financial institutions.",
+    "difficulty": "Easy",
+    "class": "Class 11",
+    "subject": "Business Studies",
+    "chapter": "Ch 7: Sources of Business Finance"
+  },
+  {
+    "text": "What is the main disadvantage of debentures?",
+    "options": [
+      "They are a secured source of finance.",
+      "They are an unsecured source of finance.",
+      "They are a long-term source of finance.",
+      "They are a high-cost source of finance."
+    ],
+    "correctAnswer": "They are an unsecured source of finance.",
+    "explanation": "Debentures are an unsecured source of finance, meaning that the investor's claim on assets is not secured by any specific asset.",
+    "difficulty": "Medium",
+    "class": "Class 11",
+    "subject": "Business Studies",
+    "chapter": "Ch 7: Sources of Business Finance"
+  },
+  {
+    "text": "What is the difference between a mortgage and a debenture?",
+    "options": [
+      "A mortgage is a secured loan, while a debenture is an unsecured loan.",
+      "A mortgage is an unsecured loan, while a debenture is a secured loan.",
+      "A mortgage is a long-term loan, while a debenture is a short-term loan.",
+      "A mortgage is a short-term loan, while a debenture is a long-term loan."
+    ],
+    "correctAnswer": "A mortgage is a secured loan, while a debenture is an unsecured loan.",
+    "explanation": "A mortgage is a secured loan, meaning that the lender has a charge on a specific asset. A debenture, on the other hand, is an unsecured loan, meaning that the lender does not have a charge on any specific asset.",
+    "difficulty": "Medium",
+    "class": "Class 11",
+    "subject": "Business Studies",
+    "chapter": "Ch 7: Sources of Business Finance"
+  },
+  {
+    "text": "What is the main advantage of lease financing?",
+    "options": [
+      "It provides a low-cost source of finance.",
+      "It provides a high-cost source of finance.",
+      "It provides a flexible source of finance.",
+      "It provides a long-term source of finance."
+    ],
+    "correctAnswer": "It provides a flexible source of finance.",
+    "explanation": "Lease financing provides a flexible source of finance because the lessee can choose the length of the lease and the amount of rent to pay.",
+    "difficulty": "Easy",
+    "class": "Class 11",
+    "subject": "Business Studies",
+    "chapter": "Ch 7: Sources of Business Finance"
+  },
+  {
+    "text": "What is the main disadvantage of factoring?",
+    "options": [
+      "It involves the sale of accounts receivable at a discount.",
+      "It involves the sale of inventory at a discount.",
+      "It involves the sale of accounts receivable with the seller bearing the risk of bad debts.",
+      "It involves the sale of accounts receivable with the buyer bearing the risk of bad debts."
+    ],
+    "correctAnswer": "It involves the sale of accounts receivable with the seller bearing the risk of bad debts.",
+    "explanation": "Factoring involves the sale of accounts receivable with the seller bearing the risk of bad debts. This means that the seller may lose money if the buyer defaults on payment.",
+    "difficulty": "Medium",
+    "class": "Class 11",
+    "subject": "Business Studies",
+    "chapter": "Ch 7: Sources of Business Finance"
+  },
+  {
+    "text": "What is the main advantage of inter-corporate deposits (ICD)?",
+    "options": [
+      "It provides a low-cost source of finance.",
+      "It provides a high-cost source of finance.",
+      "It provides a flexible source of finance.",
+      "It provides a long-term source of finance."
+    ],
+    "correctAnswer": "It provides a low-cost source of finance.",
+    "explanation": "ICD is a low-cost source of finance because it involves borrowing from other companies at a lower interest rate compared to borrowing from banks or other financial institutions.",
+    "difficulty": "Easy",
+    "class": "Class 11",
+    "subject": "Business Studies",
+    "chapter": "Ch 7: Sources of Business Finance"
+  }
+]

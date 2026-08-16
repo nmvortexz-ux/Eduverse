@@ -1,0 +1,167 @@
+[
+  {
+    "text": "What is the primary purpose of the controlling process in an organization?",
+    "options": [
+      "To ensure that the organization achieves its goals and objectives.",
+      "To make decisions about the organization's future.",
+      "To evaluate the performance of the organization.",
+      "To motivate employees to work harder."
+    ],
+    "correctAnswer": "To ensure that the organization achieves its goals and objectives.",
+    "explanation": "Controlling is the process of ensuring that the organization achieves its goals and objectives. It involves comparing actual performance with planned performance and taking corrective action when necessary. This helps to ensure that the organization stays on track and achieves its desired outcomes.",
+    "difficulty": "Easy",
+    "class": "Class 12",
+    "subject": "Business Studies",
+    "chapter": "Ch 8: Controlling"
+  },
+  {
+    "text": "What is Critical Point Control (CPC)?",
+    "options": [
+      "A method of controlling where the entire organization is controlled.",
+      "A method of controlling where only critical points are controlled.",
+      "A method of controlling where no points are controlled.",
+      "A method of controlling where all points are controlled."
+    ],
+    "correctAnswer": "A method of controlling where only critical points are controlled.",
+    "explanation": "Critical Point Control (CPC) is a method of controlling where only critical points are controlled. This involves identifying the most important points in the organization and controlling them closely. This helps to ensure that the organization achieves its goals and objectives.",
+    "difficulty": "Medium",
+    "class": "Class 12",
+    "subject": "Business Studies",
+    "chapter": "Ch 8: Controlling"
+  },
+  {
+    "text": "What is Management by Exception (MBE)?",
+    "options": [
+      "A method of controlling where all points are controlled.",
+      "A method of controlling where only critical points are controlled.",
+      "A method of controlling where only exceptions are controlled.",
+      "A method of controlling where no points are controlled."
+    ],
+    "correctAnswer": "A method of controlling where only exceptions are controlled.",
+    "explanation": "Management by Exception (MBE) is a method of controlling where only exceptions are controlled. This involves identifying areas where performance is deviating from planned performance and taking corrective action. This helps to ensure that the organization stays on track and achieves its desired outcomes.",
+    "difficulty": "Medium",
+    "class": "Class 12",
+    "subject": "Business Studies",
+    "chapter": "Ch 8: Controlling"
+  },
+  {
+    "text": "What is the relationship between planning and controlling?",
+    "options": [
+      "Planning is a part of controlling.",
+      "Controlling is a part of planning.",
+      "Planning and controlling are two separate processes.",
+      "Planning and controlling are interdependent processes."
+    ],
+    "correctAnswer": "Planning and controlling are interdependent processes.",
+    "explanation": "Planning and controlling are interdependent processes. Planning involves setting goals and objectives, while controlling involves ensuring that the organization achieves those goals and objectives. Controlling is based on the plans that have been set, and it involves comparing actual performance with planned performance.",
+    "difficulty": "Hard",
+    "class": "Class 12",
+    "subject": "Business Studies",
+    "chapter": "Ch 8: Controlling"
+  },
+  {
+    "text": "What is the purpose of variance analysis in controlling?",
+    "options": [
+      "To identify areas where performance is deviating from planned performance.",
+      "To identify areas where performance is better than planned performance.",
+      "To identify areas where performance is worse than planned performance.",
+      "To identify areas where performance is the same as planned performance."
+    ],
+    "correctAnswer": "To identify areas where performance is deviating from planned performance.",
+    "explanation": "Variance analysis is a technique used in controlling to identify areas where performance is deviating from planned performance. This involves comparing actual performance with planned performance and identifying the differences. This helps to identify areas where corrective action is needed.",
+    "difficulty": "Medium",
+    "class": "Class 12",
+    "subject": "Business Studies",
+    "chapter": "Ch 8: Controlling"
+  },
+  {
+    "text": "What is the difference between a standard cost and a budgeted cost?",
+    "options": [
+      "A standard cost is a historical cost, while a budgeted cost is a future cost.",
+      "A standard cost is a future cost, while a budgeted cost is a historical cost.",
+      "A standard cost is a cost that has been incurred, while a budgeted cost is a cost that is expected to be incurred.",
+      "A standard cost is a cost that is expected to be incurred, while a budgeted cost is a cost that has been incurred."
+    ],
+    "correctAnswer": "A standard cost is a cost that has been incurred, while a budgeted cost is a cost that is expected to be incurred.",
+    "explanation": "A standard cost is a cost that has been incurred in the past, while a budgeted cost is a cost that is expected to be incurred in the future. Standard costs are used to calculate variances, while budgeted costs are used to set targets.",
+    "difficulty": "Hard",
+    "class": "Class 12",
+    "subject": "Business Studies",
+    "chapter": "Ch 8: Controlling"
+  },
+  {
+    "text": "What is the purpose of a control account?",
+    "options": [
+      "To record all transactions of the organization.",
+      "To record all assets of the organization.",
+      "To record all liabilities of the organization.",
+      "To record all revenues and expenses of the organization."
+    ],
+    "correctAnswer": "To record all revenues and expenses of the organization.",
+    "explanation": "A control account is a ledger account that records all revenues and expenses of the organization. It is used to ensure that all transactions are properly recorded and accounted for.",
+    "difficulty": "Easy",
+    "class": "Class 12",
+    "subject": "Business Studies",
+    "chapter": "Ch 8: Controlling"
+  },
+  {
+    "text": "What is the difference between a budget and a forecast?",
+    "options": [
+      "A budget is a plan for the future, while a forecast is a plan for the past.",
+      "A budget is a plan for the past, while a forecast is a plan for the future.",
+      "A budget is a plan for the future, while a forecast is a prediction of future events.",
+      "A budget is a prediction of future events, while a forecast is a plan for the future."
+    ],
+    "correctAnswer": "A budget is a plan for the future, while a forecast is a prediction of future events.",
+    "explanation": "A budget is a plan for the future, while a forecast is a prediction of future events. A budget is used to set targets and allocate resources, while a forecast is used to predict future outcomes.",
+    "difficulty": "Hard",
+    "class": "Class 12",
+    "subject": "Business Studies",
+    "chapter": "Ch 8: Controlling"
+  },
+  {
+    "text": "What is the purpose of a variance report?",
+    "options": [
+      "To identify areas where performance is deviating from planned performance.",
+      "To identify areas where performance is better than planned performance.",
+      "To identify areas where performance is worse than planned performance.",
+      "To identify areas where performance is the same as planned performance."
+    ],
+    "correctAnswer": "To identify areas where performance is deviating from planned performance.",
+    "explanation": "A variance report is a report that identifies areas where performance is deviating from planned performance. It is used to identify areas where corrective action is needed.",
+    "difficulty": "Medium",
+    "class": "Class 12",
+    "subject": "Business Studies",
+    "chapter": "Ch 8: Controlling"
+  },
+  {
+    "text": "What is the difference between a standard deviation and a variance?",
+    "options": [
+      "A standard deviation is a measure of dispersion, while a variance is a measure of central tendency.",
+      "A standard deviation is a measure of central tendency, while a variance is a measure of dispersion.",
+      "A standard deviation is a measure of dispersion, while a variance is a measure of central tendency.",
+      "A standard deviation is a measure of central tendency, while a variance is a measure of dispersion."
+    ],
+    "correctAnswer": "A standard deviation is a measure of dispersion, while a variance is a measure of dispersion.",
+    "explanation": "A standard deviation is a measure of dispersion, while a variance is a measure of dispersion. A standard deviation is the square root of the variance.",
+    "difficulty": "Hard",
+    "class": "Class 12",
+    "subject": "Business Studies",
+    "chapter": "Ch 8: Controlling"
+  },
+  {
+    "text": "What is the purpose of a control chart?",
+    "options": [
+      "To identify areas where performance is deviating from planned performance.",
+      "To identify areas where performance is better than planned performance.",
+      "To identify areas where performance is worse than planned performance.",
+      "To identify areas where performance is the same as planned performance."
+    ],
+    "correctAnswer": "To identify areas where performance is deviating from planned performance.",
+    "explanation": "A control chart is a chart that is used to identify areas where performance is deviating from planned performance. It is used to monitor performance over time and identify areas where corrective action is needed.",
+    "difficulty": "Medium",
+    "class": "Class 12",
+    "subject": "Business Studies",
+    "chapter": "Ch 8: Controlling"
+  }
+]

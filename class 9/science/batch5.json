@@ -1,0 +1,327 @@
+[
+  {
+    "class": "Class 9",
+    "subject": "Science",
+    "difficulty": "EASY",
+    "text": "What is the boiling point of pure water on the Kelvin scale?",
+    "explanation": "Boiling point of water is $100^\\circ\\text{C}$. In Kelvin, $T = 100 + 273 = 373\\text{ K}$.",
+    "options": [
+      { "text": "$273\\text{ K}$", "isCorrect": false },
+      { "text": "$373\\text{ K}$", "isCorrect": true },
+      { "text": "$0\\text{ K}$", "isCorrect": false },
+      { "text": "$100\\text{ K}$", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 9",
+    "subject": "Science",
+    "difficulty": "EASY",
+    "text": "Which cellular structure contains the hereditary information (DNA) of the cell?",
+    "explanation": "The nucleus contains chromosomes which are composed of DNA and proteins, carrying genetic information.",
+    "options": [
+      { "text": "Lysosome", "isCorrect": false },
+      { "text": "Nucleus", "isCorrect": true },
+      { "text": "Cytoplasm", "isCorrect": false },
+      { "text": "Mitochondria", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 9",
+    "subject": "Science",
+    "difficulty": "EASY",
+    "text": "Sound waves propagating through air are classified as:",
+    "explanation": "Sound waves in air are longitudinal waves because the particles of the medium vibrate parallel to the direction of wave propagation.",
+    "options": [
+      { "text": "Transverse waves", "isCorrect": false },
+      { "text": "Longitudinal waves", "isCorrect": true },
+      { "text": "Electromagnetic waves", "isCorrect": false },
+      { "text": "Matter waves", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 9",
+    "subject": "Science",
+    "difficulty": "EASY",
+    "text": "Which of the following is a pure substance?",
+    "explanation": "Iron is an element, which is a pure substance. Air, milk, and soil are mixtures.",
+    "options": [
+      { "text": "Milk", "isCorrect": false },
+      { "text": "Iron", "isCorrect": true },
+      { "text": "Air", "isCorrect": false },
+      { "text": "Soil", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 9",
+    "subject": "Science",
+    "difficulty": "EASY",
+    "text": "Which complex plant tissue is responsible for conducting water and minerals from the soil?",
+    "explanation": "Xylem is the vascular tissue that transports water and dissolved minerals upward from roots to leaves.",
+    "options": [
+      { "text": "Phloem", "isCorrect": false },
+      { "text": "Xylem", "isCorrect": true },
+      { "text": "Collenchyma", "isCorrect": false },
+      { "text": "Parenchyma", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 9",
+    "subject": "Science",
+    "difficulty": "EASY",
+    "text": "What is the typical range of audible sound frequencies for human ears?",
+    "explanation": "The human ear can hear sounds in the frequency range of $20\\text{ Hz}$ to $20000\\text{ Hz}$ (or $20\\text{ kHz}$).",
+    "options": [
+      { "text": "Below $20\\text{ Hz}$ only", "isCorrect": false },
+      { "text": "$20\\text{ Hz}$ to $20000\\text{ Hz}$", "isCorrect": true },
+      { "text": "Above $20000\\text{ Hz}$ only", "isCorrect": false },
+      { "text": "$200\\text{ Hz}$ to $2000\\text{ Hz}$", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 9",
+    "subject": "Science",
+    "difficulty": "MEDIUM",
+    "text": "What is the process of direct conversion of a gas into a solid phase without turning into a liquid called?",
+    "explanation": "Deposition is the phase transition in which gas transforms directly into solid (e.g., frost formation).",
+    "options": [
+      { "text": "Sublimation", "isCorrect": false },
+      { "text": "Deposition", "isCorrect": true },
+      { "text": "Condensation", "isCorrect": false },
+      { "text": "Solidification", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 9",
+    "subject": "Science",
+    "difficulty": "MEDIUM",
+    "text": "Which connective tissue has widely spaced cells suspended in a solid matrix composed of proteins and sugars, forming structures like the external ear?",
+    "explanation": "Cartilage is a specialized connective tissue with solid but elastic matrix containing chondrocytes.",
+    "options": [
+      { "text": "Bone", "isCorrect": false },
+      { "text": "Cartilage", "isCorrect": true },
+      { "text": "Areolar tissue", "isCorrect": false },
+      { "text": "Adipose tissue", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 9",
+    "subject": "Science",
+    "difficulty": "MEDIUM",
+    "text": "Write the relationship between wave speed ($v$), frequency ($\\nu$), and wavelength ($\\lambda$).",
+    "explanation": "Wave speed is the product of frequency and wavelength: $v = \\nu \\lambda$.",
+    "options": [
+      { "text": "$v = \\frac{\\lambda}{\\nu}$", "isCorrect": false },
+      { "text": "$v = \\nu \\lambda$", "isCorrect": true },
+      { "text": "$v = \\frac{\\nu}{\\lambda}$", "isCorrect": false },
+      { "text": "$v = \\nu^2 \\lambda$", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 9",
+    "subject": "Science",
+    "difficulty": "MEDIUM",
+    "text": "Which separation method is used to separate two miscible liquids with a boiling point difference of less than $25\\text{ K}$?",
+    "explanation": "Fractional distillation is used when miscible liquids have boiling points close to each other, using a fractionating column.",
+    "options": [
+      { "text": "Simple distillation", "isCorrect": false },
+      { "text": "Fractional distillation", "isCorrect": true },
+      { "text": "Separating funnel", "isCorrect": false },
+      { "text": "Crystallization", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 9",
+    "subject": "Science",
+    "difficulty": "MEDIUM",
+    "text": "Which cell organelle acts as the packaging and dispatching unit for materials synthesized inside the cell?",
+    "explanation": "The Golgi apparatus modifies, sorts, packages, and routes proteins and lipids to their destinations.",
+    "options": [
+      { "text": "Endoplasmic Reticulum", "isCorrect": false },
+      { "text": "Golgi apparatus", "isCorrect": true },
+      { "text": "Lysosome", "isCorrect": false },
+      { "text": "Ribosome", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 9",
+    "subject": "Science",
+    "difficulty": "MEDIUM",
+    "text": "Under standard conditions of air at $22^\\circ\\text{C}$ (speed of sound $= 344\\text{ m/s}$), what is the minimum distance required from an obstacle to hear a distinct echo?",
+    "explanation": "The persistence of hearing is $0.1\\text{ s}$. Total distance $2d = v \\times t = 344 \\times 0.1 = 34.4\\text{ m} \\Rightarrow d = 17.2\\text{ m}$.",
+    "options": [
+      { "text": "$34.4\\text{ m}$", "isCorrect": false },
+      { "text": "$17.2\\text{ m}$", "isCorrect": true },
+      { "text": "$10\\text{ m}$", "isCorrect": false },
+      { "text": "$8.6\\text{ m}$", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 9",
+    "subject": "Science",
+    "difficulty": "MEDIUM",
+    "text": "What is a colloidal system called where liquid is the dispersed phase and gas is the dispersion medium?",
+    "explanation": "Liquid dispersed in gas is called a liquid aerosol (e.g., fog, mist, clouds).",
+    "options": [
+      { "text": "Emulsion", "isCorrect": false },
+      { "text": "Aerosol", "isCorrect": true },
+      { "text": "Foam", "isCorrect": false },
+      { "text": "Sol", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 9",
+    "subject": "Science",
+    "difficulty": "MEDIUM",
+    "text": "Which animal tissue forms the outer protective surface of the skin and lines internal organs?",
+    "explanation": "Epithelial tissues cover the body surface and line internal cavities to provide protection.",
+    "options": [
+      { "text": "Connective tissue", "isCorrect": false },
+      { "text": "Epithelial tissue", "isCorrect": true },
+      { "text": "Muscular tissue", "isCorrect": false },
+      { "text": "Nervous tissue", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 9",
+    "subject": "Science",
+    "difficulty": "MEDIUM",
+    "text": "Which characteristic of a sound wave is responsible for its pitch (shrillness)?",
+    "explanation": "Pitch is directly related to the frequency of the sound wave. Higher frequency corresponds to higher pitch.",
+    "options": [
+      { "text": "Amplitude", "isCorrect": false },
+      { "text": "Frequency", "isCorrect": true },
+      { "text": "Speed", "isCorrect": false },
+      { "text": "Intensity", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 9",
+    "subject": "Science",
+    "difficulty": "HARD",
+    "text": "How does the addition of a non-volatile solute affect the freezing point and boiling point of water?",
+    "explanation": "Impurities lower the freezing point (depression of freezing point) and elevate the boiling point (elevation of boiling point) of a solvent.",
+    "options": [
+      { "text": "It raises the freezing point and lowers the boiling point", "isCorrect": false },
+      { "text": "It lowers the freezing point and raises the boiling point", "isCorrect": true },
+      { "text": "It has no effect on physical constants", "isCorrect": false },
+      { "text": "It lowers both freezing and boiling points", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 9",
+    "subject": "Science",
+    "difficulty": "HARD",
+    "text": "Differentiate between skeletal (striated) and smooth (unstriated) muscles in terms of nuclear count and shape.",
+    "explanation": "Skeletal muscle cells are long, cylindrical, unbranched, and multinucleated; smooth muscle cells are spindle-shaped and uninucleated.",
+    "options": [
+      { "text": "Smooth muscles are multinucleated and cylindrical", "isCorrect": false },
+      { "text": "Skeletal muscles are cylindrical and multinucleated; smooth muscles are spindle-shaped and uninucleated", "isCorrect": true },
+      { "text": "Both are branched and contain a single central nucleus", "isCorrect": false },
+      { "text": "Skeletal muscles are spindle-shaped and voluntary", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 9",
+    "subject": "Science",
+    "difficulty": "HARD",
+    "text": "A sound wave has a frequency of $2\\text{ kHz}$ and a wavelength of $35\\text{ cm}$. How long will it take to travel a distance of $1.4\\text{ km}$?",
+    "explanation": "Speed $v = \\nu \\lambda = 2000\\text{ Hz} \\times 0.35\\text{ m} = 700\\text{ m/s}$. Time $t = \\frac{\\text{Distance}}{\\text{Speed}} = \\frac{1400\\text{ m}}{700\\text{ m/s}} = 2\\text{ s}$.",
+    "options": [
+      { "text": "$1\\text{ s}$", "isCorrect": false },
+      { "text": "$2\\text{ s}$", "isCorrect": true },
+      { "text": "$4\\text{ s}$", "isCorrect": false },
+      { "text": "$0.5\\text{ s}$", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 9",
+    "subject": "Science",
+    "difficulty": "HARD",
+    "text": "Why do our palms feel cold when we apply a drop of ether or acetone on them?",
+    "explanation": "Ether/acetone has a low boiling point and evaporates rapidly by absorbing the latent heat of vaporization from our palms, causing cooling.",
+    "options": [
+      { "text": "They react chemically with skin lipids, releasing heat", "isCorrect": false },
+      { "text": "They absorb latent heat of vaporization from the palm to evaporate", "isCorrect": true },
+      { "text": "They block the pores of the skin, increasing sweating", "isCorrect": false },
+      { "text": "They conduct cold temperature directly from air molecules", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 9",
+    "subject": "Science",
+    "difficulty": "HARD",
+    "text": "What structural features distinguish meristematic plant cells from permanent cells?",
+    "explanation": "Meristematic cells have thin cellulose walls, dense cytoplasm, prominent nuclei, and lack vacuoles; permanent cells have larger vacuoles and specialized walls.",
+    "options": [
+      { "text": "Meristematic cells contain massive vacuoles and thick lignified walls", "isCorrect": false },
+      { "text": "Meristematic cells have thin walls, dense cytoplasm, and lack vacuoles", "isCorrect": true },
+      { "text": "Permanent cells are actively dividing and lack a nucleus", "isCorrect": false },
+      { "text": "Meristematic cells are dead; permanent cells are living", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 9",
+    "subject": "Science",
+    "difficulty": "HARD",
+    "text": "What is reverberation, and how is it managed in modern auditoriums?",
+    "explanation": "Reverberation is the persistence of sound due to repeated reflections; it is reduced by covering walls with sound-absorbing materials like compressed fiberboards.",
+    "options": [
+      { "text": "Reverberation is the change of sound pitch; managed by changing air pressure", "isCorrect": false },
+      { "text": "It is the persistence of sound due to multiple reflections; managed using sound-absorbing materials on walls and seats", "isCorrect": true },
+      { "text": "It is the cancellation of sound waves; managed using large amplifiers", "isCorrect": false },
+      { "text": "It is the bending of sound around edges; managed by installing heavy mirrors", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 9",
+    "subject": "Science",
+    "difficulty": "VERY HARD",
+    "text": "How does temperature remain constant during phase changes of water, such as boiling or melting, and what is this energy called?",
+    "explanation": "The heat supplied is consumed to break intermolecular forces of attraction during state transition; this energy is called latent heat.",
+    "options": [
+      { "text": "Kinetic energy rises because molecules speed up during phase change", "isCorrect": false },
+      { "text": "The energy is used to break intermolecular forces of attraction, keeping temperature constant as latent heat", "isCorrect": true },
+      { "text": "Temperature remains constant due to air insulation, storing potential heat", "isCorrect": false },
+      { "text": "Chemical bonds are broken, releasing activation energy to the atmosphere", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 9",
+    "subject": "Science",
+    "difficulty": "VERY HARD",
+    "text": "Identify the cellular components of human blood and define the primary function of blood platelets.",
+    "explanation": "Blood contains plasma, red blood cells (RBCs), white blood cells (WBCs), and platelets. Platelets help in blood clotting at the site of injury.",
+    "options": [
+      { "text": "Plasma, RBCs, WBCs; platelets carry nutrients and carbon dioxide", "isCorrect": false },
+      { "text": "Plasma, RBCs, WBCs, Platelets; platelets are responsible for blood clotting to prevent blood loss", "isCorrect": true },
+      { "text": "Serum, platelets, hormones; platelets fight pathogens inside the blood vessels", "isCorrect": false },
+      { "text": "Hemoglobin, antigens; platelets transport oxygen from lungs to cells", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 9",
+    "subject": "Science",
+    "difficulty": "VERY HARD",
+    "text": "A SONAR device on a ship sends an ultrasound signal into the sea. The signal is reflected from the seabed and detected after $4.0\\text{ s}$. Calculate the depth of the sea (speed of sound in seawater $= 1500\\text{ m/s}$).",
+    "explanation": "Total distance traveled $2d = v \\times t = 1500 \\times 4.0 = 6000\\text{ m} \\Rightarrow d = 3000\\text{ m}$ or $3\\text{ km}$.",
+    "options": [
+      { "text": "$6000\\text{ m}$", "isCorrect": false },
+      { "text": "$3000\\text{ m}$", "isCorrect": true },
+      { "text": "$1500\\text{ m}$", "isCorrect": false },
+      { "text": "$4500\\text{ m}$", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 9",
+    "subject": "Science",
+    "difficulty": "VERY HARD",
+    "text": "Detail the structural path and mechanism of sound transmission through the human ear to the brain.",
+    "explanation": "Pinna collects sound $\\rightarrow$ Auditory canal $\\rightarrow$ Tympanic membrane (vibrates) $\\rightarrow$ Ear ossicles (amplify) $\\rightarrow$ Cochlea (converts to electrical signals) $\\rightarrow$ Auditory nerve $\\rightarrow$ Brain.",
+    "options": [
+      { "text": "Pinna $\\rightarrow$ Cochlea $\\rightarrow$ Eardrum $\\rightarrow$ Brain via sensory neurons", "isCorrect": false },
+      { "text": "Pinna $\\rightarrow$ Tympanic membrane $\\rightarrow$ Ear ossicles (amplify) $\\rightarrow$ Cochlea (converts to electrical signals) $\\rightarrow$ Auditory nerve", "isCorrect": true },
+      { "text": "Auditory canal $\\rightarrow$ Cochlea $\\rightarrow$ Eardrum $\\rightarrow$ Auditory nerve", "isCorrect": false },
+      { "text": "Pinna $\\rightarrow$ Eustachian tube $\\rightarrow$ Stirrup $\\rightarrow$ Brain directly", "isCorrect": false }
+    ]
+  }
+]

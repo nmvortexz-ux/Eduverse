@@ -1,0 +1,327 @@
+[
+  {
+    "class": "Class 10",
+    "subject": "Science",
+    "difficulty": "EASY",
+    "text": "What is the chemical formula of bleaching powder?",
+    "explanation": "Bleaching powder is chemically calcium oxychloride, represented by the formula \\text{CaOCl}_2, produced by action of chlorine on dry slaked lime.",
+    "options": [
+      { "text": "\\text{CaOCl}_2", "isCorrect": true },
+      { "text": "\\text{CaSO}_4", "isCorrect": false },
+      { "text": "\\text{Ca(OH)}_2", "isCorrect": false },
+      { "text": "\\text{CaCl}_2", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 10",
+    "subject": "Science",
+    "difficulty": "EASY",
+    "text": "Which enzyme present in gastric juice is responsible for the digestion of proteins?",
+    "explanation": "Pepsin is the protein-digesting enzyme secreted in an inactive form (pepsinogen) by the gastric glands of the stomach.",
+    "options": [
+      { "text": "Pepsin", "isCorrect": true },
+      { "text": "Trypsin", "isCorrect": false },
+      { "text": "Amylase", "isCorrect": false },
+      { "text": "Lipase", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 10",
+    "subject": "Science",
+    "difficulty": "EASY",
+    "text": "The S.I. unit of electric charge is:",
+    "explanation": "The S.I. unit of electric charge is the coulomb (C), which is equivalent to the charge of approximately 6 \\times 10^{18} electrons.",
+    "options": [
+      { "text": "coulomb (C)", "isCorrect": true },
+      { "text": "ampere (A)", "isCorrect": false },
+      { "text": "volt (V)", "isCorrect": false },
+      { "text": "watt (W)", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 10",
+    "subject": "Science",
+    "difficulty": "EASY",
+    "text": "Which gas is evolved when zinc metal reacts with sodium hydroxide solution?",
+    "explanation": "Zinc reacts with sodium hydroxide to form sodium zincate (\\text{Na}_2\\text{ZnO}_2) and hydrogen gas (\\text{H}_2).",
+    "options": [
+      { "text": "Hydrogen gas", "isCorrect": true },
+      { "text": "Oxygen gas", "isCorrect": false },
+      { "text": "Carbon dioxide", "isCorrect": false },
+      { "text": "Nitrogen gas", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 10",
+    "subject": "Science",
+    "difficulty": "EASY",
+    "text": "The image formed by a plane mirror is always:",
+    "explanation": "A plane mirror forms an image that is virtual, erect, laterally inverted, and of the same size as the object.",
+    "options": [
+      { "text": "virtual and erect", "isCorrect": true },
+      { "text": "real and inverted", "isCorrect": false },
+      { "text": "virtual and inverted", "isCorrect": false },
+      { "text": "real and erect", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 10",
+    "subject": "Science",
+    "difficulty": "EASY",
+    "text": "Since green plants synthesize their own food, they are called:",
+    "explanation": "Green plants are autotrophs because they use light energy to synthesize organic molecules from inorganic materials through photosynthesis.",
+    "options": [
+      { "text": "Autotrophs", "isCorrect": true },
+      { "text": "Heterotrophs", "isCorrect": false },
+      { "text": "Saprophytes", "isCorrect": false },
+      { "text": "Parasites", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 10",
+    "subject": "Science",
+    "difficulty": "MEDIUM",
+    "text": "An element 'X' reacts with oxygen to form a compound with a high melting point. This compound is also soluble in water. The element 'X' is likely to be:",
+    "explanation": "Calcium reacts with oxygen to form calcium oxide (\\text{CaO}), which has a high melting point and dissolves in water to form calcium hydroxide.",
+    "options": [
+      { "text": "Calcium", "isCorrect": true },
+      { "text": "Carbon", "isCorrect": false },
+      { "text": "Silicon", "isCorrect": false },
+      { "text": "Iron", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 10",
+    "subject": "Science",
+    "difficulty": "MEDIUM",
+    "text": "The refractive index of medium glass is 1.5. Calculate the speed of light in glass.",
+    "explanation": "Refractive index n = c/v, where c = 3 \\times 10^8\\text{ m/s}. Thus, v = c/n = (3 \\times 10^8)/1.5 = 2 \\times 10^8\\text{ m/s}.",
+    "options": [
+      { "text": "2 \\times 10^8\\text{ m/s}", "isCorrect": true },
+      { "text": "3 \\times 10^8\\text{ m/s}", "isCorrect": false },
+      { "text": "1.5 \\times 10^8\\text{ m/s}", "isCorrect": false },
+      { "text": "2.25 \\times 10^8\\text{ m/s}", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 10",
+    "subject": "Science",
+    "difficulty": "MEDIUM",
+    "text": "Which plant hormone is primarily responsible for promoting cell division?",
+    "explanation": "Cytokinins are plant hormones that promote cell division (cytokinesis) and are present in greater concentrations in areas of rapid cell division.",
+    "options": [
+      { "text": "Cytokinin", "isCorrect": true },
+      { "text": "Auxin", "isCorrect": false },
+      { "text": "Gibberellin", "isCorrect": false },
+      { "text": "Abscisic acid", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 10",
+    "subject": "Science",
+    "difficulty": "MEDIUM",
+    "text": "The resistivity of a metallic conductor depends on which of the following factors?",
+    "explanation": "Resistivity is an intrinsic property of a material; it depends on the nature of the material and the temperature, not on dimensions like length or area.",
+    "options": [
+      { "text": "Nature of the material and temperature", "isCorrect": true },
+      { "text": "Length of the conductor", "isCorrect": false },
+      { "text": "Area of cross-section of the conductor", "isCorrect": false },
+      { "text": "Shape of the conductor", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 10",
+    "subject": "Science",
+    "difficulty": "MEDIUM",
+    "text": "What is the main component of biogas and compressed natural gas (CNG)?",
+    "explanation": "Methane (\\text{CH}_4) makes up to 75% of biogas and is the primary constituent of CNG, making it an excellent fuel.",
+    "options": [
+      { "text": "Methane", "isCorrect": true },
+      { "text": "Ethane", "isCorrect": false },
+      { "text": "Propane", "isCorrect": false },
+      { "text": "Butane", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 10",
+    "subject": "Science",
+    "difficulty": "MEDIUM",
+    "text": "A solution turns blue litmus paper red. Its pH is likely to be:",
+    "explanation": "Acidic solutions turn blue litmus paper red and have a pH value less than 7.",
+    "options": [
+      { "text": "5", "isCorrect": true },
+      { "text": "7", "isCorrect": false },
+      { "text": "9", "isCorrect": false },
+      { "text": "12", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 10",
+    "subject": "Science",
+    "difficulty": "MEDIUM",
+    "text": "Which of the following organisms reproduces asexually through regeneration?",
+    "explanation": "Simple organisms like Planaria and Hydra can be cut into pieces, and each piece grows into a complete organism through regeneration.",
+    "options": [
+      { "text": "Planaria", "isCorrect": true },
+      { "text": "Leishmania", "isCorrect": false },
+      { "text": "Plasmodium", "isCorrect": false },
+      { "text": "Spirogyra", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 10",
+    "subject": "Science",
+    "difficulty": "HARD",
+    "text": "Why is tungsten metal selected almost exclusively for making filaments of electric incandescent lamps?",
+    "explanation": "Tungsten has a very high melting point (3380°C) and does not oxidize (burn) easily at high temperatures, allowing it to become white-hot without melting.",
+    "options": [
+      { "text": "It has a very high melting point and does not oxidize easily at high temperatures.", "isCorrect": true },
+      { "text": "It has very low electrical resistivity, minimizing power consumption.", "isCorrect": false },
+      { "text": "It is highly ductile and can be drawn into very thin wires easily.", "isCorrect": false },
+      { "text": "It reacts with nitrogen and argon gases to emit brighter light.", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 10",
+    "subject": "Science",
+    "difficulty": "HARD",
+    "text": "If a normal human eye cannot see objects clearly placed closer than 25 cm, it is because:",
+    "explanation": "The ciliary muscles cannot contract beyond a limit to increase the curvature and power of the eye lens further. Hence, the focal length cannot be decreased below a certain limit.",
+    "options": [
+      { "text": "The ciliary muscles cannot contract further to decrease the focal length of the eye lens.", "isCorrect": true },
+      { "text": "The retina moves slightly forward, changing the image distance.", "isCorrect": false },
+      { "text": "Light rays from nearby objects are absorbed by the cornea.", "isCorrect": false },
+      { "text": "The iris cannot constrict further to regulate light entry.", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 10",
+    "subject": "Science",
+    "difficulty": "HARD",
+    "text": "What is the thermite reaction, and what is its primary industrial application?",
+    "explanation": "The thermite reaction is a highly exothermic displacement reaction between iron(III) oxide and aluminium powder: \\text{Fe}_2\\text{O}_3(s) + 2\\text{Al}(s) \\rightarrow 2\\text{Fe}(l) + \\text{Al}_2\\text{O}_3(s). The molten iron is used to join railway tracks.",
+    "options": [
+      { "text": "Reaction of iron oxide with aluminium; used to join railway tracks.", "isCorrect": true },
+      { "text": "Reaction of zinc oxide with carbon; used to extract zinc metal.", "isCorrect": false },
+      { "text": "Reaction of copper oxide with hydrogen; used to purify copper.", "isCorrect": false },
+      { "text": "Electrolysis of alumina; used to obtain pure aluminium metal.", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 10",
+    "subject": "Science",
+    "difficulty": "HARD",
+    "text": "How many structural isomers are possible for Butane (\\text{C}_4\\text{H}_{10})?",
+    "explanation": "Butane has two structural isomers: n-butane (straight chain) and isobutane (2-methylpropane, branched chain).",
+    "options": [
+      { "text": "2", "isCorrect": true },
+      { "text": "3", "isCorrect": false },
+      { "text": "4", "isCorrect": false },
+      { "text": "5", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 10",
+    "subject": "Science",
+    "difficulty": "HARD",
+    "text": "What is the primary role of the secretions of seminal vesicles and prostate gland in the male reproductive system?",
+    "explanation": "Their secretions provide nutrition to sperms and make transport easier by providing a liquid medium, which also reduces acidity in the urethra.",
+    "options": [
+      { "text": "Providing nutrients and a fluid medium for sperm transport and survival.", "isCorrect": true },
+      { "text": "Directly producing sperm cells by cell division.", "isCorrect": false },
+      { "text": "Secreting testosterone to stimulate sperm production.", "isCorrect": false },
+      { "text": "Storing mature sperms before ejaculation.", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 10",
+    "subject": "Science",
+    "difficulty": "HARD",
+    "text": "When a ray of light passes from an optically denser medium to an optically rarer medium, it:",
+    "explanation": "Light speeds up in a rarer medium, which causes it to bend away from the normal line.",
+    "options": [
+      { "text": "speeds up and bends away from the normal", "isCorrect": true },
+      { "text": "slows down and bends towards the normal", "isCorrect": false },
+      { "text": "speeds up and bends towards the normal", "isCorrect": false },
+      { "text": "slows down and bends away from the normal", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 10",
+    "subject": "Science",
+    "difficulty": "VERY HARD",
+    "text": "Why are electrical appliances connected in parallel instead of series in domestic circuits?",
+    "explanation": "Parallel circuits ensure each appliance receives the same voltage (220 V), can be operated independently with its own switch, and if one appliance fails, others continue to work.",
+    "options": [
+      { "text": "To ensure each appliance gets full voltage, independent control, and safety from single points of failure.", "isCorrect": true },
+      { "text": "To increase the total resistance of the circuit and minimize current flow.", "isCorrect": false },
+      { "text": "To ensure that all appliances draw the exact same current.", "isCorrect": false },
+      { "text": "To reduce the cost of copper wiring in domestic connections.", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 10",
+    "subject": "Science",
+    "difficulty": "VERY HARD",
+    "text": "Two solutions A and B have pH values of 6.0 and 8.0 respectively. Which solution has a higher hydrogen ion concentration, and by how much?",
+    "explanation": "pH = -\\log[\\text{H}^+]. A decrease in pH by 1 unit corresponds to a 10-fold increase in [\\text{H}^+]. Thus, A (pH 6) has 100 times higher [\\text{H}^+] than B (pH 8).",
+    "options": [
+      { "text": "Solution A has 100 times higher concentration of hydrogen ions.", "isCorrect": true },
+      { "text": "Solution B has 100 times higher concentration of hydrogen ions.", "isCorrect": false },
+      { "text": "Solution A has 2 times higher concentration of hydrogen ions.", "isCorrect": false },
+      { "text": "Solution A has 10 times higher concentration of hydrogen ions.", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 10",
+    "subject": "Science",
+    "difficulty": "VERY HARD",
+    "text": "What is the biological significance of double circulation in the human cardiovascular system?",
+    "explanation": "Double circulation completely separates oxygenated and deoxygenated blood, which is essential to provide highly efficient oxygen delivery to maintain constant body temperature in warm-blooded animals.",
+    "options": [
+      { "text": "It separates oxygenated and deoxygenated blood, providing efficient oxygen delivery for thermoregulation.", "isCorrect": true },
+      { "text": "It doubles the blood pressure to ensure faster transport of hormones.", "isCorrect": false },
+      { "text": "It allows carbon dioxide to be absorbed directly by body tissues without reaching lungs.", "isCorrect": false },
+      { "text": "It prevents blood from flowing back into the ventricles during cardiac cycles.", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 10",
+    "subject": "Science",
+    "difficulty": "VERY HARD",
+    "text": "An electric oven rated at 2.0 kW is operated in a domestic circuit of 220 V that has a current rating of 5 A. What will happen when the oven is switched on?",
+    "explanation": "Current drawn I = P/V = 2000 W / 220 V \\approx 9.09 A. Since the current drawn (9.09 A) exceeds the circuit rating (5 A), the fuse will melt and break the circuit.",
+    "options": [
+      { "text": "The circuit fuse will melt and break the circuit due to overloading.", "isCorrect": true },
+      { "text": "The oven will run at half its maximum power rating.", "isCorrect": false },
+      { "text": "The voltage of the domestic circuit will drop to 110 V.", "isCorrect": false },
+      { "text": "The oven will function normally without any interruption.", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 10",
+    "subject": "Science",
+    "difficulty": "VERY HARD",
+    "text": "Which of the following is correct regarding homologous organs?",
+    "explanation": "Homologous organs (e.g., limbs of human, bird, lizard) share a common basic structure and evolutionary origin, but have adapted to perform different functions.",
+    "options": [
+      { "text": "They have similar basic design and origin, but perform different functions.", "isCorrect": true },
+      { "text": "They have different basic design and origin, but perform similar functions.", "isCorrect": false },
+      { "text": "They are structures that have lost all their functions during evolution.", "isCorrect": false },
+      { "text": "They are structures found only in invertebrate animals.", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 10",
+    "subject": "Science",
+    "difficulty": "VERY HARD",
+    "text": "An unsaturated hydrocarbon 'A' has the molecular formula \\text{C}_2\\text{H}_4. When heated with hydrogen in the presence of nickel catalyst, it forms a saturated compound 'B'. Identify A and B.",
+    "explanation": "Ethene (\\text{C}_2\\text{H}_4) undergoes an addition reaction (hydrogenation) in the presence of a Ni catalyst to form Ethane (\\text{C}_2\\text{H}_6).",
+    "options": [
+      { "text": "A: Ethene, B: Ethane", "isCorrect": true },
+      { "text": "A: Ethyne, B: Ethene", "isCorrect": false },
+      { "text": "A: Ethene, B: Ethanol", "isCorrect": false },
+      { "text": "A: Ethane, B: Ethene", "isCorrect": false }
+    ]
+  }
+]

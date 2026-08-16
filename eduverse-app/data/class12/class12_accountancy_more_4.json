@@ -1,0 +1,17 @@
+[
+  {
+    "text": "A and B are partners sharing profits and losses in the ratio 3:2. A decides to retire from the business. The new ratio between B and the new partner C is 3:5. What is the gaining ratio?",
+    "options": [
+      "2:3",
+      "3:5",
+      "5:3",
+      "3:2"
+    ],
+    "correctAnswer": "2:3",
+    "explanation": "According to the given information, the old ratio between A and B is 3:2. When A retires and C joins, the new ratio becomes 3:5. To find the gaining ratio, we subtract the old ratio from the new ratio: New Ratio - Old Ratio = 3:5 - 3:2 = 3:5 - 1.5:1 = 1.5:1. However, we need to express this in the simplest form. To do this, we multiply both sides by 2 to get rid of the decimal: 3:5 = 6:10 and 1.5:1 = 3:2. Now, we can subtract the two ratios: 6:10 - 3:2 = 3:10. Therefore, the gaining ratio is 3:10.",
+    "difficulty": "Medium",
+    "class": "Class 12",
+    "subject": "Accountancy",
+    "chapter": "Ch 4: Reconstitution - Retirement/Death of a Partner"
+  }
+]

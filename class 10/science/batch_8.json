@@ -1,0 +1,327 @@
+[
+  {
+    "class": "Class 10",
+    "subject": "Science",
+    "difficulty": "EASY",
+    "text": "Which organic acid is naturally present in oranges?",
+    "explanation": "Oranges and lemons contain citric acid, which gives them a sharp sour taste.",
+    "options": [
+      { "text": "Citric acid", "isCorrect": true },
+      { "text": "Tartaric acid", "isCorrect": false },
+      { "text": "Oxalic acid", "isCorrect": false },
+      { "text": "Lactic acid", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 10",
+    "subject": "Science",
+    "difficulty": "EASY",
+    "text": "What is the S.I. unit of electric current?",
+    "explanation": "The S.I. unit of electric current is the ampere (A), defined as the flow of one coulomb of charge per second.",
+    "options": [
+      { "text": "ampere (A)", "isCorrect": true },
+      { "text": "volt (V)", "isCorrect": false },
+      { "text": "ohm (\\Omega)", "isCorrect": false },
+      { "text": "watt (W)", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 10",
+    "subject": "Science",
+    "difficulty": "EASY",
+    "text": "Which part of the human brain is responsible for maintaining posture and balance of the body?",
+    "explanation": "The cerebellum, located in the hindbrain, is responsible for precision of voluntary actions and maintaining body posture and balance.",
+    "options": [
+      { "text": "Cerebellum", "isCorrect": true },
+      { "text": "Cerebrum", "isCorrect": false },
+      { "text": "Medulla", "isCorrect": false },
+      { "text": "Pons", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 10",
+    "subject": "Science",
+    "difficulty": "EASY",
+    "text": "Which type of mirror is used in the headlights of a car to obtain a powerful parallel beam of light?",
+    "explanation": "A concave mirror is used because when a light source (bulb) is placed at its focus, the reflected rays emerge as a powerful parallel beam.",
+    "options": [
+      { "text": "Concave mirror", "isCorrect": true },
+      { "text": "Convex mirror", "isCorrect": false },
+      { "text": "Plane mirror", "isCorrect": false },
+      { "text": "Bifocal mirror", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 10",
+    "subject": "Science",
+    "difficulty": "EASY",
+    "text": "In cellular respiration, the breakdown of pyruvate using oxygen to release carbon dioxide, water, and energy takes place in the:",
+    "explanation": "Aerobic breakdown of pyruvate occurs inside the mitochondria, producing carbon dioxide, water, and a large amount of ATP energy.",
+    "options": [
+      { "text": "Mitochondria", "isCorrect": true },
+      { "text": "Cytoplasm", "isCorrect": false },
+      { "text": "Chloroplast", "isCorrect": false },
+      { "text": "Ribosomes", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 10",
+    "subject": "Science",
+    "difficulty": "EASY",
+    "text": "What is the pH of a neutral aqueous solution at 25°C?",
+    "explanation": "Neutral solutions (like pure water) have equal concentrations of hydrogen and hydroxyl ions, giving them a pH value of exactly 7.",
+    "options": [
+      { "text": "7", "isCorrect": true },
+      { "text": "0", "isCorrect": false },
+      { "text": "14", "isCorrect": false },
+      { "text": "5.6", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 10",
+    "subject": "Science",
+    "difficulty": "MEDIUM",
+    "text": "What is the common chemical name of Calcium Sulphate Hemihydrate?",
+    "explanation": "Calcium sulphate hemihydrate (\\text{CaSO}_4 \\cdot \\frac{1}{2}\\text{H}_2\\text{O}) is commonly known as Plaster of Paris.",
+    "options": [
+      { "text": "Plaster of Paris", "isCorrect": true },
+      { "text": "Gypsum", "isCorrect": false },
+      { "text": "Bleaching powder", "isCorrect": false },
+      { "text": "Baking soda", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 10",
+    "subject": "Science",
+    "difficulty": "MEDIUM",
+    "text": "What substances are added to commercial food products containing fats and oils to prevent rancidity?",
+    "explanation": "Antioxidants are substances added to fatty/oily foods to prevent their oxidation, keeping them fresh for longer.",
+    "options": [
+      { "text": "Antioxidants", "isCorrect": true },
+      { "text": "Catalysts", "isCorrect": false },
+      { "text": "Oxidizers", "isCorrect": false },
+      { "text": "Dehydrators", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 10",
+    "subject": "Science",
+    "difficulty": "MEDIUM",
+    "text": "Which plant hormone acts as a growth inhibitor and promotes leaf wilting and falling?",
+    "explanation": "Abscisic acid is a plant growth inhibitor that causes leaf fall, wilting, and maintains seed dormancy.",
+    "options": [
+      { "text": "Abscisic acid", "isCorrect": true },
+      { "text": "Auxin", "isCorrect": false },
+      { "text": "Gibberellin", "isCorrect": false },
+      { "text": "Cytokinin", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 10",
+    "subject": "Science",
+    "difficulty": "MEDIUM",
+    "text": "Which of the following organisms reproduces asexually through multiple fission?",
+    "explanation": "Plasmodium (malaria parasite) reproduces by splitting into many daughter cells simultaneously, which is called multiple fission.",
+    "options": [
+      { "text": "Plasmodium", "isCorrect": true },
+      { "text": "Amoeba", "isCorrect": false },
+      { "text": "Leishmania", "isCorrect": false },
+      { "text": "Hydra", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 10",
+    "subject": "Science",
+    "difficulty": "MEDIUM",
+    "text": "What is the refractive index of diamond, which has the highest optical density?",
+    "explanation": "Diamond has a refractive index of 2.42, which causes large bending of light and contributes to its brilliant sparkle.",
+    "options": [
+      { "text": "2.42", "isCorrect": true },
+      { "text": "1.50", "isCorrect": false },
+      { "text": "1.33", "isCorrect": false },
+      { "text": "1.65", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 10",
+    "subject": "Science",
+    "difficulty": "MEDIUM",
+    "text": "In the nephron, which cup-shaped structure encloses the glomerulus to receive the filtrate?",
+    "explanation": "Bowman's capsule is a double-walled cup-like structure at the beginning of the tubular component of a nephron that encloses the glomerulus.",
+    "options": [
+      { "text": "Bowman's capsule", "isCorrect": true },
+      { "text": "Henle's loop", "isCorrect": false },
+      { "text": "Proximal convoluted tubule", "isCorrect": false },
+      { "text": "Collecting duct", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 10",
+    "subject": "Science",
+    "difficulty": "MEDIUM",
+    "text": "What is the commercial unit of electrical energy consumption?",
+    "explanation": "The commercial unit is kilowatt-hour (kWh), commonly known as a 'unit'. 1 kWh = 3.6 \\times 10^6 J.",
+    "options": [
+      { "text": "kilowatt-hour (kWh)", "isCorrect": true },
+      { "text": "kilowatt (kW)", "isCorrect": false },
+      { "text": "joule (J)", "isCorrect": false },
+      { "text": "volt-ampere", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 10",
+    "subject": "Science",
+    "difficulty": "HARD",
+    "text": "Why is copper metal preferred over steel (an alloy of iron) for making hot water storage tanks?",
+    "explanation": "Copper does not react with water or steam at any temperature, whereas iron/steel reacts with steam to corrode and form magnetic iron oxide.",
+    "options": [
+      { "text": "Copper does not react with steam, whereas iron reacts with steam to corrode.", "isCorrect": true },
+      { "text": "Copper has a higher melting point than steel.", "isCorrect": false },
+      { "text": "Copper is a cheaper metal and easier to weld than steel.", "isCorrect": false },
+      { "text": "Copper prevents the growth of anaerobic bacteria in water.", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 10",
+    "subject": "Science",
+    "difficulty": "HARD",
+    "text": "Write the balanced chemical equation representing the effect of heating baking soda.",
+    "explanation": "Heating sodium hydrogen carbonate (baking soda) decomposes it into sodium carbonate, water vapour, and carbon dioxide: 2\\text{NaHCO}_3 \\xrightarrow{\\Delta} \\text{Na}_2\\text{CO}_3 + \\text{H}_2\\text{O} + \\text{CO}_2.",
+    "options": [
+      { "text": "2\\text{NaHCO}_3(s) \\xrightarrow{\\Delta} \\text{Na}_2\\text{CO}_3(s) + \\text{H}_2\\text{O}(g) + \\text{CO}_2(g)", "isCorrect": true },
+      { "text": "\\text{NaHCO}_3(s) \\xrightarrow{\\Delta} \\text{NaOH}(s) + \\text{CO}_2(g)", "isCorrect": false },
+      { "text": "2\\text{NaHCO}_3(s) \\xrightarrow{\\Delta} \\text{Na}_2\\text{O}(s) + 2\\text{CO}_2(g) + \\text{H}_2\\text{O}(l)", "isCorrect": false },
+      { "text": "\\text{NaHCO}_3(s) + \\text{HCl}(aq) \\rightarrow \\text{NaCl}(aq) + \\text{H}_2\\text{O}(l) + \\text{CO}_2(g)", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 10",
+    "subject": "Science",
+    "difficulty": "HARD",
+    "text": "Identify the functional groups present in Ethanol and Ethanoic acid respectively.",
+    "explanation": "Ethanol (\\text{C}_2\\text{H}_5\\text{OH}) contains the hydroxyl group (-\\text{OH}, alcohol) and Ethanoic acid (\\text{CH}_3\\text{COOH}) contains the carboxyl group (-\\text{COOH}, carboxylic acid).",
+    "options": [
+      { "text": "Alcohol (-\\text{OH}) and Carboxylic acid (-\\text{COOH})", "isCorrect": true },
+      { "text": "Aldehyde (-\\text{CHO}) and Ketone (-\\text{CO}-)", "isCorrect": false },
+      { "text": "Alcohol (-\\text{OH}) and Ester (-\\text{COO}-)", "isCorrect": false },
+      { "text": "Carboxylic acid (-\\text{COOH}) and Alcohol (-\\text{OH})", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 10",
+    "subject": "Science",
+    "difficulty": "HARD",
+    "text": "The magnification produced by a spherical mirror is -1. What does this indicate about the image and the object position?",
+    "explanation": "Negative sign indicates the image is real and inverted. Value 1 indicates image size equals object size. This occurs when the object is placed at the center of curvature (C).",
+    "options": [
+      { "text": "Image is real, inverted, same size, and object is at C.", "isCorrect": true },
+      { "text": "Image is virtual, erect, same size, and object is at P.", "isCorrect": false },
+      { "text": "Image is real, inverted, magnified, and object is between C and F.", "isCorrect": false },
+      { "text": "Image is virtual, erect, diminished, and object is at infinity.", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 10",
+    "subject": "Science",
+    "difficulty": "HARD",
+    "text": "A wire of resistance R is cut into 3 equal pieces. These pieces are then connected in parallel. What is the equivalent resistance of this parallel combination?",
+    "explanation": "Each piece has resistance R/3. In parallel, 1/R_eq = 1/(R/3) + 1/(R/3) + 1/(R/3) = 3/(R/3) = 9/R \\Rightarrow R_eq = R/9.",
+    "options": [
+      { "text": "R/9", "isCorrect": true },
+      { "text": "R/3", "isCorrect": false },
+      { "text": "3R", "isCorrect": false },
+      { "text": "9R", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 10",
+    "subject": "Science",
+    "difficulty": "HARD",
+    "text": "What is the role of decomposers in the nutrient cycle of an ecosystem?",
+    "explanation": "Decomposers break down organic remains of dead organisms, converting them into simple inorganic substances that return to the soil and atmosphere to be reused by producers.",
+    "options": [
+      { "text": "They recycle mineral nutrients back to the soil and atmosphere by decomposing dead matter.", "isCorrect": true },
+      { "text": "They absorb carbon dioxide directly to produce glucose for the ecosystem.", "isCorrect": false },
+      { "text": "They act as primary food source for carnivores.", "isCorrect": false },
+      { "text": "They convert solar energy into usable chemical energy.", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 10",
+    "subject": "Science",
+    "difficulty": "VERY HARD",
+    "text": "Which of the following traces the correct path of transmission of an electrical impulse through a neuron?",
+    "explanation": "Impulse is received by Dendrite \\rightarrow passes to Cell body \\rightarrow travels along Axon \\rightarrow reaches Axonal terminal \\rightarrow crosses Synapse to next dendrite.",
+    "options": [
+      { "text": "Dendrite \\rightarrow Cell body \\rightarrow Axon \\rightarrow Axonal terminal \\rightarrow Synapse \\rightarrow Next dendrite", "isCorrect": true },
+      { "text": "Axon \\rightarrow Cell body \\rightarrow Dendrite \\rightarrow Synapse \\rightarrow Axonal terminal", "isCorrect": false },
+      { "text": "Dendrite \\rightarrow Axon \\rightarrow Cell body \\rightarrow Axonal terminal \\rightarrow Synapse", "isCorrect": false },
+      { "text": "Synapse \\rightarrow Dendrite \\rightarrow Axon \\rightarrow Cell body \\rightarrow Axonal terminal", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 10",
+    "subject": "Science",
+    "difficulty": "VERY HARD",
+    "text": "Trace the correct path of blood circulation in the double circulatory system of humans.",
+    "explanation": "Oxygenated blood: Lungs \\rightarrow Pulmonary vein \\rightarrow Left atrium \\rightarrow Left ventricle \\rightarrow Aorta \\rightarrow Body tissues. Deoxygenated blood: Body \\rightarrow Vena cava \\rightarrow Right atrium \\rightarrow Right ventricle \\rightarrow Pulmonary artery \\rightarrow Lungs.",
+    "options": [
+      { "text": "Lungs \\rightarrow Pulmonary vein \\rightarrow Left atrium \\rightarrow Left ventricle \\rightarrow Aorta \\rightarrow Body \\rightarrow Vena cava \\rightarrow Right atrium \\rightarrow Right ventricle \\rightarrow Pulmonary artery \\rightarrow Lungs", "isCorrect": true },
+      { "text": "Lungs \\rightarrow Pulmonary artery \\rightarrow Right atrium \\rightarrow Right ventricle \\rightarrow Aorta \\rightarrow Body \\rightarrow Vena cava \\rightarrow Left atrium \\rightarrow Left ventricle \\rightarrow Pulmonary vein \\rightarrow Lungs", "isCorrect": false },
+      { "text": "Body \\rightarrow Pulmonary vein \\rightarrow Left atrium \\rightarrow Left ventricle \\rightarrow Aorta \\rightarrow Lungs \\rightarrow Vena cava \\rightarrow Right atrium \\rightarrow Right ventricle \\rightarrow Pulmonary artery", "isCorrect": false },
+      { "text": "Lungs \\rightarrow Vena cava \\rightarrow Right atrium \\rightarrow Right ventricle \\rightarrow Aorta \\rightarrow Body \\rightarrow Pulmonary vein \\rightarrow Left atrium \\rightarrow Left ventricle \\rightarrow Pulmonary artery", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 10",
+    "subject": "Science",
+    "difficulty": "VERY HARD",
+    "text": "What is the difference between Esterification and Saponification reactions?",
+    "explanation": "Esterification is the reaction of a carboxylic acid with an alcohol in the presence of an acid catalyst to form an ester. Saponification is the alkaline hydrolysis of an ester to form soap and alcohol.",
+    "options": [
+      { "text": "Esterification forms an ester from acid and alcohol; Saponification hydrolyzes an ester with alkali to form soap.", "isCorrect": true },
+      { "text": "Esterification is the reduction of esters; Saponification is the oxidation of fatty acids.", "isCorrect": false },
+      { "text": "Esterification uses sodium hydroxide as a catalyst; Saponification uses hydrochloric acid.", "isCorrect": false },
+      { "text": "Esterification breaks down soap; Saponification creates sweet-smelling fragrances.", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 10",
+    "subject": "Science",
+    "difficulty": "VERY HARD",
+    "text": "A convex mirror of focal length 15 cm forms an image of an object. If the image is formed at 10 cm from the mirror, find the object distance and magnification.",
+    "explanation": "Convex mirror f = +15 cm, v = +10 cm. Mirror formula: 1/f = 1/v + 1/u \\Rightarrow 1/15 = 1/10 + 1/u \\Rightarrow 1/u = 1/15 - 1/10 = -1/30 \\Rightarrow u = -30 cm. Magnification m = -v/u = -10/(-30) = +1/3.",
+    "options": [
+      { "text": "Object distance = -30 cm, Magnification = +1/3", "isCorrect": true },
+      { "text": "Object distance = -30 cm, Magnification = -1/3", "isCorrect": false },
+      { "text": "Object distance = -6 cm, Magnification = +1.5", "isCorrect": false },
+      { "text": "Object distance = -10 cm, Magnification = +2/3", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 10",
+    "subject": "Science",
+    "difficulty": "VERY HARD",
+    "text": "In some reptiles (like turtles and lizards), how is the sex of the offspring determined?",
+    "explanation": "In turtles and some lizards, sex determination is non-genetic and depends on the environmental temperature at which the fertilized eggs are incubated.",
+    "options": [
+      { "text": "By the environmental temperature at which fertilized eggs are incubated.", "isCorrect": true },
+      { "text": "By the ratio of X and Y chromosomes in the zygote.", "isCorrect": false },
+      { "text": "By the pH level of the soil where eggs are laid.", "isCorrect": false },
+      { "text": "By the presence of ZZ chromosomes in female offspring.", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 10",
+    "subject": "Science",
+    "difficulty": "VERY HARD",
+    "text": "Why are parallel circuits used in domestic wiring instead of series circuits?",
+    "explanation": "They allow each appliance to operate at 220 V with its own switch. Also, a fault in one appliance does not interrupt the other appliances, and total resistance remains low.",
+    "options": [
+      { "text": "To provide constant voltage (220 V), independent control, and safety if one appliance fails.", "isCorrect": true },
+      { "text": "To increase the total circuit resistance and prevent overloading.", "isCorrect": false },
+      { "text": "To make all appliances draw the exact same current.", "isCorrect": false },
+      { "text": "To minimize the number of fuses required in the house.", "isCorrect": false }
+    ]
+  }
+]

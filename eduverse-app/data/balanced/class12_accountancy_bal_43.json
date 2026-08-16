@@ -1,0 +1,137 @@
+[
+  {
+    "text": "What is the primary purpose of a cash flow statement?",
+    "options": [
+      "To show the profitability of a business.",
+      "To show the liquidity of a business.",
+      "To show the financial position of a business.",
+      "To show the cash inflows and outflows of a business."
+    ],
+    "correctAnswer": "To show the cash inflows and outflows of a business.",
+    "explanation": "The cash flow statement is a financial statement that provides information about the inflows and outflows of cash and cash equivalents of a business during a specific period. It helps users to understand the liquidity and solvency of a business.",
+    "difficulty": "Easy",
+    "class": "Class 12",
+    "subject": "Accountancy",
+    "chapter": "Ch 11: Cash Flow Statement"
+  },
+  {
+    "text": "Which of the following is an example of a cash inflow from operating activities?",
+    "options": [
+      "Sale of a fixed asset.",
+      "Collection of accounts receivable.",
+      "Payment of accounts payable.",
+      "Issuance of shares."
+    ],
+    "correctAnswer": "Collection of accounts receivable.",
+    "explanation": "Collection of accounts receivable is an example of a cash inflow from operating activities because it represents the receipt of cash from customers in exchange for goods or services sold.",
+    "difficulty": "Medium",
+    "class": "Class 12",
+    "subject": "Accountancy",
+    "chapter": "Ch 11: Cash Flow Statement"
+  },
+  {
+    "text": "What is the difference between cash flow from operating activities and cash flow from investing activities?",
+    "options": [
+      "Cash flow from operating activities includes cash inflows and outflows from investing activities.",
+      "Cash flow from operating activities includes cash inflows and outflows from financing activities.",
+      "Cash flow from operating activities includes cash inflows from the sale of assets, while cash flow from investing activities includes cash outflows for the purchase of assets.",
+      "Cash flow from operating activities includes cash inflows from the purchase of assets, while cash flow from investing activities includes cash outflows for the sale of assets."
+    ],
+    "correctAnswer": "Cash flow from operating activities includes cash inflows from the sale of assets, while cash flow from investing activities includes cash outflows for the purchase of assets.",
+    "explanation": "Cash flow from operating activities includes cash inflows from the sale of assets, such as accounts receivable or inventory, while cash flow from investing activities includes cash outflows for the purchase of assets, such as property, plant, and equipment.",
+    "difficulty": "Hard",
+    "class": "Class 12",
+    "subject": "Accountancy",
+    "chapter": "Ch 11: Cash Flow Statement"
+  },
+  {
+    "text": "Which of the following is an example of a cash outflow from financing activities?",
+    "options": [
+      "Payment of accounts payable.",
+      "Issuance of shares.",
+      "Collection of accounts receivable.",
+      "Sale of a fixed asset."
+    ],
+    "correctAnswer": "Issuance of shares.",
+    "explanation": "Issuance of shares is an example of a cash outflow from financing activities because it represents the receipt of cash from investors in exchange for ownership of the business.",
+    "difficulty": "Medium",
+    "class": "Class 12",
+    "subject": "Accountancy",
+    "chapter": "Ch 11: Cash Flow Statement"
+  },
+  {
+    "text": "What is the purpose of the indirect method of preparing the cash flow statement?",
+    "options": [
+      "To show the cash inflows and outflows of a business.",
+      "To show the financial position of a business.",
+      "To show the liquidity of a business.",
+      "To provide a more detailed analysis of the cash flows of a business."
+    ],
+    "correctAnswer": "To provide a more detailed analysis of the cash flows of a business.",
+    "explanation": "The indirect method of preparing the cash flow statement provides a more detailed analysis of the cash flows of a business by starting with net income and adjusting for non-cash items and changes in working capital accounts.",
+    "difficulty": "Hard",
+    "class": "Class 12",
+    "subject": "Accountancy",
+    "chapter": "Ch 11: Cash Flow Statement"
+  },
+  {
+    "text": "Which of the following is an example of a cash inflow from investing activities?",
+    "options": [
+      "Collection of accounts receivable.",
+      "Sale of a fixed asset.",
+      "Payment of accounts payable.",
+      "Issuance of shares."
+    ],
+    "correctAnswer": "Sale of a fixed asset.",
+    "explanation": "Sale of a fixed asset is an example of a cash inflow from investing activities because it represents the receipt of cash from the sale of a long-term asset.",
+    "difficulty": "Medium",
+    "class": "Class 12",
+    "subject": "Accountancy",
+    "chapter": "Ch 11: Cash Flow Statement"
+  },
+  {
+    "text": "What is the difference between cash and cash equivalents?",
+    "options": [
+      "Cash and cash equivalents are the same.",
+      "Cash is a liquid asset, while cash equivalents are a non-liquid asset.",
+      "Cash is a non-liquid asset, while cash equivalents are a liquid asset.",
+      "Cash is a short-term asset, while cash equivalents are a long-term asset."
+    ],
+    "correctAnswer": "Cash is a short-term asset, while cash equivalents are a short-term asset that can be quickly converted to cash.",
+    "explanation": "Cash is a short-term asset that is readily available for use in the business, while cash equivalents are short-term assets that can be quickly converted to cash, such as commercial paper or money market securities.",
+    "difficulty": "Hard",
+    "class": "Class 12",
+    "subject": "Accountancy",
+    "chapter": "Ch 11: Cash Flow Statement"
+  },
+  {
+    "text": "Which of the following is an example of a cash outflow from operating activities?",
+    "options": [
+      "Sale of a fixed asset.",
+      "Collection of accounts receivable.",
+      "Payment of accounts payable.",
+      "Issuance of shares."
+    ],
+    "correctAnswer": "Payment of accounts payable.",
+    "explanation": "Payment of accounts payable is an example of a cash outflow from operating activities because it represents the payment of cash to suppliers for goods or services received.",
+    "difficulty": "Medium",
+    "class": "Class 12",
+    "subject": "Accountancy",
+    "chapter": "Ch 11: Cash Flow Statement"
+  },
+  {
+    "text": "What is the purpose of the cash flow statement?",
+    "options": [
+      "To show the profitability of a business.",
+      "To show the liquidity of a business.",
+      "To show the financial position of a business.",
+      "To provide information about the inflows and outflows of cash and cash equivalents of a business."
+    ],
+    "correctAnswer": "To provide information about the inflows and outflows of cash and cash equivalents of a business.",
+    "explanation": "The cash flow statement provides information about the inflows and outflows of cash and cash equivalents of a business, which helps users to understand the liquidity and solvency of the business.",
+    "difficulty": "Easy",
+    "class": "Class 12",
+    "subject": "Accountancy",
+    "chapter": "Ch 11: Cash Flow Statement"
+  }
+]

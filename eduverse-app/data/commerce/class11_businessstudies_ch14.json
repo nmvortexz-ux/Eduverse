@@ -1,0 +1,377 @@
+[
+  {
+    "text": "What is the primary difference between e-Business and e-Commerce?",
+    "options": [
+      "e-Business is a subset of e-Commerce",
+      "e-Commerce is a subset of e-Business",
+      "e-Business is used for B2B transactions only",
+      "e-Commerce is used for B2C transactions only"
+    ],
+    "correctAnswer": "e-Commerce is a subset of e-Business",
+    "explanation": "e-Business refers to the use of internet and other digital technologies to support all the activities of a business, whereas e-Commerce refers to the buying and selling of goods and services over the internet. Hence, e-Commerce is a subset of e-Business.",
+    "difficulty": "Easy",
+    "class": "Class 11",
+    "subject": "Business Studies",
+    "chapter": "Ch 5: Emerging Modes of Business"
+  },
+  {
+    "text": "Which of the following is an example of B2B transaction?",
+    "options": [
+      "A consumer buying a product from an online retailer",
+      "A business buying raw materials from another business",
+      "A consumer selling a product to another consumer",
+      "A business selling a product to a consumer"
+    ],
+    "correctAnswer": "A business buying raw materials from another business",
+    "explanation": "B2B (Business-to-Business) transactions involve the exchange of goods or services between two businesses. In this case, a business buying raw materials from another business is an example of a B2B transaction.",
+    "difficulty": "Easy",
+    "class": "Class 11",
+    "subject": "Business Studies",
+    "chapter": "Ch 5: Emerging Modes of Business"
+  },
+  {
+    "text": "What is the primary benefit of e-Business?",
+    "options": [
+      "Reduced costs",
+      "Increased revenue",
+      "Improved customer service",
+      "All of the above"
+    ],
+    "correctAnswer": "All of the above",
+    "explanation": "e-Business offers several benefits, including reduced costs, increased revenue, and improved customer service. By automating various business processes and providing 24/7 access to customers, e-Business can help businesses reduce costs, increase revenue, and improve customer satisfaction.",
+    "difficulty": "Medium",
+    "class": "Class 11",
+    "subject": "Business Studies",
+    "chapter": "Ch 5: Emerging Modes of Business"
+  },
+  {
+    "text": "Which of the following is a limitation of e-Business?",
+    "options": [
+      "Lack of personal touch",
+      "Dependence on technology",
+      "Security risks",
+      "All of the above"
+    ],
+    "correctAnswer": "All of the above",
+    "explanation": "e-Business has several limitations, including lack of personal touch, dependence on technology, and security risks. The lack of face-to-face interaction can make it difficult for businesses to build relationships with customers, while the dependence on technology can make businesses vulnerable to technical issues and security risks.",
+    "difficulty": "Medium",
+    "class": "Class 11",
+    "subject": "Business Studies",
+    "chapter": "Ch 5: Emerging Modes of Business"
+  },
+  {
+    "text": "What is the primary purpose of online transaction security?",
+    "options": [
+      "To protect customer data",
+      "To prevent fraud",
+      "To ensure timely payment",
+      "To reduce costs"
+    ],
+    "correctAnswer": "To protect customer data",
+    "explanation": "Online transaction security is designed to protect customer data, such as credit card numbers and personal information, from unauthorized access. This is done through the use of encryption, firewalls, and other security measures.",
+    "difficulty": "Easy",
+    "class": "Class 11",
+    "subject": "Business Studies",
+    "chapter": "Ch 5: Emerging Modes of Business"
+  },
+  {
+    "text": "Which of the following is an example of C2C transaction?",
+    "options": [
+      "A business selling a product to a consumer",
+      "A consumer buying a product from a business",
+      "A consumer selling a product to another consumer",
+      "A business buying raw materials from another business"
+    ],
+    "correctAnswer": "A consumer selling a product to another consumer",
+    "explanation": "C2C (Consumer-to-Consumer) transactions involve the exchange of goods or services between two consumers. In this case, a consumer selling a product to another consumer is an example of a C2C transaction.",
+    "difficulty": "Easy",
+    "class": "Class 11",
+    "subject": "Business Studies",
+    "chapter": "Ch 5: Emerging Modes of Business"
+  },
+  {
+    "text": "What is the primary benefit of outsourcing?",
+    "options": [
+      "Reduced costs",
+      "Increased revenue",
+      "Improved customer service",
+      "All of the above"
+    ],
+    "correctAnswer": "Reduced costs",
+    "explanation": "Outsourcing involves contracting with another business to perform certain tasks or functions. The primary benefit of outsourcing is reduced costs, as businesses can take advantage of lower labor costs and other efficiencies.",
+    "difficulty": "Medium",
+    "class": "Class 11",
+    "subject": "Business Studies",
+    "chapter": "Ch 5: Emerging Modes of Business"
+  },
+  {
+    "text": "Which of the following is an example of BPO (Business Process Outsourcing)?",
+    "options": [
+      "A business outsourcing its manufacturing operations",
+      "A business outsourcing its customer service operations",
+      "A business outsourcing its accounting operations",
+      "A business outsourcing its marketing operations"
+    ],
+    "correctAnswer": "A business outsourcing its customer service operations",
+    "explanation": "BPO involves outsourcing specific business processes, such as customer service, accounting, or human resources. In this case, a business outsourcing its customer service operations is an example of BPO.",
+    "difficulty": "Medium",
+    "class": "Class 11",
+    "subject": "Business Studies",
+    "chapter": "Ch 5: Emerging Modes of Business"
+  },
+  {
+    "text": "What is the primary difference between BPO and KPO (Knowledge Process Outsourcing)?",
+    "options": [
+      "BPO involves outsourcing manufacturing operations, while KPO involves outsourcing knowledge-based operations",
+      "BPO involves outsourcing knowledge-based operations, while KPO involves outsourcing manufacturing operations",
+      "BPO involves outsourcing customer service operations, while KPO involves outsourcing accounting operations",
+      "BPO involves outsourcing accounting operations, while KPO involves outsourcing customer service operations"
+    ],
+    "correctAnswer": "BPO involves outsourcing manufacturing operations, while KPO involves outsourcing knowledge-based operations",
+    "explanation": "BPO involves outsourcing specific business processes, such as customer service or accounting, while KPO involves outsourcing knowledge-based operations, such as research and development or engineering.",
+    "difficulty": "Hard",
+    "class": "Class 11",
+    "subject": "Business Studies",
+    "chapter": "Ch 5: Emerging Modes of Business"
+  },
+  {
+    "text": "Which of the following is a benefit of e-Business for customers?",
+    "options": [
+      "Increased prices",
+      "Reduced product availability",
+      "Improved customer service",
+      "Reduced convenience"
+    ],
+    "correctAnswer": "Improved customer service",
+    "explanation": "e-Business provides customers with 24/7 access to businesses, allowing them to shop and conduct other transactions at their convenience. This can lead to improved customer satisfaction and loyalty.",
+    "difficulty": "Easy",
+    "class": "Class 11",
+    "subject": "Business Studies",
+    "chapter": "Ch 5: Emerging Modes of Business"
+  },
+  {
+    "text": "What is the primary purpose of a firewall in online transaction security?",
+    "options": [
+      "To encrypt data",
+      "To prevent unauthorized access",
+      "To detect viruses",
+      "To reduce costs"
+    ],
+    "correctAnswer": "To prevent unauthorized access",
+    "explanation": "A firewall is a security system that prevents unauthorized access to a computer network or system. It acts as a barrier between the internet and a business's internal network, blocking unauthorized access and protecting customer data.",
+    "difficulty": "Medium",
+    "class": "Class 11",
+    "subject": "Business Studies",
+    "chapter": "Ch 5: Emerging Modes of Business"
+  },
+  {
+    "text": "Which of the following is an example of a security risk in e-Business?",
+    "options": [
+      "A customer's credit card information being stolen",
+      "A business's website being hacked",
+      "A customer's personal information being sold to a third party",
+      "All of the above"
+    ],
+    "correctAnswer": "All of the above",
+    "explanation": "e-Business is vulnerable to various security risks, including the theft of customer credit card information, hacking of business websites, and the sale of customer personal information to third parties.",
+    "difficulty": "Medium",
+    "class": "Class 11",
+    "subject": "Business Studies",
+    "chapter": "Ch 5: Emerging Modes of Business"
+  },
+  {
+    "text": "What is the primary benefit of e-Business for businesses?",
+    "options": [
+      "Reduced costs",
+      "Increased revenue",
+      "Improved customer service",
+      "All of the above"
+    ],
+    "correctAnswer": "All of the above",
+    "explanation": "e-Business offers several benefits for businesses, including reduced costs, increased revenue, and improved customer service. By automating various business processes and providing 24/7 access to customers, e-Business can help businesses reduce costs, increase revenue, and improve customer satisfaction.",
+    "difficulty": "Medium",
+    "class": "Class 11",
+    "subject": "Business Studies",
+    "chapter": "Ch 5: Emerging Modes of Business"
+  },
+  {
+    "text": "Which of the following is an example of a limitation of e-Business?",
+    "options": [
+      "Lack of personal touch",
+      "Dependence on technology",
+      "Security risks",
+      "All of the above"
+    ],
+    "correctAnswer": "All of the above",
+    "explanation": "e-Business has several limitations, including lack of personal touch, dependence on technology, and security risks. The lack of face-to-face interaction can make it difficult for businesses to build relationships with customers, while the dependence on technology can make businesses vulnerable to technical issues and security risks.",
+    "difficulty": "Medium",
+    "class": "Class 11",
+    "subject": "Business Studies",
+    "chapter": "Ch 5: Emerging Modes of Business"
+  },
+  {
+    "text": "What is the primary purpose of encryption in online transaction security?",
+    "options": [
+      "To protect customer data",
+      "To prevent fraud",
+      "To ensure timely payment",
+      "To reduce costs"
+    ],
+    "correctAnswer": "To protect customer data",
+    "explanation": "Encryption is a security measure that protects customer data, such as credit card numbers and personal information, from unauthorized access. It involves converting plaintext data into unreadable ciphertext data, making it difficult for hackers to intercept and read the data.",
+    "difficulty": "Medium",
+    "class": "Class 11",
+    "subject": "Business Studies",
+    "chapter": "Ch 5: Emerging Modes of Business"
+  },
+  {
+    "text": "Which of the following is an example of B2C transaction?",
+    "options": [
+      "A business selling a product to another business",
+      "A consumer buying a product from a business",
+      "A consumer selling a product to another consumer",
+      "A business buying raw materials from another business"
+    ],
+    "correctAnswer": "A consumer buying a product from a business",
+    "explanation": "B2C (Business-to-Consumer) transactions involve the exchange of goods or services between a business and a consumer. In this case, a consumer buying a product from a business is an example of a B2C transaction.",
+    "difficulty": "Easy",
+    "class": "Class 11",
+    "subject": "Business Studies",
+    "chapter": "Ch 5: Emerging Modes of Business"
+  },
+  {
+    "text": "What is the primary benefit of outsourcing for businesses?",
+    "options": [
+      "Reduced costs",
+      "Increased revenue",
+      "Improved customer service",
+      "All of the above"
+    ],
+    "correctAnswer": "Reduced costs",
+    "explanation": "Outsourcing involves contracting with another business to perform certain tasks or functions. The primary benefit of outsourcing is reduced costs, as businesses can take advantage of lower labor costs and other efficiencies.",
+    "difficulty": "Medium",
+    "class": "Class 11",
+    "subject": "Business Studies",
+    "chapter": "Ch 5: Emerging Modes of Business"
+  },
+  {
+    "text": "Which of the following is an example of KPO (Knowledge Process Outsourcing)?",
+    "options": [
+      "A business outsourcing its customer service operations",
+      "A business outsourcing its accounting operations",
+      "A business outsourcing its research and development operations",
+      "A business outsourcing its manufacturing operations"
+    ],
+    "correctAnswer": "A business outsourcing its research and development operations",
+    "explanation": "KPO involves outsourcing knowledge-based operations, such as research and development, engineering, or consulting. In this case, a business outsourcing its research and development operations is an example of KPO.",
+    "difficulty": "Medium",
+    "class": "Class 11",
+    "subject": "Business Studies",
+    "chapter": "Ch 5: Emerging Modes of Business"
+  },
+  {
+    "text": "What is the primary difference between e-Business and traditional business?",
+    "options": [
+      "e-Business uses the internet, while traditional business does not",
+      "e-Business is more expensive than traditional business",
+      "e-Business is less convenient than traditional business",
+      "e-Business is more secure than traditional business"
+    ],
+    "correctAnswer": "e-Business uses the internet, while traditional business does not",
+    "explanation": "e-Business uses the internet and other digital technologies to support all the activities of a business, whereas traditional business does not use the internet or digital technologies to the same extent.",
+    "difficulty": "Easy",
+    "class": "Class 11",
+    "subject": "Business Studies",
+    "chapter": "Ch 5: Emerging Modes of Business"
+  },
+  {
+    "text": "Which of the following is a benefit of e-Business for society?",
+    "options": [
+      "Increased employment opportunities",
+      "Improved environmental sustainability",
+      "Increased access to goods and services",
+      "All of the above"
+    ],
+    "correctAnswer": "All of the above",
+    "explanation": "e-Business offers several benefits for society, including increased employment opportunities, improved environmental sustainability, and increased access to goods and services. By providing 24/7 access to businesses and enabling global trade, e-Business can help create new job opportunities, reduce the environmental impact of traditional business practices, and increase access to goods and services for consumers around the world.",
+    "difficulty": "Medium",
+    "class": "Class 11",
+    "subject": "Business Studies",
+    "chapter": "Ch 5: Emerging Modes of Business"
+  },
+  {
+    "text": "What is the primary purpose of online payment systems in e-Business?",
+    "options": [
+      "To reduce costs",
+      "To improve customer service",
+      "To increase revenue",
+      "To facilitate online transactions"
+    ],
+    "correctAnswer": "To facilitate online transactions",
+    "explanation": "Online payment systems, such as credit card processing and digital wallets, enable businesses to accept payments from customers over the internet. This facilitates online transactions and makes it possible for customers to purchase goods and services from businesses online.",
+    "difficulty": "Easy",
+    "class": "Class 11",
+    "subject": "Business Studies",
+    "chapter": "Ch 5: Emerging Modes of Business"
+  },
+  {
+    "text": "Which of the following is an example of a security measure in e-Business?",
+    "options": [
+      "Firewall",
+      "Encryption",
+      "Antivirus software",
+      "All of the above"
+    ],
+    "correctAnswer": "All of the above",
+    "explanation": "e-Business uses various security measures to protect customer data and prevent unauthorized access. These measures include firewalls, encryption, antivirus software, and other technologies designed to prevent hacking, identity theft, and other security threats.",
+    "difficulty": "Medium",
+    "class": "Class 11",
+    "subject": "Business Studies",
+    "chapter": "Ch 5: Emerging Modes of Business"
+  },
+  {
+    "text": "What is the primary benefit of e-Business for small businesses?",
+    "options": [
+      "Increased revenue",
+      "Improved customer service",
+      "Reduced costs",
+      "All of the above"
+    ],
+    "correctAnswer": "All of the above",
+    "explanation": "e-Business offers several benefits for small businesses, including increased revenue, improved customer service, and reduced costs. By providing 24/7 access to customers and enabling global trade, e-Business can help small businesses increase revenue, improve customer satisfaction, and reduce costs.",
+    "difficulty": "Medium",
+    "class": "Class 11",
+    "subject": "Business Studies",
+    "chapter": "Ch 5: Emerging Modes of Business"
+  },
+  {
+    "text": "Which of the following is an example of a limitation of e-Business for small businesses?",
+    "options": [
+      "Lack of technical expertise",
+      "Limited financial resources",
+      "Dependence on technology",
+      "All of the above"
+    ],
+    "correctAnswer": "All of the above",
+    "explanation": "e-Business can be challenging for small businesses due to limitations such as lack of technical expertise, limited financial resources, and dependence on technology. Small businesses may not have the resources or expertise to develop and maintain a robust e-Business platform, which can make it difficult for them to compete with larger businesses.",
+    "difficulty": "Medium",
+    "class": "Class 11",
+    "subject": "Business Studies",
+    "chapter": "Ch 5: Emerging Modes of Business"
+  },
+  {
+    "text": "What is the primary purpose of digital certificates in e-Business?",
+    "options": [
+      "To authenticate the identity of businesses",
+      "To encrypt data",
+      "To prevent unauthorized access",
+      "To reduce costs"
+    ],
+    "correctAnswer": "To authenticate the identity of businesses",
+    "explanation": "Digital certificates are used to authenticate the identity of businesses and individuals in e-Business transactions. They provide a secure way to verify the identity of parties involved in online transactions and help prevent identity theft and other security threats.",
+    "difficulty": "Medium",
+    "class": "Class 11",
+    "subject": "Business Studies",
+    "chapter": "Ch 5: Emerging Modes of Business"
+  }
+]

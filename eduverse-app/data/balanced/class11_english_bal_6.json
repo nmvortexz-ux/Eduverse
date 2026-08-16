@@ -1,0 +1,362 @@
+[
+  {
+    "text": "Identify the correct form of the possessive adjective in the sentence: '______ car is very expensive.'",
+    "options": [
+      "My",
+      "Mine",
+      "My's",
+      "Mine's"
+    ],
+    "correctAnswer": "My",
+    "explanation": "The possessive adjective 'my' is used to describe the noun 'car'. According to NCERT, possessive adjectives are used to show that something belongs to someone.",
+    "difficulty": "Easy",
+    "class": "Class 11",
+    "subject": "English",
+    "chapter": "Ch 6: Grammar & Sentence Transformations"
+  },
+  {
+    "text": "Which of the following sentences is in the passive voice?",
+    "options": [
+      "The dog bites the man.",
+      "The man was bitten by the dog.",
+      "The man bites the dog.",
+      "The dog is biting the man."
+    ],
+    "correctAnswer": "The man was bitten by the dog.",
+    "explanation": "The sentence 'The man was bitten by the dog' is in the passive voice because the subject 'man' is receiving the action of the verb 'bitten'. As per NCERT, in the passive voice, the focus is on the person or thing affected by the action.",
+    "difficulty": "Medium",
+    "class": "Class 11",
+    "subject": "English",
+    "chapter": "Ch 6: Grammar & Sentence Transformations"
+  },
+  {
+    "text": "Which of the following is an example of a complex sentence?",
+    "options": [
+      "I went to the store, and I bought some milk.",
+      "I went to the store because I needed some milk.",
+      "I went to the store.",
+      "I bought some milk."
+    ],
+    "correctAnswer": "I went to the store because I needed some milk.",
+    "explanation": "The sentence 'I went to the store because I needed some milk' is a complex sentence because it contains an independent clause ('I went to the store') and a dependent clause ('because I needed some milk'). According to NCERT, complex sentences are used to show a relationship between two ideas.",
+    "difficulty": "Hard",
+    "class": "Class 11",
+    "subject": "English",
+    "chapter": "Ch 6: Grammar & Sentence Transformations"
+  },
+  {
+    "text": "Identify the correct form of the modal verb in the sentence: 'I ______ go to the party if you want me to.'",
+    "options": [
+      "shall",
+      "should",
+      "will",
+      "would"
+    ],
+    "correctAnswer": "will",
+    "explanation": "The modal verb 'will' is used to express willingness or intention. As per NCERT, 'will' is used to talk about future plans or predictions.",
+    "difficulty": "Medium",
+    "class": "Class 11",
+    "subject": "English",
+    "chapter": "Ch 6: Grammar & Sentence Transformations"
+  },
+  {
+    "text": "Which of the following sentences is an example of reported speech?",
+    "options": [
+      "'I am going to the store,' said John.",
+      "John said that he was going to the store.",
+      "John said, 'I am going to the store.'",
+      "John said, 'He is going to the store.'"
+    ],
+    "correctAnswer": "John said that he was going to the store.",
+    "explanation": "The sentence 'John said that he was going to the store' is an example of reported speech because it reports what someone said, but does not use their exact words. According to NCERT, reported speech is used to convey what someone said, but in a different way.",
+    "difficulty": "Hard",
+    "class": "Class 11",
+    "subject": "English",
+    "chapter": "Ch 6: Grammar & Sentence Transformations"
+  },
+  {
+    "text": "Identify the error in the sentence: 'The dog chase the cat.'",
+    "options": [
+      "Subject-verb agreement",
+      "Tense consistency",
+      "Modal verb usage",
+      "None of the above"
+    ],
+    "correctAnswer": "Subject-verb agreement",
+    "explanation": "The error in the sentence is subject-verb agreement. The verb 'chase' should be 'chases' to agree with the singular subject 'dog'. As per NCERT, subject-verb agreement is important for clear and grammatically correct communication.",
+    "difficulty": "Easy",
+    "class": "Class 11",
+    "subject": "English",
+    "chapter": "Ch 6: Grammar & Sentence Transformations"
+  },
+  {
+    "text": "Which of the following sentences is in the present perfect tense?",
+    "options": [
+      "I go to the store.",
+      "I went to the store.",
+      "I have gone to the store.",
+      "I am going to the store."
+    ],
+    "correctAnswer": "I have gone to the store.",
+    "explanation": "The sentence 'I have gone to the store' is in the present perfect tense because it describes an action that started in the past and continues up to the present. According to NCERT, the present perfect tense is used to talk about actions that started in the past and have a connection to the present.",
+    "difficulty": "Medium",
+    "class": "Class 11",
+    "subject": "English",
+    "chapter": "Ch 6: Grammar & Sentence Transformations"
+  },
+  {
+    "text": "Identify the correct form of the determiner in the sentence: '______ book is on the table.'",
+    "options": [
+      "A",
+      "An",
+      "The",
+      "No article"
+    ],
+    "correctAnswer": "The",
+    "explanation": "The determiner 'the' is used to refer to a specific book. According to NCERT, 'the' is used to talk about a specific noun that is already known to the listener or reader.",
+    "difficulty": "Easy",
+    "class": "Class 11",
+    "subject": "English",
+    "chapter": "Ch 6: Grammar & Sentence Transformations"
+  },
+  {
+    "text": "Which of the following sentences is an example of a clause?",
+    "options": [
+      "I went to the store.",
+      "Because I needed some milk.",
+      "I went to the store because I needed some milk.",
+      "Milk is essential for health."
+    ],
+    "correctAnswer": "Because I needed some milk.",
+    "explanation": "The sentence 'Because I needed some milk' is an example of a dependent clause, which cannot stand alone as a complete sentence. According to NCERT, clauses are groups of words that contain a subject and a predicate.",
+    "difficulty": "Medium",
+    "class": "Class 11",
+    "subject": "English",
+    "chapter": "Ch 6: Grammar & Sentence Transformations"
+  },
+  {
+    "text": "Identify the correct form of the verb in the sentence: 'By the time I ______ my homework, it was already midnight.'",
+    "options": [
+      "finish",
+      "finished",
+      "had finished",
+      "was finishing"
+    ],
+    "correctAnswer": "had finished",
+    "explanation": "The verb 'had finished' is in the past perfect tense, which is used to describe an action that happened before another action in the past. According to NCERT, the past perfect tense is used to show that one action was completed before another action started.",
+    "difficulty": "Hard",
+    "class": "Class 11",
+    "subject": "English",
+    "chapter": "Ch 6: Grammar & Sentence Transformations"
+  },
+  {
+    "text": "Which of the following sentences is in the active voice?",
+    "options": [
+      "The ball was thrown by John.",
+      "John threw the ball.",
+      "The ball is being thrown by John.",
+      "John is throwing the ball."
+    ],
+    "correctAnswer": "John threw the ball.",
+    "explanation": "The sentence 'John threw the ball' is in the active voice because the subject 'John' is performing the action of the verb 'threw'. According to NCERT, in the active voice, the focus is on the person or thing doing the action.",
+    "difficulty": "Medium",
+    "class": "Class 11",
+    "subject": "English",
+    "chapter": "Ch 6: Grammar & Sentence Transformations"
+  },
+  {
+    "text": "Identify the error in the sentence: 'The teacher give us a lot of homework.'",
+    "options": [
+      "Subject-verb agreement",
+      "Tense consistency",
+      "Modal verb usage",
+      "None of the above"
+    ],
+    "correctAnswer": "Subject-verb agreement",
+    "explanation": "The error in the sentence is subject-verb agreement. The verb 'give' should be 'gives' to agree with the singular subject 'teacher'. As per NCERT, subject-verb agreement is important for clear and grammatically correct communication.",
+    "difficulty": "Easy",
+    "class": "Class 11",
+    "subject": "English",
+    "chapter": "Ch 6: Grammar & Sentence Transformations"
+  },
+  {
+    "text": "Which of the following sentences is an example of a sentence transformation?",
+    "options": [
+      "The dog is barking.",
+      "The dog barks.",
+      "The dog is being barked at.",
+      "The barking dog is loud."
+    ],
+    "correctAnswer": "The dog is being barked at.",
+    "explanation": "The sentence 'The dog is being barked at' is an example of a sentence transformation because it changes the original sentence 'The dog barks' into a different form, using the passive voice. According to NCERT, sentence transformations are used to change the form of a sentence without changing its meaning.",
+    "difficulty": "Hard",
+    "class": "Class 11",
+    "subject": "English",
+    "chapter": "Ch 6: Grammar & Sentence Transformations"
+  },
+  {
+    "text": "Identify the correct form of the modal verb in the sentence: 'You ______ try this cake, it's delicious.'",
+    "options": [
+      "must",
+      "should",
+      "will",
+      "would"
+    ],
+    "correctAnswer": "should",
+    "explanation": "The modal verb 'should' is used to give advice or make a recommendation. According to NCERT, 'should' is used to talk about what is advisable or recommended.",
+    "difficulty": "Medium",
+    "class": "Class 11",
+    "subject": "English",
+    "chapter": "Ch 6: Grammar & Sentence Transformations"
+  },
+  {
+    "text": "Which of the following sentences is in the past perfect continuous tense?",
+    "options": [
+      "I had been studying for three hours.",
+      "I was studying for three hours.",
+      "I studied for three hours.",
+      "I have been studying for three hours."
+    ],
+    "correctAnswer": "I had been studying for three hours.",
+    "explanation": "The sentence 'I had been studying for three hours' is in the past perfect continuous tense, which is used to describe an action that started before a specific time in the past and continued up to that time. According to NCERT, the past perfect continuous tense is used to show that one action was in progress before another action started.",
+    "difficulty": "Hard",
+    "class": "Class 11",
+    "subject": "English",
+    "chapter": "Ch 6: Grammar & Sentence Transformations"
+  },
+  {
+    "text": "Identify the error in the sentence: 'The new employee are very friendly.'",
+    "options": [
+      "Subject-verb agreement",
+      "Tense consistency",
+      "Modal verb usage",
+      "None of the above"
+    ],
+    "correctAnswer": "Subject-verb agreement",
+    "explanation": "The error in the sentence is subject-verb agreement. The verb 'are' should be 'is' to agree with the singular subject 'employee'. As per NCERT, subject-verb agreement is important for clear and grammatically correct communication.",
+    "difficulty": "Easy",
+    "class": "Class 11",
+    "subject": "English",
+    "chapter": "Ch 6: Grammar & Sentence Transformations"
+  },
+  {
+    "text": "Which of the following sentences is an example of reported speech?",
+    "options": [
+      "'I am going to the store,' said John.",
+      "John said that he was going to the store.",
+      "John said, 'I am going to the store.'",
+      "John said, 'He is going to the store.'"
+    ],
+    "correctAnswer": "John said that he was going to the store.",
+    "explanation": "The sentence 'John said that he was going to the store' is an example of reported speech because it reports what someone said, but does not use their exact words. According to NCERT, reported speech is used to convey what someone said, but in a different way.",
+    "difficulty": "Hard",
+    "class": "Class 11",
+    "subject": "English",
+    "chapter": "Ch 6: Grammar & Sentence Transformations"
+  },
+  {
+    "text": "Identify the correct form of the verb in the sentence: 'By next year, I ______ studying English for five years.'",
+    "options": [
+      "will have been",
+      "will be",
+      "am",
+      "have been"
+    ],
+    "correctAnswer": "will have been",
+    "explanation": "The verb 'will have been' is in the future perfect continuous tense, which is used to describe an action that will be in progress at a specific time in the future. According to NCERT, the future perfect continuous tense is used to show that one action will be in progress before another action starts.",
+    "difficulty": "Hard",
+    "class": "Class 11",
+    "subject": "English",
+    "chapter": "Ch 6: Grammar & Sentence Transformations"
+  },
+  {
+    "text": "Which of the following sentences is in the passive voice?",
+    "options": [
+      "The dog bites the man.",
+      "The man was bitten by the dog.",
+      "The man bites the dog.",
+      "The dog is biting the man."
+    ],
+    "correctAnswer": "The man was bitten by the dog.",
+    "explanation": "The sentence 'The man was bitten by the dog' is in the passive voice because the subject 'man' is receiving the action of the verb 'bitten'. As per NCERT, in the passive voice, the focus is on the person or thing affected by the action.",
+    "difficulty": "Medium",
+    "class": "Class 11",
+    "subject": "English",
+    "chapter": "Ch 6: Grammar & Sentence Transformations"
+  },
+  {
+    "text": "Identify the error in the sentence: 'The teacher give us a lot of homework.'",
+    "options": [
+      "Subject-verb agreement",
+      "Tense consistency",
+      "Modal verb usage",
+      "None of the above"
+    ],
+    "correctAnswer": "Subject-verb agreement",
+    "explanation": "The error in the sentence is subject-verb agreement. The verb 'give' should be 'gives' to agree with the singular subject 'teacher'. As per NCERT, subject-verb agreement is important for clear and grammatically correct communication.",
+    "difficulty": "Easy",
+    "class": "Class 11",
+    "subject": "English",
+    "chapter": "Ch 6: Grammar & Sentence Transformations"
+  },
+  {
+    "text": "Which of the following sentences is an example of a sentence transformation?",
+    "options": [
+      "The dog is barking.",
+      "The dog barks.",
+      "The dog is being barked at.",
+      "The barking dog is loud."
+    ],
+    "correctAnswer": "The dog is being barked at.",
+    "explanation": "The sentence 'The dog is being barked at' is an example of a sentence transformation because it changes the original sentence 'The dog barks' into a different form, using the passive voice. According to NCERT, sentence transformations are used to change the form of a sentence without changing its meaning.",
+    "difficulty": "Hard",
+    "class": "Class 11",
+    "subject": "English",
+    "chapter": "Ch 6: Grammar & Sentence Transformations"
+  },
+  {
+    "text": "Identify the correct form of the modal verb in the sentence: 'You ______ try this cake, it's delicious.'",
+    "options": [
+      "must",
+      "should",
+      "will",
+      "would"
+    ],
+    "correctAnswer": "should",
+    "explanation": "The modal verb 'should' is used to give advice or make a recommendation. According to NCERT, 'should' is used to talk about what is advisable or recommended.",
+    "difficulty": "Medium",
+    "class": "Class 11",
+    "subject": "English",
+    "chapter": "Ch 6: Grammar & Sentence Transformations"
+  },
+  {
+    "text": "Which of the following sentences is in the past perfect continuous tense?",
+    "options": [
+      "I had been studying for three hours.",
+      "I was studying for three hours.",
+      "I studied for three hours.",
+      "I have been studying for three hours."
+    ],
+    "correctAnswer": "I had been studying for three hours.",
+    "explanation": "The sentence 'I had been studying for three hours' is in the past perfect continuous tense, which is used to describe an action that started before a specific time in the past and continued up to that time. According to NCERT, the past perfect continuous tense is used to show that one action was in progress before another action started.",
+    "difficulty": "Hard",
+    "class": "Class 11",
+    "subject": "English",
+    "chapter": "Ch 6: Grammar & Sentence Transformations"
+  },
+  {
+    "text": "Identify the error in the sentence: 'The new employee are very friendly.'",
+    "options": [
+      "Subject-verb agreement",
+      "Tense consistency",
+      "Modal verb usage",
+      "None of the above"
+    ],
+    "correctAnswer": "Subject-verb agreement",
+    "explanation": "The error in the sentence is subject-verb agreement. The verb 'are' should be 'is' to agree with the singular subject 'employee'. As per NCERT, subject-verb agreement is important for clear and grammatically correct communication.",
+    "difficulty": "Easy",
+    "class": "Class 11",
+    "subject": "English",
+    "chapter": "Ch 6: Grammar & Sentence Transformations"
+  }
+]

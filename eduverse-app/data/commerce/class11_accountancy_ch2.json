@@ -1,0 +1,422 @@
+[
+  {
+    "text": "Which fundamental accounting assumption implies that a business enterprise will continue its operations for an indefinite period and will not be liquidated in the foreseeable future?",
+    "options": [
+      "Consistency Assumption",
+      "Going Concern Assumption",
+      "Accrual Assumption",
+      "Business Entity Assumption"
+    ],
+    "correctAnswer": "Going Concern Assumption",
+    "explanation": "According to the Going Concern assumption of NCERT Accountancy, it is assumed that the business will continue its operations for an indefinite period of time and has neither the intention nor the necessity of liquidation.",
+    "class": "Class 11",
+    "subject": "Accountancy",
+    "chapter": "Ch 2: Theory Base of Accounting"
+  },
+  {
+    "text": "Fixed assets are recorded in the balance sheet at their historical cost less accumulated depreciation rather than their net realizable market value due to which concept?",
+    "options": [
+      "Conservatism Concept",
+      "Going Concern Assumption",
+      "Materiality Concept",
+      "Money Measurement Concept"
+    ],
+    "correctAnswer": "Going Concern Assumption",
+    "explanation": "Because of the Going Concern assumption, fixed assets are not intended for immediate resale at breakup value, hence they are shown at cost less depreciation rather than market realizable value.",
+    "class": "Class 11",
+    "subject": "Accountancy",
+    "chapter": "Ch 2: Theory Base of Accounting"
+  },
+  {
+    "text": "According to which accounting concept is the business treated as a separate distinct unit completely distinct from its owner(s)?",
+    "options": [
+      "Business Entity Concept",
+      "Dual Aspect Concept",
+      "Accounting Period Concept",
+      "Matching Concept"
+    ],
+    "correctAnswer": "Business Entity Concept",
+    "explanation": "The Business Entity concept states that a business has a legal and economic identity distinct from its owner(s). Therefore, owner's personal transactions are kept separate from business transactions.",
+    "class": "Class 11",
+    "subject": "Accountancy",
+    "chapter": "Ch 2: Theory Base of Accounting"
+  },
+  {
+    "text": "Under the Business Entity Concept, capital invested by the proprietor is shown on which side of the Balance Sheet?",
+    "options": [
+      "Assets side as a receivable",
+      "Liabilities side as an internal claim of the owner against the business",
+      "Income statement as revenue",
+      "Footnote to accounts as a contingent liability"
+    ],
+    "correctAnswer": "Liabilities side as an internal claim of the owner against the business",
+    "explanation": "Under the Business Entity concept, the enterprise treats the owner as an internal creditor for the capital invested, showing Capital under Liabilities on the Balance Sheet.",
+    "class": "Class 11",
+    "subject": "Accountancy",
+    "chapter": "Ch 2: Theory Base of Accounting"
+  },
+  {
+    "text": "Which accounting principle requires that accounting practices and methods (such as depreciation methods) should remain unchanged from one accounting period to another?",
+    "options": [
+      "Consistency Principle",
+      "Conservatism Principle",
+      "Realisation Principle",
+      "Historical Cost Principle"
+    ],
+    "correctAnswer": "Consistency Principle",
+    "explanation": "The Consistency principle states that accounting practices and policies once adopted should be applied consistently from year to year to facilitate meaningful inter-period comparison.",
+    "class": "Class 11",
+    "subject": "Accountancy",
+    "chapter": "Ch 2: Theory Base of Accounting"
+  },
+  {
+    "text": "Under the Accrual Assumption of accounting, revenues and expenses are recognized when:",
+    "options": [
+      "Cash is actually received or paid",
+      "Transactions are entered into or earned/incurred, regardless of when cash is settled",
+      "At the end of the tax assessment year by tax officers",
+      "Only when goods are manufactured in the warehouse"
+    ],
+    "correctAnswer": "Transactions are entered into or earned/incurred, regardless of when cash is settled",
+    "explanation": "Accrual basis records revenue when it is earned (sale made or service rendered) and expenses when they are incurred to generate that revenue, irrespective of actual cash inflow or outflow.",
+    "class": "Class 11",
+    "subject": "Accountancy",
+    "chapter": "Ch 2: Theory Base of Accounting"
+  },
+  {
+    "text": "Which fundamental accounting concept requires dividing the continuous life of an enterprise into specified intervals (usually 12 months) for measuring financial performance?",
+    "options": [
+      "Going Concern Concept",
+      "Accounting Period Concept",
+      "Objectivity Concept",
+      "Materiality Concept"
+    ],
+    "correctAnswer": "Accounting Period Concept",
+    "explanation": "The Accounting Period concept divides the infinite life of a business into specific regular intervals (usually one year, April 1 to March 31 in India) to measure profits and financial position.",
+    "class": "Class 11",
+    "subject": "Accountancy",
+    "chapter": "Ch 2: Theory Base of Accounting"
+  },
+  {
+    "text": "The convention of Conservatism (Prudence) dictates that an accountant should:",
+    "options": [
+      "Anticipate all future profits and ignore all potential losses",
+      "Anticipate no profit, but provide for all possible losses",
+      "Record assets at their highest estimated market replacement cost",
+      "Exclude depreciation charges during loss-making years"
+    ],
+    "correctAnswer": "Anticipate no profit, but provide for all possible losses",
+    "explanation": "Prudence/Conservatism states: 'Do not anticipate profits, but provide for all possible losses.' This ensures assets and profits are not overstated.",
+    "class": "Class 11",
+    "subject": "Accountancy",
+    "chapter": "Ch 2: Theory Base of Accounting"
+  },
+  {
+    "text": "Valuation of closing inventory at 'Cost or Net Realisable Value (Market Value), whichever is lower' is an application of which accounting convention?",
+    "options": [
+      "Prudence / Conservatism Convention",
+      "Consistency Convention",
+      "Historical Cost Concept",
+      "Dual Aspect Concept"
+    ],
+    "correctAnswer": "Prudence / Conservatism Convention",
+    "explanation": "As per the Prudence (Conservatism) principle, closing stock is valued at lower of cost or net realizable value to avoid recognizing unrealized profits while accounting for potential inventory loss.",
+    "class": "Class 11",
+    "subject": "Accountancy",
+    "chapter": "Ch 2: Theory Base of Accounting"
+  },
+  {
+    "text": "Creating a 'Provision for Doubtful Debts' against trade debtors is based on which accounting principle?",
+    "options": [
+      "Prudence / Conservatism",
+      "Historical Cost",
+      "Materiality",
+      "Verifiability"
+    ],
+    "correctAnswer": "Prudence / Conservatism",
+    "explanation": "Provision for doubtful debts anticipates potential credit loss from uncollectible debtors in accordance with the convention of Conservatism/Prudence.",
+    "class": "Class 11",
+    "subject": "Accountancy",
+    "chapter": "Ch 2: Theory Base of Accounting"
+  },
+  {
+    "text": "Which accounting principle states that expenses incurred during an accounting period should be matched with the revenues earned during that same period to determine accurate profit or loss?",
+    "options": [
+      "Matching Concept",
+      "Business Entity Concept",
+      "Money Measurement Concept",
+      "Cost Concept"
+    ],
+    "correctAnswer": "Matching Concept",
+    "explanation": "The Matching Concept emphasizes that all expenses incurred to earn revenue in an accounting period must be matched and deducted from that revenue to determine the true profit or loss.",
+    "class": "Class 11",
+    "subject": "Accountancy",
+    "chapter": "Ch 2: Theory Base of Accounting"
+  },
+  {
+    "text": "Outstanding expenses (e.g., unpaid salaries at year-end) are included in the current year's Profit and Loss Account due to which concept?",
+    "options": [
+      "Matching Concept & Accrual Concept",
+      "Cash Concept only",
+      "Historical Cost Concept",
+      "Conservatism only"
+    ],
+    "correctAnswer": "Matching Concept & Accrual Concept",
+    "explanation": "Because the benefit of employee services was consumed in the current year to generate current revenue, the expense must be recognized (accrued and matched) even if cash has not yet been paid.",
+    "class": "Class 11",
+    "subject": "Accountancy",
+    "chapter": "Ch 2: Theory Base of Accounting"
+  },
+  {
+    "text": "According to the Historical Cost Concept, an asset is recorded in the books of accounts at:",
+    "options": [
+      "The price at which the asset can currently be sold in the secondhand market",
+      "The actual price paid to acquire it, including freight and installation costs",
+      "An arbitrary valuation determined by the company's directors",
+      "Its projected future replacement cost ten years later"
+    ],
+    "correctAnswer": "The actual price paid to acquire it, including freight and installation costs",
+    "explanation": "Historical cost is the purchase price paid plus all incidental expenses (freight, transit insurance, installation) incurred to bring the asset to operating condition.",
+    "class": "Class 11",
+    "subject": "Accountancy",
+    "chapter": "Ch 2: Theory Base of Accounting"
+  },
+  {
+    "text": "Which principle states that all significant financial and operational information having a material bearing on economic decisions must be disclosed in financial statements or accompanying notes?",
+    "options": [
+      "Full Disclosure Principle",
+      "Materiality Principle",
+      "Money Measurement Principle",
+      "Realisation Principle"
+    ],
+    "correctAnswer": "Full Disclosure Principle",
+    "explanation": "Full Disclosure requires that financial statements report all relevant facts and significant information honestly, completely, and transparently to avoid misleading users.",
+    "class": "Class 11",
+    "subject": "Accountancy",
+    "chapter": "Ch 2: Theory Base of Accounting"
+  },
+  {
+    "text": "Contingent liabilities (e.g., pending lawsuits that may result in financial claims) are shown as footnotes to the Balance Sheet in compliance with:",
+    "options": [
+      "Full Disclosure Principle",
+      "Going Concern Assumption",
+      "Dual Aspect Concept",
+      "Money Measurement Concept"
+    ],
+    "correctAnswer": "Full Disclosure Principle",
+    "explanation": "Contingent liabilities represent potential obligations whose occurrence depends on future uncertain events. They are disclosed in footnotes under the Full Disclosure principle.",
+    "class": "Class 11",
+    "subject": "Accountancy",
+    "chapter": "Ch 2: Theory Base of Accounting"
+  },
+  {
+    "text": "The Materiality Principle is considered an exception or modifier to which accounting principle?",
+    "options": [
+      "Full Disclosure Principle",
+      "Dual Aspect Principle",
+      "Going Concern Principle",
+      "Business Entity Principle"
+    ],
+    "correctAnswer": "Full Disclosure Principle",
+    "explanation": "Materiality modifies Full Disclosure by stating that items having an insignificant effect on financial decisions (e.g., small pencil sharpeners purchased) need not be separately disclosed as fixed assets and can be expensed immediately.",
+    "class": "Class 11",
+    "subject": "Accountancy",
+    "chapter": "Ch 2: Theory Base of Accounting"
+  },
+  {
+    "text": "Purchasing small stationery items like paper clips or dusters is charged directly as an expense rather than capitalizing as fixed assets due to the application of:",
+    "options": [
+      "Materiality Concept",
+      "Conservatism Concept",
+      "Cost Concept",
+      "Objectivity Concept"
+    ],
+    "correctAnswer": "Materiality Concept",
+    "explanation": "Items of very small monetary value do not materially impact the assessment of the financial health of the business and are written off as expenses under the Materiality concept.",
+    "class": "Class 11",
+    "subject": "Accountancy",
+    "chapter": "Ch 2: Theory Base of Accounting"
+  },
+  {
+    "text": "According to the Revenue Recognition (Realisation) Concept, revenue from the sale of goods is generally considered realized when:",
+    "options": [
+      "An order is received from a customer",
+      "Legal ownership and risk/title of goods are transferred to the buyer",
+      "Cash is credited to the seller's bank account",
+      "Goods are manufactured in the production unit"
+    ],
+    "correctAnswer": "Legal ownership and risk/title of goods are transferred to the buyer",
+    "explanation": "Revenue is earned when the seller transfers the property and risks of ownership in goods to the buyer in exchange for a valid claim to cash or receivables.",
+    "class": "Class 11",
+    "subject": "Accountancy",
+    "chapter": "Ch 2: Theory Base of Accounting"
+  },
+  {
+    "text": "Which principle requires that accounting data must be supported by verifiable documentary evidence (vouchers, bills, receipts, contracts) and free from personal bias?",
+    "options": [
+      "Objectivity / Verifiable Objective Evidence Concept",
+      "Consistency Principle",
+      "Conservatism Principle",
+      "Materiality Principle"
+    ],
+    "correctAnswer": "Objectivity / Verifiable Objective Evidence Concept",
+    "explanation": "The Objectivity principle requires that all accounting transactions must be factual, verifiable against source documents, and free from subjective personal bias of the accountant.",
+    "class": "Class 11",
+    "subject": "Accountancy",
+    "chapter": "Ch 2: Theory Base of Accounting"
+  },
+  {
+    "text": "The acronym 'GAAP' in financial accounting stands for:",
+    "options": [
+      "Generally Accepted Accounting Principles",
+      "Global Auditing and Accounting Procedures",
+      "General Association of Accounting Professionals",
+      "Government Authorized Accounting Protocols"
+    ],
+    "correctAnswer": "Generally Accepted Accounting Principles",
+    "explanation": "GAAP refers to the standard framework of guidelines, rules, conventions, and practices followed by accountants worldwide to ensure consistency and comparability in financial reporting.",
+    "class": "Class 11",
+    "subject": "Accountancy",
+    "chapter": "Ch 2: Theory Base of Accounting"
+  },
+  {
+    "text": "In India, the premier body responsible for issuing authoritative Accounting Standards (AS) is:",
+    "options": [
+      "Reserve Bank of India (RBI)",
+      "Institute of Chartered Accountants of India (ICAI)",
+      "Securities and Exchange Board of India (SEBI)",
+      "Ministry of Corporate Affairs (MCA) solely without advisory bodies"
+    ],
+    "correctAnswer": "Institute of Chartered Accountants of India (ICAI)",
+    "explanation": "The Accounting Standards Board (ASB) constituted by the Institute of Chartered Accountants of India (ICAI) in 1977 formulates Accounting Standards in India.",
+    "class": "Class 11",
+    "subject": "Accountancy",
+    "chapter": "Ch 2: Theory Base of Accounting"
+  },
+  {
+    "text": "What does 'Ind AS' stand for in modern Indian corporate accounting?",
+    "options": [
+      "Indian Accounting Standards (converged with IFRS)",
+      "Industrial Auditing Systems",
+      "Integrated National Data Accounting System",
+      "Independent Audit Schedule"
+    ],
+    "correctAnswer": "Indian Accounting Standards (converged with IFRS)",
+    "explanation": "Ind AS (Indian Accounting Standards) are the accounting standards converged with International Financial Reporting Standards (IFRS) notified by the Ministry of Corporate Affairs for Indian companies.",
+    "class": "Class 11",
+    "subject": "Accountancy",
+    "chapter": "Ch 2: Theory Base of Accounting"
+  },
+  {
+    "text": "What is the primary objective of harmonizing Indian Accounting Standards with IFRS (International Financial Reporting Standards)?",
+    "options": [
+      "To restrict Indian businesses from operating outside India",
+      "To ensure global comparability, transparency, and facilitate cross-border capital flow",
+      "To eliminate the use of double-entry bookkeeping",
+      "To avoid paying corporate income taxes"
+    ],
+    "correctAnswer": "To ensure global comparability, transparency, and facilitate cross-border capital flow",
+    "explanation": "IFRS convergence promotes global consistency, improves transparency, and enhances foreign investors' confidence in Indian financial statements.",
+    "class": "Class 11",
+    "subject": "Accountancy",
+    "chapter": "Ch 2: Theory Base of Accounting"
+  },
+  {
+    "text": "Under the Goods and Services Tax (GST) framework in India, Input Tax Credit (ITC) on purchases of goods is accounted for as a:",
+    "options": [
+      "Direct Expense in the Profit and Loss Account",
+      "Current Asset (receivable/set-off against output tax liability)",
+      "Long-term Liability",
+      "Direct reduction of Owner's Capital"
+    ],
+    "correctAnswer": "Current Asset (receivable/set-off against output tax liability)",
+    "explanation": "Input GST paid on purchases is an asset because it can be adjusted/set off against the Output GST collected on sales before remitting the balance to the government.",
+    "class": "Class 11",
+    "subject": "Accountancy",
+    "chapter": "Ch 2: Theory Base of Accounting"
+  },
+  {
+    "text": "When goods are sold to an intra-state customer (within the same state), which two GST components are levied simultaneously?",
+    "options": [
+      "IGST and UTGST",
+      "CGST (Central GST) and SGST (State GST)",
+      "Customs Duty and Excise Duty",
+      "Service Tax and VAT"
+    ],
+    "correctAnswer": "CGST (Central GST) and SGST (State GST)",
+    "explanation": "For intra-state supplies, GST is divided equally between the Central Government (CGST) and the respective State Government (SGST).",
+    "class": "Class 11",
+    "subject": "Accountancy",
+    "chapter": "Ch 2: Theory Base of Accounting"
+  },
+  {
+    "text": "If a transaction has an effect of increasing an asset by ₹50,000, which of the following simultaneous effects maintains the fundamental accounting equation $\\text{Assets} = \\text{Liabilities} + \\text{Capital}$?",
+    "options": [
+      "An increase in liabilities by ₹50,000 OR an increase in capital by ₹50,000",
+      "An increase in another asset by ₹50,000",
+      "A decrease in liabilities by ₹50,000",
+      "A decrease in owner's capital by ₹50,000"
+    ],
+    "correctAnswer": "An increase in liabilities by ₹50,000 OR an increase in capital by ₹50,000",
+    "explanation": "Under the dual aspect concept, an increase in total assets ($+\\text{Asset}$) must be balanced by either a corresponding increase in outside liabilities ($+\\text{Liability}$) or owner's capital ($+\\text{Capital}$), or a decrease in another asset ($-\\text{Asset}$).",
+    "class": "Class 11",
+    "subject": "Accountancy",
+    "chapter": "Ch 2: Theory Base of Accounting"
+  },
+  {
+    "text": "Which of the following is NOT recognized as one of the three fundamental accounting assumptions under AS-1 issued by ICAI?",
+    "options": [
+      "Going Concern",
+      "Consistency",
+      "Accrual",
+      "Materiality"
+    ],
+    "correctAnswer": "Materiality",
+    "explanation": "As per Accounting Standard 1 (AS-1), the three Fundamental Accounting Assumptions are: 1. Going Concern, 2. Consistency, 3. Accrual. If these are followed, no specific disclosure is needed.",
+    "class": "Class 11",
+    "subject": "Accountancy",
+    "chapter": "Ch 2: Theory Base of Accounting"
+  },
+  {
+    "text": "If a firm changes its method of inventory valuation from FIFO (First-In, First-Out) to Weighted Average method, which accounting convention requires it to disclose the change and its financial impact in the notes to accounts?",
+    "options": [
+      "Consistency Principle & Full Disclosure Principle",
+      "Money Measurement Principle",
+      "Dual Aspect Concept",
+      "Matching Concept only"
+    ],
+    "correctAnswer": "Consistency Principle & Full Disclosure Principle",
+    "explanation": "Any departure from a consistently applied accounting policy must be fully disclosed along with its monetary impact under the Consistency and Full Disclosure principles.",
+    "class": "Class 11",
+    "subject": "Accountancy",
+    "chapter": "Ch 2: Theory Base of Accounting"
+  },
+  {
+    "text": "A business enterprise receives advance payment of ₹25,000 from a customer for goods to be delivered in the next financial year. Under the Revenue Recognition Concept, this advance is recorded as:",
+    "options": [
+      "Sales Revenue of the current accounting period",
+      "An unearned revenue liability (Current Liability)",
+      "Direct credit to Owner's Capital Account",
+      "Sundry Debtors receivable"
+    ],
+    "correctAnswer": "An unearned revenue liability (Current Liability)",
+    "explanation": "Revenue cannot be recognized until goods are delivered. Advance cash received without transfer of goods creates an obligation (liability) to deliver goods in the future.",
+    "class": "Class 11",
+    "subject": "Accountancy",
+    "chapter": "Ch 2: Theory Base of Accounting"
+  },
+  {
+    "text": "Under the Cash Basis of Accounting, net profit is calculated as the difference between:",
+    "options": [
+      "Total revenues earned (cash + credit) and total expenses incurred (paid + unpaid)",
+      "Actual cash receipts and actual cash payments during the period",
+      "Total assets and total liabilities at year-end",
+      "Gross sales turnover and inventory purchases"
+    ],
+    "correctAnswer": "Actual cash receipts and actual cash payments during the period",
+    "explanation": "Under the Cash Basis of accounting, entries are recorded only when cash is received or paid. Outstanding expenses, prepaid expenses, and accrued incomes are ignored.",
+    "class": "Class 11",
+    "subject": "Accountancy",
+    "chapter": "Ch 2: Theory Base of Accounting"
+  }
+]

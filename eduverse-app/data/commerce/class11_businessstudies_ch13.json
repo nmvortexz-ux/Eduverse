@@ -1,0 +1,362 @@
+[
+  {
+    "text": "What is the primary function of a commercial bank?",
+    "options": [
+      "To provide insurance services",
+      "To provide warehousing facilities",
+      "To accept deposits and provide loans",
+      "To facilitate communication services"
+    ],
+    "correctAnswer": "To accept deposits and provide loans",
+    "explanation": "Commercial banks are financial institutions that accept deposits from the public and provide loans to individuals and businesses. They play a crucial role in the economy by facilitating the flow of money and credit.",
+    "difficulty": "Easy",
+    "class": "Class 11",
+    "subject": "Business Studies",
+    "chapter": "Ch 4: Business Services"
+  },
+  {
+    "text": "What is the full form of RTGS?",
+    "options": [
+      "Real Time Gross Settlement",
+      "Rapid Transfer of Goods and Services",
+      "Retail Trade and Goods Services",
+      "Remote Transfer of Goods and Services"
+    ],
+    "correctAnswer": "Real Time Gross Settlement",
+    "explanation": "RTGS stands for Real Time Gross Settlement, which is a payment system that enables the transfer of funds from one bank to another on a real-time basis.",
+    "difficulty": "Easy",
+    "class": "Class 11",
+    "subject": "Business Studies",
+    "chapter": "Ch 4: Business Services"
+  },
+  {
+    "text": "What is the principle of utmost good faith in insurance?",
+    "options": [
+      "The insurer must disclose all facts about the policy",
+      "The insured must disclose all facts about the risk",
+      "The insurer and insured must have a written contract",
+      "The insurer must provide a refund if the insured is not satisfied"
+    ],
+    "correctAnswer": "The insured must disclose all facts about the risk",
+    "explanation": "The principle of utmost good faith in insurance requires the insured to disclose all facts about the risk being insured, including any factors that could increase the likelihood of a claim being made.",
+    "difficulty": "Medium",
+    "class": "Class 11",
+    "subject": "Business Studies",
+    "chapter": "Ch 4: Business Services"
+  },
+  {
+    "text": "What is the purpose of warehousing in business services?",
+    "options": [
+      "To provide storage facilities for goods",
+      "To facilitate the transportation of goods",
+      "To provide insurance services for goods",
+      "To facilitate the sale of goods"
+    ],
+    "correctAnswer": "To provide storage facilities for goods",
+    "explanation": "Warehousing involves the storage of goods in a secure and controlled environment, which helps to protect the goods from damage or loss and facilitates the smooth flow of goods through the supply chain.",
+    "difficulty": "Easy",
+    "class": "Class 11",
+    "subject": "Business Studies",
+    "chapter": "Ch 4: Business Services"
+  },
+  {
+    "text": "What is the concept of indemnity in insurance?",
+    "options": [
+      "The insurer pays the insured a fixed amount of money",
+      "The insurer reimburses the insured for losses incurred",
+      "The insurer provides a guarantee against loss",
+      "The insurer invests the premium payments"
+    ],
+    "correctAnswer": "The insurer reimburses the insured for losses incurred",
+    "explanation": "The concept of indemnity in insurance means that the insurer reimburses the insured for losses incurred, up to the limit of the policy, in order to restore the insured to their pre-loss financial position.",
+    "difficulty": "Medium",
+    "class": "Class 11",
+    "subject": "Business Studies",
+    "chapter": "Ch 4: Business Services"
+  },
+  {
+    "text": "What is the difference between life insurance and general insurance?",
+    "options": [
+      "Life insurance provides coverage for death, while general insurance provides coverage for non-life events",
+      "Life insurance provides coverage for non-life events, while general insurance provides coverage for death",
+      "Life insurance provides coverage for both life and non-life events",
+      "General insurance provides coverage for both life and non-life events"
+    ],
+    "correctAnswer": "Life insurance provides coverage for death, while general insurance provides coverage for non-life events",
+    "explanation": "Life insurance provides coverage for the death of the insured, while general insurance provides coverage for non-life events such as fire, marine, and other types of losses.",
+    "difficulty": "Medium",
+    "class": "Class 11",
+    "subject": "Business Studies",
+    "chapter": "Ch 4: Business Services"
+  },
+  {
+    "text": "What is the concept of proximate cause in insurance?",
+    "options": [
+      "The immediate cause of a loss",
+      "The underlying cause of a loss",
+      "The remote cause of a loss",
+      "The indirect cause of a loss"
+    ],
+    "correctAnswer": "The immediate cause of a loss",
+    "explanation": "The concept of proximate cause in insurance refers to the immediate cause of a loss, which is the event that directly leads to the loss or damage.",
+    "difficulty": "Medium",
+    "class": "Class 11",
+    "subject": "Business Studies",
+    "chapter": "Ch 4: Business Services"
+  },
+  {
+    "text": "What is the purpose of subrogation in insurance?",
+    "options": [
+      "To allow the insurer to sue the insured for damages",
+      "To allow the insurer to recover the amount of the claim from the insured",
+      "To allow the insurer to recover the amount of the claim from a third party",
+      "To allow the insured to recover the amount of the claim from the insurer"
+    ],
+    "correctAnswer": "To allow the insurer to recover the amount of the claim from a third party",
+    "explanation": "The purpose of subrogation in insurance is to allow the insurer to recover the amount of the claim from a third party who is responsible for the loss or damage, in order to minimize the insurer's losses.",
+    "difficulty": "Hard",
+    "class": "Class 11",
+    "subject": "Business Studies",
+    "chapter": "Ch 4: Business Services"
+  },
+  {
+    "text": "What is the concept of insurable interest in insurance?",
+    "options": [
+      "The insured must have a financial interest in the subject-matter of the insurance",
+      "The insured must have a personal interest in the subject-matter of the insurance",
+      "The insured must have a legal interest in the subject-matter of the insurance",
+      "The insured must have a moral interest in the subject-matter of the insurance"
+    ],
+    "correctAnswer": "The insured must have a financial interest in the subject-matter of the insurance",
+    "explanation": "The concept of insurable interest in insurance requires that the insured must have a financial interest in the subject-matter of the insurance, meaning that they would suffer a financial loss if the subject-matter were to be damaged or lost.",
+    "difficulty": "Medium",
+    "class": "Class 11",
+    "subject": "Business Studies",
+    "chapter": "Ch 4: Business Services"
+  },
+  {
+    "text": "What is the purpose of e-banking in commercial banking?",
+    "options": [
+      "To provide a secure way for customers to access their accounts and conduct transactions online",
+      "To provide a way for customers to deposit cash into their accounts",
+      "To provide a way for customers to withdraw cash from their accounts",
+      "To provide a way for customers to apply for loans"
+    ],
+    "correctAnswer": "To provide a secure way for customers to access their accounts and conduct transactions online",
+    "explanation": "The purpose of e-banking in commercial banking is to provide a secure way for customers to access their accounts and conduct transactions online, such as checking account balances, transferring funds, and paying bills.",
+    "difficulty": "Easy",
+    "class": "Class 11",
+    "subject": "Business Studies",
+    "chapter": "Ch 4: Business Services"
+  },
+  {
+    "text": "What is the difference between NEFT and RTGS?",
+    "options": [
+      "NEFT is a real-time payment system, while RTGS is a non-real-time payment system",
+      "NEFT is a non-real-time payment system, while RTGS is a real-time payment system",
+      "NEFT is a payment system for small transactions, while RTGS is a payment system for large transactions",
+      "NEFT is a payment system for large transactions, while RTGS is a payment system for small transactions"
+    ],
+    "correctAnswer": "NEFT is a non-real-time payment system, while RTGS is a real-time payment system",
+    "explanation": "NEFT (National Electronic Funds Transfer) is a non-real-time payment system that settles transactions in batches, while RTGS (Real Time Gross Settlement) is a real-time payment system that settles transactions individually.",
+    "difficulty": "Medium",
+    "class": "Class 11",
+    "subject": "Business Studies",
+    "chapter": "Ch 4: Business Services"
+  },
+  {
+    "text": "What is the concept of fire insurance?",
+    "options": [
+      "Insurance that provides coverage for damage to property caused by fire",
+      "Insurance that provides coverage for damage to property caused by natural disasters",
+      "Insurance that provides coverage for damage to property caused by theft",
+      "Insurance that provides coverage for damage to property caused by accident"
+    ],
+    "correctAnswer": "Insurance that provides coverage for damage to property caused by fire",
+    "explanation": "Fire insurance is a type of insurance that provides coverage for damage to property caused by fire, including damage to buildings, contents, and other assets.",
+    "difficulty": "Easy",
+    "class": "Class 11",
+    "subject": "Business Studies",
+    "chapter": "Ch 4: Business Services"
+  },
+  {
+    "text": "What is the concept of marine insurance?",
+    "options": [
+      "Insurance that provides coverage for damage to ships and cargo during transportation",
+      "Insurance that provides coverage for damage to property caused by fire",
+      "Insurance that provides coverage for damage to property caused by natural disasters",
+      "Insurance that provides coverage for damage to property caused by theft"
+    ],
+    "correctAnswer": "Insurance that provides coverage for damage to ships and cargo during transportation",
+    "explanation": "Marine insurance is a type of insurance that provides coverage for damage to ships and cargo during transportation, including damage caused by accidents, natural disasters, and other risks.",
+    "difficulty": "Medium",
+    "class": "Class 11",
+    "subject": "Business Studies",
+    "chapter": "Ch 4: Business Services"
+  },
+  {
+    "text": "What is the purpose of communication in business services?",
+    "options": [
+      "To facilitate the exchange of information between businesses and their stakeholders",
+      "To facilitate the transportation of goods",
+      "To facilitate the storage of goods",
+      "To facilitate the sale of goods"
+    ],
+    "correctAnswer": "To facilitate the exchange of information between businesses and their stakeholders",
+    "explanation": "The purpose of communication in business services is to facilitate the exchange of information between businesses and their stakeholders, including customers, suppliers, employees, and investors.",
+    "difficulty": "Easy",
+    "class": "Class 11",
+    "subject": "Business Studies",
+    "chapter": "Ch 4: Business Services"
+  },
+  {
+    "text": "What is the concept of life insurance?",
+    "options": [
+      "Insurance that provides coverage for death",
+      "Insurance that provides coverage for damage to property",
+      "Insurance that provides coverage for damage to health",
+      "Insurance that provides coverage for damage to assets"
+    ],
+    "correctAnswer": "Insurance that provides coverage for death",
+    "explanation": "Life insurance is a type of insurance that provides coverage for death, providing a financial benefit to the insured's beneficiaries in the event of their death.",
+    "difficulty": "Easy",
+    "class": "Class 11",
+    "subject": "Business Studies",
+    "chapter": "Ch 4: Business Services"
+  },
+  {
+    "text": "What is the difference between a bank and a non-banking financial company (NBFC)?",
+    "options": [
+      "A bank is a financial institution that accepts deposits, while an NBFC is a financial institution that does not accept deposits",
+      "A bank is a financial institution that provides loans, while an NBFC is a financial institution that does not provide loans",
+      "A bank is a financial institution that provides insurance, while an NBFC is a financial institution that does not provide insurance",
+      "A bank is a financial institution that provides investment services, while an NBFC is a financial institution that does not provide investment services"
+    ],
+    "correctAnswer": "A bank is a financial institution that accepts deposits, while an NBFC is a financial institution that does not accept deposits",
+    "explanation": "A bank is a financial institution that accepts deposits and provides a range of financial services, while an NBFC is a financial institution that does not accept deposits and provides specialized financial services such as loans, investments, and insurance.",
+    "difficulty": "Medium",
+    "class": "Class 11",
+    "subject": "Business Studies",
+    "chapter": "Ch 4: Business Services"
+  },
+  {
+    "text": "What is the purpose of a warehouse in business services?",
+    "options": [
+      "To provide a secure location for the storage of goods",
+      "To provide a location for the transportation of goods",
+      "To provide a location for the sale of goods",
+      "To provide a location for the production of goods"
+    ],
+    "correctAnswer": "To provide a secure location for the storage of goods",
+    "explanation": "The purpose of a warehouse in business services is to provide a secure location for the storage of goods, allowing businesses to store their inventory in a safe and controlled environment.",
+    "difficulty": "Easy",
+    "class": "Class 11",
+    "subject": "Business Studies",
+    "chapter": "Ch 4: Business Services"
+  },
+  {
+    "text": "What is the concept of indemnity in life insurance?",
+    "options": [
+      "The insurer pays the insured a fixed amount of money",
+      "The insurer reimburses the insured for losses incurred",
+      "The insurer provides a guarantee against loss",
+      "The insurer invests the premium payments"
+    ],
+    "correctAnswer": "The insurer pays the insured a fixed amount of money",
+    "explanation": "In life insurance, the concept of indemnity refers to the payment of a fixed amount of money to the insured's beneficiaries in the event of the insured's death.",
+    "difficulty": "Medium",
+    "class": "Class 11",
+    "subject": "Business Studies",
+    "chapter": "Ch 4: Business Services"
+  },
+  {
+    "text": "What is the purpose of a commercial bank in the economy?",
+    "options": [
+      "To provide loans to businesses and individuals",
+      "To provide investment services to businesses and individuals",
+      "To provide insurance services to businesses and individuals",
+      "To provide all of the above services"
+    ],
+    "correctAnswer": "To provide all of the above services",
+    "explanation": "Commercial banks play a crucial role in the economy by providing a range of financial services, including loans, investments, and insurance, to businesses and individuals.",
+    "difficulty": "Easy",
+    "class": "Class 11",
+    "subject": "Business Studies",
+    "chapter": "Ch 4: Business Services"
+  },
+  {
+    "text": "What is the concept of subrogation in life insurance?",
+    "options": [
+      "The insurer has the right to sue the insured for damages",
+      "The insurer has the right to recover the amount of the claim from the insured",
+      "The insurer has the right to recover the amount of the claim from a third party",
+      "The insurer has the right to cancel the policy"
+    ],
+    "correctAnswer": "The insurer has the right to recover the amount of the claim from a third party",
+    "explanation": "In life insurance, the concept of subrogation refers to the insurer's right to recover the amount of the claim from a third party who is responsible for the insured's death.",
+    "difficulty": "Hard",
+    "class": "Class 11",
+    "subject": "Business Studies",
+    "chapter": "Ch 4: Business Services"
+  },
+  {
+    "text": "What is the purpose of NEFT in commercial banking?",
+    "options": [
+      "To facilitate real-time transactions",
+      "To facilitate non-real-time transactions",
+      "To facilitate international transactions",
+      "To facilitate domestic transactions"
+    ],
+    "correctAnswer": "To facilitate non-real-time transactions",
+    "explanation": "NEFT (National Electronic Funds Transfer) is a payment system that facilitates non-real-time transactions, settling transactions in batches.",
+    "difficulty": "Easy",
+    "class": "Class 11",
+    "subject": "Business Studies",
+    "chapter": "Ch 4: Business Services"
+  },
+  {
+    "text": "What is the concept of insurable interest in fire insurance?",
+    "options": [
+      "The insured must have a financial interest in the property being insured",
+      "The insured must have a personal interest in the property being insured",
+      "The insured must have a legal interest in the property being insured",
+      "The insured must have a moral interest in the property being insured"
+    ],
+    "correctAnswer": "The insured must have a financial interest in the property being insured",
+    "explanation": "In fire insurance, the concept of insurable interest refers to the requirement that the insured must have a financial interest in the property being insured, meaning that they would suffer a financial loss if the property were to be damaged or destroyed.",
+    "difficulty": "Medium",
+    "class": "Class 11",
+    "subject": "Business Studies",
+    "chapter": "Ch 4: Business Services"
+  },
+  {
+    "text": "What is the purpose of e-banking in commercial banking?",
+    "options": [
+      "To provide a secure way for customers to access their accounts and conduct transactions online",
+      "To provide a way for customers to deposit cash into their accounts",
+      "To provide a way for customers to withdraw cash from their accounts",
+      "To provide a way for customers to apply for loans"
+    ],
+    "correctAnswer": "To provide a secure way for customers to access their accounts and conduct transactions online",
+    "explanation": "E-banking, also known as online banking, provides a secure way for customers to access their accounts and conduct transactions online, such as checking account balances, transferring funds, and paying bills.",
+    "difficulty": "Easy",
+    "class": "Class 11",
+    "subject": "Business Studies",
+    "chapter": "Ch 4: Business Services"
+  },
+  {
+    "text": "What is the concept of proximate cause in marine insurance?",
+    "options": [
+      "The immediate cause of a loss",
+      "The underlying cause of a loss",
+      "The remote cause of a loss",
+      "The indirect cause of a loss"
+    ],
+    "correctAnswer": "The immediate cause of a loss",
+    "explanation": "In marine insurance, the concept of proximate cause refers to the immediate cause of a loss, which is the event that directly leads to the loss or damage to the ship or cargo.",
+    "difficulty": "Medium",
+    "class": "Class 11",
+    "subject": "Business Studies",
+    "chapter": "Ch 4: Business Services"
+  }
+]

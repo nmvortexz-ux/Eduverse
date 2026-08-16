@@ -1,0 +1,327 @@
+[
+  {
+    "class": "Class 10",
+    "subject": "GK",
+    "difficulty": "EASY",
+    "text": "Who is known as the \"Father of the Indian Constitution\"?",
+    "explanation": "Dr. B.R. Ambedkar was the Chairman of the Drafting Committee of the Constituent Assembly and played a pivotal role in drafting the Constitution of India.",
+    "options": [
+      { "text": "Mahatma Gandhi", "isCorrect": false },
+      { "text": "Dr. B.R. Ambedkar", "isCorrect": true },
+      { "text": "Jawaharlal Nehru", "isCorrect": false },
+      { "text": "Sardar Vallabhbhai Patel", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 10",
+    "subject": "GK",
+    "difficulty": "EASY",
+    "text": "In which year did India gain independence from British rule?",
+    "explanation": "India achieved independence from the United Kingdom on 15 August 1947, following the passage of the Indian Independence Act by the British Parliament.",
+    "options": [
+      { "text": "1942", "isCorrect": false },
+      { "text": "1945", "isCorrect": false },
+      { "text": "1947", "isCorrect": true },
+      { "text": "1950", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 10",
+    "subject": "GK",
+    "difficulty": "EASY",
+    "text": "Which is the largest ocean on Earth?",
+    "explanation": "The Pacific Ocean is the largest and deepest of Earth's oceanic divisions, extending from the Arctic Ocean in the north to the Southern Ocean in the south.",
+    "options": [
+      { "text": "Atlantic Ocean", "isCorrect": false },
+      { "text": "Indian Ocean", "isCorrect": false },
+      { "text": "Pacific Ocean", "isCorrect": true },
+      { "text": "Arctic Ocean", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 10",
+    "subject": "GK",
+    "difficulty": "EASY",
+    "text": "Which Indian space agency successfully launched the Chandrayaan-3 mission?",
+    "explanation": "The Indian Space Research Organisation (ISRO) successfully launched the Chandrayaan-3 lunar mission in July 2023, making India the first country to land near the Moon's south pole.",
+    "options": [
+      { "text": "NASA", "isCorrect": false },
+      { "text": "ISRO", "isCorrect": true },
+      { "text": "ESA", "isCorrect": false },
+      { "text": "Roscosmos", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 10",
+    "subject": "GK",
+    "difficulty": "EASY",
+    "text": "Where is the headquarters of the United Nations (UN) located?",
+    "explanation": "The headquarters of the United Nations is located in New York City, USA, on land considered international territory.",
+    "options": [
+      { "text": "Geneva", "isCorrect": false },
+      { "text": "London", "isCorrect": false },
+      { "text": "New York City", "isCorrect": true },
+      { "text": "Paris", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 10",
+    "subject": "GK",
+    "difficulty": "EASY",
+    "text": "Which river is also known as the \"Dakshin Ganga\" (Ganges of the South)?",
+    "explanation": "The Godavari is the second-longest river in India after the Ganges and is traditionally referred to as Dakshin Ganga due to its size, length, and spiritual significance.",
+    "options": [
+      { "text": "Krishna", "isCorrect": false },
+      { "text": "Godavari", "isCorrect": true },
+      { "text": "Kaveri", "isCorrect": false },
+      { "text": "Narmada", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 10",
+    "subject": "GK",
+    "difficulty": "MEDIUM",
+    "text": "Which amendment to the Indian Constitution added the words \"Socialist\", \"Secular\", and \"Integrity\" to the Preamble?",
+    "explanation": "The 42nd Amendment Act of 1976, enacted during the Emergency, added these three words to the Preamble of the Indian Constitution.",
+    "options": [
+      { "text": "42nd Amendment", "isCorrect": true },
+      { "text": "44th Amendment", "isCorrect": false },
+      { "text": "86th Amendment", "isCorrect": false },
+      { "text": "52nd Amendment", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 10",
+    "subject": "GK",
+    "difficulty": "MEDIUM",
+    "text": "Who was the founder of the Maurya Empire in ancient India?",
+    "explanation": "Chandragupta Maurya founded the Maurya Empire in 322 BCE with the help of his advisor Chanakya, overthrowing the Nanda Dynasty.",
+    "options": [
+      { "text": "Ashoka the Great", "isCorrect": false },
+      { "text": "Chandragupta Maurya", "isCorrect": true },
+      { "text": "Bindusara", "isCorrect": false },
+      { "text": "Samudragupta", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 10",
+    "subject": "GK",
+    "difficulty": "MEDIUM",
+    "text": "The Strait of Gibraltar connects which two large bodies of water?",
+    "explanation": "The Strait of Gibraltar is a narrow strait that connects the Atlantic Ocean to the Mediterranean Sea and separates Europe from Africa.",
+    "options": [
+      { "text": "Red Sea and Mediterranean Sea", "isCorrect": false },
+      { "text": "Mediterranean Sea and Atlantic Ocean", "isCorrect": true },
+      { "text": "Persian Gulf and Arabian Sea", "isCorrect": false },
+      { "text": "Black Sea and Aegean Sea", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 10",
+    "subject": "GK",
+    "difficulty": "MEDIUM",
+    "text": "Which state/union territory in India is the leading producer of saffron?",
+    "explanation": "The union territory of Jammu and Kashmir, particularly the Pampore region, is famous for producing high-quality saffron, which holds a GI tag.",
+    "options": [
+      { "text": "Himachal Pradesh", "isCorrect": false },
+      { "text": "Uttarakhand", "isCorrect": false },
+      { "text": "Jammu and Kashmir", "isCorrect": true },
+      { "text": "Sikkim", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 10",
+    "subject": "GK",
+    "difficulty": "MEDIUM",
+    "text": "Which country hosted the G20 Summit in 2023 under the theme \"Vasudhaiva Kutumbakam\"?",
+    "explanation": "India hosted the 18th G20 Summit in New Delhi in September 2023, centering on the theme of \"One Earth, One Family, One Future\".",
+    "options": [
+      { "text": "Indonesia", "isCorrect": false },
+      { "text": "India", "isCorrect": true },
+      { "text": "Brazil", "isCorrect": false },
+      { "text": "South Africa", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 10",
+    "subject": "GK",
+    "difficulty": "MEDIUM",
+    "text": "What is the name of India's first indigenous nuclear-powered ballistic missile submarine?",
+    "explanation": "INS Arihant is the lead ship of India's Arihant class of nuclear-powered ballistic missile submarines, commissioned in 2016.",
+    "options": [
+      { "text": "INS Vikramaditya", "isCorrect": false },
+      { "text": "INS Arihant", "isCorrect": true },
+      { "text": "INS Kalvari", "isCorrect": false },
+      { "text": "INS Vikrant", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 10",
+    "subject": "GK",
+    "difficulty": "HARD",
+    "text": "Under which Article of the Indian Constitution can the President declare a Financial Emergency?",
+    "explanation": "Article 360 empowers the President of India to declare a Financial Emergency if the financial stability or credit of India or any part of it is threatened.",
+    "options": [
+      { "text": "Article 352", "isCorrect": false },
+      { "text": "Article 356", "isCorrect": false },
+      { "text": "Article 360", "isCorrect": true },
+      { "text": "Article 368", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 10",
+    "subject": "GK",
+    "difficulty": "HARD",
+    "text": "The famous 'Deepaavali Declaration' of 1929, which promised Dominion Status for India, was proposed by which Viceroy?",
+    "explanation": "Viceroy Lord Irwin made the Irwin Declaration (or Deepaavali Declaration) on October 31, 1929, stating that the natural issue of India's constitutional progress was Dominion Status.",
+    "options": [
+      { "text": "Lord Irwin", "isCorrect": true },
+      { "text": "Lord Curzon", "isCorrect": false },
+      { "text": "Lord Mountbatten", "isCorrect": false },
+      { "text": "Lord Chelmsford", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 10",
+    "subject": "GK",
+    "difficulty": "HARD",
+    "text": "Which is the highest active volcano in the world?",
+    "explanation": "Nevado Ojos del Salado, located on the border between Chile and Argentina in the Andes, is the highest active volcano on Earth at 6,893 meters.",
+    "options": [
+      { "text": "Mount Vesuvius", "isCorrect": false },
+      { "text": "Mount Kilimanjaro", "isCorrect": false },
+      { "text": "Ojos del Salado", "isCorrect": true },
+      { "text": "Mauna Loa", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 10",
+    "subject": "GK",
+    "difficulty": "HARD",
+    "text": "In the context of the Indian stock market, what does the term 'Blue Chip' company refer to?",
+    "explanation": "Blue-chip companies are large, well-established, and financially sound corporations that have operated for many years and have a reputation for quality and stability.",
+    "options": [
+      { "text": "Newly listed startups with high volatility", "isCorrect": false },
+      { "text": "Large, well-established companies with a history of stable earnings", "isCorrect": true },
+      { "text": "Companies operating exclusively in the agricultural sector", "isCorrect": false },
+      { "text": "Small-cap companies with high speculative growth potential", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 10",
+    "subject": "GK",
+    "difficulty": "HARD",
+    "text": "The 'Dehing Patkai' National Park, also known as the \"Amazon of the East\", is located in which Indian state?",
+    "explanation": "Dehing Patkai National Park is located in the Dibrugarh and Tinsukia districts of Assam and is famous for its rich rainforest biodiversity.",
+    "options": [
+      { "text": "Arunachal Pradesh", "isCorrect": false },
+      { "text": "Assam", "isCorrect": true },
+      { "text": "Meghalaya", "isCorrect": false },
+      { "text": "Nagaland", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 10",
+    "subject": "GK",
+    "difficulty": "HARD",
+    "text": "The 'Balfour Declaration' of 1917, which had long-term geopolitical consequences in the Middle East, was a public statement issued by the government of which country?",
+    "explanation": "The Balfour Declaration was a public statement issued by the British government during World War I announcing support for the establishment of a \"national home for the Jewish people\" in Palestine.",
+    "options": [
+      { "text": "France", "isCorrect": false },
+      { "text": "United Kingdom", "isCorrect": true },
+      { "text": "United States", "isCorrect": false },
+      { "text": "Ottoman Empire", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 10",
+    "subject": "GK",
+    "difficulty": "VERY HARD",
+    "text": "Who was the first chairperson of the Lokpal of India, the anti-corruption authority?",
+    "explanation": "Justice Pinaki Chandra Ghose was appointed as the first chairperson of the Lokpal of India in March 2019.",
+    "options": [
+      { "text": "Justice Pinaki Chandra Ghose", "isCorrect": true },
+      { "text": "Justice Dipak Misra", "isCorrect": false },
+      { "text": "Justice Ranjan Gogoi", "isCorrect": false },
+      { "text": "Justice H.L. Dattu", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 10",
+    "subject": "GK",
+    "difficulty": "VERY HARD",
+    "text": "Who was the author of the historical work 'Tabaqat-i-Nasiri', which provides detailed history of the Delhi Sultanate up to the mid-13th century?",
+    "explanation": "Minhaj-i-Siraj Juzjani was a 13th-century Persian historian who wrote the 'Tabaqat-i-Nasiri' dedicated to Sultan Nasiruddin Mahmud of the Slave Dynasty.",
+    "options": [
+      { "text": "Ziauddin Barani", "isCorrect": false },
+      { "text": "Minhaj-i-Siraj", "isCorrect": true },
+      { "text": "Amir Khusrau", "isCorrect": false },
+      { "text": "Ibn Battuta", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 10",
+    "subject": "GK",
+    "difficulty": "VERY HARD",
+    "text": "The 'Danakil Depression', one of the hottest and lowest points on Earth, is located in which country?",
+    "explanation": "The Danakil Depression is situated in the Afar Region of northeastern Ethiopia, sitting about 125 meters below sea level and known for its extreme geothermal activity.",
+    "options": [
+      { "text": "Egypt", "isCorrect": false },
+      { "text": "Ethiopia", "isCorrect": true },
+      { "text": "Mali", "isCorrect": false },
+      { "text": "Djibouti", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 10",
+    "subject": "GK",
+    "difficulty": "VERY HARD",
+    "text": "In economics, the 'Lorenz Curve' is a graphical representation of which of the following?",
+    "explanation": "The Lorenz Curve is a graphical representation of the cumulative distribution function of empirical probability distribution of wealth or income, illustrating inequality.",
+    "options": [
+      { "text": "Relationship between inflation and unemployment", "isCorrect": false },
+      { "text": "Distribution of income or wealth within a population", "isCorrect": true },
+      { "text": "Rate of economic growth over time", "isCorrect": false },
+      { "text": "Price elasticity of demand for essential goods", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 10",
+    "subject": "GK",
+    "difficulty": "VERY HARD",
+    "text": "The 'Montreal Protocol' of 1987 is a global agreement designed to protect the ozone layer. Which amendment to this protocol, agreed in 2016, aims to phase down the production and consumption of hydrofluorocarbons (HFCs)?",
+    "explanation": "The Kigali Amendment to the Montreal Protocol is a legally binding agreement signed in 2016 to phase out hydrofluorocarbons (HFCs), which are potent greenhouse gases.",
+    "options": [
+      { "text": "Kigali Amendment", "isCorrect": true },
+      { "text": "Copenhagen Amendment", "isCorrect": false },
+      { "text": "Beijing Amendment", "isCorrect": false },
+      { "text": "Montreal Amendment", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 10",
+    "subject": "GK",
+    "difficulty": "VERY HARD",
+    "text": "The 'James Webb Space Telescope', which succeeded the Hubble Space Telescope, is positioned at which Lagrange point?",
+    "explanation": "The James Webb Space Telescope is in a halo orbit around the second Sun-Earth Lagrange point (L2), which is about 1.5 million kilometers from Earth.",
+    "options": [
+      { "text": "L1", "isCorrect": false },
+      { "text": "L2", "isCorrect": true },
+      { "text": "L3", "isCorrect": false },
+      { "text": "L4", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 10",
+    "subject": "GK",
+    "difficulty": "VERY HARD",
+    "text": "Who is the first Indian to win the prestigious Abel Prize (often referred to as the Nobel Prize of Mathematics)?",
+    "explanation": "S.R. Srinivasa Varadhan, an Indian-American mathematician, was awarded the Abel Prize in 2007 for his fundamental contributions to probability theory, specifically for creating a unified theory of large deviations.",
+    "options": [
+      { "text": "S.R. Srinivasa Varadhan", "isCorrect": true },
+      { "text": "Harish-Chandra", "isCorrect": false },
+      { "text": "C.R. Rao", "isCorrect": false },
+      { "text": "Manjul Bhargava", "isCorrect": false }
+    ]
+  }
+]

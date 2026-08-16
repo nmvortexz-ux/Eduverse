@@ -1,0 +1,212 @@
+[
+  {
+    "text": "What is the primary purpose of the Securities Premium Account under Section 52(2) of the Companies Act 2013?",
+    "options": [
+      "To record the issue of shares at a premium",
+      "To record the discount on the reissue of forfeited shares",
+      "To utilize the premium amount for writing off preliminary expenses",
+      "To record the dividend payments to shareholders"
+    ],
+    "correctAnswer": "Option C",
+    "explanation": "The Securities Premium Account is utilized to write off preliminary expenses or for the purpose of issuing fully paid bonus shares. According to Section 52(2) of the Companies Act 2013, the amount of securities premium can be utilized for writing off the expenses of or the commission paid or discount allowed on the issue of shares or debentures.",
+    "difficulty": "Easy",
+    "class": "Class 12",
+    "subject": "Accountancy",
+    "chapter": "Ch 6: Accounting for Share Capital"
+  },
+  {
+    "text": "A company forfeits 100 shares of $10 each, $8 called-up, on which $6 has been paid. The shares are reissued at $7 per share. Calculate the maximum discount that can be allowed on the reissue of these forfeited shares.",
+    "options": [
+      "$1 per share",
+      "$2 per share",
+      "$3 per share",
+      "$4 per share"
+    ],
+    "correctAnswer": "Option B",
+    "explanation": "The amount already received on the shares is $6 per share. The maximum discount that can be allowed on the reissue of these forfeited shares is the difference between the called-up amount ($8) and the amount already received ($6), which is $2 per share.",
+    "difficulty": "Medium",
+    "class": "Class 12",
+    "subject": "Accountancy",
+    "chapter": "Ch 6: Accounting for Share Capital"
+  },
+  {
+    "text": "A company issues 1000 shares of $100 each at a premium of 10%. The amount payable on each share is $20 on application, $30 on allotment, and the balance on call. If a shareholder applies for 50 shares but is allotted only 30 shares, how much will the shareholder pay on allotment?",
+    "options": [
+      "$900",
+      "$30 x 30 = $900",
+      "$30 x 50 = $1500",
+      "$30 x 30 = $900, $20 x 20 = $400 refund"
+    ],
+    "correctAnswer": "Option B",
+    "explanation": "The shareholder applied for 50 shares but was allotted only 30 shares. The amount payable on allotment is $30 per share. Therefore, the shareholder will pay $30 x 30 = $900 on allotment.",
+    "difficulty": "Medium",
+    "class": "Class 12",
+    "subject": "Accountancy",
+    "chapter": "Ch 6: Accounting for Share Capital"
+  },
+  {
+    "text": "A company has 1000 shares of $100 each. A shareholder holding 50 shares applies for an additional 20 shares but is allotted only 12 shares. Calculate the pro-rata refund due to the shareholder.",
+    "options": [
+      "$160",
+      "$200",
+      "$320",
+      "$400"
+    ],
+    "correctAnswer": "Option A",
+    "explanation": "The shareholder applied for 20 shares but was allotted only 12 shares. The pro-rata refund due to the shareholder can be calculated as follows: $20 (application money per share) x 8 (20 - 12) = $160.",
+    "difficulty": "Medium",
+    "class": "class 12",
+    "subject": "Accountancy",
+    "chapter": "Ch 6: Accounting for Share Capital"
+  },
+  {
+    "text": "What is the journal entry to record the forfeiture of 100 shares of $10 each, $8 called-up, on which $6 has been paid?",
+    "options": [
+      "$\boxed{Debit Share Capital $600, Debit Forfeited Shares $200, Credit Calls-in-arrears $200}$",
+      "$\boxed{Debit Share Capital $800, Debit Forfeited Shares $200, Credit Calls-in-arrears $0}$",
+      "$\boxed{Debit Calls-in-arrears $200, Credit Share Capital $600, Credit Forfeited Shares $200}$",
+      "$\boxed{Debit Share Capital $600, Debit Calls-in-arrears $200, Credit Forfeited Shares $200}$"
+    ],
+    "correctAnswer": "Option D",
+    "explanation": "The correct journal entry to record the forfeiture of 100 shares of $10 each, $8 called-up, on which $6 has been paid is: Debit Share Capital $600, Debit Calls-in-arrears $200, Credit Forfeited Shares $200.",
+    "difficulty": "Hard",
+    "class": "Class 12",
+    "subject": "Accountancy",
+    "chapter": "Ch 6: Accounting for Share Capital"
+  },
+  {
+    "text": "A company issues 500 shares of $100 each at a discount of 10%. Calculate the amount of discount on the issue of these shares.",
+    "options": [
+      "$5000",
+      "$2500",
+      "$500",
+      "$0"
+    ],
+    "correctAnswer": "Option A",
+    "explanation": "The amount of discount on the issue of these shares can be calculated as follows: $100 (face value) x 10% (discount) x 500 (number of shares) = $5000.",
+    "difficulty": "Easy",
+    "class": "Class 12",
+    "subject": "Accountancy",
+    "chapter": "Ch 6: Accounting for Share Capital"
+  },
+  {
+    "text": "What is the purpose of the Calls-in-arrears account?",
+    "options": [
+      "To record the amount due from shareholders who have not paid their share calls",
+      "To record the amount paid by shareholders on application",
+      "To record the amount paid by shareholders on allotment",
+      "To record the amount paid by shareholders on call"
+    ],
+    "correctAnswer": "Option A",
+    "explanation": "The Calls-in-arrears account is used to record the amount due from shareholders who have not paid their share calls. This account is debited when the shares are forfeited and credited when the amount is received from the shareholder.",
+    "difficulty": "Easy",
+    "class": "Class 12",
+    "subject": "Accountancy",
+    "chapter": "Ch 6: Accounting for Share Capital"
+  },
+  {
+    "text": "A company has 2000 shares of $100 each. A shareholder holding 100 shares applies for an additional 50 shares but is allotted only 30 shares. Calculate the pro-rata refund due to the shareholder.",
+    "options": [
+      "$400",
+      "$1000",
+      "$2000",
+      "$0"
+    ],
+    "correctAnswer": "Option A",
+    "explanation": "The shareholder applied for 50 shares but was allotted only 30 shares. The pro-rata refund due to the shareholder can be calculated as follows: $20 (application money per share) x 20 (50 - 30) = $400.",
+    "difficulty": "Medium",
+    "class": "Class 12",
+    "subject": "Accountancy",
+    "chapter": "Ch 6: Accounting for Share Capital"
+  },
+  {
+    "text": "What is the journal entry to record the reissue of 100 forfeited shares of $10 each at $7 per share?",
+    "options": [
+      "$\boxed{Debit Forfeited Shares $200, Debit Share Capital $700, Credit Bank $700}$",
+      "$\boxed{Debit Bank $700, Debit Forfeited Shares $200, Credit Share Capital $900}$",
+      "$\boxed{Debit Bank $700, Credit Share Capital $700, Credit Forfeited Shares $200}$",
+      "$\boxed{Debit Forfeited Shares $200, Credit Bank $700, Credit Share Capital $500}$"
+    ],
+    "correctAnswer": "Option C",
+    "explanation": "The correct journal entry to record the reissue of 100 forfeited shares of $10 each at $7 per share is: Debit Bank $700, Credit Share Capital $700, Credit Forfeited Shares $200.",
+    "difficulty": "Hard",
+    "class": "Class 12",
+    "subject": "Accountancy",
+    "chapter": "Ch 6: Accounting for Share Capital"
+  },
+  {
+    "text": "A company issues 1000 shares of $100 each at a premium of 20%. Calculate the amount of premium on the issue of these shares.",
+    "options": [
+      "$20,000",
+      "$10,000",
+      "$5000",
+      "$0"
+    ],
+    "correctAnswer": "Option A",
+    "explanation": "The amount of premium on the issue of these shares can be calculated as follows: $100 (face value) x 20% (premium) x 1000 (number of shares) = $20,000.",
+    "difficulty": "Easy",
+    "class": "Class 12",
+    "subject": "Accountancy",
+    "chapter": "Ch 6: Accounting for Share Capital"
+  },
+  {
+    "text": "What is the purpose of the Securities Premium Account?",
+    "options": [
+      "To record the amount of premium on the issue of shares",
+      "To record the amount of discount on the issue of shares",
+      "To record the amount of calls-in-arrears",
+      "To record the amount of share capital"
+    ],
+    "correctAnswer": "Option A",
+    "explanation": "The Securities Premium Account is used to record the amount of premium on the issue of shares. This account is credited when the shares are issued at a premium and debited when the premium amount is utilized.",
+    "difficulty": "Easy",
+    "class": "Class 12",
+    "subject": "Accountancy",
+    "chapter": "Ch 6: Accounting for Share Capital"
+  },
+  {
+    "text": "A company has 5000 shares of $100 each. A shareholder holding 200 shares applies for an additional 100 shares but is allotted only 50 shares. Calculate the pro-rata refund due to the shareholder.",
+    "options": [
+      "$1000",
+      "$500",
+      "$2000",
+      "$0"
+    ],
+    "correctAnswer": "Option A",
+    "explanation": "The shareholder applied for 100 shares but was allotted only 50 shares. The pro-rata refund due to the shareholder can be calculated as follows: $20 (application money per share) x 50 (100 - 50) = $1000.",
+    "difficulty": "Medium",
+    "class": "Class 12",
+    "subject": "Accountancy",
+    "chapter": "Ch 6: Accounting for Share Capital"
+  },
+  {
+    "text": "What is the maximum discount that can be allowed on the reissue of forfeited shares?",
+    "options": [
+      "The difference between the called-up amount and the amount already received",
+      "The difference between the face value and the amount already received",
+      "The difference between the face value and the called-up amount",
+      "The face value of the shares"
+    ],
+    "correctAnswer": "Option A",
+    "explanation": "The maximum discount that can be allowed on the reissue of forfeited shares is the difference between the called-up amount and the amount already received. This is because the company cannot allow a discount that is more than the amount already received by the shareholder.",
+    "difficulty": "Medium",
+    "class": "Class 12",
+    "subject": "Accountancy",
+    "chapter": "Ch 6: Accounting for Share Capital"
+  },
+  {
+    "text": "A company issues 2000 shares of $100 each at a premium of 15%. Calculate the amount of premium on the issue of these shares.",
+    "options": [
+      "$30,000",
+      "$20,000",
+      "$15,000",
+      "$0"
+    ],
+    "correctAnswer": "Option A",
+    "explanation": "The amount of premium on the issue of these shares can be calculated as follows: $100 (face value) x 15% (premium) x 2000 (number of shares) = $30,000.",
+    "difficulty": "Easy",
+    "class": "Class 12",
+    "subject": "Accountancy",
+    "chapter": "Ch 6: Accounting for Share Capital"
+  }
+]

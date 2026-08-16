@@ -1,0 +1,302 @@
+[
+  {
+    "text": "What is the primary purpose of preparing a Bank Reconciliation Statement (BRS)?",
+    "options": [
+      "To identify errors in the Cash Book",
+      "To reconcile the difference between the Cash Book and Pass Book balances",
+      "To prepare the Final Accounts",
+      "To determine the cash balance"
+    ],
+    "correctAnswer": "To reconcile the difference between the Cash Book and Pass Book balances",
+    "explanation": "The BRS is prepared to reconcile the difference between the balance as per the Cash Book and the balance as per the Pass Book. This is necessary because the Cash Book and Pass Book are maintained by two different parties (the business and the bank) and may not always show the same balance.",
+    "difficulty": "Easy",
+    "class": "Class 11",
+    "subject": "Accountancy",
+    "chapter": "Ch 5: Bank Reconciliation Statement"
+  },
+  {
+    "text": "Which of the following is a reason for the difference between the Cash Book and Pass Book balances?",
+    "options": [
+      "Error in the Cash Book only",
+      "Error in the Pass Book only",
+      "Cheques deposited but not cleared",
+      "All of the above"
+    ],
+    "correctAnswer": "All of the above",
+    "explanation": "The difference between the Cash Book and Pass Book balances can be due to various reasons such as errors in the Cash Book or Pass Book, cheques deposited but not cleared, cheques issued but not presented, direct debits or credits by the bank, etc.",
+    "difficulty": "Medium",
+    "class": "Class 11",
+    "subject": "Accountancy",
+    "chapter": "Ch 5: Bank Reconciliation Statement"
+  },
+  {
+    "text": "How is the balance as per the Cash Book adjusted to prepare the BRS when there is a favorable balance?",
+    "options": [
+      "By adding the unpresented cheques and subtracting the uncredited cheques",
+      "By subtracting the unpresented cheques and adding the uncredited cheques",
+      "By adding the uncredited cheques and subtracting the unpresented cheques",
+      "By subtracting the uncredited cheques and adding the unpresented cheques"
+    ],
+    "correctAnswer": "By adding the unpresented cheques and subtracting the uncredited cheques",
+    "explanation": "When there is a favorable balance, the balance as per the Cash Book is adjusted by adding the unpresented cheques (which have been issued but not yet presented to the bank) and subtracting the uncredited cheques (which have been deposited but not yet credited by the bank).",
+    "difficulty": "Medium",
+    "class": "Class 11",
+    "subject": "Accountancy",
+    "chapter": "Ch 5: Bank Reconciliation Statement"
+  },
+  {
+    "text": "What is the formula to calculate the adjusted balance as per the Cash Book when there is an overdraft balance?",
+    "options": [
+      "$\text{Adjusted Balance} = \text{Cash Book Balance} + \text{Unpresented Cheques} - \text{Uncredited Cheques}$",
+      "$\text{Adjusted Balance} = \text{Cash Book Balance} - \text{Unpresented Cheques} + \text{Uncredited Cheques}$",
+      "$\text{Adjusted Balance} = \text{Cash Book Balance} + \text{Uncredited Cheques} - \text{Unpresented Cheques}$",
+      "$\text{Adjusted Balance} = \text{Cash Book Balance} - \text{Uncredited Cheques} - \text{Unpresented Cheques}$"
+    ],
+    "correctAnswer": "$\text{Adjusted Balance} = \text{Cash Book Balance} - \text{Unpresented Cheques} + \text{Uncredited Cheques}$",
+    "explanation": "When there is an overdraft balance, the adjusted balance as per the Cash Book is calculated by subtracting the unpresented cheques and adding the uncredited cheques to the Cash Book balance.",
+    "difficulty": "Hard",
+    "class": "Class 11",
+    "subject": "Accountancy",
+    "chapter": "Ch 5: Bank Reconciliation Statement"
+  },
+  {
+    "text": "Which of the following is NOT a step in preparing the BRS?",
+    "options": [
+      "Identify the balance as per the Cash Book and Pass Book",
+      "List the causes of difference between the two balances",
+      "Adjust the balance as per the Cash Book",
+      "Prepare the Trading Account"
+    ],
+    "correctAnswer": "Prepare the Trading Account",
+    "explanation": "Preparing the Trading Account is not a step in preparing the BRS. The BRS is prepared to reconcile the difference between the Cash Book and Pass Book balances, and does not involve preparing the Trading Account.",
+    "difficulty": "Easy",
+    "class": "Class 11",
+    "subject": "Accountancy",
+    "chapter": "Ch 5: Bank Reconciliation Statement"
+  },
+  {
+    "text": "What is the purpose of the 'Add' and 'Less' columns in the BRS?",
+    "options": [
+      "To show the causes of difference between the Cash Book and Pass Book balances",
+      "To show the adjusted balance as per the Cash Book",
+      "To show the balance as per the Pass Book",
+      "To show the net effect of the adjustments"
+    ],
+    "correctAnswer": "To show the causes of difference between the Cash Book and Pass Book balances",
+    "explanation": "The 'Add' and 'Less' columns in the BRS are used to show the causes of difference between the Cash Book and Pass Book balances. The 'Add' column shows the items that need to be added to the Cash Book balance, while the 'Less' column shows the items that need to be subtracted from the Cash Book balance.",
+    "difficulty": "Medium",
+    "class": "Class 11",
+    "subject": "Accountancy",
+    "chapter": "Ch 5: Bank Reconciliation Statement"
+  },
+  {
+    "text": "How is the BRS prepared when there is a favorable balance as per the Cash Book?",
+    "options": [
+      "By adding the unpresented cheques and subtracting the uncredited cheques",
+      "By subtracting the unpresented cheques and adding the uncredited cheques",
+      "By adding the uncredited cheques and subtracting the unpresented cheques",
+      "By subtracting the uncredited cheques and adding the unpresented cheques"
+    ],
+    "correctAnswer": "By adding the unpresented cheques and subtracting the uncredited cheques",
+    "explanation": "When there is a favorable balance as per the Cash Book, the BRS is prepared by adding the unpresented cheques and subtracting the uncredited cheques. This is because the unpresented cheques have been issued but not yet presented to the bank, and the uncredited cheques have been deposited but not yet credited by the bank.",
+    "difficulty": "Medium",
+    "class": "Class 11",
+    "subject": "Accountancy",
+    "chapter": "Ch 5: Bank Reconciliation Statement"
+  },
+  {
+    "text": "What is the effect of an error in the Cash Book on the BRS?",
+    "options": [
+      "It will not affect the BRS",
+      "It will affect the BRS and the balance as per the Pass Book",
+      "It will affect the BRS but not the balance as per the Pass Book",
+      "It will affect the balance as per the Pass Book but not the BRS"
+    ],
+    "correctAnswer": "It will affect the BRS but not the balance as per the Pass Book",
+    "explanation": "An error in the Cash Book will affect the BRS, as it will result in an incorrect balance as per the Cash Book. However, it will not affect the balance as per the Pass Book, as the Pass Book is maintained by the bank and is not affected by errors in the Cash Book.",
+    "difficulty": "Medium",
+    "class": "Class 11",
+    "subject": "Accountancy",
+    "chapter": "Ch 5: Bank Reconciliation Statement"
+  },
+  {
+    "text": "Which of the following is a limitation of the BRS?",
+    "options": [
+      "It does not provide a complete picture of the company's cash position",
+      "It does not provide a complete picture of the company's bank balance",
+      "It is not prepared regularly",
+      "It is not useful for reconciling the Cash Book and Pass Book balances"
+    ],
+    "correctAnswer": "It does not provide a complete picture of the company's cash position",
+    "explanation": "The BRS is limited in that it only provides a reconciliation of the Cash Book and Pass Book balances, and does not provide a complete picture of the company's cash position. It does not take into account other factors that may affect the company's cash position, such as outstanding cheques or deposits in transit.",
+    "difficulty": "Hard",
+    "class": "Class 11",
+    "subject": "Accountancy",
+    "chapter": "Ch 5: Bank Reconciliation Statement"
+  },
+  {
+    "text": "How is the BRS useful to the business?",
+    "options": [
+      "It helps to identify errors in the Cash Book",
+      "It helps to reconcile the difference between the Cash Book and Pass Book balances",
+      "It helps to prepare the Final Accounts",
+      "All of the above"
+    ],
+    "correctAnswer": "All of the above",
+    "explanation": "The BRS is useful to the business in several ways. It helps to identify errors in the Cash Book, reconcile the difference between the Cash Book and Pass Book balances, and prepare the Final Accounts. It also provides a useful tool for managing the company's cash position and ensuring that the Cash Book and Pass Book balances are accurate.",
+    "difficulty": "Easy",
+    "class": "Class 11",
+    "subject": "Accountancy",
+    "chapter": "Ch 5: Bank Reconciliation Statement"
+  },
+  {
+    "text": "What is the purpose of the BRS in relation to the Cash Book and Pass Book?",
+    "options": [
+      "To prepare the Cash Book and Pass Book",
+      "To reconcile the difference between the Cash Book and Pass Book balances",
+      "To prepare the Final Accounts",
+      "To identify errors in the Cash Book and Pass Book"
+    ],
+    "correctAnswer": "To reconcile the difference between the Cash Book and Pass Book balances",
+    "explanation": "The primary purpose of the BRS is to reconcile the difference between the Cash Book and Pass Book balances. The BRS is prepared to identify the causes of difference between the two balances and to adjust the Cash Book balance to agree with the Pass Book balance.",
+    "difficulty": "Easy",
+    "class": "Class 11",
+    "subject": "Accountancy",
+    "chapter": "Ch 5: Bank Reconciliation Statement"
+  },
+  {
+    "text": "Which of the following is NOT a type of error that can be identified through the BRS?",
+    "options": [
+      "Error of omission",
+      "Error of commission",
+      "Error of principle",
+      "Error of transcription"
+    ],
+    "correctAnswer": "Error of transcription",
+    "explanation": "The BRS can help to identify errors of omission, commission, and principle, but it may not be able to identify errors of transcription. Errors of transcription occur when a transaction is recorded incorrectly in the Cash Book or Pass Book, and may not be apparent through the BRS.",
+    "difficulty": "Hard",
+    "class": "Class 11",
+    "subject": "Accountancy",
+    "chapter": "Ch 5: Bank Reconciliation Statement"
+  },
+  {
+    "text": "How is the BRS prepared when there is an overdraft balance as per the Cash Book?",
+    "options": [
+      "By adding the unpresented cheques and subtracting the uncredited cheques",
+      "By subtracting the unpresented cheques and adding the uncredited cheques",
+      "By adding the uncredited cheques and subtracting the unpresented cheques",
+      "By subtracting the uncredited cheques and adding the unpresented cheques"
+    ],
+    "correctAnswer": "By subtracting the unpresented cheques and adding the uncredited cheques",
+    "explanation": "When there is an overdraft balance as per the Cash Book, the BRS is prepared by subtracting the unpresented cheques and adding the uncredited cheques. This is because the unpresented cheques have been issued but not yet presented to the bank, and the uncredited cheques have been deposited but not yet credited by the bank.",
+    "difficulty": "Medium",
+    "class": "Class 11",
+    "subject": "Accountancy",
+    "chapter": "Ch 5: Bank Reconciliation Statement"
+  },
+  {
+    "text": "What is the effect of a direct debit on the BRS?",
+    "options": [
+      "It will increase the balance as per the Cash Book",
+      "It will decrease the balance as per the Cash Book",
+      "It will increase the balance as per the Pass Book",
+      "It will decrease the balance as per the Pass Book"
+    ],
+    "correctAnswer": "It will decrease the balance as per the Cash Book",
+    "explanation": "A direct debit is a payment that is made directly by the bank, without the need for a cheque. It will decrease the balance as per the Cash Book, as the payment has been made without being recorded in the Cash Book.",
+    "difficulty": "Medium",
+    "class": "Class 11",
+    "subject": "Accountancy",
+    "chapter": "Ch 5: Bank Reconciliation Statement"
+  },
+  {
+    "text": "Which of the following is a benefit of preparing the BRS?",
+    "options": [
+      "It helps to identify errors in the Cash Book",
+      "It helps to reconcile the difference between the Cash Book and Pass Book balances",
+      "It helps to prepare the Final Accounts",
+      "All of the above"
+    ],
+    "correctAnswer": "All of the above",
+    "explanation": "Preparing the BRS has several benefits, including helping to identify errors in the Cash Book, reconciling the difference between the Cash Book and Pass Book balances, and preparing the Final Accounts. It also provides a useful tool for managing the company's cash position and ensuring that the Cash Book and Pass Book balances are accurate.",
+    "difficulty": "Easy",
+    "class": "Class 11",
+    "subject": "Accountancy",
+    "chapter": "Ch 5: Bank Reconciliation Statement"
+  },
+  {
+    "text": "What is the purpose of the 'Debit' and 'Credit' columns in the BRS?",
+    "options": [
+      "To show the causes of difference between the Cash Book and Pass Book balances",
+      "To show the adjusted balance as per the Cash Book",
+      "To show the balance as per the Pass Book",
+      "To show the net effect of the adjustments"
+    ],
+    "correctAnswer": "To show the causes of difference between the Cash Book and Pass Book balances",
+    "explanation": "The 'Debit' and 'Credit' columns in the BRS are used to show the causes of difference between the Cash Book and Pass Book balances. The 'Debit' column shows the items that need to be debited to the Cash Book, while the 'Credit' column shows the items that need to be credited to the Cash Book.",
+    "difficulty": "Medium",
+    "class": "Class 11",
+    "subject": "Accountancy",
+    "chapter": "Ch 5: Bank Reconciliation Statement"
+  },
+  {
+    "text": "How is the BRS useful in detecting fraud?",
+    "options": [
+      "It helps to identify errors in the Cash Book",
+      "It helps to reconcile the difference between the Cash Book and Pass Book balances",
+      "It helps to detect fraudulent transactions",
+      "All of the above"
+    ],
+    "correctAnswer": "All of the above",
+    "explanation": "The BRS is useful in detecting fraud as it helps to identify errors in the Cash Book, reconcile the difference between the Cash Book and Pass Book balances, and detect fraudulent transactions. By preparing the BRS, the business can identify any discrepancies between the Cash Book and Pass Book balances, which can indicate fraudulent activity.",
+    "difficulty": "Medium",
+    "class": "Class 11",
+    "subject": "Accountancy",
+    "chapter": "Ch 5: Bank Reconciliation Statement"
+  },
+  {
+    "text": "What is the effect of an unpresented cheque on the BRS?",
+    "options": [
+      "It will increase the balance as per the Cash Book",
+      "It will decrease the balance as per the Cash Book",
+      "It will increase the balance as per the Pass Book",
+      "It will decrease the balance as per the Pass Book"
+    ],
+    "correctAnswer": "It will increase the balance as per the Cash Book",
+    "explanation": "An unpresented cheque is a cheque that has been issued but not yet presented to the bank. It will increase the balance as per the Cash Book, as the cheque has been issued but not yet deducted from the Cash Book balance.",
+    "difficulty": "Medium",
+    "class": "Class 11",
+    "subject": "Accountancy",
+    "chapter": "Ch 5: Bank Reconciliation Statement"
+  },
+  {
+    "text": "Which of the following is NOT a step in preparing the BRS?",
+    "options": [
+      "Identify the balance as per the Cash Book and Pass Book",
+      "List the causes of difference between the two balances",
+      "Adjust the balance as per the Cash Book",
+      "Prepare the Balance Sheet"
+    ],
+    "correctAnswer": "Prepare the Balance Sheet",
+    "explanation": "Preparing the Balance Sheet is not a step in preparing the BRS. The BRS is prepared to reconcile the difference between the Cash Book and Pass Book balances, and does not involve preparing the Balance Sheet.",
+    "difficulty": "Easy",
+    "class": "Class 11",
+    "subject": "Accountancy",
+    "chapter": "Ch 5: Bank Reconciliation Statement"
+  },
+  {
+    "text": "What is the purpose of the BRS in relation to the Final Accounts?",
+    "options": [
+      "To prepare the Trading Account",
+      "To prepare the Profit and Loss Account",
+      "To prepare the Balance Sheet",
+      "To reconcile the difference between the Cash Book and Pass Book balances"
+    ],
+    "correctAnswer": "To reconcile the difference between the Cash Book and Pass Book balances",
+    "explanation": "The BRS is prepared to reconcile the difference between the Cash Book and Pass Book balances, which is necessary for preparing the Final Accounts. The BRS helps to ensure that the Cash Book and Pass Book balances are accurate, which is essential for preparing the Final Accounts.",
+    "difficulty": "Easy",
+    "class": "Class 11",
+    "subject": "Accountancy",
+    "chapter": "Ch 5: Bank Reconciliation Statement"
+  }
+]

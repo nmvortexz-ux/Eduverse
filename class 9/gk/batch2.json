@@ -1,0 +1,327 @@
+[
+  {
+    "class": "Class 10",
+    "subject": "GK",
+    "difficulty": "EASY",
+    "text": "Who composed the Indian National Anthem, 'Jana Gana Mana'?",
+    "explanation": "Rabindranath Tagore originally composed it in Bengali as 'Bharoto Bhagyo Bidhata', which was adopted as the National Anthem in 1950.",
+    "options": [
+      { "text": "Bankim Chandra Chattopadhyay", "isCorrect": false },
+      { "text": "Rabindranath Tagore", "isCorrect": true },
+      { "text": "Sarojini Naidu", "isCorrect": false },
+      { "text": "Subhas Chandra Bose", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 10",
+    "subject": "GK",
+    "difficulty": "EASY",
+    "text": "Which is the largest and deepest ocean on Earth?",
+    "explanation": "The Pacific Ocean covers more than 30% of the Earth's surface and contains the Mariana Trench, the deepest point on Earth.",
+    "options": [
+      { "text": "Atlantic Ocean", "isCorrect": false },
+      { "text": "Pacific Ocean", "isCorrect": true },
+      { "text": "Indian Ocean", "isCorrect": false },
+      { "text": "Arctic Ocean", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 10",
+    "subject": "GK",
+    "difficulty": "EASY",
+    "text": "Which gas is the most abundant in Earth's atmosphere?",
+    "explanation": "Nitrogen makes up about 78% of the Earth's atmosphere, followed by Oxygen at approximately 21%.",
+    "options": [
+      { "text": "Oxygen", "isCorrect": false },
+      { "text": "Nitrogen", "isCorrect": true },
+      { "text": "Carbon Dioxide", "isCorrect": false },
+      { "text": "Hydrogen", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 10",
+    "subject": "GK",
+    "difficulty": "EASY",
+    "text": "What is the capital city of France?",
+    "explanation": "Paris is the capital and most populous city of France, situated on the Seine River.",
+    "options": [
+      { "text": "Rome", "isCorrect": false },
+      { "text": "Paris", "isCorrect": true },
+      { "text": "Madrid", "isCorrect": false },
+      { "text": "Berlin", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 10",
+    "subject": "GK",
+    "difficulty": "EASY",
+    "text": "Which historical monument in Agra is renowned as a symbol of love?",
+    "explanation": "The Taj Mahal was built by Mughal Emperor Shah Jahan in memory of his favorite wife, Mumtaz Mahal.",
+    "options": [
+      { "text": "Qutub Minar", "isCorrect": false },
+      { "text": "Taj Mahal", "isCorrect": true },
+      { "text": "Red Fort", "isCorrect": false },
+      { "text": "Hawa Mahal", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 10",
+    "subject": "GK",
+    "difficulty": "EASY",
+    "text": "Who was the first Prime Minister of independent India?",
+    "explanation": "Jawaharlal Nehru assumed office as the first Prime Minister of India on August 15, 1947, serving until his death in 1964.",
+    "options": [
+      { "text": "Lal Bahadur Shastri", "isCorrect": false },
+      { "text": "Jawaharlal Nehru", "isCorrect": true },
+      { "text": "Mahatma Gandhi", "isCorrect": false },
+      { "text": "Sardar Vallabhbhai Patel", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 10",
+    "subject": "GK",
+    "difficulty": "MEDIUM",
+    "text": "In which year was the first passenger railway line opened in India between Bombay and Thane?",
+    "explanation": "The first passenger train ran on April 16, 1853, covering a distance of 34 kilometers with 400 passengers.",
+    "options": [
+      { "text": "1848", "isCorrect": false },
+      { "text": "1853", "isCorrect": true },
+      { "text": "1861", "isCorrect": false },
+      { "text": "1885", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 10",
+    "subject": "GK",
+    "difficulty": "MEDIUM",
+    "text": "Which Indian state has the longest mainland coastline?",
+    "explanation": "Gujarat has the longest coastline in India, stretching over 1,600 kilometers along the Arabian Sea.",
+    "options": [
+      { "text": "Tamil Nadu", "isCorrect": false },
+      { "text": "Gujarat", "isCorrect": true },
+      { "text": "Andhra Pradesh", "isCorrect": false },
+      { "text": "Maharashtra", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 10",
+    "subject": "GK",
+    "difficulty": "MEDIUM",
+    "text": "Which classical dance form, known for its heavy make-up and dramatic face masks, originated in Kerala?",
+    "explanation": "Kathakali is a major classical dance-drama form from Kerala, characterized by elaborate makeup, costumes, and mudras.",
+    "options": [
+      { "text": "Bharatanatyam", "isCorrect": false },
+      { "text": "Kathakali", "isCorrect": true },
+      { "text": "Kathak", "isCorrect": false },
+      { "text": "Kuchipudi", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 10",
+    "subject": "GK",
+    "difficulty": "MEDIUM",
+    "text": "The Directive Principles of State Policy (DPSP) in the Indian Constitution are borrowed from which country's constitution?",
+    "explanation": "The framers of the Indian Constitution borrowed the concept of DPSP from the Constitution of Ireland.",
+    "options": [
+      { "text": "United States", "isCorrect": false },
+      { "text": "Ireland", "isCorrect": true },
+      { "text": "United Kingdom", "isCorrect": false },
+      { "text": "Australia", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 10",
+    "subject": "GK",
+    "difficulty": "MEDIUM",
+    "text": "Which sector of the economy (Primary, Secondary, or Tertiary) contributes the largest share to India's GDP?",
+    "explanation": "The Tertiary (or service) sector is the largest contributor, accounting for over 50% of India's Gross Value Added.",
+    "options": [
+      { "text": "Primary (Agriculture) sector", "isCorrect": false },
+      { "text": "Tertiary (Service) sector", "isCorrect": true },
+      { "text": "Secondary (Manufacturing) sector", "isCorrect": false },
+      { "text": "Quaternary (Research) sector", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 10",
+    "subject": "GK",
+    "difficulty": "MEDIUM",
+    "text": "What is the name of India's first indigenously designed and built artificial satellite?",
+    "explanation": "Aryabhata, named after the famous Indian astronomer, was launched by the Soviet Union on April 19, 1975.",
+    "options": [
+      { "text": "Rohini", "isCorrect": false },
+      { "text": "Aryabhata", "isCorrect": true },
+      { "text": "Bhaskara", "isCorrect": false },
+      { "text": "INSAT-1A", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 10",
+    "subject": "GK",
+    "difficulty": "MEDIUM",
+    "text": "Which is the largest hot desert on Earth, covering much of North Africa?",
+    "explanation": "The Sahara Desert is the largest hot desert, spanning over 9 million square kilometers; Antarctica and the Arctic are larger but are cold deserts.",
+    "options": [
+      { "text": "Gobi Desert", "isCorrect": false },
+      { "text": "Sahara Desert", "isCorrect": true },
+      { "text": "Kalahari Desert", "isCorrect": false },
+      { "text": "Thar Desert", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 10",
+    "subject": "GK",
+    "difficulty": "MEDIUM",
+    "text": "Who was the last Viceroy of British India who oversaw the transfer of power and partition?",
+    "explanation": "Lord Mountbatten was appointed Viceroy in 1947 to administer the transition, later serving as the first Governor-General of independent India.",
+    "options": [
+      { "text": "Lord Curzon", "isCorrect": false },
+      { "text": "Lord Mountbatten", "isCorrect": true },
+      { "text": "Lord Canning", "isCorrect": false },
+      { "text": "Lord Irwin", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 10",
+    "subject": "GK",
+    "difficulty": "MEDIUM",
+    "text": "What is the full form of the economic term GDP?",
+    "explanation": "GDP stands for Gross Domestic Product, which is the total monetary value of all finished goods and services produced within a country's borders in a specific time.",
+    "options": [
+      { "text": "Government Development Plan", "isCorrect": false },
+      { "text": "Gross Domestic Product", "isCorrect": true },
+      { "text": "General Deposit Policy", "isCorrect": false },
+      { "text": "Gross Demand Percentage", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 10",
+    "subject": "GK",
+    "difficulty": "HARD",
+    "text": "Which British legislation officially dissolved the British East India Company and transferred rule to the British Crown?",
+    "explanation": "Following the Revolt of 1857, the Government of India Act 1858 was passed, liquidating the East India Company and establishing direct rule under Queen Victoria.",
+    "options": [
+      { "text": "Regulating Act of 1773", "isCorrect": false },
+      { "text": "Government of India Act 1858", "isCorrect": true },
+      { "text": "Pitts India Act of 1784", "isCorrect": false },
+      { "text": "Indian Councils Act 1909", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 10",
+    "subject": "GK",
+    "difficulty": "HARD",
+    "text": "How many Fundamental Duties are currently set out in Article 51A of the Indian Constitution?",
+    "explanation": "The 42nd Amendment (1976) introduced 10 duties, and the 86th Amendment (2002) added the 11th duty regarding education for children.",
+    "options": [
+      { "text": "10", "isCorrect": false },
+      { "text": "11", "isCorrect": true },
+      { "text": "12", "isCorrect": false },
+      { "text": "8", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 10",
+    "subject": "GK",
+    "difficulty": "HARD",
+    "text": "Which geographical strait separates India and the island nation of Sri Lanka?",
+    "explanation": "The Palk Strait connects the Bay of Bengal with the Palk Bay, acting as a maritime boundary between Tamil Nadu and Sri Lanka.",
+    "options": [
+      { "text": "Strait of Malacca", "isCorrect": false },
+      { "text": "Palk Strait", "isCorrect": true },
+      { "text": "Cook Strait", "isCorrect": false },
+      { "text": "Sunda Strait", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 10",
+    "subject": "GK",
+    "difficulty": "HARD",
+    "text": "Which official agency under the Ministry of Statistics and Programme Implementation compiles the Consumer Price Index (CPI) in India?",
+    "explanation": "The National Statistical Office (NSO) releases the monthly CPI data to measure inflation at the consumer level.",
+    "options": [
+      { "text": "Reserve Bank of India", "isCorrect": false },
+      { "text": "National Statistical Office", "isCorrect": true },
+      { "text": "NITI Aayog", "isCorrect": false },
+      { "text": "Ministry of Finance", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 10",
+    "subject": "GK",
+    "difficulty": "HARD",
+    "text": "Who was the first woman to serve as the Governor of an Indian State?",
+    "explanation": "Sarojini Naidu, the 'Nightingale of India', was appointed the Governor of the United Provinces (now Uttar Pradesh) in 1947.",
+    "options": [
+      { "text": "Sucheta Kripalani", "isCorrect": false },
+      { "text": "Sarojini Naidu", "isCorrect": true },
+      { "text": "Vijaya Lakshmi Pandit", "isCorrect": false },
+      { "text": "Indira Gandhi", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 10",
+    "subject": "GK",
+    "difficulty": "HARD",
+    "text": "The national motto 'Satyameva Jayate' inscribed below the National Emblem of India is taken from which ancient Sanskrit text?",
+    "explanation": "'Satyameva Jayate' (meaning Truth Alone Triumphs) is a mantra from the Mundaka Upanishad.",
+    "options": [
+      { "text": "Bhagavad Gita", "isCorrect": false },
+      { "text": "Mundaka Upanishad", "isCorrect": true },
+      { "text": "Rigveda", "isCorrect": false },
+      { "text": "Samaveda", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 10",
+    "subject": "GK",
+    "difficulty": "VERY HARD",
+    "text": "Which treaty, signed in May 1782, concluded the First Anglo-Maratha War between the East India Company and the Maratha Empire?",
+    "explanation": "The Treaty of Salbai was signed by Warren Hastings and Mahadji Scindia, establishing peace and territorial status quo for two decades.",
+    "options": [
+      { "text": "Treaty of Purandar", "isCorrect": false },
+      { "text": "Treaty of Salbai", "isCorrect": true },
+      { "text": "Treaty of Bassein", "isCorrect": false },
+      { "text": "Treaty of Surat", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 10",
+    "subject": "GK",
+    "difficulty": "VERY HARD",
+    "text": "The ancient Chola Dynasty in South India was particularly renowned for which unique administrative excellence?",
+    "explanation": "The Cholas established an exceptionally organized system of local self-government with autonomous village assemblies (Ur and Sabha).",
+    "options": [
+      { "text": "A highly centralized, direct military dictatorship", "isCorrect": false },
+      { "text": "Autonomous village administration and local self-government", "isCorrect": true },
+      { "text": "Feudal zamindari system with absolute state ownership of land", "isCorrect": false },
+      { "text": "Cooperative farming under direct royal supervision", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 10",
+    "subject": "GK",
+    "difficulty": "VERY HARD",
+    "text": "In economics, how is the phenomenon of 'Stagflation' defined?",
+    "explanation": "Stagflation is a highly challenging situation where inflation is high, economic growth rate slows down (stagnates), and unemployment remains steadily high.",
+    "options": [
+      { "text": "High economic growth accompanied by hyperinflation", "isCorrect": false },
+      { "text": "High inflation, high unemployment, and slow or stagnant economic growth", "isCorrect": true },
+      { "text": "Falling prices coupled with negative population growth", "isCorrect": false },
+      { "text": "Decline in interest rates with rising foreign direct investment", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 10",
+    "subject": "GK",
+    "difficulty": "VERY HARD",
+    "text": "Who was the Chairman of the Indian Space Research Organisation (ISRO) when India's first lunar mission, Chandrayaan-1, was launched in 2008?",
+    "explanation": "G. Madhavan Nair served as the Chairman of ISRO and Secretary of the Department of Space during the successful launch of Chandrayaan-1.",
+    "options": [
+      { "text": "Dr. K. Kasturirangan", "isCorrect": false },
+      { "text": "G. Madhavan Nair", "isCorrect": true },
+      { "text": "Dr. K. Sivan", "isCorrect": false },
+      { "text": "Dr. A.S. Kiran Kumar", "isCorrect": false }
+    ]
+  }
+]

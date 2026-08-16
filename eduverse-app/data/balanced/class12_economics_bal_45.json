@@ -1,0 +1,122 @@
+[
+  {
+    "text": "The money multiplier is given by the formula $1/LRR$. What does LRR stand for?",
+    "options": [
+      "Liquidity Ratio Requirement",
+      "Loan Reserve Ratio",
+      "Liquidity Reserve Requirement",
+      "Loan Reserve Requirement"
+    ],
+    "correctAnswer": "Loan Reserve Ratio",
+    "explanation": "The Loan Reserve Ratio (LRR) is the ratio of the amount of deposits that a bank is required to keep in reserve to the amount of deposits that it can lend out. The money multiplier is given by the formula $1/LRR$.",
+    "difficulty": "Easy",
+    "class": "Class 12",
+    "subject": "Economics",
+    "chapter": "Ch 2: Money and Banking"
+  },
+  {
+    "text": "The Reserve Bank of India uses the repo rate to control the money supply in the economy. What does repo rate stand for?",
+    "options": [
+      "Reverse Purchase Rate",
+      "Repo Purchase Rate",
+      "Reverse Repo Rate",
+      "Repo Rate"
+    ],
+    "correctAnswer": "Repo Rate",
+    "explanation": "The repo rate is the rate at which the Reserve Bank of India lends money to commercial banks. It is used to control the money supply in the economy.",
+    "difficulty": "Easy",
+    "class": "Class 12",
+    "subject": "Economics",
+    "chapter": "Ch 2: Money and Banking"
+  },
+  {
+    "text": "The Reserve Bank of India uses the reverse repo rate to absorb excess liquidity from the market. What is the reverse repo rate?",
+    "options": [
+      "The rate at which the Reserve Bank of India lends money to commercial banks",
+      "The rate at which the Reserve Bank of India absorbs excess liquidity from commercial banks",
+      "The rate at which commercial banks borrow money from the Reserve Bank of India",
+      "The rate at which commercial banks lend money to the Reserve Bank of India"
+    ],
+    "correctAnswer": "The rate at which the Reserve Bank of India absorbs excess liquidity from commercial banks",
+    "explanation": "The reverse repo rate is the rate at which the Reserve Bank of India absorbs excess liquidity from commercial banks. It is used to control the money supply in the economy.",
+    "difficulty": "Medium",
+    "class": "Class 12",
+    "subject": "Economics",
+    "chapter": "Ch 2: Money and Banking"
+  },
+  {
+    "text": "The money multiplier is given by the formula $1/LRR$. If the LRR is 0.2, what is the money multiplier?",
+    "options": [
+      "5",
+      "10",
+      "20",
+      "1/0.2"
+    ],
+    "correctAnswer": "1/0.2",
+    "explanation": "The money multiplier is given by the formula $1/LRR$. If the LRR is 0.2, the money multiplier is $1/0.2 = 5$.",
+    "difficulty": "Medium",
+    "class": "Class 12",
+    "subject": "Economics",
+    "chapter": "Ch 2: Money and Banking"
+  },
+  {
+    "text": "The Reserve Bank of India uses the repo rate to control the money supply in the economy. If the repo rate is 6%, what is the opportunity cost of borrowing for commercial banks?",
+    "options": [
+      "6%",
+      "12%",
+      "18%",
+      "24%"
+    ],
+    "correctAnswer": "6%",
+    "explanation": "The repo rate is the rate at which the Reserve Bank of India lends money to commercial banks. If the repo rate is 6%, the opportunity cost of borrowing for commercial banks is 6%.",
+    "difficulty": "Easy",
+    "class": "Class 12",
+    "subject": "Economics",
+    "chapter": "Ch 2: Money and Banking"
+  },
+  {
+    "text": "The reverse repo rate is the rate at which the Reserve Bank of India absorbs excess liquidity from commercial banks. If the reverse repo rate is 4%, what is the opportunity cost of lending for commercial banks?",
+    "options": [
+      "4%",
+      "8%",
+      "12%",
+      "16%"
+    ],
+    "correctAnswer": "4%",
+    "explanation": "The reverse repo rate is the rate at which the Reserve Bank of India absorbs excess liquidity from commercial banks. If the reverse repo rate is 4%, the opportunity cost of lending for commercial banks is 4%.",
+    "difficulty": "Medium",
+    "class": "Class 12",
+    "subject": "Economics",
+    "chapter": "Ch 2: Money and Banking"
+  },
+  {
+    "text": "The money multiplier is given by the formula $1/LRR$. If the LRR is 0.1, what is the money multiplier?",
+    "options": [
+      "10",
+      "20",
+      "1/0.1",
+      "5"
+    ],
+    "correctAnswer": "1/0.1",
+    "explanation": "The money multiplier is given by the formula $1/LRR$. If the LRR is 0.1, the money multiplier is $1/0.1 = 10$.",
+    "difficulty": "Medium",
+    "class": "Class 12",
+    "subject": "Economics",
+    "chapter": "Ch 2: Money and Banking"
+  },
+  {
+    "text": "The Reserve Bank of India uses the repo rate to control the money supply in the economy. If the repo rate is 8%, what is the opportunity cost of borrowing for commercial banks?",
+    "options": [
+      "8%",
+      "12%",
+      "16%",
+      "20%"
+    ],
+    "correctAnswer": "8%",
+    "explanation": "The repo rate is the rate at which the Reserve Bank of India lends money to commercial banks. If the repo rate is 8%, the opportunity cost of borrowing for commercial banks is 8%.",
+    "difficulty": "Easy",
+    "class": "Class 12",
+    "subject": "Economics",
+    "chapter": "Ch 2: Money and Banking"
+  }
+]

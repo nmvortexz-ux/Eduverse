@@ -1,0 +1,362 @@
+[
+  {
+    "text": "The accounting equation is represented as",
+    "options": [
+      "$\\text{Assets} = \\text{Liabilities} - \\text{Capital}$",
+      "$\\text{Assets} = \\text{Liabilities} + \\text{Capital}$",
+      "$\\text{Assets} - \\text{Liabilities} = \\text{Capital}$",
+      "$\\text{Assets} + \\text{Liabilities} = \\text{Capital}$"
+    ],
+    "correctAnswer": "$\\text{Assets} = \\text{Liabilities} + \\text{Capital}$",
+    "explanation": "The accounting equation is a fundamental concept in accounting that represents the relationship between a company's assets, liabilities, and capital. It is expressed as $\text{Assets} = \text{Liabilities} + \text{Capital}$. This equation is based on the dual aspect concept, which states that every transaction has two aspects: one affecting the assets and the other affecting the liabilities or capital.",
+    "difficulty": "Easy",
+    "class": "Class 11",
+    "subject": "Accountancy",
+    "chapter": "Ch 3: Recording of Transactions - I"
+  },
+  {
+    "text": "Which of the following is a source document?",
+    "options": [
+      "Ledger",
+      "Journal",
+      "Cash memo",
+      "Trial balance"
+    ],
+    "correctAnswer": "Cash memo",
+    "explanation": "Source documents are the original documents that provide evidence of a transaction. Examples of source documents include cash memos, invoices, receipts, and vouchers. These documents are used to record transactions in the accounting system.",
+    "difficulty": "Easy",
+    "class": "Class 11",
+    "subject": "Accountancy",
+    "chapter": "Ch 3: Recording of Transactions - I"
+  },
+  {
+    "text": "The rules of debit and credit are based on the",
+    "options": [
+      "Accounting equation",
+      "Dual aspect concept",
+      "Going concern concept",
+      "Accrual concept"
+    ],
+    "correctAnswer": "Dual aspect concept",
+    "explanation": "The rules of debit and credit are based on the dual aspect concept, which states that every transaction has two aspects: one affecting the assets and the other affecting the liabilities or capital. The rules of debit and credit are used to record transactions in the accounting system.",
+    "difficulty": "Medium",
+    "class": "Class 11",
+    "subject": "Accountancy",
+    "chapter": "Ch 3: Recording of Transactions - I"
+  },
+  {
+    "text": "What is the effect of a cash discount on the accounting equation?",
+    "options": [
+      "Increase in assets and decrease in liabilities",
+      "Decrease in assets and increase in liabilities",
+      "Increase in assets and increase in liabilities",
+      "Decrease in assets and decrease in liabilities"
+    ],
+    "correctAnswer": "Decrease in assets and decrease in liabilities",
+    "explanation": "A cash discount is a reduction in the amount of cash paid by a customer when paying a debt. When a cash discount is allowed, the amount of cash received by the business decreases, resulting in a decrease in assets. The liability also decreases as the customer's debt is reduced.",
+    "difficulty": "Medium",
+    "class": "Class 11",
+    "subject": "Accountancy",
+    "chapter": "Ch 3: Recording of Transactions - I"
+  },
+  {
+    "text": "Journalizing is the process of",
+    "options": [
+      "Recording transactions in a ledger",
+      "Recording transactions in a journal",
+      "Preparing a trial balance",
+      "Preparing a balance sheet"
+    ],
+    "correctAnswer": "Recording transactions in a journal",
+    "explanation": "Journalizing is the process of recording transactions in a journal. A journal is a book of accounts in which transactions are recorded in a chronological order. The journal is used to record all transactions, including cash and credit transactions.",
+    "difficulty": "Easy",
+    "class": "Class 11",
+    "subject": "Accountancy",
+    "chapter": "Ch 3: Recording of Transactions - I"
+  },
+  {
+    "text": "What is the purpose of ledger posting?",
+    "options": [
+      "To record transactions in a journal",
+      "To prepare a trial balance",
+      "To prepare a balance sheet",
+      "To classify and summarize transactions"
+    ],
+    "correctAnswer": "To classify and summarize transactions",
+    "explanation": "Ledger posting is the process of transferring transactions from a journal to a ledger. The purpose of ledger posting is to classify and summarize transactions, making it easier to prepare financial statements and analyze business performance.",
+    "difficulty": "Medium",
+    "class": "Class 11",
+    "subject": "Accountancy",
+    "chapter": "Ch 3: Recording of Transactions - I"
+  },
+  {
+    "text": "What is the difference between a trade discount and a cash discount?",
+    "options": [
+      "A trade discount is allowed on cash payments, while a cash discount is allowed on credit payments",
+      "A trade discount is allowed on credit payments, while a cash discount is allowed on cash payments",
+      "A trade discount is a reduction in the selling price, while a cash discount is a reduction in the amount of cash paid",
+      "A trade discount is a reduction in the amount of cash paid, while a cash discount is a reduction in the selling price"
+    ],
+    "correctAnswer": "A trade discount is a reduction in the selling price, while a cash discount is a reduction in the amount of cash paid",
+    "explanation": "A trade discount is a reduction in the selling price of a product, while a cash discount is a reduction in the amount of cash paid by a customer when paying a debt. Trade discounts are allowed on credit payments, while cash discounts are allowed on cash payments.",
+    "difficulty": "Medium",
+    "class": "Class 11",
+    "subject": "Accountancy",
+    "chapter": "Ch 3: Recording of Transactions - I"
+  },
+  {
+    "text": "Which of the following is a characteristic of a journal?",
+    "options": [
+      "It is a book of accounts in which transactions are recorded in a chronological order",
+      "It is a book of accounts in which transactions are recorded in a classified order",
+      "It is a book of accounts in which transactions are recorded in a summarized order",
+      "It is a book of accounts in which transactions are recorded in a detailed order"
+    ],
+    "correctAnswer": "It is a book of accounts in which transactions are recorded in a chronological order",
+    "explanation": "A journal is a book of accounts in which transactions are recorded in a chronological order. This means that transactions are recorded in the order in which they occur, with the most recent transactions appearing at the end of the journal.",
+    "difficulty": "Easy",
+    "class": "Class 11",
+    "subject": "Accountancy",
+    "chapter": "Ch 3: Recording of Transactions - I"
+  },
+  {
+    "text": "What is the purpose of a cash book?",
+    "options": [
+      "To record all transactions",
+      "To record cash transactions",
+      "To record credit transactions",
+      "To record asset transactions"
+    ],
+    "correctAnswer": "To record cash transactions",
+    "explanation": "A cash book is a book of accounts that is used to record all cash transactions. It is a special type of journal that is used to record all cash receipts and payments.",
+    "difficulty": "Easy",
+    "class": "Class 11",
+    "subject": "Accountancy",
+    "chapter": "Ch 3: Recording of Transactions - I"
+  },
+  {
+    "text": "Which of the following is a type of ledger account?",
+    "options": [
+      "Asset account",
+      "Liability account",
+      "Capital account",
+      "All of the above"
+    ],
+    "correctAnswer": "All of the above",
+    "explanation": "A ledger account is an account in the ledger that is used to record and classify transactions. There are several types of ledger accounts, including asset accounts, liability accounts, and capital accounts.",
+    "difficulty": "Easy",
+    "class": "Class 11",
+    "subject": "Accountancy",
+    "chapter": "Ch 3: Recording of Transactions - I"
+  },
+  {
+    "text": "What is the effect of a trade discount on the accounting equation?",
+    "options": [
+      "Increase in assets and decrease in liabilities",
+      "Decrease in assets and increase in liabilities",
+      "Increase in assets and increase in liabilities",
+      "Decrease in assets and decrease in liabilities"
+    ],
+    "correctAnswer": "Decrease in assets and decrease in liabilities",
+    "explanation": "A trade discount is a reduction in the selling price of a product. When a trade discount is allowed, the amount of revenue earned by the business decreases, resulting in a decrease in assets. The liability also decreases as the customer's debt is reduced.",
+    "difficulty": "Medium",
+    "class": "Class 11",
+    "subject": "Accountancy",
+    "chapter": "Ch 3: Recording of Transactions - I"
+  },
+  {
+    "text": "Which of the following is a step in the accounting process?",
+    "options": [
+      "Journalizing",
+      "Ledger posting",
+      "Preparing a trial balance",
+      "All of the above"
+    ],
+    "correctAnswer": "All of the above",
+    "explanation": "The accounting process involves several steps, including journalizing, ledger posting, and preparing a trial balance. Journalizing involves recording transactions in a journal, ledger posting involves transferring transactions from a journal to a ledger, and preparing a trial balance involves preparing a list of all accounts and their balances.",
+    "difficulty": "Easy",
+    "class": "Class 11",
+    "subject": "Accountancy",
+    "chapter": "Ch 3: Recording of Transactions - I"
+  },
+  {
+    "text": "What is the purpose of a trial balance?",
+    "options": [
+      "To prepare a balance sheet",
+      "To prepare an income statement",
+      "To check the accuracy of the accounting records",
+      "To prepare a cash flow statement"
+    ],
+    "correctAnswer": "To check the accuracy of the accounting records",
+    "explanation": "A trial balance is a list of all accounts and their balances. The purpose of a trial balance is to check the accuracy of the accounting records by ensuring that the debits and credits are equal.",
+    "difficulty": "Medium",
+    "class": "Class 11",
+    "subject": "Accountancy",
+    "chapter": "Ch 3: Recording of Transactions - I"
+  },
+  {
+    "text": "Which of the following is a characteristic of a ledger account?",
+    "options": [
+      "It is a book of accounts in which transactions are recorded in a chronological order",
+      "It is a book of accounts in which transactions are recorded in a classified order",
+      "It is a book of accounts in which transactions are recorded in a summarized order",
+      "It is a book of accounts in which transactions are recorded in a detailed order"
+    ],
+    "correctAnswer": "It is a book of accounts in which transactions are recorded in a classified order",
+    "explanation": "A ledger account is a book of accounts in which transactions are recorded in a classified order. This means that transactions are recorded in a specific account based on the type of transaction.",
+    "difficulty": "Easy",
+    "class": "Class 11",
+    "subject": "Accountancy",
+    "chapter": "Ch 3: Recording of Transactions - I"
+  },
+  {
+    "text": "What is the effect of a cash payment on the accounting equation?",
+    "options": [
+      "Increase in assets and decrease in liabilities",
+      "Decrease in assets and increase in liabilities",
+      "Increase in assets and increase in liabilities",
+      "Decrease in assets and decrease in liabilities"
+    ],
+    "correctAnswer": "Decrease in assets and decrease in liabilities",
+    "explanation": "A cash payment is a transaction in which a business pays cash to a supplier or creditor. When a cash payment is made, the amount of cash in the business decreases, resulting in a decrease in assets. The liability also decreases as the supplier's or creditor's claim is reduced.",
+    "difficulty": "Medium",
+    "class": "Class 11",
+    "subject": "Accountancy",
+    "chapter": "Ch 3: Recording of Transactions - I"
+  },
+  {
+    "text": "Which of the following is a type of journal entry?",
+    "options": [
+      "Simple entry",
+      "Compound entry",
+      "Opening entry",
+      "All of the above"
+    ],
+    "correctAnswer": "All of the above",
+    "explanation": "A journal entry is a record of a transaction in a journal. There are several types of journal entries, including simple entries, compound entries, and opening entries. A simple entry is a journal entry that involves only two accounts, while a compound entry is a journal entry that involves more than two accounts. An opening entry is a journal entry that is used to record the opening balances of a business.",
+    "difficulty": "Medium",
+    "class": "Class 11",
+    "subject": "Accountancy",
+    "chapter": "Ch 3: Recording of Transactions - I"
+  },
+  {
+    "text": "What is the purpose of a journal?",
+    "options": [
+      "To record all transactions",
+      "To record cash transactions",
+      "To record credit transactions",
+      "To record asset transactions"
+    ],
+    "correctAnswer": "To record all transactions",
+    "explanation": "A journal is a book of accounts that is used to record all transactions. It is a chronological record of all transactions, including cash and credit transactions.",
+    "difficulty": "Easy",
+    "class": "Class 11",
+    "subject": "Accountancy",
+    "chapter": "Ch 3: Recording of Transactions - I"
+  },
+  {
+    "text": "Which of the following is a characteristic of a cash book?",
+    "options": [
+      "It is a book of accounts in which transactions are recorded in a chronological order",
+      "It is a book of accounts in which transactions are recorded in a classified order",
+      "It is a book of accounts in which transactions are recorded in a summarized order",
+      "It is a book of accounts in which transactions are recorded in a detailed order"
+    ],
+    "correctAnswer": "It is a book of accounts in which transactions are recorded in a chronological order",
+    "explanation": "A cash book is a book of accounts that is used to record all cash transactions. It is a chronological record of all cash receipts and payments.",
+    "difficulty": "Easy",
+    "class": "Class 11",
+    "subject": "Accountancy",
+    "chapter": "Ch 3: Recording of Transactions - I"
+  },
+  {
+    "text": "What is the effect of a credit sale on the accounting equation?",
+    "options": [
+      "Increase in assets and decrease in liabilities",
+      "Decrease in assets and increase in liabilities",
+      "Increase in assets and increase in liabilities",
+      "Decrease in assets and decrease in liabilities"
+    ],
+    "correctAnswer": "Increase in assets and increase in liabilities",
+    "explanation": "A credit sale is a transaction in which a business sells goods or services on credit. When a credit sale is made, the amount of accounts receivable increases, resulting in an increase in assets. The liability also increases as the customer's debt is increased.",
+    "difficulty": "Medium",
+    "class": "Class 11",
+    "subject": "Accountancy",
+    "chapter": "Ch 3: Recording of Transactions - I"
+  },
+  {
+    "text": "Which of the following is a step in the accounting process?",
+    "options": [
+      "Journalizing",
+      "Ledger posting",
+      "Preparing a trial balance",
+      "All of the above"
+    ],
+    "correctAnswer": "All of the above",
+    "explanation": "The accounting process involves several steps, including journalizing, ledger posting, and preparing a trial balance. Journalizing involves recording transactions in a journal, ledger posting involves transferring transactions from a journal to a ledger, and preparing a trial balance involves preparing a list of all accounts and their balances.",
+    "difficulty": "Easy",
+    "class": "Class 11",
+    "subject": "Accountancy",
+    "chapter": "Ch 3: Recording of Transactions - I"
+  },
+  {
+    "text": "What is the purpose of a ledger?",
+    "options": [
+      "To record all transactions",
+      "To record cash transactions",
+      "To record credit transactions",
+      "To classify and summarize transactions"
+    ],
+    "correctAnswer": "To classify and summarize transactions",
+    "explanation": "A ledger is a book of accounts that is used to classify and summarize transactions. It is a collection of all accounts, including asset accounts, liability accounts, and capital accounts.",
+    "difficulty": "Medium",
+    "class": "Class 11",
+    "subject": "Accountancy",
+    "chapter": "Ch 3: Recording of Transactions - I"
+  },
+  {
+    "text": "Which of the following is a type of account?",
+    "options": [
+      "Asset account",
+      "Liability account",
+      "Capital account",
+      "All of the above"
+    ],
+    "correctAnswer": "All of the above",
+    "explanation": "There are several types of accounts, including asset accounts, liability accounts, and capital accounts. Asset accounts are used to record the assets of a business, liability accounts are used to record the liabilities of a business, and capital accounts are used to record the capital of a business.",
+    "difficulty": "Easy",
+    "class": "Class 11",
+    "subject": "Accountancy",
+    "chapter": "Ch 3: Recording of Transactions - I"
+  },
+  {
+    "text": "What is the effect of a purchase on the accounting equation?",
+    "options": [
+      "Increase in assets and decrease in liabilities",
+      "Decrease in assets and increase in liabilities",
+      "Increase in assets and increase in liabilities",
+      "Decrease in assets and decrease in liabilities"
+    ],
+    "correctAnswer": "Increase in assets and increase in liabilities",
+    "explanation": "A purchase is a transaction in which a business buys goods or services. When a purchase is made, the amount of assets increases, resulting in an increase in assets. The liability also increases as the supplier's or creditor's claim is increased.",
+    "difficulty": "Medium",
+    "class": "Class 11",
+    "subject": "Accountancy",
+    "chapter": "Ch 3: Recording of Transactions - I"
+  },
+  {
+    "text": "Which of the following is a characteristic of a trial balance?",
+    "options": [
+      "It is a list of all accounts and their balances",
+      "It is a list of all transactions and their effects",
+      "It is a list of all assets and their values",
+      "It is a list of all liabilities and their values"
+    ],
+    "correctAnswer": "It is a list of all accounts and their balances",
+    "explanation": "A trial balance is a list of all accounts and their balances. It is prepared to check the accuracy of the accounting records by ensuring that the debits and credits are equal.",
+    "difficulty": "Easy",
+    "class": "Class 11",
+    "subject": "Accountancy",
+    "chapter": "Ch 3: Recording of Transactions - I"
+  }
+]

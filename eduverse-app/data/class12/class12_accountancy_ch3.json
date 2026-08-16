@@ -1,0 +1,107 @@
+[
+  {
+    "text": "When a new partner is admitted, the new profit-sharing ratio is determined by the sacrificing ratio.",
+    "options": [
+      "True",
+      "False",
+      "Depends on the method of valuation of goodwill",
+      "Depends on the method of revaluation of assets"
+    ],
+    "correctAnswer": "True",
+    "explanation": "When a new partner is admitted, the new profit-sharing ratio is determined by the sacrificing ratio. The sacrificing ratio is the ratio in which the existing partners sacrifice their share of profits to the new partner.",
+    "difficulty": "Easy",
+    "class": "Class 12",
+    "subject": "Accountancy",
+    "chapter": "Ch 3: Reconstitution - Admission of a Partner"
+  },
+  {
+    "text": "The goodwill of a firm is valued at Rs. 1,00,000 using the average profit method. If the average profit of the firm over the past 5 years is Rs. 50,000, the goodwill per partner is",
+    "options": [
+      "Rs. 20,000",
+      "Rs. 25,000",
+      "Rs. 30,000",
+      "Rs. 40,000"
+    ],
+    "correctAnswer": "Rs. 20,000",
+    "explanation": "The goodwill of a firm is valued at Rs. 1,00,000 using the average profit method. If the average profit of the firm over the past 5 years is Rs. 50,000, the goodwill per partner is calculated as follows: Goodwill per partner = Total goodwill / Number of partners = Rs. 1,00,000 / 5 = Rs. 20,000.",
+    "difficulty": "Easy",
+    "class": "Class 12",
+    "subject": "Accountancy",
+    "chapter": "Ch 3: Reconstitution - Admission of a Partner"
+  },
+  {
+    "text": "The revaluation account of a firm shows a profit of Rs. 50,000. The accumulated profits of the firm are Rs. 1,00,000. The adjustment for accumulated profits is",
+    "options": [
+      "Rs. 50,000",
+      "Rs. 1,00,000",
+      "Rs. 1,50,000",
+      "Rs. 2,00,000"
+    ],
+    "correctAnswer": "Rs. 1,00,000",
+    "explanation": "The revaluation account of a firm shows a profit of Rs. 50,000. The accumulated profits of the firm are Rs. 1,00,000. The adjustment for accumulated profits is calculated as follows: Adjustment for accumulated profits = Accumulated profits - Profit from revaluation account = Rs. 1,00,000 - Rs. 50,000 = Rs. 50,000.",
+    "difficulty": "Medium",
+    "class": "Class 12",
+    "subject": "Accountancy",
+    "chapter": "Ch 3: Reconstitution - Admission of a Partner"
+  },
+  {
+    "text": "A firm has two partners, A and B. A has a 60% share in the profits, while B has a 40% share. If a new partner, C, is admitted with a 20% share in the profits, the new profit-sharing ratio is",
+    "options": [
+      "A:B:C = 40:30:30",
+      "A:B:C = 40:20:40",
+      "A:B:C = 60:20:20",
+      "A:B:C = 60:30:10"
+    ],
+    "correctAnswer": "A:B:C = 40:30:30",
+    "explanation": "A firm has two partners, A and B. A has a 60% share in the profits, while B has a 40% share. If a new partner, C, is admitted with a 20% share in the profits, the new profit-sharing ratio is calculated as follows: New profit-sharing ratio = (A's original share + C's share) : B's original share = (60 + 20) : 40 = 80 : 40 = 2 : 1 : 1 = 40 : 30 : 30.",
+    "difficulty": "Medium",
+    "class": "Class 12",
+    "subject": "Accountancy",
+    "chapter": "Ch 3: Reconstitution - Admission of a Partner"
+  },
+  {
+    "text": "The goodwill of a firm is valued at Rs. 1,50,000 using the super profit method. If the normal profit is Rs. 50,000 and the average profit of the firm over the past 5 years is Rs. 1,00,000, the goodwill per partner is",
+    "options": [
+      "Rs. 20,000",
+      "Rs. 25,000",
+      "Rs. 30,000",
+      "Rs. 40,000"
+    ],
+    "correctAnswer": "Rs. 30,000",
+    "explanation": "The goodwill of a firm is valued at Rs. 1,50,000 using the super profit method. If the normal profit is Rs. 50,000 and the average profit of the firm over the past 5 years is Rs. 1,00,000, the goodwill per partner is calculated as follows: Super profit = Average profit - Normal profit = Rs. 1,00,000 - Rs. 50,000 = Rs. 50,000. Goodwill per partner = Total goodwill / Number of partners = Rs. 1,50,000 / 5 = Rs. 30,000.",
+    "difficulty": "Hard",
+    "class": "Class 12",
+    "subject": "Accountancy",
+    "chapter": "Ch 3: Reconstitution - Admission of a Partner"
+  },
+  {
+    "text": "The revaluation account of a firm shows a loss of Rs. 20,000. The accumulated profits of the firm are Rs. 1,50,000. The adjustment for accumulated profits is",
+    "options": [
+      "Rs. 1,50,000",
+      "Rs. 1,70,000",
+      "Rs. 1,80,000",
+      "Rs. 2,00,000"
+    ],
+    "correctAnswer": "Rs. 1,70,000",
+    "explanation": "The revaluation account of a firm shows a loss of Rs. 20,000. The accumulated profits of the firm are Rs. 1,50,000. The adjustment for accumulated profits is calculated as follows: Adjustment for accumulated profits = Accumulated profits - Loss from revaluation account = Rs. 1,50,000 - Rs. 20,000 = Rs. 1,70,000.",
+    "difficulty": "Medium",
+    "class": "Class 12",
+    "subject": "Accountancy",
+    "chapter": "Ch 3: Reconstitution - Admission of a Partner"
+  },
+  {
+    "text": "A firm has three partners, A, B, and C. A has a 40% share in the profits, while B has a 30% share and C has a 30% share. If a new partner, D, is admitted with a 20% share in the profits, the new profit-sharing ratio is",
+    "options": [
+      "A:B:C:D = 40:20:20:20",
+      "A:B:C:D = 40:30:30:20",
+      "A:B:C:D = 60:20:20:20",
+      "A:B:C:D = 60:30:10:20"
+    ],
+    "correctAnswer": "A:B:C:D = 40:20:20:20",
+    "explanation": "A firm has three partners, A, B, and C. A has a 40% share in the profits, while B has a 30% share and C has a 30% share. If a new partner, D, is admitted with a 20% share in the profits, the new profit-sharing ratio is calculated as follows: New profit-sharing ratio = (A's original share + D's share) : (B's original share + D's share) : C's original share = (40 + 20) : (30 + 20) : 30 = 60 : 50 : 30 = 12 : 10 : 6 = 2 : 5 : 3 = 40 : 20 : 20 : 20.",
+    "difficulty": "Hard",
+    "class": "Class 12",
+    "subject": "Accountancy",
+    "chapter": "Ch 3: Reconstitution - Admission of a Partner"
+  }
+]

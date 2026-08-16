@@ -1,0 +1,327 @@
+[
+  {
+    "class": "Class 8",
+    "subject": "GK",
+    "difficulty": "Easy",
+    "text": "Which Mughal Emperor succeeded Akbar the Great and was known for his patronage of painting and establishing a 'Chain of Justice'?",
+    "explanation": "Jahangir succeeded Akbar in 1605. He set up the 'Zanjir-i-Adal' (Chain of Justice) connected to his palace to allow common citizens to directly seek imperial justice.",
+    "options": [
+      { "text": "Shah Jahan", "isCorrect": false },
+      { "text": "Jahangir", "isCorrect": true },
+      { "text": "Aurangzeb", "isCorrect": false },
+      { "text": "Humayun", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 8",
+    "subject": "GK",
+    "difficulty": "Medium",
+    "text": "Who was the founder of the powerful Sikh Empire in Punjab during the early 19th century?",
+    "explanation": "Maharaja Ranjit Singh unified the various Sikh misls (confederacies) and founded the Sikh Empire in 1799, ruling from Lahore.",
+    "options": [
+      { "text": "Guru Gobind Singh", "isCorrect": false },
+      { "text": "Maharaja Ranjit Singh", "isCorrect": true },
+      { "text": "Banda Singh Bahadur", "isCorrect": false },
+      { "text": "Maharaja Kharak Singh", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 8",
+    "subject": "GK",
+    "difficulty": "Hard",
+    "text": "In which year was the controversial partition of Bengal announced by Lord Curzon, and in which year was it eventually annulled?",
+    "explanation": "The partition of Bengal was announced in 1905 to divide Bengal along religious lines. Following massive protests, the partition was annulled in 1911 by Lord Hardinge.",
+    "options": [
+      { "text": "1905, 1911", "isCorrect": true },
+      { "text": "1906, 1912", "isCorrect": false },
+      { "text": "1905, 1919", "isCorrect": false },
+      { "text": "1907, 1915", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 8",
+    "subject": "GK",
+    "difficulty": "Very Hard",
+    "text": "Who was the first President of the Indian National Congress at its inaugural session held in Bombay in December 1885?",
+    "explanation": "Womesh Chandra Bonnerjee (W. C. Bonnerjee) presided over the first session of the Indian National Congress, which was attended by 72 delegates.",
+    "options": [
+      { "text": "Dadabhai Naoroji", "isCorrect": false },
+      { "text": "W. C. Bonnerjee", "isCorrect": true },
+      { "text": "Allan Octavian Hume", "isCorrect": false },
+      { "text": "Dinshaw Wacha", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 8",
+    "subject": "GK",
+    "difficulty": "Very Hard",
+    "text": "Under which historic treaty did the Mughal Emperor Shah Alam II grant the Diwani (tax collection) rights of Bengal, Bihar, and Orissa to the British East India Company in 1765?",
+    "explanation": "Following the Battle of Buxar, the Treaty of Allahabad was signed in 1765, granting the East India Company the right to collect taxes directly from Bengal, Bihar, and Orissa.",
+    "options": [
+      { "text": "Treaty of Seringapatam", "isCorrect": false },
+      { "text": "Treaty of Allahabad", "isCorrect": true },
+      { "text": "Treaty of Purandar", "isCorrect": false },
+      { "text": "Treaty of Salbai", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 8",
+    "subject": "GK",
+    "difficulty": "Easy",
+    "text": "Which is the largest natural freshwater lake in India, situated in Jammu and Kashmir?",
+    "explanation": "Wular Lake is the largest freshwater lake in India and one of the largest in Asia, formed by tectonic activity and fed by the Jhelum River.",
+    "options": [
+      { "text": "Dal Lake", "isCorrect": false },
+      { "text": "Wular Lake", "isCorrect": true },
+      { "text": "Chilika Lake", "isCorrect": false },
+      { "text": "Vembanad Lake", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 8",
+    "subject": "GK",
+    "difficulty": "Medium",
+    "text": "In which Indian state is the Loktak Lake, famous for its floating swamp islands called 'phumdis' and Keibul Lamjao National Park, located?",
+    "explanation": "Loktak Lake is located in Manipur. It is famous for phumdis (floating mass of vegetation and organic matter) and hosts the world's only floating national park.",
+    "options": [
+      { "text": "Meghalaya", "isCorrect": false },
+      { "text": "Manipur", "isCorrect": true },
+      { "text": "Mizoram", "isCorrect": false },
+      { "text": "Nagaland", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 8",
+    "subject": "GK",
+    "difficulty": "Hard",
+    "text": "Which major mountain range in Western India is also known as the Sahyadri mountains?",
+    "explanation": "The Western Ghats, also known as the Sahyadri range, run parallel to the western coast of the Indian peninsula and are a biodiversity hotspot.",
+    "options": [
+      { "text": "The Satpura Range", "isCorrect": false },
+      { "text": "The Western Ghats", "isCorrect": true },
+      { "text": "The Eastern Ghats", "isCorrect": false },
+      { "text": "The Vindhyas", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 8",
+    "subject": "GK",
+    "difficulty": "Very Hard",
+    "text": "Which major river in India is commonly referred to as the 'Vridha Ganga' or 'Dakshin Ganga' due to its massive drainage basin and length?",
+    "explanation": "The Godavari River is the second longest river in India (after the Ganga) and is called Dakshin Ganga due to its geographical extent and size.",
+    "options": [
+      { "text": "Krishna River", "isCorrect": false },
+      { "text": "Godavari River", "isCorrect": true },
+      { "text": "Kaveri River", "isCorrect": false },
+      { "text": "Narmada River", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 8",
+    "subject": "GK",
+    "difficulty": "Medium",
+    "text": "The international boundary line between India and China is officially known by which name?",
+    "explanation": "The McMahon Line is the boundary line between the Tibetan region of China and the northeastern region of India, proposed by Sir Henry McMahon in 1914.",
+    "options": [
+      { "text": "Radcliffe Line", "isCorrect": false },
+      { "text": "McMahon Line", "isCorrect": true },
+      { "text": "Durand Line", "isCorrect": false },
+      { "text": "Line of Control", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 8",
+    "subject": "GK",
+    "difficulty": "Easy",
+    "text": "Which organ of the Government of India holds the primary constitutional responsibility of making and passing laws?",
+    "explanation": "The Legislature (specifically the Parliament of India, consisting of Lok Sabha and Rajya Sabha) is the law-making body of the country.",
+    "options": [
+      { "text": "The Judiciary", "isCorrect": false },
+      { "text": "The Executive", "isCorrect": false },
+      { "text": "The Legislature", "isCorrect": true },
+      { "text": "The Election Commission", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 8",
+    "subject": "GK",
+    "difficulty": "Medium",
+    "text": "Which Fundamental Right under the Indian Constitution was described by Dr. B. R. Ambedkar as the 'Heart and Soul' of the Constitution?",
+    "explanation": "Dr. Ambedkar called the Right to Constitutional Remedies (Article 32) the heart and soul because it allows citizens to approach the Supreme Court directly if their rights are violated.",
+    "options": [
+      { "text": "Right to Equality", "isCorrect": false },
+      { "text": "Right to Constitutional Remedies", "isCorrect": true },
+      { "text": "Right to Freedom of Speech", "isCorrect": false },
+      { "text": "Cultural and Educational Rights", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 8",
+    "subject": "GK",
+    "difficulty": "Hard",
+    "text": "The Directive Principles of State Policy (DPSP) incorporated in Part IV of the Indian Constitution were borrowed from which country's constitution?",
+    "explanation": "The framers of the Indian Constitution borrowed the concept of Directive Principles of State Policy from the Constitution of Ireland (which had borrowed it from Spain).",
+    "options": [
+      { "text": "United States of America", "isCorrect": false },
+      { "text": "Ireland", "isCorrect": true },
+      { "text": "United Kingdom", "isCorrect": false },
+      { "text": "Australia", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 8",
+    "subject": "GK",
+    "difficulty": "Very Hard",
+    "text": "What is the maximum strength of members of the Lok Sabha (House of the People) as originally defined in the Constitution of India?",
+    "explanation": "The maximum strength of the Lok Sabha is 552 members, representing States (up to 530), Union Territories (up to 20), and formerly 2 nominated Anglo-Indians.",
+    "options": [
+      { "text": "500", "isCorrect": false },
+      { "text": "552", "isCorrect": true },
+      { "text": "545", "isCorrect": false },
+      { "text": "250", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 8",
+    "subject": "GK",
+    "difficulty": "Very Hard",
+    "text": "Who served as the first Chief Election Commissioner of independent India, conducting the first general elections in 1951-52?",
+    "explanation": "Sukumar Sen was an Indian civil servant who served as the first Chief Election Commissioner of India from 1950 to 1958, managing India's first two democratic elections.",
+    "options": [
+      { "text": "T. N. Seshan", "isCorrect": false },
+      { "text": "Sukumar Sen", "isCorrect": true },
+      { "text": "K. V. K. Sundaram", "isCorrect": false },
+      { "text": "S. P. Sen Verma", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 8",
+    "subject": "GK",
+    "difficulty": "Easy",
+    "text": "Which scientific instrument is primarily used to measure the atmospheric pressure of air?",
+    "explanation": "A barometer is used to measure atmospheric pressure, which helps in forecasting weather and calculating altitude.",
+    "options": [
+      { "text": "Thermometer", "isCorrect": false },
+      { "text": "Barometer", "isCorrect": true },
+      { "text": "Hygrometer", "isCorrect": false },
+      { "text": "Anemometer", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 8",
+    "subject": "GK",
+    "difficulty": "Medium",
+    "text": "What is the chemical name of the common chemical compound known as baking soda used in kitchens?",
+    "explanation": "Baking soda is a white crystalline powder with the chemical formula \\\\(\\\\text{NaHCO}_3\\\\), and its chemical name is sodium bicarbonate.",
+    "options": [
+      { "text": "Sodium carbonate", "isCorrect": false },
+      { "text": "Sodium bicarbonate", "isCorrect": true },
+      { "text": "Calcium sulphate", "isCorrect": false },
+      { "text": "Sodium hydroxide", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 8",
+    "subject": "GK",
+    "difficulty": "Hard",
+    "text": "Which satellite launch vehicle is famously known as the 'workhorse of ISRO' due to its consistently high success rate in launching satellites?",
+    "explanation": "The Polar Satellite Launch Vehicle (PSLV) is known as the workhorse of ISRO, having successfully launched multiple Indian and foreign satellites into polar and geosynchronous orbits.",
+    "options": [
+      { "text": "SLV-3", "isCorrect": false },
+      { "text": "PSLV", "isCorrect": true },
+      { "text": "GSLV", "isCorrect": false },
+      { "text": "ASLV", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 8",
+    "subject": "GK",
+    "difficulty": "Very Hard",
+    "text": "Who was the first Indian-born woman to fly into outer space, serving as a mission specialist on Space Shuttle Columbia in 1997?",
+    "explanation": "Kalpana Chawla, born in Karnal, Haryana, was the first Indian-born woman in space, flying on Columbia mission STS-87 in 1997 and tragically losing her life on STS-107 in 2003.",
+    "options": [
+      { "text": "Sunita Williams", "isCorrect": false },
+      { "text": "Kalpana Chawla", "isCorrect": true },
+      { "text": "Rakesh Sharma", "isCorrect": false },
+      { "text": "Shirish Bandla", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 8",
+    "subject": "GK",
+    "difficulty": "Hard",
+    "text": "Which chemical element is represented by the chemical symbol 'Fe' on the periodic table?",
+    "explanation": "The symbol 'Fe' comes from the Latin word 'ferrum', which stands for Iron, a crucial transition metal used in manufacturing steel.",
+    "options": [
+      { "text": "Fluorine", "isCorrect": false },
+      { "text": "Iron", "isCorrect": true },
+      { "text": "Lead", "isCorrect": false },
+      { "text": "Copper", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 8",
+    "subject": "GK",
+    "difficulty": "Medium",
+    "text": "In which year did the Indian Cricket Team win its first-ever ICC Men's Cricket World Cup under the captaincy of Kapil Dev?",
+    "explanation": "India won its first Cricket World Cup in 1983 by defeating the West Indies in the final match at Lord's Cricket Ground, London.",
+    "options": [
+      { "text": "2011", "isCorrect": false },
+      { "text": "1983", "isCorrect": true },
+      { "text": "1996", "isCorrect": false },
+      { "text": "1975", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 8",
+    "subject": "GK",
+    "difficulty": "Medium",
+    "text": "Which classical dance form, characterized by soft, flowing movements and storytelling, originated in the temples of Tamil Nadu?",
+    "explanation": "Bharatanatyam is one of the oldest classical dance forms in India, originating in Tanjore district of Tamil Nadu, formerly known as Sadhir Attam.",
+    "options": [
+      { "text": "Kathak", "isCorrect": false },
+      { "text": "Bharatanatyam", "isCorrect": true },
+      { "text": "Kathakali", "isCorrect": false },
+      { "text": "Odissi", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 8",
+    "subject": "GK",
+    "difficulty": "Hard",
+    "text": "Which of the following awards is considered the highest literary honor in the Republic of India?",
+    "explanation": "The Jnanpith Award is the highest literary award in India, presented annually by the Bharatiya Jnanpith to an author for their outstanding contribution to literature.",
+    "options": [
+      { "text": "Sahitya Akademi Award", "isCorrect": false },
+      { "text": "Jnanpith Award", "isCorrect": true },
+      { "text": "Saraswati Samman", "isCorrect": false },
+      { "text": "Vyas Samman", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 8",
+    "subject": "GK",
+    "difficulty": "Very Hard",
+    "text": "Who was the first Indian citizen to win an individual gold medal at the Olympic Games, and in which sporting event?",
+    "explanation": "Abhinav Bindra won the gold medal in the men's 10m Air Rifle shooting event at the Beijing 2008 Olympic Games, becoming India's first individual Olympic gold medalist.",
+    "options": [
+      { "text": "Rajyavardhan Singh Rathore, Shooting", "isCorrect": false },
+      { "text": "Abhinav Bindra, Shooting", "isCorrect": true },
+      { "text": "Neeraj Chopra, Javelin Throw", "isCorrect": false },
+      { "text": "Leander Paes, Tennis", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 8",
+    "subject": "GK",
+    "difficulty": "Very Hard",
+    "text": "In which year was the Reserve Bank of India (RBI), the central banking institution of the country, established under the provisions of the RBI Act?",
+    "explanation": "The Reserve Bank of India was established on April 1, 1935, in accordance with the provisions of the Reserve Bank of India Act, 1934, initially starting in Kolkata before moving to Mumbai.",
+    "options": [
+      { "text": "1947", "isCorrect": false },
+      { "text": "1935", "isCorrect": true },
+      { "text": "1949", "isCorrect": false },
+      { "text": "1950", "isCorrect": false }
+    ]
+  }
+]

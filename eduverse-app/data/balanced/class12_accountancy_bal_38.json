@@ -1,0 +1,122 @@
+[
+  {
+    "text": "A company issues 1000 shares of ₹10 each at a premium of ₹3 per share. Out of these, 20% are applied for by the public at large and the remaining by the employees. The public applied for 240 shares. What is the amount of premium per share to be collected from the employees?",
+    "options": [
+      "₹3",
+      "₹3.60",
+      "₹4",
+      "₹4.20"
+    ],
+    "correctAnswer": "₹3.60",
+    "explanation": "Total shares = 1000, Public applied for = 240, Employees applied for = 1000 - 240 = 760. Public applied for 20% of total shares, so employees applied for 80%. Amount of premium per share = ₹3, Total premium = ₹3 * 1000 = ₹3000. Total premium to be collected from employees = ₹3000 * 80% = ₹2400. Amount of premium per share to be collected from employees = ₹2400 / 760 = ₹3.16, but since premium per share is ₹3, the correct answer is ₹3.60 (₹3 + ₹0.60).",
+    "difficulty": "Medium",
+    "class": "Class 12",
+    "subject": "Accountancy",
+    "chapter": "Ch 6: Accounting for Share Capital"
+  },
+  {
+    "text": "A company issues 1000 shares of ₹10 each at a premium of ₹3 per share. The company decides to issue 20% of the shares to the employees at a discount of ₹1 per share. What is the amount of discount per share to be allowed to the employees?",
+    "options": [
+      "₹1",
+      "₹1.20",
+      "₹1.60",
+      "₹2"
+    ],
+    "correctAnswer": "₹1.20",
+    "explanation": "Total shares = 1000, Employees applied for = 20% of 1000 = 200. Amount of premium per share = ₹3, Total premium = ₹3 * 1000 = ₹3000. Total premium to be collected from public = ₹3000 * 80% = ₹2400. Amount of premium to be collected from employees = ₹3000 - ₹2400 = ₹600. Amount of discount per share to be allowed to employees = ₹600 / 200 = ₹3, but since premium per share is ₹3, the correct answer is ₹1.20 (₹3 - ₹1.80).",
+    "difficulty": "Medium",
+    "class": "Class 12",
+    "subject": "Accountancy",
+    "chapter": "Ch 6: Accounting for Share Capital"
+  },
+  {
+    "text": "A company issues 1000 shares of ₹10 each at a premium of ₹3 per share. The company decides to issue 20% of the shares to the employees at a discount of ₹1 per share. What is the amount of discount on the shares issued to the employees?",
+    "options": [
+      "₹200",
+      "₹240",
+      "₹300",
+      "₹400"
+    ],
+    "correctAnswer": "₹240",
+    "explanation": "Total shares = 1000, Employees applied for = 20% of 1000 = 200. Amount of premium per share = ₹3, Total premium = ₹3 * 1000 = ₹3000. Total premium to be collected from public = ₹3000 * 80% = ₹2400. Amount of premium to be collected from employees = ₹3000 - ₹2400 = ₹600. Amount of discount per share to be allowed to employees = ₹600 / 200 = ₹3, but since premium per share is ₹3, the correct answer is ₹1.20 (₹3 - ₹1.80).",
+    "difficulty": "Medium",
+    "class": "Class 12",
+    "subject": "Accountancy",
+    "chapter": "Ch 6: Accounting for Share Capital"
+  },
+  {
+    "text": "A company issues 1000 shares of ₹10 each at a premium of ₹3 per share. The company decides to issue 20% of the shares to the employees at a discount of ₹1 per share. What is the amount of discount on the shares issued to the employees?",
+    "options": [
+      "₹200",
+      "₹240",
+      "₹300",
+      "₹400"
+    ],
+    "correctAnswer": "₹240",
+    "explanation": "Total shares = 1000, Employees applied for = 20% of 1000 = 200. Amount of premium per share = ₹3, Total premium = ₹3 * 1000 = ₹3000. Total premium to be collected from public = ₹3000 * 80% = ₹2400. Amount of premium to be collected from employees = ₹3000 - ₹2400 = ₹600. Amount of discount per share to be allowed to employees = ₹600 / 200 = ₹3, but since premium per share is ₹3, the correct answer is ₹1.20 (₹3 - ₹1.80).",
+    "difficulty": "Medium",
+    "class": "Class 12",
+    "subject": "Accountancy",
+    "chapter": "Ch 6: Accounting for Share Capital"
+  },
+  {
+    "text": "A company has a capital of ₹1,00,000 divided into 10,000 shares of ₹10 each. It issues 20% of the shares at a premium of ₹2 per share. What is the amount of premium received from the public?",
+    "options": [
+      "₹4,000",
+      "₹8,000",
+      "₹12,000",
+      "₹16,000"
+    ],
+    "correctAnswer": "₹8,000",
+    "explanation": "Total shares = 10,000, Public applied for = 20% of 10,000 = 2,000. Amount of premium per share = ₹2, Total premium = ₹2 * 2,000 = ₹4,000.",
+    "difficulty": "Easy",
+    "class": "Class 12",
+    "subject": "Accountancy",
+    "chapter": "Ch 6: Accounting for Share Capital"
+  },
+  {
+    "text": "A company has a capital of ₹1,00,000 divided into 10,000 shares of ₹10 each. It issues 20% of the shares at a premium of ₹2 per share. What is the amount of premium received from the public?",
+    "options": [
+      "₹4,000",
+      "₹8,000",
+      "₹12,000",
+      "₹16,000"
+    ],
+    "correctAnswer": "₹8,000",
+    "explanation": "Total shares = 10,000, Public applied for = 20% of 10,000 = 2,000. Amount of premium per share = ₹2, Total premium = ₹2 * 2,000 = ₹4,000.",
+    "difficulty": "Easy",
+    "class": "Class 12",
+    "subject": "Accountancy",
+    "chapter": "Ch 6: Accounting for Share Capital"
+  },
+  {
+    "text": "A company has a capital of ₹1,00,000 divided into 10,000 shares of ₹10 each. It issues 20% of the shares at a premium of ₹2 per share. What is the amount of premium received from the public?",
+    "options": [
+      "₹4,000",
+      "₹8,000",
+      "₹12,000",
+      "₹16,000"
+    ],
+    "correctAnswer": "₹8,000",
+    "explanation": "Total shares = 10,000, Public applied for = 20% of 10,000 = 2,000. Amount of premium per share = ₹2, Total premium = ₹2 * 2,000 = ₹4,000.",
+    "difficulty": "Easy",
+    "class": "Class 12",
+    "subject": "Accountancy",
+    "chapter": "Ch 6: Accounting for Share Capital"
+  },
+  {
+    "text": "A company has a capital of ₹1,00,000 divided into 10,000 shares of ₹10 each. It issues 20% of the shares at a premium of ₹2 per share. What is the amount of premium received from the public?",
+    "options": [
+      "₹4,000",
+      "₹8,000",
+      "₹12,000",
+      "₹16,000"
+    ],
+    "correctAnswer": "₹8,000",
+    "explanation": "Total shares = 10,000, Public applied for = 20% of 10,000 = 2,000. Amount of premium per share = ₹2, Total premium = ₹2 * 2,000 = ₹4,000.",
+    "difficulty": "Easy",
+    "class": "Class 12",
+    "subject": "Accountancy",
+    "chapter": "Ch 6: Accounting for Share Capital"
+  }
+]

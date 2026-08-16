@@ -1,0 +1,327 @@
+[
+  {
+    "class": "Class 10",
+    "subject": "Science",
+    "difficulty": "EASY",
+    "text": "What is the primary function of guard cells in the epidermis of leaves?",
+    "explanation": "Guard cells swell or shrink to regulate the opening and closing of stomatal pores, controlling gas exchange and water loss.",
+    "options": [
+      { "text": "To regulate the opening and closing of stomata.", "isCorrect": true },
+      { "text": "To store starch and other plant carbohydrates.", "isCorrect": false },
+      { "text": "To transport water from the root to the leaf.", "isCorrect": false },
+      { "text": "To absorb carbon dioxide directly from the soil.", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 10",
+    "subject": "Science",
+    "difficulty": "EASY",
+    "text": "Which organic acid is naturally present in tamarind?",
+    "explanation": "Tamarind contains tartaric acid, which gives it a strong sour taste.",
+    "options": [
+      { "text": "Tartaric acid", "isCorrect": true },
+      { "text": "Citric acid", "isCorrect": false },
+      { "text": "Oxalic acid", "isCorrect": false },
+      { "text": "Methanoic acid", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 10",
+    "subject": "Science",
+    "difficulty": "EASY",
+    "text": "What is the chemical name and formula of Plaster of Paris?",
+    "explanation": "Plaster of Paris is calcium sulphate hemihydrate, with the chemical formula \\text{CaSO}_4 \\cdot \\frac{1}{2}\\text{H}_2\\text{O}.",
+    "options": [
+      { "text": "Calcium sulphate hemihydrate, \\text{CaSO}_4 \\cdot \\frac{1}{2}\\text{H}_2\\text{O}", "isCorrect": true },
+      { "text": "Calcium sulphate dihydrate, \\text{CaSO}_4 \\cdot 2\\text{H}_2\\text{O}", "isCorrect": false },
+      { "text": "Calcium carbonate, \\text{CaCO}_3", "isCorrect": false },
+      { "text": "Copper sulphate pentahydrate, \\text{CuSO}_4 \\cdot 5\\text{H}_2\\text{O}", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 10",
+    "subject": "Science",
+    "difficulty": "EASY",
+    "text": "Which device is used to change the resistance in an electric circuit without changing the voltage source?",
+    "explanation": "A rheostat (variable resistor) is used to regulate current by varying the resistance in a circuit without changing the source voltage.",
+    "options": [
+      { "text": "Rheostat", "isCorrect": true },
+      { "text": "Ammeter", "isCorrect": false },
+      { "text": "Galvanometer", "isCorrect": false },
+      { "text": "Voltmeter", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 10",
+    "subject": "Science",
+    "difficulty": "EASY",
+    "text": "The focal length of a convex mirror of radius of curvature 32 cm is:",
+    "explanation": "Focal length f = R/2. For a convex mirror, both radius and focal length are positive, so f = +32/2 = +16 cm.",
+    "options": [
+      { "text": "+16 cm", "isCorrect": true },
+      { "text": "-16 cm", "isCorrect": false },
+      { "text": "+64 cm", "isCorrect": false },
+      { "text": "-64 cm", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 10",
+    "subject": "Science",
+    "difficulty": "EASY",
+    "text": "Who proposed the 10% law of energy transfer in a food chain?",
+    "explanation": "Raymond Lindeman proposed the 10% law, which states that only 10% of the energy is transferred to the next trophic level.",
+    "options": [
+      { "text": "Raymond Lindeman", "isCorrect": true },
+      { "text": "Charles Darwin", "isCorrect": false },
+      { "text": "Gregor Mendel", "isCorrect": false },
+      { "text": "Arthur Tansley", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 10",
+    "subject": "Science",
+    "difficulty": "MEDIUM",
+    "text": "The transport of soluble products of photosynthesis in plants is called:",
+    "explanation": "Translocation is the transport of soluble products of photosynthesis (food/sucrose) through phloem tissue from leaves to other parts of the plant.",
+    "options": [
+      { "text": "Translocation", "isCorrect": true },
+      { "text": "Transpiration", "isCorrect": false },
+      { "text": "Guttation", "isCorrect": false },
+      { "text": "Excretion", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 10",
+    "subject": "Science",
+    "difficulty": "MEDIUM",
+    "text": "Which type of mirror is used by dentists to see large images of patients' teeth?",
+    "explanation": "A concave mirror forms an erect, virtual, and magnified image when the object is placed close to the mirror (between focus and pole).",
+    "options": [
+      { "text": "Concave mirror", "isCorrect": true },
+      { "text": "Convex mirror", "isCorrect": false },
+      { "text": "Plane mirror", "isCorrect": false },
+      { "text": "Double convex mirror", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 10",
+    "subject": "Science",
+    "difficulty": "MEDIUM",
+    "text": "Which non-metal exists as a liquid at room temperature?",
+    "explanation": "Bromine (\\text{Br}) is the only non-metal that is liquid at room temperature.",
+    "options": [
+      { "text": "Bromine", "isCorrect": true },
+      { "text": "Chlorine", "isCorrect": false },
+      { "text": "Iodine", "isCorrect": false },
+      { "text": "Mercury", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 10",
+    "subject": "Science",
+    "difficulty": "MEDIUM",
+    "text": "When carbon dioxide is passed through lime water, it turns milky. On passing excess carbon dioxide, this milkiness disappears due to the formation of:",
+    "explanation": "Excess \\text{CO}_2 converts insoluble calcium carbonate (\\text{CaCO}_3) into soluble calcium hydrogen carbonate [\\text{Ca(HCO}_3)_2], clearing the solution.",
+    "options": [
+      { "text": "Calcium hydrogen carbonate, \\text{Ca(HCO}_3)_2", "isCorrect": true },
+      { "text": "Calcium hydroxide, \\text{Ca(OH)}_2", "isCorrect": false },
+      { "text": "Calcium chloride, \\text{CaCl}_2", "isCorrect": false },
+      { "text": "Calcium oxide, \\text{CaO}", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 10",
+    "subject": "Science",
+    "difficulty": "MEDIUM",
+    "text": "What is the growth movement of plant parts in response to touch or contact called?",
+    "explanation": "Thigmotropism is directional growth movement in response to touch, commonly seen in the winding of tendrils around a support.",
+    "options": [
+      { "text": "Thigmotropism", "isCorrect": true },
+      { "text": "Phototropism", "isCorrect": false },
+      { "text": "Geotropism", "isCorrect": false },
+      { "text": "Chemotropism", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 10",
+    "subject": "Science",
+    "difficulty": "MEDIUM",
+    "text": "Which plant hormone inhibits growth and promotes leaf fall and wilting?",
+    "explanation": "Abscisic acid is a plant growth inhibitor hormone that promotes wilting, senescence, and leaf abscission.",
+    "options": [
+      { "text": "Abscisic acid", "isCorrect": true },
+      { "text": "Auxin", "isCorrect": false },
+      { "text": "Gibberellin", "isCorrect": false },
+      { "text": "Cytokinin", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 10",
+    "subject": "Science",
+    "difficulty": "MEDIUM",
+    "text": "The S.I. unit of electric potential difference is:",
+    "explanation": "The S.I. unit of electric potential difference is the volt (V). It represents the work done per unit charge.",
+    "options": [
+      { "text": "volt (V)", "isCorrect": true },
+      { "text": "ampere (A)", "isCorrect": false },
+      { "text": "ohm (\\Omega)", "isCorrect": false },
+      { "text": "coulomb (C)", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 10",
+    "subject": "Science",
+    "difficulty": "HARD",
+    "text": "Why do mammals and birds need a complete separation of oxygenated and deoxygenated blood through double circulation?",
+    "explanation": "It prevents mixing of blood and provides highly efficient oxygen supply to maintain a constant body temperature (warm-blooded nature).",
+    "options": [
+      { "text": "To maintain constant body temperature in warm-blooded animals by efficient oxygenation.", "isCorrect": true },
+      { "text": "To prevent backflow of blood into the veins.", "isCorrect": false },
+      { "text": "To allow carbon dioxide to be excreted through skin.", "isCorrect": false },
+      { "text": "To reduce the heart rate during sleep.", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 10",
+    "subject": "Science",
+    "difficulty": "HARD",
+    "text": "Why do ionic compounds generally have high melting and boiling points?",
+    "explanation": "Ionic compounds are formed of ions held by strong electrostatic forces of attraction, which require a large amount of energy to break.",
+    "options": [
+      { "text": "Because of strong electrostatic forces of attraction between oppositely charged ions.", "isCorrect": true },
+      { "text": "Because they contain weak intermolecular covalent bonds.", "isCorrect": false },
+      { "text": "Because they are highly soluble in organic solvents.", "isCorrect": false },
+      { "text": "Because they contain free electrons in solid state.", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 10",
+    "subject": "Science",
+    "difficulty": "HARD",
+    "text": "Which equation represents the correct chemical reaction of iron reacting with steam?",
+    "explanation": "Iron reacts only with steam (hot water) to form magnetic iron oxide (iron II,III oxide) and hydrogen gas: 3\\text{Fe} + 4\\text{H}_2\\text{O}(g) \\rightarrow \\text{Fe}_3\\text{O}_4 + 4\\text{H}_2.",
+    "options": [
+      { "text": "3\\text{Fe}(s) + 4\\text{H}_2\\text{O}(g) \\rightarrow \\text{Fe}_3\\text{O}_4(s) + 4\\text{H}_2(g)", "isCorrect": true },
+      { "text": "\\text{Fe}(s) + \\text{H}_2\\text{O}(l) \\rightarrow \\text{FeO}(s) + \\text{H}_2(g)", "isCorrect": false },
+      { "text": "2\\text{Fe}(s) + 3\\text{H}_2\\text{O}(g) \\rightarrow \\text{Fe}_2\\text{O}_3(s) + 3\\text{H}_2(g)", "isCorrect": false },
+      { "text": "\\text{Fe}(s) + 2\\text{H}_2\\text{O}(l) \\rightarrow \\text{Fe(OH)}_2(s) + \\text{H}_2(g)", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 10",
+    "subject": "Science",
+    "difficulty": "HARD",
+    "text": "The refractive index of water is 4/3. What is the speed of light in water?",
+    "explanation": "v = c/n = (3 \\times 10^8) / (4/3) = (9/4) \\times 10^8 = 2.25 \\times 10^8\\text{ m/s}.",
+    "options": [
+      { "text": "2.25 \\times 10^8\\text{ m/s}", "isCorrect": true },
+      { "text": "2.0 \\times 10^8\\text{ m/s}", "isCorrect": false },
+      { "text": "3.0 \\times 10^8\\text{ m/s}", "isCorrect": false },
+      { "text": "1.33 \\times 10^8\\text{ m/s}", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 10",
+    "subject": "Science",
+    "difficulty": "HARD",
+    "text": "What is a solenoid, and how does the magnetic field inside it behave when current is passed?",
+    "explanation": "A solenoid is a cylindrical coil of insulated copper wire. The magnetic field inside it consists of parallel straight lines, indicating it is uniform.",
+    "options": [
+      { "text": "A cylindrical coil of wire; field inside is uniform and represented by parallel straight lines.", "isCorrect": true },
+      { "text": "A flat circular loop of wire; field inside is zero.", "isCorrect": false },
+      { "text": "A straight conducting wire; field inside is concentric circles.", "isCorrect": false },
+      { "text": "A permanent magnet; field inside flows from south to north.", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 10",
+    "subject": "Science",
+    "difficulty": "HARD",
+    "text": "Why does anaerobic respiration in yeast yield ethanol, while in human muscle cells it yields lactic acid?",
+    "explanation": "Yeast cells contain enzymes that perform alcoholic fermentation, converting pyruvate to ethanol and \\text{CO}_2. Muscles perform lactic acid fermentation due to temporary oxygen lack.",
+    "options": [
+      { "text": "Yeast has enzymes for alcoholic fermentation; muscles perform lactic acid fermentation due to oxygen lack.", "isCorrect": true },
+      { "text": "Yeast performs respiration in presence of carbon dioxide; muscles require nitrogen.", "isCorrect": false },
+      { "text": "Muscles lack mitochondria to convert pyruvate to ethanol.", "isCorrect": false },
+      { "text": "Yeast is multicellular and has a simpler metabolic pathway than muscle cells.", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 10",
+    "subject": "Science",
+    "difficulty": "VERY HARD",
+    "text": "Why do stars twinkle at night, whereas planets do not?",
+    "explanation": "Stars are point sources of light whose rays suffer continuous variations in refraction due to moving atmospheric layers. Planets are closer, extended sources, so variations average out.",
+    "options": [
+      { "text": "Stars are point sources whose refraction varies continuously; planets are extended sources where variations average out.", "isCorrect": true },
+      { "text": "Stars emit variable light intensities; planets reflect constant solar light.", "isCorrect": false },
+      { "text": "Stars are located outside our galaxy; planets are within the solar system.", "isCorrect": false },
+      { "text": "Atmospheric dust scatters starlight but absorbs light reflected from planets.", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 10",
+    "subject": "Science",
+    "difficulty": "VERY HARD",
+    "text": "What is the primary environmental impact of burning fossil fuels, and why is it necessary to switch to renewable energy sources?",
+    "explanation": "Fossil fuels release greenhouse gases (\\text{CO}_2) and polluting acidic oxides (nitrogen/sulphur), causing global warming and acid rain, and they are non-renewable.",
+    "options": [
+      { "text": "They release greenhouse gases and acidic oxides, cause global warming/acid rain, and are non-renewable.", "isCorrect": true },
+      { "text": "They increase atmospheric oxygen levels leading to forest fires.", "isCorrect": false },
+      { "text": "They deplete the ozone layer directly by releasing chlorofluorocarbons.", "isCorrect": false },
+      { "text": "They cause rapid cooling of the earth's surface due to soot formation.", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 10",
+    "subject": "Science",
+    "difficulty": "VERY HARD",
+    "text": "An organic compound 'A' (\\text{C}_2\\text{H}_6\\text{O}) is oxidized by heating with alkaline potassium permanganate to form compound 'B' (\\text{C}_2\\text{H}_4\\text{O}_2). Identify A and B.",
+    "explanation": "Ethanol (\\text{C}_2\\text{H}_5\\text{OH}, formula \\text{C}_2\\text{H}_6\\text{O}) is oxidized by alkaline \\text{KMnO}_4 to form ethanoic acid (\\text{CH}_3\\text{COOH}, formula \\text{C}_2\\text{H}_4\\text{O}_2).",
+    "options": [
+      { "text": "A: Ethanol, B: Ethanoic acid", "isCorrect": true },
+      { "text": "A: Ethanoic acid, B: Ethanol", "isCorrect": false },
+      { "text": "A: Ethanol, B: Ethene", "isCorrect": false },
+      { "text": "A: Ethene, B: Ethane", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 10",
+    "subject": "Science",
+    "difficulty": "VERY HARD",
+    "text": "Explain how blood groups are inherited in human beings.",
+    "explanation": "Inheritance is controlled by gene I which has three alleles: I^A, I^B, and I^O. I^A and I^B are co-dominant, and both are dominant over I^O.",
+    "options": [
+      { "text": "Controlled by gene I with three alleles where I^A and I^B are co-dominant, and both dominate over I^O.", "isCorrect": true },
+      { "text": "Controlled by two genes on separate sex chromosomes, displaying sex-linked inheritance.", "isCorrect": false },
+      { "text": "Determined entirely by maternal inheritance and mitochondrial DNA.", "isCorrect": false },
+      { "text": "Follows simple incomplete dominance where heterozygous genotype gives intermediate phenotype.", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 10",
+    "subject": "Science",
+    "difficulty": "VERY HARD",
+    "text": "A student sitting on the last bench cannot see the blackboard clearly. What is the eye defect and what are its physiological causes?",
+    "explanation": "The student has Myopia. It is caused by: (1) excessive curvature of the eye lens, or (2) elongation of the eyeball, focusing images in front of the retina.",
+    "options": [
+      { "text": "Myopia; caused by excessive curvature of the eye lens or elongation of the eyeball.", "isCorrect": true },
+      { "text": "Hypermetropia; caused by eye lens becoming too flat or eyeball shortening.", "isCorrect": false },
+      { "text": "Presbyopia; caused by weakening of ciliary muscles and loss of flexibility.", "isCorrect": false },
+      { "text": "Myopia; caused by loss of transparency of the cornea.", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 10",
+    "subject": "Science",
+    "difficulty": "VERY HARD",
+    "text": "A resistor of 5 \\Omega is connected in series with a parallel combination of two resistors of 6 \\Omega and 3 \\Omega. Calculate the equivalent resistance of the entire combination.",
+    "explanation": "Parallel combination equivalent: R_p = (6 \\times 3) / (6 + 3) = 18/9 = 2 \\, \\Omega. Total series equivalent: R_eq = 5 + R_p = 5 + 2 = 7 \\, \\Omega.",
+    "options": [
+      { "text": "7 \\Omega", "isCorrect": true },
+      { "text": "14 \\Omega", "isCorrect": false },
+      { "text": "5.67 \\Omega", "isCorrect": false },
+      { "text": "9 \\Omega", "isCorrect": false }
+    ]
+  }
+]

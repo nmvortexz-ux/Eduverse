@@ -1,0 +1,47 @@
+[
+  {
+    "text": "What is Critical Point Control?",
+    "options": [
+      "It is a method of controlling where the manager takes corrective action only when the actual performance deviates from the standard by a certain percentage.",
+      "It is a method of controlling where the manager takes corrective action only when the actual performance deviates from the standard by a fixed amount.",
+      "It is a method of controlling where the manager takes corrective action only when the actual performance is better than the standard.",
+      "It is a method of controlling where the manager takes corrective action only when the actual performance is worse than the standard."
+    ],
+    "correctAnswer": "Option A",
+    "explanation": "Critical Point Control is a method of controlling where the manager takes corrective action only when the actual performance deviates from the standard by a certain percentage. This method is useful when the manager wants to take corrective action only when the deviation is significant.",
+    "difficulty": "Easy",
+    "class": "Class 12",
+    "subject": "Business Studies",
+    "chapter": "Ch 8: Controlling"
+  },
+  {
+    "text": "Which of the following is a characteristic of Management by Exception?",
+    "options": [
+      "It is a method of controlling where the manager takes corrective action only when the actual performance is better than the standard.",
+      "It is a method of controlling where the manager takes corrective action only when the actual performance deviates from the standard by a certain percentage.",
+      "It is a method of controlling where the manager takes corrective action only when the actual performance is worse than the standard.",
+      "It is a method of controlling where the manager takes corrective action only when the actual performance is equal to the standard."
+    ],
+    "correctAnswer": "Option C",
+    "explanation": "Management by Exception is a method of controlling where the manager takes corrective action only when the actual performance deviates from the standard. This method is useful when the manager wants to take corrective action only when the deviation is significant.",
+    "difficulty": "Medium",
+    "class": "Class 12",
+    "subject": "Business Studies",
+    "chapter": "Ch 8: Controlling"
+  },
+  {
+    "text": "What is the main advantage of Critical Point Control?",
+    "options": [
+      "It helps in reducing the workload of the manager.",
+      "It helps in increasing the workload of the manager.",
+      "It helps in reducing the cost of controlling.",
+      "It helps in increasing the cost of controlling."
+    ],
+    "correctAnswer": "Option C",
+    "explanation": "The main advantage of Critical Point Control is that it helps in reducing the cost of controlling. This is because the manager takes corrective action only when the deviation is significant, which reduces the number of corrective actions taken.",
+    "difficulty": "Hard",
+    "class": "Class 12",
+    "subject": "Business Studies",
+    "chapter": "Ch 8: Controlling"
+  }
+]

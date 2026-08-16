@@ -1,0 +1,132 @@
+[
+  {
+    "class": "Class 9",
+    "subject": "Science",
+    "difficulty": "Easy",
+    "text": "What is the SI unit of force?",
+    "explanation": "The SI unit of force is the Newton (N), named after Sir Isaac Newton in recognition of his work on classical mechanics.",
+    "options": [
+      { "text": "Joule", "isCorrect": false },
+      { "text": "Newton", "isCorrect": true },
+      { "text": "Pascal", "isCorrect": false },
+      { "text": "Watt", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 9",
+    "subject": "Science",
+    "difficulty": "Medium",
+    "text": "Which organelle is known as the powerhouse of the cell?",
+    "explanation": "Mitochondria are membrane-bound cell organelles that generate most of the chemical energy needed to power the cell's biochemical reactions.",
+    "options": [
+      { "text": "Nucleus", "isCorrect": false },
+      { "text": "Ribosome", "isCorrect": false },
+      { "text": "Mitochondria", "isCorrect": true },
+      { "text": "Golgi apparatus", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 9",
+    "subject": "Science",
+    "difficulty": "Medium",
+    "text": "What is the chemical formula of ozone?",
+    "explanation": "Ozone is a highly reactive gas composed of three oxygen atoms. Its chemical formula is O3.",
+    "options": [
+      { "text": "O2", "isCorrect": false },
+      { "text": "O3", "isCorrect": true },
+      { "text": "CO2", "isCorrect": false },
+      { "text": "H2O", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 9",
+    "subject": "Science",
+    "difficulty": "Hard",
+    "text": "Which of the following is an example of an emulsion?",
+    "explanation": "Milk is an emulsion, which is a colloidal dispersion of a liquid in either a liquid or a solid.",
+    "options": [
+      { "text": "Smoke", "isCorrect": false },
+      { "text": "Milk", "isCorrect": true },
+      { "text": "Fog", "isCorrect": false },
+      { "text": "Cheese", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 9",
+    "subject": "Science",
+    "difficulty": "Easy",
+    "text": "What is the speed of light in a vacuum?",
+    "explanation": "The speed of light in a vacuum is approximately 3 × 10^8 meters per second.",
+    "options": [
+      { "text": "3 × 10^8 m/s", "isCorrect": true },
+      { "text": "3 × 10^5 m/s", "isCorrect": false },
+      { "text": "3 × 10^6 m/s", "isCorrect": false },
+      { "text": "3 × 10^10 m/s", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 9",
+    "subject": "Science",
+    "difficulty": "Medium",
+    "text": "The rate of change of velocity is called?",
+    "explanation": "Acceleration is defined as the rate of change of velocity with respect to time.",
+    "options": [
+      { "text": "Speed", "isCorrect": false },
+      { "text": "Momentum", "isCorrect": false },
+      { "text": "Acceleration", "isCorrect": true },
+      { "text": "Force", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 9",
+    "subject": "Science",
+    "difficulty": "Hard",
+    "text": "Which law states that the total momentum of an isolated system remains constant?",
+    "explanation": "The Law of Conservation of Momentum states that if no external force acts on a closed system, the total momentum remains constant.",
+    "options": [
+      { "text": "Newton's First Law", "isCorrect": false },
+      { "text": "Law of Conservation of Mass", "isCorrect": false },
+      { "text": "Law of Conservation of Momentum", "isCorrect": true },
+      { "text": "Law of Conservation of Energy", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 9",
+    "subject": "Science",
+    "difficulty": "Medium",
+    "text": "What type of tissue transports water and minerals in plants?",
+    "explanation": "Xylem is the vascular tissue responsible for the transport of water and dissolved minerals from the roots to the rest of the plant.",
+    "options": [
+      { "text": "Phloem", "isCorrect": false },
+      { "text": "Xylem", "isCorrect": true },
+      { "text": "Parenchyma", "isCorrect": false },
+      { "text": "Collenchyma", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 9",
+    "subject": "Science",
+    "difficulty": "Easy",
+    "text": "Which state of matter has a definite volume but no definite shape?",
+    "explanation": "Liquids have a definite volume, but they take the shape of their container because their particles can move past one another.",
+    "options": [
+      { "text": "Solid", "isCorrect": false },
+      { "text": "Liquid", "isCorrect": true },
+      { "text": "Gas", "isCorrect": false },
+      { "text": "Plasma", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 9",
+    "subject": "Science",
+    "difficulty": "Hard",
+    "text": "What is the valency of Carbon?",
+    "explanation": "Carbon has an atomic number of 6, with 4 electrons in its outermost shell, giving it a valency of 4.",
+    "options": [
+      { "text": "2", "isCorrect": false },
+      { "text": "3", "isCorrect": false },
+      { "text": "4", "isCorrect": true },
+      { "text": "5", "isCorrect": false }
+    ]
+  }
+]

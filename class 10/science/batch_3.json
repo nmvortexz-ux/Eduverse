@@ -1,0 +1,327 @@
+[
+  {
+    "class": "Class 10",
+    "subject": "Science",
+    "difficulty": "EASY",
+    "text": "The process of respiration is chemically classified as:",
+    "explanation": "Respiration involves the breakdown of glucose in the presence of oxygen to release carbon dioxide, water, and energy, making it an exothermic reaction.",
+    "options": [
+      { "text": "an exothermic reaction", "isCorrect": true },
+      { "text": "an endothermic reaction", "isCorrect": false },
+      { "text": "a simple physical change", "isCorrect": false },
+      { "text": "a reduction reaction only", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 10",
+    "subject": "Science",
+    "difficulty": "EASY",
+    "text": "Which of the following organic acids is naturally present in sour milk or curd?",
+    "explanation": "Lactobacillus bacteria convert lactose sugar in milk to lactic acid, giving curd its sour taste.",
+    "options": [
+      { "text": "Lactic acid", "isCorrect": true },
+      { "text": "Citric acid", "isCorrect": false },
+      { "text": "Tartaric acid", "isCorrect": false },
+      { "text": "Oxalic acid", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 10",
+    "subject": "Science",
+    "difficulty": "EASY",
+    "text": "Which structure represents the male reproductive organ in a flowering plant?",
+    "explanation": "The stamen is the male reproductive part of a flower, which consists of the anther and filament.",
+    "options": [
+      { "text": "Stamen", "isCorrect": true },
+      { "text": "Carpel", "isCorrect": false },
+      { "text": "Pistil", "isCorrect": false },
+      { "text": "Style", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 10",
+    "subject": "Science",
+    "difficulty": "EASY",
+    "text": "The S.I. unit of electric potential difference is:",
+    "explanation": "The S.I. unit of electric potential difference is volt (V), named after Alessandro Volta.",
+    "options": [
+      { "text": "volt (V)", "isCorrect": true },
+      { "text": "ampere (A)", "isCorrect": false },
+      { "text": "coulomb (C)", "isCorrect": false },
+      { "text": "ohm (\\Omega)", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 10",
+    "subject": "Science",
+    "difficulty": "EASY",
+    "text": "During the dispersion of white light by a glass prism, which colour of light bends the most?",
+    "explanation": "Violet light has the shortest wavelength in the visible spectrum and refracts (bends) the most when passing through a prism.",
+    "options": [
+      { "text": "Violet", "isCorrect": true },
+      { "text": "Red", "isCorrect": false },
+      { "text": "Green", "isCorrect": false },
+      { "text": "Yellow", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 10",
+    "subject": "Science",
+    "difficulty": "EASY",
+    "text": "A solution turns red litmus paper blue. Its pH is likely to be:",
+    "explanation": "Basic solutions turn red litmus paper blue and have a pH value greater than 7.",
+    "options": [
+      { "text": "10", "isCorrect": true },
+      { "text": "1", "isCorrect": false },
+      { "text": "4", "isCorrect": false },
+      { "text": "5", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 10",
+    "subject": "Science",
+    "difficulty": "MEDIUM",
+    "text": "Which metal exists as a liquid at room temperature?",
+    "explanation": "Mercury (\\text{Hg}) is the only metal that is liquid at room temperature.",
+    "options": [
+      { "text": "Mercury", "isCorrect": true },
+      { "text": "Gallium", "isCorrect": false },
+      { "text": "Sodium", "isCorrect": false },
+      { "text": "Bromine", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 10",
+    "subject": "Science",
+    "difficulty": "MEDIUM",
+    "text": "Amoeba reproduces asexually through which of the following processes?",
+    "explanation": "Amoeba reproduces by splitting into two equal halves, which is a form of asexual reproduction known as binary fission.",
+    "options": [
+      { "text": "Binary fission", "isCorrect": true },
+      { "text": "Budding", "isCorrect": false },
+      { "text": "Fragmentation", "isCorrect": false },
+      { "text": "Spore formation", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 10",
+    "subject": "Science",
+    "difficulty": "MEDIUM",
+    "text": "What is the primary role of xylem tissue in vascular plants?",
+    "explanation": "Xylem is specialized vascular tissue responsible for the conduction of water and dissolved mineral nutrients from roots to leaves.",
+    "options": [
+      { "text": "Transport of water and minerals", "isCorrect": true },
+      { "text": "Transport of food and organic solutes", "isCorrect": false },
+      { "text": "Storage of starch", "isCorrect": false },
+      { "text": "Providing mechanical support only", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 10",
+    "subject": "Science",
+    "difficulty": "MEDIUM",
+    "text": "The focus of a concave mirror is:",
+    "explanation": "Light rays parallel to the principal axis actually meet at the focus in front of a concave mirror, so it is a real focus.",
+    "options": [
+      { "text": "real, located in front of the mirror", "isCorrect": true },
+      { "text": "virtual, located behind the mirror", "isCorrect": false },
+      { "text": "real, located behind the mirror", "isCorrect": false },
+      { "text": "virtual, located in front of the mirror", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 10",
+    "subject": "Science",
+    "difficulty": "MEDIUM",
+    "text": "In the reaction \\text{CuO} + \\text{H}_2 \\rightarrow \\text{Cu} + \\text{H}_2\\text{O}, identify the substance oxidized and the substance reduced.",
+    "explanation": "Hydrogen (\\text{H}_2) gains oxygen to become \\text{H}_2\\text{O} (oxidized), and copper oxide (\\text{CuO}) loses oxygen to become \\text{Cu} (reduced).",
+    "options": [
+      { "text": "\\text{H}_2 is oxidized, \\text{CuO} is reduced", "isCorrect": true },
+      { "text": "\\text{Cu} is oxidized, \\text{H}_2 is reduced", "isCorrect": false },
+      { "text": "\\text{CuO} is oxidized, \\text{H}_2 is reduced", "isCorrect": false },
+      { "text": "\\text{H}_2 is oxidized, \\text{Cu} is reduced", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 10",
+    "subject": "Science",
+    "difficulty": "MEDIUM",
+    "text": "What is the general chemical formula representing the alkane homologous series?",
+    "explanation": "Alkanes are saturated hydrocarbons with the general chemical formula \\text{C}_n\\text{H}_{2n+2}.",
+    "options": [
+      { "text": "\\text{C}_n\\text{H}_{2n+2}", "isCorrect": true },
+      { "text": "\\text{C}_n\\text{H}_{2n}", "isCorrect": false },
+      { "text": "\\text{C}_n\\text{H}_{2n-2}", "isCorrect": false },
+      { "text": "\\text{C}_n\\text{H}_{2n+1}", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 10",
+    "subject": "Science",
+    "difficulty": "MEDIUM",
+    "text": "Which functional group is present in the compound Propanone?",
+    "explanation": "Propanone (\\text{CH}_3\\text{COCH}_3) contains the carbonyl functional group characteristic of ketones.",
+    "options": [
+      { "text": "Ketone", "isCorrect": true },
+      { "text": "Aldehyde", "isCorrect": false },
+      { "text": "Alcohol", "isCorrect": false },
+      { "text": "Carboxylic acid", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 10",
+    "subject": "Science",
+    "difficulty": "HARD",
+    "text": "In a dihybrid cross between two heterozygous plants (RrYy), what is the expected phenotypic ratio of the F2 generation?",
+    "explanation": "Mendel's law of independent assortment predicts a phenotypic ratio of 9:3:3:1 in the F2 generation of a dihybrid cross.",
+    "options": [
+      { "text": "9:3:3:1", "isCorrect": true },
+      { "text": "3:1", "isCorrect": false },
+      { "text": "1:2:1", "isCorrect": false },
+      { "text": "9:7", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 10",
+    "subject": "Science",
+    "difficulty": "HARD",
+    "text": "The magnetic field inside a long straight current-carrying solenoid:",
+    "explanation": "The magnetic field lines inside a solenoid are parallel straight lines, indicating that the magnetic field is uniform and the same at all points.",
+    "options": [
+      { "text": "is the same at all points", "isCorrect": true },
+      { "text": "decreases as we move towards its ends", "isCorrect": false },
+      { "text": "increases as we move towards its ends", "isCorrect": false },
+      { "text": "is zero", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 10",
+    "subject": "Science",
+    "difficulty": "HARD",
+    "text": "Which lens type is used to correct the eye defect known as Presbyopia?",
+    "explanation": "Presbyopia is characterized by a decrease in accommodation power due to aging, requiring bifocal lenses containing both concave (for distance) and convex (for near) sections.",
+    "options": [
+      { "text": "Bifocal lenses", "isCorrect": true },
+      { "text": "Convex lenses only", "isCorrect": false },
+      { "text": "Concave lenses only", "isCorrect": false },
+      { "text": "Cylindrical lenses", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 10",
+    "subject": "Science",
+    "difficulty": "HARD",
+    "text": "Which metals are extracted by the electrolysis of their molten chlorides?",
+    "explanation": "Highly reactive metals like sodium (\\text{Na}), magnesium (\\text{Mg}), and calcium (\\text{Ca}) are extracted by electrolysis of their molten chlorides, since they cannot be reduced by carbon.",
+    "options": [
+      { "text": "Sodium, Magnesium, Calcium", "isCorrect": true },
+      { "text": "Iron, Zinc, Lead", "isCorrect": false },
+      { "text": "Copper, Silver, Gold", "isCorrect": false },
+      { "text": "Aluminium, Iron, Tin", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 10",
+    "subject": "Science",
+    "difficulty": "HARD",
+    "text": "What is the primary biological function of the placenta in human reproduction?",
+    "explanation": "The placenta is a disc-like structure embedded in the uterine wall that provides oxygen and nutrients to the embryo and removes carbon dioxide and waste products.",
+    "options": [
+      { "text": "Facilitating transport of nutrients, oxygen, and waste between mother and embryo", "isCorrect": true },
+      { "text": "Secreting progesterone to trigger ovulation", "isCorrect": false },
+      { "text": "Protecting the fetus from physical shock", "isCorrect": false },
+      { "text": "Directly generating red blood cells for the embryo", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 10",
+    "subject": "Science",
+    "difficulty": "HARD",
+    "text": "In an electric motor, which component reverses the direction of current in the armature coil?",
+    "explanation": "The split-ring commutator reverses the direction of current flow in the armature coil every half rotation, ensuring continuous rotation in one direction.",
+    "options": [
+      { "text": "Split-ring commutator", "isCorrect": true },
+      { "text": "Slip rings", "isCorrect": false },
+      { "text": "Carbon brushes", "isCorrect": false },
+      { "text": "Armature core", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 10",
+    "subject": "Science",
+    "difficulty": "VERY HARD",
+    "text": "Why does the sky appear dark or black to an astronaut in space instead of blue?",
+    "explanation": "The blue colour of the sky is due to atmospheric scattering of sunlight. In space, there is no atmosphere, so no scattering of light occurs, rendering the sky black.",
+    "options": [
+      { "text": "Because there is no atmosphere to scatter light.", "isCorrect": true },
+      { "text": "Because space absorbs all visible light waves.", "isCorrect": false },
+      { "text": "Because the sun's rays do not travel through space.", "isCorrect": false },
+      { "text": "Because the astronaut's visor filters out blue light.", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 10",
+    "subject": "Science",
+    "difficulty": "VERY HARD",
+    "text": "Which statement correctly describes the bonding and structure of Ethyne?",
+    "explanation": "Ethyne (\\text{C}_2\\text{H}_2) is an alkyne with a carbon-carbon triple bond. It contains 3 shared pairs of electrons between the carbons and single covalent bonds with hydrogen.",
+    "options": [
+      { "text": "Two carbon atoms share three pairs of electrons, forming a triple covalent bond.", "isCorrect": true },
+      { "text": "Two carbon atoms share two pairs of electrons, forming a double covalent bond.", "isCorrect": false },
+      { "text": "The molecules are held together by ionic bonds.", "isCorrect": false },
+      { "text": "Ethyne is a saturated hydrocarbon with single bonds only.", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 10",
+    "subject": "Science",
+    "difficulty": "VERY HARD",
+    "text": "Five identical resistors, each of resistance R, have an equivalent resistance of 5 \\Omega when connected in series. What is their equivalent resistance when connected in parallel?",
+    "explanation": "In series, R_s = 5R = 5 \\, \\Omega \\Rightarrow R = 1 \\, \\Omega. In parallel, 1/R_p = 5/R = 5/1 = 5 \\Rightarrow R_p = 1/5 = 0.2 \\, \\Omega.",
+    "options": [
+      { "text": "0.2 \\Omega", "isCorrect": true },
+      { "text": "1 \\Omega", "isCorrect": false },
+      { "text": "0.5 \\Omega", "isCorrect": false },
+      { "text": "2.5 \\Omega", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 10",
+    "subject": "Science",
+    "difficulty": "VERY HARD",
+    "text": "A concave mirror of focal length 15 cm forms a real image which is 3 times the size of the object. Find the object distance.",
+    "explanation": "Since the image is real, magnification m = -3. From m = -v/u \\Rightarrow v = 3u. Using mirror formula: 1/f = 1/v + 1/u \\Rightarrow -1/15 = 1/(3u) + 1/u = 4/(3u) \\Rightarrow 3u = -60 \\Rightarrow u = -20 cm.",
+    "options": [
+      { "text": "-20 cm", "isCorrect": true },
+      { "text": "-10 cm", "isCorrect": false },
+      { "text": "-30 cm", "isCorrect": false },
+      { "text": "-40 cm", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 10",
+    "subject": "Science",
+    "difficulty": "VERY HARD",
+    "text": "Why is nitrogen gas flushed into bags of potato chips and other oily foods?",
+    "explanation": "Oily foods react with oxygen (oxidation) to become rancid, changing their smell and taste. Nitrogen is an inert gas that prevents oxidation.",
+    "options": [
+      { "text": "To prevent the food from undergoing oxidation and becoming rancid.", "isCorrect": true },
+      { "text": "To act as a preservative by increasing the acidity inside the bag.", "isCorrect": false },
+      { "text": "To keep the potato chips crisp through dehydration.", "isCorrect": false },
+      { "text": "To kill any anaerobic bacteria existing in the bag.", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 10",
+    "subject": "Science",
+    "difficulty": "VERY HARD",
+    "text": "What are the end products of anaerobic respiration in human muscle cells during vigorous exercise?",
+    "explanation": "Under anaerobic conditions (lack of oxygen) in muscle cells, pyruvate is converted into lactic acid and energy, leading to muscle cramps.",
+    "options": [
+      { "text": "Lactic acid + Energy", "isCorrect": true },
+      { "text": "Ethanol + Carbon dioxide + Energy", "isCorrect": false },
+      { "text": "Carbon dioxide + Water + Energy", "isCorrect": false },
+      { "text": "Pyruvate + Lactic acid", "isCorrect": false }
+    ]
+  }
+]

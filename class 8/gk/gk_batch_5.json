@@ -1,0 +1,327 @@
+[
+  {
+    "class": "Class 8",
+    "subject": "GK",
+    "difficulty": "Hard",
+    "text": "Who was appointed as the first Viceroy of India under the Government of India Act of 1858, which transferred power from the East India Company to the British Crown?",
+    "explanation": "Lord Canning served as the last Governor-General of India and became the first Viceroy in 1858 following the suppression of the Revolt of 1857.",
+    "options": [
+      { "text": "Lord Dalhousie", "isCorrect": false },
+      { "text": "Lord Canning", "isCorrect": true },
+      { "text": "Lord Lytton", "isCorrect": false },
+      { "text": "Lord Curzon", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 8",
+    "subject": "GK",
+    "difficulty": "Very Hard",
+    "text": "In which historic session of the Indian National Congress was the resolution for 'Purna Swaraj' (Complete Independence) officially passed under the presidency of Jawaharlal Nehru?",
+    "explanation": "The 'Purna Swaraj' resolution was adopted at the Lahore Session in December 1929, and January 26, 1930, was declared as the first Independence Day.",
+    "options": [
+      { "text": "Belgaum Session, 1924", "isCorrect": false },
+      { "text": "Lahore Session, 1929", "isCorrect": true },
+      { "text": "Karachi Session, 1931", "isCorrect": false },
+      { "text": "Haripura Session, 1938", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 8",
+    "subject": "GK",
+    "difficulty": "Very Hard",
+    "text": "Who was the British Prime Minister who announced the 'Communal Award' in August 1932, which proposed separate electorates for minority communities including the Depressed Classes?",
+    "explanation": "Ramsay MacDonald announced the Communal Award in 1932. This led to Mahatma Gandhi protesting with a fast unto death in Yerwada Jail, which ended with the signing of the Poona Pact.",
+    "options": [
+      { "text": "Winston Churchill", "isCorrect": false },
+      { "text": "Ramsay MacDonald", "isCorrect": true },
+      { "text": "Clement Attlee", "isCorrect": false },
+      { "text": "Stanley Baldwin", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 8",
+    "subject": "GK",
+    "difficulty": "Very Hard",
+    "text": "The famous Indus Valley Civilisation site of Harappa, located on the banks of the Ravi River, was first excavated by which Indian archaeologist in 1921?",
+    "explanation": "Daya Ram Sahni led the excavations of the ruins of Harappa in 1921 under the guidance of Sir John Marshall, director of the Archaeological Survey of India.",
+    "options": [
+      { "text": "R. D. Banerji", "isCorrect": false },
+      { "text": "Daya Ram Sahni", "isCorrect": true },
+      { "text": "A. Ghosh", "isCorrect": false },
+      { "text": "M. S. Vats", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 8",
+    "subject": "GK",
+    "difficulty": "Very Hard",
+    "text": "Who was the founder of the Rashtrakuta Dynasty of ancient India in the 8th century, which established its capital at Manyakheta?",
+    "explanation": "Dantidurga founded the Rashtrakuta Dynasty in 753 CE by defeating the Chalukya ruler Kirtivarman II, performing the famous Hiranya-garbha ritual.",
+    "options": [
+      { "text": "Krishna I", "isCorrect": false },
+      { "text": "Dantidurga", "isCorrect": true },
+      { "text": "Amoghavarsha I", "isCorrect": false },
+      { "text": "Dhruva Dharavarsha", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 8",
+    "subject": "GK",
+    "difficulty": "Hard",
+    "text": "Which wildlife sanctuary and national park in Assam is famous for the successful conservation of the endangered Indian One-horned Rhinoceros?",
+    "explanation": "Kaziranga National Park in Assam is a UNESCO World Heritage site and home to the world's largest population of the great Indian One-horned Rhinoceros.",
+    "options": [
+      { "text": "Manas National Park", "isCorrect": false },
+      { "text": "Kaziranga National Park", "isCorrect": true },
+      { "text": "Nameri National Park", "isCorrect": false },
+      { "text": "Dibru-Saikhowa National Park", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 8",
+    "subject": "GK",
+    "difficulty": "Very Hard",
+    "text": "The 'Indira Point', which is the southernmost point of Indian territory, is located on which specific island in the Andaman and Nicobar group?",
+    "explanation": "Indira Point (formerly Pygmalion Point) is situated on the Great Nicobar Island, about 150 km north of Sumatra, Indonesia.",
+    "options": [
+      { "text": "Car Nicobar Island", "isCorrect": false },
+      { "text": "Great Nicobar Island", "isCorrect": true },
+      { "text": "Little Andaman Island", "isCorrect": false },
+      { "text": "Middle Andaman Island", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 8",
+    "subject": "GK",
+    "difficulty": "Very Hard",
+    "text": "Which river is widely known as the 'Sorrow of Bihar' due to its frequent course shifts and devastating floods that displace thousands annually?",
+    "explanation": "The Kosi River is known as the Sorrow of Bihar because its massive sediment load causes it to shift its channel frequently, resulting in major floods during the monsoon.",
+    "options": [
+      { "text": "Damodar River", "isCorrect": false },
+      { "text": "Kosi River", "isCorrect": true },
+      { "text": "Gandak River", "isCorrect": false },
+      { "text": "Ghaghara River", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 8",
+    "subject": "GK",
+    "difficulty": "Very Hard",
+    "text": "The 'Deccan Trap' region in the Indian peninsula is primarily made of which type of igneous rock, formed by extensive volcanic fissure eruptions millions of years ago?",
+    "explanation": "The Deccan Traps are a large volcanic province made of thick layers of basaltic lava flows that weathered over time to form fertile black soil (regur).",
+    "options": [
+      { "text": "Granite", "isCorrect": false },
+      { "text": "Basalt", "isCorrect": true },
+      { "text": "Pumice", "isCorrect": false },
+      { "text": "Obsidian", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 8",
+    "subject": "GK",
+    "difficulty": "Very Hard",
+    "text": "Which high mountain pass, located in the Himalayas, connects the Indian state of Sikkim to the Tibet Autonomous Region of China?",
+    "explanation": "Nathu La Pass, located at an altitude of 4,310 meters, is a major mountain pass in Sikkim that connects India to Tibet and was a branch of the ancient Silk Road.",
+    "options": [
+      { "text": "Shipki La Pass", "isCorrect": false },
+      { "text": "Nathu La Pass", "isCorrect": true },
+      { "text": "Lipulekh Pass", "isCorrect": false },
+      { "text": "Bara-lacha La", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 8",
+    "subject": "GK",
+    "difficulty": "Hard",
+    "text": "Which article of the Constitution of India provides the detailed procedure for the impeachment of the President of India?",
+    "explanation": "Article 61 of the Constitution outlines the procedure for the impeachment of the President for 'violation of the Constitution', requiring a two-thirds majority in both Houses of Parliament.",
+    "options": [
+      { "text": "Article 52", "isCorrect": false },
+      { "text": "Article 61", "isCorrect": true },
+      { "text": "Article 72", "isCorrect": false },
+      { "text": "Article 356", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 8",
+    "subject": "GK",
+    "difficulty": "Very Hard",
+    "text": "By which Constitutional Amendment Act was the 'Right to Property' officially deleted from the list of Fundamental Rights and made a legal right under Article 300A?",
+    "explanation": "The 44th Amendment Act of 1978 removed the Right to Property as a Fundamental Right (Article 19(1)(f) and Article 31) and reclassified it as a legal right under Article 300A.",
+    "options": [
+      { "text": "42nd Amendment Act", "isCorrect": false },
+      { "text": "44th Amendment Act", "isCorrect": true },
+      { "text": "86th Amendment Act", "isCorrect": false },
+      { "text": "103rd Amendment Act", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 8",
+    "subject": "GK",
+    "difficulty": "Very Hard",
+    "text": "The concept of 'Procedures Established by Law' incorporated in the Indian Constitution was borrowed from which country's constitution?",
+    "explanation": "The phrase 'Procedure Established by Law' in Article 21 of the Indian Constitution was borrowed from the Constitution of Japan.",
+    "options": [
+      { "text": "United States of America", "isCorrect": false },
+      { "text": "Japan", "isCorrect": true },
+      { "text": "Germany", "isCorrect": false },
+      { "text": "Ireland", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 8",
+    "subject": "GK",
+    "difficulty": "Very Hard",
+    "text": "Who was elected as the first Speaker of the Lok Sabha (House of the People) of independent India, presiding over the house from 1952 to 1956?",
+    "explanation": "Ganesh Vasudev Mavalankar (G. V. Mavalankar) was the first Speaker of the Lok Sabha. He was fondly called 'Dadasaheb' by members of the house.",
+    "options": [
+      { "text": "M. A. Ayyangar", "isCorrect": false },
+      { "text": "G. V. Mavalankar", "isCorrect": true },
+      { "text": "Hukam Singh", "isCorrect": false },
+      { "text": "K. S. Hegde", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 8",
+    "subject": "GK",
+    "difficulty": "Very Hard",
+    "text": "Which specific schedule of the Constitution of India contains special provisions for the administration and control of Scheduled Areas and Scheduled Tribes in the states of Assam, Meghalaya, Tripura, and Mizoram?",
+    "explanation": "The Sixth Schedule of the Indian Constitution contains provisions for the administration of tribal areas in Assam, Meghalaya, Tripura, and Mizoram through Autonomous District Councils.",
+    "options": [
+      { "text": "Fifth Schedule", "isCorrect": false },
+      { "text": "Sixth Schedule", "isCorrect": true },
+      { "text": "Seventh Schedule", "isCorrect": false },
+      { "text": "Eighth Schedule", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 8",
+    "subject": "GK",
+    "difficulty": "Hard",
+    "text": "What is the chemical name of the common construction and casting compound known as Plaster of Paris?",
+    "explanation": "Plaster of Paris is a white powder made by heating gypsum, and its chemical name is calcium sulphate hemihydrate (\\\\(\\\\text{CaSO}_4 \\\\cdot \\\\frac{1}{2}\\\\text{H}_2\\\\text{O}\\\\)).",
+    "options": [
+      { "text": "Calcium carbonate", "isCorrect": false },
+      { "text": "Calcium sulphate hemihydrate", "isCorrect": true },
+      { "text": "Sodium thiosulphate", "isCorrect": false },
+      { "text": "Copper sulphate pentahydrate", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 8",
+    "subject": "GK",
+    "difficulty": "Very Hard",
+    "text": "What is the name of India's and Asia's first nuclear research reactor, built at Trombay and attained criticality in August 1956?",
+    "explanation": "Apsara was India's first research reactor, built with assistance from the United Kingdom (which provided the fuel). It was inaugurated by PM Nehru in 1957.",
+    "options": [
+      { "text": "Cirus", "isCorrect": false },
+      { "text": "Apsara", "isCorrect": true },
+      { "text": "Dhruva", "isCorrect": false },
+      { "text": "Kamini", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 8",
+    "subject": "GK",
+    "difficulty": "Very Hard",
+    "text": "What was the official code name of India's first successful peaceful nuclear bomb test carried out at Pokhran, Rajasthan, on May 18, 1974?",
+    "explanation": "The first nuclear test at Pokhran in 1974 was codenamed 'Smiling Buddha' (officially Pokhran-I), conducted on Buddha Purnima under the supervision of PM Indira Gandhi.",
+    "options": [
+      { "text": "Operation Vijay", "isCorrect": false },
+      { "text": "Smiling Buddha", "isCorrect": true },
+      { "text": "Operation Shakti", "isCorrect": false },
+      { "text": "Operation Meghdoot", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 8",
+    "subject": "GK",
+    "difficulty": "Very Hard",
+    "text": "Which distinguished scientist is globally recognized as the 'Father of the Indian Space Programme' for establishing ISRO and INCOSPAR?",
+    "explanation": "Dr. Vikram Sarabhai established the Indian National Committee for Space Research (INCOSPAR) in 1962, which later became the Indian Space Research Organisation (ISRO).",
+    "options": [
+      { "text": "Dr. Satish Dhawan", "isCorrect": false },
+      { "text": "Dr. Vikram Sarabhai", "isCorrect": true },
+      { "text": "Dr. A. P. J. Abdul Kalam", "isCorrect": false },
+      { "text": "Dr. K. Kasturirangan", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 8",
+    "subject": "GK",
+    "difficulty": "Very Hard",
+    "text": "Which two chemical elements are the most abundant in stars like our Sun, acting as fuel for nuclear fusion?",
+    "explanation": "Hydrogen (about 73%) and Helium (about 25%) are the most abundant elements in stars, where hydrogen fuses to form helium, releasing immense energy.",
+    "options": [
+      { "text": "Carbon and Nitrogen", "isCorrect": false },
+      { "text": "Hydrogen and Helium", "isCorrect": true },
+      { "text": "Iron and Oxygen", "isCorrect": false },
+      { "text": "Silicon and Magnesium", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 8",
+    "subject": "GK",
+    "difficulty": "Hard",
+    "text": "Which renowned Indian author wrote the famous collection of short stories titled 'Malgudi Days', depicting life in the fictional town of Malgudi?",
+    "explanation": "R. K. Narayan wrote 'Malgudi Days' (published in 1943), showcasing everyday Indian life through characters like Swami and his friends in a fictional South Indian town.",
+    "options": [
+      { "text": "Mulraj Anand", "isCorrect": false },
+      { "text": "R. K. Narayan", "isCorrect": true },
+      { "text": "Rabindranath Tagore", "isCorrect": false },
+      { "text": "Khushwant Singh", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 8",
+    "subject": "GK",
+    "difficulty": "Very Hard",
+    "text": "Who was the first Indian citizen to win the prestigious Nobel Memorial Prize in Economic Sciences, awarded in 1998 for his contributions to welfare economics?",
+    "explanation": "Amartya Sen won the Nobel Prize in Economics in 1998 for his work on social choice theory, welfare economics, and research on famines.",
+    "options": [
+      { "text": "Abhijit Banerjee", "isCorrect": false },
+      { "text": "Amartya Sen", "isCorrect": true },
+      { "text": "Raghuram Rajan", "isCorrect": false },
+      { "text": "Manmohan Singh", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 8",
+    "subject": "GK",
+    "difficulty": "Very Hard",
+    "text": "The international 'Kalinga Prize' is awarded annually by which organization to recognize outstanding contributions to the popularization of science to the public?",
+    "explanation": "The Kalinga Prize was established in 1952 by UNESCO following a donation from Biju Patnaik (founder of the Kalinga Foundation Trust in Odisha).",
+    "options": [
+      { "text": "World Health Organization (WHO)", "isCorrect": false },
+      { "text": "UNESCO", "isCorrect": true },
+      { "text": "Indian National Science Academy (INSA)", "isCorrect": false },
+      { "text": "World Economic Forum (WEF)", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 8",
+    "subject": "GK",
+    "difficulty": "Very Hard",
+    "text": "Which is the largest salt desert in India, famous for its seasonal marshy salt flats and the Rann Utsav festival?",
+    "explanation": "The Great Rann of Kutch in Gujarat is the largest salt desert in India, spanning over 7,500 square kilometers of salt flats in the Thar Desert.",
+    "options": [
+      { "text": "Thar Desert", "isCorrect": false },
+      { "text": "Great Rann of Kutch", "isCorrect": true },
+      { "text": "Deccan Desert", "isCorrect": false },
+      { "text": "Cold Desert of Ladakh", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 8",
+    "subject": "GK",
+    "difficulty": "Very Hard",
+    "text": "Who was the first female judge appointed to the Supreme Court of India in 1989, breaking a significant gender barrier in the higher judiciary?",
+    "explanation": "Justice M. Fathima Beevi was appointed as the first female judge of the Supreme Court of India in October 1989, later serving as the Governor of Tamil Nadu.",
+    "options": [
+      { "text": "Justice Sujata Manohar", "isCorrect": false },
+      { "text": "Justice M. Fathima Beevi", "isCorrect": true },
+      { "text": "Justice Ruma Pal", "isCorrect": false },
+      { "text": "Justice Indu Malhotra", "isCorrect": false }
+    ]
+  }
+]

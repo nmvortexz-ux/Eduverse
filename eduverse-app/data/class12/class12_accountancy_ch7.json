@@ -1,0 +1,137 @@
+[
+  {
+    "text": "What are the two main types of debentures?",
+    "options": [
+      "Convertible Debentures, Non-Convertible Debentures",
+      "Redeemable Debentures, Irredeemable Debentures",
+      "Secured Debentures, Unsecured Debentures",
+      "Fixed Rate Debentures, Floating Rate Debentures"
+    ],
+    "correctAnswer": "Convertible Debentures, Non-Convertible Debentures",
+    "explanation": "According to NCERT, debentures can be classified into two main types: Convertible Debentures and Non-Convertible Debentures. Convertible Debentures can be converted into shares of the company at a predetermined future date, while Non-Convertible Debentures cannot be converted into shares.",
+    "difficulty": "Easy",
+    "class": "Class 12",
+    "subject": "Accountancy",
+    "chapter": "Ch 7: Issue and Redemption of Debentures"
+  },
+  {
+    "text": "What is the main purpose of issuing debentures as collateral security?",
+    "options": [
+      "To raise long-term funds",
+      "To reduce the cost of capital",
+      "To provide collateral security to debenture holders",
+      "To increase the number of shareholders"
+    ],
+    "correctAnswer": "To provide collateral security to debenture holders",
+    "explanation": "According to NCERT, debentures can be issued as collateral security to provide security to debenture holders. This is done to ensure that the company can repay the debenture holders in case of default.",
+    "difficulty": "Medium",
+    "class": "Class 12",
+    "subject": "Accountancy",
+    "chapter": "Ch 7: Issue and Redemption of Debentures"
+  },
+  {
+    "text": "What is the accounting treatment for writing off discount/loss on issue of debentures?",
+    "options": [
+      "Debit Discount on Issue of Debentures, Credit Cash",
+      "Debit Cash, Credit Discount on Issue of Debentures",
+      "Debit Loss on Issue of Debentures, Credit Discount on Issue of Debentures",
+      "Debit Discount on Issue of Debentures, Credit Loss on Issue of Debentures"
+    ],
+    "correctAnswer": "Debit Discount on Issue of Debentures, Credit Cash",
+    "explanation": "According to NCERT, when a company issues debentures at a discount, the discount is written off by debiting Discount on Issue of Debentures and crediting Cash.",
+    "difficulty": "Medium",
+    "class": "Class 12",
+    "subject": "Accountancy",
+    "chapter": "Ch 7: Issue and Redemption of Debentures"
+  },
+  {
+    "text": "What is the difference between a redeemable debenture and an irredeemable debenture?",
+    "options": [
+      "Redeemable debenture can be redeemed at face value, while irredeemable debenture cannot be redeemed",
+      "Redeemable debenture can be redeemed at a premium, while irredeemable debenture cannot be redeemed",
+      "Redeemable debenture can be redeemed at a discount, while irredeemable debenture cannot be redeemed",
+      "Redeemable debenture can be redeemed at a premium or discount, while irredeemable debenture cannot be redeemed"
+    ],
+    "correctAnswer": "Redeemable debenture can be redeemed at face value, while irredeemable debenture cannot be redeemed",
+    "explanation": "According to NCERT, a redeemable debenture can be redeemed at face value, while an irredeemable debenture cannot be redeemed.",
+    "difficulty": "Hard",
+    "class": "Class 12",
+    "subject": "Accountancy",
+    "chapter": "Ch 7: Issue and Redemption of Debentures"
+  },
+  {
+    "text": "What is the accounting treatment for redemption of debentures?",
+    "options": [
+      "Debit Debenture Redemption Reserve, Credit Debentures",
+      "Debit Debentures, Credit Debenture Redemption Reserve",
+      "Debit Cash, Credit Debentures",
+      "Debit Debentures, Credit Cash"
+    ],
+    "correctAnswer": "Debit Debenture Redemption Reserve, Credit Debentures",
+    "explanation": "According to NCERT, when a company redeems debentures, the debenture redemption reserve is debited and debentures are credited.",
+    "difficulty": "Medium",
+    "class": "Class 12",
+    "subject": "Accountancy",
+    "chapter": "Ch 7: Issue and Redemption of Debentures"
+  },
+  {
+    "text": "What is the difference between a secured debenture and an unsecured debenture?",
+    "options": [
+      "Secured debenture is backed by collateral, while unsecured debenture is not backed by collateral",
+      "Secured debenture is not backed by collateral, while unsecured debenture is backed by collateral",
+      "Secured debenture is issued at a premium, while unsecured debenture is issued at a discount",
+      "Secured debenture is issued at a discount, while unsecured debenture is issued at a premium"
+    ],
+    "correctAnswer": "Secured debenture is backed by collateral, while unsecured debenture is not backed by collateral",
+    "explanation": "According to NCERT, a secured debenture is backed by collateral, while an unsecured debenture is not backed by collateral.",
+    "difficulty": "Hard",
+    "class": "Class 12",
+    "subject": "Accountancy",
+    "chapter": "Ch 7: Issue and Redemption of Debentures"
+  },
+  {
+    "text": "What is the accounting treatment for issue of debentures at a premium?",
+    "options": [
+      "Debit Premium on Issue of Debentures, Credit Cash",
+      "Debit Cash, Credit Premium on Issue of Debentures",
+      "Debit Premium on Issue of Debentures, Credit Debentures",
+      "Debit Debentures, Credit Premium on Issue of Debentures"
+    ],
+    "correctAnswer": "Debit Premium on Issue of Debentures, Credit Cash",
+    "explanation": "According to NCERT, when a company issues debentures at a premium, the premium is debited and cash is credited.",
+    "difficulty": "Medium",
+    "class": "Class 12",
+    "subject": "Accountancy",
+    "chapter": "Ch 7: Issue and Redemption of Debentures"
+  },
+  {
+    "text": "What is the difference between a fixed rate debenture and a floating rate debenture?",
+    "options": [
+      "Fixed rate debenture has a fixed rate of interest, while floating rate debenture has a floating rate of interest",
+      "Fixed rate debenture has a floating rate of interest, while floating rate debenture has a fixed rate of interest",
+      "Fixed rate debenture is issued at a premium, while floating rate debenture is issued at a discount",
+      "Fixed rate debenture is issued at a discount, while floating rate debenture is issued at a premium"
+    ],
+    "correctAnswer": "Fixed rate debenture has a fixed rate of interest, while floating rate debenture has a floating rate of interest",
+    "explanation": "According to NCERT, a fixed rate debenture has a fixed rate of interest, while a floating rate debenture has a floating rate of interest.",
+    "difficulty": "Hard",
+    "class": "Class 12",
+    "subject": "Accountancy",
+    "chapter": "Ch 7: Issue and Redemption of Debentures"
+  },
+  {
+    "text": "What is the accounting treatment for redemption of debentures at a premium?",
+    "options": [
+      "Debit Debenture Redemption Reserve, Credit Debentures",
+      "Debit Debentures, Credit Debenture Redemption Reserve",
+      "Debit Cash, Credit Debentures",
+      "Debit Debentures, Credit Cash"
+    ],
+    "correctAnswer": "Debit Debenture Redemption Reserve, Credit Debentures",
+    "explanation": "According to NCERT, when a company redeems debentures at a premium, the debenture redemption reserve is debited and debentures are credited.",
+    "difficulty": "Medium",
+    "class": "Class 12",
+    "subject": "Accountancy",
+    "chapter": "Ch 7: Issue and Redemption of Debentures"
+  }
+]

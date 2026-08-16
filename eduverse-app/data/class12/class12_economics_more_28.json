@@ -1,0 +1,227 @@
+[
+  {
+    "text": "What is the main difference between Foreign Direct Investment (FDI) and Foreign Institutional Investment (FII) in the context of the Capital Account?",
+    "options": [
+      "FDI is a long-term investment, while FII is a short-term investment",
+      "FDI is a short-term investment, while FII is a long-term investment",
+      "FDI is an investment in the primary market, while FII is an investment in the secondary market",
+      "FDI is an investment in the secondary market, while FII is an investment in the primary market"
+    ],
+    "correctAnswer": "FDI is a long-term investment, while FII is a short-term investment",
+    "explanation": "According to the NCERT textbook, FDI is a long-term investment, as it involves the establishment of a business or the acquisition of a controlling stake in an existing business, whereas FII is a short-term investment, as it involves the purchase of securities such as stocks and bonds.",
+    "difficulty": "Medium",
+    "class": "Class 12",
+    "subject": "Economics",
+    "chapter": "Ch 5: Balance of Payments and Foreign Exchange"
+  },
+  {
+    "text": "If a country has a BoP surplus, what does it imply?",
+    "options": [
+      "The country has a trade deficit",
+      "The country has a trade surplus",
+      "The country has a surplus in the capital account",
+      "The country has a deficit in the capital account"
+    ],
+    "correctAnswer": "The country has a trade surplus",
+    "explanation": "As per the NCERT textbook, a BoP surplus implies that the country has a trade surplus, meaning that the value of its exports is greater than the value of its imports.",
+    "difficulty": "Easy",
+    "class": "Class 12",
+    "subject": "Economics",
+    "chapter": "Ch 5: Balance of Payments and Foreign Exchange"
+  },
+  {
+    "text": "What is the difference between a clean float and a dirty float in the context of exchange rate determination?",
+    "options": [
+      "A clean float is a managed float, while a dirty float is a free float",
+      "A clean float is a free float, while a dirty float is a managed float",
+      "A clean float is a fixed exchange rate, while a dirty float is a flexible exchange rate",
+      "A clean float is a flexible exchange rate, while a dirty float is a fixed exchange rate"
+    ],
+    "correctAnswer": "A clean float is a free float, while a dirty float is a managed float",
+    "explanation": "According to the NCERT textbook, a clean float refers to a free float, where the exchange rate is determined by the market forces of supply and demand, while a dirty float refers to a managed float, where the government or central bank intervenes in the foreign exchange market to influence the exchange rate.",
+    "difficulty": "Hard",
+    "class": "Class 12",
+    "subject": "Economics",
+    "chapter": "Ch 5: Balance of Payments and Foreign Exchange"
+  },
+  {
+    "text": "Suppose a country has a trade deficit of $100 million and a surplus in the capital account of $150 million. What is the overall balance of payments?",
+    "options": [
+      "$50 million surplus",
+      "$50 million deficit",
+      "$100 million surplus",
+      "$100 million deficit"
+    ],
+    "correctAnswer": "$50 million surplus",
+    "explanation": "Using the formula $BoP = $Trade Balance + $Capital Account Balance, we get $BoP = -$100 million + $150 million = $50 million surplus. As per the NCERT textbook, the overall balance of payments is the sum of the trade balance and the capital account balance.",
+    "difficulty": "Medium",
+    "class": "Class 12",
+    "subject": "Economics",
+    "chapter": "Ch 5: Balance of Payments and Foreign Exchange"
+  },
+  {
+    "text": "What is the effect of an increase in foreign exchange reserves on the money supply in an economy?",
+    "options": [
+      "It increases the money supply",
+      "It decreases the money supply",
+      "It has no effect on the money supply",
+      "It depends on the monetary policy of the central bank"
+    ],
+    "correctAnswer": "It increases the money supply",
+    "explanation": "According to the NCERT textbook, an increase in foreign exchange reserves leads to an increase in the money supply, as the central bank can use these reserves to purchase government securities, thereby increasing the liquidity in the economy.",
+    "difficulty": "Medium",
+    "class": "Class 12",
+    "subject": "Economics",
+    "chapter": "Ch 5: Balance of Payments and Foreign Exchange"
+  },
+  {
+    "text": "If the exchange rate is $1 = Rs. 70, and the price of a good in the US is $10, what is the price of the good in India?",
+    "options": [
+      "Rs. 700",
+      "Rs. 70",
+      "Rs. 100",
+      "Rs. 10"
+    ],
+    "correctAnswer": "Rs. 700",
+    "explanation": "Using the formula $Price_{India} = $Price_{US} \times Exchange Rate, we get $Price_{India} = $10 \times 70 = Rs. 700. As per the NCERT textbook, the exchange rate is used to convert the price of a good from one currency to another.",
+    "difficulty": "Easy",
+    "class": "Class 12",
+    "subject": "Economics",
+    "chapter": "Ch 5: Balance of Payments and Foreign Exchange"
+  },
+  {
+    "text": "What is the relationship between the balance of trade and the balance of payments?",
+    "options": [
+      "The balance of trade is a component of the balance of payments",
+      "The balance of payments is a component of the balance of trade",
+      "The balance of trade and the balance of payments are unrelated",
+      "The balance of trade is equal to the balance of payments"
+    ],
+    "correctAnswer": "The balance of trade is a component of the balance of payments",
+    "explanation": "According to the NCERT textbook, the balance of trade is a component of the balance of payments, as it includes the trade balance, which is the difference between the value of exports and imports.",
+    "difficulty": "Easy",
+    "class": "Class 12",
+    "subject": "Economics",
+    "chapter": "Ch 5: Balance of Payments and Foreign Exchange"
+  },
+  {
+    "text": "Suppose a country has a trade surplus of $200 million and a deficit in the capital account of $100 million. What is the overall balance of payments?",
+    "options": [
+      "$100 million surplus",
+      "$100 million deficit",
+      "$200 million surplus",
+      "$200 million deficit"
+    ],
+    "correctAnswer": "$100 million surplus",
+    "explanation": "Using the formula $BoP = $Trade Balance + $Capital Account Balance, we get $BoP = $200 million - $100 million = $100 million surplus. As per the NCERT textbook, the overall balance of payments is the sum of the trade balance and the capital account balance.",
+    "difficulty": "Medium",
+    "class": "Class 12",
+    "subject": "Economics",
+    "chapter": "Ch 5: Balance of Payments and Foreign Exchange"
+  },
+  {
+    "text": "What is the effect of a devaluation of the currency on the trade balance?",
+    "options": [
+      "It improves the trade balance",
+      "It worsens the trade balance",
+      "It has no effect on the trade balance",
+      "It depends on the elasticity of demand"
+    ],
+    "correctAnswer": "It improves the trade balance",
+    "explanation": "According to the NCERT textbook, a devaluation of the currency makes exports cheaper and imports more expensive, thereby improving the trade balance.",
+    "difficulty": "Medium",
+    "class": "Class 12",
+    "subject": "Economics",
+    "chapter": "Ch 5: Balance of Payments and Foreign Exchange"
+  },
+  {
+    "text": "If the exchange rate is $1 = Rs. 75, and the price of a good in India is Rs. 600, what is the price of the good in the US?",
+    "options": [
+      "$8",
+      "$10",
+      "$12",
+      "$15"
+    ],
+    "correctAnswer": "$8",
+    "explanation": "Using the formula $Price_{US} = $Price_{India} / Exchange Rate, we get $Price_{US} = Rs. 600 / 75 = $8. As per the NCERT textbook, the exchange rate is used to convert the price of a good from one currency to another.",
+    "difficulty": "Easy",
+    "class": "Class 12",
+    "subject": "Economics",
+    "chapter": "Ch 5: Balance of Payments and Foreign Exchange"
+  },
+  {
+    "text": "What is the difference between a spot exchange rate and a forward exchange rate?",
+    "options": [
+      "A spot exchange rate is the current exchange rate, while a forward exchange rate is the expected future exchange rate",
+      "A spot exchange rate is the expected future exchange rate, while a forward exchange rate is the current exchange rate",
+      "A spot exchange rate is the exchange rate for a specific date, while a forward exchange rate is the exchange rate for a range of dates",
+      "A spot exchange rate is the exchange rate for a range of dates, while a forward exchange rate is the exchange rate for a specific date"
+    ],
+    "correctAnswer": "A spot exchange rate is the current exchange rate, while a forward exchange rate is the expected future exchange rate",
+    "explanation": "According to the NCERT textbook, a spot exchange rate is the current exchange rate, while a forward exchange rate is the expected future exchange rate, which is used for hedging purposes.",
+    "difficulty": "Medium",
+    "class": "Class 12",
+    "subject": "Economics",
+    "chapter": "Ch 5: Balance of Payments and Foreign Exchange"
+  },
+  {
+    "text": "Suppose a country has a trade deficit of $500 million and a surplus in the capital account of $300 million. What is the overall balance of payments?",
+    "options": [
+      "$200 million deficit",
+      "$200 million surplus",
+      "$500 million deficit",
+      "$300 million surplus"
+    ],
+    "correctAnswer": "$200 million deficit",
+    "explanation": "Using the formula $BoP = $Trade Balance + $Capital Account Balance, we get $BoP = -$500 million + $300 million = -$200 million. As per the NCERT textbook, the overall balance of payments is the sum of the trade balance and the capital account balance.",
+    "difficulty": "Medium",
+    "class": "Class 12",
+    "subject": "Economics",
+    "chapter": "Ch 5: Balance of Payments and Foreign Exchange"
+  },
+  {
+    "text": "What is the effect of an increase in foreign investment on the balance of payments?",
+    "options": [
+      "It improves the balance of payments",
+      "It worsens the balance of payments",
+      "It has no effect on the balance of payments",
+      "It depends on the type of foreign investment"
+    ],
+    "correctAnswer": "It improves the balance of payments",
+    "explanation": "According to the NCERT textbook, an increase in foreign investment leads to an increase in the capital account balance, which in turn improves the overall balance of payments.",
+    "difficulty": "Medium",
+    "class": "Class 12",
+    "subject": "Economics",
+    "chapter": "Ch 5: Balance of Payments and Foreign Exchange"
+  },
+  {
+    "text": "If the exchange rate is $1 = Rs. 80, and the price of a good in the US is $12, what is the price of the good in India?",
+    "options": [
+      "Rs. 960",
+      "Rs. 800",
+      "Rs. 1000",
+      "Rs. 1200"
+    ],
+    "correctAnswer": "Rs. 960",
+    "explanation": "Using the formula $Price_{India} = $Price_{US} \times Exchange Rate, we get $Price_{India} = $12 \times 80 = Rs. 960. As per the NCERT textbook, the exchange rate is used to convert the price of a good from one currency to another.",
+    "difficulty": "Easy",
+    "class": "Class 12",
+    "subject": "Economics",
+    "chapter": "Ch 5: Balance of Payments and Foreign Exchange"
+  },
+  {
+    "text": "What is the relationship between the balance of payments and the foreign exchange reserves?",
+    "options": [
+      "An increase in the balance of payments leads to an increase in the foreign exchange reserves",
+      "A decrease in the balance of payments leads to an increase in the foreign exchange reserves",
+      "An increase in the balance of payments leads to a decrease in the foreign exchange reserves",
+      "A decrease in the balance of payments leads to a decrease in the foreign exchange reserves"
+    ],
+    "correctAnswer": "An increase in the balance of payments leads to an increase in the foreign exchange reserves",
+    "explanation": "According to the NCERT textbook, an increase in the balance of payments leads to an increase in the foreign exchange reserves, as the country receives more foreign exchange than it pays out.",
+    "difficulty": "Easy",
+    "class": "Class 12",
+    "subject": "Economics",
+    "chapter": "Ch 5: Balance of Payments and Foreign Exchange"
+  }
+]

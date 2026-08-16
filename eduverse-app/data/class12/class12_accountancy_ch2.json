@@ -1,0 +1,167 @@
+[
+  {
+    "text": "What is the primary purpose of a partnership deed?",
+    "options": [
+      "To specify the duration of the partnership",
+      "To outline the profit-sharing ratio",
+      "To define the roles and responsibilities of partners",
+      "To determine the capital contribution of partners"
+    ],
+    "correctAnswer": "To outline the profit-sharing ratio",
+    "explanation": "A partnership deed is a legal agreement that outlines the terms and conditions of a partnership. It specifies the profit-sharing ratio among partners, which is essential for determining their individual shares of profits and losses.",
+    "difficulty": "Easy",
+    "class": "Class 12",
+    "subject": "Accountancy",
+    "chapter": "Ch 2: Accounting for Partnership: Basic Concepts"
+  },
+  {
+    "text": "What is the accounting treatment for interest on drawings?",
+    "options": [
+      "Debit drawings account and credit interest on drawings account",
+      "Debit interest on drawings account and credit drawings account",
+      "Debit interest on drawings account and credit capital account",
+      "Debit drawings account and credit capital account"
+    ],
+    "correctAnswer": "Debit interest on drawings account and credit drawings account",
+    "explanation": "When a partner withdraws cash or goods from the business, it is treated as drawings. The interest on drawings is calculated using the average period method and is debited to the interest on drawings account and credited to the drawings account.",
+    "difficulty": "Medium",
+    "class": "Class 12",
+    "subject": "Accountancy",
+    "chapter": "Ch 2: Accounting for Partnership: Basic Concepts"
+  },
+  {
+    "text": "What is the formula for calculating interest on capital?",
+    "options": [
+      "$I = \frac{C \times R \times T}{100}$",
+      "$I = \frac{C \times R \times T}{12}$",
+      "$I = \frac{C \times R \times T}{100 \times 12}$",
+      "$I = \frac{C \times R \times T}{12 \times 100}$"
+    ],
+    "correctAnswer": "$I = \frac{C \times R \times T}{100}$",
+    "explanation": "The formula for calculating interest on capital is $I = \frac{C \times R \times T}{100}$, where C is the capital, R is the rate of interest, and T is the time period.",
+    "difficulty": "Easy",
+    "class": "Class 12",
+    "subject": "Accountancy",
+    "chapter": "Ch 2: Accounting for Partnership: Basic Concepts"
+  },
+  {
+    "text": "What is the purpose of a past adjustment?",
+    "options": [
+      "To adjust the capital accounts of partners",
+      "To adjust the drawings accounts of partners",
+      "To adjust the profit and loss appropriation account",
+      "To adjust the balance sheet"
+    ],
+    "correctAnswer": "To adjust the profit and loss appropriation account",
+    "explanation": "A past adjustment is made to the profit and loss appropriation account to account for any differences in the profit-sharing ratio or capital accounts of partners.",
+    "difficulty": "Medium",
+    "class": "Class 12",
+    "subject": "Accountancy",
+    "chapter": "Ch 2: Accounting for Partnership: Basic Concepts"
+  },
+  {
+    "text": "What is the accounting treatment for guarantee of profit?",
+    "options": [
+      "Debit guarantee of profit account and credit profit and loss appropriation account",
+      "Debit profit and loss appropriation account and credit guarantee of profit account",
+      "Debit capital account and credit guarantee of profit account",
+      "Debit guarantee of profit account and credit capital account"
+    ],
+    "correctAnswer": "Debit guarantee of profit account and credit profit and loss appropriation account",
+    "explanation": "When a partner guarantees a minimum profit, the guarantee of profit account is debited and the profit and loss appropriation account is credited.",
+    "difficulty": "Hard",
+    "class": "Class 12",
+    "subject": "Accountancy",
+    "chapter": "Ch 2: Accounting for Partnership: Basic Concepts"
+  },
+  {
+    "text": "What is the formula for calculating ROI?",
+    "options": [
+      "$\\text{ROI} = \\frac{\\text{EBIT}}{\\text{Capital Employed}} \\times 100$",
+      "$\\text{ROI} = \\frac{\\text{EBIT}}{\\text{Total Assets}} \\times 100$",
+      "$\\text{ROI} = \\frac{\\text{EBIT}}{\\text{Total Revenue}} \\times 100$",
+      "$\\text{ROI} = \\frac{\\text{EBIT}}{\\text{Total Expenses}} \\times 100$"
+    ],
+    "correctAnswer": "$\\text{ROI} = \\frac{\\text{EBIT}}{\\text{Capital Employed}} \\times 100$",
+    "explanation": "The formula for calculating ROI is $\text{ROI} = \frac{\text{EBIT}}{\text{Capital Employed}} \times 100$, where EBIT is the earnings before interest and taxes and Capital Employed is the total capital invested in the business.",
+    "difficulty": "Easy",
+    "class": "Class 12",
+    "subject": "Accountancy",
+    "chapter": "Ch 2: Accounting for Partnership: Basic Concepts"
+  },
+  {
+    "text": "What is the accounting treatment for interest on capital?",
+    "options": [
+      "Debit interest on capital account and credit capital account",
+      "Debit capital account and credit interest on capital account",
+      "Debit interest on capital account and credit profit and loss appropriation account",
+      "Debit profit and loss appropriation account and credit interest on capital account"
+    ],
+    "correctAnswer": "Debit interest on capital account and credit capital account",
+    "explanation": "When interest on capital is calculated, the interest on capital account is debited and the capital account is credited.",
+    "difficulty": "Medium",
+    "class": "Class 12",
+    "subject": "Accountancy",
+    "chapter": "Ch 2: Accounting for Partnership: Basic Concepts"
+  },
+  {
+    "text": "What is the formula for calculating interest on drawings?",
+    "options": [
+      "$I = \frac{D \times R \times T}{100}$",
+      "$I = \frac{D \times R \times T}{12}$",
+      "$I = \frac{D \times R \times T}{100 \times 12}$",
+      "$I = \frac{D \times R \times T}{12 \times 100}$"
+    ],
+    "correctAnswer": "$I = \frac{D \times R \times T}{12}$",
+    "explanation": "The formula for calculating interest on drawings is $I = \frac{D \times R \times T}{12}$, where D is the drawings, R is the rate of interest, and T is the time period.",
+    "difficulty": "Easy",
+    "class": "Class 12",
+    "subject": "Accountancy",
+    "chapter": "Ch 2: Accounting for Partnership: Basic Concepts"
+  },
+  {
+    "text": "What is the accounting treatment for profit and loss appropriation?",
+    "options": [
+      "Debit profit and loss appropriation account and credit capital account",
+      "Debit capital account and credit profit and loss appropriation account",
+      "Debit profit and loss appropriation account and credit drawings account",
+      "Debit drawings account and credit profit and loss appropriation account"
+    ],
+    "correctAnswer": "Debit profit and loss appropriation account and credit capital account",
+    "explanation": "When profits are distributed among partners, the profit and loss appropriation account is debited and the capital account is credited.",
+    "difficulty": "Medium",
+    "class": "Class 12",
+    "subject": "Accountancy",
+    "chapter": "Ch 2: Accounting for Partnership: Basic Concepts"
+  },
+  {
+    "text": "What is the formula for calculating average period?",
+    "options": [
+      "$A = \frac{D + D_1}{2}$",
+      "$A = \frac{D - D_1}{2}$",
+      "$A = \frac{D + D_1 + D_2}{3}$",
+      "$A = \frac{D - D_1 - D_2}{3}$"
+    ],
+    "correctAnswer": "$A = \frac{D + D_1}{2}$",
+    "explanation": "The formula for calculating average period is $A = \frac{D + D_1}{2}$, where D is the drawings in the current year and D1 is the drawings in the previous year.",
+    "difficulty": "Easy",
+    "class": "Class 12",
+    "subject": "Accountancy",
+    "chapter": "Ch 2: Accounting for Partnership: Basic Concepts"
+  },
+  {
+    "text": "What is the accounting treatment for guarantee of profit?",
+    "options": [
+      "Debit guarantee of profit account and credit profit and loss appropriation account",
+      "Debit profit and loss appropriation account and credit guarantee of profit account",
+      "Debit capital account and credit guarantee of profit account",
+      "Debit guarantee of profit account and credit capital account"
+    ],
+    "correctAnswer": "Debit guarantee of profit account and credit profit and loss appropriation account",
+    "explanation": "When a partner guarantees a minimum profit, the guarantee of profit account is debited and the profit and loss appropriation account is credited.",
+    "difficulty": "Hard",
+    "class": "Class 12",
+    "subject": "Accountancy",
+    "chapter": "Ch 2: Accounting for Partnership: Basic Concepts"
+  }
+]

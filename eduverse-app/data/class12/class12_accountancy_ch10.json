@@ -1,0 +1,182 @@
+[
+  {
+    "text": "What is the formula for Current Ratio?",
+    "options": [
+      "Current Assets / Current Liabilities",
+      "Total Assets / Total Liabilities",
+      "Current Assets / Total Assets",
+      "Current Liabilities / Total Assets"
+    ],
+    "correctAnswer": "Current Assets / Current Liabilities",
+    "explanation": "Current Ratio is a liquidity ratio that is calculated by dividing current assets by current liabilities. It is an indicator of a company's ability to pay its short-term debts. The formula for Current Ratio is: Current Assets / Current Liabilities.",
+    "difficulty": "Easy",
+    "class": "Class 12",
+    "subject": "Accountancy",
+    "chapter": "Ch 10: Accounting Ratios"
+  },
+  {
+    "text": "What is the formula for Quick Ratio?",
+    "options": [
+      "Current Assets / Current Liabilities",
+      "(Current Assets - Inventory) / Current Liabilities",
+      "Current Assets / Total Assets",
+      "(Current Assets - Inventory) / Total Assets"
+    ],
+    "correctAnswer": "(Current Assets - Inventory) / Current Liabilities",
+    "explanation": "Quick Ratio is a liquidity ratio that is calculated by dividing (current assets - inventory) by current liabilities. It is an indicator of a company's ability to pay its short-term debts without selling its inventory. The formula for Quick Ratio is: (Current Assets - Inventory) / Current Liabilities.",
+    "difficulty": "Easy",
+    "class": "Class 12",
+    "subject": "Accountancy",
+    "chapter": "Ch 10: Accounting Ratios"
+  },
+  {
+    "text": "What is the formula for Debt-Equity Ratio?",
+    "options": [
+      "Total Debt / Total Equity",
+      "Total Assets / Total Debt",
+      "Total Debt / Total Assets",
+      "Total Equity / Total Assets"
+    ],
+    "correctAnswer": "Total Debt / Total Equity",
+    "explanation": "Debt-Equity Ratio is a solvency ratio that is calculated by dividing total debt by total equity. It is an indicator of a company's financial leverage. The formula for Debt-Equity Ratio is: Total Debt / Total Equity.",
+    "difficulty": "Easy",
+    "class": "Class 12",
+    "subject": "Accountancy",
+    "chapter": "Ch 10: Accounting Ratios"
+  },
+  {
+    "text": "What is the formula for Total Assets to Debt Ratio?",
+    "options": [
+      "Total Assets / Total Debt",
+      "Total Debt / Total Assets",
+      "Total Assets / Total Equity",
+      "Total Equity / Total Assets"
+    ],
+    "correctAnswer": "Total Assets / Total Debt",
+    "explanation": "Total Assets to Debt Ratio is a solvency ratio that is calculated by dividing total assets by total debt. It is an indicator of a company's ability to pay its debts. The formula for Total Assets to Debt Ratio is: Total Assets / Total Debt.",
+    "difficulty": "Easy",
+    "class": "Class 12",
+    "subject": "Accountancy",
+    "chapter": "Ch 10: Accounting Ratios"
+  },
+  {
+    "text": "What is the formula for Inventory Turnover?",
+    "options": [
+      "Cost of Goods Sold / Average Inventory",
+      "Average Inventory / Cost of Goods Sold",
+      "Average Inventory / Total Assets",
+      "Total Assets / Average Inventory"
+    ],
+    "correctAnswer": "Cost of Goods Sold / Average Inventory",
+    "explanation": "Inventory Turnover is an activity ratio that is calculated by dividing cost of goods sold by average inventory. It is an indicator of a company's ability to sell its inventory. The formula for Inventory Turnover is: Cost of Goods Sold / Average Inventory.",
+    "difficulty": "Easy",
+    "class": "Class 12",
+    "subject": "Accountancy",
+    "chapter": "Ch 10: Accounting Ratios"
+  },
+  {
+    "text": "What is the formula for Trade Receivables Turnover?",
+    "options": [
+      "Trade Receivables / Average Trade Receivables",
+      "Average Trade Receivables / Trade Receivables",
+      "Trade Receivables / Cost of Goods Sold",
+      "Cost of Goods Sold / Trade Receivables"
+    ],
+    "correctAnswer": "Trade Receivables / Average Trade Receivables",
+    "explanation": "Trade Receivables Turnover is an activity ratio that is calculated by dividing trade receivables by average trade receivables. It is an indicator of a company's ability to collect its trade receivables. The formula for Trade Receivables Turnover is: Trade Receivables / Average Trade Receivables.",
+    "difficulty": "Easy",
+    "class": "Class 12",
+    "subject": "Accountancy",
+    "chapter": "Ch 10: Accounting Ratios"
+  },
+  {
+    "text": "What is the formula for Gross Profit Ratio?",
+    "options": [
+      "Gross Profit / Sales",
+      "Sales / Gross Profit",
+      "Gross Profit / Cost of Goods Sold",
+      "Cost of Goods Sold / Gross Profit"
+    ],
+    "correctAnswer": "Gross Profit / Sales",
+    "explanation": "Gross Profit Ratio is a profitability ratio that is calculated by dividing gross profit by sales. It is an indicator of a company's ability to maintain its profit margins. The formula for Gross Profit Ratio is: Gross Profit / Sales.",
+    "difficulty": "Easy",
+    "class": "Class 12",
+    "subject": "Accountancy",
+    "chapter": "Ch 10: Accounting Ratios"
+  },
+  {
+    "text": "What is the formula for Operating Profit Ratio?",
+    "options": [
+      "Operating Profit / Sales",
+      "Sales / Operating Profit",
+      "Operating Profit / Cost of Goods Sold",
+      "Cost of Goods Sold / Operating Profit"
+    ],
+    "correctAnswer": "Operating Profit / Sales",
+    "explanation": "Operating Profit Ratio is a profitability ratio that is calculated by dividing operating profit by sales. It is an indicator of a company's ability to maintain its profit margins after deducting operating expenses. The formula for Operating Profit Ratio is: Operating Profit / Sales.",
+    "difficulty": "Easy",
+    "class": "Class 12",
+    "subject": "Accountancy",
+    "chapter": "Ch 10: Accounting Ratios"
+  },
+  {
+    "text": "What is the formula for Net Profit Ratio?",
+    "options": [
+      "Net Profit / Sales",
+      "Sales / Net Profit",
+      "Net Profit / Cost of Goods Sold",
+      "Cost of Goods Sold / Net Profit"
+    ],
+    "correctAnswer": "Net Profit / Sales",
+    "explanation": "Net Profit Ratio is a profitability ratio that is calculated by dividing net profit by sales. It is an indicator of a company's ability to maintain its profit margins after deducting all expenses. The formula for Net Profit Ratio is: Net Profit / Sales.",
+    "difficulty": "Easy",
+    "class": "Class 12",
+    "subject": "Accountancy",
+    "chapter": "Ch 10: Accounting Ratios"
+  },
+  {
+    "text": "What is the formula for Return on Investment (ROI)?",
+    "options": [
+      "Net Profit / Total Assets",
+      "Total Assets / Net Profit",
+      "Net Profit / Capital Employed",
+      "Capital Employed / Net Profit"
+    ],
+    "correctAnswer": "Net Profit / Capital Employed",
+    "explanation": "Return on Investment (ROI) is a profitability ratio that is calculated by dividing net profit by capital employed. It is an indicator of a company's ability to generate profits from its investments. The formula for ROI is: Net Profit / Capital Employed.",
+    "difficulty": "Easy",
+    "class": "Class 12",
+    "subject": "Accountancy",
+    "chapter": "Ch 10: Accounting Ratios"
+  },
+  {
+    "text": "A company has a Current Ratio of 2:1. What does this indicate?",
+    "options": [
+      "The company has a high liquidity position.",
+      "The company has a low liquidity position.",
+      "The company has a moderate liquidity position.",
+      "The company has a very low liquidity position."
+    ],
+    "correctAnswer": "The company has a high liquidity position.",
+    "explanation": "A Current Ratio of 2:1 indicates that the company has a high liquidity position, as it has sufficient current assets to pay its current liabilities.",
+    "difficulty": "Medium",
+    "class": "Class 12",
+    "subject": "Accountancy",
+    "chapter": "Ch 10: Accounting Ratios"
+  },
+  {
+    "text": "A company has a Debt-Equity Ratio of 1:1. What does this indicate?",
+    "options": [
+      "The company has a high debt position.",
+      "The company has a low debt position.",
+      "The company has a moderate debt position.",
+      "The company has a very low debt position."
+    ],
+    "correctAnswer": "The company has a moderate debt position.",
+    "explanation": "A Debt-Equity Ratio of 1:1 indicates that the company has a moderate debt position, as it has equal amounts of debt and equity.",
+    "difficulty": "Medium",
+    "class": "Class 12",
+    "subject": "Accountancy",
+    "chapter": "Ch 10: Accounting Ratios"
+  }
+]

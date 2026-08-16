@@ -1,0 +1,182 @@
+[
+  {
+    "text": "What is the fundamental problem of an economy?",
+    "options": [
+      "What to produce?",
+      "How to produce?",
+      "For whom to produce?",
+      "All of the above"
+    ],
+    "correctAnswer": "All of the above",
+    "explanation": "An economy faces three fundamental problems: what to produce, how to produce, and for whom to produce. These problems are central to the functioning of an economy.",
+    "difficulty": "Easy",
+    "class": "Class 11",
+    "subject": "Economics",
+    "chapter": "Ch 1: Introduction to Microeconomics"
+  },
+  {
+    "text": "Which of the following is a characteristic of a scarcity?",
+    "options": [
+      "Abundance of resources",
+      "Insufficient resources",
+      "Perfectly elastic demand",
+      "Perfectly inelastic supply"
+    ],
+    "correctAnswer": "Insufficient resources",
+    "explanation": "Scarcity refers to the insufficiency of resources to meet the unlimited wants of individuals. It is a fundamental problem of an economy.",
+    "difficulty": "Easy",
+    "class": "Class 11",
+    "subject": "Economics",
+    "chapter": "Ch 1: Introduction to Microeconomics"
+  },
+  {
+    "text": "What is the opportunity cost of producing one more unit of a good?",
+    "options": [
+      "Marginal Benefit",
+      "Marginal Cost",
+      "Marginal Revenue",
+      "Marginal Opportunity Cost"
+    ],
+    "correctAnswer": "Marginal Opportunity Cost",
+    "explanation": "Opportunity cost refers to the next best alternative that is given up when a choice is made. Marginal opportunity cost is the opportunity cost of producing one more unit of a good.",
+    "difficulty": "Medium",
+    "class": "Class 11",
+    "subject": "Economics",
+    "chapter": "Ch 1: Introduction to Microeconomics"
+  },
+  {
+    "text": "What is the Production Possibility Curve (PPC)?",
+    "options": [
+      "A curve that shows the maximum possible output of two goods",
+      "A curve that shows the minimum possible output of two goods",
+      "A curve that shows the equilibrium price of two goods",
+      "A curve that shows the equilibrium quantity of two goods"
+    ],
+    "correctAnswer": "A curve that shows the maximum possible output of two goods",
+    "explanation": "The Production Possibility Curve (PPC) is a graphical representation of the maximum possible output of two goods that can be produced with the given resources and technology.",
+    "difficulty": "Medium",
+    "class": "Class 11",
+    "subject": "Economics",
+    "chapter": "Ch 1: Introduction to Microeconomics"
+  },
+  {
+    "text": "What is the relationship between the Marginal Opportunity Cost (MOC) and the Production Possibility Curve (PPC)?",
+    "options": [
+      "MOC is equal to the slope of the PPC",
+      "MOC is equal to the intercept of the PPC",
+      "MOC is equal to the distance between the PPC and the origin",
+      "MOC is equal to the distance between the PPC and the axes"
+    ],
+    "correctAnswer": "MOC is equal to the slope of the PPC",
+    "explanation": "The Marginal Opportunity Cost (MOC) is equal to the slope of the Production Possibility Curve (PPC). It represents the rate at which the opportunity cost of producing one more unit of a good increases.",
+    "difficulty": "Hard",
+    "class": "Class 11",
+    "subject": "Economics",
+    "chapter": "Ch 1: Introduction to Microeconomics"
+  },
+  {
+    "text": "What is the difference between Positive Economics and Normative Economics?",
+    "options": [
+      "Positive Economics deals with what is, while Normative Economics deals with what ought to be",
+      "Positive Economics deals with what ought to be, while Normative Economics deals with what is",
+      "Positive Economics deals with the causes of economic phenomena, while Normative Economics deals with the effects of economic phenomena",
+      "Positive Economics deals with the effects of economic phenomena, while Normative Economics deals with the causes of economic phenomena"
+    ],
+    "correctAnswer": "Positive Economics deals with what is, while Normative Economics deals with what ought to be",
+    "explanation": "Positive Economics deals with the description and analysis of economic phenomena, while Normative Economics deals with the evaluation and prescription of economic policies.",
+    "difficulty": "Hard",
+    "class": "Class 11",
+    "subject": "Economics",
+    "chapter": "Ch 1: Introduction to Microeconomics"
+  },
+  {
+    "text": "What is the concept of Opportunity Cost?",
+    "options": [
+      "The cost of producing a good or service",
+      "The benefit of producing a good or service",
+      "The next best alternative that is given up when a choice is made",
+      "The cost of not producing a good or service"
+    ],
+    "correctAnswer": "The next best alternative that is given up when a choice is made",
+    "explanation": "Opportunity cost refers to the next best alternative that is given up when a choice is made. It is the cost of choosing one option over another.",
+    "difficulty": "Easy",
+    "class": "Class 11",
+    "subject": "Economics",
+    "chapter": "Ch 1: Introduction to Microeconomics"
+  },
+  {
+    "text": "What is the Production Possibility Frontier (PPF)?",
+    "options": [
+      "A curve that shows the maximum possible output of two goods",
+      "A curve that shows the minimum possible output of two goods",
+      "A curve that shows the equilibrium price of two goods",
+      "A curve that shows the equilibrium quantity of two goods"
+    ],
+    "correctAnswer": "A curve that shows the maximum possible output of two goods",
+    "explanation": "The Production Possibility Frontier (PPF) is a graphical representation of the maximum possible output of two goods that can be produced with the given resources and technology.",
+    "difficulty": "Medium",
+    "class": "Class 11",
+    "subject": "Economics",
+    "chapter": "Ch 1: Introduction to Microeconomics"
+  },
+  {
+    "text": "What is the concept of Scarcity?",
+    "options": [
+      "The abundance of resources",
+      "The insufficiency of resources",
+      "The perfect elasticity of demand",
+      "The perfect inelasticity of supply"
+    ],
+    "correctAnswer": "The insufficiency of resources",
+    "explanation": "Scarcity refers to the insufficiency of resources to meet the unlimited wants of individuals. It is a fundamental problem of an economy.",
+    "difficulty": "Easy",
+    "class": "Class 11",
+    "subject": "Economics",
+    "chapter": "Ch 1: Introduction to Microeconomics"
+  },
+  {
+    "text": "What is the relationship between the Marginal Opportunity Cost (MOC) and the Marginal Benefit (MB)?",
+    "options": [
+      "MOC is equal to MB",
+      "MOC is greater than MB",
+      "MOC is less than MB",
+      "MOC is equal to the difference between MB and MC"
+    ],
+    "correctAnswer": "MOC is equal to the difference between MB and MC",
+    "explanation": "The Marginal Opportunity Cost (MOC) is equal to the difference between the Marginal Benefit (MB) and the Marginal Cost (MC). It represents the rate at which the opportunity cost of producing one more unit of a good increases.",
+    "difficulty": "Hard",
+    "class": "Class 11",
+    "subject": "Economics",
+    "chapter": "Ch 1: Introduction to Microeconomics"
+  },
+  {
+    "text": "What is the concept of Choice?",
+    "options": [
+      "The ability to choose between different options",
+      "The inability to choose between different options",
+      "The perfect elasticity of demand",
+      "The perfect inelasticity of supply"
+    ],
+    "correctAnswer": "The ability to choose between different options",
+    "explanation": "Choice refers to the ability to choose between different options. It is a fundamental concept in economics.",
+    "difficulty": "Easy",
+    "class": "Class 11",
+    "subject": "Economics",
+    "chapter": "Ch 1: Introduction to Microeconomics"
+  },
+  {
+    "text": "What is the Production Possibility Curve (PPC)?",
+    "options": [
+      "A curve that shows the maximum possible output of two goods",
+      "A curve that shows the minimum possible output of two goods",
+      "A curve that shows the equilibrium price of two goods",
+      "A curve that shows the equilibrium quantity of two goods"
+    ],
+    "correctAnswer": "A curve that shows the maximum possible output of two goods",
+    "explanation": "The Production Possibility Curve (PPC) is a graphical representation of the maximum possible output of two goods that can be produced with the given resources and technology.",
+    "difficulty": "Medium",
+    "class": "Class 11",
+    "subject": "Economics",
+    "chapter": "Ch 1: Introduction to Microeconomics"
+  }
+]

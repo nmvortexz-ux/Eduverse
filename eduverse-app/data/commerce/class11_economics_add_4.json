@@ -1,0 +1,197 @@
+[
+  {
+    "text": "What is the primary barrier to entry in a monopoly market?",
+    "options": [
+      "Economies of scale",
+      "Patents and copyrights",
+      "Government licenses",
+      "High startup costs"
+    ],
+    "correctAnswer": "High startup costs",
+    "explanation": "In a monopoly market, the primary barrier to entry is high startup costs. This makes it difficult for new firms to enter the market and compete with the existing monopolist.",
+    "difficulty": "Easy",
+    "class": "Class 11",
+    "subject": "Economics",
+    "chapter": "Ch 4: Forms of Market and Price Determination"
+  },
+  {
+    "text": "What is monopolistic differentiation?",
+    "options": [
+      "When a firm produces a product that is identical to its competitors",
+      "When a firm produces a product that is different from its competitors",
+      "When a firm produces a product that is inferior to its competitors",
+      "When a firm produces a product that is superior to its competitors"
+    ],
+    "correctAnswer": "When a firm produces a product that is different from its competitors",
+    "explanation": "Monopolistic differentiation occurs when a firm produces a product that is different from its competitors. This allows the firm to charge a higher price for its product.",
+    "difficulty": "Medium",
+    "class": "Class 11",
+    "subject": "Economics",
+    "chapter": "Ch 4: Forms of Market and Price Determination"
+  },
+  {
+    "text": "What is the effect of a price ceiling on a market?",
+    "options": [
+      "It increases the quantity supplied and decreases the quantity demanded",
+      "It decreases the quantity supplied and increases the quantity demanded",
+      "It has no effect on the market",
+      "It increases the quantity demanded and decreases the quantity supplied"
+    ],
+    "correctAnswer": "It decreases the quantity supplied and increases the quantity demanded",
+    "explanation": "A price ceiling is a legal maximum price that can be charged for a product. It decreases the quantity supplied and increases the quantity demanded, leading to a shortage.",
+    "difficulty": "Medium",
+    "class": "Class 11",
+    "subject": "Economics",
+    "chapter": "Ch 4: Forms of Market and Price Determination"
+  },
+  {
+    "text": "What is the effect of a price floor on a market?",
+    "options": [
+      "It increases the quantity supplied and decreases the quantity demanded",
+      "It decreases the quantity supplied and increases the quantity demanded",
+      "It has no effect on the market",
+      "It increases the quantity demanded and decreases the quantity supplied"
+    ],
+    "correctAnswer": "It increases the quantity supplied and decreases the quantity demanded",
+    "explanation": "A price floor is a legal minimum price that can be charged for a product. It increases the quantity supplied and decreases the quantity demanded, leading to a surplus.",
+    "difficulty": "Medium",
+    "class": "Class 11",
+    "subject": "Economics",
+    "chapter": "Ch 4: Forms of Market and Price Determination"
+  },
+  {
+    "text": "What is the effect of a price ceiling on the black market?",
+    "options": [
+      "It decreases the size of the black market",
+      "It increases the size of the black market",
+      "It has no effect on the black market",
+      "It increases the price of the product on the black market"
+    ],
+    "correctAnswer": "It increases the size of the black market",
+    "explanation": "A price ceiling can lead to a shortage, which can drive the price of the product up on the black market. This can increase the size of the black market.",
+    "difficulty": "Hard",
+    "class": "Class 11",
+    "subject": "Economics",
+    "chapter": "Ch 4: Forms of Market and Price Determination"
+  },
+  {
+    "text": "What is the effect of a price floor on farmers?",
+    "options": [
+      "It decreases the income of farmers",
+      "It increases the income of farmers",
+      "It has no effect on the income of farmers",
+      "It decreases the quantity supplied by farmers"
+    ],
+    "correctAnswer": "It increases the income of farmers",
+    "explanation": "A price floor can increase the income of farmers by ensuring that they receive a minimum price for their product.",
+    "difficulty": "Medium",
+    "class": "Class 11",
+    "subject": "Economics",
+    "chapter": "Ch 4: Forms of Market and Price Determination"
+  },
+  {
+    "text": "What is the effect of an increase in demand on the equilibrium price?",
+    "options": [
+      "It decreases the equilibrium price",
+      "It increases the equilibrium price",
+      "It has no effect on the equilibrium price",
+      "It decreases the quantity supplied"
+    ],
+    "correctAnswer": "It increases the equilibrium price",
+    "explanation": "An increase in demand shifts the demand curve to the right, leading to an increase in the equilibrium price.",
+    "difficulty": "Easy",
+    "class": "Class 11",
+    "subject": "Economics",
+    "chapter": "Ch 4: Forms of Market and Price Determination"
+  },
+  {
+    "text": "What is the effect of a decrease in supply on the equilibrium price?",
+    "options": [
+      "It decreases the equilibrium price",
+      "It increases the equilibrium price",
+      "It has no effect on the equilibrium price",
+      "It decreases the quantity demanded"
+    ],
+    "correctAnswer": "It increases the equilibrium price",
+    "explanation": "A decrease in supply shifts the supply curve to the left, leading to an increase in the equilibrium price.",
+    "difficulty": "Easy",
+    "class": "Class 11",
+    "subject": "Economics",
+    "chapter": "Ch 4: Forms of Market and Price Determination"
+  },
+  {
+    "text": "What is the effect of a price ceiling on the quantity supplied?",
+    "options": [
+      "It increases the quantity supplied",
+      "It decreases the quantity supplied",
+      "It has no effect on the quantity supplied",
+      "It increases the quantity demanded"
+    ],
+    "correctAnswer": "It decreases the quantity supplied",
+    "explanation": "A price ceiling can lead to a shortage, which can decrease the quantity supplied.",
+    "difficulty": "Medium",
+    "class": "Class 11",
+    "subject": "Economics",
+    "chapter": "Ch 4: Forms of Market and Price Determination"
+  },
+  {
+    "text": "What is the effect of a price floor on the quantity demanded?",
+    "options": [
+      "It increases the quantity demanded",
+      "It decreases the quantity demanded",
+      "It has no effect on the quantity demanded",
+      "It increases the quantity supplied"
+    ],
+    "correctAnswer": "It decreases the quantity demanded",
+    "explanation": "A price floor can lead to a surplus, which can decrease the quantity demanded.",
+    "difficulty": "Medium",
+    "class": "Class 11",
+    "subject": "Economics",
+    "chapter": "Ch 4: Forms of Market and Price Determination"
+  },
+  {
+    "text": "What is the effect of a decrease in demand on the equilibrium price?",
+    "options": [
+      "It decreases the equilibrium price",
+      "It increases the equilibrium price",
+      "It has no effect on the equilibrium price",
+      "It decreases the quantity supplied"
+    ],
+    "correctAnswer": "It decreases the equilibrium price",
+    "explanation": "A decrease in demand shifts the demand curve to the left, leading to a decrease in the equilibrium price.",
+    "difficulty": "Easy",
+    "class": "Class 11",
+    "subject": "Economics",
+    "chapter": "Ch 4: Forms of Market and Price Determination"
+  },
+  {
+    "text": "What is the effect of an increase in supply on the equilibrium price?",
+    "options": [
+      "It decreases the equilibrium price",
+      "It increases the equilibrium price",
+      "It has no effect on the equilibrium price",
+      "It decreases the quantity demanded"
+    ],
+    "correctAnswer": "It decreases the equilibrium price",
+    "explanation": "An increase in supply shifts the supply curve to the right, leading to a decrease in the equilibrium price.",
+    "difficulty": "Easy",
+    "class": "Class 11",
+    "subject": "Economics",
+    "chapter": "Ch 4: Forms of Market and Price Determination"
+  },
+  {
+    "text": "What is the effect of a price ceiling on the black market price?",
+    "options": [
+      "It decreases the black market price",
+      "It increases the black market price",
+      "It has no effect on the black market price",
+      "It increases the quantity supplied"
+    ],
+    "correctAnswer": "It increases the black market price",
+    "explanation": "A price ceiling can lead to a shortage, which can drive the price of the product up on the black market.",
+    "difficulty": "Hard",
+    "class": "Class 11",
+    "subject": "Economics",
+    "chapter": "Ch 4: Forms of Market and Price Determination"
+  }
+]

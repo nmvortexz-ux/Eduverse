@@ -1,0 +1,47 @@
+[
+  {
+    "text": "Which of the following leadership styles is characterized by a focus on the needs of lower-level employees, as per Maslow's Hierarchy of Needs?",
+    "options": [
+      "Autocratic Leadership",
+      "Democratic Leadership",
+      "Laissez-Faire Leadership",
+      "Servant Leadership"
+    ],
+    "correctAnswer": "Servant Leadership",
+    "explanation": "Servant leadership is a style of leadership that prioritizes the needs of team members, focusing on their growth and development, as per Maslow's Hierarchy of Needs. This style is characterized by a focus on the needs of lower-level employees, making it the correct answer.",
+    "difficulty": "Medium",
+    "class": "Class 12",
+    "subject": "Business Studies",
+    "chapter": "Ch 7: Directing"
+  },
+  {
+    "text": "Which of the following leadership styles is characterized by a focus on the needs of the organization, rather than the needs of individual team members?",
+    "options": [
+      "Autocratic Leadership",
+      "Democratic Leadership",
+      "Laissez-Faire Leadership",
+      "Transactional Leadership"
+    ],
+    "correctAnswer": "Transactional Leadership",
+    "explanation": "Transactional leadership is a style of leadership that focuses on the needs of the organization, rather than the needs of individual team members. This style is characterized by a focus on achieving organizational goals, making it the correct answer.",
+    "difficulty": "Hard",
+    "class": "Class 12",
+    "subject": "Business Studies",
+    "chapter": "Ch 7: Directing"
+  },
+  {
+    "text": "Which of the following leadership styles is characterized by a focus on the needs of the leader, rather than the needs of team members?",
+    "options": [
+      "Autocratic Leadership",
+      "Democratic Leadership",
+      "Laissez-Faire Leadership",
+      "Paternalistic Leadership"
+    ],
+    "correctAnswer": "Paternalistic Leadership",
+    "explanation": "Paternalistic leadership is a style of leadership that focuses on the needs of the leader, rather than the needs of team members. This style is characterized by a focus on the leader's own needs and goals, making it the correct answer.",
+    "difficulty": "Easy",
+    "class": "Class 12",
+    "subject": "Business Studies",
+    "chapter": "Ch 7: Directing"
+  }
+]

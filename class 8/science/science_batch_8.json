@@ -1,0 +1,327 @@
+[
+  {
+    "class": "Class 8",
+    "subject": "Science",
+    "difficulty": "Very Hard",
+    "text": "What are the respective physiological roles of the hormones Abscisic Acid (ABA) and Gibberellin (GA) in regulating seed dormancy and germination?",
+    "explanation": "Abscisic acid (ABA) promotes and maintains seed dormancy under unfavorable conditions. Gibberellin (GA) triggers germination by inducing the synthesis of hydrolytic enzymes like \\\\(\\alpha\\\\)-amylase that break down stored starch to feed the embryo.",
+    "options": [
+      { "text": "ABA induces cellular division in the embryo; GA inhibits root growth", "isCorrect": false },
+      { "text": "ABA maintains dormancy; GA promotes germination by inducing starch-degrading enzymes", "isCorrect": true },
+      { "text": "ABA triggers cell elongation; GA stops water absorption through the seed coat", "isCorrect": false },
+      { "text": "ABA converts starch to sugars; GA acts as a structural lipid inside the seed coat", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 8",
+    "subject": "Science",
+    "difficulty": "Very Hard",
+    "text": "How do Gram-positive and Gram-negative bacteria differ in their cell wall structure, and how does this affect their Gram stain behavior?",
+    "explanation": "Gram-positive bacteria have a thick peptidoglycan layer that traps crystal violet-iodine dye, staining purple. Gram-negative bacteria have a thin peptidoglycan layer and an outer lipopolysaccharide membrane that fails to retain the dye, staining pink after counterstaining.",
+    "options": [
+      { "text": "Gram-positive bacteria have a lipopolysaccharide outer wall; Gram-negative have only cellulose", "isCorrect": false },
+      { "text": "Gram-positive bacteria have a thick peptidoglycan layer (staining purple); Gram-negative have a thin layer and outer membrane (staining pink)", "isCorrect": true },
+      { "text": "Gram-positive bacteria lack cell walls completely; Gram-negative have chitin-based cell walls", "isCorrect": false },
+      { "text": "Gram-positive bacteria stain pink because they lack peptidoglycan; Gram-negative stain purple because they have a lipid layer", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 8",
+    "subject": "Science",
+    "difficulty": "Very Hard",
+    "text": "In population ecology, what distinguishes a J-shaped growth curve from an S-shaped growth curve, and what role does carrying capacity (\\\\(K\\\\)) play?",
+    "explanation": "A J-shaped curve represents exponential growth in unlimited resources. An S-shaped curve represents logistic growth, where environmental resistance slows growth as the population size approaches the carrying capacity (\\\\(K\\\\)), which is the maximum sustainable population size.",
+    "options": [
+      { "text": "J-shaped curves include carrying capacity; S-shaped curves represent infinite growth in a vacuum", "isCorrect": false },
+      { "text": "J-shaped represents exponential growth in unlimited resources; S-shaped represents logistic growth bounded by carrying capacity (\\\\(K\\\\))", "isCorrect": true },
+      { "text": "J-shaped represents plant populations only; S-shaped represents animal populations in a closed reserve", "isCorrect": false },
+      { "text": "Both curves grow infinitely but J-shaped is twice as fast as S-shaped", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 8",
+    "subject": "Science",
+    "difficulty": "Very Hard",
+    "text": "During early human pregnancy, what is the critical physiological role of the hormone Human Chorionic Gonadotropin (hCG) secreted by the developing blastocyst?",
+    "explanation": "hCG prevents the degeneration of the corpus luteum in the ovary. This ensures the continuous secretion of progesterone, which is essential for maintaining the endometrium (uterine lining) during pregnancy.",
+    "options": [
+      { "text": "It directly triggers the contraction of the uterus to facilitate birth", "isCorrect": false },
+      { "text": "It maintains the corpus luteum to ensure the continuous secretion of progesterone", "isCorrect": true },
+      { "text": "It stimulates the pituitary gland to release growth hormones for the fetus", "isCorrect": false },
+      { "text": "It induces the formation of red blood cells in the fetal liver", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 8",
+    "subject": "Science",
+    "difficulty": "Very Hard",
+    "text": "In the human stress response, how do the signaling pathways and response speeds of the adrenal medulla and the adrenal cortex differ?",
+    "explanation": "The adrenal medulla is stimulated directly by sympathetic nerves, releasing adrenaline instantaneously for acute stress. The adrenal cortex is stimulated hormonally by ACTH from the pituitary, releasing cortisol slowly for chronic stress.",
+    "options": [
+      { "text": "Adrenal medulla is stimulated hormonally; adrenal cortex is stimulated by direct physical pressure", "isCorrect": false },
+      { "text": "Adrenal medulla is stimulated by sympathetic nerves (fast adrenaline release); adrenal cortex is stimulated by ACTH (slow cortisol release)", "isCorrect": true },
+      { "text": "Adrenal medulla releases insulin slowly; adrenal cortex releases adrenaline instantly during flight", "isCorrect": false },
+      { "text": "There is no difference; both are nervous pathways that release thyroxine within milliseconds", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 8",
+    "subject": "Science",
+    "difficulty": "Very Hard",
+    "text": "How does the molecular stereochemistry of isotactic and atactic polypropylene polymers affect their crystallinity and mechanical properties?",
+    "explanation": "Isotactic polypropylene has all its methyl groups on the same side of the polymer chain, allowing chains to pack closely into highly crystalline, strong structures. Atactic polypropylene has randomly arranged methyl groups, resulting in an amorphous, soft material.",
+    "options": [
+      { "text": "Atactic polypropylene has all methyl groups on one side, making it highly crystalline and rigid", "isCorrect": false },
+      { "text": "Isotactic polypropylene has methyl groups on the same side (highly crystalline); atactic has randomly arranged groups (amorphous and soft)", "isCorrect": true },
+      { "text": "Isotactic polypropylene consists of cross-linked carbon rings that cannot melt on heating", "isCorrect": false },
+      { "text": "Both polymers have identical properties but isotactic contains traces of chlorine atoms", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 8",
+    "subject": "Science",
+    "difficulty": "Very Hard",
+    "text": "Catalytic reforming (isomerization and cyclization) is performed during petroleum refining. What is the chemical goal of this process?",
+    "explanation": "Catalytic reforming rearranges straight-chain alkanes into branched-chain and cyclic/aromatic hydrocarbons. This increases the octane rating of the fuel, reducing engine knocking.",
+    "options": [
+      { "text": "To break down long hydrocarbons into gas to increase fuel volume", "isCorrect": false },
+      { "text": "To convert straight-chain hydrocarbons into branched and cyclic structures to increase octane rating", "isCorrect": true },
+      { "text": "To remove all traces of sulphur by converting it into sulphuric acid", "isCorrect": false },
+      { "text": "To freeze the oil to prevent evaporation during high-temperature shipping", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 8",
+    "subject": "Science",
+    "difficulty": "Very Hard",
+    "text": "In flame tests, why do different metal salts produce characteristic colored flames when introduced into the non-luminous zone of a burner?",
+    "explanation": "Thermal energy excites electrons of metal ions to higher energy states. When these electrons return to their ground states, they emit electromagnetic radiation of specific, quantized wavelengths (colors) in the visible spectrum.",
+    "options": [
+      { "text": "Because the metal salts react with nitrogen in the air to produce colored nitrogen oxides", "isCorrect": false },
+      { "text": "Because excited electrons of metal ions release specific wavelengths of light upon returning to their ground states", "isCorrect": true },
+      { "text": "Because different metals absorb all colors of the flame except their own characteristic color", "isCorrect": false },
+      { "text": "Because the metals melt and burn at different temperatures, releasing different amounts of soot", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 8",
+    "subject": "Science",
+    "difficulty": "Very Hard",
+    "text": "How do chemical fire suppressants like Halon gas extinguish fires compared to water, in terms of the combustion process?",
+    "explanation": "Water cools the burning fuel below its ignition temperature. Halon gas chemically interrupts the combustion process by reacting with and scavenging the highly reactive free radicals (\\\\(\\\\text{H}\\\\cdot\\\\), \\\\(\\\\text{OH}\\\\cdot\\\\)) in the flame.",
+    "options": [
+      { "text": "Water increases chemical combustion; Halon gas cools the fuel through evaporation", "isCorrect": false },
+      { "text": "Water cools the fuel below its ignition point; Halon chemically interrupts the free radical chain reactions of the flame", "isCorrect": true },
+      { "text": "Water blocks oxygen; Halon gas removes the fuel source by dissolving it", "isCorrect": false },
+      { "text": "Both suppressants operate solely by lowering the local gravity around the fire", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 8",
+    "subject": "Science",
+    "difficulty": "Very Hard",
+    "text": "During the electrolysis of aqueous sodium sulphate (\\\\(\\\\text{Na}_2\\\\text{SO}_4\\\\)) solution using inert platinum electrodes, what products are formed at the anode and the cathode?",
+    "explanation": "Water is more easily reduced than sodium ions, and more easily oxidized than sulphate ions. Thus, water is electrolyzed, yielding hydrogen gas at the cathode and oxygen gas at the anode.",
+    "options": [
+      { "text": "Anode: Sodium metal; Cathode: Sulphur dioxide gas", "isCorrect": false },
+      { "text": "Anode: Oxygen gas; Cathode: Hydrogen gas", "isCorrect": true },
+      { "text": "Anode: Chlorine gas; Cathode: Sodium metal", "isCorrect": false },
+      { "text": "Anode: Hydrogen gas; Cathode: Oxygen gas", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 8",
+    "subject": "Science",
+    "difficulty": "Very Hard",
+    "text": "A mercury barometer is taken to the bottom of a deep mine shaft. How does the height of the mercury column change, and why?",
+    "explanation": "Atmospheric pressure increases as depth increases below sea level due to the taller column of air above. Thus, the increased atmospheric pressure pushes the mercury column higher in the tube.",
+    "options": [
+      { "text": "It decreases because gravity is weaker near the Earth's core", "isCorrect": false },
+      { "text": "It increases because the atmospheric pressure increases with depth", "isCorrect": true },
+      { "text": "It remains unchanged because mercury is an incompressible liquid", "isCorrect": false },
+      { "text": "It drops to zero due to the absence of wind in the mine shaft", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 8",
+    "subject": "Science",
+    "difficulty": "Very Hard",
+    "text": "What is the molecular cause of surface tension in liquids, and how does adding a surfactant (like soap) affect it?",
+    "explanation": "Surface tension is caused by cohesive forces (intermolecular attractions) acting on surface molecules towards the bulk liquid. Surfactants align at the air-water interface, disrupting the hydrogen bonds and lowering surface tension.",
+    "options": [
+      { "text": "Adhesive forces pull surface molecules outward; surfactants increase this pull", "isCorrect": false },
+      { "text": "Cohesive forces pull surface molecules inward; surfactants disrupt these attractions, lowering surface tension", "isCorrect": true },
+      { "text": "Atmospheric pressure pushes the surface down; surfactants act as a physical shield against air", "isCorrect": false },
+      { "text": "Gravity acting solely on the surface molecules; surfactants reduce the mass of the molecules", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 8",
+    "subject": "Science",
+    "difficulty": "Very Hard",
+    "text": "How do solid lubricants like graphite and molybdenum disulphide reduce friction in high-temperature or vacuum environments where liquid lubricants evaporate?",
+    "explanation": "These solids have layered crystal structures (like sheets). The atoms within a layer are covalently bonded and strong, but the forces between the layers are weak van der Waals forces, allowing them to slide over each other easily.",
+    "options": [
+      { "text": "They melt under friction to form a slippery liquid layer that never evaporates", "isCorrect": false },
+      { "text": "They have layered structures with weak van der Waals forces between layers, allowing them to slide easily", "isCorrect": true },
+      { "text": "They react chemically with the metal to dissolve any microscopic ridges", "isCorrect": false },
+      { "text": "They create a magnetic field that slightly levitates the moving parts", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 8",
+    "subject": "Science",
+    "difficulty": "Very Hard",
+    "text": "What is the physical mechanism behind rolling friction, and how does the elastic deformation of materials contribute to it?",
+    "explanation": "When an object rolls on a surface, both the object and the surface undergo temporary elastic deformation. This deformation creates a small indentation or ridge in front of the rolling object, resisting its forward motion.",
+    "options": [
+      { "text": "The rolling object slides microscopically at all points, creating sliding friction", "isCorrect": false },
+      { "text": "The elastic deformation of the rolling object and the surface creates a ridge in front of the object, resisting motion", "isCorrect": true },
+      { "text": "The air resistance trapped under the wheel pushes the wheel backward", "isCorrect": false },
+      { "text": "Electrostatic attraction between the wheel and the axle halts rotation", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 8",
+    "subject": "Science",
+    "difficulty": "Very Hard",
+    "text": "Two loudspeakers are placed \\\\(3 \\\\text{ m}\\\\) apart and emit sound waves of frequency \\\\(170 \\\\text{ Hz}\\\\) in phase. If the speed of sound is \\\\(340 \\\\text{ m/s}\\\\), what type of interference occurs at a point \\\\(4 \\\\text{ m}\\\\) directly in front of one speaker?",
+    "explanation": "Wavelength \\\\(\\lambda = v / f = 340 / 170 = 2 \\\\text{ m}\\\\). The path length from speaker 1 is \\\\(4 \\\\text{ m}\\\\). The path length from speaker 2 is \\\\(\\\\sqrt{3^2 + 4^2} = 5 \\\\text{ m}\\\\). Path difference = \\\\(5 - 4 = 1 \\\\text{ m}\\\\), which is \\\\(\\lambda/2\\\\) (half-wavelength). This results in destructive interference.",
+    "options": [
+      { "text": "Constructive interference, because the path difference is a multiple of the wavelength", "isCorrect": false },
+      { "text": "Destructive interference, because the path difference is an odd multiple of half-wavelengths", "isCorrect": true },
+      { "text": "No interference, because the sound waves are traveling in perpendicular directions", "isCorrect": false },
+      { "text": "Resonance, because the frequencies of both speakers are identical", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 8",
+    "subject": "Science",
+    "difficulty": "Very Hard",
+    "text": "A string of length \\\\(L\\\\) is fixed at both ends and vibrates in its second harmonic. Where are the nodes (points of zero amplitude) and antinodes (points of maximum amplitude) located along the string?",
+    "explanation": "The second harmonic (first overtone) has two loops, meaning wavelength \\\\(\\lambda = L\\\\). Nodes occur at the ends and the center: \\\\(x = 0, L/2, L\\\\). Antinodes occur at the centers of the loops: \\\\(x = L/4, 3L/4\\\\).",
+    "options": [
+      { "text": "Nodes: \\\\(L/4, 3L/4\\\\); Antinodes: \\\\(0, L/2, L\\\\)", "isCorrect": false },
+      { "text": "Nodes: \\\\(0, L/2, L\\\\); Antinodes: \\\\(L/4, 3L/4\\\\)", "isCorrect": true },
+      { "text": "Nodes: \\\\(0, L\\\\); Antinodes: \\\\(L/2\\\\)", "isCorrect": false },
+      { "text": "Nodes: \\\\(L/2\\\\); Antinodes: \\\\(0, L\\\\)", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 8",
+    "subject": "Science",
+    "difficulty": "Very Hard",
+    "text": "Why is there a P-wave seismic shadow zone between \\\\(103^\\\\circ\\\\) and \\\\(142^\\\\circ\\\\) from the epicentre of an earthquake?",
+    "explanation": "P-waves are refracted (bent) sharply downward at the boundary between the solid mantle and the liquid outer core due to the sudden drop in seismic wave velocity in the liquid core.",
+    "options": [
+      { "text": "Because P-waves are absorbed completely by the solid inner core", "isCorrect": false },
+      { "text": "Because P-waves are refracted as they pass from the solid mantle into the liquid outer core", "isCorrect": true },
+      { "text": "Because P-waves reflect off the crust and escape into outer space", "isCorrect": false },
+      { "text": "Because P-waves travel only through the oceans, creating a dry land shadow zone", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 8",
+    "subject": "Science",
+    "difficulty": "Very Hard",
+    "text": "A ray of light travels from a glass medium (refractive index \\\\(1.5\\\\)) towards water (refractive index \\\\(4/3\\\\)). What is the sine of the critical angle (\\\\(\\sin \\\\theta_c\\\\)) for total internal reflection?",
+    "explanation": "The critical angle is given by \\\\(\\sin \\\\theta_c = n_{\\\\text{rare}} / n_{\\\\text{dense}}\\\\). Here, \\\\(\\sin \\\\theta_c = (4/3) / 1.5 = (4/3) / (3/2) = 8/9\\\\).",
+    "options": [
+      { "text": "\\\\(1.125\\\\)", "isCorrect": false },
+      { "text": "\\\\(8/9\\\\)", "isCorrect": true },
+      { "text": "\\\\(9/8\\\\)", "isCorrect": false },
+      { "text": "\\\\(1/2\\\\)", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 8",
+    "subject": "Science",
+    "difficulty": "Very Hard",
+    "text": "A thin combined lens is made by placing a convex lens of focal length \\\\(20 \\\\text{ cm}\\\\) in contact with a concave lens of focal length \\\\(25 \\\\text{ cm}\\\\). What is the total power of the combined lens?",
+    "explanation": "Using \\\\(1/F = 1/f_1 + 1/f_2 = 1/20 - 1/25 = 1/100 \\\\text{ cm}^{-1}\\\\). The combined focal length is \\\\(+100 \\\\text{ cm} = +1 \\\\text{ m}\\\\. Power \\\\(P = 1/F(\\\\text{in meters}) = +1 \\\\text{ D}\\\\).",
+    "options": [
+      { "text": "\\\\(-1 \\\\text{ D}\\\\)", "isCorrect": false },
+      { "text": "\\\\(+1 \\\\text{ D}\\\\)", "isCorrect": true },
+      { "text": "\\\\(+9 \\\\text{ D}\\\\)", "isCorrect": false },
+      { "text": "\\\\(-9 \\\\text{ D}\\\\)", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 8",
+    "subject": "Science",
+    "difficulty": "Very Hard",
+    "text": "What physical phenomenon determines the resolving power of the human eye, and what is its average angular resolution under normal lighting?",
+    "explanation": "The resolving power is limited by the diffraction of light through the pupil. Under normal conditions, the human eye has an angular resolution of about 1 arcminute (or \\\\(3 \\\\times 10^{-4} \\\\text{ radians}\\\\)).",
+    "options": [
+      { "text": "Dispersion of light in the cornea; resolution is 1 degree", "isCorrect": false },
+      { "text": "Diffraction of light through the pupil; resolution is about 1 arcminute", "isCorrect": true },
+      { "text": "Refraction through the lens; resolution is 10 arcseconds", "isCorrect": false },
+      { "text": "Absorption of light in the iris; resolution is 5 arcminutes", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 8",
+    "subject": "Science",
+    "difficulty": "Very Hard",
+    "text": "Citrus canker, Rust of wheat, and Yellow vein mosaic of bhindi are common plant diseases. How do these pathogens biochemically disrupt the host plant's survival?",
+    "explanation": "They destroy photosynthetic tissues (chloroplasts), induce necrosis of leaves, and block vascular bundles (xylem/phloem), thereby reducing carbon fixation and nutrient transport.",
+    "options": [
+      { "text": "They convert the plant cell walls into animal muscle fibers", "isCorrect": false },
+      { "text": "They destroy chloroplasts, cause leaf necrosis, and block vascular transport", "isCorrect": true },
+      { "text": "They cause the plant to absorb excess nitrogen gas until the roots burst", "isCorrect": false },
+      { "text": "They increase the rate of transpiration until the plant freezes", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 8",
+    "subject": "Science",
+    "difficulty": "Very Hard",
+    "text": "Tetanus is caused by Clostridium tetani. What is the molecular mechanism of the tetanus toxin (tetanospasmin) on the human nervous system?",
+    "explanation": "Tetanus toxin retrogradely travels to the central nervous system, where it cleaves synaptobrevin to block the release of inhibitory neurotransmitters (GABA and glycine), resulting in uncontrolled muscle spasms.",
+    "options": [
+      { "text": "It blocks acetylcholine release, causing complete muscle flaccid paralysis", "isCorrect": false },
+      { "text": "It blocks the release of inhibitory neurotransmitters (GABA and glycine), causing spastic muscle contractions", "isCorrect": true },
+      { "text": "It degrades the sensory nerve endings, removing the ability to feel hot or cold", "isCorrect": false },
+      { "text": "It accelerates the breakdown of myelin in the optic nerve, causing blindness", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 8",
+    "subject": "Science",
+    "difficulty": "Very Hard",
+    "text": "Carbon fiber reinforced polymers (CFRP) are widely used in aerospace. Why do carbon fibers have a much higher tensile strength-to-weight ratio than structural steel?",
+    "explanation": "Carbon fibers consist of graphene sheets aligned parallel to the fiber axis. Strong covalent carbon-carbon sp2 bonds along the axis provide extreme tensile strength, while carbon's low atomic weight keeps density low.",
+    "options": [
+      { "text": "Because they are electrostatically charged to repel external stress", "isCorrect": false },
+      { "text": "Because they contain aligned graphene sheets with strong covalent sp2 bonds and low density", "isCorrect": true },
+      { "text": "Because they are mixed with titanium atoms in a liquid alloy state", "isCorrect": false },
+      { "text": "Because they form porous metallic crystals that absorb impact energy", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 8",
+    "subject": "Science",
+    "difficulty": "Very Hard",
+    "text": "Why does nitroglycerin decompose so much more rapidly and violently (detonation) than hydrocarbon fuels like methane (deflagration)?",
+    "explanation": "Nitroglycerin has both fuel (carbon/hydrogen) and oxidizer (oxygen-rich nitro groups) in the same molecule. It does not rely on mixing with atmospheric oxygen, allowing a supersonic detonation wave to propagate.",
+    "options": [
+      { "text": "Because nitroglycerin contains radioactive isotopes of nitrogen", "isCorrect": false },
+      { "text": "Because it contains both fuel and oxidizer in the same molecule, bypassing the need for atmospheric oxygen mixing", "isCorrect": true },
+      { "text": "Because nitroglycerin is a gaseous fuel under extreme high pressure", "isCorrect": false },
+      { "text": "Because the combustion of nitroglycerin is an endothermic reaction", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 8",
+    "subject": "Science",
+    "difficulty": "Very Hard",
+    "text": "During the electrolysis of water, why does the electrical current flowing through the cell drop over time if the applied voltage is kept just above the thermodynamic threshold of \\\\(1.23 \\\\text{ V}\\\\)?",
+    "explanation": "The accumulation of oxygen and hydrogen gas bubbles on the electrode surfaces reduces the active surface area (increasing resistance) and creates concentration polarization, raising the required voltage.",
+    "options": [
+      { "text": "Because sodium sulphate in the solution decomposes into solid sodium metal", "isCorrect": false },
+      { "text": "Due to concentration polarization and the accumulation of gas bubbles on the electrodes, increasing resistance", "isCorrect": true },
+      { "text": "Because water molecules become less polar as the temperature decreases", "isCorrect": false },
+      { "text": "Because the platinum electrodes are dissolved by the neutral solution", "isCorrect": false }
+    ]
+  }
+]

@@ -1,0 +1,327 @@
+[
+  {
+    "class": "Class 9",
+    "subject": "English",
+    "difficulty": "E",
+    "text": "Who is the writer of the travelogue chapter 'Kathmandu'?",
+    "explanation": "'Kathmandu' is an extract from Heaven Lake, a travelogue written by Vikram Seth.",
+    "options": [
+      { "text": "Khushwant Singh", "isCorrect": false },
+      { "text": "Vikram Seth", "isCorrect": true },
+      { "text": "Ruskin Bond", "isCorrect": false },
+      { "text": "A.P.J. Abdul Kalam", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 9",
+    "subject": "English",
+    "difficulty": "E",
+    "text": "In the play 'If I Were You', what is the name of the protagonist who is a playwright?",
+    "explanation": "Gerrard is the protagonist of the play, who lives in a lonely cottage and writes plays.",
+    "options": [
+      { "text": "Sergei", "isCorrect": false },
+      { "text": "Gerrard", "isCorrect": true },
+      { "text": "Browning", "isCorrect": false },
+      { "text": "Mahendra", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 9",
+    "subject": "English",
+    "difficulty": "E",
+    "text": "In 'Kathmandu', which two famous temples does Vikram Seth visit?",
+    "explanation": "Vikram Seth visits Pashupatinath temple (sacred to Hindus) and Baudhnath stupa (sacred to Buddhists).",
+    "options": [
+      { "text": "Pashupatinath and Baudhnath stupa", "isCorrect": true },
+      { "text": "Kedarnath and Badrinath", "isCorrect": false },
+      { "text": "Jagannath Temple and Konark Temple", "isCorrect": false },
+      { "text": "Somnath Temple and Akshardham", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 9",
+    "subject": "English",
+    "difficulty": "E",
+    "text": "In 'If I Were You', who breaks into Gerrard's cottage?",
+    "explanation": "An intruder, who is a criminal and looks similar to Gerrard, breaks into his cottage.",
+    "options": [
+      { "text": "A police inspector", "isCorrect": false },
+      { "text": "An intruder who is a criminal", "isCorrect": true },
+      { "text": "Gerrard's landlord", "isCorrect": false },
+      { "text": "A relative from London", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 9",
+    "subject": "English",
+    "difficulty": "E",
+    "text": "Who is the poet of 'On Killing a Tree'?",
+    "explanation": "'On Killing a Tree' is written by Gieve Patel.",
+    "options": [
+      { "text": "Gieve Patel", "isCorrect": true },
+      { "text": "William Wordsworth", "isCorrect": false },
+      { "text": "Edward Lear", "isCorrect": false },
+      { "text": "W.W.E. Ross", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 9",
+    "subject": "English",
+    "difficulty": "E",
+    "text": "In the poem 'A Slumber Did My Spirit Seal', what does 'slumber' refer to?",
+    "explanation": "'Slumber' literally means deep sleep, representing the death of the poet's loved one.",
+    "options": [
+      { "text": "A deep sleep or death", "isCorrect": true },
+      { "text": "A dream about future", "isCorrect": false },
+      { "text": "A physical illness", "isCorrect": false },
+      { "text": "A morning walk", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 9",
+    "subject": "English",
+    "difficulty": "M",
+    "text": "In 'Kathmandu', what contrast does the author draw between the Pashupatinath temple and the Baudhnath stupa?",
+    "explanation": "Pashupatinath has an atmosphere of febrile confusion and noise, while Baudhnath stupa has a sense of stillness and quiet haven.",
+    "options": [
+      { "text": "Pashupatinath is quiet while Baudhnath is extremely crowded", "isCorrect": false },
+      { "text": "Pashupatinath is full of noise and febrile confusion, while Baudhnath is peaceful and quiet", "isCorrect": true },
+      { "text": "Pashupatinath is situated on a hill while Baudhnath is in a valley", "isCorrect": false },
+      { "text": "Pashupatinath is touristy while Baudhnath is strictly religious", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 9",
+    "subject": "English",
+    "difficulty": "M",
+    "text": "What is the intruder's ultimate plan in the play 'If I Were You'?",
+    "explanation": "The intruder wants to kill Gerrard and assume his identity to escape the police.",
+    "options": [
+      { "text": "To steal Gerrard's expensive paintings", "isCorrect": false },
+      { "text": "To kill Gerrard and take on his identity to evade the police", "isCorrect": true },
+      { "text": "To hide in Gerrard's house until the police leave", "isCorrect": false },
+      { "text": "To demand ransom from Gerrard's friends", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 9",
+    "subject": "English",
+    "difficulty": "M",
+    "text": "In 'On Killing a Tree', what is required to actually kill a tree according to the poet?",
+    "explanation": "A tree cannot be killed by a simple jab of a knife; its root must be pulled out of the anchoring earth, exposed to sunlight, and allowed to wither.",
+    "options": [
+      { "text": "Chopping off all its green leaves", "isCorrect": false },
+      { "text": "Pulling out the roots from the anchoring earth and letting them dry", "isCorrect": true },
+      { "text": "Cutting the bark with a sharp axe repeatedly", "isCorrect": false },
+      { "text": "Watering it with chemical solutions", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 9",
+    "subject": "English",
+    "difficulty": "M",
+    "text": "Fill in the blank with the correct tense: 'By the time the doctor arrived, the patient ___.'",
+    "explanation": "When two past actions are related, the earlier action is expressed in the past perfect tense ('had died').",
+    "options": [
+      { "text": "died", "isCorrect": false },
+      { "text": "had died", "isCorrect": true },
+      { "text": "has died", "isCorrect": false },
+      { "text": "was dying", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 9",
+    "subject": "English",
+    "difficulty": "M",
+    "text": "In 'Kathmandu', what musical instrument does the author find fascinating at the street corner?",
+    "explanation": "The author is fascinated by the flute seller who plays sweet melodies on different kinds of bansuris/flutes.",
+    "options": [
+      { "text": "The sitar played by a street singer", "isCorrect": false },
+      { "text": "The bansuri (flute) played by a street seller", "isCorrect": true },
+      { "text": "The harmonium played at the temple gate", "isCorrect": false },
+      { "text": "The sarangi of a wandering musician", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 9",
+    "subject": "English",
+    "difficulty": "M",
+    "text": "Choose the correct modal verb: 'You ___ pay a fine if you return the library books late.'",
+    "explanation": "'Will' indicates a future certainty or rule-bound consequence.",
+    "options": [
+      { "text": "would", "isCorrect": false },
+      { "text": "will", "isCorrect": true },
+      { "text": "might", "isCorrect": false },
+      { "text": "should have", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 9",
+    "subject": "English",
+    "difficulty": "M",
+    "text": "In 'If I Were You', how does Gerrard trick the intruder into entering the cupboard?",
+    "explanation": "Gerrard tells him it is his secret escape door and pushes him inside, locking it from outside.",
+    "options": [
+      { "text": "He offers him a drink kept inside the cupboard", "isCorrect": false },
+      { "text": "He tells him it is a secret escape route and locks him inside", "isCorrect": true },
+      { "text": "He tells him the police are already outside and he must hide there", "isCorrect": false },
+      { "text": "He challenges him to check if there is money inside", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 9",
+    "subject": "English",
+    "difficulty": "M",
+    "text": "What does the poet William Wordsworth mean by 'Rolled round in earth's diurnal course' in 'A Slumber Did My Spirit Seal'?",
+    "explanation": "'Diurnal course' refers to the daily rotation of the Earth; the deceased person is now part of nature, moving with the Earth's daily cycle.",
+    "options": [
+      { "text": "The daily routine of the living people", "isCorrect": false },
+      { "text": "The Earth's daily rotation along with rocks, stones, and trees", "isCorrect": true },
+      { "text": "The change of seasons in the Northland", "isCorrect": false },
+      { "text": "The regular tides of the ocean", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 9",
+    "subject": "English",
+    "difficulty": "M",
+    "text": "In 'The Adventures of Toto', how did Grandfather get Toto back from the tonga-driver?",
+    "explanation": "Grandfather bought Toto from a tonga-driver for the sum of five rupees.",
+    "options": [
+      { "text": "He rescued him from a cage", "isCorrect": false },
+      { "text": "He bought him for five rupees", "isCorrect": true },
+      { "text": "The tonga-driver gifted Toto to him", "isCorrect": false },
+      { "text": "He traded him for another pet", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 9",
+    "subject": "English",
+    "difficulty": "H",
+    "text": "In 'Kathmandu', what belief is associated with the small shrine on the Bagmati river bank?",
+    "explanation": "It is believed that when the small stone shrine emerges fully from the river, the goddess inside will escape, ending the evil period of Kaliyug.",
+    "options": [
+      { "text": "The river will dry up completely", "isCorrect": false },
+      { "text": "The goddess inside will escape and end the evil period of Kaliyug", "isCorrect": true },
+      { "text": "A golden temple will appear in its place", "isCorrect": false },
+      { "text": "The town will submerge under water", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 9",
+    "subject": "English",
+    "difficulty": "H",
+    "text": "Read the sentence and find the error: 'None of the students have completed their assignment yet.'",
+    "explanation": "'None' is typically treated as singular in formal English, requiring the singular verb 'has' instead of 'have'.",
+    "options": [
+      { "text": "Replace 'None' with 'No'", "isCorrect": false },
+      { "text": "Replace 'have completed' with 'has completed'", "isCorrect": true },
+      { "text": "Replace 'their' with 'our'", "isCorrect": false },
+      { "text": "Replace 'yet' with 'already'", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 9",
+    "subject": "English",
+    "difficulty": "H",
+    "text": "What does the phrase 'anchoring earth' in 'On Killing a Tree' signify?",
+    "explanation": "It refers to the earth acting as an anchor, holding the roots firmly and providing support and nourishment to the tree.",
+    "options": [
+      { "text": "The soil that is washed away by rain", "isCorrect": false },
+      { "text": "The earth holding the roots firmly to protect and support the tree", "isCorrect": true },
+      { "text": "The dry ground where trees cannot grow", "isCorrect": false },
+      { "text": "The process of sowing new seeds", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 9",
+    "subject": "English",
+    "difficulty": "H",
+    "text": "In 'If I Were You', what lie does Gerrard construct about himself to convince the intruder that he too is a criminal?",
+    "explanation": "Gerrard claims that he is a criminal on the run, has killed someone, and is expecting police trouble that very night.",
+    "options": [
+      { "text": "He claims to be a secret agent of the British intelligence", "isCorrect": false },
+      { "text": "He claims he is a murderer on the run who is also expecting the police", "isCorrect": true },
+      { "text": "He says he is a relative of the local police chief", "isCorrect": false },
+      { "text": "He tells him he has planted explosives around the cottage", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 9",
+    "subject": "English",
+    "difficulty": "H",
+    "text": "Identify the correct reported speech form of: 'She said to me, \"Don't make a noise.\"'",
+    "explanation": "Imperative negative direct speech changes to 'not to + verb' in indirect speech, and 'said to' changes to 'forbade' or 'told/ordered... not to'.",
+    "options": [
+      { "text": "She forbade me not to make a noise.", "isCorrect": false },
+      { "text": "She told me not to make a noise.", "isCorrect": true },
+      { "text": "She said me to not make a noise.", "isCorrect": false },
+      { "text": "She ordered that I should not make noise.", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 9",
+    "subject": "English",
+    "difficulty": "H",
+    "text": "What attitude of the author towards travel is evident in the chapter 'Kathmandu'?",
+    "explanation": "The author is an observant traveler who appreciates cultural details, enjoys local music, and travels with a quiet curiosity.",
+    "options": [
+      { "text": "He prefers luxury travel and avoids local streets", "isCorrect": false },
+      { "text": "He has a keen observation of cultural nuances and is highly receptive to sensory details", "isCorrect": true },
+      { "text": "He focuses only on finding historical monuments", "isCorrect": false },
+      { "text": "He is constantly homesick and wishes to return early", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 9",
+    "subject": "English",
+    "difficulty": "VH",
+    "text": "In the poem 'On Killing a Tree', what is the symbolic meaning of 'bleeding bark' and how does it heal?",
+    "explanation": "The 'bleeding bark' represents the tree's pain when cut; it heals itself through nature's resilience, sprouting green twigs from close to the ground.",
+    "options": [
+      { "text": "It represents the sap flowing out, which is dried by the sun to kill the tree", "isCorrect": false },
+      { "text": "It symbolizes the tree's wound from hacking, which heals through natural growth and resilience", "isCorrect": true },
+      { "text": "It refers to the red resin of the tree which is toxic to insects", "isCorrect": false },
+      { "text": "It is a metaphor for the tree's autumn leaves falling", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 9",
+    "subject": "English",
+    "difficulty": "VH",
+    "text": "Analyze the syntax and select the correct conditional: 'If he had been more careful, the accident ___ avoided.'",
+    "explanation": "This is a passive construction of the third conditional. Active: 'would have avoided'; Passive: 'would have been avoided'.",
+    "options": [
+      { "text": "would be", "isCorrect": false },
+      { "text": "would have been", "isCorrect": true },
+      { "text": "had been", "isCorrect": false },
+      { "text": "will have been", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 9",
+    "subject": "English",
+    "difficulty": "VH",
+    "text": "What philosophical contrast is depicted in William Wordsworth's 'A Slumber Did My Spirit Seal' between the two stanzas?",
+    "explanation": "The first stanza shows the poet's naive, dream-like state of mind where he thought Lucy was immortal; the second stanza shows the harsh reality of her death and integration into nature.",
+    "options": [
+      { "text": "The first stanza describes city life, while the second praises nature", "isCorrect": false },
+      { "text": "The first stanza shows naive denial of mortality, while the second depicts acceptance of physical death and eternal unity with nature", "isCorrect": true },
+      { "text": "The first stanza is about autumn, while the second is about spring", "isCorrect": false },
+      { "text": "The first stanza focuses on youth, while the second focuses on old age", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 9",
+    "subject": "English",
+    "difficulty": "VH",
+    "text": "Identify the clause type of the underlined part: 'He told me <u>that he would not attend the party</u>.'",
+    "explanation": "The underlined clause acts as the object of the transitive verb 'told', so it is a Noun Clause.",
+    "options": [
+      { "text": "Adjective Clause", "isCorrect": false },
+      { "text": "Noun Clause", "isCorrect": true },
+      { "text": "Adverb Clause of Reason", "isCorrect": false },
+      { "text": "Relative Clause", "isCorrect": false }
+    ]
+  }
+]

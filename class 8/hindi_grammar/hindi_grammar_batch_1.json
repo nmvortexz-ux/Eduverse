@@ -1,0 +1,327 @@
+[
+  {
+    "class": "Class 8",
+    "subject": "Hindi Grammar",
+    "difficulty": "Easy",
+    "text": "निम्नलिखित में से कौन सा शब्द भाववाचक संज्ञा का उदाहरण है?",
+    "explanation": "'मिठास' शब्द से किसी भाव, गुण या दशा का बोध होता है, इसलिए यह भाववाचक संज्ञा है। 'मीठा' एक विशेषण है।",
+    "options": [
+      { "text": "मीठा", "isCorrect": false },
+      { "text": "मिठास", "isCorrect": true },
+      { "text": "राम", "isCorrect": false },
+      { "text": "नदी", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 8",
+    "subject": "Hindi Grammar",
+    "difficulty": "Medium",
+    "text": "'गंगा' शब्द संज्ञा के किस भेद के अंतर्गत आता है?",
+    "explanation": "'गंगा' एक विशेष नदी का नाम है, इसलिए यह व्यक्तिवाचक संज्ञा के अंतर्गत आता है।",
+    "options": [
+      { "text": "जातिवाचक संज्ञा", "isCorrect": false },
+      { "text": "भाववाचक संज्ञा", "isCorrect": false },
+      { "text": "व्यक्तिवाचक संज्ञा", "isCorrect": true },
+      { "text": "समूहवाचक संज्ञा", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 8",
+    "subject": "Hindi Grammar",
+    "difficulty": "Hard",
+    "text": "निम्नलिखित में से कौन सा शब्द समूहवाचक संज्ञा का सही उदाहरण है?",
+    "explanation": "'सेना' शब्द से सैनिकों के समूह या समुदाय का बोध होता है, इसलिए यह समूहवाचक संज्ञा है।",
+    "options": [
+      { "text": "सुंदर", "isCorrect": false },
+      { "text": "बचपन", "isCorrect": false },
+      { "text": "लोहा", "isCorrect": false },
+      { "text": "सेना", "isCorrect": true }
+    ]
+  },
+  {
+    "class": "Class 8",
+    "subject": "Hindi Grammar",
+    "difficulty": "Easy",
+    "text": "\"वह पत्र लिख रहा है।\" इस वाक्य में प्रयुक्त 'वह' किस प्रकार का सर्वनाम है?",
+    "explanation": "'वह' शब्द का प्रयोग वक्ता और श्रोता के अतिरिक्त किसी अन्य व्यक्ति (अन्य पुरुष) के लिए किया गया है, अतः यह पुरुषवाचक सर्वनाम है।",
+    "options": [
+      { "text": "निजवाचक सर्वनाम", "isCorrect": false },
+      { "text": "पुरुषवाचक सर्वनाम", "isCorrect": true },
+      { "text": "निश्चयवाचक सर्वनाम", "isCorrect": false },
+      { "text": "संबंधवाचक सर्वनाम", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 8",
+    "subject": "Hindi Grammar",
+    "difficulty": "Medium",
+    "text": "\"दरवाजे पर कोई खड़ा है।\" इस वाक्य में रेखांकित शब्द 'कोई' किस प्रकार का सर्वनाम है?",
+    "explanation": "'कोई' शब्द से किसी निश्चित व्यक्ति का बोध नहीं होता, इसलिए यह अनिश्चयवाचक सर्वनाम है।",
+    "options": [
+      { "text": "निश्चयवाचक सर्वनाम", "isCorrect": false },
+      { "text": "अनिश्चयवाचक सर्वनाम", "isCorrect": true },
+      { "text": "प्रश्नवाचक सर्वनाम", "isCorrect": false },
+      { "text": "निजवाचक सर्वनाम", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 8",
+    "subject": "Hindi Grammar",
+    "difficulty": "Hard",
+    "text": "\"जैसा करोगे वैसा भरोगे।\" इस वाक्य में 'जैसा-वैसा' किस सर्वनाम के उदाहरण हैं?",
+    "explanation": "'जैसा' और 'वैसा' शब्द दो वाक्यों के उपवाक्यों में परस्पर संबंध प्रकट कर रहे हैं, इसलिए ये संबंधवाचक सर्वनाम हैं।",
+    "options": [
+      { "text": "निजवाचक सर्वनाम", "isCorrect": false },
+      { "text": "निश्चयवाचक सर्वनाम", "isCorrect": false },
+      { "text": "संबंधवाचक सर्वनाम", "isCorrect": true },
+      { "text": "अनिश्चयवाचक सर्वनाम", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 8",
+    "subject": "Hindi Grammar",
+    "difficulty": "Easy",
+    "text": "\"यह लाल गुलाब है।\" इस वाक्य में विशेषण शब्द कौन सा है?",
+    "explanation": "'लाल' शब्द गुलाब (संज्ञा) के रंग का बोध कराकर उसकी विशेषता बता रहा है, इसलिए यह विशेषण है।",
+    "options": [
+      { "text": "गुलाब", "isCorrect": false },
+      { "text": "लाल", "isCorrect": true },
+      { "text": "यह", "isCorrect": false },
+      { "text": "है", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 8",
+    "subject": "Hindi Grammar",
+    "difficulty": "Medium",
+    "text": "\"मुझे दो लीटर दूध चाहिए।\" इस वाक्य में 'दो लीटर' किस प्रकार का विशेषण है?",
+    "explanation": "'दो लीटर' शब्द दूध की निश्चित मात्रा या माप-तौल का बोध कराता है, इसलिए यह निश्चित परिमाणवाचक विशेषण है।",
+    "options": [
+      { "text": "संख्यावाचक विशेषण", "isCorrect": false },
+      { "text": "गुणवाचक विशेषण", "isCorrect": false },
+      { "text": "परिमाणवाचक विशेषण", "isCorrect": true },
+      { "text": "संकेतवाचक विशेषण", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 8",
+    "subject": "Hindi Grammar",
+    "difficulty": "Very Hard",
+    "text": "\"रमेश बहुत चतुर बालक है।\" इस वाक्य में 'बहुत' शब्द व्याकरण की दृष्टि से क्या है?",
+    "explanation": "जो शब्द विशेषण शब्द की भी विशेषता बताते हैं, उन्हें 'प्रविशेषण' कहते हैं। यहाँ 'बहुत' शब्द 'चतुर' (विशेषण) की विशेषता बता रहा है।",
+    "options": [
+      { "text": "विशेषण", "isCorrect": false },
+      { "text": "प्रविशेषण", "isCorrect": true },
+      { "text": "क्रियाविशेषण", "isCorrect": false },
+      { "text": "संज्ञा", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 8",
+    "subject": "Hindi Grammar",
+    "difficulty": "Easy",
+    "text": "\"मोहन पुस्तक पढ़ता है।\" इस वाक्य में क्रिया का कौन सा भेद प्रयुक्त हुआ है?",
+    "explanation": "वाक्य में 'पढ़ना' क्रिया का फल कर्ता (मोहन) पर न पड़कर कर्म (पुस्तक) पर पड़ रहा है, इसलिए यह सकर्मक क्रिया है।",
+    "options": [
+      { "text": "अकर्मक क्रिया", "isCorrect": false },
+      { "text": "सकर्मक क्रिया", "isCorrect": true },
+      { "text": "द्विकर्मक क्रिया", "isCorrect": false },
+      { "text": "नामधातु क्रिया", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 8",
+    "subject": "Hindi Grammar",
+    "difficulty": "Medium",
+    "text": "\"शायद कल वर्षा होगी।\" यह वाक्य काल के किस भेद के अंतर्गत आएगा?",
+    "explanation": "इस वाक्य में भविष्य में क्रिया के होने की केवल संभावना या संदेह प्रकट किया गया है, इसलिए यह संभाव्य भविष्यत् काल है।",
+    "options": [
+      { "text": "सामान्य भविष्यत् काल", "isCorrect": false },
+      { "text": "संभाव्य भविष्यत् काल", "isCorrect": true },
+      { "text": "आसन्न भूतकाल", "isCorrect": false },
+      { "text": "अपूर्ण वर्तमान काल", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 8",
+    "subject": "Hindi Grammar",
+    "difficulty": "Hard",
+    "text": "\"माँ ने बच्चे को नौकर से दूध पिलवाया।\" इस वाक्य में प्रयुक्त क्रिया का रूप क्या है?",
+    "explanation": "जब कर्ता स्वयं कार्य न करके किसी दूसरे को कार्य करने के लिए प्रेरित करता है, तो उसे 'प्रेरणार्थक क्रिया' कहते हैं।",
+    "options": [
+      { "text": "नामधातु क्रिया", "isCorrect": false },
+      { "text": "प्रेरणार्थक क्रिया", "isCorrect": true },
+      { "text": "संयुक्त क्रिया", "isCorrect": false },
+      { "text": "पूर्वकालिक क्रिया", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 8",
+    "subject": "Hindi Grammar",
+    "difficulty": "Easy",
+    "text": "'हिमालय' शब्द का सही संधि-विच्छेद क्या होगा?",
+    "explanation": "'हिम + आलय' (अ + आ = आ) मिलकर 'हिमालय' बनता है, जो कि दीर्घ स्वर संधि का उदाहरण है।",
+    "options": [
+      { "text": "हिमा + लय", "isCorrect": false },
+      { "text": "हिम + आलय", "isCorrect": true },
+      { "text": "हि + मालय", "isCorrect": false },
+      { "text": "हिमाल + य", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 8",
+    "subject": "Hindi Grammar",
+    "difficulty": "Medium",
+    "text": "'सूर्योदय' शब्द में कौन सी स्वर संधि प्रयुक्त हुई है?",
+    "explanation": "'सूर्य + उदय' मिलकर 'सूर्योदय' बनता है। यहाँ 'अ + उ = ओ' का नियम लगा है, जो कि गुण स्वर संधि का उदाहरण है।",
+    "options": [
+      { "text": "दीर्घ संधि", "isCorrect": false },
+      { "text": "गुण संधि", "isCorrect": true },
+      { "text": "वृद्धि संधि", "isCorrect": false },
+      { "text": "यण संधि", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 8",
+    "subject": "Hindi Grammar",
+    "difficulty": "Very Hard",
+    "text": "'मनोरथ' शब्द का सही संधि-विच्छेद क्या होगा और यह किस संधि के अंतर्गत आता है?",
+    "explanation": "'मनः + रथ' मिलकर 'मनोरथ' बनता है। विसर्ग (ः) का परिवर्तन 'ओ' में होने के कारण यह विसर्ग संधि का उदाहरण है।",
+    "options": [
+      { "text": "मनो + रथ (गुण संधि)", "isCorrect": false },
+      { "text": "मनः + रथ (विसर्ग संधि)", "isCorrect": true },
+      { "text": "मन + रथ (व्यंजन संधि)", "isCorrect": false },
+      { "text": "मनः + अर्थ (दीर्घ संधि)", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 8",
+    "subject": "Hindi Grammar",
+    "difficulty": "Medium",
+    "text": "'राजपुत्र' (राजा का पुत्र) में कौन सा समास है?",
+    "explanation": "'राजपुत्र' का विग्रह 'राजा का पुत्र' है। इसमें संबंध कारक की विभक्ति 'का' का लोप होने के कारण यह तत्पुरुष समास है।",
+    "options": [
+      { "text": "अव्ययीभाव समास", "isCorrect": false },
+      { "text": "तत्पुरुष समास", "isCorrect": true },
+      { "text": "द्वंद्व समास", "isCorrect": false },
+      { "text": "कर्मधारय समास", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 8",
+    "subject": "Hindi Grammar",
+    "difficulty": "Hard",
+    "text": "'यथाशक्ति' (शक्ति के अनुसार) शब्द में कौन सा समास प्रयुक्त है?",
+    "explanation": "'यथाशक्ति' का पहला पद 'यथा' एक अव्यय है और वही प्रधान है, इसलिए यह अव्ययीभाव समास है।",
+    "options": [
+      { "text": "तत्पुरुष समास", "isCorrect": false },
+      { "text": "अव्ययीभाव समास", "isCorrect": true },
+      { "text": "द्विगु समास", "isCorrect": false },
+      { "text": "बहुव्रीहि समास", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 8",
+    "subject": "Hindi Grammar",
+    "difficulty": "Very Hard",
+    "text": "'दशानन' (दस हैं आनन जिसके अर्थात् रावण) शब्द में कौन सा समास है?",
+    "explanation": "यद्यपि पहला पद संख्यावाचक 'दस' है, लेकिन दोनों पद मिलकर किसी तीसरे विशेष अर्थ (रावण) को प्रकट कर रहे हैं, अतः यहाँ बहुव्रीहि समास है।",
+    "options": [
+      { "text": "द्विगु समास", "isCorrect": false },
+      { "text": "बहुव्रीहि समास", "isCorrect": true },
+      { "text": "कर्मधारय समास", "isCorrect": false },
+      { "text": "द्वंद्व समास", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 8",
+    "subject": "Hindi Grammar",
+    "difficulty": "Hard",
+    "text": "निम्नलिखित में से कौन सा शब्द 'संसार' का पर्यायवाची नहीं है?",
+    "explanation": "'जगत', 'लोक', और 'विश्व' संसार के पर्यायवाची हैं, जबकि 'वसुधा' का अर्थ पृथ्वी होता है।",
+    "options": [
+      { "text": "जगत", "isCorrect": false },
+      { "text": "वसुधा", "isCorrect": true },
+      { "text": "लोक", "isCorrect": false },
+      { "text": "विश्व", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 8",
+    "subject": "Hindi Grammar",
+    "difficulty": "Easy",
+    "text": "'सत्य' शब्द का सही विलोम शब्द क्या होगा?",
+    "explanation": "'सत्य' तत्सम शब्द है, इसलिए इसका सही विलोम शब्द भी तत्सम रूप में 'असत्य' होगा। 'झूठ' तद्भव शब्द है।",
+    "options": [
+      { "text": "झूठ", "isCorrect": false },
+      { "text": "असत्य", "isCorrect": true },
+      { "text": "मिथ्या", "isCorrect": false },
+      { "text": "पाप", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 8",
+    "subject": "Hindi Grammar",
+    "difficulty": "Hard",
+    "text": "निम्नलिखित में से कौन सा शब्द 'कमल' का सही पर्यायवाची है?",
+    "explanation": "'राजीव' कमल का पर्यायवाची है। 'जलद' और 'वारिद' बादल के पर्यायवाची हैं, तथा 'तड़ित' बिजली का पर्यायवाची है।",
+    "options": [
+      { "text": "जलद", "isCorrect": false },
+      { "text": "राजीव", "isCorrect": true },
+      { "text": "वारिद", "isCorrect": false },
+      { "text": "तड़ित", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 8",
+    "subject": "Hindi Grammar",
+    "difficulty": "Very Hard",
+    "text": "'अवलंब' और 'अविलंब' शब्द-युग्म का सही अर्थ-भेद क्या है?",
+    "explanation": "'अवलंब' का अर्थ 'सहारा' (जैसे किसी का सहारा लेना) होता है, और 'अविलंब' का अर्थ 'बिना किसी विलंब के' यानी 'शीघ्र' होता है।",
+    "options": [
+      { "text": "शीघ्र और सहारा", "isCorrect": false },
+      { "text": "सहारा और शीघ्र", "isCorrect": true },
+      { "text": "आधार और विलंब", "isCorrect": false },
+      { "text": "लटकना और बिना देरी के", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 8",
+    "subject": "Hindi Grammar",
+    "difficulty": "Medium",
+    "text": "\"दाँतों तले उँगली दबाना\" इस मुहावरे का सही अर्थ क्या है?",
+    "explanation": "\"दाँतों तले उँगली दबाना\" मुहावरे का अर्थ होता है अत्यधिक हैरान या आश्चर्यचकित होना।",
+    "options": [
+      { "text": "बहुत गुस्सा होना", "isCorrect": false },
+      { "text": "आश्चर्यचकित होना", "isCorrect": true },
+      { "text": "दर्द से कराहना", "isCorrect": false },
+      { "text": "भूख लगना", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 8",
+    "subject": "Hindi Grammar",
+    "difficulty": "Very Hard",
+    "text": "\"अधजल गगरी छलकत जाए\" इस लोकोक्ति का सही अर्थ क्या है?",
+    "explanation": "इस लोकोक्ति का अर्थ है कि कम ज्ञान या गुण होने पर भी व्यक्ति अत्यधिक दिखावा या घमंड करने लगता है।",
+    "options": [
+      { "text": "आधा भरा घड़ा लेकर चलना", "isCorrect": false },
+      { "text": "कम ज्ञान होने पर भी अधिक दिखावा करना", "isCorrect": true },
+      { "text": "पानी का मार्ग में गिरना", "isCorrect": false },
+      { "text": "अत्यंत बुद्धिमान होना", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 8",
+    "subject": "Hindi Grammar",
+    "difficulty": "Very Hard",
+    "text": "\"ऊँट के मुँह में जीरा\" इस लोकोक्ति का सही अर्थ क्या है?",
+    "explanation": "इस लोकोक्ति का अर्थ है कि किसी बहुत बड़ी आवश्यकता वाले व्यक्ति को उसकी जरूरत की तुलना में बहुत ही कम वस्तु या मात्रा प्राप्त होना।",
+    "options": [
+      { "text": "ऊँट को जीरा खिलाना", "isCorrect": false },
+      { "text": "आवश्यकता से बहुत कम वस्तु मिलना", "isCorrect": true },
+      { "text": "बड़ी वस्तु के लिए छोटी योजना बनाना", "isCorrect": false },
+      { "text": "पशु को चारा देना", "isCorrect": false }
+    ]
+  }
+]

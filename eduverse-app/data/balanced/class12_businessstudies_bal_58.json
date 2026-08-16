@@ -1,0 +1,47 @@
+[
+  {
+    "text": "Which of the following is a characteristic of a functional structure?",
+    "options": [
+      "It is suitable for large and complex organisations.",
+      "It is suitable for small and simple organisations.",
+      "It is based on the principle of division of work.",
+      "It is based on the principle of unity of command."
+    ],
+    "correctAnswer": "It is suitable for large and complex organisations.",
+    "explanation": "A functional structure is suitable for large and complex organisations because it allows for specialisation and division of work. In a functional structure, the organisation is divided into different departments such as marketing, finance, and human resources, each with its own specific functions.",
+    "difficulty": "Easy",
+    "class": "Class 12",
+    "subject": "Business Studies",
+    "chapter": "Ch 5: Organising"
+  },
+  {
+    "text": "Which of the following is a characteristic of a divisional structure?",
+    "options": [
+      "It is suitable for small and simple organisations.",
+      "It is based on the principle of unity of command.",
+      "It is based on the principle of functional specialisation.",
+      "It is based on the principle of product or geographic division."
+    ],
+    "correctAnswer": "It is based on the principle of product or geographic division.",
+    "explanation": "A divisional structure is based on the principle of product or geographic division, where the organisation is divided into different divisions based on products or geographic locations. This structure is suitable for organisations with diverse products or services.",
+    "difficulty": "Medium",
+    "class": "Class 12",
+    "subject": "Business Studies",
+    "chapter": "Ch 5: Organising"
+  },
+  {
+    "text": "Which of the following is a disadvantage of a functional structure?",
+    "options": [
+      "It promotes specialisation and efficiency.",
+      "It promotes flexibility and adaptability.",
+      "It leads to duplication of work and lack of coordination.",
+      "It leads to conflict and competition among departments."
+    ],
+    "correctAnswer": "It leads to duplication of work and lack of coordination.",
+    "explanation": "A functional structure can lead to duplication of work and lack of coordination among departments because each department may have its own goals and objectives, which may not be aligned with the overall goals of the organisation.",
+    "difficulty": "Hard",
+    "class": "Class 12",
+    "subject": "Business Studies",
+    "chapter": "Ch 5: Organising"
+  }
+]

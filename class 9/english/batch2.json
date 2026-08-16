@@ -1,0 +1,327 @@
+[
+  {
+    "class": "Class 9",
+    "subject": "English",
+    "difficulty": "E",
+    "text": "Who is the poet of the poem 'Rain on the Roof'?",
+    "explanation": "The poem 'Rain on the Roof' is written by Coates Kinney.",
+    "options": [
+      { "text": "Robert Frost", "isCorrect": false },
+      { "text": "Coates Kinney", "isCorrect": true },
+      { "text": "William Wordsworth", "isCorrect": false },
+      { "text": "Subramania Bharati", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 9",
+    "subject": "English",
+    "difficulty": "E",
+    "text": "In 'The Sound of Music' (Part II), who banned the playing of the pungi in the royal residence?",
+    "explanation": "Emperor Aurangzeb banned the playing of the musical instrument pungi because of its shrill and unpleasant sound.",
+    "options": [
+      { "text": "Emperor Akbar", "isCorrect": false },
+      { "text": "Emperor Aurangzeb", "isCorrect": true },
+      { "text": "Emperor Shah Jahan", "isCorrect": false },
+      { "text": "Emperor Babur", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 9",
+    "subject": "English",
+    "difficulty": "E",
+    "text": "What instrument did Bismillah Khan play?",
+    "explanation": "Ustad Bismillah Khan was a legendary shehnai player who brought the instrument to the classical stage.",
+    "options": [
+      { "text": "Flute", "isCorrect": false },
+      { "text": "Sitar", "isCorrect": false },
+      { "text": "Shehnai", "isCorrect": true },
+      { "text": "Tabla", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 9",
+    "subject": "English",
+    "difficulty": "E",
+    "text": "In 'A Truly Beautiful Mind', where was Albert Einstein born?",
+    "explanation": "Albert Einstein was born on March 14, 1879, in the German city of Ulm.",
+    "options": [
+      { "text": "Ulm", "isCorrect": true },
+      { "text": "Munich", "isCorrect": false },
+      { "text": "Bern", "isCorrect": false },
+      { "text": "Zurich", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 9",
+    "subject": "English",
+    "difficulty": "E",
+    "text": "In 'The Adventures of Toto', what kind of animal was Toto?",
+    "explanation": "Toto was a pretty little red monkey bought by Grandfather from a tonga-driver.",
+    "options": [
+      { "text": "A baby squirrel", "isCorrect": false },
+      { "text": "A red monkey", "isCorrect": true },
+      { "text": "A small puppy", "isCorrect": false },
+      { "text": "A parrot", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 9",
+    "subject": "English",
+    "difficulty": "E",
+    "text": "In 'The Lost Child', what did the child want to buy first at the entrance of the fair?",
+    "explanation": "As they entered the fair, the child was drawn to the sweetmeat shop and wanted a burfi.",
+    "options": [
+      { "text": "A garland of gulmohur", "isCorrect": false },
+      { "text": "Burfi from the sweetmeat seller", "isCorrect": true },
+      { "text": "A colorful balloon", "isCorrect": false },
+      { "text": "A toy cart", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 9",
+    "subject": "English",
+    "difficulty": "M",
+    "text": "In 'Rain on the Roof', what is the single major memory that comes to the poet's mind?",
+    "explanation": "The poet remembers his mother, who used to look at her children ('darling dreamers') lovingly before leaving them till dawn.",
+    "options": [
+      { "text": "His childhood friends playing in the rain", "isCorrect": false },
+      { "text": "His mother looking at her darling dreamers", "isCorrect": true },
+      { "text": "A heavy storm that damaged his roof", "isCorrect": false },
+      { "text": "His voyages to distant lands", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 9",
+    "subject": "English",
+    "difficulty": "M",
+    "text": "Fill in the blank with the correct preposition: 'She has been working in this school ___ five years.'",
+    "explanation": "'For' is used to denote a period/duration of time, while 'since' is used for a specific starting point.",
+    "options": [
+      { "text": "since", "isCorrect": false },
+      { "text": "for", "isCorrect": true },
+      { "text": "from", "isCorrect": false },
+      { "text": "during", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 9",
+    "subject": "English",
+    "difficulty": "M",
+    "text": "In 'A Truly Beautiful Mind', why did Einstein's mother oppose his marriage to Mileva Maric?",
+    "explanation": "Mileva was three years older than Albert, which his mother thought was too old, and she was also considered too intelligent for him.",
+    "options": [
+      { "text": "Because Mileva belonged to a different country", "isCorrect": false },
+      { "text": "Because Mileva was three years older and highly intellectual", "isCorrect": true },
+      { "text": "Because Mileva did not want to pursue science", "isCorrect": false },
+      { "text": "Because her family refused the match", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 9",
+    "subject": "English",
+    "difficulty": "M",
+    "text": "Choose the correct indirect speech form: 'He said to me, \"Where are you going?\"'",
+    "explanation": "The reporting verb 'said to' changes to 'asked', the connector is the question word 'where', and the tense shifts from present continuous to past continuous.",
+    "options": [
+      { "text": "He asked me where was I going.", "isCorrect": false },
+      { "text": "He asked me where I was going.", "isCorrect": true },
+      { "text": "He told me where I was going.", "isCorrect": false },
+      { "text": "He asked me that where was I going.", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 9",
+    "subject": "English",
+    "difficulty": "M",
+    "text": "In 'The Lake Isle of Innisfree', what does the poet want to build at Innisfree?",
+    "explanation": "The poet wants to build a small cabin of clay and wattles, grow nine bean-rows, and have a hive for the honeybee.",
+    "options": [
+      { "text": "A large stone cottage", "isCorrect": false },
+      { "text": "A small cabin of clay and wattles", "isCorrect": true },
+      { "text": "A modern resort", "isCorrect": false },
+      { "text": "A wooden bridge across the lake", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 9",
+    "subject": "English",
+    "difficulty": "M",
+    "text": "In 'In the Kingdom of Fools', what was unusual about the currency system?",
+    "explanation": "Everything in the kingdom, whether a measure of rice or a bunch of bananas, cost exactly the same—a single duddu.",
+    "options": [
+      { "text": "Gold was cheaper than silver", "isCorrect": false },
+      { "text": "Every item cost exactly a single duddu", "isCorrect": true },
+      { "text": "Foreigners had to pay double price", "isCorrect": false },
+      { "text": "No currency was used, only barter system existed", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 9",
+    "subject": "English",
+    "difficulty": "M",
+    "text": "In 'Iswaran the Storyteller', Iswaran claimed to have brought down an elephant by using which martial art?",
+    "explanation": "Iswaran described using karate or ju-jitsu, which he had read about, to temporarily paralyze the wild elephant by hitting its third toe.",
+    "options": [
+      { "text": "Kalaripayattu", "isCorrect": false },
+      { "text": "Karate or Ju-jitsu", "isCorrect": true },
+      { "text": "Kung Fu", "isCorrect": false },
+      { "text": "Taekwondo", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 9",
+    "subject": "English",
+    "difficulty": "M",
+    "text": "Select the sentence with correct subject-verb agreement:",
+    "explanation": "'The quality of these mangoes is not good' is correct because the subject is singular 'quality', not plural 'mangoes'.",
+    "options": [
+      { "text": "The quality of these mangoes are not good.", "isCorrect": false },
+      { "text": "The quality of these mangoes is not good.", "isCorrect": true },
+      { "text": "The quality of these mangoes have not been good.", "isCorrect": false },
+      { "text": "The quality of these mangoes were not good.", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 9",
+    "subject": "English",
+    "difficulty": "M",
+    "text": "In 'The Happy Prince', why did the Prince weep when he was placed on the tall column?",
+    "explanation": "The Happy Prince could now see all the ugliness and misery of his city, which he was unaware of during his lifetime in the palace.",
+    "options": [
+      { "text": "Because he missed his palace and friends", "isCorrect": false },
+      { "text": "Because he could see all the ugliness and misery of his city", "isCorrect": true },
+      { "text": "Because the gold leaf on his body was being peeled off", "isCorrect": false },
+      { "text": "Because the swallow was leaving him", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 9",
+    "subject": "English",
+    "difficulty": "H",
+    "text": "In the poem 'The Lake Isle of Innisfree', how does the poet describe the sound of the lake water?",
+    "explanation": "The poet hears lake water lapping with low sounds by the shore, which resonates deep within his heart.",
+    "options": [
+      { "text": "Crashing loudly against the rocky shore", "isCorrect": false },
+      { "text": "Lapping with low sounds by the shore", "isCorrect": true },
+      { "text": "Flowing like a swift mountain stream", "isCorrect": false },
+      { "text": "Dripping slowly through the forest canopy", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 9",
+    "subject": "English",
+    "difficulty": "H",
+    "text": "Complete the conditional clause correctly: 'If we ___ early, we would not have missed the train.'",
+    "explanation": "This is a third conditional sentence expressing a past regret, so the condition clause must use the past perfect ('had started').",
+    "options": [
+      { "text": "start", "isCorrect": false },
+      { "text": "started", "isCorrect": false },
+      { "text": "had started", "isCorrect": true },
+      { "text": "would start", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 9",
+    "subject": "English",
+    "difficulty": "H",
+    "text": "In 'The Snake and the Mirror', what thoughts came to the doctor's mind when the snake looked into the mirror?",
+    "explanation": "He wondered if the snake was admiring its own beauty, or planning to use eyeshadow, mascara, or a vermilion spot.",
+    "options": [
+      { "text": "He thought the snake was about to bite the mirror", "isCorrect": false },
+      { "text": "He wondered if the snake was admiring its own beauty", "isCorrect": true },
+      { "text": "He thought the snake was trying to find food in its reflection", "isCorrect": false },
+      { "text": "He feared the snake was warning other snakes", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 9",
+    "subject": "English",
+    "difficulty": "H",
+    "text": "Identify the grammatically correct sentence from the following options regarding determiners:",
+    "explanation": "'Few' is used for countable nouns and has a negative connotation (hardly any), which is appropriate for expressing lack of friends.",
+    "options": [
+      { "text": "I have little friends in this city, so I feel lonely.", "isCorrect": false },
+      { "text": "I have few friends in this city, so I feel lonely.", "isCorrect": true },
+      { "text": "I have a little friends in this city, so I feel lonely.", "isCorrect": false },
+      { "text": "I have less friends in this city, so I feel lonely.", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 9",
+    "subject": "English",
+    "difficulty": "H",
+    "text": "In 'My Childhood', how did Kalam's science teacher Sivasubramania Iyer behave when Kalam visited his home for the second time?",
+    "explanation": "His teacher's wife, who had previously refused to serve Kalam, took Kalam inside her kitchen and served him food with her own hands.",
+    "options": [
+      { "text": "He apologized and served food outside in the veranda", "isCorrect": false },
+      { "text": "His wife served Kalam inside the kitchen with her own hands", "isCorrect": true },
+      { "text": "He advised Kalam to change his religion to avoid social conflict", "isCorrect": false },
+      { "text": "He invited the entire village to witness Kalam eating", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 9",
+    "subject": "English",
+    "difficulty": "H",
+    "text": "In 'Weathering the Storm in Ersama', what strategy did the youth group use to get food aid from the helicopters?",
+    "explanation": "They deputed children to lie on the sand with empty utensils on their stomachs to signal hunger to the passing helicopters.",
+    "options": [
+      { "text": "They built a massive bonfire with damp wood", "isCorrect": false },
+      { "text": "They had children lie on sand with empty utensils on their stomachs", "isCorrect": true },
+      { "text": "They waved large white sheets from the rooftops", "isCorrect": false },
+      { "text": "They sent radio signals using an old transmitter", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 9",
+    "subject": "English",
+    "difficulty": "VH",
+    "text": "In the poem 'Rain on the Roof', what is the significance of the phrase 'starry spheres'?",
+    "explanation": "'Starry spheres' refers to the night sky covered with stars, which is obscured by the dark, moisture-laden rain clouds.",
+    "options": [
+      { "text": "Bright meteors shooting through space", "isCorrect": false },
+      { "text": "The star-studded night sky covered by dark rain clouds", "isCorrect": true },
+      { "text": "Mystical planets aligned in a circle", "isCorrect": false },
+      { "text": "The reflection of streetlights in the puddles", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 9",
+    "subject": "English",
+    "difficulty": "VH",
+    "text": "Read the sentence: 'Hardly had he arrived at the station ___ the train left.' Which conjunction completes this correlative pair?",
+    "explanation": "The adverb 'hardly' is followed by 'when' (or sometimes 'before') to form a correlative conjunction in time relations.",
+    "options": [
+      { "text": "than", "isCorrect": false },
+      { "text": "when", "isCorrect": true },
+      { "text": "then", "isCorrect": false },
+      { "text": "so", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 9",
+    "subject": "English",
+    "difficulty": "VH",
+    "text": "What is the primary theme of the poem 'A Legend of the Northland'?",
+    "explanation": "The poem is a ballad emphasizing that greed, selfishness, and lack of compassion are punished by divine forces.",
+    "options": [
+      { "text": "The survival tactics of woodpeckers in cold climates", "isCorrect": false },
+      { "text": "The moral lesson that greed and selfishness lead to punishment and loss", "isCorrect": true },
+      { "text": "The history of Saint Peter's travels in European nations", "isCorrect": false },
+      { "text": "The traditional baking methods of Northland citizens", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 9",
+    "subject": "English",
+    "difficulty": "VH",
+    "text": "In 'The Beggar', what was the real reason Lushkoff stopped drinking and changed his life?",
+    "explanation": "Lushkoff was transformed by the selfless concern, kindness, and noble deeds of Olga, the cook, who chopped the wood for him.",
+    "options": [
+      { "text": "The threat of being sent to prison by Sergei", "isCorrect": false },
+      { "text": "Olga's selflessness, kind words, and her act of chopping wood for him", "isCorrect": true },
+      { "text": "A sudden offer of a highly paid job in another province", "isCorrect": false },
+      { "text": "A realization of his family's pride and honor", "isCorrect": false }
+    ]
+  }
+]

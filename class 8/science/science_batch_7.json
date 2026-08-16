@@ -1,0 +1,327 @@
+[
+  {
+    "class": "Class 8",
+    "subject": "Science",
+    "difficulty": "Very Hard",
+    "text": "The nitrification process in soil involves specialized chemoautotrophic bacteria. Which of the following correctly describes the roles of Nitrosomonas and Nitrobacter?",
+    "explanation": "Nitrification occurs in two steps: Nitrosomonas oxidizes ammonia/ammonium ions into nitrites (\\\\(\\\\text{NO}_2^-\\\\)), and then Nitrobacter oxidizes nitrites into nitrates (\\\\(\\\\text{NO}_3^-\\\\)).",
+    "options": [
+      { "text": "Nitrosomonas converts nitrates to nitrites; Nitrobacter converts ammonia to nitrogen gas", "isCorrect": false },
+      { "text": "Nitrosomonas oxidizes ammonia to nitrites; Nitrobacter oxidizes nitrites to nitrates", "isCorrect": true },
+      { "text": "Nitrosomonas converts gaseous nitrogen to ammonia; Nitrobacter converts ammonia to nitrates", "isCorrect": false },
+      { "text": "Nitrosomonas converts nitrates to nitrogen gas; Nitrobacter converts ammonium to urea", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 8",
+    "subject": "Science",
+    "difficulty": "Very Hard",
+    "text": "Bacterial endospores can survive extreme heat, radiation, and toxic chemicals. Which unique chemical component found in the core of these endospores is primarily responsible for their dehydration and extreme heat resistance?",
+    "explanation": "The endospore core contains a high concentration of dipicolinic acid complexed with calcium (calcium dipicolinate), which binds water molecules to dehydrate the core and stabilize bacterial DNA.",
+    "options": [
+      { "text": "Peptidoglycan and lipopolysaccharides", "isCorrect": false },
+      { "text": "Calcium dipicolinate, which dehydrates the core and protects DNA", "isCorrect": true },
+      { "text": "Cellulose and chitin polymer structures", "isCorrect": false },
+      { "text": "Glycogen and polyhydroxybutyrate crystals", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 8",
+    "subject": "Science",
+    "difficulty": "Very Hard",
+    "text": "In conservation biology and ecology, how do species richness and species evenness differ in defining the species diversity of a biosphere reserve?",
+    "explanation": "Species richness refers to the absolute number of different species in a community, while species evenness refers to the relative abundance and distribution of individuals among those species.",
+    "options": [
+      { "text": "Richness is the total number of individuals; evenness is the number of endangered species", "isCorrect": false },
+      { "text": "Richness is the number of different species; evenness is the relative abundance of each species", "isCorrect": true },
+      { "text": "Richness is the density of plants; evenness is the ratio of predators to prey", "isCorrect": false },
+      { "text": "Richness is the rate of reproduction; evenness is the spatial distribution of nesting sites", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 8",
+    "subject": "Science",
+    "difficulty": "Very Hard",
+    "text": "During mammalian blastocyst formation, what are the respective developmental fates of the outer trophoblast cells and the inner cell mass (ICM)?",
+    "explanation": "The outer trophoblast cells develop into the chorion and fetal parts of the placenta, facilitating implantation, whereas the inner cell mass (ICM) develops into the embryo proper.",
+    "options": [
+      { "text": "Trophoblast becomes the brain; Inner cell mass becomes the vertebral column", "isCorrect": false },
+      { "text": "Trophoblast forms the fetal placenta; Inner cell mass develops into the embryo", "isCorrect": true },
+      { "text": "Trophoblast becomes the umbilical cord; Inner cell mass becomes the amniotic fluid", "isCorrect": false },
+      { "text": "Trophoblast forms the embryo; Inner cell mass forms the placenta", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 8",
+    "subject": "Science",
+    "difficulty": "Very Hard",
+    "text": "Oral contraceptive pills contain synthetic combinations of estrogen and progesterone. How do these hormones prevent pregnancy in females?",
+    "explanation": "The synthetic hormones maintain high blood levels that exert negative feedback on the pituitary, preventing the secretion of FSH and LH, which halts follicle development and ovulation.",
+    "options": [
+      { "text": "They chemically destroy the sperm cells inside the vaginal canal", "isCorrect": false },
+      { "text": "They inhibit FSH and LH secretion from the pituitary, preventing follicle development and ovulation", "isCorrect": true },
+      { "text": "They block the cervix with a physical layer of synthetic proteins", "isCorrect": false },
+      { "text": "They prevent the zygote from dividing by increasing uterine acidity", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 8",
+    "subject": "Science",
+    "difficulty": "Very Hard",
+    "text": "Nylon-6,6 is a synthetic polyamide polymer. What are its two monomer units, and what type of polymerization reaction is involved in its synthesis?",
+    "explanation": "Nylon-6,6 is synthesized from hexamethylenediamine and adipic acid through condensation polymerization, where a water molecule is eliminated at each amide link.",
+    "options": [
+      { "text": "Ethene and propene; Addition polymerization", "isCorrect": false },
+      { "text": "Hexamethylenediamine and adipic acid; Condensation polymerization", "isCorrect": true },
+      { "text": "Terephthalic acid and ethylene glycol; Condensation polymerization", "isCorrect": false },
+      { "text": "Vinyl chloride and styrene; Addition polymerization", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 8",
+    "subject": "Science",
+    "difficulty": "Very Hard",
+    "text": "Catalytic cracking is an essential process in petroleum refineries. What chemical transformation occurs during cracking, and why is it performed?",
+    "explanation": "Cracking breaks down long-chain hydrocarbons with high boiling points into shorter-chain hydrocarbons like gasoline and alkenes, which are in higher demand.",
+    "options": [
+      { "text": "It combines small gaseous hydrocarbons into liquid fuel using high pressure", "isCorrect": false },
+      { "text": "It breaks down heavier long-chain hydrocarbons into shorter-chain liquid fuels and alkenes", "isCorrect": true },
+      { "text": "It separates petrol and diesel physically without breaking any chemical bonds", "isCorrect": false },
+      { "text": "It adds hydrogen to unsaturated oils to convert them into solid fats", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 8",
+    "subject": "Science",
+    "difficulty": "Very Hard",
+    "text": "In a gas burner flame, why does the inner reaction zone appear green or blue, and which chemical species are responsible for this emission?",
+    "explanation": "The blue-green light emitted by the reaction zone of a clean gas flame is due to the electronic transition of excited diatomic carbon (\\\\(\\\\text{C}_2\\\\)) and methylidene (\\\\(\\\\text{CH}\\\\)) radicals, known as Swan bands.",
+    "options": [
+      { "text": "Ionized nitrogen molecules releasing energy during recombination", "isCorrect": false },
+      { "text": "Excited diatomic carbon (\\\\(\\\\text{C}_2\\\\)) and methylidene (\\\\(\\\\text{CH}\\\\)) radicals emitting light", "isCorrect": true },
+      { "text": "Hot incandescent carbon soot particles emitting blackbody radiation", "isCorrect": false },
+      { "text": "The combustion of traces of copper salts present in the fuel", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 8",
+    "subject": "Science",
+    "difficulty": "Very Hard",
+    "text": "Gunpowder is a mixture of sulphur, charcoal, and potassium nitrate. What is the role of potassium nitrate in the rapid combustion of gunpowder?",
+    "explanation": "Potassium nitrate (\\\\(\\\\text{KNO}_3\\\\)) decomposes on heating to release oxygen, which acts as a powerful oxidizer to rapidly burn the charcoal (carbon) and sulphur, creating expanding gases.",
+    "options": [
+      { "text": "It acts as a fuel that burns to produce carbon dioxide", "isCorrect": false },
+      { "text": "It acts as an oxidizing agent by decomposing to release oxygen", "isCorrect": true },
+      { "text": "It lowers the ignition temperature of the sulphur and charcoal", "isCorrect": false },
+      { "text": "It absorbs moisture to keep the mixture stable before ignition", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 8",
+    "subject": "Science",
+    "difficulty": "Very Hard",
+    "text": "During the electroplating of zinc on iron (galvanizing), how does increasing the concentration of zinc ions in the electrolyte affect the electrode potential of the zinc anode?",
+    "explanation": "According to the Nernst equation, increasing the concentration of zinc ions in the solution shifts the equilibrium, making the electrode potential of the zinc anode more positive (less negative).",
+    "options": [
+      { "text": "It decreases the potential to absolute zero", "isCorrect": false },
+      { "text": "It makes the electrode potential of the zinc anode more positive", "isCorrect": true },
+      { "text": "It makes the zinc anode turn into a cathode spontaneously", "isCorrect": false },
+      { "text": "It has no effect because electrode potential depends only on temperature", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 8",
+    "subject": "Science",
+    "difficulty": "Very Hard",
+    "text": "A water tank of height \\\\(H\\\\) is open to the atmosphere. If a small hole is drilled at a depth \\\\(h\\\\) below the water surface, what is the velocity of efflux of the water leaving the hole?",
+    "explanation": "According to Torricelli's Law, the velocity of efflux of a liquid flowing out of an opening under gravity is equal to the velocity acquired by a body falling freely from height \\\\(h\\\\), given by \\\\(v = \\\\sqrt{2gh}\\\\).",
+    "options": [
+      { "text": "\\\\(v = gh\\\\)", "isCorrect": false },
+      { "text": "\\\\(v = \\\\sqrt{2gh}\\\\)", "isCorrect": true },
+      { "text": "\\\\(v = 2gh\\\\)", "isCorrect": false },
+      { "text": "\\\\(v = \\\\sqrt{gh}\\\\)", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 8",
+    "subject": "Science",
+    "difficulty": "Very Hard",
+    "text": "An ice cube floats in a glass of water that is filled to the brim. When the ice melts completely, what happens to the level of water in the glass, and why?",
+    "explanation": "According to Archimedes' principle, the ice cube displaces a volume of water equal to its weight. The water generated by the melted ice occupies exactly the same volume as the displaced water, so the level remains unchanged.",
+    "options": [
+      { "text": "The water overflows because the volume of ice is larger than liquid water", "isCorrect": false },
+      { "text": "The water level remains unchanged because the melted ice volume matches the displaced volume", "isCorrect": true },
+      { "text": "The water level decreases because liquid water is less dense than ice", "isCorrect": false },
+      { "text": "The water level first rises and then falls as it reaches room temperature", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 8",
+    "subject": "Science",
+    "difficulty": "Very Hard",
+    "text": "What is the key difference between boundary lubrication and hydrodynamic lubrication in moving machine parts?",
+    "explanation": "In boundary lubrication, the lubricant film is very thin, allowing microscopic peaks (asperities) of the metals to contact each other. In hydrodynamic lubrication, a thick fluid film completely separates the surfaces.",
+    "options": [
+      { "text": "Hydrodynamic lubrication allows solid metal contact; boundary lubrication does not", "isCorrect": false },
+      { "text": "In boundary lubrication, a thin film allows microscopic metal-to-metal contact; in hydrodynamic lubrication, a thick film prevents it", "isCorrect": true },
+      { "text": "Boundary lubrication uses solid graphite; hydrodynamic lubrication uses gaseous nitrogen", "isCorrect": false },
+      { "text": "There is no difference; both eliminate friction completely", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 8",
+    "subject": "Science",
+    "difficulty": "Very Hard",
+    "text": "A wooden block rests on a horizontal plane. If the plane is tilted to an angle of \\\\(45^\\\\circ\\\\) to the horizontal, how do the normal force and the maximum static friction force change compared to their initial values?",
+    "explanation": "The normal force on an incline is \\\\(N = mg \\\\cos \\\\theta\\\\). At \\\\(45^\\\\circ\\\\), \\\\(N = mg / \\\\sqrt{2}\\\\). Since maximum static friction is \\\\(f_s = \\\\mu_s N\\\\), both forces decrease by a factor of \\\\(\\\\sqrt{2}\\\\).",
+    "options": [
+      { "text": "Both forces remain unchanged", "isCorrect": false },
+      { "text": "Both forces decrease by a factor of \\\\(\\\\sqrt{2}\\\\)", "isCorrect": true },
+      { "text": "Normal force decreases, but maximum static friction increases", "isCorrect": false },
+      { "text": "Both forces double because of the slope", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 8",
+    "subject": "Science",
+    "difficulty": "Very Hard",
+    "text": "A resonance column tube is filled with water, and a tuning fork of frequency \\\\(512 \\\\text{ Hz}\\\\) is vibrated over its open end. If the first resonance is heard when the air column is \\\\(16 \\\\text{ cm}\\\\) long, at what length will the second resonance be heard?",
+    "explanation": "A resonance column acts as a tube closed at one end. Resonances occur at odd multiples of quarter wavelengths (\\\\(\\n/4, 3\\lambda/4, 5\\lambda/4\\\\)). If the first is at \\\\(16 \\\\text{ cm}\\\\), the second occurs at \\\\(3 \\\\times 16 = 48 \\\\text{ cm}\\\\).",
+    "options": [
+      { "text": "\\\\(32 \\\\text{ cm}\\\\)", "isCorrect": false },
+      { "text": "\\\\(48 \\\\text{ cm}\\\\)", "isCorrect": true },
+      { "text": "\\\\(64 \\\\text{ cm}\\\\)", "isCorrect": false },
+      { "text": "\\\\(80 \\\\text{ cm}\\\\)", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 8",
+    "subject": "Science",
+    "difficulty": "Very Hard",
+    "text": "A train sounding its whistle of frequency \\\\(600 \\\\text{ Hz}\\\\) is moving towards a stationary observer. How does the observer perceive the whistle, and what happens to the sound waves in front of the train?",
+    "explanation": "Due to the Doppler effect, the frequency heard is higher than \\\\(600 \\\\text{ Hz}\\\\) because the moving train compresses the sound waves in front of it, shortening their wavelength.",
+    "options": [
+      { "text": "The pitch is lower, and the wavelength is stretched", "isCorrect": false },
+      { "text": "The pitch is higher, and the wavelength in front of the train is compressed", "isCorrect": true },
+      { "text": "The pitch and wavelength remain completely unchanged", "isCorrect": false },
+      { "text": "The sound is louder but the frequency drops to zero", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 8",
+    "subject": "Science",
+    "difficulty": "Very Hard",
+    "text": "The Richter scale is a logarithmic scale for earthquake magnitudes. If the amplitude of the seismic waves of an earthquake increases by \\\\(100\\\\) times, by how many units does its magnitude increase on the Richter scale?",
+    "explanation": "The Richter magnitude is given by \\\\(M = \\\\log_{10}(A / A_0)\\\\). An increase in amplitude by \\\\(100\\\\) times (\\\\(10^2\\\\)) corresponds to an increase of \\\\(2\\\\) units on the Richter scale.",
+    "options": [
+      { "text": "It increases by \\\\(10\\\\) units", "isCorrect": false },
+      { "text": "It increases by \\\\(2\\\\) units", "isCorrect": true },
+      { "text": "It increases by \\\\(100\\\\) units", "isCorrect": false },
+      { "text": "It increases by \\\\(50\\\\) units", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 8",
+    "subject": "Science",
+    "difficulty": "Very Hard",
+    "text": "Two plane mirrors are inclined at an angle of \\\\(72^\\\\circ\\\\). An object is placed symmetrically between them. How many images of the object will be formed?",
+    "explanation": "The ratio \\\\(360 / \\\\theta = 360 / 72 = 5\\\\) (which is odd). For symmetrical placement, the number of images formed is \\\\(n = (360 / \\\\theta) - 1 = 5 - 1 = 4\\\\) images.",
+    "options": [
+      { "text": "Five images", "isCorrect": false },
+      { "text": "Four images", "isCorrect": true },
+      { "text": "Six images", "isCorrect": false },
+      { "text": "Three images", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 8",
+    "subject": "Science",
+    "difficulty": "Very Hard",
+    "text": "A coin lies at the bottom of a beaker filled with water (refractive index \\\\(4/3\\\\)) to a depth of \\\\(12 \\\\text{ cm}\\\\). What is the apparent depth of the coin when viewed vertically from above?",
+    "explanation": "Apparent depth is calculated by dividing the real depth by the refractive index: \\\\(\\\\text{Apparent Depth} = 12 \\\\text{ cm} / (4/3) = 9 \\\\text{ cm}\\\\).",
+    "options": [
+      { "text": "\\\\(16 \\\\text{ cm}\\\\)", "isCorrect": false },
+      { "text": "\\\\(9 \\\\text{ cm}\\\\)", "isCorrect": true },
+      { "text": "\\\\(6 \\\\text{ cm}\\\\)", "isCorrect": false },
+      { "text": "\\\\(8 \\\\text{ cm}\\\\)", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 8",
+    "subject": "Science",
+    "difficulty": "Very Hard",
+    "text": "What is the anatomical cause of the vision defect known as astigmatism, and what lens is used for its correction?",
+    "explanation": "Astigmatism is caused by an irregular, non-spherical curvature of the cornea or lens, which prevents light from focusing on a single point. It is corrected using cylindrical lenses.",
+    "options": [
+      { "text": "Elongation of the eyeball; corrected using concave lenses", "isCorrect": false },
+      { "text": "Irregular curvature of the cornea or lens; corrected using cylindrical lenses", "isCorrect": true },
+      { "text": "Stiffening of the ciliary muscles; corrected using bifocal lenses", "isCorrect": false },
+      { "text": "Opacity of the crystalline lens; corrected using convex lenses", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 8",
+    "subject": "Science",
+    "difficulty": "Very Hard",
+    "text": "DDT is a non-biodegradable pesticide. Why does its concentration increase dramatically at successive trophic levels in a food chain?",
+    "explanation": "DDT is highly lipid-soluble and cannot be metabolized or excreted by organisms. As a result, it accumulates in body tissues and its concentration increases up the food chain (biomagnification).",
+    "options": [
+      { "text": "Because predators absorb DDT directly from the atmosphere", "isCorrect": false },
+      { "text": "Because DDT is lipid-soluble, not metabolized, and accumulates up the food chain", "isCorrect": true },
+      { "text": "Because plants synthesize more DDT to protect themselves from herbivores", "isCorrect": false },
+      { "text": "Because DDT evaporates at lower trophic levels and condenses at higher levels", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 8",
+    "subject": "Science",
+    "difficulty": "Very Hard",
+    "text": "Clostridium botulinum produces botulinum toxin (botox), one of the most lethal biological toxins. What is its neurotoxic mechanism of action?",
+    "explanation": "Botulinum toxin prevents the release of the neurotransmitter acetylcholine from motor neurons at the neuromuscular junction, preventing muscle contraction and causing flaccid paralysis.",
+    "options": [
+      { "text": "It destroys myelin sheaths in the central nervous system", "isCorrect": false },
+      { "text": "It blocks acetylcholine release at the neuromuscular junction, causing flaccid paralysis", "isCorrect": true },
+      { "text": "It causes continuous firing of electrical impulses, leading to spastic spasms", "isCorrect": false },
+      { "text": "It blocks sodium channels in sensory nerves, eliminating pain signals", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 8",
+    "subject": "Science",
+    "difficulty": "Very Hard",
+    "text": "Carbon nanotubes are cylinders of rolled graphene sheets. What structural features explain their exceptional mechanical strength and electrical conductivity?",
+    "explanation": "They have strong, covalent carbon-carbon sp2 bonds that provide tensile strength, and delocalized pi electrons that can move freely along the tube axis, allowing excellent electrical conductivity.",
+    "options": [
+      { "text": "They contain ionic metal alloys inside their hollow tubes", "isCorrect": false },
+      { "text": "They possess strong sp2 covalent bonds and delocalized pi electrons", "isCorrect": true },
+      { "text": "They form weak hydrogen bonds that act like microscopic springs", "isCorrect": false },
+      { "text": "They consist of amorphous carbon chains held by ionic attraction", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 8",
+    "subject": "Science",
+    "difficulty": "Very Hard",
+    "text": "In a burning candle or gas flame, why does the outermost non-luminous (blue) zone have the highest temperature?",
+    "explanation": "The outermost zone has unlimited access to oxygen from the surrounding air. This allows complete combustion of the fuel, releasing all stored chemical energy as heat without producing light-absorbing soot.",
+    "options": [
+      { "text": "Because the blue light wave carries higher thermal energy than yellow light", "isCorrect": false },
+      { "text": "Because complete combustion occurs here due to unlimited access to oxygen", "isCorrect": true },
+      { "text": "Because the unburnt wax vapors decompose and absorb heat in this zone", "isCorrect": false },
+      { "text": "Because carbon dioxide gas acts as a heat conductor in this region", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 8",
+    "subject": "Science",
+    "difficulty": "Very Hard",
+    "text": "In a hydrogen-oxygen fuel cell, what chemical reaction occurs at the anode, and what is the only by-product of the overall cell reaction?",
+    "explanation": "At the anode, hydrogen gas is oxidized (\\\\(2\\\\text{H}_2 \\\\rightarrow 4\\\\text{H}^+ + 4\\\\text{e}^-\\\\)). The hydrogen ions combine with reduced oxygen at the cathode to form water, which is the only by-product.",
+    "options": [
+      { "text": "Anode: Oxygen is reduced; By-product: Carbon dioxide", "isCorrect": false },
+      { "text": "Anode: Hydrogen is oxidized; By-product: Water", "isCorrect": true },
+      { "text": "Anode: Water is split; By-product: Hydrogen peroxide", "isCorrect": false },
+      { "text": "Anode: Hydroxide is oxidized; By-product: Nitrogen gas", "isCorrect": false }
+    ]
+  }
+]

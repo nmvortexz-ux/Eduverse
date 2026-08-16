@@ -1,0 +1,327 @@
+[
+  {
+    "class": "Class 9",
+    "subject": "English",
+    "difficulty": "E",
+    "text": "What did the doctor in 'The Snake and the Mirror' see on the table that attracted the snake?",
+    "explanation": "The snake wriggled onto the table and looked into the mirror, seemingly fascinated by its own reflection.",
+    "options": [
+      { "text": "A plate of milk", "isCorrect": false },
+      { "text": "A mirror", "isCorrect": true },
+      { "text": "A medical box", "isCorrect": false },
+      { "text": "A kerosene lamp", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 9",
+    "subject": "English",
+    "difficulty": "E",
+    "text": "Who is the poet of the poem 'No Men Are Foreign'?",
+    "explanation": "The poem 'No Men Are Foreign' is written by James Kirkup.",
+    "options": [
+      { "text": "James Kirkup", "isCorrect": true },
+      { "text": "Gieve Patel", "isCorrect": false },
+      { "text": "William Wordsworth", "isCorrect": false },
+      { "text": "Edward Lear", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 9",
+    "subject": "English",
+    "difficulty": "E",
+    "text": "In 'The Happy Prince', what did the Swallow do with the ruby given by the Prince?",
+    "explanation": "The Swallow flew to the poor seamstress's house and laid the great ruby on the table beside her thimble.",
+    "options": [
+      { "text": "He sold it in the market", "isCorrect": false },
+      { "text": "He laid it on the seamstress's table", "isCorrect": true },
+      { "text": "He dropped it in the river", "isCorrect": false },
+      { "text": "He gave it to a hungry writer", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 9",
+    "subject": "English",
+    "difficulty": "E",
+    "text": "In 'My Childhood', what did Kalam's father teach him about prayer?",
+    "explanation": "He told Kalam that prayer transcends one's body and makes one a part of the cosmos, which knows no division of wealth, age, caste, or creed.",
+    "options": [
+      { "text": "That prayer is only for special occasions", "isCorrect": false },
+      { "text": "That prayer connects a person to the cosmos, transcending divisions", "isCorrect": true },
+      { "text": "That prayer should be done silently in a corner", "isCorrect": false },
+      { "text": "That prayer is meant only to ask for wealth", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 9",
+    "subject": "English",
+    "difficulty": "E",
+    "text": "In 'If I Were You', what is Gerrard's profession?",
+    "explanation": "Gerrard is a playwright who writes theatrical plays and works with stage props.",
+    "options": [
+      { "text": "A school teacher", "isCorrect": false },
+      { "text": "A playwright", "isCorrect": true },
+      { "text": "A police inspector", "isCorrect": false },
+      { "text": "A jewelry merchant", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 9",
+    "subject": "English",
+    "difficulty": "E",
+    "text": "In 'A Legend of the Northland', where did the old woman keep her cakes?",
+    "explanation": "The greedy old woman kept the cakes on the shelf, refusing to give even the smallest one to Saint Peter.",
+    "options": [
+      { "text": "In a basket outside", "isCorrect": false },
+      { "text": "On the hearth shelf", "isCorrect": true },
+      { "text": "In her bag", "isCorrect": false },
+      { "text": "Under the table", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 9",
+    "subject": "English",
+    "difficulty": "M",
+    "text": "In 'Reach for the Top', how did Maria Sharapova's fellow pupils at the Florida academy treat her?",
+    "explanation": "Since Maria was younger, she went to bed early, and the older pupils would wake her up at 11 PM and order her to clean the room.",
+    "options": [
+      { "text": "They supported her training sessions", "isCorrect": false },
+      { "text": "They woke her up late at night and made her tidy the room", "isCorrect": true },
+      { "text": "They celebrated her matches at the academy", "isCorrect": false },
+      { "text": "They complained to her coach about her schedule", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 9",
+    "subject": "English",
+    "difficulty": "M",
+    "text": "Choose the correct indirect speech form: 'The doctor said to him, \"Take medicine twice a day.\"'",
+    "explanation": "The doctor's statement is advice/instruction, so 'said to' changes to 'advised' followed by the infinitive 'to take'.",
+    "options": [
+      { "text": "The doctor told him that he must take medicine twice a day.", "isCorrect": false },
+      { "text": "The doctor advised him to take medicine twice a day.", "isCorrect": true },
+      { "text": "The doctor ordered him to take medicine twice a day.", "isCorrect": false },
+      { "text": "The doctor said him to take medicine twice a day.", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 9",
+    "subject": "English",
+    "difficulty": "M",
+    "text": "In the poem 'Rain on the Roof', what does the phrase 'busy start' or 'busy life' refer to when the poet is in bed?",
+    "explanation": "The poet describes how a thousand recollection busy thoughts start building up in his mind as he listens to the rain.",
+    "options": [
+      { "text": "The daily work of the town merchants", "isCorrect": false },
+      { "text": "A thousand busy recollections starting in the poet's mind", "isCorrect": true },
+      { "text": "The hustle of the local railway station", "isCorrect": false },
+      { "text": "The animals moving to find shelter", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 9",
+    "subject": "English",
+    "difficulty": "M",
+    "text": "Fill in the blank with the correct modal verb: 'We ___ respect our elders.'",
+    "explanation": "'Ought to' expresses moral duty and obligation, which is the most suitable modal for this context.",
+    "options": [
+      { "text": "might", "isCorrect": false },
+      { "text": "ought to", "isCorrect": true },
+      { "text": "could", "isCorrect": false },
+      { "text": "would", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 9",
+    "subject": "English",
+    "difficulty": "M",
+    "text": "In 'The Fun They Had', what did Margie think was special about the old kind of schools?",
+    "explanation": "She thought it must have been fun because all the kids from the neighborhood came together, laughed and shouted in the schoolyard, and learned the same things.",
+    "options": [
+      { "text": "That the mechanical teachers were faster", "isCorrect": false },
+      { "text": "That kids from the neighborhood went together, sat in the same room, and could help each other", "isCorrect": true },
+      { "text": "That there were no tests or examinations", "isCorrect": false },
+      { "text": "That kids could study from their bedrooms", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 9",
+    "subject": "English",
+    "difficulty": "M",
+    "text": "In 'Kathmandu', what does the author compare the look of the Baudhnath stupa to?",
+    "explanation": "He describes its white dome as ringed by a road, with small shops around it, resembling a quiet haven.",
+    "options": [
+      { "text": "A bustling railway platform", "isCorrect": false },
+      { "text": "A quiet haven of peace amidst the city", "isCorrect": true },
+      { "text": "A medieval fortress", "isCorrect": false },
+      { "text": "An ancient university campus", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 9",
+    "subject": "English",
+    "difficulty": "M",
+    "text": "Choose the correct sentence with proper subject-verb agreement: 'Bread and butter ___ my favorite breakfast.'",
+    "explanation": "When two singular nouns represent a single collective idea/food item (like 'bread and butter'), they take a singular verb 'is'.",
+    "options": [
+      { "text": "are", "isCorrect": false },
+      { "text": "is", "isCorrect": true },
+      { "text": "were", "isCorrect": false },
+      { "text": "have been", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 9",
+    "subject": "English",
+    "difficulty": "M",
+    "text": "In 'In the Kingdom of Fools', why did the Guru and his disciple decide to visit the kingdom?",
+    "explanation": "They arrived as travelers; they did not know it was a kingdom of fools beforehand, but they discovered it when they saw people sleeping during the day and working at night.",
+    "options": [
+      { "text": "Because they were invited by the king", "isCorrect": false },
+      { "text": "They visited it by chance during their travels and found its systems strange", "isCorrect": true },
+      { "text": "Because they wanted to buy cheap groceries", "isCorrect": false },
+      { "text": "Because they wanted to set up a new school", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 9",
+    "subject": "English",
+    "difficulty": "M",
+    "text": "Change this active sentence to passive: 'The cat killed the mouse.'",
+    "explanation": "Simple past active 'killed' changes to 'was killed' in passive voice.",
+    "options": [
+      { "text": "The mouse is killed by the cat.", "isCorrect": false },
+      { "text": "The mouse was killed by the cat.", "isCorrect": true },
+      { "text": "The mouse has been killed by the cat.", "isCorrect": false },
+      { "text": "The mouse had been killed by the cat.", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 9",
+    "subject": "English",
+    "difficulty": "H",
+    "text": "In 'A Truly Beautiful Mind', why did Albert Einstein write a letter to the United Nations proposing a world government?",
+    "explanation": "Deeply shaken by the atomic bombings of Hiroshima and Nagasaki, he wanted a world organization to prevent future military conflicts.",
+    "options": [
+      { "text": "To get support for his research on relativity", "isCorrect": false },
+      { "text": "To prevent future use of atomic weapons by establishing a world government", "isCorrect": true },
+      { "text": "To ask for funding for refugee scientists", "isCorrect": false },
+      { "text": "To resolve border disputes between European nations", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 9",
+    "subject": "English",
+    "difficulty": "H",
+    "text": "Identify the option that corrects the error in this sentence: 'If I will study hard, I will pass the examination.'",
+    "explanation": "In first conditional sentences, the condition clause ('if' clause) must use the present simple tense ('study'), not the future tense ('will study').",
+    "options": [
+      { "text": "Change 'will study' to 'study'", "isCorrect": true },
+      { "text": "Change 'will pass' to 'passed'", "isCorrect": false },
+      { "text": "Change 'If' to 'Unless'", "isCorrect": false },
+      { "text": "Change 'will pass' to 'would pass'", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 9",
+    "subject": "English",
+    "difficulty": "H",
+    "text": "In the poem 'On Killing a Tree', what does the phrase 'anchoring earth' represent relative to the life of a tree?",
+    "explanation": "It refers to the protective soil that feeds and holds the tree's roots, which are its most sensitive, hidden part.",
+    "options": [
+      { "text": "The dry sand where roots cannot survive", "isCorrect": false },
+      { "text": "The secure soil which holds the root (the source of the tree's strength)", "isCorrect": true },
+      { "text": "The leaves that fall and turn into compost", "isCorrect": false },
+      { "text": "The branches that spread out to catch rain", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 9",
+    "subject": "English",
+    "difficulty": "H",
+    "text": "In 'The Sound of Music' (Part I), how did Ron Forbes teach Evelyn to feel the higher and lower notes?",
+    "explanation": "He tuned two large drums to different notes, asking her to feel the higher drum from the waist up and the lower one from the waist down.",
+    "options": [
+      { "text": "By asking her to read the vibration charts on paper", "isCorrect": false },
+      { "text": "By tuning two drums and asking her to feel the vibrations in different parts of her body", "isCorrect": true },
+      { "text": "By using electronic sound synthesizers", "isCorrect": false },
+      { "text": "By playing the flute close to her hands", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 9",
+    "subject": "English",
+    "difficulty": "H",
+    "text": "Fill in the blank with the correct preposition: 'He was accused ___ theft by the police.'",
+    "explanation": "The verb 'accused' is followed by the preposition 'of' when indicating the charge/crime.",
+    "options": [
+      { "text": "for", "isCorrect": false },
+      { "text": "of", "isCorrect": true },
+      { "text": "with", "isCorrect": false },
+      { "text": "by", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 9",
+    "subject": "English",
+    "difficulty": "H",
+    "text": "In 'A House Is Not a Home', why did the author feel his cat was a symbol of his recovery?",
+    "explanation": "The return of the cat coincided with his feeling that his life was starting to feel normal and secure again.",
+    "options": [
+      { "text": "Because the cat had survived the fire without any injuries", "isCorrect": false },
+      { "text": "Because the cat's return brought back his sense of comfort and helped him rebuild his life emotionally", "isCorrect": true },
+      { "text": "Because his schoolmates bought him the cat as a gift", "isCorrect": false },
+      { "text": "Because the cat caught mice in the temporary apartment", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 9",
+    "subject": "English",
+    "difficulty": "VH",
+    "text": "In the poem 'A Slumber Did My Spirit Seal', what is the significance of the description 'She seemed a thing that could not feel / The touch of earthly years' in the context of the poet's grief?",
+    "explanation": "It highlights the poet's naive past state of mind, where he believed Lucy was immune to aging and mortality, making her sudden death even more shocking.",
+    "options": [
+      { "text": "It shows that she was physically disabled during her lifetime", "isCorrect": false },
+      { "text": "It highlights his past naive belief in her immortality, contrasting with the reality of her death", "isCorrect": true },
+      { "text": "It suggests she was a supernatural being or fairy", "isCorrect": false },
+      { "text": "It refers to her lack of emotion during her childhood", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 9",
+    "subject": "English",
+    "difficulty": "VH",
+    "text": "Analyze the grammar: 'She requested that he ___ not make a decision without consulting her.' Which option represents correct subjunctive usage?",
+    "explanation": "The subjunctive verb form following a verb of demand/request (like 'request that') is the base form (bare infinitive 'do' or 'be'). For negative subjunctive, it is 'not + base verb'.",
+    "options": [
+      { "text": "does", "isCorrect": false },
+      { "text": "should", "isCorrect": false },
+      { "text": "did", "isCorrect": false },
+      { "text": "do", "isCorrect": true }
+    ]
+  },
+  {
+    "class": "Class 9",
+    "subject": "English",
+    "difficulty": "VH",
+    "text": "What is the key symbolic message of the poem 'Wind' when the poet says, 'He makes strong fires roar and flourish'?",
+    "explanation": "The poem teaches that adversity and struggles destroy the weak, but strengthen and expand those who are already resilient and strong.",
+    "options": [
+      { "text": "We should use wind energy to generate electricity", "isCorrect": false },
+      { "text": "Adversities destroy the weak but strengthen and empower those who build inner resilience", "isCorrect": true },
+      { "text": "Forest fires are caused by heavy winds in summer", "isCorrect": false },
+      { "text": "We must extinguish weak fires to save energy", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 9",
+    "subject": "English",
+    "difficulty": "VH",
+    "text": "Identify the grammatical clause type of the underlined segment: 'The boy <u>who scored the highest marks</u> was awarded a scholarship.'",
+    "explanation": "The clause 'who scored the highest marks' defines and modifies the noun 'boy', so it is an Adjective (Relative) Clause.",
+    "options": [
+      { "text": "Noun Clause", "isCorrect": false },
+      { "text": "Adjective Clause", "isCorrect": true },
+      { "text": "Adverb Clause of Purpose", "isCorrect": false },
+      { "text": "Noun Clause in Apposition", "isCorrect": false }
+    ]
+  }
+]

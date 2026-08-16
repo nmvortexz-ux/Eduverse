@@ -1,0 +1,327 @@
+[
+  {
+    "class": "Class 10",
+    "subject": "English",
+    "difficulty": "EASY",
+    "text": "What did Lencho write on the envelope of the letter containing his request for money?",
+    "explanation": "Lencho wrote 'To God' on the envelope, placed the letter inside, and went to town to post it.",
+    "options": [
+      { "text": "To God", "isCorrect": true },
+      { "text": "To the Postmaster", "isCorrect": false },
+      { "text": "To the Mayor", "isCorrect": false },
+      { "text": "To my Family", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 10",
+    "subject": "English",
+    "difficulty": "EASY",
+    "text": "How many deputy presidents were sworn in during the South African democratic inauguration ceremony?",
+    "explanation": "Two deputy presidents were sworn in: Mr. de Klerk as second deputy president, and Thabo Mbeki as first deputy president.",
+    "options": [
+      { "text": "Two", "isCorrect": true },
+      { "text": "One", "isCorrect": false },
+      { "text": "Three", "isCorrect": false },
+      { "text": "None", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 10",
+    "subject": "English",
+    "difficulty": "EASY",
+    "text": "In 'A Triumph of Surgery', what did Mrs. Pumphrey mistakenly believe Tricki was suffering from?",
+    "explanation": "Mrs. Pumphrey thought Tricki was listless because he lacked energy, so she assumed he was suffering from malnutrition and began overfeeding him.",
+    "options": [
+      { "text": "Malnutrition", "isCorrect": true },
+      { "text": "A viral fever", "isCorrect": false },
+      { "text": "Rabies", "isCorrect": false },
+      { "text": "Dehydration", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 10",
+    "subject": "English",
+    "difficulty": "EASY",
+    "text": "In Robert Frost's poem 'Fire and Ice', what does the element of 'Ice' symbolize?",
+    "explanation": "Ice symbolizes hatred, coldness of heart, rigidity, and indifference among human beings.",
+    "options": [
+      { "text": "Hatred and indifference", "isCorrect": true },
+      { "text": "Greed and lust", "isCorrect": false },
+      { "text": "Warmth and affection", "isCorrect": false },
+      { "text": "Jealousy and anger", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 10",
+    "subject": "English",
+    "difficulty": "EASY",
+    "text": "In 'The Thief's Story', what educational skills did Anil teach Hari Singh?",
+    "explanation": "Anil taught Hari Singh how to write his name, promised to teach him to write whole sentences, and to add numbers.",
+    "options": [
+      { "text": "Writing his name, writing whole sentences, and adding numbers.", "isCorrect": true },
+      { "text": "Basic computer operation and typing.", "isCorrect": false },
+      { "text": "Reading newspapers and writing business letters.", "isCorrect": false },
+      { "text": "Speaking English fluently and public speaking.", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 10",
+    "subject": "English",
+    "difficulty": "EASY",
+    "text": "Fill in the blank with the correct determiner: He has ________ knowledge on the subject, which is why he failed the test.",
+    "explanation": "'Little' has a negative meaning, implying almost none, which fits the context of failing a test due to lack of knowledge.",
+    "options": [
+      { "text": "little", "isCorrect": true },
+      { "text": "a little", "isCorrect": false },
+      { "text": "few", "isCorrect": false },
+      { "text": "a few", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 10",
+    "subject": "English",
+    "difficulty": "MEDIUM",
+    "text": "What was the title of the first essay Anne Frank was assigned by Mr. Keesing as a punishment?",
+    "explanation": "As a punishment for talking in class, Mr. Keesing assigned her an essay titled 'A Chatterbox'.",
+    "options": [
+      { "text": "A Chatterbox", "isCorrect": true },
+      { "text": "An Incorrigible Chatterbox", "isCorrect": false },
+      { "text": "Quack, Quack, Quack, said Mistress Chatterbox", "isCorrect": false },
+      { "text": "My Diary and I", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 10",
+    "subject": "English",
+    "difficulty": "MEDIUM",
+    "text": "In 'His First Flight', how did the mother seagull trick the young seagull into flying?",
+    "explanation": "She flew close to him with a piece of fish in her beak but halted just out of his reach, prompting him to dive for the food in hunger.",
+    "options": [
+      { "text": "She stood near him with food and stopped just out of his reach, forcing him to dive.", "isCorrect": true },
+      { "text": "She pushed him off the ledge when he was not looking.", "isCorrect": false },
+      { "text": "She pretended to be attacked by a larger bird.", "isCorrect": false },
+      { "text": "She flew away with all his siblings, leaving him alone.", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 10",
+    "subject": "English",
+    "difficulty": "MEDIUM",
+    "text": "In 'A Tiger in the Zoo', why does the tiger ignore the visitors walking past his cage?",
+    "explanation": "The tiger feels restricted and helpless behind the bars, realizing that his strength is locked up and the visitors pose no interest or threat to him.",
+    "options": [
+      { "text": "Because he is helpless and his strength is restricted behind bars.", "isCorrect": true },
+      { "text": "Because he is sleeping and does not hear them.", "isCorrect": false },
+      { "text": "Because the visitors are feeding him meat.", "isCorrect": false },
+      { "text": "Because he is trained to behave politely in front of humans.", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 10",
+    "subject": "English",
+    "difficulty": "MEDIUM",
+    "text": "Choose the correct indirect form of: My father said, 'Honesty is the best policy.'",
+    "explanation": "Universal truths, habitual facts, or geographical facts do not change their tense in reported speech, even if the reporting verb is in the past tense.",
+    "options": [
+      { "text": "My father said that honesty is the best policy.", "isCorrect": true },
+      { "text": "My father said that honesty was the best policy.", "isCorrect": false },
+      { "text": "My father told me that honesty is the best policy.", "isCorrect": false },
+      { "text": "My father suggested that honesty had been the best policy.", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 10",
+    "subject": "English",
+    "difficulty": "MEDIUM",
+    "text": "Where was Ausable's room located in the hotel in 'The Midnight Visitor'?",
+    "explanation": "Ausable's small room was on the sixth and top floor of a musty, gloomy French hotel.",
+    "options": [
+      { "text": "On the sixth and top floor", "isCorrect": true },
+      { "text": "On the ground floor next to the lobby", "isCorrect": false },
+      { "text": "On the third floor with a balcony view", "isCorrect": false },
+      { "text": "In the basement of the hotel", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 10",
+    "subject": "English",
+    "difficulty": "MEDIUM",
+    "text": "What was Valli's favorite pastime in the story 'Madam Rides the Bus'?",
+    "explanation": "Valli did not have playmates of her own age, so her favorite pastime was standing in the front doorway of her house and watching the street.",
+    "options": [
+      { "text": "Standing in the front doorway of her house and watching the street.", "isCorrect": true },
+      { "text": "Playing with other children in the village playground.", "isCorrect": false },
+      { "text": "Reading fairy tales and storybooks.", "isCorrect": false },
+      { "text": "Drawing sketches of buses and passengers.", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 10",
+    "subject": "English",
+    "difficulty": "MEDIUM",
+    "text": "Fill in the blank with the correct form of the verb: Neither the teacher nor the students ________ present.",
+    "explanation": "When two subjects are joined by 'neither... nor', the verb agrees with the subject closer to it. 'Students' is plural, so the verb must be plural ('were').",
+    "options": [
+      { "text": "were", "isCorrect": true },
+      { "text": "was", "isCorrect": false },
+      { "text": "is", "isCorrect": false },
+      { "text": "has been", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 10",
+    "subject": "English",
+    "difficulty": "HARD",
+    "text": "In 'A Question of Trust', how often did Horace Danby commit a robbery, and for what purpose?",
+    "explanation": "Horace robbed a safe once a year, planning carefully to get enough money to buy rare and expensive books that he loved.",
+    "options": [
+      { "text": "Once a year; to buy rare and expensive books.", "isCorrect": true },
+      { "text": "Every month; to pay off his debts.", "isCorrect": false },
+      { "text": "Once a year; to donate money to an orphanage.", "isCorrect": false },
+      { "text": "Every week; to buy locks and safe parts.", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 10",
+    "subject": "English",
+    "difficulty": "HARD",
+    "text": "In 'The Ball Poem', why does the poet decide not to intrude on the boy or offer him money to buy another ball?",
+    "explanation": "The poet realizes that money cannot buy back the emotional attachment and memories the boy had with that specific ball; he wants the boy to learn the lesson of loss.",
+    "options": [
+      { "text": "Because another ball or money is worthless compared to the memories attached to the lost ball.", "isCorrect": true },
+      { "text": "Because the poet did not have any money with him at that time.", "isCorrect": false },
+      { "text": "Because the boy was arrogant and would reject the offer.", "isCorrect": false },
+      { "text": "Because the poet wanted to buy a new ball for himself.", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 10",
+    "subject": "English",
+    "difficulty": "HARD",
+    "text": "Which book, gifted by his mother, opened the world of science to Richard Ebright in 'The Making of a Scientist'?",
+    "explanation": "The children's book 'The Travels of Monarch X' described how monarch butterflies migrate to Central America, sparking Ebright's interest in science.",
+    "options": [
+      { "text": "The Travels of Monarch X", "isCorrect": true },
+      { "text": "The Origin of Species", "isCorrect": false },
+      { "text": "A Brief History of Time", "isCorrect": false },
+      { "text": "The Life of Butterflies", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 10",
+    "subject": "English",
+    "difficulty": "HARD",
+    "text": "Fill in the blank with the appropriate modal verb: You ________ not smoke inside the hospital premises.",
+    "explanation": "'Must' is used to express strong obligation or prohibition, which is appropriate for hospital rules.",
+    "options": [
+      { "text": "must", "isCorrect": true },
+      { "text": "need", "isCorrect": false },
+      { "text": "ought", "isCorrect": false },
+      { "text": "would", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 10",
+    "subject": "English",
+    "difficulty": "HARD",
+    "text": "In 'The Necklace', how long did it take for Matilda and her husband to pay off the debt incurred for replacing the lost necklace?",
+    "explanation": "They had to rent a garret, dismiss their servant, and work day and night for ten long years to pay back all their creditors.",
+    "options": [
+      { "text": "Ten years", "isCorrect": true },
+      { "text": "Five years", "isCorrect": false },
+      { "text": "One year", "isCorrect": false },
+      { "text": "Twelve years", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 10",
+    "subject": "English",
+    "difficulty": "HARD",
+    "text": "In Chekhov's play 'The Proposal', what physical ailment does Lomov suffer from?",
+    "explanation": "Lomov is a hypochondriac who suffers from palpitations, a nervous temperament, insomnia, and cold limbs.",
+    "options": [
+      { "text": "Palpitations and sleep trouble", "isCorrect": true },
+      { "text": "Chronic asthma", "isCorrect": false },
+      { "text": "Memory loss", "isCorrect": false },
+      { "text": "Arthritis", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 10",
+    "subject": "English",
+    "difficulty": "VERY HARD",
+    "text": "In the poem 'Amanda!', why does Amanda express a desire to be an orphan?",
+    "explanation": "Amanda wants to escape her mother's constant nagging and restrictions, imagining that an orphan enjoys absolute freedom to roam the streets in silence.",
+    "options": [
+      { "text": "To escape constant parental nagging and enjoy absolute freedom on the streets.", "isCorrect": true },
+      { "text": "Because she does not love her parents at all.", "isCorrect": false },
+      { "text": "To live in a grand orphanage with other kids.", "isCorrect": false },
+      { "text": "Because she thinks orphans have more money than her.", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 10",
+    "subject": "English",
+    "difficulty": "VERY HARD",
+    "text": "What was Bholi's real name, and why was she commonly called 'Bholi' (simpleton) since childhood?",
+    "explanation": "Her name was Sulekha. When she was ten months old, she fell off her cot, damaging a part of her brain, which made her a slow learner and a simpleton.",
+    "options": [
+      { "text": "Sulekha; she fell off her cot in infancy, damaging a part of her brain.", "isCorrect": true },
+      { "text": "Radha; she had smallpox which affected her mental capacity.", "isCorrect": false },
+      { "text": "Mangla; she was born deaf and could not understand instructions.", "isCorrect": false },
+      { "text": "Champa; she was neglected by her parents and did not go to school.", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 10",
+    "subject": "English",
+    "difficulty": "VERY HARD",
+    "text": "In 'A Baker from Goa', what is the local term for the traditional baker, and what was their unique dress called?",
+    "explanation": "The traditional baker is called a 'Pader', and they used to wear a peculiar one-piece long frock reaching down to the knees called 'Kabai'.",
+    "options": [
+      { "text": "Pader, Kabai", "isCorrect": true },
+      { "text": "Bol, Pader", "isCorrect": false },
+      { "text": "Kabai, Pader", "isCorrect": false },
+      { "text": "Coorgi, Kuppia", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 10",
+    "subject": "English",
+    "difficulty": "VERY HARD",
+    "text": "Choose the correct indirect form of: The doctor said to him, 'Take medicines regularly.'",
+    "explanation": "Imperative sentences containing advice change reporting verb 'said to' to 'advised' or 'suggested', and verb takes infinitive 'to' form ('to take').",
+    "options": [
+      { "text": "The doctor advised him to take medicines regularly.", "isCorrect": true },
+      { "text": "The doctor ordered him that he should take medicines regularly.", "isCorrect": false },
+      { "text": "The doctor advised him that he took medicines regularly.", "isCorrect": false },
+      { "text": "The doctor suggested to him to taking medicines regularly.", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 10",
+    "subject": "English",
+    "difficulty": "VERY HARD",
+    "text": "In 'The Tale of Custard the Dragon', what are the names of Belinda's four pets?",
+    "explanation": "Belinda's pets are Ink (little black kitten), Blink (little gray mouse), Mustard (little yellow dog), and Custard (cowardly dragon).",
+    "options": [
+      { "text": "Ink, Blink, Mustard, Custard", "isCorrect": true },
+      { "text": "Blacky, Gray, Yellow, Custard", "isCorrect": false },
+      { "text": "Ink, Pink, Mustard, Dragon", "isCorrect": false },
+      { "text": "Blink, Mustard, Custard, Belinda", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 10",
+    "subject": "English",
+    "difficulty": "VERY HARD",
+    "text": "In 'The Book That Saved the Earth', who is Noodle, and what is his relation to Think-Tank?",
+    "explanation": "Noodle is Think-Tank's apprentice/assistant. He is intelligent and tactfully corrects Think-Tank's foolish interpretations without offending him.",
+    "options": [
+      { "text": "Think-Tank's apprentice who politely and tactfully corrects his mistakes.", "isCorrect": true },
+      { "text": "The ruler of Mars who orders Think-Tank's space missions.", "isCorrect": false },
+      { "text": "An Earth spy who infiltrated the Martian spaceship.", "isCorrect": false },
+      { "text": "Think-Tank's security officer who manages the space force.", "isCorrect": false }
+    ]
+  }
+]

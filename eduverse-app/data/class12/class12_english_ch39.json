@@ -1,0 +1,212 @@
+[
+  {
+    "text": "Identify the correct form of the verb in the given sentence: 'By the time I __________ (finish) my homework, it was already midnight.'",
+    "options": [
+      "had finished",
+      "finish",
+      "have finished",
+      "will finish"
+    ],
+    "correctAnswer": "had finished",
+    "explanation": "The sentence is in the past perfect tense, which is used to describe an action that occurred before another action in the past. The correct form of the verb 'finish' is 'had finished' because it occurred before midnight.",
+    "difficulty": "Easy",
+    "class": "Class 12",
+    "subject": "English",
+    "chapter": "Ch 6: Grammar & Sentence Syntax Mechanics"
+  },
+  {
+    "text": "Convert the following sentence into passive voice: 'The manager will appoint a new team leader.'",
+    "options": [
+      "A new team leader will be appointed by the manager.",
+      "The manager will appoint a new team leader.",
+      "A new team leader will be appointed.",
+      "The new team leader will be appointed by the manager."
+    ],
+    "correctAnswer": "A new team leader will be appointed by the manager.",
+    "explanation": "To convert the sentence into passive voice, we need to change the subject-verb order and add the agent of the action (the manager) in the prepositional phrase 'by the manager'.",
+    "difficulty": "Medium",
+    "class": "Class 12",
+    "subject": "English",
+    "chapter": "Ch 6: Grammar & Sentence Syntax Mechanics"
+  },
+  {
+    "text": "Identify the correct form of the verb in the given sentence: 'If I __________ (be) you, I would not have made that mistake.'",
+    "options": [
+      "am",
+      "is",
+      "were",
+      "was"
+    ],
+    "correctAnswer": "were",
+    "explanation": "The sentence is in the conditional tense, which is used to describe a hypothetical or uncertain situation. The correct form of the verb 'be' is 'were' because it is in the subjunctive mood.",
+    "difficulty": "Medium",
+    "class": "Class 12",
+    "subject": "English",
+    "chapter": "Ch 6: Grammar & Sentence Syntax Mechanics"
+  },
+  {
+    "text": "Identify the correct preposition in the given sentence: 'The book is on the table __________ the lamp.'",
+    "options": [
+      "under",
+      "above",
+      "beside",
+      "between"
+    ],
+    "correctAnswer": "beside",
+    "explanation": "The correct preposition 'beside' is used to indicate the position of the lamp in relation to the table.",
+    "difficulty": "Easy",
+    "class": "Class 12",
+    "subject": "English",
+    "chapter": "Ch 6: Grammar & Sentence Syntax Mechanics"
+  },
+  {
+    "text": "Identify the correct conjunction in the given sentence: 'I like reading books, __________ watching movies.'",
+    "options": [
+      "and",
+      "but",
+      "or",
+      "so"
+    ],
+    "correctAnswer": "and",
+    "explanation": "The correct conjunction 'and' is used to connect two clauses in the sentence.",
+    "difficulty": "Easy",
+    "class": "Class 12",
+    "subject": "English",
+    "chapter": "Ch 6: Grammar & Sentence Syntax Mechanics"
+  },
+  {
+    "text": "Identify the error in the given sentence: 'The manager and the employees are going to the meeting.'",
+    "options": [
+      "The subject-verb agreement is incorrect.",
+      "The verb tense is incorrect.",
+      "The preposition is incorrect.",
+      "The sentence is grammatically correct."
+    ],
+    "correctAnswer": "The subject-verb agreement is incorrect.",
+    "explanation": "The subject 'the manager and the employees' is a plural noun, so the verb 'are' should be in the plural form.",
+    "difficulty": "Medium",
+    "class": "Class 12",
+    "subject": "English",
+    "chapter": "Ch 6: Grammar & Sentence Syntax Mechanics"
+  },
+  {
+    "text": "Edit the following sentence: 'The company has been in business for 10 years.'",
+    "options": [
+      "The company has been in business for 10 years.",
+      "The company has been in business for a decade.",
+      "The company has been in business for 10 years now.",
+      "The company has been in business for 10 years already."
+    ],
+    "correctAnswer": "The company has been in business for a decade.",
+    "explanation": "The correct sentence uses the idiomatic expression 'a decade' to indicate a period of 10 years.",
+    "difficulty": "Medium",
+    "class": "Class 12",
+    "subject": "English",
+    "chapter": "Ch 6: Grammar & Sentence Syntax Mechanics"
+  },
+  {
+    "text": "Identify the correct form of the verb in the given sentence: 'If I __________ (not have) enough money, I would not have bought that expensive watch.'",
+    "options": [
+      "had",
+      "have",
+      "has",
+      "will have"
+    ],
+    "correctAnswer": "had",
+    "explanation": "The sentence is in the conditional tense, which is used to describe a hypothetical or uncertain situation. The correct form of the verb 'have' is 'had' because it is in the past perfect tense.",
+    "difficulty": "Medium",
+    "class": "Class 12",
+    "subject": "English",
+    "chapter": "Ch 6: Grammar & Sentence Syntax Mechanics"
+  },
+  {
+    "text": "Identify the correct preposition in the given sentence: 'The book is on the table __________ the lamp.'",
+    "options": [
+      "under",
+      "above",
+      "beside",
+      "between"
+    ],
+    "correctAnswer": "beside",
+    "explanation": "The correct preposition 'beside' is used to indicate the position of the lamp in relation to the table.",
+    "difficulty": "Easy",
+    "class": "Class 12",
+    "subject": "English",
+    "chapter": "Ch 6: Grammar & Sentence Syntax Mechanics"
+  },
+  {
+    "text": "Identify the correct conjunction in the given sentence: 'I like reading books, __________ watching movies.'",
+    "options": [
+      "and",
+      "but",
+      "or",
+      "so"
+    ],
+    "correctAnswer": "and",
+    "explanation": "The correct conjunction 'and' is used to connect two clauses in the sentence.",
+    "difficulty": "Easy",
+    "class": "Class 12",
+    "subject": "English",
+    "chapter": "Ch 6: Grammar & Sentence Syntax Mechanics"
+  },
+  {
+    "text": "Identify the error in the given sentence: 'The manager and the employees are going to the meeting.'",
+    "options": [
+      "The subject-verb agreement is incorrect.",
+      "The verb tense is incorrect.",
+      "The preposition is incorrect.",
+      "The sentence is grammatically correct."
+    ],
+    "correctAnswer": "The subject-verb agreement is incorrect.",
+    "explanation": "The subject 'the manager and the employees' is a plural noun, so the verb 'are' should be in the plural form.",
+    "difficulty": "Medium",
+    "class": "Class 12",
+    "subject": "English",
+    "chapter": "Ch 6: Grammar & Sentence Syntax Mechanics"
+  },
+  {
+    "text": "Edit the following sentence: 'The company has been in business for 10 years.'",
+    "options": [
+      "The company has been in business for 10 years.",
+      "The company has been in business for a decade.",
+      "The company has been in business for 10 years now.",
+      "The company has been in business for 10 years already."
+    ],
+    "correctAnswer": "The company has been in business for a decade.",
+    "explanation": "The correct sentence uses the idiomatic expression 'a decade' to indicate a period of 10 years.",
+    "difficulty": "Medium",
+    "class": "Class 12",
+    "subject": "English",
+    "chapter": "Ch 6: Grammar & Sentence Syntax Mechanics"
+  },
+  {
+    "text": "Identify the correct form of the verb in the given sentence: 'If I __________ (not have) enough money, I would not have bought that expensive watch.'",
+    "options": [
+      "had",
+      "have",
+      "has",
+      "will have"
+    ],
+    "correctAnswer": "had",
+    "explanation": "The sentence is in the conditional tense, which is used to describe a hypothetical or uncertain situation. The correct form of the verb 'have' is 'had' because it is in the past perfect tense.",
+    "difficulty": "Medium",
+    "class": "Class 12",
+    "subject": "English",
+    "chapter": "Ch 6: Grammar & Sentence Syntax Mechanics"
+  },
+  {
+    "text": "Identify the correct preposition in the given sentence: 'The book is on the table __________ the lamp.'",
+    "options": [
+      "under",
+      "above",
+      "beside",
+      "between"
+    ],
+    "correctAnswer": "beside",
+    "explanation": "The correct preposition 'beside' is used to indicate the position of the lamp in relation to the table.",
+    "difficulty": "Easy",
+    "class": "Class 12",
+    "subject": "English",
+    "chapter": "Ch 6: Grammar & Sentence Syntax Mechanics"
+  }
+]

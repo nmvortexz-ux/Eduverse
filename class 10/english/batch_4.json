@@ -1,0 +1,327 @@
+[
+  {
+    "class": "Class 10",
+    "subject": "English",
+    "difficulty": "EASY",
+    "text": "What action did the postmaster take to keep Lencho's faith in God unshaken?",
+    "explanation": "The postmaster decided to answer the letter, collecting money from his employees and friends to send to Lencho as an act of charity.",
+    "options": [
+      { "text": "He decided to answer the letter and collected money to send to Lencho.", "isCorrect": true },
+      { "text": "He went to Lencho's house to explain the reality.", "isCorrect": false },
+      { "text": "He threw the letter in the wastebasket.", "isCorrect": false },
+      { "text": "He reported Lencho's case to the local police.", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 10",
+    "subject": "English",
+    "difficulty": "EASY",
+    "text": "The political system of 'Apartheid' in South Africa was characterized by:",
+    "explanation": "Apartheid was a political system that separated people based on their racial groups, leading to deep oppression of black people.",
+    "options": [
+      { "text": "Racial segregation and discrimination against black people.", "isCorrect": true },
+      { "text": "Equal voting rights and representation for all races.", "isCorrect": false },
+      { "text": "Economic cooperation between neighboring nations.", "isCorrect": false },
+      { "text": "A socialist economy managed by the government.", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 10",
+    "subject": "English",
+    "difficulty": "EASY",
+    "text": "What treatment did Dr. Herriot prescribe for Tricki during the first two days of his hospital stay?",
+    "explanation": "Dr. Herriot gave Tricki no food at all but provided him with plenty of water to help his digestive system recover.",
+    "options": [
+      { "text": "No food and plenty of water.", "isCorrect": true },
+      { "text": "High protein diet and medicines.", "isCorrect": false },
+      { "text": "Fruit juices and vitamin pills.", "isCorrect": false },
+      { "text": "Daily surgeries and physical exercises.", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 10",
+    "subject": "English",
+    "difficulty": "EASY",
+    "text": "In Robert Frost's poem 'Fire and Ice', what does the element 'Fire' represent?",
+    "explanation": "Fire symbolizes desire, greed, lust, conflict, and passion which can consume and destroy humanity.",
+    "options": [
+      { "text": "Desire and greed", "isCorrect": true },
+      { "text": "Reason and logic", "isCorrect": false },
+      { "text": "Love and affection", "isCorrect": false },
+      { "text": "Indifference and hatred", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 10",
+    "subject": "English",
+    "difficulty": "EASY",
+    "text": "Why did Hari Singh change his name every month in 'The Thief's Story'?",
+    "explanation": "Hari Singh changed his name monthly to keep ahead of the police and escape his former employers.",
+    "options": [
+      { "text": "To escape the police and his former employers.", "isCorrect": true },
+      { "text": "Because he forgot his real name.", "isCorrect": false },
+      { "text": "To impress the people he met in town.", "isCorrect": false },
+      { "text": "Because it was a religious tradition.", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 10",
+    "subject": "English",
+    "difficulty": "EASY",
+    "text": "Fill in the blank with the correct determiner: Only ________ students managed to pass the exceptionally hard exam.",
+    "explanation": "'A few' has a positive meaning implying a small number of (countable) students who passed.",
+    "options": [
+      { "text": "a few", "isCorrect": true },
+      { "text": "few", "isCorrect": false },
+      { "text": "little", "isCorrect": false },
+      { "text": "a little", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 10",
+    "subject": "English",
+    "difficulty": "MEDIUM",
+    "text": "What was the topic of the second essay assigned to Anne Frank by Mr. Keesing?",
+    "explanation": "After she kept talking despite warnings, Mr. Keesing gave her a second essay titled 'An Incorrigible Chatterbox'.",
+    "options": [
+      { "text": "An Incorrigible Chatterbox", "isCorrect": true },
+      { "text": "A Chatterbox", "isCorrect": false },
+      { "text": "Quack, Quack, Quack", "isCorrect": false },
+      { "text": "The Patience of Paper", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 10",
+    "subject": "English",
+    "difficulty": "MEDIUM",
+    "text": "In 'His First Flight', how many siblings did the young seagull have?",
+    "explanation": "The young seagull had two brothers and one sister, all of whom had already learned to fly.",
+    "options": [
+      { "text": "Two brothers and one sister", "isCorrect": true },
+      { "text": "One brother and one sister", "isCorrect": false },
+      { "text": "Two brothers and two sisters", "isCorrect": false },
+      { "text": "Three brothers", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 10",
+    "subject": "English",
+    "difficulty": "MEDIUM",
+    "text": "In the poem 'A Tiger in the Zoo', what is the tiger's primary activity inside his cage?",
+    "explanation": "The tiger stalks the few steps of his cage, slow and quiet, ignoring visitors in his confined space.",
+    "options": [
+      { "text": "Stalking the quiet length of his cage.", "isCorrect": true },
+      { "text": "Roaring at the zookeepers for food.", "isCorrect": false },
+      { "text": "Playing with other tigers in the enclosure.", "isCorrect": false },
+      { "text": "Entertaining visitors with tricks.", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 10",
+    "subject": "English",
+    "difficulty": "MEDIUM",
+    "text": "Choose the correct indirect form of: She said, 'I will go to Delhi tomorrow.'",
+    "explanation": "In indirect speech, 'said' remains 'said', 'will' changes to 'would', and adverb of time 'tomorrow' changes to 'the next day' or 'the following day'.",
+    "options": [
+      { "text": "She said that she would go to Delhi the next day.", "isCorrect": true },
+      { "text": "She told that she will go to Delhi tomorrow.", "isCorrect": false },
+      { "text": "She said that she will go to Delhi the next day.", "isCorrect": false },
+      { "text": "She said that she would go to Delhi tomorrow.", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 10",
+    "subject": "English",
+    "difficulty": "MEDIUM",
+    "text": "In 'The Midnight Visitor', how did Max manage to enter Ausable's room before Ausable arrived?",
+    "explanation": "Max used a passkey (duplicate key) to enter the room quietly and wait for Ausable.",
+    "options": [
+      { "text": "He used a passkey to unlock the door.", "isCorrect": true },
+      { "text": "He climbed up the balcony outside the window.", "isCorrect": false },
+      { "text": "The waiter opened the door for him.", "isCorrect": false },
+      { "text": "He broke the window lock and entered.", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 10",
+    "subject": "English",
+    "difficulty": "MEDIUM",
+    "text": "In 'Madam Rides the Bus', what was the distance from Valli's village to the nearest town?",
+    "explanation": "The distance from Valli's village to the nearest town was six miles, taking forty-five minutes by bus.",
+    "options": [
+      { "text": "Six miles", "isCorrect": true },
+      { "text": "Ten miles", "isCorrect": false },
+      { "text": "Three miles", "isCorrect": false },
+      { "text": "Eight miles", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 10",
+    "subject": "English",
+    "difficulty": "MEDIUM",
+    "text": "Fill in the blank with the correct form of the verb: The committee ________ divided in their opinions.",
+    "explanation": "When a collective noun like 'committee' acts as individuals showing differences in opinions, it takes a plural verb ('were' / 'are').",
+    "options": [
+      { "text": "were", "isCorrect": true },
+      { "text": "was", "isCorrect": false },
+      { "text": "is", "isCorrect": false },
+      { "text": "has been", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 10",
+    "subject": "English",
+    "difficulty": "HARD",
+    "text": "In 'A Question of Trust', what was Horace Danby's age, and what was his occupation?",
+    "explanation": "Horace was about fifty years old, unmarried, and ran a successful business making locks with two assistants.",
+    "options": [
+      { "text": "About fifty years old, lockmaker.", "isCorrect": true },
+      { "text": "Thirty-five years old, jeweler.", "isCorrect": false },
+      { "text": "Forty years old, security guard.", "isCorrect": false },
+      { "text": "Fifty years old, bookkeeper.", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 10",
+    "subject": "English",
+    "difficulty": "HARD",
+    "text": "In 'The Ball Poem', where does the boy's ball ultimately land?",
+    "explanation": "The poet sees the ball bouncing merrily down the street and then falling into the water of the harbor.",
+    "options": [
+      { "text": "Into the water of the harbor.", "isCorrect": true },
+      { "text": "Inside a neighbor's garden.", "isCorrect": false },
+      { "text": "Under a moving cart.", "isCorrect": false },
+      { "text": "Into a deep sewage drain.", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 10",
+    "subject": "English",
+    "difficulty": "HARD",
+    "text": "At what stage of his life did Richard Ebright start collecting butterflies and other items?",
+    "explanation": "Richard Ebright started collecting butterflies, coins, fossils, and rocks when he was in kindergarten in Reading, Pennsylvania.",
+    "options": [
+      { "text": "In kindergarten", "isCorrect": true },
+      { "text": "In high school", "isCorrect": false },
+      { "text": "In university", "isCorrect": false },
+      { "text": "During middle school", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 10",
+    "subject": "English",
+    "difficulty": "HARD",
+    "text": "Fill in the blank with the appropriate modal verb: Students ________ submit their assignments before Friday as it is compulsory.",
+    "explanation": "'Must' is used to express strong necessity or logical obligation, which fits a compulsory deadline.",
+    "options": [
+      { "text": "must", "isCorrect": true },
+      { "text": "might", "isCorrect": false },
+      { "text": "can", "isCorrect": false },
+      { "text": "would", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 10",
+    "subject": "English",
+    "difficulty": "HARD",
+    "text": "In 'The Necklace', what was the occupation of Matilda's husband, M. Loisel?",
+    "explanation": "M. Loisel was a minor official (clerk) in the office of the Commissioner of the Ministry of Public Instruction.",
+    "options": [
+      { "text": "Clerk in the Ministry of Public Instruction", "isCorrect": true },
+      { "text": "Director of a local school board", "isCorrect": false },
+      { "text": "Secretary to the Mayor of Paris", "isCorrect": false },
+      { "text": "A wealthy merchant in the city", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 10",
+    "subject": "English",
+    "difficulty": "HARD",
+    "text": "What is the subject of the second argument between Lomov and Natalya in 'The Proposal'?",
+    "explanation": "Their second argument starts when Lomov mentions his dog Guess, which Natalya claims is inferior to her dog Squeezer.",
+    "options": [
+      { "text": "The superiority of their respective hunting dogs, Guess and Squeezer.", "isCorrect": true },
+      { "text": "The boundaries of the Birchwoods land.", "isCorrect": false },
+      { "text": "The health conditions of Lomov's aunt.", "isCorrect": false },
+      { "text": "The dowry amount offered by Chubukov.", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 10",
+    "subject": "English",
+    "difficulty": "VERY HARD",
+    "text": "In the poem 'Amanda!', why does Amanda imagine herself as a mermaid drifting in the sea?",
+    "explanation": "Amanda wants to escape the rules and nagging of her parents. She dreams of being the sole inhabitant of a quiet, green sea, drifting blissfully.",
+    "options": [
+      { "text": "To live alone in a quiet, emerald sea and escape parental control.", "isCorrect": true },
+      { "text": "Because she wants to learn how to swim.", "isCorrect": false },
+      { "text": "She wants to collect sea pearls and diamonds.", "isCorrect": false },
+      { "text": "To search for a lost pirate ship in the ocean.", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 10",
+    "subject": "English",
+    "difficulty": "VERY HARD",
+    "text": "In 'Bholi', what did Bishamber Nath demand as a condition for marrying Bholi when he saw her face?",
+    "explanation": "Bishamber saw pockmarks on Bholi's face and demanded a cash sum of five thousand rupees as dowry to marry her.",
+    "options": [
+      { "text": "Five thousand rupees in cash", "isCorrect": true },
+      { "text": "A share in Ramlal's agricultural land", "isCorrect": false },
+      { "text": "A newly built house in the village", "isCorrect": false },
+      { "text": "Gold jewelry worth ten thousand rupees", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 10",
+    "subject": "English",
+    "difficulty": "VERY HARD",
+    "text": "In 'Glimpses of India', why were Rajvir and Pranjol traveling to Assam?",
+    "explanation": "Pranjol had invited his classmate Rajvir to spend the summer vacation at his home. Pranjol's father was the manager of a tea garden in Upper Assam.",
+    "options": [
+      { "text": "Pranjol's father was a manager of a tea garden, and he invited Rajvir for summer vacation.", "isCorrect": true },
+      { "text": "They were on a school research project to study tea production.", "isCorrect": false },
+      { "text": "They wanted to invest in a new tea export business.", "isCorrect": false },
+      { "text": "They were traveling to attend Pranjol's brother's wedding.", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 10",
+    "subject": "English",
+    "difficulty": "VERY HARD",
+    "text": "Choose the correct indirect form of: My friend said, 'Please lend me your book.'",
+    "explanation": "Imperative sentences containing 'please' indicate requests, so reporting verb becomes 'requested', pronoun shifts ('me' -> 'him'), and verb takes infinitive 'to' form ('to lend').",
+    "options": [
+      { "text": "My friend requested me to lend him my book.", "isCorrect": true },
+      { "text": "My friend ordered me to lend him his book.", "isCorrect": false },
+      { "text": "My friend asked me that please lend him my book.", "isCorrect": false },
+      { "text": "My friend requested me to lending him your book.", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 10",
+    "subject": "English",
+    "difficulty": "VERY HARD",
+    "text": "Where did Belinda live in the humorous poem 'The Tale of Custard the Dragon'?",
+    "explanation": "Belinda lived in a little white house along with her four pets and a little red wagon.",
+    "options": [
+      { "text": "In a little white house", "isCorrect": true },
+      { "text": "In a stone castle on a hill", "isCorrect": false },
+      { "text": "In a wooden cottage near a forest", "isCorrect": false },
+      { "text": "In a large manor in London", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 10",
+    "subject": "English",
+    "difficulty": "VERY HARD",
+    "text": "Who is the ruler of Mars in the science-fiction play 'The Book That Saved the Earth'?",
+    "explanation": "The Martian commander-in-chief and ruler is the Great and Mighty Think-Tank, who is proud but highly foolish.",
+    "options": [
+      { "text": "Great and Mighty Think-Tank", "isCorrect": true },
+      { "text": "Apprentice Noodle", "isCorrect": false },
+      { "text": "Captain Omega", "isCorrect": false },
+      { "text": "Lieutenant Iota", "isCorrect": false }
+    ]
+  }
+]

@@ -1,0 +1,152 @@
+[
+  {
+    "text": "What is the plural vs singular sense definition of statistics?",
+    "options": [
+      "The plural sense refers to the collection of numerical data, while the singular sense refers to the science of collecting and analyzing data.",
+      "The plural sense refers to the science of collecting and analyzing data, while the singular sense refers to the collection of numerical data.",
+      "The plural sense refers to the collection of numerical data, while the singular sense refers to the science of collecting and analyzing data.",
+      "The plural sense refers to the science of collecting and analyzing data, while the singular sense refers to the science of collecting and analyzing data only."
+    ],
+    "correctAnswer": "Option A",
+    "explanation": "According to NCERT, the plural sense of statistics refers to the collection of numerical data, while the singular sense refers to the science of collecting and analyzing data.",
+    "difficulty": "Easy",
+    "class": "Class 11",
+    "subject": "Economics",
+    "chapter": "Ch 5: Introduction to Statistics"
+  },
+  {
+    "text": "Why is there a distrust of statistics?",
+    "options": [
+      "Because statistics can be used to manipulate public opinion.",
+      "Because statistics can be used to make accurate predictions.",
+      "Because statistics can be used to make decisions.",
+      "Because statistics can be used to make accurate predictions and decisions."
+    ],
+    "correctAnswer": "Option A",
+    "explanation": "According to NCERT, there is a distrust of statistics because it can be used to manipulate public opinion.",
+    "difficulty": "Medium",
+    "class": "Class 11",
+    "subject": "Economics",
+    "chapter": "Ch 5: Introduction to Statistics"
+  },
+  {
+    "text": "What is the difference between a statistical law and a scientific law?",
+    "options": [
+      "A statistical law is a generalization based on a large number of observations, while a scientific law is a generalization based on a small number of observations.",
+      "A statistical law is a generalization based on a small number of observations, while a scientific law is a generalization based on a large number of observations.",
+      "A statistical law is a generalization based on a large number of observations, while a scientific law is a generalization based on a large number of observations.",
+      "A statistical law is a generalization based on a small number of observations, while a scientific law is a generalization based on a small number of observations."
+    ],
+    "correctAnswer": "Option A",
+    "explanation": "According to NCERT, a statistical law is a generalization based on a large number of observations, while a scientific law is a generalization based on a small number of observations.",
+    "difficulty": "Medium",
+    "class": "Class 11",
+    "subject": "Economics",
+    "chapter": "Ch 5: Introduction to Statistics"
+  },
+  {
+    "text": "What is the difference between quantitative and qualitative data?",
+    "options": [
+      "Quantitative data is numerical in nature, while qualitative data is non-numerical in nature.",
+      "Quantitative data is non-numerical in nature, while qualitative data is numerical in nature.",
+      "Quantitative data is numerical in nature, while qualitative data is also numerical in nature.",
+      "Quantitative data is non-numerical in nature, while qualitative data is also non-numerical in nature."
+    ],
+    "correctAnswer": "Option A",
+    "explanation": "According to NCERT, quantitative data is numerical in nature, while qualitative data is non-numerical in nature.",
+    "difficulty": "Easy",
+    "class": "Class 11",
+    "subject": "Economics",
+    "chapter": "Ch 5: Introduction to Statistics"
+  },
+  {
+    "text": "What is the purpose of statistics?",
+    "options": [
+      "To describe the characteristics of a population.",
+      "To make predictions about a population.",
+      "To make decisions about a population.",
+      "To describe the characteristics of a population and make predictions about it."
+    ],
+    "correctAnswer": "Option D",
+    "explanation": "According to NCERT, the purpose of statistics is to describe the characteristics of a population and make predictions about it.",
+    "difficulty": "Medium",
+    "class": "Class 11",
+    "subject": "Economics",
+    "chapter": "Ch 5: Introduction to Statistics"
+  },
+  {
+    "text": "What is the difference between a sample and a population?",
+    "options": [
+      "A sample is a subset of the population, while a population is a subset of the sample.",
+      "A sample is a subset of the population, while a population is the entire group of individuals or items.",
+      "A sample is the entire group of individuals or items, while a population is a subset of the sample.",
+      "A sample is a subset of the population, while a population is also a subset of the sample."
+    ],
+    "correctAnswer": "Option B",
+    "explanation": "According to NCERT, a sample is a subset of the population, while a population is the entire group of individuals or items.",
+    "difficulty": "Easy",
+    "class": "Class 11",
+    "subject": "Economics",
+    "chapter": "Ch 5: Introduction to Statistics"
+  },
+  {
+    "text": "What is the concept of probability?",
+    "options": [
+      "The chance of an event occurring.",
+      "The chance of an event not occurring.",
+      "The chance of an event occurring or not occurring.",
+      "The chance of an event occurring and not occurring at the same time."
+    ],
+    "correctAnswer": "Option A",
+    "explanation": "According to NCERT, the concept of probability is the chance of an event occurring.",
+    "difficulty": "Medium",
+    "class": "Class 11",
+    "subject": "Economics",
+    "chapter": "Ch 5: Introduction to Statistics"
+  },
+  {
+    "text": "What is the difference between a random sample and a non-random sample?",
+    "options": [
+      "A random sample is a subset of the population selected using a random method, while a non-random sample is a subset of the population selected using a non-random method.",
+      "A random sample is a subset of the population selected using a non-random method, while a non-random sample is a subset of the population selected using a random method.",
+      "A random sample is a subset of the population selected using a non-random method, while a non-random sample is a subset of the population selected using a non-random method.",
+      "A random sample is a subset of the population selected using a random method, while a non-random sample is a subset of the population selected using a non-random method."
+    ],
+    "correctAnswer": "Option A",
+    "explanation": "According to NCERT, a random sample is a subset of the population selected using a random method, while a non-random sample is a subset of the population selected using a non-random method.",
+    "difficulty": "Medium",
+    "class": "Class 11",
+    "subject": "Economics",
+    "chapter": "Ch 5: Introduction to Statistics"
+  },
+  {
+    "text": "What is the concept of frequency distribution?",
+    "options": [
+      "A table or graph that shows the number of observations that fall within a particular range of values.",
+      "A table or graph that shows the number of observations that fall within a particular category.",
+      "A table or graph that shows the number of observations that fall within a particular range of values and categories.",
+      "A table or graph that shows the number of observations that fall within a particular category only."
+    ],
+    "correctAnswer": "Option A",
+    "explanation": "According to NCERT, the concept of frequency distribution is a table or graph that shows the number of observations that fall within a particular range of values.",
+    "difficulty": "Medium",
+    "class": "Class 11",
+    "subject": "Economics",
+    "chapter": "Ch 5: Introduction to Statistics"
+  },
+  {
+    "text": "What is the difference between a discrete variable and a continuous variable?",
+    "options": [
+      "A discrete variable is a variable that can take on any value within a given range, while a continuous variable is a variable that can only take on specific values.",
+      "A discrete variable is a variable that can only take on specific values, while a continuous variable is a variable that can take on any value within a given range.",
+      "A discrete variable is a variable that can take on any value within a given range, while a continuous variable is a variable that can take on any value within a given range.",
+      "A discrete variable is a variable that can only take on specific values, while a continuous variable is a variable that can take on any value within a given range."
+    ],
+    "correctAnswer": "Option D",
+    "explanation": "According to NCERT, a discrete variable is a variable that can only take on specific values, while a continuous variable is a variable that can take on any value within a given range.",
+    "difficulty": "Medium",
+    "class": "Class 11",
+    "subject": "Economics",
+    "chapter": "Ch 5: Introduction to Statistics"
+  }
+]

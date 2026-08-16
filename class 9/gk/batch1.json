@@ -1,0 +1,327 @@
+[
+  {
+    "class": "Class 10",
+    "subject": "GK",
+    "difficulty": "EASY",
+    "text": "Who is known as the Father of the Indian Constitution?",
+    "explanation": "Dr. B.R. Ambedkar was the Chairman of the Drafting Committee and played a key role in drafting the Constitution of India.",
+    "options": [
+      { "text": "Mahatma Gandhi", "isCorrect": false },
+      { "text": "Dr. B.R. Ambedkar", "isCorrect": true },
+      { "text": "Jawaharlal Nehru", "isCorrect": false },
+      { "text": "Dr. Rajendra Prasad", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 10",
+    "subject": "GK",
+    "difficulty": "EASY",
+    "text": "Which is the longest river in the world?",
+    "explanation": "The Nile River, located in Africa, is the longest river in the world, stretching about 6,650 kilometers.",
+    "options": [
+      { "text": "Amazon River", "isCorrect": false },
+      { "text": "Nile River", "isCorrect": true },
+      { "text": "Yangtze River", "isCorrect": false },
+      { "text": "Mississippi River", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 10",
+    "subject": "GK",
+    "difficulty": "EASY",
+    "text": "Which planet in our solar system is commonly known as the Red Planet?",
+    "explanation": "Mars is called the Red Planet because iron minerals in its soil oxidize (or rust), causing the atmosphere and surface to look red.",
+    "options": [
+      { "text": "Venus", "isCorrect": false },
+      { "text": "Mars", "isCorrect": true },
+      { "text": "Jupiter", "isCorrect": false },
+      { "text": "Saturn", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 10",
+    "subject": "GK",
+    "difficulty": "EASY",
+    "text": "In which year did India gain independence from British rule?",
+    "explanation": "India became an independent nation on August 15, 1947, ending nearly two hundred years of British colonial rule.",
+    "options": [
+      { "text": "1942", "isCorrect": false },
+      { "text": "1947", "isCorrect": true },
+      { "text": "1950", "isCorrect": false },
+      { "text": "1935", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 10",
+    "subject": "GK",
+    "difficulty": "EASY",
+    "text": "Which scientific instrument is used to measure atmospheric pressure?",
+    "explanation": "A barometer is used to measure atmospheric pressure, which helps in predicting weather changes.",
+    "options": [
+      { "text": "Thermometer", "isCorrect": false },
+      { "text": "Barometer", "isCorrect": true },
+      { "text": "Anemometer", "isCorrect": false },
+      { "text": "Hygrometer", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 10",
+    "subject": "GK",
+    "difficulty": "EASY",
+    "text": "Who was the first President of independent India?",
+    "explanation": "Dr. Rajendra Prasad served as the first President of the Republic of India from 1950 to 1962.",
+    "options": [
+      { "text": "Dr. S. Radhakrishnan", "isCorrect": false },
+      { "text": "Dr. Rajendra Prasad", "isCorrect": true },
+      { "text": "Jawaharlal Nehru", "isCorrect": false },
+      { "text": "Sardar Vallabhbhai Patel", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 10",
+    "subject": "GK",
+    "difficulty": "MEDIUM",
+    "text": "Which article of the Indian Constitution guarantees the Right to Equality before law?",
+    "explanation": "Article 14 of the Indian Constitution states that the State shall not deny to any person equality before the law or equal protection of laws.",
+    "options": [
+      { "text": "Article 19", "isCorrect": false },
+      { "text": "Article 14", "isCorrect": true },
+      { "text": "Article 21", "isCorrect": false },
+      { "text": "Article 32", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 10",
+    "subject": "GK",
+    "difficulty": "MEDIUM",
+    "text": "Where is the permanent headquarters of the United Nations (UN) located?",
+    "explanation": "The headquarters of the United Nations is situated in New York City, USA, on land purchased along the East River.",
+    "options": [
+      { "text": "Geneva", "isCorrect": false },
+      { "text": "New York City", "isCorrect": true },
+      { "text": "London", "isCorrect": false },
+      { "text": "Paris", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 10",
+    "subject": "GK",
+    "difficulty": "MEDIUM",
+    "text": "Who was the first Indian woman to win a medal at the Olympic Games?",
+    "explanation": "Karnam Malleswari won a bronze medal in weightlifting at the Sydney 2000 Olympic Games, becoming the first Indian woman to achieve this feat.",
+    "options": [
+      { "text": "P.T. Usha", "isCorrect": false },
+      { "text": "Karnam Malleswari", "isCorrect": true },
+      { "text": "Saina Nehwal", "isCorrect": false },
+      { "text": "Mary Kom", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 10",
+    "subject": "GK",
+    "difficulty": "MEDIUM",
+    "text": "The First Battle of Panipat (1526) was fought between Babur and which ruler?",
+    "explanation": "The battle was fought between Babur, the founder of the Mughal Empire, and Ibrahim Lodi, the Sultan of Delhi, resulting in Lodi's defeat.",
+    "options": [
+      { "text": "Sher Shah Suri", "isCorrect": false },
+      { "text": "Ibrahim Lodi", "isCorrect": true },
+      { "text": "Hemachandra (Hemu)", "isCorrect": false },
+      { "text": "Maharana Sangram Singh", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 10",
+    "subject": "GK",
+    "difficulty": "MEDIUM",
+    "text": "Which apex banking institution is known as the 'Banker's Bank' in India?",
+    "explanation": "The Reserve Bank of India (RBI) regulates the banking sector, issues currency, and acts as the banker to other commercial banks.",
+    "options": [
+      { "text": "State Bank of India", "isCorrect": false },
+      { "text": "Reserve Bank of India", "isCorrect": true },
+      { "text": "NABARD", "isCorrect": false },
+      { "text": "HDFC Bank", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 10",
+    "subject": "GK",
+    "difficulty": "MEDIUM",
+    "text": "What is the official currency of Japan?",
+    "explanation": "The Japanese Yen is the official currency of Japan, symbolized by ¥.",
+    "options": [
+      { "text": "Yuan", "isCorrect": false },
+      { "text": "Yen", "isCorrect": true },
+      { "text": "Won", "isCorrect": false },
+      { "text": "Ringgit", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 10",
+    "subject": "GK",
+    "difficulty": "MEDIUM",
+    "text": "Which layer of the Earth's atmosphere contains the ozone layer that protects us from ultraviolet rays?",
+    "explanation": "The stratosphere lies above the troposphere and contains the ozone layer, absorbing harmful UV rays from the sun.",
+    "options": [
+      { "text": "Troposphere", "isCorrect": false },
+      { "text": "Stratosphere", "isCorrect": true },
+      { "text": "Mesosphere", "isCorrect": false },
+      { "text": "Thermosphere", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 10",
+    "subject": "GK",
+    "difficulty": "MEDIUM",
+    "text": "Who authored the famous book titled 'The Discovery of India' during his imprisonment?",
+    "explanation": "Jawaharlal Nehru wrote 'The Discovery of India' between 1942 and 1945 while imprisoned at Ahmednagar Fort.",
+    "options": [
+      { "text": "Rabindranath Tagore", "isCorrect": false },
+      { "text": "Jawaharlal Nehru", "isCorrect": true },
+      { "text": "Mahatma Gandhi", "isCorrect": false },
+      { "text": "Subhas Chandra Bose", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 10",
+    "subject": "GK",
+    "difficulty": "MEDIUM",
+    "text": "Which is the largest natural freshwater lake in India, located in Jammu and Kashmir?",
+    "explanation": "Wular Lake is the largest freshwater lake in India, formed due to tectonic activity and fed by the Jhelum River.",
+    "options": [
+      { "text": "Dal Lake", "isCorrect": false },
+      { "text": "Wular Lake", "isCorrect": true },
+      { "text": "Chilika Lake", "isCorrect": false },
+      { "text": "Vembanad Lake", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 10",
+    "subject": "GK",
+    "difficulty": "HARD",
+    "text": "In which city was the first session of the Indian National Congress held in December 1885?",
+    "explanation": "The first session was held in Bombay (now Mumbai) at Gokuldas Tejpal Sanskrit College, presided over by W.C. Bonnerjee.",
+    "options": [
+      { "text": "Calcutta", "isCorrect": false },
+      { "text": "Bombay", "isCorrect": true },
+      { "text": "Madras", "isCorrect": false },
+      { "text": "Allahabad", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 10",
+    "subject": "GK",
+    "difficulty": "HARD",
+    "text": "Which amendment act of the Indian Constitution is widely referred to as the 'Mini-Constitution'?",
+    "explanation": "The 42nd Amendment Act (1976) introduced comprehensive changes to the Constitution, including adding 'Socialist', 'Secular', and 'Integrity' to the Preamble.",
+    "options": [
+      { "text": "44th Amendment Act", "isCorrect": false },
+      { "text": "42nd Amendment Act", "isCorrect": true },
+      { "text": "86th Amendment Act", "isCorrect": false },
+      { "text": "73rd Amendment Act", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 10",
+    "subject": "GK",
+    "difficulty": "HARD",
+    "text": "The Strait of Gibraltar connects which two major water bodies?",
+    "explanation": "The Strait of Gibraltar is a narrow channel connecting the Atlantic Ocean to the Mediterranean Sea, separating Europe and Africa.",
+    "options": [
+      { "text": "Red Sea and Arabian Sea", "isCorrect": false },
+      { "text": "Atlantic Ocean and Mediterranean Sea", "isCorrect": true },
+      { "text": "Pacific Ocean and Indian Ocean", "isCorrect": false },
+      { "text": "Black Sea and Aegean Sea", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 10",
+    "subject": "GK",
+    "difficulty": "HARD",
+    "text": "What type of unemployment occurs when workers are in the process of moving from one job to another?",
+    "explanation": "Frictional unemployment is temporary unemployment that arises when people are changing careers or searching for new jobs.",
+    "options": [
+      { "text": "Structural unemployment", "isCorrect": false },
+      { "text": "Frictional unemployment", "isCorrect": true },
+      { "text": "Seasonal unemployment", "isCorrect": false },
+      { "text": "Disguised unemployment", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 10",
+    "subject": "GK",
+    "difficulty": "HARD",
+    "text": "Who was the first recipient of the Rajiv Gandhi Khel Ratna Award (now renamed Major Dhyan Chand Khel Ratna)?",
+    "explanation": "Chess Grandmaster Viswanathan Anand was the first sportsperson to receive this highest sporting honor of India in 1991-92.",
+    "options": [
+      { "text": "Sachin Tendulkar", "isCorrect": false },
+      { "text": "Viswanathan Anand", "isCorrect": true },
+      { "text": "Geet Sethi", "isCorrect": false },
+      { "text": "Leander Paes", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 10",
+    "subject": "GK",
+    "difficulty": "HARD",
+    "text": "Which commission was set up by the Government of India in 1983 to examine Center-State relations?",
+    "explanation": "The Sarkaria Commission, headed by Justice R.S. Sarkaria, was appointed to review relations and balance of power between the center and states.",
+    "options": [
+      { "text": "Kothari Commission", "isCorrect": false },
+      { "text": "Sarkaria Commission", "isCorrect": true },
+      { "text": "Shah Commission", "isCorrect": false },
+      { "text": "Balwant Rai Mehta Committee", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 10",
+    "subject": "GK",
+    "difficulty": "VERY HARD",
+    "text": "Which peace treaty, signed in 1919, imposed harsh reparations on Germany and officially ended World War I?",
+    "explanation": "The Treaty of Versailles, signed in the Hall of Mirrors in Versailles, established peace terms between the Allied Powers and Germany.",
+    "options": [
+      { "text": "Treaty of Westphalia", "isCorrect": false },
+      { "text": "Treaty of Versailles", "isCorrect": true },
+      { "text": "Treaty of Brest-Litovsk", "isCorrect": false },
+      { "text": "Treaty of Utrecht", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 10",
+    "subject": "GK",
+    "difficulty": "VERY HARD",
+    "text": "In which region of British India did the significant 'Tebhaga Movement' of peasant agitation start in 1946?",
+    "explanation": "The Tebhaga Movement was an agitation by sharecroppers (adhiars) of Bengal to keep two-thirds of the harvest for themselves.",
+    "options": [
+      { "text": "Punjab", "isCorrect": false },
+      { "text": "Bengal", "isCorrect": true },
+      { "text": "Maharashtra", "isCorrect": false },
+      { "text": "Madras Presidency", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 10",
+    "subject": "GK",
+    "difficulty": "VERY HARD",
+    "text": "What do the financial terms 'Bull' and 'Bear' represent in stock market operations?",
+    "explanation": "A Bull market refers to a rising market where investors expect prices to grow; a Bear market is a falling market where investors expect decline.",
+    "options": [
+      { "text": "Bull denotes short-term trading; Bear denotes long-term holdings", "isCorrect": false },
+      { "text": "Bull denotes expectation of rising stock prices; Bear denotes expectation of falling stock prices", "isCorrect": true },
+      { "text": "Bull denotes government bonds; Bear denotes private equity shares", "isCorrect": false },
+      { "text": "Bull denotes high-volume liquidity; Bear denotes stagnant capital assets", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 10",
+    "subject": "GK",
+    "difficulty": "VERY HARD",
+    "text": "Which Indian physicist was awarded the Nobel Prize in Physics in 1930 for discovery of light scattering?",
+    "explanation": "Sir C.V. Raman won the Nobel Prize in 1930 for the 'Raman Effect,' which demonstrates the inelastic scattering of photons by matter.",
+    "options": [
+      { "text": "Homi J. Bhabha", "isCorrect": false },
+      { "text": "Sir C.V. Raman", "isCorrect": true },
+      { "text": "Jagadish Chandra Bose", "isCorrect": false },
+      { "text": "Satyendra Nath Bose", "isCorrect": false }
+    ]
+  }
+]

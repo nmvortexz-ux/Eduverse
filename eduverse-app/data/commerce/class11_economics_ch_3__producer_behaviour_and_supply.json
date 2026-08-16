@@ -1,0 +1,212 @@
+[
+  {
+    "text": "In the short run, a firm can adjust all its inputs, but in the long run, it can adjust all inputs except the size of the firm.",
+    "options": [
+      "True",
+      "False",
+      "Depends on the firm",
+      "Not specified"
+    ],
+    "correctAnswer": "True",
+    "explanation": "In the short run, a firm can adjust all its inputs, but in the long run, it can adjust all inputs except the size of the firm. This is because in the long run, the firm can change its plant and equipment, but it cannot change its size.",
+    "difficulty": "Easy",
+    "class": "Class 11",
+    "subject": "Economics",
+    "chapter": "Ch 3: Producer Behaviour and Supply"
+  },
+  {
+    "text": "The law of variable proportions states that as one input is increased while keeping other inputs fixed, the output will increase at first but eventually decrease.",
+    "options": [
+      "True",
+      "False",
+      "Depends on the input",
+      "Not specified"
+    ],
+    "correctAnswer": "True",
+    "explanation": "The law of variable proportions states that as one input is increased while keeping other inputs fixed, the output will increase at first but eventually decrease. This is because as one input is increased, the marginal product of that input will increase at first but eventually decrease.",
+    "difficulty": "Easy",
+    "class": "Class 11",
+    "subject": "Economics",
+    "chapter": "Ch 3: Producer Behaviour and Supply"
+  },
+  {
+    "text": "The total product is the sum of the marginal products of all the inputs.",
+    "options": [
+      "True",
+      "False",
+      "Depends on the input",
+      "Not specified"
+    ],
+    "correctAnswer": "False",
+    "explanation": "The total product is the sum of the individual products of all the inputs, not the sum of the marginal products of all the inputs.",
+    "difficulty": "Medium",
+    "class": "Class 11",
+    "subject": "Economics",
+    "chapter": "Ch 3: Producer Behaviour and Supply"
+  },
+  {
+    "text": "The marginal cost is the change in total cost resulting from a one-unit increase in output.",
+    "options": [
+      "True",
+      "False",
+      "Depends on the input",
+      "Not specified"
+    ],
+    "correctAnswer": "True",
+    "explanation": "The marginal cost is the change in total cost resulting from a one-unit increase in output. It is the additional cost incurred by the firm to produce one more unit of output.",
+    "difficulty": "Easy",
+    "class": "Class 11",
+    "subject": "Economics",
+    "chapter": "Ch 3: Producer Behaviour and Supply"
+  },
+  {
+    "text": "The average revenue is the total revenue divided by the number of units sold.",
+    "options": [
+      "True",
+      "False",
+      "Depends on the input",
+      "Not specified"
+    ],
+    "correctAnswer": "True",
+    "explanation": "The average revenue is the total revenue divided by the number of units sold. It is the price at which each unit of output is sold.",
+    "difficulty": "Easy",
+    "class": "Class 11",
+    "subject": "Economics",
+    "chapter": "Ch 3: Producer Behaviour and Supply"
+  },
+  {
+    "text": "The law of supply states that as the price of a commodity increases, the quantity supplied also increases.",
+    "options": [
+      "True",
+      "False",
+      "Depends on the input",
+      "Not specified"
+    ],
+    "correctAnswer": "True",
+    "explanation": "The law of supply states that as the price of a commodity increases, the quantity supplied also increases. This is because higher prices make production more profitable, leading to an increase in supply.",
+    "difficulty": "Easy",
+    "class": "Class 11",
+    "subject": "Economics",
+    "chapter": "Ch 3: Producer Behaviour and Supply"
+  },
+  {
+    "text": "The price elasticity of supply is the percentage change in quantity supplied in response to a 1% change in price.",
+    "options": [
+      "True",
+      "False",
+      "Depends on the input",
+      "Not specified"
+    ],
+    "correctAnswer": "True",
+    "explanation": "The price elasticity of supply is the percentage change in quantity supplied in response to a 1% change in price. It measures the responsiveness of supply to changes in price.",
+    "difficulty": "Medium",
+    "class": "Class 11",
+    "subject": "Economics",
+    "chapter": "Ch 3: Producer Behaviour and Supply"
+  },
+  {
+    "text": "The supply function is a mathematical representation of the relationship between the price of a commodity and the quantity supplied.",
+    "options": [
+      "True",
+      "False",
+      "Depends on the input",
+      "Not specified"
+    ],
+    "correctAnswer": "True",
+    "explanation": "The supply function is a mathematical representation of the relationship between the price of a commodity and the quantity supplied. It shows how the quantity supplied changes in response to changes in price.",
+    "difficulty": "Easy",
+    "class": "Class 11",
+    "subject": "Economics",
+    "chapter": "Ch 3: Producer Behaviour and Supply"
+  },
+  {
+    "text": "The marginal revenue is the change in total revenue resulting from a one-unit increase in output.",
+    "options": [
+      "True",
+      "False",
+      "Depends on the input",
+      "Not specified"
+    ],
+    "correctAnswer": "True",
+    "explanation": "The marginal revenue is the change in total revenue resulting from a one-unit increase in output. It is the additional revenue earned by the firm from selling one more unit of output.",
+    "difficulty": "Easy",
+    "class": "Class 11",
+    "subject": "Economics",
+    "chapter": "Ch 3: Producer Behaviour and Supply"
+  },
+  {
+    "text": "The producer equilibrium is achieved when the marginal revenue equals the marginal cost.",
+    "options": [
+      "True",
+      "False",
+      "Depends on the input",
+      "Not specified"
+    ],
+    "correctAnswer": "True",
+    "explanation": "The producer equilibrium is achieved when the marginal revenue equals the marginal cost. This is the point at which the firm maximizes its profit.",
+    "difficulty": "Medium",
+    "class": "Class 11",
+    "subject": "Economics",
+    "chapter": "Ch 3: Producer Behaviour and Supply"
+  },
+  {
+    "text": "The total cost is the sum of the fixed cost and the variable cost.",
+    "options": [
+      "True",
+      "False",
+      "Depends on the input",
+      "Not specified"
+    ],
+    "correctAnswer": "True",
+    "explanation": "The total cost is the sum of the fixed cost and the variable cost. The fixed cost is the cost that remains the same even if the output changes, while the variable cost is the cost that changes with the output.",
+    "difficulty": "Easy",
+    "class": "Class 11",
+    "subject": "Economics",
+    "chapter": "Ch 3: Producer Behaviour and Supply"
+  },
+  {
+    "text": "The average cost is the total cost divided by the number of units produced.",
+    "options": [
+      "True",
+      "False",
+      "Depends on the input",
+      "Not specified"
+    ],
+    "correctAnswer": "True",
+    "explanation": "The average cost is the total cost divided by the number of units produced. It is the cost per unit of output.",
+    "difficulty": "Easy",
+    "class": "Class 11",
+    "subject": "Economics",
+    "chapter": "Ch 3: Producer Behaviour and Supply"
+  },
+  {
+    "text": "The marginal product of labor is the change in total product resulting from a one-unit increase in labor.",
+    "options": [
+      "True",
+      "False",
+      "Depends on the input",
+      "Not specified"
+    ],
+    "correctAnswer": "True",
+    "explanation": "The marginal product of labor is the change in total product resulting from a one-unit increase in labor. It is the additional output produced by one more unit of labor.",
+    "difficulty": "Easy",
+    "class": "Class 11",
+    "subject": "Economics",
+    "chapter": "Ch 3: Producer Behaviour and Supply"
+  },
+  {
+    "text": "The law of variable proportions states that as one input is increased while keeping other inputs fixed, the marginal product of that input will always increase.",
+    "options": [
+      "True",
+      "False",
+      "Depends on the input",
+      "Not specified"
+    ],
+    "correctAnswer": "False",
+    "explanation": "The law of variable proportions states that as one input is increased while keeping other inputs fixed, the marginal product of that input will increase at first but eventually decrease.",
+    "difficulty": "Medium",
+    "class": "Class 11",
+    "subject": "Economics",
+    "chapter": "Ch 3: Producer Behaviour and Supply"
+  }
+]

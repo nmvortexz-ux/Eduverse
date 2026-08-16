@@ -1,0 +1,287 @@
+[
+  {
+    "text": "What is the primary difference between owner's funds and borrowed funds?",
+    "options": [
+      "Owner's funds are used for long-term investments, while borrowed funds are used for short-term needs",
+      "Owner's funds are raised by the owners, while borrowed funds are raised from external sources",
+      "Owner's funds are used for fixed assets, while borrowed funds are used for current assets",
+      "Owner's funds are used for working capital, while borrowed funds are used for fixed assets"
+    ],
+    "correctAnswer": "Owner's funds are raised by the owners, while borrowed funds are raised from external sources",
+    "explanation": "According to the NCERT textbook, owner's funds refer to the funds contributed by the owners of a business, such as equity shares and retained earnings. On the other hand, borrowed funds refer to the funds raised from external sources, such as loans from commercial banks, debentures, and trade credit.",
+    "difficulty": "Easy",
+    "class": "Class 11",
+    "subject": "Business Studies",
+    "chapter": "Ch 7: Sources of Business Finance"
+  },
+  {
+    "text": "What is the main advantage of issuing equity shares as a source of finance?",
+    "options": [
+      "It provides a fixed return to the shareholders",
+      "It increases the debt burden of the company",
+      "It allows the company to raise capital without increasing its debt burden",
+      "It provides a tax benefit to the company"
+    ],
+    "correctAnswer": "It allows the company to raise capital without increasing its debt burden",
+    "explanation": "As explained in the NCERT textbook, equity shares are a type of owner's fund that allows companies to raise capital without increasing their debt burden. This is because equity shares represent ownership in the company and do not require the company to make fixed payments to the shareholders.",
+    "difficulty": "Medium",
+    "class": "Class 11",
+    "subject": "Business Studies",
+    "chapter": "Ch 7: Sources of Business Finance"
+  },
+  {
+    "text": "What is the difference between a preference share and an equity share?",
+    "options": [
+      "Preference shares have voting rights, while equity shares do not",
+      "Preference shares have a fixed rate of dividend, while equity shares do not",
+      "Preference shares are issued to raise long-term capital, while equity shares are issued to raise short-term capital",
+      "Preference shares are issued to raise working capital, while equity shares are issued to raise fixed capital"
+    ],
+    "correctAnswer": "Preference shares have a fixed rate of dividend, while equity shares do not",
+    "explanation": "According to the NCERT textbook, preference shares are a type of share that has a fixed rate of dividend, whereas equity shares do not have a fixed rate of dividend. Preference shares also have a higher claim on the company's assets and profits compared to equity shares.",
+    "difficulty": "Medium",
+    "class": "Class 11",
+    "subject": "Business Studies",
+    "chapter": "Ch 7: Sources of Business Finance"
+  },
+  {
+    "text": "What is the formula for calculating the dividend on a preference share?",
+    "options": [
+      "$\text{Dividend} = \text{Face Value} \times \text{Rate of Dividend}$",
+      "$\text{Dividend} = \text{Face Value} div \text{Rate of Dividend}$",
+      "$\text{Dividend} = \text{Market Value} \times \text{Rate of Dividend}$",
+      "$\text{Dividend} = \text{Market Value} div \text{Rate of Dividend}$"
+    ],
+    "correctAnswer": "$\text{Dividend} = \text{Face Value} \times \text{Rate of Dividend}$",
+    "explanation": "As explained in the NCERT textbook, the dividend on a preference share is calculated by multiplying the face value of the share by the rate of dividend. For example, if the face value of a preference share is $\text{Rs. 100}$ and the rate of dividend is $8%$, the dividend would be $\text{Rs. 8}$.",
+    "difficulty": "Easy",
+    "class": "Class 11",
+    "subject": "Business Studies",
+    "chapter": "Ch 7: Sources of Business Finance"
+  },
+  {
+    "text": "What is the main advantage of using retained earnings as a source of finance?",
+    "options": [
+      "It allows the company to raise capital without increasing its debt burden",
+      "It provides a fixed return to the shareholders",
+      "It increases the company's liquidity",
+      "It reduces the company's tax liability"
+    ],
+    "correctAnswer": "It allows the company to raise capital without increasing its debt burden",
+    "explanation": "According to the NCERT textbook, retained earnings are a type of owner's fund that allows companies to raise capital without increasing their debt burden. This is because retained earnings represent the profits that are reinvested in the business, rather than being distributed to the shareholders.",
+    "difficulty": "Medium",
+    "class": "Class 11",
+    "subject": "Business Studies",
+    "chapter": "Ch 7: Sources of Business Finance"
+  },
+  {
+    "text": "What is a debenture?",
+    "options": [
+      "A type of equity share",
+      "A type of preference share",
+      "A long-term loan issued by a company",
+      "A short-term loan issued by a company"
+    ],
+    "correctAnswer": "A long-term loan issued by a company",
+    "explanation": "As explained in the NCERT textbook, a debenture is a type of long-term loan issued by a company to raise capital. Debentures are typically issued for a fixed period of time and have a fixed rate of interest.",
+    "difficulty": "Easy",
+    "class": "Class 11",
+    "subject": "Business Studies",
+    "chapter": "Ch 7: Sources of Business Finance"
+  },
+  {
+    "text": "What is the main difference between a commercial bank and a non-banking financial company?",
+    "options": [
+      "Commercial banks provide loans for short-term needs, while non-banking financial companies provide loans for long-term needs",
+      "Commercial banks provide loans for long-term needs, while non-banking financial companies provide loans for short-term needs",
+      "Commercial banks accept deposits from the public, while non-banking financial companies do not",
+      "Commercial banks do not accept deposits from the public, while non-banking financial companies do"
+    ],
+    "correctAnswer": "Commercial banks accept deposits from the public, while non-banking financial companies do not",
+    "explanation": "According to the NCERT textbook, commercial banks are financial institutions that accept deposits from the public and provide loans to individuals and businesses. Non-banking financial companies, on the other hand, do not accept deposits from the public and provide loans to individuals and businesses.",
+    "difficulty": "Medium",
+    "class": "Class 11",
+    "subject": "Business Studies",
+    "chapter": "Ch 7: Sources of Business Finance"
+  },
+  {
+    "text": "What is trade credit?",
+    "options": [
+      "A type of loan provided by a commercial bank",
+      "A type of loan provided by a non-banking financial company",
+      "A type of credit provided by a supplier to a buyer",
+      "A type of credit provided by a buyer to a supplier"
+    ],
+    "correctAnswer": "A type of credit provided by a supplier to a buyer",
+    "explanation": "As explained in the NCERT textbook, trade credit is a type of credit provided by a supplier to a buyer, allowing the buyer to purchase goods and services without making immediate payment. Trade credit is typically provided for a short period of time, such as 30 or 60 days.",
+    "difficulty": "Easy",
+    "class": "Class 11",
+    "subject": "Business Studies",
+    "chapter": "Ch 7: Sources of Business Finance"
+  },
+  {
+    "text": "What is factoring?",
+    "options": [
+      "A type of loan provided by a commercial bank",
+      "A type of loan provided by a non-banking financial company",
+      "A type of service provided by a financial institution to manage a company's accounts receivable",
+      "A type of service provided by a financial institution to manage a company's accounts payable"
+    ],
+    "correctAnswer": "A type of service provided by a financial institution to manage a company's accounts receivable",
+    "explanation": "According to the NCERT textbook, factoring is a type of service provided by a financial institution to manage a company's accounts receivable. The financial institution purchases the company's accounts receivable and collects payment from the company's customers.",
+    "difficulty": "Medium",
+    "class": "Class 11",
+    "subject": "Business Studies",
+    "chapter": "Ch 7: Sources of Business Finance"
+  },
+  {
+    "text": "What is an ADR?",
+    "options": [
+      "A type of share issued by a foreign company in the domestic market",
+      "A type of share issued by a domestic company in the foreign market",
+      "A type of bond issued by a foreign company in the domestic market",
+      "A type of bond issued by a domestic company in the foreign market"
+    ],
+    "correctAnswer": "A type of share issued by a domestic company in the foreign market",
+    "explanation": "As explained in the NCERT textbook, an ADR (American Depository Receipt) is a type of share issued by a domestic company in the foreign market. ADRs are issued by companies that want to raise capital in foreign markets, such as the United States.",
+    "difficulty": "Medium",
+    "class": "Class 11",
+    "subject": "Business Studies",
+    "chapter": "Ch 7: Sources of Business Finance"
+  },
+  {
+    "text": "What is a GDR?",
+    "options": [
+      "A type of share issued by a foreign company in the domestic market",
+      "A type of share issued by a domestic company in the foreign market",
+      "A type of bond issued by a foreign company in the domestic market",
+      "A type of bond issued by a domestic company in the foreign market"
+    ],
+    "correctAnswer": "A type of share issued by a domestic company in the foreign market",
+    "explanation": "According to the NCERT textbook, a GDR (Global Depository Receipt) is a type of share issued by a domestic company in the foreign market. GDRs are issued by companies that want to raise capital in foreign markets, such as Europe or Asia.",
+    "difficulty": "Medium",
+    "class": "Class 11",
+    "subject": "Business Studies",
+    "chapter": "Ch 7: Sources of Business Finance"
+  },
+  {
+    "text": "What is an IDR?",
+    "options": [
+      "A type of share issued by a foreign company in the domestic market",
+      "A type of share issued by a domestic company in the foreign market",
+      "A type of bond issued by a foreign company in the domestic market",
+      "A type of bond issued by a domestic company in the foreign market"
+    ],
+    "correctAnswer": "A type of share issued by a foreign company in the domestic market",
+    "explanation": "As explained in the NCERT textbook, an IDR (Indian Depository Receipt) is a type of share issued by a foreign company in the domestic market. IDRs are issued by foreign companies that want to raise capital in the Indian market.",
+    "difficulty": "Medium",
+    "class": "Class 11",
+    "subject": "Business Studies",
+    "chapter": "Ch 7: Sources of Business Finance"
+  },
+  {
+    "text": "What is commercial paper?",
+    "options": [
+      "A type of long-term loan issued by a company",
+      "A type of short-term loan issued by a company",
+      "A type of bond issued by a company",
+      "A type of share issued by a company"
+    ],
+    "correctAnswer": "A type of short-term loan issued by a company",
+    "explanation": "According to the NCERT textbook, commercial paper is a type of short-term loan issued by a company to raise capital. Commercial paper is typically issued for a period of less than one year and has a fixed rate of interest.",
+    "difficulty": "Easy",
+    "class": "Class 11",
+    "subject": "Business Studies",
+    "chapter": "Ch 7: Sources of Business Finance"
+  },
+  {
+    "text": "What is the main advantage of using commercial paper as a source of finance?",
+    "options": [
+      "It provides a fixed return to the investor",
+      "It allows the company to raise capital without increasing its debt burden",
+      "It provides a low-cost source of finance",
+      "It provides a long-term source of finance"
+    ],
+    "correctAnswer": "It provides a low-cost source of finance",
+    "explanation": "As explained in the NCERT textbook, commercial paper is a low-cost source of finance for companies. This is because commercial paper is issued at a discount to the face value, which means that the company can raise capital at a lower cost than other sources of finance.",
+    "difficulty": "Medium",
+    "class": "Class 11",
+    "subject": "Business Studies",
+    "chapter": "Ch 7: Sources of Business Finance"
+  },
+  {
+    "text": "What is the difference between a private placement and a public issue?",
+    "options": [
+      "A private placement is a type of public issue, while a public issue is a type of private placement",
+      "A private placement is a type of issue where securities are issued to a select group of investors, while a public issue is a type of issue where securities are issued to the general public",
+      "A private placement is a type of issue where securities are issued to the general public, while a public issue is a type of issue where securities are issued to a select group of investors",
+      "A private placement is a type of issue where securities are issued to a select group of investors, while a public issue is a type of issue where securities are issued to a select group of investors"
+    ],
+    "correctAnswer": "A private placement is a type of issue where securities are issued to a select group of investors, while a public issue is a type of issue where securities are issued to the general public",
+    "explanation": "According to the NCERT textbook, a private placement is a type of issue where securities are issued to a select group of investors, such as institutional investors or high net worth individuals. A public issue, on the other hand, is a type of issue where securities are issued to the general public.",
+    "difficulty": "Medium",
+    "class": "Class 11",
+    "subject": "Business Studies",
+    "chapter": "Ch 7: Sources of Business Finance"
+  },
+  {
+    "text": "What is the main advantage of using a private placement as a source of finance?",
+    "options": [
+      "It provides a low-cost source of finance",
+      "It allows the company to raise capital without increasing its debt burden",
+      "It provides a quick and efficient way to raise capital",
+      "It provides a high degree of flexibility in terms of the terms and conditions of the issue"
+    ],
+    "correctAnswer": "It provides a quick and efficient way to raise capital",
+    "explanation": "As explained in the NCERT textbook, private placements are a quick and efficient way for companies to raise capital. This is because private placements do not require the company to go through the lengthy and expensive process of issuing securities to the general public.",
+    "difficulty": "Medium",
+    "class": "Class 11",
+    "subject": "Business Studies",
+    "chapter": "Ch 7: Sources of Business Finance"
+  },
+  {
+    "text": "What is the main disadvantage of using a private placement as a source of finance?",
+    "options": [
+      "It provides a low-cost source of finance",
+      "It allows the company to raise capital without increasing its debt burden",
+      "It provides a quick and efficient way to raise capital",
+      "It limits the company's ability to raise capital from a large number of investors"
+    ],
+    "correctAnswer": "It limits the company's ability to raise capital from a large number of investors",
+    "explanation": "According to the NCERT textbook, private placements limit the company's ability to raise capital from a large number of investors. This is because private placements are typically issued to a select group of investors, which can limit the company's ability to raise capital from a broader range of investors.",
+    "difficulty": "Medium",
+    "class": "Class 11",
+    "subject": "Business Studies",
+    "chapter": "Ch 7: Sources of Business Finance"
+  },
+  {
+    "text": "What is the main advantage of using a public issue as a source of finance?",
+    "options": [
+      "It provides a low-cost source of finance",
+      "It allows the company to raise capital without increasing its debt burden",
+      "It provides a quick and efficient way to raise capital",
+      "It allows the company to raise capital from a large number of investors"
+    ],
+    "correctAnswer": "It allows the company to raise capital from a large number of investors",
+    "explanation": "As explained in the NCERT textbook, public issues allow companies to raise capital from a large number of investors. This is because public issues are issued to the general public, which can provide the company with access to a broader range of investors and a larger amount of capital.",
+    "difficulty": "Medium",
+    "class": "Class 11",
+    "subject": "Business Studies",
+    "chapter": "Ch 7: Sources of Business Finance"
+  },
+  {
+    "text": "What is the main disadvantage of using a public issue as a source of finance?",
+    "options": [
+      "It provides a low-cost source of finance",
+      "It allows the company to raise capital without increasing its debt burden",
+      "It provides a quick and efficient way to raise capital",
+      "It is a lengthy and expensive process"
+    ],
+    "correctAnswer": "It is a lengthy and expensive process",
+    "explanation": "According to the NCERT textbook, public issues are a lengthy and expensive process. This is because public issues require the company to go through a number of steps, including filing a prospectus with the regulatory authorities, obtaining approvals, and marketing the issue to the public.",
+    "difficulty": "Medium",
+    "class": "Class 11",
+    "subject": "Business Studies",
+    "chapter": "Ch 7: Sources of Business Finance"
+  }
+]

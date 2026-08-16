@@ -1,0 +1,327 @@
+[
+  {
+    "class": "Class 10",
+    "subject": "GK",
+    "difficulty": "EASY",
+    "text": "Who founded the Brahmo Samaj in Calcutta in 1828?",
+    "explanation": "Raja Ram Mohan Roy founded the Brahmo Samaj to reform Hindu society, fighting against social evils like sati, child marriage, and the caste system.",
+    "options": [
+      { "text": "Swami Vivekananda", "isCorrect": false },
+      { "text": "Raja Ram Mohan Roy", "isCorrect": true },
+      { "text": "Dayanand Saraswati", "isCorrect": false },
+      { "text": "Ishwar Chandra Vidyasagar", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 10",
+    "subject": "GK",
+    "difficulty": "EASY",
+    "text": "Which is the largest continent on Earth by both land area and population?",
+    "explanation": "Asia is the largest continent, covering about 30% of Earth's land area and housing nearly 60% of the world's population.",
+    "options": [
+      { "text": "Africa", "isCorrect": false },
+      { "text": "Asia", "isCorrect": true },
+      { "text": "North America", "isCorrect": false },
+      { "text": "Europe", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 10",
+    "subject": "GK",
+    "difficulty": "EASY",
+    "text": "On which date is World Environment Day celebrated globally every year?",
+    "explanation": "World Environment Day is celebrated on June 5, established by the United Nations in 1972 to raise environmental awareness.",
+    "options": [
+      { "text": "April 22", "isCorrect": false },
+      { "text": "June 5", "isCorrect": true },
+      { "text": "September 16", "isCorrect": false },
+      { "text": "December 10", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 10",
+    "subject": "GK",
+    "difficulty": "EASY",
+    "text": "What is the capital city of India?",
+    "explanation": "New Delhi is the capital of India, functioning as the seat of all three branches of the Government of India.",
+    "options": [
+      { "text": "Mumbai", "isCorrect": false },
+      { "text": "New Delhi", "isCorrect": true },
+      { "text": "Kolkata", "isCorrect": false },
+      { "text": "Chennai", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 10",
+    "subject": "GK",
+    "difficulty": "EASY",
+    "text": "Which gas is primarily responsible for greenhouse effect and global warming?",
+    "explanation": "Carbon Dioxide ($CO_2$) is the primary greenhouse gas emitted through human activities, trapping heat in the atmosphere.",
+    "options": [
+      { "text": "Oxygen", "isCorrect": false },
+      { "text": "Carbon Dioxide", "isCorrect": true },
+      { "text": "Nitrogen", "isCorrect": false },
+      { "text": "Helium", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 10",
+    "subject": "GK",
+    "difficulty": "EASY",
+    "text": "Who was the first Prime Minister of India to receive the Bharat Ratna?",
+    "explanation": "Jawaharlal Nehru was awarded the Bharat Ratna, India's highest civilian award, in 1955.",
+    "options": [
+      { "text": "Lal Bahadur Shastri", "isCorrect": false },
+      { "text": "Jawaharlal Nehru", "isCorrect": true },
+      { "text": "Indira Gandhi", "isCorrect": false },
+      { "text": "Rajiv Gandhi", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 10",
+    "subject": "GK",
+    "difficulty": "MEDIUM",
+    "text": "Who founded the Arya Samaj in Bombay in 1875?",
+    "explanation": "Swami Dayanand Saraswati founded the Arya Samaj, promoting the authority of the Vedas and monotheism.",
+    "options": [
+      { "text": "Raja Ram Mohan Roy", "isCorrect": false },
+      { "text": "Swami Dayanand Saraswati", "isCorrect": true },
+      { "text": "Swami Vivekananda", "isCorrect": false },
+      { "text": "Debendranath Tagore", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 10",
+    "subject": "GK",
+    "difficulty": "MEDIUM",
+    "text": "What is the angular longitude of the Prime Meridian (Greenwich Meridian)?",
+    "explanation": "The Prime Meridian is the reference line for measuring longitude, defined as $0^\\circ$ longitude.",
+    "options": [
+      { "text": "$180^\\circ$", "isCorrect": false },
+      { "text": "$0^\\circ$", "isCorrect": true },
+      { "text": "$90^\\circ\\text{ East}$", "isCorrect": false },
+      { "text": "$45^\\circ\\text{ West}$", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 10",
+    "subject": "GK",
+    "difficulty": "MEDIUM",
+    "text": "Which Indian state is the largest producer of Tea?",
+    "explanation": "Assam is the leading tea-producing state in India, famous for its black tea and extensive tea estates in the Brahmaputra valley.",
+    "options": [
+      { "text": "West Bengal", "isCorrect": false },
+      { "text": "Assam", "isCorrect": true },
+      { "text": "Tamil Nadu", "isCorrect": false },
+      { "text": "Kerala", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 10",
+    "subject": "GK",
+    "difficulty": "MEDIUM",
+    "text": "Which article of the Indian Constitution guarantees the Fundamental Right to Freedom of Speech and Expression?",
+    "explanation": "Article 19(1)(a) guarantees to all citizens the right to freedom of speech and expression, subject to reasonable restrictions.",
+    "options": [
+      { "text": "Article 14", "isCorrect": false },
+      { "text": "Article 19", "isCorrect": true },
+      { "text": "Article 21", "isCorrect": false },
+      { "text": "Article 25", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 10",
+    "subject": "GK",
+    "difficulty": "MEDIUM",
+    "text": "Which city, located in Jharkhand, is known as the 'Coal Capital of India' due to its rich coal reserves?",
+    "explanation": "Dhanbad is called the Coal Capital of India, home to the Jharia coalfield which produces high-grade coking coal.",
+    "options": [
+      { "text": "Ranchi", "isCorrect": false },
+      { "text": "Dhanbad", "isCorrect": true },
+      { "text": "Bokaro", "isCorrect": false },
+      { "text": "Jamshedpur", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 10",
+    "subject": "GK",
+    "difficulty": "MEDIUM",
+    "text": "What is the full form of the Indian defense agency 'DRDO'?",
+    "explanation": "DRDO stands for Defence Research and Development Organisation, which is responsible for developing military technology and weapons.",
+    "options": [
+      { "text": "Department of Research and Defense Operations", "isCorrect": false },
+      { "text": "Defence Research and Development Organisation", "isCorrect": true },
+      { "text": "Directorate of Royal Defence Organisation", "isCorrect": false },
+      { "text": "Defense Resource and Development Office", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 10",
+    "subject": "GK",
+    "difficulty": "MEDIUM",
+    "text": "Which is the largest cold desert in Asia, covering parts of northern China and southern Mongolia?",
+    "explanation": "The Gobi Desert is a rain shadow desert formed by the Himalayas, known for its cold winters and fossil discoveries.",
+    "options": [
+      { "text": "Taklamakan Desert", "isCorrect": false },
+      { "text": "Gobi Desert", "isCorrect": true },
+      { "text": "Thar Desert", "isCorrect": false },
+      { "text": "Karakum Desert", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 10",
+    "subject": "GK",
+    "difficulty": "MEDIUM",
+    "text": "Under which article of the Indian Constitution can the President declare a National Emergency due to war, external aggression, or armed rebellion?",
+    "explanation": "Article 352 empowers the President to declare a National Emergency on the written advice of the Union Cabinet.",
+    "options": [
+      { "text": "Article 356", "isCorrect": false },
+      { "text": "Article 352", "isCorrect": true },
+      { "text": "Article 360", "isCorrect": false },
+      { "text": "Article 370", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 10",
+    "subject": "GK",
+    "difficulty": "MEDIUM",
+    "text": "Who was the first Governor-General of independent India in 1947?",
+    "explanation": "Lord Mountbatten served as the first Governor-General of the Dominion of India from August 15, 1947, to June 21, 1948, succeeded by C. Rajagopalachari.",
+    "options": [
+      { "text": "C. Rajagopalachari", "isCorrect": false },
+      { "text": "Lord Mountbatten", "isCorrect": true },
+      { "text": "Dr. Rajendra Prasad", "isCorrect": false },
+      { "text": "Lord Wavell", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 10",
+    "subject": "GK",
+    "difficulty": "HARD",
+    "text": "Which reformist slogan was coined by Swami Dayanand Saraswati to guide the followers of Arya Samaj?",
+    "explanation": "Dayanand Saraswati advocated returning to the pure teachings of the Vedas, giving the slogan 'Go Back to the Vedas'.",
+    "options": [
+      { "text": "Swaraj is my Birthright", "isCorrect": false },
+      { "text": "Go Back to the Vedas", "isCorrect": true },
+      { "text": "Inquilab Zindabad", "isCorrect": false },
+      { "text": "Satyameva Jayate", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 10",
+    "subject": "GK",
+    "difficulty": "HARD",
+    "text": "What is the exact time difference between Indian Standard Time (IST) and Greenwich Mean Time (GMT)?",
+    "explanation": "IST is calculated based on the $82.5^\\circ\\text{ East}$ longitude passing through Mirzapur, making it 5 hours and 30 minutes ahead of GMT.",
+    "options": [
+      { "text": "IST is 5 hours behind GMT", "isCorrect": false },
+      { "text": "IST is 5 hours and 30 minutes ahead of GMT", "isCorrect": true },
+      { "text": "IST is 6 hours ahead of GMT", "isCorrect": false },
+      { "text": "IST is 4 hours and 30 minutes behind GMT", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 10",
+    "subject": "GK",
+    "difficulty": "HARD",
+    "text": "Which Indian state is the largest producer of Natural Rubber in the country?",
+    "explanation": "Kerala accounts for over 75% of India's total natural rubber production due to its favorable warm, humid climate and red loamy soil.",
+    "options": [
+      { "text": "Tripura", "isCorrect": false },
+      { "text": "Kerala", "isCorrect": true },
+      { "text": "Karnataka", "isCorrect": false },
+      { "text": "Tamil Nadu", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 10",
+    "subject": "GK",
+    "difficulty": "HARD",
+    "text": "What is the difference between demand-pull inflation and cost-push inflation?",
+    "explanation": "Demand-pull inflation is caused by aggregate demand exceeding aggregate supply; cost-push is triggered by an increase in input costs (wages, raw materials).",
+    "options": [
+      { "text": "Demand-pull occurs due to imports; cost-push due to exports", "isCorrect": false },
+      { "text": "Demand-pull is driven by excess aggregate demand; cost-push is driven by rising cost of inputs", "isCorrect": true },
+      { "text": "Demand-pull is regulated by banks; cost-push by stock markets", "isCorrect": false },
+      { "text": "Demand-pull causes deflation; cost-push causes stagflation", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 10",
+    "subject": "GK",
+    "difficulty": "HARD",
+    "text": "In which city is the National Physical Laboratory of India (NPL), custodian of Indian Standard Time, located?",
+    "explanation": "NPL is located in New Delhi, established in 1947, and is responsible for maintaining national standards of physical measurements.",
+    "options": [
+      { "text": "Mumbai", "isCorrect": false },
+      { "text": "New Delhi", "isCorrect": true },
+      { "text": "Bengaluru", "isCorrect": false },
+      { "text": "Kolkata", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 10",
+    "subject": "GK",
+    "difficulty": "HARD",
+    "text": "Which famous book was written by social reformer Jyotirao Phule in 1873 to critique the caste system?",
+    "explanation": "Jyotirao Phule wrote 'Gulamgiri' (meaning Slavery) in Marathi, dedicated to the American movement to abolish slavery.",
+    "options": [
+      { "text": "Annihilation of Caste", "isCorrect": false },
+      { "text": "Gulamgiri", "isCorrect": true },
+      { "text": "Satyarth Prakash", "isCorrect": false },
+      { "text": "Discovery of India", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 10",
+    "subject": "GK",
+    "difficulty": "VERY HARD",
+    "text": "Which act of the British Parliament introduced communal electorates for Muslims in India for the first time?",
+    "explanation": "The Indian Councils Act of 1909 (commonly known as Morley-Minto Reforms) introduced a system of separate electorates for Muslims.",
+    "options": [
+      { "text": "Government of India Act 1919", "isCorrect": false },
+      { "text": "Indian Councils Act 1909 (Morley-Minto)", "isCorrect": true },
+      { "text": "Charter Act of 1833", "isCorrect": false },
+      { "text": "Government of India Act 1935", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 10",
+    "subject": "GK",
+    "difficulty": "VERY HARD",
+    "text": "The International Date Line, established in 1884, roughly follows which meridian?",
+    "explanation": "The International Date Line follows the $180^\\circ$ meridian but zig-zags around political borders to prevent splitting islands into two dates.",
+    "options": [
+      { "text": "$0^\\circ$ longitude (Greenwich)", "isCorrect": false },
+      { "text": "$180^\\circ$ longitude", "isCorrect": true },
+      { "text": "$82.5^\\circ\\text{ East}$ longitude", "isCorrect": false },
+      { "text": "$90^\\circ\\text{ West}$ longitude", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 10",
+    "subject": "GK",
+    "difficulty": "VERY HARD",
+    "text": "In public finance, how is 'Fiscal Deficit' calculated?",
+    "explanation": "Fiscal Deficit = Total Budget Expenditure - Total Budget Receipts excluding borrowings, indicating the total borrowing requirements of the government.",
+    "options": [
+      { "text": "Total Tax Revenue - Total Non-tax Revenue", "isCorrect": false },
+      { "text": "Total Budget Expenditure - Total Budget Receipts excluding borrowings", "isCorrect": true },
+      { "text": "Revenue Expenditure - Revenue Receipts", "isCorrect": false },
+      { "text": "Capital Expenditure - Interest Payments", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 10",
+    "subject": "GK",
+    "difficulty": "VERY HARD",
+    "text": "Which DRDO-developed weapon is a third-generation 'fire and forget' anti-tank guided missile with a lock-on-before-launch capability?",
+    "explanation": "Nag is an anti-tank guided missile developed under the Integrated Guided Missile Development Programme (IGMDP), having an operational range of 4 km.",
+    "options": [
+      { "text": "Agni", "isCorrect": false },
+      { "text": "Nag", "isCorrect": true },
+      { "text": "Trishul", "isCorrect": false },
+      { "text": "Akash", "isCorrect": false }
+    ]
+  }
+]

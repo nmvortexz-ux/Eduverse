@@ -1,0 +1,327 @@
+[
+  {
+    "class": "Class 9",
+    "subject": "Science",
+    "difficulty": "EASY",
+    "text": "Which of the following represents a homogeneous mixture?",
+    "explanation": "Salt solution is a homogeneous mixture because its composition is uniform throughout.",
+    "options": [
+      { "text": "Soil", "isCorrect": false },
+      { "text": "Salt solution", "isCorrect": true },
+      { "text": "Chalk powder in water", "isCorrect": false },
+      { "text": "Oil and water", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 9",
+    "subject": "Science",
+    "difficulty": "EASY",
+    "text": "Which plant tissue is primarily responsible for the active growth of the plant?",
+    "explanation": "Meristematic tissues have dividing cells and are responsible for growth in length and girth of plants.",
+    "options": [
+      { "text": "Sclerenchyma", "isCorrect": false },
+      { "text": "Meristematic tissue", "isCorrect": true },
+      { "text": "Parenchyma", "isCorrect": false },
+      { "text": "Phloem", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 9",
+    "subject": "Science",
+    "difficulty": "EASY",
+    "text": "According to Newton's second law of motion, force ($F$) acting on a body is mathematically expressed as:",
+    "explanation": "Newton's second law states that Force is the product of mass ($m$) and acceleration ($a$), given by $F = ma$.",
+    "options": [
+      { "text": "$F = \\frac{m}{a}$", "isCorrect": false },
+      { "text": "$F = ma$", "isCorrect": true },
+      { "text": "$F = m a^2$", "isCorrect": false },
+      { "text": "$F = \\frac{a}{m}$", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 9",
+    "subject": "Science",
+    "difficulty": "EASY",
+    "text": "What type of mixture is a true solution?",
+    "explanation": "A true solution is a homogeneous mixture of two or more substances where solute particles are completely dissolved.",
+    "options": [
+      { "text": "Heterogeneous mixture", "isCorrect": false },
+      { "text": "Homogeneous mixture", "isCorrect": true },
+      { "text": "Suspension", "isCorrect": false },
+      { "text": "Colloid", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 9",
+    "subject": "Science",
+    "difficulty": "EASY",
+    "text": "Which epithelial tissue forms the thin inner lining of the mouth and alveoli?",
+    "explanation": "Simple squamous epithelium consists of extremely thin and flat cells forming a delicate lining.",
+    "options": [
+      { "text": "Cuboidal epithelium", "isCorrect": false },
+      { "text": "Simple squamous epithelium", "isCorrect": true },
+      { "text": "Columnar epithelium", "isCorrect": false },
+      { "text": "Stratified squamous epithelium", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 9",
+    "subject": "Science",
+    "difficulty": "EASY",
+    "text": "What is the tendency of an undisturbed object to resist any change in its state of motion called?",
+    "explanation": "Inertia is the inherent property of a body to resist changes in its state of rest or uniform motion.",
+    "options": [
+      { "text": "Momentum", "isCorrect": false },
+      { "text": "Inertia", "isCorrect": true },
+      { "text": "Velocity", "isCorrect": false },
+      { "text": "Force", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 9",
+    "subject": "Science",
+    "difficulty": "MEDIUM",
+    "text": "What kind of mixture is milk classified as?",
+    "explanation": "Milk is a colloid because solute particles are suspended uniformly and do not settle down, but scatter light.",
+    "options": [
+      { "text": "Suspension", "isCorrect": false },
+      { "text": "Colloid", "isCorrect": true },
+      { "text": "True solution", "isCorrect": false },
+      { "text": "Compound", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 9",
+    "subject": "Science",
+    "difficulty": "MEDIUM",
+    "text": "Which permanent plant tissue makes up the hard husk of a coconut?",
+    "explanation": "Sclerenchyma tissue consists of dead cells with highly thickened walls containing lignin, providing strength.",
+    "options": [
+      { "text": "Parenchyma", "isCorrect": false },
+      { "text": "Sclerenchyma", "isCorrect": true },
+      { "text": "Collenchyma", "isCorrect": false },
+      { "text": "Aerenchyma", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 9",
+    "subject": "Science",
+    "difficulty": "MEDIUM",
+    "text": "Calculate the momentum of a body of mass $2\\text{ kg}$ moving with a uniform velocity of $5\\text{ m/s}$.",
+    "explanation": "Momentum $p = mv = 2\\text{ kg} \\times 5\\text{ m/s} = 10\\text{ kg m/s}$.",
+    "options": [
+      { "text": "$2.5\\text{ kg m/s}$", "isCorrect": false },
+      { "text": "$10\\text{ kg m/s}$", "isCorrect": true },
+      { "text": "$20\\text{ kg m/s}$", "isCorrect": false },
+      { "text": "$7\\text{ kg m/s}$", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 9",
+    "subject": "Science",
+    "difficulty": "MEDIUM",
+    "text": "Which separation method is used to separate butter from cream?",
+    "explanation": "Centrifugation separates mixtures based on density by spinning, causing denser particles to settle and lighter particles to stay at the top.",
+    "options": [
+      { "text": "Filtration", "isCorrect": false },
+      { "text": "Centrifugation", "isCorrect": true },
+      { "text": "Sublimation", "isCorrect": false },
+      { "text": "Evaporation", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 9",
+    "subject": "Science",
+    "difficulty": "MEDIUM",
+    "text": "Which fibrous connective tissue connects one bone to another bone in human joints?",
+    "explanation": "Ligaments are highly elastic and strong connective tissues that join bone to bone.",
+    "options": [
+      { "text": "Tendon", "isCorrect": false },
+      { "text": "Ligament", "isCorrect": true },
+      { "text": "Cartilage", "isCorrect": false },
+      { "text": "Areolar tissue", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 9",
+    "subject": "Science",
+    "difficulty": "MEDIUM",
+    "text": "When a stationary bus starts suddenly, the passengers tend to fall backward. This is due to:",
+    "explanation": "Inertia of rest keeps the passengers' upper body stationary while the lower body moves forward with the bus.",
+    "options": [
+      { "text": "Inertia of motion", "isCorrect": false },
+      { "text": "Inertia of rest", "isCorrect": true },
+      { "text": "Newton's third law", "isCorrect": false },
+      { "text": "Conservation of momentum", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 9",
+    "subject": "Science",
+    "difficulty": "MEDIUM",
+    "text": "Which of the following processes represents a chemical change?",
+    "explanation": "Burning of wood is a chemical change because it forms new substances (ash, gases) and is irreversible.",
+    "options": [
+      { "text": "Melting of ice", "isCorrect": false },
+      { "text": "Burning of wood", "isCorrect": true },
+      { "text": "Cutting of paper", "isCorrect": false },
+      { "text": "Dissolving salt in water", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 9",
+    "subject": "Science",
+    "difficulty": "MEDIUM",
+    "text": "Which muscular tissue is involuntary, uninucleated, and exhibits spindle-shaped cells?",
+    "explanation": "Smooth muscles (or unstriated muscles) are involuntary, spindle-shaped, and contain a single nucleus.",
+    "options": [
+      { "text": "Skeletal muscle", "isCorrect": false },
+      { "text": "Smooth muscle", "isCorrect": true },
+      { "text": "Cardiac muscle", "isCorrect": false },
+      { "text": "Striated muscle", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 9",
+    "subject": "Science",
+    "difficulty": "MEDIUM",
+    "text": "A constant force acts on an object of mass $5\\text{ kg}$ for $2\\text{ s}$, increasing its velocity from $3\\text{ m/s}$ to $7\\text{ m/s}$. Find the force.",
+    "explanation": "Acceleration $a = \\frac{7 - 3}{2} = 2\\text{ m/s}^2$. Force $F = ma = 5\\text{ kg} \\times 2\\text{ m/s}^2 = 10\\text{ N}$.",
+    "options": [
+      { "text": "$5\\text{ N}$", "isCorrect": false },
+      { "text": "$10\\text{ N}$", "isCorrect": true },
+      { "text": "$15\\text{ N}$", "isCorrect": false },
+      { "text": "$20\\text{ N}$", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 9",
+    "subject": "Science",
+    "difficulty": "HARD",
+    "text": "When a beam of light passes through a colloidal solution of starch, the path of light becomes visible. This phenomenon is called:",
+    "explanation": "The Tyndall effect is the scattering of a light beam by colloidal particles, making its path visible.",
+    "options": [
+      { "text": "Refraction of light", "isCorrect": false },
+      { "text": "Tyndall effect", "isCorrect": true },
+      { "text": "Dispersion of light", "isCorrect": false },
+      { "text": "Internal reflection", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 9",
+    "subject": "Science",
+    "difficulty": "HARD",
+    "text": "Which elements of the complex tissue xylem are living cells?",
+    "explanation": "Xylem parenchyma is the only living cell component of xylem tissue; tracheids, vessels, and xylem fibers are dead.",
+    "options": [
+      { "text": "Tracheids", "isCorrect": false },
+      { "text": "Xylem parenchyma", "isCorrect": true },
+      { "text": "Xylem vessels", "isCorrect": false },
+      { "text": "Xylem fibers", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 9",
+    "subject": "Science",
+    "difficulty": "HARD",
+    "text": "A bullet of mass $20\\text{ g}$ is fired horizontally with a velocity of $150\\text{ m/s}$ from a pistol of mass $2\\text{ kg}$. Find the recoil velocity of the pistol.",
+    "explanation": "By conservation of momentum, $m_1 v_1 + m_2 v_2 = 0 \\Rightarrow 0.02 \\times 150 + 2 \\times v_2 = 0 \\Rightarrow 3 + 2v_2 = 0 \\Rightarrow v_2 = -1.5\\text{ m/s}$.",
+    "options": [
+      { "text": "$-3.0\\text{ m/s}$", "isCorrect": false },
+      { "text": "$-1.5\\text{ m/s}$", "isCorrect": true },
+      { "text": "$1.5\\text{ m/s}$", "isCorrect": false },
+      { "text": "$-0.75\\text{ m/s}$", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 9",
+    "subject": "Science",
+    "difficulty": "HARD",
+    "text": "A solution contains $40\\text{ g}$ of common salt dissolved in $320\\text{ g}$ of water. Calculate the concentration of the solution in terms of mass by mass percentage.",
+    "explanation": "Mass of solution = $40 + 320 = 360\\text{ g}$. Concentration = $\\frac{\\text{mass of solute}}{\\text{mass of solution}} \\times 100 = \\frac{40}{360} \\times 100 \\approx 11.11\\%$.",
+    "options": [
+      { "text": "$12.5\\%$", "isCorrect": false },
+      { "text": "$11.1\\%$", "isCorrect": true },
+      { "text": "$10\\%$", "isCorrect": false },
+      { "text": "$15\\%$", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 9",
+    "subject": "Science",
+    "difficulty": "HARD",
+    "text": "What structural feature distinguishes cardiac muscle cells from other muscle cells?",
+    "explanation": "Cardiac muscles are involuntary, cylindrical, branched, and uninucleated cells.",
+    "options": [
+      { "text": "They are long, unbranched, and multinucleated", "isCorrect": false },
+      { "text": "They are cylindrical, branched, and uninucleated", "isCorrect": true },
+      { "text": "They are spindle-shaped and lack striations", "isCorrect": false },
+      { "text": "They are voluntary and non-striated", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 9",
+    "subject": "Science",
+    "difficulty": "HARD",
+    "text": "A fielder pulls his hands backward while catching a fast-moving cricket ball. According to Newton's laws, this action:",
+    "explanation": "Pulling hands back increases the time interval of catch, which reduces the rate of change of momentum, and therefore decreases the impact force on the hands.",
+    "options": [
+      { "text": "Increases the rate of change of momentum", "isCorrect": false },
+      { "text": "Decreases the rate of change of momentum by increasing time", "isCorrect": true },
+      { "text": "Increases the force experienced by the hands", "isCorrect": false },
+      { "text": "Is done to satisfy the law of conservation of mass", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 9",
+    "subject": "Science",
+    "difficulty": "VERY HARD",
+    "text": "How can you distinguish between a true solution, a suspension, and a colloidal solution based on particle size and stability?",
+    "explanation": "True solution particles are $<1\\text{ nm}$ and stable; suspensions are $>100\\text{ nm}$ and unstable; colloids are $1\\text{ to } 100\\text{ nm}$ and stable.",
+    "options": [
+      { "text": "All three have identical particle sizes but differ in solvent viscosity", "isCorrect": false },
+      { "text": "True solutions have particles $<1\\text{ nm}$ (stable), suspensions have $>100\\text{ nm}$ (unstable), and colloids are $1\\text{-}100\\text{ nm}$ (stable)", "isCorrect": true },
+      { "text": "Suspensions have the smallest particles and are highly stable", "isCorrect": false },
+      { "text": "Colloids have the largest particles and settle immediately when left undisturbed", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 9",
+    "subject": "Science",
+    "difficulty": "VERY HARD",
+    "text": "Compare the cell wall characteristics and structural roles of parenchyma, collenchyma, and sclerenchyma tissues.",
+    "explanation": "Parenchyma has thin cellulose walls; collenchyma has pectin thickened corners; sclerenchyma has thick lignified secondary walls.",
+    "options": [
+      { "text": "Parenchyma cell walls are heavily thickened with lignin throughout", "isCorrect": false },
+      { "text": "Parenchyma has thin cellulose walls, collenchyma has walls thickened at corners, and sclerenchyma has thick, lignified walls", "isCorrect": true },
+      { "text": "Collenchyma cell walls are dead and contain silica deposits", "isCorrect": false },
+      { "text": "Sclerenchyma has thin, flexible cell walls to facilitate rapid division", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 9",
+    "subject": "Science",
+    "difficulty": "VERY HARD",
+    "text": "Two bodies of masses $m_1$ and $m_2$ moving with initial velocities $u_1$ and $u_2$ collide. Write the equation expressing conservation of momentum after collision (final velocities $v_1$, $v_2$).",
+    "explanation": "The law of conservation of momentum states that total momentum before collision equals total momentum after collision: $m_1 u_1 + m_2 u_2 = m_1 v_1 + m_2 v_2$.",
+    "options": [
+      { "text": "$m_1 u_1 + m_1 v_1 = m_2 u_2 + m_2 v_2$", "isCorrect": false },
+      { "text": "$m_1 u_1 + m_2 u_2 = m_1 v_1 + m_2 v_2$", "isCorrect": true },
+      { "text": "$m_1 (u_1 - v_1) = m_2 (v_2 + u_2)$", "isCorrect": false },
+      { "text": "$m_1 u_1^2 + m_2 u_2^2 = m_1 v_1^2 + m_2 v_2^2$", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 9",
+    "subject": "Science",
+    "difficulty": "VERY HARD",
+    "text": "A truck starting from rest rolls down a hill with constant acceleration, covering $400\\text{ m}$ in $20\\text{ s}$. Find the force acting on it if its mass is $7\\text{ metric tonnes}$ ($1\\text{ metric tonne} = 1000\\text{ kg}$).",
+    "explanation": "$u = 0$, $s = 400$, $t = 20$. Using $s = ut + \\frac{1}{2}at^2 \\Rightarrow 400 = \\frac{1}{2}a(400) \\Rightarrow a = 2\\text{ m/s}^2$. Mass $m = 7000\\text{ kg}$. Force $F = ma = 7000 \\times 2 = 14000\\text{ N}$.",
+    "options": [
+      { "text": "$7000\\text{ N}$", "isCorrect": false },
+      { "text": "$14000\\text{ N}$", "isCorrect": true },
+      { "text": "$28000\\text{ N}$", "isCorrect": false },
+      { "text": "$3500\\text{ N}$", "isCorrect": false }
+    ]
+  }
+]

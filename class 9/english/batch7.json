@@ -1,0 +1,327 @@
+[
+  {
+    "class": "Class 9",
+    "subject": "English",
+    "difficulty": "E",
+    "text": "What is the name of the girl who couldn't hear but became a famous percussionist?",
+    "explanation": "Evelyn Glennie is a multi-percussionist who achieved international success despite having a profound hearing impairment.",
+    "options": [
+      { "text": "Kezia", "isCorrect": false },
+      { "text": "Evelyn Glennie", "isCorrect": true },
+      { "text": "Margie", "isCorrect": false },
+      { "text": "Santosh Yadav", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 9",
+    "subject": "English",
+    "difficulty": "E",
+    "text": "In 'The Little Girl', how did Kezia's grandmother help Kezia when she had a nightmare?",
+    "explanation": "It was actually her father who carried her to his big bedroom and slept next to her, while her grandmother was not in the room.",
+    "options": [
+      { "text": "Her grandmother sang a lullaby", "isCorrect": false },
+      { "text": "Her father carried her to his room and slept next to her", "isCorrect": true },
+      { "text": "Her mother gave her medicine", "isCorrect": false },
+      { "text": "Her cook Olga read her a story", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 9",
+    "subject": "English",
+    "difficulty": "E",
+    "text": "In 'A Truly Beautiful Mind', what did Albert Einstein's headmaster tell his father about him?",
+    "explanation": "The headmaster told Einstein's father that Einstein would never make a success at anything, no matter what profession he chose.",
+    "options": [
+      { "text": "That he was a genius who would win a Nobel Prize", "isCorrect": false },
+      { "text": "That he would never make a success at anything", "isCorrect": true },
+      { "text": "That he should become a professional musician", "isCorrect": false },
+      { "text": "That he was too smart for the school", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 9",
+    "subject": "English",
+    "difficulty": "E",
+    "text": "What did the child in 'The Lost Child' run after in the mustard field?",
+    "explanation": "The child ran after dragonflies and butterflies to catch them in his hands.",
+    "options": [
+      { "text": "A small rabbit", "isCorrect": false },
+      { "text": "Dragonflies and butterflies", "isCorrect": true },
+      { "text": "A toy carriage", "isCorrect": false },
+      { "text": "His father's shadow", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 9",
+    "subject": "English",
+    "difficulty": "E",
+    "text": "In the poem 'Wind', who are the 'weaklings' the wind makes fun of?",
+    "explanation": "The wind makes fun of weak things like crumbling houses, crumbling doors, and weak bodies.",
+    "options": [
+      { "text": "The birds flying in the sky", "isCorrect": false },
+      { "text": "Crumbling houses, doors, rafters, and weak bodies", "isCorrect": true },
+      { "text": "The rich merchants of the town", "isCorrect": false },
+      { "text": "The small children playing outside", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 9",
+    "subject": "English",
+    "difficulty": "E",
+    "text": "In 'The Happy Prince', what precious stone was embedded in the hilt of the Prince's sword?",
+    "explanation": "A great red ruby was glowing on the hilt of his sword, which he gave to the poor seamstress.",
+    "options": [
+      { "text": "Sapphire", "isCorrect": false },
+      { "text": "Ruby", "isCorrect": true },
+      { "text": "Diamond", "isCorrect": false },
+      { "text": "Emerald", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 9",
+    "subject": "English",
+    "difficulty": "M",
+    "text": "In 'A Truly Beautiful Mind', why did Albert Einstein migrate to the USA in 1933?",
+    "explanation": "Einstein emigrated to the United States in 1933 because the Nazis had come to power in Germany.",
+    "options": [
+      { "text": "To accept a research fellowship at Oxford", "isCorrect": false },
+      { "text": "Because the Nazis had come to power in Germany", "isCorrect": true },
+      { "text": "To build the atomic bomb with American scientists", "isCorrect": false },
+      { "text": "To work as a consultant for the US patent office", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 9",
+    "subject": "English",
+    "difficulty": "M",
+    "text": "Choose the correct reported speech form: 'He said, \"I may go out tonight.\"'",
+    "explanation": "'May' changes to 'might', 'tonight' changes to 'that night', and the tense of the reporting verb requires backshifting.",
+    "options": [
+      { "text": "He said that he may go out that night.", "isCorrect": false },
+      { "text": "He said that he might go out that night.", "isCorrect": true },
+      { "text": "He told that he might go out tonight.", "isCorrect": false },
+      { "text": "He said that I might go out that night.", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 9",
+    "subject": "English",
+    "difficulty": "M",
+    "text": "In 'The Sound of Music' (Part I), how does Evelyn Glennie hear music?",
+    "explanation": "She hears it not through her ears, but by sensing the notes and vibrations through different parts of her body.",
+    "options": [
+      { "text": "By using a special hearing aid developed in London", "isCorrect": false },
+      { "text": "By sensing the vibrations through different parts of her body", "isCorrect": true },
+      { "text": "By reading sheet music and lip-reading teachers", "isCorrect": false },
+      { "text": "By playing only wind instruments", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 9",
+    "subject": "English",
+    "difficulty": "M",
+    "text": "Fill in the blank with the correct determiners: 'There is ___ water in the jug; you can drink it.'",
+    "explanation": "'A little' has a positive meaning (some, though not much), which matches the statement 'you can drink it'.",
+    "options": [
+      { "text": "little", "isCorrect": false },
+      { "text": "a little", "isCorrect": true },
+      { "text": "few", "isCorrect": false },
+      { "text": "a few", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 9",
+    "subject": "English",
+    "difficulty": "M",
+    "text": "In the poem 'The Road Not Taken', why does the poet choose the second road?",
+    "explanation": "Because it was grassy, wanted wear, and looked less traveled by people.",
+    "options": [
+      { "text": "Because it was clean and concrete", "isCorrect": false },
+      { "text": "Because it was grassy and wanted wear", "isCorrect": true },
+      { "text": "Because it had signboards pointing to the town", "isCorrect": false },
+      { "text": "Because his friends had taken that path", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 9",
+    "subject": "English",
+    "difficulty": "M",
+    "text": "In 'In the Kingdom of Fools', who was arrested first for the wall collapse that killed the thief?",
+    "explanation": "The merchant, who owned the house whose wall collapsed, was summoned first.",
+    "options": [
+      { "text": "The bricklayer who built the wall", "isCorrect": false },
+      { "text": "The merchant who owned the house", "isCorrect": true },
+      { "text": "The dancing girl who distracted the bricklayer", "isCorrect": false },
+      { "text": "The goldsmith who delayed the dancing girl's work", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 9",
+    "subject": "English",
+    "difficulty": "M",
+    "text": "In 'The Beggar', how did Lushkoff become a notary earning thirty-five roubles a month?",
+    "explanation": "Sergei sent him to a friend with a letter of recommendation for copying work, which led to a stable job.",
+    "options": [
+      { "text": "He bought a commercial shop using advocate's money", "isCorrect": false },
+      { "text": "Sergei recommended him to a friend for copying work, which led to a notary job", "isCorrect": true },
+      { "text": "He won a litigation with Sergei's help", "isCorrect": false },
+      { "text": "He was hired by a choir group again", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 9",
+    "subject": "English",
+    "difficulty": "M",
+    "text": "Choose the sentence that displays correct verb agreement for plural-appearing singular nouns: 'The news ___ not good today.'",
+    "explanation": "'News' is an uncountable singular noun, so it takes the singular verb 'is'.",
+    "options": [
+      { "text": "are", "isCorrect": false },
+      { "text": "is", "isCorrect": true },
+      { "text": "were", "isCorrect": false },
+      { "text": "have been", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 9",
+    "subject": "English",
+    "difficulty": "M",
+    "text": "In 'The Last Leaf', what did Sue tell Johnsy about Behrman's death at the end of the story?",
+    "explanation": "She told Johnsy that Behrman died of pneumonia after painting the last leaf on the wall in the freezing rain.",
+    "options": [
+      { "text": "That he was admitted to a hospital in Boston", "isCorrect": false },
+      { "text": "That he died of pneumonia after painting the last leaf to save her life", "isCorrect": true },
+      { "text": "That he retired to a village in Germany", "isCorrect": false },
+      { "text": "That he died of old age in his bed", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 9",
+    "subject": "English",
+    "difficulty": "H",
+    "text": "In 'The Happy Prince', where did the Prince's sapphire eyes go?",
+    "explanation": "One went to a poor playwright in a garret who was cold and hungry, and the other went to a matchgirl whose matches fell in the gutter.",
+    "options": [
+      { "text": "Both were given to the poor seamstress for her sick son", "isCorrect": false },
+      { "text": "One to a playwright in a garret, and the other to a poor matchgirl", "isCorrect": true },
+      { "text": "Both were sold to buy food for the swallow", "isCorrect": false },
+      { "text": "They were stolen by the Town Councillors", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 9",
+    "subject": "English",
+    "difficulty": "H",
+    "text": "Identify the grammatically correct passive voice of: 'Who wrote this letter?'",
+    "explanation": "'Who' becomes 'By whom', and the simple past active 'wrote' changes to 'was written'.",
+    "options": [
+      { "text": "By whom this letter was written?", "isCorrect": false },
+      { "text": "By whom was this letter written?", "isCorrect": true },
+      { "text": "Who was this letter written by?", "isCorrect": false },
+      { "text": "By whom had this letter been written?", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 9",
+    "subject": "English",
+    "difficulty": "H",
+    "text": "In the poem 'Wind', how can we make the wind our friend according to the poet?",
+    "explanation": "By building strong houses, closing doors firmly, and making ourselves physically and mentally strong.",
+    "options": [
+      { "text": "By burning fires to stop the cold breeze", "isCorrect": false },
+      { "text": "By building strong homes, joining doors firmly, and making ourselves strong", "isCorrect": true },
+      { "text": "By praying to the wind god everyday", "isCorrect": false },
+      { "text": "By planting dense trees around our houses", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 9",
+    "subject": "English",
+    "difficulty": "H",
+    "text": "In 'A House Is Not a Home', why did the author hate visiting his old school after his house burned down?",
+    "explanation": "He felt embarrassed and awkward in his old clothes and shoes, feeling like a homeless person with no belongings.",
+    "options": [
+      { "text": "Because the teachers there were very strict", "isCorrect": false },
+      { "text": "Because he felt embarrassed and awkward in his borrowed clothes and shoes", "isCorrect": true },
+      { "text": "Because the school building had also caught fire", "isCorrect": false },
+      { "text": "Because he had not completed his homework", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 9",
+    "subject": "English",
+    "difficulty": "H",
+    "text": "Complete the sentence with the correct tense of the verb: 'If you had run faster, you ___ the race.'",
+    "explanation": "This is a third conditional sentence; the main clause must use 'would have + past participle'.",
+    "options": [
+      { "text": "would win", "isCorrect": false },
+      { "text": "would have won", "isCorrect": true },
+      { "text": "had won", "isCorrect": false },
+      { "text": "will have won", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 9",
+    "subject": "English",
+    "difficulty": "H",
+    "text": "In 'The Sound of Music' (Part II), who modified the pungi into the modern shehnai?",
+    "explanation": "A barber of a family of professional musicians, who had access to the royal palace, modified the pungi.",
+    "options": [
+      { "text": "Ustad Bismillah Khan himself", "isCorrect": false },
+      { "text": "A barber of a family of professional musicians", "isCorrect": true },
+      { "text": "A court poet of Aurangzeb", "isCorrect": false },
+      { "text": "A French music exporter", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 9",
+    "subject": "English",
+    "difficulty": "VH",
+    "text": "In the poem 'The Road Not Taken', what is the significance of the sigh in the final stanza?",
+    "explanation": "The sigh represents the poet's reflective, slightly regretful realization that he can never know what the other road held, highlighting the gravity of irreversible choices.",
+    "options": [
+      { "text": "It shows his physical exhaustion after walking a long distance", "isCorrect": false },
+      { "text": "It represents reflective contemplation of the irreversible nature of life's choices", "isCorrect": true },
+      { "text": "It indicates his anger at having chosen the wrong path", "isCorrect": false },
+      { "text": "It highlights his joy of discovering a treasure on the road", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 9",
+    "subject": "English",
+    "difficulty": "VH",
+    "text": "In 'The Last Leaf', what did Johnsy's dependency on the falling leaves represent psychologically?",
+    "explanation": "It represented her loss of hope and a self-destructive belief that her life was fading away, linking her survival to external, transient objects.",
+    "options": [
+      { "text": "Her passion for studying botany and nature", "isCorrect": false },
+      { "text": "Her psychological loss of hope and externalized sense of control over her own life", "isCorrect": true },
+      { "text": "Her fear of seasonal changes in New York", "isCorrect": false },
+      { "text": "Her artistic desire to paint autumn landscapes", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 9",
+    "subject": "English",
+    "difficulty": "VH",
+    "text": "Identify the type of clause underlined in the sentence: 'The plan <u>which he proposed</u> was rejected by the manager.'",
+    "explanation": "The underlined clause describes/modifies the noun 'plan', making it an Adjective (or Relative) Clause.",
+    "options": [
+      { "text": "Noun Clause", "isCorrect": false },
+      { "text": "Adjective Clause", "isCorrect": true },
+      { "text": "Adverb Clause of Reason", "isCorrect": false },
+      { "text": "Noun Clause acting as Object", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 9",
+    "subject": "English",
+    "difficulty": "VH",
+    "text": "Analyze the sentence: 'He behaves as if he ___ the boss of the company.' Which verb form is correct here?",
+    "explanation": "In hypothetical comparison clauses introduced by 'as if/as though', 'were' is used for all subjects to show unreality.",
+    "options": [
+      { "text": "is", "isCorrect": false },
+      { "text": "were", "isCorrect": true },
+      { "text": "was", "isCorrect": false },
+      { "text": "would be", "isCorrect": false }
+    ]
+  }
+]

@@ -1,0 +1,182 @@
+[
+  {
+    "text": "According to the Law of Diminishing Returns, what happens to the marginal product of labour as more and more units of labour are employed?",
+    "options": [
+      "It increases",
+      "It remains constant",
+      "It decreases",
+      "It becomes zero"
+    ],
+    "correctAnswer": "It decreases",
+    "explanation": "The Law of Diminishing Returns states that as more and more units of a variable input (like labour) are employed, the marginal product of that input will eventually decrease. This is because as the quantity of the variable input increases, the law of variable proportions comes into play, leading to a decrease in the marginal product.",
+    "difficulty": "Easy",
+    "class": "Class 11",
+    "subject": "Economics",
+    "chapter": "Ch 3: Producer Behaviour and Supply"
+  },
+  {
+    "text": "What is the relationship between Total Cost (TC), Total Fixed Cost (TFC), and Total Variable Cost (TVC)?",
+    "options": [
+      "TC = TFC + TVC",
+      "TC = TFC - TVC",
+      "TC = TVC - TFC",
+      "TC = TFC - TVC + TVC"
+    ],
+    "correctAnswer": "TC = TFC + TVC",
+    "explanation": "Total Cost (TC) is the sum of Total Fixed Cost (TFC) and Total Variable Cost (TVC). TFC is the cost that remains the same even if the level of production changes, while TVC is the cost that changes with the level of production.",
+    "difficulty": "Easy",
+    "class": "Class 11",
+    "subject": "Economics",
+    "chapter": "Ch 3: Producer Behaviour and Supply"
+  },
+  {
+    "text": "What is the shape of the Marginal Cost (MC) curve?",
+    "options": [
+      "U-shaped",
+      "Inverted U-shaped",
+      "J-shaped",
+      "S-shaped"
+    ],
+    "correctAnswer": "U-shaped",
+    "explanation": "The Marginal Cost (MC) curve is typically U-shaped. It starts high, decreases as the quantity of output increases, and then increases again as the quantity of output continues to increase. This is because as the quantity of output increases, the law of variable proportions comes into play, leading to a decrease in MC, but eventually, the law of diminishing returns takes over, leading to an increase in MC.",
+    "difficulty": "Medium",
+    "class": "Class 11",
+    "subject": "Economics",
+    "chapter": "Ch 3: Producer Behaviour and Supply"
+  },
+  {
+    "text": "What is the relationship between the Total Revenue (TR) and Marginal Revenue (MR) curves?",
+    "options": [
+      "TR = MR",
+      "TR > MR",
+      "TR < MR",
+      "TR = MR - MR"
+    ],
+    "correctAnswer": "TR = MR",
+    "explanation": "The Total Revenue (TR) curve is a horizontal line at the level of price. The Marginal Revenue (MR) curve is a straight line with a slope equal to the price. Therefore, TR = MR.",
+    "difficulty": "Easy",
+    "class": "Class 11",
+    "subject": "Economics",
+    "chapter": "Ch 3: Producer Behaviour and Supply"
+  },
+  {
+    "text": "What is the condition for a producer to be in equilibrium?",
+    "options": [
+      "MR = MC",
+      "TR = TC",
+      "MC = TVC",
+      "MR = TR"
+    ],
+    "correctAnswer": "MR = MC",
+    "explanation": "A producer is in equilibrium when the Marginal Revenue (MR) equals the Marginal Cost (MC). This is because at this point, the producer is producing the optimal quantity of output, where the revenue from selling one more unit of output equals the cost of producing that unit.",
+    "difficulty": "Medium",
+    "class": "Class 11",
+    "subject": "Economics",
+    "chapter": "Ch 3: Producer Behaviour and Supply"
+  },
+  {
+    "text": "What is the relationship between the Total Revenue (TR) and Total Cost (TC) curves?",
+    "options": [
+      "TR = TC",
+      "TR > TC",
+      "TR < TC",
+      "TR = TC - TR"
+    ],
+    "correctAnswer": "TR = TC",
+    "explanation": "The Total Revenue (TR) curve is a horizontal line at the level of price. The Total Cost (TC) curve is a U-shaped curve. Therefore, TR = TC at the equilibrium point, where the producer is producing the optimal quantity of output.",
+    "difficulty": "Easy",
+    "class": "Class 11",
+    "subject": "Economics",
+    "chapter": "Ch 3: Producer Behaviour and Supply"
+  },
+  {
+    "text": "What is the shape of the Total Cost (TC) curve?",
+    "options": [
+      "U-shaped",
+      "Inverted U-shaped",
+      "J-shaped",
+      "S-shaped"
+    ],
+    "correctAnswer": "U-shaped",
+    "explanation": "The Total Cost (TC) curve is typically U-shaped. It starts high, decreases as the quantity of output increases, and then increases again as the quantity of output continues to increase. This is because as the quantity of output increases, the law of variable proportions comes into play, leading to a decrease in TC, but eventually, the law of diminishing returns takes over, leading to an increase in TC.",
+    "difficulty": "Medium",
+    "class": "Class 11",
+    "subject": "Economics",
+    "chapter": "Ch 3: Producer Behaviour and Supply"
+  },
+  {
+    "text": "What is the relationship between the Marginal Revenue (MR) and Marginal Cost (MC) curves?",
+    "options": [
+      "MR = MC",
+      "MR > MC",
+      "MR < MC",
+      "MR = MC - MR"
+    ],
+    "correctAnswer": "MR = MC",
+    "explanation": "The Marginal Revenue (MR) curve is a straight line with a slope equal to the price. The Marginal Cost (MC) curve is typically U-shaped. Therefore, MR = MC at the equilibrium point, where the producer is producing the optimal quantity of output.",
+    "difficulty": "Easy",
+    "class": "Class 11",
+    "subject": "Economics",
+    "chapter": "Ch 3: Producer Behaviour and Supply"
+  },
+  {
+    "text": "What is the condition for a producer to be in equilibrium in terms of elasticity of supply?",
+    "options": [
+      "Elasticity of supply is unitary",
+      "Elasticity of supply is greater than 1",
+      "Elasticity of supply is less than 1",
+      "Elasticity of supply is zero"
+    ],
+    "correctAnswer": "Elasticity of supply is unitary",
+    "explanation": "A producer is in equilibrium when the elasticity of supply is unitary. This is because at this point, the producer is producing the optimal quantity of output, where the supply curve is perfectly elastic.",
+    "difficulty": "Hard",
+    "class": "Class 11",
+    "subject": "Economics",
+    "chapter": "Ch 3: Producer Behaviour and Supply"
+  },
+  {
+    "text": "What is the relationship between the Total Variable Cost (TVC) and Total Fixed Cost (TFC) curves?",
+    "options": [
+      "TVC = TFC",
+      "TVC > TFC",
+      "TVC < TFC",
+      "TVC = TFC - TVC"
+    ],
+    "correctAnswer": "TVC > TFC",
+    "explanation": "The Total Variable Cost (TVC) curve is typically U-shaped, while the Total Fixed Cost (TFC) curve is a horizontal line. Therefore, TVC > TFC at the equilibrium point, where the producer is producing the optimal quantity of output.",
+    "difficulty": "Easy",
+    "class": "Class 11",
+    "subject": "Economics",
+    "chapter": "Ch 3: Producer Behaviour and Supply"
+  },
+  {
+    "text": "What is the shape of the Total Variable Cost (TVC) curve?",
+    "options": [
+      "U-shaped",
+      "Inverted U-shaped",
+      "J-shaped",
+      "S-shaped"
+    ],
+    "correctAnswer": "U-shaped",
+    "explanation": "The Total Variable Cost (TVC) curve is typically U-shaped. It starts high, decreases as the quantity of output increases, and then increases again as the quantity of output continues to increase. This is because as the quantity of output increases, the law of variable proportions comes into play, leading to a decrease in TVC, but eventually, the law of diminishing returns takes over, leading to an increase in TVC.",
+    "difficulty": "Medium",
+    "class": "Class 11",
+    "subject": "Economics",
+    "chapter": "Ch 3: Producer Behaviour and Supply"
+  },
+  {
+    "text": "What is the relationship between the Marginal Revenue (MR) and Total Revenue (TR) curves?",
+    "options": [
+      "MR = TR",
+      "MR > TR",
+      "MR < TR",
+      "MR = TR - MR"
+    ],
+    "correctAnswer": "MR = TR",
+    "explanation": "The Marginal Revenue (MR) curve is a straight line with a slope equal to the price. The Total Revenue (TR) curve is a horizontal line at the level of price. Therefore, MR = TR.",
+    "difficulty": "Easy",
+    "class": "Class 11",
+    "subject": "Economics",
+    "chapter": "Ch 3: Producer Behaviour and Supply"
+  }
+]

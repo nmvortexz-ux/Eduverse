@@ -1,0 +1,182 @@
+[
+  {
+    "text": "What is the primary objective of accounting for not-for-profit organisations?",
+    "options": [
+      "To maximise profits",
+      "To provide services to members",
+      "To comply with tax laws",
+      "To generate funds for social causes"
+    ],
+    "correctAnswer": "To provide services to members",
+    "explanation": "Not-for-profit organisations aim to provide services to their members, rather than maximising profits. This is a key concept in Chapter 1 of the NCERT textbook.",
+    "difficulty": "Easy",
+    "class": "Class 12",
+    "subject": "Accountancy",
+    "chapter": "Ch 1: Accounting for Not-for-Profit Organisation"
+  },
+  {
+    "text": "How are specific donations treated in the accounts of a not-for-profit organisation?",
+    "options": [
+      "As revenue",
+      "As capital",
+      "As an expense",
+      "As a liability"
+    ],
+    "correctAnswer": "As capital",
+    "explanation": "Specific donations are treated as capital receipts, as they are meant for a specific purpose. This is explained in the NCERT textbook, Chapter 1.",
+    "difficulty": "Medium",
+    "class": "Class 12",
+    "subject": "Accountancy",
+    "chapter": "Ch 1: Accounting for Not-for-Profit Organisation"
+  },
+  {
+    "text": "What is the formula to calculate the amount of tournament fund?",
+    "options": [
+      "$\text{Opening Balance} + \text{Income} - \text{Expenses}$",
+      "$\text{Opening Balance} - \text{Income} + \text{Expenses}$",
+      "$\text{Income} - \text{Expenses} + \text{Opening Balance}$",
+      "$\text{Income} + \text{Expenses} - \text{Opening Balance}$"
+    ],
+    "correctAnswer": "$\text{Opening Balance} + \text{Income} - \text{Expenses}$",
+    "explanation": "The tournament fund is calculated by adding the opening balance and income, and then subtracting the expenses. This is a key concept in Chapter 1 of the NCERT textbook.",
+    "difficulty": "Hard",
+    "class": "Class 12",
+    "subject": "Accountancy",
+    "chapter": "Ch 1: Accounting for Not-for-Profit Organisation"
+  },
+  {
+    "text": "What is the treatment of general donations in the accounts of a not-for-profit organisation?",
+    "options": [
+      "As revenue",
+      "As capital",
+      "As an expense",
+      "As a liability"
+    ],
+    "correctAnswer": "As revenue",
+    "explanation": "General donations are treated as revenue, as they can be used for any purpose. This is explained in the NCERT textbook, Chapter 1.",
+    "difficulty": "Easy",
+    "class": "Class 12",
+    "subject": "Accountancy",
+    "chapter": "Ch 1: Accounting for Not-for-Profit Organisation"
+  },
+  {
+    "text": "How are entrance fees treated in the accounts of a not-for-profit organisation?",
+    "options": [
+      "As revenue",
+      "As capital",
+      "As an expense",
+      "As a liability"
+    ],
+    "correctAnswer": "As revenue",
+    "explanation": "Entrance fees are treated as revenue, as they are received from members for providing services. This is a key concept in Chapter 1 of the NCERT textbook.",
+    "difficulty": "Medium",
+    "class": "Class 12",
+    "subject": "Accountancy",
+    "chapter": "Ch 1: Accounting for Not-for-Profit Organisation"
+  },
+  {
+    "text": "What is the purpose of preparing a receipt and payment account?",
+    "options": [
+      "To show the cash position of the organisation",
+      "To show the profit or loss of the organisation",
+      "To show the assets and liabilities of the organisation",
+      "To show the equity of the organisation"
+    ],
+    "correctAnswer": "To show the cash position of the organisation",
+    "explanation": "The receipt and payment account is prepared to show the cash position of the organisation, by recording all the cash receipts and payments. This is explained in the NCERT textbook, Chapter 1.",
+    "difficulty": "Easy",
+    "class": "Class 12",
+    "subject": "Accountancy",
+    "chapter": "Ch 1: Accounting for Not-for-Profit Organisation"
+  },
+  {
+    "text": "How are life membership fees treated in the accounts of a not-for-profit organisation?",
+    "options": [
+      "As revenue",
+      "As capital",
+      "As an expense",
+      "As a liability"
+    ],
+    "correctAnswer": "As capital",
+    "explanation": "Life membership fees are treated as capital, as they are received from members for providing lifelong services. This is a key concept in Chapter 1 of the NCERT textbook.",
+    "difficulty": "Medium",
+    "class": "Class 12",
+    "subject": "Accountancy",
+    "chapter": "Ch 1: Accounting for Not-for-Profit Organisation"
+  },
+  {
+    "text": "What is the formula to calculate the amount of surplus or deficit in a not-for-profit organisation?",
+    "options": [
+      "$\text{Income} - \text{Expenses}$",
+      "$\text{Expenses} - \text{Income}$",
+      "$\text{Income} + \text{Expenses}$",
+      "$\text{Expenses} + \text{Income}$"
+    ],
+    "correctAnswer": "$\text{Income} - \text{Expenses}$",
+    "explanation": "The surplus or deficit is calculated by subtracting the expenses from the income. This is a key concept in Chapter 1 of the NCERT textbook.",
+    "difficulty": "Hard",
+    "class": "Class 12",
+    "subject": "Accountancy",
+    "chapter": "Ch 1: Accounting for Not-for-Profit Organisation"
+  },
+  {
+    "text": "What is the purpose of preparing an income and expenditure account?",
+    "options": [
+      "To show the cash position of the organisation",
+      "To show the profit or loss of the organisation",
+      "To show the assets and liabilities of the organisation",
+      "To show the equity of the organisation"
+    ],
+    "correctAnswer": "To show the profit or loss of the organisation",
+    "explanation": "The income and expenditure account is prepared to show the surplus or deficit of the organisation, by recording all the income and expenses. This is explained in the NCERT textbook, Chapter 1.",
+    "difficulty": "Easy",
+    "class": "Class 12",
+    "subject": "Accountancy",
+    "chapter": "Ch 1: Accounting for Not-for-Profit Organisation"
+  },
+  {
+    "text": "How are legacies treated in the accounts of a not-for-profit organisation?",
+    "options": [
+      "As revenue",
+      "As capital",
+      "As an expense",
+      "As a liability"
+    ],
+    "correctAnswer": "As capital",
+    "explanation": "Legacies are treated as capital, as they are received from donors for a specific purpose. This is a key concept in Chapter 1 of the NCERT textbook.",
+    "difficulty": "Medium",
+    "class": "Class 12",
+    "subject": "Accountancy",
+    "chapter": "Ch 1: Accounting for Not-for-Profit Organisation"
+  },
+  {
+    "text": "What is the treatment of government grants in the accounts of a not-for-profit organisation?",
+    "options": [
+      "As revenue",
+      "As capital",
+      "As an expense",
+      "As a liability"
+    ],
+    "correctAnswer": "As capital",
+    "explanation": "Government grants are treated as capital, as they are received for a specific purpose. This is explained in the NCERT textbook, Chapter 1.",
+    "difficulty": "Easy",
+    "class": "Class 12",
+    "subject": "Accountancy",
+    "chapter": "Ch 1: Accounting for Not-for-Profit Organisation"
+  },
+  {
+    "text": "How are subscriptions treated in the accounts of a not-for-profit organisation?",
+    "options": [
+      "As revenue",
+      "As capital",
+      "As an expense",
+      "As a liability"
+    ],
+    "correctAnswer": "As revenue",
+    "explanation": "Subscriptions are treated as revenue, as they are received from members for providing services. This is a key concept in Chapter 1 of the NCERT textbook.",
+    "difficulty": "Medium",
+    "class": "Class 12",
+    "subject": "Accountancy",
+    "chapter": "Ch 1: Accounting for Not-for-Profit Organisation"
+  }
+]

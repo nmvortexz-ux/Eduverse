@@ -1,0 +1,167 @@
+[
+  {
+    "text": "What is the nature of disinvestment receipts in the government budget?",
+    "options": [
+      "Revenue receipt",
+      "Capital receipt",
+      "Revenue expenditure",
+      "Capital expenditure"
+    ],
+    "correctAnswer": "Capital receipt",
+    "explanation": "Disinvestment receipts are considered as capital receipts because they are received by the government in exchange for its equity in public sector enterprises. According to the NCERT textbook, 'Capital receipts are those receipts which are not related to the current year's transactions. They are related to the past transactions or are expected to be received in the future.'",
+    "difficulty": "Easy",
+    "class": "Class 12",
+    "subject": "Economics",
+    "chapter": "Ch 4: Government Budget and the Economy"
+  },
+  {
+    "text": "Which of the following is a characteristic of subsidies?",
+    "options": [
+      "Revenue receipt",
+      "Revenue expenditure",
+      "Capital receipt",
+      "Capital expenditure"
+    ],
+    "correctAnswer": "Revenue expenditure",
+    "explanation": "Subsidies are a type of revenue expenditure as they are incurred by the government to reduce the price of a commodity or service. According to the NCERT textbook, 'Revenue expenditure is the expenditure incurred by the government in the course of its day-to-day activities.'",
+    "difficulty": "Easy",
+    "class": "Class 12",
+    "subject": "Economics",
+    "chapter": "Ch 4: Government Budget and the Economy"
+  },
+  {
+    "text": "What is the implication of a primary deficit?",
+    "options": [
+      "Increase in government debt",
+      "Decrease in government debt",
+      "No impact on government debt",
+      "Increase in government revenue"
+    ],
+    "correctAnswer": "Increase in government debt",
+    "explanation": "A primary deficit occurs when the government's current revenue is less than its current expenditure, excluding interest payments on debt. This leads to an increase in government debt as the government needs to borrow more to finance its deficit. According to the NCERT textbook, 'Primary deficit is the difference between the total expenditure and the total revenue, excluding interest payments on debt.'",
+    "difficulty": "Medium",
+    "class": "Class 12",
+    "subject": "Economics",
+    "chapter": "Ch 4: Government Budget and the Economy"
+  },
+  {
+    "text": "What is the objective of reallocation of resources in the government budget?",
+    "options": [
+      "To reduce the budget deficit",
+      "To increase government revenue",
+      "To reallocate resources from unproductive to productive sectors",
+      "To reduce government expenditure"
+    ],
+    "correctAnswer": "To reallocate resources from unproductive to productive sectors",
+    "explanation": "The objective of reallocation of resources is to redirect resources from unproductive sectors to productive sectors, thereby increasing economic efficiency and growth. According to the NCERT textbook, 'Reallocation of resources involves the transfer of resources from one sector to another sector.'",
+    "difficulty": "Medium",
+    "class": "Class 12",
+    "subject": "Economics",
+    "chapter": "Ch 4: Government Budget and the Economy"
+  },
+  {
+    "text": "What is the accounting entry for disinvestment receipts?",
+    "options": [
+      "Debit: Capital Receipts, Credit: Government's Equity",
+      "Debit: Government's Equity, Credit: Capital Receipts",
+      "Debit: Revenue Receipts, Credit: Government's Equity",
+      "Debit: Government's Equity, Credit: Revenue Receipts"
+    ],
+    "correctAnswer": "Debit: Capital Receipts, Credit: Government's Equity",
+    "explanation": "$\\text{Debit: Capital Receipts, Credit: Government's Equity}$",
+    "difficulty": "Hard",
+    "class": "Class 12",
+    "subject": "Economics",
+    "chapter": "Ch 4: Government Budget and the Economy"
+  },
+  {
+    "text": "What is the accounting entry for subsidies?",
+    "options": [
+      "Debit: Subsidies, Credit: Government's Revenue",
+      "Debit: Government's Revenue, Credit: Subsidies",
+      "Debit: Government's Expenditure, Credit: Subsidies",
+      "Debit: Subsidies, Credit: Government's Expenditure"
+    ],
+    "correctAnswer": "Debit: Subsidies, Credit: Government's Revenue",
+    "explanation": "$\\text{Debit: Subsidies, Credit: Government's Revenue}$",
+    "difficulty": "Hard",
+    "class": "Class 12",
+    "subject": "Economics",
+    "chapter": "Ch 4: Government Budget and the Economy"
+  },
+  {
+    "text": "What is the formula for calculating the primary deficit?",
+    "options": [
+      "Primary Deficit = Total Expenditure - Total Revenue",
+      "Primary Deficit = Total Revenue - Total Expenditure",
+      "Primary Deficit = Interest Payments - Total Revenue",
+      "Primary Deficit = Total Expenditure - Interest Payments"
+    ],
+    "correctAnswer": "Primary Deficit = Total Expenditure - Total Revenue",
+    "explanation": "$\\text{Primary Deficit = Total Expenditure - Total Revenue}$",
+    "difficulty": "Hard",
+    "class": "Class 12",
+    "subject": "Economics",
+    "chapter": "Ch 4: Government Budget and the Economy"
+  },
+  {
+    "text": "What is the impact of a primary deficit on the government's debt-to-GDP ratio?",
+    "options": [
+      "Decrease in debt-to-GDP ratio",
+      "Increase in debt-to-GDP ratio",
+      "No impact on debt-to-GDP ratio",
+      "Decrease in government revenue"
+    ],
+    "correctAnswer": "Increase in debt-to-GDP ratio",
+    "explanation": "A primary deficit leads to an increase in government debt, which in turn increases the debt-to-GDP ratio. According to the NCERT textbook, 'The debt-to-GDP ratio is a measure of the government's debt burden.'",
+    "difficulty": "Medium",
+    "class": "Class 12",
+    "subject": "Economics",
+    "chapter": "Ch 4: Government Budget and the Economy"
+  },
+  {
+    "text": "What is the difference between a budget deficit and a primary deficit?",
+    "options": [
+      "Budget deficit is the difference between total expenditure and total revenue, while primary deficit is the difference between total expenditure and interest payments.",
+      "Budget deficit is the difference between interest payments and total revenue, while primary deficit is the difference between total expenditure and total revenue.",
+      "Budget deficit is the difference between total revenue and interest payments, while primary deficit is the difference between total expenditure and total revenue.",
+      "Budget deficit is the difference between total expenditure and total revenue, while primary deficit is the difference between interest payments and total revenue."
+    ],
+    "correctAnswer": "Budget deficit is the difference between total expenditure and total revenue, while primary deficit is the difference between total expenditure and interest payments.",
+    "explanation": "A budget deficit is the difference between total expenditure and total revenue, while a primary deficit is the difference between total expenditure and interest payments on debt. According to the NCERT textbook, 'Budget deficit is the difference between total expenditure and total revenue.'",
+    "difficulty": "Medium",
+    "class": "Class 12",
+    "subject": "Economics",
+    "chapter": "Ch 4: Government Budget and the Economy"
+  },
+  {
+    "text": "What is the impact of a primary deficit on the government's ability to finance its expenditure?",
+    "options": [
+      "Decrease in government's ability to finance its expenditure",
+      "Increase in government's ability to finance its expenditure",
+      "No impact on government's ability to finance its expenditure",
+      "Increase in government revenue"
+    ],
+    "correctAnswer": "Decrease in government's ability to finance its expenditure",
+    "explanation": "A primary deficit reduces the government's ability to finance its expenditure as it needs to borrow more to cover its deficit. According to the NCERT textbook, 'Primary deficit is the difference between the total expenditure and the total revenue, excluding interest payments on debt.'",
+    "difficulty": "Medium",
+    "class": "Class 12",
+    "subject": "Economics",
+    "chapter": "Ch 4: Government Budget and the Economy"
+  },
+  {
+    "text": "What is the relationship between the government's budget deficit and its inflation rate?",
+    "options": [
+      "Budget deficit leads to a decrease in inflation rate",
+      "Budget deficit leads to an increase in inflation rate",
+      "No impact on inflation rate",
+      "Decrease in government revenue"
+    ],
+    "correctAnswer": "Budget deficit leads to an increase in inflation rate",
+    "explanation": "A budget deficit can lead to an increase in inflation rate as the government prints more money to finance its deficit, increasing the money supply and demand for goods and services. According to the NCERT textbook, 'Inflation is a sustained increase in the general price level of goods and services in an economy.'",
+    "difficulty": "Medium",
+    "class": "Class 12",
+    "subject": "Economics",
+    "chapter": "Ch 4: Government Budget and the Economy"
+  }
+]

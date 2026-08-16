@@ -1,0 +1,327 @@
+[
+  {
+    "class": "Class 10",
+    "subject": "English",
+    "difficulty": "EASY",
+    "text": "How much money was the postmaster able to collect and send to Lencho in 'A Letter to God'?",
+    "explanation": "The postmaster was able to collect only seventy pesos, which was a little more than half of the hundred pesos Lencho had requested.",
+    "options": [
+      { "text": "Seventy pesos", "isCorrect": true },
+      { "text": "One hundred pesos", "isCorrect": false },
+      { "text": "Fifty pesos", "isCorrect": false },
+      { "text": "Thirty pesos", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 10",
+    "subject": "English",
+    "difficulty": "EASY",
+    "text": "Who accompanied Nelson Mandela on the stage on the day of the South African democratic inauguration?",
+    "explanation": "Nelson Mandela was accompanied on stage by his daughter, Zenani.",
+    "options": [
+      { "text": "His daughter Zenani", "isCorrect": true },
+      { "text": "Winnie Mandela", "isCorrect": false },
+      { "text": "F.W. de Klerk", "isCorrect": false },
+      { "text": "Thabo Mbeki", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 10",
+    "subject": "English",
+    "difficulty": "EASY",
+    "text": "Who is the author of the story 'A Triumph of Surgery'?",
+    "explanation": "James Herriot, a veterinary surgeon, is the author of 'A Triumph of Surgery' and the narrator of the story.",
+    "options": [
+      { "text": "James Herriot", "isCorrect": true },
+      { "text": "Liam O'Flaherty", "isCorrect": false },
+      { "text": "G.L. Fuentes", "isCorrect": false },
+      { "text": "Robert Frost", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 10",
+    "subject": "English",
+    "difficulty": "EASY",
+    "text": "In the poem 'A Tiger in the Zoo', what material is the tiger's cell made of?",
+    "explanation": "The poet mentions that the tiger is locked inside a 'concrete cell' where his strength is confined behind bars.",
+    "options": [
+      { "text": "Concrete", "isCorrect": true },
+      { "text": "Iron", "isCorrect": false },
+      { "text": "Wooden logs", "isCorrect": false },
+      { "text": "Glass panels", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 10",
+    "subject": "English",
+    "difficulty": "EASY",
+    "text": "How old was the thief narrator (Hari Singh) in the story 'The Thief's Story'?",
+    "explanation": "Hari Singh narrates the story, mentioning that he was only fifteen years old when he met Anil.",
+    "options": [
+      { "text": "Fifteen years old", "isCorrect": true },
+      { "text": "Twenty years old", "isCorrect": false },
+      { "text": "Ten years old", "isCorrect": false },
+      { "text": "Eighteen years old", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 10",
+    "subject": "English",
+    "difficulty": "EASY",
+    "text": "Fill in the blank with the correct determiner: There is ________ hope of his survival as he is in critical condition.",
+    "explanation": "'Little' carries a negative sense implying almost no hope, which fits a critical medical condition.",
+    "options": [
+      { "text": "little", "isCorrect": true },
+      { "text": "a little", "isCorrect": false },
+      { "text": "few", "isCorrect": false },
+      { "text": "a few", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 10",
+    "subject": "English",
+    "difficulty": "MEDIUM",
+    "text": "In 'From the Diary of Anne Frank', when did Anne's grandmother pass away?",
+    "explanation": "Anne Frank's grandmother fell ill in the summer of 1941 and died in January 1942.",
+    "options": [
+      { "text": "January 1942", "isCorrect": true },
+      { "text": "Summer 1941", "isCorrect": false },
+      { "text": "May 1940", "isCorrect": false },
+      { "text": "December 1944", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 10",
+    "subject": "English",
+    "difficulty": "MEDIUM",
+    "text": "What was the call sign of the narrator's old Dakota plane in 'The Black Aeroplane'?",
+    "explanation": "The narrator was flying his old Dakota plane with call sign 'DS 088' and contacted Paris Control using it.",
+    "options": [
+      { "text": "DS 088", "isCorrect": true },
+      { "text": "UK 007", "isCorrect": false },
+      { "text": "IN 999", "isCorrect": false },
+      { "text": "FR 101", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 10",
+    "subject": "English",
+    "difficulty": "MEDIUM",
+    "text": "In the poem 'How to Tell Wild Animals', which animal is described as giving a 'very, very hard' hug?",
+    "explanation": "The poet jokingly describes the Bear as an animal that hugs a person very tightly when they meet him in a yard.",
+    "options": [
+      { "text": "Bear", "isCorrect": true },
+      { "text": "Asian Lion", "isCorrect": false },
+      { "text": "Bengal Tiger", "isCorrect": false },
+      { "text": "Leopard", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 10",
+    "subject": "English",
+    "difficulty": "MEDIUM",
+    "text": "Choose the correct indirect form of: The captain said to the soldiers, 'Stand at ease!'" ,
+    "explanation": "Commands given by military officers are reported using 'ordered' or 'commanded' followed by infinitive 'to stand'.",
+    "options": [
+      { "text": "The captain ordered the soldiers to stand at ease.", "isCorrect": true },
+      { "text": "The captain ordered the soldiers that they stood at ease.", "isCorrect": false },
+      { "text": "The captain advised the soldiers to standing at ease.", "isCorrect": false },
+      { "text": "The captain requested the soldiers to stand at ease.", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 10",
+    "subject": "English",
+    "difficulty": "MEDIUM",
+    "text": "What accent did Ausable speak with in the story 'The Midnight Visitor'?",
+    "explanation": "Ausable spoke French and German passably but had a strong American accent that he brought from Boston twenty years ago.",
+    "options": [
+      { "text": "American accent", "isCorrect": true },
+      { "text": "French accent", "isCorrect": false },
+      { "text": "British accent", "isCorrect": false },
+      { "text": "German accent", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 10",
+    "subject": "English",
+    "difficulty": "MEDIUM",
+    "text": "During which hours did Valli's mother typically take her afternoon nap?",
+    "explanation": "Valli's mother slept every afternoon from about one o'clock to four o'clock, which Valli used for her excursions.",
+    "options": [
+      { "text": "From one to four o'clock", "isCorrect": true },
+      { "text": "From twelve to two o'clock", "isCorrect": false },
+      { "text": "From two to five o'clock", "isCorrect": false },
+      { "text": "From one to three o'clock", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 10",
+    "subject": "English",
+    "difficulty": "MEDIUM",
+    "text": "Fill in the blank with the correct form of the verb: The quality of these mangoes ________ not good.",
+    "explanation": "The subject is 'quality' (singular noun), not 'mangoes'. Therefore, it requires a singular verb ('is').",
+    "options": [
+      { "text": "is", "isCorrect": true },
+      { "text": "are", "isCorrect": false },
+      { "text": "were", "isCorrect": false },
+      { "text": "have been", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 10",
+    "subject": "English",
+    "difficulty": "HARD",
+    "text": "In 'A Question of Trust', how did Horace Danby manage to buy the rare and expensive books he loved?",
+    "explanation": "Horace used an agent to buy books secretly, funding them with money stolen during his annual safe robberies.",
+    "options": [
+      { "text": "Through a secret agent who bought them for him.", "isCorrect": true },
+      { "text": "By bidding in international public auctions.", "isCorrect": false },
+      { "text": "By writing book reviews for local magazines.", "isCorrect": false },
+      { "text": "By trading his handmade lock parts with publishers.", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 10",
+    "subject": "English",
+    "difficulty": "HARD",
+    "text": "In 'The Ball Poem', what valuable life lesson is the young boy learning through the loss of his ball?",
+    "explanation": "The boy is learning the 'epistemology of loss'—how to accept loss, bear the grief, and stand up to survive in a materialist world.",
+    "options": [
+      { "text": "How to bear the grief of losing a valued possession and move on.", "isCorrect": true },
+      { "text": "How to save money to buy expensive toys in the future.", "isCorrect": false },
+      { "text": "How to play games without losing his focus.", "isCorrect": false },
+      { "text": "How to complain to police about lost properties.", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 10",
+    "subject": "English",
+    "difficulty": "HARD",
+    "text": "Richard Ebright won first prize in the county science fair for a project showing:",
+    "explanation": "Ebright won first prize by carrying out research to identify if a beetle was the carrier of a viral disease killing monarch caterpillars.",
+    "options": [
+      { "text": "A beetle was the cause of viral disease killing monarch caterpillars.", "isCorrect": true },
+      { "text": "DNA structure has a double helix spiral.", "isCorrect": false },
+      { "text": "Viceroy butterflies copy monarch butterflies to survive.", "isCorrect": false },
+      { "text": "Gold spots on pupae contain cell hormones.", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 10",
+    "subject": "English",
+    "difficulty": "HARD",
+    "text": "Fill in the blank with the appropriate modal verb: We ________ respect our national flag and constitution.",
+    "explanation": "'Ought to' is used to express moral obligation, duty, or social responsibility, which fits national duties.",
+    "options": [
+      { "text": "ought to", "isCorrect": true },
+      { "text": "might", "isCorrect": false },
+      { "text": "could", "isCorrect": false },
+      { "text": "would", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 10",
+    "subject": "English",
+    "difficulty": "HARD",
+    "text": "In 'The Necklace', how much money did M. Loisel spend to buy a new dress for his wife to wear to the minister's party?",
+    "explanation": "M. Loisel gave Matilda four hundred francs, which he had saved to buy a gun to go shooting with friends.",
+    "options": [
+      { "text": "Four hundred francs", "isCorrect": true },
+      { "text": "Five hundred francs", "isCorrect": false },
+      { "text": "One thousand francs", "isCorrect": false },
+      { "text": "Two hundred francs", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 10",
+    "subject": "English",
+    "difficulty": "HARD",
+    "text": "In 'The Proposal', what was the buying price of Lomov's hunting dog Guess?",
+    "explanation": "Lomov mentions that he bought his dog Guess from Mironov for one hundred and twenty-five rubles.",
+    "options": [
+      { "text": "One hundred and twenty-five rubles", "isCorrect": true },
+      { "text": "Eighty-five rubles", "isCorrect": false },
+      { "text": "Two hundred rubles", "isCorrect": false },
+      { "text": "Fifty rubles", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 10",
+    "subject": "English",
+    "difficulty": "VERY HARD",
+    "text": "In the poem 'Amanda!', why does Amanda imagine herself as Rapunzel?",
+    "explanation": "Amanda wants to live a life of absolute quiet and tranquility in a high tower where no one can bother or nag her, keeping her hair up forever.",
+    "options": [
+      { "text": "To live a tranquil and rare life in a high tower, never letting down her hair.", "isCorrect": true },
+      { "text": "To find a handsome prince who will rescue her from her mother.", "isCorrect": false },
+      { "text": "Because she wants to grow very long and beautiful hair.", "isCorrect": false },
+      { "text": "To hide her face from the village people.", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 10",
+    "subject": "English",
+    "difficulty": "VERY HARD",
+    "text": "What was the occupation of Bholi's father, Ramlal?",
+    "explanation": "Ramlal was a Numberdar (a local revenue collection official) in the village, representing the government.",
+    "options": [
+      { "text": "A government revenue official (Numberdar)", "isCorrect": true },
+      { "text": "A wealthy landlord and grain merchant", "isCorrect": false },
+      { "text": "The school headmaster of the primary school", "isCorrect": false },
+      { "text": "A farmer with large crop fields", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 10",
+    "subject": "English",
+    "difficulty": "VERY HARD",
+    "text": "What is the Kaveri river's connection to the Coorg district in 'Glimpses of India'?",
+    "explanation": "The Kaveri, a major river, obtains its fresh water from the hills and rainforests of Coorg.",
+    "options": [
+      { "text": "It obtains its water from the hills and forests of Coorg.", "isCorrect": true },
+      { "text": "It flows along the northern border of Coorg separating it from Mysore.", "isCorrect": false },
+      { "text": "Its origin lies in the coffee plantations of Coorg.", "isCorrect": false },
+      { "text": "It is dry in Coorg and flows only during monsoon.", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 10",
+    "subject": "English",
+    "difficulty": "VERY HARD",
+    "text": "Choose the correct indirect form of: My mother said to me, 'Did you complete your homework?'",
+    "explanation": "Interrogative sentences in simple past ('did you complete') shift to past perfect ('had completed') and helping verb questions use 'if' or 'whether'.",
+    "options": [
+      { "text": "My mother asked me if I had completed my homework.", "isCorrect": true },
+      { "text": "My mother asked me that if I completed my homework.", "isCorrect": false },
+      { "text": "My mother inquired me if had I completed my homework.", "isCorrect": false },
+      { "text": "My mother told me if I had completed my homework.", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 10",
+    "subject": "English",
+    "difficulty": "VERY HARD",
+    "text": "In the poem 'The Tale of Custard the Dragon', what physical features of the pirate are described?",
+    "explanation": "The pirate held a pistol in each hand, a cutlass in his teeth, his beard was black, and one of his legs was wood.",
+    "options": [
+      { "text": "Black beard, one wooden leg, a cutlass in his teeth, and pistols in hands.", "isCorrect": true },
+      { "text": "A red coat, a patch on his eye, and carrying a large iron shield.", "isCorrect": false },
+      { "text": "Tall height, curly hair, and wearing leather boots.", "isCorrect": false },
+      { "text": "A hook for a hand, and carrying a wooden compass.", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 10",
+    "subject": "English",
+    "difficulty": "VERY HARD",
+    "text": "In 'The Book That Saved the Earth', what shape is Think-Tank's head compared to?",
+    "explanation": "Think-Tank is depicted as having a huge, egg-shaped head, which he believes contains a massive brain.",
+    "options": [
+      { "text": "An egg", "isCorrect": true },
+      { "text": "A melon", "isCorrect": false },
+      { "text": "A sphere", "isCorrect": false },
+      { "text": "A pyramid", "isCorrect": false }
+    ]
+  }
+]

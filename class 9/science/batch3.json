@@ -1,0 +1,327 @@
+[
+  {
+    "class": "Class 9",
+    "subject": "Science",
+    "difficulty": "EASY",
+    "text": "Which scientist established the 'Law of Conservation of Mass'?",
+    "explanation": "Antoine Lavoisier established the law of conservation of mass, stating that mass can neither be created nor destroyed in a chemical reaction.",
+    "options": [
+      { "text": "Joseph Proust", "isCorrect": false },
+      { "text": "Antoine Lavoisier", "isCorrect": true },
+      { "text": "John Dalton", "isCorrect": false },
+      { "text": "Amedeo Avogadro", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 9",
+    "subject": "Science",
+    "difficulty": "EASY",
+    "text": "What is the primary function of phloem tissue in plants?",
+    "explanation": "Phloem is a vascular tissue responsible for the translocation of food materials from leaves to other parts of the plant.",
+    "options": [
+      { "text": "Transport of water", "isCorrect": false },
+      { "text": "Translocation of food", "isCorrect": true },
+      { "text": "Mechanical support only", "isCorrect": false },
+      { "text": "Photosynthesis", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 9",
+    "subject": "Science",
+    "difficulty": "EASY",
+    "text": "What is the SI unit of pressure?",
+    "explanation": "Pressure is defined as thrust per unit area ($P = \\frac{F}{A}$), and its SI unit is $\\text{N/m}^2$, which is also known as Pascal ($\\text{Pa}$).",
+    "options": [
+      { "text": "Newton", "isCorrect": false },
+      { "text": "Pascal", "isCorrect": true },
+      { "text": "Joule", "isCorrect": false },
+      { "text": "Watt", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 9",
+    "subject": "Science",
+    "difficulty": "EASY",
+    "text": "What is the chemical formula of water?",
+    "explanation": "A molecule of water consists of two atoms of Hydrogen and one atom of Oxygen, represented as $\\text{H}_2\\text{O}$.",
+    "options": [
+      { "text": "$\\text{HO}_2$", "isCorrect": false },
+      { "text": "$\\text{H}_2\\text{O}$", "isCorrect": true },
+      { "text": "$\\text{H}_2\\text{O}_2$", "isCorrect": false },
+      { "text": "$\\text{H}_3\\text{O}$", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 9",
+    "subject": "Science",
+    "difficulty": "EASY",
+    "text": "Which organelle is responsible for lipid and steroid synthesis in animal cells?",
+    "explanation": "The Smooth Endoplasmic Reticulum (SER) is primarily responsible for the synthesis of lipids, steroids, and detoxification of drugs.",
+    "options": [
+      { "text": "Rough Endoplasmic Reticulum", "isCorrect": false },
+      { "text": "Smooth Endoplasmic Reticulum", "isCorrect": true },
+      { "text": "Ribosome", "isCorrect": false },
+      { "text": "Lysosome", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 9",
+    "subject": "Science",
+    "difficulty": "EASY",
+    "text": "What is the value of the Universal Gravitational Constant ($G$)?",
+    "explanation": "The value of $G$ is $6.673 \\times 10^{-11}\\text{ N m}^2\\text{ kg}^{-2}$, determined by Henry Cavendish.",
+    "options": [
+      { "text": "$9.8\\text{ m/s}^2$", "isCorrect": false },
+      { "text": "$6.673 \\times 10^{-11}\\text{ N m}^2\\text{ kg}^{-2}$", "isCorrect": true },
+      { "text": "$6.673 \\times 10^{11}\\text{ N m}^2\\text{ kg}^{-2}$", "isCorrect": false },
+      { "text": "$9.8 \\times 10^{-11}\\text{ N/kg}$", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 9",
+    "subject": "Science",
+    "difficulty": "MEDIUM",
+    "text": "In a water molecule ($\\text{H}_2\\text{O}$), what is the ratio by mass of Hydrogen to Oxygen?",
+    "explanation": "The ratio by mass is always $1:8$ because $2\\text{ g}$ of Hydrogen combines with $16\\text{ g}$ of Oxygen.",
+    "options": [
+      { "text": "$2:1$", "isCorrect": false },
+      { "text": "$1:8$", "isCorrect": true },
+      { "text": "$8:1$", "isCorrect": false },
+      { "text": "$1:2$", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 9",
+    "subject": "Science",
+    "difficulty": "MEDIUM",
+    "text": "Which connective tissue connects skeletal muscles to bones?",
+    "explanation": "Tendons are strong, fibrous tissues with limited flexibility that connect muscles to bones.",
+    "options": [
+      { "text": "Ligament", "isCorrect": false },
+      { "text": "Tendon", "isCorrect": true },
+      { "text": "Cartilage", "isCorrect": false },
+      { "text": "Areolar tissue", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 9",
+    "subject": "Science",
+    "difficulty": "MEDIUM",
+    "text": "An object floats in water when the buoyant force acting on it is:",
+    "explanation": "According to the laws of floatation, an object floats if the upward buoyant force is equal to or greater than the downward force of its weight.",
+    "options": [
+      { "text": "Less than its weight", "isCorrect": false },
+      { "text": "Equal to or greater than its weight", "isCorrect": true },
+      { "text": "Exactly half of its weight", "isCorrect": false },
+      { "text": "Zero", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 9",
+    "subject": "Science",
+    "difficulty": "MEDIUM",
+    "text": "What is the atomic mass of Carbon (relative to C-12 reference scale)?",
+    "explanation": "By definition, the atomic mass of carbon is $12\\text{ u}$ (unified atomic mass unit).",
+    "options": [
+      { "text": "$6\\text{ u}$", "isCorrect": false },
+      { "text": "$12\\text{ u}$", "isCorrect": true },
+      { "text": "$14\\text{ u}$", "isCorrect": false },
+      { "text": "$16\\text{ u}$", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 9",
+    "subject": "Science",
+    "difficulty": "MEDIUM",
+    "text": "Which organelle is involved in the formation of lysosomes?",
+    "explanation": "The Golgi apparatus is directly involved in packaging proteins and enzymes into membrane-bound vesicles that become lysosomes.",
+    "options": [
+      { "text": "Mitochondria", "isCorrect": false },
+      { "text": "Golgi apparatus", "isCorrect": true },
+      { "text": "Nucleolus", "isCorrect": false },
+      { "text": "Ribosome", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 9",
+    "subject": "Science",
+    "difficulty": "MEDIUM",
+    "text": "An object weighs $60\\text{ N}$ on the surface of the Earth. What will be its weight on the Moon?",
+    "explanation": "The acceleration due to gravity on the Moon is $\\frac{1}{6}\\text{th}$ of that on Earth. Weight on Moon = $60 \\times \\frac{1}{6} = 10\\text{ N}$.",
+    "options": [
+      { "text": "$60\\text{ N}$", "isCorrect": false },
+      { "text": "$10\\text{ N}$", "isCorrect": true },
+      { "text": "$360\\text{ N}$", "isCorrect": false },
+      { "text": "$30\\text{ N}$", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 9",
+    "subject": "Science",
+    "difficulty": "MEDIUM",
+    "text": "What is the formula unit mass of Calcium Carbonate ($\\text{CaCO}_3$)? (Atomic masses: $\\text{Ca} = 40\\text{ u}$, $\\text{C} = 12\\text{ u}$, $\\text{O} = 16\\text{ u}$)",
+    "explanation": "Formula mass = $\\text{Ca} + \\text{C} + 3 \\times \\text{O} = 40 + 12 + 3(16) = 100\\text{ u}$.",
+    "options": [
+      { "text": "$56\\text{ u}$", "isCorrect": false },
+      { "text": "$100\\text{ u}$", "isCorrect": true },
+      { "text": "$120\\text{ u}$", "isCorrect": false },
+      { "text": "$84\\text{ u}$", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 9",
+    "subject": "Science",
+    "difficulty": "MEDIUM",
+    "text": "Which simple permanent plant tissue is characterized by pectin thickenings at the corners of cell walls, providing flexibility?",
+    "explanation": "Collenchyma cells have cell walls irregularly thickened at the corners with pectin, providing mechanical support and flexibility.",
+    "options": [
+      { "text": "Parenchyma", "isCorrect": false },
+      { "text": "Collenchyma", "isCorrect": true },
+      { "text": "Sclerenchyma", "isCorrect": false },
+      { "text": "Chlorenchyma", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 9",
+    "subject": "Science",
+    "difficulty": "MEDIUM",
+    "text": "What is the value of acceleration due to gravity ($g$) at the surface of Earth?",
+    "explanation": "The value of $g$ is approximately $9.8\\text{ m/s}^2$ at the surface of Earth.",
+    "options": [
+      { "text": "$9.8\\text{ m/s}$", "isCorrect": false },
+      { "text": "$9.8\\text{ m/s}^2$", "isCorrect": true },
+      { "text": "$9.8\\text{ m}^2\\text{/s}$", "isCorrect": false },
+      { "text": "$6.67\\text{ m/s}^2$", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 9",
+    "subject": "Science",
+    "difficulty": "HARD",
+    "text": "How many moles are present in $36\\text{ g}$ of water?",
+    "explanation": "Molar mass of $\\text{H}_2\\text{O} = 18\\text{ g/mol}$. Number of moles = $\\frac{\\text{Given mass}}{\\text{Molar mass}} = \\frac{36}{18} = 2\\text{ moles}$.",
+    "options": [
+      { "text": "$1\\text{ mole}$", "isCorrect": false },
+      { "text": "$2\\text{ moles}$", "isCorrect": true },
+      { "text": "$18\\text{ moles}$", "isCorrect": false },
+      { "text": "$0.5\\text{ mole}$", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 9",
+    "subject": "Science",
+    "difficulty": "HARD",
+    "text": "Differentiate between tendons and ligaments based on structural composition.",
+    "explanation": "Tendons are made of white fibrous tissue (collagen), are tough and non-elastic, while ligaments are made of yellow elastic tissue and are highly flexible.",
+    "options": [
+      { "text": "Tendons are highly elastic while ligaments have no elasticity", "isCorrect": false },
+      { "text": "Tendons are tough and inextensible, whereas ligaments are strong and elastic", "isCorrect": true },
+      { "text": "Tendons connect bone to bone; ligaments connect muscle to bone", "isCorrect": false },
+      { "text": "Ligaments contain dead cells; tendons contain actively dividing cells", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 9",
+    "subject": "Science",
+    "difficulty": "HARD",
+    "text": "A ball is thrown vertically upwards with a velocity of $49\\text{ m/s}$. Find the maximum height reached (take $g = 9.8\\text{ m/s}^2$).",
+    "explanation": "$u = 49\\text{ m/s}$, $v = 0$, $a = -9.8\\text{ m/s}^2$. Using $v^2 - u^2 = 2as \\Rightarrow 0 - 2401 = 2(-9.8)s \\Rightarrow s = \\frac{2401}{19.6} = 122.5\\text{ m}$.",
+    "options": [
+      { "text": "$98\\text{ m}$", "isCorrect": false },
+      { "text": "$122.5\\text{ m}$", "isCorrect": true },
+      { "text": "$245\\text{ m}$", "isCorrect": false },
+      { "text": "$49\\text{ m}$", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 9",
+    "subject": "Science",
+    "difficulty": "HARD",
+    "text": "Write the chemical formulas for Sodium Carbonate and Calcium Chloride.",
+    "explanation": "Sodium ion is $\\text{Na}^+$, Carbonate is $\\text{CO}_3^{2-} \\Rightarrow \\text{Na}_2\\text{CO}_3$. Calcium ion is $\\text{Ca}^{2+}$, Chloride is $\\text{Cl}^- \\Rightarrow \\text{CaCl}_2$.",
+    "options": [
+      { "text": "$\\text{NaCO}_3$ and $\\text{CaCl}$", "isCorrect": false },
+      { "text": "$\\text{Na}_2\\text{CO}_3$ and $\\text{CaCl}_2$", "isCorrect": true },
+      { "text": "$\\text{Na(CO}_3)_2$ and $\\text{CaCl}$", "isCorrect": false },
+      { "text": "$\\text{NaCO}_3$ and $\\text{CaCl}_2$", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 9",
+    "subject": "Science",
+    "difficulty": "HARD",
+    "text": "Which cell structure forms a tubular network in xylem and how does it differ from tracheids?",
+    "explanation": "Xylem vessels are long, hollow tubes made of cells joined end-to-end with perforated plates; tracheids are single, elongated spindle cells with pits.",
+    "options": [
+      { "text": "Xylem fibers are tubes; tracheids are rounded, living cells", "isCorrect": false },
+      { "text": "Xylem vessels form a continuous hollow channel; tracheids are single cells with tapering ends and pits", "isCorrect": true },
+      { "text": "Xylem parenchyma forms vessels; tracheids form cell junctions", "isCorrect": false },
+      { "text": "Tracheids are living cells; xylem vessels are dead cells that store starch", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 9",
+    "subject": "Science",
+    "difficulty": "HARD",
+    "text": "If the distance between two objects is doubled, what happens to the gravitational force between them?",
+    "explanation": "According to Newton's law of gravitation, $F \\propto \\frac{1}{d^2}$. If distance is doubled ($2d$), force becomes $\\frac{1}{4}\\text{th}$ of the initial force.",
+    "options": [
+      { "text": "It is doubled", "isCorrect": false },
+      { "text": "It becomes one-fourth", "isCorrect": true },
+      { "text": "It is halved", "isCorrect": false },
+      { "text": "It is quadrupled", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 9",
+    "subject": "Science",
+    "difficulty": "VERY HARD",
+    "text": "Calculate the number of molecules present in $4.4\\text{ g}$ of Carbon Dioxide ($\\text{CO}_2$).",
+    "explanation": "Molar mass of $\\text{CO}_2 = 44\\text{ g/mol}$. Moles of $\\text{CO}_2 = \\frac{4.4}{44} = 0.1\\text{ mol}$. Number of molecules = $0.1 \\times 6.022 \\times 10^{23} = 6.022 \\times 10^{22}$ molecules.",
+    "options": [
+      { "text": "$6.022 \\times 10^{23}$ molecules", "isCorrect": false },
+      { "text": "$6.022 \\times 10^{22}$ molecules", "isCorrect": true },
+      { "text": "$3.011 \\times 10^{22}$ molecules", "isCorrect": false },
+      { "text": "$1.204 \\times 10^{23}$ molecules", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 9",
+    "subject": "Science",
+    "difficulty": "VERY HARD",
+    "text": "Explain the structure of a neuron and state which parts receive and transmit nerve impulses.",
+    "explanation": "A neuron has dendrites (receive impulses), a cell body, and an axon (transmits impulses to another neuron or muscle).",
+    "options": [
+      { "text": "Axons receive the signal; dendrites transmit the signal to the next cell body", "isCorrect": false },
+      { "text": "Dendrites receive chemical signals; the axon conducts electrical impulses away from the cell body", "isCorrect": true },
+      { "text": "Myelin sheaths generate electrical impulses; cyton receives them", "isCorrect": false },
+      { "text": "Synapses generate signals; dendrites receive them through mitochondria", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 9",
+    "subject": "Science",
+    "difficulty": "VERY HARD",
+    "text": "State Archimedes' Principle and explain how it determines why an iron ship floats while an iron nail sinks in water.",
+    "explanation": "An iron ship displaced more water due to its large hollow design, causing the upward buoyant force to balance its weight; a solid nail displaces less water, making buoyant force less than its weight.",
+    "options": [
+      { "text": " buoyancy depends only on the surface area of the floating solid", "isCorrect": false },
+      { "text": "A ship displaces a volume of water whose weight is equal to its own weight; a solid nail displaces water weighing less than its weight", "isCorrect": true },
+      { "text": "A ship has lower density than water because it is made of special non-iron elements", "isCorrect": false },
+      { "text": "Nails sink because iron molecules contract in contact with liquid water", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 9",
+    "subject": "Science",
+    "difficulty": "VERY HARD",
+    "text": "An object of mass $10\\text{ kg}$ is transported to the Moon. Calculate its mass and weight on the Moon (take $g_{\\text{earth}} = 9.8\\text{ m/s}^2$, $g_{\\text{moon}} = 1.63\\text{ m/s}^2$).",
+    "explanation": "Mass remains constant everywhere ($10\\text{ kg}$). Weight on Moon = $mg_{\\text{moon}} = 10 \\times 1.63 = 16.3\\text{ N}$.",
+    "options": [
+      { "text": "Mass $= 1.67\\text{ kg}$, Weight $= 98\\text{ N}$", "isCorrect": false },
+      { "text": "Mass $= 10\\text{ kg}$, Weight $= 16.3\\text{ N}$", "isCorrect": true },
+      { "text": "Mass $= 10\\text{ kg}$, Weight $= 98\\text{ N}$", "isCorrect": false },
+      { "text": "Mass $= 1.67\\text{ kg}$, Weight $= 16.3\\text{ N}$", "isCorrect": false }
+    ]
+  }
+]

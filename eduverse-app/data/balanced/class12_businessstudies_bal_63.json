@@ -1,0 +1,47 @@
+[
+  {
+    "text": "What is the primary function of the Reserve Bank of India (RBI) in the money market?",
+    "options": [
+      "To regulate the interest rates in the economy.",
+      "To act as a banker to the government.",
+      "To act as a lender of last resort.",
+      "To regulate the foreign exchange market."
+    ],
+    "correctAnswer": "To act as a banker to the government.",
+    "explanation": "The Reserve Bank of India (RBI) acts as a banker to the government, which means it provides banking services to the government. This includes accepting deposits, maintaining government accounts, and providing loans. This function is crucial in the money market as it helps to manage the government's finances and maintain financial stability.",
+    "difficulty": "Easy",
+    "class": "Class 12",
+    "subject": "Business Studies",
+    "chapter": "Ch 10: Financial Markets"
+  },
+  {
+    "text": "Which of the following is a characteristic of a call money market instrument?",
+    "options": [
+      "It has a maturity period of more than 1 year.",
+      "It has a maturity period of less than 1 year.",
+      "It is a long-term instrument with a maturity period of 5 years.",
+      "It is a short-term instrument with a maturity period of less than 3 months."
+    ],
+    "correctAnswer": "It has a maturity period of less than 1 year.",
+    "explanation": "Call money market instruments have a maturity period of less than 1 year. This is because they are short-term instruments used for financing temporary needs. Examples of call money market instruments include call money, commercial paper, and treasury bills.",
+    "difficulty": "Medium",
+    "class": "Class 12",
+    "subject": "Business Studies",
+    "chapter": "Ch 10: Financial Markets"
+  },
+  {
+    "text": "What is the role of the Securities and Exchange Board of India (SEBI) in regulating the securities market?",
+    "options": [
+      "To regulate the interest rates in the securities market.",
+      "To regulate the foreign exchange market.",
+      "To protect the interests of investors and maintain fair trade practices.",
+      "To regulate the money market."
+    ],
+    "correctAnswer": "To protect the interests of investors and maintain fair trade practices.",
+    "explanation": "The Securities and Exchange Board of India (SEBI) plays a crucial role in regulating the securities market. Its primary function is to protect the interests of investors and maintain fair trade practices. This includes regulating the activities of stockbrokers, stock exchanges, and other market intermediaries.",
+    "difficulty": "Hard",
+    "class": "Class 12",
+    "subject": "Business Studies",
+    "chapter": "Ch 10: Financial Markets"
+  }
+]

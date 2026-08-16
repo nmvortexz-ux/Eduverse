@@ -1,0 +1,122 @@
+[
+  {
+    "text": "The investment multiplier (k) is defined as the ratio of change in equilibrium output to the change in autonomous expenditure. What is the formula for the investment multiplier?",
+    "options": [
+      "($ΔY$)/($ΔAE$)",
+      "($ΔAE$)/($ΔY$)",
+      "($ΔY$)/($ΔI$)",
+      "($ΔI$)/($ΔY$)"
+    ],
+    "correctAnswer": "($ΔY$)/($ΔAE$)",
+    "explanation": "The investment multiplier (k) is defined as the ratio of change in equilibrium output ($ΔY$) to the change in autonomous expenditure ($ΔAE$). It is calculated as k = ($ΔY$)/($ΔAE$).",
+    "difficulty": "Easy",
+    "class": "Class 12",
+    "subject": "Economics",
+    "chapter": "Ch 3: Determination of Income and Employment"
+  },
+  {
+    "text": "What is the term for the situation where the aggregate demand is less than the full employment level of output?",
+    "options": [
+      "Deflationary gap",
+      "Inflationary gap",
+      "Equilibrium gap",
+      "Fiscal gap"
+    ],
+    "correctAnswer": "Deflationary gap",
+    "explanation": "A deflationary gap occurs when the aggregate demand is less than the full employment level of output. This leads to a decrease in output and employment.",
+    "difficulty": "Medium",
+    "class": "Class 12",
+    "subject": "Economics",
+    "chapter": "Ch 3: Determination of Income and Employment"
+  },
+  {
+    "text": "The investment multiplier (k) is equal to 1 when the marginal propensity to consume (MPC) is equal to 1. What is the value of the autonomous expenditure ($AE$) in this case?",
+    "options": [
+      "$Y$",
+      "$2Y$",
+      "$3Y$",
+      "$Y/2$"
+    ],
+    "correctAnswer": "$Y$",
+    "explanation": "When the MPC is equal to 1, the investment multiplier (k) is equal to 1. In this case, the autonomous expenditure ($AE$) is equal to the full employment income ($Y$).",
+    "difficulty": "Hard",
+    "class": "Class 12",
+    "subject": "Economics",
+    "chapter": "Ch 3: Determination of Income and Employment"
+  },
+  {
+    "text": "What is the term for the situation where the aggregate demand is greater than the full employment level of output?",
+    "options": [
+      "Deflationary gap",
+      "Inflationary gap",
+      "Equilibrium gap",
+      "Fiscal gap"
+    ],
+    "correctAnswer": "Inflationary gap",
+    "explanation": "An inflationary gap occurs when the aggregate demand is greater than the full employment level of output. This leads to an increase in output and employment.",
+    "difficulty": "Medium",
+    "class": "Class 12",
+    "subject": "Economics",
+    "chapter": "Ch 3: Determination of Income and Employment"
+  },
+  {
+    "text": "The investment multiplier (k) is equal to 2 when the marginal propensity to consume (MPC) is equal to 0.5. What is the value of the autonomous expenditure ($AE$) in this case?",
+    "options": [
+      "$Y$",
+      "$2Y$",
+      "$3Y$",
+      "$Y/2$"
+    ],
+    "correctAnswer": "$Y/2$",
+    "explanation": "When the MPC is equal to 0.5, the investment multiplier (k) is equal to 2. In this case, the autonomous expenditure ($AE$) is equal to half of the full employment income ($Y/2$).",
+    "difficulty": "Hard",
+    "class": "Class 12",
+    "subject": "Economics",
+    "chapter": "Ch 3: Determination of Income and Employment"
+  },
+  {
+    "text": "What is the formula for the equilibrium output ($Y$) when there is a deflationary gap?",
+    "options": [
+      "$Y = C + I$",
+      "$Y = C + I + G$",
+      "$Y = C + I + G + (k \times ΔAE)$",
+      "$Y = C + I + G - (k \times ΔAE)$"
+    ],
+    "correctAnswer": "$Y = C + I + G - (k \times ΔAE)$",
+    "explanation": "When there is a deflationary gap, the equilibrium output ($Y$) is calculated as $Y = C + I + G - (k \times ΔAE)$, where $C$ is the consumption, $I$ is the investment, $G$ is the government expenditure, and $k$ is the investment multiplier.",
+    "difficulty": "Medium",
+    "class": "Class 12",
+    "subject": "Economics",
+    "chapter": "Ch 3: Determination of Income and Employment"
+  },
+  {
+    "text": "The investment multiplier (k) is equal to 3 when the marginal propensity to consume (MPC) is equal to 0.25. What is the value of the autonomous expenditure ($AE$) in this case?",
+    "options": [
+      "$Y$",
+      "$2Y$",
+      "$3Y$",
+      "$Y/4$"
+    ],
+    "correctAnswer": "$Y/4$",
+    "explanation": "When the MPC is equal to 0.25, the investment multiplier (k) is equal to 3. In this case, the autonomous expenditure ($AE$) is equal to one-fourth of the full employment income ($Y/4$).",
+    "difficulty": "Hard",
+    "class": "Class 12",
+    "subject": "Economics",
+    "chapter": "Ch 3: Determination of Income and Employment"
+  },
+  {
+    "text": "What is the term for the situation where the aggregate demand is equal to the full employment level of output?",
+    "options": [
+      "Deflationary gap",
+      "Inflationary gap",
+      "Equilibrium gap",
+      "Fiscal gap"
+    ],
+    "correctAnswer": "Equilibrium gap",
+    "explanation": "An equilibrium gap occurs when the aggregate demand is equal to the full employment level of output. This leads to a stable level of output and employment.",
+    "difficulty": "Medium",
+    "class": "Class 12",
+    "subject": "Economics",
+    "chapter": "Ch 3: Determination of Income and Employment"
+  }
+]

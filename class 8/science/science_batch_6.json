@@ -1,0 +1,327 @@
+[
+  {
+    "class": "Class 8",
+    "subject": "Science",
+    "difficulty": "Very Hard",
+    "text": "A batch of seeds is stored in a vacuum-sealed moisture-free container. If water is introduced into this vacuum container, the seeds still fail to germinate. What is the physiological reason for this failure?",
+    "explanation": "Germinating seeds undergo high rates of aerobic cellular respiration to generate ATP from stored food reserves. A lack of oxygen (due to the vacuum) prevents respiration, halting germination.",
+    "options": [
+      { "text": "The seeds require light to trigger germination, which is blocked by the vacuum", "isCorrect": false },
+      { "text": "Oxygen is essential for aerobic respiration to generate energy for embryo growth", "isCorrect": true },
+      { "text": "Vacuum pressure structurally collapses the seed coat, preventing water absorption", "isCorrect": false },
+      { "text": "Water cannot wet the seeds in the absence of atmospheric pressure", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 8",
+    "subject": "Science",
+    "difficulty": "Very Hard",
+    "text": "The nitrogen-fixing nif genes in Rhizobium are responsible for synthesizing the nitrogenase enzyme. Why are these genes not expressed when Rhizobium is living freely in the soil?",
+    "explanation": "The nif gene promoter is highly sensitive to oxygen. In free-living soil environments, high oxygen levels suppress the expression of nif genes, whereas the low-oxygen environment inside nodules permits expression.",
+    "options": [
+      { "text": "Because the soil contains too much nitrogen, which represses the genes", "isCorrect": false },
+      { "text": "Because Rhizobium requires the presence of plant cell organelles to construct its own DNA", "isCorrect": false },
+      { "text": "Because high atmospheric oxygen levels in the soil suppress the expression of the nif genes", "isCorrect": true },
+      { "text": "Because soil minerals chemically denature the nitrogenase enzyme before it can function", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 8",
+    "subject": "Science",
+    "difficulty": "Very Hard",
+    "text": "When a population of an endangered animal in a wildlife sanctuary falls below a critical threshold, what genetic risk threatens their survival even if their habitat is fully restored?",
+    "explanation": "Small populations suffer from genetic drift and inbreeding, which lead to inbreeding depression. This reduces genetic diversity and increases the expression of harmful recessive alleles.",
+    "options": [
+      { "text": "The animals lose their instinct to hunt due to lack of competition", "isCorrect": false },
+      { "text": "Inbreeding depression and genetic drift, which lead to reduced genetic diversity and accumulation of harmful alleles", "isCorrect": true },
+      { "text": "Their birth rate decreases due to changes in the Earth's magnetic field", "isCorrect": false },
+      { "text": "They undergo rapid mutation to adapt to captivity, losing their wild traits", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 8",
+    "subject": "Science",
+    "difficulty": "Very Hard",
+    "text": "During fertilization in animals, what mechanism acts as the slow block to prevent multiple sperms from entering the egg (polyspermy)?",
+    "explanation": "The slow block to polyspermy is the cortical reaction. The entry of the first sperm triggers the release of calcium ions, causing cortical granules to fuse with the egg membrane and harden the zona pellucida.",
+    "options": [
+      { "text": "The immediate depolarization of the egg membrane by sodium ions", "isCorrect": false },
+      { "text": "The cortical reaction, which chemically hardens the outer envelope of the egg", "isCorrect": true },
+      { "text": "The physical contraction of the egg cell to squeeze out extra sperms", "isCorrect": false },
+      { "text": "The release of acidic enzymes by the egg to dissolve the sperm tails", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 8",
+    "subject": "Science",
+    "difficulty": "Very Hard",
+    "text": "In the hormonal regulation of the female mammalian reproductive cycle, what endocrine event directly triggers the onset of menstruation?",
+    "explanation": "Menstruation is triggered by a sudden decrease in the levels of progesterone and estrogen in the blood, which occurs when the corpus luteum degenerates in the absence of fertilization.",
+    "options": [
+      { "text": "A sudden surge in Luteinizing Hormone (LH) from the pituitary", "isCorrect": false },
+      { "text": "A sharp drop in progesterone and estrogen levels due to the degeneration of the corpus luteum", "isCorrect": true },
+      { "text": "A rapid increase in the production of follicle-stimulating hormone (FSH)", "isCorrect": false },
+      { "text": "The direct secretion of adrenaline by the adrenal cortex", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 8",
+    "subject": "Science",
+    "difficulty": "Very Hard",
+    "text": "High-density polythene (HDPE) and low-density polythene (LDPE) are both polymers of ethene. How do their molecular structures differ, and how does this affect their physical properties?",
+    "explanation": "HDPE consists of linear, unbranched polymer chains that pack closely together, making it dense and rigid. LDPE has highly branched chains that prevent close packing, making it flexible and less dense.",
+    "options": [
+      { "text": "HDPE consists of cross-linked thermosetting molecules, while LDPE consists of linear chains", "isCorrect": false },
+      { "text": "HDPE consists of linear, unbranched chains allowing close packing (high rigidity); LDPE has highly branched chains (high flexibility)", "isCorrect": true },
+      { "text": "HDPE contains addition polymers, while LDPE is formed through condensation polymerization", "isCorrect": false },
+      { "text": "HDPE is a natural organic polymer, whereas LDPE is entirely synthetic", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 8",
+    "subject": "Science",
+    "difficulty": "Very Hard",
+    "text": "Inside a fractional distillation column for petroleum, how do the molecular size and intermolecular forces of hydrocarbons determine their condensation level?",
+    "explanation": "Larger hydrocarbons have longer carbon chains and stronger intermolecular dispersion forces, giving them higher boiling points. They condense at higher temperatures near the bottom of the column.",
+    "options": [
+      { "text": "Smaller molecules have stronger intermolecular forces and condense at the bottom", "isCorrect": false },
+      { "text": "Larger molecules have stronger intermolecular forces, giving them higher boiling points, so they condense near the bottom", "isCorrect": true },
+      { "text": "All hydrocarbons condense at the same height but separate due to density", "isCorrect": false },
+      { "text": "Larger molecules decompose into gases and escape from the top of the column", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 8",
+    "subject": "Science",
+    "difficulty": "Very Hard",
+    "text": "What is the theoretical volume of air required for the complete combustion of \\\\(1 \\\\text{ L}\\\\) of pure propane (\\\\(\\\\text{C}_3\\\\text{H}_8\\\\)) gas, assuming air contains \\\\(20\\%\\\\) oxygen by volume?",
+    "explanation": "Combustion equation: \\\\(\\\\text{C}_3\\\\text{H}_8 + 5\\\\text{O}_2 \\\\rightarrow 3\\\\text{CO}_2 + 4\\\\text{H}_2\\\\text{O}\\\\). Propane requires 5 times its volume of oxygen. Since air is only \\\\(20\\%\\\\) oxygen, the volume of air needed is \\\\(5 / 0.2 = 25 \\\\text{ L}\\\\).",
+    "options": [
+      { "text": "\\\\(5 \\\\text{ L}\\\\)", "isCorrect": false },
+      { "text": "\\\\(25 \\\\text{ L}\\\\)", "isCorrect": true },
+      { "text": "\\\\(50 \\\\text{ L}\\\\)", "isCorrect": false },
+      { "text": "\\\\(100 \\\\text{ L}\\\\)", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 8",
+    "subject": "Science",
+    "difficulty": "Very Hard",
+    "text": "In a candle flame, why does the luminous (yellow) zone emit light, and why is its temperature lower than the non-luminous (blue) zone?",
+    "explanation": "The yellow light is due to the incandescence of unburnt hot carbon particles (soot) glowing in the flame. Its temperature is lower because of incomplete combustion due to restricted oxygen supply.",
+    "options": [
+      { "text": "Due to complete combustion of carbon dioxide; its temperature is higher due to high pressure", "isCorrect": false },
+      { "text": "Due to the incandescence of unburnt carbon particles; its temperature is lower due to incomplete combustion", "isCorrect": true },
+      { "text": "Due to the combustion of nitrogen gas; it is cooler because nitrogen absorbs heat", "isCorrect": false },
+      { "text": "Due to chemical ionization of wax; it is cooler because of endothermic reactions", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 8",
+    "subject": "Science",
+    "difficulty": "Very Hard",
+    "text": "During the electrolysis of concentrated sodium chloride solution (brine) using inert electrodes, why is chlorine gas liberated at the anode instead of oxygen gas, even though hydroxide ions have a lower discharge potential?",
+    "explanation": "Although hydroxide ions are easier to oxidize thermodynamically, the oxidation of water to produce oxygen has a high kinetic barrier (overpotential). Thus, chlorine gas is liberated at the anode.",
+    "options": [
+      { "text": "Because sodium ions carry a negative charge and attract chlorine", "isCorrect": false },
+      { "text": "Due to the high overpotential required for the liberation of oxygen gas on the electrode surface", "isCorrect": true },
+      { "text": "Because chlorine ions are larger and diffuse faster than hydroxide ions", "isCorrect": false },
+      { "text": "Because concentrated sodium chloride acts as an electrical insulator for oxygen", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 8",
+    "subject": "Science",
+    "difficulty": "Very Hard",
+    "text": "According to Pascal's Law, how does a hydraulic jack multiply force to lift heavy vehicles?",
+    "explanation": "Pascal's Law states that pressure applied to an enclosed fluid is transmitted undiminished. Applying a small force on a small area creates a pressure that acts on a larger area, producing a much larger force.",
+    "options": [
+      { "text": "By increasing the velocity of the fluid as it passes through a narrow pipe", "isCorrect": false },
+      { "text": "By transmitting equal pressure to a larger piston, generating a larger force", "isCorrect": true },
+      { "text": "By reducing the density of the fluid to make the vehicle float", "isCorrect": false },
+      { "text": "By creating a vacuum under the vehicle to suck it upwards", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 8",
+    "subject": "Science",
+    "difficulty": "Very Hard",
+    "text": "A dry piece of paper is crumpled and pushed to the bottom of a drinking glass. The glass is inverted and pushed vertically down into a bucket of water. Why does the paper remain dry?",
+    "explanation": "The air trapped inside the inverted glass cannot escape. As the glass is pushed down, the air is compressed slightly and exerts an outward pressure that prevents water from entering the glass.",
+    "options": [
+      { "text": "Because the glass chemically decomposes the water molecules into dry gases", "isCorrect": false },
+      { "text": "Because the trapped air inside the glass exerts pressure that prevents water from entering", "isCorrect": true },
+      { "text": "Because the paper is coated with static electricity that repels water", "isCorrect": false },
+      { "text": "Because water molecules are too large to enter the opening of the glass", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 8",
+    "subject": "Science",
+    "difficulty": "Very Hard",
+    "text": "Polishing a rough metal surface initially decreases the force of friction between it and another surface. However, if the surfaces are over-polished to an extreme level, the friction increases. Why?",
+    "explanation": "Extreme polishing makes the surfaces extremely flat, which increases the actual area of contact at the molecular level, bringing atoms closer and increasing electrostatic adhesion (cold welding) between them.",
+    "options": [
+      { "text": "Because polishing creates deep microscopic ridges that interlock", "isCorrect": false },
+      { "text": "Because it increases the actual molecular contact area, increasing adhesion between atoms", "isCorrect": true },
+      { "text": "Because over-polishing charges the metal surfaces with opposite static charges", "isCorrect": false },
+      { "text": "Because the mass of the metals increases due to chemical oxidation during polishing", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 8",
+    "subject": "Science",
+    "difficulty": "Very Hard",
+    "text": "A small spherical droplet of oil of radius \\\\(r\\\\) falls through the air. According to Stokes' Law, how does the viscous drag force acting on the droplet relate to its radius and velocity?",
+    "explanation": "Stokes' Law states that the viscous drag force \\\\(F\\\\) acting on a sphere of radius \\\\(r\\\\) moving with velocity \\\\(v\\\\) through a fluid of viscosity \\\\(\\\\eta\\\\) is directly proportional to both \\\\(r\\\\) and \\\\(v\\\\) (\\\\(F = 6\\pi \\eta r v\\\\)).",
+    "options": [
+      { "text": "Inversely proportional to the radius and directly proportional to the velocity", "isCorrect": false },
+      { "text": "Directly proportional to both the radius and the velocity", "isCorrect": true },
+      { "text": "Directly proportional to the square of the radius and independent of velocity", "isCorrect": false },
+      { "text": "Inversely proportional to both the radius and the velocity", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 8",
+    "subject": "Science",
+    "difficulty": "Very Hard",
+    "text": "Two sound waves of frequencies \\\\(250 \\\\text{ Hz}\\\\) and \\\\(254 \\\\text{ Hz}\\\\) travel in the same medium and interfere. What phenomenon does a listener hear, and what is its frequency?",
+    "explanation": "The superposition of two sound waves of slightly different frequencies produces beats. The beat frequency is the difference between the two frequencies (\\\\(254 - 250 = 4 \\\\text{ Hz}\\\\)).",
+    "options": [
+      { "text": "A continuous high pitch sound at \\\\(504 \\\\text{ Hz}\\\\)", "isCorrect": false },
+      { "text": "Beats, with a beat frequency of \\\\(4 \\\\text{ Hz}\\\\)", "isCorrect": true },
+      { "text": "Echoes, repeating every \\\\(4 \\\\text{ seconds}\\\\)", "isCorrect": false },
+      { "text": "A pure sine wave at \\\\(127 \\\\text{ Hz}\\\\)", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 8",
+    "subject": "Science",
+    "difficulty": "Very Hard",
+    "text": "An organ pipe closed at one end has a fundamental frequency of \\\\(f\\\\). If both ends of the pipe are opened, what will be its new fundamental frequency?",
+    "explanation": "For a closed pipe, \\\\(f = v / 4L\\\\). For an open pipe, the fundamental frequency is \\\\(f' = v / 2L\\\\). Therefore, opening both ends doubles the fundamental frequency (\\\\(f' = 2f\\\\)).",
+    "options": [
+      { "text": "Half of the original frequency (\\\\(f/2\\\\))", "isCorrect": false },
+      { "text": "Double the original frequency (\\\\(2f\\\\))", "isCorrect": true },
+      { "text": "Four times the original frequency (\\\\(4f\\\\))", "isCorrect": false },
+      { "text": "It remains unchanged (\\\\(f\\\\))", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 8",
+    "subject": "Science",
+    "difficulty": "Very Hard",
+    "text": "During an earthquake, why does a seismograph located on the side of the Earth directly opposite to the epicentre fail to detect S-waves (secondary waves)?",
+    "explanation": "S-waves are transverse shear waves that require a medium with shear strength to propagate. They cannot travel through liquids, and are thus blocked by the Earth's liquid outer core, creating a shadow zone.",
+    "options": [
+      { "text": "Because S-waves travel only along the surface of the crust and dissipate quickly", "isCorrect": false },
+      { "text": "Because S-waves cannot propagate through the liquid outer core of the Earth", "isCorrect": true },
+      { "text": "Because S-waves are converted into sound waves when they reach the mantle", "isCorrect": false },
+      { "text": "Because the seismograph is desensitized by the faster primary waves", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 8",
+    "subject": "Science",
+    "difficulty": "Very Hard",
+    "text": "Light travels at a speed of \\\\(3 \\\\times 10^8 \\\\text{ m/s}\\\\) in a vacuum. What happens to the speed and wavelength of a light ray when it enters a glass slab of refractive index \\\\(1.5\\\\)?",
+    "explanation": "Refractive index \\\\(n = v_{\\\\text{vacuum}} / v_{\\\\text{medium}}\\\\). When light enters glass, its speed decreases by a factor of \\\\(1.5\\\\). Since frequency remains constant, the wavelength also decreases by a factor of \\\\(1.5\\\\).",
+    "options": [
+      { "text": "Speed increases by \\\\(1.5\\\\) times, and wavelength remains unchanged", "isCorrect": false },
+      { "text": "Both speed and wavelength decrease by a factor of \\\\(1.5\\\\)", "isCorrect": true },
+      { "text": "Speed decreases by \\\\(1.5\\\\) times, and wavelength increases by \\\\(1.5\\\\) times", "isCorrect": false },
+      { "text": "Speed remains constant, and wavelength decreases by \\\\(1.5\\\\) times", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 8",
+    "subject": "Science",
+    "difficulty": "Very Hard",
+    "text": "A ray of light is incident on a plane mirror. If the mirror is rotated by an angle \\\\(\\theta\\\\) about an axis lying in its reflecting surface, by what angle does the reflected ray rotate?",
+    "explanation": "Rotating the mirror by \\\\(\\theta\\\\) changes the angle of incidence by \\\\(\\theta\\\\), which also changes the angle of reflection by \\\\(\\theta\\\\). Thus, the total rotation of the reflected ray with respect to the incident ray is \\\\(2\\theta\\\\).",
+    "options": [
+      { "text": "By the same angle \\\\(\\theta\\\\)", "isCorrect": false },
+      { "text": "By twice the angle \\\\(2\\theta\\\\)", "isCorrect": true },
+      { "text": "It does not rotate at all", "isCorrect": false },
+      { "text": "By half the angle \\\\(\\theta/2\\\\)", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 8",
+    "subject": "Science",
+    "difficulty": "Very Hard",
+    "text": "How do the ciliary muscles and the eye lens adjust to focus clearly on a nearby object during accommodation?",
+    "explanation": "To focus on near objects, ciliary muscles contract, which relaxes the suspensory ligaments. This allows the elastic eye lens to become thicker and more convex, decreasing its focal length.",
+    "options": [
+      { "text": "Ciliary muscles relax, making the eye lens thinner and increasing focal length", "isCorrect": false },
+      { "text": "Ciliary muscles contract, making the eye lens thicker and decreasing focal length", "isCorrect": true },
+      { "text": "Ciliary muscles pull the retina closer to the lens", "isCorrect": false },
+      { "text": "The pupil dilates to allow more light to flatten the lens", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 8",
+    "subject": "Science",
+    "difficulty": "Very Hard",
+    "text": "During crop rotation, leguminous plants are grown to replenish soil nitrogen. What biological process converts the organic nitrogen of dead plants and animal waste back into inorganic ammonium ions in the soil?",
+    "explanation": "Ammonification is the process carried out by decomposer bacteria and fungi that breaks down organic nitrogenous compounds in dead matter, converting them into inorganic ammonium ions.",
+    "options": [
+      { "text": "Denitrification", "isCorrect": false },
+      { "text": "Ammonification", "isCorrect": true },
+      { "text": "Nitrification", "isCorrect": false },
+      { "text": "Nitrogen assimilation", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 8",
+    "subject": "Science",
+    "difficulty": "Very Hard",
+    "text": "The disease Cholera is caused by the bacterium Vibrio cholerae. What is the cellular mechanism of the cholera toxin that leads to severe, life-threatening diarrhea?",
+    "explanation": "The cholera toxin binds to intestinal cells and activates an enzyme that increases intracellular cyclic AMP (cAMP). This blocks sodium absorption and causes massive secretion of chloride ions, leading to rapid water loss.",
+    "options": [
+      { "text": "It physically destroys the epithelial cells of the stomach lining", "isCorrect": false },
+      { "text": "It raises cAMP levels in intestinal cells, forcing them to secrete massive amounts of salts and water", "isCorrect": true },
+      { "text": "It blocks the blood vessels of the liver, preventing bile secretion", "isCorrect": false },
+      { "text": "It destroys red blood cells in the intestinal capillaries, causing internal bleeding", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 8",
+    "subject": "Science",
+    "difficulty": "Very Hard",
+    "text": "Fullerenes are allotropes of carbon. What is the physical structure of a Buckminsterfullerene (\\\\(\\\\text{C}_{60}\\\\)) molecule, and how many hexagonal and pentagonal rings does it contain?",
+    "explanation": "Buckminsterfullerene (\\\\(\\\\text{C}_{60}\\\\)) has a soccer-ball-like spherical structure consisting of 60 carbon atoms arranged in 20 hexagonal rings and 12 pentagonal rings.",
+    "options": [
+      { "text": "A flat sheet of carbon atoms with only hexagonal rings", "isCorrect": false },
+      { "text": "A cage-like spherical structure containing 20 hexagons and 12 pentagons", "isCorrect": true },
+      { "text": "A tetrahedral network containing 12 hexagons and 20 pentagons", "isCorrect": false },
+      { "text": "A cylindrical tube made of only pentagonal rings", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 8",
+    "subject": "Science",
+    "difficulty": "Very Hard",
+    "text": "Which chemical species is primarily responsible for the bright yellow emission observed in the luminous zone of a hydrocarbon candle flame?",
+    "explanation": "The luminous yellow zone is caused by incomplete combustion of wax. High temperatures cause the wax vapor to crack, forming solid carbon particles (soot) that glow yellow due to heat.",
+    "options": [
+      { "text": "Excited carbon dioxide gas molecules emitting yellow light", "isCorrect": false },
+      { "text": "Glowing incandescent soot (solid carbon) particles", "isCorrect": true },
+      { "text": "Vibrating water vapor molecules emitting infrared-adjacent yellow light", "isCorrect": false },
+      { "text": "Ionized nitrogen atoms emitting light during recombination", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 8",
+    "subject": "Science",
+    "difficulty": "Very Hard",
+    "text": "When a concentrated solution of sodium chloride is electrolyzed using inert electrodes, how does the pH of the solution change over time, and why?",
+    "explanation": "Electrolysis of brine yields chlorine gas at the anode and hydrogen gas at the cathode. Hydroxide ions (\\\\(\\\\text{OH}^-\\\\)) remain in solution and pair with sodium ions, forming sodium hydroxide, which increases the pH.",
+    "options": [
+      { "text": "The pH decreases (becomes acidic) due to accumulation of hydrochloric acid", "isCorrect": false },
+      { "text": "The pH increases (becomes basic) because hydroxide ions accumulate as hydrogen gas is released", "isCorrect": true },
+      { "text": "The pH remains constant at 7 because sodium chloride is a neutral salt", "isCorrect": false },
+      { "text": "The pH drops to 0 because all water molecules are decomposed into oxygen", "isCorrect": false }
+    ]
+  }
+]

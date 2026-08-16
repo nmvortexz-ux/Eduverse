@@ -1,0 +1,347 @@
+[
+  {
+    "text": "What is the primary objective of preparing a Trial Balance?",
+    "options": [
+      "To prepare the Balance Sheet",
+      "To prepare the Income Statement",
+      "To verify the arithmetical accuracy of the ledger accounts",
+      "To prepare the Cash Flow Statement"
+    ],
+    "correctAnswer": "To verify the arithmetical accuracy of the ledger accounts",
+    "explanation": "The primary objective of preparing a Trial Balance is to verify the arithmetical accuracy of the ledger accounts. It is a list of all general ledger accounts and their balances, which helps to ensure that the debits and credits are equal and that there are no mathematical errors in the ledger accounts.",
+    "difficulty": "Easy",
+    "class": "Class 11",
+    "subject": "Accountancy",
+    "chapter": "Ch 6: Trial Balance and Rectification of Errors"
+  },
+  {
+    "text": "Which of the following errors will not affect the Trial Balance?",
+    "options": [
+      "Error of Omission",
+      "Error of Commission",
+      "Error of Principle",
+      "All of the above"
+    ],
+    "correctAnswer": "All of the above",
+    "explanation": "Errors of omission, commission, and principle are all types of errors that do not affect the Trial Balance. An error of omission occurs when a transaction is not recorded at all, an error of commission occurs when a transaction is recorded in the wrong account, and an error of principle occurs when a transaction is recorded using the wrong accounting principle.",
+    "difficulty": "Medium",
+    "class": "Class 11",
+    "subject": "Accountancy",
+    "chapter": "Ch 6: Trial Balance and Rectification of Errors"
+  },
+  {
+    "text": "What is a Suspense Account?",
+    "options": [
+      "A temporary account used to balance the Trial Balance",
+      "A permanent account used to record assets",
+      "A temporary account used to record liabilities",
+      "A permanent account used to record equity"
+    ],
+    "correctAnswer": "A temporary account used to balance the Trial Balance",
+    "explanation": "A Suspense Account is a temporary account used to balance the Trial Balance when there are errors or discrepancies that cannot be immediately identified or corrected. It is used to ensure that the debits and credits are equal, and it is closed once the errors are identified and corrected.",
+    "difficulty": "Medium",
+    "class": "Class 11",
+    "subject": "Accountancy",
+    "chapter": "Ch 6: Trial Balance and Rectification of Errors"
+  },
+  {
+    "text": "How are errors of omission rectified?",
+    "options": [
+      "By passing a rectification entry",
+      "By preparing a new Trial Balance",
+      "By preparing a new Balance Sheet",
+      "By preparing a new Income Statement"
+    ],
+    "correctAnswer": "By passing a rectification entry",
+    "explanation": "Errors of omission are rectified by passing a rectification entry, which involves recording the omitted transaction in the correct account. For example, if a purchase of goods is not recorded, a rectification entry would be passed to debit the Purchases account and credit the Cash account.",
+    "difficulty": "Hard",
+    "class": "Class 11",
+    "subject": "Accountancy",
+    "chapter": "Ch 6: Trial Balance and Rectification of Errors"
+  },
+  {
+    "text": "What is the purpose of preparing a Trial Balance?",
+    "options": [
+      "To prepare the financial statements",
+      "To verify the arithmetical accuracy of the ledger accounts",
+      "To identify and correct errors",
+      "All of the above"
+    ],
+    "correctAnswer": "All of the above",
+    "explanation": "The purpose of preparing a Trial Balance is to verify the arithmetical accuracy of the ledger accounts, identify and correct errors, and prepare the financial statements. It is an important step in the accounting process, as it helps to ensure that the financial statements are accurate and reliable.",
+    "difficulty": "Easy",
+    "class": "Class 11",
+    "subject": "Accountancy",
+    "chapter": "Ch 6: Trial Balance and Rectification of Errors"
+  },
+  {
+    "text": "Which of the following is an example of an error of principle?",
+    "options": [
+      "Recording a purchase of goods as a sale",
+      "Recording a sale of goods as a purchase",
+      "Recording a salary expense as a capital expenditure",
+      "Recording a capital expenditure as a revenue expenditure"
+    ],
+    "correctAnswer": "Recording a salary expense as a capital expenditure",
+    "explanation": "An error of principle occurs when a transaction is recorded using the wrong accounting principle. For example, recording a salary expense as a capital expenditure is an error of principle, as salary expenses should be recorded as expenses, not as capital expenditures.",
+    "difficulty": "Hard",
+    "class": "Class 11",
+    "subject": "Accountancy",
+    "chapter": "Ch 6: Trial Balance and Rectification of Errors"
+  },
+  {
+    "text": "How are errors of commission rectified?",
+    "options": [
+      "By passing a rectification entry",
+      "By preparing a new Trial Balance",
+      "By preparing a new Balance Sheet",
+      "By preparing a new Income Statement"
+    ],
+    "correctAnswer": "By passing a rectification entry",
+    "explanation": "Errors of commission are rectified by passing a rectification entry, which involves recording the correct transaction in the correct account. For example, if a sale of goods is recorded as a purchase, a rectification entry would be passed to debit the Sales account and credit the Purchases account.",
+    "difficulty": "Hard",
+    "class": "Class 11",
+    "subject": "Accountancy",
+    "chapter": "Ch 6: Trial Balance and Rectification of Errors"
+  },
+  {
+    "text": "What is the effect of an error of omission on the Trial Balance?",
+    "options": [
+      "It will affect the Trial Balance",
+      "It will not affect the Trial Balance",
+      "It will increase the assets",
+      "It will decrease the liabilities"
+    ],
+    "correctAnswer": "It will not affect the Trial Balance",
+    "explanation": "An error of omission occurs when a transaction is not recorded at all. This type of error will not affect the Trial Balance, as the debits and credits will still be equal. However, it will affect the financial statements, as the omitted transaction will not be reflected in the accounts.",
+    "difficulty": "Medium",
+    "class": "Class 11",
+    "subject": "Accountancy",
+    "chapter": "Ch 6: Trial Balance and Rectification of Errors"
+  },
+  {
+    "text": "Which of the following is a characteristic of a Trial Balance?",
+    "options": [
+      "It is a list of all general ledger accounts and their balances",
+      "It is a list of all assets and their values",
+      "It is a list of all liabilities and their values",
+      "It is a list of all equity and their values"
+    ],
+    "correctAnswer": "It is a list of all general ledger accounts and their balances",
+    "explanation": "A Trial Balance is a list of all general ledger accounts and their balances, which is prepared to verify the arithmetical accuracy of the ledger accounts. It is an important step in the accounting process, as it helps to ensure that the financial statements are accurate and reliable.",
+    "difficulty": "Easy",
+    "class": "Class 11",
+    "subject": "Accountancy",
+    "chapter": "Ch 6: Trial Balance and Rectification of Errors"
+  },
+  {
+    "text": "How are errors of principle rectified?",
+    "options": [
+      "By passing a rectification entry",
+      "By preparing a new Trial Balance",
+      "By preparing a new Balance Sheet",
+      "By preparing a new Income Statement"
+    ],
+    "correctAnswer": "By passing a rectification entry",
+    "explanation": "Errors of principle are rectified by passing a rectification entry, which involves recording the correct transaction in the correct account. For example, if a salary expense is recorded as a capital expenditure, a rectification entry would be passed to debit the Salary Expense account and credit the Capital Expenditure account.",
+    "difficulty": "Hard",
+    "class": "Class 11",
+    "subject": "Accountancy",
+    "chapter": "Ch 6: Trial Balance and Rectification of Errors"
+  },
+  {
+    "text": "What is the purpose of a Suspense Account?",
+    "options": [
+      "To record assets",
+      "To record liabilities",
+      "To record equity",
+      "To balance the Trial Balance"
+    ],
+    "correctAnswer": "To balance the Trial Balance",
+    "explanation": "A Suspense Account is a temporary account used to balance the Trial Balance when there are errors or discrepancies that cannot be immediately identified or corrected. It is used to ensure that the debits and credits are equal, and it is closed once the errors are identified and corrected.",
+    "difficulty": "Medium",
+    "class": "Class 11",
+    "subject": "Accountancy",
+    "chapter": "Ch 6: Trial Balance and Rectification of Errors"
+  },
+  {
+    "text": "Which of the following is an example of a compensating error?",
+    "options": [
+      "An error of omission and an error of commission",
+      "An error of principle and an error of omission",
+      "An error of commission and an error of principle",
+      "An error of omission and an error of principle"
+    ],
+    "correctAnswer": "An error of commission and an error of principle",
+    "explanation": "A compensating error occurs when two or more errors cancel each other out, resulting in a correct Trial Balance. For example, if a sale of goods is recorded as a purchase (an error of commission) and a purchase of goods is recorded as a sale (an error of principle), the two errors will cancel each other out, resulting in a correct Trial Balance.",
+    "difficulty": "Hard",
+    "class": "Class 11",
+    "subject": "Accountancy",
+    "chapter": "Ch 6: Trial Balance and Rectification of Errors"
+  },
+  {
+    "text": "How are compensating errors rectified?",
+    "options": [
+      "By passing a rectification entry",
+      "By preparing a new Trial Balance",
+      "By preparing a new Balance Sheet",
+      "By preparing a new Income Statement"
+    ],
+    "correctAnswer": "By passing a rectification entry",
+    "explanation": "Compensating errors are rectified by passing a rectification entry, which involves recording the correct transaction in the correct account. For example, if a sale of goods is recorded as a purchase and a purchase of goods is recorded as a sale, a rectification entry would be passed to debit the Sales account and credit the Purchases account, and another rectification entry would be passed to debit the Purchases account and credit the Sales account.",
+    "difficulty": "Hard",
+    "class": "Class 11",
+    "subject": "Accountancy",
+    "chapter": "Ch 6: Trial Balance and Rectification of Errors"
+  },
+  {
+    "text": "What is the effect of an error of commission on the Trial Balance?",
+    "options": [
+      "It will affect the Trial Balance",
+      "It will not affect the Trial Balance",
+      "It will increase the assets",
+      "It will decrease the liabilities"
+    ],
+    "correctAnswer": "It will not affect the Trial Balance",
+    "explanation": "An error of commission occurs when a transaction is recorded in the wrong account. This type of error will not affect the Trial Balance, as the debits and credits will still be equal. However, it will affect the financial statements, as the incorrect account will be reflected in the accounts.",
+    "difficulty": "Medium",
+    "class": "Class 11",
+    "subject": "Accountancy",
+    "chapter": "Ch 6: Trial Balance and Rectification of Errors"
+  },
+  {
+    "text": "Which of the following is a characteristic of a rectification entry?",
+    "options": [
+      "It is a journal entry that corrects an error",
+      "It is a journal entry that records a new transaction",
+      "It is a journal entry that records a correction to a previous transaction",
+      "It is a journal entry that records a new asset"
+    ],
+    "correctAnswer": "It is a journal entry that corrects an error",
+    "explanation": "A rectification entry is a journal entry that corrects an error, such as an error of omission, commission, or principle. It is used to record the correct transaction in the correct account, and to ensure that the financial statements are accurate and reliable.",
+    "difficulty": "Easy",
+    "class": "Class 11",
+    "subject": "Accountancy",
+    "chapter": "Ch 6: Trial Balance and Rectification of Errors"
+  },
+  {
+    "text": "How are errors of principle identified?",
+    "options": [
+      "By preparing a Trial Balance",
+      "By preparing a Balance Sheet",
+      "By preparing an Income Statement",
+      "By analyzing the ledger accounts"
+    ],
+    "correctAnswer": "By analyzing the ledger accounts",
+    "explanation": "Errors of principle are identified by analyzing the ledger accounts, to determine if the transactions have been recorded using the correct accounting principles. For example, if a salary expense is recorded as a capital expenditure, it would be identified as an error of principle by analyzing the ledger accounts.",
+    "difficulty": "Hard",
+    "class": "Class 11",
+    "subject": "Accountancy",
+    "chapter": "Ch 6: Trial Balance and Rectification of Errors"
+  },
+  {
+    "text": "What is the purpose of analyzing the ledger accounts?",
+    "options": [
+      "To prepare the financial statements",
+      "To identify and correct errors",
+      "To verify the arithmetical accuracy of the ledger accounts",
+      "To record new transactions"
+    ],
+    "correctAnswer": "To identify and correct errors",
+    "explanation": "The purpose of analyzing the ledger accounts is to identify and correct errors, such as errors of omission, commission, and principle. By analyzing the ledger accounts, accountants can determine if the transactions have been recorded correctly, and if any errors need to be rectified.",
+    "difficulty": "Medium",
+    "class": "Class 11",
+    "subject": "Accountancy",
+    "chapter": "Ch 6: Trial Balance and Rectification of Errors"
+  },
+  {
+    "text": "Which of the following is an example of an error that affects the Trial Balance?",
+    "options": [
+      "An error of omission",
+      "An error of commission",
+      "An error of principle",
+      "A mathematical error"
+    ],
+    "correctAnswer": "A mathematical error",
+    "explanation": "A mathematical error, such as a mistake in adding or subtracting, will affect the Trial Balance, as it will result in an unequal balance between the debits and credits. This type of error needs to be identified and corrected, to ensure that the financial statements are accurate and reliable.",
+    "difficulty": "Medium",
+    "class": "Class 11",
+    "subject": "Accountancy",
+    "chapter": "Ch 6: Trial Balance and Rectification of Errors"
+  },
+  {
+    "text": "How are mathematical errors rectified?",
+    "options": [
+      "By passing a rectification entry",
+      "By preparing a new Trial Balance",
+      "By preparing a new Balance Sheet",
+      "By re-adding the ledger accounts"
+    ],
+    "correctAnswer": "By re-adding the ledger accounts",
+    "explanation": "Mathematical errors are rectified by re-adding the ledger accounts, to ensure that the debits and credits are equal. This involves re-calculating the balances of the ledger accounts, to identify and correct any mathematical errors.",
+    "difficulty": "Easy",
+    "class": "Class 11",
+    "subject": "Accountancy",
+    "chapter": "Ch 6: Trial Balance and Rectification of Errors"
+  },
+  {
+    "text": "What is the effect of a mathematical error on the financial statements?",
+    "options": [
+      "It will affect the Balance Sheet",
+      "It will affect the Income Statement",
+      "It will affect both the Balance Sheet and the Income Statement",
+      "It will not affect the financial statements"
+    ],
+    "correctAnswer": "It will affect both the Balance Sheet and the Income Statement",
+    "explanation": "A mathematical error will affect both the Balance Sheet and the Income Statement, as it will result in incorrect balances and amounts being reported. This can lead to incorrect decisions being made, based on inaccurate financial information.",
+    "difficulty": "Medium",
+    "class": "Class 11",
+    "subject": "Accountancy",
+    "chapter": "Ch 6: Trial Balance and Rectification of Errors"
+  },
+  {
+    "text": "Which of the following is a characteristic of a Trial Balance?",
+    "options": [
+      "It is a list of all assets and their values",
+      "It is a list of all liabilities and their values",
+      "It is a list of all equity and their values",
+      "It is a list of all general ledger accounts and their balances"
+    ],
+    "correctAnswer": "It is a list of all general ledger accounts and their balances",
+    "explanation": "A Trial Balance is a list of all general ledger accounts and their balances, which is prepared to verify the arithmetical accuracy of the ledger accounts. It is an important step in the accounting process, as it helps to ensure that the financial statements are accurate and reliable.",
+    "difficulty": "Easy",
+    "class": "Class 11",
+    "subject": "Accountancy",
+    "chapter": "Ch 6: Trial Balance and Rectification of Errors"
+  },
+  {
+    "text": "How are errors identified and corrected?",
+    "options": [
+      "By preparing a Trial Balance",
+      "By preparing a Balance Sheet",
+      "By preparing an Income Statement",
+      "By analyzing the ledger accounts and preparing rectification entries"
+    ],
+    "correctAnswer": "By analyzing the ledger accounts and preparing rectification entries",
+    "explanation": "Errors are identified and corrected by analyzing the ledger accounts, to determine if the transactions have been recorded correctly, and by preparing rectification entries, to correct any errors that are found. This involves a thorough review of the ledger accounts, to ensure that all transactions have been recorded accurately and in accordance with accounting principles.",
+    "difficulty": "Hard",
+    "class": "Class 11",
+    "subject": "Accountancy",
+    "chapter": "Ch 6: Trial Balance and Rectification of Errors"
+  },
+  {
+    "text": "What is the purpose of preparing rectification entries?",
+    "options": [
+      "To record new transactions",
+      "To correct errors",
+      "To verify the arithmetical accuracy of the ledger accounts",
+      "To prepare the financial statements"
+    ],
+    "correctAnswer": "To correct errors",
+    "explanation": "The purpose of preparing rectification entries is to correct errors, such as errors of omission, commission, and principle. Rectification entries are used to record the correct transaction in the correct account, and to ensure that the financial statements are accurate and reliable.",
+    "difficulty": "Easy",
+    "class": "Class 11",
+    "subject": "Accountancy",
+    "chapter": "Ch 6: Trial Balance and Rectification of Errors"
+  }
+]

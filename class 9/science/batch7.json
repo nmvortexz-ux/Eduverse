@@ -1,0 +1,327 @@
+[
+  {
+    "class": "Class 9",
+    "subject": "Science",
+    "difficulty": "EASY",
+    "text": "What is the SI unit of temperature?",
+    "explanation": "Kelvin ($\\text{K}$) is the SI unit of temperature. Celsius is also widely used but is not the SI unit.",
+    "options": [
+      { "text": "Celsius", "isCorrect": false },
+      { "text": "Kelvin", "isCorrect": true },
+      { "text": "Fahrenheit", "isCorrect": false },
+      { "text": "Joule", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 9",
+    "subject": "Science",
+    "difficulty": "EASY",
+    "text": "Which plant cell organelle contains the photosynthetic pigment chlorophyll?",
+    "explanation": "Chloroplasts are the plastids that contain chlorophyll, which traps solar energy for photosynthesis.",
+    "options": [
+      { "text": "Mitochondrion", "isCorrect": false },
+      { "text": "Chloroplast", "isCorrect": true },
+      { "text": "Leucoplast", "isCorrect": false },
+      { "text": "Chromoplast", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 9",
+    "subject": "Science",
+    "difficulty": "EASY",
+    "text": "What is the relationship between mass ($m$), acceleration due to gravity ($g$), and weight ($W$) of an object?",
+    "explanation": "Weight is the force with which Earth attracts an object, expressed as $W = mg$.",
+    "options": [
+      { "text": "$W = \\frac{m}{g}$", "isCorrect": false },
+      { "text": "$W = mg$", "isCorrect": true },
+      { "text": "$W = m^2 g$", "isCorrect": false },
+      { "text": "$W = \\frac{g}{m}$", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 9",
+    "subject": "Science",
+    "difficulty": "EASY",
+    "text": "Which state of matter has a definite volume but no definite shape?",
+    "explanation": "Liquids have a definite volume but take the shape of the container they are placed in, having no fixed shape.",
+    "options": [
+      { "text": "Solid", "isCorrect": false },
+      { "text": "Liquid", "isCorrect": true },
+      { "text": "Gas", "isCorrect": false },
+      { "text": "Plasma", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 9",
+    "subject": "Science",
+    "difficulty": "EASY",
+    "text": "Which tissue forms the outer protective surface of the human skin?",
+    "explanation": "Stratified squamous epithelium consists of multiple layers of flat squamous cells, protecting skin against wear and tear.",
+    "options": [
+      { "text": "Parenchyma", "isCorrect": false },
+      { "text": "Stratified squamous epithelium", "isCorrect": true },
+      { "text": "Areolar tissue", "isCorrect": false },
+      { "text": "Adipose tissue", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 9",
+    "subject": "Science",
+    "difficulty": "EASY",
+    "text": "What is the formula for the gravitational potential energy of a body of mass $m$ at height $h$?",
+    "explanation": "Potential energy acquired by raising an object to height $h$ is given by the work done against gravity: $E_p = mgh$.",
+    "options": [
+      { "text": "$E_p = \\frac{1}{2}mv^2$", "isCorrect": false },
+      { "text": "$E_p = mgh$", "isCorrect": true },
+      { "text": "$E_p = mgh^2$", "isCorrect": false },
+      { "text": "$E_p = \\frac{mg}{h}$", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 9",
+    "subject": "Science",
+    "difficulty": "MEDIUM",
+    "text": "Steel is classified as which type of mixture?",
+    "explanation": "Steel is an alloy, which is a solid-solid homogeneous mixture of carbon and iron.",
+    "options": [
+      { "text": "Heterogeneous mixture", "isCorrect": false },
+      { "text": "Homogeneous mixture (alloy)", "isCorrect": true },
+      { "text": "Suspension", "isCorrect": false },
+      { "text": "Colloid", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 9",
+    "subject": "Science",
+    "difficulty": "MEDIUM",
+    "text": "Which component of blood is responsible for transporting oxygen from lungs to all tissues?",
+    "explanation": "Red Blood Cells (RBCs) contain hemoglobin, an iron-rich protein that binds to oxygen and transports it.",
+    "options": [
+      { "text": "White Blood Cells", "isCorrect": false },
+      { "text": "Red Blood Cells", "isCorrect": true },
+      { "text": "Platelets", "isCorrect": false },
+      { "text": "Plasma proteins", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 9",
+    "subject": "Science",
+    "difficulty": "MEDIUM",
+    "text": "Why is the weight of an object slightly higher at the poles than at the equator?",
+    "explanation": "The Earth is not a perfect sphere; its radius is smaller at the poles, making the acceleration due to gravity ($g$) slightly larger at the poles.",
+    "options": [
+      { "text": "The Earth's radius is larger at the poles", "isCorrect": false },
+      { "text": "The value of $g$ is slightly larger at the poles", "isCorrect": true },
+      { "text": "The atmospheric pressure is lower at the poles", "isCorrect": false },
+      { "text": "Poles have higher temperatures", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 9",
+    "subject": "Science",
+    "difficulty": "MEDIUM",
+    "text": "Which scientific law states that 'in a chemical substance, the elements are always present in definite proportions by mass'?",
+    "explanation": "The Law of Constant Proportions (or Definite Proportions) was proposed by Joseph Proust.",
+    "options": [
+      { "text": "Law of Conservation of Mass", "isCorrect": false },
+      { "text": "Law of Constant Proportions", "isCorrect": true },
+      { "text": "Law of Conservation of Energy", "isCorrect": false },
+      { "text": "Avogadro's Law", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 9",
+    "subject": "Science",
+    "difficulty": "MEDIUM",
+    "text": "Which farming method helps in naturally enriching soil nitrogen without synthetic fertilizers?",
+    "explanation": "Cultivating leguminous crops (like pulses) in rotation fixes atmospheric nitrogen through symbiotic Rhizobium bacteria.",
+    "options": [
+      { "text": "Monoculture", "isCorrect": false },
+      { "text": "Crop rotation with leguminous crops", "isCorrect": true },
+      { "text": "Using organophosphates", "isCorrect": false },
+      { "text": "Excessive irrigation", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 9",
+    "subject": "Science",
+    "difficulty": "MEDIUM",
+    "text": "Calculate the power of an electric motor that performs $100\\text{ J}$ of work in $5\\text{ s}$.",
+    "explanation": "Power $P = \\frac{W}{t} = \\frac{100\\text{ J}}{5\\text{ s}} = 20\\text{ W}$.",
+    "options": [
+      { "text": "$500\\text{ W}$", "isCorrect": false },
+      { "text": "$20\\text{ W}$", "isCorrect": true },
+      { "text": "$5\\text{ W}$", "isCorrect": false },
+      { "text": "$100\\text{ W}$", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 9",
+    "subject": "Science",
+    "difficulty": "MEDIUM",
+    "text": "What is the relative atomic mass of Oxygen?",
+    "explanation": "The relative atomic mass of oxygen is $16\\text{ u}$ based on the C-12 reference scale.",
+    "options": [
+      { "text": "$8\\text{ u}$", "isCorrect": false },
+      { "text": "$16\\text{ u}$", "isCorrect": true },
+      { "text": "$32\\text{ u}$", "isCorrect": false },
+      { "text": "$12\\text{ u}$", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 9",
+    "subject": "Science",
+    "difficulty": "MEDIUM",
+    "text": "Which plant tissue has active dividing cells and thin primary cellulose walls?",
+    "explanation": "Meristematic cells have thin walls, dense cytoplasm, and are specialized for cell division.",
+    "options": [
+      { "text": "Sclerenchyma", "isCorrect": false },
+      { "text": "Meristematic tissue", "isCorrect": true },
+      { "text": "Phloem", "isCorrect": false },
+      { "text": "Xylem parenchyma", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 9",
+    "subject": "Science",
+    "difficulty": "MEDIUM",
+    "text": "Work done on an object by a force is considered negative when:",
+    "explanation": "Work is $W = F \\cdot s \\cdot \\cos(\\theta)$. When force and displacement are opposite ($\\theta = 180^\\circ$), $\\cos(180^\\circ) = -1$, yielding negative work.",
+    "options": [
+      { "text": "Force and displacement are in the same direction", "isCorrect": false },
+      { "text": "Force and displacement are in opposite directions", "isCorrect": true },
+      { "text": "Force is perpendicular to displacement", "isCorrect": false },
+      { "text": "Displacement is zero", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 9",
+    "subject": "Science",
+    "difficulty": "HARD",
+    "text": "How does the rate of evaporation of a liquid change with increasing wind speed and increasing humidity?",
+    "explanation": "Evaporation increases with wind speed (carries away vapor) and decreases with humidity (air is already saturated).",
+    "options": [
+      { "text": "Increases with wind speed and increases with humidity", "isCorrect": false },
+      { "text": "Increases with wind speed and decreases with humidity", "isCorrect": true },
+      { "text": "Decreases with wind speed and increases with humidity", "isCorrect": false },
+      { "text": "Decreases with both wind speed and humidity", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 9",
+    "subject": "Science",
+    "difficulty": "HARD",
+    "text": "Differentiate parenchyma, collenchyma, and sclerenchyma tissues based on their cell wall chemical composition.",
+    "explanation": "Parenchyma cell walls are thin cellulose; collenchyma has pectin thickened corners; sclerenchyma has thick lignified walls.",
+    "options": [
+      { "text": "Parenchyma cell walls are lignified; sclerenchyma is thin cellulose", "isCorrect": false },
+      { "text": "Parenchyma is cellulose, collenchyma has pectin at corners, and sclerenchyma contains lignin", "isCorrect": true },
+      { "text": "All three contain equal deposits of suberin and chitin", "isCorrect": false },
+      { "text": "Collenchyma contains silica; sclerenchyma contains only starch", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 9",
+    "subject": "Science",
+    "difficulty": "HARD",
+    "text": "An object of mass $50\\text{ kg}$ is transported to the Moon. Calculate its weight on Earth and on the Moon (take $g_{\\text{earth}} = 9.8\\text{ m/s}^2$, $g_{\\text{moon}} = 1.63\\text{ m/s}^2$).",
+    "explanation": "Weight on Earth = $50 \\times 9.8 = 490\\text{ N}$. Weight on Moon = $50 \\times 1.63 = 81.5\\text{ N}$.",
+    "options": [
+      { "text": "$490\\text{ N}$ on Earth and $490\\text{ N}$ on Moon", "isCorrect": false },
+      { "text": "$490\\text{ N}$ on Earth and $81.5\\text{ N}$ on Moon", "isCorrect": true },
+      { "text": "$98\\text{ N}$ on Earth and $16.3\\text{ N}$ on Moon", "isCorrect": false },
+      { "text": "$50\\text{ N}$ on Earth and $8.3\\text{ N}$ on Moon", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 9",
+    "subject": "Science",
+    "difficulty": "HARD",
+    "text": "Calculate the molecular/formula unit masses of Sodium Chloride ($\\text{NaCl}$) and Nitric Acid ($\\text{HNO}_3$). (Atomic masses: $\\text{Na}=23\\text{ u}$, $\\text{Cl}=35.5\\text{ u}$, $\\text{H}=1\\text{ u}$, $\\text{N}=14\\text{ u}$, $\\text{O}=16\\text{ u}$)",
+    "explanation": "NaCl mass = $23 + 35.5 = 58.5\\text{ u}$. $\\text{HNO}_3$ mass = $1 + 14 + 3(16) = 63\\text{ u}$.",
+    "options": [
+      { "text": "$40\\text{ u}$ and $50\\text{ u}$", "isCorrect": false },
+      { "text": "$58.5\\text{ u}$ and $63\\text{ u}$", "isCorrect": true },
+      { "text": "$58.5\\text{ u}$ and $48\\text{ u}$", "isCorrect": false },
+      { "text": "$35.5\\text{ u}$ and $63\\text{ u}$", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 9",
+    "subject": "Science",
+    "difficulty": "HARD",
+    "text": "Why do weeds like Xanthium and Parthenium pose a threat to crop plants?",
+    "explanation": "Weeds compete with crops for space, light, water, and nutrients, thereby reducing crop growth and yields.",
+    "options": [
+      { "text": "They toxicify the water table directly", "isCorrect": false },
+      { "text": "They compete for nutrients, water, space, and light, reducing crop yield", "isCorrect": true },
+      { "text": "They prevent crops from performing cellular respiration", "isCorrect": false },
+      { "text": "They always increase the moisture content of soil excessively", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 9",
+    "subject": "Science",
+    "difficulty": "HARD",
+    "text": "A vehicle of mass $1000\\text{ kg}$ is moving with a velocity of $10\\text{ m/s}$. Find the work done by its brakes to bring it to a stop.",
+    "explanation": "Work done = Change in kinetic energy = $E_{kf} - E_{ki} = 0 - \\frac{1}{2}mv^2 = -\\frac{1}{2}(1000)(100) = -50000\\text{ J} = -50\\text{ kJ}$.",
+    "options": [
+      { "text": "$-100\\text{ kJ}$", "isCorrect": false },
+      { "text": "$-50\\text{ kJ}$", "isCorrect": true },
+      { "text": "$50\\text{ kJ}$", "isCorrect": false },
+      { "text": "Zero", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 9",
+    "subject": "Science",
+    "difficulty": "VERY HARD",
+    "text": "Which postulate of Dalton's atomic theory explains the 'Law of Conservation of Mass'?",
+    "explanation": "The postulate stating that 'atoms are indivisible particles, which cannot be created or destroyed in a chemical reaction' explains this law.",
+    "options": [
+      { "text": "Atoms of different elements have different masses and chemical properties", "isCorrect": false },
+      { "text": "Atoms are indivisible particles, which cannot be created or destroyed in a chemical reaction", "isCorrect": true },
+      { "text": "Atoms combine in the ratio of small whole numbers to form compounds", "isCorrect": false },
+      { "text": "The relative number and kinds of atoms are constant in a given compound", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 9",
+    "subject": "Science",
+    "difficulty": "VERY HARD",
+    "text": "Describe the structural features of cardiac muscle cells that allow them to perform continuous contraction without fatigue.",
+    "explanation": "Cardiac muscle fibers are cylindrical, branched, uninucleated, and have intercalated discs for rapid electrical synchronization, with abundant mitochondria.",
+    "options": [
+      { "text": "They are long, multinucleated, and under voluntary control of sensory nerves", "isCorrect": false },
+      { "text": "They are cylindrical, branched, uninucleated cells with intercalated discs and high mitochondrial density", "isCorrect": true },
+      { "text": "They are unbranched spindle cells that lack sarcoplasmic reticulum", "isCorrect": false },
+      { "text": "They are completely non-striated and contain large deposits of calcium carbonate", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 9",
+    "subject": "Science",
+    "difficulty": "VERY HARD",
+    "text": "An object of mass $m$ is thrown vertically upwards with initial velocity $u$. Prove that the total mechanical energy is conserved at maximum height $H$.",
+    "explanation": "At start, Total Energy = $K.E. = \\frac{1}{2}mu^2$. At max height, velocity is zero, so Total Energy = $P.E. = mgH$. Since $u^2 = 2gH$, $mgH = m \\times \\frac{u^2}{2} = \\frac{1}{2}mu^2$. Mechanical energy remains constant.",
+    "options": [
+      { "text": "Total energy at max height is zero because velocity is zero", "isCorrect": false },
+      { "text": "Total energy remains constant because kinetic energy converts completely into potential energy ($mgH = \\frac{1}{2}mu^2$)", "isCorrect": true },
+      { "text": "Total energy increases due to gravitational acceleration forces", "isCorrect": false },
+      { "text": "Total energy decreases because friction generates electrical charge", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 9",
+    "subject": "Science",
+    "difficulty": "VERY HARD",
+    "text": "What physical property of liquids makes Archimedes' Principle applicable in lactometers to measure the purity of milk?",
+    "explanation": "Lactometers work on change in density; addition of water alters the density of milk, which changes the buoyant force and depth of floatation.",
+    "options": [
+      { "text": "Viscosity of milk decreases when sugar is added", "isCorrect": false },
+      { "text": "The change in milk density due to water dilution changes the buoyant force and floatation depth", "isCorrect": true },
+      { "text": "Surface tension of pure milk is lower than water", "isCorrect": false },
+      { "text": "Milk fat globules contract when pressure increases", "isCorrect": false }
+    ]
+  }
+]

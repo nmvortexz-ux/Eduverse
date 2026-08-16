@@ -1,0 +1,167 @@
+[
+  {
+    "text": "What is the main purpose of the Profit and Loss Appropriation Account?",
+    "options": [
+      "To determine the profit or loss of the firm",
+      "To distribute the profits among the partners",
+      "To show the financial position of the firm",
+      "To calculate the capital of the partners"
+    ],
+    "correctAnswer": "To distribute the profits among the partners",
+    "explanation": "The Profit and Loss Appropriation Account is prepared to distribute the profits among the partners in their profit-sharing ratio. It is a necessary step in the process of accounting for partnership.",
+    "difficulty": "Easy",
+    "class": "Class 12",
+    "subject": "Accountancy",
+    "chapter": "Ch 2: Accounting for Partnership: Basic Concepts"
+  },
+  {
+    "text": "Which of the following is not a method of charging interest on partners' capital?",
+    "options": [
+      "Interest on capital out of profits",
+      "Interest on drawings out of profits",
+      "Interest on capital out of capital",
+      "Interest on capital out of reserve"
+    ],
+    "correctAnswer": "Interest on capital out of capital",
+    "explanation": "Interest on capital out of capital is not a method of charging interest on partners' capital. Interest on capital out of profits is a method where interest is charged on the capital of the partners out of the profits of the firm.",
+    "difficulty": "Medium",
+    "class": "Class 12",
+    "subject": "Accountancy",
+    "chapter": "Ch 2: Accounting for Partnership: Basic Concepts"
+  },
+  {
+    "text": "What is the formula for calculating interest on drawings?",
+    "options": [
+      "$\\frac{D \\times R \\times T}{100}$",
+      "$\\frac{D \\times R \\times T}{365}$",
+      "$\\frac{D \\times R \\times T}{360}$",
+      "$\\frac{D \\times R \\times T}{12}$"
+    ],
+    "correctAnswer": "$\\frac{D \\times R \\times T}{365}$",
+    "explanation": "The formula for calculating interest on drawings is $\\frac{D \\times R \\times T}{365}$, where D is the amount of drawings, R is the rate of interest, and T is the time period.",
+    "difficulty": "Medium",
+    "class": "Class 12",
+    "subject": "Accountancy",
+    "chapter": "Ch 2: Accounting for Partnership: Basic Concepts"
+  },
+  {
+    "text": "What is the main difference between interest on capital out of profits and interest on capital out of capital?",
+    "options": [
+      "Interest on capital out of profits is charged on the capital of the partners, while interest on capital out of capital is charged on the profits of the firm.",
+      "Interest on capital out of profits is charged on the profits of the firm, while interest on capital out of capital is charged on the capital of the partners.",
+      "Interest on capital out of profits is charged on the capital of the partners, while interest on capital out of capital is charged on the capital of the partners.",
+      "Interest on capital out of profits is charged on the profits of the firm, while interest on capital out of capital is charged on the profits of the firm."
+    ],
+    "correctAnswer": "Interest on capital out of profits is charged on the capital of the partners, while interest on capital out of capital is charged on the capital of the partners.",
+    "explanation": "Interest on capital out of profits is charged on the capital of the partners, while interest on capital out of capital is charged on the capital of the partners. This is the main difference between the two methods.",
+    "difficulty": "Hard",
+    "class": "Class 12",
+    "subject": "Accountancy",
+    "chapter": "Ch 2: Accounting for Partnership: Basic Concepts"
+  },
+  {
+    "text": "What is the purpose of the Capital Accounts of the partners?",
+    "options": [
+      "To show the initial investment of the partners",
+      "To show the profit or loss of the firm",
+      "To show the drawings of the partners",
+      "To show the capital of the partners"
+    ],
+    "correctAnswer": "To show the capital of the partners",
+    "explanation": "The Capital Accounts of the partners are used to show the capital of the partners. It is a necessary step in the process of accounting for partnership.",
+    "difficulty": "Easy",
+    "class": "Class 12",
+    "subject": "Accountancy",
+    "chapter": "Ch 2: Accounting for Partnership: Basic Concepts"
+  },
+  {
+    "text": "Which of the following is a method of charging interest on partners' capital?",
+    "options": [
+      "Interest on drawings out of profits",
+      "Interest on capital out of profits",
+      "Interest on capital out of capital",
+      "Interest on reserve out of profits"
+    ],
+    "correctAnswer": "Interest on capital out of profits",
+    "explanation": "Interest on capital out of profits is a method of charging interest on partners' capital. It is a common method used in partnership accounting.",
+    "difficulty": "Medium",
+    "class": "Class 12",
+    "subject": "Accountancy",
+    "chapter": "Ch 2: Accounting for Partnership: Basic Concepts"
+  },
+  {
+    "text": "What is the formula for calculating interest on capital?",
+    "options": [
+      "$\\frac{C \\times R \\times T}{100}$",
+      "$\\frac{C \\times R \\times T}{365}$",
+      "$\\frac{C \\times R \\times T}{360}$",
+      "$\\frac{C \\times R \\times T}{12}$"
+    ],
+    "correctAnswer": "$\\frac{C \\times R \\times T}{100}$",
+    "explanation": "The formula for calculating interest on capital is $\\frac{C \\times R \\times T}{100}$, where C is the capital, R is the rate of interest, and T is the time period.",
+    "difficulty": "Medium",
+    "class": "Class 12",
+    "subject": "Accountancy",
+    "chapter": "Ch 2: Accounting for Partnership: Basic Concepts"
+  },
+  {
+    "text": "What is the main difference between a partnership and a sole proprietorship?",
+    "options": [
+      "A partnership is a business owned by two or more individuals, while a sole proprietorship is a business owned by one individual.",
+      "A partnership is a business owned by one individual, while a sole proprietorship is a business owned by two or more individuals.",
+      "A partnership is a business owned by two or more individuals, while a sole proprietorship is a business owned by two or more individuals.",
+      "A partnership is a business owned by one individual, while a sole proprietorship is a business owned by one individual."
+    ],
+    "correctAnswer": "A partnership is a business owned by two or more individuals, while a sole proprietorship is a business owned by one individual.",
+    "explanation": "A partnership is a business owned by two or more individuals, while a sole proprietorship is a business owned by one individual. This is the main difference between the two types of businesses.",
+    "difficulty": "Hard",
+    "class": "Class 12",
+    "subject": "Accountancy",
+    "chapter": "Ch 2: Accounting for Partnership: Basic Concepts"
+  },
+  {
+    "text": "What is the purpose of the Profit and Loss Account?",
+    "options": [
+      "To show the profit or loss of the firm",
+      "To show the capital of the partners",
+      "To show the drawings of the partners",
+      "To show the financial position of the firm"
+    ],
+    "correctAnswer": "To show the profit or loss of the firm",
+    "explanation": "The Profit and Loss Account is used to show the profit or loss of the firm. It is a necessary step in the process of accounting for partnership.",
+    "difficulty": "Easy",
+    "class": "Class 12",
+    "subject": "Accountancy",
+    "chapter": "Ch 2: Accounting for Partnership: Basic Concepts"
+  },
+  {
+    "text": "Which of the following is not a type of partnership?",
+    "options": [
+      "General Partnership",
+      "Limited Partnership",
+      "Sole Proprietorship",
+      "Public Company"
+    ],
+    "correctAnswer": "Public Company",
+    "explanation": "A public company is not a type of partnership. It is a type of business organization that is owned by shareholders.",
+    "difficulty": "Medium",
+    "class": "Class 12",
+    "subject": "Accountancy",
+    "chapter": "Ch 2: Accounting for Partnership: Basic Concepts"
+  },
+  {
+    "text": "What is the formula for calculating interest on drawings?",
+    "options": [
+      "$\\frac{D \\times R \\times T}{100}$",
+      "$\\frac{D \\times R \\times T}{365}$",
+      "$\\frac{D \\times R \\times T}{360}$",
+      "$\\frac{D \\times R \\times T}{12}$"
+    ],
+    "correctAnswer": "$\\frac{D \\times R \\times T}{365}$",
+    "explanation": "The formula for calculating interest on drawings is $\\frac{D \\times R \\times T}{365}$, where D is the amount of drawings, R is the rate of interest, and T is the time period.",
+    "difficulty": "Medium",
+    "class": "Class 12",
+    "subject": "Accountancy",
+    "chapter": "Ch 2: Accounting for Partnership: Basic Concepts"
+  }
+]

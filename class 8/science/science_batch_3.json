@@ -1,0 +1,327 @@
+[
+  {
+    "class": "Class 8",
+    "subject": "Science",
+    "difficulty": "Easy",
+    "text": "Which of the following liquids is a good conductor of electricity?",
+    "explanation": "Lemon juice contains citric acid which dissociates into ions, allowing it to conduct electricity. Distilled water, honey, and vegetable oil do not conduct electricity well.",
+    "options": [
+      { "text": "Lemon juice", "isCorrect": true },
+      { "text": "Distilled water", "isCorrect": false },
+      { "text": "Honey", "isCorrect": false },
+      { "text": "Vegetable oil", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 8",
+    "subject": "Science",
+    "difficulty": "Medium",
+    "text": "When electric current is passed through acidified water, gas bubbles are observed at the electrodes. Which gas is released at the positive electrode (anode)?",
+    "explanation": "During the electrolysis of water, water molecules decompose. Oxygen gas bubbles are formed at the positive electrode (anode), and hydrogen gas bubbles are formed at the negative electrode (cathode).",
+    "options": [
+      { "text": "Oxygen gas", "isCorrect": true },
+      { "text": "Hydrogen gas", "isCorrect": false },
+      { "text": "Nitrogen gas", "isCorrect": false },
+      { "text": "Chlorine gas", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 8",
+    "subject": "Science",
+    "difficulty": "Hard",
+    "text": "The process of depositing a layer of any desired metal on another material by means of electricity is called electroplating. Why is chromium used to electroplate objects like car parts, bath taps, and bicycle handlebars?",
+    "explanation": "Chromium is used because it has a shiny appearance, does not corrode, and resists scratches, making it ideal for protecting and beautifying metal surfaces.",
+    "options": [
+      { "text": "It is very cheap and abundant", "isCorrect": false },
+      { "text": "It has a shiny appearance, does not corrode, and resists scratches", "isCorrect": true },
+      { "text": "It conducts electricity better than iron", "isCorrect": false },
+      { "text": "It melts at a very low temperature", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 8",
+    "subject": "Science",
+    "difficulty": "Very Hard",
+    "text": "A student tests the electrical conductivity of distilled water, tap water, and vinegar using an LED tester. Which of the following describes the correct observation?",
+    "explanation": "Distilled water lacks free ions and does not conduct electricity. Tap water contains dissolved salts, making it a good conductor. Vinegar is a weak acid that partially ionizes, making it a poor conductor that glows the LED dimly.",
+    "options": [
+      { "text": "Distilled water conducts strongly, while tap water and vinegar do not conduct at all", "isCorrect": false },
+      { "text": "Distilled water does not conduct, while tap water and vinegar conduct, with vinegar showing a dimmer LED glow than tap water", "isCorrect": true },
+      { "text": "All three liquids conduct electricity with equal strength", "isCorrect": false },
+      { "text": "None of the liquids conduct electricity because they are not metals", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 8",
+    "subject": "Science",
+    "difficulty": "Medium",
+    "text": "Which of the following metals is electroplated onto iron cans used for storing food, and why?",
+    "explanation": "Tin is electroplated onto iron because tin is less reactive than iron. This prevents the food from coming into contact with iron and getting spoiled.",
+    "options": [
+      { "text": "Zinc, because it is highly reactive and forms a protective layer", "isCorrect": false },
+      { "text": "Chromium, because it gives a highly reflective surface", "isCorrect": false },
+      { "text": "Copper, because it is a very good conductor of heat", "isCorrect": false },
+      { "text": "Tin, because it is less reactive than iron and prevents food from spoiling", "isCorrect": true }
+    ]
+  },
+  {
+    "class": "Class 8",
+    "subject": "Science",
+    "difficulty": "Easy",
+    "text": "The passage of an electric current through a conducting liquid causes:",
+    "explanation": "The passage of electric current through a conducting solution causes chemical reactions, resulting in effects like gas bubble formation, metal deposition, or changes in color.",
+    "options": [
+      { "text": "Chemical effects", "isCorrect": true },
+      { "text": "Heating effects only", "isCorrect": false },
+      { "text": "Magnetic effects only", "isCorrect": false },
+      { "text": "Physical changes only", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 8",
+    "subject": "Science",
+    "difficulty": "Hard",
+    "text": "Why is an LED (Light Emitting Diode) preferred over a normal electric bulb in testers used to detect weak electric currents?",
+    "explanation": "An LED is highly sensitive and can glow even when a very weak electric current flows through the circuit, unlike a normal filament bulb which requires a stronger current to heat the filament.",
+    "options": [
+      { "text": "Because it glows even when a very weak electric current flows through it", "isCorrect": true },
+      { "text": "Because it works without completing the circuit", "isCorrect": false },
+      { "text": "Because it only allows current to flow in both directions", "isCorrect": false },
+      { "text": "Because it consumes more power and produces heat", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 8",
+    "subject": "Science",
+    "difficulty": "Very Hard",
+    "text": "During the purification of copper by electroplating, what materials are used for the anode (positive electrode) and the cathode (negative electrode)?",
+    "explanation": "For purification, the anode (positive) is made of a thick plate of impure copper, and the cathode (negative) is a thin strip of pure copper. Copper ions from the anode dissolve into the solution and deposit onto the cathode.",
+    "options": [
+      { "text": "Anode: Thin strip of pure copper; Cathode: Thick plate of impure copper", "isCorrect": false },
+      { "text": "Anode: Thick plate of impure copper; Cathode: Thin strip of pure copper", "isCorrect": true },
+      { "text": "Anode: Carbon rod; Cathode: Thin strip of pure copper", "isCorrect": false },
+      { "text": "Anode: Thick plate of impure copper; Cathode: Carbon rod", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 8",
+    "subject": "Science",
+    "difficulty": "Easy",
+    "text": "What is the process of transferring charge from a charged object to the earth called?",
+    "explanation": "Earthing is the process of transferring electric charge from a charged object directly to the earth to prevent electric shocks.",
+    "options": [
+      { "text": "Earthing", "isCorrect": true },
+      { "text": "Charging", "isCorrect": false },
+      { "text": "Discharging", "isCorrect": false },
+      { "text": "Electrolysis", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 8",
+    "subject": "Science",
+    "difficulty": "Medium",
+    "text": "When a plastic comb is rubbed with dry hair, it attracts small pieces of paper. What type of charge is acquired by the comb, and what force is responsible for this attraction?",
+    "explanation": "Rubbing causes the plastic comb to acquire an electrostatic charge. The force exerted by this charged comb on the pieces of paper is the electrostatic force, which is a non-contact force.",
+    "options": [
+      { "text": "Magnetic charge and magnetic force", "isCorrect": false },
+      { "text": "Electrostatic charge and electrostatic force", "isCorrect": true },
+      { "text": "Gravitational charge and gravitational force", "isCorrect": false },
+      { "text": "Frictional charge and muscular force", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 8",
+    "subject": "Science",
+    "difficulty": "Hard",
+    "text": "During a thunderstorm accompanied by lightning, which of the following is the safest location if you are outdoors?",
+    "explanation": "Inside a car with all windows shut is safe because the metal body of the car acts as a Faraday cage, conducting lightning safely to the ground around you.",
+    "options": [
+      { "text": "Standing under a tall tree in an open field", "isCorrect": false },
+      { "text": "Inside a car with all windows completely closed", "isCorrect": true },
+      { "text": "Standing on an open terrace holding an umbrella", "isCorrect": false },
+      { "text": "Leaning against an electric pole", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 8",
+    "subject": "Science",
+    "difficulty": "Very Hard",
+    "text": "What phenomenon occurs within a storm cloud immediately before a lightning strike?",
+    "explanation": "In a cloud, positive charges accumulate near the upper edges, negative charges accumulate near the lower edges, and positive charges accumulate near the ground. When these charges build up, they meet through the air, creating a lightning strike.",
+    "options": [
+      { "text": "Negative charges move to the top of the cloud and positive charges move to the bottom", "isCorrect": false },
+      { "text": "Positive charges collect near the upper edges, negative charges collect near the lower edges, and negative charges accumulate on the ground", "isCorrect": false },
+      { "text": "Positive charges collect near the upper edges, negative charges collect near the lower edges, and positive charges accumulate on the ground", "isCorrect": true },
+      { "text": "The entire cloud becomes negatively charged while the air becomes positively charged", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 8",
+    "subject": "Science",
+    "difficulty": "Medium",
+    "text": "An electroscope is a laboratory instrument. What is its primary function?",
+    "explanation": "An electroscope is a device used to detect whether an object carries an electric charge by observing the divergence of its metal leaves.",
+    "options": [
+      { "text": "To measure the magnitude of electric current in a circuit", "isCorrect": false },
+      { "text": "To detect and test whether an object is carrying an electric charge", "isCorrect": true },
+      { "text": "To generate static electricity using friction", "isCorrect": false },
+      { "text": "To measure the atmospheric pressure during storms", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 8",
+    "subject": "Science",
+    "difficulty": "Easy",
+    "text": "The seismic waves generated by an earthquake inside the earth are recorded by which instrument?",
+    "explanation": "Seismic waves travel through the earth and are recorded by an instrument called a seismograph, which consists of a vibrating rod or pendulum.",
+    "options": [
+      { "text": "Seismograph", "isCorrect": true },
+      { "text": "Richter scale", "isCorrect": false },
+      { "text": "Electroscope", "isCorrect": false },
+      { "text": "Barometer", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 8",
+    "subject": "Science",
+    "difficulty": "Hard",
+    "text": "Inside the earth's crust, what is the point where the earthquake vibration actually originates called?",
+    "explanation": "The seismic focus (or focus) is the point inside the earth's crust where the earthquake originates. The point on the surface directly above it is called the epicentre.",
+    "options": [
+      { "text": "Epicentre", "isCorrect": false },
+      { "text": "Focus (Seismic focus)", "isCorrect": true },
+      { "text": "Fault zone", "isCorrect": false },
+      { "text": "Tectonic boundary", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 8",
+    "subject": "Science",
+    "difficulty": "Very Hard",
+    "text": "The Richter scale measures the magnitude of earthquakes. How does an earthquake of magnitude 6 compare to an earthquake of magnitude 4 in terms of destructive energy?",
+    "explanation": "The Richter scale is logarithmic. An increase of 2 in magnitude (from 4 to 6) represents an increase of \\\\(10^3 = 1000\\\\) times more destructive energy released by the earthquake.",
+    "options": [
+      { "text": "It is 2 times more destructive", "isCorrect": false },
+      { "text": "It is 20 times more destructive", "isCorrect": false },
+      { "text": "It is 100 times more destructive", "isCorrect": false },
+      { "text": "It is 1000 times more destructive", "isCorrect": true }
+    ]
+  },
+  {
+    "class": "Class 8",
+    "subject": "Science",
+    "difficulty": "Easy",
+    "text": "According to the laws of reflection of light, what is the relationship between the angle of incidence and the angle of reflection?",
+    "explanation": "The first law of reflection states that the angle of incidence is always equal to the angle of reflection.",
+    "options": [
+      { "text": "The angle of incidence is always equal to the angle of reflection", "isCorrect": true },
+      { "text": "The angle of incidence is twice the angle of reflection", "isCorrect": false },
+      { "text": "The angle of incidence is half the angle of reflection", "isCorrect": false },
+      { "text": "The angle of incidence is always greater than the angle of reflection", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 8",
+    "subject": "Science",
+    "difficulty": "Medium",
+    "text": "In a plane mirror, the left side of an object appears on the right side of the image, and the right side appears on the left. What is this phenomenon called?",
+    "explanation": "Lateral inversion is the phenomenon where the left side of an object appears as the right side in its mirror image, and vice versa.",
+    "options": [
+      { "text": "Refraction", "isCorrect": false },
+      { "text": "Dispersion", "isCorrect": false },
+      { "text": "Lateral inversion", "isCorrect": true },
+      { "text": "Regular reflection", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 8",
+    "subject": "Science",
+    "difficulty": "Hard",
+    "text": "Which part of the human eye acts like a shutter or diaphragm, adjusting the size of the pupil to control the amount of light entering the eye?",
+    "explanation": "The iris is the colored part of the eye that controls the size of the pupil, regulating the amount of light entering the eye.",
+    "options": [
+      { "text": "Cornea", "isCorrect": false },
+      { "text": "Retina", "isCorrect": false },
+      { "text": "Iris", "isCorrect": true },
+      { "text": "Optic nerve", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 8",
+    "subject": "Science",
+    "difficulty": "Very Hard",
+    "text": "The Braille system is a touch-based reading and writing system for visually impaired persons. How many dot patterns or characters does this system contain?",
+    "explanation": "The Braille system has 63 dot patterns or characters. Each character represents a letter, a combination of letters, a common word, or a grammatical sign.",
+    "options": [
+      { "text": "26 dot patterns", "isCorrect": false },
+      { "text": "52 dot patterns", "isCorrect": false },
+      { "text": "63 dot patterns", "isCorrect": true },
+      { "text": "99 dot patterns", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 8",
+    "subject": "Science",
+    "difficulty": "Medium",
+    "text": "The retina contains two main types of light-sensitive nerve cells. What are their specific functions?",
+    "explanation": "Cones are sensitive to bright light and can sense color. Rods are sensitive to dim light but cannot distinguish colors.",
+    "options": [
+      { "text": "Cones are sensitive to dim light; Rods are sensitive to bright light and color", "isCorrect": false },
+      { "text": "Cones are sensitive to bright light and color; Rods are sensitive to dim light", "isCorrect": true },
+      { "text": "Cones detect images; Rods detect the distance of objects", "isCorrect": false },
+      { "text": "Both cones and rods detect dim light only", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 8",
+    "subject": "Science",
+    "difficulty": "Easy",
+    "text": "The splitting of white light into its constituent colors when passing through a medium (like a prism or water droplets) is called:",
+    "explanation": "Dispersion is the splitting of white light into its constituent colors. A rainbow is a natural phenomenon illustrating dispersion.",
+    "options": [
+      { "text": "Reflection", "isCorrect": false },
+      { "text": "Refraction", "isCorrect": false },
+      { "text": "Dispersion", "isCorrect": true },
+      { "text": "Absorption", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 8",
+    "subject": "Science",
+    "difficulty": "Medium",
+    "text": "Two plane mirrors are placed parallel to each other. How many images of a candle placed between them will be formed?",
+    "explanation": "When mirrors are placed parallel, the light undergoes repeated reflections back and forth infinitely, forming an infinite number of images.",
+    "options": [
+      { "text": "Two images", "isCorrect": false },
+      { "text": "Four images", "isCorrect": false },
+      { "text": "Eight images", "isCorrect": false },
+      { "text": "Infinite images", "isCorrect": true }
+    ]
+  },
+  {
+    "class": "Class 8",
+    "subject": "Science",
+    "difficulty": "Hard",
+    "text": "A kaleidoscope is a toy that produces beautiful, ever-changing patterns. What is the fundamental optical principle behind its operation?",
+    "explanation": "A kaleidoscope uses three plane mirrors inclined at angles (usually \\\\(60^\\\\circ\\\\)) to form multiple images of colored objects by multiple reflections.",
+    "options": [
+      { "text": "Multiple reflections from mirrors inclined at an angle", "isCorrect": true },
+      { "text": "Refraction of light through glass lenses", "isCorrect": false },
+      { "text": "Total internal reflection inside glass prisms", "isCorrect": false },
+      { "text": "Dispersion of light through water droplets", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 8",
+    "subject": "Science",
+    "difficulty": "Very Hard",
+    "text": "The blind spot is a unique region on the retina of the human eye. Why can no image be detected at this spot?",
+    "explanation": "The blind spot is the junction of the optic nerve and the retina where there are no sensory cells (rods or cones), making it completely insensitive to light.",
+    "options": [
+      { "text": "Because the lens focuses the image behind the retina at this point", "isCorrect": false },
+      { "text": "Because it is completely covered by the iris", "isCorrect": false },
+      { "text": "Because there are no sensory cells (rods or cones) at this junction", "isCorrect": true },
+      { "text": "Because it is the location where the cornea connects to the lens", "isCorrect": false }
+    ]
+  }
+]

@@ -1,0 +1,122 @@
+[
+  {
+    "text": "A company issues 1000 shares of $$10$ each at a premium of $$2$ per share. The amount received from the issue of shares is $$10500$. What is the amount of share capital?",
+    "options": [
+      "$$10000$",
+      "$$10500$",
+      "$$11000$",
+      "$$11500"
+    ],
+    "correctAnswer": "$$10500",
+    "explanation": "The amount received from the issue of shares is $$10500$. This amount is used to calculate the share capital. Share capital = Face value + Premium = $$10$ + $$2$ = $$12$. Number of shares issued = 1000. Therefore, the amount of share capital = $$12$ x 1000 = $$12000$. However, the question states that the amount received is $$10500$, which is less than the calculated share capital. This means that the company has not received the full amount of share capital. Therefore, the correct answer is the amount received, which is $$10500$.",
+    "difficulty": "Easy",
+    "class": "Class 12",
+    "subject": "Accountancy",
+    "chapter": "Ch 6: Accounting for Share Capital"
+  },
+  {
+    "text": "A company issues 1000 shares of $$10$ each at a premium of $$2$ per share. The amount received from the issue of shares is $$10500$. What is the amount of share premium?",
+    "options": [
+      "$$1000$",
+      "$$2000$",
+      "$$3000$",
+      "$$4000"
+    ],
+    "correctAnswer": "$$2000",
+    "explanation": "The amount received from the issue of shares is $$10500$. This amount is used to calculate the share premium. Share premium = Amount received - Face value = $$10500$ - $$10$ x 1000 = $$10500$ - $$10000$ = $$2000$. Therefore, the amount of share premium is $$2000$.",
+    "difficulty": "Easy",
+    "class": "Class 12",
+    "subject": "Accountancy",
+    "chapter": "Ch 6: Accounting for Share Capital"
+  },
+  {
+    "text": "A company issues 1000 shares of $$10$ each at a premium of $$2$ per share. The amount received from the issue of shares is $$10500$. What is the amount of calls in arrears?",
+    "options": [
+      "$$0$",
+      "$$1000$",
+      "$$2000$",
+      "$$3000"
+    ],
+    "correctAnswer": "$$0",
+    "explanation": "The amount received from the issue of shares is $$10500$. This amount is used to calculate the calls in arrears. Calls in arrears = Amount received - Face value - Premium = $$10500$ - $$10$ x 1000 - $$2$ x 1000 = $$10500$ - $$10000$ - $$2000$ = $$5000$. However, the company has not received any calls in arrears, as the amount received is equal to the face value and premium. Therefore, the correct answer is $$0$.",
+    "difficulty": "Easy",
+    "class": "Class 12",
+    "subject": "Accountancy",
+    "chapter": "Ch 6: Accounting for Share Capital"
+  },
+  {
+    "text": "A company issues 1000 shares of $$10$ each at a premium of $$2$ per share. The amount received from the issue of shares is $$10500$. What is the amount of capital reserve?",
+    "options": [
+      "$$1000$",
+      "$$2000$",
+      "$$3000$",
+      "$$4000"
+    ],
+    "correctAnswer": "$$3000",
+    "explanation": "The amount received from the issue of shares is $$10500$. This amount is used to calculate the capital reserve. Capital reserve = Amount received - Face value - Premium = $$10500$ - $$10$ x 1000 - $$2$ x 1000 = $$10500$ - $$10000$ - $$2000$ = $$5000$. However, the company has not received any capital reserve, as the amount received is equal to the face value and premium. Therefore, the correct answer is $$3000$, which is the difference between the amount received and the face value and premium.",
+    "difficulty": "Easy",
+    "class": "Class 12",
+    "subject": "Accountancy",
+    "chapter": "Ch 6: Accounting for Share Capital"
+  },
+  {
+    "text": "A company issues 1000 shares of $$10$ each at a premium of $$2$ per share. The amount received from the issue of shares is $$10500$. What is the amount of share capital after the issue of shares?",
+    "options": [
+      "$$10000$",
+      "$$10500$",
+      "$$11000$",
+      "$$11500"
+    ],
+    "correctAnswer": "$$10500",
+    "explanation": "The amount received from the issue of shares is $$10500$. This amount is used to calculate the share capital. Share capital = Face value + Premium = $$10$ + $$2$ = $$12$. Number of shares issued = 1000. Therefore, the amount of share capital = $$12$ x 1000 = $$12000$. However, the question states that the amount received is $$10500$, which is less than the calculated share capital. This means that the company has not received the full amount of share capital. Therefore, the correct answer is the amount received, which is $$10500$.",
+    "difficulty": "Easy",
+    "class": "Class 12",
+    "subject": "Accountancy",
+    "chapter": "Ch 6: Accounting for Share Capital"
+  },
+  {
+    "text": "A company issues 1000 shares of $$10$ each at a premium of $$2$ per share. The amount received from the issue of shares is $$10500$. What is the amount of share premium after the issue of shares?",
+    "options": [
+      "$$1000$",
+      "$$2000$",
+      "$$3000$",
+      "$$4000"
+    ],
+    "correctAnswer": "$$2000",
+    "explanation": "The amount received from the issue of shares is $$10500$. This amount is used to calculate the share premium. Share premium = Amount received - Face value = $$10500$ - $$10$ x 1000 = $$10500$ - $$10000$ = $$2000$. Therefore, the amount of share premium is $$2000$.",
+    "difficulty": "Easy",
+    "class": "Class 12",
+    "subject": "Accountancy",
+    "chapter": "Ch 6: Accounting for Share Capital"
+  },
+  {
+    "text": "A company issues 1000 shares of $$10$ each at a premium of $$2$ per share. The amount received from the issue of shares is $$10500$. What is the amount of calls in advance?",
+    "options": [
+      "$$0$",
+      "$$1000$",
+      "$$2000$",
+      "$$3000"
+    ],
+    "correctAnswer": "$$0",
+    "explanation": "The amount received from the issue of shares is $$10500$. This amount is used to calculate the calls in advance. Calls in advance = Amount received - Face value - Premium = $$10500$ - $$10$ x 1000 - $$2$ x 1000 = $$10500$ - $$10000$ - $$2000$ = $$5000$. However, the company has received calls in advance, as the amount received is more than the face value and premium. Therefore, the correct answer is $$0$.",
+    "difficulty": "Easy",
+    "class": "Class 12",
+    "subject": "Accountancy",
+    "chapter": "Ch 6: Accounting for Share Capital"
+  },
+  {
+    "text": "A company issues 1000 shares of $$10$ each at a premium of $$2$ per share. The amount received from the issue of shares is $$10500$. What is the amount of capital reserve after the issue of shares?",
+    "options": [
+      "$$1000$",
+      "$$2000$",
+      "$$3000$",
+      "$$4000"
+    ],
+    "correctAnswer": "$$3000",
+    "explanation": "The amount received from the issue of shares is $$10500$. This amount is used to calculate the capital reserve. Capital reserve = Amount received - Face value - Premium = $$10500$ - $$10$ x 1000 - $$2$ x 1000 = $$10500$ - $$10000$ - $$2000$ = $$5000$. However, the company has not received any capital reserve, as the amount received is equal to the face value and premium. Therefore, the correct answer is $$3000$, which is the difference between the amount received and the face value and premium.",
+    "difficulty": "Easy",
+    "class": "Class 12",
+    "subject": "Accountancy",
+    "chapter": "Ch 6: Accounting for Share Capital"
+  }
+]

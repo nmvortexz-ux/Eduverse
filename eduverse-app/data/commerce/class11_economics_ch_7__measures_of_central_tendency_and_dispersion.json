@@ -1,0 +1,167 @@
+[
+  {
+    "text": "The arithmetic mean of a series is calculated using the formula $\bar{X} = \frac{sum X}{N}$. Which of the following is a step involved in calculating the mean using the step-deviation method?",
+    "options": [
+      "Step 1: Find the mean of the given series",
+      "Step 2: Calculate the deviations from the mean",
+      "Step 3: Find the class intervals and their frequencies",
+      "Step 4: Calculate the step-deviation"
+    ],
+    "correctAnswer": "Step 2: Calculate the deviations from the mean",
+    "explanation": "To calculate the mean using the step-deviation method, we first need to find the deviations from the mean. This is done by subtracting the mean from each value in the series.",
+    "difficulty": "Easy",
+    "class": "Class 11",
+    "subject": "Economics",
+    "chapter": "Ch 7: Measures of Central Tendency and Dispersion"
+  },
+  {
+    "text": "The mode of a series is the value that appears most frequently. Which of the following is a characteristic of a series with multiple modes?",
+    "options": [
+      "The series has a unique mode",
+      "The series has multiple modes",
+      "The series has no mode",
+      "The series has a mean equal to the mode"
+    ],
+    "correctAnswer": "The series has multiple modes",
+    "explanation": "A series with multiple modes is one in which there are multiple values that appear with the same highest frequency.",
+    "difficulty": "Easy",
+    "class": "Class 11",
+    "subject": "Economics",
+    "chapter": "Ch 7: Measures of Central Tendency and Dispersion"
+  },
+  {
+    "text": "The range of a series is the difference between the highest and lowest values. Which of the following is a limitation of the range as a measure of dispersion?",
+    "options": [
+      "It is sensitive to extreme values",
+      "It is not sensitive to extreme values",
+      "It is easy to calculate",
+      "It is difficult to calculate"
+    ],
+    "correctAnswer": "It is not sensitive to extreme values",
+    "explanation": "The range is not sensitive to extreme values because it only considers the highest and lowest values in the series.",
+    "difficulty": "Medium",
+    "class": "Class 11",
+    "subject": "Economics",
+    "chapter": "Ch 7: Measures of Central Tendency and Dispersion"
+  },
+  {
+    "text": "The quartile deviation is a measure of dispersion that is calculated using the formula $QD = \frac{Q_3 - Q_1}{2}$. Which of the following is a characteristic of the quartile deviation?",
+    "options": [
+      "It is sensitive to extreme values",
+      "It is not sensitive to extreme values",
+      "It is easy to calculate",
+      "It is difficult to calculate"
+    ],
+    "correctAnswer": "It is not sensitive to extreme values",
+    "explanation": "The quartile deviation is not sensitive to extreme values because it only considers the interquartile range.",
+    "difficulty": "Medium",
+    "class": "Class 11",
+    "subject": "Economics",
+    "chapter": "Ch 7: Measures of Central Tendency and Dispersion"
+  },
+  {
+    "text": "The mean deviation is a measure of dispersion that is calculated using the formula $MD = \frac{sum |d_i|}{N}$. Which of the following is a characteristic of the mean deviation?",
+    "options": [
+      "It is sensitive to extreme values",
+      "It is not sensitive to extreme values",
+      "It is easy to calculate",
+      "It is difficult to calculate"
+    ],
+    "correctAnswer": "It is sensitive to extreme values",
+    "explanation": "The mean deviation is sensitive to extreme values because it considers the absolute deviations from the mean.",
+    "difficulty": "Medium",
+    "class": "Class 11",
+    "subject": "Economics",
+    "chapter": "Ch 7: Measures of Central Tendency and Dispersion"
+  },
+  {
+    "text": "The standard deviation is a measure of dispersion that is calculated using the formula $sigma = sqrt{\frac{sum d^2}{N}}$. Which of the following is a characteristic of the standard deviation?",
+    "options": [
+      "It is sensitive to extreme values",
+      "It is not sensitive to extreme values",
+      "It is easy to calculate",
+      "It is difficult to calculate"
+    ],
+    "correctAnswer": "It is not sensitive to extreme values",
+    "explanation": "The standard deviation is not sensitive to extreme values because it considers the squared deviations from the mean.",
+    "difficulty": "Hard",
+    "class": "Class 11",
+    "subject": "Economics",
+    "chapter": "Ch 7: Measures of Central Tendency and Dispersion"
+  },
+  {
+    "text": "The coefficient of variation is a measure of relative dispersion that is calculated using the formula $CV = \frac{sigma}{\bar{X}} \times 100$. Which of the following is a characteristic of the coefficient of variation?",
+    "options": [
+      "It is sensitive to extreme values",
+      "It is not sensitive to extreme values",
+      "It is easy to calculate",
+      "It is difficult to calculate"
+    ],
+    "correctAnswer": "It is not sensitive to extreme values",
+    "explanation": "The coefficient of variation is not sensitive to extreme values because it considers the standard deviation and the mean.",
+    "difficulty": "Hard",
+    "class": "Class 11",
+    "subject": "Economics",
+    "chapter": "Ch 7: Measures of Central Tendency and Dispersion"
+  },
+  {
+    "text": "The variance is a measure of dispersion that is calculated using the formula $sigma^2 = \frac{sum d^2}{N}$. Which of the following is a characteristic of the variance?",
+    "options": [
+      "It is sensitive to extreme values",
+      "It is not sensitive to extreme values",
+      "It is easy to calculate",
+      "It is difficult to calculate"
+    ],
+    "correctAnswer": "It is not sensitive to extreme values",
+    "explanation": "The variance is not sensitive to extreme values because it considers the squared deviations from the mean.",
+    "difficulty": "Hard",
+    "class": "Class 11",
+    "subject": "Economics",
+    "chapter": "Ch 7: Measures of Central Tendency and Dispersion"
+  },
+  {
+    "text": "The direct method of calculating the mean is given by the formula $\bar{X} = \frac{sum X}{N}$. Which of the following is a step involved in calculating the mean using the direct method?",
+    "options": [
+      "Step 1: Find the class intervals and their frequencies",
+      "Step 2: Calculate the deviations from the mean",
+      "Step 3: Find the mean of the given series",
+      "Step 4: Calculate the step-deviation"
+    ],
+    "correctAnswer": "Step 3: Find the mean of the given series",
+    "explanation": "To calculate the mean using the direct method, we first need to find the mean of the given series.",
+    "difficulty": "Easy",
+    "class": "Class 11",
+    "subject": "Economics",
+    "chapter": "Ch 7: Measures of Central Tendency and Dispersion"
+  },
+  {
+    "text": "The short-cut method of calculating the mean is given by the formula $\bar{X} = A + \frac{sum f_iu_i}{sum f_i} \times h$. Which of the following is a step involved in calculating the mean using the short-cut method?",
+    "options": [
+      "Step 1: Find the class intervals and their frequencies",
+      "Step 2: Calculate the deviations from the mean",
+      "Step 3: Find the mean of the given series",
+      "Step 4: Calculate the step-deviation"
+    ],
+    "correctAnswer": "Step 1: Find the class intervals and their frequencies",
+    "explanation": "To calculate the mean using the short-cut method, we first need to find the class intervals and their frequencies.",
+    "difficulty": "Easy",
+    "class": "Class 11",
+    "subject": "Economics",
+    "chapter": "Ch 7: Measures of Central Tendency and Dispersion"
+  },
+  {
+    "text": "The step-deviation method of calculating the mean is given by the formula $\bar{X} = A + c \times h$. Which of the following is a step involved in calculating the mean using the step-deviation method?",
+    "options": [
+      "Step 1: Find the class intervals and their frequencies",
+      "Step 2: Calculate the deviations from the mean",
+      "Step 3: Find the mean of the given series",
+      "Step 4: Calculate the step-deviation"
+    ],
+    "correctAnswer": "Step 4: Calculate the step-deviation",
+    "explanation": "To calculate the mean using the step-deviation method, we first need to calculate the step-deviation.",
+    "difficulty": "Easy",
+    "class": "Class 11",
+    "subject": "Economics",
+    "chapter": "Ch 7: Measures of Central Tendency and Dispersion"
+  }
+]

@@ -1,0 +1,167 @@
+[
+  {
+    "text": "What is the difference between ex-ante and ex-post investment?",
+    "options": [
+      "Ex-ante investment is the actual investment made by firms.",
+      "Ex-post investment is the actual investment made by firms.",
+      "Ex-ante investment is the planned investment by firms, whereas ex-post investment is the actual investment made by firms.",
+      "Ex-post investment is the planned investment by firms, whereas ex-ante investment is the actual investment made by firms."
+    ],
+    "correctAnswer": "Ex-ante investment is the planned investment by firms, whereas ex-post investment is the actual investment made by firms.",
+    "explanation": "Ex-ante investment refers to the planned investment by firms, whereas ex-post investment refers to the actual investment made by firms. This distinction is crucial in understanding the concept of investment in the context of income and employment.",
+    "difficulty": "Medium",
+    "class": "Class 12",
+    "subject": "Economics",
+    "chapter": "Ch 3: Determination of Income and Employment"
+  },
+  {
+    "text": "What is the difference between autonomous and induced investment?",
+    "options": [
+      "Autonomous investment is independent of the level of income, whereas induced investment is dependent on the level of income.",
+      "Autonomous investment is dependent on the level of income, whereas induced investment is independent of the level of income.",
+      "Autonomous investment is the investment that occurs even in the absence of income, whereas induced investment is the investment that occurs due to changes in income.",
+      "Autonomous investment is the investment that occurs due to changes in income, whereas induced investment is the investment that occurs even in the absence of income."
+    ],
+    "correctAnswer": "Autonomous investment is independent of the level of income, whereas induced investment is dependent on the level of income.",
+    "explanation": "Autonomous investment refers to the investment that occurs independently of the level of income, whereas induced investment refers to the investment that is dependent on the level of income. This distinction is crucial in understanding the concept of investment in the context of income and employment.",
+    "difficulty": "Medium",
+    "class": "Class 12",
+    "subject": "Economics",
+    "chapter": "Ch 3: Determination of Income and Employment"
+  },
+  {
+    "text": "What is the multiplier mechanism?",
+    "options": [
+      "The multiplier mechanism is a concept that explains how a change in autonomous investment affects the level of income.",
+      "The multiplier mechanism is a concept that explains how a change in induced investment affects the level of income.",
+      "The multiplier mechanism is a concept that explains how a change in autonomous investment affects the level of consumption.",
+      "The multiplier mechanism is a concept that explains how a change in induced investment affects the level of consumption."
+    ],
+    "correctAnswer": "The multiplier mechanism is a concept that explains how a change in autonomous investment affects the level of income.",
+    "explanation": "The multiplier mechanism is a concept that explains how a change in autonomous investment affects the level of income. It is a key concept in understanding the relationship between investment and income in the context of income and employment.",
+    "difficulty": "Medium",
+    "class": "Class 12",
+    "subject": "Economics",
+    "chapter": "Ch 3: Determination of Income and Employment"
+  },
+  {
+    "text": "What is the formula for the multiplier?",
+    "options": [
+      "$k = \frac{1}{1 - MPC}$",
+      "$k = \frac{1}{1 - MPS}$",
+      "$k = \frac{1}{MPC}$",
+      "$k = \frac{1}{MPS}$"
+    ],
+    "correctAnswer": "$k = \frac{1}{1 - MPC}$",
+    "explanation": "The formula for the multiplier is $k = \frac{1}{1 - MPC}$, where MPC is the marginal propensity to consume. This formula is used to calculate the multiplier effect of a change in autonomous investment on the level of income.",
+    "difficulty": "Hard",
+    "class": "Class 12",
+    "subject": "Economics",
+    "chapter": "Ch 3: Determination of Income and Employment"
+  },
+  {
+    "text": "What is the effect of a decrease in autonomous investment on the level of income?",
+    "options": [
+      "The level of income decreases.",
+      "The level of income increases.",
+      "The level of income remains unchanged.",
+      "The effect on the level of income is ambiguous."
+    ],
+    "correctAnswer": "The level of income decreases.",
+    "explanation": "A decrease in autonomous investment leads to a decrease in the level of income, as the multiplier effect reduces the level of income. This is a key concept in understanding the relationship between investment and income in the context of income and employment.",
+    "difficulty": "Medium",
+    "class": "Class 12",
+    "subject": "Economics",
+    "chapter": "Ch 3: Determination of Income and Employment"
+  },
+  {
+    "text": "What is the effect of a decrease in the marginal propensity to consume on the multiplier?",
+    "options": [
+      "The multiplier increases.",
+      "The multiplier decreases.",
+      "The multiplier remains unchanged.",
+      "The effect on the multiplier is ambiguous."
+    ],
+    "correctAnswer": "The multiplier increases.",
+    "explanation": "A decrease in the marginal propensity to consume leads to an increase in the multiplier, as the multiplier effect becomes more pronounced. This is a key concept in understanding the relationship between consumption and income in the context of income and employment.",
+    "difficulty": "Medium",
+    "class": "Class 12",
+    "subject": "Economics",
+    "chapter": "Ch 3: Determination of Income and Employment"
+  },
+  {
+    "text": "What is the effect of a decrease in the marginal propensity to save on the multiplier?",
+    "options": [
+      "The multiplier increases.",
+      "The multiplier decreases.",
+      "The multiplier remains unchanged.",
+      "The effect on the multiplier is ambiguous."
+    ],
+    "correctAnswer": "The multiplier decreases.",
+    "explanation": "A decrease in the marginal propensity to save leads to a decrease in the multiplier, as the multiplier effect becomes less pronounced. This is a key concept in understanding the relationship between saving and income in the context of income and employment.",
+    "difficulty": "Medium",
+    "class": "Class 12",
+    "subject": "Economics",
+    "chapter": "Ch 3: Determination of Income and Employment"
+  },
+  {
+    "text": "What is the effect of a decrease in government spending on the level of income?",
+    "options": [
+      "The level of income decreases.",
+      "The level of income increases.",
+      "The level of income remains unchanged.",
+      "The effect on the level of income is ambiguous."
+    ],
+    "correctAnswer": "The level of income decreases.",
+    "explanation": "A decrease in government spending leads to a decrease in the level of income, as the multiplier effect reduces the level of income. This is a key concept in understanding the relationship between government spending and income in the context of income and employment.",
+    "difficulty": "Medium",
+    "class": "Class 12",
+    "subject": "Economics",
+    "chapter": "Ch 3: Determination of Income and Employment"
+  },
+  {
+    "text": "What is the effect of a decrease in interest rates on the level of investment?",
+    "options": [
+      "The level of investment increases.",
+      "The level of investment decreases.",
+      "The level of investment remains unchanged.",
+      "The effect on the level of investment is ambiguous."
+    ],
+    "correctAnswer": "The level of investment increases.",
+    "explanation": "A decrease in interest rates leads to an increase in the level of investment, as the cost of borrowing decreases. This is a key concept in understanding the relationship between interest rates and investment in the context of income and employment.",
+    "difficulty": "Medium",
+    "class": "Class 12",
+    "subject": "Economics",
+    "chapter": "Ch 3: Determination of Income and Employment"
+  },
+  {
+    "text": "What is the effect of a decrease in the price level on the level of real GDP?",
+    "options": [
+      "The level of real GDP increases.",
+      "The level of real GDP decreases.",
+      "The level of real GDP remains unchanged.",
+      "The effect on the level of real GDP is ambiguous."
+    ],
+    "correctAnswer": "The level of real GDP increases.",
+    "explanation": "A decrease in the price level leads to an increase in the level of real GDP, as the purchasing power of consumers increases. This is a key concept in understanding the relationship between the price level and real GDP in the context of income and employment.",
+    "difficulty": "Medium",
+    "class": "Class 12",
+    "subject": "Economics",
+    "chapter": "Ch 3: Determination of Income and Employment"
+  },
+  {
+    "text": "What is the effect of a decrease in the price level on the level of employment?",
+    "options": [
+      "The level of employment increases.",
+      "The level of employment decreases.",
+      "The level of employment remains unchanged.",
+      "The effect on the level of employment is ambiguous."
+    ],
+    "correctAnswer": "The level of employment increases.",
+    "explanation": "A decrease in the price level leads to an increase in the level of employment, as the purchasing power of consumers increases. This is a key concept in understanding the relationship between the price level and employment in the context of income and employment.",
+    "difficulty": "Medium",
+    "class": "Class 12",
+    "subject": "Economics",
+    "chapter": "Ch 3: Determination of Income and Employment"
+  }
+]

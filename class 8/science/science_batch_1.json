@@ -1,0 +1,327 @@
+[
+  {
+    "class": "Class 8",
+    "subject": "Science",
+    "difficulty": "Easy",
+    "text": "Which of the following agricultural implements is primarily used for sowing seeds at uniform distances and depths?",
+    "explanation": "A seed drill is used for sowing seeds uniformly at proper distances and depths. It also ensures that seeds get covered by the soil after sowing, which prevents damage by birds.",
+    "options": [
+      { "text": "Hoe", "isCorrect": false },
+      { "text": "Seed drill", "isCorrect": true },
+      { "text": "Plough", "isCorrect": false },
+      { "text": "Cultivator", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 8",
+    "subject": "Science",
+    "difficulty": "Medium",
+    "text": "Rabi crops are sown in the winter season, whereas Kharif crops are sown in the rainy season. Which of the following groups contains only Rabi crops?",
+    "explanation": "Wheat, gram, and pea are Rabi crops grown in the winter season (generally from October to March). Paddy, maize, and soyabean are Kharif crops.",
+    "options": [
+      { "text": "Paddy and Maize", "isCorrect": false },
+      { "text": "Wheat, Gram, and Pea", "isCorrect": true },
+      { "text": "Soyabean and Groundnut", "isCorrect": false },
+      { "text": "Cotton and Paddy", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 8",
+    "subject": "Science",
+    "difficulty": "Hard",
+    "text": "Leguminous plants help in replenishing the soil with nitrogen through a symbiotic relationship. Which microorganism is responsible for this biological nitrogen fixation, and where is it located in the plant?",
+    "explanation": "Rhizobium bacteria live in the root nodules of leguminous plants, where they establish a symbiotic relationship to fix atmospheric nitrogen into a form usable by the plant.",
+    "options": [
+      { "text": "Rhizobium in the leaves", "isCorrect": false },
+      { "text": "Blue-green algae in the stems", "isCorrect": false },
+      { "text": "Rhizobium in the root nodules", "isCorrect": true },
+      { "text": "Azotobacter in the flowers", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 8",
+    "subject": "Science",
+    "difficulty": "Very Hard",
+    "text": "During water scarcity, modern methods of irrigation are preferred. A farmer wants to irrigate a fruit orchard with uneven land and sandy soil. Which irrigation system is most efficient for this setup to minimize water loss?",
+    "explanation": "The drip system is the best technique for watering fruit plants, gardens, and trees because it provides water drop by drop directly near the roots, preventing water runoff and evaporation losses in sandy or uneven soils.",
+    "options": [
+      { "text": "Sprinkler system", "isCorrect": false },
+      { "text": "Drip system", "isCorrect": true },
+      { "text": "Moat (pulley system)", "isCorrect": false },
+      { "text": "Chain pump system", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 8",
+    "subject": "Science",
+    "difficulty": "Medium",
+    "text": "Before sowing, seeds are often put in a container of water. What happens to the damaged seeds, and why?",
+    "explanation": "Damaged seeds become hollow inside because of pest damage or decay, which makes them lighter, and therefore they float on water.",
+    "options": [
+      { "text": "They sink because they are heavier.", "isCorrect": false },
+      { "text": "They float because they become hollow and lighter.", "isCorrect": true },
+      { "text": "They dissolve in water.", "isCorrect": false },
+      { "text": "They swell up and sink.", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 8",
+    "subject": "Science",
+    "difficulty": "Easy",
+    "text": "Yeast is widely used in the commercial production of bread and alcohol. Which process is carried out by yeast that results in the release of carbon dioxide and alcohol?",
+    "explanation": "Fermentation is the process of conversion of sugar into alcohol by yeast in the absence of oxygen, producing carbon dioxide as a by-product.",
+    "options": [
+      { "text": "Photosynthesis", "isCorrect": false },
+      { "text": "Nitrogen fixation", "isCorrect": false },
+      { "text": "Fermentation", "isCorrect": true },
+      { "text": "Pasteurisation", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 8",
+    "subject": "Science",
+    "difficulty": "Medium",
+    "text": "Milk is pasteurized to make it safe for consumption without boiling. Which of the following describes the correct parameters for pasteurization?",
+    "explanation": "Pasteurization involves heating milk to about \\\\(70^\\\\circ\\\\text{C}\\\\) for 15 to 30 seconds to kill harmful microbes, and then suddenly chilling and storing it to prevent growth of remaining microbes.",
+    "options": [
+      { "text": "Heated to about \\\\(100^\\\\circ\\\\text{C}\\\\) for 2 hours and cooled.", "isCorrect": false },
+      { "text": "Heated to about \\\\(70^\\\\circ\\\\text{C}\\\\) for 15 to 30 seconds and then suddenly chilled.", "isCorrect": true },
+      { "text": "Heated to about \\\\(50^\\\\circ\\\\text{C}\\\\) for 10 minutes and slowly cooled.", "isCorrect": false },
+      { "text": "Frozen at \\\\(-20^\\\\circ\\\\text{C}\\\\) for 24 hours.", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 8",
+    "subject": "Science",
+    "difficulty": "Hard",
+    "text": "Vaccines contain dead or weakened microbes that are introduced into a healthy body to prevent diseases. How does a vaccine protect the body from future infections?",
+    "explanation": "When a vaccine is introduced, the body fights and kills the weakened microbes by producing suitable antibodies. These antibodies remain in the body and protect it from future attacks by the same pathogen.",
+    "options": [
+      { "text": "It directly kills the pathogen using chemical agents.", "isCorrect": false },
+      { "text": "It stimulates the body to produce antibodies that remain in the body to fight the pathogen.", "isCorrect": true },
+      { "text": "It temporarily increases the body temperature to destroy the pathogen.", "isCorrect": false },
+      { "text": "It coats the organs with a protective layer.", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 8",
+    "subject": "Science",
+    "difficulty": "Very Hard",
+    "text": "Several human diseases are caused by microorganisms and transmitted through various vectors. Identify the correct carrier-microbe-disease pairing.",
+    "explanation": "Female Aedes mosquito acts as a carrier (vector) for the Dengue virus. Malaria is caused by a protozoan (Plasmodium) and is carried by the Female Anopheles mosquito.",
+    "options": [
+      { "text": "Female Aedes mosquito \u2014 Virus \u2014 Dengue", "isCorrect": true },
+      { "text": "Female Anopheles mosquito \u2014 Bacteria \u2014 Malaria", "isCorrect": false },
+      { "text": "Housefly \u2014 Fungi \u2014 Cholera", "isCorrect": false },
+      { "text": "Female Aedes mosquito \u2014 Protozoan \u2014 Malaria", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 8",
+    "subject": "Science",
+    "difficulty": "Easy",
+    "text": "Antibiotics are medicines that kill or stop the growth of disease-causing microorganisms. Which was the first antibiotic discovered, and who discovered it?",
+    "explanation": "Penicillin was the first antibiotic discovered by Alexander Fleming in 1929 from a mold called Penicillium notatum.",
+    "options": [
+      { "text": "Streptomycin by Selman Waksman", "isCorrect": false },
+      { "text": "Penicillin by Alexander Fleming", "isCorrect": true },
+      { "text": "Tetracycline by Edward Jenner", "isCorrect": false },
+      { "text": "Erythromycin by Louis Pasteur", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 8",
+    "subject": "Science",
+    "difficulty": "Easy",
+    "text": "Natural resources can be classified into exhaustible and inexhaustible resources. Which of the following is an example of an inexhaustible natural resource?",
+    "explanation": "Inexhaustible natural resources are present in unlimited quantity in nature and are not likely to be exhausted by human activities, such as sunlight and air.",
+    "options": [
+      { "text": "Coal", "isCorrect": false },
+      { "text": "Petroleum", "isCorrect": false },
+      { "text": "Sunlight", "isCorrect": true },
+      { "text": "Forest", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 8",
+    "subject": "Science",
+    "difficulty": "Medium",
+    "text": "Coal is processed in industries to obtain some useful products. Which of these is a tough, porous, and black substance that is an almost pure form of carbon?",
+    "explanation": "Coke is a tough, porous, and black substance which is an almost pure form of carbon, used in the manufacture of steel and in the extraction of many metals.",
+    "options": [
+      { "text": "Coal tar", "isCorrect": false },
+      { "text": "Coal gas", "isCorrect": false },
+      { "text": "Coke", "isCorrect": true },
+      { "text": "Bitumen", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 8",
+    "subject": "Science",
+    "difficulty": "Hard",
+    "text": "Coal tar is a black, thick liquid with an unpleasant smell. It is used as a starting material for manufacturing synthetic dyes, drugs, and explosives. Which petroleum product has replaced coal tar for surfacing roads?",
+    "explanation": "Bitumen, a petroleum product, is now used in place of coal tar for surfacing roads.",
+    "options": [
+      { "text": "Bitumen", "isCorrect": true },
+      { "text": "Paraffin wax", "isCorrect": false },
+      { "text": "Kerosene", "isCorrect": false },
+      { "text": "Petrol", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 8",
+    "subject": "Science",
+    "difficulty": "Very Hard",
+    "text": "Petroleum is a dark, oily liquid with an unpleasant odor. It is a mixture of various constituents. Match the petroleum constituent with its correct application:",
+    "explanation": "Kerosene is used as a fuel for stoves, lamps, and jet aircraft. Paraffin wax is used for ointments, candles, and vaseline, while bitumen is used for paints and road surfacing.",
+    "options": [
+      { "text": "Paraffin wax \u2014 Solvent for dry cleaning", "isCorrect": false },
+      { "text": "Bitumen \u2014 Fuel for heavy motor vehicles", "isCorrect": false },
+      { "text": "Lubricating oil \u2014 Ointments and candles", "isCorrect": false },
+      { "text": "Kerosene \u2014 Fuel for stoves, lamps, and jet aircraft", "isCorrect": true }
+    ]
+  },
+  {
+    "class": "Class 8",
+    "subject": "Science",
+    "difficulty": "Very Hard",
+    "text": "Fossil fuels are formed from the dead remains of living organisms over millions of years. Which set of conditions is necessary for the conversion of dead vegetation into coal?",
+    "explanation": "Under high pressure and high temperature, and in the absence of air, dead plants slowly get converted into coal. This slow process is called carbonisation.",
+    "options": [
+      { "text": "Low pressure and low temperature in the presence of air", "isCorrect": false },
+      { "text": "High pressure and high temperature in the absence of air", "isCorrect": true },
+      { "text": "High pressure and low temperature in the presence of oxygen", "isCorrect": false },
+      { "text": "Low pressure and high temperature in the absence of oxygen", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 8",
+    "subject": "Science",
+    "difficulty": "Easy",
+    "text": "What are the three essential requirements required for producing and sustaining fire?",
+    "explanation": "The three essential requirements to produce fire are fuel, air (to supply oxygen), and heat (to raise the temperature of the fuel beyond its ignition temperature).",
+    "options": [
+      { "text": "Fuel, Nitrogen, and Heat", "isCorrect": false },
+      { "text": "Fuel, Oxygen (Air), and Heat", "isCorrect": true },
+      { "text": "Carbon dioxide, Water, and Fuel", "isCorrect": false },
+      { "text": "Heat, Oxygen, and Carbon dioxide", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 8",
+    "subject": "Science",
+    "difficulty": "Hard",
+    "text": "Water is commonly used to extinguish fires. However, why is water NOT suitable for extinguishing fires involving electrical equipment or oil?",
+    "explanation": "Water conducts electricity and can cause electrocution to those fighting the fire. Also, water is heavier than oil, so it sinks below the oil, allowing the oil to keep burning on top and spread.",
+    "options": [
+      { "text": "Water reacts with electrical wires to produce toxic chlorine gas.", "isCorrect": false },
+      { "text": "Water conducts electricity, risking electrocution, and is heavier than oil, causing oil to float and spread the fire.", "isCorrect": true },
+      { "text": "Water increases the oxygen supply to electrical and oil fires.", "isCorrect": false },
+      { "text": "Water lowers the ignition temperature of the oil, causing it to burn faster.", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 8",
+    "subject": "Science",
+    "difficulty": "Hard",
+    "text": "A candle flame consists of three different zones. Which zone of the candle flame represents the region of complete combustion, and what is its characteristic color?",
+    "explanation": "The outermost zone of a flame undergoes complete combustion because of a sufficient supply of oxygen, which makes it the hottest zone, characterized by a blue color.",
+    "options": [
+      { "text": "Middle zone, Yellow", "isCorrect": false },
+      { "text": "Innermost zone, Black", "isCorrect": false },
+      { "text": "Outermost zone, Blue", "isCorrect": true },
+      { "text": "Outermost zone, Yellow", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 8",
+    "subject": "Science",
+    "difficulty": "Very Hard",
+    "text": "The calorific value of a fuel is the amount of heat energy produced on complete combustion of \\\\(1 \\\\text{ kg}\\\\) of it. If a fuel has a calorific value of \\\\(40000 \\\\text{ kJ/kg}\\\\), how much heat energy is produced by the complete combustion of \\\\(1.5 \\\\text{ kg}\\\\) of this fuel?",
+    "explanation": "The heat energy produced is calculated as: \\\\(\\\\text{Heat Energy} = \\\\text{Mass} \\\\times \\\\text{Calorific Value} = 1.5 \\\\text{ kg} \\\\times 40000 \\\\text{ kJ/kg} = 60000 \\\\text{ kJ}\\\\).",
+    "options": [
+      { "text": "\\\\(26667 \\\\text{ kJ}\\\\)", "isCorrect": false },
+      { "text": "\\\\(40000 \\\\text{ kJ}\\\\)", "isCorrect": false },
+      { "text": "\\\\(60000 \\\\text{ kJ}\\\\)", "isCorrect": true },
+      { "text": "\\\\(80000 \\\\text{ kJ}\\\\)", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 8",
+    "subject": "Science",
+    "difficulty": "Medium",
+    "text": "Acid rain is harmful for crops, buildings, and soil. Which gases, released during the combustion of coal and diesel, dissolve in rainwater to form acid rain?",
+    "explanation": "Combustion of coal and diesel releases sulphur dioxide (\\\\(\\\\text{SO}_2\\\\)) and nitrogen oxides (\\\\(\\\\text{NO}_x\\\\)), which dissolve in rainwater to form sulphuric acid and nitric acid, leading to acid rain.",
+    "options": [
+      { "text": "Carbon dioxide and Carbon monoxide", "isCorrect": false },
+      { "text": "Sulphur dioxide and Nitrogen oxides", "isCorrect": true },
+      { "text": "Oxygen and Nitrogen", "isCorrect": false },
+      { "text": "Methane and Carbon dioxide", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 8",
+    "subject": "Science",
+    "difficulty": "Easy",
+    "text": "Deforestation has severe impacts on the environment. How does cutting down trees lead to global warming?",
+    "explanation": "Plants use carbon dioxide (\\\\(\\\\text{CO}_2\\\\)) for photosynthesis. Fewer trees mean less carbon dioxide is consumed, leading to its increased concentration in the atmosphere, which traps heat and causes global warming.",
+    "options": [
+      { "text": "It decreases the level of oxygen, causing the atmosphere to retain less heat.", "isCorrect": false },
+      { "text": "It increases the level of carbon dioxide (\\\\(\\\\text{CO}_2\\\\)) in the atmosphere, which traps heat rays reflected by the earth.", "isCorrect": true },
+      { "text": "It decreases the amount of water vapor in the atmosphere, leading to higher temperatures.", "isCorrect": false },
+      { "text": "It exposes the soil to direct sunlight, which reflects more heat.", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 8",
+    "subject": "Science",
+    "difficulty": "Medium",
+    "text": "In a biosphere reserve, what is the term used to describe the species of plants and animals that are found exclusively in a particular geographic area?",
+    "explanation": "Endemic species are those species of plants and animals which are found exclusively in a particular area, and are not naturally found anywhere else.",
+    "options": [
+      { "text": "Exotic species", "isCorrect": false },
+      { "text": "Endemic species", "isCorrect": true },
+      { "text": "Migratory species", "isCorrect": false },
+      { "text": "Extinct species", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 8",
+    "subject": "Science",
+    "difficulty": "Hard",
+    "text": "The Red Data Book is a source book maintained internationally. What is the primary purpose of this book?",
+    "explanation": "The Red Data Book is the source book which keeps a record of all endangered animals and plants. Different Red Data Books are maintained for plants, animals, and other species.",
+    "options": [
+      { "text": "To list all the newly discovered species of plants and animals.", "isCorrect": false },
+      { "text": "To keep a record of all endangered plants and animals.", "isCorrect": true },
+      { "text": "To document all extinct species of the last century.", "isCorrect": false },
+      { "text": "To identify areas suitable for reforestation.", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 8",
+    "subject": "Science",
+    "difficulty": "Very Hard",
+    "text": "The Forest Conservation Act of India has a primary objective. What is this objective?",
+    "explanation": "The Forest Conservation Act of India aims at the preservation and conservation of natural forests and meeting the basic needs of the people living in or near the forests.",
+    "options": [
+      { "text": "To encourage commercial timber logging", "isCorrect": false },
+      { "text": "To preserve and conserve natural forests and meet the basic needs of people living in or near them", "isCorrect": true },
+      { "text": "To convert forest lands into agricultural crop fields", "isCorrect": false },
+      { "text": "To control the migration of wildlife across states", "isCorrect": false }
+    ]
+  },
+  {
+    "class": "Class 8",
+    "subject": "Science",
+    "difficulty": "Medium",
+    "text": "What is the process of restoring a destroyed forest by planting new trees, which are generally of the same species as found in that forest, called?",
+    "explanation": "Reforestation is the restocking of destroyed forests by planting new trees. The planted trees should generally be of the same species which were found in that forest.",
+    "options": [
+      { "text": "Deforestation", "isCorrect": false },
+      { "text": "Reforestation", "isCorrect": true },
+      { "text": "Afforestation", "isCorrect": false },
+      { "text": "Silviculture", "isCorrect": false }
+    ]
+  }
+]
