@@ -373,3 +373,16 @@ button[class*="cl-userButtonPopoverActionButton"] {
 /* ─── Utility overrides ────────────────────── */
 a { text-decoration: none; color: inherit; }
 button { cursor: pointer; }
+
+/* ─── Clerk modal z-index fix ───────────────── */
+/* Ensures Clerk sign-in/sign-up modal renders above sticky navbar and all overlays */
+.cl-modalBackdrop,
+[data-clerk-modal-backdrop] {
+  z-index: 9998 !important;
+}
+.cl-modal,
+.cl-card,
+[data-clerk-card] {
+  z-index: 9999 !important;
+}
+

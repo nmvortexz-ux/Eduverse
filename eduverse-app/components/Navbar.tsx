@@ -3,7 +3,7 @@
 import { useState } from 'react';
 import Link from 'next/link';
 import { usePathname } from 'next/navigation';
-import { SignInButton, UserButton, useUser } from '@clerk/nextjs';
+import { SignInButton, SignUpButton, UserButton, useUser } from '@clerk/nextjs';
 import { dark } from '@clerk/themes';
 
 function EduVerseLogo() {
@@ -83,15 +83,26 @@ export default function Navbar() {
         {/* Right: Auth Controls */}
         <div className="flex items-center gap-3">
           {!isSignedIn && (
-            <SignInButton mode="modal">
-              <button
-                id="navbar-sign-in"
-                className="btn-pill btn-teal text-xs font-black py-2 px-5 transition-all hover:-translate-y-0.5"
-                style={{ boxShadow: '2px 2px 0px 0px #FFFFFF', borderColor: '#FFFFFF' }}
-              >
-                Sign In
-              </button>
-            </SignInButton>
+            <div className="flex items-center gap-2">
+              <SignInButton mode="modal" fallbackRedirectUrl="/dashboard">
+                <button
+                  id="navbar-sign-in"
+                  className="btn-pill btn-teal text-xs font-black py-2 px-5 transition-all hover:-translate-y-0.5"
+                  style={{ boxShadow: '2px 2px 0px 0px #FFFFFF', borderColor: '#FFFFFF', cursor: 'pointer', position: 'relative', zIndex: 50 }}
+                >
+                  Sign In
+                </button>
+              </SignInButton>
+              <SignUpButton mode="modal" fallbackRedirectUrl="/dashboard">
+                <button
+                  id="navbar-sign-up"
+                  className="btn-pill text-xs font-black py-2 px-5 transition-all hover:-translate-y-0.5"
+                  style={{ background: '#1E293B', color: '#F8FAFC', boxShadow: '2px 2px 0px 0px #FFFFFF', borderColor: '#FFFFFF', border: '2px solid #FFFFFF', cursor: 'pointer', position: 'relative', zIndex: 50 }}
+                >
+                  Sign Up
+                </button>
+              </SignUpButton>
+            </div>
           )}
 
           {isSignedIn && (
