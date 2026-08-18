@@ -42,11 +42,18 @@ export async function GET() {
     let subjectPerformance = [];
     let recentAttempts = [];
 
-    const { userId } = await auth();
+    let userId = null;
+    try {
+      const authResult = await auth();
+      userId = authResult?.userId || null;
+      if (userId) {
+        await syncUser();
+      }
+    } catch {
+      // Unauthenticated visitor or Clerk edge handshake fallback
+    }
 
     if (userId) {
-      // Ensure user is synced to DB
-      await syncUser();
 
       // Get user's quiz attempts
       const attempts = await prisma.quizAttempt.findMany({
