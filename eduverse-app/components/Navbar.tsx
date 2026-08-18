@@ -3,7 +3,7 @@
 import { useState } from 'react';
 import Link from 'next/link';
 import { usePathname } from 'next/navigation';
-import { SignInButton, SignUpButton, UserButton, useUser } from '@clerk/nextjs';
+import { UserButton, useUser } from '@clerk/nextjs';
 import { dark } from '@clerk/themes';
 
 function EduVerseLogo() {
@@ -41,7 +41,7 @@ function EduVerseLogo() {
 
 export default function Navbar() {
   const pathname = usePathname();
-  const { user, isSignedIn } = useUser();
+  const { user, isSignedIn, isLoaded } = useUser();
   const [mobileMenuOpen, setMobileMenuOpen] = useState(false);
 
   const navItems = [
@@ -82,30 +82,9 @@ export default function Navbar() {
 
         {/* Right: Auth Controls */}
         <div className="flex items-center gap-3">
-          {!isSignedIn && (
-            <div className="flex items-center gap-2">
-              <SignInButton mode="modal" fallbackRedirectUrl="/dashboard">
-                <button
-                  id="navbar-sign-in"
-                  className="btn-pill btn-teal text-xs font-black py-2 px-5 transition-all hover:-translate-y-0.5"
-                  style={{ boxShadow: '2px 2px 0px 0px #FFFFFF', borderColor: '#FFFFFF', cursor: 'pointer', position: 'relative', zIndex: 50 }}
-                >
-                  Sign In
-                </button>
-              </SignInButton>
-              <SignUpButton mode="modal" fallbackRedirectUrl="/dashboard">
-                <button
-                  id="navbar-sign-up"
-                  className="btn-pill text-xs font-black py-2 px-5 transition-all hover:-translate-y-0.5"
-                  style={{ background: '#1E293B', color: '#F8FAFC', boxShadow: '2px 2px 0px 0px #FFFFFF', borderColor: '#FFFFFF', border: '2px solid #FFFFFF', cursor: 'pointer', position: 'relative', zIndex: 50 }}
-                >
-                  Sign Up
-                </button>
-              </SignUpButton>
-            </div>
-          )}
-
-          {isSignedIn && (
+          {!isLoaded ? (
+            <div className="w-20 h-8 rounded-full bg-slate-800 animate-pulse border border-slate-700" />
+          ) : isSignedIn ? (
             <div className="flex items-center gap-2 pl-3 pr-1.5 py-1 rounded-2xl bg-slate-900 border-2 border-slate-700 shadow-[2px_2px_0px_0px_#FFFFFF] hover:border-teal-400 transition-all">
               <span className="text-xs font-bold text-slate-200 tracking-wide hidden sm:inline select-none">
                 {displayName}
@@ -140,12 +119,25 @@ export default function Navbar() {
                 />
               </div>
             </div>
+          ) : (
+            <Link
+              href="/sign-in"
+              id="navbar-sign-in"
+              className="btn-pill btn-teal text-xs font-black py-2 px-5 transition-all hover:-translate-y-0.5 inline-flex items-center justify-center cursor-pointer"
+              style={{
+                boxShadow: '2px 2px 0px 0px #FFFFFF',
+                borderColor: '#FFFFFF',
+                border: '2px solid #FFFFFF',
+              }}
+            >
+              Sign In
+            </Link>
           )}
 
           {/* Mobile Hamburger Button */}
           <button
             onClick={() => setMobileMenuOpen(!mobileMenuOpen)}
-            className="md:hidden p-2 rounded-xl bg-slate-900 border-2 border-slate-700 text-slate-300 hover:text-white hover:border-white transition-all"
+            className="md:hidden p-2 rounded-xl bg-slate-900 border-2 border-slate-700 text-slate-300 hover:text-white hover:border-white transition-all cursor-pointer"
             aria-label="Toggle navigation menu"
           >
             <span className="text-base">{mobileMenuOpen ? '✕' : '☰'}</span>
