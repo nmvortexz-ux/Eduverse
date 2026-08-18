@@ -3,7 +3,7 @@
 import { useState } from 'react';
 import Link from 'next/link';
 import { usePathname } from 'next/navigation';
-import { SignInButton, UserButton, Show, useUser } from '@clerk/nextjs';
+import { SignInButton, UserButton, useUser } from '@clerk/nextjs';
 import { dark } from '@clerk/themes';
 
 function EduVerseLogo() {
@@ -41,7 +41,7 @@ function EduVerseLogo() {
 
 export default function Navbar() {
   const pathname = usePathname();
-  const { user } = useUser();
+  const { user, isSignedIn } = useUser();
   const [mobileMenuOpen, setMobileMenuOpen] = useState(false);
 
   const navItems = [
@@ -82,7 +82,7 @@ export default function Navbar() {
 
         {/* Right: Auth Controls */}
         <div className="flex items-center gap-3">
-          <Show when="signed-out">
+          {!isSignedIn && (
             <SignInButton mode="modal">
               <button
                 id="navbar-sign-in"
@@ -92,9 +92,9 @@ export default function Navbar() {
                 Sign In
               </button>
             </SignInButton>
-          </Show>
+          )}
 
-          <Show when="signed-in">
+          {isSignedIn && (
             <div className="flex items-center gap-2 pl-3 pr-1.5 py-1 rounded-2xl bg-slate-900 border-2 border-slate-700 shadow-[2px_2px_0px_0px_#FFFFFF] hover:border-teal-400 transition-all">
               <span className="text-xs font-bold text-slate-200 tracking-wide hidden sm:inline select-none">
                 {displayName}
@@ -129,7 +129,7 @@ export default function Navbar() {
                 />
               </div>
             </div>
-          </Show>
+          )}
 
           {/* Mobile Hamburger Button */}
           <button
