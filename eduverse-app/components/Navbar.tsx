@@ -4,7 +4,6 @@ import { useState } from 'react';
 import Link from 'next/link';
 import { usePathname } from 'next/navigation';
 import { UserButton, useUser } from '@clerk/nextjs';
-import { dark } from '@clerk/themes';
 
 function EduVerseLogo() {
   return (
@@ -41,7 +40,7 @@ function EduVerseLogo() {
 
 export default function Navbar() {
   const pathname = usePathname();
-  const { user, isSignedIn, isLoaded } = useUser();
+  const { user, isSignedIn } = useUser();
   const [mobileMenuOpen, setMobileMenuOpen] = useState(false);
 
   const navItems = [
@@ -82,48 +81,20 @@ export default function Navbar() {
 
         {/* Right: Auth Controls */}
         <div className="flex items-center gap-3">
-          {!isLoaded ? (
-            <div className="w-20 h-8 rounded-full bg-slate-800 animate-pulse border border-slate-700" />
-          ) : isSignedIn ? (
+          {isSignedIn ? (
             <div className="flex items-center gap-2 pl-3 pr-1.5 py-1 rounded-2xl bg-slate-900 border-2 border-slate-700 shadow-[2px_2px_0px_0px_#FFFFFF] hover:border-teal-400 transition-all">
               <span className="text-xs font-bold text-slate-200 tracking-wide hidden sm:inline select-none">
                 {displayName}
               </span>
               <div className="flex items-center">
-                <UserButton
-                  appearance={{
-                    baseTheme: dark,
-                    variables: {
-                      colorPrimary: '#0D9488',
-                      colorBackground: '#0F172A',
-                      colorText: '#FFFFFF',
-                      colorTextSecondary: '#CBD5E1',
-                      colorInputBackground: '#020617',
-                      colorInputText: '#FFFFFF',
-                    } as any,
-                    elements: {
-                      userButtonTrigger: 'focus:shadow-none focus:outline-none',
-                      avatarBox:
-                        'w-8 h-8 rounded-xl border-2 border-white shadow-[1.5px_1.5px_0_#14B8A6] hover:scale-105 transition-transform overflow-hidden',
-                      userButtonPopoverCard:
-                        'bg-slate-900 border-2 border-slate-600 shadow-[6px_6px_0px_0px_rgba(255,255,255,0.2)] rounded-2xl p-2',
-                      userPreviewMainIdentifier: '!text-white font-black text-base',
-                      userPreviewSecondaryIdentifier: '!text-slate-300 text-sm font-medium',
-                      userButtonPopoverActionButton:
-                        'hover:!bg-slate-800 transition-colors p-2.5 rounded-xl mx-1 my-0.5 flex items-center gap-3',
-                      userButtonPopoverActionButtonText: '!text-white font-bold text-sm',
-                      userButtonPopoverActionButtonIcon: '!text-teal-400 w-4 h-4',
-                      userButtonPopoverFooter: 'bg-slate-950/90 border-t border-slate-800 mt-2 p-2 rounded-b-xl',
-                    },
-                  } as any}
-                />
+                <UserButton />
               </div>
             </div>
           ) : (
             <Link
               href="/sign-in"
               id="navbar-sign-in"
-              className="btn-pill btn-teal text-xs font-black py-2 px-5 transition-all hover:-translate-y-0.5 inline-flex items-center justify-center cursor-pointer"
+              className="btn-pill btn-teal text-xs font-black py-2 px-5 transition-all hover:-translate-y-0.5 inline-flex items-center justify-center cursor-pointer select-none"
               style={{
                 boxShadow: '2px 2px 0px 0px #FFFFFF',
                 borderColor: '#FFFFFF',
