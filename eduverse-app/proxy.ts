@@ -21,8 +21,12 @@ const publishableKey =
 
 export default clerkMiddleware(
   async (auth, req) => {
-    if (!isPublicRoute(req)) {
-      await auth.protect();
+    try {
+      if (!isPublicRoute(req)) {
+        await auth.protect();
+      }
+    } catch (err) {
+      console.error("Clerk Middleware Error:", err);
     }
   },
   {
