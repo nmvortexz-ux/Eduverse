@@ -15,6 +15,10 @@ const isPublicRoute = createRouteMatcher([
   "/api/(.*)",
 ]);
 
+const publishableKey =
+  process.env.NEXT_PUBLIC_CLERK_PUBLISHABLE_KEY ||
+  "pk_live_Y2xlcmsuZWR1c3RkLm1lJA";
+
 export default clerkMiddleware(
   async (auth, req) => {
     if (!isPublicRoute(req)) {
@@ -22,7 +26,7 @@ export default clerkMiddleware(
     }
   },
   {
-    publishableKey: process.env.NEXT_PUBLIC_CLERK_PUBLISHABLE_KEY,
+    publishableKey,
     secretKey: process.env.CLERK_SECRET_KEY,
   }
 );
