@@ -36,9 +36,18 @@ export default async function middleware(req: NextRequest, evt: any) {
   try {
     return await clerkHandler(req, evt);
   } catch (error) {
-    // Fail-open for public routes to prevent 500 crashes
+    // Security: Fail-OPEN only for explicitly public routes.
+    // Private routes fail-CLOSED with redirect to sign-in.
     console.error("Clerk Edge Middleware Handled Exception:", error);
-    return NextResponse.next();
+
+    if (isPublicRoute(req)) {
+      return NextResponse.next();
+    }
+
+    // Private route: redirect to sign-in
+    const signInUrl = new URL('/sign-in', req.url);
+    signInUrl.searchParams.set('redirect_url', req.url);
+    return NextResponse.redirect(signInUrl);
   }
 }
 

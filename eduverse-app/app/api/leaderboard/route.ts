@@ -63,11 +63,22 @@ export async function GET(request: Request) {
     }
 
     // 4. Fetch users with their filtered quiz attempts from database
+    // Security: select only required fields, email is deliberately excluded
     const users = (await prisma.user.findMany({
-      include: {
+      select: {
+        id: true,
+        name: true,
+        imageUrl: true,
         quizAttempts: {
           where: whereAttempt,
           orderBy: { completedAt: 'desc' },
+          select: {
+            correctAnswers: true,
+            totalQuestions: true,
+            score: true,
+            class: true,
+            completedAt: true,
+          },
         },
       },
     })) as UserWithAttempts[];

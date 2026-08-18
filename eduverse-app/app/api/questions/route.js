@@ -33,11 +33,15 @@ export async function GET(request) {
       }
     };
 
+    const MAX_QUESTIONS_PER_REQUEST = 200;
     if (limit) {
       const parsedLimit = parseInt(limit, 10);
       if (!isNaN(parsedLimit) && parsedLimit > 0) {
-        queryOptions.take = parsedLimit;
+        queryOptions.take = Math.min(parsedLimit, MAX_QUESTIONS_PER_REQUEST);
       }
+    } else {
+      // Default cap even when no limit is provided
+      queryOptions.take = MAX_QUESTIONS_PER_REQUEST;
     }
 
     const questions = await prisma.question.findMany(queryOptions);
