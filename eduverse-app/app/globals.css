@@ -458,6 +458,7 @@ button { cursor: pointer; }
   flex-direction: column !important;
   align-items: center !important;
   justify-content: center !important;
+  position: relative !important;
 }
 
 .cl-otpCodeFieldInputs,
@@ -469,8 +470,28 @@ button { cursor: pointer; }
   gap: 0.5rem !important;
   width: 100% !important;
   max-width: 320px !important;
+  position: relative !important;
 }
 
+/* Master overlay input: MUST cover the slots and capture all clicks & keystrokes */
+.cl-otpCodeFieldInputs input,
+.cl-otpCodeField input:not(.cl-otpCodeFieldInput):not([class*="otpCodeFieldInput"]) {
+  position: absolute !important;
+  inset: 0 !important;
+  width: 100% !important;
+  height: 100% !important;
+  opacity: 0 !important;
+  z-index: 10 !important;
+  cursor: pointer !important;
+  pointer-events: auto !important;
+  background: transparent !important;
+  border: none !important;
+  outline: none !important;
+  color: transparent !important;
+  -webkit-text-fill-color: transparent !important;
+}
+
+/* Individual 6 visual slot boxes */
 .cl-otpCodeFieldInput,
 .cl-otpCodeDigit,
 [data-clerk-element="otpCodeFieldInput"],
@@ -479,7 +500,7 @@ button { cursor: pointer; }
   height: 3.25rem !important;
   min-width: 2.5rem !important;
   max-width: 3rem !important;
-  font-size: 1.35rem !important;
+  font-size: 1.5rem !important;
   font-weight: 900 !important;
   font-family: monospace, sans-serif !important;
   text-align: center !important;
@@ -495,30 +516,19 @@ button { cursor: pointer; }
   justify-content: center !important;
   padding: 0 !important;
   box-sizing: border-box !important;
+  pointer-events: none !important;
+  user-select: none !important;
 }
 
-.cl-otpCodeFieldInput:focus,
+/* Active / Focused slot state */
+.cl-otpCodeFieldInputs:focus-within .cl-otpCodeFieldInput[data-status="focused"],
 .cl-otpCodeFieldInput[data-status="focused"],
-.cl-otpCodeFieldInput:focus-visible {
+.cl-otpCodeFieldInput[data-state="focused"],
+.cl-otpCodeFieldInput:focus {
   border-color: #14B8A6 !important;
   box-shadow: 0 0 0 3px rgba(20, 184, 166, 0.35) !important;
   background-color: #090D16 !important;
-  outline: none !important;
   transform: translateY(-2px) !important;
-}
-
-/* Ensure hidden master input for paste/mobile keyboard does not block or stretch over visual slots */
-.cl-otpCodeField input[type="text"]:not(.cl-otpCodeFieldInput):not([class*="otpCodeFieldInput"]),
-.cl-otpCodeField input[type="number"]:not(.cl-otpCodeFieldInput):not([class*="otpCodeFieldInput"]),
-.cl-otpCodeField input[inputmode="numeric"]:not(.cl-otpCodeFieldInput):not([class*="otpCodeFieldInput"]) {
-  opacity: 0 !important;
-  position: absolute !important;
-  width: 1px !important;
-  height: 1px !important;
-  pointer-events: auto !important;
-  background: transparent !important;
-  border: none !important;
-  z-index: -1 !important;
 }
 
 /* Resend Code Button / Countdown styling */
