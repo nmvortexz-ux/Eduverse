@@ -100,265 +100,283 @@ body {
   white-space: nowrap;
 }
 .btn-pill:hover {
-  transform: translate(-1px, -1px);
-  box-shadow: 4px 4px 0px 0px #FFFFFF;
+  transform: translate(-2px, -2px);
+  box-shadow: 5px 5px 0px 0px #FFFFFF;
 }
 .btn-pill:active {
-  transform: translate(1px, 1px);
+  transform: translate(2px, 2px);
   box-shadow: 1px 1px 0px 0px #FFFFFF;
 }
 
-.btn-teal   { background: var(--teal-mid);  color: #FFFFFF; }
-.btn-coral  { background: var(--coral);     color: #FFFFFF; }
-.btn-mint   { background: var(--mint);      color: #0F172A; }
-.btn-sky    { background: var(--sky);       color: #0F172A; }
-.btn-amber  { background: var(--amber);     color: #0F172A; }
-.btn-white  { background: #FFFFFF;          color: #0F172A; }
-.btn-dark   { background: #1E293B;          color: #FFFFFF; }
-
-.btn-outline {
-  background: transparent;
-  color: var(--text-primary);
-  border: 2px solid var(--border-white);
-  box-shadow: var(--shadow-btn);
-}
-.btn-outline:hover {
-  background: var(--bg-card);
-  transform: translate(-1px, -1px);
-  box-shadow: 4px 4px 0px 0px #FFFFFF;
-}
-
-/* ─── Input flat ───────────────────────────── */
-.input-flat {
-  background: #1E293B;
-  border: 2px solid var(--border-white);
-  border-radius: 9999px;
-  padding: 0.55rem 1.2rem;
-  font-family: var(--font-body);
-  font-size: 0.9rem;
+.btn-teal {
+  background: var(--teal-mid);
   color: #FFFFFF;
-  outline: none;
-  transition: box-shadow 0.15s;
 }
-.input-flat::placeholder { color: var(--text-muted); }
-.input-flat:focus { box-shadow: 3px 3px 0px 0px #0D9488; }
+.btn-teal:hover { background: var(--teal-light); }
 
-/* ─── Tag / badge ──────────────────────────── */
-.badge {
-  display: inline-flex;
-  align-items: center;
-  gap: 0.3rem;
-  padding: 0.25rem 0.75rem;
-  border-radius: 9999px;
-  border: 2px solid var(--border-white);
-  font-size: 0.75rem;
-  font-weight: 700;
-  box-shadow: 2px 2px 0px 0px #FFFFFF;
+.btn-coral {
+  background: var(--coral-dark);
+  color: #FFFFFF;
+}
+.btn-coral:hover { background: var(--coral); }
+
+.btn-ghost {
+  background: var(--bg-card);
+  color: var(--text-primary);
+  border-color: var(--border-white);
+}
+.btn-ghost:hover {
+  background: var(--bg-card-hover);
+  color: #FFFFFF;
 }
 
-/* ─── Section heading ──────────────────────── */
+/* ─── Section Headings ─────────────────────── */
 .section-heading {
   font-family: var(--font-display);
-  font-size: 1.25rem;
-  font-weight: 800;
-  color: var(--text-primary);
+  font-weight: 900;
+  letter-spacing: -0.02em;
 }
 
-/* ─── KaTeX Math Formula Inversion on Dark ──── */
-.katex {
-  color: #F8FAFC !important;
-  font-size: 1.05em;
+/* ─── Subject Card Themes (High-contrast Dark) */
+.subject-card-science {
+  background: #064E3B;
+  border-color: #34D399;
+  color: #A7F3D0;
 }
-.katex-display {
-  margin: 0.6em 0 !important;
+.subject-card-math {
+  background: #881337;
+  border-color: #FB7185;
+  color: #FECDD3;
 }
-.katex-html {
-  color: inherit;
+.subject-card-english {
+  background: #78350F;
+  border-color: #FBBF24;
+  color: #FDE68A;
+}
+.subject-card-hindi {
+  background: #581C87;
+  border-color: #C084FC;
+  color: #E9D5FF;
+}
+.subject-card-gk {
+  background: #0C4A6E;
+  border-color: #38BDF8;
+  color: #BAE6FD;
+}
+.subject-card-social {
+  background: #064E3B;
+  border-color: #34D399;
+  color: #A7F3D0;
+}
+.subject-card-commerce {
+  background: #7C2D12;
+  border-color: #FB923C;
+  color: #FED7AA;
 }
 
-/* ==========================================================================
-   CLERK AUTH & USER PROFILE / MANAGE ACCOUNT UNIVERSAL HIGH-CONTRAST FIXES
-   ========================================================================== */
-
-/* UserButton Avatar Box Squircle Styling */
-.cl-userButtonTrigger,
-button[class*="cl-userButtonTrigger"] {
-  border-radius: 0.75rem !important;
-  outline: none !important;
+/* ─── Animated option pill states ──────────── */
+.option-default {
+  background: #1E293B;
+  border: 2px solid #334155;
+  color: #F8FAFC;
+  transition: all 0.15s ease;
+}
+.option-default:hover {
+  background: #334155;
+  border-color: #FFFFFF;
+  transform: translate(-1px, -1px);
+  box-shadow: 3px 3px 0px 0px #FFFFFF;
 }
 
-.cl-userButtonAvatarBox,
-.cl-avatarBox,
-div[class*="cl-userButtonAvatarBox"],
-div[class*="cl-avatarBox"] {
-  border-radius: 0.65rem !important;
+.option-selected {
+  background: #0D9488 !important;
   border: 2px solid #FFFFFF !important;
-  box-shadow: 1.5px 1.5px 0px 0px #14B8A6 !important;
-  overflow: hidden !important;
-}
-
-.cl-userButtonAvatarImage,
-.cl-avatarImage {
-  border-radius: 0.65rem !important;
-}
-
-/* Universal Dark Card Container */
-.cl-userProfile-root,
-.cl-modalContent,
-.cl-card,
-.cl-userButtonPopoverCard,
-.cl-popoverBox,
-div[class*="cl-userProfile"],
-div[class*="cl-modalContent"],
-div[class*="cl-card"] {
-  background-color: #0F172A !important;
   color: #FFFFFF !important;
-  border-color: #475569 !important;
+  box-shadow: 3px 3px 0px 0px #FFFFFF !important;
+  font-weight: 800;
 }
 
-/* Left Sidebar in Manage Account / UserProfile modal */
-.cl-navbar,
-nav[class*="cl-navbar"],
-div[class*="cl-navbar"] {
-  background-color: #0B0F19 !important;
-  border-right: 1.5px solid #334155 !important;
+.option-correct {
+  background: #064E3B !important;
+  border: 2px solid #34D399 !important;
+  color: #A7F3D0 !important;
+  box-shadow: 3px 3px 0px 0px #34D399 !important;
+  font-weight: 800;
 }
 
-/* Sidebar Title & Subtitle */
-.cl-navbarTitle,
-div[class*="cl-navbarTitle"],
-h1[class*="cl-navbarTitle"],
-h2[class*="cl-navbarTitle"] {
+.option-incorrect {
+  background: #881337 !important;
+  border: 2px solid #FB7185 !important;
+  color: #FECDD3 !important;
+  box-shadow: 3px 3px 0px 0px #FB7185 !important;
+  font-weight: 800;
+}
+
+/* ─── Gamified HUD Badge ───────────────────── */
+.hud-badge {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.35rem;
+  padding: 0.3rem 0.75rem;
+  border-radius: 9999px;
+  font-size: 0.75rem;
+  font-weight: 900;
+  border: 1.5px solid var(--border-white);
+  box-shadow: 2px 2px 0px 0px #FFFFFF;
+  text-transform: uppercase;
+  letter-spacing: 0.05em;
+}
+
+/* ─── Sound pulse animation ────────────────── */
+@keyframes sound-wave {
+  0%, 100% { transform: scaleY(0.4); }
+  50% { transform: scaleY(1); }
+}
+.sound-bar {
+  animation: sound-wave 0.8s ease-in-out infinite;
+}
+
+/* ─── Clerk Modal High Contrast Polish Overrides ─── */
+.cl-modalBackdrop {
+  background-color: rgba(0, 0, 0, 0.85) !important;
+  backdrop-filter: blur(8px) !important;
+}
+
+.cl-card,
+.cl-signIn-root,
+.cl-signUp-root {
+  box-shadow: 0 20px 40px -15px rgba(0, 0, 0, 0.9), 0 0 0 2px #475569 !important;
+}
+
+.cl-internal-b3fm6y {
+  color: #FFFFFF !important;
+}
+
+.cl-socialButtonsBlockButton {
+  transition: all 0.2s ease-in-out !important;
+}
+
+.cl-socialButtonsBlockButton:hover {
+  background-color: #1e293b !important;
+  border-color: #14b8a6 !important;
+  transform: translateY(-1px) !important;
+}
+
+.cl-formButtonPrimary:hover {
+  background-color: #0f766e !important;
+  transform: translateY(-1px) !important;
+  box-shadow: 0 4px 12px rgba(13, 148, 136, 0.4) !important;
+}
+
+.cl-userButtonPopoverCard {
+  box-shadow: 0 10px 25px -5px rgba(0, 0, 0, 0.8), 0 0 0 2px #475569 !important;
+}
+
+.cl-userButtonPopoverActionButton:hover {
+  background-color: #1e293b !important;
+}
+
+.cl-navbarButton:hover {
+  background-color: #1e293b !important;
+}
+
+.cl-logoImage {
+  filter: drop-shadow(0 2px 4px rgba(0,0,0,0.5));
+}
+
+/* ─── Global Contrast Fixes for Clerk Components ─── */
+.cl-card,
+.cl-rootBox,
+.cl-modalContent {
+  color: #FFFFFF !important;
+}
+
+.cl-headerTitle,
+.cl-modalTitle {
   color: #FFFFFF !important;
   font-weight: 800 !important;
 }
 
-.cl-navbarSubtitle,
-p[class*="cl-navbarSubtitle"],
-div[class*="cl-navbarSubtitle"] {
-  color: #94A3B8 !important;
+.cl-headerSubtitle,
+.cl-modalSubtitle {
+  color: #CBD5E1 !important;
 }
 
-/* Sidebar Buttons (Profile, Security, etc.) */
-.cl-navbarButton,
-button[class*="cl-navbarButton"],
-a[class*="cl-navbarButton"] {
+.cl-formFieldLabel,
+.cl-label {
   color: #CBD5E1 !important;
   font-weight: 600 !important;
 }
 
-.cl-navbarButtonText,
-span[class*="cl-navbarButtonText"] {
+.cl-footerActionText,
+.cl-footerText {
   color: #CBD5E1 !important;
 }
 
-.cl-navbarButton[data-active="true"],
-.cl-navbarButton[data-active="true"] .cl-navbarButtonText,
-.cl-navbarButton[data-active="true"] span,
-button[class*="cl-navbarButton"][data-active="true"] {
-  color: #14B8A6 !important;
-  background-color: #1E293B !important;
-  font-weight: 800 !important;
-}
-
-.cl-navbarButton:hover,
-button[class*="cl-navbarButton"]:hover {
-  background-color: #1E293B !important;
-  color: #FFFFFF !important;
-}
-
-.cl-navbarButtonIcon,
-.cl-navbarButton svg {
-  color: #14B8A6 !important;
-}
-
-/* Right Content Area in Manage Account modal */
-.cl-pageScrollBox,
-.cl-scrollBox,
-div[class*="cl-pageScrollBox"],
-div[class*="cl-scrollBox"] {
-  background-color: #0F172A !important;
-}
-
-/* Main Section Titles ("Profile details", etc.) */
-.cl-headerTitle,
-.cl-profileSectionTitleText,
-h1[class*="cl-headerTitle"],
-h2[class*="cl-headerTitle"],
-h3[class*="cl-profileSectionTitleText"],
-div[class*="cl-profileSectionTitleText"] {
-  color: #FFFFFF !important;
-  font-weight: 800 !important;
-  font-size: 1.1rem !important;
-}
-
-/* Section Labels ("Profile", "Email addresses", "Connected accounts") */
-.cl-profileSectionTitle,
-.cl-formFieldLabel,
-div[class*="cl-profileSectionTitle"],
-span[class*="cl-profileSectionTitle"],
-label[class*="cl-formFieldLabel"] {
-  color: #E2E8F0 !important;
+.cl-footerActionLink,
+.cl-footerLink {
+  color: #2DD4BF !important;
   font-weight: 700 !important;
 }
 
-/* Content Details (User Name, Email address text e.g. "nmvortexz@gmail.com") */
-.cl-profileSectionContent,
-.cl-profileSectionItem,
-.cl-userPreviewMainIdentifier,
-.cl-userPreviewSecondaryIdentifier,
-div[class*="cl-profileSectionContent"],
-span[class*="cl-profileSectionContent"],
-p[class*="cl-profileSectionContent"],
-div[class*="cl-userPreview"],
-span[class*="cl-userPreview"] {
-  color: #F8FAFC !important;
-}
-
-/* Secondary identifiers & labels (e.g. "Primary", "Google") */
-.cl-badge,
-.cl-profileSectionSubtitle,
-.cl-formFieldHintText,
-.cl-breadcrumbsItem,
-span[class*="cl-badge"],
-div[class*="cl-badge"] {
+.cl-dividerText {
   color: #94A3B8 !important;
 }
 
-/* Action Links inside modal ("Update profile", "+ Add email address") */
-.cl-profileSectionPrimaryButton,
-.cl-footerActionLink,
-button[class*="cl-profileSectionPrimaryButton"],
-a[class*="cl-profileSectionPrimaryButton"],
-button[class*="cl-footerActionLink"] {
-  color: #14B8A6 !important;
+.cl-identityPreviewText {
+  color: #FFFFFF !important;
+}
+
+.cl-identityPreviewEditButton {
+  color: #2DD4BF !important;
+}
+
+.cl-profileSectionTitleText {
+  color: #FFFFFF !important;
   font-weight: 700 !important;
 }
 
-.cl-profileSectionPrimaryButton:hover,
-.cl-footerActionLink:hover {
-  color: #2DD4BF !important;
-  text-decoration: underline !important;
-}
-
-/* Modal Close Button */
-.cl-modalCloseButton,
-button[class*="cl-modalCloseButton"] {
+.cl-profileSectionTitle {
   color: #CBD5E1 !important;
 }
-.cl-modalCloseButton:hover {
+
+.cl-profileSectionContent {
   color: #FFFFFF !important;
-  background-color: #1E293B !important;
 }
 
-/* Dropdown popover menu item texts */
-.cl-userButtonPopoverActionButtonText,
-button[class*="cl-userButtonPopoverActionButton"] {
+.cl-accordionTriggerButton {
+  color: #FFFFFF !important;
+}
+
+.cl-badge {
+  color: #CBD5E1 !important;
+  background-color: #1E293B !important;
+  border-color: #475569 !important;
+}
+
+.cl-userPreviewMainIdentifier {
   color: #FFFFFF !important;
   font-weight: 700 !important;
 }
 
-/* Force all general text elements inside Clerk modals to light text */
+.cl-userPreviewSecondaryIdentifier {
+  color: #CBD5E1 !important;
+}
+
+.cl-formFieldSuccessText {
+  color: #34D399 !important;
+}
+
+.cl-formFieldErrorText {
+  color: #F87171 !important;
+}
+
+.cl-otpCodeFieldInput {
+  color: #FFFFFF !important;
+  background-color: #020617 !important;
+  border-color: #475569 !important;
+}
+
 .cl-rootBox p,
 .cl-rootBox span,
 .cl-rootBox div,
@@ -375,7 +393,6 @@ a { text-decoration: none; color: inherit; }
 button { cursor: pointer; }
 
 /* ─── Clerk modal z-index fix ───────────────── */
-/* Ensures Clerk sign-in/sign-up modal renders above sticky navbar and all overlays */
 .cl-modalBackdrop,
 [data-clerk-modal-backdrop] {
   z-index: 9998 !important;
@@ -386,3 +403,50 @@ button { cursor: pointer; }
   z-index: 9999 !important;
 }
 
+/* ─── Clerk Auth Form Input & Password Visibility Fix (Rock-Solid Contrast) ─── */
+.cl-formFieldInput,
+.cl-input,
+[data-clerk-element="formFieldInput"],
+.cl-rootBox input,
+.cl-formFieldInput[type="text"],
+.cl-formFieldInput[type="email"],
+.cl-formFieldInput[type="password"] {
+  background-color: #020617 !important;
+  color: #FFFFFF !important;
+  -webkit-text-fill-color: #FFFFFF !important;
+  caret-color: #14B8A6 !important;
+  border: 2px solid #334155 !important;
+  border-radius: 0.75rem !important;
+}
+
+.cl-formFieldInput:focus,
+.cl-input:focus,
+.cl-rootBox input:focus {
+  border-color: #14B8A6 !important;
+  outline: none !important;
+  box-shadow: 0 0 0 2px rgba(20, 184, 166, 0.25) !important;
+}
+
+/* Browser Autofill Contrast Override */
+.cl-formFieldInput:-webkit-autofill,
+.cl-input:-webkit-autofill,
+.cl-rootBox input:-webkit-autofill,
+.cl-formFieldInput:-webkit-autofill:hover,
+.cl-formFieldInput:-webkit-autofill:focus {
+  -webkit-box-shadow: 0 0 0 1000px #020617 inset !important;
+  -webkit-text-fill-color: #FFFFFF !important;
+  caret-color: #FFFFFF !important;
+}
+
+/* Show/Hide password toggle eye button */
+.cl-formFieldInputShowPasswordButton,
+[data-clerk-element="formFieldInputShowPasswordButton"],
+.cl-formFieldInputShowPasswordButton svg {
+  color: #94A3B8 !important;
+  fill: #94A3B8 !important;
+}
+.cl-formFieldInputShowPasswordButton:hover,
+.cl-formFieldInputShowPasswordButton:hover svg {
+  color: #FFFFFF !important;
+  fill: #FFFFFF !important;
+}

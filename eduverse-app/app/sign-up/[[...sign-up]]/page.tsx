@@ -64,29 +64,34 @@ export default function SignUpPage() {
             variables: {
               colorPrimary: '#0D9488',
               colorBackground: '#0F172A',
-              colorText: '#F8FAFC',
+              colorText: '#FFFFFF',
               colorTextSecondary: '#94A3B8',
-              colorInputBackground: '#090D16',
+              colorInputBackground: '#020617',
               colorInputText: '#FFFFFF',
               borderRadius: '0.75rem',
             } as any,
             elements: {
               rootBox: 'mx-auto',
-              card: 'bg-slate-900 border-3 border-white shadow-[6px_6px_0px_0px_rgba(255,255,255,1)] rounded-2xl p-6 sm:p-8',
+              card: 'bg-slate-900 border-2 border-slate-600 shadow-[0_10px_30px_rgba(0,0,0,0.8)] rounded-2xl p-6 sm:p-8',
               headerTitle: 'text-2xl font-black text-white tracking-tight',
-              headerSubtitle: 'text-xs font-semibold text-slate-400',
+              headerSubtitle: 'text-xs font-semibold text-slate-300',
               socialButtonsBlockButton:
-                'bg-slate-800 border-2 border-slate-600 hover:border-white text-white transition-all shadow-[2px_2px_0px_0px_rgba(255,255,255,0.7)] hover:-translate-y-0.5 rounded-xl font-bold py-2.5',
+                'bg-slate-800 border-2 border-slate-600 hover:border-teal-400 text-white transition-all shadow-md hover:-translate-y-0.5 rounded-xl font-bold py-2.5',
               socialButtonsBlockButtonText: 'font-bold text-white text-xs',
               dividerLine: 'bg-slate-700',
               dividerText: 'text-xs font-bold text-slate-400 uppercase tracking-wider',
-              formFieldLabel: 'text-xs font-black uppercase tracking-wide text-slate-300',
+              formFieldLabel: 'text-xs font-black uppercase tracking-wide text-slate-200 mb-1',
               formFieldInput:
-                'bg-slate-950 border-2 border-slate-700 focus:border-white focus:ring-0 text-white rounded-xl py-2.5 px-3.5 text-sm font-semibold transition-colors',
+                '!bg-slate-950 !text-white !border-2 !border-slate-700 focus:!border-teal-400 !placeholder-slate-500 rounded-xl py-3 px-3.5 text-sm font-semibold transition-colors',
+              formFieldInputShowPasswordButton: '!text-slate-300 hover:!text-white',
+              formFieldInputShowPasswordIcon: '!w-5 !h-5 !text-slate-300',
               formButtonPrimary:
-                'btn-pill bg-[#0D9488] hover:bg-[#0F766E] border-2 border-white shadow-[3px_3px_0px_0px_#FFFFFF] hover:-translate-y-0.5 active:translate-x-0.5 active:translate-y-0.5 transition-all text-white font-black text-sm py-3 rounded-full mt-2',
+                'btn-pill bg-[#0D9488] hover:bg-[#0F766E] border-2 border-white shadow-[3px_3px_0px_0px_#FFFFFF] hover:-translate-y-0.5 active:translate-x-0.5 active:translate-y-0.5 transition-all text-white font-black text-sm py-3 rounded-full mt-3',
               footerActionLink: 'text-teal-400 hover:text-teal-300 font-black text-xs underline underline-offset-4',
-              footerActionText: 'text-xs font-semibold text-slate-400',
+              footerActionText: 'text-xs font-semibold text-slate-300',
+              identityPreview: 'bg-slate-800 border border-slate-700 rounded-xl p-2.5',
+              identityPreviewText: 'text-slate-100 font-bold',
+              identityPreviewEditButton: 'text-teal-400 hover:text-teal-300 font-bold',
             },
           } as any}
         />
