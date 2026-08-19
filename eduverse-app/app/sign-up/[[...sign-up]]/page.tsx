@@ -85,6 +85,11 @@ export default function SignUpPage() {
                 '!bg-slate-950 !text-white !border-2 !border-slate-700 focus:!border-teal-400 !placeholder-slate-500 rounded-xl py-3 px-3.5 text-sm font-semibold transition-colors',
               formFieldInputShowPasswordButton: '!text-slate-300 hover:!text-white',
               formFieldInputShowPasswordIcon: '!w-5 !h-5 !text-slate-300',
+              otpCodeField: 'my-4 flex flex-col items-center justify-center',
+              otpCodeFieldInputs: 'flex flex-row items-center justify-center gap-2',
+              otpCodeFieldInput:
+                '!w-11 !h-14 !text-xl !font-black !text-center !bg-slate-950 !text-white !border-2 !border-slate-700 focus:!border-teal-400 !rounded-xl !p-0 shadow-sm transition-all',
+              formResendCodeLink: '!text-teal-400 hover:!text-teal-300 !font-bold !text-xs !underline !mt-2',
               formButtonPrimary:
                 'btn-pill bg-[#0D9488] hover:bg-[#0F766E] border-2 border-white shadow-[3px_3px_0px_0px_#FFFFFF] hover:-translate-y-0.5 active:translate-x-0.5 active:translate-y-0.5 transition-all text-white font-black text-sm py-3 rounded-full mt-3',
               footerActionLink: 'text-teal-400 hover:text-teal-300 font-black text-xs underline underline-offset-4',
