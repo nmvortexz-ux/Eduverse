@@ -45,6 +45,7 @@ export default function Navbar() {
 
   const navItems = [
     { label: 'Home', href: '/' },
+    { label: 'Boss Fight 👾', href: '/boss-fight' },
     { label: 'Dashboard', href: '/dashboard' },
     { label: 'Leaderboard', href: '/leaderboard' },
   ];
