@@ -7,7 +7,7 @@ interface EduVerseLogoProps extends React.SVGProps<SVGSVGElement> {
 export default function EduVerseLogo({ className = '', ...props }: EduVerseLogoProps) {
   return (
     <svg 
-      viewBox="0 0 200 240" 
+      viewBox="0 15 200 195" 
       className={className} 
       fill="none" 
       xmlns="http://www.w3.org/2000/svg"
@@ -48,23 +48,6 @@ export default function EduVerseLogo({ className = '', ...props }: EduVerseLogoP
         }}
       >
         EDUVERSE
-      </text>
-      
-      {/* Secondary Subtitle */}
-      <text 
-        x="100" 
-        y="218" 
-        textAnchor="middle" 
-        fill="currentColor" 
-        textLength="135" 
-        lengthAdjust="spacing"
-        style={{ 
-          fontFamily: '"Montserrat", "Spartan", system-ui, -apple-system, sans-serif', 
-          fontSize: '10px', 
-          fontWeight: 500 
-        }}
-      >
-        SINCE 2026
       </text>
     </svg>
   );
