@@ -48,55 +48,38 @@ export default function HomePage() {
   const isCommerceClass = selectedClass === 'Class 11' || selectedClass === 'Class 12';
   const activeSubjects = isCommerceClass ? commerceSubjects : defaultSubjects;
 
-  const totalQuestionsDisplay = platformStats
-    ? `${platformStats.totalQuestions.toLocaleString()}+ Questions`
-    : '8,880+ Questions';
-
   return (
     <div className="min-h-screen text-slate-100" style={{ background: '#0B0F19', fontFamily: "'Nunito', sans-serif" }}>
       <Navbar />
 
       <main className="max-w-5xl mx-auto px-4 py-10 space-y-12">
 
-        {/* ── Dark Retro-Pop Hero Section ── */}
-        <section
-          className="rounded-3xl p-8 sm:p-12 text-center space-y-5 relative overflow-hidden"
-          style={{
-            background: 'linear-gradient(135deg, #1E293B 0%, #0F172A 100%)',
-            border: '3px solid #FFFFFF',
-            boxShadow: '6px 6px 0px 0px #FFFFFF',
-          }}
-        >
+        {/* ── Modern Professional Hero Section ── */}
+        <section className="rounded-3xl p-8 sm:p-14 text-center space-y-6 relative overflow-hidden bg-gradient-to-b from-slate-900 to-slate-950 border border-slate-800 shadow-2xl shadow-emerald-900/10">
+          
           {/* Header Pill */}
-          <div
-            className="inline-flex items-center gap-2 px-4 py-1 rounded-full text-xs font-black uppercase tracking-wider text-white"
-            style={{ background: '#0D9488', border: '2px solid #FFFFFF', boxShadow: '2px 2px 0px 0px #FFFFFF' }}
-          >
-            ✨ {totalQuestionsDisplay} Available
+          <div className="inline-flex items-center justify-center">
+            <span className="px-4 py-1.5 rounded-full text-[10px] sm:text-xs font-bold uppercase tracking-widest text-[#00df9a] border border-[#00df9a]/30 bg-[#00df9a]/5">
+              OVER {platformStats ? platformStats.totalQuestions.toLocaleString() : '8,800'}+ CURATED QUESTIONS
+            </span>
           </div>
 
-          <h1
-            className="text-3xl sm:text-5xl font-black leading-tight text-white"
-            style={{ fontFamily: "'Space Grotesk', sans-serif" }}
-          >
-            Master NCERT Class 8 to 12 Commerce
+          <h1 className="text-3xl sm:text-4xl lg:text-5xl font-extrabold leading-tight text-slate-100 max-w-4xl mx-auto tracking-tight">
+            The Intelligent Assessment Engine for Class 8–12 Commerce
           </h1>
 
-          <p className="text-base sm:text-lg font-bold text-slate-300 max-w-xl mx-auto leading-relaxed">
-            Select your class &amp; subject below to practice chapter-wise quizzes with step-by-step NCERT solutions.
+          <p className="text-sm sm:text-base font-medium text-slate-400 max-w-3xl mx-auto leading-relaxed">
+            EduVerse goes beyond standard quizzes. Master your NCERT syllabus through AI-powered doubt solving, gamified chapter boss fights, and real-time performance analytics designed to make learning highly effective and engaging.
           </p>
 
           {/* Quick Info Badges */}
-          <div className="flex flex-wrap items-center justify-center gap-3 pt-2">
-            <span className="px-3.5 py-1 rounded-full text-xs font-black text-slate-200 bg-slate-800 border border-white shadow-[2px_2px_0px_0px_#FFFFFF]">
-              📚 Sequential NCERT Chapters
-            </span>
-            <span className="px-3.5 py-1 rounded-full text-xs font-black text-slate-200 bg-slate-800 border border-white shadow-[2px_2px_0px_0px_#FFFFFF]">
-              🎯 Class 11 &amp; 12 Commerce Included
-            </span>
-            <span className="px-3.5 py-1 rounded-full text-xs font-black text-slate-200 bg-slate-800 border border-white shadow-[2px_2px_0px_0px_#FFFFFF]">
-              ⚡ 1-Click Instant Start
-            </span>
+          <div className="flex flex-wrap items-center justify-center gap-3 sm:gap-6 pt-4">
+            {['NCERT Aligned', 'AI-Powered Solutions', 'Interactive Boss Fights', 'Detailed Analytics'].map((feature, i) => (
+              <div key={i} className="flex items-center gap-3 sm:gap-6">
+                <span className="text-[11px] sm:text-xs font-semibold text-slate-300 tracking-wider uppercase">{feature}</span>
+                {i !== 3 && <span className="text-slate-700 font-bold">&middot;</span>}
+              </div>
+            ))}
           </div>
         </section>
 
