@@ -9,78 +9,88 @@ import Link from 'next/link';
 // ─── Boss Roster Presets ──────────────────────────────────────────────────────
 const BOSS_ROSTER: (BossProfile & { description: string; difficulty: string; color: string; bgGlow: string })[] = [
   {
-    name: 'Dr. Entropy',
-    title: 'Master of Energy & Reactions',
+    name: 'The Strict Invigilator',
+    title: 'Final Boss of Class 10 Science',
     subject: 'Science',
     className: 'Class 10',
-    avatar: '🧪',
+    avatar: '👨‍🏫',
     maxHp: 1000,
     difficulty: 'Hard',
-    description: 'Specializes in Chemical Equations, Electricity, and Light. High damage resistance!',
+    description: 'Watches you like a hawk. You cannot pass without mastering Chemical Reactions and Electricity.',
     color: '#10B981',
     bgGlow: 'rgba(16, 185, 129, 0.15)',
   },
   {
-    name: 'The Equation Titan',
-    title: 'Guardian of Algebra & Trigonometry',
+    name: 'Sharma Ji Ka Beta',
+    title: 'The Ultimate Math Rival',
     subject: 'Mathematics',
     className: 'Class 10',
-    avatar: '📐',
+    avatar: '🤓',
     maxHp: 1000,
     difficulty: 'Very Hard',
-    description: 'Dominates Quadratic Equations, Coordinate Geometry, and Surface Areas. Requires quick logic!',
+    description: 'He already solved the entire RD Sharma book twice. Can you beat his score in Algebra and Trigonometry?',
     color: '#F59E0B',
     bgGlow: 'rgba(245, 158, 11, 0.15)',
   },
   {
-    name: 'The Audit Master',
-    title: 'Supreme Corporate Auditor',
+    name: 'The Balance Sheet Boss',
+    title: 'Master of Tally & Company Accounts',
     subject: 'Accountancy',
     className: 'Class 12',
     avatar: '💼',
     maxHp: 1200,
     difficulty: 'Expert',
-    description: 'Strict examiner of Partnership Deeds, Goodwill Valuation, and Share Capital. Critical thinking is vital.',
+    description: 'Your balance sheet won\'t tally unless you defeat him. He will test your Partnership and Goodwill concepts!',
     color: '#FB7185',
     bgGlow: 'rgba(251, 113, 133, 0.15)',
   },
   {
-    name: 'The Market Baron',
-    title: 'Macroeconomic Equilibrium Entity',
+    name: 'The GDP Godfather',
+    title: 'Controller of Macroeconomics',
     subject: 'Economics',
     className: 'Class 12',
     avatar: '📈',
     maxHp: 1000,
     difficulty: 'Hard',
-    description: 'Challenges your knowledge of National Income, Fiscal Policy, and Central Banking mechanisms.',
+    description: 'Controls the National Income and the RBI. You need perfect concepts to take him down.',
     color: '#A855F7',
     bgGlow: 'rgba(168, 85, 247, 0.15)',
   },
   {
-    name: 'The Grammar Overlord',
+    name: 'The Grammar Guru',
     title: 'Linguistic Syntax Master',
     subject: 'English',
     className: 'Class 9',
-    avatar: '📖',
+    avatar: '🧐',
     maxHp: 900,
     difficulty: 'Medium',
-    description: 'Tests Tenses, Modals, Subject-Verb Agreement, and Reported Speech with sharp precision.',
+    description: 'Finds a grammatical error in everything you say. Defeat him to prove your Tenses and Modals.',
     color: '#38BDF8',
     bgGlow: 'rgba(56, 189, 248, 0.15)',
   },
   {
-    name: 'The Sovereign Monarch',
-    title: 'Historical & Democratic Strategist',
+    name: 'The Timeline Tyrant',
+    title: 'Historical Strategies Expert',
     subject: 'Social Studies',
     className: 'Class 9',
-    avatar: '🏛️',
+    avatar: '🗺️',
     maxHp: 1000,
     difficulty: 'Medium',
-    description: 'Master of Electoral Politics, Nationalism, and Global Geographical Features.',
+    description: 'He remembers every single date from the French Revolution. Prepare for a fierce timeline battle!',
     color: '#34D399',
     bgGlow: 'rgba(52, 211, 153, 0.15)',
   },
 ];
+
+// Utility to shuffle an array
+const shuffleArray = <T,>(array: T[]): T[] => {
+  const newArray = [...array];
+  for (let i = newArray.length - 1; i > 0; i--) {
+    const j = Math.floor(Math.random() * (i + 1));
+    [newArray[i], newArray[j]] = [newArray[j], newArray[i]];
+  }
+  return newArray;
+};
 
 // Curated High-Yield Sample Questions Pool for instant offline/direct battle capability
 const SAMPLE_QUESTIONS_BY_SUBJECT: Record<string, BossQuestion[]> = {
@@ -399,7 +409,7 @@ export default function BossFightArena() {
               isCorrect: o.isCorrect,
             })),
           }));
-          setActiveQuestions(mappedQuestions);
+          setActiveQuestions(shuffleArray(mappedQuestions));
           setLoading(false);
           return;
         }
@@ -410,7 +420,7 @@ export default function BossFightArena() {
 
     // Fallback to high-yield curated combat question pool
     const fallback = SAMPLE_QUESTIONS_BY_SUBJECT[boss.subject] || SAMPLE_QUESTIONS_BY_SUBJECT['Science'];
-    setActiveQuestions(fallback);
+    setActiveQuestions(shuffleArray(fallback));
     setLoading(false);
   };
 
@@ -424,6 +434,7 @@ export default function BossFightArena() {
           setActiveBoss(null);
           setActiveQuestions([]);
         }}
+        onRestart={() => startBossBattle(activeBoss)}
       />
     );
   }

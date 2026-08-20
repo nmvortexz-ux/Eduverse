@@ -32,6 +32,7 @@ interface BossFightQuizProps {
   boss: BossProfile;
   questions: BossQuestion[];
   onExit?: () => void;
+  onRestart?: () => void;
 }
 
 interface FloatingDamage {
@@ -41,7 +42,7 @@ interface FloatingDamage {
   isPlayerHurt: boolean;
 }
 
-export default function BossFightQuiz({ boss, questions, onExit }: BossFightQuizProps) {
+export default function BossFightQuiz({ boss, questions, onExit, onRestart }: BossFightQuizProps) {
   // ─── Game State ─────────────────────────────────────────────────────────────
   const [currentHp, setCurrentHp] = useState<number>(boss.maxHp);
   const [lives, setLives] = useState<number>(3);
