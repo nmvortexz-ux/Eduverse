@@ -1,45 +1,7 @@
 'use client';
 
 import Link from 'next/link';
-
-function EduVerseLogo() {
-  return (
-    <Link href="/" id="footer-logo" aria-label="EduVerse home">
-      <div className="flex items-center gap-2 select-none">
-        <span
-          style={{
-            fontFamily: "'Space Grotesk', sans-serif",
-            fontSize: '1.6rem',
-            fontWeight: 900,
-            letterSpacing: '-0.03em',
-            lineHeight: 1,
-          }}
-        >
-          <span style={{ color: '#14B8A6' }}>Edu</span>
-          <span
-            style={{
-              color: '#0B0F19',
-              background: '#FFFFFF',
-              borderRadius: '0.35rem',
-              padding: '0 6px 2px',
-              marginLeft: '3px',
-              display: 'inline-block',
-              boxShadow: '2px 2px 0px 0px #14B8A6',
-            }}
-          >
-            Verse
-          </span>
-        </span>
-        <span
-          className="text-xs font-black px-2.5 py-0.5 rounded-full"
-          style={{ background: '#134E4A', color: '#5EEAD4', border: '1.5px solid #5EEAD4' }}
-        >
-          NCERT Portal
-        </span>
-      </div>
-    </Link>
-  );
-}
+import EduVerseLogo from './EduVerseLogo';
 
 export default function Footer() {
   return (
@@ -50,7 +12,9 @@ export default function Footer() {
           
           {/* Column 1: Brand & Contact */}
           <div className="flex flex-col space-y-4">
-            <EduVerseLogo />
+            <Link href="/" aria-label="EduVerse home" className="inline-block hover:text-white transition-colors text-slate-200">
+              <EduVerseLogo className="w-24 h-auto" />
+            </Link>
             <p className="text-sm leading-relaxed max-w-xs">
               Empowering Class 8 to 12 Commerce students with chapter-wise interactive quizzes, step-by-step NCERT explanations, and real-time performance analytics.
             </p>

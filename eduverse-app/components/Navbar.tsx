@@ -4,39 +4,7 @@ import { useState } from 'react';
 import Link from 'next/link';
 import { usePathname } from 'next/navigation';
 import { UserButton, useUser } from '@clerk/nextjs';
-
-function EduVerseLogo() {
-  return (
-    <Link href="/" id="navbar-logo" aria-label="EduVerse home" className="flex items-center gap-2.5 group">
-      <div className="flex items-center select-none transition-transform group-hover:scale-105">
-        <span
-          style={{
-            fontFamily: "'Space Grotesk', sans-serif",
-            fontSize: '1.6rem',
-            fontWeight: 900,
-            letterSpacing: '-0.03em',
-            lineHeight: 1,
-          }}
-        >
-          <span className="text-teal-400">Edu</span>
-          <span
-            style={{
-              color: '#0B0F19',
-              background: '#FFFFFF',
-              borderRadius: '0.4rem',
-              padding: '1px 7px 3px',
-              marginLeft: '3px',
-              display: 'inline-block',
-              boxShadow: '2px 2px 0px 0px #14B8A6',
-            }}
-          >
-            Verse
-          </span>
-        </span>
-      </div>
-    </Link>
-  );
-}
+import EduVerseLogo from './EduVerseLogo';
 
 export default function Navbar() {
   const pathname = usePathname();
@@ -56,7 +24,9 @@ export default function Navbar() {
     <header className="sticky top-0 z-40 backdrop-blur-md bg-[#0B0F19]/95 border-b-2 border-slate-800 transition-all">
       <div className="flex items-center justify-between px-4 sm:px-6 py-3.5 max-w-6xl mx-auto">
         {/* Left: Brand Logo */}
-        <EduVerseLogo />
+        <Link href="/" id="navbar-logo" aria-label="EduVerse home" className="group">
+          <EduVerseLogo className="w-20 sm:w-24 h-auto text-teal-400 group-hover:scale-105 transition-transform" />
+        </Link>
 
         {/* Center: Clean Minimalist Nav Bar (Desktop) */}
         <nav className="hidden md:flex items-center gap-2 bg-slate-900/90 p-1.5 rounded-2xl border-2 border-slate-800 shadow-[2px_2px_0px_0px_rgba(255,255,255,0.06)]">
