@@ -439,107 +439,164 @@ export default function BossFightArena() {
     );
   }
 
+  // ─── SVG Icon Components ──────────────────────────────────────────────────────
+  const IconSwords = ({ className = 'w-5 h-5' }: { className?: string }) => (
+    <svg className={className} viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round">
+      <polyline points="14.5 17.5 3 6 3 3 6 3 17.5 14.5" /><line x1="13" x2="19" y1="19" y2="13" /><line x1="16" x2="20" y1="16" y2="20" /><line x1="19" x2="21" y1="21" y2="19" /><polyline points="14.5 6.5 18 3 21 3 21 6 17.5 9.5" /><line x1="5" x2="9" y1="14" y2="18" /><line x1="7" x2="4" y1="17" y2="20" /><line x1="3" x2="5" y1="19" y2="21" />
+    </svg>
+  );
+
+  const IconZap = ({ className = 'w-5 h-5' }: { className?: string }) => (
+    <svg className={className} viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round">
+      <polygon points="13 2 3 14 12 14 11 22 21 10 12 10 13 2" />
+    </svg>
+  );
+
+  const IconShield = ({ className = 'w-5 h-5' }: { className?: string }) => (
+    <svg className={className} viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round">
+      <path d="M20 13c0 5-3.5 7.5-7.66 8.95a1 1 0 0 1-.67-.01C7.5 20.5 4 18 4 13V6a1 1 0 0 1 1-1c2 0 4.5-1.2 6.24-2.72a1.17 1.17 0 0 1 1.52 0C14.51 3.81 17 5 19 5a1 1 0 0 1 1 1z" />
+    </svg>
+  );
+
+  const IconTrophy = ({ className = 'w-5 h-5' }: { className?: string }) => (
+    <svg className={className} viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round">
+      <path d="M6 9H4.5a2.5 2.5 0 0 1 0-5H6" /><path d="M18 9h1.5a2.5 2.5 0 0 0 0-5H18" /><path d="M4 22h16" /><path d="M10 14.66V17c0 .55-.47.98-.97 1.21C7.85 18.75 7 20.24 7 22" /><path d="M14 14.66V17c0 .55.47.98.97 1.21C16.15 18.75 17 20.24 17 22" /><path d="M18 2H6v7a6 6 0 0 0 12 0V2Z" />
+    </svg>
+  );
+
+  // Map subjects to clean SVG icons
+  const subjectIcons: Record<string, React.ReactNode> = {
+    Science: <svg className="w-6 h-6" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="1.5"><path d="M9 3v6l-4 8h14l-4-8V3" strokeLinecap="round" strokeLinejoin="round" /><line x1="8" x2="16" y1="3" y2="3" strokeLinecap="round" /><circle cx="12" cy="15" r="1" fill="currentColor" /></svg>,
+    Mathematics: <svg className="w-6 h-6" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="1.5" strokeLinecap="round"><path d="M4 12h16M12 4v16M7 7l10 10M17 7 7 17" /></svg>,
+    Accountancy: <svg className="w-6 h-6" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="1.5" strokeLinecap="round" strokeLinejoin="round"><rect x="2" y="3" width="20" height="18" rx="2" /><line x1="8" x2="8" y1="7" y2="17" /><line x1="16" x2="16" y1="7" y2="17" /><line x1="2" x2="22" y1="12" y2="12" /></svg>,
+    Economics: <svg className="w-6 h-6" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="1.5" strokeLinecap="round" strokeLinejoin="round"><polyline points="22 12 18 12 15 21 9 3 6 12 2 12" /></svg>,
+    English: <svg className="w-6 h-6" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="1.5" strokeLinecap="round" strokeLinejoin="round"><path d="M4 19.5v-15A2.5 2.5 0 0 1 6.5 2H20v20H6.5a2.5 2.5 0 0 1 0-5H20" /></svg>,
+    'Social Studies': <svg className="w-6 h-6" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="1.5" strokeLinecap="round" strokeLinejoin="round"><circle cx="12" cy="12" r="10" /><path d="M12 2a14.5 14.5 0 0 0 0 20 14.5 14.5 0 0 0 0-20" /><path d="M2 12h20" /></svg>,
+  };
+
   return (
-    <div className="min-h-screen bg-[#070A13] text-slate-100 flex flex-col justify-between">
+    <div className="min-h-screen bg-[#0b1329] text-slate-100 flex flex-col justify-between">
       <Navbar />
 
       <main className="max-w-6xl mx-auto px-4 sm:px-6 py-8 sm:py-12 flex-1 w-full">
         {/* Arena Hero Header */}
-        <div className="text-center space-y-3 mb-10">
-          <div className="inline-flex items-center gap-2 px-3.5 py-1 rounded-full bg-rose-950/80 border-2 border-rose-500/80 text-rose-300 text-xs font-black tracking-wider uppercase shadow-[0_0_15px_rgba(244,63,94,0.3)]">
-            <span>👾 High-Stakes Arcade Mode</span>
+        <div className="text-center space-y-4 mb-12">
+          <div className="inline-flex items-center gap-2 px-4 py-1.5 rounded-full border border-rose-500/30 bg-rose-500/10 text-rose-400 text-xs font-semibold tracking-widest uppercase">
+            <span className="w-2 h-2 rounded-full bg-rose-400 animate-pulse" />
+            <span>High-Stakes Arcade Mode</span>
           </div>
 
-          <h1 className="text-3xl sm:text-5xl font-black text-white tracking-tight">
-            Chapter <span className="text-transparent bg-clip-text bg-gradient-to-r from-teal-400 via-emerald-400 to-cyan-300">Boss Fight Arena</span>
+          <h1 className="text-3xl sm:text-5xl font-bold text-white tracking-tight">
+            Chapter <span className="text-transparent bg-clip-text bg-gradient-to-r from-[#00df9a] via-emerald-400 to-cyan-300">Boss Fight Arena</span>
           </h1>
 
-          <p className="text-sm sm:text-base text-slate-300 max-w-2xl mx-auto font-medium">
-            Standard MCQs are boring. Battle animated <strong>Chapter Bosses</strong> with your NCERT mastery. Deal critical damage with correct answers, protect your <strong>3 Hearts</strong>, and earn Mythic XP!
+          <p className="text-sm sm:text-base text-slate-400 max-w-2xl mx-auto leading-relaxed">
+            Standard MCQs are boring. Battle <strong className="text-slate-300">Chapter Bosses</strong> with your NCERT mastery. Deal critical damage with correct answers, protect your <strong className="text-slate-300">3 Hearts</strong>, and earn Mythic XP.
           </p>
         </div>
 
         {/* Boss Grid */}
-        <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6">
+        <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-5">
           {BOSS_ROSTER.map((boss) => (
             <motion.div
               key={boss.name}
               whileHover={{ y: -4 }}
-              className="bg-slate-900/90 border-2 border-slate-700 hover:border-white rounded-3xl p-6 shadow-[5px_5px_0px_0px_rgba(255,255,255,0.08)] flex flex-col justify-between transition-all relative overflow-hidden group"
-              style={{
-                boxShadow: '4px 4px 0px 0px rgba(255,255,255,0.1)',
-              }}
+              className="bg-slate-900/60 backdrop-blur-md border border-slate-700/50 hover:border-slate-600 hover:shadow-2xl hover:shadow-[#00df9a]/5 rounded-2xl p-6 flex flex-col justify-between transition-all duration-300 relative overflow-hidden group"
             >
               {/* Background Ambient Glow */}
               <div
-                className="absolute top-0 right-0 w-32 h-32 rounded-full blur-3xl pointer-events-none opacity-40 group-hover:opacity-70 transition-opacity"
+                className="absolute top-0 right-0 w-28 h-28 rounded-full blur-3xl pointer-events-none opacity-20 group-hover:opacity-40 transition-opacity duration-500"
                 style={{ backgroundColor: boss.color }}
               />
 
               <div className="space-y-4 relative z-10">
-                {/* Boss Avatar & Class Tag */}
+                {/* Boss Icon & Class Tag */}
                 <div className="flex items-center justify-between">
-                  <div className="w-14 h-14 rounded-2xl bg-slate-950 border-2 border-slate-700 flex items-center justify-center text-3xl shadow-inner group-hover:scale-110 transition-transform">
-                    {boss.avatar}
+                  <div
+                    className="w-12 h-12 rounded-xl flex items-center justify-center group-hover:scale-105 transition-transform duration-300"
+                    style={{ background: `${boss.color}15`, color: boss.color, border: `1px solid ${boss.color}30` }}
+                  >
+                    {subjectIcons[boss.subject] || <IconSwords className="w-6 h-6" />}
                   </div>
-                  <div className="text-right">
-                    <span className="text-[10px] font-black uppercase tracking-wider px-2.5 py-1 rounded-full bg-slate-800 border border-slate-600 text-slate-300">
-                      {boss.className} • {boss.subject}
+                  <div className="text-right space-y-1">
+                    <span className="text-[10px] font-semibold uppercase tracking-widest px-2.5 py-1 rounded-md bg-slate-800/80 border border-slate-700/50 text-slate-400">
+                      {boss.className} · {boss.subject}
                     </span>
-                    <div className="text-xs font-bold text-rose-400 mt-1">HP: {boss.maxHp}</div>
+                    <div className="text-xs font-mono font-semibold text-rose-400 tracking-wide">
+                      HP: {boss.maxHp}
+                    </div>
                   </div>
                 </div>
 
                 {/* Boss Details */}
-                <div>
-                  <h3 className="text-lg font-black text-white tracking-tight group-hover:text-teal-300 transition-colors">
+                <div className="space-y-1.5">
+                  <h3 className="text-base font-bold text-white tracking-tight group-hover:text-[#00df9a] transition-colors duration-300">
                     {boss.name}
                   </h3>
-                  <p className="text-xs font-semibold text-slate-400 mb-2">{boss.title}</p>
-                  <p className="text-xs text-slate-300 leading-relaxed">{boss.description}</p>
+                  <p className="text-[11px] font-medium text-slate-500">{boss.title}</p>
+                  <p className="text-xs text-slate-400 leading-relaxed">{boss.description}</p>
+                </div>
+
+                {/* Mini HP Bar */}
+                <div className="h-1 rounded-full overflow-hidden bg-slate-800">
+                  <div
+                    className="h-full rounded-full w-full transition-all duration-500"
+                    style={{ background: `linear-gradient(to right, ${boss.color}, ${boss.color}80)` }}
+                  />
                 </div>
               </div>
 
               {/* Combat Launch Button */}
-              <div className="mt-6 pt-4 border-t border-slate-800/80 relative z-10">
+              <div className="mt-5 pt-4 border-t border-slate-800/60 relative z-10">
                 <button
                   onClick={() => startBossBattle(boss)}
                   disabled={loading}
-                  className="w-full btn-pill bg-[#0D9488] hover:bg-[#0F766E] text-white font-black text-xs py-3 rounded-2xl border-2 border-white shadow-[2px_2px_0px_0px_#FFFFFF] cursor-pointer transition-transform hover:-translate-y-0.5 active:translate-x-0.5 active:translate-y-0.5 flex items-center justify-center gap-2"
+                  className="w-full bg-gradient-to-r from-teal-600 to-emerald-600 hover:from-teal-500 hover:to-emerald-500 text-white font-bold text-xs py-3 rounded-xl cursor-pointer transition-all duration-200 hover:-translate-y-0.5 active:translate-y-0 flex items-center justify-center gap-2 disabled:opacity-50 disabled:cursor-not-allowed"
                 >
-                  <span>⚔️ FIGHT BOSS</span>
-                  <span className="text-teal-200">({boss.maxHp} HP)</span>
+                  <IconSwords className="w-4 h-4" />
+                  <span>FIGHT BOSS</span>
+                  <span className="text-emerald-200 font-mono">({boss.maxHp} HP)</span>
                 </button>
               </div>
             </motion.div>
           ))}
         </div>
 
-        {/* Arena Rules & Rewards Info Card */}
-        <div className="mt-12 bg-slate-900/60 border-2 border-slate-800 rounded-3xl p-6 sm:p-8 max-w-4xl mx-auto space-y-4">
-          <h4 className="text-base font-black text-white uppercase tracking-wider flex items-center gap-2">
-            <span>⚡ Boss Fight Combat Rules:</span>
+        {/* Arena Rules & Rewards */}
+        <div className="mt-12 bg-slate-900/40 border border-slate-800/60 rounded-2xl p-6 sm:p-8 max-w-4xl mx-auto space-y-5">
+          <h4 className="text-sm font-semibold text-slate-300 uppercase tracking-wider flex items-center gap-2">
+            <IconZap className="w-4 h-4 text-[#00df9a]" />
+            Combat Rules
           </h4>
-          <div className="grid grid-cols-1 sm:grid-cols-3 gap-4 text-xs font-semibold text-slate-300">
-            <div className="bg-slate-950 p-4 rounded-2xl border border-slate-800 space-y-1">
-              <div className="font-black text-teal-400">💥 Deal Critical Damage:</div>
-              <div>Answer quickly (&lt;6s) or stack 2x+ Combos to deal up to <strong>-350 HP</strong> damage per question.</div>
+          <div className="grid grid-cols-1 sm:grid-cols-3 gap-4 text-xs font-medium text-slate-400">
+            <div className="bg-slate-950/60 p-4 rounded-xl border border-slate-800/50 space-y-2">
+              <div className="flex items-center gap-2 font-semibold text-[#00df9a]">
+                <IconZap className="w-3.5 h-3.5" />
+                Deal Critical Damage
+              </div>
+              <div className="leading-relaxed">Answer quickly (&lt;6s) or stack 2x+ Combos to deal up to <strong className="text-slate-300">-350 HP</strong> damage per question.</div>
             </div>
-            <div className="bg-slate-950 p-4 rounded-2xl border border-slate-800 space-y-1">
-              <div className="font-black text-rose-400">❤️❤️❤️ Protect Your Lives:</div>
-              <div>Wrong answers trigger Boss counter-attacks and deplete 1 Heart. 3 mistakes = Defeat!</div>
+            <div className="bg-slate-950/60 p-4 rounded-xl border border-slate-800/50 space-y-2">
+              <div className="flex items-center gap-2 font-semibold text-rose-400">
+                <IconShield className="w-3.5 h-3.5" />
+                Protect Your Lives
+              </div>
+              <div className="leading-relaxed">Wrong answers trigger Boss counter-attacks and deplete 1 Heart. 3 mistakes = Defeat!</div>
             </div>
-            <div className="bg-slate-950 p-4 rounded-2xl border border-slate-800 space-y-1">
-              <div className="font-black text-amber-400">🏆 Boss Slayer Rewards:</div>
-              <div>Defeating a boss awards <strong>+150 Bonus XP</strong> and elevates your Leaderboard standing.</div>
+            <div className="bg-slate-950/60 p-4 rounded-xl border border-slate-800/50 space-y-2">
+              <div className="flex items-center gap-2 font-semibold text-amber-400">
+                <IconTrophy className="w-3.5 h-3.5" />
+                Boss Slayer Rewards
+              </div>
+              <div className="leading-relaxed">Defeating a boss awards <strong className="text-slate-300">+150 Bonus XP</strong> and elevates your Leaderboard standing.</div>
             </div>
           </div>
         </div>
       </main>
 
       {/* Footer */}
-      <footer className="border-t border-slate-800 py-6 text-center text-xs text-slate-400">
-        EduVerse Boss Fight Engine • Class 8 to 12 NCERT Mastery
+      <footer className="border-t border-slate-800/50 py-6 text-center text-xs text-slate-500">
+        EduVerse Boss Fight Engine · Class 8 to 12 NCERT Mastery
       </footer>
     </div>
   );
