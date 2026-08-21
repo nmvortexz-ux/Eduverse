@@ -96,9 +96,17 @@ export default function Footer() {
         {/* ── Polished Bottom Copyright Strip ── */}
         <div className="pt-6 border-t border-slate-800/60 flex flex-col sm:flex-row items-center justify-between gap-4 text-xs font-medium text-slate-500">
           <p>© 2026 EduVerse. All rights reserved.</p>
-          <p className="hover:text-slate-300 transition-colors cursor-default">
-            Designed & Developed by Ved
-          </p>
+          <div className="flex items-center gap-4">
+            <Link href="/terms" className="hover:text-[#00df9a] transition-colors">
+              Terms of Service
+            </Link>
+            <span>&middot;</span>
+            <Link href="/privacy" className="hover:text-[#00df9a] transition-colors">
+              Privacy Policy
+            </Link>
+            <span>&middot;</span>
+            <span className="text-slate-600">Built by Ved</span>
+          </div>
         </div>
 
       </div>
