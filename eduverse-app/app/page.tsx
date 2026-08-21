@@ -5,25 +5,111 @@ import Link from 'next/link';
 import Navbar from '@/components/Navbar';
 import Footer from '@/components/Footer';
 
+// ─── Inline SVG Icons ────────────────────────────────────────────────────────
+function IconFlask({ className = 'w-6 h-6' }: { className?: string }) {
+  return (
+    <svg className={className} viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="1.5" strokeLinecap="round" strokeLinejoin="round">
+      <path d="M9 3v6l-4 8h14l-4-8V3" /><line x1="8" x2="16" y1="3" y2="3" /><circle cx="12" cy="15" r="1" fill="currentColor" />
+    </svg>
+  );
+}
+function IconCalculator({ className = 'w-6 h-6' }: { className?: string }) {
+  return (
+    <svg className={className} viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="1.5" strokeLinecap="round" strokeLinejoin="round">
+      <rect x="4" y="2" width="16" height="20" rx="2" /><line x1="8" x2="16" y1="6" y2="6" /><line x1="8" x2="8.01" y1="10" y2="10" /><line x1="12" x2="12.01" y1="10" y2="10" /><line x1="16" x2="16.01" y1="10" y2="10" /><line x1="8" x2="8.01" y1="14" y2="14" /><line x1="12" x2="12.01" y1="14" y2="14" /><line x1="16" x2="16.01" y1="14" y2="14" /><line x1="8" x2="8.01" y1="18" y2="18" /><line x1="12" x2="16" y1="18" y2="18" />
+    </svg>
+  );
+}
+function IconBookOpen({ className = 'w-6 h-6' }: { className?: string }) {
+  return (
+    <svg className={className} viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="1.5" strokeLinecap="round" strokeLinejoin="round">
+      <path d="M2 3h6a4 4 0 0 1 4 4v14a3 3 0 0 0-3-3H2z" /><path d="M22 3h-6a4 4 0 0 0-4 4v14a3 3 0 0 1 3-3h7z" />
+    </svg>
+  );
+}
+function IconLanguages({ className = 'w-6 h-6' }: { className?: string }) {
+  return (
+    <svg className={className} viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="1.5" strokeLinecap="round" strokeLinejoin="round">
+      <path d="m5 8 6 6" /><path d="m4 14 6-6 2-3" /><path d="M2 5h12" /><path d="M7 2h1" /><path d="m22 22-5-10-5 10" /><path d="M14 18h6" />
+    </svg>
+  );
+}
+function IconGlobe({ className = 'w-6 h-6' }: { className?: string }) {
+  return (
+    <svg className={className} viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="1.5" strokeLinecap="round" strokeLinejoin="round">
+      <circle cx="12" cy="12" r="10" /><path d="M12 2a14.5 14.5 0 0 0 0 20 14.5 14.5 0 0 0 0-20" /><path d="M2 12h20" />
+    </svg>
+  );
+}
+function IconLandmark({ className = 'w-6 h-6' }: { className?: string }) {
+  return (
+    <svg className={className} viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="1.5" strokeLinecap="round" strokeLinejoin="round">
+      <line x1="3" x2="21" y1="22" y2="22" /><line x1="6" x2="6" y1="18" y2="11" /><line x1="10" x2="10" y1="18" y2="11" /><line x1="14" x2="14" y1="18" y2="11" /><line x1="18" x2="18" y1="18" y2="11" /><polygon points="12 2 20 7 4 7" />
+    </svg>
+  );
+}
+function IconLedger({ className = 'w-6 h-6' }: { className?: string }) {
+  return (
+    <svg className={className} viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="1.5" strokeLinecap="round" strokeLinejoin="round">
+      <rect x="2" y="3" width="20" height="18" rx="2" /><line x1="8" x2="8" y1="7" y2="17" /><line x1="16" x2="16" y1="7" y2="17" /><line x1="2" x2="22" y1="12" y2="12" />
+    </svg>
+  );
+}
+function IconBriefcase({ className = 'w-6 h-6' }: { className?: string }) {
+  return (
+    <svg className={className} viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="1.5" strokeLinecap="round" strokeLinejoin="round">
+      <rect width="20" height="14" x="2" y="7" rx="2" /><path d="M16 21V5a2 2 0 0 0-2-2h-4a2 2 0 0 0-2 2v16" />
+    </svg>
+  );
+}
+function IconTrendingUp({ className = 'w-6 h-6' }: { className?: string }) {
+  return (
+    <svg className={className} viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="1.5" strokeLinecap="round" strokeLinejoin="round">
+      <polyline points="22 7 13.5 15.5 8.5 10.5 2 17" /><polyline points="16 7 22 7 22 13" />
+    </svg>
+  );
+}
+function IconBarChart({ className = 'w-6 h-6' }: { className?: string }) {
+  return (
+    <svg className={className} viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="1.5" strokeLinecap="round" strokeLinejoin="round">
+      <line x1="12" x2="12" y1="20" y2="10" /><line x1="18" x2="18" y1="20" y2="4" /><line x1="6" x2="6" y1="20" y2="16" />
+    </svg>
+  );
+}
+function IconTrophy({ className = 'w-6 h-6' }: { className?: string }) {
+  return (
+    <svg className={className} viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="1.5" strokeLinecap="round" strokeLinejoin="round">
+      <path d="M6 9H4.5a2.5 2.5 0 0 1 0-5H6" /><path d="M18 9h1.5a2.5 2.5 0 0 0 0-5H18" /><path d="M4 22h16" /><path d="M10 14.66V17c0 .55-.47.98-.97 1.21C7.85 18.75 7 20.24 7 22" /><path d="M14 14.66V17c0 .55.47.98.97 1.21C16.15 18.75 17 20.24 17 22" /><path d="M18 2H6v7a6 6 0 0 0 12 0V2Z" />
+    </svg>
+  );
+}
+function IconArrowRight({ className = 'w-4 h-4' }: { className?: string }) {
+  return (
+    <svg className={className} viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round">
+      <path d="M5 12h14" /><path d="m12 5 7 7-7 7" />
+    </svg>
+  );
+}
+
 // ─── Class Toggle Options ──────────────────────────────────────────────────────
 const classes = ['Class 8', 'Class 9', 'Class 10', 'Class 11', 'Class 12'];
 
-// ─── Subject cards per class stream (Retro-Pop Vibrant Colors on Dark) ───────────
+// ─── Subject card data with accent colors and icon components ─────────────────
 const defaultSubjects = [
-  { id: 'science',  label: 'Science',        emoji: '🔬', bg: '#064E3B', border: '#34D399', textColor: '#A7F3D0', btnBg: '#059669' },
-  { id: 'math',     label: 'Mathematics',    emoji: '📐', bg: '#881337', border: '#FB7185', textColor: '#FECDD3', btnBg: '#E11D48' },
-  { id: 'english',  label: 'English',        emoji: '📖', bg: '#78350F', border: '#FBBF24', textColor: '#FDE68A', btnBg: '#D97706' },
-  { id: 'hindi',    label: 'Hindi Grammar',  emoji: '🅰️', bg: '#581C87', border: '#C084FC', textColor: '#E9D5FF', btnBg: '#9333EA' },
-  { id: 'gk',       label: 'GK',             emoji: '🌍', bg: '#0C4A6E', border: '#38BDF8', textColor: '#BAE6FD', btnBg: '#0284C7' },
-  { id: 'social',   label: 'Social Studies', emoji: '🏛️', bg: '#064E3B', border: '#34D399', textColor: '#A7F3D0', btnBg: '#059669' },
+  { id: 'science',  label: 'Science',       accent: '#10B981', icon: <IconFlask /> },
+  { id: 'math',     label: 'Mathematics',   accent: '#F43F5E', icon: <IconCalculator /> },
+  { id: 'english',  label: 'English',       accent: '#F59E0B', icon: <IconBookOpen /> },
+  { id: 'hindi',    label: 'Hindi Grammar', accent: '#A855F7', icon: <IconLanguages /> },
+  { id: 'gk',       label: 'GK',            accent: '#3B82F6', icon: <IconGlobe /> },
+  { id: 'social',   label: 'Social Studies',accent: '#14B8A6', icon: <IconLandmark /> },
 ];
 
 const commerceSubjects = [
-  { id: 'accountancy', label: 'Accountancy',      emoji: '📊', bg: '#0C4A6E', border: '#38BDF8', textColor: '#BAE6FD', btnBg: '#0284C7' },
-  { id: 'business',    label: 'Business Studies', emoji: '💼', bg: '#7C2D12', border: '#FB923C', textColor: '#FED7AA', btnBg: '#EA580C' },
-  { id: 'economics',   label: 'Economics',        emoji: '📈', bg: '#064E3B', border: '#34D399', textColor: '#A7F3D0', btnBg: '#059669' },
-  { id: 'english',     label: 'English',          emoji: '📖', bg: '#78350F', border: '#FBBF24', textColor: '#FDE68A', btnBg: '#D97706' },
-  { id: 'gk',          label: 'GK',               emoji: '🌍', bg: '#581C87', border: '#C084FC', textColor: '#E9D5FF', btnBg: '#9333EA' },
+  { id: 'accountancy', label: 'Accountancy',      accent: '#3B82F6', icon: <IconLedger /> },
+  { id: 'business',    label: 'Business Studies',  accent: '#F97316', icon: <IconBriefcase /> },
+  { id: 'economics',   label: 'Economics',         accent: '#10B981', icon: <IconTrendingUp /> },
+  { id: 'english',     label: 'English',           accent: '#F59E0B', icon: <IconBookOpen /> },
+  { id: 'gk',          label: 'GK',                accent: '#A855F7', icon: <IconGlobe /> },
 ];
 
 export default function HomePage() {
@@ -49,13 +135,13 @@ export default function HomePage() {
   const activeSubjects = isCommerceClass ? commerceSubjects : defaultSubjects;
 
   return (
-    <div className="min-h-screen text-slate-100" style={{ background: '#0B0F19', fontFamily: "'Nunito', sans-serif" }}>
+    <div className="min-h-screen text-slate-100 bg-[#0b1329]">
       <Navbar />
 
       <main className="max-w-5xl mx-auto px-4 py-10 space-y-12">
 
         {/* ── Modern Professional Hero Section ── */}
-        <section className="rounded-3xl p-8 sm:p-14 text-center space-y-6 relative overflow-hidden bg-gradient-to-b from-slate-900 to-slate-950 border border-slate-800 shadow-2xl shadow-emerald-900/10">
+        <section className="rounded-2xl p-8 sm:p-14 text-center space-y-6 relative overflow-hidden bg-gradient-to-b from-slate-900 to-slate-950 border border-slate-800 shadow-2xl shadow-emerald-900/10">
           
           {/* Header Pill */}
           <div className="inline-flex items-center justify-center">
@@ -87,21 +173,21 @@ export default function HomePage() {
         <section className="space-y-6">
           <div className="flex flex-col sm:flex-row items-center justify-between gap-4">
             <div>
-              <div className="flex items-center gap-2">
-                <h2 className="section-heading text-2xl text-white">Select Your Subject</h2>
+              <div className="flex items-center gap-3">
+                <h2 className="text-xl font-bold text-white tracking-tight">Select Your Subject</h2>
                 {isCommerceClass && (
-                  <span className="text-xs font-black px-3 py-1 rounded-full bg-blue-950 text-blue-300 border border-blue-400">
-                    Commerce Stream 💼
+                  <span className="text-[10px] font-semibold px-3 py-1 rounded-full bg-blue-500/10 text-blue-400 border border-blue-500/20 uppercase tracking-wider">
+                    Commerce Stream
                   </span>
                 )}
               </div>
-              <p className="text-xs font-bold text-slate-400 mt-1">
+              <p className="text-xs font-medium text-slate-500 mt-1">
                 Click any subject card to configure &amp; start your quiz immediately.
               </p>
             </div>
 
             {/* Class Toggle Pills */}
-            <div className="flex items-center gap-2 flex-wrap">
+            <div className="flex items-center gap-1.5 flex-wrap bg-slate-900/80 p-1 rounded-xl border border-slate-800/50">
               {classes.map((cls) => {
                 const isSelected = selectedClass === cls;
                 return (
@@ -109,13 +195,11 @@ export default function HomePage() {
                     key={cls}
                     id={`class-toggle-${cls.replace(' ', '-').toLowerCase()}`}
                     onClick={() => setSelectedClass(cls)}
-                    className="btn-pill text-xs font-black py-2 px-4 transition-all hover:-translate-y-0.5 active:translate-x-0.5 active:translate-y-0.5"
-                    style={{
-                      background: isSelected ? '#14B8A6' : '#1E293B',
-                      color:      isSelected ? '#0B0F19' : '#F8FAFC',
-                      boxShadow:  isSelected ? '3px 3px 0px 0px #FFFFFF' : '2px 2px 0px 0px #FFFFFF',
-                      borderColor:'#FFFFFF',
-                    }}
+                    className={`text-xs font-semibold py-2 px-4 rounded-lg transition-all duration-200 cursor-pointer ${
+                      isSelected
+                        ? 'bg-[#00df9a]/10 text-[#00df9a] border border-[#00df9a]/30'
+                        : 'bg-transparent text-slate-400 border border-transparent hover:bg-slate-800 hover:text-slate-200'
+                    }`}
                     aria-pressed={isSelected}
                     aria-label={`Filter by ${cls}`}
                   >
@@ -126,47 +210,44 @@ export default function HomePage() {
             </div>
           </div>
 
-          {/* 1-Click Vibrant Subject Cards Grid with Retro Dark Shadows */}
+          {/* Subject Cards Grid */}
           <div className="grid grid-cols-2 sm:grid-cols-3 gap-4">
             {activeSubjects.map((s) => (
               <Link
                 key={s.id}
                 href={`/configure?class=${encodeURIComponent(selectedClass)}&subject=${encodeURIComponent(s.label)}`}
                 id={`subject-card-${s.id}`}
-                className="rounded-3xl p-6 flex flex-col items-center text-center gap-3.5 transition-all duration-200 hover:-translate-y-1.5 group"
-                style={{
-                  background: s.bg,
-                  border: `3px solid #FFFFFF`,
-                  boxShadow: `5px 5px 0px 0px #FFFFFF`,
-                }}
+                className="rounded-2xl p-6 flex flex-col items-center text-center gap-4 transition-all duration-300 hover:-translate-y-1 hover:shadow-2xl hover:border-slate-600 bg-slate-900/60 backdrop-blur-sm border border-slate-800 group relative overflow-hidden"
                 aria-label={`Practice ${s.label} for ${selectedClass}`}
               >
+                {/* Accent top border */}
+                <div className="absolute top-0 left-0 right-0 h-[2px]" style={{ background: s.accent }} />
+                
+                {/* Subtle radial glow on hover */}
                 <div
-                  className="w-16 h-16 rounded-2xl flex items-center justify-center text-3xl group-hover:scale-110 transition-transform shadow-[2px_2px_0px_0px_rgba(0,0,0,0.5)]"
-                  style={{ background: '#0F172A', border: `2px solid ${s.border}` }}
+                  className="absolute top-0 left-1/2 -translate-x-1/2 w-32 h-32 rounded-full blur-3xl pointer-events-none opacity-0 group-hover:opacity-20 transition-opacity duration-500"
+                  style={{ background: s.accent }}
+                />
+
+                <div
+                  className="w-14 h-14 rounded-xl flex items-center justify-center group-hover:scale-105 transition-transform duration-300 relative z-10"
+                  style={{ background: `${s.accent}10`, color: s.accent, border: `1px solid ${s.accent}25` }}
                 >
-                  {s.emoji}
+                  {s.icon}
                 </div>
-                <div>
-                  <h3
-                    className="text-lg font-black leading-tight text-white"
-                    style={{ fontFamily: "'Space Grotesk', sans-serif" }}
-                  >
+                <div className="relative z-10">
+                  <h3 className="text-base font-bold text-slate-100 leading-tight tracking-tight">
                     {s.label}
                   </h3>
-                  <p className="text-xs font-bold text-slate-300 mt-0.5">
+                  <p className="text-[10px] font-medium text-slate-500 mt-1 uppercase tracking-widest">
                     {selectedClass}
                   </p>
                 </div>
                 <span
-                  className="btn-pill text-xs py-1.5 px-5 font-black mt-1 text-white transition-all group-hover:scale-105"
-                  style={{
-                    background: s.btnBg,
-                    border: '2px solid #FFFFFF',
-                    boxShadow: '2px 2px 0px 0px #FFFFFF',
-                  }}
+                  className="relative z-10 text-xs font-semibold py-2 px-5 rounded-lg border border-slate-700 text-slate-400 transition-all duration-300 group-hover:text-white group-hover:border-slate-500 group-hover:bg-white/5 inline-flex items-center gap-1.5"
                 >
-                  Start Quiz →
+                  Start Quiz
+                  <IconArrowRight className="w-3.5 h-3.5 group-hover:translate-x-0.5 transition-transform duration-300" />
                 </span>
               </Link>
             ))}
@@ -177,17 +258,16 @@ export default function HomePage() {
         <section className="grid grid-cols-1 sm:grid-cols-2 gap-4 pt-2">
           <Link
             href="/dashboard"
-            className="rounded-3xl p-6 flex items-center gap-4 transition-all hover:-translate-y-1"
-            style={{ background: '#1E293B', border: '3px solid #FFFFFF', boxShadow: '5px 5px 0px 0px #FFFFFF' }}
+            className="rounded-2xl p-6 flex items-center gap-4 transition-all duration-300 hover:-translate-y-1 hover:shadow-xl hover:border-slate-600 bg-slate-900/60 border border-slate-800 group"
           >
-            <div className="w-14 h-14 rounded-2xl flex items-center justify-center text-3xl text-white bg-blue-600 border-2 border-white flex-shrink-0 shadow-[2px_2px_0px_0px_#FFFFFF]">
-              📊
+            <div className="w-12 h-12 rounded-xl flex items-center justify-center flex-shrink-0 bg-blue-500/10 text-blue-400 border border-blue-500/20 group-hover:scale-105 transition-transform">
+              <IconBarChart className="w-5 h-5" />
             </div>
             <div>
-              <h3 className="text-lg font-black text-white" style={{ fontFamily: "'Space Grotesk', sans-serif" }}>
+              <h3 className="text-base font-bold text-white">
                 Student Dashboard
               </h3>
-              <p className="text-xs font-bold text-slate-400 mt-1">
+              <p className="text-xs font-medium text-slate-500 mt-0.5">
                 Track accuracy, view XP progress, and retake previous attempts.
               </p>
             </div>
@@ -195,17 +275,16 @@ export default function HomePage() {
 
           <Link
             href="/leaderboard"
-            className="rounded-3xl p-6 flex items-center gap-4 transition-all hover:-translate-y-1"
-            style={{ background: '#1E293B', border: '3px solid #FFFFFF', boxShadow: '5px 5px 0px 0px #FFFFFF' }}
+            className="rounded-2xl p-6 flex items-center gap-4 transition-all duration-300 hover:-translate-y-1 hover:shadow-xl hover:border-slate-600 bg-slate-900/60 border border-slate-800 group"
           >
-            <div className="w-14 h-14 rounded-2xl flex items-center justify-center text-3xl text-white bg-amber-500 border-2 border-white flex-shrink-0 shadow-[2px_2px_0px_0px_#FFFFFF]">
-              🏆
+            <div className="w-12 h-12 rounded-xl flex items-center justify-center flex-shrink-0 bg-amber-500/10 text-amber-400 border border-amber-500/20 group-hover:scale-105 transition-transform">
+              <IconTrophy className="w-5 h-5" />
             </div>
             <div>
-              <h3 className="text-lg font-black text-white" style={{ fontFamily: "'Space Grotesk', sans-serif" }}>
+              <h3 className="text-base font-bold text-white">
                 Hall of Fame Leaderboard
               </h3>
-              <p className="text-xs font-bold text-slate-400 mt-1">
+              <p className="text-xs font-medium text-slate-500 mt-0.5">
                 Compete with classmates and earn achievement badges.
               </p>
             </div>
