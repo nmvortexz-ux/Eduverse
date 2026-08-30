@@ -1,0 +1,1667 @@
+[
+  {
+    "classLevel": 7,
+    "subject": "Science",
+    "chapter": "Nutrition in Plants",
+    "question": "The mode of nutrition in which organisms make food themselves from simple substances is called:",
+    "options": ["Heterotrophic nutrition", "Autotrophic nutrition", "Saprotrophic nutrition", "Parasitic nutrition"],
+    "correctAnswer": 1,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "In autotrophic nutrition (auto = self, trophos = nourishment), green plants synthesize their own food using sunlight, water, and carbon dioxide."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Science",
+    "chapter": "Nutrition in Plants",
+    "question": "The green pigment present in the leaves of plants that captures solar energy for photosynthesis is:",
+    "options": ["Hemoglobin", "Chlorophyll", "Carotene", "Anthocyanin"],
+    "correctAnswer": 1,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "Chlorophyll is the green pigment inside plant chloroplasts that traps light energy needed to drive photosynthesis."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Science",
+    "chapter": "Nutrition in Plants",
+    "question": "Tiny microscopic pores present on the surface of leaves through which gas exchange occurs are called:",
+    "options": ["Root hairs", "Stomata", "Lenticels", "Veins"],
+    "correctAnswer": 1,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "Stomata are surrounded by specialized guard cells that regulate the intake of carbon dioxide and release of oxygen and water vapour."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Science",
+    "chapter": "Nutrition in Plants",
+    "question": "Which non-green parasitic plant lacks chlorophyll and climbs on host trees to absorb readymade food?",
+    "options": ["Pitcher plant", "Cuscuta (Amarbel)", "Mushroom", "Lichen"],
+    "correctAnswer": 1,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "Cuscuta (Amarbel) is a complete stem parasite with yellow tubular tendrils that absorbs nutrients directly using haustorial roots."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Science",
+    "chapter": "Nutrition in Plants",
+    "question": "Fungi like mushrooms and bread mold obtain their nutrients from dead and decaying matter through:",
+    "options": ["Autotrophic nutrition", "Saprotrophic nutrition", "Holozoic nutrition", "Insectivorous nutrition"],
+    "correctAnswer": 1,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "Saprotrophic organisms secrete digestive juices onto dead organic matter and absorb the digested soluble nutrients."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Science",
+    "chapter": "Nutrition in Plants",
+    "question": "Which of the following is a classic example of an insectivorous (insect-eating) plant?",
+    "options": ["Cuscuta", "Pitcher plant (Nepenthes)", "Rose plant", "Banyan tree"],
+    "correctAnswer": 1,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "The pitcher plant has modified leaf lamina forming a pitfall trap to catch insects to supplement nitrogen deficiency."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Science",
+    "chapter": "Nutrition in Plants",
+    "question": "The symbiotic association between an alga and a fungus living together in close partnership is called a:",
+    "options": ["Mycelium", "Lichen", "Bacterium", "Protozoan"],
+    "correctAnswer": 1,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "In a lichen, the autotrophic alga synthesizes food while the heterotrophic fungus provides shelter, water, and minerals."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Science",
+    "chapter": "Nutrition in Plants",
+    "question": "Which bacterium lives in the root nodules of leguminous plants and fixes atmospheric nitrogen into soluble soil nitrates?",
+    "options": ["Lactobacillus", "Rhizobium", "E. coli", "Salmonella"],
+    "correctAnswer": 1,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "Rhizobium bacteria live symbiotically in pulse/legume root nodules, enriching the soil with bioavailable nitrogen."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Science",
+    "chapter": "Nutrition in Plants",
+    "question": "What is the primary carbohydrate food synthesized by plants during photosynthesis?",
+    "options": ["Glucose / Starch", "Fructose only", "Cellulose fiber", "Glycogen"],
+    "correctAnswer": 0,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "Photosynthesis initially produces simple glucose molecules, which are polymerized and stored in plant tissues as starch."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Science",
+    "chapter": "Nutrition in Plants",
+    "question": "What gas is released as a vital byproduct into the atmosphere during photosynthesis?",
+    "options": ["Carbon dioxide", "Oxygen", "Nitrogen", "Hydrogen"],
+    "correctAnswer": 1,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "During photosynthesis, light energy splits water molecules (photolysis), releasing oxygen gas (O2) into the air."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Science",
+    "chapter": "Nutrition in Plants",
+    "question": "Slimy, green floating patches commonly seen in stagnant ponds and ditches are formed by colonies of:",
+    "options": ["Fungi", "Algae", "Lichens", "Viruses"],
+    "correctAnswer": 1,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "Algae are simple photosynthetic aquatic autotrophs containing abundant chlorophyll, giving them a bright green appearance."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Science",
+    "chapter": "Nutrition in Plants",
+    "question": "Which chemical solution turns blue-black when dropped onto a leaf containing starch?",
+    "options": ["Copper sulphate", "Dilute Iodine solution", "Caustic soda", "Phenolphthalein"],
+    "correctAnswer": 1,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "Iodine reacts specifically with amylose starch molecules in plant leaves to form an intense dark blue-black complex."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Science",
+    "chapter": "Nutrition in Plants",
+    "question": "Why do insectivorous plants like the Pitcher plant trap and digest insects even though they are green and perform photosynthesis?",
+    "options": [
+      "They cannot absorb sunlight",
+      "They grow in nitrogen-deficient bogs and digest insects to fulfill their nitrogen requirements",
+      "They eat insects to drink water",
+      "They do not have roots"
+    ],
+    "correctAnswer": 1,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "These plants can synthesize sugars via photosynthesis, but require insect proteins to obtain vital nitrogen lacking in acidic swamp soil."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Science",
+    "chapter": "Nutrition in Plants",
+    "question": "How do water and dissolved minerals absorbed by roots reach the upper leaves of a tall plant?",
+    "options": [
+      "Through continuous pipe-like vascular vessels called xylem",
+      "By jumping between leaves",
+      "Through stomata from outside air",
+      "By turning into gas inside stems"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "Continuous vascular pipelines of xylem cells run like plumbing from root tips through the stem and branches into leaf veins."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Science",
+    "chapter": "Nutrition in Plants",
+    "question": "Why do leaves that are dark red, purple, or brown in color still carry out photosynthesis successfully?",
+    "options": [
+      "They do not need chlorophyll",
+      "They contain chlorophyll, but large amounts of red/brown masking pigments hide the green color",
+      "They absorb green light from other plants",
+      "They perform photosynthesis without light"
+    ],
+    "correctAnswer": 1,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "Variegated and deep-hued leaves (like Croton and Coleus) contain active chlorophyll underneath dominant anthocyanin pigments."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Science",
+    "chapter": "Nutrition in Plants",
+    "question": "What is the key difference between a Parasite (like Cuscuta) and a Saprotroph (like Mushroom)?",
+    "options": [
+      "Parasites live on/in a living host organism, while saprotrophs feed on dead and decaying matter",
+      "Parasites are always green",
+      "Saprotrophs make food by photosynthesis",
+      "Both are identical autotrophs"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "Parasites derive nutrition at the expense of a living host, whereas saprotrophs absorb nutrients from decomposing dead organic matter."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Science",
+    "chapter": "Nutrition in Plants",
+    "question": "Why do farmers grow leguminous crops (like gram, peas, and pulses) alternately with cereal crops in crop rotation?",
+    "options": [
+      "To attract birds",
+      "Rhizobium in legume roots naturally enriches soil with nitrogen, reducing the need for synthetic nitrogenous fertilizers",
+      "Legumes need zero water",
+      "To make the field look colorful"
+    ],
+    "correctAnswer": 1,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "Symbiotic biological nitrogen fixation by Rhizobium restores natural soil nitrate fertility after nitrogen-heavy cereal harvests."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Science",
+    "chapter": "Nutrition in Plants",
+    "question": "When a slice of moist bread is kept inside a warm closed box for 3 days, fluffy cotton-like patches appear. These patches are:",
+    "options": ["Algal colonies", "Fungal mycelium (Bread mold)", "Bacterial crystals", "Sprouted seeds"],
+    "correctAnswer": 1,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "Airborne fungal spores germinate on warm moist bread, growing into a vegetative web of thread-like hyphae (mold)."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Science",
+    "chapter": "Nutrition in Plants",
+    "question": "What is the exact chemical word equation for photosynthesis?",
+    "options": [
+      "Carbon dioxide + Water —(Sunlight/Chlorophyll)→ Carbohydrate (Glucose) + Oxygen",
+      "Oxygen + Glucose —→ Carbon dioxide + Water + Energy",
+      "Nitrogen + Water —→ Protein + Hydrogen",
+      "Carbon dioxide + Oxygen —→ Starch + Heat"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "Carbon dioxide and water combine chemically under solar radiation captured by chlorophyll to synthesize glucose and release O2."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Science",
+    "chapter": "Nutrition in Plants",
+    "question": "How do desert plants like Cactus (Opuntia) adapt their photosynthetic organs to conserve water?",
+    "options": [
+      "They carry out photosynthesis in their swollen green stems while leaves are reduced to spines",
+      "They do not perform photosynthesis",
+      "They absorb food directly from dry sand",
+      "Their roots perform photosynthesis"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "In xerophytes, leaf spines prevent transpiration, and the succulent cladode stem contains chlorophyll to synthesize food."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Science",
+    "chapter": "Nutrition in Plants",
+    "question": "In a symbiotic relationship, what two essential benefits does the fungus provide to the photosynthetic alga in lichens?",
+    "options": [
+      "Protection/shelter, water, and absorbed mineral nutrients",
+      "Sunlight and carbon dioxide only",
+      "Seeds and flowers",
+      "Heat and electricity"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "The fungal mycelium anchors the organism, retains moisture, and absorbs minerals, while the algal symbiont produces carbohydrates."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Science",
+    "chapter": "Nutrition in Plants",
+    "question": "Why can plants NOT utilize the abundant 78% nitrogen gas present directly in the air?",
+    "options": [
+      "Nitrogen gas is toxic to plants",
+      "Plants cannot absorb gaseous N2 directly; they require it in water-soluble form (nitrates/nitrites) via soil",
+      "Nitrogen does not dissolve in water",
+      "Air nitrogen has no mass"
+    ],
+    "correctAnswer": 1,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "The strong triple covalent bond in atmospheric N2 cannot be cleaved by plant cells; they depend on nitrogen-fixing bacteria to convert it to nitrates."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Science",
+    "chapter": "Nutrition in Plants",
+    "question": "How does the trapping mechanism of a Pitcher plant operate when an insect lands on its rim?",
+    "options": [
+      "The pitcher shoots sticky venom",
+      "The insect slips down downward-pointing hairs into the pitcher cavity, the lid closes, and digestive juices digest it",
+      "The pitcher explodes",
+      "The roots pull the insect underground"
+    ],
+    "correctAnswer": 1,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "Slick peristome wax and downward-directed internal hairs trap prey in the digestive fluid pool containing proteolytic enzymes."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Science",
+    "chapter": "Nutrition in Plants",
+    "question": "Which of the following cellular components is called the 'kitchen of the plant cell'?",
+    "options": ["Mitochondria", "Chloroplast", "Nucleus", "Cell wall"],
+    "correctAnswer": 1,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "Chloroplasts contain chlorophyll thylakoids and enzymes where light and dark photosynthetic reactions produce sugar."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Science",
+    "chapter": "Nutrition in Plants",
+    "question": "Why do guard cells swell and bend to open the stomatal aperture during daytime?",
+    "options": [
+      "They absorb water by osmosis when sunlight triggers photosynthetic ion uptake",
+      "They dry out in heat",
+      "Wind blows them open",
+      "Pollen pulls them apart"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "Water influx creates turgor pressure in crescent-shaped guard cells, causing the differential elastic cell walls to bow open."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Science",
+    "chapter": "Nutrition in Plants",
+    "question": "What primary elements are synthesized during photosynthesis to construct basic carbohydrate molecules?",
+    "options": ["Carbon, Hydrogen, and Oxygen", "Nitrogen, Phosphorus, and Potassium", "Iron and Calcium", "Sulphur and Sodium"],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "Carbohydrates (like glucose C6H12O6) are organic compounds composed strictly of Carbon, Hydrogen, and Oxygen atoms."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Science",
+    "chapter": "Nutrition in Plants",
+    "question": "Why do fungal spores present in the surrounding air germinate rapidly during hot and humid rainy seasons?",
+    "options": [
+      "Spores require moisture and warmth to break dormancy and sprout hyphae",
+      "Rain creates new spores",
+      "Sunlight dies in monsoon",
+      "Wind destroys fungi"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "Fungal spore germination is enzymatically triggered by ambient moisture, humidity (>80%), and optimal temperatures (25–35°C)."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Science",
+    "chapter": "Nutrition in Plants",
+    "question": "How are proteins synthesized in plants from carbohydrates?",
+    "options": [
+      "Carbohydrates combine with nitrogen absorbed from soil nitrates to form amino acids and proteins",
+      "Carbohydrates turn into gold",
+      "Leaves absorb readymade meat from rain",
+      "Sunlight contains solid proteins"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "Plants utilize carbon skeletons from photosynthetic carbohydrates and combine them with absorbed nitrates to biosynthesize amino acids."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Science",
+    "chapter": "Nutrition in Plants",
+    "question": "Read the following statements:\nAssertion (A): Pitcher plant is an autotroph as well as a partial heterotroph.\nReason (R): It performs photosynthesis to produce carbohydrates, but feeds on trapped insects to obtain nitrogen.\nChoose the correct option:",
+    "options": [
+      "Both (A) and (R) are true, and (R) is the correct explanation of (A).",
+      "Both (A) and (R) are true, but (R) is NOT the correct explanation of (A).",
+      "(A) is true, but (R) is false.",
+      "(A) is false, but (R) is true."
+    ],
+    "correctAnswer": 0,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "Insectivorous plants possess chlorophyll and carry out photosynthesis (autotrophy), but supplement soil nitrogen deficiency via carnivory (heterotrophy)."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Science",
+    "chapter": "Nutrition in Plants",
+    "question": "Spot the IMPOSTER in the following group of organisms based on their mode of nutrition:\nGroup: [Mushroom, Yeast, Bread Mold, Cuscuta (Amarbel)]",
+    "options": ["Mushroom", "Yeast", "Bread Mold", "Cuscuta (Amarbel)"],
+    "correctAnswer": 3,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "Cuscuta is a PARASITE feeding on a living host plant, whereas Mushroom, Yeast, and Bread Mold are SAPROTROPHS."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Science",
+    "chapter": "Nutrition in Plants",
+    "question": "Two healthy potted plants of the same species are kept in different conditions:\n- Plant X in bright sunlight.\n- Plant Y in a pitch-dark room.\nBoth are watered daily. After 72 hours, an iodine test is performed on their leaves. What will be observed?",
+    "options": [
+      "Leaves of Plant X turn blue-black; leaves of Plant Y turn yellow-brown (no starch)",
+      "Leaves of both plants turn blue-black",
+      "Leaves of Plant Y turn blue-black only",
+      "Both leaves dissolve in iodine"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "Plant X synthesizes starch via sunlight, turning blue-black. Destarched Plant Y utilizes all stored starch in darkness with no fresh synthesis."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Science",
+    "chapter": "Nutrition in Plants",
+    "question": "Read the following statements:\nAssertion (A): Lichen is not a single organism, but a symbiotic partnership.\nReason (R): The alga provides photosynthetic nourishment, while the fungal partner provides structural shelter, water, and minerals.\nChoose the correct option:",
+    "options": [
+      "Both (A) and (R) are true, and (R) is the correct explanation of (A).",
+      "Both (A) and (R) are true, but (R) is NOT the correct explanation of (A).",
+      "(A) is true, but (R) is false.",
+      "(A) is false, but (R) is true."
+    ],
+    "correctAnswer": 0,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "Lichens represent an obligate mutualistic association between a photobiont (alga/cyanobacterium) and a mycobiont (fungus)."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Science",
+    "chapter": "Nutrition in Plants",
+    "question": "A student covers half of a destarched green leaf with black paper and leaves the potted plant in sunlight for 6 hours. After boiling in alcohol and applying iodine:\n- Uncovered half: Turns Blue-Black\n- Covered half: Remains Brown\nWhat does this controlled experiment prove?",
+    "options": [
+      "Sunlight is an indispensable requirement for photosynthesis and starch production",
+      "Black paper creates starch",
+      "Alcohol produces chlorophyll",
+      "Iodine only colors black objects"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "The covered portion receives no photons to drive light reactions, proving solar energy is essential for starch synthesis."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Science",
+    "chapter": "Nutrition in Plants",
+    "question": "Read the following statements:\nStatement 1: Stomata close at night to prevent unnecessary water loss when photosynthesis is inactive.\nStatement 2: Algae possess chlorophyll and synthesize their own food by photosynthesis.\nStatement 3: Rhizobium bacteria can synthesize their own food from atmospheric nitrogen.\nWhich statements are TRUE?",
+    "options": ["Statements 1 and 2 only", "Statements 2 and 3 only", "Statements 1 and 3 only", "All Statements 1, 2, and 3"],
+    "correctAnswer": 0,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "Statement 3 is false because Rhizobium is heterotrophic; it obtains carbohydrates and shelter from the host legume plant."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Science",
+    "chapter": "Nutrition in Plants",
+    "question": "Why is the Sun considered the ultimate primary source of energy for all living organisms on Earth?",
+    "options": [
+      "Sunlight is warm",
+      "Autotrophs capture solar energy into chemical food energy via photosynthesis, which flows through herbivores and carnivores across all trophic levels",
+      "Sunlight produces water directly",
+      "Sunlight contains vitamins"
+    ],
+    "correctAnswer": 1,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "Biological food chains depend entirely on primary producers converting photon energy into chemical bond energy for the biosphere."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Science",
+    "chapter": "Nutrition in Plants",
+    "question": "How do specialized parasitic structures called 'haustoria' function in Cuscuta (Amarbel)?",
+    "options": [
+      "They absorb sunlight from air",
+      "They penetrate host stem tissues directly into vascular bundles (xylem and phloem) to siphon water, minerals, and prepared sap",
+      "They catch flying insects",
+      "They produce flowers underground"
+    ],
+    "correctAnswer": 1,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "Haustorial roots pierce host cortical tissues and establish physiological connections with host vascular conduits."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Science",
+    "chapter": "Nutrition in Plants",
+    "question": "Consider four types of plant nutrition modes:\n1. Holophytic / Autotrophic (Mango tree)\n2. Parasitic (Cuscuta)\n3. Saprotrophic (Mushroom)\n4. Insectivorous / Mixotrophic (Sundew)\nWhich organism is incorrectly paired with its nutritional mode?",
+    "options": ["1", "2", "3", "None; all 4 are correctly paired"],
+    "correctAnswer": 3,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "All four pairings accurately demonstrate representative organisms and their respective nutritional adaptations."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Science",
+    "chapter": "Nutrition in Plants",
+    "question": "Why does destarching of a potted plant take 24 to 48 hours when placed in a dark room?",
+    "options": [
+      "Photosynthesis stops and the plant mobilizes and consumes all stored starch for baseline cellular respiration",
+      "Starch evaporates through stomata",
+      "Darkness melts starch into water",
+      "Soil microbes eat the starch"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "In the absence of light, amylase enzymes hydrolyze insoluble stored starch back into glucose to fuel continuous cellular respiration."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Science",
+    "chapter": "Nutrition in Plants",
+    "question": "What is the primary evolutionary advantage of having a symbiotic mutualism between mycorrhizal fungi and tree roots in forest ecosystems?",
+    "options": [
+      "Fungus supplies extensive soil moisture and phosphorus absorption capacity; tree provides photosynthetic carbohydrates to the fungus",
+      "Fungus cuts down tree branches",
+      "Tree kills the fungus for food",
+      "Fungus stops tree from growing tall"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "Mycorrhizal networks expand effective root surface area by hundreds of times, exchanging scarce soil minerals for tree photosynthates."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Science",
+    "chapter": "Nutrition in Plants",
+    "question": "Why is boiling a green leaf in an alcohol water bath necessary before testing for starch with iodine solution?",
+    "options": [
+      "To kill the plant cells and dissolve green chlorophyll pigments so the subtle blue-black color change is unobscured",
+      "To cook the starch",
+      "To add nitrogen to the leaf",
+      "To make the leaf magnetic"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "Ethanol extraction removes masking green chlorophyll, rendering the leaf pale white so the blue-black polyiodide complex is vivid."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Science",
+    "chapter": "Nutrition in Animals",
+    "question": "The breakdown of complex food components into simpler, absorbable substances is called:",
+    "options": ["Respiration", "Digestion", "Circulation", "Excretion"],
+    "correctAnswer": 1,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "Digestion is the enzymatic and mechanical breakdown of large insoluble macromolecules into micro-nutrients absorbed by the body."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Science",
+    "chapter": "Nutrition in Animals",
+    "question": "The continuous muscular canal running from the buccal cavity to the anus is called the:",
+    "options": ["Respiratory tract", "Alimentary canal (Digestive tract)", "Circulatory system", "Nervous canal"],
+    "correctAnswer": 1,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "The human alimentary canal spans approximately 9 metres from mouth to anus, including esophagus, stomach, and intestines."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Science",
+    "chapter": "Nutrition in Animals",
+    "question": "The process of taking food into the body through the mouth is called:",
+    "options": ["Ingestion", "Digestion", "Absorption", "Egestion"],
+    "correctAnswer": 0,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "Ingestion is the initial phase of holozoic nutrition involving the intake of food into the oral cavity."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Science",
+    "chapter": "Nutrition in Animals",
+    "question": "Which enzyme present in saliva breaks down complex insoluble starch into simple sugars in the mouth?",
+    "options": ["Pepsin", "Salivary Amylase", "Trypsin", "Lipase"],
+    "correctAnswer": 1,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "Salivary amylase (ptyalin) secreted by salivary glands begins hydrolyzing complex dietary starch into maltose sugars in the mouth."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Science",
+    "chapter": "Nutrition in Animals",
+    "question": "Which set of human teeth are chisel-shaped and specialized for biting and cutting food?",
+    "options": ["Incisors", "Canines", "Premolars", "Molars"],
+    "correctAnswer": 0,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "The 8 front incisors have flat, sharp chisel edges designed specifically for biting and cutting pieces of food."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Science",
+    "chapter": "Nutrition in Animals",
+    "question": "The pointed, sharp teeth used for piercing and tearing tough food (like meat) are the:",
+    "options": ["Canines", "Incisors", "Molars", "Wisdom teeth"],
+    "correctAnswer": 0,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "Canines are sharp conical teeth positioned beside incisors, adapted for tearing fibrous foods."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Science",
+    "chapter": "Nutrition in Animals",
+    "question": "The wave-like muscular contraction that pushes swallowed food down the foodpipe (esophagus) is called:",
+    "options": ["Peristalsis", "Osmosis", "Circulation", "Mastication"],
+    "correctAnswer": 0,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "Peristalsis consists of rhythmic coordinated contractions and relaxations of esophageal smooth muscles pushing the food bolus downward."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Science",
+    "chapter": "Nutrition in Animals",
+    "question": "Which acid is secreted by the inner stomach lining to kill ingested bacteria and create an acidic medium for protein digestion?",
+    "options": ["Sulphuric acid", "Hydrochloric acid (HCl)", "Nitric acid", "Acetic acid"],
+    "correctAnswer": 1,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "Gastric parietal cells secrete hydrochloric acid (pH ~1.5–2.0), sterilizing food and activating pepsin enzymes."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Science",
+    "chapter": "Nutrition in Animals",
+    "question": "The largest internal glandular organ in the human body that secretes digestive bile juice is the:",
+    "options": ["Pancreas", "Liver", "Kidney", "Spleen"],
+    "correctAnswer": 1,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "The liver is the heaviest gland (~1.5 kg) in humans, synthesizing bile to emulsify dietary fats."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Science",
+    "chapter": "Nutrition in Animals",
+    "question": "Where is bile juice temporarily stored and concentrated before being released into the small intestine?",
+    "options": ["Stomach", "Gallbladder", "Pancreas", "Appendix"],
+    "correctAnswer": 1,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "Bile produced by hepatocytes drains into the pear-shaped gallbladder reservoir for concentration and meal-triggered release."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Science",
+    "chapter": "Nutrition in Animals",
+    "question": "Microscopic finger-like projections on the inner wall of the small intestine that increase the surface area for absorption are called:",
+    "options": ["Cilia", "Villi", "Flagella", "Tentacles"],
+    "correctAnswer": 1,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "Millions of vascularised villi multiply the intestinal mucosal surface area tremendously for nutrient absorption."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Science",
+    "chapter": "Nutrition in Animals",
+    "question": "Amoeba captures microscopic food particles by extending temporary finger-like projections called:",
+    "options": ["Tentacles", "Pseudopodia (false feet)", "Cilia", "Flagella"],
+    "correctAnswer": 1,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "Amoeba flows its cytoplasm into pseudopodia to engulf prey by phagocytosis, forming a food vacuole."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Science",
+    "chapter": "Nutrition in Animals",
+    "question": "Why do cud-chewing grass-eating animals (ruminants like cows and buffaloes) quickly swallow grass and store it in the rumen?",
+    "options": [
+      "They have no teeth",
+      "They store grass in the rumen where anaerobic microbes partially ferment it into cud, which is later brought back to the mouth for thorough chewing",
+      "To digest stones",
+      "To prevent other cows from eating it"
+    ],
+    "correctAnswer": 1,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "Ruminants regurgitate partially fermented fibrous cud from the rumen chamber back into the buccal cavity for re-mastication."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Science",
+    "chapter": "Nutrition in Animals",
+    "question": "Why can humans and other carnivores NOT digest the tough cellulose present in grass and raw wood?",
+    "options": [
+      "Humans lack the specialized symbiotic cellulose-digesting bacteria and enlarged caecum found in herbivores",
+      "Cellulose turns to poison in humans",
+      "Humans have no stomach",
+      "Saliva burns cellulose"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "Humans lack cellulase enzymes and the specialized ruminal microflora required to cleave beta-acetal bonds in cellulose."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Science",
+    "chapter": "Nutrition in Animals",
+    "question": "What is the sequence of the five fundamental steps of holozoic nutrition in animals?",
+    "options": [
+      "Ingestion → Digestion → Absorption → Assimilation → Egestion",
+      "Digestion → Ingestion → Egestion → Absorption → Assimilation",
+      "Egestion → Absorption → Digestion → Assimilation → Ingestion",
+      "Absorption → Assimilation → Ingestion → Digestion → Egestion"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "The biological order is: Ingestion (intake) → Digestion (breakdown) → Absorption (uptake) → Assimilation (utilization) → Egestion (elimination)."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Science",
+    "chapter": "Nutrition in Animals",
+    "question": "Why does bread or plain boiled rice start tasting sweet after being chewed in the mouth for two minutes?",
+    "options": [
+      "Saliva contains sugar syrup",
+      "Salivary amylase hydrolyzes complex bland starch into sweet tasting maltose sugars",
+      "Teeth release sweetness",
+      "Tongue creates sugar crystals"
+    ],
+    "correctAnswer": 1,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "Mastication mixes saliva with starch, allowing amylase to break down polysaccharides into simpler sweet disaccharides."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Science",
+    "chapter": "Nutrition in Animals",
+    "question": "What is the vital role of the mucus layer secreted by the inner gastric lining of our stomach?",
+    "options": [
+      "To digest fats",
+      "To protect the delicate stomach wall from self-digestion and corrosion by concentrated hydrochloric acid",
+      "To freeze the food",
+      "To absorb carbohydrates"
+    ],
+    "correctAnswer": 1,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "Bicarbonate-rich gastric mucus forms a protective epithelial barrier preventing ulceration by hydrochloric acid and pepsin."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Science",
+    "chapter": "Nutrition in Animals",
+    "question": "Which of the following organs is the site where the COMPLETE digestion of carbohydrates, proteins, and fats concludes?",
+    "options": ["Stomach", "Large Intestine", "Small Intestine", "Esophagus"],
+    "correctAnswer": 2,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "In the small intestine, pancreatic juice, bile, and intestinal succus entericus complete chemical breakdown of all food classes."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Science",
+    "chapter": "Nutrition in Animals",
+    "question": "What are the simplified end-products of digestion for (i) Carbohydrates, (ii) Proteins, and (iii) Fats?",
+    "options": [
+      "(i) Glucose, (ii) Amino acids, (iii) Fatty acids & Glycerol",
+      "(i) Starch, (ii) Pepsin, (iii) Bile",
+      "(i) Carbon, (ii) Nitrogen, (iii) Water",
+      "(i) Vitamins, (ii) Minerals, (iii) Salts"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "Carbohydrates degrade into simple monosaccharides (glucose), proteins into amino acids, and lipids into fatty acids and glycerol."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Science",
+    "chapter": "Nutrition in Animals",
+    "question": "What is the primary function of the Large Intestine in human digestion?",
+    "options": [
+      "Digesting proteins with enzymes",
+      "Absorbing water and essential salts from unabsorbed food residue and forming solid feces",
+      "Producing bile juice",
+      "Filtering blood"
+    ],
+    "correctAnswer": 1,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "The colon absorbs remaining moisture and electrolytes from indigestible matter, compacting it into fecal waste."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Science",
+    "chapter": "Nutrition in Animals",
+    "question": "How does bile juice help in the digestion of fats in the small intestine?",
+    "options": [
+      "It turns fats into starch",
+      "It breaks down large fat globules into tiny droplets (emulsification), increasing surface area for lipase enzymes",
+      "It neutralizes all vitamins",
+      "It converts fats directly into solid bone"
+    ],
+    "correctAnswer": 1,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "Bile salts lower surface tension, emulsifying hydrophobic lipid clumps into micro-micelles for rapid enzymatic hydrolysis."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Science",
+    "chapter": "Nutrition in Animals",
+    "question": "How does starfish (Asterias) feed on hard-shelled molluscs like clams and oysters?",
+    "options": [
+      "It crushes shells with teeth",
+      "It pops its own stomach out through its mouth into the opened shell to digest the soft animal inside, then retracts the stomach back",
+      "It swallows the entire rock",
+      "It poisons water from distance"
+    ],
+    "correctAnswer": 1,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "The starfish everts its cardiac stomach through its oral aperture directly into the bivalve shell to digest prey externally."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Science",
+    "chapter": "Nutrition in Animals",
+    "question": "What causes tooth decay and dental cavities in children who consume excess chocolates and sweets?",
+    "options": [
+      "Teeth melt due to hot sugar",
+      "Oral bacteria feed on leftover sugars, producing acids that erode the tooth enamel and dentine",
+      "Sugar freezes the nerves",
+      "Saliva stops flowing"
+    ],
+    "correctAnswer": 1,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "Streptococcus mutans bacteria ferment residual refined carbohydrates into lactic acid, causing enamel demineralization."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Science",
+    "chapter": "Nutrition in Animals",
+    "question": "Why is Oral Rehydration Solution (ORS) administered to patients suffering from severe watery diarrhea?",
+    "options": [
+      "To make them sleepy",
+      "To quickly replenish lost body water, glucose, and vital electrolytes to prevent fatal dehydration",
+      "To kill intestinal bacteria with medicine",
+      "To freeze the stomach"
+    ],
+    "correctAnswer": 1,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "ORS utilizes sodium-glucose co-transport mechanisms in intestinal epithelial cells to rapidly rehydrate systemic blood volume."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Science",
+    "chapter": "Nutrition in Animals",
+    "question": "Which of the following pairs of teeth are total 12 in number in a normal adult human set (3 in each jaw half)?",
+    "options": ["Incisors", "Canines", "Premolars", "Molars"],
+    "correctAnswer": 3,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "Adults have 12 molars (including 4 wisdom teeth) with broad grinding cusps for masticating fibrous food."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Science",
+    "chapter": "Nutrition in Animals",
+    "question": "What is the key difference between Milk teeth (temporary set) and Permanent teeth in humans?",
+    "options": [
+      "Milk teeth are 20 in number and shed between ages 6–8; permanent teeth are 32 in number and last for life",
+      "Milk teeth are made of milk",
+      "Permanent teeth have zero roots",
+      "Milk teeth never fall out"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "Deciduous dentition consists of 20 teeth replaced during childhood by 32 permanent adult teeth."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Science",
+    "chapter": "Nutrition in Animals",
+    "question": "How does digestion occur inside the microscopic single-celled organism Amoeba?",
+    "options": [
+      "In a specialized stomach with teeth",
+      "Inside a temporary food vacuole where digestive enzymes break down engulfed food, followed by cytoplasm diffusion",
+      "Through its nucleus",
+      "Food is digested outside in pond water"
+    ],
+    "correctAnswer": 1,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "Lysosomes fuse with the phagocytic food vacuole, breaking down trapped nutrients intracellularly before diffusion into cytosol."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Science",
+    "chapter": "Nutrition in Animals",
+    "question": "Why are villi in the small intestine supplied with a rich network of thin capillary blood vessels?",
+    "options": [
+      "To produce heat",
+      "To rapidly transport absorbed glucose, amino acids, and water-soluble nutrients directly into the circulatory bloodstream",
+      "To store undigested food",
+      "To produce saliva"
+    ],
+    "correctAnswer": 1,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "A dense capillary plexus inside each villus maintains steep concentration gradients, carrying absorbed nutrients to hepatic portal circulation."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Science",
+    "chapter": "Nutrition in Animals",
+    "question": "Read the following statements:\nAssertion (A): Ruminants like cows chew cud when they are resting.\nReason (R): Fast ingestion allows them to escape predators quickly in the wild, while later rumination enables thorough mastication and bacterial cellulose fermentation.\nChoose the correct option:",
+    "options": [
+      "Both (A) and (R) are true, and (R) is the correct explanation of (A).",
+      "Both (A) and (R) are true, but (R) is NOT the correct explanation of (A).",
+      "(A) is true, but (R) is false.",
+      "(A) is false, but (R) is true."
+    ],
+    "correctAnswer": 0,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "Rapid initial swallowing minimizes vulnerable foraging exposure to carnivores, allowing safe fermentation and re-chewing at rest."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Science",
+    "chapter": "Nutrition in Animals",
+    "question": "Spot the IMPOSTER in the following group of human digestive enzymes/secretions based on their site of synthesis:\nGroup: [Pepsin, Hydrochloric Acid, Gastric Mucus, Bile Juice]",
+    "options": ["Pepsin", "Hydrochloric Acid", "Gastric Mucus", "Bile Juice"],
+    "correctAnswer": 3,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "Bile juice is synthesized by the LIVER, whereas Pepsin, HCl, and Mucus are all secretions of the STOMACH."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Science",
+    "chapter": "Nutrition in Animals",
+    "question": "A student tests two test tubes with iodine solution:\n- Tube A: Boiled rice mixed with plain water.\n- Tube B: Boiled rice thoroughly chewed with saliva for 5 minutes.\nWhat will be observed when iodine is added to both tubes?",
+    "options": [
+      "Tube A turns dark blue-black; Tube B shows NO blue-black color (remains brown)",
+      "Tube B turns blue-black; Tube A remains colorless",
+      "Both tubes turn bright blue-black",
+      "Both tubes turn transparent red"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "Salivary amylase in Tube B converts starch to maltose (negative iodine test), while unhydrolyzed starch in Tube A tests positive."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Science",
+    "chapter": "Nutrition in Animals",
+    "question": "Read the following statements:\nAssertion (A): Villi are absent in the large intestine and stomach.\nReason (R): Villi are specialized adaptations designed exclusively for maximizing the rapid absorption of digested micro-nutrients in the small intestine.\nChoose the correct option:",
+    "options": [
+      "Both (A) and (R) are true, and (R) is the correct explanation of (A).",
+      "Both (A) and (R) are true, but (R) is NOT the correct explanation of (A).",
+      "(A) is true, but (R) is false.",
+      "(A) is false, but (R) is true."
+    ],
+    "correctAnswer": 0,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "The large intestine functions in water absorption and fecal compaction, so microvillar nutrient absorption architecture is restricted to the small intestine."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Science",
+    "chapter": "Nutrition in Animals",
+    "question": "If a patient undergoes surgical removal of the Gallbladder (Cholecystectomy), which type of dietary food must they strictly limit?",
+    "options": ["High-protein lean meats", "High-fat and oily fried foods", "Raw green leafy vegetables", "Citrus fruits rich in Vitamin C"],
+    "correctAnswer": 1,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "Without a gallbladder to store concentrated bile boluses, continuous dilute hepatic bile flow struggles to emulsify large boluses of dietary fat."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Science",
+    "chapter": "Nutrition in Animals",
+    "question": "Read the following statements:\nStatement 1: Digestion of starch begins in the buccal cavity by salivary amylase.\nStatement 2: Digestion of proteins begins in the stomach in an acidic environment.\nStatement 3: Complete digestion and nutrient absorption are completed in the small intestine.\nWhich statements are TRUE?",
+    "options": ["Statements 1 and 2 only", "Statements 2 and 3 only", "Statements 1 and 3 only", "All Statements 1, 2, and 3"],
+    "correctAnswer": 3,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "All three statements accurately summarize the spatial biochemistry of digestion across different gastrointestinal tract regions."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Science",
+    "chapter": "Nutrition in Animals",
+    "question": "What is the primary function of lacteal lymphatic capillaries located at the core of each intestinal villus?",
+    "options": [
+      "To carry oxygen to villi",
+      "To absorb and transport large emulsified fatty acids and glycerol into the lymphatic system",
+      "To secrete hydrochloric acid",
+      "To destroy bacteria"
+    ],
+    "correctAnswer": 1,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "Re-esterified fat chylomicrons are too large for vascular capillaries and are absorbed through specialized central lacteals."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Science",
+    "chapter": "Nutrition in Animals",
+    "question": "A patient suffers from chronic acid reflux (heartburn). Which physiological sphincter between the esophagus and stomach is malfunctioning?",
+    "options": [
+      "Pyloric sphincter",
+      "Lower Esophageal / Cardiac sphincter",
+      "Anal sphincter",
+      "Ileocecal valve"
+    ],
+    "correctAnswer": 1,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "A relaxed lower esophageal sphincter allows acidic gastric juice to regurgitate into the unprotected esophageal mucosa."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Science",
+    "chapter": "Nutrition in Animals",
+    "question": "Consider the four chambers of a ruminant stomach:\n1. Rumen (Storage & bacterial fermentation)\n2. Reticulum (Honeycomb filter)\n3. Omasum (Water absorption)\n4. Abomasum (True glandular stomach with gastric juices)\nWhich chamber is the 'True Stomach' equivalent to the human stomach?",
+    "options": ["Rumen", "Reticulum", "Omasum", "Abomasum"],
+    "correctAnswer": 3,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "The abomasum secretes true hydrochloric acid and proteolytic enzymes, functioning identically to the human monogastric stomach."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Science",
+    "chapter": "Nutrition in Animals",
+    "question": "How does pancreatic juice coordinate with bile juice inside the duodenum of the small intestine?",
+    "options": [
+      "Bile neutralizes acidic chyme and emulsifies fats, allowing pancreatic amylase, trypsin, and lipase to act at an optimal alkaline pH",
+      "Pancreatic juice turns bile into poison",
+      "Bile freezes pancreatic enzymes",
+      "Both turn into stomach acid"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "Alkaline bile converts acidic gastric chyme to pH ~8.0, optimizing conditions for pancreatic lipase, trypsin, and amylase enzymes."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Science",
+    "chapter": "Nutrition in Animals",
+    "question": "Why is the process of 'Assimilation' distinct from simple 'Absorption' in animal nutrition?",
+    "options": [
+      "Absorption is taking food in mouth; assimilation is throwing food out",
+      "Absorption is the uptake of nutrients into blood; Assimilation is the cellular utilization of absorbed nutrients to build complex body tissues and release energy",
+      "Assimilation happens only in plants",
+      "Absorption produces wastes"
+    ],
+    "correctAnswer": 1,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "Absorption moves monomers across intestinal membranes into blood; assimilation is their incorporation into cellular structures."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Science",
+    "chapter": "Nutrition in Animals",
+    "question": "A person swallowed food in a hurry while laughing and began coughing violently. What anatomical structure failed to close the trachea (windpipe) in time?",
+    "options": ["Uvula", "Epiglottis", "Tongue", "Larynx"],
+    "correctAnswer": 1,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "The epiglottic cartilage flap normally closes the glottis during deglutition; speaking or laughing keeps it open, causing aspiration."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Science",
+    "chapter": "Heat",
+    "question": "A reliable reliable measure of the degree of hotness or coldness of an object is its:",
+    "options": ["Heat", "Temperature", "Energy", "Pressure"],
+    "correctAnswer": 1,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "Temperature is the objective quantitative measurement of the average thermal kinetic energy of molecules in an object."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Science",
+    "chapter": "Heat",
+    "question": "The device used to measure the temperature of an object or body is called a:",
+    "options": ["Barometer", "Thermometer", "Speedometer", "Anemometer"],
+    "correctAnswer": 1,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "A thermometer measures temperature using temperature-sensitive materials like expanding mercury, alcohol, or electronic thermistors."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Science",
+    "chapter": "Heat",
+    "question": "What is the normal core body temperature of a healthy human being on the Celsius scale?",
+    "options": ["35°C", "37°C", "39°C", "98.6°C"],
+    "correctAnswer": 1,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "Normal human homeostatic body temperature averages 37°C (which corresponds to 98.6°F on the Fahrenheit scale)."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Science",
+    "chapter": "Heat",
+    "question": "What is the measurement range of a standard Clinical Thermometer designed for the human body?",
+    "options": ["0°C to 100°C", "35°C to 42°C", "-10°C to 110°C", "30°C to 50°C"],
+    "correctAnswer": 1,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "Human body temperature never drops below 35°C or rises above 42°C, so clinical thermometers are calibrated from 35°C to 42°C."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Science",
+    "chapter": "Heat",
+    "question": "What is the standard measurement range of a general Laboratory Thermometer?",
+    "options": ["35°C to 42°C", "-10°C to 110°C", "0°C to 50°C", "20°C to 80°C"],
+    "correctAnswer": 1,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "Laboratory thermometers are calibrated over a wide range from -10°C to 110°C to measure boiling, freezing, and chemical reaction temps."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Science",
+    "chapter": "Heat",
+    "question": "The process by which heat is transferred from the hotter end to the colder end of a solid object without bulk movement of particles is:",
+    "options": ["Convection", "Conduction", "Radiation", "Insulation"],
+    "correctAnswer": 1,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "In solids, heat transfers by conduction through direct microscopic vibrations and collisions of adjacent atoms."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Science",
+    "chapter": "Heat",
+    "question": "Materials that allow heat to pass through them quickly and easily are known as:",
+    "options": ["Thermal Insulators", "Conductors of heat", "Semiconductors", "Radiators"],
+    "correctAnswer": 1,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "Thermal conductors (like copper, aluminium, and iron) transfer heat rapidly due to free electrons and crystal lattices."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Science",
+    "chapter": "Heat",
+    "question": "Materials that do not conduct heat easily, such as wood, plastic, rubber, and air, are called:",
+    "options": ["Conductors", "Insulators (Poor conductors)", "Radiators", "Metals"],
+    "correctAnswer": 1,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "Thermal insulators prevent heat transfer, keeping hot things hot and cold things cold."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Science",
+    "chapter": "Heat",
+    "question": "The mode of heat transfer in liquids and gases where warmer, lighter fluid rises and cooler, denser fluid sinks is:",
+    "options": ["Conduction", "Convection", "Radiation", "Evaporation"],
+    "correctAnswer": 1,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "Convection involves bulk cyclic buoyant movement of fluid molecules from hotter regions to colder regions."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Science",
+    "chapter": "Heat",
+    "question": "The transfer of heat from the Sun across the vacuum of outer space to the Earth occurs via:",
+    "options": ["Conduction", "Convection", "Radiation", "Advection"],
+    "correctAnswer": 2,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "Radiation transfers thermal energy through electromagnetic waves without requiring any material medium."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Science",
+    "chapter": "Heat",
+    "question": "Why are light-colored or white clothes preferred during hot summer days?",
+    "options": [
+      "They absorb all heat",
+      "They reflect most of the radiant heat falling on them, keeping our bodies cool",
+      "They make us sweat more",
+      "They generate wind"
+    ],
+    "correctAnswer": 1,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "White surfaces reflect solar radiation, minimizing radiative heat gain."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Science",
+    "chapter": "Heat",
+    "question": "Why do dark-colored or black clothes feel comfortable during cold winter days?",
+    "options": [
+      "They absorb maximum heat radiation from the sun, keeping the body warm",
+      "They reflect all cold air",
+      "They are lighter in weight",
+      "They produce electricity"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "Dark matte surfaces are good absorbers of radiant thermal energy, retaining heat in cold weather."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Science",
+    "chapter": "Heat",
+    "question": "What is the special feature near the bulb of a traditional mercury Clinical Thermometer that prevents the mercury level from falling on its own?",
+    "options": ["A magnifying lens", "A constriction (kink)", "A metal cap", "A digital sensor"],
+    "correctAnswer": 1,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "A sharp constriction (kink) prevents the mercury thread from falling back when removed from the patient's mouth, allowing accurate reading."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Science",
+    "chapter": "Heat",
+    "question": "Why must the temperature reading of a Laboratory Thermometer be recorded while its bulb is STILL immersed inside the liquid?",
+    "options": [
+      "It has no kink, so its mercury thread immediately rises or drops when exposed to room air temperature",
+      "It will shatter in air",
+      "It loses all mercury",
+      "It freezes in air"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "Unlike clinical thermometers, laboratory thermometers lack a constriction; the mercury meniscus responds immediately to ambient air."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Science",
+    "chapter": "Heat",
+    "question": "Why does a coastal Sea Breeze blow from the sea towards the land during daytime?",
+    "options": [
+      "Fish push water to land",
+      "Land heats up faster than water; warm air over land rises, and cool denser air from the sea rushes in to take its place",
+      "The sun pulls seawater to clouds",
+      "High ocean waves blow wind"
+    ],
+    "correctAnswer": 1,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "Due to water's high specific heat, land warms faster during the day, creating low pressure that draws in a cool daytime sea breeze."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Science",
+    "chapter": "Heat",
+    "question": "Why does a Land Breeze blow from the land towards the sea during nighttime in coastal regions?",
+    "options": [
+      "Land cools down faster than the ocean water; warm air over the warmer sea rises, drawing cool air from the land",
+      "The moon creates gravity on land",
+      "Trees blow air at night",
+      "Boats push air to sea"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "Land radiates heat faster than the sea at night, so rising marine air pulls cool terrestrial air toward the ocean."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Science",
+    "chapter": "Heat",
+    "question": "Why do woollen clothes keep us cozy and warm during harsh winter?",
+    "options": [
+      "Wool produces its own active heat",
+      "Wool fibers trap a large volume of air in tiny pockets; air is a poor conductor of heat and blocks body heat from escaping",
+      "Wool attracts infrared rays from walls",
+      "Wool reflects blood circulation"
+    ],
+    "correctAnswer": 1,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "Crimp in wool fibers traps motionless dead air, which acts as a thermal insulator preventing conduction of body warmth to cold surroundings."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Science",
+    "chapter": "Heat",
+    "question": "Why is wearing TWO thin blankets joined together warmer than wearing ONE thick blanket of equal total thickness?",
+    "options": [
+      "Two blankets are heavier",
+      "An extra insulating layer of trapped air is formed in the space between the two thin blankets",
+      "Color doubles the warmth",
+      "Friction generates fire"
+    ],
+    "correctAnswer": 1,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "The interfacial air gap between two separate layers provides an extra barrier of still insulating air."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Science",
+    "chapter": "Heat",
+    "question": "Why are cooking utensils made of metals like aluminium and stainless steel, but their handles are made of Bakelite or wood?",
+    "options": [
+      "Metals conduct heat fast to cook food, while Bakelite/wood handles are thermal insulators that protect our hands from burns",
+      "Metals are cheaper than wood",
+      "Handles make the vessel heavier",
+      "Wood looks prettier"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "The pan base requires high thermal conductivity for efficient heat transfer, while handles require insulating materials to prevent burns."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Science",
+    "chapter": "Heat",
+    "question": "Why are digital thermometers replacing old mercury thermometers in modern clinics?",
+    "options": [
+      "Mercury is highly toxic and dangerous to clean up if the glass tube breaks",
+      "Digital thermometers never need batteries",
+      "Mercury cannot measure human fever",
+      "Digital thermometers are always free"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "Elemental mercury is a potent neurotoxin. Electronic digital thermistors eliminate the hazard of broken glass and toxic mercury spills."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Science",
+    "chapter": "Heat",
+    "question": "When a cold steel spoon is dipped into a hot cup of soup, heat reaches the other end of the handle by:",
+    "options": ["Radiation", "Conduction", "Convection", "Evaporation"],
+    "correctAnswer": 1,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "Vibrating metal atoms transfer kinetic energy along the solid crystalline lattice of the steel handle by conduction."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Science",
+    "chapter": "Heat",
+    "question": "Why do hot air balloons rise high into the sky when the burner is turned on?",
+    "options": [
+      "Air is destroyed by fire",
+      "Air expands on heating and becomes less dense (lighter) than the surrounding cooler air, generating buoyant lift",
+      "Fire has negative gravity",
+      "The fabric turns into helium"
+    ],
+    "correctAnswer": 1,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "Thermal expansion lowers the internal air density, generating buoyant lift in accordance with Archimedes' principle."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Science",
+    "chapter": "Heat",
+    "question": "In which direction does heat always flow spontaneously between two objects in thermal contact?",
+    "options": [
+      "From the object at higher temperature to the object at lower temperature",
+      "From lower temperature to higher temperature",
+      "From the lighter object to the heavier object",
+      "Random in both directions equally"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "According to the Second Law of Thermodynamics, heat spontaneously transfers down a thermal gradient from hot to cold."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Science",
+    "chapter": "Heat",
+    "question": "Why are ventilators and exhaust fans in houses always installed near the top of the walls close to the ceiling?",
+    "options": [
+      "To keep them safe from children",
+      "Warm, stale exhaled air is lighter and rises to the ceiling, where ventilators allow it to escape by convection currents",
+      "To catch rain water",
+      "To look symmetrical"
+    ],
+    "correctAnswer": 1,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "Thermal convection causes warm, less dense stale indoor air to accumulate near the ceiling, where high ventilators exhaust it efficiently."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Science",
+    "chapter": "Heat",
+    "question": "When you sit near a glowing electric room heater or campfire, your face feels warm primarily due to:",
+    "options": ["Conduction", "Radiation", "Convection", "Refraction"],
+    "correctAnswer": 1,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "Direct thermal infrared radiation travels through air at the speed of light, heating surfaces without warming the intermediate air directly."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Science",
+    "chapter": "Heat",
+    "question": "Why are stainless steel cooking pans frequently manufactured with extra COPPER bottoms?",
+    "options": [
+      "Copper makes the pan heavier",
+      "Copper is a much better conductor of heat than stainless steel, distributing heat uniformly and cooking food faster",
+      "Copper prevents the pan from getting dirty",
+      "To make the pan magnetic"
+    ],
+    "correctAnswer": 1,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "Copper has significantly higher thermal conductivity than steel, preventing hot spots and ensuring uniform heat distribution."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Science",
+    "chapter": "Heat",
+    "question": "Why should a clinical thermometer NOT be washed with boiling water to sterilize it?",
+    "options": [
+      "Boiling water at 100°C exceeds the 42°C maximum calibration limit, causing mercury to over-expand and shatter the glass tube",
+      "Boiling water turns mercury into gas",
+      "Water dissolves the glass",
+      "The numbers wash off"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "A clinical thermometer's upper limit is 42°C. Immersion in 100°C boiling water causes hydraulic expansion that ruptures the glass envelope."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Science",
+    "chapter": "Heat",
+    "question": "What happens when 1 litre of water at 30°C is mixed thoroughly with 1 litre of water at 50°C in an insulated flask?",
+    "options": [
+      "The temperature becomes 80°C",
+      "The temperature becomes 20°C",
+      "The temperature settles between 30°C and 50°C (around 40°C)",
+      "The water boils instantly"
+    ],
+    "correctAnswer": 2,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "Heat lost by the hotter water equals heat gained by the cooler water, reaching thermal equilibrium at the arithmetic mean of 40°C."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Science",
+    "chapter": "Heat",
+    "question": "Read the following statements:\nAssertion (A): Air in the upper troposphere above a room heater gets warm, but air at the sides stays cool.\nReason (R): Convection transfers heat primarily in the vertically upward direction as warm air expands and rises buoyantly.\nChoose the correct option:",
+    "options": [
+      "Both (A) and (R) are true, and (R) is the correct explanation of (A).",
+      "Both (A) and (R) are true, but (R) is NOT the correct explanation of (A).",
+      "(A) is true, but (R) is false.",
+      "(A) is false, but (R) is true."
+    ],
+    "correctAnswer": 0,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "Convection currents rise vertically due to density decrease, while sideways heat transfer is limited to weaker infrared radiation."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Science",
+    "chapter": "Heat",
+    "question": "Spot the IMPOSTER in the following group of heat transfer phenomena:\nGroup: [Warming by a bonfire, Sun heating the Earth, Feeling hot below an infrared lamp, Heating water in an electric kettle]",
+    "options": [
+      "Warming by a bonfire",
+      "Sun heating the Earth",
+      "Feeling hot below an infrared lamp",
+      "Heating water in an electric kettle"
+    ],
+    "correctAnswer": 3,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "Heating water in an electric kettle relies on CONVECTION and CONDUCTION, whereas the other three transfer heat via RADIATION."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Science",
+    "chapter": "Heat",
+    "question": "An iron ball at 40°C is dropped into a mug containing water at exactly 40°C. Which statement is scientifically TRUE?",
+    "options": [
+      "Heat will flow from the iron ball to water",
+      "Heat will flow from water to the iron ball",
+      "There will be NO net transfer of heat between the iron ball and water",
+      "The temperature will rise to 80°C"
+    ],
+    "correctAnswer": 2,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "Both systems are at thermal equilibrium (identical temperature), meaning the thermal gradient is zero and no net heat transfer occurs."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Science",
+    "chapter": "Heat",
+    "question": "Why is a vacuum created inside the double walls of a Thermos (vacuum flask)?",
+    "options": [
+      "To make the flask lightweight",
+      "The absence of air medium completely prevents heat loss or gain by BOTH Conduction and Convection",
+      "To make the flask transparent",
+      "To stop radiation"
+    ],
+    "correctAnswer": 1,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "Conduction and convection both require material particle media; an evacuated vacuum gap halts both modes."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Science",
+    "chapter": "Heat",
+    "question": "Read the following statements:\nAssertion (A): Shiny silvered inner walls of a thermos flask reduce heat transfer.\nReason (R): Silvered polished surfaces are poor absorbers and excellent reflectors of thermal radiation.\nChoose the correct option:",
+    "options": [
+      "Both (A) and (R) are true, and (R) is the correct explanation of (A).",
+      "Both (A) and (R) are true, but (R) is NOT the correct explanation of (A).",
+      "(A) is true, but (R) is false.",
+      "(A) is false, but (R) is true."
+    ],
+    "correctAnswer": 0,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "Mirrored silver surfaces reflect radiant infrared back into the contents, minimizing radiative heat loss."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Science",
+    "chapter": "Heat",
+    "question": "A wooden spoon and a silver spoon are placed into the same bowl of hot boiling soup at 90°C. After 2 minutes, you touch both handles. Why does the silver spoon feel burning hot while the wooden spoon feels normal?",
+    "options": [
+      "Silver is a metal with high thermal conductivity that conducts heat rapidly, whereas wood is a poor conductor (insulator)",
+      "Silver makes its own heat",
+      "Wood cools the soup",
+      "Silver absorbs soup moisture"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "Metals transfer thermal energy hundreds of times faster than low-conductivity organic polymers in wood."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Science",
+    "chapter": "Heat",
+    "question": "Read the following statements:\nStatement 1: Temperature is the measure of hotness, whereas heat is a form of thermal energy.\nStatement 2: Water and air are poor conductors of heat.\nStatement 3: Heat transfer by radiation requires a solid or liquid medium.\nWhich statements are TRUE?",
+    "options": ["Statements 1 and 2 only", "Statements 2 and 3 only", "Statements 1 and 3 only", "All Statements 1, 2, and 3"],
+    "correctAnswer": 0,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "Statement 3 is false because radiation propagates through absolute vacuum as electromagnetic waves."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Science",
+    "chapter": "Heat",
+    "question": "Two identical metal cans are filled with boiling water at 90°C:\n- Can X is painted matte BLACK on the outside.\n- Can Y is painted shiny WHITE on the outside.\nBoth are kept in a cool room at 20°C. Which can will cool down to room temperature FASTER?",
+    "options": [
+      "Can X (Black can) cools faster because black surfaces are better emitters of heat radiation",
+      "Can Y (White can) cools faster",
+      "Both will cool at the exact same second",
+      "Neither will cool down"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "Kirchhoff's Law of Radiation: Good absorbers are equally good emitters of thermal radiation, so matte black radiates heat faster."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Science",
+    "chapter": "Heat",
+    "question": "Why do igloos made of compressed blocks of snow/ice keep Arctic Inuits warm inside despite freezing -30°C outside temperatures?",
+    "options": [
+      "Ice generates fire",
+      "Trapped air in packed snow acts as an exceptional thermal insulator, preventing body heat from escaping",
+      "Ice attracts sunlight at night",
+      "Snow reflects cold into sky"
+    ],
+    "correctAnswer": 1,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "Low-density packed snow contains up to 90% trapped static air, making igloo domes effective thermal insulators."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Science",
+    "chapter": "Heat",
+    "question": "Consider the following four temperature readings on different thermometer scales:\n1. 37°C (Human body core)\n2. 98.6°F (Human body core in Fahrenheit)\n3. 100°C (Boiling point of pure water at sea level)\n4. 212°F (Boiling point of pure water at sea level)\nWhich of the pairs represent EQUIVALENT physical temperatures?",
+    "options": [
+      "1 is equivalent to 2, and 3 is equivalent to 4",
+      "1 is equivalent to 3 only",
+      "2 is equivalent to 4 only",
+      "None are equivalent"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "Using formula F = (9/5 × C) + 32: 37°C = 98.6°F and 100°C = 212°F."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Science",
+    "chapter": "Heat",
+    "question": "Why does a piece of ice wrapped in a thick woollen cloth melt much SLOWER than a piece of ice left exposed on an open plate?",
+    "options": [
+      "Wool transfers cold to ice",
+      "Wool is a thermal insulator with trapped air that blocks ambient heat from reaching the ice",
+      "Wool freezes air",
+      "Cloth absorbs water weight"
+    ],
+    "correctAnswer": 1,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "The low thermal conductivity of wool and its trapped air pockets form a barrier against incoming ambient heat conduction and convection."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Science",
+    "chapter": "Heat",
+    "question": "A test tube is filled with cold water, and a piece of ice wrapped in wire gauze is sunk at the bottom. The top water is heated with a burner until it boils vigorously. Why does the ice at the bottom NOT melt for a long time?",
+    "options": [
+      "Wire gauze freezes ice",
+      "Water is a very poor conductor of heat, and hot water stays at the top due to lower density without convective transfer to the bottom",
+      "Boiling water absorbs cold",
+      "Glass blocks all heat"
+    ],
+    "correctAnswer": 1,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "Water is a poor thermal conductor, and heated water expands and remains buoyant at the top, preventing downward convective heat transfer."
+  }
+]
