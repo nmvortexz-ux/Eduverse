@@ -1,0 +1,2562 @@
+[
+  {
+    "classLevel": 7,
+    "subject": "Science",
+    "chapter": "Electric Current and its Effects",
+    "question": "In a standard circuit diagram symbol for an electric cell, what do the longer line and the shorter thicker line represent?",
+    "options": [
+      "Longer line is positive terminal; shorter thicker line is negative terminal",
+      "Longer line is negative; shorter thicker line is positive",
+      "Both represent neutral lines",
+      "Longer line is a switch"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "In circuit schematics, the long thin vertical line denotes the positive terminal (+), and the short thick vertical line denotes the negative terminal (-)."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Science",
+    "chapter": "Electric Current and its Effects",
+    "question": "A combination of two or more electric cells connected in series (positive terminal of one to negative of the next) is called a:",
+    "options": [
+      "Fuse",
+      "Battery",
+      "Electromagnet",
+      "Switch"
+    ],
+    "correctAnswer": 1,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "A battery is an assembly of two or more galvanic cells connected to provide higher operating voltage or current capacity."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Science",
+    "chapter": "Electric Current and its Effects",
+    "question": "The production of heat in a high-resistance metallic wire when an electric current flows through it is known as the:",
+    "options": [
+      "Magnetic effect of electric current",
+      "Heating effect of electric current (Joule heating)",
+      "Chemical effect of current",
+      "Optical effect"
+    ],
+    "correctAnswer": 1,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "When current encounters electrical resistance, electron collisions convert electrical potential energy into thermal heat (H = I²Rt)."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Science",
+    "chapter": "Electric Current and its Effects",
+    "question": "The coiled heating wire element inside electrical appliances like room heaters, electric toasters, and geysers is called an:",
+    "options": [
+      "Electromagnet",
+      "Heating Element",
+      "Fuse wire",
+      "Insulator"
+    ],
+    "correctAnswer": 1,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "High-resistivity alloy coils (such as Nichrome) that glow red-hot and generate heat upon conduction are called heating elements."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Science",
+    "chapter": "Electric Current and its Effects",
+    "question": "Which safety device inserted in electrical circuits melts and breaks the circuit whenever an excessively high current flows?",
+    "options": [
+      "Electric Fuse",
+      "Switch",
+      "Voltmeter",
+      "Electromagnet"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "An electric fuse contains a low-melting-point alloy wire that safely fuses (melts) during overcurrent to prevent fires and equipment damage."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Science",
+    "chapter": "Electric Current and its Effects",
+    "question": "What modern automatic safety switch trips and turns OFF automatically when current exceeds safe limits, replacing traditional rewireable fuses?",
+    "options": [
+      "CFL bulb",
+      "Miniature Circuit Breaker (MCB)",
+      "LED chip",
+      "Rheostat"
+    ],
+    "correctAnswer": 1,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "MCBs are electromagnetic/bimetallic automatic trip switches that can be reset easily with a toggle switch after correcting a fault."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Science",
+    "chapter": "Electric Current and its Effects",
+    "question": "Which famous Danish scientist first discovered in 1820 that an electric current flowing through a wire deflects a nearby magnetic compass needle?",
+    "options": [
+      "Hans Christian Oersted",
+      "Michael Faraday",
+      "Thomas Edison",
+      "Benjamin Franklin"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "Hans Christian Oersted discovered electromagnetism when he noticed a compass needle twitch beside an energized wire."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Science",
+    "chapter": "Electric Current and its Effects",
+    "question": "A temporary magnet created by winding an insulated wire around a soft iron piece and passing electric current through it is called an:",
+    "options": [
+      "Bar magnet",
+      "Electromagnet",
+      "Horseshoe magnet",
+      "Lodestone"
+    ],
+    "correctAnswer": 1,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "An electromagnet produces an active magnetic field only while electric current energizes its coil windings."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Science",
+    "chapter": "Electric Current and its Effects",
+    "question": "Which household appliance uses an electromagnet to strike a metal gong repeatedly when a button is pressed?",
+    "options": [
+      "Electric Bell",
+      "Electric Geyser",
+      "Incandescent Bulb",
+      "Electric Toaster"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "An electric door bell utilizes an electromagnet to attract an armature hammer, striking the gong and making-breaking the circuit."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Science",
+    "chapter": "Electric Current and its Effects",
+    "question": "Which thin wire inside a traditional incandescent bulb gets incandescently white-hot and gives off light?",
+    "options": [
+      "Copper lead",
+      "Tungsten filament",
+      "Aluminium strip",
+      "Iron core"
+    ],
+    "correctAnswer": 1,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "Tungsten has an ultra-high melting point (3422°C), allowing it to glow brightly white without melting when heated by current."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Science",
+    "chapter": "Electric Current and its Effects",
+    "question": "Why are Light Emitting Diodes (LEDs) and Compact Fluorescent Lamps (CFLs) preferred over old filament bulbs?",
+    "options": [
+      "They waste huge heat",
+      "They convert almost all electrical energy into light with minimal heat wastage, saving electricity",
+      "They have heavy iron filaments",
+      "They work without electricity"
+    ],
+    "correctAnswer": 1,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "LEDs produce solid-state electroluminescence, consuming up to 85% less energy than resistive incandescent bulbs."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Science",
+    "chapter": "Electric Current and its Effects",
+    "question": "Which mark on electrical appliances in India certifies that the appliance conforms to safety and quality standards?",
+    "options": [
+      "AGMARK",
+      "ISI mark (Bureau of Indian Standards)",
+      "FSSAI",
+      "ISO 9000 only"
+    ],
+    "correctAnswer": 1,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "The ISI certification mark issued by the Bureau of Indian Standards (BIS) guarantees adherence to rigorous electrical safety."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Science",
+    "chapter": "Electric Current and its Effects",
+    "question": "Why is an alloy called Nichrome (nickel + chromium) used for heating elements in irons and geysers instead of pure copper?",
+    "options": [
+      "Nichrome is transparent",
+      "Nichrome has very high electrical resistance and does not oxidize (burn) easily even at high red-hot temperatures",
+      "Nichrome is magnetic",
+      "Copper melts at 0°C"
+    ],
+    "correctAnswer": 1,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "Nichrome offers high electrical resistivity and forms an adherent passivation layer of chromium oxide that resists oxidation at 1000°C+."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Science",
+    "chapter": "Electric Current and its Effects",
+    "question": "What happens when live and neutral electrical wires touch each other directly due to faulty, damaged insulation (Short Circuit)?",
+    "options": [
+      "Resistance drops near zero, causing a massive surge of current that can overheat wires and spark fires",
+      "Voltage drops to zero with zero current",
+      "The circuit cools down to ice",
+      "Bulbs glow dim"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "Direct contact bypasses load resistance, resulting in instantaneous ultra-high fault currents and dangerous thermal arcing."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Science",
+    "chapter": "Electric Current and its Effects",
+    "question": "Why should ordinary copper wire NEVER be used as a replacement fuse in electrical circuits?",
+    "options": [
+      "Copper has a very high melting point and thick diameter; it will not melt during overcurrent, failing to protect appliances and causing fires",
+      "Copper does not conduct current",
+      "Copper dissolves in electricity",
+      "Copper is too cheap"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "Improvised copper wire carries dangerously high currents without melting, defeating the overcurrent protection function of a calibrated fuse."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Science",
+    "chapter": "Electric Current and its Effects",
+    "question": "How can the magnetic strength of an electromagnet be increased?",
+    "options": [
+      "By increasing the number of coil turns and increasing the electric current flowing through it",
+      "By reducing the turns to zero",
+      "By using plastic core",
+      "By cooling with dry ice only"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "Electromagnetic field strength B is directly proportional to coil turn density (N) and current intensity (I): B ∝ N·I."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Science",
+    "chapter": "Electric Current and its Effects",
+    "question": "How does an industrial crane equipped with a giant electromagnet lift and sort scrap iron in junk yards?",
+    "options": [
+      "It uses glue",
+      "Turning ON current magnetizes the disc to pick up heavy iron scrap; turning OFF current releases the scrap at the target drop point",
+      "It blows air",
+      "It freezes scrap metal"
+    ],
+    "correctAnswer": 1,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "Controllable magnetic flux allows scrap cranes to instantly attach and detach ferromagnetic loads by switching electric current."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Science",
+    "chapter": "Electric Current and its Effects",
+    "question": "Why does a compass needle placed near a straight wire carrying steady DC current deflect perpendicular to the wire?",
+    "options": [
+      "The wire becomes cold",
+      "The electric current creates concentric circular magnetic field lines around the wire, exerting a torque on the compass needle",
+      "Gravity pushes the needle",
+      "Air blows from electrons"
+    ],
+    "correctAnswer": 1,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "Ampere's Right-Hand Grip Rule: moving electric charges generate circular transverse magnetic field vectors around conductors."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Science",
+    "chapter": "Electric Current and its Effects",
+    "question": "Why is soft iron used as the core material of an electromagnet rather than hardened steel?",
+    "options": [
+      "Soft iron magnetizes instantly when current flows and loses almost all magnetism immediately when current is switched off (temporary magnet)",
+      "Soft iron is liquid",
+      "Steel has zero iron",
+      "Soft iron conducts heat only"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "Soft iron has high magnetic permeability and low retentivity/coercivity, allowing instant demagnetization when current stops."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Science",
+    "chapter": "Electric Current and its Effects",
+    "question": "Why does connecting multiple high-power electrical appliances (AC, iron, heater) to a single wall socket cause 'Overloading'?",
+    "options": [
+      "Appliances get cold",
+      "Parallel connections draw excessive cumulative total current, exceeding the rated current capacity of the house wiring and causing heating",
+      "Voltage rises to one million volts",
+      "Wires turn into plastic"
+    ],
+    "correctAnswer": 1,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "Parallel branches sum up branch currents (Itotal = ∑In); overloading exceeds conductor ampacity ratings, risking thermal fires."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Science",
+    "chapter": "Electric Current and its Effects",
+    "question": "How do doctors use micro-electromagnets in eye surgery?",
+    "options": [
+      "To illuminate the retina",
+      "To safely extract tiny accidental ferromagnetic iron splinters or metal dust particles from a patient's eye",
+      "To cut the cornea",
+      "To freeze the eye"
+    ],
+    "correctAnswer": 1,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "Ophthalmic electromagnets apply focused magnetic attraction to withdraw iron foreign bodies atraumatically from ocular tissues."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Science",
+    "chapter": "Electric Current and its Effects",
+    "question": "In an electric bell mechanism, why does the hammer keep striking the gong repeatedly as long as the switch is held pressed?",
+    "options": [
+      "A spring winds up",
+      "Striking the gong pulls the armature forward, breaking the contact screw (turning off current and releasing armature), which makes contact again (interrupter cycle)",
+      "Electricity oscillates in circles",
+      "The gong is magnetic"
+    ],
+    "correctAnswer": 1,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "The self-interrupting contact breaker automatically makes and breaks the electromagnetic circuit in a rapid continuous oscillation."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Science",
+    "chapter": "Electric Current and its Effects",
+    "question": "What three key factors determine the total amount of heat produced in a conducting wire during Joule heating?",
+    "options": [
+      "Material of wire, wire length, and wire thickness (resistance), along with the current magnitude and duration of flow",
+      "Color of insulation only",
+      "Weather temperature only",
+      "Weight of the switch"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "Joule's Law: Heat H = I²·R·t, where resistance R depends on wire resistivity, length L, and cross-sectional area A."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Science",
+    "chapter": "Electric Current and its Effects",
+    "question": "Why does a high-resistance tungsten bulb filament glow white-hot, but the copper connecting wires in the cord remain cool to the touch?",
+    "options": [
+      "Copper has no electrons",
+      "Copper connecting wires have negligible resistance (generating very little heat), whereas the thin tungsten filament has high resistance concentrating heat",
+      "Plastic cord absorbs electricity",
+      "Bulb glass creates heat"
+    ],
+    "correctAnswer": 1,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "In series circuits, power dissipation P = I²R. Ultra-low resistance copper produces minimal heat, while high-resistance thin tungsten gets white-hot."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Science",
+    "chapter": "Electric Current and its Effects",
+    "question": "Which of the following devices is based strictly on the MAGNETIC EFFECT of electric current?",
+    "options": [
+      "Electric toaster",
+      "Electric bell",
+      "Electric iron",
+      "Immersion water heater"
+    ],
+    "correctAnswer": 1,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "Electric bell operates via magnetic attraction of an iron armature, while toaster, iron, and immersion rod rely on thermal heating effects."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Science",
+    "chapter": "Electric Current and its Effects",
+    "question": "Why is an inert gas like Argon or Nitrogen filled inside glass incandescent bulbs rather than vacuum or air?",
+    "options": [
+      "To make the bulb heavy",
+      "Inert gas suppresses tungsten filament evaporation and prevents explosive burning with oxygen at 2500°C",
+      "To produce colored sparks",
+      "To conduct electricity through air"
+    ],
+    "correctAnswer": 1,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "Atmospheric oxygen would instantly combust hot tungsten; inert argon gas retards thermal sublimation and prolongs filament life."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Science",
+    "chapter": "Electric Current and its Effects",
+    "question": "Read the following statements:\nAssertion (A): An electromagnet is considered a temporary magnet.\nReason (R): It retains its magnetic field indefinitely even after electric current is switched off.\nChoose the correct option:",
+    "options": [
+      "Both (A) and (R) are true, and (R) is the correct explanation of (A).",
+      "(A) is true, but (R) is false.",
+      "(A) is false, but (R) is true.",
+      "Both (A) and (R) are false."
+    ],
+    "correctAnswer": 1,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "(A) is true because an electromagnet is temporary; (R) is false because its magnetic field collapses as soon as current is cut off."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Science",
+    "chapter": "Electric Current and its Effects",
+    "question": "Spot the IMPOSTER in the following group of electrical appliances based on their operating principle:\nGroup: [Electric Geyser, Electric Toaster, Electric Room Heater, Electric Loudspeaker]",
+    "options": [
+      "Electric Geyser",
+      "Electric Toaster",
+      "Electric Room Heater",
+      "Electric Loudspeaker"
+    ],
+    "correctAnswer": 3,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "Electric Loudspeaker operates on the MAGNETIC EFFECT (voice coil moving in magnetic field), while Geyser, Toaster, and Heater operate on the HEATING EFFECT."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Science",
+    "chapter": "Electric Current and its Effects",
+    "question": "A student winds 50 turns of copper wire around an iron nail and connects it to a 1.5 V cell; it attracts 6 paper clips. If she increases the coil to 100 turns and connects TWO 1.5 V cells in series (3.0 V), what will happen?",
+    "options": [
+      "The electromagnet will attract significantly MORE paper clips (magnetic strength increases with more turns and higher current)",
+      "It will attract zero clips",
+      "The nail will dissolve",
+      "Clips will be repelled to the ceiling"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "Doubling coil turns and doubling current quadruples magnetic field strength (B ∝ N·I), greatly increasing lifting capacity."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Science",
+    "chapter": "Electric Current and its Effects",
+    "question": "Read the following statements:\nAssertion (A): A fuse wire must have high resistance and a low melting point.\nReason (R): When current exceeds safe thresholds, high resistance produces rapid heating (I²Rt) and the low melting point ensures the wire breaks cleanly before appliances burn.\nChoose the correct option:",
+    "options": [
+      "Both (A) and (R) are true, and (R) is the correct explanation of (A).",
+      "Both (A) and (R) are true, but (R) is NOT the correct explanation of (A).",
+      "(A) is true, but (R) is false.",
+      "(A) is false, but (R) is true."
+    ],
+    "correctAnswer": 0,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "Calibrated fuse alloys (tin-lead) combine moderate/high resistance for rapid thermal response with low melting points (~200°C) for safe tripping."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Science",
+    "chapter": "Electric Current and its Effects",
+    "question": "An electrician connects four 1.5 V dry cells to make a 6.0 V battery pack. Which orientation is scientifically correct?",
+    "options": [
+      "Connect (+) of Cell 1 to (-) of Cell 2, (+) of Cell 2 to (-) of Cell 3, and (+) of Cell 3 to (-) of Cell 4",
+      "Connect all (+) terminals together and all (-) terminals together",
+      "Connect (+) to (+) and (-) to (-) in series",
+      "Orientation does not matter"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "Series cell stacking requires alternating polarity (+ to -) so individual electromotive forces add constructively (Vtotal = 4 × 1.5 V = 6.0 V)."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Science",
+    "chapter": "Electric Current and its Effects",
+    "question": "Read the following statements:\nStatement 1: CFLs contain mercury vapour which is toxic and requires careful disposal.\nStatement 2: A magnetic compass needle aligns with Earth's geographic North-South line when no current flows near it.\nStatement 3: An electric fuse operates on the magnetic effect of current.\nWhich statements are TRUE?",
+    "options": [
+      "Statements 1 and 2 only",
+      "Statements 2 and 3 only",
+      "Statements 1 and 3 only",
+      "All Statements 1, 2, and 3"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "Statement 3 is false because an electric fuse operates strictly on the HEATING effect (Joule thermal melting) of electric current."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Science",
+    "chapter": "Electric Current and its Effects",
+    "question": "Why does reversing the direction of electric current flowing through an electromagnet reverse its magnetic polarity (North and South poles switch)?",
+    "options": [
+      "Electrons turn into protons",
+      "According to the right-hand rule, reversing current direction inverts the direction of circumferential magnetic flux lines around the coil",
+      "The iron core melts",
+      "Gravity reverses"
+    ],
+    "correctAnswer": 1,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "Solenoid polarity is determined by current winding direction (Clock Face Rule: clockwise = South, counter-clockwise = North)."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Science",
+    "chapter": "Electric Current and its Effects",
+    "question": "Consider four wires of equal length and equal diameter made of different metals:\n- Wire 1: Silver\n- Wire 2: Copper\n- Wire 3: Aluminium\n- Wire 4: Nichrome\nWhen identical currents flow through each wire for 1 minute, which wire will generate the MAXIMUM heat?",
+    "options": [
+      "Wire 1",
+      "Wire 2",
+      "Wire 3",
+      "Wire 4 (Nichrome)"
+    ],
+    "correctAnswer": 3,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "Nichrome has an electrical resistivity approximately 60 times higher than copper; since H = I²Rt, highest resistance produces maximum heat."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Science",
+    "chapter": "Electric Current and its Effects",
+    "question": "Why do high-speed Maglev (magnetic levitation) passenger trains use super-cooled electromagnets instead of permanent magnets?",
+    "options": [
+      "Permanent magnets are too heavy",
+      "Electromagnets can generate immensely powerful controllable magnetic fields that can be actively adjusted dynamically for levitation, guidance, and propulsion",
+      "Electromagnets require zero power",
+      "Permanent magnets lose magnetism in rain"
+    ],
+    "correctAnswer": 1,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "Computerized feedback loops dynamically throttle electromagnet currents to stabilize frictionless levitation and propel trains at 500+ km/h."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Science",
+    "chapter": "Electric Current and its Effects",
+    "question": "What is the primary operational difference between a standard Fuse and a Miniature Circuit Breaker (MCB)?",
+    "options": [
+      "A fuse wire melts destructively and must be physically replaced; an MCB trips mechanically via electromagnetic/thermal switches and can be reset instantly",
+      "Fuses are electronic; MCBs are made of glass",
+      "Fuses only work on DC; MCBs work on batteries",
+      "MCBs produce heat"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "Fuses are sacrificial one-time devices, whereas MCBs utilize re-settable bi-metallic and solenoid actuators."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Science",
+    "chapter": "Electric Current and its Effects",
+    "question": "A circuit contains an electric cell, an open switch, a bulb, and a compass needle wrapped with connecting wire. When the switch is open, the compass needle points North-South. When the switch is closed, what happens to the bulb and the compass needle?",
+    "options": [
+      "The bulb glows and the compass needle immediately deflects away from North-South",
+      "The bulb glows but compass does not move",
+      "The compass spins forever with no light",
+      "The cell explodes"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "Closing the switch establishes current, illuminating the filament (heating effect) and establishing a magnetic field that deflects the compass."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Science",
+    "chapter": "Electric Current and its Effects",
+    "question": "Why is an electric current said to have a chemical effect when passed through an electrolyte solution like acidified water?",
+    "options": [
+      "It freezes water into ice",
+      "Electric current breaks chemical bonds (electrolysis), decomposing water into hydrogen gas at the cathode and oxygen gas at the anode",
+      "It turns water into oil",
+      "Water becomes acidic salt"
+    ],
+    "correctAnswer": 1,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "Electrolysis of acidified water (2H2O → 2H2 + O2) is the classical chemical decomposition induced by an electric current."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Science",
+    "chapter": "Electric Current and its Effects",
+    "question": "What happens to a simple circuit with an electric bulb if the switch is in the OPEN position?",
+    "options": [
+      "The circuit is incomplete (broken), no electric current flows, and the bulb does not glow",
+      "The bulb glows twice as bright",
+      "The cell gets hot immediately",
+      "Current jumps across the air gap"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "An open switch creates an air gap (infinite resistance), breaking the conductive loop and stopping current flow."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Science",
+    "chapter": "Electric Current and its Effects",
+    "question": "Why are electric immersion heaters, electric irons, and toasters provided with an earthing wire (three-pin plug)?",
+    "options": [
+      "To make them work faster",
+      "The earth wire safely channels any leakage fault current from the metal body directly to the ground, preventing electric shocks",
+      "To save electricity bills",
+      "To change AC into DC"
+    ],
+    "correctAnswer": 1,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "Earthing provides a low-resistance return path for fault current, safely tripping the circuit breaker to prevent electrocution."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Science",
+    "chapter": "Light",
+    "question": "The bouncing back of light rays into the same medium when they strike a polished, shiny surface is called:",
+    "options": [
+      "Refraction",
+      "Reflection of light",
+      "Dispersion",
+      "Absorption"
+    ],
+    "correctAnswer": 1,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "Reflection is the change in direction of a wavefront at an interface between two different media so that the wavefront returns into the original medium."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Science",
+    "chapter": "Light",
+    "question": "Light always travels in a straight line path. This fundamental optical property is known as:",
+    "options": [
+      "Rectilinear propagation of light",
+      "Curvilinear motion",
+      "Diffraction",
+      "Polarization"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "Rectilinear propagation describes the phenomenon where light rays travel in straight trajectories through homogeneous transparent media."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Science",
+    "chapter": "Light",
+    "question": "An image formed on a screen by converging light rays that actually intersect is called a:",
+    "options": [
+      "Virtual image",
+      "Real image",
+      "Inverted ghost",
+      "Erect illusion"
+    ],
+    "correctAnswer": 1,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "A real image is formed by actual converging intersection of rays and can be projected and captured onto a physical screen."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Science",
+    "chapter": "Light",
+    "question": "An image that CANNOT be obtained or projected on a screen is called a:",
+    "options": [
+      "Real image",
+      "Virtual image",
+      "Diminished image",
+      "Shadow"
+    ],
+    "correctAnswer": 1,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "A virtual image occurs where light rays appear to diverge from a point behind the mirror but do not physically converge on a screen."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Science",
+    "chapter": "Light",
+    "question": "The apparent left-right reversal of an object and its image in a plane mirror is called:",
+    "options": [
+      "Lateral inversion",
+      "Refraction",
+      "Dispersion",
+      "Magnification"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "Lateral inversion is the phenomenon where the left side of an object appears as the right side in its plane mirror reflection."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Science",
+    "chapter": "Light",
+    "question": "A spherical mirror whose reflecting surface is curved INWARDS (like the hollow inner surface of a shiny spoon) is a:",
+    "options": [
+      "Convex mirror",
+      "Concave mirror",
+      "Plane mirror",
+      "Cylindrical mirror"
+    ],
+    "correctAnswer": 1,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "A concave mirror has an inward-caved reflecting surface that converges parallel incident light rays toward a focal point."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Science",
+    "chapter": "Light",
+    "question": "A spherical mirror whose reflecting surface is curved OUTWARDS (like the back outer surface of a shiny spoon) is a:",
+    "options": [
+      "Concave mirror",
+      "Convex mirror",
+      "Plane mirror",
+      "Parabolic mirror"
+    ],
+    "correctAnswer": 1,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "A convex mirror bulges outwards, diverging incident light rays and providing a wide field of view."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Science",
+    "chapter": "Light",
+    "question": "A transparent optical lens that is THICKER in the middle and thinner at the edges is a:",
+    "options": [
+      "Concave lens (Diverging)",
+      "Convex lens (Converging)",
+      "Plano-concave lens",
+      "Glass slab"
+    ],
+    "correctAnswer": 1,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "A convex lens is thicker at the centre than at the margins and converges parallel light rays to a real focus."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Science",
+    "chapter": "Light",
+    "question": "A transparent optical lens that is THINNER in the middle and thicker at the edges is a:",
+    "options": [
+      "Convex lens",
+      "Concave lens (Diverging)",
+      "Biconvex lens",
+      "Magnifying glass"
+    ],
+    "correctAnswer": 1,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "A concave lens is thinner at the optical centre and causes parallel light rays to diverge away."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Science",
+    "chapter": "Light",
+    "question": "The splitting of composite white sunlight into its constituent band of seven colors when passing through a glass prism is called:",
+    "options": [
+      "Reflection",
+      "Dispersion of light",
+      "Rectilinear motion",
+      "Absorption"
+    ],
+    "correctAnswer": 1,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "Dispersion occurs because different wavelengths refract at different refractive angles inside a glass prism, splitting into VIBGYOR."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Science",
+    "chapter": "Light",
+    "question": "What acronym represents the correct order of the seven colors of the visible rainbow spectrum from shortest to longest wavelength?",
+    "options": [
+      "ROYGBIV",
+      "VIBGYOR (Violet, Indigo, Blue, Green, Yellow, Orange, Red)",
+      "RGBYVIO",
+      "VGBIYOR"
+    ],
+    "correctAnswer": 1,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "VIBGYOR: Violet (most refracted) to Red (least refracted) forms the natural rainbow spectrum."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Science",
+    "chapter": "Light",
+    "question": "A circular cardboard disc painted with the seven rainbow colors in equal sectors appears white when spun rapidly. This classic device is called:",
+    "options": [
+      "Galileo's telescope",
+      "Newton's disc",
+      "Faraday's wheel",
+      "Oersted's compass"
+    ],
+    "correctAnswer": 1,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "Newton's color disc demonstrates persistence of vision where rapidly rotating spectral colors blend into white in the human brain."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Science",
+    "chapter": "Light",
+    "question": "Why is the word 'AMBULANCE' printed in laterally inverted (mirrored) lettering on the front of emergency hospital vehicles?",
+    "options": [
+      "For decorative style",
+      "Drivers in vehicles ahead see the correct forward spelling 'AMBULANCE' in their rear-view plane/convex mirrors, allowing quick right-of-way",
+      "To confuse pedestrians",
+      "It is written in Latin"
+    ],
+    "correctAnswer": 1,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "Lateral inversion in the driver's rear-view mirror reflects the reversed lettering into easily readable forward text."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Science",
+    "chapter": "Light",
+    "question": "Why are CONVEX mirrors used exclusively as side rear-view mirrors in cars, buses, and motorcycles?",
+    "options": [
+      "They produce inverted giant images",
+      "They always form erect, diminished virtual images, providing the driver with a much wider panoramic field of traffic behind",
+      "They absorb glare completely",
+      "They are flat like glass"
+    ],
+    "correctAnswer": 1,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "Convex mirrors diverge light, creating erect miniaturized virtual images that expand the driver's angular field of view."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Science",
+    "chapter": "Light",
+    "question": "Why do dentists use a small CONCAVE mirror to examine the teeth of patients?",
+    "options": [
+      "To shrink the tooth",
+      "When held close to a tooth (object between pole and focus), a concave mirror produces a highly magnified, upright virtual image",
+      "To light a fire",
+      "To reflect X-rays"
+    ],
+    "correctAnswer": 1,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "When an object lies within the focal length of a concave mirror, it creates a virtual, erect, and magnified image for detailed examination."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Science",
+    "chapter": "Light",
+    "question": "Why are CONCAVE mirrors used as reflectors in car headlights, searchlights, and torchlights?",
+    "options": [
+      "To scatter light in all directions",
+      "When the light bulb filament is placed at the principal focus of the concave reflector, it produces a powerful parallel beam of light",
+      "To change bulb color to blue",
+      "To make the car faster"
+    ],
+    "correctAnswer": 1,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "Rays diverging from the focal point reflect off the concave parabolic surface parallel to the principal axis, throwing a long beam."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Science",
+    "chapter": "Light",
+    "question": "How does a handheld magnifying glass work to read tiny letters in a dictionary?",
+    "options": [
+      "It is a concave lens that shrinks letters",
+      "It is a CONVEX lens; when held close to the book (object within focus), it produces a magnified, erect virtual image",
+      "It changes ink into light",
+      "It bends paper"
+    ],
+    "correctAnswer": 1,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "A simple biconvex magnifying glass held within its focal length refracts diverging rays that appear to emanate from an enlarged virtual image."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Science",
+    "chapter": "Light",
+    "question": "What type of image is ALWAYS formed by a CONCAVE lens regardless of the object's distance?",
+    "options": [
+      "Virtual, Erect, and Diminished (smaller than object)",
+      "Real, Inverted, and Magnified",
+      "Real, Erect, and Same size",
+      "Virtual, Inverted, and Giant"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "Diverging concave lenses always produce virtual, erect, and diminished images on the same side as the object."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Science",
+    "chapter": "Light",
+    "question": "How does a Rainbow form in the sky after a rain shower?",
+    "options": [
+      "Sunlight bounces off birds",
+      "Millions of suspended spherical raindrops act as tiny natural prisms, refracting, dispersing, and internally reflecting sunlight",
+      "Clouds paint colors in air",
+      "Lightning leaves behind colored smoke"
+    ],
+    "correctAnswer": 1,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "Atmospheric water droplets act as dispersive prisms undergoing refraction, total internal reflection, and angular dispersion."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Science",
+    "chapter": "Light",
+    "question": "What are the characteristics of an image formed by a standard flat PLANE MIRROR?",
+    "options": [
+      "Virtual, erect, same size as object, laterally inverted, and at the same distance behind the mirror as the object in front",
+      "Real, inverted, magnified, and touching the glass",
+      "Real, erect, smaller, and upside down",
+      "Virtual, diminished, and curved"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "Plane mirror reflections exhibit: virtuality, erectness, unit magnification (1:1 size), equal object-image distance, and lateral inversion."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Science",
+    "chapter": "Light",
+    "question": "If you stand 2 metres in front of a flat plane mirror, what is the distance between YOU and your virtual IMAGE?",
+    "options": [
+      "2 metres",
+      "4 metres",
+      "1 metre",
+      "Zero metres"
+    ],
+    "correctAnswer": 1,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "The image is located 2 m behind the mirror surface. Total distance between object and image = 2 m + 2 m = 4 metres."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Science",
+    "chapter": "Light",
+    "question": "Why does a concave shaving mirror make shaving easier and more precise for men?",
+    "options": [
+      "It cuts whiskers with laser",
+      "When the face is positioned close inside its focal length, it forms an upright, magnified virtual image of facial hairs",
+      "It cools the skin",
+      "It darkens facial skin"
+    ],
+    "correctAnswer": 1,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "Concave mirrors operated within focal distance provide enlarged upright magnification of facial features."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Science",
+    "chapter": "Light",
+    "question": "When parallel rays of sunlight are focused onto a dry sheet of paper using a CONVEX lens, the paper begins to smoke and burn. Why?",
+    "options": [
+      "The glass lens is made of fire",
+      "The converging convex lens concentrates solar radiant thermal energy and photons onto a sharp tiny focal point",
+      "Paper reacts chemically with glass",
+      "Sunlight becomes poisonous"
+    ],
+    "correctAnswer": 1,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "Converging convex lenses focus broad incident solar thermal flux onto a high-intensity focal point, reaching the ignition temperature of paper."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Science",
+    "chapter": "Light",
+    "question": "Why can an image formed by a plane mirror NOT be captured on a paper screen placed behind the mirror?",
+    "options": [
+      "Paper blocks light",
+      "Light rays do not actually pass through or emanate behind the opaque silvered mirror; it is a virtual illusion",
+      "The mirror absorbs all light",
+      "Images only exist on glass"
+    ],
+    "correctAnswer": 1,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "Virtual images are formed by backward extrapolated imaginary rays; no physical light energy reaches the space behind the mirror."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Science",
+    "chapter": "Light",
+    "question": "Which of the following optical components produces a REAL, INVERTED, and DIMINISHED image of a distant tree on a wall screen?",
+    "options": [
+      "Plane mirror",
+      "Convex lens",
+      "Concave lens",
+      "Glass prism"
+    ],
+    "correctAnswer": 1,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "A convex lens focusing light from an object at infinity forms a real, inverted, diminished image at its principal focal plane."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Science",
+    "chapter": "Light",
+    "question": "Why do soap bubbles and CD surfaces display dazzling multicolored rainbow patterns when viewed in white light?",
+    "options": [
+      "They are painted with dyes",
+      "Thin-film interference and micro-groove diffraction disperse white light into its component spectral wavelengths",
+      "Soap is made of prisms",
+      "CDs have LED lights inside"
+    ],
+    "correctAnswer": 1,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "Diffraction from spiral tracks on optical discs splits reflected white light into iridescent spectral colors."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Science",
+    "chapter": "Light",
+    "question": "Read the following statements:\nAssertion (A): Concave mirrors are used in solar furnaces and solar cookers.\nReason (R): Concave mirrors converge broad parallel beams of incident sunlight into a high-temperature focal spot.\nChoose the correct option:",
+    "options": [
+      "Both (A) and (R) are true, and (R) is the correct explanation of (A).",
+      "Both (A) and (R) are true, but (R) is NOT the correct explanation of (A).",
+      "(A) is true, but (R) is false.",
+      "(A) is false, but (R) is true."
+    ],
+    "correctAnswer": 0,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "Concave parabolic collectors concentrate solar irradiance at the focal receiver, generating temperatures exceeding 1000°C."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Science",
+    "chapter": "Light",
+    "question": "Spot the IMPOSTER in the following group of optical devices based on their ability to form REAL IMAGES:\nGroup: [Concave Mirror, Convex Lens, Human Eye Lens, Concave Lens]",
+    "options": [
+      "Concave Mirror",
+      "Convex Lens",
+      "Human Eye Lens",
+      "Concave Lens"
+    ],
+    "correctAnswer": 3,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "A Concave Lens is a diverging lens that can ONLY form virtual images, whereas Concave Mirrors, Convex Lenses, and Eye Lenses can form real images."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Science",
+    "chapter": "Light",
+    "question": "A candle is placed at the Centre of Curvature (C) of a concave mirror. Where will the image form, and what will be its nature and size?",
+    "options": [
+      "At Centre of Curvature (C); Real, Inverted, and EXACTLY SAME SIZE as the candle",
+      "At Focus (F); Virtual and enlarged",
+      "Behind the mirror; Erect and tiny",
+      "At infinity; Real and giant"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "By mirror ray tracing: an object at C (u = 2f) forms an image at C (v = 2f) that is real, inverted, with magnification m = -1 (same size)."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Science",
+    "chapter": "Light",
+    "question": "Read the following statements:\nAssertion (A): A rainbow is always observed in the sky in the direction OPPOSITE to the Sun.\nReason (R): For an observer to see dispersed and internally reflected light from falling raindrops, the Sun must be behind the observer's back.\nChoose the correct option:",
+    "options": [
+      "Both (A) and (R) are true, and (R) is the correct explanation of (A).",
+      "Both (A) and (R) are true, but (R) is NOT the correct explanation of (A).",
+      "(A) is true, but (R) is false.",
+      "(A) is false, but (R) is true."
+    ],
+    "correctAnswer": 0,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "Primary rainbow rays emerge at approximately 42° relative to anti-solar trajectories, requiring the sun behind the viewer."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Science",
+    "chapter": "Light",
+    "question": "You see the reflection of a digital wall clock in a plane mirror showing '03:25'. What is the ACTUAL real time shown by the clock?",
+    "options": [
+      "08:35",
+      "09:25",
+      "03:25",
+      "12:00"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "In lateral mirror reflections, the true time equals 11:60 minus 03:25 = 08:35."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Science",
+    "chapter": "Light",
+    "question": "Read the following statements:\nStatement 1: A convex mirror always forms a virtual, erect, and diminished image regardless of object position.\nStatement 2: A convex lens can form both real-inverted and virtual-erect images depending on object distance.\nStatement 3: White light consists of seven distinct spectral colors.\nWhich statements are TRUE?",
+    "options": [
+      "Statements 1 and 2 only",
+      "Statements 2 and 3 only",
+      "Statements 1 and 3 only",
+      "All Statements 1, 2, and 3"
+    ],
+    "correctAnswer": 3,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "All three statements represent fundamental, verified principles of geometrical optics and spectral dispersion."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Science",
+    "chapter": "Light",
+    "question": "Why does a red rose appear black when viewed in pure monochromatic BLUE light inside a dark room?",
+    "options": [
+      "Blue light bleaches the petals",
+      "A red rose reflects only red light and absorbs all other wavelengths; in pure blue light, it absorbs the blue and reflects zero light, appearing black",
+      "Red and blue make yellow",
+      "Petals lose pigment in darkness"
+    ],
+    "correctAnswer": 1,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "Opaque pigmented surfaces appear black when illuminated by light wavelengths they completely absorb without reflection."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Science",
+    "chapter": "Light",
+    "question": "Consider four optical setups:\n- Setup A: Object placed between Focus and Optical Centre of a Convex Lens\n- Setup B: Object placed at 2F of a Convex Lens\n- Setup C: Object placed in front of a Concave Lens\n- Setup D: Object placed in front of a Plane Mirror\nWhich setup produces a REAL and INVERTED image?",
+    "options": [
+      "Setup A",
+      "Setup B",
+      "Setup C",
+      "Setup D"
+    ],
+    "correctAnswer": 1,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "Setup B (object at 2F) forms a real, inverted image at 2F on the opposite side. Setups A, C, and D all produce virtual erect images."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Science",
+    "chapter": "Light",
+    "question": "Why does an upright wooden stick partially immersed obliquely in a glass bowl of water appear bent at the water surface?",
+    "options": [
+      "Water softens the wood",
+      "Light rays traveling from denser water into rarer air bend AWAY from the normal due to Refraction (change in light speed)",
+      "Water acts as a mirror",
+      "Eye muscles distort vision"
+    ],
+    "correctAnswer": 1,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "Refraction occurs as light speeds up upon exiting dense water into air, bending away from the interface normal."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Science",
+    "chapter": "Light",
+    "question": "Two plane mirrors are placed at an angle of 90° to each other. How many virtual images of a coin placed between them will be formed?",
+    "options": [
+      "1 image",
+      "2 images",
+      "3 images",
+      "4 images"
+    ],
+    "correctAnswer": 2,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "Formula: Number of images n = (360°/θ) - 1. For θ = 90°: n = (360/90) - 1 = 4 - 1 = 3 images."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Science",
+    "chapter": "Light",
+    "question": "An astronomical telescope uses two lenses to observe distant celestial stars. What combination of lenses is used?",
+    "options": [
+      "A large focal length Convex objective lens and a small focal length Convex eyepiece lens",
+      "Two concave lenses",
+      "One plane mirror and one prism",
+      "Two diverging lenses"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "Refracting astronomical telescopes combine a large aperture convex objective to gather light and a convex ocular eyepiece for magnification."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Science",
+    "chapter": "Light",
+    "question": "Why is violet light refracted (bent) the MOST and red light bent the LEAST when white light passes through a glass prism?",
+    "options": [
+      "Violet light has shorter wavelength and travels slower in glass than longer wavelength red light",
+      "Violet light is heavier",
+      "Red light has zero speed",
+      "Prisms are tinted violet inside"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "Cauchy's dispersion equation: refractive index increases for shorter wavelengths; hence violet slows more and bends at steeper angles."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Science",
+    "chapter": "Light",
+    "question": "What happens when a ray of light strikes a polished plane mirror along the Normal line (angle of incidence = 0°)?",
+    "options": [
+      "It reflects straight back along the same path (angle of reflection = 0°)",
+      "It bends by 90°",
+      "It passes through the back of the mirror",
+      "It splits into seven colors"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "By the Law of Reflection (angle i = angle r), normal incidence (i = 0°) results in normal reflection (r = 0°) back along the incident path."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Science",
+    "chapter": "Light",
+    "question": "Which of the following optical surfaces acts as a natural CONCAVE mirror?",
+    "options": [
+      "The inner shiny curved surface of a stainless steel spoon bowl",
+      "The outer bulged back of a stainless steel spoon",
+      "A flat window glass pane",
+      "A transparent water droplet"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "The inward hollow depression of a spoon bowl functions as a converging concave reflecting surface."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Science",
+    "chapter": "Forests: Our Lifeline",
+    "question": "The uppermost branched leafy part of a tree above the main trunk is called the:",
+    "options": [
+      "Crown",
+      "Canopy",
+      "Understorey",
+      "Forest floor"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "The crown of a tree encompasses all leafy branches and foliage spreading out above the main woody stem trunk."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Science",
+    "chapter": "Forests: Our Lifeline",
+    "question": "The continuous roof-like overhead ceiling formed by the crowns of tall trees in a dense forest is known as the:",
+    "options": [
+      "Canopy",
+      "Crown",
+      "Understorey",
+      "Stratosphere"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "The canopy is the unbroken upper green layer formed by crowns of dominant tall trees that intercepts direct sunlight and rain."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Science",
+    "chapter": "Forests: Our Lifeline",
+    "question": "The layer of smaller trees, shrubs, bushes, and tall grasses growing below the canopy in a forest is called the:",
+    "options": [
+      "Canopy",
+      "Understorey",
+      "Crown",
+      "Emergent layer"
+    ],
+    "correctAnswer": 1,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "The understorey comprises shade-tolerant intermediate vegetative tiers situated beneath the overarching canopy."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Science",
+    "chapter": "Forests: Our Lifeline",
+    "question": "Microorganisms that break down dead and decaying plant and animal remains into dark, nutrient-rich soil matter are:",
+    "options": [
+      "Producers",
+      "Decomposers",
+      "Carnivores",
+      "Parasites"
+    ],
+    "correctAnswer": 1,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "Decomposers (soil bacteria and saprotrophic fungi) catabolize complex organic detritus, releasing bioavailable soil nutrients."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Science",
+    "chapter": "Forests: Our Lifeline",
+    "question": "The dark organic rich component of topsoil formed by the biological decay of dead leaves and organic matter is:",
+    "options": [
+      "Sand",
+      "Humus",
+      "Clay",
+      "Gravel"
+    ],
+    "correctAnswer": 1,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "Humus is the dark colloidal amorphous organic fraction of soil that dramatically enhances water retention and mineral fertility."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Science",
+    "chapter": "Forests: Our Lifeline",
+    "question": "Why are green forests commonly described as the 'Green Lungs' of the Earth?",
+    "options": [
+      "They are shaped like human lungs",
+      "Forest plants absorb carbon dioxide during photosynthesis and release vital oxygen for the respiration of all animals",
+      "They breathe with mouths",
+      "They produce water vapor only"
+    ],
+    "correctAnswer": 1,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "Through global photosynthetic gas exchange, forests sequester CO2 and replenish atmospheric O2 like planetary lungs."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Science",
+    "chapter": "Forests: Our Lifeline",
+    "question": "A biological feeding sequence where one organism consumes another (e.g., Grass → Insect → Frog → Snake → Eagle) is a:",
+    "options": [
+      "Food chain",
+      "Water cycle",
+      "Carbon cycle",
+      "Mineral chain"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "A food chain represents linear trophic energy transfer starting from primary autotrophic producers to successive consumers."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Science",
+    "chapter": "Forests: Our Lifeline",
+    "question": "Which of the following products is directly obtained from forest resources?",
+    "options": [
+      "Timber and firewood",
+      "Medicinal herbs and honey",
+      "Gum, sealing wax (lac), and resin",
+      "All of these"
+    ],
+    "correctAnswer": 3,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "Forests provide major and non-timber forest products including timber, resins, medicinal plants, lac, and honey."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Science",
+    "chapter": "Forests: Our Lifeline",
+    "question": "How do tree root networks physically prevent fertile topsoil erosion during torrential rains?",
+    "options": [
+      "Roots freeze the mud",
+      "Extensive root systems bind soil particles firmly together and enhance rainwater infiltration into the ground",
+      "Roots act as umbrellas",
+      "Trees push water to the clouds"
+    ],
+    "correctAnswer": 1,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "Intertwined root meshes physically anchor soil aggregates, preventing runoff shear forces from stripping topsoil."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Science",
+    "chapter": "Forests: Our Lifeline",
+    "question": "Why does rainwater NOT flood or stagnate immediately on the floor of a dense natural forest?",
+    "options": [
+      "The multi-tiered forest canopy intercepts raindrops, while spongy humus topsoil absorbs and recharges groundwater slowly",
+      "Forest trees drink all water in one second",
+      "Rain skips forests",
+      "Forest floor is made of metal"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "Canopy baffling decelerates kinetic raindrop impact, and porous humus litter acts as a giant natural sponge absorbing runoff."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Science",
+    "chapter": "Forests: Our Lifeline",
+    "question": "Organisms that feed exclusively on plants (primary producers) in a forest ecosystem are:",
+    "options": [
+      "Carnivores",
+      "Herbivores",
+      "Decomposers",
+      "Top predators"
+    ],
+    "correctAnswer": 1,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "Herbivores (primary consumers such as deer, elephants, and caterpillars) feed directly on plant biomass."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Science",
+    "chapter": "Forests: Our Lifeline",
+    "question": "Why is nothing ever 'wasted' in a natural forest ecosystem?",
+    "options": [
+      "Dead leaves, fallen branches, and animal droppings are rapidly decomposed by microorganisms into nutrient humus to nourish new plant growth",
+      "Animals eat all rocks",
+      "Rain washes all dirt away to space",
+      "Forests have trash bins"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "Closed biogeochemical nutrient loops ensure continuous cyclic recycling of organic matter without residual ecological waste."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Science",
+    "chapter": "Forests: Our Lifeline",
+    "question": "How do forest trees act as natural noise buffers along highways and urban areas?",
+    "options": [
+      "Trees produce louder sounds",
+      "Dense foliage, woody branches, and leaves absorb, scatter, and attenuate acoustic sound vibrations",
+      "Trees block wind only",
+      "Trees make cars drive slow"
+    ],
+    "correctAnswer": 1,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "Thick vegetative shelterbelts scatter and absorb high-frequency acoustic waves, mitigating environmental noise pollution."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Science",
+    "chapter": "Forests: Our Lifeline",
+    "question": "What catastrophic ecological consequences occur when a vast natural forest is completely cleared (Deforestation)?",
+    "options": [
+      "Global warming intensifies (rising CO2), soil erosion accelerates causing flash floods, and wildlife lose habitats",
+      "Rainfall doubles everywhere",
+      "Soil becomes fertile forever",
+      "Oxygen levels increase"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "Deforestation disrupts carbon sequestration, destabilizes regional hydrological cycles, drives biodiversity loss, and triggers erosion."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Science",
+    "chapter": "Forests: Our Lifeline",
+    "question": "How do forests influence the local climate and promote frequent rainfall in a region?",
+    "options": [
+      "Forests attract clouds with magnets",
+      "Large-scale transpiration from billions of tree leaves releases immense water vapour into the atmosphere, cooling the air and aiding cloud condensation",
+      "Trees block cold winds from sky",
+      "Roots pump heat underground"
+    ],
+    "correctAnswer": 1,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "Biotic evapotranspiration pumps massive volumes of moisture into the boundary layer, driving regional precipitation regimes."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Science",
+    "chapter": "Forests: Our Lifeline",
+    "question": "What is the crucial role of wild animals in maintaining the continuous regeneration and growth of forests?",
+    "options": [
+      "They destroy young saplings",
+      "Animals disperse seeds over long distances and their organic droppings provide fertilizer nutrients for germinating seedlings",
+      "They keep forests silent",
+      "They build nests with timber"
+    ],
+    "correctAnswer": 1,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "Faunal seed vectors (zoochory) and dung nutrient deposition drive forest succession and vegetative regeneration."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Science",
+    "chapter": "Forests: Our Lifeline",
+    "question": "Why is the atmosphere inside a dense forest cooler and noticeably more humid than open barren urban areas?",
+    "options": [
+      "Forests have air conditioners",
+      "Thick shade blocks direct solar heating and continuous foliar transpiration releases moisture that absorbs sensible heat",
+      "Soil is made of ice",
+      "Wind cannot blow inside"
+    ],
+    "correctAnswer": 1,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "Canopy albedo shading combined with high latent heat flux from stomatal transpiration creates a buffered microclimate."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Science",
+    "chapter": "Forests: Our Lifeline",
+    "question": "In a forest food chain: Grass → Grasshopper → Frog → Snake → Hawk, what would happen if all Frogs are suddenly exterminated by a disease?",
+    "options": [
+      "Grasshopper population will explode, damaging vegetation, while snake population will crash due to lack of food",
+      "Hawks will start eating grass",
+      "Grass will grow 100 metres tall",
+      "Nothing will change"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "Trophic cascade: removing an intermediate predator releases prey (grasshoppers) and starves higher predators (snakes)."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Science",
+    "chapter": "Forests: Our Lifeline",
+    "question": "What is a 'Food Web' in a forest ecosystem?",
+    "options": [
+      "A spider web made of food",
+      "A complex network of interconnected and overlapping food chains reflecting diverse feeding interactions among organisms",
+      "A straight line of 3 animals",
+      "A list of edible forest fruits"
+    ],
+    "correctAnswer": 1,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "A food web depicts the complex, realistic network of trophic pathways through which energy and nutrients cycle."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Science",
+    "chapter": "Forests: Our Lifeline",
+    "question": "Why are forest floors covered with a dark, soft spongy layer of decomposing leaf litter?",
+    "options": [
+      "Humans carpet the forest",
+      "Continuous shedding of leaves, twigs, and bark is broken down into humus by decomposers, retaining moisture and harboring diverse micro-fauna",
+      "Tree roots push up black mud",
+      "Charcoal forms naturally"
+    ],
+    "correctAnswer": 1,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "Humus-rich forest litter provides micro-habitats for beetles, worms, and fungi while regulating soil moisture and aeration."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Science",
+    "chapter": "Forests: Our Lifeline",
+    "question": "How do tall trees, shrubs, herbs, and mosses organize themselves vertically in a mature rainforest?",
+    "options": [
+      "Randomly without order",
+      "In distinct vertical stratification layers (Canopy, Understorey, Shrub layer, Herb layer, Forest Floor) based on light and moisture requirements",
+      "All grow to the exact same 1-metre height",
+      "Plants grow upside down"
+    ],
+    "correctAnswer": 1,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "Vertical ecological stratification optimizes photon capture and micro-habitat niches across canopy, sub-canopy, shrub, and ground tiers."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Science",
+    "chapter": "Forests: Our Lifeline",
+    "question": "Why do indigenous tribal communities thrive in deep forests without harming nature?",
+    "options": [
+      "They destroy all trees",
+      "They rely sustainably on forest resources for food, shelter, natural medicines, and tools while conserving sacred forest groves and wildlife",
+      "They build factories inside",
+      "They do not drink water"
+    ],
+    "correctAnswer": 1,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "Traditional ecological knowledge promotes sustainable harvesting and symbiotic stewardship of forest biodiversity."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Science",
+    "chapter": "Forests: Our Lifeline",
+    "question": "How does the forest serve as a natural recharge system for regional groundwater aquifers?",
+    "options": [
+      "Trees pump water into deep wells",
+      "Spongy humus soil and deep root channels allow rainwater to percolate gently down into underground water tables instead of running off as flash floods",
+      "Trees turn air into groundwater",
+      "Leaves store water underground"
+    ],
+    "correctAnswer": 1,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "High infiltration rates in undisturbed forest soils maximize sub-surface recharge and maintain perennial stream baseflows."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Science",
+    "chapter": "Forests: Our Lifeline",
+    "question": "Which of the following tree species is historically famous for producing natural aromatic resin called Frankincense and Sal timber?",
+    "options": [
+      "Sal tree (Shorea robusta)",
+      "Cactus",
+      "Water hyacinth",
+      "Hydrilla"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "Sal (Shorea robusta) is a dominant deciduous tree prized for durable structural timber, resins (dammar), and tannins."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Science",
+    "chapter": "Forests: Our Lifeline",
+    "question": "Why does a clearing in a forest naturally heal and grow back into a mature forest over decades if left undisturbed (Ecological Succession)?",
+    "options": [
+      "Soil contains dormant seed banks and nearby birds/wind bring pioneer seeds, leading to progressive colonization from grasses to shrubs to tall trees",
+      "Forests hire gardeners",
+      "Dead trees come back alive",
+      "Rocks turn into wood"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "Secondary ecological succession progresses through predictable pioneer herb and seral shrub stages toward a climax forest canopy."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Science",
+    "chapter": "Forests: Our Lifeline",
+    "question": "What is the primary role of scavenger animals like Vultures, Jackals, and Hyenas in forest ecosystems?",
+    "options": [
+      "They hunt living trees",
+      "They feed on dead animal carcasses, cleaning the forest environment and preventing disease outbreaks",
+      "They destroy topsoil",
+      "They drink river water only"
+    ],
+    "correctAnswer": 1,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "Scavengers accelerate carcass recycling, neutralizing biological hazards and returning biomass to detrital nutrient cycles."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Science",
+    "chapter": "Forests: Our Lifeline",
+    "question": "Read the following statements:\nAssertion (A): Forests act as dynamic living entities (self-sustaining ecosystems).\nReason (R): Forests maintain an intricate equilibrium through interconnected food webs, closed nutrient recycling, natural regeneration, and climate regulation.\nChoose the correct option:",
+    "options": [
+      "Both (A) and (R) are true, and (R) is the correct explanation of (A).",
+      "Both (A) and (R) are true, but (R) is NOT the correct explanation of (A).",
+      "(A) is true, but (R) is false.",
+      "(A) is false, but (R) is true."
+    ],
+    "correctAnswer": 0,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "Complex biotic homeostatic feedbacks make forest biomes resilient, self-perpetuating ecological entities."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Science",
+    "chapter": "Forests: Our Lifeline",
+    "question": "Spot the IMPOSTER in the following group of forest ecological components:\nGroup: [Oak tree, Wild Boar, Earthworm, Concrete Dam]",
+    "options": [
+      "Oak tree",
+      "Wild Boar",
+      "Earthworm",
+      "Concrete Dam"
+    ],
+    "correctAnswer": 3,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "Concrete Dam is an artificial man-made civil engineering structure, whereas Oak tree (producer), Wild Boar (consumer), and Earthworm (decomposer/detritivore) are natural biotic ecosystem components."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Science",
+    "chapter": "Forests: Our Lifeline",
+    "question": "Consider the following statement: 'If trees are removed from the slope of a mountain, the valley downstream experiences severe siltation and floods.' Why is this scientifically accurate?",
+    "options": [
+      "Unanchored exposed topsoil on the hill slope washes down rapidly with torrential rain, clogging riverbeds with silt and causing rivers to overflow banks",
+      "Mountain trees push clouds away",
+      "Valleys produce water when trees are cut",
+      "Soil turns into water"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "Loss of hillside vegetative intercept increases surface runoff velocity, scouring hillsides and depositing sediment that chokes downstream river channels."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Science",
+    "chapter": "Forests: Our Lifeline",
+    "question": "Read the following statements:\nAssertion (A): Decomposers convert dead plant and animal tissues into humus.\nReason (R): Humus releases essential inorganic mineral nutrients back into the soil for absorption by living plant root systems.\nChoose the correct option:",
+    "options": [
+      "Both (A) and (R) are true, and (R) is the correct explanation of (A).",
+      "Both (A) and (R) are true, but (R) is NOT the correct explanation of (A).",
+      "(A) is true, but (R) is false.",
+      "(A) is false, but (R) is true."
+    ],
+    "correctAnswer": 0,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "Microbial mineralization converts dead biomolecules into bioavailable nitrate, phosphate, and potassium ions in the humus layer."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Science",
+    "chapter": "Forests: Our Lifeline",
+    "question": "Why is the biological diversity (number of species) in a pristine natural rainforest exponentially higher than in a commercial monoculture eucalyptus plantation?",
+    "options": [
+      "Natural forests provide multi-layered micro-habitats, varied niches, and diverse food sources that support thousands of co-adapted specialist species",
+      "Monoculture plantations are made of plastic",
+      "Animals hate eucalyptus trees",
+      "Rainforests are older than Earth"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "Structural complexity, varied host plants, and rich microclimates in diverse forests support broad ecological niche differentiation."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Science",
+    "chapter": "Forests: Our Lifeline",
+    "question": "Read the following statements:\nStatement 1: Forests maintain the global atmospheric balance between Oxygen and Carbon dioxide.\nStatement 2: Epiphytes and climbers use tall forest trees purely for structural support to reach sunlight in dense canopies.\nStatement 3: Deforestation leads to an increase in groundwater recharge.\nWhich statements are TRUE?",
+    "options": [
+      "Statements 1 and 2 only",
+      "Statements 2 and 3 only",
+      "Statements 1 and 3 only",
+      "All Statements 1, 2, and 3"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "Statement 3 is false because deforestation drastically accelerates runoff and erosion, reducing groundwater infiltration and recharge."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Science",
+    "chapter": "Forests: Our Lifeline",
+    "question": "How does the thick vegetative canopy of a forest dampen and mitigate the destructive kinetic energy of extreme cyclonic storms?",
+    "options": [
+      "Canopy creates wind",
+      "Interlocking upper tree crowns create a high frictional boundary layer that dissipates gust kinetic energy and protects ground soils and fauna",
+      "Trees pull storms into the sky",
+      "Leaves absorb rain completely"
+    ],
+    "correctAnswer": 1,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "Aerodynamic surface roughness of forest canopies decelerates turbulent gale-force winds through frictional drag."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Science",
+    "chapter": "Forests: Our Lifeline",
+    "question": "Consider four organisms in a forest:\n1. Shorea robusta (Sal tree)\n2. Spotted Deer\n3. Royal Bengal Tiger\n4. Wood-decaying Polypore Fungus\nWhat is the ecological trophic designation of each organism?",
+    "options": [
+      "1 = Producer, 2 = Primary Consumer (Herbivore), 3 = Secondary/Tertiary Consumer (Carnivore), 4 = Decomposer",
+      "1 = Decomposer, 2 = Producer, 3 = Herbivore, 4 = Carnivore",
+      "1 = Herbivore, 2 = Carnivore, 3 = Producer, 4 = Omnivore",
+      "All four are Producers"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "Accurately maps the classic trophic levels: autotrophic producer, herbivorous consumer, apex carnivore, and saprotrophic decomposer."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Science",
+    "chapter": "Forests: Our Lifeline",
+    "question": "Why are sacred forest groves (Devrais / Orans) in India of immense scientific value for modern ecological conservation?",
+    "options": [
+      "They are tourist parks",
+      "They have preserved pristine ancient gene pools, rare endemic flora, and undisturbed climax forest ecosystems protected by traditional community taboos",
+      "They produce gold",
+      "They have no animals"
+    ],
+    "correctAnswer": 1,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "Sacred groves serve as critical biodiversity micro-refugia, preserving rare endemic lineages and baseline soil biomes."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Science",
+    "chapter": "Forests: Our Lifeline",
+    "question": "What role do mycorrhizal fungal networks in forest soils play between different tree species (the 'Wood Wide Web')?",
+    "options": [
+      "They destroy tree roots",
+      "They form subterranean hyphal networks connecting trees, transferring scarce carbon, phosphorus, and biochemical warning signals between individuals",
+      "They eat living trees",
+      "They freeze soil water"
+    ],
+    "correctAnswer": 1,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "Common mycorrhizal networks (CMNs) facilitate inter-plant nutrient redistribution and systemic allelochemical signaling."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Science",
+    "chapter": "Forests: Our Lifeline",
+    "question": "Why does the removal of apex predators (like Tigers and Wolves) from a forest ecosystem eventually lead to the destruction of the forest's plant vegetation?",
+    "options": [
+      "Tigers plant trees",
+      "Without apex predators, herbivore populations multiply unchecked, leading to catastrophic overgrazing and total destruction of young tree saplings",
+      "Herbivores turn into carnivores",
+      "Trees die of loneliness"
+    ],
+    "correctAnswer": 1,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "Top-down trophic regulation controls herbivore densities, preventing devastating overgrazing of emerging saplings and ground cover."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Science",
+    "chapter": "Forests: Our Lifeline",
+    "question": "A forest soil sample is analyzed:\n- High organic humus content (> 15%)\n- Abundant earthworm and fungal hyphae activity\n- Excellent water infiltration rate\nWhat does this soil condition indicate about the health of the forest?",
+    "options": [
+      "The forest is healthy, resilient, and thriving with active closed-loop nutrient cycles",
+      "The forest is barren and dying",
+      "The soil is toxic",
+      "No plants can grow in such soil"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "High humus, active soil biota, and optimal infiltration are hallmark indicators of a mature, self-sustaining climax forest ecosystem."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Science",
+    "chapter": "Forests: Our Lifeline",
+    "question": "Which of the following animals is a nocturnal predator that hunts at night in the deep forest undergrowth?",
+    "options": [
+      "Owl and Leopard",
+      "Butterfly",
+      "Spotted Deer",
+      "Peacock"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "Owls and leopards possess specialized night vision adaptations for hunting nocturnal prey in the forest darkness."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Science",
+    "chapter": "Forests: Our Lifeline",
+    "question": "Why are shrubs, bushes, and herbs in the forest understorey adapted to thrive in low-intensity diffused sunlight?",
+    "options": [
+      "They do not perform photosynthesis",
+      "The dense overhead tree canopy blocks up to 95% of direct sunlight, so understorey plants possess broad leaves and high chlorophyll density to capture filtered light",
+      "They absorb light from tree trunks",
+      "They grow only during full moons"
+    ],
+    "correctAnswer": 1,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "Understorey vegetation adapts shade tolerance with thin wide leaf blades maximizing photon capture in low-light environments."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Science",
+    "chapter": "Wastewater Story",
+    "question": "Wastewater released from homes, industries, hospitals, and commercial establishments is called:",
+    "options": [
+      "Sewage",
+      "Potable water",
+      "Distilled water",
+      "Groundwater"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "Sewage is liquid municipal wastewater carrying suspended physical impurities, organic waste, pathogens, and dissolved chemicals."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Science",
+    "chapter": "Wastewater Story",
+    "question": "The complex underground network of pipes that transports sewage from homes to the wastewater treatment plant is called a:",
+    "options": [
+      "Sewerage system",
+      "Aqueduct",
+      "Canal network",
+      "Ventilator"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "A sewerage system is an interconnected infrastructure of subterranean conduit sewers and manholes for wastewater transport."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Science",
+    "chapter": "Wastewater Story",
+    "question": "What does the abbreviation WWTP stand for in environmental engineering?",
+    "options": [
+      "Waste Water Treatment Plant",
+      "World Water Testing Program",
+      "Water Warming and Thermal Process",
+      "Wild Wildlife Tracking Project"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "WWTP stands for Wastewater Treatment Plant, a facility that purifies sewage before environmental discharge or reuse."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Science",
+    "chapter": "Wastewater Story",
+    "question": "In a Wastewater Treatment Plant, what physical device removes large floating objects like plastic bags, cans, rags, and sticks first?",
+    "options": [
+      "Bar screens",
+      "Grit chambers",
+      "Aeration tanks",
+      "Chlorination chambers"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "Bar screens are mechanical grid filters that trap large coarse debris in the primary physical screening stage."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Science",
+    "chapter": "Wastewater Story",
+    "question": "The semi-solid human fecal waste that settles to the bottom of the large sedimentation tank in a sewage treatment plant is:",
+    "options": [
+      "Sludge",
+      "Scum",
+      "Grit",
+      "Clinker"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "Primary sludge consists of settleable settleable organic solids accumulated at the bottom of primary clarifier clarifiers."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Science",
+    "chapter": "Wastewater Story",
+    "question": "The lightweight floatable waste like oils, grease, and fats that float on the surface of water in the clarifier tank is called:",
+    "options": [
+      "Scum",
+      "Sludge",
+      "Grit",
+      "Humus"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "Scum comprises buoyant low-density hydrophobic materials (oils, fats, soaps) skimmed off the tank surface by mechanical skimmers."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Science",
+    "chapter": "Wastewater Story",
+    "question": "Why is compressed air pumped into the wastewater in the 'Aeration Tank' of a treatment plant?",
+    "options": [
+      "To cool the water",
+      "To provide oxygen for aerobic bacteria to rapidly consume and digest dissolved human wastes, food scraps, and organic pollutants",
+      "To freeze the sludge",
+      "To change the water color to blue"
+    ],
+    "correctAnswer": 1,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "Aerobic respiration of activated sludge biomass consumes dissolved biological oxygen demand (BOD) contaminants."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Science",
+    "chapter": "Wastewater Story",
+    "question": "Which chemicals or disinfectants are added to treated clarified water to kill harmful disease-causing bacteria before discharging into rivers?",
+    "options": [
+      "Chlorine and Ozone",
+      "Sulfuric acid and salt",
+      "Urea and vinegar",
+      "Soap powder and alcohol"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "Disinfection with chlorine gas/hypochlorite or ozone oxidizes and eliminates pathogenic waterborne microorganisms."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Science",
+    "chapter": "Wastewater Story",
+    "question": "Which tall, fast-growing trees are planted around wastewater ponds because they absorb excess wastewater rapidly and release pure water vapour?",
+    "options": [
+      "Eucalyptus trees",
+      "Banyan trees",
+      "Cactus",
+      "Rose plants"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "Eucalyptus trees have exceptionally high evapotranspiration capacity, helping dewater and bio-filter sewage wetlands."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Science",
+    "chapter": "Wastewater Story",
+    "question": "Which deadly waterborne diseases are caused by drinking untreated sewage-contaminated drinking water?",
+    "options": [
+      "Cholera, Typhoid, Dysentery, and Hepatitis (Jaundice)",
+      "Asthma and Bronchitis",
+      "Diabetes and Hypertension",
+      "Goitre and Scurvy"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "Fecal-oral transmission of pathogens like Vibrio cholerae, Salmonella typhi, and Hepatitis A causes severe waterborne epidemics."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Science",
+    "chapter": "Wastewater Story",
+    "question": "World Water Day is celebrated globally every year on:",
+    "options": [
+      "22 March",
+      "5 June",
+      "1 December",
+      "15 August"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "United Nations designates 22 March as World Water Day to advocate for sustainable freshwater management and sanitation."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Science",
+    "chapter": "Wastewater Story",
+    "question": "What valuable renewable fuel gas is produced when separated sewage sludge is digested anaerobically by microbes in a digester tank?",
+    "options": [
+      "Biogas (Methane + CO2)",
+      "Oxygen gas",
+      "Chlorine gas",
+      "Helium gas"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "Anaerobic methanogenesis breaks down concentrated organic sludge to generate biogas, used to generate green electricity."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Science",
+    "chapter": "Wastewater Story",
+    "question": "Why should used cooking oils and cooking fats NEVER be poured down the kitchen sink drain?",
+    "options": [
+      "They turn into water",
+      "They harden, congeal, and clog plumbing pipes, and in open drains they block soil pores, hindering water infiltration",
+      "They attract electricity",
+      "They make sink pipes too shiny"
+    ],
+    "correctAnswer": 1,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "Lipids solidify into 'fatbergs' in cold pipes, causing sewer backups and coating bio-filter media in treatment plants."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Science",
+    "chapter": "Wastewater Story",
+    "question": "Why should leftover paints, solvents, motor oils, and strong medicines not be thrown into home drains?",
+    "options": [
+      "They make pipes colorful",
+      "Toxic chemicals kill the beneficial purifying microbes in sewage treatment plants, halting natural biological breakdown",
+      "They evaporate in 1 second",
+      "They freeze drain water"
+    ],
+    "correctAnswer": 1,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "Toxic synthetic compounds inhibit activated sludge bio-floc bacteria, causing wastewater treatment failure."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Science",
+    "chapter": "Wastewater Story",
+    "question": "How does a decentralized on-site Septic Tank sewage disposal system work for isolated rural homes?",
+    "options": [
+      "It burns waste",
+      "Sewage enters a watertight concrete tank where solids settle and undergo anaerobic decomposition, while clarified effluent soaks into an adjacent soak pit",
+      "Waste is shot into clouds",
+      "It turns sewage into ice"
+    ],
+    "correctAnswer": 1,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "Septic tanks provide primary settling and anaerobic liquefaction of sewage before soil leaching fields disperse the liquid."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Science",
+    "chapter": "Wastewater Story",
+    "question": "Why is open defecation in fields or along river banks a hazardous public health risk in rural areas?",
+    "options": [
+      "It makes soil barren",
+      "Exposed feces wash into groundwater and rivers during rain, contaminating community drinking water sources with lethal pathogens and parasites",
+      "It scares wild animals",
+      "It produces too much oxygen"
+    ],
+    "correctAnswer": 1,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "Fecal-oral contamination through open runoff spreads roundworms, tapeworms, and pathogenic enteric bacteria."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Science",
+    "chapter": "Wastewater Story",
+    "question": "What is the function of the 'Grit and Sand Removal Tank' in a wastewater treatment facility?",
+    "options": [
+      "Wastewater velocity is slowed down, allowing heavy mineral grit, pebbles, and sand to settle out by gravity without damaging pumps",
+      "It adds sugar to water",
+      "It boils the sewage",
+      "It dissolves all plastic"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "Controlled decelerated flow settles abrasive inorganic particles (sand, gravel) to protect downstream impellers from mechanical wear."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Science",
+    "chapter": "Wastewater Story",
+    "question": "What eco-friendly low-cost toilet technology uses red earthworms to decompose human waste safely into high-nutrient vermicompost?",
+    "options": [
+      "Vermi-processing toilet",
+      "Incinerator toilet",
+      "Chemical toilet",
+      "Vacuum toilet"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "Vermi-toilets utilize Eisenia fetida earthworms to rapidly bioconvert human feces into pathogen-free organic vermicastings."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Science",
+    "chapter": "Wastewater Story",
+    "question": "How do Aerobic bacteria differ fundamentally from Anaerobic bacteria in sewage treatment operations?",
+    "options": [
+      "Aerobic bacteria require oxygen (used in aeration tanks); Anaerobic bacteria digest sludge in the complete absence of oxygen (digester tanks)",
+      "Aerobic bacteria are plants",
+      "Anaerobic bacteria only eat metals",
+      "Both require boiling water"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "Aerobic respiration relies on continuous O2 injection; anaerobic digestion operates in sealed reactors yielding CH4 biogas."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Science",
+    "chapter": "Wastewater Story",
+    "question": "Why are Manholes constructed at intervals of 50 to 60 metres along underground sewerage pipelines?",
+    "options": [
+      "To let rain enter",
+      "To provide access points for municipal workers and maintenance equipment to inspect, clean, and clear blockages in sewer pipes",
+      "To let sewage evaporate",
+      "For decorative street design"
+    ],
+    "correctAnswer": 1,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "Manholes allow human/camera access at pipe junctions, changes in direction, and standard distances for desilting."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Science",
+    "chapter": "Wastewater Story",
+    "question": "What is dried digested sewage sludge utilized for after complete decomposition in WWTPs?",
+    "options": [
+      "As a high-nutrient organic manure/fertilizer to enrich agricultural fields and restore soil carbon",
+      "To make drinking water",
+      "To manufacture plastic bottles",
+      "As cooking oil"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "Dewatered, stabilized biosolids are rich in nitrogen, phosphorus, and organic matter, serving as safe soil amendments."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Science",
+    "chapter": "Wastewater Story",
+    "question": "Why should tea leaves, solid food scraps, cotton buds, and sanitary napkins not be flushed into toilets?",
+    "options": [
+      "They turn into toxic gas",
+      "They choke drains and don't degrade easily, while consuming dissolved oxygen needed by waste-decomposing microbes",
+      "They dissolve toilet ceramics",
+      "They make water too clear"
+    ],
+    "correctAnswer": 1,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "Non-flushable fibrous solids cause massive hydraulic blockages and overload mechanical bar screens."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Science",
+    "chapter": "Wastewater Story",
+    "question": "How do airplane vacuum toilets and high-speed train biotoilets handle human waste sustainably during transit?",
+    "options": [
+      "They dump raw waste directly on tracks/air",
+      "They use pneumatic vacuum suction and anaerobic bacterial inoculation tanks (biodigesters) to convert waste into harmless water and gas",
+      "They freeze waste into bricks",
+      "They burn waste with rocket fuel"
+    ],
+    "correctAnswer": 1,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "Modern transit vehicles use low-water vacuum suction and psychrophilic microbial biodigester tanks to eliminate open discharge."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Science",
+    "chapter": "Wastewater Story",
+    "question": "Why is stagnant sewage water in open street gutters an ideal breeding ground for disease-spreading vectors?",
+    "options": [
+      "Mosquitoes (Anopheles, Culex, Aedes) and houseflies breed rapidly in filthy stagnant water, transmitting malaria, dengue, and filaria",
+      "Fish multiply in drains",
+      "Gutters produce clean honey",
+      "Water evaporates instantly"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "Organic-rich stagnant pools provide nutrients for mosquito larvae, driving epidemic outbreaks of vector-borne diseases."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Science",
+    "chapter": "Wastewater Story",
+    "question": "What is the primary purpose of constructing artificial constructed wetlands (Reed beds) for sewage treatment?",
+    "options": [
+      "To build swimming pools",
+      "Natural wetland plants (reeds, cattails) and root-associated microbes bio-filter and absorb heavy metals, excess nitrogen, and pathogens naturally",
+      "To attract frogs",
+      "To produce ice"
+    ],
+    "correctAnswer": 1,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "Phytoremediation in engineered reed beds utilizes wetland rhizosphere microbiology to polish municipal wastewater sustainably."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Science",
+    "chapter": "Wastewater Story",
+    "question": "Which United Nations Sustainable Development Goal (SDG) specifically mandates 'Clean Water and Sanitation for all by 2030'?",
+    "options": [
+      "SDG 6",
+      "SDG 1",
+      "SDG 13",
+      "SDG 16"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "UN Sustainable Development Goal 6 (SDG 6) targets universal access to safe, affordable drinking water and adequate sanitation."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Science",
+    "chapter": "Wastewater Story",
+    "question": "Read the following statements:\nAssertion (A): Disinfection of treated wastewater with chlorine or ultraviolet (UV) radiation is compulsory before discharge into public rivers.\nReason (R): Clarified effluent may still harbor millions of microscopic pathogenic viruses, cysts, and bacteria capable of causing fatal waterborne epidemics.\nChoose the correct option:",
+    "options": [
+      "Both (A) and (R) are true, and (R) is the correct explanation of (A).",
+      "Both (A) and (R) are true, but (R) is NOT the correct explanation of (A).",
+      "(A) is true, but (R) is false.",
+      "(A) is false, but (R) is true."
+    ],
+    "correctAnswer": 0,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "Tertiary disinfection ensures inactivation of enteric coliforms and viruses, safeguarding downstream riparian communities."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Science",
+    "chapter": "Wastewater Story",
+    "question": "Spot the IMPOSTER in the following group of wastewater treatment stages based on whether they are PHYSICAL, BIOLOGICAL, or CHEMICAL processes:\nGroup: [Bar Screen Filtration, Grit Sedimentation, Primary Clarification, Aeration Tank Digestion]",
+    "options": [
+      "Bar Screen Filtration",
+      "Grit Sedimentation",
+      "Primary Clarification",
+      "Aeration Tank Digestion"
+    ],
+    "correctAnswer": 3,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "Aeration Tank Digestion is a BIOLOGICAL process using living aerobic bacteria, while Bar Screening, Grit Removal, and Clarification are mechanical PHYSICAL processes."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Science",
+    "chapter": "Wastewater Story",
+    "question": "A wastewater sample from a river has its Biochemical Oxygen Demand (BOD) tested. The BOD is extremely HIGH. What does this indicate?",
+    "options": [
+      "The river is heavily polluted with organic sewage, and decomposing microbes are consuming all dissolved oxygen, threatening aquatic life",
+      "The water is pure mountain spring water",
+      "The river has zero bacteria",
+      "The river is full of dissolved oxygen"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "High BOD indicates substantial organic contamination; heterotrophic bacterial respiration rapidly depletes dissolved O2, inducing fish kills."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Science",
+    "chapter": "Wastewater Story",
+    "question": "Read the following statements:\nAssertion (A): Cooking oils and fats congeal into massive solid blockages ('Fatbergs') in underground municipal sewers.\nReason (R): Saponification and cooling of un-emulsified dietary fats with calcium and domestic detergents form hard, insoluble metallic soap deposits.\nChoose the correct option:",
+    "options": [
+      "Both (A) and (R) are true, and (R) is the correct explanation of (A).",
+      "Both (A) and (R) are true, but (R) is NOT the correct explanation of (A).",
+      "(A) is true, but (R) is false.",
+      "(A) is false, but (R) is true."
+    ],
+    "correctAnswer": 0,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "Lipids react with calcium ions in wastewater to form solid calcium fatty-acid salts that aggregate around unflushable wipes into massive fatbergs."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Science",
+    "chapter": "Wastewater Story",
+    "question": "Trace the EXACT sequence of wastewater purification stages in a modern Wastewater Treatment Plant (WWTP):",
+    "options": [
+      "Raw Sewage → Bar Screens → Grit/Sand Removal Tank → Primary Clarifier (Sedimentation) → Aeration Tank (Aerobic Digestion) → Secondary Clarifier → Disinfection (Chlorination/UV) → Clean Discharge",
+      "Raw Sewage → Chlorination → Aeration → Bar Screens → Sludge Tank",
+      "Raw Sewage → Secondary Clarifier → Primary Clarifier → Grit Tank",
+      "Raw Sewage → Disinfection → Bar Screens → River"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "Standard wastewater engineering flow: Coarse screening → grit settling → primary clarification → activated sludge aeration → secondary settling → tertiary disinfection."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Science",
+    "chapter": "Wastewater Story",
+    "question": "Read the following statements:\nStatement 1: Clarified water from a secondary settling tank is completely free of all dissolved salts and heavy metals.\nStatement 2: Anaerobic digesters produce methane-rich biogas that can be used to generate electricity to power the WWTP itself.\nStatement 3: Untreated sewage contains high levels of pathogenic micro-organisms.\nWhich statements are TRUE?",
+    "options": [
+      "Statements 1 and 2 only",
+      "Statements 2 and 3 only",
+      "Statements 1 and 3 only",
+      "All Statements 1, 2, and 3"
+    ],
+    "correctAnswer": 1,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "Statement 1 is false because secondary clarification removes suspended solids and BOD, but dissolved salts and heavy metals require advanced tertiary RO/membrane treatment."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Science",
+    "chapter": "Wastewater Story",
+    "question": "Why is the continuous addition of Chlorine or Ozone superior to simple boiling for municipal-scale drinking water and wastewater treatment?",
+    "options": [
+      "Boiling millions of litres of municipal wastewater is energetically and economically impossible, while chlorination provides scalable, long-lasting residual disinfection",
+      "Chlorine turns water into milk",
+      "Boiling makes water toxic",
+      "Ozone is made of sugar"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "Chemical oxidation via chlorine or ozone is thermodynamically scalable to millions of gallons per day and leaves residual protection in distribution pipelines."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Science",
+    "chapter": "Wastewater Story",
+    "question": "Consider four types of sanitation systems:\n- System W: Open pit latrine draining into nearby river\n- System X: Modern Septic Tank with subterranean soak pit\n- System Y: Biogas-linked Community Latrine (Bio-toilet)\n- System Z: Vermi-processing toilet with earthworms\nWhich system represents an UNACCEPTABLE environmental and public health hazard?",
+    "options": [
+      "System W",
+      "System X",
+      "System Y",
+      "System Z"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "System W directly contaminates open surface waters with untreated fecal waste and pathogens, violating environmental health standards."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Science",
+    "chapter": "Wastewater Story",
+    "question": "How does Eutrophication occur when untreated agricultural wastewater containing excess nitrate and phosphate fertilizers is dumped into a stagnant lake?",
+    "options": [
+      "Fish eat fertilizer and grow giant",
+      "Nutrients cause explosive algae blooms (Algal Bloom); when algae die, decomposers consume all dissolved oxygen, suffocating fish and creating aquatic dead zones",
+      "The lake freezes solid",
+      "Water turns into drinking juice"
+    ],
+    "correctAnswer": 1,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "Hyper-eutrophication fuels massive cyanobacterial blooms; subsequent bacterial decay creates anoxic hypolimnetic conditions and mass mortality."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Science",
+    "chapter": "Wastewater Story",
+    "question": "What is the primary advantage of Dual Plumbing Water Recycling systems in modern green buildings?",
+    "options": [
+      "It uses double electricity",
+      "Treated greywater from showers and sinks is recycled separately for toilet flushing and garden landscaping, conserving up to 50% of fresh municipal drinking water",
+      "It makes buildings heavier",
+      "It eliminates the need for drains"
+    ],
+    "correctAnswer": 1,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "Greywater reclamation segregates low-load domestic effluent, recycling it for non-potable uses and slashing municipal freshwater demand."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Science",
+    "chapter": "Wastewater Story",
+    "question": "A chemical engineer tests an industrial effluent containing high levels of acidic heavy metals (Lead and Cadmium). What tertiary treatment must be applied before discharge?",
+    "options": [
+      "Adding sugar",
+      "Chemical neutralization with bases (slaked lime) followed by chemical precipitation, flocculation, and reverse osmosis filtration",
+      "Boiling in open air",
+      "Exposing to sunlight only"
+    ],
+    "correctAnswer": 1,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "Heavy metal ions are precipitated as insoluble metal hydroxides by adding alkaline lime, followed by polymeric flocculation and membrane filtration."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Science",
+    "chapter": "Wastewater Story",
+    "question": "Why is the adoption of 'Source Separation Sanitation' (urine-diverting dry toilets) considered a revolution for sustainable circular economy?",
+    "options": [
+      "Urine contains pure gold",
+      "Human urine is sterile and rich in pure nitrogen, phosphorus, and potassium, which can be directly converted into agricultural fertilizer without expensive WWTP processing",
+      "It requires zero toilets",
+      "It replaces all water pipes"
+    ],
+    "correctAnswer": 1,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "Urine accounts for 80% of wastewater nitrogen and 50% of phosphorus; diverting it at source allows clean nutrient recovery for bio-fertilizers."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Science",
+    "chapter": "Wastewater Story",
+    "question": "What is the primary function of a Skimmer machine installed in a primary sedimentation tank in WWTPs?",
+    "options": [
+      "It skims off and removes floating oils, grease, and fats (scum) from the water surface",
+      "It pumps air into water",
+      "It freezes the sewage",
+      "It filters sand grains"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "Surface mechanical skimmers continuously sweep and collect floating lipid scum for separate disposal."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Science",
+    "chapter": "Wastewater Story",
+    "question": "Why is providing proper sanitation and clean drinking water facilities considered the most effective preventive healthcare strategy?",
+    "options": [
+      "It prevents waterborne epidemics (cholera, dysentery, typhoid) from spreading, dramatically reducing infant mortality and hospital burdens",
+      "It makes medicine free",
+      "It cures broken bones",
+      "It stops rainfall"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "Safe sanitation breaks fecal-oral pathogen transmission pathways, eliminating the root cause of widespread enteric infectious diseases."
+  }
+]
