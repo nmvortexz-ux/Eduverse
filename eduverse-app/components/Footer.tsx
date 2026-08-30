@@ -16,7 +16,7 @@ export default function Footer() {
               <EduVerseLogo className="w-24 h-auto" />
             </Link>
             <p className="text-sm leading-relaxed max-w-xs">
-              Empowering Class 8 to 12 Commerce students with chapter-wise interactive quizzes, step-by-step NCERT explanations, and real-time performance analytics.
+              Empowering Class 6 to 12 students with chapter-wise interactive quizzes, step-by-step NCERT explanations, and real-time performance analytics.
             </p>
             <a 
               href="mailto:nmvortexz@gmail.com"
@@ -56,7 +56,7 @@ export default function Footer() {
               Classes
             </h4>
             <ul className="space-y-2.5 text-sm">
-              {['Class 8', 'Class 9', 'Class 10', 'Class 11', 'Class 12'].map((cls) => (
+              {['Class 6', 'Class 7', 'Class 8', 'Class 9', 'Class 10', 'Class 11', 'Class 12'].map((cls) => (
                 <li key={cls}>
                   <Link href={`/?class=${cls.replace(' ', '')}`} className="hover:text-[#00df9a] transition-colors">
                     {cls}

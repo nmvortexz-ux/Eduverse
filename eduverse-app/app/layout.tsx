@@ -17,8 +17,8 @@ const plusJakartaSans = Plus_Jakarta_Sans({
 export const metadata: Metadata = {
   title: "EduVerse – Your Intelligent Quiz Platform",
   description:
-    "Practice Class 8 to 12 Commerce questions across all subjects with EduVerse. Adaptive chapter-wise quizzes, daily challenges, and real-time performance analytics.",
-  keywords: "quiz, education, class 8, class 9, class 10, class 11, class 12, commerce, CBSE, NCERT, practice questions",
+    "Practice Class 6 to 12 questions across Science, Mathematics, and Commerce subjects with EduVerse. Adaptive chapter-wise quizzes, daily challenges, and real-time performance analytics.",
+  keywords: "quiz, education, class 6, class 7, class 8, class 9, class 10, class 11, class 12, science, math, commerce, CBSE, NCERT, practice questions",
 };
 
 export default function RootLayout({

@@ -92,7 +92,7 @@ function IconArrowRight({ className = 'w-4 h-4' }: { className?: string }) {
 }
 
 // ─── Class Toggle Options ──────────────────────────────────────────────────────
-const classes = ['Class 8', 'Class 9', 'Class 10', 'Class 11', 'Class 12'];
+const classes = ['Class 6', 'Class 7', 'Class 8', 'Class 9', 'Class 10', 'Class 11', 'Class 12'];
 
 // ─── Subject card data with accent colors and icon components ─────────────────
 const defaultSubjects = [
@@ -113,7 +113,7 @@ const commerceSubjects = [
 ];
 
 export default function HomePage() {
-  const [selectedClass, setSelectedClass] = useState('Class 9');
+  const [selectedClass, setSelectedClass] = useState('Class 7');
 
   // Live stats from DB
   const [platformStats, setPlatformStats] = useState<{
@@ -151,7 +151,7 @@ export default function HomePage() {
           </div>
 
           <h1 className="text-3xl sm:text-4xl lg:text-5xl font-extrabold leading-tight text-slate-100 max-w-4xl mx-auto tracking-tight">
-            The Intelligent Assessment Engine for Class 8–12 Commerce
+            The Intelligent Assessment Engine for Class 6–12
           </h1>
 
           <p className="text-sm sm:text-base font-medium text-slate-400 max-w-3xl mx-auto leading-relaxed">
