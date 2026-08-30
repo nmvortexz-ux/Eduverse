@@ -1,0 +1,3842 @@
+[
+  {
+    "classLevel": 6,
+    "subject": "Science",
+    "chapter": "Chapter 7: Motion and Measurement of Distances",
+    "question": "What is the internationally accepted standard unit of LENGTH in the International System of Units (SI Units)?",
+    "options": [
+      "Metre (m)",
+      "Centimetre (cm)",
+      "Kilometre (km)",
+      "Foot (ft)"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "The Metre (m) is the fundamental base SI unit for measuring linear distance and length worldwide."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Science",
+    "chapter": "Chapter 7: Motion and Measurement of Distances",
+    "question": "How many Centimetres (cm) are there in exactly 1 Metre (m)?",
+    "options": [
+      "100 cm",
+      "10 cm",
+      "1,000 cm",
+      "1,000 mm"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "1 metre = 100 centimetres (1 m = 100 cm = 1,000 mm)."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Science",
+    "chapter": "Chapter 7: Motion and Measurement of Distances",
+    "question": "How many Metres (m) make up exactly 1 Kilometre (km)?",
+    "options": [
+      "1,000 metres (1 km = 1,000 m)",
+      "100 metres",
+      "10,000 metres",
+      "500 metres"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "The metric prefix 'kilo' represents 1,000; therefore 1 km = 1,000 m."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Science",
+    "chapter": "Chapter 7: Motion and Measurement of Distances",
+    "question": "Why were ancient non-standard units of length like 'Handspan', 'Footstep', and 'Cubits' discarded for scientific measurements?",
+    "options": [
+      "Because human body dimensions vary from person to person, leading to inconsistent, inaccurate, and unreliable measurements",
+      "Because rulers are cheaper",
+      "Because hands cannot measure wood",
+      "Because kings banned hands"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "Biological anatomical variations caused commercial discrepancies, necessitating invariant scientific standard units."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Science",
+    "chapter": "Chapter 7: Motion and Measurement of Distances",
+    "question": "The motion of an object along a straight line path is called:",
+    "options": [
+      "Rectilinear Motion (e.g. a car moving on a straight road, march-past of soldiers)",
+      "Circular Motion",
+      "Periodic Motion",
+      "Rotational Motion"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "Linear unidirectional motion along a single straight axis is rectilinear motion."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Science",
+    "chapter": "Chapter 7: Motion and Measurement of Distances",
+    "question": "The motion of an object along a circular path such that its distance from a fixed central point remains constant is called:",
+    "options": [
+      "Circular Motion (e.g. motion of blades of an electric fan, hands of a clock)",
+      "Rectilinear Motion",
+      "Periodic Motion",
+      "Random Motion"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "Trajectory tracking along the circumference of a circle at constant radial distance is circular motion."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Science",
+    "chapter": "Chapter 7: Motion and Measurement of Distances",
+    "question": "Motion that repeats itself at regular equal intervals of time is called:",
+    "options": [
+      "Periodic Motion (e.g. pendulum of a clock, branch of a tree swinging, string of a guitar)",
+      "Rectilinear Motion",
+      "Random Motion",
+      "Non-periodic Motion"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "Harmonic oscillatory motions repeating over a constant time period (T) are periodic."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Science",
+    "chapter": "Chapter 7: Motion and Measurement of Distances",
+    "question": "What instrument is used by tailors to measure the curved circumference of a person's chest or waist?",
+    "options": [
+      "A flexible Measuring Tape",
+      "A rigid wooden meter rod",
+      "A metal divider",
+      "A compass"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "Flexible measuring tape conforms along curved anatomical contours where rigid straight rulers cannot bend."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Science",
+    "chapter": "Chapter 7: Motion and Measurement of Distances",
+    "question": "What revolutionary invention in the history of human transport made land travel and haulage of heavy loads dramatically faster?",
+    "options": [
+      "The invention of the Wheel",
+      "The invention of stone knives",
+      "The invention of paper",
+      "The invention of glass"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "The wheel substituted rolling friction for sliding friction, revolutionizing wheeled vehicle transport."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Science",
+    "chapter": "Chapter 7: Motion and Measurement of Distances",
+    "question": "Which prime mover invented in the 18th century paved the way for the development of modern high-speed steam locomotives and railways?",
+    "options": [
+      "Steam Engine (by James Watt)",
+      "Electric Motor",
+      "Jet Engine",
+      "Diesel Engine"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "The Watt steam engine transformed thermodynamic enthalpy into mechanical work for railway transport."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Science",
+    "chapter": "Chapter 7: Motion and Measurement of Distances",
+    "question": "Which of the following is an example of an object exhibiting MULTIPLE types of motion simultaneously?",
+    "options": [
+      "A rolling ball on the ground (both Rotational motion on its axis and Rectilinear motion along the floor)",
+      "A bird sleeping in a nest",
+      "A fixed stone on a hill",
+      "A book lying on a table"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "A rolling sphere or bicycle wheel rotates about its axle while translating rectilinearly forward."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Science",
+    "chapter": "Chapter 7: Motion and Measurement of Distances",
+    "question": "A change in the position of an object with time relative to a stationary reference point (frame of reference) is called:",
+    "options": [
+      "Motion",
+      "Rest",
+      "Force",
+      "Friction"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "Kinematic motion is defined as a temporal displacement in positional coordinates relative to a chosen reference frame."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Science",
+    "chapter": "Chapter 7: Motion and Measurement of Distances",
+    "question": "How can the length of a curved line (such as a winding river curve on a map) be measured accurately?",
+    "options": [
+      "By laying a flexible thread carefully along the curved path from start to end, marking the endpoints on the thread, and then measuring the straightened thread on a standard meter scale",
+      "By bending a wooden ruler until it snaps",
+      "By guessing with eyes",
+      "By weighing the paper on a balance"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "A non-stretchable string traces continuous curvature and is subsequently calibrated against a linear metric scale."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Science",
+    "chapter": "Chapter 7: Motion and Measurement of Distances",
+    "question": "What is 'Parallax Error' in taking length measurements with a scale, and how is it avoided?",
+    "options": [
+      "An apparent optical shift error caused by viewing the scale markings from an angle; it is avoided by positioning the eye directly vertically above the point of measurement",
+      "An error caused by wind blowing",
+      "An error caused by warm weather",
+      "An error caused by dirty paper"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "Viewing the scale at an oblique angle introduces parallax displacement; the sight line must be perpendicular (90°) to the mark."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Science",
+    "chapter": "Chapter 7: Motion and Measurement of Distances",
+    "question": "If the zero mark (0 cm) of a ruler is broken or damaged, how should one take an accurate measurement?",
+    "options": [
+      "Start measuring from any other full mark (e.g. 1.0 cm or 2.0 cm) and subtract that initial reading from the final end reading",
+      "Throw the ruler away immediately",
+      "Guess the missing zero mark",
+      "Add 10 cm to the final reading"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "True length = (Final scale reading) - (Initial non-zero offset reading). E.g. 14.3 cm - 1.0 cm = 13.3 cm."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Science",
+    "chapter": "Chapter 7: Motion and Measurement of Distances",
+    "question": "Why is a passenger sitting inside a moving bus in motion relative to a roadside tree, but AT REST relative to a fellow passenger sitting next to them?",
+    "options": [
+      "Motion is relative: position changes relative to the stationary roadside tree, but position remains unchanged relative to the bus interior and fellow passenger",
+      "Because the bus has windows",
+      "Because the tree is running backwards",
+      "Because eyes get confused in a bus"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "Kinematics is reference-frame dependent: position vector changes in the Earth frame, but dr/dt = 0 in the bus co-moving frame."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Science",
+    "chapter": "Chapter 7: Motion and Measurement of Distances",
+    "question": "What types of motion are executed by the needle of a sewing machine and its rotating balance wheel?",
+    "options": [
+      "The sewing needle moves up and down in Periodic / Oscillatory motion, while the balance wheel executes Circular / Rotational motion",
+      "Both move in straight rectilinear motion",
+      "The needle moves in circles",
+      "Both are completely at rest"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "The balance wheel rotates about a fixed axis (circular/rotational), while the crank drives the needle in periodic reciprocating motion."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Science",
+    "chapter": "Chapter 7: Motion and Measurement of Distances",
+    "question": "What is the key difference between 'Rotational Motion' and 'Circular Motion'?",
+    "options": [
+      "In Rotational motion, the entire body spins about an internal fixed axis passing through itself (e.g. spinning top, Earth's spin); in Circular motion, an object moves around an external central point (e.g. Earth revolving around the Sun)",
+      "Rotational motion has no speed",
+      "Circular motion is always straight",
+      "There is no difference"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "Rotation involves spin about an intrinsic internal axis; circular revolution tracks a trajectory around an extrinsic external focus."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Science",
+    "chapter": "Chapter 7: Motion and Measurement of Distances",
+    "question": "Convert a distance of 4.5 kilometres into metres (m) and centimetres (cm):",
+    "options": [
+      "4,500 m and 450,000 cm",
+      "450 m and 45,000 cm",
+      "45,000 m and 4,500 cm",
+      "4.5 m and 450 cm"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "4.5 km × 1,000 m/km = 4,500 m. 4,500 m × 100 cm/m = 450,000 cm."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Science",
+    "chapter": "Chapter 7: Motion and Measurement of Distances",
+    "question": "Convert the length of a pencil measuring 18.5 cm into millimetres (mm):",
+    "options": [
+      "185 mm (18.5 × 10 mm = 185 mm)",
+      "1.85 mm",
+      "1,850 mm",
+      "0.185 mm"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "1 cm = 10 mm. 18.5 cm × 10 mm/cm = 185 mm."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Science",
+    "chapter": "Chapter 7: Motion and Measurement of Distances",
+    "question": "Which of the following motions is NON-PERIODIC (does not repeat itself at regular intervals)?",
+    "options": [
+      "A footballer running unpredictably across the sports ground",
+      "The swing of a simple pendulum",
+      "The revolution of the Earth around the Sun",
+      "The heartbeat of a healthy resting human"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "Random athletic maneuvering has no fixed periodic time interval, making it non-periodic/random."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Science",
+    "chapter": "Chapter 7: Motion and Measurement of Distances",
+    "question": "What type of motion is executed by the plucked strings of a Sitar or Guitar when playing musical notes?",
+    "options": [
+      "Periodic / Vibratory (Oscillatory) Motion",
+      "Rectilinear Motion",
+      "Rotational Motion",
+      "Circular Motion"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "Tensioned strings execute transverse periodic standing wave vibrations generating acoustic harmonics."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Science",
+    "chapter": "Chapter 7: Motion and Measurement of Distances",
+    "question": "Why does an elastic rubber measuring tape give incorrect and inconsistent measurements of length?",
+    "options": [
+      "Because rubber stretches variably depending on how hard a person pulls it, giving different lengths for the exact same object",
+      "Because rubber has no numbers printed on it",
+      "Because rubber dissolves in air",
+      "Because rubber is too heavy"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "Elastic deformation alters the calibrated spacing between interval markers under variable tensile stress."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Science",
+    "chapter": "Chapter 7: Motion and Measurement of Distances",
+    "question": "What is the historical chronological progression of transportation technology across human civilizations?",
+    "options": [
+      "Walking on foot -> Pack animals -> Wooden wheeled bullock carts / Sailboats -> Steam engine railways -> Motorcars & Aeroplanes -> Supersonic jets & Spacecraft",
+      "Aeroplanes -> Walking -> Steam engines",
+      "Steam engines -> Spacecraft -> Walking",
+      "Bicycles -> Spacecraft -> Bullock carts"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "Transport evolved from biological walking to animal draught, mechanical combustion steam engines, internal combustion cars, and aerospace rocketry."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Science",
+    "chapter": "Chapter 7: Motion and Measurement of Distances",
+    "question": "A student measures the thickness of a single page of a 500-page book using a 15 cm plastic scale. How can they achieve high accuracy?",
+    "options": [
+      "Measure the total thickness of all 500 pages together with the scale and divide that total thickness by 500",
+      "Try to read a single page with a magnifying lens",
+      "Guess the thickness as 1 mm",
+      "Burn the book and weigh the ash"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "Bulk averaging method: dividing composite thickness by total sheet count minimizes least-count reading error."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Science",
+    "chapter": "Chapter 7: Motion and Measurement of Distances",
+    "question": "Which of the following SI unit abbreviations is written CORRECTLY according to standard international IUPAP conventions?",
+    "options": [
+      "50 m (lower-case m without plural 's' or full stop)",
+      "50 ms.",
+      "50 Metres.",
+      "50 Mts"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "SI unit symbols are written in lower case (m for metre), never pluralized with 's', and never followed by periods unless at sentence ends."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Science",
+    "chapter": "Chapter 7: Motion and Measurement of Distances",
+    "question": "What motion is performed by the Earth around its own polar axis and around the Sun respectively?",
+    "options": [
+      "Rotational motion on its own axis (every 24 hours) AND Circular/Elliptical Periodic revolution around the Sun (every 365¼ days)",
+      "Rectilinear motion only",
+      "Random non-periodic motion",
+      "It remains completely at rest"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "Earth combines intrinsic diurnal axial rotation (24h) with periodic orbital revolution (365.25d)."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Science",
+    "chapter": "Chapter 7: Motion and Measurement of Distances",
+    "question": "In which year was the International System of Units (SI) accepted internationally by the General Conference on Weights and Measures?",
+    "options": [
+      "1960",
+      "1947",
+      "1900",
+      "2000"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "The 11th CGPM officially established the International System of Units (SI) based on the metric system in 1960."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Science",
+    "chapter": "Chapter 7: Motion and Measurement of Distances",
+    "question": "Read the statements:\nAssertion (A): The motion of the tip of the second's hand of a wristwatch is both Circular Motion and Periodic Motion.\nReason (R): It sweeps out a circular path around the central dial pivot and repeats its exact identical movement precisely once every 60 seconds.\nChoose the correct option:",
+    "options": [
+      "Both (A) and (R) are true, and (R) is the correct explanation of (A).",
+      "Both (A) and (R) are true, but (R) is NOT the correct explanation of (A).",
+      "(A) is true, but (R) is false.",
+      "(A) is false, but (R) is true."
+    ],
+    "correctAnswer": 0,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "The constant radius r defines uniform circular motion, while constant period T = 60 s defines periodic motion."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Science",
+    "chapter": "Chapter 7: Motion and Measurement of Distances",
+    "question": "Spot the IMPOSTER in the following group of motions classified as Periodic Motion:\nGroup: [Motion of a child on a swing, Oscillation of a clock pendulum, Plucked string of a sitar, A dry leaf falling in turbulent wind]",
+    "options": [
+      "Motion of a child on a swing",
+      "Oscillation of a clock pendulum",
+      "Plucked string of a sitar",
+      "A dry leaf falling in turbulent wind"
+    ],
+    "correctAnswer": 3,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "A falling dry leaf in turbulent air exhibits RANDOM / NON-PERIODIC chaotic motion, whereas swing, pendulum, and guitar strings are periodic."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Science",
+    "chapter": "Chapter 7: Motion and Measurement of Distances",
+    "question": "A student measures the length of a wooden block using a broken scale starting at 2.4 cm mark. The reading at the other end is 18.7 cm. What is the true physical length of the block?",
+    "options": [
+      "16.3 cm (18.7 cm - 2.4 cm = 16.3 cm)",
+      "18.7 cm",
+      "21.1 cm",
+      "14.3 cm"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "True length = Final reading - Initial offset = 18.7 cm - 2.4 cm = 16.3 cm."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Science",
+    "chapter": "Chapter 7: Motion and Measurement of Distances",
+    "question": "Match Column I (Moving Objects) with Column II (Primary Types of Motion):\n(a) A stone tied to a string and whirled overhead -> (i) Rectilinear Motion\n(b) An apple falling vertically from a tree       -> (ii) Periodic / Oscillatory Motion\n(c) The membrane of a tabla being played        -> (iii) Circular Motion\n(d) A potter's wheel spinning on its pivot      -> (iv) Rotational Motion",
+    "options": [
+      "a-(iii), b-(i), c-(ii), d-(iv)",
+      "a-(i), b-(ii), c-(iii), d-(iv)",
+      "a-(iv), b-(iii), c-(ii), d-(i)",
+      "a-(ii), b-(iv), c-(i), d-(iii)"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "Whirled stone = Circular; Falling apple = Rectilinear; Tabla membrane = Periodic; Potter's wheel = Rotational."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Science",
+    "chapter": "Chapter 7: Motion and Measurement of Distances",
+    "question": "Read the statements regarding measurement conventions:\nStatement 1: The height of a person is 1.65 m, which equals 165 cm and 1,650 mm.\nStatement 2: The distance between Delhi and Mumbai is best expressed in millimetres.\nStatement 3: 1 centimetre is divided into 10 equal subdivisions called millimetres.\nWhich statements are TRUE?",
+    "options": [
+      "Statements 1 and 3 only",
+      "Statements 1 and 2 only",
+      "Statements 2 and 3 only",
+      "All Statements 1, 2, and 3"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "Statement 2 is false because inter-city geographic distances are appropriately expressed in kilometres (km), not millimetres. Statements 1 and 3 are exact metric facts."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Science",
+    "chapter": "Chapter 7: Motion and Measurement of Distances",
+    "question": "Why was the standard prototype metre bar historically crafted from an alloy of 90% Platinum and 10% Iridium and preserved at 0°C near Paris?",
+    "options": [
+      "Platinum-Iridium alloy exhibits extreme resistance to corrosion and an exceptionally low coefficient of thermal expansion, preserving invariant physical length",
+      "To make the ruler shiny and expensive",
+      "Because platinum melts easily in cold water",
+      "Because France wanted to hoard gold"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "Pt-Ir provides supreme chemical inertness, high mechanical hardness, and minimal thermal contraction/expansion across seasonal shifts."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Science",
+    "chapter": "Chapter 7: Motion and Measurement of Distances",
+    "question": "A cyclist pedals along a straight level road at 15 km/h. Analyze the motion of the bicycle's WHEEL versus the motion of the cyclist's PEDALS:",
+    "options": [
+      "The wheels execute both Rotational motion and Rectilinear translation forward, while the pedals execute Circular motion around the crank axle",
+      "Both move in straight lines only",
+      "Both move in random motion",
+      "The bicycle is at rest"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "Wheels translate along the ground while spinning on their hub; foot pedals trace circular revolutions around the central bottom bracket spindle."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Science",
+    "chapter": "Chapter 7: Motion and Measurement of Distances",
+    "question": "Consider four measurement scenarios:\n1. Width of a biology textbook\n2. Distance between Sun and Earth\n3. Thickness of a 5-rupee coin\n4. Distance between two cities\nMatch the most appropriate SI metric units for each scenario in order (1, 2, 3, 4):",
+    "options": [
+      "1: cm ; 2: km (or AU) ; 3: mm ; 4: km",
+      "1: mm ; 2: m ; 3: km ; 4: cm",
+      "1: m ; 2: cm ; 3: km ; 4: mm",
+      "1: km ; 2: mm ; 3: cm ; 4: m"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "Book width = cm; Coin thickness = mm; Intercity distance = km; Astronomical distances = km / AU."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Science",
+    "chapter": "Chapter 7: Motion and Measurement of Distances",
+    "question": "Why must a measurement always be expressed as BOTH a number (magnitude) AND a unit (e.g. '15 metres' and NOT just '15')?",
+    "options": [
+      "A pure number conveys no physical dimension or scale; the unit gives definite physical meaning and comparability to standard references",
+      "Because numbers are illegal without letters",
+      "To make sentences longer",
+      "Because scientists like words"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "A physical quantity Q = n · [U], where n is the dimensionless numerical multiplier and U is the standardized invariant unit."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Science",
+    "chapter": "Chapter 7: Motion and Measurement of Distances",
+    "question": "What type of motion is executed by a marching soldier during a Republic Day parade along the straight Kartavya Path?",
+    "options": [
+      "The soldier's entire body moves in Rectilinear motion along the road, while their arms and legs swing in Periodic / Oscillatory motion",
+      "Pure circular motion",
+      "Random chaotic motion",
+      "Rotational spin"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "Linear forward center-of-mass translation (rectilinear) combines with periodic antagonistic pendular limb oscillations."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Science",
+    "chapter": "Chapter 7: Motion and Measurement of Distances",
+    "question": "Which of the following accurately describes the modern SI definition of 1 Metre adopted in 1983 by the CGPM?",
+    "options": [
+      "The distance travelled by light in absolute vacuum during a time interval of 1 / 299,792,458 of a second",
+      "The length of a king's arm",
+      "The circumference of Earth divided by 100",
+      "The length of a gold bar in London"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "The metre is defined by fixing the speed of light in vacuum c = 299,792,458 m/s, tying length directly to cesium atomic clocks."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Science",
+    "chapter": "Chapter 7: Motion and Measurement of Distances",
+    "question": "A toy train moves along a circular railway track of radius 7 metres. When it completes one full circle, what are its Distance travelled and Net Displacement respectively?",
+    "options": [
+      "Distance = 44 metres (2πr = 2 × 22/7 × 7) ; Displacement = 0 metres (since start and end points coincide)",
+      "Distance = 0 m ; Displacement = 44 m",
+      "Distance = 14 m ; Displacement = 14 m",
+      "Distance = 44 m ; Displacement = 44 m"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "Scalar path distance = circumference = 2πr = 44 m; vector displacement = Δr = r_final - r_initial = 0 m."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Mathematics",
+    "chapter": "Chapter 7: Fractions",
+    "question": "A number representing a part of a whole (where the whole may be a single object or a group of objects) is called a:",
+    "options": [
+      "Fraction (written as a/b where b ≠ 0)",
+      "Integer",
+      "Natural Number",
+      "Equation"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "A fraction a/b expresses a parts taken out of b equal partitions of a whole."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Mathematics",
+    "chapter": "Chapter 7: Fractions",
+    "question": "In the fraction 3/5, what is the number 3 called and what is the number 5 called?",
+    "options": [
+      "3 is the Numerator and 5 is the Denominator",
+      "3 is the Denominator and 5 is the Numerator",
+      "Both are Numerators",
+      "Both are Denominators"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "The top number is the Numerator (parts counted); the bottom number is the Denominator (total equal parts)."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Mathematics",
+    "chapter": "Chapter 7: Fractions",
+    "question": "A fraction in which the Numerator is strictly LESS than the Denominator (Numerator < Denominator, representing a quantity less than 1) is a:",
+    "options": [
+      "Proper Fraction (e.g., 2/3, 5/8, 1/4)",
+      "Improper Fraction",
+      "Mixed Fraction",
+      "Unit Fraction"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "A proper fraction has a numerator smaller than its denominator, with a numeric value strictly between 0 and 1."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Mathematics",
+    "chapter": "Chapter 7: Fractions",
+    "question": "A fraction in which the Numerator is GREATER than or equal to the Denominator (Numerator ≥ Denominator, representing a quantity ≥ 1) is an:",
+    "options": [
+      "Improper Fraction (e.g., 7/4, 9/5, 11/3)",
+      "Proper Fraction",
+      "Unit Fraction",
+      "Decimal Fraction"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "An improper fraction has a numerator greater than or equal to its denominator (value ≥ 1)."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Mathematics",
+    "chapter": "Chapter 7: Fractions",
+    "question": "A number expressed as a combination of a Whole number and a Proper fraction (like 2 ¾) is called a:",
+    "options": [
+      "Mixed Fraction",
+      "Proper Fraction",
+      "Unit Fraction",
+      "Like Fraction"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "A mixed fraction (e.g. 2 ¾ = 2 + ¾ = 11/4) represents an integer quotient combined with a proper fractional remainder."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Mathematics",
+    "chapter": "Chapter 7: Fractions",
+    "question": "Fractions having the EXACT SAME denominator (such as 2/7, 5/7, 6/7) are called:",
+    "options": [
+      "Like Fractions",
+      "Unlike Fractions",
+      "Equivalent Fractions",
+      "Improper Fractions"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "Fractions sharing an identical denominator are Like Fractions."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Mathematics",
+    "chapter": "Chapter 7: Fractions",
+    "question": "Fractions having DIFFERENT denominators (such as 2/3, 4/5, 7/9) are called:",
+    "options": [
+      "Unlike Fractions",
+      "Like Fractions",
+      "Unit Fractions",
+      "Mixed Fractions"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "Fractions with unequal denominators are Unlike Fractions."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Mathematics",
+    "chapter": "Chapter 7: Fractions",
+    "question": "A fraction whose numerator is always 1 (such as 1/2, 1/3, 1/4, 1/7) is called a:",
+    "options": [
+      "Unit Fraction",
+      "Proper Fraction",
+      "Like Fraction",
+      "Mixed Fraction"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "A fraction of the form 1/n where n is a natural number is a Unit Fraction."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Mathematics",
+    "chapter": "Chapter 7: Fractions",
+    "question": "What fraction of an hour is 20 minutes?",
+    "options": [
+      "1/3 (20/60 = 1/3)",
+      "1/2",
+      "1/4",
+      "2/5"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "1 hour = 60 minutes. Fraction = 20/60 = 1/3."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Mathematics",
+    "chapter": "Chapter 7: Fractions",
+    "question": "What fraction of a day is 8 hours?",
+    "options": [
+      "1/3 (8/24 = 1/3)",
+      "1/4",
+      "1/2",
+      "3/8"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "1 day = 24 hours. Fraction = 8/24 = 1/3."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Mathematics",
+    "chapter": "Chapter 7: Fractions",
+    "question": "Convert the improper fraction 17/4 into a Mixed Fraction:",
+    "options": [
+      "4 ¼ (17 ÷ 4 = 4 with remainder 1)",
+      "3 ¾",
+      "4 ½",
+      "5 ¼"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "17 ÷ 4 = 4 with remainder 1, yielding 4 ¼."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Mathematics",
+    "chapter": "Chapter 7: Fractions",
+    "question": "Convert the mixed fraction 5 ⅔ into an Improper Fraction:",
+    "options": [
+      "17/3 ((5 × 3 + 2)/3 = 17/3)",
+      "13/3",
+      "15/3",
+      "10/3"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "(5 × 3 + 2) / 3 = (15 + 2) / 3 = 17/3."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Mathematics",
+    "chapter": "Chapter 7: Fractions",
+    "question": "Which of the following is an Equivalent Fraction to 2/5 with numerator 6?",
+    "options": [
+      "6/15 (multiply numerator and denominator by 3: 2×3 / 5×3)",
+      "6/10",
+      "6/20",
+      "6/25"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "Multiplying numerator and denominator by 3 gives (2 × 3) / (5 × 3) = 6/15."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Mathematics",
+    "chapter": "Chapter 7: Fractions",
+    "question": "A fraction is said to be in its 'Simplest Form' (or lowest terms) when:",
+    "options": [
+      "The HCF of its Numerator and Denominator is strictly 1 (they are co-prime)",
+      "The numerator is 1",
+      "The denominator is 100",
+      "The fraction is greater than 1"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "A fraction a/b is in simplest irreducible form if gcd(a, b) = 1."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Mathematics",
+    "chapter": "Chapter 7: Fractions",
+    "question": "Reduce the fraction 36/48 to its Simplest Form:",
+    "options": [
+      "3/4 (divide numerator and denominator by HCF = 12)",
+      "2/3",
+      "6/8",
+      "18/24"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "HCF(36, 48) = 12. 36 ÷ 12 / 48 ÷ 12 = 3/4."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Mathematics",
+    "chapter": "Chapter 7: Fractions",
+    "question": "Which fraction is LARGER: 3/5 or 4/7?",
+    "options": [
+      "3/5 (Cross-multiplying: 3 × 7 = 21 > 5 × 4 = 20)",
+      "4/7",
+      "Both are equal",
+      "Cannot be compared"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "3/5 = 21/35 and 4/7 = 20/35. Since 21/35 > 20/35, 3/5 is larger."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Mathematics",
+    "chapter": "Chapter 7: Fractions",
+    "question": "Calculate the sum of like fractions: 3/11 + 5/11 + 2/11",
+    "options": [
+      "10/11",
+      "10/33",
+      "1",
+      "8/11"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "For like fractions, add numerators over the common denominator: (3 + 5 + 2)/11 = 10/11."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Mathematics",
+    "chapter": "Chapter 7: Fractions",
+    "question": "Calculate the difference: 7/9 - 4/9",
+    "options": [
+      "3/9 = 1/3",
+      "3/0",
+      "11/9",
+      "3/18"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "(7 - 4)/9 = 3/9 = 1/3 in simplest form."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Mathematics",
+    "chapter": "Chapter 7: Fractions",
+    "question": "Calculate the sum of unlike fractions: 2/5 + 1/3",
+    "options": [
+      "11/15 ((6 + 5)/15 = 11/15)",
+      "3/8",
+      "2/15",
+      "13/15"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "LCM(5, 3) = 15. 2/5 = 6/15 and 1/3 = 5/15. Sum = (6 + 5)/15 = 11/15."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Mathematics",
+    "chapter": "Chapter 7: Fractions",
+    "question": "Calculate the difference: 5/6 - 3/4",
+    "options": [
+      "1/12 ((10 - 9)/12 = 1/12)",
+      "2/2",
+      "2/24",
+      "1/6"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "LCM(6, 4) = 12. 5/6 = 10/12 and 3/4 = 9/12. Difference = (10 - 9)/12 = 1/12."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Mathematics",
+    "chapter": "Chapter 7: Fractions",
+    "question": "Solve the addition of mixed fractions: 2 ⅓ + 3 ½",
+    "options": [
+      "5 ⅚ (7/3 + 7/2 = (14 + 21)/6 = 35/6 = 5 ⅚)",
+      "5 ⅖",
+      "6 ⅚",
+      "5 ⅔"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "Whole parts sum = 2 + 3 = 5. Fractional parts = 1/3 + 1/2 = 5/6. Total = 5 5/6."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Mathematics",
+    "chapter": "Chapter 7: Fractions",
+    "question": "Solve the subtraction of mixed fractions: 4 ⅔ - 2 ⅕",
+    "options": [
+      "2 ⁷/₁₅ ((14/3 - 11/5) = (70 - 33)/15 = 37/15 = 2 ⁷/₁₅)",
+      "2 ⅖",
+      "2 ⅔",
+      "1 ⁸/₁₅"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "4 2/3 - 2 1/5 = (4 - 2) + (2/3 - 1/5) = 2 + (10 - 3)/15 = 2 7/15."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Mathematics",
+    "chapter": "Chapter 7: Fractions",
+    "question": "Ramesh had 20 pencils, Sheelu had 50 pencils, and Jamaal had 80 pencils. After 4 months, Ramesh used up 10 pencils, Sheelu used up 25 pencils, and Jamaal used up 40 pencils. What fraction of pencils did each use up?",
+    "options": [
+      "Each used up exactly 1/2 of their pencils (10/20 = 25/50 = 40/80 = 1/2)",
+      "Ramesh used 1/4, Sheelu 1/2, Jamaal 3/4",
+      "Each used 1/3",
+      "Each used 3/4"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "10/20 = 1/2; 25/50 = 1/2; 40/80 = 1/2. All three used up identical proportions (1/2)."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Mathematics",
+    "chapter": "Chapter 7: Fractions",
+    "question": "Jaidev takes 2 ⅕ minutes to walk across the school ground. Rahul takes 7/4 minutes to do the same. Who takes less time and by what fraction?",
+    "options": [
+      "Rahul takes less time by 9/20 minutes (Jaidev = 11/5 = 44/20 min ; Rahul = 7/4 = 35/20 min ; Difference = 9/20 min)",
+      "Jaidev takes less time by 1/2 min",
+      "Both take equal time",
+      "Rahul takes less time by 1/4 min"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "11/5 = 44/20 min; 7/4 = 35/20 min. Rahul takes less time: 44/20 - 35/20 = 9/20 minutes."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Mathematics",
+    "chapter": "Chapter 7: Fractions",
+    "question": "What must be subtracted from 7/8 to get 1/3?",
+    "options": [
+      "13/24 (7/8 - 1/3 = (21 - 8)/24 = 13/24)",
+      "11/24",
+      "5/8",
+      "2/3"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "7/8 - x = 1/3 -> x = 7/8 - 1/3 = (21 - 8)/24 = 13/24."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Mathematics",
+    "chapter": "Chapter 7: Fractions",
+    "question": "What should be added to 3/7 to get 1?",
+    "options": [
+      "4/7 (1 - 3/7 = (7 - 3)/7 = 4/7)",
+      "3/7",
+      "7/3",
+      "1/7"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "1 - 3/7 = 7/7 - 3/7 = 4/7."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Mathematics",
+    "chapter": "Chapter 7: Fractions",
+    "question": "Sarita bought 2/5 metre of ribbon and Lalita bought 3/4 metre of ribbon. What is the total length of the ribbon they bought together?",
+    "options": [
+      "1 ³/₂₀ metres ((8 + 15)/20 = 23/20 = 1 ³/₂₀ m)",
+      "1 ½ m",
+      "5/9 m",
+      "1 ⅖ m"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "2/5 + 3/4 = (8 + 15)/20 = 23/20 = 1 3/20 metres."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Mathematics",
+    "chapter": "Chapter 7: Fractions",
+    "question": "A piece of wire 7/8 metre long broke into two pieces. One piece was 1/4 metre long. How long is the other piece?",
+    "options": [
+      "5/8 metre (7/8 - 1/4 = 7/8 - 2/8 = 5/8 m)",
+      "3/8 m",
+      "6/8 m",
+      "1/2 m"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "7/8 - 1/4 = 7/8 - 2/8 = 5/8 metre."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Mathematics",
+    "chapter": "Chapter 7: Fractions",
+    "question": "Read the statements:\nAssertion (A): The fraction 5/6 is strictly larger than 7/9.\nReason (R): Converting both to equivalent like fractions with common denominator 18: 5/6 = 15/18 and 7/9 = 14/18; since 15 > 14, 5/6 > 7/9.\nChoose the correct option:",
+    "options": [
+      "Both (A) and (R) are true, and (R) is the correct explanation of (A).",
+      "Both (A) and (R) are true, but (R) is NOT the correct explanation of (A).",
+      "(A) is true, but (R) is false.",
+      "(A) is false, but (R) is true."
+    ],
+    "correctAnswer": 0,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "5/6 = 15/18 and 7/9 = 14/18. Clearly 15/18 > 14/18."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Mathematics",
+    "chapter": "Chapter 7: Fractions",
+    "question": "Spot the IMPOSTER in the following group of fractions that is NOT equivalent to 2/3:\nGroup: [4/6, 8/12, 14/21, 16/25]",
+    "options": [
+      "4/6",
+      "8/12",
+      "14/21",
+      "16/25"
+    ],
+    "correctAnswer": 3,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "4/6 = 2/3; 8/12 = 2/3; 14/21 = 2/3. But 16/25 cannot be reduced to 2/3 (16/25 ≠ 2/3)."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Mathematics",
+    "chapter": "Chapter 7: Fractions",
+    "question": "Simplify the complex fractional expression:\n(3 ⅓ + 4 ¼) - (2 ½ + 1 ⅚)",
+    "options": [
+      "3 ¼ (7 ⁷/₁₂ - 4 ⁴/₆ = 91/12 - 52/12 = 39/12 = 13/4 = 3 ¼)",
+      "3 ½",
+      "2 ¾",
+      "4 ¼"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "(10/3 + 17/4) - (5/2 + 11/6) = (40 + 51)/12 - (15 + 11)/6 = 91/12 - 26/6 = 91/12 - 52/12 = 39/12 = 13/4 = 3 ¼."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Mathematics",
+    "chapter": "Chapter 7: Fractions",
+    "question": "Match Column I (Fraction Pairs) with Column II (Comparison Symbol):\n(a) 5/8  ____ 5/12 -> (i) > (Same numerator: smaller denominator is larger)\n(b) 3/7  ____ 4/7  -> (ii) < (Same denominator: larger numerator is larger)\n(c) 4/6  ____ 2/3  -> (iii) =\n(d) 7/10 ____ 3/5  -> (iv) > (since 7/10 > 6/10)",
+    "options": [
+      "a-(i), b-(ii), c-(iii), d-(iv)",
+      "a-(ii), b-(i), c-(iv), d-(iii)",
+      "a-(iv), b-(iii), c-(ii), d-(i)",
+      "a-(iii), b-(iv), c-(i), d-(ii)"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "a: 5/8 > 5/12; b: 3/7 < 4/7; c: 4/6 = 2/3; d: 7/10 > 3/5."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Mathematics",
+    "chapter": "Chapter 7: Fractions",
+    "question": "Read the statements:\nStatement 1: Every natural number n can be expressed as a fraction n/1.\nStatement 2: If the numerator and denominator of a fraction are multiplied by the same non-zero integer, the value of the fraction remains unchanged.\nStatement 3: 0/5 is an undefined fraction.\nWhich statements are TRUE?",
+    "options": [
+      "Statements 1 and 2 only",
+      "Statements 2 and 3 only",
+      "Statements 1 and 3 only",
+      "All Statements 1, 2, and 3"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "Statement 3 is false because 0/5 = 0 (defined); division by zero (e.g. 5/0) is undefined. Statements 1 and 2 are mathematical laws."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Mathematics",
+    "chapter": "Chapter 7: Fractions",
+    "question": "Arrange the following unlike fractions in ASCENDING order: 2/3, 1/6, 5/9, 7/12",
+    "options": [
+      "1/6 < 5/9 < 7/12 < 2/3 (LCM = 36: 6/36 < 20/36 < 21/36 < 24/36)",
+      "1/6 < 7/12 < 5/9 < 2/3",
+      "2/3 < 7/12 < 5/9 < 1/6",
+      "5/9 < 1/6 < 7/12 < 2/3"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "LCM(3, 6, 9, 12) = 36: 1/6 = 6/36, 5/9 = 20/36, 7/12 = 21/36, 2/3 = 24/36."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Mathematics",
+    "chapter": "Chapter 7: Fractions",
+    "question": "In a class of 45 students, 2/5 of the total students are girls. How many boys are there in the class?",
+    "options": [
+      "27 boys (Girls = 45 × 2/5 = 18 ; Boys = 45 - 18 = 27)",
+      "18 boys",
+      "25 boys",
+      "30 boys"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "Girls = 2/5 of 45 = 18. Boys = 3/5 of 45 = 27."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Mathematics",
+    "chapter": "Chapter 7: Fractions",
+    "question": "A tank is 3/5 full of water. If 50 litres of water is needed to fill the tank completely, what is the total capacity of the tank?",
+    "options": [
+      "125 litres (Empty fraction = 1 - 3/5 = 2/5 ; 2/5 of Total = 50 L -> Total = 50 × 5/2 = 125 L)",
+      "100 litres",
+      "150 litres",
+      "200 litres"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "Remaining 2/5 = 50 litres -> Full capacity = 50 × (5/2) = 125 litres."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Mathematics",
+    "chapter": "Chapter 7: Fractions",
+    "question": "How is the fraction 3 ⅝ represented on a number line?",
+    "options": [
+      "Between integers 3 and 4, dividing the unit segment into 8 equal parts and taking the 3rd mark from 3",
+      "Between 0 and 1",
+      "Between 2 and 3",
+      "Between 5 and 6"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "3 ⅝ lies on the interval [3, 4] at 3/8 distance beyond 3."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Mathematics",
+    "chapter": "Chapter 7: Fractions",
+    "question": "Which of the following fraction pairs are NOT co-prime in their current form and can be reduced further?",
+    "options": [
+      "84/98 (both divisible by 14: 6/7)",
+      "15/37",
+      "8/15",
+      "11/17"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "HCF(84, 98) = 14 ≠ 1. 84/98 = 6/7."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Mathematics",
+    "chapter": "Chapter 7: Fractions",
+    "question": "Solve the missing fraction in the box: [ ? ] - 5/8 = 1/4",
+    "options": [
+      "7/8 (1/4 + 5/8 = 2/8 + 5/8 = 7/8)",
+      "6/8",
+      "3/8",
+      "1/2"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "? = 1/4 + 5/8 = 2/8 + 5/8 = 7/8."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Mathematics",
+    "chapter": "Chapter 7: Fractions",
+    "question": "A cake was divided into 12 equal slices. Anil ate 1/4 of the cake, Sunita ate 1/3 of the cake, and the rest was eaten by Rohan. What fraction of the cake did Rohan eat?",
+    "options": [
+      "5/12 (Anil = 3/12 ; Sunita = 4/12 ; Remaining = 12/12 - 7/12 = 5/12)",
+      "1/12",
+      "7/12",
+      "1/2"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "1 - (1/4 + 1/3) = 1 - (3/12 + 4/12) = 1 - 7/12 = 5/12."
+  },
+  {
+    "classLevel": 6,
+    "subject": "English",
+    "chapter": "Chapter 7: Fair Play",
+    "question": "Who were the two inseparable childhood friends whose deep bond of friendship was celebrated across the village in 'Fair Play'?",
+    "options": [
+      "Jumman Shaikh and Algu Chowdhry",
+      "Samjhu Sahu and Jumman",
+      "Premchand and Algu",
+      "Rahim and Karim"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "Jumman Shaikh and Algu Chowdhry shared an iconic village friendship; whenever either went away, the other looked after his household."
+  },
+  {
+    "classLevel": 6,
+    "subject": "English",
+    "chapter": "Chapter 7: Fair Play",
+    "question": "Why did Jumman's elderly maternal aunt transfer her property and land to Jumman?",
+    "options": [
+      "On the condition that she would stay with him and he would look after and care for her until her death",
+      "Because she wanted to sell the land",
+      "Because she had no house",
+      "Because the village panchayat ordered her"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "The aunt transferred her property in exchange for lifelong care and maintenance from Jumman and his family."
+  },
+  {
+    "classLevel": 6,
+    "subject": "English",
+    "chapter": "Chapter 7: Fair Play",
+    "question": "How did Jumman and his wife Kariman treat the old aunt after the property transfer was officially completed?",
+    "options": [
+      "They became indifferent and harsh, grudging even the small amount of daily food she ate and insulting her",
+      "They treated her like a queen",
+      "They built her a palace",
+      "They gave her all their money"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "Once the land was secured, Jumman grew cold and his wife Kariman grudged every bite of food given to the old lady."
+  },
+  {
+    "classLevel": 6,
+    "subject": "English",
+    "chapter": "Chapter 7: Fair Play",
+    "question": "What reasonable demand did the mistreated aunt make when she could no longer bear the daily insults?",
+    "options": [
+      "She asked for a small monthly allowance to set up a separate kitchen for herself",
+      "She asked for all of Jumman's property",
+      "She asked to leave the country",
+      "She asked for a car"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "The aunt requested a modest monthly allowance so she could cook independently with dignity."
+  },
+  {
+    "classLevel": 6,
+    "subject": "English",
+    "chapter": "Chapter 7: Fair Play",
+    "question": "Whom did the aunt nominate as the Head Panch (Sarpanch) in the village panchayat?",
+    "options": [
+      "Algu Chowdhry (Jumman's best friend)",
+      "Samjhu Sahu",
+      "The Village Headman",
+      "Her nephew"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "Trusting in pure justice, the aunt nominated Algu Chowdhry, knowing a true Panch has no friends or enemies."
+  },
+  {
+    "classLevel": 6,
+    "subject": "English",
+    "chapter": "Chapter 7: Fair Play",
+    "question": "What famous principle did the aunt state to Algu: 'The voice of the Panch is the voice of...'?",
+    "options": [
+      "God",
+      "The King",
+      "The Village",
+      "Justice"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "The aunt declared: 'God lives in the heart of the Panch, and his voice is the voice of God.'"
+  },
+  {
+    "classLevel": 6,
+    "subject": "English",
+    "chapter": "Chapter 7: Fair Play",
+    "question": "What verdict did Head Panch Algu Chowdhry deliver in the panchayat case regarding the aunt?",
+    "options": [
+      "Jumman must pay his aunt a monthly allowance, or the transferred property will be returned to her immediately",
+      "The aunt must leave the village",
+      "Jumman is innocent",
+      "The property must be sold"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "Upholding absolute justice over personal friendship, Algu ruled that Jumman must pay the allowance or surrender the land."
+  },
+  {
+    "classLevel": 6,
+    "subject": "English",
+    "chapter": "Chapter 7: Fair Play",
+    "question": "How did Algu's fair judgment affect his friendship with Jumman?",
+    "options": [
+      "The bond of friendship was broken; Jumman felt betrayed and saw Algu as his bitter enemy, seeking revenge",
+      "They became even closer friends",
+      "They started a business together",
+      "They moved to the city"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "Jumman harbored deep resentment against Algu, awaiting an opportunity to take revenge."
+  },
+  {
+    "classLevel": 6,
+    "subject": "English",
+    "chapter": "Chapter 7: Fair Play",
+    "question": "To whom did Algu sell his fine surviving bullock on the promise of payment within a month?",
+    "options": [
+      "Samjhu Sahu (a village cart driver)",
+      "Jumman Shaikh",
+      "The village priest",
+      "A merchant in town"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "Algu sold his bullock to Samjhu Sahu, who used it to transport goods between the village and town."
+  },
+  {
+    "classLevel": 6,
+    "subject": "English",
+    "chapter": "Chapter 7: Fair Play",
+    "question": "Why did the bullock die within a month of being purchased by Samjhu Sahu?",
+    "options": [
+      "Sahu overworked the poor animal with multiple daily trips, gave it little water and only dry straw/fodder to eat",
+      "It fell into a deep river",
+      "It was bitten by a snake",
+      "It was poisoned"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "Cruel overworking and severe malnutrition caused the exhausted beast to collapse and die on the road."
+  },
+  {
+    "classLevel": 6,
+    "subject": "English",
+    "chapter": "Chapter 7: Fair Play",
+    "question": "Whom did Samjhu Sahu nominate as Head Panch when Algu took the unpaid bullock case to the panchayat?",
+    "options": [
+      "Jumman Shaikh (Algu's estranged enemy)",
+      "The village headman",
+      "The old aunt",
+      "A merchant"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "Sahu cunningly chose Jumman, expecting him to deliver a revenge verdict against Algu."
+  },
+  {
+    "classLevel": 6,
+    "subject": "English",
+    "chapter": "Chapter 7: Fair Play",
+    "question": "In the supplementary chapter 'The Wonder Called Sleep', what happens to our body temperature and blood pressure during deep sleep?",
+    "options": [
+      "Body temperature falls and blood pressure drops as muscles relax completely",
+      "Body temperature rises to boiling point",
+      "Blood pressure doubles",
+      "The heart stops beating"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "During deep somatic sleep, metabolic basal rate drops, reducing muscular tone, body temperature, and arterial pressure."
+  },
+  {
+    "classLevel": 6,
+    "subject": "English",
+    "chapter": "Chapter 7: Fair Play",
+    "question": "What profound realization came over Jumman Shaikh the moment he sat on the seat of the Head Panch?",
+    "options": [
+      "He felt the supreme gravity and sanctity of justice; as a Panch, he represented divine truth above all personal enmity or friendship",
+      "He decided to take sweet revenge on Algu",
+      "He wanted to punish everyone",
+      "He wanted to run away"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "The solemn office of Sarpanch awakened Jumman's conscience, transcending personal grudge to embrace immaculate justice."
+  },
+  {
+    "classLevel": 6,
+    "subject": "English",
+    "chapter": "Chapter 7: Fair Play",
+    "question": "What verdict did Head Panch Jumman deliver in the dispute between Algu and Samjhu Sahu?",
+    "options": [
+      "Samjhu Sahu must pay Algu the full price of the bullock, because the bullock suffered from no disability when sold and died solely due to Sahu's ill-treatment and neglect",
+      "Algu must pay a fine to Sahu",
+      "Both must go to jail",
+      "The money should be given to the panchayat"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "Jumman ruled impartially: since the bullock was healthy at purchase, Sahu was legally and morally obligated to pay the full price."
+  },
+  {
+    "classLevel": 6,
+    "subject": "English",
+    "chapter": "Chapter 7: Fair Play",
+    "question": "What did Algu and Jumman do after the verdict was pronounced?",
+    "options": [
+      "Algu wept with joy shouting 'Victory to the Panchayat!', and both friends embraced each other, washing away all misunderstandings with tears",
+      "They had a fist fight",
+      "They left the village forever",
+      "They refused to speak"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "The righteous judgment reconciled the two friends, restoring their mutual respect and sacred bond."
+  },
+  {
+    "classLevel": 6,
+    "subject": "English",
+    "chapter": "Chapter 7: Fair Play",
+    "question": "What is the core moral and philosophical message of Premchand's 'Fair Play'?",
+    "options": [
+      "Justice transcends all personal relationships, friendships, and enmities; when seated in judgment, one is the voice of God and must remain strictly impartial",
+      "Friends should never lend money",
+      "Bullocks should not be sold",
+      "Panchayats should be avoided"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "The story immortalizes the principle that judicial duty demands immaculate neutrality and allegiance to truth alone."
+  },
+  {
+    "classLevel": 6,
+    "subject": "English",
+    "chapter": "Chapter 7: Fair Play",
+    "question": "In 'The Wonder Called Sleep', why is sleep called an 'unconscious state of rest' and a miraculous wonder?",
+    "options": [
+      "It recharges and heals our fatigued body and mind, restoring full vigor, mental clarity, and somatic energy for the next day's activities",
+      "It makes humans fly in reality",
+      "It stops aging permanently",
+      "It erases all human memories"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "Sleep is biological restorative maintenance, facilitating neurocellular recovery and memory consolidation."
+  },
+  {
+    "classLevel": 6,
+    "subject": "English",
+    "chapter": "Chapter 7: Fair Play",
+    "question": "What is a 'Dream' according to the scientific explanation in 'The Wonder Called Sleep'?",
+    "options": [
+      "An active state of mind during sleep where the brain processes subconscious thoughts, emotions, and daily memories, sometimes revealing solutions to problems",
+      "A message from aliens",
+      "A magical vision of the past",
+      "A disease of the brain"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "Dreams are neuro-cognitive simulations during REM sleep aiding psychological equilibrium and creative problem solving."
+  },
+  {
+    "classLevel": 6,
+    "subject": "English",
+    "chapter": "Chapter 7: Fair Play",
+    "question": "Why can dreams NEVER predict the future?",
+    "options": [
+      "Dreams are merely internal neural processing of our own past experiences, subconscious desires, and fears, having no magical psychic power to foretell future events",
+      "Because dreams only last 1 second",
+      "Because future is written in stone",
+      "Because sleep blocks the future"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "NCERT clarifies that while dreams process subjective memory traces, they possess no supernatural predictive validity."
+  },
+  {
+    "classLevel": 6,
+    "subject": "English",
+    "chapter": "Chapter 7: Fair Play",
+    "question": "What poetic phrase did Edward Thomas use to describe sleep in his famous poem 'Lights Out'?",
+    "options": [
+      "The unfathomable deep forest where all human paths must lose their way",
+      "A shining golden castle",
+      "A stormy ocean",
+      "A dark prison cell"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "Thomas portrays sleep as an enigmatic boundless forest into which all travelers, ambition, and passions inevitably descend."
+  },
+  {
+    "classLevel": 6,
+    "subject": "English",
+    "chapter": "Chapter 7: Fair Play",
+    "question": "What does the idiom 'to swallow insults' mean in the context of the aunt enduring mistreatment?",
+    "options": [
+      "To tolerate humiliation, abuse, or offensive remarks quietly without protesting or retaliating",
+      "To eat poisonous food",
+      "To speak very loudly",
+      "To laugh at someone"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "'To swallow insults' denotes stoically absorbing verbal humiliation without outward resistance."
+  },
+  {
+    "classLevel": 6,
+    "subject": "English",
+    "chapter": "Chapter 7: Fair Play",
+    "question": "Why did Algu's heart sink when Samjhu Sahu nominated Jumman as the Head Panch?",
+    "options": [
+      "Algu feared that Jumman would use this judicial opportunity to exact vengeance and rule against him maliciously",
+      "Algu didn't like Jumman's clothes",
+      "Algu wanted to go home early",
+      "Algu had forgotten the facts of the case"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "Knowing their severed friendship, Algu dreaded that personal enmity would bias Jumman's judgment."
+  },
+  {
+    "classLevel": 6,
+    "subject": "English",
+    "chapter": "Chapter 7: Fair Play",
+    "question": "What is the meaning of the word 'Panchayat' in rural Indian governance?",
+    "options": [
+      "A traditional council of village elders gathered to resolve disputes and administer local justice and welfare",
+      "A big market fair",
+      "A wrestling match",
+      "A religious festival"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "Panchayat is a traditional democratic council of five elders deliberating community disputes."
+  },
+  {
+    "classLevel": 6,
+    "subject": "English",
+    "chapter": "Chapter 7: Fair Play",
+    "question": "What physiological change occurs in the brain when a sleeping person transitions into the Rapid Eye Movement (REM) dream stage?",
+    "options": [
+      "Brain activity increases, eyes move rapidly behind closed eyelids, while large skeletal muscles remain temporarily paralyzed (atonic)",
+      "The brain stops working completely",
+      "The body starts walking automatically",
+      "The person speaks fluent Greek"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "REM sleep exhibits paradoxical cortical activation and rapid ocular oscillations alongside somatic motor inhibition."
+  },
+  {
+    "classLevel": 6,
+    "subject": "English",
+    "chapter": "Chapter 7: Fair Play",
+    "question": "What does the expression 'a tight spot' mean when Algu found himself in trouble after the death of his bullock?",
+    "options": [
+      "A difficult, perplexing, or precarious situation",
+      "A narrow physical hallway",
+      "A small shoe",
+      "A warm blanket"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "'In a tight spot' is an idiomatic metaphor signifying financial or personal dilemma."
+  },
+  {
+    "classLevel": 6,
+    "subject": "English",
+    "chapter": "Chapter 7: Fair Play",
+    "question": "Who is the legendary author of the original Hindi classic story 'Panch Parmeshwar', translated into English as 'Fair Play'?",
+    "options": [
+      "Munshi Premchand (Dhanpat Rai Shrivastava)",
+      "Rabindranath Tagore",
+      "R.K. Narayan",
+      "Mulk Raj Anand"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "Munshi Premchand penned the iconic masterpiece 'पंच परमेश्वर' (Panch Parmeshwar) portraying rural judicial ethics."
+  },
+  {
+    "classLevel": 6,
+    "subject": "English",
+    "chapter": "Chapter 7: Fair Play",
+    "question": "Why did the villagers cheer 'Victory to the Panchayat! This is justice!' at the end of both trials?",
+    "options": [
+      "Because in both cases, the Panch proved that truth and justice prevail above personal biases, friendships, and vendettas",
+      "Because the trial was very short",
+      "Because they received free sweets",
+      "Because it started raining"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "The community celebrated the incorruptibility and divine moral authority of the village judicial institution."
+  },
+  {
+    "classLevel": 6,
+    "subject": "English",
+    "chapter": "Chapter 7: Fair Play",
+    "question": "In 'The Wonder Called Sleep', why is sleep compared to an enchanting 'haven' or 'sweet land'?",
+    "options": [
+      "Because it provides a tranquil sanctuary where all sorrows, fatigue, worries, and pain are forgotten in peaceful rest",
+      "Because you can buy candy there",
+      "Because nobody can wake you up",
+      "Because it has golden rivers"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "Sleep serves as a biological and emotional oasis restoring physical equilibrium away from conscious distress."
+  },
+  {
+    "classLevel": 6,
+    "subject": "English",
+    "chapter": "Chapter 7: Fair Play",
+    "question": "Read the statements:\nAssertion (A): Both Algu Chowdhry and Jumman Shaikh delivered verdicts that directly went against their personal self-interest and immediate emotional desires.\nReason (R): The solemn seat of the Head Panch instills an inescapable sense of divine justice and ethical responsibility that supersedes personal friendship or enmity.\nChoose the correct option:",
+    "options": [
+      "Both (A) and (R) are true, and (R) is the correct explanation of (A).",
+      "Both (A) and (R) are true, but (R) is NOT the correct explanation of (A).",
+      "(A) is true, but (R) is false.",
+      "(A) is false, but (R) is true."
+    ],
+    "correctAnswer": 0,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "The core thesis of 'Panch Parmeshwar' is that judicial responsibility commands immaculate adherence to truth over personal bias."
+  },
+  {
+    "classLevel": 6,
+    "subject": "English",
+    "chapter": "Chapter 7: Fair Play",
+    "question": "Spot the IMPOSTER in the following group of character descriptions from 'Fair Play':\nGroup: [Jumman Shaikh - Nephew of the old aunt, Algu Chowdhry - Head Panch in the aunt's case, Samjhu Sahu - Village cart driver who bought the bullock, Kariman - The kind daughter who gave money to the aunt]",
+    "options": [
+      "Jumman Shaikh - Nephew of the old aunt",
+      "Algu Chowdhry - Head Panch in the aunt's case",
+      "Samjhu Sahu - Village cart driver who bought the bullock",
+      "Kariman - The kind daughter who gave money to the aunt"
+    ],
+    "correctAnswer": 3,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "Kariman was JUMMAN'S WIFE who treated the elderly aunt with harshness and grudged her daily bread, NOT a kind daughter."
+  },
+  {
+    "classLevel": 6,
+    "subject": "English",
+    "chapter": "Chapter 7: Fair Play",
+    "question": "Analyze the dramatic irony in Samjhu Sahu's decision to nominate Jumman Shaikh as the Head Panch in his dispute with Algu:",
+    "options": [
+      "Sahu expected Jumman's enmity with Algu to guarantee a biased ruling in his favor, but the sacred seat transformed Jumman into an impartial judge who ruled against Sahu",
+      "Sahu wanted Jumman to lose money",
+      "Sahu knew Jumman was Algu's brother",
+      "Sahu wanted to pay double money"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "Dramatic irony arises when Sahu's calculated attempt to exploit a personal feud collapses before the sanctity of judicial truth."
+  },
+  {
+    "classLevel": 6,
+    "subject": "English",
+    "chapter": "Chapter 7: Fair Play",
+    "question": "Match Column I (Characters / Concepts) with Column II (Key Roles / Quotes):\n(a) The Old Aunt     -> (i) 'God lives in the heart of the Panch'\n(b) Jumman Shaikh    -> (ii) 'Algu, since you gave verdict against me, I became your enemy'\n(c) Samjhu Sahu      -> (iii) Cruelly overworked the bullock to death\n(d) Edward Thomas    -> (iv) Poet of 'Lights Out' describing the deep forest of sleep",
+    "options": [
+      "a-(i), b-(ii), c-(iii), d-(iv)",
+      "a-(ii), b-(i), c-(iii), d-(iv)",
+      "a-(iv), b-(iii), c-(ii), d-(i)",
+      "a-(iii), b-(iv), c-(i), d-(ii)"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "Aunt = 'God lives in the Panch'; Jumman = 'I became your enemy'; Sahu = overworked bullock; Edward Thomas = 'Lights Out'."
+  },
+  {
+    "classLevel": 6,
+    "subject": "English",
+    "chapter": "Chapter 7: Fair Play",
+    "question": "Read the statements regarding 'The Wonder Called Sleep':\nStatement 1: Sleep is an active state of physical exercise.\nStatement 2: A dream can sometimes reveal a novel solution to an intellectual problem that puzzled us during waking hours.\nStatement 3: Several biological hormones (including growth hormone) are secreted in elevated quantities during deep sleep.\nWhich statements are TRUE?",
+    "options": [
+      "Statements 2 and 3 only",
+      "Statements 1 and 2 only",
+      "Statements 1 and 3 only",
+      "All Statements 1, 2, and 3"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "Statement 1 is false because sleep is an unconscious state of physiological REST. Statements 2 and 3 are scientifically valid."
+  },
+  {
+    "classLevel": 6,
+    "subject": "English",
+    "chapter": "Chapter 7: Fair Play",
+    "question": "What is the grammatical voice and structure of the sentence: 'A monthly allowance must be paid to the aunt by Jumman.'?",
+    "options": [
+      "Passive Voice (with modal auxiliary 'must be' + past participle 'paid')",
+      "Active Voice",
+      "Indirect Speech",
+      "Imperative Sentence"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "The modal passive construction 'must be + V3' places the patient (monthly allowance) in subject position."
+  },
+  {
+    "classLevel": 6,
+    "subject": "English",
+    "chapter": "Chapter 7: Fair Play",
+    "question": "Identify the figure of speech in Edward Thomas's lines from 'Lights Out':\n'The tall forest; even into the dark / That all must enter and forget.'",
+    "options": [
+      "Extended Metaphor (comparing sleep to an all-encompassing dark impenetrable forest)",
+      "Simile",
+      "Onomatopoeia",
+      "Hyperbole"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "The poet sustains an extended metaphor equating the oblivion of sleep with entering a deep, mysterious forest."
+  },
+  {
+    "classLevel": 6,
+    "subject": "English",
+    "chapter": "Chapter 7: Fair Play",
+    "question": "Why does the narrator state: 'The Panch has neither friend nor enemy'?",
+    "options": [
+      "Because judicial office demands complete transcendence of personal ego, prejudice, and private affection to serve absolute cosmic justice",
+      "Because Panchs are not allowed to talk to villagers",
+      "Because Panchs live outside the village",
+      "Because Panchs have no family"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "Judicial impartiality requires that judges strip away personal ties when sitting on the seat of truth."
+  },
+  {
+    "classLevel": 6,
+    "subject": "English",
+    "chapter": "Chapter 7: Fair Play",
+    "question": "What is the meaning of the archaic/formal phrasal verb 'to make up one's mind' as used by the aunt before approaching the village elders?",
+    "options": [
+      "To reach a firm and decisive decision",
+      "To forget everything",
+      "To change thoughts randomly",
+      "To clean one's face"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "'To make up one's mind' is an English idiom meaning to resolve or decide firmly upon a course of action."
+  },
+  {
+    "classLevel": 6,
+    "subject": "English",
+    "chapter": "Chapter 7: Fair Play",
+    "question": "How does Premchand use the bullock's tragic death to critique commercial greed and animal cruelty in rural society?",
+    "options": [
+      "Through Sahu's ruthless exploitation of the defenseless animal for quick profit without food or rest, illustrating how avarice degrades humanity",
+      "By showing that bullocks should not pull carts",
+      "By arguing that all carts should be banned",
+      "By showing that traders are always poor"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "Premchand exposes unbridled commercial exploitation that sacrifices sentient lives for mercenary profit."
+  },
+  {
+    "classLevel": 6,
+    "subject": "English",
+    "chapter": "Chapter 7: Fair Play",
+    "question": "In 'The Wonder Called Sleep', what happens to our conscious sensory awareness when external stimuli (such as an alarm clock ringing or sunlight hitting eyelids) occur?",
+    "options": [
+      "Our brain integrates the sensory stimulus into our ongoing dream narrative until neural arousal crosses the waking threshold",
+      "The brain explodes",
+      "The person forgets who they are",
+      "Sleep becomes permanent"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "Subconscious sensory incorporation (e.g. dreaming of a church bell when the alarm rings) occurs before full cortical awakening."
+  },
+  {
+    "classLevel": 6,
+    "subject": "English",
+    "chapter": "Chapter 7: Fair Play",
+    "question": "What timeless ethical synthesis emerges when comparing the judicial triumphs of 'Fair Play' with modern democratic jurisprudence?",
+    "options": [
+      "The Rule of Law and ethical integrity must always stand sovereign above individual power, friendship, caste, or wealth",
+      "Friends should always protect each other even when guilty",
+      "Judges should take bribes",
+      "Panchayats should only favor rich traders"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "Both traditional panchayats and modern constitutional courts derive legitimacy from unwavering impartiality and adherence to natural justice."
+  },
+  {
+    "classLevel": 6,
+    "subject": "GK",
+    "chapter": "Chapter 7: Indian Polity, Constitution & Governance",
+    "question": "What is the supreme legal and constitutional document of India, establishing the framework of government, fundamental rights, and duties?",
+    "options": [
+      "The Constitution of India",
+      "The Indian Penal Code",
+      "The Magna Carta",
+      "The Parliament Act"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "The Constitution of India is the supreme law of the land, drafted by the Constituent Assembly."
+  },
+  {
+    "classLevel": 6,
+    "subject": "GK",
+    "chapter": "Chapter 7: Indian Polity, Constitution & Governance",
+    "question": "Who is revered as the 'Chief Architect and Father of the Indian Constitution' and served as the Chairman of the Drafting Committee?",
+    "options": [
+      "Dr. B.R. Ambedkar (Bhimrao Ramji Ambedkar)",
+      "Dr. Rajendra Prasad",
+      "Jawaharlal Nehru",
+      "Sardar Vallabhbhai Patel"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "Dr. B.R. Ambedkar chaired the Drafting Committee, synthesizing social justice into constitutional jurisprudence."
+  },
+  {
+    "classLevel": 6,
+    "subject": "GK",
+    "chapter": "Chapter 7: Indian Polity, Constitution & Governance",
+    "question": "On which historic date did the Constitution of India come into full effect, celebrated annually as Republic Day across the country?",
+    "options": [
+      "26th January 1950",
+      "15th August 1947",
+      "26th November 1949",
+      "2nd October 1950"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "The Constitution came into force on 26 January 1950, commemorated every year as India's Republic Day."
+  },
+  {
+    "classLevel": 6,
+    "subject": "GK",
+    "chapter": "Chapter 7: Indian Polity, Constitution & Governance",
+    "question": "On which date was the Constitution of India officially ADOPTED by the Constituent Assembly, celebrated annually as 'Constitution Day' (Samvidhan Divas)?",
+    "options": [
+      "26th November 1949",
+      "26th January 1950",
+      "15th August 1947",
+      "30th January 1948"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "The Constituent Assembly adopted the Constitution on 26 November 1949, designated as Constitution Day."
+  },
+  {
+    "classLevel": 6,
+    "subject": "GK",
+    "chapter": "Chapter 7: Indian Polity, Constitution & Governance",
+    "question": "Who was the FIRST President of the Republic of India and also the President of the Constituent Assembly?",
+    "options": [
+      "Dr. Rajendra Prasad",
+      "Dr. S. Radhakrishnan",
+      "Dr. Zakir Husain",
+      "C. Rajagopalachari"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "Dr. Rajendra Prasad presided over the Constituent Assembly and served as India's first President from 1950 to 1962."
+  },
+  {
+    "classLevel": 6,
+    "subject": "GK",
+    "chapter": "Chapter 7: Indian Polity, Constitution & Governance",
+    "question": "Who is the FIRST citizen of India and the Supreme Commander of the Indian Armed Forces?",
+    "options": [
+      "The President of India",
+      "The Prime Minister",
+      "The Chief Justice of India",
+      "The Defence Minister"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "The President is the constitutional Head of State, First Citizen, and Supreme Commander of the Army, Navy, and Air Force."
+  },
+  {
+    "classLevel": 6,
+    "subject": "GK",
+    "chapter": "Chapter 7: Indian Polity, Constitution & Governance",
+    "question": "Who is the real executive Head of Government and leader of the Council of Ministers in India?",
+    "options": [
+      "The Prime Minister of India",
+      "The President",
+      "The Chief Justice",
+      "The Speaker of Lok Sabha"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "Under our parliamentary system, the Prime Minister is the de facto head of government leading the executive cabinet."
+  },
+  {
+    "classLevel": 6,
+    "subject": "GK",
+    "chapter": "Chapter 7: Indian Polity, Constitution & Governance",
+    "question": "What are the two Houses of the Parliament of India (Bicameral Legislature)?",
+    "options": [
+      "Lok Sabha (House of the People) and Rajya Sabha (Council of States)",
+      "Vidhan Sabha and Vidhan Parishad",
+      "Senate and House of Representatives",
+      "Supreme Court and High Court"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "The Indian Parliament comprises the President and two Houses: Lok Sabha (Lower House) and Rajya Sabha (Upper House)."
+  },
+  {
+    "classLevel": 6,
+    "subject": "GK",
+    "chapter": "Chapter 7: Indian Polity, Constitution & Governance",
+    "question": "What is the minimum voting age for Indian citizens in general democratic elections under Universal Adult Suffrage?",
+    "options": [
+      "18 years (lowered from 21 by 61st Constitutional Amendment in 1988)",
+      "21 years",
+      "25 years",
+      "16 years"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "Every Indian citizen aged 18 years or above possesses the constitutional fundamental right to vote without discrimination."
+  },
+  {
+    "classLevel": 6,
+    "subject": "GK",
+    "chapter": "Chapter 7: Indian Polity, Constitution & Governance",
+    "question": "What is the highest judicial court of appeal in India, situated in New Delhi?",
+    "options": [
+      "Supreme Court of India (headed by the Chief Justice of India)",
+      "High Court",
+      "District Court",
+      "Panchayat Court"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "The Supreme Court of India is the apex judicial guardian and final interpreter of the Constitution."
+  },
+  {
+    "classLevel": 6,
+    "subject": "GK",
+    "chapter": "Chapter 7: Indian Polity, Constitution & Governance",
+    "question": "What opening introductory statement sets out the guiding ideals, philosophy, and principles of the Constitution of India?",
+    "options": [
+      "The Preamble ('WE, THE PEOPLE OF INDIA...')",
+      "The Index",
+      "The Appendix",
+      "The First Schedule"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "The Preamble is the identity card and philosophical soul of the Indian Constitution, declaring India a Sovereign, Socialist, Secular, Democratic Republic."
+  },
+  {
+    "classLevel": 6,
+    "subject": "GK",
+    "chapter": "Chapter 7: Indian Polity, Constitution & Governance",
+    "question": "What is the national motto of India inscribed below the State Emblem, taken from the ancient Mundaka Upanishad?",
+    "options": [
+      "'Satyameva Jayate' (Truth Alone Triumphs)",
+      "'Vande Mataram'",
+      "'Jai Hind'",
+      "'Jan Gan Man'"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "'Satyameva Jayate' ('Truth alone triumphs') is the national motto inscribed in Devanagari script at the base of the national emblem."
+  },
+  {
+    "classLevel": 6,
+    "subject": "GK",
+    "chapter": "Chapter 7: Indian Polity, Constitution & Governance",
+    "question": "How many Fundamental Rights are currently guaranteed to all Indian citizens under Part III of the Constitution?",
+    "options": [
+      "6 Fundamental Rights (Right to Equality, Right to Freedom, Right against Exploitation, Right to Freedom of Religion, Cultural & Educational Rights, Right to Constitutional Remedies)",
+      "7 Fundamental Rights",
+      "10 Fundamental Rights",
+      "5 Fundamental Rights"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "There are 6 Fundamental Rights (the 7th, Right to Property, was converted to a legal right by the 44th Amendment in 1978)."
+  },
+  {
+    "classLevel": 6,
+    "subject": "GK",
+    "chapter": "Chapter 7: Indian Polity, Constitution & Governance",
+    "question": "Which Fundamental Right under Article 32 was famously called the 'Heart and Soul of the Constitution' by Dr. B.R. Ambedkar?",
+    "options": [
+      "Right to Constitutional Remedies (allowing citizens to approach Supreme Court via writs like Habeas Corpus, Mandamus)",
+      "Right to Equality",
+      "Right to Freedom of Speech",
+      "Right to Property"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "Article 32 empowers the Supreme Court to issue prerogative writs to enforce fundamental rights, making rights truly enforceable."
+  },
+  {
+    "classLevel": 6,
+    "subject": "GK",
+    "chapter": "Chapter 7: Indian Polity, Constitution & Governance",
+    "question": "How many Fundamental Duties are prescribed for Indian citizens under Article 51A (Part IVA) of the Constitution?",
+    "options": [
+      "11 Fundamental Duties (added by 42nd & 86th Amendments)",
+      "10 Fundamental Duties",
+      "8 Fundamental Duties",
+      "12 Fundamental Duties"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "Originally 10 duties recommended by Swaran Singh Committee were added in 1976; the 11th duty on education was added in 2002."
+  },
+  {
+    "classLevel": 6,
+    "subject": "GK",
+    "chapter": "Chapter 7: Indian Polity, Constitution & Governance",
+    "question": "What is the normal term of office for elected Members of the Lok Sabha (Lower House)?",
+    "options": [
+      "5 years",
+      "6 years",
+      "4 years",
+      "Permanent (no term limit)"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "Lok Sabha members are elected directly by the people for a standard 5-year term unless dissolved earlier."
+  },
+  {
+    "classLevel": 6,
+    "subject": "GK",
+    "chapter": "Chapter 7: Indian Polity, Constitution & Governance",
+    "question": "What is the permanent nature and term of members in the Rajya Sabha (Upper House)?",
+    "options": [
+      "It is a permanent House never subject to total dissolution; members serve 6-year terms with one-third retiring every 2 years",
+      "It dissolves every 5 years",
+      "Members serve for life",
+      "It dissolves every year"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "Rajya Sabha is a continuous permanent federal chamber where 1/3rd of members retire biennially after 6-year terms."
+  },
+  {
+    "classLevel": 6,
+    "subject": "GK",
+    "chapter": "Chapter 7: Indian Polity, Constitution & Governance",
+    "question": "Who is the ex-officio Chairman of the Rajya Sabha in India?",
+    "options": [
+      "The Vice-President of India",
+      "The Prime Minister",
+      "The Speaker of Lok Sabha",
+      "The Chief Justice"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "Under Article 64, the Vice-President of India serves as the constitutional ex-officio Chairman of the Rajya Sabha."
+  },
+  {
+    "classLevel": 6,
+    "subject": "GK",
+    "chapter": "Chapter 7: Indian Polity, Constitution & Governance",
+    "question": "What is the Three-Tier system of rural local self-government in India called?",
+    "options": [
+      "Panchayati Raj (Gram Panchayat at village level, Panchayat Samiti at block level, Zilla Parishad at district level)",
+      "Municipal Corporation",
+      "District Magistrate Council",
+      "Gram Sabha only"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "Constitutionalized by the 73rd Amendment (1992), Panchayati Raj establishes a 3-tier democratic decentralization system."
+  },
+  {
+    "classLevel": 6,
+    "subject": "GK",
+    "chapter": "Chapter 7: Indian Polity, Constitution & Governance",
+    "question": "Which Indian state was the first to establish the Panchayati Raj system on 2nd October 1959 at Nagaur?",
+    "options": [
+      "Rajasthan",
+      "Andhra Pradesh",
+      "Uttar Pradesh",
+      "Maharashtra"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "Prime Minister Jawaharlal Nehru inaugurated democratic Panchayati Raj in Nagaur district, Rajasthan on Gandhi Jayanti in 1959."
+  },
+  {
+    "classLevel": 6,
+    "subject": "GK",
+    "chapter": "Chapter 7: Indian Polity, Constitution & Governance",
+    "question": "What constitutional body conducts free, fair, and impartial democratic elections for Parliament, State Assemblies, President, and Vice-President in India?",
+    "options": [
+      "Election Commission of India (ECI - Article 324)",
+      "NITI Aayog",
+      "UPSC",
+      "Supreme Court"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "The Election Commission of India (Article 324) is an autonomous constitutional watchdog conducting national and state elections."
+  },
+  {
+    "classLevel": 6,
+    "subject": "GK",
+    "chapter": "Chapter 7: Indian Polity, Constitution & Governance",
+    "question": "Who was the FIRST Chief Election Commissioner of Independent India who supervised India's first historic General Elections in 1951–52?",
+    "options": [
+      "Sukumar Sen",
+      "T.N. Seshan",
+      "K.V.K. Sundaram",
+      "Sunil Arora"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "Sukumar Sen organized India's gigantic first democratic general election of 173 million voters across remote geographies."
+  },
+  {
+    "classLevel": 6,
+    "subject": "GK",
+    "chapter": "Chapter 7: Indian Polity, Constitution & Governance",
+    "question": "What is the maximum strength of Lok Sabha and Rajya Sabha sanctioned by the Constitution of India?",
+    "options": [
+      "Lok Sabha: 550 members ; Rajya Sabha: 250 members (238 elected + 12 nominated by President)",
+      "Lok Sabha: 500 ; Rajya Sabha: 200",
+      "Lok Sabha: 600 ; Rajya Sabha: 300",
+      "Both have 500 members"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "Maximum sanctioned strength: Lok Sabha = 550; Rajya Sabha = 250 (including 12 nominated eminent persons in arts, literature, science, social service)."
+  },
+  {
+    "classLevel": 6,
+    "subject": "GK",
+    "chapter": "Chapter 7: Indian Polity, Constitution & Governance",
+    "question": "What does the term 'Secular State' in the Indian Preamble signify?",
+    "options": [
+      "The State has no official state religion and treats all religions equally with complete freedom of faith, worship, and conscience",
+      "The State bans all religions",
+      "The State only supports one religion",
+      "The State is ruled by priests"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "Indian secularism (Sarva Dharma Sambhava) mandates absolute neutrality, non-discrimination, and equal protection for all faiths."
+  },
+  {
+    "classLevel": 6,
+    "subject": "GK",
+    "chapter": "Chapter 7: Indian Polity, Constitution & Governance",
+    "question": "Who presides over the joint sittings of both Houses of Parliament in India?",
+    "options": [
+      "The Speaker of the Lok Sabha",
+      "The Chairman of Rajya Sabha",
+      "The President",
+      "The Prime Minister"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "Under Article 118(4), the Speaker of the Lok Sabha presides over joint sittings summoned by the President to resolve legislative deadlocks."
+  },
+  {
+    "classLevel": 6,
+    "subject": "GK",
+    "chapter": "Chapter 7: Indian Polity, Constitution & Governance",
+    "question": "What is the retirement age of a Judge of the Supreme Court of India and a Judge of a High Court respectively?",
+    "options": [
+      "Supreme Court Judge: 65 years ; High Court Judge: 62 years",
+      "Both 60 years",
+      "Both 65 years",
+      "Supreme Court: 70 years ; High Court: 65 years"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "Constitutionally, Supreme Court judges hold office until 65 years of age, whereas High Court judges retire at 62 years."
+  },
+  {
+    "classLevel": 6,
+    "subject": "GK",
+    "chapter": "Chapter 7: Indian Polity, Constitution & Governance",
+    "question": "What is the policy think-tank of the Government of India that replaced the Planning Commission in 2015, chaired by the Prime Minister?",
+    "options": [
+      "NITI Aayog (National Institution for Transforming India)",
+      "Finance Commission",
+      "National Development Council",
+      "RBI"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "Established on 1 January 2015, NITI Aayog fosters cooperative federalism and strategic policy advisory."
+  },
+  {
+    "classLevel": 6,
+    "subject": "GK",
+    "chapter": "Chapter 7: Indian Polity, Constitution & Governance",
+    "question": "How long did the Constituent Assembly take to draft and complete the Constitution of India?",
+    "options": [
+      "2 years, 11 months, and 18 days",
+      "1 year and 6 months",
+      "5 full years",
+      "3 years exactly"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "The Constituent Assembly held 11 plenary sessions spanning 165 days over a total period of 2 years, 11 months, and 18 days."
+  },
+  {
+    "classLevel": 6,
+    "subject": "GK",
+    "chapter": "Chapter 7: Indian Polity, Constitution & Governance",
+    "question": "Read the statements:\nAssertion (A): The Indian Constitution is characterized as 'Quasi-Federal' or 'Federal with a strong unitary bias' (a Union of States).\nReason (R): While legislative powers are divided between the Union and States across three lists (Union, State, Concurrent), the Centre retains emergency powers, single citizenship, an integrated judiciary, and residuary legislative powers.\nChoose the correct option:",
+    "options": [
+      "Both (A) and (R) are true, and (R) is the correct explanation of (A).",
+      "Both (A) and (R) are true, but (R) is NOT the correct explanation of (A).",
+      "(A) is true, but (R) is false.",
+      "(A) is false, but (R) is true."
+    ],
+    "correctAnswer": 0,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "Constitutional scholar K.C. Wheare described the Indian Constitution as quasi-federal due to structural centralization in national emergencies."
+  },
+  {
+    "classLevel": 6,
+    "subject": "GK",
+    "chapter": "Chapter 7: Indian Polity, Constitution & Governance",
+    "question": "Spot the IMPOSTER in the following group of Fundamental Rights paired with their constitutional articles:\nGroup: [Right to Equality - Articles 14-18, Right to Freedom - Articles 19-22, Right against Exploitation - Articles 23-24, Right to Education - Article 51A]",
+    "options": [
+      "Right to Equality - Articles 14-18",
+      "Right to Freedom - Articles 19-22",
+      "Right against Exploitation - Articles 23-24",
+      "Right to Education - Article 51A"
+    ],
+    "correctAnswer": 3,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "The Fundamental Right to Education is under ARTICLE 21A (Part III). Article 51A contains Fundamental Duties (Part IVA)."
+  },
+  {
+    "classLevel": 6,
+    "subject": "GK",
+    "chapter": "Chapter 7: Indian Polity, Constitution & Governance",
+    "question": "What historic landmark judgment by a 13-judge constitutional bench of the Supreme Court in 1973 established that Parliament cannot alter the 'Basic Structure' of the Indian Constitution?",
+    "options": [
+      "Kesavananda Bharati v. State of Kerala (1973)",
+      "Golaknath Case (1967)",
+      "Minerva Mills Case (1980)",
+      "Maneka Gandhi Case (1978)"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "The Kesavananda Bharati verdict ruled that while Article 368 empowers Parliament to amend the Constitution, it cannot destroy its essential basic structure."
+  },
+  {
+    "classLevel": 6,
+    "subject": "GK",
+    "chapter": "Chapter 7: Indian Polity, Constitution & Governance",
+    "question": "Match Column I (Constitutional Bodies & Articles) with Column II (Functions):\n(a) Article 324  -> (i) Autonomous Election Commission of India\n(b) Article 280  -> (ii) Finance Commission for tax devolution\n(c) Article 148  -> (iii) Comptroller and Auditor General (CAG) of India\n(d) Article 76   -> (iv) Attorney General for India (highest law officer)",
+    "options": [
+      "a-(i), b-(ii), c-(iii), d-(iv)",
+      "a-(ii), b-(i), c-(iii), d-(iv)",
+      "a-(iv), b-(iii), c-(ii), d-(i)",
+      "a-(iii), b-(iv), c-(i), d-(ii)"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "324 = ECI; 280 = Finance Commission; 148 = CAG; 76 = Attorney General."
+  },
+  {
+    "classLevel": 6,
+    "subject": "GK",
+    "chapter": "Chapter 7: Indian Polity, Constitution & Governance",
+    "question": "Read the statements regarding the Preamble of the Indian Constitution:\nStatement 1: The words 'SOCIALIST', 'SECULAR', and 'INTEGRITY' were added to the Preamble by the 42nd Constitutional Amendment Act of 1976.\nStatement 2: The Preamble is a legal enactment that can be enforced in a court of law on its own.\nStatement 3: The Preamble establishes that sovereign political authority derives directly from 'WE, THE PEOPLE OF INDIA'.\nWhich statements are TRUE?",
+    "options": [
+      "Statements 1 and 3 only",
+      "Statements 1 and 2 only",
+      "Statements 2 and 3 only",
+      "All Statements 1, 2, and 3"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "Statement 2 is false because the Preamble is non-justiciable (not directly enforceable independently in court). Statements 1 and 3 are true."
+  },
+  {
+    "classLevel": 6,
+    "subject": "GK",
+    "chapter": "Chapter 7: Indian Polity, Constitution & Governance",
+    "question": "Which Constitutional Amendment Act lowered the voting age for Lok Sabha and Legislative Assembly elections from 21 years to 18 years?",
+    "options": [
+      "61st Constitutional Amendment Act (1988)",
+      "42nd Constitutional Amendment Act (1976)",
+      "44th Constitutional Amendment Act (1978)",
+      "73rd Constitutional Amendment Act (1992)"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "The 61st Amendment amended Article 326, empowering 18-year-old Indian youth with democratic voting rights."
+  },
+  {
+    "classLevel": 6,
+    "subject": "GK",
+    "chapter": "Chapter 7: Indian Polity, Constitution & Governance",
+    "question": "What are the Three Types of Emergencies that the President of India can proclaim under Part XVIII of the Constitution?",
+    "options": [
+      "National Emergency (Article 352), State Emergency / President's Rule (Article 356), and Financial Emergency (Article 360)",
+      "War Emergency, Climate Emergency, Health Emergency",
+      "Police Emergency, Judicial Emergency, Army Emergency",
+      "Only one type of emergency exists"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "Articles 352 (National/War), 356 (Constitutional machinery failure in states), and 360 (Financial threat) constitute emergency provisions."
+  },
+  {
+    "classLevel": 6,
+    "subject": "GK",
+    "chapter": "Chapter 7: Indian Polity, Constitution & Governance",
+    "question": "Which of the following constitutional features of the Indian Constitution was borrowed from the Constitution of the United Kingdom (British Parliamentary Model)?",
+    "options": [
+      "Parliamentary form of government, Rule of Law, Single Citizenship, and Cabinet System",
+      "Fundamental Rights (USA)",
+      "Directive Principles of State Policy (Ireland)",
+      "Concurrent List (Australia)"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "The Westminster parliamentary model, bicameralism, single citizenship, and legislative procedure were derived from the UK."
+  },
+  {
+    "classLevel": 6,
+    "subject": "GK",
+    "chapter": "Chapter 7: Indian Polity, Constitution & Governance",
+    "question": "What is the constitutional mechanism known as 'Gram Sabha' under the 73rd Amendment Act?",
+    "options": [
+      "A village assembly consisting of ALL registered adult voters of a village, serving as the foundational grassroots direct democracy organ",
+      "A council of village priests only",
+      "A group of rich landowners",
+      "The state legislative assembly"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "Gram Sabha comprises every registered voter in the village panchayat area, deliberating village plans and budget expenditures."
+  },
+  {
+    "classLevel": 6,
+    "subject": "GK",
+    "chapter": "Chapter 7: Indian Polity, Constitution & Governance",
+    "question": "Who was the famous master artist of Shantiniketan who, along with his students (including Beohar Rammanohar Sinha), painstakingly illuminated and hand-decorated the original calligraphy pages of the Constitution of India?",
+    "options": [
+      "Nandalal Bose",
+      "Raja Ravi Varma",
+      "Abanindranath Tagore",
+      "M.F. Husain"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "Nandalal Bose decorated the original manuscript with classical Indian motifs, while Prem Behari Narain Raizada wrote the elegant calligraphy."
+  },
+  {
+    "classLevel": 6,
+    "subject": "GK",
+    "chapter": "Chapter 7: Indian Polity, Constitution & Governance",
+    "question": "What is the primary function of the 'Directive Principles of State Policy' (DPSP) contained in Part IV (Articles 36–51) of the Indian Constitution?",
+    "options": [
+      "They are non-justiciable socio-economic policy guidelines and goals for the State to establish a Welfare State (Kalyankari Rajya) based on social justice",
+      "They are criminal punishment laws",
+      "They are rules for the Indian Army",
+      "They are tax collection rules"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "Inspired by Ireland, DPSPs guide governmental legislation towards achieving social and economic democracy."
+  },
+  {
+    "classLevel": 6,
+    "subject": "GK",
+    "chapter": "Chapter 7: Indian Polity, Constitution & Governance",
+    "question": "How is the President of India elected according to the Constitution?",
+    "options": [
+      "Indirectly by an Electoral College consisting of elected members of both Houses of Parliament AND elected members of State Legislative Assemblies (using Single Transferable Vote)",
+      "Directly by all voting citizens of India",
+      "Nominated solely by the Prime Minister",
+      "Chosen by the Supreme Court judges"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "Article 54 prescribes an Electoral College comprising elected MPs and MLAs through proportional representation by single transferable vote."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Social Science",
+    "chapter": "Chapter 7: Our Country — India",
+    "question": "What is the total geographical area of India, making it the 7th largest country in the world?",
+    "options": [
+      "3.28 million square kilometres (32.8 lakh sq km)",
+      "5.50 million sq km",
+      "2.10 million sq km",
+      "4.80 million sq km"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "India spans 3.28 million km², accounting for ~2.4% of total world land area."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Social Science",
+    "chapter": "Chapter 7: Our Country — India",
+    "question": "What is the North-to-South longitudinal extent of India from Ladakh (Indira Col) to Kanyakumari?",
+    "options": [
+      "About 3,200 kilometres (3,214 km)",
+      "2,933 km",
+      "1,500 km",
+      "4,000 km"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "The mainland North-South distance spans approximately 3,200 km from northern Ladakh to Kanyakumari."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Social Science",
+    "chapter": "Chapter 7: Our Country — India",
+    "question": "What is the East-to-West latitudinal extent of India from Arunachal Pradesh to the Rann of Kachchh in Gujarat?",
+    "options": [
+      "About 2,900 kilometres (2,933 km)",
+      "3,214 km",
+      "2,100 km",
+      "3,800 km"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "From Kibithu in Arunachal Pradesh to Ghuar Mota in Gujarat, India's east-west width is ~2,933 km."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Social Science",
+    "chapter": "Chapter 7: Our Country — India",
+    "question": "Which important latitude circle passes almost halfway through the middle of India at 23°30' N?",
+    "options": [
+      "Tropic of Cancer (23°30' N)",
+      "Equator (0°)",
+      "Tropic of Capricorn (23°30' S)",
+      "Arctic Circle (66°30' N)"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "The Tropic of Cancer (23°30' N) bisects India through 8 states (Gujarat, Rajasthan, MP, Chhattisgarh, Jharkhand, West Bengal, Tripura, Mizoram)."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Social Science",
+    "chapter": "Chapter 7: Our Country — India",
+    "question": "What is a piece of land that is surrounded by water on THREE sides called?",
+    "options": [
+      "Peninsula (e.g., Peninsular India surrounded by Arabian Sea, Bay of Bengal, and Indian Ocean)",
+      "Island",
+      "Isthmus",
+      "Strait"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "A peninsula is a landmass bordered by sea on 3 sides; southern India is bounded by the Arabian Sea, Bay of Bengal, and Indian Ocean."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Social Science",
+    "chapter": "Chapter 7: Our Country — India",
+    "question": "Which high mountain range guards the northern boundary of India like a gigantic natural wall?",
+    "options": [
+      "The Himalayas ('Abode of Snow')",
+      "The Alps",
+      "The Andes",
+      "The Rockies"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "The Himalayas ('Him' + 'Alaya' = Abode of Snow) form the 2,400 km northern alpine frontier of India."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Social Science",
+    "chapter": "Chapter 7: Our Country — India",
+    "question": "What are the THREE parallel mountain ranges of the Himalayas from north to south?",
+    "options": [
+      "Great Himalayas (Himadri) -> Middle Himalayas (Himachal) -> Outer Himalayas (Shiwalik)",
+      "Shiwalik -> Himadri -> Himachal",
+      "Aravalli -> Vindhya -> Satpura",
+      "Western Ghats -> Eastern Ghats -> Nilgiris"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "From north to south: 1. Himadri (Great Himalayas), 2. Himachal (Lesser Himalayas), 3. Shiwalik (Outer Himalayas)."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Social Science",
+    "chapter": "Chapter 7: Our Country — India",
+    "question": "What is the vast, hot, dry, and sandy desert region located in northwestern India (Rajasthan) called?",
+    "options": [
+      "The Great Indian Desert (Thar Desert)",
+      "Sahara Desert",
+      "Gobi Desert",
+      "Kalahari Desert"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "The Thar Desert in northwestern India receives under 150 mm annual rainfall, characterized by sand dunes and xerophytic vegetation."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Social Science",
+    "chapter": "Chapter 7: Our Country — India",
+    "question": "Which two Indian island groups belong to the Republic of India?",
+    "options": [
+      "Lakshadweep Islands (in the Arabian Sea) and Andaman & Nicobar Islands (in the Bay of Bengal)",
+      "Maldives and Sri Lanka",
+      "Mauritius and Seychelles",
+      "Greenland and Madagascar"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "Lakshadweep (coral atolls in Arabian Sea) and Andaman & Nicobar (submerged volcanic peaks in Bay of Bengal) are Indian Union Territories."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Social Science",
+    "chapter": "Chapter 7: Our Country — India",
+    "question": "Which coral island group of India is located off the coast of Kerala in the Arabian Sea?",
+    "options": [
+      "Lakshadweep Islands",
+      "Andaman Islands",
+      "Nicobar Islands",
+      "Majuli Island"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "Lakshadweep consists of 36 coral atoll islands situated 200–440 km off the Malabar Coast of Kerala."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Social Science",
+    "chapter": "Chapter 7: Our Country — India",
+    "question": "Which narrow marine strait separates India from the island nation of Sri Lanka?",
+    "options": [
+      "Palk Strait (and Gulf of Mannar)",
+      "Bering Strait",
+      "Strait of Malacca",
+      "Strait of Gibraltar"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "The Palk Strait links the Bay of Bengal in the northeast with Palk Bay/Gulf of Mannar, separating Tamil Nadu from Sri Lanka."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Social Science",
+    "chapter": "Chapter 7: Our Country — India",
+    "question": "What is the capital city of India?",
+    "options": [
+      "New Delhi",
+      "Mumbai",
+      "Kolkata",
+      "Chennai"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "New Delhi serves as the national capital territory of the Republic of India."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Social Science",
+    "chapter": "Chapter 7: Our Country — India",
+    "question": "What is the Standard Meridian of India, chosen to determine the Indian Standard Time (IST)?",
+    "options": [
+      "82°30' E longitude (passing through Mirzapur / Prayagraj in Uttar Pradesh)",
+      "80°00' E",
+      "75°30' E",
+      "90°00' E"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "The 82°30' E meridian is the standard time meridian for India, exactly 5 hours and 30 minutes ahead of Greenwich Mean Time (UTC+05:30)."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Social Science",
+    "chapter": "Chapter 7: Our Country — India",
+    "question": "Why is there a time difference of nearly TWO HOURS in local sunrise time between Arunachal Pradesh in the east and Gujarat in the west?",
+    "options": [
+      "India spans a longitudinal width of nearly 30° (68°7' E to 97°25' E); since Earth rotates 1° of longitude in 4 minutes, 30° × 4 min = 120 minutes (2 hours)",
+      "Because clocks run faster in Gujarat",
+      "Because the Sun rises in the west in India",
+      "Because mountains block the Sun"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "Diurnal rotation: 360° in 24 hours = 1° in 4 minutes. A longitudinal span of ~29° equates to roughly 116 minutes (~2 hours) local solar lag."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Social Science",
+    "chapter": "Chapter 7: Our Country — India",
+    "question": "How many countries share land borders with India?",
+    "options": [
+      "7 countries (Pakistan, Afghanistan, China, Nepal, Bhutan, Bangladesh, and Myanmar)",
+      "5 countries",
+      "6 countries",
+      "8 countries"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "India shares 15,106 km of land borders with 7 neighboring nations: Bangladesh, China, Pakistan, Nepal, Myanmar, Bhutan, and Afghanistan."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Social Science",
+    "chapter": "Chapter 7: Our Country — India",
+    "question": "With which country does India share its LONGEST international land border (4,096.7 km)?",
+    "options": [
+      "Bangladesh",
+      "China",
+      "Pakistan",
+      "Nepal"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "India shares its longest land frontier with Bangladesh (4,096.7 km), encircling it from West Bengal, Assam, Meghalaya, Tripura, and Mizoram."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Social Science",
+    "chapter": "Chapter 7: Our Country — India",
+    "question": "What is the world's LARGEST river delta, formed by the confluence of the Ganga and Brahmaputra rivers emptying into the Bay of Bengal?",
+    "options": [
+      "Sundarbans Delta (Ganga-Brahmaputra Delta)",
+      "Nile Delta",
+      "Mississippi Delta",
+      "Amazon Delta"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "The triangular Sundarbans mangrove delta covers ~100,000 km², named after the abundant Sundari mangrove trees (Heritiera fomes)."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Social Science",
+    "chapter": "Chapter 7: Our Country — India",
+    "question": "Which triangular relief feature of India is an ancient elevated tableland composed of old crystalline, igneous, and metamorphic rocks?",
+    "options": [
+      "The Peninsular Plateau",
+      "The Northern Plains",
+      "The Coastal Plains",
+      "The Thar Desert"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "The Peninsular Plateau is the oldest and most stable geological landmass of India, forming part of ancient Gondwanaland."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Social Science",
+    "chapter": "Chapter 7: Our Country — India",
+    "question": "What are the continuous elevated mountain ranges bordering the western edge of the Deccan Plateau called?",
+    "options": [
+      "Western Ghats (or Sahyadris)",
+      "Eastern Ghats",
+      "Aravalli Range",
+      "Vindhya Range"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "The Western Ghats (Sahyadris) form an unbroken high escarpment along the western coast with passes like Thal, Bhor, and Pal Ghats."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Social Science",
+    "chapter": "Chapter 7: Our Country — India",
+    "question": "How do the Eastern Ghats differ from the Western Ghats?",
+    "options": [
+      "The Eastern Ghats are discontinuous, lower in height, and dissected by east-flowing rivers (Mahanadi, Godavari, Krishna, Kaveri), whereas the Western Ghats are continuous and higher",
+      "The Eastern Ghats have snow glaciers",
+      "The Eastern Ghats are in the Arabian Sea",
+      "There is no difference"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "East-flowing peninsular rivers cut wide valleys through the Eastern Ghats, making them discontinuous and lower in average altitude (600m vs 1200m)."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Social Science",
+    "chapter": "Chapter 7: Our Country — India",
+    "question": "Which are the only two major west-flowing peninsular rivers in India that drain into the Arabian Sea through rift valleys without forming deltas?",
+    "options": [
+      "Narmada and Tapi (Tapti)",
+      "Ganga and Yamuna",
+      "Godavari and Krishna",
+      "Mahanadi and Kaveri"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "Narmada and Tapi flow westward in structural fault rift valleys between the Vindhya and Satpura ranges, forming estuaries instead of deltas."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Social Science",
+    "chapter": "Chapter 7: Our Country — India",
+    "question": "Which major peninsular rivers flow eastward and drain into the Bay of Bengal, forming large fertile deltas at their mouths?",
+    "options": [
+      "Mahanadi, Godavari, Krishna, and Kaveri",
+      "Narmada and Tapi",
+      "Indus and Jhelum",
+      "Luni and Sabarmati"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "Godavari (Dakshin Ganga), Krishna, Kaveri, and Mahanadi flow down the eastward regional plateau gradient, depositing extensive deltas."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Social Science",
+    "chapter": "Chapter 7: Our Country — India",
+    "question": "How do the Western Coastal Plains compare with the Eastern Coastal Plains of India?",
+    "options": [
+      "Western Coastal Plains are very narrow between the Western Ghats and Arabian Sea, while Eastern Coastal Plains are much broader and wider along the Bay of Bengal",
+      "Western Coastal Plains are covered in snow",
+      "Eastern Coastal Plains have no rivers",
+      "Both are identical in width"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "Western coastal strip (Konkan, Malabar) is narrow (~50 km); Eastern coastal strip (Northern Circars, Coromandel) is wide (~100–120 km) with deltas."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Social Science",
+    "chapter": "Chapter 7: Our Country — India",
+    "question": "What are 'Corals' and how did coral islands like Lakshadweep form?",
+    "options": [
+      "Corals are tiny marine animals (Polyps); when polyps die, their hard calcium carbonate skeletons accumulate over millennia to form coral reefs and islands",
+      "They are volcanic stones thrown by volcanoes",
+      "They are plants that turn into wood",
+      "They are icebergs from the South Pole"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "Scleractinian anthozoan polyps secrete calcium carbonate exoskeletons; generational biogenic reef accumulation builds atolls."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Social Science",
+    "chapter": "Chapter 7: Our Country — India",
+    "question": "What is the southernmost point of the Indian Union territory (located in Great Nicobar), which was submerged during the devastating 2004 Indian Ocean tsunami?",
+    "options": [
+      "Indira Point (6°45' N latitude)",
+      "Kanyakumari",
+      "Dhanushkodi",
+      "Rameswaram"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "Indira Point on Great Nicobar island at 6°45' N is the southernmost geographic point of the sovereign Indian Republic."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Social Science",
+    "chapter": "Chapter 7: Our Country — India",
+    "question": "What is the southernmost tip of the MAINLAND of India located in Tamil Nadu where three water bodies (Arabian Sea, Bay of Bengal, Indian Ocean) meet?",
+    "options": [
+      "Kanyakumari (Cape Comorin at 8°4' N)",
+      "Indira Point",
+      "Tuticorin",
+      "Thiruvananthapuram"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "Cape Comorin (Kanyakumari) at 8°4' N is the southern apex of mainland peninsular India."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Social Science",
+    "chapter": "Chapter 7: Our Country — India",
+    "question": "Which mountain range is the oldest fold mountain system in India and among the oldest in the world, running from Gujarat to Delhi across Rajasthan?",
+    "options": [
+      "Aravalli Range",
+      "Himalayas",
+      "Vindhyas",
+      "Satpuras"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "The Aravalli Range is a Precambrian fold mountain system severely eroded into relict hills (highest peak Guru Shikhar at 1,722 m)."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Social Science",
+    "chapter": "Chapter 7: Our Country — India",
+    "question": "What are the states of India known as the 'Seven Sisters' of the North-Eastern region?",
+    "options": [
+      "Arunachal Pradesh, Assam, Meghalaya, Nagaland, Manipur, Mizoram, and Tripura",
+      "Sikkim, Bihar, Bengal, Odisha, Assam, Tripura, Mizoram",
+      "Punjab, Haryana, Rajasthan, Gujarat, UP, MP, Bihar",
+      "Kerala, Tamil Nadu, Karnataka, Andhra, Telangana, Goa, Maharashtra"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "The 7 contiguous North-Eastern states: Arunachal Pradesh, Assam, Meghalaya, Nagaland, Manipur, Mizoram, and Tripura."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Social Science",
+    "chapter": "Chapter 7: Our Country — India",
+    "question": "Read the statements:\nAssertion (A): Indian Standard Time (IST) is based on the longitude of 82°30' E, which is exactly 5 hours and 30 minutes ahead of Greenwich Mean Time (UTC+05:30).\nReason (R): 82°30' E passes approximately midway through the central longitudinal width of India, providing a uniform national civil time.\nChoose the correct option:",
+    "options": [
+      "Both (A) and (R) are true, and (R) is the correct explanation of (A).",
+      "Both (A) and (R) are true, but (R) is NOT the correct explanation of (A).",
+      "(A) is true, but (R) is false.",
+      "(A) is false, but (R) is true."
+    ],
+    "correctAnswer": 0,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "82.5° × 4 minutes = 330 minutes = +5h 30m ahead of Prime Meridian 0°, chosen as the central standard meridian."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Social Science",
+    "chapter": "Chapter 7: Our Country — India",
+    "question": "Spot the IMPOSTER in the following group of Indian Rivers classified by their Drainage Basin / Destination:\nGroup: [Mahanadi (Bay of Bengal), Godavari (Bay of Bengal), Krishna (Bay of Bengal), Narmada (Bay of Bengal)]",
+    "options": [
+      "Mahanadi (Bay of Bengal)",
+      "Godavari (Bay of Bengal)",
+      "Krishna (Bay of Bengal)",
+      "Narmada (Bay of Bengal)"
+    ],
+    "correctAnswer": 3,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "Narmada drains WESTWARD into the ARABIAN SEA via the Gulf of Khambhat, NOT into the Bay of Bengal."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Social Science",
+    "chapter": "Chapter 7: Our Country — India",
+    "question": "A geography student charts the latitudinal and longitudinal coordinates of the Indian mainland. What are the exact mathematical coordinates?",
+    "options": [
+      "Latitudes: 8°4' N to 37°6' N ; Longitudes: 68°7' E to 97°25' E",
+      "Latitudes: 6°45' S to 37°6' N ; Longitudes: 60°0' E to 90°0' E",
+      "Latitudes: 10°0' N to 40°0' N ; Longitudes: 70°0' E to 100°0' E",
+      "Latitudes: 0°0' N to 30°0' N ; Longitudes: 50°0' E to 80°0' E"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "Mainland limits: Latitudes 8°4' N (Kanyakumari) to 37°6' N (Indira Col); Longitudes 68°7' E (Gujarat) to 97°25' E (Arunachal)."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Social Science",
+    "chapter": "Chapter 7: Our Country — India",
+    "question": "Match Column I (Physical Divisions) with Column II (Dominant Characteristics):\n(a) Himadri           -> (i) Northernmost highest Himalayan crest with perennial snow\n(b) Northern Plains   -> (ii) Fertile alluvial basin formed by Indus, Ganga, Brahmaputra\n(c) Thar Desert       -> (iii) Arid sandy tract with shifting barchan dunes\n(d) Lakshadweep       -> (iv) Coral atoll island archipelago in the Arabian Sea",
+    "options": [
+      "a-(i), b-(ii), c-(iii), d-(iv)",
+      "a-(ii), b-(i), c-(iii), d-(iv)",
+      "a-(iv), b-(iii), c-(ii), d-(i)",
+      "a-(iii), b-(iv), c-(i), d-(ii)"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "Himadri = highest snow peaks; Northern Plains = alluvium; Thar = sandy dunes; Lakshadweep = coral atolls."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Social Science",
+    "chapter": "Chapter 7: Our Country — India",
+    "question": "Read the statements:\nStatement 1: The Western Ghats are an uninterrupted mountain wall that can be crossed only through specific mountain passes (ghats).\nStatement 2: The Godavari River is often referred to as 'Dakshin Ganga' due to its vast drainage basin and length in peninsular India.\nStatement 3: India lies entirely in the Southern Hemisphere.\nWhich statements are TRUE?",
+    "options": [
+      "Statements 1 and 2 only",
+      "Statements 2 and 3 only",
+      "Statements 1 and 3 only",
+      "All Statements 1, 2, and 3"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "Statement 3 is completely false because India lies entirely in the NORTHERN Hemisphere. Statements 1 and 2 are geographical facts."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Social Science",
+    "chapter": "Chapter 7: Our Country — India",
+    "question": "Which of the following coastal sub-regions are located along the WESTERN coast and EASTERN coast of India respectively?",
+    "options": [
+      "Western Coast: Konkan & Malabar Coast ; Eastern Coast: Northern Circars & Coromandel Coast",
+      "Western Coast: Coromandel ; Eastern Coast: Konkan",
+      "Western Coast: Northern Circars ; Eastern Coast: Malabar",
+      "Both are called Malabar"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "West coast: Konkan (north) and Malabar (south); East coast: Northern Circar (north) and Coromandel (south)."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Social Science",
+    "chapter": "Chapter 7: Our Country — India",
+    "question": "Why does the Sundarbans Delta feature extensive amphibious Mangrove forests adapted to coastal saline waters?",
+    "options": [
+      "Tidal sea surges mix with freshwater river floods; mangrove species (Sundari) develop specialized breathing roots (pneumatophores) and stilt roots to survive in anaerobic saline mudflats",
+      "Because mangroves only grow in snow",
+      "Because salt water kills all other trees except plastic trees",
+      "Because it never rains there"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "Halophytic adaptations: viviparous germination, salt-excreting glands, and negative geotropic pneumatophores flourish in intertidal muds."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Social Science",
+    "chapter": "Chapter 7: Our Country — India",
+    "question": "What is the highest mountain peak situated entirely within the undisputed sovereign territory of India?",
+    "options": [
+      "Kangchenjunga (8,586 meters, Sikkim)",
+      "Nanda Devi (7,816 m)",
+      "Kamet",
+      "Anamudi"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "Kangchenjunga (8,586 m) in Sikkim on the India-Nepal border is the highest peak in India (and 3rd highest in the world)."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Social Science",
+    "chapter": "Chapter 7: Our Country — India",
+    "question": "What is the highest peak in the Western Ghats and in the entire Peninsular South India (located in Kerala)?",
+    "options": [
+      "Anamudi (2,695 meters in Anaimalai Hills)",
+      "Doda Betta (2,637 m)",
+      "Mahendragiri",
+      "Kalsubai"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "Anamudi ('Elephant's Forehead') stands at 2,695 m in Eravikulam National Park, Kerala, the highest summit in South India."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Social Science",
+    "chapter": "Chapter 7: Our Country — India",
+    "question": "Which of the following Indian states do NOT share an international boundary with any foreign country and have no coastline (landlocked internal states)?",
+    "options": [
+      "Madhya Pradesh, Chhattisgarh, Jharkhand, Telangana, and Haryana",
+      "Gujarat, Rajasthan, Punjab",
+      "West Bengal, Assam, Bihar",
+      "Tamil Nadu, Kerala, Karnataka"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "MP, Chhattisgarh, Jharkhand, Telangana, and Haryana are entirely landlocked interior states with neither international frontiers nor coastlines."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Social Science",
+    "chapter": "Chapter 7: Our Country — India",
+    "question": "What is the physical geographic significance of the 'Ten Degree Channel' (10° N latitude)?",
+    "options": [
+      "It is a maritime channel in the Bay of Bengal that separates the Andaman Islands in the north from the Nicobar Islands in the south",
+      "It separates India from Sri Lanka",
+      "It separates Lakshadweep from Maldives",
+      "It separates Gujarat from Pakistan"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "The 10° Channel lies along the 10° N parallel, separating Little Andaman from Car Nicobar across a 150 km strait."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Social Science",
+    "chapter": "Chapter 7: Our Country — India",
+    "question": "Why is India described as a land of immense 'Unity in Diversity' in NCERT Social Science?",
+    "options": [
+      "Despite profound geographical, climatic, linguistic, religious, and cultural diversity, a deep underlying thread of common national civilization and constitutional brotherhood binds the people of India together as one nation",
+      "Because all Indians speak only one language",
+      "Because all regions look identical",
+      "Because everyone eats the exact same food"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "Coined by Jawaharlal Nehru, 'Unity in Diversity' celebrates India's pluralistic mosaic united by shared civilizational and constitutional ethos."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Hindi Grammar",
+    "chapter": "Chapter 7: कारक",
+    "question": "संज्ञा या सर्वनाम के जिस रूप से उसका संबंध वाक्य की क्रिया तथा अन्य शब्दों से जाना जाता है, उसे व्याकरण में क्या कहते हैं?",
+    "options": [
+      "कारक (Case)",
+      "काल",
+      "वाच्य",
+      "संधि"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "क्रिया से साक्षात् संबंध स्थापित करने वाले संज्ञा/सर्वनाम के रूपात्मक संबंध को 'कारक' कहते हैं।"
+  },
+  {
+    "classLevel": 6,
+    "subject": "Hindi Grammar",
+    "chapter": "Chapter 7: कारक",
+    "question": "हिंदी भाषा में कारक के मुख्य रूप से कितने भेद (प्रकार) होते हैं?",
+    "options": [
+      "आठ भेद (8 Types)",
+      "छह भेद",
+      "सात भेद",
+      "पाँच भेद"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "हिंदी में आठ कारक होते हैं: कर्ता, कर्म, करण, संप्रदान, अपादान, संबंध, अधिकरण और संबोधन।"
+  },
+  {
+    "classLevel": 6,
+    "subject": "Hindi Grammar",
+    "chapter": "Chapter 7: कारक",
+    "question": "कारकों को प्रकट करने के लिए संज्ञा या सर्वनाम के साथ लगाए जाने वाले चिह्नों (जैसे: ने, को, से, के लिए, का, में, पर) को क्या कहते हैं?",
+    "options": [
+      "विभक्ति चिह्न या परसर्ग (Case Endings / Postpositions)",
+      "उपसर्ग",
+      "प्रत्यय",
+      "समास"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "कारक संबंधों को व्यक्त करने वाले प्रत्यय/चिह्न 'विभक्ति' या 'परसर्ग' कहलाते हैं।"
+  },
+  {
+    "classLevel": 6,
+    "subject": "Hindi Grammar",
+    "chapter": "Chapter 7: कारक",
+    "question": "वाक्य में कार्य (क्रिया) को करने वाले पद को कौन-सा कारक कहते हैं और इसका विभक्ति चिह्न क्या है?",
+    "options": [
+      "कर्ता कारक (विभक्ति: 'ने')",
+      "कर्म कारक (विभक्ति: 'को')",
+      "करण कारक (विभक्ति: 'से')",
+      "अपादान कारक"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "क्रिया को संपन्न करने वाला 'कर्ता कारक' होता है, जिसका प्रमुख परसर्ग 'ने' है (जैसे: 'राम ने पत्र लिखा')।"
+  },
+  {
+    "classLevel": 6,
+    "subject": "Hindi Grammar",
+    "chapter": "Chapter 7: कारक",
+    "question": "क्रिया का फल (प्रभाव) जिस संज्ञा या सर्वनाम पर पड़ता है, उसे कौन-सा कारक कहते हैं और इसका विभक्ति चिह्न क्या है?",
+    "options": [
+      "कर्म कारक (विभक्ति: 'को')",
+      "कर्ता कारक",
+      "करण कारक",
+      "संबंध कारक"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "जिस वस्तु/प्राणी पर क्रिया का व्यापारिक फल पड़े वह 'कर्म कारक' है, जिसका परसर्ग 'को' है (जैसे: 'अध्यापक ने छात्र को पढ़ाया')।"
+  },
+  {
+    "classLevel": 6,
+    "subject": "Hindi Grammar",
+    "chapter": "Chapter 7: कारक",
+    "question": "कर्ता जिस साधन या माध्यम की सहायता से क्रिया को संपन्न करता है, उसे कौन-सा कारक कहते हैं और इसका विभक्ति चिह्न क्या है?",
+    "options": [
+      "करण कारक (विभक्ति: 'से' / 'के द्वारा')",
+      "अपादान कारक",
+      "कर्म कारक",
+      "अधिकरण कारक"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "साधनवाची कारक 'करण कारक' कहलाता है (विभक्ति: 'से/के द्वारा' - जैसे: 'उसने चाकू से सेब काटा', 'कलम से लिखा')।"
+  },
+  {
+    "classLevel": 6,
+    "subject": "Hindi Grammar",
+    "chapter": "Chapter 7: कारक",
+    "question": "जिसके लिए कोई कार्य किया जाए या जिसे कुछ दिया जाए, उसे कौन-सा कारक कहते हैं और इसका विभक्ति चिह्न क्या है?",
+    "options": [
+      "संप्रदान कारक (विभक्ति: 'के लिए' / 'को')",
+      "अपादान कारक",
+      "करण कारक",
+      "कर्ता कारक"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "दान या उपकार के पात्र हेतु 'संप्रदान कारक' होता है (विभक्ति: 'के लिए', 'को' - जैसे: 'माता जी ने भिखारी को भोजन दिया')।"
+  },
+  {
+    "classLevel": 6,
+    "subject": "Hindi Grammar",
+    "chapter": "Chapter 7: कारक",
+    "question": "संज्ञा के जिस रूप से किसी वस्तु या प्राणी का दूसरी वस्तु से अलग (पृथक) होने का भाव प्रकट हो, उसे कौन-सा कारक कहते हैं और इसका विभक्ति चिह्न क्या है?",
+    "options": [
+      "अपादान कारक (विभक्ति: 'से' - अलग होने के अर्थ में)",
+      "करण कारक",
+      "कर्म कारक",
+      "अधिकरण कारक"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "अलगाव, पृथक्करण, भय या तुलना के भाव में 'अपादान कारक' होता है (विभक्ति: 'से' - जैसे: 'पेड़ से पत्ता गिरा')।"
+  },
+  {
+    "classLevel": 6,
+    "subject": "Hindi Grammar",
+    "chapter": "Chapter 7: कारक",
+    "question": "संज्ञा या सर्वनाम के जिस रूप से उसका संबंध वाक्य के किसी अन्य संज्ञा/सर्वनाम से प्रकट हो, उसे कौन-सा कारक कहते हैं?",
+    "options": [
+      "संबंध कारक (विभक्ति: 'का, के, की, रा, रे, री, ना, ने, नी')",
+      "अधिकरण कारक",
+      "करण कारक",
+      "संप्रदान कारक"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "पारस्परिक स्वामित्व व संबंध दर्शाने वाला 'संबंध कारक' होता है (जैसे: 'यह रोहन का घर है', 'मेरी पुस्तक')।"
+  },
+  {
+    "classLevel": 6,
+    "subject": "Hindi Grammar",
+    "chapter": "Chapter 7: कारक",
+    "question": "क्रिया के घटित होने के स्थान, आधार या समय का बोध कराने वाले संज्ञा पद को कौन-सा कारक कहते हैं?",
+    "options": [
+      "अधिकरण कारक (विभक्ति: 'में', 'पर', 'पे')",
+      "अपादान कारक",
+      "कर्म कारक",
+      "करण कारक"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "क्रिया के आधार (स्थान/काल) का बोधक 'अधिकरण कारक' कहलाता है (जैसे: 'पक्षी पेड़ पर बैठे हैं', 'कमरे में पंखा है')।"
+  },
+  {
+    "classLevel": 6,
+    "subject": "Hindi Grammar",
+    "chapter": "Chapter 7: कारक",
+    "question": "संज्ञा के जिस रूप से किसी को पुकारने, बुलाने, सचेत करने या संबोधित करने का भाव प्रकट हो, उसे कौन-सा कारक कहते हैं?",
+    "options": [
+      "संबोधन कारक (विभक्ति: 'हे!', 'अरे!', 'ओ!', 'सुनो!')",
+      "अधिकरण कारक",
+      "कर्ता कारक",
+      "कर्म कारक"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "आह्वान या संबोधन हेतु विस्मयादिबोधक चिह्न (!) युक्त 'संबोधन कारक' प्रयुक्त होता है (जैसे: 'हे प्रभु! रक्षा करो')।"
+  },
+  {
+    "classLevel": 6,
+    "subject": "Hindi Grammar",
+    "chapter": "Chapter 7: कारक",
+    "question": "वाक्य में प्रयुक्त रेखांकित पद का कारक पहचानिए:\n'**पेड़ से** पत्ता नीचे गिरा।'",
+    "options": [
+      "अपादान कारक (पेड़ से अलग होने के अर्थ में 'से' विभक्ति)",
+      "करण कारक",
+      "कर्म कारक",
+      "कर्ता कारक"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "यहाँ पत्ता पेड़ से पृथक (अलग) हो रहा है, अतः 'पेड़ से' में अपादान कारक है।"
+  },
+  {
+    "classLevel": 6,
+    "subject": "Hindi Grammar",
+    "chapter": "Chapter 7: कारक",
+    "question": "करण कारक और अपादान कारक दोनों का विभक्ति चिह्न 'से' होता है। इन दोनों में क्या मूलभूत अंतर है?",
+    "options": [
+      "करण कारक में 'से' का प्रयोग 'साधन/माध्यम' के रूप में होता है (जैसे: 'कलम से लिखना'), जबकि अपादान कारक में 'से' का प्रयोग 'अलग होने, डरने या तुलना करने' के अर्थ में होता है (जैसे: 'पेड़ से गिरना', 'शेर से डरना')",
+      "करण कारक केवल इंसानों के लिए आता है",
+      "अपादान कारक में 'से' कभी नहीं आता",
+      "कोई अंतर नहीं है"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "करण का 'से' सहायक इंस्ट्रूमेंटल साधन है; अपादान का 'से' एब्लेटिव सेपरेशन, फियर या ओरिजिन का परिचायक है।"
+  },
+  {
+    "classLevel": 6,
+    "subject": "Hindi Grammar",
+    "chapter": "Chapter 7: कारक",
+    "question": "वाक्य में प्रयुक्त दोनों 'से' का सही कारक क्रम बताइए:\n'रोहन **बस से** विद्यालय गया और वह **घर से** बाहर निकला।'",
+    "options": [
+      "बस से = करण कारक ; घर से = अपादान कारक",
+      "बस से = अपादान कारक ; घर से = करण कारक",
+      "दोनों करण कारक हैं",
+      "दोनों अपादान कारक हैं"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "'बस' यात्रा का साधन है (करण कारक); 'घर से' अलगाव का स्थान है (अपादान कारक)।"
+  },
+  {
+    "classLevel": 6,
+    "subject": "Hindi Grammar",
+    "chapter": "Chapter 7: कारक",
+    "question": "कर्म कारक और संप्रदान कारक दोनों में 'को' विभक्ति का प्रयोग होता है। इन दोनों में क्या अंतर है?",
+    "options": [
+      "कर्म कारक में 'को' क्रिया के प्रभाव/फल को दर्शाता है, जबकि संप्रदान कारक में 'को' 'देने के भाव' (उपकार/दान) में 'के लिए' के स्थान पर आता है (जैसे: 'गरीब को कम्बल दो')",
+      "कर्म कारक में 'को' कभी नहीं लगता",
+      "संप्रदान कारक में केवल 'ने' लगता है",
+      "दोनों बिल्कुल एक समान हैं"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "दानार्थे चतुर्थी (संप्रदान) में जब कोई वस्तु किसी को हमेशा के लिए दी जाए तो 'को' संप्रदान कारक बनता है।"
+  },
+  {
+    "classLevel": 6,
+    "subject": "Hindi Grammar",
+    "chapter": "Chapter 7: कारक",
+    "question": "वाक्य में प्रयुक्त रेखांकित पद का कारक बताइए:\n'राजा ने **भिखारी को** भोजन दिया।'",
+    "options": [
+      "संप्रदान कारक (दान/देने के अर्थ में 'को' विभक्ति)",
+      "कर्म कारक",
+      "करण कारक",
+      "अपादान कारक"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "भोजन भिखारी को दिया जा रहा है (देने का भाव = संप्रदान कारक)।"
+  },
+  {
+    "classLevel": 6,
+    "subject": "Hindi Grammar",
+    "chapter": "Chapter 7: कारक",
+    "question": "वाक्य में प्रयुक्त रेखांकित पद का कारक बताइए:\n'अध्यापक ने **छात्र को** बुलाया।'",
+    "options": [
+      "कर्म कारक (बुलाने की क्रिया का फल छात्र पर पड़ रहा है)",
+      "संप्रदान कारक",
+      "करण कारक",
+      "अपादान कारक"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "यहाँ कुछ दान नहीं दिया जा रहा, बल्कि बुलाने की क्रिया का कर्म छात्र है (कर्म कारक)।"
+  },
+  {
+    "classLevel": 6,
+    "subject": "Hindi Grammar",
+    "chapter": "Chapter 7: कारक",
+    "question": "वाक्य में कर्ता कारक के विभक्ति चिह्न 'ने' का प्रयोग केवल किस काल की सकर्मक क्रियाओं के साथ होता है?",
+    "options": [
+      "केवल भूतकाल (Past Tense) की सकर्मक क्रियाओं के साथ (जैसे: 'राम ने रोटी खाई', 'उसने पत्र लिखा')",
+      "वर्तमान काल में",
+      "भविष्यत काल में",
+      "सभी कालों में समान रूप से"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "हिंदी व्याकरण का नियम: कर्ता की 'ने' विभक्ति केवल भूतकालिक सकर्मक क्रियाओं में लगती है (वर्तमान व भविष्यत में 'ने' लुप्त रहता है: 'राम पढ़ता है', 'राम पढ़ेगा')।"
+  },
+  {
+    "classLevel": 6,
+    "subject": "Hindi Grammar",
+    "chapter": "Chapter 7: कारक",
+    "question": "वाक्य में प्रयुक्त रेखांकित पद का कारक बताइए:\n'मेज पर **पानी की बोतल** रखी है।'",
+    "options": [
+      "संबंध कारक (पानी और बोतल के बीच संबंध 'की' विभक्ति द्वारा)",
+      "अधिकरण कारक",
+      "करण कारक",
+      "कर्म कारक"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "'पानी की' बोतल - दो संज्ञाओं के मध्य संबंध दर्शाने के कारण संबंध कारक है।"
+  },
+  {
+    "classLevel": 6,
+    "subject": "Hindi Grammar",
+    "chapter": "Chapter 7: कारक",
+    "question": "वाक्य में प्रयुक्त रेखांकित पद का कारक बताइए:\n'पक्षी **आकाश में** उड़ रहे हैं।'",
+    "options": [
+      "अधिकरण कारक (उड़ने की क्रिया का आधार/स्थान 'आकाश में')",
+      "अपादान कारक",
+      "कर्म कारक",
+      "करण कारक"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "क्रिया के स्थान आधार को दर्शाने वाली 'में' विभक्ति अधिकरण कारक है।"
+  },
+  {
+    "classLevel": 6,
+    "subject": "Hindi Grammar",
+    "chapter": "Chapter 7: कारक",
+    "question": "वाक्य में प्रयुक्त रेखांकित पद का कारक बताइए:\n'बच्चा **कुत्ते से** डर गया।'",
+    "options": [
+      "अपादान कारक (भय/डरने के भाव में 'से' विभक्ति)",
+      "करण कारक",
+      "कर्म कारक",
+      "कर्ता कारक"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "भय के योग में (भयार्थक क्रियाओं के साथ) सदा 'अपादान कारक' होता है।"
+  },
+  {
+    "classLevel": 6,
+    "subject": "Hindi Grammar",
+    "chapter": "Chapter 7: कारक",
+    "question": "वाक्य में प्रयुक्त रेखांकित पद का कारक बताइए:\n'गंगा **हिमालय से** निकलती है।'",
+    "options": [
+      "अपादान कारक (उत्पत्ति स्थल/उद्गम के अर्थ में 'से')",
+      "करण कारक",
+      "अधिकरण कारक",
+      "संबंध कारक"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "उद्गम या उत्पत्ति स्थल (जहाँ से कोई वस्तु उत्पन्न या अलग होकर चले) में अपादान कारक होता है।"
+  },
+  {
+    "classLevel": 6,
+    "subject": "Hindi Grammar",
+    "chapter": "Chapter 7: कारक",
+    "question": "वाक्य में प्रयुक्त रेखांकित पद का कारक बताइए:\n'रोहन **सोहन से** अधिक बुद्धिमान है।'",
+    "options": [
+      "अपादान कारक (तुलना के भाव में 'से' विभक्ति)",
+      "करण कारक",
+      "संबंध कारक",
+      "कर्ता कारक"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "दो व्यक्तियों या वस्तुओं के मध्य गुण-दोष की तुलना करने में 'अपादान कारक' का प्रयोग होता है।"
+  },
+  {
+    "classLevel": 6,
+    "subject": "Hindi Grammar",
+    "chapter": "Chapter 7: कारक",
+    "question": "सर्वनाम शब्दों में कारक विभक्ति चिह्न जोड़ने पर बनने वाले रूपों का सही युग्म कौन-सा है?",
+    "options": [
+      "मैं + ने = मैंने ; वह + को = उसको / उसे ; हम + से = हमसे ; तुम + का = तुम्हारा",
+      "मैं + ने = मैन्ने ; वह + को = वहको",
+      "हम + से = हमोंसे",
+      "तुम + का = तुमाका"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "सर्वनामों के साथ विभक्तियाँ मिलाकर संश्लिष्ट (synthesized) रूप में लिखी जाती हैं: मैंने, उसे, हमसे, तुम्हारा।"
+  },
+  {
+    "classLevel": 6,
+    "subject": "Hindi Grammar",
+    "chapter": "Chapter 7: कारक",
+    "question": "संज्ञा शब्दों के साथ कारक विभक्तियाँ किस प्रकार लिखी जाती हैं?",
+    "options": [
+      "संज्ञा शब्दों से अलग (विश्लिष्ट) हटाकर लिखी जाती हैं (जैसे: 'राम ने', 'पेड़ पर', 'घर से')",
+      "संज्ञा के साथ चिपकाकर मिलाकर लिखी जाती हैं",
+      "विभक्तियाँ कभी नहीं लिखी जातीं",
+      "संज्ञा के आगे लिखी जाती हैं"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "मानक हिंदी वर्तनी नियम: संज्ञा के साथ परसर्ग अलग (स्पेस देकर) लिखे जाते हैं, जबकि सर्वनाम के साथ जोड़कर लिखे जाते हैं।"
+  },
+  {
+    "classLevel": 6,
+    "subject": "Hindi Grammar",
+    "chapter": "Chapter 7: कारक",
+    "question": "वाक्य में प्रयुक्त रेखांकित पद का कारक बताइए:\n'**अरे भाई!** ज़रा इधर तो आओ।'",
+    "options": [
+      "संबोधन कारक (संबोधन व पुकारने के भाव में विस्मयादिबोधक चिह्न सहित)",
+      "कर्ता कारक",
+      "अधिकरण कारक",
+      "कर्म कारक"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "ध्यानाकर्षण या आह्वान हेतु 'अरे भाई!' संबोधन कारक का प्रयोग है।"
+  },
+  {
+    "classLevel": 6,
+    "subject": "Hindi Grammar",
+    "chapter": "Chapter 7: कारक",
+    "question": "वाक्य में प्रयुक्त रेखांकित पद का कारक बताइए:\n'धोबी **तालाब के किनारे** कपड़े धो रहा है।'",
+    "options": [
+      "अधिकरण कारक (कपड़े धोने की क्रिया का स्थान/आधार 'किनारे')",
+      "अपादान कारक",
+      "करण कारक",
+      "कर्म कारक"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "क्रिया के स्थान आधार (स्थानवाचक) को दर्शाने वाला पद अधिकरण कारक है।"
+  },
+  {
+    "classLevel": 6,
+    "subject": "Hindi Grammar",
+    "chapter": "Chapter 7: कारक",
+    "question": "वाक्य को कारक की दृष्टि से शुद्ध कीजिए:\n'पेड़ में आम लटक रहे हैं।'",
+    "options": [
+      "पेड़ पर आम लटक रहे हैं। (पेड़ की डालियों के ऊपरी आधार हेतु 'पर' अधिकरण विभक्ति शुद्ध है)",
+      "पेड़ से आम लटक रहा है।",
+      "पेड़ को आम लटका है।",
+      "पेड़ ने आम लटकाया।"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "शाखाओं के बाह्य आधार हेतु 'पर' परसर्ग का प्रयोग व्याकरण सम्मत है।"
+  },
+  {
+    "classLevel": 6,
+    "subject": "Hindi Grammar",
+    "chapter": "Chapter 7: कारक",
+    "question": "कथन और कारण को ध्यानपूर्वक पढ़ें:\nकथन (A): 'राम ने पत्र लिखा' में कर्ता कारक 'राम' है, जबकि 'राम पत्र लिखता है' में भी कर्ता कारक 'राम' ही है यद्यपि 'ने' विभक्ति लुप्त (शून्य) है।\nकारण (R): हिंदी में वर्तमान काल और भविष्यत काल के वाक्यों में कर्ता की 'ने' विभक्ति का प्रयोग नहीं होता (अप्रत्यय कर्ता कारक)।\nसही विकल्प चुनें:",
+    "options": [
+      "(A) और (R) दोनों सही हैं तथा (R), (A) की सही व्याख्या करता है।",
+      "(A) और (R) दोनों सही हैं, परन्तु (R), (A) की सही व्याख्या नहीं करता।",
+      "(A) सही है, परन्तु (R) गलत है।",
+      "(A) गलत है, परन्तु (R) सही है।"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "हिंदी में वर्तमान व भविष्यत कालों में कर्ता विभक्ति-रहित (शून्य विभक्ति) रहता है किन्तु वह कर्ता कारक ही कहलाता है।"
+  },
+  {
+    "classLevel": 6,
+    "subject": "Hindi Grammar",
+    "chapter": "Chapter 7: कारक",
+    "question": "Spot the IMPOSTER in the following group of कारक और उनकी विभक्तियों के युग्म में:\nGroup: [कर्ता - ने, करण - से (द्वारा), संप्रदान - के लिए, अपादान - में (पर)]",
+    "options": [
+      "कर्ता - ने",
+      "करण - से (द्वारा)",
+      "संप्रदान - के लिए",
+      "अपादान - में (पर)"
+    ],
+    "correctAnswer": 3,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "'अपादान - में (पर)' अशुद्ध युग्म है; अपादान की विभक्ति 'से' (अलग होने में) होती है, जबकि 'में, पर' अधिकरण कारक की विभक्तियाँ हैं।"
+  },
+  {
+    "classLevel": 6,
+    "subject": "Hindi Grammar",
+    "chapter": "Chapter 7: कारक",
+    "question": "सुमेलित कीजिए (वाक्य और उनमें प्रयुक्त प्रमुख कारक):\n(क) छात्र कलम से लिखता है   -> (i) अपादान कारक\n(ख) पेड़ से फल गिरा          -> (ii) करण कारक\n(ग) राजा ने ब्राह्मण को दान दिया -> (iii) अधिकरण कारक\n(घ) पक्षी घोंसले में बैठे हैं     -> (iv) संप्रदान कारक",
+    "options": [
+      "क-(ii), ख-(i), ग-(iv), घ-(iii)",
+      "क-(i), ख-(ii), ग-(iii), घ-(iv)",
+      "क-(iv), ख-(iii), ग-(ii), घ-(i)",
+      "क-(iii), ख-(iv), ग-(i), घ-(ii)"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "कलम से = करण; पेड़ से = अपादान; ब्राह्मण को = संप्रदान; घोंसले में = अधिकरण।"
+  },
+  {
+    "classLevel": 6,
+    "subject": "Hindi Grammar",
+    "chapter": "Chapter 7: कारक",
+    "question": "निम्नलिखित वाक्य में सभी आठ कारकों का एक साथ अद्भुत प्रयोग देखिए:\n'हे बालको! राजा दशरथ के पुत्र राम ने अयोध्या से जाकर लंका में रावण को बाण से मारा और विभीषण के लिए राज्य जीता।'\nइस वाक्य में 'बाण से', 'अयोध्या से', और 'लंका में' क्रमशः कौन-से कारक हैं?",
+    "options": [
+      "बाण से = करण कारक ; अयोध्या से = अपादान कारक ; लंका में = अधिकरण कारक",
+      "बाण से = अपादान ; अयोध्या से = करण ; लंका में = कर्म",
+      "तीनों करण कारक हैं",
+      "तीनों अधिकरण कारक हैं"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "बाण = मारने का साधन (करण); अयोध्या = प्रस्थान/अलगाव का स्थान (अपादान); लंका = युद्ध का स्थान आधार (अधिकरण)।"
+  },
+  {
+    "classLevel": 6,
+    "subject": "Hindi Grammar",
+    "chapter": "Chapter 7: कारक",
+    "question": "जब कोई वस्तु किसी को सदा के लिए न देकर केवल कुछ समय के लिए दी जाए (जैसे: 'मैंने धोबी को कपड़े दिए' या 'मैंने मित्र को पुस्तक दी पढ़ने के लिए'), तो वहाँ कौन-सा कारक होता है?",
+    "options": [
+      "कर्म कारक (चूँकि वस्तु हमेशा के लिए दान नहीं दी गई, अतः संप्रदान न होकर कर्म कारक होगा)",
+      "संप्रदान कारक",
+      "अपादान कारक",
+      "संबंध कारक"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "दानार्थे चतुर्थी का नियम: जब वस्तु वापस ली जानी हो (धोबी को कपड़े), तो वहाँ कर्म कारक मान्य होता है, संप्रदान नहीं।"
+  },
+  {
+    "classLevel": 6,
+    "subject": "Hindi Grammar",
+    "chapter": "Chapter 7: कारक",
+    "question": "वाक्य में रेखांकित पदों के कारकों का सही युग्म चुनिए:\n'**गुरु जी को** नमस्कार है। तथा **सीता** गीता से **सुंदर** है।'",
+    "options": [
+      "गुरु जी को = संप्रदान कारक (नमस्कार/स्वस्ति योगे चतुर्थी) ; गीता से = अपादान कारक (तुलना)",
+      "दोनों कर्म कारक हैं",
+      "दोनों करण कारक हैं",
+      "गुरु जी को = कर्म कारक ; गीता से = करण कारक"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "नमस्कार के योग में संप्रदान कारक तथा तुलना के योग में अपादान कारक का नियम लागू होता है।"
+  },
+  {
+    "classLevel": 6,
+    "subject": "Hindi Grammar",
+    "chapter": "Chapter 7: कारक",
+    "question": "कर्मवाच्य या भाववाच्य के वाक्यों में कर्ता के साथ किस कारक विभक्ति का प्रयोग होता है?",
+    "options": [
+      "'से' या 'के द्वारा' (करण कारक परसर्ग - जैसे: 'मुझसे चला नहीं जाता', 'मोहन के द्वारा पत्र लिखा गया')",
+      "केवल 'ने'",
+      "केवल 'को'",
+      "कोई विभक्ति नहीं लगती"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "कर्मवाच्य और भाववाच्य में कर्ता गौण होकर 'से/के द्वारा' विभक्ति ग्रहण करता है।"
+  },
+  {
+    "classLevel": 6,
+    "subject": "Hindi Grammar",
+    "chapter": "Chapter 7: कारक",
+    "question": "वाक्य में प्रयुक्त रेखांकित पद का कारक बताइए:\n'वह **जन्म से** अंधा है। तथा वह **आँखों से** देखता है।'\nयहाँ 'जन्म से' और 'आँखों से' क्रमशः कौन-से कारक हैं?",
+    "options": [
+      "जन्म से = अपादान कारक (आरंभ/काल की उत्पत्ति) ; आँखों से = करण कारक (देखने का साधन अंग)",
+      "दोनों अपादान कारक हैं",
+      "दोनों करण कारक हैं",
+      "जन्म से = करण ; आँखों से = अपादान"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "समय के उद्गम में अपादान कारक, और शारीरिक ज्ञानेंद्रिय साधन में करण कारक होता है।"
+  },
+  {
+    "classLevel": 6,
+    "subject": "Hindi Grammar",
+    "chapter": "Chapter 7: कारक",
+    "question": "वाक्य को शुद्ध कीजिए:\n'मेरे को बाज़ार जाना है।'",
+    "options": [
+      "मुझे बाज़ार जाना है। ('मेरे को' अमानक है, उत्तम पुरुष में 'मुझे' शुद्ध है)",
+      "मुझको को बाज़ार जाना है।",
+      "मैं ने बाज़ार जाना है।",
+      "मेरा बाज़ार जाना है।"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "हिंदी मानक व्याकरण में 'मेरे को/तेरे को' सर्वथा अशुद्ध है; इसके स्थान पर 'मुझे/तुझे' सर्वनाम रूप मान्य हैं।"
+  },
+  {
+    "classLevel": 6,
+    "subject": "Hindi Grammar",
+    "chapter": "Chapter 7: कारक",
+    "question": "संस्कृत व्याकरण में 'संबोधन' और 'संबंध' को स्वतंत्र कारक क्यों नहीं माना जाता, जबकि हिंदी में आठों को कारक माना जाता है?",
+    "options": [
+      "क्योंकि संस्कृत में 'साक्षात् क्रियान्वयित्वं कारकत्वम्' (क्रिया से सीधा संबंध) की परिभाषा है, जबकि संबंध और संबोधन का क्रिया से सीधा संबंध नहीं होता",
+      "क्योंकि संस्कृत में शब्द कम थे",
+      "क्योंकि हिंदी में नियम नहीं होते",
+      "कोई कारण नहीं है"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "संस्कृत में साक्षात् क्रियान्वयी केवल 6 कारक माने जाते हैं, किन्तु हिंदी में आठों रूपों को व्यावहारिक रूप से कारक स्वीकार किया गया है।"
+  },
+  {
+    "classLevel": 6,
+    "subject": "Hindi Grammar",
+    "chapter": "Chapter 7: कारक",
+    "question": "वाक्य में प्रयुक्त रेखांकित पद का कारक बताइए:\n'नौकरानी ने **झाड़ू से** फर्श साफ किया।'",
+    "options": [
+      "करण कारक (सफाई की क्रिया का उपकरण/साधन 'झाड़ू')",
+      "कर्म कारक",
+      "अपादान कारक",
+      "अधिकरण कारक"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "झाड़ू सफाई का भौतिक साधन (उपकरण) है, अतः करण कारक है।"
+  },
+  {
+    "classLevel": 6,
+    "subject": "Hindi Grammar",
+    "chapter": "Chapter 7: कारक",
+    "question": "अकर्मक क्रियाओं के भूतकालिक रूप में कर्ता के साथ 'ने' का प्रयोग क्यों नहीं होता?",
+    "options": [
+      "नियमतः 'ने' का प्रयोग केवल सकर्मक क्रियाओं के भूतकाल में ही होता है (जैसे: 'वह हँसा' शुद्ध है ; 'उसने हँसा' अशुद्ध है)",
+      "क्योंकि अकर्मक क्रिया भूतकाल में नहीं होती",
+      "क्योंकि 'ने' केवल स्त्रीलिंग में आता है",
+      "कोई नियम नहीं है"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "हँसना, रोना, सोना, चलना आदि अकर्मक धातुओं के भूतकाल में 'ने' का प्रयोग वर्जित है (वह सोया, बच्चा रोया)।"
+  }
+]

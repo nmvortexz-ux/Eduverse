@@ -1,0 +1,642 @@
+[
+  {
+    "classLevel": 7,
+    "subject": "GK",
+    "chapter": "Chapter 10: Science, Inventions, Information Technology & Digital Era",
+    "question": "Who is celebrated as the 'Father of the Computer' for conceptualizing the first programmable mechanical computing machine (the Analytical Engine)?",
+    "options": [
+      "Charles Babbage",
+      "Alan Turing",
+      "John von Neumann",
+      "Steve Jobs"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "Charles Babbage designed the mechanical Difference Engine and the general-purpose programmable Analytical Engine in the 1830s."
+  },
+  {
+    "classLevel": 7,
+    "subject": "GK",
+    "chapter": "Chapter 10: Science, Inventions, Information Technology & Digital Era",
+    "question": "Who was the English mathematician celebrated as the WORLD'S FIRST COMPUTER PROGRAMMER for publishing the first algorithm intended for Babbage's Analytical Engine?",
+    "options": [
+      "Ada Lovelace (Countess of Lovelace)",
+      "Grace Hopper",
+      "Marie Curie",
+      "Katherine Johnson"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "Ada Lovelace wrote the world's first computer algorithm in 1843, foreseeing that computers could manipulate symbols and music."
+  },
+  {
+    "classLevel": 7,
+    "subject": "GK",
+    "chapter": "Chapter 10: Science, Inventions, Information Technology & Digital Era",
+    "question": "Who is celebrated as the 'Father of Modern Computer Science and Artificial Intelligence' for inventing the theoretical Turing Machine and cracking the Nazi Enigma cipher during WWII?",
+    "options": [
+      "Alan Turing",
+      "Tim Berners-Lee",
+      "Claude Shannon",
+      "Bill Gates"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "Alan Turing formalized algorithmic computation (Turing machine), broke the naval Enigma code at Bletchley Park, and proposed the Turing Test."
+  },
+  {
+    "classLevel": 7,
+    "subject": "GK",
+    "chapter": "Chapter 10: Science, Inventions, Information Technology & Digital Era",
+    "question": "Who invented the WORLD WIDE WEB (WWW) at CERN in 1989, designing HTML, HTTP, and the first web browser?",
+    "options": [
+      "Sir Tim Berners-Lee",
+      "Vint Cerf",
+      "Marc Andreessen",
+      "Linus Torvalds"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "Sir Tim Berners-Lee invented the World Wide Web at CERN in 1989, releasing the technology royalty-free to the entire world."
+  },
+  {
+    "classLevel": 7,
+    "subject": "GK",
+    "chapter": "Chapter 10: Science, Inventions, Information Technology & Digital Era",
+    "question": "Which Scottish physician-bacteriologist accidentally discovered the world's first wonder antibiotic—PENICILLIN—from Penicillium mold in 1928?",
+    "options": [
+      "Sir Alexander Fleming",
+      "Louis Pasteur",
+      "Robert Koch",
+      "Edward Jenner"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "Alexander Fleming discovered penicillin in 1928, revolutionizing modern medicine and saving hundreds of millions of lives from bacterial infections."
+  },
+  {
+    "classLevel": 7,
+    "subject": "GK",
+    "chapter": "Chapter 10: Science, Inventions, Information Technology & Digital Era",
+    "question": "Who developed the world's FIRST VACCINE (for Smallpox) in 1796 using cowpox fluid, pioneering the field of Immunology?",
+    "options": [
+      "Edward Jenner",
+      "Jonas Salk",
+      "Louis Pasteur",
+      "Robert Koch"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "Edward Jenner's 1796 cowpox inoculation created the smallpox vaccine, leading to the global eradication of smallpox by the WHO in 1980."
+  },
+  {
+    "classLevel": 7,
+    "subject": "GK",
+    "chapter": "Chapter 10: Science, Inventions, Information Technology & Digital Era",
+    "question": "Which two scientists discovered the 3D DOUBLE HELIX molecular structure of DNA in 1953 (building on Rosalind Franklin's X-ray crystallography)?",
+    "options": [
+      "James Watson and Francis Crick",
+      "Gregor Mendel and Charles Darwin",
+      "Louis Pasteur and Robert Hooke",
+      "Albert Einstein and Max Planck"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "Watson and Crick deduced the antiparallel double-helix structure of DNA in 1953, unlocking the genetic code of all biological life."
+  },
+  {
+    "classLevel": 7,
+    "subject": "GK",
+    "chapter": "Chapter 10: Science, Inventions, Information Technology & Digital Era",
+    "question": "What is Albert Einstein's world-famous mass-energy equivalence equation derived from his Special Theory of Relativity (1905)?",
+    "options": [
+      "E = mc² (where E = Energy, m = mass, c = speed of light)",
+      "F = ma",
+      "V = IR",
+      "P = IV"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "E = mc² establishes that mass and energy are interchangeable, forming the foundational principle of nuclear energy and astrophysics."
+  },
+  {
+    "classLevel": 7,
+    "subject": "GK",
+    "chapter": "Chapter 10: Science, Inventions, Information Technology & Digital Era",
+    "question": "Who created the FIRST PERIODIC TABLE of chemical elements in 1869, arranging elements by atomic mass and predicting undiscovered elements?",
+    "options": [
+      "Dmitri Mendeleev",
+      "Antoine Lavoisier",
+      "John Dalton",
+      "Niels Bohr"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "Russian chemist Dmitri Mendeleev organized elements into the periodic table, famously leaving empty gaps for then-unknown elements like Gallium and Germanium."
+  },
+  {
+    "classLevel": 7,
+    "subject": "GK",
+    "chapter": "Chapter 10: Science, Inventions, Information Technology & Digital Era",
+    "question": "What was the name of INDIA'S FIRST INDIGENOUS SUPERCOMPUTER, developed by the Centre for Development of Advanced Computing (C-DAC) in Pune in 1991 led by Dr. Vijay Bhatkar?",
+    "options": [
+      "PARAM 8000",
+      "AIRAWAT",
+      "PARAM Siddhi",
+      "Pratyush"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "PARAM 8000 (1 Gigaflop) was India's first supercomputer, designed and built indigenously by C-DAC in 1991."
+  },
+  {
+    "classLevel": 7,
+    "subject": "GK",
+    "chapter": "Chapter 10: Science, Inventions, Information Technology & Digital Era",
+    "question": "Which city in Karnataka is globally renowned as the 'SILICON VALLEY OF INDIA' for its massive concentration of software giants, IT exporters, and tech startups?",
+    "options": [
+      "Bengaluru (Bangalore)",
+      "Hyderabad",
+      "Pune",
+      "Chennai"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "Bengaluru is India's preeminent high-tech capital, hosting major IT leaders (Infosys, Wipro, ISRO, thousands of AI startups)."
+  },
+  {
+    "classLevel": 7,
+    "subject": "GK",
+    "chapter": "Chapter 10: Science, Inventions, Information Technology & Digital Era",
+    "question": "What does the technological abbreviation 'AI' stand for in modern computer science?",
+    "options": [
+      "Artificial Intelligence",
+      "Automated Internet",
+      "Advanced Interface",
+      "Applied Information"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "Artificial Intelligence (AI) is the simulation of human intelligence processes by computer algorithms and machine learning neural networks."
+  },
+  {
+    "classLevel": 7,
+    "subject": "GK",
+    "chapter": "Chapter 10: Science, Inventions, Information Technology & Digital Era",
+    "question": "What is 'Moore's Law', articulated by Intel co-founder Gordon Moore in 1965?",
+    "options": [
+      "The empirical observation that the number of transistors on a microchip DOUBLES approximately every two years, while the cost of computers is halved",
+      "That computers will stop working after 10 years",
+      "That software will replace all hardware",
+      "That electricity speed doubles every year"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "Moore's Law accurately guided semiconductor miniaturization and exponential computational power scaling for over five decades."
+  },
+  {
+    "classLevel": 7,
+    "subject": "GK",
+    "chapter": "Chapter 10: Science, Inventions, Information Technology & Digital Era",
+    "question": "What fundamental transmission protocols developed by Vint Cerf and Bob Kahn in the 1970s form the technical backbone of the global INTERNET?",
+    "options": [
+      "TCP/IP (Transmission Control Protocol / Internet Protocol)",
+      "HTTP only",
+      "FTP only",
+      "SMTP only"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "TCP/IP provides end-to-end packet routing and reassembly, establishing the foundational architecture of the global internet."
+  },
+  {
+    "classLevel": 7,
+    "subject": "GK",
+    "chapter": "Chapter 10: Science, Inventions, Information Technology & Digital Era",
+    "question": "What revolutionary technology powers 'Quantum Computers', allowing them to perform complex calculations exponentially faster than classical supercomputers?",
+    "options": [
+      "Quantum Qubits utilizing Superposition and Entanglement (operating simultaneously in 0 and 1 states)",
+      "Using very hot steam pipes",
+      "Giant magnetic gears",
+      "Thousands of copper wires only"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "Quantum computers harness quantum mechanics (qubit superposition and entanglement) to solve complex optimization and cryptographic problems exponentially fast."
+  },
+  {
+    "classLevel": 7,
+    "subject": "GK",
+    "chapter": "Chapter 10: Science, Inventions, Information Technology & Digital Era",
+    "question": "What is 'Cloud Computing'?",
+    "options": [
+      "The on-demand delivery of computing services (servers, storage, databases, networking, software) over the internet ('the cloud') with pay-as-you-go pricing",
+      "Computing during rainy weather",
+      "Using airplanes to carry computers",
+      "Storing data on paper files in mountains"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "Cloud computing (AWS, Google Cloud, Microsoft Azure) provides elastic, scalable on-demand compute and storage infrastructure over the internet."
+  },
+  {
+    "classLevel": 7,
+    "subject": "GK",
+    "chapter": "Chapter 10: Science, Inventions, Information Technology & Digital Era",
+    "question": "What is 'Blockchain' technology, first implemented in 2008 by Satoshi Nakamoto for Bitcoin?",
+    "options": [
+      "A decentralized, distributed, cryptographically secured immutable ledger that records transactions across a peer-to-peer network without needing a central bank or intermediary",
+      "A chain of metal locks",
+      "A software that deletes files",
+      "A computer game about building blocks"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "Blockchain provides tamper-proof, decentralized consensus verification for digital assets, smart contracts, and supply chain tracking."
+  },
+  {
+    "classLevel": 7,
+    "subject": "GK",
+    "chapter": "Chapter 10: Science, Inventions, Information Technology & Digital Era",
+    "question": "Which Indian scientist and polymath pioneered wireless radio microwave communications in 1895 and invented the 'Crescograph' to measure plant growth?",
+    "options": [
+      "Sir Jagadish Chandra Bose (J.C. Bose)",
+      "Sir C.V. Raman",
+      "Homi J. Bhabha",
+      "Satyendra Nath Bose"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "J.C. Bose was a visionary pioneer of millimeter-wave radio optics, semiconductor crystal detectors, and plant biophysics."
+  },
+  {
+    "classLevel": 7,
+    "subject": "GK",
+    "chapter": "Chapter 10: Science, Inventions, Information Technology & Digital Era",
+    "question": "For what groundbreaking discovery in physics was Sir C.V. Raman awarded the Nobel Prize in Physics in 1930, celebrated annually on February 28 as NATIONAL SCIENCE DAY in India?",
+    "options": [
+      "The 'Raman Effect' (inelastic scattering of light photons when traveling through a transparent medium)",
+      "The discovery of the Neutron",
+      "The Theory of Black Holes",
+      "The invention of the Television"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "The Raman Effect demonstrates quantum shifts in photon energy during light scattering, now used globally in non-destructive Raman spectroscopy."
+  },
+  {
+    "classLevel": 7,
+    "subject": "GK",
+    "chapter": "Chapter 10: Science, Inventions, Information Technology & Digital Era",
+    "question": "Who is celebrated as the 'Father of the Indian Nuclear Programme' and founder of the Tata Institute of Fundamental Research (TIFR)?",
+    "options": [
+      "Dr. Homi J. Bhabha",
+      "Dr. Vikram Sarabhai",
+      "Dr. A.P.J. Abdul Kalam",
+      "Dr. Satish Dhawan"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "Dr. Homi Jehangir Bhabha formulated India's visionary three-stage nuclear power programme based on vast domestic Thorium reserves."
+  },
+  {
+    "classLevel": 7,
+    "subject": "GK",
+    "chapter": "Chapter 10: Science, Inventions, Information Technology & Digital Era",
+    "question": "Who is celebrated as the 'Father of the Indian Space Programme' and founder of the Indian Space Research Organisation (ISRO)?",
+    "options": [
+      "Dr. Vikram Sarabhai",
+      "Dr. Homi Bhabha",
+      "Dr. K. Sivan",
+      "Dr. A.P.J. Abdul Kalam"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "Dr. Vikram Sarabhai established ISRO in 1969, pioneering satellite communications and space technology for national social development."
+  },
+  {
+    "classLevel": 7,
+    "subject": "GK",
+    "chapter": "Chapter 10: Science, Inventions, Information Technology & Digital Era",
+    "question": "What historic achievement was accomplished by ISRO's CHANDRAYAAN-3 mission on August 23, 2023?",
+    "options": [
+      "India became the FIRST country in the world to successfully land a spacecraft near the LUNAR SOUTH POLE, celebrated as 'National Space Day'",
+      "First manned mission to Mars",
+      "First telescope in deep space",
+      "First spacecraft to leave the solar system"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "Chandrayaan-3's Vikram lander and Pragyan rover achieved a historic soft landing at Shiv Shakti Point near the Moon's South Pole on 23 August 2023."
+  },
+  {
+    "classLevel": 7,
+    "subject": "GK",
+    "chapter": "Chapter 10: Science, Inventions, Information Technology & Digital Era",
+    "question": "What was the 'Human Genome Project' completed in 2003?",
+    "options": [
+      "An international 13-year scientific project that successfully mapped and sequenced all the 3 billion chemical base pairs of human DNA",
+      "A project to build human robots",
+      "A study on human languages",
+      "A census of the world population"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "The Human Genome Project deciphered the complete sequence of the human genome, revolutionizing precision medicine and genetic engineering."
+  },
+  {
+    "classLevel": 7,
+    "subject": "GK",
+    "chapter": "Chapter 10: Science, Inventions, Information Technology & Digital Era",
+    "question": "What is 'CRISPR-Cas9' gene editing technology discovered by Emmanuelle Charpentier and Jennifer Doudna (Nobel Prize in Chemistry 2020)?",
+    "options": [
+      "A revolutionary molecular 'scissors' tool that allows scientists to edit, insert, or delete specific sections of DNA sequences with pinpoint precision",
+      "A microscope that magnifies stars",
+      "A software that predicts weather",
+      "A vaccine for flu"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "CRISPR-Cas9 enables precise targeted genetic editing in living cells, transforming genetic therapy, oncology, and crop biotechnology."
+  },
+  {
+    "classLevel": 7,
+    "subject": "GK",
+    "chapter": "Chapter 10: Science, Inventions, Information Technology & Digital Era",
+    "question": "What is the primary semiconductor chemical element used to manufacture modern computer processor microchips and solar cells?",
+    "options": [
+      "Silicon (Si)",
+      "Carbon",
+      "Iron",
+      "Gold"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "Silicon is the premier semiconductor element whose electrical conductivity can be precisely modulated by doping, powering all microelectronics."
+  },
+  {
+    "classLevel": 7,
+    "subject": "GK",
+    "chapter": "Chapter 10: Science, Inventions, Information Technology & Digital Era",
+    "question": "What is 'Unified Payments Interface' (UPI) developed by the National Payments Corporation of India (NPCI) in 2016?",
+    "options": [
+      "An instant real-time mobile payment system facilitating inter-bank peer-to-peer (P2P) and person-to-merchant (P2M) digital transactions seamlessly",
+      "A credit card company",
+      "A cryptocurrency exchange",
+      "A government tax portal"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "UPI is a global fintech marvel, processing over 13 billion instant digital transactions per month across millions of small merchants."
+  },
+  {
+    "classLevel": 7,
+    "subject": "GK",
+    "chapter": "Chapter 10: Science, Inventions, Information Technology & Digital Era",
+    "question": "What is 'Cybersecurity' in the digital era?",
+    "options": [
+      "The practice of protecting internet-connected systems (hardware, software, data) from malicious digital attacks, unauthorized access, ransomware, and identity theft",
+      "Locking computer screens with padlocks",
+      "Cleaning keyboards with water",
+      "Deleting old emails"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "Cybersecurity deploys cryptography, firewalls, threat intelligence, and zero-trust architectures to defend digital infrastructure from cyber warfare and data breaches."
+  },
+  {
+    "classLevel": 7,
+    "subject": "GK",
+    "chapter": "Chapter 10: Science, Inventions, Information Technology & Digital Era",
+    "question": "What is the 'James Webb Space Telescope' (JWST) launched into space by NASA, ESA, and CSA in December 2021?",
+    "options": [
+      "The largest and most powerful infrared space telescope ever built, stationed at Lagrange Point 2 (L2) to observe the earliest stars and galaxies formed after the Big Bang",
+      "A radar station on Earth",
+      "A satellite that measures ocean waves",
+      "A solar panel testing facility"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "JWST uses a 6.5m beryllium-gold mirror at Sun-Earth L2, peering over 13.5 billion years into cosmic history in high-resolution infrared."
+  },
+  {
+    "classLevel": 7,
+    "subject": "GK",
+    "chapter": "Chapter 10: Science, Inventions, Information Technology & Digital Era",
+    "question": "Read the statements:\nAssertion (A): Semiconductor microchips and integrated circuits are considered the fundamental 'Crude Oil of the 21st Century'.\nReason (R): Microchips power every facet of modern civilization—from smartphones, automobiles, and medical diagnostics to aerospace avionics, artificial intelligence, and national defense radar systems.\nChoose the correct option:",
+    "options": [
+      "Both (A) and (R) are true, and (R) is the correct explanation of (A).",
+      "Both (A) and (R) are true, but (R) is NOT the correct explanation of (A).",
+      "(A) is true, but (R) is false.",
+      "(A) is false, but (R) is true."
+    ],
+    "correctAnswer": 0,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "Semiconductor microchips are the indispensable strategic hardware driving computational power, global trade, and geopolitical sovereignty."
+  },
+  {
+    "classLevel": 7,
+    "subject": "GK",
+    "chapter": "Chapter 10: Science, Inventions, Information Technology & Digital Era",
+    "question": "Spot the IMPOSTER in the following group of Computer Pioneers and their signature inventions:\nGroup:\n1. Tim Berners-Lee - World Wide Web (WWW)\n2. Linus Torvalds - Linux Operating System Kernel\n3. Alan Turing - Theoretical Computer Science & Turing Machine\n4. Alexander Fleming - The Touchscreen Smartphone",
+    "options": [
+      "Pioneer 1",
+      "Pioneer 2",
+      "Pioneer 3",
+      "Pioneer 4 (Alexander Fleming discovered the antibiotic PENICILLIN in 1928, NOT touchscreen smartphones)"
+    ],
+    "correctAnswer": 3,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "Pioneer 4 is an absurd confusion: Fleming was a biologist who discovered penicillin; smartphone touchscreens were developed by 21st-century electronics engineers."
+  },
+  {
+    "classLevel": 7,
+    "subject": "GK",
+    "chapter": "Chapter 10: Science, Inventions, Information Technology & Digital Era",
+    "question": "Analyze the operational mechanism of 'Large Language Models' (LLMs) and Generative AI (like Transformer neural networks):\nHow do these AI systems generate human-like coherent text?",
+    "options": [
+      "By using deep multi-head attention neural networks trained on vast text corpora to predict the statistically most probable next word (token) in context",
+      "By searching a dictionary and printing random words",
+      "By copying sentences from encyclopedia books verbatim",
+      "By translating speech into Morse code"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "Transformer-based LLMs compute contextual probabilistic token distributions across billions of parameters using self-attention mechanisms."
+  },
+  {
+    "classLevel": 7,
+    "subject": "GK",
+    "chapter": "Chapter 10: Science, Inventions, Information Technology & Digital Era",
+    "question": "Match Column I (Digital & Scientific Breakthroughs) with Column II (Pioneering Creators / Institutions):\n(a) World Wide Web (1989)       -> (i) Tim Berners-Lee (CERN)\n(b) Relational Database (RDBMS) -> (ii) Edgar F. Codd (IBM)\n(c) CRISPR-Cas9 Gene Editing   -> (iii) Jennifer Doudna & Emmanuelle Charpentier\n(d) Chandrayaan-3 Moon Landing  -> (iv) ISRO (India)",
+    "options": [
+      "a-(i), b-(ii), c-(iii), d-(iv)",
+      "a-(ii), b-(i), c-(iv), d-(iii)",
+      "a-(iv), b-(iii), c-(ii), d-(i)",
+      "a-(iii), b-(iv), c-(i), d-(ii)"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "WWW = Berners-Lee; RDBMS = Codd; CRISPR = Doudna/Charpentier; Moon landing = ISRO."
+  },
+  {
+    "classLevel": 7,
+    "subject": "GK",
+    "chapter": "Chapter 10: Science, Inventions, Information Technology & Digital Era",
+    "question": "Read the statements regarding India's Digital Public Infrastructure (DPI - 'India Stack'):\nStatement 1: India Stack integrates Aadhaar (Digital Identity), UPI (Instant Payments), and DigiLocker (Paperless Document Verification).\nStatement 2: India's DPI has enabled financial inclusion for over 500 million unbanked citizens via Direct Benefit Transfers (DBT).\nStatement 3: UPI was invented by the British in 1850.\nWhich statements are TRUE?",
+    "options": [
+      "Statements 1 and 2 only",
+      "Statements 2 and 3 only",
+      "Statements 1 and 3 only",
+      "All Statements 1, 2, and 3"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "Statement 3 is an absurd impossibility (UPI was launched in 2016). Statements 1 and 2 represent global consensus on India's digital public goods."
+  },
+  {
+    "classLevel": 7,
+    "subject": "GK",
+    "chapter": "Chapter 10: Science, Inventions, Information Technology & Digital Era",
+    "question": "What is the 'Higgs Boson' (often colloquially called the 'God Particle') discovered at CERN's Large Hadron Collider in 2012?",
+    "options": [
+      "The fundamental quantum particle associated with the Higgs field, which imparts mass to all fundamental elementary particles (quarks, leptons, W/Z bosons)",
+      "A particle of pure light",
+      "A particle found only on the Moon",
+      "A chemical used to make computer screens"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "The Higgs field mechanism (predicted by Peter Higgs and Satyendra Nath Bose's quantum statistics) generates mass via spontaneous electroweak symmetry breaking."
+  },
+  {
+    "classLevel": 7,
+    "subject": "GK",
+    "chapter": "Chapter 10: Science, Inventions, Information Technology & Digital Era",
+    "question": "How does Public-Key Asymmetric Cryptography (RSA algorithm) secure worldwide online banking and encrypted communications?",
+    "options": [
+      "It uses a mathematically paired Public Key (for encryption) and Private Key (for decryption) based on the computational difficulty of factoring giant prime numbers",
+      "By storing passwords in paper envelopes",
+      "By turning text into random sounds",
+      "By changing computer clock times"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "RSA encryption relies on one-way trapdoor mathematical functions (prime factorization intractability) to secure digital signatures and SSL/TLS internet transactions."
+  },
+  {
+    "classLevel": 7,
+    "subject": "GK",
+    "chapter": "Chapter 10: Science, Inventions, Information Technology & Digital Era",
+    "question": "Consider four milestone technological systems:\n1. Global Positioning System (GPS)\n2. Nuclear Magnetic Resonance Imaging (MRI)\n3. Photovoltaic Solar Cells\n4. Lithium-ion Rechargeable Batteries\nWhat common characteristic do they share?",
+    "options": [
+      "They are all direct practical engineering applications derived from 20th-century breakthroughs in Quantum Mechanics and Solid-State Physics",
+      "They were all invented in ancient Rome",
+      "They all operate without any electricity",
+      "They are used only in outer space"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "All four technologies represent the transformative fruit of fundamental quantum mechanics, semiconductor physics, and electrochemistry."
+  },
+  {
+    "classLevel": 7,
+    "subject": "GK",
+    "chapter": "Chapter 10: Science, Inventions, Information Technology & Digital Era",
+    "question": "What is the 'Fermi Paradox' in modern astronomy and astrophysics?",
+    "options": [
+      "The glaring contradiction between the high mathematical probability of extraterrestrial intelligent civilizations in our vast galaxy and the complete absence of observational contact or evidence ('Where is everybody?')",
+      "The paradox that stars are hotter than planets",
+      "The problem of calculating the Moon's weight",
+      "The reason why the Sun rises in the east"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "Enrico Fermi's famous paradox highlights the tension between the billions of habitable stars in the Milky Way and the deafening silence of the cosmos."
+  },
+  {
+    "classLevel": 7,
+    "subject": "GK",
+    "chapter": "Chapter 10: Science, Inventions, Information Technology & Digital Era",
+    "question": "Why was the 2019 Nobel Prize in Chemistry awarded to John Goodenough, Stanley Whittingham, and Akira Yoshino for developing the LITHIUM-ION BATTERY?",
+    "options": [
+      "Lithium-ion batteries created a lightweight, compact, rechargeable energy storage revolution that untethered portable electronics (smartphones, laptops) and enabled electric vehicles (EVs)",
+      "Because they invented atomic bombs",
+      "Because they discovered water on Mars",
+      "Because they built the first airplane"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "Lithium-ion intercalation electrochemistry catalyzed the mobile communication era and the renewable energy green transition."
+  },
+  {
+    "classLevel": 7,
+    "subject": "GK",
+    "chapter": "Chapter 10: Science, Inventions, Information Technology & Digital Era",
+    "question": "What is the mission of ISRO's 'Aditya-L1' spacecraft successfully launched in September 2023?",
+    "options": [
+      "India's first dedicated space-based solar observatory, placed in a halo orbit around Lagrangian point L1 (~1.5 million km from Earth) to study solar flares and coronal mass ejections",
+      "To land on Mars",
+      "To drill deep inside the Earth's core",
+      "To build a space hotel"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "Aditya-L1 continuously monitors solar coronal heating, solar wind dynamics, and space weather without eclipse interruptions from Sun-Earth L1."
+  },
+  {
+    "classLevel": 7,
+    "subject": "GK",
+    "chapter": "Chapter 10: Science, Inventions, Information Technology & Digital Era",
+    "question": "What master vision of human progress and ethical responsibility is articulated in Chapter 10 of General Knowledge?",
+    "options": [
+      "Scientific curiosity and digital technological power must be harnessed ethically and inclusively to alleviate human suffering, bridge economic divides, protect ecological balance, and propel humanity toward a sustainable, enlightened future",
+      "That technology should be used only for war",
+      "That scientific discoveries should be kept secret forever",
+      "That computers will make human knowledge obsolete"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "Chapter 10 synthesizes the arc of modern scientific discoveries, computational revolutions, space exploration, and humanist ethical stewardship."
+  }
+]

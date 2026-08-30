@@ -1,0 +1,560 @@
+import fs from 'fs';
+
+// -------------------------------------------------------------
+// SUBJECT 5: Social Science - Chapter 10: Traders, Kings and Pilgrims (40 Questions)
+// -------------------------------------------------------------
+const socialQuestions = [
+  // EASY (12)
+  {
+    classLevel: 6,
+    subject: "Social Science",
+    chapter: "Chapter 10: Traders, Kings and Pilgrims",
+    question: "What was the ancient network of overland and maritime trade routes connecting China, India, Central Asia, and the Roman Mediterranean empire called?",
+    options: ["The Silk Route (Silk Road)", "The Spice Route", "The Grand Trunk Road", "The Royal Road"],
+    correctAnswer: 0,
+    difficulty: "EASY",
+    damage: 150,
+    explanation: "Named after Chinese silk, the Silk Route was a trans-Eurasian trade artery spanning over 6,400 km."
+  },
+  {
+    classLevel: 6,
+    subject: "Social Science",
+    chapter: "Chapter 10: Traders, Kings and Pilgrims",
+    question: "Around how many years ago was the secret technique of making SILK first invented in China?",
+    options: ["About 7,000 years ago (c. 5000 BCE)", "1,000 years ago", "500 years ago", "10,000 years ago"],
+    correctAnswer: 0,
+    difficulty: "EASY",
+    damage: 150,
+    explanation: "Sericulture and silk weaving were guarded as state secrets in China for thousands of years from ~5000 BCE."
+  },
+  {
+    classLevel: 6,
+    subject: "Social Science",
+    chapter: "Chapter 10: Traders, Kings and Pilgrims",
+    question: "Which powerful rulers of Central Asian origin controlled the major branches of the Silk Route around 2,000 years ago and issued the earliest gold coins in India?",
+    options: ["The Kushanas (Kushans)", "The Mauryas", "The Guptas", "The Cholas"],
+    correctAnswer: 0,
+    difficulty: "EASY",
+    damage: 150,
+    explanation: "The Kushanas controlled the Silk Route from Peshawar and Mathura, issuing abundant high-purity gold dinars."
+  },
+  {
+    classLevel: 6,
+    subject: "Social Science",
+    chapter: "Chapter 10: Traders, Kings and Pilgrims",
+    question: "Who was the most famous Kushana ruler who organized the Fourth Buddhist Council in Kashmir and patronized the poet Ashvaghosha?",
+    options: ["Kanishka (c. 78 CE)", "Kujula Kadphises", "Ashoka", "Chandragupta II"],
+    correctAnswer: 0,
+    difficulty: "EASY",
+    damage: 150,
+    explanation: "Emperor Kanishka convened the 4th Buddhist Council in Kashmir and initiated the Shaka calendar era (78 CE)."
+  },
+  {
+    classLevel: 6,
+    subject: "Social Science",
+    chapter: "Chapter 10: Traders, Kings and Pilgrims",
+    question: "Who was the famous Buddhist scholar and poet in Kanishka's court who authored the 'Buddhacharita' (the epic biography of the Buddha in Sanskrit)?",
+    options: ["Ashvaghosha", "Kalidasa", "Banabhatta", "Nagarjuna"],
+    correctAnswer: 0,
+    difficulty: "EASY",
+    damage: 150,
+    explanation: "Ashvaghosha wrote the 'Buddhacharita' and 'Saundarananda', pioneering classical Sanskrit kavya literature."
+  },
+  {
+    classLevel: 6,
+    subject: "Social Science",
+    chapter: "Chapter 10: Traders, Kings and Pilgrims",
+    question: "What new form of Buddhism developed during Kanishka's reign, emphasizing statues of the Buddha and the worship of Bodhisattvas?",
+    options: ["Mahayana Buddhism ('The Greater Vehicle')", "Theravada Buddhism", "Hinayana Buddhism", "Zen Buddhism"],
+    correctAnswer: 0,
+    difficulty: "EASY",
+    damage: 150,
+    explanation: "Mahayana introduced iconic anthropomorphic Buddha sculptures and compassionate Bodhisattva veneration."
+  },
+  {
+    classLevel: 6,
+    subject: "Social Science",
+    chapter: "Chapter 10: Traders, Kings and Pilgrims",
+    question: "In Buddhist philosophy, who were 'Bodhisattvas'?",
+    options: [
+      "Enlightened compassionate souls who postponed their own final Nirvana to remain in the world and help all living beings overcome suffering",
+      "Kings who conquered other lands",
+      "Merchants who sold gold",
+      "Pilgrims from Rome"
+    ],
+    correctAnswer: 0,
+    difficulty: "EASY",
+    damage: 150,
+    explanation: "Bodhisattvas delay personal nirvana out of universal compassion (karuna) to liberate all sentient beings."
+  },
+  {
+    classLevel: 6,
+    subject: "Social Science",
+    chapter: "Chapter 10: Traders, Kings and Pilgrims",
+    question: "In which regions did older 'Theravada Buddhism' remain popular and dominant?",
+    options: [
+      "Sri Lanka, Myanmar (Burma), Thailand, and other parts of Southeast Asia",
+      "China and Japan",
+      "Rome and Greece",
+      "Egypt and Persia"
+    ],
+    correctAnswer: 0,
+    difficulty: "EASY",
+    damage: 150,
+    explanation: "Theravada ('Way of the Elders') preserved early Pali monastic traditions across Sri Lanka and Southeast Asia."
+  },
+  {
+    classLevel: 6,
+    subject: "Social Science",
+    chapter: "Chapter 10: Traders, Kings and Pilgrims",
+    question: "What are 'Pilgrims' in historical religious studies?",
+    options: [
+      "Men and women who undertake long journeys to holy places to offer worship and study sacred texts",
+      "Traders who sell horses",
+      "Soldiers in royal armies",
+      "Tax collectors in villages"
+    ],
+    correctAnswer: 0,
+    difficulty: "EASY",
+    damage: 150,
+    explanation: "Pilgrims travel across continents on spiritual journeys to pay homage at sacred shrines and monasteries."
+  },
+  {
+    classLevel: 6,
+    subject: "Social Science",
+    chapter: "Chapter 10: Traders, Kings and Pilgrims",
+    question: "Which famous Chinese Buddhist pilgrim visited India around 1600 years ago during the reign of Chandragupta II (Gupta Empire)?",
+    options: ["Fa Xian (Faxian)", "Xuan Zang (Hiuen Tsang)", "I-Qing (I-Tsing)", "Marco Polo"],
+    correctAnswer: 0,
+    difficulty: "EASY",
+    damage: 150,
+    explanation: "Fa Xian traveled to India (399–414 CE) overland through Central Asia, collecting Sanskrit Buddhist Vinaya manuscripts."
+  },
+  {
+    classLevel: 6,
+    subject: "Social Science",
+    chapter: "Chapter 10: Traders, Kings and Pilgrims",
+    question: "Which Chinese pilgrim visited India around 1400 years ago during the reign of King Harshavardhana and studied at Nalanda University?",
+    options: ["Xuan Zang (Hiuen Tsang)", "Fa Xian", "I-Qing", "Megasthenes"],
+    correctAnswer: 0,
+    difficulty: "EASY",
+    damage: 150,
+    explanation: "Xuan Zang spent 16 years in India (629–645 CE), studying Yogachara philosophy under Shilabhadra at Nalanda."
+  },
+  {
+    classLevel: 6,
+    subject: "Social Science",
+    chapter: "Chapter 10: Traders, Kings and Pilgrims",
+    question: "What was the most famous international center of Buddhist learning and monastery university in ancient Bihar where scholars from all over the world studied?",
+    options: ["Nalanda Mahavihara (Nalanda University)", "Takshashila", "Vikramashila", "Valabhi"],
+    correctAnswer: 0,
+    difficulty: "EASY",
+    damage: 150,
+    explanation: "Founded in the 5th century CE by Kumargupta I, Nalanda hosted over 10,000 students and monks from across Asia."
+  },
+
+  // MEDIUM (16)
+  {
+    classLevel: 6,
+    subject: "Social Science",
+    chapter: "Chapter 10: Traders, Kings and Pilgrims",
+    question: "Why did ancient kings try hard to control the Silk Route?",
+    options: [
+      "Because they could collect rich taxes, customs duties, and precious gifts from wealthy merchants traveling with valuable goods along the route",
+      "Because kings wanted to make silk shirts themselves",
+      "Because the route was made of gold",
+      "Because nobody else was allowed on the road"
+    ],
+    correctAnswer: 0,
+    difficulty: "MEDIUM",
+    damage: 250,
+    explanation: "Controlling choke points allowed kingdoms to levy transit tolls, ensuring armed security in exchange for tariffs."
+  },
+  {
+    classLevel: 6,
+    subject: "Social Science",
+    chapter: "Chapter 10: Traders, Kings and Pilgrims",
+    question: "What two major sculptural art schools produced exquisite Buddha statues under Mahayana Buddhism?",
+    options: [
+      "Mathura Art School (indigenous red sandstone style) and Gandhara Art School (Greco-Buddhist style in Taxila/Peshawar)",
+      "Chola and Pallava style",
+      "Roman and Egyptian style",
+      "Mughal and Rajput style"
+    ],
+    correctAnswer: 0,
+    difficulty: "MEDIUM",
+    damage: 250,
+    explanation: "Gandhara fused Hellenistic drapery with Buddhist themes, while Mathura evolved robust indigenous stone iconography."
+  },
+  {
+    classLevel: 6,
+    subject: "Social Science",
+    chapter: "Chapter 10: Traders, Kings and Pilgrims",
+    question: "How did Xuan Zang transport hundreds of sacred Buddhist manuscripts and golden statues back from India to China in 645 CE?",
+    options: [
+      "Loaded on the backs of 20 horses across the overland mountain passes of the Pamirs, Hindu Kush, and Taklamakan desert",
+      "On a modern cargo airplane",
+      "By sending a postal parcel",
+      "Through underwater tunnels"
+    ],
+    correctAnswer: 0,
+    difficulty: "MEDIUM",
+    damage: 250,
+    explanation: "Xuan Zang transported 657 Sanskrit texts on pack horses, spending his remaining life in Chang'an translating them into Chinese."
+  },
+  {
+    classLevel: 6,
+    subject: "Social Science",
+    chapter: "Chapter 10: Traders, Kings and Pilgrims",
+    question: "What religious path gained immense popularity in India during this period, emphasizing intense personal devotion and pure love for a chosen deity (Ishta-Deva) regardless of caste or gender?",
+    options: ["Bhakti Movement (Bhakti Marga)", "Yajna ritualism", "Vedic sacrifice", "Tantric isolation"],
+    correctAnswer: 0,
+    difficulty: "MEDIUM",
+    damage: 250,
+    explanation: "Bhakti (from Sanskrit 'bhaj' = to share/devote) emphasized egalitarian personal devotion to Shiva, Vishnu, or Durga."
+  },
+  {
+    classLevel: 6,
+    subject: "Social Science",
+    chapter: "Chapter 10: Traders, Kings and Pilgrims",
+    question: "Which sacred Hindu scripture (a 700-verse section of the Mahabharata) contains the foundational doctrine of Bhakti taught by Lord Krishna to Arjuna?",
+    options: ["The Bhagavad Gita", "The Ramayana", "Rigveda", "Manusmriti"],
+    correctAnswer: 0,
+    difficulty: "MEDIUM",
+    damage: 250,
+    explanation: "In the Gita, Krishna reveals 'Bhakti Marga' (devotional self-surrender) as the supreme path to spiritual liberation."
+  },
+  {
+    classLevel: 6,
+    subject: "Social Science",
+    chapter: "Chapter 10: Traders, Kings and Pilgrims",
+    question: "What does the Sanskrit root word 'Bhaj' in 'Bhakti' literally mean?",
+    options: ["To divide, share, participate in, or belong to (creating a reciprocal loving bond between the devotee and deity)", "To fight in war", "To fast without food", "To speak Sanskrit"],
+    correctAnswer: 0,
+    difficulty: "MEDIUM",
+    damage: 250,
+    explanation: "'Bhaj' means to share intimately, signifying a mutual emotional relationship between the bhakta and the Divine."
+  },
+  {
+    classLevel: 6,
+    subject: "Social Science",
+    chapter: "Chapter 10: Traders, Kings and Pilgrims",
+    question: "Why was the Bhakti movement revolutionary in the socio-religious history of ancient India?",
+    options: [
+      "It threw open spiritual salvation to everyone—rich or poor, high caste or low caste, men or women—without expensive priestly rituals or animal sacrifices",
+      "It banned all temples",
+      "It ordered everyone to become monks",
+      "It was only for kings"
+    ],
+    correctAnswer: 0,
+    difficulty: "MEDIUM",
+    damage: 250,
+    explanation: "Bhakti dismantled caste-based religious exclusivism, making direct devotion universally accessible to all social strata."
+  },
+  {
+    classLevel: 6,
+    subject: "Social Science",
+    chapter: "Chapter 10: Traders, Kings and Pilgrims",
+    question: "What is the famous depiction of Lord Vishnu as the 'Varaha' (Boar) avatar rescuing Mother Earth (Bhudevi) from the cosmic ocean carved in stone at:",
+    options: ["Eran (Madhya Pradesh) and Udayagiri caves", "Sanchi", "Ajanta", "Ellora"],
+    correctAnswer: 0,
+    difficulty: "MEDIUM",
+    damage: 250,
+    explanation: "Gupta-era colossal Varaha bas-reliefs at Udayagiri and Eran symbolize cosmic restoration and divine salvation."
+  },
+  {
+    classLevel: 6,
+    subject: "Social Science",
+    chapter: "Chapter 10: Traders, Kings and Pilgrims",
+    question: "How did Buddhist monk pilgrim Fa Xian describe his perilous sea return journey from Tamralipti port (Bengal) to China via Sri Lanka and Java?",
+    options: [
+      "His merchant ship encountered a catastrophic cyclone storm for 13 days, forcing merchants to throw all heavy trade cargo overboard to prevent the ship from sinking",
+      "He sailed smoothly without wind",
+      "He was captured by Roman soldiers",
+      "He walked across the ocean on foot"
+    ],
+    correctAnswer: 0,
+    difficulty: "MEDIUM",
+    damage: 250,
+    explanation: "Fa Xian's travelogue chronicles the terror of monsoonal typhoons, clinging to his precious Buddhist manuscripts on board."
+  },
+  {
+    classLevel: 6,
+    subject: "Social Science",
+    chapter: "Chapter 10: Traders, Kings and Pilgrims",
+    question: "What strict entrance examination did students have to pass to gain admission into Nalanda University, according to Xuan Zang?",
+    options: [
+      "The Gatekeeper (Dvarapandita) posed deep philosophical questions at the main entrance gate; only 20% to 30% of applicants could answer and gain admission",
+      "They had to pay 100 gold coins",
+      "They had to run a 5-mile race",
+      "They had to belong to royal families"
+    ],
+    correctAnswer: 0,
+    difficulty: "MEDIUM",
+    damage: 250,
+    explanation: "Xuan Zang noted that Nalanda maintained rigorous academic standards, screening applicants through oral philosophical disputation."
+  },
+  {
+    classLevel: 6,
+    subject: "Social Science",
+    chapter: "Chapter 10: Traders, Kings and Pilgrims",
+    question: "Who was the South Indian Bhakti poet-saint Appar (a devotee of Lord Shiva) who composed soulful devotional poems in Tamil celebrating equality?",
+    options: ["A 7th-century Nayanar saint who was a Vellalar (farmer)", "A Buddhist monk", "A Greek trader", "A Kushana king"],
+    correctAnswer: 0,
+    difficulty: "MEDIUM",
+    damage: 250,
+    explanation: "Appar (Thirunavukkarasar), a peasant Vellalar, composed Tevaram hymns proclaiming that sincere devotion supersedes caste origins."
+  },
+  {
+    classLevel: 6,
+    subject: "Social Science",
+    chapter: "Chapter 10: Traders, Kings and Pilgrims",
+    question: "What three ruling dynasties were known as the 'Muvendar' (Three Crowned Kings) who controlled the fertile Kaveri delta and southern coastal ports around 2,300 years ago?",
+    options: ["The Cholas, the Cheras, and the Pandyas", "The Mauryas, Guptas, and Kushanas", "The Pallavas, Chalukyas, and Rashtrakutas", "The Mughals, Marathas, and Rajputs"],
+    correctAnswer: 0,
+    difficulty: "MEDIUM",
+    damage: 250,
+    explanation: "Sangam literature celebrates the 'Muvendar': the Cholas (Uraiyur/Puhar), Cheras (Karur/Muziris), and Pandyas (Madurai/Korkai)."
+  },
+  {
+    classLevel: 6,
+    subject: "Social Science",
+    chapter: "Chapter 10: Traders, Kings and Pilgrims",
+    question: "What was Puhar (also known as Kaveripattinam) in ancient South India?",
+    options: [
+      "The premier coastal port city of the early Cholas on the Bay of Bengal, bustling with international sea trade",
+      "The capital of the Kushanas",
+      "A monastery in Kashmir",
+      "A desert oasis"
+    ],
+    correctAnswer: 0,
+    difficulty: "MEDIUM",
+    damage: 250,
+    explanation: "Puhar was the bustling maritime port of the Cholas, vividly depicted in the Tamil epic 'Silappadikaram'."
+  },
+  {
+    classLevel: 6,
+    subject: "Social Science",
+    chapter: "Chapter 10: Traders, Kings and Pilgrims",
+    question: "What Indian commodity was so prized in the ancient Roman Empire that it was popularly called 'Black Gold' (Yavanapriya)?",
+    options: ["Black Pepper (Kali Mirch)", "Black tea", "Coal", "Black stone"],
+    correctAnswer: 0,
+    difficulty: "MEDIUM",
+    damage: 250,
+    explanation: "Malabar black pepper was in such huge demand in Rome that it was traded for its weight in gold and termed 'Black Gold'."
+  },
+  {
+    classLevel: 6,
+    subject: "Social Science",
+    chapter: "Chapter 10: Traders, Kings and Pilgrims",
+    question: "How did ancient sailors and merchant navigators cross the Arabian Sea to reach the western ports of India quickly?",
+    options: [
+      "They took strategic advantage of the seasonal Southwest Monsoon winds to sail directly across the open ocean from the Gulf of Aden to the Malabar coast in summer",
+      "Using steam engine ships",
+      "By rowing continuously by hand without sails",
+      "By following stars in winter only"
+    ],
+    correctAnswer: 0,
+    difficulty: "MEDIUM",
+    damage: 250,
+    explanation: "Hippalus and Greek sailors harnessed the predictable seasonal Southwest Monsoon winds to sail straight across the open Arabian Sea."
+  },
+  {
+    classLevel: 6,
+    subject: "Social Science",
+    chapter: "Chapter 10: Traders, Kings and Pilgrims",
+    question: "What is the primary spiritual concept behind the construction of magnificent Hindu temple architecture that evolved from the Bhakti movement?",
+    options: [
+      "Creating sacred physical abodes (Prasad/Garbhagriha) where the chosen deity resides to receive personal loving worship and darshan from devotees",
+      "Building fortresses for war",
+      "Storing grain for famine",
+      "Astronomical observatories only"
+    ],
+    correctAnswer: 0,
+    difficulty: "MEDIUM",
+    damage: 250,
+    explanation: "Bhakti catalyzed temple architecture: housing the enshrined deity in the sanctum sanctorum (Garbhagriha) for direct darshan."
+  },
+
+  // HARD (12)
+  {
+    classLevel: 6,
+    subject: "Social Science",
+    chapter: "Chapter 10: Traders, Kings and Pilgrims",
+    question: "Read the statements:\nAssertion (A): The expansion of the Silk Route was as much an intellectual and cultural highway as it was an international commercial highway.\nReason (R): Along with silk, glassware, and spices, the route carried Buddhist philosophy, monastic texts, art styles (Gandhara-Mathura), and religious pilgrims between India, Central Asia, and East Asia.\nChoose the correct option:",
+    options: [
+      "Both (A) and (R) are true, and (R) is the correct explanation of (A).",
+      "Both (A) and (R) are true, but (R) is NOT the correct explanation of (A).",
+      "(A) is true, but (R) is false.",
+      "(A) is false, but (R) is true."
+    ],
+    correctAnswer: 0,
+    difficulty: "HARD",
+    damage: 350,
+    explanation: "Trade routes operated as cultural transmission vectors, diffusing Buddhism, art, technology (paper/silk), and languages across Eurasia."
+  },
+  {
+    classLevel: 6,
+    subject: "Social Science",
+    chapter: "Chapter 10: Traders, Kings and Pilgrims",
+    question: "Spot the IMPOSTER in the following group of ancient Chinese pilgrims who visited India to study Buddhist texts:\nGroup: [Fa Xian (Faxian), Xuan Zang (Hiuen Tsang), I-Qing (Yijing), Megasthenes]",
+    options: ["Fa Xian (Faxian)", "Xuan Zang (Hiuen Tsang)", "I-Qing (Yijing)", "Megasthenes"],
+    correctAnswer: 3,
+    difficulty: "HARD",
+    damage: 350,
+    explanation: "Megasthenes was a GREEK ambassador from Seleucus Nicator to Chandragupta Maurya (author of 'Indica'), NOT a Chinese Buddhist pilgrim."
+  },
+  {
+    classLevel: 6,
+    subject: "Social Science",
+    chapter: "Chapter 10: Traders, Kings and Pilgrims",
+    question: "Consider the theological evolution between Early Buddhism (Theravada) and Later Buddhism (Mahayana):\nWhich of the following is a definitive characteristic of MAHAYANA Buddhism?",
+    options: [
+      "Depicting Buddha in anthropomorphic human statue form and worshipping Bodhisattvas who postpone nirvana to save all sentient beings",
+      "Strictly representing Buddha through aniconic symbols (footprints, empty throne, wheel)",
+      "Banning all statues and rituals",
+      "Using only Pali language and rejecting Sanskrit"
+    ],
+    correctAnswer: 0,
+    difficulty: "HARD",
+    damage: 350,
+    explanation: "Mahayana transitioned from aniconism to iconographic idol worship, adopting Sanskrit and the Bodhisattva ideal."
+  },
+  {
+    classLevel: 6,
+    subject: "Social Science",
+    chapter: "Chapter 10: Traders, Kings and Pilgrims",
+    question: "Match Column I (Ancient Personalities / Texts) with Column II (Historical Contributions):\n(a) Kanishka     -> (i) Author of Buddhacharita in Sanskrit\n(b) Ashvaghosha  -> (ii) Kushana Emperor who convened 4th Buddhist Council\n(c) Xuan Zang    -> (iii) Pilgrim who spent 16 years studying at Nalanda\n(d) Appar        -> (iv) Nayanar saint who composed Tamil devotional hymns",
+    options: [
+      "a-(ii), b-(i), c-(iii), d-(iv)",
+      "a-(i), b-(ii), c-(iii), d-(iv)",
+      "a-(iv), b-(iii), c-(ii), d-(i)",
+      "a-(iii), b-(iv), c-(i), d-(ii)"
+    ],
+    correctAnswer: 0,
+    difficulty: "HARD",
+    damage: 350,
+    explanation: "Kanishka = 4th Council; Ashvaghosha = Buddhacharita; Xuan Zang = Nalanda scholar; Appar = Nayanar saint."
+  },
+  {
+    classLevel: 6,
+    subject: "Social Science",
+    chapter: "Chapter 10: Traders, Kings and Pilgrims",
+    question: "Read the statements regarding ancient pilgrims:\nStatement 1: Xuan Zang lost 50 precious manuscripts in the Indus river when his boat capsized during his return journey.\nStatement 2: Nalanda University charged high tuition fees in gold from all students.\nStatement 3: Roman coins have been discovered in large hoards across South India.\nWhich statements are TRUE?",
+    options: ["Statements 1 and 3 only", "Statements 1 and 2 only", "Statements 2 and 3 only", "All Statements 1, 2, and 3"],
+    correctAnswer: 0,
+    difficulty: "HARD",
+    damage: 350,
+    explanation: "Statement 2 is false because education, lodging, and food at Nalanda were completely free, funded by revenue from 100 endowed villages. Statements 1 and 3 are true."
+  },
+  {
+    classLevel: 6,
+    subject: "Social Science",
+    chapter: "Chapter 10: Traders, Kings and Pilgrims",
+    question: "What was the administrative concept of 'Muvendar' mentioned in Sangam poems, where each of the three ruling chiefs had TWO centers of power?",
+    options: [
+      "Each dynasty (Cholas, Cheras, Pandyas) maintained ONE inland capital city and ONE coastal seaport, totaling six major urban power hubs in South India",
+      "Each had two kings ruling at once",
+      "Each ruled over two separate islands",
+      "Each had two armies"
+    ],
+    correctAnswer: 0,
+    difficulty: "HARD",
+    damage: 350,
+    explanation: "Dual nodes of power: Cholas (Uraiyur inland + Puhar port), Pandyas (Madurai inland + Korkai port), Cheras (Karur inland + Muziris port)."
+  },
+  {
+    classLevel: 6,
+    subject: "Social Science",
+    chapter: "Chapter 10: Traders, Kings and Pilgrims",
+    question: "Why did the Kushana rulers issue such high-denomination, pure GOLD coins around the 1st century CE?",
+    options: [
+      "To facilitate large-scale international transactions on the Silk Route, fueled by massive inflows of Roman gold and overland transit profits",
+      "Because they had no copper or silver",
+      "To give as gifts to pilgrims",
+      "To melt and build gold palaces"
+    ],
+    correctAnswer: 0,
+    difficulty: "HARD",
+    damage: 350,
+    explanation: "Kushana gold dinars mirrored Roman imperial weight standards (8 grams), creating a convertible reserve currency along the Silk Road."
+  },
+  {
+    classLevel: 6,
+    subject: "Social Science",
+    chapter: "Chapter 10: Traders, Kings and Pilgrims",
+    question: "Consider four events in the history of trade and pilgrimage:\n1. Invention of silk making in China (c. 5000 BCE)\n2. Reign of Kanishka and Mahayana Buddhism (c. 78 CE)\n3. Visit of Chinese pilgrim Fa Xian (c. 400 CE)\n4. Visit of Chinese pilgrim Xuan Zang (c. 630 CE)\nArrange them in chronological order from OLDEST to MOST RECENT:",
+    options: ["1 -> 2 -> 3 -> 4", "2 -> 1 -> 3 -> 4", "1 -> 3 -> 2 -> 4", "4 -> 3 -> 2 -> 1"],
+    correctAnswer: 0,
+    difficulty: "HARD",
+    damage: 350,
+    explanation: "Silk invention (5000 BCE) > Kanishka (78 CE) > Fa Xian (400 CE) > Xuan Zang (630 CE)."
+  },
+  {
+    classLevel: 6,
+    subject: "Social Science",
+    chapter: "Chapter 10: Traders, Kings and Pilgrims",
+    question: "What role did Buddhist monastic establishments along trade routes (such as Kanheri, Karle, and Ajanta rock-cut chaityas and viharas) play in ancient commerce?",
+    options: [
+      "They served as secure rest stops, financial banking vaults, and provisioning stations for traveling merchant caravans passing through Western Ghat passes",
+      "They were military garrisons",
+      "They manufactured silk",
+      "They minted royal coins"
+    ],
+    correctAnswer: 0,
+    difficulty: "HARD",
+    damage: 350,
+    explanation: "Rock-cut viharas located along mountain passes (Bhor Ghat, Thal Ghat) offered safe lodging, credit, and water for merchant guilds."
+  },
+  {
+    classLevel: 6,
+    subject: "Social Science",
+    chapter: "Chapter 10: Traders, Kings and Pilgrims",
+    question: "How did the Bhakti philosophy transform Indian art, poetry, and regional vernacular languages?",
+    options: [
+      "It inspired an explosion of devotional poetry, music, and sculpture composed in popular regional spoken languages (Tamil, Kannada, Marathi, Hindi) rather than exclusive elite Sanskrit alone",
+      "It banned all vernacular poetry",
+      "It stopped people from painting",
+      "It mandated writing books only in Greek"
+    ],
+    correctAnswer: 0,
+    difficulty: "HARD",
+    damage: 350,
+    explanation: "Bhakti democratized culture, spawning vernacular literature (Tevaram, Divya Prabandham) and emotive temple sculpture."
+  },
+  {
+    classLevel: 6,
+    subject: "Social Science",
+    chapter: "Chapter 10: Traders, Kings and Pilgrims",
+    question: "What is the profound philosophical meaning behind the Bhagavad Gita's teaching on 'Nishkama Karma' in the context of Bhakti?",
+    options: [
+      "Performing one's righteous duty selflessly without selfish attachment to the fruits or rewards of action, dedicating all outcomes in love to the Divine",
+      "Renouncing all work and sitting idle",
+      "Fighting wars to acquire personal wealth",
+      "Doing good deeds only for praise"
+    ],
+    correctAnswer: 0,
+    difficulty: "HARD",
+    damage: 350,
+    explanation: "Nishkama Karma unites selfless duty with spiritual devotion, purifying human intent of egoistic desire."
+  },
+  {
+    classLevel: 6,
+    subject: "Social Science",
+    chapter: "Chapter 10: Traders, Kings and Pilgrims",
+    question: "What grand historical synthesis does Chapter 10 of NCERT History reveal about the ancient world?",
+    options: [
+      "A dynamic, interconnected world where trans-continental trade corridors, imperial patronage, philosophical reformations, and spiritual pilgrimages fostered deep cross-cultural synthesis across human civilization",
+      "A collection of completely isolated civilizations with zero contact",
+      "A world where only war existed without trade",
+      "A primitive society without roads or ideas"
+    ],
+    correctAnswer: 0,
+    difficulty: "HARD",
+    damage: 350,
+    explanation: "The chapter portrays an open, interconnected global ancient world enriched by trade, intellectual cross-pollination, and shared spiritual quest."
+  }
+];
+
+console.log('Generated Social Science Ch10:', socialQuestions.length);
+fs.writeFileSync('C:/EduVerse/class 6/cross_subject/social_ch10.json', JSON.stringify(socialQuestions, null, 2), 'utf8');

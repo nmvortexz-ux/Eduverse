@@ -1,0 +1,615 @@
+import fs from 'fs';
+
+// -------------------------------------------------------------
+// SUBJECT 3: English - Chapter 10: The Banyan Tree (40 Questions)
+// -------------------------------------------------------------
+const englishQuestions = [
+  // EASY (12)
+  {
+    classLevel: 6,
+    subject: "English",
+    chapter: "Chapter 10: The Banyan Tree",
+    question: "Who is the world-renowned Indian author who wrote the autobiographical nature story 'The Banyan Tree'?",
+    options: ["Ruskin Bond", "R.K. Narayan", "Mulk Raj Anand", "Vikram Seth"],
+    correctAnswer: 0,
+    difficulty: "EASY",
+    damage: 150,
+    explanation: "Ruskin Bond penned 'The Banyan Tree', describing his childhood natural explorations in his grandfather's garden in Dehradun."
+  },
+  {
+    classLevel: 6,
+    subject: "English",
+    chapter: "Chapter 10: The Banyan Tree",
+    question: "Why did the young boy (narrator) claim that the magnificent old banyan tree belonged exclusively to HIM rather than his grandfather?",
+    options: [
+      "Because his sixty-five-year-old grandfather was too old to climb trees anymore",
+      "Because the boy bought the tree with pocket money",
+      "Because the tree was planted by the boy",
+      "Because grandfather hated trees"
+    ],
+    correctAnswer: 0,
+    difficulty: "EASY",
+    damage: 150,
+    explanation: "Grandfather at sixty-five had lost the agility to climb, making the sprawling banyan the young boy's private leafy kingdom."
+  },
+  {
+    classLevel: 6,
+    subject: "English",
+    chapter: "Chapter 10: The Banyan Tree",
+    question: "Which small creature in the banyan tree became the narrator's first bold friend, even eating pieces of cake and biscuits out of his hand?",
+    options: ["A small grey Squirrel", "A green parrot", "A white rabbit", "A chameleon"],
+    correctAnswer: 0,
+    difficulty: "EASY",
+    damage: 150,
+    explanation: "A young grey squirrel shed its initial fear when it found the boy carried no catapult, soon eating crumbs from his hand."
+  },
+  {
+    classLevel: 6,
+    subject: "English",
+    chapter: "Chapter 10: The Banyan Tree",
+    question: "What did the boy build halfway up the banyan tree so he could spend hot afternoons reading adventure books?",
+    options: [
+      "A crude wooden platform with cushions",
+      "A stone castle",
+      "A glass house",
+      "An iron cage"
+    ],
+    correctAnswer: 0,
+    difficulty: "EASY",
+    damage: 150,
+    explanation: "The boy built a makeshift treehouse platform among the leafy branches, reading 'Treasure Island' and 'Robinson Crusoe'."
+  },
+  {
+    classLevel: 6,
+    subject: "English",
+    chapter: "Chapter 10: The Banyan Tree",
+    question: "What dramatic classic battle of nature did the boy witness from his banyan tree platform on a drowsy summer afternoon?",
+    options: [
+      "A deadly fight between a huge black Cobra and a nimble grey Mongoose",
+      "A fight between a tiger and an elephant",
+      "A race between two horses",
+      "A battle between eagles"
+    ],
+    correctAnswer: 0,
+    difficulty: "EASY",
+    damage: 150,
+    explanation: "The boy witnessed the primordial duel between a 6-foot venomous black cobra and an agile 3-foot mongoose."
+  },
+  {
+    classLevel: 6,
+    subject: "English",
+    chapter: "Chapter 10: The Banyan Tree",
+    question: "What two bird spectators perched on a nearby cactus bush to watch the cobra-mongoose fight?",
+    options: ["A Crow and a Myna", "An Eagle and a Hawk", "A Parrot and a Pigeon", "A Peacock and a Sparrow"],
+    correctAnswer: 0,
+    difficulty: "EASY",
+    damage: 150,
+    explanation: "A jungle crow and a myna sat on a prickly cactus bush, acting as eager onlookers and attempting to dive into the fight."
+  },
+  {
+    classLevel: 6,
+    subject: "English",
+    chapter: "Chapter 10: The Banyan Tree",
+    question: "What happened to the foolish Crow when it persistently dived at the cobra during the battle?",
+    options: [
+      "The cobra whipped its head back with lightning speed and struck the crow with its snout, flinging it dead onto the garden path",
+      "The crow flew away with the cobra",
+      "The crow won the fight",
+      "The myna saved the crow"
+    ],
+    correctAnswer: 0,
+    difficulty: "EASY",
+    damage: 150,
+    explanation: "On its third reckless dive, the cobra countered with a lightning strike, fatally colliding with the crow."
+  },
+  {
+    classLevel: 6,
+    subject: "English",
+    chapter: "Chapter 10: The Banyan Tree",
+    question: "Who emerged VICTORIOUS in the epic duel beneath the banyan tree?",
+    options: [
+      "The Mongoose (which dragged the defeated cobra into the bushes)",
+      "The Cobra",
+      "The Myna",
+      "The Crow"
+    ],
+    correctAnswer: 0,
+    difficulty: "EASY",
+    damage: 150,
+    explanation: "The mongoose exhausted the cobra with lightning feints, bit through its spine, and dragged its carcass into the bushes."
+  },
+  {
+    classLevel: 6,
+    subject: "English",
+    chapter: "Chapter 10: The Banyan Tree",
+    question: "In the supplementary story 'A Strange Wrestling Match', who was Vijay Singh?",
+    options: [
+      "A famous, boastful wrestler who was unbeatable in the wrestling pit but had a fatal weakness for foolish bragging",
+      "A timid ghost in a well",
+      "A greedy shopkeeper",
+      "A learned school teacher"
+    ],
+    correctAnswer: 0,
+    difficulty: "EASY",
+    damage: 150,
+    explanation: "Vijay Singh was a hulking champion wrestler with massive muscles who foolishly boasted he wanted to wrestle a ghost."
+  },
+  {
+    classLevel: 6,
+    subject: "English",
+    chapter: "Chapter 10: The Banyan Tree",
+    question: "What was Vijay Singh's boastful claim that led him to travel to the Haunted Deserts?",
+    options: [
+      "That he was not afraid of any ghost and wished to meet a real ghost to teach him a wrestling lesson",
+      "That he could lift a mountain",
+      "That he could run faster than a cheetah",
+      "That he could drink an entire river"
+    ],
+    correctAnswer: 0,
+    difficulty: "EASY",
+    damage: 150,
+    explanation: "In an unguarded moment of bravado, Vijay Singh declared his desire to meet and thrash a ghost in the Haunted Desert."
+  },
+  {
+    classLevel: 6,
+    subject: "English",
+    chapter: "Chapter 10: The Banyan Tree",
+    question: "What two seemingly bizarre gifts did the eccentric old woman in the village give Vijay Singh in a packet before his departure?",
+    options: ["A raw egg and a lump of sea salt", "A gold coin and a sword", "A torch and a blanket", "A bottle of holy water and sweets"],
+    correctAnswer: 0,
+    difficulty: "EASY",
+    damage: 150,
+    explanation: "The old woman handed him a small bag containing an ordinary raw egg and a lump of rock salt."
+  },
+  {
+    classLevel: 6,
+    subject: "English",
+    chapter: "Chapter 10: The Banyan Tree",
+    question: "Who was Natwar in 'A Strange Wrestling Match'?",
+    options: [
+      "The ghost who haunted the desert and tried to deceive and kill Vijay Singh",
+      "Vijay Singh's best friend",
+      "A camel driver",
+      "The king of the village"
+    ],
+    correctAnswer: 0,
+    difficulty: "EASY",
+    damage: 150,
+    explanation: "Natwar was the ghost of the Haunted Desert who lured travelers to their doom until he met Vijay Singh."
+  },
+
+  // MEDIUM (16)
+  {
+    classLevel: 6,
+    subject: "English",
+    chapter: "Chapter 10: The Banyan Tree",
+    question: "How did Vijay Singh trick the ghost Natwar into believing that he possessed superhuman physical strength by squeezing a rock?",
+    options: [
+      "Vijay Singh secretly slipped the raw egg into his palm alongside a rock, squeezed hard until yellow yolk oozed out, making the ghost think he crushed stone into liquid",
+      "He broke the rock with a hammer",
+      "He used magical spells",
+      "He threw the rock into the sky"
+    ],
+    correctAnswer: 0,
+    difficulty: "MEDIUM",
+    damage: 250,
+    explanation: "Vijay Singh's sleight of hand substituted the egg; crushing it fooled the naive ghost into believing he squeezed liquid from rock."
+  },
+  {
+    classLevel: 6,
+    subject: "English",
+    chapter: "Chapter 10: The Banyan Tree",
+    question: "How did Vijay Singh trick the ghost a second time using the lump of salt?",
+    options: [
+      "He handed the ghost another stone containing the salt lump, crushed the salt into fine powder in darkness, and made the ghost taste the salty stone dust",
+      "He threw salt into the ghost's eyes",
+      "He dissolved the ghost in salt water",
+      "He baked bread with salt"
+    ],
+    correctAnswer: 0,
+    difficulty: "MEDIUM",
+    damage: 250,
+    explanation: "Vijay Singh pulverized the brittle rock salt lump in his grip, convincing the terrified ghost he had turned stone into salt powder."
+  },
+  {
+    classLevel: 6,
+    subject: "English",
+    chapter: "Chapter 10: The Banyan Tree",
+    question: "How did Vijay Singh outwit the ghost's nocturnal assassination attempt inside the ghost's cave?",
+    options: [
+      "Vijay Singh slipped out of bed, placed a bolster/pillow under the blanket to resemble a sleeping body, and hid in the corner while the ghost struck the bed seven times with a stout club",
+      "He tied the ghost to a tree",
+      "He stayed awake with a sword",
+      "He set fire to the cave"
+    ],
+    correctAnswer: 0,
+    difficulty: "MEDIUM",
+    damage: 250,
+    explanation: "Vijay Singh rolled a bolster under his blanket; the ghost battered the pillow with a club thinking he had killed the wrestler."
+  },
+  {
+    classLevel: 6,
+    subject: "English",
+    chapter: "Chapter 10: The Banyan Tree",
+    question: "What witty psychological remark did Vijay Singh make to the terrified ghost the next morning after the clubbing incident?",
+    options: [
+      "He yawned casually and complained that some pesky insect had flapped its wings and tickled him during the night",
+      "He threatened to arrest the ghost",
+      "He asked for breakfast",
+      "He pretended to be dead"
+    ],
+    correctAnswer: 0,
+    difficulty: "MEDIUM",
+    damage: 250,
+    explanation: "By dismissing seven crushing club blows as mere 'insect wing flaps', Vijay Singh utterly demoralized the terrified ghost."
+  },
+  {
+    classLevel: 6,
+    subject: "English",
+    chapter: "Chapter 10: The Banyan Tree",
+    question: "What was the final outcome of Vijay Singh's encounter with the ghost in the Haunted Desert?",
+    options: [
+      "The terrified ghost fled the desert forever, leaving behind all his plundered wealth which Vijay Singh returned to the robbed villagers, and Vijay never boasted again",
+      "The ghost killed Vijay Singh",
+      "Vijay Singh became the new ghost",
+      "They became wrestling partners"
+    ],
+    correctAnswer: 0,
+    difficulty: "MEDIUM",
+    damage: 250,
+    explanation: "The ghost abandoned the desert; Vijay Singh restored stolen treasures to rightful owners and renounced boastful pride."
+  },
+  {
+    classLevel: 6,
+    subject: "English",
+    chapter: "Chapter 10: The Banyan Tree",
+    question: "Why did the Myna fly away safely while the Crow died in 'The Banyan Tree'?",
+    options: [
+      "The Myna learned from the crow's fatal mistake, wisely stayed perched on the cactus bush, and merely congratulated the victor with a shrill cry",
+      "Because the myna was faster than light",
+      "Because the cobra was afraid of mynas",
+      "Because the boy caught the myna"
+    ],
+    correctAnswer: 0,
+    difficulty: "MEDIUM",
+    damage: 250,
+    explanation: "The myna exercised prudent caution, declining to intervene in a battle between lethal apex specialists."
+  },
+  {
+    classLevel: 6,
+    subject: "English",
+    chapter: "Chapter 10: The Banyan Tree",
+    question: "What special physiological defense does the Mongoose deploy during its combat with the cobra?",
+    options: [
+      "Its thick bushy tail and bristled hair make it look twice as large and absorb grazing strikes, while its rapid footwork allows instant dodging",
+      "It shoots venom from its eyes",
+      "It burrows underground instantly",
+      "It plays dead"
+    ],
+    correctAnswer: 0,
+    difficulty: "MEDIUM",
+    damage: 250,
+    explanation: "Bristling piloerection creates a defensive fur shield while maximizing optical intimidation."
+  },
+  {
+    classLevel: 6,
+    subject: "English",
+    chapter: "Chapter 10: The Banyan Tree",
+    question: "What does the word 'Catapult' (slingshot) refer to in Ruskin Bond's story?",
+    options: [
+      "A Y-shaped wooden stick with rubber bands used by young boys to shoot stones at birds and small animals",
+      "A large ship",
+      "A fishing rod",
+      "A gardening shovel"
+    ],
+    correctAnswer: 0,
+    difficulty: "MEDIUM",
+    damage: 250,
+    explanation: "A catapult is a handheld slingshot; the squirrel trusted the boy because he carried no hostile weapons."
+  },
+  {
+    classLevel: 6,
+    subject: "English",
+    chapter: "Chapter 10: The Banyan Tree",
+    question: "What white, miraculous creatures were discovered inside the nest in the banyan tree after the squirrel mated with a pet white rat?",
+    options: [
+      "Three baby WHITE Squirrels (a rare biological marvel in grandfather's garden)",
+      "Three white bats",
+      "Three white snakes",
+      "Three white pigeons"
+    ],
+    correctAnswer: 0,
+    difficulty: "MEDIUM",
+    damage: 250,
+    explanation: "In an astonishing cross-species hybrid episode, grandfather found three tiny albino white baby squirrels."
+  },
+  {
+    classLevel: 6,
+    subject: "English",
+    chapter: "Chapter 10: The Banyan Tree",
+    question: "What does the phrase 'to take the wind out of someone's sails' mean when Vijay Singh confronted the ghost?",
+    options: [
+      "To suddenly destroy someone's confidence, pride, or advantage by doing or saying something unexpected",
+      "To stop a sailing ship",
+      "To blow a storm with one's breath",
+      "To run out of air"
+    ],
+    correctAnswer: 0,
+    difficulty: "MEDIUM",
+    damage: 250,
+    explanation: "Vijay Singh's fearless assertiveness disarmed the ghost, deflating his supernatural intimidation."
+  },
+  {
+    classLevel: 6,
+    subject: "English",
+    chapter: "Chapter 10: The Banyan Tree",
+    question: "Why was the banyan tree described as 'older than the house, older than grandfather, as old as Dehra Dun itself'?",
+    options: [
+      "To emphasize the immense majestic age, vast spreading root branches, and timeless ecological heritage of the tree",
+      "Because the tree was built of stone",
+      "Because grandfather built the tree",
+      "Because the city had only one tree"
+    ],
+    correctAnswer: 0,
+    difficulty: "MEDIUM",
+    damage: 250,
+    explanation: "Bond captures the ancient, sprawling majesty of the giant Ficus benghalensis anchoring the valley's history."
+  },
+  {
+    classLevel: 6,
+    subject: "English",
+    chapter: "Chapter 10: The Banyan Tree",
+    question: "Who is the author of the entertaining folktale 'A Strange Wrestling Match'?",
+    options: ["Indira David (abridged Rajasthan folktale)", "Ruskin Bond", "Zai Whitaker", "Premchand"],
+    correctAnswer: 0,
+    difficulty: "MEDIUM",
+    damage: 250,
+    explanation: "Indira David adapted this humorous Rajasthani folktale celebrating wit over physical brawn."
+  },
+  {
+    classLevel: 6,
+    subject: "English",
+    chapter: "Chapter 10: The Banyan Tree",
+    question: "What classic folktale moral is demonstrated by Vijay Singh's victory over the supernatural ghost?",
+    options: [
+      "Wit, presence of mind, and fearless intelligence can outmatch and conquer even terrifying, seemingly invincible opponents",
+      "Ghosts are very friendly",
+      "Wrestlers should never eat salt",
+      "Deserts are the best place to live"
+    ],
+    correctAnswer: 0,
+    difficulty: "MEDIUM",
+    damage: 250,
+    explanation: "Sharp intellect, psychological fortitude, and quick wit triumph over brute force and supernatural fear."
+  },
+  {
+    classLevel: 6,
+    subject: "English",
+    chapter: "Chapter 10: The Banyan Tree",
+    question: "What does the word 'Grumble' mean when grandfather reacted to grandmother's remarks?",
+    options: ["To complain in a low, bad-tempered, muttering voice", "To shout with joy", "To sing a song", "To laugh heartily"],
+    correctAnswer: 0,
+    difficulty: "MEDIUM",
+    damage: 250,
+    explanation: "'To grumble' signifies expressing discontent through muttered, low-pitched complaints."
+  },
+  {
+    classLevel: 6,
+    subject: "English",
+    chapter: "Chapter 10: The Banyan Tree",
+    question: "Why did the cobra raise three of its six feet off the ground and spread its broad, spectacled hood?",
+    options: [
+      "As an intimidating combat stance to hypnotize, terrify, and strike down the mongoose from an elevated angle",
+      "To look for food in the sky",
+      "To catch raindrops",
+      "To sleep"
+    ],
+    correctAnswer: 0,
+    difficulty: "MEDIUM",
+    damage: 250,
+    explanation: "The elevated hood posture maximizes visual threat display and provides mechanical leverage for downward strikes."
+  },
+  {
+    classLevel: 6,
+    subject: "English",
+    chapter: "Chapter 10: The Banyan Tree",
+    question: "In 'The Banyan Tree', how did the boy feel while sitting quietly in the banyan tree during spring?",
+    options: [
+      "He felt a profound, intimate kinship with nature, surrounded by chirping birds, buzzing bees, and red figs",
+      "He felt bored and lonely",
+      "He was terrified of falling",
+      "He wanted to chop down the tree"
+    ],
+    correctAnswer: 0,
+    difficulty: "MEDIUM",
+    damage: 250,
+    explanation: "Bond captures the sublime romantic communion between a sensitive child observer and the vibrant natural world."
+  },
+
+  // HARD (12)
+  {
+    classLevel: 6,
+    subject: "English",
+    chapter: "Chapter 10: The Banyan Tree",
+    question: "Read the statements:\nAssertion (A): The duel between the cobra and the mongoose is characterized by Ruskin Bond as a high-stakes psychological and physical chess match of speed vs strike power.\nReason (R): The mongoose relies on relentless aerobic stamina, rapid feints, and dodging to exhaust the cobra's anaerobic glycogen reserves before delivering a lethal cervical strike.\nChoose the correct option:",
+    options: [
+      "Both (A) and (R) are true, and (R) is the correct explanation of (A).",
+      "Both (A) and (R) are true, but (R) is NOT the correct explanation of (A).",
+      "(A) is true, but (R) is false.",
+      "(A) is false, but (R) is true."
+    ],
+    correctAnswer: 0,
+    difficulty: "HARD",
+    damage: 350,
+    explanation: "Bond's narrative captures physiological reality: mammals utilize superior aerobic endurance against poikilothermic reptilian anaerobic strike bursts."
+  },
+  {
+    classLevel: 6,
+    subject: "English",
+    chapter: "Chapter 10: The Banyan Tree",
+    question: "Spot the IMPOSTER in the following group of characters/elements paired with their texts from Chapter 10:\nGroup: [Ruskin Bond - Narrator of Banyan Tree, Vijay Singh - Boastful wrestler, Natwar - Ghost of Haunted Desert, Makara - The Crocodile from Banyan Tree]",
+    options: ["Ruskin Bond - Narrator of Banyan Tree", "Vijay Singh - Boastful wrestler", "Natwar - Ghost of Haunted Desert", "Makara - The Crocodile from Banyan Tree"],
+    correctAnswer: 3,
+    difficulty: "HARD",
+    damage: 350,
+    explanation: "'Makara' is from CHAPTER 9 ('What Happened to the Reptiles'), NOT from Chapter 10 ('The Banyan Tree')."
+  },
+  {
+    classLevel: 6,
+    subject: "English",
+    chapter: "Chapter 10: The Banyan Tree",
+    question: "Analyze how Vijay Singh's boastfulness in the opening of the story represents a classic folkloric character arc:",
+    options: [
+      "His hubristic flaw (vanity and bragging) leads him into mortal peril, which he survives through razor-sharp wit, emerging thoroughly humbled and wiser",
+      "He becomes a magical wizard",
+      "He loses his memory",
+      "He joins the ghosts in haunting deserts"
+    ],
+    correctAnswer: 0,
+    difficulty: "HARD",
+    damage: 350,
+    explanation: "The classic moral arc moves from hubristic vulnerability to intellectual realization and moral humility."
+  },
+  {
+    classLevel: 6,
+    subject: "English",
+    chapter: "Chapter 10: The Banyan Tree",
+    question: "Match Column I (Characters / Items) with Column II (Roles in Chapter 10):\n(a) Ruskin Bond    -> (i) Young boy observing nature from banyan tree platform\n(b) Grey Mongoose   -> (ii) Agile victor of the epic garden duel\n(c) Raw Egg & Salt  -> (iii) Improvised psychological props used to trick the ghost\n(d) Bolster / Pillow-> (iv) Decoy used under blanket to survive midnight clubbing",
+    options: [
+      "a-(i), b-(ii), c-(iii), d-(iv)",
+      "a-(ii), b-(i), c-(iv), d-(iii)",
+      "a-(iv), b-(iii), c-(ii), d-(i)",
+      "a-(iii), b-(iv), c-(i), d-(ii)"
+    ],
+    correctAnswer: 0,
+    difficulty: "HARD",
+    damage: 350,
+    explanation: "Bond = narrator; Mongoose = victor; Egg/Salt = psychological props; Bolster = bed decoy."
+  },
+  {
+    classLevel: 6,
+    subject: "English",
+    chapter: "Chapter 10: The Banyan Tree",
+    question: "Read the statements:\nStatement 1: Ruskin Bond received the Sahitya Akademi Award in 1992 and the Padma Bhushan in 2014.\nStatement 2: The banyan tree has prop roots that grow downwards from branches into the soil, forming pillar-like secondary trunks.\nStatement 3: Vijay Singh was defeated in a wrestling ring by a ghost.\nWhich statements are TRUE?",
+    options: ["Statements 1 and 2 only", "Statements 2 and 3 only", "Statements 1 and 3 only", "All Statements 1, 2, and 3"],
+    correctAnswer: 0,
+    difficulty: "HARD",
+    damage: 350,
+    explanation: "Statement 3 is false because Vijay Singh outwitted and routed the ghost completely. Statements 1 and 2 are true."
+  },
+  {
+    classLevel: 6,
+    subject: "English",
+    chapter: "Chapter 10: The Banyan Tree",
+    question: "Identify the figure of speech in Ruskin Bond's description:\n'The old banyan tree was a world in itself, teeming with life.'",
+    options: [
+      "Metaphor (implicit comparison identifying the banyan tree directly as an entire self-contained universe/world)",
+      "Simile",
+      "Oxymoron",
+      "Alliteration"
+    ],
+    correctAnswer: 0,
+    difficulty: "HARD",
+    damage: 350,
+    explanation: "Direct figurative equation of the micro-ecosystem with a complete 'world' without 'like' or 'as' constitutes a Metaphor."
+  },
+  {
+    classLevel: 6,
+    subject: "English",
+    chapter: "Chapter 10: The Banyan Tree",
+    question: "What is the grammatical classification of the underlined participle in: 'The boy sat on the branch, *watching* the fierce duel.'?",
+    options: [
+      "Present Participle functioning as a Participial Phrase modifying the subject 'The boy'",
+      "Gerund noun",
+      "Finite past verb",
+      "Preposition"
+    ],
+    correctAnswer: 0,
+    difficulty: "HARD",
+    damage: 350,
+    explanation: "'Watching' is a Present Participle forming an adverbial/adjectival participial phrase qualifying the subject."
+  },
+  {
+    classLevel: 6,
+    subject: "English",
+    chapter: "Chapter 10: The Banyan Tree",
+    question: "Why does Ruskin Bond describe the banyan tree as an 'unrivalled sanctuary' for bird and animal life in summer?",
+    options: [
+      "Its massive dense canopy provided cool shade, abundant red fig fruits for birds (parrots, bulbuls, mynas), and sheltering hollows for squirrels and insects",
+      "Because humans were banned from entering",
+      "Because it had iron gates",
+      "Because it grew in a zoo"
+    ],
+    correctAnswer: 0,
+    difficulty: "HARD",
+    damage: 350,
+    explanation: "Keystone ecological status: Ficus benghalensis provides perennial shade, thermal microclimates, and massive fig fruit yields."
+  },
+  {
+    classLevel: 6,
+    subject: "English",
+    chapter: "Chapter 10: The Banyan Tree",
+    question: "What psychological technique did Vijay Singh employ when he told the ghost: 'You are no ghost, but an ordinary imposter!'?",
+    options: [
+      "Reverse psychological intimidation to shatter the ghost's belief in its own terrifying supernatural supremacy",
+      "He wanted to become friends",
+      "He was reciting a poem",
+      "He forgot who he was talking to"
+    ],
+    correctAnswer: 0,
+    difficulty: "HARD",
+    damage: 350,
+    explanation: "Cognitive subversion: aggressively stripping the adversary of supernatural mystique destabilized the ghost's confidence."
+  },
+  {
+    classLevel: 6,
+    subject: "English",
+    chapter: "Chapter 10: The Banyan Tree",
+    question: "What is the meaning of the archaic/idiomatic term 'haunted' in folklore?",
+    options: [
+      "A location persistently visited or inhabited by spectral ghosts, spirits, or lingering dread",
+      "A place with high trees",
+      "A dry water well",
+      "A noisy marketplace"
+    ],
+    correctAnswer: 0,
+    difficulty: "HARD",
+    damage: 350,
+    explanation: "'Haunted' denotes supernatural occupancy by phantoms and spectral disturbances."
+  },
+  {
+    classLevel: 6,
+    subject: "English",
+    chapter: "Chapter 10: The Banyan Tree",
+    question: "Why did the grandfather refuse to allow the narrator to kill or disturb the mongoose in the garden?",
+    options: [
+      "Grandfather recognized that mongooses are natural, invaluable biological protectors that keep residential gardens free from lethal venomous snakes",
+      "Because the mongoose was made of gold",
+      "Because grandfather was afraid of the mongoose",
+      "Because the mongoose was a pet cat"
+    ],
+    correctAnswer: 0,
+    difficulty: "HARD",
+    damage: 350,
+    explanation: "Ecological balance: mongooses provide indispensable non-chemical apex protection against lethal viperids and elapids."
+  },
+  {
+    classLevel: 6,
+    subject: "English",
+    chapter: "Chapter 10: The Banyan Tree",
+    question: "What overarching humanist and ecological worldview defines the conclusion of the NCERT Class 6 English curriculum?",
+    options: [
+      "A deep reverence for the delicate web of nature, the power of wit and empathy over brute violence, and harmonious coexistence with all living beings",
+      "The supremacy of technology over forests",
+      "The need to eliminate all wild animals",
+      "The belief that only city life is valuable"
+    ],
+    correctAnswer: 0,
+    difficulty: "HARD",
+    damage: 350,
+    explanation: "The curriculum culminates in ecological mindfulness, reverence for nature's biodiversity, and emotional maturity."
+  }
+];
+
+console.log('Generated English Ch10:', englishQuestions.length);
+fs.writeFileSync('C:/EduVerse/class 6/cross_subject/english_ch10.json', JSON.stringify(englishQuestions, null, 2), 'utf8');

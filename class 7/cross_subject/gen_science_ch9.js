@@ -1,0 +1,540 @@
+import fs from 'fs';
+
+// -------------------------------------------------------------
+// SUBJECT 1: Science - Chapter 9: Motion and Time (40 Questions)
+// -------------------------------------------------------------
+const scienceQuestions = [
+  // EASY (12)
+  {
+    classLevel: 7,
+    subject: "Science",
+    chapter: "Chapter 9: Motion and Time",
+    question: "What is defined as the total distance covered by a moving object per unit of time?",
+    options: ["Speed (Speed = Distance / Time)", "Acceleration", "Velocity only", "Force"],
+    correctAnswer: 0,
+    difficulty: "EASY",
+    damage: 150,
+    explanation: "Speed is the scalar physical rate of change of position: Speed = Distance covered / Time taken."
+  },
+  {
+    classLevel: 7,
+    subject: "Science",
+    chapter: "Chapter 9: Motion and Time",
+    question: "What is the basic SI unit of SPEED?",
+    options: ["Metre per second (m/s)", "Kilometre per hour (km/h)", "Metre per minute", "Centimetre per second"],
+    correctAnswer: 0,
+    difficulty: "EASY",
+    damage: 150,
+    explanation: "The standard SI unit of distance is metre (m) and time is second (s), making the SI unit of speed m/s."
+  },
+  {
+    classLevel: 7,
+    subject: "Science",
+    chapter: "Chapter 9: Motion and Time",
+    question: "What is the basic SI unit of TIME?",
+    options: ["Second (s)", "Minute (min)", "Hour (h)", "Day"],
+    correctAnswer: 0,
+    difficulty: "EASY",
+    damage: 150,
+    explanation: "The International System of Units (SI) base unit of time is the second (s)."
+  },
+  {
+    classLevel: 7,
+    subject: "Science",
+    chapter: "Chapter 9: Motion and Time",
+    question: "What type of motion occurs when an object moves along a straight line with a CONSTANT speed?",
+    options: ["Uniform Motion", "Non-uniform Motion", "Circular Motion", "Periodic Motion"],
+    correctAnswer: 0,
+    difficulty: "EASY",
+    damage: 150,
+    explanation: "Uniform rectilinear motion is motion in a straight path with invariant constant speed."
+  },
+  {
+    classLevel: 7,
+    subject: "Science",
+    chapter: "Chapter 9: Motion and Time",
+    question: "What is the to-and-fro oscillatory motion of a Simple Pendulum an example of?",
+    options: ["Periodic Motion (or Oscillatory Motion)", "Rectilinear Motion", "Rotational Motion", "Random Motion"],
+    correctAnswer: 0,
+    difficulty: "EASY",
+    damage: 150,
+    explanation: "A simple pendulum executes periodic oscillatory motion, repeating identical cycles at equal regular intervals."
+  },
+  {
+    classLevel: 7,
+    subject: "Science",
+    chapter: "Chapter 9: Motion and Time",
+    question: "What is the time taken by a pendulum to complete ONE FULL OSCILLATION called?",
+    options: ["Time Period (T)", "Frequency", "Amplitude", "Speed"],
+    correctAnswer: 0,
+    difficulty: "EASY",
+    damage: 150,
+    explanation: "The Time Period of a pendulum is the duration required for one complete to-and-fro cycle."
+  },
+  {
+    classLevel: 7,
+    subject: "Science",
+    chapter: "Chapter 9: Motion and Time",
+    question: "Which ancient astronomical time-measuring instrument at Jantar Mantar (New Delhi and Jaipur) measures time by tracking the moving shadow of the Sun cast on a calibrated dial?",
+    options: ["Sundial (e.g. Samrat Yantra)", "Water clock", "Sand hourglass", "Pendulum clock"],
+    correctAnswer: 0,
+    difficulty: "EASY",
+    damage: 150,
+    explanation: "A sundial uses the gnomon's solar shadow cast across graduated hour arcs to track solar time."
+  },
+  {
+    classLevel: 7,
+    subject: "Science",
+    chapter: "Chapter 9: Motion and Time",
+    question: "Which dashboard instrument in automobiles records and indicates the INSTANTANEOUS speed of the vehicle in km/h?",
+    options: ["Speedometer", "Odometer", "Thermometer", "Barometer"],
+    correctAnswer: 0,
+    difficulty: "EASY",
+    damage: 150,
+    explanation: "A speedometer measures and displays the vehicle's instantaneous travel speed in km/h."
+  },
+  {
+    classLevel: 7,
+    subject: "Science",
+    chapter: "Chapter 9: Motion and Time",
+    question: "Which vehicle dashboard instrument measures and displays the TOTAL DISTANCE traveled by the vehicle in kilometres?",
+    options: ["Odometer", "Speedometer", "Altimeter", "Chronometer"],
+    correctAnswer: 0,
+    difficulty: "EASY",
+    damage: 150,
+    explanation: "An odometer (mileometer) computes total cumulative vehicular distance in kilometres."
+  },
+  {
+    classLevel: 7,
+    subject: "Science",
+    chapter: "Chapter 9: Motion and Time",
+    question: "A car covers a distance of 100 km in 2 hours. What is the average speed of the car?",
+    options: ["50 km/h (Speed = 100 km / 2 h = 50 km/h)", "200 km/h", "25 km/h", "100 km/h"],
+    correctAnswer: 0,
+    difficulty: "EASY",
+    damage: 150,
+    explanation: "Average speed = Total distance / Total time = 100 km / 2 h = 50 km/h."
+  },
+  {
+    classLevel: 7,
+    subject: "Science",
+    chapter: "Chapter 9: Motion and Time",
+    question: "What shape does the Distance-Time Graph of an object moving with CONSTANT UNIFORM SPEED have?",
+    options: ["A straight straight inclined line passing through the origin", "A curved wavy line", "A circle", "A zig-zag line"],
+    correctAnswer: 0,
+    difficulty: "EASY",
+    damage: 150,
+    explanation: "For constant speed, distance is directly proportional to time (d = v·t), yielding a straight linear slope on a distance-time graph."
+  },
+  {
+    classLevel: 7,
+    subject: "Science",
+    chapter: "Chapter 9: Motion and Time",
+    question: "What does a HORIZONTAL FLAT LINE parallel to the time axis on a Distance-Time Graph represent?",
+    options: ["The object is stationary (at rest / not moving)", "The object is moving at light speed", "The object is moving backwards", "The object is accelerating"],
+    correctAnswer: 0,
+    difficulty: "EASY",
+    damage: 150,
+    explanation: "Zero slope (horizontal line) indicates distance remains constant as time elapses, meaning speed = 0 (object at rest)."
+  },
+
+  // MEDIUM (16)
+  {
+    classLevel: 7,
+    subject: "Science",
+    chapter: "Chapter 9: Motion and Time",
+    question: "Which famous Italian scientist discovered that a pendulum of a given length always takes the EXACT SAME TIME to complete one oscillation (Isochronism of the Pendulum)?",
+    options: ["Galileo Galilei (in 1583)", "Isaac Newton", "Albert Einstein", "René Laennec"],
+    correctAnswer: 0,
+    difficulty: "MEDIUM",
+    damage: 250,
+    explanation: "Galileo observed swinging cathedral chandeliers and proved that pendulum period depends solely on length, independent of mass or small amplitude."
+  },
+  {
+    classLevel: 7,
+    subject: "Science",
+    chapter: "Chapter 9: Motion and Time",
+    question: "A simple pendulum takes 32 seconds to complete 20 full oscillations. What is the TIME PERIOD of the pendulum?",
+    options: ["1.6 seconds (Time Period = Total time / Number of oscillations = 32 / 20 = 1.6 s)", "0.625 s", "640 s", "2.0 s"],
+    correctAnswer: 0,
+    difficulty: "MEDIUM",
+    damage: 250,
+    explanation: "Time period T = 32 s / 20 = 1.6 seconds per oscillation."
+  },
+  {
+    classLevel: 7,
+    subject: "Science",
+    chapter: "Chapter 9: Motion and Time",
+    question: "Convert a speed of 72 km/h into metres per second (m/s):",
+    options: ["20 m/s (72 × (5 / 18) = 4 × 5 = 20 m/s)", "25 m/s", "15 m/s", "30 m/s"],
+    correctAnswer: 0,
+    difficulty: "MEDIUM",
+    damage: 250,
+    explanation: "Conversion factor: 1 km/h = 5/18 m/s. 72 × (5/18) = 20 m/s."
+  },
+  {
+    classLevel: 7,
+    subject: "Science",
+    chapter: "Chapter 9: Motion and Time",
+    question: "Convert a speed of 15 m/s into kilometres per hour (km/h):",
+    options: ["54 km/h (15 × (18 / 5) = 3 × 18 = 54 km/h)", "60 km/h", "45 km/h", "50 km/h"],
+    correctAnswer: 0,
+    difficulty: "MEDIUM",
+    damage: 250,
+    explanation: "Conversion factor: 1 m/s = 18/5 km/h. 15 × (18/5) = 54 km/h."
+  },
+  {
+    classLevel: 7,
+    subject: "Science",
+    chapter: "Chapter 9: Motion and Time",
+    question: "A train is traveling at a speed of 90 km/h. How much distance in kilometres will it cover in 20 minutes?",
+    options: ["30 km (Time = 20/60 h = 1/3 h ; Distance = 90 × (1/3) = 30 km)", "45 km", "25 km", "60 km"],
+    correctAnswer: 0,
+    difficulty: "MEDIUM",
+    damage: 250,
+    explanation: "20 min = 1/3 h. Distance = 90 km/h × 1/3 h = 30 km."
+  },
+  {
+    classLevel: 7,
+    subject: "Science",
+    chapter: "Chapter 9: Motion and Time",
+    question: "The odometer of a car reads 57321.0 km at 08:30 AM. At 08:50 AM, the odometer reading increases to 57336.0 km. Calculate the speed of the car in km/min and km/h:",
+    options: [
+      "0.75 km/min and 45 km/h (Distance = 15 km ; Time = 20 min = 1/3 h ; Speed = 15 / 20 = 0.75 km/min ; Speed = 15 / (1/3) = 45 km/h)",
+      "0.5 km/min and 30 km/h",
+      "1.0 km/min and 60 km/h",
+      "0.8 km/min and 48 km/h"
+    ],
+    correctAnswer: 0,
+    difficulty: "MEDIUM",
+    damage: 250,
+    explanation: "Δd = 15 km, Δt = 20 min (1/3 h). Speed = 15/20 = 0.75 km/min = 45 km/h."
+  },
+  {
+    classLevel: 7,
+    subject: "Science",
+    chapter: "Chapter 9: Motion and Time",
+    question: "Salma takes 15 minutes from her house to reach her school on a bicycle. If the bicycle has a speed of 2 m/s, calculate the distance between her house and school in metres and kilometres:",
+    options: [
+      "1,800 m or 1.8 km (Time = 15 × 60 = 900 s ; Distance = 2 m/s × 900 s = 1,800 m = 1.8 km)",
+      "1,200 m or 1.2 km",
+      "2,400 m or 2.4 km",
+      "1,500 m or 1.5 km"
+    ],
+    correctAnswer: 0,
+    difficulty: "MEDIUM",
+    damage: 250,
+    explanation: "Time = 15 × 60 = 900 s. Distance = 2 m/s × 900 s = 1800 m = 1.8 km."
+  },
+  {
+    classLevel: 7,
+    subject: "Science",
+    chapter: "Chapter 9: Motion and Time",
+    question: "How do modern electronic Quartz Clocks and wristwatches measure time with extreme precision?",
+    options: [
+      "They contain a micro-electric circuit driven by the extremely steady, high-frequency piezoelectric vibrations of a tiny Quartz Crystal (32,768 Hz)",
+      "They have tiny gears moved by running water",
+      "They contain tiny burning candles",
+      "They track shadows inside the watch"
+    ],
+    correctAnswer: 0,
+    difficulty: "MEDIUM",
+    damage: 250,
+    explanation: "Piezoelectric quartz crystals oscillate at precisely 32,768 Hz when energized, providing accurate electronic frequency division."
+  },
+  {
+    classLevel: 7,
+    subject: "Science",
+    chapter: "Chapter 9: Motion and Time",
+    question: "What physical property determines the Time Period of a simple pendulum?",
+    options: [
+      "The LENGTH of the pendulum string (T = 2π√(L/g)) ; it is independent of the mass of the bob or small amplitude swings",
+      "The color of the bob",
+      "The heaviness of the bob only",
+      "The room temperature"
+    ],
+    correctAnswer: 0,
+    difficulty: "MEDIUM",
+    damage: 250,
+    explanation: "Period T depends only on pendulum length L and gravitational acceleration g (T = 2π√(L/g))."
+  },
+  {
+    classLevel: 7,
+    subject: "Science",
+    chapter: "Chapter 9: Motion and Time",
+    question: "What does a CURVED line with increasing steepness on a Distance-Time Graph indicate?",
+    options: [
+      "Non-uniform motion with accelerating (increasing) speed",
+      "Uniform constant speed",
+      "The object is at rest",
+      "The object is going backwards in time"
+    ],
+    correctAnswer: 0,
+    difficulty: "MEDIUM",
+    damage: 250,
+    explanation: "A convex ascending curve shows that distance increases at an accelerating rate per unit time, indicating acceleration."
+  },
+  {
+    classLevel: 7,
+    subject: "Science",
+    chapter: "Chapter 9: Motion and Time",
+    question: "Which of the following natural events was used by ancient humans to measure a 'MONTH'?",
+    options: [
+      "The time between one New Moon and the NEXT New Moon (Lunar Cycle ~ 29.5 days)",
+      "The time between one sunrise and the next",
+      "The time taken for a tree to grow fruit",
+      "The time taken for a river to dry"
+    ],
+    correctAnswer: 0,
+    difficulty: "MEDIUM",
+    damage: 250,
+    explanation: "Synodic lunar month: the 29.53-day cycle between successive new moons formed the basis of calendar months."
+  },
+  {
+    classLevel: 7,
+    subject: "Science",
+    chapter: "Chapter 9: Motion and Time",
+    question: "Which of the following natural events was used by ancient humans to measure a 'YEAR'?",
+    options: [
+      "The time taken by the Earth to complete one full revolution around the Sun (approx. 365 1/4 days, marked by seasonal cycles)",
+      "The time between morning and evening",
+      "The duration of a single rainfall",
+      "The life of a flower"
+    ],
+    correctAnswer: 0,
+    difficulty: "MEDIUM",
+    damage: 250,
+    explanation: "The solar year is defined by Earth's heliocentric orbital revolution (~365.25 days) governing the annual return of seasons."
+  },
+  {
+    classLevel: 7,
+    subject: "Science",
+    chapter: "Chapter 9: Motion and Time",
+    question: "A rocket travels at a speed of 8 km/s. How much time will it take to reach a satellite stationed 36,000 km away in orbit?",
+    options: ["4,500 seconds or 1.25 hours (Time = 36,000 / 8 = 4,500 s = 75 min = 1.25 h)", "3,600 seconds", "4,000 seconds", "5,000 seconds"],
+    correctAnswer: 0,
+    difficulty: "MEDIUM",
+    damage: 250,
+    explanation: "Time = 36,000 km / 8 km/s = 4500 seconds (75 minutes / 1.25 hours)."
+  },
+  {
+    classLevel: 7,
+    subject: "Science",
+    chapter: "Chapter 9: Motion and Time",
+    question: "If two cars A and B are moving in the same direction, and on a Distance-Time graph the line for Car A is STEEPER than the line for Car B, what does this conclude?",
+    options: [
+      "Car A is moving FASTER than Car B (Steeper slope = Higher speed)",
+      "Car B is faster than Car A",
+      "Both cars have equal speed",
+      "Car A has stopped moving"
+    ],
+    correctAnswer: 0,
+    difficulty: "MEDIUM",
+    damage: 250,
+    explanation: "Slope of distance-time graph = Δd/Δt = Speed. Greater slope signifies higher velocity."
+  },
+  {
+    classLevel: 7,
+    subject: "Science",
+    chapter: "Chapter 9: Motion and Time",
+    question: "What is the speed of a cheetah that runs a distance of 100 metres in exactly 4 seconds?",
+    options: ["25 m/s or 90 km/h (Speed = 100 / 4 = 25 m/s ; 25 × (18/5) = 90 km/h)", "20 m/s or 72 km/h", "30 m/s or 108 km/h", "15 m/s or 54 km/h"],
+    correctAnswer: 0,
+    difficulty: "MEDIUM",
+    damage: 250,
+    explanation: "Speed = 100 m / 4 s = 25 m/s = 25 × 3.6 = 90 km/h."
+  },
+  {
+    classLevel: 7,
+    subject: "Science",
+    chapter: "Chapter 9: Motion and Time",
+    question: "What is the speed of sound in dry air at room temperature (approx. 20°C)?",
+    options: ["Approx. 343 m/s (approx. 1,235 km/h)", "3,000 m/s", "30 m/s", "300,000 km/s"],
+    correctAnswer: 0,
+    difficulty: "MEDIUM",
+    damage: 250,
+    explanation: "The acoustic velocity of sound in dry air at 20°C is approximately 343 m/s (1,235 km/h)."
+  },
+
+  // HARD (12)
+  {
+    classLevel: 7,
+    subject: "Science",
+    chapter: "Chapter 9: Motion and Time",
+    question: "Read the statements:\nAssertion (A): The slope of a Distance-Time graph represents the instantaneous or uniform Speed of a moving body.\nReason (R): Slope on a Cartesian plane is defined as the vertical change (Δy = Distance) divided by the horizontal change (Δx = Time), which is the exact mathematical definition of Speed (v = Δs / Δt).\nChoose the correct option:",
+    options: [
+      "Both (A) and (R) are true, and (R) is the correct explanation of (A).",
+      "Both (A) and (R) are true, but (R) is NOT the correct explanation of (A).",
+      "(A) is true, but (R) is false.",
+      "(A) is false, but (R) is true."
+    ],
+    correctAnswer: 0,
+    difficulty: "HARD",
+    damage: 350,
+    explanation: "Geometric calculus: derivative / slope of displacement with respect to time (ds/dt) equals speed."
+  },
+  {
+    classLevel: 7,
+    subject: "Science",
+    chapter: "Chapter 9: Motion and Time",
+    question: "Spot the IMPOSTER in the following group of Time-Measuring Devices and their operating principles:\nGroup:\n1. Sundial - Gnomon solar shadow cast by earth's rotation\n2. Water Clock (Clepsydra) - Regulated inflow/outflow of liquid through narrow orifice\n3. Quartz Watch - High-frequency piezoelectric crystal oscillations\n4. Simple Pendulum - Burning chemical powder to move wheels",
+    options: ["Device 1", "Device 2", "Device 3", "Device 4 (A simple pendulum uses MECHANICAL GRAVITATIONAL HARMONIC OSCILLATION, not burning gunpowder)"],
+    correctAnswer: 3,
+    difficulty: "HARD",
+    damage: 350,
+    explanation: "Device 4 is an imposter: a pendulum operates on gravitational restorative torque, not combustion."
+  },
+  {
+    classLevel: 7,
+    subject: "Science",
+    chapter: "Chapter 9: Motion and Time",
+    question: "If a simple pendulum of length L has a time period of 2.0 seconds, what will happen to its time period if its length is increased by FOUR TIMES (4L)?",
+    options: [
+      "The time period will DOUBLE to 4.0 seconds (Since T ∝ √L, T' = √(4) × T = 2 × 2.0 = 4.0 s)",
+      "The time period will quadruple to 8.0 s",
+      "The time period will reduce to 1.0 s",
+      "The time period remains unchanged at 2.0 s"
+    ],
+    correctAnswer: 0,
+    difficulty: "HARD",
+    damage: 350,
+    explanation: "Formula T = 2π√(L/g). If length becomes 4L, new period T' = √(4) × T = 2 × 2.0 = 4.0 s."
+  },
+  {
+    classLevel: 7,
+    subject: "Science",
+    chapter: "Chapter 9: Motion and Time",
+    question: "Match Column I (Speed & Time Concepts) with Column II (Exact Definitions & Formulas):\n(a) Speedometer          -> (i) Instantaneous vehicular speed in km/h\n(b) Odometer             -> (ii) Cumulative distance traversed in km\n(c) Slope of D-T Graph   -> (iii) Rate of change of distance yielding speed\n(d) Atomic Clock (Cesium)-> (iv) Ultra-precise atomic microwave resonance (loss < 1 sec in millions of years)",
+    options: [
+      "a-(i), b-(ii), c-(iii), d-(iv)",
+      "a-(ii), b-(i), c-(iv), d-(iii)",
+      "a-(iv), b-(iii), c-(ii), d-(i)",
+      "a-(iii), b-(iv), c-(i), d-(ii)"
+    ],
+    correctAnswer: 0,
+    difficulty: "HARD",
+    damage: 350,
+    explanation: "Speedometer = instantaneous speed; Odometer = distance; Slope = speed; Cesium clock = atomic frequency standard."
+  },
+  {
+    classLevel: 7,
+    subject: "Science",
+    chapter: "Chapter 9: Motion and Time",
+    question: "Read the statements regarding kinematics:\nStatement 1: The speed of light in vacuum (c ≈ 300,000 km/s) is the universal cosmic speed limit.\nStatement 2: A stationary body produces a horizontal line on a distance-time graph.\nStatement 3: An object moving in a circle with constant speed has zero acceleration.\nWhich statements are TRUE?",
+    options: ["Statements 1 and 2 only", "Statements 2 and 3 only", "Statements 1 and 3 only", "All Statements 1, 2, and 3"],
+    correctAnswer: 0,
+    difficulty: "HARD",
+    damage: 350,
+    explanation: "Statement 3 is false (circular motion constantly changes direction, experiencing centripetal acceleration). Statements 1 and 2 are true."
+  },
+  {
+    classLevel: 7,
+    subject: "Science",
+    chapter: "Chapter 9: Motion and Time",
+    question: "A bus travels the first 30 km of its trip at a uniform speed of 30 km/h, and the next 30 km at a uniform speed of 60 km/h. What is the AVERAGE SPEED of the bus for the entire 60 km journey?",
+    options: [
+      "40 km/h (Total Distance = 60 km ; Time 1 = 30/30 = 1 h ; Time 2 = 30/60 = 0.5 h ; Total Time = 1.5 h ; Avg Speed = 60 / 1.5 = 40 km/h)",
+      "45 km/h (Arithmetic mean error)",
+      "50 km/h",
+      "35 km/h"
+    ],
+    correctAnswer: 0,
+    difficulty: "HARD",
+    damage: 350,
+    explanation: "Harmonic average speed: Total distance (60 km) / Total time (1.5 h) = 40 km/h (NEVER arithmetic average (30+60)/2=45)."
+  },
+  {
+    classLevel: 7,
+    subject: "Science",
+    chapter: "Chapter 9: Motion and Time",
+    question: "Why do international scientific metrology standards define 1 Second using the Cesium-133 Atomic Clock rather than astronomical earth rotation?",
+    options: [
+      "Earth's orbital rotation experiences slight irregularities due to tidal friction and mass redistribution, whereas the Cesium-133 atomic hyperfine transition frequency (9,192,631,770 Hz) is invariant and absolute",
+      "Because watches run out of batteries",
+      "Because the Sun is cooling down",
+      "Because the moon is drifting away"
+    ],
+    correctAnswer: 0,
+    difficulty: "HARD",
+    damage: 350,
+    explanation: "SI second is defined by 9,192,631,770 hyperfine transitions of Cs-133 ground state, eliminating planetary rotational perturbations."
+  },
+  {
+    classLevel: 7,
+    subject: "Science",
+    chapter: "Chapter 9: Motion and Time",
+    question: "Consider four kinematic events:\n1. A stone dropped from a tall cliff\n2. Hands of a wall clock rotating\n3. An airplane cruising at steady 800 km/h\n4. A child swinging on a playground swing\nWhich of these represent PERIODIC OSCILLATORY OR CYCLIC MOTION?",
+    options: ["Events 2 and 4 only", "Events 1 and 3 only", "Events 1, 2, and 4 only", "All 1, 2, 3, and 4"],
+    correctAnswer: 0,
+    difficulty: "HARD",
+    damage: 350,
+    explanation: "Clock hands (cyclic rotation) and swing (oscillatory pendulum) execute periodic motion with constant time periods."
+  },
+  {
+    classLevel: 7,
+    subject: "Science",
+    chapter: "Chapter 9: Motion and Time",
+    question: "What mathematical property explains why a Simple Pendulum's time period remains CONSTANT even if its bob's mass is increased from 50 g to 500 g?",
+    options: [
+      "In the pendulum equation T = 2π√(L/g), mass 'm' does not appear; inertial resistance cancels gravitational restoring force identically for all masses",
+      "Because larger mass makes the pendulum longer",
+      "Because heavier bob pushes air away",
+      "Because gravity acts only on light objects"
+    ],
+    correctAnswer: 0,
+    difficulty: "HARD",
+    damage: 350,
+    explanation: "Equivalence principle: gravitational mass equals inertial mass, so acceleration and period are strictly mass-independent."
+  },
+  {
+    classLevel: 7,
+    subject: "Science",
+    chapter: "Chapter 9: Motion and Time",
+    question: "If the Distance-Time graph of a moving vehicle is a straight line sloping DOWNWARDS from left to right, what does it signify?",
+    options: [
+      "The vehicle is returning back towards the starting reference origin point at a uniform speed",
+      "The vehicle has negative mass",
+      "Time is moving backwards",
+      "The car is falling off a cliff"
+    ],
+    correctAnswer: 0,
+    difficulty: "HARD",
+    damage: 350,
+    explanation: "Negative displacement slope indicates uniform return motion reducing distance relative to the frame of reference."
+  },
+  {
+    classLevel: 7,
+    subject: "Science",
+    chapter: "Chapter 9: Motion and Time",
+    question: "How does GPS (Global Positioning System) navigation calculate a car's real-time position and speed?",
+    options: [
+      "By calculating precise time-of-flight radio signal delays from atomic clocks aboard multiple orbiting GPS satellites to triangulate position and velocity",
+      "By taking photos of road signs",
+      "By measuring air pressure around wheels",
+      "By counting wheel revolutions only"
+    ],
+    correctAnswer: 0,
+    difficulty: "HARD",
+    damage: 350,
+    explanation: "GPS trilateration measures nanosecond radio signal transit delays (d = c·Δt) from ≥4 atomic satellite clocks."
+  },
+  {
+    classLevel: 7,
+    subject: "Science",
+    chapter: "Chapter 9: Motion and Time",
+    question: "What master scientific principle is established in Chapter 9 of NCERT Class 7 Science?",
+    options: [
+      "Quantitative measurement of physical motion and temporal duration—from ancient shadow gnomons and pendulums to modern quartz oscillators and graphical kinematics—forms the bedrock of physics, astronomy, technology, and navigation",
+      "That time cannot be measured accurately",
+      "That speed is always random",
+      "That clocks only work when someone watches them"
+    ],
+    correctAnswer: 0,
+    difficulty: "HARD",
+    damage: 350,
+    explanation: "Chapter 9 establishes fundamental kinematics: scalar rates, periodic isochronism, metrology history, and Cartesian graphical analysis."
+  }
+];
+
+console.log('Generated Class 7 Science Ch9:', scienceQuestions.length);
+fs.writeFileSync('C:/EduVerse/class 7/cross_subject/science_ch9.json', JSON.stringify(scienceQuestions, null, 2), 'utf8');

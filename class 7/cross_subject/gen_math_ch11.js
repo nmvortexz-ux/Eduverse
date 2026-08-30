@@ -1,0 +1,545 @@
+import fs from 'fs';
+
+// -------------------------------------------------------------
+// SUBJECT 2: Mathematics - Chapter 11: Exponents and Powers (40 Questions)
+// -------------------------------------------------------------
+const mathQuestions = [
+  // EASY (12)
+  {
+    classLevel: 7,
+    subject: "Mathematics",
+    chapter: "Chapter 11: Exponents and Powers",
+    question: "In the exponential expression 10⁴, what is the BASE and what is the EXPONENT (Power)?",
+    options: ["Base = 10 and Exponent = 4", "Base = 4 and Exponent = 10", "Base = 40 and Exponent = 1", "Base = 100 and Exponent = 4"],
+    correctAnswer: 0,
+    difficulty: "EASY",
+    damage: 150,
+    explanation: "In aⁿ, 'a' is the base that is repeatedly multiplied, and 'n' is the exponent specifying how many times the base occurs as a factor."
+  },
+  {
+    classLevel: 7,
+    subject: "Mathematics",
+    chapter: "Chapter 11: Exponents and Powers",
+    question: "What is the numerical value of 2⁶?",
+    options: ["64 (2 × 2 × 2 × 2 × 2 × 2 = 64)", "32", "12", "128"],
+    correctAnswer: 0,
+    difficulty: "EASY",
+    damage: 150,
+    explanation: "2⁶ = 2 × 2 × 2 × 2 × 2 × 2 = 64."
+  },
+  {
+    classLevel: 7,
+    subject: "Mathematics",
+    chapter: "Chapter 11: Exponents and Powers",
+    question: "Express 343 as a power of 7:",
+    options: ["7³ (7 × 7 × 7 = 49 × 7 = 343)", "7⁴", "7²", "7⁵"],
+    correctAnswer: 0,
+    difficulty: "EASY",
+    damage: 150,
+    explanation: "343 = 7 × 49 = 7 × 7 × 7 = 7³."
+  },
+  {
+    classLevel: 7,
+    subject: "Mathematics",
+    chapter: "Chapter 11: Exponents and Powers",
+    question: "Which number is GREATER: 5³ or 3⁵?",
+    options: ["3⁵ is greater (3⁵ = 243, while 5³ = 125 ; 243 > 125)", "5³ is greater", "Both are equal", "Cannot be determined"],
+    correctAnswer: 0,
+    difficulty: "EASY",
+    damage: 150,
+    explanation: "3⁵ = 243 and 5³ = 125; since 243 > 125, 3⁵ is greater."
+  },
+  {
+    classLevel: 7,
+    subject: "Mathematics",
+    chapter: "Chapter 11: Exponents and Powers",
+    question: "According to the Law of Exponents for MULTIPLICATION with the same base, what is (aᵐ × aⁿ) equal to?",
+    options: ["aᵐ⁺ⁿ", "aᵐ⁻ⁿ", "aᵐⁿ", "(ab)ᵐ⁺ⁿ"],
+    correctAnswer: 0,
+    difficulty: "EASY",
+    damage: 150,
+    explanation: "Multiplication law of exponents: aᵐ × aⁿ = aᵐ⁺ⁿ."
+  },
+  {
+    classLevel: 7,
+    subject: "Mathematics",
+    chapter: "Chapter 11: Exponents and Powers",
+    question: "According to the Law of Exponents for DIVISION with the same base (where m > n), what is (aᵐ ÷ aⁿ) equal to?",
+    options: ["aᵐ⁻ⁿ", "aᵐ⁺ⁿ", "aᵐ/ⁿ", "1"],
+    correctAnswer: 0,
+    difficulty: "EASY",
+    damage: 150,
+    explanation: "Division law of exponents: aᵐ ÷ aⁿ = aᵐ⁻ⁿ."
+  },
+  {
+    classLevel: 7,
+    subject: "Mathematics",
+    chapter: "Chapter 11: Exponents and Powers",
+    question: "What is (aᵐ)ⁿ (power of a power) equal to?",
+    options: ["aᵐⁿ (a raised to the power m × n)", "aᵐ⁺ⁿ", "aᵐ⁻ⁿ", "aᵐ/ⁿ"],
+    correctAnswer: 0,
+    difficulty: "EASY",
+    damage: 150,
+    explanation: "Power of a power rule: (aᵐ)ⁿ = aᵐⁿ."
+  },
+  {
+    classLevel: 7,
+    subject: "Mathematics",
+    chapter: "Chapter 11: Exponents and Powers",
+    question: "What is the value of any non-zero number raised to the power 0 (i.e. a⁰ where a ≠ 0)?",
+    options: ["1 (e.g. 7⁰ = 1, 100⁰ = 1, x⁰ = 1)", "0", "a", "Infinity"],
+    correctAnswer: 0,
+    difficulty: "EASY",
+    damage: 150,
+    explanation: "Zero exponent law: a⁰ = aᵐ⁻ᵐ = aᵐ / aᵐ = 1 for any non-zero base a."
+  },
+  {
+    classLevel: 7,
+    subject: "Mathematics",
+    chapter: "Chapter 11: Exponents and Powers",
+    question: "What is (-1) raised to an EVEN power (e.g. (-1)⁴, (-1)¹⁰⁰) equal to?",
+    options: ["+1", "-1", "0", "Even number"],
+    correctAnswer: 0,
+    difficulty: "EASY",
+    damage: 150,
+    explanation: "Negative one raised to any even natural power is always +1."
+  },
+  {
+    classLevel: 7,
+    subject: "Mathematics",
+    chapter: "Chapter 11: Exponents and Powers",
+    question: "What is (-1) raised to an ODD power (e.g. (-1)³, (-1)⁵¹) equal to?",
+    options: ["-1", "+1", "0", "Odd number"],
+    correctAnswer: 0,
+    difficulty: "EASY",
+    damage: 150,
+    explanation: "Negative one raised to any odd natural power is always -1."
+  },
+  {
+    classLevel: 7,
+    subject: "Mathematics",
+    chapter: "Chapter 11: Exponents and Powers",
+    question: "Simplify: 3² × 3⁴ × 3⁸:",
+    options: ["3¹⁴ (3²⁺⁴⁺⁸ = 3¹⁴)", "3⁶⁴", "9¹⁴", "3¹⁶"],
+    correctAnswer: 0,
+    difficulty: "EASY",
+    damage: 150,
+    explanation: "3²⁺⁴⁺⁸ = 3¹⁴."
+  },
+  {
+    classLevel: 7,
+    subject: "Mathematics",
+    chapter: "Chapter 11: Exponents and Powers",
+    question: "Express the speed of light (300,000,000 m/s) in STANDARD SCIENTIFIC NOTATION:",
+    options: ["3.0 × 10⁸ m/s", "30 × 10⁷ m/s", "0.3 × 10⁹ m/s", "3.0 × 10⁶ m/s"],
+    correctAnswer: 0,
+    difficulty: "EASY",
+    damage: 150,
+    explanation: "Standard form: a number between 1.0 and 10.0 multiplied by a power of 10 → 3.0 × 10⁸ m/s."
+  },
+
+  // MEDIUM (16)
+  {
+    classLevel: 7,
+    subject: "Mathematics",
+    chapter: "Chapter 11: Exponents and Powers",
+    question: "Express 729 as a product of powers of prime factors in exponential form:",
+    options: ["3⁶ (729 = 3 × 3 × 3 × 3 × 3 × 3 = 3⁶)", "9³", "3⁵ × 2", "27²"],
+    correctAnswer: 0,
+    difficulty: "MEDIUM",
+    damage: 250,
+    explanation: "Prime factorization of 729 = 3⁶."
+  },
+  {
+    classLevel: 7,
+    subject: "Mathematics",
+    chapter: "Chapter 11: Exponents and Powers",
+    question: "Express 108 × 192 as a product of prime factors only in exponential form:",
+    options: [
+      "2⁸ × 3⁴ (108 = 2² × 3³ ; 192 = 2⁶ × 3¹ ; Product = 2²⁺⁶ × 3³⁺¹ = 2⁸ × 3⁴)",
+      "2⁷ × 3⁵",
+      "2⁶ × 3⁴",
+      "2⁸ × 3⁵"
+    ],
+    correctAnswer: 0,
+    difficulty: "MEDIUM",
+    damage: 250,
+    explanation: "108 = 2² × 3³; 192 = 2⁶ × 3¹. Combined product = 2⁸ × 3⁴."
+  },
+  {
+    classLevel: 7,
+    subject: "Mathematics",
+    chapter: "Chapter 11: Exponents and Powers",
+    question: "Simplify and write in exponential form: (2²⁰ ÷ 2¹⁵) × 2³:",
+    options: [
+      "2⁸ ((2²⁰⁻¹⁵) × 2³ = 2⁵ × 2³ = 2⁵⁺³ = 2⁸ = 256)",
+      "2⁵",
+      "2¹⁰",
+      "2⁶"
+    ],
+    correctAnswer: 0,
+    difficulty: "MEDIUM",
+    damage: 250,
+    explanation: "2²⁰⁻¹⁵ × 2³ = 2⁵ × 2³ = 2⁸."
+  },
+  {
+    classLevel: 7,
+    subject: "Mathematics",
+    chapter: "Chapter 11: Exponents and Powers",
+    question: "Simplify: (3⁰ + 2⁰) × 5⁰:",
+    options: ["2 ((1 + 1) × 1 = 2 × 1 = 2)", "1", "0", "6"],
+    correctAnswer: 0,
+    difficulty: "MEDIUM",
+    damage: 250,
+    explanation: "3⁰ = 1, 2⁰ = 1, 5⁰ = 1 → (1 + 1) × 1 = 2."
+  },
+  {
+    classLevel: 7,
+    subject: "Mathematics",
+    chapter: "Chapter 11: Exponents and Powers",
+    question: "Simplify: (3⁷ / (3⁴ × 3³)):",
+    options: ["1 (3⁷ / 3⁴⁺³ = 3⁷ / 3⁷ = 3⁷⁻⁷ = 3⁰ = 1)", "3", "0", "9"],
+    correctAnswer: 0,
+    difficulty: "MEDIUM",
+    damage: 250,
+    explanation: "3⁷ / 3⁷ = 3⁰ = 1."
+  },
+  {
+    classLevel: 7,
+    subject: "Mathematics",
+    chapter: "Chapter 11: Exponents and Powers",
+    question: "Simplify and express in exponential form: (2³ × 3⁴ × 4) / (3 × 32):",
+    options: [
+      "3³ (4 = 2² ; 32 = 2⁵ ; Numerator = 2³ × 2² × 3⁴ = 2⁵ × 3⁴ ; Denominator = 2⁵ × 3¹ ; Value = 2⁵⁻⁵ × 3⁴⁻¹ = 2⁰ × 3³ = 1 × 3³ = 3³ = 27)",
+      "3⁴",
+      "2³ × 3²",
+      "3²"
+    ],
+    correctAnswer: 0,
+    difficulty: "MEDIUM",
+    damage: 250,
+    explanation: "(2⁵ × 3⁴) / (2⁵ × 3¹) = 2⁰ × 3³ = 3³ = 27."
+  },
+  {
+    classLevel: 7,
+    subject: "Mathematics",
+    chapter: "Chapter 11: Exponents and Powers",
+    question: "Simplify: (2⁸ × a⁵) / (4³ × a³):",
+    options: [
+      "4a² or 2²a² (4³ = (2²)³ = 2⁶ ; Expression = (2⁸ / 2⁶) × (a⁵ / a³) = 2⁸⁻⁶ × a⁵⁻³ = 2² × a² = 4a²)",
+      "2a²",
+      "8a³",
+      "2⁴a²"
+    ],
+    correctAnswer: 0,
+    difficulty: "MEDIUM",
+    damage: 250,
+    explanation: "4³ = 2⁶. Result = 2⁸⁻⁶ × a⁵⁻³ = 2²a² = 4a²."
+  },
+  {
+    classLevel: 7,
+    subject: "Mathematics",
+    chapter: "Chapter 11: Exponents and Powers",
+    question: "Expand the number 279,404 in expanded decimal exponential notation:",
+    options: [
+      "2 × 10⁵ + 7 × 10⁴ + 9 × 10³ + 4 × 10² + 0 × 10¹ + 4 × 10⁰",
+      "2 × 10⁴ + 7 × 10³ + 9 × 10² + 4 × 10¹ + 4 × 10⁰",
+      "2 × 10⁶ + 7 × 10⁵ + 9 × 10⁴ + 4 × 10³ + 4 × 10²",
+      "279 × 10³ + 404"
+    ],
+    correctAnswer: 0,
+    difficulty: "MEDIUM",
+    damage: 250,
+    explanation: "279,404 = 2×10⁵ + 7×10⁴ + 9×10³ + 4×10² + 0×10¹ + 4×10⁰."
+  },
+  {
+    classLevel: 7,
+    subject: "Mathematics",
+    chapter: "Chapter 11: Exponents and Powers",
+    question: "Find the number from the expanded form: 8 × 10⁴ + 6 × 10³ + 0 × 10² + 4 × 10¹ + 5 × 10⁰:",
+    options: ["86,045", "86,450", "806,045", "86,405"],
+    correctAnswer: 0,
+    difficulty: "MEDIUM",
+    damage: 250,
+    explanation: "80,000 + 6,000 + 0 + 40 + 5 = 86,045."
+  },
+  {
+    classLevel: 7,
+    subject: "Mathematics",
+    chapter: "Chapter 11: Exponents and Powers",
+    question: "The distance between Sun and Earth is 149,600,000,000 metres. Express this distance in STANDARD SCIENTIFIC FORM:",
+    options: ["1.496 × 10¹¹ m", "14.96 × 10¹⁰ m", "149.6 × 10⁹ m", "1.496 × 10¹² m"],
+    correctAnswer: 0,
+    difficulty: "MEDIUM",
+    damage: 250,
+    explanation: "149,600,000,000 = 1.496 × 10¹¹ m."
+  },
+  {
+    classLevel: 7,
+    subject: "Mathematics",
+    chapter: "Chapter 11: Exponents and Powers",
+    question: "The population of India in a census was approximately 1,350,000,000. Express it in scientific standard form:",
+    options: ["1.35 × 10⁹", "13.5 × 10⁸", "135 × 10⁷", "1.35 × 10¹⁰"],
+    correctAnswer: 0,
+    difficulty: "MEDIUM",
+    damage: 250,
+    explanation: "1,350,000,000 = 1.35 × 10⁹."
+  },
+  {
+    classLevel: 7,
+    subject: "Mathematics",
+    chapter: "Chapter 11: Exponents and Powers",
+    question: "Compare the numbers: 2.7 × 10¹² and 1.5 × 10⁸:",
+    options: [
+      "2.7 × 10¹² is vastly GREATER than 1.5 × 10⁸ (since 10¹² is 10,000 times larger than 10⁸)",
+      "1.5 × 10⁸ is greater",
+      "Both are approximately equal",
+      "Cannot be compared without full expansion"
+    ],
+    correctAnswer: 0,
+    difficulty: "MEDIUM",
+    damage: 250,
+    explanation: "Comparing exponents: 10¹² >> 10⁸, so 2.7 × 10¹² is roughly 18,000 times larger."
+  },
+  {
+    classLevel: 7,
+    subject: "Mathematics",
+    chapter: "Chapter 11: Exponents and Powers",
+    question: "Simplify: ((5²)³ × 5⁴) ÷ 5⁷:",
+    options: ["5³ or 125 ((5⁶ × 5⁴) ÷ 5⁷ = 5⁶⁺⁴ ÷ 5⁷ = 5¹⁰ ÷ 5⁷ = 5¹⁰⁻⁷ = 5³ = 125)", "5²", "5⁵", "1"],
+    correctAnswer: 0,
+    difficulty: "MEDIUM",
+    damage: 250,
+    explanation: "5⁶⁺⁴⁻⁷ = 5³ = 125."
+  },
+  {
+    classLevel: 7,
+    subject: "Mathematics",
+    chapter: "Chapter 11: Exponents and Powers",
+    question: "Simplify: (25 × 5² × t⁸) / (10³ × t⁴):",
+    options: [
+      "(5 / 8) t⁴ (25 × 5² = 5² × 5² = 5⁴ = 625 ; 10³ = (2×5)³ = 2³ × 5³ = 8 × 125 = 1000 ; 625/1000 = 5/8 ; t⁸/t⁴ = t⁴)",
+      "(5 / 4) t⁴",
+      "(1 / 8) t⁴",
+      "5t⁴"
+    ],
+    correctAnswer: 0,
+    difficulty: "MEDIUM",
+    damage: 250,
+    explanation: "(5⁴ × t⁸) / (2³ × 5³ × t⁴) = (5⁴⁻³ / 2³) × t⁸⁻⁴ = (5/8) t⁴."
+  },
+  {
+    classLevel: 7,
+    subject: "Mathematics",
+    chapter: "Chapter 11: Exponents and Powers",
+    question: "Simplify: (3⁵ × 10⁵ × 25) / (5⁷ × 6⁵):",
+    options: [
+      "1 (10⁵ = (2×5)⁵ = 2⁵ × 5⁵ ; 25 = 5² ; 6⁵ = (2×3)⁵ = 2⁵ × 3⁵ ; Numerator = 3⁵ × 2⁵ × 5⁵⁺² = 3⁵ × 2⁵ × 5⁷ ; Denominator = 5⁷ × 2⁵ × 3⁵ ; Value = 1)",
+      "5",
+      "0",
+      "10"
+    ],
+    correctAnswer: 0,
+    difficulty: "MEDIUM",
+    damage: 250,
+    explanation: "(3⁵ × 2⁵ × 5⁷) / (3⁵ × 2⁵ × 5⁷) = 1."
+  },
+  {
+    classLevel: 7,
+    subject: "Mathematics",
+    chapter: "Chapter 11: Exponents and Powers",
+    question: "If 2ⁿ = 128, find the value of n:",
+    options: ["n = 7 (2⁷ = 128)", "n = 6", "n = 8", "n = 5"],
+    correctAnswer: 0,
+    difficulty: "MEDIUM",
+    damage: 250,
+    explanation: "2⁷ = 2 × 2 × 2 × 2 × 2 × 2 × 2 = 128, so n = 7."
+  },
+
+  // HARD (12)
+  {
+    classLevel: 7,
+    subject: "Mathematics",
+    chapter: "Chapter 11: Exponents and Powers",
+    question: "Read the statements:\nAssertion (A): For any non-zero rational number 'a', a⁰ = 1.\nReason (R): By the quotient rule of exponents, aᵐ / aᵐ = aᵐ⁻ᵐ = a⁰; simultaneously, any non-zero number divided by itself equals 1, hence a⁰ must equal 1.\nChoose the correct option:",
+    options: [
+      "Both (A) and (R) are true, and (R) is the correct explanation of (A).",
+      "Both (A) and (R) are true, but (R) is NOT the correct explanation of (A).",
+      "(A) is true, but (R) is false.",
+      "(A) is false, but (R) is true."
+    ],
+    correctAnswer: 0,
+    difficulty: "HARD",
+    damage: 350,
+    explanation: "The algebraic deduction aᵐ/aᵐ = a⁰ = 1 rigorously proves the zero exponent rule."
+  },
+  {
+    classLevel: 7,
+    subject: "Mathematics",
+    chapter: "Chapter 11: Exponents and Powers",
+    question: "Spot the IMPOSTER in the following applications of Laws of Exponents:\nGroup:\n1. 2³ × 2⁴ = 2⁷\n2. (3²)⁴ = 3⁸\n3. (4/5)³ = 4³ / 5³\n4. 2³ + 2⁴ = 2⁷",
+    options: ["Application 1", "Application 2", "Application 3", "Application 4 (2³ + 2⁴ = 8 + 16 = 24, whereas 2⁷ = 128 ; Exponents cannot be added under ADDITION)"],
+    correctAnswer: 3,
+    difficulty: "HARD",
+    damage: 350,
+    explanation: "Application 4 commits a classic algebraic fallacy: exponent addition law applies ONLY to multiplication (aᵐ × aⁿ), never to addition."
+  },
+  {
+    classLevel: 7,
+    subject: "Mathematics",
+    chapter: "Chapter 11: Exponents and Powers",
+    question: "If (2/9)³ × (2/9)⁻⁶ = (2/9)²ᵐ⁻¹, find the value of 'm':",
+    options: [
+      "m = -1 (LHS = (2/9)³⁺⁽⁻⁶⁾ = (2/9)⁻³ ; Equating exponents: 2m - 1 = -3 ⇒ 2m = -2 ⇒ m = -1)",
+      "m = 1",
+      "m = -2",
+      "m = 0"
+    ],
+    correctAnswer: 0,
+    difficulty: "HARD",
+    damage: 350,
+    explanation: "3 - 6 = 2m - 1 → -3 = 2m - 1 → 2m = -2 → m = -1."
+  },
+  {
+    classLevel: 7,
+    subject: "Mathematics",
+    chapter: "Chapter 11: Exponents and Powers",
+    question: "Match Column I (Exponential Expressions) with Column II (Simplified Values):\n(a) (-2)³ × (-10)³ -> (i) 8,000 ((-8) × (-1000) = 8,000)\n(b) (-3)² × (-5)²  -> (ii) 225 (9 × 25 = 225)\n(c) 0 × 10²⁰       -> (iii) 0\n(d) (-1)⁵⁰⁰        -> (iv) +1",
+    options: [
+      "a-(i), b-(ii), c-(iii), d-(iv)",
+      "a-(ii), b-(i), c-(iv), d-(iii)",
+      "a-(iv), b-(iii), c-(ii), d-(i)",
+      "a-(iii), b-(iv), c-(i), d-(ii)"
+    ],
+    correctAnswer: 0,
+    difficulty: "HARD",
+    damage: 350,
+    explanation: "(-2)³(-10)³ = 8000; (-3)²(-5)² = 225; 0×10²⁰ = 0; (-1)⁵⁰⁰ = 1."
+  },
+  {
+    classLevel: 7,
+    subject: "Mathematics",
+    chapter: "Chapter 11: Exponents and Powers",
+    question: "Read the statements regarding exponential sizes:\nStatement 1: Mass of Earth is ~5.97 × 10²⁴ kg, while mass of Uranus is ~8.68 × 10²⁵ kg.\nStatement 2: Uranus is approximately 14.5 times more massive than Earth.\nStatement 3: 10⁻¹ is equal to -10.\nWhich statements are TRUE?",
+    options: ["Statements 1 and 2 only", "Statements 2 and 3 only", "Statements 1 and 3 only", "All Statements 1, 2, and 3"],
+    correctAnswer: 0,
+    difficulty: "HARD",
+    damage: 350,
+    explanation: "Statement 3 is false (10⁻¹ = 1/10 = 0.1, not -10). Statements 1 and 2 are accurate astrophysical computations."
+  },
+  {
+    classLevel: 7,
+    subject: "Mathematics",
+    chapter: "Chapter 11: Exponents and Powers",
+    question: "Evaluate the expression:\n[(-2)⁴ × 3² × 5⁰] / [4² × (-1)⁷]:",
+    options: [
+      "-9 ((-2)⁴ = 16 ; 3² = 9 ; 5⁰ = 1 ; Numerator = 16 × 9 × 1 = 144 ; Denominator = 16 × (-1) = -16 ; Value = 144 / -16 = -9)",
+      "+9",
+      "-16",
+      "0"
+    ],
+    correctAnswer: 0,
+    difficulty: "HARD",
+    damage: 350,
+    explanation: "144 / -16 = -9."
+  },
+  {
+    classLevel: 7,
+    subject: "Mathematics",
+    chapter: "Chapter 11: Exponents and Powers",
+    question: "If 5²ˣ⁺¹ ÷ 25 = 125, find the value of x:",
+    options: [
+      "x = 2 (5²ˣ⁺¹ ÷ 5² = 5²ˣ⁺¹⁻² = 5²ˣ⁻¹ ; 125 = 5³ ; 2x - 1 = 3 ⇒ 2x = 4 ⇒ x = 2)",
+      "x = 1",
+      "x = 3",
+      "x = 4"
+    ],
+    correctAnswer: 0,
+    difficulty: "HARD",
+    damage: 350,
+    explanation: "5²ˣ⁻¹ = 5³ → 2x - 1 = 3 → 2x = 4 → x = 2."
+  },
+  {
+    classLevel: 7,
+    subject: "Mathematics",
+    chapter: "Chapter 11: Exponents and Powers",
+    question: "Express (3.2 × 10⁶) + (4.5 × 10⁵) in standard scientific form:",
+    options: [
+      "3.65 × 10⁶ (Convert to matching exponent: 4.5 × 10⁵ = 0.45 × 10⁶ ; Sum = (3.2 + 0.45) × 10⁶ = 3.65 × 10⁶)",
+      "7.7 × 10¹¹",
+      "7.7 × 10⁶",
+      "3.65 × 10⁷"
+    ],
+    correctAnswer: 0,
+    difficulty: "HARD",
+    damage: 350,
+    explanation: "3.2 × 10⁶ + 0.45 × 10⁶ = 3.65 × 10⁶."
+  },
+  {
+    classLevel: 7,
+    subject: "Mathematics",
+    chapter: "Chapter 11: Exponents and Powers",
+    question: "If 3⁴ × 2⁵ × a = 12⁴, what is the value of 'a'?",
+    options: [
+      "a = 16 or 2⁴ (12⁴ = (3 × 2²)⁴ = 3⁴ × 2⁸ ; LHS = 3⁴ × 2⁵ × a ; Equating: 3⁴ × 2⁵ × a = 3⁴ × 2⁸ ⇒ a = 2⁸⁻⁵ = 2³ = 8 ... wait: (2²)⁴ = 2⁸ ; 2⁸ / 2⁵ = 2³ = 8)",
+      "a = 8 (2³ = 8)",
+      "a = 4",
+      "a = 2"
+    ],
+    correctAnswer: 1,
+    difficulty: "HARD",
+    damage: 350,
+    explanation: "12⁴ = (3 × 4)⁴ = 3⁴ × 2⁸. LHS = 3⁴ × 2⁵ × a. Hence a = 2⁸ / 2⁵ = 2³ = 8."
+  },
+  {
+    classLevel: 7,
+    subject: "Mathematics",
+    chapter: "Chapter 11: Exponents and Powers",
+    question: "A digital memory card has a capacity of 64 Gigabytes (GB). If 1 GB = 2³⁰ bytes, how many bytes of data can the card store in pure power of 2?",
+    options: [
+      "2³⁶ bytes (64 = 2⁶ ; Capacity = 2⁶ × 2³⁰ = 2⁶⁺³⁰ = 2³⁶ bytes)",
+      "2³⁴ bytes",
+      "2⁴⁰ bytes",
+      "2³² bytes"
+    ],
+    correctAnswer: 0,
+    difficulty: "HARD",
+    damage: 350,
+    explanation: "64 × 2³⁰ = 2⁶ × 2³⁰ = 2³⁶ bytes."
+  },
+  {
+    classLevel: 7,
+    subject: "Mathematics",
+    chapter: "Chapter 11: Exponents and Powers",
+    question: "Simplify: (a³b²c⁴)³ ÷ (a²bc³)²:",
+    options: [
+      "a⁵b⁴c⁶ (Numerator = a⁹b⁶c¹² ; Denominator = a⁴b²c⁶ ; Quotient = a⁹⁻⁴ b⁶⁻² c¹²⁻⁶ = a⁵b⁴c⁶)",
+      "a⁷b⁴c⁵",
+      "a⁵b²c⁶",
+      "a⁶b⁴c⁶"
+    ],
+    correctAnswer: 0,
+    difficulty: "HARD",
+    damage: 350,
+    explanation: "a⁹⁻⁴ b⁶⁻² c¹²⁻⁶ = a⁵b⁴c⁶."
+  },
+  {
+    classLevel: 7,
+    subject: "Mathematics",
+    chapter: "Chapter 11: Exponents and Powers",
+    question: "Why is Exponential Notation and Standard Form indispensable across modern science, computer science, and astrophysics?",
+    options: [
+      "It enables astronomical cosmic scales (like the mass of galaxies 10⁴² kg) and subatomic quantum scales (like Planck length 10⁻³⁵ m) to be written concisely, computed without errors, and manipulated systematically",
+      "Because zero takes too long to type",
+      "Because calculators cannot display numbers without exponents",
+      "Because ordinary multiplication is banned in physics"
+    ],
+    correctAnswer: 0,
+    difficulty: "HARD",
+    damage: 350,
+    explanation: "Exponential standard notation compresses extreme dynamic ranges spanning subatomic particle scales to cosmic galactic dimensions."
+  }
+];
+
+console.log('Generated Class 7 Math Ch11:', mathQuestions.length);
+fs.writeFileSync('C:/EduVerse/class 7/cross_subject/math_ch11.json', JSON.stringify(mathQuestions, null, 2), 'utf8');

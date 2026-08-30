@@ -1,0 +1,595 @@
+import fs from 'fs';
+
+// -------------------------------------------------------------
+// SUBJECT 3: English - Chapter 3: Taro's Reward (40 Questions)
+// -------------------------------------------------------------
+const englishQuestions = [
+  // EASY (12)
+  {
+    classLevel: 6,
+    subject: "English",
+    chapter: "Chapter 3: Taro's Reward",
+    question: "What profession did young Taro pursue for a living?",
+    options: ["A woodcutter", "A farmer", "A blacksmith", "A fisherman"],
+    correctAnswer: 0,
+    difficulty: "EASY",
+    damage: 150,
+    explanation: "Taro was a young Japanese woodcutter who chopped wood on the hillside all day long."
+  },
+  {
+    classLevel: 6,
+    subject: "English",
+    chapter: "Chapter 3: Taro's Reward",
+    question: "Where did Taro live with his elderly parents?",
+    options: ["On a lonely hillside in Japan", "In a bustling port city", "Near the emperor's palace", "On a small island"],
+    correctAnswer: 0,
+    difficulty: "EASY",
+    damage: 150,
+    explanation: "Taro lived with his old mother and father in a small wooden hut on a lonely mountainside."
+  },
+  {
+    classLevel: 6,
+    subject: "English",
+    chapter: "Chapter 3: Taro's Reward",
+    question: "What did Taro's old father wish for on a very cold, windy evening?",
+    options: [
+      "A cup of sake (a warm, expensive Japanese drink) to warm his heart",
+      "A bowl of hot noodle soup",
+      "A woollen blanket",
+      "A gold coin"
+    ],
+    correctAnswer: 0,
+    difficulty: "EASY",
+    damage: 150,
+    explanation: "Feeling the icy wind through the cracks of the hut, Taro's shivering father wished for a cup of nourishing sake."
+  },
+  {
+    classLevel: 6,
+    subject: "English",
+    chapter: "Chapter 3: Taro's Reward",
+    question: "Why was Taro deeply saddened by his father's wish for sake?",
+    options: [
+      "Because sake was very expensive, and Taro earned very little money from chopping wood",
+      "Because sake was forbidden in the village",
+      "Because the shops were closed",
+      "Because Taro disliked his father"
+    ],
+    correctAnswer: 0,
+    difficulty: "EASY",
+    damage: 150,
+    explanation: "Taro was heartbroken because his meager earnings could not afford the costly traditional beverage."
+  },
+  {
+    classLevel: 6,
+    subject: "English",
+    chapter: "Chapter 3: Taro's Reward",
+    question: "What did Taro do the next morning to earn more money for the sake?",
+    options: [
+      "He woke up earlier than usual and hurried to the forest to chop extra wood",
+      "He went to borrow money from a neighbor",
+      "He went to the Emperor's court",
+      "He caught fish in the river"
+    ],
+    correctAnswer: 0,
+    difficulty: "EASY",
+    damage: 150,
+    explanation: "Motivated by filial love, Taro ventured into the deep forest at dawn to chop and split extra logs."
+  },
+  {
+    classLevel: 6,
+    subject: "English",
+    chapter: "Chapter 3: Taro's Reward",
+    question: "What unexpected sound surprised Taro while he was chopping wood in the forest?",
+    options: [
+      "The sound of rushing, splashing water from a hidden waterfall",
+      "A roaring tiger",
+      "Thunderstorm lightning",
+      "A singing bird"
+    ],
+    correctAnswer: 0,
+    difficulty: "EASY",
+    damage: 150,
+    explanation: "Thirsty from his hard labor, Taro heard the sound of rushing water where no stream had previously existed."
+  },
+  {
+    classLevel: 6,
+    subject: "English",
+    chapter: "Chapter 3: Taro's Reward",
+    question: "When Taro cupped a little of the waterfall liquid in his hands and tasted it, what was it?",
+    options: ["Delicious sake instead of cold water", "Sweet fruit juice", "Bitter medicine", "Hot tea"],
+    correctAnswer: 0,
+    difficulty: "EASY",
+    damage: 150,
+    explanation: "To Taro's utter delight, the magical waterfall tasted like rich, warm, delicious sake."
+  },
+  {
+    classLevel: 6,
+    subject: "English",
+    chapter: "Chapter 3: Taro's Reward",
+    question: "What container did Taro fill with the magical sake to carry home to his father?",
+    options: ["His pitcher / gourd", "A wooden bucket", "A clay bowl", "A metal bottle"],
+    correctAnswer: 0,
+    difficulty: "EASY",
+    damage: 150,
+    explanation: "Taro hurriedly filled his personal wooden pitcher and ran home joyfully to his father."
+  },
+  {
+    classLevel: 6,
+    subject: "English",
+    chapter: "Chapter 3: Taro's Reward",
+    question: "What physical effect did the sake have on Taro's elderly father?",
+    options: [
+      "He stopped shivering immediately and did a joyful little dance in the middle of the floor",
+      "He fell into a deep sleep for two days",
+      "He became young again",
+      "He grew taller"
+    ],
+    correctAnswer: 0,
+    difficulty: "EASY",
+    damage: 150,
+    explanation: "The nourishing warmth invigorated the old man so much that he happily danced on the floor."
+  },
+  {
+    classLevel: 6,
+    subject: "English",
+    chapter: "Chapter 3: Taro's Reward",
+    question: "How did the entire village learn about the magical sake waterfall by evening?",
+    options: [
+      "A visiting neighbor lady drank a cup, heard the whole story from the father, and spread the news from house to house",
+      "Taro put up a notice in the marketplace",
+      "The Emperor sent messengers",
+      "A bird announced it"
+    ],
+    correctAnswer: 0,
+    difficulty: "EASY",
+    damage: 150,
+    explanation: "The neighbor lady hastily spread the gossip across the entire hamlet before nightfall."
+  },
+  {
+    classLevel: 6,
+    subject: "English",
+    chapter: "Chapter 3: Taro's Reward",
+    question: "How did the Emperor of Japan honor and reward Taro for his profound devotion and kindness?",
+    options: [
+      "He rewarded him with twenty pieces of gold and named the most beautiful fountain in the city after Taro",
+      "He made Taro the commander of the army",
+      "He gave Taro a palace made of glass",
+      "He gave him a flying horse"
+    ],
+    correctAnswer: 0,
+    difficulty: "EASY",
+    damage: 150,
+    explanation: "The Emperor rewarded Taro with 20 gold coins and named the grandest imperial fountain after him to inspire all children to honor parents."
+  },
+  {
+    classLevel: 6,
+    subject: "English",
+    chapter: "Chapter 3: Taro's Reward",
+    question: "In the supplementary tale 'The Shepherd's Treasure', where did the wise shepherd live?",
+    options: ["In a village in Iran (Persia)", "In the mountains of Japan", "In an Indian forest", "In a palace in Egypt"],
+    correctAnswer: 0,
+    difficulty: "EASY",
+    damage: 150,
+    explanation: "The humble, uneducated yet deeply wise shepherd lived in a poor village in ancient Iran."
+  },
+
+  // MEDIUM (16)
+  {
+    classLevel: 6,
+    subject: "English",
+    chapter: "Chapter 3: Taro's Reward",
+    question: "What happened when the greedy villagers rushed with pitchers and buckets to the waterfall the next morning?",
+    options: [
+      "The waterfall yielded only plain, ice-cold water to everyone else because of their selfish greed",
+      "The waterfall dried up instantly",
+      "The waterfall gave boiling hot soup",
+      "The waterfall turned into poison"
+    ],
+    correctAnswer: 0,
+    difficulty: "MEDIUM",
+    damage: 250,
+    explanation: "The magic waterfall gave delicious sake only to thoughtful, devoted Taro, but gave only cold water to greedy villagers."
+  },
+  {
+    classLevel: 6,
+    subject: "English",
+    chapter: "Chapter 3: Taro's Reward",
+    question: "Why were the villagers furious with Taro at the waterfall, muttering 'We have been tricked!'?",
+    options: [
+      "They tasted the water repeatedly and found it was ordinary cold water, suspecting Taro had fooled them",
+      "Taro stole their buckets",
+      "The waterfall wet their clothes",
+      "The forest was too dark"
+    ],
+    correctAnswer: 0,
+    difficulty: "MEDIUM",
+    damage: 250,
+    explanation: "Expecting fine free sake, the villagers tasted only cold water and angrily threatened to drown Taro in the pool."
+  },
+  {
+    classLevel: 6,
+    subject: "English",
+    chapter: "Chapter 3: Taro's Reward",
+    question: "In 'The Shepherd's Treasure', what made the King of Iran disguise himself as a shepherd riding on a mule?",
+    options: [
+      "To personally visit and test the famous wisdom, humility, and hospitality of the poor shepherd",
+      "To escape from enemy soldiers",
+      "To hunt wild deer in the mountains",
+      "To look for hidden gold"
+    ],
+    correctAnswer: 0,
+    difficulty: "MEDIUM",
+    damage: 250,
+    explanation: "Fascinated by reports of the poor shepherd's extraordinary wisdom, the King went disguised to assess his character."
+  },
+  {
+    classLevel: 6,
+    subject: "English",
+    chapter: "Chapter 3: Taro's Reward",
+    question: "How did the poor shepherd treat the disguised King who arrived at his cave door exhausted?",
+    options: [
+      "With warm hospitality: sharing his own meager supper of food, fresh spring water, and shelter for the night",
+      "He asked for payment before opening the door",
+      "He told the traveler to sleep in the cold",
+      "He reported him to the police"
+    ],
+    correctAnswer: 0,
+    difficulty: "MEDIUM",
+    damage: 250,
+    explanation: "The shepherd welcomed the stranger warmly, offering fresh water and half of his modest meal."
+  },
+  {
+    classLevel: 6,
+    subject: "English",
+    chapter: "Chapter 3: Taro's Reward",
+    question: "What position did the impressed King bestow upon the wise shepherd?",
+    options: ["Governor of a small district", "Chief General of the army", "Imperial Treasurer", "Royal Cook"],
+    correctAnswer: 0,
+    difficulty: "MEDIUM",
+    damage: 250,
+    explanation: "Deeply impressed by his natural wisdom, justice, and kindness, the King appointed him Governor of a district."
+  },
+  {
+    classLevel: 6,
+    subject: "English",
+    chapter: "Chapter 3: Taro's Reward",
+    question: "Why did other jealous governors in neighboring provinces plot against the new shepherd-governor?",
+    options: [
+      "They were intensely envious of his soaring popularity, wisdom, and the King's immense trust in him",
+      "He stole money from their provinces",
+      "He refused to wear fine clothes",
+      "He closed all markets"
+    ],
+    correctAnswer: 0,
+    difficulty: "MEDIUM",
+    damage: 250,
+    explanation: "His incorruptible justice and widespread public adoration provoked bitter jealousy among the corrupt aristocrats."
+  },
+  {
+    classLevel: 6,
+    subject: "English",
+    chapter: "Chapter 3: Taro's Reward",
+    question: "What false accusation did the jealous governors bring against the shepherd-governor before the King?",
+    options: [
+      "They claimed he was dishonest and secretly carried stolen tax gold in an iron chest strapped to his camel's back",
+      "They claimed he was an enemy spy",
+      "They said he murdered a merchant",
+      "They said he refused to pay respect to the King"
+    ],
+    correctAnswer: 0,
+    difficulty: "MEDIUM",
+    damage: 250,
+    explanation: "They falsely alleged that the iron box he always carried contained embezzled tax revenues."
+  },
+  {
+    classLevel: 6,
+    subject: "English",
+    chapter: "Chapter 3: Taro's Reward",
+    question: "When the King ordered the iron chest to be opened in the royal court, what was discovered inside?",
+    options: [
+      "No gold, jewels, or silver — only an old, worn-out woollen blanket",
+      "A hoard of glittering diamonds and gold coins",
+      "A bundle of secret enemy maps",
+      "The box was completely empty"
+    ],
+    correctAnswer: 0,
+    difficulty: "MEDIUM",
+    damage: 250,
+    explanation: "The chest contained only his humble old woollen blanket, which he kept as a reminder of his true self."
+  },
+  {
+    classLevel: 6,
+    subject: "English",
+    chapter: "Chapter 3: Taro's Reward",
+    question: "Why did the shepherd-governor always carry his old blanket everywhere with him?",
+    options: [
+      "Because it was his oldest friend that would still protect him from cold even if the King stripped him of all titles and royal cloaks",
+      "Because it had magical flying powers",
+      "Because it was given by a wizard",
+      "Because it was very heavy"
+    ],
+    correctAnswer: 0,
+    difficulty: "MEDIUM",
+    damage: 250,
+    explanation: "The blanket symbolized true humility; if fortune and titles vanished, his honest blanket would remain his steadfast shield."
+  },
+  {
+    classLevel: 6,
+    subject: "English",
+    chapter: "Chapter 3: Taro's Reward",
+    question: "What did the King do after witnessing the shepherd's supreme humility, honesty, and wisdom?",
+    options: [
+      "He made him the governor of a much bigger district and publicly shamed the jealous accusers",
+      "He dismissed him from service",
+      "He confiscated his blanket",
+      "He sent him back to his cave"
+    ],
+    correctAnswer: 0,
+    difficulty: "MEDIUM",
+    damage: 250,
+    explanation: "Vindicated and moved by his sterling character, the King promoted the shepherd to govern a much larger province."
+  },
+  {
+    classLevel: 6,
+    subject: "English",
+    chapter: "Chapter 3: Taro's Reward",
+    question: "What does the word 'Whistled through' mean in: 'A cold wind whistled through the cracks of the hut'?",
+    options: [
+      "Passed through making a shrill whistling sound",
+      "Blew the hut away completely",
+      "Played a flute",
+      "Made the house warm"
+    ],
+    correctAnswer: 0,
+    difficulty: "MEDIUM",
+    damage: 250,
+    explanation: "Describing the high-velocity freezing gale producing a sharp aerodynamic whistling noise through timber crevices."
+  },
+  {
+    classLevel: 6,
+    subject: "English",
+    chapter: "Chapter 3: Taro's Reward",
+    question: "What is the meaning of the word 'Pitted' or 'Pitcher' in the story of Taro?",
+    options: ["A pot / vessel made of earthenware or wood for holding liquids", "A baseball player", "A sharp axe", "A wooden cart"],
+    correctAnswer: 0,
+    difficulty: "MEDIUM",
+    damage: 250,
+    explanation: "A pitcher is a container (often with a handle and lip) designed to carry and dispense potable liquids."
+  },
+  {
+    classLevel: 6,
+    subject: "English",
+    chapter: "Chapter 3: Taro's Reward",
+    question: "What does the phrase 'to chop and hew' mean in describing Taro's labor?",
+    options: ["To cut down trees and strike wood with repeated heavy blows of an axe", "To paint timber", "To plant new saplings", "To climb trees"],
+    correctAnswer: 0,
+    difficulty: "MEDIUM",
+    damage: 250,
+    explanation: "'Hew' means to hack, shape, or fell timber using sharp heavy cutting tools."
+  },
+  {
+    classLevel: 6,
+    subject: "English",
+    chapter: "Chapter 3: Taro's Reward",
+    question: "Why did Taro hide behind a rock when the villagers arrived at the waterfall?",
+    options: [
+      "He saw their wild fury and did not want to face their violent anger when they found only water",
+      "He wanted to scare them",
+      "He fell asleep behind the rock",
+      "He was waiting for the Emperor"
+    ],
+    correctAnswer: 0,
+    difficulty: "MEDIUM",
+    damage: 250,
+    explanation: "Prudent Taro concealed himself until the shouting, disappointed mob departed back to the village."
+  },
+  {
+    classLevel: 6,
+    subject: "English",
+    chapter: "Chapter 3: Taro's Reward",
+    question: "What is the primary moral message of 'Taro's Reward' for young children?",
+    options: [
+      "Diligence, thoughtful care, and profound devotion to one's parents earn the highest divine and human rewards",
+      "Magic waterfalls exist in every mountain",
+      "Greed always brings wealth",
+      "Woodcutting is the best job"
+    ],
+    correctAnswer: 0,
+    difficulty: "MEDIUM",
+    damage: 250,
+    explanation: "The tale exemplifies the virtues of filial piety, selfless love, and honest industrious labor."
+  },
+  {
+    classLevel: 6,
+    subject: "English",
+    chapter: "Chapter 3: Taro's Reward",
+    question: "In 'The Shepherd's Treasure', how is true nobility of character demonstrated?",
+    options: [
+      "Through steadfast humility, unwavering honesty, and wisdom, regardless of one's humble birth or elevated royal station",
+      "Through wearing expensive gold ornaments",
+      "Through defeating enemies in battle",
+      "Through collecting high taxes"
+    ],
+    correctAnswer: 0,
+    difficulty: "MEDIUM",
+    damage: 250,
+    explanation: "Inner virtue, incorruptibility, and humility outshine all artificial titles, wealth, and ancestral pedigree."
+  },
+
+  // HARD (12)
+  {
+    classLevel: 6,
+    subject: "English",
+    chapter: "Chapter 3: Taro's Reward",
+    question: "Read the statements:\nAssertion (A): The magical waterfall gave delicious sake to Taro, but yielded only plain cold water to the other villagers.\nReason (R): Nature rewards pure, unselfish filial devotion and hard work, whereas selfish greed and entitlement receive no special grace.\nChoose the correct option:",
+    options: [
+      "Both (A) and (R) are true, and (R) is the correct explanation of (A).",
+      "Both (A) and (R) are true, but (R) is NOT the correct explanation of (A).",
+      "(A) is true, but (R) is false.",
+      "(A) is false, but (R) is true."
+    ],
+    correctAnswer: 0,
+    difficulty: "HARD",
+    damage: 350,
+    explanation: "The fable's symbolic moral premise is that nature responds spiritually to the purity of the seeker's intentions."
+  },
+  {
+    classLevel: 6,
+    subject: "English",
+    chapter: "Chapter 3: Taro's Reward",
+    question: "Spot the IMPOSTER in the following group of vocabulary words from Chapter 3 paired with their meanings:\nGroup: [Kneel - bend on knees, Gourd - a fleshy fruit/pitcher, Chieftain - a leader/ruler, Delighted - intensely angry]",
+    options: ["Kneel - bend on knees", "Gourd - a fleshy fruit/pitcher", "Chieftain - a leader/ruler", "Delighted - intensely angry"],
+    correctAnswer: 3,
+    difficulty: "HARD",
+    damage: 350,
+    explanation: "'Delighted' means feeling or showing GREAT PLEASURE or JOY, not intensely angry (which is furious/indignant)."
+  },
+  {
+    classLevel: 6,
+    subject: "English",
+    chapter: "Chapter 3: Taro's Reward",
+    question: "What profound psychological contrast is portrayed between Taro and the village community?",
+    options: [
+      "Taro was driven by selfless love and extra toil to comfort his parents, while the villagers were driven by opportunistic greed to exploit free luxury",
+      "Taro was lazy while the villagers worked hard",
+      "Taro was greedy for gold",
+      "The villagers wanted to help Taro's father"
+    ],
+    correctAnswer: 0,
+    difficulty: "HARD",
+    damage: 350,
+    explanation: "Taro toiled selflessly for his family, whereas the envious neighbors rushed en masse with pots purely for selfish indulgence."
+  },
+  {
+    classLevel: 6,
+    subject: "English",
+    chapter: "Chapter 3: Taro's Reward",
+    question: "In 'The Shepherd's Treasure', what symbolic meaning did the old woollen blanket hold for the wise governor?",
+    options: [
+      "It was a grounding talisman of his humble origins, reminding him that worldly power is fleeting and moral integrity is eternal",
+      "It contained a hidden treasure map sewn in the seam",
+      "It was worth millions of gold dinars",
+      "It was a royal gift from his grandfather"
+    ],
+    correctAnswer: 0,
+    difficulty: "HARD",
+    damage: 350,
+    explanation: "The blanket preserved his philosophical humility, ensuring he never succumbed to arrogance or the vanity of royal office."
+  },
+  {
+    classLevel: 6,
+    subject: "English",
+    chapter: "Chapter 3: Taro's Reward",
+    question: "Match the following characters with their distinctive traits:\n(a) Taro             -> (i) Wise, humble, and incorruptible\n(b) Iranian Shepherd -> (ii) Inquisitive, just, and appreciative of true virtue\n(c) The Persian King -> (iii) Selfless, hardworking, and devoted son\n(d) Jealous Governors-> (iv) Malicious, corrupt, and envious",
+    options: [
+      "a-(iii), b-(i), c-(ii), d-(iv)",
+      "a-(i), b-(iii), c-(ii), d-(iv)",
+      "a-(iv), b-(ii), c-(i), d-(iii)",
+      "a-(ii), b-(iv), c-(iii), d-(i)"
+    ],
+    correctAnswer: 0,
+    difficulty: "HARD",
+    damage: 350,
+    explanation: "Taro = devoted son; Shepherd = wise & humble; King = just & appreciative; Governors = corrupt & envious."
+  },
+  {
+    classLevel: 6,
+    subject: "English",
+    chapter: "Chapter 3: Taro's Reward",
+    question: "Read the statements from the story:\nStatement 1: Taro's father did a little dance because the sake warmed his body and made him joyful.\nStatement 2: The Emperor punished Taro for keeping the waterfall secret.\nStatement 3: The Emperor named the most beautiful fountain in Kyoto after Taro to inspire all children.\nWhich statements are TRUE?",
+    "options": ["Statements 1 and 3 only", "Statements 1 and 2 only", "Statements 2 and 3 only", "All Statements 1, 2, and 3"],
+    correctAnswer: 0,
+    difficulty: "HARD",
+    damage: 350,
+    explanation: "Statement 2 is false because the Emperor honored and rewarded Taro with 20 pieces of gold. Statements 1 and 3 are true."
+  },
+  {
+    classLevel: 6,
+    subject: "English",
+    chapter: "Chapter 3: Taro's Reward",
+    question: "Identify the part of speech of the underlined word in the sentence: 'Taro worked *harder* than ever to earn money.'",
+    options: ["Adverb (Comparative degree)", "Adjective", "Noun", "Preposition"],
+    correctAnswer: 0,
+    difficulty: "HARD",
+    damage: 350,
+    explanation: "'Harder' modifies the verb 'worked' in the comparative degree, functioning as an Adverb."
+  },
+  {
+    classLevel: 6,
+    subject: "English",
+    chapter: "Chapter 3: Taro's Reward",
+    question: "What is the meaning of the idiomatic phrase 'to have one's heart warmed' in literature?",
+    options: [
+      "To feel deep emotional joy, satisfaction, affection, or gratitude",
+      "To suffer from physical fever",
+      "To sit too close to a fireplace",
+      "To drink hot water"
+    ],
+    correctAnswer: 0,
+    difficulty: "HARD",
+    damage: 350,
+    explanation: "Metaphorical idiom expressing profound internal emotional comfort, solace, and gratitude."
+  },
+  {
+    classLevel: 6,
+    subject: "English",
+    chapter: "Chapter 3: Taro's Reward",
+    question: "In 'The Shepherd's Treasure', why was the King delighted when the shepherd gave his famous answer about the blanket?",
+    options: [
+      "Because the shepherd proved beyond all doubt that he was truly the wisest, most honest, and uncorrupted man in the entire kingdom",
+      "Because the King wanted to borrow the blanket",
+      "Because the King found gold under the carpet",
+      "Because the court cheered for war"
+    ],
+    correctAnswer: 0,
+    difficulty: "HARD",
+    damage: 350,
+    explanation: "The shepherd's humble reply vindicated the King's original trust and utterly demolished the slanders of the jealous governors."
+  },
+  {
+    classLevel: 6,
+    subject: "English",
+    chapter: "Chapter 3: Taro's Reward",
+    question: "Choose the correct sentence showcasing the proper use of the conjunction 'although':",
+    options: [
+      "Although Taro was poor, he never hesitated to work tirelessly for his parents' comfort.",
+      "Although Taro was rich but he worked hard.",
+      "Taro although poor so he slept all day.",
+      "Although he worked but he earned gold."
+    ],
+    correctAnswer: 0,
+    difficulty: "HARD",
+    damage: 350,
+    explanation: "Concessive conjunction 'Although' introduces a subordinate clause of contrast without combining with 'but'."
+  },
+  {
+    classLevel: 6,
+    subject: "English",
+    chapter: "Chapter 3: Taro's Reward",
+    question: "What narrative structure is common to both 'Taro's Reward' and 'The Shepherd's Treasure'?",
+    options: [
+      "Both feature an undercover/mystical test of virtue where true moral integrity is rewarded by a sovereign ruler while shallow jealousy/greed is exposed",
+      "Both are tragic tales ending in defeat",
+      "Both are science-fiction space stories",
+      "Both are set in modern Europe"
+    ],
+    correctAnswer: 0,
+    difficulty: "HARD",
+    damage: 350,
+    explanation: "Both classic didactic fables utilize a moral test where an underdog of supreme virtue is elevated by wise royal authority."
+  },
+  {
+    classLevel: 6,
+    subject: "English",
+    chapter: "Chapter 3: Taro's Reward",
+    question: "What is the synonym of 'muttered' as used when the disappointed villagers left the waterfall?",
+    options: ["Grumbeled / murmured in low dissatisfied tones", "Shouted with immense joy", "Sang a song", "Whistled happily"],
+    correctAnswer: 0,
+    difficulty: "HARD",
+    damage: 350,
+    explanation: "'Mutter' means to speak indistinctly in low, suppressed tones of complaint or resentment."
+  }
+];
+
+console.log('Generated English Ch3:', englishQuestions.length);
+fs.writeFileSync('C:/EduVerse/class 6/cross_subject/english_ch3.json', JSON.stringify(englishQuestions, null, 2), 'utf8');

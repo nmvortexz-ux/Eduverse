@@ -1,0 +1,590 @@
+import fs from 'fs';
+
+// -------------------------------------------------------------
+// SUBJECT 3: English - Chapter 4: The Ashes That Made Trees Bloom & Chivvy (40 Questions)
+// -------------------------------------------------------------
+const englishQuestions = [
+  // EASY (12)
+  {
+    classLevel: 7,
+    subject: "English",
+    chapter: "Chapter 4: The Ashes That Made Trees Bloom & Chivvy",
+    question: "In William Elliot Griffis's Japanese tale 'The Ashes That Made Trees Bloom', what was the name of the kind old couple's beloved pet dog?",
+    options: ["Muko", "Koko", "Taro", "Hachiko"],
+    correctAnswer: 0,
+    difficulty: "EASY",
+    damage: 150,
+    explanation: "The kind old Japanese couple had a faithful pet dog named Muko whom they loved like their own child."
+  },
+  {
+    classLevel: 7,
+    subject: "English",
+    chapter: "Chapter 4: The Ashes That Made Trees Bloom & Chivvy",
+    question: "How did the kind old couple treat Muko at mealtimes?",
+    options: [
+      "They fed him tidbits of fish with their own chopsticks and all the boiled rice he wanted",
+      "They left him outside without food",
+      "They gave him only dry bread",
+      "They made him hunt his own food"
+    ],
+    correctAnswer: 0,
+    difficulty: "EASY",
+    damage: 150,
+    explanation: "The affectionate couple fed Muko fish from their chopsticks and shared their finest food."
+  },
+  {
+    classLevel: 7,
+    subject: "English",
+    chapter: "Chapter 4: The Ashes That Made Trees Bloom & Chivvy",
+    question: "What buried treasure did Muko lead the kind old farmer to under a pine tree?",
+    options: [
+      "A gleam of gold coins (a pile of glittering gold)",
+      "A box of silver swords",
+      "A pile of precious silk",
+      "A magic scroll"
+    ],
+    correctAnswer: 0,
+    difficulty: "EASY",
+    damage: 150,
+    explanation: "Muko scratched the earth, uncovering a buried cache of sparkling gold coins that made the kind couple wealthy."
+  },
+  {
+    classLevel: 7,
+    subject: "English",
+    chapter: "Chapter 4: The Ashes That Made Trees Bloom & Chivvy",
+    question: "What happened when the greedy, envious neighbor dragged Muko into his garden to find treasure?",
+    options: [
+      "Muko scratched the earth under a pine tree, but the wicked neighbor dug up only a foul-smelling dead kitten",
+      "Muko found a chest of diamonds",
+      "Muko ran away into the mountains",
+      "Muko gave him gold coins"
+    ],
+    correctAnswer: 0,
+    difficulty: "EASY",
+    damage: 150,
+    explanation: "The greedy neighbor uncovered a rotten, dead kitten, and in a fit of rage beat Muko to death."
+  },
+  {
+    classLevel: 7,
+    subject: "English",
+    chapter: "Chapter 4: The Ashes That Made Trees Bloom & Chivvy",
+    question: "What did the kind old man make from the pine tree under which Muko was buried, following Muko's spirit in a dream?",
+    options: [
+      "A Mortar for rice pastry and a Hand-mill for bean sauce",
+      "A large wooden boat",
+      "A walking stick",
+      "A wooden table and chairs"
+    ],
+    correctAnswer: 0,
+    difficulty: "EASY",
+    damage: 150,
+    explanation: "The old man crafted a wooden mortar for New Year rice dough and a hand-mill for grinding bean sauce."
+  },
+  {
+    classLevel: 7,
+    subject: "English",
+    chapter: "Chapter 4: The Ashes That Made Trees Bloom & Chivvy",
+    question: "What miracle happened when the kind old couple ground boiled beans in the wooden hand-mill?",
+    options: [
+      "The sauce turned into a gleaming stream of pure gold coins",
+      "The mill broke into pieces",
+      "The beans turned into fire",
+      "The mill began to sing"
+    ],
+    correctAnswer: 0,
+    difficulty: "EASY",
+    damage: 150,
+    explanation: "With every turn of the mill, bean paste transformed miraculously into a heap of gold coins."
+  },
+  {
+    classLevel: 7,
+    subject: "English",
+    chapter: "Chapter 4: The Ashes That Made Trees Bloom & Chivvy",
+    question: "When the greedy neighbors borrowed the mortar and mill, what did the dough and bean sauce turn into?",
+    options: [
+      "A foul mass of squirming, foul-smelling worms",
+      "Gold coins",
+      "Delicious sweet pastries",
+      "Fresh milk"
+    ],
+    correctAnswer: 0,
+    difficulty: "EASY",
+    damage: 150,
+    explanation: "For the wicked couple, the mixture turned into a foul mass of worms; enraged, they chopped the mill into firewood."
+  },
+  {
+    classLevel: 7,
+    subject: "English",
+    chapter: "Chapter 4: The Ashes That Made Trees Bloom & Chivvy",
+    question: "What miraculous power did the ashes of the burnt hand-mill possess when scattered over withered, bare cherry trees?",
+    options: [
+      "The withered trees instantly burst into glorious, fragrant pink cherry blossoms",
+      "The trees turned into solid stone",
+      "The trees caught fire",
+      "The trees produced gold apples"
+    ],
+    correctAnswer: 0,
+    difficulty: "EASY",
+    damage: 150,
+    explanation: "A pinch of the sacred ashes caused dead, leafless cherry and plum trees to erupt in vibrant pink blossoms."
+  },
+  {
+    classLevel: 7,
+    subject: "English",
+    chapter: "Chapter 4: The Ashes That Made Trees Bloom & Chivvy",
+    question: "Who was the wealthy feudal lord / prince of the province who rewarded the kind old man with silk robes, sponge cakes, and invited him to his castle?",
+    options: ["The Daimyo", "The Shogun", "The Samurai", "The Emperor"],
+    correctAnswer: 0,
+    difficulty: "EASY",
+    damage: 150,
+    explanation: "The provincial lord (Daimyo) marveled at the blooming cherry tree and rewarded the kind old man richly."
+  },
+  {
+    classLevel: 7,
+    subject: "English",
+    chapter: "Chapter 4: The Ashes That Made Trees Bloom & Chivvy",
+    question: "What does the title of Michael Rosen's poem 'Chivvy' mean in colloquial English?",
+    options: [
+      "To nag, harass, or urge someone continuously and repetitively to do things in a particular way",
+      "To play a happy musical song",
+      "To go on a long ocean voyage",
+      "To cook delicious sweets"
+    ],
+    correctAnswer: 0,
+    difficulty: "EASY",
+    damage: 150,
+    explanation: "'To chivvy' means to pester, nag, or continuously prompt someone (especially children) with micro-instructions."
+  },
+  {
+    classLevel: 7,
+    subject: "English",
+    chapter: "Chapter 4: The Ashes That Made Trees Bloom & Chivvy",
+    question: "Which of the following is a typical grown-up command mentioned in Michael Rosen's poem 'Chivvy'?",
+    options: [
+      "\"Speak up! Don't talk with your mouth full! Don't stare! Don't point!\"",
+      "\"Run into the street without looking!\"",
+      "\"Eat ice cream for breakfast!\"",
+      "\"Stay awake all night!\""
+    ],
+    correctAnswer: 0,
+    difficulty: "EASY",
+    damage: 150,
+    explanation: "Rosen catalogs incessant parental injunctions: 'Speak up', 'Don't talk with your mouth full', 'Don't point'."
+  },
+  {
+    classLevel: 7,
+    subject: "English",
+    chapter: "Chapter 4: The Ashes That Made Trees Bloom & Chivvy",
+    question: "What ironical, contradictory complaint do grown-ups make at the very end of 'Chivvy' after giving non-stop instructions all day?",
+    options: [
+      "\"Can't you make your own mind up about anything?!\"",
+      "\"Why are you so obedient?\"",
+      "\"You are the smartest child in the world.\"",
+      "\"Go to sleep immediately.\""
+    ],
+    correctAnswer: 0,
+    difficulty: "EASY",
+    damage: 150,
+    explanation: "The poem ends with supreme irony: after micromanaging every juvenile action, adults complain that children cannot think independently."
+  },
+
+  // MEDIUM (16)
+  {
+    classLevel: 7,
+    subject: "English",
+    chapter: "Chapter 4: The Ashes That Made Trees Bloom & Chivvy",
+    question: "How did the kind old farmer show his benevolent character towards nature even before finding the gold?",
+    options: [
+      "When tilling his fields, he was always kind to every living creature, often turning up sods of earth on purpose to give worms to the hungry white herons",
+      "He planted only thorny bushes",
+      "He threw stones at birds",
+      "He refused to share his water"
+    ],
+    correctAnswer: 0,
+    difficulty: "MEDIUM",
+    damage: 250,
+    explanation: "The old man exhibited deep ecological compassion, intentionally turning soil to feed foraging herons."
+  },
+  {
+    classLevel: 7,
+    subject: "English",
+    chapter: "Chapter 4: The Ashes That Made Trees Bloom & Chivvy",
+    question: "What happened when the wicked greedy neighbor climbed a withered cherry tree and threw ashes over the Daimyo's royal procession?",
+    options: [
+      "Not a single bud blossomed; the wind blew fine ash directly into the eyes, noses, and mouths of the Daimyo and his wife, choking and blinding them; the royal guards dragged the wicked man down and beat him severely",
+      "The tree blossomed with diamonds",
+      "The Daimyo made him the prime minister",
+      "The ash turned into rain"
+    ],
+    correctAnswer: 0,
+    difficulty: "MEDIUM",
+    damage: 250,
+    explanation: "The ash failed to bloom and choked the royal entourage; the Daimyo's guard beat the imposter soundly."
+  },
+  {
+    classLevel: 7,
+    subject: "English",
+    chapter: "Chapter 4: The Ashes That Made Trees Bloom & Chivvy",
+    question: "In 19th-century feudal Japan, what was the strict social custom when a Daimyo (great lord) passed along the highway?",
+    options: [
+      "All commoners were required to shut their upper windows, paste them with paper, and prostrate themselves flat on hands and knees until the procession passed",
+      "People danced and threw flowers into the palanquin",
+      "People stood on high roofs to shout",
+      "Everyone marched alongside the palanquin"
+    ],
+    correctAnswer: 0,
+    difficulty: "MEDIUM",
+    damage: 250,
+    explanation: "Feudal Japanese etiquette mandated total prostration on the ground as the Daimyo's palanquin passed."
+  },
+  {
+    classLevel: 7,
+    subject: "English",
+    chapter: "Chapter 4: The Ashes That Made Trees Bloom & Chivvy",
+    question: "What is the philosophical theme of the Japanese folktale 'The Ashes That Made Trees Bloom'?",
+    options: [
+      "Virtue, genuine kindness, and reverence for living beings bring enduring spiritual and material rewards, whereas greed, envy, and cruelty inevitably destroy the wicked",
+      "That dogs should never be adopted",
+      "That cherry trees only grow in winter",
+      "That magic mills are sold in markets"
+    ],
+    correctAnswer: 0,
+    difficulty: "MEDIUM",
+    damage: 250,
+    explanation: "Karmic folklore morality: pure benevolence yields blossoming prosperity; malice and avarice yield ruin."
+  },
+  {
+    classLevel: 7,
+    subject: "English",
+    chapter: "Chapter 4: The Ashes That Made Trees Bloom & Chivvy",
+    question: "What is the central satirical message in Michael Rosen's poem 'Chivvy'?",
+    options: [
+      "Adults stifle children's spontaneous autonomy through relentless, petty micro-regulations, yet hypocritically expect them to display independent decision-making",
+      "Children should never listen to their parents",
+      "Manners are completely useless in society",
+      "Poems should only be written for adults"
+    ],
+    correctAnswer: 0,
+    difficulty: "MEDIUM",
+    damage: 250,
+    explanation: "Rosen critiques the overbearing parental micromanagement that paralyzes juvenile self-confidence."
+  },
+  {
+    classLevel: 7,
+    subject: "English",
+    chapter: "Chapter 4: The Ashes That Made Trees Bloom & Chivvy",
+    question: "Identify the meaning of the archaic word 'Dame' in 'The good old man and his dame':",
+    options: ["An elderly married woman / wife / lady of the house", "A young princess", "A soldier", "A fairy godmother"],
+    correctAnswer: 0,
+    difficulty: "MEDIUM",
+    damage: 250,
+    explanation: "'Dame' archaically denotes the matronly mistress or wife of a household."
+  },
+  {
+    classLevel: 7,
+    subject: "English",
+    chapter: "Chapter 4: The Ashes That Made Trees Bloom & Chivvy",
+    question: "What is the meaning of the phrasal verb 'To turn up' in: 'The dog turned up a heap of gold'?",
+    options: ["To dig up or uncover by scratching/ploughing the soil", "To increase the volume", "To arrive at a party", "To rotate around"],
+    correctAnswer: 0,
+    difficulty: "MEDIUM",
+    damage: 250,
+    explanation: "In agriculture/excavation, 'turn up' means excavating or exposing buried items from beneath the soil."
+  },
+  {
+    classLevel: 7,
+    subject: "English",
+    chapter: "Chapter 4: The Ashes That Made Trees Bloom & Chivvy",
+    question: "Choose the correct Relative Pronoun ('Which' vs 'That') to complete the non-defining clause:\n'The pine tree, _______ grew behind the cottage, was cut down to make a mortar.'",
+    options: ["which (non-restrictive clause set off by commas)", "that", "who", "whom"],
+    correctAnswer: 0,
+    difficulty: "MEDIUM",
+    damage: 250,
+    explanation: "Non-restrictive relative clauses set off by commas modifying inanimate nouns require 'which'."
+  },
+  {
+    classLevel: 7,
+    subject: "English",
+    chapter: "Chapter 4: The Ashes That Made Trees Bloom & Chivvy",
+    question: "Fill in the blank with the appropriate Preposition:\n'The kind old man climbed _______ the withered cherry tree.'",
+    options: ["into / up", "through", "under", "between"],
+    correctAnswer: 0,
+    difficulty: "MEDIUM",
+    damage: 250,
+    explanation: "Ascending arboreal branches takes the preposition 'into' or 'up' the tree."
+  },
+  {
+    classLevel: 7,
+    subject: "English",
+    chapter: "Chapter 4: The Ashes That Made Trees Bloom & Chivvy",
+    question: "What is the SYNONYM of the word 'Covetous' in: 'The covetous neighbor wanted the magic mill'?",
+    options: ["Greedy / Envious / Avaricious", "Generous", "Kind-hearted", "Polite"],
+    correctAnswer: 0,
+    difficulty: "MEDIUM",
+    damage: 250,
+    explanation: "'Covetous' means yearning greedily for another person's possessions."
+  },
+  {
+    classLevel: 7,
+    subject: "English",
+    chapter: "Chapter 4: The Ashes That Made Trees Bloom & Chivvy",
+    question: "What is the ANTONYM of 'Withered' in: 'The withered cherry tree burst into bloom'?",
+    options: ["Flourishing / Lush / Blooming", "Dead", "Dry", "Decayed"],
+    correctAnswer: 0,
+    difficulty: "MEDIUM",
+    damage: 250,
+    explanation: "The antonym of 'withered' (shriveled/desiccated) is 'flourishing' or 'blooming'."
+  },
+  {
+    classLevel: 7,
+    subject: "English",
+    chapter: "Chapter 4: The Ashes That Made Trees Bloom & Chivvy",
+    question: "What poetic device is prominent in the short, staccato imperative lines of 'Chivvy' ('Sit up', 'Say please', 'Less noise')?",
+    options: [
+      "Imperative Monosyllabic Cadence (mimicking sharp, repetitive parental drill commands)",
+      "Epic Simile",
+      "Ballad Meter",
+      "Internal Rhyme"
+    ],
+    correctAnswer: 0,
+    difficulty: "MEDIUM",
+    damage: 250,
+    explanation: "Short, brisk imperative clauses rhythmically recreate the relentless cadence of adult nagging."
+  },
+  {
+    classLevel: 7,
+    subject: "English",
+    chapter: "Chapter 4: The Ashes That Made Trees Bloom & Chivvy",
+    question: "Identify the part of speech of the underlined word in: 'The dog ran **friskily** around the garden.'",
+    options: ["Adverb of Manner (describing HOW the dog ran)", "Adjective", "Noun", "Verb"],
+    correctAnswer: 0,
+    difficulty: "MEDIUM",
+    damage: 250,
+    explanation: "'Friskily' is an adverb of manner modifying the intransitive verb 'ran'."
+  },
+  {
+    classLevel: 7,
+    subject: "English",
+    chapter: "Chapter 4: The Ashes That Made Trees Bloom & Chivvy",
+    question: "Choose the correct spelling:",
+    options: ["Procession", "Prosession", "Procesion", "Possession"],
+    correctAnswer: 0,
+    difficulty: "MEDIUM",
+    damage: 250,
+    explanation: "Correct orthography: P-R-O-C-E-S-S-I-O-N."
+  },
+  {
+    classLevel: 7,
+    subject: "English",
+    chapter: "Chapter 4: The Ashes That Made Trees Bloom & Chivvy",
+    question: "In 'Chivvy', what are children told to do with their elbows at the dinner table?",
+    options: ["\"Take your elbows OFF the table!\"", "\"Put your elbows on the plate!\"", "\"Cross your elbows!\"", "\"Lean on your elbows!\""],
+    correctAnswer: 0,
+    difficulty: "MEDIUM",
+    damage: 250,
+    explanation: "A classic dining etiquette rule featured in the poem: 'Take your elbows off the table'."
+  },
+  {
+    classLevel: 7,
+    subject: "English",
+    chapter: "Chapter 4: The Ashes That Made Trees Bloom & Chivvy",
+    question: "What does 'Haven't you got a hankie?' mean in 'Chivvy'?",
+    options: [
+      "Adults reprimanding the child to use a clean handkerchief instead of wiping their nose on their sleeve",
+      "Asking the child to buy a handkerchief",
+      "Playing a game with handkerchiefs",
+      "Asking if they want to wash clothes"
+    ],
+    correctAnswer: 0,
+    difficulty: "MEDIUM",
+    damage: 250,
+    explanation: "'Hankie' is colloquial for handkerchief, used to enforce hygienic nasal etiquette."
+  },
+
+  // HARD (12)
+  {
+    classLevel: 7,
+    subject: "English",
+    chapter: "Chapter 4: The Ashes That Made Trees Bloom & Chivvy",
+    question: "Read the statements:\nAssertion (A): In 'The Ashes That Made Trees Bloom', the dog Muko continues to protect and enrich his kind masters even after his physical death.\nReason (R): In traditional folklore animism, the spirit of a loyal, innocent creature manifests through symbolic objects (the pine tree, the wooden mortar, the sacred ashes) to reward pure-hearted love and penalize malevolence.\nChoose the correct option:",
+    options: [
+      "Both (A) and (R) are true, and (R) is the correct explanation of (A).",
+      "Both (A) and (R) are true, but (R) is NOT the correct explanation of (A).",
+      "(A) is true, but (R) is false.",
+      "(A) is false, but (R) is true."
+    ],
+    correctAnswer: 0,
+    difficulty: "HARD",
+    damage: 350,
+    explanation: "Japanese folklore integrates Shinto animistic spiritual continuity: Muko's spirit transmigrates through pine, mortar, and ashes to reward virtue."
+  },
+  {
+    classLevel: 7,
+    subject: "English",
+    chapter: "Chapter 4: The Ashes That Made Trees Bloom & Chivvy",
+    question: "Spot the IMPOSTER in the following sequence of transformations in 'The Ashes That Made Trees Bloom':\nSequence:\n1. Muko digs earth -> Finds gold for kind couple\n2. Pine tree felled -> Crafted into rice pastry mortar & bean mill\n3. Mill ground by wicked neighbors -> Yields sparkling diamonds and emeralds\n4. Burnt mill ashes scattered -> Causes withered cherry trees to burst into glorious bloom",
+    options: ["Step 1", "Step 2", "Step 3 (The mill yielded squirming, foul worms for the wicked neighbors, NOT diamonds)", "Step 4"],
+    correctAnswer: 2,
+    difficulty: "HARD",
+    damage: 350,
+    explanation: "Step 3 is false: the mill produced foul worms for the wicked neighbors, provoking them to burn it."
+  },
+  {
+    classLevel: 7,
+    subject: "English",
+    chapter: "Chapter 4: The Ashes That Made Trees Bloom & Chivvy",
+    question: "Analyze the profound irony in the climax of Michael Rosen's poem 'Chivvy':\nHow does the poem deconstruct adult socialization?",
+    options: [
+      "By exhaustively scripting every microscopic movement of a child (speaking, walking, standing, nose-blowing, sock-pulling), adults systematically dismantle the child's autonomous will, and then paradoxically scold them for being indecisive",
+      "By showing that all adults are secretly children",
+      "By encouraging children to become teachers",
+      "By proving that socks should never be worn"
+    ],
+    correctAnswer: 0,
+    difficulty: "HARD",
+    damage: 350,
+    explanation: "Rosen exposes the pedagogical double-bind: compulsive conditioning destroys independent initiative while demanding decisive autonomy."
+  },
+  {
+    classLevel: 7,
+    subject: "English",
+    chapter: "Chapter 4: The Ashes That Made Trees Bloom & Chivvy",
+    question: "Match Column I (Folk Motifs / Poetic Injunctions) with Column II (Thematic Meanings):\n(a) Sacred Ash on Barren Trees  -> (i) Spiritual revitalization of dead nature through pure virtue\n(b) Foul Worms in Bean Paste    -> (ii) Inward moral rot projected outward by avarice and envy\n(c) 'Pull your socks up!'       -> (iii) Incessant disciplinary conditioning of juvenile behavior\n(d) 'Make your own mind up!'   -> (iv) Unreasonable adult contradiction after total micromanagement",
+    options: [
+      "a-(i), b-(ii), c-(iii), d-(iv)",
+      "a-(ii), b-(i), c-(iv), d-(iii)",
+      "a-(iv), b-(iii), c-(ii), d-(i)",
+      "a-(iii), b-(iv), c-(i), d-(ii)"
+    ],
+    correctAnswer: 0,
+    difficulty: "HARD",
+    damage: 350,
+    explanation: "Ashes = virtue/renewal; Worms = corrupt greed; Pull socks up = nagging drill; Make own mind up = paradoxical demand."
+  },
+  {
+    classLevel: 7,
+    subject: "English",
+    chapter: "Chapter 4: The Ashes That Made Trees Bloom & Chivvy",
+    question: "Read the statements regarding stylistic elements in Chapter 4:\nStatement 1: 'The Ashes That Made Trees Bloom' employs a dualistic moral structure contrasting extreme altruism against grotesque greed.\nStatement 2: 'Chivvy' is composed in free verse without a rigid rhyme scheme to mimic authentic, erratic domestic speech.\nStatement 3: The kind old man in the story used atomic bombs to destroy the Daimyo's enemies.\nWhich statements are TRUE?",
+    options: ["Statements 1 and 2 only", "Statements 2 and 3 only", "Statements 1 and 3 only", "All Statements 1, 2, and 3"],
+    correctAnswer: 0,
+    difficulty: "HARD",
+    damage: 350,
+    explanation: "Statement 3 is an absurd anachronism. Statements 1 and 2 reflect true literary and stylistic properties."
+  },
+  {
+    classLevel: 7,
+    subject: "English",
+    chapter: "Chapter 4: The Ashes That Made Trees Bloom & Chivvy",
+    question: "Transform the sentence into PASSIVE VOICE:\n'The kind old man scattered a pinch of ashes over the withered cherry tree.'",
+    options: [
+      "'A pinch of ashes was scattered over the withered cherry tree by the kind old man.'",
+      "'The withered cherry tree scattered ashes by the kind old man.'",
+      "'Ashes were scattering by the kind old man.'",
+      "'A pinch of ashes had been scattering by the tree.'"
+    ],
+    correctAnswer: 0,
+    difficulty: "HARD",
+    damage: 350,
+    explanation: "Passive voice: Object ('A pinch of ashes') + was scattered + prepositional phrase + agent ('by the kind old man')."
+  },
+  {
+    classLevel: 7,
+    subject: "English",
+    chapter: "Chapter 4: The Ashes That Made Trees Bloom & Chivvy",
+    question: "Identify the grammatical role of the underlined participial phrase in: '**Having gathered the sacred ashes in a basket**, the old man set out to meet the Daimyo.'",
+    options: [
+      "Perfect Participial Phrase acting as an adverbial modifier of time/cause for the main clause",
+      "Gerund acting as subject",
+      "Noun Clause in apposition",
+      "Infinitive phrase of purpose"
+    ],
+    correctAnswer: 0,
+    difficulty: "HARD",
+    damage: 350,
+    explanation: "'Having gathered...' is a perfect participial phrase expressing prior completed temporal action modifying 'the old man'."
+  },
+  {
+    classLevel: 7,
+    subject: "English",
+    chapter: "Chapter 4: The Ashes That Made Trees Bloom & Chivvy",
+    question: "What is the psychological impact on children when constantly subjected to relentless 'Chivvying' according to modern developmental psychology?",
+    options: [
+      "It can induce learned helplessness, anxiety, loss of self-confidence, and stifle organic creative curiosity",
+      "It makes children grow taller instantly",
+      "It turns children into professional athletes automatically",
+      "It eliminates the need for sleep"
+    ],
+    correctAnswer: 0,
+    difficulty: "HARD",
+    damage: 350,
+    explanation: "Over-regulation and hyper-critical micro-parenting induce self-doubt, anxiety, and suppressed creative problem-solving."
+  },
+  {
+    classLevel: 7,
+    subject: "English",
+    chapter: "Chapter 4: The Ashes That Made Trees Bloom & Chivvy",
+    question: "In 'The Ashes That Made Trees Bloom', how did the kind old couple spend their wealth after receiving gold from the Daimyo?",
+    options: [
+      "They bought fertile fields of land, gave a lavish feast to all their friends and neighbors, and generously provided for their poor neighbors",
+      "They built a golden fortress and refused to speak to anyone",
+      "They sailed away to Europe on a private ship",
+      "They buried all the gold in a deep cave"
+    ],
+    correctAnswer: 0,
+    difficulty: "HARD",
+    damage: 350,
+    explanation: "The couple exemplified unselfish community stewardship: buying land, hosting feasts, and aiding the indigent."
+  },
+  {
+    classLevel: 7,
+    subject: "English",
+    chapter: "Chapter 4: The Ashes That Made Trees Bloom & Chivvy",
+    question: "Which of the following lines from 'Chivvy' highlights social decorum regarding vocal volume and personal space?",
+    options: [
+      "\"Speak up! / Don't talk with your mouth full / Don't stare / Don't point / Don't pick your nose\"",
+      "\"Jump into the puddle!\"",
+      "\"Sing at midnight!\"",
+      "\"Eat food with your fingers!\""
+    ],
+    correctAnswer: 0,
+    difficulty: "HARD",
+    damage: 350,
+    explanation: "This stanza directly addresses public decorum: vocal clarity, mastication silence, polite gaze, and hygienic boundaries."
+  },
+  {
+    classLevel: 7,
+    subject: "English",
+    chapter: "Chapter 4: The Ashes That Made Trees Bloom & Chivvy",
+    question: "What cultural resonance does the 'Cherry Blossom' (Sakura) hold in Japanese aesthetics as portrayed in this folktale?",
+    options: [
+      "Sakura symbolizes purity, spring renewal, the blossoming of divine grace, and the transient beauty of life restored through moral goodness",
+      "It is a symbol of war and destruction",
+      "It is used only for making poison",
+      "It represents dark winter nights"
+    ],
+    correctAnswer: 0,
+    difficulty: "HARD",
+    damage: 350,
+    explanation: "Sakura (cherry blossom) in Japanese folklore represents ephemeral beauty, spiritual resurrection, and the auspicious triumph of pure virtue."
+  },
+  {
+    classLevel: 7,
+    subject: "English",
+    chapter: "Chapter 4: The Ashes That Made Trees Bloom & Chivvy",
+    question: "What comprehensive ethical lesson links Chapter 4 of NCERT Class 7 English?",
+    options: [
+      "True human dignity flourishes through unconditional kindness, respect for life, and understanding the delicate balance between guided discipline and nurturing independent personal thought",
+      "That children should never be corrected by anyone",
+      "That only dogs understand magic",
+      "That trees only bloom when beaten"
+    ],
+    correctAnswer: 0,
+    difficulty: "HARD",
+    damage: 350,
+    explanation: "Chapter 4 weaves together ecological compassion, karmic benevolence, and insightful pedagogy balancing discipline with autonomy."
+  }
+];
+
+console.log('Generated Class 7 English Ch4:', englishQuestions.length);
+fs.writeFileSync('C:/EduVerse/class 7/cross_subject/english_ch4.json', JSON.stringify(englishQuestions, null, 2), 'utf8');

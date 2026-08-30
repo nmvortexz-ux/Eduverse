@@ -1,0 +1,565 @@
+import fs from 'fs';
+
+// -------------------------------------------------------------
+// SUBJECT 3: English - Chapter 7: The Invention of Vita-Wonk & Dad and the Cat and the Tree (40 Questions)
+// -------------------------------------------------------------
+const englishQuestions = [
+  // EASY (12)
+  {
+    classLevel: 7,
+    subject: "English",
+    chapter: "Chapter 7: The Invention of Vita-Wonk & Dad and the Cat and the Tree",
+    question: "In Roald Dahl's imaginative excerpt 'The Invention of Vita-Wonk', who is the eccentric, brilliant chocolatier and inventor?",
+    options: ["Mr. Willy Wonka", "Charlie Bucket", "Mr. Gessler", "Nishad"],
+    correctAnswer: 0,
+    difficulty: "EASY",
+    damage: 150,
+    explanation: "Mr. Willy Wonka is the legendary eccentric inventor from Roald Dahl's 'Charlie and the Great Glass Elevator'."
+  },
+  {
+    classLevel: 7,
+    subject: "English",
+    chapter: "Chapter 7: The Invention of Vita-Wonk & Dad and the Cat and the Tree",
+    question: "What medicine did Mr. Willy Wonka first invent that made people become so much younger that some people vanished into negative ages (like minus eighty-seven)?",
+    options: ["Wonka-Vite", "Vita-Wonk", "Everlasting Gobstopper", "Fizzing Whizzpopper"],
+    correctAnswer: 0,
+    difficulty: "EASY",
+    damage: 150,
+    explanation: "Wonka-Vite made people younger; but being too potent, it made some people have negative ages (minus 87) where they had to wait 87 years to be born!"
+  },
+  {
+    classLevel: 7,
+    subject: "English",
+    chapter: "Chapter 7: The Invention of Vita-Wonk & Dad and the Cat and the Tree",
+    question: "What opposite new medicine does Mr. Willy Wonka set out to invent to make people grow older and reverse the negative age catastrophe?",
+    options: ["Vita-Wonk", "Wonka-Vite", "Snozzberry Syrup", "Magic Toffee"],
+    correctAnswer: 0,
+    difficulty: "EASY",
+    damage: 150,
+    explanation: "To undo the effects of Wonka-Vite, Mr. Wonka creates 'Vita-Wonk' to age people up."
+  },
+  {
+    classLevel: 7,
+    subject: "English",
+    chapter: "Chapter 7: The Invention of Vita-Wonk & Dad and the Cat and the Tree",
+    question: "What is the OLDEST living thing on Earth from which Mr. Wonka collects sap for Vita-Wonk?",
+    options: ["The Bristlecone Pine tree (living over 4,000 years on Wheeler Peak)", "An Oak tree", "A Redwood tree", "A Banyan tree"],
+    correctAnswer: 0,
+    difficulty: "EASY",
+    damage: 150,
+    explanation: "Mr. Wonka explains to Charlie that Bristlecone pines living on the slopes of Wheeler Peak in Nevada live over 4,000 years."
+  },
+  {
+    classLevel: 7,
+    subject: "English",
+    chapter: "Chapter 7: The Invention of Vita-Wonk & Dad and the Cat and the Tree",
+    question: "Which 20-year-old brave volunteer was given four drops of oily black Vita-Wonk liquid to test its aging power?",
+    options: ["An Oompa-Loompa volunteer named Oompa-Loompa", "Charlie Bucket", "Mr. Bucket", "Augustus Gloop"],
+    correctAnswer: 0,
+    difficulty: "EASY",
+    damage: 150,
+    explanation: "A brave 20-year-old Oompa-Loompa volunteer swallowed the four drops of oily black Vita-Wonk."
+  },
+  {
+    classLevel: 7,
+    subject: "English",
+    chapter: "Chapter 7: The Invention of Vita-Wonk & Dad and the Cat and the Tree",
+    question: "What dramatic physical transformation happened to the 20-year-old volunteer after swallowing the four drops of Vita-Wonk?",
+    options: [
+      "He began wrinkling and shriveling up, his hair dropped off, his teeth fell out, and he instantly became a feeble old fellow of SEVENTY-FIVE (75 years old)!",
+      "He turned into a giant green tree",
+      "He became a newborn baby",
+      "He turned into solid ice"
+    ],
+    correctAnswer: 0,
+    difficulty: "EASY",
+    damage: 150,
+    explanation: "Vita-Wonk aged the 20-year-old instantly into a 75-year-old wrinkly man, proving the invention's success."
+  },
+  {
+    classLevel: 7,
+    subject: "English",
+    chapter: "Chapter 7: The Invention of Vita-Wonk & Dad and the Cat and the Tree",
+    question: "In Kit Wright's humorous poem 'Dad and the Cat and the Tree', where was the cat stuck?",
+    options: ["High up in a tall tree in the garden", "On the roof of the house", "In a deep well", "On top of a telegraph pole"],
+    correctAnswer: 0,
+    difficulty: "EASY",
+    damage: 150,
+    explanation: "The poem begins: 'This morning a cat got stuck in our tree. / Dad said, \"Right, just leave it to me.\"'."
+  },
+  {
+    classLevel: 7,
+    subject: "English",
+    chapter: "Chapter 7: The Invention of Vita-Wonk & Dad and the Cat and the Tree",
+    question: "What boastful remark did Dad make to Mum before attempting to rescue the cat from the tree?",
+    options: [
+      "\"Easy as winking to a climber like me! Just leave it to me!\"",
+      "\"I will call the fire brigade!\"",
+      "\"Let the cat stay there forever!\"",
+      "\"I need to study climbing books!\""
+    ],
+    correctAnswer: 0,
+    difficulty: "EASY",
+    damage: 150,
+    explanation: "Dad overconfidently dismisses Mum's warnings: 'A climber like me? Child's play, this is!'."
+  },
+  {
+    classLevel: 7,
+    subject: "English",
+    chapter: "Chapter 7: The Invention of Vita-Wonk & Dad and the Cat and the Tree",
+    question: "What happened to Dad's 'PLAN A' using a ladder from the garden shed?",
+    options: [
+      "The ladder slipped and Dad landed flat in the flowerbed!",
+      "The ladder reached the cat easily",
+      "The ladder caught fire",
+      "The cat climbed down the ladder"
+    ],
+    correctAnswer: 0,
+    difficulty: "EASY",
+    damage: 150,
+    explanation: "Plan A failed: 'It slipped. He landed in the garden bed.'."
+  },
+  {
+    classLevel: 7,
+    subject: "English",
+    chapter: "Chapter 7: The Invention of Vita-Wonk & Dad and the Cat and the Tree",
+    question: "What happened to Dad's 'PLAN B' when he swung himself up onto a bough of the tree?",
+    options: [
+      "The bough snapped and Dad crashed heavily to the ground again!",
+      "He grabbed the cat gently",
+      "He fell asleep in the tree",
+      "He flew into the air"
+    ],
+    correctAnswer: 0,
+    difficulty: "EASY",
+    damage: 150,
+    explanation: "Plan B failed: 'He swung himself up on a bough. It broke. Dad grovelled.'."
+  },
+  {
+    classLevel: 7,
+    subject: "English",
+    chapter: "Chapter 7: The Invention of Vita-Wonk & Dad and the Cat and the Tree",
+    question: "What hilarious twist occurs at the end of the poem when Dad tries 'PLAN C' and leaps from the garden wall into the tree?",
+    options: [
+      "Dad lands flat on the cat, which yells and drops safely to the ground smiling smugly, while Dad is left STUCK high in the tree!",
+      "Both Dad and the cat fly away",
+      "The tree falls down",
+      "Mum climbs up and rescues both"
+    ],
+    correctAnswer: 0,
+    difficulty: "EASY",
+    damage: 150,
+    explanation: "Ironical climax: the cat leaps safely to the ground unharmed, leaving boastful Dad stuck in the tree crook."
+  },
+  {
+    classLevel: 7,
+    subject: "English",
+    chapter: "Chapter 7: The Invention of Vita-Wonk & Dad and the Cat and the Tree",
+    question: "What is the meaning of the colloquial idiom 'Child's play' used by Dad?",
+    options: ["Something that is very easy, simple, and effortless to do", "A complicated puzzle", "A board game for two players", "Playing with toys in a kindergarten"],
+    correctAnswer: 0,
+    difficulty: "EASY",
+    damage: 150,
+    explanation: "'Child's play' is an idiom signifying an effortless, elementary task."
+  },
+
+  // MEDIUM (16)
+  {
+    classLevel: 7,
+    subject: "English",
+    chapter: "Chapter 7: The Invention of Vita-Wonk & Dad and the Cat and the Tree",
+    question: "Which of the following absurd, whimsical ingredients was collected by Mr. Willy Wonka for brewing Vita-Wonk?",
+    options: [
+      "A pint of sap from a 4,000-year-old Bristlecone pine, the tail of a 51-year-old horse, whiskers of a 36-year-old cat named Crumpets, and an egg laid by a 207-year-old giant tortoise",
+      "Pure fresh milk and brown sugar only",
+      "Potatoes, onions, and salt",
+      "Gasoline and metal screws"
+    ],
+    correctAnswer: 0,
+    difficulty: "MEDIUM",
+    damage: 250,
+    explanation: "Dahl invents a surreal catalog of ancient biological curiosities for Wonka's aging elixir."
+  },
+  {
+    classLevel: 7,
+    subject: "English",
+    chapter: "Chapter 7: The Invention of Vita-Wonk & Dad and the Cat and the Tree",
+    question: "How did Mr. Willy Wonka travel across the globe to collect bits and pieces from the world's most ancient creatures?",
+    options: [
+      "He tracked them down in his Great Glass Elevator, searching high and low across continents and oceans",
+      "He walked on foot with a wooden stick",
+      "He rode on a bicycle",
+      "He sent emails to scientists"
+    ],
+    correctAnswer: 0,
+    difficulty: "MEDIUM",
+    damage: 250,
+    explanation: "Wonka zoomed across the planet in his fantastical Great Glass Elevator to harvest ancient specimen samples."
+  },
+  {
+    classLevel: 7,
+    subject: "English",
+    chapter: "Chapter 7: The Invention of Vita-Wonk & Dad and the Cat and the Tree",
+    question: "In the poem 'Dad and the Cat and the Tree', how is the cat described once it reaches the ground safely?",
+    options: [
+      "Pleased as Punch, smiling and smirking, safe and sound",
+      "Crying loudly in pain",
+      "Running away to another city",
+      "Angry at the father"
+    ],
+    correctAnswer: 0,
+    difficulty: "MEDIUM",
+    damage: 250,
+    explanation: "Textual lines: 'Smiling and smirking, / Smug as can be, / But poor old Dad's / Still / Stuck / Up / The / Tree!'."
+  },
+  {
+    classLevel: 7,
+    subject: "English",
+    chapter: "Chapter 7: The Invention of Vita-Wonk & Dad and the Cat and the Tree",
+    question: "What warning did Mum give Dad repeatedly throughout his disastrous rescue attempts in the tree?",
+    options: [
+      "\"For goodness' sake might break your neck!\" and \"Don't fall again!\"",
+      "\"Bring some flowers down!\"",
+      "\"Take a picture with the cat!\"",
+      "\"Cut down the tree!\""
+    ],
+    correctAnswer: 0,
+    difficulty: "MEDIUM",
+    damage: 250,
+    explanation: "Mum acts as the voice of sensible caution: 'For goodness' sake might break your neck!'."
+  },
+  {
+    classLevel: 7,
+    subject: "English",
+    chapter: "Chapter 7: The Invention of Vita-Wonk & Dad and the Cat and the Tree",
+    question: "What is the meaning of 'Pleased as Punch' in the description of the rescued cat?",
+    options: ["Extremely pleased, satisfied, and delighted with oneself", "Drinking fruit punch", "Angry after a fight", "Confused and scared"],
+    correctAnswer: 0,
+    difficulty: "MEDIUM",
+    damage: 250,
+    explanation: "'Pleased as Punch' is an English idiom denoting supreme self-satisfaction and delight."
+  },
+  {
+    classLevel: 7,
+    subject: "English",
+    chapter: "Chapter 7: The Invention of Vita-Wonk & Dad and the Cat and the Tree",
+    question: "What literary tone characterizes Roald Dahl's 'The Invention of Vita-Wonk'?",
+    options: [
+      "Whimsical, playful, hyperbolic fantasy filled with surreal humor and inventive wordplay",
+      "Gloomy and tragic horror",
+      "Strict scientific laboratory report",
+      "Political history speech"
+    ],
+    correctAnswer: 0,
+    difficulty: "MEDIUM",
+    damage: 250,
+    explanation: "Dahl's hallmark style: playful nonsensical cataloging, imaginative hyperbole, and exuberant linguistic inventiveness."
+  },
+  {
+    classLevel: 7,
+    subject: "English",
+    chapter: "Chapter 7: The Invention of Vita-Wonk & Dad and the Cat and the Tree",
+    question: "What is the meaning of the word 'Shrivel' in: 'He began shrivelling and wrinkling all over'?",
+    options: ["To shrink, wrinkle, and wither due to loss of moisture or aging", "To expand and grow larger", "To turn bright red", "To jump high"],
+    correctAnswer: 0,
+    difficulty: "MEDIUM",
+    damage: 250,
+    explanation: "'Shrivel' means contracting into wrinkles and losing suppleness."
+  },
+  {
+    classLevel: 7,
+    subject: "English",
+    chapter: "Chapter 7: The Invention of Vita-Wonk & Dad and the Cat and the Tree",
+    question: "Identify the figure of speech in: 'The Great Glass Elevator zoomed around the world like a comet.'",
+    options: ["Simile (using 'like')", "Metaphor", "Personification", "Alliteration only"],
+    correctAnswer: 0,
+    difficulty: "MEDIUM",
+    damage: 250,
+    explanation: "Simile uses 'like' to compare the speed of the glass elevator to a celestial comet."
+  },
+  {
+    classLevel: 7,
+    subject: "English",
+    chapter: "Chapter 7: The Invention of Vita-Wonk & Dad and the Cat and the Tree",
+    question: "What is the SYNONYM of 'Eccentric' as applied to Mr. Willy Wonka?",
+    options: ["Unconventional, quirky, and uniquely original", "Boring and ordinary", "Cruel and mean", "Lazy and sleepy"],
+    correctAnswer: 0,
+    difficulty: "MEDIUM",
+    damage: 250,
+    explanation: "'Eccentric' characterizes unconventional, delightfully idiosyncratic behavior."
+  },
+  {
+    classLevel: 7,
+    subject: "English",
+    chapter: "Chapter 7: The Invention of Vita-Wonk & Dad and the Cat and the Tree",
+    question: "What is the ANTONYM of 'Ancient' in: 'He searched for ancient creatures'?",
+    options: ["Modern / Contemporary / Youthful", "Antique", "Archaic", "Primeval"],
+    correctAnswer: 0,
+    difficulty: "MEDIUM",
+    damage: 250,
+    explanation: "The antonym of 'ancient' (of extreme age) is 'modern' or 'contemporary'."
+  },
+  {
+    classLevel: 7,
+    subject: "English",
+    chapter: "Chapter 7: The Invention of Vita-Wonk & Dad and the Cat and the Tree",
+    question: "Choose the correct spelling:",
+    options: ["Bristlecone", "Bristlecon", "Brystlecone", "Bristelcone"],
+    correctAnswer: 0,
+    difficulty: "MEDIUM",
+    damage: 250,
+    explanation: "Correct orthography: B-R-I-S-T-L-E-C-O-N-E (pine species)."
+  },
+  {
+    classLevel: 7,
+    subject: "English",
+    chapter: "Chapter 7: The Invention of Vita-Wonk & Dad and the Cat and the Tree",
+    question: "What is the meaning of the phrasal verb 'To track down' in: 'Mr. Wonka tracked down the rarest specimens'?",
+    options: ["To search for and successfully find after a diligent hunt", "To run on a race track", "To lose something forever", "To step on mud"],
+    correctAnswer: 0,
+    difficulty: "MEDIUM",
+    damage: 250,
+    explanation: "'To track down' means finding someone or something through diligent investigation."
+  },
+  {
+    classLevel: 7,
+    subject: "English",
+    chapter: "Chapter 7: The Invention of Vita-Wonk & Dad and the Cat and the Tree",
+    question: "Identify the part of speech of the underlined word in: 'The cat jumped **smuglyn** down to the grass.'",
+    options: ["Adverb of Manner", "Adjective", "Noun", "Preposition"],
+    correctAnswer: 0,
+    difficulty: "MEDIUM",
+    damage: 250,
+    explanation: "'Smuglyn' / 'smugly' is an adverb of manner modifying the verb 'jumped'."
+  },
+  {
+    classLevel: 7,
+    subject: "English",
+    chapter: "Chapter 7: The Invention of Vita-Wonk & Dad and the Cat and the Tree",
+    question: "In the poem, how does the visual typography of the final lines mirror Dad's predicament?\n'Still / Stuck / Up / The / Tree!'",
+    options: [
+      "The vertical single-word ladder layout visually mimics the physical height of the tall tree where Dad remains trapped",
+      "It was a printing mistake in the book",
+      "It represents falling rain",
+      "It makes the poem shorter"
+    ],
+    correctAnswer: 0,
+    difficulty: "MEDIUM",
+    damage: 250,
+    explanation: "Concrete/visual poetry technique: vertical arrangement spatializes the physical elevation of Dad's entrapment."
+  },
+  {
+    classLevel: 7,
+    subject: "English",
+    chapter: "Chapter 7: The Invention of Vita-Wonk & Dad and the Cat and the Tree",
+    question: "What is the meaning of 'Grovelled' in: 'Dad grovelled on the ground'?",
+    options: ["Lay crawling or sprawling clumsily on the ground", "Danced happily", "Flew like a bird", "Climbed up smoothly"],
+    correctAnswer: 0,
+    difficulty: "MEDIUM",
+    damage: 250,
+    explanation: "'Grovelled' humorously depicts sprawling awkwardly face-down upon the dirt."
+  },
+  {
+    classLevel: 7,
+    subject: "English",
+    chapter: "Chapter 7: The Invention of Vita-Wonk & Dad and the Cat and the Tree",
+    question: "Convert into DIRECT SPEECH:\nMum warned Dad that he would break his neck if he fell again.",
+    options: [
+      "Mum warned Dad, \"You will break your neck if you fall again!\"",
+      "Mum warned Dad, \"He would break his neck if he fell.\"",
+      "Mum said, \"Why do you fall?\"",
+      "Mum said, \"Break your neck!\""
+    ],
+    correctAnswer: 0,
+    difficulty: "MEDIUM",
+    damage: 250,
+    explanation: "Direct speech restores first/second person pronouns and present modal verbs ('You will break...')."
+  },
+
+  // HARD (12)
+  {
+    classLevel: 7,
+    subject: "English",
+    chapter: "Chapter 7: The Invention of Vita-Wonk & Dad and the Cat and the Tree",
+    question: "Read the statements:\nAssertion (A): Roald Dahl's 'The Invention of Vita-Wonk' and Kit Wright's 'Dad and the Cat and the Tree' both employ the comedic technique of 'Inversion of Expectations' (Situational Irony).\nReason (R): In Dahl's story, an aging elixir produces an instant transformation from youth to 75-year-old decrepitude; in Wright's poem, the boastful rescuer ends up trapped in the tree while the stranded cat lands on the ground triumphant.\nChoose the correct option:",
+    options: [
+      "Both (A) and (R) are true, and (R) is the correct explanation of (A).",
+      "Both (A) and (R) are true, but (R) is NOT the correct explanation of (A).",
+      "(A) is true, but (R) is false.",
+      "(A) is false, but (R) is true."
+    ],
+    correctAnswer: 0,
+    difficulty: "HARD",
+    damage: 350,
+    explanation: "Both texts turn conventional outcomes upside down to achieve brilliant slapstick and satirical humor."
+  },
+  {
+    classLevel: 7,
+    subject: "English",
+    chapter: "Chapter 7: The Invention of Vita-Wonk & Dad and the Cat and the Tree",
+    question: "Spot the IMPOSTER among the following ingredients gathered by Mr. Willy Wonka:\nGroup:\n1. Toe-nail clipping from a 168-year-old Russian farmer (Petrovitch Gregorovitch)\n2. Tail of a 207-year-old giant tortoise from Tonga\n3. Whiskers of a 36-year-old cat named Crumpets\n4. A smartphone loaded with video games",
+    options: ["Ingredient 1", "Ingredient 2", "Ingredient 3", "Ingredient 4 (Modern electronic smartphones do NOT exist in Dahl's whimsical 19th-century catalog of ancient biological curiosities)"],
+    correctAnswer: 3,
+    difficulty: "HARD",
+    damage: 350,
+    explanation: "Ingredient 4 is an absurd modern anachronism; Wonka collected bizarre biological specimens from ancient flora and fauna."
+  },
+  {
+    classLevel: 7,
+    subject: "English",
+    chapter: "Chapter 7: The Invention of Vita-Wonk & Dad and the Cat and the Tree",
+    question: "Analyze the comedic character flaw of 'Dad' in Kit Wright's poem:\nHow does male bravado and refusal to heed sensible advice drive the escalating narrative comedy?",
+    options: [
+      "Dad's stubborn ego and overestimation of his climbing prowess leads to a comical sequence of escalating physical disasters (Plans A, B, and C), ultimately reducing the rescuer to the stranded victim",
+      "Dad is secretly an Olympic gymnast",
+      "Dad wants to chop down the garden tree",
+      "Dad hates all animals"
+    ],
+    correctAnswer: 0,
+    difficulty: "HARD",
+    damage: 350,
+    explanation: "The comedic engine is hubris: boastful bravado repeatedly meeting humiliating slapstick gravity."
+  },
+  {
+    classLevel: 7,
+    subject: "English",
+    chapter: "Chapter 7: The Invention of Vita-Wonk & Dad and the Cat and the Tree",
+    question: "Match Column I (Literary Works / Episodes) with Column II (Central Humorous Elements):\n(a) Wonka-Vite Recipe            -> (i) Over-potent youth formula resulting in negative chronological existence\n(b) Vita-Wonk Extraction        -> (ii) Surreal distillation of ancient biological curiosities from around the globe\n(c) Dad's Plan A (Ladder)        -> (iii) Slipping into the flowerbed with dirt on hair and face\n(d) Dad's Plan C (Wall Leap)     -> (iv) Landing directly on the cat, triggering the cat's escape and Dad's entrapment",
+    options: [
+      "a-(i), b-(ii), c-(iii), d-(iv)",
+      "a-(ii), b-(i), c-(iv), d-(iii)",
+      "a-(iv), b-(iii), c-(ii), d-(i)",
+      "a-(iii), b-(iv), c-(i), d-(ii)"
+    ],
+    correctAnswer: 0,
+    difficulty: "HARD",
+    damage: 350,
+    explanation: "Wonka-Vite = negative age; Vita-Wonk = ancient ingredients; Plan A = flowerbed fall; Plan C = cat escape & father trapped."
+  },
+  {
+    classLevel: 7,
+    subject: "English",
+    chapter: "Chapter 7: The Invention of Vita-Wonk & Dad and the Cat and the Tree",
+    question: "Read the statements regarding Roald Dahl's imaginative techniques:\nStatement 1: Dahl combines genuine scientific botanical facts (Bristlecone pines living >4,000 years) with absurd hyperbolic fiction (1,000-year-old stallion tails).\nStatement 2: The Invention of Vita-Wonk explores human fascination with the manipulation of time and aging.\nStatement 3: Mr. Wonka's laboratory was completely destroyed by an alien invasion.\nWhich statements are TRUE?",
+    options: ["Statements 1 and 2 only", "Statements 2 and 3 only", "Statements 1 and 3 only", "All Statements 1, 2, and 3"],
+    correctAnswer: 0,
+    difficulty: "HARD",
+    damage: 350,
+    explanation: "Statement 3 is false. Statements 1 and 2 highlight Dahl's unique fusion of authentic natural science and exuberantly surreal fiction."
+  },
+  {
+    classLevel: 7,
+    subject: "English",
+    chapter: "Chapter 7: The Invention of Vita-Wonk & Dad and the Cat and the Tree",
+    question: "Change the complex sentence into PASSIVE VOICE:\n'Mr. Willy Wonka distilled the mysterious black liquid in his testing laboratory.'",
+    options: [
+      "'The mysterious black liquid was distilled by Mr. Willy Wonka in his testing laboratory.'",
+      "'In his testing laboratory distilled Mr. Willy Wonka the liquid.'",
+      "'The testing laboratory was distilling the mysterious black liquid.'",
+      "'The mysterious black liquid had been distilling by Mr. Wonka.'"
+    ],
+    correctAnswer: 0,
+    difficulty: "HARD",
+    damage: 350,
+    explanation: "Passive voice: Object ('The mysterious black liquid') + was distilled + agent ('by Mr. Willy Wonka') + location."
+  },
+  {
+    classLevel: 7,
+    subject: "English",
+    chapter: "Chapter 7: The Invention of Vita-Wonk & Dad and the Cat and the Tree",
+    question: "Identify the grammatical role of the underlined participial clause in: '**Leaping from the garden wall**, Dad crashed straight into the crook of the tree.'",
+    options: [
+      "Present Participial Phrase acting as an adverbial modifier of manner/time for the subject 'Dad'",
+      "Noun Clause acting as object",
+      "Infinitive of purpose",
+      "Relative clause"
+    ],
+    correctAnswer: 0,
+    difficulty: "HARD",
+    damage: 350,
+    explanation: "'Leaping from the garden wall' is an introductory participial phrase describing Dad's dynamic action modifying the main clause."
+  },
+  {
+    classLevel: 7,
+    subject: "English",
+    chapter: "Chapter 7: The Invention of Vita-Wonk & Dad and the Cat and the Tree",
+    question: "Why does Roald Dahl emphasize the precise botanical reality of the 'Bristlecone Pine' in his dialogue with Charlie?",
+    options: [
+      "To anchor his fantastical narrative in authentic natural wonder, proving to children that nature's real living marvels are often more incredible than fiction",
+      "To encourage people to cut down trees",
+      "To sell wood furniture",
+      "Because Dahl lived in Nevada"
+    ],
+    correctAnswer: 0,
+    difficulty: "HARD",
+    damage: 350,
+    explanation: "Dahl grounds his fantasy in genuine botanical awe: the ancient Bristlecone pine (Pinus longaeva) really is Earth's oldest living non-clonal organism."
+  },
+  {
+    classLevel: 7,
+    subject: "English",
+    chapter: "Chapter 7: The Invention of Vita-Wonk & Dad and the Cat and the Tree",
+    question: "In the rhythm and rhyme scheme of 'Dad and the Cat and the Tree', what poetic form enhances the fast-paced slapstick delivery?",
+    options: [
+      "Rhyming quatrains (AABB / ABCB) with lively, bouncy anapestic and iambic meter that mimics the escalating cadence of cartoon physical comedy",
+      "Sombre funeral elegiac verse",
+      "Unrhymed blank verse in sonnet form",
+      "Ancient Greek hexameter"
+    ],
+    correctAnswer: 0,
+    difficulty: "HARD",
+    damage: 350,
+    explanation: "Bouncy ballad quatrains with sharp rhyming couplets propel the slapstick narrative forward with brisk comedic timing."
+  },
+  {
+    classLevel: 7,
+    subject: "English",
+    chapter: "Chapter 7: The Invention of Vita-Wonk & Dad and the Cat and the Tree",
+    question: "What does the phrase 'Rubbed his hands together' signify when Mr. Willy Wonka proclaims the success of his invention?",
+    options: [
+      "A universal human physical gesture denoting extreme excitement, triumphant satisfaction, and anticipation of success",
+      "That his hands were very cold",
+      "That he wanted to wash his hands",
+      "That he was angry at Charlie"
+    ],
+    correctAnswer: 0,
+    difficulty: "HARD",
+    damage: 350,
+    explanation: "Rubbing hands together is a kinetic body language idiom expressing eager anticipation and triumphant professional delight."
+  },
+  {
+    classLevel: 7,
+    subject: "English",
+    chapter: "Chapter 7: The Invention of Vita-Wonk & Dad and the Cat and the Tree",
+    question: "Which of the following lines from the poem contains an ONOMATOPOEIC sound word?",
+    options: [
+      "\"The bough broke — SMACK! / Dad grovelled.\"",
+      "\"A climber like me?\"",
+      "\"This morning a cat got stuck in our tree.\"",
+      "\"Smiling and smirking, smug as can be.\""
+    ],
+    correctAnswer: 0,
+    difficulty: "HARD",
+    damage: 350,
+    explanation: "'SMACK!' is an onomatopoeic auditory word recreating the sharp physical acoustic impact of landing on the ground."
+  },
+  {
+    classLevel: 7,
+    subject: "English",
+    chapter: "Chapter 7: The Invention of Vita-Wonk & Dad and the Cat and the Tree",
+    question: "What overarching literary value unites Chapter 7 of NCERT Class 7 English?",
+    options: [
+      "The celebration of exuberant literary imagination, boundless creative curiosity, and the therapeutic power of lighthearted humor in transforming everyday life into whimsical wonder",
+      "That climbing trees is strictly forbidden by law",
+      "That medicines should be mixed with tea",
+      "That cats are always smarter than humans"
+    ],
+    correctAnswer: 0,
+    difficulty: "HARD",
+    damage: 350,
+    explanation: "Chapter 7 champions the vitality of imaginative storytelling, joyful wordplay, and the playful subversion of self-serious adult authority."
+  }
+];
+
+console.log('Generated Class 7 English Ch7:', englishQuestions.length);
+fs.writeFileSync('C:/EduVerse/class 7/cross_subject/english_ch7.json', JSON.stringify(englishQuestions, null, 2), 'utf8');

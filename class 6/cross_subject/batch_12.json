@@ -1,0 +1,3842 @@
+[
+  {
+    "classLevel": 6,
+    "subject": "Science",
+    "chapter": "Chapter 12: Garbage In, Garbage Out",
+    "question": "A low-lying open area of land where garbage collected from a city is dumped, spread out, and covered with a layer of soil is called a:",
+    "options": [
+      "Landfill",
+      "Compost pit",
+      "Incinerator",
+      "Water treatment plant"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "A landfill is an engineered low-lying site where municipal solid waste is compacted and capped with earth."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Science",
+    "chapter": "Chapter 12: Garbage In, Garbage Out",
+    "question": "Waste materials that can be broken down naturally and decomposed by microorganisms into harmless natural substances (such as vegetable peels, leftover food, dry leaves) are called:",
+    "options": [
+      "Biodegradable Waste",
+      "Non-biodegradable Waste",
+      "Plastic Waste",
+      "Toxic Waste"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "Biodegradable organic waste undergoes natural biological decomposition by bacteria and fungi into humus."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Science",
+    "chapter": "Chapter 12: Garbage In, Garbage Out",
+    "question": "Waste materials that CANNOT be decomposed naturally by biological organisms and persist in the environment for centuries (such as plastic bags, glass, aluminium cans) are called:",
+    "options": [
+      "Non-biodegradable Waste",
+      "Biodegradable Waste",
+      "Organic Waste",
+      "Compost"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "Non-biodegradable synthetic polymers and metals resist microbial enzymatic degradation, accumulating as persistent pollution."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Science",
+    "chapter": "Chapter 12: Garbage In, Garbage Out",
+    "question": "The natural biological process of converting biodegradable kitchen and plant waste into nutrient-rich organic manure is called:",
+    "options": [
+      "Composting",
+      "Landfilling",
+      "Recycling",
+      "Incineration"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "Composting aerobic/anaerobic decomposition converts discarded organic matter into nutrient-rich soil humus."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Science",
+    "chapter": "Chapter 12: Garbage In, Garbage Out",
+    "question": "The method of preparing rich compost from organic waste using specialized 'Redworms' (Eisenia fetida) is called:",
+    "options": [
+      "Vermicomposting",
+      "Chemical fertilizing",
+      "Incineration",
+      "Sedimentation"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "Vermicomposting uses epigeic redworms (Eisenia fetida) to bio-convert organic waste into vermicast fertilizer."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Science",
+    "chapter": "Chapter 12: Garbage In, Garbage Out",
+    "question": "What color dustbin is designated by municipalities for collecting BIODEGRADABLE wet kitchen waste, fruit peels, and animal waste?",
+    "options": [
+      "Green Dustbin",
+      "Blue Dustbin",
+      "Red Dustbin",
+      "Black Dustbin"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "Green bins collect biodegradable organic kitchen wet waste destined for community composting."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Science",
+    "chapter": "Chapter 12: Garbage In, Garbage Out",
+    "question": "What color dustbin is designated by municipalities for collecting RECYCLABLE dry waste (plastics, metals, glass, paper)?",
+    "options": [
+      "Blue Dustbin",
+      "Green Dustbin",
+      "Yellow Dustbin",
+      "Brown Dustbin"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "Blue bins collect non-biodegradable dry recyclable items like plastic bottles, glass, and metals."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Science",
+    "chapter": "Chapter 12: Garbage In, Garbage Out",
+    "question": "What specialized internal muscular organ do Redworms possess to grind their food in the absence of true teeth?",
+    "options": [
+      "Gizzard (which uses swallowed sand/grit particles to grind food)",
+      "Stomach",
+      "Beak",
+      "Tongue"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "Redworms lack teeth; food is ground in a muscular gizzard aided by ingested mineral grit particles."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Science",
+    "chapter": "Chapter 12: Garbage In, Garbage Out",
+    "question": "What are the famous '3 Rs' of modern solid waste management and environmental conservation?",
+    "options": [
+      "Reduce, Reuse, Recycle",
+      "Read, Record, Remember",
+      "Run, Rest, Repeat",
+      "Remove, Repair, Replace"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "The 3Rs hierarchy prioritizes: 1. Reduce consumption, 2. Reuse items, and 3. Recycle discarded materials."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Science",
+    "chapter": "Chapter 12: Garbage In, Garbage Out",
+    "question": "Which of the following household waste items CAN be easily recycled into fresh new paper in a classroom?",
+    "options": [
+      "Old newspapers, magazines, and used notebook paper",
+      "Plastic carry bags",
+      "Glass bottles",
+      "Broken ceramic cups"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "Waste cellulose paper pulp can be soaked, meshed, strained on wire frames, and dried into recycled paper."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Science",
+    "chapter": "Chapter 12: Garbage In, Garbage Out",
+    "question": "Why should we NEVER burn dry fallen leaves, plastic waste, or synthetic garbage in open streets?",
+    "options": [
+      "Open burning releases highly toxic smoke, cancer-causing dioxins, and particulate matter that cause severe respiratory illnesses and air pollution",
+      "Because ash turns into gold",
+      "Because fire makes the ground too cold",
+      "Because fire destroys the sun"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "Incomplete combustion of plastics and biomass releases toxic dioxins, furans, PM2.5, and carbon monoxide."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Science",
+    "chapter": "Chapter 12: Garbage In, Garbage Out",
+    "question": "What eco-friendly shopping bag should we use instead of single-use polythene plastic bags?",
+    "options": [
+      "Bags made of Cloth, Jute, or recycled Paper",
+      "Thicker plastic bags",
+      "Aluminium foil bags",
+      "Thermocol boxes"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "Jute and woven cotton bags are reusable, durable, renewable, and 100% biodegradable."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Science",
+    "chapter": "Chapter 12: Garbage In, Garbage Out",
+    "question": "Why is putting cooked food with salt, oil, vinegar, or meat/dairy products into a Vermicomposting pit strictly avoided?",
+    "options": [
+      "Oils, spices, and animal meats attract harmful disease-causing bacteria, foul smell, and pests (rats, ants) that can kill the redworms",
+      "Because worms become too fat",
+      "Because salt makes compost too sweet",
+      "Because redworms only eat ice"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "Saline, acidic, and fatty animal wastes rot pathogenically and destroy the neutral pH micro-habitat of redworms."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Science",
+    "chapter": "Chapter 12: Garbage In, Garbage Out",
+    "question": "What ideal physical environmental conditions are required inside a vermicompost pit for redworms to thrive?",
+    "options": [
+      "Moist, shaded, and well-aerated bedding (loose soil, wire mesh/sand base) with moderate temperature (neither too hot nor freezing cold)",
+      "Direct scorching sunlight with boiling water",
+      "Bone-dry gravel in total darkness",
+      "Submerged in deep standing water"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "Redworms require 60–80% moisture, loose organic bedding, and 15–25°C ambient temperature for optimal digestion."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Science",
+    "chapter": "Chapter 12: Garbage In, Garbage Out",
+    "question": "Why do stray cows and street animals often choke and die after scavenging from open garbage dumps?",
+    "options": [
+      "They swallow discarded polythene plastic bags filled with leftover food; the indigestible plastic accumulates in their rumen stomach, blocking digestion lethally",
+      "Because garbage is too heavy",
+      "Because they drink rain water",
+      "Because cows cannot chew food"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "Plastic bags containing food scraps are swallowed whole by ruminants, causing fatal gastrointestinal impaction."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Science",
+    "chapter": "Chapter 12: Garbage In, Garbage Out",
+    "question": "How does a city municipal corporation transform an old, completely filled landfill site after 20 years?",
+    "options": [
+      "It is sealed with thick clay capping and topsoil and converted into a green public recreational park or playground (no heavy buildings are built for decades)",
+      "It is turned into a deep lake",
+      "High-rise glass skyscrapers are built immediately",
+      "It is dug up and thrown into the sea"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "Decommissioned landfills (e.g. Indraprastha Millennium Park in Delhi) are converted into parks due to soil settlement and methane venting."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Science",
+    "chapter": "Chapter 12: Garbage In, Garbage Out",
+    "question": "Why are single-use plastic bags and thermocol disposable cups a major cause of urban flash floods during monsoons?",
+    "options": [
+      "Carelessly discarded plastic litter is washed into roadside drains and sewage pipes, clogging municipal drainage and causing dirty water overflow",
+      "Because plastic produces rain clouds",
+      "Because plastic absorbs all water",
+      "Because plastic makes drains too clean"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "Non-biodegradable plastic debris physically chokes stormwater culverts and sewer conduits, triggering severe street waterlogging."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Science",
+    "chapter": "Chapter 12: Garbage In, Garbage Out",
+    "question": "What is the primary ecological benefit of practicing 'Waste Segregation at Source' (in every household)?",
+    "options": [
+      "It prevents recyclable dry materials from getting contaminated by rotting wet waste, maximizing recycling efficiency and enabling clean composting",
+      "It makes garbage look beautiful",
+      "It reduces the weight of food",
+      "It stops garbage from producing heat"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "Source separation segregates organic feedstock for bioconversion while keeping recyclables uncontaminated."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Science",
+    "chapter": "Chapter 12: Garbage In, Garbage Out",
+    "question": "Why is Vermicompost (vermicast) considered superior to synthetic chemical fertilizers for agricultural soil?",
+    "options": [
+      "It enhances soil microbial biodiversity, improves water retention, enriches soil structure naturally without chemical leaching or soil toxicity",
+      "It kills all earthworms in the farm",
+      "It makes soil completely dry",
+      "It changes plant color to purple"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "Vermicompost provides bioavailable N-P-K, humic acids, and beneficial soil mycorrhizae without chemical soil salinization."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Science",
+    "chapter": "Chapter 12: Garbage In, Garbage Out",
+    "question": "How can students easily make recycled decorative paper sheets at home or school?",
+    "options": [
+      "Tear waste paper into shreds, soak in water to make thick pulp, spread evenly over a wire mesh frame, press out excess water, decorate with dried flower petals, and sun dry",
+      "Melt plastic bottles in an oven",
+      "Burn paper and mix ash with water",
+      "Paint old wood with oil"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "Handmade papermaking meshes soaked recycled cellulose pulp onto deckle frames, creating textured artisan sheets."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Science",
+    "chapter": "Chapter 12: Garbage In, Garbage Out",
+    "question": "Why should we avoid packing warm, edible cooked food items in recycled colored polythene plastic bags?",
+    "options": [
+      "Recycled plastics contain toxic heavy metal dyes and chemical plasticizers that leach into hot food, causing toxic food poisoning",
+      "Because recycled bags smell like strawberries",
+      "Because colored bags keep food too hot",
+      "Because food turns into plastic"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "Non-food-grade recycled plastic carries phthalates, lead, and cadmium residues that migrate into fatty, warm foodstuffs."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Science",
+    "chapter": "Chapter 12: Garbage In, Garbage Out",
+    "question": "What is 'Kabaadiwala' (Scrap Dealer / Informal Recycler) in the Indian municipal waste ecosystem?",
+    "options": [
+      "Crucial grassroots recycling entrepreneurs who purchase discarded paper, cardboard, scrap metal, glass, and plastics to supply to industrial recycling factories",
+      "People who burn garbage in forests",
+      "Drivers of city buses",
+      "Street food sellers"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "Informal kabadiwalas recover millions of tons of dry recyclables, achieving high diversion rates from landfills."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Science",
+    "chapter": "Chapter 12: Garbage In, Garbage Out",
+    "question": "How does nature naturally recycle dead plant and animal remains in a pristine forest?",
+    "options": [
+      "Decomposers (bacteria, fungi, earthworms, beetles) break down fallen leaves and carcasses into nutrient-rich humus soil, which feeds new growing trees (Zero Waste in Nature)",
+      "Forests have trash trucks",
+      "Rivers wash everything into outer space",
+      "Sunlight burns all leaves instantly"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "Natural biogeochemical nutrient cycles operate in closed loops where biotic detritus becomes nutrient feedstock for autotrophs."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Science",
+    "chapter": "Chapter 12: Garbage In, Garbage Out",
+    "question": "What happens when non-biodegradable plastics are dumped in soil?",
+    "options": [
+      "They form an impermeable underground barrier that blocks rainwater percolation into deep aquifers, degrading soil health and vegetation growth",
+      "They dissolve into fertilizer within 2 days",
+      "They turn into groundwater",
+      "They make soil softer"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "Buried plastic membranes impede groundwater recharge, soil aeration, and root penetration."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Science",
+    "chapter": "Chapter 12: Garbage In, Garbage Out",
+    "question": "What is a major advantage of using traditional Clay Cups ('Kulhads') and Dried Leaf Plates ('Pattals') during public festivals?",
+    "options": [
+      "They are 100% natural and biodegradable; when discarded, they dissolve back harmlessly into fertile soil without toxic plastic pollution",
+      "They can be used for 50 years",
+      "They are made of metal",
+      "They never break"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "Terracotta kulhads and Sal leaf pattals provide compostable, sustainable indigenous alternatives to single-use plastics."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Science",
+    "chapter": "Chapter 12: Garbage In, Garbage Out",
+    "question": "Which of the following is a direct, responsible action an individual student can take to 'REDUCE' waste generation?",
+    "options": [
+      "Using a durable refillable steel water bottle and reusable lunchbox instead of single-use plastic bottles and plastic foil wraps",
+      "Throwing away half-eaten food in the street",
+      "Using 10 new plastic bags every day",
+      "Buying disposable pens and throwing them away after one use"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "Source reduction eliminates disposable waste generation at the consumer level."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Science",
+    "chapter": "Chapter 12: Garbage In, Garbage Out",
+    "question": "What is 'Leachate' generated in unscientific open garbage landfills?",
+    "options": [
+      "A highly toxic, black liquid formed when rainwater percolates through rotting waste, which can seep underground and poison drinking groundwater wells",
+      "Clean drinking water",
+      "Mineral spring water",
+      "Compost powder"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "Landfill leachate is a hazardous liquid contaminated with dissolved heavy metals, ammonia, and organic toxins."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Science",
+    "chapter": "Chapter 12: Garbage In, Garbage Out",
+    "question": "What civic national mission was launched on 2nd October 2014 across India to eliminate open defecation, promote scientific solid waste management, and create cleaner cities?",
+    "options": [
+      "Swachh Bharat Abhiyan (Clean India Mission)",
+      "Digital India",
+      "Make in India",
+      "Smart Cities Mission"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "Swachh Bharat Abhiyan transformed national sanitation, municipal waste processing, and behavioral cleanliness across India."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Science",
+    "chapter": "Chapter 12: Garbage In, Garbage Out",
+    "question": "Read the statements:\nAssertion (A): Plastics are a miraculous modern synthetic material, yet unmanaged single-use plastics constitute one of the gravest environmental threats to the global biosphere.\nReason (R): The exceptionally strong synthetic carbon-carbon polymer bonds in plastics make them practically impervious to natural microbial enzymatic digestion, persisting for over 500 years while releasing microplastics and endocrine disruptors.\nChoose the correct option:",
+    "options": [
+      "Both (A) and (R) are true, and (R) is the correct explanation of (A).",
+      "Both (A) and (R) are true, but (R) is NOT the correct explanation of (A).",
+      "(A) is true, but (R) is false.",
+      "(A) is false, but (R) is true."
+    ],
+    "correctAnswer": 0,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "High molecular weight synthetic polymers resist microbial hydrolytic enzymes, fragmenting into persistent microplastic pollutants."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Science",
+    "chapter": "Chapter 12: Garbage In, Garbage Out",
+    "question": "Spot the IMPOSTER in the following group of waste items categorized as 100% Biodegradable:\nGroup: [Banana peel, Cotton cloth scrap, Dried fallen leaves, Thermocol cup]",
+    "options": [
+      "Banana peel",
+      "Cotton cloth scrap",
+      "Dried fallen leaves",
+      "Thermocol cup"
+    ],
+    "correctAnswer": 3,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "Thermocol (expanded polystyrene) is a synthetic NON-BIODEGRADABLE polymer that persists indefinitely."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Science",
+    "chapter": "Chapter 12: Garbage In, Garbage Out",
+    "question": "A student sets up two test pits in the garden:\nPit A: Fruit peels, vegetable scraps, tea leaves, shredded paper.\nPit B: Polythene bags, broken glass pieces, aluminium foil wrappers, plastic toys.\nBoth are covered with soil and observed after 4 weeks. What will be the scientific observation?",
+    "options": [
+      "Contents of Pit A have rotted completely into dark, rich, earthy smelling compost humus; contents of Pit B remain completely unchanged without any decomposition",
+      "Contents of Pit B disappeared while Pit A turned into glass",
+      "Both pits turned into plastic",
+      "Neither pit showed any change"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "Pit A biodegradable organic matter undergoes microbial bio-oxidation into humus; Pit B non-biodegradables remain physically inert."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Science",
+    "chapter": "Chapter 12: Garbage In, Garbage Out",
+    "question": "Match Column I (Waste Materials) with Column II (Appropriate Management Disposal Method):\n(a) Vegetable peels & leaves -> (i) Vermicomposting / Compost pit\n(b) Scrap aluminium & glass  -> (ii) Blue bin for industrial recycling\n(c) Used plastic bottle      -> (iii) Reuse as a flower pot / stationery holder\n(d) Solid hospital syringes  -> (iv) High-temperature biomedical incineration",
+    "options": [
+      "a-(i), b-(ii), c-(iii), d-(iv)",
+      "a-(ii), b-(i), c-(iv), d-(iii)",
+      "a-(iv), b-(iii), c-(ii), d-(i)",
+      "a-(iii), b-(iv), c-(i), d-(ii)"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "Organic peels = composting; Scrap metals = recycling; Bottles = reuse; Biomedical waste = incineration."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Science",
+    "chapter": "Chapter 12: Garbage In, Garbage Out",
+    "question": "Read the statements regarding Vermicomposting:\nStatement 1: Redworms can consume organic waste equal to their own body weight every single day.\nStatement 2: Adding powdered eggshells or sea shells to the vermicompost pit helps redworms grind their food inside their gizzards.\nStatement 3: Redworms survive best in boiling hot water.\nWhich statements are TRUE?",
+    "options": [
+      "Statements 1 and 2 only",
+      "Statements 2 and 3 only",
+      "Statements 1 and 3 only",
+      "All Statements 1, 2, and 3"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "Statement 3 is false because high temperatures kill redworms instantly (they require 15–25°C). Statements 1 and 2 are biological facts."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Science",
+    "chapter": "Chapter 12: Garbage In, Garbage Out",
+    "question": "Why is the concept of 'Circular Economy' (Cradle to Cradle) considered the ultimate sustainable solution to global garbage crisis?",
+    "options": [
+      "It designs products so that all materials are endlessly reused, repaired, refurbished, and recycled in closed loops, eliminating the concept of 'waste' entirely",
+      "It dumps all waste into the deep ocean",
+      "It burns all garbage in giant rocket engines",
+      "It forces people to stop eating food"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "Circular economy replaces linear take-make-dispose models with regenerative closed loops maximizing resource utility."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Science",
+    "chapter": "Chapter 12: Garbage In, Garbage Out",
+    "question": "What is 'Bioremediation' in modern environmental biotechnology?",
+    "options": [
+      "Using living microorganisms (engineered bacteria, fungi) and plants to detoxify, break down, and clean up polluted soils, oil spills, and heavy metal contaminants",
+      "Covering garbage with plastic sheets",
+      "Spraying perfume over landfill sites",
+      "Burning garbage with nuclear lasers"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "Bioremediation utilizes microbial metabolic pathways to degrade hazardous xenobiotics into non-toxic end products."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Science",
+    "chapter": "Chapter 12: Garbage In, Garbage Out",
+    "question": "What is the phenomenon of 'Microplastics' in global marine ecosystems?",
+    "options": [
+      "Microscopic plastic particles (<5 mm) formed by the weathering breakdown of discarded plastic litter, which are ingested by plankton and fish, entering the human food chain",
+      "Tiny plastic toys for dolls",
+      "Microscopes made of plastic",
+      "Plastics that dissolve in 1 second"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "UV photo-oxidation and mechanical abrasion fragment macro-plastics into persistent trophic microplastics (<5 mm)."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Science",
+    "chapter": "Chapter 12: Garbage In, Garbage Out",
+    "question": "Why is 'Anaerobic Digestion' of segregated organic waste in biogas plants doubly beneficial for rural and urban sustainability?",
+    "options": [
+      "It produces clean renewable Methane Biogas for cooking and electricity while generating high-potency organic bio-slurry fertilizer",
+      "It produces gold and silver",
+      "It makes synthetic plastics",
+      "It turns water into oil"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "Methanogenic anaerobic digestion yields carbon-neutral biomethane fuel (CH₄) alongside nutrient-rich organic digestate."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Science",
+    "chapter": "Chapter 12: Garbage In, Garbage Out",
+    "question": "Consider four categories of household waste generated during a birthday party:\n1. Banana and orange peels\n2. Paper gift wrap sheets\n3. Plastic balloon ribbons and thermocol cups\n4. Leftover bread crusts\nWhich items should be placed strictly in the GREEN COMPOST BIN?",
+    "options": [
+      "Items 1 and 4 only (Peels and Bread crusts)",
+      "Items 2 and 3 only",
+      "Items 1, 2, and 3",
+      "All 4 items"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "Wet biodegradable food wastes (peels and bread) belong in the green compost bin; paper goes to dry recyclables; thermocol is non-biodegradable."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Science",
+    "chapter": "Chapter 12: Garbage In, Garbage Out",
+    "question": "What is 'E-Waste' (Electronic Waste) and why does it require specialized certified recycling rather than normal municipal dumping?",
+    "options": [
+      "Discarded computers, smartphones, and circuit boards that contain toxic heavy metals (lead, mercury, cadmium) that can leach into soil and water if dumped casually",
+      "Old paper electricity bills",
+      "Electric wires made of pure cotton",
+      "Lightning in the sky"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "E-waste contains hazardous heavy metals and persistent flame retardants requiring specialized dismantling and pyrometallurgical recovery."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Science",
+    "chapter": "Chapter 12: Garbage In, Garbage Out",
+    "question": "What fundamental environmental philosophy concludes the NCERT Class 6 Science curriculum in Chapter 12?",
+    "options": [
+      "Every human action produces ecological consequences; sustainable living requires individual responsibility to minimize waste, segregate at source, and harmonize human lifestyle with nature's circular ecology",
+      "Throwing garbage in rivers is good for fish",
+      "Only governments are responsible for cleanliness",
+      "Using disposable plastics is the only way to live"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "The curriculum culminates in proactive ecological citizenship, waste minimization, and harmonious circular resource stewardship."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Mathematics",
+    "chapter": "Chapter 12: Ratio and Proportion",
+    "question": "Comparing two quantities of the SAME kind and in the SAME units by division is called a:",
+    "options": [
+      "Ratio (denoted by the colon symbol ':')",
+      "Fraction",
+      "Percentage",
+      "Equation"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "A ratio is a mathematical comparison of two quantities of identical physical dimension by division (a : b = a/b)."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Mathematics",
+    "chapter": "Chapter 12: Ratio and Proportion",
+    "question": "What is the Ratio of 20 boys to 40 girls in a classroom in its simplest form?",
+    "options": [
+      "1 : 2 (20/40 = 1/2)",
+      "2 : 1",
+      "1 : 4",
+      "20 : 40"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "Ratio = 20/40 = 1/2 = 1 : 2."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Mathematics",
+    "chapter": "Chapter 12: Ratio and Proportion",
+    "question": "Find the ratio of 15 cm to 2 metres (remember to convert both into the SAME unit first):",
+    "options": [
+      "3 : 40 (2 m = 200 cm ; Ratio = 15/200 = 3/40)",
+      "15 : 2",
+      "3 : 20",
+      "15 : 200"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "2 m = 200 cm. Ratio = 15 / 200 = (15÷5) / (200÷5) = 3/40 = 3 : 40."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Mathematics",
+    "chapter": "Chapter 12: Ratio and Proportion",
+    "question": "Find the ratio of 50 paise to ₹5 in simplest form:",
+    "options": [
+      "1 : 10 (₹5 = 500 paise ; Ratio = 50/500 = 1/10)",
+      "1 : 5",
+      "10 : 1",
+      "50 : 5"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "₹5 = 500 paise. Ratio = 50 / 500 = 1/10 = 1 : 10."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Mathematics",
+    "chapter": "Chapter 12: Ratio and Proportion",
+    "question": "An equality of two ratios (e.g. a : b = c : d or a : b :: c : d) is called a:",
+    "options": [
+      "Proportion",
+      "Fraction",
+      "Percentage",
+      "Linear Equation"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "A proportion states that two ratios are equal: a/b = c/d."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Mathematics",
+    "chapter": "Chapter 12: Ratio and Proportion",
+    "question": "In a proportion a : b :: c : d, what are the first and fourth terms (a and d) called, and what are the middle terms (b and c) called?",
+    "options": [
+      "'a' and 'd' are Extreme Terms (Extremes) ; 'b' and 'c' are Middle Terms (Means)",
+      "All four are Means",
+      "All four are Extremes",
+      "'a' and 'b' are Extremes"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "In a : b = c : d, outer terms (a, d) are Extremes and inner terms (b, c) are Means."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Mathematics",
+    "chapter": "Chapter 12: Ratio and Proportion",
+    "question": "What is the fundamental property of four numbers in Proportion (a : b :: c : d)?",
+    "options": [
+      "Product of Extremes = Product of Means (a × d = b × c)",
+      "Sum of Extremes = Sum of Means",
+      "Difference of Extremes = Difference of Means",
+      "Extremes divided by Means = 0"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "Cross-multiplication rule: a/b = c/d ⇔ a × d = b × c."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Mathematics",
+    "chapter": "Chapter 12: Ratio and Proportion",
+    "question": "The method in which we first find the value of ONE unit and then find the value of the REQUIRED number of units is called the:",
+    "options": [
+      "Unitary Method",
+      "Trial and Error Method",
+      "Substitution Method",
+      "Elimination Method"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "The Unitary Method calculates the per-unit cost/value first (by division) and scales up (by multiplication)."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Mathematics",
+    "chapter": "Chapter 12: Ratio and Proportion",
+    "question": "If the cost of 6 cans of juice is ₹210, what is the cost of 4 cans of juice?",
+    "options": [
+      "₹140 (1 can = 210/6 = ₹35 ; 4 cans = 35 × 4 = ₹140)",
+      "₹120",
+      "₹160",
+      "₹180"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "Cost of 1 can = 210 ÷ 6 = ₹35. Cost of 4 cans = 35 × 4 = ₹140."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Mathematics",
+    "chapter": "Chapter 12: Ratio and Proportion",
+    "question": "Are the numbers 25, 30, 40, and 48 in Proportion?",
+    "options": [
+      "Yes (25/30 = 5/6 and 40/48 = 5/6 ; Product of extremes = 25 × 48 = 1200, Product of means = 30 × 40 = 1200)",
+      "No",
+      "Only if multiplied by 2",
+      "Cannot be determined"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "25/30 = 5/6; 40/48 = 5/6. Since ratios are equal (1200 = 1200), they are in proportion."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Mathematics",
+    "chapter": "Chapter 12: Ratio and Proportion",
+    "question": "Find the ratio of 30 minutes to 1.5 hours in simplest form:",
+    "options": [
+      "1 : 3 (1.5 hours = 90 minutes ; Ratio = 30/90 = 1/3)",
+      "1 : 2",
+      "30 : 1.5",
+      "1 : 5"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "1.5 hours = 1.5 × 60 = 90 minutes. Ratio = 30 / 90 = 1/3 = 1 : 3."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Mathematics",
+    "chapter": "Chapter 12: Ratio and Proportion",
+    "question": "Does a pure mathematical Ratio have any physical unit (like cm, kg, or rupees)?",
+    "options": [
+      "No, a ratio is a pure dimensionless number with NO units (units cancel out during division)",
+      "Yes, ratio has units of cm",
+      "Yes, ratio has units of kg",
+      "Only if it compares time"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "Ratios compare like quantities; identical dimensional units in numerator and denominator cancel out."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Mathematics",
+    "chapter": "Chapter 12: Ratio and Proportion",
+    "question": "In a year, Seema earns ₹1,50,000 and saves ₹50,000. Find the ratio of money that Seema saves to the money she SPENDS:",
+    "options": [
+      "1 : 2 (Spends = 1,50,000 - 50,000 = ₹1,00,000 ; Ratio = 50,000 / 1,00,000 = 1/2)",
+      "1 : 3",
+      "2 : 1",
+      "1 : 4"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "Expenditure = 1,50,000 - 50,000 = ₹1,00,000. Savings : Expenditure = 50,000 : 1,00,000 = 1 : 2."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Mathematics",
+    "chapter": "Chapter 12: Ratio and Proportion",
+    "question": "Divide ₹1,200 between Sheela and Sangeeta in the ratio of 3 : 2. How much money will Sheela and Sangeeta get respectively?",
+    "options": [
+      "Sheela: ₹720 ; Sangeeta: ₹480 (Total parts = 3 + 2 = 5 ; Sheela = 3/5 × 1200 = ₹720 ; Sangeeta = 2/5 × 1200 = ₹480)",
+      "Sheela: ₹600 ; Sangeeta: ₹600",
+      "Sheela: ₹800 ; Sangeeta: ₹400",
+      "Sheela: ₹900 ; Sangeeta: ₹300"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "Sum of ratio parts = 3 + 2 = 5. Sheela = (3/5) × 1200 = ₹720; Sangeeta = (2/5) × 1200 = ₹480."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Mathematics",
+    "chapter": "Chapter 12: Ratio and Proportion",
+    "question": "Find the missing value 'x' in the proportion: 8 : 12 :: x : 18",
+    "options": [
+      "x = 12 (8 × 18 = 12 × x ⇒ 144 = 12x ⇒ x = 144/12 = 12)",
+      "x = 10",
+      "x = 14",
+      "x = 16"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "Product of extremes = Product of means: 8 × 18 = 12 × x ⇒ 144 = 12x ⇒ x = 12."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Mathematics",
+    "chapter": "Chapter 12: Ratio and Proportion",
+    "question": "A motorbike travels 330 km in 5 litres of petrol. How much distance can it travel in 1.5 litres of petrol?",
+    "options": [
+      "99 km (1 litre = 330/5 = 66 km ; 1.5 litres = 66 × 1.5 = 99 km)",
+      "88 km",
+      "110 km",
+      "95 km"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "Mileage = 330 ÷ 5 = 66 km/litre. Distance for 1.5 L = 66 × 1.5 = 99 km."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Mathematics",
+    "chapter": "Chapter 12: Ratio and Proportion",
+    "question": "If the cost of 7 metres of cloth is ₹1,470, find the cost of 5 metres of cloth:",
+    "options": [
+      "₹1,050 (1 metre = 1470/7 = ₹210 ; 5 metres = 210 × 5 = ₹1,050)",
+      "₹1,000",
+      "₹1,100",
+      "₹950"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "Cost of 1 m = 1470 ÷ 7 = ₹210. Cost of 5 m = 210 × 5 = ₹1,050."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Mathematics",
+    "chapter": "Chapter 12: Ratio and Proportion",
+    "question": "Cost of a dozen (12) pens is ₹180 and cost of 8 ball pens is ₹56. Find the ratio of the cost of a pen to the cost of a ball pen:",
+    "options": [
+      "15 : 7 (1 pen = 180/12 = ₹15 ; 1 ball pen = 56/8 = ₹7 ; Ratio = 15/7 = 15 : 7)",
+      "18 : 7",
+      "15 : 8",
+      "7 : 15"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "1 pen = 180/12 = ₹15; 1 ball pen = 56/8 = ₹7. Ratio = 15 : 7."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Mathematics",
+    "chapter": "Chapter 12: Ratio and Proportion",
+    "question": "The length and breadth of a school rectangular ground are 75 m and 25 m respectively. Find the ratio of the BREADTH to the LENGTH of the ground:",
+    "options": [
+      "1 : 3 (Breadth/Length = 25/75 = 1/3)",
+      "3 : 1",
+      "1 : 2",
+      "2 : 3"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "Order matters: Breadth : Length = 25 : 75 = 1 : 3."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Mathematics",
+    "chapter": "Chapter 12: Ratio and Proportion",
+    "question": "Anish made 42 runs in 6 overs and Anup made 63 runs in 7 overs. Who made MORE runs per over and by how much?",
+    "options": [
+      "Anup made more runs per over (Anish = 42/6 = 7 runs/over ; Anup = 63/7 = 9 runs/over ; Anup is higher by 2 runs/over)",
+      "Anish made more runs per over",
+      "Both made exactly the same runs per over",
+      "Anup is higher by 5 runs/over"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "Anish rate = 42/6 = 7; Anup rate = 63/7 = 9. Anup scored 9 runs/over (+2 higher)."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Mathematics",
+    "chapter": "Chapter 12: Ratio and Proportion",
+    "question": "Which of the two ratios is GREATER: 3 : 4 or 5 : 6?",
+    "options": [
+      "5 : 6 is greater (3/4 = 9/12 = 0.75 ; 5/6 = 10/12 = 0.833 ⇒ 5/6 > 3/4)",
+      "3 : 4 is greater",
+      "Both ratios are equal",
+      "Cannot be compared"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "Comparing fractions with common denominator 12: 9/12 < 10/12 ⇒ 5 : 6 > 3 : 4."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Mathematics",
+    "chapter": "Chapter 12: Ratio and Proportion",
+    "question": "A car covers 180 km in 4 hours. How much time will it take to cover 450 km at the same uniform speed?",
+    "options": [
+      "10 hours (Speed = 180/4 = 45 km/h ; Time = 450/45 = 10 hours)",
+      "8 hours",
+      "12 hours",
+      "9 hours"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "Speed = 180 ÷ 4 = 45 km/h. Time = Distance ÷ Speed = 450 ÷ 45 = 10 hours."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Mathematics",
+    "chapter": "Chapter 12: Ratio and Proportion",
+    "question": "Find two Equivalent Ratios for 4 : 6:",
+    "options": [
+      "2 : 3 and 8 : 12",
+      "1 : 2 and 3 : 4",
+      "6 : 4 and 12 : 8",
+      "4 : 12 and 6 : 18"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "Dividing by 2 gives 2 : 3; multiplying by 2 gives 8 : 12."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Mathematics",
+    "chapter": "Chapter 12: Ratio and Proportion",
+    "question": "If 4, x, 9 are in CONTINUED Proportion (4 : x :: x : 9), find the positive value of x:",
+    "options": [
+      "x = 6 (x² = 4 × 9 = 36 ⇒ x = √36 = 6)",
+      "x = 5",
+      "x = 7",
+      "x = 8"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "In continued proportion, Mean Proportional x² = a × c ⇒ x² = 4 × 9 = 36 ⇒ x = 6."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Mathematics",
+    "chapter": "Chapter 12: Ratio and Proportion",
+    "question": "Ekta earns ₹1,500 in 10 days. How much will she earn in 30 days?",
+    "options": [
+      "₹4,500 (1 day = 1500/10 = ₹150 ; 30 days = 150 × 30 = ₹4,500)",
+      "₹3,000",
+      "₹5,000",
+      "₹4,000"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "Earnings/day = 1500/10 = ₹150. For 30 days = 150 × 30 = ₹4,500."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Mathematics",
+    "chapter": "Chapter 12: Ratio and Proportion",
+    "question": "The weight of 72 books is 9 kg. What is the weight of 40 such books?",
+    "options": [
+      "5 kg (1 book = 9/72 = 1/8 kg ; 40 books = 40 × 1/8 = 5 kg)",
+      "4 kg",
+      "6 kg",
+      "8 kg"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "Weight of 1 book = 9/72 = 1/8 kg. Weight of 40 books = 40 × (1/8) = 5 kg."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Mathematics",
+    "chapter": "Chapter 12: Ratio and Proportion",
+    "question": "If it has rained 276 mm in the last 3 days, how many cm of rain will fall in one full week (7 days) assuming constant rainfall rate?",
+    "options": [
+      "64.4 cm (1 day = 276/3 = 92 mm ; 7 days = 92 × 7 = 644 mm = 64.4 cm)",
+      "644 cm",
+      "6.44 cm",
+      "27.6 cm"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "Daily rate = 276/3 = 92 mm/day. 7 days = 92 × 7 = 644 mm = 64.4 cm."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Mathematics",
+    "chapter": "Chapter 12: Ratio and Proportion",
+    "question": "Fill in the blank to make the proportion true: 15 / 18 = ___ / 6",
+    "options": [
+      "5 (15/18 = (15÷3)/(18÷3) = 5/6)",
+      "6",
+      "3",
+      "4"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "18 ÷ 3 = 6; therefore 15 ÷ 3 = 5."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Mathematics",
+    "chapter": "Chapter 12: Ratio and Proportion",
+    "question": "Read the statements:\nAssertion (A): Two quantities can be compared in a ratio ONLY when they are expressed in the exact same physical units.\nReason (R): Ratios represent pure dimensionless scaling multipliers; if units differ (e.g. 50 paise to ₹5), the ratio 50 : 5 would produce a disastrously false 10 : 1 comparison instead of the true 1 : 10.\nChoose the correct option:",
+    "options": [
+      "Both (A) and (R) are true, and (R) is the correct explanation of (A).",
+      "Both (A) and (R) are true, but (R) is NOT the correct explanation of (A).",
+      "(A) is true, but (R) is false.",
+      "(A) is false, but (R) is true."
+    ],
+    "correctAnswer": 0,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "Dimensional consistency is mandatory for valid mathematical ratio comparison."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Mathematics",
+    "chapter": "Chapter 12: Ratio and Proportion",
+    "question": "Spot the IMPOSTER in the following pairs of ratios tested for PROPORTION:\nGroup: [1 : 5 and 3 : 15 (Proportion), 2 : 9 and 18 : 81 (Proportion), 15 : 45 and 5 : 25 (Proportion), 4 : 12 and 9 : 27 (Proportion)]",
+    "options": [
+      "1 : 5 and 3 : 15 (Proportion)",
+      "2 : 9 and 18 : 81 (Proportion)",
+      "15 : 45 and 5 : 25 (Proportion)",
+      "4 : 12 and 9 : 27 (Proportion)"
+    ],
+    "correctAnswer": 2,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "15/45 = 1/3, whereas 5/25 = 1/5. Since 1/3 ≠ 1/5, they are NOT in proportion."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Mathematics",
+    "chapter": "Chapter 12: Ratio and Proportion",
+    "question": "In a triangle, the angles are in the ratio 2 : 3 : 4. If the sum of interior angles of a triangle is always 180°, find the measure of the three angles:",
+    "options": [
+      "40°, 60°, 80° (Total parts = 2 + 3 + 4 = 9 ; 1 part = 180/9 = 20° ; Angles = 2(20°)=40°, 3(20°)=60°, 4(20°)=80°)",
+      "30°, 60°, 90°",
+      "45°, 45°, 90°",
+      "50°, 60°, 70°"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "9 parts = 180° ⇒ 1 part = 20°. Angles are 2×20 = 40°, 3×20 = 60°, 4×20 = 80°."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Mathematics",
+    "chapter": "Chapter 12: Ratio and Proportion",
+    "question": "Match Column I (Quantities Compared) with Column II (Simplest Ratios):\n(a) 500 mL to 2 Litres    -> (i) 1 : 4\n(b) 3 days to 30 hours    -> (ii) 12 : 5\n(c) 40 cm to 1.5 m        -> (iii) 4 : 15\n(d) 55 paise to ₹1        -> (iv) 11 : 20",
+    "options": [
+      "a-(i), b-(ii), c-(iii), d-(iv)",
+      "a-(ii), b-(i), c-(iv), d-(iii)",
+      "a-(iv), b-(iii), c-(ii), d-(i)",
+      "a-(iii), b-(iv), c-(i), d-(ii)"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "500/2000 = 1:4; 72/30 = 12:5; 40/150 = 4:15; 55/100 = 11:20."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Mathematics",
+    "chapter": "Chapter 12: Ratio and Proportion",
+    "question": "Read the statements regarding proportional reasoning:\nStatement 1: If 15 workers build a wall in 48 hours, 30 workers will take LESS time (24 hours) - this is an Inverse Proportion.\nStatement 2: If the cost of 5 books is ₹200, the cost of 10 books is MORE (₹400) - this is a Direct Proportion.\nStatement 3: Product of extremes must always equal sum of means in proportion.\nWhich statements are TRUE?",
+    "options": [
+      "Statements 1 and 2 only",
+      "Statements 2 and 3 only",
+      "Statements 1 and 3 only",
+      "All Statements 1, 2, and 3"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "Statement 3 is false because Product of extremes must equal PRODUCT (not sum) of means. Statements 1 and 2 are true."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Mathematics",
+    "chapter": "Chapter 12: Ratio and Proportion",
+    "question": "Present ages of a father and son are 42 years and 14 years respectively. Find the ratio of the age of father to the age of son when the son was 12 years old (2 years ago):",
+    "options": [
+      "10 : 3 (2 years ago: Father = 40 years, Son = 12 years ; Ratio = 40/12 = 10/3 = 10 : 3)",
+      "3 : 1",
+      "4 : 1",
+      "7 : 2"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "2 years ago: Father = 40, Son = 12. Ratio = 40/12 = 10/3 = 10 : 3."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Mathematics",
+    "chapter": "Chapter 12: Ratio and Proportion",
+    "question": "What is the ratio of father's age to son's age after 10 years (Father = 52, Son = 24)?",
+    "options": [
+      "13 : 6 (52 / 24 = (52÷4) / (24÷4) = 13/6 = 13 : 6)",
+      "14 : 7",
+      "12 : 5",
+      "2 : 1"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "In 10 years: Father = 42 + 10 = 52; Son = 14 + 10 = 24. Ratio = 52/24 = 13/6 = 13 : 6."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Mathematics",
+    "chapter": "Chapter 12: Ratio and Proportion",
+    "question": "Two numbers are in the ratio 5 : 8. If their sum is 91, find the difference between the two numbers:",
+    "options": [
+      "21 (Total parts = 13 ; 1 part = 91/13 = 7 ; Numbers are 35 and 56 ; Difference = 56 - 35 = 21)",
+      "14",
+      "28",
+      "18"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "13x = 91 ⇒ x = 7. Numbers = 35 and 56. Difference = 56 - 35 = 21."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Mathematics",
+    "chapter": "Chapter 12: Ratio and Proportion",
+    "question": "A map is drawn to a scale of 1 : 25,000,000 (1 cm on map = 250 km on ground). If two cities are 4.8 cm apart on the map, what is the actual distance between them on ground?",
+    "options": [
+      "1,200 km (4.8 × 250 = 1,200 km)",
+      "1,000 km",
+      "1,500 km",
+      "960 km"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "Actual distance = 4.8 cm × 250 km/cm = 1,200 km."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Mathematics",
+    "chapter": "Chapter 12: Ratio and Proportion",
+    "question": "If A : B = 2 : 3 and B : C = 4 : 5, find the compound ratio A : B : C:",
+    "options": [
+      "8 : 12 : 15 (Multiply A:B by 4 -> 8:12 ; Multiply B:C by 3 -> 12:15 ⇒ A:B:C = 8:12:15)",
+      "2 : 4 : 5",
+      "8 : 10 : 15",
+      "6 : 8 : 15"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "Equalizing B: A:B = 8:12 and B:C = 12:15 ⇒ A : B : C = 8 : 12 : 15."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Mathematics",
+    "chapter": "Chapter 12: Ratio and Proportion",
+    "question": "In an alloy of brass, copper and zinc are mixed in the ratio 7 : 3. How much zinc is present in 35 kg of this brass alloy?",
+    "options": [
+      "10.5 kg (Total parts = 10 ; Zinc = (3/10) × 35 = 10.5 kg)",
+      "15 kg",
+      "12 kg",
+      "9.5 kg"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "Zinc weight = (3/10) × 35 = 10.5 kg."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Mathematics",
+    "chapter": "Chapter 12: Ratio and Proportion",
+    "question": "Why does Ratio and Proportional reasoning form the cornerstone of all quantitative sciences (physics, chemistry stoichiometry, economic scaling, and engineering design)?",
+    "options": [
+      "It allows scale-invariant proportional comparisons, rate scaling, recipe formulations, and predictive quantitative modeling across macroscopic and microscopic dimensions",
+      "Because proportions replace all algebra",
+      "Because division is the only math operation",
+      "Because numbers without ratios have no value"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "Proportional scaling underpins dimensional analysis, chemical molar stoichiometry, and scale-model engineering."
+  },
+  {
+    "classLevel": 6,
+    "subject": "English",
+    "chapter": "Chapter 12: Grand Master Literature & Composition Synthesis",
+    "question": "What is the standard, polite salutation used at the beginning of a formal letter written to a School Principal or Municipal Commissioner?",
+    "options": [
+      "Respected Sir / Madam (or Dear Sir / Madam)",
+      "Hey buddy!",
+      "What's up Principal!",
+      "Hi friend,"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "Formal correspondence requires dignified salutations: 'Respected Sir/Madam' or 'Dear Sir/Madam'."
+  },
+  {
+    "classLevel": 6,
+    "subject": "English",
+    "chapter": "Chapter 12: Grand Master Literature & Composition Synthesis",
+    "question": "What is the standard complimentary close used at the end of a formal application letter to a teacher or authority?",
+    "options": [
+      "Yours faithfully / Yours obediently / Yours sincerely",
+      "Cheers,",
+      "See ya later,",
+      "Your best pal,"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "Standard formal sign-offs include 'Yours obediently' (to teachers) and 'Yours faithfully/sincerely' (official)."
+  },
+  {
+    "classLevel": 6,
+    "subject": "English",
+    "chapter": "Chapter 12: Grand Master Literature & Composition Synthesis",
+    "question": "In a formal school 'NOTICE', which crucial element is always written at the very top in BOLD CAPITAL letters enclosed in a box?",
+    "options": [
+      "The Name of the School/Institution followed by the word 'NOTICE'",
+      "A personal story",
+      "A poem",
+      "The principal's home address"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "Notice format mandates: Institution Header, 'NOTICE' in caps, Date, Heading, Body (enclosed in a rectangular box)."
+  },
+  {
+    "classLevel": 6,
+    "subject": "English",
+    "chapter": "Chapter 12: Grand Master Literature & Composition Synthesis",
+    "question": "What is a 'Paragraph' in English composition?",
+    "options": [
+      "A group of related sentences focused on developing a single central topic or idea",
+      "A list of random words",
+      "A collection of unrelated dictionary pages",
+      "A single long sentence without full stops"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "A paragraph is a coherent structural unit unified around a single topical theme."
+  },
+  {
+    "classLevel": 6,
+    "subject": "English",
+    "chapter": "Chapter 12: Grand Master Literature & Composition Synthesis",
+    "question": "Who was the little magical elf who helped Patrick with his homework in 'Who Did Patrick's Homework?'?",
+    "options": [
+      "A tiny man of the smallest size (the elf) who knew nothing of human school subjects",
+      "Patrick's teacher in disguise",
+      "Patrick's cat",
+      "A robot"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "The tiny elf was rescued from the cat, cajoling Patrick into doing all his own research and homework."
+  },
+  {
+    "classLevel": 6,
+    "subject": "English",
+    "chapter": "Chapter 12: Grand Master Literature & Composition Synthesis",
+    "question": "In 'How the Dog Found Himself a New Master', whom did the dog choose as his ULTIMATE and eternal master on Earth?",
+    "options": [
+      "Man (Human)",
+      "The Wolf",
+      "The Bear",
+      "The Lion"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "The dog realized that humans are the master of all creatures on Earth, entering loyal canine servitude."
+  },
+  {
+    "classLevel": 6,
+    "subject": "English",
+    "chapter": "Chapter 12: Grand Master Literature & Composition Synthesis",
+    "question": "What was the magical waterfall in the forest that gave delicious, warm Sake to the dutiful woodcutter Taro while giving cold water to others called?",
+    "options": [
+      "Taro's Waterfall",
+      "The Silver Fountain",
+      "The Magic Spring",
+      "The Golden Well"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "The waterfall magically manifested warm sake exclusively for dutiful, filial Taro."
+  },
+  {
+    "classLevel": 6,
+    "subject": "English",
+    "chapter": "Chapter 12: Grand Master Literature & Composition Synthesis",
+    "question": "What was the name of the American Space Shuttle that tragic heroine Kalpana Chawla flew on her STS-107 mission in 2003?",
+    "options": [
+      "Columbia (Space Shuttle Columbia)",
+      "Discovery",
+      "Challenger",
+      "Atlantis"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "Kalpana Chawla tragically perished with 6 crew members aboard Columbia during atmospheric re-entry on 1 Feb 2003."
+  },
+  {
+    "classLevel": 6,
+    "subject": "English",
+    "chapter": "Chapter 12: Grand Master Literature & Composition Synthesis",
+    "question": "Who became the wise Sarpanch of the village Panchayat in Munshi Premchand's 'Fair Play' and delivered justice without friendship bias?",
+    "options": [
+      "Algu Chowdhry (in the aunt's case) and later Jumman Sheikh (in the bullock case)",
+      "Samjhu Sahu",
+      "The village priest",
+      "The British officer"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "Premchand portrays the sacred neutrality of the Panch seat: 'The voice of the Panch is the voice of God'."
+  },
+  {
+    "classLevel": 6,
+    "subject": "English",
+    "chapter": "Chapter 12: Grand Master Literature & Composition Synthesis",
+    "question": "What is the famous philosophical quote from 'Fair Play' that captures the sacred responsibility of a judge?",
+    "options": [
+      "\"The voice of the Panch is the voice of God.\"",
+      "\"Might is right.\"",
+      "\"All is fair in love and war.\"",
+      "\"Money makes the world go round.\""
+    ],
+    "correctAnswer": 0,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "Premchand's central aphorism emphasizes that justice transcends personal enmity or friendship."
+  },
+  {
+    "classLevel": 6,
+    "subject": "English",
+    "chapter": "Chapter 12: Grand Master Literature & Composition Synthesis",
+    "question": "What is the figure of speech in which two contradictory words are placed together (such as 'deafening silence', 'sweet sorrow') called?",
+    "options": [
+      "Oxymoron",
+      "Simile",
+      "Metaphor",
+      "Alliteration"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "An Oxymoron juxtaposes seemingly contradictory semantic terms (e.g. bittersweet, open secret)."
+  },
+  {
+    "classLevel": 6,
+    "subject": "English",
+    "chapter": "Chapter 12: Grand Master Literature & Composition Synthesis",
+    "question": "What is the repetition of the same initial consonant sound in adjacent or closely connected words (such as 'Peter Piper picked a peck of pickled peppers') called?",
+    "options": [
+      "Alliteration",
+      "Rhyme",
+      "Metaphor",
+      "Hyperbole"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "Alliteration is the poetic repetition of identical initial consonant phonemes in neighboring words."
+  },
+  {
+    "classLevel": 6,
+    "subject": "English",
+    "chapter": "Chapter 12: Grand Master Literature & Composition Synthesis",
+    "question": "Read the excerpt from Eleanor Farjeon's poem 'The Quarrel':\n\"The afternoon turned black.\nThen suddenly my brother thumped me on the back,\nAnd said, 'Oh, come along! We can't go on all night —\nI was in the wrong.' So he was in the right.\"\nWhy was the brother 'in the right' by admitting he was in the wrong?",
+    "options": [
+      "Because admitting one's fault with moral humility and taking the initiative to make peace requires true courage and nobility",
+      "Because the brother won the physical fight",
+      "Because he wanted to get dinner",
+      "Because he was afraid of the dark"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "Farjeon highlights the emotional maturity of forgiveness: apologizing to reconcile is the truly righteous act."
+  },
+  {
+    "classLevel": 6,
+    "subject": "English",
+    "chapter": "Chapter 12: Grand Master Literature & Composition Synthesis",
+    "question": "What is the crucial moral distinction between 'A House' and 'A Home' in Lorraine M. Hailing's poem?",
+    "options": [
+      "A House is merely a physical brick-and-stone building structure, whereas a Home is built of selfless love, family bonds, sharing, and caring for one another",
+      "A house has a garden while a home has none",
+      "A house is made of glass",
+      "There is no difference between them"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "A house is physical architecture; a home is spiritual communion characterized by familial love and mutual sacrifice."
+  },
+  {
+    "classLevel": 6,
+    "subject": "English",
+    "chapter": "Chapter 12: Grand Master Literature & Composition Synthesis",
+    "question": "In 'A Tale of Two Birds', why did the two sibling birds behave so completely differently when travelers visited their trees?",
+    "options": [
+      "One lived in a cave with robbers and repeated abusive language; the other lived near a rishi's ashram and welcomed guests with gentle polite words (Company shapes character)",
+      "Because one bird was born blind",
+      "Because one bird was a parrot and the other an eagle",
+      "Because one bird had no wings"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "The story exemplifies the proverb: 'One is known by the company one keeps'."
+  },
+  {
+    "classLevel": 6,
+    "subject": "English",
+    "chapter": "Chapter 12: Grand Master Literature & Composition Synthesis",
+    "question": "In 'The Friendly Mongoose', what fatal mistake did the farmer's wife make when she saw blood on the mongoose's mouth and paws?",
+    "options": [
+      "She acted in blind hasty rage without investigating, struck the faithful mongoose with a heavy water pot and killed it, only to discover inside that the mongoose had killed a poisonous snake to save her baby",
+      "She gave all her money to the mongoose",
+      "She ran away to another village",
+      "She put the mongoose in a cage"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "The folktale warns against precipitous hasty wrath: 'Look before you leap; do not act in blind passion'."
+  },
+  {
+    "classLevel": 6,
+    "subject": "English",
+    "chapter": "Chapter 12: Grand Master Literature & Composition Synthesis",
+    "question": "In 'The Shepherd's Treasure', how was the poor, illiterate Iranian shepherd rewarded by the King for his extraordinary wisdom, humility, and honesty?",
+    "options": [
+      "The King appointed him Governor of a province, and when jealous ministers accused him of stealing, his iron chest contained only an old woolen blanket—symbol of his eternal humility",
+      "The King gave him a golden palace and 1,000 horses",
+      "The King made him his royal cook",
+      "The King sent him to prison"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "The shepherd's humble blanket symbolized uncorrupted virtue, winning the King's deepest esteem as Grand Governor."
+  },
+  {
+    "classLevel": 6,
+    "subject": "English",
+    "chapter": "Chapter 12: Grand Master Literature & Composition Synthesis",
+    "question": "In 'Tansen', how did the legendary court musician Tansen save his life when jealous courtiers plotted to kill him by making him sing the fire-igniting 'Raga Deepak'?",
+    "options": [
+      "He taught his daughter Saraswati and her friend Rupvati to sing 'Raga Megh' simultaneously; when Deepak ignited fires and dried the air, Raga Megh brought torrential cooling rain",
+      "He ran away from Emperor Akbar's court",
+      "He refused to sing",
+      "He jumped into the river"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "Tansen harmonized musical thermodynamics: Raga Megh's torrential monsoon counteracted Raga Deepak's thermal incandescence."
+  },
+  {
+    "classLevel": 6,
+    "subject": "English",
+    "chapter": "Chapter 12: Grand Master Literature & Composition Synthesis",
+    "question": "In 'The Monkey and the Crocodile', how did the clever monkey save his life when the foolish crocodile betrayed him in the middle of the river?",
+    "options": [
+      "The monkey cleverly claimed that he had left his heart safely behind on the jamun tree; when the crocodile swam back to fetch it, the monkey leaped to safety on the branches",
+      "The monkey fought the crocodile in water",
+      "The monkey called a fish for help",
+      "The monkey swam across to the other bank"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "Panchatantra wit: the monkey's quick presence of mind outsmarted the treacherous crocodile."
+  },
+  {
+    "classLevel": 6,
+    "subject": "English",
+    "chapter": "Chapter 12: Grand Master Literature & Composition Synthesis",
+    "question": "In 'The Wonder Called Sleep', what physiological and psychological restorative processes happen to our body during deep sleep?",
+    "options": [
+      "Our muscles relax, body temperature and blood pressure lower, the overworked brain rests, and physical healing and memory consolidation occur",
+      "Our heart stops beating entirely",
+      "Our body grows wings",
+      "We lose all our memories"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "Sleep is nature's supreme physiological healer: relaxing musculature and neuro-cognitively restoring bodily homeostatic equilibrium."
+  },
+  {
+    "classLevel": 6,
+    "subject": "English",
+    "chapter": "Chapter 12: Grand Master Literature & Composition Synthesis",
+    "question": "What is the theme of Harry Behn's poem 'Trees'?",
+    "options": [
+      "Trees are the kindest, gentlest things upon Earth that do no harm, offer soothing shade to cows, shelter birds, hum evening lullabies, and give wood and fruit",
+      "Trees are dangerous in storms",
+      "Trees should be chopped down for paper",
+      "Trees make the forest too dark"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "Behn celebrates trees as embodiments of selfless kindness, silent shelter, and ecological harmony."
+  },
+  {
+    "classLevel": 6,
+    "subject": "English",
+    "chapter": "Chapter 12: Grand Master Literature & Composition Synthesis",
+    "question": "What is the theme of E-Yeh-Shure's poem 'Beauty'?",
+    "options": [
+      "Beauty is not merely external; it is seen in sunlight and trees, heard in wind and rain, and felt within good deeds, kind thoughts, and pure dreams",
+      "Beauty is only expensive clothes and jewelry",
+      "Beauty cannot be found in nature",
+      "Beauty is only in paintings"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "Pueblo poet E-Yeh-Shure reveals beauty as universal sensory and ethical harmony residing in noble deeds and kind thoughts."
+  },
+  {
+    "classLevel": 6,
+    "subject": "English",
+    "chapter": "Chapter 12: Grand Master Literature & Composition Synthesis",
+    "question": "Identify the figure of speech in: 'The roaring thunderstorm was a furious monster tearing through the valley.'",
+    "options": [
+      "Metaphor (direct figurative equation of thunderstorm to a furious monster)",
+      "Simile",
+      "Alliteration",
+      "Hyperbole"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "Direct identification of the storm as a monster without comparative markers ('like' or 'as') is a Metaphor."
+  },
+  {
+    "classLevel": 6,
+    "subject": "English",
+    "chapter": "Chapter 12: Grand Master Literature & Composition Synthesis",
+    "question": "Choose the correct sentence that accurately demonstrates the difference between HOMOPHONES 'Principle' and 'Principal':",
+    "options": [
+      "'Our school **Principal** is a man of high moral **principles**.'",
+      "'Our school Principle is a man of high Principal.'",
+      "'Both words mean the exact same thing.'",
+      "'Principle is a person, Principal is a rule.'"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "Principal = head of a school; Principle = fundamental moral rule or truth."
+  },
+  {
+    "classLevel": 6,
+    "subject": "English",
+    "chapter": "Chapter 12: Grand Master Literature & Composition Synthesis",
+    "question": "Choose the correct spelling of the high-frequency vocabulary word meaning 'steady persistence and resilience in achieving a goal':",
+    "options": [
+      "Perseverance",
+      "Perseverence",
+      "Preservance",
+      "Perserverance"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "Correct orthography: P-E-R-S-E-V-E-R-A-N-C-E."
+  },
+  {
+    "classLevel": 6,
+    "subject": "English",
+    "chapter": "Chapter 12: Grand Master Literature & Composition Synthesis",
+    "question": "Choose the correct spelling of the adjective describing a child who is playfully annoying or causing harmless trouble:",
+    "options": [
+      "Mischievous",
+      "Mischievious",
+      "Mischevous",
+      "Mischivous"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "Correct orthography: M-I-S-C-H-I-E-V-O-U-S (pronounced mis-chuh-vuhs, 3 syllables)."
+  },
+  {
+    "classLevel": 6,
+    "subject": "English",
+    "chapter": "Chapter 12: Grand Master Literature & Composition Synthesis",
+    "question": "What is the purpose of writing a 'Diary Entry' in English creative writing?",
+    "options": [
+      "To record personal, intimate reflections, feelings, and daily experiences in an informal, authentic first-person voice",
+      "To send an official complaint to the police",
+      "To advertise a new product in the market",
+      "To write an exam question paper"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "Diary entries are personal introspective chronological records of emotions and experiences."
+  },
+  {
+    "classLevel": 6,
+    "subject": "English",
+    "chapter": "Chapter 12: Grand Master Literature & Composition Synthesis",
+    "question": "What is the primary role of a 'Topic Sentence' in a well-structured expository paragraph?",
+    "options": [
+      "It states the main controlling idea of the paragraph clearly, which the following supporting sentences elaborate and explain",
+      "It provides the final goodbye to the reader",
+      "It lists dictionary definitions only",
+      "It is always a question without an answer"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "The topic sentence anchors the paragraph, articulating the primary proposition developed by supporting evidence."
+  },
+  {
+    "classLevel": 6,
+    "subject": "English",
+    "chapter": "Chapter 12: Grand Master Literature & Composition Synthesis",
+    "question": "Read the statements:\nAssertion (A): Great literature across NCERT Class 6 (from Premchand's 'Fair Play' to Bond's 'The Banyan Tree' and Whitaker's 'What Happened to the Reptiles') cultivates empathetic moral reasoning.\nReason (R): Narrative storytelling allows young readers to step into diverse perspectives—human, avian, reptilian, and underprivileged—fostering universal empathy, justice, and ecological harmony.\nChoose the correct option:",
+    "options": [
+      "Both (A) and (R) are true, and (R) is the correct explanation of (A).",
+      "Both (A) and (R) are true, but (R) is NOT the correct explanation of (A).",
+      "(A) is true, but (R) is false.",
+      "(A) is false, but (R) is true."
+    ],
+    "correctAnswer": 0,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "Literature functions as an affective simulator, developing cognitive empathy and universal ethical sensitivity."
+  },
+  {
+    "classLevel": 6,
+    "subject": "English",
+    "chapter": "Chapter 12: Grand Master Literature & Composition Synthesis",
+    "question": "Spot the IMPOSTER in the following group of classic literary texts paired with their central moral messages:\nGroup: [Taro's Reward - Filial piety and devotion to parents, Fair Play - Sacred neutrality of justice, A Game of Chance - Caution against gullibility & con tricks, The Banyan Tree - The benefits of cutting old trees for roads]",
+    "options": [
+      "Taro's Reward - Filial piety and devotion to parents",
+      "Fair Play - Sacred neutrality of justice",
+      "A Game of Chance - Caution against gullibility & con tricks",
+      "The Banyan Tree - The benefits of cutting old trees for roads"
+    ],
+    "correctAnswer": 3,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "'The Banyan Tree' celebrates the MAJESTIC LIFE AND SANCTUARY of old trees and nature, NOT cutting them down."
+  },
+  {
+    "classLevel": 6,
+    "subject": "English",
+    "chapter": "Chapter 12: Grand Master Literature & Composition Synthesis",
+    "question": "Synthesize the core message of the poem 'Where Do All the Teachers Go?' by Peter Dixon:\nWhat deep psychological curiosity of a young child does the poem explore?",
+    "options": [
+      "A young child's innocent inability to imagine that their omnipotent, perfect school teachers are ordinary human beings who wear pyjamas, wash socks, and live normal domestic lives",
+      "A child wondering if teachers live on Mars",
+      "A desire to become a teacher",
+      "A fear of homework"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "Dixon captures childhood epistemological dissonance: demystifying teacher authority into relatable shared humanity."
+  },
+  {
+    "classLevel": 6,
+    "subject": "English",
+    "chapter": "Chapter 12: Grand Master Literature & Composition Synthesis",
+    "question": "Match Column I (Literary Authors) with Column II (Masterpiece Works in Class 6):\n(a) Munshi Premchand -> (i) The Banyan Tree\n(b) Ruskin Bond       -> (ii) Fair Play\n(c) Zai Whitaker      -> (iii) A Pact with the Sun\n(d) Dr. Zakir Husain  -> (iv) What Happened to the Reptiles",
+    "options": [
+      "a-(ii), b-(i), c-(iv), d-(iii)",
+      "a-(i), b-(ii), c-(iii), d-(iv)",
+      "a-(iv), b-(iii), c-(ii), d-(i)",
+      "a-(iii), b-(iv), c-(i), d-(ii)"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "Premchand = Fair Play; Bond = Banyan Tree; Whitaker = Reptiles; Zakir Husain = Pact with the Sun."
+  },
+  {
+    "classLevel": 6,
+    "subject": "English",
+    "chapter": "Chapter 12: Grand Master Literature & Composition Synthesis",
+    "question": "Read the statements regarding English stylistic devices:\nStatement 1: 'The kettle sang a cheerful tune on the stove' is an example of Personification.\nStatement 2: A formal letter must maintain a polite, objective, and precise register without informal slang.\nStatement 3: Passive voice should be used for all casual informal conversation.\nWhich statements are TRUE?",
+    "options": [
+      "Statements 1 and 2 only",
+      "Statements 2 and 3 only",
+      "Statements 1 and 3 only",
+      "All Statements 1, 2, and 3"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "Statement 3 is false because informal speech relies predominantly on direct Active Voice. Statements 1 and 2 are true."
+  },
+  {
+    "classLevel": 6,
+    "subject": "English",
+    "chapter": "Chapter 12: Grand Master Literature & Composition Synthesis",
+    "question": "What is the grammatical classification of the underlined subordinate clause in: 'We cannot begin the meeting *until the Principal arrives*.'?",
+    "options": [
+      "Adverb Clause of Time (modifying the main verb 'cannot begin')",
+      "Noun Clause",
+      "Adjective Clause",
+      "Relative Clause"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "'Until the Principal arrives' functions as an Adverbial Clause of Time answering 'when'."
+  },
+  {
+    "classLevel": 6,
+    "subject": "English",
+    "chapter": "Chapter 12: Grand Master Literature & Composition Synthesis",
+    "question": "Which of the following demonstrates the correct use of PUNCTUATION in a complex direct speech quotation?",
+    "options": [
+      "\"If you work hard,\" said the wise teacher, \"you will achieve your greatest dreams.\"",
+      "\"If you work hard said the wise teacher you will achieve your greatest dreams.\"",
+      "If you work hard, said the wise teacher, \"you will achieve your greatest dreams.\"",
+      "\"If you work hard\" said the wise teacher \"you will achieve your greatest dreams\"."
+    ],
+    "correctAnswer": 0,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "Interrupted direct quotation: comma inside first quotes, reporting attribution, comma, quotes around remainder."
+  },
+  {
+    "classLevel": 6,
+    "subject": "English",
+    "chapter": "Chapter 12: Grand Master Literature & Composition Synthesis",
+    "question": "What is the meaning of the idiomatic phrase 'To have your heart in your mouth' when Patrick opened his report card?",
+    "options": [
+      "To feel overwhelming acute anxiety, fear, or suspense",
+      "To have a physical throat ache",
+      "To be extremely hungry",
+      "To sing loudly"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "'Heart in one's mouth' vividly expresses visceral somatic sensations of acute suspense or terror."
+  },
+  {
+    "classLevel": 6,
+    "subject": "English",
+    "chapter": "Chapter 12: Grand Master Literature & Composition Synthesis",
+    "question": "Identify the figure of speech in: 'The child was as brave as a young lion in the face of danger.'",
+    "options": [
+      "Simile (explicit comparison using 'as... as' comparing the child's courage to a lion)",
+      "Metaphor",
+      "Irony",
+      "Alliteration"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "Explicit comparative syntax with 'as... as' constitutes a Simile."
+  },
+  {
+    "classLevel": 6,
+    "subject": "English",
+    "chapter": "Chapter 12: Grand Master Literature & Composition Synthesis",
+    "question": "Transform the sentence from Active Voice into PASSIVE VOICE:\n'The Emperor of Japan rewarded Taro with twenty pieces of gold.'",
+    "options": [
+      "'Taro was rewarded with twenty pieces of gold by the Emperor of Japan.'",
+      "'Taro is rewarded by the Emperor.'",
+      "'The Emperor was rewarded by Taro.'",
+      "'Twenty pieces of gold rewarded the Emperor.'"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "Past passive: Subject (Taro) + was rewarded + adjuncts + by agent (Emperor of Japan)."
+  },
+  {
+    "classLevel": 6,
+    "subject": "English",
+    "chapter": "Chapter 12: Grand Master Literature & Composition Synthesis",
+    "question": "What is the structural role of 'Transitional Linking Words' (such as 'Furthermore', 'However', 'Consequently', 'In conclusion') in advanced essay composition?",
+    "options": [
+      "They establish smooth logical coherence, signposting relationships between ideas and bridging sentences seamlessly",
+      "They are decorative filler words that make essays longer",
+      "They are only used in mathematics",
+      "They replace punctuation marks"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "Discourse connectives establish rhetorical cohesion, logical progression, and semantic clarity across paragraphs."
+  },
+  {
+    "classLevel": 6,
+    "subject": "English",
+    "chapter": "Chapter 12: Grand Master Literature & Composition Synthesis",
+    "question": "What grand humanistic vision unites the entire NCERT Class 6 English curriculum at its completion?",
+    "options": [
+      "The empowerment of the young human mind through the mastery of language, critical inquiry, compassionate integrity, and lifelong love for reading and truth",
+      "The memorization of grammar rules without understanding",
+      "The rejection of all creative poetry",
+      "The belief that only science is important"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "The curriculum culminates in cognitive and linguistic empowerment: integrating linguistic mastery with ethical empathy and critical truth."
+  },
+  {
+    "classLevel": 6,
+    "subject": "GK",
+    "chapter": "Chapter 12: Global Organizations, Peace, United Nations & Environmental Sustainability",
+    "question": "On which date is 'United Nations Day' celebrated globally every year to mark the official founding of the UN in 1945?",
+    "options": [
+      "24th October",
+      "15th August",
+      "5th June",
+      "10th December"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "The UN Charter took effect on 24 October 1945 following ratification by founding members, celebrated globally as UN Day."
+  },
+  {
+    "classLevel": 6,
+    "subject": "GK",
+    "chapter": "Chapter 12: Global Organizations, Peace, United Nations & Environmental Sustainability",
+    "question": "Where is the global Headquarters of the United Nations (UN) located?",
+    "options": [
+      "New York City, USA",
+      "Geneva, Switzerland",
+      "Paris, France",
+      "London, UK"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "The UN headquarters complex is situated in New York City on international territory along the East River."
+  },
+  {
+    "classLevel": 6,
+    "subject": "GK",
+    "chapter": "Chapter 12: Global Organizations, Peace, United Nations & Environmental Sustainability",
+    "question": "How many sovereign member states currently belong to the United Nations?",
+    "options": [
+      "193 Member States",
+      "150 Member States",
+      "100 Member States",
+      "250 Member States"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "The UN comprises 193 member states (with South Sudan joining in 2011) plus two Permanent Observer states (Holy See & Palestine)."
+  },
+  {
+    "classLevel": 6,
+    "subject": "GK",
+    "chapter": "Chapter 12: Global Organizations, Peace, United Nations & Environmental Sustainability",
+    "question": "Which principal organ of the United Nations is responsible for maintaining international peace and security, consisting of 5 Permanent Members (P5 with Veto Power) and 10 non-permanent members?",
+    "options": [
+      "UN Security Council (UNSC)",
+      "General Assembly",
+      "Economic and Social Council",
+      "Trusteeship Council"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "The UNSC has primary responsibility for global peace; its 5 permanent members (US, UK, France, Russia, China) hold veto power."
+  },
+  {
+    "classLevel": 6,
+    "subject": "GK",
+    "chapter": "Chapter 12: Global Organizations, Peace, United Nations & Environmental Sustainability",
+    "question": "Which specialized UN agency headquartered in Geneva, Switzerland coordinates international public health and disease eradication?",
+    "options": [
+      "World Health Organization (WHO)",
+      "UNICEF",
+      "UNESCO",
+      "UNHCR"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "Founded on 7 April 1948 (World Health Day), the WHO coordinates global epidemiology, pandemics, and health policy."
+  },
+  {
+    "classLevel": 6,
+    "subject": "GK",
+    "chapter": "Chapter 12: Global Organizations, Peace, United Nations & Environmental Sustainability",
+    "question": "Which specialized UN agency headquartered in Paris, France promotes international collaboration in Education, Science, Culture, and World Heritage preservation?",
+    "options": [
+      "UNESCO",
+      "UNICEF",
+      "IMF",
+      "World Bank"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "UNESCO (UN Educational, Scientific and Cultural Organization) designates and protects World Heritage sites worldwide."
+  },
+  {
+    "classLevel": 6,
+    "subject": "GK",
+    "chapter": "Chapter 12: Global Organizations, Peace, United Nations & Environmental Sustainability",
+    "question": "Which specialized UN agency headquartered in New York provides humanitarian and developmental aid to children and mothers worldwide?",
+    "options": [
+      "UNICEF (United Nations Children's Fund)",
+      "UNHCR",
+      "UNDP",
+      "UNEP"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "UNICEF advocates for children's rights, child immunization, nutrition, and emergency child protection."
+  },
+  {
+    "classLevel": 6,
+    "subject": "GK",
+    "chapter": "Chapter 12: Global Organizations, Peace, United Nations & Environmental Sustainability",
+    "question": "Where is the International Court of Justice (ICJ / World Court), the principal judicial organ of the UN, located?",
+    "options": [
+      "The Hague, Netherlands (Peace Palace)",
+      "Geneva, Switzerland",
+      "Vienna, Austria",
+      "Rome, Italy"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "The ICJ sits at the Peace Palace in The Hague, Netherlands, adjudicating legal disputes between sovereign states."
+  },
+  {
+    "classLevel": 6,
+    "subject": "GK",
+    "chapter": "Chapter 12: Global Organizations, Peace, United Nations & Environmental Sustainability",
+    "question": "Which humanitarian organization founded by Henry Dunant in 1863 provides neutral emergency medical aid to war victims and disaster survivors, awarded three Nobel Peace Prizes?",
+    "options": [
+      "International Committee of the Red Cross (ICRC)",
+      "Amnesty International",
+      "Doctors Without Borders",
+      "Greenpeace"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "The Red Cross was founded following the 1859 Battle of Solferino, pioneering neutral humanitarian wartime protection."
+  },
+  {
+    "classLevel": 6,
+    "subject": "GK",
+    "chapter": "Chapter 12: Global Organizations, Peace, United Nations & Environmental Sustainability",
+    "question": "On which date is 'Human Rights Day' celebrated globally every year to commemorate the Universal Declaration of Human Rights (UDHR) adopted in 1948?",
+    "options": [
+      "10th December",
+      "24th October",
+      "2nd October",
+      "1st May"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "The UN General Assembly adopted the landmark Universal Declaration of Human Rights (UDHR) on 10 December 1948."
+  },
+  {
+    "classLevel": 6,
+    "subject": "GK",
+    "chapter": "Chapter 12: Global Organizations, Peace, United Nations & Environmental Sustainability",
+    "question": "Why is 'International Day of Non-Violence' observed globally on 2nd October every year by the United Nations?",
+    "options": [
+      "To commemorate the birth anniversary of Mahatma Gandhi and spread the universal philosophy of Ahimsa (Non-violence) and peace",
+      "To mark the end of World War II",
+      "To celebrate the first airplane flight",
+      "To celebrate Earth Day"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "In 2007, the UN General Assembly unanimously established 2 October (Gandhi Jayanti) as the International Day of Non-Violence."
+  },
+  {
+    "classLevel": 6,
+    "subject": "GK",
+    "chapter": "Chapter 12: Global Organizations, Peace, United Nations & Environmental Sustainability",
+    "question": "How many Sustainable Development Goals (SDGs) were adopted unanimously by all 193 UN Member States in 2015 to achieve peace, prosperity, and ecological balance by 2030?",
+    "options": [
+      "17 Goals (The 2030 Agenda for Sustainable Development)",
+      "10 Goals",
+      "8 Goals",
+      "25 Goals"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "The UN 2030 Agenda establishes 17 integrated SDGs addressing poverty, clean water, climate action, and inequality."
+  },
+  {
+    "classLevel": 6,
+    "subject": "GK",
+    "chapter": "Chapter 12: Global Organizations, Peace, United Nations & Environmental Sustainability",
+    "question": "Who are the FIVE Permanent Members (P5) of the UN Security Council holding permanent Veto Power?",
+    "options": [
+      "United States, United Kingdom, France, Russia, and China",
+      "India, Japan, Germany, Brazil, and South Africa",
+      "USA, Canada, Australia, UK, and New Zealand",
+      "Russia, Germany, Italy, Japan, and Spain"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "The P5 victorious Allied powers of WWII (US, UK, France, Russia, China) hold permanent veto rights under Article 27."
+  },
+  {
+    "classLevel": 6,
+    "subject": "GK",
+    "chapter": "Chapter 12: Global Organizations, Peace, United Nations & Environmental Sustainability",
+    "question": "What is the chief administrative officer of the United Nations called, who heads the UN Secretariat?",
+    "options": [
+      "UN Secretary-General",
+      "UN President",
+      "UN Prime Minister",
+      "Chief Justice of UN"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "The Secretary-General is the principal diplomat and chief administrative officer of the UN, appointed for 5-year terms."
+  },
+  {
+    "classLevel": 6,
+    "subject": "GK",
+    "chapter": "Chapter 12: Global Organizations, Peace, United Nations & Environmental Sustainability",
+    "question": "Who was the FIRST Indian woman to serve as President of the United Nations General Assembly (in 1953)?",
+    "options": [
+      "Vijaya Lakshmi Pandit",
+      "Sarojini Naidu",
+      "Indira Gandhi",
+      "Sucheta Kripalani"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "Vijaya Lakshmi Pandit was elected as the first female President of the 8th Session of the UN General Assembly in 1953."
+  },
+  {
+    "classLevel": 6,
+    "subject": "GK",
+    "chapter": "Chapter 12: Global Organizations, Peace, United Nations & Environmental Sustainability",
+    "question": "Which specialized UN agency headquartered in Rome, Italy works to defeat global hunger, improve nutrition, and secure food security for all?",
+    "options": [
+      "Food and Agriculture Organization (FAO)",
+      "UNEP",
+      "WHO",
+      "UNICEF"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "FAO leads international efforts to achieve global food security and sustainable agricultural modernization."
+  },
+  {
+    "classLevel": 6,
+    "subject": "GK",
+    "chapter": "Chapter 12: Global Organizations, Peace, United Nations & Environmental Sustainability",
+    "question": "Which international treaty adopted at COP21 in 2015 commits nearly all nations to limit global average temperature rise to well below 2°C above pre-industrial levels?",
+    "options": [
+      "The Paris Climate Agreement",
+      "Kyoto Protocol",
+      "Montreal Protocol",
+      "Stockholm Declaration"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "The 2015 Paris Accord legally binds parties to Nationally Determined Contributions (NDCs) aiming for a 1.5°C warming ceiling."
+  },
+  {
+    "classLevel": 6,
+    "subject": "GK",
+    "chapter": "Chapter 12: Global Organizations, Peace, United Nations & Environmental Sustainability",
+    "question": "What is the specialized UN environmental agency headquartered in Nairobi, Kenya that coordinates global environmental responses and World Environment Day?",
+    "options": [
+      "United Nations Environment Programme (UNEP)",
+      "UNDP",
+      "UNHCR",
+      "UNFCCC"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "UNEP (founded 1972 in Nairobi) leads global environmental governance, IPCC reporting, and biodiversity treaties."
+  },
+  {
+    "classLevel": 6,
+    "subject": "GK",
+    "chapter": "Chapter 12: Global Organizations, Peace, United Nations & Environmental Sustainability",
+    "question": "What are the 'Blue Helmets' of the United Nations officially known as?",
+    "options": [
+      "UN Peacekeeping Forces (soldiers and police contributed by member states like India to maintain ceasefire and protect civilians in conflict zones)",
+      "UN underwater divers",
+      "UN mountain climbers",
+      "UN pilots"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "UN Peacekeepers wear distinctive blue helmets, deployed under Chapter VII mandates to de-escalate armed conflicts (India is a top contributor)."
+  },
+  {
+    "classLevel": 6,
+    "subject": "GK",
+    "chapter": "Chapter 12: Global Organizations, Peace, United Nations & Environmental Sustainability",
+    "question": "Which non-governmental international environmental organization, founded in 1971, is world-famous for non-violent direct action to protect oceans, ancient forests, and stop nuclear testing?",
+    "options": [
+      "Greenpeace",
+      "WWF",
+      "Amnesty International",
+      "Red Cross"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "Greenpeace campaigns against ocean dumping, commercial whaling, deforestation, and climate degradation."
+  },
+  {
+    "classLevel": 6,
+    "subject": "GK",
+    "chapter": "Chapter 12: Global Organizations, Peace, United Nations & Environmental Sustainability",
+    "question": "What iconic animal is featured as the global conservation logo of the World Wide Fund for Nature (WWF)?",
+    "options": [
+      "Giant Panda",
+      "Bengal Tiger",
+      "African Elephant",
+      "Polar Bear"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "The Giant Panda (inspired by Chi-Chi at London Zoo in 1961) has served as WWF's iconic global conservation emblem."
+  },
+  {
+    "classLevel": 6,
+    "subject": "GK",
+    "chapter": "Chapter 12: Global Organizations, Peace, United Nations & Environmental Sustainability",
+    "question": "Who was the Indian child rights activist awarded the Nobel Peace Prize in 2014 for his 'Bachpan Bachao Andolan' which rescued over 100,000 children from forced child labour and trafficking?",
+    "options": [
+      "Kailash Satyarthi (shared with Malala Yousafzai)",
+      "Amartya Sen",
+      "Muhammad Yunus",
+      "Nelson Mandela"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "Kailash Satyarthi founded Bachpan Bachao Andolan and Global March Against Child Labour, winning the 2014 Nobel Peace Prize."
+  },
+  {
+    "classLevel": 6,
+    "subject": "GK",
+    "chapter": "Chapter 12: Global Organizations, Peace, United Nations & Environmental Sustainability",
+    "question": "Where are the prestigious Nobel Prizes presented annually every year on 10th December (the Nobel Peace Prize in Oslo, Norway and other science/literature prizes in Stockholm, Sweden)?",
+    "options": [
+      "Stockholm (Sweden) and Oslo (Norway)",
+      "New York and Washington",
+      "Paris and London",
+      "Geneva and Zurich"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "As stipulated by Alfred Nobel's 1895 will, the Peace Prize is awarded in Oslo, while Physics, Chemistry, Medicine, and Literature are awarded in Stockholm."
+  },
+  {
+    "classLevel": 6,
+    "subject": "GK",
+    "chapter": "Chapter 12: Global Organizations, Peace, United Nations & Environmental Sustainability",
+    "question": "What international day was unanimously declared by the UN General Assembly in 2014 following a proposal by India, celebrated globally every year on 21st June?",
+    "options": [
+      "International Day of Yoga",
+      "World Health Day",
+      "International Day of Peace",
+      "World Science Day"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "21 June (summer solstice) was adopted as International Yoga Day by 177 co-sponsoring nations at the UN."
+  },
+  {
+    "classLevel": 6,
+    "subject": "GK",
+    "chapter": "Chapter 12: Global Organizations, Peace, United Nations & Environmental Sustainability",
+    "question": "What is the primary objective of the 'International Atomic Energy Agency' (IAEA), headquartered in Vienna, Austria?",
+    "options": [
+      "Promoting safe, secure, and peaceful uses of nuclear energy while preventing the proliferation of nuclear weapons",
+      "Building nuclear bombs for all countries",
+      "Stopping all physics research",
+      "Mining uranium in oceans"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "IAEA ('Atoms for Peace') inspects nuclear facilities and verifies compliance with the Non-Proliferation Treaty (NPT)."
+  },
+  {
+    "classLevel": 6,
+    "subject": "GK",
+    "chapter": "Chapter 12: Global Organizations, Peace, United Nations & Environmental Sustainability",
+    "question": "What is 'Earth Hour' organized annually by the World Wide Fund for Nature (WWF) on the last Saturday of March?",
+    "options": [
+      "Millions of people and landmarks across 190 countries turn off non-essential electric lights for ONE HOUR (8:30 to 9:30 PM) to show commitment to planet Earth",
+      "Stopping all cars for a day",
+      "An hour with no sun",
+      "Planting 1 billion trees in one hour"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "Earth Hour is a grassroots climate mobilization where cities black out iconic monuments for 60 minutes."
+  },
+  {
+    "classLevel": 6,
+    "subject": "GK",
+    "chapter": "Chapter 12: Global Organizations, Peace, United Nations & Environmental Sustainability",
+    "question": "What is the international human rights organization founded in 1961 that was awarded the 1977 Nobel Peace Prize for campaigning against torture and political imprisonment worldwide?",
+    "options": [
+      "Amnesty International",
+      "Transparency International",
+      "Interpol",
+      "Oxfam"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "Amnesty International investigates human rights abuses and advocates for prisoners of conscience globally."
+  },
+  {
+    "classLevel": 6,
+    "subject": "GK",
+    "chapter": "Chapter 12: Global Organizations, Peace, United Nations & Environmental Sustainability",
+    "question": "What is the ancient Sanskrit universal philosophy adopted by India for its G20 Presidency in 2023: 'Vasudhaiva Kutumbakam'?",
+    "options": [
+      "\"One Earth · One Family · One Future\" (The World is One Family)",
+      "\"Might is Right\"",
+      "\"War brings Glory\"",
+      "\"Trade conquers Nations\""
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "From the Maha Upanishad, 'Vasudhaiva Kutumbakam' affirms that all humanity and planetary life belong to a single interconnected cosmic family."
+  },
+  {
+    "classLevel": 6,
+    "subject": "GK",
+    "chapter": "Chapter 12: Global Organizations, Peace, United Nations & Environmental Sustainability",
+    "question": "Read the statements:\nAssertion (A): The United Nations Charter (1945) replaced the earlier League of Nations (1919) to establish a more enforceable framework for global collective security.\nReason (R): The League of Nations lacked an enforcement military mechanism and failed to prevent the catastrophic aggression of World War II.\nChoose the correct option:",
+    "options": [
+      "Both (A) and (R) are true, and (R) is the correct explanation of (A).",
+      "Both (A) and (R) are true, but (R) is NOT the correct explanation of (A).",
+      "(A) is true, but (R) is false.",
+      "(A) is false, but (R) is true."
+    ],
+    "correctAnswer": 0,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "The post-WWII UN Charter instituted binding Chapter VII enforcement mechanisms and peacekeeper deployment absent in the League."
+  },
+  {
+    "classLevel": 6,
+    "subject": "GK",
+    "chapter": "Chapter 12: Global Organizations, Peace, United Nations & Environmental Sustainability",
+    "question": "Spot the IMPOSTER in the following group of United Nations specialized agencies matched with their headquarters:\nGroup: [UNESCO - Paris (France), WHO - Geneva (Switzerland), FAO - Rome (Italy), International Court of Justice - Tokyo (Japan)]",
+    "options": [
+      "UNESCO - Paris (France)",
+      "WHO - Geneva (Switzerland)",
+      "FAO - Rome (Italy)",
+      "International Court of Justice - Tokyo (Japan)"
+    ],
+    "correctAnswer": 3,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "The International Court of Justice (ICJ) is headquartered in THE HAGUE, NETHERLANDS, NOT Tokyo."
+  },
+  {
+    "classLevel": 6,
+    "subject": "GK",
+    "chapter": "Chapter 12: Global Organizations, Peace, United Nations & Environmental Sustainability",
+    "question": "What is the diplomatic coalition known as the 'G4 Nations' (India, Japan, Germany, and Brazil) advocating for in global governance?",
+    "options": [
+      "Permanent Membership seats for themselves in an expanded and democratized UN Security Council (UNSC reform)",
+      "Creating a new space station",
+      "Banning all international trade",
+      "Building a global military"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "The G4 bloc supports mutual bids for permanent UNSC reform to reflect contemporary 21st-century geopolitical realities."
+  },
+  {
+    "classLevel": 6,
+    "subject": "GK",
+    "chapter": "Chapter 12: Global Organizations, Peace, United Nations & Environmental Sustainability",
+    "question": "Match Column I (International Organizations) with Column II (Primary Domains):\n(a) UNICEF -> (i) Child survival, immunization, education & protection\n(b) UNHCR  -> (ii) Protection and resettlement of displaced global refugees\n(c) ILO    -> (iii) International labor standards & workers' rights\n(d) WMO    -> (iv) Global meteorology, weather & climate monitoring",
+    "options": [
+      "a-(i), b-(ii), c-(iii), d-(iv)",
+      "a-(ii), b-(i), c-(iv), d-(iii)",
+      "a-(iv), b-(iii), c-(ii), d-(i)",
+      "a-(iii), b-(iv), c-(i), d-(ii)"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "UNICEF = children; UNHCR = refugees; ILO = labor standards; WMO = weather/climate."
+  },
+  {
+    "classLevel": 6,
+    "subject": "GK",
+    "chapter": "Chapter 12: Global Organizations, Peace, United Nations & Environmental Sustainability",
+    "question": "Read the statements regarding international conventions:\nStatement 1: The 'Geneva Conventions' establish legal humanitarian protections for wounded soldiers, prisoners of war, and non-combatant civilians during armed conflicts.\nStatement 2: The Universal Declaration of Human Rights contains 30 foundational articles affirming inherent human dignity and inalienable rights.\nStatement 3: Only countries in Europe are allowed to join the United Nations.\nWhich statements are TRUE?",
+    "options": [
+      "Statements 1 and 2 only",
+      "Statements 2 and 3 only",
+      "Statements 1 and 3 only",
+      "All Statements 1, 2, and 3"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "Statement 3 is completely false because the UN is a universal global body with 193 member states from all continents. Statements 1 and 2 are true."
+  },
+  {
+    "classLevel": 6,
+    "subject": "GK",
+    "chapter": "Chapter 12: Global Organizations, Peace, United Nations & Environmental Sustainability",
+    "question": "What is the 'Intergovernmental Panel on Climate Change' (IPCC), co-established by UNEP and WMO in 1988, awarded the 2007 Nobel Peace Prize?",
+    "options": [
+      "The UN scientific body that assesses comprehensive peer-reviewed scientific literature on human-induced climate change, impacts, and mitigation options",
+      "A company that sells solar panels",
+      "A bank that funds space exploration",
+      "A military alliance of polar countries"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "The IPCC produces definitive Assessment Reports synthesizing global climatology to inform UNFCCC negotiations."
+  },
+  {
+    "classLevel": 6,
+    "subject": "GK",
+    "chapter": "Chapter 12: Global Organizations, Peace, United Nations & Environmental Sustainability",
+    "question": "What is the unique environmental conservation project in Africa known as the 'Great Green Wall'?",
+    "options": [
+      "An 8,000 km living barrier of trees, vegetation, and restored land stretching across the entire width of the Sahel from Senegal to Djibouti to combat Sahara desertification",
+      "A concrete wall painted green",
+      "A glass greenhouse in the desert",
+      "A solar panel highway"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "The Great Green Wall restores 100 million hectares of degraded Sahelian landscape through community agro-forestry."
+  },
+  {
+    "classLevel": 6,
+    "subject": "GK",
+    "chapter": "Chapter 12: Global Organizations, Peace, United Nations & Environmental Sustainability",
+    "question": "Who was the legendary Swedish diplomat and 2nd UN Secretary-General who died in a 1961 plane crash on a Congo peace mission, awarded a posthumous Nobel Peace Prize?",
+    "options": [
+      "Dag Hammarskjöld",
+      "Trygve Lie",
+      "U Thant",
+      "Kofi Annan"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "Dag Hammarskjöld established active UN preventive diplomacy and peacekeeper deployment doctrine."
+  },
+  {
+    "classLevel": 6,
+    "subject": "GK",
+    "chapter": "Chapter 12: Global Organizations, Peace, United Nations & Environmental Sustainability",
+    "question": "What is the international environmental treaty known as the 'Basel Convention' (1989)?",
+    "options": [
+      "Controlling and preventing the transboundary movement and dumping of hazardous toxic chemical and electronic waste from developed to developing nations",
+      "Protecting migratory birds",
+      "Banning plastic water bottles",
+      "Cleaning space debris"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "The Basel Convention regulates global trade and disposal of hazardous toxic waste and e-scrap."
+  },
+  {
+    "classLevel": 6,
+    "subject": "GK",
+    "chapter": "Chapter 12: Global Organizations, Peace, United Nations & Environmental Sustainability",
+    "question": "What is the global initiative known as 'Mission LiFE' (Lifestyle for Environment) launched by India at COP26 and UN in 2022?",
+    "options": [
+      "A mass movement encouraging individual and community behavioral changes to practice mindful, sustainable consumption and circular conservation lifestyles",
+      "A mission to send humans to live on Mars",
+      "A plan to build electric airplanes",
+      "A treaty banning all paper books"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "Mission LiFE mobilizes Pro-Planet People (P3) to shift individual consumer behavior towards sustainable ecological practices."
+  },
+  {
+    "classLevel": 6,
+    "subject": "GK",
+    "chapter": "Chapter 12: Global Organizations, Peace, United Nations & Environmental Sustainability",
+    "question": "Which Indian woman was the first recipient of the prestigious Ramon Magsaysay Award for Community Leadership (1958) and founded the Bhoodan (Land Gift) Movement?",
+    "options": [
+      "Acharya Vinoba Bhave",
+      "Mother Teresa",
+      "Aruna Roy",
+      "Medha Patkar"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "Gandhian disciple Acharya Vinoba Bhave won the inaugural 1958 Magsaysay Award for his voluntary Bhoodan land distribution."
+  },
+  {
+    "classLevel": 6,
+    "subject": "GK",
+    "chapter": "Chapter 12: Global Organizations, Peace, United Nations & Environmental Sustainability",
+    "question": "What ultimate planetary vision unites the United Nations Sustainable Development Goals and human civilization?",
+    "options": [
+      "Creating an equitable, peaceful, and regenerative world where human dignity, poverty eradication, economic prosperity, and ecological biosphere balance thrive in harmony",
+      "Colonizing outer space after destroying Earth",
+      "Creating a single world government with no cultural diversity",
+      "Stopping all human technological progress"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "The UN SDGs envision a shared global blueprint balancing socio-economic equity with planetary ecological boundaries."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Social Science",
+    "chapter": "Chapter 12: Buildings, Paintings and Books",
+    "question": "Where is the famous 1,600-year-old rustless Iron Pillar of King Chandra (Gupta period), which stands 7.2 metres high and weighs over 6 tonnes, located?",
+    "options": [
+      "Mehrauli, New Delhi (in the Qutub Minar complex)",
+      "Agra",
+      "Varanasi",
+      "Pataliputra"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "The Iron Pillar at Mehrauli in Delhi is an enduring metallurgical masterpiece that has withstood corrosion for 16 centuries."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Social Science",
+    "chapter": "Chapter 12: Buildings, Paintings and Books",
+    "question": "What does the Sanskrit word 'Stupa' literally mean in Buddhist architecture?",
+    "options": [
+      "A Mound (a semi-hemispherical dome-like structure)",
+      "A Palace",
+      "A Cave",
+      "A Gate"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "'Stupa' translates as mound/tumulus, enshrining sacred bodily relics (dhatu) of the Buddha or his disciples."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Social Science",
+    "chapter": "Chapter 12: Buildings, Paintings and Books",
+    "question": "What small container is placed at the very center/heart of a Buddhist stupa containing bodily remains (teeth, bone, ashes) or precious gems of the Buddha?",
+    "options": [
+      "Relic Casket",
+      "Treasure box",
+      "Incense burner",
+      "Stone pillar"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "The relic casket at the stupa's core preserves sacred osteological relics and inscribed votive gemstones."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Social Science",
+    "chapter": "Chapter 12: Buildings, Paintings and Books",
+    "question": "What is the circular path laid around a Buddhist stupa for devotees to perform clockwise walking worship (Pradakshina) called?",
+    "options": [
+      "Pradakshina Patha",
+      "Mandapa",
+      "Garbhagriha",
+      "Torana"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "Devotees circumambulate the stupa along the stone-railed Pradakshina patha in a clockwise solar direction."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Social Science",
+    "chapter": "Chapter 12: Buildings, Paintings and Books",
+    "question": "Where is the famous 'Great Stupa' built of brick and stone with magnificently carved gateways (Toranas) located?",
+    "options": [
+      "Sanchi (Madhya Pradesh)",
+      "Amaravati",
+      "Nagarjunakonda",
+      "Sarnath"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "The Great Stupa at Sanchi (begun by Ashoka and embellished by the Sungas/Satavahanas) is a UNESCO World Heritage site."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Social Science",
+    "chapter": "Chapter 12: Buildings, Paintings and Books",
+    "question": "In ancient Hindu temple architecture, what was the innermost sanctum room where the main image/idol of the presiding deity was installed called?",
+    "options": [
+      "Garbhagriha ('Womb-chamber')",
+      "Shikhara",
+      "Mandapa",
+      "Torana"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "The Garbhagriha is the sacred innermost sanctum where the presiding murti resides for ritual worship."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Social Science",
+    "chapter": "Chapter 12: Buildings, Paintings and Books",
+    "question": "In ancient Hindu temple architecture, what was the tall rising superstructure tower built over the Garbhagriha to mark it as a sacred mountain peak called?",
+    "options": [
+      "Shikhara (in North Indian Nagara style) / Vimana",
+      "Mandapa",
+      "Gopuram",
+      "Pradakshina"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "The Shikhara is the towering superstructure rising directly above the garbhagriha, symbolizing Mount Meru."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Social Science",
+    "chapter": "Chapter 12: Buildings, Paintings and Books",
+    "question": "In ancient Hindu temple architecture, what was the large assembly hall where devotees gathered to pray and watch sacred dances called?",
+    "options": [
+      "Mandapa",
+      "Garbhagriha",
+      "Shikhara",
+      "Vihara"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "The Mandapa is the pillared assembly hall preceding the sanctum for congregational devotion."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Social Science",
+    "chapter": "Chapter 12: Buildings, Paintings and Books",
+    "question": "Where are the world-famous rock-cut Buddhist monastery caves decorated with glowing natural mural fresco paintings (painted in torchlight 1500 years ago) located?",
+    "options": [
+      "Ajanta Caves (Aurangabad, Maharashtra)",
+      "Ellora Caves",
+      "Elephanta Caves",
+      "Bhimbetka Caves"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "Ajanta's 30 rock-cut caves feature sublime Jataka narrative mural paintings executed under Vakataka patronage."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Social Science",
+    "chapter": "Chapter 12: Buildings, Paintings and Books",
+    "question": "Who composed the great Sanskrit epic 'Mahabharata' (which narrates the war between Kauravas and Pandavas and contains the Bhagavad Gita)?",
+    "options": [
+      "Sage Ved Vyasa (Krishna Dvaipayana Vyasa)",
+      "Sage Valmiki",
+      "Kalidasa",
+      "Tulsidas"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "The epic Mahabharata (comprising 100,000 shlokas) is traditionally attributed to Sage Ved Vyasa."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Social Science",
+    "chapter": "Chapter 12: Buildings, Paintings and Books",
+    "question": "Who composed the original Sanskrit epic 'Ramayana', narrating the life and righteous ideals of Prince Rama of Ayodhya?",
+    "options": [
+      "Sage Valmiki (the Adikavi / First Poet)",
+      "Ved Vyasa",
+      "Banabhatta",
+      "Harisena"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "Maharishi Valmiki composed the foundational Sanskrit Ramayana in anushtubh verse meter."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Social Science",
+    "chapter": "Chapter 12: Buildings, Paintings and Books",
+    "question": "Around 1,900 years ago (c. 105 CE), who invented the manufacturing process of PAPER in China by beating plant fibers, bark, rags, and fishing nets?",
+    "options": [
+      "Cai Lun (Ts'ai Lun)",
+      "Confucius",
+      "Laozi",
+      "Emperor Qin"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "Han dynasty court official Cai Lun synthesized true pulp papermaking in 105 CE, revolutionizing global information transmission."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Social Science",
+    "chapter": "Chapter 12: Buildings, Paintings and Books",
+    "question": "What is the famous ancient Tamil epic composed by poet Ilango Adigal around 1800 years ago about the tragic merchant Kovalan, his wife Kannagi, and the court dancer Madhavi?",
+    "options": [
+      "Silappadikaram ('The Story of the Anklet')",
+      "Manimekalai",
+      "Tirukkural",
+      "Tolkappiyam"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "Silappadikaram narrates Kannagi's righteous wrath that destroyed Madurai after her husband was unjustly executed for stealing the Queen's anklet."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Social Science",
+    "chapter": "Chapter 12: Buildings, Paintings and Books",
+    "question": "What is the famous Tamil sequel epic composed by poet Sattanar around 1400 years ago describing the spiritual adventures of Kovalan and Madhavi's daughter?",
+    "options": [
+      "Manimekalai",
+      "Silappadikaram",
+      "Jivaka Chintamani",
+      "Kundalakesi"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "Manimekalai chronicles how Kovalan's daughter renounced worldly riches to become a Buddhist nun dispensing food to the poor with the magic vessel Amritasurabhi."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Social Science",
+    "chapter": "Chapter 12: Buildings, Paintings and Books",
+    "question": "What ancient monolithic temple carved entirely out of a SINGLE massive natural granite boulder from top to bottom is found at Mahabalipuram?",
+    "options": [
+      "Pancha Pandava Rathas (Monolithic rock-cut shrines)",
+      "The Sun Temple",
+      "Kailashnath Temple at Ellora",
+      "Meenakshi Temple"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "Pallava craftsmen carved the monolithic free-standing Pancha Rathas out of single granite whaleback rocks at Mamallapuram."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Social Science",
+    "chapter": "Chapter 12: Buildings, Paintings and Books",
+    "question": "What is the famous early Hindu brick temple dating to around 1500 years ago located in Kanpur district, Uttar Pradesh?",
+    "options": [
+      "Bhitargaon Temple",
+      "Deogarh Dashavatara Temple",
+      "Tigawa Temple",
+      "Nachna Kuthara Temple"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "Bhitargaon is the oldest surviving Gupta-era terraced brick temple with an early curvilinear shikhara and terracotta panels."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Social Science",
+    "chapter": "Chapter 12: Buildings, Paintings and Books",
+    "question": "How did artists paint the vivid, luminous mural paintings inside the pitch-dark caves of Ajanta over 1500 years ago?",
+    "options": [
+      "They used natural plant and mineral pigments (clay, ochre, lime, lapis lazuli) applied over a plaster base, illuminated by sunlight reflected from metal mirrors and oil torches",
+      "They used electric fluorescent lights",
+      "They painted with neon synthetic paints",
+      "They painted only during solar eclipses"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "Ajanta fresco-secco murals used mineral pigments on clay/lime plaster, illuminated by reflective brass mirrors."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Social Science",
+    "chapter": "Chapter 12: Buildings, Paintings and Books",
+    "question": "What famous ancient Indian Sanskrit collection of animal fables with moral and political wisdom was authored by Pandit Vishnu Sharma?",
+    "options": [
+      "Panchatantra (The Five Treatises)",
+      "Hitopadesha",
+      "Jatakas",
+      "Katha Sarit Sagara"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "Vishnu Sharma composed the Panchatantra (Mitra Bheda, Mitra Labha, etc.) to teach statecraft to prince pupils through animal allegories."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Social Science",
+    "chapter": "Chapter 12: Buildings, Paintings and Books",
+    "question": "Who was the ancient Indian physician known as the 'Father of Indian Medicine' whose medical treatise 'Charaka Samhita' laid the foundations of Ayurveda?",
+    "options": [
+      "Sage Charaka",
+      "Sushruta",
+      "Vagbhata",
+      "Patanjali"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "Charaka formulated tridosha balance (Vata, Pitta, Kapha), diagnosis, and pharmacology in the foundational 'Charaka Samhita'."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Social Science",
+    "chapter": "Chapter 12: Buildings, Paintings and Books",
+    "question": "What scientific explanations did Aryabhata provide in his seminal treatise 'Aryabhatiya' (c. 499 CE)?",
+    "options": [
+      "He explained that day and night are caused by the rotation of the Earth on its axis, provided mathematical rules for calculating solar/lunar eclipses, and calculated π as 3.1416",
+      "He claimed Earth was flat and balanced on elephants",
+      "He stated the sun orbits the earth every hour",
+      "He rejected all mathematics"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "Aryabhata pioneered heliocentric motion, axial planetary rotation, geometric calculation of eclipses, and trigonometry (jya/sine)."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Social Science",
+    "chapter": "Chapter 12: Buildings, Paintings and Books",
+    "question": "What are the 'Puranas' in classical Hindu sacred literature?",
+    "options": [
+      "Eighteen major sacred Sanskrit texts containing stories of gods and goddesses (Vishnu, Shiva, Durga), cosmology, genealogies, written in simple verse accessible to all",
+      "Military training manuals for war",
+      "Books on Roman trade",
+      "Poetry written in Greek"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "The 18 Mahapuranas democratized religious lore: recited aloud in temples so commoners and women could hear sacred wisdom."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Social Science",
+    "chapter": "Chapter 12: Buildings, Paintings and Books",
+    "question": "How did the invention and knowledge of Papermaking spread from China across the world?",
+    "options": [
+      "It reached Korea and Japan around 1400 years ago, was transmitted to Baghdad (Arab world) in 751 CE via the Silk Route, and traveled from there to Europe",
+      "It was carried by birds flying across oceans",
+      "It was discovered independently in every country in the same year",
+      "It remained secret in China until 1950"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "Following the 751 CE Battle of Talas, Arab artisans learned papermaking in Samarkand/Baghdad, diffusing it to Europe."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Social Science",
+    "chapter": "Chapter 12: Buildings, Paintings and Books",
+    "question": "What is the famous sculpture of 'Descent of the Ganga' (Arjuna's Penance) carved on an immense open-air granite rock relief at:",
+    "options": [
+      "Mahabalipuram (Mamallapuram, Tamil Nadu)",
+      "Ajanta",
+      "Sanchi",
+      "Khajuraho"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "The 27m × 9m open-air bas-relief at Mahabalipuram depicts Bhagiratha's penance / Arjuna's austerities with celestial nagas and elephants."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Social Science",
+    "chapter": "Chapter 12: Buildings, Paintings and Books",
+    "question": "What structural architectural material was used to encase and protect the older Ashokan mud-brick Great Stupa at Sanchi around the 2nd century BCE?",
+    "options": [
+      "A protective outer stone casing, stone harmika balcony, stone railings (vedika), and four elaborately carved Torana gateways",
+      "Solid gold bricks",
+      "Carved timber wood only",
+      "Concrete slabs"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "Sunga and Satavahana patrons doubled Sanchi's diameter with sandstone ashlar casing and sculpted four monumental Torana gateways."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Social Science",
+    "chapter": "Chapter 12: Buildings, Paintings and Books",
+    "question": "What famous Buddhist stupa in Andhra Pradesh on the Krishna River was renowned for its exquisite marble-like limestone narrative relief carvings?",
+    "options": [
+      "Amaravati Stupa",
+      "Sanchi Stupa",
+      "Bharhut Stupa",
+      "Dhamek Stupa"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "The Maha-chaitya at Amaravati featured dynamic, crowded narrative limestone reliefs depicting the Buddha's life under Satavahana rule."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Social Science",
+    "chapter": "Chapter 12: Buildings, Paintings and Books",
+    "question": "Who financed the construction of magnificent stupas, temples, and rock-cut viharas in ancient India?",
+    "options": [
+      "Royal kings, queens, wealthy guild merchants, ivory carvers, farmers, blacksmiths, and humble ordinary lay devotees (recorded in votive inscriptions)",
+      "Only Roman emperors",
+      "Foreign tourists only",
+      "The temples were built by magic without human workers"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "Epigraphic donative records prove monument construction was crowdsourced across all social strata: guilds, monks, queens, and artisans."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Social Science",
+    "chapter": "Chapter 12: Buildings, Paintings and Books",
+    "question": "What is the famous Gupta-era rock-cut temple carved into the Udayagiri hill caves in Madhya Pradesh known for?",
+    "options": [
+      "The colossal rock-cut bas-relief of Lord Vishnu as Varaha (Boar avatar) rescuing Prithvi (Earth)",
+      "The largest Buddha statue in the world",
+      "A library of paper books",
+      "A royal gold treasury"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "Udayagiri Cave 5 houses the iconic 5th-century monumental Varaha relief symbolizing geopolitical order restored by the Guptas."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Social Science",
+    "chapter": "Chapter 12: Buildings, Paintings and Books",
+    "question": "What ancient Indian treatise on statecraft, economic policy, military strategy, and royal administration was authored by Kautilya (Chanakya)?",
+    "options": [
+      "Arthashastra",
+      "Manusmriti",
+      "Kamasutra",
+      "Natya Shastra"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "Kautilya's Arthashastra is the premier ancient Sanskrit compendium of political economy, fiscal taxation, and diplomatic espionage."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Social Science",
+    "chapter": "Chapter 12: Buildings, Paintings and Books",
+    "question": "Read the statements:\nAssertion (A): The monolithic rock-cut Rathas of Mahabalipuram and the early structural temples of Aihole and Bhitargaon represent the crucible transition from wood/rock caves to permanent stone architecture in India.\nReason (R): Early stone temples directly imitated wooden architectural joinery (beams, rafters, barrel vaults) before developing standardized Nagara and Dravida temple shikhara styles.\nChoose the correct option:",
+    "options": [
+      "Both (A) and (R) are true, and (R) is the correct explanation of (A).",
+      "Both (A) and (R) are true, but (R) is NOT the correct explanation of (A).",
+      "(A) is true, but (R) is false.",
+      "(A) is false, but (R) is true."
+    ],
+    "correctAnswer": 0,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "Petrification of timber architecture is visible in the horseshoe chaitya arches and barrel-vaulted roof forms of Mamallapuram and Aihole."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Social Science",
+    "chapter": "Chapter 12: Buildings, Paintings and Books",
+    "question": "Spot the IMPOSTER in the following group of ancient texts matched with their authors:\nGroup: [Buddhacharita - Ashvaghosha, Harshacharita - Banabhatta, Aryabhatiya - Aryabhata, Silappadikaram - Sage Valmiki]",
+    "options": [
+      "Buddhacharita - Ashvaghosha",
+      "Harshacharita - Banabhatta",
+      "Aryabhatiya - Aryabhata",
+      "Silappadikaram - Sage Valmiki"
+    ],
+    "correctAnswer": 3,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "Silappadikaram was composed by the Tamil prince-poet ILANGO ADIGAL, NOT Sage Valmiki (who composed the Sanskrit Ramayana)."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Social Science",
+    "chapter": "Chapter 12: Buildings, Paintings and Books",
+    "question": "Consider the architectural components of a classical Hindu Temple:\n1. Garbhagriha\n2. Shikhara / Vimana\n3. Mandapa\n4. Pradakshina Patha\nWhat is the spatial and symbolic pathway a devotee follows from entrance to divine communion?",
+    "options": [
+      "Enter through the Mandapa hall -> circumambulate clockwise along the Pradakshina path -> look up at the towering Shikhara -> gaze directly into the Garbhagriha sanctum for Darshan",
+      "Start in the Garbhagriha and end at the gate",
+      "Climb to the top of the Shikhara first",
+      "Walk around the outer village"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "The devotee traverses a sacred spatial axis: threshold -> pillared Mandapa -> circumambulation -> sanctum sanctorum (Garbhagriha)."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Social Science",
+    "chapter": "Chapter 12: Buildings, Paintings and Books",
+    "question": "Match Column I (Ancient Masterpieces) with Column II (Categories & Authors):\n(a) Meghaduta          -> (i) Lyric Sanskrit poem of cloud messenger by Kalidasa\n(b) Sushruta Samhita   -> (ii) Foundational surgical medical treatise\n(c) Manimekalai        -> (iii) Tamil epic composed by poet Sattanar\n(d) Panchatantra       -> (iv) Sanskrit animal fable collection by Vishnu Sharma",
+    "options": [
+      "a-(i), b-(ii), c-(iii), d-(iv)",
+      "a-(ii), b-(i), c-(iv), d-(iii)",
+      "a-(iv), b-(iii), c-(ii), d-(i)",
+      "a-(iii), b-(iv), c-(i), d-(ii)"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "Meghaduta = Kalidasa; Sushruta = surgery; Manimekalai = Sattanar; Panchatantra = Vishnu Sharma."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Social Science",
+    "chapter": "Chapter 12: Buildings, Paintings and Books",
+    "question": "Read the statements regarding ancient Indian literature and art:\nStatement 1: Ajanta cave paintings depict scenes from the Jataka tales, illustrating compassion, self-sacrifice, and princely renunciation.\nStatement 2: The Bhagavad Gita is an integral part of the Bhishma Parva of the Mahabharata.\nStatement 3: Paper was invented in India before it was invented in China.\nWhich statements are TRUE?",
+    "options": [
+      "Statements 1 and 2 only",
+      "Statements 2 and 3 only",
+      "Statements 1 and 3 only",
+      "All Statements 1, 2, and 3"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "Statement 3 is false because papermaking was invented in CHINA by Cai Lun in 105 CE (India wrote on palm leaves/birch bark before adopting paper centuries later). Statements 1 and 2 are true."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Social Science",
+    "chapter": "Chapter 12: Buildings, Paintings and Books",
+    "question": "What is the profound thematic resolution in the Tamil epic 'Silappadikaram' when Kannagi tears off her left breast and throws it at the city of Madurai?",
+    "options": [
+      "Her cosmic grief and chaste moral power (Karpu) invoke the god of fire to burn corrupt Madurai to ashes, vindicating innocent truth over royal miscarriage of justice",
+      "She becomes the new queen of Madurai",
+      "She forgives the king with gold",
+      "She sails away to Rome"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "Kannagi's moral fury incinerates unjust Madurai, deifying her as the supreme goddess of chastity and justice (Pattini)."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Social Science",
+    "chapter": "Chapter 12: Buildings, Paintings and Books",
+    "question": "Why was birch bark ('Bhurjapatra') and processed palm leaves ('Talapatra') used as the primary writing material in ancient India before the advent of paper?",
+    "options": [
+      "Dried inner bark of Himalayan Betula utilis (birch) and Palmyra palm leaves were cured, trimmed, and inscribed with iron styluses or ink, strung together through central binding holes",
+      "Because stone was too light to write on",
+      "Because ancient Indians had no metal tools",
+      "Because trees produced pre-printed books"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "Pothi manuscripts utilized inscribed cured palm leaves and birch folios bound with cords through perforations."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Social Science",
+    "chapter": "Chapter 12: Buildings, Paintings and Books",
+    "question": "What dramatic story of an artist and king's devotion is represented in the 'Padmapani Bodhisattva' fresco painting in Ajanta Cave 1?",
+    "options": [
+      "The Bodhisattva Avalokiteshvara holding a blue lotus in his hand, radiating infinite serene compassion, graceful tribhanga posture, and sublime spiritual transcendence",
+      "A general riding a war horse",
+      "A trader counting gold coins",
+      "A hunter chasing deer"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "Ajanta's Padmapani Bodhisattva is celebrated globally for its delicate shading, downward compassionate gaze, and spiritual grace."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Social Science",
+    "chapter": "Chapter 12: Buildings, Paintings and Books",
+    "question": "How did Aryabhata mathematically calculate the length of the solar year in the 5th century CE?",
+    "options": [
+      "He calculated it as 365.25868 days, remarkably close to modern atomic astronomical calculations (365.25636 days)",
+      "He calculated it as exactly 300 days",
+      "He calculated it as 400 days",
+      "He stated that days have no fixed length"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "Aryabhata determined the sidereal solar year to fractional precision using astronomical epicyclic models."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Social Science",
+    "chapter": "Chapter 12: Buildings, Paintings and Books",
+    "question": "What do the diverse architectural forms of Durga Temple at Aihole (with its apsidal curved chaitya-like end) demonstrate about 6th-century Deccan art?",
+    "options": [
+      "It represents a brilliant experimental hybrid where Chalukyan stone masons melded Buddhist rock-cut apsidal plans with emerging Hindu structural temple sanctums",
+      "It was built by Roman architects",
+      "It was a replica of a Greek stadium",
+      "It was carved out of sea ice"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "Aihole's Durga temple illustrates architectural experimentation: adapting the apsidal plan of Buddhist chaityas into a Hindu pillared ambulatory temple."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Social Science",
+    "chapter": "Chapter 12: Buildings, Paintings and Books",
+    "question": "What is the ancient Sanskrit treatise on dramatic arts, theatre performance, stage aesthetics, and the theory of Nine Rasas (emotions) authored by Sage Bharata?",
+    "options": [
+      "Natya Shastra",
+      "Kavyamimamsa",
+      "Sahitya Darpana",
+      "Dhvanyaloka"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "Bharata Muni's Natya Shastra formulated classical Indian dramaturgy, abhinaya (acting), and the foundational Rasa aesthetic theory."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Social Science",
+    "chapter": "Chapter 12: Buildings, Paintings and Books",
+    "question": "What grand cultural synthesis completes the NCERT Class 6 Social Science History journey in Chapter 12?",
+    "options": [
+      "The realization that ancient Indian civilization bequeathed a glorious heritage of rustless metallurgy, soaring architectural stupas and temples, immortal epic literature, and revolutionary scientific and mathematical breakthroughs that enriched all humankind",
+      "A belief that history is only about wars",
+      "The conclusion that ancient people knew nothing",
+      "A civilization that left no lasting legacy"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "The curriculum concludes celebrating ancient India's enduring global legacy across architecture, metallurgy, epic poetry, and mathematics."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Hindi Grammar",
+    "chapter": "Chapter 12: विराम चिह्न, संधि एवं शब्द संपदा",
+    "question": "वाक्य को बोलते या लिखते समय भावों को स्पष्ट करने तथा रुकने के लिए जिन विशेष चिह्नों का प्रयोग किया जाता है, उन्हें क्या कहते हैं?",
+    "options": [
+      "विराम चिह्न (Punctuation Marks)",
+      "कारक चिह्न",
+      "प्रत्यय",
+      "उपसर्ग"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "भाषा में अर्थ की स्पष्टता और भाव प्रकटीकरण हेतु प्रयुक्त ठहराव के संकेत 'विराम चिह्न' कहलाते हैं।"
+  },
+  {
+    "classLevel": 6,
+    "subject": "Hindi Grammar",
+    "chapter": "Chapter 12: विराम चिह्न, संधि एवं शब्द संपदा",
+    "question": "साधारण वाक्य के पूर्ण समाप्त होने पर अंत में कौन-सा विराम चिह्न लगाया जाता है?",
+    "options": [
+      "पूर्णविराम (।)",
+      "अल्पविराम (,)",
+      "प्रश्नवाचक चिह्न (?)",
+      "विस्मयादिबोधक चिह्न (!)"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "वाक्य की पूर्ण समाप्ति पर 'पूर्णविराम' (।) लगाया जाता है।"
+  },
+  {
+    "classLevel": 6,
+    "subject": "Hindi Grammar",
+    "chapter": "Chapter 12: विराम चिह्न, संधि एवं शब्द संपदा",
+    "question": "वाक्य में बहुत थोड़े समय के लिए रुकने या समान पदों को अलग करने के लिए किस चिह्न का प्रयोग होता है?",
+    "options": [
+      "अल्पविराम (Comma - ,)",
+      "पूर्णविराम (।)",
+      "योजक चिह्न (-)",
+      "कोष्ठक ()"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "अल्पकालिक ठहराव तथा पदों के पृथक्करण हेतु अल्पविराम (,) का प्रयोग होता है।"
+  },
+  {
+    "classLevel": 6,
+    "subject": "Hindi Grammar",
+    "chapter": "Chapter 12: विराम चिह्न, संधि एवं शब्द संपदा",
+    "question": "हर्ष, शोक, विस्मय, भय, घृणा आदि तीव्र मनोभावों को प्रकट करने वाले शब्दों या वाक्यों के आगे कौन-सा चिह्न लगाया जाता है?",
+    "options": [
+      "विस्मयादिबोधक चिह्न (!)",
+      "प्रश्नवाचक चिह्न (?)",
+      "पूर्णविराम (।)",
+      "अर्धविराम (;)"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "आश्चर्य, हर्ष, शोक आदि मनोभावों के लिए विस्मयादिबोधक चिह्न (!) प्रयुक्त होता है (जैसे: 'अरे! यह क्या हुआ?')"
+  },
+  {
+    "classLevel": 6,
+    "subject": "Hindi Grammar",
+    "chapter": "Chapter 12: विराम चिह्न, संधि एवं शब्द संपदा",
+    "question": "दो वर्णों (ध्वनियों) के अत्यंत निकट आने पर उनके परस्पर मेल से होने वाले विकार (परिवर्तन) को क्या कहते हैं?",
+    "options": [
+      "संधि (Euphonic Combination)",
+      "समास",
+      "उपसर्ग",
+      "कारक"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "दो समीपवर्ती ध्वनियों के मेल से उत्पन्न रूपात्मक परिवर्तन को 'संधि' कहते हैं।"
+  },
+  {
+    "classLevel": 6,
+    "subject": "Hindi Grammar",
+    "chapter": "Chapter 12: विराम चिह्न, संधि एवं शब्द संपदा",
+    "question": "हिंदी व्याकरण में संधि के मुख्य रूप से कितने भेद होते हैं?",
+    "options": [
+      "तीन भेद (1. स्वर संधि, 2. व्यंजन संधि, 3. विसर्ग संधि)",
+      "दो भेद",
+      "चार भेद",
+      "पाँच भेद"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "संधि के 3 मुख्य भेद हैं: स्वर संधि, व्यंजन संधि, और विसर्ग संधि।"
+  },
+  {
+    "classLevel": 6,
+    "subject": "Hindi Grammar",
+    "chapter": "Chapter 12: विराम चिह्न, संधि एवं शब्द संपदा",
+    "question": "दो स्वरों के आपस में मिलने से जो विकार या परिवर्तन होता है (जैसे: 'विद्या + आलय = विद्यालय'), उसे क्या कहते हैं?",
+    "options": [
+      "स्वर संधि",
+      "व्यंजन संधि",
+      "विसर्ग संधि",
+      "समास"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "स्वर वर्ण के साथ स्वर वर्ण के मेल से होने वाला विकार 'स्वर संधि' कहलाता है।"
+  },
+  {
+    "classLevel": 6,
+    "subject": "Hindi Grammar",
+    "chapter": "Chapter 12: विराम चिह्न, संधि एवं शब्द संपदा",
+    "question": "स्वर संधि के मुख्य कितने भेद होते हैं?",
+    "options": [
+      "पाँच भेद (दीर्घ, गुण, वृद्धि, यण, और अयादि संधि)",
+      "तीन भेद",
+      "चार भेद",
+      "छह भेद"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "स्वर संधि के 5 भेद हैं: 1. दीर्घ, 2. गुण, 3. वृद्धि, 4. यण, तथा 5. अयादि संधि।"
+  },
+  {
+    "classLevel": 6,
+    "subject": "Hindi Grammar",
+    "chapter": "Chapter 12: विराम चिह्न, संधि एवं शब्द संपदा",
+    "question": "'सूर्य + उदय' का सही संधि युक्त शब्द क्या होगा?",
+    "options": [
+      "सूर्योदय (गुण स्वर संधि : अ + उ = ओ)",
+      "सूर्योदयी",
+      "सूर्यउदय",
+      "सूर्यादय"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "सूर्य (अ) + उदय (उ) = सूर्योदय (गुण संधि: अ + उ = ओ)।"
+  },
+  {
+    "classLevel": 6,
+    "subject": "Hindi Grammar",
+    "chapter": "Chapter 12: विराम चिह्न, संधि एवं शब्द संपदा",
+    "question": "समान अर्थ प्रकट करने वाले पर्यायवाची शब्दों में 'कमल' के सही पर्यायवाची शब्दों का समूह कौन-सा है?",
+    "options": [
+      "जलज, पंकज, नीरज, सरोज, राजीव, अरविंद",
+      "अनल, पावक, दहन, हुताशन",
+      "गगन, नभ, अंबर, व्योम",
+      "तरु, विटप, पादप, द्रुम"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "कमल के पर्यायवाची: जलज, पंकज, नीरज, सरोज, राजीव, अरविंद, पद्म।"
+  },
+  {
+    "classLevel": 6,
+    "subject": "Hindi Grammar",
+    "chapter": "Chapter 12: विराम चिह्न, संधि एवं शब्द संपदा",
+    "question": "विलोम (विपरीतार्थक) शब्दों के सही युग्म की पहचान कीजिए:\n'अमृत' का विलोम शब्द क्या है?",
+    "options": [
+      "विष (या गरल)",
+      "जल",
+      "दूध",
+      "शहद"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "अमृत का विपरीतार्थक (विलोम) शब्द 'विष' या 'गरल' होता है।"
+  },
+  {
+    "classLevel": 6,
+    "subject": "Hindi Grammar",
+    "chapter": "Chapter 12: विराम चिह्न, संधि एवं शब्द संपदा",
+    "question": "वाक्यांश के लिए एक शब्द बताइए:\n'जो सब कुछ जानता हो' को क्या कहते हैं?",
+    "options": [
+      "सर्वज्ञ",
+      "अल्पज्ञ",
+      "विद्वान",
+      "सर्वव्यापी"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "सब कुछ जानने वाला = 'सर्वज्ञ'; कम जानने वाला = 'अल्पज्ञ'; जो कुछ न जानता हो = 'अज्ञ'।"
+  },
+  {
+    "classLevel": 6,
+    "subject": "Hindi Grammar",
+    "chapter": "Chapter 12: विराम चिह्न, संधि एवं शब्द संपदा",
+    "question": "किसी के कहे हुए कथन को ज्यों-का-त्यों उद्धृत करने के लिए किस चिह्न का प्रयोग किया जाता है?",
+    "options": [
+      "उद्धरण चिह्न / अवतरण चिह्न (दोहरा उद्धरण \" \" या इकहरा उद्धरण ' ')",
+      "योजक चिह्न (-)",
+      "कोष्ठक ()",
+      "लाघव चिह्न (०)"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "वक्ता के मूल कथन को सुरक्षित रखने हेतु दोहरा उद्धरण चिह्न (\" \") प्रयुक्त होता है।"
+  },
+  {
+    "classLevel": 6,
+    "subject": "Hindi Grammar",
+    "chapter": "Chapter 12: विराम चिह्न, संधि एवं शब्द संपदा",
+    "question": "शब्दों के संक्षिप्त रूप (abbreviation) को लिखने के लिए (जैसे: 'डॉक्टर' के लिए 'डॉ०', 'पंडित' के लिए 'पं०') किस चिह्न का प्रयोग होता है?",
+    "options": [
+      "लाघव चिह्न (० / संक्षेप सूचक)",
+      "हंसपद (^)",
+      "उपविराम (:)",
+      "विवरण चिह्न (:- )"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "संक्षिप्त रूप दर्शाने हेतु प्रयुक्त लघु शून्यवत प्रतीक 'लाघव चिह्न' (०) कहलाता है।"
+  },
+  {
+    "classLevel": 6,
+    "subject": "Hindi Grammar",
+    "chapter": "Chapter 12: विराम चिह्न, संधि एवं शब्द संपदा",
+    "question": "लिखते समय जब कोई शब्द या अंश छूट जाता है, तो उसे ऊपर लिखने के लिए किस चिह्न का प्रयोग किया जाता है?",
+    "options": [
+      "हंसपद या त्रुटिपूरक चिह्न (^)",
+      "योजक चिह्न (-)",
+      "लाघव चिह्न (०)",
+      "समानता सूचक (=)"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "छूटे हुए शब्द को सम्मिलित करने हेतु 'त्रुटिपूरक / हंसपद चिह्न' (^) लगाया जाता है।"
+  },
+  {
+    "classLevel": 6,
+    "subject": "Hindi Grammar",
+    "chapter": "Chapter 12: विराम चिह्न, संधि एवं शब्द संपदा",
+    "question": "'देव + इंद्र = देवेंद्र' और 'महा + ईश = महेश' में कौन-सी स्वर संधि है?",
+    "options": [
+      "गुण स्वर संधि (अ/आ + इ/ई = ए)",
+      "दीर्घ स्वर संधि",
+      "वृद्धि स्वर संधि",
+      "यण स्वर संधि"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "अ/आ के साथ इ/ई के मेल से 'ए' विकार उत्पन्न होना 'गुण स्वर संधि' का नियम है।"
+  },
+  {
+    "classLevel": 6,
+    "subject": "Hindi Grammar",
+    "chapter": "Chapter 12: विराम चिह्न, संधि एवं शब्द संपदा",
+    "question": "'सदा + एव = सदैव' और 'एक + एक = एकैक' में कौन-सी स्वर संधि है?",
+    "options": [
+      "वृद्धि स्वर संधि (अ/आ + ए/ऐ = ऐ)",
+      "गुण स्वर संधि",
+      "दीर्घ स्वर संधि",
+      "अयादि स्वर संधि"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "अ/आ के आगे ए/ऐ आने पर 'ऐ' हो जाना 'वृद्धि स्वर संधि' है (सदा + एव = सदैव)।"
+  },
+  {
+    "classLevel": 6,
+    "subject": "Hindi Grammar",
+    "chapter": "Chapter 12: विराम चिह्न, संधि एवं शब्द संपदा",
+    "question": "'यदि + अपि = यद्यपि' और 'इति + आदि = इत्यादि' में कौन-सी स्वर संधि है?",
+    "options": [
+      "यण स्वर संधि (इ/ई + असमान स्वर = य्)",
+      "गुण संधि",
+      "दीर्घ संधि",
+      "अयादि संधि"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "इ/ई का 'य्' में परिवर्तन 'यण स्वर संधि' कहलाता है (यदि + अपि = यद्यपि)।"
+  },
+  {
+    "classLevel": 6,
+    "subject": "Hindi Grammar",
+    "chapter": "Chapter 12: विराम चिह्न, संधि एवं शब्द संपदा",
+    "question": "'ने + अन = नयन' और 'पौ + अक = पावक' में कौन-सी स्वर संधि है?",
+    "options": [
+      "अयादि स्वर संधि (ए का अय्, ओ का अव्, औ का आव्)",
+      "यण संधि",
+      "गुण संधि",
+      "वृद्धि संधि"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "ए/ऐ/ओ/औ के आगे स्वर आने पर अय्/आय्/अव्/आव् में रूपांतरण 'अयादि स्वर संधि' कहलाता है।"
+  },
+  {
+    "classLevel": 6,
+    "subject": "Hindi Grammar",
+    "chapter": "Chapter 12: विराम चिह्न, संधि एवं शब्द संपदा",
+    "question": "अनेकार्थी शब्द 'कर' के विभिन्न अर्थों का सही समूह कौन-सा है?",
+    "options": [
+      "हाथ, टैक्स (लगान), किरण, और हाथी की सूँड़",
+      "पैर, आँख, कान",
+      "सोना, चाँदी, ताँबा",
+      "जल, थल, नभ"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "'कर' के अनेकार्थ हैं: हाथ (हस्त), टैक्स/शुल्क, सूर्य की किरण, तथा सूँड़।"
+  },
+  {
+    "classLevel": 6,
+    "subject": "Hindi Grammar",
+    "chapter": "Chapter 12: विराम चिह्न, संधि एवं शब्द संपदा",
+    "question": "अनेकार्थी शब्द 'अंबर' के दो मुख्य अर्थ क्या हैं?",
+    "options": [
+      "आकाश (गगन) और वस्त्र (कपड़ा)",
+      "पानी और हवा",
+      "फूल और पत्ता",
+      "दिन और रात"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "'अंबर' के दो प्रमुख अर्थ हैं: आकाश/नभ तथा वस्त्र/चीर (जैसे: पीतांबर = पीला वस्त्र)।"
+  },
+  {
+    "classLevel": 6,
+    "subject": "Hindi Grammar",
+    "chapter": "Chapter 12: विराम चिह्न, संधि एवं शब्द संपदा",
+    "question": "श्रुतिसम भिन्नार्थक शब्द 'अनल' और 'अनिल' के सही अर्थ क्रमशः क्या हैं?",
+    "options": [
+      "अनल = आग (अग्नि) ; अनिल = हवा (वायु)",
+      "अनल = हवा ; अनिल = आग",
+      "दोनों का अर्थ पानी है",
+      "दोनों का अर्थ आकाश है"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "'अनल' का अर्थ आग है और 'अनिल' का अर्थ वायु/समीर है।"
+  },
+  {
+    "classLevel": 6,
+    "subject": "Hindi Grammar",
+    "chapter": "Chapter 12: विराम चिह्न, संधि एवं शब्द संपदा",
+    "question": "श्रुतिसम भिन्नार्थक शब्द 'कुल' और 'कूल' के सही अर्थ क्रमशः क्या हैं?",
+    "options": [
+      "कुल = वंश / सब (समस्त) ; कूल = किनारा (तट)",
+      "कुल = किनारा ; कूल = वंश",
+      "दोनों का अर्थ ठंडा है",
+      "दोनों का अर्थ नदी है"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "'कुल' (ह्रस्व उ) = वंश/समग्र; 'कूल' (दीर्घ ऊ) = नदी का किनारा/तट।"
+  },
+  {
+    "classLevel": 6,
+    "subject": "Hindi Grammar",
+    "chapter": "Chapter 12: विराम चिह्न, संधि एवं शब्द संपदा",
+    "question": "वाक्यांश के लिए एक शब्द बताइए:\n'जिसका कोई शत्रु न जन्मा हो' को क्या कहते हैं?",
+    "options": [
+      "अजातशत्रु",
+      "शत्रुघ्न",
+      "अजेय",
+      "अमर"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "जिसका कोई शत्रु न उत्पन्न हुआ हो = 'अजातशत्रु'; जिसे जीता न जा सके = 'अजेय'।"
+  },
+  {
+    "classLevel": 6,
+    "subject": "Hindi Grammar",
+    "chapter": "Chapter 12: विराम चिह्न, संधि एवं शब्द संपदा",
+    "question": "वाक्यांश के लिए एक शब्द बताइए:\n'जो आँखों के सामने हो' और 'जो आँखों के सामने न हो' के लिए सही शब्द क्या हैं?",
+    "options": [
+      "प्रत्यक्ष और परोक्ष (अप्रत्यक्ष)",
+      "साक्षात और अदृश्य",
+      "दूरदर्शी और निकटदर्शी",
+      "दृश्य और श्रव्य"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "नेत्रों के सम्मुख = 'प्रत्यक्ष'; नेत्रों से परे = 'परोक्ष'।"
+  },
+  {
+    "classLevel": 6,
+    "subject": "Hindi Grammar",
+    "chapter": "Chapter 12: विराम चिह्न, संधि एवं शब्द संपदा",
+    "question": "विलोम शब्दों के सही समूह की पहचान कीजिए:",
+    "options": [
+      "अनुराग : विराग, उदय : अस्त, उत्थान : पतन, स्वाधीन : पराधीन, प्रत्यक्ष : परोक्ष",
+      "सत्य : सच, रात : निशा, जल : नीर",
+      "दिन : सुबह, सूर्य : चाँद",
+      "आकाश : बादल, धरती : मिट्टी"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "अनुराग-विराग, उदय-अस्त, उत्थान-पतन, स्वाधीन-पराधीन प्रामाणिक विलोम युग्म हैं।"
+  },
+  {
+    "classLevel": 6,
+    "subject": "Hindi Grammar",
+    "chapter": "Chapter 12: विराम चिह्न, संधि एवं शब्द संपदा",
+    "question": "पर्यायवाची शब्दों में 'बादल' के सही पर्यायवाची शब्दों का समूह कौन-सा है?",
+    "options": [
+      "मेघ, घन, जलद, वारिद, नीरद, पयोधर",
+      "जलज, पंकज, नीरज",
+      "दिनकर, दिवाकर, भास्कर",
+      "पवन, अनिल, समीर"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "जल देने वाले (द = देने वाला): जलद, वारिद, नीरद, मेघ, घन = बादल।"
+  },
+  {
+    "classLevel": 6,
+    "subject": "Hindi Grammar",
+    "chapter": "Chapter 12: विराम चिह्न, संधि एवं शब्द संपदा",
+    "question": "वाक्य में विराम चिह्नों का सही प्रयोग पहचानिए:\n'सुभाष चंद्र बोस ने कहा था तुम मुझे खून दो मैं तुम्हें आज़ादी दूँगा'",
+    "options": [
+      "सुभाष चंद्र बोस ने कहा था, \"तुम मुझे खून दो, मैं तुम्हें आज़ादी दूँगा!\"",
+      "सुभाष चंद्र बोस ने कहा था तुम मुझे खून दो मैं तुम्हें आज़ादी दूँगा।",
+      "\"सुभाष चंद्र बोस ने कहा था\" तुम मुझे खून दो मैं तुम्हें आज़ादी दूँगा?",
+      "सुभाष चंद्र बोस ने कहा था: तुम मुझे खून दो मैं तुम्हें आज़ादी दूँगा।"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "वक्ता के उपरांत अल्पविराम तथा ऐतिहासिक नारे को दोहरा उद्धरण चिह्न (\"...\") में विस्मयादिबोधक के साथ लिखना शुद्ध है।"
+  },
+  {
+    "classLevel": 6,
+    "subject": "Hindi Grammar",
+    "chapter": "Chapter 12: विराम चिह्न, संधि एवं शब्द संपदा",
+    "question": "कथन और कारण को ध्यानपूर्वक पढ़ें:\nकथन (A): 'रोको मत जाने दो' वाक्य में यदि 'रोको' के बाद अल्पविराम लगाया जाए ('रोको, मत जाने दो'), तो अर्थ होता है रोकना ; किन्तु यदि 'मत' के बाद अल्पविराम लगाया जाए ('रोको मत, जाने दो'), तो अर्थ ठीक उल्टा होकर जाने देना हो जाता है।\nकारण (R): विराम चिह्नों का स्थान परिवर्तन वाक्य के पूरे भाव और अर्थ को पूर्णतया बदल देता है।\nसही विकल्प चुनें:",
+    "options": [
+      "(A) और (R) दोनों सही हैं तथा (R), (A) की सही व्याख्या करता है।",
+      "(A) और (R) दोनों सही हैं, परन्तु (R), (A) की सही व्याख्या नहीं करता।",
+      "(A) सही है, परन्तु (R) गलत है।",
+      "(A) गलत है, परन्तु (R) सही है।"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "अल्पविराम का स्थान परिवर्तन वाक्य के अर्थ में 180-डिग्री का विपर्यास उत्पन्न कर देता है।"
+  },
+  {
+    "classLevel": 6,
+    "subject": "Hindi Grammar",
+    "chapter": "Chapter 12: विराम चिह्न, संधि एवं शब्द संपदा",
+    "question": "Spot the IMPOSTER in the following group of संधि विच्छेद और उनके प्रकारों में:\nGroup: [हिम + आलय = हिमालय (दीर्घ संधि), नर + ईश = नरेश (गुण संधि), महा + ऐश्वर्य = महैश्वर्य (वृद्धि संधि), सु + आगत = स्वागत (अयादि संधि)]",
+    "options": [
+      "हिम + आलय = हिमालय (दीर्घ संधि)",
+      "नर + ईश = नरेश (गुण संधि)",
+      "महा + ऐश्वर्य = महैश्वर्य (वृद्धि संधि)",
+      "सु + आगत = स्वागत (अयादि संधि)"
+    ],
+    "correctAnswer": 3,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "'सु + आगत = स्वागत' यण स्वर संधि (उ का व्) है, अयादि संधि नहीं।"
+  },
+  {
+    "classLevel": 6,
+    "subject": "Hindi Grammar",
+    "chapter": "Chapter 12: विराम चिह्न, संधि एवं शब्द संपदा",
+    "question": "सुमेलित कीजिए (विराम चिह्न और उनके मानक प्रतीक):\n(क) अर्धविराम     -> (i) ?\n(ख) अल्पविराम     -> (ii) ;\n(ग) विस्मयादिबोधक -> (iii) ,\n(घ) प्रश्नवाचक     -> (iv) !",
+    "options": [
+      "क-(ii), ख-(iii), ग-(iv), घ-(i)",
+      "क-(i), ख-(ii), ग-(iii), घ-(iv)",
+      "क-(iv), ख-(iii), ग-(ii), घ-(i)",
+      "क-(iii), ख-(iv), ग-(i), घ-(ii)"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "अर्धविराम = ; ; अल्पविराम = , ; विस्मयादिबोधक = ! ; प्रश्नवाचक = ?।"
+  },
+  {
+    "classLevel": 6,
+    "subject": "Hindi Grammar",
+    "chapter": "Chapter 12: विराम चिह्न, संधि एवं शब्द संपदा",
+    "question": "'पो + अन = पवन' और 'पौ + अन = पावन' में संधि नियमों का सूक्ष्म अंतर क्या है?",
+    "options": [
+      "'पो' (ओ) + अन में 'ओ' का 'अव्' होकर 'पवन' बनता है ; जबकि 'पौ' (औ) + अन में 'औ' का 'आव्' होकर 'पावन' बनता है (अयादि संधि)",
+      "दोनों में दीर्घ संधि है",
+      "पवन में व्यंजन संधि है",
+      "दोनों में कोई नियम नहीं है"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "अयादि संधि नियम: ओ + अन = अव् (पवन); औ + अन = आव् (पावन)।"
+  },
+  {
+    "classLevel": 6,
+    "subject": "Hindi Grammar",
+    "chapter": "Chapter 12: विराम चिह्न, संधि एवं शब्द संपदा",
+    "question": "संधि और समास में क्या तात्विक (मूलभूत) अंतर होता है?",
+    "options": [
+      "संधि दो वर्णों/ध्वनियों का मेल होती है जिससे ध्वनि विकार होता है (जैसे: 'विद्या + आलय = विद्यालय') ; जबकि समास दो या दो से अधिक सार्थक पदों/शब्दों का मेल होता है जिसमें कारक चिह्न लुप्त होते हैं (जैसे: 'राजा का पुत्र = राजपुत्र')",
+      "संधि केवल संस्कृत में होती है",
+      "समास केवल दो शब्दों में होता है",
+      "दोनों में कोई अंतर नहीं है"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "संधि = वर्णों/ध्वनियों का विकारमूलक संयोग; समास = पदों/शब्दों का विभक्तिरहित संक्षिप्तीकरण।"
+  },
+  {
+    "classLevel": 6,
+    "subject": "Hindi Grammar",
+    "chapter": "Chapter 12: विराम चिह्न, संधि एवं शब्द संपदा",
+    "question": "अनेकार्थी शब्द 'द्विज' के विभिन्न अर्थों का सही समूह कौन-सा है?",
+    "options": [
+      "ब्राह्मण, पक्षी, दाँत, और चंद्रमा (जिनका दो बार जन्म माना जाता है)",
+      "हाथी, घोड़ा, ऊँट",
+      "सोना, चाँदी, ताँबा",
+      "पेड़, फल, फूल"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "द्वि (दो) + ज (जन्मा): ब्राह्मण (उपनयन से द्वितीय जन्म), पक्षी (अंडे से जन्म), दाँत (दूध के दाँत के बाद पुनर्जन्म), चंद्रमा।"
+  },
+  {
+    "classLevel": 6,
+    "subject": "Hindi Grammar",
+    "chapter": "Chapter 12: विराम चिह्न, संधि एवं शब्द संपदा",
+    "question": "श्रुतिसम भिन्नार्थक शब्द 'अलि' और 'अली' के सही अर्थ क्रमशः क्या हैं?",
+    "options": [
+      "अलि (ह्रस्व) = भौंरा (भ्रमर) ; अली (दीर्घ) = सखी (सहेली)",
+      "अलि = सखी ; अली = भौंरा",
+      "दोनों का अर्थ आँख है",
+      "दोनों का अर्थ नदी है"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "'अलि' (ह्रस्व इ) = भ्रमर/भौंरा; 'अली' (दीर्घ ई) = सखी/सहेली।"
+  },
+  {
+    "classLevel": 6,
+    "subject": "Hindi Grammar",
+    "chapter": "Chapter 12: विराम चिह्न, संधि एवं शब्द संपदा",
+    "question": "'पितृ + आज्ञा' और 'मातृ + उपदेश' का शुद्ध संधि रूप क्रमशः क्या होगा?",
+    "options": [
+      "पित्राज्ञा और मात्रुपदेश (यण स्वर संधि : ऋ + असमान स्वर = र्)",
+      "पितराज्ञा और मातरोपदेश",
+      "पितृआज्ञा और मातृउपदेश",
+      "पित्रीआज्ञा और मात्रोपदेश"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "ऋ + आ = रा (पित्राज्ञा); ऋ + उ = रु (मात्रुपदेश) - यण संधि।"
+  },
+  {
+    "classLevel": 6,
+    "subject": "Hindi Grammar",
+    "chapter": "Chapter 12: विराम चिह्न, संधि एवं शब्द संपदा",
+    "question": "वाक्यांश के लिए एक शब्द का सही सुमेल बताइए:\n(क) उपकार को मानने वाला -> कृतज्ञ\n(ख) उपकार को न मानने वाला -> कृतघ्न\n(ग) जो गिना न जा सके -> अगणित (असंख्येय)\n(घ) जो सबमें व्याप्त हो -> सर्वव्यापी\nउपर्युक्त में से कौन-से सुमेल सही हैं?",
+    "options": [
+      "सभी (क, ख, ग, घ) पूर्णतः सत्य हैं",
+      "केवल क और ख",
+      "केवल ग और घ",
+      "केवल क और घ"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "कृतज्ञ (उपकार मानने वाला), कृतघ्न (अकृतज्ञ/न मानने वाला), अगणित, सर्वव्यापी - चारों प्रामाणिक हैं।"
+  },
+  {
+    "classLevel": 6,
+    "subject": "Hindi Grammar",
+    "chapter": "Chapter 12: विराम चिह्न, संधि एवं शब्द संपदा",
+    "question": "योजक चिह्न (-) का प्रयोग किन-किन परिस्थितियों में अनिवार्य रूप से किया जाता है?",
+    "options": [
+      "द्वंद्व समास के पदों के बीच (माता-पिता), पुनरुक्त शब्दों के बीच (धीरे-धीरे), तुलनात्मक 'सा/सी/से' से पूर्व (चाँद-सा मुखड़ा), और विलोम युग्मों के बीच (दिन-रात)",
+      "केवल वाक्य के अंत में",
+      "केवल प्रश्नों में",
+      "केवल संज्ञा और क्रिया के बीच"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "योजक चिह्न (-) द्वंद्व युग्मों, पुनरुक्ति, विलोमों तथा 'सा/सी' सादृश्यवाचियों में प्रयुक्त होता है।"
+  },
+  {
+    "classLevel": 6,
+    "subject": "Hindi Grammar",
+    "chapter": "Chapter 12: विराम चिह्न, संधि एवं शब्द संपदा",
+    "question": "हिंदी भाषा की समृद्धि में 'शब्द संपदा' (Vocabulary Enrichment) का क्या सर्वोच्च महत्व है?",
+    "options": [
+      "सटीक, समृद्ध शब्द संपदा से विचार-अभिव्यक्ति अत्यंत सजीव, प्रभावशाली, लालित्यपूर्ण तथा अर्थ-गांभीर्य से परिपूर्ण बनती है",
+      "शब्द संपदा से केवल शब्दकोश भारी होता है",
+      "ज्यादा शब्दों से भाषा कठिन हो जाती है",
+      "शब्द संपदा का कोई विशेष लाभ नहीं है"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "शब्द संपदा भाषा की सूक्ष्म अभिव्यंजना शक्ति, संप्रेषणीयता और वैचारिक प्रखरता का मूल आधार है।"
+  },
+  {
+    "classLevel": 6,
+    "subject": "Hindi Grammar",
+    "chapter": "Chapter 12: विराम चिह्न, संधि एवं शब्द संपदा",
+    "question": "कक्षा 6 के संपूर्ण हिंदी व्याकरण पाठ्यक्रम का चरम उद्देश्य क्या है?",
+    "options": [
+      "छात्रों में मानक भाषा की शुद्ध वर्तनी, व्याकरणिक नियमों की गहरी समझ, समृद्ध संप्रेषण कौशल तथा रचनात्मक चिंतन का सर्वांगीण विकास करना",
+      "केवल परीक्षा के लिए रटना",
+      "बिना समझे नियम याद करना",
+      "अन्य भाषाओं का त्याग करना"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "पाठ्यक्रम का लक्ष्य शुद्ध मानक भाषा ज्ञान, तार्किक व्याकरणिक दक्षता, और रचनात्मक अभिव्यक्ति का समग्र परिष्कार है।"
+  }
+]

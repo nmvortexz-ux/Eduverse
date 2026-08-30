@@ -1,0 +1,3842 @@
+[
+  {
+    "classLevel": 7,
+    "subject": "Science",
+    "chapter": "Chapter 1: Nutrition in Plants",
+    "question": "The mode of nutrition in which organisms make food themselves from simple inorganic substances is called:",
+    "options": [
+      "Autotrophic Nutrition",
+      "Heterotrophic Nutrition",
+      "Saprotrophic Nutrition",
+      "Parasitic Nutrition"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "Autotrophic nutrition (Auto = self, trophos = nourishment) is the synthesis of organic food by green plants from simple substances."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Science",
+    "chapter": "Chapter 1: Nutrition in Plants",
+    "question": "The green pigment present in the leaves of plants that captures solar radiant energy for photosynthesis is called:",
+    "options": [
+      "Chlorophyll",
+      "Hemoglobin",
+      "Carotene",
+      "Anthocyanin"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "Chlorophyll is the green magnesium-containing pigment in chloroplasts that absorbs sunlight energy for photosynthesis."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Science",
+    "chapter": "Chapter 1: Nutrition in Plants",
+    "question": "Tiny microscopic pores present on the surface of plant leaves surrounded by guard cells are called:",
+    "options": [
+      "Stomata",
+      "Vessels",
+      "Chloroplasts",
+      "Lenticels"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "Stomata are microscopic dermal pores enclosed by bean-shaped guard cells that regulate gas exchange and transpiration."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Science",
+    "chapter": "Chapter 1: Nutrition in Plants",
+    "question": "What are the essential raw materials required by green plants to carry out Photosynthesis?",
+    "options": [
+      "Carbon dioxide, Water, Chlorophyll, and Sunlight",
+      "Oxygen, Sugar, Soil, and Nitrogen",
+      "Carbon monoxide, Salt, Heat, and Sand",
+      "Glucose, Protein, Clay, and Water"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "Photosynthesis combines CO₂ and H₂O in the presence of light and chlorophyll to synthesize carbohydrates and O₂."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Science",
+    "chapter": "Chapter 1: Nutrition in Plants",
+    "question": "What is the primary carbohydrate food product and by-product gas synthesized during photosynthesis?",
+    "options": [
+      "Glucose (stored as Starch) and Oxygen gas (O₂)",
+      "Proteins and Carbon dioxide",
+      "Fats and Nitrogen gas",
+      "Minerals and Hydrogen gas"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "Photosynthesis converts CO₂ + H₂O into Glucose (stored as Starch) while releasing Oxygen (O₂) as a vital by-product."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Science",
+    "chapter": "Chapter 1: Nutrition in Plants",
+    "question": "Which yellow, tubular, non-green twining plant is a classic example of a total plant PARASITE that climbs on host trees?",
+    "options": [
+      "Cuscuta (Amarbel)",
+      "Pitcher Plant",
+      "Mushroom",
+      "Lichen"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "Cuscuta (Amarbel) lacks chlorophyll and uses haustorial root suckers to derive ready-made nutrients from its host tree."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Science",
+    "chapter": "Chapter 1: Nutrition in Plants",
+    "question": "Which insect-eating carnivorous plant has a modified leaf blade shaped like a pitcher with a lid and downward-pointing hairs?",
+    "options": [
+      "Pitcher Plant (Nepenthes)",
+      "Cuscuta",
+      "Mushroom",
+      "Rose plant"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "The Pitcher Plant (Nepenthes) traps insects inside its digestive enzyme-filled pitcher to obtain supplemental nitrogen."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Science",
+    "chapter": "Chapter 1: Nutrition in Plants",
+    "question": "Organisms that derive their nourishment in solution form from dead and decaying organic matter (such as Fungi/Mushrooms) are called:",
+    "options": [
+      "Saprotrophs (Saprotrophic Nutrition)",
+      "Autotrophs",
+      "Parasites",
+      "Herbivores"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "Saprotrophs secrete digestive enzymes onto decaying substrates and absorb the liquefied nutrients."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Science",
+    "chapter": "Chapter 1: Nutrition in Plants",
+    "question": "A symbiotic association in which an Alga (autotroph) and a Fungus (saprotroph) live together in mutual benefit is called a:",
+    "options": [
+      "Lichen",
+      "Cuscuta",
+      "Rhizobium",
+      "Mistletoe"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "In Lichens, the green alga manufactures food via photosynthesis while the fungus provides shelter, water, and minerals."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Science",
+    "chapter": "Chapter 1: Nutrition in Plants",
+    "question": "Which chemical test is used to detect the presence of Starch in a green leaf after photosynthesis?",
+    "options": [
+      "Iodine Solution Test (turns blue-black in presence of starch)",
+      "Benedict Test",
+      "Litmus Test",
+      "Acid Test"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "Iodine solution forms a characteristic blue-black charge-transfer complex with starch molecules in leaves."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Science",
+    "chapter": "Chapter 1: Nutrition in Plants",
+    "question": "What are the slimy, green floating patches commonly seen in stagnant ponds and ditches formed by simple photosynthetic organisms called?",
+    "options": [
+      "Algae",
+      "Fungi",
+      "Protozoa",
+      "Bacteria"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "Algae are simple thallophyte organisms containing chlorophyll that conduct aquatic photosynthesis."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Science",
+    "chapter": "Chapter 1: Nutrition in Plants",
+    "question": "Which beneficial bacterium lives inside the root nodules of leguminous crops (grams, peas, beans) to fix atmospheric nitrogen into soluble soil nitrates?",
+    "options": [
+      "Rhizobium",
+      "Lactobacillus",
+      "E. coli",
+      "Salmonella"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "Rhizobium bacteria form symbiotic root nodules with legumes, biologically fixing inert atmospheric N₂ into fertile nitrates."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Science",
+    "chapter": "Chapter 1: Nutrition in Plants",
+    "question": "Why do insectivorous plants (like the Pitcher Plant) capture and digest insects even though their green leaves carry out photosynthesis?",
+    "options": [
+      "They grow in nitrogen-deficient, boggy acidic soils and trap insects to obtain essential nitrogenous compounds required for protein synthesis",
+      "Because they cannot make any glucose at all",
+      "To protect themselves from insect bites",
+      "Because they do not need sunlight"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "Insectivorous plants are autotrophic for carbon/carbohydrates but carnivorous to supplement nitrogen deficient in marsh soils."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Science",
+    "chapter": "Chapter 1: Nutrition in Plants",
+    "question": "How do water and dissolved mineral nutrients absorbed by roots travel upwards to reach the green leaves?",
+    "options": [
+      "Through continuous pipe-like vascular vessels (Xylem tissue) running like pipelines throughout roots, stem, branches, and leaves",
+      "By diffusing across the outer bark",
+      "Carried inside pollen grains",
+      "Through stomatal pores"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "Xylem vessels form continuous hollow tracheary conduits transporting water and minerals upwards by capillary and transpirational pull."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Science",
+    "chapter": "Chapter 1: Nutrition in Plants",
+    "question": "Why do leaves that are deep red, brown, or violet in color (such as Croton leaves) also carry out photosynthesis successfully?",
+    "options": [
+      "They contain large amounts of red and brown accessory pigments that mask the green chlorophyll, but chlorophyll is still present and functional underneath",
+      "Because red color is better than green for photosynthesis",
+      "They absorb food directly from surrounding air",
+      "They only photosynthesize in the dark"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "Anthocyanin and carotenoid pigments mask the green chlorophyll optical color, but photosynthesis proceeds normally."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Science",
+    "chapter": "Chapter 1: Nutrition in Plants",
+    "question": "Why does a piece of moist bread develop a fluffy, cottony growth (mold) of green, white, or brown patches when left in a warm, moist room for 2-3 days?",
+    "options": [
+      "Airborne fungal spores land on the moist nutrient-rich bread, germinate into thread-like hyphae, and feed saprotrophically",
+      "The bread converts into green grass",
+      "Bacteria produce green paint",
+      "Moisture turns bread into plastic"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "Dormant fungal spores (like Rhizopus bread mold) germinate upon contact with warm moist organic substrates."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Science",
+    "chapter": "Chapter 1: Nutrition in Plants",
+    "question": "Why is the Sun rightfully described as the 'Ultimate Source of Energy' for all living organisms on planet Earth?",
+    "options": [
+      "Solar radiant energy captured by green autotrophic plants through photosynthesis forms the foundational chemical energy that powers all herbivores, carnivores, and human food webs",
+      "Because the sun burns all waste materials",
+      "Because animals can make food directly from sunlight without plants",
+      "Because the sun produces soil directly"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "Solar photons captured during photosynthetic light reactions drive primary biomass production across the global biosphere."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Science",
+    "chapter": "Chapter 1: Nutrition in Plants",
+    "question": "How do green plants synthesize PROTEINS when photosynthesis only directly produces carbohydrates (Carbon, Hydrogen, and Oxygen)?",
+    "options": [
+      "Plants combine carbohydrates with soluble Nitrogen absorbed from soil (via nitrogen-fixing bacteria and fertilizers) to synthesize amino acids and proteins",
+      "Plants absorb proteins directly from rainwater",
+      "Chlorophyll turns directly into protein in sunlight",
+      "Plants convert sunlight into iron"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "Proteins require nitrogen along with C, H, O. Plants utilize soil nitrates absorbed by roots to synthesize amino acids."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Science",
+    "chapter": "Chapter 1: Nutrition in Plants",
+    "question": "Why do farmers rarely need to add synthetic nitrogenous fertilizers to fields where leguminous crops (like peas, grams, or lentils) are cultivated?",
+    "options": [
+      "Symbiotic Rhizobium bacteria living in the legume root nodules naturally enrich the soil with fixed nitrogen, replenishing soil fertility naturally",
+      "Because legumes do not require any nitrogen",
+      "Because legume leaves produce chemical fertilizer powder",
+      "Because legumes absorb nitrogen through flowers"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "Rhizobium-legume symbiosis enriches rhizosphere nitrogen stocks, reducing synthetic chemical fertilizer requirements."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Science",
+    "chapter": "Chapter 1: Nutrition in Plants",
+    "question": "What happens when a potted green plant is kept inside a pitch-dark room for 72 hours (3 days) before an Iodine test?",
+    "options": [
+      "The plant gets 'destarched' as it consumes all its stored starch reserve in respiration without producing new starch, testing negative with iodine (no blue-black color)",
+      "The leaves turn permanently blue-black",
+      "The plant produces double the amount of starch",
+      "The roots turn into stems"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "Destarching in prolonged darkness exhausts leaf starch reserves via metabolic cellular respiration."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Science",
+    "chapter": "Chapter 1: Nutrition in Plants",
+    "question": "What is the symbiotic relationship between a Fungus and the roots of higher forest trees (such as Pinus / Oak) known as?",
+    "options": [
+      "Mycorrhiza (Fungus absorbs water and minerals for the tree, while the tree provides photosynthetic carbohydrates to the fungus)",
+      "Parasitism",
+      "Predation",
+      "Insectivory"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "Mycorrhizal mutualism expands root surface area for phosphorus/water uptake in exchange for host plant photosynthate."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Science",
+    "chapter": "Chapter 1: Nutrition in Plants",
+    "question": "How do Guard Cells regulate the opening and closing of stomatal pores on leaves?",
+    "options": [
+      "Guard cells swell and curve outward when water flows into them to open the pore, and shrink flaccid when water leaves to close the pore",
+      "Guard cells spin around like wheels",
+      "They melt in hot sunlight",
+      "They break apart permanently at night"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "Turgor pressure dynamics: osmotic potassium/water influx increases guard cell turgidity, bowing differential cell walls open."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Science",
+    "chapter": "Chapter 1: Nutrition in Plants",
+    "question": "Why is Cuscuta (Amarbel) classified as a 'Parasite' while the host tree is harmed?",
+    "options": [
+      "It deprives the host tree of valuable synthesized nutrients without contributing any benefit, weakening the host's vigor",
+      "Because it provides water to the host",
+      "Because it cleans the host tree leaves",
+      "Because it makes the tree grow twice as fast"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "Parasitism represents a (+/-) relationship where the parasite extracts vascular sap without returning metabolic reciprocity."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Science",
+    "chapter": "Chapter 1: Nutrition in Plants",
+    "question": "What is the role of boiling a leaf in alcohol (ethanol) inside a water bath during the classic Starch test experiment?",
+    "options": [
+      "To dissolve and extract the green chlorophyll completely so that the blue-black iodine color change can be observed clearly without green interference",
+      "To make the leaf grow bigger",
+      "To kill the starch molecules",
+      "To turn the leaf into sugar"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "Boiling in ethanol de-pigments the leaf by dissolving photosynthetic chlorophyll lipids, ensuring clear iodine colorimetry."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Science",
+    "chapter": "Chapter 1: Nutrition in Plants",
+    "question": "Why cannot human beings or other non-green animals synthesize their own food from atmospheric CO₂ and water like green plants do?",
+    "options": [
+      "Animal cells lack chloroplasts and the green pigment Chlorophyll necessary to absorb and convert solar photonic energy into chemical bonds",
+      "Because animals do not drink enough water",
+      "Because animal skin is too thick",
+      "Because animals walk on legs"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "Heterotrophs lack thylakoid chloroplast machinery and chlorophyll complexes capable of light-driven photophosphorylation."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Science",
+    "chapter": "Chapter 1: Nutrition in Plants",
+    "question": "What is the chemical word equation representing Photosynthesis?",
+    "options": [
+      "Carbon dioxide + Water --(Sunlight / Chlorophyll)--> Carbohydrate (Glucose) + Oxygen",
+      "Glucose + Oxygen ----> Carbon dioxide + Water + Energy",
+      "Nitrogen + Water ----> Protein + Hydrogen",
+      "Carbon dioxide + Soil ----> Starch + Salt"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "Photosynthetic stoichiometry: 6CO₂ + 6H₂O + radiant energy → C₆H₁₂O₆ + 6O₂."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Science",
+    "chapter": "Chapter 1: Nutrition in Plants",
+    "question": "Why do fungal infections frequently spoil leather shoes, pickles, wet clothes, and wood furniture during hot and humid monsoon weather?",
+    "options": [
+      "High humidity (moisture) and warm ambient temperatures provide optimal ecological conditions for airborne fungal spores to settle, germinate, and proliferate rapidly",
+      "Because leather shoes make food for fungi",
+      "Because rain turns clothes into fungi",
+      "Because sunlight stops shining entirely"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "Microscopic ubiquitous fungal spores require warm (25–35°C) and humid (>70% RH) substrates for vegetative hyphal growth."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Science",
+    "chapter": "Chapter 1: Nutrition in Plants",
+    "question": "How do major macronutrients like Nitrogen, Phosphorus, and Potassium (NPK) get depleted in soil over continuous farming?",
+    "options": [
+      "Growing crops continuously absorb massive quantities of mineral nutrients from the soil, requiring periodic replenishment via manure, compost, or fertilizers",
+      "Rain washes away all soil rocks",
+      "Earthworms eat all the soil nitrogen",
+      "Wind blows away minerals into clouds"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "Crop harvest continuously exports bio-accumulated N-P-K mineral reserves from agricultural soils, requiring systematic replenishment."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Science",
+    "chapter": "Chapter 1: Nutrition in Plants",
+    "question": "Read the statements:\nAssertion (A): Life on planet Earth would be utterly impossible in the complete absence of photosynthesis.\nReason (R): Photosynthesis is the sole biological process that captures solar energy to manufacture organic food for the entire biosphere while releasing all the oxygen gas required for aerobic respiration.\nChoose the correct option:",
+    "options": [
+      "Both (A) and (R) are true, and (R) is the correct explanation of (A).",
+      "Both (A) and (R) are true, but (R) is NOT the correct explanation of (A).",
+      "(A) is true, but (R) is false.",
+      "(A) is false, but (R) is true."
+    ],
+    "correctAnswer": 0,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "Photosynthesis underpins terrestrial life as the primary thermodynamic transducer of solar energy into bio-available trophic food and atmospheric O₂."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Science",
+    "chapter": "Chapter 1: Nutrition in Plants",
+    "question": "Spot the IMPOSTER in the following group of organisms categorized by their primary mode of nutrition:\nGroup: [Mushroom - Saprotroph, Yeast - Saprotroph, Bread Mold (Rhizopus) - Saprotroph, Cuscuta (Amarbel) - Saprotroph]",
+    "options": [
+      "Mushroom - Saprotroph",
+      "Yeast - Saprotroph",
+      "Bread Mold (Rhizopus) - Saprotroph",
+      "Cuscuta (Amarbel) - Saprotroph"
+    ],
+    "correctAnswer": 3,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "Cuscuta (Amarbel) is a PARASITE (living on live host plants), whereas Mushroom, Yeast, and Bread Mold are Saprotrophs (feeding on dead organic matter)."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Science",
+    "chapter": "Chapter 1: Nutrition in Plants",
+    "question": "A variegated leaf of a Coleus plant (having green center and white non-green border) is exposed to bright sunlight for 6 hours and tested with Iodine solution. What will be the observed result?",
+    "options": [
+      "Only the green central region turns blue-black (showing starch present), while the white non-green border remains pale yellow-brown (no starch), proving chlorophyll is indispensable for photosynthesis",
+      "The entire leaf turns uniform blue-black",
+      "Only the white border turns blue-black",
+      "The whole leaf turns bright red"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "Starch is synthesized exclusively in chlorophyll-containing green areas, confirming chlorophyll's essential catalytic role."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Science",
+    "chapter": "Chapter 1: Nutrition in Plants",
+    "question": "Match Column I (Modes of Plant Nutrition) with Column II (Representative Examples):\n(a) Autotroph       -> (i) Cuscuta (Amarbel)\n(b) Parasite        -> (ii) Pitcher Plant (Nepenthes)\n(c) Saprotroph      -> (iii) Green Algae & Mango tree\n(d) Insectivorous   -> (iv) Mushroom (Agaricus)",
+    "options": [
+      "a-(iii), b-(i), c-(iv), d-(ii)",
+      "a-(i), b-(iii), c-(ii), d-(iv)",
+      "a-(iv), b-(ii), c-(iii), d-(i)",
+      "a-(ii), b-(iv), c-(i), d-(iii)"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "Autotroph = Algae/Mango; Parasite = Cuscuta; Saprotroph = Mushroom; Insectivorous = Pitcher plant."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Science",
+    "chapter": "Chapter 1: Nutrition in Plants",
+    "question": "Read the statements regarding plant physiology:\nStatement 1: Stomata remain open primarily during daylight hours for CO₂ assimilation and close at night to minimize transpirational water loss.\nStatement 2: Desert plants (like Cacti) perform photosynthesis using their green fleshy stems while leaves are reduced to spines.\nStatement 3: Rhizobium bacteria can manufacture their own carbohydrate food through photosynthesis.\nWhich statements are TRUE?",
+    "options": [
+      "Statements 1 and 2 only",
+      "Statements 2 and 3 only",
+      "Statements 1 and 3 only",
+      "All Statements 1, 2, and 3"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "Statement 3 is false because Rhizobium is heterotrophic and receives carbohydrates from the legume host. Statements 1 and 2 are true."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Science",
+    "chapter": "Chapter 1: Nutrition in Plants",
+    "question": "Why is the partial carnivorous adaptation in Drosera (Sundew) and Utricularia (Bladderwort) considered an evolutionary masterpiece?",
+    "options": [
+      "It allows plants to colonize ultra-oligotrophic, waterlogged, and nutrient-poor wetlands where competing non-carnivorous autotrophs cannot survive due to nitrogen starvation",
+      "Because it turns the plants into active animals",
+      "Because they no longer require any water or carbon dioxide",
+      "Because they live underground without light"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "Carnivory circumvents soil nitrogen/phosphorus limitations in bogs through enzymatic breakdown of captured arthropod biomass."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Science",
+    "chapter": "Chapter 1: Nutrition in Plants",
+    "question": "Why do underwater submerged aquatic plants (like Hydrilla and Vallisneria) have narrow ribbon-like leaves and lack stomatal pores with cuticles?",
+    "options": [
+      "Narrow flexible leaves withstand flowing water currents without tearing, and dissolved gases (CO₂ and O₂) diffuse directly across thin epidermal cell walls",
+      "Because they do not need any carbon dioxide",
+      "To avoid being eaten by sharks",
+      "Because they only absorb food from soil"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "Hydrophytic adaptations eliminate stomata/cuticles to allow direct trans-epidermal diffusion of dissolved aquatic gases."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Science",
+    "chapter": "Chapter 1: Nutrition in Plants",
+    "question": "Consider four experimental setups of potted plants:\nSet 1: In sunlight, bell jar with KOH (potassium hydroxide pellets which absorb CO₂)\nSet 2: In sunlight, bell jar without KOH\nSet 3: In total darkness for 72 hours\nSet 4: Normal sunlight, open air\nWhich leaves will show a POSITIVE blue-black starch reaction with Iodine?",
+    "options": [
+      "Sets 2 and 4 only",
+      "Sets 1 and 3 only",
+      "Set 4 only",
+      "All 4 Sets"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "Set 1 lacks CO₂ (absorbed by KOH) and Set 3 lacks light; neither synthesizes starch. Sets 2 and 4 synthesize starch normally."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Science",
+    "chapter": "Chapter 1: Nutrition in Plants",
+    "question": "How do Lichens serve as sensitive 'Bio-indicators' of atmospheric air quality in environmental monitoring?",
+    "options": [
+      "Lichens are extraordinarily sensitive to toxic atmospheric Sulfur Dioxide (SO₂) air pollution and cannot survive in heavily polluted urban/industrial areas",
+      "They change their color to neon purple in clean air",
+      "They absorb plastic from the air",
+      "They only grow on factory chimneys"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "Lacking roots and protective cuticles, symbiotic lichens hyper-absorb atmospheric SO₂, serving as classic biological air quality monitors."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Science",
+    "chapter": "Chapter 1: Nutrition in Plants",
+    "question": "What is the precise cellular organelle inside green plant mesophyll cells where photosynthesis takes place?",
+    "options": [
+      "Chloroplast",
+      "Mitochondria",
+      "Ribosome",
+      "Golgi apparatus"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "Chloroplasts contain thylakoid membranes with light-harvesting chlorophyll and stroma enzymes for Calvin cycle carbohydrate synthesis."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Science",
+    "chapter": "Chapter 1: Nutrition in Plants",
+    "question": "What biochemical transformation happens to glucose molecules immediately after synthesis in leaf mesophyll cells?",
+    "options": [
+      "Excess glucose is rapidly polymerized into insoluble complex Starch for compact long-term storage and later translocated as sucrose via phloem",
+      "Glucose turns into pure gold crystals",
+      "It evaporates immediately into the sky",
+      "It converts into toxic carbon monoxide"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "Soluble osmotic glucose is condensed into insoluble, non-reactive amylose/amylopectin starch grains for osmotic equilibrium."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Science",
+    "chapter": "Chapter 1: Nutrition in Plants",
+    "question": "What overarching biological principle is illuminated in Chapter 1 of NCERT Class 7 Science?",
+    "options": [
+      "Autotrophic green plants form the indispensable biological bedrock of terrestrial life, sustaining global biogeochemical energy flow, oxygen renewal, and complex symbiotic networks",
+      "Plants depend completely on animals for all their food",
+      "Parasitic plants are the only beneficial organisms in nature",
+      "Soil fertility never requires any replenishment"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "Chapter 1 establishes plant autotrophy and ecological symbiosis as the foundational energy conduit of terrestrial biomes."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Mathematics",
+    "chapter": "Chapter 1: Integers",
+    "question": "What is the result of evaluating: (-8) + (-7)?",
+    "options": [
+      "-15",
+      "+15",
+      "-1",
+      "+1"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "Adding two negative integers yields a negative sum: (-8) + (-7) = -(8 + 7) = -15."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Mathematics",
+    "chapter": "Chapter 1: Integers",
+    "question": "What is the result of subtracting (-5) from 12: 12 - (-5)?",
+    "options": [
+      "17 (12 + 5 = 17)",
+      "7",
+      "-17",
+      "-7"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "Subtracting a negative number is equivalent to adding its positive counterpart: 12 - (-5) = 12 + 5 = 17."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Mathematics",
+    "chapter": "Chapter 1: Integers",
+    "question": "What is the product of multiplying a positive integer and a negative integer: (+6) × (-4)?",
+    "options": [
+      "-24",
+      "+24",
+      "+10",
+      "-2"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "(+) × (-) = (-) ; 6 × (-4) = -24."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Mathematics",
+    "chapter": "Chapter 1: Integers",
+    "question": "What is the product of multiplying two negative integers: (-9) × (-5)?",
+    "options": [
+      "+45 (A negative times a negative equals a positive)",
+      "-45",
+      "+14",
+      "-14"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "(-) × (-) = (+) ; (-9) × (-5) = +45."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Mathematics",
+    "chapter": "Chapter 1: Integers",
+    "question": "What is the Additive Identity element for all integers (such that a + 0 = a)?",
+    "options": [
+      "0 (Zero)",
+      "1",
+      "-1",
+      "Any integer"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "Zero is the additive identity for integers because adding zero to any integer leaves its value unchanged."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Mathematics",
+    "chapter": "Chapter 1: Integers",
+    "question": "What is the Multiplicative Identity element for all integers (such that a × 1 = a)?",
+    "options": [
+      "1 (One)",
+      "0",
+      "-1",
+      "10"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "1 is the multiplicative identity for integers because multiplying any integer by 1 yields the same integer."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Mathematics",
+    "chapter": "Chapter 1: Integers",
+    "question": "What is the Additive Inverse of the integer -18?",
+    "options": [
+      "+18 (such that (-18) + (+18) = 0)",
+      "-18",
+      "0",
+      "1"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "The additive inverse of an integer 'a' is '-a', which sums to zero: -(-18) = +18."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Mathematics",
+    "chapter": "Chapter 1: Integers",
+    "question": "What is the result of dividing: (-36) ÷ (-4)?",
+    "options": [
+      "+9 (Division of two negative integers results in a positive quotient)",
+      "-9",
+      "+144",
+      "-144"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "(-) ÷ (-) = (+) ; (-36) ÷ (-4) = +9."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Mathematics",
+    "chapter": "Chapter 1: Integers",
+    "question": "What is the result of dividing: (-50) ÷ 5?",
+    "options": [
+      "-10",
+      "+10",
+      "-250",
+      "+250"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "(-) ÷ (+) = (-) ; (-50) ÷ 5 = -10."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Mathematics",
+    "chapter": "Chapter 1: Integers",
+    "question": "What happens when ANY integer 'a' is divided by ZERO (a ÷ 0)?",
+    "options": [
+      "Division by zero is UNDEFINED (Meaningless in mathematics)",
+      "The answer is 0",
+      "The answer is 1",
+      "The answer is 'a'"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "Division by zero has no mathematical definition and is undefined for all integers."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Mathematics",
+    "chapter": "Chapter 1: Integers",
+    "question": "What is 0 divided by any non-zero integer 'a' (0 ÷ a)?",
+    "options": [
+      "0 (Zero)",
+      "Undefined",
+      "1",
+      "a"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "0 divided by any non-zero integer is always 0."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Mathematics",
+    "chapter": "Chapter 1: Integers",
+    "question": "What is the product of multiplying ANY integer 'a' with ZERO: a × 0?",
+    "options": [
+      "0 (Zero)",
+      "a",
+      "1",
+      "-a"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "Any integer multiplied by zero equals zero (multiplicative property of zero)."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Mathematics",
+    "chapter": "Chapter 1: Integers",
+    "question": "Evaluate using the Distributive Property of multiplication over addition:\n(-25) × [ 37 + (-17) ]",
+    "options": [
+      "-500 ((-25) × [20] = -500)",
+      "+500",
+      "-1350",
+      "+1350"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "(-25) × (37 - 17) = (-25) × 20 = -500."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Mathematics",
+    "chapter": "Chapter 1: Integers",
+    "question": "Evaluate using suitable property:\n(-48) × 105",
+    "options": [
+      "-5040 ((-48) × (100 + 5) = (-4800) + (-240) = -5040)",
+      "+5040",
+      "-4805",
+      "-4752"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "(-48) × (100 + 5) = (-48 × 100) + (-48 × 5) = -4800 - 240 = -5040."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Mathematics",
+    "chapter": "Chapter 1: Integers",
+    "question": "Find the product: (-1) × (-2) × (-3) × (-4) × (-5):",
+    "options": [
+      "-120 (Multiplying an ODD number (5) of negative signs yields a NEGATIVE result)",
+      "+120",
+      "-24",
+      "+24"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "There are 5 negative factors (odd count) → product is negative: -(1 × 2 × 3 × 4 × 5) = -120."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Mathematics",
+    "chapter": "Chapter 1: Integers",
+    "question": "Find the product: (-2) × (-5) × (-4) × (-10):",
+    "options": [
+      "+400 (Multiplying an EVEN number (4) of negative signs yields a POSITIVE result)",
+      "-400",
+      "+200",
+      "-200"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "4 negative factors (even count) → product is positive: +(2 × 5 × 4 × 10) = +400."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Mathematics",
+    "chapter": "Chapter 1: Integers",
+    "question": "In a class test containing 15 questions, 4 marks are given for every correct answer and (-2) marks are given for every incorrect answer. Gurpreet attempts all questions but only 9 of her answers are correct. What is her total score?",
+    "options": [
+      "24 marks (Correct = 9 × 4 = 36 ; Incorrect = 6 × (-2) = -12 ; Total = 36 + (-12) = 24)",
+      "36 marks",
+      "12 marks",
+      "30 marks"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "Correct marks = 9 × 4 = 36. Incorrect marks = (15 - 9) × (-2) = -12. Total = 36 - 12 = 24."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Mathematics",
+    "chapter": "Chapter 1: Integers",
+    "question": "In the same test (4 marks for correct, -2 for incorrect), one of Gurpreet's friends gets only 5 answers correct out of 15 attempted questions. What is her friend's total score?",
+    "options": [
+      "0 marks (Correct = 5 × 4 = 20 ; Incorrect = 10 × (-2) = -20 ; Total = 20 + (-20) = 0)",
+      "20 marks",
+      "-10 marks",
+      "10 marks"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "Score = (5 × 4) + (10 × (-2)) = 20 - 20 = 0."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Mathematics",
+    "chapter": "Chapter 1: Integers",
+    "question": "An elevator descends into a mine shaft at the rate of 6 metres per minute. If the descent starts from 10 m ABOVE the ground level, how long will it take to reach -350 m (350 m below ground)?",
+    "options": [
+      "60 minutes (1 hour) (Total distance = 10 - (-350) = 360 m ; Time = 360 / 6 = 60 minutes)",
+      "50 minutes",
+      "45 minutes",
+      "70 minutes"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "Total vertical drop = 10 - (-350) = 360 m. Time = 360 ÷ 6 = 60 minutes = 1 hour."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Mathematics",
+    "chapter": "Chapter 1: Integers",
+    "question": "At Srinagar, the temperature was -5°C on Monday and then it dropped by 2°C on Tuesday. What was the temperature of Srinagar on Tuesday? On Wednesday, it rose by 4°C. What was the temperature on Wednesday?",
+    "options": [
+      "Tuesday: -7°C ; Wednesday: -3°C",
+      "Tuesday: -3°C ; Wednesday: +1°C",
+      "Tuesday: -7°C ; Wednesday: +4°C",
+      "Tuesday: -10°C ; Wednesday: -6°C"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "Tuesday = -5 - 2 = -7°C. Wednesday = -7 + 4 = -3°C."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Mathematics",
+    "chapter": "Chapter 1: Integers",
+    "question": "A cement company earns a profit of ₹8 per bag of white cement sold and a loss of ₹5 per bag of grey cement sold. If the company sells 3,000 bags of white cement and 5,000 bags of grey cement in a month, what is its net profit or loss?",
+    "options": [
+      "Loss of ₹1,000 (Profit = 3000 × 8 = ₹24,000 ; Loss = 5000 × (-5) = -₹25,000 ; Net = 24,000 - 25,000 = -₹1,000)",
+      "Profit of ₹1,000",
+      "Profit of ₹24,000",
+      "Loss of ₹5,000"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "Profit on white = 3000 × 8 = ₹24,000. Loss on grey = 5000 × 5 = ₹25,000. Net = 24,000 - 25,000 = -₹1,000 (Loss)."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Mathematics",
+    "chapter": "Chapter 1: Integers",
+    "question": "In the same cement problem (₹8 profit/white bag, ₹5 loss/grey bag), how many white cement bags must the company sell to have neither profit nor loss if the number of grey bags sold is 6,400 bags?",
+    "options": [
+      "4,000 bags (Loss on grey = 6400 × 5 = ₹32,000 ; White bags needed = 32,000 / 8 = 4,000 bags)",
+      "3,200 bags",
+      "5,000 bags",
+      "4,800 bags"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "Total loss = 6400 × 5 = ₹32,000. Required white bags = 32000 ÷ 8 = 4,000 bags."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Mathematics",
+    "chapter": "Chapter 1: Integers",
+    "question": "Fill in the blank with suitable integer: (-3) × [ _____ ] = +27",
+    "options": [
+      "-9 (Since (-3) × (-9) = +27)",
+      "+9",
+      "-30",
+      "+30"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "Missing integer = 27 ÷ (-3) = -9."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Mathematics",
+    "chapter": "Chapter 1: Integers",
+    "question": "Fill in the blank with suitable integer: [ _____ ] ÷ (-12) = -8",
+    "options": [
+      "+96 (Since 96 ÷ (-12) = -8)",
+      "-96",
+      "+20",
+      "-4"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "Missing integer = (-8) × (-12) = +96."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Mathematics",
+    "chapter": "Chapter 1: Integers",
+    "question": "Which of the following mathematical properties holds strictly TRUE for Division of Integers?",
+    "options": [
+      "Division is NOT Commutative and NOT Associative for integers (e.g. 8 ÷ (-4) ≠ (-4) ÷ 8)",
+      "Division is Commutative for integers",
+      "Division is Associative for integers",
+      "Division by zero equals zero"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "Division of integers violates both commutative property (a ÷ b ≠ b ÷ a) and associative property."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Mathematics",
+    "chapter": "Chapter 1: Integers",
+    "question": "Evaluate: [ (-30) ÷ 10 ] ÷ 3",
+    "options": [
+      "-1 (Inside bracket: -30 ÷ 10 = -3 ; -3 ÷ 3 = -1)",
+      "+1",
+      "-9",
+      "+9"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "(-30 ÷ 10) ÷ 3 = (-3) ÷ 3 = -1."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Mathematics",
+    "chapter": "Chapter 1: Integers",
+    "question": "Evaluate: [ (-6) + 5 ] ÷ [ (-2) + 1 ]",
+    "options": [
+      "+1 (Numerator: -1 ; Denominator: -1 ; -1 ÷ -1 = +1)",
+      "-1",
+      "+2",
+      "-2"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "(-6 + 5) ÷ (-2 + 1) = (-1) ÷ (-1) = +1."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Mathematics",
+    "chapter": "Chapter 1: Integers",
+    "question": "The temperature at 12 noon was 10°C above zero (+10°C). If it decreases at the rate of 2°C per hour until midnight, at what time will the temperature be 8°C below zero (-8°C)?",
+    "options": [
+      "9:00 PM (Total decrease = 10 - (-8) = 18°C ; Hours required = 18 / 2 = 9 hours ; 12 noon + 9 hours = 9 PM)",
+      "8:00 PM",
+      "10:00 PM",
+      "11:00 PM"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "Total temperature drop = 10 - (-8) = 18°C. Time = 18 ÷ 2 = 9 hours. 12 noon + 9h = 9:00 PM."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Mathematics",
+    "chapter": "Chapter 1: Integers",
+    "question": "Read the statements:\nAssertion (A): The set of all Integers (ℤ) is closed under Addition, Subtraction, and Multiplication, but NOT closed under Division.\nReason (R): When two integers are divided (e.g. 5 ÷ 2 = 2.5 or (-3) ÷ 7 = -3/7), the quotient is a rational fraction and not necessarily an integer.\nChoose the correct option:",
+    "options": [
+      "Both (A) and (R) are true, and (R) is the correct explanation of (A).",
+      "Both (A) and (R) are true, but (R) is NOT the correct explanation of (A).",
+      "(A) is true, but (R) is false.",
+      "(A) is false, but (R) is true."
+    ],
+    "correctAnswer": 0,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "Closure under division fails in ℤ because quotient of two integers often produces non-integer rational numbers."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Mathematics",
+    "chapter": "Chapter 1: Integers",
+    "question": "Spot the IMPOSTER among the following statements regarding Integer Properties:\nGroup:\n1. a + b = b + a (Addition is Commutative)\n2. a × b = b × a (Multiplication is Commutative)\n3. a - b = b - a (Subtraction is Commutative)\n4. a × (b + c) = a × b + a × c (Distributive Property)",
+    "options": [
+      "Statement 1",
+      "Statement 2",
+      "Statement 3 (Subtraction is NOT commutative for integers)",
+      "Statement 4"
+    ],
+    "correctAnswer": 2,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "Subtraction is NOT commutative for integers: 5 - 3 = 2, but 3 - 5 = -2 (2 ≠ -2)."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Mathematics",
+    "chapter": "Chapter 1: Integers",
+    "question": "Evaluate the nested integer expression:\n(-1) × (-1) × (-1) × ... (multiplied 99 times) + (-1) × (-1) × (-1) × ... (multiplied 100 times):",
+    "options": [
+      "0 ((-1)^99 = -1 and (-1)^100 = +1 ; Sum = -1 + 1 = 0)",
+      "-2",
+      "+2",
+      "-1"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "(-1) raised to an odd power (99) is -1. (-1) raised to an even power (100) is +1. (-1) + (+1) = 0."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Mathematics",
+    "chapter": "Chapter 1: Integers",
+    "question": "Match Column I (Algebraic Integer Identity) with Column II (Name of Property):\n(a) a + b = b + a              -> (i) Associative Property of Addition\n(b) a × (b × c) = (a × b) × c  -> (ii) Distributive Property of Multiplication over Addition\n(c) (a + b) + c = a + (b + c)  -> (iii) Commutative Property of Addition\n(d) a × (b + c) = ab + ac      -> (iv) Associative Property of Multiplication",
+    "options": [
+      "a-(iii), b-(iv), c-(i), d-(ii)",
+      "a-(i), b-(ii), c-(iii), d-(iv)",
+      "a-(iv), b-(iii), c-(ii), d-(i)",
+      "a-(ii), b-(i), c-(iv), d-(iii)"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "a+b = b+a (Commutative +); a(bc) = (ab)c (Associative ×); (a+b)+c = a+(b+c) (Associative +); a(b+c) = ab+ac (Distributive)."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Mathematics",
+    "chapter": "Chapter 1: Integers",
+    "question": "Read the statements regarding integer verification:\nStatement 1: For any three integers a, b, c: a × (b - c) = (a × b) - (a × c).\nStatement 2: For any integers a and b: a ÷ (-b) = (-a) ÷ b = -(a ÷ b) where b ≠ 0.\nStatement 3: (a ÷ b) ÷ c = a ÷ (b ÷ c) for all non-zero integers.\nWhich statements are TRUE?",
+    "options": [
+      "Statements 1 and 2 only",
+      "Statements 2 and 3 only",
+      "Statements 1 and 3 only",
+      "All Statements 1, 2, and 3"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "Statement 3 is false because integer division is NOT associative (e.g. (16 ÷ 4) ÷ 2 = 2, but 16 ÷ (4 ÷ 2) = 8). Statements 1 and 2 are true."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Mathematics",
+    "chapter": "Chapter 1: Integers",
+    "question": "If a = -8, b = -7, and c = 6, verify the value of (a + b) + c and a + (b + c):",
+    "options": [
+      "Both equal -9 (((-8 + -7) + 6 = -15 + 6 = -9) and (-8 + (-7 + 6) = -8 + -1 = -9))",
+      "Both equal +9",
+      "First is -9, second is +5",
+      "Both equal -21"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "(-8 + -7) + 6 = -15 + 6 = -9. -8 + (-7 + 6) = -8 + (-1) = -9. Confirms Associative Property of Addition."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Mathematics",
+    "chapter": "Chapter 1: Integers",
+    "question": "Solve for x: (-15) × [ x + (-3) ] = (-15) × 8 + (-15) × (-3)",
+    "options": [
+      "x = 8 (By the Distributive Property: a × (x + b) = a × x + a × b ⇒ x = 8)",
+      "x = -8",
+      "x = 3",
+      "x = -3"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "Comparing with Distributive law a × (b + c) = ab + ac: here a = -15, b = x = 8, c = -3."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Mathematics",
+    "chapter": "Chapter 1: Integers",
+    "question": "A submarine is cruising at a depth of -650 m below sea level. It ascends 230 m, then dives down 180 m, and finally ascends 320 m. What is the final operating depth of the submarine relative to sea level?",
+    "options": [
+      "-280 m below sea level (-650 + 230 - 180 + 320 = -280 m)",
+      "-320 m below sea level",
+      "-410 m below sea level",
+      "-180 m below sea level"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "-650 + 230 - 180 + 320 = -420 - 180 + 320 = -600 + 320 = -280 m."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Mathematics",
+    "chapter": "Chapter 1: Integers",
+    "question": "Evaluate: (-325) × (-45) + (-325) × (-55)",
+    "options": [
+      "+32,500 ((-325) × [(-45) + (-55)] = (-325) × (-100) = +32,500)",
+      "-32,500",
+      "+3,250",
+      "-3,250"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "Factoring out -325: (-325) × [(-45) + (-55)] = (-325) × (-100) = +32,500."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Mathematics",
+    "chapter": "Chapter 1: Integers",
+    "question": "In a 20-question math competition, +5 marks are awarded for each correct answer, -3 marks for each incorrect answer, and 0 for unattempted questions. Rohan attempted 18 questions and got 14 correct. Priya attempted all 20 questions and got 15 correct. Who scored higher and by how many marks?",
+    "options": [
+      "Rohan scored higher by 2 marks (Rohan: 14(5) + 4(-3) = 70 - 12 = 58 ; Priya: 15(5) + 5(-3) = 75 - 15 = 60 ... Wait: Priya = 60, Rohan = 58 ⇒ Priya is higher by 2 marks)",
+      "Priya scored higher by 2 marks (Priya: 15(5) + 5(-3) = 60 ; Rohan: 14(5) + 4(-3) = 58 ; Priya is higher by 2 marks)",
+      "Both scored exactly the same",
+      "Rohan is higher by 5 marks"
+    ],
+    "correctAnswer": 1,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "Rohan = 14×5 + 4×(-3) = 70 - 12 = 58. Priya = 15×5 + 5×(-3) = 75 - 15 = 60. Priya scored 60 vs 58 (+2 marks higher)."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Mathematics",
+    "chapter": "Chapter 1: Integers",
+    "question": "If the product of two integers is -180 and one of the integers is +12, find the sum of the two integers:",
+    "options": [
+      "-3 (Second integer = -180 / 12 = -15 ; Sum = 12 + (-15) = -3)",
+      "+3",
+      "-27",
+      "+27"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "Other integer = -180 ÷ 12 = -15. Sum = 12 + (-15) = -3."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Mathematics",
+    "chapter": "Chapter 1: Integers",
+    "question": "Why is the complete mastery of Integers and their sign algebraic laws fundamental to all future mathematics (algebra, coordinate geometry, calculus, and computing)?",
+    "options": [
+      "It establishes bidirectional numerical continuity across positive and negative domains, vector magnitudes, directed quantities, and rigorous symbolic operations",
+      "Because negative numbers only exist in bank debts",
+      "Because integers eliminate the need for multiplication",
+      "Because only positive numbers are used in science"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "Integers provide the foundational algebraic ring (ℤ, +, ×) modeling directed quantities, vectors, and sign arithmetic in higher mathematics."
+  },
+  {
+    "classLevel": 7,
+    "subject": "English",
+    "chapter": "Chapter 1: Three Questions & The Squirrel",
+    "question": "In Leo Tolstoy's famous story 'Three Questions', what were the three fundamental questions the King wanted answers to?",
+    "options": [
+      "1. What is the right time to begin something? 2. Which people should he listen to? 3. What is the most important thing for him to do?",
+      "1. How to defeat enemies? 2. How much gold to collect? 3. Where to build castles?",
+      "1. When to sleep? 2. What to eat? 3. How to ride horses?",
+      "1. Who is the richest king? 2. Where is the magic cave? 3. How to live forever?"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "Tolstoy's king sought wisdom on: right time to act, right people to heed, and most crucial enterprise to undertake."
+  },
+  {
+    "classLevel": 7,
+    "subject": "English",
+    "chapter": "Chapter 1: Three Questions & The Squirrel",
+    "question": "Whom did the King decide to visit in the deep forest to seek true wisdom after being dissatisfied with the wise men's conflicting answers?",
+    "options": [
+      "A simple, wise Hermit who lived alone in a hut in the woods and received only common folk",
+      "A powerful sorcerer with a crystal ball",
+      "An astrologer in the royal palace",
+      "A foreign emperor"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "The king disguised himself in simple peasant clothing and left his horse behind to consult the forest hermit."
+  },
+  {
+    "classLevel": 7,
+    "subject": "English",
+    "chapter": "Chapter 1: Three Questions & The Squirrel",
+    "question": "What was the frail, old Hermit doing when the King arrived at his forest hut?",
+    "options": [
+      "Digging ground beds in front of his hut with a spade",
+      "Sleeping under a tree",
+      "Reading a large book",
+      "Cooking soup"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "The hermit was laboriously digging flower/seed beds in front of his hut, breathing heavily from physical exertion."
+  },
+  {
+    "classLevel": 7,
+    "subject": "English",
+    "chapter": "Chapter 1: Three Questions & The Squirrel",
+    "question": "How did the King help the exhausted Hermit upon arrival?",
+    "options": [
+      "The King took the heavy spade from the hermit's hands and dug the ground beds for him until sunset",
+      "He gave the hermit a bag of gold",
+      "He ordered his soldiers to carry the hermit",
+      "He sat down and watched the hermit struggle"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "Seeing the hermit's frailty, the king took the spade and dug the ground tirelessly until evening."
+  },
+  {
+    "classLevel": 7,
+    "subject": "English",
+    "chapter": "Chapter 1: Three Questions & The Squirrel",
+    "question": "Who came running out of the dark woods towards the King and the Hermit with hands pressed against his bleeding stomach?",
+    "options": [
+      "A bearded man who was severely wounded by the King's royal bodyguards",
+      "A wild forest tiger",
+      "A messenger from the palace",
+      "A robber looking for gold"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "A bearded wounded man ran out of the forest, fainting and bleeding profusely from a severe abdominal wound."
+  },
+  {
+    "classLevel": 7,
+    "subject": "English",
+    "chapter": "Chapter 1: Three Questions & The Squirrel",
+    "question": "How did the King save the life of the bleeding bearded man?",
+    "options": [
+      "The King washed the wound repeatedly, bandaged it with his clean handkerchief and the hermit's towel until the bleeding stopped, and gave him fresh water to drink",
+      "He called a helicopter",
+      "He put the man in prison",
+      "He ran away into the forest"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "The king washed and repeatedly redressed the severe wound with his handkerchief, nursing the man back to life."
+  },
+  {
+    "classLevel": 7,
+    "subject": "English",
+    "chapter": "Chapter 1: Three Questions & The Squirrel",
+    "question": "Why had the bearded man originally hidden in the woods to ambush and kill the King?",
+    "options": [
+      "Because the King had earlier executed the man's brother and confiscated all his family property",
+      "Because he wanted to steal the King's crown",
+      "Because the King owed him money",
+      "Because he was a spy for another kingdom"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "The bearded man sought blood revenge because the king had put his brother to death and seized his estate."
+  },
+  {
+    "classLevel": 7,
+    "subject": "English",
+    "chapter": "Chapter 1: Three Questions & The Squirrel",
+    "question": "According to the wise Hermit, what is the SINGLE MOST IMPORTANT TIME in life?",
+    "options": [
+      "'NOW' (The Present Moment) — because it is the only time over which we possess any real power to act",
+      "Yesterday",
+      "Tomorrow",
+      "Next year"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "The hermit revealed: 'The most important time is NOW, because it is the only time we have any power'."
+  },
+  {
+    "classLevel": 7,
+    "subject": "English",
+    "chapter": "Chapter 1: Three Questions & The Squirrel",
+    "question": "According to the Hermit, who is the MOST IMPORTANT PERSON to a human being?",
+    "options": [
+      "The person you are with at any given present moment (as no one knows if you will ever have dealings with anyone else)",
+      "The King or Queen",
+      "The richest merchant",
+      "A distant celebrity"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "The most necessary person is the one with whom you are in the immediate present moment."
+  },
+  {
+    "classLevel": 7,
+    "subject": "English",
+    "chapter": "Chapter 1: Three Questions & The Squirrel",
+    "question": "According to the Hermit, what is the MOST IMPORTANT BUSINESS/AFFAIR in human life?",
+    "options": [
+      "To do good to the person you are with (for that divine purpose alone were humans sent into this world)",
+      "To amass gold and treasure",
+      "To conquer new lands",
+      "To become famous and feared"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "The ultimate human mission is to do good to others: 'for that purpose alone was man sent into this life'."
+  },
+  {
+    "classLevel": 7,
+    "subject": "English",
+    "chapter": "Chapter 1: Three Questions & The Squirrel",
+    "question": "In Mildred Bowers Armstrong's delightful poem 'The Squirrel', what did the playful squirrel wear for a tail?",
+    "options": [
+      "A Question Mark (?) for a tail",
+      "An exclamation mark",
+      "A straight sword",
+      "A bushy broom"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "Armstrong's opening line paints an iconic visual metaphor: 'He wore a question mark for tail'."
+  },
+  {
+    "classLevel": 7,
+    "subject": "English",
+    "chapter": "Chapter 1: Three Questions & The Squirrel",
+    "question": "In the poem 'The Squirrel', what color 'overcoat' did the squirrel wear, and what food did he sit straight up to eat?",
+    "options": [
+      "An overcoat of Gray ; sitting up straight to eat a Nut",
+      "An overcoat of Green ; eating an Apple",
+      "An overcoat of Black ; eating a Fish",
+      "An overcoat of Red ; eating Berries"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "Armstrong describes the squirrel's natural fur: 'An overcoat of gray / He sat up straight to eat a nut'."
+  },
+  {
+    "classLevel": 7,
+    "subject": "English",
+    "chapter": "Chapter 1: Three Questions & The Squirrel",
+    "question": "What dramatic moral transformation occurs between the King and his bitter enemy in 'Three Questions'?",
+    "options": [
+      "The wounded enemy asked for forgiveness, pledged eternal loyal service, and the King warmly forgave him, promised to restore his confiscated property, and sent his royal doctor to care for him (Enemy turned into devoted friend through compassion)",
+      "The King executed the enemy in the forest",
+      "The enemy escaped and attacked the palace",
+      "The hermit asked for money from both"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "Compassion and mercy transformed a bloodthirsty avenger into a lifelong loyal friend and ally."
+  },
+  {
+    "classLevel": 7,
+    "subject": "English",
+    "chapter": "Chapter 1: Three Questions & The Squirrel",
+    "question": "How did the Hermit prove to the King that his three questions had ALREADY been answered through living experience?",
+    "options": [
+      "If the King had not pitied the Hermit and dug the beds, he would have been killed by the ambush; and if he had not bandaged the wounded man, the man would have died without making peace",
+      "The Hermit gave him a written parchment",
+      "The Hermit cast a magic spell",
+      "The Hermit sent him to another kingdom"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "Tolstoy demonstrates that wisdom is experiential: lived compassionate action in the present moment provides its own truth."
+  },
+  {
+    "classLevel": 7,
+    "subject": "English",
+    "chapter": "Chapter 1: Three Questions & The Squirrel",
+    "question": "In the poem 'The Squirrel', what playful game does the squirrel play when children run around his tree?",
+    "options": [
+      "\"He liked to tease and play, / And if we ran around his tree, / He went the other way.\"",
+      "He throws nuts at the children",
+      "He jumps into their hands",
+      "He flies into the sky"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "Armstrong captures the skittish, playful evasive antics of squirrels: darting to the opposite side of tree trunks."
+  },
+  {
+    "classLevel": 7,
+    "subject": "English",
+    "chapter": "Chapter 1: Three Questions & The Squirrel",
+    "question": "What is the SYNONYM for the word 'Council' as used in 'Three Questions' ('a council of wise men')?",
+    "options": [
+      "A body of advisors / committee of experts",
+      "To give advice to someone",
+      "A battlefield",
+      "A royal palace"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "'Council' (noun) denotes an advisory assembly; distinct from 'counsel' (verb/noun for advice)."
+  },
+  {
+    "classLevel": 7,
+    "subject": "English",
+    "chapter": "Chapter 1: Three Questions & The Squirrel",
+    "question": "What is the meaning of the word 'Fainted' in: 'The bearded man reached the king and fainted.'?",
+    "options": [
+      "Lost consciousness temporarily due to weakness or loss of blood",
+      "Started shouting loudly",
+      "Turned into a ghost",
+      "Fell asleep happily"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "'Fainted' (syncope) signifies transient loss of consciousness caused by hypovolemia or trauma."
+  },
+  {
+    "classLevel": 7,
+    "subject": "English",
+    "chapter": "Chapter 1: Three Questions & The Squirrel",
+    "question": "Identify the part of speech of the underlined word in: 'He lived in a wood which he **never** quitted.'",
+    "options": [
+      "Adverb of Frequency (modifying the verb 'quitted')",
+      "Adjective",
+      "Preposition",
+      "Conjunction"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "'Never' is an Adverb of Frequency specifying the temporal negation of the verb 'quitted'."
+  },
+  {
+    "classLevel": 7,
+    "subject": "English",
+    "chapter": "Chapter 1: Three Questions & The Squirrel",
+    "question": "Combine the two sentences using a RELATIVE PRONOUN:\n'I saw a hermit. He was digging the ground.'",
+    "options": [
+      "'I saw a hermit who was digging the ground.'",
+      "'I saw a hermit which was digging the ground.'",
+      "'I saw a hermit whose was digging the ground.'",
+      "'I saw a hermit where was digging the ground.'"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "Relative pronoun 'who' refers to human personal antecedents ('hermit') in the subjective case."
+  },
+  {
+    "classLevel": 7,
+    "subject": "English",
+    "chapter": "Chapter 1: Three Questions & The Squirrel",
+    "question": "What is the ANTONYM of 'Forgive'?",
+    "options": [
+      "Punish / Blame / Condemn",
+      "Pardon",
+      "Absolve",
+      "Excuse"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "The opposite of 'forgive' (granting pardon) is 'punish' or 'condemn'."
+  },
+  {
+    "classLevel": 7,
+    "subject": "English",
+    "chapter": "Chapter 1: Three Questions & The Squirrel",
+    "question": "Choose the correct abstract noun formed from the adjective 'Wise':",
+    "options": [
+      "Wisdom",
+      "Wiseness",
+      "Wisely",
+      "Wisiful"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "The abstract noun derived from the root adjective 'wise' is 'wisdom'."
+  },
+  {
+    "classLevel": 7,
+    "subject": "English",
+    "chapter": "Chapter 1: Three Questions & The Squirrel",
+    "question": "Choose the correct abstract noun formed from the adjective 'Forgiving':",
+    "options": [
+      "Forgiveness",
+      "Forgivement",
+      "Forgively",
+      "Forgivation"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "The abstract noun form is 'forgiveness'."
+  },
+  {
+    "classLevel": 7,
+    "subject": "English",
+    "chapter": "Chapter 1: Three Questions & The Squirrel",
+    "question": "Fill in the blank with the correct Determiner:\n'The king promised to give _______ large sum of money to anyone who would answer his three questions.'",
+    "options": [
+      "a",
+      "an",
+      "the",
+      "many"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "'A' is the indefinite singular article preceding consonant phoneme /l/ in 'large'."
+  },
+  {
+    "classLevel": 7,
+    "subject": "English",
+    "chapter": "Chapter 1: Three Questions & The Squirrel",
+    "question": "What figure of speech is used in the poetic line: 'He wore a question mark for tail'?",
+    "options": [
+      "Metaphor (imaginatively describing the curved shape of the squirrel's tail as a punctuation question mark)",
+      "Simile",
+      "Personification",
+      "Hyperbole"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "Equating the tail directly to a question mark without 'like' or 'as' is an imaginative Metaphor."
+  },
+  {
+    "classLevel": 7,
+    "subject": "English",
+    "chapter": "Chapter 1: Three Questions & The Squirrel",
+    "question": "What does the phrasal verb 'To take pity on' mean in the sentence: 'The king took pity on the old hermit.'?",
+    "options": [
+      "To feel deep compassion and sympathy for someone's suffering",
+      "To laugh at someone",
+      "To give someone an exam",
+      "To ignore someone"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "'To take pity on' denotes feeling genuine compassionate concern prompting benevolent action."
+  },
+  {
+    "classLevel": 7,
+    "subject": "English",
+    "chapter": "Chapter 1: Three Questions & The Squirrel",
+    "question": "Convert into Indirect Speech:\nThe hermit said to the king, \"You have already been answered.\"",
+    "options": [
+      "The hermit told the king that he had already been answered.",
+      "The hermit said to the king that you are already answered.",
+      "The hermit asked the king if he was answered.",
+      "The hermit said the king that you had been answered."
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "Present Perfect ('have been answered') backshifts to Past Perfect ('had already been answered') with pronoun shift."
+  },
+  {
+    "classLevel": 7,
+    "subject": "English",
+    "chapter": "Chapter 1: Three Questions & The Squirrel",
+    "question": "What is the meaning of the word 'Beds' in the agricultural context of 'Three Questions' ('The king had dug two beds')?",
+    "options": [
+      "Small rectangular patches of dug soil prepared for planting seeds and flowers",
+      "Furniture with mattresses for sleeping",
+      "River floors",
+      "Wooden boxes"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "In gardening/horticulture, 'beds' are demarcated tilled soil plots cultivated for sowing."
+  },
+  {
+    "classLevel": 7,
+    "subject": "English",
+    "chapter": "Chapter 1: Three Questions & The Squirrel",
+    "question": "Choose the correct sentence with proper Subject-Verb Agreement:",
+    "options": [
+      "'Neither the king nor his ministers were able to find universal agreement.'",
+      "'Neither the king nor his ministers was able to find universal agreement.'",
+      "'The king with his ministers were digging.'",
+      "'Everyone of the wise men have different answers.'"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "In 'Neither... nor' constructions, the finite verb agrees with the proximate plural subject ('ministers were')."
+  },
+  {
+    "classLevel": 7,
+    "subject": "English",
+    "chapter": "Chapter 1: Three Questions & The Squirrel",
+    "question": "Read the statements:\nAssertion (A): Leo Tolstoy's 'Three Questions' presents a profound philosophy of existential mindfulness and altruistic duty.\nReason (R): It establishes that past regrets and future anxieties are powerless illusions; our true spiritual purpose is realized only through selfless compassionate service to whoever stands before us in the living present.\nChoose the correct option:",
+    "options": [
+      "Both (A) and (R) are true, and (R) is the correct explanation of (A).",
+      "Both (A) and (R) are true, but (R) is NOT the correct explanation of (A).",
+      "(A) is true, but (R) is false.",
+      "(A) is false, but (R) is true."
+    ],
+    "correctAnswer": 0,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "Tolstoy's parables distill Christian existentialism: the eternal 'Now' consecrated by active altruistic love."
+  },
+  {
+    "classLevel": 7,
+    "subject": "English",
+    "chapter": "Chapter 1: Three Questions & The Squirrel",
+    "question": "Spot the IMPOSTER in the following group of philosophical conclusions derived from 'Three Questions':\nGroup:\n1. The most important time is NOW.\n2. The most necessary person is the one you are with.\n3. The most important affair is to do good to others.\n4. The best strategy for a king is to execute all enemies before they attack.",
+    "options": [
+      "Conclusion 1",
+      "Conclusion 2",
+      "Conclusion 3",
+      "Conclusion 4"
+    ],
+    "correctAnswer": 3,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "Conclusion 4 is the exact antithesis of Tolstoy's moral theme, which advocates reconciling and transforming enemies through mercy."
+  },
+  {
+    "classLevel": 7,
+    "subject": "English",
+    "chapter": "Chapter 1: Three Questions & The Squirrel",
+    "question": "Analyze the subtle irony in the arrival of the bearded wounded man in 'Three Questions':\nWhat is the situational irony?",
+    "options": [
+      "The man who came with the intent to murder the King had his own life saved by that very King, converting mortal hatred into eternal loyalty",
+      "The King ran away from the wounded man",
+      "The Hermit turned out to be the man's brother",
+      "The King discovered the man was a ghost"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "Situational irony: the assassin's murderous ambush is foiled, and his life is saved by the intended victim."
+  },
+  {
+    "classLevel": 7,
+    "subject": "English",
+    "chapter": "Chapter 1: Three Questions & The Squirrel",
+    "question": "Match Column I (Literary Character / Element) with Column II (Symbolic Representation in 'Three Questions'):\n(a) The King     -> (i) The restless searcher for intellectual certainty\n(b) The Hermit   -> (ii) Grounded spiritual wisdom living in harmony with nature\n(c) The Spade    -> (iii) Humble, selfless labor in service of others\n(d) The Bandage  -> (iv) Healing compassion that dissolves historical enmity",
+    "options": [
+      "a-(i), b-(ii), c-(iii), d-(iv)",
+      "a-(ii), b-(i), c-(iv), d-(iii)",
+      "a-(iv), b-(iii), c-(ii), d-(i)",
+      "a-(iii), b-(iv), c-(i), d-(ii)"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "King = searcher; Hermit = wisdom; Spade = humble labor; Bandage = healing compassion."
+  },
+  {
+    "classLevel": 7,
+    "subject": "English",
+    "chapter": "Chapter 1: Three Questions & The Squirrel",
+    "question": "Read the statements regarding Mildred Bowers Armstrong's poem 'The Squirrel':\nStatement 1: The poem employs playful visual imagery ('question mark for tail', 'overcoat of gray') to capture the energetic charm of small wildlife.\nStatement 2: The squirrel's quick evasion ('He went the other way') reflects nature's delicate boundary between friendly playfulness and instinctual wildness.\nStatement 3: The poet captures the squirrel in a cage.\nWhich statements are TRUE?",
+    "options": [
+      "Statements 1 and 2 only",
+      "Statements 2 and 3 only",
+      "Statements 1 and 3 only",
+      "All Statements 1, 2, and 3"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "Statement 3 is false because the squirrel remains free in nature in the poem. Statements 1 and 2 are true."
+  },
+  {
+    "classLevel": 7,
+    "subject": "English",
+    "chapter": "Chapter 1: Three Questions & The Squirrel",
+    "question": "Identify the grammatical role of the underlined words in: 'The king was **greatly pleased** to have made peace with his enemy so easily.'",
+    "options": [
+      "'Greatly' is an Adverb of Degree modifying the participial adjective 'pleased'",
+      "'Greatly' is a Noun",
+      "'Pleased' is a Preposition",
+      "'Greatly' is a Conjunction"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "'Greatly' intensifies the participial adjective predicate 'pleased', functioning as an Adverb of Degree."
+  },
+  {
+    "classLevel": 7,
+    "subject": "English",
+    "chapter": "Chapter 1: Three Questions & The Squirrel",
+    "question": "Which of the following sentences correctly utilizes a CONDITIONAL CLAUSE (Type 3 / Unfulfilled Past Condition) matching the Hermit's dialogue?",
+    "options": [
+      "'If you had not pitied my weakness yesterday and had not dug these beds, you would have been attacked by that man.'",
+      "'If you do not dig beds, you will be attacked.'",
+      "'If you dig beds, you are attacked.'",
+      "'If you would dig beds, you had been attacked.'"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "Third conditional structure: If + past perfect (had not pitied/dug) ... would have + past participle (would have been attacked)."
+  },
+  {
+    "classLevel": 7,
+    "subject": "English",
+    "chapter": "Chapter 1: Three Questions & The Squirrel",
+    "question": "What is the tone and poetic meter of Mildred Bowers Armstrong's 'The Squirrel'?",
+    "options": [
+      "Playful, affectionate, and lighthearted with rhythmic rhyming couplets capturing lively kinetic movement",
+      "Somber, tragic, and mournful",
+      "Fierce, aggressive, and war-like",
+      "Scientific and analytical without emotion"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "Armstrong's tone is whimsical, playful, and delighted by nature's miniature vivacity."
+  },
+  {
+    "classLevel": 7,
+    "subject": "English",
+    "chapter": "Chapter 1: Three Questions & The Squirrel",
+    "question": "Select the sentence that contains a TRANSITIVE verb with both a DIRECT and an INDIRECT object:",
+    "options": [
+      "'The King gave the exhausted wounded man a cup of fresh water.' ('the wounded man' = indirect object ; 'a cup of fresh water' = direct object)",
+      "'The squirrel ran up the tall tree.'",
+      "'The hermit was digging in the garden.'",
+      "'The sun sank behind the trees.'"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "Ditransitive syntax: Verb (gave) + Indirect Object (the wounded man) + Direct Object (a cup of fresh water)."
+  },
+  {
+    "classLevel": 7,
+    "subject": "English",
+    "chapter": "Chapter 1: Three Questions & The Squirrel",
+    "question": "What is the meaning of the archaic/literary term 'Quitted' in 'He lived in a wood which he never quitted'?",
+    "options": [
+      "Departed from / left / abandoned",
+      "Destroyed with fire",
+      "Purchased with money",
+      "Painted with colors"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "Literary verb 'quit' (past: quitted/quit) signifies to depart from or leave a location."
+  },
+  {
+    "classLevel": 7,
+    "subject": "English",
+    "chapter": "Chapter 1: Three Questions & The Squirrel",
+    "question": "Transform the complex sentence into a SIMPLE sentence without changing its meaning:\n'When the King saw the hermit, he greeted him respectfully.'",
+    "options": [
+      "'On seeing the hermit, the King greeted him respectfully.'",
+      "'The King saw the hermit and he greeted him.'",
+      "'The King saw the hermit because he greeted him.'",
+      "'Although the King saw the hermit, he greeted him.'"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "Participial/prepositional phrase reduction: 'On seeing the hermit' transforms the adverbial time clause into a simple sentence."
+  },
+  {
+    "classLevel": 7,
+    "subject": "English",
+    "chapter": "Chapter 1: Three Questions & The Squirrel",
+    "question": "What enduring message does the opening chapter of NCERT Class 7 English impart to young learners?",
+    "options": [
+      "True wisdom is not found in abstract academic speculation, but in practical mindfulness, living fully in the present moment, practicing unconditional kindness, and finding joy in the gentle creatures of nature",
+      "That questions in life can never be answered",
+      "That rulers should never listen to common people",
+      "That wild animals should be captured for research"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "Chapter 1 harmonizes philosophical mindfulness (Tolstoy) with affectionate ecological wonder (Armstrong)."
+  },
+  {
+    "classLevel": 7,
+    "subject": "GK",
+    "chapter": "Chapter 1: Our India - Heritage, Symbols, Polity & Geography",
+    "question": "What is the National Emblem of the Republic of India adopted from on 26th January 1950?",
+    "options": [
+      "The Lion Capital of Ashoka at Sarnath (featuring four Asiatic lions standing back to back)",
+      "The Pillar of Allahabad",
+      "The Sanchi Stupa Gateway",
+      "The Sun Temple Wheel at Konark"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "India's State Emblem is adapted from the Mauryan Lion Capital of Ashoka at Sarnath (250 BCE)."
+  },
+  {
+    "classLevel": 7,
+    "subject": "GK",
+    "chapter": "Chapter 1: Our India - Heritage, Symbols, Polity & Geography",
+    "question": "What is the National Motto of India inscribed in Devanagari script at the base of the National Emblem below the Abacus?",
+    "options": [
+      "'Satyameva Jayate' (Truth Alone Triumphs - from the Mundaka Upanishad)",
+      "'Vande Mataram'",
+      "'Jai Hind'",
+      "'Jan Gan Man'"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "'Satyameva Jayate' is taken from the sacred Mundaka Upanishad, signifying that divine truth alone prevails."
+  },
+  {
+    "classLevel": 7,
+    "subject": "GK",
+    "chapter": "Chapter 1: Our India - Heritage, Symbols, Polity & Geography",
+    "question": "What is the official width-to-length ratio of the National Flag of India (Tiranga)?",
+    "options": [
+      "2 : 3 (Width to Length / Height to Length)",
+      "1 : 2",
+      "3 : 4",
+      "2 : 5"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "The Flag Code of India stipulates the dimensional ratio of the National Flag as 2 : 3 (height : length)."
+  },
+  {
+    "classLevel": 7,
+    "subject": "GK",
+    "chapter": "Chapter 1: Our India - Heritage, Symbols, Polity & Geography",
+    "question": "How many spokes are there in the navy blue Ashoka Chakra located at the center of the white band of the Indian National Flag?",
+    "options": [
+      "24 Spokes (representing the 24 hours of righteousness and continuous progress)",
+      "20 Spokes",
+      "28 Spokes",
+      "32 Spokes"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "The Ashoka Chakra has 24 spokes representing continuous dynamic moral progress and duty."
+  },
+  {
+    "classLevel": 7,
+    "subject": "GK",
+    "chapter": "Chapter 1: Our India - Heritage, Symbols, Polity & Geography",
+    "question": "Who composed India's National Anthem, 'Jana Gana Mana'?",
+    "options": [
+      "Gurudev Rabindranath Tagore",
+      "Bankim Chandra Chattopadhyay",
+      "Sarojini Naidu",
+      "Swami Vivekananda"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "Rabindranath Tagore composed 'Jana Gana Mana' in 1911; its playing time is approximately 52 seconds."
+  },
+  {
+    "classLevel": 7,
+    "subject": "GK",
+    "chapter": "Chapter 1: Our India - Heritage, Symbols, Polity & Geography",
+    "question": "Who composed India's National Song, 'Vande Mataram' (originally in his novel 'Anandamath')?",
+    "options": [
+      "Bankim Chandra Chattopadhyay (Chatterjee)",
+      "Rabindranath Tagore",
+      "Sri Aurobindo",
+      "Subhas Chandra Bose"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "Bankim Chandra Chattopadhyay wrote 'Vande Mataram' in Sanskritized Bengali, published in Anandamath (1882)."
+  },
+  {
+    "classLevel": 7,
+    "subject": "GK",
+    "chapter": "Chapter 1: Our India - Heritage, Symbols, Polity & Geography",
+    "question": "What is the National Aquatic Animal of India declared to protect endangered freshwater river biodiversity?",
+    "options": [
+      "Ganges River Dolphin (Platanista gangetica)",
+      "Gharial",
+      "Olive Ridley Sea Turtle",
+      "Mahseer Fish"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "The blind Ganges River Dolphin was declared India's National Aquatic Animal in 2009 as an indicator of river health."
+  },
+  {
+    "classLevel": 7,
+    "subject": "GK",
+    "chapter": "Chapter 1: Our India - Heritage, Symbols, Polity & Geography",
+    "question": "What is the National Heritage Animal of India?",
+    "options": [
+      "The Indian Elephant (Elephas maximus indicus)",
+      "Royal Bengal Tiger",
+      "Asiatic Lion",
+      "One-horned Rhinoceros"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "The Indian Elephant was declared National Heritage Animal in 2010 to promote elephant corridor conservation."
+  },
+  {
+    "classLevel": 7,
+    "subject": "GK",
+    "chapter": "Chapter 1: Our India - Heritage, Symbols, Polity & Geography",
+    "question": "How many States and Union Territories does the Republic of India currently comprise?",
+    "options": [
+      "28 States and 8 Union Territories",
+      "29 States and 7 Union Territories",
+      "28 States and 9 Union Territories",
+      "30 States and 6 Union Territories"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "As of 2026, the federal political map of India consists of exactly 28 States and 8 Union Territories."
+  },
+  {
+    "classLevel": 7,
+    "subject": "GK",
+    "chapter": "Chapter 1: Our India - Heritage, Symbols, Polity & Geography",
+    "question": "What is the highest mountain peak situated entirely within the sovereign territory of India?",
+    "options": [
+      "Kangchenjunga (8,586 m in Sikkim)",
+      "K2 (Mount Godwin-Austen)",
+      "Nanda Devi",
+      "Kamet"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "Kangchenjunga (8,586 m) in Sikkim is the 3rd highest peak in the world and highest in India."
+  },
+  {
+    "classLevel": 7,
+    "subject": "GK",
+    "chapter": "Chapter 1: Our India - Heritage, Symbols, Polity & Geography",
+    "question": "Which sacred river is the LONGEST river flowing entirely within India (2,525 km)?",
+    "options": [
+      "The Ganga",
+      "The Godavari",
+      "The Yamuna",
+      "The Narmada"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "The Ganga originates at Gangotri glacier (Bhagirathi) and flows 2,525 km to the Bay of Bengal."
+  },
+  {
+    "classLevel": 7,
+    "subject": "GK",
+    "chapter": "Chapter 1: Our India - Heritage, Symbols, Polity & Geography",
+    "question": "What is the southernmost point of the Republic of India's territory, located in the Great Nicobar Island?",
+    "options": [
+      "Indira Point (6°45' N latitude)",
+      "Kanyakumari (Cape Comorin)",
+      "Dhanushkodi",
+      "Port Blair"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "Indira Point on Great Nicobar is India's southernmost geographical point (Kanyakumari is southernmost on the mainland)."
+  },
+  {
+    "classLevel": 7,
+    "subject": "GK",
+    "chapter": "Chapter 1: Our India - Heritage, Symbols, Polity & Geography",
+    "question": "What are the four animals carved on the circular Abacus beneath the four lions on the Sarnath Lion Capital of India's National Emblem?",
+    "options": [
+      "An Elephant (East), a Galloping Horse (South), a Bull (West), and a Lion (North), separated by intervening Dharma Chakras",
+      "A Tiger, a Cow, a Deer, and a Peacock",
+      "A Rhino, a Camel, a Horse, and an Eagle",
+      "A Dog, a Cat, a Snake, and a Bear"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "The abacus features 4 cardinal animals: Elephant (Buddha's conception), Horse (renunciation), Bull (zodiac), Lion (shakya clan)."
+  },
+  {
+    "classLevel": 7,
+    "subject": "GK",
+    "chapter": "Chapter 1: Our India - Heritage, Symbols, Polity & Geography",
+    "question": "Who was the chief architect and Chairman of the Drafting Committee of the Constitution of India, celebrated as the 'Father of the Indian Constitution'?",
+    "options": [
+      "Dr. B.R. Ambedkar (Bhimrao Ramji Ambedkar)",
+      "Dr. Rajendra Prasad",
+      "Jawaharlal Nehru",
+      "Sardar Vallabhbhai Patel"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "Dr. B.R. Ambedkar steered the Drafting Committee, embedding fundamental rights and social justice into the Constitution."
+  },
+  {
+    "classLevel": 7,
+    "subject": "GK",
+    "chapter": "Chapter 1: Our India - Heritage, Symbols, Polity & Geography",
+    "question": "On which historic date did the Constitution of India formally come into effect, celebrated annually as 'Republic Day'?",
+    "options": [
+      "26th January 1950",
+      "15th August 1947",
+      "26th November 1949",
+      "2nd October 1950"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "Adopted on 26 Nov 1949 (Constitution Day), the Constitution came into legal effect on 26 January 1950 (Republic Day)."
+  },
+  {
+    "classLevel": 7,
+    "subject": "GK",
+    "chapter": "Chapter 1: Our India - Heritage, Symbols, Polity & Geography",
+    "question": "What is the Standard Meridian of India from which Indian Standard Time (IST = UTC+5:30) is calculated?",
+    "options": [
+      "82°30' E Longitude (passing through Mirzapur / Prayagraj in Uttar Pradesh)",
+      "80°00' E Longitude",
+      "75°30' E Longitude",
+      "90°00' E Longitude"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "82°30' E meridian passes through Mirzapur (UP), determining India's uniform Standard Time (+5:30 ahead of GMT)."
+  },
+  {
+    "classLevel": 7,
+    "subject": "GK",
+    "chapter": "Chapter 1: Our India - Heritage, Symbols, Polity & Geography",
+    "question": "What is the longest river in Peninsular South India, often called the 'Dakshin Ganga' (Ganga of the South)?",
+    "options": [
+      "The Godavari (1,465 km originating at Trimbakeshwar, Maharashtra)",
+      "The Krishna",
+      "The Kaveri",
+      "The Mahanadi"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "The Godavari is the largest peninsular river basin in India, draining 10% of India's total land area."
+  },
+  {
+    "classLevel": 7,
+    "subject": "GK",
+    "chapter": "Chapter 1: Our India - Heritage, Symbols, Polity & Geography",
+    "question": "Which ancient mountain range in western India (running through Gujarat, Rajasthan, Haryana, and Delhi) is the OLDEST fold mountain range in India and the world?",
+    "options": [
+      "The Aravalli Range",
+      "The Himalayas",
+      "The Western Ghats (Sahyadri)",
+      "The Vindhya Range"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "The Aravalli Range is a Precambrian relict fold mountain belt dating back over 2 billion years."
+  },
+  {
+    "classLevel": 7,
+    "subject": "GK",
+    "chapter": "Chapter 1: Our India - Heritage, Symbols, Polity & Geography",
+    "question": "What is the world's LARGEST river island, formed by the mighty Brahmaputra river in Assam?",
+    "options": [
+      "Majuli Island",
+      "Munroe Island",
+      "Diu Island",
+      "Havelock Island"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "Majuli on the Brahmaputra is recognized by Guinness World Records as the planet's largest inhabited riverine island."
+  },
+  {
+    "classLevel": 7,
+    "subject": "GK",
+    "chapter": "Chapter 1: Our India - Heritage, Symbols, Polity & Geography",
+    "question": "What is the world's LARGEST mangrove delta forest, shared between India (West Bengal) and Bangladesh, famous as the home of the Royal Bengal Tiger?",
+    "options": [
+      "The Sundarbans Delta (Ganga-Brahmaputra-Meghna Delta)",
+      "Pichavaram Mangroves",
+      "Bhitarkanika Mangroves",
+      "Muthupet Mangroves"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "The Sundarbans is a UNESCO World Heritage mangrove biome dominated by tidal Sundari trees (Heritiera fomes)."
+  },
+  {
+    "classLevel": 7,
+    "subject": "GK",
+    "chapter": "Chapter 1: Our India - Heritage, Symbols, Polity & Geography",
+    "question": "What is the LARGEST state in India by geographical land area, and which is the SMALLEST state?",
+    "options": [
+      "Largest: Rajasthan (3,42,239 sq km) ; Smallest: Goa (3,702 sq km)",
+      "Largest: Madhya Pradesh ; Smallest: Sikkim",
+      "Largest: Maharashtra ; Smallest: Tripura",
+      "Largest: Uttar Pradesh ; Smallest: Kerala"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "Rajasthan is India's largest state by area (~10.4% of country); Goa is the smallest state."
+  },
+  {
+    "classLevel": 7,
+    "subject": "GK",
+    "chapter": "Chapter 1: Our India - Heritage, Symbols, Polity & Geography",
+    "question": "Which Indian state has the LARGEST human population in the country (over 240 million citizens)?",
+    "options": [
+      "Uttar Pradesh",
+      "Maharashtra",
+      "Bihar",
+      "West Bengal"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "Uttar Pradesh is the most populous administrative state in India (and the most populous country subdivision globally)."
+  },
+  {
+    "classLevel": 7,
+    "subject": "GK",
+    "chapter": "Chapter 1: Our India - Heritage, Symbols, Polity & Geography",
+    "question": "What is the tallest monolithic stone statue in the world, standing 182 metres (597 feet) high on the Narmada river in Gujarat, dedicated to Sardar Vallabhbhai Patel?",
+    "options": [
+      "The Statue of Unity",
+      "Statue of Equality",
+      "Statue of Peace",
+      "Statue of Belief"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "The Statue of Unity (182 m) near Kevadia commemorates Iron Man of India Sardar Patel who integrated 562 princely states."
+  },
+  {
+    "classLevel": 7,
+    "subject": "GK",
+    "chapter": "Chapter 1: Our India - Heritage, Symbols, Polity & Geography",
+    "question": "How many recognized Indian Classical Dance forms are officially acknowledged by the Sangeet Natak Akademi?",
+    "options": [
+      "8 Classical Dances (Bharatanatyam, Kathak, Kathakali, Kuchipudi, Odissi, Manipuri, Mohiniyattam, and Sattriya)",
+      "4 Classical Dances",
+      "12 Classical Dances",
+      "6 Classical Dances"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "The 8 classical dance traditions rooted in Natya Shastra are preserved by Sangeet Natak Akademi."
+  },
+  {
+    "classLevel": 7,
+    "subject": "GK",
+    "chapter": "Chapter 1: Our India - Heritage, Symbols, Polity & Geography",
+    "question": "What is the official National Tree of India, renowned for its massive canopy and aerial prop roots symbolizing eternal longevity?",
+    "options": [
+      "Indian Banyan Tree (Ficus benghalensis)",
+      "Peepal Tree",
+      "Neem Tree",
+      "Mango Tree"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "The Indian Banyan (Kalpavriksha) is India's National Tree, symbolizing immortality and infinite shelter."
+  },
+  {
+    "classLevel": 7,
+    "subject": "GK",
+    "chapter": "Chapter 1: Our India - Heritage, Symbols, Polity & Geography",
+    "question": "What is the official National Fruit of India?",
+    "options": [
+      "Mango (Mangifera indica - 'King of Fruits')",
+      "Apple",
+      "Banana",
+      "Jackfruit"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "Mango is India's National Fruit, cultivated in the subcontinent for over 4,000 years."
+  },
+  {
+    "classLevel": 7,
+    "subject": "GK",
+    "chapter": "Chapter 1: Our India - Heritage, Symbols, Polity & Geography",
+    "question": "Which mountain pass in Ladakh connects Leh to the Nubra Valley and is recognized among the highest motorable road passes in the world?",
+    "options": [
+      "Khardung La Pass (5,359 m)",
+      "Rohtang Pass",
+      "Nathu La Pass",
+      "Zojila Pass"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "Khardung La in the Ladakh Range is a strategic mountain pass gateway to Shyok and Nubra valleys."
+  },
+  {
+    "classLevel": 7,
+    "subject": "GK",
+    "chapter": "Chapter 1: Our India - Heritage, Symbols, Polity & Geography",
+    "question": "What is the largest brackish water coastal lagoon in India (and 2nd largest in the world), designated as India's first Ramsar Wetland site in Odisha?",
+    "options": [
+      "Chilika Lake",
+      "Vembanad Lake",
+      "Pulicat Lake",
+      "Kolleru Lake"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "Chilika Lake in Odisha spans over 1,100 sq km, hosting millions of migratory Siberian waterfowl and Irrawaddy dolphins."
+  },
+  {
+    "classLevel": 7,
+    "subject": "GK",
+    "chapter": "Chapter 1: Our India - Heritage, Symbols, Polity & Geography",
+    "question": "Read the statements regarding the Indian Constitution's Preamble:\nAssertion (A): The Preamble serves as the guiding soul and philosophical compass of the Constitution of India.\nReason (R): It solemnly declares India to be a 'Sovereign, Socialist, Secular, Democratic Republic' and secures to all its citizens Justice, Liberty, Equality, and Fraternity.\nChoose the correct option:",
+    "options": [
+      "Both (A) and (R) are true, and (R) is the correct explanation of (A).",
+      "Both (A) and (R) are true, but (R) is NOT the correct explanation of (A).",
+      "(A) is true, but (R) is false.",
+      "(A) is false, but (R) is true."
+    ],
+    "correctAnswer": 0,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "The Preamble embodies the fundamental constitutional philosophy, values, and democratic aspirations of the republic."
+  },
+  {
+    "classLevel": 7,
+    "subject": "GK",
+    "chapter": "Chapter 1: Our India - Heritage, Symbols, Polity & Geography",
+    "question": "Spot the IMPOSTER in the following list of Indian Classical Dances matched with their states of origin:\nGroup:\n1. Bharatanatyam - Tamil Nadu\n2. Kathakali - Kerala\n3. Sattriya - Assam\n4. Kuchipudi - Punjab",
+    "options": [
+      "Bharatanatyam - Tamil Nadu",
+      "Kathakali - Kerala",
+      "Sattriya - Assam",
+      "Kuchipudi - Punjab"
+    ],
+    "correctAnswer": 3,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "Kuchipudi originated in the Krishna district of ANDHRA PRADESH (village of Kuchelapuram), NOT Punjab (Punjab's folk dance is Bhangra/Giddha)."
+  },
+  {
+    "classLevel": 7,
+    "subject": "GK",
+    "chapter": "Chapter 1: Our India - Heritage, Symbols, Polity & Geography",
+    "question": "How many languages are officially recognized as 'Classical Languages of India' by the Government of India (with ancient antiquity, original literary tradition, and high cultural prestige)?",
+    "options": [
+      "11 Classical Languages (Tamil, Sanskrit, Kannada, Telugu, Malayalam, Odia, Marathi, Pali, Prakrit, Assamese, and Bengali)",
+      "6 Classical Languages",
+      "4 Classical Languages",
+      "22 Classical Languages"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "The Government expanded the Classical Languages list in 2024 to include Marathi, Pali, Prakrit, Assamese, and Bengali alongside the foundational six."
+  },
+  {
+    "classLevel": 7,
+    "subject": "GK",
+    "chapter": "Chapter 1: Our India - Heritage, Symbols, Polity & Geography",
+    "question": "Match Column I (Geographical Features of India) with Column II (Exact Locations / Superlatives):\n(a) Wettest place on Earth (highest annual rainfall) -> (i) Mawsynram (Meghalaya)\n(b) Only active volcano in South Asia                 -> (ii) Barren Island (Andaman)\n(c) Largest freshwater lake in India                   -> (iii) Wular Lake (Jammu & Kashmir)\n(d) Cold Desert biosphere reserve                     -> (iv) Spiti / Ladakh",
+    "options": [
+      "a-(i), b-(ii), c-(iii), d-(iv)",
+      "a-(ii), b-(i), c-(iv), d-(iii)",
+      "a-(iv), b-(iii), c-(ii), d-(i)",
+      "a-(iii), b-(iv), c-(i), d-(ii)"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "Mawsynram = wettest (11,872 mm); Barren Island = volcano; Wular = largest freshwater lake; Spiti/Ladakh = cold desert."
+  },
+  {
+    "classLevel": 7,
+    "subject": "GK",
+    "chapter": "Chapter 1: Our India - Heritage, Symbols, Polity & Geography",
+    "question": "Read the statements regarding India's heritage:\nStatement 1: The 'Statue of Unity' is twice the height of the Statue of Liberty in New York.\nStatement 2: The Western Ghats (Sahyadri) are one of the world's 8 'Hottest Biodiversity Hotspots' and older than the Himalayas.\nStatement 3: The Tropic of Cancer (23°30' N) passes through all 28 states of India.\nWhich statements are TRUE?",
+    "options": [
+      "Statements 1 and 2 only",
+      "Statements 2 and 3 only",
+      "Statements 1 and 3 only",
+      "All Statements 1, 2, and 3"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "Statement 3 is false because the Tropic of Cancer passes through only 8 Indian states (Gujarat, Rajasthan, MP, Chhattisgarh, Jharkhand, WB, Tripura, Mizoram). Statements 1 and 2 are true."
+  },
+  {
+    "classLevel": 7,
+    "subject": "GK",
+    "chapter": "Chapter 1: Our India - Heritage, Symbols, Polity & Geography",
+    "question": "Which Indian national park in Assam is home to two-thirds of the world's remaining population of the endangered Great Indian One-horned Rhinoceros?",
+    "options": [
+      "Kaziranga National Park",
+      "Manas National Park",
+      "Jim Corbett National Park",
+      "Gir National Park"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "Kaziranga hosts over 2,600 one-horned rhinos along with high tiger density in its Brahmaputra floodplains."
+  },
+  {
+    "classLevel": 7,
+    "subject": "GK",
+    "chapter": "Chapter 1: Our India - Heritage, Symbols, Polity & Geography",
+    "question": "What is the only natural habitat in the world where the majestic ASIATIC LION (Panthera leo persica) survives in the wild?",
+    "options": [
+      "Gir National Park and Wildlife Sanctuary (Kathiawar Peninsula, Gujarat)",
+      "Ranthambore National Park",
+      "Sundarbans",
+      "Bandhavgarh National Park"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "Gir forest in Gujarat is the world's last refuge for wild Asiatic lions (~700 individuals)."
+  },
+  {
+    "classLevel": 7,
+    "subject": "GK",
+    "chapter": "Chapter 1: Our India - Heritage, Symbols, Polity & Geography",
+    "question": "Which unique festival celebrated at Haridwar, Prayagraj, Ujjain, and Nashik was inscribed on UNESCO's Intangible Cultural Heritage of Humanity list as the world's largest peaceful pilgrimage gathering?",
+    "options": [
+      "Kumbh Mela",
+      "Durga Puja",
+      "Pushkar Camel Fair",
+      "Chhath Puja"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "Kumbh Mela rotates every 12 years across 4 river sacred sites, gathering tens of millions of pilgrims."
+  },
+  {
+    "classLevel": 7,
+    "subject": "GK",
+    "chapter": "Chapter 1: Our India - Heritage, Symbols, Polity & Geography",
+    "question": "What is the strategic maritime strait separating the southeastern tip of India (Tamil Nadu) from Sri Lanka?",
+    "options": [
+      "Palk Strait (and Gulf of Mannar / Ram Setu)",
+      "Strait of Malacca",
+      "Ten Degree Channel",
+      "Duncan Passage"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "Palk Strait connects Palk Bay with the Bay of Bengal, separating peninsular India from Sri Lanka."
+  },
+  {
+    "classLevel": 7,
+    "subject": "GK",
+    "chapter": "Chapter 1: Our India - Heritage, Symbols, Polity & Geography",
+    "question": "What is the highest civilian award of the Republic of India, instituted on 2nd January 1954?",
+    "options": [
+      "Bharat Ratna",
+      "Padma Vibhushan",
+      "Param Vir Chakra",
+      "Padma Bhushan"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "Bharat Ratna (peepal leaf shaped medallion in platinum) is India's highest civilian honor for exceptional service."
+  },
+  {
+    "classLevel": 7,
+    "subject": "GK",
+    "chapter": "Chapter 1: Our India - Heritage, Symbols, Polity & Geography",
+    "question": "What is India's highest military decoration awarded for highest degree of valor in the presence of the enemy in wartime?",
+    "options": [
+      "Param Vir Chakra (PVC)",
+      "Maha Vir Chakra",
+      "Ashoka Chakra",
+      "Kirti Chakra"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "Param Vir Chakra is India's pre-eminent wartime military honor (first awarded to Major Somnath Sharma in 1947)."
+  },
+  {
+    "classLevel": 7,
+    "subject": "GK",
+    "chapter": "Chapter 1: Our India - Heritage, Symbols, Polity & Geography",
+    "question": "What profound civilizational reality makes India celebrated as the world's most vibrant 'Unity in Diversity'?",
+    "options": [
+      "The harmonious synthesis of thousands of dialects, ancient classical traditions, multiple world religions, diverse biogeographical landscapes, and vibrant regional cultures unified under a secular democratic constitutional framework",
+      "A nation where everyone speaks only one language",
+      "A country without any regional states",
+      "An isolated land with no external history"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "India's civilizational ethos harmonizes multi-ethnic, multi-lingual, and multi-faith diversity into an indivisible constitutional republic."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Social Science",
+    "chapter": "Chapter 1: Tracing Changes Through a Thousand Years",
+    "question": "A person who draws and creates geographical maps is professionally called a:",
+    "options": [
+      "Cartographer",
+      "Calligrapher",
+      "Scribe",
+      "Archaeologist"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "A cartographer is a specialist in the science and art of mapmaking and chart projection."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Social Science",
+    "chapter": "Chapter 1: Tracing Changes Through a Thousand Years",
+    "question": "How did the 12th-century Arab geographer Al-Idrisi (1154 CE) orient his famous map of the Indian subcontinent compared to modern maps?",
+    "options": [
+      "South India was shown at the TOP where North India is today, and Sri Lanka was shown as an island at the top",
+      "He showed India upside down with Himalayas at the bottom",
+      "He showed only oceans without land",
+      "His map was identical to Google Maps"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "Al-Idrisi's 1154 CE Arabic map oriented South at the top, showing Sri Lanka at the upper summit."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Social Science",
+    "chapter": "Chapter 1: Tracing Changes Through a Thousand Years",
+    "question": "In the 13th century, what geographical area did the Persian chronicler Minhaj-i Siraj mean when he used the term 'Hindustan'?",
+    "options": [
+      "The lands of Punjab, Haryana, and the fertile plains between the Ganga and Yamuna rivers ruled by the Delhi Sultan",
+      "The entire modern republic of India including south India",
+      "The continent of Asia",
+      "Only the island of Sri Lanka"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "Minhaj-i Siraj used 'Hindustan' in a political sense to denote the Gangetic and Doab domains of the Delhi Sultanate."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Social Science",
+    "chapter": "Chapter 1: Tracing Changes Through a Thousand Years",
+    "question": "In the early 16th century, how did the Mughal Emperor Babur use the term 'Hindustan' in his autobiography (Baburnama)?",
+    "options": [
+      "To describe the geography, the natural fauna, and the distinct cultural customs of the inhabitants of the subcontinent",
+      "As a political nation-state with a constitution",
+      "To describe only Afghanistan",
+      "To refer to the Roman Empire"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "Babur employed 'Hindustan' in a biogeographical and cultural sense to describe the subcontinent's fauna, flora, and customs."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Social Science",
+    "chapter": "Chapter 1: Tracing Changes Through a Thousand Years",
+    "question": "In the medieval period, what did the term 'Foreigner' (Pardesi in Hindi / Ajnabi in Persian) mean?",
+    "options": [
+      "Any stranger who appeared in a given village or town and was not a part of that local society or culture",
+      "Only a person from another foreign country",
+      "An English trader only",
+      "A king from Rome"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "In medieval times, a 'foreigner' (ajnabi/pardesi) was any outsider/stranger from another village, not necessarily from a foreign nation."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Social Science",
+    "chapter": "Chapter 1: Tracing Changes Through a Thousand Years",
+    "question": "Before the invention of printing presses in India, who copied historical manuscripts by hand?",
+    "options": [
+      "Scribes (professional handwritten copyists)",
+      "Cartographers",
+      "Samantas",
+      "Carpenters"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "Scribes laboriously transcribed handwritten manuscript codices before the introduction of mechanical printing."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Social Science",
+    "chapter": "Chapter 1: Tracing Changes Through a Thousand Years",
+    "question": "A place or building where official historical documents, records, and original manuscripts are preserved and stored is called an:",
+    "options": [
+      "Archive",
+      "Museum",
+      "Observatory",
+      "Armory"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "An archive is a specialized repository where state administrative records, charters, and historical manuscripts are curated."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Social Science",
+    "chapter": "Chapter 1: Tracing Changes Through a Thousand Years",
+    "question": "What new group of warrior Kshatriya clans rose to great political and military prominence between the 8th and 14th centuries, derived from the Sanskrit term 'Rajaputra' (son of a king)?",
+    "options": [
+      "Rajputs",
+      "Cholas",
+      "Guptas",
+      "Vaisyas"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "The term 'Rajput' (from Rajaputra) designated martial warrior clans claiming Kshatriya lineage across northern and western India."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Social Science",
+    "chapter": "Chapter 1: Tracing Changes Through a Thousand Years",
+    "question": "Which of the following new agricultural crops and beverages were introduced to the Indian subcontinent from the Americas and foreign trade during this thousand-year period?",
+    "options": [
+      "Potatoes, Corn (Maize), Chillies, Tea, and Coffee",
+      "Wheat, Rice, and Barley",
+      "Mustard and Cotton",
+      "Jowar and Bajra"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "The Columbian exchange and trade brought potatoes, maize, chillies, tomatoes, tobacco, tea, and coffee to India."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Social Science",
+    "chapter": "Chapter 1: Tracing Changes Through a Thousand Years",
+    "question": "What was a sub-caste or social ranking formed within the caste hierarchy based on occupation, family background, and social status called?",
+    "options": [
+      "Jati",
+      "Varna",
+      "Samanta",
+      "Ulama"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "Jatis were occupational sub-castes ranked fluidly according to their local wealth, power, and ritual status."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Social Science",
+    "chapter": "Chapter 1: Tracing Changes Through a Thousand Years",
+    "question": "Who framed the rules and regulations to manage the conduct of members within each Jati?",
+    "options": [
+      "The Jati Panchayat (an assembly of village elders belonging to that specific jati)",
+      "The Mughal Emperor",
+      "Foreign merchants",
+      "Roman senators"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "Jati Panchayats were self-regulating assemblies of caste elders enforcing community occupational and marital norms."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Social Science",
+    "chapter": "Chapter 1: Tracing Changes Through a Thousand Years",
+    "question": "What is the holy scripture of Islam that contains the divine revelations received by Prophet Muhammad?",
+    "options": [
+      "The Quran (Holy Quran)",
+      "The Zend Avesta",
+      "The Tripitaka",
+      "The Torah"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "The Holy Quran is the central sacred liturgical text of Islam revealed to Prophet Muhammad in Arabic."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Social Science",
+    "chapter": "Chapter 1: Tracing Changes Through a Thousand Years",
+    "question": "Why do historians face enormous challenges and discrepancies when reading ancient handwritten manuscripts copied by scribes?",
+    "options": [
+      "As scribes copied by hand, they frequently made unintentional copying errors, added small modifications, or substituted words, which compounded over centuries until different manuscript copies differed significantly from the author's original text",
+      "Because all scribes wrote in secret codes to trick historians",
+      "Because paper was made of metal and faded",
+      "Because manuscripts were burned by kings"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "Manual transcription errors accumulated exponentially over generations of copyists, resulting in divergent recensions."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Social Science",
+    "chapter": "Chapter 1: Tracing Changes Through a Thousand Years",
+    "question": "Who was the 14th-century chronicler Ziauddin Barani, and why did modern historians discover his first chronicle version only in the 1960s?",
+    "options": [
+      "Barani wrote his first chronicle in 1356 and a revised second version in 1358; the first version remained lost in vast library archives undiscovered until 1960",
+      "Because Barani hid his book inside a cave",
+      "Because his book was written in hieroglyphics",
+      "Because Barani was a fictional character"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "Ziauddin Barani's 1356 CE recension of Tarikh-i Firuz Shahi was rediscovered in manuscript collections in the 1960s."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Social Science",
+    "chapter": "Chapter 1: Tracing Changes Through a Thousand Years",
+    "question": "What major technological innovations appeared in the Indian subcontinent between 700 and 1750 CE?",
+    "options": [
+      "The Persian Wheel in irrigation, the Spinning Wheel (Charkha) in weaving, and Firearms (cannons & gunpowder) in combat warfare",
+      "Steam locomotives and telegraphs",
+      "Computers and electricity",
+      "Airplanes and submarines"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "The medieval era witnessed crucial mechanical adoptions: saqia/Persian wheel, spinning wheel, and pyrotechnic firearms."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Social Science",
+    "chapter": "Chapter 1: Tracing Changes Through a Thousand Years",
+    "question": "Why were many forest dwellers forced to migrate or become peasant farmers during the medieval thousand years?",
+    "options": [
+      "Extensive clearing of natural forests to expand agricultural arable land fundamentally changed forest habitats, pushing forest dwellers into agrarian village society",
+      "Because wild animals drove them out",
+      "Because forests turned into deserts overnight",
+      "Because kings banned living near trees"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "Agricultural expansion and deforestation transformed tribal forest habitats, integrating tribals into peasant jati hierarchies."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Social Science",
+    "chapter": "Chapter 1: Tracing Changes Through a Thousand Years",
+    "question": "What is a 'Pan-Regional Empire' in medieval Indian history?",
+    "options": [
+      "An expansive empire spanning diverse geographic, linguistic, and cultural regions (such as the Cholas, Khaljis, Tughluqs, and Mughals)",
+      "A small city-state ruling one town",
+      "A maritime empire in Europe",
+      "An empire ruled by a single village council"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "Pan-regional polities integrated multiple diverse geographical sub-regions under an overarching imperial state apparatus."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Social Science",
+    "chapter": "Chapter 1: Tracing Changes Through a Thousand Years",
+    "question": "Who were the 'Ulama' in medieval Islamic society?",
+    "options": [
+      "Learned Muslim scholars, jurists, and theologians expert in Islamic sacred law (Sharia) and religious jurisprudence",
+      "Foreign horse merchants",
+      "Architects who built forts",
+      "Musicians in royal courts"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "The Ulama were authoritative theologians and jurists responsible for interpreting Islamic theology and Sharia law."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Social Science",
+    "chapter": "Chapter 1: Tracing Changes Through a Thousand Years",
+    "question": "What was the fundamental theological difference between the SHIA and SUNNI traditions within Islam?",
+    "options": [
+      "Shia Muslims believed that Prophet Muhammad's son-in-law Ali was the legitimate leader (Imam) of the Muslim community ; Sunni Muslims accepted the authority of the early Caliphs (Khalifas)",
+      "Shias worshipped fire while Sunnis worshipped water",
+      "Sunnis did not believe in the Quran",
+      "Shias did not pray at all"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "Schism: Sunnis recognized the historical succession of the Rashidun Caliphate; Shias recognized the hereditary leadership of Ali and Imams."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Social Science",
+    "chapter": "Chapter 1: Tracing Changes Through a Thousand Years",
+    "question": "What were the two prominent schools of Islamic legal jurisprudence (Fiqh) influential in medieval India?",
+    "options": [
+      "Hanafi and Shafi'i schools",
+      "Maliki and Hanbali only",
+      "Greek and Roman schools",
+      "Vedic and Buddhist schools"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "The Hanafi and Shafi'i madhhabs (schools of Islamic jurisprudence) were the primary legal traditions in the subcontinent."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Social Science",
+    "chapter": "Chapter 1: Tracing Changes Through a Thousand Years",
+    "question": "Why was the 19th-century British historian James Mill's tripartite division of Indian history into 'Hindu', 'Muslim', and 'British' periods fundamentally flawed?",
+    "options": [
+      "It characterized entire historical epochs solely by the personal religion of rulers, ignoring immense socio-economic diversity, scientific advances, and the diverse beliefs of ordinary people",
+      "Because Mill was an Indian prince",
+      "Because there were no religions in India",
+      "Because British rule lasted 2,000 years"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "Mill's communal periodization reduced complex multifaceted socio-economic and cultural histories to simplistic sectarian labels."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Social Science",
+    "chapter": "Chapter 1: Tracing Changes Through a Thousand Years",
+    "question": "How do modern historians divide Indian history to reflect broader socio-economic, cultural, and technological transitions?",
+    "options": [
+      "Ancient Period, Medieval Period, and Modern Period",
+      "Stone Age and Digital Age only",
+      "Kings Age and Queens Age",
+      "War Age and Peace Age"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "Historiographical periodization utilizes Ancient, Medieval (c. 700–1750 CE), and Modern frameworks reflecting structural socio-economic shifts."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Social Science",
+    "chapter": "Chapter 1: Tracing Changes Through a Thousand Years",
+    "question": "What major transformation occurred in Hinduism during the medieval thousand years?",
+    "options": [
+      "The worship of new deities, the construction of massive royal stone temples, the growing social prestige and land grants (Brahmadeya) to Brahmanas, and the emergence of the Bhakti Movement",
+      "The complete disappearance of all temples",
+      "The ban on reading Sanskrit texts",
+      "The replacement of all gods by Roman deities"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "Medieval Hinduism saw temple-centered devotion, royal Brahmanical patronage, and popular personal Bhakti traditions without rigid rituals."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Social Science",
+    "chapter": "Chapter 1: Tracing Changes Through a Thousand Years",
+    "question": "What was the central liberating appeal of the 'Bhakti Movement' to ordinary common people during the medieval era?",
+    "options": [
+      "The idea of an intimate, personal, loving God whom devotees could reach directly with pure love without the mandatory mediation of wealthy priests or elaborate, costly sacrifices",
+      "Devotees had to give all their gold to kings",
+      "Devotees were forced to learn Greek",
+      "Bhakti banned music and poetry"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "Bhakti democratized spirituality: direct, unmediated personal love (prema/bhakti) open to all genders and castes."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Social Science",
+    "chapter": "Chapter 1: Tracing Changes Through a Thousand Years",
+    "question": "What was the French cartographer Guillaume de L'Isle's atlas map of India (1720s) famous for?",
+    "options": [
+      "Remarkable scientific accuracy, modern orientation, and highly detailed coastal navigation geography used extensively by European maritime merchants",
+      "It showed South India at the top",
+      "It omitted all Indian rivers",
+      "It had no place names"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "The 18th-century French atlas reflected advanced maritime surveying, exhibiting coastlines familiar to modern cartography."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Social Science",
+    "chapter": "Chapter 1: Tracing Changes Through a Thousand Years",
+    "question": "Who were the 'Kayasthas' that gained prominent social and administrative status during this period?",
+    "options": [
+      "A specialized caste of scribes, record-keepers, secretaries, and administrative accountants",
+      "Warrior cavalry officers",
+      "Temple stone carvers",
+      "Sea sailors"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "Kayasthas emerged as an influential literate occupational community managing state archives, revenue ledgers, and scribal administration."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Social Science",
+    "chapter": "Chapter 1: Tracing Changes Through a Thousand Years",
+    "question": "Why did the price of Paper fall and its availability increase dramatically during the 13th and 14th centuries in India?",
+    "options": [
+      "Introduction of pulping watermills and spread of papermaking technology from China and the Islamic world led to widespread copying of religious, legal, and judicial texts",
+      "Because trees were made of paper",
+      "Because kings banned writing on palm leaves",
+      "Because books were imported from America"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "Papermaking technology diffusion dramatically expanded codex production, record-keeping, and legal archiving."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Social Science",
+    "chapter": "Chapter 1: Tracing Changes Through a Thousand Years",
+    "question": "What were the two major styles of Persian and Arabic handwriting used by scribes in medieval India?",
+    "options": [
+      "Nastaliq (flowing, cursive, easy to read) and Shikaste (dense, cramped, rapid, and difficult to decipher)",
+      "Devanagari and Brahmi",
+      "Gothic and Latin",
+      "Cuneiform and Hieroglyphic"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "Nastaliq was fluid and legible for literary codices; Shikaste was dense and rapid for state administrative correspondence."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Social Science",
+    "chapter": "Chapter 1: Tracing Changes Through a Thousand Years",
+    "question": "Read the statements:\nAssertion (A): Historical terms, political labels, and language vocabularies do not remain static but undergo profound semantic mutations across historical centuries.\nReason (R): The term 'Hindustan' transformed from denoting the 13th-century Sultanate territory between Ganga-Yamuna to Babur's 16th-century biogeographical description, and finally into the 20th-century sovereign nation-state of India.\nChoose the correct option:",
+    "options": [
+      "Both (A) and (R) are true, and (R) is the correct explanation of (A).",
+      "Both (A) and (R) are true, but (R) is NOT the correct explanation of (A).",
+      "(A) is true, but (R) is false.",
+      "(A) is false, but (R) is true."
+    ],
+    "correctAnswer": 0,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "Historical semantics demonstrate that geopolitical terminologies shift dynamically alongside changing state formations and cultural frameworks."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Social Science",
+    "chapter": "Chapter 1: Tracing Changes Through a Thousand Years",
+    "question": "Spot the IMPOSTER in the following group of historical sources matched with their methodological limitations:\nGroup:\n1. Coins - Provide chronology and titles of monarchs\n2. Inscriptions - Offer land grant records and genealogical Prashastis\n3. Handwritten Manuscripts - Perfectly preserved exact author duplicates with zero textual errors\n4. Travelogues - Provide socio-cultural impressions from foreign travelers",
+    "options": [
+      "Statement 1",
+      "Statement 2",
+      "Statement 3 (Handwritten manuscripts contain cumulative scribal errors)",
+      "Statement 4"
+    ],
+    "correctAnswer": 2,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "Statement 3 is an imposter: handwritten manuscripts were prone to cumulative transcriptional distortions and variants across scribal generations."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Social Science",
+    "chapter": "Chapter 1: Tracing Changes Through a Thousand Years",
+    "question": "Analyze the multi-layered social hierarchy of Jatis in medieval villages:\nHow was power, status, and judicial order negotiated between Jatis, Jati Panchayats, and the Village Grama?",
+    "options": [
+      "Each Jati had its own elders' council (Jati Panchayat) to enforce internal customs, but every village was simultaneously governed by a Chieftain/Gramani, subject to overarching state revenue laws",
+      "Jatis were completely independent and fought wars every day",
+      "Only the King could make laws for individual jatis",
+      "There were no laws or village councils in medieval times"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "Medieval village governance balanced endogenous Jati autonomy with overarching territorial village council and royal state authority."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Social Science",
+    "chapter": "Chapter 1: Tracing Changes Through a Thousand Years",
+    "question": "Match Column I (Historical Cartographers / Authors) with Column II (Work / Perspective):\n(a) Al-Idrisi (1154 CE)           -> (i) Arabic map with South India at the top\n(b) French Cartographer (1720s)   -> (ii) Scientifically detailed coastal maritime atlas\n(c) Minhaj-i Siraj (13th Century) -> (iii) Sultanate political definition of Hindustan\n(d) Ziauddin Barani (1356/1358)   -> (iv) Two distinct manuscript versions of Tarikh-i Firuz Shahi",
+    "options": [
+      "a-(i), b-(ii), c-(iii), d-(iv)",
+      "a-(ii), b-(i), c-(iv), d-(iii)",
+      "a-(iv), b-(iii), c-(ii), d-(i)",
+      "a-(iii), b-(iv), c-(i), d-(ii)"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "Al-Idrisi = inverted map; French atlas = maritime surveying; Minhaj = political Hindustan; Barani = dual recensions."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Social Science",
+    "chapter": "Chapter 1: Tracing Changes Through a Thousand Years",
+    "question": "Read the statements regarding religious developments in medieval India:\nStatement 1: Islam was introduced to the Indian subcontinent by Arab merchants and traders arriving along the coastal ports long before military conquests.\nStatement 2: The Bhakti and Sufi movements shared a common core emphasizing compassionate personal devotion over rigid ritualism and social orthodoxy.\nStatement 3: Scribes used mechanical laser printing presses in 1200 CE in Delhi.\nWhich statements are TRUE?",
+    "options": [
+      "Statements 1 and 2 only",
+      "Statements 2 and 3 only",
+      "Statements 1 and 3 only",
+      "All Statements 1, 2, and 3"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "Statement 3 is an anachronistic absurdity (printing presses were not present in 1200 CE). Statements 1 and 2 are historical realities."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Social Science",
+    "chapter": "Chapter 1: Tracing Changes Through a Thousand Years",
+    "question": "Why do modern historians consider the period between 700 and 1750 CE as a time of 'Great Mobility and Dynamic Flux'?",
+    "options": [
+      "Groups of people traveled vast distances in search of economic opportunity, pastoralists settled as peasants, forest dwellers integrated into jatis, and new warrior confederacies reshaped frontiers",
+      "Because people lived in airplanes",
+      "Because all cities were completely destroyed",
+      "Because money was abolished"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "The era witnessed high geographic/social mobility: agrarian colonization, pastoral sedentarization, and dynamic political reconfiguration."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Social Science",
+    "chapter": "Chapter 1: Tracing Changes Through a Thousand Years",
+    "question": "How did Brahmanas achieve unrivaled social prestige and dominant ideological authority in early medieval society?",
+    "options": [
+      "Their mastery of sacred Sanskrit texts earned them profound veneration, while royal rulers granted them vast tax-free estates (Brahmadeya/Agraharas) and state patronage",
+      "They possessed the largest armies of cavalry",
+      "They were the only merchants in the kingdom",
+      "They lived outside the subcontinent"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "Epistemic monopoly over Sanskrit liturgy combined with royal land grants (Brahmadeya) consolidated Brahmanical socio-ritual dominance."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Social Science",
+    "chapter": "Chapter 1: Tracing Changes Through a Thousand Years",
+    "question": "Consider four medieval occupational groups:\n1. Rajputs (Martial chivalry and Kshatriya governance)\n2. Jats (Agrarian peasant power)\n3. Marathas (Deccan military and statecraft)\n4. Kayasthas (Scribal documentation and revenue administration)\nWhat common historical trajectory did these four communities share between 700 and 1750 CE?",
+    "options": [
+      "They utilized emerging socio-political opportunities to claim elevated social status, political autonomy, and state-building power",
+      "They all gave up their occupations to become monks",
+      "They were all foreign invaders from Europe",
+      "They completely disappeared from Indian history"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "These communities leveraged military prowess, agrarian expansion, and bureaucratic literacy to attain upward mobility and sovereignty."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Social Science",
+    "chapter": "Chapter 1: Tracing Changes Through a Thousand Years",
+    "question": "What is the critical distinction between 'Continuity' and 'Change' in historical analysis as emphasized in Chapter 1?",
+    "options": [
+      "History is not a series of abrupt isolated events, but a continuous dialectical process where cultural traditions persist alongside profound technological, economic, and political shifts",
+      "History only records sudden catastrophic changes",
+      "Nothing ever changes in human civilization",
+      "Only kings determine the path of history"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "Historical methodology balances identifying enduring structural continuities against dynamic socio-cultural transformations."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Social Science",
+    "chapter": "Chapter 1: Tracing Changes Through a Thousand Years",
+    "question": "Why is the term 'Medieval' problematic when applied uniformly across global civilizations without regional nuance?",
+    "options": [
+      "In Europe, 'Medieval' was long stereotyped as a dark age lacking intellectual progress before the Renaissance; in India, the same period was an era of extraordinary technological, artistic, and economic vitality",
+      "Because medieval means modern",
+      "Because India had no history during this time",
+      "Because Europe was ahead in every science"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "Eurocentric 'Dark Age' medieval tropes contrast starkly with India's vibrant urbanization, agrarian growth, and cultural synthesis (700–1750 CE)."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Social Science",
+    "chapter": "Chapter 1: Tracing Changes Through a Thousand Years",
+    "question": "What primary archival material provides the most reliable primary chronological records of medieval Persianate court administration?",
+    "options": [
+      "Tarikh / Tawarikh (Persian historical chronicles written by literate court officials, secretaries, and poets)",
+      "Oral folk gossip",
+      "Roman coin hoards only",
+      "Cave rock paintings"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "Tawarikh chronicles (e.g. Tarikh-i Firuz Shahi) authored by court literati provide primary narrative accounts of governance and military campaigns."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Social Science",
+    "chapter": "Chapter 1: Tracing Changes Through a Thousand Years",
+    "question": "What foundational intellectual mindset does Chapter 1 of NCERT Class 7 History instill in young scholars?",
+    "options": [
+      "Critical historical inquiry: examining primary sources with contextual skepticism, tracing semantic shifts in language, and appreciating the deep multicultural roots of modern Indian society",
+      "Unquestioning memorization of dates and king names",
+      "Viewing the past through narrow sectarian biases",
+      "Believing that ancient maps were always wrong"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "The chapter equips students with historiographical toolkits: contextual source criticism, semantic evolution, and composite cultural synthesis."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Hindi Grammar",
+    "chapter": "Chapter 1: भाषा, लिपि और व्याकरण",
+    "question": "मनुष्य अपने मन के भावों और विचारों का परस्पर आदान-प्रदान (बोलकर या लिखकर) जिस माध्यम से करता है, उसे व्याकरण में क्या कहते हैं?",
+    "options": [
+      "भाषा (Language)",
+      "लिपि",
+      "व्याकरण",
+      "बोली"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "मनुष्य के वैचारिक विनिमय और भाव-संप्रेषण के सार्थक साधन को 'भाषा' कहते हैं।"
+  },
+  {
+    "classLevel": 7,
+    "subject": "Hindi Grammar",
+    "chapter": "Chapter 1: भाषा, लिपि और व्याकरण",
+    "question": "भाषा के मुख्य रूप से कितने रूप होते हैं?",
+    "options": [
+      "दो रूप (1. मौखिक भाषा - Spoken, 2. लिखित भाषा - Written)",
+      "चार रूप",
+      "तीन रूप",
+      "पाँच रूप"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "भाषा के दो मूल रूप हैं: मौखिक (ध्वन्यात्मक उच्चारण) तथा लिखित (लिपिबद्ध आलेखन)। सांकेतिक रूप को व्याकरण में गौण माना जाता है।"
+  },
+  {
+    "classLevel": 7,
+    "subject": "Hindi Grammar",
+    "chapter": "Chapter 1: भाषा, लिपि और व्याकरण",
+    "question": "मुख से बोलकर अपने विचारों को प्रकट करना तथा कानों से सुनकर समझना भाषा का कौन-सा रूप कहलाता है?",
+    "options": [
+      "मौखिक भाषा (Oral / Spoken Language)",
+      "लिखित भाषा",
+      "सांकेतिक भाषा",
+      "मातृभाषा"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "परस्पर बोलकर और सुनकर विचार व्यक्त करने का माध्यम 'मौखिक भाषा' कहलाता है।"
+  },
+  {
+    "classLevel": 7,
+    "subject": "Hindi Grammar",
+    "chapter": "Chapter 1: भाषा, लिपि और व्याकरण",
+    "question": "ध्वनियों को लिखकर प्रकट करने के लिए निश्चित किए गए विशेष चिह्न-संकेतों (Writing System) को क्या कहते हैं?",
+    "options": [
+      "लिपि (Script)",
+      "व्याकरण",
+      "बोली",
+      "वर्णमाला"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "मौखिक ध्वनियों को लिखित रूप देने हेतु निर्धारित प्रतीकों/चिह्नों की व्यवस्था 'लिपि' कहलाती है।"
+  },
+  {
+    "classLevel": 7,
+    "subject": "Hindi Grammar",
+    "chapter": "Chapter 1: भाषा, लिपि और व्याकरण",
+    "question": "हिंदी और संस्कृत भाषाएँ किस लिपि में लिखी जाती हैं?",
+    "options": [
+      "देवनागरी लिपि (Devanagari Script)",
+      "रोमन लिपि",
+      "गुरुमुखी लिपि",
+      "फ़ारसी लिपि"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "हिंदी, संस्कृत, मराठी और नेपाली भाषाएँ बाएँ से दाएँ लिखी जाने वाली 'देवनागरी लिपि' में आलेखित होती हैं।"
+  },
+  {
+    "classLevel": 7,
+    "subject": "Hindi Grammar",
+    "chapter": "Chapter 1: भाषा, लिपि और व्याकरण",
+    "question": "अंग्रेज़ी भाषा किस लिपि में लिखी जाती है?",
+    "options": [
+      "रोमन लिपि (Roman Script)",
+      "देवनागरी लिपि",
+      "फ़ारसी लिपि",
+      "ब्राह्मी लिपि"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "अंग्रेज़ी, फ़्रेंच, जर्मन और स्पैनिश भाषाएँ 'रोमन लिपि' (लैटिन वर्णमाला) में लिखी जाती हैं।"
+  },
+  {
+    "classLevel": 7,
+    "subject": "Hindi Grammar",
+    "chapter": "Chapter 1: भाषा, लिपि और व्याकरण",
+    "question": "पंजाबी भाषा की पारंपरिक लिपि कौन-सी है?",
+    "options": [
+      "गुरुमुखी लिपि (Gurmukhi Script)",
+      "देवनागरी",
+      "रोमन",
+      "फ़ारसी"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "पंजाबी भाषा 'गुरुमुखी लिपि' (सिख गुरु अंगद देव द्वारा मानकीकृत) में लिखी जाती है।"
+  },
+  {
+    "classLevel": 7,
+    "subject": "Hindi Grammar",
+    "chapter": "Chapter 1: भाषा, लिपि और व्याकरण",
+    "question": "उर्दू भाषा किस लिपि में (दाएँ से बाएँ) लिखी जाती है?",
+    "options": [
+      "फ़ारसी लिपि (Persian / Nasta'liq Script)",
+      "देवनागरी",
+      "रोमन",
+      "गुरुमुखी"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "उर्दू भाषा दाएँ से बाएँ की दिशा में 'फ़ारसी (नस्तलीक़) लिपि' में लिखी जाती है।"
+  },
+  {
+    "classLevel": 7,
+    "subject": "Hindi Grammar",
+    "chapter": "Chapter 1: भाषा, लिपि और व्याकरण",
+    "question": "किसी सीमित क्षेत्रीय भू-भाग में बोली जाने वाली भाषा के स्थानीय, अनौपचारिक रूप को क्या कहते हैं?",
+    "options": [
+      "बोली (Dialect)",
+      "राष्ट्रभाषा",
+      "राजभाषा",
+      "मानक भाषा"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "सीमित क्षेत्र में प्रयुक्त बोलचाल का मौखिक रूप 'बोली' (जैसे: अवधी, ब्रज, हरियाणवी, भोजपुरी) कहलाता है।"
+  },
+  {
+    "classLevel": 7,
+    "subject": "Hindi Grammar",
+    "chapter": "Chapter 1: भाषा, लिपि और व्याकरण",
+    "question": "वह शास्त्र जो किसी भाषा के शुद्ध उच्चारण, शुद्ध लेखन और शुद्ध प्रयोग के नियमों का सम्यक ज्ञान कराता है, उसे क्या कहते हैं?",
+    "options": [
+      "व्याकरण (Grammar)",
+      "साहित्य",
+      "लिपि",
+      "अलंकार"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "भाषा को मानकीकृत, अनुशासित और शुद्ध रूप प्रदान करने वाला नियामक शास्त्र 'व्याकरण' कहलाता है।"
+  },
+  {
+    "classLevel": 7,
+    "subject": "Hindi Grammar",
+    "chapter": "Chapter 1: भाषा, लिपि और व्याकरण",
+    "question": "भारतीय संविधान की किस धारा / अनुच्छेद (Article) के अंतर्गत हिंदी को भारत संघ की 'राजभाषा' (Official Language) घोषित किया गया है?",
+    "options": [
+      "अनुच्छेद 343 (Article 343 - 14 सितंबर 1949)",
+      "अनुच्छेद 370",
+      "अनुच्छेद 21",
+      "अनुच्छेद 356"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "संविधान के अनुच्छेद 343(1) के अनुसार संघ की राजभाषा हिंदी और लिपि देवनागरी है।"
+  },
+  {
+    "classLevel": 7,
+    "subject": "Hindi Grammar",
+    "chapter": "Chapter 1: भाषा, लिपि और व्याकरण",
+    "question": "प्रत्येक वर्ष संपूर्ण भारत में 'हिंदी दिवस' (Hindi Diwas) किस तिथि को राष्ट्रीय स्तर पर मनाया जाता है?",
+    "options": [
+      "14 सितंबर (14th September)",
+      "15 अगस्त",
+      "26 जनवरी",
+      "2 अक्टूबर"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "14 सितंबर 1949 को संविधान सभा द्वारा हिंदी को राजभाषा स्वीकार किए जाने के उपलक्ष्य में प्रतिवर्ष 'हिंदी दिवस' मनाया जाता है।"
+  },
+  {
+    "classLevel": 7,
+    "subject": "Hindi Grammar",
+    "chapter": "Chapter 1: भाषा, लिपि और व्याकरण",
+    "question": "व्याकरण के मुख्य रूप से कितने अंग (भाग / विभाग) होते हैं?",
+    "options": [
+      "चार अंग (1. वर्ण विचार - Phonology, 2. शब्द विचार - Morphology, 3. पद विचार - Syntax of parts, 4. वाक्य विचार - Syntax)",
+      "दो अंग",
+      "छह अंग",
+      "पाँच अंग"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "व्याकरण के 4 प्रमुख विभाग हैं: वर्ण विचार (ध्वनि), शब्द विचार (व्युत्पत्ति), पद विचार (रूपांतरण), तथा वाक्य विचार (संरचना)।"
+  },
+  {
+    "classLevel": 7,
+    "subject": "Hindi Grammar",
+    "chapter": "Chapter 1: भाषा, लिपि और व्याकरण",
+    "question": "बच्चा अपने परिवार और माता-पिता से शैशवावस्था में जो भाषा सबसे पहले स्वाभाविक रूप से सीखता है, उसे क्या कहते हैं?",
+    "options": [
+      "मातृभाषा (Mother Tongue)",
+      "राजभाषा",
+      "राष्ट्रभाषा",
+      "विदेशी भाषा"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "पारिवारिक परिवेश में बालक द्वारा प्रथम अर्जित प्राथमिक भाषा 'मातृभाषा' कहलाती है।"
+  },
+  {
+    "classLevel": 7,
+    "subject": "Hindi Grammar",
+    "chapter": "Chapter 1: भाषा, लिपि और व्याकरण",
+    "question": "देश के अधिकांश नागरिकों द्वारा बोली और समझी जाने वाली सर्वमान्य संपर्क भाषा को क्या कहते हैं?",
+    "options": [
+      "राष्ट्रभाषा (National Language)",
+      "बोली",
+      "मातृभाषा",
+      "प्रादेशिक भाषा"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "राष्ट्र के बहुसंख्यक जनसमुदाय द्वारा प्रयुक्त संपर्क एवं सांस्कृतिक एकता की सूत्रधार भाषा 'राष्ट्रभाषा' कहलाती है।"
+  },
+  {
+    "classLevel": 7,
+    "subject": "Hindi Grammar",
+    "chapter": "Chapter 1: भाषा, लिपि और व्याकरण",
+    "question": "सरकारी कामकाज, न्यायिक प्रशासन और राजकाज में संवैधानिक रूप से प्रयुक्त होने वाली भाषा को क्या कहते हैं?",
+    "options": [
+      "राजभाषा (Official Language)",
+      "बोली",
+      "मातृभाषा",
+      "उपभाषा"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "राज्य एवं केंद्रीय शासन के प्रशासनिक कार्यों में अधिकृत रूप से प्रयुक्त भाषा 'राजभाषा' है।"
+  },
+  {
+    "classLevel": 7,
+    "subject": "Hindi Grammar",
+    "chapter": "Chapter 1: भाषा, लिपि और व्याकरण",
+    "question": "भारतीय संविधान की आठवीं अनुसूची (8th Schedule) में वर्तमान में कुल कितनी भारतीय भाषाओं को आधिकारिक संवैधानिक मान्यता प्राप्त है?",
+    "options": [
+      "22 भाषाएँ (22 Officially Recognized Languages)",
+      "18 भाषाएँ",
+      "14 भाषाएँ",
+      "28 भाषाएँ"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "संविधान की 8वीं अनुसूची में असमिया, बाङ्ला, गुजराती, हिंदी, कन्नड़, कश्मीरी, कोंकणी, मलयालम, मणिपुरी, मराठी, नेपाली, ओडिया, पंजाबी, संस्कृत, सिंधी, तमिल, तेलुगु, उर्दू, बोडो, संथाली, मैथिली और डोगरी कुल 22 भाषाएँ शामिल हैं।"
+  },
+  {
+    "classLevel": 7,
+    "subject": "Hindi Grammar",
+    "chapter": "Chapter 1: भाषा, लिपि और व्याकरण",
+    "question": "'बोली' और 'भाषा' में क्या मुख्य अंतर होता है?",
+    "options": [
+      "बोली का क्षेत्र सीमित होता है और उसमें मानक साहित्य नहीं रचा जाता ; जबकि भाषा का क्षेत्र व्यापक होता है, उसकी अपनी मानक लिपि तथा समृद्ध लिखित साहित्य होता है",
+      "बोली केवल विदेशी बोलते हैं",
+      "भाषा केवल किताबों में होती है",
+      "दोनों में कोई अंतर नहीं है"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "बोली स्थानीय और अलिखित/मौखिक होती है; भाषा व्यापक, व्याकरण-सम्मत, लिपिबद्ध और साहित्यिक रूप धारण करती है।"
+  },
+  {
+    "classLevel": 7,
+    "subject": "Hindi Grammar",
+    "chapter": "Chapter 1: भाषा, लिपि और व्याकरण",
+    "question": "जब किसी बोली में प्रचुर उत्कृष्ट साहित्य की रचना होने लगती है और उसका क्षेत्र विस्तृत हो जाता है (जैसे: सूरदास का ब्रजभाषा साहित्य, तुलसीदास की अवधी), तब वह क्या कहलाती है?",
+    "options": [
+      "उपभाषा (Sub-language / Literary Dialect)",
+      "राष्ट्रभाषा",
+      "राजभाषा",
+      "मातृभाषा"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "साहित्यिक सृजन से समृद्ध बोली 'उपभाषा' का स्तर प्राप्त कर लेती है (जैसे: अवधी, ब्रजभाषा, मैथिली)।"
+  },
+  {
+    "classLevel": 7,
+    "subject": "Hindi Grammar",
+    "chapter": "Chapter 1: भाषा, लिपि और व्याकरण",
+    "question": "ज्ञान के संचित और व्यवस्थित कोष (कोष / खजाने) को क्या कहते हैं?",
+    "options": [
+      "साहित्य (Literature)",
+      "व्याकरण",
+      "लिपि",
+      "शब्दकोश"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "युग-युगांतर से संचित कल्याणकारी ज्ञानराशि और अनुभूतियों का व्यवस्थित लिखित संग्रह 'साहित्य' कहलाता है।"
+  },
+  {
+    "classLevel": 7,
+    "subject": "Hindi Grammar",
+    "chapter": "Chapter 1: भाषा, लिपि और व्याकरण",
+    "question": "साहित्य के मुख्य रूप से दो भेद कौन-से होते हैं?",
+    "options": [
+      "गद्य साहित्य (Prose - कहानी, निबंध, उपन्यास) और पद्य साहित्य (Poetry - कविता, पद, दोहे)",
+      "मौखिक साहित्य और लिखित साहित्य",
+      "प्राचीन साहित्य और नया साहित्य",
+      "देशी साहित्य और विदेशी साहित्य"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "साहित्य के दो मूल वर्गीकरण हैं: गद्य (छंदमुक्त गद्यात्मक अभिव्यक्ति) तथा पद्य (गेय, लयात्मक, छंदोबद्ध काव्य)।"
+  },
+  {
+    "classLevel": 7,
+    "subject": "Hindi Grammar",
+    "chapter": "Chapter 1: भाषा, लिपि और व्याकरण",
+    "question": "देवनागरी लिपि की सर्वप्रमुख वैज्ञानिक विशेषता क्या है?",
+    "options": [
+      "यह पूर्णतः ध्वन्यात्मक (Phonetic) लिपि है — जैसा बोला और उच्चारित किया जाता है, ठीक वैसा ही अक्षरशः लिखा और पढ़ा जाता है (प्रत्येक ध्वनि के लिए अद्वितीय वर्ण)",
+      "इसमें केवल 10 वर्ण होते हैं",
+      "यह ऊपर से नीचे लिखी जाती है",
+      "इसमें कोई स्वर नहीं होते"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "देवनागरी की विशिष्टता उसका वैज्ञानिक ध्वनि-प्रतीक सामंजस्य है: पूर्ण ध्वन्यात्मक संगति और शिरोरेखा (Head-line)।"
+  },
+  {
+    "classLevel": 7,
+    "subject": "Hindi Grammar",
+    "chapter": "Chapter 1: भाषा, लिपि और व्याकरण",
+    "question": "व्याकरण के किस अंग के अंतर्गत वर्णों के आकार, उच्चारण, वर्गीकरण तथा संधि नियमों का अध्ययन किया जाता है?",
+    "options": [
+      "वर्ण विचार (Phonology)",
+      "शब्द विचार",
+      "वाक्य विचार",
+      "पद विचार"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "वर्ण विचार में वर्णों के भेद, उच्चारण स्थान और ध्वनि संयोग का सैद्धांतिक अध्ययन होता है।"
+  },
+  {
+    "classLevel": 7,
+    "subject": "Hindi Grammar",
+    "chapter": "Chapter 1: भाषा, लिपि और व्याकरण",
+    "question": "व्याकरण के किस अंग के अंतर्गत शब्दों के भेद, उत्पत्ति, व्युत्पत्ति तथा रचना का अध्ययन किया जाता है?",
+    "options": [
+      "शब्द विचार (Morphology)",
+      "वर्ण विचार",
+      "वाक्य विचार",
+      "छंद विचार"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "शब्द विचार में तत्सम, तद्भव, देशज, विदेशी, रूढ़, यौगिक और योगरूढ़ शब्दों की संरचना का विश्लेषण होता है।"
+  },
+  {
+    "classLevel": 7,
+    "subject": "Hindi Grammar",
+    "chapter": "Chapter 1: भाषा, लिपि और व्याकरण",
+    "question": "जब कोई स्वतंत्र शब्द वाक्य में व्याकरणिक नियमों (लिंग, वचन, कारक) के अनुसार प्रयुक्त होता है, तब वह क्या कहलाता है?",
+    "options": [
+      "पद (Word in syntactic context)",
+      "वर्ण",
+      "ध्वनि",
+      "मुहावरा"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "वाक्य में प्रयुक्त होकर व्याकरणिक संबंध स्थापित करने वाला शब्द 'पद' कहलाता है।"
+  },
+  {
+    "classLevel": 7,
+    "subject": "Hindi Grammar",
+    "chapter": "Chapter 1: भाषा, लिपि और व्याकरण",
+    "question": "व्याकरण के किस अंग के अंतर्गत वाक्य की रचना, वाक्य के अंग (उद्देश्य और विधेय), भेद तथा विराम चिह्नों का अध्ययन किया जाता है?",
+    "options": [
+      "वाक्य विचार (Syntax)",
+      "शब्द विचार",
+      "वर्ण विचार",
+      "पद विचार"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "वाक्य विचार में वाक्य के अंगों, रूपांतरण, संश्लेषण और विश्लेषण का नियमन होता है।"
+  },
+  {
+    "classLevel": 7,
+    "subject": "Hindi Grammar",
+    "chapter": "Chapter 1: भाषा, लिपि और व्याकरण",
+    "question": "विश्व में सबसे अधिक बोली जाने वाली भाषाओं में हिंदी का स्थान कौन-सा है?",
+    "options": [
+      "विश्व की तीसरी (3rd) सर्वाधिक बोली जाने वाली वृहत्तम भाषा",
+      "दसवाँ स्थान",
+      "पहला स्थान",
+      "पचासवाँ स्थान"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "वैश्विक जनसांख्यिकी (Ethnologue) में अंग्रेजी और मंदारिन के उपरांत हिंदी विश्व की तीसरी सर्वाधिक प्रयुक्त भाषा है।"
+  },
+  {
+    "classLevel": 7,
+    "subject": "Hindi Grammar",
+    "chapter": "Chapter 1: भाषा, लिपि और व्याकरण",
+    "question": "निम्नलिखित में से कौन-सी भाषा देवनागरी लिपि में नहीं लिखी जाती है?",
+    "options": [
+      "उर्दू (जो फ़ारसी लिपि में लिखी जाती है)",
+      "संस्कृत",
+      "मराठी",
+      "नेपाली"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "उर्दू फ़ारसी लिपि में लिखी जाती है; जबकि संस्कृत, मराठी, नेपाली और हिंदी देवनागरी में आलेखित होती हैं।"
+  },
+  {
+    "classLevel": 7,
+    "subject": "Hindi Grammar",
+    "chapter": "Chapter 1: भाषा, लिपि और व्याकरण",
+    "question": "कथन और कारण को ध्यानपूर्वक पढ़ें:\nकथन (A): भाषा के बिना मानव सभ्यता का विकास, वैज्ञानिक प्रगति तथा सांस्कृतिक ज्ञान का संचरण सर्वथा असंभव था।\nकारण (R): भाषा ही वह सार्वभौमिक मानसिक-ध्वन्यात्मक माध्यम है जिसके द्वारा मनुष्य अपने पूर्वजों के सहस्रों वर्षों के ज्ञान को लिपिबद्ध कर अगली पीढ़ी तक संप्रेषित करता है।\nसही विकल्प चुनें:",
+    "options": [
+      "(A) और (R) दोनों सही हैं तथा (R), (A) की सही व्याख्या करता है।",
+      "(A) और (R) दोनों सही हैं, परन्तु (R), (A) की सही व्याख्या नहीं करता।",
+      "(A) सही है, परन्तु (R) गलत है।",
+      "(A) गलत है, परन्तु (R) सही है।"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "भाषा मानवीय सभ्यता की संचयी स्मृति और ज्ञान-मीमांसा की सार्वभौमिक संवाहक है।"
+  },
+  {
+    "classLevel": 7,
+    "subject": "Hindi Grammar",
+    "chapter": "Chapter 1: भाषा, लिपि और व्याकरण",
+    "question": "Spot the IMPOSTER in the following group of भाषाएँ और उनकी मानक लिपियों के युग्म में:\nGroup: [हिंदी - देवनागरी, अंग्रेज़ी - रोमन, पंजाबी - गुरुमुखी, अरबी - देवनागरी]",
+    "options": [
+      "हिंदी - देवनागरी",
+      "अंग्रेज़ी - रोमन",
+      "Punjabi - गुरुमुखी",
+      "अरबी - देवनागरी"
+    ],
+    "correctAnswer": 3,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "अरबी भाषा 'अरबी लिपि' (दाएँ से बाएँ) में लिखी जाती है, देवनागरी में नहीं।"
+  },
+  {
+    "classLevel": 7,
+    "subject": "Hindi Grammar",
+    "chapter": "Chapter 1: भाषा, लिपि और व्याकरण",
+    "question": "सुमेलित कीजिए (भाषा/बोली और उसके भौगोलिक/सांस्कृतिक वर्ग):\n(क) अवधी और ब्रजभाषा -> (i) पश्चिमी व पूर्वी हिंदी की समृद्ध उपभाषाएँ\n(ख) मैथिली और भोजपुरी -> (ii) बिहारी हिंदी वर्ग की बोलियाँ\n(ग) गढ़वाली व कुमाऊँनी -> (iii) पहाड़ी हिंदी वर्ग की बोलियाँ\n(घ) मारवाड़ी व जयपुरी  -> (iv) राजस्थानी हिंदी वर्ग की बोलियाँ",
+    "options": [
+      "क-(i), ख-(ii), ग-(iii), घ-(iv)",
+      "क-(ii), ख-(i), ग-(iv), घ-(iii)",
+      "क-(iv), ख-(iii), ग-(ii), घ-(i)",
+      "क-(iii), ख-(iv), ग-(i), घ-(ii)"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "अवधी/ब्रज = मध्य देश; मैथिली/भोजपुरी = बिहारी; गढ़वाली/कुमाऊँनी = पहाड़ी; मारवाड़ी = राजस्थानी।"
+  },
+  {
+    "classLevel": 7,
+    "subject": "Hindi Grammar",
+    "chapter": "Chapter 1: भाषा, लिपि और व्याकरण",
+    "question": "व्याकरण भाषा का निर्माण करता है अथवा भाषा का नियमन और अनुशासन करता है? सही दार्शनिक संबंध बताइए:",
+    "options": [
+      "भाषा पहले स्वाभाविक रूप से जन्म लेती है और लोकव्यवहार में विकसित होती है ; व्याकरण भाषा का निर्माण नहीं करता, अपितु प्रचलित भाषा के स्वरूप का वैज्ञानिक विश्लेषण करके उसके नियम निर्धारित और अनुशासित करता है",
+      "व्याकरण पहले बनता है फिर भाषा बनती है",
+      "व्याकरण के बिना मनुष्य बोल ही नहीं सकता",
+      "भाषा और व्याकरण में कोई संबंध नहीं होता"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "भाषा नैसर्गिक रूप से अग्रगामी होती है; व्याकरण भाषा का अनुगामी विश्लेषक एवं मानकीकृत नियामक होता है।"
+  },
+  {
+    "classLevel": 7,
+    "subject": "Hindi Grammar",
+    "chapter": "Chapter 1: भाषा, लिपि और व्याकरण",
+    "question": "अंतर्राष्ट्रीय स्तर पर विश्व के विभिन्न देशों के बीच विचार-विमर्श, व्यापार तथा कूटनीतिक संपर्क के लिए स्वीकृत सर्वमान्य भाषा को क्या कहते हैं?",
+    "options": [
+      "अंतर्राष्ट्रीय भाषा (International Language - जैसे: अंग्रेज़ी)",
+      "राजभाषा",
+      "मातृभाषा",
+      "बोली"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "वैश्विक कूटनीति, वाणिज्य एवं वैज्ञानिक शोध हेतु प्रयुक्त वैश्विक संपर्क भाषा 'अंतर्राष्ट्रीय भाषा' कहलाती है।"
+  },
+  {
+    "classLevel": 7,
+    "subject": "Hindi Grammar",
+    "chapter": "Chapter 1: भाषा, लिपि और व्याकरण",
+    "question": "देवनागरी लिपि का ऐतिहासिक उद्भव और विकास भारत की किस प्राचीन ऐतिहासिक लिपि से हुआ है?",
+    "options": [
+      "ब्राह्मी लिपि (Brahmi Script - सम्राट अशोक के अभिलेखों की मूल लिपि)",
+      "खरोष्ठी लिपि",
+      "सिंधु घाटी लिपि",
+      "अरामी लिपि"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "देवनागरी, बंगाली, तमिल, तेलुगु आदि अधिकांश भारतीय लिपियों की जननी प्राचीन 'ब्राह्मी लिपि' है।"
+  },
+  {
+    "classLevel": 7,
+    "subject": "Hindi Grammar",
+    "chapter": "Chapter 1: भाषा, लिपि और व्याकरण",
+    "question": "'मानक भाषा' (Standard Language) से क्या अभिप्राय है?",
+    "options": [
+      "विद्वानों, शिक्षाविदों तथा शासन द्वारा सर्वसम्मति से स्वीकृत भाषा का वह शुद्ध, व्याकरण-सम्मत, एकरूप तथा सर्वमान्य रूप जो पत्र-पत्रिकाओं, पुस्तकों और दूरदर्शन में प्रयुक्त होता है",
+      "केवल अनपढ़ लोगों द्वारा बोली जाने वाली भाषा",
+      "वह भाषा जिसमें कोई नियम न हो",
+      "प्राचीन समय की मृत भाषा"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "मानक भाषा (Standard Register) प्रामाणिक व्याकरणिक मानदंडों पर आधारित सर्वमान्य साहित्यिक व प्रशासनिक माध्यम है।"
+  },
+  {
+    "classLevel": 7,
+    "subject": "Hindi Grammar",
+    "chapter": "Chapter 1: भाषा, लिपि और व्याकरण",
+    "question": "विचार कीजिए (चार कथन):\n1. सांकेतिक भाषा को मूक-बधिरों के संप्रेषण में वैज्ञानिक महत्व प्राप्त है।\n2. हिंदी भाषा की लिपि देवनागरी है।\n3. भारत में प्रतिवर्ष 14 सितंबर को हिंदी दिवस मनाया जाता है।\n4. व्याकरण के तीन मुख्य अंग माने जाते हैं: वर्ण, शब्द और वाक्य विचार।\nउपर्युक्त में से कौन-से कथन सत्य हैं?",
+    "options": [
+      "सभी 1, 2, 3 और 4 पूर्णतः सत्य हैं",
+      "केवल 1 और 2",
+      "केवल 2 और 3",
+      "केवल 3 और 4"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "चारों कथन मानक भाषाशास्त्रीय एवं ऐतिहासिक तथ्यों के पूर्णतः अनुकूल हैं।"
+  },
+  {
+    "classLevel": 7,
+    "subject": "Hindi Grammar",
+    "chapter": "Chapter 1: भाषा, लिपि और व्याकरण",
+    "question": "वाक्य में अशुद्ध अंश की पहचान कीजिए और व्याकरणिक दोष का कारण बताइए:\n'मेरे को आपकी बात समझ नहीं आई।'\nशुद्ध रूप क्या होगा?",
+    "options": [
+      "'मुझे आपकी बात समझ नहीं आई।' (सर्वनाम संबंधी अशुद्धि : 'मेरे को' के स्थान पर मानक सर्वनाम 'मुझे' का प्रयोग)",
+      "'मुझको आपकी बात समझ नहीं आई।'",
+      "'मैं को आपकी बात समझ नहीं आई।'",
+      "'मेरे द्वारा आपकी बात समझी गई।'"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "हिंदी मानक व्याकरण में 'मेरे को / तेरे को' अमानक है; शुद्ध मानक रूप 'मुझे / तुम्हें' है।"
+  },
+  {
+    "classLevel": 7,
+    "subject": "Hindi Grammar",
+    "chapter": "Chapter 1: भाषा, लिपि और व्याकरण",
+    "question": "ध्वनि (Phoneme) और वर्ण (Letter) में क्या सूक्ष्म अंतर होता है?",
+    "options": [
+      "ध्वनि मौखिक भाषा की सबसे छोटी अविभाज्य उच्चरित इकाई है (कानों से सुनाई देती है) ; जबकि वर्ण उसी ध्वनि का लिखित दृश्य रूप/चिह्न है (आँखों से देखा जाता है)",
+      "ध्वनि और वर्ण में कोई अंतर नहीं है",
+      "ध्वनि केवल वाद्ययंत्रों में होती है",
+      "वर्ण केवल कागज़ का नाम है"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "ध्वनि श्रव्य/मौखिक न्यूनतम इकाई है; वर्ण उसका दृश्य/लिखित आलेखीय प्रतीक (Grapheme) है।"
+  },
+  {
+    "classLevel": 7,
+    "subject": "Hindi Grammar",
+    "chapter": "Chapter 1: भाषा, लिपि और व्याकरण",
+    "question": "भाषा के मानकीकरण में केंद्रीय हिंदी निदेशालय और वैज्ञानिक तथा तकनीकी शब्दावली आयोग (CSTT) की क्या भूमिका है?",
+    "options": [
+      "हिंदी वर्तनी, पारिभाषिक शब्दावली और देवनागरी लिपि के मानकीकृत नियमों का निर्धारण करना ताकि पूरे राष्ट्र में एकरूपता बनी रहे",
+      "नई बोलियों पर प्रतिबंध लगाना",
+      "केवल पुरानी पुस्तकें छापना",
+      "विदेशी भाषाओं को समाप्त करना"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "केंद्रीय हिंदी निदेशालय मानक वर्तनी, तकनीकी शब्दावली और देवनागरी यूनिकोड का मानकीकरण सुनिश्चित करता है।"
+  },
+  {
+    "classLevel": 7,
+    "subject": "Hindi Grammar",
+    "chapter": "Chapter 1: भाषा, लिपि और व्याकरण",
+    "question": "कक्षा 7 हिंदी व्याकरण के प्रथम अध्याय का सारगर्भित निष्कर्ष क्या है?",
+    "options": [
+      "भाषा मानव अभिव्यक्ति का अमूल्य वरदान है, लिपि उसकी अमर स्मृति है, और व्याकरण वह प्रकाश स्तंभ है जो भाषा को शुद्धता, अनुशासन और अमरता प्रदान करता है",
+      "व्याकरण का अध्ययन केवल परीक्षा पास करने के लिए है",
+      "बिना व्याकरण के भी भाषा हमेशा शुद्ध रहती है",
+      "भाषा केवल भारत में बोली जाती है"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "अध्याय 1 भाषा के सांस्कृतिक महत्व, लिपि की ऐतिहासिकता तथा व्याकरण की नियामक सौंदर्य-चेतना को प्रतिष्ठापित करता है।"
+  }
+]

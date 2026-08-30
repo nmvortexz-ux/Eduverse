@@ -1,0 +1,642 @@
+[
+  {
+    "classLevel": 6,
+    "subject": "Mathematics",
+    "chapter": "Chapter 10: Mensuration",
+    "question": "The total distance around the closed boundary of a 2-dimensional plane figure is called its:",
+    "options": [
+      "Perimeter",
+      "Area",
+      "Volume",
+      "Diagonal"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "Perimeter is the linear continuous boundary measure of a closed planar shape (sum of all outer sides)."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Mathematics",
+    "chapter": "Chapter 10: Mensuration",
+    "question": "What is the standard formula to calculate the Perimeter of a Rectangle with length 'l' and breadth 'b'?",
+    "options": [
+      "Perimeter = 2 × (length + breadth)",
+      "Perimeter = length × breadth",
+      "Perimeter = 4 × side",
+      "Perimeter = length + breadth"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "Perimeter of Rectangle = 2(l + b)."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Mathematics",
+    "chapter": "Chapter 10: Mensuration",
+    "question": "What is the standard formula to calculate the Perimeter of a Square of side length 's'?",
+    "options": [
+      "Perimeter = 4 × side (4s)",
+      "Perimeter = side × side (s²)",
+      "Perimeter = 2 × side",
+      "Perimeter = side / 4"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "A square has 4 congruent sides; Perimeter = 4 × s."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Mathematics",
+    "chapter": "Chapter 10: Mensuration",
+    "question": "What is the Perimeter of an Equilateral Triangle with side length 'a'?",
+    "options": [
+      "Perimeter = 3 × side (3a)",
+      "Perimeter = side × side",
+      "Perimeter = 2 × side",
+      "Perimeter = 4 × side"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "An equilateral triangle has 3 equal sides; Perimeter = 3 × side."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Mathematics",
+    "chapter": "Chapter 10: Mensuration",
+    "question": "Find the perimeter of a rectangle whose length is 15 cm and breadth is 10 cm:",
+    "options": [
+      "50 cm (2 × (15 + 10) = 2 × 25 = 50 cm)",
+      "150 cm",
+      "25 cm",
+      "100 cm"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "P = 2(l + b) = 2(15 + 10) = 2 × 25 = 50 cm."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Mathematics",
+    "chapter": "Chapter 10: Mensuration",
+    "question": "Find the perimeter of a square park whose side is 25 metres:",
+    "options": [
+      "100 metres (4 × 25 = 100 m)",
+      "625 metres",
+      "50 metres",
+      "125 metres"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "P = 4 × s = 4 × 25 = 100 m."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Mathematics",
+    "chapter": "Chapter 10: Mensuration",
+    "question": "The amount of 2-dimensional surface enclosed inside the boundary of a closed plane figure is called its:",
+    "options": [
+      "Area",
+      "Perimeter",
+      "Volume",
+      "Circumference"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "Area quantifies the 2D surface region enclosed within boundary limits, measured in square units (cm², m²)."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Mathematics",
+    "chapter": "Chapter 10: Mensuration",
+    "question": "What is the standard formula to calculate the Area of a Rectangle?",
+    "options": [
+      "Area = length × breadth (l × b)",
+      "Area = 2 × (length + breadth)",
+      "Area = side × side",
+      "Area = (length + breadth) / 2"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "Area of Rectangle = length × breadth."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Mathematics",
+    "chapter": "Chapter 10: Mensuration",
+    "question": "What is the standard formula to calculate the Area of a Square?",
+    "options": [
+      "Area = side × side (side²)",
+      "Area = 4 × side",
+      "Area = 2 × side",
+      "Area = side / 2"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "Area of Square = side × side = s²."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Mathematics",
+    "chapter": "Chapter 10: Mensuration",
+    "question": "Find the area of a rectangular carpet with length 8 m and breadth 5 m:",
+    "options": [
+      "40 sq m (8 × 5 = 40 m²)",
+      "26 sq m",
+      "13 sq m",
+      "80 sq m"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "Area = l × b = 8 m × 5 m = 40 m²."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Mathematics",
+    "chapter": "Chapter 10: Mensuration",
+    "question": "Find the area of a square tile with side 12 cm:",
+    "options": [
+      "144 sq cm (12 × 12 = 144 cm²)",
+      "48 sq cm",
+      "24 sq cm",
+      "96 sq cm"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "Area = side² = 12 × 12 = 144 cm²."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Mathematics",
+    "chapter": "Chapter 10: Mensuration",
+    "question": "What is the Perimeter of a Regular Pentagon (a 5-sided polygon with all equal sides) of side length 's'?",
+    "options": [
+      "Perimeter = 5 × side (5s)",
+      "Perimeter = 6 × side",
+      "Perimeter = 4 × side",
+      "Perimeter = side⁵"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "A regular pentagon has 5 congruent sides; Perimeter = 5 × s."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Mathematics",
+    "chapter": "Chapter 10: Mensuration",
+    "question": "A piece of wire of length 36 cm is bent to form a Square. What will be the length of each side of the square?",
+    "options": [
+      "9 cm (36 ÷ 4 = 9 cm)",
+      "6 cm",
+      "12 cm",
+      "18 cm"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "Perimeter = 4 × s = 36 cm ⇒ s = 36 / 4 = 9 cm."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Mathematics",
+    "chapter": "Chapter 10: Mensuration",
+    "question": "If the same 36 cm wire is bent to form an Equilateral Triangle, what will be the length of each side?",
+    "options": [
+      "12 cm (36 ÷ 3 = 12 cm)",
+      "9 cm",
+      "6 cm",
+      "18 cm"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "Perimeter = 3 × s = 36 cm ⇒ s = 36 / 3 = 12 cm."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Mathematics",
+    "chapter": "Chapter 10: Mensuration",
+    "question": "If the same 36 cm wire is bent to form a Regular Hexagon (6 equal sides), what will be the length of each side?",
+    "options": [
+      "6 cm (36 ÷ 6 = 6 cm)",
+      "4 cm",
+      "9 cm",
+      "8 cm"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "Perimeter = 6 × s = 36 cm ⇒ s = 36 / 6 = 6 cm."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Mathematics",
+    "chapter": "Chapter 10: Mensuration",
+    "question": "A farmer wants to fence his rectangular field of length 240 m and breadth 160 m with 4 rows of barbed wire. What is the total length of wire required?",
+    "options": [
+      "3,200 metres (Perimeter = 2 × (240 + 160) = 800 m ; Wire = 800 × 4 = 3,200 m)",
+      "800 metres",
+      "1,600 metres",
+      "2,400 metres"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "One round = 2(240 + 160) = 800 m. For 4 rounds = 800 × 4 = 3,200 m."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Mathematics",
+    "chapter": "Chapter 10: Mensuration",
+    "question": "Find the cost of fencing a square park of side 175 m at the rate of ₹20 per metre:",
+    "options": [
+      "₹14,000 (Perimeter = 4 × 175 = 700 m ; Cost = 700 × ₹20 = ₹14,000)",
+      "₹7,000",
+      "₹3,500",
+      "₹28,000"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "Perimeter = 4 × 175 = 700 m. Cost = 700 × ₹20 = ₹14,000."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Mathematics",
+    "chapter": "Chapter 10: Mensuration",
+    "question": "The area of a rectangular garden 50 m long is 300 sq m. Find the breadth of the garden:",
+    "options": [
+      "6 metres (Breadth = Area / Length = 300 / 50 = 6 m)",
+      "10 metres",
+      "15 metres",
+      "8 metres"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "Breadth = Area ÷ Length = 300 ÷ 50 = 6 m."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Mathematics",
+    "chapter": "Chapter 10: Mensuration",
+    "question": "A floor is 5 m long and 4 m wide. A square carpet of side 3 m is laid on the floor. Find the area of the floor that is NOT carpeted:",
+    "options": [
+      "11 sq m (Floor Area = 5 × 4 = 20 m² ; Carpet Area = 3 × 3 = 9 m² ; Uncarpeted = 20 - 9 = 11 m²)",
+      "9 sq m",
+      "20 sq m",
+      "15 sq m"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "Total floor = 20 m²; Carpeted = 9 m²; Uncarpeted = 20 - 9 = 11 m²."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Mathematics",
+    "chapter": "Chapter 10: Mensuration",
+    "question": "How many square tiles of side 10 cm will be needed to pave a rectangular bathroom floor of size 2 m by 1.5 m?",
+    "options": [
+      "300 tiles (Floor = 200 cm × 150 cm = 30,000 cm² ; Tile = 10 × 10 = 100 cm² ; Tiles = 30,000 / 100 = 300)",
+      "30 tiles",
+      "150 tiles",
+      "3,000 tiles"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "Floor = 200 × 150 = 30,000 cm². Tile = 100 cm². Number of tiles = 30,000 ÷ 100 = 300 tiles."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Mathematics",
+    "chapter": "Chapter 10: Mensuration",
+    "question": "Find the perimeter of a regular Octagon (8 equal sides) having side length 4.5 cm:",
+    "options": [
+      "36 cm (8 × 4.5 = 36 cm)",
+      "32 cm",
+      "40 cm",
+      "28 cm"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "Perimeter = 8 × 4.5 = 36 cm."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Mathematics",
+    "chapter": "Chapter 10: Mensuration",
+    "question": "Two sides of a triangle are 12 cm and 14 cm. The perimeter of the triangle is 36 cm. What is the length of the third side?",
+    "options": [
+      "10 cm (Third side = 36 - (12 + 14) = 36 - 26 = 10 cm)",
+      "12 cm",
+      "8 cm",
+      "11 cm"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "Side 3 = Perimeter - (Side 1 + Side 2) = 36 - 26 = 10 cm."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Mathematics",
+    "chapter": "Chapter 10: Mensuration",
+    "question": "Find the cost of leveling a rectangular playground of dimensions 70 m by 50 m at the rate of ₹5 per square metre:",
+    "options": [
+      "₹17,500 (Area = 70 × 50 = 3,500 m² ; Cost = 3,500 × 5 = ₹17,500)",
+      "₹12,000",
+      "₹35,000",
+      "₹15,000"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "Area = 70 × 50 = 3,500 m². Cost = 3,500 × 5 = ₹17,500."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Mathematics",
+    "chapter": "Chapter 10: Mensuration",
+    "question": "Sweety runs around a square park of side 75 m. Bulbul runs around a rectangular park of length 60 m and breadth 45 m. Who covers LESS distance and by how much?",
+    "options": [
+      "Bulbul covers less distance by 90 metres (Sweety = 4 × 75 = 300 m ; Bulbul = 2 × (60 + 45) = 210 m ; Difference = 300 - 210 = 90 m)",
+      "Sweety covers less distance by 90 m",
+      "Both cover exactly the same distance",
+      "Bulbul covers less distance by 50 m"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "Sweety perimeter = 300 m; Bulbul perimeter = 210 m. Bulbul covers 90 m less."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Mathematics",
+    "chapter": "Chapter 10: Mensuration",
+    "question": "How is the approximate area of an irregular closed shape estimated using standard 1 cm × 1 cm squared grid paper?",
+    "options": [
+      "Count 1 sq unit for fully covered squares + ignore squares less than half covered + count 1 sq unit for squares more than half covered + count ½ sq unit for exactly half covered squares",
+      "Only count full squares and throw away everything else",
+      "Multiply width by height directly",
+      "Weigh the paper on a balance"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "Standard grid approximation: full squares = 1, >half squares = 1, =half squares = 0.5, <half squares = 0."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Mathematics",
+    "chapter": "Chapter 10: Mensuration",
+    "question": "What happens to the AREA of a square if its side length is DOUBLED (multiplied by 2)?",
+    "options": [
+      "The area becomes 4 TIMES the original area ((2s)² = 4s²)",
+      "The area doubles (2 times)",
+      "The area triples (3 times)",
+      "The area remains unchanged"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "A_new = (2s)² = 4s² (area quadruples / 4 times)."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Mathematics",
+    "chapter": "Chapter 10: Mensuration",
+    "question": "What happens to the PERIMETER of a square if its side length is DOUBLED?",
+    "options": [
+      "The perimeter is DOUBLED (2 times: 4 × (2s) = 2 × (4s))",
+      "The perimeter becomes 4 times",
+      "The perimeter remains the same",
+      "The perimeter halves"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "P_new = 4(2s) = 2(4s) = 2 × P_old (doubles)."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Mathematics",
+    "chapter": "Chapter 10: Mensuration",
+    "question": "Five square flower beds each of side 1 m are dug on a piece of rectangular land 5 m long and 4 m wide. What is the remaining area of the land?",
+    "options": [
+      "15 sq m (Total Land = 5 × 4 = 20 m² ; Beds = 5 × (1 × 1) = 5 m² ; Remaining = 20 - 5 = 15 m²)",
+      "10 sq m",
+      "19 sq m",
+      "16 sq m"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "Total area = 20 m²; 5 beds = 5 m²; Remaining = 20 - 5 = 15 m²."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Mathematics",
+    "chapter": "Chapter 10: Mensuration",
+    "question": "Read the statements:\nAssertion (A): Among all rectangles having the same fixed perimeter (e.g. 40 cm), a SQUARE always encloses the MAXIMUM area.\nReason (R): For a constant sum of sides (l + b = constant), the product (l × b) reaches its absolute mathematical maximum when l = b (equilateral square condition).\nChoose the correct option:",
+    "options": [
+      "Both (A) and (R) are true, and (R) is the correct explanation of (A).",
+      "Both (A) and (R) are true, but (R) is NOT the correct explanation of (A).",
+      "(A) is true, but (R) is false.",
+      "(A) is false, but (R) is true."
+    ],
+    "correctAnswer": 0,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "Isoperimetric theorem for quadrilaterals: the square maximizes area for a fixed perimeter."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Mathematics",
+    "chapter": "Chapter 10: Mensuration",
+    "question": "Spot the IMPOSTER in the following polygon perimeters where each side length s = 6 cm:\nGroup: [Square (P = 24 cm), Equilateral Triangle (P = 18 cm), Regular Hexagon (P = 36 cm), Regular Pentagon (P = 35 cm)]",
+    "options": [
+      "Square (P = 24 cm)",
+      "Equilateral Triangle (P = 18 cm)",
+      "Regular Hexagon (P = 36 cm)",
+      "Regular Pentagon (P = 35 cm)"
+    ],
+    "correctAnswer": 3,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "Regular Pentagon has 5 sides: P = 5 × 6 = 30 cm, NOT 35 cm."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Mathematics",
+    "chapter": "Chapter 10: Mensuration",
+    "question": "A rectangular hall of length 30 m and breadth 20 m is surrounded on all outer sides by a 2.5 m wide verandah. What is the total AREA of the verandah path alone?",
+    "options": [
+      "275 sq m (Outer length = 35 m, Outer breadth = 25 m ; Outer Area = 35 × 25 = 875 m² ; Inner Area = 30 × 20 = 600 m² ; Path Area = 875 - 600 = 275 m²)",
+      "250 sq m",
+      "300 sq m",
+      "150 sq m"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "Outer dims = (30 + 5) × (20 + 5) = 35 × 25 = 875 m²; Inner = 600 m²; Path = 875 - 600 = 275 m²."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Mathematics",
+    "chapter": "Chapter 10: Mensuration",
+    "question": "Match Column I (Geometric Figures) with Column II (Perimeter / Area Formulas):\n(a) Square Area              -> (i) 2(l + b)\n(b) Rectangle Perimeter      -> (ii) s²\n(c) Equilateral Triangle P   -> (iii) l × b\n(d) Rectangle Area           -> (iv) 3s",
+    "options": [
+      "a-(ii), b-(i), c-(iv), d-(iii)",
+      "a-(i), b-(ii), c-(iii), d-(iv)",
+      "a-(iv), b-(iii), c-(ii), d-(i)",
+      "a-(iii), b-(iv), c-(i), d-(ii)"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "Square Area = s²; Rectangle P = 2(l+b); Triangle P = 3s; Rectangle Area = l×b."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Mathematics",
+    "chapter": "Chapter 10: Mensuration",
+    "question": "Read the statements regarding geometric measures:\nStatement 1: Two shapes can have the exact same perimeter but completely different areas.\nStatement 2: Two shapes can have the exact same area but completely different perimeters.\nStatement 3: Perimeter is always measured in square units (cm²).\nWhich statements are TRUE?",
+    "options": [
+      "Statements 1 and 2 only",
+      "Statements 2 and 3 only",
+      "Statements 1 and 3 only",
+      "All Statements 1, 2, and 3"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "Statement 3 is false because perimeter is a linear 1D length measured in linear units (cm, m), while area is measured in cm². Statements 1 and 2 are true."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Mathematics",
+    "chapter": "Chapter 10: Mensuration",
+    "question": "A wire in the shape of a Rectangle of dimensions 18 cm by 10 cm is cut, straightened, and rebent into a Square. What will be the area of this new Square?",
+    "options": [
+      "196 sq cm (Perimeter = 2(18 + 10) = 56 cm ; Square side = 56/4 = 14 cm ; Area = 14 × 14 = 196 cm²)",
+      "180 sq cm",
+      "144 sq cm",
+      "256 sq cm"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "Perimeter = 2(18 + 10) = 56 cm. Square side = 56/4 = 14 cm. Square area = 14² = 196 cm²."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Mathematics",
+    "chapter": "Chapter 10: Mensuration",
+    "question": "Find the total perimeter of an L-shaped polygon with side lengths: bottom = 10 cm, left vertical = 8 cm, top horizontal = 4 cm, inner vertical = 5 cm, inner horizontal = 6 cm, right vertical = 3 cm:",
+    "options": [
+      "36 cm (10 + 8 + 4 + 5 + 6 + 3 = 36 cm)",
+      "32 cm",
+      "40 cm",
+      "28 cm"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "Summing all 6 contiguous boundary edges: 10 + 8 + 4 + 5 + 6 + 3 = 36 cm."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Mathematics",
+    "chapter": "Chapter 10: Mensuration",
+    "question": "A rectangular lawn of length 60 m and breadth 40 m has two crossroads each 2 m wide running at right angles through its center parallel to its sides. What is the area of the crossroads?",
+    "options": [
+      "196 sq m (Road 1 = 60 × 2 = 120 m² ; Road 2 = 40 × 2 = 80 m² ; Center overlap = 2 × 2 = 4 m² ; Net Area = 120 + 80 - 4 = 196 m²)",
+      "200 sq m",
+      "192 sq m",
+      "204 sq m"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "Area of crossroads = (60 × 2) + (40 × 2) - (2 × 2) = 120 + 80 - 4 = 196 m²."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Mathematics",
+    "chapter": "Chapter 10: Mensuration",
+    "question": "If 1 hectare = 10,000 square metres, how many hectares is a rectangular agricultural farm of length 500 m and breadth 200 m?",
+    "options": [
+      "10 hectares (Area = 500 × 200 = 100,000 m² ; Hectares = 100,000 / 10,000 = 10)",
+      "5 hectares",
+      "20 hectares",
+      "100 hectares"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "Area = 500 × 200 = 100,000 m² ÷ 10,000 m²/ha = 10 hectares."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Mathematics",
+    "chapter": "Chapter 10: Mensuration",
+    "question": "A square park of side 60 m has a walking path of uniform width 3 m constructed INSIDE along its boundary. What is the area of this internal path?",
+    "options": [
+      "684 sq m (Outer Area = 60 × 60 = 3600 m² ; Inner side = 60 - 6 = 54 m ; Inner Area = 54 × 54 = 2916 m² ; Path = 3600 - 2916 = 684 m²)",
+      "720 sq m",
+      "600 sq m",
+      "648 sq m"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "Outer = 3600 m²; Inner = (60-6)² = 54² = 2916 m²; Path = 3600 - 2916 = 684 m²."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Mathematics",
+    "chapter": "Chapter 10: Mensuration",
+    "question": "If the length of a rectangle is increased by 50% and its breadth is decreased by 20%, what is the percentage change in its area?",
+    "options": [
+      "Increases by 20% (A_new = (1.5 l) × (0.8 b) = 1.20 (l × b) -> 20% increase)",
+      "Increases by 30%",
+      "Decreases by 10%",
+      "Remains unchanged"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "New Area = 1.50 × 0.80 = 1.20 × Original Area (+20% increase)."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Mathematics",
+    "chapter": "Chapter 10: Mensuration",
+    "question": "Why is the study of Mensuration (perimeter and area) essential in architectural engineering and real-world civil planning?",
+    "options": [
+      "It enables precise material quantification, budget estimation for construction, land cadastral mapping, and cost calculation for tiling, painting, and fencing",
+      "Because numbers make buildings stronger by magic",
+      "To prevent land from moving",
+      "Because rulers only measure area"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "Mensuration provides foundational geometric formulas for structural material estimation, cost budgeting, and land surveying."
+  }
+]

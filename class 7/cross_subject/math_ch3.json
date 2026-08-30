@@ -1,0 +1,642 @@
+[
+  {
+    "classLevel": 7,
+    "subject": "Mathematics",
+    "chapter": "Chapter 3: Data Handling",
+    "question": "The sum of all observations divided by the total number of observations is called the:",
+    "options": [
+      "Arithmetic Mean (Average)",
+      "Median",
+      "Mode",
+      "Range"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "Mean = (Sum of all observations) / (Total number of observations)."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Mathematics",
+    "chapter": "Chapter 3: Data Handling",
+    "question": "The difference between the HIGHEST and the LOWEST observation in a given dataset is called its:",
+    "options": [
+      "Range",
+      "Mode",
+      "Median",
+      "Mean"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "Range = Highest Observation - Lowest Observation."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Mathematics",
+    "chapter": "Chapter 3: Data Handling",
+    "question": "The observation that occurs MOST FREQUENTLY (highest number of times) in a dataset is called the:",
+    "options": [
+      "Mode",
+      "Median",
+      "Mean",
+      "Range"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "Mode is the value that appears with the maximum frequency in a given distribution."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Mathematics",
+    "chapter": "Chapter 3: Data Handling",
+    "question": "The middle-most observation when a dataset is arranged in ascending or descending order of magnitude is called the:",
+    "options": [
+      "Median",
+      "Mode",
+      "Mean",
+      "Frequency"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "Median is the central value dividing an ordered dataset into two equal halves."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Mathematics",
+    "chapter": "Chapter 3: Data Handling",
+    "question": "Find the Arithmetic Mean of the first five Natural Numbers: 1, 2, 3, 4, 5:",
+    "options": [
+      "3 ((1 + 2 + 3 + 4 + 5) / 5 = 15 / 5 = 3)",
+      "2.5",
+      "4",
+      "5"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "Mean = (1+2+3+4+5)/5 = 15/5 = 3."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Mathematics",
+    "chapter": "Chapter 3: Data Handling",
+    "question": "Find the Mode of the data: 1, 1, 2, 4, 3, 2, 1, 2, 2, 4:",
+    "options": [
+      "2 (occurs most frequently: 4 times)",
+      "1",
+      "3",
+      "4"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "Frequencies: 1 (3 times), 2 (4 times), 3 (1 time), 4 (2 times). Highest frequency is 2."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Mathematics",
+    "chapter": "Chapter 3: Data Handling",
+    "question": "Find the Range of the dataset: 32, 41, 28, 54, 35, 26, 33, 23, 38, 40:",
+    "options": [
+      "31 (Highest = 54 ; Lowest = 23 ; Range = 54 - 23 = 31)",
+      "28",
+      "35",
+      "54"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "Range = Max - Min = 54 - 23 = 31."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Mathematics",
+    "chapter": "Chapter 3: Data Handling",
+    "question": "Find the Median of the data values: 24, 36, 46, 17, 18, 25, 35 (arranged in ascending order: 17, 18, 24, 25, 35, 36, 46):",
+    "options": [
+      "25 (The 4th middle observation out of 7)",
+      "24",
+      "35",
+      "29"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "With n = 7 (odd), Median = (7+1)/2 = 4th term = 25."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Mathematics",
+    "chapter": "Chapter 3: Data Handling",
+    "question": "A visual representation of numerical data using rectangular bars of uniform width with equal spacing between them is called a:",
+    "options": [
+      "Bar Graph",
+      "Pie Chart",
+      "Tally Mark",
+      "Number Line"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "A bar graph represents categorical frequencies via proportional heights of uniform rectangular bars."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Mathematics",
+    "chapter": "Chapter 3: Data Handling",
+    "question": "A bar graph showing two sets of data simultaneously side-by-side for comparison is called a:",
+    "options": [
+      "Double Bar Graph",
+      "Single Bar Graph",
+      "Histogram",
+      "Line Graph"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "A double bar graph displays paired comparative datasets side-by-side."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Mathematics",
+    "chapter": "Chapter 3: Data Handling",
+    "question": "What is the Probability (P) of tossing a fair coin and getting 'HEADS'?",
+    "options": [
+      "1/2 (Favourable outcomes: 1 ; Total possible outcomes: 2)",
+      "1",
+      "0",
+      "1/4"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "P(Head) = 1/2 = 0.5."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Mathematics",
+    "chapter": "Chapter 3: Data Handling",
+    "question": "When rolling a standard 6-sided die, what is the probability of rolling a number GREATER than 4 (i.e. 5 or 6)?",
+    "options": [
+      "2/6 = 1/3 (Favourable: {5, 6} = 2 outcomes)",
+      "1/2",
+      "1/6",
+      "4/6"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "Favourable outcomes = {5, 6} (2 numbers). P = 2/6 = 1/3."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Mathematics",
+    "chapter": "Chapter 3: Data Handling",
+    "question": "A batsman scored the following runs in six innings: 36, 35, 50, 46, 60, 55. Calculate his Mean run score:",
+    "options": [
+      "47 runs ((36 + 35 + 50 + 46 + 60 + 55) / 6 = 282 / 6 = 47)",
+      "45 runs",
+      "50 runs",
+      "48 runs"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "Total runs = 282. Innings = 6. Mean = 282 ÷ 6 = 47 runs."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Mathematics",
+    "chapter": "Chapter 3: Data Handling",
+    "question": "The scores in mathematics test (out of 25) of 15 students are:\n19, 25, 23, 20, 9, 20, 15, 10, 5, 16, 25, 20, 24, 12, 20.\nFind the Mode and Median of this data:",
+    "options": [
+      "Mode = 20 (appears 4 times) ; Median = 20 (8th value in ordered list)",
+      "Mode = 25 ; Median = 20",
+      "Mode = 20 ; Median = 19",
+      "Mode = 20 ; Median = 23"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "Ordered list (15 values): 5, 9, 10, 12, 15, 16, 19, 20, 20, 20, 20, 23, 24, 25, 25. Mode = 20, Median = 8th value = 20."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Mathematics",
+    "chapter": "Chapter 3: Data Handling",
+    "question": "The runs scored in a cricket match by 11 players are: 6, 15, 120, 50, 100, 80, 10, 15, 8, 10, 15.\nFind the Mean, Mode, and Median:",
+    "options": [
+      "Mean = 39, Mode = 15, Median = 15",
+      "Mean = 45, Mode = 15, Median = 10",
+      "Mean = 39, Mode = 10, Median = 15",
+      "Mean = 50, Mode = 15, Median = 20"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "Sum = 429 → Mean = 429/11 = 39. Ordered: 6, 8, 10, 10, 15, 15, 15, 50, 80, 100, 120. Median = 6th = 15, Mode = 15."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Mathematics",
+    "chapter": "Chapter 3: Data Handling",
+    "question": "Can a dataset have MORE than one Mode (e.g. Bimodal or Multimodal data)?",
+    "options": [
+      "Yes, if two or more observations share the highest frequency equally (e.g. in 2, 2, 3, 3, 4, both 2 and 3 are modes)",
+      "No, data can only ever have one mode",
+      "Only if the data contains negative numbers",
+      "Only when data has zero observations"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "Distributions with multiple distinct equal peak frequencies are bimodal or multimodal."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Mathematics",
+    "chapter": "Chapter 3: Data Handling",
+    "question": "The weights (in kg) of 15 students of a class are:\n38, 42, 35, 37, 45, 50, 32, 43, 43, 40, 36, 38, 43, 38, 47.\nFind the Mode(s) of this data:",
+    "options": [
+      "38 kg and 43 kg (Both occur 3 times each - Bimodal dataset)",
+      "Only 38 kg",
+      "Only 43 kg",
+      "40 kg"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "Frequencies: 38 appears 3 times, 43 appears 3 times. Both are modes (Bimodal)."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Mathematics",
+    "chapter": "Chapter 3: Data Handling",
+    "question": "Find the Median of the first seven Prime Numbers: 2, 3, 5, 7, 11, 13, 17:",
+    "options": [
+      "7 (The 4th middle observation in the prime sequence)",
+      "5",
+      "11",
+      "8.28"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "Ordered 7 primes: 2, 3, 5, 7, 11, 13, 17. Median = 4th value = 7."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Mathematics",
+    "chapter": "Chapter 3: Data Handling",
+    "question": "What is the Probability of an 'IMPOSSIBLE EVENT' (such as rolling a 7 on a standard 6-sided die)?",
+    "options": [
+      "0 (Zero)",
+      "1",
+      "1/2",
+      "-1"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "An impossible event has 0 favourable outcomes; P(Impossible) = 0."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Mathematics",
+    "chapter": "Chapter 3: Data Handling",
+    "question": "What is the Probability of a 'CERTAIN / SURE EVENT' (such as the Sun rising in the East tomorrow)?",
+    "options": [
+      "1 (One / 100% certainty)",
+      "0",
+      "0.5",
+      "Infinity"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "A certain event is guaranteed to occur; P(Sure) = 1."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Mathematics",
+    "chapter": "Chapter 3: Data Handling",
+    "question": "There are 6 marbles in a box with numbers from 1 to 6 marked on each of them. What is the probability of drawing a marble with number 2?",
+    "options": [
+      "1/6",
+      "2/6 = 1/3",
+      "1/2",
+      "6/1"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "Favourable outcome = 1 (marble 2). Total = 6. P = 1/6."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Mathematics",
+    "chapter": "Chapter 3: Data Handling",
+    "question": "There are 6 marbles in a box numbered 1 to 6. What is the probability of drawing a marble with an EVEN number (2, 4, 6)?",
+    "options": [
+      "3/6 = 1/2",
+      "1/6",
+      "2/6",
+      "5/6"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "Even outcomes = {2, 4, 6} (3 outcomes). P = 3/6 = 1/2."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Mathematics",
+    "chapter": "Chapter 3: Data Handling",
+    "question": "The Mean of 5 numbers is 20. If one number is excluded, their mean becomes 18. What is the excluded number?",
+    "options": [
+      "28 (Sum of 5 numbers = 5 × 20 = 100 ; Sum of 4 numbers = 4 × 18 = 72 ; Excluded = 100 - 72 = 28)",
+      "24",
+      "26",
+      "30"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "Old sum = 5 × 20 = 100. New sum = 4 × 18 = 72. Excluded = 100 - 72 = 28."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Mathematics",
+    "chapter": "Chapter 3: Data Handling",
+    "question": "The Mean of 10 observations was calculated as 40. Later it was found that an observation 45 was misread as 15. What is the correct Mean?",
+    "options": [
+      "43 (Calculated sum = 400 ; Correct sum = 400 - 15 + 45 = 430 ; Correct mean = 430 / 10 = 43)",
+      "41.5",
+      "42",
+      "45"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "Correct sum = 400 - 15 + 45 = 430. Correct mean = 430 ÷ 10 = 43."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Mathematics",
+    "chapter": "Chapter 3: Data Handling",
+    "question": "Which measure of central tendency is MOST suitable for a shopkeeper deciding which shoe size to stock in the largest quantity?",
+    "options": [
+      "Mode (since it identifies the most popular, frequently purchased shoe size)",
+      "Mean",
+      "Median",
+      "Range"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "Mode reflects peak modal consumer demand for inventory stocking decisions."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Mathematics",
+    "chapter": "Chapter 3: Data Handling",
+    "question": "Which measure of central tendency is preferred when a dataset contains extreme outlier values (e.g. salaries where one billionaire skews the average)?",
+    "options": [
+      "Median (because the median is resistant to extreme outliers)",
+      "Mean (which gets heavily distorted by outliers)",
+      "Range",
+      "Total sum"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "Median is a non-parametric robust statistic unaffected by skewness or extreme outliers."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Mathematics",
+    "chapter": "Chapter 3: Data Handling",
+    "question": "On a bar graph, if a scale is chosen as 1 unit length = 10 students, what bar length in unit units represents 75 students?",
+    "options": [
+      "7.5 units (75 / 10 = 7.5 units)",
+      "7 units",
+      "8 units",
+      "75 units"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "Length = Value ÷ Scale factor = 75 ÷ 10 = 7.5 units."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Mathematics",
+    "chapter": "Chapter 3: Data Handling",
+    "question": "What is the Median of the EVEN number of observations: 12, 14, 16, 18, 20, 22?",
+    "options": [
+      "17 (Average of the two middle terms 16 and 18: (16 + 18) / 2 = 34 / 2 = 17)",
+      "16",
+      "18",
+      "16.5"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "For n = 6 (even), Median is the mean of 3rd and 4th terms: (16 + 18)/2 = 17."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Mathematics",
+    "chapter": "Chapter 3: Data Handling",
+    "question": "Read the statements:\nAssertion (A): The Arithmetic Mean of a dataset always lies strictly between the Minimum and Maximum values of that dataset.\nReason (R): The mean is a representative measure of central tendency calculated by distributing the total sum equally across all observations.\nChoose the correct option:",
+    "options": [
+      "Both (A) and (R) are true, and (R) is the correct explanation of (A).",
+      "Both (A) and (R) are true, but (R) is NOT the correct explanation of (A).",
+      "(A) is true, but (R) is false.",
+      "(A) is false, but (R) is true."
+    ],
+    "correctAnswer": 0,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "Boundedness property of arithmetic mean: Min(x) ≤ Mean ≤ Max(x)."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Mathematics",
+    "chapter": "Chapter 3: Data Handling",
+    "question": "Spot the IMPOSTER among the following statements regarding Central Tendency:\nGroup:\n1. The Mode is always one of the numbers in the given dataset.\n2. The Mean is always one of the numbers in the given dataset.\n3. The Median is always one of the numbers in an odd-numbered dataset.\n4. Range = Maximum Observation - Minimum Observation.",
+    "options": [
+      "Statement 1",
+      "Statement 2 (Mean is NOT necessarily one of the numbers in the data, e.g. Mean of 2 and 3 is 2.5)",
+      "Statement 3",
+      "Statement 4"
+    ],
+    "correctAnswer": 1,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "Statement 2 is false: arithmetic mean frequently evaluates to a non-existent fraction/value not present in the original dataset."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Mathematics",
+    "chapter": "Chapter 3: Data Handling",
+    "question": "The mean weight of a group of 20 boys is 52 kg, and the mean weight of another group of 30 boys is 47 kg. Find the COMBINED mean weight of all 50 boys:",
+    "options": [
+      "49 kg (Total weight = (20 × 52) + (30 × 47) = 1040 + 1410 = 2450 kg ; Combined mean = 2450 / 50 = 49 kg)",
+      "49.5 kg",
+      "48 kg",
+      "50 kg"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "Weighted average = (20×52 + 30×47) / 50 = (1040 + 1410)/50 = 2450/50 = 49 kg."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Mathematics",
+    "chapter": "Chapter 3: Data Handling",
+    "question": "Match Column I (Statistical Concepts) with Column II (Properties & Formulas):\n(a) Arithmetic Mean -> (i) Sum of observations / Number of observations\n(b) Median          -> (ii) Middle value dividing ordered data into two halves\n(c) Mode            -> (iii) Value with the maximum frequency\n(d) Range           -> (iv) Spread of data (Maximum - Minimum)",
+    "options": [
+      "a-(i), b-(ii), c-(iii), d-(iv)",
+      "a-(ii), b-(i), c-(iv), d-(iii)",
+      "a-(iv), b-(iii), c-(ii), d-(i)",
+      "a-(iii), b-(iv), c-(i), d-(ii)"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "Mean = sum/n; Median = middle; Mode = max frequency; Range = max - min."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Mathematics",
+    "chapter": "Chapter 3: Data Handling",
+    "question": "Read the statements regarding Probability:\nStatement 1: The probability of any event 'E' always satisfies: 0 ≤ P(E) ≤ 1.\nStatement 2: When two coins are tossed simultaneously, the probability of getting at least one Head is 3/4.\nStatement 3: The probability of rolling an 8 on a standard 6-sided die is 1/8.\nWhich statements are TRUE?",
+    "options": [
+      "Statements 1 and 2 only",
+      "Statements 2 and 3 only",
+      "Statements 1 and 3 only",
+      "All Statements 1, 2, and 3"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "Statement 3 is false because rolling an 8 is an impossible event on a 6-sided die (P = 0). Statements 1 and 2 are true."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Mathematics",
+    "chapter": "Chapter 3: Data Handling",
+    "question": "The following observations are arranged in ascending order: 11, 14, 15, 17, x + 1, 2x - 1, 30, 32, 35, 41.\nIf the Median of the data is 24, find the value of x:",
+    "options": [
+      "x = 16 (Middle two terms are (x+1) and (2x-1) ; Median = [(x+1)+(2x-1)] / 2 = 3x/2 = 24 ⇒ 3x = 48 ⇒ x = 16)",
+      "x = 14",
+      "x = 18",
+      "x = 15"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "For n = 10, Median is average of 5th and 6th terms: (x + 1 + 2x - 1)/2 = 3x/2 = 24 → 3x = 48 → x = 16."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Mathematics",
+    "chapter": "Chapter 3: Data Handling",
+    "question": "A spinning wheel has 8 equal sectors: 3 Green, 2 Blue, 2 Red, and 1 Yellow. What is the probability of the pointer landing on a sector that is NOT GREEN?",
+    "options": [
+      "5/8 (Non-green sectors = 2 Blue + 2 Red + 1 Yellow = 5 sectors ; P = 5/8)",
+      "3/8",
+      "1/2",
+      "7/8"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "P(Not Green) = 1 - P(Green) = 1 - 3/8 = 5/8."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Mathematics",
+    "chapter": "Chapter 3: Data Handling",
+    "question": "If every observation in a dataset is MULTIPLIED by 3, what happens to the Mean and Range of the dataset?",
+    "options": [
+      "Both the Mean and the Range become 3 times the original (New Mean = 3 × Old Mean ; New Range = 3 × Old Range)",
+      "Mean triples but Range remains unchanged",
+      "Range triples but Mean remains unchanged",
+      "Neither changes"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "Linear transformation scaling: multiplying every value x_i by scalar 'c' scales both mean and range by factor 'c'."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Mathematics",
+    "chapter": "Chapter 3: Data Handling",
+    "question": "If the constant 5 is ADDED to every observation in a dataset, what happens to the Mean and Range?",
+    "options": [
+      "The Mean increases by 5, but the Range remains COMPLETELY UNCHANGED (since (Max + 5) - (Min + 5) = Max - Min)",
+      "Both Mean and Range increase by 5",
+      "Mean remains unchanged, Range increases by 5",
+      "Neither changes"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "Location shift translation adds constant 'k' to mean, but distance measure Range remains invariant."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Mathematics",
+    "chapter": "Chapter 3: Data Handling",
+    "question": "Consider a dataset of 5 distinct positive integers whose Mean is 12 and Median is 14. What is the MAXIMUM possible value that the largest number can take?",
+    "options": [
+      "28 (To maximize 5th number, minimize 1st, 2nd, and 4th: values = 1, 2, 14, 15, x ; Sum = 5 × 12 = 60 ⇒ 1 + 2 + 14 + 15 + x = 60 ⇒ 32 + x = 60 ⇒ x = 28)",
+      "30",
+      "26",
+      "32"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "To maximize x₅: choose minimum distinct integers x₁=1, x₂=2, x₃=14 (median), x₄=15. Sum = 32 + x₅ = 60 → x₅ = 28."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Mathematics",
+    "chapter": "Chapter 3: Data Handling",
+    "question": "A bag contains 5 red balls, 8 white balls, 4 green balls, and 7 black balls. One ball is drawn at random. What is the probability that the drawn ball is NEITHER white NOR black?",
+    "options": [
+      "9/24 = 3/8 (Total balls = 24 ; Favourable = Red + Green = 5 + 4 = 9 balls ; P = 9/24 = 3/8)",
+      "15/24",
+      "5/24",
+      "1/3"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "Total balls = 5+8+4+7 = 24. Neither white nor black = Red (5) + Green (4) = 9. P = 9/24 = 3/8."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Mathematics",
+    "chapter": "Chapter 3: Data Handling",
+    "question": "Why is Data Handling and Statistical Analysis considered the foundation of modern data science, machine learning, economic planning, and scientific decision-making?",
+    "options": [
+      "It transforms raw unorganized measurements into meaningful summaries, measures variability, identifies patterns, and models empirical probability for evidence-based predictions",
+      "Because statistics eliminates the need for data collection",
+      "Because averages are the only numbers used in computers",
+      "Because probability guarantees 100% certainty in all future events"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "Descriptive and inferential statistics provide the foundational mathematical framework for data science, modeling uncertainty, and decision analytics."
+  }
+]

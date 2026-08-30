@@ -1,0 +1,642 @@
+[
+  {
+    "classLevel": 6,
+    "subject": "Mathematics",
+    "chapter": "Chapter 8: Decimals",
+    "question": "In the decimal system, what does the first place value immediately to the RIGHT of the decimal point represent?",
+    "options": [
+      "Tenths (1/10 or 0.1)",
+      "Hundredths (1/100)",
+      "Thousandths (1/1000)",
+      "Ones (1)"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "The first digit to the right of the decimal point has place value 1/10 (Tenths)."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Mathematics",
+    "chapter": "Chapter 8: Decimals",
+    "question": "In the decimal system, what does the second place value to the right of the decimal point represent?",
+    "options": [
+      "Hundredths (1/100 or 0.01)",
+      "Tenths (1/10)",
+      "Thousandths (1/1000)",
+      "Tens (10)"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "The second digit to the right of the decimal point represents 1/100 (Hundredths)."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Mathematics",
+    "chapter": "Chapter 8: Decimals",
+    "question": "Write the fraction 7/10 as a Decimal:",
+    "options": [
+      "0.7",
+      "0.07",
+      "7.0",
+      "0.007"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "7/10 = 0.7."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Mathematics",
+    "chapter": "Chapter 8: Decimals",
+    "question": "Write the fraction 5/100 as a Decimal:",
+    "options": [
+      "0.05",
+      "0.5",
+      "5.0",
+      "0.005"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "5/100 = 0.05 (5 hundredths)."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Mathematics",
+    "chapter": "Chapter 8: Decimals",
+    "question": "Write the mixed fraction 2 ³/₁₀ as a Decimal:",
+    "options": [
+      "2.3",
+      "2.03",
+      "0.23",
+      "23.0"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "2 + 3/10 = 2 + 0.3 = 2.3."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Mathematics",
+    "chapter": "Chapter 8: Decimals",
+    "question": "Convert 65 paise into Rupees using Decimals (since ₹1 = 100 paise):",
+    "options": [
+      "₹0.65 (65/100 = 0.65)",
+      "₹6.50",
+      "₹0.065",
+      "₹65.00"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "1 paisa = ₹1/100 -> 65 paise = ₹65/100 = ₹0.65."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Mathematics",
+    "chapter": "Chapter 8: Decimals",
+    "question": "Convert 8 cm into Metres using Decimals (since 1 m = 100 cm):",
+    "options": [
+      "0.08 m (8/100 = 0.08 m)",
+      "0.8 m",
+      "8.0 m",
+      "0.008 m"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "1 cm = 1/100 m -> 8 cm = 8/100 m = 0.08 m."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Mathematics",
+    "chapter": "Chapter 8: Decimals",
+    "question": "Convert 250 grams into Kilograms using Decimals (since 1 kg = 1,000 g):",
+    "options": [
+      "0.250 kg (or 0.25 kg)",
+      "2.50 kg",
+      "0.025 kg",
+      "25.0 kg"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "250 g = 250/1000 kg = 0.250 kg."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Mathematics",
+    "chapter": "Chapter 8: Decimals",
+    "question": "Which decimal number is LARGER: 0.5 or 0.05?",
+    "options": [
+      "0.5 (since 5 tenths > 0 tenths)",
+      "0.05",
+      "Both are equal",
+      "Cannot be determined"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "0.5 = 0.50 (50 hundredths) > 0.05 (5 hundredths)."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Mathematics",
+    "chapter": "Chapter 8: Decimals",
+    "question": "Calculate the sum of decimals: 0.3 + 0.4",
+    "options": [
+      "0.7",
+      "0.07",
+      "7.0",
+      "0.12"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "0.3 + 0.4 = 0.7."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Mathematics",
+    "chapter": "Chapter 8: Decimals",
+    "question": "Calculate the difference: 0.9 - 0.2",
+    "options": [
+      "0.7",
+      "0.07",
+      "1.1",
+      "0.18"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "0.9 - 0.2 = 0.7."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Mathematics",
+    "chapter": "Chapter 8: Decimals",
+    "question": "Write 'Thirty and one-tenth' in Decimal numeral form:",
+    "options": [
+      "30.1",
+      "3.01",
+      "30.01",
+      "301.0"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "30 + 1/10 = 30.1."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Mathematics",
+    "chapter": "Chapter 8: Decimals",
+    "question": "Convert the fraction 3/4 into a Decimal by making the denominator 100:",
+    "options": [
+      "0.75 ((3 × 25) / (4 × 25) = 75/100 = 0.75)",
+      "0.34",
+      "0.70",
+      "0.25"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "3/4 = (3 × 25) / (4 × 25) = 75/100 = 0.75."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Mathematics",
+    "chapter": "Chapter 8: Decimals",
+    "question": "Convert the fraction 2/5 into a Decimal:",
+    "options": [
+      "0.4 ((2 × 2) / (5 × 2) = 4/10 = 0.4)",
+      "0.25",
+      "0.2",
+      "0.5"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "2/5 = 4/10 = 0.4."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Mathematics",
+    "chapter": "Chapter 8: Decimals",
+    "question": "Convert the fraction 1/8 into a Decimal by making the denominator 1,000:",
+    "options": [
+      "0.125 ((1 × 125) / (8 × 125) = 125/1000 = 0.125)",
+      "0.18",
+      "0.8",
+      "0.250"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "1/8 = 125/1000 = 0.125."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Mathematics",
+    "chapter": "Chapter 8: Decimals",
+    "question": "Convert the decimal 0.6 into a Fraction in its lowest simplest terms:",
+    "options": [
+      "3/5 (6/10 = 3/5)",
+      "6/10",
+      "2/5",
+      "1/6"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "0.6 = 6/10 = 3/5."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Mathematics",
+    "chapter": "Chapter 8: Decimals",
+    "question": "Convert the decimal 0.12 into a Fraction in its simplest form:",
+    "options": [
+      "3/25 (12/100 = 3/25)",
+      "6/50",
+      "12/100",
+      "1/8"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "12/100 = (12 ÷ 4) / (100 ÷ 4) = 3/25."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Mathematics",
+    "chapter": "Chapter 8: Decimals",
+    "question": "Which of the following decimals is the GREATEST: 1.009, 1.09, 1.9, 1.909?",
+    "options": [
+      "1.909 (1.909 > 1.900 > 1.090 > 1.009)",
+      "1.9",
+      "1.09",
+      "1.009"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "Comparing like decimals with 3 places: 1.909 > 1.900 > 1.090 > 1.009."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Mathematics",
+    "chapter": "Chapter 8: Decimals",
+    "question": "Calculate the sum: 0.007 + 8.5 + 30.08",
+    "options": [
+      "38.587",
+      "38.577",
+      "38.087",
+      "39.587"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "30.080 + 8.500 + 0.007 = 38.587."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Mathematics",
+    "chapter": "Chapter 8: Decimals",
+    "question": "Calculate the difference: 20.75 - 18.25",
+    "options": [
+      "2.50 (or 2.5)",
+      "2.25",
+      "3.50",
+      "1.50"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "20.75 - 18.25 = 2.50."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Mathematics",
+    "chapter": "Chapter 8: Decimals",
+    "question": "Calculate the difference: 11.6 - 9.847",
+    "options": [
+      "1.753 (11.600 - 9.847 = 1.753)",
+      "1.853",
+      "2.753",
+      "1.247"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "11.600 - 9.847 = 1.753."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Mathematics",
+    "chapter": "Chapter 8: Decimals",
+    "question": "Rashid spent ₹35.75 for a Maths book and ₹32.60 for a Science book. Find the total amount spent by Rashid:",
+    "options": [
+      "₹68.35 (35.75 + 32.60 = 68.35)",
+      "₹67.35",
+      "₹68.00",
+      "₹70.35"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "₹35.75 + ₹32.60 = ₹68.35."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Mathematics",
+    "chapter": "Chapter 8: Decimals",
+    "question": "Radhika's mother gave her ₹10.50 and her father gave her ₹15.80. Find the total money received by Radhika:",
+    "options": [
+      "₹26.30 (10.50 + 15.80 = 26.30)",
+      "₹25.30",
+      "₹26.00",
+      "₹27.30"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "10.50 + 15.80 = ₹26.30."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Mathematics",
+    "chapter": "Chapter 8: Decimals",
+    "question": "Nasreen bought 3 m 20 cm cloth for her shirt and 2 m 5 cm cloth for her trousers. What is the total length of cloth bought by her in metres?",
+    "options": [
+      "5.25 m (3.20 m + 2.05 m = 5.25 m)",
+      "5.70 m",
+      "5.205 m",
+      "5.025 m"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "3 m 20 cm = 3.20 m; 2 m 5 cm = 2.05 m. Total = 3.20 + 2.05 = 5.25 m."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Mathematics",
+    "chapter": "Chapter 8: Decimals",
+    "question": "Naresh walked 2 km 35 m in the morning and 1 km 7 m in the evening. How much total distance did he walk in kilometres?",
+    "options": [
+      "3.042 km (2.035 km + 1.007 km = 3.042 km)",
+      "3.42 km",
+      "3.0042 km",
+      "3.420 km"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "2 km 35 m = 2.035 km; 1 km 7 m = 1.007 km. Total = 2.035 + 1.007 = 3.042 km."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Mathematics",
+    "chapter": "Chapter 8: Decimals",
+    "question": "Sunita bought 5 kg 75 g of potatoes, 2 kg 500 g of tomatoes, and 1 kg 50 g of onions. What is the total weight of her purchases in kilograms?",
+    "options": [
+      "8.625 kg (5.075 + 2.500 + 1.050 = 8.625 kg)",
+      "8.125 kg",
+      "8.650 kg",
+      "8.075 kg"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "5.075 kg + 2.500 kg + 1.050 kg = 8.625 kg."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Mathematics",
+    "chapter": "Chapter 8: Decimals",
+    "question": "Raju bought a book for ₹35.65. He gave a ₹50 note to the shopkeeper. How much money did he get back from the shopkeeper?",
+    "options": [
+      "₹14.35 (50.00 - 35.65 = 14.35)",
+      "₹15.35",
+      "₹14.65",
+      "₹15.65"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "₹50.00 - ₹35.65 = ₹14.35."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Mathematics",
+    "chapter": "Chapter 8: Decimals",
+    "question": "Aakash bought vegetables weighing 10 kg in total. Out of this, 3 kg 500 g is onions, 2 kg 75 g is tomatoes, and the rest is potatoes. What is the weight of the potatoes?",
+    "options": [
+      "4.425 kg (10.000 - (3.500 + 2.075) = 10.000 - 5.575 = 4.425 kg)",
+      "4.575 kg",
+      "4.400 kg",
+      "5.425 kg"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "Total other veggies = 3.500 + 2.075 = 5.575 kg. Potatoes = 10.000 - 5.575 = 4.425 kg."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Mathematics",
+    "chapter": "Chapter 8: Decimals",
+    "question": "Read the statements:\nAssertion (A): 0.8 is strictly greater than 0.79.\nReason (R): In decimal comparison, we compare place values from left to right; the tenths digit in 0.8 (8 tenths = 80 hundredths) is greater than the tenths digit in 0.79 (7 tenths).\nChoose the correct option:",
+    "options": [
+      "Both (A) and (R) are true, and (R) is the correct explanation of (A).",
+      "Both (A) and (R) are true, but (R) is NOT the correct explanation of (A).",
+      "(A) is true, but (R) is false.",
+      "(A) is false, but (R) is true."
+    ],
+    "correctAnswer": 0,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "0.80 > 0.79 because 8 tenths > 7 tenths, regardless of the hundredths digit."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Mathematics",
+    "chapter": "Chapter 8: Decimals",
+    "question": "Spot the IMPOSTER in the following group of equivalent decimal representations:\nGroup: [0.4 = 4/10, 0.4 = 2/5, 0.4 = 40/100, 0.4 = 4/100]",
+    "options": [
+      "0.4 = 4/10",
+      "0.4 = 2/5",
+      "0.4 = 40/100",
+      "0.4 = 4/100"
+    ],
+    "correctAnswer": 3,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "'0.4 = 4/100' is FALSE; 4/100 is equal to 0.04 (4 hundredths), NOT 0.4 (4 tenths)."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Mathematics",
+    "chapter": "Chapter 8: Decimals",
+    "question": "Simplify the composite decimal expression:\n(280.69 + 25.2) - (38.005 + 145.4)",
+    "options": [
+      "122.485 (305.890 - 183.405 = 122.485)",
+      "122.585",
+      "121.485",
+      "123.485"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "305.890 - 183.405 = 122.485."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Mathematics",
+    "chapter": "Chapter 8: Decimals",
+    "question": "Match Column I (Fractions) with Column II (Exact Decimal Equivalents):\n(a) 1/4   -> (i) 0.25\n(b) 3/8   -> (ii) 0.375\n(c) 7/20  -> (iii) 0.35\n(d) 4/25  -> (iv) 0.16",
+    "options": [
+      "a-(i), b-(ii), c-(iii), d-(iv)",
+      "a-(ii), b-(i), c-(iv), d-(iii)",
+      "a-(iv), b-(iii), c-(ii), d-(i)",
+      "a-(iii), b-(iv), c-(i), d-(ii)"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "1/4 = 0.25; 3/8 = 0.375; 7/20 = 35/100 = 0.35; 4/25 = 16/100 = 0.16."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Mathematics",
+    "chapter": "Chapter 8: Decimals",
+    "question": "Read the statements regarding decimals:\nStatement 1: Trailing zeros at the end of a decimal number do not change its numerical value (e.g. 3.5 = 3.50 = 3.500).\nStatement 2: 0.009 is smaller than 0.01.\nStatement 3: 5 kg 8 g is equal to 5.8 kg in decimals.\nWhich statements are TRUE?",
+    "options": [
+      "Statements 1 and 2 only",
+      "Statements 2 and 3 only",
+      "Statements 1 and 3 only",
+      "All Statements 1, 2, and 3"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "Statement 3 is false because 5 kg 8 g = 5 + 8/1000 kg = 5.008 kg (NOT 5.8 kg which is 5 kg 800 g). Statements 1 and 2 are true."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Mathematics",
+    "chapter": "Chapter 8: Decimals",
+    "question": "Arrange the following decimals in DESCENDING (decreasing) order: 2.2, 2.02, 2.22, 2.002, 2.202",
+    "options": [
+      "2.22 > 2.202 > 2.2 > 2.02 > 2.002",
+      "2.2 > 2.22 > 2.202 > 2.02 > 2.002",
+      "2.002 > 2.02 > 2.2 > 2.202 > 2.22",
+      "2.22 > 2.2 > 2.202 > 2.02 > 2.002"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "Aligning 3 decimal places: 2.220 > 2.202 > 2.200 > 2.020 > 2.002."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Mathematics",
+    "chapter": "Chapter 8: Decimals",
+    "question": "A wire of length 20 m is cut into three pieces. The first piece is 4.35 m long and the second piece is 8.7 m long. What is the length of the third piece?",
+    "options": [
+      "6.95 m (20.00 - (4.35 + 8.70) = 20.00 - 13.05 = 6.95 m)",
+      "7.95 m",
+      "6.05 m",
+      "7.05 m"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "4.35 + 8.70 = 13.05 m. Remaining = 20.00 - 13.05 = 6.95 m."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Mathematics",
+    "chapter": "Chapter 8: Decimals",
+    "question": "What number should be added to the sum of 18.05 and 12.9 to get 40?",
+    "options": [
+      "9.05 (40.00 - (18.05 + 12.90) = 40.00 - 30.95 = 9.05)",
+      "8.95",
+      "9.15",
+      "10.05"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "18.05 + 12.90 = 30.95. Required addend = 40.00 - 30.95 = 9.05."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Mathematics",
+    "chapter": "Chapter 8: Decimals",
+    "question": "How is the decimal 1.7 represented accurately on a number line?",
+    "options": [
+      "Between integers 1 and 2, dividing the unit length into 10 equal subdivisions and marking the 7th subdivision from 1",
+      "Between 0 and 1 at 7th subdivision",
+      "Between 7 and 8",
+      "Directly at 1"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "1.7 = 1 + 7/10, situated 7/10ths of the distance from 1 towards 2 on the number line."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Mathematics",
+    "chapter": "Chapter 8: Decimals",
+    "question": "What is the expanded form of the decimal number 253.408 in place-value notation?",
+    "options": [
+      "2 × 100 + 5 × 10 + 3 × 1 + 4 × (1/10) + 0 × (1/100) + 8 × (1/1000)",
+      "2 × 100 + 5 × 10 + 3 × 1 + 4 × 10 + 8 × 100",
+      "253 + 408/100",
+      "200 + 50 + 3 + 4/100 + 8/10"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "200 + 50 + 3 + 4/10 + 0/100 + 8/1000."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Mathematics",
+    "chapter": "Chapter 8: Decimals",
+    "question": "Express 725 paise as rupees, 485 cm as metres, and 3050 g as kilograms respectively in Decimals:",
+    "options": [
+      "₹7.25 ; 4.85 m ; 3.050 kg",
+      "₹72.5 ; 48.5 m ; 30.5 kg",
+      "₹0.725 ; 0.485 m ; 0.305 kg",
+      "₹7.25 ; 48.5 m ; 3.5 kg"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "725 paise = ₹7.25; 485 cm = 4.85 m; 3050 g = 3.050 kg."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Mathematics",
+    "chapter": "Chapter 8: Decimals",
+    "question": "A container has 15.5 litres of milk. If 3.75 litres is used for tea and 6.8 litres is used for sweets, how much milk is left in the container?",
+    "options": [
+      "4.95 litres (15.50 - (3.75 + 6.80) = 15.50 - 10.55 = 4.95 L)",
+      "5.05 L",
+      "4.85 L",
+      "5.95 L"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "Used = 3.75 + 6.80 = 10.55 L. Remaining = 15.50 - 10.55 = 4.95 litres."
+  }
+]

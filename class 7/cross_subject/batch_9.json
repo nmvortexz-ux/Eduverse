@@ -1,0 +1,3842 @@
+[
+  {
+    "classLevel": 7,
+    "subject": "Science",
+    "chapter": "Chapter 9: Motion and Time",
+    "question": "What is defined as the total distance covered by a moving object per unit of time?",
+    "options": [
+      "Speed (Speed = Distance / Time)",
+      "Acceleration",
+      "Velocity only",
+      "Force"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "Speed is the scalar physical rate of change of position: Speed = Distance covered / Time taken."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Science",
+    "chapter": "Chapter 9: Motion and Time",
+    "question": "What is the basic SI unit of SPEED?",
+    "options": [
+      "Metre per second (m/s)",
+      "Kilometre per hour (km/h)",
+      "Metre per minute",
+      "Centimetre per second"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "The standard SI unit of distance is metre (m) and time is second (s), making the SI unit of speed m/s."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Science",
+    "chapter": "Chapter 9: Motion and Time",
+    "question": "What is the basic SI unit of TIME?",
+    "options": [
+      "Second (s)",
+      "Minute (min)",
+      "Hour (h)",
+      "Day"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "The International System of Units (SI) base unit of time is the second (s)."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Science",
+    "chapter": "Chapter 9: Motion and Time",
+    "question": "What type of motion occurs when an object moves along a straight line with a CONSTANT speed?",
+    "options": [
+      "Uniform Motion",
+      "Non-uniform Motion",
+      "Circular Motion",
+      "Periodic Motion"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "Uniform rectilinear motion is motion in a straight path with invariant constant speed."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Science",
+    "chapter": "Chapter 9: Motion and Time",
+    "question": "What is the to-and-fro oscillatory motion of a Simple Pendulum an example of?",
+    "options": [
+      "Periodic Motion (or Oscillatory Motion)",
+      "Rectilinear Motion",
+      "Rotational Motion",
+      "Random Motion"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "A simple pendulum executes periodic oscillatory motion, repeating identical cycles at equal regular intervals."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Science",
+    "chapter": "Chapter 9: Motion and Time",
+    "question": "What is the time taken by a pendulum to complete ONE FULL OSCILLATION called?",
+    "options": [
+      "Time Period (T)",
+      "Frequency",
+      "Amplitude",
+      "Speed"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "The Time Period of a pendulum is the duration required for one complete to-and-fro cycle."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Science",
+    "chapter": "Chapter 9: Motion and Time",
+    "question": "Which ancient astronomical time-measuring instrument at Jantar Mantar (New Delhi and Jaipur) measures time by tracking the moving shadow of the Sun cast on a calibrated dial?",
+    "options": [
+      "Sundial (e.g. Samrat Yantra)",
+      "Water clock",
+      "Sand hourglass",
+      "Pendulum clock"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "A sundial uses the gnomon's solar shadow cast across graduated hour arcs to track solar time."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Science",
+    "chapter": "Chapter 9: Motion and Time",
+    "question": "Which dashboard instrument in automobiles records and indicates the INSTANTANEOUS speed of the vehicle in km/h?",
+    "options": [
+      "Speedometer",
+      "Odometer",
+      "Thermometer",
+      "Barometer"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "A speedometer measures and displays the vehicle's instantaneous travel speed in km/h."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Science",
+    "chapter": "Chapter 9: Motion and Time",
+    "question": "Which vehicle dashboard instrument measures and displays the TOTAL DISTANCE traveled by the vehicle in kilometres?",
+    "options": [
+      "Odometer",
+      "Speedometer",
+      "Altimeter",
+      "Chronometer"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "An odometer (mileometer) computes total cumulative vehicular distance in kilometres."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Science",
+    "chapter": "Chapter 9: Motion and Time",
+    "question": "A car covers a distance of 100 km in 2 hours. What is the average speed of the car?",
+    "options": [
+      "50 km/h (Speed = 100 km / 2 h = 50 km/h)",
+      "200 km/h",
+      "25 km/h",
+      "100 km/h"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "Average speed = Total distance / Total time = 100 km / 2 h = 50 km/h."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Science",
+    "chapter": "Chapter 9: Motion and Time",
+    "question": "What shape does the Distance-Time Graph of an object moving with CONSTANT UNIFORM SPEED have?",
+    "options": [
+      "A straight straight inclined line passing through the origin",
+      "A curved wavy line",
+      "A circle",
+      "A zig-zag line"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "For constant speed, distance is directly proportional to time (d = v·t), yielding a straight linear slope on a distance-time graph."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Science",
+    "chapter": "Chapter 9: Motion and Time",
+    "question": "What does a HORIZONTAL FLAT LINE parallel to the time axis on a Distance-Time Graph represent?",
+    "options": [
+      "The object is stationary (at rest / not moving)",
+      "The object is moving at light speed",
+      "The object is moving backwards",
+      "The object is accelerating"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "Zero slope (horizontal line) indicates distance remains constant as time elapses, meaning speed = 0 (object at rest)."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Science",
+    "chapter": "Chapter 9: Motion and Time",
+    "question": "Which famous Italian scientist discovered that a pendulum of a given length always takes the EXACT SAME TIME to complete one oscillation (Isochronism of the Pendulum)?",
+    "options": [
+      "Galileo Galilei (in 1583)",
+      "Isaac Newton",
+      "Albert Einstein",
+      "René Laennec"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "Galileo observed swinging cathedral chandeliers and proved that pendulum period depends solely on length, independent of mass or small amplitude."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Science",
+    "chapter": "Chapter 9: Motion and Time",
+    "question": "A simple pendulum takes 32 seconds to complete 20 full oscillations. What is the TIME PERIOD of the pendulum?",
+    "options": [
+      "1.6 seconds (Time Period = Total time / Number of oscillations = 32 / 20 = 1.6 s)",
+      "0.625 s",
+      "640 s",
+      "2.0 s"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "Time period T = 32 s / 20 = 1.6 seconds per oscillation."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Science",
+    "chapter": "Chapter 9: Motion and Time",
+    "question": "Convert a speed of 72 km/h into metres per second (m/s):",
+    "options": [
+      "20 m/s (72 × (5 / 18) = 4 × 5 = 20 m/s)",
+      "25 m/s",
+      "15 m/s",
+      "30 m/s"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "Conversion factor: 1 km/h = 5/18 m/s. 72 × (5/18) = 20 m/s."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Science",
+    "chapter": "Chapter 9: Motion and Time",
+    "question": "Convert a speed of 15 m/s into kilometres per hour (km/h):",
+    "options": [
+      "54 km/h (15 × (18 / 5) = 3 × 18 = 54 km/h)",
+      "60 km/h",
+      "45 km/h",
+      "50 km/h"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "Conversion factor: 1 m/s = 18/5 km/h. 15 × (18/5) = 54 km/h."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Science",
+    "chapter": "Chapter 9: Motion and Time",
+    "question": "A train is traveling at a speed of 90 km/h. How much distance in kilometres will it cover in 20 minutes?",
+    "options": [
+      "30 km (Time = 20/60 h = 1/3 h ; Distance = 90 × (1/3) = 30 km)",
+      "45 km",
+      "25 km",
+      "60 km"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "20 min = 1/3 h. Distance = 90 km/h × 1/3 h = 30 km."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Science",
+    "chapter": "Chapter 9: Motion and Time",
+    "question": "The odometer of a car reads 57321.0 km at 08:30 AM. At 08:50 AM, the odometer reading increases to 57336.0 km. Calculate the speed of the car in km/min and km/h:",
+    "options": [
+      "0.75 km/min and 45 km/h (Distance = 15 km ; Time = 20 min = 1/3 h ; Speed = 15 / 20 = 0.75 km/min ; Speed = 15 / (1/3) = 45 km/h)",
+      "0.5 km/min and 30 km/h",
+      "1.0 km/min and 60 km/h",
+      "0.8 km/min and 48 km/h"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "Δd = 15 km, Δt = 20 min (1/3 h). Speed = 15/20 = 0.75 km/min = 45 km/h."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Science",
+    "chapter": "Chapter 9: Motion and Time",
+    "question": "Salma takes 15 minutes from her house to reach her school on a bicycle. If the bicycle has a speed of 2 m/s, calculate the distance between her house and school in metres and kilometres:",
+    "options": [
+      "1,800 m or 1.8 km (Time = 15 × 60 = 900 s ; Distance = 2 m/s × 900 s = 1,800 m = 1.8 km)",
+      "1,200 m or 1.2 km",
+      "2,400 m or 2.4 km",
+      "1,500 m or 1.5 km"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "Time = 15 × 60 = 900 s. Distance = 2 m/s × 900 s = 1800 m = 1.8 km."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Science",
+    "chapter": "Chapter 9: Motion and Time",
+    "question": "How do modern electronic Quartz Clocks and wristwatches measure time with extreme precision?",
+    "options": [
+      "They contain a micro-electric circuit driven by the extremely steady, high-frequency piezoelectric vibrations of a tiny Quartz Crystal (32,768 Hz)",
+      "They have tiny gears moved by running water",
+      "They contain tiny burning candles",
+      "They track shadows inside the watch"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "Piezoelectric quartz crystals oscillate at precisely 32,768 Hz when energized, providing accurate electronic frequency division."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Science",
+    "chapter": "Chapter 9: Motion and Time",
+    "question": "What physical property determines the Time Period of a simple pendulum?",
+    "options": [
+      "The LENGTH of the pendulum string (T = 2π√(L/g)) ; it is independent of the mass of the bob or small amplitude swings",
+      "The color of the bob",
+      "The heaviness of the bob only",
+      "The room temperature"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "Period T depends only on pendulum length L and gravitational acceleration g (T = 2π√(L/g))."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Science",
+    "chapter": "Chapter 9: Motion and Time",
+    "question": "What does a CURVED line with increasing steepness on a Distance-Time Graph indicate?",
+    "options": [
+      "Non-uniform motion with accelerating (increasing) speed",
+      "Uniform constant speed",
+      "The object is at rest",
+      "The object is going backwards in time"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "A convex ascending curve shows that distance increases at an accelerating rate per unit time, indicating acceleration."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Science",
+    "chapter": "Chapter 9: Motion and Time",
+    "question": "Which of the following natural events was used by ancient humans to measure a 'MONTH'?",
+    "options": [
+      "The time between one New Moon and the NEXT New Moon (Lunar Cycle ~ 29.5 days)",
+      "The time between one sunrise and the next",
+      "The time taken for a tree to grow fruit",
+      "The time taken for a river to dry"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "Synodic lunar month: the 29.53-day cycle between successive new moons formed the basis of calendar months."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Science",
+    "chapter": "Chapter 9: Motion and Time",
+    "question": "Which of the following natural events was used by ancient humans to measure a 'YEAR'?",
+    "options": [
+      "The time taken by the Earth to complete one full revolution around the Sun (approx. 365 1/4 days, marked by seasonal cycles)",
+      "The time between morning and evening",
+      "The duration of a single rainfall",
+      "The life of a flower"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "The solar year is defined by Earth's heliocentric orbital revolution (~365.25 days) governing the annual return of seasons."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Science",
+    "chapter": "Chapter 9: Motion and Time",
+    "question": "A rocket travels at a speed of 8 km/s. How much time will it take to reach a satellite stationed 36,000 km away in orbit?",
+    "options": [
+      "4,500 seconds or 1.25 hours (Time = 36,000 / 8 = 4,500 s = 75 min = 1.25 h)",
+      "3,600 seconds",
+      "4,000 seconds",
+      "5,000 seconds"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "Time = 36,000 km / 8 km/s = 4500 seconds (75 minutes / 1.25 hours)."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Science",
+    "chapter": "Chapter 9: Motion and Time",
+    "question": "If two cars A and B are moving in the same direction, and on a Distance-Time graph the line for Car A is STEEPER than the line for Car B, what does this conclude?",
+    "options": [
+      "Car A is moving FASTER than Car B (Steeper slope = Higher speed)",
+      "Car B is faster than Car A",
+      "Both cars have equal speed",
+      "Car A has stopped moving"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "Slope of distance-time graph = Δd/Δt = Speed. Greater slope signifies higher velocity."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Science",
+    "chapter": "Chapter 9: Motion and Time",
+    "question": "What is the speed of a cheetah that runs a distance of 100 metres in exactly 4 seconds?",
+    "options": [
+      "25 m/s or 90 km/h (Speed = 100 / 4 = 25 m/s ; 25 × (18/5) = 90 km/h)",
+      "20 m/s or 72 km/h",
+      "30 m/s or 108 km/h",
+      "15 m/s or 54 km/h"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "Speed = 100 m / 4 s = 25 m/s = 25 × 3.6 = 90 km/h."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Science",
+    "chapter": "Chapter 9: Motion and Time",
+    "question": "What is the speed of sound in dry air at room temperature (approx. 20°C)?",
+    "options": [
+      "Approx. 343 m/s (approx. 1,235 km/h)",
+      "3,000 m/s",
+      "30 m/s",
+      "300,000 km/s"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "The acoustic velocity of sound in dry air at 20°C is approximately 343 m/s (1,235 km/h)."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Science",
+    "chapter": "Chapter 9: Motion and Time",
+    "question": "Read the statements:\nAssertion (A): The slope of a Distance-Time graph represents the instantaneous or uniform Speed of a moving body.\nReason (R): Slope on a Cartesian plane is defined as the vertical change (Δy = Distance) divided by the horizontal change (Δx = Time), which is the exact mathematical definition of Speed (v = Δs / Δt).\nChoose the correct option:",
+    "options": [
+      "Both (A) and (R) are true, and (R) is the correct explanation of (A).",
+      "Both (A) and (R) are true, but (R) is NOT the correct explanation of (A).",
+      "(A) is true, but (R) is false.",
+      "(A) is false, but (R) is true."
+    ],
+    "correctAnswer": 0,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "Geometric calculus: derivative / slope of displacement with respect to time (ds/dt) equals speed."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Science",
+    "chapter": "Chapter 9: Motion and Time",
+    "question": "Spot the IMPOSTER in the following group of Time-Measuring Devices and their operating principles:\nGroup:\n1. Sundial - Gnomon solar shadow cast by earth's rotation\n2. Water Clock (Clepsydra) - Regulated inflow/outflow of liquid through narrow orifice\n3. Quartz Watch - High-frequency piezoelectric crystal oscillations\n4. Simple Pendulum - Burning chemical powder to move wheels",
+    "options": [
+      "Device 1",
+      "Device 2",
+      "Device 3",
+      "Device 4 (A simple pendulum uses MECHANICAL GRAVITATIONAL HARMONIC OSCILLATION, not burning gunpowder)"
+    ],
+    "correctAnswer": 3,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "Device 4 is an imposter: a pendulum operates on gravitational restorative torque, not combustion."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Science",
+    "chapter": "Chapter 9: Motion and Time",
+    "question": "If a simple pendulum of length L has a time period of 2.0 seconds, what will happen to its time period if its length is increased by FOUR TIMES (4L)?",
+    "options": [
+      "The time period will DOUBLE to 4.0 seconds (Since T ∝ √L, T' = √(4) × T = 2 × 2.0 = 4.0 s)",
+      "The time period will quadruple to 8.0 s",
+      "The time period will reduce to 1.0 s",
+      "The time period remains unchanged at 2.0 s"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "Formula T = 2π√(L/g). If length becomes 4L, new period T' = √(4) × T = 2 × 2.0 = 4.0 s."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Science",
+    "chapter": "Chapter 9: Motion and Time",
+    "question": "Match Column I (Speed & Time Concepts) with Column II (Exact Definitions & Formulas):\n(a) Speedometer          -> (i) Instantaneous vehicular speed in km/h\n(b) Odometer             -> (ii) Cumulative distance traversed in km\n(c) Slope of D-T Graph   -> (iii) Rate of change of distance yielding speed\n(d) Atomic Clock (Cesium)-> (iv) Ultra-precise atomic microwave resonance (loss < 1 sec in millions of years)",
+    "options": [
+      "a-(i), b-(ii), c-(iii), d-(iv)",
+      "a-(ii), b-(i), c-(iv), d-(iii)",
+      "a-(iv), b-(iii), c-(ii), d-(i)",
+      "a-(iii), b-(iv), c-(i), d-(ii)"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "Speedometer = instantaneous speed; Odometer = distance; Slope = speed; Cesium clock = atomic frequency standard."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Science",
+    "chapter": "Chapter 9: Motion and Time",
+    "question": "Read the statements regarding kinematics:\nStatement 1: The speed of light in vacuum (c ≈ 300,000 km/s) is the universal cosmic speed limit.\nStatement 2: A stationary body produces a horizontal line on a distance-time graph.\nStatement 3: An object moving in a circle with constant speed has zero acceleration.\nWhich statements are TRUE?",
+    "options": [
+      "Statements 1 and 2 only",
+      "Statements 2 and 3 only",
+      "Statements 1 and 3 only",
+      "All Statements 1, 2, and 3"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "Statement 3 is false (circular motion constantly changes direction, experiencing centripetal acceleration). Statements 1 and 2 are true."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Science",
+    "chapter": "Chapter 9: Motion and Time",
+    "question": "A bus travels the first 30 km of its trip at a uniform speed of 30 km/h, and the next 30 km at a uniform speed of 60 km/h. What is the AVERAGE SPEED of the bus for the entire 60 km journey?",
+    "options": [
+      "40 km/h (Total Distance = 60 km ; Time 1 = 30/30 = 1 h ; Time 2 = 30/60 = 0.5 h ; Total Time = 1.5 h ; Avg Speed = 60 / 1.5 = 40 km/h)",
+      "45 km/h (Arithmetic mean error)",
+      "50 km/h",
+      "35 km/h"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "Harmonic average speed: Total distance (60 km) / Total time (1.5 h) = 40 km/h (NEVER arithmetic average (30+60)/2=45)."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Science",
+    "chapter": "Chapter 9: Motion and Time",
+    "question": "Why do international scientific metrology standards define 1 Second using the Cesium-133 Atomic Clock rather than astronomical earth rotation?",
+    "options": [
+      "Earth's orbital rotation experiences slight irregularities due to tidal friction and mass redistribution, whereas the Cesium-133 atomic hyperfine transition frequency (9,192,631,770 Hz) is invariant and absolute",
+      "Because watches run out of batteries",
+      "Because the Sun is cooling down",
+      "Because the moon is drifting away"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "SI second is defined by 9,192,631,770 hyperfine transitions of Cs-133 ground state, eliminating planetary rotational perturbations."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Science",
+    "chapter": "Chapter 9: Motion and Time",
+    "question": "Consider four kinematic events:\n1. A stone dropped from a tall cliff\n2. Hands of a wall clock rotating\n3. An airplane cruising at steady 800 km/h\n4. A child swinging on a playground swing\nWhich of these represent PERIODIC OSCILLATORY OR CYCLIC MOTION?",
+    "options": [
+      "Events 2 and 4 only",
+      "Events 1 and 3 only",
+      "Events 1, 2, and 4 only",
+      "All 1, 2, 3, and 4"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "Clock hands (cyclic rotation) and swing (oscillatory pendulum) execute periodic motion with constant time periods."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Science",
+    "chapter": "Chapter 9: Motion and Time",
+    "question": "What mathematical property explains why a Simple Pendulum's time period remains CONSTANT even if its bob's mass is increased from 50 g to 500 g?",
+    "options": [
+      "In the pendulum equation T = 2π√(L/g), mass 'm' does not appear; inertial resistance cancels gravitational restoring force identically for all masses",
+      "Because larger mass makes the pendulum longer",
+      "Because heavier bob pushes air away",
+      "Because gravity acts only on light objects"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "Equivalence principle: gravitational mass equals inertial mass, so acceleration and period are strictly mass-independent."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Science",
+    "chapter": "Chapter 9: Motion and Time",
+    "question": "If the Distance-Time graph of a moving vehicle is a straight line sloping DOWNWARDS from left to right, what does it signify?",
+    "options": [
+      "The vehicle is returning back towards the starting reference origin point at a uniform speed",
+      "The vehicle has negative mass",
+      "Time is moving backwards",
+      "The car is falling off a cliff"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "Negative displacement slope indicates uniform return motion reducing distance relative to the frame of reference."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Science",
+    "chapter": "Chapter 9: Motion and Time",
+    "question": "How does GPS (Global Positioning System) navigation calculate a car's real-time position and speed?",
+    "options": [
+      "By calculating precise time-of-flight radio signal delays from atomic clocks aboard multiple orbiting GPS satellites to triangulate position and velocity",
+      "By taking photos of road signs",
+      "By measuring air pressure around wheels",
+      "By counting wheel revolutions only"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "GPS trilateration measures nanosecond radio signal transit delays (d = c·Δt) from ≥4 atomic satellite clocks."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Science",
+    "chapter": "Chapter 9: Motion and Time",
+    "question": "What master scientific principle is established in Chapter 9 of NCERT Class 7 Science?",
+    "options": [
+      "Quantitative measurement of physical motion and temporal duration—from ancient shadow gnomons and pendulums to modern quartz oscillators and graphical kinematics—forms the bedrock of physics, astronomy, technology, and navigation",
+      "That time cannot be measured accurately",
+      "That speed is always random",
+      "That clocks only work when someone watches them"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "Chapter 9 establishes fundamental kinematics: scalar rates, periodic isochronism, metrology history, and Cartesian graphical analysis."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Mathematics",
+    "chapter": "Chapter 9: Perimeter and Area",
+    "question": "What is the formula for finding the PERIMETER of a Rectangle of length l and breadth b?",
+    "options": [
+      "Perimeter = 2 × (l + b)",
+      "Perimeter = l × b",
+      "Perimeter = 4 × l",
+      "Perimeter = l + b"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "Rectangle perimeter P = 2(length + breadth)."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Mathematics",
+    "chapter": "Chapter 9: Perimeter and Area",
+    "question": "What is the formula for the AREA of a Square of side 'a'?",
+    "options": [
+      "Area = a² (Side × Side)",
+      "Area = 4 × a",
+      "Area = 2 × a",
+      "Area = a / 4"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "Area of a square = side × side = a²."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Mathematics",
+    "chapter": "Chapter 9: Perimeter and Area",
+    "question": "What is the formula for the AREA of a PARALLELOGRAM with base 'b' and corresponding height 'h'?",
+    "options": [
+      "Area = Base × Height (b × h)",
+      "Area = 1/2 × b × h",
+      "Area = 2 × (b + h)",
+      "Area = b² × h"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "Area of a parallelogram = base × corresponding height (b × h)."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Mathematics",
+    "chapter": "Chapter 9: Perimeter and Area",
+    "question": "What is the formula for the AREA of a TRIANGLE with base 'b' and height 'h'?",
+    "options": [
+      "Area = 1/2 × Base × Height (1/2 × b × h)",
+      "Area = b × h",
+      "Area = 2 × b × h",
+      "Area = (b + h) / 2"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "A triangle is half of a parallelogram, so Area = 1/2 × base × height."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Mathematics",
+    "chapter": "Chapter 9: Perimeter and Area",
+    "question": "What is the formula for the CIRCUMFERENCE (perimeter) of a circle of radius 'r' (or diameter 'd')?",
+    "options": [
+      "Circumference = 2πr (or πd)",
+      "Circumference = πr²",
+      "Circumference = 4πr",
+      "Circumference = 2πr²"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "Circumference of a circle C = 2πr = πd."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Mathematics",
+    "chapter": "Chapter 9: Perimeter and Area",
+    "question": "What is the formula for the AREA of a Circle of radius 'r'?",
+    "options": [
+      "Area = πr²",
+      "Area = 2πr",
+      "Area = πd",
+      "Area = 4πr²"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "Area enclosed by a circle A = πr²."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Mathematics",
+    "chapter": "Chapter 9: Perimeter and Area",
+    "question": "How many square metres (m²) are there in 1 HECTARE?",
+    "options": [
+      "10,000 m² (1 Hectare = 100 m × 100 m = 10,000 m²)",
+      "1,000 m²",
+      "100 m²",
+      "100,000 m²"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "1 hectare = 10,000 m² (a square of 100 m × 100 m)."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Mathematics",
+    "chapter": "Chapter 9: Perimeter and Area",
+    "question": "Find the Circumference of a circle of radius 14 cm (Take π = 22/7):",
+    "options": [
+      "88 cm (C = 2 × (22/7) × 14 = 2 × 22 × 2 = 88 cm)",
+      "44 cm",
+      "176 cm",
+      "616 cm"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "C = 2 × (22/7) × 14 = 88 cm."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Mathematics",
+    "chapter": "Chapter 9: Perimeter and Area",
+    "question": "Find the Area of a circle of radius 7 cm (Take π = 22/7):",
+    "options": [
+      "154 cm² (Area = (22/7) × 7 × 7 = 154 cm²)",
+      "44 cm²",
+      "308 cm²",
+      "77 cm²"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "Area = (22/7) × 7² = 154 cm²."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Mathematics",
+    "chapter": "Chapter 9: Perimeter and Area",
+    "question": "Find the Area of a square park whose perimeter is 320 m:",
+    "options": [
+      "6,400 m² (Side = 320 / 4 = 80 m ; Area = 80 × 80 = 6,400 m²)",
+      "3,200 m²",
+      "1,600 m²",
+      "8,000 m²"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "Side = 320 / 4 = 80 m. Area = 80² = 6,400 m²."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Mathematics",
+    "chapter": "Chapter 9: Perimeter and Area",
+    "question": "Find the Area of a triangle with base = 15 cm and corresponding height = 6 cm:",
+    "options": [
+      "45 cm² (Area = 1/2 × 15 × 6 = 15 × 3 = 45 cm²)",
+      "90 cm²",
+      "30 cm²",
+      "60 cm²"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "Area = 1/2 × 15 × 6 = 45 cm²."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Mathematics",
+    "chapter": "Chapter 9: Perimeter and Area",
+    "question": "Find the Area of a parallelogram with base = 8 cm and height = 4.5 cm:",
+    "options": [
+      "36 cm² (Area = 8 × 4.5 = 36 cm²)",
+      "18 cm²",
+      "72 cm²",
+      "25 cm²"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "Area = 8 × 4.5 = 36 cm²."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Mathematics",
+    "chapter": "Chapter 9: Perimeter and Area",
+    "question": "A door of length 2 m and breadth 1 m is fitted in a wall. The length of the wall is 4.5 m and the breadth is 3.6 m. Find the cost of white washing the wall at the rate of Rs 20 per m²:",
+    "options": [
+      "Rs 284 (Wall Area = 4.5 × 3.6 = 16.2 m² ; Door Area = 2 × 1 = 2 m² ; Area to whitewash = 16.2 - 2 = 14.2 m² ; Cost = 14.2 × 20 = Rs 284)",
+      "Rs 324",
+      "Rs 260",
+      "Rs 300"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "Area to whitewash = 16.2 - 2.0 = 14.2 m². Cost = 14.2 × 20 = Rs 284."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Mathematics",
+    "chapter": "Chapter 9: Perimeter and Area",
+    "question": "The area of a square and a rectangle are equal. If the side of the square is 40 cm and the breadth of the rectangle is 25 cm, find the length of the rectangle and its perimeter:",
+    "options": [
+      "Length = 64 cm ; Perimeter = 178 cm (Area = 40² = 1600 cm² ; Length = 1600 / 25 = 64 cm ; Perimeter = 2(64 + 25) = 2 × 89 = 178 cm)",
+      "Length = 50 cm ; Perimeter = 150 cm",
+      "Length = 60 cm ; Perimeter = 170 cm",
+      "Length = 64 cm ; Perimeter = 160 cm"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "Area = 1600. Length = 1600 / 25 = 64 cm. Perimeter = 2(64 + 25) = 178 cm."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Mathematics",
+    "chapter": "Chapter 9: Perimeter and Area",
+    "question": "A wire is in the shape of a rectangle of length 40 cm and breadth 22 cm. If the SAME wire is rebent in the shape of a square, what will be the measure of each side of the square and which shape encloses more area?",
+    "options": [
+      "Side of square = 31 cm ; The SQUARE encloses more area (Perimeter = 2(40+22) = 124 cm ; Side = 124/4 = 31 cm ; Square Area = 31² = 961 cm² > Rect Area = 40×22 = 880 cm²)",
+      "Side = 30 cm ; Rectangle encloses more",
+      "Side = 31 cm ; Both have equal area",
+      "Side = 32 cm ; Square encloses more"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "Wire length = 124 cm. Square side = 31 cm. Area of square (961 cm²) > Area of rectangle (880 cm²)."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Mathematics",
+    "chapter": "Chapter 9: Perimeter and Area",
+    "question": "A garden is 90 m long and 75 m broad. A path 5 m wide is to be built outside and around it. Find the AREA OF THE PATH in m² and in hectares:",
+    "options": [
+      "1,750 m² (0.175 hectares) (Outer dim = 100 m × 85 m ; Outer Area = 8,500 m² ; Inner Area = 90 × 75 = 6,750 m² ; Path Area = 8,500 - 6,750 = 1,750 m² = 0.175 ha)",
+      "1,500 m² (0.15 ha)",
+      "2,000 m² (0.2 ha)",
+      "1,650 m² (0.165 ha)"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "Outer rectangle = 100 × 85 = 8500 m². Inner = 90 × 75 = 6750 m². Path = 8500 - 6750 = 1750 m² = 0.175 hectare."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Mathematics",
+    "chapter": "Chapter 9: Perimeter and Area",
+    "question": "A picture is painted on a cardboard 8 cm long and 5 cm wide such that there is a margin of 1.5 cm along each of its sides. Find the total AREA OF THE MARGIN:",
+    "options": [
+      "30 cm² (Outer Area = 8 × 5 = 40 cm² ; Inner dim = (8 - 3) × (5 - 3) = 5 cm × 2 cm ; Inner Area = 10 cm² ; Margin Area = 40 - 10 = 30 cm²)",
+      "25 cm²",
+      "35 cm²",
+      "20 cm²"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "Outer = 40 cm². Inner = 5 × 2 = 10 cm². Margin = 40 - 10 = 30 cm²."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Mathematics",
+    "chapter": "Chapter 9: Perimeter and Area",
+    "question": "Two cross roads, each of width 10 m, cut at right angles through the centre of a rectangular park of length 700 m and breadth 300 m and parallel to its sides. Find the total AREA OF THE ROADS:",
+    "options": [
+      "9,900 m² (0.99 hectares) (Road 1 = 700 × 10 = 7,000 ; Road 2 = 300 × 10 = 3,000 ; Common intersection = 10 × 10 = 100 ; Total = 7,000 + 3,000 - 100 = 9,900 m²)",
+      "10,000 m²",
+      "9,800 m²",
+      "9,500 m²"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "Area of cross roads = 700(10) + 300(10) - 10² = 7000 + 3000 - 100 = 9,900 m²."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Mathematics",
+    "chapter": "Chapter 9: Perimeter and Area",
+    "question": "From a circular sheet of radius 4 cm, a concentric circle of radius 3 cm is removed. Find the AREA OF THE REMAINING SHEET (Take π = 3.14):",
+    "options": [
+      "21.98 cm² (Area = π × (R² - r²) = 3.14 × (16 - 9) = 3.14 × 7 = 21.98 cm²)",
+      "22.5 cm²",
+      "20.84 cm²",
+      "25.12 cm²"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "Remaining area = π(4² - 3²) = 3.14 × 7 = 21.98 cm²."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Mathematics",
+    "chapter": "Chapter 9: Perimeter and Area",
+    "question": "A gardener wants to fence a circular garden of diameter 21 m. Find the length of rope he needs to purchase if he makes 2 rounds of fence, and the cost of rope at Rs 4 per metre (Take π = 22/7):",
+    "options": [
+      "Length of rope = 132 m ; Cost = Rs 528 (Circumference = (22/7) × 21 = 66 m ; 2 rounds = 66 × 2 = 132 m ; Cost = 132 × 4 = Rs 528)",
+      "Length = 66 m ; Cost = Rs 264",
+      "Length = 132 m ; Cost = Rs 600",
+      "Length = 150 m ; Cost = Rs 528"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "C = πd = (22/7) × 21 = 66 m. Two rounds = 132 m. Cost = 132 × 4 = Rs 528."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Mathematics",
+    "chapter": "Chapter 9: Perimeter and Area",
+    "question": "The circumference of a circle is 31.4 cm. Find the radius and the area of the circle (Take π = 3.14):",
+    "options": [
+      "Radius = 5 cm ; Area = 78.5 cm² (2 × 3.14 × r = 31.4 ⇒ r = 5 cm ; Area = 3.14 × 5² = 3.14 × 25 = 78.5 cm²)",
+      "Radius = 10 cm ; Area = 314 cm²",
+      "Radius = 5 cm ; Area = 154 cm²",
+      "Radius = 7 cm ; Area = 154 cm²"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "r = 31.4 / (2 × 3.14) = 5 cm. Area = 3.14 × 25 = 78.5 cm²."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Mathematics",
+    "chapter": "Chapter 9: Perimeter and Area",
+    "question": "A circular flower bed is surrounded by a path 4 m wide. The diameter of the flower bed is 66 m. What is the AREA OF THIS PATH? (Take π = 3.14)",
+    "options": [
+      "879.2 m² (Inner radius r = 33 m ; Outer radius R = 33 + 4 = 37 m ; Path Area = π(R² - r²) = 3.14 × (37² - 33²) = 3.14 × (1369 - 1089) = 3.14 × 280 = 879.2 m²)",
+      "850.5 m²",
+      "900.2 m²",
+      "864.0 m²"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "Ring area = π(37² - 33²) = 3.14 × (70 × 4) = 3.14 × 280 = 879.2 m²."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Mathematics",
+    "chapter": "Chapter 9: Perimeter and Area",
+    "question": "A circular flower garden has an area of 314 m². A sprinkler at the centre of the garden can cover an area that has a radius of 12 m. Will the sprinkler water the ENTIRE garden? (Take π = 3.14)",
+    "options": [
+      "Yes, because the sprinkler covers an area of 452.16 m² (π × 12² = 3.14 × 144 = 452.16 m²), which is greater than the garden's area of 314 m²",
+      "No, the sprinkler only waters 200 m²",
+      "No, because the radius is too small",
+      "Cannot be determined"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "Garden radius = √(314/3.14) = 10 m. Sprinkler radius = 12 m > 10 m, so it covers the entire garden."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Mathematics",
+    "chapter": "Chapter 9: Perimeter and Area",
+    "question": "How many times a wheel of radius 28 cm must rotate to go a distance of 352 m? (Take π = 22/7)",
+    "options": [
+      "200 rotations (Circumference = 2 × (22/7) × 28 = 176 cm = 1.76 m ; Rotations = 352 / 1.76 = 200)",
+      "100 rotations",
+      "300 rotations",
+      "250 rotations"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "C = 2 × (22/7) × 28 = 176 cm = 1.76 m. Rotations = 352 / 1.76 = 200."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Mathematics",
+    "chapter": "Chapter 9: Perimeter and Area",
+    "question": "The minute hand of a circular clock is 15 cm long. How far does the TIP of the minute hand move in 1 hour? (Take π = 3.14)",
+    "options": [
+      "94.2 cm (In 1 hour, the minute hand completes 1 full rotation = Circumference = 2 × 3.14 × 15 = 94.2 cm)",
+      "47.1 cm",
+      "150 cm",
+      "31.4 cm"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "Distance = 2πr = 2 × 3.14 × 15 = 94.2 cm."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Mathematics",
+    "chapter": "Chapter 9: Perimeter and Area",
+    "question": "The area of a triangle is 50 cm². If one of its sides is 20 cm, find the corresponding altitude (height) to that side:",
+    "options": [
+      "5 cm (Area = 1/2 × b × h ⇒ 50 = 1/2 × 20 × h ⇒ 50 = 10h ⇒ h = 5 cm)",
+      "10 cm",
+      "2.5 cm",
+      "4 cm"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "50 = ½(20)h → 10h = 50 → h = 5 cm."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Mathematics",
+    "chapter": "Chapter 9: Perimeter and Area",
+    "question": "Find the perimeter of a semicircle of radius 7 cm including its diameter base (Take π = 22/7):",
+    "options": [
+      "36 cm (Perimeter = πr + 2r = (22/7) × 7 + 14 = 22 + 14 = 36 cm)",
+      "44 cm",
+      "22 cm",
+      "29 cm"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "Perimeter of closed semicircle = πr + 2r = 22 + 14 = 36 cm."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Mathematics",
+    "chapter": "Chapter 9: Perimeter and Area",
+    "question": "Convert 5.4 m² into cm²:",
+    "options": [
+      "54,000 cm² (1 m² = 10,000 cm² ; 5.4 × 10,000 = 54,000 cm²)",
+      "540 cm²",
+      "5,400 cm²",
+      "540,000 cm²"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "5.4 × 10,000 = 54,000 cm²."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Mathematics",
+    "chapter": "Chapter 9: Perimeter and Area",
+    "question": "Read the statements:\nAssertion (A): Among all 2D plane geometric figures with a FIXED, GIVEN PERIMETER, the CIRCLE encloses the MAXIMUM possible AREA (Isoperimetric Inequality).\nReason (R): For a given perimeter P = 44 cm, a square encloses Area = (11)² = 121 cm², whereas a circle of circumference 44 cm encloses Area = (22/7) × (7)² = 154 cm² (154 > 121).\nChoose the correct option:",
+    "options": [
+      "Both (A) and (R) are true, and (R) is the correct explanation of (A).",
+      "Both (A) and (R) are true, but (R) is NOT the correct explanation of (A).",
+      "(A) is true, but (R) is false.",
+      "(A) is false, but (R) is true."
+    ],
+    "correctAnswer": 0,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "Isoperimetric theorem: circle maximizes area for given perimeter (A_circle = 154 cm² > A_square = 121 cm²)."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Mathematics",
+    "chapter": "Chapter 9: Perimeter and Area",
+    "question": "Spot the IMPOSTER in the following area and metric unit conversion formulas:\nGroup:\n1. Area of Parallelogram = Base × Height\n2. 1 Hectare = 10,000 m²\n3. Area of Triangle = 1/2 × Base × Height\n4. Circumference of Circle = πr²",
+    "options": [
+      "Formula 1",
+      "Formula 2",
+      "Formula 3",
+      "Formula 4 (Circumference is 2πr or πd ; πr² is the formula for the AREA of a circle)"
+    ],
+    "correctAnswer": 3,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "Circumference = 2πr; πr² is the area of a circle."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Mathematics",
+    "chapter": "Chapter 9: Perimeter and Area",
+    "question": "In ΔABC, right-angled at A, AD is perpendicular to BC. If AB = 5 cm, BC = 13 cm, and AC = 12 cm, find the Area of ΔABC and the length of AD:",
+    "options": [
+      "Area = 30 cm² ; AD = 4.61 cm (60/13 cm) (Area = 1/2 × 5 × 12 = 30 cm² ; Also Area = 1/2 × BC × AD ⇒ 30 = 1/2 × 13 × AD ⇒ AD = 60/13 ≈ 4.61 cm)",
+      "Area = 60 cm² ; AD = 5 cm",
+      "Area = 30 cm² ; AD = 6 cm",
+      "Area = 65 cm² ; AD = 4.61 cm"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "Area = ½(5)(12) = 30 cm². Also 30 = ½(13)(AD) → AD = 60/13 ≈ 4.615 cm."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Mathematics",
+    "chapter": "Chapter 9: Perimeter and Area",
+    "question": "Match Column I (Geometric Figures with Dimensions) with Column II (Calculated Areas):\n(a) Square of perimeter 60 cm              -> (i) 225 cm² (Side = 15 cm ; Area = 15² = 225)\n(b) Circle of radius 7 cm                  -> (ii) 154 cm²\n(c) Parallelogram (base 12 cm, height 8 cm)-> (iii) 96 cm²\n(d) Triangle (base 14 cm, height 10 cm)    -> (iv) 70 cm²",
+    "options": [
+      "a-(i), b-(ii), c-(iii), d-(iv)",
+      "a-(ii), b-(i), c-(iv), d-(iii)",
+      "a-(iv), b-(iii), c-(ii), d-(i)",
+      "a-(iii), b-(iv), c-(i), d-(ii)"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "Square: 15² = 225; Circle: 22/7(49) = 154; Parallelogram: 12×8 = 96; Triangle: ½(14)(10) = 70."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Mathematics",
+    "chapter": "Chapter 9: Perimeter and Area",
+    "question": "Read the statements regarding metric area relationships:\nStatement 1: If the radius of a circle is DOUBLED, its area increases by FOUR TIMES (4×).\nStatement 2: If the side of a square is increased by 10%, its area increases by 21%.\nStatement 3: 1 square kilometre is equal to 1,000 square metres.\nWhich statements are TRUE?",
+    "options": [
+      "Statements 1 and 2 only",
+      "Statements 2 and 3 only",
+      "Statements 1 and 3 only",
+      "All Statements 1, 2, and 3"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "Statement 3 is false (1 km² = 1,000,000 m² = 100 hectares). Statement 1 (A ∝ r²) and Statement 2 ((1.1)² = 1.21) are true."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Mathematics",
+    "chapter": "Chapter 9: Perimeter and Area",
+    "question": "If the ratio of the areas of two circles is 49 : 64, find the RATIO OF THEIR CIRCUMFERENCES:",
+    "options": [
+      "7 : 8 (Area ratio = (r1/r2)² = 49/64 ⇒ r1/r2 = 7/8 ; Circumference ratio = 2πr1 / 2πr2 = r1/r2 = 7 : 8)",
+      "49 : 64",
+      "14 : 16",
+      "343 : 512"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "Circumference ratio equals radius ratio = √(49/64) = 7/8."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Mathematics",
+    "chapter": "Chapter 9: Perimeter and Area",
+    "question": "A racetrack is in the form of a circular ring whose inner circumference is 352 m and outer circumference is 396 m. Find the WIDTH of the track (Take π = 22/7):",
+    "options": [
+      "7 m (Outer radius R = 396 / (2 × 22/7) = 63 m ; Inner radius r = 352 / (2 × 22/7) = 56 m ; Width = R - r = 63 - 56 = 7 m)",
+      "14 m",
+      "3.5 m",
+      "10 m"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "R = 396 / 44 × 7 = 63 m. r = 352 / 44 × 7 = 56 m. Width = 63 - 56 = 7 m."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Mathematics",
+    "chapter": "Chapter 9: Perimeter and Area",
+    "question": "A wire loop of radius 21 cm is straightened and then bent into an equilateral triangle. Find the length of each side of the triangle (Take π = 22/7):",
+    "options": [
+      "44 cm (Wire length = Circumference = 2 × (22/7) × 21 = 132 cm ; Side of equilateral triangle = 132 / 3 = 44 cm)",
+      "33 cm",
+      "22 cm",
+      "66 cm"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "Wire perimeter = 2 × (22/7) × 21 = 132 cm. Side of triangle = 132 / 3 = 44 cm."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Mathematics",
+    "chapter": "Chapter 9: Perimeter and Area",
+    "question": "The base of a parallelogram is TWICE its height. If the area of the parallelogram is 512 cm², find its base and height:",
+    "options": [
+      "Base = 32 cm ; Height = 16 cm (Area = b × h ⇒ (2h) × h = 512 ⇒ 2h² = 512 ⇒ h² = 256 ⇒ h = 16 cm ; b = 2 × 16 = 32 cm)",
+      "Base = 16 cm ; Height = 8 cm",
+      "Base = 64 cm ; Height = 32 cm",
+      "Base = 24 cm ; Height = 12 cm"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "2h² = 512 → h = √256 = 16 cm. Base = 32 cm."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Mathematics",
+    "chapter": "Chapter 9: Perimeter and Area",
+    "question": "Four equal circles, each of radius 7 cm, are placed touching each other so that their centres form a square of side 14 cm. Find the AREA of the shaded space enclosed between the four circles (Take π = 22/7):",
+    "options": [
+      "42 cm² (Square Area = 14 × 14 = 196 cm² ; 4 quadrants = 1 full circle area = (22/7) × 7² = 154 cm² ; Enclosed Area = 196 - 154 = 42 cm²)",
+      "56 cm²",
+      "28 cm²",
+      "36 cm²"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "Area between 4 circles = a² - πr² = 14² - (22/7)(7²) = 196 - 154 = 42 cm²."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Mathematics",
+    "chapter": "Chapter 9: Perimeter and Area",
+    "question": "A copper wire when bent in the form of a square encloses an area of 484 cm². If the same wire is bent into a circle, find the area enclosed by the circle (Take π = 22/7):",
+    "options": [
+      "616 cm² (Side of square = √484 = 22 cm ; Perimeter = 4 × 22 = 88 cm ; Circle radius = 88 / (2 × 22/7) = 14 cm ; Circle Area = (22/7) × 14² = 616 cm²)",
+      "550 cm²",
+      "484 cm²",
+      "625 cm²"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "Square side = 22 cm → P = 88 cm. Radius = 14 cm. Circle area = (22/7)(196) = 616 cm²."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Mathematics",
+    "chapter": "Chapter 9: Perimeter and Area",
+    "question": "Why is the geometric calculation of Perimeter and 2D Area vital across civil architecture, land revenue cartography, urban planning, and material engineering?",
+    "options": [
+      "It determines exact material quantities required for boundaries, fencing, tiling, paving, surface coatings, structural loads, and agricultural land taxation",
+      "Because area is used only to draw circles",
+      "Because perimeter is measured only with sticks",
+      "Because modern construction ignores geometry"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "Perimeter and area calculations are the universal geometric foundations for material procurement, boundary demarcation, and structural design."
+  },
+  {
+    "classLevel": 7,
+    "subject": "English",
+    "chapter": "Chapter 9: A Bicycle in Good Repair & Garden Snake",
+    "question": "In Jerome K. Jerome's comedic story 'A Bicycle in Good Repair', what excursion was planned for the following day?",
+    "options": [
+      "A long bicycle ride together out into the countryside",
+      "A train journey to London",
+      "A boat trip down the river",
+      "A mountain climbing hike"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "The narrator and an acquaintance arranged to go for a long bicycle ride together early the next morning."
+  },
+  {
+    "classLevel": 7,
+    "subject": "English",
+    "chapter": "Chapter 9: A Bicycle in Good Repair & Garden Snake",
+    "question": "What did the acquaintance do to the bicycle as soon as he saw it, before they had even set off?",
+    "options": [
+      "He shook it violently by the front wheel and handlebars, claiming the front wheel wobbled dangerously",
+      "He rode it happily down the road",
+      "He washed it with soap",
+      "He painted it blue"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "The acquaintance aggressively shook the bicycle: 'He took hold of it by the front wheel and the fork, and shook it violently.'."
+  },
+  {
+    "classLevel": 7,
+    "subject": "English",
+    "chapter": "Chapter 9: A Bicycle in Good Repair & Garden Snake",
+    "question": "What small, rolling metal items spilled out everywhere across the gravel path when the acquaintance unscrewed the front wheel bearing?",
+    "options": [
+      "Little steel ball-bearings (little balls)",
+      "Small wooden screws",
+      "Gold coins",
+      "Glass marbles"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "Unscrewing the axle housing released a dozen little ball-bearings that rolled all over the gravel."
+  },
+  {
+    "classLevel": 7,
+    "subject": "English",
+    "chapter": "Chapter 9: A Bicycle in Good Repair & Garden Snake",
+    "question": "Where did the narrator and his friend put the rescued ball-bearings for safekeeping?",
+    "options": [
+      "Inside the narrator's Hat (which later blew away in the wind)",
+      "In a metal box",
+      "In a leather wallet",
+      "In a glass jar"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "They stored the collected ball bearings in the narrator's hat, which was subsequently blown off by the wind."
+  },
+  {
+    "classLevel": 7,
+    "subject": "English",
+    "chapter": "Chapter 9: A Bicycle in Good Repair & Garden Snake",
+    "question": "What part of the bicycle did the acquaintance next take to pieces, despite an experienced friend having advised the narrator NEVER to touch it?",
+    "options": [
+      "The Gear-case",
+      "The Saddle",
+      "The Bell",
+      "The Brake levers"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "He dismantled the gear-case, cutting it in two pieces, ignoring the advice to buy a new bicycle rather than tamper with it."
+  },
+  {
+    "classLevel": 7,
+    "subject": "English",
+    "chapter": "Chapter 9: A Bicycle in Good Repair & Garden Snake",
+    "question": "What happened to the bicycle chain during the acquaintance's destructive repair attempts?",
+    "options": [
+      "He tightened it until it would not move at all, and then loosened it until it was twice as loose as before",
+      "He threw it into the pond",
+      "He tied it to a tree",
+      "It turned into gold"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "Comedic incompetence: he first tightened the chain until it jammed, then loosened it until it hung double."
+  },
+  {
+    "classLevel": 7,
+    "subject": "English",
+    "chapter": "Chapter 9: A Bicycle in Good Repair & Garden Snake",
+    "question": "What physical condition were both the acquaintance and the bicycle in by late afternoon?",
+    "options": [
+      "The acquaintance was covered in black oil, grease, and dirt, bleeding from scratches, and the bicycle was lying in a mangled heap across the path",
+      "Both were clean and ready for a race",
+      "The bicycle had flown away",
+      "They had ridden 50 miles"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "The scene ended in utter slapstick wreckage: a grease-stained man struggling against a wrecked bicycle on the lawn."
+  },
+  {
+    "classLevel": 7,
+    "subject": "English",
+    "chapter": "Chapter 9: A Bicycle in Good Repair & Garden Snake",
+    "question": "In Muriel L. Sonne's poem 'Garden Snake', what does the child do upon first spotting a snake in the garden?",
+    "options": [
+      "The child runs away in fright, believing that 'some snakes are dangerous'",
+      "The child tries to catch the snake with a stick",
+      "The child steps on the snake",
+      "The child takes a picture"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "The poem begins: 'I saw a snake and ran away... / Some snakes are dangerous, they say;'."
+  },
+  {
+    "classLevel": 7,
+    "subject": "English",
+    "chapter": "Chapter 9: A Bicycle in Good Repair & Garden Snake",
+    "question": "What comforting and reassuring advice does Mother give to the frightened child in 'Garden Snake'?",
+    "options": [
+      "She explains that the garden snake is completely harmless ('that kind is good') and eats only ordinary garden insects for its food",
+      "She tells the child to kill the snake",
+      "She tells the child to stay inside the house forever",
+      "She tells the child to call the police"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "Mother says: '\"that kind is good, / And eats up insects for his food.\" / So when he wiggles in the grass / I'll stand aside and watch him pass'."
+  },
+  {
+    "classLevel": 7,
+    "subject": "English",
+    "chapter": "Chapter 9: A Bicycle in Good Repair & Garden Snake",
+    "question": "How does the child's perspective on the garden snake change by the end of the poem?",
+    "options": [
+      "The child stands aside calmly to admire the harmless little green snake wriggling through the grass with affection and respect",
+      "The child continues to scream in terror",
+      "The child buys a pet dog",
+      "The child moves to another city"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "Ending lines: 'I'll stand aside and watch him pass, / And tell myself, \"There's no mistake, / It's just a harmless garden snake!\"'."
+  },
+  {
+    "classLevel": 7,
+    "subject": "English",
+    "chapter": "Chapter 9: A Bicycle in Good Repair & Garden Snake",
+    "question": "What is the meaning of the word 'Wobble' as applied to the bicycle wheel?",
+    "options": [
+      "To move unsteadily from side to side in an unsteady manner",
+      "To roll very fast",
+      "To stop suddenly",
+      "To shine brightly"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "'Wobble' means an unsteady, irregular side-to-side oscillation."
+  },
+  {
+    "classLevel": 7,
+    "subject": "English",
+    "chapter": "Chapter 9: A Bicycle in Good Repair & Garden Snake",
+    "question": "What is the meaning of 'Wiggles' in the description of the garden snake?",
+    "options": [
+      "Moves with quick, small, wave-like side-to-side undulating motions",
+      "Jumps up in the air",
+      "Stands completely still",
+      "Flies with wings"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "'Wiggle' describes the undulating serpentine lateral movement of a snake."
+  },
+  {
+    "classLevel": 7,
+    "subject": "English",
+    "chapter": "Chapter 9: A Bicycle in Good Repair & Garden Snake",
+    "question": "Why was the narrator unable to prevent his destructive acquaintance from completely dismantling his perfectly functioning bicycle?",
+    "options": [
+      "The narrator suffered from excessive politeness, timid hesitation, and a mistaken deference that made him afraid of hurting his friend's enthusiastic self-confidence",
+      "Because the acquaintance had a gun",
+      "Because the bicycle belonged to the acquaintance",
+      "Because the narrator was fast asleep"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "Narrator's comedic flaw: excessive English social politeness and self-doubt prevents him from stopping blatant mechanical vandalism."
+  },
+  {
+    "classLevel": 7,
+    "subject": "English",
+    "chapter": "Chapter 9: A Bicycle in Good Repair & Garden Snake",
+    "question": "How did the acquaintance personify the bicycle during their furious physical struggle in the garden?",
+    "options": [
+      "He treated the bicycle like a willful, vicious adversary that fought back, hit him over the head with the handlebars, and leaped onto him in the dirt",
+      "He treated it like a loyal horse",
+      "He treated it like an electric train",
+      "He treated it like a clock"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "Hyperbolic comic personification: the bicycle becomes a combatant: 'Now he was on top of the bicycle, and now the bicycle was on top of him.'."
+  },
+  {
+    "classLevel": 7,
+    "subject": "English",
+    "chapter": "Chapter 9: A Bicycle in Good Repair & Garden Snake",
+    "question": "What is the central ecological theme of Muriel L. Sonne's poem 'Garden Snake'?",
+    "options": [
+      "Overcoming irrational fear of nature through knowledge: understanding that garden snakes are harmless, beneficial predators that control garden insect pests",
+      "Teaching people how to build cages",
+      "Warning that all animals in gardens are poisonous",
+      "Explaining how to cut lawn grass"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "The poem deconstructs the irrational ophidiophobia (fear of snakes), celebrating the ecological value of harmless garden reptiles."
+  },
+  {
+    "classLevel": 7,
+    "subject": "English",
+    "chapter": "Chapter 9: A Bicycle in Good Repair & Garden Snake",
+    "question": "What is the meaning of the idiom 'To take to pieces' in: 'He took the gear-case to pieces'?",
+    "options": [
+      "To dismantle or disassemble into separate component parts",
+      "To throw away into a river",
+      "To break with a hammer",
+      "To paint each piece a different color"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "'To take to pieces' is an idiom meaning completely disassembling a mechanical device."
+  },
+  {
+    "classLevel": 7,
+    "subject": "English",
+    "chapter": "Chapter 9: A Bicycle in Good Repair & Garden Snake",
+    "question": "What is the meaning of the adjective 'Grotesque' in: 'The bicycle looked a grotesque skeleton'?",
+    "options": [
+      "Comically or repulsively distorted, bizarre, and unnatural in appearance",
+      "Extremely beautiful and modern",
+      "Painted in bright red",
+      "Small and delicate"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "'Grotesque' characterizes an incongruously distorted, bizarre, or deformed physical state."
+  },
+  {
+    "classLevel": 7,
+    "subject": "English",
+    "chapter": "Chapter 9: A Bicycle in Good Repair & Garden Snake",
+    "question": "Fill in the blank with the appropriate preposition:\n'The little ball-bearings rolled all _______ the gravel path.'",
+    "options": [
+      "over",
+      "under",
+      "into",
+      "between"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "'Rolled all over' indicates scattered dispersion across the entire surface."
+  },
+  {
+    "classLevel": 7,
+    "subject": "English",
+    "chapter": "Chapter 9: A Bicycle in Good Repair & Garden Snake",
+    "question": "What is the SYNONYM of 'Tenacity' or 'Doggedness' as shown by the friend in attempting to fix the bicycle?",
+    "options": [
+      "Persistence / Stubborn perseverance",
+      "Cowardice",
+      "Laziness",
+      "Politeness"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "'Doggedness' or 'tenacity' denotes stubborn, unrelenting determination despite repeated failures."
+  },
+  {
+    "classLevel": 7,
+    "subject": "English",
+    "chapter": "Chapter 9: A Bicycle in Good Repair & Garden Snake",
+    "question": "What is the ANTONYM of 'Harmless' in: 'A harmless garden snake'?",
+    "options": [
+      "Venomous / Dangerous / Harmful",
+      "Gentle",
+      "Friendly",
+      "Useful"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "The antonym of 'harmless' is 'harmful', 'dangerous', or 'venomous'."
+  },
+  {
+    "classLevel": 7,
+    "subject": "English",
+    "chapter": "Chapter 9: A Bicycle in Good Repair & Garden Snake",
+    "question": "Choose the correct spelling:",
+    "options": [
+      "Ball-bearing",
+      "Ball-bareing",
+      "Bal-bearing",
+      "Ball-beering"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "Correct orthography: B-A-L-L - B-E-A-R-I-N-G."
+  },
+  {
+    "classLevel": 7,
+    "subject": "English",
+    "chapter": "Chapter 9: A Bicycle in Good Repair & Garden Snake",
+    "question": "Identify the part of speech of the underlined word in: 'The wheel wobbled **violently** in his hands.'",
+    "options": [
+      "Adverb of Manner",
+      "Adjective",
+      "Noun",
+      "Conjunction"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "'Violently' is an adverb of manner modifying the intransitive verb 'wobbled'."
+  },
+  {
+    "classLevel": 7,
+    "subject": "English",
+    "chapter": "Chapter 9: A Bicycle in Good Repair & Garden Snake",
+    "question": "Convert the sentence into INDIRECT SPEECH:\nMother said to me, \"That kind is good and eats insects for food.\"",
+    "options": [
+      "Mother told me that that kind was good and ate insects for food.",
+      "Mother said that that kind is good.",
+      "Mother asked if the snake eats insects.",
+      "Mother told me don't touch the snake."
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "Indirect speech: reporting verb 'said to' -> 'told me', present tense shifts to past ('was good and ate')."
+  },
+  {
+    "classLevel": 7,
+    "subject": "English",
+    "chapter": "Chapter 9: A Bicycle in Good Repair & Garden Snake",
+    "question": "What is the rhyming scheme of Muriel L. Sonne's poem 'Garden Snake'?",
+    "options": [
+      "AABB (Rhyming couplets: away/say, good/food, grass/pass, mistake/snake)",
+      "ABAB",
+      "ABCB",
+      "AABBCC"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "The poem employs simple, musical AABB rhyming couplets throughout."
+  },
+  {
+    "classLevel": 7,
+    "subject": "English",
+    "chapter": "Chapter 9: A Bicycle in Good Repair & Garden Snake",
+    "question": "What is the comedic irony in the title 'A Bicycle in Good Repair'?",
+    "options": [
+      "The bicycle was initially in perfect working condition, but by the time the acquaintance finished 'repairing' it, it was completely ruined and unusable",
+      "The bicycle had gold wheels",
+      "The bicycle won a race",
+      "The bicycle turned into a car"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "Situational irony: a flawless bicycle is dismantled into junk under the guise of an expert 'repair'."
+  },
+  {
+    "classLevel": 7,
+    "subject": "English",
+    "chapter": "Chapter 9: A Bicycle in Good Repair & Garden Snake",
+    "question": "What did the acquaintance say about the front wheel after putting it back together missing half its ball bearings?",
+    "options": [
+      "\"It'll do for the present,\" though it wobbled like a child's toy top",
+      "\"It is as good as new!\"",
+      "\"We should buy a new wheel.\"",
+      "\"It can fly now!\""
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "He shrugs off the missing bearings: '\"It'll do for the present,\"' despite egregious wobbling."
+  },
+  {
+    "classLevel": 7,
+    "subject": "English",
+    "chapter": "Chapter 9: A Bicycle in Good Repair & Garden Snake",
+    "question": "What happened when the friend tried to put the chain back on the bicycle?",
+    "options": [
+      "He completely lost the screws, struggled for an hour, and made it alternately too tight and too loose",
+      "He fixed it in two seconds",
+      "He replaced it with a gold chain",
+      "He gave up and walked away"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "The chain episode is a masterclass in clumsy tinkering, swinging between unyielding tension and dangling slack."
+  },
+  {
+    "classLevel": 7,
+    "subject": "English",
+    "chapter": "Chapter 9: A Bicycle in Good Repair & Garden Snake",
+    "question": "How did the narrator finally get rid of the exhausting friend at the end of the day?",
+    "options": [
+      "He took him to the railway station, sent him off home on a train, and breathed a sigh of immense relief",
+      "He gave him the bicycle as a gift",
+      "He called the police",
+      "He invited him to stay for a month"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "The ordeal concludes with the narrator escorting the exhausted, blackened tinkerer to the railway station."
+  },
+  {
+    "classLevel": 7,
+    "subject": "English",
+    "chapter": "Chapter 9: A Bicycle in Good Repair & Garden Snake",
+    "question": "Read the statements:\nAssertion (A): Jerome K. Jerome's 'A Bicycle in Good Repair' is a classic satire of amateur male pseudo-expertise and the perils of unassertive social politeness.\nReason (R): The comic tension arises from the contrast between the destructive tinkerer's supreme unearned self-confidence and the narrator's paralyzed inability to intervene due to fear of appearing rude.\nChoose the correct option:",
+    "options": [
+      "Both (A) and (R) are true, and (R) is the correct explanation of (A).",
+      "Both (A) and (R) are true, but (R) is NOT the correct explanation of (A).",
+      "(A) is true, but (R) is false.",
+      "(A) is false, but (R) is true."
+    ],
+    "correctAnswer": 0,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "Jerome satirizes both overconfident mechanical incompetence and the social paralysis of excessive British politeness."
+  },
+  {
+    "classLevel": 7,
+    "subject": "English",
+    "chapter": "Chapter 9: A Bicycle in Good Repair & Garden Snake",
+    "question": "Spot the IMPOSTER in the following sequence of mechanical catastrophes inflicted on the bicycle by the friend:\nGroup:\n1. Shaking the front wheel and unscrewing the ball-bearings into the gravel\n2. Cutting the gear-case in two halves and losing the screws\n3. Over-tightening and then over-slackening the chain\n4. Installing a supersonic jet rocket engine on the handlebars",
+    "options": [
+      "Event 1",
+      "Event 2",
+      "Event 3",
+      "Event 4 (Supersonic rocket engines do NOT belong to Jerome's Victorian Victorian bicycling comedy)"
+    ],
+    "correctAnswer": 3,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "Event 4 is a science-fiction impossibility; the narrative consists of realistic Victorian mechanical blunders."
+  },
+  {
+    "classLevel": 7,
+    "subject": "English",
+    "chapter": "Chapter 9: A Bicycle in Good Repair & Garden Snake",
+    "question": "Analyze the psychological shift in 'Garden Snake':\nHow does empirical knowledge replace inherited social prejudice?",
+    "options": [
+      "The child moves from unthinking cultural fear ('Some snakes are dangerous, they say') to informed scientific understanding ('that kind is good / eats insects'), replacing blind panic with serene appreciation",
+      "The child learns how to capture snakes in jars",
+      "The child decides never to enter a garden again",
+      "The child buys poison to spray on grass"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "The poem illustrates cognitive reframing: replacing superstitious myth with ecological reality transforms fear into respectful coexistence."
+  },
+  {
+    "classLevel": 7,
+    "subject": "English",
+    "chapter": "Chapter 9: A Bicycle in Good Repair & Garden Snake",
+    "question": "Match Column I (Narrative Episodes / Literary Devices) with Column II (Comic & Thematic Functions):\n(a) Ball-Bearings in Hat      -> (i) Slapstick disaster when the hat blows off and rolls away\n(b) Bicycle Wrestling Match    -> (ii) Personification of the bicycle fighting back against its torturer\n(c) Mother's Reassurance      -> (iii) Voice of ecological wisdom dispelling irrational fears\n(d) Over-polite Narrator       -> (iv) Comedic straight-man character enabling escalating chaos",
+    "options": [
+      "a-(i), b-(ii), c-(iii), d-(iv)",
+      "a-(ii), b-(i), c-(iv), d-(iii)",
+      "a-(iv), b-(iii), c-(ii), d-(i)",
+      "a-(iii), b-(iv), c-(i), d-(ii)"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "Hat = slapstick loss; Wrestling = personification; Mother = ecological wisdom; Narrator = enabling straight-man."
+  },
+  {
+    "classLevel": 7,
+    "subject": "English",
+    "chapter": "Chapter 9: A Bicycle in Good Repair & Garden Snake",
+    "question": "Read the statements regarding Jerome K. Jerome's comedic style:\nStatement 1: Jerome uses deadpan understatement and escalating slapstick physical comedy.\nStatement 2: The story captures the popular Victorian bicycling craze of the 1890s.\nStatement 3: The bicycle exploded and destroyed the entire town.\nWhich statements are TRUE?",
+    "options": [
+      "Statements 1 and 2 only",
+      "Statements 2 and 3 only",
+      "Statements 1 and 3 only",
+      "All Statements 1, 2, and 3"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "Statement 3 is false. Statements 1 and 2 characterize Jerome's signature Victorian humor (author of 'Three Men in a Boat')."
+  },
+  {
+    "classLevel": 7,
+    "subject": "English",
+    "chapter": "Chapter 9: A Bicycle in Good Repair & Garden Snake",
+    "question": "Identify the figure of speech in: 'The bicycle seemed to have also developed a malicious temper, leaping up and hitting him violently with its pedal.'",
+    "options": [
+      "Personification (attributing malicious intent and agency to an inanimate machine)",
+      "Hyperbole only",
+      "Simile",
+      "Alliteration only"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "Personification endows the mechanical bicycle with deliberate malicious temper and physical aggression."
+  },
+  {
+    "classLevel": 7,
+    "subject": "English",
+    "chapter": "Chapter 9: A Bicycle in Good Repair & Garden Snake",
+    "question": "What is the grammatical construction in: 'Had the narrator spoken firmly at the beginning, the bicycle would not have been ruined.'?",
+    "options": [
+      "Third Conditional (Inverted condition with past perfect 'Had he spoken' and conditional perfect 'would not have been ruined')",
+      "First Conditional",
+      "Second Conditional",
+      "Imperative sentence"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "Third conditional with inverted protasis ('Had he spoken' = 'If he had spoken') expressing counterfactual past regret."
+  },
+  {
+    "classLevel": 7,
+    "subject": "English",
+    "chapter": "Chapter 9: A Bicycle in Good Repair & Garden Snake",
+    "question": "Why does Jerome K. Jerome emphasize the advice given by the experienced friend regarding the 'gear-case'?",
+    "options": [
+      "To underscore the timeless golden rule of mechanics: 'If it ain't broke, don't fix it' — and to highlight the folly of tampering with complex mechanisms without expertise",
+      "To encourage people to destroy their bicycles",
+      "To advertise gear-case manufacturers",
+      "Because gear-cases are dangerous weapons"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "The gear-case warning reinforces the core comedic theme: unnecessary meddling with functional machines invites catastrophe."
+  },
+  {
+    "classLevel": 7,
+    "subject": "English",
+    "chapter": "Chapter 9: A Bicycle in Good Repair & Garden Snake",
+    "question": "In 'Garden Snake', what does the phrase 'There's no mistake' emphasize in the final line?",
+    "options": [
+      "The child's newfound absolute confidence in scientific understanding, banishing all lingering doubts and fears",
+      "That the child made a mistake in an exam",
+      "That the snake was a toy",
+      "That the mother was wrong"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "'There's no mistake' affirms total intellectual certainty: rational comprehension replaces superstitious dread."
+  },
+  {
+    "classLevel": 7,
+    "subject": "English",
+    "chapter": "Chapter 9: A Bicycle in Good Repair & Garden Snake",
+    "question": "What tone permeates the narrator's observation: 'He was a person of boundless energy and incurable optimism, which made him all the more dangerous.'?",
+    "options": [
+      "Dry, ironic, deadpan British humor highlighting the menace of enthusiastic incompetence",
+      "Furious hatred and violent anger",
+      "Tearful grief and despair",
+      "Boring scientific recitation"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "Deadpan irony: cheerful optimism paired with total incompetence is humorously diagnosed as a perilous combination."
+  },
+  {
+    "classLevel": 7,
+    "subject": "English",
+    "chapter": "Chapter 9: A Bicycle in Good Repair & Garden Snake",
+    "question": "Which of the following proverbs best captures the central moral lesson of 'A Bicycle in Good Repair'?",
+    "options": [
+      "\"A little learning is a dangerous thing\" / \"Leave well enough alone\"",
+      "\"All that glitters is not gold\"",
+      "\"A rolling stone gathers no moss\"",
+      "\"Look before you leap into water\""
+    ],
+    "correctAnswer": 0,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "The story epitomizes Pope's adage 'A little learning is a dangerous thing' applied to meddlesome tinkering."
+  },
+  {
+    "classLevel": 7,
+    "subject": "English",
+    "chapter": "Chapter 9: A Bicycle in Good Repair & Garden Snake",
+    "question": "What overarching humanist message unites Chapter 9 of NCERT Class 7 English?",
+    "options": [
+      "The balance between polite social boundaries, humble self-awareness of one's own limitations, and the courage to replace irrational superstitions with gentle ecological understanding",
+      "That bicycles should never be ridden by anyone",
+      "That snakes should be kept inside houses",
+      "That all repairs should be done with hammers"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "Chapter 9 weaves together social psychology, self-assertiveness, comedic humility, and rational coexistence with nature."
+  },
+  {
+    "classLevel": 7,
+    "subject": "GK",
+    "chapter": "Chapter 9: Modern World History, Revolutions, World Wars & Landmark Treaties",
+    "question": "In which year did the American Revolution reach its climax with the adoption of the historic 'Declaration of Independence' on July 4?",
+    "options": [
+      "1776",
+      "1789",
+      "1804",
+      "1757"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "The Second Continental Congress adopted the Declaration of Independence penned by Thomas Jefferson on 4 July 1776."
+  },
+  {
+    "classLevel": 7,
+    "subject": "GK",
+    "chapter": "Chapter 9: Modern World History, Revolutions, World Wars & Landmark Treaties",
+    "question": "What historic event on July 14, 1789, in Paris marked the explosive outbreak of the FRENCH REVOLUTION?",
+    "options": [
+      "The Storming of the Bastille prison-fortress",
+      "The Battle of Waterloo",
+      "The Boston Tea Party",
+      "The Russian October Revolution"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "The storming of the royal fortress-prison Bastille on 14 July 1789 became the symbol of the French Revolution (celebrated as Bastille Day)."
+  },
+  {
+    "classLevel": 7,
+    "subject": "GK",
+    "chapter": "Chapter 9: Modern World History, Revolutions, World Wars & Landmark Treaties",
+    "question": "What was the famous inspiring tripartite slogan of the French Revolution that reshaped modern global political philosophy?",
+    "options": [
+      "\"Liberty, Equality, Fraternity\" (Liberté, Égalité, Fraternité)",
+      "\"Peace, Bread, Land\"",
+      "\"No Taxation Without Representation\"",
+      "\"Workers of the World, Unite\""
+    ],
+    "correctAnswer": 0,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "Liberté, Égalité, Fraternité was the rallying cry of the French Revolution and is enshrined in the preamble of modern democratic constitutions."
+  },
+  {
+    "classLevel": 7,
+    "subject": "GK",
+    "chapter": "Chapter 9: Modern World History, Revolutions, World Wars & Landmark Treaties",
+    "question": "Who was the brilliant Scottish engineer who patented the modern condensing STEAM ENGINE in 1769, powering the Industrial Revolution?",
+    "options": [
+      "James Watt",
+      "George Stephenson",
+      "Thomas Newcomen",
+      "Alexander Graham Bell"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "James Watt's separate condenser steam engine dramatically increased thermodynamic efficiency, powering industrial factories and locomotives."
+  },
+  {
+    "classLevel": 7,
+    "subject": "GK",
+    "chapter": "Chapter 9: Modern World History, Revolutions, World Wars & Landmark Treaties",
+    "question": "What event in Sarajevo on June 28, 1914, triggered the outbreak of WORLD WAR I?",
+    "options": [
+      "The assassination of Archduke Franz Ferdinand of Austria-Hungary by Gavrilo Princip",
+      "The sinking of the Lusitania",
+      "The invasion of Poland",
+      "The Russian Revolution"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "The assassination of Archduke Franz Ferdinand in Sarajevo sparked the chain reaction of military mobilizations that erupted into World War I (1914–1918)."
+  },
+  {
+    "classLevel": 7,
+    "subject": "GK",
+    "chapter": "Chapter 9: Modern World History, Revolutions, World Wars & Landmark Treaties",
+    "question": "What peace treaty signed in 1919 formally ended World War I and established the League of Nations?",
+    "options": [
+      "The Treaty of Versailles",
+      "The Treaty of Paris",
+      "The Treaty of Utrecht",
+      "The Treaty of Vienna"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "The Treaty of Versailles (1919) imposed heavy war reparations on Germany and established the League of Nations."
+  },
+  {
+    "classLevel": 7,
+    "subject": "GK",
+    "chapter": "Chapter 9: Modern World History, Revolutions, World Wars & Landmark Treaties",
+    "question": "Who led the Bolsheviks in the 1917 October Russian Revolution to overthrow the Provisional Government and establish the world's first socialist state (USSR)?",
+    "options": [
+      "Vladimir Lenin",
+      "Joseph Stalin",
+      "Leon Trotsky",
+      "Mikhail Gorbachev"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "Vladimir Lenin led the Bolshevik party to victory in 1917 under the slogan 'Peace, Land, and Bread', founding the Soviet Union."
+  },
+  {
+    "classLevel": 7,
+    "subject": "GK",
+    "chapter": "Chapter 9: Modern World History, Revolutions, World Wars & Landmark Treaties",
+    "question": "Which aggressive military action by Nazi Germany on September 1, 1939, triggered the immediate outbreak of WORLD WAR II?",
+    "options": [
+      "The German invasion of Poland (Blitzkrieg)",
+      "The attack on Pearl Harbor",
+      "The bombing of London",
+      "The invasion of France"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "Hitler's blitzkrieg invasion of Poland on 1 Sept 1939 forced Britain and France to declare war on Nazi Germany, igniting WWII."
+  },
+  {
+    "classLevel": 7,
+    "subject": "GK",
+    "chapter": "Chapter 9: Modern World History, Revolutions, World Wars & Landmark Treaties",
+    "question": "What surprise military strike by Imperial Japan on December 7, 1941, brought the United States directly into World War II?",
+    "options": [
+      "The Attack on Pearl Harbor (Hawaii)",
+      "The Battle of Midway",
+      "The Battle of Iwo Jima",
+      "The Invasion of Manchuria"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "Japan's carrier air raid on Pearl Harbor crippled the US Pacific Fleet and prompted US President Franklin D. Roosevelt's declaration of war."
+  },
+  {
+    "classLevel": 7,
+    "subject": "GK",
+    "chapter": "Chapter 9: Modern World History, Revolutions, World Wars & Landmark Treaties",
+    "question": "Which two Japanese cities were destroyed by American atomic bombs ('Little Boy' and 'Fat Man') in August 1945, bringing World War II to an end?",
+    "options": [
+      "Hiroshima (August 6) and Nagasaki (August 9)",
+      "Tokyo and Kyoto",
+      "Osaka and Yokohama",
+      "Nagoya and Kobe"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "The atomic bombings of Hiroshima and Nagasaki in August 1945 caused unprecedented devastation, leading to Japan's unconditional surrender."
+  },
+  {
+    "classLevel": 7,
+    "subject": "GK",
+    "chapter": "Chapter 9: Modern World History, Revolutions, World Wars & Landmark Treaties",
+    "question": "What concrete barrier built in 1961 divided East and West Berlin during the Cold War, whose dramatic fall in November 1989 symbolized the collapse of communism in Eastern Europe?",
+    "options": [
+      "The Berlin Wall",
+      "The Iron Curtain Wall",
+      "The Maginot Line",
+      "The Great Wall of Europe"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "The Berlin Wall fell on 9 November 1989, paving the way for German reunification and the dissolution of the Soviet bloc."
+  },
+  {
+    "classLevel": 7,
+    "subject": "GK",
+    "chapter": "Chapter 9: Modern World History, Revolutions, World Wars & Landmark Treaties",
+    "question": "Who was the First Prime Minister of India who co-founded the NON-ALIGNED MOVEMENT (NAM) in 1961 along with President Tito of Yugoslavia and President Nasser of Egypt?",
+    "options": [
+      "Pandit Jawaharlal Nehru",
+      "Mahatma Gandhi",
+      "Sardar Patel",
+      "Dr. B.R. Ambedkar"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "Jawaharlal Nehru, Josip Broz Tito, Gamal Abdel Nasser, Sukarno, and Kwame Nkrumah founded NAM in Belgrade (1961) to resist Cold War superpower blocs."
+  },
+  {
+    "classLevel": 7,
+    "subject": "GK",
+    "chapter": "Chapter 9: Modern World History, Revolutions, World Wars & Landmark Treaties",
+    "question": "What was the 'Boston Tea Party' of December 16, 1773, that escalated tensions leading to the American Revolutionary War?",
+    "options": [
+      "American colonists disguised as Mohawk Indians dumped 342 chests of British East India Company tea into Boston Harbor to protest unfair taxation without representation",
+      "A tea drinking festival in Boston",
+      "A British tea factory opening",
+      "A peaceful trade agreement between Britain and America"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "The Sons of Liberty dumped British tea to protest the Tea Act (1773), rallying the famous slogan 'No taxation without representation'."
+  },
+  {
+    "classLevel": 7,
+    "subject": "GK",
+    "chapter": "Chapter 9: Modern World History, Revolutions, World Wars & Landmark Treaties",
+    "question": "What was the 'Reign of Terror' (1793–1794) during the French Revolution led by Maximilien Robespierre?",
+    "options": [
+      "A period where the Committee of Public Safety executed tens of thousands of suspected 'counter-revolutionaries' using the Guillotine",
+      "A war with Spain",
+      "A famine caused by freezing winter",
+      "A military coup by Napoleon"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "Robespierre's Jacobin regime executed over 17,000 citizens by guillotine until Robespierre himself was overthrown in the Thermidorian Reaction."
+  },
+  {
+    "classLevel": 7,
+    "subject": "GK",
+    "chapter": "Chapter 9: Modern World History, Revolutions, World Wars & Landmark Treaties",
+    "question": "Which battle in 1815 in modern-day Belgium marked the final, decisive military defeat of Emperor Napoleon Bonaparte?",
+    "options": [
+      "The Battle of Waterloo (defeated by Duke of Wellington and Blücher)",
+      "The Battle of Austerlitz",
+      "The Battle of Trafalgar",
+      "The Battle of Leipzig"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "Napoleon was decisively routed at Waterloo on 18 June 1815, leading to his exile on the remote South Atlantic island of Saint Helena."
+  },
+  {
+    "classLevel": 7,
+    "subject": "GK",
+    "chapter": "Chapter 9: Modern World History, Revolutions, World Wars & Landmark Treaties",
+    "question": "Why is the Industrial Revolution considered a fundamental turning point in human civilization?",
+    "options": [
+      "It transformed agrarian, hand-craft economies into industrial, machine-driven manufacturing powerhouses fueled by steam, coal, electricity, and mass factory production",
+      "It abolished all farming forever",
+      "It made everyone become soldiers",
+      "It stopped world trade"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "Mechanized mass manufacturing, urban industrialization, railways, and fossil energy fundamentally reshaped global demography and socio-economics."
+  },
+  {
+    "classLevel": 7,
+    "subject": "GK",
+    "chapter": "Chapter 9: Modern World History, Revolutions, World Wars & Landmark Treaties",
+    "question": "What was the 'Great Depression' that began with the catastrophic Wall Street Stock Market Crash in October 1929 ('Black Tuesday')?",
+    "options": [
+      "The longest, deepest, and most widespread economic collapse of the 20th century, leading to mass unemployment, bank failures, and trade collapse worldwide",
+      "A medical disease in 1929",
+      "A storm that flooded America",
+      "A war between banks"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "The 1929 crash plunged global economies into severe contraction, deflation, and catastrophic unemployment until WWII rearmament."
+  },
+  {
+    "classLevel": 7,
+    "subject": "GK",
+    "chapter": "Chapter 9: Modern World History, Revolutions, World Wars & Landmark Treaties",
+    "question": "What was the 'Battle of Stalingrad' (1942–1943) in World War II, widely considered the decisive turning point on the European Eastern Front?",
+    "options": [
+      "The bloody Soviet defense that completely encircled and destroyed the German 6th Army, reversing the Nazi advance and beginning Germany's retreat to Berlin",
+      "A naval battle in the Atlantic",
+      "An aerial dogfight over London",
+      "A tank battle in North Africa"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "Stalingrad was the bloodiest battle in human history (~2 million casualties); the Soviet victory broke the backbone of the Wehrmacht."
+  },
+  {
+    "classLevel": 7,
+    "subject": "GK",
+    "chapter": "Chapter 9: Modern World History, Revolutions, World Wars & Landmark Treaties",
+    "question": "What was 'D-Day' (Operation Overlord) on June 6, 1944?",
+    "options": [
+      "The massive Allied amphibious invasion of Normandy (France) by American, British, and Canadian forces, establishing a western front to liberate Europe from Nazi occupation",
+      "The surrender of Japan",
+      "The German invasion of Russia",
+      "The signing of the UN Charter"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "General Dwight D. Eisenhower commanded the largest amphibious armada in history landing across Normandy beaches on 6 June 1944."
+  },
+  {
+    "classLevel": 7,
+    "subject": "GK",
+    "chapter": "Chapter 9: Modern World History, Revolutions, World Wars & Landmark Treaties",
+    "question": "What was the 'Cuban Missile Crisis' in October 1962 during the Cold War?",
+    "options": [
+      "A perilous 13-day nuclear standoff between the USA (President Kennedy) and USSR (Premier Khrushchev) over Soviet nuclear missiles deployed in Cuba, bringing the world to the brink of nuclear war",
+      "A civil war in Cuba",
+      "The invasion of Florida",
+      "A missile test in the Arctic"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "The 1962 crisis was the closest the Cold War came to full-scale thermonuclear war, resolved by Soviet missile withdrawal and US pledge not to invade Cuba."
+  },
+  {
+    "classLevel": 7,
+    "subject": "GK",
+    "chapter": "Chapter 9: Modern World History, Revolutions, World Wars & Landmark Treaties",
+    "question": "What was the 'Holocaust' perpetrated by Nazi Germany during World War II?",
+    "options": [
+      "The systematic, state-sponsored genocide of six million European Jews and millions of others (Roma, Slavs, dissidents) in industrialized extermination camps (like Auschwitz-Birkenau)",
+      "A military parade in Berlin",
+      "A medical experiment with antibiotics",
+      "A treaty between Germany and Italy"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "The Shoah / Holocaust was the horrific Nazi genocide that exterminated two-thirds of European Jewry in gas chambers and death camps."
+  },
+  {
+    "classLevel": 7,
+    "subject": "GK",
+    "chapter": "Chapter 9: Modern World History, Revolutions, World Wars & Landmark Treaties",
+    "question": "What was the 'Marshall Plan' (European Recovery Program) enacted by the United States in 1948?",
+    "options": [
+      "A massive American financial foreign-aid program ($13+ billion) to rebuild war-devastated Western European economies and prevent the spread of Soviet communism",
+      "A military plan to conquer Asia",
+      "A plan to build spaceships",
+      "A treaty to divide Germany"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "Initiated by US Secretary of State George Marshall, the plan revived Western European industrial production and economic stability."
+  },
+  {
+    "classLevel": 7,
+    "subject": "GK",
+    "chapter": "Chapter 9: Modern World History, Revolutions, World Wars & Landmark Treaties",
+    "question": "Which international treaty signed in 1968 aimed at preventing the spread of nuclear weapons and promoting nuclear disarmament?",
+    "options": [
+      "The Treaty on the Non-Proliferation of Nuclear Weapons (NPT)",
+      "The Kyoto Protocol",
+      "The Geneva Convention",
+      "The Warsaw Pact"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "The NPT (1968) established three pillars: non-proliferation, peaceful use of nuclear technology, and disarmament."
+  },
+  {
+    "classLevel": 7,
+    "subject": "GK",
+    "chapter": "Chapter 9: Modern World History, Revolutions, World Wars & Landmark Treaties",
+    "question": "What was the 'Meiji Restoration' (1868) in Japanese history?",
+    "options": [
+      "The political revolution that ended the Tokugawa Shogunate, restored imperial rule under Emperor Meiji, and rapidly modernized and industrialized Japan into a global power",
+      "The construction of Tokyo city",
+      "The adoption of Buddhism in Japan",
+      "The isolation of Japan from the world"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "The Meiji era transformed feudal samurai Japan into an industrialized, modernized constitutional empire in just a few decades."
+  },
+  {
+    "classLevel": 7,
+    "subject": "GK",
+    "chapter": "Chapter 9: Modern World History, Revolutions, World Wars & Landmark Treaties",
+    "question": "Who was the South African anti-apartheid leader who spent 27 years imprisoned on Robben Island and became South Africa's first black President in 1994?",
+    "options": [
+      "Nelson Mandela",
+      "Desmond Tutu",
+      "Kofi Annan",
+      "Robert Mugabe"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "Nelson Mandela led the ANC's struggle against racial apartheid, earning the Nobel Peace Prize and inspiring global human rights."
+  },
+  {
+    "classLevel": 7,
+    "subject": "GK",
+    "chapter": "Chapter 9: Modern World History, Revolutions, World Wars & Landmark Treaties",
+    "question": "What was the 'Bandung Conference' held in Indonesia in 1955?",
+    "options": [
+      "A landmark summit of 29 Asian and African nations promoting Afro-Asian economic and cultural cooperation and opposing colonialism, which laid the foundation for the Non-Aligned Movement",
+      "A trade summit of European bankers",
+      "A military meeting of NATO",
+      "A sports competition in Asia"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "The 1955 Bandung Conference articulated the Panchsheel principles and catalyzed the post-colonial Third World solidarity movement."
+  },
+  {
+    "classLevel": 7,
+    "subject": "GK",
+    "chapter": "Chapter 9: Modern World History, Revolutions, World Wars & Landmark Treaties",
+    "question": "What policies of 'Glasnost' (Openness) and 'Perestroika' (Restructuring) introduced by Soviet leader Mikhail Gorbachev in the late 1980s led to the dissolution of the Soviet Union in December 1991?",
+    "options": [
+      "Political democratization, freedom of the press, and economic decentralization that unintentionally dismantled Soviet totalitarian control",
+      "A plan to start a war with China",
+      "The banning of all private businesses",
+      "The building of new missile bases"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "Gorbachev's dual reforms intended to revitalize the USSR unleashed unstoppable democratic movements culminating in the peaceful collapse of the Soviet Union."
+  },
+  {
+    "classLevel": 7,
+    "subject": "GK",
+    "chapter": "Chapter 9: Modern World History, Revolutions, World Wars & Landmark Treaties",
+    "question": "Which international treaty signed in 1992 created the European Union (EU) and laid the groundwork for the single European currency (the Euro)?",
+    "options": [
+      "The Maastricht Treaty",
+      "The Treaty of Rome",
+      "The Schengen Agreement",
+      "The Lisbon Treaty"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "The Maastricht Treaty (1992) established the European Union, European citizenship, and the Economic and Monetary Union (Eurozone)."
+  },
+  {
+    "classLevel": 7,
+    "subject": "GK",
+    "chapter": "Chapter 9: Modern World History, Revolutions, World Wars & Landmark Treaties",
+    "question": "Read the statements:\nAssertion (A): The Treaty of Versailles (1919) contained the seeds of World War II.\nReason (R): The punitive 'War Guilt Clause' (Article 231), crippling economic reparations, severe territorial amputations, and total military disarmament inflicted on Weimar Germany fueled intense hyperinflation, nationalist humiliation, and the rise of Adolf Hitler's Nazi party.\nChoose the correct option:",
+    "options": [
+      "Both (A) and (R) are true, and (R) is the correct explanation of (A).",
+      "Both (A) and (R) are true, but (R) is NOT the correct explanation of (A).",
+      "(A) is true, but (R) is false.",
+      "(A) is false, but (R) is true."
+    ],
+    "correctAnswer": 0,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "John Maynard Keynes and historians regard Versailles as an unsustainable 'Carthaginian Peace' that directly destabilized inter-war Europe."
+  },
+  {
+    "classLevel": 7,
+    "subject": "GK",
+    "chapter": "Chapter 9: Modern World History, Revolutions, World Wars & Landmark Treaties",
+    "question": "Spot the IMPOSTER in the following major World Revolutions and their defining historical milestones:\nGroup:\n1. American Revolution (1776) - Declaration of Independence & George Washington\n2. French Revolution (1789) - Storming of the Bastille & Rights of Man\n3. Russian Revolution (1917) - Bolshevik seizure of power & Vladimir Lenin\n4. Industrial Revolution (1800) - Invention of internet search engines and smartphones",
+    "options": [
+      "Revolution 1",
+      "Revolution 2",
+      "Revolution 3",
+      "Revolution 4 (The First Industrial Revolution involved steam engines, mechanized spinning jenny, and ironworks, NOT 21st-century smartphones)"
+    ],
+    "correctAnswer": 3,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "Revolution 4 is an absurd anachronism: 18th/19th century industrialization centered on steam, textile mills, coal, and railways."
+  },
+  {
+    "classLevel": 7,
+    "subject": "GK",
+    "chapter": "Chapter 9: Modern World History, Revolutions, World Wars & Landmark Treaties",
+    "question": "Analyze the geopolitical mechanism of the 'Cold War' (1947–1991):\nWhy was it termed a 'COLD' war rather than a 'Hot' war?",
+    "options": [
+      "The two nuclear-armed superpowers (USA and USSR) never engaged in direct direct military combat against each other due to Mutually Assured Destruction (MAD), fighting instead through ideological rivalry, proxy wars (Korea, Vietnam), the nuclear arms race, and the Space Race",
+      "Because all battles were fought in freezing Siberia",
+      "Because both countries banned the use of gunpowder",
+      "Because wars were fought only in winter months"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "Nuclear deterrence / MAD prevented direct superpower thermonuclear clashes, channeling conflict into proxy theaters, espionage, and proxy warfare."
+  },
+  {
+    "classLevel": 7,
+    "subject": "GK",
+    "chapter": "Chapter 9: Modern World History, Revolutions, World Wars & Landmark Treaties",
+    "question": "Match Column I (Historic Global Summits / Treaties) with Column II (Defining Historical Milestones):\n(a) Treaty of Westphalia (1648) -> (i) Established modern nation-state sovereignty and diplomatic immunity\n(b) Congress of Vienna (1815)     -> (ii) Restored European balance of power after the fall of Napoleon\n(c) Yalta Conference (1945)      -> (iii) Churchill, Roosevelt, and Stalin planned the post-WWII division of Europe\n(d) Geneva Conventions (1949)    -> (iv) Codified international humanitarian laws of war and prisoner protection",
+    "options": [
+      "a-(i), b-(ii), c-(iii), d-(iv)",
+      "a-(ii), b-(i), c-(iv), d-(iii)",
+      "a-(iv), b-(iii), c-(ii), d-(i)",
+      "a-(iii), b-(iv), c-(i), d-(ii)"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "Westphalia = state sovereignty; Vienna = post-Napoleonic balance; Yalta = post-WWII spheres; Geneva = laws of war."
+  },
+  {
+    "classLevel": 7,
+    "subject": "GK",
+    "chapter": "Chapter 9: Modern World History, Revolutions, World Wars & Landmark Treaties",
+    "question": "Read the statements regarding the Decolonization era (1945–1975):\nStatement 1: The exhaustion of European colonial empires after WWII, combined with powerful nationalist liberation movements, led to the independence of dozens of nations in Asia and Africa.\nStatement 2: India's independence in 1947 served as a beacon and catalyst for anti-colonial liberation struggles across the British Empire.\nStatement 3: The Roman Empire colonized North America in 1950.\nWhich statements are TRUE?",
+    "options": [
+      "Statements 1 and 2 only",
+      "Statements 2 and 3 only",
+      "Statements 1 and 3 only",
+      "All Statements 1, 2, and 3"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "Statement 3 is an absurd impossibility. Statements 1 and 2 define the transformative 20th-century Afro-Asian decolonization wave."
+  },
+  {
+    "classLevel": 7,
+    "subject": "GK",
+    "chapter": "Chapter 9: Modern World History, Revolutions, World Wars & Landmark Treaties",
+    "question": "What was the significance of the 'Nuremberg Trials' (1945–1946) conducted after World War II?",
+    "options": [
+      "The historic international military tribunal that prosecuted top Nazi leaders for 'Crimes Against Peace', 'War Crimes', and 'Crimes Against Humanity', establishing individual legal accountability under international law",
+      "A conference to set world oil prices",
+      "The division of Berlin into zones",
+      "The creation of the Euro currency"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "Nuremberg established modern international criminal law: leaders cannot claim sovereign immunity or 'following orders' for crimes against humanity."
+  },
+  {
+    "classLevel": 7,
+    "subject": "GK",
+    "chapter": "Chapter 9: Modern World History, Revolutions, World Wars & Landmark Treaties",
+    "question": "What was the 'Space Race' between the USA and the USSR during the Cold War?",
+    "options": [
+      "A high-stakes scientific-technological competition for space dominance: USSR launched the first satellite (Sputnik, 1957) and first human in space (Yuri Gagarin, 1961) ; USA achieved the first manned Moon landing (Apollo 11, Neil Armstrong, 1969)",
+      "A military battle fought with space laser weapons on Mars",
+      "A race to build the tallest skyscraper",
+      "A telescope building competition"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "The Space Race showcased ideological and technological superiority: Soviet orbital triumphs balanced by Apollo 11's historic lunar landing."
+  },
+  {
+    "classLevel": 7,
+    "subject": "GK",
+    "chapter": "Chapter 9: Modern World History, Revolutions, World Wars & Landmark Treaties",
+    "question": "Consider four major global economic and geopolitical institutions established at the 1944 Bretton Woods Conference:\n1. The International Monetary Fund (IMF)\n2. The World Bank (IBRD)\n3. The General Agreement on Tariffs and Trade (GATT, later WTO)\nWhat primary mission did this post-war financial architecture serve?",
+    "options": [
+      "To prevent global depressions through stable international exchange rates, finance post-war reconstruction, and foster open multilateral international trade",
+      "To enforce military occupation over poor nations",
+      "To abolish all paper money worldwide",
+      "To print a single world newspaper"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "Bretton Woods established global macroeconomic stability, institutionalizing monetary cooperation and international development loans."
+  },
+  {
+    "classLevel": 7,
+    "subject": "GK",
+    "chapter": "Chapter 9: Modern World History, Revolutions, World Wars & Landmark Treaties",
+    "question": "Why was the 'Suez Crisis' (1956) a watershed moment in the decline of British and French imperial dominance?",
+    "options": [
+      "When Britain, France, and Israel invaded Egypt after President Nasser nationalized the Suez Canal, diplomatic condemnation and economic pressure from both the US and USSR forced a humiliating Anglo-French withdrawal, cementing the end of European imperial hegemony",
+      "Because Egypt conquered all of Europe",
+      "Because the canal was filled with concrete",
+      "Because Britain annexed Egypt permanently"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "The 1956 Suez debacle revealed that old European colonial powers could no longer exercise independent global military force without US consent."
+  },
+  {
+    "classLevel": 7,
+    "subject": "GK",
+    "chapter": "Chapter 9: Modern World History, Revolutions, World Wars & Landmark Treaties",
+    "question": "What is the historical significance of the 'Universal Declaration of Human Rights' (UDHR) adopted by the UN General Assembly on December 10, 1948?",
+    "options": [
+      "The first global proclamation of fundamental human rights to be universally protected for all human beings everywhere, authored by a diverse committee chaired by Eleanor Roosevelt",
+      "A treaty that ended the Korean war",
+      "A law allowing countries to buy nuclear weapons",
+      "A rule on maritime fishing quotas"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "Adopted in Paris (10 Dec 1948, Human Rights Day), the 30 articles of the UDHR enshrine inalienable civil, political, economic, and social rights."
+  },
+  {
+    "classLevel": 7,
+    "subject": "GK",
+    "chapter": "Chapter 9: Modern World History, Revolutions, World Wars & Landmark Treaties",
+    "question": "What historic transformation occurred in South Africa with the 1994 General Election?",
+    "options": [
+      "The peaceful end of four decades of institutionalized white-minority Apartheid, and the election of Nelson Mandela as President in the country's first fully representative multiracial democratic election",
+      "The partition of South Africa into four countries",
+      "The coronation of a new British monarch",
+      "The expulsion of all foreign diplomats"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "The 1994 election birthed the multiracial 'Rainbow Nation', inaugurating a democratic constitutional state underpinned by truth and reconciliation."
+  },
+  {
+    "classLevel": 7,
+    "subject": "GK",
+    "chapter": "Chapter 9: Modern World History, Revolutions, World Wars & Landmark Treaties",
+    "question": "What overarching historical lesson is illuminated in Chapter 9 of General Knowledge?",
+    "options": [
+      "Modern world history is a dynamic chronicle of humanity's unrelenting struggle for liberty, equality, scientific modernization, and international legal institutions to replace imperial domination and catastrophic wars with peaceful global multilateral cooperation",
+      "That wars are always inevitable and peace is impossible",
+      "That only monarchs should rule the world",
+      "That technology has never changed human society"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "Chapter 9 synthesizes modern revolutions, the trauma of total wars, the Cold War balance of power, decolonization, and the quest for universal human rights."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Social Science",
+    "chapter": "Chapter 9: The Making of Regional Cultures",
+    "question": "Which 9th-century kingdom established in southwestern India (modern Kerala) introduced the MALAYALAM language and script in its official royal inscriptions?",
+    "options": [
+      "The Chera Kingdom of Mahodayapuram",
+      "The Chola Kingdom",
+      "The Pandya Kingdom",
+      "The Rashtrakuta Kingdom"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "The Chera kingdom of Mahodayapuram (est. 9th century) was one of the earliest examples of an Indian regional kingdom using a vernacular language (Malayalam) in official administrative records."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Social Science",
+    "chapter": "Chapter 9: The Making of Regional Cultures",
+    "question": "What is the 14th-century Sanskrit-Malayalam literary style called 'Manipravalam' (literally meaning 'Diamonds and Corals')?",
+    "options": [
+      "A rich blend of two languages: Sanskrit and the regional Malayalam language in literary compositions",
+      "A technique for cutting jewelry",
+      "A style of temple architecture",
+      "A type of silk saree"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "Manipravalam (literally 'diamonds and corals') combined Sanskrit and regional Malayalam, celebrated in the 14th-century text Lilathilakam."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Social Science",
+    "chapter": "Chapter 9: The Making of Regional Cultures",
+    "question": "Which famous temple cult in Puri (Odisha) became the supreme centre of regional and religious identity, where the wooden deity was originally made by local tribal people and later identified with Lord Vishnu?",
+    "options": [
+      "The Jagannath Cult at Puri",
+      "The Meenakshi Cult",
+      "The Lingaraja Cult",
+      "The Kamakhya Cult"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "Lord Jagannath (Lord of the World) at Puri evolved from an indigenous tribal wooden deity into a pan-Indian manifestation of Vishnu/Krishna."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Social Science",
+    "chapter": "Chapter 9: The Making of Regional Cultures",
+    "question": "Which 12th-century king of the Eastern Ganga dynasty decided to erect a magnificent temple for Purushottama Jagannath at Puri?",
+    "options": [
+      "King Anantavarman",
+      "King Anangabhima III",
+      "King Kharavela",
+      "King Rajaraja I"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "King Anantavarman of the Eastern Ganga dynasty initiated the construction of the monumental Puri Jagannath Temple in the 12th century."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Social Science",
+    "chapter": "Chapter 9: The Making of Regional Cultures",
+    "question": "Which king in 1230 CE dedicated his entire kingdom to Lord Jagannath and proclaimed himself as the 'Deputy' (Rauta) of the god?",
+    "options": [
+      "King Anangabhima III",
+      "King Prataparudra",
+      "King Narasimhadeva I",
+      "King Kapilendra Deva"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "King Anangabhima III dedicated his realm to Lord Jagannath, governing the Odishan state as the earthly servant/deputy of the deity."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Social Science",
+    "chapter": "Chapter 9: The Making of Regional Cultures",
+    "question": "Which classical dance form of North India originated from a caste of temple storytellers ('Kathakars') who illustrated mythological stories with gestures and songs?",
+    "options": [
+      "Kathak",
+      "Bharatanatyam",
+      "Kathakali",
+      "Odissi"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "Kathak evolved from North Indian temple bardic storytellers (katha-kars) performing dramatic gestures to narrate sacred epics."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Social Science",
+    "chapter": "Chapter 9: The Making of Regional Cultures",
+    "question": "Under which Nawab of Awadh (1847–1856) did the Lucknow Gharana of KATHAK dance reach its golden age of artistic refinement?",
+    "options": [
+      "Nawab Wajid Ali Shah",
+      "Nawab Asaf-ud-Daula",
+      "Nawab Saadat Ali Khan",
+      "Nawab Shuja-ud-Daula"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "Nawab Wajid Ali Shah was a passionate patron and maestro of Kathak, Thumri, and dramatic dance-dramas (Rahas) in Lucknow."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Social Science",
+    "chapter": "Chapter 9: The Making of Regional Cultures",
+    "question": "What are the two major traditional court 'Gharanas' (schools/traditions) of KATHAK dance?",
+    "options": [
+      "The Jaipur Gharana and the Lucknow Gharana (along with Banaras)",
+      "The Delhi and Agra Gharana",
+      "The Gwalior and Patiala Gharana",
+      "The Tanjore and Mysore Gharana"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "Kathak branched into the rhythmic, energetic Jaipur Gharana and the lyrical, expressive Lucknow and Banaras Gharanas."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Social Science",
+    "chapter": "Chapter 9: The Making of Regional Cultures",
+    "question": "What are small-sized paintings executed in watercolours on cloth or handmade paper, known for intricate fine detailing, called?",
+    "options": [
+      "Miniature Paintings (Miniatures)",
+      "Fresco Murals",
+      "Oil Canvas",
+      "Cave Paintings"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "Miniatures are delicate, small-scale paintings rendered with natural mineral/vegetable pigments and fine squirrel-hair brushes."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Social Science",
+    "chapter": "Chapter 9: The Making of Regional Cultures",
+    "question": "Which bold, intense regional style of miniature painting developed in the Himalayan foothills (Basohli in modern Jammu and Kashmir), famous for illustrating Bhanudatta's 'Rasamanjari'?",
+    "options": [
+      "Basohli Style of Painting",
+      "Kangra School",
+      "Mewar School",
+      "Kishangarh School"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "Basohli painting is renowned for bold, vibrant primary colors, passionate facial profiles, and expressive depictions of the Rasamanjari."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Social Science",
+    "chapter": "Chapter 9: The Making of Regional Cultures",
+    "question": "Which lyrical Pahari miniature painting school developed in the Kangra valley of Himachal Pradesh by the mid-18th century, inspired by Vaishnavite traditions with soft colors and poetic treatment of Radha-Krishna?",
+    "options": [
+      "The Kangra School of Painting",
+      "The Mughal School",
+      "The Tanjore School",
+      "The Madhubani School"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "The Kangra school under Raja Sansar Chand is celebrated for lyrical delicacy, rhythmic lines, and cool soft greens and blues portraying Krishna-bhakti."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Social Science",
+    "chapter": "Chapter 9: The Making of Regional Cultures",
+    "question": "From which ancient primary language did the BENGALI language evolve over centuries, absorbing words from Persian, Austro-Asiatic, and European languages?",
+    "options": [
+      "Sanskrit (via Magadhi Prakrit)",
+      "Tamil",
+      "Arabic",
+      "Greek"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "Bengali derived from Sanskrit through Magadhi Prakrit, later enriching its lexicon with Persian, Arabic, Austric, and Portuguese loanwords."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Social Science",
+    "chapter": "Chapter 9: The Making of Regional Cultures",
+    "question": "What is the 14th-century grammatical and poetic treatise 'Lilathilakam' famous for?",
+    "options": [
+      "It is the earliest extant text composed in Manipravalam, dealing with the grammar and poetics of the joint Malayalam-Sanskrit literary tradition",
+      "It is a cookbook for royal feasts",
+      "It is a manual of sword fighting",
+      "It is a maritime trade law book"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "The Lilathilakam is a 14th-century linguistic masterpiece codifying the syntax, meter, and aesthetics of Manipravalam."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Social Science",
+    "chapter": "Chapter 9: The Making of Regional Cultures",
+    "question": "Why did successive conquerors of Odisha (Mughals, Marathas, English East India Company) all attempt to establish control over the Jagannath Temple at Puri?",
+    "options": [
+      "They realized that the Puri temple held supreme socio-cultural and political legitimacy among the local Odia people; controlling the temple made their rule acceptable to the local population",
+      "Because the temple contained only gold cannons",
+      "Because they wanted to destroy the temple completely",
+      "Because the temple was a military fort"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "Puri Jagannath Temple was the sanctum of regional sovereignty; political legitimacy in Odisha was inextricably linked to temple patronage."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Social Science",
+    "chapter": "Chapter 9: The Making of Regional Cultures",
+    "question": "How did Rajput heroic ideals, preserved in bardic poems and songs in Rajasthan, shape regional identity?",
+    "options": [
+      "They celebrated heroic martial valor, undying loyalty to clan and friendship, fearlessness in battle, choosing death over dishonor, and the tragic practice of Sati / Jauhar",
+      "They taught merchants how to trade silk",
+      "They banned all weapons in Rajasthan",
+      "They encouraged soldiers to flee from battles"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "Charans and Bhats preserved epic bardic songs immortalizing Rajput chivalric codes, battlefield valor, and heroic self-sacrifice."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Social Science",
+    "chapter": "Chapter 9: The Making of Regional Cultures",
+    "question": "How did the transition of Kathak from temple performance into Mughal court entertainment transform the dance form?",
+    "options": [
+      "It acquired its distinctive rapid, intricate footwork (Tatkar), dizzying pirouettes (Chakkars), elegant court costumes, and dramatic enactments of Radha-Krishna love stories (Rahas)",
+      "It became a silent meditation without music",
+      "It was banned by all emperors",
+      "It was performed only underwater"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "Mughal and Awadh royal courts refined Kathak: fusing devotional bhakti narratives with complex rhythmic footwork and virtuosic spins."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Social Science",
+    "chapter": "Chapter 9: The Making of Regional Cultures",
+    "question": "What are the traditional thatched-roof architectural styles that inspired the famous medieval Brick and Terracotta Temples of Bengal?",
+    "options": [
+      "The 'Dochala' (two-roofed curved bamboo hut structure) and the 'Chauchala' (four-roofed structure with four triangular roofs meeting at a curved point)",
+      "The Gopuram and Mandapa style",
+      "The Pagoda style",
+      "The Greek column style"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "Bengal temple architecture mimicked vernacular curved bamboo thatch roofs: Dochala (double-curved) and Chauchala (four-roofed pyramid)."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Social Science",
+    "chapter": "Chapter 9: The Making of Regional Cultures",
+    "question": "Which historic town in Bankura district of West Bengal is world-famous for its magnificent 17th- and 18th-century Terracotta Temples built by Malla kings (like Shyam Rai and Jore Bangla)?",
+    "options": [
+      "Bishnupur (Malla Kingdom)",
+      "Darjeeling",
+      "Murshidabad",
+      "Chittagong"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "Bishnupur under the Malla dynasty flourished as a terracotta architectural capital, featuring intricately carved clay tile temples."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Social Science",
+    "chapter": "Chapter 9: The Making of Regional Cultures",
+    "question": "What are the two distinct major categories of early Bengali literature?",
+    "options": [
+      "1. Sanskrit-derived literature (translations of Epics, Mangalkavyas, Chaitanya biographies) ; and 2. Independent vernacular Nath literature (songs of Maynamati and Gopichand, fairy tales of Thakurmar Jhuli, Pir tales)",
+      "Persian war novels and Greek dramas",
+      "Modern newspaper articles",
+      "English legal documents"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "Early Bengali literature comprised elite Sanskritized written works (Mangalkavyas, Vaishnava padavali) and popular oral Nath folklore."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Social Science",
+    "chapter": "Chapter 9: The Making of Regional Cultures",
+    "question": "Who were the 'Pirs' in medieval Bengal, revered across religious boundaries by both Hindus and Muslims?",
+    "options": [
+      "Community leaders, spiritual guides, Sufi saints, and pioneer forest settlers who cleared dense delta mangroves, brought order, and were believed to possess supernatural powers",
+      "Tax collectors who arrested villagers",
+      "Foreign silk merchants",
+      "Military captains of war fleets"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "Pirs were charismatic frontier leaders, spiritual masters, and land colonizers in the Bengal delta, worshipped at shrines by all faiths."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Social Science",
+    "chapter": "Chapter 9: The Making of Regional Cultures",
+    "question": "Which Mughal Emperor was a passionate patron of miniature painting who maintained grand royal imperial ateliers (Karkhanas) where master painters illustrated the Akbarnama?",
+    "options": [
+      "Emperor Akbar (and Jahangir)",
+      "Emperor Aurangzeb",
+      "Emperor Babur",
+      "Emperor Bahadur Shah I"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "Akbar and Jahangir patronized master miniature painters (Basawan, Daswant, Mansur, Abul Hasan), creating the celebrated Mughal imperial atelier."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Social Science",
+    "chapter": "Chapter 9: The Making of Regional Cultures",
+    "question": "Why did master painters migrate away from Delhi to regional Rajput and Himalayan hill states (Pahari courts) in the early 18th century?",
+    "options": [
+      "The political decline and instability of the Mughal capital under Nadir Shah's invasion (1739) and Aurangzeb's disinterest in court arts prompted painters to seek patronage in flourishing regional courts",
+      "Because Delhi ran out of paint",
+      "Because painters were banned from living in plains",
+      "Because the climate in Delhi became too hot"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "Mughal political fragmentation and Nadir Shah's sack of Delhi triggered an artistic diaspora to Kangra, Basohli, Guler, and Rajasthan."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Social Science",
+    "chapter": "Chapter 9: The Making of Regional Cultures",
+    "question": "What are the 'Mangalkavyas' in medieval Bengali literature?",
+    "options": [
+      "Eulogistic narrative poems praising local regional deities (such as Chandi, Manasa, and Dharma Thakur), ensuring prosperity and auspiciousness for devotees",
+      "Books on mathematical calculations",
+      "War treaties signed with kings",
+      "Medical prescriptions for diseases"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "Mangalkavyas are auspicious verse epics recounting how local indigenous goddesses established their worship across rural Bengal."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Social Science",
+    "chapter": "Chapter 9: The Making of Regional Cultures",
+    "question": "Why did traditional fish eating become widely accepted in Bengali Hindu culture, even among high-caste Brahmans?",
+    "options": [
+      "In the riverine, flood-prone Bengal delta with thousands of rivers and ponds, rice and fish were the indispensable staples of life, leading the 13th-century Sanskrit text 'Brihaddharma Purana' to explicitly permit local Brahmans to eat certain varieties of fish",
+      "Because the Mughal emperor ordered everyone to eat fish",
+      "Because vegetables did not exist in Bengal",
+      "Because fish was used as money"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "The Brihaddharma Purana adapted scriptural law to deltaic ecology, canonizing fish consumption among Bengali Brahmans."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Social Science",
+    "chapter": "Chapter 9: The Making of Regional Cultures",
+    "question": "What are the Eight Recognized Classical Dance Traditions of India recognized by the Sangeet Natak Akademi?",
+    "options": [
+      "Bharatanatyam (TN), Kathakali (Kerala), Kathak (North India), Odissi (Odisha), Kuchipudi (AP), Mohiniyattam (Kerala), Manipuri (Manipur), and Sattriya (Assam)",
+      "Bhangra, Garba, Giddha, Lavani, Bihu, Rouf, Dandiya, Chhau",
+      "Salsa, Ballet, Tango, Tap, Hip-hop, Waltz, Breakdance, Flamenco",
+      "Classical singing only without dance"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "The 8 classical dance traditions codified by Sangeet Natak Akademi trace lineage to Bharata Muni's ancient Natyashastra."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Social Science",
+    "chapter": "Chapter 9: The Making of Regional Cultures",
+    "question": "Which legendary miniature painting masterwork created in Kishangarh (Rajasthan) by artist Nihal Chand is celebrated as the 'Mona Lisa of India'?",
+    "options": [
+      "Bani Thani",
+      "Rasamanjari",
+      "Gita Govinda",
+      "Padmavat"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "The Kishangarh miniature portrait of 'Bani Thani' (courtesan-poet of Raja Sawant Singh) by Nihal Chand is famed for stylized serpentine grace."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Social Science",
+    "chapter": "Chapter 9: The Making of Regional Cultures",
+    "question": "What distinct literary genre was the 'Maynamati-Gopichand' cycle of songs in eastern India?",
+    "options": [
+      "Popular oral folk songs about Queen Maynamati and her son Prince Gopichand embracing the esoteric ascetic path of the Nathpanthi Yogis to attain immortality",
+      "A story of a sea voyage to Africa",
+      "A commercial trade ledger",
+      "A military manual of archery"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "The Maynamati-Gopichand songs celebrate Queen Maynamati guiding her son into Gorakhnathi yogic initiation to conquer mortality."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Social Science",
+    "chapter": "Chapter 9: The Making of Regional Cultures",
+    "question": "What was the 'Gita Govinda' composed by Jayadeva in 12th-century Bengal and Odisha, which inspired countless miniature paintings across India?",
+    "options": [
+      "An exquisite Sanskrit lyrical poem celebrating the passionate, mystical love of Lord Krishna and Radha in the springtime groves of Vrindavan",
+      "A treatise on horse riding",
+      "A book on fort construction",
+      "A collection of tax laws"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "Jayadeva's Gita Govinda revolutionized devotional aesthetics, providing the thematic source for Pahari and Rajasthani miniatures."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Social Science",
+    "chapter": "Chapter 9: The Making of Regional Cultures",
+    "question": "Read the statements:\nAssertion (A): Regional cultures in medieval India developed through a dynamic interplay between distinct local traditions and overarching pan-Indian classical traditions.\nReason (R): Regional languages, dance forms, painting schools, and religious cults absorbed Sanskritic and Persian elements while simultaneously retaining their unique local ecological idioms, folk memories, and aesthetic flavors.\nChoose the correct option:",
+    "options": [
+      "Both (A) and (R) are true, and (R) is the correct explanation of (A).",
+      "Both (A) and (R) are true, but (R) is NOT the correct explanation of (A).",
+      "(A) is true, but (R) is false.",
+      "(A) is false, but (R) is true."
+    ],
+    "correctAnswer": 0,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "The chapter articulates the core thesis: regional cultures are not isolated hermetic silos, but porous syntheses of local folk and pan-Indian classical traditions."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Social Science",
+    "chapter": "Chapter 9: The Making of Regional Cultures",
+    "question": "Spot the IMPOSTER in the following group of Indian Classical Dance Traditions and their corresponding States of Origin:\nGroup:\n1. Kathakali & Mohiniyattam - Kerala\n2. Bharatanatyam - Tamil Nadu\n3. Sattriya - Assam\n4. Kathak - Deep desert valleys of Antarctica",
+    "options": [
+      "Tradition 1",
+      "Tradition 2",
+      "Tradition 3",
+      "Tradition 4 (Kathak is the premier classical dance form of NORTH INDIA [Uttar Pradesh, Rajasthan, Delhi], not Antarctica)"
+    ],
+    "correctAnswer": 3,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "Tradition 4 is an absurd impossibility: Kathak originated in North India's temples and flourished in Awadh and Jaipur."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Social Science",
+    "chapter": "Chapter 9: The Making of Regional Cultures",
+    "question": "Analyze the unique syncretic evolution of the 'Jagannath Cult' at Puri:\nHow does it represent the integration of tribal and Brahmanical traditions?",
+    "options": [
+      "The massive wooden icons of Jagannath, Balabhadra, and Subhadra are carved from sacred neem logs by traditional tribal Daitapati priests, reflecting an indigenous non-anthropomorphic tribal deity seamlessly synthesized into the Vaishnavite Puranic pantheon",
+      "The icons are made of European marble imported by ship",
+      "The worship excludes all local tribal communities completely",
+      "The temple was originally a Mughal palace"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "The Jagannath tradition is the premier example of tribal-Brahmanical syncretism: Daitapati sevayats trace descent to the tribal Sabara king Viswavasu."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Social Science",
+    "chapter": "Chapter 9: The Making of Regional Cultures",
+    "question": "Match Column I (Regional Cultural Forms / Texts) with Column II (Geographic & Linguistic Spheres):\n(a) Manipravalam & Lilathilakam -> (i) Kerala (Chera / Sanskrit-Malayalam synthesis)\n(b) Dochala & Chauchala Temples  -> (ii) Bengal (Vernacular terracotta brick architecture)\n(c) Basohli & Kangra Painting    -> (iii) Pahari Region (Himachal Pradesh / Jammu foothills)\n(d) Jaipur & Lucknow Gharanas    -> (iv) North India (Classical Kathak dance development)",
+    "options": [
+      "a-(i), b-(ii), c-(iii), d-(iv)",
+      "a-(ii), b-(i), c-(iv), d-(iii)",
+      "a-(iv), b-(iii), c-(ii), d-(i)",
+      "a-(iii), b-(iv), c-(i), d-(ii)"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "Manipravalam = Kerala; Dochala = Bengal; Kangra = Pahari; Gharanas = Kathak."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Social Science",
+    "chapter": "Chapter 9: The Making of Regional Cultures",
+    "question": "Read the statements regarding the development of the Bengali language:\nStatement 1: Bengali developed distinct regional dialects and a rich vernacular literature independent of court Persian.\nStatement 2: Early European travelers in Bengal communicated in a pidgin Portuguese-Bengali trade jargon.\nStatement 3: Bengali was created in 1990 by a computer program.\nWhich statements are TRUE?",
+    "options": [
+      "Statements 1 and 2 only",
+      "Statements 2 and 3 only",
+      "Statements 1 and 3 only",
+      "All Statements 1, 2, and 3"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "Statement 3 is an absurd falsehood. Statements 1 and 2 represent established historical linguistics."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Social Science",
+    "chapter": "Chapter 9: The Making of Regional Cultures",
+    "question": "How did the British colonial perception of the 'Rajput' identity in the 19th century flatten and romanticize the complex history of Rajasthan?",
+    "options": [
+      "The British called the entire region 'Rajputana' and propagated the myth that all inhabitants were uniform martial Rajputs, overlooking the immense diversity of merchants, peasants, artisans, and tribal Bhils who shaped Rajasthan's composite culture",
+      "They declared that no Rajputs existed in Rajasthan",
+      "They claimed Rajasthan was an island in the ocean",
+      "They renamed all cities in Rajasthan after British generals"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "Colonial historiography essentialized Rajasthan as 'Rajputana', eclipsing the vital agency of diverse non-Rajput subaltern and tribal communities."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Social Science",
+    "chapter": "Chapter 9: The Making of Regional Cultures",
+    "question": "What technical mastery distinguished the 'Kangra Miniature Painting' school from earlier Mughal court painting?",
+    "options": [
+      "Kangra masters utilized pure, cool mineral pigments (soft greens, ethereal blues), delicate lyrical contours, and an intimate spiritual atmosphere suffused with Vaishnava poetic emotion rather than imperial Mughal court pomp and battles",
+      "Kangra paintings were made on metal sheets using oil paints",
+      "They painted only geometric black-and-white grids",
+      "They never painted human figures"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "Kangra aesthetic triumph: transforming imperial technical draftsmanship into a lyrical, emotionally luminous visual poetry of Krishna-Radha bhakti."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Social Science",
+    "chapter": "Chapter 9: The Making of Regional Cultures",
+    "question": "Why was the 'Sattriya' dance of Assam, developed by Sankaradeva in the 15th century, recognized as a Classical Dance form of India?",
+    "options": [
+      "It preserves a 500-year-old unbroken spiritual performance tradition codified with intricate mudras, tala rhythms, Borgeet melodies, and dramatic narrative integrity within Assamese Vaishnavite Satras",
+      "Because it is a modern European dance",
+      "Because it is performed without any music",
+      "Because it was invented for film movies"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "Sattriya dance is an exquisite, rigorously codified monastic dance-drama tradition nurtured for five centuries in Assam's Satras."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Social Science",
+    "chapter": "Chapter 9: The Making of Regional Cultures",
+    "question": "Consider four regional cultural innovations of medieval India:\n1. Manipravalam literary style (Kerala)\n2. Terracotta Dochala temple architecture (Bengal)\n3. Pahari miniature schools (Himachal)\n4. Gharana system of Kathak (Awadh/Jaipur)\nWhat fundamental socio-historical process do they collectively illustrate?",
+    "options": [
+      "The decentralized flowering of distinct, sophisticated regional cultures that enriched the mosaic of Indian civilization through localized vernacular genius",
+      "The complete destruction of Indian culture",
+      "A series of failed attempts to copy foreign traditions",
+      "An identical culture with no regional differences"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "These innovations showcase the vibrant regionalization of culture: localized artistic, architectural, and linguistic expressions reaching classical maturity."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Social Science",
+    "chapter": "Chapter 9: The Making of Regional Cultures",
+    "question": "How did the terracotta plaques on medieval Bengal temples (such as at Vishnupur) provide a visual mirror of everyday social life?",
+    "options": [
+      "Besides portraying Ramayana and Krishna scenes, they vividly depicted everyday social scenes: Europeans traveling in ships, merchants smoking hookahs, domestic chores, hunting expeditions, and local festivals",
+      "They contained only abstract math numbers",
+      "They depicted only kings sleeping",
+      "They were left completely blank without carvings"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "Bengal terracotta friezes are invaluable visual chronicles: blending sacred mythological epics with candid snapshots of 17th/18th-century deltaic social life."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Social Science",
+    "chapter": "Chapter 9: The Making of Regional Cultures",
+    "question": "What is the historical significance of the 'Rasamanjari' painted in the Basohli style by artist Devidasa in 1694?",
+    "options": [
+      "It represents the zenith of early Pahari painting, characterized by intense glowing colors, beetle-wing fragments for jewelry embellishment, and emotionally charged stylized figures",
+      "It was a military battle map",
+      "It was a legal code for judges",
+      "It was a textbook of Sanskrit mathematics"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "Devidasa's 1694 Basohli Rasamanjari is a landmark of Pahari art, renowned for opulent chromatic vigor and iridescent beetle-wing casing inlays."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Social Science",
+    "chapter": "Chapter 9: The Making of Regional Cultures",
+    "question": "What comprehensive historiographical insight emerges from Chapter 9 of NCERT Class 7 History?",
+    "options": [
+      "Indian regional cultures are dynamic historical creations—forged through centuries of cross-pollination between local languages, folk rituals, classical arts, and overarching political patronages—constituting the glorious pluralistic tapestry of Indian nationhood",
+      "That India was always a monolithic culture with no diversity",
+      "That regional cultures disappeared after the medieval period",
+      "That art was unimportant in medieval India"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "Chapter 9 synthesizes the organic evolution of India's composite regional identities: linguistic pride, artistic excellence, and syncretic cultural heritage."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Hindi Grammar",
+    "chapter": "Chapter 9: विशेषण और उसके भेद",
+    "question": "संज्ञा अथवा सर्वनाम की विशेषता (गुण, दोष, रूप, रंग, आकार, संख्या, परिमाण आदि) बताने वाले शब्दों को क्या कहते हैं?",
+    "options": [
+      "विशेषण (Adjective)",
+      "क्रिया",
+      "अव्यय",
+      "कारक"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "विशेषण: जो शब्द संज्ञा या सर्वनाम की विशेषता प्रकट करते हैं, उन्हें विशेषण कहते हैं।"
+  },
+  {
+    "classLevel": 7,
+    "subject": "Hindi Grammar",
+    "chapter": "Chapter 9: विशेषण और उसके भेद",
+    "question": "विशेषण शब्द जिस संज्ञा अथवा सर्वनाम की विशेषता बताता है, उस संज्ञा/सर्वनाम को व्याकरण में क्या कहते हैं?",
+    "options": [
+      "विशेष्य (जैसे: 'मीठा आम' में 'आम' विशेष्य है)",
+      "प्रविशेषण",
+      "क्रिया",
+      "उद्देश्य"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "विशेष्य: जिसकी विशेषता बताई जाए, वह विशेष्य कहलाता है (जैसे: 'काली गाय' में 'काली' विशेषण और 'गाय' विशेष्य है)।"
+  },
+  {
+    "classLevel": 7,
+    "subject": "Hindi Grammar",
+    "chapter": "Chapter 9: विशेषण और उसके भेद",
+    "question": "विशेषण की भी विशेषता बताने वाले शब्दों को क्या कहा जाता है (जैसे: 'वह बहुत परिश्रमी है' में 'बहुत')?",
+    "options": [
+      "प्रविशेषण (जैसे: बहुत, अत्यंत, बड़ा, अत्यधिक)",
+      "क्रियाविशेषण",
+      "विशेष्य",
+      "संबंधबोधक"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "प्रविशेषण: जो शब्द विशेषणों की भी विशेषता (तीव्रता/मात्रा) बताते हैं, उन्हें प्रविशेषण कहते हैं।"
+  },
+  {
+    "classLevel": 7,
+    "subject": "Hindi Grammar",
+    "chapter": "Chapter 9: विशेषण और उसके भेद",
+    "question": "हिंदी व्याकरण में विशेषण के मुख्य रूप से कितने भेद होते हैं?",
+    "options": [
+      "4 भेद (1. गुणवाचक, 2. संख्यावाचक, 3. परिमाणवाचक, 4. सार्वनामिक विशेषण)",
+      "2 भेद",
+      "6 भेद",
+      "5 भेद"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "विशेषण के 4 भेद हैं: गुणवाचक, संख्यावाचक, परिमाणवाचक, तथा सार्वनामिक (संकेतवाचक) विशेषण।"
+  },
+  {
+    "classLevel": 7,
+    "subject": "Hindi Grammar",
+    "chapter": "Chapter 9: विशेषण और उसके भेद",
+    "question": "जो विशेषण शब्द संज्ञा या सर्वनाम के गुण, दोष, रंग, रूप, आकार, स्वभाव या दशा का बोध कराते हैं (जैसे: 'ईमानदार बालक', 'लाल गुलाब'), वे क्या कहलाते हैं?",
+    "options": [
+      "गुणवाचक विशेषण",
+      "संख्यावाचक विशेषण",
+      "परिमाणवाचक विशेषण",
+      "सार्वनामिक विशेषण"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "गुणवाचक विशेषण: किसी वस्तु/व्यक्ति के गुण, दोष, रंग, आकार, अवस्था का बोध कराने वाले शब्द।"
+  },
+  {
+    "classLevel": 7,
+    "subject": "Hindi Grammar",
+    "chapter": "Chapter 9: विशेषण और उसके भेद",
+    "question": "जो विशेषण शब्द संज्ञा या सर्वनाम की संख्या (गिनती) का बोध कराते हैं (जैसे: 'चार लड़के', 'कुछ पुस्तकें'), वे क्या कहलाते हैं?",
+    "options": [
+      "संख्यावाचक विशेषण",
+      "गुणवाचक विशेषण",
+      "परिमाणवाचक विशेषण",
+      "प्रविशेषण"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "संख्यावाचक विशेषण: गणनीय वस्तुओं की निश्चित अथवा अनिश्चित संख्या का बोध कराने वाले शब्द।"
+  },
+  {
+    "classLevel": 7,
+    "subject": "Hindi Grammar",
+    "chapter": "Chapter 9: विशेषण और उसके भेद",
+    "question": "जो विशेषण शब्द किसी वस्तु की नाप, तौल या मात्रा का बोध कराते हैं (जैसे: 'दो लीटर दूध', 'पाँच किलो चीनी'), वे क्या कहलाते हैं?",
+    "options": [
+      "परिमाणवाचक विशेषण",
+      "संख्यावाचक विशेषण",
+      "गुणवाचक विशेषण",
+      "सार्वनामिक विशेषण"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "परिमाणवाचक विशेषण: अगणनीय द्रव्य, धातु या पदार्थों के नाप-तौल का बोध कराने वाले शब्द।"
+  },
+  {
+    "classLevel": 7,
+    "subject": "Hindi Grammar",
+    "chapter": "Chapter 9: विशेषण और उसके भेद",
+    "question": "जब कोई सर्वनाम शब्द संज्ञा से ठीक पहले आकर उसकी विशेषता प्रकट करता है (जैसे: 'वह लड़का बहुत चतुर है', 'यह पुस्तक मेरी है'), तो वह क्या कहलाता है?",
+    "options": [
+      "सार्वनामिक विशेषण (या संकेतवाचक विशेषण)",
+      "पुरुषवाचक सर्वनाम",
+      "निजवाचक सर्वनाम",
+      "गुणवाचक विशेषण"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "सार्वनामिक विशेषण: जब सर्वनाम संज्ञा से पहले लगकर संज्ञा की ओर संकेत/विशेषता बताता है।"
+  },
+  {
+    "classLevel": 7,
+    "subject": "Hindi Grammar",
+    "chapter": "Chapter 9: विशेषण और उसके भेद",
+    "question": "'कक्षा में तीस विद्यार्थी उपस्थित हैं।' वाक्य में 'तीस' किस प्रकार का विशेषण है?",
+    "options": [
+      "निश्चित संख्यावाचक विशेषण",
+      "अनिश्चित संख्यावाचक विशेषण",
+      "निश्चित परिमाणवाचक",
+      "गुणवाचक"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "'तीस' विद्यार्थियों की निश्चित गणनीय संख्या का बोध कराता है, अतः यह निश्चित संख्यावाचक विशेषण है।"
+  },
+  {
+    "classLevel": 7,
+    "subject": "Hindi Grammar",
+    "chapter": "Chapter 9: विशेषण और उसके भेद",
+    "question": "'बाजार से दो किलो टमाटर ले आओ।' वाक्य में 'दो किलो' किस प्रकार का विशेषण है?",
+    "options": [
+      "निश्चित परिमाणवाचक विशेषण",
+      "अनिश्चित परिमाणवाचक",
+      "निश्चित संख्यावाचक",
+      "सार्वनामिक विशेषण"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "'दो किलो' तौल (मात्रा) का निश्चित परिमाण बताता है, अतः यह निश्चित परिमाणवाचक विशेषण है।"
+  },
+  {
+    "classLevel": 7,
+    "subject": "Hindi Grammar",
+    "chapter": "Chapter 9: विशेषण और उसके भेद",
+    "question": "'भारत' संज्ञा शब्द से बनने वाला उपयुक्त विशेषण क्या होगा?",
+    "options": [
+      "भारतीय",
+      "भारतवासी",
+      "भारतवर्ष",
+      "भारती"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "भारत (संज्ञा) + ईय (प्रत्यय) = भारतीय (विशेषण, जैसे: 'भारतीय संस्कृति')।"
+  },
+  {
+    "classLevel": 7,
+    "subject": "Hindi Grammar",
+    "chapter": "Chapter 9: विशेषण और उसके भेद",
+    "question": "'इतिहास' संज्ञा शब्द से बनने वाला मानक विशेषण शब्द क्या होगा?",
+    "options": [
+      "ऐतिहासिक (इतिहास + इक)",
+      "इतिहासकार",
+      "ऐतिहास",
+      "इतिहासी"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "इतिहास में 'इक' प्रत्यय लगने से आदि स्वर 'इ' की वृद्धि 'ऐ' होकर 'ऐतिहासिक' बनता है।"
+  },
+  {
+    "classLevel": 7,
+    "subject": "Hindi Grammar",
+    "chapter": "Chapter 9: विशेषण और उसके भेद",
+    "question": "संख्यावाचक विशेषण और परिमाणवाचक विशेषण की पहचान करने का सबसे सरल और सटीक नियम क्या है?",
+    "options": [
+      "यदि विशेष्य को 'गिना जा सकता है' (Countable), तो वह 'संख्यावाचक' है (जैसे: चार केले, दस पुस्तकें) ; यदि विशेष्य को 'नापा या तौला जाता है' (Uncountable/Measurable), तो वह 'परिमाणवाचक' है (जैसे: चार लीटर दूध, दो किलो दाल)",
+      "दोनों में कोई अंतर नहीं है",
+      "संख्यावाचक केवल स्त्रीलिंग में आता है",
+      "परिमाणवाचक हमेशा बहुवचन होता है"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "गणनीय संज्ञाओं के साथ संख्यावाचक विशेषण तथा नाप-तौल योग्य अगणनीय संज्ञाओं के साथ परिमाणवाचक विशेषण आता है।"
+  },
+  {
+    "classLevel": 7,
+    "subject": "Hindi Grammar",
+    "chapter": "Chapter 9: विशेषण और उसके भेद",
+    "question": "'मुझे थोड़ा पानी दीजिए।' और 'सभा में थोड़े लोग आए थे।' दोनों वाक्यों में प्रयुक्त 'थोड़ा / थोड़े' क्रमशः किस भेद के अंतर्गत आते हैं?",
+    "options": [
+      "'थोड़ा पानी' = अनिश्चित परिमाणवाचक विशेषण ; 'थोड़े लोग' = अनिश्चित संख्यावाचक विशेषण",
+      "दोनों संख्यावाचक हैं",
+      "दोनों परिमाणवाचक हैं",
+      "दोनों सार्वनामिक विशेषण हैं"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "पानी अगणनीय द्रव्य है (अनिश्चित परिमाण), जबकि लोग गणनीय प्राणी हैं (अनिश्चित संख्या)।"
+  },
+  {
+    "classLevel": 7,
+    "subject": "Hindi Grammar",
+    "chapter": "Chapter 9: विशेषण और उसके भेद",
+    "question": "तुलना की दृष्टि से विशेषण की कुल कितनी अवस्थाएँ (Degrees of Comparison) होती हैं?",
+    "options": [
+      "तीन अवस्थाएँ (1. मूलावस्था [Positive], 2. उत्तरावस्था [Comparative - तर], 3. उत्तमावस्था [Superlative - तम])",
+      "दो अवस्थाएँ",
+      "चार अवस्थाएँ",
+      "पाँच अवस्थाएँ"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "विशेषण की 3 अवस्थाएँ हैं: मूलावस्था (उच्च), उत्तरावस्था (उच्चतर), उत्तमावस्था (उच्चतम)।"
+  },
+  {
+    "classLevel": 7,
+    "subject": "Hindi Grammar",
+    "chapter": "Chapter 9: विशेषण और उसके भेद",
+    "question": "'सुंदर' विशेषण की 'उत्तरावस्था' (Comparative Degree) और 'उत्तमावस्था' (Superlative Degree) क्रमशः क्या होंगी?",
+    "options": [
+      "सुंदरतर और सुंदरतम",
+      "सुंदरी और सुंदरा",
+      "अधिक सुंदर और सबसे सुंदर मात्र",
+      "सुंदरता और सौंदर्य"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "मूलावस्था = सुंदर; उत्तरावस्था = सुंदरतर; उत्तमावस्था = सुंदरतम।"
+  },
+  {
+    "classLevel": 7,
+    "subject": "Hindi Grammar",
+    "chapter": "Chapter 9: विशेषण और उसके भेद",
+    "question": "'कश्मीरी सेब सिंदूरी लाल होता है।' इस वाक्य में 'सिंदूरी' शब्द व्याकरण की दृष्टि से क्या है?",
+    "options": [
+      "प्रविशेषण (क्योंकि यह 'लाल' विशेषण के रंग की गहराई/विशेषता बता रहा है)",
+      "विशेष्य",
+      "क्रियाविशेषण",
+      "सार्वनामिक विशेषण"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "'लाल' विशेषण की विशेषता 'सिंदूरी' बता रहा है, अतः 'सिंदूरी' यहाँ प्रविशेषण है।"
+  },
+  {
+    "classLevel": 7,
+    "subject": "Hindi Grammar",
+    "chapter": "Chapter 9: विशेषण और उसके भेद",
+    "question": "'यह' शब्द का प्रयोग निम्नलिखित दो वाक्यों में किस रूप में हुआ है?\nवाक्य 1: 'यह मेरी कलम है।'\nवाक्य 2: 'यह कलम मेरी है।'\nक्रमशः सही भेद पहचानिए:",
+    "options": [
+      "वाक्य 1 में 'यह' = निश्चयवाचक सर्वनाम ; वाक्य 2 में 'यह' = सार्वनामिक विशेषण",
+      "दोनों में निश्चयवाचक सर्वनाम है",
+      "दोनों में सार्वनामिक विशेषण है",
+      "वाक्य 1 में विशेषण और वाक्य 2 में सर्वनाम है"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "संज्ञा के स्थान पर आने पर सर्वनाम ('यह मेरी कलम है'), संज्ञा से पूर्व आकर संकेत करने पर सार्वनामिक विशेषण ('यह कलम मेरी है')।"
+  },
+  {
+    "classLevel": 7,
+    "subject": "Hindi Grammar",
+    "chapter": "Chapter 9: विशेषण और उसके भेद",
+    "question": "'दिन' संज्ञा शब्द से बनने वाला शुद्ध विशेषण रूप क्या होगा?",
+    "options": [
+      "दैनिक (दिन + इक)",
+      "दीन",
+      "दिनांक",
+      "दिवस"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "दिन + इक = दैनिक (जैसे: दैनिक समाचार पत्र)।"
+  },
+  {
+    "classLevel": 7,
+    "subject": "Hindi Grammar",
+    "chapter": "Chapter 9: विशेषण और उसके भेद",
+    "question": "'भूख' संज्ञा शब्द से बनने वाला सही विशेषण शब्द क्या होगा?",
+    "options": [
+      "भूखा (जैसे: 'भूखा कुत्ता')",
+      "भुखमरी",
+      "भूखिला",
+      "भूखापन"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "भूख (भाववाचक संज्ञा) से 'भूखा' (विशेषण) बनता है।"
+  },
+  {
+    "classLevel": 7,
+    "subject": "Hindi Grammar",
+    "chapter": "Chapter 9: विशेषण और उसके भेद",
+    "question": "'स्थान' संज्ञा शब्द से बनने वाला मानक विशेषण शब्द क्या होगा?",
+    "options": [
+      "स्थानीय (स्थान + ईय)",
+      "स्थानिक",
+      "स्थानबद्ध",
+      "स्थानांतरण"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "स्थान + ईय = स्थानीय (जैसे: स्थानीय प्रशासन)।"
+  },
+  {
+    "classLevel": 7,
+    "subject": "Hindi Grammar",
+    "chapter": "Chapter 9: विशेषण और उसके भेद",
+    "question": "'पहला, दूसरा, तीसरा, पाँचवाँ' किस प्रकार के निश्चित संख्यावाचक विशेषण हैं?",
+    "options": [
+      "क्रमवाचक विशेषण (Ordinal Numerals)",
+      "गणनावाचक विशेषण",
+      "आवृत्तिवाचक विशेषण",
+      "समुदायवाचक विशेषण"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "क्रमवाचक: जो क्रम या सिलसिले का बोध कराएँ (पहला, दूसरा, तीसरा, दसवाँ)।"
+  },
+  {
+    "classLevel": 7,
+    "subject": "Hindi Grammar",
+    "chapter": "Chapter 9: विशेषण और उसके भेद",
+    "question": "'दुगुना, तिगुना, चौगुना, सौगुना' किस प्रकार के निश्चित संख्यावाचक विशेषण हैं?",
+    "options": [
+      "आवृत्तिवाचक विशेषण (Multiplicative Numerals)",
+      "क्रमवाचक विशेषण",
+      "समुदायवाचक विशेषण",
+      "प्रत्येकबोधक विशेषण"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "आवृत्तिवाचक: जो किसी संख्या की आवृत्ति या गुणन (Multiple) का बोध कराएँ (दुगुना, चौगुना)।"
+  },
+  {
+    "classLevel": 7,
+    "subject": "Hindi Grammar",
+    "chapter": "Chapter 9: विशेषण और उसके भेद",
+    "question": "'दोनों, तीनों, चारों, दसों' किस प्रकार के निश्चित संख्यावाचक विशेषण हैं?",
+    "options": [
+      "समुदायवाचक विशेषण (Collective Numerals)",
+      "गणनावाचक विशेषण",
+      "क्रमवाचक विशेषण",
+      "अनिश्चित संख्यावाचक"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "समुदायवाचक: जो सभी इकाइयों के समूह या समुदाय का बोध कराएँ (दोनों, तीनों, चारों)।"
+  },
+  {
+    "classLevel": 7,
+    "subject": "Hindi Grammar",
+    "chapter": "Chapter 9: विशेषण और उसके भेद",
+    "question": "'प्रत्येक, हर-एक, प्रति' किस प्रकार के निश्चित संख्यावाचक विशेषण हैं?",
+    "options": [
+      "प्रत्येकबोधक विशेषण (Distributive Numerals)",
+      "आवृत्तिवाचक विशेषण",
+      "क्रमवाचक विशेषण",
+      "गुणवाचक विशेषण"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "प्रत्येकबोधक: जो अनेक में से हर-एक का पृथक बोध कराएँ (प्रत्येक नागरिक, हर-एक छात्र)।"
+  },
+  {
+    "classLevel": 7,
+    "subject": "Hindi Grammar",
+    "chapter": "Chapter 9: विशेषण और उसके भेद",
+    "question": "'रंग' संज्ञा शब्द से बनने वाला उपयुक्त विशेषण क्या होगा?",
+    "options": [
+      "रंगीला / रंगीन",
+      "रंगत",
+      "रंगना",
+      "रंगहीनता"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "रंग + ईला = रंगीला; रंग + ईन = रंगीन (विशेषण रूप)।"
+  },
+  {
+    "classLevel": 7,
+    "subject": "Hindi Grammar",
+    "chapter": "Chapter 9: विशेषण और उसके भेद",
+    "question": "'उड़ना' क्रिया शब्द से बनने वाला विशेषण शब्द क्या होगा?",
+    "options": [
+      "उड़ाऊ (या उड़ने वाला / उड़ाका)",
+      "उड़ान",
+      "उड़ना",
+      "उड़न"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "उड़ना क्रिया से 'उड़ाऊ' (धन उड़ाने वाला) या 'उड़ाका' विशेषण बनता है।"
+  },
+  {
+    "classLevel": 7,
+    "subject": "Hindi Grammar",
+    "chapter": "Chapter 9: विशेषण और उसके भेद",
+    "question": "'आगे' अव्यय शब्द से बनने वाला विशेषण शब्द क्या होगा?",
+    "options": [
+      "अगला (जैसे: 'अगला स्टेशन')",
+      "आगेवाला",
+      "अग्रणी",
+      "आगामी"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "आगे (स्थानवाचक अव्यय) से 'अगला' विशेषण बनता है ('पीछे' से 'पिछला')।"
+  },
+  {
+    "classLevel": 7,
+    "subject": "Hindi Grammar",
+    "chapter": "Chapter 9: विशेषण और उसके भेद",
+    "question": "कथन और कारण को ध्यानपूर्वक पढ़ें:\nकथन (A): 'राम बहुत चतुर बालक है।' इस वाक्य में 'चतुर' विशेषण, 'बालक' विशेष्य तथा 'बहुत' प्रविशेषण है।\nकारण (R): 'चतुर' शब्द संज्ञा 'बालक' के गुण की विशेषता बता रहा है, जबकि 'बहुत' शब्द विशेषण 'चतुर' की तीव्रता (आधिक्य) प्रकट कर रहा है।\nसही विकल्प चुनें:",
+    "options": [
+      "(A) और (R) दोनों सही हैं तथा (R), (A) की सही व्याख्या करता है।",
+      "(A) और (R) दोनों सही हैं, परन्तु (R), (A) की सही व्याख्या नहीं करता।",
+      "(A) सही है, परन्तु (R) गलत है।",
+      "(A) गलत है, परन्तु (R) सही है।"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "'बालक' = विशेष्य, 'चतुर' = गुणवाचक विशेषण, 'बहुत' = प्रविशेषण (विशेषण की विशेषता बताने वाला)।"
+  },
+  {
+    "classLevel": 7,
+    "subject": "Hindi Grammar",
+    "chapter": "Chapter 9: विशेषण और उसके भेद",
+    "question": "Spot the IMPOSTER in the following group of संज्ञा से बने विशेषण शब्दों में:\nGroup:\n1. समाज - सामाजिक\n2. चमक - चमकीला\n3. नीति - नैतिक\n4. पढ़ना - पढ़ाकू",
+    "options": [
+      "युग्म 1",
+      "युग्म 2",
+      "युग्म 3",
+      "युग्म 4 ('पढ़ना' संज्ञा नहीं, बल्कि 'क्रिया' [Verb] है ; अतः 'पढ़ाकू' क्रिया से बना विशेषण है, संज्ञा से नहीं)"
+    ],
+    "correctAnswer": 3,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "युग्म 4 में 'पढ़ना' क्रिया है, जबकि 1, 2, 3 में समाज, चमक, नीति भाववाचक/जातिवाचक संज्ञाएँ हैं।"
+  },
+  {
+    "classLevel": 7,
+    "subject": "Hindi Grammar",
+    "chapter": "Chapter 9: विशेषण और उसके भेद",
+    "question": "सुमेलित कीजिए (विशेषण की तुलनात्मक अवस्थाएँ):\n(क) लघु      -> (i) मूलावस्था (Positive Degree)\n(ख) लघुतर    -> (ii) उत्तरावस्था (Comparative Degree)\n(ग) लघुतम    -> (iii) उत्तमावस्था (Superlative Degree)\n(घ) अति लघु   -> (iv) हिंदी में उत्तरावस्था/प्रविशेषण युक्त रूप",
+    "options": [
+      "क-(i), ख-(ii), ग-(iii), घ-(iv)",
+      "क-(ii), ख-(i), ग-(iv), घ-(iii)",
+      "क-(iv), ख-(iii), ग-(ii), घ-(i)",
+      "क-(iii), ख-(iv), ग-(i), घ-(ii)"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "लघु = मूलावस्था; लघुतर = उत्तरावस्था; लघुतम = उत्तमावस्था।"
+  },
+  {
+    "classLevel": 7,
+    "subject": "Hindi Grammar",
+    "chapter": "Chapter 9: विशेषण और उसके भेद",
+    "question": "'उद्देश्य विशेषण' (Attributive Adjective) और 'विधेय विशेषण' (Predicative Adjective) में क्या व्याकरणिक अंतर होता है?",
+    "options": [
+      "जब विशेषण विशेष्य (संज्ञा) से पहले आता है, तो वह 'उद्देश्य विशेषण' कहलाता है (जैसे: 'काला घोड़ा दौड़ा') ; जब विशेषण विशेष्य के बाद और क्रिया से पहले आता है, तो वह 'विधेय विशेषण' कहलाता है (जैसे: 'घोड़ा काला है')",
+      "दोनों में कोई अंतर नहीं होता",
+      "उद्देश्य विशेषण केवल स्त्रीलिंग होता है",
+      "विधेय विशेषण केवल भविष्यत काल में आता है"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "संज्ञा से पूर्व विशेषण = उद्देश्य विशेषण ('सफेद गाय'); संज्ञा के उपरांत विशेषण = विधेय विशेषण ('गाय सफेद है')।"
+  },
+  {
+    "classLevel": 7,
+    "subject": "Hindi Grammar",
+    "chapter": "Chapter 9: विशेषण और उसके भेद",
+    "question": "निम्नलिखित वाक्यों में से किस वाक्य में 'विधेय विशेषण' का शुद्ध प्रयोग हुआ है?",
+    "options": [
+      "'मेरा कुर्ता बहुत पुराना है।' ('पुराना' विशेषण विशेष्य 'कुर्ता' के बाद प्रयुक्त हुआ है)",
+      "'पुराना कुर्ता अलमारी में रखा है।'",
+      "'सफेद हंस तैर रहा है।'",
+      "'मीठा आम खाओ।'"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "'मेरा कुर्ता बहुत पुराना है' में 'पुराना' विधेय भाग में विशेष्य के बाद आया है, अतः यह विधेय विशेषण है।"
+  },
+  {
+    "classLevel": 7,
+    "subject": "Hindi Grammar",
+    "chapter": "Chapter 9: विशेषण और उसके भेद",
+    "question": "'शास्त्र' संज्ञा शब्द से बनने वाला मानक व्याकरणिक विशेषण क्या होगा?",
+    "options": [
+      "शास्त्रीय (शास्त्र + ईय, जैसे: शास्त्रीय संगीत)",
+      "शास्त्रज्ञ",
+      "शास्त्रार्थ",
+      "शास्त्री"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "शास्त्र + ईय = शास्त्रीय (Classical, जैसे: शास्त्रीय नृत्य)।"
+  },
+  {
+    "classLevel": 7,
+    "subject": "Hindi Grammar",
+    "chapter": "Chapter 9: विशेषण और उसके भेद",
+    "question": "'आत्मा' संज्ञा शब्द से बनने वाला शुद्ध विशेषण रूप क्या होगा?",
+    "options": [
+      "आत्मिक (आत्मा + इक)",
+      "आत्मीय",
+      "आत्मवान",
+      "आत्मावान"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "आत्मा + इक = आत्मिक (जैसे: आत्मिक शांति)।"
+  },
+  {
+    "classLevel": 7,
+    "subject": "Hindi Grammar",
+    "chapter": "Chapter 9: विशेषण और उसके भेद",
+    "question": "'नगर' और 'ग्राम' शब्दों से बनने वाले विशेषण युग्म का सही चयन कीजिए:",
+    "options": [
+      "नागरिक और ग्रामीण (नगर + इक = नागरिक ; ग्राम + ईण = ग्रामीण)",
+      "नगरी और ग्रामी",
+      "नगरवासी और ग्रामवासी",
+      "नगरिक और ग्रामीन"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "नगर + इक = नागरिक; ग्राम + ईण = ग्रामीण।"
+  },
+  {
+    "classLevel": 7,
+    "subject": "Hindi Grammar",
+    "chapter": "Chapter 9: विशेषण और उसके भेद",
+    "question": "निम्नलिखित वाक्यों में से 'अशुद्ध विशेषण प्रयोग' वाला वाक्य छाँटिए:",
+    "options": [
+      "'वह बहुत सबसे सुंदरतम लड़की है।' (अशुद्ध: 'सबसे' और 'सुंदरतम' दोनों का एक साथ प्रयोग पुनरुक्ति दोष है ; शुद्ध: 'वह सुंदरतम लड़की है' या 'वह सबसे सुंदर लड़की है')",
+      "'वह बहुत परिश्रमी छात्र है।'",
+      "'गंगा भारत की सबसे पवित्र नदी है।'",
+      "'यह पुस्तक अत्यंत उपयोगी है।'"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "उत्तमावस्था में 'सबसे' और 'तम' प्रत्यय का एक साथ प्रयोग व्याकरणिक दृष्टि से वर्जित पुनरुक्ति दोष है।"
+  },
+  {
+    "classLevel": 7,
+    "subject": "Hindi Grammar",
+    "chapter": "Chapter 9: विशेषण और उसके भेद",
+    "question": "'व्यक्ति' संज्ञा शब्द से बनने वाला सही विशेषण क्या होगा?",
+    "options": [
+      "व्यक्तिगत (व्यक्ति + गत, जैसे: व्यक्तिगत राय)",
+      "व्यक्तित्व",
+      "व्यक्तिपरक",
+      "व्यक्तिमान"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "व्यक्ति + गत = व्यक्तिगत (Personal / Individual)।"
+  },
+  {
+    "classLevel": 7,
+    "subject": "Hindi Grammar",
+    "chapter": "Chapter 9: विशेषण और उसके भेद",
+    "question": "'रस' संज्ञा शब्द से बनने वाला उपयुक्त विशेषण क्या होगा?",
+    "options": [
+      "रसीला (जैसे: 'रसीला आम')",
+      "रसायन",
+      "रसिकता",
+      "रसमयता"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "रस + ईला = रसीला (विशेषण)।"
+  },
+  {
+    "classLevel": 7,
+    "subject": "Hindi Grammar",
+    "chapter": "Chapter 9: विशेषण और उसके भेद",
+    "question": "विशेषण और विशेष्य के अन्वय (Agreement) का भाषा-सौंदर्य और वाक्य-शुद्धि में क्या सर्वोच्च महत्व है?",
+    "options": [
+      "विशेषण का लिंग और वचन सदैव अपने विशेष्य (संज्ञा) के लिंग और वचन के अनुसार ही निर्धारित होता है (जैसे: 'अच्छा लड़का', 'अच्छी लड़की', 'अच्छे लड़के') ; इस अन्वय के बिना भाषा अशुद्ध हो जाती है",
+      "विशेषण का लिंग कभी नहीं बदलता",
+      "विशेषण केवल वाक्यों को लंबा करने के लिए प्रयुक्त होते हैं",
+      "विशेषण का भाषा में कोई महत्व नहीं है"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "हिंदी में आकारांत विशेषणों का रूप विशेष्य के लिंग और वचन के अनुसार अनिवार्यतः रूपांतरित होता है।"
+  }
+]

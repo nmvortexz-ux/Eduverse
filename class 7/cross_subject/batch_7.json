@@ -1,0 +1,3842 @@
+[
+  {
+    "classLevel": 7,
+    "subject": "Science",
+    "chapter": "Chapter 7: Transportation in Animals and Plants",
+    "question": "What is the fluid connective tissue in humans that transports oxygen, nutrients, hormones, and metabolic wastes throughout the body?",
+    "options": [
+      "Blood",
+      "Lymph",
+      "Saliva",
+      "Urine"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "Blood is the primary circulating fluid comprising plasma, erythrocytes (RBCs), leukocytes (WBCs), and thrombocytes (platelets)."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Science",
+    "chapter": "Chapter 7: Transportation in Animals and Plants",
+    "question": "What is the straw-colored fluid matrix part of blood in which all blood cells are suspended?",
+    "options": [
+      "Plasma (constituting ~55% of blood volume)",
+      "Hemoglobin",
+      "Platelet",
+      "Serum"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "Plasma is the liquid extracellular matrix containing 90–92% water, dissolved proteins, glucose, minerals, and waste products."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Science",
+    "chapter": "Chapter 7: Transportation in Animals and Plants",
+    "question": "Which red iron-containing protein pigment in Red Blood Cells (RBCs) binds with Oxygen to carry it to all body cells?",
+    "options": [
+      "Hemoglobin",
+      "Chlorophyll",
+      "Myoglobin",
+      "Keratin"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "Hemoglobin in RBCs binds O₂ to form oxyhemoglobin, imparting the characteristic red color to blood."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Science",
+    "chapter": "Chapter 7: Transportation in Animals and Plants",
+    "question": "Which blood cells act as the body's immune soldiers, fighting and destroying disease-causing germs and foreign microbes?",
+    "options": [
+      "White Blood Cells (WBCs / Leukocytes)",
+      "Red Blood Cells (RBCs)",
+      "Platelets",
+      "Plasma"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "White Blood Cells (Leukocytes) produce antibodies and perform phagocytosis to neutralize pathogens."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Science",
+    "chapter": "Chapter 7: Transportation in Animals and Plants",
+    "question": "Which cellular fragments in blood form a dark red clot over cuts and wounds to prevent excessive fatal bleeding?",
+    "options": [
+      "Platelets (Thrombocytes)",
+      "Red Blood Cells",
+      "White Blood Cells",
+      "Hemoglobin"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "Platelets initiate the coagulation cascade, forming fibrin mesh clots to seal broken blood vessels."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Science",
+    "chapter": "Chapter 7: Transportation in Animals and Plants",
+    "question": "Which blood vessels carry oxygen-rich blood away from the heart to all parts of the body under high pressure, having thick elastic walls?",
+    "options": [
+      "Arteries",
+      "Veins",
+      "Capillaries",
+      "Vena Cava"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "Arteries possess thick, muscular, elastic walls to withstand pulsatile high hydrostatic systolic blood pressure from the heart."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Science",
+    "chapter": "Chapter 7: Transportation in Animals and Plants",
+    "question": "Which blood vessels carry carbon dioxide-rich deoxygenated blood from all organs back towards the heart, having internal VALVES to prevent backflow?",
+    "options": [
+      "Veins",
+      "Arteries",
+      "Aorta",
+      "Capillaries"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "Veins are thin-walled, low-pressure vessels equipped with unidirectional semilunar valves ensuring forward blood flow to the heart."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Science",
+    "chapter": "Chapter 7: Transportation in Animals and Plants",
+    "question": "What is the rhythmic throbbing felt in the radial artery at the wrist caused by blood surging through arteries called?",
+    "options": [
+      "Pulse (normal resting rate is 72 to 80 beats per minute)",
+      "Blood Pressure",
+      "Heart Murmur",
+      "Respiration"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "The arterial pulse reflects ventricular systole; normal human resting pulse rate ranges between 72–80 bpm."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Science",
+    "chapter": "Chapter 7: Transportation in Animals and Plants",
+    "question": "How many muscular pumping chambers are there in the human heart to prevent the mixing of oxygenated and deoxygenated blood?",
+    "options": [
+      "4 Chambers (Two upper Atria and two lower Ventricles separated by a muscular Septum)",
+      "2 Chambers",
+      "3 Chambers",
+      "6 Chambers"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "The human heart has 4 chambers: Right/Left Atria and Right/Left Ventricles, partitioned by an interventricular septum."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Science",
+    "chapter": "Chapter 7: Transportation in Animals and Plants",
+    "question": "What medical acoustic instrument invented by René Laennec in 1816 is used by doctors to amplify and listen to heartbeat sounds?",
+    "options": [
+      "Stethoscope",
+      "Sphygmomanometer",
+      "Thermometer",
+      "Microscope"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "A stethoscope uses a chest diaphragm, acoustic tube, and earpieces to auscultate cardiac valve closure sounds (Lub-Dub)."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Science",
+    "chapter": "Chapter 7: Transportation in Animals and Plants",
+    "question": "Which specialized vascular conducting tissue transports Water and dissolved mineral nutrients UPWARDS from roots to leaves in plants?",
+    "options": [
+      "Xylem (Vascular tissue)",
+      "Phloem",
+      "Cortex",
+      "Stomata"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "Xylem vessels form a continuous microscopic hydraulic pipeline conducting water and minerals from soil to leaves."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Science",
+    "chapter": "Chapter 7: Transportation in Animals and Plants",
+    "question": "Which vascular conducting tissue transports synthesized Food (sucrose/glucose) from the green leaves to all non-photosynthetic parts of the plant?",
+    "options": [
+      "Phloem (Translocation)",
+      "Xylem",
+      "Root hairs",
+      "Epidermis"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "Phloem sieve tubes and companion cells translocate organic food bidirectional throughout the plant."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Science",
+    "chapter": "Chapter 7: Transportation in Animals and Plants",
+    "question": "Which is the ONLY artery in the human body that carries DEOXYGENATED (CO₂-rich) blood?",
+    "options": [
+      "The Pulmonary Artery (carries deoxygenated blood from the right ventricle to the lungs)",
+      "The Aorta",
+      "The Renal Artery",
+      "The Carotid Artery"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "By definition, arteries carry blood away from the heart; the pulmonary artery delivers deoxygenated venous blood to pulmonary alveoli."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Science",
+    "chapter": "Chapter 7: Transportation in Animals and Plants",
+    "question": "Which is the ONLY vein in the human body that carries OXYGENATED (O₂-rich) blood?",
+    "options": [
+      "The Pulmonary Vein (carries oxygenated blood from the lungs back to the left atrium of the heart)",
+      "The Superior Vena Cava",
+      "The Inferior Vena Cava",
+      "The Jugular Vein"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "Pulmonary veins drain oxygenated blood from pulmonary capillaries directly into the left atrium."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Science",
+    "chapter": "Chapter 7: Transportation in Animals and Plants",
+    "question": "What are the microscopic, extremely thin single-cell-walled blood vessels connecting arterioles to venules, where diffusion of gases, glucose, and wastes occurs?",
+    "options": [
+      "Capillaries",
+      "Arteries",
+      "Veins",
+      "Aorta"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "Capillaries have single-cell endothelial walls (diameter ~7-8 µm) permitting rapid nutrient, waste, and gas exchange."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Science",
+    "chapter": "Chapter 7: Transportation in Animals and Plants",
+    "question": "What is the biological mechanism of 'Transpiration' in plants and what vital cooling/suction force does it generate?",
+    "options": [
+      "Evaporation of water vapor through stomata creates a continuous negative suction pressure (Transpirational Pull) that pulls water hundreds of feet high in tall trees while cooling the foliage",
+      "Absorption of carbon dioxide by roots",
+      "Release of oxygen into the soil",
+      "Transport of sugars to roots"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "Transpiration generates negative hydrostatic tension (transpirational pull / cohesion-tension theory) elevating sap through xylem."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Science",
+    "chapter": "Chapter 7: Transportation in Animals and Plants",
+    "question": "What is the main toxic nitrogenous excretory waste filtered and removed from human blood by the Kidneys?",
+    "options": [
+      "Urea",
+      "Uric Acid only",
+      "Ammonia gas only",
+      "Carbon Dioxide"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "Human excretion is ureotelic: hepatic deamination converts toxic ammonia into urea, which is cleared by renal filtration."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Science",
+    "chapter": "Chapter 7: Transportation in Animals and Plants",
+    "question": "What is the average normal chemical composition of human Urine excreted by a healthy adult (approx. 1.0 to 1.8 liters per day)?",
+    "options": [
+      "95% Water, 2.5% Urea, and 2.5% other metabolic waste salts and minerals",
+      "50% Water and 50% Sugar",
+      "100% pure Water",
+      "90% Acid and 10% Blood"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "Normal urine consists of ~95% water, 2.5% urea, and 2.5% dissolved mineral ions (sodium, potassium, creatinine, phosphates)."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Science",
+    "chapter": "Chapter 7: Transportation in Animals and Plants",
+    "question": "What is the correct pathway of Urine from formation to discharge in the human excretory system?",
+    "options": [
+      "Kidneys -> Ureters (muscular tubes) -> Urinary Bladder (storage pouch) -> Urethra (muscular exit opening)",
+      "Kidneys -> Urethra -> Bladder -> Ureters",
+      "Bladder -> Kidneys -> Ureters -> Urethra",
+      "Ureters -> Kidneys -> Bladder -> Urethra"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "Renal glomeruli filter blood → nephron tubules drain into ureters → stored in urinary bladder → voided via urethra."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Science",
+    "chapter": "Chapter 7: Transportation in Animals and Plants",
+    "question": "What is the medical procedure of 'Dialysis' used when a patient experiences acute or chronic Renal (Kidney) Failure?",
+    "options": [
+      "An artificial kidney machine periodically filters toxic nitrogenous wastes, urea, and excess salts from the patient's blood through semi-permeable membranes",
+      "Injecting water directly into the heart",
+      "Pumping oxygen into the stomach",
+      "A surgery to replace bones"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "Hemodialysis circulates patient blood through dialyzer semi-permeable cartridges to clear metabolic toxins and normalize electrolytes."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Science",
+    "chapter": "Chapter 7: Transportation in Animals and Plants",
+    "question": "Why do we develop white salty patches on our cotton clothes under the armpits on hot summer days?",
+    "options": [
+      "Sweat glands secrete sweat containing water and dissolved mineral SALTS (NaCl) ; as water evaporates to cool the body, white solid salt crystals are left behind on fabric",
+      "Dust settles from the ceiling",
+      "The cloth bleach dissolves",
+      "Bacteria produce salt"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "Eccrine sweat evaporation cools the epidermis (latent heat of vaporization), leaving solute sodium chloride residues on clothing."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Science",
+    "chapter": "Chapter 7: Transportation in Animals and Plants",
+    "question": "Why do simple aquatic organisms like Sponges (Porifera) and Hydra NOT possess any specialized circulatory system or blood?",
+    "options": [
+      "Water circulating through their porous body cavities continuously brings food and oxygen directly to all cells and washes away carbon dioxide and waste products",
+      "Because they have no cells",
+      "Because they live in trees",
+      "Because they produce pure gold"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "Sponges and Hydra have diploblastic body plans where ambient aquatic currents directly service cellular diffusion without vascular tissue."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Science",
+    "chapter": "Chapter 7: Transportation in Animals and Plants",
+    "question": "How do Root Hairs in plants increase the absorption of water and dissolved minerals from the soil?",
+    "options": [
+      "They massively increase the total surface area of root epidermal contact with soil capillary water films, facilitating rapid Osmosis",
+      "They drill deep holes like metal drills",
+      "They produce heat to melt soil",
+      "They turn soil into sand"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "Unicellular root hair extensions amplify root surface area thousands-fold, driving water uptake via osmotic potential gradients."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Science",
+    "chapter": "Chapter 7: Transportation in Animals and Plants",
+    "question": "In what form do Birds, Lizards, and Snakes (terrestrial reptiles) excrete nitrogenous waste to conserve precious body water?",
+    "options": [
+      "Semi-solid white paste composed of insoluble URIC ACID",
+      "Liquid ammonia in large water volume",
+      "Liquid urea",
+      "Dry carbon powder"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "Uricotelic adaptation: birds and reptiles precipitate non-toxic insoluble uric acid paste to minimize evaporative water loss."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Science",
+    "chapter": "Chapter 7: Transportation in Animals and Plants",
+    "question": "In what form do aquatic freshwater Fish excrete their nitrogenous waste directly into surrounding water?",
+    "options": [
+      "Readily soluble gaseous AMMONIA (Ammonotelic excretion)",
+      "Insoluble uric acid crystals",
+      "Solid urea pellets",
+      "Gaseous nitrogen"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "Ammonotelic fish diffuse toxic ammonia directly across branchial gill membranes into the surrounding aquatic sink."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Science",
+    "chapter": "Chapter 7: Transportation in Animals and Plants",
+    "question": "What is the primary function of the 'Septum' dividing the left and right halves of the human heart?",
+    "options": [
+      "It acts as a complete muscular dividing wall preventing oxygen-rich blood on the left side from mixing with carbon dioxide-rich blood on the right side",
+      "It filters water from blood",
+      "It cools the heart muscle",
+      "It produces new red blood cells"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "The cardiac septum enforces complete separation of pulmonary and systemic circulations, maximizing arterial oxygen saturation."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Science",
+    "chapter": "Chapter 7: Transportation in Animals and Plants",
+    "question": "What makes the 'Lub-Dub' sound heard through a stethoscope during each complete cardiac cycle?",
+    "options": [
+      "The rhythmic, rapid closure of cardiac valves (Atrioventricular valves snapping shut for 'Lub', and Semilunar aortic/pulmonary valves for 'Dub')",
+      "Blood splashing against the ribs",
+      "Air rushing into the lungs",
+      "The heart rubbing against the stomach"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "First heart sound S₁ ('Lub') = AV (tricuspid/mitral) valve closure; Second sound S₂ ('Dub') = semilunar (aortic/pulmonic) valve closure."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Science",
+    "chapter": "Chapter 7: Transportation in Animals and Plants",
+    "question": "What happens when a leafy balsam plant stem is kept in water colored with Red Ink (Eosin) for a few hours?",
+    "options": [
+      "The red colored water travels UPWARDS through the Xylem vessels, staining the stem vascular bundles and leaf veins distinctly red",
+      "The leaves turn completely black",
+      "The plant catches fire",
+      "The roots dissolve"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "Classic xylem transport demonstration: capillary xylem tracheary elements conduct eosin dye upwards into leaf petiole veins."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Science",
+    "chapter": "Chapter 7: Transportation in Animals and Plants",
+    "question": "Read the statements:\nAssertion (A): Human systemic arterial circulation maintains complete double circulation (Pulmonary and Systemic loops).\nReason (R): Blood passes through the human 4-chambered heart TWICE during each complete circuit of the body, preventing any mixing of oxygenated and deoxygenated blood and providing high-pressure oxygen delivery to endothermic tissues.\nChoose the correct option:",
+    "options": [
+      "Both (A) and (R) are true, and (R) is the correct explanation of (A).",
+      "Both (A) and (R) are true, but (R) is NOT the correct explanation of (A).",
+      "(A) is true, but (R) is false.",
+      "(A) is false, but (R) is true."
+    ],
+    "correctAnswer": 0,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "Double circulation decouples low-pressure pulmonary gas exchange from high-pressure systemic perfusion in warm-blooded homeotherms."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Science",
+    "chapter": "Chapter 7: Transportation in Animals and Plants",
+    "question": "Spot the IMPOSTER in the following group of Nitrogenous Excretory Products and their animal classifications:\nGroup:\n1. Aquatic bony fish - Ammonia (Ammonotelic)\n2. Adult humans and mammals - Urea (Ureotelic)\n3. Birds and Desert Lizards - Uric Acid (Uricotelic)\n4. Earthworms and Frogs - Pure Gold crystals only",
+    "options": [
+      "Classification 1",
+      "Classification 2",
+      "Classification 3",
+      "Classification 4 (Frogs and Earthworms excrete Urea and Ammonia, NEVER gold)"
+    ],
+    "correctAnswer": 3,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "Classification 4 is an absurd impossibility: amphibians and annelids excrete urea and ammonia according to hydration state."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Science",
+    "chapter": "Chapter 7: Transportation in Animals and Plants",
+    "question": "Trace the EXACT pathway of deoxygenated blood entering the human heart from body tissues until it leaves as oxygenated blood for systemic distribution:\nSequence:\n1. Vena Cava -> Right Atrium -> Right Ventricle\n2. Pulmonary Artery -> Lungs (Oxygenation)\n3. Pulmonary Vein -> Left Atrium -> Left Ventricle\n4. Aorta -> Systemic Arteries to Body Organs\nWhich chamber of the heart has the THICKEST, most powerful muscular myocardium wall to pump blood to the entire body?",
+    "options": [
+      "The LEFT VENTRICLE (which pumps oxygenated blood under immense pressure into the systemic Aorta)",
+      "The Right Atrium",
+      "The Left Atrium",
+      "The Right Ventricle"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "The left ventricle possesses a thick muscular wall (3× thicker than the right) to overcome total systemic vascular peripheral resistance."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Science",
+    "chapter": "Chapter 7: Transportation in Animals and Plants",
+    "question": "Match Column I (Vascular / Circulatory Components) with Column II (Physiological Functions):\n(a) Xylem Tracheids & Vessels -> (i) Unidirectional upward conduction of water & minerals via transpirational tension\n(b) Phloem Sieve Tubes         -> (ii) Bidirectional translocation of synthesized sucrose/photosynthates\n(c) Blood Platelets            -> (iii) Hemostasis and thromboplastin cascade for clot formation\n(d) Renal Nephrons             -> (iv) Ultrafiltration and selective reabsorption to produce urine",
+    "options": [
+      "a-(i), b-(ii), c-(iii), d-(iv)",
+      "a-(ii), b-(i), c-(iv), d-(iii)",
+      "a-(iv), b-(iii), c-(ii), d-(i)",
+      "a-(iii), b-(iv), c-(i), d-(ii)"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "Xylem = water tension; Phloem = food translocation; Platelets = coagulation; Nephrons = renal filtration."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Science",
+    "chapter": "Chapter 7: Transportation in Animals and Plants",
+    "question": "Read the statements regarding physiological transport in plants:\nStatement 1: Transpiration creates a negative tension (suction pull) that can elevate water columns exceeding 100 metres in giant Sequoia trees.\nStatement 2: Osmotic absorption in root hairs is driven by higher solute concentration inside root cells compared to soil water.\nStatement 3: Phloem vessels only conduct water downwards and are made of dead hollow stone cells.\nWhich statements are TRUE?",
+    "options": [
+      "Statements 1 and 2 only",
+      "Statements 2 and 3 only",
+      "Statements 1 and 3 only",
+      "All Statements 1, 2, and 3"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "Statement 3 is false (phloem contains living sieve tubes translocating food bidirectionally; dead tracheary cells compose xylem). Statements 1 and 2 are true."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Science",
+    "chapter": "Chapter 7: Transportation in Animals and Plants",
+    "question": "What physical-chemical properties of water molecules explain how tall redwood trees sustain unbroken water columns in xylem without snapping under massive tension?",
+    "options": [
+      "Cohesion (mutual attraction between water molecules) and Adhesion (attraction between water molecules and hydrophilic xylem cellulose walls)",
+      "Water molecules turning into ice inside the stem",
+      "Magnetic attraction between roots and clouds",
+      "Air bubbles pushing the water"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "Dixon-Joly Cohesion-Tension theory: hydrogen bonding provides immense tensile strength (>100 atm) resisting cavitation."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Science",
+    "chapter": "Chapter 7: Transportation in Animals and Plants",
+    "question": "Why is William Harvey (1578–1657) celebrated as a founding father of modern physiology for his discovery of blood circulation?",
+    "options": [
+      "He disproved Galen's 1,400-year doctrine by experimentally demonstrating that the heart acts as a muscular pump circulating a fixed volume of blood unidirectionally through closed circuits of arteries and veins",
+      "He invented blood transfusions in 1500",
+      "He discovered that blood has no cells",
+      "He proved that the liver pumps blood to the lungs"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "Harvey's 'De Motu Cordis' (1628) established closed unidirectional hemodynamics driven by mechanical ventricular pumping."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Science",
+    "chapter": "Chapter 7: Transportation in Animals and Plants",
+    "question": "Consider four physiological events:\n1. Glomerular Ultrafiltration in Kidneys\n2. Transpirational pull in Leaf Stomata\n3. Clotting of blood by Platelet Fibrinogen\n4. Phagocytosis of bacteria by Macrophages/WBCs\nWhich of these are ESSENTIAL HOMEOSTATIC EXCRETORY OR VASCULAR DEFENSE MECHANISMS?",
+    "options": [
+      "All 1, 2, 3, and 4",
+      "1 and 2 only",
+      "3 and 4 only",
+      "1 and 3 only"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "All four represent core biological regulatory systems: renal clearance, plant sap ascent, hemostasis, and cellular immunology."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Science",
+    "chapter": "Chapter 7: Transportation in Animals and Plants",
+    "question": "What happens during 'Kidney Dialysis' when blood is drawn from a patient's radial artery?",
+    "options": [
+      "Blood is mixed with an anticoagulant (heparin), passed through dialyzing cellophane tubes bathed in isotonic dialyzing fluid lacking nitrogenous wastes, where urea diffuses out, and purified blood is returned via a vein",
+      "Blood is boiled to kill germs",
+      "Blood is replaced entirely with water",
+      "All white blood cells are removed permanently"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "Dialysis relies on concentration gradients across semi-permeable cellophane: metabolic wastes diffuse into dialysate while cellular components return safely."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Science",
+    "chapter": "Chapter 7: Transportation in Animals and Plants",
+    "question": "Why does the left side of the heart handle ONLY oxygenated blood while the right side handles ONLY deoxygenated blood in mammals and birds?",
+    "options": [
+      "High metabolic rates of warm-blooded endotherms require maximum oxygen supply to generate cellular body heat and sustain constant body temperature",
+      "Because mammals have no veins",
+      "Because birds have no lungs",
+      "To keep the lungs cold"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "Endothermic homeothermy demands high ATP turnover, requiring complete separation of systemic and pulmonary hemodynamics."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Science",
+    "chapter": "Chapter 7: Transportation in Animals and Plants",
+    "question": "What would happen to a plant if all its Phloem tissue were carefully removed in a continuous ring around the stem (Girdling / Ringing experiment)?",
+    "options": [
+      "Photosynthesized sugars cannot reach the subterranean roots; the roots starve and die first, followed by the death of the entire plant",
+      "The plant grows twice as fast",
+      "Water immediately stops reaching the leaves",
+      "The leaves turn into flowers"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "Malpighi's girdling experiment proves phloem translocates carbohydrates: removing the phloem ring starves root parenchyma, collapsing active ion uptake."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Science",
+    "chapter": "Chapter 7: Transportation in Animals and Plants",
+    "question": "What overarching biological principle is established in Chapter 7 of NCERT Class 7 Science?",
+    "options": [
+      "Complex multicellular organisms require specialized vascular internal transport networks (blood circulation and plant vascular bundles) and waste excretion systems to maintain cellular homeostasis, nutrient delivery, and metabolic balance across trillions of cells",
+      "That small animals do not need any food",
+      "That plants have hearts like mammals",
+      "That blood only moves when humans run"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "Chapter 7 synthesizes organismal transport and excretion: convective hemodynamics, renal ultrafiltration, and botanical vascular sap translocation."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Mathematics",
+    "chapter": "Chapter 7: Comparing Quantities",
+    "question": "Find the Ratio of 5 m to 10 km in its simplest form:",
+    "options": [
+      "1 : 2000 (10 km = 10,000 m ; 5 / 10,000 = 1 / 2000)",
+      "1 : 2",
+      "1 : 200",
+      "1 : 20"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "Units must match: 10 km = 10,000 m. Ratio = 5 m : 10,000 m = 1 : 2000."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Mathematics",
+    "chapter": "Chapter 7: Comparing Quantities",
+    "question": "Find the Ratio of 50 paise to Rs 5 in its simplest form:",
+    "options": [
+      "1 : 10 (Rs 5 = 500 paise ; 50 / 500 = 1 / 10)",
+      "1 : 100",
+      "1 : 5",
+      "10 : 1"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "Rs 5 = 500 paise. Ratio = 50 : 500 = 1 : 10."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Mathematics",
+    "chapter": "Chapter 7: Comparing Quantities",
+    "question": "Convert the fraction 3/4 into a Percentage:",
+    "options": [
+      "75% ((3 / 4) × 100% = 75%)",
+      "34%",
+      "60%",
+      "80%"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "Fraction to percentage: (3/4) × 100% = 75%."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Mathematics",
+    "chapter": "Chapter 7: Comparing Quantities",
+    "question": "Convert 65% into a Fraction in its simplest reduced form:",
+    "options": [
+      "13/20 (65 / 100 = 13 / 20)",
+      "13/25",
+      "65/10",
+      "3/5"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "65% = 65/100 = 13/20."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Mathematics",
+    "chapter": "Chapter 7: Comparing Quantities",
+    "question": "Find 15% of 250:",
+    "options": [
+      "37.5 ((15 / 100) × 250 = 37.5)",
+      "35",
+      "40",
+      "32.5"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "15% of 250 = 0.15 × 250 = 37.5."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Mathematics",
+    "chapter": "Chapter 7: Comparing Quantities",
+    "question": "Convert the decimal 0.65 into a Percentage:",
+    "options": [
+      "65% (0.65 × 100% = 65%)",
+      "6.5%",
+      "0.065%",
+      "650%"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "0.65 × 100% = 65%."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Mathematics",
+    "chapter": "Chapter 7: Comparing Quantities",
+    "question": "If Selling Price (SP) is GREATER than Cost Price (CP), the transaction results in a:",
+    "options": [
+      "Profit (Profit = SP - CP)",
+      "Loss (Loss = CP - SP)",
+      "No Profit No Loss",
+      "Discount"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "When SP > CP, there is a profit: Profit = SP - CP."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Mathematics",
+    "chapter": "Chapter 7: Comparing Quantities",
+    "question": "If Cost Price (CP) is GREATER than Selling Price (SP), the transaction results in a:",
+    "options": [
+      "Loss (Loss = CP - SP)",
+      "Profit",
+      "Interest",
+      "Amount"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "When CP > SP, the seller incurs a loss: Loss = CP - SP."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Mathematics",
+    "chapter": "Chapter 7: Comparing Quantities",
+    "question": "What is the standard formula for calculating SIMPLE INTEREST (SI)?",
+    "options": [
+      "SI = (P × R × T) / 100 (where P = Principal, R = Rate % per annum, T = Time in years)",
+      "SI = P + R + T",
+      "SI = (P × R) / T",
+      "SI = P × (1 + R/100)"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "Simple Interest formula: SI = (Principal × Rate × Time) / 100."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Mathematics",
+    "chapter": "Chapter 7: Comparing Quantities",
+    "question": "What is the total Amount (A) paid at the end of the loan tenure?",
+    "options": [
+      "Amount = Principal + Simple Interest (A = P + SI)",
+      "Amount = Principal - Simple Interest",
+      "Amount = Principal × Rate",
+      "Amount = SI / Time"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "Total Amount A = Principal + Simple Interest (A = P + SI)."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Mathematics",
+    "chapter": "Chapter 7: Comparing Quantities",
+    "question": "An item bought for Rs 200 is sold for Rs 250. Find the Profit Percentage:",
+    "options": [
+      "25% (Profit = 250 - 200 = Rs 50 ; Profit % = (50 / 200) × 100% = 25%)",
+      "20%",
+      "50%",
+      "30%"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "Profit = 250 - 200 = 50. Profit % = (50/200) × 100 = 25%."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Mathematics",
+    "chapter": "Chapter 7: Comparing Quantities",
+    "question": "Find the Simple Interest on Rs 1,000 for 2 years at 5% per annum:",
+    "options": [
+      "Rs 100 (SI = (1000 × 5 × 2) / 100 = Rs 100)",
+      "Rs 50",
+      "Rs 200",
+      "Rs 150"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "SI = (1000 × 5 × 2)/100 = Rs 100."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Mathematics",
+    "chapter": "Chapter 7: Comparing Quantities",
+    "question": "Out of 25 students in a class, 72% are good in mathematics. How many students are NOT good in mathematics?",
+    "options": [
+      "7 students (Not good % = 100% - 72% = 28% ; Number = (28 / 100) × 25 = 7 students)",
+      "18 students",
+      "5 students",
+      "8 students"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "28% of 25 = 0.28 × 25 = 7 students."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Mathematics",
+    "chapter": "Chapter 7: Comparing Quantities",
+    "question": "A football team won 10 matches out of the total number of matches they played. If their win percentage was 40%, how many total matches did they play in all?",
+    "options": [
+      "25 matches (40% of Total = 10 ⇒ (40/100) × x = 10 ⇒ x = 10 × (100/40) = 25 matches)",
+      "20 matches",
+      "30 matches",
+      "40 matches"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "0.40 × x = 10 → x = 10 / 0.40 = 25 matches."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Mathematics",
+    "chapter": "Chapter 7: Comparing Quantities",
+    "question": "If Chameli had Rs 600 left after spending 75% of her money, how much did she have in the beginning?",
+    "options": [
+      "Rs 2,400 (Remaining % = 100% - 75% = 25% ; 25% of Total = 600 ⇒ (1/4) × x = 600 ⇒ x = Rs 2,400)",
+      "Rs 1,800",
+      "Rs 3,000",
+      "Rs 2,000"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "25% of x = 600 → x = 600 × 4 = Rs 2,400."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Mathematics",
+    "chapter": "Chapter 7: Comparing Quantities",
+    "question": "The population of a city decreased from 25,000 to 24,500. Find the Percentage Decrease:",
+    "options": [
+      "2% (Decrease = 25,000 - 24,500 = 500 ; % Decrease = (500 / 25,000) × 100% = 2%)",
+      "5%",
+      "2.5%",
+      "4%"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "% Decrease = (500 / 25000) × 100 = 2%."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Mathematics",
+    "chapter": "Chapter 7: Comparing Quantities",
+    "question": "I bought a TV for Rs 10,000 and sold it at a Profit of 20%. How much money do I get for it (Selling Price)?",
+    "options": [
+      "Rs 12,000 (Profit = 20% of 10,000 = Rs 2,000 ; SP = 10,000 + 2,000 = Rs 12,000)",
+      "Rs 11,000",
+      "Rs 12,500",
+      "Rs 8,000"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "SP = CP × (1 + 20/100) = 10,000 × 1.20 = Rs 12,000."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Mathematics",
+    "chapter": "Chapter 7: Comparing Quantities",
+    "question": "Juhi sells a washing machine for Rs 13,500. She loses 20% in the bargain. What was the price at which she bought it (Cost Price)?",
+    "options": [
+      "Rs 16,875 (SP = CP × (1 - Loss%) ⇒ 13,500 = CP × 0.80 ⇒ CP = 13,500 / 0.80 = Rs 16,875)",
+      "Rs 16,200",
+      "Rs 15,000",
+      "Rs 17,500"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "CP = SP / (1 - 0.20) = 13,500 / 0.80 = Rs 16,875."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Mathematics",
+    "chapter": "Chapter 7: Comparing Quantities",
+    "question": "Find the Amount to be paid at the end of 3 years on Principal = Rs 1,200 at 12% per annum:",
+    "options": [
+      "Rs 1,632 (SI = (1200 × 12 × 3) / 100 = Rs 432 ; Amount = 1200 + 432 = Rs 1,632)",
+      "Rs 1,532",
+      "Rs 1,732",
+      "Rs 1,432"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "SI = (1200 × 12 × 3)/100 = 432. Amount = 1200 + 432 = Rs 1,632."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Mathematics",
+    "chapter": "Chapter 7: Comparing Quantities",
+    "question": "What Rate gives Rs 280 as interest on a sum of Rs 56,000 in 2 years?",
+    "options": [
+      "0.25% p.a. (R = (SI × 100) / (P × T) = (280 × 100) / (56,000 × 2) = 28,000 / 112,000 = 0.25% or 1/4%)",
+      "2.5%",
+      "0.5%",
+      "1%"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "R = (280 × 100) / (56000 × 2) = 28000 / 112000 = 0.25%."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Mathematics",
+    "chapter": "Chapter 7: Comparing Quantities",
+    "question": "If Meena gives an interest of Rs 45 for one year at 9% rate p.a., what is the sum (Principal) she has borrowed?",
+    "options": [
+      "Rs 500 (P = (SI × 100) / (R × T) = (45 × 100) / (9 × 1) = 4500 / 9 = Rs 500)",
+      "Rs 450",
+      "Rs 550",
+      "Rs 600"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "P = (45 × 100)/(9 × 1) = 4500 / 9 = Rs 500."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Mathematics",
+    "chapter": "Chapter 7: Comparing Quantities",
+    "question": "The angles of a triangle are in the ratio 2 : 3 : 4. Find the measure of each angle in degrees and in percentages of the total sum (180°):",
+    "options": [
+      "40° (22.2%), 60° (33.3%), and 80° (44.4%) (Sum of parts = 9 ; (2/9)×180 = 40°, (3/9)×180 = 60°, (4/9)×180 = 80°)",
+      "30°, 60°, 90°",
+      "20°, 40°, 120°",
+      "50°, 60°, 70°"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "Parts: 2+3+4=9. Angles: 2/9(180)=40°, 3/9(180)=60°, 4/9(180)=80°."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Mathematics",
+    "chapter": "Chapter 7: Comparing Quantities",
+    "question": "A skirt is bought for Rs 250 and sold for Rs 150. Find the Loss Percentage:",
+    "options": [
+      "40% (Loss = 250 - 150 = Rs 100 ; Loss % = (100 / 250) × 100% = 40%)",
+      "30%",
+      "25%",
+      "50%"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "Loss % = (100/250) × 100 = 40%."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Mathematics",
+    "chapter": "Chapter 7: Comparing Quantities",
+    "question": "An alloy contains 30% copper, 40% zinc, and the remaining is nickel. Find the percentage of nickel in the alloy:",
+    "options": [
+      "30% (Nickel % = 100% - (30% + 40%) = 100% - 70% = 30%)",
+      "20%",
+      "40%",
+      "25%"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "100% - (30% + 40%) = 30%."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Mathematics",
+    "chapter": "Chapter 7: Comparing Quantities",
+    "question": "A gardener bought a plant for Rs 120 and sold it for Rs 150. Find the profit percentage:",
+    "options": [
+      "25% (Profit = 150 - 120 = 30 ; Profit % = (30 / 120) × 100% = 25%)",
+      "20%",
+      "30%",
+      "15%"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "Profit % = (30/120) × 100 = 25%."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Mathematics",
+    "chapter": "Chapter 7: Comparing Quantities",
+    "question": "A shopkeeper sells 1 dozen eggs for Rs 48, making a profit of 20%. What was the cost price of 1 dozen eggs?",
+    "options": [
+      "Rs 40 (CP = SP / 1.20 = 48 / 1.20 = Rs 40)",
+      "Rs 38",
+      "Rs 42",
+      "Rs 36"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "CP = 48 / 1.20 = Rs 40."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Mathematics",
+    "chapter": "Chapter 7: Comparing Quantities",
+    "question": "In a city, 30% are females, 40% are males, and the remaining are children. What percentage are children?",
+    "options": [
+      "30% (Children % = 100% - (30% + 40%) = 30%)",
+      "20%",
+      "40%",
+      "35%"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "100% - 70% = 30%."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Mathematics",
+    "chapter": "Chapter 7: Comparing Quantities",
+    "question": "Find the ratio of the speed of a cycle (15 km/h) to the speed of a scooter (30 km/h):",
+    "options": [
+      "1 : 2 (15 / 30 = 1 / 2)",
+      "2 : 1",
+      "1 : 3",
+      "3 : 2"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "Ratio = 15 : 30 = 1 : 2."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Mathematics",
+    "chapter": "Chapter 7: Comparing Quantities",
+    "question": "Read the statements:\nAssertion (A): Profit percentage and Loss percentage are ALWAYS computed on the basis of COST PRICE (CP), never on Selling Price (SP).\nReason (R): Cost Price is the true initial investment capital incurred by the merchant; profit or loss measures the fractional financial return or deficit relative to this original cost base.\nChoose the correct option:",
+    "options": [
+      "Both (A) and (R) are true, and (R) is the correct explanation of (A).",
+      "Both (A) and (R) are true, but (R) is NOT the correct explanation of (A).",
+      "(A) is true, but (R) is false.",
+      "(A) is false, but (R) is true."
+    ],
+    "correctAnswer": 0,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "In commercial mathematics, baseline investment capital is Cost Price (CP), so % return = (Gain or Loss / CP) × 100."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Mathematics",
+    "chapter": "Chapter 7: Comparing Quantities",
+    "question": "Spot the IMPOSTER in the following commercial arithmetic equivalence relations:\nGroup:\n1. 1/4 = 25%\n2. 3/5 = 60%\n3. 1/8 = 12.5%\n4. 2/3 = 75%",
+    "options": [
+      "Equivalence 1",
+      "Equivalence 2",
+      "Equivalence 3",
+      "Equivalence 4 (2/3 is equal to 66.67% or 66 2/3%, NOT 75% ; 3/4 is 75%)"
+    ],
+    "correctAnswer": 3,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "2/3 × 100% = 66.67%, whereas 75% = 3/4."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Mathematics",
+    "chapter": "Chapter 7: Comparing Quantities",
+    "question": "A sum of money doubles itself in 8 years under Simple Interest. What is the annual Rate of Interest?",
+    "options": [
+      "12.5% p.a. (Let Principal = P ; Since money doubles, Amount = 2P, so SI = P ; SI = (P × R × 8)/100 ⇒ P = (P × R × 8)/100 ⇒ R = 100 / 8 = 12.5% p.a.)",
+      "10% p.a.",
+      "15% p.a.",
+      "8% p.a."
+    ],
+    "correctAnswer": 0,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "SI = P → P = (P × R × 8) / 100 → R = 100 / 8 = 12.5% per annum."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Mathematics",
+    "chapter": "Chapter 7: Comparing Quantities",
+    "question": "Match Column I (Commercial Math Problems) with Column II (Exact Solutions):\n(a) Convert 5/8 to Percentage               -> (i) 62.5%\n(b) Increase in price from Rs 20 to Rs 25    -> (ii) 25% Increase\n(c) Simple Interest on Rs 5000 @ 10% for 3 yr-> (iii) Rs 1,500\n(d) Loss % when CP = Rs 50 and SP = Rs 40    -> (iv) 20% Loss",
+    "options": [
+      "a-(i), b-(ii), c-(iii), d-(iv)",
+      "a-(ii), b-(i), c-(iv), d-(iii)",
+      "a-(iv), b-(iii), c-(ii), d-(i)",
+      "a-(iii), b-(iv), c-(i), d-(ii)"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "5/8 = 62.5%; (5/20)×100 = 25%; (5000×10×3)/100 = 1500; (10/50)×100 = 20%."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Mathematics",
+    "chapter": "Chapter 7: Comparing Quantities",
+    "question": "Read the statements regarding price variations:\nStatement 1: If a price is increased by 20% and then decreased by 20%, the net final price is 4% LESS than the original price.\nStatement 2: If the Cost Price of 10 articles equals the Selling Price of 8 articles, the merchant makes a 25% Profit.\nStatement 3: Simple Interest increases exponentially every year.\nWhich statements are TRUE?",
+    "options": [
+      "Statements 1 and 2 only",
+      "Statements 2 and 3 only",
+      "Statements 1 and 3 only",
+      "All Statements 1, 2, and 3"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "Statement 3 is false (Simple Interest increases linearly, not exponentially). Statement 1: 1.20 × 0.80 = 0.96 (4% decrease). Statement 2: (10-8)/8 × 100 = 25% profit."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Mathematics",
+    "chapter": "Chapter 7: Comparing Quantities",
+    "question": "If the Cost Price of 12 pens is equal to the Selling Price of 15 pens, find the Gain or Loss percentage:",
+    "options": [
+      "20% Loss (Let CP of 1 pen = Rs 1 ; CP of 15 pens = Rs 15 ; SP of 15 pens = CP of 12 pens = Rs 12 ; Loss = 15 - 12 = Rs 3 ; Loss % = (3 / 15) × 100% = 20%)",
+      "25% Profit",
+      "20% Profit",
+      "25% Loss"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "Loss % = (15 - 12) / 15 × 100 = (3/15) × 100 = 20% loss."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Mathematics",
+    "chapter": "Chapter 7: Comparing Quantities",
+    "question": "A sum of money invested at Simple Interest amounts to Rs 850 in 3 years and to Rs 925 in 4 years. Find the Principal sum and the annual Rate of Interest:",
+    "options": [
+      "Principal = Rs 625 ; Rate = 12% p.a. (SI for 1 year = 925 - 850 = Rs 75 ; SI for 3 years = 75 × 3 = Rs 225 ; Principal = 850 - 225 = Rs 625 ; Rate = (75 × 100) / (625 × 1) = 12% p.a.)",
+      "Principal = Rs 600 ; Rate = 10%",
+      "Principal = Rs 650 ; Rate = 14%",
+      "Principal = Rs 700 ; Rate = 8%"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "Annual SI = 925 - 850 = Rs 75. P = 850 - 3(75) = Rs 625. R = (75 × 100)/(625 × 1) = 12%."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Mathematics",
+    "chapter": "Chapter 7: Comparing Quantities",
+    "question": "In an election between two candidates, the winning candidate secured 58% of the total valid votes and won by a majority of 4,800 votes. Find the total number of valid votes polled:",
+    "options": [
+      "30,000 votes (Winner % = 58% ; Loser % = 42% ; Margin = 58% - 42% = 16% ; 16% of Total = 4,800 ⇒ Total = (4800 / 16) × 100 = 30,000 votes)",
+      "25,000 votes",
+      "35,000 votes",
+      "40,000 votes"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "Vote differential = 58% - 42% = 16%. Total votes = 4,800 / 0.16 = 30,000."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Mathematics",
+    "chapter": "Chapter 7: Comparing Quantities",
+    "question": "A man sold two fans for Rs 990 each. On one he gained 10% and on the other he lost 10%. Find his overall Gain or Loss percentage on the entire whole transaction:",
+    "options": [
+      "1% Loss (CP1 = 990 / 1.10 = Rs 900 ; CP2 = 990 / 0.90 = Rs 1100 ; Total CP = 2000 ; Total SP = 1980 ; Net Loss = Rs 20 ; Loss % = (20 / 2000) × 100% = 1%)",
+      "No profit no loss",
+      "1% Gain",
+      "2% Loss"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "When SP is identical with ±x% gain/loss, there is always a net loss of (x/10)²% = (10/10)²% = 1% loss."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Mathematics",
+    "chapter": "Chapter 7: Comparing Quantities",
+    "question": "The salary of an officer was increased by 20%. By what percentage must the new salary be reduced to bring it back to the original initial salary level?",
+    "options": [
+      "16 2/3% or 16.67% (Let original = 100 ⇒ New = 120 ; Reduction required = 20 ; % Reduction = (20 / 120) × 100% = 100 / 6 = 16.67%)",
+      "20%",
+      "25%",
+      "15%"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "% Reduction = (r / (100 + r)) × 100% = (20 / 120) × 100 = 16.67% (or 16 2/3%)."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Mathematics",
+    "chapter": "Chapter 7: Comparing Quantities",
+    "question": "At what rate percent per annum simple interest will a sum of money TRIPLE itself in 16 years?",
+    "options": [
+      "12.5% p.a. (Amount = 3P ⇒ SI = 2P ; 2P = (P × R × 16) / 100 ⇒ R = 200 / 16 = 12.5% p.a.)",
+      "10% p.a.",
+      "15% p.a.",
+      "16% p.a."
+    ],
+    "correctAnswer": 0,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "SI = 2P → 2P = (P × R × 16)/100 → R = 200 / 16 = 12.5% per annum."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Mathematics",
+    "chapter": "Chapter 7: Comparing Quantities",
+    "question": "Why is the mathematical mastery of Comparing Quantities (Ratios, Percentages, Profit-Loss, and Simple Interest) fundamental across economics, financial literacy, demographic statistics, and everyday commerce?",
+    "options": [
+      "It provides the universal quantitative language for normalizing scales, calculating financial returns on capital, evaluating economic growth rates, and making sound personal financial decisions",
+      "Because numbers are only used to count coins",
+      "Because percentage was invented to make math harder",
+      "Because interest is paid only in gold"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "Quantitative comparison frameworks underwrite modern financial literacy, economic metric normalization, accounting standards, and risk-adjusted capital pricing."
+  },
+  {
+    "classLevel": 7,
+    "subject": "English",
+    "chapter": "Chapter 7: The Invention of Vita-Wonk & Dad and the Cat and the Tree",
+    "question": "In Roald Dahl's imaginative excerpt 'The Invention of Vita-Wonk', who is the eccentric, brilliant chocolatier and inventor?",
+    "options": [
+      "Mr. Willy Wonka",
+      "Charlie Bucket",
+      "Mr. Gessler",
+      "Nishad"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "Mr. Willy Wonka is the legendary eccentric inventor from Roald Dahl's 'Charlie and the Great Glass Elevator'."
+  },
+  {
+    "classLevel": 7,
+    "subject": "English",
+    "chapter": "Chapter 7: The Invention of Vita-Wonk & Dad and the Cat and the Tree",
+    "question": "What medicine did Mr. Willy Wonka first invent that made people become so much younger that some people vanished into negative ages (like minus eighty-seven)?",
+    "options": [
+      "Wonka-Vite",
+      "Vita-Wonk",
+      "Everlasting Gobstopper",
+      "Fizzing Whizzpopper"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "Wonka-Vite made people younger; but being too potent, it made some people have negative ages (minus 87) where they had to wait 87 years to be born!"
+  },
+  {
+    "classLevel": 7,
+    "subject": "English",
+    "chapter": "Chapter 7: The Invention of Vita-Wonk & Dad and the Cat and the Tree",
+    "question": "What opposite new medicine does Mr. Willy Wonka set out to invent to make people grow older and reverse the negative age catastrophe?",
+    "options": [
+      "Vita-Wonk",
+      "Wonka-Vite",
+      "Snozzberry Syrup",
+      "Magic Toffee"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "To undo the effects of Wonka-Vite, Mr. Wonka creates 'Vita-Wonk' to age people up."
+  },
+  {
+    "classLevel": 7,
+    "subject": "English",
+    "chapter": "Chapter 7: The Invention of Vita-Wonk & Dad and the Cat and the Tree",
+    "question": "What is the OLDEST living thing on Earth from which Mr. Wonka collects sap for Vita-Wonk?",
+    "options": [
+      "The Bristlecone Pine tree (living over 4,000 years on Wheeler Peak)",
+      "An Oak tree",
+      "A Redwood tree",
+      "A Banyan tree"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "Mr. Wonka explains to Charlie that Bristlecone pines living on the slopes of Wheeler Peak in Nevada live over 4,000 years."
+  },
+  {
+    "classLevel": 7,
+    "subject": "English",
+    "chapter": "Chapter 7: The Invention of Vita-Wonk & Dad and the Cat and the Tree",
+    "question": "Which 20-year-old brave volunteer was given four drops of oily black Vita-Wonk liquid to test its aging power?",
+    "options": [
+      "An Oompa-Loompa volunteer named Oompa-Loompa",
+      "Charlie Bucket",
+      "Mr. Bucket",
+      "Augustus Gloop"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "A brave 20-year-old Oompa-Loompa volunteer swallowed the four drops of oily black Vita-Wonk."
+  },
+  {
+    "classLevel": 7,
+    "subject": "English",
+    "chapter": "Chapter 7: The Invention of Vita-Wonk & Dad and the Cat and the Tree",
+    "question": "What dramatic physical transformation happened to the 20-year-old volunteer after swallowing the four drops of Vita-Wonk?",
+    "options": [
+      "He began wrinkling and shriveling up, his hair dropped off, his teeth fell out, and he instantly became a feeble old fellow of SEVENTY-FIVE (75 years old)!",
+      "He turned into a giant green tree",
+      "He became a newborn baby",
+      "He turned into solid ice"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "Vita-Wonk aged the 20-year-old instantly into a 75-year-old wrinkly man, proving the invention's success."
+  },
+  {
+    "classLevel": 7,
+    "subject": "English",
+    "chapter": "Chapter 7: The Invention of Vita-Wonk & Dad and the Cat and the Tree",
+    "question": "In Kit Wright's humorous poem 'Dad and the Cat and the Tree', where was the cat stuck?",
+    "options": [
+      "High up in a tall tree in the garden",
+      "On the roof of the house",
+      "In a deep well",
+      "On top of a telegraph pole"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "The poem begins: 'This morning a cat got stuck in our tree. / Dad said, \"Right, just leave it to me.\"'."
+  },
+  {
+    "classLevel": 7,
+    "subject": "English",
+    "chapter": "Chapter 7: The Invention of Vita-Wonk & Dad and the Cat and the Tree",
+    "question": "What boastful remark did Dad make to Mum before attempting to rescue the cat from the tree?",
+    "options": [
+      "\"Easy as winking to a climber like me! Just leave it to me!\"",
+      "\"I will call the fire brigade!\"",
+      "\"Let the cat stay there forever!\"",
+      "\"I need to study climbing books!\""
+    ],
+    "correctAnswer": 0,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "Dad overconfidently dismisses Mum's warnings: 'A climber like me? Child's play, this is!'."
+  },
+  {
+    "classLevel": 7,
+    "subject": "English",
+    "chapter": "Chapter 7: The Invention of Vita-Wonk & Dad and the Cat and the Tree",
+    "question": "What happened to Dad's 'PLAN A' using a ladder from the garden shed?",
+    "options": [
+      "The ladder slipped and Dad landed flat in the flowerbed!",
+      "The ladder reached the cat easily",
+      "The ladder caught fire",
+      "The cat climbed down the ladder"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "Plan A failed: 'It slipped. He landed in the garden bed.'."
+  },
+  {
+    "classLevel": 7,
+    "subject": "English",
+    "chapter": "Chapter 7: The Invention of Vita-Wonk & Dad and the Cat and the Tree",
+    "question": "What happened to Dad's 'PLAN B' when he swung himself up onto a bough of the tree?",
+    "options": [
+      "The bough snapped and Dad crashed heavily to the ground again!",
+      "He grabbed the cat gently",
+      "He fell asleep in the tree",
+      "He flew into the air"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "Plan B failed: 'He swung himself up on a bough. It broke. Dad grovelled.'."
+  },
+  {
+    "classLevel": 7,
+    "subject": "English",
+    "chapter": "Chapter 7: The Invention of Vita-Wonk & Dad and the Cat and the Tree",
+    "question": "What hilarious twist occurs at the end of the poem when Dad tries 'PLAN C' and leaps from the garden wall into the tree?",
+    "options": [
+      "Dad lands flat on the cat, which yells and drops safely to the ground smiling smugly, while Dad is left STUCK high in the tree!",
+      "Both Dad and the cat fly away",
+      "The tree falls down",
+      "Mum climbs up and rescues both"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "Ironical climax: the cat leaps safely to the ground unharmed, leaving boastful Dad stuck in the tree crook."
+  },
+  {
+    "classLevel": 7,
+    "subject": "English",
+    "chapter": "Chapter 7: The Invention of Vita-Wonk & Dad and the Cat and the Tree",
+    "question": "What is the meaning of the colloquial idiom 'Child's play' used by Dad?",
+    "options": [
+      "Something that is very easy, simple, and effortless to do",
+      "A complicated puzzle",
+      "A board game for two players",
+      "Playing with toys in a kindergarten"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "'Child's play' is an idiom signifying an effortless, elementary task."
+  },
+  {
+    "classLevel": 7,
+    "subject": "English",
+    "chapter": "Chapter 7: The Invention of Vita-Wonk & Dad and the Cat and the Tree",
+    "question": "Which of the following absurd, whimsical ingredients was collected by Mr. Willy Wonka for brewing Vita-Wonk?",
+    "options": [
+      "A pint of sap from a 4,000-year-old Bristlecone pine, the tail of a 51-year-old horse, whiskers of a 36-year-old cat named Crumpets, and an egg laid by a 207-year-old giant tortoise",
+      "Pure fresh milk and brown sugar only",
+      "Potatoes, onions, and salt",
+      "Gasoline and metal screws"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "Dahl invents a surreal catalog of ancient biological curiosities for Wonka's aging elixir."
+  },
+  {
+    "classLevel": 7,
+    "subject": "English",
+    "chapter": "Chapter 7: The Invention of Vita-Wonk & Dad and the Cat and the Tree",
+    "question": "How did Mr. Willy Wonka travel across the globe to collect bits and pieces from the world's most ancient creatures?",
+    "options": [
+      "He tracked them down in his Great Glass Elevator, searching high and low across continents and oceans",
+      "He walked on foot with a wooden stick",
+      "He rode on a bicycle",
+      "He sent emails to scientists"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "Wonka zoomed across the planet in his fantastical Great Glass Elevator to harvest ancient specimen samples."
+  },
+  {
+    "classLevel": 7,
+    "subject": "English",
+    "chapter": "Chapter 7: The Invention of Vita-Wonk & Dad and the Cat and the Tree",
+    "question": "In the poem 'Dad and the Cat and the Tree', how is the cat described once it reaches the ground safely?",
+    "options": [
+      "Pleased as Punch, smiling and smirking, safe and sound",
+      "Crying loudly in pain",
+      "Running away to another city",
+      "Angry at the father"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "Textual lines: 'Smiling and smirking, / Smug as can be, / But poor old Dad's / Still / Stuck / Up / The / Tree!'."
+  },
+  {
+    "classLevel": 7,
+    "subject": "English",
+    "chapter": "Chapter 7: The Invention of Vita-Wonk & Dad and the Cat and the Tree",
+    "question": "What warning did Mum give Dad repeatedly throughout his disastrous rescue attempts in the tree?",
+    "options": [
+      "\"For goodness' sake might break your neck!\" and \"Don't fall again!\"",
+      "\"Bring some flowers down!\"",
+      "\"Take a picture with the cat!\"",
+      "\"Cut down the tree!\""
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "Mum acts as the voice of sensible caution: 'For goodness' sake might break your neck!'."
+  },
+  {
+    "classLevel": 7,
+    "subject": "English",
+    "chapter": "Chapter 7: The Invention of Vita-Wonk & Dad and the Cat and the Tree",
+    "question": "What is the meaning of 'Pleased as Punch' in the description of the rescued cat?",
+    "options": [
+      "Extremely pleased, satisfied, and delighted with oneself",
+      "Drinking fruit punch",
+      "Angry after a fight",
+      "Confused and scared"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "'Pleased as Punch' is an English idiom denoting supreme self-satisfaction and delight."
+  },
+  {
+    "classLevel": 7,
+    "subject": "English",
+    "chapter": "Chapter 7: The Invention of Vita-Wonk & Dad and the Cat and the Tree",
+    "question": "What literary tone characterizes Roald Dahl's 'The Invention of Vita-Wonk'?",
+    "options": [
+      "Whimsical, playful, hyperbolic fantasy filled with surreal humor and inventive wordplay",
+      "Gloomy and tragic horror",
+      "Strict scientific laboratory report",
+      "Political history speech"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "Dahl's hallmark style: playful nonsensical cataloging, imaginative hyperbole, and exuberant linguistic inventiveness."
+  },
+  {
+    "classLevel": 7,
+    "subject": "English",
+    "chapter": "Chapter 7: The Invention of Vita-Wonk & Dad and the Cat and the Tree",
+    "question": "What is the meaning of the word 'Shrivel' in: 'He began shrivelling and wrinkling all over'?",
+    "options": [
+      "To shrink, wrinkle, and wither due to loss of moisture or aging",
+      "To expand and grow larger",
+      "To turn bright red",
+      "To jump high"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "'Shrivel' means contracting into wrinkles and losing suppleness."
+  },
+  {
+    "classLevel": 7,
+    "subject": "English",
+    "chapter": "Chapter 7: The Invention of Vita-Wonk & Dad and the Cat and the Tree",
+    "question": "Identify the figure of speech in: 'The Great Glass Elevator zoomed around the world like a comet.'",
+    "options": [
+      "Simile (using 'like')",
+      "Metaphor",
+      "Personification",
+      "Alliteration only"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "Simile uses 'like' to compare the speed of the glass elevator to a celestial comet."
+  },
+  {
+    "classLevel": 7,
+    "subject": "English",
+    "chapter": "Chapter 7: The Invention of Vita-Wonk & Dad and the Cat and the Tree",
+    "question": "What is the SYNONYM of 'Eccentric' as applied to Mr. Willy Wonka?",
+    "options": [
+      "Unconventional, quirky, and uniquely original",
+      "Boring and ordinary",
+      "Cruel and mean",
+      "Lazy and sleepy"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "'Eccentric' characterizes unconventional, delightfully idiosyncratic behavior."
+  },
+  {
+    "classLevel": 7,
+    "subject": "English",
+    "chapter": "Chapter 7: The Invention of Vita-Wonk & Dad and the Cat and the Tree",
+    "question": "What is the ANTONYM of 'Ancient' in: 'He searched for ancient creatures'?",
+    "options": [
+      "Modern / Contemporary / Youthful",
+      "Antique",
+      "Archaic",
+      "Primeval"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "The antonym of 'ancient' (of extreme age) is 'modern' or 'contemporary'."
+  },
+  {
+    "classLevel": 7,
+    "subject": "English",
+    "chapter": "Chapter 7: The Invention of Vita-Wonk & Dad and the Cat and the Tree",
+    "question": "Choose the correct spelling:",
+    "options": [
+      "Bristlecone",
+      "Bristlecon",
+      "Brystlecone",
+      "Bristelcone"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "Correct orthography: B-R-I-S-T-L-E-C-O-N-E (pine species)."
+  },
+  {
+    "classLevel": 7,
+    "subject": "English",
+    "chapter": "Chapter 7: The Invention of Vita-Wonk & Dad and the Cat and the Tree",
+    "question": "What is the meaning of the phrasal verb 'To track down' in: 'Mr. Wonka tracked down the rarest specimens'?",
+    "options": [
+      "To search for and successfully find after a diligent hunt",
+      "To run on a race track",
+      "To lose something forever",
+      "To step on mud"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "'To track down' means finding someone or something through diligent investigation."
+  },
+  {
+    "classLevel": 7,
+    "subject": "English",
+    "chapter": "Chapter 7: The Invention of Vita-Wonk & Dad and the Cat and the Tree",
+    "question": "Identify the part of speech of the underlined word in: 'The cat jumped **smuglyn** down to the grass.'",
+    "options": [
+      "Adverb of Manner",
+      "Adjective",
+      "Noun",
+      "Preposition"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "'Smuglyn' / 'smugly' is an adverb of manner modifying the verb 'jumped'."
+  },
+  {
+    "classLevel": 7,
+    "subject": "English",
+    "chapter": "Chapter 7: The Invention of Vita-Wonk & Dad and the Cat and the Tree",
+    "question": "In the poem, how does the visual typography of the final lines mirror Dad's predicament?\n'Still / Stuck / Up / The / Tree!'",
+    "options": [
+      "The vertical single-word ladder layout visually mimics the physical height of the tall tree where Dad remains trapped",
+      "It was a printing mistake in the book",
+      "It represents falling rain",
+      "It makes the poem shorter"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "Concrete/visual poetry technique: vertical arrangement spatializes the physical elevation of Dad's entrapment."
+  },
+  {
+    "classLevel": 7,
+    "subject": "English",
+    "chapter": "Chapter 7: The Invention of Vita-Wonk & Dad and the Cat and the Tree",
+    "question": "What is the meaning of 'Grovelled' in: 'Dad grovelled on the ground'?",
+    "options": [
+      "Lay crawling or sprawling clumsily on the ground",
+      "Danced happily",
+      "Flew like a bird",
+      "Climbed up smoothly"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "'Grovelled' humorously depicts sprawling awkwardly face-down upon the dirt."
+  },
+  {
+    "classLevel": 7,
+    "subject": "English",
+    "chapter": "Chapter 7: The Invention of Vita-Wonk & Dad and the Cat and the Tree",
+    "question": "Convert into DIRECT SPEECH:\nMum warned Dad that he would break his neck if he fell again.",
+    "options": [
+      "Mum warned Dad, \"You will break your neck if you fall again!\"",
+      "Mum warned Dad, \"He would break his neck if he fell.\"",
+      "Mum said, \"Why do you fall?\"",
+      "Mum said, \"Break your neck!\""
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "Direct speech restores first/second person pronouns and present modal verbs ('You will break...')."
+  },
+  {
+    "classLevel": 7,
+    "subject": "English",
+    "chapter": "Chapter 7: The Invention of Vita-Wonk & Dad and the Cat and the Tree",
+    "question": "Read the statements:\nAssertion (A): Roald Dahl's 'The Invention of Vita-Wonk' and Kit Wright's 'Dad and the Cat and the Tree' both employ the comedic technique of 'Inversion of Expectations' (Situational Irony).\nReason (R): In Dahl's story, an aging elixir produces an instant transformation from youth to 75-year-old decrepitude; in Wright's poem, the boastful rescuer ends up trapped in the tree while the stranded cat lands on the ground triumphant.\nChoose the correct option:",
+    "options": [
+      "Both (A) and (R) are true, and (R) is the correct explanation of (A).",
+      "Both (A) and (R) are true, but (R) is NOT the correct explanation of (A).",
+      "(A) is true, but (R) is false.",
+      "(A) is false, but (R) is true."
+    ],
+    "correctAnswer": 0,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "Both texts turn conventional outcomes upside down to achieve brilliant slapstick and satirical humor."
+  },
+  {
+    "classLevel": 7,
+    "subject": "English",
+    "chapter": "Chapter 7: The Invention of Vita-Wonk & Dad and the Cat and the Tree",
+    "question": "Spot the IMPOSTER among the following ingredients gathered by Mr. Willy Wonka:\nGroup:\n1. Toe-nail clipping from a 168-year-old Russian farmer (Petrovitch Gregorovitch)\n2. Tail of a 207-year-old giant tortoise from Tonga\n3. Whiskers of a 36-year-old cat named Crumpets\n4. A smartphone loaded with video games",
+    "options": [
+      "Ingredient 1",
+      "Ingredient 2",
+      "Ingredient 3",
+      "Ingredient 4 (Modern electronic smartphones do NOT exist in Dahl's whimsical 19th-century catalog of ancient biological curiosities)"
+    ],
+    "correctAnswer": 3,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "Ingredient 4 is an absurd modern anachronism; Wonka collected bizarre biological specimens from ancient flora and fauna."
+  },
+  {
+    "classLevel": 7,
+    "subject": "English",
+    "chapter": "Chapter 7: The Invention of Vita-Wonk & Dad and the Cat and the Tree",
+    "question": "Analyze the comedic character flaw of 'Dad' in Kit Wright's poem:\nHow does male bravado and refusal to heed sensible advice drive the escalating narrative comedy?",
+    "options": [
+      "Dad's stubborn ego and overestimation of his climbing prowess leads to a comical sequence of escalating physical disasters (Plans A, B, and C), ultimately reducing the rescuer to the stranded victim",
+      "Dad is secretly an Olympic gymnast",
+      "Dad wants to chop down the garden tree",
+      "Dad hates all animals"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "The comedic engine is hubris: boastful bravado repeatedly meeting humiliating slapstick gravity."
+  },
+  {
+    "classLevel": 7,
+    "subject": "English",
+    "chapter": "Chapter 7: The Invention of Vita-Wonk & Dad and the Cat and the Tree",
+    "question": "Match Column I (Literary Works / Episodes) with Column II (Central Humorous Elements):\n(a) Wonka-Vite Recipe            -> (i) Over-potent youth formula resulting in negative chronological existence\n(b) Vita-Wonk Extraction        -> (ii) Surreal distillation of ancient biological curiosities from around the globe\n(c) Dad's Plan A (Ladder)        -> (iii) Slipping into the flowerbed with dirt on hair and face\n(d) Dad's Plan C (Wall Leap)     -> (iv) Landing directly on the cat, triggering the cat's escape and Dad's entrapment",
+    "options": [
+      "a-(i), b-(ii), c-(iii), d-(iv)",
+      "a-(ii), b-(i), c-(iv), d-(iii)",
+      "a-(iv), b-(iii), c-(ii), d-(i)",
+      "a-(iii), b-(iv), c-(i), d-(ii)"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "Wonka-Vite = negative age; Vita-Wonk = ancient ingredients; Plan A = flowerbed fall; Plan C = cat escape & father trapped."
+  },
+  {
+    "classLevel": 7,
+    "subject": "English",
+    "chapter": "Chapter 7: The Invention of Vita-Wonk & Dad and the Cat and the Tree",
+    "question": "Read the statements regarding Roald Dahl's imaginative techniques:\nStatement 1: Dahl combines genuine scientific botanical facts (Bristlecone pines living >4,000 years) with absurd hyperbolic fiction (1,000-year-old stallion tails).\nStatement 2: The Invention of Vita-Wonk explores human fascination with the manipulation of time and aging.\nStatement 3: Mr. Wonka's laboratory was completely destroyed by an alien invasion.\nWhich statements are TRUE?",
+    "options": [
+      "Statements 1 and 2 only",
+      "Statements 2 and 3 only",
+      "Statements 1 and 3 only",
+      "All Statements 1, 2, and 3"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "Statement 3 is false. Statements 1 and 2 highlight Dahl's unique fusion of authentic natural science and exuberantly surreal fiction."
+  },
+  {
+    "classLevel": 7,
+    "subject": "English",
+    "chapter": "Chapter 7: The Invention of Vita-Wonk & Dad and the Cat and the Tree",
+    "question": "Change the complex sentence into PASSIVE VOICE:\n'Mr. Willy Wonka distilled the mysterious black liquid in his testing laboratory.'",
+    "options": [
+      "'The mysterious black liquid was distilled by Mr. Willy Wonka in his testing laboratory.'",
+      "'In his testing laboratory distilled Mr. Willy Wonka the liquid.'",
+      "'The testing laboratory was distilling the mysterious black liquid.'",
+      "'The mysterious black liquid had been distilling by Mr. Wonka.'"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "Passive voice: Object ('The mysterious black liquid') + was distilled + agent ('by Mr. Willy Wonka') + location."
+  },
+  {
+    "classLevel": 7,
+    "subject": "English",
+    "chapter": "Chapter 7: The Invention of Vita-Wonk & Dad and the Cat and the Tree",
+    "question": "Identify the grammatical role of the underlined participial clause in: '**Leaping from the garden wall**, Dad crashed straight into the crook of the tree.'",
+    "options": [
+      "Present Participial Phrase acting as an adverbial modifier of manner/time for the subject 'Dad'",
+      "Noun Clause acting as object",
+      "Infinitive of purpose",
+      "Relative clause"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "'Leaping from the garden wall' is an introductory participial phrase describing Dad's dynamic action modifying the main clause."
+  },
+  {
+    "classLevel": 7,
+    "subject": "English",
+    "chapter": "Chapter 7: The Invention of Vita-Wonk & Dad and the Cat and the Tree",
+    "question": "Why does Roald Dahl emphasize the precise botanical reality of the 'Bristlecone Pine' in his dialogue with Charlie?",
+    "options": [
+      "To anchor his fantastical narrative in authentic natural wonder, proving to children that nature's real living marvels are often more incredible than fiction",
+      "To encourage people to cut down trees",
+      "To sell wood furniture",
+      "Because Dahl lived in Nevada"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "Dahl grounds his fantasy in genuine botanical awe: the ancient Bristlecone pine (Pinus longaeva) really is Earth's oldest living non-clonal organism."
+  },
+  {
+    "classLevel": 7,
+    "subject": "English",
+    "chapter": "Chapter 7: The Invention of Vita-Wonk & Dad and the Cat and the Tree",
+    "question": "In the rhythm and rhyme scheme of 'Dad and the Cat and the Tree', what poetic form enhances the fast-paced slapstick delivery?",
+    "options": [
+      "Rhyming quatrains (AABB / ABCB) with lively, bouncy anapestic and iambic meter that mimics the escalating cadence of cartoon physical comedy",
+      "Sombre funeral elegiac verse",
+      "Unrhymed blank verse in sonnet form",
+      "Ancient Greek hexameter"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "Bouncy ballad quatrains with sharp rhyming couplets propel the slapstick narrative forward with brisk comedic timing."
+  },
+  {
+    "classLevel": 7,
+    "subject": "English",
+    "chapter": "Chapter 7: The Invention of Vita-Wonk & Dad and the Cat and the Tree",
+    "question": "What does the phrase 'Rubbed his hands together' signify when Mr. Willy Wonka proclaims the success of his invention?",
+    "options": [
+      "A universal human physical gesture denoting extreme excitement, triumphant satisfaction, and anticipation of success",
+      "That his hands were very cold",
+      "That he wanted to wash his hands",
+      "That he was angry at Charlie"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "Rubbing hands together is a kinetic body language idiom expressing eager anticipation and triumphant professional delight."
+  },
+  {
+    "classLevel": 7,
+    "subject": "English",
+    "chapter": "Chapter 7: The Invention of Vita-Wonk & Dad and the Cat and the Tree",
+    "question": "Which of the following lines from the poem contains an ONOMATOPOEIC sound word?",
+    "options": [
+      "\"The bough broke — SMACK! / Dad grovelled.\"",
+      "\"A climber like me?\"",
+      "\"This morning a cat got stuck in our tree.\"",
+      "\"Smiling and smirking, smug as can be.\""
+    ],
+    "correctAnswer": 0,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "'SMACK!' is an onomatopoeic auditory word recreating the sharp physical acoustic impact of landing on the ground."
+  },
+  {
+    "classLevel": 7,
+    "subject": "English",
+    "chapter": "Chapter 7: The Invention of Vita-Wonk & Dad and the Cat and the Tree",
+    "question": "What overarching literary value unites Chapter 7 of NCERT Class 7 English?",
+    "options": [
+      "The celebration of exuberant literary imagination, boundless creative curiosity, and the therapeutic power of lighthearted humor in transforming everyday life into whimsical wonder",
+      "That climbing trees is strictly forbidden by law",
+      "That medicines should be mixed with tea",
+      "That cats are always smarter than humans"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "Chapter 7 champions the vitality of imaginative storytelling, joyful wordplay, and the playful subversion of self-serious adult authority."
+  },
+  {
+    "classLevel": 7,
+    "subject": "GK",
+    "chapter": "Chapter 7: Indian Polity, Constitution, Fundamental Rights & Governance",
+    "question": "Who is celebrated as the 'Father of the Indian Constitution' and was the Chairman of the Drafting Committee of the Constituent Assembly?",
+    "options": [
+      "Dr. B.R. Ambedkar",
+      "Dr. Rajendra Prasad",
+      "Jawaharlal Nehru",
+      "Sardar Vallabhbhai Patel"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "Dr. Bhimrao Ramji Ambedkar chaired the Drafting Committee, shaping the foundational democratic architecture of the Indian Republic."
+  },
+  {
+    "classLevel": 7,
+    "subject": "GK",
+    "chapter": "Chapter 7: Indian Polity, Constitution, Fundamental Rights & Governance",
+    "question": "On which historic date did the Constitution of India come into full legal effect, celebrated annually as REPUBLIC DAY?",
+    "options": [
+      "26 January 1950",
+      "15 August 1947",
+      "26 November 1949",
+      "2 October 1950"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "The Constitution came into force on 26 January 1950, commemorating the 1930 Purna Swaraj declaration."
+  },
+  {
+    "classLevel": 7,
+    "subject": "GK",
+    "chapter": "Chapter 7: Indian Polity, Constitution, Fundamental Rights & Governance",
+    "question": "On which date is 'Constitution Day' (Samvidhan Divas) celebrated in India to commemorate the formal adoption of the Constitution by the Constituent Assembly in 1949?",
+    "options": [
+      "26 November",
+      "26 January",
+      "15 August",
+      "30 January"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "The Constituent Assembly adopted the Constitution on 26 November 1949, observed nationally as Samvidhan Divas."
+  },
+  {
+    "classLevel": 7,
+    "subject": "GK",
+    "chapter": "Chapter 7: Indian Polity, Constitution, Fundamental Rights & Governance",
+    "question": "Who was the elected permanent President of the Constituent Assembly of India and the First President of independent India?",
+    "options": [
+      "Dr. Rajendra Prasad",
+      "Dr. B.R. Ambedkar",
+      "Dr. S. Radhakrishnan",
+      "C. Rajagopalachari"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "Dr. Rajendra Prasad presided over the Constituent Assembly from Dec 1946 until its conclusion and served as India's first President."
+  },
+  {
+    "classLevel": 7,
+    "subject": "GK",
+    "chapter": "Chapter 7: Indian Polity, Constitution, Fundamental Rights & Governance",
+    "question": "What is the introductory opening statement of the Constitution that outlines the core philosophy, values, and objectives of the Indian Republic called?",
+    "options": [
+      "The Preamble",
+      "The Index",
+      "The Schedule",
+      "The Directive Principles"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "The Preamble proclaims India as a 'Sovereign Socialist Secular Democratic Republic' securing Justice, Liberty, Equality, and Fraternity."
+  },
+  {
+    "classLevel": 7,
+    "subject": "GK",
+    "chapter": "Chapter 7: Indian Polity, Constitution, Fundamental Rights & Governance",
+    "question": "How many broad categories of Fundamental Rights are guaranteed to all Indian citizens under Part III of the Constitution (Articles 12–35)?",
+    "options": [
+      "6 Fundamental Rights (Right to Equality, Freedom, Against Exploitation, Freedom of Religion, Cultural/Educational, and Constitutional Remedies)",
+      "7 Fundamental Rights (Right to Property was deleted)",
+      "10 Fundamental Rights",
+      "4 Fundamental Rights"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "The Constitution guarantees 6 Fundamental Rights (the 44th Amendment in 1978 removed the Right to Property as a fundamental right)."
+  },
+  {
+    "classLevel": 7,
+    "subject": "GK",
+    "chapter": "Chapter 7: Indian Polity, Constitution, Fundamental Rights & Governance",
+    "question": "Which Fundamental Right under Article 32 was described by Dr. B.R. Ambedkar as the \"Heart and Soul of the Constitution\"?",
+    "options": [
+      "Right to Constitutional Remedies (the right to petition the Supreme Court directly via writs)",
+      "Right to Equality",
+      "Right to Freedom",
+      "Right to Education"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "Article 32 empowers the Supreme Court to issue writs (Habeas Corpus, Mandamus, etc.) to enforce fundamental rights."
+  },
+  {
+    "classLevel": 7,
+    "subject": "GK",
+    "chapter": "Chapter 7: Indian Polity, Constitution, Fundamental Rights & Governance",
+    "question": "Who is the Constitutional Head of State of the Republic of India and the Supreme Commander of the Indian Armed Forces?",
+    "options": [
+      "The President of India",
+      "The Prime Minister",
+      "The Chief Justice of India",
+      "The Defence Minister"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "The President is the executive Head of State and supreme commander of the army, navy, and air force under Article 53."
+  },
+  {
+    "classLevel": 7,
+    "subject": "GK",
+    "chapter": "Chapter 7: Indian Polity, Constitution, Fundamental Rights & Governance",
+    "question": "What are the two houses of the bicameral Parliament of India (Sansad)?",
+    "options": [
+      "The Lok Sabha (House of the People) and the Rajya Sabha (Council of States)",
+      "The Senate and House of Representatives",
+      "The Vidhan Sabha and Vidhan Parishad",
+      "The Supreme Court and High Court"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "The Union Parliament comprises the President, Lok Sabha (directly elected lower house), and Rajya Sabha (states' council upper house)."
+  },
+  {
+    "classLevel": 7,
+    "subject": "GK",
+    "chapter": "Chapter 7: Indian Polity, Constitution, Fundamental Rights & Governance",
+    "question": "What is the highest judicial court of appeal and custodian of the Constitution in India, headquartered on Tilak Marg in New Delhi?",
+    "options": [
+      "The Supreme Court of India",
+      "The High Court of Delhi",
+      "The National Green Tribunal",
+      "The Parliament"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "The Supreme Court of India (inaugurated 28 January 1950) is the apex judicial forum and constitutional interpreter."
+  },
+  {
+    "classLevel": 7,
+    "subject": "GK",
+    "chapter": "Chapter 7: Indian Polity, Constitution, Fundamental Rights & Governance",
+    "question": "What is the minimum voting age for Indian citizens in general elections under the Universal Adult Suffrage principle (lowered from 21 by 61st Amendment)?",
+    "options": [
+      "18 years",
+      "21 years",
+      "25 years",
+      "16 years"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "The 61st Constitutional Amendment Act (1988) amended Article 326 to lower the voting age from 21 to 18 years."
+  },
+  {
+    "classLevel": 7,
+    "subject": "GK",
+    "chapter": "Chapter 7: Indian Polity, Constitution, Fundamental Rights & Governance",
+    "question": "Which independent constitutional body conducts free and fair elections to the Lok Sabha, Rajya Sabha, State Legislatures, and the offices of President and Vice President of India?",
+    "options": [
+      "Election Commission of India (ECI - Article 324)",
+      "UPSC",
+      "NITI Aayog",
+      "Law Commission"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "The Election Commission of India (established 25 Jan 1950, National Voters' Day) oversees federal and state electoral processes."
+  },
+  {
+    "classLevel": 7,
+    "subject": "GK",
+    "chapter": "Chapter 7: Indian Polity, Constitution, Fundamental Rights & Governance",
+    "question": "What are the 'Directive Principles of State Policy' (DPSP) contained in Part IV (Articles 36–51) of the Indian Constitution, borrowed from the Irish Constitution?",
+    "options": [
+      "Non-justiciable constitutional guidelines and moral directives for the government to establish a Welfare State and achieve social-economic democracy",
+      "Rules for arresting criminals",
+      "Laws on international trade",
+      "Military commands"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "DPSPs are socio-economic governance charters guiding state legislation towards establishing an equitable welfare society."
+  },
+  {
+    "classLevel": 7,
+    "subject": "GK",
+    "chapter": "Chapter 7: Indian Polity, Constitution, Fundamental Rights & Governance",
+    "question": "Which constitutional amendment in 1976 (known as the 'Mini-Constitution') added the words 'SOCIALIST', 'SECULAR', and 'INTEGRITY' to the Preamble, and inserted Fundamental Duties (Article 51A)?",
+    "options": [
+      "The 42nd Constitutional Amendment Act, 1976",
+      "The 44th Amendment",
+      "The 86th Amendment",
+      "The 73rd Amendment"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "The 42nd Amendment Act (1976) introduced secular-socialist preambular values and Part IV-A (Fundamental Duties) upon Swaran Singh Committee advice."
+  },
+  {
+    "classLevel": 7,
+    "subject": "GK",
+    "chapter": "Chapter 7: Indian Polity, Constitution, Fundamental Rights & Governance",
+    "question": "Which Fundamental Right was inserted under Article 21A by the 86th Constitutional Amendment Act in 2002, making free and compulsory education for all children aged 6 to 14 years a fundamental right?",
+    "options": [
+      "Right to Education (RTE)",
+      "Right to Health",
+      "Right to Work",
+      "Right to Clean Air"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "Article 21A guarantees free, compulsory elementary education for children aged 6–14 as an enforceable fundamental right."
+  },
+  {
+    "classLevel": 7,
+    "subject": "GK",
+    "chapter": "Chapter 7: Indian Polity, Constitution, Fundamental Rights & Governance",
+    "question": "Who is the ex-officio Chairman of the Rajya Sabha (Upper House of Parliament)?",
+    "options": [
+      "The Vice President of India",
+      "The Prime Minister",
+      "The Chief Justice of India",
+      "The Lok Sabha Speaker"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "Under Article 64, the Vice President of India is the ex-officio Chairman of the Rajya Sabha."
+  },
+  {
+    "classLevel": 7,
+    "subject": "GK",
+    "chapter": "Chapter 7: Indian Polity, Constitution, Fundamental Rights & Governance",
+    "question": "What are the three lists of legislative subjects in the Seventh Schedule dividing powers between the Central Union and State Governments?",
+    "options": [
+      "1. Union List (Defence, Foreign Affairs, Railways) ; 2. State List (Police, Agriculture, Health) ; 3. Concurrent List (Education, Forests, Marriage)",
+      "Civil List, Military List, Tax List",
+      "Northern List, Southern List, Eastern List",
+      "Urban List, Rural List, Forest List"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "The Seventh Schedule demarcates legislative competence: Union List (exclusive Centre), State List (exclusive States), Concurrent List (shared jurisdiction)."
+  },
+  {
+    "classLevel": 7,
+    "subject": "GK",
+    "chapter": "Chapter 7: Indian Polity, Constitution, Fundamental Rights & Governance",
+    "question": "What historic constitutional amendments (73rd and 74th Amendments in 1992) institutionalized the third tier of local self-government in India?",
+    "options": [
+      "Panchayati Raj Institutions (Rural local governance) and Urban Municipalities / Municipal Corporations",
+      "Creation of new High Courts",
+      "GST Council formation",
+      "Abolition of Privy Purses"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "The 73rd and 74th Amendments established three-tier Panchayati Raj (Gram, Block, Zilla) and Urban Local Bodies with mandatory reservations for women."
+  },
+  {
+    "classLevel": 7,
+    "subject": "GK",
+    "chapter": "Chapter 7: Indian Polity, Constitution, Fundamental Rights & Governance",
+    "question": "What is the 'Comptroller and Auditor General of India' (CAG - Article 148), often described as the 'Guardian of the Public Purse'?",
+    "options": [
+      "An independent constitutional authority that audits all receipts and expenditure of the Government of India and State Governments to ensure financial accountability",
+      "The minister who collects income tax",
+      "The head of commercial banks",
+      "The manager of the stock exchange"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "The CAG performs independent audit surveillance over the Consolidated Funds of Union and States, reporting to Parliament via PAC."
+  },
+  {
+    "classLevel": 7,
+    "subject": "GK",
+    "chapter": "Chapter 7: Indian Polity, Constitution, Fundamental Rights & Governance",
+    "question": "What is the landmark 'Basic Structure Doctrine' formulated by the Supreme Court of India in the famous 1973 Kesavananda Bharati case?",
+    "options": [
+      "Parliament has the power to amend the Constitution under Article 368, but CANNOT alter, destroy, or abrogate the 'Basic Structure' (Democracy, Secularism, Judicial Review, Rule of Law)",
+      "All laws must be written in Sanskrit",
+      "The Prime Minister cannot travel abroad",
+      "Parliament cannot pass any budget"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "The 13-judge Kesavananda Bharati bench established that constitutional amendment powers cannot dismantle the foundational basic structure."
+  },
+  {
+    "classLevel": 7,
+    "subject": "GK",
+    "chapter": "Chapter 7: Indian Polity, Constitution, Fundamental Rights & Governance",
+    "question": "What does 'Sovereign' mean in the Preamble of the Indian Constitution?",
+    "options": [
+      "India is completely independent, supreme, and free from any foreign control or external dictation in making internal and external decisions",
+      "India is ruled by a king",
+      "India has no borders",
+      "India is an island"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "'Sovereign' signifies absolute national independence and supreme jurisdictional authority free from external hegemony."
+  },
+  {
+    "classLevel": 7,
+    "subject": "GK",
+    "chapter": "Chapter 7: Indian Polity, Constitution, Fundamental Rights & Governance",
+    "question": "What does 'Secular' mean in the context of the Indian democratic model (Sarva Dharma Sambhava)?",
+    "options": [
+      "The State has no official state religion and accords equal respect, protection, and freedom to all religions without discriminating against any citizen",
+      "The State bans all religions",
+      "Only one religion is allowed in schools",
+      "Citizens are not allowed to pray"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "Indian secularism maintains principled distance and equal patronage towards all faiths, protecting religious freedoms under Articles 25–28."
+  },
+  {
+    "classLevel": 7,
+    "subject": "GK",
+    "chapter": "Chapter 7: Indian Polity, Constitution, Fundamental Rights & Governance",
+    "question": "How is the President of India elected?",
+    "options": [
+      "Indirectly by an Electoral College consisting of elected members of both Houses of Parliament (Lok Sabha & Rajya Sabha) and elected MLAs of all State Legislative Assemblies",
+      "Direct voting by all citizens",
+      "Nominated by the Supreme Court",
+      "Selected by previous President"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "Article 54: The President is elected through proportional representation with single transferable vote by elected MPs and MLAs."
+  },
+  {
+    "classLevel": 7,
+    "subject": "GK",
+    "chapter": "Chapter 7: Indian Polity, Constitution, Fundamental Rights & Governance",
+    "question": "What is the maximum strength of members in the Lok Sabha permitted by the Constitution?",
+    "options": [
+      "550 members (representing States and Union Territories)",
+      "250 members",
+      "100 members",
+      "700 members"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "Article 81: Lok Sabha maximum ceiling is 550 (up to 530 from States, up to 20 from UTs; Anglo-Indian nomination was discontinued by 104th Amendment)."
+  },
+  {
+    "classLevel": 7,
+    "subject": "GK",
+    "chapter": "Chapter 7: Indian Polity, Constitution, Fundamental Rights & Governance",
+    "question": "What is the maximum strength of members in the Rajya Sabha?",
+    "options": [
+      "250 members (238 elected from States/UTs + 12 nominated by the President for literature, science, art, and social service)",
+      "550 members",
+      "300 members",
+      "150 members"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "Article 80: Rajya Sabha has up to 250 members: 238 state/UT representatives and 12 presidential nominees with specialized eminence."
+  },
+  {
+    "classLevel": 7,
+    "subject": "GK",
+    "chapter": "Chapter 7: Indian Polity, Constitution, Fundamental Rights & Governance",
+    "question": "What is a 'Money Bill' in the Indian Parliament, and which House has exclusive, overriding authority over it?",
+    "options": [
+      "A Bill dealing with taxation and government expenditure (Article 110) ; it can ONLY be introduced in the LOK SABHA with the prior recommendation of the President",
+      "A bill that can only be introduced in Rajya Sabha",
+      "A bill passed by the Supreme Court",
+      "A bill passed by municipal ward councils"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "Money bills originate exclusively in the Lok Sabha; the Rajya Sabha has only 14 days to suggest non-binding recommendations."
+  },
+  {
+    "classLevel": 7,
+    "subject": "GK",
+    "chapter": "Chapter 7: Indian Polity, Constitution, Fundamental Rights & Governance",
+    "question": "What is 'Judicial Review' exercised by the Supreme Court and High Courts of India?",
+    "options": [
+      "The constitutional power to examine the constitutional validity of legislative enactments and executive orders, and declare them NULL and VOID if they violate Fundamental Rights",
+      "The power of judges to change their salaries",
+      "The right of the police to make laws",
+      "The review of school exam papers"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "Articles 13, 32, and 226 empower the higher judiciary to invalidate ultra vires statutes violating constitutional mandates."
+  },
+  {
+    "classLevel": 7,
+    "subject": "GK",
+    "chapter": "Chapter 7: Indian Polity, Constitution, Fundamental Rights & Governance",
+    "question": "What is the 'Right to Information' (RTI) Act passed by the Indian Parliament in 2005?",
+    "options": [
+      "A landmark transparency law empowering citizens to request and receive certified information from public authorities, curbing corruption and promoting accountability",
+      "A law that bans newspapers",
+      "A secret government code",
+      "A rule on television commercials"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "The RTI Act (2005) enforces participatory transparency, enabling citizens to inspect government files and demand institutional accountability."
+  },
+  {
+    "classLevel": 7,
+    "subject": "GK",
+    "chapter": "Chapter 7: Indian Polity, Constitution, Fundamental Rights & Governance",
+    "question": "Read the statements:\nAssertion (A): The Indian Constitution is characterized as 'Quasi-Federal' (Federal in structure, but Unitary in spirit).\nReason (R): It establishes a dual polity of Union and States with division of powers, yet grants superior emergency powers (Articles 352, 356), single citizenship, an integrated judiciary, and an all-powerful Governor to the Central Union.\nChoose the correct option:",
+    "options": [
+      "Both (A) and (R) are true, and (R) is the correct explanation of (A).",
+      "Both (A) and (R) are true, but (R) is NOT the correct explanation of (A).",
+      "(A) is true, but (R) is false.",
+      "(A) is false, but (R) is true."
+    ],
+    "correctAnswer": 0,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "Prof. K.C. Wheare termed the Indian constitution 'quasi-federal' due to strong centralizing provisions preserving subcontinental unity."
+  },
+  {
+    "classLevel": 7,
+    "subject": "GK",
+    "chapter": "Chapter 7: Indian Polity, Constitution, Fundamental Rights & Governance",
+    "question": "Spot the IMPOSTER in the following constitutional bodies and their corresponding Articles in the Indian Constitution:\nGroup:\n1. Election Commission of India - Article 324\n2. Union Public Service Commission (UPSC) - Article 315\n3. Comptroller and Auditor General of India (CAG) - Article 148\n4. Finance Commission - Article 500",
+    "options": [
+      "Body 1",
+      "Body 2",
+      "Body 3",
+      "Body 4 (The Finance Commission is constituted under ARTICLE 280, not Article 500 ; the Constitution has only 395 original articles)"
+    ],
+    "correctAnswer": 3,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "The Finance Commission is established under Article 280 (Article 500 does not exist in the Indian Constitution)."
+  },
+  {
+    "classLevel": 7,
+    "subject": "GK",
+    "chapter": "Chapter 7: Indian Polity, Constitution, Fundamental Rights & Governance",
+    "question": "Match Column I (Constitutional Writs under Articles 32 and 226) with Column II (Latin Meanings and Applications):\n(a) Habeas Corpus -> (i) 'To have the body' (releases a person unlawfully detained by state/police)\n(b) Mandamus      -> (ii) 'We Command' (orders a public official to perform their mandatory statutory duty)\n(c) Prohibition   -> (iii) Orders a lower court/tribunal to cease proceedings exceeding its jurisdiction\n(d) Quo-Warranto  -> (iv) 'By what warrant' (inquires into the legality of a person holding a public office)",
+    "options": [
+      "a-(i), b-(ii), c-(iii), d-(iv)",
+      "a-(ii), b-(i), c-(iv), d-(iii)",
+      "a-(iv), b-(iii), c-(ii), d-(i)",
+      "a-(iii), b-(iv), c-(i), d-(ii)"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "Habeas Corpus = personal liberty; Mandamus = public duty command; Prohibition = jurisdiction restraint; Quo-Warranto = title to public office."
+  },
+  {
+    "classLevel": 7,
+    "subject": "GK",
+    "chapter": "Chapter 7: Indian Polity, Constitution, Fundamental Rights & Governance",
+    "question": "Read the statements regarding the Emergency Provisions in the Indian Constitution (Part XVIII):\nStatement 1: National Emergency (Article 352) can be proclaimed on grounds of War, External Aggression, or Armed Rebellion.\nStatement 2: President's Rule (State Emergency - Article 356) can be imposed when constitutional machinery fails in a State.\nStatement 3: Financial Emergency (Article 360) has been imposed in India fifteen times since 1950.\nWhich statements are TRUE?",
+    "options": [
+      "Statements 1 and 2 only",
+      "Statements 2 and 3 only",
+      "Statements 1 and 3 only",
+      "All Statements 1, 2, and 3"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "Statement 3 is false because Financial Emergency (Article 360) has NEVER been declared in India's history. Statements 1 and 2 are true."
+  },
+  {
+    "classLevel": 7,
+    "subject": "GK",
+    "chapter": "Chapter 7: Indian Polity, Constitution, Fundamental Rights & Governance",
+    "question": "What constitutes the 'Doctrine of Separation of Powers' embedded with 'Checks and Balances' in Indian parliamentary democracy?",
+    "options": [
+      "The Legislature makes laws, the Executive implements laws, and the Judiciary interprets laws and invalidates unconstitutional actions, ensuring no branch exercises absolute tyranny",
+      "The army controls all political leaders",
+      "The President writes all court judgments",
+      "Ministers serve as judges in court"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "Indian tripartite governance balances functional separation with mutual accountability (judicial review of laws, legislative oversight of ministers)."
+  },
+  {
+    "classLevel": 7,
+    "subject": "GK",
+    "chapter": "Chapter 7: Indian Polity, Constitution, Fundamental Rights & Governance",
+    "question": "What is the procedure for the IMPEACHMENT of the President of India under Article 61 of the Constitution?",
+    "options": [
+      "A quasi-judicial resolution passed by a special majority of NOT LESS THAN TWO-THIRDS of the total membership of both Houses of Parliament on grounds of 'Violation of the Constitution'",
+      "A simple majority vote in Lok Sabha only",
+      "An order passed by the Chief Justice of India",
+      "A public referendum"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "Article 61 prescribes stringent two-thirds total membership super-majority in both Houses for presidential impeachment on constitutional violations."
+  },
+  {
+    "classLevel": 7,
+    "subject": "GK",
+    "chapter": "Chapter 7: Indian Polity, Constitution, Fundamental Rights & Governance",
+    "question": "Consider four features of the Indian Constitution:\n1. Parliamentary System of Government (from UK)\n2. Fundamental Rights and Judicial Review (from USA)\n3. Directive Principles of State Policy (from Ireland)\n4. Constitutional Amendment Procedure (from South Africa)\nWhat does this eclectic synthesis demonstrate?",
+    "options": [
+      "A masterful comparative constitutional achievement that adapted the world's finest democratic practices to India's unique civilizational pluralism",
+      "A careless copy of other countries' rules",
+      "An accidental document created in a few days",
+      "A document that applies only to cities"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "The Constituent Assembly synthesized global constitutional best-practices, adapting them to the pluralistic ethos of independent India."
+  },
+  {
+    "classLevel": 7,
+    "subject": "GK",
+    "chapter": "Chapter 7: Indian Polity, Constitution, Fundamental Rights & Governance",
+    "question": "What is the significance of the 101st Constitutional Amendment Act (2016) in Indian cooperative fiscal federalism?",
+    "options": [
+      "The introduction of the unified Goods and Services Tax (GST) and the constitutional establishment of the joint Centre-State GST Council (Article 279A)",
+      "The nationalization of private banks",
+      "The abolition of states",
+      "The introduction of a new national anthem"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "The 101st Amendment revolutionized indirect taxation via 'One Nation, One Tax', creating the federal consensus GST Council."
+  },
+  {
+    "classLevel": 7,
+    "subject": "GK",
+    "chapter": "Chapter 7: Indian Polity, Constitution, Fundamental Rights & Governance",
+    "question": "What is the constitutional role of the 'Attorney General for India' (Article 76)?",
+    "options": [
+      "The highest law officer of the Government of India, appointed by the President, who gives legal counsel to the Union government and has the right of audience in all courts in India",
+      "The chief of police",
+      "The commander of the navy",
+      "The governor of the Reserve Bank"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "The Attorney General is the principal legal advisor to the Union and represents the Union Government in supreme appellate litigation."
+  },
+  {
+    "classLevel": 7,
+    "subject": "GK",
+    "chapter": "Chapter 7: Indian Polity, Constitution, Fundamental Rights & Governance",
+    "question": "Why is Article 21 (Protection of Life and Personal Liberty) regarded as the expansive cornerstone of human rights jurisprudence in India?",
+    "options": [
+      "Through progressive judicial interpretations (Maneka Gandhi, Puttaswamy cases), it now encompasses the Right to Privacy, Right to Clean Environment, Right to Livelihood, and Right to Dignity",
+      "It allows citizens to break traffic laws",
+      "It guarantees free movie tickets",
+      "It applies only to foreign ambassadors"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "The Supreme Court expanded Article 21 to enshrine substantive due process, privacy, environmental rights, and human dignity."
+  },
+  {
+    "classLevel": 7,
+    "subject": "GK",
+    "chapter": "Chapter 7: Indian Polity, Constitution, Fundamental Rights & Governance",
+    "question": "What was the landmark 106th Constitutional Amendment Act (Nari Shakti Vandan Adhiniyam) passed by Parliament in 2023?",
+    "options": [
+      "Reserving 33% (one-third) of seats for WOMEN in the Lok Sabha, State Legislative Assemblies, and the Delhi Legislative Assembly",
+      "Making women eligible for driving licenses",
+      "Abolishing all taxes for women",
+      "Granting free electricity to women"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "The 106th Amendment mandates 33% constitutional reservation for women in legislative bodies to enhance democratic gender parity."
+  },
+  {
+    "classLevel": 7,
+    "subject": "GK",
+    "chapter": "Chapter 7: Indian Polity, Constitution, Fundamental Rights & Governance",
+    "question": "What core vision of constitutional patriotism and civic responsibility is established in Chapter 7 of General Knowledge?",
+    "options": [
+      "The Constitution is a living, sacred covenant of sovereign democratic self-governance, requiring vigilant citizens who cherish liberty, protect equality, defend institutional integrity, and fulfill their fundamental duties",
+      "That the Constitution is an unchangeable ancient stone that citizens should ignore",
+      "That democracy works without citizens taking part in elections",
+      "That laws apply only to the poor"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "Chapter 7 synthesizes constitutional democracy, rule of law, institutional checks and balances, and civic empowerment in the Republic of India."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Social Science",
+    "chapter": "Chapter 7: Tribes, Nomads and Settled Communities",
+    "question": "What distinct social organization characterized tribal societies compared to the caste-based (Varna) societies of medieval India?",
+    "options": [
+      "Tribal societies did NOT follow rigid social rules and caste divisions prescribed by Brahmans; they were organized into egalitarian kinship / clan groups with shared natural resources",
+      "They had hundreds of rigid sub-castes",
+      "They lived only in marble palaces",
+      "They were ruled by foreign emperors"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "Tribal communities organized social life around kinship bonds, communal land ownership, and egalitarian clan structures without Brahmanical varna hierarchies."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Social Science",
+    "chapter": "Chapter 7: Tribes, Nomads and Settled Communities",
+    "question": "Which vast forested region of central India (comprising modern Madhya Pradesh, Chhattisgarh, and Maharashtra) was the homeland of the GONDS?",
+    "options": [
+      "Gondwana ('Country inhabited by Gonds')",
+      "Brahmaputra Valley",
+      "Thar Desert",
+      "Konkan Coast"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "Gondwana was the historical central Indian forest region where Gond kingdoms practiced shifting cultivation."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Social Science",
+    "chapter": "Chapter 7: Tribes, Nomads and Settled Communities",
+    "question": "What rich Gond kingdom mentioned in the Akbar Nama contained 70,000 villages and grew wealthy by exporting wild elephants to other kingdoms?",
+    "options": [
+      "Garha Katanga",
+      "Chanda",
+      "Deogarh",
+      "Kherla"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "Garha Katanga was a prosperous Gond kingdom ruling 70,000 villages, enriched through the capture and export of wild elephants."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Social Science",
+    "chapter": "Chapter 7: Tribes, Nomads and Settled Communities",
+    "question": "Which brave, heroic Rajput princess married the Gond King Dalpat and ruled Garha Katanga on behalf of her young son Bir Narain, dying in battle against the Mughal general Asaf Khan in 1565?",
+    "options": [
+      "Rani Durgavati",
+      "Rani Lakshmibai",
+      "Rani Padmini",
+      "Rani Rudrama Devi"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "Rani Durgavati of Garha Katanga (daughter of Chandel king Salbahan) fought valiantly against Asaf Khan's Mughal invasion until her martyrdom."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Social Science",
+    "chapter": "Chapter 7: Tribes, Nomads and Settled Communities",
+    "question": "Which powerful tribal community migrated from present-day Myanmar into the Brahmaputra River valley (Assam) in the 13th century, establishing a flourishing independent state?",
+    "options": [
+      "The Ahoms (led by Chaolung Sukapha)",
+      "The Gonds",
+      "The Bhils",
+      "The Santhals"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "The Tai-Ahom people under Sukapha settled the upper Brahmaputra valley in 1228 CE, creating the mighty Ahom kingdom."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Social Science",
+    "chapter": "Chapter 7: Tribes, Nomads and Settled Communities",
+    "question": "What were historical historical chronicles and official state records written in the Ahom language and later in Assamese called?",
+    "options": [
+      "Buranjis",
+      "Tuzuks",
+      "Prashastis",
+      "Khels"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "Buranjis are the invaluable historical chronicles written by Ahom court scribes recording political and diplomatic history."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Social Science",
+    "chapter": "Chapter 7: Tribes, Nomads and Settled Communities",
+    "question": "In the Ahom state, what were the adult male villagers who were legally obliged to render compulsory rotational labor for public works called?",
+    "options": [
+      "Paiks",
+      "Khels",
+      "Samantas",
+      "Mansabdars"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "Under the Ahom Paik system, each village supplied rotational corvée laborers (Paiks) for constructing dykes, canals, and military service."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Social Science",
+    "chapter": "Chapter 7: Tribes, Nomads and Settled Communities",
+    "question": "In Ahom society, what were the clans or collective administrative units that controlled several villages called?",
+    "options": [
+      "Khels",
+      "Paiks",
+      "Garhs",
+      "Buranjis"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "A Khel was a clan-based corporate unit commanding specific Paiks and distributing village land."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Social Science",
+    "chapter": "Chapter 7: Tribes, Nomads and Settled Communities",
+    "question": "Which major warrior tribes dominated the Punjab region during the 13th and 14th centuries (whose chief Kamal Khan Gakkhar was made a noble by Akbar)?",
+    "options": [
+      "Khokhars and Gakkhars",
+      "Bhils and Kolis",
+      "Ahoms and Nagas",
+      "Gonds and Santhals"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "The Khokhars and Gakkhars were influential martial tribes of Punjab; Emperor Akbar appointed Gakkhar chief Kamal Khan as a high Mansabdar."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Social Science",
+    "chapter": "Chapter 7: Tribes, Nomads and Settled Communities",
+    "question": "Which large tribal group inhabited the forested hilly regions of the Western Ghats and Central India across Rajasthan, Gujarat, and Maharashtra?",
+    "options": [
+      "The Bhils (and Kolis)",
+      "The Ahoms",
+      "The Gakkhars",
+      "The Cheros"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "The Bhils spread across the Western Ghats and Vindhyas, transitioning between hunter-gathering, shifting farming, and archery."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Social Science",
+    "chapter": "Chapter 7: Tribes, Nomads and Settled Communities",
+    "question": "What agricultural method involving cutting and burning trees and bushes in forest plots to plant crops in the fertile ash for a few years was practiced by Gonds?",
+    "options": [
+      "Shifting Cultivation (Jhum / Podu)",
+      "Terrace Farming only",
+      "Hydroponics",
+      "Plantation Farming"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "Shifting cultivation (slash-and-burn) was the traditional agrarian system of forest-dwelling tribal communities like the Gonds."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Social Science",
+    "chapter": "Chapter 7: Tribes, Nomads and Settled Communities",
+    "question": "Which pastoral shepherd tribe lived in the western Himalayas (Himachal Pradesh), migrating with sheep and goat herds according to seasons?",
+    "options": [
+      "Gaddis (and Gujjar Bakarwals)",
+      "Ahoms",
+      "Gonds",
+      "Cheros"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "The Gaddis are transhumant pastoral shepherds of the western Himalayas migrating between alpine meadows and valley winters."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Social Science",
+    "chapter": "Chapter 7: Tribes, Nomads and Settled Communities",
+    "question": "What was the administrative division hierarchy of the centralized Gond kingdom of Garha Katanga?",
+    "options": [
+      "Kingdom was divided into Garhs (controlled by Gond clans) ; each Garh was divided into Chaurasis (units of 84 villages) ; each Chaurasi was subdivided into Barhots (units of 12 villages)",
+      "Kingdom -> Suba -> Sarkar -> Pargana",
+      "Kingdom was divided into 1,000 islands",
+      "Kingdom had no divisions"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "Gond administrative structure: Garh (clan territory) → Chaurasi (84 villages) → Barhot (12 villages)."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Social Science",
+    "chapter": "Chapter 7: Tribes, Nomads and Settled Communities",
+    "question": "Why did the Gond Raja of Garha Katanga, Aman Das, adopt the prestigious title of 'Sangram Shah'?",
+    "options": [
+      "To elevate his social and political status to that of a Kshatriya / Rajput ruler, seeking parity with established northern dynasties",
+      "Because he won an Olympic medal",
+      "Because the British gave him the title",
+      "Because he moved to Europe"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "Gond chieftains Sanskritized their identity (Rajputization) by assuming Kshatriya titles (Sangram Shah) and forming Rajput matrimonial alliances."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Social Science",
+    "chapter": "Chapter 7: Tribes, Nomads and Settled Communities",
+    "question": "How did the introduction of advanced Gunpowder and Firearms in the 16th century transform the military strength of the Ahom kingdom?",
+    "options": [
+      "The Ahoms quickly mastered metallurgy to manufacture high-quality gunpowder and cast heavy bronze cannons as early as the 1530s, successfully repelling numerous invasions",
+      "They bought weapons from China only",
+      "Gunpowder destroyed the Ahom kingdom immediately",
+      "They banned all weapons"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "The Ahoms developed advanced indigenous pyrotechnic ballistics, manufacturing high-grade gunpowder and cannons from the 1530s."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Social Science",
+    "chapter": "Chapter 7: Tribes, Nomads and Settled Communities",
+    "question": "Under which Mughal general was an army sent in 1662 to invade the Ahom kingdom, capturing the capital Garhgaon after fierce Ahom resistance?",
+    "options": [
+      "Mir Jumla (Governor of Bengal under Aurangzeb)",
+      "Raja Man Singh",
+      "Bairam Khan",
+      "Shaista Khan"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "Mir Jumla captured Garhgaon in 1662, but protracted guerrilla warfare and monsoon pestilence forced a Mughal treaty."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Social Science",
+    "chapter": "Chapter 7: Tribes, Nomads and Settled Communities",
+    "question": "Under which great Ahom King (reigned 1696–1714) did Hinduism become the predominant religion, while Ahom kings retained their traditional Tai cultural customs?",
+    "options": [
+      "Rudra Singha (Sukhrungphaa)",
+      "Sukapha",
+      "Pratap Singha",
+      "Gadadhar Singha"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "King Rudra Singha patronized Brahmanical Vaishnavism and built the grand amphitheater Rang Ghar while preserving Tai ancestral rituals."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Social Science",
+    "chapter": "Chapter 7: Tribes, Nomads and Settled Communities",
+    "question": "What was the 'Tanda' of the Banjaras described in Emperor Jahangir's memoirs (Tuzuk-i Jahangiri)?",
+    "options": [
+      "A massive mobile nomadic convoy/caravan of Banjara trader families moving with thousands of pack-bullocks loaded with grain to sell in town markets and provision Mughal armies",
+      "A musical instrument",
+      "A stone fort in the forest",
+      "A type of food"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "Jahangir recorded that Banjaras transported grain on bullocks from villages into towns: 'A tanda consists of many families... moving up to 100,000 oxen'."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Social Science",
+    "chapter": "Chapter 7: Tribes, Nomads and Settled Communities",
+    "question": "How did economic exchange operate between Pastoral Nomads and settled agricultural villagers?",
+    "options": [
+      "Pastoral nomads exchanged animal products (ghee, wool, hides, milk) with settled farmers in return for agricultural grain, cloth, metal utensils, and salt",
+      "They had no contact with farmers",
+      "Nomads gave gold and bought land",
+      "Farmers became nomads every winter"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "Symbiotic rural-pastoral barter: pastoralists bartered pastoral commodities (ghee, wool, pack-animals) for agrarian food grains and textiles."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Social Science",
+    "chapter": "Chapter 7: Tribes, Nomads and Settled Communities",
+    "question": "Which powerful tribal chieftaincy in Bihar and Jharkhand was attacked and defeated by Akbar's general Raja Man Singh in 1591, yielding vast booty?",
+    "options": [
+      "The Cheros",
+      "The Santhals",
+      "The Ahoms",
+      "The Gakkhars"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "Raja Man Singh defeated the Chero chief in 1591, seizing wealth and elephants, though complete subjugation occurred under Aurangzeb."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Social Science",
+    "chapter": "Chapter 7: Tribes, Nomads and Settled Communities",
+    "question": "How did the proliferation of specialized crafts and professional occupational groups lead to the emergence of 'JATIS' (sub-castes) within the Varna system?",
+    "options": [
+      "As the economy grew more complex, specialized occupational groups (smiths, carpenters, masons, sculptors) were recognized by Brahmans as distinct Jatis within the social framework",
+      "The Varna system was abolished completely",
+      "All craftspersons were made kings",
+      "Jatis were introduced by foreign traders"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "Economic diversification spawned Jatis: specialized artisanal, mercantile, and tribal communities were accommodated as discrete jatis."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Social Science",
+    "chapter": "Chapter 7: Tribes, Nomads and Settled Communities",
+    "question": "What agricultural innovation in Wet-Rice Cultivation was introduced by the Ahoms in the Brahmaputra valley?",
+    "options": [
+      "Advanced wet rice transplantation techniques, construction of extensive flood-control dykes and irrigation canals",
+      "Growing rice without water in deserts",
+      "Importing rice from Europe",
+      "Using tractors and chemical fertilizers"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "Ahoms engineered wet-rice hydraulic ecology: building bunds, earthen dykes, and canal networks across floodplains."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Social Science",
+    "chapter": "Chapter 7: Tribes, Nomads and Settled Communities",
+    "question": "What happened when the Mughals under Asaf Khan conquered Garha Katanga in 1565?",
+    "options": [
+      "The Mughals captured immense booty in precious gold coins and thousands of wild elephants, annexing a part and granting the rest to Bir Narain's uncle Chhatar Shah",
+      "They destroyed all houses and left",
+      "They made Rani Durgavati the Mughal Empress",
+      "They planted a forest over the kingdom"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "The Mughals appropriated Garha Katanga's legendary treasury of gold and elephants, establishing indirect suzerainty."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Social Science",
+    "chapter": "Chapter 7: Tribes, Nomads and Settled Communities",
+    "question": "Which martial tribes inhabited the rugged Balochistan desert frontiers in the northwest of the subcontinent?",
+    "options": [
+      "The Balochis (divided into many powerful clans under chieftains)",
+      "The Ahoms",
+      "The Gonds",
+      "The Santhals"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "The Balochis formed a major confederacy of clan-based pastoral and warrior tribes across the northwestern arid frontiers."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Social Science",
+    "chapter": "Chapter 7: Tribes, Nomads and Settled Communities",
+    "question": "Which tribal kingdoms inhabited the forested plateaus of Chota Nagpur and Odisha during the medieval era?",
+    "options": [
+      "The Mundas and Santhals",
+      "The Ahoms",
+      "The Kolis",
+      "The Gakkhars"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "The Mundas, Santhals, and Oraons inhabited the mineral-rich Chota Nagpur plateau and forested Odisha tracts."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Social Science",
+    "chapter": "Chapter 7: Tribes, Nomads and Settled Communities",
+    "question": "What were the 'Itinerant Groups' in medieval society?",
+    "options": [
+      "Mobile craftspersons, entertainers, pedlars, and puppeteers who traveled from village to village practicing their occupation and trade",
+      "Kings who lived in tents",
+      "Priests who never walked",
+      "Soldiers guarding fort gates"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "Itinerant groups included nomadic blacksmiths, rope-makers, acrobats, and bards servicing rural communities on seasonal circuits."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Social Science",
+    "chapter": "Chapter 7: Tribes, Nomads and Settled Communities",
+    "question": "What was the 'Khel' census mechanism used by Ahom kings to manage labor and military manpower?",
+    "options": [
+      "A regular population census was taken; villages with large populations were forced to transfer Paik laborers to sparsely populated areas to balance labor resources",
+      "Every person was given gold coins",
+      "People were counted by measuring their height",
+      "Only horses were counted"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "The Ahom administration took regular Paik censuses, re-allocating corvée labor between densely and sparsely populated khels."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Social Science",
+    "chapter": "Chapter 7: Tribes, Nomads and Settled Communities",
+    "question": "Why did Brahman scholars gain immense influence in Gond and Ahom royal courts in the 16th and 17th centuries?",
+    "options": [
+      "Tribal kings granted generous tax-free land endowments (Brahmadeya) to Brahmans to obtain Sanskrit genealogical legitimacy, Kshatriya status, and rituals for statecraft",
+      "Brahmans were the only soldiers in the kingdom",
+      "Brahmans built all cannons",
+      "Brahmans controlled the elephant trade"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "Tribal rulers patronized Brahmans with land grants to legitimize their emergent monarchies within the pan-Indian royal pantheon."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Social Science",
+    "chapter": "Chapter 7: Tribes, Nomads and Settled Communities",
+    "question": "Read the statements:\nAssertion (A): Tribal societies and settled caste-based societies in medieval India engaged in continuous, dynamic reciprocal interaction rather than total mutual isolation.\nReason (R): Settled agrarian states depended on nomadic Banjaras for logistical transport and tribal kingdoms for elephants and forest timber, while tribal chiefs adopted Brahmanical statecraft and Rajput lineage identities to consolidate their emerging state power.\nChoose the correct option:",
+    "options": [
+      "Both (A) and (R) are true, and (R) is the correct explanation of (A).",
+      "Both (A) and (R) are true, but (R) is NOT the correct explanation of (A).",
+      "(A) is true, but (R) is false.",
+      "(A) is false, but (R) is true."
+    ],
+    "correctAnswer": 0,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "The frontier between tribal and varna societies was permeable, characterized by symbiotic economic exchange and political Rajputization."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Social Science",
+    "chapter": "Chapter 7: Tribes, Nomads and Settled Communities",
+    "question": "Spot the IMPOSTER in the following group of Tribal Communities and their historical regional homelands:\nGroup:\n1. Gonds - Gondwana (Madhya Pradesh / Chhattisgarh)\n2. Ahoms - Brahmaputra Valley (Assam)\n3. Gaddis - Western Himalayas (Himachal Pradesh)\n4. Khokhars - Deep Ocean coral reefs of the Pacific",
+    "options": [
+      "Tribe 1",
+      "Tribe 2",
+      "Tribe 3",
+      "Tribe 4 (The Khokhars were a powerful martial tribe of the PUNJAB region, not ocean reefs)"
+    ],
+    "correctAnswer": 3,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "The Khokhars inhabited the Punjab plains between the Indus and Chenab rivers."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Social Science",
+    "chapter": "Chapter 7: Tribes, Nomads and Settled Communities",
+    "question": "Analyze the state formation process in the Ahom kingdom:\nHow did the Ahoms construct a centralized state out of a tribal lineage system?",
+    "options": [
+      "They suppressed the older feudal lords (Bhuiyans), annexed neighboring kingdoms (Chhutiyas, Koch-Hajo), built extensive hydraulic dykes, and instituted the Paik rotational labor system backed by gunpowder ballistics",
+      "They moved the entire population to Tibet",
+      "They abolished agriculture and became pure hunter-gatherers",
+      "They signed a treaty with Roman emperors"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "Ahom state formation: breaking Bhuiyan feudalism, territorial integration, Paik corvée organization, and early adoption of firearms."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Social Science",
+    "chapter": "Chapter 7: Tribes, Nomads and Settled Communities",
+    "question": "Match Column I (Tribal & Administrative Terminology) with Column II (Exact Historical Meanings):\n(a) Chaurasi  -> (i) Unit of 84 villages in the Gond Garh administrative hierarchy\n(b) Barhot    -> (ii) Sub-unit of 12 villages under a Chaurasi\n(c) Buranji   -> (iii) Official historical chronicles written in Ahom and Assamese\n(d) Paik      -> (iv) Obligatory rotational corvée laborer in the Ahom state system",
+    "options": [
+      "a-(i), b-(ii), c-(iii), d-(iv)",
+      "a-(ii), b-(i), c-(iv), d-(iii)",
+      "a-(iv), b-(iii), c-(ii), d-(i)",
+      "a-(iii), b-(iv), c-(i), d-(ii)"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "Chaurasi = 84 villages; Barhot = 12 villages; Buranji = chronicle; Paik = corvée laborer."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Social Science",
+    "chapter": "Chapter 7: Tribes, Nomads and Settled Communities",
+    "question": "Read the statements regarding the transition from Varna to Jati:\nStatement 1: Jatis (sub-castes) became the primary basis for organizing social hierarchy rather than the broad four Varnas.\nStatement 2: Many tribal lineages (such as Rathores, Chandels, and Gonds) were assimilated into the ruling Kshatriya varna as Rajputs.\nStatement 3: Tribal communities were forbidden by royal law from practicing agriculture.\nWhich statements are TRUE?",
+    "options": [
+      "Statements 1 and 2 only",
+      "Statements 2 and 3 only",
+      "Statements 1 and 3 only",
+      "All Statements 1, 2, and 3"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "Statement 3 is false (many tribal groups transitioned to settled wet-rice and dryland agriculture). Statements 1 and 2 are true."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Social Science",
+    "chapter": "Chapter 7: Tribes, Nomads and Settled Communities",
+    "question": "Why was the heroic defense and martyrdom of Rani Durgavati of Garha Katanga (1565) celebrated in central Indian folklore?",
+    "options": [
+      "She chose death in battle over surrender to Mughal subjugation, fighting with immense military valor alongside her wounded son to defend the sovereignty of her Gond kingdom",
+      "Because she built the Taj Mahal",
+      "Because she gave up her kingdom to live in a forest",
+      "Because she defeated the British in 1565"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "Rani Durgavati's resistance against Mughal imperial expansion embodies the indomitable martial pride of indigenous central Indian rulers."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Social Science",
+    "chapter": "Chapter 7: Tribes, Nomads and Settled Communities",
+    "question": "How did the Paik labor system in Ahom Assam differ from traditional feudal slavery?",
+    "options": [
+      "Paiks were free village peasants who contributed rotational state service (military, dyke construction) in exchange for community-allocated agricultural land that could not be taken away by the King without clan approval",
+      "Paiks were bought and sold in markets as slaves",
+      "Paiks were foreign prisoners of war",
+      "Paiks were only employed as palace cooks"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "The Paik system was a reciprocal corvée obligation anchored in inalienable clan land tenure rather than chattel slavery."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Social Science",
+    "chapter": "Chapter 7: Tribes, Nomads and Settled Communities",
+    "question": "What socio-religious transformation occurred as tribal states became large, centralized monarchies?",
+    "options": [
+      "Indigenous animistic and ancestral tribal deities were synthesized with Puranic Hindu pantheons, leading to composite temple patronage under royal sponsorship",
+      "All tribal languages were completely banned",
+      "Tribal people were forced to move out of India",
+      "Monarchy was abolished"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "State centralization fostered syncretic integration: tribal deities (e.g. Kamakhya, Jagannath) were incorporated into Brahmanical temple worship."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Social Science",
+    "chapter": "Chapter 7: Tribes, Nomads and Settled Communities",
+    "question": "Consider four regional tribal communities of medieval India:\n1. Ahoms (Assam)\n2. Gonds (Central India)\n3. Bhils (Western Ghats & Rajasthan)\n4. Cheros (Jharkhand/Bihar)\nWhat common historical trajectory did they share during the 15th–17th centuries?",
+    "options": [
+      "They developed powerful centralized kingdoms or formidable martial resistance networks that negotiated with or contested Mughal imperial expansion",
+      "They had no chiefs or leaders",
+      "They all converted to European religions in 1500",
+      "They lived only on oceanic islands"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "These tribal groups transitioned into structured polities capable of projecting regional power and contesting imperial hegemony."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Social Science",
+    "chapter": "Chapter 7: Tribes, Nomads and Settled Communities",
+    "question": "Why did the Ahom kingdom successfully resist Mughal conquest for over a century, despite repeated Mughal campaigns?",
+    "options": [
+      "The Ahoms mastered guerrilla warfare in dense riverine terrain, constructed formidable mud and brick fortifications, utilized rapid war-boat naval fleets on the Brahmaputra, and deployed effective firearms",
+      "Because the Mughals never entered Assam",
+      "Because Assam had no rivers",
+      "Because the British defended Assam"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "Ahom military resilience: naval riverine mastery (Battle of Saraighat 1671 under Lachit Borphukan), guerrilla tactics, and dense terrain."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Social Science",
+    "chapter": "Chapter 7: Tribes, Nomads and Settled Communities",
+    "question": "What was the significance of 'Buranjis' for modern historiography of Northeast India?",
+    "options": [
+      "They provide a continuous, meticulously detailed chronological record of diplomacy, wars, treaties, administrative censuses, and royal successions over 600 years",
+      "They are fictional mythological poems only",
+      "They were written in modern English",
+      "They contain no historical dates"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "Buranjis constitute an unprecedented tradition of secular, chronological historiography in medieval Northeast India."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Social Science",
+    "chapter": "Chapter 7: Tribes, Nomads and Settled Communities",
+    "question": "What master historical synthesis is illuminated in Chapter 7 of NCERT Class 7 History?",
+    "options": [
+      "Indian medieval history was shaped as much by dynamic tribal kingdoms, nomadic pastoralists, and frontier societies as by settled empires, revealing a vibrant pluralistic subcontinent defined by continuous cultural synthesis and political adaptation",
+      "That only kings living in Delhi mattered in Indian history",
+      "That tribal societies had no culture or history",
+      "That India was completely uniform without any regional diversity"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "Chapter 7 restores historical balance by highlighting the agency, statecraft, and cultural contributions of indigenous tribal and pastoral societies."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Hindi Grammar",
+    "chapter": "Chapter 7: लिंग और वचन",
+    "question": "संज्ञा के जिस रूप से किसी व्यक्ति, प्राणी या वस्तु के पुरुष जाति अथवा स्त्री जाति होने का बोध होता है, उसे व्याकरण में क्या कहते हैं?",
+    "options": [
+      "लिंग (Gender)",
+      "वचन (Number)",
+      "कारक (Case)",
+      "काल (Tense)"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "लिंग: संज्ञा के जिस रूप से पुरुष या स्त्री जाति का बोध हो, उसे लिंग कहते हैं।"
+  },
+  {
+    "classLevel": 7,
+    "subject": "Hindi Grammar",
+    "chapter": "Chapter 7: लिंग और वचन",
+    "question": "हिंदी भाषा में लिंग के मुख्य रूप से कितने भेद होते हैं?",
+    "options": [
+      "दो भेद (1. पुल्लिंग, 2. स्त्रीलिंग)",
+      "तीन भेद (क्लीवलिंग सहित)",
+      "चार भेद",
+      "पाँच भेद"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "संस्कृत में 3 लिंग होते हैं, परन्तु हिंदी व्याकरण में केवल 2 लिंग होते हैं: पुल्लिंग और स्त्रीलिंग।"
+  },
+  {
+    "classLevel": 7,
+    "subject": "Hindi Grammar",
+    "chapter": "Chapter 7: लिंग और वचन",
+    "question": "शब्द के जिस रूप से किसी वस्तु, प्राणी या पदार्थ के 'एक' अथवा 'एक से अधिक' होने का बोध होता है, उसे क्या कहते हैं?",
+    "options": [
+      "वचन (Number)",
+      "लिंग",
+      "पुरुष",
+      "समास"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "वचन: संज्ञा, सर्वनाम, विशेषण या क्रिया के जिस रूप से संख्या (एकत्व या अनेकत्व) का बोध हो, उसे वचन कहते हैं।"
+  },
+  {
+    "classLevel": 7,
+    "subject": "Hindi Grammar",
+    "chapter": "Chapter 7: लिंग और वचन",
+    "question": "हिंदी में वचन के कितने भेद होते हैं?",
+    "options": [
+      "दो भेद (1. एकवचन, 2. बहुवचन)",
+      "तीन भेद (द्विवचन सहित)",
+      "चार भेद",
+      "पाँच भेद"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "हिंदी में केवल 2 वचन होते हैं: एकवचन (Singular) और बहुवचन (Plural)।"
+  },
+  {
+    "classLevel": 7,
+    "subject": "Hindi Grammar",
+    "chapter": "Chapter 7: लिंग और वचन",
+    "question": "दिनों के नाम (सोमवार, मंगलवार), महीनों के नाम (जनवरी, मार्च, चैत्र) तथा पर्वतों के नाम (हिमालय, विंध्याचल) सामान्यतः किस लिंग में होते हैं?",
+    "options": [
+      "नित्य पुल्लिंग में",
+      "नित्य स्त्रीलिंग में",
+      "उभयलिंग में",
+      "नपुंसकलिंग में"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "दिनों, महीनों, पर्वतों, देशों, ग्रहों (पृथ्वी को छोड़कर) और समुद्रों के नाम सदैव पुल्लिंग होते हैं।"
+  },
+  {
+    "classLevel": 7,
+    "subject": "Hindi Grammar",
+    "chapter": "Chapter 7: लिंग और वचन",
+    "question": "भाषाओं के नाम (हिंदी, अंग्रेजी, संस्कृत), लिपियों के नाम (देवनागरी, रोमन) तथा नदियों के नाम (गंगा, यमुना) सामान्यतः किस लिंग में होते हैं?",
+    "options": [
+      "नित्य स्त्रीलिंग में",
+      "नित्य पुल्लिंग में",
+      "उभयलिंग में",
+      "अव्यय में"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "भाषाओं, बोलियों, लिपियों, नदियों (सिंधु/ब्रह्मपुत्र नद को छोड़कर) और तिथियों के नाम स्त्रीलिंग होते हैं।"
+  },
+  {
+    "classLevel": 7,
+    "subject": "Hindi Grammar",
+    "chapter": "Chapter 7: लिंग और वचन",
+    "question": "'कवि' शब्द का शुद्ध स्त्रीलिंग रूप क्या होगा?",
+    "options": [
+      "कवयित्री",
+      "कवियत्री",
+      "कविनी",
+      "कविता"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "कवि का शुद्ध वर्तनी-सम्मत स्त्रीलिंग रूप 'कवयित्री' होता है।"
+  },
+  {
+    "classLevel": 7,
+    "subject": "Hindi Grammar",
+    "chapter": "Chapter 7: लिंग और वचन",
+    "question": "'विद्वान' शब्द का सही स्त्रीलिंग रूप क्या होगा?",
+    "options": [
+      "विदुषी",
+      "विद्वानी",
+      "विद्वता",
+      "ज्ञानवती"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "'विद्वान' का मानक स्त्रीलिंग 'विदुषी' होता है।"
+  },
+  {
+    "classLevel": 7,
+    "subject": "Hindi Grammar",
+    "chapter": "Chapter 7: लिंग और वचन",
+    "question": "'श्रीमती' किस पुल्लिंग शब्द का स्त्रीलिंग रूप है?",
+    "options": [
+      "श्रीमान",
+      "श्री",
+      "श्रीयुत",
+      "श्रीधर"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "श्रीमान् (पुल्लिंग) का स्त्रीलिंग 'श्रीमती' होता है (मान्→मती)।"
+  },
+  {
+    "classLevel": 7,
+    "subject": "Hindi Grammar",
+    "chapter": "Chapter 7: लिंग और वचन",
+    "question": "'प्राण, दर्शन, हस्ताक्षर, आँसू, होश, बाल' शब्द हिंदी में सदैव किस वचन में प्रयुक्त होते हैं?",
+    "options": [
+      "सदा बहुवचन में (Always Plural)",
+      "सदा एकवचन में",
+      "उभयवचन में",
+      "स्त्रीलिंग में"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "प्राण, दर्शन, आँसू, हस्ताक्षर, होश, बाल, लोग - ये शब्द हिंदी में नित्य बहुवचन होते हैं (जैसे: मेरे प्राण निकल गए)।"
+  },
+  {
+    "classLevel": 7,
+    "subject": "Hindi Grammar",
+    "chapter": "Chapter 7: लिंग और वचन",
+    "question": "'पानी, दूध, तेल, घी, सोना, वर्षा, जनता, सत्य' शब्द हिंदी में सदैव किस वचन में प्रयुक्त होते हैं?",
+    "options": [
+      "सदा एकवचन में (Always Singular)",
+      "सदा बहुवचन में",
+      "द्विवचन में",
+      "उभयलिंग में"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "द्रव्यवाचक संज्ञाएँ, धातुएँ, प्राकृतिक अवस्थाएँ (वर्षा) और 'जनता, सत्य' सदैव एकवचन में प्रयुक्त होते हैं।"
+  },
+  {
+    "classLevel": 7,
+    "subject": "Hindi Grammar",
+    "chapter": "Chapter 7: लिंग और वचन",
+    "question": "'लड़का' शब्द का सही बहुवचन रूप क्या होगा?",
+    "options": [
+      "लड़के",
+      "लड़कों",
+      "लड़काएँ",
+      "लड़कियाँ"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "आकारांत पुल्लिंग शब्द का बहुवचन 'आ' को 'ए' में बदलकर 'लड़के' बनता है।"
+  },
+  {
+    "classLevel": 7,
+    "subject": "Hindi Grammar",
+    "chapter": "Chapter 7: लिंग और वचन",
+    "question": "'नेता' शब्द का शुद्ध स्त्रीलिंग रूप क्या होगा?",
+    "options": [
+      "नेत्री",
+      "नेतिन",
+      "नेताइन",
+      "नेतिक"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "संस्कृत 'ता' अंत वाले पुल्लिंग शब्दों का स्त्रीलिंग 'त्री' होता है: नेता→नेत्री, अभिनेता→अभिनेत्री, दाता→दात्री।"
+  },
+  {
+    "classLevel": 7,
+    "subject": "Hindi Grammar",
+    "chapter": "Chapter 7: लिंग और वचन",
+    "question": "'सम्राट' शब्द का सही स्त्रीलिंग रूप क्या होगा?",
+    "options": [
+      "साम्राज्ञी",
+      "सम्राटी",
+      "सम्राटिन",
+      "रानी"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "'सम्राट' का मानक स्त्रीलिंग 'साम्राज्ञी' होता है।"
+  },
+  {
+    "classLevel": 7,
+    "subject": "Hindi Grammar",
+    "chapter": "Chapter 7: लिंग और वचन",
+    "question": "इकारांत और ईकारांत स्त्रीलिंग शब्दों (जैसे: नदी, लड़की, साड़ी) का बहुवचन बनाते समय क्या नियम लागू होता है?",
+    "options": [
+      "अंतिम दीर्घ 'ई' को ह्रस्व 'इ' में बदलकर अंत में 'याँ' जोड़ दिया जाता है (जैसे: नदी -> नदियाँ, लड़की -> लड़कियाँ, साड़ी -> साड़ियाँ)",
+      "केवल बिंदी लगा दी जाती है",
+      "शब्द को वैसे ही छोड़ दिया जाता है",
+      "शब्द के अंत में 'ए' जोड़ा जाता है"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "ईकारांत स्त्रीलिंग का बहुवचन: ई→इ + याँ (नदी→नदियाँ, दवाई→दवाइयाँ, नीति→नीतियाँ)।"
+  },
+  {
+    "classLevel": 7,
+    "subject": "Hindi Grammar",
+    "chapter": "Chapter 7: लिंग और वचन",
+    "question": "आदर और सम्मान प्रकट करने के लिए एकवचन संज्ञा (जैसे: गुरुजी, पिताजी, महात्मा गांधी) के साथ किस वचन की क्रिया का प्रयोग किया जाता है?",
+    "options": [
+      "बहुवचन की क्रिया का प्रयोग (आदरार्थक बहुवचन - जैसे: 'गांधीजी सत्य बोलते थे', 'गुरुजी आ रहे हैं')",
+      "एकवचन की क्रिया का ही प्रयोग होता है",
+      "भविष्यत काल की क्रिया का प्रयोग",
+      "क्रिया का लोप हो जाता है"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "हिंदी में पूज्य एवं आदरणीय व्यक्तियों के लिए एकवचन कर्ता होते हुए भी क्रिया 'आदरार्थक बहुवचन' में प्रयुक्त होती है।"
+  },
+  {
+    "classLevel": 7,
+    "subject": "Hindi Grammar",
+    "chapter": "Chapter 7: लिंग और वचन",
+    "question": "'चिड़िया' और 'डिबिया' जैसे 'या' अंत वाले स्त्रीलिंग शब्दों का बहुवचन कैसे बनाया जाता है?",
+    "options": [
+      "अंतिम 'या' के ऊपर अनुनासिक (चन्द्रबिन्दु - 'याँ') लगाकर (जैसे: चिड़िया -> चिड़ियाँ, डिबिया -> डिबियाँ, गुड़िया -> गुड़ियाँ)",
+      "'या' को हटाकर 'ए' लगाकर",
+      "शब्द में कोई परिवर्तन नहीं होता",
+      "'या' के आगे 'गण' जोड़कर"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "'या' अंत वाले स्त्रीलिंग शब्दों के ऊपर चन्द्रबिन्दु लगाकर बहुवचन बनता है: चिड़िया→चिड़ियाँ, डिबिया→डिबियाँ।"
+  },
+  {
+    "classLevel": 7,
+    "subject": "Hindi Grammar",
+    "chapter": "Chapter 7: लिंग और वचन",
+    "question": "'अध्यापक' शब्द का आदरसूचक बहुवचन बनाने के लिए कौन-सा समूहवाचक प्रत्यय जोड़ा जाता है?",
+    "options": [
+      "अध्यापकगण (गण / वृंद / जन / वर्ग)",
+      "अध्यापिकाएँ",
+      "अध्यापकों",
+      "अध्यापकी"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "गण्य व्यक्तियों के बहुवचन हेतु 'गण, वृंद, जन, वर्ग' जुड़ता है: अध्यापकगण, मुनिवृंद, भक्तजन, अधिकारीवर्ग।"
+  },
+  {
+    "classLevel": 7,
+    "subject": "Hindi Grammar",
+    "chapter": "Chapter 7: लिंग और वचन",
+    "question": "'साधु' शब्द का स्त्रीलिंग रूप क्या होगा?",
+    "options": [
+      "साध्वी",
+      "साधुनी",
+      "साधुइन",
+      "साधिका"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "'साधु' का मानक स्त्रीलिंग रूप 'साध्वी' होता है।"
+  },
+  {
+    "classLevel": 7,
+    "subject": "Hindi Grammar",
+    "chapter": "Chapter 7: लिंग और वचन",
+    "question": "'वर' शब्द का सही स्त्रीलिंग रूप क्या है?",
+    "options": [
+      "वधू",
+      "कन्या",
+      "दुल्हन",
+      "स्त्री"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "संस्कृत तत्सम युग्म: वर (वर) का स्त्रीलिंग 'वधू' होता है।"
+  },
+  {
+    "classLevel": 7,
+    "subject": "Hindi Grammar",
+    "chapter": "Chapter 7: लिंग और वचन",
+    "question": "'वधू' शब्द का शुद्ध बहुवचन रूप क्या होगा?",
+    "options": [
+      "वधुएँ (दीर्घ 'ऊ' ह्रस्व 'उ' में बदलकर 'एँ' जुड़ता है)",
+      "वधुओं",
+      "वधुएं",
+      "वधु"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "ऊकारांत स्त्रीलिंग का बहुवचन: ऊ→उ + एँ (वधू→वधुएँ, बहू→बहुएँ)।"
+  },
+  {
+    "classLevel": 7,
+    "subject": "Hindi Grammar",
+    "chapter": "Chapter 7: लिंग और वचन",
+    "question": "निम्नलिखित में से कौन-सा शब्द 'नित्य स्त्रीलिंग' है, जिसका पुल्लिंग बनाने के लिए 'नर' शब्द जोड़ना पड़ता है?",
+    "options": [
+      "मक्खी (नर मक्खी), तितली (नर तितली), मछली (नर मछली), चील (नर चील)",
+      "शेर",
+      "बैल",
+      "घोड़ा"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "मक्खी, कोयल, तितली, मछली, चील नित्य स्त्रीलिंग हैं; इनका पुल्लिंग 'नर मक्खी, नर कोयल' होता है।"
+  },
+  {
+    "classLevel": 7,
+    "subject": "Hindi Grammar",
+    "chapter": "Chapter 7: लिंग और वचन",
+    "question": "निम्नलिखित में से कौन-सा शब्द 'नित्य पुल्लिंग' है, जिसका स्त्रीलिंग बनाने के लिए 'मादा' शब्द जोड़ना पड़ता है?",
+    "options": [
+      "तोता (मादा तोता), भालू (मादा भालू), चीता (मादा चीता), खटमल (मादा खटमल)",
+      "गाय",
+      "बकरी",
+      "दासी"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "तोता, भालू, चीता, उल्लू, खटमल, मच्छर नित्य पुल्लिंग हैं; इनका स्त्रीलिंग 'मादा तोता, मादा भालू' होता है।"
+  },
+  {
+    "classLevel": 7,
+    "subject": "Hindi Grammar",
+    "chapter": "Chapter 7: लिंग और वचन",
+    "question": "'दवा' शब्द का शुद्ध बहुवचन रूप क्या होगा?",
+    "options": [
+      "दवाएँ",
+      "दवाइयाँ (दवाई का बहुवचन)",
+      "दवाओं",
+      "दवाई"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "आकारांत स्त्रीलिंग 'दवा' का बहुवचन 'दवाएँ' होता है ('दवाई' का बहुवचन 'दवाइयाँ' होता है)।"
+  },
+  {
+    "classLevel": 7,
+    "subject": "Hindi Grammar",
+    "chapter": "Chapter 7: लिंग और वचन",
+    "question": "निम्नलिखित में से कौन-सा शब्द 'उभयलिंगी' (Common Gender - पुरुष और स्त्री दोनों के लिए समान रूप से प्रयुक्त) पदनाम है?",
+    "options": [
+      "डॉक्टर, राष्ट्रपति, प्रधानमंत्री, इंजीनियर, मंत्री, मैनेजर",
+      "अभिनेता",
+      "गायक",
+      "धोबी"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "उच्च पदनाम एवं व्यवसाय (राष्ट्रपति, प्रधानमंत्री, डॉक्टर, प्रोफेसर) उभयलिंगी होते हैं, जिनका लिंग क्रिया से स्पष्ट होता है।"
+  },
+  {
+    "classLevel": 7,
+    "subject": "Hindi Grammar",
+    "chapter": "Chapter 7: लिंग और वचन",
+    "question": "'पुस्तक' शब्द का सही बहुवचन रूप क्या होगा?",
+    "options": [
+      "पुस्तकें",
+      "पुस्तकों",
+      "पुस्तकिया",
+      "पुस्तकाएं"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "अकारांत स्त्रीलिंग शब्द का बहुवचन 'अ' के स्थान पर 'एं' (अनुस्वार युक्त) लगाकर 'पुस्तकें' बनता है।"
+  },
+  {
+    "classLevel": 7,
+    "subject": "Hindi Grammar",
+    "chapter": "Chapter 7: लिंग और वचन",
+    "question": "'माला' शब्द का सही बहुवचन रूप क्या होगा?",
+    "options": [
+      "मालाएँ",
+      "मालाएं",
+      "मालाओं",
+      "माली"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "आकारांत स्त्रीलिंग के अंत में 'एँ' जोड़कर बहुवचन बनता है: माला→मालाएँ, लता→लताएँ।"
+  },
+  {
+    "classLevel": 7,
+    "subject": "Hindi Grammar",
+    "chapter": "Chapter 7: लिंग और वचन",
+    "question": "'दही' शब्द व्याकरण की दृष्टि से किस लिंग के अंतर्गत आता है?",
+    "options": [
+      "पुल्लिंग (जैसे: 'दही बहुत खट्टा है', 'दही जम गया')",
+      "स्त्रीलिंग",
+      "उभयलिंग",
+      "नपुंसकलिंग"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "दही, घी, मोती, पानी, पानी, तेल - ये इकारांत अपवाद शब्द हिंदी में नित्य पुल्लिंग होते हैं।"
+  },
+  {
+    "classLevel": 7,
+    "subject": "Hindi Grammar",
+    "chapter": "Chapter 7: लिंग और वचन",
+    "question": "कथन और कारण को ध्यानपूर्वक पढ़ें:\nकथन (A): 'राम के आँख से आँसू बह रहा है।' यह वाक्य व्याकरणिक दृष्टि से अशुद्ध है ; इसका शुद्ध रूप 'राम की आँख से आँसू बह रहे हैं' होगा।\nकारण (R): हिंदी में 'आँसू' शब्द सदैव नित्य बहुवचन में प्रयुक्त होता है, अतः इसके साथ प्रयुक्त क्रिया भी सदैव बहुवचन ('बह रहे हैं') होनी चाहिए।\nसही विकल्प चुनें:",
+    "options": [
+      "(A) और (R) दोनों सही हैं तथा (R), (A) की सही व्याख्या करता है।",
+      "(A) और (R) दोनों सही हैं, परन्तु (R), (A) की सही व्याख्या नहीं करता।",
+      "(A) सही है, परन्तु (R) गलत है।",
+      "(A) गलत है, परन्तु (R) सही है।"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "'आँसू' नित्य बहुवचन शब्द है, अतः इसके साथ बहुवचन क्रिया 'बह रहे हैं' ही शुद्ध है।"
+  },
+  {
+    "classLevel": 7,
+    "subject": "Hindi Grammar",
+    "chapter": "Chapter 7: लिंग और वचन",
+    "question": "Spot the IMPOSTER in the following group of पुल्लिंग-स्त्रीलिंग युग्मों में:\nGroup:\n1. विद्वान - विदुषी\n2. सम्राट - साम्राज्ञी\n3. साधु - साध्वी\n4. धावक - धावकी",
+    "options": [
+      "युग्म 1",
+      "युग्म 2",
+      "युग्म 3",
+      "युग्म 4 ('धावक' का शुद्ध स्त्रीलिंग 'धाविका' होता है, धावकी नहीं)"
+    ],
+    "correctAnswer": 3,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "अक-अंत वाले शब्दों का स्त्रीलिंग 'इका' प्रत्यय से बनता है: धावक→धाविका, गायक→गायिका, पाठक→पाठिका।"
+  },
+  {
+    "classLevel": 7,
+    "subject": "Hindi Grammar",
+    "chapter": "Chapter 7: लिंग और वचन",
+    "question": "सुमेलित कीजिए (शब्द और उनका नित्य वचन व्यवहार):\n(क) हस्ताक्षर -> (i) नित्य बहुवचन\n(ख) जनता     -> (ii) नित्य एकवचन\n(ग) दर्शन     -> (iii) नित्य बहुवचन\n(घ) दूध       -> (iv) नित्य एकवचन",
+    "options": [
+      "क-(i), ख-(ii), ग-(iii), घ-(iv)",
+      "क-(ii), ख-(i), ग-(iv), घ-(iii)",
+      "क-(iv), ख-(iii), ग-(ii), घ-(i)",
+      "क-(iii), ख-(iv), ग-(i), घ-(ii)"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "हस्ताक्षर/दर्शन = नित्य बहुवचन; जनता/दूध = नित्य एकवचन।"
+  },
+  {
+    "classLevel": 7,
+    "subject": "Hindi Grammar",
+    "chapter": "Chapter 7: लिंग और वचन",
+    "question": "कारक-विभक्ति सहित (सप्रत्यय) होने पर किसी भी संज्ञा शब्द का बहुवचन बनाने के लिए कौन-सा प्रत्यय अनिवार्य रूप से प्रयुक्त होता है?",
+    "options": [
+      "'ओं' अथवा 'यों' प्रत्यय (तिर्यक बहुवचन - जैसे: लड़कों ने, नदियों में, घरों पर, माताओं को)",
+      "'एँ' प्रत्यय",
+      "'गण' प्रत्यय",
+      "'याँ' प्रत्यय"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "तिर्यक रूप (Oblique Plural): कारक विभक्ति चिह्नों के साथ सभी संज्ञाओं का बहुवचन 'ओं/यों' से बनता है।"
+  },
+  {
+    "classLevel": 7,
+    "subject": "Hindi Grammar",
+    "chapter": "Chapter 7: लिंग और वचन",
+    "question": "'हाथी' शब्द का शुद्ध स्त्रीलिंग रूप क्या होगा?",
+    "options": [
+      "हथिनी (दीर्घ 'ई' का ह्रस्व 'इ' में परिवर्तन होकर 'इनी' प्रत्यय)",
+      "हाथिन",
+      "हाथिनी",
+      "हथनी"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "हाथी + इनी = हथिनी (मानक वर्तनी)।"
+  },
+  {
+    "classLevel": 7,
+    "subject": "Hindi Grammar",
+    "chapter": "Chapter 7: लिंग और वचन",
+    "question": "'महान' विशेषण का शुद्ध स्त्रीलिंग रूप क्या होगा?",
+    "options": [
+      "महती (जैसे: 'महती कृपा')",
+      "महानी",
+      "महानता",
+      "महिषी"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "संस्कृत तत्सम 'महान्' (पुल्लिंग) का स्त्रीलिंग रूप 'महती' होता है।"
+  },
+  {
+    "classLevel": 7,
+    "subject": "Hindi Grammar",
+    "chapter": "Chapter 7: लिंग और वचन",
+    "question": "निम्नलिखित वाक्यों में से 'व्याकरणिक दृष्टि से पूर्णतः शुद्ध वाक्य' का चयन कीजिए:",
+    "options": [
+      "'कल रात मेरे पिताजी दिल्ली से लौट आए हैं।' (आदरार्थक बहुवचन क्रिया का शुद्ध प्रयोग)",
+      "'कल रात मेरा पिताजी दिल्ली से लौट आया।'",
+      "'वहाँ बहुत सारे जनता उपस्थित थे।'",
+      "'उसका प्राण निकल गया।'"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "पिताजी के सम्मान में आदरार्थक बहुवचन 'आए हैं' शुद्ध है; जनता एकवचन है और प्राण बहुवचन है।"
+  },
+  {
+    "classLevel": 7,
+    "subject": "Hindi Grammar",
+    "chapter": "Chapter 7: लिंग और वचन",
+    "question": "निम्नलिखित में से किस विकल्प के सभी शब्द 'पुल्लिंग' हैं?",
+    "options": [
+      "दूध, दही, मोती, पानी, घी, हीरा, पन्ना, हिमालय",
+      "गंगा, यमुना, देवनागरी, रोटी, दाल",
+      "पुस्तक, कलम, मेज, कुर्सी",
+      "मक्खी, कोयल, तितली, चील"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "दूध, दही, मोती, पानी, घी, रत्न (हीरा, पन्ना) और पर्वत (हिमालय) सभी शुद्ध पुल्लिंग शब्द हैं।"
+  },
+  {
+    "classLevel": 7,
+    "subject": "Hindi Grammar",
+    "chapter": "Chapter 7: लिंग और वचन",
+    "question": "'भविष्यद्वक्ता' शब्द का सही स्त्रीलिंग रूप क्या होगा?",
+    "options": [
+      "भविष्यद्वक्त्री",
+      "भविष्यद्वक्ताइन",
+      "भविष्यद्वक्तानी",
+      "भविष्यद्वक्तिन"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "वक्ता→वक्त्री के नियमानुसार 'भविष्यद्वक्ता' का स्त्रीलिंग 'भविष्यद्वक्त्री' होता है।"
+  },
+  {
+    "classLevel": 7,
+    "subject": "Hindi Grammar",
+    "chapter": "Chapter 7: लिंग और वचन",
+    "question": "'ताश के पत्तों में राजा और रानी होते हैं।' वाक्य में 'राजा' का स्त्रीलिंग 'रानी' है। 'नर' का स्त्रीलिंग 'नारी' है। 'युवक' का स्त्रीलिंग क्या होगा?",
+    "options": [
+      "युवती",
+      "युवकी",
+      "युवतिन",
+      "तरुणी"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "'युवक' का मानक तत्सम स्त्रीलिंग 'युवती' होता है।"
+  },
+  {
+    "classLevel": 7,
+    "subject": "Hindi Grammar",
+    "chapter": "Chapter 7: लिंग और वचन",
+    "question": "'ऋषि' शब्द का सही स्त्रीलिंग रूप क्या होगा?",
+    "options": [
+      "ऋषिका",
+      "ऋषिणी",
+      "ऋषिन",
+      "ऋषी"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "'ऋषि' का वैदिक एवं मानक स्त्रीलिंग 'ऋषिका' होता है।"
+  },
+  {
+    "classLevel": 7,
+    "subject": "Hindi Grammar",
+    "chapter": "Chapter 7: लिंग और वचन",
+    "question": "लिंग और वचन (Gender & Number Agreement) के सम्यक ज्ञान का हिंदी वाक्य-रचना और क्रिया-अन्विति में क्या सर्वोच्च महत्व है?",
+    "options": [
+      "हिंदी में क्रिया, विशेषण और सर्वनाम के रूप कर्ता और कर्म के लिंग एवं वचन के अनुसार परिवर्तित (विकृत) होते हैं ; इनके अशुद्ध ज्ञान से समूची वाक्य-संरचना अशुद्ध और हास्यास्पद हो जाती है",
+      "लिंग और वचन केवल प्राथमिक कक्षाओं का विषय है",
+      "हिंदी में लिंग और वचन का क्रिया पर कोई प्रभाव नहीं पड़ता",
+      "इसका केवल वर्तनी में थोड़ा प्रयोग होता है"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "हिंदी एक अत्यधिक अन्विति-प्रवण (Agreement-rich) भाषा है, जहाँ क्रिया और विशेषण का रूप लिंग-वचन के आधार पर ही निर्धारित होता है।"
+  }
+]

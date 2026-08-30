@@ -1,0 +1,575 @@
+import fs from 'fs';
+
+// -------------------------------------------------------------
+// SUBJECT 5: Social Science - Chapter 9: The Making of Regional Cultures (40 Questions)
+// -------------------------------------------------------------
+const socialQuestions = [
+  // EASY (12)
+  {
+    classLevel: 7,
+    subject: "Social Science",
+    chapter: "Chapter 9: The Making of Regional Cultures",
+    question: "Which 9th-century kingdom established in southwestern India (modern Kerala) introduced the MALAYALAM language and script in its official royal inscriptions?",
+    options: ["The Chera Kingdom of Mahodayapuram", "The Chola Kingdom", "The Pandya Kingdom", "The Rashtrakuta Kingdom"],
+    correctAnswer: 0,
+    difficulty: "EASY",
+    damage: 150,
+    explanation: "The Chera kingdom of Mahodayapuram (est. 9th century) was one of the earliest examples of an Indian regional kingdom using a vernacular language (Malayalam) in official administrative records."
+  },
+  {
+    classLevel: 7,
+    subject: "Social Science",
+    chapter: "Chapter 9: The Making of Regional Cultures",
+    question: "What is the 14th-century Sanskrit-Malayalam literary style called 'Manipravalam' (literally meaning 'Diamonds and Corals')?",
+    options: [
+      "A rich blend of two languages: Sanskrit and the regional Malayalam language in literary compositions",
+      "A technique for cutting jewelry",
+      "A style of temple architecture",
+      "A type of silk saree"
+    ],
+    correctAnswer: 0,
+    difficulty: "EASY",
+    damage: 150,
+    explanation: "Manipravalam (literally 'diamonds and corals') combined Sanskrit and regional Malayalam, celebrated in the 14th-century text Lilathilakam."
+  },
+  {
+    classLevel: 7,
+    subject: "Social Science",
+    chapter: "Chapter 9: The Making of Regional Cultures",
+    question: "Which famous temple cult in Puri (Odisha) became the supreme centre of regional and religious identity, where the wooden deity was originally made by local tribal people and later identified with Lord Vishnu?",
+    options: ["The Jagannath Cult at Puri", "The Meenakshi Cult", "The Lingaraja Cult", "The Kamakhya Cult"],
+    correctAnswer: 0,
+    difficulty: "EASY",
+    damage: 150,
+    explanation: "Lord Jagannath (Lord of the World) at Puri evolved from an indigenous tribal wooden deity into a pan-Indian manifestation of Vishnu/Krishna."
+  },
+  {
+    classLevel: 7,
+    subject: "Social Science",
+    chapter: "Chapter 9: The Making of Regional Cultures",
+    question: "Which 12th-century king of the Eastern Ganga dynasty decided to erect a magnificent temple for Purushottama Jagannath at Puri?",
+    options: ["King Anantavarman", "King Anangabhima III", "King Kharavela", "King Rajaraja I"],
+    correctAnswer: 0,
+    difficulty: "EASY",
+    damage: 150,
+    explanation: "King Anantavarman of the Eastern Ganga dynasty initiated the construction of the monumental Puri Jagannath Temple in the 12th century."
+  },
+  {
+    classLevel: 7,
+    subject: "Social Science",
+    chapter: "Chapter 9: The Making of Regional Cultures",
+    question: "Which king in 1230 CE dedicated his entire kingdom to Lord Jagannath and proclaimed himself as the 'Deputy' (Rauta) of the god?",
+    options: ["King Anangabhima III", "King Prataparudra", "King Narasimhadeva I", "King Kapilendra Deva"],
+    correctAnswer: 0,
+    difficulty: "EASY",
+    damage: 150,
+    explanation: "King Anangabhima III dedicated his realm to Lord Jagannath, governing the Odishan state as the earthly servant/deputy of the deity."
+  },
+  {
+    classLevel: 7,
+    subject: "Social Science",
+    chapter: "Chapter 9: The Making of Regional Cultures",
+    question: "Which classical dance form of North India originated from a caste of temple storytellers ('Kathakars') who illustrated mythological stories with gestures and songs?",
+    options: ["Kathak", "Bharatanatyam", "Kathakali", "Odissi"],
+    correctAnswer: 0,
+    difficulty: "EASY",
+    damage: 150,
+    explanation: "Kathak evolved from North Indian temple bardic storytellers (katha-kars) performing dramatic gestures to narrate sacred epics."
+  },
+  {
+    classLevel: 7,
+    subject: "Social Science",
+    chapter: "Chapter 9: The Making of Regional Cultures",
+    question: "Under which Nawab of Awadh (1847–1856) did the Lucknow Gharana of KATHAK dance reach its golden age of artistic refinement?",
+    options: ["Nawab Wajid Ali Shah", "Nawab Asaf-ud-Daula", "Nawab Saadat Ali Khan", "Nawab Shuja-ud-Daula"],
+    correctAnswer: 0,
+    difficulty: "EASY",
+    damage: 150,
+    explanation: "Nawab Wajid Ali Shah was a passionate patron and maestro of Kathak, Thumri, and dramatic dance-dramas (Rahas) in Lucknow."
+  },
+  {
+    classLevel: 7,
+    subject: "Social Science",
+    chapter: "Chapter 9: The Making of Regional Cultures",
+    question: "What are the two major traditional court 'Gharanas' (schools/traditions) of KATHAK dance?",
+    options: ["The Jaipur Gharana and the Lucknow Gharana (along with Banaras)", "The Delhi and Agra Gharana", "The Gwalior and Patiala Gharana", "The Tanjore and Mysore Gharana"],
+    correctAnswer: 0,
+    difficulty: "EASY",
+    damage: 150,
+    explanation: "Kathak branched into the rhythmic, energetic Jaipur Gharana and the lyrical, expressive Lucknow and Banaras Gharanas."
+  },
+  {
+    classLevel: 7,
+    subject: "Social Science",
+    chapter: "Chapter 9: The Making of Regional Cultures",
+    question: "What are small-sized paintings executed in watercolours on cloth or handmade paper, known for intricate fine detailing, called?",
+    options: ["Miniature Paintings (Miniatures)", "Fresco Murals", "Oil Canvas", "Cave Paintings"],
+    correctAnswer: 0,
+    difficulty: "EASY",
+    damage: 150,
+    explanation: "Miniatures are delicate, small-scale paintings rendered with natural mineral/vegetable pigments and fine squirrel-hair brushes."
+  },
+  {
+    classLevel: 7,
+    subject: "Social Science",
+    chapter: "Chapter 9: The Making of Regional Cultures",
+    question: "Which bold, intense regional style of miniature painting developed in the Himalayan foothills (Basohli in modern Jammu and Kashmir), famous for illustrating Bhanudatta's 'Rasamanjari'?",
+    options: ["Basohli Style of Painting", "Kangra School", "Mewar School", "Kishangarh School"],
+    correctAnswer: 0,
+    difficulty: "EASY",
+    damage: 150,
+    explanation: "Basohli painting is renowned for bold, vibrant primary colors, passionate facial profiles, and expressive depictions of the Rasamanjari."
+  },
+  {
+    classLevel: 7,
+    subject: "Social Science",
+    chapter: "Chapter 9: The Making of Regional Cultures",
+    question: "Which lyrical Pahari miniature painting school developed in the Kangra valley of Himachal Pradesh by the mid-18th century, inspired by Vaishnavite traditions with soft colors and poetic treatment of Radha-Krishna?",
+    options: ["The Kangra School of Painting", "The Mughal School", "The Tanjore School", "The Madhubani School"],
+    correctAnswer: 0,
+    difficulty: "EASY",
+    damage: 150,
+    explanation: "The Kangra school under Raja Sansar Chand is celebrated for lyrical delicacy, rhythmic lines, and cool soft greens and blues portraying Krishna-bhakti."
+  },
+  {
+    classLevel: 7,
+    subject: "Social Science",
+    chapter: "Chapter 9: The Making of Regional Cultures",
+    question: "From which ancient primary language did the BENGALI language evolve over centuries, absorbing words from Persian, Austro-Asiatic, and European languages?",
+    options: ["Sanskrit (via Magadhi Prakrit)", "Tamil", "Arabic", "Greek"],
+    correctAnswer: 0,
+    difficulty: "EASY",
+    damage: 150,
+    explanation: "Bengali derived from Sanskrit through Magadhi Prakrit, later enriching its lexicon with Persian, Arabic, Austric, and Portuguese loanwords."
+  },
+
+  // MEDIUM (16)
+  {
+    classLevel: 7,
+    subject: "Social Science",
+    chapter: "Chapter 9: The Making of Regional Cultures",
+    question: "What is the 14th-century grammatical and poetic treatise 'Lilathilakam' famous for?",
+    options: [
+      "It is the earliest extant text composed in Manipravalam, dealing with the grammar and poetics of the joint Malayalam-Sanskrit literary tradition",
+      "It is a cookbook for royal feasts",
+      "It is a manual of sword fighting",
+      "It is a maritime trade law book"
+    ],
+    correctAnswer: 0,
+    difficulty: "MEDIUM",
+    damage: 250,
+    explanation: "The Lilathilakam is a 14th-century linguistic masterpiece codifying the syntax, meter, and aesthetics of Manipravalam."
+  },
+  {
+    classLevel: 7,
+    subject: "Social Science",
+    chapter: "Chapter 9: The Making of Regional Cultures",
+    question: "Why did successive conquerors of Odisha (Mughals, Marathas, English East India Company) all attempt to establish control over the Jagannath Temple at Puri?",
+    options: [
+      "They realized that the Puri temple held supreme socio-cultural and political legitimacy among the local Odia people; controlling the temple made their rule acceptable to the local population",
+      "Because the temple contained only gold cannons",
+      "Because they wanted to destroy the temple completely",
+      "Because the temple was a military fort"
+    ],
+    correctAnswer: 0,
+    difficulty: "MEDIUM",
+    damage: 250,
+    explanation: "Puri Jagannath Temple was the sanctum of regional sovereignty; political legitimacy in Odisha was inextricably linked to temple patronage."
+  },
+  {
+    classLevel: 7,
+    subject: "Social Science",
+    chapter: "Chapter 9: The Making of Regional Cultures",
+    question: "How did Rajput heroic ideals, preserved in bardic poems and songs in Rajasthan, shape regional identity?",
+    options: [
+      "They celebrated heroic martial valor, undying loyalty to clan and friendship, fearlessness in battle, choosing death over dishonor, and the tragic practice of Sati / Jauhar",
+      "They taught merchants how to trade silk",
+      "They banned all weapons in Rajasthan",
+      "They encouraged soldiers to flee from battles"
+    ],
+    correctAnswer: 0,
+    difficulty: "MEDIUM",
+    damage: 250,
+    explanation: "Charans and Bhats preserved epic bardic songs immortalizing Rajput chivalric codes, battlefield valor, and heroic self-sacrifice."
+  },
+  {
+    classLevel: 7,
+    subject: "Social Science",
+    chapter: "Chapter 9: The Making of Regional Cultures",
+    question: "How did the transition of Kathak from temple performance into Mughal court entertainment transform the dance form?",
+    options: [
+      "It acquired its distinctive rapid, intricate footwork (Tatkar), dizzying pirouettes (Chakkars), elegant court costumes, and dramatic enactments of Radha-Krishna love stories (Rahas)",
+      "It became a silent meditation without music",
+      "It was banned by all emperors",
+      "It was performed only underwater"
+    ],
+    correctAnswer: 0,
+    difficulty: "MEDIUM",
+    damage: 250,
+    explanation: "Mughal and Awadh royal courts refined Kathak: fusing devotional bhakti narratives with complex rhythmic footwork and virtuosic spins."
+  },
+  {
+    classLevel: 7,
+    subject: "Social Science",
+    chapter: "Chapter 9: The Making of Regional Cultures",
+    question: "What are the traditional thatched-roof architectural styles that inspired the famous medieval Brick and Terracotta Temples of Bengal?",
+    options: [
+      "The 'Dochala' (two-roofed curved bamboo hut structure) and the 'Chauchala' (four-roofed structure with four triangular roofs meeting at a curved point)",
+      "The Gopuram and Mandapa style",
+      "The Pagoda style",
+      "The Greek column style"
+    ],
+    correctAnswer: 0,
+    difficulty: "MEDIUM",
+    damage: 250,
+    explanation: "Bengal temple architecture mimicked vernacular curved bamboo thatch roofs: Dochala (double-curved) and Chauchala (four-roofed pyramid)."
+  },
+  {
+    classLevel: 7,
+    subject: "Social Science",
+    chapter: "Chapter 9: The Making of Regional Cultures",
+    question: "Which historic town in Bankura district of West Bengal is world-famous for its magnificent 17th- and 18th-century Terracotta Temples built by Malla kings (like Shyam Rai and Jore Bangla)?",
+    options: ["Bishnupur (Malla Kingdom)", "Darjeeling", "Murshidabad", "Chittagong"],
+    correctAnswer: 0,
+    difficulty: "MEDIUM",
+    damage: 250,
+    explanation: "Bishnupur under the Malla dynasty flourished as a terracotta architectural capital, featuring intricately carved clay tile temples."
+  },
+  {
+    classLevel: 7,
+    subject: "Social Science",
+    chapter: "Chapter 9: The Making of Regional Cultures",
+    question: "What are the two distinct major categories of early Bengali literature?",
+    options: [
+      "1. Sanskrit-derived literature (translations of Epics, Mangalkavyas, Chaitanya biographies) ; and 2. Independent vernacular Nath literature (songs of Maynamati and Gopichand, fairy tales of Thakurmar Jhuli, Pir tales)",
+      "Persian war novels and Greek dramas",
+      "Modern newspaper articles",
+      "English legal documents"
+    ],
+    correctAnswer: 0,
+    difficulty: "MEDIUM",
+    damage: 250,
+    explanation: "Early Bengali literature comprised elite Sanskritized written works (Mangalkavyas, Vaishnava padavali) and popular oral Nath folklore."
+  },
+  {
+    classLevel: 7,
+    subject: "Social Science",
+    chapter: "Chapter 9: The Making of Regional Cultures",
+    question: "Who were the 'Pirs' in medieval Bengal, revered across religious boundaries by both Hindus and Muslims?",
+    options: [
+      "Community leaders, spiritual guides, Sufi saints, and pioneer forest settlers who cleared dense delta mangroves, brought order, and were believed to possess supernatural powers",
+      "Tax collectors who arrested villagers",
+      "Foreign silk merchants",
+      "Military captains of war fleets"
+    ],
+    correctAnswer: 0,
+    difficulty: "MEDIUM",
+    damage: 250,
+    explanation: "Pirs were charismatic frontier leaders, spiritual masters, and land colonizers in the Bengal delta, worshipped at shrines by all faiths."
+  },
+  {
+    classLevel: 7,
+    subject: "Social Science",
+    chapter: "Chapter 9: The Making of Regional Cultures",
+    question: "Which Mughal Emperor was a passionate patron of miniature painting who maintained grand royal imperial ateliers (Karkhanas) where master painters illustrated the Akbarnama?",
+    options: ["Emperor Akbar (and Jahangir)", "Emperor Aurangzeb", "Emperor Babur", "Emperor Bahadur Shah I"],
+    correctAnswer: 0,
+    difficulty: "MEDIUM",
+    damage: 250,
+    explanation: "Akbar and Jahangir patronized master miniature painters (Basawan, Daswant, Mansur, Abul Hasan), creating the celebrated Mughal imperial atelier."
+  },
+  {
+    classLevel: 7,
+    subject: "Social Science",
+    chapter: "Chapter 9: The Making of Regional Cultures",
+    question: "Why did master painters migrate away from Delhi to regional Rajput and Himalayan hill states (Pahari courts) in the early 18th century?",
+    options: [
+      "The political decline and instability of the Mughal capital under Nadir Shah's invasion (1739) and Aurangzeb's disinterest in court arts prompted painters to seek patronage in flourishing regional courts",
+      "Because Delhi ran out of paint",
+      "Because painters were banned from living in plains",
+      "Because the climate in Delhi became too hot"
+    ],
+    correctAnswer: 0,
+    difficulty: "MEDIUM",
+    damage: 250,
+    explanation: "Mughal political fragmentation and Nadir Shah's sack of Delhi triggered an artistic diaspora to Kangra, Basohli, Guler, and Rajasthan."
+  },
+  {
+    classLevel: 7,
+    subject: "Social Science",
+    chapter: "Chapter 9: The Making of Regional Cultures",
+    question: "What are the 'Mangalkavyas' in medieval Bengali literature?",
+    options: [
+      "Eulogistic narrative poems praising local regional deities (such as Chandi, Manasa, and Dharma Thakur), ensuring prosperity and auspiciousness for devotees",
+      "Books on mathematical calculations",
+      "War treaties signed with kings",
+      "Medical prescriptions for diseases"
+    ],
+    correctAnswer: 0,
+    difficulty: "MEDIUM",
+    damage: 250,
+    explanation: "Mangalkavyas are auspicious verse epics recounting how local indigenous goddesses established their worship across rural Bengal."
+  },
+  {
+    classLevel: 7,
+    subject: "Social Science",
+    chapter: "Chapter 9: The Making of Regional Cultures",
+    question: "Why did traditional fish eating become widely accepted in Bengali Hindu culture, even among high-caste Brahmans?",
+    options: [
+      "In the riverine, flood-prone Bengal delta with thousands of rivers and ponds, rice and fish were the indispensable staples of life, leading the 13th-century Sanskrit text 'Brihaddharma Purana' to explicitly permit local Brahmans to eat certain varieties of fish",
+      "Because the Mughal emperor ordered everyone to eat fish",
+      "Because vegetables did not exist in Bengal",
+      "Because fish was used as money"
+    ],
+    correctAnswer: 0,
+    difficulty: "MEDIUM",
+    damage: 250,
+    explanation: "The Brihaddharma Purana adapted scriptural law to deltaic ecology, canonizing fish consumption among Bengali Brahmans."
+  },
+  {
+    classLevel: 7,
+    subject: "Social Science",
+    chapter: "Chapter 9: The Making of Regional Cultures",
+    question: "What are the Eight Recognized Classical Dance Traditions of India recognized by the Sangeet Natak Akademi?",
+    options: [
+      "Bharatanatyam (TN), Kathakali (Kerala), Kathak (North India), Odissi (Odisha), Kuchipudi (AP), Mohiniyattam (Kerala), Manipuri (Manipur), and Sattriya (Assam)",
+      "Bhangra, Garba, Giddha, Lavani, Bihu, Rouf, Dandiya, Chhau",
+      "Salsa, Ballet, Tango, Tap, Hip-hop, Waltz, Breakdance, Flamenco",
+      "Classical singing only without dance"
+    ],
+    correctAnswer: 0,
+    difficulty: "MEDIUM",
+    damage: 250,
+    explanation: "The 8 classical dance traditions codified by Sangeet Natak Akademi trace lineage to Bharata Muni's ancient Natyashastra."
+  },
+  {
+    classLevel: 7,
+    subject: "Social Science",
+    chapter: "Chapter 9: The Making of Regional Cultures",
+    question: "Which legendary miniature painting masterwork created in Kishangarh (Rajasthan) by artist Nihal Chand is celebrated as the 'Mona Lisa of India'?",
+    options: ["Bani Thani", "Rasamanjari", "Gita Govinda", "Padmavat"],
+    correctAnswer: 0,
+    difficulty: "MEDIUM",
+    damage: 250,
+    explanation: "The Kishangarh miniature portrait of 'Bani Thani' (courtesan-poet of Raja Sawant Singh) by Nihal Chand is famed for stylized serpentine grace."
+  },
+  {
+    classLevel: 7,
+    subject: "Social Science",
+    chapter: "Chapter 9: The Making of Regional Cultures",
+    question: "What distinct literary genre was the 'Maynamati-Gopichand' cycle of songs in eastern India?",
+    options: [
+      "Popular oral folk songs about Queen Maynamati and her son Prince Gopichand embracing the esoteric ascetic path of the Nathpanthi Yogis to attain immortality",
+      "A story of a sea voyage to Africa",
+      "A commercial trade ledger",
+      "A military manual of archery"
+    ],
+    correctAnswer: 0,
+    difficulty: "MEDIUM",
+    damage: 250,
+    explanation: "The Maynamati-Gopichand songs celebrate Queen Maynamati guiding her son into Gorakhnathi yogic initiation to conquer mortality."
+  },
+  {
+    classLevel: 7,
+    subject: "Social Science",
+    chapter: "Chapter 9: The Making of Regional Cultures",
+    question: "What was the 'Gita Govinda' composed by Jayadeva in 12th-century Bengal and Odisha, which inspired countless miniature paintings across India?",
+    options: [
+      "An exquisite Sanskrit lyrical poem celebrating the passionate, mystical love of Lord Krishna and Radha in the springtime groves of Vrindavan",
+      "A treatise on horse riding",
+      "A book on fort construction",
+      "A collection of tax laws"
+    ],
+    correctAnswer: 0,
+    difficulty: "MEDIUM",
+    damage: 250,
+    explanation: "Jayadeva's Gita Govinda revolutionized devotional aesthetics, providing the thematic source for Pahari and Rajasthani miniatures."
+  },
+
+  // HARD (12)
+  {
+    classLevel: 7,
+    subject: "Social Science",
+    chapter: "Chapter 9: The Making of Regional Cultures",
+    question: "Read the statements:\nAssertion (A): Regional cultures in medieval India developed through a dynamic interplay between distinct local traditions and overarching pan-Indian classical traditions.\nReason (R): Regional languages, dance forms, painting schools, and religious cults absorbed Sanskritic and Persian elements while simultaneously retaining their unique local ecological idioms, folk memories, and aesthetic flavors.\nChoose the correct option:",
+    options: [
+      "Both (A) and (R) are true, and (R) is the correct explanation of (A).",
+      "Both (A) and (R) are true, but (R) is NOT the correct explanation of (A).",
+      "(A) is true, but (R) is false.",
+      "(A) is false, but (R) is true."
+    ],
+    correctAnswer: 0,
+    difficulty: "HARD",
+    damage: 350,
+    explanation: "The chapter articulates the core thesis: regional cultures are not isolated hermetic silos, but porous syntheses of local folk and pan-Indian classical traditions."
+  },
+  {
+    classLevel: 7,
+    subject: "Social Science",
+    chapter: "Chapter 9: The Making of Regional Cultures",
+    question: "Spot the IMPOSTER in the following group of Indian Classical Dance Traditions and their corresponding States of Origin:\nGroup:\n1. Kathakali & Mohiniyattam - Kerala\n2. Bharatanatyam - Tamil Nadu\n3. Sattriya - Assam\n4. Kathak - Deep desert valleys of Antarctica",
+    options: ["Tradition 1", "Tradition 2", "Tradition 3", "Tradition 4 (Kathak is the premier classical dance form of NORTH INDIA [Uttar Pradesh, Rajasthan, Delhi], not Antarctica)"],
+    correctAnswer: 3,
+    difficulty: "HARD",
+    damage: 350,
+    explanation: "Tradition 4 is an absurd impossibility: Kathak originated in North India's temples and flourished in Awadh and Jaipur."
+  },
+  {
+    classLevel: 7,
+    subject: "Social Science",
+    chapter: "Chapter 9: The Making of Regional Cultures",
+    question: "Analyze the unique syncretic evolution of the 'Jagannath Cult' at Puri:\nHow does it represent the integration of tribal and Brahmanical traditions?",
+    options: [
+      "The massive wooden icons of Jagannath, Balabhadra, and Subhadra are carved from sacred neem logs by traditional tribal Daitapati priests, reflecting an indigenous non-anthropomorphic tribal deity seamlessly synthesized into the Vaishnavite Puranic pantheon",
+      "The icons are made of European marble imported by ship",
+      "The worship excludes all local tribal communities completely",
+      "The temple was originally a Mughal palace"
+    ],
+    correctAnswer: 0,
+    difficulty: "HARD",
+    damage: 350,
+    explanation: "The Jagannath tradition is the premier example of tribal-Brahmanical syncretism: Daitapati sevayats trace descent to the tribal Sabara king Viswavasu."
+  },
+  {
+    classLevel: 7,
+    subject: "Social Science",
+    chapter: "Chapter 9: The Making of Regional Cultures",
+    question: "Match Column I (Regional Cultural Forms / Texts) with Column II (Geographic & Linguistic Spheres):\n(a) Manipravalam & Lilathilakam -> (i) Kerala (Chera / Sanskrit-Malayalam synthesis)\n(b) Dochala & Chauchala Temples  -> (ii) Bengal (Vernacular terracotta brick architecture)\n(c) Basohli & Kangra Painting    -> (iii) Pahari Region (Himachal Pradesh / Jammu foothills)\n(d) Jaipur & Lucknow Gharanas    -> (iv) North India (Classical Kathak dance development)",
+    options: [
+      "a-(i), b-(ii), c-(iii), d-(iv)",
+      "a-(ii), b-(i), c-(iv), d-(iii)",
+      "a-(iv), b-(iii), c-(ii), d-(i)",
+      "a-(iii), b-(iv), c-(i), d-(ii)"
+    ],
+    correctAnswer: 0,
+    difficulty: "HARD",
+    damage: 350,
+    explanation: "Manipravalam = Kerala; Dochala = Bengal; Kangra = Pahari; Gharanas = Kathak."
+  },
+  {
+    classLevel: 7,
+    subject: "Social Science",
+    chapter: "Chapter 9: The Making of Regional Cultures",
+    question: "Read the statements regarding the development of the Bengali language:\nStatement 1: Bengali developed distinct regional dialects and a rich vernacular literature independent of court Persian.\nStatement 2: Early European travelers in Bengal communicated in a pidgin Portuguese-Bengali trade jargon.\nStatement 3: Bengali was created in 1990 by a computer program.\nWhich statements are TRUE?",
+    options: ["Statements 1 and 2 only", "Statements 2 and 3 only", "Statements 1 and 3 only", "All Statements 1, 2, and 3"],
+    correctAnswer: 0,
+    difficulty: "HARD",
+    damage: 350,
+    explanation: "Statement 3 is an absurd falsehood. Statements 1 and 2 represent established historical linguistics."
+  },
+  {
+    classLevel: 7,
+    subject: "Social Science",
+    chapter: "Chapter 9: The Making of Regional Cultures",
+    question: "How did the British colonial perception of the 'Rajput' identity in the 19th century flatten and romanticize the complex history of Rajasthan?",
+    options: [
+      "The British called the entire region 'Rajputana' and propagated the myth that all inhabitants were uniform martial Rajputs, overlooking the immense diversity of merchants, peasants, artisans, and tribal Bhils who shaped Rajasthan's composite culture",
+      "They declared that no Rajputs existed in Rajasthan",
+      "They claimed Rajasthan was an island in the ocean",
+      "They renamed all cities in Rajasthan after British generals"
+    ],
+    correctAnswer: 0,
+    difficulty: "HARD",
+    damage: 350,
+    explanation: "Colonial historiography essentialized Rajasthan as 'Rajputana', eclipsing the vital agency of diverse non-Rajput subaltern and tribal communities."
+  },
+  {
+    classLevel: 7,
+    subject: "Social Science",
+    chapter: "Chapter 9: The Making of Regional Cultures",
+    question: "What technical mastery distinguished the 'Kangra Miniature Painting' school from earlier Mughal court painting?",
+    options: [
+      "Kangra masters utilized pure, cool mineral pigments (soft greens, ethereal blues), delicate lyrical contours, and an intimate spiritual atmosphere suffused with Vaishnava poetic emotion rather than imperial Mughal court pomp and battles",
+      "Kangra paintings were made on metal sheets using oil paints",
+      "They painted only geometric black-and-white grids",
+      "They never painted human figures"
+    ],
+    correctAnswer: 0,
+    difficulty: "HARD",
+    damage: 350,
+    explanation: "Kangra aesthetic triumph: transforming imperial technical draftsmanship into a lyrical, emotionally luminous visual poetry of Krishna-Radha bhakti."
+  },
+  {
+    classLevel: 7,
+    subject: "Social Science",
+    chapter: "Chapter 9: The Making of Regional Cultures",
+    question: "Why was the 'Sattriya' dance of Assam, developed by Sankaradeva in the 15th century, recognized as a Classical Dance form of India?",
+    options: [
+      "It preserves a 500-year-old unbroken spiritual performance tradition codified with intricate mudras, tala rhythms, Borgeet melodies, and dramatic narrative integrity within Assamese Vaishnavite Satras",
+      "Because it is a modern European dance",
+      "Because it is performed without any music",
+      "Because it was invented for film movies"
+    ],
+    correctAnswer: 0,
+    difficulty: "HARD",
+    damage: 350,
+    explanation: "Sattriya dance is an exquisite, rigorously codified monastic dance-drama tradition nurtured for five centuries in Assam's Satras."
+  },
+  {
+    classLevel: 7,
+    subject: "Social Science",
+    chapter: "Chapter 9: The Making of Regional Cultures",
+    question: "Consider four regional cultural innovations of medieval India:\n1. Manipravalam literary style (Kerala)\n2. Terracotta Dochala temple architecture (Bengal)\n3. Pahari miniature schools (Himachal)\n4. Gharana system of Kathak (Awadh/Jaipur)\nWhat fundamental socio-historical process do they collectively illustrate?",
+    options: [
+      "The decentralized flowering of distinct, sophisticated regional cultures that enriched the mosaic of Indian civilization through localized vernacular genius",
+      "The complete destruction of Indian culture",
+      "A series of failed attempts to copy foreign traditions",
+      "An identical culture with no regional differences"
+    ],
+    correctAnswer: 0,
+    difficulty: "HARD",
+    damage: 350,
+    explanation: "These innovations showcase the vibrant regionalization of culture: localized artistic, architectural, and linguistic expressions reaching classical maturity."
+  },
+  {
+    classLevel: 7,
+    subject: "Social Science",
+    chapter: "Chapter 9: The Making of Regional Cultures",
+    question: "How did the terracotta plaques on medieval Bengal temples (such as at Vishnupur) provide a visual mirror of everyday social life?",
+    options: [
+      "Besides portraying Ramayana and Krishna scenes, they vividly depicted everyday social scenes: Europeans traveling in ships, merchants smoking hookahs, domestic chores, hunting expeditions, and local festivals",
+      "They contained only abstract math numbers",
+      "They depicted only kings sleeping",
+      "They were left completely blank without carvings"
+    ],
+    correctAnswer: 0,
+    difficulty: "HARD",
+    damage: 350,
+    explanation: "Bengal terracotta friezes are invaluable visual chronicles: blending sacred mythological epics with candid snapshots of 17th/18th-century deltaic social life."
+  },
+  {
+    classLevel: 7,
+    subject: "Social Science",
+    chapter: "Chapter 9: The Making of Regional Cultures",
+    question: "What is the historical significance of the 'Rasamanjari' painted in the Basohli style by artist Devidasa in 1694?",
+    options: [
+      "It represents the zenith of early Pahari painting, characterized by intense glowing colors, beetle-wing fragments for jewelry embellishment, and emotionally charged stylized figures",
+      "It was a military battle map",
+      "It was a legal code for judges",
+      "It was a textbook of Sanskrit mathematics"
+    ],
+    correctAnswer: 0,
+    difficulty: "HARD",
+    damage: 350,
+    explanation: "Devidasa's 1694 Basohli Rasamanjari is a landmark of Pahari art, renowned for opulent chromatic vigor and iridescent beetle-wing casing inlays."
+  },
+  {
+    classLevel: 7,
+    subject: "Social Science",
+    chapter: "Chapter 9: The Making of Regional Cultures",
+    question: "What comprehensive historiographical insight emerges from Chapter 9 of NCERT Class 7 History?",
+    options: [
+      "Indian regional cultures are dynamic historical creations—forged through centuries of cross-pollination between local languages, folk rituals, classical arts, and overarching political patronages—constituting the glorious pluralistic tapestry of Indian nationhood",
+      "That India was always a monolithic culture with no diversity",
+      "That regional cultures disappeared after the medieval period",
+      "That art was unimportant in medieval India"
+    ],
+    correctAnswer: 0,
+    difficulty: "HARD",
+    damage: 350,
+    explanation: "Chapter 9 synthesizes the organic evolution of India's composite regional identities: linguistic pride, artistic excellence, and syncretic cultural heritage."
+  }
+];
+
+console.log('Generated Class 7 Social Science Ch9:', socialQuestions.length);
+fs.writeFileSync('C:/EduVerse/class 7/cross_subject/social_ch9.json', JSON.stringify(socialQuestions, null, 2), 'utf8');

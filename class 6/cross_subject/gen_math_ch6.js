@@ -1,0 +1,480 @@
+import fs from 'fs';
+
+// -------------------------------------------------------------
+// SUBJECT 2: Mathematics - Chapter 6: Integers (40 Questions)
+// -------------------------------------------------------------
+const mathQuestions = [
+  // EASY (12)
+  {
+    classLevel: 6,
+    subject: "Mathematics",
+    chapter: "Chapter 6: Integers",
+    question: "The complete collection of numbers consisting of all positive numbers, zero, and all negative numbers (... -3, -2, -1, 0, 1, 2, 3 ...) is called:",
+    options: ["Integers (denoted as Z)", "Whole Numbers", "Natural Numbers", "Fractions"],
+    correctAnswer: 0,
+    difficulty: "EASY",
+    damage: 150,
+    explanation: "Integers comprise the set of whole numbers along with their negative additive inverses."
+  },
+  {
+    classLevel: 6,
+    subject: "Mathematics",
+    chapter: "Chapter 6: Integers",
+    question: "Which unique integer is NEITHER positive NOR negative?",
+    options: ["0 (Zero)", "1", "-1", "10"],
+    correctAnswer: 0,
+    difficulty: "EASY",
+    damage: 150,
+    explanation: "Zero is the neutral boundary origin on the number line; it is neither positive nor negative."
+  },
+  {
+    classLevel: 6,
+    subject: "Mathematics",
+    chapter: "Chapter 6: Integers",
+    question: "On a horizontal number line, where do positive integers lie relative to zero (0)?",
+    options: ["To the right of zero (0)", "To the left of zero (0)", "Directly at zero", "Below zero"],
+    correctAnswer: 0,
+    difficulty: "EASY",
+    damage: 150,
+    explanation: "Conventionally on a standard number line, positive values extend rightwards, while negative values extend leftwards."
+  },
+  {
+    classLevel: 6,
+    subject: "Mathematics",
+    chapter: "Chapter 6: Integers",
+    question: "On a horizontal number line, where do negative integers lie relative to zero (0)?",
+    options: ["To the left of zero (0)", "To the right of zero (0)", "Above zero", "Directly at zero"],
+    correctAnswer: 0,
+    difficulty: "EASY",
+    damage: 150,
+    explanation: "Negative integers with negative sign (-) are plotted to the left of the central origin 0."
+  },
+  {
+    classLevel: 6,
+    subject: "Mathematics",
+    chapter: "Chapter 6: Integers",
+    question: "What is the opposite of 'A gain of ₹500'?",
+    options: ["A loss of ₹500 (-₹500)", "A gain of ₹1000", "Zero money", "A profit of ₹500"],
+    correctAnswer: 0,
+    difficulty: "EASY",
+    damage: 150,
+    explanation: "The directional financial opposite of a positive gain (+500) is a negative loss (-500)."
+  },
+  {
+    classLevel: 6,
+    subject: "Mathematics",
+    chapter: "Chapter 6: Integers",
+    question: "How is a temperature of '10°C below freezing point (0°C)' represented using an integer with a proper sign?",
+    options: ["-10°C", "+10°C", "0°C", "100°C"],
+    correctAnswer: 0,
+    difficulty: "EASY",
+    damage: 150,
+    explanation: "Sub-zero temperatures below freezing are denoted by negative integers: -10°C."
+  },
+  {
+    classLevel: 6,
+    subject: "Mathematics",
+    chapter: "Chapter 6: Integers",
+    question: "What is the greatest negative integer?",
+    options: ["-1", "0", "-100", "There is no greatest negative integer"],
+    correctAnswer: 0,
+    difficulty: "EASY",
+    damage: 150,
+    explanation: "-1 is situated farthest to the right among all negative integers on the number line, making it the greatest negative integer."
+  },
+  {
+    classLevel: 6,
+    subject: "Mathematics",
+    chapter: "Chapter 6: Integers",
+    question: "What is the smallest positive integer?",
+    options: ["1", "0", "2", "-1"],
+    correctAnswer: 0,
+    difficulty: "EASY",
+    damage: 150,
+    explanation: "Positive integers begin at +1, making 1 the smallest positive integer."
+  },
+  {
+    classLevel: 6,
+    subject: "Mathematics",
+    chapter: "Chapter 6: Integers",
+    question: "What is the Additive Inverse of the integer +7?",
+    options: ["-7", "+7", "0", "1/7"],
+    correctAnswer: 0,
+    difficulty: "EASY",
+    damage: 150,
+    explanation: "The additive inverse of a is -a, such that a + (-a) = 0. Additive inverse of +7 is -7."
+  },
+  {
+    classLevel: 6,
+    subject: "Mathematics",
+    chapter: "Chapter 6: Integers",
+    question: "What is the Additive Inverse of the integer -15?",
+    options: ["+15", "-15", "0", "-1"],
+    correctAnswer: 0,
+    difficulty: "EASY",
+    damage: 150,
+    explanation: "The additive inverse of -15 is -(-15) = +15."
+  },
+  {
+    classLevel: 6,
+    subject: "Mathematics",
+    chapter: "Chapter 6: Integers",
+    question: "Which integer is greater: -8 or -2?",
+    options: ["-2 (since -2 lies to the right of -8 on the number line)", "-8", "Both are equal", "Cannot be determined"],
+    correctAnswer: 0,
+    difficulty: "EASY",
+    damage: 150,
+    explanation: "On the number line, numbers further to the right are greater. -2 > -8."
+  },
+  {
+    classLevel: 6,
+    subject: "Mathematics",
+    chapter: "Chapter 6: Integers",
+    question: "Calculate the value of: (-5) + (-3)",
+    options: ["-8", "+8", "-2", "+2"],
+    correctAnswer: 0,
+    difficulty: "EASY",
+    damage: 150,
+    explanation: "Adding two negative integers: add their absolute values (5 + 3 = 8) and retain the negative sign: -8."
+  },
+
+  // MEDIUM (16)
+  {
+    classLevel: 6,
+    subject: "Mathematics",
+    chapter: "Chapter 6: Integers",
+    question: "Calculate the value of: (+12) + (-7)",
+    options: ["+5", "-5", "+19", "-19"],
+    correctAnswer: 0,
+    difficulty: "MEDIUM",
+    damage: 250,
+    explanation: "Subtract the smaller absolute value from the larger (12 - 7 = 5) and assign the sign of the larger absolute value (+): +5."
+  },
+  {
+    classLevel: 6,
+    subject: "Mathematics",
+    chapter: "Chapter 6: Integers",
+    question: "Calculate the value of: (-15) + (+9)",
+    options: ["-6", "+6", "-24", "+24"],
+    correctAnswer: 0,
+    difficulty: "MEDIUM",
+    damage: 250,
+    explanation: "15 - 9 = 6. Since 15 has the negative sign, result is -6."
+  },
+  {
+    classLevel: 6,
+    subject: "Mathematics",
+    chapter: "Chapter 6: Integers",
+    question: "Calculate the value of: (-8) - (-14)",
+    options: ["+6", "-6", "-22", "+22"],
+    correctAnswer: 0,
+    difficulty: "MEDIUM",
+    damage: 250,
+    explanation: "Subtracting a negative number is equivalent to addition: (-8) - (-14) = -8 + 14 = +6."
+  },
+  {
+    classLevel: 6,
+    subject: "Mathematics",
+    chapter: "Chapter 6: Integers",
+    question: "Calculate the value of: (+23) - (+35)",
+    options: ["-12", "+12", "-58", "+58"],
+    correctAnswer: 0,
+    difficulty: "MEDIUM",
+    damage: 250,
+    explanation: "23 - 35 = -12."
+  },
+  {
+    classLevel: 6,
+    subject: "Mathematics",
+    chapter: "Chapter 6: Integers",
+    question: "Calculate the value of: (-30) - (+40)",
+    options: ["-70", "+70", "-10", "+10"],
+    correctAnswer: 0,
+    difficulty: "MEDIUM",
+    damage: 250,
+    explanation: "(-30) - (+40) = -30 - 40 = -70."
+  },
+  {
+    classLevel: 6,
+    subject: "Mathematics",
+    chapter: "Chapter 6: Integers",
+    question: "Arrange the following integers in ASCENDING (increasing) order: -6, 4, 0, -2, -9, 7",
+    options: ["-9, -6, -2, 0, 4, 7", "-2, -6, -9, 0, 4, 7", "7, 4, 0, -2, -6, -9", "-9, -2, -6, 0, 4, 7"],
+    correctAnswer: 0,
+    difficulty: "MEDIUM",
+    damage: 250,
+    explanation: "From left to right on number line: -9 < -6 < -2 < 0 < 4 < 7."
+  },
+  {
+    classLevel: 6,
+    subject: "Mathematics",
+    chapter: "Chapter 6: Integers",
+    question: "Arrange the following integers in DESCENDING (decreasing) order: -11, 15, -3, 0, 8, -20",
+    options: ["15, 8, 0, -3, -11, -20", "-20, -11, -3, 0, 8, 15", "15, 8, 0, -20, -11, -3", "0, 8, 15, -3, -11, -20"],
+    correctAnswer: 0,
+    difficulty: "MEDIUM",
+    damage: 250,
+    explanation: "From largest to smallest: 15 > 8 > 0 > -3 > -11 > -20."
+  },
+  {
+    classLevel: 6,
+    subject: "Mathematics",
+    chapter: "Chapter 6: Integers",
+    question: "What is the Predecessor of the integer -10 (the integer immediately to its left)?",
+    options: ["-11 (-10 - 1 = -11)", "-9", "+9", "+11"],
+    correctAnswer: 0,
+    difficulty: "MEDIUM",
+    damage: 250,
+    explanation: "Predecessor of n is n - 1. For -10: -10 - 1 = -11."
+  },
+  {
+    classLevel: 6,
+    subject: "Mathematics",
+    chapter: "Chapter 6: Integers",
+    question: "What is the Successor of the integer -10 (the integer immediately to its right)?",
+    options: ["-9 (-10 + 1 = -9)", "-11", "+9", "+10"],
+    correctAnswer: 0,
+    difficulty: "MEDIUM",
+    damage: 250,
+    explanation: "Successor of n is n + 1. For -10: -10 + 1 = -9."
+  },
+  {
+    classLevel: 6,
+    subject: "Mathematics",
+    chapter: "Chapter 6: Integers",
+    question: "How many integers lie strictly BETWEEN -4 and +3 on the number line?",
+    options: ["6 integers (-3, -2, -1, 0, 1, 2)", "5 integers", "7 integers", "4 integers"],
+    correctAnswer: 0,
+    difficulty: "MEDIUM",
+    damage: 250,
+    explanation: "The integers strictly between -4 and 3 are -3, -2, -1, 0, 1, 2 (Total = 6 integers)."
+  },
+  {
+    classLevel: 6,
+    subject: "Mathematics",
+    chapter: "Chapter 6: Integers",
+    question: "A submarine is cruising at a depth of 600 meters below sea level (-600 m). If it ascends by 250 meters, what is its new position?",
+    options: ["-350 meters (350 meters below sea level)", "-850 meters", "+350 meters", "-250 meters"],
+    correctAnswer: 0,
+    difficulty: "MEDIUM",
+    damage: 250,
+    explanation: "-600 + (+250) = -350 meters."
+  },
+  {
+    classLevel: 6,
+    subject: "Mathematics",
+    chapter: "Chapter 6: Integers",
+    question: "At Srinagar, temperature was -5°C on Monday and then it dropped by 2°C on Tuesday. What was the temperature of Srinagar on Tuesday?",
+    options: ["-7°C (-5°C - 2°C = -7°C)", "-3°C", "+3°C", "+7°C"],
+    correctAnswer: 0,
+    difficulty: "MEDIUM",
+    damage: 250,
+    explanation: "-5°C - 2°C = -7°C."
+  },
+  {
+    classLevel: 6,
+    subject: "Mathematics",
+    chapter: "Chapter 6: Integers",
+    question: "Find the sum of: (-13) + (+32) + (-8) + (-1)",
+    options: ["+10", "-10", "+24", "-24"],
+    correctAnswer: 0,
+    difficulty: "MEDIUM",
+    damage: 250,
+    explanation: "Negative sum = (-13) + (-8) + (-1) = -22. Total sum = +32 + (-22) = +10."
+  },
+  {
+    classLevel: 6,
+    subject: "Mathematics",
+    chapter: "Chapter 6: Integers",
+    question: "Find the value of: (-7) + (-9) + (+4) + (+16)",
+    options: ["+4", "-4", "+14", "-14"],
+    correctAnswer: 0,
+    difficulty: "MEDIUM",
+    damage: 250,
+    explanation: "Negative sum = -16. Positive sum = +20. -16 + 20 = +4."
+  },
+  {
+    classLevel: 6,
+    subject: "Mathematics",
+    chapter: "Chapter 6: Integers",
+    question: "Fill in the blank with > , < or = : (-21) - (-10) _____ (-31) + (-11)",
+    options: ["> (since -11 > -42)", "<", "=", "Cannot be compared"],
+    correctAnswer: 0,
+    difficulty: "MEDIUM",
+    damage: 250,
+    explanation: "LHS = -21 + 10 = -11. RHS = -31 - 11 = -42. Since -11 > -42, LHS > RHS."
+  },
+  {
+    classLevel: 6,
+    subject: "Mathematics",
+    chapter: "Chapter 6: Integers",
+    question: "Fill in the blank: (-13) + _____ = 0",
+    options: ["+13 (Additive Inverse)", "-13", "0", "1"],
+    correctAnswer: 0,
+    difficulty: "MEDIUM",
+    damage: 250,
+    explanation: "An integer added to its additive inverse yields zero: (-13) + (+13) = 0."
+  },
+
+  // HARD (12)
+  {
+    classLevel: 6,
+    subject: "Mathematics",
+    chapter: "Chapter 6: Integers",
+    question: "Read the statements:\nAssertion (A): On a number line, every negative integer is strictly less than zero (0) and less than every positive integer.\nReason (R): As we move from right to left on a number line, the values of numbers continuously decrease.\nChoose the correct option:",
+    options: [
+      "Both (A) and (R) are true, and (R) is the correct explanation of (A).",
+      "Both (A) and (R) are true, but (R) is NOT the correct explanation of (A).",
+      "(A) is true, but (R) is false.",
+      "(A) is false, but (R) is true."
+    ],
+    correctAnswer: 0,
+    difficulty: "HARD",
+    damage: 350,
+    explanation: "The linear ordering on integers defines a strictly decreasing sequence towards the left across negative infinity."
+  },
+  {
+    classLevel: 6,
+    subject: "Mathematics",
+    chapter: "Chapter 6: Integers",
+    question: "Spot the IMPOSTER in the following mathematical comparisons of integers:\nGroup: [-5 < 0, -100 < -10, -1 > -50, -15 > -8]",
+    options: ["-5 < 0", "-100 < -10", "-1 > -50", "-15 > -8"],
+    correctAnswer: 3,
+    difficulty: "HARD",
+    damage: 350,
+    explanation: "'-15 > -8' is FALSE; on the number line, -15 lies to the left of -8, so -15 < -8."
+  },
+  {
+    classLevel: 6,
+    subject: "Mathematics",
+    chapter: "Chapter 6: Integers",
+    question: "Subtract the sum of -1032 and 878 from -34:",
+    options: ["+120 (-34 - (-154) = -34 + 154 = +120)", "-120", "+188", "-188"],
+    correctAnswer: 0,
+    difficulty: "HARD",
+    damage: 350,
+    explanation: "Sum = -1032 + 878 = -154. Required difference = -34 - (-154) = -34 + 154 = +120."
+  },
+  {
+    classLevel: 6,
+    subject: "Mathematics",
+    chapter: "Chapter 6: Integers",
+    question: "Match Column I (Expressions) with Column II (Simplified Integer Values):\n(a) (-50) + (-200) + 300 -> (i) +50\n(b) 37 + (-2) + (-65) + (-8) -> (ii) -38\n(c) (-7) - 8 - (-25)     -> (iii) +10\n(d) 50 - (-40) - (-2)    -> (iv) +92",
+    options: [
+      "a-(i), b-(ii), c-(iii), d-(iv)",
+      "a-(ii), b-(i), c-(iv), d-(iii)",
+      "a-(iv), b-(iii), c-(ii), d-(i)",
+      "a-(iii), b-(iv), c-(i), d-(ii)"
+    ],
+    correctAnswer: 0,
+    difficulty: "HARD",
+    damage: 350,
+    explanation: "a: -250 + 300 = +50; b: 37 - 75 = -38; c: -15 + 25 = +10; d: 50 + 40 + 2 = +92."
+  },
+  {
+    classLevel: 6,
+    subject: "Mathematics",
+    chapter: "Chapter 6: Integers",
+    question: "Read the statements regarding integers:\nStatement 1: The sum of an integer and its opposite (additive inverse) is always zero (0).\nStatement 2: The difference between two negative integers can be a positive integer.\nStatement 3: 0 is greater than every negative integer.\nWhich statements are TRUE?",
+    options: ["All Statements 1, 2, and 3", "Statements 1 and 2 only", "Statements 2 and 3 only", "Statements 1 and 3 only"],
+    correctAnswer: 0,
+    difficulty: "HARD",
+    damage: 350,
+    explanation: "a + (-a) = 0; (-3) - (-5) = +2 (positive); and 0 > -n for all n > 0. All three statements are true."
+  },
+  {
+    classLevel: 6,
+    subject: "Mathematics",
+    chapter: "Chapter 6: Integers",
+    question: "If a = -9 and b = -6, show whether (a - b) is equal to (b - a):",
+    options: [
+      "No, (a - b) = -3 while (b - a) = +3 ; Subtraction of integers is NOT commutative",
+      "Yes, both equal -3",
+      "Yes, both equal +3",
+      "Both equal 0"
+    ],
+    correctAnswer: 0,
+    difficulty: "HARD",
+    damage: 350,
+    explanation: "a - b = (-9) - (-6) = -3; b - a = (-6) - (-9) = +3. Hence a - b ≠ b - a."
+  },
+  {
+    classLevel: 6,
+    subject: "Mathematics",
+    chapter: "Chapter 6: Integers",
+    question: "An elevator descends into a mine shaft at the rate of 6 meters per minute. If the descent starts from 10 meters above ground level (+10 m), how long will it take to reach -350 meters?",
+    options: ["60 minutes (1 hour)", "45 minutes", "50 minutes", "75 minutes"],
+    correctAnswer: 0,
+    difficulty: "HARD",
+    damage: 350,
+    explanation: "Total vertical displacement = (+10) - (-350) = 360 meters. Time = 360 m ÷ 6 m/min = 60 minutes = 1 hour."
+  },
+  {
+    classLevel: 6,
+    subject: "Mathematics",
+    chapter: "Chapter 6: Integers",
+    question: "In a quiz competition, positive marks (+5) are given for correct answers and negative marks (-2) are given for incorrect answers. If Rohit scored -6 marks by getting 4 correct answers, how many incorrect answers did he attempt?",
+    options: ["13 incorrect answers (4 × 5 - 2x = -6 -> 20 - 2x = -6 -> 2x = 26 -> x = 13)", "10", "8", "15"],
+    correctAnswer: 0,
+    difficulty: "HARD",
+    damage: 350,
+    explanation: "20 - 2x = -6 -> 2x = 26 -> x = 13 incorrect answers."
+  },
+  {
+    classLevel: 6,
+    subject: "Mathematics",
+    chapter: "Chapter 6: Integers",
+    question: "What is the absolute value of an integer (denoted as |x|)?",
+    options: [
+      "The numerical non-negative distance of the integer from zero (0) on the number line, regardless of its sign (e.g. |-7| = 7 and |+7| = 7)",
+      "Always a negative number",
+      "Double the number",
+      "Zero"
+    ],
+    correctAnswer: 0,
+    difficulty: "HARD",
+    damage: 350,
+    explanation: "Absolute value |x| = x for x ≥ 0, and -x for x < 0, measuring Euclidean metric distance from origin."
+  },
+  {
+    classLevel: 6,
+    subject: "Mathematics",
+    chapter: "Chapter 6: Integers",
+    question: "Calculate the value of the algebraic expression: |-25| - |+15| + |-10| - |-5|",
+    options: ["15 (25 - 15 + 10 - 5 = 15)", "25", "5", "0"],
+    correctAnswer: 0,
+    difficulty: "HARD",
+    damage: 350,
+    explanation: "25 - 15 + 10 - 5 = 10 + 10 - 5 = 15."
+  },
+  {
+    classLevel: 6,
+    subject: "Mathematics",
+    chapter: "Chapter 6: Integers",
+    question: "Starting at integer -3 on the number line, move 5 units to the right, then 8 units to the left, and finally 4 units to the right. What is your final resting integer position?",
+    options: ["-2 ((-3) + 5 - 8 + 4 = 2 - 8 + 4 = -6 + 4 = -2)", "+2", "-4", "0"],
+    correctAnswer: 0,
+    difficulty: "HARD",
+    damage: 350,
+    explanation: "-3 + 5 = 2; 2 - 8 = -6; -6 + 4 = -2."
+  },
+  {
+    classLevel: 6,
+    subject: "Mathematics",
+    chapter: "Chapter 6: Integers",
+    question: "Which of the following properties holds TRUE for Addition of integers but FAILS for Subtraction of integers?",
+    options: [
+      "Commutative Property (a + b = b + a) and Associative Property ((a + b) + c = a + (b + c))",
+      "Closure Property",
+      "Identity Property",
+      "Distributive Property"
+    ],
+    correctAnswer: 0,
+    difficulty: "HARD",
+    damage: 350,
+    explanation: "Integer addition is both commutative and associative, while subtraction is strictly non-commutative (a-b ≠ b-a) and non-associative."
+  }
+];
+
+console.log('Generated Math Ch6:', mathQuestions.length);
+fs.writeFileSync('C:/EduVerse/class 6/cross_subject/math_ch6.json', JSON.stringify(mathQuestions, null, 2), 'utf8');

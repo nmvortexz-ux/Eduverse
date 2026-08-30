@@ -1,0 +1,3842 @@
+[
+  {
+    "classLevel": 6,
+    "subject": "Science",
+    "chapter": "Chapter 2: Sorting Materials into Groups",
+    "question": "Materials through which things can be seen clearly are called:",
+    "options": [
+      "Transparent",
+      "Translucent",
+      "Opaque",
+      "Lustrous"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "Transparent materials (like clear glass, water, and clean air) transmit almost all incident light without scattering."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Science",
+    "chapter": "Chapter 2: Sorting Materials into Groups",
+    "question": "Materials through which we CANNOT see at all are called:",
+    "options": [
+      "Opaque",
+      "Transparent",
+      "Translucent",
+      "Soluble"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "Opaque materials (like wood, iron, and cardboard) completely block and absorb or reflect incident light."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Science",
+    "chapter": "Chapter 2: Sorting Materials into Groups",
+    "question": "Materials through which objects can be seen, but NOT clearly, are called:",
+    "options": [
+      "Translucent",
+      "Transparent",
+      "Opaque",
+      "Lustrous"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "Translucent materials (like butter paper, frosted glass, and oiled paper) scatter transmitted light diffusely."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Science",
+    "chapter": "Chapter 2: Sorting Materials into Groups",
+    "question": "The shiny appearance or gleam on the freshly cut surface of metals is called:",
+    "options": [
+      "Lustre",
+      "Hardness",
+      "Transparency",
+      "Roughness"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "Lustre refers to the metallic sheen produced by the specular reflection of light from free electrons on metal surfaces."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Science",
+    "chapter": "Chapter 2: Sorting Materials into Groups",
+    "question": "Which of the following substances is completely SOLUBLE in water?",
+    "options": [
+      "Common salt (Sodium chloride)",
+      "Sand",
+      "Chalk powder",
+      "Sawdust"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "Common salt completely dissociates into sodium and chloride ions in water, forming a clear homogenous solution."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Science",
+    "chapter": "Chapter 2: Sorting Materials into Groups",
+    "question": "Which of the following substances is completely INSOLUBLE in water?",
+    "options": [
+      "Sawdust",
+      "Sugar",
+      "Copper sulphate crystals",
+      "Vinegar"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "Insoluble wood sawdust does not dissolve and remains suspended or floats on the surface of water."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Science",
+    "chapter": "Chapter 2: Sorting Materials into Groups",
+    "question": "Which of the following objects will FLOAT on the surface of water?",
+    "options": [
+      "Dry leaf and wooden cork",
+      "Iron nail",
+      "Glass marble",
+      "Stone pebble"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "Objects with a density lower than water (1 g/cm³), such as dry leaves and cork, float on water."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Science",
+    "chapter": "Chapter 2: Sorting Materials into Groups",
+    "question": "Which of the following objects will SINK in water?",
+    "options": [
+      "Iron key and coin",
+      "Plastic ball",
+      "Dry wooden stick",
+      "Feather"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "Dense metals like iron have a specific gravity greater than 1, causing them to sink immediately."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Science",
+    "chapter": "Chapter 2: Sorting Materials into Groups",
+    "question": "Why are cooking utensils (pans, kettles) made of metals while their handles are made of plastic or wood?",
+    "options": [
+      "Metals are good conductors of heat, while plastic and wood are insulators that do not burn our hands",
+      "Metals are transparent",
+      "Wood melts faster than metal",
+      "Plastic conducts heat faster"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "Metals efficiently conduct thermal energy for cooking; plastic/wood handles insulate hands from heat."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Science",
+    "chapter": "Chapter 2: Sorting Materials into Groups",
+    "question": "Which of the following is a natural, organic material?",
+    "options": [
+      "Cotton",
+      "Nylon",
+      "Polyester",
+      "Plastic"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "Cotton is a natural plant cellulose fiber harvested from the seed bolls of the Gossypium plant."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Science",
+    "chapter": "Chapter 2: Sorting Materials into Groups",
+    "question": "Which liquid completely mixes (is miscible) with water?",
+    "options": [
+      "Vinegar and Lemon juice",
+      "Kerosene oil",
+      "Mustard oil",
+      "Coconut oil"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "Vinegar (aqueous acetic acid) is polar and forms a single homogenous miscible phase with water."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Science",
+    "chapter": "Chapter 2: Sorting Materials into Groups",
+    "question": "Why do shopkeepers usually prefer to keep sweets, biscuits, and toffees in transparent glass or plastic jars?",
+    "options": [
+      "So that buyers can easily see and identify the items without opening the containers",
+      "To protect items from getting heavy",
+      "Because glass is the cheapest material",
+      "Because glass absorbs all sugar"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "Optical transparency enables effortless visual inspection and attractive merchandising without opening containers."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Science",
+    "chapter": "Chapter 2: Sorting Materials into Groups",
+    "question": "Why do shiny iron rods or copper vessels lose their metallic lustre and appear dull and tarnished over time?",
+    "options": [
+      "They react chemically with moisture and atmospheric gases (oxygen) to form a thin surface oxide layer",
+      "Light stops shining on old metals",
+      "The atoms inside metals disappear",
+      "Metals turn into wood"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "Surface oxidation and corrosion from ambient humidity and air form dull passivation films, masking intrinsic lustre."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Science",
+    "chapter": "Chapter 2: Sorting Materials into Groups",
+    "question": "What happens when mustard oil or cooking oil is vigorously stirred into a glass of water?",
+    "options": [
+      "It forms a separate upper layer because oil is immiscible in water and less dense than water",
+      "It dissolves completely to form a transparent solution",
+      "It turns into hard plastic",
+      "It sinks to the bottom as heavy mud"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "Non-polar lipids are hydrophobic (immiscible) and have lower density (~0.92 g/cm³), floating atop water."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Science",
+    "chapter": "Chapter 2: Sorting Materials into Groups",
+    "question": "Why is a tumbler / drinking cup NEVER made out of a piece of cloth?",
+    "options": [
+      "Cloth is porous with spaces between interwoven threads and cannot hold or retain liquid water",
+      "Cloth is too heavy to lift",
+      "Cloth turns water into acid",
+      "Cloth is transparent"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "Woven textiles possess microscopic permeable pores between yarn threads through which liquids immediately leak."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Science",
+    "chapter": "Chapter 2: Sorting Materials into Groups",
+    "question": "Why is sorting materials into groups (Classification) scientifically useful in everyday life?",
+    "options": [
+      "It allows systematic study of material properties, saves time in locating objects, and aids structured analysis",
+      "It makes all objects colorful",
+      "It eliminates the need for cleaning",
+      "It prevents objects from breaking"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "Taxonomic categorization organizes entities by shared physical/chemical traits, optimizing identification and retrieval."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Science",
+    "chapter": "Chapter 2: Sorting Materials into Groups",
+    "question": "Which of the following gases is dissolved in natural water bodies, enabling aquatic animals and fish to breathe?",
+    "options": [
+      "Dissolved Oxygen (O₂)",
+      "Nitrogen gas",
+      "Hydrogen gas",
+      "Methane gas"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "Oxygen partially dissolves in water (~7-10 mg/L), which fish extract across gill membranes for aerobic respiration."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Science",
+    "chapter": "Chapter 2: Sorting Materials into Groups",
+    "question": "A material which can be easily compressed, scratched, or bent with fingers is classified as:",
+    "options": [
+      "Soft material (e.g., sponge, cotton)",
+      "Hard material",
+      "Lustrous metal",
+      "Opaque metal"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "Materials with low structural indentation resistance and deformability are defined as soft materials."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Science",
+    "chapter": "Chapter 2: Sorting Materials into Groups",
+    "question": "A material which is difficult to compress, scratch, or deform is classified as:",
+    "options": [
+      "Hard material (e.g., iron, stone, diamond)",
+      "Soft material",
+      "Translucent material",
+      "Soluble material"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "Hardness is the measure of resistance to localized surface plastic deformation, scratching, or abrasion."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Science",
+    "chapter": "Chapter 2: Sorting Materials into Groups",
+    "question": "Which pair of materials can be used to make a single everyday object like a chair?",
+    "options": [
+      "Wood, Plastic, or Iron",
+      "Water and Milk",
+      "Air and Kerosene",
+      "Oxygen and Sand"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "The same functional object (chair) can be manufactured from various solid structural materials (timber, polymer, metal)."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Science",
+    "chapter": "Chapter 2: Sorting Materials into Groups",
+    "question": "What happens when a drop of oil falls on a clean sheet of white writing paper?",
+    "options": [
+      "The paper becomes translucent at that spot, allowing light to pass through diffusely",
+      "The paper catches fire instantly",
+      "The paper becomes 100% transparent like clear glass",
+      "The paper dissolves into water"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "Oil fills the air voids between cellulose fibers, matching refractive indices and rendering the paper translucent."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Science",
+    "chapter": "Chapter 2: Sorting Materials into Groups",
+    "question": "Which of the following pairs contains only LUSTROUS materials when freshly cut?",
+    "options": [
+      "Aluminium wire and Gold ring",
+      "Cardboard and Wooden block",
+      "Chalk stick and Plastic toy",
+      "Rubber eraser and Sandpaper"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "Metals like aluminium and gold exhibit shiny metallic reflectivity (lustre) on freshly exposed surfaces."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Science",
+    "chapter": "Chapter 2: Sorting Materials into Groups",
+    "question": "Why do coins and iron nails sink in water whereas a large wooden log of greater mass floats?",
+    "options": [
+      "Density of iron is greater than water, while overall density of wood is lower than that of water",
+      "Iron is magnetic and pulled by Earth",
+      "Wood contains air balloons inside",
+      "Water rejects metal"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "Flotation depends on relative density (mass per unit volume), not on total absolute mass."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Science",
+    "chapter": "Chapter 2: Sorting Materials into Groups",
+    "question": "Which of the following is a man-made (synthetic) material?",
+    "options": [
+      "Polythene bag",
+      "Silk saree",
+      "Jute rope",
+      "Leather belt"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "Polyethylene is a synthetic petrochemical polymer produced via artificial chemical polymerization."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Science",
+    "chapter": "Chapter 2: Sorting Materials into Groups",
+    "question": "Which of the following liquids is IMMISCIBLE with water?",
+    "options": [
+      "Coconut oil",
+      "Milk",
+      "Alcohol",
+      "Lemon juice"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "Lipids (coconut oil) do not mix with polar water molecules and form a separate distinct meniscus layer."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Science",
+    "chapter": "Chapter 2: Sorting Materials into Groups",
+    "question": "Why are windows in bathrooms often fitted with frosted (ground) glass instead of clear transparent glass?",
+    "options": [
+      "Frosted glass is translucent, allowing sunlight to enter while obscuring clear vision for privacy",
+      "Frosted glass is bulletproof",
+      "Frosted glass produces heat",
+      "Frosted glass never needs cleaning"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "Diffused surface textures scatter transmitted light rays, ensuring illumination while maintaining visual privacy."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Science",
+    "chapter": "Chapter 2: Sorting Materials into Groups",
+    "question": "Which property is tested by rubbing the surface of two materials against each other?",
+    "options": [
+      "Hardness and Roughness",
+      "Transparency",
+      "Solubility",
+      "Magnetic attraction"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "Scratch testing evaluates relative Mohs hardness and micro-surface roughness (tactile texture)."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Science",
+    "chapter": "Chapter 2: Sorting Materials into Groups",
+    "question": "Which of the following objects is made from MULTIPLE different materials combined together?",
+    "options": [
+      "A pencil (made of wood, graphite lead, paint, metal ferrule, and rubber eraser)",
+      "An iron nail",
+      "A glass marble",
+      "A copper wire without insulation"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "A standard pencil is a composite assembly of timber, clay-graphite, lacquer, brass, and synthetic rubber."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Science",
+    "chapter": "Chapter 2: Sorting Materials into Groups",
+    "question": "Read the statements:\nAssertion (A): A freshly cut potato slice does NOT possess metallic lustre.\nReason (R): Lustre is a characteristic optical property exhibited predominantly by metals due to their free electron cloud.\nChoose the correct option:",
+    "options": [
+      "Both (A) and (R) are true, and (R) is the correct explanation of (A).",
+      "Both (A) and (R) are true, but (R) is NOT the correct explanation of (A).",
+      "(A) is true, but (R) is false.",
+      "(A) is false, but (R) is true."
+    ],
+    "correctAnswer": 0,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "Metals possess delocalized conduction electrons that oscillate and re-emit incident light, producing true metallic lustre."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Science",
+    "chapter": "Chapter 2: Sorting Materials into Groups",
+    "question": "Spot the IMPOSTER in the following group of materials based on their solubility in water:\nGroup: [Sugar, Common Salt, Copper Sulphate, Sand]",
+    "options": [
+      "Sugar",
+      "Common Salt",
+      "Copper Sulphate",
+      "Sand"
+    ],
+    "correctAnswer": 3,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "Sand (Silicon dioxide) is completely INSOLUBLE in water, whereas Sugar, Common Salt, and Copper Sulphate are water-SOLUBLE solids."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Science",
+    "chapter": "Chapter 2: Sorting Materials into Groups",
+    "question": "Four test tubes contain liquids with water:\n- Tube A: Vinegar + Water\n- Tube B: Lemon Juice + Water\n- Tube C: Kerosene + Water\n- Tube D: Milk + Water\nIn which test tube will TWO distinct immiscible layers be seen after standing for 10 minutes?",
+    "options": [
+      "Tube C (Kerosene + Water)",
+      "Tube A",
+      "Tube B",
+      "Tube D"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "Kerosene is non-polar hydrocarbon, which is immiscible with polar water and separates into an upper floating layer."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Science",
+    "chapter": "Chapter 2: Sorting Materials into Groups",
+    "question": "A student shines a torch through three sheets of different materials X, Y, and Z onto a wall:\n- Sheet X: Clear circular bright patch on wall\n- Sheet Y: Faint, diffused blurred patch on wall\n- Sheet Z: Dark shadow with zero light on wall\nIdentify the nature of materials X, Y, and Z:",
+    "options": [
+      "X = Transparent, Y = Translucent, Z = Opaque",
+      "X = Opaque, Y = Translucent, Z = Transparent",
+      "X = Translucent, Y = Transparent, Z = Opaque",
+      "All three are Opaque"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "Direct light transmission = Transparent (X); scattered partial transmission = Translucent (Y); complete blockage = Opaque (Z)."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Science",
+    "chapter": "Chapter 2: Sorting Materials into Groups",
+    "question": "Match Column I (Materials) with Column II (Properties):\n(a) Pure Glass Plate -> (i) Insoluble & floats on water\n(b) Dry Sponge       -> (ii) Transparent\n(c) Kerosene Oil     -> (iii) Soft & compressible\n(d) Iron Block       -> (iv) Opaque, hard & sinks",
+    "options": [
+      "a-(ii), b-(iii), c-(i), d-(iv)",
+      "a-(i), b-(ii), c-(iii), d-(iv)",
+      "a-(iv), b-(iii), c-(ii), d-(i)",
+      "a-(iii), b-(iv), c-(i), d-(ii)"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "Glass = Transparent; Sponge = Soft/Compressible; Kerosene = Immiscible/Floats; Iron = Opaque/Hard/Sinks."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Science",
+    "chapter": "Chapter 2: Sorting Materials into Groups",
+    "question": "Read the statements:\nAssertion (A): Gases like Carbon Dioxide and Oxygen dissolve in water to a small extent.\nReason (R): This dissolved state of gases is critical for the survival of aquatic flora and fauna.\nChoose the correct option:",
+    "options": [
+      "Both (A) and (R) are true, and (R) is the correct explanation of (A).",
+      "Both (A) and (R) are true, but (R) is NOT the correct explanation of (A).",
+      "(A) is true, but (R) is false.",
+      "(A) is false, but (R) is true."
+    ],
+    "correctAnswer": 0,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "Gaseous Henry's law solubility allows dissolved O2 for aquatic respiration and dissolved CO2 for hydrophytic photosynthesis."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Science",
+    "chapter": "Chapter 2: Sorting Materials into Groups",
+    "question": "Consider four objects:\n1. Aluminium foil sheet\n2. Pure clear diamond\n3. Wooden block\n4. Thick cardboard box\nWhich object is simultaneously HARD, OPAQUE, and LUSTROUS?",
+    "options": [
+      "Object 1 (Aluminium foil sheet)",
+      "Object 2 (Diamond)",
+      "Object 3 (Wood)",
+      "Object 4 (Cardboard)"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "Aluminium is metallic (lustrous), solid (hard), and completely impenetrable to light (opaque)."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Science",
+    "chapter": "Chapter 2: Sorting Materials into Groups",
+    "question": "Why does a hollow plastic toy boat weighing 500 grams float on water, while a solid lead pellet weighing only 5 grams sinks immediately?",
+    "options": [
+      "The boat encloses a large volume of air, making its overall average density much less than water, while dense lead has higher density than water",
+      "Lead is poisonous to water",
+      "Water loves plastic",
+      "Lead has zero surface area"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "Archimedes' principle: hollow geometry displaces volume with low mean density (mass/volume < 1 g/cm³), enabling flotation."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Science",
+    "chapter": "Chapter 2: Sorting Materials into Groups",
+    "question": "Read the statements:\nStatement 1: Diamond is a non-metal that is the hardest naturally occurring substance known.\nStatement 2: All liquids mix completely with water in all proportions.\nStatement 3: Air is a transparent mixture of gases.\nWhich statements are TRUE?",
+    "options": [
+      "Statements 1 and 3 only",
+      "Statements 2 and 3 only",
+      "Statements 1 and 2 only",
+      "All Statements 1, 2, and 3"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "Statement 2 is false because many non-polar liquids (oils, petrol) are immiscible. Statements 1 and 3 are correct."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Science",
+    "chapter": "Chapter 2: Sorting Materials into Groups",
+    "question": "A chemist tests an unknown solid sample:\n- It can be easily scratched by an iron nail\n- It burns with a yellow flame and melts easily\n- It does not dissolve in water\n- It floats on water\nWhat is this material most likely to be?",
+    "options": [
+      "Paraffin Wax",
+      "Glass",
+      "Iron",
+      "Common Salt"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "Paraffin wax is soft (scratches easily), low melting, insoluble in water, and floats due to low density (~0.9 g/cm³)."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Science",
+    "chapter": "Chapter 2: Sorting Materials into Groups",
+    "question": "Why is sorting waste into Biodegradable (green bin) and Non-Biodegradable (blue bin) materials recommended at municipal levels?",
+    "options": [
+      "It allows organic waste to be composted into soil manure and non-biodegradable plastics/metals to be recycled efficiently",
+      "To make waste colorful",
+      "To increase trash weight",
+      "To hide garbage from sunlight"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "Source segregation isolates organic matter for aerobic composting while diverting recyclable synthetic polymers and metals from landfills."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Science",
+    "chapter": "Chapter 2: Sorting Materials into Groups",
+    "question": "Which of the following optical materials absorbs and reflects ALL incident light rays, casting the darkest and most distinct shadow on the ground?",
+    "options": [
+      "A thick solid concrete slab",
+      "A clean glass plate",
+      "A butter paper sheet",
+      "Clean river water"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "Completely opaque solid objects prevent any photon transmission, casting sharp high-contrast geometric umbra shadows."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Mathematics",
+    "chapter": "Chapter 2: Whole Numbers",
+    "question": "What is the smallest natural number?",
+    "options": [
+      "1",
+      "0",
+      "2",
+      "-1"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "Natural numbers (counting numbers) start from 1, 2, 3, 4... Hence, 1 is the smallest natural number."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Mathematics",
+    "chapter": "Chapter 2: Whole Numbers",
+    "question": "What is the smallest whole number?",
+    "options": [
+      "0",
+      "1",
+      "2",
+      "There is no smallest whole number"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "Whole numbers include 0 along with all natural numbers (0, 1, 2, 3...). 0 is the smallest whole number."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Mathematics",
+    "chapter": "Chapter 2: Whole Numbers",
+    "question": "What is the predecessor of the whole number 1?",
+    "options": [
+      "0",
+      "2",
+      "-1",
+      "No predecessor exists"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "Predecessor of 1 in the whole number system is 1 - 1 = 0."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Mathematics",
+    "chapter": "Chapter 2: Whole Numbers",
+    "question": "Which whole number does NOT have a predecessor in the whole number system?",
+    "options": [
+      "0",
+      "1",
+      "10",
+      "100"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "0 has no predecessor in whole numbers because whole numbers begin at 0."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Mathematics",
+    "chapter": "Chapter 2: Whole Numbers",
+    "question": "What is the successor of 1,00,199?",
+    "options": [
+      "1,00,200",
+      "1,00,198",
+      "1,00,201",
+      "1,01,000"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "Successor of a number is obtained by adding 1: 1,00,199 + 1 = 1,00,200."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Mathematics",
+    "chapter": "Chapter 2: Whole Numbers",
+    "question": "What is the predecessor of 2,08,090?",
+    "options": [
+      "2,08,089",
+      "2,08,091",
+      "2,08,000",
+      "2,08,100"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "Predecessor of a number is obtained by subtracting 1: 2,08,090 - 1 = 2,08,089."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Mathematics",
+    "chapter": "Chapter 2: Whole Numbers",
+    "question": "How many whole numbers exist between 32 and 53?",
+    "options": [
+      "20",
+      "21",
+      "19",
+      "22"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "Whole numbers between 32 and 53 = (53 - 32) - 1 = 21 - 1 = 20."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Mathematics",
+    "chapter": "Chapter 2: Whole Numbers",
+    "question": "Which whole number is called the 'Additive Identity' for whole numbers?",
+    "options": [
+      "0",
+      "1",
+      "10",
+      "There is none"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "Adding 0 to any whole number leaves the number unchanged (a + 0 = a); hence 0 is the additive identity."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Mathematics",
+    "chapter": "Chapter 2: Whole Numbers",
+    "question": "Which whole number is called the 'Multiplicative Identity' for whole numbers?",
+    "options": [
+      "1",
+      "0",
+      "10",
+      "2"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "Multiplying any whole number by 1 yields the same number (a × 1 = a); hence 1 is the multiplicative identity."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Mathematics",
+    "chapter": "Chapter 2: Whole Numbers",
+    "question": "What is the mathematical result of dividing any whole number by zero (e.g., 7 ÷ 0)?",
+    "options": [
+      "Division by zero is NOT defined",
+      "0",
+      "7",
+      "1"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "Division is repeated subtraction; since subtracting 0 never reduces a quantity, division by zero is undefined."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Mathematics",
+    "chapter": "Chapter 2: Whole Numbers",
+    "question": "On a standard horizontal number line, where does a larger whole number always lie relative to a smaller number?",
+    "options": [
+      "To the right side of the smaller number",
+      "To the left side",
+      "Directly below it",
+      "At the origin"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "Numbers increase as you move rightwards on a number line (e.g., 9 lies to the right of 4)."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Mathematics",
+    "chapter": "Chapter 2: Whole Numbers",
+    "question": "What property is represented by the equation: a + b = b + a?",
+    "options": [
+      "Commutative property of addition",
+      "Associative property",
+      "Distributive property",
+      "Closure property"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "The order of operands in addition does not affect the sum (Commutative Property)."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Mathematics",
+    "chapter": "Chapter 2: Whole Numbers",
+    "question": "Find the sum by suitable rearrangement: 837 + 208 + 363",
+    "options": [
+      "1,408",
+      "1,398",
+      "1,418",
+      "1,508"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "Group numbers ending with complementary digits: (837 + 363) + 208 = 1,200 + 208 = 1,408."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Mathematics",
+    "chapter": "Chapter 2: Whole Numbers",
+    "question": "Find the product by suitable rearrangement: 2 × 1768 × 50",
+    "options": [
+      "1,76,800",
+      "1,76,000",
+      "1,86,800",
+      "1,74,800"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "Rearrange to multiply 2 × 50 first: (2 × 50) × 1768 = 100 × 1768 = 1,76,800."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Mathematics",
+    "chapter": "Chapter 2: Whole Numbers",
+    "question": "Find the value using the Distributive Property: 297 × 17 + 297 × 3",
+    "options": [
+      "5,940",
+      "5,840",
+      "6,040",
+      "5,900"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "297 × (17 + 3) = 297 × 20 = 5,940."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Mathematics",
+    "chapter": "Chapter 2: Whole Numbers",
+    "question": "Find the value using the Distributive Property: 54,279 × 92 + 8 × 54,279",
+    "options": [
+      "54,27,900",
+      "54,20,000",
+      "54,27,000",
+      "5,42,790"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "54,279 × (92 + 8) = 54,279 × 100 = 54,27,900."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Mathematics",
+    "chapter": "Chapter 2: Whole Numbers",
+    "question": "Find the product using suitable property: 738 × 103",
+    "options": [
+      "76,014",
+      "75,914",
+      "76,114",
+      "74,814"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "738 × (100 + 3) = 738 × 100 + 738 × 3 = 73,800 + 2,214 = 76,014."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Mathematics",
+    "chapter": "Chapter 2: Whole Numbers",
+    "question": "A taxi driver filled his car petrol tank with 40 litres of petrol on Monday. The next day, he filled the tank with 50 litres of petrol. If petrol costs ₹ 44 per litre, how much did he spend in all on petrol?",
+    "options": [
+      "₹ 3,960",
+      "₹ 3,860",
+      "₹ 4,060",
+      "₹ 3,600"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "Total spent = 44 × (40 + 50) = 44 × 90 = ₹ 3,960."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Mathematics",
+    "chapter": "Chapter 2: Whole Numbers",
+    "question": "A vendor supplies 32 litres of milk to a hotel in the morning and 68 litres of milk in the evening. If the milk costs ₹ 45 per litre, how much money is due to the vendor per day?",
+    "options": [
+      "₹ 4,500",
+      "₹ 4,200",
+      "₹ 4,800",
+      "₹ 4,000"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "Total cost = 45 × (32 + 68) = 45 × 100 = ₹ 4,500."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Mathematics",
+    "chapter": "Chapter 2: Whole Numbers",
+    "question": "Which of the following operations is NOT closed for whole numbers?",
+    "options": [
+      "Subtraction and Division",
+      "Addition and Multiplication",
+      "Addition only",
+      "Multiplication only"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "Subtracting 5 - 8 = -3 (not a whole number) and dividing 5 ÷ 2 = 2.5 (not a whole number); hence not closed."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Mathematics",
+    "chapter": "Chapter 2: Whole Numbers",
+    "question": "Which property is demonstrated by: (a × b) × c = a × (b × c)?",
+    "options": [
+      "Associative property of multiplication",
+      "Commutative property",
+      "Distributive property",
+      "Closure property"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "Regrouping factors does not change the final product (Associative Property)."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Mathematics",
+    "chapter": "Chapter 2: Whole Numbers",
+    "question": "Study the pattern: 1 × 8 + 1 = 9; 12 × 8 + 2 = 98; 123 × 8 + 3 = 987. What is the value of 12345 × 8 + 5?",
+    "options": [
+      "98765",
+      "98756",
+      "98764",
+      "99876"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "Following the arithmetic pattern, the resulting digits descend from 9 down to 5: 98765."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Mathematics",
+    "chapter": "Chapter 2: Whole Numbers",
+    "question": "Which of the following whole numbers can be arranged as a square pattern using dots?",
+    "options": [
+      "4, 9, 16, 25",
+      "2, 3, 5, 7",
+      "6, 8, 10, 12",
+      "3, 6, 10, 15"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "Square numbers n² (2²=4, 3²=9, 4²=16, 5²=25) form symmetrical square dot lattices."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Mathematics",
+    "chapter": "Chapter 2: Whole Numbers",
+    "question": "Which of the following whole numbers can be arranged as a triangular pattern using dots?",
+    "options": [
+      "3, 6, 10, 15",
+      "4, 9, 16, 25",
+      "2, 4, 8, 16",
+      "5, 7, 11, 13"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "Triangular numbers T_n = n(n+1)/2 (T₂=3, T₃=6, T₄=10, T₅=15) form equilateral triangular dot grids."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Mathematics",
+    "chapter": "Chapter 2: Whole Numbers",
+    "question": "Find the product: 4 × 166 × 25",
+    "options": [
+      "16,600",
+      "16,000",
+      "17,600",
+      "15,600"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "(4 × 25) × 166 = 100 × 166 = 16,600."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Mathematics",
+    "chapter": "Chapter 2: Whole Numbers",
+    "question": "Solve using suitable properties: 854 × 102",
+    "options": [
+      "87,108",
+      "86,108",
+      "87,008",
+      "85,400"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "854 × (100 + 2) = 85,400 + 1,708 = 87,108."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Mathematics",
+    "chapter": "Chapter 2: Whole Numbers",
+    "question": "If the product of two whole numbers is zero, what can we definitively conclude?",
+    "options": [
+      "At least one of the numbers (or both) must be zero",
+      "Both numbers must be equal to 1",
+      "Both numbers must be greater than 10",
+      "Neither number can be zero"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "By the Zero Product Property: if a × b = 0, then a = 0, or b = 0, or a = b = 0."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Mathematics",
+    "chapter": "Chapter 2: Whole Numbers",
+    "question": "If the product of two whole numbers is 1, what can we conclude?",
+    "options": [
+      "Both numbers must be equal to 1",
+      "One number is 0 and the other is 1",
+      "Both numbers can be any prime number",
+      "Their sum is 1"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "In whole numbers, the only factors of 1 are 1 × 1 = 1; hence both numbers must be 1."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Mathematics",
+    "chapter": "Chapter 2: Whole Numbers",
+    "question": "Read the statements:\nAssertion (A): The expression (8 ÷ 4) ÷ 2 is NOT equal to 8 ÷ (4 ÷ 2).\nReason (R): Division of whole numbers is NOT associative.\nChoose the correct option:",
+    "options": [
+      "Both (A) and (R) are true, and (R) is the correct explanation of (A).",
+      "Both (A) and (R) are true, but (R) is NOT the correct explanation of (A).",
+      "(A) is true, but (R) is false.",
+      "(A) is false, but (R) is true."
+    ],
+    "correctAnswer": 0,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "(8 ÷ 4) ÷ 2 = 2 ÷ 2 = 1. But 8 ÷ (4 ÷ 2) = 8 ÷ 2 = 4. Since 1 ≠ 4, division is not associative."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Mathematics",
+    "chapter": "Chapter 2: Whole Numbers",
+    "question": "Spot the IMPOSTER in the following mathematical properties of whole numbers:\nGroup: [Closure under Addition, Commutativity of Multiplication, Associativity of Addition, Commutativity of Subtraction]",
+    "options": [
+      "Closure under Addition",
+      "Commutativity of Multiplication",
+      "Associativity of Addition",
+      "Commutativity of Subtraction"
+    ],
+    "correctAnswer": 3,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "Subtraction is NOT commutative for whole numbers (e.g., 5 - 3 = 2, but 3 - 5 = -2, which is not even a whole number)."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Mathematics",
+    "chapter": "Chapter 2: Whole Numbers",
+    "question": "Find the value of: 125 × 40 × 8 × 25 using optimal grouping:",
+    "options": [
+      "10,00,000 (1 Million)",
+      "1,00,000",
+      "5,00,000",
+      "10,000"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "Group (125 × 8) × (40 × 25) = 1,000 × 1,000 = 1,000,000."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Mathematics",
+    "chapter": "Chapter 2: Whole Numbers",
+    "question": "If a = 5, b = 3, c = 2, verify the Distributive Property of multiplication over subtraction: a × (b - c) = ?",
+    "options": [
+      "a × b - a × c = 5 × 3 - 5 × 2 = 15 - 10 = 5",
+      "a × b + a × c = 25",
+      "a × (b + c) = 25",
+      "10"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "Distributive property holds over subtraction: a(b - c) = ab - ac."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Mathematics",
+    "chapter": "Chapter 2: Whole Numbers",
+    "question": "Match the following operations with their properties:\n(a) 425 × 136 = 425 × (6 + 30 + 100) -> (i) Commutativity under multiplication\n(b) 2 × 49 × 50 = 2 × 50 × 49          -> (ii) Commutativity under addition\n(c) 80 + 2005 + 20 = 80 + 20 + 2005      -> (iii) Distributivity of multiplication over addition",
+    "options": [
+      "a-(iii), b-(i), c-(ii)",
+      "a-(i), b-(ii), c-(iii)",
+      "a-(ii), b-(iii), c-(i)",
+      "a-(iii), b-(ii), c-(i)"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "a is Distributive property; b is Commutativity of multiplication; c is Commutativity of addition."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Mathematics",
+    "chapter": "Chapter 2: Whole Numbers",
+    "question": "Read the statements:\nStatement 1: Every natural number is a whole number.\nStatement 2: Every whole number is a natural number.\nStatement 3: 0 is the only whole number that is not a natural number.\nWhich statements are TRUE?",
+    "options": [
+      "Statements 1 and 3 only",
+      "Statements 1 and 2 only",
+      "Statements 2 and 3 only",
+      "All Statements 1, 2, and 3"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "Statement 2 is false because 0 is a whole number but NOT a natural number. Statements 1 and 3 are true."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Mathematics",
+    "chapter": "Chapter 2: Whole Numbers",
+    "question": "Solve using pattern: 111 × 111 = 12,321. What is the value of 11,111 × 11,111?",
+    "options": [
+      "123,454,321",
+      "123,456,789",
+      "12,345,432",
+      "111,111,111"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "Product of n ones with n ones ascends from 1 to n then descends back to 1: for n=5 -> 123454321."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Mathematics",
+    "chapter": "Chapter 2: Whole Numbers",
+    "question": "What is the sum of the first 10 odd natural numbers (1 + 3 + 5 + ... + 19)?",
+    "options": [
+      "100 (= 10²)",
+      "90",
+      "110",
+      "81"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "The sum of the first n odd natural numbers is always equal to n²; for n = 10, sum = 10² = 100."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Mathematics",
+    "chapter": "Chapter 2: Whole Numbers",
+    "question": "A school canteen charges ₹ 25 for lunch and ₹ 6 for milk each day. How much money does a student spend in 5 days on these items?",
+    "options": [
+      "₹ 155",
+      "₹ 150",
+      "₹ 160",
+      "₹ 145"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "Total spent = 5 × (25 + 6) = 5 × 31 = ₹ 155."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Mathematics",
+    "chapter": "Chapter 2: Whole Numbers",
+    "question": "Which of the following numbers can be represented as BOTH a line, a rectangle, a square, AND a triangle in dot geometry?",
+    "options": [
+      "36",
+      "16",
+      "25",
+      "10"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "36 is a square number (6²=36) and a triangular number T₈ = 8×9/2 = 36, and can form rectangles (4×9, 3×12, etc.) and a line (1×36)."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Mathematics",
+    "chapter": "Chapter 2: Whole Numbers",
+    "question": "Find the value of (3845 × 5 × 782) + (769 × 25 × 218):",
+    "options": [
+      "1,92,25,000",
+      "1,92,00,000",
+      "1,85,25,000",
+      "2,00,00,000"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "Notice 769 × 25 = 769 × 5 × 5 = 3845 × 5 = 19,225. Expression = 19,225 × (782 + 218) = 19,225 × 1,000 = 1,92,25,000."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Mathematics",
+    "chapter": "Chapter 2: Whole Numbers",
+    "question": "If x is any whole number, which of the following expressions is ALWAYS equal to x?",
+    "options": [
+      "x × 1",
+      "x ÷ 0",
+      "x - 1",
+      "x + 1"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "1 is the multiplicative identity: x × 1 = x for every whole number x."
+  },
+  {
+    "classLevel": 6,
+    "subject": "English",
+    "chapter": "Chapter 2: How the Dog Found Himself a New Master!",
+    "question": "Long ago, how did dogs live before deciding to find a master?",
+    "options": [
+      "They lived in freedom, like wolves, being their own masters",
+      "They lived in zoos",
+      "They were kept as farm cattle",
+      "They lived only in cold caves"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "Dogs once lived as wild beasts in full freedom, being their own masters until one dog grew tired of hunting."
+  },
+  {
+    "classLevel": 6,
+    "subject": "English",
+    "chapter": "Chapter 2: How the Dog Found Himself a New Master!",
+    "question": "Why was the dog sick and tired of his free, wild way of life?",
+    "options": [
+      "He was tired of wandering about alone looking for food and being frightened of stronger animals",
+      "He wanted to sleep in a warm house",
+      "He hated running in forests",
+      "He wanted to eat cooked meat only"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "The dog was tired of hunting alone and living in constant fear of more powerful predators."
+  },
+  {
+    "classLevel": 6,
+    "subject": "English",
+    "chapter": "Chapter 2: How the Dog Found Himself a New Master!",
+    "question": "What decision did the dog make to solve his problem?",
+    "options": [
+      "To become the loyal servant of someone who was stronger than anyone on Earth",
+      "To hide underground forever",
+      "To become a vegetarian",
+      "To fly in the sky like birds"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "He decided to seek service under the absolute strongest being on Earth to secure safety and food."
+  },
+  {
+    "classLevel": 6,
+    "subject": "English",
+    "chapter": "Chapter 2: How the Dog Found Himself a New Master!",
+    "question": "Who was the FIRST creature the dog chose as his master?",
+    "options": [
+      "A big, fierce Wolf (his kinsman)",
+      "A Bear",
+      "A Lion",
+      "A Man"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "The dog first met a big, fierce wolf and agreed to serve him as master."
+  },
+  {
+    "classLevel": 6,
+    "subject": "English",
+    "chapter": "Chapter 2: How the Dog Found Himself a New Master!",
+    "question": "Why did the dog leave the Wolf?",
+    "options": [
+      "Because the Wolf was afraid of the Bear, who could eat them both",
+      "The Wolf refused to share food",
+      "The Wolf bit the dog",
+      "The Wolf ran away to another country"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "Seeing the wolf terrified of the bear, the dog realized the wolf was not the strongest and left him."
+  },
+  {
+    "classLevel": 6,
+    "subject": "English",
+    "chapter": "Chapter 2: How the Dog Found Himself a New Master!",
+    "question": "Who was the SECOND master chosen by the dog?",
+    "options": [
+      "The Bear",
+      "The Wolf",
+      "The Lion",
+      "The Elephant"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "After leaving the wolf, the dog offered his service to the Bear."
+  },
+  {
+    "classLevel": 6,
+    "subject": "English",
+    "chapter": "Chapter 2: How the Dog Found Himself a New Master!",
+    "question": "Why did the Bear run away into the deep forest while hunting a herd of cows?",
+    "options": [
+      "He heard the loud, terrifying roar of a Lion",
+      "A thunderstorm started",
+      "The cows attacked the bear",
+      "He smelled fire in the woods"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "The bear panicked upon hearing a lion, confessing that the Lion is the strongest beast in the forest."
+  },
+  {
+    "classLevel": 6,
+    "subject": "English",
+    "chapter": "Chapter 2: How the Dog Found Himself a New Master!",
+    "question": "Who was the THIRD master chosen by the dog?",
+    "options": [
+      "The Lion",
+      "The Bear",
+      "The Wolf",
+      "The Tiger"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "The dog left the bear and stayed with the Lion for a very long, comfortable time."
+  },
+  {
+    "classLevel": 6,
+    "subject": "English",
+    "chapter": "Chapter 2: How the Dog Found Himself a New Master!",
+    "question": "Why did the Lion suddenly stop, give a great roar, and strike the ground angrily while walking near a cliff?",
+    "options": [
+      "He smelled the scent of a Man approaching and warned the dog to run away",
+      "He stepped on a sharp thorn",
+      "He saw an elephant coming",
+      "He was hungry"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "The lion caught the scent of human presence and warned the dog that they must flee or face trouble."
+  },
+  {
+    "classLevel": 6,
+    "subject": "English",
+    "chapter": "Chapter 2: How the Dog Found Himself a New Master!",
+    "question": "Who did the dog finally choose as his ULTIMATE and permanent master?",
+    "options": [
+      "Man (Human)",
+      "The Lion",
+      "The Tiger",
+      "The Elephant"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "Realizing that Man is stronger than all wild beasts, the dog chose Man as his ultimate master."
+  },
+  {
+    "classLevel": 6,
+    "subject": "English",
+    "chapter": "Chapter 2: How the Dog Found Himself a New Master!",
+    "question": "In the poem 'The Kite' by Harry Behn, how does a new kite look in the blue sky?",
+    "options": [
+      "Bright and beautiful as it dives and dips",
+      "Dark and dusty",
+      "Heavy and clumsy",
+      "Faded and torn"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "Poet Harry Behn opens: 'How bright on the blue is a kite when it's new! With a dive and a dip it snaps its tail...'"
+  },
+  {
+    "classLevel": 6,
+    "subject": "English",
+    "chapter": "Chapter 2: How the Dog Found Himself a New Master!",
+    "question": "In the supplementary story 'The Friendly Mongoose', why did the farmer bring a baby mongoose home?",
+    "options": [
+      "To be a companion and protective pet for their infant son",
+      "To sell it in the market",
+      "To guard the crops from thieves",
+      "To hunt birds in the garden"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "The farmer wished to provide his infant son with a loyal companion as the child grew up."
+  },
+  {
+    "classLevel": 6,
+    "subject": "English",
+    "chapter": "Chapter 2: How the Dog Found Himself a New Master!",
+    "question": "What is the chronological sequence of masters tested by the dog in his quest for the strongest leader?",
+    "options": [
+      "Wolf -> Bear -> Lion -> Man",
+      "Bear -> Wolf -> Lion -> Man",
+      "Lion -> Bear -> Wolf -> Man",
+      "Wolf -> Lion -> Bear -> Man"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "The dog successively evaluated and transitioned from Wolf to Bear, then Lion, and finally Man."
+  },
+  {
+    "classLevel": 6,
+    "subject": "English",
+    "chapter": "Chapter 2: How the Dog Found Himself a New Master!",
+    "question": "What figure of speech / simile is used in the poem 'The Kite' to describe the flight of a kite soaring on a gust of wind?",
+    "options": [
+      "\"Then soars like a ship with only a sail\"",
+      "\"Dives like an eagle\"",
+      "\"Runs like a horse\"",
+      "\"Shines like a diamond\""
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "The poet compares the effortless aerodynamic riding of the kite to a ship gliding over ocean waves with a single sail."
+  },
+  {
+    "classLevel": 6,
+    "subject": "English",
+    "chapter": "Chapter 2: How the Dog Found Himself a New Master!",
+    "question": "What makes a soaring kite become a 'raggedy thing' according to Harry Behn's poem?",
+    "options": [
+      "When its string gets tangled in the branches of a tree, flapping helplessly until torn",
+      "When it gets wet in rain",
+      "When the sun sets",
+      "When children cut the tail"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "The poem laments the pathetic sight of a trapped kite fluttering and tearing apart upon tree branches."
+  },
+  {
+    "classLevel": 6,
+    "subject": "English",
+    "chapter": "Chapter 2: How the Dog Found Himself a New Master!",
+    "question": "In 'The Friendly Mongoose', why did the farmer's wife kill the loyal mongoose with a heavy water pot?",
+    "options": [
+      "She acted in hasty blind rage, seeing blood on the mongoose's mouth and assuming it had harmed her sleeping baby",
+      "The mongoose bit her leg",
+      "The mongoose stole her food",
+      "She wanted a dog instead"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "She jumped to a hasty, tragic conclusion without inspecting the cradle inside the room."
+  },
+  {
+    "classLevel": 6,
+    "subject": "English",
+    "chapter": "Chapter 2: How the Dog Found Himself a New Master!",
+    "question": "What did the farmer's wife find inside the room AFTER she struck down the mongoose?",
+    "options": [
+      "Her baby sleeping peacefully in the cradle, and a black venomous cobra lying torn and bleeding dead on the floor",
+      "The baby was missing",
+      "The cradle was on fire",
+      "Another snake inside the bed"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "The brave mongoose had fought and killed the venomous snake to defend the sleeping infant."
+  },
+  {
+    "classLevel": 6,
+    "subject": "English",
+    "chapter": "Chapter 2: How the Dog Found Himself a New Master!",
+    "question": "What profound moral lesson is taught by the Panchatantra tale 'The Friendly Mongoose'?",
+    "options": [
+      "Never act in hasty anger or make irreversible decisions without verifying facts first ('Look before you leap')",
+      "Never keep any animals as pets",
+      "Mongoose and snakes are best friends",
+      "Women should never fetch water"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "Hasty, unthinking emotional action leads to irreversible tragedy and lifelong remorse."
+  },
+  {
+    "classLevel": 6,
+    "subject": "English",
+    "chapter": "Chapter 2: How the Dog Found Himself a New Master!",
+    "question": "Choose the correct meaning of the collective noun 'a herd' as used in the chapter:",
+    "options": [
+      "A group of cattle / grazing animals",
+      "A flock of birds",
+      "A pack of wolves",
+      "A pride of lions"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "'Herd' denotes a collective assemblage of herbivorous domestic or wild ungulates (cows, deer, elephants)."
+  },
+  {
+    "classLevel": 6,
+    "subject": "English",
+    "chapter": "Chapter 2: How the Dog Found Himself a New Master!",
+    "question": "What is the collective noun used for a group of Wolves in English grammar?",
+    "options": [
+      "A pack of wolves",
+      "A herd of wolves",
+      "A flock of wolves",
+      "A swarm of wolves"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "In standard grammatical nomenclature, wolves hunt and travel socially in 'a pack'."
+  },
+  {
+    "classLevel": 6,
+    "subject": "English",
+    "chapter": "Chapter 2: How the Dog Found Himself a New Master!",
+    "question": "What does the word 'Kinsman' mean in the sentence: 'The dog met a wolf who was his kinsman'?",
+    "options": [
+      "A relative belonging to the same biological family/lineage",
+      "A stranger",
+      "An enemy",
+      "A servant"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "A kinsman is a blood relative; canids (dogs, wolves, jackals) share direct evolutionary kinship."
+  },
+  {
+    "classLevel": 6,
+    "subject": "English",
+    "chapter": "Chapter 2: How the Dog Found Himself a New Master!",
+    "question": "What does the word 'Fierce' mean in the context of the Wolf's description?",
+    "options": [
+      "Violent, aggressive, and frightening",
+      "Gentle and calm",
+      "Tiny and weak",
+      "Lazy"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "'Fierce' describes an intimidating, menacing, and ferocious disposition."
+  },
+  {
+    "classLevel": 6,
+    "subject": "English",
+    "chapter": "Chapter 2: How the Dog Found Himself a New Master!",
+    "question": "What does 'sniff the air' mean as done by the Bear and the Lion in the forest?",
+    "options": [
+      "To draw in air through the nose to detect the scent of other animals or danger",
+      "To sneeze repeatedly",
+      "To blow cold wind",
+      "To fall asleep"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "Olfactory tracking enables wild animals to detect chemical pheromones and potential threats."
+  },
+  {
+    "classLevel": 6,
+    "subject": "English",
+    "chapter": "Chapter 2: How the Dog Found Himself a New Master!",
+    "question": "What does the phrase 'to take up service with someone' mean in the story?",
+    "options": [
+      "To become someone's loyal servant or employee",
+      "To fight against someone",
+      "To invite someone for dinner",
+      "To arrest someone"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "The idiom denotes pledging one's labor, allegiance, and dutiful service to a designated superior."
+  },
+  {
+    "classLevel": 6,
+    "subject": "English",
+    "chapter": "Chapter 2: How the Dog Found Himself a New Master!",
+    "question": "How long did the dog serve the Lion before deciding to leave him?",
+    "options": [
+      "For a long, long time with great peace and satisfaction, until a man passed by",
+      "Only for one afternoon",
+      "For two days",
+      "He never served the Lion"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "The dog enjoyed a long, tranquil life with the Lion because no other beast dared offend the King of the forest."
+  },
+  {
+    "classLevel": 6,
+    "subject": "English",
+    "chapter": "Chapter 2: How the Dog Found Himself a New Master!",
+    "question": "What does 'cliff' mean in the line: 'They walked on until the lion stopped near a bare cliff'?",
+    "options": [
+      "A steep, high rock face / precipice",
+      "A sandy beach",
+      "A river bridge",
+      "A dense bush"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "A cliff is an exposed vertical or near-vertical rocky precipice."
+  },
+  {
+    "classLevel": 6,
+    "subject": "English",
+    "chapter": "Chapter 2: How the Dog Found Himself a New Master!",
+    "question": "In 'The Kite', when the wind falls, what happens to the kite's string?",
+    "options": [
+      "The string goes slack, and the child winds it back on the reel",
+      "The kite snaps into space",
+      "The kite turns into a bird",
+      "The string catches fire"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "As aerodynamic lift drops, the tethering line loses tension, requiring the flier to wind the spool."
+  },
+  {
+    "classLevel": 6,
+    "subject": "English",
+    "chapter": "Chapter 2: How the Dog Found Himself a New Master!",
+    "question": "What is the relationship between dogs and humans since the events of the folk legend?",
+    "options": [
+      "The dog serves Man faithfully and knows no other master to this day",
+      "Dogs returned to live in the wild as wolves",
+      "Dogs became wild enemies of humans",
+      "Dogs only serve lions now"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "The tale concludes that canine domestication established an enduring bond of unparalleled fidelity to humanity."
+  },
+  {
+    "classLevel": 6,
+    "subject": "English",
+    "chapter": "Chapter 2: How the Dog Found Himself a New Master!",
+    "question": "Read the statements:\nAssertion (A): The dog's quest demonstrates a logical process of progressive elimination.\nReason (R): Each time the dog discovered a vulnerability or fear in his master (Wolf fearing Bear, Bear fearing Lion, Lion fearing Man), he systematically migrated his allegiance to the superior power.\nChoose the correct option:",
+    "options": [
+      "Both (A) and (R) are true, and (R) is the correct explanation of (A).",
+      "Both (A) and (R) are true, but (R) is NOT the correct explanation of (A).",
+      "(A) is true, but (R) is false.",
+      "(A) is false, but (R) is true."
+    ],
+    "correctAnswer": 0,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "The folk narrative operates on a clear hierarchy of power where each tier reveals a superior predator until reaching apex human intellect."
+  },
+  {
+    "classLevel": 6,
+    "subject": "English",
+    "chapter": "Chapter 2: How the Dog Found Himself a New Master!",
+    "question": "Spot the IMPOSTER in the following list of collective nouns paired with animal groups:\nGroup: [A pride of lions, A herd of cattle, A flock of sheep, A pack of bears]",
+    "options": [
+      "A pride of lions",
+      "A herd of cattle",
+      "A flock of sheep",
+      "A pack of bears"
+    ],
+    "correctAnswer": 3,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "A group of bears is called 'a sloth of bears' or 'a sleuth of bears', NOT 'a pack' (which belongs to wolves/dogs)."
+  },
+  {
+    "classLevel": 6,
+    "subject": "English",
+    "chapter": "Chapter 2: How the Dog Found Himself a New Master!",
+    "question": "Match the following actions from the story with the emotions they express:\n(a) Lion strikes ground and roars -> (i) Frantic panic & self-preservation\n(b) Bear runs hastily into forest  -> (ii) Alarm at detecting human threat\n(c) Dog wags tail before man       -> (iii) Submission & lifelong loyalty\n(d) Wolf hides behind bushes      -> (iv) Fear of a larger predator (Bear)",
+    "options": [
+      "a-(ii), b-(i), c-(iii), d-(iv)",
+      "a-(i), b-(ii), c-(iii), d-(iv)",
+      "a-(iv), b-(iii), c-(ii), d-(i)",
+      "a-(iii), b-(iv), c-(i), d-(ii)"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "Accurately maps behavioral physical cues of wild predators to their internal psychological motivations in the text."
+  },
+  {
+    "classLevel": 6,
+    "subject": "English",
+    "chapter": "Chapter 2: How the Dog Found Himself a New Master!",
+    "question": "In the poem 'The Kite', what is the poetic significance of comparing a kite's flight to a ship riding the 'crest of a gust'?",
+    "options": [
+      "It captures the majestic, buoyant rhythm of soaring high over atmospheric thermal currents, mimicking a nautical vessel riding ocean swells",
+      "It shows that kites can float on ocean water",
+      "It means kites are made of heavy ship timber",
+      "It proves kites are used as anchors"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "Harry Behn evokes fluid dynamics: airflow lift beneath the paper sail mimics buoyant hydrodynamic waves beneath a schooner."
+  },
+  {
+    "classLevel": 6,
+    "subject": "English",
+    "chapter": "Chapter 2: How the Dog Found Himself a New Master!",
+    "question": "Read the statements from 'The Friendly Mongoose':\nStatement 1: The farmer trusted the mongoose, but his wife was deeply suspicious and fearful of wild instincts.\nStatement 2: The mongoose sacrificed its life to protect the child from a cobra.\nStatement 3: The farmer's wife rejoiced after killing the mongoose and threw a celebration.\nWhich statements are TRUE?",
+    "options": [
+      "Statements 1 and 2 only",
+      "Statements 2 and 3 only",
+      "Statements 1 and 3 only",
+      "All Statements 1, 2, and 3"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "Statement 3 is false because the farmer's wife wept bitterly in profound grief and repentance for her rash action."
+  },
+  {
+    "classLevel": 6,
+    "subject": "English",
+    "chapter": "Chapter 2: How the Dog Found Himself a New Master!",
+    "question": "Which of the following proverbs encapsulates the core theme of the folk tale 'How the Dog Found Himself a New Master!'?",
+    "options": [
+      "\"Wisdom and survival lie in choosing the right alliances.\"",
+      "\"A bird in hand is worth two in the bush.\"",
+      "\"Too many cooks spoil the broth.\"",
+      "\"All that glitters is not gold.\""
+    ],
+    "correctAnswer": 0,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "The dog exercises pragmatic social intelligence to secure lifelong survival and protection."
+  },
+  {
+    "classLevel": 6,
+    "subject": "English",
+    "chapter": "Chapter 2: How the Dog Found Himself a New Master!",
+    "question": "In grammar, what type of sentence is: 'Would you like to be my master, Wolf?'",
+    "options": [
+      "Interrogative sentence",
+      "Declarative sentence",
+      "Imperative sentence",
+      "Exclamatory sentence"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "A sentence that poses a direct question and ends with a question mark is an Interrogative sentence."
+  },
+  {
+    "classLevel": 6,
+    "subject": "English",
+    "chapter": "Chapter 2: How the Dog Found Himself a New Master!",
+    "question": "What is the antonym of the word 'Fierce' as used in describing gentle domestic animals?",
+    "options": [
+      "Tame / Gentle",
+      "Wild",
+      "Cruel",
+      "Ferocious"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "The opposite of fierce/ferocious is tame, mild, docile, or gentle."
+  },
+  {
+    "classLevel": 6,
+    "subject": "English",
+    "chapter": "Chapter 2: How the Dog Found Himself a New Master!",
+    "question": "Why did the Lion express genuine fear of Man, despite being the crowned King of Beasts?",
+    "options": [
+      "Man's superior intellect, tools, fire, and hunting weapons made humans the apex threat to all wild predators",
+      "Humans are physically three times larger than lions",
+      "Humans have sharp claws",
+      "Humans can run faster than cheetahs"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "Human technology, fire, and strategic cooperative hunting historically subdued even the fiercest megafauna."
+  },
+  {
+    "classLevel": 6,
+    "subject": "English",
+    "chapter": "Chapter 2: How the Dog Found Himself a New Master!",
+    "question": "What literary device is present in the line: 'With a dive and a dip it snaps its tail'?",
+    "options": [
+      "Alliteration (repetition of 'd' consonant sound)",
+      "Hyperbole",
+      "Personification",
+      "Irony"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "The rhythmic repetition of the initial consonant sound /d/ in 'dive and dip' is classical Alliteration."
+  },
+  {
+    "classLevel": 6,
+    "subject": "English",
+    "chapter": "Chapter 2: How the Dog Found Himself a New Master!",
+    "question": "In 'The Friendly Mongoose', what psychological bias caused the mother to believe the blood on the pet's paws was her son's?",
+    "options": [
+      "Confirmation bias / deep-seated prejudice against the wild origin of the mongoose",
+      "Complete loss of eyesight",
+      "Memory loss",
+      "Dreaming while awake"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "Her pre-existing anxiety that 'a wild beast cannot be trusted' made her instinctively assume guilt upon seeing blood."
+  },
+  {
+    "classLevel": 6,
+    "subject": "English",
+    "chapter": "Chapter 2: How the Dog Found Himself a New Master!",
+    "question": "Complete the analogical relationship: Wolf is to Pack as Lion is to ______",
+    "options": [
+      "Pride",
+      "Flock",
+      "Herd",
+      "Swarm"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "Wolves associate in a pack; lions live and hunt collectively in a social family group called a 'pride'."
+  },
+  {
+    "classLevel": 6,
+    "subject": "GK",
+    "chapter": "Chapter 2: Famous Personalities & Leaders of India",
+    "question": "Who is universally revered as the 'Father of the Nation' in India?",
+    "options": [
+      "Mahatma Gandhi (Mohandas Karamchand Gandhi)",
+      "Jawaharlal Nehru",
+      "Subhas Chandra Bose",
+      "Sardar Vallabhbhai Patel"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "Mahatma Gandhi led India's non-violent independence struggle through Satyagraha and Ahimsa."
+  },
+  {
+    "classLevel": 6,
+    "subject": "GK",
+    "chapter": "Chapter 2: Famous Personalities & Leaders of India",
+    "question": "Who was the first Prime Minister of independent India, lovingly called 'Chacha Nehru' by children?",
+    "options": [
+      "Pandit Jawaharlal Nehru",
+      "Lal Bahadur Shastri",
+      "Indira Gandhi",
+      "Dr. Rajendra Prasad"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "Pandit Jawaharlal Nehru served as the first Prime Minister of independent India from 1947 to 1964."
+  },
+  {
+    "classLevel": 6,
+    "subject": "GK",
+    "chapter": "Chapter 2: Famous Personalities & Leaders of India",
+    "question": "Who was the first President of the Republic of India?",
+    "options": [
+      "Dr. Rajendra Prasad",
+      "Dr. S. Radhakrishnan",
+      "Dr. Zakir Husain",
+      "V.V. Giri"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "Dr. Rajendra Prasad was elected the first President of India, serving from 1950 to 1962."
+  },
+  {
+    "classLevel": 6,
+    "subject": "GK",
+    "chapter": "Chapter 2: Famous Personalities & Leaders of India",
+    "question": "Who is known as the 'Architect / Father of the Indian Constitution'?",
+    "options": [
+      "Dr. Bhimrao Ramji Ambedkar",
+      "Mahatma Gandhi",
+      "Dr. B.N. Rau",
+      "Sardar Patel"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "Dr. B.R. Ambedkar was the Chairman of the Drafting Committee of the Constituent Assembly."
+  },
+  {
+    "classLevel": 6,
+    "subject": "GK",
+    "chapter": "Chapter 2: Famous Personalities & Leaders of India",
+    "question": "Who is renowned as the 'Iron Man of India' (Lauh Purush) for integrating over 560 princely states into the Indian Union?",
+    "options": [
+      "Sardar Vallabhbhai Patel",
+      "Bal Gangadhar Tilak",
+      "Bhagat Singh",
+      "Lala Lajpat Rai"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "Sardar Patel served as India's first Deputy Prime Minister and Home Minister, unifying the nation."
+  },
+  {
+    "classLevel": 6,
+    "subject": "GK",
+    "chapter": "Chapter 2: Famous Personalities & Leaders of India",
+    "question": "Who founded the Indian National Army (Azad Hind Fauj) and gave the famous rallying cry 'Jai Hind'?",
+    "options": [
+      "Netaji Subhas Chandra Bose",
+      "Chandra Shekhar Azad",
+      "Bhagat Singh",
+      "Ashfaqulla Khan"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "Netaji Subhas Chandra Bose reorganized the INA to liberate India from British colonial rule."
+  },
+  {
+    "classLevel": 6,
+    "subject": "GK",
+    "chapter": "Chapter 2: Famous Personalities & Leaders of India",
+    "question": "Who is known as the 'Nightingale of India' (Bharat Kokila) for her exquisite lyrical poetry and patriotic leadership?",
+    "options": [
+      "Sarojini Naidu",
+      "Lata Mangeshkar",
+      "Kamala Nehru",
+      "Kasturba Gandhi"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "Sarojini Naidu was a renowned poet and became the first woman Governor of an Indian state (Uttar Pradesh)."
+  },
+  {
+    "classLevel": 6,
+    "subject": "GK",
+    "chapter": "Chapter 2: Famous Personalities & Leaders of India",
+    "question": "Who was the first Indian to receive a Nobel Prize (Nobel Prize in Literature in 1913 for 'Gitanjali')?",
+    "options": [
+      "Rabindranath Tagore",
+      "Sir C.V. Raman",
+      "Mother Teresa",
+      "Amartya Sen"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "Rabindranath Tagore received the 1913 Nobel Prize in Literature for his profound spiritual anthology 'Gitanjali'."
+  },
+  {
+    "classLevel": 6,
+    "subject": "GK",
+    "chapter": "Chapter 2: Famous Personalities & Leaders of India",
+    "question": "Who is celebrated as the 'Missile Man of India' and served as the 11th President of India?",
+    "options": [
+      "Dr. A.P.J. Abdul Kalam",
+      "Dr. Homi J. Bhabha",
+      "Dr. Vikram Sarabhai",
+      "Dr. K. Sivan"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "Dr. Kalam spearheaded India's Integrated Guided Missile Development Program (Agni and Prithvi)."
+  },
+  {
+    "classLevel": 6,
+    "subject": "GK",
+    "chapter": "Chapter 2: Famous Personalities & Leaders of India",
+    "question": "Whose birthday on 5th September is celebrated across India as 'National Teachers' Day'?",
+    "options": [
+      "Dr. Sarvepalli Radhakrishnan",
+      "Swami Vivekananda",
+      "Ishwar Chandra Vidyasagar",
+      "Savitribai Phule"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "Dr. S. Radhakrishnan was a philosopher, scholar, and the 2nd President of India."
+  },
+  {
+    "classLevel": 6,
+    "subject": "GK",
+    "chapter": "Chapter 2: Famous Personalities & Leaders of India",
+    "question": "Who gave the famous freedom slogan: 'Swaraj is my birthright and I shall have it!'?",
+    "options": [
+      "Bal Gangadhar Tilak",
+      "Lala Lajpat Rai",
+      "Bipin Chandra Pal",
+      "Gopal Krishna Gokhale"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "Lokmanya Bal Gangadhar Tilak raised this electrifying proclamation during the nationalist Swadeshi movement."
+  },
+  {
+    "classLevel": 6,
+    "subject": "GK",
+    "chapter": "Chapter 2: Famous Personalities & Leaders of India",
+    "question": "Who was the first woman Prime Minister of the Republic of India?",
+    "options": [
+      "Indira Gandhi",
+      "Pratibha Patil",
+      "Sushma Swaraj",
+      "Sarojini Naidu"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "Indira Gandhi served as Prime Minister from 1966 to 1977 and again from 1980 to 1984."
+  },
+  {
+    "classLevel": 6,
+    "subject": "GK",
+    "chapter": "Chapter 2: Famous Personalities & Leaders of India",
+    "question": "Who is regarded as the 'Father of the Indian Space Program'?",
+    "options": [
+      "Dr. Vikram Sarabhai",
+      "Dr. Homi Bhabha",
+      "Dr. Satish Dhawan",
+      "Dr. A.P.J. Abdul Kalam"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "Dr. Vikram Sarabhai founded INCOSPAR (later ISRO) and established the Thumba Equatorial Rocket Launching Station."
+  },
+  {
+    "classLevel": 6,
+    "subject": "GK",
+    "chapter": "Chapter 2: Famous Personalities & Leaders of India",
+    "question": "Who was the legendary female ruler of Jhansi who fought valiantly against British forces in the Revolt of 1857?",
+    "options": [
+      "Rani Lakshmibai (Manikarnika)",
+      "Begum Hazrat Mahal",
+      "Rani Chennamma",
+      "Rani Avantibai"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "Rani Lakshmibai led the defense of Jhansi, martyred on the battlefield in Gwalior in June 1858."
+  },
+  {
+    "classLevel": 6,
+    "subject": "GK",
+    "chapter": "Chapter 2: Famous Personalities & Leaders of India",
+    "question": "Who gave the famous call 'Jai Jawan, Jai Kisan' during the 1965 war to inspire soldiers and agricultural farmers?",
+    "options": [
+      "Lal Bahadur Shastri",
+      "Jawaharlal Nehru",
+      "Morarji Desai",
+      "Gulzarilal Nanda"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "Prime Minister Lal Bahadur Shastri coined the historic slogan at the Ramlila Maidan in 1965."
+  },
+  {
+    "classLevel": 6,
+    "subject": "GK",
+    "chapter": "Chapter 2: Famous Personalities & Leaders of India",
+    "question": "Which Indian physicist won the Nobel Prize in Physics in 1930 for his groundbreaking discovery of the scattering of light?",
+    "options": [
+      "Sir C.V. Raman (Chandrasekhara Venkata Raman)",
+      "Satyendra Nath Bose",
+      "Meghnad Saha",
+      "Jagadish Chandra Bose"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "The 'Raman Effect' explains inelastic scattering of photons; 28 February is celebrated as National Science Day in his honor."
+  },
+  {
+    "classLevel": 6,
+    "subject": "GK",
+    "chapter": "Chapter 2: Famous Personalities & Leaders of India",
+    "question": "Who delivered the historic speech introducing Hinduism and universal tolerance at the Parliament of the World's Religions in Chicago in 1893?",
+    "options": [
+      "Swami Vivekananda (Narendranath Datta)",
+      "Ramakrishna Paramahamsa",
+      "Swami Dayananda Saraswati",
+      "Sri Aurobindo"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "Swami Vivekananda opened with 'Sisters and brothers of America', receiving a two-minute standing ovation."
+  },
+  {
+    "classLevel": 6,
+    "subject": "GK",
+    "chapter": "Chapter 2: Famous Personalities & Leaders of India",
+    "question": "Who is recognized as the pioneer of women's education in India and started the first school for girls in Pune in 1848?",
+    "options": [
+      "Savitribai Phule (along with Jyotirao Phule)",
+      "Annie Besant",
+      "Sarojini Naidu",
+      "Pandita Ramabai"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "Savitribai Phule was India's first modern female teacher and crusader against caste and gender oppression."
+  },
+  {
+    "classLevel": 6,
+    "subject": "GK",
+    "chapter": "Chapter 2: Famous Personalities & Leaders of India",
+    "question": "Which legendary freedom fighter was martyred at the age of 23 in Lahore Central Jail on 23 March 1931?",
+    "options": [
+      "Bhagat Singh (Shaheed Bhagat Singh)",
+      "Chandra Shekhar Azad",
+      "Ram Prasad Bismil",
+      "Udham Singh"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "Bhagat Singh, alongside Sukhdev and Rajguru, made the supreme sacrifice; 23 March is observed as Shaheed Diwas."
+  },
+  {
+    "classLevel": 6,
+    "subject": "GK",
+    "chapter": "Chapter 2: Famous Personalities & Leaders of India",
+    "question": "What is the world's tallest statue (182 meters) located near Kevadia, Gujarat dedicated to?",
+    "options": [
+      "Statue of Unity (dedicated to Sardar Vallabhbhai Patel)",
+      "Statue of Equality",
+      "Statue of Peace",
+      "Statue of Liberty"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "The 182-meter Statue of Unity on the Narmada River honors Sardar Patel's historic integration of India."
+  },
+  {
+    "classLevel": 6,
+    "subject": "GK",
+    "chapter": "Chapter 2: Famous Personalities & Leaders of India",
+    "question": "Who was the first Indian citizen to travel into outer space on board the Soviet Soyuz T-11 spacecraft on 3 April 1984?",
+    "options": [
+      "Wing Commander Rakesh Sharma",
+      "Kalpana Chawla",
+      "Sunita Williams",
+      "Prashanth Nair"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "When asked by PM Indira Gandhi how India looked from space, Rakesh Sharma replied: 'Saare Jahan Se Achha'."
+  },
+  {
+    "classLevel": 6,
+    "subject": "GK",
+    "chapter": "Chapter 2: Famous Personalities & Leaders of India",
+    "question": "Who was the first woman of Indian origin in space, who tragically perished aboard the Space Shuttle Columbia in 2003?",
+    "options": [
+      "Dr. Kalpana Chawla",
+      "Sunita Williams",
+      "Sirisha Bandla",
+      "Bachendri Pal"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "Aeronautical engineer Kalpana Chawla from Karnal, Haryana flew on STS-87 (1997) and STS-107 (2003)."
+  },
+  {
+    "classLevel": 6,
+    "subject": "GK",
+    "chapter": "Chapter 2: Famous Personalities & Leaders of India",
+    "question": "Who was the first Indian woman to climb the summit of Mount Everest in May 1984?",
+    "options": [
+      "Bachendri Pal",
+      "Santosh Yadav",
+      "Arunima Sinha",
+      "Premlata Agarwal"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "Bachendri Pal reached the 8,848 m summit of Everest as the first Indian woman mountaineer on 23 May 1984."
+  },
+  {
+    "classLevel": 6,
+    "subject": "GK",
+    "chapter": "Chapter 2: Famous Personalities & Leaders of India",
+    "question": "Who was the legendary field hockey wizard of India who won three consecutive Olympic gold medals (1928, 1932, 1936)?",
+    "options": [
+      "Major Dhyan Chand",
+      "Balbir Singh Sr.",
+      "K.D. Singh Babu",
+      "Dhanraj Pillay"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "Major Dhyan Chand's birthday on 29 August is celebrated annually as India's National Sports Day."
+  },
+  {
+    "classLevel": 6,
+    "subject": "GK",
+    "chapter": "Chapter 2: Famous Personalities & Leaders of India",
+    "question": "Who is universally celebrated as the 'Father of Indian Nuclear Program'?",
+    "options": [
+      "Dr. Homi Jehangir Bhabha",
+      "Dr. Vikram Sarabhai",
+      "Dr. Raja Ramanna",
+      "Dr. A.P.J. Abdul Kalam"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "Dr. Bhabha founded the Tata Institute of Fundamental Research (TIFR) and the Atomic Energy Establishment at Trombay (now BARC)."
+  },
+  {
+    "classLevel": 6,
+    "subject": "GK",
+    "chapter": "Chapter 2: Famous Personalities & Leaders of India",
+    "question": "Who was the first woman President of the Republic of India?",
+    "options": [
+      "Pratibha Devisingh Patil",
+      "Droupadi Murmu",
+      "Indira Gandhi",
+      "Sarojini Naidu"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "Pratibha Patil served as the 12th President of India from 2007 to 2012 as the first woman head of state."
+  },
+  {
+    "classLevel": 6,
+    "subject": "GK",
+    "chapter": "Chapter 2: Famous Personalities & Leaders of India",
+    "question": "Who is known as the 'Father of the Green Revolution in India' for introducing high-yielding semi-dwarf wheat varieties?",
+    "options": [
+      "Dr. M.S. Swaminathan",
+      "Dr. Verghese Kurien",
+      "Dr. Norman Borlaug",
+      "Dr. Birbal Sahni"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "Agronomist Dr. M.S. Swaminathan transformed Indian agriculture, averting widespread famine in the 1960s."
+  },
+  {
+    "classLevel": 6,
+    "subject": "GK",
+    "chapter": "Chapter 2: Famous Personalities & Leaders of India",
+    "question": "Who is known as the 'Father of the White Revolution / Milk Revolution (Operation Flood)' in India?",
+    "options": [
+      "Dr. Verghese Kurien",
+      "Dr. M.S. Swaminathan",
+      "Amul Kumar",
+      "Tribhuvandas Patel"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "Dr. Verghese Kurien engineered the cooperative dairy model (Amul), making India the world's largest milk producer."
+  },
+  {
+    "classLevel": 6,
+    "subject": "GK",
+    "chapter": "Chapter 2: Famous Personalities & Leaders of India",
+    "question": "Read the statements:\nAssertion (A): National Science Day is celebrated in India every year on 28th February.\nReason (R): On 28 February 1928, Sir C.V. Raman discovered the 'Raman Effect', for which he was awarded the Nobel Prize in Physics in 1930.\nChoose the correct option:",
+    "options": [
+      "Both (A) and (R) are true, and (R) is the correct explanation of (A).",
+      "Both (A) and (R) are true, but (R) is NOT the correct explanation of (A).",
+      "(A) is true, but (R) is false.",
+      "(A) is false, but (R) is true."
+    ],
+    "correctAnswer": 0,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "National Science Day commemorates the discovery date (28 Feb 1928) of Raman inelastic light scattering."
+  },
+  {
+    "classLevel": 6,
+    "subject": "GK",
+    "chapter": "Chapter 2: Famous Personalities & Leaders of India",
+    "question": "Spot the IMPOSTER in the following list of iconic Indian leaders and their popular honorific titles:\nGroup: [Sardar Patel - Lauh Purush, Bal Gangadhar Tilak - Lokmanya, Lala Lajpat Rai - Punjab Kesari, Subhas Chandra Bose - Gurudev]",
+    "options": [
+      "Sardar Patel - Lauh Purush",
+      "Bal Gangadhar Tilak - Lokmanya",
+      "Lala Lajpat Rai - Punjab Kesari",
+      "Subhas Chandra Bose - Gurudev"
+    ],
+    "correctAnswer": 3,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "'Gurudev' is the honorific bestowed upon Rabindranath Tagore; Subhas Chandra Bose was addressed as 'Netaji'."
+  },
+  {
+    "classLevel": 6,
+    "subject": "GK",
+    "chapter": "Chapter 2: Famous Personalities & Leaders of India",
+    "question": "Match the following historical figures with the organizations/institutions they founded:\n(a) Raja Ram Mohan Roy   -> (i) Ramakrishna Mission (1897)\n(b) Swami Vivekananda     -> (ii) Brahmo Samaj (1828)\n(c) Dayananda Saraswati   -> (iii) Banaras Hindu University (1916)\n(d) Madan Mohan Malaviya  -> (iv) Arya Samaj (1875)",
+    "options": [
+      "a-(ii), b-(i), c-(iv), d-(iii)",
+      "a-(i), b-(ii), c-(iii), d-(iv)",
+      "a-(iv), b-(iii), c-(ii), d-(i)",
+      "a-(iii), b-(iv), c-(i), d-(ii)"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "Ram Mohan Roy = Brahmo Samaj; Vivekananda = Ramakrishna Mission; Dayananda = Arya Samaj; Malaviya = BHU."
+  },
+  {
+    "classLevel": 6,
+    "subject": "GK",
+    "chapter": "Chapter 2: Famous Personalities & Leaders of India",
+    "question": "Who was the brilliant Indian self-taught mathematical genius whose birthday on 22 December is celebrated as 'National Mathematics Day'?",
+    "options": [
+      "Srinivasa Ramanujan",
+      "Aryabhata",
+      "Brahmagupta",
+      "Prasanta Chandra Mahalanobis"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "Srinivasa Ramanujan contributed profound theorems in infinite series, elliptic integrals, and partition theory (Hardy-Ramanujan 1729)."
+  },
+  {
+    "classLevel": 6,
+    "subject": "GK",
+    "chapter": "Chapter 2: Famous Personalities & Leaders of India",
+    "question": "Read the statements regarding India's first President and Prime Minister:\nStatement 1: Dr. Rajendra Prasad was the President of the Constituent Assembly before becoming President of India.\nStatement 2: Jawaharlal Nehru delivered the famous 'Tryst with Destiny' speech at the midnight of 14-15 August 1947.\nStatement 3: Dr. B.R. Ambedkar was the first Defence Minister of India.\nWhich statements are TRUE?",
+    "options": [
+      "Statements 1 and 2 only",
+      "Statements 2 and 3 only",
+      "Statements 1 and 3 only",
+      "All Statements 1, 2, and 3"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "Statement 3 is false because Dr. B.R. Ambedkar was India's first Law Minister; Baldev Singh was the first Defence Minister."
+  },
+  {
+    "classLevel": 6,
+    "subject": "GK",
+    "chapter": "Chapter 2: Famous Personalities & Leaders of India",
+    "question": "Who was the first Chief Election Commissioner of independent India who successfully supervised the first historic General Elections of 1951-52?",
+    "options": [
+      "Sukumar Sen",
+      "T.N. Seshan",
+      "K.V.K. Sundaram",
+      "S.P. Sen Verma"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "Civil servant Sukumar Sen orchestrated the massive logistical feat of India's first universal adult franchise elections."
+  },
+  {
+    "classLevel": 6,
+    "subject": "GK",
+    "chapter": "Chapter 2: Famous Personalities & Leaders of India",
+    "question": "Which Indian scientist proved that plants have life and sensitivity by inventing the Crescograph to measure microscopic plant growth?",
+    "options": [
+      "Sir Jagadish Chandra Bose",
+      "Birbal Sahni",
+      "Prafulla Chandra Ray",
+      "Salim Ali"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "Polymath J.C. Bose pioneered plant biophysics and millimeter microwave wireless signaling."
+  },
+  {
+    "classLevel": 6,
+    "subject": "GK",
+    "chapter": "Chapter 2: Famous Personalities & Leaders of India",
+    "question": "Who was the renowned ornithologist celebrated as the 'Birdman of India' for systematically cataloguing Indian avifauna?",
+    "options": [
+      "Dr. Salim Ali",
+      "Dr. M.S. Swaminathan",
+      "Jim Corbett",
+      "Sundarlal Bahuguna"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "Dr. Salim Ali conducted pioneering bird surveys across the subcontinent and wrote 'The Book of Indian Birds'."
+  },
+  {
+    "classLevel": 6,
+    "subject": "GK",
+    "chapter": "Chapter 2: Famous Personalities & Leaders of India",
+    "question": "Who led the famous non-violent Chipko Movement in the Garhwal Himalayas in the 1970s to protect forest trees from commercial felling?",
+    "options": [
+      "Sundarlal Bahuguna and Chandi Prasad Bhatt",
+      "Medha Patkar",
+      "Baba Amte",
+      "Anna Hazare"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "Environmentalist Sundarlal Bahuguna coined the Chipko slogan: 'Ecology is permanent economy'."
+  },
+  {
+    "classLevel": 6,
+    "subject": "GK",
+    "chapter": "Chapter 2: Famous Personalities & Leaders of India",
+    "question": "Consider four Bharat Ratna awardees:\n1. Dr. S. Radhakrishnan (1954)\n2. Sir C.V. Raman (1954)\n3. C. Rajagopalachari (1954)\n4. Sachin Tendulkar (2014)\nWho among these received the Bharat Ratna in its very inaugural year (1954)?",
+    "options": [
+      "1, 2, and 3 only",
+      "4 only",
+      "1 and 2 only",
+      "All 1, 2, 3, and 4"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "The first three recipients of Bharat Ratna in 1954 were Rajagopalachari, Radhakrishnan, and C.V. Raman."
+  },
+  {
+    "classLevel": 6,
+    "subject": "GK",
+    "chapter": "Chapter 2: Famous Personalities & Leaders of India",
+    "question": "Who was the first tribal woman and youngest person to be elected President of the Republic of India in 2022?",
+    "options": [
+      "Droupadi Murmu",
+      "Pratibha Patil",
+      "Meira Kumar",
+      "Najma Heptulla"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "Smt. Droupadi Murmu from Odisha became the 15th President of India and the first from a tribal community (Santhal)."
+  },
+  {
+    "classLevel": 6,
+    "subject": "GK",
+    "chapter": "Chapter 2: Famous Personalities & Leaders of India",
+    "question": "Which Indian social reformer and saint from Maharashtra established the Anandwan rehabilitation community for leprosy patients?",
+    "options": [
+      "Baba Amte (Murlidhar Devidas Amte)",
+      "Vinoba Bhave",
+      "Sant Gadge Maharaj",
+      "Acharya Tulsi"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "Magsaysay and Templeton laureate Baba Amte dedicated his life to the dignified care and empowerment of leprosy sufferers."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Social Science",
+    "chapter": "Chapter 2: Globe: Latitudes and Longitudes",
+    "question": "What is a true miniature model / three-dimensional representation of the Earth called?",
+    "options": [
+      "A Globe",
+      "A Map",
+      "A Diagram",
+      "A Sketch"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "A globe is a true spherical miniature model of planet Earth showing correct relative shapes and sizes of continents and oceans."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Social Science",
+    "chapter": "Chapter 2: Globe: Latitudes and Longitudes",
+    "question": "The imaginary line dividing the globe horizontally into two equal halves (Northern and Southern Hemispheres) is the:",
+    "options": [
+      "Equator (0° Latitude)",
+      "Prime Meridian",
+      "Tropic of Cancer",
+      "Arctic Circle"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "The Equator represents 0° latitude, dividing the terrestrial sphere into Northern and Southern Hemispheres."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Social Science",
+    "chapter": "Chapter 2: Globe: Latitudes and Longitudes",
+    "question": "What is the latitude value of the North Pole?",
+    "options": [
+      "90° North (90° N)",
+      "0°",
+      "180° N",
+      "45° N"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "The North Pole marks the northernmost axial point on Earth, defined exactly as 90° North latitude."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Social Science",
+    "chapter": "Chapter 2: Globe: Latitudes and Longitudes",
+    "question": "What is the latitude value of the South Pole?",
+    "options": [
+      "90° South (90° S)",
+      "0°",
+      "180° S",
+      "45° S"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "The South Pole marks the southernmost axial point on Earth, designated as 90° South latitude."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Social Science",
+    "chapter": "Chapter 2: Globe: Latitudes and Longitudes",
+    "question": "What is the angular latitude value of the Tropic of Cancer in the Northern Hemisphere?",
+    "options": [
+      "23½° N (23° 30' N)",
+      "66½° N",
+      "23½° S",
+      "0°"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "The Tropic of Cancer is situated at 23.5° North of the Equator, marking the northern boundary of the Torrid Zone."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Social Science",
+    "chapter": "Chapter 2: Globe: Latitudes and Longitudes",
+    "question": "What is the angular latitude value of the Tropic of Capricorn in the Southern Hemisphere?",
+    "options": [
+      "23½° S (23° 30' S)",
+      "23½° N",
+      "66½° S",
+      "90° S"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "The Tropic of Capricorn is located at 23.5° South of the Equator."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Social Science",
+    "chapter": "Chapter 2: Globe: Latitudes and Longitudes",
+    "question": "What is the latitude of the Arctic Circle?",
+    "options": [
+      "66½° N (66° 30' N)",
+      "66½° S",
+      "23½° N",
+      "90° N"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "The Arctic Circle is located at 66.5° North of the Equator in the Northern Hemisphere."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Social Science",
+    "chapter": "Chapter 2: Globe: Latitudes and Longitudes",
+    "question": "What is the latitude of the Antarctic Circle?",
+    "options": [
+      "66½° S (66° 30' S)",
+      "66½° N",
+      "23½° S",
+      "90° S"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "The Antarctic Circle lies at 66.5° South of the Equator in the Southern Hemisphere."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Social Science",
+    "chapter": "Chapter 2: Globe: Latitudes and Longitudes",
+    "question": "Which thermal zone of the Earth receives the maximum heat because the midday sun is exactly overhead at least once a year?",
+    "options": [
+      "Torrid Zone (between Tropic of Cancer and Tropic of Capricorn)",
+      "North Frigid Zone",
+      "South Frigid Zone",
+      "Temperate Zone"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "The Torrid Zone receives direct perpendicular solar rays throughout the year, experiencing maximum thermal insolation."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Social Science",
+    "chapter": "Chapter 2: Globe: Latitudes and Longitudes",
+    "question": "The reference meridian of longitude passing through Greenwich (near London, UK) is called the:",
+    "options": [
+      "Prime Meridian (0° Longitude)",
+      "Equator",
+      "International Date Line",
+      "Tropic of Cancer"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "The Prime Meridian at 0° longitude passes through the British Royal Astronomical Observatory at Greenwich."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Social Science",
+    "chapter": "Chapter 2: Globe: Latitudes and Longitudes",
+    "question": "How many total degrees of longitude exist around the entire spherical Earth?",
+    "options": [
+      "360° (180° East and 180° West)",
+      "180°",
+      "90°",
+      "100°"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "A complete circle around Earth comprises 360° of longitude (180° East + 180° West meeting at 180°)."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Social Science",
+    "chapter": "Chapter 2: Globe: Latitudes and Longitudes",
+    "question": "What is the network or criss-cross mesh of parallels of latitude and meridians of longitude called?",
+    "options": [
+      "Geographic Grid",
+      "Globe axis",
+      "Time zone",
+      "Contour"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "The geographic coordinate grid allows precise localization of any point on Earth's surface."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Social Science",
+    "chapter": "Chapter 2: Globe: Latitudes and Longitudes",
+    "question": "Why are the Frigid Zones (beyond Arctic and Antarctic Circles) extremely cold throughout the year?",
+    "options": [
+      "The Sun never rises high above the horizon, and its rays are always slanting and diffused over a large surface area",
+      "Earth is farthest from the Moon there",
+      "Clouds permanently block 100% of air",
+      "Gravity is zero at the poles"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "High-angle obliquity spreads incoming solar flux over wide surface areas, generating minimal surface warming."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Social Science",
+    "chapter": "Chapter 2: Globe: Latitudes and Longitudes",
+    "question": "How does the distance between two meridians of longitude change as one travels from the Equator towards the Poles?",
+    "options": [
+      "The distance steadily decreases until it becomes zero at the poles where all meridians converge",
+      "The distance increases",
+      "The distance remains constant everywhere",
+      "It doubles at 45° latitude"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "Meridians are semi-circles converging at the poles; inter-meridian distance is maximum at Equator (~111 km) and 0 at poles."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Social Science",
+    "chapter": "Chapter 2: Globe: Latitudes and Longitudes",
+    "question": "As the Earth rotates 360° on its axis in 24 hours, how many degrees of longitude does it rotate in ONE hour?",
+    "options": [
+      "15° per hour (360° ÷ 24 = 15°)",
+      "10° per hour",
+      "20° per hour",
+      "1° per hour"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "Earth rotates 360° in 24 hours = 15° longitude per 60 minutes = 1° longitude every 4 minutes."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Social Science",
+    "chapter": "Chapter 2: Globe: Latitudes and Longitudes",
+    "question": "How much time difference corresponds to a difference of 1° of longitude?",
+    "options": [
+      "4 minutes",
+      "15 minutes",
+      "1 hour",
+      "1 minute"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "60 minutes ÷ 15° = 4 minutes per 1° change in terrestrial longitude."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Social Science",
+    "chapter": "Chapter 2: Globe: Latitudes and Longitudes",
+    "question": "What is the official Standard Meridian of India chosen to fix the Indian Standard Time (IST)?",
+    "options": [
+      "82° 30' E (82½° East passing through Mirzapur, UP)",
+      "80° E",
+      "75° E",
+      "90° E"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "82°30' E passing through Mirzapur/Prayagraj is the official Standard Meridian of India."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Social Science",
+    "chapter": "Chapter 2: Globe: Latitudes and Longitudes",
+    "question": "How much is Indian Standard Time (IST) ahead of Greenwich Mean Time (GMT)?",
+    "options": [
+      "5 hours and 30 minutes ahead (+5:30)",
+      "5 hours behind",
+      "6 hours ahead",
+      "4 hours and 30 minutes ahead"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "82.5° × 4 minutes = 330 minutes = +5 hours 30 minutes ahead of Greenwich (0°)."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Social Science",
+    "chapter": "Chapter 2: Globe: Latitudes and Longitudes",
+    "question": "What is the approximate local time difference between Dwarka in Gujarat (western tip) and Dibrugarh in Assam (eastern tip) of India?",
+    "options": [
+      "About 1 hour and 45 minutes",
+      "30 minutes",
+      "3 hours",
+      "Zero minutes"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "India spans ~30° longitude (68°7' E to 97°25' E); 30° × 4 min = 120 min ≈ 1 hr 45 min local solar time difference."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Social Science",
+    "chapter": "Chapter 2: Globe: Latitudes and Longitudes",
+    "question": "Why do places situated to the EAST of Greenwich gain time and are ahead of GMT?",
+    "options": [
+      "Because Earth rotates on its axis from West to East, so eastern places experience sunrise earlier",
+      "Because the Sun rotates from East to West",
+      "Because Greenwich is at the highest mountain",
+      "Because clocks run faster in the east"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "Prograde west-to-east axial spin brings eastern longitudes into solar view ahead of western coordinates."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Social Science",
+    "chapter": "Chapter 2: Globe: Latitudes and Longitudes",
+    "question": "Which of the following thermal zones lies between the Tropic of Cancer (23½° N) and the Arctic Circle (66½° N)?",
+    "options": [
+      "North Temperate Zone (moderate climate)",
+      "Torrid Zone",
+      "North Frigid Zone",
+      "South Temperate Zone"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "The Temperate Zones experience moderate temperatures with neither extreme tropical heat nor polar freezing."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Social Science",
+    "chapter": "Chapter 2: Globe: Latitudes and Longitudes",
+    "question": "What happens to the size / circumference of the parallels of latitude as we move from the Equator towards the poles?",
+    "options": [
+      "The length of the parallel circles decreases progressively until they become mere points at the poles",
+      "They become larger",
+      "They stay the exact same size",
+      "They become straight lines"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "Parallels are small circles of radius R·cos(θ); circumference shrinks to zero at θ = 90° (poles)."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Social Science",
+    "chapter": "Chapter 2: Globe: Latitudes and Longitudes",
+    "question": "If it is 12:00 Noon at Greenwich (0°), what will be the local solar time at 15° East longitude?",
+    "options": [
+      "1:00 PM (13:00 hours)",
+      "11:00 AM",
+      "2:00 PM",
+      "12:15 PM"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "15° East is ahead by 15 × 4 min = 60 min (1 hour); 12:00 Noon + 1 hour = 1:00 PM."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Social Science",
+    "chapter": "Chapter 2: Globe: Latitudes and Longitudes",
+    "question": "If it is 12:00 Noon at Greenwich (0°), what will be the local solar time at 15° West longitude?",
+    "options": [
+      "11:00 AM",
+      "1:00 PM",
+      "10:00 AM",
+      "12:15 PM"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "15° West is behind by 15 × 4 min = 60 min (1 hour); 12:00 Noon - 1 hour = 11:00 AM."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Social Science",
+    "chapter": "Chapter 2: Globe: Latitudes and Longitudes",
+    "question": "How many standard time zones has the world been divided into, each spanning 15° of longitude?",
+    "options": [
+      "24 standard time zones",
+      "12 time zones",
+      "36 time zones",
+      "10 time zones"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "The planet is divided into 24 standard 1-hour time zones of 15° longitudinal width each (24 × 15° = 360°)."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Social Science",
+    "chapter": "Chapter 2: Globe: Latitudes and Longitudes",
+    "question": "Which country has the maximum number of standard time zones (11 time zones) due to its vast longitudinal extent?",
+    "options": [
+      "Russia",
+      "India",
+      "China",
+      "Australia"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "Spanning over 160° of longitude across Eurasia, Russia is divided into 11 official standard time zones."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Social Science",
+    "chapter": "Chapter 2: Globe: Latitudes and Longitudes",
+    "question": "What is the angle of tilt of the Earth's rotational axis from its orbital plane vertical?",
+    "options": [
+      "23½° (making an angle of 66½° with its orbital plane)",
+      "45°",
+      "0°",
+      "90°"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "Earth's rotational axis maintains a fixed 23.5° obliquity tilt from the perpendicular to its ecliptic orbital plane."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Social Science",
+    "chapter": "Chapter 2: Globe: Latitudes and Longitudes",
+    "question": "If a cricket match starts in London at 2:00 PM GMT, at what time will Indian viewers watch it live on TV (IST = GMT + 5:30)?",
+    "options": [
+      "7:30 PM IST",
+      "5:30 PM IST",
+      "8:00 PM IST",
+      "12:30 PM IST"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "2:00 PM + 5 hours 30 minutes = 7:30 PM IST in the evening."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Social Science",
+    "chapter": "Chapter 2: Globe: Latitudes and Longitudes",
+    "question": "Read the statements:\nAssertion (A): All meridians of longitude are equal in length, while parallels of latitude are unequal in length.\nReason (R): Longitudes are semi-circles running from the North Pole to the South Pole, whereas latitudes are complete concentric circles whose circumferences shrink towards the poles.\nChoose the correct option:",
+    "options": [
+      "Both (A) and (R) are true, and (R) is the correct explanation of (A).",
+      "Both (A) and (R) are true, but (R) is NOT the correct explanation of (A).",
+      "(A) is true, but (R) is false.",
+      "(A) is false, but (R) is true."
+    ],
+    "correctAnswer": 0,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "Every meridian is a pole-to-pole semi-circle (equal length ~20,000 km), whereas latitude circles shrink from 40,075 km at Equator to 0 km at poles."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Social Science",
+    "chapter": "Chapter 2: Globe: Latitudes and Longitudes",
+    "question": "Spot the IMPOSTER in the following list of important parallels of latitude and their values:\nGroup: [Tropic of Cancer - 23½° N, Tropic of Capricorn - 23½° S, Arctic Circle - 66½° N, Antarctic Circle - 66½° N]",
+    "options": [
+      "Tropic of Cancer - 23½° N",
+      "Tropic of Capricorn - 23½° S",
+      "Arctic Circle - 66½° N",
+      "Antarctic Circle - 66½° N"
+    ],
+    "correctAnswer": 3,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "'Antarctic Circle - 66½° N' is false; the Antarctic Circle is located at 66½° SOUTH (66° 30' S), not North."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Social Science",
+    "chapter": "Chapter 2: Globe: Latitudes and Longitudes",
+    "question": "A ship captain reports his position as 0° Latitude and 0° Longitude. Where is this vessel located on Earth?",
+    "options": [
+      "In the Atlantic Ocean off the coast of West Africa (Gulf of Guinea)",
+      "In the middle of the Indian Ocean",
+      "On the top of Mount Everest",
+      "In the Pacific Ocean"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "The intersection of the Equator (0° Lat) and the Prime Meridian (0° Long) is located in the Gulf of Guinea (Null Island) in the Atlantic Ocean."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Social Science",
+    "chapter": "Chapter 2: Globe: Latitudes and Longitudes",
+    "question": "Why does the mid-day sun NEVER shine directly overhead on any latitude beyond the Tropic of Cancer and Tropic of Capricorn?",
+    "options": [
+      "Because the maximum axial tilt of the Earth is 23½°, so subsolar point oscillations are bounded strictly between 23½° N and 23½° S",
+      "Because poles are too cold for sunlight",
+      "Because Earth is flat at the edges",
+      "Because the Sun shrinks in winter"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "Declination of the Sun is limited by Earth's 23.5° axial obliquity; hence zenith sun is impossible at latitudes > 23.5°."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Social Science",
+    "chapter": "Chapter 2: Globe: Latitudes and Longitudes",
+    "question": "Match Column I (Locations) with Column II (Coordinates):\n(a) Equator          -> (i) 90° S\n(b) South Pole       -> (ii) 0° Longitude\n(c) Prime Meridian   -> (iii) 0° Latitude\n(d) 180° Meridian    -> (iv) International Date Line line of longitude",
+    "options": [
+      "a-(iii), b-(i), c-(ii), d-(iv)",
+      "a-(i), b-(ii), c-(iii), d-(iv)",
+      "a-(iv), b-(iii), c-(ii), d-(i)",
+      "a-(ii), b-(iv), c-(i), d-(iii)"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "Equator = 0° Lat; South Pole = 90° S; Prime Meridian = 0° Long; 180° Meridian = Antimeridian/Date Line."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Social Science",
+    "chapter": "Chapter 2: Globe: Latitudes and Longitudes",
+    "question": "Read the statements:\nStatement 1: The Prime Meridian and the 180° Meridian together form a complete Great Circle dividing Earth into Eastern and Western Hemispheres.\nStatement 2: 180° East and 180° West are on the same meridian line.\nStatement 3: Parallels of latitude meet each other at the equator.\nWhich statements are TRUE?",
+    "options": [
+      "Statements 1 and 2 only",
+      "Statements 2 and 3 only",
+      "Statements 1 and 3 only",
+      "All Statements 1, 2, and 3"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "Statement 3 is false because parallels of latitude are concentric and NEVER intersect each other. Statements 1 and 2 are true."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Social Science",
+    "chapter": "Chapter 2: Globe: Latitudes and Longitudes",
+    "question": "Town X is located at 30° East longitude and Town Y is located at 60° West longitude. What is the total time difference between Town X and Town Y?",
+    "options": [
+      "6 hours (90° total difference × 4 min = 360 min)",
+      "2 hours",
+      "4 hours",
+      "8 hours"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "Longitudinal separation = 30° + 60° = 90°. Time difference = 90 × 4 min = 360 minutes = 6 hours."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Social Science",
+    "chapter": "Chapter 2: Globe: Latitudes and Longitudes",
+    "question": "Why did India adopt ONE single Standard Time (IST) across the entire country instead of multiple local time zones?",
+    "options": [
+      "To avoid immense confusion in nationwide railway timetables, flights, banking, and television broadcasts",
+      "Because India is only 1 km wide",
+      "Because clocks cannot be changed",
+      "Because the Sun rises at the same minute across India"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "A uniform national reference meridian (82.5° E) harmonizes logistical schedules across transport, administration, and commerce."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Social Science",
+    "chapter": "Chapter 2: Globe: Latitudes and Longitudes",
+    "question": "Both Tonga Islands (in Pacific Ocean) and Mauritius Islands (in Indian Ocean) are situated on 20° S latitude. How do navigators distinguish their exact positions?",
+    "options": [
+      "By referencing their specific longitudes (East or West of the Prime Meridian)",
+      "By looking at ocean waves",
+      "By measuring air temperature only",
+      "They cannot be distinguished"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "A 2D coordinate fix requires BOTH latitude (Y-axis parallel) AND longitude (X-axis meridian) coordinates."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Social Science",
+    "chapter": "Chapter 2: Globe: Latitudes and Longitudes",
+    "question": "What is the key difference between the Torrid Zone and the Frigid Zone regarding insolation?",
+    "options": [
+      "Torrid Zone receives direct vertical solar rays with high energy density; Frigid Zone receives oblique slanting rays spread over vast areas with severe reflection",
+      "Torrid Zone has no night",
+      "Frigid Zone is closer to the Sun",
+      "Torrid Zone is in outer space"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "Lambert's cosine law: vertical rays deliver concentrated flux per unit area, while acute slanting rays dilute radiative heating."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Social Science",
+    "chapter": "Chapter 2: Globe: Latitudes and Longitudes",
+    "question": "Which of the following continents does the Equator, Tropic of Cancer, AND Tropic of Capricorn ALL pass through?",
+    "options": [
+      "Africa",
+      "Asia",
+      "South America",
+      "Australia"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "Africa is the only continent on Earth traversed by all three primary latitude lines: Cancer (N), Equator, and Capricorn (S)."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Social Science",
+    "chapter": "Chapter 2: Globe: Latitudes and Longitudes",
+    "question": "If a traveler crosses the 180° International Date Line traveling from West to East (e.g. from Japan to USA), what calendar adjustment must they make?",
+    "options": [
+      "They repeat one calendar day (gain a day / subtract 24 hours from date)",
+      "They lose one calendar day (add 24 hours)",
+      "Clocks stop working",
+      "They travel 100 years into the future"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "Crossing eastward into the Western Hemisphere steps back across the antimeridian, repeating that calendar date."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Hindi Grammar",
+    "chapter": "Chapter 2: वर्ण-विचार",
+    "question": "भाषा की वह सबसे छोटी मूल ध्वनि जिसके और टुकड़े (खंड) नहीं किए जा सकते, उसे क्या कहते हैं?",
+    "options": [
+      "वर्ण या अक्षर (Letter / Phoneme)",
+      "शब्द",
+      "वाक्य",
+      "पद"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "वर्ण (जैसे अ, आ, क, ख) भाषा की अविभाज्य लघुतम इकाई है जिसके खंड नहीं किए जा सकते।"
+  },
+  {
+    "classLevel": 6,
+    "subject": "Hindi Grammar",
+    "chapter": "Chapter 2: वर्ण-विचार",
+    "question": "वर्णों के व्यवस्थित और क्रमबद्ध समूह को क्या कहते हैं?",
+    "options": [
+      "वर्णमाला (Alphabet)",
+      "शब्दकोश",
+      "वाक्य",
+      "व्याकरण"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "वर्णों का मानक क्रमबद्ध एवं व्यवस्थित समूह 'वर्णमाला' कहलाता है।"
+  },
+  {
+    "classLevel": 6,
+    "subject": "Hindi Grammar",
+    "chapter": "Chapter 2: वर्ण-विचार",
+    "question": "हिंदी वर्णमाला में वर्णों को मुख्य रूप से कितने भागों (भेदों) में बाँटा गया है?",
+    "options": [
+      "दो भागों में (स्वर और व्यंजन)",
+      "तीन भागों में",
+      "चार भागों में",
+      "पाँच भागों में"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "हिंदी वर्णमाला के मुख्य दो भेद हैं: 1. स्वर (Vowels) तथा 2. व्यंजन (Consonants)।"
+  },
+  {
+    "classLevel": 6,
+    "subject": "Hindi Grammar",
+    "chapter": "Chapter 2: वर्ण-विचार",
+    "question": "जिन वर्णों का उच्चारण स्वतंत्र रूप से बिना किसी अन्य वर्ण की सहायता से होता है, उन्हें क्या कहते हैं?",
+    "options": [
+      "स्वर (Vowels)",
+      "व्यंजन",
+      "संयुक्त व्यंजन",
+      "अयोगवाह"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "स्वर निर्बाध एवं स्वतंत्र रूप से उच्चरित होने वाली ध्वनियाँ हैं (अ, आ, इ, ई, उ, ऊ, ऋ, ए, ऐ, ओ, औ)।"
+  },
+  {
+    "classLevel": 6,
+    "subject": "Hindi Grammar",
+    "chapter": "Chapter 2: वर्ण-विचार",
+    "question": "मानक हिंदी वर्णमाला में कुल कितने मूल स्वर (Vowels) होते हैं?",
+    "options": [
+      "11 स्वर",
+      "13 स्वर",
+      "10 स्वर",
+      "12 स्वर"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "हिंदी वर्णमाला में 11 स्वर होते हैं: अ, आ, इ, ई, उ, ऊ, ऋ, ए, ऐ, ओ, औ।"
+  },
+  {
+    "classLevel": 6,
+    "subject": "Hindi Grammar",
+    "chapter": "Chapter 2: वर्ण-विचार",
+    "question": "जिन वर्णों का उच्चारण स्वरों की सहायता से किया जाता है, उन्हें क्या कहते हैं?",
+    "options": [
+      "व्यंजन (Consonants)",
+      "स्वर",
+      "मात्रा",
+      "अनुस्वार"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "व्यंजनों के पूर्ण उच्चारण हेतु स्वर (मुख्यतः 'अ') का संयोग अनिवार्य होता है।"
+  },
+  {
+    "classLevel": 6,
+    "subject": "Hindi Grammar",
+    "chapter": "Chapter 2: वर्ण-विचार",
+    "question": "उच्चारण में लगने वाले समय (मात्रा) के आधार पर स्वर के कितने भेद होते हैं?",
+    "options": [
+      "तीन भेद (ह्रस्व स्वर, दीर्घ स्वर, प्लुत स्वर)",
+      "दो भेद",
+      "चार भेद",
+      "पाँच भेद"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "मात्रा काल के आधार पर स्वर तीन प्रकार के होते हैं: ह्रस्व (1 मात्रा), दीर्घ (2 मात्रा), तथा प्लुत (3 मात्रा)।"
+  },
+  {
+    "classLevel": 6,
+    "subject": "Hindi Grammar",
+    "chapter": "Chapter 2: वर्ण-विचार",
+    "question": "हिंदी वर्णमाला में ह्रस्व स्वर (Short Vowels) कुल कितने हैं?",
+    "options": [
+      "चार (अ, इ, उ, ऋ)",
+      "सात",
+      "तीन",
+      "दो"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "ह्रस्व स्वर (मूल स्वर) जिनके उच्चारण में न्यूनतम एक मात्रा का समय लगता है, संख्या में 4 हैं: अ, इ, उ, ऋ।"
+  },
+  {
+    "classLevel": 6,
+    "subject": "Hindi Grammar",
+    "chapter": "Chapter 2: वर्ण-विचार",
+    "question": "हिंदी वर्णमाला में दीर्घ स्वर (Long Vowels) कुल कितने हैं?",
+    "options": [
+      "सात (आ, ई, ऊ, ए, ऐ, ओ, औ)",
+      "चार",
+      "आठ",
+      "पाँच"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "दीर्घ स्वर जिनके उच्चारण में ह्रस्व से दोगुना समय लगता है, संख्या में 7 हैं: आ, ई, ऊ, ए, ऐ, ओ, औ।"
+  },
+  {
+    "classLevel": 6,
+    "subject": "Hindi Grammar",
+    "chapter": "Chapter 2: वर्ण-विचार",
+    "question": "अं (ं) और अः (ः) को हिंदी व्याकरण में क्या कहा जाता है?",
+    "options": [
+      "अयोगवाह (अनुस्वार और विसर्ग)",
+      "मूल स्वर",
+      "स्पर्श व्यंजन",
+      "अन्तःस्थ व्यंजन"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "अं (अनुस्वार) और अः (विसर्ग) न तो पूर्ण स्वर हैं और न पूर्ण व्यंजन; अतः इन्हें 'अयोगवाह' कहते हैं।"
+  },
+  {
+    "classLevel": 6,
+    "subject": "Hindi Grammar",
+    "chapter": "Chapter 2: वर्ण-विचार",
+    "question": "हिंदी में संयुक्त व्यंजन (क्ष, त्र, ज्ञ, श्र) की कुल संख्या कितनी है?",
+    "options": [
+      "चार (4 संयुक्त व्यंजन)",
+      "तीन",
+      "पाँच",
+      "दो"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "दो भिन्न व्यंजनों के परस्पर मेल से बनने वाले 4 संयुक्त व्यंजन हैं: क्ष (क्+ष), त्र (त्+र), ज्ञ (ज्+ञ), श्र (श्+र)।"
+  },
+  {
+    "classLevel": 6,
+    "subject": "Hindi Grammar",
+    "chapter": "Chapter 2: वर्ण-विचार",
+    "question": "स्वरों के जो निश्चित चिह्न व्यंजनों के साथ जोड़े जाते हैं, उन्हें क्या कहते हैं?",
+    "options": [
+      "मात्रा (Matra)",
+      "वर्ण",
+      "ध्वनि",
+      "हलंत"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "व्यंजनों के साथ प्रयुक्त होने वाले स्वरों के प्रतीकात्मक लिखित चिह्नों को 'मात्रा' कहते हैं।"
+  },
+  {
+    "classLevel": 6,
+    "subject": "Hindi Grammar",
+    "chapter": "Chapter 2: वर्ण-विचार",
+    "question": "संयुक्त व्यंजन 'क्ष' किन दो वर्णों के संयोग से बनता है?",
+    "options": [
+      "क् + ष् + अ",
+      "क् + छ् + अ",
+      "क् + स् + अ",
+      "ख् + श् + अ"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "क् + ष् = क्ष (जैसे: कक्षा, क्षत्रिय, रक्षा)।"
+  },
+  {
+    "classLevel": 6,
+    "subject": "Hindi Grammar",
+    "chapter": "Chapter 2: वर्ण-विचार",
+    "question": "संयुक्त व्यंजन 'ज्ञ' किन दो वर्णों के संयोग से बनता है?",
+    "options": [
+      "ज् + ञ् + अ",
+      "ग् + य् + अ",
+      "ग् + न् + अ",
+      "द् + य् + अ"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "ज् + ञ् = ज्ञ (जैसे: ज्ञान, ज्ञानी, अज्ञात)।"
+  },
+  {
+    "classLevel": 6,
+    "subject": "Hindi Grammar",
+    "chapter": "Chapter 2: वर्ण-विचार",
+    "question": "संयुक्त व्यंजन 'त्र' और 'श्र' क्रमशः किन वर्णों के संयोग से बनते हैं?",
+    "options": [
+      "त्र = त् + र् + अ ; श्र = श् + र् + अ",
+      "त्र = ट् + र् ; श्र = स् + र्",
+      "त्र = थ् + र् ; श्र = ष् + र्",
+      "त्र = त् + ऋ ; श्र = श् + ऋ"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "त् + र् = त्र (छात्र, पत्र) तथा श् + र् = श्र (श्रम, विश्राम)।"
+  },
+  {
+    "classLevel": 6,
+    "subject": "Hindi Grammar",
+    "chapter": "Chapter 2: वर्ण-विचार",
+    "question": "स्पर्श व्यंजन (क से म तक) कुल कितने होते हैं और इन्हें कितने वर्गों में बाँटा गया है?",
+    "options": [
+      "25 स्पर्श व्यंजन, 5 वर्गों में (क-वर्ग, च-वर्ग, ट-वर्ग, त-वर्ग, प-वर्ग)",
+      "20 स्पर्श व्यंजन, 4 वर्गों में",
+      "33 स्पर्श व्यंजन, 6 वर्गों में",
+      "15 स्पर्श व्यंजन, 3 वर्गों में"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "क-वर्ग से प-वर्ग तक 5×5 = 25 स्पर्श व्यंजन होते हैं जिनका उच्चारण जिह्वा के मुख-स्थान स्पर्श से होता है।"
+  },
+  {
+    "classLevel": 6,
+    "subject": "Hindi Grammar",
+    "chapter": "Chapter 2: वर्ण-विचार",
+    "question": "अन्तःस्थ व्यंजन (Semivowels) कौन-से चार वर्ण होते हैं?",
+    "options": [
+      "य, र, ल, व",
+      "श, ष, स, ह",
+      "क, ख, ग, घ",
+      "क्ष, त्र, ज्ञ, श्र"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "य, र, ल, व का उच्चारण स्वर और व्यंजन के मध्यवर्ती (अन्तःस्थ) रूप में होता है।"
+  },
+  {
+    "classLevel": 6,
+    "subject": "Hindi Grammar",
+    "chapter": "Chapter 2: वर्ण-विचार",
+    "question": "ऊष्म व्यंजन (Sibilants) कौन-से चार वर्ण होते हैं जिनके उच्चारण में मुख से ऊष्मा (गर्म हवा) निकलती है?",
+    "options": [
+      "श, ष, स, ह",
+      "य, र, ल, व",
+      "क, च, ट, त",
+      "ड़, ढ़, अं, अः"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "श (तालव्य), ष (मूर्धन्य), स (दंत्य), ह (कंठ्य/काकल्य) के घर्षण जनित उच्चारण से वायु ऊष्मित होती है।"
+  },
+  {
+    "classLevel": 6,
+    "subject": "Hindi Grammar",
+    "chapter": "Chapter 2: वर्ण-विचार",
+    "question": "जब एक ही व्यंजन ध्वनि अपने ही समान व्यंजन ध्वनि से संयुक्त होती है (जैसे: पक्का, बिल्ली, दिल्ली), तो उसे क्या कहते हैं?",
+    "options": [
+      "द्वित्व व्यंजन (Geminate Consonants)",
+      "संयुक्त व्यंजन",
+      "संयुक्ताक्षर",
+      "अन्तःस्थ व्यंजन"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "समान व्यंजनों का परस्पर युग्मन 'द्वित्व व्यंजन' कहलाता है (क्+क = क्क, ल्+ल = ल्ल)।"
+  },
+  {
+    "classLevel": 6,
+    "subject": "Hindi Grammar",
+    "chapter": "Chapter 2: वर्ण-विचार",
+    "question": "जब दो अलग-अलग व्यंजन परस्पर जुड़ते हैं (जैसे: विद्या, स्थान, पुस्तक), तो उन्हें क्या कहते हैं?",
+    "options": [
+      "संयुक्ताक्षर (Conjunct Consonants)",
+      "द्वित्व व्यंजन",
+      "ह्रस्व स्वर",
+      "विसर्ग"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "दो भिन्न व्यंजनों का स्वर-रहित मेल 'संयुक्ताक्षर' कहलाता है (स्+थ = स्थ, स्+त = स्त)।"
+  },
+  {
+    "classLevel": 6,
+    "subject": "Hindi Grammar",
+    "chapter": "Chapter 2: वर्ण-विचार",
+    "question": "हिंदी वर्णमाला में किस स्वर की अपनी कोई लिखित मात्रा नहीं होती?",
+    "options": [
+      "'अ' स्वर",
+      "'आ' स्वर",
+      "'इ' स्वर",
+      "'ऋ' स्वर"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "'अ' स्वर प्रत्येक अ-कारान्त व्यंजन में अंतर्निहित होता है; इसका कोई अलग मात्रा चिह्न नहीं होता।"
+  },
+  {
+    "classLevel": 6,
+    "subject": "Hindi Grammar",
+    "chapter": "Chapter 2: वर्ण-विचार",
+    "question": "अनुनासिक (ँ - चंद्रबिंदु) का उच्चारण मुख और नाक में किस प्रकार होता है?",
+    "options": [
+      "इसका उच्चारण मुख और नासिका दोनों की सहायता से एक साथ होता है (जैसे: आँख, चाँद, गाँव)",
+      "केवल नाक से होता है",
+      "केवल गले से होता है",
+      "केवल होंठों से होता है"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "अनुनासिक स्वरों की वायु उच्चारण के समय मुख और नासिका दोनों से एक साथ निःसृत होती है।"
+  },
+  {
+    "classLevel": 6,
+    "subject": "Hindi Grammar",
+    "chapter": "Chapter 2: वर्ण-विचार",
+    "question": "अनुस्वार (ं - बिंदु) का उच्चारण किसकी सहायता से होता है?",
+    "options": [
+      "इसका उच्चारण केवल नासिका (नाक) से होता है और यह प्रत्येक वर्ग के पंचम वर्ण (ङ, ञ, ण, न, म) के स्थान पर आता है",
+      "केवल होंठों से",
+      "केवल दाँतों से",
+      "केवल जीभ से"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "अनुस्वार नासिक्य व्यंजन ध्वनि है जो पंचमाक्षरों (पंत, गंगा, चंचल) के स्थानापन्न प्रयुक्त होती है।"
+  },
+  {
+    "classLevel": 6,
+    "subject": "Hindi Grammar",
+    "chapter": "Chapter 2: वर्ण-विचार",
+    "question": "विसर्ग (ः) का उच्चारण किस ध्वनि के समान हल्का और फुसफुसाहट भरा होता है?",
+    "options": [
+      "'ह्' ध्वनि के समान (जैसे: प्रातः, अतः, नमः)",
+      "'म्' ध्वनि के समान",
+      "'न्' ध्वनि के समान",
+      "'स्' ध्वनि के समान"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "संस्कृत मूल के विसर्ग (ः) का उच्चारण अघोष काकल्य ध्वनि /h/ (ह्) के सदृश होता है।"
+  },
+  {
+    "classLevel": 6,
+    "subject": "Hindi Grammar",
+    "chapter": "Chapter 2: वर्ण-विचार",
+    "question": "क-वर्ग (क, ख, ग, घ, ङ) का उच्चारण स्थान मुख का कौन-सा भाग है?",
+    "options": [
+      "कंठ (गला / Velar)",
+      "तालु",
+      "मूर्धा",
+      "दाँत"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "क-वर्ग के वर्ण कंठ्य (Throat/Velar) ध्वनियाँ कहलाते हैं।"
+  },
+  {
+    "classLevel": 6,
+    "subject": "Hindi Grammar",
+    "chapter": "Chapter 2: वर्ण-विचार",
+    "question": "च-वर्ग (च, छ, ज, झ, ञ) तथा इ, ई, य, श का उच्चारण स्थान क्या है?",
+    "options": [
+      "तालु (तालव्य / Palatal)",
+      "ओष्ठ",
+      "दंत",
+      "मूर्धा"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "जिह्वा तालु के कठोर भाग को स्पर्श करती है, अतः ये 'तालव्य' वर्ण कहलाते हैं।"
+  },
+  {
+    "classLevel": 6,
+    "subject": "Hindi Grammar",
+    "chapter": "Chapter 2: वर्ण-विचार",
+    "question": "प-वर्ग (प, फ, ब, भ, म) तथा उ, ऊ का उच्चारण स्थान क्या है?",
+    "options": [
+      "ओष्ठ (ओष्ठ्य / Labial - दोनों होंठ)",
+      "कंठ",
+      "तालु",
+      "दंत"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "दोनों होंठों के परस्पर मिलन से उच्चरित होने के कारण इन्हें 'ओष्ठ्य' वर्ण कहते हैं।"
+  },
+  {
+    "classLevel": 6,
+    "subject": "Hindi Grammar",
+    "chapter": "Chapter 2: वर्ण-विचार",
+    "question": "ड़ और ढ़ को हिंदी में कौन-से व्यंजन कहा जाता है?",
+    "options": [
+      "उत्क्षिप्त या विकसित अतिरिक्त व्यंजन (Flap Consonants)",
+      "मूल स्वर",
+      "ऊष्म व्यंजन",
+      "संयुक्त व्यंजन"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "ड़ और ढ़ उत्क्षिप्त (ताड़नजात) वर्ण हैं, जिनका उच्चारण जिह्वा को झटके से नीचे गिराकर किया जाता है।"
+  },
+  {
+    "classLevel": 6,
+    "subject": "Hindi Grammar",
+    "chapter": "Chapter 2: वर्ण-विचार",
+    "question": "कथन और कारण को ध्यानपूर्वक पढ़ें:\nकथन (A): 'ड़' और 'ढ़' व्यंजनों से हिंदी का कोई भी शब्द कभी आरंभ नहीं होता।\nकारण (R): ये उत्क्षिप्त ध्वनियाँ सदैव शब्द के मध्य में या अंत में ही प्रयुक्त होती हैं (जैसे: पेड़, सड़क, पढ़ना, चढ़ाई)।\nसही विकल्प चुनें:",
+    "options": [
+      "(A) और (R) दोनों सही हैं तथा (R), (A) की सही व्याख्या करता है।",
+      "(A) और (R) दोनों सही हैं, परन्तु (R), (A) की सही व्याख्या नहीं करता।",
+      "(A) सही है, परन्तु (R) गलत है।",
+      "(A) गलत है, परन्तु (R) सही है।"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "ध्वन्यात्मक नियम के अनुसार उत्क्षिप्त वर्ण ड़ और ढ़ कभी किसी शब्द के प्रथमाक्षर (आरंभिक वर्ण) नहीं बन सकते।"
+  },
+  {
+    "classLevel": 6,
+    "subject": "Hindi Grammar",
+    "chapter": "Chapter 2: वर्ण-विचार",
+    "question": "वर्ण-विच्छेद (Phonetic Decomposition) की दृष्टि से 'विद्यार्थी' शब्द का सही विच्छेद कौन-सा है?",
+    "options": [
+      "व् + इ + द् + य् + आ + र् + थ् + ई",
+      "व् + ई + द् + य् + आ + थ् + ई + र्",
+      "व् + इ + द् + य् + आ + र् + थ् + इ",
+      "व् + इ + द्या + र्थी"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "वि-द्या-र्-थी = (व्+इ) + (द्+य्+आ) + (र्+थ्+ई)। रेफ (र्) थ से पूर्व उच्चरित होता है।"
+  },
+  {
+    "classLevel": 6,
+    "subject": "Hindi Grammar",
+    "chapter": "Chapter 2: वर्ण-विचार",
+    "question": "Spot the IMPOSTER in the following group of वर्ण based on their उच्चारण स्थान:\nGroup: [क, ख, ग, च]",
+    "options": [
+      "क",
+      "ख",
+      "ग",
+      "च"
+    ],
+    "correctAnswer": 3,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "'च' तालव्य (तालु से उच्चरित) वर्ण है, जबकि क, ख, ग कंठ्य (कंठ/गले से उच्चरित) वर्ण हैं।"
+  },
+  {
+    "classLevel": 6,
+    "subject": "Hindi Grammar",
+    "chapter": "Chapter 2: वर्ण-विचार",
+    "question": "सुमेलित कीजिए (Match the Columns):\n(क) क-वर्ग (क, ख, ग, घ) -> (i) मूर्धन्य\n(ख) च-वर्ग (च, छ, ज, झ) -> (ii) ओष्ठ्य\n(ग) ट-वर्ग (ट, ठ, ड, ढ) -> (iii) कंठ्य\n(घ) प-वर्ग (प, फ, ब, भ) -> (iv) तालव्य",
+    "options": [
+      "क-(iii), ख-(iv), ग-(i), घ-(ii)",
+      "क-(i), ख-(ii), ग-(iii), घ-(iv)",
+      "क-(iv), ख-(iii), ग-(ii), घ-(i)",
+      "क-(ii), ख-(i), ग-(iv), घ-(iii)"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "क-वर्ग = कंठ्य; च-वर्ग = तालव्य; ट-वर्ग = मूर्धन्य; प-वर्ग = ओष्ठ्य।"
+  },
+  {
+    "classLevel": 6,
+    "subject": "Hindi Grammar",
+    "chapter": "Chapter 2: वर्ण-विचार",
+    "question": "'र' के विभिन्न रूपों के संबंध में सही कथन चुनिए:\n1. स्वर-रहित 'र्' जब व्यंजन से पहले आता है तो उसे 'रेफ' (र्) के रूप में वर्ण के ऊपर लिखा जाता है (जैसे: कर्म, धर्म)।\n2. स्वर-सहित 'र' जब स्वर-रहित व्यंजन के बाद आता है तो उसे 'पदेन' (्र या ्र) के रूप में नीचे लिखा जाता है (जैसे: क्रम, प्रकाश, ट्रक, ड्रम)।\n3. 'र' में 'उ' और 'ऊ' की मात्राएँ उसके पेट (मध्य) में लगाई जाती हैं (जैसे: रु, रू)।\nकौन-से कथन सत्य हैं?",
+    "options": [
+      "सभी कथन 1, 2 और 3 सत्य हैं",
+      "कथन 1 और 2 केवल",
+      "कथन 2 और 3 केवल",
+      "कथन 1 और 3 केवल"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "तीनों नियम मानक हिंदी वर्तनी के अनुसार 'र' के रेफ, पदेन तथा मध्य-मात्रा प्रयोग के शत-प्रतिशत शुद्ध नियम हैं।"
+  },
+  {
+    "classLevel": 6,
+    "subject": "Hindi Grammar",
+    "chapter": "Chapter 2: वर्ण-विचार",
+    "question": "शब्द 'श्रृंगार' अथवा 'कृष्ण' में 'ऋ' की मात्रा का सही वर्ण-विच्छेद क्या है?",
+    "options": [
+      "कृष्ण = क् + ऋ + ष् + ण् + अ",
+      "कृष्ण = क् + र् + इ + ष् + ण् + अ",
+      "कृष्ण = क् + ऋ + ष् + ण्",
+      "कृष्ण = क + ऋ + ष + ण"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "'कृ' में व्यंजन 'क्' के साथ 'ऋ' स्वर जुड़ा है: क् + ऋ + ष् + ण् + अ = कृष्ण।"
+  },
+  {
+    "classLevel": 6,
+    "subject": "Hindi Grammar",
+    "chapter": "Chapter 2: वर्ण-विचार",
+    "question": "आगत ध्वनि 'ऑ' (जैसे: डॉक्टर, कॉलेज, बॉल, कॉफी) किस विदेशी भाषा से हिंदी में समाहित हुई है?",
+    "options": [
+      "अंग्रेज़ी भाषा (English)",
+      "फारसी",
+      "पुर्तगाली",
+      "तुर्की"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "अंग्रेज़ी के 'o' स्वर के शुद्ध उच्चारण (Doctor, College) हेतु अर्ध-चंद्र 'ऑ' आगत स्वर स्वीकृत किया गया है।"
+  },
+  {
+    "classLevel": 6,
+    "subject": "Hindi Grammar",
+    "chapter": "Chapter 2: वर्ण-विचार",
+    "question": "नुक्ता (़) लगे आगत व्यंजन 'फ़' और 'ज़' (जैसे: फ़र्क, ज़माना) मुख्यतः किस भाषा से हिंदी में आए हैं?",
+    "options": [
+      "अरबी और फारसी (Arabic & Persian)",
+      "अंग्रेज़ी",
+      "संस्कृत",
+      "फ्रेंच"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "अरबी-फारसी की ध्वनियों के शुद्ध उच्चारण हेतु वर्ण के नीचे अधोबिंदु (नुक्ता) लगाया जाता है।"
+  },
+  {
+    "classLevel": 6,
+    "subject": "Hindi Grammar",
+    "chapter": "Chapter 2: वर्ण-विचार",
+    "question": "अल्पप्राण और महाप्राण के वर्गीकरण में 'महाप्राण' ध्वनियों की क्या विशेषता होती है?",
+    "options": [
+      "इनके उच्चारण में अधिक श्वास वायु बाहर निकलती है और 'ह' जैसी ध्वनि सुनाई देती है (प्रत्येक वर्ग का दूसरा और चौथा वर्ण तथा ऊष्म व्यंजन)",
+      "इनमें बहुत कम हवा निकलती है",
+      "इनमें कोई आवाज़ नहीं होती",
+      "ये केवल रात में बोले जाते हैं"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "महाप्राण (ख, घ, छ, झ, ठ, ढ, थ, ध, फ, भ + श, ष, स, ह) के उच्चारण में तीव्र उच्छ्वास प्राणवायु निकलती है।"
+  },
+  {
+    "classLevel": 6,
+    "subject": "Hindi Grammar",
+    "chapter": "Chapter 2: वर्ण-विचार",
+    "question": "अल्पप्राण (Non-aspirated) ध्वनियों के अंतर्गत कौन-से वर्ण आते हैं?",
+    "options": [
+      "प्रत्येक वर्ग का पहला, तीसरा, पाँचवाँ वर्ण (1, 3, 5) तथा अन्तःस्थ व्यंजन (य, र, ल, व) एवं सभी स्वर",
+      "दूसरा और चौथा वर्ण",
+      "केवल ऊष्म व्यंजन",
+      "केवल संयुक्त व्यंजन"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "अल्पप्राण (क, ग, ङ, च, ज, ञ...) के उच्चारण में सीमित एवं सामान्य प्राणवायु प्रयुक्त होती है।"
+  },
+  {
+    "classLevel": 6,
+    "subject": "Hindi Grammar",
+    "chapter": "Chapter 2: वर्ण-विचार",
+    "question": "प्लुत स्वर (जैसे: 'ओ३म्' या किसी को दूर से पुकारने में) के उच्चारण में ह्रस्व स्वर की तुलना में कितना समय लगता है?",
+    "options": [
+      "तीन गुना समय (तीन मात्राओं का काल)",
+      "दोगुना समय",
+      "बराबर समय",
+      "आधा समय"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "प्लुत स्वर त्रैमात्रिक होते हैं (३ चिह्न द्वारा दर्शाए जाते हैं), जो दीर्घ से भी अधिक समय तक उच्चरित होते हैं।"
+  },
+  {
+    "classLevel": 6,
+    "subject": "Hindi Grammar",
+    "chapter": "Chapter 2: वर्ण-विचार",
+    "question": "निम्नलिखित में से मानक वर्तनी के अनुसार पंचमाक्षर के स्थान पर अनुस्वार का शुद्ध प्रयोग कौन-सा है?",
+    "options": [
+      "गङ्गा -> गंगा ; चञ्चल -> चंचल ; कण्ठ -> कंठ ; सम्बन्ध -> संबंध",
+      "सभी अशुद्ध हैं",
+      "केवल गङ्गा शुद्ध है",
+      "केवल चञ्चल शुद्ध है"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "केंद्रीय हिंदी निदेशालय के मानक वर्तनी नियमों के अनुसार पंचमाक्षरों के स्थान पर शिरोरेखा के ऊपर अनुस्वार (ं) का प्रयोग मानक है।"
+  }
+]

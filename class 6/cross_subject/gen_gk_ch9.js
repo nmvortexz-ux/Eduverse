@@ -1,0 +1,470 @@
+import fs from 'fs';
+
+// -------------------------------------------------------------
+// SUBJECT 4: General Knowledge - Chapter 9: Sports & Champions of India (40 Questions)
+// -------------------------------------------------------------
+const gkQuestions = [
+  // EASY (12)
+  {
+    classLevel: 6,
+    subject: "GK",
+    chapter: "Chapter 9: Sports, Famous Champions & Traditional Games of India",
+    question: "Who is celebrated as the 'Wizard of Hockey' (Hockey Wizard) in India, who led the Indian hockey team to Olympic gold medals in 1928, 1932, and 1936?",
+    options: ["Major Dhyan Chand", "Balbir Singh Sr.", "Dhanraj Pillay", "Manpreet Singh"],
+    correctAnswer: 0,
+    difficulty: "EASY",
+    damage: 150,
+    explanation: "Major Dhyan Chand scored over 400 international goals; his birthday on 29th August is celebrated as India's National Sports Day."
+  },
+  {
+    classLevel: 6,
+    subject: "GK",
+    chapter: "Chapter 9: Sports, Famous Champions & Traditional Games of India",
+    question: "Why is 'National Sports Day' celebrated across India every year on 29th August?",
+    options: [
+      "To commemorate the birth anniversary of hockey legend Major Dhyan Chand",
+      "To celebrate India's first cricket World Cup victory",
+      "To mark the founding of the Olympic Association",
+      "To honor Sachin Tendulkar's birthday"
+    ],
+    correctAnswer: 0,
+    difficulty: "EASY",
+    damage: 150,
+    explanation: "The Government of India designated 29 August as National Sports Day in honor of Major Dhyan Chand."
+  },
+  {
+    classLevel: 6,
+    subject: "GK",
+    chapter: "Chapter 9: Sports, Famous Champions & Traditional Games of India",
+    question: "Who is the legendary Indian cricketer revered as the 'Master Blaster' and 'God of Cricket', who scored 100 international centuries across Test and ODI cricket?",
+    options: ["Sachin Tendulkar", "Sunil Gavaskar", "Kapil Dev", "Virat Kohli"],
+    correctAnswer: 0,
+    difficulty: "EASY",
+    damage: 150,
+    explanation: "Sachin Tendulkar holds the world record for 100 international centuries and 34,357 international runs, awarded the Bharat Ratna in 2014."
+  },
+  {
+    classLevel: 6,
+    subject: "GK",
+    chapter: "Chapter 9: Sports, Famous Champions & Traditional Games of India",
+    question: "Who won India's FIRST EVER Olympic Gold Medal in Track and Field (Athletics) in Men's Javelin Throw at the Tokyo 2020 Olympics?",
+    options: ["Neeraj Chopra (87.58 metres throw)", "Milkha Singh", "Abhinav Bindra", "Sushil Kumar"],
+    correctAnswer: 0,
+    difficulty: "EASY",
+    damage: 150,
+    explanation: "Neeraj Chopra created history on 7 August 2021 by winning independent India's maiden track and field Olympic gold medal (celebrated as National Javelin Day)."
+  },
+  {
+    classLevel: 6,
+    subject: "GK",
+    chapter: "Chapter 9: Sports, Famous Champions & Traditional Games of India",
+    question: "Who was the FIRST Indian to win an INDIVIDUAL Olympic Gold Medal (in Men's 10m Air Rifle Shooting at the 2008 Beijing Olympics)?",
+    options: ["Abhinav Bindra", "Rajyavardhan Singh Rathore", "Gagan Narang", "Jitu Rai"],
+    correctAnswer: 0,
+    difficulty: "EASY",
+    damage: 150,
+    explanation: "Abhinav Bindra clinched India's first individual Olympic gold in Beijing 2008 in the 10m Air Rifle event."
+  },
+  {
+    classLevel: 6,
+    subject: "GK",
+    chapter: "Chapter 9: Sports, Famous Champions & Traditional Games of India",
+    question: "Who became India's FIRST Chess Grandmaster in 1988 and went on to win the World Chess Championship five times?",
+    options: ["Viswanathan Anand ('Vishy')", "D. Gukesh", "R. Praggnanandhaa", "Pentala Harikrishna"],
+    correctAnswer: 0,
+    difficulty: "EASY",
+    damage: 150,
+    explanation: "Viswanathan Anand became India's first Grandmaster in 1988, 5-time World Champion, and inaugural recipient of the Khel Ratna Award."
+  },
+  {
+    classLevel: 6,
+    subject: "GK",
+    chapter: "Chapter 9: Sports, Famous Champions & Traditional Games of India",
+    question: "Under whose captaincy did the Indian Cricket Team win its FIRST EVER ICC Cricket World Cup in 1983 at Lord's, London?",
+    options: ["Kapil Dev", "Sunil Gavaskar", "Mohinder Amarnath", "Dilip Vengsarkar"],
+    correctAnswer: 0,
+    difficulty: "EASY",
+    damage: 150,
+    explanation: "Kapil Dev led underdog India to an iconic 1983 World Cup final victory over the two-time champion West Indies at Lord's."
+  },
+  {
+    classLevel: 6,
+    subject: "GK",
+    chapter: "Chapter 9: Sports, Famous Champions & Traditional Games of India",
+    question: "Who is the world-renowned Indian boxer from Manipur who won SIX World Amateur Boxing Championship gold medals and an Olympic bronze medal (known as 'Magnificent Mary')?",
+    options: ["M.C. Mary Kom (Chungneijang Mary Kom Hmangte)", "Lovlina Borgohain", "Nikhat Zareen", "Sarita Devi"],
+    correctAnswer: 0,
+    difficulty: "EASY",
+    damage: 150,
+    explanation: "Mary Kom is the only female boxer to become World Champion six times and win eight World Championship medals."
+  },
+  {
+    classLevel: 6,
+    subject: "GK",
+    chapter: "Chapter 9: Sports, Famous Champions & Traditional Games of India",
+    question: "Who is the legendary Indian track and field sprinter reverently known as the 'Flying Sikh'?",
+    options: ["Milkha Singh", "PT Usha", "Gurbachan Singh Randhawa", "Manpreet Singh"],
+    correctAnswer: 0,
+    difficulty: "EASY",
+    damage: 150,
+    explanation: "Milkha Singh won 4 Asian Games gold medals and finished a legendary 4th in the 400m final at the 1960 Rome Olympics."
+  },
+  {
+    classLevel: 6,
+    subject: "GK",
+    chapter: "Chapter 9: Sports, Famous Champions & Traditional Games of India",
+    question: "Who is celebrated as the 'Payyoli Express' and currently serves as the President of the Indian Olympic Association (IOA)?",
+    options: ["P.T. Usha (Pilavullakandi Thekkeparambil Usha)", "Anju Bobby George", "Hima Das", "Dutee Chand"],
+    correctAnswer: 0,
+    difficulty: "EASY",
+    damage: 150,
+    explanation: "P.T. Usha dominated Asian track events, winning 4 gold medals at the 1986 Seoul Asian Games and missing 1984 Los Angeles 400m hurdles bronze by 1/100th of a second."
+  },
+  {
+    classLevel: 6,
+    subject: "GK",
+    chapter: "Chapter 9: Sports, Famous Champions & Traditional Games of India",
+    question: "Which traditional Indian contact sport originated in ancient Tamil Nadu and Punjab, featuring raiders chanting 'Kabaddi-Kabaddi' in a single breath?",
+    options: ["Kabaddi", "Kho-Kho", "Gilli-Danda", "Mallakhamb"],
+    correctAnswer: 0,
+    difficulty: "EASY",
+    damage: 150,
+    explanation: "Kabaddi is an ancient indigenous sport where raiders tag defenders under cantus breath control."
+  },
+  {
+    classLevel: 6,
+    subject: "GK",
+    chapter: "Chapter 9: Sports, Famous Champions & Traditional Games of India",
+    question: "What is the highest sporting honour and award given annually by the Government of India for outstanding sports performance (formerly Rajiv Gandhi Khel Ratna)?",
+    options: ["Major Dhyan Chand Khel Ratna Award", "Arjuna Award", "Dronacharya Award", "Padma Shri"],
+    correctAnswer: 0,
+    difficulty: "EASY",
+    damage: 150,
+    explanation: "Renamed in 2021, the Major Dhyan Chand Khel Ratna Award is India's supreme apex sporting honor."
+  },
+
+  // MEDIUM (16)
+  {
+    classLevel: 6,
+    subject: "GK",
+    chapter: "Chapter 9: Sports, Famous Champions & Traditional Games of India",
+    question: "Who is the FIRST Indian woman to win TWO consecutive Olympic Medals in individual events (Silver at Rio 2016 and Bronze at Tokyo 2020 in Badminton)?",
+    options: ["P.V. Sindhu (Pusarla Venkata Sindhu)", "Saina Nehwal", "Jwala Gutta", "Ashwini Ponnappa"],
+    correctAnswer: 0,
+    difficulty: "MEDIUM",
+    damage: 250,
+    explanation: "P.V. Sindhu became the first Indian woman to claim multiple individual Olympic medals and World Badminton Championship gold (2019)."
+  },
+  {
+    classLevel: 6,
+    subject: "GK",
+    chapter: "Chapter 9: Sports, Famous Champions & Traditional Games of India",
+    question: "Who was the FIRST Indian woman athlete to win an Olympic Medal (Bronze medal in Weightlifting at the Sydney 2000 Olympics)?",
+    options: ["Karnam Malleswari", "Mirabai Chanu", "Mary Kom", "Saina Nehwal"],
+    correctAnswer: 0,
+    difficulty: "MEDIUM",
+    damage: 250,
+    explanation: "Karnam Malleswari lifted 240 kg in the 69 kg weightlifting category in Sydney 2000, becoming India's first female Olympic medalist."
+  },
+  {
+    classLevel: 6,
+    subject: "GK",
+    chapter: "Chapter 9: Sports, Famous Champions & Traditional Games of India",
+    question: "Which ancient martial art form originating in Kerala in the 3rd century BCE is recognized as the OLDEST surviving martial art in the world?",
+    options: ["Kalaripayattu", "Silambam", "Thang-Ta", "Gatka"],
+    correctAnswer: 0,
+    difficulty: "MEDIUM",
+    damage: 250,
+    explanation: "Kalaripayattu integrates strikes, weaponry (Urumi flexible sword), grappling, and Marma point vital-strike healing."
+  },
+  {
+    classLevel: 6,
+    subject: "GK",
+    chapter: "Chapter 9: Sports, Famous Champions & Traditional Games of India",
+    question: "Which traditional indigenous sport of Maharashtra and Madhya Pradesh involves gymnasts performing aerial acrobatics and yogic postures on a vertical wooden pole or rope?",
+    options: ["Mallakhamb", "Kalaripayattu", "Kho-Kho", "Yogasana"],
+    correctAnswer: 0,
+    difficulty: "MEDIUM",
+    damage: 250,
+    explanation: "Mallakhamb ('Malla' = wrestler, 'Khamb' = pole) uses a polished teak or sheesham vertical pole for acrobatic feats."
+  },
+  {
+    classLevel: 6,
+    subject: "GK",
+    chapter: "Chapter 9: Sports, Famous Champions & Traditional Games of India",
+    question: "What prestigious national sports award is conferred upon eminent sports COACHES and trainers in India for producing international medalists?",
+    options: ["Dronacharya Award (instituted in 1985)", "Arjuna Award", "Khel Ratna Award", "Rashtriya Khel Protsahan Puraskar"],
+    correctAnswer: 0,
+    difficulty: "MEDIUM",
+    damage: 250,
+    explanation: "Named after Guru Dronacharya of the Mahabharata, this award honors outstanding coaching mentors."
+  },
+  {
+    classLevel: 6,
+    subject: "GK",
+    chapter: "Chapter 9: Sports, Famous Champions & Traditional Games of India",
+    question: "Who is the legendary Indian cricket captain who won ALL THREE major ICC white-ball trophies: T20 World Cup (2007), ODI World Cup (2011), and Champions Trophy (2013)?",
+    options: ["M.S. Dhoni (Mahendra Singh Dhoni)", "Sourav Ganguly", "Virat Kohli", "Rohit Sharma"],
+    correctAnswer: 0,
+    difficulty: "MEDIUM",
+    damage: 250,
+    explanation: "M.S. Dhoni is the only captain in cricket history to capture the ICC T20 World Cup, ICC ODI World Cup, and ICC Champions Trophy."
+  },
+  {
+    classLevel: 6,
+    subject: "GK",
+    chapter: "Chapter 9: Sports, Famous Champions & Traditional Games of India",
+    question: "Which Indian badminton star became the FIRST Indian shuttler to attain the World No. 1 ranking in Women's Singles (2015) and won Olympic Bronze at London 2012?",
+    options: ["Saina Nehwal", "P.V. Sindhu", "Aparna Popat", "Ashwini Ponnappa"],
+    correctAnswer: 0,
+    difficulty: "MEDIUM",
+    damage: 250,
+    explanation: "Saina Nehwal pioneered modern Indian badminton with 24 BWF titles, 2012 Olympic bronze, and world rank #1."
+  },
+  {
+    classLevel: 6,
+    subject: "GK",
+    chapter: "Chapter 9: Sports, Famous Champions & Traditional Games of India",
+    question: "Who is the Indian cue sports maestro who has won a world-record 27 World Championship titles across both Billiards and Snooker?",
+    options: ["Pankaj Advani", "Geet Sethi", "Michael Ferreira", "Yasin Merchant"],
+    correctAnswer: 0,
+    difficulty: "MEDIUM",
+    damage: 250,
+    explanation: "Pankaj Advani is the only cueist in the world to win world titles in both long and short formats of snooker and billiards."
+  },
+  {
+    classLevel: 6,
+    subject: "GK",
+    chapter: "Chapter 9: Sports, Famous Champions & Traditional Games of India",
+    question: "Who was the FIRST Indian woman to win a medal in Track and Field at the World Athletics Championships (Bronze in Long Jump at Paris in 2003)?",
+    options: ["Anju Bobby George (6.70m leap)", "P.T. Usha", "Kamaljeet Sandhu", "Hima Das"],
+    correctAnswer: 0,
+    difficulty: "MEDIUM",
+    damage: 250,
+    explanation: "Anju Bobby George made history in 2003 Paris with a 6.70m long jump, winning India's first ever World Athletics Championship medal."
+  },
+  {
+    classLevel: 6,
+    subject: "GK",
+    chapter: "Chapter 9: Sports, Famous Champions & Traditional Games of India",
+    question: "Which Indian tennis duo, nicknamed the 'Indian Express', won three Grand Slam Men's Doubles titles and became World No. 1 in 1999?",
+    options: ["Leander Paes and Mahesh Bhupathi", "Rohan Bopanna and Sania Mirza", "Vijay Amritraj and Anand Amritraj", "Somdev Devvarman and Yuki Bhambri"],
+    correctAnswer: 0,
+    difficulty: "MEDIUM",
+    damage: 250,
+    explanation: "Paes and Bhupathi dominated late 1990s doubles, reaching all four Grand Slam finals in 1999."
+  },
+  {
+    classLevel: 6,
+    subject: "GK",
+    chapter: "Chapter 9: Sports, Famous Champions & Traditional Games of India",
+    question: "Who is the trailblazing Indian tennis champion who won 6 Grand Slam titles (3 Women's Doubles + 3 Mixed Doubles) and held the World No. 1 doubles ranking for 91 weeks?",
+    options: ["Sania Mirza", "Ankita Raina", "Nirupama Sanjeev", "Rutuja Bhosale"],
+    correctAnswer: 0,
+    difficulty: "MEDIUM",
+    damage: 250,
+    explanation: "Sania Mirza is India's most successful female tennis player, winning 43 WTA titles and 6 Grand Slams."
+  },
+  {
+    classLevel: 6,
+    subject: "GK",
+    chapter: "Chapter 9: Sports, Famous Champions & Traditional Games of India",
+    question: "What is the ancient weapon-based martial art form of Tamil Nadu that uses long bamboo staffs and sticks for defense?",
+    options: ["Silambam", "Kalaripayattu", "Thang-Ta", "Gatka"],
+    correctAnswer: 0,
+    difficulty: "MEDIUM",
+    damage: 250,
+    explanation: "Silambam originated in the Sangam era in Tamil Nadu, emphasizing rapid bamboo staff footwork."
+  },
+  {
+    classLevel: 6,
+    subject: "GK",
+    chapter: "Chapter 9: Sports, Famous Champions & Traditional Games of India",
+    question: "Who is the legendary Indian javelin thrower Paralympian who won TWO Paralympic Gold Medals (Athens 2004 and Rio 2016) and a Silver in Tokyo 2020?",
+    options: ["Devendra Jhajharia", "Sumit Antil", "Mariyappan Thangavelu", "Pramod Bhagat"],
+    correctAnswer: 0,
+    difficulty: "MEDIUM",
+    damage: 250,
+    explanation: "Devendra Jhajharia is India's most decorated individual Paralympian, breaking world records in F46 Javelin."
+  },
+  {
+    classLevel: 6,
+    subject: "GK",
+    chapter: "Chapter 9: Sports, Famous Champions & Traditional Games of India",
+    question: "Which Indian woman shooter created history at the Paris 2024 Olympics by winning TWO bronze medals in a single edition of the Olympic Games (Women's 10m Air Pistol & Mixed Team)?",
+    options: ["Manu Bhaker", "Avani Lekhara", "Apurvi Chandela", "Heena Sidhu"],
+    correctAnswer: 0,
+    difficulty: "MEDIUM",
+    damage: 250,
+    explanation: "Manu Bhaker became the first independent Indian athlete to win two medals at the same Olympic Games."
+  },
+  {
+    classLevel: 6,
+    subject: "GK",
+    chapter: "Chapter 9: Sports, Famous Champions & Traditional Games of India",
+    question: "What traditional martial art of Punjab, practiced extensively by the Sikh community during religious processions (Nagar Kirtan) and Hola Mohalla, features wooden sticks and kirpans?",
+    options: ["Gatka", "Thang-Ta", "Kalaripayattu", "Silambam"],
+    correctAnswer: 0,
+    difficulty: "MEDIUM",
+    damage: 250,
+    explanation: "Gatka is a traditional Sikh stick-fighting martial art developed in the 16th–17th centuries for combat defense."
+  },
+  {
+    classLevel: 6,
+    subject: "GK",
+    chapter: "Chapter 9: Sports, Famous Champions & Traditional Games of India",
+    question: "In which year did the Indian National Field Hockey team win its record EIGHTH Olympic Gold Medal at the Moscow Olympics?",
+    options: ["1980 (Moscow Olympics)", "1972", "1964", "1988"],
+    correctAnswer: 0,
+    difficulty: "MEDIUM",
+    damage: 250,
+    explanation: "India captured its 8th Olympic hockey gold in Moscow 1980, defeating Spain 4–3 in the final under V. Baskaran."
+  },
+
+  // HARD (12)
+  {
+    classLevel: 6,
+    subject: "GK",
+    chapter: "Chapter 9: Sports, Famous Champions & Traditional Games of India",
+    question: "Read the statements:\nAssertion (A): At the 44th Chess Olympiad (2022) held in Chennai, India, and subsequently in 2024, Indian teenage prodigies (like D. Gukesh and R. Praggnanandhaa) achieved historic global chess milestones.\nReason (R): In April 2024, 17-year-old Dommaraju Gukesh became the youngest challenger in world chess history to win the FIDE Candidates Tournament.\nChoose the correct option:",
+    options: [
+      "Both (A) and (R) are true, and (R) is the correct explanation of (A).",
+      "Both (A) and (R) are true, but (R) is NOT the correct explanation of (A).",
+      "(A) is true, but (R) is false.",
+      "(A) is false, but (R) is true."
+    ],
+    correctAnswer: 0,
+    difficulty: "HARD",
+    damage: 350,
+    explanation: "At 17, D. Gukesh broke Garry Kasparov's 40-year record to become the youngest World Championship challenger in chess history."
+  },
+  {
+    classLevel: 6,
+    subject: "GK",
+    chapter: "Chapter 9: Sports, Famous Champions & Traditional Games of India",
+    question: "Spot the IMPOSTER in the following group of Indian sports legends paired with their athletic disciplines:\nGroup: [Neeraj Chopra - Javelin Throw, Pankaj Advani - Billiards & Snooker, Mirabai Chanu - Weightlifting, Sunil Chhetri - Badminton]",
+    options: ["Neeraj Chopra - Javelin Throw", "Pankaj Advani - Billiards & Snooker", "Mirabai Chanu - Weightlifting", "Sunil Chhetri - Badminton"],
+    correctAnswer: 3,
+    difficulty: "HARD",
+    damage: 350,
+    explanation: "Sunil Chhetri is the legendary captain of the Indian National FOOTBALL Team (one of the highest international goal-scorers in history), NOT badminton."
+  },
+  {
+    classLevel: 6,
+    subject: "GK",
+    chapter: "Chapter 9: Sports, Famous Champions & Traditional Games of India",
+    question: "Who was the first Indian wrestler to win two consecutive individual Olympic medals (Bronze at Beijing 2008 and Silver at London 2012 in 66kg Freestyle)?",
+    options: ["Sushil Kumar", "K.D. Jadhav", "Yogeshwar Dutt", "Bajrang Punia"],
+    correctAnswer: 0,
+    difficulty: "HARD",
+    damage: 350,
+    explanation: "Sushil Kumar won back-to-back freestyle wrestling medals in Beijing 2008 and London 2012."
+  },
+  {
+    classLevel: 6,
+    subject: "GK",
+    chapter: "Chapter 9: Sports, Famous Champions & Traditional Games of India",
+    question: "Match Column I (Traditional Indian Martial Arts) with Column II (Originating States):\n(a) Kalaripayattu -> (i) Manipur (Sword & Spear art)\n(b) Silambam      -> (ii) Kerala (Oldest martial art)\n(c) Thang-Ta      -> (iii) Punjab (Sikh martial tradition)\n(d) Gatka         -> (iv) Tamil Nadu (Bamboo staff martial art)",
+    options: [
+      "a-(ii), b-(iv), c-(i), d-(iii)",
+      "a-(i), b-(ii), c-(iii), d-(iv)",
+      "a-(iv), b-(iii), c-(ii), d-(i)",
+      "a-(iii), b-(iv), c-(i), d-(ii)"
+    ],
+    correctAnswer: 0,
+    difficulty: "HARD",
+    damage: 350,
+    explanation: "Kalaripayattu = Kerala; Silambam = Tamil Nadu; Thang-Ta = Manipur; Gatka = Punjab."
+  },
+  {
+    classLevel: 6,
+    subject: "GK",
+    chapter: "Chapter 9: Sports, Famous Champions & Traditional Games of India",
+    question: "Read the statements regarding Olympic history:\nStatement 1: Khashaba Dadasaheb Jadhav (K.D. Jadhav) won independent India's FIRST individual Olympic medal (Bronze in Freestyle Wrestling at Helsinki 1952).\nStatement 2: The Indian Men's Hockey team won a historic Olympic Bronze medal at Tokyo 2020 after a 41-year medal drought.\nStatement 3: India has never participated in the Paralympic Games.\nWhich statements are TRUE?",
+    options: ["Statements 1 and 2 only", "Statements 2 and 3 only", "Statements 1 and 3 only", "All Statements 1, 2, and 3"],
+    correctAnswer: 0,
+    difficulty: "HARD",
+    damage: 350,
+    explanation: "Statement 3 is completely false because India has won multiple gold medals in Paralympics (e.g. 29 medals in Paris 2024). Statements 1 and 2 are true."
+  },
+  {
+    classLevel: 6,
+    subject: "GK",
+    chapter: "Chapter 9: Sports, Famous Champions & Traditional Games of India",
+    question: "Who was the FIRST Indian woman to win a GOLD Medal at the Paralympic Games (in Women's 10m Air Rifle Standing SH1 at Tokyo 2020 and repeated in Paris 2024)?",
+    options: ["Avani Lekhara", "Deepa Malik", "Bhavina Patel", "Ekta Bhyan"],
+    correctAnswer: 0,
+    difficulty: "HARD",
+    damage: 350,
+    explanation: "Avani Lekhara became the first Indian woman to win back-to-back Paralympic shooting gold medals."
+  },
+  {
+    classLevel: 6,
+    subject: "GK",
+    chapter: "Chapter 9: Sports, Famous Champions & Traditional Games of India",
+    question: "Which Indian woman cricketer holds the world record as the HIGHEST run-scorer in Women's International Cricket (over 10,000 runs) and captained India in two World Cup finals?",
+    options: ["Mithali Raj", "Harmanpreet Kaur", "Smriti Mandhana", "Jhulan Goswami"],
+    correctAnswer: 0,
+    difficulty: "HARD",
+    damage: 350,
+    explanation: "Mithali Raj played across 23 years, amassing 7,805 ODI runs and 10,868 international runs across formats."
+  },
+  {
+    classLevel: 6,
+    subject: "GK",
+    chapter: "Chapter 9: Sports, Famous Champions & Traditional Games of India",
+    question: "Who is the legendary fast bowler known as the 'Chakdaha Express', who is the highest wicket-taker in Women's One Day International cricket history (255 wickets)?",
+    options: ["Jhulan Goswami", "Shikha Pandey", "Pooja Vastrakar", "Renuka Singh"],
+    correctAnswer: 0,
+    difficulty: "HARD",
+    damage: 350,
+    explanation: "Jhulan Goswami from Bengal took 355 international wickets, recognized as the premier fast bowler in women's cricket."
+  },
+  {
+    classLevel: 6,
+    subject: "GK",
+    chapter: "Chapter 9: Sports, Famous Champions & Traditional Games of India",
+    question: "What is the ancient Sanskrit name of the traditional game of 'Chess', invented in India during the Gupta Empire in the 6th century CE?",
+    options: ["Chaturanga (representing four military divisions: infantry, cavalry, elephants, and chariots)", "Pachisi", "Moksha Patam", "Chaupar"],
+    correctAnswer: 0,
+    difficulty: "HARD",
+    damage: 350,
+    explanation: "Chaturanga featured four divisions (Padati, Ashwa, Gaja, Ratha) radiating around the Raja, evolving through Persia (Shatranj) into modern Chess."
+  },
+  {
+    classLevel: 6,
+    subject: "GK",
+    chapter: "Chapter 9: Sports, Famous Champions & Traditional Games of India",
+    question: "Which Indian doubles badminton pair achieved the historic World No. 1 ranking and won the Asian Games Gold (2023) and Thomas Cup title (2022)?",
+    options: ["Satwiksairaj Rankireddy and Chirag Shetty ('Sat-Chi')", "Lakshya Sen and Kidambi Srikanth", "Prannoy H.S. and Sai Praneeth", "Manu Attri and B. Sumeeth Reddy"],
+    correctAnswer: 0,
+    difficulty: "HARD",
+    damage: 350,
+    explanation: "Satwik and Chirag won India's maiden Asian Games badminton gold, Badminton Asia Championship, and the 2022 Thomas Cup."
+  },
+  {
+    classLevel: 6,
+    subject: "GK",
+    chapter: "Chapter 9: Sports, Famous Champions & Traditional Games of India",
+    question: "What is the iconic ancient board game originating in ancient India as 'Moksha Patam' (created by Saint Gyandev) to teach moral philosophy, known globally today as:",
+    options: ["Snakes and Ladders", "Ludo", "Monopoly", "Carrom"],
+    correctAnswer: 0,
+    difficulty: "HARD",
+    damage: 350,
+    explanation: "Moksha Patam depicted ladders as virtues (humility, faith) leading to salvation, and snakes as vices (anger, greed) dragging the soul down."
+  },
+  {
+    classLevel: 6,
+    subject: "GK",
+    chapter: "Chapter 9: Sports, Famous Champions & Traditional Games of India",
+    question: "Who was the legendary athlete who won the Olympic Silver medal in Men's 200m and 200m Hurdles at the Paris 1900 Olympics, representing British India as India's first ever Olympic medalist?",
+    options: ["Norman Pritchard", "K.D. Jadhav", "Milkha Singh", "Dhyan Chand"],
+    correctAnswer: 0,
+    difficulty: "HARD",
+    damage: 350,
+    explanation: "Calcutta-born Norman Pritchard won two silver medals in athletics in Paris 1900, recognized by the IOC as India's first Olympic participant."
+  }
+];
+
+console.log('Generated GK Ch9:', gkQuestions.length);
+fs.writeFileSync('C:/EduVerse/class 6/cross_subject/gk_ch9.json', JSON.stringify(gkQuestions, null, 2), 'utf8');

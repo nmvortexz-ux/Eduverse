@@ -1,0 +1,575 @@
+import fs from 'fs';
+
+// -------------------------------------------------------------
+// SUBJECT 3: English - Chapter 2: How the Dog Found Himself a New Master! (40 Questions)
+// -------------------------------------------------------------
+const englishQuestions = [
+  // EASY (12)
+  {
+    classLevel: 6,
+    subject: "English",
+    chapter: "Chapter 2: How the Dog Found Himself a New Master!",
+    question: "Long ago, how did dogs live before deciding to find a master?",
+    options: [
+      "They lived in freedom, like wolves, being their own masters",
+      "They lived in zoos",
+      "They were kept as farm cattle",
+      "They lived only in cold caves"
+    ],
+    correctAnswer: 0,
+    difficulty: "EASY",
+    damage: 150,
+    explanation: "Dogs once lived as wild beasts in full freedom, being their own masters until one dog grew tired of hunting."
+  },
+  {
+    classLevel: 6,
+    subject: "English",
+    chapter: "Chapter 2: How the Dog Found Himself a New Master!",
+    question: "Why was the dog sick and tired of his free, wild way of life?",
+    options: [
+      "He was tired of wandering about alone looking for food and being frightened of stronger animals",
+      "He wanted to sleep in a warm house",
+      "He hated running in forests",
+      "He wanted to eat cooked meat only"
+    ],
+    correctAnswer: 0,
+    difficulty: "EASY",
+    damage: 150,
+    explanation: "The dog was tired of hunting alone and living in constant fear of more powerful predators."
+  },
+  {
+    classLevel: 6,
+    subject: "English",
+    chapter: "Chapter 2: How the Dog Found Himself a New Master!",
+    question: "What decision did the dog make to solve his problem?",
+    options: [
+      "To become the loyal servant of someone who was stronger than anyone on Earth",
+      "To hide underground forever",
+      "To become a vegetarian",
+      "To fly in the sky like birds"
+    ],
+    correctAnswer: 0,
+    difficulty: "EASY",
+    damage: 150,
+    explanation: "He decided to seek service under the absolute strongest being on Earth to secure safety and food."
+  },
+  {
+    classLevel: 6,
+    subject: "English",
+    chapter: "Chapter 2: How the Dog Found Himself a New Master!",
+    question: "Who was the FIRST creature the dog chose as his master?",
+    options: ["A big, fierce Wolf (his kinsman)", "A Bear", "A Lion", "A Man"],
+    correctAnswer: 0,
+    difficulty: "EASY",
+    damage: 150,
+    explanation: "The dog first met a big, fierce wolf and agreed to serve him as master."
+  },
+  {
+    classLevel: 6,
+    subject: "English",
+    chapter: "Chapter 2: How the Dog Found Himself a New Master!",
+    question: "Why did the dog leave the Wolf?",
+    options: [
+      "Because the Wolf was afraid of the Bear, who could eat them both",
+      "The Wolf refused to share food",
+      "The Wolf bit the dog",
+      "The Wolf ran away to another country"
+    ],
+    correctAnswer: 0,
+    difficulty: "EASY",
+    damage: 150,
+    explanation: "Seeing the wolf terrified of the bear, the dog realized the wolf was not the strongest and left him."
+  },
+  {
+    classLevel: 6,
+    subject: "English",
+    chapter: "Chapter 2: How the Dog Found Himself a New Master!",
+    question: "Who was the SECOND master chosen by the dog?",
+    options: ["The Bear", "The Wolf", "The Lion", "The Elephant"],
+    correctAnswer: 0,
+    difficulty: "EASY",
+    damage: 150,
+    explanation: "After leaving the wolf, the dog offered his service to the Bear."
+  },
+  {
+    classLevel: 6,
+    subject: "English",
+    chapter: "Chapter 2: How the Dog Found Himself a New Master!",
+    question: "Why did the Bear run away into the deep forest while hunting a herd of cows?",
+    options: [
+      "He heard the loud, terrifying roar of a Lion",
+      "A thunderstorm started",
+      "The cows attacked the bear",
+      "He smelled fire in the woods"
+    ],
+    correctAnswer: 0,
+    difficulty: "EASY",
+    damage: 150,
+    explanation: "The bear panicked upon hearing a lion, confessing that the Lion is the strongest beast in the forest."
+  },
+  {
+    classLevel: 6,
+    subject: "English",
+    chapter: "Chapter 2: How the Dog Found Himself a New Master!",
+    question: "Who was the THIRD master chosen by the dog?",
+    options: ["The Lion", "The Bear", "The Wolf", "The Tiger"],
+    correctAnswer: 0,
+    difficulty: "EASY",
+    damage: 150,
+    explanation: "The dog left the bear and stayed with the Lion for a very long, comfortable time."
+  },
+  {
+    classLevel: 6,
+    subject: "English",
+    chapter: "Chapter 2: How the Dog Found Himself a New Master!",
+    question: "Why did the Lion suddenly stop, give a great roar, and strike the ground angrily while walking near a cliff?",
+    options: [
+      "He smelled the scent of a Man approaching and warned the dog to run away",
+      "He stepped on a sharp thorn",
+      "He saw an elephant coming",
+      "He was hungry"
+    ],
+    correctAnswer: 0,
+    difficulty: "EASY",
+    damage: 150,
+    explanation: "The lion caught the scent of human presence and warned the dog that they must flee or face trouble."
+  },
+  {
+    classLevel: 6,
+    subject: "English",
+    chapter: "Chapter 2: How the Dog Found Himself a New Master!",
+    question: "Who did the dog finally choose as his ULTIMATE and permanent master?",
+    options: ["Man (Human)", "The Lion", "The Tiger", "The Elephant"],
+    correctAnswer: 0,
+    difficulty: "EASY",
+    damage: 150,
+    explanation: "Realizing that Man is stronger than all wild beasts, the dog chose Man as his ultimate master."
+  },
+  {
+    classLevel: 6,
+    subject: "English",
+    chapter: "Chapter 2: How the Dog Found Himself a New Master!",
+    question: "In the poem 'The Kite' by Harry Behn, how does a new kite look in the blue sky?",
+    options: [
+      "Bright and beautiful as it dives and dips",
+      "Dark and dusty",
+      "Heavy and clumsy",
+      "Faded and torn"
+    ],
+    correctAnswer: 0,
+    difficulty: "EASY",
+    damage: 150,
+    explanation: "Poet Harry Behn opens: 'How bright on the blue is a kite when it's new! With a dive and a dip it snaps its tail...'"
+  },
+  {
+    classLevel: 6,
+    subject: "English",
+    chapter: "Chapter 2: How the Dog Found Himself a New Master!",
+    question: "In the supplementary story 'The Friendly Mongoose', why did the farmer bring a baby mongoose home?",
+    options: [
+      "To be a companion and protective pet for their infant son",
+      "To sell it in the market",
+      "To guard the crops from thieves",
+      "To hunt birds in the garden"
+    ],
+    correctAnswer: 0,
+    difficulty: "EASY",
+    damage: 150,
+    explanation: "The farmer wished to provide his infant son with a loyal companion as the child grew up."
+  },
+
+  // MEDIUM (16)
+  {
+    classLevel: 6,
+    subject: "English",
+    chapter: "Chapter 2: How the Dog Found Himself a New Master!",
+    question: "What is the chronological sequence of masters tested by the dog in his quest for the strongest leader?",
+    options: [
+      "Wolf -> Bear -> Lion -> Man",
+      "Bear -> Wolf -> Lion -> Man",
+      "Lion -> Bear -> Wolf -> Man",
+      "Wolf -> Lion -> Bear -> Man"
+    ],
+    correctAnswer: 0,
+    difficulty: "MEDIUM",
+    damage: 250,
+    explanation: "The dog successively evaluated and transitioned from Wolf to Bear, then Lion, and finally Man."
+  },
+  {
+    classLevel: 6,
+    subject: "English",
+    chapter: "Chapter 2: How the Dog Found Himself a New Master!",
+    question: "What figure of speech / simile is used in the poem 'The Kite' to describe the flight of a kite soaring on a gust of wind?",
+    options: [
+      "\"Then soars like a ship with only a sail\"",
+      "\"Dives like an eagle\"",
+      "\"Runs like a horse\"",
+      "\"Shines like a diamond\""
+    ],
+    correctAnswer: 0,
+    difficulty: "MEDIUM",
+    damage: 250,
+    explanation: "The poet compares the effortless aerodynamic riding of the kite to a ship gliding over ocean waves with a single sail."
+  },
+  {
+    classLevel: 6,
+    subject: "English",
+    chapter: "Chapter 2: How the Dog Found Himself a New Master!",
+    question: "What makes a soaring kite become a 'raggedy thing' according to Harry Behn's poem?",
+    options: [
+      "When its string gets tangled in the branches of a tree, flapping helplessly until torn",
+      "When it gets wet in rain",
+      "When the sun sets",
+      "When children cut the tail"
+    ],
+    correctAnswer: 0,
+    difficulty: "MEDIUM",
+    damage: 250,
+    explanation: "The poem laments the pathetic sight of a trapped kite fluttering and tearing apart upon tree branches."
+  },
+  {
+    classLevel: 6,
+    subject: "English",
+    chapter: "Chapter 2: How the Dog Found Himself a New Master!",
+    question: "In 'The Friendly Mongoose', why did the farmer's wife kill the loyal mongoose with a heavy water pot?",
+    options: [
+      "She acted in hasty blind rage, seeing blood on the mongoose's mouth and assuming it had harmed her sleeping baby",
+      "The mongoose bit her leg",
+      "The mongoose stole her food",
+      "She wanted a dog instead"
+    ],
+    correctAnswer: 0,
+    difficulty: "MEDIUM",
+    damage: 250,
+    explanation: "She jumped to a hasty, tragic conclusion without inspecting the cradle inside the room."
+  },
+  {
+    classLevel: 6,
+    subject: "English",
+    chapter: "Chapter 2: How the Dog Found Himself a New Master!",
+    question: "What did the farmer's wife find inside the room AFTER she struck down the mongoose?",
+    options: [
+      "Her baby sleeping peacefully in the cradle, and a black venomous cobra lying torn and bleeding dead on the floor",
+      "The baby was missing",
+      "The cradle was on fire",
+      "Another snake inside the bed"
+    ],
+    correctAnswer: 0,
+    difficulty: "MEDIUM",
+    damage: 250,
+    explanation: "The brave mongoose had fought and killed the venomous snake to defend the sleeping infant."
+  },
+  {
+    classLevel: 6,
+    subject: "English",
+    chapter: "Chapter 2: How the Dog Found Himself a New Master!",
+    question: "What profound moral lesson is taught by the Panchatantra tale 'The Friendly Mongoose'?",
+    options: [
+      "Never act in hasty anger or make irreversible decisions without verifying facts first ('Look before you leap')",
+      "Never keep any animals as pets",
+      "Mongoose and snakes are best friends",
+      "Women should never fetch water"
+    ],
+    correctAnswer: 0,
+    difficulty: "MEDIUM",
+    damage: 250,
+    explanation: "Hasty, unthinking emotional action leads to irreversible tragedy and lifelong remorse."
+  },
+  {
+    classLevel: 6,
+    subject: "English",
+    chapter: "Chapter 2: How the Dog Found Himself a New Master!",
+    question: "Choose the correct meaning of the collective noun 'a herd' as used in the chapter:",
+    options: ["A group of cattle / grazing animals", "A flock of birds", "A pack of wolves", "A pride of lions"],
+    correctAnswer: 0,
+    difficulty: "MEDIUM",
+    damage: 250,
+    explanation: "'Herd' denotes a collective assemblage of herbivorous domestic or wild ungulates (cows, deer, elephants)."
+  },
+  {
+    classLevel: 6,
+    subject: "English",
+    chapter: "Chapter 2: How the Dog Found Himself a New Master!",
+    question: "What is the collective noun used for a group of Wolves in English grammar?",
+    options: ["A pack of wolves", "A herd of wolves", "A flock of wolves", "A swarm of wolves"],
+    correctAnswer: 0,
+    difficulty: "MEDIUM",
+    damage: 250,
+    explanation: "In standard grammatical nomenclature, wolves hunt and travel socially in 'a pack'."
+  },
+  {
+    classLevel: 6,
+    subject: "English",
+    chapter: "Chapter 2: How the Dog Found Himself a New Master!",
+    question: "What does the word 'Kinsman' mean in the sentence: 'The dog met a wolf who was his kinsman'?",
+    options: ["A relative belonging to the same biological family/lineage", "A stranger", "An enemy", "A servant"],
+    correctAnswer: 0,
+    difficulty: "MEDIUM",
+    damage: 250,
+    explanation: "A kinsman is a blood relative; canids (dogs, wolves, jackals) share direct evolutionary kinship."
+  },
+  {
+    classLevel: 6,
+    subject: "English",
+    chapter: "Chapter 2: How the Dog Found Himself a New Master!",
+    question: "What does the word 'Fierce' mean in the context of the Wolf's description?",
+    options: ["Violent, aggressive, and frightening", "Gentle and calm", "Tiny and weak", "Lazy"],
+    correctAnswer: 0,
+    difficulty: "MEDIUM",
+    damage: 250,
+    explanation: "'Fierce' describes an intimidating, menacing, and ferocious disposition."
+  },
+  {
+    classLevel: 6,
+    subject: "English",
+    chapter: "Chapter 2: How the Dog Found Himself a New Master!",
+    question: "What does 'sniff the air' mean as done by the Bear and the Lion in the forest?",
+    options: [
+      "To draw in air through the nose to detect the scent of other animals or danger",
+      "To sneeze repeatedly",
+      "To blow cold wind",
+      "To fall asleep"
+    ],
+    correctAnswer: 0,
+    difficulty: "MEDIUM",
+    damage: 250,
+    explanation: "Olfactory tracking enables wild animals to detect chemical pheromones and potential threats."
+  },
+  {
+    classLevel: 6,
+    subject: "English",
+    chapter: "Chapter 2: How the Dog Found Himself a New Master!",
+    question: "What does the phrase 'to take up service with someone' mean in the story?",
+    options: ["To become someone's loyal servant or employee", "To fight against someone", "To invite someone for dinner", "To arrest someone"],
+    correctAnswer: 0,
+    difficulty: "MEDIUM",
+    damage: 250,
+    explanation: "The idiom denotes pledging one's labor, allegiance, and dutiful service to a designated superior."
+  },
+  {
+    classLevel: 6,
+    subject: "English",
+    chapter: "Chapter 2: How the Dog Found Himself a New Master!",
+    question: "How long did the dog serve the Lion before deciding to leave him?",
+    options: [
+      "For a long, long time with great peace and satisfaction, until a man passed by",
+      "Only for one afternoon",
+      "For two days",
+      "He never served the Lion"
+    ],
+    correctAnswer: 0,
+    difficulty: "MEDIUM",
+    damage: 250,
+    explanation: "The dog enjoyed a long, tranquil life with the Lion because no other beast dared offend the King of the forest."
+  },
+  {
+    classLevel: 6,
+    subject: "English",
+    chapter: "Chapter 2: How the Dog Found Himself a New Master!",
+    question: "What does 'cliff' mean in the line: 'They walked on until the lion stopped near a bare cliff'?",
+    options: ["A steep, high rock face / precipice", "A sandy beach", "A river bridge", "A dense bush"],
+    correctAnswer: 0,
+    difficulty: "MEDIUM",
+    damage: 250,
+    explanation: "A cliff is an exposed vertical or near-vertical rocky precipice."
+  },
+  {
+    classLevel: 6,
+    subject: "English",
+    chapter: "Chapter 2: How the Dog Found Himself a New Master!",
+    question: "In 'The Kite', when the wind falls, what happens to the kite's string?",
+    options: [
+      "The string goes slack, and the child winds it back on the reel",
+      "The kite snaps into space",
+      "The kite turns into a bird",
+      "The string catches fire"
+    ],
+    correctAnswer: 0,
+    difficulty: "MEDIUM",
+    damage: 250,
+    explanation: "As aerodynamic lift drops, the tethering line loses tension, requiring the flier to wind the spool."
+  },
+  {
+    classLevel: 6,
+    subject: "English",
+    chapter: "Chapter 2: How the Dog Found Himself a New Master!",
+    question: "What is the relationship between dogs and humans since the events of the folk legend?",
+    options: [
+      "The dog serves Man faithfully and knows no other master to this day",
+      "Dogs returned to live in the wild as wolves",
+      "Dogs became wild enemies of humans",
+      "Dogs only serve lions now"
+    ],
+    correctAnswer: 0,
+    difficulty: "MEDIUM",
+    damage: 250,
+    explanation: "The tale concludes that canine domestication established an enduring bond of unparalleled fidelity to humanity."
+  },
+
+  // HARD (12)
+  {
+    classLevel: 6,
+    subject: "English",
+    chapter: "Chapter 2: How the Dog Found Himself a New Master!",
+    question: "Read the statements:\nAssertion (A): The dog's quest demonstrates a logical process of progressive elimination.\nReason (R): Each time the dog discovered a vulnerability or fear in his master (Wolf fearing Bear, Bear fearing Lion, Lion fearing Man), he systematically migrated his allegiance to the superior power.\nChoose the correct option:",
+    "options": [
+      "Both (A) and (R) are true, and (R) is the correct explanation of (A).",
+      "Both (A) and (R) are true, but (R) is NOT the correct explanation of (A).",
+      "(A) is true, but (R) is false.",
+      "(A) is false, but (R) is true."
+    ],
+    correctAnswer: 0,
+    difficulty: "HARD",
+    damage: 350,
+    explanation: "The folk narrative operates on a clear hierarchy of power where each tier reveals a superior predator until reaching apex human intellect."
+  },
+  {
+    classLevel: 6,
+    subject: "English",
+    chapter: "Chapter 2: How the Dog Found Himself a New Master!",
+    question: "Spot the IMPOSTER in the following list of collective nouns paired with animal groups:\nGroup: [A pride of lions, A herd of cattle, A flock of sheep, A pack of bears]",
+    "options": ["A pride of lions", "A herd of cattle", "A flock of sheep", "A pack of bears"],
+    correctAnswer: 3,
+    difficulty: "HARD",
+    damage: 350,
+    explanation: "A group of bears is called 'a sloth of bears' or 'a sleuth of bears', NOT 'a pack' (which belongs to wolves/dogs)."
+  },
+  {
+    classLevel: 6,
+    subject: "English",
+    chapter: "Chapter 2: How the Dog Found Himself a New Master!",
+    question: "Match the following actions from the story with the emotions they express:\n(a) Lion strikes ground and roars -> (i) Frantic panic & self-preservation\n(b) Bear runs hastily into forest  -> (ii) Alarm at detecting human threat\n(c) Dog wags tail before man       -> (iii) Submission & lifelong loyalty\n(d) Wolf hides behind bushes      -> (iv) Fear of a larger predator (Bear)",
+    "options": [
+      "a-(ii), b-(i), c-(iii), d-(iv)",
+      "a-(i), b-(ii), c-(iii), d-(iv)",
+      "a-(iv), b-(iii), c-(ii), d-(i)",
+      "a-(iii), b-(iv), c-(i), d-(ii)"
+    ],
+    correctAnswer: 0,
+    difficulty: "HARD",
+    damage: 350,
+    explanation: "Accurately maps behavioral physical cues of wild predators to their internal psychological motivations in the text."
+  },
+  {
+    classLevel: 6,
+    subject: "English",
+    chapter: "Chapter 2: How the Dog Found Himself a New Master!",
+    question: "In the poem 'The Kite', what is the poetic significance of comparing a kite's flight to a ship riding the 'crest of a gust'?",
+    "options": [
+      "It captures the majestic, buoyant rhythm of soaring high over atmospheric thermal currents, mimicking a nautical vessel riding ocean swells",
+      "It shows that kites can float on ocean water",
+      "It means kites are made of heavy ship timber",
+      "It proves kites are used as anchors"
+    ],
+    correctAnswer: 0,
+    difficulty: "HARD",
+    damage: 350,
+    explanation: "Harry Behn evokes fluid dynamics: airflow lift beneath the paper sail mimics buoyant hydrodynamic waves beneath a schooner."
+  },
+  {
+    classLevel: 6,
+    subject: "English",
+    chapter: "Chapter 2: How the Dog Found Himself a New Master!",
+    question: "Read the statements from 'The Friendly Mongoose':\nStatement 1: The farmer trusted the mongoose, but his wife was deeply suspicious and fearful of wild instincts.\nStatement 2: The mongoose sacrificed its life to protect the child from a cobra.\nStatement 3: The farmer's wife rejoiced after killing the mongoose and threw a celebration.\nWhich statements are TRUE?",
+    "options": ["Statements 1 and 2 only", "Statements 2 and 3 only", "Statements 1 and 3 only", "All Statements 1, 2, and 3"],
+    "correctAnswer": 0,
+    difficulty: "HARD",
+    damage: 350,
+    explanation: "Statement 3 is false because the farmer's wife wept bitterly in profound grief and repentance for her rash action."
+  },
+  {
+    classLevel: 6,
+    subject: "English",
+    chapter: "Chapter 2: How the Dog Found Himself a New Master!",
+    question: "Which of the following proverbs encapsulates the core theme of the folk tale 'How the Dog Found Himself a New Master!'?",
+    "options": [
+      "\"Wisdom and survival lie in choosing the right alliances.\"",
+      "\"A bird in hand is worth two in the bush.\"",
+      "\"Too many cooks spoil the broth.\"",
+      "\"All that glitters is not gold.\""
+    ],
+    correctAnswer: 0,
+    difficulty: "HARD",
+    damage: 350,
+    explanation: "The dog exercises pragmatic social intelligence to secure lifelong survival and protection."
+  },
+  {
+    classLevel: 6,
+    subject: "English",
+    chapter: "Chapter 2: How the Dog Found Himself a New Master!",
+    question: "In grammar, what type of sentence is: 'Would you like to be my master, Wolf?'",
+    "options": ["Interrogative sentence", "Declarative sentence", "Imperative sentence", "Exclamatory sentence"],
+    correctAnswer: 0,
+    difficulty: "HARD",
+    damage: 350,
+    explanation: "A sentence that poses a direct question and ends with a question mark is an Interrogative sentence."
+  },
+  {
+    classLevel: 6,
+    subject: "English",
+    chapter: "Chapter 2: How the Dog Found Himself a New Master!",
+    question: "What is the antonym of the word 'Fierce' as used in describing gentle domestic animals?",
+    "options": ["Tame / Gentle", "Wild", "Cruel", "Ferocious"],
+    correctAnswer: 0,
+    difficulty: "HARD",
+    damage: 350,
+    explanation: "The opposite of fierce/ferocious is tame, mild, docile, or gentle."
+  },
+  {
+    classLevel: 6,
+    subject: "English",
+    chapter: "Chapter 2: How the Dog Found Himself a New Master!",
+    question: "Why did the Lion express genuine fear of Man, despite being the crowned King of Beasts?",
+    "options": [
+      "Man's superior intellect, tools, fire, and hunting weapons made humans the apex threat to all wild predators",
+      "Humans are physically three times larger than lions",
+      "Humans have sharp claws",
+      "Humans can run faster than cheetahs"
+    ],
+    correctAnswer: 0,
+    difficulty: "HARD",
+    damage: 350,
+    explanation: "Human technology, fire, and strategic cooperative hunting historically subdued even the fiercest megafauna."
+  },
+  {
+    classLevel: 6,
+    subject: "English",
+    chapter: "Chapter 2: How the Dog Found Himself a New Master!",
+    question: "What literary device is present in the line: 'With a dive and a dip it snaps its tail'?",
+    "options": ["Alliteration (repetition of 'd' consonant sound)", "Hyperbole", "Personification", "Irony"],
+    correctAnswer: 0,
+    difficulty: "HARD",
+    damage: 350,
+    explanation: "The rhythmic repetition of the initial consonant sound /d/ in 'dive and dip' is classical Alliteration."
+  },
+  {
+    classLevel: 6,
+    subject: "English",
+    chapter: "Chapter 2: How the Dog Found Himself a New Master!",
+    question: "In 'The Friendly Mongoose', what psychological bias caused the mother to believe the blood on the pet's paws was her son's?",
+    "options": [
+      "Confirmation bias / deep-seated prejudice against the wild origin of the mongoose",
+      "Complete loss of eyesight",
+      "Memory loss",
+      "Dreaming while awake"
+    ],
+    correctAnswer: 0,
+    difficulty: "HARD",
+    damage: 350,
+    explanation: "Her pre-existing anxiety that 'a wild beast cannot be trusted' made her instinctively assume guilt upon seeing blood."
+  },
+  {
+    classLevel: 6,
+    subject: "English",
+    chapter: "Chapter 2: How the Dog Found Himself a New Master!",
+    question: "Complete the analogical relationship: Wolf is to Pack as Lion is to ______",
+    "options": ["Pride", "Flock", "Herd", "Swarm"],
+    correctAnswer: 0,
+    difficulty: "HARD",
+    damage: 350,
+    explanation: "Wolves associate in a pack; lions live and hunt collectively in a social family group called a 'pride'."
+  }
+];
+
+console.log('Generated English Ch2:', englishQuestions.length);
+fs.writeFileSync('C:/EduVerse/class 6/cross_subject/english_ch2.json', JSON.stringify(englishQuestions, null, 2), 'utf8');

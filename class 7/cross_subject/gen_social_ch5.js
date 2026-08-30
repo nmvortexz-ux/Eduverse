@@ -1,0 +1,590 @@
+import fs from 'fs';
+
+// -------------------------------------------------------------
+// SUBJECT 5: Social Science - Chapter 5: Rulers and Buildings (40 Questions)
+// -------------------------------------------------------------
+const socialQuestions = [
+  // EASY (12)
+  {
+    classLevel: 7,
+    subject: "Social Science",
+    chapter: "Chapter 5: Rulers and Buildings",
+    question: "Between the 8th and 18th centuries, what two main categories of structural buildings were constructed by kings and their officers?",
+    options: [
+      "1. Forts, palaces, and royal tombs (safe, protected places of grand rest) ; 2. Temples, mosques, tanks, wells, caravan serais, and bazaars (structures meant for public use)",
+      "Only wooden huts and tents",
+      "Only stone factories",
+      "Only bridges over oceans"
+    ],
+    correctAnswer: 0,
+    difficulty: "EASY",
+    damage: 150,
+    explanation: "Medieval monument architecture comprised royal monumental structures (forts, tombs, palaces) and public civic infrastructure (tanks, stepwells, mosques, bazaars)."
+  },
+  {
+    classLevel: 7,
+    subject: "Social Science",
+    chapter: "Chapter 5: Rulers and Buildings",
+    question: "What was the traditional Indian architectural style where roofs, doors, and windows were made by placing a horizontal beam across two vertical pillars called?",
+    options: ["Trabeate (or Corbelled) Architectural Style", "Arcuate Architectural Style", "Gothic Style", "Doric Style"],
+    correctAnswer: 0,
+    difficulty: "EASY",
+    damage: 150,
+    explanation: "Trabeate/Corbelled architecture utilizes post-and-lintel structural beams across vertical support columns."
+  },
+  {
+    classLevel: 7,
+    subject: "Social Science",
+    chapter: "Chapter 5: Rulers and Buildings",
+    question: "From the 12th century, what new technological architectural style emerged where the weight of the superstructure above doors and windows was carried by true circular ARCHES with a central Keystone?",
+    options: ["Arcuate Architectural Style", "Trabeate Style", "Corbelled Style", "Cave Rock Style"],
+    correctAnswer: 0,
+    difficulty: "EASY",
+    damage: 150,
+    explanation: "Arcuate architecture distributes structural loads through true compressive voussoir arches stabilized by a central keystone."
+  },
+  {
+    classLevel: 7,
+    subject: "Social Science",
+    chapter: "Chapter 5: Rulers and Buildings",
+    question: "What high-quality cementing material mixed with stone chips became increasingly used in 12th-century large-scale construction, hardening rapidly into stone-like mortar?",
+    options: ["Limestone Mortar", "Clay mud only", "Plaster of Paris", "Plastic polymer"],
+    correctAnswer: 0,
+    difficulty: "EASY",
+    damage: 150,
+    explanation: "Limestone cement mortar set rapidly with great tensile resilience, facilitating massive domes and arches."
+  },
+  {
+    classLevel: 7,
+    subject: "Social Science",
+    chapter: "Chapter 5: Rulers and Buildings",
+    question: "Which magnificent Shiva temple with the tallest Shikhara of its time was constructed at Thanjavur by the Chola King Rajaraja I?",
+    options: ["Rajarajeshvara Temple (Brihadisvara Temple)", "Kandariya Mahadeva Temple", "Sun Temple Konark", "Shore Temple Mahabalipuram"],
+    correctAnswer: 0,
+    difficulty: "EASY",
+    damage: 150,
+    explanation: "Brihadisvara Temple (Rajarajeshvara) at Thanjavur featured an 80-tonne granite monolithic shikhara capstone erected c. 1010 CE."
+  },
+  {
+    classLevel: 7,
+    subject: "Social Science",
+    chapter: "Chapter 5: Rulers and Buildings",
+    question: "Which ornate Shiva temple with a series of graded rising Shikharas was constructed in 999 CE at Khajuraho by the Chandela King Dhangadeva?",
+    options: ["Kandariya Mahadeva Temple", "Brihadisvara Temple", "Meenakshi Temple", "Lingaraja Temple"],
+    correctAnswer: 0,
+    difficulty: "EASY",
+    damage: 150,
+    explanation: "The Kandariya Mahadeva temple in Khajuraho exemplifies Nagara temple architecture with soaring fractal shikhara spires."
+  },
+  {
+    classLevel: 7,
+    subject: "Social Science",
+    chapter: "Chapter 5: Rulers and Buildings",
+    question: "What is a large traditional multi-storied stepped well with underground descending flights of stone stairs to reach the water reservoir called?",
+    options: ["Baoli (or Vav / Stepwell)", "Canal", "Pond", "Aqueduct"],
+    correctAnswer: 0,
+    difficulty: "EASY",
+    damage: 150,
+    explanation: "Baolis/Vavs are sub-surface stepped wells engineered for arid water storage, subterranean cooling, and public respite."
+  },
+  {
+    classLevel: 7,
+    subject: "Social Science",
+    chapter: "Chapter 5: Rulers and Buildings",
+    question: "What is the famous grand stepped reservoir built by Sultan Iltutmish just outside Delhi (Dehli-i Kuhna) for public drinking water called?",
+    options: ["Hauz-i Sultani (The King's Reservoir)", "Hauz Khas", "Bawali", "Surajkund"],
+    correctAnswer: 0,
+    difficulty: "EASY",
+    damage: 150,
+    explanation: "Iltutmish won universal public acclaim for excavating Hauz-i Sultani (the Royal Reservoir) for Delhi citizens."
+  },
+  {
+    classLevel: 7,
+    subject: "Social Science",
+    chapter: "Chapter 5: Rulers and Buildings",
+    question: "What is the fine art technique of inlaying polished colored stones (like lapis lazuli, onyx, and jasper) into marble depressions to create floral patterns called?",
+    options: ["Pietra Dura (Parchin Kari)", "Fresco", "Mosaic", "Enamel"],
+    correctAnswer: 0,
+    difficulty: "EASY",
+    damage: 150,
+    explanation: "Pietra Dura (Parchin Kari) inlays semi-precious gem stones into carved marble cavities to create radiant natural motifs."
+  },
+  {
+    classLevel: 7,
+    subject: "Social Science",
+    chapter: "Chapter 5: Rulers and Buildings",
+    question: "What was the formal garden layout favored by Mughal emperors, divided symmetrically into four equal quadrants by artificial water channels, called?",
+    options: ["Chahar Bagh (Charbagh)", "Botanical Garden", "Hanging Gardens", "Rock Garden"],
+    correctAnswer: 0,
+    difficulty: "EASY",
+    damage: 150,
+    explanation: "Chahar Bagh is the quadripartite symmetrical garden layout divided by axial intersecting water rills."
+  },
+  {
+    classLevel: 7,
+    subject: "Social Science",
+    chapter: "Chapter 5: Rulers and Buildings",
+    question: "What holy central Sikh shrine and stepped Amrit Sarovar tank was constructed at Amritsar under Guru Arjan Dev in the late 16th century?",
+    options: ["Harmandir Sahib (The Golden Temple)", "Bangla Sahib", "Sis Ganj Sahib", "Patna Sahib"],
+    correctAnswer: 0,
+    difficulty: "EASY",
+    damage: 150,
+    explanation: "Guru Arjan Dev constructed the Harmandir Sahib in the center of the holy Amrit Sarovar lake in Amritsar."
+  },
+  {
+    classLevel: 7,
+    subject: "Social Science",
+    chapter: "Chapter 5: Rulers and Buildings",
+    question: "Who built the monumental 73-metre high sandstone Qutb Minar tower in Delhi, initiating its construction around 1199 CE?",
+    options: ["Qutbuddin Aibak (completed by Iltutmish and repaired by Firuz Tughluq)", "Alauddin Khalji", "Babur", "Shah Jahan"],
+    correctAnswer: 0,
+    difficulty: "EASY",
+    damage: 150,
+    explanation: "Qutbuddin Aibak built the base balcony of Qutb Minar in 1199; Iltutmish added three upper storeys c. 1220."
+  },
+
+  // MEDIUM (16)
+  {
+    classLevel: 7,
+    subject: "Social Science",
+    chapter: "Chapter 5: Rulers and Buildings",
+    question: "How was the massive 90-tonne single granite stone placed atop the 60-metre high Shikhara of the Rajarajeshvara Temple at Thanjavur without modern cranes?",
+    options: [
+      "Architects built an inclined earth ramp (over 4 km long) starting from a nearby village, rolling the heavy stone all the way up on log rollers to the temple pinnacle",
+      "They pulled it with a giant rope from the clouds",
+      "They dropped it from an airplane",
+      "The stone was made of foam"
+    ],
+    correctAnswer: 0,
+    difficulty: "MEDIUM",
+    damage: 250,
+    explanation: "Chola master engineers constructed a 4-km earthen inclined gradient from the village of Charupallam to haul the 90-ton monolithic cupola."
+  },
+  {
+    classLevel: 7,
+    subject: "Social Science",
+    chapter: "Chapter 5: Rulers and Buildings",
+    question: "Why did medieval kings target, desecrate, and loot the main structural temples of rival kingdoms during military invasions?",
+    options: [
+      "Temples were supreme symbols of a king's political power, imperial wealth, and divine legitimacy; destroying the rival's temple proclaimed total conquest and humiliated the defeated dynasty",
+      "Because rival soldiers hid inside temples",
+      "Because temples were made of wood",
+      "Because kings wanted to build roads over them"
+    ],
+    correctAnswer: 0,
+    difficulty: "MEDIUM",
+    damage: 250,
+    explanation: "Monumental temples embodied royal majesty and divine charisma; their targeted destruction symbolized the total subjugation of the rival state."
+  },
+  {
+    classLevel: 7,
+    subject: "Social Science",
+    chapter: "Chapter 5: Rulers and Buildings",
+    question: "When the 9th-century Pandyan King Shrimara Shrivallabha invaded Sri Lanka and defeated King Sena I, what precious Buddhist relic did he carry away?",
+    options: [
+      "The colossal jewel-encrusted Golden Statue of the Buddha from the Jewel Palace and all golden images from monasteries",
+      "A silver ship",
+      "A sacred wooden chariot",
+      "A bronze bell only"
+    ],
+    correctAnswer: 0,
+    difficulty: "MEDIUM",
+    damage: 250,
+    explanation: "The Mahavamsa chronicles that Shrimara seized the golden Buddha image from the Jewel Palace, which Sena II later invaded Madurai to recover."
+  },
+  {
+    classLevel: 7,
+    subject: "Social Science",
+    chapter: "Chapter 5: Rulers and Buildings",
+    question: "Why did the 11th-century Chola King Rajendra I build a magnificent Shiva temple in his capital and fill it with captured statues from defeated rulers (Chalukyas, Palas, Kalingas)?",
+    options: [
+      "To celebrate imperial pan-Indian hegemony by displaying captured sacred trophies (Ganesha, Durga, Nandi, Bhairava, Kali) from all four corners of the subcontinent",
+      "Because he did not have sculptors in his kingdom",
+      "To sell them in foreign markets",
+      "To hide them from his people"
+    ],
+    correctAnswer: 0,
+    difficulty: "MEDIUM",
+    damage: 250,
+    explanation: "Rajendra I transformed his imperial temple into a pan-subcontinental trophy pavilion housing deities seized from vanquished rivals."
+  },
+  {
+    classLevel: 7,
+    subject: "Social Science",
+    chapter: "Chapter 5: Rulers and Buildings",
+    question: "In Shah Jahan's newly constructed capital city of Shahjahanabad (Delhi), where was the grand imperial Red Fort situated along the river Yamuna?",
+    options: [
+      "Directly overlooking the riverbank of Yamuna in a 'River-Front Garden' layout, with only select favored princes (like Dara Shikoh) granted river access",
+      "In the middle of a desert away from water",
+      "On top of the Himalayas",
+      "Inside an underground cave"
+    ],
+    correctAnswer: 0,
+    difficulty: "MEDIUM",
+    damage: 250,
+    explanation: "Shah Jahan adapted the riverfront garden topology, positioning the imperial palace directly on the Yamuna to control riverine access."
+  },
+  {
+    classLevel: 7,
+    subject: "Social Science",
+    chapter: "Chapter 5: Rulers and Buildings",
+    question: "What architectural connection did Shah Jahan create between the Emperor's Throne (Diwan-i Aam) and divine justice in the Red Fort at Delhi?",
+    options: [
+      "Behind the throne was a series of Pietra Dura panels depicting the Greek god Orpheus playing his lute (taming savage beasts), symbolizing that the King's justice treats the high and low as equals in peace",
+      "The throne was carved from a single diamond",
+      "The throne had cannons pointed at the crowd",
+      "The throne was suspended in mid-air with magnets"
+    ],
+    correctAnswer: 0,
+    difficulty: "MEDIUM",
+    damage: 250,
+    explanation: "Pietra dura inlays of Orpheus taming beasts behind Shah Jahan's jharokha symbolized royal justice reconciling fierce discord into harmonious peace."
+  },
+  {
+    classLevel: 7,
+    subject: "Social Science",
+    chapter: "Chapter 5: Rulers and Buildings",
+    question: "What is the 'Bangla Dome' / thatched roof architectural adaptation adopted by Mughal emperors into their stone palace architecture?",
+    options: [
+      "A graceful curved roof modeled on the traditional curved bamboo thatched roofs of Bengal huts, used in Agra Fort and Fatehpur Sikri",
+      "A flat stone roof",
+      "A pyramid made of glass",
+      "A tower made of metal"
+    ],
+    correctAnswer: 0,
+    difficulty: "MEDIUM",
+    damage: 250,
+    explanation: "Mughal architects adapted regional Bengali vaulted hut profiles ('Bangla dome') into imperial marble and sandstone pavilions."
+  },
+  {
+    classLevel: 7,
+    subject: "Social Science",
+    chapter: "Chapter 5: Rulers and Buildings",
+    question: "How did architectural styles cross-pollinate across regions during the 16th–17th centuries (e.g. temples in Vrindavan near Mathura)?",
+    options: [
+      "Temples in Vrindavan (like the Govind Deva temple, 1590) featured high intersecting ceiling arches constructed in architectural styles identical to Mughal palaces in Fatehpur Sikri",
+      "Temples were built in Greek and Roman style",
+      "Temples were imported from Europe",
+      "Temples were built with no roofs"
+    ],
+    correctAnswer: 0,
+    difficulty: "MEDIUM",
+    damage: 250,
+    explanation: "Cross-cultural architectural synthesis: Govind Deva temple's ribbed vaulting in red sandstone mirrored Akbar's Fatehpur Sikri palace engineering."
+  },
+  {
+    classLevel: 7,
+    subject: "Social Science",
+    chapter: "Chapter 5: Rulers and Buildings",
+    question: "What was the 'Garbhagriha' in a classical Hindu temple?",
+    options: [
+      "The innermost sacred sanctum sanctorum where the main deity's idol / murti was installed and consecrated for ritual worship",
+      "The kitchen of the temple",
+      "The royal stable for elephants",
+      "The outdoor garden"
+    ],
+    correctAnswer: 0,
+    difficulty: "MEDIUM",
+    damage: 250,
+    explanation: "The Garbhagriha (womb-chamber) is the central, sacred nucleus of a Hindu temple enshrining the principal consecrated deity."
+  },
+  {
+    classLevel: 7,
+    subject: "Social Science",
+    chapter: "Chapter 5: Rulers and Buildings",
+    question: "What was the 'Mandapa' in classical temple architecture?",
+    options: [
+      "The pillared assembly hall where devotees gathered, sacred dances were performed, and religious rituals were conducted",
+      "The main tower over the deity",
+      "The water well outside",
+      "The outer boundary wall"
+    ],
+    correctAnswer: 0,
+    difficulty: "MEDIUM",
+    damage: 250,
+    explanation: "The Mandapa is the pillared congregational hall preceding the garbhagriha in Nagara and Dravida temple layouts."
+  },
+  {
+    classLevel: 7,
+    subject: "Social Science",
+    chapter: "Chapter 5: Rulers and Buildings",
+    question: "What was the 'Shikhara' (or Vimana in South India)?",
+    options: [
+      "The towering, rising conical superstructure/spire constructed directly over the Garbhagriha sanctum sanctorum",
+      "The temple entrance gate",
+      "The water tank",
+      "The temple floor"
+    ],
+    correctAnswer: 0,
+    difficulty: "MEDIUM",
+    damage: 250,
+    explanation: "The Shikhara/Vimana is the towering architectural mountain spire rising majestically above the central sanctum."
+  },
+  {
+    classLevel: 7,
+    subject: "Social Science",
+    chapter: "Chapter 5: Rulers and Buildings",
+    question: "What was the 'Gopuram' in South Indian Dravida temple complexes (such as Madurai and Thanjavur)?",
+    options: [
+      "The towering, colossal, richly sculpted monumental entrance gateway leading into the temple enclosure",
+      "The inner room of the priest",
+      "The stone pillar for tying horses",
+      "The kitchen for preparing prasad"
+    ],
+    correctAnswer: 0,
+    difficulty: "MEDIUM",
+    damage: 250,
+    explanation: "Gopurams are monumental, multi-tiered sculpted gateway towers dominating the perimeter walls of Dravidian temple cities."
+  },
+  {
+    classLevel: 7,
+    subject: "Social Science",
+    chapter: "Chapter 5: Rulers and Buildings",
+    question: "What is the famous 'Rani ki Vav' (The Queen's Stepwell) in Patan, Gujarat, recognized as a UNESCO World Heritage site?",
+    options: [
+      "An intricately carved seven-level inverted underground stepwell temple adorned with over 500 principal sculptures of Vishnu and his avatars",
+      "A modern water dam",
+      "A floating boat",
+      "A royal palace on a mountain"
+    ],
+    correctAnswer: 0,
+    difficulty: "MEDIUM",
+    damage: 250,
+    explanation: "Rani ki Vav (built by Queen Udayamati c. 1063 CE) is a 7-tiered inverted temple stepwell celebrating subterranean sacred hydraulics."
+  },
+  {
+    classLevel: 7,
+    subject: "Social Science",
+    chapter: "Chapter 5: Rulers and Buildings",
+    question: "What is the 'Pishtaq' in Indo-Islamic architecture?",
+    options: [
+      "The towering, majestic monumental arched gateway framing the entrance of a mosque, tomb, or palace (such as at Humayun's Tomb and Taj Mahal)",
+      "The minaret staircase",
+      "The floor carpet",
+      "The water fountain"
+    ],
+    correctAnswer: 0,
+    difficulty: "MEDIUM",
+    damage: 250,
+    explanation: "A Pishtaq is a monumental projecting formal portal framing a central vaulted iwan arch."
+  },
+  {
+    classLevel: 7,
+    subject: "Social Science",
+    chapter: "Chapter 5: Rulers and Buildings",
+    question: "What was the 'Hasht Bihisht' (Eight Paradises) architectural floor plan introduced during Mughal tomb construction (e.g. Humayun's Tomb)?",
+    options: [
+      "A central octagonal hall surrounded by eight interconnected rooms on two levels, symbolizing the eight heavenly paradises of Islamic cosmology",
+      "A building with eight doors and no windows",
+      "A garden with eight flowers",
+      "A fortress with eight cannons"
+    ],
+    correctAnswer: 0,
+    difficulty: "MEDIUM",
+    damage: 250,
+    explanation: "Hasht Bihisht is an octagonal radial architectural plan featuring 8 perimeter chambers radiating around a central domed chamber."
+  },
+  {
+    classLevel: 7,
+    subject: "Social Science",
+    chapter: "Chapter 5: Rulers and Buildings",
+    question: "What was the architectural purpose of constructing magnificent public water reservoirs (such as Hauz Khas and Baolis) by medieval monarchs?",
+    options: [
+      "To ensure reliable water security for urban citizens, while earning universal moral praise, religious merit, and cementing benevolent royal legitimacy",
+      "To breed exotic sharks",
+      "To hold boat races every day",
+      "To flood the city in times of war"
+    ],
+    correctAnswer: 0,
+    difficulty: "MEDIUM",
+    damage: 250,
+    explanation: "Public hydraulic endowments (hauz, baolis, tanks) fused utilitarian water security with the moral prestige of benevolent kingship."
+  },
+
+  // HARD (12)
+  {
+    classLevel: 7,
+    subject: "Social Science",
+    chapter: "Chapter 5: Rulers and Buildings",
+    question: "Read the statements:\nAssertion (A): Monumental medieval architecture was a physical manifestation of political power, cosmic order, and imperial ideology in stone.\nReason (R): Rulers transformed temples and mosques into miniature cosmological representations of the universe ruled by the monarch under divine sanction, while adopting regional architectural motifs (Bangla domes, Gujarat jalis) to project unified pan-regional authority.\nChoose the correct option:",
+    options: [
+      "Both (A) and (R) are true, and (R) is the correct explanation of (A).",
+      "Both (A) and (R) are true, but (R) is NOT the correct explanation of (A).",
+      "(A) is true, but (R) is false.",
+      "(A) is false, but (R) is true."
+    ],
+    correctAnswer: 0,
+    difficulty: "HARD",
+    damage: 350,
+    explanation: "Monumental architecture served as visual statecraft, encoding divine legitimacy, cosmic balance, and imperial hegemony into physical stone."
+  },
+  {
+    classLevel: 7,
+    subject: "Social Science",
+    chapter: "Chapter 5: Rulers and Buildings",
+    question: "Spot the IMPOSTER in the following architectural styles and their structural features:\nGroup:\n1. Trabeate Style - Post-and-lintel horizontal beams over vertical pillars\n2. Arcuate Style - Compressive circular arches with central keystone\n3. Pietra Dura - Delicate floral inlays of colored semi-precious stones in marble\n4. Corbelled Arch - High-tension steel cables suspending glass roofs",
+    options: ["Style 1", "Style 2", "Style 3", "Style 4 (Corbelled arches used stepped horizontal cantilevered stone courses, NOT modern steel cables)"],
+    correctAnswer: 3,
+    difficulty: "HARD",
+    damage: 350,
+    explanation: "Style 4 is an absurd anachronism: corbelling is an ancient masonry technique laying successive stone courses inward until they meet."
+  },
+  {
+    classLevel: 7,
+    subject: "Social Science",
+    chapter: "Chapter 5: Rulers and Buildings",
+    question: "Analyze the engineering transition from Humayun's Tomb (1570) to the Taj Mahal (1648):\nWhat evolutionary architectural refinements were achieved?",
+    options: [
+      "Evolution from red sandstone with marble trim to pure pristine Makrana white marble, perfected double-dome engineering with slender bulbous silhouettes, elevated riverfront garden placement, and flawless bilateral symmetry",
+      "Transition from stone to brick and mud",
+      "Replacement of gardens with stone courtyards",
+      "Abandonment of domes for flat wooden roofs"
+    ],
+    correctAnswer: 0,
+    difficulty: "HARD",
+    damage: 350,
+    explanation: "Mughal tomb architecture matured from red-sandstone Charbagh complexes (Humayun) to pristine white-marble riverfront symmetries (Taj Mahal)."
+  },
+  {
+    classLevel: 7,
+    subject: "Social Science",
+    chapter: "Chapter 5: Rulers and Buildings",
+    question: "Match Column I (Monumental Structures) with Column II (Patron King / Dynasty & Location):\n(a) Kandariya Mahadeva Temple -> (i) Chandela King Dhangadeva (Khajuraho, MP)\n(b) Brihadisvara Temple        -> (ii) Chola King Rajaraja I (Thanjavur, Tamil Nadu)\n(c) Qutb Minar Balconies      -> (iii) Qutbuddin Aibak & Iltutmish (Delhi)\n(d) Red Fort Throne & Diwan   -> (iv) Mughal Emperor Shah Jahan (Shahjahanabad / Delhi)",
+    options: [
+      "a-(i), b-(ii), c-(iii), d-(iv)",
+      "a-(ii), b-(i), c-(iv), d-(iii)",
+      "a-(iv), b-(iii), c-(ii), d-(i)",
+      "a-(iii), b-(iv), c-(i), d-(ii)"
+    ],
+    correctAnswer: 0,
+    difficulty: "HARD",
+    damage: 350,
+    explanation: "Exact attribution: Kandariya = Chandela Dhangadeva; Brihadisvara = Chola Rajaraja; Qutb Minar = Aibak/Iltutmish; Red Fort = Shah Jahan."
+  },
+  {
+    classLevel: 7,
+    subject: "Social Science",
+    chapter: "Chapter 5: Rulers and Buildings",
+    question: "Read the statements regarding hydraulic architecture in medieval India:\nStatement 1: Stepwells (Baolis) were ingenious multi-tiered sub-surface architectural complexes that combined drinking water conservation with community resting halls and social retreats.\nStatement 2: Persian wheels (Saqia) utilized animal-powered gear-and-pot chains to lift water into masonry distribution aqueducts for royal gardens.\nStatement 3: Medieval rulers destroyed all water reservoirs to force people to buy imported bottled water from Europe.\nWhich statements are TRUE?",
+    options: ["Statements 1 and 2 only", "Statements 2 and 3 only", "Statements 1 and 3 only", "All Statements 1, 2, and 3"],
+    correctAnswer: 0,
+    difficulty: "HARD",
+    damage: 350,
+    explanation: "Statement 3 is an absurd falsehood. Statements 1 and 2 reflect true medieval hydraulic engineering systems."
+  },
+  {
+    classLevel: 7,
+    subject: "Social Science",
+    chapter: "Chapter 5: Rulers and Buildings",
+    question: "How did the 'Double Dome' architectural innovation (seen in Humayun's Tomb and the Taj Mahal) solve a complex structural and aesthetic engineering challenge?",
+    options: [
+      "The outer dome provided an imposing, soaring silhouette visible from miles away on the exterior, while the lower inner dome created a proportionate, intimate ceiling inside the central tomb chamber",
+      "It trapped hot air between two domes to heat the tomb",
+      "It was built to store water between the domes",
+      "It was made of glass to let rain in"
+    ],
+    correctAnswer: 0,
+    difficulty: "HARD",
+    damage: 350,
+    explanation: "Double-dome engineering decoupled exterior monumental elevation from interior volumetric proportions, preventing cavernous acoustic distortion."
+  },
+  {
+    classLevel: 7,
+    subject: "Social Science",
+    chapter: "Chapter 5: Rulers and Buildings",
+    question: "Why did Akbar's palace complex at Fatehpur Sikri incorporate extensive architectural traditions from Gujarat and Malwa (e.g. Jodha Bai's palace)?",
+    options: [
+      "Akbar deliberately employed master stone craftsmen from newly conquered Gujarat and Malwa, creating an eclectic, syncretic architectural style that visually united his composite empire",
+      "Because there were no stone carvers in Agra",
+      "Because Malwa was located in Europe",
+      "Because Akbar wanted to demolish Fatehpur Sikri"
+    ],
+    correctAnswer: 0,
+    difficulty: "HARD",
+    damage: 350,
+    explanation: "Akbar's Fatehpur Sikri celebrated imperial syncretism by integrating Gujarati carved timber brackets, jalis, and Malwa torana motifs into sandstone palaces."
+  },
+  {
+    classLevel: 7,
+    subject: "Social Science",
+    chapter: "Chapter 5: Rulers and Buildings",
+    question: "What is the structural significance of the 'Keystone' in true Arcuate architecture?",
+    options: [
+      "The wedge-shaped stone at the central apex of an arch that locks all the surrounding arch stones (voussoirs) together in compressive equilibrium, transferring load downwards to the pillars",
+      "A stone made of pure gold for decoration",
+      "A key used to lock the palace gate",
+      "The foundation stone buried in the dirt"
+    ],
+    correctAnswer: 0,
+    difficulty: "HARD",
+    damage: 350,
+    explanation: "The keystone is the critical central crown voussoir of a stone arch that locks the masonry in self-supporting compression."
+  },
+  {
+    classLevel: 7,
+    subject: "Social Science",
+    chapter: "Chapter 5: Rulers and Buildings",
+    question: "Consider four monumental ceiling engineering techniques in medieval India:\n1. Corbelled stone ceilings (Nagara temples)\n2. Ribbed intersecting arches (Govind Deva temple, Vrindavan)\n3. Double-shelled bulbous marble domes (Taj Mahal)\n4. Curved Bangla roofs (Diwan-i Khas, Agra)\nWhat overarching architectural reality do these four structures demonstrate?",
+    options: [
+      "Extraordinary indigenous engineering versatility that continuously synthesized structural mechanics, regional cultural motifs, and aesthetic majesty",
+      "That builders only knew how to make flat wooden roofs",
+      "That all buildings were copied from Roman blueprints",
+      "That medieval buildings had no roofs"
+    ],
+    correctAnswer: 0,
+    difficulty: "HARD",
+    damage: 350,
+    explanation: "These techniques exhibit the dynamic structural cross-fertilization and engineering virtuosity of Indian medieval master builders."
+  },
+  {
+    classLevel: 7,
+    subject: "Social Science",
+    chapter: "Chapter 5: Rulers and Buildings",
+    question: "Why was the construction of the 60-metre Shikhara of Brihadisvara Temple at Thanjavur considered an unprecedented structural marvel of the 11th century?",
+    options: [
+      "Granite was not available locally and had to be transported from distant quarries; the entire colossal multi-tiered temple was built without mortar using interlocking precision dry masonry",
+      "It was built under the ocean",
+      "It was built out of solid ice",
+      "It was built in one single hour"
+    ],
+    correctAnswer: 0,
+    difficulty: "HARD",
+    damage: 350,
+    explanation: "Thanjavur's Brihadisvara temple stands as an all-granite interlocking structural tour-de-force, towering 66 m without binding cement."
+  },
+  {
+    classLevel: 7,
+    subject: "Social Science",
+    chapter: "Chapter 5: Rulers and Buildings",
+    question: "What was the symbolic function of 'Jharokha Darshan' in Shah Jahan's palace architecture in the Red Fort?",
+    options: [
+      "The elevated royal balcony from which the Emperor appeared every morning at sunrise to the assembled common public below, blending Hindu concepts of divine vision (darshan) with imperial kingship",
+      "A window used to throw garbage",
+      "A balcony for feeding pigeons only",
+      "A secret door for escaping wars"
+    ],
+    correctAnswer: 0,
+    difficulty: "HARD",
+    damage: 350,
+    explanation: "Jharokha Darshan institutionalized divine monarchical viewing, projecting the Emperor as the illuminating cosmic patriarch before his subjects."
+  },
+  {
+    classLevel: 7,
+    subject: "Social Science",
+    chapter: "Chapter 5: Rulers and Buildings",
+    question: "What master architectural legacy defines Chapter 5 of NCERT Class 7 History?",
+    options: [
+      "The evolution of magnificent engineering virtuosity across Hindu temple sacred geography, Indo-Islamic structural arcuate and dome innovations, Chahar Bagh symmetry, and rich cross-regional architectural synthesis that permanently shaped India's built heritage",
+      "A period of total architectural ruin",
+      "The destruction of all stone masonry",
+      "The end of building construction in India"
+    ],
+    correctAnswer: 0,
+    difficulty: "HARD",
+    damage: 350,
+    explanation: "Chapter 5 illuminates the technical, stylistic, and ideological evolution of India's monumental architecture across a millennium of dynamic synthesis."
+  }
+];
+
+console.log('Generated Class 7 Social Science Ch5:', socialQuestions.length);
+fs.writeFileSync('C:/EduVerse/class 7/cross_subject/social_ch5.json', JSON.stringify(socialQuestions, null, 2), 'utf8');

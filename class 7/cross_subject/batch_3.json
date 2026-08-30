@@ -1,0 +1,3842 @@
+[
+  {
+    "classLevel": 7,
+    "subject": "Science",
+    "chapter": "Chapter 3: Heat",
+    "question": "A reliable, scientific numerical measure of the degree of hotness or coldness of an object is called its:",
+    "options": [
+      "Temperature",
+      "Heat energy",
+      "Density",
+      "Pressure"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "Temperature is the objective physical quantity measuring the average kinetic energy of constituent particles."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Science",
+    "chapter": "Chapter 3: Heat",
+    "question": "The device used specifically to measure the temperature of the human body is called a:",
+    "options": [
+      "Clinical Thermometer",
+      "Laboratory Thermometer",
+      "Barometer",
+      "Speedometer"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "A clinical thermometer measures human body temperature across a narrow physiological range."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Science",
+    "chapter": "Chapter 3: Heat",
+    "question": "What is the temperature scale range of a standard Clinical Thermometer in Celsius degrees?",
+    "options": [
+      "35°C to 42°C",
+      "-10°C to 110°C",
+      "0°C to 100°C",
+      "32°F to 212°F only"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "Clinical thermometers span 35°C to 42°C because human body temperature rarely drops below 35°C or exceeds 42°C."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Science",
+    "chapter": "Chapter 3: Heat",
+    "question": "What is the normal healthy average temperature of the human body on the Celsius scale?",
+    "options": [
+      "37°C (98.6°F)",
+      "35°C",
+      "39°C",
+      "100°C"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "Standard basal human homeostatic body temperature averages 37.0°C (98.6°F)."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Science",
+    "chapter": "Chapter 3: Heat",
+    "question": "What is the standard measurement range of a Laboratory Thermometer?",
+    "options": [
+      "-10°C to 110°C",
+      "35°C to 42°C",
+      "0°C to 50°C",
+      "-50°C to 200°C"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "Laboratory thermometers generally span from -10°C up to 110°C to measure physical and chemical reactions."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Science",
+    "chapter": "Chapter 3: Heat",
+    "question": "The process by which heat is transferred from the hotter end to the colder end of a SOLID object without the actual movement of its particles is called:",
+    "options": [
+      "Conduction",
+      "Convection",
+      "Radiation",
+      "Insulation"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "Conduction is solid-state thermal energy transfer through vibrational atomic collisions."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Science",
+    "chapter": "Chapter 3: Heat",
+    "question": "Materials that allow heat to pass through them easily and rapidly (such as copper, aluminium, iron) are called:",
+    "options": [
+      "Conductors of Heat",
+      "Insulators",
+      "Semiconductors",
+      "Radiators"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "Thermal conductors possess free electrons facilitating rapid kinetic energy transfer."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Science",
+    "chapter": "Chapter 3: Heat",
+    "question": "Materials that do not allow heat to pass through them easily (such as wood, plastic, rubber, air) are called:",
+    "options": [
+      "Insulators (Poor Conductors)",
+      "Good Conductors",
+      "Metals",
+      "Absorbers"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "Thermal insulators have high thermal resistance, impeding heat flux."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Science",
+    "chapter": "Chapter 3: Heat",
+    "question": "The mode of heat transfer in LIQUIDS and GASES where the fluid particles themselves move physically from hotter to colder regions is called:",
+    "options": [
+      "Convection",
+      "Conduction",
+      "Radiation",
+      "Refraction"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "Convection is bulk macroscopic fluid transport driven by buoyancy and thermal density differentials."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Science",
+    "chapter": "Chapter 3: Heat",
+    "question": "The mode of heat transfer that does NOT require any material medium and can travel through a vacuum (such as sunlight reaching Earth) is called:",
+    "options": [
+      "Radiation",
+      "Conduction",
+      "Convection",
+      "Advection"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "Thermal radiation propagates as electromagnetic infrared photons across spatial vacuum."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Science",
+    "chapter": "Chapter 3: Heat",
+    "question": "In coastal areas during the DAYTIME, cool breeze blowing from the sea towards the land is called:",
+    "options": [
+      "Sea Breeze",
+      "Land Breeze",
+      "Monsoon",
+      "Cyclone"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "During the day, land heats faster than water, creating lower pressure that draws cool oceanic air inland as Sea Breeze."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Science",
+    "chapter": "Chapter 3: Heat",
+    "question": "In coastal areas during the NIGHT-TIME, cool breeze blowing from the land towards the sea is called:",
+    "options": [
+      "Land Breeze",
+      "Sea Breeze",
+      "Trade Wind",
+      "Tornado"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "At night, land cools faster than the sea, so air over warmer ocean rises and cool land air flows seaward as Land Breeze."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Science",
+    "chapter": "Chapter 3: Heat",
+    "question": "What is the structural purpose of the tiny 'Kink' (constriction) in the capillary tube just above the bulb of a traditional mercury clinical thermometer?",
+    "options": [
+      "It prevents the mercury level from falling down on its own when removed from the patient's mouth, allowing accurate reading",
+      "It makes the mercury flow faster",
+      "It prevents the thermometer from breaking",
+      "It colors the mercury silver"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "The capillary kink introduces mechanical surface tension resistance, preserving the peak mercury reading."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Science",
+    "chapter": "Chapter 3: Heat",
+    "question": "Why should a clinical thermometer NEVER be washed or sterilized in boiling hot water?",
+    "options": [
+      "Boiling water (100°C) far exceeds the 42°C upper limit; extreme mercury thermal expansion will shatter the glass capillary bulb",
+      "Because hot water turns mercury into water",
+      "Because boiling water erases the painted numbers",
+      "Because glass melts at 100°C"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "High hydrothermal thermal expansion overpressurizes the narrow sealed glass bore, risking explosive rupture."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Science",
+    "chapter": "Chapter 3: Heat",
+    "question": "Why are digital thermometers rapidly replacing traditional mercury glass thermometers in clinics and homes?",
+    "options": [
+      "Mercury is a toxic, hazardous heavy metal that is extremely difficult to dispose of safely if the glass thermometer breaks",
+      "Digital thermometers use laser light",
+      "Mercury has stopped being manufactured worldwide",
+      "Digital thermometers are made of pure gold"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "Elemental mercury is a potent neurotoxin; digital thermistors eliminate breakage contamination hazards."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Science",
+    "chapter": "Chapter 3: Heat",
+    "question": "Why do we prefer to wear light-colored or white clothes in hot summer and dark/black clothes in cold winter?",
+    "options": [
+      "Light-colored clothes reflect most radiant heat keeping us cool; dark clothes absorb more radiant heat keeping us warm",
+      "White clothes are lighter in physical weight",
+      "Dark clothes produce their own electricity",
+      "Light colors keep mosquitoes away"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "High albedo white surfaces reflect incident thermal radiation, while black surfaces have high infrared emissivity and absorptivity."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Science",
+    "chapter": "Chapter 3: Heat",
+    "question": "Why does wearing TWO thin woolen sweaters keep us significantly WARMER in winter than wearing one single thick woolen sweater of equal thickness?",
+    "options": [
+      "A layer of still air is trapped between the two thin sweaters; air is an excellent thermal insulator that prevents body heat from escaping",
+      "Two sweaters create friction that generates fire",
+      "Two sweaters weigh twice as much",
+      "One thick sweater attracts cold radiation"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "Trapped air gaps provide high boundary-layer thermal insulation due to air's low thermal conductivity (k ≈ 0.026 W/m·K)."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Science",
+    "chapter": "Chapter 3: Heat",
+    "question": "Why are cooking utensils (like frying pans) made of metals like aluminium or stainless steel, but their handles are made of bakelite plastic or wood?",
+    "options": [
+      "Metal pans conduct heat quickly to cook food, while plastic/wooden handles are poor conductors (insulators) allowing safe handling without burning hands",
+      "Because plastic is too heavy to make pans",
+      "Because wood melts on fire",
+      "Because metal looks shiny"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "Engineered thermal partitioning: metallic cooking vessel conducts heat to food while thermoset bakelite handles insulate user grasp."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Science",
+    "chapter": "Chapter 3: Heat",
+    "question": "When heating water in a round-bottom flask, why does water at the bottom rise to the top while cold water from the sides moves downwards?",
+    "options": [
+      "Heated water expands, becomes less dense (lighter), and rises; cooler, denser water from sides sinks to replace it, setting up Convection Currents",
+      "Heated water becomes heavier",
+      "Bubbles push the water down",
+      "Water molecules repel heat"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "Thermal volumetric expansion reduces fluid density, initiating buoyancy-driven Rayleigh-Bénard convection loops."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Science",
+    "chapter": "Chapter 3: Heat",
+    "question": "Why is a laboratory thermometer kept strictly vertical and read while ITS BULB IS STILL IMMERSED in the substance being measured?",
+    "options": [
+      "Because it has NO kink; the moment it is removed from the substance, its mercury level immediately starts dropping or rising due to ambient air",
+      "Because tilting breaks the glass",
+      "Because mercury evaporates outside",
+      "Because laboratory thermometers only work under water"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "Lacking a retentive kink, laboratory thermometers respond instantly to ambient thermal shifts upon removal."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Science",
+    "chapter": "Chapter 3: Heat",
+    "question": "Why do houses in hot tropical climates have their outer walls painted WHITE or light pastel colors?",
+    "options": [
+      "White walls reflect the majority of incoming solar radiant heat, keeping the interiors significantly cooler",
+      "White paint is waterproof only",
+      "To make houses look bigger",
+      "White paint repels wind"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "Passive architectural cooling: high solar reflectance index (SRI) coatings minimize thermal envelope heat gain."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Science",
+    "chapter": "Chapter 3: Heat",
+    "question": "Why do rooms have electric room heaters placed on the floor and air-conditioners installed near the ceiling?",
+    "options": [
+      "Heated air expands, rises up to warm the whole room via convection; cold air from AC is dense and sinks down to cool the living space",
+      "To keep AC out of reach of children",
+      "Because heaters look better on floors",
+      "Because ceilings are always hotter than floors"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "Optimized convective atmospheric circulation: dense chilled air descends while buoyant warm air ascends."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Science",
+    "chapter": "Chapter 3: Heat",
+    "question": "Why does a metal chair feel much COLDER to touch than a wooden table in the same room during cold winter mornings?",
+    "options": [
+      "Metal is a good conductor that rapidly draws heat away from your hand; wood is an insulator that conducts heat very slowly",
+      "The metal chair is actually at a lower temperature than the wooden table",
+      "Wood produces its own internal heat",
+      "Metal absorbs cold from the floor"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "Both objects are at thermal equilibrium; metal feels colder due to its high thermal effusivity rapidly conducting hand heat away."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Science",
+    "chapter": "Chapter 3: Heat",
+    "question": "How does a double-walled thermos flask keep hot tea hot and cold water cold for hours?",
+    "options": [
+      "A vacuum between double glass walls eliminates conduction and convection, while silvery mirrored surfaces reflect radiant heat back",
+      "It contains an internal battery heater",
+      "It is made of thick lead",
+      "It freezes air around it"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "Dewar flask design eliminates conduction/convection via evacuating interstitial air and halts radiation via reflective silvering."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Science",
+    "chapter": "Chapter 3: Heat",
+    "question": "What happens when you hold one hand above a burning candle flame and one hand on the side of the flame?",
+    "options": [
+      "The hand above the flame feels much hotter because air above is heated by CONVECTION currents rising upward; the side hand feels only mild radiation",
+      "Both hands feel exactly the same heat",
+      "The side hand feels hotter",
+      "Neither hand feels any heat"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "Thermal buoyancy channels convective heat plumes vertically above the flame; lateral heat transfer occurs solely by radiation."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Science",
+    "chapter": "Chapter 3: Heat",
+    "question": "What is the relationship between Celsius (°C) and Fahrenheit (°F) temperature scales?",
+    "options": [
+      "F = (9/5 × C) + 32",
+      "F = (5/9 × C) - 32",
+      "F = C + 100",
+      "F = 2C + 32"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "Linear thermometric conversion equation: °F = (°C × 9/5) + 32."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Science",
+    "chapter": "Chapter 3: Heat",
+    "question": "Why does wool fiber provide superior thermal warmth in winter garments?",
+    "options": [
+      "Wool fibers have natural crimp/curls that trap substantial air pockets, and air is a poor conductor that traps body heat",
+      "Wool produces chemical heat",
+      "Wool absorbs sunlight into blood",
+      "Wool is a heavy metal"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "Crimp morphology in wool keratin fibers creates macroscopic porous dead-air insulation lattices."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Science",
+    "chapter": "Chapter 3: Heat",
+    "question": "What is 'Thermal Equilibrium' between two contacting bodies?",
+    "options": [
+      "The state where both bodies reach the exact same temperature, resulting in zero net transfer of heat energy between them",
+      "When both bodies melt",
+      "When one body freezes the other",
+      "When heat doubles in both bodies"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "Zeroth Law of Thermodynamics: thermal equilibrium is attained when thermodynamic temperature gradient equals zero (dT/dx = 0)."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Science",
+    "chapter": "Chapter 3: Heat",
+    "question": "Read the statements:\nAssertion (A): Sea Breeze blows during daytime while Land Breeze blows during nighttime in coastal regions.\nReason (R): Specific heat capacity of water is much higher than that of dry land; land heats up faster and cools down faster than sea water.\nChoose the correct option:",
+    "options": [
+      "Both (A) and (R) are true, and (R) is the correct explanation of (A).",
+      "Both (A) and (R) are true, but (R) is NOT the correct explanation of (A).",
+      "(A) is true, but (R) is false.",
+      "(A) is false, but (R) is true."
+    ],
+    "correctAnswer": 0,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "High specific heat capacity of water (4,184 J/kg·K vs ~800 J/kg·K for soil) drives diurnal isobaric coastal pressure differentials."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Science",
+    "chapter": "Chapter 3: Heat",
+    "question": "Spot the IMPOSTER in the following group of heat transfer mechanisms and examples:\nGroup:\n1. Conduction - Heating a metal spoon in hot tea\n2. Convection - Rising of hot air balloon\n3. Radiation - Solar heat warming Earth across space\n4. Conduction - Boiling water circulating in a glass beaker",
+    "options": [
+      "Example 1",
+      "Example 2",
+      "Example 3",
+      "Example 4 (Circulating boiling water transfers heat by CONVECTION, not conduction)"
+    ],
+    "correctAnswer": 3,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "Bulk fluid circulation in heated water is a classic manifestation of Convection, not solid-state Conduction."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Science",
+    "chapter": "Chapter 3: Heat",
+    "question": "A copper rod has wax drops fixed at intervals of 5 cm along its length with thumbtacks attached. The other end is heated over a burner flame. What is observed?",
+    "options": [
+      "The wax drop closest to the burner flame melts first and its tack falls off, followed sequentially by successive drops, demonstrating linear thermal conduction along solids",
+      "All wax drops melt simultaneously at the exact same second",
+      "The farthest wax drop melts first",
+      "None of the wax drops melt"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "Fourier's Law of Heat Conduction: thermal flux diffuses progressively along the longitudinal temperature gradient."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Science",
+    "chapter": "Chapter 3: Heat",
+    "question": "Match Column I (Thermal Concepts) with Column II (Scientific Principles):\n(a) Clinical Thermometer -> (i) Has capillary kink & spans 35°C to 42°C\n(b) Laboratory Thermometer-> (ii) Measures -10°C to 110°C without kink\n(c) Sea Breeze            -> (iii) Daytime oceanic convective airflow to land\n(d) Radiation             -> (iv) Infrared electromagnetic heat transfer without medium",
+    "options": [
+      "a-(i), b-(ii), c-(iii), d-(iv)",
+      "a-(ii), b-(i), c-(iv), d-(iii)",
+      "a-(iv), b-(iii), c-(ii), d-(i)",
+      "a-(iii), b-(iv), c-(i), d-(ii)"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "Clinical = kink/35-42°C; Lab = -10-110°C; Sea breeze = daytime onshore; Radiation = electromagnetic vacuum transfer."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Science",
+    "chapter": "Chapter 3: Heat",
+    "question": "Read the statements regarding thermometry:\nStatement 1: Temperature is a fundamental SI base physical quantity measured in Kelvin (K).\nStatement 2: At absolute zero (-273.15°C or 0 K), all classical molecular kinetic motion ceases.\nStatement 3: Heat always spontaneously flows from a body at lower temperature to a body at higher temperature without external work.\nWhich statements are TRUE?",
+    "options": [
+      "Statements 1 and 2 only",
+      "Statements 2 and 3 only",
+      "Statements 1 and 3 only",
+      "All Statements 1, 2, and 3"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "Statement 3 violates the Second Law of Thermodynamics (heat flows spontaneously from hot to cold). Statements 1 and 2 are true."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Science",
+    "chapter": "Chapter 3: Heat",
+    "question": "Why are stainless steel cooking pans frequently manufactured with a bonded COPPER BOTTOM plate?",
+    "options": [
+      "Copper has much higher thermal conductivity than stainless steel, distributing heat uniformly across the base and eliminating localized food burning",
+      "Copper makes the pan heavier so it does not shake",
+      "Copper changes the color of food",
+      "Copper stops water from boiling"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "Thermal conductivity of copper (k ≈ 385 W/m·K) exceeds stainless steel (k ≈ 15 W/m·K) by ~25×, eliminating localized hot spots."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Science",
+    "chapter": "Chapter 3: Heat",
+    "question": "If 1 litre of water at 30°C is mixed thoroughly with 1 litre of water at 50°C in an insulated vessel, what will be the final equilibrium temperature?",
+    "options": [
+      "Between 30°C and 50°C (specifically 40°C)",
+      "80°C (30 + 50)",
+      "20°C (50 - 30)",
+      "More than 50°C"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "Principle of Calorimetry for equal masses of identical fluid: T_final = (30 + 50) / 2 = 40°C."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Science",
+    "chapter": "Chapter 3: Heat",
+    "question": "An iron ball at 40°C is dropped into a mug containing water at 40°C. How will heat flow?",
+    "options": [
+      "Heat will NOT flow from iron ball to water or from water to iron ball (Zero net heat flow due to thermal equilibrium)",
+      "Heat will flow from iron ball to water",
+      "Heat will flow from water to iron ball",
+      "The temperature of both will increase to 80°C"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "Thermal energy transfer requires a finite temperature gradient (ΔT ≠ 0); since ΔT = 0, net heat flux is zero."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Science",
+    "chapter": "Chapter 3: Heat",
+    "question": "Why do birds fluff up their feathers during freezing winter mornings?",
+    "options": [
+      "Fluffing feathers traps a thicker layer of stationary insulating air between plumage barbules, reducing convective and conductive body heat loss",
+      "To make themselves look bigger to predators",
+      "To absorb more rain",
+      "Because feathers become heavier in cold"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "Piloerection expands boundary-layer air entrapment, increasing effective thermal resistance against ambient cold."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Science",
+    "chapter": "Chapter 3: Heat",
+    "question": "Consider four identical metal blocks (Copper, Aluminium, Iron, Lead) of equal mass heated to 100°C and placed on a slab of ice. Which block melts the most ice?",
+    "options": [
+      "The block with the HIGHEST Specific Heat Capacity (Aluminium melts the most ice because it stores more thermal energy per unit mass)",
+      "Lead block",
+      "Iron block",
+      "All four melt the exact same amount of ice"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "Heat released Q = m·c·ΔT. Aluminium possesses the highest specific heat capacity (c ≈ 900 J/kg·K), yielding greatest enthalpy to melt ice."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Science",
+    "chapter": "Chapter 3: Heat",
+    "question": "Why does the greenhouse effect trap heat inside a glass greenhouse or parked closed car in the sun?",
+    "options": [
+      "Glass is transparent to short-wavelength solar radiant light but opaque to long-wavelength infrared thermal radiation emitted by interior surfaces, trapping heat energy inside",
+      "Glass produces heat from carbon dioxide",
+      "Because glass turns sunlight into hot water",
+      "Because car metal generates electricity"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "Spectral selectivity: shortwave solar photons penetrate glass, heating interior surfaces which re-radiate longwave IR blocked by glass."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Science",
+    "chapter": "Chapter 3: Heat",
+    "question": "What fundamental thermodynamic principle summarizes Chapter 3 of NCERT Class 7 Science?",
+    "options": [
+      "Heat is thermal energy in transit driven by temperature differentials, propagating via Conduction in solids, Convection in fluids, and Radiation through vacuum, governing terrestrial weather, thermal insulation, and life adaptation",
+      "Heat and temperature are identical concepts",
+      "Heat only travels in metal wires",
+      "Vacuum can conduct heat by convection"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "Chapter 3 provides an integrated thermodynamic foundation: modes of heat transfer, thermometry, meteorological breeze circulation, and thermal engineering."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Mathematics",
+    "chapter": "Chapter 3: Data Handling",
+    "question": "The sum of all observations divided by the total number of observations is called the:",
+    "options": [
+      "Arithmetic Mean (Average)",
+      "Median",
+      "Mode",
+      "Range"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "Mean = (Sum of all observations) / (Total number of observations)."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Mathematics",
+    "chapter": "Chapter 3: Data Handling",
+    "question": "The difference between the HIGHEST and the LOWEST observation in a given dataset is called its:",
+    "options": [
+      "Range",
+      "Mode",
+      "Median",
+      "Mean"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "Range = Highest Observation - Lowest Observation."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Mathematics",
+    "chapter": "Chapter 3: Data Handling",
+    "question": "The observation that occurs MOST FREQUENTLY (highest number of times) in a dataset is called the:",
+    "options": [
+      "Mode",
+      "Median",
+      "Mean",
+      "Range"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "Mode is the value that appears with the maximum frequency in a given distribution."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Mathematics",
+    "chapter": "Chapter 3: Data Handling",
+    "question": "The middle-most observation when a dataset is arranged in ascending or descending order of magnitude is called the:",
+    "options": [
+      "Median",
+      "Mode",
+      "Mean",
+      "Frequency"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "Median is the central value dividing an ordered dataset into two equal halves."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Mathematics",
+    "chapter": "Chapter 3: Data Handling",
+    "question": "Find the Arithmetic Mean of the first five Natural Numbers: 1, 2, 3, 4, 5:",
+    "options": [
+      "3 ((1 + 2 + 3 + 4 + 5) / 5 = 15 / 5 = 3)",
+      "2.5",
+      "4",
+      "5"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "Mean = (1+2+3+4+5)/5 = 15/5 = 3."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Mathematics",
+    "chapter": "Chapter 3: Data Handling",
+    "question": "Find the Mode of the data: 1, 1, 2, 4, 3, 2, 1, 2, 2, 4:",
+    "options": [
+      "2 (occurs most frequently: 4 times)",
+      "1",
+      "3",
+      "4"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "Frequencies: 1 (3 times), 2 (4 times), 3 (1 time), 4 (2 times). Highest frequency is 2."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Mathematics",
+    "chapter": "Chapter 3: Data Handling",
+    "question": "Find the Range of the dataset: 32, 41, 28, 54, 35, 26, 33, 23, 38, 40:",
+    "options": [
+      "31 (Highest = 54 ; Lowest = 23 ; Range = 54 - 23 = 31)",
+      "28",
+      "35",
+      "54"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "Range = Max - Min = 54 - 23 = 31."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Mathematics",
+    "chapter": "Chapter 3: Data Handling",
+    "question": "Find the Median of the data values: 24, 36, 46, 17, 18, 25, 35 (arranged in ascending order: 17, 18, 24, 25, 35, 36, 46):",
+    "options": [
+      "25 (The 4th middle observation out of 7)",
+      "24",
+      "35",
+      "29"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "With n = 7 (odd), Median = (7+1)/2 = 4th term = 25."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Mathematics",
+    "chapter": "Chapter 3: Data Handling",
+    "question": "A visual representation of numerical data using rectangular bars of uniform width with equal spacing between them is called a:",
+    "options": [
+      "Bar Graph",
+      "Pie Chart",
+      "Tally Mark",
+      "Number Line"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "A bar graph represents categorical frequencies via proportional heights of uniform rectangular bars."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Mathematics",
+    "chapter": "Chapter 3: Data Handling",
+    "question": "A bar graph showing two sets of data simultaneously side-by-side for comparison is called a:",
+    "options": [
+      "Double Bar Graph",
+      "Single Bar Graph",
+      "Histogram",
+      "Line Graph"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "A double bar graph displays paired comparative datasets side-by-side."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Mathematics",
+    "chapter": "Chapter 3: Data Handling",
+    "question": "What is the Probability (P) of tossing a fair coin and getting 'HEADS'?",
+    "options": [
+      "1/2 (Favourable outcomes: 1 ; Total possible outcomes: 2)",
+      "1",
+      "0",
+      "1/4"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "P(Head) = 1/2 = 0.5."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Mathematics",
+    "chapter": "Chapter 3: Data Handling",
+    "question": "When rolling a standard 6-sided die, what is the probability of rolling a number GREATER than 4 (i.e. 5 or 6)?",
+    "options": [
+      "2/6 = 1/3 (Favourable: {5, 6} = 2 outcomes)",
+      "1/2",
+      "1/6",
+      "4/6"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "Favourable outcomes = {5, 6} (2 numbers). P = 2/6 = 1/3."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Mathematics",
+    "chapter": "Chapter 3: Data Handling",
+    "question": "A batsman scored the following runs in six innings: 36, 35, 50, 46, 60, 55. Calculate his Mean run score:",
+    "options": [
+      "47 runs ((36 + 35 + 50 + 46 + 60 + 55) / 6 = 282 / 6 = 47)",
+      "45 runs",
+      "50 runs",
+      "48 runs"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "Total runs = 282. Innings = 6. Mean = 282 ÷ 6 = 47 runs."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Mathematics",
+    "chapter": "Chapter 3: Data Handling",
+    "question": "The scores in mathematics test (out of 25) of 15 students are:\n19, 25, 23, 20, 9, 20, 15, 10, 5, 16, 25, 20, 24, 12, 20.\nFind the Mode and Median of this data:",
+    "options": [
+      "Mode = 20 (appears 4 times) ; Median = 20 (8th value in ordered list)",
+      "Mode = 25 ; Median = 20",
+      "Mode = 20 ; Median = 19",
+      "Mode = 20 ; Median = 23"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "Ordered list (15 values): 5, 9, 10, 12, 15, 16, 19, 20, 20, 20, 20, 23, 24, 25, 25. Mode = 20, Median = 8th value = 20."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Mathematics",
+    "chapter": "Chapter 3: Data Handling",
+    "question": "The runs scored in a cricket match by 11 players are: 6, 15, 120, 50, 100, 80, 10, 15, 8, 10, 15.\nFind the Mean, Mode, and Median:",
+    "options": [
+      "Mean = 39, Mode = 15, Median = 15",
+      "Mean = 45, Mode = 15, Median = 10",
+      "Mean = 39, Mode = 10, Median = 15",
+      "Mean = 50, Mode = 15, Median = 20"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "Sum = 429 → Mean = 429/11 = 39. Ordered: 6, 8, 10, 10, 15, 15, 15, 50, 80, 100, 120. Median = 6th = 15, Mode = 15."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Mathematics",
+    "chapter": "Chapter 3: Data Handling",
+    "question": "Can a dataset have MORE than one Mode (e.g. Bimodal or Multimodal data)?",
+    "options": [
+      "Yes, if two or more observations share the highest frequency equally (e.g. in 2, 2, 3, 3, 4, both 2 and 3 are modes)",
+      "No, data can only ever have one mode",
+      "Only if the data contains negative numbers",
+      "Only when data has zero observations"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "Distributions with multiple distinct equal peak frequencies are bimodal or multimodal."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Mathematics",
+    "chapter": "Chapter 3: Data Handling",
+    "question": "The weights (in kg) of 15 students of a class are:\n38, 42, 35, 37, 45, 50, 32, 43, 43, 40, 36, 38, 43, 38, 47.\nFind the Mode(s) of this data:",
+    "options": [
+      "38 kg and 43 kg (Both occur 3 times each - Bimodal dataset)",
+      "Only 38 kg",
+      "Only 43 kg",
+      "40 kg"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "Frequencies: 38 appears 3 times, 43 appears 3 times. Both are modes (Bimodal)."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Mathematics",
+    "chapter": "Chapter 3: Data Handling",
+    "question": "Find the Median of the first seven Prime Numbers: 2, 3, 5, 7, 11, 13, 17:",
+    "options": [
+      "7 (The 4th middle observation in the prime sequence)",
+      "5",
+      "11",
+      "8.28"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "Ordered 7 primes: 2, 3, 5, 7, 11, 13, 17. Median = 4th value = 7."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Mathematics",
+    "chapter": "Chapter 3: Data Handling",
+    "question": "What is the Probability of an 'IMPOSSIBLE EVENT' (such as rolling a 7 on a standard 6-sided die)?",
+    "options": [
+      "0 (Zero)",
+      "1",
+      "1/2",
+      "-1"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "An impossible event has 0 favourable outcomes; P(Impossible) = 0."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Mathematics",
+    "chapter": "Chapter 3: Data Handling",
+    "question": "What is the Probability of a 'CERTAIN / SURE EVENT' (such as the Sun rising in the East tomorrow)?",
+    "options": [
+      "1 (One / 100% certainty)",
+      "0",
+      "0.5",
+      "Infinity"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "A certain event is guaranteed to occur; P(Sure) = 1."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Mathematics",
+    "chapter": "Chapter 3: Data Handling",
+    "question": "There are 6 marbles in a box with numbers from 1 to 6 marked on each of them. What is the probability of drawing a marble with number 2?",
+    "options": [
+      "1/6",
+      "2/6 = 1/3",
+      "1/2",
+      "6/1"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "Favourable outcome = 1 (marble 2). Total = 6. P = 1/6."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Mathematics",
+    "chapter": "Chapter 3: Data Handling",
+    "question": "There are 6 marbles in a box numbered 1 to 6. What is the probability of drawing a marble with an EVEN number (2, 4, 6)?",
+    "options": [
+      "3/6 = 1/2",
+      "1/6",
+      "2/6",
+      "5/6"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "Even outcomes = {2, 4, 6} (3 outcomes). P = 3/6 = 1/2."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Mathematics",
+    "chapter": "Chapter 3: Data Handling",
+    "question": "The Mean of 5 numbers is 20. If one number is excluded, their mean becomes 18. What is the excluded number?",
+    "options": [
+      "28 (Sum of 5 numbers = 5 × 20 = 100 ; Sum of 4 numbers = 4 × 18 = 72 ; Excluded = 100 - 72 = 28)",
+      "24",
+      "26",
+      "30"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "Old sum = 5 × 20 = 100. New sum = 4 × 18 = 72. Excluded = 100 - 72 = 28."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Mathematics",
+    "chapter": "Chapter 3: Data Handling",
+    "question": "The Mean of 10 observations was calculated as 40. Later it was found that an observation 45 was misread as 15. What is the correct Mean?",
+    "options": [
+      "43 (Calculated sum = 400 ; Correct sum = 400 - 15 + 45 = 430 ; Correct mean = 430 / 10 = 43)",
+      "41.5",
+      "42",
+      "45"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "Correct sum = 400 - 15 + 45 = 430. Correct mean = 430 ÷ 10 = 43."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Mathematics",
+    "chapter": "Chapter 3: Data Handling",
+    "question": "Which measure of central tendency is MOST suitable for a shopkeeper deciding which shoe size to stock in the largest quantity?",
+    "options": [
+      "Mode (since it identifies the most popular, frequently purchased shoe size)",
+      "Mean",
+      "Median",
+      "Range"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "Mode reflects peak modal consumer demand for inventory stocking decisions."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Mathematics",
+    "chapter": "Chapter 3: Data Handling",
+    "question": "Which measure of central tendency is preferred when a dataset contains extreme outlier values (e.g. salaries where one billionaire skews the average)?",
+    "options": [
+      "Median (because the median is resistant to extreme outliers)",
+      "Mean (which gets heavily distorted by outliers)",
+      "Range",
+      "Total sum"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "Median is a non-parametric robust statistic unaffected by skewness or extreme outliers."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Mathematics",
+    "chapter": "Chapter 3: Data Handling",
+    "question": "On a bar graph, if a scale is chosen as 1 unit length = 10 students, what bar length in unit units represents 75 students?",
+    "options": [
+      "7.5 units (75 / 10 = 7.5 units)",
+      "7 units",
+      "8 units",
+      "75 units"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "Length = Value ÷ Scale factor = 75 ÷ 10 = 7.5 units."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Mathematics",
+    "chapter": "Chapter 3: Data Handling",
+    "question": "What is the Median of the EVEN number of observations: 12, 14, 16, 18, 20, 22?",
+    "options": [
+      "17 (Average of the two middle terms 16 and 18: (16 + 18) / 2 = 34 / 2 = 17)",
+      "16",
+      "18",
+      "16.5"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "For n = 6 (even), Median is the mean of 3rd and 4th terms: (16 + 18)/2 = 17."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Mathematics",
+    "chapter": "Chapter 3: Data Handling",
+    "question": "Read the statements:\nAssertion (A): The Arithmetic Mean of a dataset always lies strictly between the Minimum and Maximum values of that dataset.\nReason (R): The mean is a representative measure of central tendency calculated by distributing the total sum equally across all observations.\nChoose the correct option:",
+    "options": [
+      "Both (A) and (R) are true, and (R) is the correct explanation of (A).",
+      "Both (A) and (R) are true, but (R) is NOT the correct explanation of (A).",
+      "(A) is true, but (R) is false.",
+      "(A) is false, but (R) is true."
+    ],
+    "correctAnswer": 0,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "Boundedness property of arithmetic mean: Min(x) ≤ Mean ≤ Max(x)."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Mathematics",
+    "chapter": "Chapter 3: Data Handling",
+    "question": "Spot the IMPOSTER among the following statements regarding Central Tendency:\nGroup:\n1. The Mode is always one of the numbers in the given dataset.\n2. The Mean is always one of the numbers in the given dataset.\n3. The Median is always one of the numbers in an odd-numbered dataset.\n4. Range = Maximum Observation - Minimum Observation.",
+    "options": [
+      "Statement 1",
+      "Statement 2 (Mean is NOT necessarily one of the numbers in the data, e.g. Mean of 2 and 3 is 2.5)",
+      "Statement 3",
+      "Statement 4"
+    ],
+    "correctAnswer": 1,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "Statement 2 is false: arithmetic mean frequently evaluates to a non-existent fraction/value not present in the original dataset."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Mathematics",
+    "chapter": "Chapter 3: Data Handling",
+    "question": "The mean weight of a group of 20 boys is 52 kg, and the mean weight of another group of 30 boys is 47 kg. Find the COMBINED mean weight of all 50 boys:",
+    "options": [
+      "49 kg (Total weight = (20 × 52) + (30 × 47) = 1040 + 1410 = 2450 kg ; Combined mean = 2450 / 50 = 49 kg)",
+      "49.5 kg",
+      "48 kg",
+      "50 kg"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "Weighted average = (20×52 + 30×47) / 50 = (1040 + 1410)/50 = 2450/50 = 49 kg."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Mathematics",
+    "chapter": "Chapter 3: Data Handling",
+    "question": "Match Column I (Statistical Concepts) with Column II (Properties & Formulas):\n(a) Arithmetic Mean -> (i) Sum of observations / Number of observations\n(b) Median          -> (ii) Middle value dividing ordered data into two halves\n(c) Mode            -> (iii) Value with the maximum frequency\n(d) Range           -> (iv) Spread of data (Maximum - Minimum)",
+    "options": [
+      "a-(i), b-(ii), c-(iii), d-(iv)",
+      "a-(ii), b-(i), c-(iv), d-(iii)",
+      "a-(iv), b-(iii), c-(ii), d-(i)",
+      "a-(iii), b-(iv), c-(i), d-(ii)"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "Mean = sum/n; Median = middle; Mode = max frequency; Range = max - min."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Mathematics",
+    "chapter": "Chapter 3: Data Handling",
+    "question": "Read the statements regarding Probability:\nStatement 1: The probability of any event 'E' always satisfies: 0 ≤ P(E) ≤ 1.\nStatement 2: When two coins are tossed simultaneously, the probability of getting at least one Head is 3/4.\nStatement 3: The probability of rolling an 8 on a standard 6-sided die is 1/8.\nWhich statements are TRUE?",
+    "options": [
+      "Statements 1 and 2 only",
+      "Statements 2 and 3 only",
+      "Statements 1 and 3 only",
+      "All Statements 1, 2, and 3"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "Statement 3 is false because rolling an 8 is an impossible event on a 6-sided die (P = 0). Statements 1 and 2 are true."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Mathematics",
+    "chapter": "Chapter 3: Data Handling",
+    "question": "The following observations are arranged in ascending order: 11, 14, 15, 17, x + 1, 2x - 1, 30, 32, 35, 41.\nIf the Median of the data is 24, find the value of x:",
+    "options": [
+      "x = 16 (Middle two terms are (x+1) and (2x-1) ; Median = [(x+1)+(2x-1)] / 2 = 3x/2 = 24 ⇒ 3x = 48 ⇒ x = 16)",
+      "x = 14",
+      "x = 18",
+      "x = 15"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "For n = 10, Median is average of 5th and 6th terms: (x + 1 + 2x - 1)/2 = 3x/2 = 24 → 3x = 48 → x = 16."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Mathematics",
+    "chapter": "Chapter 3: Data Handling",
+    "question": "A spinning wheel has 8 equal sectors: 3 Green, 2 Blue, 2 Red, and 1 Yellow. What is the probability of the pointer landing on a sector that is NOT GREEN?",
+    "options": [
+      "5/8 (Non-green sectors = 2 Blue + 2 Red + 1 Yellow = 5 sectors ; P = 5/8)",
+      "3/8",
+      "1/2",
+      "7/8"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "P(Not Green) = 1 - P(Green) = 1 - 3/8 = 5/8."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Mathematics",
+    "chapter": "Chapter 3: Data Handling",
+    "question": "If every observation in a dataset is MULTIPLIED by 3, what happens to the Mean and Range of the dataset?",
+    "options": [
+      "Both the Mean and the Range become 3 times the original (New Mean = 3 × Old Mean ; New Range = 3 × Old Range)",
+      "Mean triples but Range remains unchanged",
+      "Range triples but Mean remains unchanged",
+      "Neither changes"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "Linear transformation scaling: multiplying every value x_i by scalar 'c' scales both mean and range by factor 'c'."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Mathematics",
+    "chapter": "Chapter 3: Data Handling",
+    "question": "If the constant 5 is ADDED to every observation in a dataset, what happens to the Mean and Range?",
+    "options": [
+      "The Mean increases by 5, but the Range remains COMPLETELY UNCHANGED (since (Max + 5) - (Min + 5) = Max - Min)",
+      "Both Mean and Range increase by 5",
+      "Mean remains unchanged, Range increases by 5",
+      "Neither changes"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "Location shift translation adds constant 'k' to mean, but distance measure Range remains invariant."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Mathematics",
+    "chapter": "Chapter 3: Data Handling",
+    "question": "Consider a dataset of 5 distinct positive integers whose Mean is 12 and Median is 14. What is the MAXIMUM possible value that the largest number can take?",
+    "options": [
+      "28 (To maximize 5th number, minimize 1st, 2nd, and 4th: values = 1, 2, 14, 15, x ; Sum = 5 × 12 = 60 ⇒ 1 + 2 + 14 + 15 + x = 60 ⇒ 32 + x = 60 ⇒ x = 28)",
+      "30",
+      "26",
+      "32"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "To maximize x₅: choose minimum distinct integers x₁=1, x₂=2, x₃=14 (median), x₄=15. Sum = 32 + x₅ = 60 → x₅ = 28."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Mathematics",
+    "chapter": "Chapter 3: Data Handling",
+    "question": "A bag contains 5 red balls, 8 white balls, 4 green balls, and 7 black balls. One ball is drawn at random. What is the probability that the drawn ball is NEITHER white NOR black?",
+    "options": [
+      "9/24 = 3/8 (Total balls = 24 ; Favourable = Red + Green = 5 + 4 = 9 balls ; P = 9/24 = 3/8)",
+      "15/24",
+      "5/24",
+      "1/3"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "Total balls = 5+8+4+7 = 24. Neither white nor black = Red (5) + Green (4) = 9. P = 9/24 = 3/8."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Mathematics",
+    "chapter": "Chapter 3: Data Handling",
+    "question": "Why is Data Handling and Statistical Analysis considered the foundation of modern data science, machine learning, economic planning, and scientific decision-making?",
+    "options": [
+      "It transforms raw unorganized measurements into meaningful summaries, measures variability, identifies patterns, and models empirical probability for evidence-based predictions",
+      "Because statistics eliminates the need for data collection",
+      "Because averages are the only numbers used in computers",
+      "Because probability guarantees 100% certainty in all future events"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "Descriptive and inferential statistics provide the foundational mathematical framework for data science, modeling uncertainty, and decision analytics."
+  },
+  {
+    "classLevel": 7,
+    "subject": "English",
+    "chapter": "Chapter 3: Gopal and the Hilsa-fish & The Shed",
+    "question": "In the comic story 'Gopal and the Hilsa-fish', what seasonal topic was EVERYONE in the kingdom—from fishermen to courtiers and the King—obsessively talking about?",
+    "options": [
+      "Hilsa-fish",
+      "A cricket tournament",
+      "A royal wedding",
+      "A foreign war"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "It was the season for Hilsa-fish, and people could talk of nothing else."
+  },
+  {
+    "classLevel": 7,
+    "subject": "English",
+    "chapter": "Chapter 3: Gopal and the Hilsa-fish & The Shed",
+    "question": "What challenge did the King throw to his witty, clever courtier Gopal?",
+    "options": [
+      "To buy a huge Hilsa-fish and bring it all the way to the royal palace without a single person asking him even ONE question about the fish on the way",
+      "To catch 1,000 fish in one hour",
+      "To cook the most delicious fish curry",
+      "To swim across the ocean"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "The King challenged Gopal to bring a giant Hilsa to the palace without anyone mentioning the fish."
+  },
+  {
+    "classLevel": 7,
+    "subject": "English",
+    "chapter": "Chapter 3: Gopal and the Hilsa-fish & The Shed",
+    "question": "How did Gopal bizarrely disguise himself before going to the marketplace to buy the Hilsa-fish?",
+    "options": [
+      "He half-shaved his face, smeared dark ash all over his body, and wore filthy, torn rags",
+      "He dressed up as a wealthy foreign prince",
+      "He wore golden royal armor",
+      "He disguised himself as an old woman"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "Gopal half-shaved, smeared ash over his face, and donned tattered rags to look like a madman."
+  },
+  {
+    "classLevel": 7,
+    "subject": "English",
+    "chapter": "Chapter 3: Gopal and the Hilsa-fish & The Shed",
+    "question": "What did Gopal's wife think when she saw him half-shaven and smearing ash on himself?",
+    "options": [
+      "She was shocked and thought he had gone completely MAD",
+      "She thought he was going to a wedding",
+      "She asked him for money",
+      "She did not notice anything"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "Gopal's wife was bewildered and exclaimed that he had lost his sanity."
+  },
+  {
+    "classLevel": 7,
+    "subject": "English",
+    "chapter": "Chapter 3: Gopal and the Hilsa-fish & The Shed",
+    "question": "What did people on the streets and in the market say when Gopal walked past holding the giant Hilsa-fish?",
+    "options": [
+      "\"Look at that man! Isn't he comical? He must be a madman or a mystic!\" (No one noticed the fish at all!)",
+      "\"Look at that huge Hilsa-fish!\"",
+      "\"How much did the fish cost?\"",
+      "\"Where did you catch that fish?\""
+    ],
+    "correctAnswer": 0,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "People were so transfixed by Gopal's bizarre comical appearance that no one paid attention to the fish."
+  },
+  {
+    "classLevel": 7,
+    "subject": "English",
+    "chapter": "Chapter 3: Gopal and the Hilsa-fish & The Shed",
+    "question": "What happened when Gopal reached the palace gates?",
+    "options": [
+      "The guards stopped him from entering; Gopal began to dance and sing loudly until the King ordered the noisy madman brought before him",
+      "The guards welcomed him with flowers",
+      "The guards stole his fish",
+      "Gopal climbed over the palace wall"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "Barred by guards, Gopal sang and danced wildly until the curious King ordered him inside."
+  },
+  {
+    "classLevel": 7,
+    "subject": "English",
+    "chapter": "Chapter 3: Gopal and the Hilsa-fish & The Shed",
+    "question": "How did the King react when he realized Gopal had successfully accomplished the impossible challenge?",
+    "options": [
+      "He burst into hearty laughter and congratulated Gopal for achieving the impossible once again",
+      "He was very angry and sent Gopal to prison",
+      "He refused to give Gopal any reward",
+      "He ordered the fish thrown away"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "The King laughed heartily and lauded Gopal's extraordinary wit in fulfilling the challenge."
+  },
+  {
+    "classLevel": 7,
+    "subject": "English",
+    "chapter": "Chapter 3: Gopal and the Hilsa-fish & The Shed",
+    "question": "In Frank Flynn's evocative poem 'The Shed', where is the mysterious old shed located?",
+    "options": [
+      "At the bottom of the garden",
+      "On top of a hill",
+      "Inside the forest",
+      "Behind the school"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "The poem begins: 'There's a shed at the bottom of our garden...'."
+  },
+  {
+    "classLevel": 7,
+    "subject": "English",
+    "chapter": "Chapter 3: Gopal and the Hilsa-fish & The Shed",
+    "question": "In 'The Shed', what is hanging across the shed door, and what sound do the rusty hinges make in the wind?",
+    "options": [
+      "A Spider's web hangs across the door ; the rusty hinges Creak in the wind",
+      "A golden lock ; they ring like bells",
+      "A green curtain ; they make no sound",
+      "A heavy iron chain ; they whistle"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "Flynn describes the spider's web across the door and the creaking of rusty hinges when the poet lies in bed."
+  },
+  {
+    "classLevel": 7,
+    "subject": "English",
+    "chapter": "Chapter 3: Gopal and the Hilsa-fish & The Shed",
+    "question": "What scary warning does the speaker's brother give him about the old shed?",
+    "options": [
+      "There is a Ghost hiding under the rotten floorboards who will jump out and chop off his head if he dares to step inside",
+      "There are poisonous snakes inside",
+      "There is a wild bear inside",
+      "The roof will fall on him"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "The brother frightens him with tales of a head-chopping ghost hiding beneath rotten floorboards."
+  },
+  {
+    "classLevel": 7,
+    "subject": "English",
+    "chapter": "Chapter 3: Gopal and the Hilsa-fish & The Shed",
+    "question": "What is a 'Reported Question' in English grammar?",
+    "options": [
+      "Converting a direct interrogative question into an indirect declarative reported statement using 'if/whether' or 'Wh-' words without question marks",
+      "Shouting a question loudly",
+      "Writing a question in bold",
+      "Asking a question on television"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "Reported questions transform direct inquiries into indirect assertive clauses without inversion or question marks."
+  },
+  {
+    "classLevel": 7,
+    "subject": "English",
+    "chapter": "Chapter 3: Gopal and the Hilsa-fish & The Shed",
+    "question": "What is the past tense of the irregular verb 'Smear' as used in 'Gopal smeared ash on himself'?",
+    "options": [
+      "Smeared",
+      "Smearing",
+      "Smear",
+      "Smearned"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "The past tense of the regular verb 'smear' is 'smeared'."
+  },
+  {
+    "classLevel": 7,
+    "subject": "English",
+    "chapter": "Chapter 3: Gopal and the Hilsa-fish & The Shed",
+    "question": "What clever psychological principle did Gopal exploit to win the King's challenge?",
+    "options": [
+      "The power of visual distraction: by creating an outrageous, shocking visual spectacle of himself, he diverted human curiosity completely away from the fish",
+      "He hid the fish inside a wooden box",
+      "He cast a sleeping spell on everyone",
+      "He walked through secret underground tunnels"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "Gopal manipulated human cognitive salience: overpowering the seasonal obsession with a dramatic personal spectacle."
+  },
+  {
+    "classLevel": 7,
+    "subject": "English",
+    "chapter": "Chapter 3: Gopal and the Hilsa-fish & The Shed",
+    "question": "In 'The Shed', why does the speaker realize that his brother is lying about the ghost?",
+    "options": [
+      "His brother tells lies to keep the shed as his own private secret den, and the speaker sees no real ghost or spider webs anymore",
+      "Because ghosts only live in castles",
+      "Because the shed was built yesterday",
+      "Because his mother told him there are no ghosts"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "The speaker rationally deduces his brother's territorial motive: inventing ghost tales to monopolize the shed."
+  },
+  {
+    "classLevel": 7,
+    "subject": "English",
+    "chapter": "Chapter 3: Gopal and the Hilsa-fish & The Shed",
+    "question": "What is the subtle psychological nuance in the poet's final declaration at the end of 'The Shed':\n\"I'll go into that shed one day soon, / But not just yet...\"?",
+    "options": [
+      "A realistic portrayal of growing childhood courage mixed with lingering, natural hesitation and caution before conquering the unknown",
+      "The poet decided never to enter the shed",
+      "The poet was terrified and ran away forever",
+      "The poet lost the key to the shed"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "Flynn captures the threshold of adolescent maturity: rational courage affirmed, accompanied by honest residual hesitation."
+  },
+  {
+    "classLevel": 7,
+    "subject": "English",
+    "chapter": "Chapter 3: Gopal and the Hilsa-fish & The Shed",
+    "question": "Convert the Direct Speech question into INDIRECT SPEECH:\nThe King asked Gopal, \"Why are you dressed up in this ridiculous fashion?\"",
+    "options": [
+      "The King asked Gopal why he was dressed up in that ridiculous fashion.",
+      "The King asked Gopal that why are you dressed up.",
+      "The King asked Gopal why was he dressed up in this fashion.",
+      "The King ordered Gopal why he is dressing."
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "Direct 'why are you... this' shifts to indirect assertive syntax: 'why he was... that'."
+  },
+  {
+    "classLevel": 7,
+    "subject": "English",
+    "chapter": "Chapter 3: Gopal and the Hilsa-fish & The Shed",
+    "question": "Convert the Direct Speech into INDIRECT SPEECH:\nThe woman asked her husband, \"What is the matter with you?\"",
+    "options": [
+      "The woman asked her husband what the matter was with him.",
+      "The woman asked her husband what was the matter with you.",
+      "The woman told her husband that what is the matter.",
+      "The woman asked her husband if what was the matter."
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "Indirect question word order: Wh-word + subject (the matter) + verb (was) + with him."
+  },
+  {
+    "classLevel": 7,
+    "subject": "English",
+    "chapter": "Chapter 3: Gopal and the Hilsa-fish & The Shed",
+    "question": "What is the meaning of the word 'Comical' in: 'Look at that man! Isn't he comical?'?",
+    "options": [
+      "Funny, amusing, and causing laughter due to absurd appearance",
+      "Very dangerous and angry",
+      "Extremely sad",
+      "Very handsome"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "'Comical' denotes evoking laughter through absurd, eccentric, or amusing incongruity."
+  },
+  {
+    "classLevel": 7,
+    "subject": "English",
+    "chapter": "Chapter 3: Gopal and the Hilsa-fish & The Shed",
+    "question": "What is the meaning of the word 'Mystic' in: 'Hush, I think he is a mystic!'?",
+    "options": [
+      "A spiritual person who seeks direct communion with divine/unseen truths, often behaving outside ordinary social norms",
+      "A thief stealing fish",
+      "A doctor in the palace",
+      "A foreign merchant"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "'Mystic' describes an ascetic seeker of spiritual mysteries whose eccentric exterior defies mundane social conventions."
+  },
+  {
+    "classLevel": 7,
+    "subject": "English",
+    "chapter": "Chapter 3: Gopal and the Hilsa-fish & The Shed",
+    "question": "In 'The Shed', how does the poet describe the dusty old window on the side?",
+    "options": [
+      "A dusty old window with three cracked panes of glass where he feels someone staring at him whenever he passes",
+      "A clean glass window with pink curtains",
+      "A window with gold bars",
+      "A window that is painted completely blue"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "Flynn describes the three cracked windowpanes evoking juvenile sensory apprehensions of watchful unseen presences."
+  },
+  {
+    "classLevel": 7,
+    "subject": "English",
+    "chapter": "Chapter 3: Gopal and the Hilsa-fish & The Shed",
+    "question": "What is the comic format in which 'Gopal and the Hilsa-fish' is presented in the NCERT Honeysuckle textbook?",
+    "options": [
+      "A Graphic Comic Story / Sequential Art with speech bubbles and expressive visual dialogue panels",
+      "A formal legal essay",
+      "A long poem with no pictures",
+      "A play script with stage directions only"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "The story is rendered in sequential graphic comic panels with speech balloons and humorous visual illustrations."
+  },
+  {
+    "classLevel": 7,
+    "subject": "English",
+    "chapter": "Chapter 3: Gopal and the Hilsa-fish & The Shed",
+    "question": "Choose the correct antonym of the word 'Accept' as used in 'Gopal accepted the challenge':",
+    "options": [
+      "Refuse / Reject / Decline",
+      "Receive",
+      "Welcome",
+      "Acquire"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "The antonym of 'accept' (embracing a challenge) is 'refuse' or 'reject'."
+  },
+  {
+    "classLevel": 7,
+    "subject": "English",
+    "chapter": "Chapter 3: Gopal and the Hilsa-fish & The Shed",
+    "question": "Fill in the blank with the correct Preposition:\n'Gopal smeared ash _______ his face and body.'",
+    "options": [
+      "over / on",
+      "into",
+      "under",
+      "between"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "'Smeared ash on/over his face' correctly designates surface application."
+  },
+  {
+    "classLevel": 7,
+    "subject": "English",
+    "chapter": "Chapter 3: Gopal and the Hilsa-fish & The Shed",
+    "question": "Identify the figure of speech in: 'The rusty hinges of the old shed door groaned in the midnight wind.'",
+    "options": [
+      "Personification (attributing the human auditory act of 'groaning' to inanimate rusty hinges)",
+      "Metaphor",
+      "Simile",
+      "Hyperbole"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "Personification endows the creaking mechanical hinges with the somatic human expression of groaning."
+  },
+  {
+    "classLevel": 7,
+    "subject": "English",
+    "chapter": "Chapter 3: Gopal and the Hilsa-fish & The Shed",
+    "question": "Choose the sentence that correctly transforms: 'Bring the man to me at once!' (Active Voice) into PASSIVE VOICE:",
+    "options": [
+      "'Let the man be brought to me at once!'",
+      "'The man brought me at once.'",
+      "'You must bring the man.'",
+      "'The man is bringing me.'"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "Imperative passive structure: 'Let + object + be + past participle' → 'Let the man be brought to me at once!'."
+  },
+  {
+    "classLevel": 7,
+    "subject": "English",
+    "chapter": "Chapter 3: Gopal and the Hilsa-fish & The Shed",
+    "question": "What is the meaning of the phrasal verb 'To bring about' in: 'Gopal brought about a complete change in the King's mood.'?",
+    "options": [
+      "To cause something to happen",
+      "To carry something around",
+      "To buy something cheap",
+      "To take someone on a tour"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "'To bring about' means to cause or effectuate a transformation."
+  },
+  {
+    "classLevel": 7,
+    "subject": "English",
+    "chapter": "Chapter 3: Gopal and the Hilsa-fish & The Shed",
+    "question": "Choose the correct spelling among the options:",
+    "options": [
+      "Ridiculous",
+      "Rediculous",
+      "Ridiculus",
+      "Redeculous"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "Correct orthography: R-I-D-I-C-U-L-O-U-S."
+  },
+  {
+    "classLevel": 7,
+    "subject": "English",
+    "chapter": "Chapter 3: Gopal and the Hilsa-fish & The Shed",
+    "question": "What is the tone of the poem 'The Shed'?",
+    "options": [
+      "Mysterious, eerie, and atmospheric, transitioning into rational courage and reflective curiosity",
+      "Furious and violent",
+      "Silly and mocking",
+      "Boring and scientific"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "The poem establishes an eerie, gothic childhood atmosphere evolving toward rational resolution."
+  },
+  {
+    "classLevel": 7,
+    "subject": "English",
+    "chapter": "Chapter 3: Gopal and the Hilsa-fish & The Shed",
+    "question": "Read the statements:\nAssertion (A): 'Gopal and the Hilsa-fish' is a brilliant satire on collective herd mentality and the fickle nature of public attention.\nReason (R): While the entire kingdom was obsessively consumed by trivial seasonal fish gossip, Gopal demonstrated that an eccentric visual disruption can instantly shatter societal fixation and redirect public curiosity.\nChoose the correct option:",
+    "options": [
+      "Both (A) and (R) are true, and (R) is the correct explanation of (A).",
+      "Both (A) and (R) are true, but (R) is NOT the correct explanation of (A).",
+      "(A) is true, but (R) is false.",
+      "(A) is false, but (R) is true."
+    ],
+    "correctAnswer": 0,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "The folklore satire demonstrates how superficial social obsessions are instantly supplanted by novel sensational spectacles."
+  },
+  {
+    "classLevel": 7,
+    "subject": "English",
+    "chapter": "Chapter 3: Gopal and the Hilsa-fish & The Shed",
+    "question": "Spot the IMPOSTER in the following group of literary themes and elements from Chapter 3:\nGroup:\n1. Gopal and the Hilsa-fish - Folk wit, courtly humor, and subverting social obsession\n2. The Shed - Conquering imaginary childhood fears and confronting the unknown\n3. The Ghost in the Shed - A real demonic monster who devoured the speaker's brother\n4. The King's Challenge - Demonstrating that impossible tasks yield to ingenuity",
+    "options": [
+      "Element 1",
+      "Element 2",
+      "Element 3 (The ghost was merely an imaginary invention by the brother to keep the shed private)",
+      "Element 4"
+    ],
+    "correctAnswer": 2,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "Element 3 is an imposter: the poem explicitly clarifies that the ghost was a fabrication invented by the brother."
+  },
+  {
+    "classLevel": 7,
+    "subject": "English",
+    "chapter": "Chapter 3: Gopal and the Hilsa-fish & The Shed",
+    "question": "Analyze the structural contrast between Gopal's external physical appearance and his internal intellect:\nWhat is the underlying irony?",
+    "options": [
+      "Outwardly he appeared as a deranged, half-shaven, ash-smeared madman in rags, but inwardly he was operating with supreme tactical intellect and calculated rationality",
+      "He was genuinely mad and forgot what he was doing",
+      "He wanted to become a real beggar",
+      "He was trying to hide from the police"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "Sharp dramatic irony: donning outward lunacy as a calculated intellectual stratagem to achieve royal triumph."
+  },
+  {
+    "classLevel": 7,
+    "subject": "English",
+    "chapter": "Chapter 3: Gopal and the Hilsa-fish & The Shed",
+    "question": "Match Column I (Characters / Poetic Imagery) with Column II (Symbolic Meanings):\n(a) The Hilsa-fish       -> (i) The all-consuming, trivial seasonal obsession of society\n(b) The Ash and Rags     -> (ii) Deliberate sensory distraction to bypass collective prejudice\n(c) The Rotten Floorboard-> (iii) The dark, unseen realm of childhood fear and superstition\n(d) 'Not just yet...'   -> (iv) The realistic boundary of growing courage before action",
+    "options": [
+      "a-(i), b-(ii), c-(iii), d-(iv)",
+      "a-(ii), b-(i), c-(iv), d-(iii)",
+      "a-(iv), b-(iii), c-(ii), d-(i)",
+      "a-(iii), b-(iv), c-(i), d-(ii)"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "Hilsa = obsession; Ash/rags = calculated distraction; Floorboard = childhood fear; Not yet = threshold of maturity."
+  },
+  {
+    "classLevel": 7,
+    "subject": "English",
+    "chapter": "Chapter 3: Gopal and the Hilsa-fish & The Shed",
+    "question": "Read the statements regarding English grammar transformation:\nStatement 1: When converting a Direct 'Wh-' question into Indirect speech, the reporting conjunction 'that' is NEVER used.\nStatement 2: Direct question 'Where do you live?' becomes 'He asked me where I lived.' in Indirect Speech.\nStatement 3: In Indirect questions, the question mark is always retained at the end of the sentence.\nWhich statements are TRUE?",
+    "options": [
+      "Statements 1 and 2 only",
+      "Statements 2 and 3 only",
+      "Statements 1 and 3 only",
+      "All Statements 1, 2, and 3"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "Statement 3 is false because indirect reported questions become declarative statements ending in a full stop (.), not a question mark. Statements 1 and 2 are true."
+  },
+  {
+    "classLevel": 7,
+    "subject": "English",
+    "chapter": "Chapter 3: Gopal and the Hilsa-fish & The Shed",
+    "question": "Identify the grammatical role of the underlined clause in: 'I know **that there isn't really a ghost**.'",
+    "options": [
+      "Noun Clause acting as the direct object of the transitive verb 'know'",
+      "Adverb Clause of Reason",
+      "Adjective Clause qualifying 'I'",
+      "Prepositional Phrase"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "'That there isn't really a ghost' functions as a Noun Clause object answering 'what is known'."
+  },
+  {
+    "classLevel": 7,
+    "subject": "English",
+    "chapter": "Chapter 3: Gopal and the Hilsa-fish & The Shed",
+    "question": "Which of the following sentences exhibits correct SUBJUNCTIVE MOOD expressing an imaginary hypothetical situation?",
+    "options": [
+      "'If I were to peer through that window, I would find only dusty old cobwebs.'",
+      "'If I was to peer through that window, I will find.'",
+      "'If I am peering through that window, I would found.'",
+      "'If I peer through that window, I had found.'"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "Hypothetical conditional subjunctive: 'If I were to peer... I would find'."
+  },
+  {
+    "classLevel": 7,
+    "subject": "English",
+    "chapter": "Chapter 3: Gopal and the Hilsa-fish & The Shed",
+    "question": "What is the psychological function of 'The Shed' as an architectural motif in children's literature?",
+    "options": [
+      "It serves as a liminal space representing the mysterious unknown, the repository of childhood superstitions, and the eventual triumph of empirical rationality over irrational fear",
+      "It represents a prison for bad students",
+      "It shows the importance of building garden toolboxes",
+      "It is a storehouse for selling old fish"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "The garden shed functions as a liminal psychological space where adolescent rationality conquers gothic fears."
+  },
+  {
+    "classLevel": 7,
+    "subject": "English",
+    "chapter": "Chapter 3: Gopal and the Hilsa-fish & The Shed",
+    "question": "Transform the sentence from Active Voice into PASSIVE VOICE:\n'No one mentioned a word about the Hilsa-fish.'",
+    "options": [
+      "'Not a word was mentioned about the Hilsa-fish by anyone.'",
+      "'A word mentioned not the Hilsa-fish.'",
+      "'The Hilsa-fish was not mentioning a word.'",
+      "'No one was mentioning the Hilsa-fish.'"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "Negative passive transformation: 'Not a word was mentioned about the Hilsa-fish by anyone.'."
+  },
+  {
+    "classLevel": 7,
+    "subject": "English",
+    "chapter": "Chapter 3: Gopal and the Hilsa-fish & The Shed",
+    "question": "In 'The Shed', why does the speaker note that: 'The spider has been gone from his web since I don't know when'?",
+    "options": [
+      "It is the speaker's empirical observation proving that the shed is abandoned and dormant, exposing his brother's ghost tales as groundless fabrications",
+      "Because the spider flew to another country",
+      "Because the ghost ate the spider",
+      "Because the speaker sprayed pesticide"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "Observing the absent spider provides empirical validation dispelling mythic ghostly terror."
+  },
+  {
+    "classLevel": 7,
+    "subject": "English",
+    "chapter": "Chapter 3: Gopal and the Hilsa-fish & The Shed",
+    "question": "What comedic technique is used when Gopal's wife shouts from the door: 'Why are you smearing yourself with ash? What is the matter with you?' while Gopal calmly repeats: 'I'm telling you, I'm dressing up to buy a Hilsa-fish!'?",
+    "options": [
+      "Comic Incongruity and deadpan repetition (mismatch between bizarre visual madness and completely calm, matter-of-fact dialogue)",
+      "Tragic sorrow",
+      "Violent anger",
+      "Scientific debate"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "Deadpan comic incongruity: pairing extreme physical absurdity with serene, literal mundane justification."
+  },
+  {
+    "classLevel": 7,
+    "subject": "English",
+    "chapter": "Chapter 3: Gopal and the Hilsa-fish & The Shed",
+    "question": "What master life philosophy links both the prose and poetic selections in Chapter 3 of NCERT Class 7 English?",
+    "options": [
+      "True intellect and courage conquer all challenges—whether using sharp lateral wit to outmaneuver societal obsessions or applying rational courage to overcome fear of the dark and unknown",
+      "That fish is the only food worth eating",
+      "That garden sheds should always be locked",
+      "That courtiers should never obey kings"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "Chapter 3 integrates intellectual ingenuity (Gopal) with psychological courage confronting the unknown (The Shed)."
+  },
+  {
+    "classLevel": 7,
+    "subject": "GK",
+    "chapter": "Chapter 3: World Geography, Continents, Oceans & Famous Global Landmarks",
+    "question": "Which is the LARGEST continent on Earth by both total land surface area and human population?",
+    "options": [
+      "Asia",
+      "Africa",
+      "North America",
+      "Europe"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "Asia covers ~30% of Earth's land area and contains nearly 60% of the world human population."
+  },
+  {
+    "classLevel": 7,
+    "subject": "GK",
+    "chapter": "Chapter 3: World Geography, Continents, Oceans & Famous Global Landmarks",
+    "question": "Which is the SMALLEST continent on Earth by geographical land area (often called the 'Island Continent')?",
+    "options": [
+      "Australia (Oceania)",
+      "Europe",
+      "Antarctica",
+      "South America"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "Australia is the smallest continent, completely surrounded by the Indian and Pacific Oceans."
+  },
+  {
+    "classLevel": 7,
+    "subject": "GK",
+    "chapter": "Chapter 3: World Geography, Continents, Oceans & Famous Global Landmarks",
+    "question": "Which is the LARGEST and DEEPEST ocean on planet Earth, covering over 30% of the globe's surface?",
+    "options": [
+      "Pacific Ocean",
+      "Atlantic Ocean",
+      "Indian Ocean",
+      "Arctic Ocean"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "The Pacific Ocean is the largest biophysical ocean, containing the deepest oceanic trench (Mariana Trench)."
+  },
+  {
+    "classLevel": 7,
+    "subject": "GK",
+    "chapter": "Chapter 3: World Geography, Continents, Oceans & Famous Global Landmarks",
+    "question": "What is the DEEPEST point on Earth, reaching a depth of approximately 11,034 metres in the western Pacific Ocean?",
+    "options": [
+      "Challenger Deep (in the Mariana Trench)",
+      "Java Trench",
+      "Puerto Rico Trench",
+      "Sunda Trench"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "Challenger Deep in the Mariana Trench reaches ~11,034 m (~36,200 feet) below sea level."
+  },
+  {
+    "classLevel": 7,
+    "subject": "GK",
+    "chapter": "Chapter 3: World Geography, Continents, Oceans & Famous Global Landmarks",
+    "question": "Which is the LONGEST river in the world, flowing over 6,650 km northward through northeastern Africa into the Mediterranean Sea?",
+    "options": [
+      "Nile River",
+      "Amazon River",
+      "Yangtze River",
+      "Mississippi River"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "The Nile River in Africa is traditionally recognized as the world's longest river (~6,650 km)."
+  },
+  {
+    "classLevel": 7,
+    "subject": "GK",
+    "chapter": "Chapter 3: World Geography, Continents, Oceans & Famous Global Landmarks",
+    "question": "Which river carries the LARGEST volume of water (highest discharge) in the world, discharging 20% of global river flow into the Atlantic?",
+    "options": [
+      "Amazon River",
+      "Nile River",
+      "Congo River",
+      "Ganga River"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "The Amazon River in South America discharges ~209,000 m³/s, making it by far the largest river by water volume."
+  },
+  {
+    "classLevel": 7,
+    "subject": "GK",
+    "chapter": "Chapter 3: World Geography, Continents, Oceans & Famous Global Landmarks",
+    "question": "Which is the HIGHEST mountain peak in the world, standing at 8,848.86 metres on the border of Nepal and China in the Himalayas?",
+    "options": [
+      "Mount Everest (Sagarmatha / Qomolangma)",
+      "K2",
+      "Kangchenjunga",
+      "Lhotse"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "Mount Everest (8,848.86 m) in the Mahalangur Himal sub-range is the highest peak above sea level on Earth."
+  },
+  {
+    "classLevel": 7,
+    "subject": "GK",
+    "chapter": "Chapter 3: World Geography, Continents, Oceans & Famous Global Landmarks",
+    "question": "Which is the LARGEST hot desert in the world, spanning over 9 million square kilometers across North Africa?",
+    "options": [
+      "Sahara Desert",
+      "Gobi Desert",
+      "Kalahari Desert",
+      "Thar Desert"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "The Sahara Desert is the largest non-polar subtropical hot desert on Earth, covering 11 African nations."
+  },
+  {
+    "classLevel": 7,
+    "subject": "GK",
+    "chapter": "Chapter 3: World Geography, Continents, Oceans & Famous Global Landmarks",
+    "question": "Which is the LARGEST freshwater lake in the world by surface area, located between Canada and the United States?",
+    "options": [
+      "Lake Superior",
+      "Lake Victoria",
+      "Lake Baikal",
+      "Lake Michigan"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "Lake Superior (82,100 km²) is the world's largest freshwater lake by surface area."
+  },
+  {
+    "classLevel": 7,
+    "subject": "GK",
+    "chapter": "Chapter 3: World Geography, Continents, Oceans & Famous Global Landmarks",
+    "question": "Which is the DEEPEST and OLDEST freshwater lake in the world, located in Siberia, Russia (holding 20% of global unfrozen surface freshwater)?",
+    "options": [
+      "Lake Baikal (1,642 metres deep)",
+      "Caspian Sea",
+      "Lake Tanganyika",
+      "Lake Huron"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "Lake Baikal in Siberia is the world's deepest (1,642 m) and most voluminous freshwater rift lake."
+  },
+  {
+    "classLevel": 7,
+    "subject": "GK",
+    "chapter": "Chapter 3: World Geography, Continents, Oceans & Famous Global Landmarks",
+    "question": "In which European country is the famous leaning bell tower 'Leaning Tower of Pisa' located?",
+    "options": [
+      "Italy",
+      "France",
+      "Spain",
+      "Germany"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "The freestanding bell tower of Pisa Cathedral is located in the Piazza dei Miracoli in Pisa, Italy."
+  },
+  {
+    "classLevel": 7,
+    "subject": "GK",
+    "chapter": "Chapter 3: World Geography, Continents, Oceans & Famous Global Landmarks",
+    "question": "In which South American country is the ancient 15th-century Inca citadel of 'Machu Picchu' located high in the Andes mountains?",
+    "options": [
+      "Peru",
+      "Brazil",
+      "Chile",
+      "Argentina"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "Machu Picchu is a 15th-century Inca royal estate located in the Cusco Region of Peru."
+  },
+  {
+    "classLevel": 7,
+    "subject": "GK",
+    "chapter": "Chapter 3: World Geography, Continents, Oceans & Famous Global Landmarks",
+    "question": "Which is the HIGHEST uninterrupted waterfall in the world, dropping 979 metres from Auyán-tepui mountain in Venezuela?",
+    "options": [
+      "Angel Falls (Salto Ángel)",
+      "Niagara Falls",
+      "Victoria Falls",
+      "Iguazu Falls"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "Angel Falls in Canaima National Park, Venezuela, has an uninterrupted drop of 807 m and total height of 979 m."
+  },
+  {
+    "classLevel": 7,
+    "subject": "GK",
+    "chapter": "Chapter 3: World Geography, Continents, Oceans & Famous Global Landmarks",
+    "question": "What is the imaginary line of latitude at 0° that divides the Earth into the Northern and Southern Hemispheres?",
+    "options": [
+      "The Equator",
+      "Tropic of Cancer",
+      "Tropic of Capricorn",
+      "Prime Meridian"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "The Equator is the 0° latitude parallel equidistant from the geographic North and South Poles."
+  },
+  {
+    "classLevel": 7,
+    "subject": "GK",
+    "chapter": "Chapter 3: World Geography, Continents, Oceans & Famous Global Landmarks",
+    "question": "Through which famous Royal Observatory in London, England does the 0° longitude 'Prime Meridian' pass?",
+    "options": [
+      "Greenwich Observatory (Greenwich Mean Time - GMT)",
+      "Kew Observatory",
+      "Paris Observatory",
+      "Oxford Observatory"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "The Greenwich Prime Meridian (0° longitude) was established at the Royal Observatory Greenwich in 1884."
+  },
+  {
+    "classLevel": 7,
+    "subject": "GK",
+    "chapter": "Chapter 3: World Geography, Continents, Oceans & Famous Global Landmarks",
+    "question": "Which narrow artificial maritime waterway in Egypt connects the Mediterranean Sea to the Red Sea, enabling direct shipping between Europe and Asia without navigating around Africa?",
+    "options": [
+      "Suez Canal (opened in 1869)",
+      "Panama Canal",
+      "Kiel Canal",
+      "Corinth Canal"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "The 193 km Suez Canal cuts through the Isthmus of Suez, drastically shortening European-Asian shipping routes."
+  },
+  {
+    "classLevel": 7,
+    "subject": "GK",
+    "chapter": "Chapter 3: World Geography, Continents, Oceans & Famous Global Landmarks",
+    "question": "Which artificial waterway cuts across the Isthmus of Panama to connect the Atlantic Ocean with the Pacific Ocean?",
+    "options": [
+      "Panama Canal (opened in 1914)",
+      "Suez Canal",
+      "Erie Canal",
+      "Grand Canal"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "The Panama Canal uses a system of stepped water locks to lift ships across the continental divide between oceans."
+  },
+  {
+    "classLevel": 7,
+    "subject": "GK",
+    "chapter": "Chapter 3: World Geography, Continents, Oceans & Famous Global Landmarks",
+    "question": "Which is the LONGEST continental mountain range in the world, stretching over 7,000 km along the entire western coast of South America?",
+    "options": [
+      "The Andes Mountains",
+      "The Rocky Mountains",
+      "The Himalayas",
+      "The Alps"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "The Andes span 7,000 km across 7 South American countries: Venezuela, Colombia, Ecuador, Peru, Bolivia, Chile, Argentina."
+  },
+  {
+    "classLevel": 7,
+    "subject": "GK",
+    "chapter": "Chapter 3: World Geography, Continents, Oceans & Famous Global Landmarks",
+    "question": "What is the high-altitude plateau in Central Asia often called the 'Roof of the World' because of its immense elevation (average >4,500 m)?",
+    "options": [
+      "Tibetan Plateau (and Pamir Knot)",
+      "Deccan Plateau",
+      "Colorado Plateau",
+      "Anatolian Plateau"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "The Tibetan Plateau covers 2.5 million km² at an average altitude exceeding 4,500 metres."
+  },
+  {
+    "classLevel": 7,
+    "subject": "GK",
+    "chapter": "Chapter 3: World Geography, Continents, Oceans & Famous Global Landmarks",
+    "question": "Which is the ONLY continent through which all three major latitude lines—the Equator, the Tropic of Cancer, and the Tropic of Capricorn—pass?",
+    "options": [
+      "Africa",
+      "Asia",
+      "South America",
+      "Australia"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "Africa is the sole continent bisected by the Equator, Tropic of Cancer (23.5°N), and Tropic of Capricorn (23.5°S)."
+  },
+  {
+    "classLevel": 7,
+    "subject": "GK",
+    "chapter": "Chapter 3: World Geography, Continents, Oceans & Famous Global Landmarks",
+    "question": "Which is the world's LARGEST island (that is not classified as a continent), covered largely by a massive ice sheet?",
+    "options": [
+      "Greenland (Kalaallit Nunaat - part of Denmark)",
+      "New Guinea",
+      "Borneo",
+      "Madagascar"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "Greenland covers 2,166,086 km², making it the largest non-continental island on Earth."
+  },
+  {
+    "classLevel": 7,
+    "subject": "GK",
+    "chapter": "Chapter 3: World Geography, Continents, Oceans & Famous Global Landmarks",
+    "question": "What is the famous horseshoe-shaped basin in the Pacific Ocean basin characterized by 75% of the world's active volcanoes and 90% of global earthquakes called?",
+    "options": [
+      "The Pacific Ring of Fire",
+      "Mid-Atlantic Ridge",
+      "Bermuda Triangle",
+      "Great Rift Valley"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "The Pacific Ring of Fire is a 40,000 km subduction zone hosting ~452 active and dormant volcanoes."
+  },
+  {
+    "classLevel": 7,
+    "subject": "GK",
+    "chapter": "Chapter 3: World Geography, Continents, Oceans & Famous Global Landmarks",
+    "question": "Which is the SMALLEST sovereign independent country in the world by both area (0.49 sq km) and population, located within the city of Rome, Italy?",
+    "options": [
+      "Vatican City (Holy See)",
+      "Monaco",
+      "Nauru",
+      "San Marino"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "Vatican City is a walled sovereign enclave of 49 hectares entirely surrounded by Rome, Italy."
+  },
+  {
+    "classLevel": 7,
+    "subject": "GK",
+    "chapter": "Chapter 3: World Geography, Continents, Oceans & Famous Global Landmarks",
+    "question": "Which is the LARGEST country in the world by geographical land area, spanning 11 time zones across Europe and Asia?",
+    "options": [
+      "Russia (17.1 million sq km)",
+      "Canada",
+      "China",
+      "United States"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "The Russian Federation covers 17,098,246 km², spanning across Eastern Europe and Northern Asia."
+  },
+  {
+    "classLevel": 7,
+    "subject": "GK",
+    "chapter": "Chapter 3: World Geography, Continents, Oceans & Famous Global Landmarks",
+    "question": "In which country is the iconic ancient rock-cut archaeological city of 'Petra' (carved into vibrant pink sandstone cliffs) located?",
+    "options": [
+      "Jordan",
+      "Egypt",
+      "Iran",
+      "Saudi Arabia"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "Petra (the Rose City) was the Nabataean capital established in southwestern Jordan in the 4th century BCE."
+  },
+  {
+    "classLevel": 7,
+    "subject": "GK",
+    "chapter": "Chapter 3: World Geography, Continents, Oceans & Famous Global Landmarks",
+    "question": "What is the famous strait of water separating the continent of Europe (Spain) from the continent of Africa (Morocco)?",
+    "options": [
+      "Strait of Gibraltar",
+      "Strait of Malacca",
+      "Bering Strait",
+      "Strait of Hormuz"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "The Strait of Gibraltar (13 km wide) links the Atlantic Ocean to the Mediterranean Sea between Spain and Morocco."
+  },
+  {
+    "classLevel": 7,
+    "subject": "GK",
+    "chapter": "Chapter 3: World Geography, Continents, Oceans & Famous Global Landmarks",
+    "question": "Which body of water is known as the 'Dead Sea', situated between Jordan and Israel?",
+    "options": [
+      "A hypersaline endorheic lake (~34% salinity) where people float effortlessly and no fish or aquatic plants can survive",
+      "A freshwater pond with giant sharks",
+      "An ocean without any water",
+      "A boiling hot geyser"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "The Dead Sea (430 m below sea level) has 34.2% salinity, increasing fluid density so humans float buoyantly."
+  },
+  {
+    "classLevel": 7,
+    "subject": "GK",
+    "chapter": "Chapter 3: World Geography, Continents, Oceans & Famous Global Landmarks",
+    "question": "Which country in the world has the LARGEST number of natural lakes (over 60% of all the world's lakes combined)?",
+    "options": [
+      "Canada",
+      "Russia",
+      "Finland",
+      "Sweden"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "Canada contains approximately 879,000 lakes formed by extensive Pleistocene glacial scouring."
+  },
+  {
+    "classLevel": 7,
+    "subject": "GK",
+    "chapter": "Chapter 3: World Geography, Continents, Oceans & Famous Global Landmarks",
+    "question": "Read the statements:\nAssertion (A): The International Date Line (IDL) at approximately 180° longitude does not follow a perfectly straight geometric line but zigzags across the Pacific Ocean.\nReason (R): It deviates to avoid dividing sovereign island nations (such as Kiribati, Fiji, and Aleutian Islands) into two different calendar days simultaneously.\nChoose the correct option:",
+    "options": [
+      "Both (A) and (R) are true, and (R) is the correct explanation of (A).",
+      "Both (A) and (R) are true, but (R) is NOT the correct explanation of (A).",
+      "(A) is true, but (R) is false.",
+      "(A) is false, but (R) is true."
+    ],
+    "correctAnswer": 0,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "The IDL is politically curved around national maritime boundaries to maintain uniform calendar dates within island archipelago jurisdictions."
+  },
+  {
+    "classLevel": 7,
+    "subject": "GK",
+    "chapter": "Chapter 3: World Geography, Continents, Oceans & Famous Global Landmarks",
+    "question": "Spot the IMPOSTER in the following group of World Landforms matched with their Continents:\nGroup:\n1. Mount Kilimanjaro (5,895 m) - Africa (Tanzania)\n2. Mount Aconcagua (6,961 m) - South America (Argentina)\n3. Mount Denali / McKinley (6,190 m) - North America (Alaska)\n4. Mount Elbrus (5,642 m) - Australia",
+    "options": [
+      "Match 1",
+      "Match 2",
+      "Match 3",
+      "Match 4 (Mount Elbrus is in the Caucasus Mountains of EUROPE/Russia ; Mount Kosciuszko is in Australia)"
+    ],
+    "correctAnswer": 3,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "Mount Elbrus (5,642 m) is the highest peak in Europe (Russia); Australia's highest mainland peak is Mount Kosciuszko (2,228 m)."
+  },
+  {
+    "classLevel": 7,
+    "subject": "GK",
+    "chapter": "Chapter 3: World Geography, Continents, Oceans & Famous Global Landmarks",
+    "question": "What is an 'Isthmus' versus a 'Strait' in physical geography?",
+    "options": [
+      "An Isthmus is a narrow strip of LAND connecting two larger landmasses (e.g. Isthmus of Panama) ; a Strait is a narrow body of WATER connecting two larger water bodies (e.g. Strait of Gibraltar)",
+      "An isthmus is made of ice, a strait is made of rock",
+      "A strait is a river in a desert",
+      "Both are identical terms for mountains"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "Isthmus = terrestrial bridge between landmasses; Strait = navigable nautical channel between waterbodies."
+  },
+  {
+    "classLevel": 7,
+    "subject": "GK",
+    "chapter": "Chapter 3: World Geography, Continents, Oceans & Famous Global Landmarks",
+    "question": "Match Column I (Famous Global Landmarks) with Column II (Country / Architectural Feature):\n(a) Taj Mahal         -> (i) White marble mausoleum in Agra, India (Mughal architecture)\n(b) Colosseum         -> (ii) Flavian amphitheatre in Rome, Italy (Roman architecture)\n(c) Chichen Itza      -> (iii) El Castillo step pyramid in Yucatan, Mexico (Maya civilization)\n(d) Christ the Redeemer-> (iv) Art Deco statue atop Corcovado mountain in Rio de Janeiro, Brazil",
+    "options": [
+      "a-(i), b-(ii), c-(iii), d-(iv)",
+      "a-(ii), b-(i), c-(iv), d-(iii)",
+      "a-(iv), b-(iii), c-(ii), d-(i)",
+      "a-(iii), b-(iv), c-(i), d-(ii)"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "Taj Mahal = Mughal marble; Colosseum = Roman arena; Chichen Itza = Maya pyramid; Christ the Redeemer = Rio Art Deco."
+  },
+  {
+    "classLevel": 7,
+    "subject": "GK",
+    "chapter": "Chapter 3: World Geography, Continents, Oceans & Famous Global Landmarks",
+    "question": "Read the statements regarding extreme global geography:\nStatement 1: The Atacama Desert in Chile is the DRIEST non-polar desert in the world, with some weather stations recording zero rainfall for decades.\nStatement 2: The continent of Antarctica contains approximately 70% of the world's freshwater locked in its ice sheet.\nStatement 3: Greenland is a sovereign member of the United Nations independent of Denmark.\nWhich statements are TRUE?",
+    "options": [
+      "Statements 1 and 2 only",
+      "Statements 2 and 3 only",
+      "Statements 1 and 3 only",
+      "All Statements 1, 2, and 3"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "Statement 3 is false because Greenland is an autonomous territory within the Kingdom of Denmark, not a separate UN member state. Statements 1 and 2 are true."
+  },
+  {
+    "classLevel": 7,
+    "subject": "GK",
+    "chapter": "Chapter 3: World Geography, Continents, Oceans & Famous Global Landmarks",
+    "question": "Why is the Mariana Trench so deep, and what geological process formed it?",
+    "options": [
+      "Subduction: the older, denser Pacific tectonic plate is being forced beneath the smaller Mariana plate into the Earth's mantle",
+      "Two continents collided to form a mountain",
+      "A giant meteor impacted the Pacific Ocean",
+      "An underground nuclear explosion"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "Convergent tectonic plate subduction forces heavy oceanic crust into the upper asthenosphere, carving deep bathymetric trenches."
+  },
+  {
+    "classLevel": 7,
+    "subject": "GK",
+    "chapter": "Chapter 3: World Geography, Continents, Oceans & Famous Global Landmarks",
+    "question": "What is the 'Great Rift Valley' of East Africa stretching over 6,000 km from the Red Sea to Mozambique?",
+    "options": [
+      "A divergent geological rift system where the African tectonic plate is actively splitting into two new tectonic plates (Somali and Nubian plates)",
+      "A human-made canal for shipping",
+      "A dried-up ancient riverbed",
+      "A crater formed by a volcanic explosion"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "The East African Rift is an active intra-continental divergent plate boundary driving continental breakup."
+  },
+  {
+    "classLevel": 7,
+    "subject": "GK",
+    "chapter": "Chapter 3: World Geography, Continents, Oceans & Famous Global Landmarks",
+    "question": "Consider four capital cities located along famous global rivers:\n1. London (River Thames)\n2. Paris (River Seine)\n3. Cairo (River Nile)\n4. Baghdad (River Tigris)\nWhat common historical geographical principle explains why all four great capitals were founded along riverbanks?",
+    "options": [
+      "Rivers provided perennial freshwater, fertile alluvial soil, critical inland navigation, and vital trade connectivity for ancient urban civilizations",
+      "Because kings liked swimming competitions",
+      "Because bridges could only be built in cities",
+      "Because stone was only found underwater"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "Riparian urban geography: fluvial corridors provided hydrological security, agrarian surplus, and commercial arterial logistics."
+  },
+  {
+    "classLevel": 7,
+    "subject": "GK",
+    "chapter": "Chapter 3: World Geography, Continents, Oceans & Famous Global Landmarks",
+    "question": "What is the scientific term for an archipelago of coral islands enclosing a central shallow seawater lagoon?",
+    "options": [
+      "Atoll (e.g. Lakshadweep and Maldives)",
+      "Peninsula",
+      "Fjord",
+      "Delta"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "An atoll is a ring-shaped coral reef rim surrounding a lagoon, formed over subsiding volcanic islands (Darwin's theory)."
+  },
+  {
+    "classLevel": 7,
+    "subject": "GK",
+    "chapter": "Chapter 3: World Geography, Continents, Oceans & Famous Global Landmarks",
+    "question": "What is the unique geographical status of the city of ISTANBUL in Turkey?",
+    "options": [
+      "It is the ONLY transcontinental metropolis in the world located simultaneously on TWO continents (Europe and Asia), separated by the Bosphorus Strait",
+      "It is located under the ocean",
+      "It has no land roads",
+      "It is governed by the United Nations directly"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "Istanbul spans the Bosphorus Strait, straddling European Thrace and Asian Anatolia."
+  },
+  {
+    "classLevel": 7,
+    "subject": "GK",
+    "chapter": "Chapter 3: World Geography, Continents, Oceans & Famous Global Landmarks",
+    "question": "What is the 'Sargasso Sea' in the North Atlantic Ocean?",
+    "options": [
+      "The ONLY sea in the world that has NO land boundaries/shores, bounded entirely by four ocean currents forming the North Atlantic Gyre",
+      "A sea of fresh milk",
+      "An underground sea inside a cavern",
+      "A frozen sea in the Sahara Desert"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "The Sargasso Sea is defined exclusively by ocean current gyres (Gulf Stream, North Atlantic Current, Canary Current, North Equatorial Current)."
+  },
+  {
+    "classLevel": 7,
+    "subject": "GK",
+    "chapter": "Chapter 3: World Geography, Continents, Oceans & Famous Global Landmarks",
+    "question": "What profound planetary perspective is revealed through the comprehensive study of World Geography and Landmarks?",
+    "options": [
+      "Earth is a dynamic, interconnected planetary biosphere where physical plate tectonics, atmospheric currents, oceanic gyres, and cultural human civilizations form an interdependent global tapestry",
+      "Continents are fixed and never change over billions of years",
+      "All countries have identical climates and landforms",
+      "Human civilization developed independently of geographic rivers and resources"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "World Geography unifies geomorphic planetary dynamics with anthropogenic cultural adaptations across diverse biomes."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Social Science",
+    "chapter": "Chapter 3: Delhi: 12th to 15th Century",
+    "question": "Under the rule of which Rajput dynasty did the city of Delhi first become the capital of a kingdom in the 12th century?",
+    "options": [
+      "Tomara Rajputs (later defeated by Chauhans / Chahamanas of Ajmer)",
+      "Cholas",
+      "Guptas",
+      "Mauryas"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "Delhi first became a capital under the Tomara Rajputs, who were subsequently defeated by the Chauhans of Ajmer."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Social Science",
+    "chapter": "Chapter 3: Delhi: 12th to 15th Century",
+    "question": "What were the commercial coins minted in Delhi that had a wide circulation across medieval trade routes called?",
+    "options": [
+      "Dehliwal",
+      "Dinar",
+      "Tanka",
+      "Rupee"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "Coins minted in medieval Delhi were widely recognized as 'Dehliwal'."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Social Science",
+    "chapter": "Chapter 3: Delhi: 12th to 15th Century",
+    "question": "What is the historical term for Persian histories/chronicles written by literate secretaries, administrators, and poets in the Delhi Sultanate?",
+    "options": [
+      "Tarikh (singular) / Tawarikh (plural)",
+      "Prashasti",
+      "Vedas",
+      "Upanishad"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "Tarikh/Tawarikh were court histories written in Persian, the official administrative language of the Delhi Sultanate."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Social Science",
+    "chapter": "Chapter 3: Delhi: 12th to 15th Century",
+    "question": "Who was the FIRST and ONLY female Muslim monarch to sit on the throne of the Delhi Sultanate (daughter of Sultan Iltutmish) in 1236 CE?",
+    "options": [
+      "Raziyya Sultan (Sultana Raziyya)",
+      "Nur Jahan",
+      "Chand Bibi",
+      "Mumtaz Mahal"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "Raziyya Sultan ruled from 1236 to 1240 CE as recognized by chronicler Minhaj-i Siraj."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Social Science",
+    "chapter": "Chapter 3: Delhi: 12th to 15th Century",
+    "question": "What was a fortified settlement with soldiers stationed permanently for military defense in the Delhi Sultanate called?",
+    "options": [
+      "Garrison Town",
+      "Hinterland",
+      "Iqta",
+      "Bandagan"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "A garrison town was a heavily fortified urban military base garrisoned with soldiers."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Social Science",
+    "chapter": "Chapter 3: Delhi: 12th to 15th Century",
+    "question": "What was the land adjacent to a city or port that supplied it with essential goods, agricultural produce, and services called?",
+    "options": [
+      "Hinterland",
+      "Garrison Town",
+      "Iqta",
+      "Kharaj"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "The hinterland is the surrounding rural territory supplying resources, grain, and labor to an urban center."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Social Science",
+    "chapter": "Chapter 3: Delhi: 12th to 15th Century",
+    "question": "What were the special military slaves purchased for military service and trained with great care by early Delhi Sultans (especially Iltutmish) called in Persian?",
+    "options": [
+      "Bandagan",
+      "Muqti",
+      "Iqtadar",
+      "Ulama"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "'Bandagan' (plural of banda) were elite military slaves trusted by Sultans over hereditary aristocrats."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Social Science",
+    "chapter": "Chapter 3: Delhi: 12th to 15th Century",
+    "question": "What was a territorial revenue assignment (land territory) granted to military commanders by the Sultans called?",
+    "options": [
+      "Iqta",
+      "Kharaj",
+      "Jizya",
+      "Zakat"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "An 'Iqta' was a provincial revenue tract assigned to commanders (Iqtadars/Muqtis)."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Social Science",
+    "chapter": "Chapter 3: Delhi: 12th to 15th Century",
+    "question": "What were the military governors or holders of an Iqta land assignment called?",
+    "options": [
+      "Iqtadar or Muqti",
+      "Bandagan",
+      "Samanta",
+      "Kotwal"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "Iqtadars (or Muqtis) governed Iqtas, maintaining soldiers and collecting territorial revenues."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Social Science",
+    "chapter": "Chapter 3: Delhi: 12th to 15th Century",
+    "question": "What was the agricultural land tax levied on peasant produce, accounting for about 50% of the peasant's crop yield under Alauddin Khalji?",
+    "options": [
+      "Kharaj",
+      "Jizya",
+      "Zakat",
+      "Chauth"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "Kharaj was the standard 50% agricultural crop tax levied directly on cultivators."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Social Science",
+    "chapter": "Chapter 3: Delhi: 12th to 15th Century",
+    "question": "Who was the notorious Central Asian Mongol conqueror whose forces invaded Transoxiana in 1219 and repeatedly attacked the Delhi Sultanate?",
+    "options": [
+      "Genghis Khan (Chingiz Khan)",
+      "Timur",
+      "Babur",
+      "Hulagu Khan"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "Genghis Khan unified the Mongols, invading Khwarizm and pressing against the northwest frontiers of India."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Social Science",
+    "chapter": "Chapter 3: Delhi: 12th to 15th Century",
+    "question": "Which Moroccan traveler arrived in India during the 14th-century reign of Sultan Muhammad Tughluq and left an invaluable travelogue (Rihla)?",
+    "options": [
+      "Ibn Battuta",
+      "Marco Polo",
+      "Al-Biruni",
+      "Duarte Barbosa"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "Ibn Battuta from Tangier, Morocco, served as Qazi of Delhi under Muhammad Tughluq and documented Sultanate governance."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Social Science",
+    "chapter": "Chapter 3: Delhi: 12th to 15th Century",
+    "question": "What was the 'Circle of Justice' (Fakhr-i Mudabbir, 13th century) that explained the interdependent relationship between the King, soldiers, peasants, and state revenue?",
+    "options": [
+      "A king cannot survive without soldiers -> Soldiers cannot live without salaries -> Salaries come from revenue collected from peasants -> Peasants can pay revenue only when they are prosperous and happy -> This happens when the king promotes justice and honest governance",
+      "A circle drawn on the ground for duels",
+      "A round table where judges sit",
+      "A magic circle protecting Delhi forts"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "The Circle of Justice (Daira-i Adalat) linked monarchical survival directly to peasant prosperity and judicial equity."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Social Science",
+    "chapter": "Chapter 3: Delhi: 12th to 15th Century",
+    "question": "Why did the 13th-century chronicler Minhaj-i Siraj acknowledge that Raziyya was more able and qualified than all her brothers, yet felt uncomfortable with her rule?",
+    "options": [
+      "He believed that female sovereignty violated the patriarchal ideal social order ordained by God, where women were supposed to be subordinate to men",
+      "Because Raziyya lost all wars",
+      "Because Raziyya could not read Persian",
+      "Because Raziyya gave all kingdom wealth to foreign traders"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "Minhaj articulated medieval patriarchal ideology: viewing female monarchs as disrupting divine gender hierarchies."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Social Science",
+    "chapter": "Chapter 3: Delhi: 12th to 15th Century",
+    "question": "Why did early Delhi Sultans (like Iltutmish) prefer to appoint their purchased military slaves (Bandagan) to high governorships rather than traditional noble aristocrats?",
+    "options": [
+      "Slaves had no family lineage or hereditary local loyalties; they were entirely dependent on the Sultan for their livelihood and were exceptionally loyal and obedient",
+      "Because slaves cost no money",
+      "Because noble aristocrats could not fight wars",
+      "Because slaves knew magic"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "Royal patronage of Bandagan secured a dedicated praetorian corps personally beholden to the Sultan alone."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Social Science",
+    "chapter": "Chapter 3: Delhi: 12th to 15th Century",
+    "question": "How did Alauddin Khalji maintain strict control over his Muqtis (Iqtadars) to prevent corruption and rebellion?",
+    "options": [
+      "Their offices were made non-hereditary, Iqtas were assigned for short periods before frequent transfers, and state accountants were appointed to audit revenues and verify troop numbers",
+      "He let Muqtis keep all taxes without auditing",
+      "He abolished all soldiers",
+      "He gave Muqtis absolute permanent ownership of lands"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "Alauddin enforced non-hereditary tenure, frequent transfers, and rigorous auditing of Muqti revenue and troop contingents."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Social Science",
+    "chapter": "Chapter 3: Delhi: 12th to 15th Century",
+    "question": "What market and price control measures did Alauddin Khalji implement in Delhi to maintain a large standing army at sustainable costs against Mongol invasions?",
+    "options": [
+      "He strictly fixed the maximum selling prices of all commodities (grains, cloth, sugar, horses), appointed market inspectors (Shahna-i Mandi), and harshly punished any merchant who cheated or overcharged",
+      "He doubled the price of all foods",
+      "He banned all private markets completely",
+      "He printed unlimited paper money"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "Alauddin's economic reforms: price caps, state grain silos, and market superintendents (Shahna-i Mandi) to sustain military mobilization."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Social Science",
+    "chapter": "Chapter 3: Delhi: 12th to 15th Century",
+    "question": "What was Sultan Muhammad bin Tughluq's infamous 'Token Currency' experiment and why did it fail disastrously?",
+    "options": [
+      "He issued cheap copper and brass coins having the same face value as silver Tankas; people easily forged the simple copper coins at home, paid taxes in fake tokens, and hoarded genuine gold and silver coins",
+      "Because copper turned into water",
+      "Because people threw coins into the river",
+      "Because the coins had no numbers written on them"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "Unminted token brass/copper tokens were easily counterfeited by artisans, bankrupting the imperial exchequer (Gresham's Law)."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Social Science",
+    "chapter": "Chapter 3: Delhi: 12th to 15th Century",
+    "question": "What was Muhammad bin Tughluq's controversial decision to shift the imperial capital from Delhi to DAULATABAD (Devagiri in Deccan)?",
+    "options": [
+      "He wanted to govern southern peninsular India and defend against northern Mongol attacks more effectively, but forced the entire population of Delhi to march 1,500 km south, causing immense suffering",
+      "Because Delhi ran out of drinking water",
+      "Because Daulatabad had gold houses",
+      "Because he wanted to move to Europe"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "The forced relocation to Daulatabad (1327 CE) caused widespread fatalities during the transit and was subsequently abandoned."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Social Science",
+    "chapter": "Chapter 3: Delhi: 12th to 15th Century",
+    "question": "In mosque architecture, what is the orientation towards Mecca that Indian Muslims face during prayer (towards the West) called?",
+    "options": [
+      "Qibla",
+      "Mihrab",
+      "Minaret",
+      "Khutba"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "Qibla is the sacred directional orientation toward the Kaaba in Mecca (due West from the Indian subcontinent)."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Social Science",
+    "chapter": "Chapter 3: Delhi: 12th to 15th Century",
+    "question": "What was the Friday congregational sermon delivered by the Imam during Namaz called?",
+    "options": [
+      "Khutba",
+      "Qibla",
+      "Mihrab",
+      "Iqta"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "The Khutba is the formal liturgical address and sermon delivered during Friday Juma congregational prayers."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Social Science",
+    "chapter": "Chapter 3: Delhi: 12th to 15th Century",
+    "question": "What were the five distinct ruling dynasties of the Delhi Sultanate in chronological order (1206 to 1526 CE)?",
+    "options": [
+      "Early Turkish / Mamluk Slave Dynasty -> Khalji Dynasty -> Tughluq Dynasty -> Sayyid Dynasty -> Lodi Dynasty",
+      "Mughals -> Marathas -> British -> Cholas -> Guptas",
+      "Khalji -> Slave -> Lodi -> Sayyid -> Tughluq",
+      "Rajputs -> Cholas -> Mauryas -> Palas -> Lodis"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "Chronological sequence: Mamluks (1206–1290) → Khaljis (1290–1320) → Tughluqs (1320–1414) → Sayyids (1414–1451) → Lodis (1451–1526)."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Social Science",
+    "chapter": "Chapter 3: Delhi: 12th to 15th Century",
+    "question": "Which ambitious Afghan ruler defeated Mughal Emperor Humayun in 1540 and established the Sur Empire, creating an administrative model later adopted by Emperor Akbar?",
+    "options": [
+      "Sher Shah Sur (Sher Shah Suri)",
+      "Ibrahim Lodi",
+      "Bahlul Lodi",
+      "Babur"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "Sher Shah Suri (r. 1540–1545 CE) standardized silver Rupiya currency, built the Grand Trunk Road, and designed administrative revenue systems."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Social Science",
+    "chapter": "Chapter 3: Delhi: 12th to 15th Century",
+    "question": "What was the massive congregational mosque built by the Delhi Sultans in their first city (Dehli-i Kuhna) called?",
+    "options": [
+      "Quwwat al-Islam Mosque and Qutb Minar complex",
+      "Jama Masjid of Shah Jahan",
+      "Moti Masjid",
+      "Taj Mahal"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "Quwwat al-Islam mosque and Qutb Minar were initiated by Qutbuddin Aibak and expanded by Iltutmish and Alauddin Khalji."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Social Science",
+    "chapter": "Chapter 3: Delhi: 12th to 15th Century",
+    "question": "Who was the military general under Alauddin Khalji who led sensational military campaigns deep into South India (Warangal, Dwarasamudra, Madurai)?",
+    "options": [
+      "Malik Kafur (Hazar Dinari)",
+      "Ulugh Khan",
+      "Zafar Khan",
+      "Minhaj-i Siraj"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "Malik Kafur commanded Alauddin's southern military expeditions between 1309 and 1311 CE, extracting vast tribute in elephants and gold."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Social Science",
+    "chapter": "Chapter 3: Delhi: 12th to 15th Century",
+    "question": "What new military garrison city was constructed by Alauddin Khalji for his soldiers in Delhi?",
+    "options": [
+      "Siri Fort",
+      "Daulatabad",
+      "Jahanpanah",
+      "Tughluqabad"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "Siri was established by Alauddin Khalji c. 1303 as a heavily fortified military garrison town in Delhi."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Social Science",
+    "chapter": "Chapter 3: Delhi: 12th to 15th Century",
+    "question": "What was the primary language of administration and official court record-keeping throughout the Delhi Sultanate?",
+    "options": [
+      "Persian (Farsi)",
+      "Arabic",
+      "Sanskrit",
+      "Urdu"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "Persian was the elite court language and bureaucratic administrative medium of the Delhi Sultanate."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Social Science",
+    "chapter": "Chapter 3: Delhi: 12th to 15th Century",
+    "question": "Why did author Ziauddin Barani criticize Sultan Muhammad Tughluq for appointing wine distillers, barbers, cooks, and gardeners to high administrative posts?",
+    "options": [
+      "Barani reflected aristocratic elite bias and lamented the loss of aristocratic monopoly over state power to low-born individuals",
+      "Because the appointees could not cook well",
+      "Because the appointees were foreigners from England",
+      "Because they refused to accept salaries"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "Barani's conservative aristocratic perspective decried merit-based or non-noble appointments as a decline of imperial judgment."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Social Science",
+    "chapter": "Chapter 3: Delhi: 12th to 15th Century",
+    "question": "Read the statements:\nAssertion (A): Control of garrison towns in distant Bengal and Sindh from Delhi was exceptionally fragile and prone to frequent rebellion during the 13th century.\nReason (R): Communication routes were frequently severed by inclement monsoon weather, immense overland distances, and persistent rebellion by local governors and Mongol raids across the northwest frontier.\nChoose the correct option:",
+    "options": [
+      "Both (A) and (R) are true, and (R) is the correct explanation of (A).",
+      "Both (A) and (R) are true, but (R) is NOT the correct explanation of (A).",
+      "(A) is true, but (R) is false.",
+      "(A) is false, but (R) is true."
+    ],
+    "correctAnswer": 0,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "Pre-modern logistics and regional distances severely compromised the central authority of Delhi over outlying frontier garrisons."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Social Science",
+    "chapter": "Chapter 3: Delhi: 12th to 15th Century",
+    "question": "Spot the IMPOSTER in the comparative administrative strategies between Alauddin Khalji and Muhammad bin Tughluq:\nGroup:\n1. Alauddin Khalji built a new garrison town named Siri for his soldiers.\n2. Muhammad bin Tughluq emptied the oldest city of Delhi (Dehli-i Kuhna) and moved residents to Daulatabad.\n3. Alauddin Khalji paid soldiers in cash and strictly controlled market prices.\n4. Muhammad bin Tughluq used pure diamond coins as common currency.",
+    "options": [
+      "Statement 1",
+      "Statement 2",
+      "Statement 3",
+      "Statement 4 (Muhammad Tughluq used cheap TOKEN COPPER/BRASS coins, NOT diamond coins)"
+    ],
+    "correctAnswer": 3,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "Statement 4 is an absurdity: Muhammad Tughluq experimented with base metal (bronze/copper) token currency, not diamond coins."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Social Science",
+    "chapter": "Chapter 3: Delhi: 12th to 15th Century",
+    "question": "Analyze the fiscal mechanics of the 'Iqta System':\nHow did the Sultanate ensure that Muqtis did not oppress peasants or hoard surplus state funds?",
+    "options": [
+      "Muqtis were allowed to collect ONLY the taxes assessed by the state and maintain strictly prescribed contingents of soldiers; imperial accountants (Amils) audited tax records annually",
+      "Muqtis could take 100% of all village property",
+      "Peasants were forbidden from farming",
+      "No records were maintained"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "The state separated fiscal assessment from tax collection, deploying imperial accountants to check Muqti ledgers and muster rolls (Dagh and Chehra)."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Social Science",
+    "chapter": "Chapter 3: Delhi: 12th to 15th Century",
+    "question": "Match Column I (Sultanate Dynasties) with Column II (Prominent Rulers / Timeline):\n(a) Mamluk / Early Turkish (1206-1290) -> (i) Qutbuddin Aibak, Iltutmish, Raziyya, Balban\n(b) Khalji Dynasty (1290-1320)         -> (ii) Jalaluddin and Alauddin Khalji\n(c) Tughluq Dynasty (1320-1414)        -> (iii) Ghiyasuddin, Muhammad bin Tughluq, Firuz Shah\n(d) Lodi Dynasty (1451-1526)           -> (iv) Bahlul, Sikandar, and Ibrahim Lodi",
+    "options": [
+      "a-(i), b-(ii), c-(iii), d-(iv)",
+      "a-(ii), b-(i), c-(iv), d-(iii)",
+      "a-(iv), b-(iii), c-(ii), d-(i)",
+      "a-(iii), b-(iv), c-(i), d-(ii)"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "Exact chronological matching of the ruling dynasties and foundational sultans of Delhi."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Social Science",
+    "chapter": "Chapter 3: Delhi: 12th to 15th Century",
+    "question": "Read the statements regarding military expansion of the Delhi Sultanate:\nStatement 1: 'Internal Frontier' campaigns aimed at consolidating the hinterlands of the garrison towns by clearing forests in the Ganga-Yamuna Doab and settling peasant agriculture.\nStatement 2: 'External Frontier' campaigns targeted military raids into Southern India to capture war booty, elephants, horses, and slaves.\nStatement 3: The Delhi Sultans conquered and annexed the entire continent of Europe.\nWhich statements are TRUE?",
+    "options": [
+      "Statements 1 and 2 only",
+      "Statements 2 and 3 only",
+      "Statements 1 and 3 only",
+      "All Statements 1, 2, and 3"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "Statement 3 is historically false. Statements 1 and 2 represent the classic dual-axis military expansion model of the Sultanate."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Social Science",
+    "chapter": "Chapter 3: Delhi: 12th to 15th Century",
+    "question": "Why was the Battle of Panipat (1526 CE) a watershed turning point in Indian history?",
+    "options": [
+      "Babur (Mughal ruler of Kabul) defeated Ibrahim Lodi (last Sultan of Delhi), ending the 320-year Delhi Sultanate and founding the Mughal Empire",
+      "It established British rule in India",
+      "It ended all wars in Asia forever",
+      "It resulted in the partition of India"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "First Battle of Panipat (21 April 1526): Babur's matchlocks and field artillery annihilated Ibrahim Lodi's forces, inaugurating the Mughal era."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Social Science",
+    "chapter": "Chapter 3: Delhi: 12th to 15th Century",
+    "question": "How did Queen Rudramadevi (1262–1289 CE) of the Kakatiya dynasty of Warangal navigate patriarchal prejudices compared to Raziyya Sultan?",
+    "options": [
+      "She changed her name on her royal inscriptions to pretend she was a man, adopting male persona to avoid social resistance to female kingship",
+      "She fled to another country",
+      "She surrendered her throne to the Delhi Sultan",
+      "She banned all men from her kingdom"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "Rudramadevi adopted the masculine title 'Rudradeva Maharaja' on epigraphs to bypass patriarchal prejudices."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Social Science",
+    "chapter": "Chapter 3: Delhi: 12th to 15th Century",
+    "question": "What was the significance of 'Begumpuri Mosque' built in the reign of Muhammad Tughluq?",
+    "options": [
+      "It was the main congregational mosque of Jahanpanah, the 'Sanctuary of the World', Sultan Muhammad Tughluq's new capital in Delhi",
+      "It was built entirely of wood",
+      "It was a Buddhist monastery",
+      "It was built by the British"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "Begumpuri Mosque was the monumental central congregational Jami mosque of Jahanpanah, Tughluq's fourth medieval city of Delhi."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Social Science",
+    "chapter": "Chapter 3: Delhi: 12th to 15th Century",
+    "question": "Consider four key administrative elements introduced under Alauddin Khalji:\n1. Direct state assessment of land revenue\n2. 'Dagh' (branding of horses) and 'Chehra' (descriptive roll of soldiers)\n3. Shahna-i Mandi (market superintendents)\n4. Kharaj fixed at 50% of produce\nWhat was the common primary strategic objective behind all four measures?",
+    "options": [
+      "To maximize imperial revenue extraction and maintain a massive, highly efficient, standing military machine capable of crushing Mongol invasions",
+      "To encourage foreign merchants to take over the empire",
+      "To eliminate all agriculture",
+      "To prepare for a pilgrimage to Mecca"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "All four reforms formed an integrated fiscal-military apparatus designed to sustain standing armies against continuous Mongol invasions."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Social Science",
+    "chapter": "Chapter 3: Delhi: 12th to 15th Century",
+    "question": "What was the social background of the authors of Tawarikh (Persian histories)?",
+    "options": [
+      "Learned urban men (secretaries, administrators, poets, courtiers) who lived in cities (mainly Delhi) and hardly ever in rural villages, writing histories to earn rich rewards from Sultans",
+      "Poor peasant farmers in remote villages",
+      "Tribal forest nomads",
+      "Foreign sailors on the ocean"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "Tawarikh chroniclers were urban court literati dependent on royal patronage, articulating aristocratic perspectives."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Social Science",
+    "chapter": "Chapter 3: Delhi: 12th to 15th Century",
+    "question": "Why did Ibn Battuta describe the fortress-like bamboo groves in India as impenetrable fortifications for local chieftains?",
+    "options": [
+      "Giant interlocking bamboo clumps were dense, tough, and fire-resistant; chieftains lived securely inside them with their cattle and crops, cut off from cavalry attacks",
+      "Because bamboos shoot poisonous arrows",
+      "Because bamboos were made of iron",
+      "Because wild tigers guarded the bamboos"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "Ibn Battuta documented how dense indigenous bamboo thickets formed natural defensive bastions impenetrable to imperial cavalry."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Social Science",
+    "chapter": "Chapter 3: Delhi: 12th to 15th Century",
+    "question": "What master historical transformation is traced in Chapter 3 of NCERT Class 7 History regarding Delhi?",
+    "options": [
+      "The transformation of Delhi from a minor regional Rajput trade post into the monumental imperial capital of a pan-subcontinental sultanate, creating new models of administrative centralization, fiscal taxation, and Indo-Islamic architectural grandeur",
+      "The complete abandonment of Delhi as a ruined ghost town",
+      "The conquest of Delhi by Roman emperors",
+      "The conversion of Delhi into a farming village"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "Chapter 3 chronicles the political, architectural, and fiscal institutional evolution of Delhi into an imperial metropolis."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Hindi Grammar",
+    "chapter": "Chapter 3: शब्द विचार",
+    "question": "एक या एक से अधिक वर्णों के मेल से बने सार्थक एवं स्वतंत्र ध्वनि-समूह को व्याकरण में क्या कहते हैं?",
+    "options": [
+      "शब्द (Word)",
+      "वर्ण",
+      "वाक्य",
+      "पद"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "वर्णों के सार्थक, व्यवस्थित और स्वतंत्र समूह को 'शब्द' कहते हैं (जैसे: कमल, पुस्तक)।"
+  },
+  {
+    "classLevel": 7,
+    "subject": "Hindi Grammar",
+    "chapter": "Chapter 3: शब्द विचार",
+    "question": "हिंदी व्याकरण में शब्दों का वर्गीकरण मुख्य रूप से कितने आधारों पर किया जाता है?",
+    "options": [
+      "चार आधारों पर (1. उत्पत्ति / स्रोत के आधार पर, 2. रचना / बनावट के आधार पर, 3. अर्थ के आधार पर, 4. प्रयोग / विकार के आधार पर)",
+      "दो आधारों पर",
+      "छह आधारों पर",
+      "तीन आधारों पर"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "शब्दों का वर्गीकरण 4 आधारों पर होता है: उत्पत्ति (स्रोत), व्युत्पत्ति (रचना), अर्थ तथा रूप-परिवर्तन (प्रयोग)।"
+  },
+  {
+    "classLevel": 7,
+    "subject": "Hindi Grammar",
+    "chapter": "Chapter 3: शब्द विचार",
+    "question": "संस्कृत भाषा के वे मूल शब्द जो बिना किसी परिवर्तन के अपने मूल रूप में हिंदी में ज्यों के त्यों प्रयुक्त होते हैं, उन्हें क्या कहते हैं?",
+    "options": [
+      "तत्सम शब्द (जैसे: अग्नि, सूर्य, दुग्ध, रात्रि, मयूर)",
+      "तद्भव शब्द",
+      "देशज शब्द",
+      "विदेशी शब्द"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "तत् + सम (उसके समान): संस्कृत के अविकृत मूल शब्द 'तत्सम' कहलाते हैं।"
+  },
+  {
+    "classLevel": 7,
+    "subject": "Hindi Grammar",
+    "chapter": "Chapter 3: शब्द विचार",
+    "question": "संस्कृत भाषा के वे शब्द जो समय के साथ प्राकृत और अपभ्रंश से रूप बदलकर (परिवर्तित होकर) हिंदी में आए हैं, उन्हें क्या कहते हैं?",
+    "options": [
+      "तद्भव शब्द (जैसे: आग, सूरज, दूध, रात, मोर)",
+      "तत्सम शब्द",
+      "रूढ़ शब्द",
+      "योगरूढ़ शब्द"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "तत् + भव (उससे उत्पन्न): संस्कृत से रूप परिवर्तित होकर आए शब्द 'तद्भव' कहलाते हैं।"
+  },
+  {
+    "classLevel": 7,
+    "subject": "Hindi Grammar",
+    "chapter": "Chapter 3: शब्द विचार",
+    "question": "वे शब्द जो स्थानीय बोलियों और जनसाधारण की आवश्यकतानुसार भारत के विभिन्न क्षेत्रीय परिवेश में विकसित हुए हैं, उन्हें क्या कहते हैं?",
+    "options": [
+      "देशज शब्द (जैसे: लोटा, पगड़ी, खिड़की, डिबिया, खटिया)",
+      "विदेशी शब्द",
+      "तत्सम शब्द",
+      "यौगिक शब्द"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "देश में ही जनभाषा के प्रभाव से उत्पन्न देशी शब्द 'देशज' कहलाते हैं।"
+  },
+  {
+    "classLevel": 7,
+    "subject": "Hindi Grammar",
+    "chapter": "Chapter 3: शब्द विचार",
+    "question": "विदेशी भाषाओं (अंग्रेज़ी, अरबी, फ़ारसी, पुर्तगाली, तुर्की) से संपर्क के कारण हिंदी में आए शब्दों को क्या कहते हैं?",
+    "options": [
+      "विदेशी / आगत शब्द (जैसे: स्कूल, डॉक्टर, किताब, अखबार, साबुन, कैंची)",
+      "तत्सम शब्द",
+      "तद्भव शब्द",
+      "रूढ़ शब्द"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "अन्य विदेशी भाषाओं से हिंदी शब्दकोश में समाहित शब्द 'आगत/विदेशी' कहलाते हैं।"
+  },
+  {
+    "classLevel": 7,
+    "subject": "Hindi Grammar",
+    "chapter": "Chapter 3: शब्द विचार",
+    "question": "रचना (बनावट) के आधार पर शब्द के कितने भेद होते हैं?",
+    "options": [
+      "तीन भेद (1. रूढ़ शब्द, 2. यौगिक शब्द, 3. योगरूढ़ शब्द)",
+      "दो भेद",
+      "चार भेद",
+      "पाँच भेद"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "व्युत्पत्ति/रचना के 3 भेद हैं: रूढ़ (अखंड), यौगिक (संयुक्त) तथा योगरूढ़ (विशिष्ट अर्थ में रूढ़)।"
+  },
+  {
+    "classLevel": 7,
+    "subject": "Hindi Grammar",
+    "chapter": "Chapter 3: शब्द विचार",
+    "question": "वे मूल शब्द जिनके सार्थक टुकड़े (खंड) नहीं किए जा सकते और जो किसी विशेष अर्थ में परंपरा से प्रसिद्ध हैं, उन्हें क्या कहते हैं?",
+    "options": [
+      "रूढ़ शब्द (जैसे: घर, जल, हाथी, पेड़, नाक)",
+      "यौगिक शब्द",
+      "योगरूढ़ शब्द",
+      "तत्सम शब्द"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "जिन शब्दों के खंड निरर्थक होते हैं, वे 'रूढ़ शब्द' कहलाते हैं (घ + र का कोई स्वतंत्र अर्थ नहीं)।"
+  },
+  {
+    "classLevel": 7,
+    "subject": "Hindi Grammar",
+    "chapter": "Chapter 3: शब्द विचार",
+    "question": "दो या दो से अधिक सार्थक शब्दों या शब्दांशों के योग से बनने वाले शब्द क्या कहलाते हैं?",
+    "options": [
+      "यौगिक शब्द (जैसे: विद्या + आलय = विद्यालय, देव + दूत = देवदूत)",
+      "रूढ़ शब्द",
+      "योगरूढ़ शब्द",
+      "देशज शब्द"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "सार्थक खंडों के योग से बने नए शब्द 'यौगिक शब्द' कहलाते हैं।"
+  },
+  {
+    "classLevel": 7,
+    "subject": "Hindi Grammar",
+    "chapter": "Chapter 3: शब्द विचार",
+    "question": "वे यौगिक शब्द जो अपने सामान्य अर्थ को छोड़कर किसी विशेष अर्थ (विशिष्ट रूढ़ अर्थ) के लिए प्रसिद्ध हो जाते हैं, उन्हें क्या कहते हैं?",
+    "options": [
+      "योगरूढ़ शब्द (जैसे: पंकज = कीचड़ में जन्मा कमल, दशानन = रावण, लंबोदर = गणेश)",
+      "रूढ़ शब्द",
+      "यौगिक शब्द",
+      "तद्भव शब्द"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "यौगिक होकर भी किसी रूढ़ लाक्षणिक अर्थ को प्रकट करने वाले शब्द 'योगरूढ़' कहलाते हैं।"
+  },
+  {
+    "classLevel": 7,
+    "subject": "Hindi Grammar",
+    "chapter": "Chapter 3: शब्द विचार",
+    "question": "प्रयोग / व्याकरणिक प्रकार्य (विकार) के आधार पर शब्द के मुख्य रूप से दो भेद कौन-से होते हैं?",
+    "options": [
+      "विकारी शब्द (Mutable) और अविकारी शब्द (Immutable / अव्यय)",
+      "तत्सम और तद्भव",
+      "सार्थक और निरर्थक",
+      "रूढ़ और यौगिक"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "व्याकरणिक विकार के 2 भेद हैं: विकारी (संज्ञा, सर्वनाम, विशेषण, क्रिया) और अविकारी/अव्यय।"
+  },
+  {
+    "classLevel": 7,
+    "subject": "Hindi Grammar",
+    "chapter": "Chapter 3: शब्द विचार",
+    "question": "जिन शब्दों का रूप लिंग, वचन, कारक और काल के प्रभाव से बदल जाता है (परिवर्तित होता है), उन्हें क्या कहते हैं?",
+    "options": [
+      "विकारी शब्द (जैसे: लड़का, लड़के, लड़कों ; पढ़ता है, पढ़ती है)",
+      "अविकारी शब्द",
+      "अव्यय",
+      "योगरूढ़"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "लिंग, वचन, कारक के अनुसार रूपांतरित होने वाले शब्द 'विकारी' कहलाते हैं।"
+  },
+  {
+    "classLevel": 7,
+    "subject": "Hindi Grammar",
+    "chapter": "Chapter 3: शब्द विचार",
+    "question": "जिन शब्दों के रूप में लिंग, वचन, कारक या काल के कारण कभी कोई परिवर्तन नहीं होता (सदा एक समान रहते हैं), उन्हें क्या कहते हैं?",
+    "options": [
+      "अविकारी शब्द / अव्यय (जैसे: धीरे-धीरे, और, किंतु, परंतु, अचानक, शाबाश)",
+      "विकारी शब्द",
+      "तत्सम शब्द",
+      "रूढ़ शब्द"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "न व्यय इति अव्यय: जो कभी रूपांतरित न हों, वे 'अविकारी / अव्यय' कहलाते हैं (क्रियाविशेषण, समुच्चयबोधक, संबंधबोधक, विस्मयादिबोधक, निपात)।"
+  },
+  {
+    "classLevel": 7,
+    "subject": "Hindi Grammar",
+    "chapter": "Chapter 3: शब्द विचार",
+    "question": "तत्सम शब्द 'अक्षि' का तद्भव रूप क्या होगा?",
+    "options": [
+      "आँख",
+      "कान",
+      "नाक",
+      "हाथ"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "संस्कृत तत्सम 'अक्षि' का तद्भव रूपांतरण 'आँख' है।"
+  },
+  {
+    "classLevel": 7,
+    "subject": "Hindi Grammar",
+    "chapter": "Chapter 3: शब्द विचार",
+    "question": "तत्सम शब्द 'दुग्ध' का तद्भव रूप क्या होगा?",
+    "options": [
+      "दूध",
+      "दही",
+      "घी",
+      "मक्खन"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "संस्कृत तत्सम 'दुग्ध' का तद्भव रूप 'दूध' है।"
+  },
+  {
+    "classLevel": 7,
+    "subject": "Hindi Grammar",
+    "chapter": "Chapter 3: शब्द विचार",
+    "question": "तत्सम शब्द 'कर्ण' का तद्भव रूप क्या होगा?",
+    "options": [
+      "कान",
+      "नाक",
+      "आँख",
+      "गला"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "संस्कृत तत्सम 'कर्ण' का तद्भव रूप 'कान' है।"
+  },
+  {
+    "classLevel": 7,
+    "subject": "Hindi Grammar",
+    "chapter": "Chapter 3: शब्द विचार",
+    "question": "तत्सम शब्द 'घृत' का तद्भव रूप क्या होगा?",
+    "options": [
+      "घी",
+      "तेल",
+      "दूध",
+      "मलाई"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "संस्कृत तत्सम 'घृत' का तद्भव रूप 'घी' है।"
+  },
+  {
+    "classLevel": 7,
+    "subject": "Hindi Grammar",
+    "chapter": "Chapter 3: शब्द विचार",
+    "question": "दो भिन्न भाषाओं के शब्दों के मेल से बने नवीन शब्द को व्याकरण में क्या कहते हैं?",
+    "options": [
+      "संकर शब्द (Hybrid Words : जैसे - रेलगाड़ी [अंग्रेज़ी+हिंदी], टिकटघर [अंग्रेज़ी+हिंदी], वर्षगाँठ [संस्कृत+हिंदी])",
+      "तत्सम शब्द",
+      "तद्भव शब्द",
+      "रूढ़ शब्द"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "दो भिन्न भाषाई स्रोतों से निर्मित द्वैत-भाषी शब्द 'संकर शब्द' कहलाते हैं।"
+  },
+  {
+    "classLevel": 7,
+    "subject": "Hindi Grammar",
+    "chapter": "Chapter 3: शब्द विचार",
+    "question": "विकारी शब्द के अंतर्गत कौन-से चार व्याकरणिक भेद आते हैं?",
+    "options": [
+      "संज्ञा (Noun), सर्वनाम (Pronoun), विशेषण (Adjective), क्रिया (Verb)",
+      "क्रियाविशेषण, समुच्चयबोधक, संबंधबोधक, विस्मयादिबोधक",
+      "तत्सम, तद्भव, देशज, विदेशी",
+      "रूढ़, यौगिक, योगरूढ़, संकर"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "चारों विकारी कोटियाँ हैं: संज्ञा, सर्वनाम, विशेषण और क्रिया।"
+  },
+  {
+    "classLevel": 7,
+    "subject": "Hindi Grammar",
+    "chapter": "Chapter 3: शब्द विचार",
+    "question": "अविकारी (अव्यय) शब्द के अंतर्गत कौन-से चार मुख्य भेद आते हैं?",
+    "options": [
+      "क्रियाविशेषण (Adverb), संबंधबोधक (Preposition), समुच्चयबोधक (Conjunction), विस्मयादिबोधक (Interjection)",
+      "संज्ञा, सर्वनाम, विशेषण, क्रिया",
+      "स्वर, व्यंजन, अयोगवाह, विसर्ग",
+      "पर्यायवाची, विलोम, अनेकार्थी, समरूपी"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "अव्यय के 4 प्रमुख भेद: क्रियाविशेषण, संबंधबोधक, समुच्चयबोधक, विस्मयादिबोधक (तथा निपात)।"
+  },
+  {
+    "classLevel": 7,
+    "subject": "Hindi Grammar",
+    "chapter": "Chapter 3: शब्द विचार",
+    "question": "अर्थ के आधार पर जिन शब्दों का एक निश्चित अर्थ निकलता है, उन्हें 'सार्थक' कहते हैं ; जबकि जिनका कोई स्वतंत्र अर्थ नहीं होता (जैसे: पानी-वानी, चाय-वाय, रोटी-वोटी में 'वानी, वाय, वोटी') उन्हें क्या कहते हैं?",
+    "options": [
+      "निरर्थक शब्द",
+      "सार्थक शब्द",
+      "रूढ़ शब्द",
+      "तत्सम शब्द"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "जिन ध्वनियों का कोई स्वतंत्र शब्दकोशीय अर्थ नहीं होता, वे बोलचाल के 'निरर्थक शब्द' कहलाते हैं।"
+  },
+  {
+    "classLevel": 7,
+    "subject": "Hindi Grammar",
+    "chapter": "Chapter 3: शब्द विचार",
+    "question": "समान अर्थ प्रकट करने वाले भिन्न-भिन्न शब्दों (जैसे: सूर्य = रवि, भानु, दिनकर, भास्कर) को क्या कहते हैं?",
+    "options": [
+      "पर्यायवाची / समानार्थी शब्द (Synonyms)",
+      "विलोम शब्द",
+      "अनेकार्थी शब्द",
+      "समरूपी भिन्नार्थक शब्द"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "समान अर्थ वाले पर्यायवाची (समानार्थी) शब्द कहलाते हैं।"
+  },
+  {
+    "classLevel": 7,
+    "subject": "Hindi Grammar",
+    "chapter": "Chapter 3: शब्द विचार",
+    "question": "परस्पर विपरीत (उल्टा) अर्थ प्रकट करने वाले शब्दों (जैसे: सत्य - असत्य, अमृत - विष, अनुराग - विराग) को क्या कहते हैं?",
+    "options": [
+      "विलोम / विपरीतार्थक शब्द (Antonyms)",
+      "पर्यायवाची",
+      "अनेकार्थी",
+      "संकर शब्द"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "विपरीत भाव/अर्थ देने वाले शब्द 'विलोम' कहलाते हैं।"
+  },
+  {
+    "classLevel": 7,
+    "subject": "Hindi Grammar",
+    "chapter": "Chapter 3: शब्द विचार",
+    "question": "जिन शब्दों के एक से अधिक अर्थ होते हैं (जैसे: 'कर' = हाथ, टैक्स, किरण, सूंड), उन्हें क्या कहते हैं?",
+    "options": [
+      "अनेकार्थी शब्द (Polysemous Words)",
+      "एकार्थी शब्द",
+      "विलोम शब्द",
+      "रूढ़ शब्द"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "प्रसंगानुसार भिन्न-भिन्न अर्थ देने वाले शब्द 'अनेकार्थी शब्द' कहलाते हैं।"
+  },
+  {
+    "classLevel": 7,
+    "subject": "Hindi Grammar",
+    "chapter": "Chapter 3: शब्द विचार",
+    "question": "जो शब्द सुनने और पढ़ने में लगभग एक समान लगते हैं परन्तु उनके अर्थ में भारी अंतर होता है (जैसे: 'अनल' = आग और 'अनिल' = वायु), उन्हें क्या कहते हैं?",
+    "options": [
+      "श्रुतिसम भिन्नार्थक / समरूपी भिन्नार्थक शब्द (Homophones)",
+      "पर्यायवाची",
+      "विलोम",
+      "अनेकार्थी"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "समान ध्वन्यात्मक आभास वाले भिन्न अर्थी शब्द 'श्रुतिसम भिन्नार्थक' कहलाते हैं।"
+  },
+  {
+    "classLevel": 7,
+    "subject": "Hindi Grammar",
+    "chapter": "Chapter 3: शब्द विचार",
+    "question": "'दशानन' (दस आननों वाला) शब्द किस वर्ग का शब्द है?",
+    "options": [
+      "योगरूढ़ शब्द (क्योंकि इसका विशेष रूढ़ अर्थ 'रावण' के लिए निश्चित हो चुका है)",
+      "रूढ़ शब्द",
+      "केवल यौगिक शब्द",
+      "तद्भव शब्द"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "दश + आनन यौगिक होकर रावण के लिए विशेष अर्थ में निश्चित होने से 'योगरूढ़' है।"
+  },
+  {
+    "classLevel": 7,
+    "subject": "Hindi Grammar",
+    "chapter": "Chapter 3: शब्द विचार",
+    "question": "पुर्तगाली भाषा से हिंदी में आए शब्दों का सही युग्म कौन-सा है?",
+    "options": [
+      "आलू, बाल्टी, साबुन, तोलिया, कमरा",
+      "स्कूल, डॉक्टर",
+      "किताब, अखबार",
+      "कैंची, तोप"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "पुर्तगाली व्यापारियों से हिंदी में आए शब्द: आलू, बाल्टी, साबुन, तौलिया, चाबी, आलमारी, गमला।"
+  },
+  {
+    "classLevel": 7,
+    "subject": "Hindi Grammar",
+    "chapter": "Chapter 3: शब्द विचार",
+    "question": "तुर्की भाषा से हिंदी में आए प्रमुख शब्दों का सही समूह कौन-सा है?",
+    "options": [
+      "कैंची, तोप, बारूद, बेगम, कुली",
+      "चाय, लीची",
+      "स्टेशन, रेल",
+      "अदालत, वकील"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "तुर्की मूल के शब्द: कैंची, तोप, बारूद, बेगम, तलाश, चाकू, बहादुर।"
+  },
+  {
+    "classLevel": 7,
+    "subject": "Hindi Grammar",
+    "chapter": "Chapter 3: शब्द विचार",
+    "question": "कथन और कारण को ध्यानपूर्वक पढ़ें:\nकथन (A): 'शब्द' और 'पद' में तात्विक अंतर होता है — शब्द कोश की स्वतंत्र सत्ता है, जबकि पद वाक्य में व्याकरणिक नियमों में बँधा रूप है।\nकारण (R): जब 'कमल' स्वतंत्र लिखा जाता है तो वह शब्द है, परन्तु जब 'कमल खिलता है' लिखा जाता है तो 'कमल' कारक-विभक्ति और लिंग-वचन से युक्त होकर 'पद' बन जाता है।\nसही विकल्प चुनें:",
+    "options": [
+      "(A) और (R) दोनों सही हैं तथा (R), (A) की सही व्याख्या करता है।",
+      "(A) और (R) दोनों सही हैं, परन्तु (R), (A) की सही व्याख्या नहीं करता।",
+      "(A) सही है, परन्तु (R) गलत है।",
+      "(A) गलत है, परन्तु (R) सही है।"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "शब्द स्वतंत्र भाषिक इकाई है; वाक्य में प्रयुक्त होकर रूपात्मक संबंध प्राप्त करने पर वह 'पद' बन जाता है।"
+  },
+  {
+    "classLevel": 7,
+    "subject": "Hindi Grammar",
+    "chapter": "Chapter 3: शब्द विचार",
+    "question": "Spot the IMPOSTER in the following group of तत्सम - तद्भव युग्मों में:\nGroup:\n1. मयूर - मोर\n2. सर्प - साँप\n3. कर्ण - कान\n4. अग्नि - पानी",
+    "options": [
+      "युग्म 1",
+      "युग्म 2",
+      "युग्म 3",
+      "युग्म 4 (अग्नि का तद्भव 'आग' होता है, 'पानी' नहीं)"
+    ],
+    "correctAnswer": 3,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "युग्म 4 अशुद्ध है: 'अग्नि' का तद्भव 'आग' होता है; 'पानी' का तत्सम 'पानीय / जल' है।"
+  },
+  {
+    "classLevel": 7,
+    "subject": "Hindi Grammar",
+    "chapter": "Chapter 3: शब्द विचार",
+    "question": "सुमेलित कीजिए (शब्द और उनका उत्पत्तिगत भाषाई स्रोत):\n(क) कूप, दंत, मुख     -> (i) तत्सम शब्द (संस्कृत)\n(ख) हाथ, कुआँ, दाँत    -> (ii) तद्भव शब्द\n(ग) पगड़ी, लोटा, जूता  -> (iii) देशज शब्द\n(घ) लालटेन, डॉक्टर, पेन-> (iv) विदेशी / आगत शब्द",
+    "options": [
+      "क-(i), ख-(ii), ग-(iii), घ-(iv)",
+      "क-(ii), ख-(i), ग-(iv), घ-(iii)",
+      "क-(iv), ख-(iii), ग-(ii), घ-(i)",
+      "क-(iii), ख-(iv), ग-(i), घ-(ii)"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "कूप/दंत = तत्सम; हाथ/कुआँ = तद्भव; लोटा/पगड़ी = देशज; लालटेन (lantern)/पेन = विदेशी।"
+  },
+  {
+    "classLevel": 7,
+    "subject": "Hindi Grammar",
+    "chapter": "Chapter 3: शब्द विचार",
+    "question": "श्रुतिसम भिन्नार्थक शब्दों 'कुल' और 'कूल' का क्रमशः शुद्ध अर्थ क्या है?",
+    "options": [
+      "'कुल' = वंश / सब (Total/Family) ; 'कूल' = किनारा / तट (Bank of river)",
+      "'कुल' = ठंडा ; 'कूल' = परिवार",
+      "'कुल' = किनारा ; 'कूल' = वंश",
+      "दोनों का अर्थ 'पानी' है"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "कुल (ह्रस्व उ) = वंश/समग्र; कूल (दीर्घ ऊ) = नदी का किनारा/तट।"
+  },
+  {
+    "classLevel": 7,
+    "subject": "Hindi Grammar",
+    "chapter": "Chapter 3: शब्द विचार",
+    "question": "श्रुतिसम भिन्नार्थक शब्दों 'गृह' और 'ग्रह' का क्रमशः सही अर्थ क्या है?",
+    "options": [
+      "'गृह' = घर (House) ; 'ग्रह' = आकाशीय पिंड / नक्षत्र (Planet - जैसे: सूर्य, मंगल)",
+      "'गृह' = नक्षत्र ; 'ग्रह' = घर",
+      "दोनों का अर्थ 'सूर्य' है",
+      "दोनों का अर्थ 'दुकान' है"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "गृह (ऋ की मात्रा) = आवास/घर; ग्रह (पदेन र) = आकाशीय खगोलीय पिंड (Planet)।"
+  },
+  {
+    "classLevel": 7,
+    "subject": "Hindi Grammar",
+    "chapter": "Chapter 3: शब्द विचार",
+    "question": "अनेकार्थी शब्द 'कनक' के तीन प्रमुख संदर्भगत अर्थ क्या हैं?",
+    "options": [
+      "सोना (Gold), धतूरा (Poisonous plant), और गेहूँ (Wheat)",
+      "चाँदी, लोहा, और पीतल",
+      "पेड़, फल, और फूल",
+      "आकाश, बादल, और वर्षा"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "'कनक कनक ते सौगुनी...' कनक के प्रमुख अर्थ: स्वर्ण (सोना), धतूरा और गेहूँ हैं।"
+  },
+  {
+    "classLevel": 7,
+    "subject": "Hindi Grammar",
+    "chapter": "Chapter 3: शब्द विचार",
+    "question": "अनेकार्थी शब्द 'अंबर' के दो मुख्य अर्थ क्या हैं?",
+    "options": [
+      "आकाश (Sky) और वस्त्र / कपड़ा (Cloth)",
+      "धरती और पाताल",
+      "पानी और आग",
+      "राजा और रानी"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "अंबर = नभ/गगन (आकाश) तथा वस्त्र/पट (कपड़ा - जैसे: पीतांबर)।"
+  },
+  {
+    "classLevel": 7,
+    "subject": "Hindi Grammar",
+    "chapter": "Chapter 3: शब्द विचार",
+    "question": "अरबी और फ़ारसी भाषा से हिंदी में आए शब्दों का कौन-सा समूह पूर्णतः शुद्ध है?",
+    "options": [
+      "अरबी: कानून, फैसला, अमीर, तारीख ; फ़ारसी: कागज़, चश्मा, ज़मीन, बाज़ार, शादी",
+      "अरबी: स्कूल, पेन ; फ़ारसी: डॉक्टर, बस",
+      "अरबी: चाय, लीची ; फ़ारसी: रिक्शा, सुनामी",
+      "अरबी: कुर्ता, कैंची ; फ़ारसी: तोप, बारूद"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "कानून/फैसला/तारीख = अरबी; कागज़/चश्मा/बाज़ार/शादी = फ़ारसी।"
+  },
+  {
+    "classLevel": 7,
+    "subject": "Hindi Grammar",
+    "chapter": "Chapter 3: शब्द विचार",
+    "question": "चीनी भाषा और जापानी भाषा से हिंदी में आए शब्दों का सही युग्म कौन-सा है?",
+    "options": [
+      "चीनी भाषा: चाय, लीची ; जापानी भाषा: रिक्शा, सुनामी",
+      "चीनी भाषा: साबुन, बाल्टी ; जापानी भाषा: स्कूल, बस",
+      "चीनी भाषा: तोप, बारूद ; जापानी भाषा: वकील, अदालत",
+      "चीनी भाषा: रोटी, पानी ; जापानी भाषा: घर, मकान"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "चीनी मूल: चाय, लीची, चीकू; जापानी मूल: रिक्शा (Jinrikisha), सुनामी (Tsunami)।"
+  },
+  {
+    "classLevel": 7,
+    "subject": "Hindi Grammar",
+    "chapter": "Chapter 3: शब्द विचार",
+    "question": "योगरूढ़ शब्दों में कौन-सा समास विशेष रूप से अंतर्निहित होता है?",
+    "options": [
+      "बहुव्रीहि समास (जिसमें दोनों पद मिलकर किसी तीसरे अन्य पद की विशेषता बताते हैं, जैसे: चक्रपाणि = विष्णु)",
+      "द्वंद्व समास",
+      "अव्ययीभाव समास",
+      "द्विगु समास"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "सभी बहुव्रीहि समास के समस्त पद रचना की दृष्टि से 'योगरूढ़ शब्द' होते हैं।"
+  },
+  {
+    "classLevel": 7,
+    "subject": "Hindi Grammar",
+    "chapter": "Chapter 3: शब्द विचार",
+    "question": "संकर शब्दों की शुद्ध संरचना पहचानीए:\n'छायादार' शब्द किन दो भिन्न भाषाओं के मेल से बना है?",
+    "options": [
+      "संस्कृत ('छाया') + फ़ारसी प्रत्यय ('दार') = छायादार",
+      "अंग्रेज़ी + हिंदी",
+      "अरबी + तुर्की",
+      "पुर्तगाली + जापानी"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "छाया (संस्कृत तत्सम) + दार (फ़ारसी प्रत्यय) = संकर शब्द 'छायादार'।"
+  },
+  {
+    "classLevel": 7,
+    "subject": "Hindi Grammar",
+    "chapter": "Chapter 3: शब्द विचार",
+    "question": "शब्द विचार (Morphology) के विशद अध्ययन का भाषा प्रयोग में क्या केंद्रीय निष्कर्ष है?",
+    "options": [
+      "हिंदी शब्द संपदा एक अविरल प्रवाहमयी नदी के समान है, जिसने संस्कृत की तत्सम-तद्भव परंपरा, देशज बोलियों की मौलिकता और विदेशी भाषाओं के आगत शब्दों को आत्मसात कर अद्भुत अभिव्यक्ति-क्षमता प्राप्त की है",
+      "शब्दों का केवल एक ही अर्थ होना चाहिए",
+      "विदेशी शब्दों का प्रयोग पूरी तरह बंद होना चाहिए",
+      "शब्द विचार केवल प्राथमिक स्तर की पढ़ाई है"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "अध्याय 3 हिंदी की समावेशी बहु-सांस्कृतिक शब्द-संपदा, व्युत्पत्ति-सौंदर्य और समृद्ध पद-विन्यास को प्रतिपादित करता है।"
+  }
+]

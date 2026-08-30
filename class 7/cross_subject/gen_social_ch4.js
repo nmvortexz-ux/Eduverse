@@ -1,0 +1,570 @@
+import fs from 'fs';
+
+// -------------------------------------------------------------
+// SUBJECT 5: Social Science - Chapter 4: The Mughal Empire (40 Questions)
+// -------------------------------------------------------------
+const socialQuestions = [
+  // EASY (12)
+  {
+    classLevel: 7,
+    subject: "Social Science",
+    chapter: "Chapter 4: The Mughal Empire",
+    question: "From which two great historical royal lineages were the Mughals descended?",
+    options: [
+      "On their mother's side from Genghis Khan (Mongol ruler) and on their father's side from Timur (ruler of Iran, Iraq, and Central Asia)",
+      "From Alexander the Great and Julius Caesar",
+      "From Ashoka and Chandragupta Maurya",
+      "From the Ottoman Sultans and Roman Emperors"
+    ],
+    correctAnswer: 0,
+    difficulty: "EASY",
+    damage: 150,
+    explanation: "Maternal descent from Genghis Khan (d. 1227) and paternal lineage from Timur (d. 1404)."
+  },
+  {
+    classLevel: 7,
+    subject: "Social Science",
+    chapter: "Chapter 4: The Mughal Empire",
+    question: "Who was the founder of the Mughal Empire in India, who defeated Ibrahim Lodi in the First Battle of Panipat in 1526 CE?",
+    options: ["Babur (Zahiruddin Muhammad Babur)", "Akbar", "Humayun", "Jahangir"],
+    correctAnswer: 0,
+    difficulty: "EASY",
+    damage: 150,
+    explanation: "Babur captured Delhi and Agra in 1526 after defeating Ibrahim Lodi at the First Battle of Panipat."
+  },
+  {
+    classLevel: 7,
+    subject: "Social Science",
+    chapter: "Chapter 4: The Mughal Empire",
+    question: "Which battle fought in 1527 CE cemented Babur's control over northern India by defeating Rana Sanga of Mewar and his Rajput confederacy?",
+    options: ["Battle of Khanwa", "Battle of Chanderi", "Battle of Ghagra", "Battle of Haldighati"],
+    correctAnswer: 0,
+    difficulty: "EASY",
+    damage: 150,
+    explanation: "In 1527 at Khanwa, Babur defeated Rana Sanga and his Rajput allies, securing the Gangetic heartland."
+  },
+  {
+    classLevel: 7,
+    subject: "Social Science",
+    chapter: "Chapter 4: The Mughal Empire",
+    question: "Who ascended the Mughal throne at the age of 13 in 1556 CE under the guardianship of Bairam Khan, expanding the empire into a pan-subcontinental powerhouse?",
+    options: ["Akbar the Great (Jalaluddin Muhammad Akbar)", "Humayun", "Shah Jahan", "Aurangzeb"],
+    correctAnswer: 0,
+    difficulty: "EASY",
+    damage: 150,
+    explanation: "Akbar ascended the throne in 1556 at Kalanaur (Punjab) at age 13, guided by his regent Bairam Khan."
+  },
+  {
+    classLevel: 7,
+    subject: "Social Science",
+    chapter: "Chapter 4: The Mughal Empire",
+    question: "What was the administrative and military ranking system introduced by Akbar to organize imperial nobility and soldiers called?",
+    options: ["Mansabdari System", "Iqta System", "Zabt System", "Zamindari System"],
+    correctAnswer: 0,
+    difficulty: "EASY",
+    damage: 150,
+    explanation: "Akbar instituted the Mansabdari system to structure military command, noble status, and official salary."
+  },
+  {
+    classLevel: 7,
+    subject: "Social Science",
+    chapter: "Chapter 4: The Mughal Empire",
+    question: "In the Mansabdari system, what did the numerical rank 'ZAT' determine?",
+    options: [
+      "The noble's personal position, hierarchical status in the court, and official monetary salary",
+      "The number of elephants",
+      "The number of palaces owned",
+      "The noble's age"
+    ],
+    correctAnswer: 0,
+    difficulty: "EASY",
+    damage: 150,
+    explanation: "Zat was the numerical index determining personal prestige, protocol ranking, and salary scale."
+  },
+  {
+    classLevel: 7,
+    subject: "Social Science",
+    chapter: "Chapter 4: The Mughal Empire",
+    question: "In the Mansabdari system, what did the numerical rank 'SAWAR' specify?",
+    options: [
+      "The exact number of maintained cavalrymen (horsemen) the Mansabdar was required to maintain for state service",
+      "The number of horses in the royal stable",
+      "The number of cannons",
+      "The number of villages owned"
+    ],
+    correctAnswer: 0,
+    difficulty: "EASY",
+    damage: 150,
+    explanation: "Sawar rank fixed the military cavalry contingent (horsemen) the officer was legally obligated to muster."
+  },
+  {
+    classLevel: 7,
+    subject: "Social Science",
+    chapter: "Chapter 4: The Mughal Empire",
+    question: "What were the revenue assignments from which Mansabdars received their salaries (similar to Sultanate Iqtas) called?",
+    options: ["Jagirs (and the holders were called Jagirdars)", "Zabt", "Subas", "Parganas"],
+    correctAnswer: 0,
+    difficulty: "EASY",
+    damage: 150,
+    explanation: "Jagirs were revenue-yielding territorial tracts granted to Mansabdars to cover their sanctioned salary allowances."
+  },
+  {
+    classLevel: 7,
+    subject: "Social Science",
+    chapter: "Chapter 4: The Mughal Empire",
+    question: "Who was Akbar's brilliant Revenue Minister who carried out a careful 10-year survey (1570–1580) of crop yields, prices, and cultivated areas to establish the 'Zabt' revenue system?",
+    options: ["Raja Todar Mal", "Raja Man Singh", "Birbal (Mahesh Das)", "Abul Fazl"],
+    correctAnswer: 0,
+    difficulty: "EASY",
+    damage: 150,
+    explanation: "Raja Todar Mal formulated the 'Ain-i Dahsala' (10-year revenue assessment) and Zabt cash-revenue schedules."
+  },
+  {
+    classLevel: 7,
+    subject: "Social Science",
+    chapter: "Chapter 4: The Mughal Empire",
+    question: "Who was Akbar's close friend, courtier, and court historian who wrote the monumental three-volume official history 'Akbar Nama' and 'Ain-i Akbari'?",
+    options: ["Abul Fazl", "Faizi", "Badauni", "Ziauddin Barani"],
+    correctAnswer: 0,
+    difficulty: "EASY",
+    damage: 150,
+    explanation: "Abul Fazl composed the Akbar Nama (Vol 1: ancestors, Vol 2: Akbar's reign) and Vol 3: Ain-i Akbari (administration and statistics)."
+  },
+  {
+    classLevel: 7,
+    subject: "Social Science",
+    chapter: "Chapter 4: The Mughal Empire",
+    question: "What was the philosophical doctrine of 'Universal Peace' and religious tolerance formulated by Akbar and Abul Fazl called?",
+    options: ["Sulh-i Kul (Universal Peace / Absolute Tolerance)", "Din-i Ilahi", "Zabt", "Mansab"],
+    correctAnswer: 0,
+    difficulty: "EASY",
+    damage: 150,
+    explanation: "Sulh-i Kul (peace with all) promoted universal religious tolerance and justice without sectarian discrimination."
+  },
+  {
+    classLevel: 7,
+    subject: "Social Science",
+    chapter: "Chapter 4: The Mughal Empire",
+    question: "In which hall of inter-faith discussions built at Fatehpur Sikri in 1575 did Akbar hold spiritual dialogues with theologians of diverse religions (Ulama, Brahmins, Jesuit priests, Zoroastrians)?",
+    options: ["Ibadat Khana (House of Worship)", "Diwan-i Aam", "Diwan-i Khas", "Buland Darwaza"],
+    correctAnswer: 0,
+    difficulty: "EASY",
+    damage: 150,
+    explanation: "The Ibadat Khana at Fatehpur Sikri hosted comparative theological debates leading Akbar to develop Sulh-i Kul."
+  },
+
+  // MEDIUM (16)
+  {
+    classLevel: 7,
+    subject: "Social Science",
+    chapter: "Chapter 4: The Mughal Empire",
+    question: "What was the Mughal custom of dynastic succession regarding the inheritance of royal power?",
+    options: [
+      "Coparcenary Inheritance (Timurid tradition of dividing the empire among all brothers / sons), which frequently triggered bitter wars of succession among royal princes",
+      "Strict Primogeniture (only the eldest son inherits everything)",
+      "Election by public voting",
+      "The crown was passed to the King's uncle"
+    ],
+    correctAnswer: 0,
+    difficulty: "MEDIUM",
+    damage: 250,
+    explanation: "The Mughals rejected strict primogeniture, adhering to Timurid coparcenary partition which sparked violent fratricidal succession wars."
+  },
+  {
+    classLevel: 7,
+    subject: "Social Science",
+    chapter: "Chapter 4: The Mughal Empire",
+    question: "How did Akbar build a lasting alliance with Rajput rulers (such as the Kachhwahas of Amber) to consolidate his pan-Indian empire?",
+    options: [
+      "He respected Rajput martial honor, formed marital matrimonial alliances, granted high Mansabdari military commands to Rajput chiefs, and restored conquered lands as hereditary 'Watan Jagirs'",
+      "He imprisoned all Rajput kings",
+      "He banned Rajput culture",
+      "He forced Rajputs to migrate to Iran"
+    ],
+    correctAnswer: 0,
+    difficulty: "MEDIUM",
+    damage: 250,
+    explanation: "Akbar's Rajput policy combined diplomatic respect, matrimonial ties, high court ranks (Man Singh), and autonomy over Watan Jagirs."
+  },
+  {
+    classLevel: 7,
+    subject: "Social Science",
+    chapter: "Chapter 4: The Mughal Empire",
+    question: "Who was Mehr-un-Nisa (Empress Nur Jahan) and what immense political authority did she exercise during the reign of Emperor Jahangir?",
+    options: [
+      "She was Jahangir's brilliant, exceptionally influential empress who held supreme imperial power, issued royal farmans (orders), and had coins minted jointly in her name alongside the Emperor",
+      "She was a court poetess with no political power",
+      "She lived in exile outside India",
+      "She was the ruler of Bengal"
+    ],
+    correctAnswer: 0,
+    difficulty: "MEDIUM",
+    damage: 250,
+    explanation: "Nur Jahan exercised supreme administrative co-sovereignty, issuing sovereign farmans and appearing on imperial coinage."
+  },
+  {
+    classLevel: 7,
+    subject: "Social Science",
+    chapter: "Chapter 4: The Mughal Empire",
+    question: "What was the administrative division of the Mughal Empire under Akbar?",
+    options: [
+      "The empire was divided into Subas (provinces) governed by a Subadar ; each Suba was subdivided into Sarkars (districts) and Parganas (sub-districts/parishes)",
+      "The empire had no provinces",
+      "The empire was divided into 100 kingdoms",
+      "The empire was divided into two halves: North and South"
+    ],
+    correctAnswer: 0,
+    difficulty: "MEDIUM",
+    damage: 250,
+    explanation: "Suba (governed by Subadar and financial Diwan) → Sarkar (district under Faujdar) → Pargana (under Shiqdar and Amil) → Grama."
+  },
+  {
+    classLevel: 7,
+    subject: "Social Science",
+    chapter: "Chapter 4: The Mughal Empire",
+    question: "In Mughal provincial administration, who were the 'Subadar' and the 'Diwan' of a province (Suba)?",
+    options: [
+      "The Subadar carried out political and military functions ; the Diwan was the financial officer responsible for revenue collection and accounting",
+      "The Subadar was a doctor ; the Diwan was a teacher",
+      "Both were palace musicians",
+      "The Diwan was the supreme general and Subadar was the cook"
+    ],
+    correctAnswer: 0,
+    difficulty: "MEDIUM",
+    damage: 250,
+    explanation: "Mughal checks-and-balances: executive-military authority resided in the Subadar; fiscal-financial authority resided independently in the Diwan."
+  },
+  {
+    classLevel: 7,
+    subject: "Social Science",
+    chapter: "Chapter 4: The Mughal Empire",
+    question: "What was the 'Zabt' revenue system formulated by Todar Mal?",
+    options: [
+      "A scientific revenue system where agricultural land was physically surveyed/measured, crop yields and market price indices over 10 years were calculated, and each crop was assigned a fixed cash revenue tax schedule",
+      "A tax on all horses",
+      "A system where soldiers took all food by force",
+      "A tax only on foreign traders"
+    ],
+    correctAnswer: 0,
+    difficulty: "MEDIUM",
+    damage: 250,
+    explanation: "Zabt established empirical crop-specific cash schedules based on standard land measurement (bigha/jarib) and 10-year price averages."
+  },
+  {
+    classLevel: 7,
+    subject: "Social Science",
+    chapter: "Chapter 4: The Mughal Empire",
+    question: "In Mughal society, what blanket umbrella term was used to describe all rural intermediaries—whether powerful local village headmen (Muqaddams/Chaudhuris) or hereditary regional chieftains?",
+    options: ["Zamindars", "Mansabdars", "Jagirdars", "Subadars"],
+    correctAnswer: 0,
+    difficulty: "MEDIUM",
+    damage: 250,
+    explanation: "The Mughals employed 'Zamindar' generically for all rural landed intermediaries collecting agricultural surplus."
+  },
+  {
+    classLevel: 7,
+    subject: "Social Science",
+    chapter: "Chapter 4: The Mughal Empire",
+    question: "Why did the Sisodiya Rajputs of Mewar refuse to accept Mughal authority for a long time, and how did the Mughals treat them when they finally surrendered to Jahangir in 1614?",
+    options: [
+      "Mewar resisted fiercely under Maharana Pratap ; upon submission under Rana Amar Singh, Jahangir treated them with honorable nobility, returning their entire territory as a Watan Jagir",
+      "Jahangir executed all Mewar princes",
+      "Jahangir annexed Mewar and destroyed its forts",
+      "Mewar was given to foreign merchants"
+    ],
+    correctAnswer: 0,
+    difficulty: "MEDIUM",
+    damage: 250,
+    explanation: "Jahangir preserved Sisodiya dignity by restoring Mewar as a hereditary Watan Jagir exempt from personal court attendance."
+  },
+  {
+    classLevel: 7,
+    subject: "Social Science",
+    chapter: "Chapter 4: The Mughal Empire",
+    question: "Why did Aurangzeb's long, grinding 25-year military campaigns in the Deccan (1681–1707) lead to the severe exhaustion and eventual decline of the Mughal Empire?",
+    options: [
+      "Endless Deccan wars drained imperial treasuries, overextended military logistics, sparked protracted guerilla warfare with Marathas, and caused the collapse of administrative supervision in the northern heartland",
+      "Because Aurangzeb gave up his empire to become a monk",
+      "Because the Deccan had no soldiers",
+      "Because the British invaded Delhi in 1682"
+    ],
+    correctAnswer: 0,
+    difficulty: "MEDIUM",
+    damage: 250,
+    explanation: "Aurangzeb's Deccan ulcer drained the empire's fiscal resources, disrupted Jagirdari stability, and triggered administrative paralysis."
+  },
+  {
+    classLevel: 7,
+    subject: "Social Science",
+    chapter: "Chapter 4: The Mughal Empire",
+    question: "What was the 'Jagirdari Crisis' that crippled the Mughal administration in the late 17th century under Aurangzeb?",
+    options: [
+      "The massive inflation in the number of Mansabdars created a severe shortage of productive Jagirs; Jagirdars ruthlessly squeezed peasants for maximum revenue during their brief assignments",
+      "All Jagirs were destroyed by floods",
+      "Mansabdars refused to accept lands",
+      "Jagirs were banned by imperial law"
+    ],
+    correctAnswer: 0,
+    difficulty: "MEDIUM",
+    damage: 250,
+    explanation: "Shortage of revenue-bearing paibaqi land caused the Jagirdari crisis, triggering agrarian distress and peasant rebellions."
+  },
+  {
+    classLevel: 7,
+    subject: "Social Science",
+    chapter: "Chapter 4: The Mughal Empire",
+    question: "Which Maratha warrior king established an independent Maratha kingdom, using brilliant guerilla warfare (Ganimi Kava) against Aurangzeb's armies and escaped from house arrest in Agra in 1666?",
+    options: ["Chhatrapati Shivaji Maharaj", "Sambhaji", "Peshwa Baji Rao I", "Shahji Bhonsle"],
+    correctAnswer: 0,
+    difficulty: "MEDIUM",
+    damage: 250,
+    explanation: "Chhatrapati Shivaji Maharaj forged an autonomous Maratha swarajya, defying Mughal hegemony via mobile guerrilla tactics."
+  },
+  {
+    classLevel: 7,
+    subject: "Social Science",
+    chapter: "Chapter 4: The Mughal Empire",
+    question: "What is the third volume of Abul Fazl's Akbar Nama called, which contains rich statistical details about crops, yields, prices, wages, administrative regulations, and cultural traditions?",
+    options: ["Ain-i Akbari", "Tuzuk-i Baburi", "Padshahnama", "Humayun-nama"],
+    correctAnswer: 0,
+    difficulty: "MEDIUM",
+    damage: 250,
+    explanation: "The Ain-i Akbari constitutes the definitive imperial gazetteer and administrative-statistical compendium of Akbar's reign."
+  },
+  {
+    classLevel: 7,
+    subject: "Social Science",
+    chapter: "Chapter 4: The Mughal Empire",
+    question: "Which Mughal prince translated fifty Upanishads from Sanskrit into Persian ('Sirr-i Akbar' / The Greatest Secret), appreciating the unity of divine truth across Hinduism and Islam?",
+    options: ["Dara Shikoh (eldest son of Shah Jahan)", "Aurangzeb", "Murad Bakhsh", "Shah Shuja"],
+    correctAnswer: 0,
+    difficulty: "MEDIUM",
+    damage: 250,
+    explanation: "Dara Shikoh was a philosopher-prince who translated the Upanishads and authored 'Majma-ul-Bahrain' (Mingling of Two Oceans)."
+  },
+  {
+    classLevel: 7,
+    subject: "Social Science",
+    chapter: "Chapter 4: The Mughal Empire",
+    question: "What was the 'Kotwal' in Mughal urban municipal administration?",
+    options: [
+      "The chief town police officer responsible for urban law and order, night patrols, market surveillance, and citizen registry",
+      "The royal chef in Delhi",
+      "The head priest of the mosque",
+      "The commander of royal ships"
+    ],
+    correctAnswer: 0,
+    difficulty: "MEDIUM",
+    damage: 250,
+    explanation: "The Kotwal exercised municipal police, judicial oversight, market weights inspection, and urban safety policing."
+  },
+  {
+    classLevel: 7,
+    subject: "Social Science",
+    chapter: "Chapter 4: The Mughal Empire",
+    question: "Which rebellious son of Aurangzeb received military support from the Marathas and the Deccan Sultanate before fleeing to Safavid Iran in 1681?",
+    options: ["Prince Akbar (Muhammad Akbar)", "Prince Azam", "Prince Muazzam", "Prince Kam Bakhsh"],
+    correctAnswer: 0,
+    difficulty: "MEDIUM",
+    damage: 250,
+    explanation: "Prince Akbar revolted against his father Aurangzeb in 1681, allied with Sambhaji, and sought refuge with the Safavid Shah of Persia."
+  },
+  {
+    classLevel: 7,
+    subject: "Social Science",
+    chapter: "Chapter 4: The Mughal Empire",
+    question: "What magnificent white marble mausoleum did Emperor Shah Jahan construct in Agra along the Yamuna river in memory of his beloved wife Mumtaz Mahal?",
+    options: ["The Taj Mahal (built between 1632 and 1648 CE)", "Humayun's Tomb", "Bibi Ka Maqbara", "Safdarjung Tomb"],
+    correctAnswer: 0,
+    difficulty: "MEDIUM",
+    damage: 250,
+    explanation: "The Taj Mahal is the supreme masterpiece of Indo-Islamic symmetry, Pietra Dura inlay, and domed architectural engineering."
+  },
+
+  // HARD (12)
+  {
+    classLevel: 7,
+    subject: "Social Science",
+    chapter: "Chapter 4: The Mughal Empire",
+    question: "Read the statements:\nAssertion (A): The Mughal Mansabdari system was a remarkably dynamic, non-hereditary administrative hierarchy that integrated diverse ethnic elites (Turanians, Iranis, Rajputs, Indian Muslims, and Marathas) into a unified imperial ruling class.\nReason (R): Mansabdars did not hold permanent hereditary property rights over their Jagirs; they were subjected to regular transfers, strict military muster reviews (Dagh and Chehra), and post-mortem escheat of property to the crown.\nChoose the correct option:",
+    options: [
+      "Both (A) and (R) are true, and (R) is the correct explanation of (A).",
+      "Both (A) and (R) are true, but (R) is NOT the correct explanation of (A).",
+      "(A) is true, but (R) is false.",
+      "(A) is false, but (R) is true."
+    ],
+    correctAnswer: 0,
+    difficulty: "HARD",
+    damage: 350,
+    explanation: "Akbar's genius lay in institutionalizing an ethnically diverse, meritocratic, non-hereditary administrative elite loyal to the central sovereign."
+  },
+  {
+    classLevel: 7,
+    subject: "Social Science",
+    chapter: "Chapter 4: The Mughal Empire",
+    question: "Spot the IMPOSTER in the following chronological sequence of Mughal Emperors and their major architectural/political milestones:\nGroup:\n1. Babur - Founded empire, laid out formal Persian Charbagh gardens\n2. Akbar - Built Fatehpur Sikri, Agra Fort, instituted Sulh-i Kul\n3. Shah Jahan - Built Taj Mahal, Red Fort Delhi, Jama Masjid\n4. Aurangzeb - Built the Eiffel Tower in Delhi",
+    options: ["Milestone 1", "Milestone 2", "Milestone 3", "Milestone 4 (The Eiffel Tower is in Paris, France ; Aurangzeb built Moti Masjid and Badshahi Mosque)"],
+    correctAnswer: 3,
+    difficulty: "HARD",
+    damage: 350,
+    explanation: "Milestone 4 is an absurd falsehood: Aurangzeb built the Badshahi Mosque in Lahore and Moti Masjid in Delhi, not the Eiffel Tower."
+  },
+  {
+    classLevel: 7,
+    subject: "Social Science",
+    chapter: "Chapter 4: The Mughal Empire",
+    question: "Analyze the fiscal disparity in the Mughal Empire revealed in official records:\nOut of 8,000 Mansabdars under Shah Jahan, only 445 top-ranking officers (a mere 5.6% of the nobility) received what percentage of the empire's total assessed revenue?",
+    options: [
+      "61.5% of the total estimated revenue of the empire was concentrated in the hands of this tiny elite of 445 nobles",
+      "10% of the total revenue",
+      "100% of the total revenue",
+      "5% of the total revenue"
+    ],
+    correctAnswer: 0,
+    difficulty: "HARD",
+    damage: 350,
+    explanation: "Official Mughal records show extreme economic inequality: 5.6% of top-tier Mansabdars appropriated 61.5% of state revenues for salaries."
+  },
+  {
+    classLevel: 7,
+    subject: "Social Science",
+    chapter: "Chapter 4: The Mughal Empire",
+    question: "Match Column I (Mughal Administrative Terms) with Column II (Exact Functional Meanings):\n(a) Subadar -> (i) Provincial governor commanding political and military administration\n(b) Diwan   -> (ii) Provincial chief revenue and finance officer\n(c) Bakhshi -> (iii) Imperial military paymaster responsible for troop muster\n(d) Sadr    -> (iv) Minister in charge of religious and charitable patronage",
+    options: [
+      "a-(i), b-(ii), c-(iii), d-(iv)",
+      "a-(ii), b-(i), c-(iv), d-(iii)",
+      "a-(iv), b-(iii), c-(ii), d-(i)",
+      "a-(iii), b-(iv), c-(i), d-(ii)"
+    ],
+    correctAnswer: 0,
+    difficulty: "HARD",
+    damage: 350,
+    explanation: "Subadar = governor; Diwan = finance; Bakhshi = military paymaster; Sadr = ecclesiastical/charitable minister."
+  },
+  {
+    classLevel: 7,
+    subject: "Social Science",
+    chapter: "Chapter 4: The Mughal Empire",
+    question: "Read the statements regarding Akbar's religious policy:\nStatement 1: Akbar abolished the discriminatory 'Jizya' tax on non-Muslim subjects and the pilgrimage tax on Hindu pilgrims in 1564.\nStatement 2: The Ibadat Khana discussions convinced Akbar that religious bigots who emphasize ritual dogma create social division, prompting him to formulate 'Sulh-i Kul'.\nStatement 3: Akbar forced all citizens of India to convert to his personal faith under penalty of death.\nWhich statements are TRUE?",
+    options: ["Statements 1 and 2 only", "Statements 2 and 3 only", "Statements 1 and 3 only", "All Statements 1, 2, and 3"],
+    correctAnswer: 0,
+    difficulty: "HARD",
+    damage: 350,
+    explanation: "Statement 3 is false: Akbar championed Sulh-i Kul (universal tolerance) and never enforced forced religious conversions. Statements 1 and 2 are true."
+  },
+  {
+    classLevel: 7,
+    subject: "Social Science",
+    chapter: "Chapter 4: The Mughal Empire",
+    question: "Why did the Mughals prefer not to be called 'Moghol / Mongol' and took great pride in their 'Timurid' paternal lineage?",
+    options: [
+      "The name Mongol was historically associated with Genghis Khan's brutal massacres of countless innocent people, whereas their ancestor Timur had captured Delhi in 1398 with great royal prestige",
+      "Because Timur was a European king",
+      "Because Mongols had no horses",
+      "Because Babur could not speak Persian"
+    ],
+    correctAnswer: 0,
+    difficulty: "HARD",
+    damage: 350,
+    explanation: "The dynasty distanced itself from the gory memory of Genghisid massacres, glorifying their Timurid renaissance patrimony."
+  },
+  {
+    classLevel: 7,
+    subject: "Social Science",
+    chapter: "Chapter 4: The Mughal Empire",
+    question: "How did the introduction of Field Artillery (cannons and matchlocks) revolutionize military warfare in India during Babur's 1526 Panipat campaign?",
+    options: [
+      "Babur combined gunpowder artillery carts (Rumi device) with rapid flanking cavalry maneuvers (Tulghuma), completely decimating Ibrahim Lodi's massive static war elephant army",
+      "Artillery made soldiers walk backwards",
+      "Artillery destroyed all food in India",
+      "Cannons were made of wood and burned down"
+    ],
+    correctAnswer: 0,
+    difficulty: "HARD",
+    damage: 350,
+    explanation: "Babur deployed Ottoman tactical innovation: chaining baggage wagons to shield matchlock gunners, supported by deadly flanking cavalry encirclement (Tulghuma)."
+  },
+  {
+    classLevel: 7,
+    subject: "Social Science",
+    chapter: "Chapter 4: The Mughal Empire",
+    question: "What was the structural relationship between the Mughal Emperor, the Zamindars, and the Peasantry?",
+    options: [
+      "Peasants produced the agrarian wealth; Zamindars collected the produce and shared local caste/lineage ties with peasants, occasionally leading armed peasant rebellions against excessive central Mughal tax demands",
+      "Zamindars gave all their land to the Emperor for free",
+      "Peasants were paid salaries in gold by the Emperor",
+      "There were no taxes in the Mughal Empire"
+    ],
+    correctAnswer: 0,
+    difficulty: "HARD",
+    damage: 350,
+    explanation: "Local Zamindars held traditional kinship ties with village cultivators; imperial over-exploitation frequently triggered joint agrarian revolts."
+  },
+  {
+    classLevel: 7,
+    subject: "Social Science",
+    chapter: "Chapter 4: The Mughal Empire",
+    question: "Consider four key regions that mounted fierce resistance against Mughal expansion in the 17th century:\n1. Marathas (Deccan)\n2. Ahoms (Assam/Brahmaputra Valley)\n3. Sikhs (Punjab)\n4. Rathores / Sisodiyas (Mewar & Marwar)\nWhat common socio-political strategy did these regional powers employ?",
+    options: [
+      "They leveraged rugged regional terrain, intense local community cohesion, and decentralized mobile warfare to resist centralized imperial domination",
+      "They all surrendered without fighting",
+      "They allied with the British against the Mughals",
+      "They abandoned their lands and moved to Central Asia"
+    ],
+    correctAnswer: 0,
+    difficulty: "HARD",
+    damage: 350,
+    explanation: "Regional powers mobilized geographic terrain, martial traditions, and asymmetric resistance against Mughal over-centralization."
+  },
+  {
+    classLevel: 7,
+    subject: "Social Science",
+    chapter: "Chapter 4: The Mughal Empire",
+    question: "Why is Abul Fazl's 'Ain-i Akbari' celebrated by modern socio-economic historians as a pioneering masterwork of statistical administration?",
+    options: [
+      "It provides rigorous empirical statistical surveys of agricultural revenue, price tables, daily wages, military rolls, fauna, flora, and socio-religious traditions across all 15 Subas of Akbar's empire",
+      "It is a fictional novel of magic and fantasy",
+      "It was written in modern English",
+      "It contains no numbers or records"
+    ],
+    correctAnswer: 0,
+    difficulty: "HARD",
+    damage: 350,
+    explanation: "The Ain-i Akbari is a landmark in quantitative historiography, offering quantitative demographic, agricultural, and administrative inventories."
+  },
+  {
+    classLevel: 7,
+    subject: "Social Science",
+    chapter: "Chapter 4: The Mughal Empire",
+    question: "What architectural innovation distinguishes the 'Charbagh' (Four-Gardens) layout perfected by Mughal emperors (e.g. Humayun's Tomb, Shalimar Gardens)?",
+    options: [
+      "A grand rectangular walled enclosure divided into four symmetrical quadrangles by intersecting, axial raised artificial water channels and walkways, symbolizing the four rivers of Paradise",
+      "A garden with only four flowers",
+      "A circular maze made of glass",
+      "A underground garden without sunlight"
+    ],
+    correctAnswer: 0,
+    difficulty: "HARD",
+    damage: 350,
+    explanation: "Charbagh architecture geometricizes Persian paradise garden symbology: quadripartite orthogonal grids bisected by flowing water channels."
+  },
+  {
+    classLevel: 7,
+    subject: "Social Science",
+    chapter: "Chapter 4: The Mughal Empire",
+    question: "What overarching historical legacy defines Chapter 4 of NCERT Class 7 History regarding the Mughal Empire?",
+    options: [
+      "The creation of a pan-Indian empire that established enduring administrative frameworks, standardized revenue and coinage systems, synthesized composite Indo-Islamic art and architecture, and promoted cultural pluralism under Sulh-i Kul",
+      "A period of constant darkness with no administration",
+      "The complete end of all Indian culture",
+      "An empire that lasted only two weeks"
+    ],
+    correctAnswer: 0,
+    difficulty: "HARD",
+    damage: 350,
+    explanation: "Chapter 4 synthesizes the political institutionalization, fiscal centralization, architectural elegance, and cultural pluralism of the Mughal Empire."
+  }
+];
+
+console.log('Generated Class 7 Social Science Ch4:', socialQuestions.length);
+fs.writeFileSync('C:/EduVerse/class 7/cross_subject/social_ch4.json', JSON.stringify(socialQuestions, null, 2), 'utf8');

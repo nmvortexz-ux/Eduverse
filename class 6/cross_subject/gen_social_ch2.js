@@ -1,0 +1,515 @@
+import fs from 'fs';
+
+// -------------------------------------------------------------
+// SUBJECT 5: Social Science - Chapter 2: Globe: Latitudes and Longitudes (40 Questions)
+// -------------------------------------------------------------
+const socialQuestions = [
+  // EASY (12)
+  {
+    classLevel: 6,
+    subject: "Social Science",
+    chapter: "Chapter 2: Globe: Latitudes and Longitudes",
+    question: "What is a true miniature model / three-dimensional representation of the Earth called?",
+    options: ["A Globe", "A Map", "A Diagram", "A Sketch"],
+    correctAnswer: 0,
+    difficulty: "EASY",
+    damage: 150,
+    explanation: "A globe is a true spherical miniature model of planet Earth showing correct relative shapes and sizes of continents and oceans."
+  },
+  {
+    classLevel: 6,
+    subject: "Social Science",
+    chapter: "Chapter 2: Globe: Latitudes and Longitudes",
+    question: "The imaginary line dividing the globe horizontally into two equal halves (Northern and Southern Hemispheres) is the:",
+    options: ["Equator (0° Latitude)", "Prime Meridian", "Tropic of Cancer", "Arctic Circle"],
+    correctAnswer: 0,
+    difficulty: "EASY",
+    damage: 150,
+    explanation: "The Equator represents 0° latitude, dividing the terrestrial sphere into Northern and Southern Hemispheres."
+  },
+  {
+    classLevel: 6,
+    subject: "Social Science",
+    chapter: "Chapter 2: Globe: Latitudes and Longitudes",
+    question: "What is the latitude value of the North Pole?",
+    options: ["90° North (90° N)", "0°", "180° N", "45° N"],
+    correctAnswer: 0,
+    difficulty: "EASY",
+    damage: 150,
+    explanation: "The North Pole marks the northernmost axial point on Earth, defined exactly as 90° North latitude."
+  },
+  {
+    classLevel: 6,
+    subject: "Social Science",
+    chapter: "Chapter 2: Globe: Latitudes and Longitudes",
+    question: "What is the latitude value of the South Pole?",
+    options: ["90° South (90° S)", "0°", "180° S", "45° S"],
+    correctAnswer: 0,
+    difficulty: "EASY",
+    damage: 150,
+    explanation: "The South Pole marks the southernmost axial point on Earth, designated as 90° South latitude."
+  },
+  {
+    classLevel: 6,
+    subject: "Social Science",
+    chapter: "Chapter 2: Globe: Latitudes and Longitudes",
+    question: "What is the angular latitude value of the Tropic of Cancer in the Northern Hemisphere?",
+    options: ["23½° N (23° 30' N)", "66½° N", "23½° S", "0°"],
+    correctAnswer: 0,
+    difficulty: "EASY",
+    damage: 150,
+    explanation: "The Tropic of Cancer is situated at 23.5° North of the Equator, marking the northern boundary of the Torrid Zone."
+  },
+  {
+    classLevel: 6,
+    subject: "Social Science",
+    chapter: "Chapter 2: Globe: Latitudes and Longitudes",
+    question: "What is the angular latitude value of the Tropic of Capricorn in the Southern Hemisphere?",
+    options: ["23½° S (23° 30' S)", "23½° N", "66½° S", "90° S"],
+    correctAnswer: 0,
+    difficulty: "EASY",
+    damage: 150,
+    explanation: "The Tropic of Capricorn is located at 23.5° South of the Equator."
+  },
+  {
+    classLevel: 6,
+    subject: "Social Science",
+    chapter: "Chapter 2: Globe: Latitudes and Longitudes",
+    question: "What is the latitude of the Arctic Circle?",
+    options: ["66½° N (66° 30' N)", "66½° S", "23½° N", "90° N"],
+    correctAnswer: 0,
+    difficulty: "EASY",
+    damage: 150,
+    explanation: "The Arctic Circle is located at 66.5° North of the Equator in the Northern Hemisphere."
+  },
+  {
+    classLevel: 6,
+    subject: "Social Science",
+    chapter: "Chapter 2: Globe: Latitudes and Longitudes",
+    question: "What is the latitude of the Antarctic Circle?",
+    options: ["66½° S (66° 30' S)", "66½° N", "23½° S", "90° S"],
+    correctAnswer: 0,
+    difficulty: "EASY",
+    damage: 150,
+    explanation: "The Antarctic Circle lies at 66.5° South of the Equator in the Southern Hemisphere."
+  },
+  {
+    classLevel: 6,
+    subject: "Social Science",
+    chapter: "Chapter 2: Globe: Latitudes and Longitudes",
+    question: "Which thermal zone of the Earth receives the maximum heat because the midday sun is exactly overhead at least once a year?",
+    options: ["Torrid Zone (between Tropic of Cancer and Tropic of Capricorn)", "North Frigid Zone", "South Frigid Zone", "Temperate Zone"],
+    correctAnswer: 0,
+    difficulty: "EASY",
+    damage: 150,
+    explanation: "The Torrid Zone receives direct perpendicular solar rays throughout the year, experiencing maximum thermal insolation."
+  },
+  {
+    classLevel: 6,
+    subject: "Social Science",
+    chapter: "Chapter 2: Globe: Latitudes and Longitudes",
+    question: "The reference meridian of longitude passing through Greenwich (near London, UK) is called the:",
+    options: ["Prime Meridian (0° Longitude)", "Equator", "International Date Line", "Tropic of Cancer"],
+    correctAnswer: 0,
+    difficulty: "EASY",
+    damage: 150,
+    explanation: "The Prime Meridian at 0° longitude passes through the British Royal Astronomical Observatory at Greenwich."
+  },
+  {
+    classLevel: 6,
+    subject: "Social Science",
+    chapter: "Chapter 2: Globe: Latitudes and Longitudes",
+    question: "How many total degrees of longitude exist around the entire spherical Earth?",
+    options: ["360° (180° East and 180° West)", "180°", "90°", "100°"],
+    correctAnswer: 0,
+    difficulty: "EASY",
+    damage: 150,
+    explanation: "A complete circle around Earth comprises 360° of longitude (180° East + 180° West meeting at 180°)."
+  },
+  {
+    classLevel: 6,
+    subject: "Social Science",
+    chapter: "Chapter 2: Globe: Latitudes and Longitudes",
+    question: "What is the network or criss-cross mesh of parallels of latitude and meridians of longitude called?",
+    options: ["Geographic Grid", "Globe axis", "Time zone", "Contour"],
+    correctAnswer: 0,
+    difficulty: "EASY",
+    damage: 150,
+    explanation: "The geographic coordinate grid allows precise localization of any point on Earth's surface."
+  },
+
+  // MEDIUM (16)
+  {
+    classLevel: 6,
+    subject: "Social Science",
+    chapter: "Chapter 2: Globe: Latitudes and Longitudes",
+    question: "Why are the Frigid Zones (beyond Arctic and Antarctic Circles) extremely cold throughout the year?",
+    options: [
+      "The Sun never rises high above the horizon, and its rays are always slanting and diffused over a large surface area",
+      "Earth is farthest from the Moon there",
+      "Clouds permanently block 100% of air",
+      "Gravity is zero at the poles"
+    ],
+    correctAnswer: 0,
+    difficulty: "MEDIUM",
+    damage: 250,
+    explanation: "High-angle obliquity spreads incoming solar flux over wide surface areas, generating minimal surface warming."
+  },
+  {
+    classLevel: 6,
+    subject: "Social Science",
+    chapter: "Chapter 2: Globe: Latitudes and Longitudes",
+    question: "How does the distance between two meridians of longitude change as one travels from the Equator towards the Poles?",
+    options: [
+      "The distance steadily decreases until it becomes zero at the poles where all meridians converge",
+      "The distance increases",
+      "The distance remains constant everywhere",
+      "It doubles at 45° latitude"
+    ],
+    correctAnswer: 0,
+    difficulty: "MEDIUM",
+    damage: 250,
+    explanation: "Meridians are semi-circles converging at the poles; inter-meridian distance is maximum at Equator (~111 km) and 0 at poles."
+  },
+  {
+    classLevel: 6,
+    subject: "Social Science",
+    chapter: "Chapter 2: Globe: Latitudes and Longitudes",
+    question: "As the Earth rotates 360° on its axis in 24 hours, how many degrees of longitude does it rotate in ONE hour?",
+    options: ["15° per hour (360° ÷ 24 = 15°)", "10° per hour", "20° per hour", "1° per hour"],
+    correctAnswer: 0,
+    difficulty: "MEDIUM",
+    damage: 250,
+    explanation: "Earth rotates 360° in 24 hours = 15° longitude per 60 minutes = 1° longitude every 4 minutes."
+  },
+  {
+    classLevel: 6,
+    subject: "Social Science",
+    chapter: "Chapter 2: Globe: Latitudes and Longitudes",
+    question: "How much time difference corresponds to a difference of 1° of longitude?",
+    options: ["4 minutes", "15 minutes", "1 hour", "1 minute"],
+    correctAnswer: 0,
+    difficulty: "MEDIUM",
+    damage: 250,
+    explanation: "60 minutes ÷ 15° = 4 minutes per 1° change in terrestrial longitude."
+  },
+  {
+    classLevel: 6,
+    subject: "Social Science",
+    chapter: "Chapter 2: Globe: Latitudes and Longitudes",
+    question: "What is the official Standard Meridian of India chosen to fix the Indian Standard Time (IST)?",
+    options: ["82° 30' E (82½° East passing through Mirzapur, UP)", "80° E", "75° E", "90° E"],
+    correctAnswer: 0,
+    difficulty: "MEDIUM",
+    damage: 250,
+    explanation: "82°30' E passing through Mirzapur/Prayagraj is the official Standard Meridian of India."
+  },
+  {
+    classLevel: 6,
+    subject: "Social Science",
+    chapter: "Chapter 2: Globe: Latitudes and Longitudes",
+    question: "How much is Indian Standard Time (IST) ahead of Greenwich Mean Time (GMT)?",
+    options: ["5 hours and 30 minutes ahead (+5:30)", "5 hours behind", "6 hours ahead", "4 hours and 30 minutes ahead"],
+    correctAnswer: 0,
+    difficulty: "MEDIUM",
+    damage: 250,
+    explanation: "82.5° × 4 minutes = 330 minutes = +5 hours 30 minutes ahead of Greenwich (0°)."
+  },
+  {
+    classLevel: 6,
+    subject: "Social Science",
+    chapter: "Chapter 2: Globe: Latitudes and Longitudes",
+    question: "What is the approximate local time difference between Dwarka in Gujarat (western tip) and Dibrugarh in Assam (eastern tip) of India?",
+    options: ["About 1 hour and 45 minutes", "30 minutes", "3 hours", "Zero minutes"],
+    correctAnswer: 0,
+    difficulty: "MEDIUM",
+    damage: 250,
+    explanation: "India spans ~30° longitude (68°7' E to 97°25' E); 30° × 4 min = 120 min ≈ 1 hr 45 min local solar time difference."
+  },
+  {
+    classLevel: 6,
+    subject: "Social Science",
+    chapter: "Chapter 2: Globe: Latitudes and Longitudes",
+    question: "Why do places situated to the EAST of Greenwich gain time and are ahead of GMT?",
+    options: [
+      "Because Earth rotates on its axis from West to East, so eastern places experience sunrise earlier",
+      "Because the Sun rotates from East to West",
+      "Because Greenwich is at the highest mountain",
+      "Because clocks run faster in the east"
+    ],
+    correctAnswer: 0,
+    difficulty: "MEDIUM",
+    damage: 250,
+    explanation: "Prograde west-to-east axial spin brings eastern longitudes into solar view ahead of western coordinates."
+  },
+  {
+    classLevel: 6,
+    subject: "Social Science",
+    chapter: "Chapter 2: Globe: Latitudes and Longitudes",
+    question: "Which of the following thermal zones lies between the Tropic of Cancer (23½° N) and the Arctic Circle (66½° N)?",
+    options: ["North Temperate Zone (moderate climate)", "Torrid Zone", "North Frigid Zone", "South Temperate Zone"],
+    correctAnswer: 0,
+    difficulty: "MEDIUM",
+    damage: 250,
+    explanation: "The Temperate Zones experience moderate temperatures with neither extreme tropical heat nor polar freezing."
+  },
+  {
+    classLevel: 6,
+    subject: "Social Science",
+    chapter: "Chapter 2: Globe: Latitudes and Longitudes",
+    question: "What happens to the size / circumference of the parallels of latitude as we move from the Equator towards the poles?",
+    options: [
+      "The length of the parallel circles decreases progressively until they become mere points at the poles",
+      "They become larger",
+      "They stay the exact same size",
+      "They become straight lines"
+    ],
+    correctAnswer: 0,
+    difficulty: "MEDIUM",
+    damage: 250,
+    explanation: "Parallels are small circles of radius R·cos(θ); circumference shrinks to zero at θ = 90° (poles)."
+  },
+  {
+    classLevel: 6,
+    subject: "Social Science",
+    chapter: "Chapter 2: Globe: Latitudes and Longitudes",
+    question: "If it is 12:00 Noon at Greenwich (0°), what will be the local solar time at 15° East longitude?",
+    options: ["1:00 PM (13:00 hours)", "11:00 AM", "2:00 PM", "12:15 PM"],
+    correctAnswer: 0,
+    difficulty: "MEDIUM",
+    damage: 250,
+    explanation: "15° East is ahead by 15 × 4 min = 60 min (1 hour); 12:00 Noon + 1 hour = 1:00 PM."
+  },
+  {
+    classLevel: 6,
+    subject: "Social Science",
+    chapter: "Chapter 2: Globe: Latitudes and Longitudes",
+    question: "If it is 12:00 Noon at Greenwich (0°), what will be the local solar time at 15° West longitude?",
+    options: ["11:00 AM", "1:00 PM", "10:00 AM", "12:15 PM"],
+    correctAnswer: 0,
+    difficulty: "MEDIUM",
+    damage: 250,
+    explanation: "15° West is behind by 15 × 4 min = 60 min (1 hour); 12:00 Noon - 1 hour = 11:00 AM."
+  },
+  {
+    classLevel: 6,
+    subject: "Social Science",
+    chapter: "Chapter 2: Globe: Latitudes and Longitudes",
+    question: "How many standard time zones has the world been divided into, each spanning 15° of longitude?",
+    options: ["24 standard time zones", "12 time zones", "36 time zones", "10 time zones"],
+    correctAnswer: 0,
+    difficulty: "MEDIUM",
+    damage: 250,
+    explanation: "The planet is divided into 24 standard 1-hour time zones of 15° longitudinal width each (24 × 15° = 360°)."
+  },
+  {
+    classLevel: 6,
+    subject: "Social Science",
+    chapter: "Chapter 2: Globe: Latitudes and Longitudes",
+    question: "Which country has the maximum number of standard time zones (11 time zones) due to its vast longitudinal extent?",
+    options: ["Russia", "India", "China", "Australia"],
+    correctAnswer: 0,
+    difficulty: "MEDIUM",
+    damage: 250,
+    explanation: "Spanning over 160° of longitude across Eurasia, Russia is divided into 11 official standard time zones."
+  },
+  {
+    classLevel: 6,
+    subject: "Social Science",
+    chapter: "Chapter 2: Globe: Latitudes and Longitudes",
+    question: "What is the angle of tilt of the Earth's rotational axis from its orbital plane vertical?",
+    options: ["23½° (making an angle of 66½° with its orbital plane)", "45°", "0°", "90°"],
+    correctAnswer: 0,
+    difficulty: "MEDIUM",
+    damage: 250,
+    explanation: "Earth's rotational axis maintains a fixed 23.5° obliquity tilt from the perpendicular to its ecliptic orbital plane."
+  },
+  {
+    classLevel: 6,
+    subject: "Social Science",
+    chapter: "Chapter 2: Globe: Latitudes and Longitudes",
+    question: "If a cricket match starts in London at 2:00 PM GMT, at what time will Indian viewers watch it live on TV (IST = GMT + 5:30)?",
+    options: ["7:30 PM IST", "5:30 PM IST", "8:00 PM IST", "12:30 PM IST"],
+    correctAnswer: 0,
+    difficulty: "MEDIUM",
+    damage: 250,
+    explanation: "2:00 PM + 5 hours 30 minutes = 7:30 PM IST in the evening."
+  },
+
+  // HARD (12)
+  {
+    classLevel: 6,
+    subject: "Social Science",
+    chapter: "Chapter 2: Globe: Latitudes and Longitudes",
+    question: "Read the statements:\nAssertion (A): All meridians of longitude are equal in length, while parallels of latitude are unequal in length.\nReason (R): Longitudes are semi-circles running from the North Pole to the South Pole, whereas latitudes are complete concentric circles whose circumferences shrink towards the poles.\nChoose the correct option:",
+    "options": [
+      "Both (A) and (R) are true, and (R) is the correct explanation of (A).",
+      "Both (A) and (R) are true, but (R) is NOT the correct explanation of (A).",
+      "(A) is true, but (R) is false.",
+      "(A) is false, but (R) is true."
+    ],
+    correctAnswer: 0,
+    difficulty: "HARD",
+    damage: 350,
+    explanation: "Every meridian is a pole-to-pole semi-circle (equal length ~20,000 km), whereas latitude circles shrink from 40,075 km at Equator to 0 km at poles."
+  },
+  {
+    classLevel: 6,
+    subject: "Social Science",
+    chapter: "Chapter 2: Globe: Latitudes and Longitudes",
+    question: "Spot the IMPOSTER in the following list of important parallels of latitude and their values:\nGroup: [Tropic of Cancer - 23½° N, Tropic of Capricorn - 23½° S, Arctic Circle - 66½° N, Antarctic Circle - 66½° N]",
+    "options": ["Tropic of Cancer - 23½° N", "Tropic of Capricorn - 23½° S", "Arctic Circle - 66½° N", "Antarctic Circle - 66½° N"],
+    correctAnswer: 3,
+    difficulty: "HARD",
+    damage: 350,
+    explanation: "'Antarctic Circle - 66½° N' is false; the Antarctic Circle is located at 66½° SOUTH (66° 30' S), not North."
+  },
+  {
+    classLevel: 6,
+    subject: "Social Science",
+    chapter: "Chapter 2: Globe: Latitudes and Longitudes",
+    question: "A ship captain reports his position as 0° Latitude and 0° Longitude. Where is this vessel located on Earth?",
+    "options": [
+      "In the Atlantic Ocean off the coast of West Africa (Gulf of Guinea)",
+      "In the middle of the Indian Ocean",
+      "On the top of Mount Everest",
+      "In the Pacific Ocean"
+    ],
+    correctAnswer: 0,
+    difficulty: "HARD",
+    damage: 350,
+    explanation: "The intersection of the Equator (0° Lat) and the Prime Meridian (0° Long) is located in the Gulf of Guinea (Null Island) in the Atlantic Ocean."
+  },
+  {
+    classLevel: 6,
+    subject: "Social Science",
+    chapter: "Chapter 2: Globe: Latitudes and Longitudes",
+    question: "Why does the mid-day sun NEVER shine directly overhead on any latitude beyond the Tropic of Cancer and Tropic of Capricorn?",
+    "options": [
+      "Because the maximum axial tilt of the Earth is 23½°, so subsolar point oscillations are bounded strictly between 23½° N and 23½° S",
+      "Because poles are too cold for sunlight",
+      "Because Earth is flat at the edges",
+      "Because the Sun shrinks in winter"
+    ],
+    correctAnswer: 0,
+    difficulty: "HARD",
+    damage: 350,
+    explanation: "Declination of the Sun is limited by Earth's 23.5° axial obliquity; hence zenith sun is impossible at latitudes > 23.5°."
+  },
+  {
+    classLevel: 6,
+    subject: "Social Science",
+    chapter: "Chapter 2: Globe: Latitudes and Longitudes",
+    question: "Match Column I (Locations) with Column II (Coordinates):\n(a) Equator          -> (i) 90° S\n(b) South Pole       -> (ii) 0° Longitude\n(c) Prime Meridian   -> (iii) 0° Latitude\n(d) 180° Meridian    -> (iv) International Date Line line of longitude",
+    "options": [
+      "a-(iii), b-(i), c-(ii), d-(iv)",
+      "a-(i), b-(ii), c-(iii), d-(iv)",
+      "a-(iv), b-(iii), c-(ii), d-(i)",
+      "a-(ii), b-(iv), c-(i), d-(iii)"
+    ],
+    correctAnswer: 0,
+    difficulty: "HARD",
+    damage: 350,
+    explanation: "Equator = 0° Lat; South Pole = 90° S; Prime Meridian = 0° Long; 180° Meridian = Antimeridian/Date Line."
+  },
+  {
+    classLevel: 6,
+    subject: "Social Science",
+    chapter: "Chapter 2: Globe: Latitudes and Longitudes",
+    question: "Read the statements:\nStatement 1: The Prime Meridian and the 180° Meridian together form a complete Great Circle dividing Earth into Eastern and Western Hemispheres.\nStatement 2: 180° East and 180° West are on the same meridian line.\nStatement 3: Parallels of latitude meet each other at the equator.\nWhich statements are TRUE?",
+    "options": ["Statements 1 and 2 only", "Statements 2 and 3 only", "Statements 1 and 3 only", "All Statements 1, 2, and 3"],
+    correctAnswer: 0,
+    difficulty: "HARD",
+    damage: 350,
+    explanation: "Statement 3 is false because parallels of latitude are concentric and NEVER intersect each other. Statements 1 and 2 are true."
+  },
+  {
+    classLevel: 6,
+    subject: "Social Science",
+    chapter: "Chapter 2: Globe: Latitudes and Longitudes",
+    question: "Town X is located at 30° East longitude and Town Y is located at 60° West longitude. What is the total time difference between Town X and Town Y?",
+    "options": ["6 hours (90° total difference × 4 min = 360 min)", "2 hours", "4 hours", "8 hours"],
+    correctAnswer: 0,
+    difficulty: "HARD",
+    damage: 350,
+    explanation: "Longitudinal separation = 30° + 60° = 90°. Time difference = 90 × 4 min = 360 minutes = 6 hours."
+  },
+  {
+    classLevel: 6,
+    subject: "Social Science",
+    chapter: "Chapter 2: Globe: Latitudes and Longitudes",
+    question: "Why did India adopt ONE single Standard Time (IST) across the entire country instead of multiple local time zones?",
+    "options": [
+      "To avoid immense confusion in nationwide railway timetables, flights, banking, and television broadcasts",
+      "Because India is only 1 km wide",
+      "Because clocks cannot be changed",
+      "Because the Sun rises at the same minute across India"
+    ],
+    correctAnswer: 0,
+    difficulty: "HARD",
+    damage: 350,
+    explanation: "A uniform national reference meridian (82.5° E) harmonizes logistical schedules across transport, administration, and commerce."
+  },
+  {
+    classLevel: 6,
+    subject: "Social Science",
+    chapter: "Chapter 2: Globe: Latitudes and Longitudes",
+    question: "Both Tonga Islands (in Pacific Ocean) and Mauritius Islands (in Indian Ocean) are situated on 20° S latitude. How do navigators distinguish their exact positions?",
+    "options": [
+      "By referencing their specific longitudes (East or West of the Prime Meridian)",
+      "By looking at ocean waves",
+      "By measuring air temperature only",
+      "They cannot be distinguished"
+    ],
+    correctAnswer: 0,
+    difficulty: "HARD",
+    damage: 350,
+    explanation: "A 2D coordinate fix requires BOTH latitude (Y-axis parallel) AND longitude (X-axis meridian) coordinates."
+  },
+  {
+    classLevel: 6,
+    subject: "Social Science",
+    chapter: "Chapter 2: Globe: Latitudes and Longitudes",
+    question: "What is the key difference between the Torrid Zone and the Frigid Zone regarding insolation?",
+    "options": [
+      "Torrid Zone receives direct vertical solar rays with high energy density; Frigid Zone receives oblique slanting rays spread over vast areas with severe reflection",
+      "Torrid Zone has no night",
+      "Frigid Zone is closer to the Sun",
+      "Torrid Zone is in outer space"
+    ],
+    correctAnswer: 0,
+    difficulty: "HARD",
+    damage: 350,
+    explanation: "Lambert's cosine law: vertical rays deliver concentrated flux per unit area, while acute slanting rays dilute radiative heating."
+  },
+  {
+    classLevel: 6,
+    subject: "Social Science",
+    chapter: "Chapter 2: Globe: Latitudes and Longitudes",
+    question: "Which of the following continents does the Equator, Tropic of Cancer, AND Tropic of Capricorn ALL pass through?",
+    "options": ["Africa", "Asia", "South America", "Australia"],
+    correctAnswer: 0,
+    difficulty: "HARD",
+    damage: 350,
+    explanation: "Africa is the only continent on Earth traversed by all three primary latitude lines: Cancer (N), Equator, and Capricorn (S)."
+  },
+  {
+    classLevel: 6,
+    subject: "Social Science",
+    chapter: "Chapter 2: Globe: Latitudes and Longitudes",
+    question: "If a traveler crosses the 180° International Date Line traveling from West to East (e.g. from Japan to USA), what calendar adjustment must they make?",
+    "options": [
+      "They repeat one calendar day (gain a day / subtract 24 hours from date)",
+      "They lose one calendar day (add 24 hours)",
+      "Clocks stop working",
+      "They travel 100 years into the future"
+    ],
+    correctAnswer: 0,
+    difficulty: "HARD",
+    damage: 350,
+    explanation: "Crossing eastward into the Western Hemisphere steps back across the antimeridian, repeating that calendar date."
+  }
+];
+
+console.log('Generated Social Science Ch2:', socialQuestions.length);
+fs.writeFileSync('C:/EduVerse/class 6/cross_subject/social_ch2.json', JSON.stringify(socialQuestions, null, 2), 'utf8');

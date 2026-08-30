@@ -1,0 +1,3842 @@
+[
+  {
+    "classLevel": 7,
+    "subject": "Science",
+    "chapter": "Chapter 2: Nutrition in Animals",
+    "question": "The process of taking food into the body through the mouth is called:",
+    "options": [
+      "Ingestion",
+      "Digestion",
+      "Absorption",
+      "Egestion"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "Ingestion is the initial physiological step of taking food into the buccal cavity/oral mouth."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Science",
+    "chapter": "Chapter 2: Nutrition in Animals",
+    "question": "The breakdown of complex, insoluble food substances into simpler, soluble absorbable molecules is called:",
+    "options": [
+      "Digestion",
+      "Ingestion",
+      "Assimilation",
+      "Respiration"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "Digestion is the biochemical and mechanical hydrolysis of complex food polymers into absorbable monomer units."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Science",
+    "chapter": "Chapter 2: Nutrition in Animals",
+    "question": "What is the continuous muscular canal starting at the buccal cavity and ending at the anus called?",
+    "options": [
+      "Alimentary Canal (Digestive Tract)",
+      "Respiratory Tract",
+      "Circulatory System",
+      "Spinal Cord"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "The alimentary canal is the continuous ~9-metre muscular digestive tube extending from mouth to anus."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Science",
+    "chapter": "Chapter 2: Nutrition in Animals",
+    "question": "Which flat, chisel-shaped front teeth are specialized for BITING and CUTTING food?",
+    "options": [
+      "Incisors",
+      "Canines",
+      "Premolars",
+      "Molars"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "Incisors (4 in each jaw = 8 total) have sharp chisel edges designed for cutting and biting food."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Science",
+    "chapter": "Chapter 2: Nutrition in Animals",
+    "question": "Which sharp, pointed teeth situated next to the incisors are specialized for PIERCING and TEARING tough food/meat?",
+    "options": [
+      "Canines",
+      "Incisors",
+      "Molars",
+      "Premolars"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "Canines (2 in each jaw = 4 total) possess pointed conical cusps adapted for tearing."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Science",
+    "chapter": "Chapter 2: Nutrition in Animals",
+    "question": "Which broad, flat teeth with ridged surfaces at the back of the jaw are specialized for CHEWING and GRINDING food?",
+    "options": [
+      "Premolars and Molars",
+      "Incisors and Canines",
+      "Only Canines",
+      "Only Incisors"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "Premolars (8 total) and Molars (12 total including wisdom teeth) crush and grind food."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Science",
+    "chapter": "Chapter 2: Nutrition in Animals",
+    "question": "What digestive fluid is secreted by the Salivary Glands into the mouth to moisten food and break down starch into simple sugars?",
+    "options": [
+      "Saliva (containing Salivary Amylase)",
+      "Bile juice",
+      "Gastric juice",
+      "Pancreatic juice"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "Saliva contains ptyalin/amylase which initiates the chemical digestion of starch into maltose sugar."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Science",
+    "chapter": "Chapter 2: Nutrition in Animals",
+    "question": "What acid is secreted by the inner lining of the Stomach to kill harmful bacteria ingested with food and provide an acidic medium for pepsin?",
+    "options": [
+      "Hydrochloric Acid (HCl)",
+      "Sulfuric Acid",
+      "Citric Acid",
+      "Nitric Acid"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "Gastric parietal cells secrete dilute HCl (pH ~1.5–2) to kill pathogens and activate the protein enzyme pepsin."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Science",
+    "chapter": "Chapter 2: Nutrition in Animals",
+    "question": "Which is the LARGEST gland in the human body, reddish-brown in color, situated in the upper abdomen on the right side?",
+    "options": [
+      "Liver",
+      "Pancreas",
+      "Thyroid",
+      "Pituitary"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "The liver is the heaviest internal metabolic gland (~1.5 kg in adults), secreting bile for fat emulsification."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Science",
+    "chapter": "Chapter 2: Nutrition in Animals",
+    "question": "Where is Bile juice stored in the body before being released into the small intestine?",
+    "options": [
+      "Gall Bladder",
+      "Stomach",
+      "Pancreas",
+      "Large Intestine"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "Bile secreted by hepatic cells is concentrated and stored inside the muscular sac-like Gall Bladder."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Science",
+    "chapter": "Chapter 2: Nutrition in Animals",
+    "question": "What are the thousands of tiny, finger-like outgrowths on the inner walls of the Small Intestine that dramatically increase the surface area for food absorption called?",
+    "options": [
+      "Villi (singular: Villus)",
+      "Cilia",
+      "Pseudopodia",
+      "Flagella"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "Intestinal villi and microvilli expand internal surface area multi-hundredfold, lined with rich capillary networks for nutrient absorption."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Science",
+    "chapter": "Chapter 2: Nutrition in Animals",
+    "question": "How does the microscopic single-celled organism Amoeba capture and engulf its food?",
+    "options": [
+      "By extending finger-like false feet called Pseudopodia around the food particle to form a Food Vacuole",
+      "Using sharp teeth",
+      "Through a wide mouth",
+      "By swimming with fins"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "Amoeba uses cytoplasmic streaming to extend pseudopodia, engulfing prey by phagocytosis into a food vacuole."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Science",
+    "chapter": "Chapter 2: Nutrition in Animals",
+    "question": "Why do cows, buffaloes, and other grass-eating animals chew continuously even when they are resting and not eating fresh grass?",
+    "options": [
+      "They quickly swallow grass into the Rumen where it is partially digested into 'Cud'; later, cud returns to the mouth in small lumps for thorough chewing (Rumination)",
+      "Because their teeth never stop growing",
+      "Because they are chewing bubblegum",
+      "To make grass colder"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "Ruminants regurgitate cud from the rumen back to the buccal cavity for secondary mastication and enzymatic breakdown."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Science",
+    "chapter": "Chapter 2: Nutrition in Animals",
+    "question": "Why can ruminant animals (cows, goats) digest tough plant Cellulose while human beings CANNOT digest cellulose at all?",
+    "options": [
+      "Ruminants have a large sac-like Caecum containing specialized symbiotic anaerobic bacteria and protozoa that produce cellulose-digesting enzymes (cellulase), which humans lack",
+      "Because humans have smaller teeth than cows",
+      "Because human stomachs have no acid",
+      "Because cows drink more water"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "Ruminant caecum/rumen harbors cellulolytic microbes breaking β-1,4-glycosidic cellulose bonds, which humans pass as dietary fiber."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Science",
+    "chapter": "Chapter 2: Nutrition in Animals",
+    "question": "What protects the delicate inner wall lining of the Stomach from being corroded and digested by its own potent Hydrochloric Acid?",
+    "options": [
+      "A thick, slippery protective layer of Mucous secreted by gastric mucosal cells",
+      "A layer of plastic",
+      "Saliva from the mouth",
+      "Bile juice"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "Gastric epithelial mucous cells secrete a bicarbonate-rich mucosal barrier protecting against acid-peptic autodigestion."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Science",
+    "chapter": "Chapter 2: Nutrition in Animals",
+    "question": "What is the wave-like muscular contraction and relaxation of the walls of the Food Pipe (Oesophagus) that pushes swallowed food down into the stomach called?",
+    "options": [
+      "Peristalsis (Peristaltic Movement)",
+      "Circulation",
+      "Respiration",
+      "Filtration"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "Peristalsis is the rhythmic, coordinated involuntary contraction of longitudinal and circular gastrointestinal muscles."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Science",
+    "chapter": "Chapter 2: Nutrition in Animals",
+    "question": "What crucial digestive role does Bile Juice play in the digestion of dietary FATS in the small intestine?",
+    "options": [
+      "It emulsifies large fat globules into tiny micro-droplets, dramatically increasing the surface area for pancreatic lipase enzymes to break down fats into fatty acids and glycerol",
+      "It converts fats directly into proteins",
+      "It turns fats into solid bones",
+      "It freezes fats so they cannot enter blood"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "Bile salts (sodium glycocholate/taurocholate) act as biological detergents, emulsifying lipid triglycerides for lipase action."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Science",
+    "chapter": "Chapter 2: Nutrition in Animals",
+    "question": "What is 'Tooth Decay' (Dental Caries) and what causes it?",
+    "options": [
+      "Bacteria present in mouth feed on leftover sugary food particles and produce corrosive ACIDS that gradually dissolve the hard calcium enamel and dentine",
+      "Eating too many green vegetables",
+      "Brushing teeth with toothpaste twice a day",
+      "Drinking cold water"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "Streptococcus mutans ferment oral sucrose into lactic acid, demineralizing hydroxyapatite enamel below critical pH 5.5."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Science",
+    "chapter": "Chapter 2: Nutrition in Animals",
+    "question": "What is the primary physiological function of the LARGE INTESTINE in the human digestive system?",
+    "options": [
+      "Absorption of water and essential mineral salts from unabsorbed, undigested food matter, forming solid fecal waste for egestion",
+      "Complete digestion of proteins and fats",
+      "Secretion of hydrochloric acid",
+      "Pumping blood to the heart"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "The colon/large intestine reabsorbs ~90% of residual luminal water and electrolytes, consolidating solid feces."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Science",
+    "chapter": "Chapter 2: Nutrition in Animals",
+    "question": "What is 'Assimilation' in animal nutrition?",
+    "options": [
+      "The transport and utilization of absorbed nutrient molecules by body cells to build complex tissues (proteins, cell membranes) and release energy for growth",
+      "The removal of undigested feces through anus",
+      "Chewing food in mouth",
+      "Swallowing water"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "Assimilation is the cellular anabolic incorporation of absorbed amino acids, monosaccharides, and fatty acids into living protoplasm."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Science",
+    "chapter": "Chapter 2: Nutrition in Animals",
+    "question": "What happens during severe Diarrhoea, and why is administering Oral Rehydration Solution (ORS) life-saving?",
+    "options": [
+      "Severe diarrhoea causes rapid, life-threatening loss of water and vital electrolytes (dehydration); ORS restores fluid, sodium, and glucose balance rapidly",
+      "ORS makes a person sleepy",
+      "ORS changes blood into milk",
+      "Diarrhoea is harmless and needs no water"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "ORS exploits intestinal sodium-glucose co-transport mechanisms (SGLT1) to rapidly rehydrate hypovolemic patients."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Science",
+    "chapter": "Chapter 2: Nutrition in Animals",
+    "question": "How does the unique marine animal Starfish (Asterias) feed on hard-shelled mollusks (clams and oysters)?",
+    "options": [
+      "It pries open the shell, pops its own stomach OUT through its mouth into the shell to digest the soft animal inside, and then pulls its stomach back in",
+      "It swallows the whole shell and crushes it with teeth",
+      "It drills a hole with a laser",
+      "It injects poison and waits for 10 years"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "Starfish exhibit extraordinary eversible cardiac stomach feeding: everting stomach into bivalve shells for external enzymatic digestion."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Science",
+    "chapter": "Chapter 2: Nutrition in Animals",
+    "question": "What is the historical medical discovery made by American doctor William Beaumont in 1822 through the unhealed gunshot stomach wound of Alexis St. Martin?",
+    "options": [
+      "He directly observed that the stomach walls churn food mechanically, secrete digestive acid/juices, and digestion proceeds only when food is exposed to these fluids",
+      "He discovered that the stomach is made of bone",
+      "He found that food turns into gold inside",
+      "He proved the stomach has teeth"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "Dr. Beaumont's pioneering gastric fistula experiments laid the empirical foundation of human gastrointestinal physiology."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Science",
+    "chapter": "Chapter 2: Nutrition in Animals",
+    "question": "What are the four primary taste modalities detected by taste buds located on different regional zones of the human Tongue?",
+    "options": [
+      "Sweet, Sour, Salty, and Bitter",
+      "Hot, Cold, Wet, and Dry",
+      "Soft, Hard, Rough, and Smooth",
+      "Red, Blue, Green, and Yellow"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "Gustatory papillae taste buds detect Sweet, Salty, Sour, Bitter (and Umami) gustatory modalities."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Science",
+    "chapter": "Chapter 2: Nutrition in Animals",
+    "question": "Into what simpler, absorbable end-products are the three major food components broken down during complete digestion in the small intestine?",
+    "options": [
+      "Carbohydrates -> Glucose ; Proteins -> Amino Acids ; Fats -> Fatty Acids and Glycerol",
+      "Carbohydrates -> Starch ; Proteins -> Meat ; Fats -> Oil",
+      "All three turn into pure water",
+      "Carbohydrates -> Carbon ; Proteins -> Nitrogen ; Fats -> Oxygen"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "Terminal enzymatic hydrolysis yields absorbable monomer units: glucose/monosaccharides, amino acids, and fatty acids/glycerol."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Science",
+    "chapter": "Chapter 2: Nutrition in Animals",
+    "question": "Why does chewing a piece of dry plain bread or boiled rice for several minutes without swallowing make it taste increasingly SWEET in the mouth?",
+    "options": [
+      "Salivary amylase enzyme present in saliva breaks down complex, tasteless starch molecules into sweet-tasting maltose sugar",
+      "Because teeth have sugar crystals",
+      "Because bread absorbs sugar from air",
+      "Because saliva turns into honey"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "Oral mastication blends salivary amylase with starch, hydrolyzing poly-saccharides into sweet disaccharide maltose."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Science",
+    "chapter": "Chapter 2: Nutrition in Animals",
+    "question": "What is the 'Milk Teeth' set in human children, and at what age are they replaced by the permanent adult dentition?",
+    "options": [
+      "The first temporary set of 20 deciduous teeth that erupt in infancy and fall off between the ages of 6 and 8 years",
+      "Teeth made of dried milk",
+      "Teeth that never fall out",
+      "Adult teeth that appear at age 40"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "Deciduous milk teeth (20 in total) shed sequentially between 6–8 years as secondary permanent teeth erupt."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Science",
+    "chapter": "Chapter 2: Nutrition in Animals",
+    "question": "Why do we cough or choke violently if we laugh or talk hurriedly while swallowing food?",
+    "options": [
+      "The flap-like Epiglottis fails to close the windpipe (trachea) entrance in time, allowing food particles to enter the windpipe and triggering the coughing reflex",
+      "Because food hits the ears",
+      "Because teeth bite the tongue",
+      "Because the stomach is full of air"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "Laryngeal epiglottic closure guards the glottis during deglutition; talking diverts food into the trachea, invoking the protective cough reflex."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Science",
+    "chapter": "Chapter 2: Nutrition in Animals",
+    "question": "Read the statements:\nAssertion (A): The small intestine (~7.5 metres long) is the principal site for the COMPLETE digestion and maximum absorption of all dietary nutrients in the human body.\nReason (R): It receives digestive secretions from both the Liver (bile) and Pancreas (pancreatic amylase, trypsin, lipase) alongside its own intestinal brush-border succus entericus enzymes, and contains millions of highly vascularized villi.\nChoose the correct option:",
+    "options": [
+      "Both (A) and (R) are true, and (R) is the correct explanation of (A).",
+      "Both (A) and (R) are true, but (R) is NOT the correct explanation of (A).",
+      "(A) is true, but (R) is false.",
+      "(A) is false, but (R) is true."
+    ],
+    "correctAnswer": 0,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "The small intestine couples comprehensive enzymatic hydrolysis with expansive microvillar surface area for total absorption."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Science",
+    "chapter": "Chapter 2: Nutrition in Animals",
+    "question": "Spot the IMPOSTER in the following sequence of steps in Animal Nutrition:\nCorrect Sequence: [Ingestion -> Digestion -> Absorption -> Assimilation -> Egestion]\nGroup tested:\n1. Ingestion - Taking in food\n2. Absorption - Cellular use of food to release energy and build protoplasm\n3. Digestion - Breakdown of complex molecules\n4. Egestion - Expulsion of fecal undigested waste",
+    "options": [
+      "Statement 1",
+      "Statement 2 (Absorption is taking nutrients into blood ; Assimilation is cellular utilization)",
+      "Statement 3",
+      "Statement 4"
+    ],
+    "correctAnswer": 1,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "Statement 2 falsely defines Absorption with the definition of Assimilation. Absorption is the passage of nutrients into intestinal capillaries/lymph."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Science",
+    "chapter": "Chapter 2: Nutrition in Animals",
+    "question": "A student sets up two test tubes:\nTest Tube A: 1 teaspoon of boiled starch (rice water) + 2 drops of Iodine solution.\nTest Tube B: 1 teaspoon of boiled starch chewed in mouth for 4 minutes + 2 drops of Iodine solution.\nWhat will be the observed color in both tubes?",
+    "options": [
+      "Test Tube A turns deep Blue-Black (starch present) ; Test Tube B shows NO blue-black color (remains pale yellowish-brown because salivary amylase broke starch down into sugar)",
+      "Both turn deep blue-black",
+      "Neither tube shows any color change",
+      "Test Tube B turns blue-black and Tube A remains clear"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "Salivary amylase in Test Tube B enzymatically hydrolyzes starch into non-reactive maltose, testing negative with iodine."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Science",
+    "chapter": "Chapter 2: Nutrition in Animals",
+    "question": "Match Column I (Digestive Organs) with Column II (Primary Biochemical Functions):\n(a) Buccal Cavity   -> (i) Hydrochloric acid & pepsin protein digestion\n(b) Stomach         -> (ii) Emulsification of fats via bile juice\n(c) Liver           -> (iii) Complete digestion & villi nutrient absorption\n(d) Small Intestine -> (iv) Mastication & starch digestion by salivary amylase",
+    "options": [
+      "a-(iv), b-(i), c-(ii), d-(iii)",
+      "a-(i), b-(iv), c-(iii), d-(ii)",
+      "a-(ii), b-(iii), c-(iv), d-(i)",
+      "a-(iii), b-(ii), c-(i), d-(iv)"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "Mouth = starch hydrolysis; Stomach = HCl/protein; Liver = bile emulsification; Small Intestine = terminal absorption."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Science",
+    "chapter": "Chapter 2: Nutrition in Animals",
+    "question": "Read the statements regarding animal digestion:\nStatement 1: Amoeba digests its food inside a temporary intracellular food vacuole using lysosomal digestive enzymes.\nStatement 2: The small intestine in adult humans is wider in diameter than the large intestine.\nStatement 3: In ruminants, the true stomach chamber where gastric juices act on food is called the Abomasum.\nWhich statements are TRUE?",
+    "options": [
+      "Statements 1 and 3 only",
+      "Statements 1 and 2 only",
+      "Statements 2 and 3 only",
+      "All Statements 1, 2, and 3"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "Statement 2 is false because the small intestine is NARROWER in diameter than the large intestine (hence named 'small'). Statements 1 and 3 are true."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Science",
+    "chapter": "Chapter 2: Nutrition in Animals",
+    "question": "Consider the anatomical dental formula of an adult human with 32 permanent teeth:\nHow many Incisors, Canines, Premolars, and Molars are present in the ENTIRE mouth (both upper and lower jaws combined)?",
+    "options": [
+      "Incisors: 8 ; Canines: 4 ; Premolars: 8 ; Molars: 12 (Dental formula: 2-1-2-3 / 2-1-2-3 × 2 = 32)",
+      "Incisors: 4 ; Canines: 8 ; Premolars: 12 ; Molars: 8",
+      "Incisors: 8 ; Canines: 8 ; Premolars: 8 ; Molars: 8",
+      "Incisors: 10 ; Canines: 2 ; Premolars: 10 ; Molars: 10"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "Human adult heterodont dentition: 8 incisors (2×4), 4 canines (1×4), 8 premolars (2×4), 12 molars (3×4) = 32 teeth."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Science",
+    "chapter": "Chapter 2: Nutrition in Animals",
+    "question": "Why do fatty acids and glycerol absorbed by intestinal villi enter the central Lymphatic Lacteal vessels rather than direct blood capillaries?",
+    "options": [
+      "Water-insoluble fatty acids are re-synthesized into chylomicron lipid droplets inside epithelial cells, which are too large to cross blood capillary pores and enter the wider lacteal lymphatic system",
+      "Because blood destroys all fats immediately",
+      "Because lacteals are made of fat",
+      "Because fats turn into blood in the liver"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "Chylomicrons exit enterocytes via exocytosis, entering permeable lacteal lymphatics for thoracic duct delivery to circulation."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Science",
+    "chapter": "Chapter 2: Nutrition in Animals",
+    "question": "What is the structural and functional similarity between nutrition in the single-celled Amoeba and multi-cellular Human beings?",
+    "options": [
+      "Both require complex food intake, chemical enzymatic breakdown into soluble nutrients, cellular absorption/assimilation, and expulsion of undigested waste",
+      "Both chew food with enamel teeth",
+      "Both possess an 8-meter long alimentary canal",
+      "Both use pseudopodia for swallowing"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "Universal holozoic nutrition across metazoa and protozoa follows identical sequential biochemical phases: ingestion, digestion, absorption, assimilation, egestion."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Science",
+    "chapter": "Chapter 2: Nutrition in Animals",
+    "question": "Why does the Pancreatic Juice contain sodium bicarbonate in addition to digestive enzymes (trypsin, amylase, lipase)?",
+    "options": [
+      "To neutralize the highly acidic chyme arriving from the stomach, creating an optimal ALKALINE medium (pH ~8.0) required for pancreatic enzymes to function",
+      "To make the food spicy",
+      "To cool the stomach down",
+      "To produce bubbles in blood"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "Pancreatic ductal HCO₃⁻ neutralizes gastric HCl, establishing an alkaline duodenal environment (pH 7.8–8.2) for enzyme kinetics."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Science",
+    "chapter": "Chapter 2: Nutrition in Animals",
+    "question": "Consider four physiological events in human digestion:\n1. Emulsification of lipids\n2. Acidic denaturation of proteins by pepsin\n3. Amylase hydrolysis of dietary starch\n4. Reabsorption of water in the colon\nWhat is the correct chronological pathway as food passes through the digestive tract?",
+    "options": [
+      "Event 3 (Mouth) -> Event 2 (Stomach) -> Event 1 (Small Intestine) -> Event 4 (Large Intestine)",
+      "Event 1 -> Event 2 -> Event 3 -> Event 4",
+      "Event 2 -> Event 1 -> Event 4 -> Event 3",
+      "Event 4 -> Event 3 -> Event 2 -> Event 1"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "Chronological transit: Buccal starch breakdown (3) → Gastric pepsin (2) → Duodenal fat emulsification (1) → Colonic water reabsorption (4)."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Science",
+    "chapter": "Chapter 2: Nutrition in Animals",
+    "question": "What is the specialized evolutionary adaptation in Hydra for capturing aquatic prey and injecting paralyzing neurotoxins?",
+    "options": [
+      "Stinging cells called Nematocysts (Cnidocytes) located on its flexible tentacles around the mouth",
+      "Sharp incisor teeth",
+      "Pseudopodia",
+      "A muscular tongue"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "Hydra fires microscopic pressurized nematocyst barbed threads containing hypnotoxin to immobilize aquatic prey."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Science",
+    "chapter": "Chapter 2: Nutrition in Animals",
+    "question": "What overarching biological concept summarizes Chapter 2 of NCERT Class 7 Science?",
+    "options": [
+      "Holozoic animal nutrition is a marvel of evolutionary specialization: diverse organisms possess intricate mechanical and biochemical systems tailored to ingest, hydrolyze, assimilate nutrients, and sustain metabolic life",
+      "All animals have identical stomachs and teeth",
+      "Digestion only happens in mouth",
+      "Animals do not require any enzymes for digestion"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "Chapter 2 synthesizes comparative digestive morphology, biochemical enzyme cascades, and metabolic assimilation across the animal kingdom."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Mathematics",
+    "chapter": "Chapter 2: Fractions and Decimals",
+    "question": "A fraction where the Numerator is strictly LESS than the Denominator (such as 3/5, 7/9) is called a:",
+    "options": [
+      "Proper Fraction",
+      "Improper Fraction",
+      "Mixed Fraction",
+      "Reciprocal"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "In a proper fraction, 0 < numerator < denominator, representing a quantity strictly less than 1 whole."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Mathematics",
+    "chapter": "Chapter 2: Fractions and Decimals",
+    "question": "A fraction where the Numerator is GREATER than or equal to the Denominator (such as 7/4, 9/5) is called an:",
+    "options": [
+      "Improper Fraction",
+      "Proper Fraction",
+      "Decimal Fraction",
+      "Unit Fraction"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "In an improper fraction, numerator ≥ denominator, representing a value ≥ 1."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Mathematics",
+    "chapter": "Chapter 2: Fractions and Decimals",
+    "question": "Convert the improper fraction 17/5 into a Mixed Fraction:",
+    "options": [
+      "3 2/5 (17 ÷ 5 = Quotient 3, Remainder 2)",
+      "3 1/5",
+      "2 3/5",
+      "5 2/3"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "17 ÷ 5 = 3 with remainder 2 → 3 2/5."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Mathematics",
+    "chapter": "Chapter 2: Fractions and Decimals",
+    "question": "What is the product of multiplying two fractions: (2/3) × (5/7)?",
+    "options": [
+      "10/21 ((2 × 5) / (3 × 7) = 10/21)",
+      "7/10",
+      "10/14",
+      "14/15"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "Product of fractions = (Product of numerators) / (Product of denominators) = (2×5)/(3×7) = 10/21."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Mathematics",
+    "chapter": "Chapter 2: Fractions and Decimals",
+    "question": "Evaluate: (1/2) of 24:",
+    "options": [
+      "12 (1/2 × 24 = 12)",
+      "24",
+      "48",
+      "6"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "In mathematics, the operator 'of' represents multiplication: (1/2) × 24 = 12."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Mathematics",
+    "chapter": "Chapter 2: Fractions and Decimals",
+    "question": "What is the non-zero Reciprocal (Multiplicative Inverse) of the fraction 4/9?",
+    "options": [
+      "9/4 (since 4/9 × 9/4 = 1)",
+      "-4/9",
+      "4/9",
+      "1/4"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "The reciprocal of a/b is b/a (inverting numerator and denominator)."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Mathematics",
+    "chapter": "Chapter 2: Fractions and Decimals",
+    "question": "Evaluate the division of fractions: (3/5) ÷ (2/7):",
+    "options": [
+      "21/10 (3/5 × 7/2 = 21/10 = 2 1/10)",
+      "6/35",
+      "10/21",
+      "35/6"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "Dividing by a fraction is multiplying by its reciprocal: (3/5) × (7/2) = 21/10."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Mathematics",
+    "chapter": "Chapter 2: Fractions and Decimals",
+    "question": "What is 2.75 multiplied by 100?",
+    "options": [
+      "275 (Shifting decimal point 2 places to the RIGHT)",
+      "27.5",
+      "2750",
+      "0.0275"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "Multiplying by 100 shifts the decimal point 2 places to the right: 2.75 × 100 = 275."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Mathematics",
+    "chapter": "Chapter 2: Fractions and Decimals",
+    "question": "What is 45.8 divided by 10?",
+    "options": [
+      "4.58 (Shifting decimal point 1 place to the LEFT)",
+      "458",
+      "0.458",
+      "45.8"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "Dividing by 10 shifts the decimal point 1 place to the left: 45.8 ÷ 10 = 4.58."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Mathematics",
+    "chapter": "Chapter 2: Fractions and Decimals",
+    "question": "What is the product: 0.2 × 0.3?",
+    "options": [
+      "0.06 (2 × 3 = 6 ; with 1 + 1 = 2 decimal places)",
+      "0.6",
+      "6.0",
+      "0.006"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "0.2 × 0.3 = (2/10) × (3/10) = 6/100 = 0.06."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Mathematics",
+    "chapter": "Chapter 2: Fractions and Decimals",
+    "question": "What is 7.2 divided by 9?",
+    "options": [
+      "0.8 (72 ÷ 9 = 8 with one decimal place)",
+      "8.0",
+      "0.08",
+      "80"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "7.2 ÷ 9 = 0.8."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Mathematics",
+    "chapter": "Chapter 2: Fractions and Decimals",
+    "question": "Express 7 cm in metres as a decimal (1 m = 100 cm):",
+    "options": [
+      "0.07 m (7/100 m = 0.07 m)",
+      "0.7 m",
+      "7.0 m",
+      "0.007 m"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "7 cm = 7 ÷ 100 = 0.07 m."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Mathematics",
+    "chapter": "Chapter 2: Fractions and Decimals",
+    "question": "Ramesh solved 2/7 part of an exercise while Seema solved 4/5 of it. Who solved a LESSER part?",
+    "options": [
+      "Ramesh solved a lesser part (2/7 = 10/35 ; 4/5 = 28/35 ⇒ 10/35 < 28/35)",
+      "Seema solved a lesser part",
+      "Both solved exactly the same part",
+      "Cannot be compared"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "Converting to common denominator 35: Ramesh = 10/35, Seema = 28/35. Ramesh solved lesser."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Mathematics",
+    "chapter": "Chapter 2: Fractions and Decimals",
+    "question": "Sameera purchased 3 1/2 kg apples and 4 3/4 kg oranges. What is the total weight of fruits purchased by her?",
+    "options": [
+      "8 1/4 kg (7/2 + 19/4 = 14/4 + 19/4 = 33/4 = 8 1/4 kg)",
+      "7 4/6 kg",
+      "8 1/2 kg",
+      "7 3/4 kg"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "3.5 + 4.75 = 8.25 kg = 8 1/4 kg."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Mathematics",
+    "chapter": "Chapter 2: Fractions and Decimals",
+    "question": "A car runs 16 km using 1 litre of petrol. How much distance will it cover using 2 3/4 litres of petrol?",
+    "options": [
+      "44 km (16 × 11/4 = 4 × 11 = 44 km)",
+      "32 km",
+      "48 km",
+      "40 km"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "Distance = 16 × (11/4) = 44 km."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Mathematics",
+    "chapter": "Chapter 2: Fractions and Decimals",
+    "question": "Saili plants 4 saplings in a row in her garden. The distance between two adjacent saplings is 3/4 m. Find the total distance between the FIRST and the LAST sapling:",
+    "options": [
+      "2 1/4 m (There are 3 gaps between 4 saplings ; Distance = 3 × 3/4 = 9/4 = 2 1/4 m)",
+      "3 m",
+      "2 1/2 m",
+      "1 3/4 m"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "4 saplings have (4 - 1) = 3 equal intervals: 3 × (3/4) = 9/4 m = 2 1/4 m."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Mathematics",
+    "chapter": "Chapter 2: Fractions and Decimals",
+    "question": "Lipika reads a book for 1 3/4 hours every day. She reads the entire book in 6 days. How many total hours were required by her to read the book?",
+    "options": [
+      "10 1/2 hours (6 × 7/4 = 42/4 = 21/2 = 10 1/2 hours)",
+      "8 hours",
+      "12 hours",
+      "9 1/4 hours"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "Total hours = 6 × (7/4) = 42/4 = 21/2 = 10 1/2 hours (10.5 hours)."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Mathematics",
+    "chapter": "Chapter 2: Fractions and Decimals",
+    "question": "A picture is 7 3/5 cm wide. To fit in a frame, it cannot be more than 7 3/10 cm wide. How much should the picture be trimmed?",
+    "options": [
+      "3/10 cm (7 3/5 - 7 3/10 = 38/5 - 73/10 = 76/10 - 73/10 = 3/10 cm)",
+      "1/5 cm",
+      "1/10 cm",
+      "2/5 cm"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "7.6 cm - 7.3 cm = 0.3 cm = 3/10 cm."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Mathematics",
+    "chapter": "Chapter 2: Fractions and Decimals",
+    "question": "Find the product: 11.2 × 0.15:",
+    "options": [
+      "1.680 (1.68)",
+      "16.8",
+      "0.168",
+      "168"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "112 × 15 = 1680. Decimal places = 1 + 2 = 3 → 1.680 = 1.68."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Mathematics",
+    "chapter": "Chapter 2: Fractions and Decimals",
+    "question": "Evaluate: 76.5 ÷ 0.15:",
+    "options": [
+      "510 (7650 ÷ 15 = 510)",
+      "51",
+      "5.1",
+      "5100"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "76.5 ÷ 0.15 = 7650 ÷ 15 = 510."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Mathematics",
+    "chapter": "Chapter 2: Fractions and Decimals",
+    "question": "Find the average (mean) of the numbers: 4.2, 3.8, and 7.6:",
+    "options": [
+      "5.2 ((4.2 + 3.8 + 7.6) / 3 = 15.6 / 3 = 5.2)",
+      "5.0",
+      "5.6",
+      "4.8"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "Sum = 4.2 + 3.8 + 7.6 = 15.6. Average = 15.6 ÷ 3 = 5.2."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Mathematics",
+    "chapter": "Chapter 2: Fractions and Decimals",
+    "question": "A two-wheeler covers a distance of 55.3 km in 1 litre of petrol. How much distance will it cover in 10 litres of petrol?",
+    "options": [
+      "553 km (55.3 × 10 = 553 km)",
+      "55.3 km",
+      "5530 km",
+      "5.53 km"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "55.3 × 10 = 553 km."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Mathematics",
+    "chapter": "Chapter 2: Fractions and Decimals",
+    "question": "The side of an equilateral triangle is 3.5 cm. Find its perimeter:",
+    "options": [
+      "10.5 cm (3 × 3.5 = 10.5 cm)",
+      "7.0 cm",
+      "12.25 cm",
+      "14.0 cm"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "Perimeter = 3 × side = 3 × 3.5 = 10.5 cm."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Mathematics",
+    "chapter": "Chapter 2: Fractions and Decimals",
+    "question": "The length of a rectangle is 7.1 cm and its breadth is 2.5 cm. What is the area of the rectangle?",
+    "options": [
+      "17.75 cm² (7.1 × 2.5 = 17.75 cm²)",
+      "19.2 cm²",
+      "18.5 cm²",
+      "16.85 cm²"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "Area = Length × Breadth = 7.1 × 2.5 = 17.75 cm²."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Mathematics",
+    "chapter": "Chapter 2: Fractions and Decimals",
+    "question": "Each side of a regular polygon is 2.5 cm in length. The perimeter of the polygon is 12.5 cm. How many sides does the polygon have?",
+    "options": [
+      "5 sides (12.5 ÷ 2.5 = 5 sides - Pentagon)",
+      "6 sides",
+      "4 sides",
+      "8 sides"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "Number of sides = Perimeter ÷ Side length = 12.5 ÷ 2.5 = 5."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Mathematics",
+    "chapter": "Chapter 2: Fractions and Decimals",
+    "question": "A vehicle covers a distance of 43.2 km in 2.4 litres of petrol. How much distance will it cover in 1 litre of petrol?",
+    "options": [
+      "18 km (43.2 ÷ 2.4 = 432 ÷ 24 = 18 km)",
+      "16 km",
+      "20 km",
+      "14.5 km"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "43.2 ÷ 2.4 = 432 ÷ 24 = 18 km/litre."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Mathematics",
+    "chapter": "Chapter 2: Fractions and Decimals",
+    "question": "Which of the following products is strictly LESS than each of the two fractions multiplied?",
+    "options": [
+      "(2/3) × (4/5) = 8/15 (Product of two proper fractions is ALWAYS less than each fraction)",
+      "(3/2) × (5/4) = 15/8",
+      "(4/3) × (2/5) = 8/15",
+      "(5/2) × (3/1) = 15/2"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "When two proper fractions (<1) are multiplied, the product is smaller than either factor: 8/15 < 2/3 and 8/15 < 4/5."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Mathematics",
+    "chapter": "Chapter 2: Fractions and Decimals",
+    "question": "Express 200 rupees and 5 paise in rupees as a decimal:",
+    "options": [
+      "₹200.05 (5 paise = 5/100 = ₹0.05 ⇒ ₹200 + 0.05 = ₹200.05)",
+      "₹200.50",
+      "₹200.5",
+      "₹20.05"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "5 paise = ₹0.05 → ₹200.05."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Mathematics",
+    "chapter": "Chapter 2: Fractions and Decimals",
+    "question": "Read the statements:\nAssertion (A): The product of two Proper Fractions is always strictly LESS than each of the two fractions being multiplied.\nReason (R): Multiplying by a proper fraction (a value between 0 and 1) calculates a fractional part/share of the other quantity, which naturally diminishes its original magnitude.\nChoose the correct option:",
+    "options": [
+      "Both (A) and (R) are true, and (R) is the correct explanation of (A).",
+      "Both (A) and (R) are true, but (R) is NOT the correct explanation of (A).",
+      "(A) is true, but (R) is false.",
+      "(A) is false, but (R) is true."
+    ],
+    "correctAnswer": 0,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "Multiplying by fractional scalar 0 < x < 1 acts as a scaling compression, yielding a product smaller than both inputs."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Mathematics",
+    "chapter": "Chapter 2: Fractions and Decimals",
+    "question": "Spot the IMPOSTER in the following mathematical fraction and decimal evaluations:\nGroup:\n1. 2/3 of 18 = 12\n2. 3.5 × 0.4 = 1.4\n3. (5/6) ÷ (10/12) = 1\n4. 0.08 ÷ 0.4 = 2.0",
+    "options": [
+      "Statement 1",
+      "Statement 2",
+      "Statement 3",
+      "Statement 4 (0.08 ÷ 0.4 = 0.2, NOT 2.0)"
+    ],
+    "correctAnswer": 3,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "0.08 ÷ 0.4 = 8/100 ÷ 4/10 = 8/100 × 10/4 = 2/10 = 0.2 (NOT 2.0)."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Mathematics",
+    "chapter": "Chapter 2: Fractions and Decimals",
+    "question": "Simplify the complex nested fractional expression:\n[ (3 1/3) × (1 4/5) ] ÷ (2 1/2):",
+    "options": [
+      "12/5 = 2 2/5 = 2.4 ((10/3 × 9/5) ÷ 5/2 = 6 ÷ 5/2 = 6 × 2/5 = 12/5 = 2.4)",
+      "3 1/5",
+      "1 4/5",
+      "4 1/2"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "(10/3 × 9/5) = 6. Then 6 ÷ (5/2) = 6 × (2/5) = 12/5 = 2 2/5 = 2.4."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Mathematics",
+    "chapter": "Chapter 2: Fractions and Decimals",
+    "question": "Match Column I (Fractions & Decimal Operations) with Column II (Exact Evaluated Values):\n(a) 0.5 × 0.05      -> (i) 0.025\n(b) 0.5 ÷ 0.05      -> (ii) 10\n(c) 3/4 of 4/3      -> (iii) 1\n(d) (2/5) ÷ (4/15)  -> (iv) 1.5 (3/2)",
+    "options": [
+      "a-(i), b-(ii), c-(iii), d-(iv)",
+      "a-(ii), b-(i), c-(iv), d-(iii)",
+      "a-(iv), b-(iii), c-(ii), d-(i)",
+      "a-(iii), b-(iv), c-(i), d-(ii)"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "0.5×0.05=0.025; 0.5/0.05=10; 3/4×4/3=1; 2/5÷4/15 = 2/5×15/4 = 3/2 = 1.5."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Mathematics",
+    "chapter": "Chapter 2: Fractions and Decimals",
+    "question": "Read the statements regarding fractional arithmetic:\nStatement 1: The product of two Improper Fractions is ALWAYS greater than each of the two fractions.\nStatement 2: The reciprocal of an improper fraction is always a proper fraction.\nStatement 3: 1 divided by any fraction equals the reciprocal of that fraction.\nWhich statements are TRUE?",
+    "options": [
+      "All Statements 1, 2, and 3 are TRUE",
+      "Statements 1 and 2 only",
+      "Statements 2 and 3 only",
+      "Statements 1 and 3 only"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "All three statements are fundamental algebraic theorems of rational number arithmetic."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Mathematics",
+    "chapter": "Chapter 2: Fractions and Decimals",
+    "question": "A rectangular field has length 35.75 m and breadth 18.4 m. A running track running along the perimeter is fenced at ₹25.50 per metre. What is the total cost of fencing the field?",
+    "options": [
+      "₹2,761.65 (Perimeter = 2(35.75 + 18.4) = 2(54.15) = 108.3 m ; Cost = 108.3 × 25.50 = ₹2,761.65)",
+      "₹2,500.00",
+      "₹2,840.50",
+      "₹3,120.75"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "Perimeter = 2 × (35.75 + 18.4) = 108.3 m. Cost = 108.3 × 25.50 = ₹2,761.65."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Mathematics",
+    "chapter": "Chapter 2: Fractions and Decimals",
+    "question": "In a class of 40 students, 1/5 of the total students like to study English, 2/5 of the total students like to study Mathematics, and the remaining students like to study Science. What FRACTION of the total students like to study Science, and how many students is that?",
+    "options": [
+      "Fraction: 2/5 ; Number of students: 16 (English = 8, Math = 16 ; Science = 40 - 24 = 16 students = 16/40 = 2/5)",
+      "Fraction: 1/5 ; Number of students: 8",
+      "Fraction: 3/5 ; Number of students: 24",
+      "Fraction: 1/2 ; Number of students: 20"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "Science fraction = 1 - (1/5 + 2/5) = 1 - 3/5 = 2/5. Students = 2/5 × 40 = 16 students."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Mathematics",
+    "chapter": "Chapter 2: Fractions and Decimals",
+    "question": "If 12 boxes of equal weight weigh a total of 49.8 kg, how much will 25 such boxes weigh?",
+    "options": [
+      "103.75 kg (1 box = 49.8 / 12 = 4.15 kg ; 25 boxes = 4.15 × 25 = 103.75 kg)",
+      "98.50 kg",
+      "105.25 kg",
+      "101.40 kg"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "Weight of 1 box = 49.8 ÷ 12 = 4.15 kg. Weight of 25 boxes = 4.15 × 25 = 103.75 kg."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Mathematics",
+    "chapter": "Chapter 2: Fractions and Decimals",
+    "question": "Arrange the following fractions in DESCENDING order (largest to smallest):\n2/9, 2/3, 8/21",
+    "options": [
+      "2/3 > 8/21 > 2/9 (Common denominator 63: 2/3 = 42/63 ; 8/21 = 24/63 ; 2/9 = 14/63)",
+      "2/9 > 8/21 > 2/3",
+      "8/21 > 2/3 > 2/9",
+      "2/3 > 2/9 > 8/21"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "LCM(9, 3, 21) = 63. Fractions: 14/63 (2/9), 42/63 (2/3), 24/63 (8/21). Descending: 2/3 > 8/21 > 2/9."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Mathematics",
+    "chapter": "Chapter 2: Fractions and Decimals",
+    "question": "Evaluate: (0.2 × 0.2 × 0.2) + (0.3 × 0.3 × 0.3):",
+    "options": [
+      "0.035 (0.008 + 0.027 = 0.035)",
+      "0.35",
+      "0.0035",
+      "0.05"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "0.2³ = 0.008; 0.3³ = 0.027. Sum = 0.008 + 0.027 = 0.035."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Mathematics",
+    "chapter": "Chapter 2: Fractions and Decimals",
+    "question": "A car covers a distance of 89.1 km in 2.2 hours. What is the average distance covered by it in 1 hour?",
+    "options": [
+      "40.5 km (89.1 ÷ 2.2 = 891 ÷ 22 = 40.5 km/h)",
+      "42.0 km",
+      "39.5 km",
+      "41.5 km"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "Speed = 89.1 ÷ 2.2 = 891 ÷ 22 = 40.5 km/h."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Mathematics",
+    "chapter": "Chapter 2: Fractions and Decimals",
+    "question": "Why is the rigorous understanding of rational fractional division (multiplying by reciprocal) and decimal positional scaling foundational in quantitative computing and applied science?",
+    "options": [
+      "It allows precise non-integer continuous calculations, algorithmic scaling, unit conversions, and floating-point error control across physics and computational math",
+      "Because computers can only understand whole numbers",
+      "Because fractions eliminate decimals",
+      "Because division by zero is allowed in decimals"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "Rational fractions and decimal scaling form the basis of continuous mathematical analysis, dimensional normalization, and numerical algorithms."
+  },
+  {
+    "classLevel": 7,
+    "subject": "English",
+    "chapter": "Chapter 2: A Gift of Chappals & The Rebel",
+    "question": "In Vasantha Surya's lively story 'A Gift of Chappals', who went to her aunt Rukku Manni's house with her grandmother Tapi in Madras (Chennai)?",
+    "options": [
+      "Mridu",
+      "Lalli",
+      "Meena",
+      "Rukku Manni"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "Young Mridu visits her aunt Rukku Manni's house accompanied by her grandmother (Tapi)."
+  },
+  {
+    "classLevel": 7,
+    "subject": "English",
+    "chapter": "Chapter 2: A Gift of Chappals & The Rebel",
+    "question": "What did Ravi and Meena secretly show Mridu hidden inside a torn football lined with sacking in the backyard behind a bitter-berry bush?",
+    "options": [
+      "A tiny kitten lapping milk from a coconut half-shell",
+      "A puppy",
+      "A baby parrot",
+      "A treasure chest"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "Ravi and Meena harbored a secret stray kitten drinking milk from a coconut shell in the backyard."
+  },
+  {
+    "classLevel": 7,
+    "subject": "English",
+    "chapter": "Chapter 2: A Gift of Chappals & The Rebel",
+    "question": "What grand, aristocratic name did Ravi give to the secret little kitten?",
+    "options": [
+      "Mahendravarma Pallava Poonai (M.P. Poonai / Mahendran for short)",
+      "Sher Khan",
+      "Tiger King",
+      "Raja Pallava"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "Ravi fancifully claimed the kitten was descended from the Pallava royal emblem: Mahendravarma Pallava Poonai (M.P. Poonai)."
+  },
+  {
+    "classLevel": 7,
+    "subject": "English",
+    "chapter": "Chapter 2: A Gift of Chappals & The Rebel",
+    "question": "What musical instrument was Lalli struggling and screeching to play while taking music lessons from the music master?",
+    "options": [
+      "Violin",
+      "Veena",
+      "Flute",
+      "Harmonium"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "Lalli was awkwardly learning to play the violin, making screeching 'kreech' noises resembling a derailed train."
+  },
+  {
+    "classLevel": 7,
+    "subject": "English",
+    "chapter": "Chapter 2: A Gift of Chappals & The Rebel",
+    "question": "How did the author humorously describe the physical appearance of the bald-headed Music Master?",
+    "options": [
+      "A bony figure with a mostly bald head fringed with oiled black hair tied in an old-fashioned tuft, wearing a shining gold chain and diamond ring",
+      "A giant man with a long white beard",
+      "A young boy with sunglasses",
+      "A soldier in royal armor"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "The music master is caricatured with a bony frame, oiled tuft, glistening diamond ring, and gold chain."
+  },
+  {
+    "classLevel": 7,
+    "subject": "English",
+    "chapter": "Chapter 2: A Gift of Chappals & The Rebel",
+    "question": "Why was the poor Beggar groaning and leaning against the neem tree in the garden?",
+    "options": [
+      "The scorching afternoon tar road was boiling hot and had caused painful, peeling pink blisters on the soles of his bare feet",
+      "Because he wanted to steal mangoes",
+      "Because he was singing a song",
+      "Because he lost his glasses"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "Walking barefoot on sun-baked asphalt caused severe blisters on the impoverished beggar's soles."
+  },
+  {
+    "classLevel": 7,
+    "subject": "English",
+    "chapter": "Chapter 2: A Gift of Chappals & The Rebel",
+    "question": "What did the compassionate children (Ravi, Meena, and Mridu) decide to give to the blistered barefoot beggar?",
+    "options": [
+      "The large, grey, dusty pair of chappals lying near the verandah (which belonged to the Music Master)",
+      "A bag of gold coins",
+      "A pair of roller skates",
+      "A bicycle"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "Pitying his blistered feet, the children gifted the music master's sturdy chappals to the beggar."
+  },
+  {
+    "classLevel": 7,
+    "subject": "English",
+    "chapter": "Chapter 2: A Gift of Chappals & The Rebel",
+    "question": "To pacify the furious, search-weary Music Master whose chappals had vanished, whose brand new chappals did Rukku Manni give to him?",
+    "options": [
+      "Gopu Mama's hardly-worn chappals",
+      "Ravi's shoes",
+      "Paati's sandals",
+      "Tapi's slippers"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "Rukku Manni surrendered Gopu Mama's pristine chappals to appease the aggrieved music teacher."
+  },
+  {
+    "classLevel": 7,
+    "subject": "English",
+    "chapter": "Chapter 2: A Gift of Chappals & The Rebel",
+    "question": "In D.J. Enright's poem 'The Rebel', what does the Rebel do when everybody else has short hair?",
+    "options": [
+      "The rebel lets his hair grow long",
+      "He cuts his hair off completely",
+      "He paints his hair blue",
+      "He wears a hat"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "Enright contrasts non-conformist behavior: when others cut hair short, the rebel grows long hair."
+  },
+  {
+    "classLevel": 7,
+    "subject": "English",
+    "chapter": "Chapter 2: A Gift of Chappals & The Rebel",
+    "question": "In 'The Rebel', what does the Rebel express when everybody else is praising the bright warm Sun?",
+    "options": [
+      "The rebel remarks on the need for Rain",
+      "The rebel wears sunglasses",
+      "The rebel praises the moon",
+      "The rebel stays asleep"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "The rebel systematically seeks contrast: desiring rain during sunshine and sunshine during rain."
+  },
+  {
+    "classLevel": 7,
+    "subject": "English",
+    "chapter": "Chapter 2: A Gift of Chappals & The Rebel",
+    "question": "What kind of sentence expresses a direct command, request, or advice (e.g. 'Don't make that noise!', 'Please give him chappals.')?",
+    "options": [
+      "Imperative Sentence",
+      "Interrogative Sentence",
+      "Exclamatory Sentence",
+      "Declarative Sentence"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "Imperative sentences issue orders, prohibitions, entreaties, or instructional advice."
+  },
+  {
+    "classLevel": 7,
+    "subject": "English",
+    "chapter": "Chapter 2: A Gift of Chappals & The Rebel",
+    "question": "What is the past continuous tense form of the verb 'dig' for a plural subject (They)?",
+    "options": [
+      "They were digging",
+      "They was digging",
+      "They are digging",
+      "They have digged"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "Past Continuous plural: were + verb-ing → 'were digging'."
+  },
+  {
+    "classLevel": 7,
+    "subject": "English",
+    "chapter": "Chapter 2: A Gift of Chappals & The Rebel",
+    "question": "How did Ravi cleverly smuggle milk from the kitchen for the secret kitten without Paati suspecting him?",
+    "options": [
+      "He took milk in a glass, pretending he was very hungry; when Paati saw him, he drank most of it right in front of her to prove he was drinking it, ran out, poured the remaining milk into the coconut shell, and quickly washed the glass",
+      "He bought milk from a store",
+      "He told Paati the truth directly",
+      "He hid a cow in the garden"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "Ravi staged drinking the milk under Paati's watchful eye before dashing to feed the kitten."
+  },
+  {
+    "classLevel": 7,
+    "subject": "English",
+    "chapter": "Chapter 2: A Gift of Chappals & The Rebel",
+    "question": "What humorous comparison did the author draw between the Music Master's violin playing and Lalli's violin playing?",
+    "options": [
+      "The music master's notes glided smoothly on melody tracks like a train on smooth rails, while Lalli went off the rails completely, screeching and derailing constantly",
+      "Lalli played better than the teacher",
+      "Both sounded like sweet singing birds",
+      "Both played with their eyes closed"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "Vasantha Surya contrasts the master's melodic precision with Lalli's discordant screeching derailments."
+  },
+  {
+    "classLevel": 7,
+    "subject": "English",
+    "chapter": "Chapter 2: A Gift of Chappals & The Rebel",
+    "question": "Why did Ravi argue with Rukku Manni about 'Karna' from the Mahabharata when she scolded him for giving away the music master's chappals?",
+    "options": [
+      "Ravi argued that adults always preach about being generous and giving to the needy like the great giver Karna, yet get angry when children actually practice true generosity",
+      "Because Ravi wanted to become a king like Karna",
+      "Because Karna was a music master",
+      "Because Karna had chappals made of gold"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "Ravi pointed out adult moral contradiction: preaching the legendary charity of Karna while penalizing genuine compassionate giving."
+  },
+  {
+    "classLevel": 7,
+    "subject": "English",
+    "chapter": "Chapter 2: A Gift of Chappals & The Rebel",
+    "question": "How did Rukku Manni react after the Music Master left with Gopu Mama's chappals when she thought of Gopu Mama coming home from office?",
+    "options": [
+      "Her anger dissolved into laughter wondering what excuse she would give Gopu Mama, who always kicks off his shoes and wants his chappals the moment he enters the house",
+      "She started crying loudly",
+      "She punished Ravi with no food",
+      "She chased the music master down the street"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "Rukku Manni's exasperation melts into rueful humor anticipating Gopu Mama's predictable evening reaction."
+  },
+  {
+    "classLevel": 7,
+    "subject": "English",
+    "chapter": "Chapter 2: A Gift of Chappals & The Rebel",
+    "question": "In 'The Rebel', what social value or perspective does the poet conclude with regarding rebels in society?",
+    "options": [
+      "It is good that we have rebels because they bring diversity and challenge rigid conformity, but it is not very good to BE one yourself because society often isolates and misunderstands them",
+      "Rebels should all be put in prison",
+      "Everyone must become a rebel",
+      "Rebels are always evil"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "Enright balances social utility with personal cost: non-conformity enriches cultural vitality but invites social friction."
+  },
+  {
+    "classLevel": 7,
+    "subject": "English",
+    "chapter": "Chapter 2: A Gift of Chappals & The Rebel",
+    "question": "Identify the correct meaning of the underlined idiom in: 'The music master's eyes **lit up** when he saw Gopu Mama's brand new chappals.'",
+    "options": [
+      "Showed sudden, unmistakable delight, greed, and satisfaction",
+      "Caught fire literally",
+      "Turned bright yellow",
+      "Became blind"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "'Eyes lit up' idiomatically conveys spontaneous delight and concealed covetousness."
+  },
+  {
+    "classLevel": 7,
+    "subject": "English",
+    "chapter": "Chapter 2: A Gift of Chappals & The Rebel",
+    "question": "Choose the correct question framed using an 'IF' conditional clause for: 'You want to know if it will rain tomorrow before planning a picnic.'",
+    "options": [
+      "'What will we do if it rains tomorrow?'",
+      "'Why is it raining tomorrow?'",
+      "'When will it rain if?'",
+      "'How does rain happen if?'"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "Standard first conditional interrogative: 'What will we do if it rains tomorrow?'."
+  },
+  {
+    "classLevel": 7,
+    "subject": "English",
+    "chapter": "Chapter 2: A Gift of Chappals & The Rebel",
+    "question": "What is the SYNONYM of the word 'Snooze' as used in 'The beggar was having a snooze under the neem tree'?",
+    "options": [
+      "A short, light sleep / nap",
+      "A heavy meal",
+      "A long walk",
+      "A loud quarrel"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "'Snooze' denotes a brief, light period of slumber or daytime nap."
+  },
+  {
+    "classLevel": 7,
+    "subject": "English",
+    "chapter": "Chapter 2: A Gift of Chappals & The Rebel",
+    "question": "What is the meaning of the word 'Lurking' in: 'The kitten was lurking behind the bitter-berry bush'?",
+    "options": [
+      "Remaining hidden or waiting stealthily out of sight",
+      "Running at full speed",
+      "Singing loudly",
+      "Sleeping peacefully"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "'Lurking' means remaining concealed in ambient cover, often stealthily."
+  },
+  {
+    "classLevel": 7,
+    "subject": "English",
+    "chapter": "Chapter 2: A Gift of Chappals & The Rebel",
+    "question": "Fill in the blank with the correct Phrasal Verb:\n'Rukku Manni asked the beggar to _______ from the gate immediately.'",
+    "options": [
+      "go away (leave / depart)",
+      "go through",
+      "go on",
+      "go into"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "'Go away' signifies departing from a premises."
+  },
+  {
+    "classLevel": 7,
+    "subject": "English",
+    "chapter": "Chapter 2: A Gift of Chappals & The Rebel",
+    "question": "Choose the sentence that correctly uses the PAST CONTINUOUS tense:",
+    "options": [
+      "'While the music master was teaching Lalli, the beggar was calling from the gate.'",
+      "'While the music master is teaching Lalli, the beggar calls.'",
+      "'The music master taught while the beggar called.'",
+      "'The music master had taught Lalli.'"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "Two concurrent past continuing actions: 'was teaching' and 'was calling'."
+  },
+  {
+    "classLevel": 7,
+    "subject": "English",
+    "chapter": "Chapter 2: A Gift of Chappals & The Rebel",
+    "question": "What is the ANTONYM of the word 'Generous'?",
+    "options": [
+      "Stingy / Miserly / Selfish",
+      "Brave",
+      "Kind",
+      "Helpful"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "The opposite of 'generous' (bountiful/unselfish) is 'stingy' or 'miserly'."
+  },
+  {
+    "classLevel": 7,
+    "subject": "English",
+    "chapter": "Chapter 2: A Gift of Chappals & The Rebel",
+    "question": "What literary device is used in the contrasting rhyming pairs of 'The Rebel' ('When everybody has short hair, The rebel lets his hair grow long')?",
+    "options": [
+      "Antithesis / Contrast (juxtaposition of sharply opposing ideas)",
+      "Personification",
+      "Simile",
+      "Metaphor"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "Antithesis pairs diametrically opposing behavioral traits in structured syntactic balance."
+  },
+  {
+    "classLevel": 7,
+    "subject": "English",
+    "chapter": "Chapter 2: A Gift of Chappals & The Rebel",
+    "question": "Identify the part of speech of the underlined word in: 'The tar on the road had melted into **boiling** black lava.'",
+    "options": [
+      "Participle Adjective (describing the temperature and state of 'black lava')",
+      "Verb in past tense",
+      "Noun",
+      "Adverb"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "'Boiling' functions as a present participial adjective qualifying the noun 'lava'."
+  },
+  {
+    "classLevel": 7,
+    "subject": "English",
+    "chapter": "Chapter 2: A Gift of Chappals & The Rebel",
+    "question": "Choose the correctly punctuated direct speech sentence:",
+    "options": [
+      "\"Don't you have any chappals?\" asked Mridu in pity.",
+      "\"Don't you have any chappals\" asked Mridu in pity?",
+      "Don't you have any chappals? asked Mridu in pity.",
+      "\"Don't you have any chappals,\" asked Mridu in pity?"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "Direct question punctuation: quotation marks enclose the question mark, followed by lower-case reporting clause."
+  },
+  {
+    "classLevel": 7,
+    "subject": "English",
+    "chapter": "Chapter 2: A Gift of Chappals & The Rebel",
+    "question": "What is the meaning of 'Giggle' in: 'Meena and Mridu giggled at Ravi's exaggerated stories'?",
+    "options": [
+      "Laughed in a silly, amused, or suppressed high-pitched way",
+      "Cried bitterly",
+      "Shouted in anger",
+      "Slept quietly"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "'Giggle' signifies suppressed, lighthearted juvenile laughter."
+  },
+  {
+    "classLevel": 7,
+    "subject": "English",
+    "chapter": "Chapter 2: A Gift of Chappals & The Rebel",
+    "question": "Read the statements:\nAssertion (A): 'A Gift of Chappals' brilliantly exposes the poignant dissonance between adult theoretical morality and authentic childish empathy.\nReason (R): While elders preach lofty moral ideals about historical charity (Karna) and kindness to animals, they reflexively reprimand children when they act on genuine spontaneous compassion to help a suffering, blistered human being.\nChoose the correct option:",
+    "options": [
+      "Both (A) and (R) are true, and (R) is the correct explanation of (A).",
+      "Both (A) and (R) are true, but (R) is NOT the correct explanation of (A).",
+      "(A) is true, but (R) is false.",
+      "(A) is false, but (R) is true."
+    ],
+    "correctAnswer": 0,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "Vasantha Surya's narrative irony critiques bourgeois moral hypocrisy through the uncorrupted altruism of children."
+  },
+  {
+    "classLevel": 7,
+    "subject": "English",
+    "chapter": "Chapter 2: A Gift of Chappals & The Rebel",
+    "question": "Spot the IMPOSTER in the following group of character descriptions from 'A Gift of Chappals':\nGroup:\n1. Mridu - Empathetic visiting cousin\n2. Ravi - Imaginative, quick-witted cousin who feeds the kitten\n3. Music Master - Generous monk who voluntarily gave his chappals to the beggar\n4. Rukku Manni - Stern yet affectionate aunt who resolves the chappals dilemma",
+    "options": [
+      "Description 1",
+      "Description 2",
+      "Description 3 (The music master did NOT give his chappals voluntarily ; the children gave them away)",
+      "Description 4"
+    ],
+    "correctAnswer": 2,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "Description 3 is false: the music master was furious at the loss of his chappals and did not give them away voluntarily."
+  },
+  {
+    "classLevel": 7,
+    "subject": "English",
+    "chapter": "Chapter 2: A Gift of Chappals & The Rebel",
+    "question": "Analyze D.J. Enright's philosophical treatment of the 'Rebel':\nWhat psychological archetype does the rebel embody in social dynamics?",
+    "options": [
+      "The innate dialectical counter-force of individualistic non-conformity that resists herd mentality and questions uniform social orthodoxy",
+      "A violent criminal wanting to destroy society",
+      "A foolish person who knows nothing",
+      "A political king wanting to rule nations"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "Enright constructs the rebel as an essential social dialectic against unthinking conformity and groupthink."
+  },
+  {
+    "classLevel": 7,
+    "subject": "English",
+    "chapter": "Chapter 2: A Gift of Chappals & The Rebel",
+    "question": "Match Column I (Characters / Elements) with Column II (Contextual Actions in Chapter 2):\n(a) Mahendran (M.P. Poonai) -> (i) Sharpened claws on coconut shell & climbed bitter-berry bush\n(b) The Beggar              -> (ii) Exhibited bleeding blisters on sun-baked tar\n(c) The Music Master        -> (iii) Pretended his old chappals were extremely precious & valuable\n(d) Gopu Mama               -> (iv) Unwittingly had his new chappals gifted to the music master",
+    "options": [
+      "a-(i), b-(ii), c-(iii), d-(iv)",
+      "a-(ii), b-(i), c-(iv), d-(iii)",
+      "a-(iv), b-(iii), c-(ii), d-(i)",
+      "a-(iii), b-(iv), c-(i), d-(ii)"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "Kitten = claws/bush; Beggar = blisters; Music Master = prized old chappals; Gopu Mama = new chappals lost."
+  },
+  {
+    "classLevel": 7,
+    "subject": "English",
+    "chapter": "Chapter 2: A Gift of Chappals & The Rebel",
+    "question": "Read the statements regarding stylistic nuances in Chapter 2:\nStatement 1: The story uses rich sensory auditory imagery ('kreech', 'screeching violin', 'lapping milk') to create vivid realism.\nStatement 2: The poem 'The Rebel' uses a structured repetitive syntax to highlight behavioral antithesis.\nStatement 3: Mridu steals gold jewelry from Rukku Manni's cupboard to give to the beggar.\nWhich statements are TRUE?",
+    "options": [
+      "Statements 1 and 2 only",
+      "Statements 2 and 3 only",
+      "Statements 1 and 3 only",
+      "All Statements 1, 2, and 3"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "Statement 3 is completely false (the children only gave old chappals). Statements 1 and 2 are literary truths."
+  },
+  {
+    "classLevel": 7,
+    "subject": "English",
+    "chapter": "Chapter 2: A Gift of Chappals & The Rebel",
+    "question": "Identify the grammatical structure and mood of the sentence: 'Give the poor man some chappals, or his feet will burn to blisters!'",
+    "options": [
+      "Compound Imperative Sentence with a coordinating conjunction 'or' expressing an urgent moral injunction and consequence",
+      "Simple Interrogative Sentence",
+      "Complex Subjunctive Sentence",
+      "Passive Voice Declarative"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "Compound imperative joined by disjunctive coordinator 'or' outlining urgent action and consequence."
+  },
+  {
+    "classLevel": 7,
+    "subject": "English",
+    "chapter": "Chapter 2: A Gift of Chappals & The Rebel",
+    "question": "What is the situational irony in the Music Master's description of his old stolen chappals:\n'They were brand new! They cost me a whole month's fees!'",
+    "options": [
+      "The chappals were actually decrepit, faded grey with dust and toe-marks, but he exaggerated their value out of greedy vanity to demand a new replacement",
+      "The chappals were made of pure platinum",
+      "He had borrowed the chappals from the King",
+      "The chappals were magical"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "The master's hypocritical hyperbole claims dilapidated sandals were pristine to extract maximum compensation."
+  },
+  {
+    "classLevel": 7,
+    "subject": "English",
+    "chapter": "Chapter 2: A Gift of Chappals & The Rebel",
+    "question": "Which of the following demonstrates the correct use of INVERSION after a negative adverb in formal literary English?",
+    "options": [
+      "'Hardly had the beggar sat down when Rukku Manni ordered him to leave.'",
+      "'Hardly the beggar had sat down when Rukku Manni ordered him.'",
+      "'Hardly the beggar sat down then Rukku Manni ordered.'",
+      "'Hardly was the beggar sitting when then Rukku Manni ordered.'"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "Negative adverbial inversion: 'Hardly had [subject] [past participle] when...'."
+  },
+  {
+    "classLevel": 7,
+    "subject": "English",
+    "chapter": "Chapter 2: A Gift of Chappals & The Rebel",
+    "question": "What humorous family dynamic is captured when Ravi says about Gopu Mama: 'He's always in such a hurry to throw off his shoes and socks and get into his chappals as soon as he comes home'?",
+    "options": [
+      "The universal domestic habit of working adults shedding formal office attire for casual comfort, setting up the impending humorous confrontation",
+      "That Gopu Mama never goes to office",
+      "That Gopu Mama walks barefoot outside",
+      "That Gopu Mama has no shoes"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "The detail grounds the climax in recognizable domestic realism, creating anticipatory comedic tension."
+  },
+  {
+    "classLevel": 7,
+    "subject": "English",
+    "chapter": "Chapter 2: A Gift of Chappals & The Rebel",
+    "question": "In 'The Rebel', when everybody goes to the meeting, what does the Rebel do?",
+    "options": [
+      "The rebel stays at home and reads a book",
+      "The rebel gives a long speech",
+      "The rebel dances outside",
+      "The rebel falls asleep at the meeting"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "Textual line: 'When everybody goes to the meeting, / The rebel stays at home and reads a book'."
+  },
+  {
+    "classLevel": 7,
+    "subject": "English",
+    "chapter": "Chapter 2: A Gift of Chappals & The Rebel",
+    "question": "Transform the direct speech into INDIRECT SPEECH:\nRavi said, \"Karna did not give away other people's things, he gave away what was his own.\"",
+    "options": [
+      "Ravi argued that Karna had not given away other people's things, but had given away what was his own.",
+      "Ravi says that Karna gives away other people's things.",
+      "Ravi asked why Karna gave away his own things.",
+      "Ravi told that Karna did not give his own things."
+    ],
+    "correctAnswer": 0,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "Past Simple ('did not give... was') shifts to Past Perfect ('had not given... had been/was') in reported argument."
+  },
+  {
+    "classLevel": 7,
+    "subject": "English",
+    "chapter": "Chapter 2: A Gift of Chappals & The Rebel",
+    "question": "What common ethical thread unites the narrative of 'A Gift of Chappals' with the poetic philosophy of 'The Rebel'?",
+    "options": [
+      "Both celebrate the courage of independent conscience—whether in children defying social norms to alleviate real suffering or in individuals resisting unthinking conformity",
+      "Both advocate punishing all children",
+      "Both state that music is unnecessary",
+      "Both teach that one should never buy new shoes"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "Both texts champion autonomous moral agency and empathetic non-conformity against rigid conventional orthodoxies."
+  },
+  {
+    "classLevel": 7,
+    "subject": "GK",
+    "chapter": "Chapter 2: Animal Kingdom, Flora, Fauna & Global Wildlife Conservation",
+    "question": "In which year was India's landmark wildlife conservation initiative 'Project Tiger' launched at Jim Corbett National Park to save the Royal Bengal Tiger?",
+    "options": [
+      "1973 (1st April 1973)",
+      "1985",
+      "1992",
+      "2005"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "Project Tiger was launched on 1 April 1973 under Prime Minister Indira Gandhi at Corbett National Park."
+  },
+  {
+    "classLevel": 7,
+    "subject": "GK",
+    "chapter": "Chapter 2: Animal Kingdom, Flora, Fauna & Global Wildlife Conservation",
+    "question": "Which is the OLDEST national park in India, established in 1936 in Uttarakhand (originally named Hailey National Park)?",
+    "options": [
+      "Jim Corbett National Park",
+      "Kaziranga National Park",
+      "Ranthambore National Park",
+      "Kanha National Park"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "Jim Corbett National Park in Uttarakhand was established in 1936 as Hailey National Park, India's first national park."
+  },
+  {
+    "classLevel": 7,
+    "subject": "GK",
+    "chapter": "Chapter 2: Animal Kingdom, Flora, Fauna & Global Wildlife Conservation",
+    "question": "What is the international conservation authority that publishes the famous 'Red Data Book' (Red List) classifying endangered and threatened plant and animal species?",
+    "options": [
+      "IUCN (International Union for Conservation of Nature)",
+      "WWF",
+      "UNESCO",
+      "UNEP"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "The IUCN (headquartered in Gland, Switzerland) compiles the global Red List of Threatened Species."
+  },
+  {
+    "classLevel": 7,
+    "subject": "GK",
+    "chapter": "Chapter 2: Animal Kingdom, Flora, Fauna & Global Wildlife Conservation",
+    "question": "Which is the LARGEST land mammal currently living on Earth?",
+    "options": [
+      "African Bush Elephant (Loxodonta africana)",
+      "Asian Elephant",
+      "Hippopotamus",
+      "White Rhinoceros"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "The African Bush Elephant is the planet's largest extant terrestrial mammal, weighing up to 6,000 kg."
+  },
+  {
+    "classLevel": 7,
+    "subject": "GK",
+    "chapter": "Chapter 2: Animal Kingdom, Flora, Fauna & Global Wildlife Conservation",
+    "question": "Which is the LARGEST animal ever known to have lived on planet Earth (larger than any dinosaur)?",
+    "options": [
+      "The Blue Whale (Balaenoptera musculus - up to 30 metres long, ~180 tonnes)",
+      "Megalodon",
+      "Tyrannosaurus Rex",
+      "Sperm Whale"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "The Antarctic Blue Whale is the largest animal in Earth's history, reaching ~30 m in length and 180 metric tonnes."
+  },
+  {
+    "classLevel": 7,
+    "subject": "GK",
+    "chapter": "Chapter 2: Animal Kingdom, Flora, Fauna & Global Wildlife Conservation",
+    "question": "Which is the FASTEST land animal on Earth, capable of sprinting up to 110–120 km/h in short bursts?",
+    "options": [
+      "Cheetah (Acinonyx jubatus)",
+      "Lion",
+      "Leopard",
+      "Springbok"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "The Cheetah reaches 0 to 100 km/h in 3 seconds, making it the fastest cursorial terrestrial predator."
+  },
+  {
+    "classLevel": 7,
+    "subject": "GK",
+    "chapter": "Chapter 2: Animal Kingdom, Flora, Fauna & Global Wildlife Conservation",
+    "question": "In which Indian national park in Madhya Pradesh (Kuno National Park) were African cheetahs reintroduced in 2022 under 'Project Cheetah' after being extinct in India since 1952?",
+    "options": [
+      "Kuno National Park",
+      "Bandhavgarh National Park",
+      "Pench National Park",
+      "Panna National Park"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "In September 2022, 8 cheetahs from Namibia were released into Kuno National Park, MP, inaugurating Project Cheetah."
+  },
+  {
+    "classLevel": 7,
+    "subject": "GK",
+    "chapter": "Chapter 2: Animal Kingdom, Flora, Fauna & Global Wildlife Conservation",
+    "question": "What is the only species of APE found in India, living in the dense tropical forests of Assam and the Northeast?",
+    "options": [
+      "Hoolock Gibbon (Western & Eastern Hoolock Gibbon)",
+      "Chimpanzee",
+      "Gorilla",
+      "Orangutan"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "The tailless, arboreal Hoolock Gibbon is the sole native ape species inhabiting Indian rainforests."
+  },
+  {
+    "classLevel": 7,
+    "subject": "GK",
+    "chapter": "Chapter 2: Animal Kingdom, Flora, Fauna & Global Wildlife Conservation",
+    "question": "Which tropical rainforest in South America is often called the 'Lungs of the Planet' because it produces a massive share of global terrestrial oxygen and harbors 10% of all known species?",
+    "options": [
+      "The Amazon Rainforest",
+      "Congo Basin Rainforest",
+      "Daintree Rainforest",
+      "Borneo Rainforest"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "The Amazon River Basin contains the world's largest tropical rainforest, driving global hydrological and carbon cycles."
+  },
+  {
+    "classLevel": 7,
+    "subject": "GK",
+    "chapter": "Chapter 2: Animal Kingdom, Flora, Fauna & Global Wildlife Conservation",
+    "question": "What is the world's LARGEST living coral reef ecosystem, stretching over 2,300 km off the coast of Queensland, Australia?",
+    "options": [
+      "The Great Barrier Reef",
+      "Belize Barrier Reef",
+      "Red Sea Coral Reef",
+      "Andaman Reef"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "The Great Barrier Reef is the largest biogenic structure on Earth, visible from space and home to 1,500 fish species."
+  },
+  {
+    "classLevel": 7,
+    "subject": "GK",
+    "chapter": "Chapter 2: Animal Kingdom, Flora, Fauna & Global Wildlife Conservation",
+    "question": "Which is the tallest living land animal in the world, with a neck reaching up to 5.5 metres high?",
+    "options": [
+      "Giraffe (Giraffa camelopardalis)",
+      "African Elephant",
+      "Ostrich",
+      "Camel"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "The Giraffe is the tallest extant mammal, possessing 7 elongated cervical vertebrae and high-pressure cardiovascular adaptations."
+  },
+  {
+    "classLevel": 7,
+    "subject": "GK",
+    "chapter": "Chapter 2: Animal Kingdom, Flora, Fauna & Global Wildlife Conservation",
+    "question": "Which is the LARGEST living bird in the world, capable of running up to 70 km/h and laying the largest eggs?",
+    "options": [
+      "Ostrich (Struthio camelus)",
+      "Emu",
+      "Cassowary",
+      "Penguin"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "The flightless African Ostrich is the largest living bird species, standing up to 2.8 m tall."
+  },
+  {
+    "classLevel": 7,
+    "subject": "GK",
+    "chapter": "Chapter 2: Animal Kingdom, Flora, Fauna & Global Wildlife Conservation",
+    "question": "In which year was 'Project Elephant' launched by the Government of India to protect wild Asian elephant populations and secure elephant migration corridors?",
+    "options": [
+      "1992",
+      "1972",
+      "1980",
+      "2000"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "Project Elephant was initiated in February 1992 by the Ministry of Environment and Forests to secure viable elephant habitats."
+  },
+  {
+    "classLevel": 7,
+    "subject": "GK",
+    "chapter": "Chapter 2: Animal Kingdom, Flora, Fauna & Global Wildlife Conservation",
+    "question": "Which national park in Jammu & Kashmir is the ONLY habitat of the critically endangered 'Hangul' (Kashmir Stag)?",
+    "options": [
+      "Dachigam National Park",
+      "Hemis National Park",
+      "Kishtwar National Park",
+      "Salim Ali National Park"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "Dachigam National Park near Srinagar protects the last surviving wild population of the endangered Kashmir Stag (Cervus hanglu hanglu)."
+  },
+  {
+    "classLevel": 7,
+    "subject": "GK",
+    "chapter": "Chapter 2: Animal Kingdom, Flora, Fauna & Global Wildlife Conservation",
+    "question": "What is the LARGEST national park in India by geographical area, famous for protecting the elusive Snow Leopard in high Ladakh altitudes?",
+    "options": [
+      "Hemis National Park (4,400 sq km)",
+      "Desert National Park",
+      "Gangotri National Park",
+      "Namdapha National Park"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "Hemis National Park in Ladakh is India's largest national park and a globally renowned snow leopard stronghold."
+  },
+  {
+    "classLevel": 7,
+    "subject": "GK",
+    "chapter": "Chapter 2: Animal Kingdom, Flora, Fauna & Global Wildlife Conservation",
+    "question": "Which famous bird sanctuary in Rajasthan (formerly known as Bharatpur Bird Sanctuary) is a UNESCO World Heritage site hosting thousands of winter migratory waterfowl including the Siberian Crane?",
+    "options": [
+      "Keoladeo Ghana National Park",
+      "Sultanpur Bird Sanctuary",
+      "Ranganathittu Bird Sanctuary",
+      "Vedanthangal Bird Sanctuary"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "Keoladeo Ghana in Bharatpur is a world-renowned avifaunal wetland sanctuary hosting over 370 migratory bird species."
+  },
+  {
+    "classLevel": 7,
+    "subject": "GK",
+    "chapter": "Chapter 2: Animal Kingdom, Flora, Fauna & Global Wildlife Conservation",
+    "question": "What is the unique floating national park on Loktak Lake in Manipur, the ONLY floating national park in the world, home to the endangered Brow-antlered Deer ('Sangai' / Dancing Deer)?",
+    "options": [
+      "Keibul Lamjao National Park",
+      "Nokrek National Park",
+      "Balphakram National Park",
+      "Mouling National Park"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "Keibul Lamjao is a floating wetland sanctuary comprised of decomposing biomass mats ('phumdis') harboring the endemic Sangai deer."
+  },
+  {
+    "classLevel": 7,
+    "subject": "GK",
+    "chapter": "Chapter 2: Animal Kingdom, Flora, Fauna & Global Wildlife Conservation",
+    "question": "What is the unique evolutionary feature of Monotremes (such as the Duck-billed Platypus and Echidna of Australia)?",
+    "options": [
+      "They are the ONLY surviving mammals that lay EGGS instead of giving birth to live young, yet suckle their hatched young with mother's milk",
+      "They have scales like fish",
+      "They can breathe underwater without lungs",
+      "They have no blood"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "Monotremes are oviparous (egg-laying) mammals possessing mammary gland milk secretion and cloacal anatomy."
+  },
+  {
+    "classLevel": 7,
+    "subject": "GK",
+    "chapter": "Chapter 2: Animal Kingdom, Flora, Fauna & Global Wildlife Conservation",
+    "question": "What is the unique biological feature of Marsupial mammals (such as Kangaroos, Koalas, and Wombats)?",
+    "options": [
+      "Females give birth to tiny, underdeveloped embryonic young that crawl into an external maternal abdominal pouch (Marsupium) to nurse and complete development",
+      "They can fly like eagles",
+      "They are cold-blooded like snakes",
+      "They have blue fur"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "Marsupials possess a short gestation period followed by post-natal lactation development inside a ventral pouch (marsupium)."
+  },
+  {
+    "classLevel": 7,
+    "subject": "GK",
+    "chapter": "Chapter 2: Animal Kingdom, Flora, Fauna & Global Wildlife Conservation",
+    "question": "What is 'Echolocation' used by Bats and Toothed Whales (Dolphins) to hunt prey and navigate in total darkness?",
+    "options": [
+      "Emitting high-frequency ultrasound sound pulses and listening to returning reflected echoes to calculate the exact distance, shape, and speed of objects",
+      "Using thermal heat vision",
+      "Smelling underwater",
+      "Using magnetic compasses in eyes"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "Biological sonar/echolocation computes spatial acoustic topographies from reflected ultrasonic wave reflections."
+  },
+  {
+    "classLevel": 7,
+    "subject": "GK",
+    "chapter": "Chapter 2: Animal Kingdom, Flora, Fauna & Global Wildlife Conservation",
+    "question": "Which marine reptile undertakes epic multi-thousand-kilometer trans-oceanic migrations to nest in millions simultaneously ('Arribada') on the beaches of Gahirmatha and Rushikulya in Odisha?",
+    "options": [
+      "Olive Ridley Sea Turtle (Lepidochelys olivacea)",
+      "Leatherback Sea Turtle",
+      "Green Sea Turtle",
+      "Hawksbill Turtle"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "Gahirmatha Marine Sanctuary in Odisha is the world's largest mass-nesting rookery (Arribada) for Olive Ridley sea turtles."
+  },
+  {
+    "classLevel": 7,
+    "subject": "GK",
+    "chapter": "Chapter 2: Animal Kingdom, Flora, Fauna & Global Wildlife Conservation",
+    "question": "What is the specialized physiological adaptation that allows Camels to survive weeks in scorching desert heat without drinking water?",
+    "options": [
+      "Storing energy-rich fat in their humps (which metabolizes into metabolic water and calories), having oval red blood cells that withstand dehydration, and minimizing sweat/urine loss",
+      "Storing 100 litres of liquid water in their stomach",
+      "Drinking seawater directly",
+      "Sweating 50 litres of water an hour"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "Fat oxidation in humps, non-nucleated oval erythrocytes, high renal water reabsorption, and variable body temperature allow camel xerophilic survival."
+  },
+  {
+    "classLevel": 7,
+    "subject": "GK",
+    "chapter": "Chapter 2: Animal Kingdom, Flora, Fauna & Global Wildlife Conservation",
+    "question": "What is the venomous snake in the world that builds dedicated leaf-litter nests to incubate its eggs, growing up to 5.5 metres long?",
+    "options": [
+      "King Cobra (Ophiophagus hannah)",
+      "Black Mamba",
+      "Russell's Viper",
+      "Common Krait"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "The King Cobra is the world's longest venomous snake and the only snake that constructs dedicated botanical nests for maternal incubation."
+  },
+  {
+    "classLevel": 7,
+    "subject": "GK",
+    "chapter": "Chapter 2: Animal Kingdom, Flora, Fauna & Global Wildlife Conservation",
+    "question": "What is the specialized adaptation of the Arctic Polar Bear (Ursus maritimus) that keeps it warm in freezing sub-zero temperatures?",
+    "options": [
+      "A thick 10 cm layer of insulating subcutaneous fat (blubber), two dense fur coats, and black skin underneath translucent hollow hair fibers that absorb solar heat",
+      "Feathers on its paws",
+      "Drinking boiling water",
+      "Sleeping for 10 years without waking"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "Subcutaneous blubber, dense underfur, hollow photon-scattering guard hairs, and melanin-rich black heat-absorbing epidermis insulate polar bears."
+  },
+  {
+    "classLevel": 7,
+    "subject": "GK",
+    "chapter": "Chapter 2: Animal Kingdom, Flora, Fauna & Global Wildlife Conservation",
+    "question": "Which Indian state has the LARGEST number of wild Bengal Tigers according to the National Tiger Census (over 780 tigers)?",
+    "options": [
+      "Madhya Pradesh ('The Tiger State of India')",
+      "Karnataka",
+      "Uttarakhand",
+      "Maharashtra"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "Madhya Pradesh leads national tiger counts with 785 tigers, earning its designation as the Tiger State of India."
+  },
+  {
+    "classLevel": 7,
+    "subject": "GK",
+    "chapter": "Chapter 2: Animal Kingdom, Flora, Fauna & Global Wildlife Conservation",
+    "question": "What is 'Coral Bleaching' in ocean ecosystems?",
+    "options": [
+      "Rising sea water temperatures cause stressed coral polyps to expel their symbiotic photosynthetic algae (Zooxanthellae), turning corals ghostly white and risking mass mortality",
+      "Corals being painted with white bleach",
+      "Corals freezing into ice",
+      "Fish eating all coral rocks"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "Thermal ocean stress disrupts the mutualism between scleractinian corals and endosymbiotic zooxanthellae, resulting in bleaching."
+  },
+  {
+    "classLevel": 7,
+    "subject": "GK",
+    "chapter": "Chapter 2: Animal Kingdom, Flora, Fauna & Global Wildlife Conservation",
+    "question": "What is the ONLY species of deer in the world where both males and females grow branched antlers?",
+    "options": [
+      "Reindeer (Caribou)",
+      "Spotted Deer (Chital)",
+      "Sambar Deer",
+      "Barking Deer"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "Reindeer (Rangifer tarandus) are unique among cervids in that both stags and hinds grow annual branched bone antlers."
+  },
+  {
+    "classLevel": 7,
+    "subject": "GK",
+    "chapter": "Chapter 2: Animal Kingdom, Flora, Fauna & Global Wildlife Conservation",
+    "question": "What is the famous national park in Karnataka, part of the Nilgiri Biosphere Reserve, renowned for having the largest wild Asian elephant concentration in Asia?",
+    "options": [
+      "Nagarhole National Park (Rajiv Gandhi National Park) and Bandipur",
+      "Periyar National Park",
+      "Mudumalai National Park",
+      "Silent Valley"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "The contiguous Nagarhole-Bandipur-Mudumalai complex holds the highest global density of wild Asian elephants."
+  },
+  {
+    "classLevel": 7,
+    "subject": "GK",
+    "chapter": "Chapter 2: Animal Kingdom, Flora, Fauna & Global Wildlife Conservation",
+    "question": "Read the statements:\nAssertion (A): Apex predators like the Royal Bengal Tiger are considered crucial 'Keystone Species' and 'Umbrella Species' in ecological conservation.\nReason (R): Protecting top carnivores regulates lower herbivore populations, preserves forest vegetative canopies, stabilizes river watersheds, and automatically shields thousands of co-existing species across the ecosystem.\nChoose the correct option:",
+    "options": [
+      "Both (A) and (R) are true, and (R) is the correct explanation of (A).",
+      "Both (A) and (R) are true, but (R) is NOT the correct explanation of (A).",
+      "(A) is true, but (R) is false.",
+      "(A) is false, but (R) is true."
+    ],
+    "correctAnswer": 0,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "Trophic cascades: conserving apex predators maintains structural ecosystem integrity, preventing trophic collapse across food webs."
+  },
+  {
+    "classLevel": 7,
+    "subject": "GK",
+    "chapter": "Chapter 2: Animal Kingdom, Flora, Fauna & Global Wildlife Conservation",
+    "question": "Spot the IMPOSTER in the following group of endangered Indian wildlife matched with their primary native habitats:\nGroup:\n1. Sangai (Dancing Deer) - Loktak Lake, Manipur\n2. Asiatic Lion - Gir Forest, Gujarat\n3. Great Indian Bustard - Thar Desert, Rajasthan\n4. Nilgiri Tahr - Himalayan glaciers of Ladakh",
+    "options": [
+      "Match 1",
+      "Match 2",
+      "Match 3",
+      "Match 4 (Nilgiri Tahr is endemic to the Southern Western Ghats of Kerala/Tamil Nadu, NOT Ladakh)"
+    ],
+    "correctAnswer": 3,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "Nilgiri Tahr (Nilgiritragus hylocrius) is an endangered mountain ungulate endemic to the montane shola-grasslands of Western Ghats (Eravikulam), NOT Ladakh."
+  },
+  {
+    "classLevel": 7,
+    "subject": "GK",
+    "chapter": "Chapter 2: Animal Kingdom, Flora, Fauna & Global Wildlife Conservation",
+    "question": "What is the international conservation convention CITES (Convention on International Trade in Endangered Species of Wild Fauna and Flora)?",
+    "options": [
+      "A legally binding global treaty regulating and banning commercial international trade in endangered wildlife specimens (ivory, tiger skins, rhino horns, exotic timber) to ensure species survival",
+      "A treaty that encourages hunting in all national parks",
+      "A convention that sells wild animals in markets",
+      "A club of zoo owners"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "CITES (1975) accords international trade protections across 38,000+ species via tiered Appendices (I, II, III)."
+  },
+  {
+    "classLevel": 7,
+    "subject": "GK",
+    "chapter": "Chapter 2: Animal Kingdom, Flora, Fauna & Global Wildlife Conservation",
+    "question": "Match Column I (Unique Animals) with Column II (Evolutionary Superpowers):\n(a) Axolotl (Mexican Salamander) -> (i) Full regeneration of lost limbs, spinal cord & heart\n(b) Tardigrade (Water Bear)       -> (ii) Survives vacuum of space, radiation & -200°C via cryptobiosis\n(c) Immortal Jellyfish           -> (iii) Reverts adult medusa cells back to polyp stage endlessly\n(d) Peregrine Falcon             -> (iv) Fastest dive speed on Earth (over 380 km/h)",
+    "options": [
+      "a-(i), b-(ii), c-(iii), d-(iv)",
+      "a-(ii), b-(i), c-(iv), d-(iii)",
+      "a-(iv), b-(iii), c-(ii), d-(i)",
+      "a-(iii), b-(iv), c-(i), d-(ii)"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "Axolotl = limb regeneration; Tardigrade = extreme cryptobiosis; Turritopsis dohrnii = biological immortality; Peregrine = 380 km/h dive."
+  },
+  {
+    "classLevel": 7,
+    "subject": "GK",
+    "chapter": "Chapter 2: Animal Kingdom, Flora, Fauna & Global Wildlife Conservation",
+    "question": "Read the statements regarding biodiversity hotspots in India:\nStatement 1: India contains 4 global Biodiversity Hotspots (The Himalayas, Western Ghats, Indo-Burma, and Sundaland/Nicobar).\nStatement 2: The Nilgiri Biosphere Reserve was the FIRST biosphere reserve established in India in 1986.\nStatement 3: Rhinoceros horns are made of solid elephant ivory bones.\nWhich statements are TRUE?",
+    "options": [
+      "Statements 1 and 2 only",
+      "Statements 2 and 3 only",
+      "Statements 1 and 3 only",
+      "All Statements 1, 2, and 3"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "Statement 3 is false because rhino horns are composed of compacted KERATIN protein (like human hair/nails), NOT bone or ivory. Statements 1 and 2 are true."
+  },
+  {
+    "classLevel": 7,
+    "subject": "GK",
+    "chapter": "Chapter 2: Animal Kingdom, Flora, Fauna & Global Wildlife Conservation",
+    "question": "What is the unique deep-sea biological phenomenon where 90% of abyssal marine organisms generate their own cold biological light through the enzyme luciferase?",
+    "options": [
+      "Bioluminescence",
+      "Photosynthesis",
+      "Chemosynthesis",
+      "Bioaccumulation"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "Bioluminescence oxidizes luciferin substrate catalyzed by luciferase, producing cold photon emission for communication and predation in dark depths."
+  },
+  {
+    "classLevel": 7,
+    "subject": "GK",
+    "chapter": "Chapter 2: Animal Kingdom, Flora, Fauna & Global Wildlife Conservation",
+    "question": "Why was the 'Bishnoi Community' of Rajasthan historically celebrated for world-pioneering environmental martyrdom in 1730 at Khejarli?",
+    "options": [
+      "Amrita Devi Bishnoi and 363 Bishnois sacrificed their lives hugging sacred Khejri trees to prevent them from being felled by royal soldiers",
+      "They discovered diamond mines in the desert",
+      "They built the first zoo in India",
+      "They invented solar powered cars"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "In 1730, Amrita Devi and 363 Bishnoi martyrs gave their lives protecting Prosopis cineraria (Khejri) trees, inspiring the modern Chipko movement."
+  },
+  {
+    "classLevel": 7,
+    "subject": "GK",
+    "chapter": "Chapter 2: Animal Kingdom, Flora, Fauna & Global Wildlife Conservation",
+    "question": "What is the specialized migratory adaptation of the Arctic Tern (Sterna paradisaea) that makes it the champion world traveler?",
+    "options": [
+      "It undertakes an annual round-trip migration of over 70,000 to 90,000 km between the Arctic and Antarctic, experiencing two summers a year",
+      "It flies to the moon and back",
+      "It swims across the bottom of the ocean",
+      "It stays asleep while flying for 20 years"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "The Arctic Tern completes the longest circumpolar pole-to-pole migration on Earth (~90,000 km annually)."
+  },
+  {
+    "classLevel": 7,
+    "subject": "GK",
+    "chapter": "Chapter 2: Animal Kingdom, Flora, Fauna & Global Wildlife Conservation",
+    "question": "What is 'Biomagnification' (Biological Magnification) in wildlife food chains?",
+    "options": [
+      "The progressive increase in concentration of persistent toxic non-biodegradable chemicals (like DDT, heavy metals, microplastics) at each successively higher trophic level",
+      "Animals growing bigger in size every year",
+      "Looking at animals through a giant magnifying glass",
+      "Plants producing double the flowers in spring"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "Lipophilic xenobiotics resist metabolic breakdown, bio-accumulating exponentially toward apex trophic consumers (e.g. raptor eggshell thinning)."
+  },
+  {
+    "classLevel": 7,
+    "subject": "GK",
+    "chapter": "Chapter 2: Animal Kingdom, Flora, Fauna & Global Wildlife Conservation",
+    "question": "What is the critically endangered avian raptor of India whose population plummeted by 99% due to toxic veterinary residues of the anti-inflammatory drug 'Diclofenac' in cattle carcasses?",
+    "options": [
+      "Indian Vulture (Gyps indicus) and White-rumped Vulture",
+      "Great Indian Hornbill",
+      "Peregrine Falcon",
+      "Golden Eagle"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "Diclofenac ingested from livestock carcasses caused catastrophic visceral gout and renal failure in Gyps vultures across South Asia."
+  },
+  {
+    "classLevel": 7,
+    "subject": "GK",
+    "chapter": "Chapter 2: Animal Kingdom, Flora, Fauna & Global Wildlife Conservation",
+    "question": "What is the unique ecosystem function performed by the 'Mangrove Sundari Trees' in the Sundarbans against cyclones and tidal storm surges?",
+    "options": [
+      "Their dense interlaced stilt and prop root systems dissipate up to 66% of cyclonic wave energy, acting as resilient bio-shields preventing coastal soil erosion",
+      "They produce poisonous gas against storms",
+      "They absorb all salt from the sea",
+      "They make rain fall backwards"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "Rhizophora and Heritiera prop root lattices attenuate hydrodynamic kinetic energy from severe tropical cyclonic surges."
+  },
+  {
+    "classLevel": 7,
+    "subject": "GK",
+    "chapter": "Chapter 2: Animal Kingdom, Flora, Fauna & Global Wildlife Conservation",
+    "question": "What ultimate moral and scientific mandate concludes our understanding of the Global Animal Kingdom and Wildlife Conservation?",
+    "options": [
+      "Biodiversity is the living life-support infrastructure of planet Earth; preserving intact habitats, ecological corridors, and endangered species is essential for the survival of human civilization itself",
+      "Wild animals should be completely replaced by domesticated pets",
+      "Deforestation is necessary to eliminate all wild predators",
+      "Only animals useful to human commerce deserve protection"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "Ecosystem stability and human biospheric survival depend directly on preserving biodiversity, genetic resilience, and ecological networks."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Social Science",
+    "chapter": "Chapter 2: New Kings and Kingdoms",
+    "question": "In the 8th century, who was the Rashtrakuta chief who overthrew his Chalukya overlord and performed the famous 'Hiranya-garbha' (Golden Womb) rebirth ritual to claim Kshatriya status?",
+    "options": [
+      "Dantidurga",
+      "Pulakeshin II",
+      "Rajaraja I",
+      "Nagabhata I"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "Rashtrakuta chief Dantidurga performed the Hiranya-garbha ritual with Brahmana priests to ritually transform into a Kshatriya monarch."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Social Science",
+    "chapter": "Chapter 2: New Kings and Kingdoms",
+    "question": "What does the Sanskrit term 'Hiranya-garbha' literally translate to?",
+    "options": [
+      "Golden Womb (a ritual of spiritual rebirth as a Kshatriya ruler)",
+      "Golden Crown",
+      "Golden Sword",
+      "Golden Horse"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "Hiranya (gold) + Garbha (womb) symbolizes ritual rebirth as an anointed Kshatriya ruler."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Social Science",
+    "chapter": "Chapter 2: New Kings and Kingdoms",
+    "question": "Which three major medieval Indian dynasties fought the centuries-long famous 'Tripartite Struggle' for control over the prized strategic city of KANNAUJ in the Gangetic valley?",
+    "options": [
+      "Gurjara-Pratiharas, Rashtrakutas, and Palas",
+      "Cholas, Cheras, and Pandyas",
+      "Guptas, Mauryas, and Kushanas",
+      "Mughals, Marathas, and British"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "The Tripartite Struggle pitted the Gurjara-Pratiharas (West/North), Palas (East/Bengal), and Rashtrakutas (Deccan) over Kannauj."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Social Science",
+    "chapter": "Chapter 2: New Kings and Kingdoms",
+    "question": "Who was the 12th-century Kashmiri Sanskrit scholar and poet who composed the legendary historical Sanskrit verse chronicle 'Rajatarangini' (River of Kings)?",
+    "options": [
+      "Kalhana",
+      "Banabhatta",
+      "Harisena",
+      "Bilhana"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "Kalhana authored the Rajatarangini (1148–1150 CE), an exceptionally objective, critical historical chronicle of Kashmiri monarchs."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Social Science",
+    "chapter": "Chapter 2: New Kings and Kingdoms",
+    "question": "Which famous Chahamana (Chauhan) ruler defeated the Afghan ruler Sultan Muhammad Ghori in the First Battle of Tarain in 1191 CE?",
+    "options": [
+      "Prithviraja III (Prithviraj Chauhan)",
+      "Vigraharaja IV",
+      "Harshavardhana",
+      "Rana Sanga"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "Prithviraja III defeated Muhammad Ghori at Tarain in 1191 CE (though lost the second battle in 1192 CE)."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Social Science",
+    "chapter": "Chapter 2: New Kings and Kingdoms",
+    "question": "Who was the founder of the Imperial Chola dynasty who captured the Kaveri delta from the Muttaraiyar chiefs in the middle of the 9th century and built Thanjavur?",
+    "options": [
+      "Vijayalaya Chola",
+      "Rajaraja I",
+      "Rajendra I",
+      "Karikala"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "Vijayalaya Chola captured Thanjavur (Tanjore) c. 850 CE, establishing the imperial Chola dynastic capital."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Social Science",
+    "chapter": "Chapter 2: New Kings and Kingdoms",
+    "question": "Who was considered the most powerful and celebrated Chola ruler, ascending the throne in 985 CE, who built the grand Brihadisvara Temple at Thanjavur?",
+    "options": [
+      "Rajaraja I (Rajaraja Chola)",
+      "Vijayalaya",
+      "Rajendra I",
+      "Kulothunga I"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "Rajaraja I (r. 985–1014 CE) reorganized Chola administration, commanded powerful naval armadas, and built the colossal Brihadisvara Temple."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Social Science",
+    "chapter": "Chapter 2: New Kings and Kingdoms",
+    "question": "Which ambitious Chola king (son of Rajaraja I) marched his armies north to the Ganga river, built the magnificent new capital 'Gangaikondacholapuram', and launched naval expeditions to conquer Srivijaya (Southeast Asia)?",
+    "options": [
+      "Rajendra I",
+      "Vijayalaya",
+      "Rajaraja II",
+      "Aditya I"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "Rajendra I assumed the title 'Gangaikondachola' (Conqueror of the Ganga) and founded Gangaikondacholapuram in 1025 CE."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Social Science",
+    "chapter": "Chapter 2: New Kings and Kingdoms",
+    "question": "What world-renowned fine metallic art form reached its supreme zenith of aesthetic elegance during the Chola period (such as the famous dancing Nataraja Shiva)?",
+    "options": [
+      "Chola Lost-Wax Bronze Sculptures",
+      "Terracotta pottery",
+      "Marble carvings",
+      "Gold coins only"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "Chola cire-perdue (lost-wax) bronze sculptures, particularly the Nataraja cosmic dancer, are celebrated among the finest in world art."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Social Science",
+    "chapter": "Chapter 2: New Kings and Kingdoms",
+    "question": "In Chola rural administration, what was a settlement / village assembly of peasant cultivators called?",
+    "options": [
+      "Ur",
+      "Sabha",
+      "Nagaram",
+      "Mandalam"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "The 'Ur' was the autonomous village assembly of non-Brahmana peasant landholders in the Chola realm."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Social Science",
+    "chapter": "Chapter 2: New Kings and Kingdoms",
+    "question": "In Chola administration, what was an assembly of prominent Brahmana landholders governing a Brahmadeya (tax-free land grant) village called?",
+    "options": [
+      "Sabha",
+      "Ur",
+      "Nagaram",
+      "Valanadu"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "The 'Sabha' was the democratic council of learned Brahmana landholders managing Brahmadeya villages through specialized committees."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Social Science",
+    "chapter": "Chapter 2: New Kings and Kingdoms",
+    "question": "Which famous Tamil Nadu temple inscription in Kanchipuram district provides detailed, exact rules and democratic lottery qualification procedures for election to the Sabha committees?",
+    "options": [
+      "Uttaramerur Inscription",
+      "Aihole Inscription",
+      "Prayag Prashasti",
+      "Hathigumpha Inscription"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "The 10th-century Parantaka I Uttaramerur inscriptions lay down precise democratic eligibility criteria and the pot-lottery (Kudavolai) voting system."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Social Science",
+    "chapter": "Chapter 2: New Kings and Kingdoms",
+    "question": "How did Kadamba Mayurasharman and Gurjara-Pratihara Harichandra establish their royal dynasties in Karnataka and Rajasthan despite being Brahmanas by birth?",
+    "options": [
+      "They gave up their traditional priestly vocations, took up arms and military warfare, and successfully carved out independent sovereign kingdoms by force",
+      "They were crowned by Roman emperors",
+      "They inherited the kingdoms from Buddhist monks",
+      "They purchased the land with Greek gold"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "Brahmana chiefs Mayurasharman and Harichandra abandoned sacerdotal duties, taking up arms to establish Kadamba and Pratihara kingdoms."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Social Science",
+    "chapter": "Chapter 2: New Kings and Kingdoms",
+    "question": "What was the 'Kudavolai' system of democratic committee selection recorded in the Uttaramerur inscription of the Cholas?",
+    "options": [
+      "Names of eligible candidates were written on palm-leaf tickets, placed in an earthenware pot, and a young boy was asked to pick tickets one by one to form specialized governing committees (Variyams)",
+      "Candidates fought a sword duel",
+      "The King chose his family members only",
+      "People raised hands in a large stadium"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "The Kudavolai pot-lottery system selected committee members (Variyams) for irrigation, gardens, and temples via blind ballot draws."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Social Science",
+    "chapter": "Chapter 2: New Kings and Kingdoms",
+    "question": "What rigorous eligibility criteria were mandated for a candidate to contest election to the Chola Sabha committees at Uttaramerur?",
+    "options": [
+      "Must own tax-paying land, have a private house, be aged 35–70, possess knowledge of the Vedas, be honest, and must NOT have served on any committee in the previous 3 years",
+      "Must be the richest merchant in the city",
+      "Must have won at least 10 wars",
+      "Must be a relative of the King"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "Uttaramerur rules: age 35–70, Vedic literacy, property ownership, financial integrity, and mandatory 3-year term rotation."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Social Science",
+    "chapter": "Chapter 2: New Kings and Kingdoms",
+    "question": "Why was Kalhana's Sanskrit historical chronicle 'Rajatarangini' unique and remarkably distinct from typical contemporary court Prashastis?",
+    "options": [
+      "Unlike eulogistic court poets who only praised monarchs, Kalhana critically analyzed inscriptions, coins, and earlier chronicles, openly criticizing rulers for bad policies and unjust governance",
+      "Because it was written in Persian poetry",
+      "Because Kalhana was an Arab cartographer",
+      "Because it contains only fictional fairy tales"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "Kalhana practiced critical historiography: cross-examining multiple epigraphic sources and offering candid critiques of royal misrule."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Social Science",
+    "chapter": "Chapter 2: New Kings and Kingdoms",
+    "question": "Why did Mahmud of Ghazni (ruler of Ghazni, Afghanistan) repeatedly raid and plunder wealthy northern Indian temple cities (such as Somnath in Gujarat) between 1000 and 1025 CE?",
+    "options": [
+      "To loot immense accumulated gold and diamond temple wealth to finance his imperial campaigns, armies, and grand capital city of Ghazni in Central Asia",
+      "To build Hindu temples in Afghanistan",
+      "To settle down as a farmer in Gujarat",
+      "To study Sanskrit literature in Varanasi"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "Mahmud of Ghazni raided temple treasuries (Somnath 1026 CE) to finance Central Asian military expansions and embellish Ghazni."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Social Science",
+    "chapter": "Chapter 2: New Kings and Kingdoms",
+    "question": "Who was the profound Persian scholar and polymath whom Mahmud of Ghazni brought to India to study Indian culture, who authored the definitive encyclopedic work 'Kitab al-Hind'?",
+    "options": [
+      "Al-Biruni (Abu Rayhan al-Biruni)",
+      "Ibn Battuta",
+      "Ziauddin Barani",
+      "Amir Khusrau"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "Al-Biruni mastered Sanskrit and consulted Brahmana pandits to author 'Kitab al-Hind' (1030 CE), a masterwork on Indian science, religion, and philosophy."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Social Science",
+    "chapter": "Chapter 2: New Kings and Kingdoms",
+    "question": "What agricultural and hydraulic revolution engineered by the Cholas transformed the Kaveri delta into the granary of South India?",
+    "options": [
+      "Constructing massive river embankments to prevent flooding, digging extensive canal networks to channel Kaveri waters directly into paddy fields, and building enormous water storage tanks (Eris)",
+      "Spraying chemical fertilizers imported from China",
+      "Building glass greenhouses across all farms",
+      "Planting only wheat in coastal mud"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "Chola hydraulic engineering: sluices, bunds, inter-connected irrigation canals, and community rainfed tanks (eris) yielding 2–3 rice crops annually."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Social Science",
+    "chapter": "Chapter 2: New Kings and Kingdoms",
+    "question": "In Chola inscriptions, what did the term 'Brahmadeya' signify?",
+    "options": [
+      "Tax-free agricultural land gifted as a royal endowment to learned Brahmanas",
+      "Land gifted to military generals",
+      "Land belonging to non-Brahmana peasants",
+      "Land maintained for royal hunting"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "Brahmadeya was revenue-exempt land granted by monarchs to Brahmanas to promote Vedic learning and agricultural settlement."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Social Science",
+    "chapter": "Chapter 2: New Kings and Kingdoms",
+    "question": "What were the administrative territorial divisions in the Chola Empire called (from largest to smallest)?",
+    "options": [
+      "Mandalams (Provinces) -> Valanadus (Districts) -> Nadus (Groups of villages) -> Grama / Ur (Village)",
+      "States -> Cities -> Towns -> Houses",
+      "Janapadas -> Mahajanapadas -> Empires",
+      "Subas -> Sarkars -> Parganas"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "Chola administrative hierarchy: Mandalam (province) → Valanadu (district) → Nadu (taluk/village cluster) → Grama/Ur (village unit)."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Social Science",
+    "chapter": "Chapter 2: New Kings and Kingdoms",
+    "question": "In the 400 different tax terms recorded in Chola inscriptions, what was 'Vetti' and 'Kadamai'?",
+    "options": [
+      "'Vetti' was tax taken not in cash but in the form of FORCED LABOUR ; 'Kadamai' was land revenue tax",
+      "'Vetti' was a tax on horses ; 'Kadamai' was a tax on houses",
+      "'Vetti' was tax on gold ; 'Kadamai' was tax on silk",
+      "Both were voluntary donations"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "Chola fiscal records (e.g. Thanjavur): Vetti represented uncompensated corvée forced labor, while Kadamai was agricultural land revenue."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Social Science",
+    "chapter": "Chapter 2: New Kings and Kingdoms",
+    "question": "What happened to the Gurjara-Pratiharas, Rashtrakutas, and Palas at the end of the long Tripartite Struggle?",
+    "options": [
+      "All three dynasties exhausted their military and economic resources in continuous war, leading to their mutual decline and replacement by feudatories (like Chauhans, Paramaras, Senas)",
+      "They formed a single combined world empire",
+      "They ruled India together until the 19th century",
+      "They all migrated to Rome"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "Protracted attrition over Kannauj drained the treasuries of all three empires, fragmenting northern and peninsular India into smaller Rajput and Deccan states."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Social Science",
+    "chapter": "Chapter 2: New Kings and Kingdoms",
+    "question": "What grand titles did powerful medieval monarchs adopt to display imperial sovereignty (e.g. Tribhuvana-chakravartin)?",
+    "options": [
+      "Maharajadhiraja (Great King of Kings) and Tribhuvana-chakravartin (Lord of the Three Worlds)",
+      "Raja only",
+      "Samanta",
+      "Gramani"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "Medieval monarchs adopted grandiloquent imperial epithets (Maharajadhiraja, Tribhuvana-chakravartin) to project absolute cosmological authority."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Social Science",
+    "chapter": "Chapter 2: New Kings and Kingdoms",
+    "question": "In Chola land classification, what was 'Vellanvagai' land?",
+    "options": [
+      "Land of non-Brahmana peasant proprietors",
+      "Land gifted to temples",
+      "Land for maintenance of schools",
+      "Land gifted to Jain institutions"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "Vellanvagai designated agricultural land holdings belonging to non-Brahmana Vellalar peasant proprietors."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Social Science",
+    "chapter": "Chapter 2: New Kings and Kingdoms",
+    "question": "In Chola land classification, what was 'Shalabhoga' land?",
+    "options": [
+      "Land granted for the maintenance of a school (shala)",
+      "Land gifted to temples",
+      "Land for cattle grazing",
+      "Land given to palace cooks"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "'Shala' (school) + 'Bhoga' (endowment): Shalabhoga was land reserved exclusively to fund educational academies."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Social Science",
+    "chapter": "Chapter 2: New Kings and Kingdoms",
+    "question": "In Chola land classification, what was 'Devadana' (or Tirunamattukkani)?",
+    "options": [
+      "Land gifted directly to temples as sacred endowments",
+      "Land gifted to soldiers",
+      "Land belonging to the king",
+      "Forest land"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "Devadana (gift to gods) lands generated perennial revenue to maintain temple rituals, priests, musicians, and festivals."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Social Science",
+    "chapter": "Chapter 2: New Kings and Kingdoms",
+    "question": "What was 'Pallichchhandam' in Chola land grants?",
+    "options": [
+      "Land donated to Jaina institutions and basadis",
+      "Land for Buddhist stupas",
+      "Land for building roads",
+      "Land for royal stables"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "Pallichchhandam represented tax-free land endowments donated to support Jain monastic establishments (basadis)."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Social Science",
+    "chapter": "Chapter 2: New Kings and Kingdoms",
+    "question": "Read the statements:\nAssertion (A): The grand structural temples built by Chola kings (Thanjavur and Gangaikondacholapuram) were not merely religious places of worship, but the socio-economic and cultural nuclei of entire regional settlements.\nReason (R): Temple endowments generated vast employment for priests, garland-makers, cooks, musicians, dancers, bronze-smiths, managed massive irrigation treasuries, and drove urban craft markets.\nChoose the correct option:",
+    "options": [
+      "Both (A) and (R) are true, and (R) is the correct explanation of (A).",
+      "Both (A) and (R) are true, but (R) is NOT the correct explanation of (A).",
+      "(A) is true, but (R) is false.",
+      "(A) is false, but (R) is true."
+    ],
+    "correctAnswer": 0,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "Chola monumental temples operated as central economic redistributive engines, banking institutions, and cultural epicenters."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Social Science",
+    "chapter": "Chapter 2: New Kings and Kingdoms",
+    "question": "Spot the IMPOSTER in the following group of early medieval dynasties matched with their core geographical heartlands:\nGroup:\n1. Gurjara-Pratiharas - Western India & Rajasthan\n2. Palas - Bengal and Bihar\n3. Rashtrakutas - Deccan (Maharashtra / Karnataka)\n4. Cholas - Punjab and Kashmir",
+    "options": [
+      "Match 1",
+      "Match 2",
+      "Match 3",
+      "Match 4 (Cholas ruled the Kaveri Delta and Tamil Country in South India, NOT Punjab/Kashmir)"
+    ],
+    "correctAnswer": 3,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "The Chola heartland was the Kaveri river basin (Cholamandalam) in Tamil Nadu, NOT Punjab or Kashmir."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Social Science",
+    "chapter": "Chapter 2: New Kings and Kingdoms",
+    "question": "Analyze the 'Lost-Wax Technique' (Cire Perdue) perfected by Chola master bronze craftsmen:\nWhat was the exact technological sequence?",
+    "options": [
+      "Sculpt a detailed beeswax model -> coat with fine clay & dry -> heat to melt and drain wax out through a hole -> pour molten bronze into the hollow clay mold -> cool and break clay casing to polish the bronze statue",
+      "Carve bronze with a hammer directly from stone",
+      "Pour cold water on hot copper sheets",
+      "Dip wooden statues into gold paint"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "Lost-wax casting: wax modeling → refractory clay encasing → thermal de-waxing → molten bronze pour → deshelling and chasing/burnishing."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Social Science",
+    "chapter": "Chapter 2: New Kings and Kingdoms",
+    "question": "Match Column I (Chola Land Terms) with Column II (Exact Definitions from Inscriptions):\n(a) Vellanvagai    -> (i) Land of non-Brahmana peasant proprietors\n(b) Brahmadeya      -> (ii) Land gifted to Brahmanas\n(c) Shalabhoga      -> (iii) Land for the maintenance of a school\n(d) Pallichchhandam -> (iv) Land donated to Jaina institutions",
+    "options": [
+      "a-(i), b-(ii), c-(iii), d-(iv)",
+      "a-(ii), b-(i), c-(iv), d-(iii)",
+      "a-(iv), b-(iii), c-(ii), d-(i)",
+      "a-(iii), b-(iv), c-(i), d-(ii)"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "Vellanvagai = peasant land; Brahmadeya = Brahmana grant; Shalabhoga = school; Pallichchhandam = Jain grant."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Social Science",
+    "chapter": "Chapter 2: New Kings and Kingdoms",
+    "question": "Read the statements regarding the Battle of Tarain:\nStatement 1: The First Battle of Tarain (1191 CE) ended in a decisive victory for Prithviraja Chauhan, routing Muhammad Ghori's forces.\nStatement 2: The Second Battle of Tarain (1192 CE) resulted in the defeat of Prithviraja Chauhan, paving the way for the establishment of the Delhi Sultanate.\nStatement 3: Prithviraja Chauhan fought using modern gunpowder cannons and tanks.\nWhich statements are TRUE?",
+    "options": [
+      "Statements 1 and 2 only",
+      "Statements 2 and 3 only",
+      "Statements 1 and 3 only",
+      "All Statements 1, 2, and 3"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "Statement 3 is an anachronistic falsehood (artillery/gunpowder came centuries later). Statements 1 and 2 are historical facts."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Social Science",
+    "chapter": "Chapter 2: New Kings and Kingdoms",
+    "question": "Why did medieval kings deliberately build colossal, soaring stone temples and adorn them with lavish gold and jewel endowments?",
+    "options": [
+      "To proclaim their supreme wealth, imperial power, piety, and divine sanction, while creating economic patronage networks with local elites",
+      "Because temples were used as prisons for soldiers",
+      "Because stone was the only building material available",
+      "To hide from invading foreign armies"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "Monumental temple patronage legitimized royal sovereignty, embodying divine kingship and cementing fiscal-agrarian hegemony."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Social Science",
+    "chapter": "Chapter 2: New Kings and Kingdoms",
+    "question": "How did the Chola navy under Rajaraja I and Rajendra I achieve maritime hegemony across the Bay of Bengal (often called the 'Chola Lake')?",
+    "options": [
+      "They constructed a powerful high-seas naval fleet that conquered the Maldives, Sri Lanka, and launched maritime expeditions against the Srivijaya Empire (Sumatra/Malaysia) to protect strategic trade routes to China",
+      "They hired European pirate ships",
+      "They built bridges across the entire ocean",
+      "They drained the Bay of Bengal"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "Chola blue-water thalassocracy secured maritime trade networks across the Malacca Straits, trading with Song Dynasty China."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Social Science",
+    "chapter": "Chapter 2: New Kings and Kingdoms",
+    "question": "What democratic safeguard was enforced in the Uttaramerur Sabha election rules to prevent corruption, dynastic entrenchment, and power abuse?",
+    "options": [
+      "Anyone who had been a member of any committee for the past 3 years, or who had failed to submit full audited financial accounts of his past committee tenure, was STRICTLY DISQUALIFIED from contesting",
+      "Candidates had to pay 100 gold coins to vote",
+      "Only the oldest man in the village could rule",
+      "Votes were decided by sword fighting"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "Mandatory 3-year term limits and strict financial account auditing barred entrenched dynastic oligarchies in the Sabha."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Social Science",
+    "chapter": "Chapter 2: New Kings and Kingdoms",
+    "question": "Consider four prominent rulers of early medieval India:\n1. Dantidurga (Rashtrakuta)\n2. Prithviraja III (Chauhan)\n3. Rajendra I (Chola)\n4. Mahmud of Ghazni (Ghaznavid)\nWhich monarch led an overseas naval expedition across Southeast Asia against Srivijaya?",
+    "options": [
+      "Ruler 3 (Rajendra I Chola)",
+      "Ruler 1",
+      "Ruler 2",
+      "Ruler 4"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "In 1025 CE, Rajendra I dispatched an armada attacking Srivijaya ports across the Indonesian archipelago and Malay Peninsula."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Social Science",
+    "chapter": "Chapter 2: New Kings and Kingdoms",
+    "question": "What was the role of the 'Nagaram' in the Chola imperial commercial economy?",
+    "options": [
+      "Merchant associations and trading guilds that maintained commercial markets, levied local trade tariffs, and performed municipal administrative functions in mercantile towns",
+      "Peasant farming assemblies in forests",
+      "Assemblies of temple dancers only",
+      "The King's personal bodyguard unit"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "Nagarams (like Ayyavole and Manigramam guilds) managed civic urban commerce, merchant law, and maritime emporiums."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Social Science",
+    "chapter": "Chapter 2: New Kings and Kingdoms",
+    "question": "Why is the 9th–12th century Chola administration celebrated by modern political scientists as a pioneer of 'Decentralized Grassroots Democracy'?",
+    "options": [
+      "While maintaining an overarching imperial defense and foreign policy, local village assemblies (Urs and Sabhas) enjoyed complete self-governance, running committees for canals, dispute settlement, and local taxation",
+      "Because the Cholas had no central king",
+      "Because elections were held on modern electronic machines",
+      "Because all land was owned by the British"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "The Chola state balanced centralized imperial thalassocracy with highly autonomous, democratic village-level communal governance."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Social Science",
+    "chapter": "Chapter 2: New Kings and Kingdoms",
+    "question": "What master historical synthesis is established in Chapter 2 of NCERT Class 7 History?",
+    "options": [
+      "The transition from early feudal chieftains (Samantas) to powerful regional and pan-regional imperial dynasties, characterized by grand temple building, sophisticated hydraulic agrarian engineering, fine bronze arts, and self-governing local village institutions",
+      "A period of total darkness without any kings or art",
+      "The complete destruction of all agriculture",
+      "The end of Indian history"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "Chapter 2 illuminates the rise of dynamic regional kingdoms, military statecraft, temple-centered urbanization, and grassroots rural democracy."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Hindi Grammar",
+    "chapter": "Chapter 2: वर्ण विचार एवं वर्तनी",
+    "question": "भाषा की वह सबसे छोटी मूल मौखिक या लिखित इकाई, जिसके और टुकड़े (खंड) नहीं किए जा सकते, उसे क्या कहते हैं?",
+    "options": [
+      "वर्ण (या ध्वनि / Letter)",
+      "शब्द",
+      "वाक्य",
+      "पद"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "वर्ण भाषा की सूक्ष्मतम अविभाज्य मूल ध्वनि-इकाई है (जैसे: अ, इ, क्, ख्)।"
+  },
+  {
+    "classLevel": 7,
+    "subject": "Hindi Grammar",
+    "chapter": "Chapter 2: वर्ण विचार एवं वर्तनी",
+    "question": "किसी भाषा के वर्णों के व्यवस्थित, क्रमबद्ध और मानक समूह को क्या कहते हैं?",
+    "options": [
+      "वर्णमाला (Alphabet)",
+      "शब्दकोश",
+      "व्याकरण",
+      "लिपि"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "वर्णों के व्यवस्थित एवं प्रामाणिक समूह को 'वर्णमाला' कहते हैं।"
+  },
+  {
+    "classLevel": 7,
+    "subject": "Hindi Grammar",
+    "chapter": "Chapter 2: वर्ण विचार एवं वर्तनी",
+    "question": "हिंदी वर्णमाला में वर्णों को मुख्य रूप से कितने वर्गों/भेदों में बाँटा गया है?",
+    "options": [
+      "दो भेद (1. स्वर - Vowels, 2. व्यंजन - Consonants)",
+      "चार भेद",
+      "तीन भेद",
+      "पाँच भेद"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "वर्णों के दो मूल भेद हैं: स्वर (स्वतंत्र उच्चरित ध्वनियाँ) तथा व्यंजन (स्वरों की सहायता से उच्चरित ध्वनियाँ)।"
+  },
+  {
+    "classLevel": 7,
+    "subject": "Hindi Grammar",
+    "chapter": "Chapter 2: वर्ण विचार एवं वर्तनी",
+    "question": "जिन वर्णों का उच्चारण बिना किसी अन्य वर्ण की सहायता के स्वतंत्र रूप से होता है, उन्हें क्या कहते हैं?",
+    "options": [
+      "स्वर (Vowels)",
+      "व्यंजन",
+      "संयुक्त व्यंजन",
+      "अयोगवाह"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "स्वतंत्र रूप से अबाध गति से उच्चरित ध्वनियाँ 'स्वर' कहलाती हैं (हिंदी में कुल 11 स्वर हैं)।"
+  },
+  {
+    "classLevel": 7,
+    "subject": "Hindi Grammar",
+    "chapter": "Chapter 2: वर्ण विचार एवं वर्तनी",
+    "question": "हिंदी वर्णमाला में मानक स्वरों की कुल संख्या कितनी है?",
+    "options": [
+      "11 स्वर (अ, आ, इ, ई, उ, ऊ, ऋ, ए, ऐ, ओ, औ)",
+      "13 स्वर",
+      "10 स्वर",
+      "12 स्वर"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "हिंदी वर्णमाला में 11 मानक स्वर होते हैं (अं और अः को अयोगवाह माना जाता है)।"
+  },
+  {
+    "classLevel": 7,
+    "subject": "Hindi Grammar",
+    "chapter": "Chapter 2: वर्ण विचार एवं वर्तनी",
+    "question": "जिन स्वरों के उच्चारण में सबसे कम समय (एक मात्रा का समय) लगता है, उन्हें क्या कहते हैं?",
+    "options": [
+      "ह्रस्व स्वर (Short Vowels : अ, इ, उ, ऋ)",
+      "दीर्घ स्वर",
+      "प्लुत स्वर",
+      "संयुक्त स्वर"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "एकमात्रिक मूल स्वर 'ह्रस्व स्वर' कहलाते हैं (अ, इ, उ, ऋ - कुल 4)।"
+  },
+  {
+    "classLevel": 7,
+    "subject": "Hindi Grammar",
+    "chapter": "Chapter 2: वर्ण विचार एवं वर्तनी",
+    "question": "जिन स्वरों के उच्चारण में ह्रस्व स्वर से दोगुना समय (दो मात्राओं का समय) लगता है, उन्हें क्या कहते हैं?",
+    "options": [
+      "दीर्घ स्वर (Long Vowels : आ, ई, ऊ, ए, ऐ, ओ, औ)",
+      "ह्रस्व स्वर",
+      "प्लुत स्वर",
+      "अयोगवाह"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "द्विमात्रिक स्वर 'दीर्घ स्वर' कहलाते हैं (कुल 7 स्वर)।"
+  },
+  {
+    "classLevel": 7,
+    "subject": "Hindi Grammar",
+    "chapter": "Chapter 2: वर्ण विचार एवं वर्तनी",
+    "question": "जिन वर्णों का उच्चारण स्वरों की सहायता के बिना नहीं किया जा सकता, उन्हें क्या कहते हैं?",
+    "options": [
+      "व्यंजन (Consonants)",
+      "स्वर",
+      "अनुस्वार",
+      "विसर्ग"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "स्वरों की सहायता से बोले जाने वाले वर्ण 'व्यंजन' कहलाते हैं (प्रत्येक व्यंजन में 'अ' स्वर अंतर्निहित होता है)।"
+  },
+  {
+    "classLevel": 7,
+    "subject": "Hindi Grammar",
+    "chapter": "Chapter 2: वर्ण विचार एवं वर्तनी",
+    "question": "हिंदी वर्णमाला में स्पर्श व्यंजनों (क-वर्ग से प-वर्ग तक) की कुल संख्या कितनी है?",
+    "options": [
+      "25 व्यंजन (5 वर्ग × 5 वर्ण = 25)",
+      "33",
+      "11",
+      "4"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "कवर्ग, चवर्ग, टवर्ग, तवर्ग और पवर्ग में 5-5 वर्ण मिलकर कुल 25 'स्पर्श व्यंजन' बनाते हैं।"
+  },
+  {
+    "classLevel": 7,
+    "subject": "Hindi Grammar",
+    "chapter": "Chapter 2: वर्ण विचार एवं वर्तनी",
+    "question": "हिंदी में 'क्ष, त्र, ज्ञ, श्र' वर्णों को किस श्रेणी में रखा जाता है?",
+    "options": [
+      "संयुक्त व्यंजन (Compound Consonants)",
+      "स्पर्श व्यंजन",
+      "अंतःस्थ व्यंजन",
+      "ऊष्म व्यंजन"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "दो भिन्न व्यंजनों के संयोग से बने वर्ण 'संयुक्त व्यंजन' हैं (क्+ष्=क्ष, त्+र्=त्र, ज्+ञ्=ज्ञ, श्+र्=श्र)।"
+  },
+  {
+    "classLevel": 7,
+    "subject": "Hindi Grammar",
+    "chapter": "Chapter 2: वर्ण विचार एवं वर्तनी",
+    "question": "शिरोरेखा के ऊपर बिंदु (ं) के रूप में प्रयुक्त होने वाले नासिक्य चिह्न को व्याकरण में क्या कहते हैं?",
+    "options": [
+      "अनुस्वार (Anusvara - जैसे: गंगा, चंचल, पतंग)",
+      "अनुनासिक (चन्द्रबिन्दु)",
+      "विसर्ग",
+      "हलंत"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "पंचम वर्ण के स्थान पर प्रयुक्त बिंदु प्रतीक 'अनुस्वार' कहलाता है।"
+  },
+  {
+    "classLevel": 7,
+    "subject": "Hindi Grammar",
+    "chapter": "Chapter 2: वर्ण विचार एवं वर्तनी",
+    "question": "शिरोरेखा के ऊपर चन्द्रबिन्दु (ँ) के रूप में प्रयुक्त होने वाले ध्वनि चिह्न (जिसका उच्चारण मुख और नाक दोनों से होता है) को क्या कहते हैं?",
+    "options": [
+      "अनुनासिक (Anunasika - जैसे: चाँद, आँख, गाँव)",
+      "अनुस्वार",
+      "विसर्ग",
+      "नुक्ता"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "मुख और नासिका दोनों के संयुक्त वायु-प्रवाह से उच्चरित स्वर 'अनुनासिक' (चन्द्रबिन्दु ँ) कहलाते हैं।"
+  },
+  {
+    "classLevel": 7,
+    "subject": "Hindi Grammar",
+    "chapter": "Chapter 2: वर्ण विचार एवं वर्तनी",
+    "question": "अंतःस्थ व्यंजन (Semi-vowels) के अंतर्गत कौन-से चार वर्ण आते हैं?",
+    "options": [
+      "य, र, ल, व (Y, R, L, V)",
+      "श, ष, स, ह",
+      "क, ख, ग, घ",
+      "च, छ, ज, झ"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "स्वर और व्यंजन के मध्य स्थित वायु-प्रवाह वाले वर्ण 'य, र, ल, व' अंतःस्थ व्यंजन कहलाते हैं।"
+  },
+  {
+    "classLevel": 7,
+    "subject": "Hindi Grammar",
+    "chapter": "Chapter 2: वर्ण विचार एवं वर्तनी",
+    "question": "ऊष्म व्यंजन (Sibilants / Fricatives) के अंतर्गत कौन-से चार वर्ण आते हैं जिनके उच्चारण में मुख से रगड़ खाकर गर्म वायु निकलती है?",
+    "options": [
+      "श, ष, स, ह (Sh, Sh, S, H)",
+      "य, र, ल, व",
+      "क्ष, त्र, ज्ञ, श्र",
+      "ट, ठ, ड, ढ"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "उच्चारण घर्षण से ऊष्मा उत्पन्न करने वाले वर्ण 'श, ष, स, ह' ऊष्म व्यंजन कहलाते हैं।"
+  },
+  {
+    "classLevel": 7,
+    "subject": "Hindi Grammar",
+    "chapter": "Chapter 2: वर्ण विचार एवं वर्तनी",
+    "question": "'क, ख, ग, घ, ङ' और स्वर 'अ, आ' का उच्चारण मुख के किस स्थान से होता है?",
+    "options": [
+      "कंठ से (कंठ्य ध्वनियाँ / Velar)",
+      "तालु से (तालव्य)",
+      "मूर्धा से (मूर्धन्य)",
+      "दाँतों से (दंत्य)"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "कंठ (गले) से उच्चरित होने वाली ध्वनियाँ 'कंठ्य' कहलाती हैं (अकुहविसर्जनीयानां कण्ठः)।"
+  },
+  {
+    "classLevel": 7,
+    "subject": "Hindi Grammar",
+    "chapter": "Chapter 2: वर्ण विचार एवं वर्तनी",
+    "question": "'च, छ, ज, झ, ञ' और स्वर 'इ, ई' तथा 'य, श' का उच्चारण स्थान क्या है?",
+    "options": [
+      "तालु (तालव्य ध्वनियाँ / Palatal)",
+      "कंठ",
+      "ओष्ठ",
+      "दंत"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "जिह्वा के तालु स्पर्श से उच्चरित ध्वनियाँ 'तालव्य' कहलाती हैं (इचुयशानां तालु)।"
+  },
+  {
+    "classLevel": 7,
+    "subject": "Hindi Grammar",
+    "chapter": "Chapter 2: वर्ण विचार एवं वर्तनी",
+    "question": "'ट, ठ, ड, ढ, ण' और स्वर 'ऋ' तथा 'र, ष' का उच्चारण स्थान क्या है?",
+    "options": [
+      "मूर्धा (मूर्धन्य ध्वनियाँ / Retroflex)",
+      "दंत",
+      "ओष्ठ",
+      "कंठ"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "मूर्धा (कठोर तालु के अग्र भाग) से उच्चरित ध्वनियाँ 'मूर्धन्य' कहलाती हैं (ऋटुरषाणां मूर्धा)।"
+  },
+  {
+    "classLevel": 7,
+    "subject": "Hindi Grammar",
+    "chapter": "Chapter 2: वर्ण विचार एवं वर्तनी",
+    "question": "'त, थ, द, ध, न' और 'ल, स' का उच्चारण स्थान क्या है?",
+    "options": [
+      "दाँत (दंत्य ध्वनियाँ / Dental)",
+      "ओष्ठ",
+      "कंठ",
+      "मूर्धा"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "जिह्वा के दाँतों के स्पर्श से उच्चरित ध्वनियाँ 'दंत्य' कहलाती हैं (लृतुलसानां दन्ताः)।"
+  },
+  {
+    "classLevel": 7,
+    "subject": "Hindi Grammar",
+    "chapter": "Chapter 2: वर्ण विचार एवं वर्तनी",
+    "question": "'प, फ, ब, भ, म' और स्वर 'उ, ऊ' का उच्चारण स्थान क्या है?",
+    "options": [
+      "दोनों होंठ (ओष्ठ्य ध्वनियाँ / Labial)",
+      "दाँत",
+      "कंठ",
+      "तालु"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "दोनों ओष्ठों के परस्पर संसर्ग से उच्चरित ध्वनियाँ 'ओष्ठ्य' कहलाती हैं (उपूपध्मानीयानामोष्ठौ)।"
+  },
+  {
+    "classLevel": 7,
+    "subject": "Hindi Grammar",
+    "chapter": "Chapter 2: वर्ण विचार एवं वर्तनी",
+    "question": "जब एक ही व्यंजन ध्वनि दो बार लगातार संयुक्त होकर आए (पहला स्वर-रहित और दूसरा स्वर-सहित, जैसे: 'पक्का', 'दिल्ली', 'बच्चा', 'सच्चा'), तब उसे क्या कहते हैं?",
+    "options": [
+      "द्वित्व व्यंजन (Geminate Consonants)",
+      "संयुक्त व्यंजन",
+      "स्पर्श व्यंजन",
+      "अयोगवाह"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "समान व्यंजन का स्वररहित और स्वरसहित युग्म 'द्वित्व व्यंजन' कहलाता है (क्+क = क्क, ल्+ल = ल्ल)।"
+  },
+  {
+    "classLevel": 7,
+    "subject": "Hindi Grammar",
+    "chapter": "Chapter 2: वर्ण विचार एवं वर्तनी",
+    "question": "'ज्ञ' संयुक्त व्यंजन किन दो वर्णों के शुद्ध संयोग से बनता है?",
+    "options": [
+      "ज् + ञ् + अ (J + Nya)",
+      "ग् + य् + अ",
+      "ज् + य् + अ",
+      "द् + य् + अ"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "'ज्ञ' वर्ण का मानक व्याकरणिक निर्माण 'ज्' और 'ञ्' के योग से होता है (ज् + ञ् = ज्ञ)।"
+  },
+  {
+    "classLevel": 7,
+    "subject": "Hindi Grammar",
+    "chapter": "Chapter 2: वर्ण विचार एवं वर्तनी",
+    "question": "'श्र' संयुक्त व्यंजन किन दो वर्णों के संयोग से बनता है?",
+    "options": [
+      "श् + र् + अ (Sh + R)",
+      "ष् + र् + अ",
+      "स् + र् + अ",
+      "छ् + र् + अ"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "'श्र' वर्ण का निर्माण तालव्य 'श्' और 'र्' के मेल से होता है (श् + र् = श्र, जैसे: श्री, श्रम)।"
+  },
+  {
+    "classLevel": 7,
+    "subject": "Hindi Grammar",
+    "chapter": "Chapter 2: वर्ण विचार एवं वर्तनी",
+    "question": "'उद्यान' शब्द का शुद्ध वर्ण-विच्छेद क्या होगा?",
+    "options": [
+      "उ + द् + य् + आ + न् + अ",
+      "उ + द् + आ + य् + न् + अ",
+      "उद् + या + न",
+      "उ + द्या + न् + अ"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "उ + द् + य् + आ + न् + अ = उद्यान (द्+य् = द्य)।"
+  },
+  {
+    "classLevel": 7,
+    "subject": "Hindi Grammar",
+    "chapter": "Chapter 2: वर्ण विचार एवं वर्तनी",
+    "question": "'कृपा' शब्द का शुद्ध वर्ण-विच्छेद क्या होगा?",
+    "options": [
+      "क् + ऋ + प् + आ",
+      "क् + र् + इ + प् + आ",
+      "क् + ऋ + पा",
+      "कृ + प् + आ"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "क व्यंजन में 'ऋ' स्वर की मात्रा + प् + आ = क् + ऋ + प् + आ।"
+  },
+  {
+    "classLevel": 7,
+    "subject": "Hindi Grammar",
+    "chapter": "Chapter 2: वर्ण विचार एवं वर्तनी",
+    "question": "उर्दू, अरबी, फ़ारसी तथा अंग्रेज़ी से हिंदी में आए विदेशी शब्दों के शुद्ध उच्चारण हेतु वर्णों के नीचे लगाए जाने वाले बिंदु (जैसे: ज़, फ़, क़, ख़, ग़) को क्या कहते हैं?",
+    "options": [
+      "नुक्ता (Nukta)",
+      "अनुस्वार",
+      "विसर्ग",
+      "हलंत"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "आगत ध्वनियों के तल में लगने वाला लघु बिंदु 'नुक्ता' कहलाता है (जैसे: ज़मीन, फ़िल्म)।"
+  },
+  {
+    "classLevel": 7,
+    "subject": "Hindi Grammar",
+    "chapter": "Chapter 2: वर्ण विचार एवं वर्तनी",
+    "question": "अयोगवाह (Ayogavaha) किन्हें कहा जाता है, जो न तो पूर्ण स्वर होते हैं और न पूर्ण व्यंजन?",
+    "options": [
+      "अनुस्वार (अं) और विसर्ग (अः)",
+      "क्ष और त्र",
+      "य और र",
+      "ड और ढ"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "जो योग न होने पर भी साथ वहन करें, वे 'अयोगवाह' कहलाते हैं (अनुस्वार अं तथा विसर्ग अः)।"
+  },
+  {
+    "classLevel": 7,
+    "subject": "Hindi Grammar",
+    "chapter": "Chapter 2: वर्ण विचार एवं वर्तनी",
+    "question": "'र्' के विभिन्न रूपों में 'पर्वत' और 'कर्म' में प्रयुक्त शिरोरेखा के ऊपर लगने वाले 'र्' के रूप को क्या कहते हैं?",
+    "options": [
+      "रेफ़ (Reph - स्वर रहित र्)",
+      "पदेन",
+      "ऋ की मात्रा",
+      "हलंत"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "स्वररहित 'र्' जब अगले व्यंजन के ऊपर शिरोरेखा पर बैठता है, तो उसे 'रेफ़' कहते हैं (प्+अ+र्+व्+अ+त्+अ = पर्वत)।"
+  },
+  {
+    "classLevel": 7,
+    "subject": "Hindi Grammar",
+    "chapter": "Chapter 2: वर्ण विचार एवं वर्तनी",
+    "question": "'क्रम' और 'प्रकाश' में व्यंजन के पैरों में लगने वाले 'र्' के रूप को क्या कहते हैं?",
+    "options": [
+      "पदेन (Paden - स्वर सहित र्)",
+      "रेफ़",
+      "अनुस्वार",
+      "विसर्ग"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "स्वरसहित 'र्' जब पूर्ववर्ती स्वररहित व्यंजन के चरण में जुड़ता है, तो उसे 'पदेन' कहते हैं (क्+र् = क्र)।"
+  },
+  {
+    "classLevel": 7,
+    "subject": "Hindi Grammar",
+    "chapter": "Chapter 2: वर्ण विचार एवं वर्तनी",
+    "question": "कथन और कारण को ध्यानपूर्वक पढ़ें:\nकथन (A): 'हँसना' में अनुनासिक (चन्द्रबिन्दु) का प्रयोग होता है, जबकि 'हंस' में अनुस्वार (बिन्दु) का प्रयोग होता है, जिससे दोनों के अर्थ में पूर्ण भिन्नता आ जाती है।\nकारण (R): अनुनासिक एक स्वतंत्र स्वर का गुण है जिसका उच्चारण मुख और नासिका दोनों से होता है, जबकि अनुस्वार मूलतः पंचम वर्ण का नासिक्य व्यंजन रूप है।\nसही विकल्प चुनें:",
+    "options": [
+      "(A) और (R) दोनों सही हैं तथा (R), (A) की सही व्याख्या करता है।",
+      "(A) और (R) दोनों सही हैं, परन्तु (R), (A) की सही व्याख्या नहीं करता।",
+      "(A) सही है, परन्तु (R) गलत है।",
+      "(A) गलत है, परन्तु (R) सही है।"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "अनुस्वार (हंस = पक्षी) और अनुनासिक (हँसना = क्रिया) का ध्वनि-तात्विक भेद अर्थ में पूर्ण परिवर्तन ला देता है।"
+  },
+  {
+    "classLevel": 7,
+    "subject": "Hindi Grammar",
+    "chapter": "Chapter 2: वर्ण विचार एवं वर्तनी",
+    "question": "Spot the IMPOSTER in the following group of वर्ण और उनके उच्चारण स्थानों के युग्म में:\nGroup: [क - कंठ्य, च - तालव्य, त - दंत्य, प - मूर्धन्य]",
+    "options": [
+      "क - कंठ्य",
+      "च - तालव्य",
+      "त - दंत्य",
+      "प - मूर्धन्य (प वर्ग ओष्ठ्य ध्वनियाँ हैं, मूर्धन्य नहीं)"
+    ],
+    "correctAnswer": 3,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "'प-वर्ग' (प, फ, ब, भ, म) ओष्ठ्य (Labial) ध्वनियाँ हैं; 'ट-वर्ग' मूर्धन्य होता है।"
+  },
+  {
+    "classLevel": 7,
+    "subject": "Hindi Grammar",
+    "chapter": "Chapter 2: वर्ण विचार एवं वर्तनी",
+    "question": "सुमेलित कीजिए (वर्ण-विच्छेद और उनके शुद्ध मानक शब्द):\n(क) क् + ष् + अ + त् + र् + इ + य् + अ -> (i) क्षत्रिय\n(ख) श् + र् + ऋ + ङ् + ग् + आ + र् + अ -> (ii) शृंगार\n(ग) द् + व् + आ + र् + इ + क् + आ     -> (iii) द्वारिका / द्वारका\n(घ) व् + इ + ज् + ञ् + आ + न् + अ     -> (iv) विज्ञान",
+    "options": [
+      "क-(i), ख-(ii), ग-(iii), घ-(iv)",
+      "क-(ii), ख-(i), ग-(iv), घ-(iii)",
+      "क-(iv), ख-(iii), ग-(ii), घ-(i)",
+      "क-(iii), ख-(iv), ग-(i), घ-(ii)"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "क्+ष् = क्ष; श्+ऋ = शृ (शृंगार); द्+व् = द्व; ज्+ञ् = ज्ञ (विज्ञान)।"
+  },
+  {
+    "classLevel": 7,
+    "subject": "Hindi Grammar",
+    "chapter": "Chapter 2: वर्ण विचार एवं वर्तनी",
+    "question": "'शृंगार' शब्द की मानक शुद्ध वर्तनी और वर्ण संरचना क्या है?",
+    "options": [
+      "'शृंगार' (तालव्य 'श्' में स्वर 'ऋ' की मात्रा जुड़ने पर 'शृ' बनता है ; इसमें 'र' का पदेन नहीं लगता)",
+      "'श्रृंगार' (अशुद्ध रूप जिसमें श् + र् + ऋ दो बार र् लगा दिया जाता है)",
+      "'सिंगार'",
+      "'श्रिंगार'"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "मानक वर्तनी: 'श्' में 'ऋ' जुड़ने पर 'शृ' बनता है; 'श्रृ' अशुद्ध द्वित्व दोष है।"
+  },
+  {
+    "classLevel": 7,
+    "subject": "Hindi Grammar",
+    "chapter": "Chapter 2: वर्ण विचार एवं वर्तनी",
+    "question": "अल्पप्राण (Unaspirated) और महाप्राण (Aspirated) व्यंजनों में क्या वैज्ञानिक अंतर होता है?",
+    "options": [
+      "अल्पप्राण के उच्चारण में मुख से कम श्वास-वायु निकलती है (प्रत्येक वर्ग का 1, 3, 5 वर्ण) ; जबकि महाप्राण के उच्चारण में 'ह' जैसी भारी श्वास-वायु निकलती है (प्रत्येक वर्ग का 2 और 4 वर्ण)",
+      "अल्पप्राण केवल स्वर होते हैं",
+      "महाप्राण केवल विसर्ग में होते हैं",
+      "दोनों में कोई अंतर नहीं है"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "अल्पप्राण (क, ग, ङ / 1,3,5) में न्यूनतम वायु-प्रक्षेप; महाप्राण (ख, घ / 2,4) में सघोष हकार ध्वनि का विमोचन होता है।"
+  },
+  {
+    "classLevel": 7,
+    "subject": "Hindi Grammar",
+    "chapter": "Chapter 2: वर्ण विचार एवं वर्तनी",
+    "question": "घोष (सघोष / Voiced) और अघोष (Voiceless) ध्वनियों में स्वर-तंत्रियों (Vocal Cords) का क्या कार्य होता है?",
+    "options": [
+      "घोष ध्वनियों के उच्चारण में स्वर-तंत्रियों में कंपन (Ghosha) होता है (वर्गों के 3, 4, 5 वर्ण + सभी स्वर) ; जबकि अघोष ध्वनियों में स्वर-तंत्रियों में कंपन नहीं होता (वर्गों के 1 और 2 वर्ण + श, ष, स)",
+      "अघोष ध्वनियाँ केवल कानों में सुनाई देती हैं",
+      "घोष ध्वनियाँ केवल गाई जाती हैं",
+      "स्वर-तंत्रियों का ध्वनि से कोई संबंध नहीं है"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "सघोष में स्वरतंत्री का ध्वनिक कंपन (3,4,5 + स्वर); अघोष में कंपन का अभाव (1,2 + श,ष,स)।"
+  },
+  {
+    "classLevel": 7,
+    "subject": "Hindi Grammar",
+    "chapter": "Chapter 2: वर्ण विचार एवं वर्तनी",
+    "question": "उच्छिप्त (तातंजात / Flap) व्यंजन किन्हें कहा जाता है जिनके उच्चारण में जिह्वा मूर्धा को छूकर झटके से नीचे गिरती है?",
+    "options": [
+      "ड़ और ढ़ (Dda and Ddha)",
+      "ड और ढ",
+      "त और थ",
+      "य और व"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "'ड़' और 'ढ़' उच्छिप्त व्यंजन हैं जो कभी किसी शब्द के आरंभ में प्रयुक्त नहीं होते (जैसे: सड़क, पढ़ना)।"
+  },
+  {
+    "classLevel": 7,
+    "subject": "Hindi Grammar",
+    "chapter": "Chapter 2: वर्ण विचार एवं वर्तनी",
+    "question": "मानक हिंदी वर्तनी के केंद्रीय नियम के अनुसार, संयुक्त क्रियाओं और 'गए / गए' तथा 'हुए / हुए' में से मानक रूप किसे माना गया है?",
+    "options": [
+      "स्वर रूप 'गए, नए, हुए, चाहिए' को मानक माना गया है (य-श्रुति के स्थान पर मूल स्वर रूप)",
+      "गये और नये को केवल माना गया है",
+      "दोनों को अमान्य किया गया है",
+      "केवल संस्कृत शब्दों को माना गया है"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "केंद्रीय हिंदी निदेशालय के अनुसार जहाँ स्वर का स्वाभाविक उच्चारण हो, वहाँ 'गए, नए, हुए' मानक रूप हैं।"
+  },
+  {
+    "classLevel": 7,
+    "subject": "Hindi Grammar",
+    "chapter": "Chapter 2: वर्ण विचार एवं वर्तनी",
+    "question": "प्लुत स्वर (Protracted Vowel) का प्रयोग हिंदी और संस्कृत में कहाँ किया जाता है?",
+    "options": [
+      "किसी को दूर से पुकारने, रोने, गाने या ॐ (ओ३म्) के उच्चारण में जहाँ स्वर को तीन मात्राओं तक लंबा खींचा जाता है",
+      "केवल मौन रहने पर",
+      "केवल विराम चिह्नों में",
+      "साधारण बोलचाल में"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "त्रिमात्रिक दीर्घतम स्वर 'प्लुत स्वर' (प्रतीक ३) दूर से संबोधन और ॐ के नाद में प्रयुक्त होता है।"
+  },
+  {
+    "classLevel": 7,
+    "subject": "Hindi Grammar",
+    "chapter": "Chapter 2: वर्ण विचार एवं वर्तनी",
+    "question": "'उज्ज्वल' शब्द की शुद्ध मानक वर्तनी क्या है और इसमें कौन-सा व्यंजन नियम प्रयुक्त हुआ है?",
+    "options": [
+      "'उज्ज्वल' (उत् + ज्वल = उज्ज्वल, जिसमें दोनों 'ज' स्वर-रहित / आधे 'ज्ज्' होते हैं)",
+      "'उज्वल'",
+      "'उज्जवल'",
+      "'उजवल'"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "उत् + ज्वल: त् का ज् में परिवर्तन → दोनों 'ज' अर्द्ध (ज्ज्) होकर 'उज्ज्वल' बनाते हैं।"
+  },
+  {
+    "classLevel": 7,
+    "subject": "Hindi Grammar",
+    "chapter": "Chapter 2: वर्ण विचार एवं वर्तनी",
+    "question": "हिंदी में 'ऋ' स्वर का मानक उच्चारण और लिपि प्रयोग क्या है?",
+    "options": [
+      "'ऋ' एक तत्सम संस्कृत स्वर है जिसका आधुनिक हिंदी में उच्चारण 'रि' जैसा होता है, किन्तु यह मूल रूप से स्वर माना जाता है (जैसे: ऋषि, ऋतु, ऋण)",
+      "'ऋ' केवल एक व्यंजन है",
+      "'ऋ' का हिंदी में कोई प्रयोग नहीं है",
+      "'ऋ' केवल नाम के आगे लगता है"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "'ऋ' तत्सम संस्कृत मूल स्वर है; देवनागरी में इसकी मात्रा (ृ) केवल व्यंजनों के पाद में जुड़ती है (जैसे: कृपा, मातृ)।"
+  },
+  {
+    "classLevel": 7,
+    "subject": "Hindi Grammar",
+    "chapter": "Chapter 2: वर्ण विचार एवं वर्तनी",
+    "question": "वर्ण विचार और मानक वर्तनी के सम्यक अध्ययन का भाषा अधिगम में क्या सर्वोच्च महत्व है?",
+    "options": [
+      "यह भाषा की नींव को सुदृढ़ करता है, अशुद्ध उच्चारण तथा वर्तनी दोषों का पूर्ण निवारण कर वैज्ञानिक एवं प्रामाणिक भाषा-दक्षता प्रदान करता है",
+      "यह केवल वर्णों को रटने का साधन है",
+      "इसका व्याकरण से कोई संबंध नहीं है",
+      "यह केवल परीक्षाओं में अंक लाने के लिए है"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "वर्ण विचार भाषाशास्त्र का मूलाधार है, जो उच्चारण-स्थान की शुद्धता, ध्वनिविज्ञान और वर्तनी मानकीकरण को परिपुष्ट करता है।"
+  }
+]

@@ -1,0 +1,642 @@
+[
+  {
+    "classLevel": 7,
+    "subject": "Science",
+    "chapter": "Chapter 8: Reproduction in Plants",
+    "question": "The biological production of new individual offspring from their parent organisms is called:",
+    "options": [
+      "Reproduction",
+      "Respiration",
+      "Photosynthesis",
+      "Digestion"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "Reproduction is the biological process by which existing parent organisms produce new offspring of their own kind."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Science",
+    "chapter": "Chapter 8: Reproduction in Plants",
+    "question": "What mode of plant reproduction produces new plants WITHOUT the involvement or production of seeds?",
+    "options": [
+      "Asexual Reproduction (Vegetative Propagation)",
+      "Sexual Reproduction",
+      "Pollination",
+      "Fertilization"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "Asexual reproduction (including vegetative propagation, budding, fragmentation, spore formation) generates new plants without seeds."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Science",
+    "chapter": "Chapter 8: Reproduction in Plants",
+    "question": "What are the vegetative parts of a plant that can produce new plants in Vegetative Propagation?",
+    "options": [
+      "Roots, Stems, and Leaves",
+      "Flowers and Fruit only",
+      "Seeds only",
+      "Pollen grains only"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "Vegetative propagation utilizes non-floral somatic organs: roots, modified stems, and foliar leaves."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Science",
+    "chapter": "Chapter 8: Reproduction in Plants",
+    "question": "What are the small vegetative scars/notches on a Potato tuber that contain buds capable of growing into new potato plants called?",
+    "options": [
+      "Eyes of the Potato",
+      "Roots",
+      "Leaves",
+      "Seeds"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "Potato tubers are modified underground storage stems with nodal 'eyes' containing vegetative axillary buds."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Science",
+    "chapter": "Chapter 8: Reproduction in Plants",
+    "question": "Which plant reproduces vegetatively by producing adventitious vegetative buds along the margins of its thick fleshy LEAVES?",
+    "options": [
+      "Bryophyllum (Sprout Leaf plant)",
+      "Rose",
+      "Mango",
+      "Wheat"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "Bryophyllum reproduces foliar vegetatively: marginal leaf notches develop adventitious plantlets that root upon falling onto moist soil."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Science",
+    "chapter": "Chapter 8: Reproduction in Plants",
+    "question": "What is the primary reproductive organ of a flowering plant for Sexual Reproduction?",
+    "options": [
+      "The Flower",
+      "The Leaf",
+      "The Stem",
+      "The Root"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "Flowers are specialized angiosperm reproductive shoots bearing male (stamens) and female (carpels/pistils) organs."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Science",
+    "chapter": "Chapter 8: Reproduction in Plants",
+    "question": "What is the MALE reproductive organ of a flower called, consisting of an Anther and Filament?",
+    "options": [
+      "Stamen (Androecium)",
+      "Pistil (Carpel)",
+      "Petal",
+      "Sepal"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "The stamen is the male floral organ comprising a filament supporting a terminal anther that synthesizes pollen grains."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Science",
+    "chapter": "Chapter 8: Reproduction in Plants",
+    "question": "What is the FEMALE reproductive organ of a flower called, consisting of Stigma, Style, and Ovary?",
+    "options": [
+      "Pistil (or Carpel / Gynoecium)",
+      "Stamen",
+      "Anther",
+      "Filament"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "The pistil/carpel consists of a receptive stigma, slender style, and a basal ovary enclosing ovules with egg cells."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Science",
+    "chapter": "Chapter 8: Reproduction in Plants",
+    "question": "Flowers that contain EITHER only stamens (male) OR only pistils (female) — like Papaya, Corn, and Cucumber — are called:",
+    "options": [
+      "Unisexual Flowers",
+      "Bisexual Flowers",
+      "Complete Flowers",
+      "Asexual Flowers"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "Unisexual (imperfect) flowers possess either androecium or gynoecium exclusively (e.g. dioecious papaya, monoecious maize)."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Science",
+    "chapter": "Chapter 8: Reproduction in Plants",
+    "question": "Flowers that contain BOTH stamens and pistil within the same flower — like Mustard, Rose, and Petunia — are called:",
+    "options": [
+      "Bisexual Flowers (Hermaphrodite)",
+      "Unisexual Flowers",
+      "Sterile Flowers",
+      "Buds"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "Bisexual (hermaphroditic/perfect) flowers bear functional stamens and carpels in the same floral whorl."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Science",
+    "chapter": "Chapter 8: Reproduction in Plants",
+    "question": "The transfer of pollen grains from the anther to the stigma of a flower is called:",
+    "options": [
+      "Pollination",
+      "Fertilization",
+      "Transpiration",
+      "Germination"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "Pollination is the mechanical transference of pollen grains from anther to receptive stigma by wind, water, or biotic vectors."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Science",
+    "chapter": "Chapter 8: Reproduction in Plants",
+    "question": "The process of fusion of the male gamete with the female gamete (egg cell) to form a single-celled ZYGOTE is called:",
+    "options": [
+      "Fertilization (Syngamy)",
+      "Pollination",
+      "Budding",
+      "Fragmentation"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "Fertilization (syngamy) is the fusion of haploid male and female gametic nuclei inside the embryo sac to form a diploid zygote."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Science",
+    "chapter": "Chapter 8: Reproduction in Plants",
+    "question": "How does single-celled Yeast reproduce asexually under favorable nutrient conditions?",
+    "options": [
+      "By BUDDING: a small bulb-like projection (bud) gradually grows from the parent cell, receives a replicated nucleus, and detaches to form a new yeast cell",
+      "By producing large flowers",
+      "By laying eggs",
+      "By forming seeds inside fruits"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "Yeast multiplies rapidly via asymmetric mitotic budding: blastospores pinch off or form pseudo-mycelial chains."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Science",
+    "chapter": "Chapter 8: Reproduction in Plants",
+    "question": "How do green filamentous Algae (like Spirogyra) multiplying rapidly in stagnant ponds reproduce asexually?",
+    "options": [
+      "By FRAGMENTATION: the long green filament breaks into two or more fragments, and each fragment grows into a complete new individual",
+      "By flying through the air",
+      "By forming woody cones",
+      "By underground tubers"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "Spirogyra undergoes vegetative fragmentation: mechanical cleavage of multicellular filaments yields independent surviving clones."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Science",
+    "chapter": "Chapter 8: Reproduction in Plants",
+    "question": "How do Fungi (like Bread Mold / Rhizopus), Mosses, and Ferns reproduce asexually?",
+    "options": [
+      "By SPORE FORMATION: microscopic spores protected by a hard, thick protective coat inside Sporangia disperse in air and germinate in moist conditions",
+      "By producing honey",
+      "By seeds in fruits",
+      "By root cuttings only"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "Sporogenesis: sporangiophores bear resistant haploid sporangiospores capable of withstanding environmental desiccation."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Science",
+    "chapter": "Chapter 8: Reproduction in Plants",
+    "question": "What is the difference between SELF-POLLINATION and CROSS-POLLINATION?",
+    "options": [
+      "Self-pollination occurs when pollen lands on the stigma of the SAME flower or another flower on the SAME plant ; Cross-pollination occurs when pollen lands on a flower of a DIFFERENT plant of the same kind",
+      "Self-pollination is done by birds only",
+      "Cross-pollination occurs only in winter",
+      "Both are identical processes"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "Self-pollination (autogamy/geitonogamy) transfers pollen within the same genetic individual; cross-pollination (xenogamy) transfers pollen between distinct plants."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Science",
+    "chapter": "Chapter 8: Reproduction in Plants",
+    "question": "After successful fertilization in a flower, what do the OVARY and the OVULE develop into?",
+    "options": [
+      "The OVARY ripens into the FRUIT ; and the OVULES develop into SEEDS containing the embryo",
+      "The ovary becomes a leaf and ovule becomes a flower",
+      "The ovary becomes root and ovule becomes stem",
+      "Both turn into pollen grains"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "Post-fertilization morphogenesis: pericarp ovary wall develops into fruit; fertilized integumented ovules mature into seeds."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Science",
+    "chapter": "Chapter 8: Reproduction in Plants",
+    "question": "Which of the following plants reproduces vegetatively through modified underground STEM RHIZOMES containing nodes and scaly buds?",
+    "options": [
+      "Ginger and Turmeric",
+      "Sweet Potato",
+      "Dahlia",
+      "Bryophyllum"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "Ginger (Zingiber) and Turmeric (Curcuma) propagate vegetatively via horizontal subterranean rhizomes bearing dormant axillary buds."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Science",
+    "chapter": "Chapter 8: Reproduction in Plants",
+    "question": "Which plants reproduce vegetatively through fleshy swollen ROOT TUBERS?",
+    "options": [
+      "Sweet Potato and Dahlia",
+      "Potato and Ginger",
+      "Rose and Jasmine",
+      "Bryophyllum"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "Sweet potato (Ipomoea batatas) and Dahlia develop adventitious root tubers that sprout vegetative shoots."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Science",
+    "chapter": "Chapter 8: Reproduction in Plants",
+    "question": "Why are light, winged seeds (such as Drumstick and Maple) and hairy parachutes (such as Aak / Madar and Dandelion) dispersed by WIND?",
+    "options": [
+      "Their lightweight wings and tufts of fine hair act like aerodynamic sails and parachutes, allowing air currents to carry them far away",
+      "Because wind eats the seeds",
+      "Because birds blow on them",
+      "Because they are sticky"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "Anemochory adaptations: aerodynamic samara wings (Acer, Moringa) and pappus hair tufts (Calotropis, Taraxacum) facilitate wind buoyancy."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Science",
+    "chapter": "Chapter 8: Reproduction in Plants",
+    "question": "How are fibrous, buoyant fruits like the Coconut (Cocos nucifera) dispersed across distant islands?",
+    "options": [
+      "By WATER: the thick, spongy, fibrous mesocarp traps air, making coconuts float effortlessly across ocean waves for thousands of miles",
+      "By wind blowing them in clouds",
+      "By birds carrying whole coconuts",
+      "By exploding into pieces"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "Hydrochory adaptation: fibrous air-trapping coir mesocarp and impervious endocarp allow coconuts to float across marine currents."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Science",
+    "chapter": "Chapter 8: Reproduction in Plants",
+    "question": "How are spiny seeds equipped with sharp hooks (such as Xanthium and Urena) dispersed to new habitats?",
+    "options": [
+      "By ANIMALS: their hooked spines cling stubbornly to the fur of passing animals or human clothing and get transported far away",
+      "By swimming in rivers",
+      "By flying with wings",
+      "By melting in the sun"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "Epizoochory adaptation: stiff hooked spines on Xanthium burs latch onto animal pelts and fleece for long-distance transport."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Science",
+    "chapter": "Chapter 8: Reproduction in Plants",
+    "question": "How do Castor and Balsam plants disperse their seeds through sudden explosive mechanical action?",
+    "options": [
+      "Their ripe seed pods burst open suddenly with explosive jerks upon drying, flinging the seeds forcefully far away from the parent plant",
+      "By floating in water",
+      "By emitting sweet perfume",
+      "By growing underground"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "Autochory / Ballochory: desiccation creates hygroscopic tissue tension that ruptures the capsule explosively, projecting seeds meters away."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Science",
+    "chapter": "Chapter 8: Reproduction in Plants",
+    "question": "What is the horticultural advantage of Vegetative Propagation (like stem cuttings in Roses, Sugarcane, and Grapes) for farmers?",
+    "options": [
+      "Plants grown vegetatively take much less time to bear flowers and fruits, and are exact genetic clones preserving all desirable parental qualities",
+      "They produce seeds with random changes",
+      "They do not need water or soil",
+      "They never grow leaves"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "Vegetative cloning bypasses juvenile seed dormancy, accelerates fruiting, and guarantees 100% true-to-type genetic fidelity."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Science",
+    "chapter": "Chapter 8: Reproduction in Plants",
+    "question": "What grows out of a pollen grain after it lands on the sticky receptive stigma of a compatible flower?",
+    "options": [
+      "A long Pollen Tube that grows downwards through the style to deliver male gametes into the ovary's ovule",
+      "A new green leaf",
+      "A root hair",
+      "A seed coat"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "Chemotropic pollen tube germination: the tube cell elongates through stylar transmitting tissue, conveying sperm nuclei to the micropyle."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Science",
+    "chapter": "Chapter 8: Reproduction in Plants",
+    "question": "Why do insect-pollinated flowers (like Rose, Jasmine, and Sunflower) possess brightly colored petals, sweet fragrance, and sugary nectar?",
+    "options": [
+      "To attract insect pollinators (bees, butterflies) which brush against anthers and carry sticky pollen grains to other flowers",
+      "To scare away all insects",
+      "To cool the flower during hot days",
+      "To produce green chlorophyll"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "Entomophilous floral syndrome: chromatic showy corollas, volatile terpenes, and nectar rewards co-evolved to attract insect pollinators."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Science",
+    "chapter": "Chapter 8: Reproduction in Plants",
+    "question": "What are the distinguishing characteristics of Wind-Pollinated flowers (like Grasses, Corn, and Wheat)?",
+    "options": [
+      "They have small, dull non-scented flowers, enormous quantities of light dry powdery pollen, and large feathery stigmas exposed to catch windborne pollen",
+      "They have giant sweet-smelling red petals",
+      "They produce thick sticky nectar",
+      "They open only underwater"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "Anemophilous floral syndrome: reduced perianth, non-sticky aerodynamically buoyant pollen produced in billions, and plumose stigmas."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Science",
+    "chapter": "Chapter 8: Reproduction in Plants",
+    "question": "Why is Seed Dispersal essential for the healthy survival and distribution of plant species?",
+    "options": [
+      "It prevents intense competition for sunlight, water, minerals, and space among seedlings near the parent plant, while invading new geographic habitats",
+      "It destroys old plants",
+      "It keeps all seeds in one single spot",
+      "It stops plants from growing"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "Seed dispersal reduces density-dependent sibling competition, mitigates pathogen transmission, and colonizes novel ecological niches."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Science",
+    "chapter": "Chapter 8: Reproduction in Plants",
+    "question": "Read the statements:\nAssertion (A): Plants produced through sexual reproduction exhibit genetic variation and enhanced evolutionary adaptability compared to vegetatively propagated plants.\nReason (R): Sexual reproduction involves meiotic recombination of genetic material from two distinct gametes (male pollen and female ovule), whereas asexual vegetative propagation produces identical mitotic clones.\nChoose the correct option:",
+    "options": [
+      "Both (A) and (R) are true, and (R) is the correct explanation of (A).",
+      "Both (A) and (R) are true, but (R) is NOT the correct explanation of (A).",
+      "(A) is true, but (R) is false.",
+      "(A) is false, but (R) is true."
+    ],
+    "correctAnswer": 0,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "Amphimixis (sexual syngamy) generates novel allelic combinations via meiosis and cross-fertilization, fueling evolutionary fitness."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Science",
+    "chapter": "Chapter 8: Reproduction in Plants",
+    "question": "Spot the IMPOSTER in the following group of Plants and their specific Modes of Asexual Reproduction:\nGroup:\n1. Yeast - Asymmetric Mitotic Budding\n2. Spirogyra Algae - Filamentous Fragmentation\n3. Bread Mold (Rhizopus) - Spore Formation inside Sporangia\n4. Mango and Apple trees - Vegetative foliar leaf-margin budding only",
+    "options": [
+      "Mode 1",
+      "Mode 2",
+      "Mode 3",
+      "Mode 4 (Mango and Apple trees reproduce sexually via SEEDS in fruits ; foliar leaf budding occurs in BRYOPHYLLUM)"
+    ],
+    "correctAnswer": 3,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "Mode 4 is an imposter: foliar leaf-margin budding is characteristic of Bryophyllum and Kalanchoe, not mango or apple trees."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Science",
+    "chapter": "Chapter 8: Reproduction in Plants",
+    "question": "Trace the chronological sequence of events in Angiosperm Sexual Reproduction:\n1. Pollination (Pollen transfer to stigma)\n2. Pollen Tube Germination and Growth through Style\n3. Syngamy (Fertilization forming diploid Zygote)\n4. Post-fertilization Morphogenesis (Ovule -> Seed, Ovary -> Fruit)\nWhich part of the fertilized seed contains the embryonic root (radicle) and embryonic shoot (plumule)?",
+    "options": [
+      "The EMBRYO protected within the seed coat alongside nutritive cotyledons",
+      "The Pericarp fruit wall",
+      "The Style",
+      "The Filament"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "The plant embryo consists of an embryonal axis (plumule and radicle) flanked by one (monocot) or two (dicot) nutrient-storing cotyledons."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Science",
+    "chapter": "Chapter 8: Reproduction in Plants",
+    "question": "Match Column I (Seed Dispersal Mechanisms) with Column II (Classic Botanical Plant Examples):\n(a) Wind Dispersal (Wings / Hairs)      -> (i) Drumstick (Moringa), Maple, Aak (Madar), Dandelion\n(b) Water Dispersal (Fibrous Buoyancy)   -> (ii) Coconut, Lotus water lily\n(c) Animal Dispersal (Hooked Spines)     -> (iii) Xanthium, Urena, Tribulus (Gokhru)\n(d) Explosive Bursting Mechanism         -> (iv) Balsam (Impatiens), Castor (Ricinus)",
+    "options": [
+      "a-(i), b-(ii), c-(iii), d-(iv)",
+      "a-(ii), b-(i), c-(iv), d-(iii)",
+      "a-(iv), b-(iii), c-(ii), d-(i)",
+      "a-(iii), b-(iv), c-(i), d-(ii)"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "Exact botanical mapping: Wind = Moringa/Acer; Water = Coconut; Animal = Xanthium hooks; Explosive = Balsam/Castor."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Science",
+    "chapter": "Chapter 8: Reproduction in Plants",
+    "question": "Read the statements regarding floral anatomy and reproduction:\nStatement 1: Stigmas of wind-pollinated plants are large, branched, and feathery to maximize interception of airborne pollen.\nStatement 2: In a bisexual flower, self-pollination can occur without requiring wind or insect animal vectors.\nStatement 3: All fruits are formed without fertilization and contain no seeds.\nWhich statements are TRUE?",
+    "options": [
+      "Statements 1 and 2 only",
+      "Statements 2 and 3 only",
+      "Statements 1 and 3 only",
+      "All Statements 1, 2, and 3"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "Statement 3 is false (true fruits develop from fertilized ovaries containing seeds). Statements 1 and 2 are established botanical facts."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Science",
+    "chapter": "Chapter 8: Reproduction in Plants",
+    "question": "What prevents the germination of foreign pollen grains when pollen from an unrelated species lands on a flower's stigma (e.g. grass pollen on a rose stigma)?",
+    "options": [
+      "Biochemical Pollen-Pistil Incompatibility: specific protein ligand-receptor interactions on the stigma surface recognize and inhibit foreign pollen hydration and tube germination",
+      "Insects wash the pollen away with water",
+      "The style closes with a physical gate",
+      "Pollen grains turn into sugar"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "Pollen-pistil biochemical dialogue mediated by S-RNases and stylar lectins enforces species-specific compatibility and self-incompatibility."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Science",
+    "chapter": "Chapter 8: Reproduction in Plants",
+    "question": "Consider four plant propagation methods:\n1. Stem cuttings in Rose\n2. Eye-sprouting in Potato\n3. Leaf-notch plantlets in Bryophyllum\n4. Seed germination in Sunflower\nWhich of these will produce plants that are GENETICALLY IDENTICAL CLONES of the parent?",
+    "options": [
+      "Methods 1, 2, and 3 only (Vegetative Asexual Propagation)",
+      "Method 4 only",
+      "Methods 2 and 4 only",
+      "All 1, 2, 3, and 4"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "Asexual vegetative propagation (methods 1, 2, 3) relies exclusively on mitosis, producing identical genetic clones."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Science",
+    "chapter": "Chapter 8: Reproduction in Plants",
+    "question": "Why do Spores produced by Fungi (Bread Mold) and Mosses survive extreme harsh conditions (heat, freezing cold, lack of moisture) for years?",
+    "options": [
+      "Each spore is encapsulated in a thick, resilient, desiccation-resistant protective wall that remains dormant until moisture and warmth trigger germination",
+      "Spores produce their own heat",
+      "Spores are made of pure stone",
+      "Spores are protected by adult animals"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "Spore sporopollenin / chitinous protective perispores confer extreme thermotolerance and cryptobiotic resistance against drought."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Science",
+    "chapter": "Chapter 8: Reproduction in Plants",
+    "question": "What is 'Parthenocarpy' observed in commercial fruits like Seedless Bananas and Seedless Grapes?",
+    "options": [
+      "The development of fleshy fruit WITHOUT prior fertilization of ovules, resulting in seedless edible fruits",
+      "Fruits growing on plant roots",
+      "Fruits formed from leaves",
+      "Flowers turning into seeds without petals"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "Parthenocarpy is the hormonal induction of ovarian development into edible fleshy fruits in the absence of ovular fertilization."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Science",
+    "chapter": "Chapter 8: Reproduction in Plants",
+    "question": "In unisexual dioecious plant species (like Papaya and Date Palm), what agricultural practice must farmers adopt to ensure good fruit yield?",
+    "options": [
+      "They must plant a balanced ratio of male (staminate) trees alongside female (pistillate) trees in the orchard to guarantee cross-pollination",
+      "Plant only male trees",
+      "Cut down all flowers in winter",
+      "Keep trees in dark rooms"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "In dioecious crops, female pistillate trees require staminate male trees in proximity (approx 1:10 ratio) for wind/insect pollination."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Science",
+    "chapter": "Chapter 8: Reproduction in Plants",
+    "question": "What is the structural role of the 'Cotyledons' in a germinating seed?",
+    "options": [
+      "They store concentrated food reserves (starch, proteins, lipids) to nourish the young developing embryo seedling until it grows green leaves for photosynthesis",
+      "They absorb sunlight underground",
+      "They produce flowers immediately",
+      "They protect the seed from birds only"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "Cotyledons (seed leaves) store nutritive endospermic reserves mobilized by amylases to fuel early heterotrophic seedling growth."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Science",
+    "chapter": "Chapter 8: Reproduction in Plants",
+    "question": "What comprehensive evolutionary narrative unites Chapter 8 of NCERT Class 7 Science?",
+    "options": [
+      "The remarkable diversity of plant reproductive strategies—balancing rapid, true-to-type asexual cloning with genetic recombination through floral cross-pollination and ingenious seed dispersal mechanisms that ensure species perpetuation across the biosphere",
+      "That plants only reproduce when humans plant them",
+      "That flowers exist only for decoration",
+      "That all plants will stop reproducing in the future"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "Chapter 8 explores the evolutionary continuum of plant reproduction: vegetative cloning, floral syngamy, embryogenesis, and diverse dispersal syndromes."
+  }
+]

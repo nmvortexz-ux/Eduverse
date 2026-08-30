@@ -1,0 +1,3842 @@
+[
+  {
+    "classLevel": 7,
+    "subject": "Science",
+    "chapter": "Chapter 11: Light",
+    "question": "Light travels along which geometric path through a uniform, transparent medium (Rectilinear Propagation of Light)?",
+    "options": [
+      "Straight Lines",
+      "Curved circular lines",
+      "Zig-zag paths",
+      "Spiral waves only"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "Rectilinear propagation: light travels along straight lines, causing the formation of sharp shadows and pinhole camera images."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Science",
+    "chapter": "Chapter 11: Light",
+    "question": "What is the phenomenon of bouncing back of light rays from a polished, shiny, or reflective surface called?",
+    "options": [
+      "Reflection of Light",
+      "Refraction of Light",
+      "Dispersion of Light",
+      "Absorption"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "Reflection is the change in direction and bouncing back of a light wavefront at an interface between two different media."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Science",
+    "chapter": "Chapter 11: Light",
+    "question": "What are the characteristics of an image formed by a flat PLANE MIRROR?",
+    "options": [
+      "Erect (upright), Virtual (cannot be obtained on a screen), Same size as the object, and Laterally Inverted",
+      "Inverted, Real, and Magnified",
+      "Real, Diminished, and Upside-down",
+      "Virtual and ten times larger"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "A plane mirror forms an erect, virtual image of identical size, located at the same distance behind the mirror as the object in front."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Science",
+    "chapter": "Chapter 11: Light",
+    "question": "What optical phenomenon causes your right hand to appear as the left hand and your left hand to appear as the right hand in a mirror image?",
+    "options": [
+      "Lateral Inversion",
+      "Refraction",
+      "Dispersion",
+      "Total Internal Reflection"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "Lateral inversion is the apparent sideways reversal of left and right in a planar reflection."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Science",
+    "chapter": "Chapter 11: Light",
+    "question": "Why is the word 'AMBULANCE' written in reverse laterally inverted script ('ECNALUBMA') on emergency medical vehicles?",
+    "options": [
+      "So that drivers of vehicles ahead can read the word correctly as 'AMBULANCE' in their rear-view mirrors and immediately give way",
+      "It is a foreign language spelling",
+      "To confuse pedestrians on the road",
+      "It is an artistic design"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "Pre-inverting the lettering ensures that when viewed through a driver's rear-view mirror, lateral inversion renders 'AMBULANCE' right-side up."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Science",
+    "chapter": "Chapter 11: Light",
+    "question": "A spherical mirror whose reflecting surface is curved INWARDS (like the inside surface of a shining spoon) is called a:",
+    "options": [
+      "Concave Mirror",
+      "Convex Mirror",
+      "Plane Mirror",
+      "Cylindrical Mirror"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "A concave mirror has an inward-curving converging reflecting surface."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Science",
+    "chapter": "Chapter 11: Light",
+    "question": "A spherical mirror whose reflecting surface is curved OUTWARDS (like the back outer surface of a shining spoon) is called a:",
+    "options": [
+      "Convex Mirror",
+      "Concave Mirror",
+      "Plane Mirror",
+      "Parabolic Mirror"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "A convex mirror has an outward-bulging diverging reflecting surface."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Science",
+    "chapter": "Chapter 11: Light",
+    "question": "An image that can be formed and projected onto a physical SCREEN is called a:",
+    "options": [
+      "Real Image",
+      "Virtual Image",
+      "Lateral Image",
+      "Inverted Image only"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "A real image is formed by the actual physical intersection of reflected/refracted light rays and can be captured on a screen."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Science",
+    "chapter": "Chapter 11: Light",
+    "question": "An image that CANNOT be obtained or projected on a screen is called a:",
+    "options": [
+      "Virtual Image",
+      "Real Image",
+      "Shadow",
+      "Magnified Image"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "A virtual image occurs where light rays only appear to diverge from a point behind the mirror/lens and cannot be captured on a screen."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Science",
+    "chapter": "Chapter 11: Light",
+    "question": "A transparent optical lens that is THICKER in the middle than at the edges, converging parallel light rays to a focus, is called a:",
+    "options": [
+      "Convex Lens (Converging Lens)",
+      "Concave Lens",
+      "Plane Lens",
+      "Cylindrical Lens"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "A convex lens is thicker at its center and converges incident parallel light rays toward a real focal point."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Science",
+    "chapter": "Chapter 11: Light",
+    "question": "A transparent optical lens that is THINNER in the middle than at the edges, diverging light rays outwards, is called a:",
+    "options": [
+      "Concave Lens (Diverging Lens)",
+      "Convex Lens",
+      "Biconvex Lens",
+      "Magnifying Lens"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "A concave lens is thinner at the center than at the periphery, causing parallel light rays to diverge."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Science",
+    "chapter": "Chapter 11: Light",
+    "question": "White sunlight consists of how many distinct spectral colors that can be split by a glass prism (VIBGYOR)?",
+    "options": [
+      "Seven Colors (Violet, Indigo, Blue, Green, Yellow, Orange, Red)",
+      "Three Colors (Red, Blue, Green)",
+      "Five Colors",
+      "Only One Color"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "White light is a polychromatic mixture of seven constituent spectral wavelengths: Violet, Indigo, Blue, Green, Yellow, Orange, Red (VIBGYOR)."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Science",
+    "chapter": "Chapter 11: Light",
+    "question": "Which type of spherical mirror is used by Dentists to see an enlarged, magnified, and erect image of a patient's teeth?",
+    "options": [
+      "Concave Mirror (held close to the teeth within its focal length)",
+      "Convex Mirror",
+      "Plane Mirror",
+      "Bifocal Mirror"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "When an object is placed between the pole and principal focus of a concave mirror, it produces an erect, magnified, virtual image."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Science",
+    "chapter": "Chapter 11: Light",
+    "question": "Why are CONVEX MIRRORS universally installed as side REAR-VIEW MIRRORS in cars, buses, and motorcycles?",
+    "options": [
+      "They always form erect, diminished images and provide a vastly WIDER FIELD OF VIEW, allowing drivers to see large traffic behind them",
+      "They magnify objects to look ten times closer",
+      "They absorb heat from the road",
+      "They glow in the dark"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "Convex mirrors curve outwards, producing upright, diminished virtual images that capture an expansive panoramic field of traffic."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Science",
+    "chapter": "Chapter 11: Light",
+    "question": "What type of spherical mirror is used as reflectors in automobile Headlights, Searchlights, and Solar Furnaces to throw powerful parallel beams of light?",
+    "options": [
+      "Concave Mirrors (with the light bulb placed at its principal focus)",
+      "Convex Mirrors",
+      "Plane Mirrors",
+      "Cylindrical Mirrors"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "Placing a lamp bulb at the focal point of a concave mirror produces a powerful, non-diverging parallel beam of reflected light."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Science",
+    "chapter": "Chapter 11: Light",
+    "question": "What type of lens is used as a simple Handheld MAGNIFYING GLASS to read fine print or examine small insect parts?",
+    "options": [
+      "A Convex Lens (held close to the object)",
+      "A Concave Lens",
+      "A Plane glass plate",
+      "A Tinted sunglasses lens"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "A convex lens produces a magnified, upright, virtual image when an object is held within its focal distance (acting as a simple microscope)."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Science",
+    "chapter": "Chapter 11: Light",
+    "question": "What type of image is ALWAYS formed by a CONCAVE LENS, regardless of how far or close the object is placed?",
+    "options": [
+      "Virtual, Erect (upright), and DIMINISHED (smaller in size than the object)",
+      "Real, Inverted, and Magnified",
+      "Real, Erect, and Same size",
+      "Virtual and Magnified"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "A diverging concave lens always forms a virtual, erect, and diminished image located between the optical center and the principal focus."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Science",
+    "chapter": "Chapter 11: Light",
+    "question": "What is the phenomenon of splitting white sunlight into its seven constituent spectral colors when passing through a triangular Glass Prism called?",
+    "options": [
+      "Dispersion of Light",
+      "Reflection",
+      "Scattering",
+      "Diffraction"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "Dispersion occurs because different wavelengths (colors) of light refract (bend) at slightly different angles when passing through glass."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Science",
+    "chapter": "Chapter 11: Light",
+    "question": "How is a natural RAINBOW formed in the sky after rain showers?",
+    "options": [
+      "Millions of tiny suspended airborne raindrops act like miniature optical prisms, refracting, dispersing, and internally reflecting sunlight into a spectrum",
+      "Clouds paint colors in the sky with water",
+      "Sunlight reflects off ocean waves into the sky",
+      "Lightning leaves behind colored dust"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "Atmospheric raindrops act as spherical prisms: refracting light on entry, internally reflecting it, and dispersing it upon exit into an arc."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Science",
+    "chapter": "Chapter 11: Light",
+    "question": "What happens when a circular circular disc painted with all seven rainbow color segments (Newton's Disc) is rotated RAPIDLY on its central axis?",
+    "options": [
+      "The seven colors blend together due to the persistence of vision, and the disc appears completely WHITE (or pale grayish-white)",
+      "The disc turns solid black",
+      "The disc catches fire",
+      "The disc becomes transparent like glass"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "Newton's disc demonstrates additive color synthesis: rapid retinal persistence of vision (~1/16 s) superimposes the 7 colors into white light."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Science",
+    "chapter": "Chapter 11: Light",
+    "question": "If an object is placed at a distance of 0.5 m in front of a flat plane mirror, what is the total distance between the OBJECT and its IMAGE?",
+    "options": [
+      "1.0 m (0.5 m in front + 0.5 m behind = 1.0 m)",
+      "0.5 m",
+      "0.25 m",
+      "2.0 m"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "Image distance behind mirror equals object distance in front (d = 0.5 m). Total distance between object and image = 0.5 + 0.5 = 1.0 m."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Science",
+    "chapter": "Chapter 11: Light",
+    "question": "David is observing his image in a plane mirror. The distance between the mirror and his image is 4 m. If he moves 1 m towards the mirror, what will be the new distance between David and his image?",
+    "options": [
+      "6 m (New object distance = 3 m ; New image distance = 3 m ; Total = 3 + 3 = 6 m)",
+      "8 m",
+      "4 m",
+      "5 m"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "When David moves 1 m closer, object distance = 4 - 1 = 3 m. Image distance = 3 m. Distance between David and his image = 3 + 3 = 6 m."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Science",
+    "chapter": "Chapter 11: Light",
+    "question": "What happens when you focus direct bright sunlight onto a dry sheet of paper using a powerful CONVEX LENS for a couple of minutes?",
+    "options": [
+      "The lens converges all solar rays to a single intense focal point; thermal concentration heats the paper until it scorches, smokes, and catches fire",
+      "The paper turns into ice",
+      "The paper turns into a mirror",
+      "The lens breaks into pieces"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "A converging convex lens focuses incident solar irradiance into a tiny focal spot, concentrating thermal energy above the paper's kindling point."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Science",
+    "chapter": "Chapter 11: Light",
+    "question": "Why does the rear-view mirror of a car carry the printed safety warning: 'OBJECTS IN MIRROR ARE CLOSER THAN THEY APPEAR'?",
+    "options": [
+      "Because convex mirrors form diminished (smaller) images, which makes approaching vehicles appear further away than their actual physical distance",
+      "Because the mirror has a magnifier",
+      "Because the glass is curved inwards",
+      "Because the mirror works with radio waves"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "Convex mirrors minify images to gain field-of-view; human visual perception equates smaller retinal size with greater distance."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Science",
+    "chapter": "Chapter 11: Light",
+    "question": "Which color of light bends (refracts) the MOST and which color bends the LEAST when white light passes through a glass prism?",
+    "options": [
+      "VIOLET bends the most (shortest wavelength), and RED bends the least (longest wavelength)",
+      "Red bends the most, and Violet bends the least",
+      "Green bends the most, and Yellow bends the least",
+      "All colors bend at the exact same angle"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "Cauchy's dispersion formula: refractive index is inversely proportional to wavelength. High-frequency violet refracts most; low-frequency red refracts least."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Science",
+    "chapter": "Chapter 11: Light",
+    "question": "What type of mirror is used in large Solar Cookers to concentrate solar energy onto cooking pots?",
+    "options": [
+      "Concave Mirror (Converging reflector)",
+      "Convex Mirror",
+      "Plane Mirror only",
+      "Tinted dark glass"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "Large parabolic concave mirrors concentrate solar irradiance onto the focal point where cooking utensils are placed."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Science",
+    "chapter": "Chapter 11: Light",
+    "question": "Which of the following optical instruments uses combinations of CONVEX LENSES to magnify distant celestial objects like the Moon and planets?",
+    "options": [
+      "An Astronomical Telescope",
+      "A Stethoscope",
+      "A Periscope",
+      "A Barometer"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "Refracting astronomical telescopes combine an objective convex lens of long focal length with an ocular eyepiece convex lens to resolve distant stars."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Science",
+    "chapter": "Chapter 11: Light",
+    "question": "What is the speed of light in vacuum (c)?",
+    "options": [
+      "Approximately 3 × 10⁸ m/s (300,000 km/s)",
+      "3 × 10⁵ m/s",
+      "3,000 m/s",
+      "300 m/s"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "The universal speed of light in vacuum is approximately 299,792,458 m/s (≈ 3 × 10⁸ m/s or 300,000 km/s)."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Science",
+    "chapter": "Chapter 11: Light",
+    "question": "Read the statements:\nAssertion (A): A Concave Mirror can form both Real-Inverted images and Virtual-Erect images depending on object distance.\nReason (R): For all object positions beyond the Principal Focus (F), reflected rays converge to form a real inverted image; but when an object is placed between the Pole (P) and Focus (F), reflected rays diverge and appear to meet behind the mirror, forming an erect, magnified virtual image.\nChoose the correct option:",
+    "options": [
+      "Both (A) and (R) are true, and (R) is the correct explanation of (A).",
+      "Both (A) and (R) are true, but (R) is NOT the correct explanation of (A).",
+      "(A) is true, but (R) is false.",
+      "(A) is false, but (R) is true."
+    ],
+    "correctAnswer": 0,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "Concave mirror ray optics: when u > f, real inverted image is formed; when u < f, virtual erect magnified image is created behind mirror."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Science",
+    "chapter": "Chapter 11: Light",
+    "question": "Spot the IMPOSTER in the following group of Optical Devices and their signature lens/mirror types:\nGroup:\n1. Vehicle Rear-view Mirror - Convex Mirror\n2. Dentist's Dental Examination Tool - Concave Mirror\n3. Handheld Reading Magnifying Glass - Convex Lens\n4. Astronomical Deep-Space Refractor - Flat bathroom window glass",
+    "options": [
+      "Device 1",
+      "Device 2",
+      "Device 3",
+      "Device 4 (Astronomical refracting telescopes use precision high-purity CONVEX OPTICAL LENSES, not flat window glass)"
+    ],
+    "correctAnswer": 3,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "Device 4 is an imposter: astronomical telescopes require curved achromatic convex objective lenses to focus light, not flat window glass."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Science",
+    "chapter": "Chapter 11: Light",
+    "question": "Sir Isaac Newton proved in 1666 that white light is a combination of colors by using two identical glass prisms. How did he conduct this experiment?",
+    "options": [
+      "He placed a second identical inverted glass prism in the path of the dispersed spectrum from the first prism, recombining all seven colors back into a single beam of WHITE LIGHT",
+      "He painted the second prism with oil",
+      "He melted the second prism into water",
+      "He burned the light beam with a match"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "Newton's classic recombination experiment: an inverted second prism cancels the angular dispersion of the first prism, synthesizing white light."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Science",
+    "chapter": "Chapter 11: Light",
+    "question": "Match Column I (Optical Elements) with Column II (Image Characteristics & Applications):\n(a) Plane Mirror    -> (i) Virtual, erect, identical size, lateral inversion\n(b) Convex Mirror   -> (ii) Always virtual, erect, diminished with wide field of view\n(c) Concave Mirror  -> (iii) Shaving & dental mirror (magnified virtual image when close)\n(d) Concave Lens    -> (iv) Always virtual, erect, diminished; corrects myopia",
+    "options": [
+      "a-(i), b-(ii), c-(iii), d-(iv)",
+      "a-(ii), b-(i), c-(iv), d-(iii)",
+      "a-(iv), b-(iii), c-(ii), d-(i)",
+      "a-(iii), b-(iv), c-(i), d-(ii)"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "Plane = identical size; Convex mirror = diminished wide field; Concave mirror = shaving/dental; Concave lens = diverging myopia correction."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Science",
+    "chapter": "Chapter 11: Light",
+    "question": "Read the statements regarding optical reflection and refraction:\nStatement 1: The angle of incidence is ALWAYS strictly equal to the angle of reflection (∠i = ∠r) for all reflecting surfaces.\nStatement 2: Light slows down when entering an optically denser medium like glass or water from air.\nStatement 3: A convex mirror can form a real inverted image on a movie screen.\nWhich statements are TRUE?",
+    "options": [
+      "Statements 1 and 2 only",
+      "Statements 2 and 3 only",
+      "Statements 1 and 3 only",
+      "All Statements 1, 2, and 3"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "Statement 3 is false (convex mirrors NEVER form real images). Statements 1 (Law of Reflection) and 2 (Refraction Snell's Law) are universal laws."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Science",
+    "chapter": "Chapter 11: Light",
+    "question": "Why does a pencil partly immersed in a glass tumbler of water appear BENT or BROKEN at the water-air boundary?",
+    "options": [
+      "Due to Refraction: light rays emerging from the underwater portion of the pencil bend away from the normal as they pass from denser water into rarer air",
+      "Because water dissolves the pencil",
+      "Because water acts as a mirror",
+      "Because the glass is curved"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "Refraction at the planar water-air boundary shifts the apparent position of the submerged pencil tip upwards, creating an apparent bend."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Science",
+    "chapter": "Chapter 11: Light",
+    "question": "How does a Periscope (used in submarines and military trenches) enable an observer to see objects over walls or above the water surface?",
+    "options": [
+      "It uses TWO parallel plane mirrors inclined at an angle of 45° to each other, successively reflecting light rays downwards through a tube",
+      "It uses an electric camera with a screen",
+      "It uses two magnifying lenses only",
+      "It works with sound waves"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "A periscope utilizes two plane mirrors set at 45° to provide twin successive 90° reflections, shifting the line of sight over obstacles."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Science",
+    "chapter": "Chapter 11: Light",
+    "question": "Consider four optical scenarios:\n1. Looking at your face in a polished stainless steel spoon's inner bowl\n2. Looking at street traffic in a shop anti-theft mirror\n3. Using a magnifying glass on a printed map\n4. Watching a movie projected on a cinema screen\nWhich of these involves a REAL IMAGE captured or displayed physically?",
+    "options": [
+      "Scenario 4 only",
+      "Scenarios 1 and 2 only",
+      "Scenarios 2 and 3 only",
+      "All 1, 2, 3, and 4"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "A cinema projector creates a real inverted image on a screen. Scenarios 1 (close), 2, and 3 produce virtual images."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Science",
+    "chapter": "Chapter 11: Light",
+    "question": "Why does the primary rainbow always appear in the sky in the direction OPPOSITE to the position of the Sun (e.g. in the East in the late afternoon)?",
+    "options": [
+      "Because sunlight must enter the raindrops from behind the observer and be internally reflected back towards the observer's eyes at an angle of ~42°",
+      "Because the Moon pulls the rainbow",
+      "Because clouds only exist in the east",
+      "Because wind blows the colors opposite to the sun"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "Rainbow geometry requires anti-solar alignment: the observer's back is to the sun so that internal reflection at ~40–42° enters the retina."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Science",
+    "chapter": "Chapter 11: Light",
+    "question": "What is the optical mechanism of 'Persistence of Vision' in human eye biology that makes motion pictures and Newton's rotating color disc work?",
+    "options": [
+      "The visual impression of an image on the human retina remains for approximately 1/16th of a second after the light stimulus disappears, allowing sequential frames to blend seamlessly into continuous motion or white light",
+      "The eye stores images in memory for one hour",
+      "The eye blinks every second",
+      "The cornea turns into a prism"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "Retinal photoreceptors retain photochemical activation for ~1/16 s (persistence of vision), enabling cinematic animation and color fusion."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Science",
+    "chapter": "Chapter 11: Light",
+    "question": "Why are high-intensity parabolic Concave Mirrors used in solar thermal power plants (like Ivanpah or Bhadla Solar Park)?",
+    "options": [
+      "Thousands of giant concave mirrors (heliostats) track the Sun and concentrate thousands of megawatts of thermal solar flux onto a central molten-salt receiver tower to generate superheated steam for turbines",
+      "To produce cold water for cities",
+      "To illuminate the night sky",
+      "To reflect light away from the Earth"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "Concentrated Solar Power (CSP) employs massive concave parabolic mirror fields to focus solar flux onto molten-salt heat exchangers."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Science",
+    "chapter": "Chapter 11: Light",
+    "question": "What grand unifying optical principle is established in Chapter 11 of NCERT Class 7 Science?",
+    "options": [
+      "Light—the primary medium of visual perception—governs rectilinear ray propagation, geometric reflection, refractive dispersion, and spherical image formation that underpins modern microscopy, vision correction, astronomical exploration, and solar energy technologies",
+      "That light has no physical laws",
+      "That colors exist only inside glass prisms",
+      "That mirrors can only be made of silver"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "Chapter 11 establishes foundational geometric optics: rectilinear ray propagation, planar and spherical reflection/refraction, and chromatic dispersion."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Mathematics",
+    "chapter": "Chapter 11: Exponents and Powers",
+    "question": "In the exponential expression 10⁴, what is the BASE and what is the EXPONENT (Power)?",
+    "options": [
+      "Base = 10 and Exponent = 4",
+      "Base = 4 and Exponent = 10",
+      "Base = 40 and Exponent = 1",
+      "Base = 100 and Exponent = 4"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "In aⁿ, 'a' is the base that is repeatedly multiplied, and 'n' is the exponent specifying how many times the base occurs as a factor."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Mathematics",
+    "chapter": "Chapter 11: Exponents and Powers",
+    "question": "What is the numerical value of 2⁶?",
+    "options": [
+      "64 (2 × 2 × 2 × 2 × 2 × 2 = 64)",
+      "32",
+      "12",
+      "128"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "2⁶ = 2 × 2 × 2 × 2 × 2 × 2 = 64."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Mathematics",
+    "chapter": "Chapter 11: Exponents and Powers",
+    "question": "Express 343 as a power of 7:",
+    "options": [
+      "7³ (7 × 7 × 7 = 49 × 7 = 343)",
+      "7⁴",
+      "7²",
+      "7⁵"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "343 = 7 × 49 = 7 × 7 × 7 = 7³."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Mathematics",
+    "chapter": "Chapter 11: Exponents and Powers",
+    "question": "Which number is GREATER: 5³ or 3⁵?",
+    "options": [
+      "3⁵ is greater (3⁵ = 243, while 5³ = 125 ; 243 > 125)",
+      "5³ is greater",
+      "Both are equal",
+      "Cannot be determined"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "3⁵ = 243 and 5³ = 125; since 243 > 125, 3⁵ is greater."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Mathematics",
+    "chapter": "Chapter 11: Exponents and Powers",
+    "question": "According to the Law of Exponents for MULTIPLICATION with the same base, what is (aᵐ × aⁿ) equal to?",
+    "options": [
+      "aᵐ⁺ⁿ",
+      "aᵐ⁻ⁿ",
+      "aᵐⁿ",
+      "(ab)ᵐ⁺ⁿ"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "Multiplication law of exponents: aᵐ × aⁿ = aᵐ⁺ⁿ."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Mathematics",
+    "chapter": "Chapter 11: Exponents and Powers",
+    "question": "According to the Law of Exponents for DIVISION with the same base (where m > n), what is (aᵐ ÷ aⁿ) equal to?",
+    "options": [
+      "aᵐ⁻ⁿ",
+      "aᵐ⁺ⁿ",
+      "aᵐ/ⁿ",
+      "1"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "Division law of exponents: aᵐ ÷ aⁿ = aᵐ⁻ⁿ."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Mathematics",
+    "chapter": "Chapter 11: Exponents and Powers",
+    "question": "What is (aᵐ)ⁿ (power of a power) equal to?",
+    "options": [
+      "aᵐⁿ (a raised to the power m × n)",
+      "aᵐ⁺ⁿ",
+      "aᵐ⁻ⁿ",
+      "aᵐ/ⁿ"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "Power of a power rule: (aᵐ)ⁿ = aᵐⁿ."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Mathematics",
+    "chapter": "Chapter 11: Exponents and Powers",
+    "question": "What is the value of any non-zero number raised to the power 0 (i.e. a⁰ where a ≠ 0)?",
+    "options": [
+      "1 (e.g. 7⁰ = 1, 100⁰ = 1, x⁰ = 1)",
+      "0",
+      "a",
+      "Infinity"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "Zero exponent law: a⁰ = aᵐ⁻ᵐ = aᵐ / aᵐ = 1 for any non-zero base a."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Mathematics",
+    "chapter": "Chapter 11: Exponents and Powers",
+    "question": "What is (-1) raised to an EVEN power (e.g. (-1)⁴, (-1)¹⁰⁰) equal to?",
+    "options": [
+      "+1",
+      "-1",
+      "0",
+      "Even number"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "Negative one raised to any even natural power is always +1."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Mathematics",
+    "chapter": "Chapter 11: Exponents and Powers",
+    "question": "What is (-1) raised to an ODD power (e.g. (-1)³, (-1)⁵¹) equal to?",
+    "options": [
+      "-1",
+      "+1",
+      "0",
+      "Odd number"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "Negative one raised to any odd natural power is always -1."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Mathematics",
+    "chapter": "Chapter 11: Exponents and Powers",
+    "question": "Simplify: 3² × 3⁴ × 3⁸:",
+    "options": [
+      "3¹⁴ (3²⁺⁴⁺⁸ = 3¹⁴)",
+      "3⁶⁴",
+      "9¹⁴",
+      "3¹⁶"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "3²⁺⁴⁺⁸ = 3¹⁴."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Mathematics",
+    "chapter": "Chapter 11: Exponents and Powers",
+    "question": "Express the speed of light (300,000,000 m/s) in STANDARD SCIENTIFIC NOTATION:",
+    "options": [
+      "3.0 × 10⁸ m/s",
+      "30 × 10⁷ m/s",
+      "0.3 × 10⁹ m/s",
+      "3.0 × 10⁶ m/s"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "Standard form: a number between 1.0 and 10.0 multiplied by a power of 10 → 3.0 × 10⁸ m/s."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Mathematics",
+    "chapter": "Chapter 11: Exponents and Powers",
+    "question": "Express 729 as a product of powers of prime factors in exponential form:",
+    "options": [
+      "3⁶ (729 = 3 × 3 × 3 × 3 × 3 × 3 = 3⁶)",
+      "9³",
+      "3⁵ × 2",
+      "27²"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "Prime factorization of 729 = 3⁶."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Mathematics",
+    "chapter": "Chapter 11: Exponents and Powers",
+    "question": "Express 108 × 192 as a product of prime factors only in exponential form:",
+    "options": [
+      "2⁸ × 3⁴ (108 = 2² × 3³ ; 192 = 2⁶ × 3¹ ; Product = 2²⁺⁶ × 3³⁺¹ = 2⁸ × 3⁴)",
+      "2⁷ × 3⁵",
+      "2⁶ × 3⁴",
+      "2⁸ × 3⁵"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "108 = 2² × 3³; 192 = 2⁶ × 3¹. Combined product = 2⁸ × 3⁴."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Mathematics",
+    "chapter": "Chapter 11: Exponents and Powers",
+    "question": "Simplify and write in exponential form: (2²⁰ ÷ 2¹⁵) × 2³:",
+    "options": [
+      "2⁸ ((2²⁰⁻¹⁵) × 2³ = 2⁵ × 2³ = 2⁵⁺³ = 2⁸ = 256)",
+      "2⁵",
+      "2¹⁰",
+      "2⁶"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "2²⁰⁻¹⁵ × 2³ = 2⁵ × 2³ = 2⁸."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Mathematics",
+    "chapter": "Chapter 11: Exponents and Powers",
+    "question": "Simplify: (3⁰ + 2⁰) × 5⁰:",
+    "options": [
+      "2 ((1 + 1) × 1 = 2 × 1 = 2)",
+      "1",
+      "0",
+      "6"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "3⁰ = 1, 2⁰ = 1, 5⁰ = 1 → (1 + 1) × 1 = 2."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Mathematics",
+    "chapter": "Chapter 11: Exponents and Powers",
+    "question": "Simplify: (3⁷ / (3⁴ × 3³)):",
+    "options": [
+      "1 (3⁷ / 3⁴⁺³ = 3⁷ / 3⁷ = 3⁷⁻⁷ = 3⁰ = 1)",
+      "3",
+      "0",
+      "9"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "3⁷ / 3⁷ = 3⁰ = 1."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Mathematics",
+    "chapter": "Chapter 11: Exponents and Powers",
+    "question": "Simplify and express in exponential form: (2³ × 3⁴ × 4) / (3 × 32):",
+    "options": [
+      "3³ (4 = 2² ; 32 = 2⁵ ; Numerator = 2³ × 2² × 3⁴ = 2⁵ × 3⁴ ; Denominator = 2⁵ × 3¹ ; Value = 2⁵⁻⁵ × 3⁴⁻¹ = 2⁰ × 3³ = 1 × 3³ = 3³ = 27)",
+      "3⁴",
+      "2³ × 3²",
+      "3²"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "(2⁵ × 3⁴) / (2⁵ × 3¹) = 2⁰ × 3³ = 3³ = 27."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Mathematics",
+    "chapter": "Chapter 11: Exponents and Powers",
+    "question": "Simplify: (2⁸ × a⁵) / (4³ × a³):",
+    "options": [
+      "4a² or 2²a² (4³ = (2²)³ = 2⁶ ; Expression = (2⁸ / 2⁶) × (a⁵ / a³) = 2⁸⁻⁶ × a⁵⁻³ = 2² × a² = 4a²)",
+      "2a²",
+      "8a³",
+      "2⁴a²"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "4³ = 2⁶. Result = 2⁸⁻⁶ × a⁵⁻³ = 2²a² = 4a²."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Mathematics",
+    "chapter": "Chapter 11: Exponents and Powers",
+    "question": "Expand the number 279,404 in expanded decimal exponential notation:",
+    "options": [
+      "2 × 10⁵ + 7 × 10⁴ + 9 × 10³ + 4 × 10² + 0 × 10¹ + 4 × 10⁰",
+      "2 × 10⁴ + 7 × 10³ + 9 × 10² + 4 × 10¹ + 4 × 10⁰",
+      "2 × 10⁶ + 7 × 10⁵ + 9 × 10⁴ + 4 × 10³ + 4 × 10²",
+      "279 × 10³ + 404"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "279,404 = 2×10⁵ + 7×10⁴ + 9×10³ + 4×10² + 0×10¹ + 4×10⁰."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Mathematics",
+    "chapter": "Chapter 11: Exponents and Powers",
+    "question": "Find the number from the expanded form: 8 × 10⁴ + 6 × 10³ + 0 × 10² + 4 × 10¹ + 5 × 10⁰:",
+    "options": [
+      "86,045",
+      "86,450",
+      "806,045",
+      "86,405"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "80,000 + 6,000 + 0 + 40 + 5 = 86,045."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Mathematics",
+    "chapter": "Chapter 11: Exponents and Powers",
+    "question": "The distance between Sun and Earth is 149,600,000,000 metres. Express this distance in STANDARD SCIENTIFIC FORM:",
+    "options": [
+      "1.496 × 10¹¹ m",
+      "14.96 × 10¹⁰ m",
+      "149.6 × 10⁹ m",
+      "1.496 × 10¹² m"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "149,600,000,000 = 1.496 × 10¹¹ m."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Mathematics",
+    "chapter": "Chapter 11: Exponents and Powers",
+    "question": "The population of India in a census was approximately 1,350,000,000. Express it in scientific standard form:",
+    "options": [
+      "1.35 × 10⁹",
+      "13.5 × 10⁸",
+      "135 × 10⁷",
+      "1.35 × 10¹⁰"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "1,350,000,000 = 1.35 × 10⁹."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Mathematics",
+    "chapter": "Chapter 11: Exponents and Powers",
+    "question": "Compare the numbers: 2.7 × 10¹² and 1.5 × 10⁸:",
+    "options": [
+      "2.7 × 10¹² is vastly GREATER than 1.5 × 10⁸ (since 10¹² is 10,000 times larger than 10⁸)",
+      "1.5 × 10⁸ is greater",
+      "Both are approximately equal",
+      "Cannot be compared without full expansion"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "Comparing exponents: 10¹² >> 10⁸, so 2.7 × 10¹² is roughly 18,000 times larger."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Mathematics",
+    "chapter": "Chapter 11: Exponents and Powers",
+    "question": "Simplify: ((5²)³ × 5⁴) ÷ 5⁷:",
+    "options": [
+      "5³ or 125 ((5⁶ × 5⁴) ÷ 5⁷ = 5⁶⁺⁴ ÷ 5⁷ = 5¹⁰ ÷ 5⁷ = 5¹⁰⁻⁷ = 5³ = 125)",
+      "5²",
+      "5⁵",
+      "1"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "5⁶⁺⁴⁻⁷ = 5³ = 125."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Mathematics",
+    "chapter": "Chapter 11: Exponents and Powers",
+    "question": "Simplify: (25 × 5² × t⁸) / (10³ × t⁴):",
+    "options": [
+      "(5 / 8) t⁴ (25 × 5² = 5² × 5² = 5⁴ = 625 ; 10³ = (2×5)³ = 2³ × 5³ = 8 × 125 = 1000 ; 625/1000 = 5/8 ; t⁸/t⁴ = t⁴)",
+      "(5 / 4) t⁴",
+      "(1 / 8) t⁴",
+      "5t⁴"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "(5⁴ × t⁸) / (2³ × 5³ × t⁴) = (5⁴⁻³ / 2³) × t⁸⁻⁴ = (5/8) t⁴."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Mathematics",
+    "chapter": "Chapter 11: Exponents and Powers",
+    "question": "Simplify: (3⁵ × 10⁵ × 25) / (5⁷ × 6⁵):",
+    "options": [
+      "1 (10⁵ = (2×5)⁵ = 2⁵ × 5⁵ ; 25 = 5² ; 6⁵ = (2×3)⁵ = 2⁵ × 3⁵ ; Numerator = 3⁵ × 2⁵ × 5⁵⁺² = 3⁵ × 2⁵ × 5⁷ ; Denominator = 5⁷ × 2⁵ × 3⁵ ; Value = 1)",
+      "5",
+      "0",
+      "10"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "(3⁵ × 2⁵ × 5⁷) / (3⁵ × 2⁵ × 5⁷) = 1."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Mathematics",
+    "chapter": "Chapter 11: Exponents and Powers",
+    "question": "If 2ⁿ = 128, find the value of n:",
+    "options": [
+      "n = 7 (2⁷ = 128)",
+      "n = 6",
+      "n = 8",
+      "n = 5"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "2⁷ = 2 × 2 × 2 × 2 × 2 × 2 × 2 = 128, so n = 7."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Mathematics",
+    "chapter": "Chapter 11: Exponents and Powers",
+    "question": "Read the statements:\nAssertion (A): For any non-zero rational number 'a', a⁰ = 1.\nReason (R): By the quotient rule of exponents, aᵐ / aᵐ = aᵐ⁻ᵐ = a⁰; simultaneously, any non-zero number divided by itself equals 1, hence a⁰ must equal 1.\nChoose the correct option:",
+    "options": [
+      "Both (A) and (R) are true, and (R) is the correct explanation of (A).",
+      "Both (A) and (R) are true, but (R) is NOT the correct explanation of (A).",
+      "(A) is true, but (R) is false.",
+      "(A) is false, but (R) is true."
+    ],
+    "correctAnswer": 0,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "The algebraic deduction aᵐ/aᵐ = a⁰ = 1 rigorously proves the zero exponent rule."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Mathematics",
+    "chapter": "Chapter 11: Exponents and Powers",
+    "question": "Spot the IMPOSTER in the following applications of Laws of Exponents:\nGroup:\n1. 2³ × 2⁴ = 2⁷\n2. (3²)⁴ = 3⁸\n3. (4/5)³ = 4³ / 5³\n4. 2³ + 2⁴ = 2⁷",
+    "options": [
+      "Application 1",
+      "Application 2",
+      "Application 3",
+      "Application 4 (2³ + 2⁴ = 8 + 16 = 24, whereas 2⁷ = 128 ; Exponents cannot be added under ADDITION)"
+    ],
+    "correctAnswer": 3,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "Application 4 commits a classic algebraic fallacy: exponent addition law applies ONLY to multiplication (aᵐ × aⁿ), never to addition."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Mathematics",
+    "chapter": "Chapter 11: Exponents and Powers",
+    "question": "If (2/9)³ × (2/9)⁻⁶ = (2/9)²ᵐ⁻¹, find the value of 'm':",
+    "options": [
+      "m = -1 (LHS = (2/9)³⁺⁽⁻⁶⁾ = (2/9)⁻³ ; Equating exponents: 2m - 1 = -3 ⇒ 2m = -2 ⇒ m = -1)",
+      "m = 1",
+      "m = -2",
+      "m = 0"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "3 - 6 = 2m - 1 → -3 = 2m - 1 → 2m = -2 → m = -1."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Mathematics",
+    "chapter": "Chapter 11: Exponents and Powers",
+    "question": "Match Column I (Exponential Expressions) with Column II (Simplified Values):\n(a) (-2)³ × (-10)³ -> (i) 8,000 ((-8) × (-1000) = 8,000)\n(b) (-3)² × (-5)²  -> (ii) 225 (9 × 25 = 225)\n(c) 0 × 10²⁰       -> (iii) 0\n(d) (-1)⁵⁰⁰        -> (iv) +1",
+    "options": [
+      "a-(i), b-(ii), c-(iii), d-(iv)",
+      "a-(ii), b-(i), c-(iv), d-(iii)",
+      "a-(iv), b-(iii), c-(ii), d-(i)",
+      "a-(iii), b-(iv), c-(i), d-(ii)"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "(-2)³(-10)³ = 8000; (-3)²(-5)² = 225; 0×10²⁰ = 0; (-1)⁵⁰⁰ = 1."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Mathematics",
+    "chapter": "Chapter 11: Exponents and Powers",
+    "question": "Read the statements regarding exponential sizes:\nStatement 1: Mass of Earth is ~5.97 × 10²⁴ kg, while mass of Uranus is ~8.68 × 10²⁵ kg.\nStatement 2: Uranus is approximately 14.5 times more massive than Earth.\nStatement 3: 10⁻¹ is equal to -10.\nWhich statements are TRUE?",
+    "options": [
+      "Statements 1 and 2 only",
+      "Statements 2 and 3 only",
+      "Statements 1 and 3 only",
+      "All Statements 1, 2, and 3"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "Statement 3 is false (10⁻¹ = 1/10 = 0.1, not -10). Statements 1 and 2 are accurate astrophysical computations."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Mathematics",
+    "chapter": "Chapter 11: Exponents and Powers",
+    "question": "Evaluate the expression:\n[(-2)⁴ × 3² × 5⁰] / [4² × (-1)⁷]:",
+    "options": [
+      "-9 ((-2)⁴ = 16 ; 3² = 9 ; 5⁰ = 1 ; Numerator = 16 × 9 × 1 = 144 ; Denominator = 16 × (-1) = -16 ; Value = 144 / -16 = -9)",
+      "+9",
+      "-16",
+      "0"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "144 / -16 = -9."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Mathematics",
+    "chapter": "Chapter 11: Exponents and Powers",
+    "question": "If 5²ˣ⁺¹ ÷ 25 = 125, find the value of x:",
+    "options": [
+      "x = 2 (5²ˣ⁺¹ ÷ 5² = 5²ˣ⁺¹⁻² = 5²ˣ⁻¹ ; 125 = 5³ ; 2x - 1 = 3 ⇒ 2x = 4 ⇒ x = 2)",
+      "x = 1",
+      "x = 3",
+      "x = 4"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "5²ˣ⁻¹ = 5³ → 2x - 1 = 3 → 2x = 4 → x = 2."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Mathematics",
+    "chapter": "Chapter 11: Exponents and Powers",
+    "question": "Express (3.2 × 10⁶) + (4.5 × 10⁵) in standard scientific form:",
+    "options": [
+      "3.65 × 10⁶ (Convert to matching exponent: 4.5 × 10⁵ = 0.45 × 10⁶ ; Sum = (3.2 + 0.45) × 10⁶ = 3.65 × 10⁶)",
+      "7.7 × 10¹¹",
+      "7.7 × 10⁶",
+      "3.65 × 10⁷"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "3.2 × 10⁶ + 0.45 × 10⁶ = 3.65 × 10⁶."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Mathematics",
+    "chapter": "Chapter 11: Exponents and Powers",
+    "question": "If 3⁴ × 2⁵ × a = 12⁴, what is the value of 'a'?",
+    "options": [
+      "a = 16 or 2⁴ (12⁴ = (3 × 2²)⁴ = 3⁴ × 2⁸ ; LHS = 3⁴ × 2⁵ × a ; Equating: 3⁴ × 2⁵ × a = 3⁴ × 2⁸ ⇒ a = 2⁸⁻⁵ = 2³ = 8 ... wait: (2²)⁴ = 2⁸ ; 2⁸ / 2⁵ = 2³ = 8)",
+      "a = 8 (2³ = 8)",
+      "a = 4",
+      "a = 2"
+    ],
+    "correctAnswer": 1,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "12⁴ = (3 × 4)⁴ = 3⁴ × 2⁸. LHS = 3⁴ × 2⁵ × a. Hence a = 2⁸ / 2⁵ = 2³ = 8."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Mathematics",
+    "chapter": "Chapter 11: Exponents and Powers",
+    "question": "A digital memory card has a capacity of 64 Gigabytes (GB). If 1 GB = 2³⁰ bytes, how many bytes of data can the card store in pure power of 2?",
+    "options": [
+      "2³⁶ bytes (64 = 2⁶ ; Capacity = 2⁶ × 2³⁰ = 2⁶⁺³⁰ = 2³⁶ bytes)",
+      "2³⁴ bytes",
+      "2⁴⁰ bytes",
+      "2³² bytes"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "64 × 2³⁰ = 2⁶ × 2³⁰ = 2³⁶ bytes."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Mathematics",
+    "chapter": "Chapter 11: Exponents and Powers",
+    "question": "Simplify: (a³b²c⁴)³ ÷ (a²bc³)²:",
+    "options": [
+      "a⁵b⁴c⁶ (Numerator = a⁹b⁶c¹² ; Denominator = a⁴b²c⁶ ; Quotient = a⁹⁻⁴ b⁶⁻² c¹²⁻⁶ = a⁵b⁴c⁶)",
+      "a⁷b⁴c⁵",
+      "a⁵b²c⁶",
+      "a⁶b⁴c⁶"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "a⁹⁻⁴ b⁶⁻² c¹²⁻⁶ = a⁵b⁴c⁶."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Mathematics",
+    "chapter": "Chapter 11: Exponents and Powers",
+    "question": "Why is Exponential Notation and Standard Form indispensable across modern science, computer science, and astrophysics?",
+    "options": [
+      "It enables astronomical cosmic scales (like the mass of galaxies 10⁴² kg) and subatomic quantum scales (like Planck length 10⁻³⁵ m) to be written concisely, computed without errors, and manipulated systematically",
+      "Because zero takes too long to type",
+      "Because calculators cannot display numbers without exponents",
+      "Because ordinary multiplication is banned in physics"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "Exponential standard notation compresses extreme dynamic ranges spanning subatomic particle scales to cosmic galactic dimensions."
+  },
+  {
+    "classLevel": 7,
+    "subject": "English",
+    "chapter": "Chapter 11: An Alien Hand",
+    "question": "Who is the author of the celebrated science-fiction story 'An Alien Hand'?",
+    "options": [
+      "Jayant Narlikar",
+      "Ruskin Bond",
+      "Satyajit Ray",
+      "R.K. Narayan"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "Eminent Indian astrophysicist and science-fiction writer Dr. Jayant Narlikar authored 'An Alien Hand'."
+  },
+  {
+    "classLevel": 7,
+    "subject": "English",
+    "chapter": "Chapter 11: An Alien Hand",
+    "question": "Where do Tilloo and his family live in the story 'An Alien Hand'?",
+    "options": [
+      "In a technologically advanced underground colony beneath the surface of the planet Mars",
+      "On planet Earth in a cave",
+      "On the Moon inside a glass dome",
+      "On a space station orbiting Jupiter"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "Tilloo and his parents reside in an underground subterranean habitat on Mars equipped with artificial life-support systems."
+  },
+  {
+    "classLevel": 7,
+    "subject": "English",
+    "chapter": "Chapter 11: An Alien Hand",
+    "question": "Why were the inhabitants of Mars forced to abandon the surface and live underground?",
+    "options": [
+      "The Sun grew hostile and cooled down, upsetting the delicate planetary climate and extinguishing surface life, water, and breathable atmosphere",
+      "A foreign army attacked them",
+      "A flood drowned the planet",
+      "They loved living in tunnels"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "Solar atmospheric cooling degraded the Martian surface environment, compelling the survivors to build subterranean biospheres."
+  },
+  {
+    "classLevel": 7,
+    "subject": "English",
+    "chapter": "Chapter 11: An Alien Hand",
+    "question": "How did Tilloo's father travel to work each day through the forbidden underground passage?",
+    "options": [
+      "By swiping a specialized electronic security access card into the automatic door slot",
+      "By speaking a magic password",
+      "By using a heavy iron key",
+      "By climbing a rope ladder"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "Tilloo's father used an electronic security card (keycard) to unlock the sealed metal security doors leading to the surface passage."
+  },
+  {
+    "classLevel": 7,
+    "subject": "English",
+    "chapter": "Chapter 11: An Alien Hand",
+    "question": "What happened when curious Tilloo secretly took his father's security card and entered the forbidden surface passage?",
+    "options": [
+      "Hidden surveillance sensors and mechanical security devices detected him, photographed him, and security guards escorted him back home",
+      "He reached Earth in a rocket",
+      "He was lost forever in the dark",
+      "He found buried treasure"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "Automated biometric sensors detected Tilloo's unauthorized entry, alerting security guards who safely returned him to his mother."
+  },
+  {
+    "classLevel": 7,
+    "subject": "English",
+    "chapter": "Chapter 11: An Alien Hand",
+    "question": "What special equipment is necessary for Martian scientists to survive while working on the hostile surface of Mars?",
+    "options": [
+      "A pressurized protective spacesuit with boots and an oxygen reservoir pack to withstand freezing cold and thin air",
+      "A warm woolen coat only",
+      "An umbrella and sunglasses",
+      "Ordinary leather clothes"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "Mars surface survival mandates an airtight spacesuit for thermal protection, pressure balance, and supplemental oxygen supply."
+  },
+  {
+    "classLevel": 7,
+    "subject": "English",
+    "chapter": "Chapter 11: An Alien Hand",
+    "question": "What unexpected celestial event created widespread commotion in the Martian Central Control Room?",
+    "options": [
+      "Two alien unmanned spacecraft approaching Mars from an unknown origin (Earth)",
+      "An asteroid colliding with the Sun",
+      "A volcanic eruption underground",
+      "A complete electrical power blackout"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "The Central Control Room radar detected two unmanned interplanetary probes (NASA's Viking orbiters/landers) heading toward Mars."
+  },
+  {
+    "classLevel": 7,
+    "subject": "English",
+    "chapter": "Chapter 11: An Alien Hand",
+    "question": "What mechanical part emerged from the landed alien spacecraft onto the Martian soil?",
+    "options": [
+      "A metallic mechanical robotic arm (the 'alien hand') reaching down to collect Martian soil samples",
+      "A laser gun",
+      "A giant video camera",
+      "A flag pole only"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "The Viking lander extended a telescopic mechanical sampler arm (an 'alien hand') to scoop regolith soil for biological analysis."
+  },
+  {
+    "classLevel": 7,
+    "subject": "English",
+    "chapter": "Chapter 11: An Alien Hand",
+    "question": "What irresistible object on the Control Room panel caught young Tilloo's eye when he visited with his father?",
+    "options": [
+      "A prominent, glowing RED BUTTON on the control console",
+      "A bright green light",
+      "A video game screen",
+      "A telephone handset"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "A bright, prominent red button on the control console fascinated Tilloo, tempting his childish curiosity."
+  },
+  {
+    "classLevel": 7,
+    "subject": "English",
+    "chapter": "Chapter 11: An Alien Hand",
+    "question": "What happened when Tilloo pressed the tempting red button on the console?",
+    "options": [
+      "A loud warning siren shrilled, and the mechanical robotic arm of the alien lander on the surface suddenly stopped functioning",
+      "The Control Room exploded",
+      "The spacecraft flew back to Earth",
+      "Lights turned off completely"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "Pressing the red button activated an interference signal that rendered the mechanical robotic arm on the Martian surface inactive."
+  },
+  {
+    "classLevel": 7,
+    "subject": "English",
+    "chapter": "Chapter 11: An Alien Hand",
+    "question": "Who was the 'Alien' in the title 'An Alien Hand' from the perspective of the Martian inhabitants?",
+    "options": [
+      "Human beings on Earth (and NASA's Viking robotic lander)",
+      "Monsters from another galaxy",
+      "A ghost in the underground tunnels",
+      "Tilloo's father"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "In a brilliant role-reversal twist, the 'aliens' are human scientists on Earth whose robotic arm is probing Mars."
+  },
+  {
+    "classLevel": 7,
+    "subject": "English",
+    "chapter": "Chapter 11: An Alien Hand",
+    "question": "What real-life NASA space exploration mission inspired Dr. Jayant Narlikar's story 'An Alien Hand'?",
+    "options": [
+      "The VIKING Mission to Mars (Viking 1 and Viking 2, 1976)",
+      "The Apollo 11 Moon landing",
+      "The Voyager 1 mission",
+      "The Hubble Space Telescope"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "NASA's 1976 Viking 1 and 2 Mars lander missions with robotic soil-sampling arms inspired Narlikar's imaginative perspective."
+  },
+  {
+    "classLevel": 7,
+    "subject": "English",
+    "chapter": "Chapter 11: An Alien Hand",
+    "question": "What wise advice did Number One (the in-charge of defense) give to the President's advisory council regarding the alien spacecraft?",
+    "options": [
+      "He advised passive observation and non-interference, warning that destroying the spacecraft would reveal their existence and location to unknown alien civilizations",
+      "He advised shooting missiles at the spacecraft immediately",
+      "He advised inviting the aliens to dinner",
+      "He advised abandoning Mars"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "Number One argued for strategic discretion: destroying the probes would reveal Martian presence and invite retaliatory exploration."
+  },
+  {
+    "classLevel": 7,
+    "subject": "English",
+    "chapter": "Chapter 11: An Alien Hand",
+    "question": "What did Number Two (the chief scientist) conclude about the approaching alien spacecraft?",
+    "options": [
+      "He confirmed that the spacecraft were completely unmanned and contained only automated electronic recording instruments, so passive non-interference posed zero danger",
+      "He said the craft were filled with dangerous soldiers",
+      "He thought they were birds",
+      "He claimed they were asteroids"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "Number Two's sensor telemetry confirmed the alien probes carried only robotic instruments without living biological crew."
+  },
+  {
+    "classLevel": 7,
+    "subject": "English",
+    "chapter": "Chapter 11: An Alien Hand",
+    "question": "How did NASA scientists on Earth explain the sudden mechanical failure of the Viking lander's robotic arm to news reporters?",
+    "options": [
+      "They announced that the mechanical arm had developed a minor unexpected technical glitch, but their Earth-based engineers were transmitting corrective radio signals to reactivate it",
+      "They announced they were attacked by Martians",
+      "They said the mission was abandoned",
+      "They claimed the camera broke"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "NASA scientists treated the arm stoppage as an enigmatic electronic malfunction and restored functionality remotely via radio telecommands."
+  },
+  {
+    "classLevel": 7,
+    "subject": "English",
+    "chapter": "Chapter 11: An Alien Hand",
+    "question": "What was the final conclusion reached by Earth scientists after analyzing the Martian soil samples collected by the Viking lander?",
+    "options": [
+      "The soil samples showed NO SIGNS OF LIFE, leaving Earth scientists disappointed, while the Martians remained safely hidden underground",
+      "They discovered intelligent aliens living in cities",
+      "They found vast gold mines",
+      "They proved Mars was made of cheese"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "The ironic climax: NASA concluded Mars is lifeless, while the underground Martian civilization continues to flourish in secret."
+  },
+  {
+    "classLevel": 7,
+    "subject": "English",
+    "chapter": "Chapter 11: An Alien Hand",
+    "question": "What literary technique is central to the narrative perspective of 'An Alien Hand'?",
+    "options": [
+      "Dramatic Irony and Role Reversal (narrating human space exploration from the viewpoint of the Martian natives)",
+      "Tragic Flashback",
+      "Allegorical Satire on Animals",
+      "Poetic Verse"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "Perspective inversion: presenting humanity as mysterious 'aliens' through the empathetic eyes of a Martian boy and his family."
+  },
+  {
+    "classLevel": 7,
+    "subject": "English",
+    "chapter": "Chapter 11: An Alien Hand",
+    "question": "What is the SYNONYM of 'Hostile' as used to describe the Martian surface climate?",
+    "options": [
+      "Unfriendly / Harsh / Inhospitable",
+      "Pleasant",
+      "Welcoming",
+      "Breezy"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "'Hostile' environment denotes an inhospitable, severe, life-threatening physical climate."
+  },
+  {
+    "classLevel": 7,
+    "subject": "English",
+    "chapter": "Chapter 11: An Alien Hand",
+    "question": "What is the ANTONYM of 'Unmanned' in aerospace terminology?",
+    "options": [
+      "Manned / Crewed / Piloted",
+      "Autonomous",
+      "Automated",
+      "Robotic"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "The antonym of 'unmanned' (robotic/autonomous) is 'manned' or 'crewed' (operated by human astronauts)."
+  },
+  {
+    "classLevel": 7,
+    "subject": "English",
+    "chapter": "Chapter 11: An Alien Hand",
+    "question": "Choose the correctly spelled word:",
+    "options": [
+      "Surveillance",
+      "Surveilance",
+      "Survalience",
+      "Survelience"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "Correct orthography: S-U-R-V-E-I-L-L-A-N-C-E."
+  },
+  {
+    "classLevel": 7,
+    "subject": "English",
+    "chapter": "Chapter 11: An Alien Hand",
+    "question": "Fill in the blank with the appropriate preposition:\n'Tilloo's father worked _______ an underground control center.'",
+    "options": [
+      "in",
+      "on",
+      "over",
+      "between"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "Location within an enclosed facility requires 'in'."
+  },
+  {
+    "classLevel": 7,
+    "subject": "English",
+    "chapter": "Chapter 11: An Alien Hand",
+    "question": "Identify the type of sentence:\n'How marvelous it would be to see the Sun with my own eyes!'",
+    "options": [
+      "Exclamatory Sentence",
+      "Declarative Sentence",
+      "Imperative Sentence",
+      "Interrogative Sentence"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "Expresses strong emotion/longing with an exclamation mark, characterizing an exclamatory sentence."
+  },
+  {
+    "classLevel": 7,
+    "subject": "English",
+    "chapter": "Chapter 11: An Alien Hand",
+    "question": "Convert to INDIRECT SPEECH:\nTilloo asked his father, \"Can I go to the surface today?\"",
+    "options": [
+      "Tilloo asked his father if he could go to the surface that day.",
+      "Tilloo asked his father that can I go to surface today.",
+      "Tilloo told his father to go to surface.",
+      "Tilloo asked his father if can he go to surface yesterday."
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "Yes/No question indirect rule: reporting verb 'asked' + 'if/whether' + subject 'he' + modal shift 'could' + time shift 'that day'."
+  },
+  {
+    "classLevel": 7,
+    "subject": "English",
+    "chapter": "Chapter 11: An Alien Hand",
+    "question": "What character trait is prominently displayed by Tilloo throughout the story?",
+    "options": [
+      "Irrepressible curiosity, youthful adventure, and eagerness to explore the unknown",
+      "Cowardice and fear of shadows",
+      "Greed for money",
+      "Anger towards his parents"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "Tilloo embodies universal childhood curiosity: daring to swipe the card, longing to see the sun, and pressing the mysterious red button."
+  },
+  {
+    "classLevel": 7,
+    "subject": "English",
+    "chapter": "Chapter 11: An Alien Hand",
+    "question": "What is the meaning of the phrase 'A blessing in disguise'?",
+    "options": [
+      "An apparent misfortune or mistake that ultimately produces a beneficial outcome",
+      "A religious ritual",
+      "A gift wrapped in paper",
+      "A curse that brings harm"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "Idiom meaning: something that seems unfortunate at first (Tilloo getting caught / pressing button) but results in positive outcomes/safety."
+  },
+  {
+    "classLevel": 7,
+    "subject": "English",
+    "chapter": "Chapter 11: An Alien Hand",
+    "question": "Identify the figure of speech in: 'The mechanical hand was like a giant metallic spider reaching for the soil.'",
+    "options": [
+      "Simile (using 'like' to compare the mechanical arm to a spider)",
+      "Metaphor",
+      "Personification",
+      "Hyperbole"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "Explicit comparison utilizing the comparative connector 'like' constitutes a Simile."
+  },
+  {
+    "classLevel": 7,
+    "subject": "English",
+    "chapter": "Chapter 11: An Alien Hand",
+    "question": "What do the Martian leaders value above all in their response to the alien arrival?",
+    "options": [
+      "Prudence, collective consensus, non-violence, and self-preservation of their hidden civilization",
+      "Aggressive military conquest of other planets",
+      "Destroying every object in space",
+      "Surrendering without thinking"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "The Martian council demonstrates scientific wisdom, restraint, and calculated pacifism to protect their subterranean community."
+  },
+  {
+    "classLevel": 7,
+    "subject": "English",
+    "chapter": "Chapter 11: An Alien Hand",
+    "question": "What scientific truth about Mars does the story reflect accurately?",
+    "options": [
+      "Mars has extremely thin unbreathable atmosphere, freezing sub-zero temperatures, and barren dry soil regolith",
+      "Mars has vast tropical oceans with fish",
+      "Mars is covered with green forests",
+      "Mars is hotter than Venus"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "Dr. Narlikar incorporates rigorous astrophysics: Mars' rarefied CO₂ atmosphere, extreme cold, and barren regolith."
+  },
+  {
+    "classLevel": 7,
+    "subject": "English",
+    "chapter": "Chapter 11: An Alien Hand",
+    "question": "Read the statements:\nAssertion (A): 'An Alien Hand' is a masterwork of cognitive estrangement and empathetic role-reversal in science fiction.\nReason (R): By framing human astronauts and NASA robots as the enigmatic 'aliens' from the viewpoint of Martian subterranean inhabitants, the story forces readers to reconsider anthropocentric assumptions about cosmic life.\nChoose the correct option:",
+    "options": [
+      "Both (A) and (R) are true, and (R) is the correct explanation of (A).",
+      "Both (A) and (R) are true, but (R) is NOT the correct explanation of (A).",
+      "(A) is true, but (R) is false.",
+      "(A) is false, but (R) is true."
+    ],
+    "correctAnswer": 0,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "Narlikar uses classic SF cognitive estrangement: de-centering human exceptionalism through the perceptive gaze of Martian natives."
+  },
+  {
+    "classLevel": 7,
+    "subject": "English",
+    "chapter": "Chapter 11: An Alien Hand",
+    "question": "Spot the IMPOSTER in the following character roles and decisions in 'An Alien Hand':\nGroup:\n1. Tilloo - Curious Martian child who presses the red button\n2. Number One - Defense in-charge advocating strategic non-interference\n3. Number Two - Chief scientist confirming spacecraft are unmanned probes\n4. Tilloo's Father - Space pirate who invades Earth with laser cannons",
+    "options": [
+      "Character 1",
+      "Character 2",
+      "Character 3",
+      "Character 4 (Tilloo's father is a gentle, dedicated subterranean maintenance technician, NOT a space pirate)"
+    ],
+    "correctAnswer": 3,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "Character 4 is an absurd distortion: Tilloo's father is a conscientious subterranean scientist who maintains bio-support systems."
+  },
+  {
+    "classLevel": 7,
+    "subject": "English",
+    "chapter": "Chapter 11: An Alien Hand",
+    "question": "Analyze the profound ecological cautionary tale embedded in the backstory of Martian subterranean life:\nWhat warning does it convey to humanity on Earth?",
+    "options": [
+      "Disrupting planetary climate and solar-ecological equilibrium can destroy surface habitability, rendering a thriving planet barren and forcing survivors into precarious subterranean technological shelters",
+      "That building rockets is useless",
+      "That living underground is always better than living in nature",
+      "That aliens will soon destroy Earth's atmosphere"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "Mars' planetary atmospheric collapse serves as an environmental parable on the fragility of planetary biospheres."
+  },
+  {
+    "classLevel": 7,
+    "subject": "English",
+    "chapter": "Chapter 11: An Alien Hand",
+    "question": "Match Column I (Literary Elements of 'An Alien Hand') with Column II (Story Manifestations):\n(a) Inciting Incident   -> (i) Tilloo steals father's security card and explores surface tunnel\n(b) Rising Action       -> (ii) Two alien Viking spacecraft approach and land on Mars\n(c) Climax              -> (iii) Tilloo presses the red button, halting the mechanical arm\n(d) Resolution          -> (iv) NASA repairs the arm remotely and declares Mars lifeless",
+    "options": [
+      "a-(i), b-(ii), c-(iii), d-(iv)",
+      "a-(ii), b-(i), c-(iv), d-(iii)",
+      "a-(iv), b-(iii), c-(ii), d-(i)",
+      "a-(iii), b-(iv), c-(i), d-(ii)"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "Inciting incident = card theft; Rising action = Viking landing; Climax = red button press; Resolution = NASA declaration."
+  },
+  {
+    "classLevel": 7,
+    "subject": "English",
+    "chapter": "Chapter 11: An Alien Hand",
+    "question": "Read the statements regarding the story's climax:\nStatement 1: Tilloo's impulse to press the red button stemmed from instinctive child curiosity, not malice.\nStatement 2: His father reprimanded Tilloo and restored the button to neutral.\nStatement 3: Tilloo was expelled from Mars forever.\nWhich statements are TRUE?",
+    "options": [
+      "Statements 1 and 2 only",
+      "Statements 2 and 3 only",
+      "Statements 1 and 3 only",
+      "All Statements 1, 2, and 3"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "Statement 3 is false (Tilloo was safely guided by his loving parents). Statements 1 and 2 depict the authentic narrative sequence."
+  },
+  {
+    "classLevel": 7,
+    "subject": "English",
+    "chapter": "Chapter 11: An Alien Hand",
+    "question": "Identify the syntactic structure of: '**Had Tilloo not pressed the red button**, the alien mechanical hand would have gathered soil samples without interruption.'",
+    "options": [
+      "Inverted Third Conditional expressing hypothetical past counterfactual condition",
+      "First conditional in future tense",
+      "Simple compound sentence",
+      "Relative coordinate clause"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "Inverted conditional without 'if' ('Had Tilloo not pressed...') forms a formal Third Conditional expressing unreal past conditions."
+  },
+  {
+    "classLevel": 7,
+    "subject": "English",
+    "chapter": "Chapter 11: An Alien Hand",
+    "question": "Why did the Martian leadership choose NOT to communicate with or broadcast radio signals to the Viking spacecraft?",
+    "options": [
+      "They did not know the technological level or intentions of the alien civilization, fearing that contact might invite colonizing invasions or exploitation of their limited resources",
+      "Because they did not understand radio waves",
+      "Because their radios were broken",
+      "Because they thought the craft was a bird"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "The Dark Forest / precautionary principle: avoiding unilateral contact with potentially dangerous unknown cosmic civilizations."
+  },
+  {
+    "classLevel": 7,
+    "subject": "English",
+    "chapter": "Chapter 11: An Alien Hand",
+    "question": "What makes the ending of 'An Alien Hand' delightfully humorous yet intellectually stimulating?",
+    "options": [
+      "The contrast between NASA's triumphant scientific press conference claiming 'No Life on Mars' and the reality that a highly intelligent civilization is observing them in secret from underneath the soil",
+      "Tilloo eating Martian ice cream",
+      "The rocket exploding into fireworks",
+      "The scientists crying on television"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "Exquisite situational irony: human certainty of Mars' sterility juxtaposed against the living subterranean Martian world."
+  },
+  {
+    "classLevel": 7,
+    "subject": "English",
+    "chapter": "Chapter 11: An Alien Hand",
+    "question": "What is the grammatical function of the underlined gerund phrase in: '**Living underground** required sophisticated technological coordination and perpetual vigilance.'?",
+    "options": [
+      "Subject of the sentence",
+      "Direct object of the verb",
+      "Subject complement",
+      "Adverbial adjunct"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "'Living underground' is a Gerund Phrase functioning as the grammatical subject of the main predicate verb 'required'."
+  },
+  {
+    "classLevel": 7,
+    "subject": "English",
+    "chapter": "Chapter 11: An Alien Hand",
+    "question": "Which literary trope is subverted when the story reveals that the 'Alien' is actually a robotic probe from Planet Earth?",
+    "options": [
+      "The 'Alien Invasion / Space Monster' trope (human beings are revealed to be the enigmatic extraterrestrial visitors)",
+      "The Fairy Tale princess trope",
+      "The Detective murder mystery trope",
+      "The Ghost story haunting trope"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "Subversion of xenophobic pulp sci-fi: redefining the 'alien' through the eyes of indigenous non-human protagonists."
+  },
+  {
+    "classLevel": 7,
+    "subject": "English",
+    "chapter": "Chapter 11: An Alien Hand",
+    "question": "How does Dr. Jayant Narlikar balance scientific realism with accessible youth storytelling in 'An Alien Hand'?",
+    "options": [
+      "By integrating authentic astrophysical telemetry, bio-suits, and NASA robotic missions into a warm, relatable coming-of-age story of parental care and childhood curiosity",
+      "By using magic wands and wizards",
+      "By using complex mathematical equations on every page",
+      "By eliminating all dialogue"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "Narlikar seamlessly weaves hard astrophysical principles with universal domestic family dynamics and youth adventure."
+  },
+  {
+    "classLevel": 7,
+    "subject": "English",
+    "chapter": "Chapter 11: An Alien Hand",
+    "question": "What master theme does 'An Alien Hand' impart to young learners?",
+    "options": [
+      "The universe is vast and full of wonder; true scientific inquiry requires humility, empathy for other perspectives, respect for fragile planetary ecologies, and the courage to explore beyond our immediate horizons",
+      "That space exploration should be banned",
+      "That children should never ask questions",
+      "That technology is evil"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "Chapter 11 champions cosmic humility, scientific imagination, perspective-taking, and planetary environmental consciousness."
+  },
+  {
+    "classLevel": 7,
+    "subject": "GK",
+    "chapter": "Chapter 11: Global Economy, Trade, Financial Institutions & Global Markets",
+    "question": "What does the fundamental macroeconomic term 'GDP' stand for?",
+    "options": [
+      "Gross Domestic Product",
+      "Global Development Plan",
+      "General Demand Price",
+      "Government Deposit Programme"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "Gross Domestic Product (GDP) is the total monetary or market value of all finished goods and services produced within a country in a specific time period."
+  },
+  {
+    "classLevel": 7,
+    "subject": "GK",
+    "chapter": "Chapter 11: Global Economy, Trade, Financial Institutions & Global Markets",
+    "question": "Which international financial institution headquartered in Washington, D.C., works to foster global monetary cooperation, secure financial stability, and provide balance-of-payments loans to member nations?",
+    "options": [
+      "The International Monetary Fund (IMF)",
+      "The World Trade Organization (WTO)",
+      "The United Nations Environment Programme",
+      "Interpol"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "The IMF (190 member countries) promotes international financial stability, exchange rate cooperation, and emergency balance-of-payments assistance."
+  },
+  {
+    "classLevel": 7,
+    "subject": "GK",
+    "chapter": "Chapter 11: Global Economy, Trade, Financial Institutions & Global Markets",
+    "question": "Which global development institution headquartered in Washington, D.C., provides low-interest loans, zero-interest credits, and grants to developing nations for infrastructure, education, and health?",
+    "options": [
+      "The World Bank (IBRD & IDA)",
+      "The World Health Organization",
+      "The International Court of Justice",
+      "UNESCO"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "The World Bank focuses on long-term poverty alleviation, financing roads, power grids, schools, and sustainable development across developing countries."
+  },
+  {
+    "classLevel": 7,
+    "subject": "GK",
+    "chapter": "Chapter 11: Global Economy, Trade, Financial Institutions & Global Markets",
+    "question": "Which international organization headquartered in Geneva, Switzerland, oversees and regulates the rules of international trade and resolves trade disputes between nations?",
+    "options": [
+      "The World Trade Organization (WTO)",
+      "The World Economic Forum",
+      "The International Red Cross",
+      "The International Maritime Organization"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "The WTO (established in 1995, succeeding GATT) administers global trade agreements and adjudicates international trade disputes."
+  },
+  {
+    "classLevel": 7,
+    "subject": "GK",
+    "chapter": "Chapter 11: Global Economy, Trade, Financial Institutions & Global Markets",
+    "question": "What is the CENTRAL BANK of India that regulates the nation's banking system, issues currency notes, and controls monetary policy?",
+    "options": [
+      "The Reserve Bank of India (RBI)",
+      "The State Bank of India (SBI)",
+      "The Bank of Baroda",
+      "The Finance Ministry Bank"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "The Reserve Bank of India (RBI, established in 1935 with headquarters in Mumbai) is India's apex monetary authority and central banking institution."
+  },
+  {
+    "classLevel": 7,
+    "subject": "GK",
+    "chapter": "Chapter 11: Global Economy, Trade, Financial Institutions & Global Markets",
+    "question": "Which central banking system of the United States wields immense global financial influence over interest rates and dollar liquidity?",
+    "options": [
+      "The Federal Reserve System (The Fed)",
+      "The Bank of America",
+      "The US Treasury Bank",
+      "The New York Central Bank"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "The Federal Reserve (headed by the Federal Reserve Board of Governors) sets US monetary policy and federal funds interest rates."
+  },
+  {
+    "classLevel": 7,
+    "subject": "GK",
+    "chapter": "Chapter 11: Global Economy, Trade, Financial Institutions & Global Markets",
+    "question": "What is the oldest stock exchange in ASIA, established in 1875 at Dalal Street, Mumbai?",
+    "options": [
+      "The Bombay Stock Exchange (BSE)",
+      "The Tokyo Stock Exchange",
+      "The Shanghai Stock Exchange",
+      "The Hong Kong Stock Exchange"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "The Bombay Stock Exchange (BSE, founded by Premchand Roychand in 1875) is Asia's first and oldest stock exchange."
+  },
+  {
+    "classLevel": 7,
+    "subject": "GK",
+    "chapter": "Chapter 11: Global Economy, Trade, Financial Institutions & Global Markets",
+    "question": "What is the benchmark benchmark 30-stock index of the Bombay Stock Exchange (BSE)?",
+    "options": [
+      "SENSEX (Sensitivity Index)",
+      "NIFTY 50",
+      "Dow Jones",
+      "NASDAQ"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "SENSEX tracks the weighted performance of 30 well-established and financially sound blue-chip companies on the BSE."
+  },
+  {
+    "classLevel": 7,
+    "subject": "GK",
+    "chapter": "Chapter 11: Global Economy, Trade, Financial Institutions & Global Markets",
+    "question": "What economic term describes a sustained, general increase in the prices of goods and services over time, reducing the purchasing power of money?",
+    "options": [
+      "Inflation",
+      "Deflation",
+      "Depreciation",
+      "Recession"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "Inflation measures the rate at which the general level of prices for goods and services rises, eroding the currency's purchasing power."
+  },
+  {
+    "classLevel": 7,
+    "subject": "GK",
+    "chapter": "Chapter 11: Global Economy, Trade, Financial Institutions & Global Markets",
+    "question": "In financial stock markets, what does a 'BULL MARKET' represent?",
+    "options": [
+      "A rising financial market where stock prices are increasing and investor optimism/confidence is high",
+      "A market where prices are collapsing",
+      "A market trading only livestock animals",
+      "A market closed on weekends"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "A Bull Market (derived from a bull thrusting its horns upward) signifies surging stock indices and robust investor optimism."
+  },
+  {
+    "classLevel": 7,
+    "subject": "GK",
+    "chapter": "Chapter 11: Global Economy, Trade, Financial Institutions & Global Markets",
+    "question": "In financial stock markets, what does a 'BEAR MARKET' represent?",
+    "options": [
+      "A declining market characterized by falling stock prices (typically 20%+ drop from recent highs) and widespread investor pessimism",
+      "A booming market with rising profits",
+      "A market that trades only gold",
+      "A market located in cold forests"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "A Bear Market (derived from a bear swiping its paws downward) describes a prolonged downturn with widespread asset declines."
+  },
+  {
+    "classLevel": 7,
+    "subject": "GK",
+    "chapter": "Chapter 11: Global Economy, Trade, Financial Institutions & Global Markets",
+    "question": "Which country's currency is the 'YEN' (¥)?",
+    "options": [
+      "Japan",
+      "China",
+      "South Korea",
+      "Thailand"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "The Japanese Yen is the official currency of Japan and one of the world's major foreign exchange reserve currencies."
+  },
+  {
+    "classLevel": 7,
+    "subject": "GK",
+    "chapter": "Chapter 11: Global Economy, Trade, Financial Institutions & Global Markets",
+    "question": "What is 'Foreign Direct Investment' (FDI)?",
+    "options": [
+      "An investment made by a company or individual in one country into business interests (factories, offices, joint ventures) located in another country",
+      "Buying foreign currency banknotes for holiday travel",
+      "Sending letters abroad",
+      "Paying taxes to a foreign government"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "FDI entails substantial long-term cross-border capital ownership, technology transfer, and direct operational management in foreign enterprises."
+  },
+  {
+    "classLevel": 7,
+    "subject": "GK",
+    "chapter": "Chapter 11: Global Economy, Trade, Financial Institutions & Global Markets",
+    "question": "What is the key difference between NOMINAL GDP and GDP measured at PURCHASING POWER PARITY (PPP)?",
+    "options": [
+      "Nominal GDP converts national output into US Dollars using current market exchange rates ; GDP (PPP) adjusts for local price level differences and cost of living in each country",
+      "Nominal GDP counts only food items",
+      "GDP (PPP) includes only paper money",
+      "There is no difference between them"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "PPP adjustment compares real purchasing power across borders: India is the 5th largest economy by Nominal GDP, but 3rd largest by GDP (PPP)."
+  },
+  {
+    "classLevel": 7,
+    "subject": "GK",
+    "chapter": "Chapter 11: Global Economy, Trade, Financial Institutions & Global Markets",
+    "question": "What is the 'REPO RATE' (Repurchase Option Rate) set by the Reserve Bank of India (RBI)?",
+    "options": [
+      "The benchmark interest rate at which the RBI lends short-term money to commercial banks against government securities to manage liquidity and control inflation",
+      "The tax charged on income",
+      "The price of gold coins",
+      "The salary paid to bank managers"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "Repo rate is the RBI's primary policy tool: raising repo rates tightens credit to quell inflation; lowering rates stimulates investment and growth."
+  },
+  {
+    "classLevel": 7,
+    "subject": "GK",
+    "chapter": "Chapter 11: Global Economy, Trade, Financial Institutions & Global Markets",
+    "question": "Which geopolitical and economic bloc originally comprised Brazil, Russia, India, China, and South Africa (expanded in 2024 to include Egypt, Ethiopia, Iran, UAE)?",
+    "options": [
+      "BRICS",
+      "G7",
+      "ASEAN",
+      "NATO"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "BRICS represents leading emerging market economies collaborating on multipolar trade, development financing (New Development Bank), and south-south cooperation."
+  },
+  {
+    "classLevel": 7,
+    "subject": "GK",
+    "chapter": "Chapter 11: Global Economy, Trade, Financial Institutions & Global Markets",
+    "question": "What is the 'G7' (Group of Seven)?",
+    "options": [
+      "An informal forum of seven of the world's advanced industrialized democratic economies: USA, UK, Germany, France, Japan, Italy, and Canada (plus the EU)",
+      "The seven largest countries by area",
+      "The seven continents of the world",
+      "The seven tallest buildings on Earth"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "The G7 meets annually to coordinate international economic governance, security policies, and global financial stability."
+  },
+  {
+    "classLevel": 7,
+    "subject": "GK",
+    "chapter": "Chapter 11: Global Economy, Trade, Financial Institutions & Global Markets",
+    "question": "What is 'SEBI' (Securities and Exchange Board of India)?",
+    "options": [
+      "The apex statutory regulatory body that protects the interests of investors in securities and regulates Indian stock and capital markets",
+      "A commercial bank where citizens deposit money",
+      "A government department that collects income tax",
+      "An insurance company"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "SEBI (established in 1992) regulates stock exchanges, mutual funds, listed corporations, and brokers to ensure market integrity."
+  },
+  {
+    "classLevel": 7,
+    "subject": "GK",
+    "chapter": "Chapter 11: Global Economy, Trade, Financial Institutions & Global Markets",
+    "question": "What is the European single common currency adopted by 20 member states of the European Union (the Eurozone)?",
+    "options": [
+      "The Euro (€)",
+      "The Pound Sterling",
+      "The Franc",
+      "The Deutsche Mark"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "The Euro (managed by the European Central Bank in Frankfurt) is the official currency of 20 EU nations and the world's 2nd major reserve currency."
+  },
+  {
+    "classLevel": 7,
+    "subject": "GK",
+    "chapter": "Chapter 11: Global Economy, Trade, Financial Institutions & Global Markets",
+    "question": "What does 'Fiscal Deficit' mean in government budgetary economics?",
+    "options": [
+      "The excess of a government's total expenditure over its total revenue receipts (excluding borrowings) in a financial year",
+      "The profit earned by government companies",
+      "The total gold stored in the central bank",
+      "The money given as foreign aid"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "Fiscal deficit indicates the net amount of money the government must borrow to meet its spending requirements."
+  },
+  {
+    "classLevel": 7,
+    "subject": "GK",
+    "chapter": "Chapter 11: Global Economy, Trade, Financial Institutions & Global Markets",
+    "question": "What is an 'Initial Public Offering' (IPO) in corporate finance?",
+    "options": [
+      "The first sale of shares by a private company to the general public to raise capital and list its stock on a public exchange",
+      "A loan given by the IMF",
+      "A government tax on exports",
+      "A merger between two banks"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "An IPO transitions a private unlisted company into a publicly traded corporation on stock exchanges (like BSE/NSE or NYSE)."
+  },
+  {
+    "classLevel": 7,
+    "subject": "GK",
+    "chapter": "Chapter 11: Global Economy, Trade, Financial Institutions & Global Markets",
+    "question": "Which Asian multilateral development bank headquartered in Manila, Philippines, was established in 1966 to foster economic growth and cooperation in the Asia-Pacific region?",
+    "options": [
+      "The Asian Development Bank (ADB)",
+      "The Asian Infrastructure Investment Bank (AIIB)",
+      "The New Development Bank",
+      "The Bank of Japan"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "The Asian Development Bank (ADB) provides loans, technical assistance, and equity investments to eradicate extreme poverty across Asia."
+  },
+  {
+    "classLevel": 7,
+    "subject": "GK",
+    "chapter": "Chapter 11: Global Economy, Trade, Financial Institutions & Global Markets",
+    "question": "What is the 'NASDAQ' stock exchange in the United States famous for?",
+    "options": [
+      "Being the world's premier electronic, screen-based stock market specializing in global technology giants (such as Apple, Microsoft, Google, NVIDIA, Amazon)",
+      "Trading only agricultural crops",
+      "Being the oldest paper exchange",
+      "Trading only government bonds"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "NASDAQ (National Association of Securities Dealers Automated Quotations) is the flagship global exchange for high-growth technological innovators."
+  },
+  {
+    "classLevel": 7,
+    "subject": "GK",
+    "chapter": "Chapter 11: Global Economy, Trade, Financial Institutions & Global Markets",
+    "question": "What is 'Global Supply Chain' in international trade?",
+    "options": [
+      "The integrated worldwide network of sourcing raw materials, manufacturing intermediate components across multiple nations, and distributing finished goods globally",
+      "A long iron chain used on container ships",
+      "A chain of grocery stores",
+      "A treaty between two ports"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "Global supply chains decompose manufacturing: e.g. a smartphone designed in California, chips made in Taiwan, assembled in India/China, and sold globally."
+  },
+  {
+    "classLevel": 7,
+    "subject": "GK",
+    "chapter": "Chapter 11: Global Economy, Trade, Financial Institutions & Global Markets",
+    "question": "What is 'Microfinance' pioneered by Nobel Peace laureate Muhammad Yunus (Grameen Bank)?",
+    "options": [
+      "Providing small, collateral-free financial loans and banking services to low-income individuals, micro-entrepreneurs, and women self-help groups (SHGs)",
+      "Funding large space rockets",
+      "Trading foreign stock options",
+      "Printing miniature bank notes"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "Microfinance empowers grassroots rural entrepreneurs through micro-credit, fostering financial inclusion and poverty eradication."
+  },
+  {
+    "classLevel": 7,
+    "subject": "GK",
+    "chapter": "Chapter 11: Global Economy, Trade, Financial Institutions & Global Markets",
+    "question": "What is 'Cryptocurrency' (like Bitcoin or Ethereum)?",
+    "options": [
+      "A digital or virtual currency secured by cryptography and decentralized blockchain networks rather than issued by a central sovereign bank",
+      "Gold coins buried in vaults",
+      "Paper vouchers issued by shopping malls",
+      "Tokens used in video arcades"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "Cryptocurrencies are cryptographically secured decentralized digital assets operating on distributed ledger technology."
+  },
+  {
+    "classLevel": 7,
+    "subject": "GK",
+    "chapter": "Chapter 11: Global Economy, Trade, Financial Institutions & Global Markets",
+    "question": "What is a 'Free Trade Agreement' (FTA) between countries?",
+    "options": [
+      "A treaty between two or more nations to substantially eliminate tariffs, import duties, and trade quotas, fostering seamless cross-border commerce",
+      "An agreement to give goods away for free",
+      "A ban on all imports",
+      "A plan to use a single language in business"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "FTAs dismantle tariff and non-tariff barriers, boosting mutual trade volumes and economic integration between partner nations."
+  },
+  {
+    "classLevel": 7,
+    "subject": "GK",
+    "chapter": "Chapter 11: Global Economy, Trade, Financial Institutions & Global Markets",
+    "question": "What is 'Sovereign Wealth Fund' (SWF)?",
+    "options": [
+      "A state-owned state investment fund comprising financial assets (stocks, bonds, real estate) financed by foreign exchange reserves or commodity revenues (like Norway's Oil Fund or Abu Dhabi ADIA)",
+      "A royal family's personal bank account",
+      "A fund for printing stamps",
+      "A charity for homeless people"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "SWFs invest national surplus revenues internationally to generate intergenerational wealth, fiscal stability, and strategic asset diversification."
+  },
+  {
+    "classLevel": 7,
+    "subject": "GK",
+    "chapter": "Chapter 11: Global Economy, Trade, Financial Institutions & Global Markets",
+    "question": "Read the statements:\nAssertion (A): The US Dollar functions as the world's dominant global 'Reserve Currency' and primary medium for international trade invoicing.\nReason (R): The US possesses the world's largest, most liquid capital markets, backed by the deep institutional credibility of the Federal Reserve and the petrodollar recycling system established in the 1970s.\nChoose the correct option:",
+    "options": [
+      "Both (A) and (R) are true, and (R) is the correct explanation of (A).",
+      "Both (A) and (R) are true, but (R) is NOT the correct explanation of (A).",
+      "(A) is true, but (R) is false.",
+      "(A) is false, but (R) is true."
+    ],
+    "correctAnswer": 0,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "The dollar's 'exorbitant privilege' as premier global reserve currency derives from US market liquidity, institutional trust, and global trade settlement dominance."
+  },
+  {
+    "classLevel": 7,
+    "subject": "GK",
+    "chapter": "Chapter 11: Global Economy, Trade, Financial Institutions & Global Markets",
+    "question": "Spot the IMPOSTER in the following major Global Economic Institutions and their respective headquarters:\nGroup:\n1. International Monetary Fund (IMF) - Washington, D.C., USA\n2. World Trade Organization (WTO) - Geneva, Switzerland\n3. European Central Bank (ECB) - Frankfurt, Germany\n4. Reserve Bank of India (RBI) - North Pole, Arctic Ocean",
+    "options": [
+      "Institution 1",
+      "Institution 2",
+      "Institution 3",
+      "Institution 4 (The Reserve Bank of India is headquartered in MUMBAI, Maharashtra, India, NOT the North Pole)"
+    ],
+    "correctAnswer": 3,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "Institution 4 is an absurd geographical impossibility: RBI's headquarters is on Shahid Bhagat Singh Road, Fort, Mumbai."
+  },
+  {
+    "classLevel": 7,
+    "subject": "GK",
+    "chapter": "Chapter 11: Global Economy, Trade, Financial Institutions & Global Markets",
+    "question": "Analyze the monetary transmission mechanism of 'Quantitative Easing' (QE) employed by major central banks during severe economic crises:\nHow does QE stimulate financial liquidity?",
+    "options": [
+      "The central bank purchases large quantities of government bonds and financial assets from commercial markets, expanding the central bank's balance sheet and injecting massive liquidity to lower long-term interest rates",
+      "The government prints paper money and drops it from helicopters on streets",
+      "The central bank closes all private banks",
+      "The government increases taxes by 100%"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "Quantitative Easing (unconventional monetary policy) injects electronic base money via large-scale asset purchases to compress bond yields and boost lending."
+  },
+  {
+    "classLevel": 7,
+    "subject": "GK",
+    "chapter": "Chapter 11: Global Economy, Trade, Financial Institutions & Global Markets",
+    "question": "Match Column I (Global Economic Indices / Concepts) with Column II (Economic Definitions):\n(a) Consumer Price Index (CPI) -> (i) Measures average change in retail prices paid by households for a basket of goods\n(b) Gini Coefficient          -> (ii) Statistical measure of income or wealth inequality within a nation (0 to 1)\n(c) Purchasing Power Parity    -> (iii) Exchange rate theory equalizing the price of an identical basket of goods across currencies\n(d) Special Drawing Rights (SDR) -> (iv) International reserve asset created by the IMF based on a basket of 5 currencies",
+    "options": [
+      "a-(i), b-(ii), c-(iii), d-(iv)",
+      "a-(ii), b-(i), c-(iv), d-(iii)",
+      "a-(iv), b-(iii), c-(ii), d-(i)",
+      "a-(iii), b-(iv), c-(i), d-(ii)"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "CPI = retail inflation; Gini = inequality index; PPP = price parity; SDR = IMF supplementary reserve currency basket."
+  },
+  {
+    "classLevel": 7,
+    "subject": "GK",
+    "chapter": "Chapter 11: Global Economy, Trade, Financial Institutions & Global Markets",
+    "question": "Read the statements regarding India's Foreign Trade and Forex Reserves:\nStatement 1: India is the world's leading exporter of Information Technology (IT/ITeS) software services and generic pharmaceuticals.\nStatement 2: India's Foreign Exchange Reserves (managed by the RBI) consistently rank among the top five largest in the world (~$650+ billion).\nStatement 3: India does not import any petroleum crude oil.\nWhich statements are TRUE?",
+    "options": [
+      "Statements 1 and 2 only",
+      "Statements 2 and 3 only",
+      "Statements 1 and 3 only",
+      "All Statements 1, 2, and 3"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "Statement 3 is false (India imports ~85% of its crude oil needs). Statements 1 (IT & pharma superpower) and 2 (robust forex reserves) are true."
+  },
+  {
+    "classLevel": 7,
+    "subject": "GK",
+    "chapter": "Chapter 11: Global Economy, Trade, Financial Institutions & Global Markets",
+    "question": "What was the 'Bretton Woods Conference' of July 1944 in New Hampshire, USA?",
+    "options": [
+      "A landmark gathering of 44 Allied nations that designed the post-WWII international monetary order, creating the IMF, the World Bank, and fixing gold-pegged exchange rates",
+      "A meeting to end World War I",
+      "A conference that founded the European Union",
+      "A summit to establish oil pipelines"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "Bretton Woods established the post-war multilateral architecture: institutionalizing the IMF, IBRD, and fixed-rate convertible dollar-gold standards."
+  },
+  {
+    "classLevel": 7,
+    "subject": "GK",
+    "chapter": "Chapter 11: Global Economy, Trade, Financial Institutions & Global Markets",
+    "question": "What is 'De-Dollarization' in contemporary global geopolitics?",
+    "options": [
+      "The strategic initiative by emerging economies (like BRICS) to reduce reliance on the US Dollar in bilateral trade settlement, using local national currencies (Rupee, Ruble, Yuan) and central bank digital currencies",
+      "Banning all paper money completely",
+      "A law forcing everyone to use gold coins only",
+      "The closure of all American banks"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "De-dollarization seeks to mitigate sanctions risks, currency volatility, and extraterritorial jurisdiction by promoting alternative bilateral currency settlement mechanisms."
+  },
+  {
+    "classLevel": 7,
+    "subject": "GK",
+    "chapter": "Chapter 11: Global Economy, Trade, Financial Institutions & Global Markets",
+    "question": "Consider four financial instruments:\n1. Sovereign Government Bonds (G-Secs)\n2. Blue-Chip Equity Shares\n3. Treasury Bills (T-Bills)\n4. Exchange-Traded Funds (ETFs)\nWhich of these are MONEY MARKET short-term debt instruments maturing in less than one year?",
+    "options": [
+      "Instrument 3 only (Treasury Bills)",
+      "Instruments 1 and 2 only",
+      "Instruments 2 and 4 only",
+      "All 1, 2, 3, and 4"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "Money market instruments are short-term (< 1 year), highly liquid debt securities: Treasury Bills (91-day, 182-day, 364-day) are classic money market tools."
+  },
+  {
+    "classLevel": 7,
+    "subject": "GK",
+    "chapter": "Chapter 11: Global Economy, Trade, Financial Institutions & Global Markets",
+    "question": "What is the 'Triffin Dilemma' in international economics?",
+    "options": [
+      "The fundamental conflict of interest between domestic monetary objectives and international obligations for a country whose national currency serves as the world's global reserve currency",
+      "The problem of counting paper money in banks",
+      "The conflict between farmers and factory owners",
+      "The difficulty of setting shipping container prices"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "Robert Triffin noted that the reserve currency issuer must run continuous balance of payments deficits to supply global liquidity, eventually undermining trust in its currency."
+  },
+  {
+    "classLevel": 7,
+    "subject": "GK",
+    "chapter": "Chapter 11: Global Economy, Trade, Financial Institutions & Global Markets",
+    "question": "Why is 'Venture Capital' (VC) critical to the modern startup and innovation ecosystem?",
+    "options": [
+      "It provides high-risk equity funding, mentorship, and strategic growth capital to early-stage technology startups with high growth potential before they achieve profitability",
+      "It lends money only to government departments",
+      "It insures houses against floods",
+      "It manages pension funds for retired persons only"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "Venture capital finances disruptive, high-risk innovation, creating global tech unicorns (fintech, AI, clean tech, biotech) that transform markets."
+  },
+  {
+    "classLevel": 7,
+    "subject": "GK",
+    "chapter": "Chapter 11: Global Economy, Trade, Financial Institutions & Global Markets",
+    "question": "What is 'Financial Inclusion' and why is it a cornerstone of modern national development strategy?",
+    "options": [
+      "Ensuring that all individuals and businesses—especially marginalized, rural, and low-income populations—have universal access to useful, affordable formal financial products (banking accounts, savings, credit, insurance, digital payments)",
+      "Making everyone pay the same income tax",
+      "Giving free stock shares to all citizens",
+      "Banning all private banks"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "Financial inclusion (driven by Pradhan Mantri Jan Dhan Yojana and UPI) empowers vulnerable populations, reduces poverty, and formalizes the economy."
+  },
+  {
+    "classLevel": 7,
+    "subject": "GK",
+    "chapter": "Chapter 11: Global Economy, Trade, Financial Institutions & Global Markets",
+    "question": "What overarching economic wisdom is synthesized in Chapter 11 of General Knowledge?",
+    "options": [
+      "A healthy, equitable global economy requires prudent monetary policy, open rules-based international trade, ethical financial regulation, and inclusive financial systems that convert capital into sustainable human development, scientific innovation, and shared prosperity",
+      "That only stock brokers understand economics",
+      "That trade between nations always causes conflict",
+      "That economic growth has no relation to human well-being"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "Chapter 11 synthesizes the dynamics of global finance: central banking, international development, multilateral trade, market mechanisms, and socio-economic equity."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Social Science",
+    "chapter": "Chapter 11: Inside Our Earth, Rocks, Minerals & Dynamic Landforms",
+    "question": "What is the outermost, thinnest solid layer of the Earth called?",
+    "options": [
+      "The Crust",
+      "The Mantle",
+      "The Outer Core",
+      "The Inner Core"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "The crust is the outermost solid lithospheric layer of the Earth, averaging 35 km on continental masses and only 5 km on ocean floors."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Social Science",
+    "chapter": "Chapter 11: Inside Our Earth, Rocks, Minerals & Dynamic Landforms",
+    "question": "What are the two main mineral constituents of the CONTINENTAL CRUST (often called 'SIAL')?",
+    "options": [
+      "Silica and Alumina (SIAL)",
+      "Silica and Magnesium (SIMA)",
+      "Nickel and Iron (NIFE)",
+      "Copper and Gold"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "The continental crust is composed predominantly of Silica and Alumina, hence abbreviated as SIAL."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Social Science",
+    "chapter": "Chapter 11: Inside Our Earth, Rocks, Minerals & Dynamic Landforms",
+    "question": "What are the main mineral constituents of the OCEANIC CRUST (called 'SIMA')?",
+    "options": [
+      "Silica and Magnesium (SIMA)",
+      "Silica and Alumina (SIAL)",
+      "Nickel and Ferrous",
+      "Calcium and Carbon"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "The basaltic oceanic crust mainly comprises Silica and Magnesium, hence named SIMA."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Social Science",
+    "chapter": "Chapter 11: Inside Our Earth, Rocks, Minerals & Dynamic Landforms",
+    "question": "What are the main mineral constituents of the innermost central layer of the Earth—the CORE (called 'NIFE')?",
+    "options": [
+      "Nickel and Ferrous / Iron (NIFE)",
+      "Silica and Magnesium",
+      "Silica and Alumina",
+      "Aluminum and Copper"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "The Earth's core (radius ~3,500 km) is composed of heavy dense metals: Nickel (Ni) and Ferrous/Iron (Fe), termed NIFE."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Social Science",
+    "chapter": "Chapter 11: Inside Our Earth, Rocks, Minerals & Dynamic Landforms",
+    "question": "Which layer of the Earth lies directly beneath the crust and extends to a depth of 2,900 km?",
+    "options": [
+      "The Mantle (Asthenosphere)",
+      "The Crust",
+      "The Inner Core",
+      "The Lithosphere"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "The mantle forms the intermediate layer of the Earth, extending to a depth of 2,900 km below the crust."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Social Science",
+    "chapter": "Chapter 11: Inside Our Earth, Rocks, Minerals & Dynamic Landforms",
+    "question": "Rocks that are formed directly by the cooling and solidification of molten magma or lava are called:",
+    "options": [
+      "Igneous Rocks (Primary Rocks)",
+      "Sedimentary Rocks",
+      "Metamorphic Rocks",
+      "Fossil Rocks"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "Igneous rocks (Latin 'Ignis' = fire) are the primary parent rocks formed directly from cooling magma or lava."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Social Science",
+    "chapter": "Chapter 11: Inside Our Earth, Rocks, Minerals & Dynamic Landforms",
+    "question": "Which type of igneous rock is formed when molten lava comes out onto the Earth's surface and cools down RAPIDLY, forming fine-grained rocks like the Basalt of the Deccan Plateau?",
+    "options": [
+      "Extrusive Igneous Rocks (e.g. Basalt)",
+      "Intrusive Igneous Rocks",
+      "Sedimentary Rocks",
+      "Metamorphic Rocks"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "Extrusive (volcanic) rocks cool rapidly on the surface, producing fine-grained crystalline structures like Basalt."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Social Science",
+    "chapter": "Chapter 11: Inside Our Earth, Rocks, Minerals & Dynamic Landforms",
+    "question": "Which type of igneous rock is formed when molten magma cools SLOWLY deep inside the Earth's crust, forming large crystals like Granite?",
+    "options": [
+      "Intrusive Igneous Rocks (e.g. Granite)",
+      "Extrusive Igneous Rocks",
+      "Sedimentary Rocks",
+      "Sandstone"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "Intrusive (plutonic) rocks cool slowly within the crust, forming coarse-grained crystalline textures like Granite."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Social Science",
+    "chapter": "Chapter 11: Inside Our Earth, Rocks, Minerals & Dynamic Landforms",
+    "question": "Rocks formed by the deposition, accumulation, and compression of mineral sediments and organic remains in layers (containing FOSSILS) are called:",
+    "options": [
+      "Sedimentary Rocks (e.g. Sandstone, Limestone, Shale)",
+      "Igneous Rocks",
+      "Metamorphic Rocks",
+      "Basalt"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "Sedimentary rocks (Latin 'sedimentum' = settle down) are layered strata formed by compacted sediments and frequently contain fossils."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Social Science",
+    "chapter": "Chapter 11: Inside Our Earth, Rocks, Minerals & Dynamic Landforms",
+    "question": "When igneous and sedimentary rocks undergo dramatic transformations under intense HEAT and extreme PRESSURE, what new class of rocks is formed?",
+    "options": [
+      "Metamorphic Rocks (e.g. Clay into Slate, Limestone into Marble)",
+      "Primary Rocks",
+      "Extrusive Rocks",
+      "Magma"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "Metamorphic rocks (Greek 'metamorphose' = change of form) result from recrystallization under extreme heat and pressure."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Social Science",
+    "chapter": "Chapter 11: Inside Our Earth, Rocks, Minerals & Dynamic Landforms",
+    "question": "The continuous geological transformation of one rock type into another under cyclical physical processes is known as the:",
+    "options": [
+      "The Rock Cycle",
+      "The Water Cycle",
+      "The Nitrogen Cycle",
+      "The Carbon Cycle"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "The rock cycle describes the cyclic transitions among igneous, sedimentary, and metamorphic rocks driven by geological forces."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Social Science",
+    "chapter": "Chapter 11: Inside Our Earth, Rocks, Minerals & Dynamic Landforms",
+    "question": "Which white metamorphic rock, transformed from sedimentary limestone under high temperature, was used to construct the world-famous TAJ MAHAL at Agra?",
+    "options": [
+      "White Marble (Makrana Marble)",
+      "Red Sandstone",
+      "Granite",
+      "Basalt"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "Makrana white marble (metamorphosed limestone from Rajasthan) was used to construct the iconic Taj Mahal."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Social Science",
+    "chapter": "Chapter 11: Inside Our Earth, Rocks, Minerals & Dynamic Landforms",
+    "question": "What is the fundamental difference between ENDOGENIC forces and EXOGENIC forces shaping the Earth's surface?",
+    "options": [
+      "Endogenic forces originate deep within the Earth's interior (causing earthquakes, volcanic eruptions, and mountain building) ; Exogenic forces operate on the Earth's exterior surface (weathering and erosion by rivers, wind, glaciers, sea waves)",
+      "Endogenic forces are in oceans and Exogenic forces are in air",
+      "Endogenic forces cause rain and Exogenic forces cause fire",
+      "There is no difference"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "Endogenic = internal tectonic/magmatic forces; Exogenic = external geomorphic weathering and erosional agents."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Social Science",
+    "chapter": "Chapter 11: Inside Our Earth, Rocks, Minerals & Dynamic Landforms",
+    "question": "What is the place in the Earth's crust where an earthquake vibration originates called, and what is the point on the surface directly above it called?",
+    "options": [
+      "The origin point inside the crust is the FOCUS (Hypocenter) ; The point on the surface directly above the focus is the EPICENTER",
+      "Surface is Focus and interior is Epicenter",
+      "Both are called Crater",
+      "Both are called Magma Chamber"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "The focus is the subterranean seismic rupture origin; the epicenter is the surface point directly perpendicular above the focus."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Social Science",
+    "chapter": "Chapter 11: Inside Our Earth, Rocks, Minerals & Dynamic Landforms",
+    "question": "Which scientific instrument is used to record and measure the vibrations and waves of an Earthquake?",
+    "options": [
+      "A Seismograph (and measured on the Richter Scale)",
+      "A Barometer",
+      "An Anemometer",
+      "A Hygrometer"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "Earthquake seismic tremors are recorded by seismographs, with magnitude quantified on the logarithmic Richter scale."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Social Science",
+    "chapter": "Chapter 11: Inside Our Earth, Rocks, Minerals & Dynamic Landforms",
+    "question": "What are the large S-shaped curves and loops formed by a meandering river across a flat valley plain called?",
+    "options": [
+      "Meanders",
+      "Waterfalls",
+      "Glacial moraines",
+      "Sand dunes"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "Meanders are sinuous serpentine curves formed along a mature river's course by continuous lateral erosion and deposition."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Social Science",
+    "chapter": "Chapter 11: Inside Our Earth, Rocks, Minerals & Dynamic Landforms",
+    "question": "What happens when a river meander loop becomes so acute that the river cuts through the narrow neck, leaving behind a crescent-shaped cutoff water body?",
+    "options": [
+      "An Oxbow Lake",
+      "A Waterfall",
+      "A Delta",
+      "A Canyon"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "An oxbow lake is a crescent-shaped cutoff lake formed when a river cuts straight through a meandering loop neck during floods."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Social Science",
+    "chapter": "Chapter 11: Inside Our Earth, Rocks, Minerals & Dynamic Landforms",
+    "question": "What is the triangular landform formed at the mouth of a river where it enters the sea and deposits its entire sediment load called?",
+    "options": [
+      "A River Delta (like the Sundarbans Delta)",
+      "An Estuary",
+      "A Floodplain",
+      "A Cliff"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "A delta is a triangular depositional landform formed at a river mouth by distributaries depositing silt into a standing sea/lake."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Social Science",
+    "chapter": "Chapter 11: Inside Our Earth, Rocks, Minerals & Dynamic Landforms",
+    "question": "What are the isolated rock pillars left standing in the ocean after the roofs of 'Sea Arches' collapse under relentless wave erosion called?",
+    "options": [
+      "Sea Stacks",
+      "Sea Caves",
+      "Sea Cliffs",
+      "Beaches"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "Coastal wave progression: sea cave → sea arch (roof pierced) → sea stack (roof collapses, leaving isolated vertical rock pillars)."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Social Science",
+    "chapter": "Chapter 11: Inside Our Earth, Rocks, Minerals & Dynamic Landforms",
+    "question": "What are the rock formations in hot deserts that have a narrow base and a wide top due to wind eroding the lower section faster than the upper part called?",
+    "options": [
+      "Mushroom Rocks (Rock Pedestals)",
+      "Sand Dunes",
+      "Loess",
+      "Moraines"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "Mushroom rocks develop in arid deserts because wind-borne sand abrasion is concentrated within 1 meter of the ground, undercutting rock bases."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Social Science",
+    "chapter": "Chapter 11: Inside Our Earth, Rocks, Minerals & Dynamic Landforms",
+    "question": "What are the crescent-shaped or ridge-like mounds of sand deposited by desert winds called?",
+    "options": [
+      "Sand Dunes (Barchans)",
+      "Loess",
+      "Moraines",
+      "Oxbows"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "Sand dunes are dynamic depositional mounds of sand accumulated by aeolian wind action in desert landscapes."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Social Science",
+    "chapter": "Chapter 11: Inside Our Earth, Rocks, Minerals & Dynamic Landforms",
+    "question": "What are the vast deposits of fine, yellowish, wind-blown silt found extensively in northern China called?",
+    "options": [
+      "Loess Deposits",
+      "Sand Dunes",
+      "Glacial Moraines",
+      "Floodplains"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "Loess is fine, mineral-rich, windblown silt deposited over extensive regional plains (notably in China's Loess Plateau)."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Social Science",
+    "chapter": "Chapter 11: Inside Our Earth, Rocks, Minerals & Dynamic Landforms",
+    "question": "What are the ridges of rocks, gravel, sand, and clay deposited by melting glaciers along their valley margins called?",
+    "options": [
+      "Glacial Moraines",
+      "Waterfalls",
+      "Meanders",
+      "Deltas"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "Glacial moraines are linear ridges of unsorted glacial till (boulders, gravel, sand, clay) dumped by retreating valley glaciers."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Social Science",
+    "chapter": "Chapter 11: Inside Our Earth, Rocks, Minerals & Dynamic Landforms",
+    "question": "Which of the following sedimentary rocks was extensively used to construct the historic RED FORT in Delhi?",
+    "options": [
+      "Red Sandstone",
+      "Granite",
+      "Basalt",
+      "Marble"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "The Mughal Red Fort in Delhi and Agra Fort were constructed using red quartzitic sandstone quarried in Rajasthan."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Social Science",
+    "chapter": "Chapter 11: Inside Our Earth, Rocks, Minerals & Dynamic Landforms",
+    "question": "What are 'Fossils' found embedded within sedimentary rock strata?",
+    "options": [
+      "The preserved mineralized remains, impressions, or traces of ancient dead plants, animals, and microorganisms trapped in layered rocks millions of years ago",
+      "Magma bubbles",
+      "Precious jewels made in labs",
+      "Pieces of broken pottery"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "Fossils are organic paleontological relics entombed within sedimentary depositional beds over geological epochs."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Social Science",
+    "chapter": "Chapter 11: Inside Our Earth, Rocks, Minerals & Dynamic Landforms",
+    "question": "What is the 'Asthenosphere' in geology?",
+    "options": [
+      "The semi-fluid, ductile upper region of the Earth's mantle directly below the lithosphere where extreme heat permits solid rock to flow slowly, driving plate tectonics",
+      "The layer of air around the Earth",
+      "The bottom of the ocean",
+      "The solid center of the core"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "The ductile asthenosphere undergoes slow convection currents, transporting the rigid lithospheric tectonic plates floating above it."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Social Science",
+    "chapter": "Chapter 11: Inside Our Earth, Rocks, Minerals & Dynamic Landforms",
+    "question": "Why is the inner core of the Earth solid despite scorching temperatures exceeding 5,000°C?",
+    "options": [
+      "The colossal, overwhelming overlying gravitational Pressure at the Earth's center compresses the iron-nickel atoms into a solid crystalline state",
+      "Because the core is made of ice",
+      "Because no heat reaches the center",
+      "Because the core rotates too fast"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "Extreme lithostatic pressure (~3.6 million atmospheres) raises the melting point of iron-nickel, keeping the inner core solid."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Social Science",
+    "chapter": "Chapter 11: Inside Our Earth, Rocks, Minerals & Dynamic Landforms",
+    "question": "What is the steep, nearly vertical rock face rising directly above sea water formed by continuous wave erosion called?",
+    "options": [
+      "A Sea Cliff",
+      "A Sea Arch",
+      "A Beach",
+      "A Sand Spit"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "A sea cliff is a dramatic vertical coastal rock precipice produced by hydraulic wave action undercutting the shoreface."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Social Science",
+    "chapter": "Chapter 11: Inside Our Earth, Rocks, Minerals & Dynamic Landforms",
+    "question": "Read the statements:\nAssertion (A): The Earth's crust is fragmented into multiple rigid Lithospheric Plates that move continuously by a few millimeters each year.\nReason (R): Slow thermal convection currents in the molten and ductile magma within the mantle drive the perpetual continental drift, seafloor spreading, and plate collisions.\nChoose the correct option:",
+    "options": [
+      "Both (A) and (R) are true, and (R) is the correct explanation of (A).",
+      "Both (A) and (R) are true, but (R) is NOT the correct explanation of (A).",
+      "(A) is true, but (R) is false.",
+      "(A) is false, but (R) is true."
+    ],
+    "correctAnswer": 0,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "Plate tectonics is driven by mantle thermal convection cells carrying tectonic lithospheric slabs across the asthenosphere."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Social Science",
+    "chapter": "Chapter 11: Inside Our Earth, Rocks, Minerals & Dynamic Landforms",
+    "question": "Spot the IMPOSTER in the following rock types and their metamorphic transformations:\nGroup:\n1. Limestone -> Marble\n2. Clay / Shale -> Slate\n3. Granite -> Gneiss\n4. Liquid Water -> Igneous Basalt",
+    "options": [
+      "Transformation 1",
+      "Transformation 2",
+      "Transformation 3",
+      "Transformation 4 (Basalt is formed by the cooling of molten LAVA/MAGMA, NOT by freezing liquid water)"
+    ],
+    "correctAnswer": 3,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "Transformation 4 is an absurd impossibility: basalt is an extrusive igneous rock crystallized from silicate lava melts."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Social Science",
+    "chapter": "Chapter 11: Inside Our Earth, Rocks, Minerals & Dynamic Landforms",
+    "question": "Analyze the three types of seismic earthquake waves generated during a tectonic fault slip:\n1. P-Waves (Primary / Longitudinal waves - fastest, travel through solid, liquid, and gas)\n2. S-Waves (Secondary / Transverse waves - travel ONLY through solids)\n3. L-Waves (Surface waves - slowest, cause maximum destructive ground displacement)\nHow did the behavior of S-Waves reveal the nature of the Earth's OUTER CORE?",
+    "options": [
+      "S-Waves completely disappear at the core-mantle boundary (2,900 km depth), proving conclusively that the Earth's OUTER CORE is in a MOLTEN LIQUID state",
+      "S-Waves prove that the whole Earth is hollow",
+      "S-Waves show that the core is made of diamond",
+      "S-Waves reflect back into space"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "The S-wave shadow zone beyond 105° proved that the outer core cannot support shear stress, establishing its liquid metallic nature."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Social Science",
+    "chapter": "Chapter 11: Inside Our Earth, Rocks, Minerals & Dynamic Landforms",
+    "question": "Match Column I (Geomorphic Landforms) with Column II (Primary Natural Agents of Erosion / Deposition):\n(a) Meanders and Oxbow Lakes -> (i) Running River Water (Fluvial agent)\n(b) Mushroom Rocks and Dunes   -> (ii) Desert Wind Action (Aeolian agent)\n(c) Moraines and U-Valleys    -> (iii) Moving Glacial Ice (Glacial agent)\n(d) Sea Stacks and Sea Arches -> (iv) Coastal Ocean Waves (Marine agent)",
+    "options": [
+      "a-(i), b-(ii), c-(iii), d-(iv)",
+      "a-(ii), b-(i), c-(iv), d-(iii)",
+      "a-(iv), b-(iii), c-(ii), d-(i)",
+      "a-(iii), b-(iv), c-(i), d-(ii)"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "Meanders = rivers; Mushroom rocks = wind; Moraines = glaciers; Stacks = sea waves."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Social Science",
+    "chapter": "Chapter 11: Inside Our Earth, Rocks, Minerals & Dynamic Landforms",
+    "question": "Read the statements regarding the Earth's geological layers:\nStatement 1: The crust forms only 1% of the volume of the Earth, the mantle forms 84%, and the core forms 15%.\nStatement 2: The radius of the Earth is approximately 6,371 km.\nStatement 3: The Earth's mantle is made of liquid gold and silver.\nWhich statements are TRUE?",
+    "options": [
+      "Statements 1 and 2 only",
+      "Statements 2 and 3 only",
+      "Statements 1 and 3 only",
+      "All Statements 1, 2, and 3"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "Statement 3 is an absurd falsehood (mantle is solid silicate rock). Statements 1 (volumetric ratios) and 2 (Earth radius = 6,371 km) are accurate."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Social Science",
+    "chapter": "Chapter 11: Inside Our Earth, Rocks, Minerals & Dynamic Landforms",
+    "question": "How did the massive volcanic lava plateaus (like the DECCAN TRAPS in western and central India) form around 66 million years ago?",
+    "options": [
+      "Enormous fissure eruptions poured millions of cubic kilometers of fluid basaltic magma over the landscape, creating thick horizontal flood-basalt lava sheets",
+      "A giant meteor made of basalt crashed into India",
+      "Basalt was washed down from the Himalayas by rivers",
+      "Humans mined and piled up the basalt rocks"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "The Deccan Traps formed via flood basalt volcanism during India's passage over the Reunion thermal mantle plume in the Late Cretaceous."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Social Science",
+    "chapter": "Chapter 11: Inside Our Earth, Rocks, Minerals & Dynamic Landforms",
+    "question": "What is the crucial role of the Earth's molten metallic liquid OUTER CORE in generating the GEOMAGNETIC FIELD (the Geodynamo)?",
+    "options": [
+      "Thermal convection currents of molten iron and nickel, combined with planetary Coriolis rotation, generate powerful electric currents that produce the Earth's protective magnetic shield against solar radiation",
+      "It acts as a giant refrigerator cooling the crust",
+      "It generates ocean tides",
+      "It creates oxygen for the atmosphere"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "The convective geodynamo in the liquid iron outer core generates Earth's magnetosphere, shielding life from lethal solar winds."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Social Science",
+    "chapter": "Chapter 11: Inside Our Earth, Rocks, Minerals & Dynamic Landforms",
+    "question": "Consider four geographical features:\n1. The Grand Canyon (USA)\n2. The Sundarbans Mangrove Delta (India/Bangladesh)\n3. The Victoria Falls (Zambia/Zimbabwe)\n4. Barchan sand dunes of Thar Desert (Rajasthan)\nWhich of these are purely FLUVIAL landforms formed by running river water?",
+    "options": [
+      "Features 1, 2, and 3 only",
+      "Feature 4 only",
+      "Features 2 and 4 only",
+      "All 1, 2, 3, and 4"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "Canyon (river erosion), Delta (river deposition), Waterfall (river knickpoint) are fluvial. Barchan dunes are aeolian wind landforms."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Social Science",
+    "chapter": "Chapter 11: Inside Our Earth, Rocks, Minerals & Dynamic Landforms",
+    "question": "What is the geological origin of 'Natural Levees' along the banks of mature lowland rivers?",
+    "options": [
+      "During seasonal overbank flooding, coarse sediments are deposited immediately along river margins where water velocity drops first, building elevated natural embankment ridges",
+      "Humans constructed them with concrete",
+      "Wind blew sand onto the river banks",
+      "Earthquakes pushed the banks upwards"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "Natural levees are coarse sediment embankments deposited parallel to river channels during flood overflows."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Social Science",
+    "chapter": "Chapter 11: Inside Our Earth, Rocks, Minerals & Dynamic Landforms",
+    "question": "Why do metamorphic rocks often exhibit distinct parallel mineral bands, foliation, or striped textures (such as in Gneiss or Schist)?",
+    "options": [
+      "Extreme directional tectonic pressure and shear stress force platy and elongated minerals to realign perpendicular to the compressive stress axis",
+      "Because different colored paints were applied to them",
+      "Because water carved lines into them",
+      "Because they were made by lightning"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "Metamorphic foliation is the structural alignment of mineral grains perpendicular to principal tectonic stress directions under high P-T conditions."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Social Science",
+    "chapter": "Chapter 11: Inside Our Earth, Rocks, Minerals & Dynamic Landforms",
+    "question": "What distinguishes a 'Mineral' from an ordinary rock?",
+    "options": [
+      "A mineral is a naturally occurring inorganic substance with a definite chemical composition and an ordered internal atomic crystalline structure, whereas a rock is an aggregate of one or more minerals",
+      "Minerals are artificial man-made materials",
+      "Rocks are always transparent",
+      "Minerals do not exist inside rocks"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "Minerals are homogeneous crystalline chemical compounds (e.g. Quartz, Feldspar, Calcite), whereas rocks are heterogeneous lithified aggregates."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Social Science",
+    "chapter": "Chapter 11: Inside Our Earth, Rocks, Minerals & Dynamic Landforms",
+    "question": "What master geographical insight is established in Chapter 11 of NCERT Class 7 Geography?",
+    "options": [
+      "The Earth is a dynamic, living planet in perpetual transformation—where internal convective forces constantly build and reshape lithospheric crust, while external erosional agents continuously sculpt majestic landforms that sustain human agriculture, civilizational settlements, and mineral wealth",
+      "That the Earth's surface never changes",
+      "That rocks have no economic or ecological value",
+      "That all continents will sink into the core tomorrow"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "Chapter 11 establishes dynamic planetary geomorphology: the perpetual equilibrium between endogenic tectonic construction and exogenic denudational sculpting."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Hindi Grammar",
+    "chapter": "Chapter 11: अव्यय / अविकारी शब्द",
+    "question": "जिन शब्दों के रूप में लिंग, वचन, कारक, काल आदि के प्रभाव से कभी कोई विकार (परिवर्तन) नहीं होता, उन्हें क्या कहते हैं?",
+    "options": [
+      "अव्यय या अविकारी शब्द (Indeclinable words)",
+      "विकारी शब्द",
+      "संज्ञा शब्द",
+      "सर्वनाम शब्द"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "अव्यय (अविकारी): जिनका रूप कभी नहीं बदलता (जैसे: और, किन्तु, धीरे-धीरे, प्रतिदिन, अरे, तक)।"
+  },
+  {
+    "classLevel": 7,
+    "subject": "Hindi Grammar",
+    "chapter": "Chapter 11: अव्यय / अविकारी शब्द",
+    "question": "हिंदी व्याकरण में अव्यय के मुख्य रूप से कितने भेद माने जाते हैं?",
+    "options": [
+      "5 भेद (1. क्रियाविशेषण, 2. संबंधबोधक, 3. समुच्चयबोधक, 4. विस्मयादिबोधक, 5. निपात)",
+      "2 भेद",
+      "3 भेद",
+      "8 भेद"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "अव्यय के 5 भेद हैं: क्रियाविशेषण, संबंधबोधक, समुच्चयबोधक, विस्मयादिबोधक और निपात।"
+  },
+  {
+    "classLevel": 7,
+    "subject": "Hindi Grammar",
+    "chapter": "Chapter 11: अव्यय / अविकारी शब्द",
+    "question": "क्रिया की विशेषता (समय, स्थान, परिमाण, रीति आदि) बताने वाले अव्यय शब्दों को क्या कहते हैं?",
+    "options": [
+      "क्रियाविशेषण (Adverb)",
+      "विशेषण",
+      "संबंधबोधक",
+      "समुच्चयबोधक"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "क्रियाविशेषण: जो अव्यय शब्द क्रिया के घटित होने की विशेषता (कब, कहाँ, कैसे, कितना) बताते हैं।"
+  },
+  {
+    "classLevel": 7,
+    "subject": "Hindi Grammar",
+    "chapter": "Chapter 11: अव्यय / अविकारी शब्द",
+    "question": "क्रियाविशेषण के मुख्य रूप से कितने भेद होते हैं?",
+    "options": [
+      "4 भेद (1. कालवाचक, 2. स्थानवाचक, 3. परिमाणवाचक, 4. रीतिवाचक)",
+      "2 भेद",
+      "6 भेद",
+      "3 भेद"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "क्रियाविशेषण के 4 भेद हैं: कालवाचक (कब), स्थानवाचक (कहाँ), परिमाणवाचक (कितना), रीतिवाचक (कैसे)।"
+  },
+  {
+    "classLevel": 7,
+    "subject": "Hindi Grammar",
+    "chapter": "Chapter 11: अव्यय / अविकारी शब्द",
+    "question": "'कछुआ धीरे-धीरे चलता है।' वाक्य में 'धीरे-धीरे' किस प्रकार का क्रियाविशेषण है?",
+    "options": [
+      "रीतिवाचक क्रियाविशेषण (Adverb of Manner - कैसे चलता है)",
+      "कालवाचक",
+      "स्थानवाचक",
+      "परिमाणवाचक"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "'धीरे-धीरे' क्रिया के संपन्न होने की रीति (ढंग) बता रहा है, अतः यह रीतिवाचक क्रियाविशेषण है।"
+  },
+  {
+    "classLevel": 7,
+    "subject": "Hindi Grammar",
+    "chapter": "Chapter 11: अव्यय / अविकारी शब्द",
+    "question": "'हम प्रतिदिन व्यायाम करते हैं।' वाक्य में 'प्रतिदिन' किस प्रकार का क्रियाविशेषण है?",
+    "options": [
+      "कालवाचक क्रियाविशेषण (Adverb of Time - कब करते हैं)",
+      "स्थानवाचक",
+      "रीतिवाचक",
+      "परिमाणवाचक"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "'प्रतिदिन' क्रिया के होने का समय (काल) बता रहा है, अतः यह कालवाचक क्रियाविशेषण है।"
+  },
+  {
+    "classLevel": 7,
+    "subject": "Hindi Grammar",
+    "chapter": "Chapter 11: अव्यय / अविकारी शब्द",
+    "question": "'बच्चे ऊपर खेल रहे हैं।' वाक्य में 'ऊपर' किस प्रकार का क्रियाविशेषण है?",
+    "options": [
+      "स्थानवाचक क्रियाविशेषण (Adverb of Place - कहाँ खेल रहे हैं)",
+      "कालवाचक",
+      "परिमाणवाचक",
+      "रीतिवाचक"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "'ऊपर' क्रिया के संपन्न होने का स्थान बता रहा है, अतः यह स्थानवाचक क्रियाविशेषण है।"
+  },
+  {
+    "classLevel": 7,
+    "subject": "Hindi Grammar",
+    "chapter": "Chapter 11: अव्यय / अविकारी शब्द",
+    "question": "'कम बोलो, अधिक काम करो।' वाक्य में 'कम' और 'अधिक' किस प्रकार के क्रियाविशेषण हैं?",
+    "options": [
+      "परिमाणवाचक क्रियाविशेषण (Adverb of Quantity - कितना)",
+      "कालवाचक",
+      "स्थानवाचक",
+      "रीतिवाचक"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "'कम' और 'अधिक' क्रिया की मात्रा/परिमाण का बोध कराते हैं, अतः परिमाणवाचक क्रियाविशेषण हैं।"
+  },
+  {
+    "classLevel": 7,
+    "subject": "Hindi Grammar",
+    "chapter": "Chapter 11: अव्यय / अविकारी शब्द",
+    "question": "जो अव्यय शब्द संज्ञा या सर्वनाम के बाद आकर उसका संबंध वाक्य के अन्य शब्दों से जोड़ते हैं (जैसे: 'के बिना', 'के साथ', 'के सामने'), वे क्या कहलाते हैं?",
+    "options": [
+      "संबंधबोधक अव्यय (Postposition)",
+      "समुच्चयबोधक",
+      "विस्मयादिबोधक",
+      "क्रियाविशेषण"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "संबंधबोधक: संज्ञा/सर्वनाम के पीछे प्रयुक्त होकर वाक्य के अन्य पदों से संबंध बताने वाले अव्यय।"
+  },
+  {
+    "classLevel": 7,
+    "subject": "Hindi Grammar",
+    "chapter": "Chapter 11: अव्यय / अविकारी शब्द",
+    "question": "दो शब्दों, वाक्यांशों या वाक्यों को आपस में जोड़ने वाले अव्यय शब्दों (जैसे: 'और', 'किन्तु', 'परन्तु', 'क्योंकि') को क्या कहते हैं?",
+    "options": [
+      "समुच्चयबोधक या योजक (Conjunction)",
+      "संबंधबोधक",
+      "विस्मयादिबोधक",
+      "निपात"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "समुच्चयबोधक (योजक): दो पदों, उपवाक्यों या वाक्यों को परस्पर जोड़ने वाले अव्यय शब्द।"
+  },
+  {
+    "classLevel": 7,
+    "subject": "Hindi Grammar",
+    "chapter": "Chapter 11: अव्यय / अविकारी शब्द",
+    "question": "हर्ष, शोक, भय, आश्चर्य, घृणा, चेतावनी आदि तीव्र मनोभावों को प्रकट करने वाले अव्यय (जैसे: 'अरे!', 'वाह!', 'शाबाश!', 'हाय!') क्या कहलाते हैं?",
+    "options": [
+      "विस्मयादिबोधक अव्यय (Interjection)",
+      "संबंधबोधक",
+      "क्रियाविशेषण",
+      "निपात"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "विस्मयादिबोधक: मनोभावों (आश्चर्य, दुःख, उल्लास) को व्यक्त करने वाले अव्यय, जिनके बाद '!' चिह्न लगता है।"
+  },
+  {
+    "classLevel": 7,
+    "subject": "Hindi Grammar",
+    "chapter": "Chapter 11: अव्यय / अविकारी शब्द",
+    "question": "जो अव्यय शब्द किसी शब्द के बाद लगकर उसके अर्थ में विशेष 'बल' (Emphasis) प्रदान करते हैं (जैसे: 'ही', 'भी', 'तो', 'मात्र', 'तक'), वे क्या कहलाते हैं?",
+    "options": [
+      "निपात (Particles)",
+      "क्रियाविशेषण",
+      "संबंधबोधक",
+      "विशेषण"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "निपात: किसी पद पर विशेष बल देने के लिए प्रयुक्त होने वाले अव्यय (जैसे: 'वह भी जाएगा', 'तुम ही आओगे')।"
+  },
+  {
+    "classLevel": 7,
+    "subject": "Hindi Grammar",
+    "chapter": "Chapter 11: अव्यय / अविकारी शब्द",
+    "question": "क्रियाविशेषण और विशेषण में क्या मूलभूत व्याकरणिक अंतर होता है?",
+    "options": [
+      "विशेषण 'संज्ञा या सर्वनाम' की विशेषता बताता है (जैसे: 'मीठा सेब') ; जबकि क्रियाविशेषण 'क्रिया' की विशेषता बताता है (जैसे: 'मधुर गाता है')",
+      "दोनों में कोई अंतर नहीं होता",
+      "विशेषण केवल वाक्यों के अंत में आता है",
+      "क्रियाविशेषण में विकार होता है"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "विशेषण संज्ञा/सर्वनाम की विशेषता प्रकट करता है; क्रियाविशेषण क्रिया की विशेषता (ढंग/समय/स्थान/मात्रा) बताता है।"
+  },
+  {
+    "classLevel": 7,
+    "subject": "Hindi Grammar",
+    "chapter": "Chapter 11: अव्यय / अविकारी शब्द",
+    "question": "समुच्चयबोधक (योजक) के मुख्य रूप से दो भेद कौन-से होते हैं?",
+    "options": [
+      "1. समानाधिकरण समुच्चयबोधक (और, तथा, या, किन्तु, परन्तु, इसलिए) ; 2. व्यधिकरण समुच्चयबोधक (क्योंकि, ताकि, यद्यपि-तथापि, जिससे कि)",
+      "सकर्मक और अकर्मक",
+      "गुणवाचक और संख्यावाचक",
+      "व्यक्तिवाचक और जातिवाचक"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "समुच्चयबोधक के 2 भेद हैं: समानाधिकरण (समान स्तर के उपवाक्यों को जोड़ने वाले) और व्यधिकरण (आश्रित उपवाक्य जोड़ने वाले)।"
+  },
+  {
+    "classLevel": 7,
+    "subject": "Hindi Grammar",
+    "chapter": "Chapter 11: अव्यय / अविकारी शब्द",
+    "question": "'विद्या के बिना जीवन व्यर्थ है।' इस वाक्य में 'के बिना' किस प्रकार का अव्यय है?",
+    "options": [
+      "संबंधबोधक अव्यय",
+      "क्रियाविशेषण",
+      "समुच्चयबोधक",
+      "विस्मयादिबोधक"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "'के बिना' संज्ञा 'विद्या' के बाद आकर वाक्य के अन्य शब्दों से संबंध जोड़ रहा है, अतः यह संबंधबोधक अव्यय है।"
+  },
+  {
+    "classLevel": 7,
+    "subject": "Hindi Grammar",
+    "chapter": "Chapter 11: अव्यय / अविकारी शब्द",
+    "question": "'वह विद्यालय नहीं गया क्योंकि वह बीमार था।' इस वाक्य में 'क्योंकि' किस प्रकार का समुच्चयबोधक है?",
+    "options": [
+      "कारणवाचक व्यधिकरण समुच्चयबोधक",
+      "संयोजक समानाधिकरण",
+      "विभाजक",
+      "परिणामदर्शक"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "'क्योंकि' मुख्य उपवाक्य के साथ कारण बताने वाले आश्रित उपवाक्य को जोड़ता है, अतः यह कारणवाचक व्यधिकरण समुच्चयबोधक है।"
+  },
+  {
+    "classLevel": 7,
+    "subject": "Hindi Grammar",
+    "chapter": "Chapter 11: अव्यय / अविकारी शब्द",
+    "question": "'शाबाश! तुमने परीक्षा में प्रथम स्थान प्राप्त किया।' वाक्य में 'शाबाश!' किस मनोभाव को प्रकट करने वाला विस्मयादिबोधक है?",
+    "options": [
+      "प्रशंसा / हर्षसूचक विस्मयादिबोधक",
+      "शोकसूचक",
+      "भयसूचक",
+      "घृणासूचक"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "'शाबाश!' प्रशंसा, उत्साह और अनुमोदन व्यक्त करने वाला विस्मयादिबोधक अव्यय है।"
+  },
+  {
+    "classLevel": 7,
+    "subject": "Hindi Grammar",
+    "chapter": "Chapter 11: अव्यय / अविकारी शब्द",
+    "question": "'राम ने ही यह काम किया है।' और 'राम ने यह काम भी किया है।' में 'ही' और 'भी' निपात का क्या प्रभाव है?",
+    "options": [
+      "'ही' केवल राम पर अनन्य बल देता है (किसी अन्य ने नहीं) ; जबकि 'भी' अतिरिक्तता/समावेश का बोध कराता है (अन्य के साथ राम ने भी)",
+      "दोनों वाक्यों का अर्थ बिल्कुल एकसमान है",
+      "निपात से वाक्य में कोई परिवर्तन नहीं होता",
+      "दोनों वाक्य अशुद्ध हैं"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "'ही' सीमा/अवधारण (केवल वही) तथा 'भी' समुच्चय/समावेश (वह भी) का विशिष्ट अर्थगत बल प्रदान करता है।"
+  },
+  {
+    "classLevel": 7,
+    "subject": "Hindi Grammar",
+    "chapter": "Chapter 11: अव्यय / अविकारी शब्द",
+    "question": "'भीतर' शब्द का प्रयोग निम्नलिखित दो वाक्यों में किस रूप में हुआ है?\nवाक्य 1: 'वह भीतर गया।'\nवाक्य 2: 'वह कमरे के भीतर गया।'\nक्रमशः सही भेद पहचानिए:",
+    "options": [
+      "वाक्य 1 में 'भीतर' = स्थानवाचक क्रियाविशेषण ; वाक्य 2 में 'के भीतर' = संबंधबोधक अव्यय",
+      "दोनों में क्रियाविशेषण है",
+      "दोनों में संबंधबोधक है",
+      "वाक्य 1 में संबंधबोधक और वाक्य 2 में क्रियाविशेषण है"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "अकेले क्रिया की विशेषता बताने पर क्रियाविशेषण ('भीतर गया'), संज्ञा के साथ परसर्गयुक्त संबंध जोड़ने पर संबंधबोधक ('कमरे के भीतर')।"
+  },
+  {
+    "classLevel": 7,
+    "subject": "Hindi Grammar",
+    "chapter": "Chapter 11: अव्यय / अविकारी शब्द",
+    "question": "'छी-छी! यहाँ कितनी गंदगी फैली है।' वाक्य में 'छी-छी!' किस प्रकार का विस्मयादिबोधक है?",
+    "options": [
+      "घृणा / तिरस्कारसूचक विस्मयादिबोधक",
+      "हर्षसूचक",
+      "स्वीकृतिसूचक",
+      "संबोधनसूचक"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "'छी-छी!' घृणा, अरुचि और तिरस्कार का मनोभाव प्रकट करता है।"
+  },
+  {
+    "classLevel": 7,
+    "subject": "Hindi Grammar",
+    "chapter": "Chapter 11: अव्यय / अविकारी शब्द",
+    "question": "'तुम चाय पियोगे अथवा कॉफ़ी?' वाक्य में 'अथवा' किस प्रकार का समुच्चयबोधक है?",
+    "options": [
+      "विभाजक / विकल्पसूचक समानाधिकरण समुच्चयबोधक",
+      "संयोजक",
+      "विरोधदर्शक",
+      "परिणामदर्शक"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "'अथवा / या' दो विकल्पों में से किसी एक के चयन का बोध कराने वाला विभाजक समुच्चयबोधक है।"
+  },
+  {
+    "classLevel": 7,
+    "subject": "Hindi Grammar",
+    "chapter": "Chapter 11: अव्यय / अविकारी शब्द",
+    "question": "'उसने बहुत परिश्रम किया किन्तु सफल न हो सका।' वाक्य में 'किन्तु' किस प्रकार का समुच्चयबोधक है?",
+    "options": [
+      "विरोधदर्शक समानाधिकरण समुच्चयबोधक",
+      "संयोजक",
+      "विभाजक",
+      "कारणवाचक"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "'किन्तु / परन्तु / लेकिन' पहले उपवाक्य के विपरीत परिणाम/विरोध को प्रकट करता है।"
+  },
+  {
+    "classLevel": 7,
+    "subject": "Hindi Grammar",
+    "chapter": "Chapter 11: अव्यय / अविकारी शब्द",
+    "question": "'परिश्रम करो ताकि परीक्षा में सफल हो सको।' वाक्य में 'ताकि' किस प्रकार का समुच्चयबोधक है?",
+    "options": [
+      "उद्देश्यवाचक व्यधिकरण समुच्चयबोधक",
+      "कारणवाचक",
+      "संकेतवाचक",
+      "स्वरूपवाचक"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "'ताकि / जिससे कि' कार्य के उद्देश्य (प्रयोजन) को स्पष्ट करने वाला उद्देश्यवाचक व्यधिकरण समुच्चयबोधक है।"
+  },
+  {
+    "classLevel": 7,
+    "subject": "Hindi Grammar",
+    "chapter": "Chapter 11: अव्यय / अविकारी शब्द",
+    "question": "'अरे! तुम कब आए?' वाक्य में 'अरे!' किस भाव को व्यक्त करता है?",
+    "options": [
+      "आश्चर्य / विस्मय का भाव",
+      "क्रोध का भाव",
+      "शोक का भाव",
+      "उल्लास का भाव"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "'अरे!' आकस्मिक विस्मय और आश्चर्य प्रकट करने वाला अव्यय है।"
+  },
+  {
+    "classLevel": 7,
+    "subject": "Hindi Grammar",
+    "chapter": "Chapter 11: अव्यय / अविकारी शब्द",
+    "question": "'घर के सामने एक विशाल बरगद का पेड़ है।' वाक्य में 'के सामने' क्या है?",
+    "options": [
+      "संबंधबोधक अव्यय",
+      "क्रियाविशेषण",
+      "समुच्चयबोधक",
+      "संज्ञा"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "'के सामने' संज्ञा 'घर' और 'बरगद के पेड़' के बीच स्थानिक संबंध स्थापित करने वाला संबंधबोधक अव्यय है।"
+  },
+  {
+    "classLevel": 7,
+    "subject": "Hindi Grammar",
+    "chapter": "Chapter 11: अव्यय / अविकारी शब्द",
+    "question": "'वह दिनभर पढ़ता रहा।' वाक्य में 'दिनभर' में 'भर' क्या है?",
+    "options": [
+      "निपात (अवधि पर बल देने वाला)",
+      "उपसर्ग",
+      "प्रत्यय मात्र",
+      "कारक चिह्न"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "'भर' (जैसे: रातभर, दिनभर) व्याप्ति और सीमा पर बल देने वाला निपात है।"
+  },
+  {
+    "classLevel": 7,
+    "subject": "Hindi Grammar",
+    "chapter": "Chapter 11: अव्यय / अविकारी शब्द",
+    "question": "'अचानक बादल घिर आए और मूसलाधार वर्षा होने लगी।' वाक्य में 'अचानक' किस प्रकार का क्रियाविशेषण है?",
+    "options": [
+      "रीतिवाचक क्रियाविशेषण (आकस्मिकता का ढंग)",
+      "स्थानवाचक",
+      "परिमाणवाचक",
+      "कालवाचक"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "'अचानक / एकाएक / सहसा' क्रिया के घटित होने की आकस्मिक रीति (ढंग) प्रकट करते हैं।"
+  },
+  {
+    "classLevel": 7,
+    "subject": "Hindi Grammar",
+    "chapter": "Chapter 11: अव्यय / अविकारी शब्द",
+    "question": "निम्नलिखित में से कौन-सा शब्द 'अव्यय' (अविकारी) नहीं है?",
+    "options": [
+      "सुंदर (विशेषण - विकारी शब्द है ; जैसे: सुंदर, सुंदरी, सुंदरों)",
+      "और",
+      "धीरे-धीरे",
+      "किन्तु"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "'सुंदर' विशेषण (विकारी) है, जबकि 'और', 'धीरे-धीरे', 'किन्तु' अपरिवर्तनशील अव्यय हैं।"
+  },
+  {
+    "classLevel": 7,
+    "subject": "Hindi Grammar",
+    "chapter": "Chapter 11: अव्यय / अविकारी शब्द",
+    "question": "कथन और कारण को ध्यानपूर्वक पढ़ें:\nकथन (A): 'लड़का तेज दौड़ता है।' और 'लड़की तेज दौड़ती है।' दोनों वाक्यों में 'तेज' शब्द का रूप अपरिवर्तित रहता है।\nकारण (R): 'तेज' एक रीतिवाचक क्रियाविशेषण (अव्यय) है, जिस पर कर्ता के लिंग (पुल्लिंग/स्त्रीलिंग) या वचन का कोई प्रभाव नहीं पड़ता।\nसही विकल्प चुनें:",
+    "options": [
+      "(A) और (R) दोनों सही हैं तथा (R), (A) की सही व्याख्या करता है।",
+      "(A) और (R) दोनों सही हैं, परन्तु (R), (A) की सही व्याख्या नहीं करता।",
+      "(A) सही है, परन्तु (R) गलत है।",
+      "(A) गलत है, परन्तु (R) सही है।"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "अव्यय शब्द लिंग, वचन, कारक से सर्वथा अप्रभावित और अपरिवर्तनीय (नित्य एकरूप) रहते हैं।"
+  },
+  {
+    "classLevel": 7,
+    "subject": "Hindi Grammar",
+    "chapter": "Chapter 11: अव्यय / अविकारी शब्द",
+    "question": "Spot the IMPOSTER in the following classification of अव्यय भेदों में:\nGroup:\n1. प्रतिदिन, अचानक - क्रियाविशेषण\n2. के बिना, के पीछे - संबंधबोधक\n3. और, किन्तु, क्योंकि - समुच्चयबोधक\n4. पुस्तक, हिमालय - विस्मयादिबोधक",
+    "options": [
+      "वर्ग 1",
+      "वर्ग 2",
+      "वर्ग 3",
+      "वर्ग 4 ('पुस्तक' और 'हिमालय' संज्ञा शब्द [विकारी] हैं, विस्मयादिबोधक अव्यय नहीं)"
+    ],
+    "correctAnswer": 3,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "वर्ग 4 में 'पुस्तक' और 'हिमालय' संज्ञाएँ हैं, जबकि विस्मयादिबोधक 'अरे!', 'वाह!' आदि होते हैं।"
+  },
+  {
+    "classLevel": 7,
+    "subject": "Hindi Grammar",
+    "chapter": "Chapter 11: अव्यय / अविकारी शब्द",
+    "question": "सुमेलित कीजिए (क्रियाविशेषण के 4 भेद और उनके प्रश्नवाचक पहचान शब्द):\n(क) कालवाचक क्रियाविशेषण   -> (i) 'कब' (When)\n(ख) स्थानवाचक क्रियाविशेषण -> (ii) 'कहाँ' (Where)\n(ग) परिमाणवाचक क्रियाविशेषण-> (iii) 'कितना' (How much)\n(घ) रीतिवाचक क्रियाविशेषण   -> (iv) 'कैसे / किस प्रकार' (How)",
+    "options": [
+      "क-(i), ख-(ii), ग-(iii), घ-(iv)",
+      "क-(ii), ख-(i), ग-(iv), घ-(iii)",
+      "क-(iv), ख-(iii), ग-(ii), घ-(i)",
+      "क-(iii), ख-(iv), ग-(i), घ-(ii)"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "काल = कब; स्थान = कहाँ; परिमाण = कितना; रीति = कैसे।"
+  },
+  {
+    "classLevel": 7,
+    "subject": "Hindi Grammar",
+    "chapter": "Chapter 11: अव्यय / अविकारी शब्द",
+    "question": "समानाधिकरण समुच्चयबोधक के 4 उप-भेदों का सही मिलान कौन-सा है?",
+    "options": [
+      "1. संयोजक (और, तथा) ; 2. विभाजक (या, अथवा) ; 3. विरोधदर्शक (किन्तु, परन्तु, मगर) ; 4. परिणामदर्शक (इसलिए, अतः, फलस्वरूप)",
+      "संयोजक केवल स्त्रीलिंग होता है",
+      "विभाजक में हमेशा नकारात्मक क्रिया होती है",
+      "परिणामदर्शक केवल भविष्यत में आता है"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "समानाधिकरण के 4 रूप: संयोजक (जोड़ने वाला), विभाजक (विकल्प), विरोधदर्शक (अंतर), परिणामदर्शक (फलस्वरूप)।"
+  },
+  {
+    "classLevel": 7,
+    "subject": "Hindi Grammar",
+    "chapter": "Chapter 11: अव्यय / अविकारी शब्द",
+    "question": "निम्नलिखित वाक्यों में से किस वाक्य में 'निपात' का गलत स्थान पर प्रयोग होने से वाक्य का अभीष्ट अर्थ बदल गया है?",
+    "options": [
+      "'केवल उसने मुझे एक पुस्तक दी।' (अर्थ: सिर्फ उसी व्यक्ति ने दी, किसी और ने नहीं ; यदि 'उसने मुझे केवल एक पुस्तक दी' लिखा जाए तो अर्थ: सिर्फ एक ही पुस्तक दी)",
+      "'वह कल आएगा।'",
+      "'हम सब भारतवासी हैं।'",
+      "'सत्य की सदैव विजय होती है।'"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "निपात का स्थान बदलने से वाक्य में बल और अर्थ का केंद्र पूरी तरह बदल जाता है।"
+  },
+  {
+    "classLevel": 7,
+    "subject": "Hindi Grammar",
+    "chapter": "Chapter 11: अव्यय / अविकारी शब्द",
+    "question": "'यद्यपि वह निर्धन है तथापि अत्यंत ईमानदार है।' वाक्य में 'यद्यपि...तथापि' किस प्रकार का समुच्चयबोधक युग्म है?",
+    "options": [
+      "संकेतवाचक / विरोधसूचक व्यधिकरण समुच्चयबोधक",
+      "संयोजक समानाधिकरण",
+      "विभाजक",
+      "उद्देश्यवाचक"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "'यद्यपि...तथापि' / 'यदि...तो' संकेतवाचक व्यधिकरण समुच्चयबोधक युग्म (Correlative conjunctions) हैं।"
+  },
+  {
+    "classLevel": 7,
+    "subject": "Hindi Grammar",
+    "chapter": "Chapter 11: अव्यय / अविकारी शब्द",
+    "question": "क्रियाविशेषण की रचना के आधार पर 'मूल क्रियाविशेषण' और 'यौगिक क्रियाविशेषण' में क्या अंतर होता है?",
+    "options": [
+      "मूल क्रियाविशेषण बिना किसी प्रत्यय या रूपांतरण के स्वतंत्र रूप में आते हैं (जैसे: ठीक, अचानक, दूर, पास) ; जबकि यौगिक क्रियाविशेषण प्रत्यय, समास या द्विरुक्ति से बनते हैं (जैसे: प्रेमपूर्वक, हाथों-हाथ, धीरे-धीरे, प्रतिदिन)",
+      "दोनों में कोई अंतर नहीं होता",
+      "मूल क्रियाविशेषण केवल एक अक्षर का होता है",
+      "यौगिक क्रियाविशेषण केवल संस्कृत में होते हैं"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "मूल क्रियाविशेषण रूढ़ होते हैं; यौगिक क्रियाविशेषण प्रत्यय योग, समास अथवा शब्द-युग्मों की द्विरुक्ति से निर्मित होते हैं।"
+  },
+  {
+    "classLevel": 7,
+    "subject": "Hindi Grammar",
+    "chapter": "Chapter 11: अव्यय / अविकारी शब्द",
+    "question": "'सावधान! आगे गहरा गड्ढा है।' वाक्य में 'सावधान!' किस प्रकार का विस्मयादिबोधक है?",
+    "options": [
+      "चेतावनीसूचक विस्मयादिबोधक",
+      "हर्षसूचक",
+      "शोकसूचक",
+      "संबोधनसूचक"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "'सावधान! / होशियार! / बचो!' आने वाले खतरे के प्रति सतर्क करने वाले चेतावनीसूचक विस्मयादिबोधक अव्यय हैं।"
+  },
+  {
+    "classLevel": 7,
+    "subject": "Hindi Grammar",
+    "chapter": "Chapter 11: अव्यय / अविकारी शब्द",
+    "question": "निम्नलिखित में से किस वाक्य में 'स्थानवाचक क्रियाविशेषण' का शुद्ध प्रयोग हुआ है?",
+    "options": [
+      "'पक्षी आकाश में चारों ओर उड़ रहे हैं।' ('चारों ओर' क्रिया के घटित होने की दिशा/स्थान बता रहा है)",
+      "'वह कल आएगा।'",
+      "'उसने बहुत खाया।'",
+      "'वह धीरे-धीरे बोला।'"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "'चारों ओर / इधर-उधर / सर्वत्र' स्थान व दिशा का बोध कराने वाले स्थानवाचक क्रियाविशेषण हैं।"
+  },
+  {
+    "classLevel": 7,
+    "subject": "Hindi Grammar",
+    "chapter": "Chapter 11: अव्यय / अविकारी शब्द",
+    "question": "'हाय! बेचारा दुर्घटना में घायल हो गया।' वाक्य में 'हाय!' किस मनोभाव को व्यक्त करता है?",
+    "options": [
+      "शोक / पीड़ा / सहानुभूति का भाव",
+      "प्रसन्नता का भाव",
+      "क्रोध का भाव",
+      "उल्लास का भाव"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "'हाय! / उफ़! / आह!' दुःख, वेदना और शोक की तीव्र भावात्मक अभिव्यक्ति करते हैं।"
+  },
+  {
+    "classLevel": 7,
+    "subject": "Hindi Grammar",
+    "chapter": "Chapter 11: अव्यय / अविकारी शब्द",
+    "question": "प्रमुख 9 निपातों (ही, भी, तो, तक, मात्र, भर, केवल, सा, जी) का वाक्य में क्या सर्वोच्च प्रयोजन होता है?",
+    "options": [
+      "ये किसी पद के साथ प्रयुक्त होकर उसके अर्थ को सीमित, निश्चित, विस्तारित या विशिष्ट भावात्मक बल (Emphatic force) प्रदान करते हैं",
+      "ये केवल वाक्य को लंबा बनाते हैं",
+      "ये संज्ञा का लिंग बदल देते हैं",
+      "ये क्रिया को भूतकाल में बदल देते हैं"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "निपात वाक्य में विशेष अर्थगत अवधारण, आग्रह, सीमा अथवा बल की सूक्ष्म अभिव्यक्ति हेतु प्रयुक्त होते हैं।"
+  },
+  {
+    "classLevel": 7,
+    "subject": "Hindi Grammar",
+    "chapter": "Chapter 11: अव्यय / अविकारी शब्द",
+    "question": "अव्यय (अविकारी शब्दों) का हिंदी भाषा संरचना में क्या केंद्रीय महत्व है?",
+    "options": [
+      "अव्यय भाषा को सुगठित, प्रवाहपूर्ण और तार्किक बनाते हैं; ये उपवाक्यों को जोड़ते हैं, क्रिया की सटीक परिस्थितियाँ स्पष्ट करते हैं, और भाषा में सूक्ष्म मनोभावों तथा अर्थ-बल का संचार करते हैं",
+      "अव्यय केवल कविताओं में प्रयुक्त होते हैं",
+      "इनके बिना भी भाषा का रूप अपरिवर्तित रहता है",
+      "अव्यय का भाषा में कोई महत्व नहीं है"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "अव्यय भाषा की तार्किक सुसंबद्धता (Cohesion), मनोभाव प्रकटन और संश्लिष्ट वाक्य-संयोजन के अनिवार्य माध्यम हैं।"
+  }
+]

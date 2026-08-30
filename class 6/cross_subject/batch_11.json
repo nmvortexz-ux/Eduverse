@@ -1,0 +1,3842 @@
+[
+  {
+    "classLevel": 6,
+    "subject": "Science",
+    "chapter": "Chapter 11: Air Around Us",
+    "question": "What is the thick protective blanket/envelope of air surrounding the entire Earth called?",
+    "options": [
+      "Atmosphere",
+      "Hydrosphere",
+      "Lithosphere",
+      "Biosphere"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "The atmosphere is the multi-layered gaseous envelope retained by Earth's gravity extending hundreds of kilometres."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Science",
+    "chapter": "Chapter 11: Air Around Us",
+    "question": "Air in motion (moving air) is commonly called:",
+    "options": [
+      "Wind",
+      "Storm",
+      "Cyclone",
+      "Vacuum"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "Moving air created by atmospheric pressure gradients is termed wind (or breeze)."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Science",
+    "chapter": "Chapter 11: Air Around Us",
+    "question": "Which gas is the MOST ABUNDANT in atmospheric air, making up approximately 78% (nearly 4/5ths) of air volume?",
+    "options": [
+      "Nitrogen (N₂)",
+      "Oxygen (O₂)",
+      "Carbon dioxide (CO₂)",
+      "Argon"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "Nitrogen comprises ~78% of the dry atmosphere, acting as an unreactive diluent that tempers rapid combustion."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Science",
+    "chapter": "Chapter 11: Air Around Us",
+    "question": "Which essential gas constitutes approximately 21% (nearly 1/5th) of air volume and supports animal respiration and fire combustion?",
+    "options": [
+      "Oxygen (O₂)",
+      "Nitrogen",
+      "Carbon dioxide",
+      "Hydrogen"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "Oxygen makes up ~21% of clean air, essential for cellular aerobic respiration and chemical combustion."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Science",
+    "chapter": "Chapter 11: Air Around Us",
+    "question": "What happens when a burning candle is covered with an inverted glass tumbler?",
+    "options": [
+      "The candle flickers and goes out after a few moments because the limited oxygen inside the glass gets consumed completely",
+      "The candle burns twice as brightly",
+      "The glass tumbler melts instantly",
+      "The candle turns into ice"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "Combustion requires continuous oxygen; once the enclosed oxygen is depleted, the flame extinguishes."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Science",
+    "chapter": "Chapter 11: Air Around Us",
+    "question": "Which component of air is responsible for the formation of clouds, mist, dew, and rain in nature?",
+    "options": [
+      "Water Vapour (Moisture)",
+      "Nitrogen",
+      "Smoke",
+      "Dust particles"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "Atmospheric water vapour evaporates from oceans/rivers and condenses at high altitudes to form cloud droplets and rain."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Science",
+    "chapter": "Chapter 11: Air Around Us",
+    "question": "What gas is produced during burning of fuels and animal respiration, and used by green plants for photosynthesis?",
+    "options": [
+      "Carbon Dioxide (CO₂)",
+      "Oxygen",
+      "Nitrogen",
+      "Ozone"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "Carbon dioxide (~0.04% of air) is released by respiration/combustion and absorbed by plants during photosynthesis."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Science",
+    "chapter": "Chapter 11: Air Around Us",
+    "question": "Why do mountaineers climbing very high Himalayan peaks carry heavy Oxygen Cylinders on their backs?",
+    "options": [
+      "Because atmospheric air becomes progressively thinner and the density/availability of oxygen drops drastically at high altitudes",
+      "To protect from bears",
+      "To cook food on snow",
+      "To make the backpack heavier for balance"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "Atmospheric pressure and oxygen partial pressure decline with altitude, causing hypoxia without supplementary O₂."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Science",
+    "chapter": "Chapter 11: Air Around Us",
+    "question": "How do fish and other aquatic animals breathe underwater?",
+    "options": [
+      "They absorb Dissolved Oxygen from water through their specialized feather-like Gills",
+      "They hold their breath forever",
+      "They breathe water vapour from clouds",
+      "They eat oxygen rocks"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "Fish pass oxygenated water over vascularized gill filaments, extracting dissolved O₂ via counter-current exchange."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Science",
+    "chapter": "Chapter 11: Air Around Us",
+    "question": "Why do Earthworms and burrowing soil animals come out of their underground burrows to the surface only during HEAVY RAINFALL?",
+    "options": [
+      "Heavy rainwater fills up all air spaces and pores in the soil, forcing earthworms to the surface to breathe oxygen",
+      "Because they like to swim in puddles",
+      "To wash their bodies",
+      "Because soil becomes too hot"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "Waterlogged soils displace pore air; earthworms must surface to respire cutaneously across moist skin."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Science",
+    "chapter": "Chapter 11: Air Around Us",
+    "question": "What is a simple rotating paper toy on a stick that spins furiously when you run with it or blow on it?",
+    "options": [
+      "Firki (Pinwheel)",
+      "Kite",
+      "Compass",
+      "Sundial"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "A firki rotates due to kinetic wind pressure against its angled vanes, demonstrating that air exerts mechanical force."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Science",
+    "chapter": "Chapter 11: Air Around Us",
+    "question": "What large mechanical structure with rotating blades harnesses wind energy to pump water, grind grain, or generate clean electricity?",
+    "options": [
+      "Windmill (Wind Turbine)",
+      "Waterwheel",
+      "Steam Engine",
+      "Solar Panel"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "Windmills convert atmospheric wind kinetic energy into rotational mechanical and electrical power."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Science",
+    "chapter": "Chapter 11: Air Around Us",
+    "question": "How can you prove experimentally that an apparently 'empty' open glass bottle is actually FULL of air?",
+    "options": [
+      "Invert the bottle vertically into a bucket of water; water cannot enter until you tilt the bottle slightly, allowing air bubbles to escape with a gurgling sound",
+      "By looking through the glass with sunglasses",
+      "By smelling the bottle",
+      "By dropping the bottle on the floor"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "Trapped air exerts internal pressure blocking water entry until tilting lets air bubble out, proving air occupies volume."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Science",
+    "chapter": "Chapter 11: Air Around Us",
+    "question": "Why does a lump of dry soil produce fizzing bubbles when dropped into a glass beaker of water?",
+    "options": [
+      "Water enters the microscopic pores of the dry soil, displacing the air trapped inside soil particles which escapes upward as visible bubbles",
+      "Because soil is boiling hot",
+      "Because soil reacts with water chemically to make poison",
+      "Because soil has soap in it"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "Capillary suction of water displaces interstitial soil air, generating effervescent bubbles."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Science",
+    "chapter": "Chapter 11: Air Around Us",
+    "question": "Why do tiny water droplets appear on the outer glass surface of a tumbler containing ice-cold water?",
+    "options": [
+      "Water vapour present in the surrounding air comes in contact with the cold glass surface and CONDENSES into liquid water droplets",
+      "Water leaks through the solid glass wall",
+      "Ice melts through the top",
+      "The glass tumbler sweats like skin"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "Ambient water vapour cools below its dew point against cold glass, condensing into liquid droplets."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Science",
+    "chapter": "Chapter 11: Air Around Us",
+    "question": "How is the delicate balance of Oxygen and Carbon Dioxide maintained in Earth's atmosphere?",
+    "options": [
+      "Plants produce excess Oxygen during daytime Photosynthesis and consume Carbon Dioxide, while animals and humans inhale Oxygen and exhale Carbon Dioxide (Oxygen-Carbon Dioxide Cycle)",
+      "Volcanoes pump oxygen into the sky",
+      "Windmills manufacture oxygen",
+      "Oxygen comes from the moon"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "Photosynthetic O₂ release by plants balances respiration and combustion CO₂ emissions across the biosphere."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Science",
+    "chapter": "Chapter 11: Air Around Us",
+    "question": "Why are tall chimneys installed in factories and industrial plants?",
+    "options": [
+      "To release harmful smoke, dust, and toxic fumes high up into the upper atmosphere, away from ground-level human habitats",
+      "To catch birds",
+      "To make rain fall faster",
+      "To make the factory look taller"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "High stack chimneys disperse industrial effluents into higher atmospheric winds, reducing ground-level pollution."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Science",
+    "chapter": "Chapter 11: Air Around Us",
+    "question": "Why do we see tiny dancing, glittering dust particles in a dark room when a narrow beam of sunlight enters through a small slit?",
+    "options": [
+      "The sunbeam illuminates microscopic solid Dust particles suspended in air, which scatter light (Tyndall Effect / Brownian motion)",
+      "They are tiny flying insects",
+      "The sun rays are breaking into pieces",
+      "They are magic sparks"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "Tyndall scattering by aerosolized particulate matter illuminates suspended dust in colloidal air."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Science",
+    "chapter": "Chapter 11: Air Around Us",
+    "question": "Why is it strictly recommended to breathe through the NOSE rather than through the MOUTH?",
+    "options": [
+      "Fine hairs (cilia) and sticky mucus lining inside nasal passages filter out dust particles, pollen, and microbes, preventing them from entering the lungs",
+      "Because mouth breathing makes you thirsty",
+      "Because mouth has no teeth for air",
+      "Because nose makes air colder"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "Nasal turbinates and mucociliary clearance humidify, warm, and filter airborne aerosols before reaching alveolar lungs."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Science",
+    "chapter": "Chapter 11: Air Around Us",
+    "question": "What instrument is installed on top of tall buildings to indicate the DIRECTION from which the wind is blowing?",
+    "options": [
+      "Wind Vane (Weather Vane)",
+      "Anemometer",
+      "Barometer",
+      "Hygrometer"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "A wind vane rotates freely on a vertical axis; its tail fin orients the pointer into the wind source direction."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Science",
+    "chapter": "Chapter 11: Air Around Us",
+    "question": "How do plant seeds (like Dandelion, Maple, and Drumstick) disperse across vast distances?",
+    "options": [
+      "They possess feather-like tufts, parachutes, or wings that catch atmospheric wind currents and float across kilometres",
+      "They swim across oceans",
+      "They walk on tiny roots",
+      "They explode like fireworks"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "Anemochory: aerodynamic samaras and pappus hairs utilize wind drift for long-distance seed dispersal."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Science",
+    "chapter": "Chapter 11: Air Around Us",
+    "question": "What role does air play in the transmission of SOUND from one place to another?",
+    "options": [
+      "Air provides the physical material medium through which sound pressure waves propagate; sound cannot travel through a vacuum",
+      "Air blocks all sounds",
+      "Air creates sound out of light",
+      "Sound only travels through metal wires"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "Mechanical sound waves require molecular compression and rarefaction across an elastic fluid medium like air."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Science",
+    "chapter": "Chapter 11: Air Around Us",
+    "question": "Why does air bubble out when water is boiled in a glass pan long before it reaches 100°C?",
+    "options": [
+      "Dissolved air in the water expands due to heating and escapes as tiny air bubbles from the pan floor",
+      "Because glass creates bubbles",
+      "Because water turns into ice",
+      "Because heat destroys water molecules instantly"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "Gas solubility in liquids decreases with rising temperature, driving dissolved air out of solution as bubbles."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Science",
+    "chapter": "Chapter 11: Air Around Us",
+    "question": "Why can sailing yachts and gliders navigate across water and skies without engines?",
+    "options": [
+      "They harness the aerodynamic thrust and lift generated by moving air (wind) pushing against canvas sails and aerofoil wings",
+      "They are pulled by magnetic rocks",
+      "They slide on cloud ice",
+      "They float on solar rays"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "Aerodynamic lift and drag forces produced by wind airflow propel yachts and gliders."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Science",
+    "chapter": "Chapter 11: Air Around Us",
+    "question": "What are the three essential components that must be present together for Combustion (burning) to occur?",
+    "options": [
+      "Fuel (combustible substance), Oxygen (supporter of combustion), and Ignition Temperature (heat)",
+      "Water, Wood, and Plastic",
+      "Nitrogen, Carbon, and Ash",
+      "Glass, Iron, and Air"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "The classical Fire Triangle requires three elements: Combustible Fuel, Oxidizer (O₂), and Heat (ignition threshold)."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Science",
+    "chapter": "Chapter 11: Air Around Us",
+    "question": "Why does a traffic police officer standing at a busy intersection often wear a protective face mask?",
+    "options": [
+      "To protect lungs from inhaling vehicular exhaust containing unburnt carbon soot, toxic carbon monoxide, and lead particulates",
+      "To hide identity",
+      "To keep face warm in summer",
+      "To amplify voice"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "Particulate masks filter toxic combustion emissions (PM2.5, NOₓ, CO) at congested traffic junctions."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Science",
+    "chapter": "Chapter 11: Air Around Us",
+    "question": "Why is Nitrogen gas in air essential for plant life even though plants cannot absorb it directly through leaves?",
+    "options": [
+      "Soil bacteria (like Rhizobium) fix atmospheric nitrogen into soluble nitrates that plant roots absorb to synthesize essential proteins",
+      "Nitrogen gives green color to leaves",
+      "Nitrogen makes fruits sweet",
+      "Nitrogen turns into water inside roots"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "Biological nitrogen fixation converts inert atmospheric N₂ into bioavailable ammonium and nitrate for plant amino acids."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Science",
+    "chapter": "Chapter 11: Air Around Us",
+    "question": "Why does an inflated balloon burst when left in hot scorching sunlight for a long time?",
+    "options": [
+      "Heat energy causes the air molecules trapped inside the balloon to expand and exert higher internal pressure against the rubber until it bursts",
+      "The rubber melts from sun rays",
+      "Sunlight sucks the air out",
+      "The balloon turns into glass"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "Charles's Law: thermal kinetic energy increases gas volume and internal pressure (P ∝ T), rupturing the elastic membrane."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Science",
+    "chapter": "Chapter 11: Air Around Us",
+    "question": "Read the statements:\nAssertion (A): Plants cannot survive without animals, and animals cannot survive without plants in the biosphere.\nReason (R): Plants require CO₂ exhaled by animals for photosynthesis, while animals depend entirely on O₂ released by plants during photosynthesis and the organic biomass plants produce.\nChoose the correct option:",
+    "options": [
+      "Both (A) and (R) are true, and (R) is the correct explanation of (A).",
+      "Both (A) and (R) are true, but (R) is NOT the correct explanation of (A).",
+      "(A) is true, but (R) is false.",
+      "(A) is false, but (R) is true."
+    ],
+    "correctAnswer": 0,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "The biogeochemical oxygen-carbon cycle couples autotrophs and heterotrophs in reciprocal energetic interdependence."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Science",
+    "chapter": "Chapter 11: Air Around Us",
+    "question": "Spot the IMPOSTER in the following group of atmospheric air properties:\nGroup: [Air occupies space, Air has mass/weight, Air is a pure single element, Air exerts atmospheric pressure in all directions]",
+    "options": [
+      "Air occupies space",
+      "Air has mass/weight",
+      "Air is a pure single element",
+      "Air exerts atmospheric pressure in all directions"
+    ],
+    "correctAnswer": 2,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "Air is NOT a pure single element; it is a homogeneous PHYSICAL MIXTURE of multiple gases (N₂, O₂, CO₂, Ar, H₂O vapor)."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Science",
+    "chapter": "Chapter 11: Air Around Us",
+    "question": "A scientist collects 100 litres of clean, dry atmospheric air at sea level. What is the approximate volume of NITROGEN and OXYGEN present in the sample?",
+    "options": [
+      "Nitrogen: ~78 litres ; Oxygen: ~21 litres",
+      "Nitrogen: 50 litres ; Oxygen: 50 litres",
+      "Nitrogen: 21 litres ; Oxygen: 78 litres",
+      "Nitrogen: 90 litres ; Oxygen: 10 litres"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "Volumetric composition of dry atmospheric air: 78.08% N₂, 20.95% O₂, 0.93% Ar, 0.04% CO₂."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Science",
+    "chapter": "Chapter 11: Air Around Us",
+    "question": "Match Column I (Atmospheric Constituents) with Column II (Biological & Environmental Roles):\n(a) Oxygen (21%)        -> (i) Respiration & supporter of combustion\n(b) Carbon Dioxide (0.04%)-> (ii) Raw material for plant photosynthesis\n(c) Nitrogen (78%)      -> (iii) Dilutes oxygen & provides protein building blocks via fixation\n(d) Water Vapour        -> (iv) Drives hydrological cycle, clouds & precipitation",
+    "options": [
+      "a-(i), b-(ii), c-(iii), d-(iv)",
+      "a-(ii), b-(i), c-(iv), d-(iii)",
+      "a-(iv), b-(iii), c-(ii), d-(i)",
+      "a-(iii), b-(iv), c-(i), d-(ii)"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "Oxygen = respiration; CO₂ = photosynthesis; Nitrogen = protein fixation; Water vapour = precipitation."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Science",
+    "chapter": "Chapter 11: Air Around Us",
+    "question": "Read the statements regarding respiration:\nStatement 1: Respiration in plants occurs day and night continuously, consuming oxygen and releasing carbon dioxide.\nStatement 2: Photosynthesis occurs only during daytime in sunlight, releasing far more oxygen than plants consume during respiration.\nStatement 3: Aquatic plants and animals breathe using dissolved nitrogen in water.\nWhich statements are TRUE?",
+    "options": [
+      "Statements 1 and 2 only",
+      "Statements 2 and 3 only",
+      "Statements 1 and 3 only",
+      "All Statements 1, 2, and 3"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "Statement 3 is false because aquatic life breathes dissolved OXYGEN, not nitrogen. Statements 1 and 2 are true."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Science",
+    "chapter": "Chapter 11: Air Around Us",
+    "question": "Why does a suction rubber sucker stick firmly to a smooth glass or tiled wall when pressed hard?",
+    "options": [
+      "Pressing the sucker pushes out most of the air between the cup and surface; external atmospheric air pressure presses down hard on the outside, holding it tightly",
+      "Because rubber has chemical glue",
+      "Because the glass melts onto rubber",
+      "Because of magnetic attraction"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "Evacuating internal air creates a partial vacuum (P_inside < P_atm); external atmospheric pressure (101.3 kPa) pins the sucker."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Science",
+    "chapter": "Chapter 11: Air Around Us",
+    "question": "How do mangroves and marsh plants growing in waterlogged saline mud adapt to breathe in oxygen-deficient soils?",
+    "options": [
+      "They produce specialized vertical aerial roots called Pneumatophores (Breathing Roots) that grow upward out of the mud to absorb air directly from the atmosphere",
+      "They absorb air through flowers",
+      "They stop breathing completely",
+      "They store oxygen in seeds"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "Negatively geotropic pneumatophores with lenticels project above tidal water, ventilating root aerenchyma tissue."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Science",
+    "chapter": "Chapter 11: Air Around Us",
+    "question": "Why does atmospheric pressure decrease progressively as you climb higher up a mountain?",
+    "options": [
+      "Because the total vertical column and density of air molecules lying above decreases, exerting less downward gravitational weight per unit area",
+      "Because gravity turns off in mountains",
+      "Because cold air has no weight",
+      "Because clouds absorb air pressure"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "Barometric equation: hydrostatic pressure equals the integrated mass of the overlying air column, decaying exponentially with altitude."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Science",
+    "chapter": "Chapter 11: Air Around Us",
+    "question": "What would happen to all life on Earth if the Atmosphere were completely absent?",
+    "options": [
+      "All living organisms would die instantly from asphyxiation, daytime surface temperatures would soar to +120°C and plunge to -180°C at night, and lethal cosmic rays would bombard the surface",
+      "Plants would grow twice as fast",
+      "Oceans would freeze into pure gold",
+      "Earth would become lighter and float away"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "The atmosphere provides respiration gases, radiative greenhouse buffering, meteor friction shield, and UV absorption."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Science",
+    "chapter": "Chapter 11: Air Around Us",
+    "question": "Why does a glass tumbler filled completely with water, covered with a flat cardboard card, and inverted upside down NOT spill water?",
+    "options": [
+      "The upward atmospheric pressure exerted by outside air against the underside of the cardboard card is greater than the downward hydrostatic pressure of water",
+      "Because the card glues to water",
+      "Because water freezes instantly",
+      "Because gravity stops working upside down"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "Atmospheric pressure (~101,300 Pa) dwarfs the ~1,000 Pa downward hydrostatic column of water, holding the card in equilibrium."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Science",
+    "chapter": "Chapter 11: Air Around Us",
+    "question": "What is 'Smog' and why is it a dangerous environmental hazard in cities during winter?",
+    "options": [
+      "A toxic colloidal mixture of Smoke and Fog containing particulate soot and sulfur oxides that causes acute bronchitis, asthma, and severe visibility reduction",
+      "A cloud made of pure steam",
+      "A harmless morning mist",
+      "Dust from the moon"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "Thermal inversion traps particulates and photochemical/sulfurous emissions in winter fog, forming hazardous smog."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Science",
+    "chapter": "Chapter 11: Air Around Us",
+    "question": "What crucial layer in the upper stratosphere shields life on Earth from harmful solar Ultraviolet (UV) radiation?",
+    "options": [
+      "The Ozone Layer (O₃)",
+      "The Ionosphere",
+      "The Troposphere",
+      "The Exosphere"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "Stratospheric ozone photolytically absorbs high-energy UV-B radiation (280–315 nm), preventing cellular DNA mutagenesis."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Mathematics",
+    "chapter": "Chapter 11: Algebra",
+    "question": "A symbol or letter (such as x, y, z, m, n, a, b) that does NOT have a fixed value and can take different numerical values is called a:",
+    "options": [
+      "Variable",
+      "Constant",
+      "Fraction",
+      "Integer"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "A variable represents an unknown quantity whose value varies, denoted by English alphabetic letters."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Mathematics",
+    "chapter": "Chapter 11: Algebra",
+    "question": "A quantity that has a fixed numerical value (such as 5, -8, 12, 100) that never changes is called a:",
+    "options": [
+      "Constant",
+      "Variable",
+      "Equation",
+      "Expression"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "A constant possesses a fixed, definite mathematical magnitude."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Mathematics",
+    "chapter": "Chapter 11: Algebra",
+    "question": "To form the letter 'L' using matchsticks, 2 matchsticks are required for 1 'L'. What is the algebraic rule for the number of matchsticks required to make 'n' number of 'L's?",
+    "options": [
+      "2n (2 × n)",
+      "n + 2",
+      "2 + n",
+      "n / 2"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "1 'L' = 2 matchsticks; n 'L's = 2 × n = 2n matchsticks."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Mathematics",
+    "chapter": "Chapter 11: Algebra",
+    "question": "To form the letter 'C' using matchsticks, 3 matchsticks are required for each 'C'. How many matchsticks are needed to form 8 'C's?",
+    "options": [
+      "24 matchsticks (Rule: 3n = 3 × 8 = 24)",
+      "16 matchsticks",
+      "11 matchsticks",
+      "32 matchsticks"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "Rule is 3n. For n = 8, matchsticks = 3 × 8 = 24."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Mathematics",
+    "chapter": "Chapter 11: Algebra",
+    "question": "How is the statement '7 added to x' written as an algebraic expression?",
+    "options": [
+      "x + 7 (or 7 + x)",
+      "7x",
+      "x - 7",
+      "x / 7"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "'7 added to x' maps directly to addition: x + 7."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Mathematics",
+    "chapter": "Chapter 11: Algebra",
+    "question": "How is the statement 'y multiplied by 5 and then 3 subtracted from the result' written algebraically?",
+    "options": [
+      "5y - 3",
+      "5y + 3",
+      "3 - 5y",
+      "y/5 - 3"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "(y × 5) - 3 = 5y - 3."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Mathematics",
+    "chapter": "Chapter 11: Algebra",
+    "question": "A mathematical statement with an EQUALITY sign '=' between two expressions (such as 2x + 5 = 15) is called an:",
+    "options": [
+      "Equation",
+      "Expression",
+      "Inequality",
+      "Polynomial"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "An algebraic equation establishes that two mathematical expressions have identical value using the equality symbol '='."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Mathematics",
+    "chapter": "Chapter 11: Algebra",
+    "question": "The value of a variable that satisfies an equation (makes LHS = RHS) is called the:",
+    "options": [
+      "Solution (or Root) of the equation",
+      "Constant",
+      "Coefficient",
+      "Term"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "A solution is a specific numerical value of the variable for which the Left Hand Side equals the Right Hand Side."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Mathematics",
+    "chapter": "Chapter 11: Algebra",
+    "question": "Solve the simple linear equation: x + 6 = 15. What is the value of x?",
+    "options": [
+      "x = 9 (15 - 6 = 9)",
+      "x = 21",
+      "x = 90",
+      "x = 6"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "x = 15 - 6 = 9."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Mathematics",
+    "chapter": "Chapter 11: Algebra",
+    "question": "Solve the linear equation: 4y = 28. What is the value of y?",
+    "options": [
+      "y = 7 (28 ÷ 4 = 7)",
+      "y = 32",
+      "y = 24",
+      "y = 112"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "y = 28 ÷ 4 = 7."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Mathematics",
+    "chapter": "Chapter 11: Algebra",
+    "question": "If side length of an equilateral triangle is denoted by 'l', what is its perimeter written algebraically?",
+    "options": [
+      "3l (l + l + l = 3l)",
+      "l³",
+      "3 + l",
+      "l/3"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "Perimeter = 3 × side = 3l."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Mathematics",
+    "chapter": "Chapter 11: Algebra",
+    "question": "What is the numerical coefficient of the variable in the algebraic term '-7x'?",
+    "options": [
+      "-7",
+      "7",
+      "x",
+      "-x"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "The numerical multiplying factor attached to the variable x is -7."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Mathematics",
+    "chapter": "Chapter 11: Algebra",
+    "question": "Raju is 5 years younger than his brother Ravi. If Ravi's present age is 'x' years, what is Raju's age in terms of x?",
+    "options": [
+      "(x - 5) years",
+      "(x + 5) years",
+      "5x years",
+      "x/5 years"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "Younger by 5 years means subtracting 5 from Ravi's age: x - 5."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Mathematics",
+    "chapter": "Chapter 11: Algebra",
+    "question": "Sarita has 'm' marbles. Ameena has 10 more than twice the number of marbles Sarita has. How many marbles does Ameena have?",
+    "options": [
+      "2m + 10",
+      "2(m + 10)",
+      "10m + 2",
+      "m/2 + 10"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "Twice Sarita's marbles = 2m; 10 more than twice = 2m + 10."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Mathematics",
+    "chapter": "Chapter 11: Algebra",
+    "question": "Solve the linear equation: 3n + 7 = 25. What is the value of n?",
+    "options": [
+      "n = 6 (3n = 25 - 7 = 18 ⇒ n = 18/3 = 6)",
+      "n = 8",
+      "n = 5",
+      "n = 7"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "3n = 25 - 7 = 18 ⇒ n = 18 ÷ 3 = 6."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Mathematics",
+    "chapter": "Chapter 11: Algebra",
+    "question": "Solve the equation: p/3 - 4 = 2. What is the value of p?",
+    "options": [
+      "p = 18 (p/3 = 2 + 4 = 6 ⇒ p = 6 × 3 = 18)",
+      "p = 6",
+      "p = 12",
+      "p = 24"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "p/3 = 2 + 4 = 6 ⇒ p = 6 × 3 = 18."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Mathematics",
+    "chapter": "Chapter 11: Algebra",
+    "question": "A bus travels at a uniform speed of 'v' km per hour. It goes from Daspur to Beespur. After the bus has travelled for 5 hours, Beespur is still 20 km away. What is the total distance between Daspur and Beespur in terms of v?",
+    "options": [
+      "(5v + 20) km",
+      "(5v - 20) km",
+      "20v + 5 km",
+      "5(v + 20) km"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "Distance travelled in 5 hours = Speed × Time = 5v km. Total distance = 5v + 20 km."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Mathematics",
+    "chapter": "Chapter 11: Algebra",
+    "question": "If a box contains 50 mangoes, how will you write the total number of mangoes in 'b' boxes?",
+    "options": [
+      "50b (50 × b)",
+      "50 + b",
+      "b / 50",
+      "50 - b"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "Number of mangoes per box × number of boxes = 50 × b = 50b."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Mathematics",
+    "chapter": "Chapter 11: Algebra",
+    "question": "Cadets are marching in a parade in a Republic Day parade. There are 5 cadets in a row. What is the algebraic rule which gives the total number of cadets for 'r' rows?",
+    "options": [
+      "5r",
+      "r + 5",
+      "r / 5",
+      "5 + r"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "Cadets per row × rows = 5 × r = 5r."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Mathematics",
+    "chapter": "Chapter 11: Algebra",
+    "question": "Leela is Radha's younger sister. Leela is 4 years younger than Radha. Can you write Leela's age in terms of Radha's age? (Take Radha's age as 'x' years):",
+    "options": [
+      "(x - 4) years",
+      "(x + 4) years",
+      "4x years",
+      "x/4 years"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "Leela's age = Radha's age - 4 = x - 4."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Mathematics",
+    "chapter": "Chapter 11: Algebra",
+    "question": "Mother has made laddoos. She gives some laddoos to guests and family members; still 5 laddoos remain. If the number of laddoos mother gave away is 'l', how many laddoos did she make in total?",
+    "options": [
+      "l + 5",
+      "l - 5",
+      "5l",
+      "l / 5"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "Total made = Laddoos given away + remaining laddoos = l + 5."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Mathematics",
+    "chapter": "Chapter 11: Algebra",
+    "question": "Which of the following mathematical expressions is a valid ALGEBRAIC EQUATION containing a variable?",
+    "options": [
+      "2x + 7 = 19 (contains variable x and '=' sign)",
+      "2x + 7 > 19",
+      "5 × 3 + 2 = 17 (arithmetic equality without variable)",
+      "3x - 5"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "An algebraic equation must have both a variable and an equality sign (=)."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Mathematics",
+    "chapter": "Chapter 11: Algebra",
+    "question": "Find the value of the algebraic expression 3x² - 4x + 5 when x = 3:",
+    "options": [
+      "20 (3(3)² - 4(3) + 5 = 3(9) - 12 + 5 = 27 - 12 + 5 = 20)",
+      "18",
+      "24",
+      "15"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "3(3²) - 4(3) + 5 = 3(9) - 12 + 5 = 27 - 12 + 5 = 20."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Mathematics",
+    "chapter": "Chapter 11: Algebra",
+    "question": "Change the algebraic statement into ordinary everyday English: 'A notebook costs ₹p. A book costs ₹3p.'",
+    "options": [
+      "A book costs three times as much as a notebook",
+      "A notebook costs three times as much as a book",
+      "A book costs ₹3 more than a notebook",
+      "A book costs ₹3 less than a notebook"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "3p indicates multiplication by 3, meaning the book costs 3 times the notebook's price."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Mathematics",
+    "chapter": "Chapter 11: Algebra",
+    "question": "Solve the equation using the Trial and Error method: 5x = 35. For what value of x is the equation satisfied?",
+    "options": [
+      "x = 7 (5 × 7 = 35)",
+      "x = 5",
+      "x = 6",
+      "x = 8"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "Testing values: 5(5)=25, 5(6)=30, 5(7)=35 (Satisfied!)."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Mathematics",
+    "chapter": "Chapter 11: Algebra",
+    "question": "How is the Commutative Property of Addition of two whole numbers 'a' and 'b' written in general algebraic notation?",
+    "options": [
+      "a + b = b + a",
+      "a × b = b × a",
+      "a - b = b - a",
+      "a + (b + c) = (a + b) + c"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "Commutative law of addition states that order of terms does not alter the sum: a + b = b + a."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Mathematics",
+    "chapter": "Chapter 11: Algebra",
+    "question": "How is the Distributive Property of Multiplication over Addition written algebraically for three numbers a, b, and c?",
+    "options": [
+      "a × (b + c) = (a × b) + (a × c)",
+      "a + (b × c) = (a + b) × c",
+      "a × b × c = a + b + c",
+      "a / (b + c) = a/b + a/c"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "Distributive property: a(b + c) = ab + ac."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Mathematics",
+    "chapter": "Chapter 11: Algebra",
+    "question": "If the diameter of a circle is 'd' and its radius is 'r', what is the algebraic relation between diameter and radius?",
+    "options": [
+      "d = 2r (or r = d/2)",
+      "d = r + 2",
+      "d = r²",
+      "d = r/2"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "Diameter is twice the radius: d = 2r."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Mathematics",
+    "chapter": "Chapter 11: Algebra",
+    "question": "Read the statements:\nAssertion (A): An algebraic equation is fundamentally like a balanced weighing scale with equal weights on both Left and Right pans.\nReason (R): If you add, subtract, multiply, or divide the exact same non-zero number to BOTH sides (LHS and RHS), the equality remains strictly true and balanced.\nChoose the correct option:",
+    "options": [
+      "Both (A) and (R) are true, and (R) is the correct explanation of (A).",
+      "Both (A) and (R) are true, but (R) is NOT the correct explanation of (A).",
+      "(A) is true, but (R) is false.",
+      "(A) is false, but (R) is true."
+    ],
+    "correctAnswer": 0,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "The balance analogy illustrates algebraic invariance: equal symmetric operations preserve identity."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Mathematics",
+    "chapter": "Chapter 11: Algebra",
+    "question": "Spot the IMPOSTER in the following algebraic expressions where x = 4:\nGroup: [2x + 3 = 11, 5x - 8 = 12, x² + 1 = 17, 3x - 5 = 8]",
+    "options": [
+      "2x + 3 = 11",
+      "5x - 8 = 12",
+      "x² + 1 = 17",
+      "3x - 5 = 8"
+    ],
+    "correctAnswer": 3,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "For x = 4: 3(4) - 5 = 12 - 5 = 7 (NOT 8). The other three evaluate to 11, 12, and 17."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Mathematics",
+    "chapter": "Chapter 11: Algebra",
+    "question": "To form a pattern of 'n' connected squares using matchsticks in a row where the first square uses 4 sticks and each adjoining square shares 1 common vertical side, what is the exact algebraic rule for total matchsticks?",
+    "options": [
+      "3n + 1 (For 1 square = 4 sticks ; For 2 squares = 7 sticks ; For 3 = 10 sticks)",
+      "4n",
+      "4n - 1",
+      "2n + 2"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "First square uses 4; every additional square adds 3 sticks: 4 + 3(n - 1) = 4 + 3n - 3 = 3n + 1."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Mathematics",
+    "chapter": "Chapter 11: Algebra",
+    "question": "Match Column I (Word Statements) with Column II (Algebraic Expressions):\n(a) 5 subtracted from -m      -> (i) 2y + 11\n(b) 11 added to twice of y    -> (ii) -m - 5\n(c) y multiplied by -8        -> (iii) y/5 + 3\n(d) 3 added to one-fifth of y -> (iv) -8y",
+    "options": [
+      "a-(ii), b-(i), c-(iv), d-(iii)",
+      "a-(i), b-(ii), c-(iii), d-(iv)",
+      "a-(iv), b-(iii), c-(ii), d-(i)",
+      "a-(iii), b-(iv), c-(i), d-(ii)"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "-m - 5; 2y + 11; -8y; y/5 + 3."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Mathematics",
+    "chapter": "Chapter 11: Algebra",
+    "question": "Read the statements regarding algebraic equations:\nStatement 1: The equation 2x + 1 = 7 has only ONE unique solution in the system of real numbers (x = 3).\nStatement 2: In the expression 5n + 3, the variable 'n' can take any numerical value (1, 2, 3, 4, ...).\nStatement 3: 7x - 4 > 10 is an algebraic equation.\nWhich statements are TRUE?",
+    "options": [
+      "Statements 1 and 2 only",
+      "Statements 2 and 3 only",
+      "Statements 1 and 3 only",
+      "All Statements 1, 2, and 3"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "Statement 3 is false because 7x - 4 > 10 contains an inequality symbol (>), making it an Inequality rather than an Equation. Statements 1 and 2 are true."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Mathematics",
+    "chapter": "Chapter 11: Algebra",
+    "question": "Solve the linear equation: (2x - 3) / 5 = 3. What is the value of x?",
+    "options": [
+      "x = 9 (2x - 3 = 15 ⇒ 2x = 18 ⇒ x = 9)",
+      "x = 6",
+      "x = 12",
+      "x = 15"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "2x - 3 = 3 × 5 = 15 ⇒ 2x = 15 + 3 = 18 ⇒ x = 9."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Mathematics",
+    "chapter": "Chapter 11: Algebra",
+    "question": "The length of a rectangular hall is 4 metres less than 3 times the breadth of the hall. If the breadth is 'b' metres, what is the length in terms of b?",
+    "options": [
+      "(3b - 4) metres",
+      "(3b + 4) metres",
+      "(4b - 3) metres",
+      "3(b - 4) metres"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "3 times breadth = 3b. 4 metres less than 3b = 3b - 4."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Mathematics",
+    "chapter": "Chapter 11: Algebra",
+    "question": "A rectangular box has height 'h' cm. Its length is 5 times the height and breadth is 10 cm less than the length. Express the length and breadth in terms of the height h:",
+    "options": [
+      "Length = 5h cm ; Breadth = (5h - 10) cm",
+      "Length = h + 5 cm ; Breadth = h - 10 cm",
+      "Length = 5h cm ; Breadth = 5h + 10 cm",
+      "Length = h/5 cm ; Breadth = 5h - 10 cm"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "Length = 5 × h = 5h cm; Breadth = Length - 10 = (5h - 10) cm."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Mathematics",
+    "chapter": "Chapter 11: Algebra",
+    "question": "The sum of three consecutive integers is 51. If the smallest integer is denoted by 'x', what is the algebraic equation and the value of x?",
+    "options": [
+      "Equation: x + (x + 1) + (x + 2) = 51 ⇒ 3x + 3 = 51 ⇒ x = 16 (Integers are 16, 17, 18)",
+      "Equation: 3x = 51 ⇒ x = 17",
+      "Equation: x + x + x = 51 ⇒ x = 15",
+      "Equation: 3x - 3 = 51 ⇒ x = 18"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "3x + 3 = 51 ⇒ 3x = 48 ⇒ x = 16. Integers are 16, 17, 18 (16+17+18 = 51)."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Mathematics",
+    "chapter": "Chapter 11: Algebra",
+    "question": "A father is 35 years older than his son. After 5 years, the father will be twice as old as his son. If the son's present age is 's', which equation correctly models this situation?",
+    "options": [
+      "(s + 35) + 5 = 2(s + 5) ⇒ s + 40 = 2s + 10 ⇒ s = 30",
+      "s + 35 = 2s",
+      "s + 5 = 2(s + 35)",
+      "35s = 2(s + 5)"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "Father's age in 5 yrs = (s + 35) + 5 = s + 40. Son's age in 5 yrs = s + 5. Equation: s + 40 = 2(s + 5)."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Mathematics",
+    "chapter": "Chapter 11: Algebra",
+    "question": "If 3x + 2y = 24 and x = 4, find the value of y:",
+    "options": [
+      "y = 6 (3(4) + 2y = 24 ⇒ 12 + 2y = 24 ⇒ 2y = 12 ⇒ y = 6)",
+      "y = 4",
+      "y = 8",
+      "y = 12"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "12 + 2y = 24 ⇒ 2y = 12 ⇒ y = 6."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Mathematics",
+    "chapter": "Chapter 11: Algebra",
+    "question": "Why is Algebra considered the foundational universal language of higher mathematics, physics, and computer programming?",
+    "options": [
+      "It allows generalized patterns, physical laws, and complex relationships to be stated succinctly using variables rather than specific arithmetic numbers alone",
+      "Because letters are easier to draw than numbers",
+      "Because algebra eliminates the need for thinking",
+      "Because it only works for matchsticks"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "Algebra provides abstract symbolic modeling to formulate general rules, invariant laws, and computational algorithms."
+  },
+  {
+    "classLevel": 6,
+    "subject": "English",
+    "chapter": "Chapter 11: Comprehensive Literature Review & Applied Grammar",
+    "question": "In English grammar, a sentence in which the SUBJECT performs the action is in:",
+    "options": [
+      "Active Voice",
+      "Passive Voice",
+      "Direct Speech",
+      "Indirect Speech"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "In Active Voice, the grammatical subject is the active agent/doer of the transitive verb."
+  },
+  {
+    "classLevel": 6,
+    "subject": "English",
+    "chapter": "Chapter 11: Comprehensive Literature Review & Applied Grammar",
+    "question": "A sentence in which the SUBJECT receives the action performed by an agent (e.g. 'The mouse was chased by the cat') is in:",
+    "options": [
+      "Passive Voice",
+      "Active Voice",
+      "Interrogative Voice",
+      "Imperative Voice"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "In Passive Voice, the recipient of the action occupies the subject position followed by 'be + past participle'."
+  },
+  {
+    "classLevel": 6,
+    "subject": "English",
+    "chapter": "Chapter 11: Comprehensive Literature Review & Applied Grammar",
+    "question": "What is the exact words of a speaker quoted within inverted quotation marks (\" \") called in grammar?",
+    "options": [
+      "Direct Speech",
+      "Indirect Speech (Reported Speech)",
+      "Passive Voice",
+      "Active Voice"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "Direct Speech quotes the speaker's verbatim words enclosed in quotation marks."
+  },
+  {
+    "classLevel": 6,
+    "subject": "English",
+    "chapter": "Chapter 11: Comprehensive Literature Review & Applied Grammar",
+    "question": "What is reporting the substance of what someone said without quoting their exact words (without quotation marks) called?",
+    "options": [
+      "Indirect Speech (Reported Speech)",
+      "Direct Speech",
+      "Passive Voice",
+      "Dialogue"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "Indirect Speech reports spoken propositions with appropriate tense, pronoun, and adverbial shifts."
+  },
+  {
+    "classLevel": 6,
+    "subject": "English",
+    "chapter": "Chapter 11: Comprehensive Literature Review & Applied Grammar",
+    "question": "What is a SYNONYM for the word 'Courageous'?",
+    "options": [
+      "Brave",
+      "Timid",
+      "Cowardly",
+      "Fearful"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "'Brave' and 'courageous' are synonymous adjectives denoting valor in confronting adversity."
+  },
+  {
+    "classLevel": 6,
+    "subject": "English",
+    "chapter": "Chapter 11: Comprehensive Literature Review & Applied Grammar",
+    "question": "What is the ANTONYM (opposite word) of 'Ancient'?",
+    "options": [
+      "Modern",
+      "Old",
+      "Historic",
+      "Antique"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "The antonym of 'ancient' (pertaining to remote antiquity) is 'modern' (contemporary)."
+  },
+  {
+    "classLevel": 6,
+    "subject": "English",
+    "chapter": "Chapter 11: Comprehensive Literature Review & Applied Grammar",
+    "question": "What is the meaning of the common English idiom 'A piece of cake'?",
+    "options": [
+      "Something that is very easy to accomplish",
+      "A sweet bakery pastry",
+      "A difficult examination",
+      "A heavy box"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "'A piece of cake' idiomatically signifies an effortlessly simple task."
+  },
+  {
+    "classLevel": 6,
+    "subject": "English",
+    "chapter": "Chapter 11: Comprehensive Literature Review & Applied Grammar",
+    "question": "What is the meaning of the idiom 'Once in a blue moon'?",
+    "options": [
+      "Very rarely / almost never",
+      "Every night",
+      "When the moon is blue",
+      "Always on Mondays"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "'Once in a blue moon' denotes an event of extreme rarity."
+  },
+  {
+    "classLevel": 6,
+    "subject": "English",
+    "chapter": "Chapter 11: Comprehensive Literature Review & Applied Grammar",
+    "question": "Choose the correct past participle form of the irregular verb 'Write':",
+    "options": [
+      "Written (Write - Wrote - Written)",
+      "Writed",
+      "Wrote",
+      "Writing"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "Principal parts: Write (base), Wrote (past), Written (past participle)."
+  },
+  {
+    "classLevel": 6,
+    "subject": "English",
+    "chapter": "Chapter 11: Comprehensive Literature Review & Applied Grammar",
+    "question": "Choose the correct past participle form of the irregular verb 'Fly':",
+    "options": [
+      "Flown (Fly - Flew - Flown)",
+      "Flied",
+      "Flew",
+      "Flying"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "Principal parts: Fly (base), Flew (past), Flown (past participle)."
+  },
+  {
+    "classLevel": 6,
+    "subject": "English",
+    "chapter": "Chapter 11: Comprehensive Literature Review & Applied Grammar",
+    "question": "What is a group of words consisting of a verb and a preposition/adverb that takes on a unique figurative meaning (e.g. 'give up', 'look after', 'break down') called?",
+    "options": [
+      "Phrasal Verb",
+      "Conjunction",
+      "Noun Clause",
+      "Interjection"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "A phrasal verb combines a base verb with a preposition/adverb particle to express an idiomatic semantic unit."
+  },
+  {
+    "classLevel": 6,
+    "subject": "English",
+    "chapter": "Chapter 11: Comprehensive Literature Review & Applied Grammar",
+    "question": "What does the phrasal verb 'To look after' mean?",
+    "options": [
+      "To take care of someone or something",
+      "To look behind",
+      "To run after a thief",
+      "To search in a dictionary"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "'To look after' means to attend to the health, well-being, or maintenance of someone/something."
+  },
+  {
+    "classLevel": 6,
+    "subject": "English",
+    "chapter": "Chapter 11: Comprehensive Literature Review & Applied Grammar",
+    "question": "Convert the Active Voice sentence into Passive Voice:\n'Taro chopped the wood in the forest.'",
+    "options": [
+      "'The wood was chopped by Taro in the forest.'",
+      "'The wood is chopped by Taro.'",
+      "'The wood had chopped Taro.'",
+      "'Taro was chopped by the wood.'"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "Simple Past Active (chopped) converts to Past Passive: was/were + past participle (was chopped)."
+  },
+  {
+    "classLevel": 6,
+    "subject": "English",
+    "chapter": "Chapter 11: Comprehensive Literature Review & Applied Grammar",
+    "question": "Convert the Active Voice sentence into Passive Voice:\n'The mongoose killed the black cobra.'",
+    "options": [
+      "'The black cobra was killed by the mongoose.'",
+      "'The black cobra is killed by the mongoose.'",
+      "'The mongoose was killed by the cobra.'",
+      "'The cobra had killed the mongoose.'"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "Subject-object inversion with past auxiliary: 'was killed by the mongoose'."
+  },
+  {
+    "classLevel": 6,
+    "subject": "English",
+    "chapter": "Chapter 11: Comprehensive Literature Review & Applied Grammar",
+    "question": "Convert the Direct Speech into Indirect Speech:\nPatrick said, \"I hate doing my homework.\"",
+    "options": [
+      "Patrick said that he hated doing his homework.",
+      "Patrick says that he hates homework.",
+      "Patrick said that I hate doing my homework.",
+      "Patrick told that he is hating homework."
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "Reported speech shifts Present Simple ('hate') to Past Simple ('hated'), and pronoun 'I' to 'he'."
+  },
+  {
+    "classLevel": 6,
+    "subject": "English",
+    "chapter": "Chapter 11: Comprehensive Literature Review & Applied Grammar",
+    "question": "Convert the Direct Speech into Indirect Speech:\nUncle said to Rasheed, \"Do not buy anything in my absence.\"",
+    "options": [
+      "Uncle forbade Rasheed from buying anything in his absence (or advised him not to buy anything).",
+      "Uncle said to Rasheed that you do not buy anything.",
+      "Uncle asked Rasheed why he bought anything.",
+      "Uncle told Rasheed to buy everything."
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "Imperative negative direct commands convert to infinitive reporting: 'forbade... from buying' or 'advised... not to buy'."
+  },
+  {
+    "classLevel": 6,
+    "subject": "English",
+    "chapter": "Chapter 11: Comprehensive Literature Review & Applied Grammar",
+    "question": "Identify the correct pair of SYNONYMS among the choices:",
+    "options": [
+      "Affectionate : Loving",
+      "Abundant : Scarce",
+      "Generous : Greedy",
+      "Ancient : Modern"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "'Affectionate' and 'Loving' are synonyms; the remaining options are antonym pairs."
+  },
+  {
+    "classLevel": 6,
+    "subject": "English",
+    "chapter": "Chapter 11: Comprehensive Literature Review & Applied Grammar",
+    "question": "What does the phrasal verb 'To give up' mean in the sentence: 'Kalpana Chawla never gave up on her dreams of space exploration.'?",
+    "options": [
+      "To stop trying / to abandon hope or surrender",
+      "To give gifts to others",
+      "To climb up a mountain",
+      "To wake up early"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "'To give up' idiomatically means to cease striving or admit defeat."
+  },
+  {
+    "classLevel": 6,
+    "subject": "English",
+    "chapter": "Chapter 11: Comprehensive Literature Review & Applied Grammar",
+    "question": "What is the meaning of the idiom 'To see eye to eye' in the context of Jumman and Algu in 'Fair Play'?",
+    "options": [
+      "To agree fully with each other on an issue",
+      "To stare angrily into someone's eyes",
+      "To visit an eye doctor",
+      "To wear spectacles"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "'To see eye to eye' means to share mutual consensus and harmonious agreement."
+  },
+  {
+    "classLevel": 6,
+    "subject": "English",
+    "chapter": "Chapter 11: Comprehensive Literature Review & Applied Grammar",
+    "question": "Fill in the blank with the correct Phrasal Verb:\n'The brave firemen managed to _______ the raging forest fire after three hours.'",
+    "options": [
+      "put out (extinguish)",
+      "put off (postpone)",
+      "put on (wear)",
+      "put up (erect)"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "'Put out' means to douse or extinguish a flame."
+  },
+  {
+    "classLevel": 6,
+    "subject": "English",
+    "chapter": "Chapter 11: Comprehensive Literature Review & Applied Grammar",
+    "question": "Fill in the blank with the correct Phrasal Verb:\n'The meeting has been _______ until next Monday due to heavy rains.'",
+    "options": [
+      "put off (postponed / rescheduled)",
+      "put on",
+      "put out",
+      "put away"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "'Put off' means to defer or postpone to a future date."
+  },
+  {
+    "classLevel": 6,
+    "subject": "English",
+    "chapter": "Chapter 11: Comprehensive Literature Review & Applied Grammar",
+    "question": "Choose the sentence that correctly uses the ONE-WORD SUBSTITUTE for 'A person who travels to a sacred holy shrine':",
+    "options": [
+      "Pilgrim (e.g. 'The pilgrim walked hundreds of miles to visit the ancient shrine.')",
+      "Tourist",
+      "Immigrant",
+      "Nomad"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "A 'pilgrim' is an individual undertaking a spiritual pilgrimage to a religious sanctuary."
+  },
+  {
+    "classLevel": 6,
+    "subject": "English",
+    "chapter": "Chapter 11: Comprehensive Literature Review & Applied Grammar",
+    "question": "Choose the correct ONE-WORD SUBSTITUTE for 'A life story of a person written by HIMSELF/HERSELF':",
+    "options": [
+      "Autobiography",
+      "Biography",
+      "Bibliography",
+      "Anthology"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "Autobiography (Auto = self, bio = life, graphy = writing) is an author's self-written life account."
+  },
+  {
+    "classLevel": 6,
+    "subject": "English",
+    "chapter": "Chapter 11: Comprehensive Literature Review & Applied Grammar",
+    "question": "Convert into Indirect Speech:\nThe teacher said to the students, \"The Earth revolves around the Sun.\"",
+    "options": [
+      "The teacher told the students that the Earth revolves around the Sun. (Tense does NOT change for universal scientific truths)",
+      "The teacher said that the Earth revolved around the Sun.",
+      "The teacher asked if the Earth is revolving.",
+      "The teacher said that the Earth will revolve."
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "Universal scientific truths and geographical facts retain present tense in reported speech."
+  },
+  {
+    "classLevel": 6,
+    "subject": "English",
+    "chapter": "Chapter 11: Comprehensive Literature Review & Applied Grammar",
+    "question": "What does the idiom 'To burn the midnight oil' mean?",
+    "options": [
+      "To work or study very hard late into the night",
+      "To light an oil lamp",
+      "To waste kerosene oil",
+      "To set fire to something"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "'To burn the midnight oil' refers to late-night intellectual labor or intense academic study."
+  },
+  {
+    "classLevel": 6,
+    "subject": "English",
+    "chapter": "Chapter 11: Comprehensive Literature Review & Applied Grammar",
+    "question": "Identify the correct question tag:\n'She sings melodiously, _______?'",
+    "options": [
+      "doesn't she?",
+      "is she?",
+      "didn't she?",
+      "don't she?"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "Positive Present Simple ('sings') takes negative present auxiliary tag: 'doesn't she?'."
+  },
+  {
+    "classLevel": 6,
+    "subject": "English",
+    "chapter": "Chapter 11: Comprehensive Literature Review & Applied Grammar",
+    "question": "Identify the sentence that contains a SUBJECT-VERB AGREEMENT error:",
+    "options": [
+      "'Each of the boys have completed their project.' (Incorrect: 'Each' is singular and requires 'has completed')",
+      "'The dog barks at strangers.'",
+      "'Both girls are intelligent.'",
+      "'Neither the teacher nor the students were present.'"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "Distributive pronoun 'Each' takes singular verb agreement ('has completed', not 'have')."
+  },
+  {
+    "classLevel": 6,
+    "subject": "English",
+    "chapter": "Chapter 11: Comprehensive Literature Review & Applied Grammar",
+    "question": "What does the phrasal verb 'To break down' mean when applied to a motor vehicle?",
+    "options": [
+      "To stop functioning / to fail mechanically",
+      "To break into two pieces with a hammer",
+      "To cry loudly",
+      "To speed up"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "Mechanical breakdown refers to sudden operational failure of engines or equipment."
+  },
+  {
+    "classLevel": 6,
+    "subject": "English",
+    "chapter": "Chapter 11: Comprehensive Literature Review & Applied Grammar",
+    "question": "Read the statements:\nAssertion (A): When transforming Direct Speech with universal scientific truths into Indirect Speech, the verb tense in the reported clause remains unchanged in the Present Tense.\nReason (R): Universal physical laws and scientific constants remain objectively true regardless of the historical time frame of the reporting verb.\nChoose the correct option:",
+    "options": [
+      "Both (A) and (R) are true, and (R) is the correct explanation of (A).",
+      "Both (A) and (R) are true, but (R) is NOT the correct explanation of (A).",
+      "(A) is true, but (R) is false.",
+      "(A) is false, but (R) is true."
+    ],
+    "correctAnswer": 0,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "Invariance of universal empirical facts overrides grammatical backshifting rules in reported speech."
+  },
+  {
+    "classLevel": 6,
+    "subject": "English",
+    "chapter": "Chapter 11: Comprehensive Literature Review & Applied Grammar",
+    "question": "Spot the IMPOSTER in the following Active-Passive transformations:\nGroup: [Active: 'He wrote a letter' -> Passive: 'A letter was written by him', Active: 'She ate an apple' -> Passive: 'An apple was eaten by her', Active: 'They built a bridge' -> Passive: 'A bridge was built by them', Active: 'He slept peacefully' -> Passive: 'Peacefully was slept by him']",
+    "options": [
+      "Active: 'He wrote a letter' -> Passive: 'A letter was written by him'",
+      "Active: 'She ate an apple' -> Passive: 'An apple was eaten by her'",
+      "Active: 'They built a bridge' -> Passive: 'A bridge was built by them'",
+      "Active: 'He slept peacefully' -> Passive: 'Peacefully was slept by him'"
+    ],
+    "correctAnswer": 3,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "'Slept' is an INTRANSITIVE verb lacking a direct object; intransitive verbs CANNOT be converted into passive voice."
+  },
+  {
+    "classLevel": 6,
+    "subject": "English",
+    "chapter": "Chapter 11: Comprehensive Literature Review & Applied Grammar",
+    "question": "Analyze the contextual tone in Kalpana Chawla's historic message from Columbia space shuttle to Indian students:\n'The path from dreams to success does exist. May you have the vision to find it, the courage to get onto it, and the perseverance to follow it.'\nWhat three cardinal virtues are celebrated here?",
+    "options": [
+      "Vision (clarity of purpose), Courage (bravery to begin), and Perseverance (tenacious resilience to endure)",
+      "Wealth, Fame, and Pride",
+      "Speed, Anger, and Power",
+      "Luck, Magic, and Fortune"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "Chawla's rhetoric structures an inspirational triadic schema: Vision, Courage, and Perseverance."
+  },
+  {
+    "classLevel": 6,
+    "subject": "English",
+    "chapter": "Chapter 11: Comprehensive Literature Review & Applied Grammar",
+    "question": "Match Column I (Phrasal Verbs) with Column II (Exact Definitions):\n(a) Call off     -> (i) Extinguish a fire\n(b) Put out      -> (ii) Cancel an event completely\n(c) Look into    -> (iii) Tolerate / endure an unpleasant situation\n(d) Put up with  -> (iv) Investigate or examine closely",
+    "options": [
+      "a-(ii), b-(i), c-(iv), d-(iii)",
+      "a-(i), b-(ii), c-(iii), d-(iv)",
+      "a-(iv), b-(iii), c-(ii), d-(i)",
+      "a-(iii), b-(iv), c-(i), d-(ii)"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "Call off = cancel; Put out = extinguish; Look into = investigate; Put up with = tolerate."
+  },
+  {
+    "classLevel": 6,
+    "subject": "English",
+    "chapter": "Chapter 11: Comprehensive Literature Review & Applied Grammar",
+    "question": "Read the statements regarding English grammar:\nStatement 1: 'Neither of the answers is correct' is grammatically correct because 'Neither' is singular.\nStatement 2: Direct speech questions with 'Wh-' words (who, where, why) do NOT use 'if' or 'whether' in indirect speech.\nStatement 3: Transitive verbs do not require an object.\nWhich statements are TRUE?",
+    "options": [
+      "Statements 1 and 2 only",
+      "Statements 2 and 3 only",
+      "Statements 1 and 3 only",
+      "All Statements 1, 2, and 3"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "Statement 3 is false because transitive verbs inherently mandate direct objects. Statements 1 and 2 are true."
+  },
+  {
+    "classLevel": 6,
+    "subject": "English",
+    "chapter": "Chapter 11: Comprehensive Literature Review & Applied Grammar",
+    "question": "Transform the compound sentence into a COMPLEX sentence using an Adverb Clause of Concession:\n'He was very poor, yet he remained scrupulously honest.'",
+    "options": [
+      "'Although he was very poor, he remained scrupulously honest.'",
+      "'He was poor and honest.'",
+      "'Being poor, he was honest.'",
+      "'Because he was poor, he was honest.'"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "'Although/Even though' introduces a subordinate Adverb Clause of Concession."
+  },
+  {
+    "classLevel": 6,
+    "subject": "English",
+    "chapter": "Chapter 11: Comprehensive Literature Review & Applied Grammar",
+    "question": "What is the grammatical error in the sentence: 'The flock of sheep were grazing on the hillside.'?",
+    "options": [
+      "The collective noun 'flock' is singular and requires the singular verb 'was grazing'",
+      "'Flock' should be spelled 'flook'",
+      "'Sheep' should be written as 'sheeps'",
+      "'Hillside' is spelled incorrectly"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "Collective noun 'flock' takes singular grammatical agreement: 'The flock of sheep was grazing'."
+  },
+  {
+    "classLevel": 6,
+    "subject": "English",
+    "chapter": "Chapter 11: Comprehensive Literature Review & Applied Grammar",
+    "question": "Identify the figure of speech in: 'The lightning danced across the dark sky.'",
+    "options": [
+      "Personification (attributing the human voluntary action of 'dancing' to inanimate lightning)",
+      "Simile",
+      "Hyperbole",
+      "Oxymoron"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "Endowing natural phenomena with human kinetic agency constitutes Personification."
+  },
+  {
+    "classLevel": 6,
+    "subject": "English",
+    "chapter": "Chapter 11: Comprehensive Literature Review & Applied Grammar",
+    "question": "Convert into Indirect Speech:\nShe said, \"Alas! I have lost my grandmother's golden ring.\"",
+    "options": [
+      "She exclaimed with sorrow that she had lost her grandmother's golden ring.",
+      "She said alas that she lost her ring.",
+      "She asked why she lost her golden ring.",
+      "She shouted that I lost my ring."
+    ],
+    "correctAnswer": 0,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "Exclamatory grief marker 'Alas!' converts to 'exclaimed with sorrow/grief that + past perfect'."
+  },
+  {
+    "classLevel": 6,
+    "subject": "English",
+    "chapter": "Chapter 11: Comprehensive Literature Review & Applied Grammar",
+    "question": "What is the meaning of the Latin phrase 'Vice Versa' used in English?",
+    "options": [
+      "With the order or relation reversed (the other way around)",
+      "In bad faith",
+      "With great speed",
+      "Without any doubt"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "'Vice versa' indicates that the reverse of the stated proposition is equally valid."
+  },
+  {
+    "classLevel": 6,
+    "subject": "English",
+    "chapter": "Chapter 11: Comprehensive Literature Review & Applied Grammar",
+    "question": "Which of the following sentences exhibits correct MODAL AUXILIARY usage to express moral obligation and duty?",
+    "options": [
+      "'We ought to respect our parents and teachers.'",
+      "'We might respect our parents.'",
+      "'We can to respect our parents.'",
+      "'We would to respect our parents.'"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "'Ought to' expresses ethical and moral duty/obligation."
+  },
+  {
+    "classLevel": 6,
+    "subject": "English",
+    "chapter": "Chapter 11: Comprehensive Literature Review & Applied Grammar",
+    "question": "What core communicative and linguistic competency does mastery of applied grammar cultivate in young scholars?",
+    "options": [
+      "Precision of thought, analytical reading comprehension, eloquent rhetorical expression, and ethical literary appreciation",
+      "Rote memorization of words without meaning",
+      "Speaking without grammar rules",
+      "Writing books in code"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "Applied linguistics bridges structural grammatical precision with nuanced cognitive and empathetic literary expression."
+  },
+  {
+    "classLevel": 6,
+    "subject": "GK",
+    "chapter": "Chapter 11: Great Inventions, Famous Scientists, Space Missions & Modern Technology",
+    "question": "Who is celebrated as the 'Missile Man of India' and served as the 11th President of India (2002–2007)?",
+    "options": [
+      "Dr. A.P.J. Abdul Kalam (Avul Pakir Jainulabdeen Abdul Kalam)",
+      "Dr. Homi J. Bhabha",
+      "Dr. Vikram Sarabhai",
+      "Dr. K. Sivan"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "Dr. A.P.J. Abdul Kalam led the development of India's indigenous missile systems (Agni, Prithvi) and SLV-3."
+  },
+  {
+    "classLevel": 6,
+    "subject": "GK",
+    "chapter": "Chapter 11: Great Inventions, Famous Scientists, Space Missions & Modern Technology",
+    "question": "Who was the FIRST Indian scientist to win the Nobel Prize in Physics in 1930 for discovering the scattering of light?",
+    "options": [
+      "Sir C.V. Raman (Chandrasekhara Venkata Raman)",
+      "Jagadish Chandra Bose",
+      "Satyendra Nath Bose",
+      "Meghnad Saha"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "Sir C.V. Raman discovered the Raman Effect on 28 February 1928, celebrated annually as National Science Day in India."
+  },
+  {
+    "classLevel": 6,
+    "subject": "GK",
+    "chapter": "Chapter 11: Great Inventions, Famous Scientists, Space Missions & Modern Technology",
+    "question": "Why is 'National Science Day' celebrated across India every year on 28th February?",
+    "options": [
+      "To commemorate Sir C.V. Raman's historic discovery of the 'Raman Effect' on 28th February 1928",
+      "To celebrate the launch of India's first satellite",
+      "To mark the founding of ISRO",
+      "To celebrate Dr. Kalam's birthday"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "The Government of India designated 28 February as National Science Day in 1986 to honor the Raman Effect discovery."
+  },
+  {
+    "classLevel": 6,
+    "subject": "GK",
+    "chapter": "Chapter 11: Great Inventions, Famous Scientists, Space Missions & Modern Technology",
+    "question": "Who is reverently regarded as the 'Father of the Indian Space Programme'?",
+    "options": [
+      "Dr. Vikram Sarabhai",
+      "Dr. Homi Bhabha",
+      "Dr. Satish Dhawan",
+      "Dr. U.R. Rao"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "Dr. Vikram Sarabhai founded ISRO in 1969 and established the Thumba Equatorial Rocket Launching Station."
+  },
+  {
+    "classLevel": 6,
+    "subject": "GK",
+    "chapter": "Chapter 11: Great Inventions, Famous Scientists, Space Missions & Modern Technology",
+    "question": "What was India's FIRST indigenous artificial satellite, launched into space on 19th April 1975, named after?",
+    "options": [
+      "Aryabhata (named after ancient Indian astronomer-mathematician)",
+      "Bhaskara I",
+      "Rohini",
+      "INSAT-1A"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "Aryabhata, built by ISRO and launched by a Soviet Kosmos-3M rocket in 1975, marked India's entry into the space age."
+  },
+  {
+    "classLevel": 6,
+    "subject": "GK",
+    "chapter": "Chapter 11: Great Inventions, Famous Scientists, Space Missions & Modern Technology",
+    "question": "On 23rd August 2023, India's Chandrayaan-3 mission made history by becoming the FIRST country in the world to successfully land a spacecraft near which region of the Moon?",
+    "options": [
+      "Lunar South Pole (Shiv Shakti Point)",
+      "Lunar North Pole",
+      "Sea of Tranquility",
+      "Ocean of Storms"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "On 23 August 2023, Chandrayaan-3's Vikram lander touched down at 69.37°S near the lunar south pole (celebrated as National Space Day)."
+  },
+  {
+    "classLevel": 6,
+    "subject": "GK",
+    "chapter": "Chapter 11: Great Inventions, Famous Scientists, Space Missions & Modern Technology",
+    "question": "What was the name of the robotic lunar rover carried inside Chandrayaan-3's Vikram lander that rolled onto the moon's surface?",
+    "options": [
+      "Pragyan Rover ('Wisdom')",
+      "Vikram",
+      "Pushpak",
+      "Gaganyaan"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "The 26 kg 6-wheeled Pragyan rover conducted in-situ elemental composition analysis of lunar regolith."
+  },
+  {
+    "classLevel": 6,
+    "subject": "GK",
+    "chapter": "Chapter 11: Great Inventions, Famous Scientists, Space Missions & Modern Technology",
+    "question": "What was India's historic maiden interplanetary mission to Mars, launched by ISRO in 2013 that entered Martian orbit on its FIRST attempt?",
+    "options": [
+      "Mangalyaan (Mars Orbiter Mission - MOM)",
+      "Chandrayaan-1",
+      "Aditya-L1",
+      "Astrosat"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "ISRO's Mangalyaan made India the first Asian nation to reach Mars orbit and the first in the world to do so on maiden attempt."
+  },
+  {
+    "classLevel": 6,
+    "subject": "GK",
+    "chapter": "Chapter 11: Great Inventions, Famous Scientists, Space Missions & Modern Technology",
+    "question": "Who was the FIRST Indian citizen to travel into outer space (aboard Soviet Soyuz T-11 on 3rd April 1984)?",
+    "options": [
+      "Wing Commander Rakesh Sharma",
+      "Kalpana Chawla",
+      "Sunita Williams",
+      "Raja Chari"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "Rakesh Sharma spent 7 days aboard Salyut 7 in 1984, famously describing India as 'Saare Jahan Se Achha' from space."
+  },
+  {
+    "classLevel": 6,
+    "subject": "GK",
+    "chapter": "Chapter 11: Great Inventions, Famous Scientists, Space Missions & Modern Technology",
+    "question": "Who is the prolific American inventor credited with inventing the practical Incandescent Electric Light Bulb, Phonograph, and Motion Picture Camera?",
+    "options": [
+      "Thomas Alva Edison",
+      "Alexander Graham Bell",
+      "Nikola Tesla",
+      "Benjamin Franklin"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "Thomas Edison held 1,093 US patents, establishing the world's first industrial research lab in Menlo Park."
+  },
+  {
+    "classLevel": 6,
+    "subject": "GK",
+    "chapter": "Chapter 11: Great Inventions, Famous Scientists, Space Missions & Modern Technology",
+    "question": "Who invented the practical Telephone in 1876, revolutionizing global human voice communication?",
+    "options": [
+      "Alexander Graham Bell",
+      "Guglielmo Marconi",
+      "Samuel Morse",
+      "Michael Faraday"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "Alexander Graham Bell was awarded the foundational patent for electrical speech transmission via telephone in 1876."
+  },
+  {
+    "classLevel": 6,
+    "subject": "GK",
+    "chapter": "Chapter 11: Great Inventions, Famous Scientists, Space Missions & Modern Technology",
+    "question": "Who discovered the Universal Law of Gravitation and the Three Fundamental Laws of Motion in 1687?",
+    "options": [
+      "Sir Isaac Newton",
+      "Albert Einstein",
+      "Galileo Galilei",
+      "Johannes Kepler"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "Sir Isaac Newton published 'Philosophiae Naturalis Principia Mathematica', founding classical mechanics and gravitation."
+  },
+  {
+    "classLevel": 6,
+    "subject": "GK",
+    "chapter": "Chapter 11: Great Inventions, Famous Scientists, Space Missions & Modern Technology",
+    "question": "What is India's dedicated maiden solar space observatory mission launched by ISRO in September 2023 to study the Sun from Lagrange Point 1 (L1)?",
+    "options": [
+      "Aditya-L1",
+      "Helios-1",
+      "Surya-1",
+      "Solar Orbiter"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "Aditya-L1 was inserted into a halo orbit around the Sun-Earth L1 Lagrangian point (1.5 million km from Earth) to observe the solar corona."
+  },
+  {
+    "classLevel": 6,
+    "subject": "GK",
+    "chapter": "Chapter 11: Great Inventions, Famous Scientists, Space Missions & Modern Technology",
+    "question": "Who was the pioneering Indian polymath and scientist who invented the 'Crescograph' to measure plant growth and proved that plants feel sensations and respond to stimuli?",
+    "options": [
+      "Sir Jagadish Chandra Bose (J.C. Bose)",
+      "P.C. Ray",
+      "C.V. Raman",
+      "S. Ramanujan"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "Sir J.C. Bose pioneered millimeter radio microwaves (wireless telegraphy) and demonstrated plant electro-physiology with the crescograph."
+  },
+  {
+    "classLevel": 6,
+    "subject": "GK",
+    "chapter": "Chapter 11: Great Inventions, Famous Scientists, Space Missions & Modern Technology",
+    "question": "Who was the brilliant Indian mathematical prodigy whose self-taught theorems in number theory, infinite series, and mock theta functions stunned Cambridge mathematicians like G.H. Hardy?",
+    "options": [
+      "Srinivasa Ramanujan (1887–1920)",
+      "Aryabhata",
+      "Brahmagupta",
+      "Prasanta Chandra Mahalanobis"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "Srinivasa Ramanujan compiled nearly 3,900 mathematical identities; his birthday on 22 December is National Mathematics Day in India."
+  },
+  {
+    "classLevel": 6,
+    "subject": "GK",
+    "chapter": "Chapter 11: Great Inventions, Famous Scientists, Space Missions & Modern Technology",
+    "question": "Who is celebrated as the 'Father of the Indian Nuclear Programme' who founded the Tata Institute of Fundamental Research (TIFR) and Bhabha Atomic Research Centre (BARC)?",
+    "options": [
+      "Dr. Homi Jehangir Bhabha",
+      "Dr. Raja Ramanna",
+      "Dr. Vikram Sarabhai",
+      "Dr. Anil Kakodkar"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "Dr. Homi Bhabha formulated India's three-stage nuclear power programme utilizing indigenous thorium reserves."
+  },
+  {
+    "classLevel": 6,
+    "subject": "GK",
+    "chapter": "Chapter 11: Great Inventions, Famous Scientists, Space Missions & Modern Technology",
+    "question": "Who formulated the revolutionary Theory of Special Relativity (E = mc²) and General Relativity, winning the 1921 Nobel Prize in Physics for explaining the Photoelectric Effect?",
+    "options": [
+      "Albert Einstein",
+      "Niels Bohr",
+      "Max Planck",
+      "Werner Heisenberg"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "Albert Einstein revolutionized 20th-century physics with mass-energy equivalence (E = mc²) and spacetime curvature."
+  },
+  {
+    "classLevel": 6,
+    "subject": "GK",
+    "chapter": "Chapter 11: Great Inventions, Famous Scientists, Space Missions & Modern Technology",
+    "question": "Who discovered the miracle antibiotic medicine 'Penicillin' in 1928 from the mold Penicillium notatum, saving hundreds of millions of lives from bacterial infections?",
+    "options": [
+      "Sir Alexander Fleming",
+      "Louis Pasteur",
+      "Edward Jenner",
+      "Robert Koch"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "Alexander Fleming's accidental discovery of penicillin at St Mary's Hospital ushered in the modern antibiotic era."
+  },
+  {
+    "classLevel": 6,
+    "subject": "GK",
+    "chapter": "Chapter 11: Great Inventions, Famous Scientists, Space Missions & Modern Technology",
+    "question": "Who developed the world's FIRST successful Vaccine (Smallpox Vaccine in 1796), founding the medical science of Immunology?",
+    "options": [
+      "Edward Jenner",
+      "Louis Pasteur",
+      "Jonas Salk",
+      "Alexander Fleming"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "Edward Jenner inoculated James Phipps with cowpox pustule matter in 1796, pioneering cross-immunity vaccination against deadly smallpox."
+  },
+  {
+    "classLevel": 6,
+    "subject": "GK",
+    "chapter": "Chapter 11: Great Inventions, Famous Scientists, Space Missions & Modern Technology",
+    "question": "Who invented the World Wide Web (WWW) in 1989 at CERN, Switzerland, giving it freely to humanity to launch the global internet age?",
+    "options": [
+      "Sir Tim Berners-Lee",
+      "Bill Gates",
+      "Steve Jobs",
+      "Vint Cerf"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "Tim Berners-Lee designed HTTP, HTML, and URL protocols at CERN in 1989, releasing WWW royalty-free in 1993."
+  },
+  {
+    "classLevel": 6,
+    "subject": "GK",
+    "chapter": "Chapter 11: Great Inventions, Famous Scientists, Space Missions & Modern Technology",
+    "question": "What is 'Artificial Intelligence' (AI) in computer science?",
+    "options": [
+      "The simulation of human intelligence processes (learning, reasoning, problem solving, visual perception) by computer systems and algorithms",
+      "A robot made of plastic",
+      "A fast typewriter",
+      "A video game with lights"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "AI encompasses machine learning, deep neural networks, and natural language models replicating cognitive faculties."
+  },
+  {
+    "classLevel": 6,
+    "subject": "GK",
+    "chapter": "Chapter 11: Great Inventions, Famous Scientists, Space Missions & Modern Technology",
+    "question": "Who was the pioneering female scientist who won TWO Nobel Prizes in two different scientific fields (Physics in 1903 and Chemistry in 1911) for her research on Radioactivity and discovery of Radium & Polonium?",
+    "options": [
+      "Marie Curie (Madame Curie)",
+      "Rosalind Franklin",
+      "Ada Lovelace",
+      "Lise Meitner"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "Marie Curie remains the only person to win Nobel Prizes in two distinct scientific disciplines (Physics & Chemistry)."
+  },
+  {
+    "classLevel": 6,
+    "subject": "GK",
+    "chapter": "Chapter 11: Great Inventions, Famous Scientists, Space Missions & Modern Technology",
+    "question": "Who is recognized as the world's FIRST Computer Programmer for writing an algorithm for Charles Babbage's mechanical Analytical Engine in the 1840s?",
+    "options": [
+      "Ada Lovelace (Augusta Ada King)",
+      "Grace Hopper",
+      "Alan Turing",
+      "Katherine Johnson"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "Ada Lovelace published the first machine algorithm for Bernoulli numbers, foreseeing general-purpose computing."
+  },
+  {
+    "classLevel": 6,
+    "subject": "GK",
+    "chapter": "Chapter 11: Great Inventions, Famous Scientists, Space Missions & Modern Technology",
+    "question": "Who is celebrated as the 'Father of Computers' for designing the mechanical Difference Engine and Analytical Engine in the 19th century?",
+    "options": [
+      "Charles Babbage",
+      "Alan Turing",
+      "John von Neumann",
+      "Blaise Pascal"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "Charles Babbage conceived the fundamental architectural concepts (CPU 'mill', memory 'store', punched card I/O) of modern computers."
+  },
+  {
+    "classLevel": 6,
+    "subject": "GK",
+    "chapter": "Chapter 11: Great Inventions, Famous Scientists, Space Missions & Modern Technology",
+    "question": "What is India's ambitious upcoming human spaceflight mission by ISRO that aims to send Indian astronauts ('Gaganyatris') into Low Earth Orbit aboard an indigenous orbital module?",
+    "options": [
+      "Gaganyaan Mission",
+      "Chandrayaan",
+      "Mangalyaan",
+      "Shukrayaan"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "ISRO's Gaganyaan programme will demonstrate crewed spaceflight capability, launching 3 astronauts to 400 km LEO for 3 days."
+  },
+  {
+    "classLevel": 6,
+    "subject": "GK",
+    "chapter": "Chapter 11: Great Inventions, Famous Scientists, Space Missions & Modern Technology",
+    "question": "What is the primary rocket launch center of ISRO located on the barrier island of Sriharikota in Andhra Pradesh called?",
+    "options": [
+      "Satish Dhawan Space Centre (SDSC SHAR)",
+      "Vikram Sarabhai Space Centre",
+      "Thumba Rocket Station",
+      "UR Rao Satellite Centre"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "SDSC SHAR in Sriharikota provides equatorial azimuth launchpads for PSLV, GSLV, and LVM3 heavy-lift rockets."
+  },
+  {
+    "classLevel": 6,
+    "subject": "GK",
+    "chapter": "Chapter 11: Great Inventions, Famous Scientists, Space Missions & Modern Technology",
+    "question": "Who discovered that the Earth and planets revolve around the Sun (Heliocentric Model of the Solar System) in 1543, overturning the ancient Geocentric theory?",
+    "options": [
+      "Nicolaus Copernicus",
+      "Ptolemy",
+      "Galileo Galilei",
+      "Tycho Brahe"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "Copernicus's 'De revolutionibus orbium coelestium' established the heliocentric astronomical paradigm."
+  },
+  {
+    "classLevel": 6,
+    "subject": "GK",
+    "chapter": "Chapter 11: Great Inventions, Famous Scientists, Space Missions & Modern Technology",
+    "question": "What revolutionary mobile technology communication standard rolled out in India in 2022 provides ultra-fast gigabit internet speeds and ultra-low latency for smart cities and IoT?",
+    "options": [
+      "5G (5th Generation Mobile Network)",
+      "3G",
+      "4G LTE",
+      "2G"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "5G mmWave and sub-6GHz networks enable multi-Gbps peak data speeds, massive machine-type communications, and edge computing."
+  },
+  {
+    "classLevel": 6,
+    "subject": "GK",
+    "chapter": "Chapter 11: Great Inventions, Famous Scientists, Space Missions & Modern Technology",
+    "question": "Read the statements:\nAssertion (A): On 23rd August 2023, the Government of India officially declared 23rd August as 'National Space Day'.\nReason (R): On this historic day, ISRO's Chandrayaan-3 successfully touched down on the unexplored South Pole region of the Moon, making India the 4th nation to achieve a soft lunar landing and the 1st at the lunar south pole.\nChoose the correct option:",
+    "options": [
+      "Both (A) and (R) are true, and (R) is the correct explanation of (A).",
+      "Both (A) and (R) are true, but (R) is NOT the correct explanation of (A).",
+      "(A) is true, but (R) is false.",
+      "(A) is false, but (R) is true."
+    ],
+    "correctAnswer": 0,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "Prime Minister Narendra Modi designated 23 August as National Space Day to celebrate Chandrayaan-3's historic lunar touchdown."
+  },
+  {
+    "classLevel": 6,
+    "subject": "GK",
+    "chapter": "Chapter 11: Great Inventions, Famous Scientists, Space Missions & Modern Technology",
+    "question": "Spot the IMPOSTER in the following group of Indian space missions matched with their primary celestial targets:\nGroup: [Chandrayaan-3 - Moon, Mangalyaan - Mars, Aditya-L1 - Sun, Astrosat - Jupiter surface rover]",
+    "options": [
+      "Chandrayaan-3 - Moon",
+      "Mangalyaan - Mars",
+      "Aditya-L1 - Sun",
+      "Astrosat - Jupiter surface rover"
+    ],
+    "correctAnswer": 3,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "Astrosat is India's dedicated multi-wavelength SPACE ASTRONOMY TELESCOPE in Earth orbit, NOT a Jupiter surface rover."
+  },
+  {
+    "classLevel": 6,
+    "subject": "GK",
+    "chapter": "Chapter 11: Great Inventions, Famous Scientists, Space Missions & Modern Technology",
+    "question": "Who was the eminent Indian theoretical physicist whose collaborative quantum statistical work with Albert Einstein in 1924 predicted a new fifth state of matter at near absolute zero temperatures called:",
+    "options": [
+      "Satyendra Nath Bose (Bose-Einstein Condensate - BEC ; subatomic particles named 'Bosons' in his honour)",
+      "Meghnad Saha",
+      "Homi Bhabha",
+      "Vikram Sarabhai"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "Satyendra Nath Bose's quantum statistics foundation for integral-spin particles led to the naming of 'Bosons' and the Bose-Einstein Condensate."
+  },
+  {
+    "classLevel": 6,
+    "subject": "GK",
+    "chapter": "Chapter 11: Great Inventions, Famous Scientists, Space Missions & Modern Technology",
+    "question": "Match Column I (Great Inventions) with Column II (Inventors / Discoverers):\n(a) World Wide Web (WWW) -> (i) Edward Jenner (1796)\n(b) Smallpox Vaccine     -> (ii) Sir Tim Berners-Lee (1989)\n(c) Penicillin           -> (iii) Alexander Graham Bell (1876)\n(d) Telephone            -> (iv) Sir Alexander Fleming (1928)",
+    "options": [
+      "a-(ii), b-(i), c-(iv), d-(iii)",
+      "a-(i), b-(ii), c-(iii), d-(iv)",
+      "a-(iv), b-(iii), c-(ii), d-(i)",
+      "a-(iii), b-(iv), c-(i), d-(ii)"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "WWW = Berners-Lee; Vaccine = Jenner; Penicillin = Fleming; Telephone = Bell."
+  },
+  {
+    "classLevel": 6,
+    "subject": "GK",
+    "chapter": "Chapter 11: Great Inventions, Famous Scientists, Space Missions & Modern Technology",
+    "question": "Read the statements regarding space science:\nStatement 1: The 'Hardy-Ramanujan Number' is 1729, the smallest number expressible as the sum of two positive cubes in two different ways (1³ + 12³ and 9³ + 10³).\nStatement 2: Chandrayaan-1 discovered widespread water molecules (H₂O/OH hydroxyl) on the Moon in 2008 using the Moon Mineralogy Mapper (M3).\nStatement 3: Sound waves travel faster in outer space vacuum than on Earth.\nWhich statements are TRUE?",
+    "options": [
+      "Statements 1 and 2 only",
+      "Statements 2 and 3 only",
+      "Statements 1 and 3 only",
+      "All Statements 1, 2, and 3"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "Statement 3 is completely false because sound cannot propagate in vacuum at all. Statements 1 and 2 are mathematical and astronautical facts."
+  },
+  {
+    "classLevel": 6,
+    "subject": "GK",
+    "chapter": "Chapter 11: Great Inventions, Famous Scientists, Space Missions & Modern Technology",
+    "question": "What is the famous astrophysics limit discovered by Indian-American Nobel laureate Subrahmanyan Chandrasekhar governing the maximum stable mass of a White Dwarf star?",
+    "options": [
+      "Chandrasekhar Limit (~1.44 Solar Masses)",
+      "Event Horizon Limit",
+      "Hubble Constant",
+      "Hawking Radiation Limit"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "The Chandrasekhar limit (~1.44 M☉) establishes the mass threshold beyond which electron degeneracy pressure collapses into neutron stars/black holes."
+  },
+  {
+    "classLevel": 6,
+    "subject": "GK",
+    "chapter": "Chapter 11: Great Inventions, Famous Scientists, Space Missions & Modern Technology",
+    "question": "What is the specialized Cryogenic Upper Stage engine developed indigenously by ISRO for launching heavy communication satellites via the LVM3 (GSLV Mk-III) rocket called?",
+    "options": [
+      "CE-20 Cryogenic Engine (burning Liquid Hydrogen at -253°C and Liquid Oxygen at -183°C)",
+      "Vikas Engine",
+      "Semi-Cryogenic SCE-200",
+      "Kalam Engine"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "The CE-20 is an indigenous staged-combustion cryogenic rocket engine powering LVM3 upper stages with high specific impulse."
+  },
+  {
+    "classLevel": 6,
+    "subject": "GK",
+    "chapter": "Chapter 11: Great Inventions, Famous Scientists, Space Missions & Modern Technology",
+    "question": "What is India's indigenous satellite navigation constellation system developed by ISRO (equivalent to the US GPS system) officially named?",
+    "options": [
+      "NavIC (Navigation with Indian Constellation / IRNSS)",
+      "GAGAN",
+      "Bhuvan",
+      "Bhartiya GPS"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "NavIC operates a constellation of geostationary and geosynchronous satellites providing real-time positioning across India and 1,500 km beyond."
+  },
+  {
+    "classLevel": 6,
+    "subject": "GK",
+    "chapter": "Chapter 11: Great Inventions, Famous Scientists, Space Missions & Modern Technology",
+    "question": "Who was the visionary British computer scientist who cracked the German Enigma code in World War II at Bletchley Park, conceptualized the 'Turing Machine', and is regarded as the Father of Theoretical Computer Science and AI?",
+    "options": [
+      "Alan Turing",
+      "John von Neumann",
+      "Claude Shannon",
+      "Norbert Wiener"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "Alan Turing formulated universal computation theory, machine intelligence criteria (Turing Test), and cryptanalytic Bombe machines."
+  },
+  {
+    "classLevel": 6,
+    "subject": "GK",
+    "chapter": "Chapter 11: Great Inventions, Famous Scientists, Space Missions & Modern Technology",
+    "question": "What is the biological gene-editing molecular technology that acts as 'molecular scissors' allowing scientists to alter DNA sequences with pinpoint precision, awarded the 2020 Nobel Prize in Chemistry?",
+    "options": [
+      "CRISPR-Cas9 Gene Editing",
+      "Polymerase Chain Reaction (PCR)",
+      "Stem Cell Therapy",
+      "Recombinant Cloning"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "CRISPR-Cas9 (developed by Emmanuelle Charpentier and Jennifer Doudna) enables targeted genomic DNA cleavage and sequence modification."
+  },
+  {
+    "classLevel": 6,
+    "subject": "GK",
+    "chapter": "Chapter 11: Great Inventions, Famous Scientists, Space Missions & Modern Technology",
+    "question": "What is the groundbreaking scientific project that captured the FIRST EVER direct image of a Supermassive Black Hole's event horizon (in galaxy M87) in 2019 using a global network of synchronized radio telescopes?",
+    "options": [
+      "Event Horizon Telescope (EHT)",
+      "James Webb Space Telescope",
+      "Hubble Space Telescope",
+      "Square Kilometre Array"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "The global Event Horizon Telescope (EHT) array utilized very-long-baseline interferometry (VLBI) to resolve the shadow of M87*."
+  },
+  {
+    "classLevel": 6,
+    "subject": "GK",
+    "chapter": "Chapter 11: Great Inventions, Famous Scientists, Space Missions & Modern Technology",
+    "question": "What overarching national vision guided Dr. Vikram Sarabhai when he founded India's space programme in the 1960s?",
+    "options": [
+      "Using cutting-edge advanced science and space technology directly to solve real socioeconomic problems of the nation (tele-education, weather forecasting, agriculture, disaster management)",
+      "Building weapons to conquer other planets",
+      "Competing in space tourism for billionaires",
+      "Stopping all other scientific research"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "Sarabhai's doctrine dedicated space technology directly to societal upliftment: farmer communication, monsoon meteorology, and remote education."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Social Science",
+    "chapter": "Chapter 11: New Empires and Kingdoms",
+    "question": "What is a 'Prashasti' in ancient Indian history?",
+    "options": [
+      "A special royal inscription composed by court poets in praise of a king's lineage, conquests, and virtues (from Sanskrit 'prashasti' meaning 'in praise of')",
+      "A tax collection receipt",
+      "A religious temple bell",
+      "A map of a battlefield"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "Prashastis were eulogistic royal epigraphs composed in Sanskrit celebrating royal ancestry and military victories."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Social Science",
+    "chapter": "Chapter 11: New Empires and Kingdoms",
+    "question": "Which famous Gupta ruler is celebrated in the famous 'Allahabad Pillar Inscription' (Prayag Prashasti), composed by his court poet Harisena?",
+    "options": [
+      "Samudragupta",
+      "Chandragupta I",
+      "Ashoka",
+      "Harshavardhana"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "Harisena composed the Sanskrit Prayag Prashasti on an Ashokan pillar in Allahabad, detailing Samudragupta's campaigns."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Social Science",
+    "chapter": "Chapter 11: New Empires and Kingdoms",
+    "question": "How is the great Gupta emperor Samudragupta depicted playing a musical instrument on his famous gold coins?",
+    "options": [
+      "Playing the Veena (string instrument)",
+      "Playing the flute",
+      "Playing the drum (mridangam)",
+      "Playing the trumpet"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "Gold coins depicting Samudragupta seated on a couch playing the veena highlight his accomplishments as a poet-musician ('Kaviraja')."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Social Science",
+    "chapter": "Chapter 11: New Empires and Kingdoms",
+    "question": "Which title meaning 'Great King of Kings' was adopted by Chandragupta I and his son Samudragupta?",
+    "options": [
+      "Maharajadhiraja",
+      "Raja",
+      "Maharaja",
+      "Samanta"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "The imperial title 'Maharajadhiraja' signified supreme sovereign authority over lesser subordinate rulers."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Social Science",
+    "chapter": "Chapter 11: New Empires and Kingdoms",
+    "question": "Which famous Gupta ruler defeated the Shakas in western India and adopted the renowned title 'Vikramaditya'?",
+    "options": [
+      "Chandragupta II (Vikramaditya)",
+      "Samudragupta",
+      "Kumaragupta",
+      "Skandagupta"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "Chandragupta II extinguished Shaka rule in Gujarat and Malwa, establishing his court adorned by the 'Navaratnas'."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Social Science",
+    "chapter": "Chapter 11: New Empires and Kingdoms",
+    "question": "Who was the legendary Sanskrit poet and dramatist (author of 'Abhijnanashakuntalam' and 'Meghaduta') who adorned the court of Chandragupta II?",
+    "options": [
+      "Kalidasa",
+      "Banabhatta",
+      "Harisena",
+      "Ravikirti"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "Kalidasa, celebrated as the Shakespeare of India, was the foremost jewel among Chandragupta II's Navaratnas."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Social Science",
+    "chapter": "Chapter 11: New Empires and Kingdoms",
+    "question": "Who ruled northern India from Kannauj around 1400 years ago (606–647 CE), whose biography 'Harshacharita' was written in Sanskrit by his court poet Banabhatta?",
+    "options": [
+      "Harshavardhana",
+      "Samudragupta",
+      "Pulakeshin II",
+      "Mahendravarman I"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "Harshavardhana of the Pushyabhuti dynasty ruled northern India from Kannauj; Banabhatta authored his biography 'Harshacharita'."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Social Science",
+    "chapter": "Chapter 11: New Empires and Kingdoms",
+    "question": "Which powerful Chalukya king of the Deccan defeated King Harshavardhana on the banks of the Narmada River when Harsha attempted to march into south India?",
+    "options": [
+      "Pulakeshin II",
+      "Kirtivarman I",
+      "Vikramaditya I",
+      "Dantidurga"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "Pulakeshin II halted Harsha's southward expansion at the Narmada (c. 618 CE), celebrated in the Aihole inscription."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Social Science",
+    "chapter": "Chapter 11: New Empires and Kingdoms",
+    "question": "Who was the court poet of Pulakeshin II who composed the famous 'Aihole Prashasti' in Sanskrit verse on the Meguti Jain temple wall?",
+    "options": [
+      "Ravikirti",
+      "Banabhatta",
+      "Harisena",
+      "Dandin"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "Ravikirti composed the Aihole inscription in 634 CE, describing Pulakeshin II's military triumphs across Peninsular India."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Social Science",
+    "chapter": "Chapter 11: New Empires and Kingdoms",
+    "question": "What was the capital city of the powerful Pallava dynasty, renowned as a magnificent center of temple architecture and Sanskrit learning?",
+    "options": [
+      "Kanchipuram (Kanchi)",
+      "Madurai",
+      "Badami (Vatapi)",
+      "Thanjavur"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "Kanchipuram was the religious and administrative capital of the Pallavas, dotted with grand structural stone temples."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Social Science",
+    "chapter": "Chapter 11: New Empires and Kingdoms",
+    "question": "What was the capital city of the Chalukyas, famous for its magnificent rock-cut and structural temples (like the Durga Temple)?",
+    "options": [
+      "Vatapi (modern Badami in Karnataka) and Aihole",
+      "Kanchipuram",
+      "Ujjain",
+      "Pataliputra"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "Vatapi (Badami) in the Malaprabha valley was the Chalukyan capital, with Aihole as an experimental temple architecture center."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Social Science",
+    "chapter": "Chapter 11: New Empires and Kingdoms",
+    "question": "In the Pallava and southern kingdoms, what were local village assemblies called?",
+    "options": [
+      "Sabha (Brahmana landholders), Ur (non-Brahmana village assembly), and Nagaram (merchant guild)",
+      "Panchayat and Grama",
+      "Samiti and Parishad",
+      "Shreni and Sangha"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "Southern rural administration operated through assemblies: Sabha (Brahmadeya landholders), Ur (peasant landowners), Nagaram (merchants)."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Social Science",
+    "chapter": "Chapter 11: New Empires and Kingdoms",
+    "question": "How did Harisena in the Allahabad Prashasti describe Samudragupta's differentiated policy towards the TWELVE rulers of 'Dakshinapatha' (South India)?",
+    "options": [
+      "They surrendered after being defeated, were magnanimously liberated by Samudragupta, and allowed to rule their kingdoms again on condition of paying regular tribute and obeisance (Dharma Vijaya)",
+      "They were all executed and their land was destroyed",
+      "They were taken to Pataliputra as prisoners forever",
+      "They were made to join the Roman army"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "Grahana-Mokshanugraha policy: Samudragupta defeated southern rulers, accepted their submission/tribute, and reinstated them."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Social Science",
+    "chapter": "Chapter 11: New Empires and Kingdoms",
+    "question": "How did Samudragupta treat the rulers of 'Aryavarta' (Northern Gangetic India)?",
+    "options": [
+      "Nine rulers of Aryavarta were uprooted completely and their territories were annexed directly into the Gupta Empire",
+      "He made peace treaties with them without war",
+      "He gave them half his gold",
+      "He allowed them to rule independently"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "Prasabhoddharana policy: the 9 Gangetic Aryavarta rulers were overthrown and their lands annexed into direct Gupta governance."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Social Science",
+    "chapter": "Chapter 11: New Empires and Kingdoms",
+    "question": "Who were the 'Samantas' in early medieval Indian administration?",
+    "options": [
+      "Military chieftains and feudal lords who provided armed troops to the king during war, collected local revenue, and paid tribute to the monarch",
+      "Foreign ambassadors from China",
+      "Buddhist monks living in caves",
+      "Peasant farmers who ploughed land"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "Samantas were feudal military vassals who maintained private retinues, remitted tribute, and revolted when central kings weakened."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Social Science",
+    "chapter": "Chapter 11: New Empires and Kingdoms",
+    "question": "What administrative change occurred in key government posts (such as 'Maha-danda-nayaka' / Chief Judicial Officer) during the Gupta era?",
+    "options": [
+      "Administrative posts became increasingly HEREDITARY (e.g. Harisena was a Maha-danda-nayaka just like his father Harisena before him)",
+      "Officers were selected through written computer exams",
+      "Kings replaced all officers every year",
+      "Officers had to be Roman citizens"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "Gupta bureaucracy became hereditary: sons inherited ministerial and judicial offices, concentrating local bureaucratic power."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Social Science",
+    "chapter": "Chapter 11: New Empires and Kingdoms",
+    "question": "What was a single official holding MULTIPLE administrative portfolios called during the Gupta period (e.g. Harisena being a Kumaramatya, Maha-danda-nayaka, and Sandhi-vigrahika)?",
+    "options": [
+      "Cumulation of offices (holding multiple concurrent ministerial, judicial, and diplomatic roles)",
+      "Military dictatorship",
+      "Feudal democracy",
+      "Monastic governance"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "Harisena held three concurrent ranks: Kumaramatya (minister), Maha-danda-nayaka (chief justice), and Sandhi-vigrahika (minister of war and peace)."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Social Science",
+    "chapter": "Chapter 11: New Empires and Kingdoms",
+    "question": "What does the title 'Sandhi-vigrahika' mean in Gupta administrative terminology?",
+    "options": [
+      "Minister of War and Peace (Foreign Affairs Minister)",
+      "Chief Police Officer",
+      "Treasury Collector",
+      "Royal Cook"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "'Sandhi' (treaty/alliance) + 'Vigraha' (warfare): Sandhi-vigrahika handled foreign diplomacy and military treaties."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Social Science",
+    "chapter": "Chapter 11: New Empires and Kingdoms",
+    "question": "What magnificent monolithic rock-cut shrines (known as the 'Five Rathas') and the Shore Temple were built by Pallava kings at:",
+    "options": [
+      "Mahabalipuram (Mamallapuram)",
+      "Kanchipuram",
+      "Aihole",
+      "Pattadakal"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "Narasimhavarman I (Mamalla) sculpted the monolithic Pancha Pandava Rathas and structural Shore Temple at coastal Mahabalipuram."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Social Science",
+    "chapter": "Chapter 11: New Empires and Kingdoms",
+    "question": "How did the poet Banabhatta describe King Harshavardhana's army marching through the countryside in 'Harshacharita'?",
+    "options": [
+      "A massive traveling city with elephants carrying musicians and luggage, horses, bullock carts laden with food, while villagers rushed to offer curds, molasses, and flowers",
+      "A tiny group of 5 soldiers walking silently in dark",
+      "Soldiers flying in balloons",
+      "A fleet of ocean submarines"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "Banabhatta's vivid prose depicts royal armies as colossal marching cities escorted by war elephants, music, and peasant offerings."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Social Science",
+    "chapter": "Chapter 11: New Empires and Kingdoms",
+    "question": "What language did the elite king and Brahmanas speak in Kalidasa's plays (like Abhijnanashakuntalam), while ordinary women and commoners spoke Prakrit?",
+    "options": [
+      "Sanskrit",
+      "Tamil",
+      "Greek",
+      "Latin"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "Classical Sanskrit drama used sociolinguistic diglossia: high-status males spoke refined Sanskrit while women and commoners spoke Prakrit."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Social Science",
+    "chapter": "Chapter 11: New Empires and Kingdoms",
+    "question": "How did the Chinese pilgrim Fa Xian describe the miserable condition of the 'Untouchables' (Chandalas) in 5th-century Indian cities?",
+    "options": [
+      "They lived outside the city walls, and when entering a town or marketplace, had to strike a piece of wood to announce their presence so people could avoid touching them",
+      "They were made governors of cities",
+      "They lived in royal palaces",
+      "They were celebrated as national heroes"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "Fa Xian's travelogue documented rigid caste untouchability and spatial segregation enforced on Chandalas."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Social Science",
+    "chapter": "Chapter 11: New Empires and Kingdoms",
+    "question": "Who was the great astronomer and mathematician of the Gupta era who wrote the 'Aryabhatiya', calculated the value of π (pi), and stated that the Earth rotates on its own axis?",
+    "options": [
+      "Aryabhata",
+      "Varahamihira",
+      "Brahmagupta",
+      "Bhaskaracharya"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "Aryabhata (born 476 CE in Pataliputra) authored the Aryabhatiya, formulating earth's axial rotation, solar/lunar eclipse math, and π = 3.1416."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Social Science",
+    "chapter": "Chapter 11: New Empires and Kingdoms",
+    "question": "What happened to the Chalukyas and Pallavas around the 8th century CE?",
+    "options": [
+      "They were gradually replaced by new rising dynasties: the Rashtrakutas (who eclipsed the Chalukyas in the Deccan) and the Cholas (who conquered the Pallavas in Tamil country)",
+      "They migrated to Rome",
+      "They ruled India until the 20th century",
+      "Their cities sank into the ocean"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "Dantidurga founded the Rashtrakuta empire overthrowing Chalukyas, while Imperial Cholas (Vijayalaya) annexed Pallava Kanchi."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Social Science",
+    "chapter": "Chapter 11: New Empires and Kingdoms",
+    "question": "What was the 'Sabha' in the Pallava administrative system?",
+    "options": [
+      "An assembly of Brahmana landowners which functioned through sub-committees looking after irrigation, agricultural operations, roads, and local temples",
+      "An assembly of foreign merchants",
+      "A court of musicians",
+      "An army unit of war elephants"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "The Sabha governed Brahmadeya villages via specialized sub-committees (Variyams) overseeing canals, tanks, and temple charities."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Social Science",
+    "chapter": "Chapter 11: New Empires and Kingdoms",
+    "question": "What was the 'Nagaram' in southern kingdoms?",
+    "options": [
+      "An organization and guild council of merchants that managed urban commerce and civic administration in trading towns",
+      "A village of farmers",
+      "A school for archery",
+      "A palace treasury"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "Nagaram represented mercantile corporations managing marketplaces, commercial taxes, and civic affairs in commercial hubs."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Social Science",
+    "chapter": "Chapter 11: New Empires and Kingdoms",
+    "question": "Why was the invention of the mathematical 'Zero' (Shunya) and the Decimal System in India during this period a monumental gift to world civilization?",
+    "options": [
+      "It simplified mathematical calculations, enabled positional place-value arithmetic, and was adopted by Arab mathematicians who transmitted it to Europe as 'Hindu-Arabic numerals'",
+      "Because zero was used as a weapon in war",
+      "Because it stopped money from being spent",
+      "Because it was carved on all swords"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "The Indian invention of zero and place-value decimal notation revolutionized global computational mathematics and algorithmic science."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Social Science",
+    "chapter": "Chapter 11: New Empires and Kingdoms",
+    "question": "What medical treatise on surgery and surgical instruments was authored in ancient India by the father of plastic surgery?",
+    "options": [
+      "Sushruta Samhita (by Sushruta)",
+      "Charaka Samhita",
+      "Aryabhatiya",
+      "Brihat Samhita"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "Sushruta pioneered rhinoplasty, cataract surgery, and over 120 surgical instruments in the 'Sushruta Samhita'."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Social Science",
+    "chapter": "Chapter 11: New Empires and Kingdoms",
+    "question": "Read the statements:\nAssertion (A): The political landscape of 4th–7th century CE India shifted from highly centralized bureaucratic rule towards decentralized feudalized networks.\nReason (R): Rulers increasingly relied on hereditary Samantas (feudal lords) for military mobilization and granted tax-free lands (Brahmadeya) with fiscal immunity to temples and Brahmanas.\nChoose the correct option:",
+    "options": [
+      "Both (A) and (R) are true, and (R) is the correct explanation of (A).",
+      "Both (A) and (R) are true, but (R) is NOT the correct explanation of (A).",
+      "(A) is true, but (R) is false.",
+      "(A) is false, but (R) is true."
+    ],
+    "correctAnswer": 0,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "Land grants and military vassalage (Samanta system) decentralized administrative power away from the imperial core."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Social Science",
+    "chapter": "Chapter 11: New Empires and Kingdoms",
+    "question": "Spot the IMPOSTER in the following group of ancient rulers matched with their royal court biographers/poets:\nGroup: [Samudragupta - Harisena, Harshavardhana - Banabhatta, Pulakeshin II - Ravikirti, Chandragupta I - Megasthenes]",
+    "options": [
+      "Samudragupta - Harisena",
+      "Harshavardhana - Banabhatta",
+      "Pulakeshin II - Ravikirti",
+      "Chandragupta I - Megasthenes"
+    ],
+    "correctAnswer": 3,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "Megasthenes lived in the court of CHANDRAGUPTA MAURYA (c. 320 BCE), NOT Chandragupta I of the Gupta dynasty (~320 CE)."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Social Science",
+    "chapter": "Chapter 11: New Empires and Kingdoms",
+    "question": "Analyze the four distinct geographic zones of conquest detailed by Harisena in Samudragupta's Prayag Prashasti:\nMatch each zone with Samudragupta's specific administrative policy:\n(a) Aryavarta (North)        -> (i) Uprooted violently and annexed directly into the empire\n(b) Dakshinapatha (South)    -> (ii) Defeated, captured, and liberated to rule as tributary vassals\n(c) Forest Tribes (Atavika)  -> (iii) Reduced to permanent servitude and obedience\n(d) Frontier States (Samatata, Kamarupa, Nepal) -> (iv) Paid annual tribute, attended royal court, and performed obeisance",
+    "options": [
+      "a-(i), b-(ii), c-(iii), d-(iv)",
+      "a-(ii), b-(i), c-(iv), d-(iii)",
+      "a-(iv), b-(iii), c-(ii), d-(i)",
+      "a-(iii), b-(iv), c-(i), d-(ii)"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "Harisena's 4-tier geopolitical doctrine: Aryavarta (annexation), Dakshinapatha (tributary restoration), Atavika (subjugation), Frontiers (tribute/homage)."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Social Science",
+    "chapter": "Chapter 11: New Empires and Kingdoms",
+    "question": "Match Column I (Ancient Dynasties) with Column II (Prominent Capitals / Royal Centers):\n(a) Guptas     -> (i) Pataliputra and Ujjain\n(b) Pushyabhuti-> (ii) Kannauj and Thanesar\n(c) Chalukyas  -> (iii) Vatapi (Badami) and Aihole\n(d) Pallavas   -> (iv) Kanchipuram and Mahabalipuram",
+    "options": [
+      "a-(i), b-(ii), c-(iii), d-(iv)",
+      "a-(ii), b-(i), c-(iv), d-(iii)",
+      "a-(iv), b-(iii), c-(ii), d-(i)",
+      "a-(iii), b-(iv), c-(i), d-(ii)"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "Guptas = Pataliputra/Ujjain; Harsha = Kannauj; Chalukyas = Badami; Pallavas = Kanchipuram."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Social Science",
+    "chapter": "Chapter 11: New Empires and Kingdoms",
+    "question": "Read the statements regarding classical Indian science:\nStatement 1: The rustless Iron Pillar of Mehrauli (Delhi), standing for over 1600 years without corroding, is an extraordinary testament to Gupta metallurgical mastery.\nStatement 2: Aryabhata proposed that day and night are caused by the daily rotation of the Earth on its axis.\nStatement 3: Harisena wrote the biography of King Harsha in Tamil.\nWhich statements are TRUE?",
+    "options": [
+      "Statements 1 and 2 only",
+      "Statements 2 and 3 only",
+      "Statements 1 and 3 only",
+      "All Statements 1, 2, and 3"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "Statement 3 is false because Harisena wrote Samudragupta's Prashasti in Sanskrit, while Banabhatta wrote Harsha's biography in Sanskrit. Statements 1 and 2 are true."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Social Science",
+    "chapter": "Chapter 11: New Empires and Kingdoms",
+    "question": "What dramatic story of social justice is depicted in Kalidasa's play 'Abhijnanashakuntalam' involving a poor Fisherman and the King's signet ring?",
+    "options": [
+      "A poor fisherman found the king's lost signet ring inside a fish belly; police officers falsely accused him of theft and beat him until the king recognized the ring and rewarded the fisherman, exposing systemic judicial corruption and prejudice against the poor",
+      "The fisherman became king",
+      "The king threw the ring into fire",
+      "The fish turned into gold"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "Kalidasa's fisherman scene critiques lower-level police bribery and class prejudice in ancient royal administration."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Social Science",
+    "chapter": "Chapter 11: New Empires and Kingdoms",
+    "question": "What metallurgical feature of the 4th-century CE Iron Pillar of Delhi at Mehrauli prevents it from rusting even after 1,600 years of exposure to sun and monsoon rains?",
+    "options": [
+      "High phosphorus content in forge-welded wrought iron which formed a protective passive amorphous iron hydrogen phosphate film ('misawite') on the metal surface",
+      "It is painted with modern plastic paint",
+      "It is made of pure gold inside",
+      "It is kept inside an air-conditioned room"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "Solid-state forge welding with high-phosphorus slag formed a catalytic protective misawite barrier shielding against corrosion."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Social Science",
+    "chapter": "Chapter 11: New Empires and Kingdoms",
+    "question": "Consider four prominent rulers of classical India:\n1. Samudragupta (c. 335–375 CE)\n2. Chandragupta II Vikramaditya (c. 375–415 CE)\n3. Harshavardhana (c. 606–647 CE)\n4. Pulakeshin II (c. 610–642 CE)\nWhich two monarchs fought a historic clash on the Narmada River?",
+    "options": [
+      "Rulers 3 and 4 (Harshavardhana and Pulakeshin II)",
+      "Rulers 1 and 2",
+      "Rulers 1 and 3",
+      "Rulers 2 and 4"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "Pulakeshin II of the Chalukyas decisively defeated Harshavardhana on the banks of the Narmada River around 618 CE."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Social Science",
+    "chapter": "Chapter 11: New Empires and Kingdoms",
+    "question": "What socio-economic power did the Assemblies (Sabhas and Urs) hold in early medieval South India?",
+    "options": [
+      "They levied local agricultural taxes, maintained communal irrigation tanks, managed village dispute courts, and acted as autonomous corporate governing bodies",
+      "They had no power and followed only royal orders",
+      "They were only allowed to sing prayers",
+      "They were made of royal soldiers only"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "Southern assemblies exercised extensive fiscal, judicial, and civic self-governance over land tenure and infrastructure."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Social Science",
+    "chapter": "Chapter 11: New Empires and Kingdoms",
+    "question": "How did the genealogical lineages (Vamshavalis) recorded in Prashastis help historians reconstruct ancient Indian history?",
+    "options": [
+      "They provide sequential lists of royal ancestors (father, grandfather, great-grandfather) and maternal alliances (e.g. Samudragupta's mother Kumara Devi was a Licchavi princess), establishing chronology",
+      "They provide recipes for ancient food",
+      "They describe stars in astronomy",
+      "They list animal species"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "Epigraphic genealogies reconstruct dynastic chronologies, matrimonial alliances (Gupta-Licchavi), and political succession."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Social Science",
+    "chapter": "Chapter 11: New Empires and Kingdoms",
+    "question": "Why did Chinese pilgrim Xuan Zang spend extensive time studying at King Harsha's grand assemblies at Kannauj and Prayag in 643 CE?",
+    "options": [
+      "To participate in inter-religious philosophical disputations between Buddhist scholars, Vedic Brahmanas, and Jain thinkers under Harsha's royal patronization",
+      "To purchase silk for China",
+      "To recruit soldiers for the Chinese army",
+      "To build a stone castle"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "Harsha convened 18-day theological assemblies at Kannauj and the grand quinquennial Mahamoksha festival at Prayag."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Social Science",
+    "chapter": "Chapter 11: New Empires and Kingdoms",
+    "question": "What holistic view of Indian classical civilization is established in Chapter 11 of NCERT History?",
+    "options": [
+      "A golden era of artistic, literary, scientific, and architectural brilliance flourishing alongside complex feudal political networks and vibrant local democratic village institutions",
+      "A period of complete societal collapse",
+      "A primitive era without science or art",
+      "A civilization isolated from the rest of Asia"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "The chapter portrays classical India's golden synthesis of scientific breakthroughs, soaring literature, temple architecture, and grassroots assemblies."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Hindi Grammar",
+    "chapter": "Chapter 11: काल",
+    "question": "क्रिया के जिस रूप से उसके संपन्न होने के समय (Time of Action) का बोध होता है, उसे व्याकरण में क्या कहते हैं?",
+    "options": [
+      "काल (Tense)",
+      "कारक",
+      "वाच्य",
+      "समास"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "क्रिया के होने या करने के समय तथा उसकी पूर्णता/अपूर्णता का बोध कराने वाले रूप को 'काल' कहते हैं।"
+  },
+  {
+    "classLevel": 6,
+    "subject": "Hindi Grammar",
+    "chapter": "Chapter 11: काल",
+    "question": "हिंदी व्याकरण में काल के मुख्य रूप से कितने भेद होते हैं?",
+    "options": [
+      "तीन भेद (1. भूतकाल - Past, 2. वर्तमानकाल - Present, 3. भविष्यत् काल - Future)",
+      "चार भेद",
+      "दो भेद",
+      "पाँच भेद"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "काल के 3 मुख्य भेद हैं: भूतकाल (बीता हुआ समय), वर्तमानकाल (चल रहा समय), और भविष्यत् काल (आने वाला समय)।"
+  },
+  {
+    "classLevel": 6,
+    "subject": "Hindi Grammar",
+    "chapter": "Chapter 11: काल",
+    "question": "क्रिया के जिस रूप से यह पता चले कि कार्य बीते हुए समय में संपन्न हो चुका है (जैसे: 'राम ने पत्र लिखा', 'वह कल आया था'), उसे क्या कहते हैं?",
+    "options": [
+      "भूतकाल (Past Tense)",
+      "वर्तमानकाल",
+      "भविष्यत् काल",
+      "आज्ञाकाल"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "बीते हुए समय में क्रिया के निष्पादन को 'भूतकाल' कहते हैं।"
+  },
+  {
+    "classLevel": 6,
+    "subject": "Hindi Grammar",
+    "chapter": "Chapter 11: काल",
+    "question": "क्रिया के जिस रूप से कार्य के वर्तमान (चल रहे) समय में होने का बोध होता है (जैसे: 'रोहन पढ़ता है', 'वर्षा हो रही है'), उसे क्या कहते हैं?",
+    "options": [
+      "वर्तमानकाल (Present Tense)",
+      "भूतकाल",
+      "भविष्यत् काल",
+      "हेतुहेतुमद् काल"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "वर्तमान समय में क्रिया के व्यापार का बोध 'वर्तमानकाल' कहलाता है।"
+  },
+  {
+    "classLevel": 6,
+    "subject": "Hindi Grammar",
+    "chapter": "Chapter 11: काल",
+    "question": "क्रिया के जिस रूप से कार्य के आने वाले समय में होने का बोध होता है (जैसे: 'हम कल चिड़ियाघर जाएँगे', 'वह कल पढ़ेगा'), उसे क्या कहते हैं?",
+    "options": [
+      "भविष्यत् काल (Future Tense)",
+      "वर्तमानकाल",
+      "भूतकाल",
+      "सामान्य भूतकाल"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "आगामी समय में क्रिया के संपादन का बोध 'भविष्यत् काल' कहलाता है।"
+  },
+  {
+    "classLevel": 6,
+    "subject": "Hindi Grammar",
+    "chapter": "Chapter 11: काल",
+    "question": "हिंदी में भूतकाल के कुल कितने भेद होते हैं?",
+    "options": [
+      "छह भेद (6 Types: सामान्य, आसन्न, पूर्ण, अपूर्ण, संदिग्ध, हेतुहेतुमद् भूत)",
+      "तीन भेद",
+      "चार भेद",
+      "पाँच भेद"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "भूतकाल के 6 भेद हैं: 1. सामान्य, 2. आसन्न, 3. पूर्ण, 4. अपूर्ण, 5. संदिग्ध, 6. हेतुहेतुमद् भूत।"
+  },
+  {
+    "classLevel": 6,
+    "subject": "Hindi Grammar",
+    "chapter": "Chapter 11: काल",
+    "question": "हिंदी में वर्तमानकाल के मुख्य रूप से कितने भेद होते हैं?",
+    "options": [
+      "तीन भेद (1. सामान्य वर्तमान, 2. अपूर्ण/तात्कालिक वर्तमान, 3. संदिग्ध वर्तमान)",
+      "छह भेद",
+      "दो भेद",
+      "चार भेद"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "वर्तमानकाल के 3 भेद हैं: 1. सामान्य वर्तमान, 2. अपूर्ण वर्तमान (तात्कालिक), और 3. संदिग्ध वर्तमान।"
+  },
+  {
+    "classLevel": 6,
+    "subject": "Hindi Grammar",
+    "chapter": "Chapter 11: काल",
+    "question": "हिंदी में भविष्यत् काल के मुख्य रूप से कितने भेद होते हैं?",
+    "options": [
+      "तीन भेद (1. सामान्य भविष्यत्, 2. संभाव्य भविष्यत्, 3. हेतुहेतुमद् भविष्यत्)",
+      "पाँच भेद",
+      "दो भेद",
+      "चार भेद"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "भविष्यत् काल के 3 भेद हैं: सामान्य भविष्यत्, संभाव्य भविष्यत्, और हेतुहेतुमद् भविष्यत्।"
+  },
+  {
+    "classLevel": 6,
+    "subject": "Hindi Grammar",
+    "chapter": "Chapter 11: काल",
+    "question": "वाक्य में प्रयुक्त काल पहचानिए:\n'सूर्य पूर्व दिशा में उगता है।'",
+    "options": [
+      "सामान्य वर्तमानकाल (Simple Present Tense)",
+      "अपूर्ण वर्तमानकाल",
+      "सामान्य भूतकाल",
+      "भविष्यत् काल"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "शाश्वत सत्य और सामान्य क्रिया ('ता है, ती है') सामान्य वर्तमानकाल में आती है।"
+  },
+  {
+    "classLevel": 6,
+    "subject": "Hindi Grammar",
+    "chapter": "Chapter 11: काल",
+    "question": "वाक्य में प्रयुक्त काल पहचानिए:\n'बच्चे मैदान में फुटबॉल **खेल रहे हैं**।'",
+    "options": [
+      "अपूर्ण वर्तमानकाल या तात्कालिक वर्तमान (Present Continuous)",
+      "सामान्य वर्तमानकाल",
+      "पूर्ण भूतकाल",
+      "सामान्य भविष्यत्"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "'रहा है, रहे हैं' दर्शाता है कि क्रिया वर्तमान में निरंतर जारी है (अपूर्ण वर्तमानकाल)।"
+  },
+  {
+    "classLevel": 6,
+    "subject": "Hindi Grammar",
+    "chapter": "Chapter 11: काल",
+    "question": "वाक्य में प्रयुक्त काल पहचानिए:\n'भारत ने मैच **जीत लिया था**।'",
+    "options": [
+      "पूर्ण भूतकाल (Past Perfect Tense - क्रिया बहुत पहले समाप्त हो चुकी थी)",
+      "अपूर्ण भूतकाल",
+      "आसन्न भूतकाल",
+      "सामान्य भूतकाल"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "'था, थे, थी' के साथ क्रिया का पूर्ण होना 'पूर्ण भूतकाल' कहलाता है।"
+  },
+  {
+    "classLevel": 6,
+    "subject": "Hindi Grammar",
+    "chapter": "Chapter 11: काल",
+    "question": "वाक्य में प्रयुक्त काल पहचानिए:\n'कल हमारे विद्यालय में खेल दिवस मनाया जाएगा।'",
+    "options": [
+      "सामान्य भविष्यत् काल (Simple Future Tense)",
+      "संभाव्य भविष्यत्",
+      "सामान्य वर्तमानकाल",
+      "पूर्ण भूतकाल"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "'एगो, एगी, जाएँगे' आने वाले समय में निश्चित क्रिया (सामान्य भविष्यत्) को दर्शाता है।"
+  },
+  {
+    "classLevel": 6,
+    "subject": "Hindi Grammar",
+    "chapter": "Chapter 11: काल",
+    "question": "क्रिया के जिस रूप से यह पता चले कि कार्य अभी-अभी कुछ ही समय पहले समाप्त हुआ है (जैसे: 'मैंने अभी-अभी चाय पी है', 'गाड़ी स्टेशन पर आई है'), उसे क्या कहते हैं?",
+    "options": [
+      "आसन्न भूतकाल (Recent Past Tense - 'आसन्न' अर्थात् निकट/समीप)",
+      "पूर्ण भूतकाल",
+      "सामान्य भूतकाल",
+      "संदिग्ध भूतकाल"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "निकटवर्ती बीते समय में अभी-अभी पूर्ण हुई क्रिया 'आसन्न भूतकाल' कहलाती है।"
+  },
+  {
+    "classLevel": 6,
+    "subject": "Hindi Grammar",
+    "chapter": "Chapter 11: काल",
+    "question": "क्रिया के जिस रूप से यह जाना जाए कि कार्य भूतकाल में शुरू हुआ था किन्तु बोलते समय तक समाप्त नहीं हुआ था, चल रहा था (जैसे: 'वर्षा हो रही थी', 'अध्यापक पढ़ा रहे थे'), उसे क्या कहते हैं?",
+    "options": [
+      "अपूर्ण भूतकाल (Past Continuous Tense)",
+      "पूर्ण भूतकाल",
+      "आसन्न भूतकाल",
+      "सामान्य भूतकाल"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "'रहा था, रही थी, रहे थे' भूतकाल में क्रिया की निरंतरता (अपूर्ण भूत) दर्शाते हैं।"
+  },
+  {
+    "classLevel": 6,
+    "subject": "Hindi Grammar",
+    "chapter": "Chapter 11: काल",
+    "question": "क्रिया के जिस रूप से भूतकाल में कार्य के होने में संदेह (Doubt) प्रकट हो (जैसे: 'बस छूट गई होगी', 'उसने खाना खा लिया होगा'), उसे क्या कहते हैं?",
+    "options": [
+      "संदिग्ध भूतकाल (Suspicious / Probable Past)",
+      "हेतुहेतुमद् भूतकाल",
+      "सामान्य भूतकाल",
+      "अपूर्ण भूतकाल"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "बीते समय में क्रिया की सिद्धि पर अनिश्चय/संदेह होने पर 'संदिग्ध भूतकाल' होता है (गया होगा, पढ़ी होगी)।"
+  },
+  {
+    "classLevel": 6,
+    "subject": "Hindi Grammar",
+    "chapter": "Chapter 11: काल",
+    "question": "जहाँ भूतकाल की एक क्रिया दूसरी क्रिया के होने पर निर्भर (conditional) थी किन्तु कार्य संपन्न नहीं हो सका (जैसे: 'यदि वर्षा होती, तो फसल अच्छी होती', 'यदि परिश्रम करते, तो सफल हो जाते'), वहाँ कौन-सा काल होता है?",
+    "options": [
+      "हेतुहेतुमद् भूतकाल (Conditional Past Tense)",
+      "संदिग्ध भूतकाल",
+      "पूर्ण भूतकाल",
+      "आसन्न भूतकाल"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "कारण-कार्य पर आश्रित अधूरी रह गई भूतकालीन क्रिया 'हेतुहेतुमद् भूतकाल' कहलाती है।"
+  },
+  {
+    "classLevel": 6,
+    "subject": "Hindi Grammar",
+    "chapter": "Chapter 11: काल",
+    "question": "क्रिया के जिस रूप से वर्तमान समय में कार्य के होने में संदेह प्रकट हो (जैसे: 'पिता जी दफ्तर में काम करते होंगे', 'माँ खाना बनाती होगी'), उसे क्या कहते हैं?",
+    "options": [
+      "संदिग्ध वर्तमानकाल (Suspicious Present)",
+      "अपूर्ण वर्तमानकाल",
+      "सामान्य वर्तमानकाल",
+      "संभाव्य भविष्यत्"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "वर्तमान में क्रिया के होने का अनुमान/संदेह (ता होगा, ते होंगे) 'संदिग्ध वर्तमानकाल' कहलाता है।"
+  },
+  {
+    "classLevel": 6,
+    "subject": "Hindi Grammar",
+    "chapter": "Chapter 11: काल",
+    "question": "क्रिया के जिस रूप से आने वाले समय में कार्य के होने की संभावना या इच्छा प्रकट हो (जैसे: 'शायद आज शाम वर्षा हो', 'संभव है वह कल आए'), उसे क्या कहते हैं?",
+    "options": [
+      "संभाव्य भविष्यत् काल (Probable Future)",
+      "सामान्य भविष्यत् काल",
+      "हेतुहेतुमद् भविष्यत्",
+      "संदिग्ध वर्तमान"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "भविष्य में कार्य की केवल संभावना (शायद, संभवतः) प्रकट करने वाला रूप 'संभाव्य भविष्यत्' है।"
+  },
+  {
+    "classLevel": 6,
+    "subject": "Hindi Grammar",
+    "chapter": "Chapter 11: काल",
+    "question": "जहाँ भविष्य की एक क्रिया दूसरी क्रिया के होने पर निर्भर हो (जैसे: 'यदि तुम मेहनत करोगे, तो प्रथम आओगे'), वहाँ कौन-सा काल होता है?",
+    "options": [
+      "हेतुहेतुमद् भविष्यत् काल (Conditional Future)",
+      "सामान्य भविष्यत्",
+      "संभाव्य भविष्यत्",
+      "संदिग्ध भूतकाल"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "भविष्य की सशर्त आश्रित क्रिया 'हेतुहेतुमद् भविष्यत् काल' कहलाती है।"
+  },
+  {
+    "classLevel": 6,
+    "subject": "Hindi Grammar",
+    "chapter": "Chapter 11: काल",
+    "question": "वाक्य में प्रयुक्त काल का सही भेद बताइए:\n'माता जी मंदिर से लौट आई हैं।'",
+    "options": [
+      "आसन्न भूतकाल (क्रिया अभी-अभी पूर्ण हुई है)",
+      "पूर्ण भूतकाल",
+      "सामान्य वर्तमानकाल",
+      "अपूर्ण भूतकाल"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "भूतकाल की क्रिया के साथ 'है/हैं' जुड़ने पर आसन्न भूतकाल बनता है।"
+  },
+  {
+    "classLevel": 6,
+    "subject": "Hindi Grammar",
+    "chapter": "Chapter 11: काल",
+    "question": "वाक्य को सामान्य भूतकाल में परिवर्तित कीजिए:\n'अमित पुस्तक पढ़ता है।'",
+    "options": [
+      "अमित ने पुस्तक पढ़ी। (सामान्य भूतकाल)",
+      "अमित पुस्तक पढ़ रहा था।",
+      "अमित ने पुस्तक पढ़ी थी।",
+      "अमित पुस्तक पढ़ेगा।"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "'पढ़ता है' का सामान्य भूतकाल रूप 'पढ़ी' (अमित ने पुस्तक पढ़ी) है।"
+  },
+  {
+    "classLevel": 6,
+    "subject": "Hindi Grammar",
+    "chapter": "Chapter 11: काल",
+    "question": "वाक्य को अपूर्ण भूतकाल में परिवर्तित कीजिए:\n'पक्षी घोंसले में सोते हैं।'",
+    "options": [
+      "पक्षी घोंसले में सो रहे थे। (अपूर्ण भूतकाल)",
+      "पक्षी घोंसले में सोए।",
+      "पक्षी घोंसले में सो चुके थे।",
+      "पक्षी सोएँगे।"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "अपूर्ण भूतकाल में निरंतरता सूचक 'रहे थे' प्रयुक्त होता है: 'सो रहे थे'।"
+  },
+  {
+    "classLevel": 6,
+    "subject": "Hindi Grammar",
+    "chapter": "Chapter 11: काल",
+    "question": "वाक्य को पूर्ण भूतकाल में परिवर्तित कीजिए:\n'माली पौधे लगाता है।'",
+    "options": [
+      "माली ने पौधे लगाए थे। (पूर्ण भूतकाल)",
+      "माली पौधे लगा रहा था।",
+      "माली ने पौधे लगाए हैं।",
+      "माली पौधे लगाएगा।"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "पूर्ण भूतकाल में 'लगाए थे' प्रयुक्त होता है।"
+  },
+  {
+    "classLevel": 6,
+    "subject": "Hindi Grammar",
+    "chapter": "Chapter 11: काल",
+    "question": "वाक्य को संदिग्ध वर्तमानकाल में बदलिए:\n'रोहन सोता है।'",
+    "options": [
+      "रोहन सोता होगा। (संदिग्ध वर्तमानकाल)",
+      "रोहन सोया होगा। (संदिग्ध भूतकाल)",
+      "रोहन सो रहा था।",
+      "रोहन सोएगा।"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "सामान्य वर्तमान + होगा = संदिग्ध वर्तमान (सोता होगा)।"
+  },
+  {
+    "classLevel": 6,
+    "subject": "Hindi Grammar",
+    "chapter": "Chapter 11: काल",
+    "question": "वाक्य को संदिग्ध भूतकाल में बदलिए:\n'गाड़ी चली गई।'",
+    "options": [
+      "गाड़ी चली गई होगी। (संदिग्ध भूतकाल)",
+      "गाड़ी जा रही है।",
+      "गाड़ी जाती होगी।",
+      "गाड़ी जाएगी।"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "सामान्य भूत + होगी = संदिग्ध भूतकाल (चली गई होगी)।"
+  },
+  {
+    "classLevel": 6,
+    "subject": "Hindi Grammar",
+    "chapter": "Chapter 11: काल",
+    "question": "वाक्य में प्रयुक्त काल का सही भेद पहचानिए:\n'शायद आज मामा जी आएँ।'",
+    "options": [
+      "संभाव्य भविष्यत् काल",
+      "सामान्य भविष्यत् काल",
+      "हेतुहेतुमद् भविष्यत्",
+      "संदिग्ध वर्तमान"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "'शायद... आएँ' भविष्य में आगमन की संभावना दर्शाता है, अतः संभाव्य भविष्यत् है।"
+  },
+  {
+    "classLevel": 6,
+    "subject": "Hindi Grammar",
+    "chapter": "Chapter 11: काल",
+    "question": "वाक्य में प्रयुक्त काल का भेद बताइए:\n'डाकिया पत्र बाँट रहा था।'",
+    "options": [
+      "अपूर्ण भूतकाल (Past Continuous)",
+      "पूर्ण भूतकाल",
+      "सामान्य भूतकाल",
+      "आसन्न भूतकाल"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "'बाँट रहा था' भूतकाल में जारी क्रिया (अपूर्ण भूत) को दर्शाता है।"
+  },
+  {
+    "classLevel": 6,
+    "subject": "Hindi Grammar",
+    "chapter": "Chapter 11: काल",
+    "question": "वाक्य में प्रयुक्त काल का भेद बताइए:\n'यदि डॉक्टर समय पर आते, तो मरीज बच जाता।'",
+    "options": [
+      "हेतुहेतुमद् भूतकाल (Conditional Past)",
+      "पूर्ण भूतकाल",
+      "संदिग्ध भूतकाल",
+      "सामान्य भूतकाल"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "मरीज का बचना डॉक्टर के आने पर निर्भर था जो पूरा नहीं हुआ, अतः हेतुहेतुमद् भूतकाल है।"
+  },
+  {
+    "classLevel": 6,
+    "subject": "Hindi Grammar",
+    "chapter": "Chapter 11: काल",
+    "question": "कथन और कारण को ध्यानपूर्वक पढ़ें:\nकथन (A): 'उसने पाठ पढ़ा होगा' में संदिग्ध भूतकाल है, जबकि 'वह पाठ पढ़ता होगा' में संदिग्ध वर्तमानकाल है।\nकारण (R): 'पढ़ा होगा' में भूतकालिक रूप ('पढ़ा') के साथ 'होगा' जुड़ा है, जबकि 'पढ़ता होगा' में वर्तमानकालिक रूप ('पढ़ता') के साथ 'होगा' जुड़ा है।\nसही विकल्प चुनें:",
+    "options": [
+      "(A) और (R) दोनों सही हैं तथा (R), (A) की सही व्याख्या करता है।",
+      "(A) और (R) दोनों सही हैं, परन्तु (R), (A) की सही व्याख्या नहीं करता।",
+      "(A) सही है, परन्तु (R) गलत है।",
+      "(A) गलत है, परन्तु (R) सही है।"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "भूतकालिक कृदंत + होगा = संदिग्ध भूत; वर्तमानकालिक कृदंत (ता) + होगा = संदिग्ध वर्तमान।"
+  },
+  {
+    "classLevel": 6,
+    "subject": "Hindi Grammar",
+    "chapter": "Chapter 11: काल",
+    "question": "Spot the IMPOSTER in the following group of वाक्यों और उनके कालों के युग्म में:\nGroup: [राम ने रावण को मारा - सामान्य भूत, सीता खाना बना रही है - अपूर्ण वर्तमान, यदि तुम पढ़ते तो पास होते - हेतुहेतुमद् भूत, गाड़ी आई होगी - सामान्य भविष्यत्]",
+    "options": [
+      "राम ने रावण को मारा - सामान्य भूत",
+      "सीता खाना बना रही है - अपूर्ण वर्तमान",
+      "यदि तुम पढ़ते तो पास होते - हेतुहेतुमद् भूत",
+      "गाड़ी आई होगी - सामान्य भविष्यत्"
+    ],
+    "correctAnswer": 3,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "'गाड़ी आई होगी - सामान्य भविष्यत्' अशुद्ध युग्म है; 'गाड़ी आई होगी' संदिग्ध भूतकाल (Probable Past) है, सामान्य भविष्यत् नहीं।"
+  },
+  {
+    "classLevel": 6,
+    "subject": "Hindi Grammar",
+    "chapter": "Chapter 11: काल",
+    "question": "सुमेलित कीजिए (वाक्य और उनके सटीक काल भेद):\n(क) छात्र पढ़ रहा था        -> (i) आसन्न भूतकाल\n(ख) छात्र ने पुस्तक पढ़ी है  -> (ii) अपूर्ण भूतकाल\n(ग) छात्र पढ़ता होगा        -> (iii) संभाव्य भविष्यत्\n(घ) कदाचित कल धूप निकले    -> (iv) संदिग्ध वर्तमानकाल",
+    "options": [
+      "क-(ii), ख-(i), ग-(iv), घ-(iii)",
+      "क-(i), ख-(ii), ग-(iii), घ-(iv)",
+      "क-(iv), ख-(iii), ग-(ii), घ-(i)",
+      "क-(iii), ख-(iv), ग-(i), घ-(ii)"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "पढ़ रहा था = अपूर्ण भूत; पढ़ी है = आसन्न भूत; पढ़ता होगा = संदिग्ध वर्तमान; कदाचित निकले = संभाव्य भविष्यत्।"
+  },
+  {
+    "classLevel": 6,
+    "subject": "Hindi Grammar",
+    "chapter": "Chapter 11: काल",
+    "question": "आसन्न भूतकाल और सामान्य वर्तमानकाल में संरचनात्मक भेद क्या होता है?",
+    "options": [
+      "आसन्न भूतकाल में भूतकालिक क्रिया के साथ 'है/हैं' आता है (जैसे: 'वह गया है' = क्रिया अभी समाप्त हुई) ; जबकि सामान्य वर्तमानकाल में धातु के साथ 'ता/ती/ते + है' आता है (जैसे: 'वह जाता है' = नित्य आदत/व्यापार)",
+      "आसन्न भूतकाल में 'था' आता है",
+      "सामान्य वर्तमानकाल में 'होगा' आता है",
+      "दोनों में कोई अंतर नहीं है"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "आसन्न भूत = भूतकालिक निष्पत्ति + है (खाया है); सामान्य वर्तमान = स्वभाव/आवृत्ति + है (खाता है)।"
+  },
+  {
+    "classLevel": 6,
+    "subject": "Hindi Grammar",
+    "chapter": "Chapter 11: काल",
+    "question": "ऐतिहासिक सत्य या स्थायी नियम व्यक्त करने के लिए भूतकाल के स्थान पर किस काल का प्रयोग मान्य होता है?",
+    "options": [
+      "सामान्य वर्तमानकाल (जैसे: 'जल 100°C पर उबलता है', 'पृथ्वी सूर्य का चक्कर लगाती है')",
+      "पूर्ण भूतकाल",
+      "संभाव्य भविष्यत्",
+      "आसन्न भूतकाल"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "सार्वभौमिक, वैज्ञानिक और भौगोलिक शाश्वत सत्यों के लिए नित्य वर्तमान (सामान्य वर्तमानकाल) प्रयुक्त होता है।"
+  },
+  {
+    "classLevel": 6,
+    "subject": "Hindi Grammar",
+    "chapter": "Chapter 11: काल",
+    "question": "वाक्य में प्रयुक्त काल का सही क्रम बताइए:\n'कल हम सर्कस **गए थे** और आज हम सिनेमा **देख रहे हैं**।'",
+    "options": [
+      "गए थे = पूर्ण भूतकाल ; देख रहे हैं = अपूर्ण वर्तमानकाल",
+      "गए थे = सामान्य भूतकाल ; देख रहे हैं = सामान्य वर्तमानकाल",
+      "दोनों भूतकाल हैं",
+      "दोनों वर्तमानकाल हैं"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "'गए थे' पूर्ण भूतकाल है तथा 'देख रहे हैं' अपूर्ण वर्तमानकाल है।"
+  },
+  {
+    "classLevel": 6,
+    "subject": "Hindi Grammar",
+    "chapter": "Chapter 11: काल",
+    "question": "समीपस्थ भविष्य (Immediate Future) को सूचित करने के लिए कभी-कभी किस काल की क्रिया का प्रयोग किया जाता है?",
+    "options": [
+      "वर्तमानकाल की क्रिया का (जैसे: 'मैं अभी आता हूँ' या 'गाड़ी दस मिनट में आ रही है')",
+      "पूर्ण भूतकाल",
+      "संदिग्ध भूतकाल",
+      "हेतुहेतुमद् भूतकाल"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "आसन्न या तत्काल घटित होने वाले भावी कार्य के लिए वर्तमानकाल (आता हूँ / आ रही है) का प्रयोग मानक है।"
+  },
+  {
+    "classLevel": 6,
+    "subject": "Hindi Grammar",
+    "chapter": "Chapter 11: काल",
+    "question": "निम्नलिखित वाक्यों में से किस वाक्य में 'हेतुहेतुमद् भविष्यत् काल' प्रयुक्त हुआ है?",
+    "options": [
+      "'यदि छात्रवृत्ती मिलेगी, तो अनुज विदेश जाकर उच्च शिक्षा प्राप्त करेगा।'",
+      "'यदि वर्षा होती, तो किसान खुश होते।'",
+      "'शायद कल वर्षा हो।'",
+      "'अनुज विदेश गया था।'"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "आगामी भविष्य की कार्य-कारण पर आश्रित शर्त (मिलेगी... तो प्राप्त करेगा) 'हेतुहेतुमद् भविष्यत् काल' है।"
+  },
+  {
+    "classLevel": 6,
+    "subject": "Hindi Grammar",
+    "chapter": "Chapter 11: काल",
+    "question": "वाक्य को संदिग्ध भूतकाल में शुद्ध रूप से परिवर्तित कीजिए:\n'अध्यापक ने कक्षा में व्याकरण पढ़ाया।'",
+    "options": [
+      "अध्यापक ने कक्षा में व्याकरण पढ़ाया होगा। (संदिग्ध भूतकाल)",
+      "अध्यापक कक्षा में व्याकरण पढ़ाते होंगे।",
+      "अध्यापक ने व्याकरण पढ़ाया था।",
+      "अध्यापक व्याकरण पढ़ाएँगे।"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "सामान्य भूतकाल ('पढ़ाया') + 'होगा' = संदिग्ध भूतकाल ('पढ़ाया होगा')।"
+  },
+  {
+    "classLevel": 6,
+    "subject": "Hindi Grammar",
+    "chapter": "Chapter 11: काल",
+    "question": "भूतकाल के छह भेदों में से 'सामान्य भूत' और 'पूर्ण भूत' में क्या मूलभूत अंतर है?",
+    "options": [
+      "सामान्य भूत में केवल कार्य के बीते समय में होने का सामान्य बोध होता है, समय की स्पष्ट सीमा नहीं होती (जैसे: 'मोहन आया') ; जबकि पूर्ण भूत में क्रिया बहुत पहले पूर्णतया समाप्त हो चुकी होती है और 'था/थी/थे' जुड़ता है (जैसे: 'मोहन आया था')",
+      "सामान्य भूत में 'होगा' आता है",
+      "पूर्ण भूत में 'रहा था' आता है",
+      "दोनों में कोई अंतर नहीं है"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "सामान्य भूत = अनिश्चित समाप्ति (आया); पूर्ण भूत = सुदूर अतीत में पूर्ण समाप्ति (आया था)।"
+  },
+  {
+    "classLevel": 6,
+    "subject": "Hindi Grammar",
+    "chapter": "Chapter 11: काल",
+    "question": "वाक्य को काल की दृष्टि से शुद्ध कीजिए:\n'मैं कल आपके घर आया था पर तुम नहीं मिले थे।'",
+    "options": [
+      "'मैं कल आपके घर आया था पर आप नहीं मिले।' (आदरार्थक सर्वनाम 'आप' के साथ मानक भूतकाल रूप)",
+      "मैं कल आया तुम नहीं मिला।",
+      "मैं कल आऊँगा तुम नहीं मिलोगे।",
+      "मैं आया था तुम मिला था।"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "आदरणीय श्रोता के लिए 'आप' और सुसंगत क्रिया प्रयोग मानक रूप है।"
+  },
+  {
+    "classLevel": 6,
+    "subject": "Hindi Grammar",
+    "chapter": "Chapter 11: काल",
+    "question": "काल और क्रिया के संबंधों के बारे में कौन-सा कथन व्याकरणिक दृष्टि से पूर्णतः सत्य है?",
+    "options": [
+      "काल क्रिया का ही वह विकारी रूप है जो कार्य के संपादन समय के साथ-साथ उसकी पूर्णता, अपूर्णता, निरंतरता और संभावना का यथार्थ निर्धारण करता है",
+      "काल का क्रिया से कोई संबंध नहीं होता",
+      "काल केवल संज्ञा शब्दों में होता है",
+      "काल केवल भविष्य में बदलता है"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "काल क्रिया का रूपांतरण है जो समय, पक्ष (Aspect) और वृत्ति (Mood) को समन्वित करता है।"
+  }
+]

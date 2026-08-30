@@ -1,0 +1,535 @@
+import fs from 'fs';
+
+// -------------------------------------------------------------
+// SUBJECT 2: Mathematics - Chapter 2: Fractions and Decimals (40 Questions)
+// -------------------------------------------------------------
+const mathQuestions = [
+  // EASY (12)
+  {
+    classLevel: 7,
+    subject: "Mathematics",
+    chapter: "Chapter 2: Fractions and Decimals",
+    question: "A fraction where the Numerator is strictly LESS than the Denominator (such as 3/5, 7/9) is called a:",
+    options: ["Proper Fraction", "Improper Fraction", "Mixed Fraction", "Reciprocal"],
+    correctAnswer: 0,
+    difficulty: "EASY",
+    damage: 150,
+    explanation: "In a proper fraction, 0 < numerator < denominator, representing a quantity strictly less than 1 whole."
+  },
+  {
+    classLevel: 7,
+    subject: "Mathematics",
+    chapter: "Chapter 2: Fractions and Decimals",
+    question: "A fraction where the Numerator is GREATER than or equal to the Denominator (such as 7/4, 9/5) is called an:",
+    options: ["Improper Fraction", "Proper Fraction", "Decimal Fraction", "Unit Fraction"],
+    correctAnswer: 0,
+    difficulty: "EASY",
+    damage: 150,
+    explanation: "In an improper fraction, numerator ≥ denominator, representing a value ≥ 1."
+  },
+  {
+    classLevel: 7,
+    subject: "Mathematics",
+    chapter: "Chapter 2: Fractions and Decimals",
+    question: "Convert the improper fraction 17/5 into a Mixed Fraction:",
+    options: ["3 2/5 (17 ÷ 5 = Quotient 3, Remainder 2)", "3 1/5", "2 3/5", "5 2/3"],
+    correctAnswer: 0,
+    difficulty: "EASY",
+    damage: 150,
+    explanation: "17 ÷ 5 = 3 with remainder 2 → 3 2/5."
+  },
+  {
+    classLevel: 7,
+    subject: "Mathematics",
+    chapter: "Chapter 2: Fractions and Decimals",
+    question: "What is the product of multiplying two fractions: (2/3) × (5/7)?",
+    options: ["10/21 ((2 × 5) / (3 × 7) = 10/21)", "7/10", "10/14", "14/15"],
+    correctAnswer: 0,
+    difficulty: "EASY",
+    damage: 150,
+    explanation: "Product of fractions = (Product of numerators) / (Product of denominators) = (2×5)/(3×7) = 10/21."
+  },
+  {
+    classLevel: 7,
+    subject: "Mathematics",
+    chapter: "Chapter 2: Fractions and Decimals",
+    question: "Evaluate: (1/2) of 24:",
+    options: ["12 (1/2 × 24 = 12)", "24", "48", "6"],
+    correctAnswer: 0,
+    difficulty: "EASY",
+    damage: 150,
+    explanation: "In mathematics, the operator 'of' represents multiplication: (1/2) × 24 = 12."
+  },
+  {
+    classLevel: 7,
+    subject: "Mathematics",
+    chapter: "Chapter 2: Fractions and Decimals",
+    question: "What is the non-zero Reciprocal (Multiplicative Inverse) of the fraction 4/9?",
+    options: ["9/4 (since 4/9 × 9/4 = 1)", "-4/9", "4/9", "1/4"],
+    correctAnswer: 0,
+    difficulty: "EASY",
+    damage: 150,
+    explanation: "The reciprocal of a/b is b/a (inverting numerator and denominator)."
+  },
+  {
+    classLevel: 7,
+    subject: "Mathematics",
+    chapter: "Chapter 2: Fractions and Decimals",
+    question: "Evaluate the division of fractions: (3/5) ÷ (2/7):",
+    options: ["21/10 (3/5 × 7/2 = 21/10 = 2 1/10)", "6/35", "10/21", "35/6"],
+    correctAnswer: 0,
+    difficulty: "EASY",
+    damage: 150,
+    explanation: "Dividing by a fraction is multiplying by its reciprocal: (3/5) × (7/2) = 21/10."
+  },
+  {
+    classLevel: 7,
+    subject: "Mathematics",
+    chapter: "Chapter 2: Fractions and Decimals",
+    question: "What is 2.75 multiplied by 100?",
+    options: ["275 (Shifting decimal point 2 places to the RIGHT)", "27.5", "2750", "0.0275"],
+    correctAnswer: 0,
+    difficulty: "EASY",
+    damage: 150,
+    explanation: "Multiplying by 100 shifts the decimal point 2 places to the right: 2.75 × 100 = 275."
+  },
+  {
+    classLevel: 7,
+    subject: "Mathematics",
+    chapter: "Chapter 2: Fractions and Decimals",
+    question: "What is 45.8 divided by 10?",
+    options: ["4.58 (Shifting decimal point 1 place to the LEFT)", "458", "0.458", "45.8"],
+    correctAnswer: 0,
+    difficulty: "EASY",
+    damage: 150,
+    explanation: "Dividing by 10 shifts the decimal point 1 place to the left: 45.8 ÷ 10 = 4.58."
+  },
+  {
+    classLevel: 7,
+    subject: "Mathematics",
+    chapter: "Chapter 2: Fractions and Decimals",
+    question: "What is the product: 0.2 × 0.3?",
+    options: ["0.06 (2 × 3 = 6 ; with 1 + 1 = 2 decimal places)", "0.6", "6.0", "0.006"],
+    correctAnswer: 0,
+    difficulty: "EASY",
+    damage: 150,
+    explanation: "0.2 × 0.3 = (2/10) × (3/10) = 6/100 = 0.06."
+  },
+  {
+    classLevel: 7,
+    subject: "Mathematics",
+    chapter: "Chapter 2: Fractions and Decimals",
+    question: "What is 7.2 divided by 9?",
+    options: ["0.8 (72 ÷ 9 = 8 with one decimal place)", "8.0", "0.08", "80"],
+    correctAnswer: 0,
+    difficulty: "EASY",
+    damage: 150,
+    explanation: "7.2 ÷ 9 = 0.8."
+  },
+  {
+    classLevel: 7,
+    subject: "Mathematics",
+    chapter: "Chapter 2: Fractions and Decimals",
+    question: "Express 7 cm in metres as a decimal (1 m = 100 cm):",
+    options: ["0.07 m (7/100 m = 0.07 m)", "0.7 m", "7.0 m", "0.007 m"],
+    correctAnswer: 0,
+    difficulty: "EASY",
+    damage: 150,
+    explanation: "7 cm = 7 ÷ 100 = 0.07 m."
+  },
+
+  // MEDIUM (16)
+  {
+    classLevel: 7,
+    subject: "Mathematics",
+    chapter: "Chapter 2: Fractions and Decimals",
+    question: "Ramesh solved 2/7 part of an exercise while Seema solved 4/5 of it. Who solved a LESSER part?",
+    options: [
+      "Ramesh solved a lesser part (2/7 = 10/35 ; 4/5 = 28/35 ⇒ 10/35 < 28/35)",
+      "Seema solved a lesser part",
+      "Both solved exactly the same part",
+      "Cannot be compared"
+    ],
+    correctAnswer: 0,
+    difficulty: "MEDIUM",
+    damage: 250,
+    explanation: "Converting to common denominator 35: Ramesh = 10/35, Seema = 28/35. Ramesh solved lesser."
+  },
+  {
+    classLevel: 7,
+    subject: "Mathematics",
+    chapter: "Chapter 2: Fractions and Decimals",
+    question: "Sameera purchased 3 1/2 kg apples and 4 3/4 kg oranges. What is the total weight of fruits purchased by her?",
+    options: [
+      "8 1/4 kg (7/2 + 19/4 = 14/4 + 19/4 = 33/4 = 8 1/4 kg)",
+      "7 4/6 kg",
+      "8 1/2 kg",
+      "7 3/4 kg"
+    ],
+    correctAnswer: 0,
+    difficulty: "MEDIUM",
+    damage: 250,
+    explanation: "3.5 + 4.75 = 8.25 kg = 8 1/4 kg."
+  },
+  {
+    classLevel: 7,
+    subject: "Mathematics",
+    chapter: "Chapter 2: Fractions and Decimals",
+    question: "A car runs 16 km using 1 litre of petrol. How much distance will it cover using 2 3/4 litres of petrol?",
+    options: [
+      "44 km (16 × 11/4 = 4 × 11 = 44 km)",
+      "32 km",
+      "48 km",
+      "40 km"
+    ],
+    correctAnswer: 0,
+    difficulty: "MEDIUM",
+    damage: 250,
+    explanation: "Distance = 16 × (11/4) = 44 km."
+  },
+  {
+    classLevel: 7,
+    subject: "Mathematics",
+    chapter: "Chapter 2: Fractions and Decimals",
+    question: "Saili plants 4 saplings in a row in her garden. The distance between two adjacent saplings is 3/4 m. Find the total distance between the FIRST and the LAST sapling:",
+    options: [
+      "2 1/4 m (There are 3 gaps between 4 saplings ; Distance = 3 × 3/4 = 9/4 = 2 1/4 m)",
+      "3 m",
+      "2 1/2 m",
+      "1 3/4 m"
+    ],
+    correctAnswer: 0,
+    difficulty: "MEDIUM",
+    damage: 250,
+    explanation: "4 saplings have (4 - 1) = 3 equal intervals: 3 × (3/4) = 9/4 m = 2 1/4 m."
+  },
+  {
+    classLevel: 7,
+    subject: "Mathematics",
+    chapter: "Chapter 2: Fractions and Decimals",
+    question: "Lipika reads a book for 1 3/4 hours every day. She reads the entire book in 6 days. How many total hours were required by her to read the book?",
+    options: [
+      "10 1/2 hours (6 × 7/4 = 42/4 = 21/2 = 10 1/2 hours)",
+      "8 hours",
+      "12 hours",
+      "9 1/4 hours"
+    ],
+    correctAnswer: 0,
+    difficulty: "MEDIUM",
+    damage: 250,
+    explanation: "Total hours = 6 × (7/4) = 42/4 = 21/2 = 10 1/2 hours (10.5 hours)."
+  },
+  {
+    classLevel: 7,
+    subject: "Mathematics",
+    chapter: "Chapter 2: Fractions and Decimals",
+    question: "A picture is 7 3/5 cm wide. To fit in a frame, it cannot be more than 7 3/10 cm wide. How much should the picture be trimmed?",
+    options: [
+      "3/10 cm (7 3/5 - 7 3/10 = 38/5 - 73/10 = 76/10 - 73/10 = 3/10 cm)",
+      "1/5 cm",
+      "1/10 cm",
+      "2/5 cm"
+    ],
+    correctAnswer: 0,
+    difficulty: "MEDIUM",
+    damage: 250,
+    explanation: "7.6 cm - 7.3 cm = 0.3 cm = 3/10 cm."
+  },
+  {
+    classLevel: 7,
+    subject: "Mathematics",
+    chapter: "Chapter 2: Fractions and Decimals",
+    question: "Find the product: 11.2 × 0.15:",
+    options: ["1.680 (1.68)", "16.8", "0.168", "168"],
+    correctAnswer: 0,
+    difficulty: "MEDIUM",
+    damage: 250,
+    explanation: "112 × 15 = 1680. Decimal places = 1 + 2 = 3 → 1.680 = 1.68."
+  },
+  {
+    classLevel: 7,
+    subject: "Mathematics",
+    chapter: "Chapter 2: Fractions and Decimals",
+    question: "Evaluate: 76.5 ÷ 0.15:",
+    options: ["510 (7650 ÷ 15 = 510)", "51", "5.1", "5100"],
+    correctAnswer: 0,
+    difficulty: "MEDIUM",
+    damage: 250,
+    explanation: "76.5 ÷ 0.15 = 7650 ÷ 15 = 510."
+  },
+  {
+    classLevel: 7,
+    subject: "Mathematics",
+    chapter: "Chapter 2: Fractions and Decimals",
+    question: "Find the average (mean) of the numbers: 4.2, 3.8, and 7.6:",
+    options: ["5.2 ((4.2 + 3.8 + 7.6) / 3 = 15.6 / 3 = 5.2)", "5.0", "5.6", "4.8"],
+    correctAnswer: 0,
+    difficulty: "MEDIUM",
+    damage: 250,
+    explanation: "Sum = 4.2 + 3.8 + 7.6 = 15.6. Average = 15.6 ÷ 3 = 5.2."
+  },
+  {
+    classLevel: 7,
+    subject: "Mathematics",
+    chapter: "Chapter 2: Fractions and Decimals",
+    question: "A two-wheeler covers a distance of 55.3 km in 1 litre of petrol. How much distance will it cover in 10 litres of petrol?",
+    options: ["553 km (55.3 × 10 = 553 km)", "55.3 km", "5530 km", "5.53 km"],
+    correctAnswer: 0,
+    difficulty: "MEDIUM",
+    damage: 250,
+    explanation: "55.3 × 10 = 553 km."
+  },
+  {
+    classLevel: 7,
+    subject: "Mathematics",
+    chapter: "Chapter 2: Fractions and Decimals",
+    question: "The side of an equilateral triangle is 3.5 cm. Find its perimeter:",
+    options: ["10.5 cm (3 × 3.5 = 10.5 cm)", "7.0 cm", "12.25 cm", "14.0 cm"],
+    correctAnswer: 0,
+    difficulty: "MEDIUM",
+    damage: 250,
+    explanation: "Perimeter = 3 × side = 3 × 3.5 = 10.5 cm."
+  },
+  {
+    classLevel: 7,
+    subject: "Mathematics",
+    chapter: "Chapter 2: Fractions and Decimals",
+    question: "The length of a rectangle is 7.1 cm and its breadth is 2.5 cm. What is the area of the rectangle?",
+    options: ["17.75 cm² (7.1 × 2.5 = 17.75 cm²)", "19.2 cm²", "18.5 cm²", "16.85 cm²"],
+    correctAnswer: 0,
+    difficulty: "MEDIUM",
+    damage: 250,
+    explanation: "Area = Length × Breadth = 7.1 × 2.5 = 17.75 cm²."
+  },
+  {
+    classLevel: 7,
+    subject: "Mathematics",
+    chapter: "Chapter 2: Fractions and Decimals",
+    question: "Each side of a regular polygon is 2.5 cm in length. The perimeter of the polygon is 12.5 cm. How many sides does the polygon have?",
+    options: ["5 sides (12.5 ÷ 2.5 = 5 sides - Pentagon)", "6 sides", "4 sides", "8 sides"],
+    correctAnswer: 0,
+    difficulty: "MEDIUM",
+    damage: 250,
+    explanation: "Number of sides = Perimeter ÷ Side length = 12.5 ÷ 2.5 = 5."
+  },
+  {
+    classLevel: 7,
+    subject: "Mathematics",
+    chapter: "Chapter 2: Fractions and Decimals",
+    question: "A vehicle covers a distance of 43.2 km in 2.4 litres of petrol. How much distance will it cover in 1 litre of petrol?",
+    options: ["18 km (43.2 ÷ 2.4 = 432 ÷ 24 = 18 km)", "16 km", "20 km", "14.5 km"],
+    correctAnswer: 0,
+    difficulty: "MEDIUM",
+    damage: 250,
+    explanation: "43.2 ÷ 2.4 = 432 ÷ 24 = 18 km/litre."
+  },
+  {
+    classLevel: 7,
+    subject: "Mathematics",
+    chapter: "Chapter 2: Fractions and Decimals",
+    question: "Which of the following products is strictly LESS than each of the two fractions multiplied?",
+    options: [
+      "(2/3) × (4/5) = 8/15 (Product of two proper fractions is ALWAYS less than each fraction)",
+      "(3/2) × (5/4) = 15/8",
+      "(4/3) × (2/5) = 8/15",
+      "(5/2) × (3/1) = 15/2"
+    ],
+    correctAnswer: 0,
+    difficulty: "MEDIUM",
+    damage: 250,
+    explanation: "When two proper fractions (<1) are multiplied, the product is smaller than either factor: 8/15 < 2/3 and 8/15 < 4/5."
+  },
+  {
+    classLevel: 7,
+    subject: "Mathematics",
+    chapter: "Chapter 2: Fractions and Decimals",
+    question: "Express 200 rupees and 5 paise in rupees as a decimal:",
+    options: ["₹200.05 (5 paise = 5/100 = ₹0.05 ⇒ ₹200 + 0.05 = ₹200.05)", "₹200.50", "₹200.5", "₹20.05"],
+    correctAnswer: 0,
+    difficulty: "MEDIUM",
+    damage: 250,
+    explanation: "5 paise = ₹0.05 → ₹200.05."
+  },
+
+  // HARD (12)
+  {
+    classLevel: 7,
+    subject: "Mathematics",
+    chapter: "Chapter 2: Fractions and Decimals",
+    question: "Read the statements:\nAssertion (A): The product of two Proper Fractions is always strictly LESS than each of the two fractions being multiplied.\nReason (R): Multiplying by a proper fraction (a value between 0 and 1) calculates a fractional part/share of the other quantity, which naturally diminishes its original magnitude.\nChoose the correct option:",
+    options: [
+      "Both (A) and (R) are true, and (R) is the correct explanation of (A).",
+      "Both (A) and (R) are true, but (R) is NOT the correct explanation of (A).",
+      "(A) is true, but (R) is false.",
+      "(A) is false, but (R) is true."
+    ],
+    correctAnswer: 0,
+    difficulty: "HARD",
+    damage: 350,
+    explanation: "Multiplying by fractional scalar 0 < x < 1 acts as a scaling compression, yielding a product smaller than both inputs."
+  },
+  {
+    classLevel: 7,
+    subject: "Mathematics",
+    chapter: "Chapter 2: Fractions and Decimals",
+    question: "Spot the IMPOSTER in the following mathematical fraction and decimal evaluations:\nGroup:\n1. 2/3 of 18 = 12\n2. 3.5 × 0.4 = 1.4\n3. (5/6) ÷ (10/12) = 1\n4. 0.08 ÷ 0.4 = 2.0",
+    options: ["Statement 1", "Statement 2", "Statement 3", "Statement 4 (0.08 ÷ 0.4 = 0.2, NOT 2.0)"],
+    correctAnswer: 3,
+    difficulty: "HARD",
+    damage: 350,
+    explanation: "0.08 ÷ 0.4 = 8/100 ÷ 4/10 = 8/100 × 10/4 = 2/10 = 0.2 (NOT 2.0)."
+  },
+  {
+    classLevel: 7,
+    subject: "Mathematics",
+    chapter: "Chapter 2: Fractions and Decimals",
+    question: "Simplify the complex nested fractional expression:\n[ (3 1/3) × (1 4/5) ] ÷ (2 1/2):",
+    options: [
+      "12/5 = 2 2/5 = 2.4 ((10/3 × 9/5) ÷ 5/2 = 6 ÷ 5/2 = 6 × 2/5 = 12/5 = 2.4)",
+      "3 1/5",
+      "1 4/5",
+      "4 1/2"
+    ],
+    correctAnswer: 0,
+    difficulty: "HARD",
+    damage: 350,
+    explanation: "(10/3 × 9/5) = 6. Then 6 ÷ (5/2) = 6 × (2/5) = 12/5 = 2 2/5 = 2.4."
+  },
+  {
+    classLevel: 7,
+    subject: "Mathematics",
+    chapter: "Chapter 2: Fractions and Decimals",
+    question: "Match Column I (Fractions & Decimal Operations) with Column II (Exact Evaluated Values):\n(a) 0.5 × 0.05      -> (i) 0.025\n(b) 0.5 ÷ 0.05      -> (ii) 10\n(c) 3/4 of 4/3      -> (iii) 1\n(d) (2/5) ÷ (4/15)  -> (iv) 1.5 (3/2)",
+    options: [
+      "a-(i), b-(ii), c-(iii), d-(iv)",
+      "a-(ii), b-(i), c-(iv), d-(iii)",
+      "a-(iv), b-(iii), c-(ii), d-(i)",
+      "a-(iii), b-(iv), c-(i), d-(ii)"
+    ],
+    correctAnswer: 0,
+    difficulty: "HARD",
+    damage: 350,
+    explanation: "0.5×0.05=0.025; 0.5/0.05=10; 3/4×4/3=1; 2/5÷4/15 = 2/5×15/4 = 3/2 = 1.5."
+  },
+  {
+    classLevel: 7,
+    subject: "Mathematics",
+    chapter: "Chapter 2: Fractions and Decimals",
+    question: "Read the statements regarding fractional arithmetic:\nStatement 1: The product of two Improper Fractions is ALWAYS greater than each of the two fractions.\nStatement 2: The reciprocal of an improper fraction is always a proper fraction.\nStatement 3: 1 divided by any fraction equals the reciprocal of that fraction.\nWhich statements are TRUE?",
+    options: ["All Statements 1, 2, and 3 are TRUE", "Statements 1 and 2 only", "Statements 2 and 3 only", "Statements 1 and 3 only"],
+    correctAnswer: 0,
+    difficulty: "HARD",
+    damage: 350,
+    explanation: "All three statements are fundamental algebraic theorems of rational number arithmetic."
+  },
+  {
+    classLevel: 7,
+    subject: "Mathematics",
+    chapter: "Chapter 2: Fractions and Decimals",
+    question: "A rectangular field has length 35.75 m and breadth 18.4 m. A running track running along the perimeter is fenced at ₹25.50 per metre. What is the total cost of fencing the field?",
+    options: [
+      "₹2,761.65 (Perimeter = 2(35.75 + 18.4) = 2(54.15) = 108.3 m ; Cost = 108.3 × 25.50 = ₹2,761.65)",
+      "₹2,500.00",
+      "₹2,840.50",
+      "₹3,120.75"
+    ],
+    correctAnswer: 0,
+    difficulty: "HARD",
+    damage: 350,
+    explanation: "Perimeter = 2 × (35.75 + 18.4) = 108.3 m. Cost = 108.3 × 25.50 = ₹2,761.65."
+  },
+  {
+    classLevel: 7,
+    subject: "Mathematics",
+    chapter: "Chapter 2: Fractions and Decimals",
+    question: "In a class of 40 students, 1/5 of the total students like to study English, 2/5 of the total students like to study Mathematics, and the remaining students like to study Science. What FRACTION of the total students like to study Science, and how many students is that?",
+    options: [
+      "Fraction: 2/5 ; Number of students: 16 (English = 8, Math = 16 ; Science = 40 - 24 = 16 students = 16/40 = 2/5)",
+      "Fraction: 1/5 ; Number of students: 8",
+      "Fraction: 3/5 ; Number of students: 24",
+      "Fraction: 1/2 ; Number of students: 20"
+    ],
+    correctAnswer: 0,
+    difficulty: "HARD",
+    damage: 350,
+    explanation: "Science fraction = 1 - (1/5 + 2/5) = 1 - 3/5 = 2/5. Students = 2/5 × 40 = 16 students."
+  },
+  {
+    classLevel: 7,
+    subject: "Mathematics",
+    chapter: "Chapter 2: Fractions and Decimals",
+    question: "If 12 boxes of equal weight weigh a total of 49.8 kg, how much will 25 such boxes weigh?",
+    options: [
+      "103.75 kg (1 box = 49.8 / 12 = 4.15 kg ; 25 boxes = 4.15 × 25 = 103.75 kg)",
+      "98.50 kg",
+      "105.25 kg",
+      "101.40 kg"
+    ],
+    correctAnswer: 0,
+    difficulty: "HARD",
+    damage: 350,
+    explanation: "Weight of 1 box = 49.8 ÷ 12 = 4.15 kg. Weight of 25 boxes = 4.15 × 25 = 103.75 kg."
+  },
+  {
+    classLevel: 7,
+    subject: "Mathematics",
+    chapter: "Chapter 2: Fractions and Decimals",
+    question: "Arrange the following fractions in DESCENDING order (largest to smallest):\n2/9, 2/3, 8/21",
+    options: [
+      "2/3 > 8/21 > 2/9 (Common denominator 63: 2/3 = 42/63 ; 8/21 = 24/63 ; 2/9 = 14/63)",
+      "2/9 > 8/21 > 2/3",
+      "8/21 > 2/3 > 2/9",
+      "2/3 > 2/9 > 8/21"
+    ],
+    correctAnswer: 0,
+    difficulty: "HARD",
+    damage: 350,
+    explanation: "LCM(9, 3, 21) = 63. Fractions: 14/63 (2/9), 42/63 (2/3), 24/63 (8/21). Descending: 2/3 > 8/21 > 2/9."
+  },
+  {
+    classLevel: 7,
+    subject: "Mathematics",
+    chapter: "Chapter 2: Fractions and Decimals",
+    question: "Evaluate: (0.2 × 0.2 × 0.2) + (0.3 × 0.3 × 0.3):",
+    options: [
+      "0.035 (0.008 + 0.027 = 0.035)",
+      "0.35",
+      "0.0035",
+      "0.05"
+    ],
+    correctAnswer: 0,
+    difficulty: "HARD",
+    damage: 350,
+    explanation: "0.2³ = 0.008; 0.3³ = 0.027. Sum = 0.008 + 0.027 = 0.035."
+  },
+  {
+    classLevel: 7,
+    subject: "Mathematics",
+    chapter: "Chapter 2: Fractions and Decimals",
+    question: "A car covers a distance of 89.1 km in 2.2 hours. What is the average distance covered by it in 1 hour?",
+    options: ["40.5 km (89.1 ÷ 2.2 = 891 ÷ 22 = 40.5 km/h)", "42.0 km", "39.5 km", "41.5 km"],
+    correctAnswer: 0,
+    difficulty: "HARD",
+    damage: 350,
+    explanation: "Speed = 89.1 ÷ 2.2 = 891 ÷ 22 = 40.5 km/h."
+  },
+  {
+    classLevel: 7,
+    subject: "Mathematics",
+    chapter: "Chapter 2: Fractions and Decimals",
+    question: "Why is the rigorous understanding of rational fractional division (multiplying by reciprocal) and decimal positional scaling foundational in quantitative computing and applied science?",
+    options: [
+      "It allows precise non-integer continuous calculations, algorithmic scaling, unit conversions, and floating-point error control across physics and computational math",
+      "Because computers can only understand whole numbers",
+      "Because fractions eliminate decimals",
+      "Because division by zero is allowed in decimals"
+    ],
+    correctAnswer: 0,
+    difficulty: "HARD",
+    damage: 350,
+    explanation: "Rational fractions and decimal scaling form the basis of continuous mathematical analysis, dimensional normalization, and numerical algorithms."
+  }
+];
+
+console.log('Generated Class 7 Math Ch2:', mathQuestions.length);
+fs.writeFileSync('C:/EduVerse/class 7/cross_subject/math_ch2.json', JSON.stringify(mathQuestions, null, 2), 'utf8');

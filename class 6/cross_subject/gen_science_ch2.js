@@ -1,0 +1,530 @@
+import fs from 'fs';
+
+// -------------------------------------------------------------
+// SUBJECT 1: Science - Chapter 2: Sorting Materials into Groups (40 Questions)
+// -------------------------------------------------------------
+const scienceQuestions = [
+  // EASY (12)
+  {
+    classLevel: 6,
+    subject: "Science",
+    chapter: "Chapter 2: Sorting Materials into Groups",
+    question: "Materials through which things can be seen clearly are called:",
+    options: ["Transparent", "Translucent", "Opaque", "Lustrous"],
+    correctAnswer: 0,
+    difficulty: "EASY",
+    damage: 150,
+    explanation: "Transparent materials (like clear glass, water, and clean air) transmit almost all incident light without scattering."
+  },
+  {
+    classLevel: 6,
+    subject: "Science",
+    chapter: "Chapter 2: Sorting Materials into Groups",
+    question: "Materials through which we CANNOT see at all are called:",
+    options: ["Opaque", "Transparent", "Translucent", "Soluble"],
+    correctAnswer: 0,
+    difficulty: "EASY",
+    damage: 150,
+    explanation: "Opaque materials (like wood, iron, and cardboard) completely block and absorb or reflect incident light."
+  },
+  {
+    classLevel: 6,
+    subject: "Science",
+    chapter: "Chapter 2: Sorting Materials into Groups",
+    question: "Materials through which objects can be seen, but NOT clearly, are called:",
+    options: ["Translucent", "Transparent", "Opaque", "Lustrous"],
+    correctAnswer: 0,
+    difficulty: "EASY",
+    damage: 150,
+    explanation: "Translucent materials (like butter paper, frosted glass, and oiled paper) scatter transmitted light diffusely."
+  },
+  {
+    classLevel: 6,
+    subject: "Science",
+    chapter: "Chapter 2: Sorting Materials into Groups",
+    question: "The shiny appearance or gleam on the freshly cut surface of metals is called:",
+    options: ["Lustre", "Hardness", "Transparency", "Roughness"],
+    correctAnswer: 0,
+    difficulty: "EASY",
+    damage: 150,
+    explanation: "Lustre refers to the metallic sheen produced by the specular reflection of light from free electrons on metal surfaces."
+  },
+  {
+    classLevel: 6,
+    subject: "Science",
+    chapter: "Chapter 2: Sorting Materials into Groups",
+    question: "Which of the following substances is completely SOLUBLE in water?",
+    options: ["Common salt (Sodium chloride)", "Sand", "Chalk powder", "Sawdust"],
+    correctAnswer: 0,
+    difficulty: "EASY",
+    damage: 150,
+    explanation: "Common salt completely dissociates into sodium and chloride ions in water, forming a clear homogenous solution."
+  },
+  {
+    classLevel: 6,
+    subject: "Science",
+    chapter: "Chapter 2: Sorting Materials into Groups",
+    question: "Which of the following substances is completely INSOLUBLE in water?",
+    options: ["Sawdust", "Sugar", "Copper sulphate crystals", "Vinegar"],
+    correctAnswer: 0,
+    difficulty: "EASY",
+    damage: 150,
+    explanation: "Insoluble wood sawdust does not dissolve and remains suspended or floats on the surface of water."
+  },
+  {
+    classLevel: 6,
+    subject: "Science",
+    chapter: "Chapter 2: Sorting Materials into Groups",
+    question: "Which of the following objects will FLOAT on the surface of water?",
+    options: ["Dry leaf and wooden cork", "Iron nail", "Glass marble", "Stone pebble"],
+    correctAnswer: 0,
+    difficulty: "EASY",
+    damage: 150,
+    explanation: "Objects with a density lower than water (1 g/cm³), such as dry leaves and cork, float on water."
+  },
+  {
+    classLevel: 6,
+    subject: "Science",
+    chapter: "Chapter 2: Sorting Materials into Groups",
+    question: "Which of the following objects will SINK in water?",
+    options: ["Iron key and coin", "Plastic ball", "Dry wooden stick", "Feather"],
+    correctAnswer: 0,
+    difficulty: "EASY",
+    damage: 150,
+    explanation: "Dense metals like iron have a specific gravity greater than 1, causing them to sink immediately."
+  },
+  {
+    classLevel: 6,
+    subject: "Science",
+    chapter: "Chapter 2: Sorting Materials into Groups",
+    question: "Why are cooking utensils (pans, kettles) made of metals while their handles are made of plastic or wood?",
+    options: [
+      "Metals are good conductors of heat, while plastic and wood are insulators that do not burn our hands",
+      "Metals are transparent",
+      "Wood melts faster than metal",
+      "Plastic conducts heat faster"
+    ],
+    correctAnswer: 0,
+    difficulty: "EASY",
+    damage: 150,
+    explanation: "Metals efficiently conduct thermal energy for cooking; plastic/wood handles insulate hands from heat."
+  },
+  {
+    classLevel: 6,
+    subject: "Science",
+    chapter: "Chapter 2: Sorting Materials into Groups",
+    question: "Which of the following is a natural, organic material?",
+    options: ["Cotton", "Nylon", "Polyester", "Plastic"],
+    correctAnswer: 0,
+    difficulty: "EASY",
+    damage: 150,
+    explanation: "Cotton is a natural plant cellulose fiber harvested from the seed bolls of the Gossypium plant."
+  },
+  {
+    classLevel: 6,
+    subject: "Science",
+    chapter: "Chapter 2: Sorting Materials into Groups",
+    question: "Which liquid completely mixes (is miscible) with water?",
+    options: ["Vinegar and Lemon juice", "Kerosene oil", "Mustard oil", "Coconut oil"],
+    correctAnswer: 0,
+    difficulty: "EASY",
+    damage: 150,
+    explanation: "Vinegar (aqueous acetic acid) is polar and forms a single homogenous miscible phase with water."
+  },
+  {
+    classLevel: 6,
+    subject: "Science",
+    chapter: "Chapter 2: Sorting Materials into Groups",
+    question: "Why do shopkeepers usually prefer to keep sweets, biscuits, and toffees in transparent glass or plastic jars?",
+    options: [
+      "So that buyers can easily see and identify the items without opening the containers",
+      "To protect items from getting heavy",
+      "Because glass is the cheapest material",
+      "Because glass absorbs all sugar"
+    ],
+    correctAnswer: 0,
+    difficulty: "EASY",
+    damage: 150,
+    explanation: "Optical transparency enables effortless visual inspection and attractive merchandising without opening containers."
+  },
+
+  // MEDIUM (16)
+  {
+    classLevel: 6,
+    subject: "Science",
+    chapter: "Chapter 2: Sorting Materials into Groups",
+    question: "Why do shiny iron rods or copper vessels lose their metallic lustre and appear dull and tarnished over time?",
+    options: [
+      "They react chemically with moisture and atmospheric gases (oxygen) to form a thin surface oxide layer",
+      "Light stops shining on old metals",
+      "The atoms inside metals disappear",
+      "Metals turn into wood"
+    ],
+    correctAnswer: 0,
+    difficulty: "MEDIUM",
+    damage: 250,
+    explanation: "Surface oxidation and corrosion from ambient humidity and air form dull passivation films, masking intrinsic lustre."
+  },
+  {
+    classLevel: 6,
+    subject: "Science",
+    chapter: "Chapter 2: Sorting Materials into Groups",
+    question: "What happens when mustard oil or cooking oil is vigorously stirred into a glass of water?",
+    options: [
+      "It forms a separate upper layer because oil is immiscible in water and less dense than water",
+      "It dissolves completely to form a transparent solution",
+      "It turns into hard plastic",
+      "It sinks to the bottom as heavy mud"
+    ],
+    correctAnswer: 0,
+    difficulty: "MEDIUM",
+    damage: 250,
+    explanation: "Non-polar lipids are hydrophobic (immiscible) and have lower density (~0.92 g/cm³), floating atop water."
+  },
+  {
+    classLevel: 6,
+    subject: "Science",
+    chapter: "Chapter 2: Sorting Materials into Groups",
+    question: "Why is a tumbler / drinking cup NEVER made out of a piece of cloth?",
+    options: [
+      "Cloth is porous with spaces between interwoven threads and cannot hold or retain liquid water",
+      "Cloth is too heavy to lift",
+      "Cloth turns water into acid",
+      "Cloth is transparent"
+    ],
+    correctAnswer: 0,
+    difficulty: "MEDIUM",
+    damage: 250,
+    explanation: "Woven textiles possess microscopic permeable pores between yarn threads through which liquids immediately leak."
+  },
+  {
+    classLevel: 6,
+    subject: "Science",
+    chapter: "Chapter 2: Sorting Materials into Groups",
+    question: "Why is sorting materials into groups (Classification) scientifically useful in everyday life?",
+    options: [
+      "It allows systematic study of material properties, saves time in locating objects, and aids structured analysis",
+      "It makes all objects colorful",
+      "It eliminates the need for cleaning",
+      "It prevents objects from breaking"
+    ],
+    correctAnswer: 0,
+    difficulty: "MEDIUM",
+    damage: 250,
+    explanation: "Taxonomic categorization organizes entities by shared physical/chemical traits, optimizing identification and retrieval."
+  },
+  {
+    classLevel: 6,
+    subject: "Science",
+    chapter: "Chapter 2: Sorting Materials into Groups",
+    question: "Which of the following gases is dissolved in natural water bodies, enabling aquatic animals and fish to breathe?",
+    options: ["Dissolved Oxygen (O₂)", "Nitrogen gas", "Hydrogen gas", "Methane gas"],
+    correctAnswer: 0,
+    difficulty: "MEDIUM",
+    damage: 250,
+    explanation: "Oxygen partially dissolves in water (~7-10 mg/L), which fish extract across gill membranes for aerobic respiration."
+  },
+  {
+    classLevel: 6,
+    subject: "Science",
+    chapter: "Chapter 2: Sorting Materials into Groups",
+    question: "A material which can be easily compressed, scratched, or bent with fingers is classified as:",
+    options: ["Soft material (e.g., sponge, cotton)", "Hard material", "Lustrous metal", "Opaque metal"],
+    correctAnswer: 0,
+    difficulty: "MEDIUM",
+    damage: 250,
+    explanation: "Materials with low structural indentation resistance and deformability are defined as soft materials."
+  },
+  {
+    classLevel: 6,
+    subject: "Science",
+    chapter: "Chapter 2: Sorting Materials into Groups",
+    question: "A material which is difficult to compress, scratch, or deform is classified as:",
+    options: ["Hard material (e.g., iron, stone, diamond)", "Soft material", "Translucent material", "Soluble material"],
+    correctAnswer: 0,
+    difficulty: "MEDIUM",
+    damage: 250,
+    explanation: "Hardness is the measure of resistance to localized surface plastic deformation, scratching, or abrasion."
+  },
+  {
+    classLevel: 6,
+    subject: "Science",
+    chapter: "Chapter 2: Sorting Materials into Groups",
+    question: "Which pair of materials can be used to make a single everyday object like a chair?",
+    options: ["Wood, Plastic, or Iron", "Water and Milk", "Air and Kerosene", "Oxygen and Sand"],
+    correctAnswer: 0,
+    difficulty: "MEDIUM",
+    damage: 250,
+    explanation: "The same functional object (chair) can be manufactured from various solid structural materials (timber, polymer, metal)."
+  },
+  {
+    classLevel: 6,
+    subject: "Science",
+    chapter: "Chapter 2: Sorting Materials into Groups",
+    question: "What happens when a drop of oil falls on a clean sheet of white writing paper?",
+    options: [
+      "The paper becomes translucent at that spot, allowing light to pass through diffusely",
+      "The paper catches fire instantly",
+      "The paper becomes 100% transparent like clear glass",
+      "The paper dissolves into water"
+    ],
+    correctAnswer: 0,
+    difficulty: "MEDIUM",
+    damage: 250,
+    explanation: "Oil fills the air voids between cellulose fibers, matching refractive indices and rendering the paper translucent."
+  },
+  {
+    classLevel: 6,
+    subject: "Science",
+    chapter: "Chapter 2: Sorting Materials into Groups",
+    question: "Which of the following pairs contains only LUSTROUS materials when freshly cut?",
+    options: ["Aluminium wire and Gold ring", "Cardboard and Wooden block", "Chalk stick and Plastic toy", "Rubber eraser and Sandpaper"],
+    correctAnswer: 0,
+    difficulty: "MEDIUM",
+    damage: 250,
+    explanation: "Metals like aluminium and gold exhibit shiny metallic reflectivity (lustre) on freshly exposed surfaces."
+  },
+  {
+    classLevel: 6,
+    subject: "Science",
+    chapter: "Chapter 2: Sorting Materials into Groups",
+    question: "Why do coins and iron nails sink in water whereas a large wooden log of greater mass floats?",
+    options: [
+      "Density of iron is greater than water, while overall density of wood is lower than that of water",
+      "Iron is magnetic and pulled by Earth",
+      "Wood contains air balloons inside",
+      "Water rejects metal"
+    ],
+    correctAnswer: 0,
+    difficulty: "MEDIUM",
+    damage: 250,
+    explanation: "Flotation depends on relative density (mass per unit volume), not on total absolute mass."
+  },
+  {
+    classLevel: 6,
+    subject: "Science",
+    chapter: "Chapter 2: Sorting Materials into Groups",
+    question: "Which of the following is a man-made (synthetic) material?",
+    options: ["Polythene bag", "Silk saree", "Jute rope", "Leather belt"],
+    correctAnswer: 0,
+    difficulty: "MEDIUM",
+    damage: 250,
+    explanation: "Polyethylene is a synthetic petrochemical polymer produced via artificial chemical polymerization."
+  },
+  {
+    classLevel: 6,
+    subject: "Science",
+    chapter: "Chapter 2: Sorting Materials into Groups",
+    question: "Which of the following liquids is IMMISCIBLE with water?",
+    options: ["Coconut oil", "Milk", "Alcohol", "Lemon juice"],
+    correctAnswer: 0,
+    difficulty: "MEDIUM",
+    damage: 250,
+    explanation: "Lipids (coconut oil) do not mix with polar water molecules and form a separate distinct meniscus layer."
+  },
+  {
+    classLevel: 6,
+    subject: "Science",
+    chapter: "Chapter 2: Sorting Materials into Groups",
+    question: "Why are windows in bathrooms often fitted with frosted (ground) glass instead of clear transparent glass?",
+    options: [
+      "Frosted glass is translucent, allowing sunlight to enter while obscuring clear vision for privacy",
+      "Frosted glass is bulletproof",
+      "Frosted glass produces heat",
+      "Frosted glass never needs cleaning"
+    ],
+    correctAnswer: 0,
+    difficulty: "MEDIUM",
+    damage: 250,
+    explanation: "Diffused surface textures scatter transmitted light rays, ensuring illumination while maintaining visual privacy."
+  },
+  {
+    classLevel: 6,
+    subject: "Science",
+    chapter: "Chapter 2: Sorting Materials into Groups",
+    question: "Which property is tested by rubbing the surface of two materials against each other?",
+    options: ["Hardness and Roughness", "Transparency", "Solubility", "Magnetic attraction"],
+    correctAnswer: 0,
+    difficulty: "MEDIUM",
+    damage: 250,
+    explanation: "Scratch testing evaluates relative Mohs hardness and micro-surface roughness (tactile texture)."
+  },
+  {
+    classLevel: 6,
+    subject: "Science",
+    chapter: "Chapter 2: Sorting Materials into Groups",
+    question: "Which of the following objects is made from MULTIPLE different materials combined together?",
+    options: ["A pencil (made of wood, graphite lead, paint, metal ferrule, and rubber eraser)", "An iron nail", "A glass marble", "A copper wire without insulation"],
+    correctAnswer: 0,
+    difficulty: "MEDIUM",
+    damage: 250,
+    explanation: "A standard pencil is a composite assembly of timber, clay-graphite, lacquer, brass, and synthetic rubber."
+  },
+
+  // HARD (12)
+  {
+    classLevel: 6,
+    subject: "Science",
+    chapter: "Chapter 2: Sorting Materials into Groups",
+    question: "Read the statements:\nAssertion (A): A freshly cut potato slice does NOT possess metallic lustre.\nReason (R): Lustre is a characteristic optical property exhibited predominantly by metals due to their free electron cloud.\nChoose the correct option:",
+    "options": [
+      "Both (A) and (R) are true, and (R) is the correct explanation of (A).",
+      "Both (A) and (R) are true, but (R) is NOT the correct explanation of (A).",
+      "(A) is true, but (R) is false.",
+      "(A) is false, but (R) is true."
+    ],
+    correctAnswer: 0,
+    difficulty: "HARD",
+    damage: 350,
+    explanation: "Metals possess delocalized conduction electrons that oscillate and re-emit incident light, producing true metallic lustre."
+  },
+  {
+    classLevel: 6,
+    subject: "Science",
+    chapter: "Chapter 2: Sorting Materials into Groups",
+    question: "Spot the IMPOSTER in the following group of materials based on their solubility in water:\nGroup: [Sugar, Common Salt, Copper Sulphate, Sand]",
+    "options": ["Sugar", "Common Salt", "Copper Sulphate", "Sand"],
+    correctAnswer: 3,
+    difficulty: "HARD",
+    damage: 350,
+    explanation: "Sand (Silicon dioxide) is completely INSOLUBLE in water, whereas Sugar, Common Salt, and Copper Sulphate are water-SOLUBLE solids."
+  },
+  {
+    classLevel: 6,
+    subject: "Science",
+    chapter: "Chapter 2: Sorting Materials into Groups",
+    question: "Four test tubes contain liquids with water:\n- Tube A: Vinegar + Water\n- Tube B: Lemon Juice + Water\n- Tube C: Kerosene + Water\n- Tube D: Milk + Water\nIn which test tube will TWO distinct immiscible layers be seen after standing for 10 minutes?",
+    "options": ["Tube C (Kerosene + Water)", "Tube A", "Tube B", "Tube D"],
+    correctAnswer: 0,
+    difficulty: "HARD",
+    damage: 350,
+    explanation: "Kerosene is non-polar hydrocarbon, which is immiscible with polar water and separates into an upper floating layer."
+  },
+  {
+    classLevel: 6,
+    subject: "Science",
+    chapter: "Chapter 2: Sorting Materials into Groups",
+    question: "A student shines a torch through three sheets of different materials X, Y, and Z onto a wall:\n- Sheet X: Clear circular bright patch on wall\n- Sheet Y: Faint, diffused blurred patch on wall\n- Sheet Z: Dark shadow with zero light on wall\nIdentify the nature of materials X, Y, and Z:",
+    "options": [
+      "X = Transparent, Y = Translucent, Z = Opaque",
+      "X = Opaque, Y = Translucent, Z = Transparent",
+      "X = Translucent, Y = Transparent, Z = Opaque",
+      "All three are Opaque"
+    ],
+    correctAnswer: 0,
+    difficulty: "HARD",
+    damage: 350,
+    explanation: "Direct light transmission = Transparent (X); scattered partial transmission = Translucent (Y); complete blockage = Opaque (Z)."
+  },
+  {
+    classLevel: 6,
+    subject: "Science",
+    chapter: "Chapter 2: Sorting Materials into Groups",
+    question: "Match Column I (Materials) with Column II (Properties):\n(a) Pure Glass Plate -> (i) Insoluble & floats on water\n(b) Dry Sponge       -> (ii) Transparent\n(c) Kerosene Oil     -> (iii) Soft & compressible\n(d) Iron Block       -> (iv) Opaque, hard & sinks",
+    "options": [
+      "a-(ii), b-(iii), c-(i), d-(iv)",
+      "a-(i), b-(ii), c-(iii), d-(iv)",
+      "a-(iv), b-(iii), c-(ii), d-(i)",
+      "a-(iii), b-(iv), c-(i), d-(ii)"
+    ],
+    correctAnswer: 0,
+    difficulty: "HARD",
+    damage: 350,
+    explanation: "Glass = Transparent; Sponge = Soft/Compressible; Kerosene = Immiscible/Floats; Iron = Opaque/Hard/Sinks."
+  },
+  {
+    classLevel: 6,
+    subject: "Science",
+    chapter: "Chapter 2: Sorting Materials into Groups",
+    question: "Read the statements:\nAssertion (A): Gases like Carbon Dioxide and Oxygen dissolve in water to a small extent.\nReason (R): This dissolved state of gases is critical for the survival of aquatic flora and fauna.\nChoose the correct option:",
+    "options": [
+      "Both (A) and (R) are true, and (R) is the correct explanation of (A).",
+      "Both (A) and (R) are true, but (R) is NOT the correct explanation of (A).",
+      "(A) is true, but (R) is false.",
+      "(A) is false, but (R) is true."
+    ],
+    correctAnswer: 0,
+    difficulty: "HARD",
+    damage: 350,
+    explanation: "Gaseous Henry's law solubility allows dissolved O2 for aquatic respiration and dissolved CO2 for hydrophytic photosynthesis."
+  },
+  {
+    classLevel: 6,
+    subject: "Science",
+    chapter: "Chapter 2: Sorting Materials into Groups",
+    question: "Consider four objects:\n1. Aluminium foil sheet\n2. Pure clear diamond\n3. Wooden block\n4. Thick cardboard box\nWhich object is simultaneously HARD, OPAQUE, and LUSTROUS?",
+    "options": ["Object 1 (Aluminium foil sheet)", "Object 2 (Diamond)", "Object 3 (Wood)", "Object 4 (Cardboard)"],
+    correctAnswer: 0,
+    difficulty: "HARD",
+    damage: 350,
+    explanation: "Aluminium is metallic (lustrous), solid (hard), and completely impenetrable to light (opaque)."
+  },
+  {
+    classLevel: 6,
+    subject: "Science",
+    chapter: "Chapter 2: Sorting Materials into Groups",
+    question: "Why does a hollow plastic toy boat weighing 500 grams float on water, while a solid lead pellet weighing only 5 grams sinks immediately?",
+    "options": [
+      "The boat encloses a large volume of air, making its overall average density much less than water, while dense lead has higher density than water",
+      "Lead is poisonous to water",
+      "Water loves plastic",
+      "Lead has zero surface area"
+    ],
+    correctAnswer: 0,
+    difficulty: "HARD",
+    damage: 350,
+    explanation: "Archimedes' principle: hollow geometry displaces volume with low mean density (mass/volume < 1 g/cm³), enabling flotation."
+  },
+  {
+    classLevel: 6,
+    subject: "Science",
+    chapter: "Chapter 2: Sorting Materials into Groups",
+    question: "Read the statements:\nStatement 1: Diamond is a non-metal that is the hardest naturally occurring substance known.\nStatement 2: All liquids mix completely with water in all proportions.\nStatement 3: Air is a transparent mixture of gases.\nWhich statements are TRUE?",
+    "options": ["Statements 1 and 3 only", "Statements 2 and 3 only", "Statements 1 and 2 only", "All Statements 1, 2, and 3"],
+    "correctAnswer": 0,
+    difficulty: "HARD",
+    damage: 350,
+    explanation: "Statement 2 is false because many non-polar liquids (oils, petrol) are immiscible. Statements 1 and 3 are correct."
+  },
+  {
+    classLevel: 6,
+    subject: "Science",
+    chapter: "Chapter 2: Sorting Materials into Groups",
+    question: "A chemist tests an unknown solid sample:\n- It can be easily scratched by an iron nail\n- It burns with a yellow flame and melts easily\n- It does not dissolve in water\n- It floats on water\nWhat is this material most likely to be?",
+    options: ["Paraffin Wax", "Glass", "Iron", "Common Salt"],
+    correctAnswer: 0,
+    difficulty: "HARD",
+    damage: 350,
+    explanation: "Paraffin wax is soft (scratches easily), low melting, insoluble in water, and floats due to low density (~0.9 g/cm³)."
+  },
+  {
+    classLevel: 6,
+    subject: "Science",
+    chapter: "Chapter 2: Sorting Materials into Groups",
+    question: "Why is sorting waste into Biodegradable (green bin) and Non-Biodegradable (blue bin) materials recommended at municipal levels?",
+    "options": [
+      "It allows organic waste to be composted into soil manure and non-biodegradable plastics/metals to be recycled efficiently",
+      "To make waste colorful",
+      "To increase trash weight",
+      "To hide garbage from sunlight"
+    ],
+    correctAnswer: 0,
+    difficulty: "HARD",
+    damage: 350,
+    explanation: "Source segregation isolates organic matter for aerobic composting while diverting recyclable synthetic polymers and metals from landfills."
+  },
+  {
+    classLevel: 6,
+    subject: "Science",
+    chapter: "Chapter 2: Sorting Materials into Groups",
+    question: "Which of the following optical materials absorbs and reflects ALL incident light rays, casting the darkest and most distinct shadow on the ground?",
+    options: ["A thick solid concrete slab", "A clean glass plate", "A butter paper sheet", "Clean river water"],
+    correctAnswer: 0,
+    difficulty: "HARD",
+    damage: 350,
+    explanation: "Completely opaque solid objects prevent any photon transmission, casting sharp high-contrast geometric umbra shadows."
+  }
+];
+
+console.log('Generated Science Ch2:', scienceQuestions.length);
+fs.writeFileSync('C:/EduVerse/class 6/cross_subject/science_ch2.json', JSON.stringify(scienceQuestions, null, 2), 'utf8');

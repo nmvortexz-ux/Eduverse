@@ -1,0 +1,545 @@
+import fs from 'fs';
+
+// -------------------------------------------------------------
+// SUBJECT 1: Science - Chapter 4: Getting to Know Plants (40 Questions)
+// -------------------------------------------------------------
+const scienceQuestions = [
+  // EASY (12)
+  {
+    classLevel: 6,
+    subject: "Science",
+    chapter: "Chapter 4: Getting to Know Plants",
+    question: "Small plants with green, tender, and soft stems that usually do not have many branches are called:",
+    options: ["Herbs (e.g., Tomato, Mint, Wheat)", "Shrubs", "Trees", "Climbers"],
+    correctAnswer: 0,
+    difficulty: "EASY",
+    damage: 150,
+    explanation: "Herbs are short, non-woody plants with tender green stems (e.g. mint, coriander, tomato)."
+  },
+  {
+    classLevel: 6,
+    subject: "Science",
+    chapter: "Chapter 4: Getting to Know Plants",
+    question: "Medium-sized plants with a hard, woody stem branching out near the base of the stem are called:",
+    options: ["Shrubs (e.g., Rose, Lemon, China rose)", "Herbs", "Trees", "Creepers"],
+    correctAnswer: 0,
+    difficulty: "EASY",
+    damage: 150,
+    explanation: "Shrubs have hard woody stems with multiple branches emerging close to ground level."
+  },
+  {
+    classLevel: 6,
+    subject: "Science",
+    chapter: "Chapter 4: Getting to Know Plants",
+    question: "Tall plants with a thick, hard, dark brown woody main stem (trunk) branching high up in the upper parts are called:",
+    options: ["Trees (e.g., Mango, Neem, Banyan)", "Shrubs", "Herbs", "Climbers"],
+    correctAnswer: 0,
+    difficulty: "EASY",
+    damage: 150,
+    explanation: "Trees are perennial tall plants with massive woody trunks branching high above ground."
+  },
+  {
+    classLevel: 6,
+    subject: "Science",
+    chapter: "Chapter 4: Getting to Know Plants",
+    question: "Plants with weak stems that cannot stand upright and spread out horizontally on the ground are called:",
+    options: ["Creepers (e.g., Watermelon, Pumpkin)", "Climbers", "Herbs", "Shrubs"],
+    correctAnswer: 0,
+    difficulty: "EASY",
+    damage: 150,
+    explanation: "Creepers (like pumpkin, gourd, and watermelon) trail prostate across the ground due to heavy fruits and weak stems."
+  },
+  {
+    classLevel: 6,
+    subject: "Science",
+    chapter: "Chapter 4: Getting to Know Plants",
+    question: "Plants with weak stems that take the support of neighbouring walls, sticks, or trees to climb upwards are called:",
+    options: ["Climbers (e.g., Money plant, Pea, Grapevine)", "Creepers", "Trees", "Herbs"],
+    correctAnswer: 0,
+    difficulty: "EASY",
+    damage: 150,
+    explanation: "Climbers use specialized tendrils or adventitious clingers to ascend vertical supports toward sunlight."
+  },
+  {
+    classLevel: 6,
+    subject: "Science",
+    chapter: "Chapter 4: Getting to Know Plants",
+    question: "The part of a leaf by which it is attached to the stem is called the:",
+    options: ["Petiole (Leaf stalk)", "Lamina", "Midrib", "Vein"],
+    correctAnswer: 0,
+    difficulty: "EASY",
+    damage: 150,
+    explanation: "The petiole is the cylindrical stalk anchoring the leaf blade to the nodal stem junction."
+  },
+  {
+    classLevel: 6,
+    subject: "Science",
+    chapter: "Chapter 4: Getting to Know Plants",
+    question: "The broad, green, flat expanded part of a leaf is called the:",
+    options: ["Lamina (Leaf blade)", "Petiole", "Midrib", "Stipule"],
+    correctAnswer: 0,
+    difficulty: "EASY",
+    damage: 150,
+    explanation: "The lamina (blade) is the flattened photosynthetic surface containing vascular venation networks."
+  },
+  {
+    classLevel: 6,
+    subject: "Science",
+    chapter: "Chapter 4: Getting to Know Plants",
+    question: "The prominent, thick vein running straight down the middle of a leaf lamina is called the:",
+    options: ["Midrib", "Petiole", "Reticulate", "Pith"],
+    correctAnswer: 0,
+    difficulty: "EASY",
+    damage: 150,
+    explanation: "The midrib is the central primary vascular bundle running longitudinally along the leaf axis."
+  },
+  {
+    classLevel: 6,
+    subject: "Science",
+    chapter: "Chapter 4: Getting to Know Plants",
+    question: "The design or pattern of veins on a leaf lamina is called:",
+    options: ["Leaf Venation", "Transpiration", "Photosynthesis", "Germination"],
+    correctAnswer: 0,
+    difficulty: "EASY",
+    damage: 150,
+    explanation: "Venation refers to the spatial architectural arrangement of xylem/phloem veins across the lamina."
+  },
+  {
+    classLevel: 6,
+    subject: "Science",
+    chapter: "Chapter 4: Getting to Know Plants",
+    question: "The physiological process by which plants release excess water as water vapor into the air through microscopic stomatal pores is:",
+    options: ["Transpiration", "Photosynthesis", "Respiration", "Germination"],
+    correctAnswer: 0,
+    difficulty: "EASY",
+    damage: 150,
+    explanation: "Transpiration generates negative xylem tension that pulls water from roots up to crown leaves."
+  },
+  {
+    classLevel: 6,
+    subject: "Science",
+    chapter: "Chapter 4: Getting to Know Plants",
+    question: "The biochemical process by which green leaves synthesize glucose food in the presence of sunlight, chlorophyll, CO₂, and water is called:",
+    options: ["Photosynthesis", "Transpiration", "Respiration", "Fermentation"],
+    correctAnswer: 0,
+    difficulty: "EASY",
+    damage: 150,
+    explanation: "Photosynthesis converts solar energy into chemical energy: 6CO₂ + 6H₂O -> C₆H₁₂O₆ + 6O₂."
+  },
+  {
+    classLevel: 6,
+    subject: "Science",
+    chapter: "Chapter 4: Getting to Know Plants",
+    question: "What primary gas is released into the atmosphere by green leaves during daytime photosynthesis?",
+    options: ["Oxygen gas (O₂)", "Carbon dioxide gas", "Nitrogen gas", "Methane gas"],
+    correctAnswer: 0,
+    difficulty: "EASY",
+    damage: 150,
+    explanation: "Photolysis of water molecules during light-dependent reactions yields diatomic oxygen (O₂) byproduct."
+  },
+
+  // MEDIUM (16)
+  {
+    classLevel: 6,
+    subject: "Science",
+    chapter: "Chapter 4: Getting to Know Plants",
+    question: "What is the key difference between Reticulate Venation and Parallel Venation?",
+    options: [
+      "Reticulate venation forms a net-like web of veins (e.g. Peepal, Mango), while Parallel venation runs in parallel lines (e.g. Grass, Wheat, Banana)",
+      "Parallel venation only occurs in trees",
+      "Reticulate venation has no midrib",
+      "They are identical"
+    ],
+    correctAnswer: 0,
+    difficulty: "MEDIUM",
+    damage: 250,
+    explanation: "Dicot leaves exhibit branching anastomosing net patterns (reticulate), while monocots feature longitudinal parallel venation."
+  },
+  {
+    classLevel: 6,
+    subject: "Science",
+    chapter: "Chapter 4: Getting to Know Plants",
+    question: "What correlation exists between a plant's root system and its leaf venation type?",
+    options: [
+      "Plants with Reticulate venation have Taproots, while plants with Parallel venation have Fibrous roots",
+      "Plants with Reticulate venation have Fibrous roots",
+      "Leaf venation has zero relation to root type",
+      "All trees have fibrous roots"
+    ],
+    correctAnswer: 0,
+    difficulty: "MEDIUM",
+    damage: 250,
+    explanation: "Dicotyledons typically pair reticulate leaf venation with taproots; monocotyledons pair parallel venation with fibrous root clusters."
+  },
+  {
+    classLevel: 6,
+    subject: "Science",
+    chapter: "Chapter 4: Getting to Know Plants",
+    question: "What are the two primary physiological functions performed by plant ROOTS?",
+    options: [
+      "Anchoring the plant firmly in the soil and absorbing water and dissolved mineral nutrients",
+      "Producing flowers and seeds",
+      "Synthesizing oxygen from sunlight",
+      "Breathing air for animals"
+    ],
+    correctAnswer: 0,
+    difficulty: "MEDIUM",
+    damage: 250,
+    explanation: "Roots provide mechanical soil anchorage and extract aqueous minerals across root hair membranes."
+  },
+  {
+    classLevel: 6,
+    subject: "Science",
+    chapter: "Chapter 4: Getting to Know Plants",
+    question: "What are the two primary physiological functions performed by the plant STEM?",
+    options: [
+      "Conducting water and minerals from roots upward to leaves, and transporting synthesized food from leaves to all plant parts",
+      "Producing pollen grains",
+      "Absorbing sunlight directly through bark",
+      "Storing stones"
+    ],
+    correctAnswer: 0,
+    difficulty: "MEDIUM",
+    damage: 250,
+    explanation: "Stems house xylem vascular conduits (upward sap transport) and phloem conduits (bidirectional photosynthate translocation)."
+  },
+  {
+    classLevel: 6,
+    subject: "Science",
+    chapter: "Chapter 4: Getting to Know Plants",
+    question: "What are the four concentric whorls of a complete typical flower from outside to inside?",
+    options: [
+      "Sepals (Calyx) -> Petals (Corolla) -> Stamens (Androecium) -> Pistil/Carpel (Gynoecium)",
+      "Petals -> Sepals -> Pistil -> Stamens",
+      "Pistil -> Stamens -> Petals -> Sepals",
+      "Root -> Stem -> Leaf -> Flower"
+    ],
+    correctAnswer: 0,
+    difficulty: "MEDIUM",
+    damage: 250,
+    explanation: "Floral organs arise in four sequential whorls: outer protective sepals, showy petals, male stamens, and central female pistil."
+  },
+  {
+    classLevel: 6,
+    subject: "Science",
+    chapter: "Chapter 4: Getting to Know Plants",
+    question: "What are the two main parts that make up a male reproductive organ (Stamen) of a flower?",
+    options: ["Anther (produces pollen grains) and Filament (stalk)", "Stigma and Style", "Ovary and Ovule", "Sepal and Petal"],
+    correctAnswer: 0,
+    difficulty: "MEDIUM",
+    damage: 250,
+    explanation: "The stamen consists of the microsporangiate anther supported by a slender filament."
+  },
+  {
+    classLevel: 6,
+    subject: "Science",
+    chapter: "Chapter 4: Getting to Know Plants",
+    question: "What are the three main morphological parts of the female reproductive organ (Pistil / Carpel)?",
+    options: ["Stigma (receptive top), Style (middle tube), and Ovary (swollen base)", "Anther, Filament, Pollen", "Sepal, Petal, Node", "Root, Stem, Leaf"],
+    correctAnswer: 0,
+    difficulty: "MEDIUM",
+    damage: 250,
+    explanation: "The pistil comprises the sticky receptive stigma, elongate neck style, and basal ovule-bearing ovary."
+  },
+  {
+    classLevel: 6,
+    subject: "Science",
+    chapter: "Chapter 4: Getting to Know Plants",
+    question: "What are the small bead-like structures found attached inside the cut ovary of a flower called?",
+    options: ["Ovules (which develop into seeds after fertilization)", "Pollen grains", "Sepals", "Stomata"],
+    correctAnswer: 0,
+    difficulty: "MEDIUM",
+    damage: 250,
+    explanation: "Ovules are the female megasporangia housed on ovarian placentas that ripen into seeds."
+  },
+  {
+    classLevel: 6,
+    subject: "Science",
+    chapter: "Chapter 4: Getting to Know Plants",
+    question: "After successful pollination and fertilization, what does the flower's Ovary ripen into?",
+    options: ["The Fruit (containing seeds inside)", "A new leaf", "A root", "A petal"],
+    correctAnswer: 0,
+    difficulty: "MEDIUM",
+    damage: 250,
+    explanation: "Post-fertilization hormonal signaling swells ovarian pericarp tissues into botanical fruit surrounding the mature seeds."
+  },
+  {
+    classLevel: 6,
+    subject: "Science",
+    chapter: "Chapter 4: Getting to Know Plants",
+    question: "In an experiment, a freshly cut leafy branch with white flowers is placed in water coloured with red ink. What happens after a few hours?",
+    options: [
+      "Red color ascends through narrow vascular tubes inside the stem, turning the flower petals and leaf veins reddish",
+      "The branch dissolves completely",
+      "The leaves turn black",
+      "The water evaporates instantly"
+    ],
+    correctAnswer: 0,
+    difficulty: "MEDIUM",
+    damage: 250,
+    explanation: "Demonstrates xylem vascular conduction: negative transpiration pull draws colored aqueous dye up through stem capillaries."
+  },
+  {
+    classLevel: 6,
+    subject: "Science",
+    chapter: "Chapter 4: Getting to Know Plants",
+    question: "Why are bright, colourful petals and sweet nectar present in many entomophilous flowers?",
+    options: [
+      "To attract honeybees, butterflies, and insects for cross-pollination",
+      "To keep the flower warm at night",
+      "To frighten grazing cattle",
+      "To absorb extra rain"
+    ],
+    correctAnswer: 0,
+    difficulty: "MEDIUM",
+    damage: 250,
+    explanation: "Pigmented floral visual displays and nectar rewards entice insect pollinators to transfer pollen between blossoms."
+  },
+  {
+    classLevel: 6,
+    subject: "Science",
+    chapter: "Chapter 4: Getting to Know Plants",
+    question: "Which of the following root vegetables represents an enlarged, modified Taproot storing surplus food?",
+    options: ["Carrot, Radish, and Beetroot", "Potato and Ginger", "Onion and Garlic", "Tomato and Brinjal"],
+    correctAnswer: 0,
+    difficulty: "MEDIUM",
+    damage: 250,
+    explanation: "Carrot, radish, turnip, and beetroot are swollen biennial primary taproots storing accumulated carbohydrate reserves."
+  },
+  {
+    classLevel: 6,
+    subject: "Science",
+    chapter: "Chapter 4: Getting to Know Plants",
+    question: "Potato, ginger, and turmeric grow underground but are botanically classified as modified STEMS because:",
+    options: [
+      "They possess nodes, internodes, scale leaves, and axillary buds (eyes)",
+      "They absorb water from soil like roots",
+      "They have root caps",
+      "They have no cells"
+    ],
+    correctAnswer: 0,
+    difficulty: "MEDIUM",
+    damage: 250,
+    explanation: "Tubers and rhizomes exhibit cauline morphological features: nodes, internodal spacing, and vegetative eye buds."
+  },
+  {
+    classLevel: 6,
+    subject: "Science",
+    chapter: "Chapter 4: Getting to Know Plants",
+    question: "What happens when a clear polythene bag is tied around a leafy green twig of a potted plant kept in bright sunlight?",
+    options: [
+      "Tiny droplets of water condense on the inner walls of the bag due to transpiration",
+      "The bag fills with black smoke",
+      "The leaves turn into wood",
+      "The bag catches fire"
+    ],
+    correctAnswer: 0,
+    difficulty: "MEDIUM",
+    damage: 250,
+    explanation: "Transpirational water vapor escaping from foliar stomata hits the cooler polyethylene film and condenses into liquid droplets."
+  },
+  {
+    classLevel: 6,
+    subject: "Science",
+    chapter: "Chapter 4: Getting to Know Plants",
+    question: "Which test confirms that green leaves produce and store carbohydrate Starch during photosynthesis?",
+    options: [
+      "Decolourizing a green leaf by boiling in spirit/alcohol, then adding drops of dilute Iodine solution to see a blue-black color",
+      "Adding copper sulphate",
+      "Burning the leaf on paper",
+      "Freezing the leaf in ice"
+    ],
+    correctAnswer: 0,
+    difficulty: "MEDIUM",
+    damage: 250,
+    explanation: "Ethanol extracts green chlorophyll; subsequent triiodide staining yields a deep blue-black amylose-iodine complex."
+  },
+  {
+    classLevel: 6,
+    subject: "Science",
+    chapter: "Chapter 4: Getting to Know Plants",
+    question: "Which of the following plants has leaves with PARALLEL venation and a FIBROUS root system?",
+    options: ["Maize, Wheat, and Grass", "Mustard and Gram", "Mango and Peepal", "China rose and Rose"],
+    correctAnswer: 0,
+    difficulty: "MEDIUM",
+    damage: 250,
+    explanation: "Poaceae grasses and cereals (maize, wheat, rice) are monocots with linear parallel venation and adventitious fibrous roots."
+  },
+
+  // HARD (12)
+  {
+    classLevel: 6,
+    subject: "Science",
+    chapter: "Chapter 4: Getting to Know Plants",
+    question: "Read the statements:\nAssertion (A): It is impossible for a plant with parallel leaf venation to have a true taproot system under normal botanical conditions.\nReason (R): Parallel venation is a defining morphological characteristic of Monocotyledonous plants, which develop fibrous adventitious roots.\nChoose the correct option:",
+    options: [
+      "Both (A) and (R) are true, and (R) is the correct explanation of (A).",
+      "Both (A) and (R) are true, but (R) is NOT the correct explanation of (A).",
+      "(A) is true, but (R) is false.",
+      "(A) is false, but (R) is true."
+    ],
+    correctAnswer: 0,
+    difficulty: "HARD",
+    damage: 350,
+    explanation: "Monocot embryonic radicles abort early, giving rise exclusively to adventitious fibrous root tufts and parallel foliar venation."
+  },
+  {
+    classLevel: 6,
+    subject: "Science",
+    chapter: "Chapter 4: Getting to Know Plants",
+    question: "Spot the IMPOSTER in the following group of plant structures based on their botanical origin:\nGroup: [Carrot, Radish, Turnip, Ginger]",
+    options: ["Carrot", "Radish", "Turnip", "Ginger"],
+    correctAnswer: 3,
+    difficulty: "HARD",
+    damage: 350,
+    explanation: "Ginger is an underground modified STEM (Rhizome) with nodes and scale leaves, whereas Carrot, Radish, and Turnip are modified ROOT structures."
+  },
+  {
+    classLevel: 6,
+    subject: "Science",
+    chapter: "Chapter 4: Getting to Know Plants",
+    question: "A potted green plant kept inside a dark cupboard for 48 hours is tested with iodine solution for starch. The leaf does NOT turn blue-black. Why?",
+    options: [
+      "In the absence of sunlight, photosynthesis ceased, and the plant consumed all its stored starch through cellular respiration (Destarching)",
+      "The iodine lost its chemical power",
+      "The leaves dissolved in the dark",
+      "Darkness creates excess starch"
+    ],
+    correctAnswer: 0,
+    difficulty: "HARD",
+    damage: 350,
+    explanation: "Without photons to drive light reactions, dark metabolism hydrolyzes stored amylose reserves to sustain basal cellular respiration."
+  },
+  {
+    classLevel: 6,
+    subject: "Science",
+    chapter: "Chapter 4: Getting to Know Plants",
+    question: "Match Column I (Flower Organs) with Column II (Functions):\n(a) Sepals   -> (i) Protect flower during bud stage\n(b) Petals   -> (ii) Attract insect pollinators\n(c) Anther   -> (iii) Produce male pollen grains\n(d) Stigma   -> (iv) Receive pollen grains during pollination",
+    options: [
+      "a-(i), b-(ii), c-(iii), d-(iv)",
+      "a-(ii), b-(i), c-(iv), d-(iii)",
+      "a-(iv), b-(iii), c-(ii), d-(i)",
+      "a-(iii), b-(iv), c-(i), d-(ii)"
+    ],
+    correctAnswer: 0,
+    difficulty: "HARD",
+    damage: 350,
+    explanation: "Sepals = bud protection; Petals = pollinator attraction; Anther = pollen genesis; Stigma = pollen reception."
+  },
+  {
+    classLevel: 6,
+    subject: "Science",
+    chapter: "Chapter 4: Getting to Know Plants",
+    question: "Read the statements regarding plant physiology:\nStatement 1: Stems conduct water upwards through xylem capillaries and food bidirectionally through phloem.\nStatement 2: Leaves can carry out photosynthesis even without green chlorophyll.\nStatement 3: Plants release more water vapor on dry sunny days than on humid rainy days.\nWhich statements are TRUE?",
+    options: ["Statements 1 and 3 only", "Statements 1 and 2 only", "Statements 2 and 3 only", "All Statements 1, 2, and 3"],
+    correctAnswer: 0,
+    difficulty: "HARD",
+    damage: 350,
+    explanation: "Statement 2 is false because chlorophyll is essential for photon absorption in photosynthesis. Statements 1 and 3 are scientifically accurate."
+  },
+  {
+    classLevel: 6,
+    subject: "Science",
+    chapter: "Chapter 4: Getting to Know Plants",
+    question: "Why do desert xerophytic plants (like Opuntia cactus) have leaves modified into sharp spines and fleshy green stems?",
+    options: [
+      "Spines drastically reduce water loss via transpiration, while the thick green stem carries out photosynthesis and stores succulent water",
+      "Spines absorb water from air",
+      "To frighten wild animals only",
+      "Because desert soil has no minerals"
+    ],
+    correctAnswer: 0,
+    difficulty: "HARD",
+    damage: 350,
+    explanation: "Foliar reduction into sclerified spines minimizes surface area for transpiration, while the phylloclade stem handles photosynthesis."
+  },
+  {
+    classLevel: 6,
+    subject: "Science",
+    chapter: "Chapter 4: Getting to Know Plants",
+    question: "A student slices an ovary of a hibiscus flower horizontally (transverse cut) and another longitudinally (vertical cut). What do they observe under a magnifying lens?",
+    options: [
+      "Small bead-like ovules arranged inside distinct ovarian chambers (locules)",
+      "Fully formed green seeds",
+      "Flowing red ink",
+      "Tiny pollen tubes only"
+    ],
+    correctAnswer: 0,
+    difficulty: "HARD",
+    damage: 350,
+    explanation: "Microscopic inspection reveals unfertilized megasporangiate ovules anchored to the central placenta within multi-locular carpels."
+  },
+  {
+    classLevel: 6,
+    subject: "Science",
+    chapter: "Chapter 4: Getting to Know Plants",
+    question: "Consider four plants:\n1. China Rose (Hibiscus)\n2. Mustard\n3. Bamboo\n4. Mango\nWhich plant possesses a FIBROUS root system?",
+    options: ["Plant 3 (Bamboo)", "Plant 1 (Hibiscus)", "Plant 2 (Mustard)", "Plant 4 (Mango)"],
+    correctAnswer: 0,
+    difficulty: "HARD",
+    damage: 350,
+    explanation: "Bamboo is a giant monocotyledonous grass characterized by parallel venation and a dense adventitious fibrous root system."
+  },
+  {
+    classLevel: 6,
+    subject: "Science",
+    chapter: "Chapter 4: Getting to Know Plants",
+    question: "Why must a leaf be boiled in alcohol / surgical spirit over a water bath (and NEVER directly over an open burner flame) during the starch test?",
+    options: [
+      "Alcohol is highly flammable and volatile; heating directly over an open flame would ignite it and cause a severe fire hazard",
+      "Water bath makes the leaf sweet",
+      "Direct flame freezes alcohol",
+      "Alcohol turns into stone over flame"
+    ],
+    correctAnswer: 0,
+    difficulty: "HARD",
+    damage: 350,
+    explanation: "Ethanol's low flash point (~13°C) demands indirect heating in a double-boiler water bath to safely extract chlorophyll."
+  },
+  {
+    classLevel: 6,
+    subject: "Science",
+    chapter: "Chapter 4: Getting to Know Plants",
+    question: "What is the primary role of the 'transpiration pull' generated by leaves in tall hundred-meter giant redwood trees?",
+    options: [
+      "It creates continuous negative hydrostatic suction tension that lifts water and dissolved mineral ions from deep root hair cells to top canopy leaves",
+      "It pushes the tree trunk into the ground",
+      "It stops the leaves from getting green",
+      "It keeps the tree warm in summer"
+    ],
+    correctAnswer: 0,
+    difficulty: "HARD",
+    damage: 350,
+    explanation: "Cohesion-Tension theory: Meniscus evaporation in stomatal chambers generates negative xylem xylem sap tension (~-2 MPa) pulling water upwards."
+  },
+  {
+    classLevel: 6,
+    subject: "Science",
+    chapter: "Chapter 4: Getting to Know Plants",
+    question: "Which of the following flowers is 'Incomplete' because it lacks either male stamens or female pistil in the same blossom (Unisexual flower)?",
+    options: ["Papaya and Cucumber flower", "Mustard flower", "China rose (Hibiscus)", "Rose flower"],
+    correctAnswer: 0,
+    difficulty: "HARD",
+    damage: 350,
+    explanation: "Papaya and cucumber are dioecious/monoecious species bearing unisexual staminate (male) or pistillate (female) flowers."
+  },
+  {
+    classLevel: 6,
+    subject: "Science",
+    chapter: "Chapter 4: Getting to Know Plants",
+    question: "What anatomical pathway traces the path of a water molecule from soil entry to atmospheric release?",
+    options: [
+      "Soil water -> Root hair -> Root xylem -> Stem xylem -> Leaf petiole & veins -> Stomatal pores -> Atmosphere (as vapor)",
+      "Leaf -> Stem -> Root -> Soil",
+      "Flower -> Stem -> Root -> Seed",
+      "Soil -> Stoma -> Root -> Stem"
+    ],
+    correctAnswer: 0,
+    difficulty: "HARD",
+    damage: 350,
+    explanation: "Unidirectional transpiration stream: soil water traverses root cortex into central vascular stele, ascends xylem pipes, and exits via leaf stomata."
+  }
+];
+
+console.log('Generated Science Ch4:', scienceQuestions.length);
+fs.writeFileSync('C:/EduVerse/class 6/cross_subject/science_ch4.json', JSON.stringify(scienceQuestions, null, 2), 'utf8');

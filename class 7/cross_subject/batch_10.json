@@ -1,0 +1,3842 @@
+[
+  {
+    "classLevel": 7,
+    "subject": "Science",
+    "chapter": "Chapter 10: Electric Current and its Effects",
+    "question": "In standard circuit diagrams, how is an ELECTRIC CELL represented symbolically?",
+    "options": [
+      "A long thin vertical line (representing the POSITIVE terminal) parallel to a shorter thick vertical line (representing the NEGATIVE terminal)",
+      "A complete closed circle with a cross",
+      "Two identical thick squares",
+      "A wavy spiral line"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "Symbolic convention: the longer, thinner parallel line represents the positive terminal (+), and the shorter, thicker line represents the negative terminal (-)."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Science",
+    "chapter": "Chapter 10: Electric Current and its Effects",
+    "question": "A combination of two or more electric cells connected together in series is called a:",
+    "options": [
+      "Battery",
+      "Switch",
+      "Fuse",
+      "Electromagnet"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "A battery is a connected group of electrochemical cells where the positive terminal of one cell connects to the negative terminal of the next."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Science",
+    "chapter": "Chapter 10: Electric Current and its Effects",
+    "question": "What is the phenomenon where a conducting wire gets intensely HOT when an electric current passes through it called?",
+    "options": [
+      "Heating Effect of Electric Current (Joule Heating)",
+      "Magnetic Effect",
+      "Chemical Effect",
+      "Cooling Effect"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "Joule's heating effect: electrical resistance dissipates electric potential energy into thermal kinetic heat (H = I²Rt)."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Science",
+    "chapter": "Chapter 10: Electric Current and its Effects",
+    "question": "What is the high-resistance metallic wire coil inside electric room heaters, electric irons, toasters, and geysers that glows red-hot to produce heat called?",
+    "options": [
+      "An Heating Element (made of Nichrome alloy)",
+      "A Filament",
+      "A Fuse wire",
+      "A Switch"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "An electric heating element is made of high-resistivity Nichrome alloy (nickel-chromium) that resists oxidation at high temperatures."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Science",
+    "chapter": "Chapter 10: Electric Current and its Effects",
+    "question": "Which high-melting-point metal is used to make the thin glowing FILAMENT inside an incandescent electric bulb?",
+    "options": [
+      "Tungsten (melting point ~3,422°C)",
+      "Copper",
+      "Aluminum",
+      "Lead"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "Tungsten has an exceptionally high melting point (~3,422°C), glowing white-hot to emit light without melting."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Science",
+    "chapter": "Chapter 10: Electric Current and its Effects",
+    "question": "What is an Electric Fuse and what is its primary safety function in household electrical circuits?",
+    "options": [
+      "A safety device containing a low-melting-point wire that melts and breaks the circuit if excessive dangerous electric current flows through it",
+      "A device to generate more electricity",
+      "A switch that makes bulbs brighter",
+      "A meter to measure voltage"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "An electric fuse prevents electrical fires and appliance damage by melting when current exceeds the rated safety threshold."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Science",
+    "chapter": "Chapter 10: Electric Current and its Effects",
+    "question": "What modern automatic safety switches are increasingly replacing traditional melting wire fuses in household electrical wiring?",
+    "options": [
+      "Miniature Circuit Breakers (MCBs)",
+      "Transformers",
+      "Capacitors",
+      "Batteries"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "MCBs automatically trip and switch OFF when current exceeds safe limits, and can easily be reset manually without replacing wires."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Science",
+    "chapter": "Chapter 10: Electric Current and its Effects",
+    "question": "Which Danish physicist discovered in 1820 that an electric current flowing through a wire creates a MAGNETIC FIELD that deflects a nearby magnetic compass needle?",
+    "options": [
+      "Hans Christian Oersted",
+      "Michael Faraday",
+      "Thomas Edison",
+      "James Watt"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "Hans Christian Oersted discovered electromagnetism in 1820 when he noticed an electric current deflects a magnetic compass needle."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Science",
+    "chapter": "Chapter 10: Electric Current and its Effects",
+    "question": "A coil of insulated wire wound around an iron core that acts as a magnet only when electric current flows through it is called an:",
+    "options": [
+      "Electromagnet",
+      "Permanent Bar Magnet",
+      "Electric Cell",
+      "Electric Fuse"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "An electromagnet is a temporary magnet whose magnetic field is generated and controlled by an electric current in its coil."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Science",
+    "chapter": "Chapter 10: Electric Current and its Effects",
+    "question": "What happens to the magnetic field of an Electromagnet when the electric current is switched OFF?",
+    "options": [
+      "It loses its magnetism almost immediately",
+      "It becomes twice as strong",
+      "It explodes",
+      "It becomes a permanent magnet forever"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "Electromagnets are temporary magnets made of soft iron cores that lose magnetic properties the moment current stops flowing."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Science",
+    "chapter": "Chapter 10: Electric Current and its Effects",
+    "question": "Which everyday electromechanical acoustic device operates using an Electromagnet, a soft iron armature, a striker hammer, and a brass gong?",
+    "options": [
+      "An Electric Bell",
+      "A Flashlight",
+      "An Electric Heater",
+      "An Electric Iron"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "An electric bell uses an electromagnet that attracts an iron armature, striking the gong and breaking the contact in a rapid make-and-break cycle."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Science",
+    "chapter": "Chapter 10: Electric Current and its Effects",
+    "question": "Which standard certification mark issued by the Bureau of Indian Standards (BIS) should consumers look for on electrical appliances to ensure quality and safety?",
+    "options": [
+      "ISI Mark",
+      "Agmark",
+      "FSSAI Mark",
+      "Hallmark"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "The ISI certification mark guarantees that electrical appliances conform to national safety, efficiency, and quality standards."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Science",
+    "chapter": "Chapter 10: Electric Current and its Effects",
+    "question": "Why are energy-efficient LED (Light Emitting Diode) bulbs and CFLs preferred over traditional incandescent filament bulbs?",
+    "options": [
+      "Incandescent bulbs waste a large proportion of electrical energy as unwanted Heat, whereas LEDs convert almost all electrical energy directly into Light without heat wastage",
+      "Incandescent bulbs are too bright for human eyes",
+      "LED bulbs do not require any electricity",
+      "LED bulbs last only for one day"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "LEDs use solid-state electroluminescence, consuming 80–90% less energy than resistive incandescent filament bulbs."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Science",
+    "chapter": "Chapter 10: Electric Current and its Effects",
+    "question": "How should cells be arranged in a battery holder so that electric current flows properly?",
+    "options": [
+      "The POSITIVE (+) terminal of one cell must be connected to the NEGATIVE (-) terminal of the next cell in a continuous series",
+      "Positive terminal must connect to positive terminal",
+      "Negative terminal must connect to negative terminal",
+      "Cells can be placed in any random direction"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "Series electrochemical connection requires alternating polarities (+ to -) to add individual cell voltages together."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Science",
+    "chapter": "Chapter 10: Electric Current and its Effects",
+    "question": "What two dangerous electrical fault conditions cause an excessive, surging current to flow through domestic wiring, triggering fires or blowing fuses?",
+    "options": [
+      "1. Short Circuit (direct contact between live and neutral wires due to damaged insulation) ; and 2. Overloading (connecting too many high-power appliances to a single socket)",
+      "High room temperature and heavy rain",
+      "Turning on light bulbs during the day",
+      "Using long wires"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "Short circuits bypass load resistance (R ≈ 0, surging I) and overloading draws additive current exceeding cable ampacity."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Science",
+    "chapter": "Chapter 10: Electric Current and its Effects",
+    "question": "How can the magnetic strength of a simple solenoid Electromagnet be significantly INCREASED?",
+    "options": [
+      "By increasing the number of turns of the insulated wire coil, and by increasing the magnitude of electric current flowing through it",
+      "By using a plastic core instead of iron",
+      "By reducing the number of turns to one",
+      "By cooling the wire in ice"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "Magnetic flux density B is directly proportional to turn density and current (B = μ·n·I) around a ferromagnetic soft iron core."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Science",
+    "chapter": "Chapter 10: Electric Current and its Effects",
+    "question": "Why should an ordinary copper wire NEVER be used as a replacement fuse wire in a fuse carrier?",
+    "options": [
+      "Copper has a very high melting point and low resistance; it will NOT melt during heavy current overloads, causing house wires to catch fire and burn appliances",
+      "Copper does not conduct electricity",
+      "Copper attracts lightning",
+      "Copper turns into water"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "Copper has a high melting point (~1,085°C), defeating the safety purpose of a calibrated low-melting-point lead-tin eutectic fuse wire."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Science",
+    "chapter": "Chapter 10: Electric Current and its Effects",
+    "question": "How does the 'Make-and-Break' contact screw mechanism work in an Electric Bell?",
+    "options": [
+      "When the electromagnet attracts the iron armature to strike the gong, it pulls the contact strip away from the screw, breaking the circuit; the electromagnet loses magnetism, the spring pulls the armature back, re-establishing contact to repeat the cycle rapidly",
+      "The bell is struck by hand",
+      "A motor rotates the bell",
+      "The bell rings by sound waves"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "The electromechanical contact interrupter self-oscillates: magnetic attraction breaks the circuit, spring restores contact, creating continuous ringing."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Science",
+    "chapter": "Chapter 10: Electric Current and its Effects",
+    "question": "Why are powerful industrial Electromagnets attached to giant cranes in junkyards and steel factories?",
+    "options": [
+      "To effortlessly lift, move, and sort heavy scrap iron, steel plates, and magnetic debris by simply turning the electric current ON to pick up and OFF to drop",
+      "To weld cars together",
+      "To generate electricity from trash",
+      "To paint steel beams"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "Heavy-duty lifting electromagnets switch magnetic hold instantaneously, revolutionizing scrap metal handling without mechanical hooks."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Science",
+    "chapter": "Chapter 10: Electric Current and its Effects",
+    "question": "What is the medical application of tiny specialized Electromagnets in hospitals?",
+    "options": [
+      "Ophthalmic surgeons use miniature electromagnets to safely extract tiny accidental iron splinters from a patient's eye",
+      "To heal broken bones",
+      "To test blood sugar",
+      "To measure body temperature"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "Eye surgeons use micro-electromagnets to non-invasively extract ferromagnetic foreign particles embedded in ocular tissues."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Science",
+    "chapter": "Chapter 10: Electric Current and its Effects",
+    "question": "What physical factors determine the amount of heat produced in a current-carrying wire according to Joule's Heating Law?",
+    "options": [
+      "The Material of the wire (resistivity), its Length, its Thickness (cross-sectional area), and the Duration of time current flows through it (H ∝ I²Rt)",
+      "The color of the wire only",
+      "The atmospheric air pressure only",
+      "The shape of the switch"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "Joule's heat H = I²Rt depends on current squared (I²), resistance R (governed by material ρ, length L, and cross-section A), and time t."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Science",
+    "chapter": "Chapter 10: Electric Current and its Effects",
+    "question": "What happens when a magnetic compass is placed near an electric wire and the switch is turned ON?",
+    "options": [
+      "The magnetic needle immediately deflects from its North-South alignment due to the magnetic field generated by the electric current",
+      "The compass needle spins forever like a fan",
+      "The compass catches fire",
+      "Nothing happens to the compass"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "Oersted effect: the concentric magnetic field lines induced by the current exert a torque on the compass magnetic dipole."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Science",
+    "chapter": "Chapter 10: Electric Current and its Effects",
+    "question": "Why does the connecting copper wire in an electric circuit remain cool while the Nichrome element in an electric toaster glows bright red?",
+    "options": [
+      "Copper has extremely low electrical resistance (producing negligible heat), whereas Nichrome has very high resistance and dissipates immense heat (H ∝ R)",
+      "Copper is kept in water",
+      "Nichrome is painted red",
+      "Copper has no current"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "In a series circuit with constant current I, heat generation is directly proportional to resistance (H ∝ R); R_nichrome >> R_copper."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Science",
+    "chapter": "Chapter 10: Electric Current and its Effects",
+    "question": "What happens when the filament of an electric bulb breaks (burns out / gets 'fused')?",
+    "options": [
+      "The electrical circuit becomes OPEN (broken), current stops flowing, and the bulb cannot emit light",
+      "The bulb shines twice as bright",
+      "The battery charges automatically",
+      "The bulb changes color to green"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "A severed filament creates an open circuit (infinite resistance), arresting current flow through the bulb."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Science",
+    "chapter": "Chapter 10: Electric Current and its Effects",
+    "question": "Which of the following household appliances utilizes the HEATING effect of electric current?",
+    "options": [
+      "Electric Geyser, Electric Toaster, Electric Iron, Room Heater",
+      "Electric Fan, Mixer Grinder, Washing Machine",
+      "Radio, Television, Mobile phone",
+      "Refrigerator, Air Conditioner"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "Geysers, toasters, irons, and room heaters convert electrical energy into thermal energy via resistive Joule heating elements."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Science",
+    "chapter": "Chapter 10: Electric Current and its Effects",
+    "question": "Which of the following household appliances utilizes the MAGNETIC effect of electric current (Electric Motors)?",
+    "options": [
+      "Electric Fan, Washing Machine, Mixer Grinder, Water Pump",
+      "Electric Kettle, Immersion Rod, Electric Heater",
+      "Flashlight bulb, Candle, Lamp",
+      "Electric Iron"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "Electric motors in fans, washing machines, and pumps convert electrical energy into mechanical rotation via electromagnetic Lorentz forces."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Science",
+    "chapter": "Chapter 10: Electric Current and its Effects",
+    "question": "What is the function of a Switch (Key) in an electric circuit?",
+    "options": [
+      "It is a simple deliberate device used to either close (COMPLETE) or open (BREAK) the electric circuit at will",
+      "It generates electric voltage",
+      "It changes AC into DC",
+      "It cools the wires"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "A switch mechanically bridges or opens circuit continuity to control current flow to electrical loads."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Science",
+    "chapter": "Chapter 10: Electric Current and its Effects",
+    "question": "What is the core material traditionally used inside an electromagnet coil to achieve maximum temporary magnetic strength?",
+    "options": [
+      "Soft Iron (due to high magnetic permeability and low retentivity)",
+      "Hard Steel",
+      "Wood",
+      "Glass"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "Soft iron possesses high magnetic permeability and low retentivity (coercivity), magnetizing strongly and demagnetizing instantly."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Science",
+    "chapter": "Chapter 10: Electric Current and its Effects",
+    "question": "Read the statements:\nAssertion (A): Electric fuses and MCBs are critical sacrificial safety devices that must be connected in series with the LIVE WIRE of a circuit.\nReason (R): Placing the fuse in the live wire ensures that whenever an overcurrent or short circuit occurs, the circuit is disconnected immediately at the high-voltage source, preventing electric shock hazards and wire fires.\nChoose the correct option:",
+    "options": [
+      "Both (A) and (R) are true, and (R) is the correct explanation of (A).",
+      "Both (A) and (R) are true, but (R) is NOT the correct explanation of (A).",
+      "(A) is true, but (R) is false.",
+      "(A) is false, but (R) is true."
+    ],
+    "correctAnswer": 0,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "Live wire placement isolates downstream appliances from high potential (220V), preventing shock hazards upon fuse interruption."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Science",
+    "chapter": "Chapter 10: Electric Current and its Effects",
+    "question": "Spot the IMPOSTER in the following group of Electrical Components and their standard circuit symbols:\nGroup:\n1. Electric Cell - One long thin line and one short thick parallel line\n2. Open Switch - Two small circles with disconnected lever bar\n3. Battery - Alternating series of long and short parallel lines\n4. Electric Bulb - A live fire burning in a glass bowl",
+    "options": [
+      "Symbol 1",
+      "Symbol 2",
+      "Symbol 3",
+      "Symbol 4 (The standard symbol for an electric bulb is a circle with a LOOPED FILAMENT inside, NOT a live burning fire)"
+    ],
+    "correctAnswer": 3,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "Standard IEC circuit symbol for a lamp/bulb is a circle enclosing a coiled filament cross/loop."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Science",
+    "chapter": "Chapter 10: Electric Current and its Effects",
+    "question": "If an electric iron draws a current of 5 A from a 220 V supply line and has an internal resistance of 44 Ω, calculate the amount of HEAT energy generated in 10 minutes (600 seconds):",
+    "options": [
+      "660,000 Joules or 660 kJ (Heat H = I² × R × t = 5² × 44 × 600 = 25 × 44 × 600 = 1,100 × 600 = 660,000 J)",
+      "330,000 J",
+      "550,000 J",
+      "440,000 J"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "H = I²Rt = (25)(44)(600) = 660,000 J = 660 kJ."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Science",
+    "chapter": "Chapter 10: Electric Current and its Effects",
+    "question": "Match Column I (Electrical Devices) with Column II (Core Physical Operating Principles):\n(a) Electric Geyser   -> (i) High-resistance Joule heating effect in Nichrome\n(b) Electric Bell     -> (ii) Rapid electromechanical make-and-break electromagnetic attraction\n(c) Electric Fuse     -> (iii) Sacrificial thermal melting at rated ampacity threshold\n(d) Magnetic Compass  -> (iv) Deflection by induced magnetic dipole torque around current",
+    "options": [
+      "a-(i), b-(ii), c-(iii), d-(iv)",
+      "a-(ii), b-(i), c-(iv), d-(iii)",
+      "a-(iv), b-(iii), c-(ii), d-(i)",
+      "a-(iii), b-(iv), c-(i), d-(ii)"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "Geyser = Joule heating; Bell = make-break electromagnetism; Fuse = thermal melting; Compass = Oersted deflection."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Science",
+    "chapter": "Chapter 10: Electric Current and its Effects",
+    "question": "Read the statements regarding electromagnetism:\nStatement 1: Reversing the direction of electric current in a wire reverses the direction of magnetic deflection in a compass needle.\nStatement 2: An electromagnet made with a steel core retains permanent magnetism even after current is turned off.\nStatement 3: An electric current creates a gravitational field that repels water.\nWhich statements are TRUE?",
+    "options": [
+      "Statements 1 and 2 only",
+      "Statements 2 and 3 only",
+      "Statements 1 and 3 only",
+      "All Statements 1, 2, and 3"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "Statement 3 is an absurd falsehood. Statements 1 (Right-hand rule vector reversal) and 2 (Steel hysteresis retentivity) are true."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Science",
+    "chapter": "Chapter 10: Electric Current and its Effects",
+    "question": "Why is an inert gas mixture (like Argon with Nitrogen) filled inside traditional incandescent glass light bulbs instead of ordinary air?",
+    "options": [
+      "Ordinary air contains Oxygen, which would instantly oxidize and burn up the white-hot Tungsten filament into smoke; inert Argon prevents oxidation and suppresses tungsten evaporation",
+      "To make the bulb lighter so it can float",
+      "Because argon is cheaper than air",
+      "To produce colored sparks"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "Inert argon/nitrogen atmosphere prevents high-temperature oxidation of tungsten and retards filament vaporization."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Science",
+    "chapter": "Chapter 10: Electric Current and its Effects",
+    "question": "How do Maglev (Magnetic Levitation) high-speed bullet trains use superconducting Electromagnets to travel at speeds exceeding 500 km/h?",
+    "options": [
+      "Powerful electromagnets create magnetic repulsion that levitates the train frictionless above the guideway track, propelling it forward with alternating linear electromagnetic fields",
+      "They burn coal in giant boilers",
+      "They have giant rubber wheels moved by wind",
+      "They slide on ice tracks"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "Electromagnetic suspension (EMS) and linear synchronous propulsion eliminate mechanical wheel-rail friction in Maglev transit."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Science",
+    "chapter": "Chapter 10: Electric Current and its Effects",
+    "question": "Consider four circuit configurations:\n1. Three 1.5 V cells connected in series (+ to -)\n2. A Nichrome wire connected to a 12 V battery\n3. An open switch in a closed circuit loop\n4. A compass placed near a DC current carrying coil\nWhich of these configurations will produce an ENERGIZED MAGNETIC FIELD OR GLOWING HEAT?",
+    "options": [
+      "Configurations 1, 2, and 4 only",
+      "Configuration 3 only",
+      "Configurations 2 and 3 only",
+      "All 1, 2, 3, and 4"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "Configuration 3 has an open switch (zero current, no heat/magnetism). Configurations 1, 2, 4 are closed active systems."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Science",
+    "chapter": "Chapter 10: Electric Current and its Effects",
+    "question": "What physical property distinguishes a Bimetallic Strip used in thermal thermostat switches and thermal MCBs?",
+    "options": [
+      "Two different metals (e.g. brass and iron) with different thermal expansion coefficients bonded together; differential expansion causes the strip to bend upon heating, breaking the circuit at a set temperature",
+      "It produces electricity from light",
+      "It turns into liquid metal",
+      "It magnetizes wood"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "Differential linear thermal expansion (α_brass > α_iron) forces mechanical curvature that trips electrical contacts in thermal overloads."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Science",
+    "chapter": "Chapter 10: Electric Current and its Effects",
+    "question": "Why does an electric heater element made of Nichrome (resistance ~50 Ω) glow red-hot, while the copper connecting cord (resistance ~0.05 Ω) supplying the exact same current remains completely cool to the touch?",
+    "options": [
+      "Because power dissipation P = I²R is 1,000 times greater in the Nichrome element than in the copper leads carrying identical series current",
+      "Because copper is insulated with cold water",
+      "Because current only enters the Nichrome",
+      "Because Nichrome absorbs cold from the room"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "Series current is uniform; thermal dissipation scales strictly with resistance (P = I²R), producing 1000× more heat in Nichrome."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Science",
+    "chapter": "Chapter 10: Electric Current and its Effects",
+    "question": "What is the function of the permanent magnet inside an acoustic Loudspeaker when combined with an electromagnetic Voice Coil?",
+    "options": [
+      "Audio electrical signals passing through the voice coil generate fluctuating magnetic fields that interact with the permanent magnet, rapidly vibrating the speaker cone to produce audible sound waves",
+      "To keep the speaker cool",
+      "To store digital songs",
+      "To filter radio stations"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "Electrodynamic speakers translate variable AC audio currents into mechanical diaphragmatic acoustic vibrations via Lorentz forces."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Science",
+    "chapter": "Chapter 10: Electric Current and its Effects",
+    "question": "What grand technological unification is established in Chapter 10 of NCERT Class 7 Science?",
+    "options": [
+      "The profound transformation of electrical energy into thermal heat, radiant light, and controllable magnetic forces—underpinning the entire infrastructure of modern domestic appliances, electrical safety engineering, and electromechanical automation",
+      "That electricity is dangerous and should never be used",
+      "That magnets have no connection to electricity",
+      "That all circuits must be powered by steam engines"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "Chapter 10 unifies electro-thermal conversion, circuit schematic symbology, safety interruption, and foundational electromagnetism."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Mathematics",
+    "chapter": "Chapter 10: Algebraic Expressions",
+    "question": "In an algebraic expression, a quantity that can take various numerical values is called a:",
+    "options": [
+      "Variable (e.g. x, y, z, a, b)",
+      "Constant",
+      "Coefficient only",
+      "Exponent"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "A variable is a letter or symbol that represents an unknown quantity capable of assuming different numerical values."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Mathematics",
+    "chapter": "Chapter 10: Algebraic Expressions",
+    "question": "A quantity in an algebraic expression that has a FIXED numerical value is called a:",
+    "options": [
+      "Constant (e.g. 4, -7, 100)",
+      "Variable",
+      "Literal coefficient",
+      "Degree"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "A constant is a term with a fixed, unchangeable numeric value."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Mathematics",
+    "chapter": "Chapter 10: Algebraic Expressions",
+    "question": "What are the TERMS of the algebraic expression 4x² - 3xy + 7?",
+    "options": [
+      "4x², -3xy, and 7",
+      "4x, 3xy, and 7",
+      "4, -3, and 7",
+      "x² and xy"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "Terms are parts of an expression separated by addition or subtraction: 4x², -3xy, and 7."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Mathematics",
+    "chapter": "Chapter 10: Algebraic Expressions",
+    "question": "In the algebraic term -7xy², what is the NUMERICAL COEFFICIENT?",
+    "options": [
+      "-7",
+      "7",
+      "xy²",
+      "-7x"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "The numerical factor in a term is its numerical coefficient (-7)."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Mathematics",
+    "chapter": "Chapter 10: Algebraic Expressions",
+    "question": "An algebraic expression containing exactly ONE single term (e.g. 7xy, -5x², 3) is called a:",
+    "options": [
+      "Monomial",
+      "Binomial",
+      "Trinomial",
+      "Polynomial with 4 terms"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "A monomial is an algebraic expression consisting of a single term."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Mathematics",
+    "chapter": "Chapter 10: Algebraic Expressions",
+    "question": "An algebraic expression containing exactly TWO unlike terms (e.g. a + b, 4l + 5m) is called a:",
+    "options": [
+      "Binomial",
+      "Monomial",
+      "Trinomial",
+      "Constant"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "A binomial consists of exactly two non-zero unlike terms."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Mathematics",
+    "chapter": "Chapter 10: Algebraic Expressions",
+    "question": "An algebraic expression containing exactly THREE unlike terms (e.g. x + y + z, 2a - 3b + 5) is called a:",
+    "options": [
+      "Trinomial",
+      "Monomial",
+      "Binomial",
+      "Degree"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "A trinomial contains exactly three non-zero unlike terms."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Mathematics",
+    "chapter": "Chapter 10: Algebraic Expressions",
+    "question": "Terms that have the EXACT SAME algebraic variable factors and powers (e.g. 7x and -12x, or 3xy² and 8y²x) are called:",
+    "options": [
+      "Like Terms",
+      "Unlike Terms",
+      "Constants",
+      "Binomials"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "Like terms have identical variable components with matching exponents, differing only in numerical coefficients."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Mathematics",
+    "chapter": "Chapter 10: Algebraic Expressions",
+    "question": "Simplify by combining like terms: 12m² - 9m + 5m - 4m² - 7m + 10:",
+    "options": [
+      "8m² - 11m + 10 ((12 - 4)m² + (-9 + 5 - 7)m + 10 = 8m² - 11m + 10)",
+      "16m² - 11m + 10",
+      "8m² + 11m - 10",
+      "8m² - 21m + 10"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "(12-4)m² + (-9+5-7)m + 10 = 8m² - 11m + 10."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Mathematics",
+    "chapter": "Chapter 10: Algebraic Expressions",
+    "question": "If m = 2, find the value of the algebraic expression 3m - 5:",
+    "options": [
+      "1 (3 × 2 - 5 = 6 - 5 = 1)",
+      "-1",
+      "5",
+      "6"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "3(2) - 5 = 6 - 5 = 1."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Mathematics",
+    "chapter": "Chapter 10: Algebraic Expressions",
+    "question": "If x = -1, find the value of 2x² - x - 2:",
+    "options": [
+      "1 (2 × (-1)² - (-1) - 2 = 2 × 1 + 1 - 2 = 3 - 2 = 1)",
+      "-1",
+      "3",
+      "0"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "2(-1)² - (-1) - 2 = 2(1) + 1 - 2 = 1."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Mathematics",
+    "chapter": "Chapter 10: Algebraic Expressions",
+    "question": "Subtract -5y² from y²:",
+    "options": [
+      "6y² (y² - (-5y²) = y² + 5y² = 6y²)",
+      "-4y²",
+      "4y²",
+      "-6y²"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "y² - (-5y²) = y² + 5y² = 6y²."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Mathematics",
+    "chapter": "Chapter 10: Algebraic Expressions",
+    "question": "Add the algebraic expressions: 7mn + 5, 12mn + 2, 9mn - 8, and -2mn - 3:",
+    "options": [
+      "26mn - 4 ((7 + 12 + 9 - 2)mn + (5 + 2 - 8 - 3) = 26mn - 4)",
+      "28mn - 4",
+      "26mn + 4",
+      "24mn - 6"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "Sum of coefficients = (7+12+9-2)mn + (5+2-8-3) = 26mn - 4."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Mathematics",
+    "chapter": "Chapter 10: Algebraic Expressions",
+    "question": "Subtract 24ab - 10b - 18a from 30ab + 12b + 14a:",
+    "options": [
+      "6ab + 22b + 32a ((30 - 24)ab + (12 - (-10))b + (14 - (-18))a = 6ab + 22b + 32a)",
+      "6ab + 2b - 4a",
+      "54ab + 22b + 32a",
+      "6ab + 22b - 4a"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "(30-24)ab + (12+10)b + (14+18)a = 6ab + 22b + 32a."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Mathematics",
+    "chapter": "Chapter 10: Algebraic Expressions",
+    "question": "What should be added to x² + xy + y² to obtain 2x² + 3xy?",
+    "options": [
+      "x² + 2xy - y² ((2x² + 3xy) - (x² + xy + y²) = (2-1)x² + (3-1)xy - y² = x² + 2xy - y²)",
+      "x² + 4xy + y²",
+      "3x² + 4xy + y²",
+      "-x² - 2xy + y²"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "(2x² + 3xy) - (x² + xy + y²) = x² + 2xy - y²."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Mathematics",
+    "chapter": "Chapter 10: Algebraic Expressions",
+    "question": "What should be subtracted from 2a + 8b + 10 to get -3a + 7b + 16?",
+    "options": [
+      "5a + b - 6 ((2a + 8b + 10) - (-3a + 7b + 16) = (2+3)a + (8-7)b + (10-16) = 5a + b - 6)",
+      "-a + 15b + 26",
+      "5a - b + 6",
+      "-5a - b + 6"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "(2a + 8b + 10) - (-3a + 7b + 16) = 5a + b - 6."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Mathematics",
+    "chapter": "Chapter 10: Algebraic Expressions",
+    "question": "From the sum of 3x - y + 11 and -y - 11, subtract 3x - y - 11:",
+    "options": [
+      "-y + 11 (Sum = 3x - 2y ; Subtracting: (3x - 2y) - (3x - y - 11) = -2y + y + 11 = -y + 11)",
+      "y + 11",
+      "-y - 11",
+      "6x - 3y"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "Sum = 3x - 2y. Result = (3x - 2y) - (3x - y - 11) = -y + 11."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Mathematics",
+    "chapter": "Chapter 10: Algebraic Expressions",
+    "question": "If a = 2 and b = -2, find the value of a² + ab + b²:",
+    "options": [
+      "4 (2² + (2 × -2) + (-2)² = 4 - 4 + 4 = 4)",
+      "0",
+      "8",
+      "12"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "2² + 2(-2) + (-2)² = 4 - 4 + 4 = 4."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Mathematics",
+    "chapter": "Chapter 10: Algebraic Expressions",
+    "question": "If x = 0 and y = -1, find the value of 2x²y + 2xy² + xy:",
+    "options": [
+      "0 (Since x = 0, every product term containing x becomes 0: 0 + 0 + 0 = 0)",
+      "-1",
+      "2",
+      "-2"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "2(0)²(-1) + 2(0)(-1)² + (0)(-1) = 0."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Mathematics",
+    "chapter": "Chapter 10: Algebraic Expressions",
+    "question": "Simplify the expression and find its value when x = 3:\n2(x² + xy) + 3 - xy where y = 2:",
+    "options": [
+      "39 (Expression = 2x² + 2xy - xy + 3 = 2x² + xy + 3 ; For x=3, y=2: 2(9) + (3×2) + 3 = 18 + 6 + 3 = 27 ... Wait: 2(3² + 3×2) + 3 - (3×2) = 2(9+6) + 3 - 6 = 30 + 3 - 6 = 27)",
+      "27 (2(9+6) + 3 - 6 = 30 + 3 - 6 = 27)",
+      "33",
+      "24"
+    ],
+    "correctAnswer": 1,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "2(3² + 3×2) + 3 - (3×2) = 2(15) + 3 - 6 = 30 - 3 = 27."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Mathematics",
+    "chapter": "Chapter 10: Algebraic Expressions",
+    "question": "If the general nth term of a number sequence pattern is given by (3n + 1), find the 10th term and the 25th term of the sequence:",
+    "options": [
+      "10th term = 31 ; 25th term = 76 (For n = 10: 3(10) + 1 = 31 ; For n = 25: 3(25) + 1 = 76)",
+      "10th term = 30 ; 25th term = 75",
+      "10th term = 34 ; 25th term = 79",
+      "10th term = 29 ; 25th term = 74"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "T₁₀ = 3(10) + 1 = 31. T₂₅ = 3(25) + 1 = 76."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Mathematics",
+    "chapter": "Chapter 10: Algebraic Expressions",
+    "question": "Find the algebraic expression for the PERIMETER of an equilateral triangle of side 's':",
+    "options": [
+      "3s (Perimeter = s + s + s = 3s)",
+      "s³",
+      "3 + s",
+      "s² / 3"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "Perimeter of an equilateral triangle = 3 × side = 3s."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Mathematics",
+    "chapter": "Chapter 10: Algebraic Expressions",
+    "question": "What is the tree diagram factor representation of the term -ab + 2b² - 3a²?",
+    "options": [
+      "Terms: (-ab) with factors -1, a, b ; (2b²) with factors 2, b, b ; (-3a²) with factors -3, a, a",
+      "Terms: a, b, and 3",
+      "Terms: a²b²",
+      "Factors are only positive numbers"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "Tree factor breakdown: -ab → (-1, a, b); 2b² → (2, b, b); -3a² → (-3, a, a)."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Mathematics",
+    "chapter": "Chapter 10: Algebraic Expressions",
+    "question": "Identify which pair consists of LIKE TERMS:",
+    "options": [
+      "-29x and -29y are unlike ; 14xy and 42yx are LIKE TERMS (xy = yx by commutative law)",
+      "1 and 100 are unlike",
+      "4m²p and 4mp² are like",
+      "12xz and 12x²z² are like"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "14xy and 42yx are like terms because variable factors xy and yx are algebraically identical."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Mathematics",
+    "chapter": "Chapter 10: Algebraic Expressions",
+    "question": "Find the value of (2a - 2b - 4) - (a - b) when a = 3 and b = 2:",
+    "options": [
+      "-3 ((2a - a) - (2b - b) - 4 = a - b - 4 = 3 - 2 - 4 = -3)",
+      "-1",
+      "3",
+      "-5"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "(2a - a) - (2b - b) - 4 = a - b - 4 = 3 - 2 - 4 = -3."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Mathematics",
+    "chapter": "Chapter 10: Algebraic Expressions",
+    "question": "If z = 10, find the value of z³ - 3(z - 10):",
+    "options": [
+      "1,000 (z³ - 3(z - 10) = 10³ - 3(10 - 10) = 1000 - 3(0) = 1,000)",
+      "970",
+      "1,030",
+      "0"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "10³ - 3(10 - 10) = 1000 - 0 = 1,000."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Mathematics",
+    "chapter": "Chapter 10: Algebraic Expressions",
+    "question": "What is the degree of the term 5x²y³?",
+    "options": [
+      "5 (Sum of exponents of variables = 2 + 3 = 5)",
+      "6",
+      "2",
+      "3"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "Degree of a monomial term is the sum of exponents of its variable factors: 2 + 3 = 5."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Mathematics",
+    "chapter": "Chapter 10: Algebraic Expressions",
+    "question": "Write the algebraic expression for: 'Sum of numbers a and b subtracted from their product':",
+    "options": [
+      "ab - (a + b)",
+      "(a + b) - ab",
+      "ab + (a + b)",
+      "ab / (a + b)"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "Product = ab; Sum = (a + b). Subtraction of sum from product = ab - (a + b)."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Mathematics",
+    "chapter": "Chapter 10: Algebraic Expressions",
+    "question": "Read the statements:\nAssertion (A): Only LIKE TERMS can be added or subtracted into a single combined term in an algebraic expression.\nReason (R): Like terms possess identical variable factors and powers, allowing their numerical coefficients to be added or subtracted using the Distributive Property: ax + bx = (a + b)x.\nChoose the correct option:",
+    "options": [
+      "Both (A) and (R) are true, and (R) is the correct explanation of (A).",
+      "Both (A) and (R) are true, but (R) is NOT the correct explanation of (A).",
+      "(A) is true, but (R) is false.",
+      "(A) is false, but (R) is true."
+    ],
+    "correctAnswer": 0,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "Distributive property ax + bx = (a + b)x underpins algebraic simplification of like terms."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Mathematics",
+    "chapter": "Chapter 10: Algebraic Expressions",
+    "question": "Spot the IMPOSTER in the following classification of Algebraic Expressions:\nGroup:\n1. 7x²y - Monomial\n2. 4a - 5b - Binomial\n3. x² + 2xy + y² - Trinomial\n4. 3x + 5x - Binomial",
+    "options": [
+      "Expression 1",
+      "Expression 2",
+      "Expression 3",
+      "Expression 4 (3x + 5x combines to 8x, which is a MONOMIAL, not a binomial)"
+    ],
+    "correctAnswer": 3,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "Like terms must be simplified first: 3x + 5x = 8x (a single term, hence a monomial)."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Mathematics",
+    "chapter": "Chapter 10: Algebraic Expressions",
+    "question": "If 2x² + x - a = 5 for x = 0, what is the value of 'a'?",
+    "options": [
+      "-5 (Substitute x = 0: 2(0)² + (0) - a = 5 ⇒ -a = 5 ⇒ a = -5)",
+      "5",
+      "0",
+      "2"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "0 + 0 - a = 5 → -a = 5 → a = -5."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Mathematics",
+    "chapter": "Chapter 10: Algebraic Expressions",
+    "question": "Match Column I (Algebraic Word Statements) with Column II (Exact Algebraic Expressions):\n(a) One-fourth of the product of p and q -> (i) 1/4 pq (or pq/4)\n(b) Number 5 added to 3 times product of m & n -> (ii) 3mn + 5\n(c) Product of y and z subtracted from 10 -> (iii) 10 - yz\n(d) Number x multiplied by itself and added to y² -> (iv) x² + y²",
+    "options": [
+      "a-(i), b-(ii), c-(iii), d-(iv)",
+      "a-(ii), b-(i), c-(iv), d-(iii)",
+      "a-(iv), b-(iii), c-(ii), d-(i)",
+      "a-(iii), b-(iv), c-(i), d-(ii)"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "1/4 pq; 3mn + 5; 10 - yz; x² + y²."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Mathematics",
+    "chapter": "Chapter 10: Algebraic Expressions",
+    "question": "Read the statements regarding algebraic rules:\nStatement 1: The number of diagonals that can be drawn from one vertex of a polygon of n sides is given by the algebraic rule (n - 3).\nStatement 2: The sum of interior angles of an n-sided polygon is (n - 2) × 180°.\nStatement 3: In an algebraic term, the variable can never be negative.\nWhich statements are TRUE?",
+    "options": [
+      "Statements 1 and 2 only",
+      "Statements 2 and 3 only",
+      "Statements 1 and 3 only",
+      "All Statements 1, 2, and 3"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "Statement 3 is false (variables can take negative real values). Statements 1 and 2 are established geometric algebraic formulas."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Mathematics",
+    "chapter": "Chapter 10: Algebraic Expressions",
+    "question": "Simplify the complex algebraic expression:\n{3x² - [2x - (x² - 4)] + 5}:",
+    "options": [
+      "4x² - 2x + 1 (3x² - [2x - x² + 4] + 5 = 3x² - 2x + x² - 4 + 5 = 4x² - 2x + 1)",
+      "2x² - 2x + 9",
+      "4x² + 2x - 1",
+      "3x² - 2x + 1"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "3x² - 2x + x² - 4 + 5 = 4x² - 2x + 1."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Mathematics",
+    "chapter": "Chapter 10: Algebraic Expressions",
+    "question": "If A = 3x² - 4x + 1, B = 5x² + 3x - 8, and C = 4x² - 7x + 3, find the expression (A + B - C):",
+    "options": [
+      "4x² + 6x - 10 ((3 + 5 - 4)x² + (-4 + 3 - (-7))x + (1 - 8 - 3) = 4x² + 6x - 10)",
+      "4x² - 8x + 6",
+      "12x² - 8x - 4",
+      "4x² + 6x + 10"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "(3+5-4)x² + (-4+3+7)x + (1-8-3) = 4x² + 6x - 10."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Mathematics",
+    "chapter": "Chapter 10: Algebraic Expressions",
+    "question": "A digital digit display uses matchsticks to form numbers. The number of matchsticks required to form 'n' repeated digits of the numeral '8' follows the formula (5n + 1). How many matchsticks are needed to form 12 digits of '8'?",
+    "options": [
+      "61 matchsticks (For n = 12: 5(12) + 1 = 60 + 1 = 61 matchsticks)",
+      "60 matchsticks",
+      "65 matchsticks",
+      "72 matchsticks"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "Number of matchsticks = 5(12) + 1 = 61."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Mathematics",
+    "chapter": "Chapter 10: Algebraic Expressions",
+    "question": "If x = -2, y = -1, and z = 3, evaluate the algebraic expression: x³ + y³ + z³ - 3xyz:",
+    "options": [
+      "0 (x³ = -8 ; y³ = -1 ; z³ = 27 ; Sum = 18 ; 3xyz = 3(-2)(-1)(3) = 18 ; Value = 18 - 18 = 0)",
+      "36",
+      "-18",
+      "18"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "Since x + y + z = -2 + (-1) + 3 = 0, the algebraic identity x³ + y³ + z³ - 3xyz = (x+y+z)(x²+y²+z²-xy-yz-zx) = 0."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Mathematics",
+    "chapter": "Chapter 10: Algebraic Expressions",
+    "question": "What is the coefficient of x²y in the algebraic expansion of 3(x²y - 2xy²) - 4(2x²y + 5xy²)?",
+    "options": [
+      "-5 (3x²y - 6xy² - 8x²y - 20xy² = (3 - 8)x²y - (6 + 20)xy² = -5x²y - 26xy² ; Coefficient of x²y is -5)",
+      "5",
+      "-26",
+      "-11"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "3x²y - 8x²y = -5x²y. The numerical coefficient is -5."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Mathematics",
+    "chapter": "Chapter 10: Algebraic Expressions",
+    "question": "If p = -10, find the value of p² - 2p - 100:",
+    "options": [
+      "20 ((-10)² - 2(-10) - 100 = 100 + 20 - 100 = 20)",
+      "-20",
+      "0",
+      "40"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "100 + 20 - 100 = 20."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Mathematics",
+    "chapter": "Chapter 10: Algebraic Expressions",
+    "question": "Why are Algebraic Expressions considered the fundamental generalized language of modern science, algorithms, and computational modeling?",
+    "options": [
+      "They allow generalized mathematical laws, geometric formulas, physical principles, and algorithmic patterns to be stated concisely and manipulated systematically for any arbitrary inputs",
+      "Because letters take up less paper than numbers",
+      "Because algebra eliminates the need for arithmetic",
+      "Because computers only understand English letters"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "Algebra abstracts arithmetic into symbolic generalizations, enabling formulation of physical laws, algorithmic proofs, and variable parametric modeling."
+  },
+  {
+    "classLevel": 7,
+    "subject": "English",
+    "chapter": "Chapter 10: The Story of Cricket",
+    "question": "Where and approximately how many centuries ago did the sport of CRICKET originate as a rural English bat-and-ball game?",
+    "options": [
+      "In England, over 500 years ago (16th century)",
+      "In Australia, 100 years ago",
+      "In India, during the Mughal era",
+      "In America, in 1850"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "Cricket grew out of traditional English bat-and-ball folk pastimes played over 500 years ago in rural southeastern England."
+  },
+  {
+    "classLevel": 7,
+    "subject": "English",
+    "chapter": "Chapter 10: The Story of Cricket",
+    "question": "What was the shape of early cricket bats before the 1760s?",
+    "options": [
+      "Curved at the bottom like modern Hockey Sticks (to hit the ball bowled underarm along the ground)",
+      "Flat and straight like modern cricket bats",
+      "Round like baseball bats",
+      "Square shaped like wooden boards"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "Early cricket was bowled underarm, so bats curved outwards at the base like hockey sticks to sweep the ball off the turf."
+  },
+  {
+    "classLevel": 7,
+    "subject": "English",
+    "chapter": "Chapter 10: The Story of Cricket",
+    "question": "What is the fixed, standardized length of a cricket PITCH according to the official Laws of Cricket?",
+    "options": [
+      "22 Yards (66 feet / 20.12 metres)",
+      "20 Yards",
+      "25 Yards",
+      "30 Yards"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "The Laws of Cricket specify pitch length precisely as 22 yards between the wickets, while ground boundary size remains variable."
+  },
+  {
+    "classLevel": 7,
+    "subject": "English",
+    "chapter": "Chapter 10: The Story of Cricket",
+    "question": "Which famous London cricket club founded in 1787 became the supreme guardian and custodian of the Laws of Cricket?",
+    "options": [
+      "The Marylebone Cricket Club (MCC at Lord's)",
+      "The Hambledon Club",
+      "The Melbourne Cricket Club",
+      "The Surrey Club"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "The MCC (Marylebone Cricket Club), founded in 1787, framed the official Laws of Cricket and remains their custodian."
+  },
+  {
+    "classLevel": 7,
+    "subject": "English",
+    "chapter": "Chapter 10: The Story of Cricket",
+    "question": "Which Indian community founded the FIRST Indian cricket club in Bombay (The Oriental Cricket Club) in 1848?",
+    "options": [
+      "The Parsi Community",
+      "The Gujarati Community",
+      "The Bengali Community",
+      "The Anglo-Indian Community"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "The Zoroastrian Parsi community of Bombay established the Oriental Cricket Club in 1848, pioneering Indian cricket."
+  },
+  {
+    "classLevel": 7,
+    "subject": "English",
+    "chapter": "Chapter 10: The Story of Cricket",
+    "question": "Who was India's first great Test match batsman and captain in 1932, after whom the premier domestic first-class trophy is named?",
+    "options": [
+      "C.K. Nayudu",
+      "Lala Amarnath",
+      "Sunil Gavaskar",
+      "Kapil Dev"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "C.K. Nayudu was India's first Test captain when India entered the international Test arena at Lord's in 1932."
+  },
+  {
+    "classLevel": 7,
+    "subject": "English",
+    "chapter": "Chapter 10: The Story of Cricket",
+    "question": "In what year did India play its first official Test match in England at Lord's?",
+    "options": [
+      "1932",
+      "1947",
+      "1950",
+      "1971"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "India played its inaugural Test match against England at Lord's in June 1932."
+  },
+  {
+    "classLevel": 7,
+    "subject": "English",
+    "chapter": "Chapter 10: The Story of Cricket",
+    "question": "What natural, pre-industrial materials are traditional cricket bat and ball made from even today?",
+    "options": [
+      "Bat from Willow wood, cane, and twine ; Ball from leather, cork, and twine",
+      "Plastic and aluminum",
+      "Steel and synthetic rubber",
+      "Glass and fiber"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "Unlike other modern games, cricket's bat and ball equipment remains hand-crafted from natural timber willow, cane, cork, and leather."
+  },
+  {
+    "classLevel": 7,
+    "subject": "English",
+    "chapter": "Chapter 10: The Story of Cricket",
+    "question": "Which Australian television tycoon revolutionized modern cricket in 1977 by launching 'World Series Cricket' with colored clothes, white balls, and day-night matches?",
+    "options": [
+      "Kerry Packer",
+      "Don Bradman",
+      "Rupert Murdoch",
+      "Richie Benaud"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "Kerry Packer signed the world's best cricketers in 1977, transforming cricket into a televised spectacle with floodlit day-night games and colorful uniforms."
+  },
+  {
+    "classLevel": 7,
+    "subject": "English",
+    "chapter": "Chapter 10: The Story of Cricket",
+    "question": "Which country won the historic 1983 Cricket World Cup by defeating the mighty West Indies at Lord's, transforming cricket into a national passion in India?",
+    "options": [
+      "India (captained by Kapil Dev)",
+      "England",
+      "Australia",
+      "Pakistan"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "Kapil Dev's 'Kapil's Devils' stunned the two-time champion West Indies at Lord's on 25 June 1983, igniting modern Indian cricket mania."
+  },
+  {
+    "classLevel": 7,
+    "subject": "English",
+    "chapter": "Chapter 10: The Story of Cricket",
+    "question": "What is unique about the DURATION of a Test match in cricket compared to all other modern team sports?",
+    "options": [
+      "A Test match can last for FIVE FULL DAYS and can still end in a DRAW without a winner",
+      "It lasts only for 90 minutes",
+      "It is played over one hour",
+      "It never ends"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "Cricket is unique among modern sports: Test matches span 5 days (up to 30 hours of play) and can legitimately conclude in a draw."
+  },
+  {
+    "classLevel": 7,
+    "subject": "English",
+    "chapter": "Chapter 10: The Story of Cricket",
+    "question": "What modern protective synthetic equipment was introduced to cricket only after the invention of vulcanized rubber in the 19th century?",
+    "options": [
+      "Pads (Leg-guards) and Batting Gloves",
+      "Wooden Wickets",
+      "Leather Ball",
+      "Willow Bat"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "Vulcanized rubber enabled the invention of padded batting gloves (1848) and protective leg-guard pads, followed by synthetic helmets."
+  },
+  {
+    "classLevel": 7,
+    "subject": "English",
+    "chapter": "Chapter 10: The Story of Cricket",
+    "question": "How did the introduction of pitching the ball through the air (instead of rolling it on the ground) in the 1760s transform cricket batting and bowling?",
+    "options": [
+      "Bowlers gained the ability to generate curved swing and spin in the air, forcing batsmen to replace curved hockey-style bats with straight, flat bats for timing and defense",
+      "Batsmen started using baseball bats",
+      "Bowlers were forced to throw the ball like a stone",
+      "The pitch was made round"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "Airborne bowling introduced swing, seam, and deception in flight, prompting the invention of straight willow bats for precise defensive strokeplay."
+  },
+  {
+    "classLevel": 7,
+    "subject": "English",
+    "chapter": "Chapter 10: The Story of Cricket",
+    "question": "What was the social distinction between 'GENTLEMEN' (Amateurs) and 'PLAYERS' (Professionals) in historic English cricket?",
+    "options": [
+      "Gentlemen were wealthy aristocratic aristocrats who played for leisure and honor without pay ; Players were working-class men paid wages to bowl and field",
+      "Gentlemen were bowlers and Players were umpires",
+      "Gentlemen played only in winter",
+      "There was no social distinction"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "Aristocratic class hierarchy: Gentlemen (unpaid amateur batsmen/captains) vs Players (hired working-class professional bowlers)."
+  },
+  {
+    "classLevel": 7,
+    "subject": "English",
+    "chapter": "Chapter 10: The Story of Cricket",
+    "question": "Why does the shape and boundary size of cricket grounds vary so widely across the world (e.g. oval Melbourne vs round Chepauk), unlike football pitches?",
+    "options": [
+      "Cricket originated as a pre-industrial village green game where matches were played on open village commons without artificial boundary fences",
+      "Because builders did not have tape measures",
+      "Because every country wanted a different shape",
+      "Because round stadiums are cheaper"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "Cricket's pastoral origins on unfenced village greens created flexible boundary geometry while preserving fixed 22-yard pitch distances."
+  },
+  {
+    "classLevel": 7,
+    "subject": "English",
+    "chapter": "Chapter 10: The Story of Cricket",
+    "question": "What was the famous 'Bombay Pentangular' tournament played in colonial India based on?",
+    "options": [
+      "Communal religious and ethnic teams: The Europeans, The Parsis, The Hindus, The Muslims, and The Rest",
+      "Five city corporations",
+      "Five universities",
+      "Five army divisions"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "The colonial Bombay tournament evolved from Triangular to Quadrangular to Pentangular, organized strictly along communal lines (opposed by Mahatma Gandhi)."
+  },
+  {
+    "classLevel": 7,
+    "subject": "English",
+    "chapter": "Chapter 10: The Story of Cricket",
+    "question": "How did the advent of Television and Satellite Broadcasting shift the global economic center of gravity of cricket from London to South Asia (India)?",
+    "options": [
+      "South Asia possessed the largest television viewing audience and consumer marketplace in the cricket-playing world, generating massive advertising revenues that enriched the BCCI",
+      "Because India invented satellites",
+      "Because cricket was banned in England",
+      "Because matches were played only in Delhi"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "Demographic and media revolution: South Asia's colossal broadcast viewership made the subcontinental market the dominant financial engine of world cricket."
+  },
+  {
+    "classLevel": 7,
+    "subject": "English",
+    "chapter": "Chapter 10: The Story of Cricket",
+    "question": "Why was Palwankar Baloo, a legendary slow left-arm spinner of the Bombay Hindus team in the 1900s, a milestone figure in Indian social history?",
+    "options": [
+      "He was from the oppressed Dalit (Untouchable) community who broke caste barriers through his supreme cricketing genius, becoming India's first great indigenous sporting hero",
+      "He was the first British governor",
+      "He invented cricket shoes",
+      "He was a royal prince"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "Baloo Palwankar challenged untouchability through athletic brilliance, acclaimed by Dr. B.R. Ambedkar as a pioneer of Dalit social elevation."
+  },
+  {
+    "classLevel": 7,
+    "subject": "English",
+    "chapter": "Chapter 10: The Story of Cricket",
+    "question": "What is the meaning of the English idiom 'It's not cricket' in conversational usage?",
+    "options": [
+      "It is unfair, dishonorable, or unsporting behavior",
+      "It is not a baseball match",
+      "The weather is rainy",
+      "The ball is lost"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "The Victorian idiom 'It's not cricket' signifies any conduct that violates the spirit of fair play, honor, and sportsmanship."
+  },
+  {
+    "classLevel": 7,
+    "subject": "English",
+    "chapter": "Chapter 10: The Story of Cricket",
+    "question": "What is the meaning of 'Decolonization' in the context of international cricket history?",
+    "options": [
+      "The decline of British imperial administrative dominance over the game and the rise of formerly colonized nations (India, Pakistan, West Indies, Sri Lanka) as sovereign global cricket superpowers",
+      "Banning wooden bats",
+      "Changing the rules every year",
+      "Playing matches without umpires"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "Decolonization transformed cricket from an instrument of imperial cultural hegemony into a vibrant arena of post-colonial national pride."
+  },
+  {
+    "classLevel": 7,
+    "subject": "English",
+    "chapter": "Chapter 10: The Story of Cricket",
+    "question": "What is the SYNONYM of 'Idiosyncrasy' as applied to cricket's unique rules?",
+    "options": [
+      "Quirk / Peculiarity / Unique characteristic",
+      "Commonplace",
+      "Boring rule",
+      "Mistake"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "'Idiosyncrasy' denotes an eccentric, highly distinctive individual peculiarity."
+  },
+  {
+    "classLevel": 7,
+    "subject": "English",
+    "chapter": "Chapter 10: The Story of Cricket",
+    "question": "What is the ANTONYM of 'Amateur' in sports terminology?",
+    "options": [
+      "Professional (paid athlete)",
+      "Novice",
+      "Spectator",
+      "Volunteer"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "The antonym of 'amateur' (playing unpaid for pleasure) is 'professional' (earning a livelihood from the sport)."
+  },
+  {
+    "classLevel": 7,
+    "subject": "English",
+    "chapter": "Chapter 10: The Story of Cricket",
+    "question": "Choose the correct spelling:",
+    "options": [
+      "Spectator",
+      "Spectater",
+      "Spektator",
+      "Specteter"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "Correct orthography: S-P-E-C-T-A-T-O-R."
+  },
+  {
+    "classLevel": 7,
+    "subject": "English",
+    "chapter": "Chapter 10: The Story of Cricket",
+    "question": "Fill in the blank with the correct preposition:\n'The laws of cricket were codified _______ the Marylebone Cricket Club in 1788.'",
+    "options": [
+      "by",
+      "with",
+      "through",
+      "from"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "Passive agentive construction requires the preposition 'by'."
+  },
+  {
+    "classLevel": 7,
+    "subject": "English",
+    "chapter": "Chapter 10: The Story of Cricket",
+    "question": "Identify the part of speech of the underlined word in: 'Cricket evolved **gradually** from rural pastimes.'",
+    "options": [
+      "Adverb of Manner",
+      "Adjective",
+      "Noun",
+      "Preposition"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "'Gradually' is an adverb of manner modifying the verb 'evolved'."
+  },
+  {
+    "classLevel": 7,
+    "subject": "English",
+    "chapter": "Chapter 10: The Story of Cricket",
+    "question": "Convert into PASSIVE VOICE:\n'The Parsis established the first Indian cricket club in Bombay.'",
+    "options": [
+      "'The first Indian cricket club was established in Bombay by the Parsis.'",
+      "'The first Indian cricket club established the Parsis in Bombay.'",
+      "'In Bombay had been established the first Indian cricket club.'",
+      "'The Parsis were established by the first cricket club.'"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "Passive voice: Object ('The first Indian cricket club') + was established + location + agent ('by the Parsis')."
+  },
+  {
+    "classLevel": 7,
+    "subject": "English",
+    "chapter": "Chapter 10: The Story of Cricket",
+    "question": "Why did English colonists believe that cricket was a civilizing sport for colonized peoples?",
+    "options": [
+      "They believed it instilled Victorian virtues of fair play, imperial discipline, obedience to codified rules, and emotional self-control",
+      "Because cricket was easy to learn in a day",
+      "Because they wanted to sell bats",
+      "Because cricket had no rules"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "British imperial ideology promoted cricket as a moralizing exercise in Victorian discipline, stoicism, and gentlemanly etiquette."
+  },
+  {
+    "classLevel": 7,
+    "subject": "English",
+    "chapter": "Chapter 10: The Story of Cricket",
+    "question": "What technological revolution allowed millions of fans across small Indian towns and villages to watch international cricket live simultaneously?",
+    "options": [
+      "Satellite Television Broadcasting (Doordarshan and private satellite channels)",
+      "Printed newspapers only",
+      "Radio commentary in Morse code",
+      "Postal letters"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "Satellite television telecasts democraticized cricket viewing across rural and urban India, creating a shared national collective ritual."
+  },
+  {
+    "classLevel": 7,
+    "subject": "English",
+    "chapter": "Chapter 10: The Story of Cricket",
+    "question": "Read the statements:\nAssertion (A): Cricket is a unique historical amalgam of pre-industrial rural folk traditions and modern industrial technology.\nReason (R): While cricket preserves pre-industrial handicraft equipment (wood willow bats, leather cork balls, unstandardized ground shapes), it simultaneously relies on modern synthetic protective gear (vulcanized rubber, carbon-fiber helmets) and cutting-edge global satellite television technologies.\nChoose the correct option:",
+    "options": [
+      "Both (A) and (R) are true, and (R) is the correct explanation of (A).",
+      "Both (A) and (R) are true, but (R) is NOT the correct explanation of (A).",
+      "(A) is true, but (R) is false.",
+      "(A) is false, but (R) is true."
+    ],
+    "correctAnswer": 0,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "Ramachandra Guha highlights cricket's fundamental dualism: pre-industrial pastoral naturalism fused with modern digital-industrial commercialism."
+  },
+  {
+    "classLevel": 7,
+    "subject": "English",
+    "chapter": "Chapter 10: The Story of Cricket",
+    "question": "Spot the IMPOSTER in the following historical timeline of cricket evolution:\nGroup:\n1. 1744 - First written Laws of Cricket codified\n2. 1787 - Foundation of the Marylebone Cricket Club (MCC)\n3. 1977 - Kerry Packer launches World Series Cricket\n4. 1500 - Invention of Hawk-Eye computer ball-tracking systems",
+    "options": [
+      "Event 1",
+      "Event 2",
+      "Event 3",
+      "Event 4 (Hawk-Eye digital ball-tracking computer systems were developed in the 21st CENTURY [circa 2001], not the year 1500)"
+    ],
+    "correctAnswer": 3,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "Event 4 is an absurd anachronism: computerized optical ball-tracking (Hawk-Eye) emerged in the early 2000s."
+  },
+  {
+    "classLevel": 7,
+    "subject": "English",
+    "chapter": "Chapter 10: The Story of Cricket",
+    "question": "Analyze the social sociology of early cricket in colonial India:\nWhy did the Parsis achieve early dominance in cricket before other Indian communities?",
+    "options": [
+      "The Parsis were a wealthy, westernized commercial merchant community in Bombay with close business ties to the British East India Company, embracing English sports and culture early",
+      "Because only Parsis were allowed to buy bats",
+      "Because cricket was invented in Persia",
+      "Because Parsis were professional athletes in Britain"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "Parsi mercantile prosperity, civic philanthropy, and cosmopolitan acculturation made them the pioneers of modern cricket in Bombay."
+  },
+  {
+    "classLevel": 7,
+    "subject": "English",
+    "chapter": "Chapter 10: The Story of Cricket",
+    "question": "Match Column I (Cricket Innovations / Historical Milestones) with Column II (Historical Causes & Consequences):\n(a) Airborne Bowling (1760s)    -> (i) Prompted the invention of straight, flat willow bats\n(b) Kerry Packer's WSC (1977)    -> (ii) Inaugurated colored clothing, white balls, and day-night telecasts\n(c) 1983 World Cup Victory       -> (iii) Catalyzed India's commercial cricket boom and mass fanaticism\n(d) Subcontinental TV Market     -> (iv) Shifted the global financial headquarters of cricket to South Asia",
+    "options": [
+      "a-(i), b-(ii), c-(iii), d-(iv)",
+      "a-(ii), b-(i), c-(iv), d-(iii)",
+      "a-(iv), b-(iii), c-(ii), d-(i)",
+      "a-(iii), b-(iv), c-(i), d-(ii)"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "Airborne bowling = straight bats; Packer = colored kits & night games; 1983 victory = mass mania; TV market = shift to South Asia."
+  },
+  {
+    "classLevel": 7,
+    "subject": "English",
+    "chapter": "Chapter 10: The Story of Cricket",
+    "question": "Read the statements regarding the transformation of cricket rules:\nStatement 1: The length of the pitch (22 yards) has remained unchanged since the first written Laws of Cricket in 1744.\nStatement 2: Protective helmets were widely adopted in international cricket during the late 1970s against lethal bouncers.\nStatement 3: Test matches were originally played with red plastic balls filled with water.\nWhich statements are TRUE?",
+    "options": [
+      "Statements 1 and 2 only",
+      "Statements 2 and 3 only",
+      "Statements 1 and 3 only",
+      "All Statements 1, 2, and 3"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "Statement 3 is an absurd falsehood (balls have always been made of leather, cork, and twine). Statements 1 and 2 are historical facts."
+  },
+  {
+    "classLevel": 7,
+    "subject": "English",
+    "chapter": "Chapter 10: The Story of Cricket",
+    "question": "Identify the grammatical role of the underlined clause in: '**Although cricket originated in England**, its contemporary economic empire is firmly headquartered in India.'",
+    "options": [
+      "Adverbial Clause of Concession / Contrast modifying the main clause",
+      "Noun Clause in apposition",
+      "Relative Clause of manner",
+      "Coordinate independent clause"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "'Although cricket originated in England' is a subordinate concessive adverbial clause introduced by 'Although'."
+  },
+  {
+    "classLevel": 7,
+    "subject": "English",
+    "chapter": "Chapter 10: The Story of Cricket",
+    "question": "Why did Mahatma Gandhi and nationalist leaders oppose communal cricket tournaments like the Bombay Pentangular?",
+    "options": [
+      "They believed that dividing sporting teams along sectarian religious lines (Hindus, Muslims, Parsis, Europeans) hardened communal divisions and undermined anti-colonial national unity",
+      "Because Gandhi disliked all sports",
+      "Because they wanted cricket to be played without rules",
+      "Because foreign teams were not invited"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "Gandhi denounced communal Pentangular cricket as a divisive imperial legacy, arguing sports should unify rather than fracture society."
+  },
+  {
+    "classLevel": 7,
+    "subject": "English",
+    "chapter": "Chapter 10: The Story of Cricket",
+    "question": "How did the invention of the 'Doosra' and 'Reverse Swing' by Pakistani fast bowlers (Sarfaraz Nawaz, Imran Khan, Wasim Akram) subvert traditional Anglo-Australian bowling orthodoxy?",
+    "options": [
+      "They mastered innovative aerodynamics using scuffed and polished ball surfaces to create deceptive late swing under hot subcontinental conditions, revolutionizing fast bowling worldwide",
+      "They made the ball heavier with lead",
+      "They changed the pitch dimensions",
+      "They used metal bats"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "Subcontinental bowling innovations (reverse swing, doosra) shattered Eurocentric bowling dogmas, enriching international bowling tactics."
+  },
+  {
+    "classLevel": 7,
+    "subject": "English",
+    "chapter": "Chapter 10: The Story of Cricket",
+    "question": "What literary device is employed in the phrase: 'Cricket's connection with a pre-industrial rural past is woven into the very fabric of its willow wood and leather ball.'?",
+    "options": [
+      "Metaphor and Synecdoche (using physical implements of the sport to symbolize its historical pastoral origins)",
+      "Hyperbole only",
+      "Simile",
+      "Irony only"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "The metaphor 'woven into the fabric' and synecdoche of willow/leather crystallize cricket's deep organic roots in pre-industrial craft culture."
+  },
+  {
+    "classLevel": 7,
+    "subject": "English",
+    "chapter": "Chapter 10: The Story of Cricket",
+    "question": "Which of the following sentences correctly utilizes the Subjunctive Mood in sporting commentary?",
+    "options": [
+      "\"The captain demanded that every fielder be alert on the boundary.\"",
+      "\"The captain demanded that every fielder is alert.\"",
+      "\"The captain was demanding for alert.\"",
+      "\"Fielders were alerting by the captain.\""
+    ],
+    "correctAnswer": 0,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "Mandative subjunctive after verbs of demand ('demanded that every fielder be alert' with bare infinitive 'be')."
+  },
+  {
+    "classLevel": 7,
+    "subject": "English",
+    "chapter": "Chapter 10: The Story of Cricket",
+    "question": "What socio-economic shift explains why contemporary Indian cricket stars come from small towns and rural hinterlands (like MS Dhoni from Ranchi) rather than big elite metropolitan cities?",
+    "options": [
+      "The spread of television, localized cricket academies, talent scouting, and lucrative franchise leagues (IPL) democratized access, merit, and financial rewards across all socio-economic strata",
+      "City players were legally banned from playing cricket",
+      "Small towns have larger stadiums",
+      "Matches are no longer played in big cities"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "Grassroots democratization: television inspiration and professional domestic contracts transformed cricket into a meritocratic vehicle for small-town talent."
+  },
+  {
+    "classLevel": 7,
+    "subject": "English",
+    "chapter": "Chapter 10: The Story of Cricket",
+    "question": "What master sociological insight is articulated in Chapter 10 of NCERT Class 7 English?",
+    "options": [
+      "Sports are not mere games; they are living mirrors of human history, reflecting the evolution of social class, colonial power dynamics, technological revolutions, media commercialism, and post-colonial national identity",
+      "That cricket is the only sport worth playing",
+      "That sports have no relation to history or society",
+      "That cricket will be forgotten in the future"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "Ramachandra Guha's essay uses cricket as a profound sociological lens to illuminate class, empire, race, technology, and cultural decolonization."
+  },
+  {
+    "classLevel": 7,
+    "subject": "GK",
+    "chapter": "Chapter 10: Science, Inventions, Information Technology & Digital Era",
+    "question": "Who is celebrated as the 'Father of the Computer' for conceptualizing the first programmable mechanical computing machine (the Analytical Engine)?",
+    "options": [
+      "Charles Babbage",
+      "Alan Turing",
+      "John von Neumann",
+      "Steve Jobs"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "Charles Babbage designed the mechanical Difference Engine and the general-purpose programmable Analytical Engine in the 1830s."
+  },
+  {
+    "classLevel": 7,
+    "subject": "GK",
+    "chapter": "Chapter 10: Science, Inventions, Information Technology & Digital Era",
+    "question": "Who was the English mathematician celebrated as the WORLD'S FIRST COMPUTER PROGRAMMER for publishing the first algorithm intended for Babbage's Analytical Engine?",
+    "options": [
+      "Ada Lovelace (Countess of Lovelace)",
+      "Grace Hopper",
+      "Marie Curie",
+      "Katherine Johnson"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "Ada Lovelace wrote the world's first computer algorithm in 1843, foreseeing that computers could manipulate symbols and music."
+  },
+  {
+    "classLevel": 7,
+    "subject": "GK",
+    "chapter": "Chapter 10: Science, Inventions, Information Technology & Digital Era",
+    "question": "Who is celebrated as the 'Father of Modern Computer Science and Artificial Intelligence' for inventing the theoretical Turing Machine and cracking the Nazi Enigma cipher during WWII?",
+    "options": [
+      "Alan Turing",
+      "Tim Berners-Lee",
+      "Claude Shannon",
+      "Bill Gates"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "Alan Turing formalized algorithmic computation (Turing machine), broke the naval Enigma code at Bletchley Park, and proposed the Turing Test."
+  },
+  {
+    "classLevel": 7,
+    "subject": "GK",
+    "chapter": "Chapter 10: Science, Inventions, Information Technology & Digital Era",
+    "question": "Who invented the WORLD WIDE WEB (WWW) at CERN in 1989, designing HTML, HTTP, and the first web browser?",
+    "options": [
+      "Sir Tim Berners-Lee",
+      "Vint Cerf",
+      "Marc Andreessen",
+      "Linus Torvalds"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "Sir Tim Berners-Lee invented the World Wide Web at CERN in 1989, releasing the technology royalty-free to the entire world."
+  },
+  {
+    "classLevel": 7,
+    "subject": "GK",
+    "chapter": "Chapter 10: Science, Inventions, Information Technology & Digital Era",
+    "question": "Which Scottish physician-bacteriologist accidentally discovered the world's first wonder antibiotic—PENICILLIN—from Penicillium mold in 1928?",
+    "options": [
+      "Sir Alexander Fleming",
+      "Louis Pasteur",
+      "Robert Koch",
+      "Edward Jenner"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "Alexander Fleming discovered penicillin in 1928, revolutionizing modern medicine and saving hundreds of millions of lives from bacterial infections."
+  },
+  {
+    "classLevel": 7,
+    "subject": "GK",
+    "chapter": "Chapter 10: Science, Inventions, Information Technology & Digital Era",
+    "question": "Who developed the world's FIRST VACCINE (for Smallpox) in 1796 using cowpox fluid, pioneering the field of Immunology?",
+    "options": [
+      "Edward Jenner",
+      "Jonas Salk",
+      "Louis Pasteur",
+      "Robert Koch"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "Edward Jenner's 1796 cowpox inoculation created the smallpox vaccine, leading to the global eradication of smallpox by the WHO in 1980."
+  },
+  {
+    "classLevel": 7,
+    "subject": "GK",
+    "chapter": "Chapter 10: Science, Inventions, Information Technology & Digital Era",
+    "question": "Which two scientists discovered the 3D DOUBLE HELIX molecular structure of DNA in 1953 (building on Rosalind Franklin's X-ray crystallography)?",
+    "options": [
+      "James Watson and Francis Crick",
+      "Gregor Mendel and Charles Darwin",
+      "Louis Pasteur and Robert Hooke",
+      "Albert Einstein and Max Planck"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "Watson and Crick deduced the antiparallel double-helix structure of DNA in 1953, unlocking the genetic code of all biological life."
+  },
+  {
+    "classLevel": 7,
+    "subject": "GK",
+    "chapter": "Chapter 10: Science, Inventions, Information Technology & Digital Era",
+    "question": "What is Albert Einstein's world-famous mass-energy equivalence equation derived from his Special Theory of Relativity (1905)?",
+    "options": [
+      "E = mc² (where E = Energy, m = mass, c = speed of light)",
+      "F = ma",
+      "V = IR",
+      "P = IV"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "E = mc² establishes that mass and energy are interchangeable, forming the foundational principle of nuclear energy and astrophysics."
+  },
+  {
+    "classLevel": 7,
+    "subject": "GK",
+    "chapter": "Chapter 10: Science, Inventions, Information Technology & Digital Era",
+    "question": "Who created the FIRST PERIODIC TABLE of chemical elements in 1869, arranging elements by atomic mass and predicting undiscovered elements?",
+    "options": [
+      "Dmitri Mendeleev",
+      "Antoine Lavoisier",
+      "John Dalton",
+      "Niels Bohr"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "Russian chemist Dmitri Mendeleev organized elements into the periodic table, famously leaving empty gaps for then-unknown elements like Gallium and Germanium."
+  },
+  {
+    "classLevel": 7,
+    "subject": "GK",
+    "chapter": "Chapter 10: Science, Inventions, Information Technology & Digital Era",
+    "question": "What was the name of INDIA'S FIRST INDIGENOUS SUPERCOMPUTER, developed by the Centre for Development of Advanced Computing (C-DAC) in Pune in 1991 led by Dr. Vijay Bhatkar?",
+    "options": [
+      "PARAM 8000",
+      "AIRAWAT",
+      "PARAM Siddhi",
+      "Pratyush"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "PARAM 8000 (1 Gigaflop) was India's first supercomputer, designed and built indigenously by C-DAC in 1991."
+  },
+  {
+    "classLevel": 7,
+    "subject": "GK",
+    "chapter": "Chapter 10: Science, Inventions, Information Technology & Digital Era",
+    "question": "Which city in Karnataka is globally renowned as the 'SILICON VALLEY OF INDIA' for its massive concentration of software giants, IT exporters, and tech startups?",
+    "options": [
+      "Bengaluru (Bangalore)",
+      "Hyderabad",
+      "Pune",
+      "Chennai"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "Bengaluru is India's preeminent high-tech capital, hosting major IT leaders (Infosys, Wipro, ISRO, thousands of AI startups)."
+  },
+  {
+    "classLevel": 7,
+    "subject": "GK",
+    "chapter": "Chapter 10: Science, Inventions, Information Technology & Digital Era",
+    "question": "What does the technological abbreviation 'AI' stand for in modern computer science?",
+    "options": [
+      "Artificial Intelligence",
+      "Automated Internet",
+      "Advanced Interface",
+      "Applied Information"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "Artificial Intelligence (AI) is the simulation of human intelligence processes by computer algorithms and machine learning neural networks."
+  },
+  {
+    "classLevel": 7,
+    "subject": "GK",
+    "chapter": "Chapter 10: Science, Inventions, Information Technology & Digital Era",
+    "question": "What is 'Moore's Law', articulated by Intel co-founder Gordon Moore in 1965?",
+    "options": [
+      "The empirical observation that the number of transistors on a microchip DOUBLES approximately every two years, while the cost of computers is halved",
+      "That computers will stop working after 10 years",
+      "That software will replace all hardware",
+      "That electricity speed doubles every year"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "Moore's Law accurately guided semiconductor miniaturization and exponential computational power scaling for over five decades."
+  },
+  {
+    "classLevel": 7,
+    "subject": "GK",
+    "chapter": "Chapter 10: Science, Inventions, Information Technology & Digital Era",
+    "question": "What fundamental transmission protocols developed by Vint Cerf and Bob Kahn in the 1970s form the technical backbone of the global INTERNET?",
+    "options": [
+      "TCP/IP (Transmission Control Protocol / Internet Protocol)",
+      "HTTP only",
+      "FTP only",
+      "SMTP only"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "TCP/IP provides end-to-end packet routing and reassembly, establishing the foundational architecture of the global internet."
+  },
+  {
+    "classLevel": 7,
+    "subject": "GK",
+    "chapter": "Chapter 10: Science, Inventions, Information Technology & Digital Era",
+    "question": "What revolutionary technology powers 'Quantum Computers', allowing them to perform complex calculations exponentially faster than classical supercomputers?",
+    "options": [
+      "Quantum Qubits utilizing Superposition and Entanglement (operating simultaneously in 0 and 1 states)",
+      "Using very hot steam pipes",
+      "Giant magnetic gears",
+      "Thousands of copper wires only"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "Quantum computers harness quantum mechanics (qubit superposition and entanglement) to solve complex optimization and cryptographic problems exponentially fast."
+  },
+  {
+    "classLevel": 7,
+    "subject": "GK",
+    "chapter": "Chapter 10: Science, Inventions, Information Technology & Digital Era",
+    "question": "What is 'Cloud Computing'?",
+    "options": [
+      "The on-demand delivery of computing services (servers, storage, databases, networking, software) over the internet ('the cloud') with pay-as-you-go pricing",
+      "Computing during rainy weather",
+      "Using airplanes to carry computers",
+      "Storing data on paper files in mountains"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "Cloud computing (AWS, Google Cloud, Microsoft Azure) provides elastic, scalable on-demand compute and storage infrastructure over the internet."
+  },
+  {
+    "classLevel": 7,
+    "subject": "GK",
+    "chapter": "Chapter 10: Science, Inventions, Information Technology & Digital Era",
+    "question": "What is 'Blockchain' technology, first implemented in 2008 by Satoshi Nakamoto for Bitcoin?",
+    "options": [
+      "A decentralized, distributed, cryptographically secured immutable ledger that records transactions across a peer-to-peer network without needing a central bank or intermediary",
+      "A chain of metal locks",
+      "A software that deletes files",
+      "A computer game about building blocks"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "Blockchain provides tamper-proof, decentralized consensus verification for digital assets, smart contracts, and supply chain tracking."
+  },
+  {
+    "classLevel": 7,
+    "subject": "GK",
+    "chapter": "Chapter 10: Science, Inventions, Information Technology & Digital Era",
+    "question": "Which Indian scientist and polymath pioneered wireless radio microwave communications in 1895 and invented the 'Crescograph' to measure plant growth?",
+    "options": [
+      "Sir Jagadish Chandra Bose (J.C. Bose)",
+      "Sir C.V. Raman",
+      "Homi J. Bhabha",
+      "Satyendra Nath Bose"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "J.C. Bose was a visionary pioneer of millimeter-wave radio optics, semiconductor crystal detectors, and plant biophysics."
+  },
+  {
+    "classLevel": 7,
+    "subject": "GK",
+    "chapter": "Chapter 10: Science, Inventions, Information Technology & Digital Era",
+    "question": "For what groundbreaking discovery in physics was Sir C.V. Raman awarded the Nobel Prize in Physics in 1930, celebrated annually on February 28 as NATIONAL SCIENCE DAY in India?",
+    "options": [
+      "The 'Raman Effect' (inelastic scattering of light photons when traveling through a transparent medium)",
+      "The discovery of the Neutron",
+      "The Theory of Black Holes",
+      "The invention of the Television"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "The Raman Effect demonstrates quantum shifts in photon energy during light scattering, now used globally in non-destructive Raman spectroscopy."
+  },
+  {
+    "classLevel": 7,
+    "subject": "GK",
+    "chapter": "Chapter 10: Science, Inventions, Information Technology & Digital Era",
+    "question": "Who is celebrated as the 'Father of the Indian Nuclear Programme' and founder of the Tata Institute of Fundamental Research (TIFR)?",
+    "options": [
+      "Dr. Homi J. Bhabha",
+      "Dr. Vikram Sarabhai",
+      "Dr. A.P.J. Abdul Kalam",
+      "Dr. Satish Dhawan"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "Dr. Homi Jehangir Bhabha formulated India's visionary three-stage nuclear power programme based on vast domestic Thorium reserves."
+  },
+  {
+    "classLevel": 7,
+    "subject": "GK",
+    "chapter": "Chapter 10: Science, Inventions, Information Technology & Digital Era",
+    "question": "Who is celebrated as the 'Father of the Indian Space Programme' and founder of the Indian Space Research Organisation (ISRO)?",
+    "options": [
+      "Dr. Vikram Sarabhai",
+      "Dr. Homi Bhabha",
+      "Dr. K. Sivan",
+      "Dr. A.P.J. Abdul Kalam"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "Dr. Vikram Sarabhai established ISRO in 1969, pioneering satellite communications and space technology for national social development."
+  },
+  {
+    "classLevel": 7,
+    "subject": "GK",
+    "chapter": "Chapter 10: Science, Inventions, Information Technology & Digital Era",
+    "question": "What historic achievement was accomplished by ISRO's CHANDRAYAAN-3 mission on August 23, 2023?",
+    "options": [
+      "India became the FIRST country in the world to successfully land a spacecraft near the LUNAR SOUTH POLE, celebrated as 'National Space Day'",
+      "First manned mission to Mars",
+      "First telescope in deep space",
+      "First spacecraft to leave the solar system"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "Chandrayaan-3's Vikram lander and Pragyan rover achieved a historic soft landing at Shiv Shakti Point near the Moon's South Pole on 23 August 2023."
+  },
+  {
+    "classLevel": 7,
+    "subject": "GK",
+    "chapter": "Chapter 10: Science, Inventions, Information Technology & Digital Era",
+    "question": "What was the 'Human Genome Project' completed in 2003?",
+    "options": [
+      "An international 13-year scientific project that successfully mapped and sequenced all the 3 billion chemical base pairs of human DNA",
+      "A project to build human robots",
+      "A study on human languages",
+      "A census of the world population"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "The Human Genome Project deciphered the complete sequence of the human genome, revolutionizing precision medicine and genetic engineering."
+  },
+  {
+    "classLevel": 7,
+    "subject": "GK",
+    "chapter": "Chapter 10: Science, Inventions, Information Technology & Digital Era",
+    "question": "What is 'CRISPR-Cas9' gene editing technology discovered by Emmanuelle Charpentier and Jennifer Doudna (Nobel Prize in Chemistry 2020)?",
+    "options": [
+      "A revolutionary molecular 'scissors' tool that allows scientists to edit, insert, or delete specific sections of DNA sequences with pinpoint precision",
+      "A microscope that magnifies stars",
+      "A software that predicts weather",
+      "A vaccine for flu"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "CRISPR-Cas9 enables precise targeted genetic editing in living cells, transforming genetic therapy, oncology, and crop biotechnology."
+  },
+  {
+    "classLevel": 7,
+    "subject": "GK",
+    "chapter": "Chapter 10: Science, Inventions, Information Technology & Digital Era",
+    "question": "What is the primary semiconductor chemical element used to manufacture modern computer processor microchips and solar cells?",
+    "options": [
+      "Silicon (Si)",
+      "Carbon",
+      "Iron",
+      "Gold"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "Silicon is the premier semiconductor element whose electrical conductivity can be precisely modulated by doping, powering all microelectronics."
+  },
+  {
+    "classLevel": 7,
+    "subject": "GK",
+    "chapter": "Chapter 10: Science, Inventions, Information Technology & Digital Era",
+    "question": "What is 'Unified Payments Interface' (UPI) developed by the National Payments Corporation of India (NPCI) in 2016?",
+    "options": [
+      "An instant real-time mobile payment system facilitating inter-bank peer-to-peer (P2P) and person-to-merchant (P2M) digital transactions seamlessly",
+      "A credit card company",
+      "A cryptocurrency exchange",
+      "A government tax portal"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "UPI is a global fintech marvel, processing over 13 billion instant digital transactions per month across millions of small merchants."
+  },
+  {
+    "classLevel": 7,
+    "subject": "GK",
+    "chapter": "Chapter 10: Science, Inventions, Information Technology & Digital Era",
+    "question": "What is 'Cybersecurity' in the digital era?",
+    "options": [
+      "The practice of protecting internet-connected systems (hardware, software, data) from malicious digital attacks, unauthorized access, ransomware, and identity theft",
+      "Locking computer screens with padlocks",
+      "Cleaning keyboards with water",
+      "Deleting old emails"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "Cybersecurity deploys cryptography, firewalls, threat intelligence, and zero-trust architectures to defend digital infrastructure from cyber warfare and data breaches."
+  },
+  {
+    "classLevel": 7,
+    "subject": "GK",
+    "chapter": "Chapter 10: Science, Inventions, Information Technology & Digital Era",
+    "question": "What is the 'James Webb Space Telescope' (JWST) launched into space by NASA, ESA, and CSA in December 2021?",
+    "options": [
+      "The largest and most powerful infrared space telescope ever built, stationed at Lagrange Point 2 (L2) to observe the earliest stars and galaxies formed after the Big Bang",
+      "A radar station on Earth",
+      "A satellite that measures ocean waves",
+      "A solar panel testing facility"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "JWST uses a 6.5m beryllium-gold mirror at Sun-Earth L2, peering over 13.5 billion years into cosmic history in high-resolution infrared."
+  },
+  {
+    "classLevel": 7,
+    "subject": "GK",
+    "chapter": "Chapter 10: Science, Inventions, Information Technology & Digital Era",
+    "question": "Read the statements:\nAssertion (A): Semiconductor microchips and integrated circuits are considered the fundamental 'Crude Oil of the 21st Century'.\nReason (R): Microchips power every facet of modern civilization—from smartphones, automobiles, and medical diagnostics to aerospace avionics, artificial intelligence, and national defense radar systems.\nChoose the correct option:",
+    "options": [
+      "Both (A) and (R) are true, and (R) is the correct explanation of (A).",
+      "Both (A) and (R) are true, but (R) is NOT the correct explanation of (A).",
+      "(A) is true, but (R) is false.",
+      "(A) is false, but (R) is true."
+    ],
+    "correctAnswer": 0,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "Semiconductor microchips are the indispensable strategic hardware driving computational power, global trade, and geopolitical sovereignty."
+  },
+  {
+    "classLevel": 7,
+    "subject": "GK",
+    "chapter": "Chapter 10: Science, Inventions, Information Technology & Digital Era",
+    "question": "Spot the IMPOSTER in the following group of Computer Pioneers and their signature inventions:\nGroup:\n1. Tim Berners-Lee - World Wide Web (WWW)\n2. Linus Torvalds - Linux Operating System Kernel\n3. Alan Turing - Theoretical Computer Science & Turing Machine\n4. Alexander Fleming - The Touchscreen Smartphone",
+    "options": [
+      "Pioneer 1",
+      "Pioneer 2",
+      "Pioneer 3",
+      "Pioneer 4 (Alexander Fleming discovered the antibiotic PENICILLIN in 1928, NOT touchscreen smartphones)"
+    ],
+    "correctAnswer": 3,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "Pioneer 4 is an absurd confusion: Fleming was a biologist who discovered penicillin; smartphone touchscreens were developed by 21st-century electronics engineers."
+  },
+  {
+    "classLevel": 7,
+    "subject": "GK",
+    "chapter": "Chapter 10: Science, Inventions, Information Technology & Digital Era",
+    "question": "Analyze the operational mechanism of 'Large Language Models' (LLMs) and Generative AI (like Transformer neural networks):\nHow do these AI systems generate human-like coherent text?",
+    "options": [
+      "By using deep multi-head attention neural networks trained on vast text corpora to predict the statistically most probable next word (token) in context",
+      "By searching a dictionary and printing random words",
+      "By copying sentences from encyclopedia books verbatim",
+      "By translating speech into Morse code"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "Transformer-based LLMs compute contextual probabilistic token distributions across billions of parameters using self-attention mechanisms."
+  },
+  {
+    "classLevel": 7,
+    "subject": "GK",
+    "chapter": "Chapter 10: Science, Inventions, Information Technology & Digital Era",
+    "question": "Match Column I (Digital & Scientific Breakthroughs) with Column II (Pioneering Creators / Institutions):\n(a) World Wide Web (1989)       -> (i) Tim Berners-Lee (CERN)\n(b) Relational Database (RDBMS) -> (ii) Edgar F. Codd (IBM)\n(c) CRISPR-Cas9 Gene Editing   -> (iii) Jennifer Doudna & Emmanuelle Charpentier\n(d) Chandrayaan-3 Moon Landing  -> (iv) ISRO (India)",
+    "options": [
+      "a-(i), b-(ii), c-(iii), d-(iv)",
+      "a-(ii), b-(i), c-(iv), d-(iii)",
+      "a-(iv), b-(iii), c-(ii), d-(i)",
+      "a-(iii), b-(iv), c-(i), d-(ii)"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "WWW = Berners-Lee; RDBMS = Codd; CRISPR = Doudna/Charpentier; Moon landing = ISRO."
+  },
+  {
+    "classLevel": 7,
+    "subject": "GK",
+    "chapter": "Chapter 10: Science, Inventions, Information Technology & Digital Era",
+    "question": "Read the statements regarding India's Digital Public Infrastructure (DPI - 'India Stack'):\nStatement 1: India Stack integrates Aadhaar (Digital Identity), UPI (Instant Payments), and DigiLocker (Paperless Document Verification).\nStatement 2: India's DPI has enabled financial inclusion for over 500 million unbanked citizens via Direct Benefit Transfers (DBT).\nStatement 3: UPI was invented by the British in 1850.\nWhich statements are TRUE?",
+    "options": [
+      "Statements 1 and 2 only",
+      "Statements 2 and 3 only",
+      "Statements 1 and 3 only",
+      "All Statements 1, 2, and 3"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "Statement 3 is an absurd impossibility (UPI was launched in 2016). Statements 1 and 2 represent global consensus on India's digital public goods."
+  },
+  {
+    "classLevel": 7,
+    "subject": "GK",
+    "chapter": "Chapter 10: Science, Inventions, Information Technology & Digital Era",
+    "question": "What is the 'Higgs Boson' (often colloquially called the 'God Particle') discovered at CERN's Large Hadron Collider in 2012?",
+    "options": [
+      "The fundamental quantum particle associated with the Higgs field, which imparts mass to all fundamental elementary particles (quarks, leptons, W/Z bosons)",
+      "A particle of pure light",
+      "A particle found only on the Moon",
+      "A chemical used to make computer screens"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "The Higgs field mechanism (predicted by Peter Higgs and Satyendra Nath Bose's quantum statistics) generates mass via spontaneous electroweak symmetry breaking."
+  },
+  {
+    "classLevel": 7,
+    "subject": "GK",
+    "chapter": "Chapter 10: Science, Inventions, Information Technology & Digital Era",
+    "question": "How does Public-Key Asymmetric Cryptography (RSA algorithm) secure worldwide online banking and encrypted communications?",
+    "options": [
+      "It uses a mathematically paired Public Key (for encryption) and Private Key (for decryption) based on the computational difficulty of factoring giant prime numbers",
+      "By storing passwords in paper envelopes",
+      "By turning text into random sounds",
+      "By changing computer clock times"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "RSA encryption relies on one-way trapdoor mathematical functions (prime factorization intractability) to secure digital signatures and SSL/TLS internet transactions."
+  },
+  {
+    "classLevel": 7,
+    "subject": "GK",
+    "chapter": "Chapter 10: Science, Inventions, Information Technology & Digital Era",
+    "question": "Consider four milestone technological systems:\n1. Global Positioning System (GPS)\n2. Nuclear Magnetic Resonance Imaging (MRI)\n3. Photovoltaic Solar Cells\n4. Lithium-ion Rechargeable Batteries\nWhat common characteristic do they share?",
+    "options": [
+      "They are all direct practical engineering applications derived from 20th-century breakthroughs in Quantum Mechanics and Solid-State Physics",
+      "They were all invented in ancient Rome",
+      "They all operate without any electricity",
+      "They are used only in outer space"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "All four technologies represent the transformative fruit of fundamental quantum mechanics, semiconductor physics, and electrochemistry."
+  },
+  {
+    "classLevel": 7,
+    "subject": "GK",
+    "chapter": "Chapter 10: Science, Inventions, Information Technology & Digital Era",
+    "question": "What is the 'Fermi Paradox' in modern astronomy and astrophysics?",
+    "options": [
+      "The glaring contradiction between the high mathematical probability of extraterrestrial intelligent civilizations in our vast galaxy and the complete absence of observational contact or evidence ('Where is everybody?')",
+      "The paradox that stars are hotter than planets",
+      "The problem of calculating the Moon's weight",
+      "The reason why the Sun rises in the east"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "Enrico Fermi's famous paradox highlights the tension between the billions of habitable stars in the Milky Way and the deafening silence of the cosmos."
+  },
+  {
+    "classLevel": 7,
+    "subject": "GK",
+    "chapter": "Chapter 10: Science, Inventions, Information Technology & Digital Era",
+    "question": "Why was the 2019 Nobel Prize in Chemistry awarded to John Goodenough, Stanley Whittingham, and Akira Yoshino for developing the LITHIUM-ION BATTERY?",
+    "options": [
+      "Lithium-ion batteries created a lightweight, compact, rechargeable energy storage revolution that untethered portable electronics (smartphones, laptops) and enabled electric vehicles (EVs)",
+      "Because they invented atomic bombs",
+      "Because they discovered water on Mars",
+      "Because they built the first airplane"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "Lithium-ion intercalation electrochemistry catalyzed the mobile communication era and the renewable energy green transition."
+  },
+  {
+    "classLevel": 7,
+    "subject": "GK",
+    "chapter": "Chapter 10: Science, Inventions, Information Technology & Digital Era",
+    "question": "What is the mission of ISRO's 'Aditya-L1' spacecraft successfully launched in September 2023?",
+    "options": [
+      "India's first dedicated space-based solar observatory, placed in a halo orbit around Lagrangian point L1 (~1.5 million km from Earth) to study solar flares and coronal mass ejections",
+      "To land on Mars",
+      "To drill deep inside the Earth's core",
+      "To build a space hotel"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "Aditya-L1 continuously monitors solar coronal heating, solar wind dynamics, and space weather without eclipse interruptions from Sun-Earth L1."
+  },
+  {
+    "classLevel": 7,
+    "subject": "GK",
+    "chapter": "Chapter 10: Science, Inventions, Information Technology & Digital Era",
+    "question": "What master vision of human progress and ethical responsibility is articulated in Chapter 10 of General Knowledge?",
+    "options": [
+      "Scientific curiosity and digital technological power must be harnessed ethically and inclusively to alleviate human suffering, bridge economic divides, protect ecological balance, and propel humanity toward a sustainable, enlightened future",
+      "That technology should be used only for war",
+      "That scientific discoveries should be kept secret forever",
+      "That computers will make human knowledge obsolete"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "Chapter 10 synthesizes the arc of modern scientific discoveries, computational revolutions, space exploration, and humanist ethical stewardship."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Social Science",
+    "chapter": "Chapter 10: Eighteenth-Century Political Formations",
+    "question": "Which Mughal Emperor's long, exhausting 25-year military campaigns in the Deccan (1679–1707) severely depleted the financial and military resources of the Mughal Empire?",
+    "options": [
+      "Emperor Aurangzeb",
+      "Emperor Akbar",
+      "Emperor Shah Jahan",
+      "Emperor Jahangir"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "Aurangzeb's protracted Deccan wars exhausted the imperial treasury, ruined Mughal armies, and left northern administration vulnerable to collapse."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Social Science",
+    "chapter": "Chapter 10: Eighteenth-Century Political Formations",
+    "question": "Which ruler of Iran invaded and plundered the Mughal capital of Delhi in 1739, carrying away the legendary Peacock Throne (Takht-i-Taus) and the Koh-i-Noor Diamond?",
+    "options": [
+      "Nadir Shah",
+      "Ahmad Shah Abdali",
+      "Genghis Khan",
+      "Timur"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "Nadir Shah of Persia sacked Delhi in 1739, looting an estimated 70 crore rupees in bullion, jewels, the Koh-i-Noor, and Shah Jahan's Peacock Throne."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Social Science",
+    "chapter": "Chapter 10: Eighteenth-Century Political Formations",
+    "question": "Which Afghan ruler invaded northern India FIVE TIMES between 1748 and 1761, culminating in the 3rd Battle of Panipat?",
+    "options": [
+      "Ahmad Shah Abdali (Durrani)",
+      "Nadir Shah",
+      "Babur",
+      "Sher Shah Suri"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "Ahmad Shah Abdali of Afghanistan invaded Punjab and Delhi repeatedly between 1748 and 1761, shattering Mughal authority."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Social Science",
+    "chapter": "Chapter 10: Eighteenth-Century Political Formations",
+    "question": "Who was appointed Subadar of Awadh in 1722 and founded the powerful autonomous state of AWADH?",
+    "options": [
+      "Burhan-ul-Mulk Sa'adat Khan",
+      "Safdar Jung",
+      "Shuja-ud-Daula",
+      "Asaf Jah"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "Burhan-ul-Mulk Sa'adat Khan established Awadh's autonomy in 1722, uniting the offices of Subadari, Diwani, and Faujdari in his person."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Social Science",
+    "chapter": "Chapter 10: Eighteenth-Century Political Formations",
+    "question": "Who was appointed Naib Subadar (and later Subadar) of Bengal, transferring the provincial capital from Dacca to MURSHIDABAD?",
+    "options": [
+      "Murshid Quli Khan",
+      "Alivardi Khan",
+      "Siraj-ud-Daulah",
+      "Mir Jafar"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "Murshid Quli Khan consolidated Bengal as a virtually independent state, establishing Murshidabad as its administrative capital."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Social Science",
+    "chapter": "Chapter 10: Eighteenth-Century Political Formations",
+    "question": "Who founded the autonomous state of HYDERABAD in the Deccan in 1724 after escaping the faction-ridden Mughal court at Delhi?",
+    "options": [
+      "Nizam-ul-Mulk Asaf Jah (Chin Qilich Khan)",
+      "Sa'adat Khan",
+      "Hyder Ali",
+      "Tipu Sultan"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "Nizam-ul-Mulk Asaf Jah consolidated the six Deccan subas into the independent Nizamate of Hyderabad in 1724."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Social Science",
+    "chapter": "Chapter 10: Eighteenth-Century Political Formations",
+    "question": "Which Rajput ruler of Amber (Jaipur) was a brilliant astronomer and statesman who founded the planned pink city of JAIPUR and built five astronomical observatories (Jantar Mantars)?",
+    "options": [
+      "Sawai Raja Jai Singh (Jai Singh II)",
+      "Raja Ajit Singh of Jodhpur",
+      "Rana Pratap",
+      "Raja Man Singh"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "Sawai Raja Jai Singh II built Jaipur (1727) and five masonry observatories (Jantar Mantar) in Delhi, Jaipur, Ujjain, Mathura, and Varanasi."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Social Science",
+    "chapter": "Chapter 10: Eighteenth-Century Political Formations",
+    "question": "Who was the great Maratha warrior-king who carved out a stable independent kingdom in Maharashtra using guerrilla warfare against Mughal forces?",
+    "options": [
+      "Chhatrapati Shivaji Maharaj (1627–1680)",
+      "Sambhaji",
+      "Baji Rao I",
+      "Balaji Vishwanath"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "Chhatrapati Shivaji Maharaj established the sovereign Maratha Swarajya with support from powerful Deshmukh peasant-warrior Marathas."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Social Science",
+    "chapter": "Chapter 10: Eighteenth-Century Political Formations",
+    "question": "In the Maratha revenue administration, what was 'CHAUTH'?",
+    "options": [
+      "A tax of 25% (one-fourth) of the land revenue collected by Marathas from non-Maratha neighboring territories in exchange for protection from plundering",
+      "A tax on salt",
+      "A tax on horses",
+      "A gift given to the Mughal emperor"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "Chauth was a 25% (1/4th) protection levy claimed by Maratha rulers from territories outside the Swarajya core."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Social Science",
+    "chapter": "Chapter 10: Eighteenth-Century Political Formations",
+    "question": "What was 'SARDESHMUKHI' collected by the Marathas in addition to Chauth?",
+    "options": [
+      "An additional 9 to 10 per cent tax claimed by the Maratha King as the hereditary Chief Headman (Sardeshmukh) of the Deccan",
+      "A tax on ships",
+      "A tax on temples",
+      "A tax on diamond mines"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "Sardeshmukhi was a 9–10% surcharge levied on the entire revenue by Shivaji in his capacity as the hereditary Sardeshmukh (head of Deshmukhs)."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Social Science",
+    "chapter": "Chapter 10: Eighteenth-Century Political Formations",
+    "question": "Who was the legendary Sikh general who led a fierce armed rebellion against Mughal authority in Punjab after Guru Gobind Singh's passing, minting coins in the names of Guru Nanak and Guru Gobind Singh?",
+    "options": [
+      "Banda Singh Bahadur (Banda Bairagi)",
+      "Maharaja Ranjit Singh",
+      "Charat Singh",
+      "Jassa Singh Ahluwalia"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "Banda Singh Bahadur captured Sirhind in 1710, abolished the Zamindari system, and established Sikh sovereign rule before his capture in 1715."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Social Science",
+    "chapter": "Chapter 10: Eighteenth-Century Political Formations",
+    "question": "Which powerful Jat king led the kingdom of BHARATPUR to its political and military zenith, building the impregnable Lohagarh Fort?",
+    "options": [
+      "Suraj Mal (Maharaja Suraj Mal)",
+      "Churaman",
+      "Badan Singh",
+      "Gokula"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "Maharaja Suraj Mal (the 'Plato of the Jat tribe') consolidated Bharatpur into a formidable power, defending Lohagarh fort against all invaders."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Social Science",
+    "chapter": "Chapter 10: Eighteenth-Century Political Formations",
+    "question": "What were the two major competing noble factions in the later Mughal court whose bitter rivalry paralyzed central imperial administration?",
+    "options": [
+      "The IRANIS (nobles of Persian origin) and the TURANIS (nobles of Central Asian Turkish origin)",
+      "The Afghans and Rajputs only",
+      "The English and French factions",
+      "The Bengalis and Marathas"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "Imperial factionalism between Irani and Turani grandees reduced later Mughal emperors (Farrukhsiyar, Muhammad Shah) to helpless puppets."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Social Science",
+    "chapter": "Chapter 10: Eighteenth-Century Political Formations",
+    "question": "What was the 'Ijaradari System' (revenue farming) introduced in 18th-century Awadh and Bengal?",
+    "options": [
+      "The right to collect land revenue was auctioned to the highest bidding revenue contractors (Ijaradars) in return for a fixed sum of money guaranteed to the state",
+      "Farmers paid no tax",
+      "Land was divided equally among all villagers",
+      "Revenue was collected only in gold coins"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "Under Ijaradari, the provincial governors auctioned revenue rights to bankers and contractors, centralizing cash flow while pressuring cultivators."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Social Science",
+    "chapter": "Chapter 10: Eighteenth-Century Political Formations",
+    "question": "Which immensely wealthy banking house in Bengal wielded enormous financial and political influence under Murshid Quli Khan, Alivardi Khan, and the British East India Company?",
+    "options": [
+      "The Banking House of JAGAT SETH (Fateh Chand)",
+      "The House of Rothschild",
+      "The Surat Hundi Syndicate",
+      "The Chettiar Guild"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "The Jagat Seths ('Bankers of the World') managed Bengal's imperial mint, state revenues, and hundi credit networks with colossal financial power."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Social Science",
+    "chapter": "Chapter 10: Eighteenth-Century Political Formations",
+    "question": "What were the 'Watan Jagirs' enjoyed by Rajput rulers under Mughal paramountcy?",
+    "options": [
+      "Hereditary homeland territories (Watans) in Rajasthan that Rajput princes were allowed to rule autonomously without imperial interference, in return for military service",
+      "Lands in Bengal given to Rajputs",
+      "Tax-free temple lands",
+      "Forts built in Delhi"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "Watan Jagirs recognized Rajput princes' inalienable hereditary ancestral domains, preserving regional Rajput autonomy under imperial suzerainty."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Social Science",
+    "chapter": "Chapter 10: Eighteenth-Century Political Formations",
+    "question": "Who was the dynamic Peshwa (reigned 1720–1740) who championed northern Maratha expansion, preaching 'Strike at the trunk of the withering Mughal tree and the branches will fall of themselves'?",
+    "options": [
+      "Peshwa Baji Rao I",
+      "Balaji Vishwanath",
+      "Balaji Baji Rao (Nana Saheb)",
+      "Madhav Rao I"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "Baji Rao I was a military genius who expanded the Maratha confederacy across Malwa, Gujarat, and Bundelkhand, threatening Delhi itself."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Social Science",
+    "chapter": "Chapter 10: Eighteenth-Century Political Formations",
+    "question": "Which four great Maratha military dynasties (Chiefs / Sardar houses) dominated regional territories within the decentralized Maratha Confederacy?",
+    "options": [
+      "1. Gaekwads (Baroda) ; 2. Bhonsles (Nagpur) ; 3. Holkars (Indore) ; 4. Sindhias (Gwalior)",
+      "Nawabs, Nizams, Sultans, and Rajas",
+      "Peshwas, Mughals, Rajputs, and Sikhs",
+      "Cholas, Cheras, Pandyas, and Pallavas"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "The Maratha confederacy was led by four powerful martial houses: Sindhia (Gwalior), Holkar (Indore), Gaekwad (Baroda), and Bhonsle (Nagpur)."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Social Science",
+    "chapter": "Chapter 10: Eighteenth-Century Political Formations",
+    "question": "What catastrophic event on January 14, 1761, halted the Marathas' ambition to rule all of India from Delhi?",
+    "options": [
+      "The THIRD BATTLE OF PANIPAT (where Ahmad Shah Abdali routed the Maratha army under Sadashivrao Bhau)",
+      "The Battle of Plassey",
+      "The Battle of Buxar",
+      "The Battle of Haldighati"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "The Third Battle of Panipat (1761) inflicted catastrophic casualties on the Maratha leadership, creating a political vacuum exploited by the British."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Social Science",
+    "chapter": "Chapter 10: Eighteenth-Century Political Formations",
+    "question": "What was the 'Dal Khalsa' and the 'Rakhi' system organized by Sikh bands in 18th-century Punjab?",
+    "options": [
+      "Dal Khalsa was the grand unified army of Sikh Misls meeting at Amritsar on Baisakhi/Diwali ; Rakhi was a security system offering protection to cultivators against external raids for a 20% revenue payment",
+      "A trading guild for selling wheat",
+      "A royal palace guard in Lahore",
+      "A religious pilgrimage to the Himalayas"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "Dal Khalsa unified Sikh military misls under collective 'Gurmata' consensus; the Rakhi system secured peasant agriculture against Afghan marauders."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Social Science",
+    "chapter": "Chapter 10: Eighteenth-Century Political Formations",
+    "question": "Who united all the independent Sikh Misls and established a powerful sovereign Sikh kingdom with its capital at LAHORE in 1799?",
+    "options": [
+      "Maharaja Ranjit Singh ('Lion of Punjab')",
+      "Banda Singh Bahadur",
+      "Charat Singh Sukerchakia",
+      "Hari Singh Nalwa"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "Maharaja Ranjit Singh captured Lahore in 1799, creating a formidable secular empire spanning Punjab, Kashmir, and Peshawar with modern Fauj-i-Khas artillery."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Social Science",
+    "chapter": "Chapter 10: Eighteenth-Century Political Formations",
+    "question": "Why did the states of Awadh, Bengal, and Hyderabad—despite their de facto independence—continue to formally acknowledge the Mughal Emperor in Delhi?",
+    "options": [
+      "The Mughal Emperor remained the supreme source of political legitimacy and symbolic prestige; regional rulers minted coins in the Emperor's name and sought imperial titles (Farman) to legitimize their rule",
+      "Because the Emperor had a massive army in Delhi",
+      "Because the Emperor paid their salaries",
+      "Because they wanted to conquer Europe"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "Mughal symbolic paramountcy persisted: regional Nawabs and Nizams derived legal legitimacy from nominal imperial investiture."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Social Science",
+    "chapter": "Chapter 10: Eighteenth-Century Political Formations",
+    "question": "What distinct architectural style is represented in the magnificent palaces and garden pavilions of Deeg near Bharatpur built by Jat rulers?",
+    "options": [
+      "A graceful fusion of Mughal architectural forms (Shahjahani jharokhas, bangla eaves) with traditional Rajput palatial motifs and water fountains",
+      "Pure Gothic European style",
+      "Ancient Greek column style",
+      "Chinese pagoda style"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "The Deeg water palaces synthesized Shahjahani aesthetic elegance with Rajasthani courtyards and hydraulic fountain technology."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Social Science",
+    "chapter": "Chapter 10: Eighteenth-Century Political Formations",
+    "question": "Which pastoral-peasant community formed the backbone of the formidable Maratha armies under Shivaji and the Peshwas?",
+    "options": [
+      "The Kunbi Peasants (Kunbi Marathas)",
+      "The Gujjars",
+      "The Jats",
+      "The Ahirs"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "Hardy Kunbi peasant-warriors provided the mobile light cavalry that executed Shivaji's devastating Ganimi Kava (guerrilla) maneuvers."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Social Science",
+    "chapter": "Chapter 10: Eighteenth-Century Political Formations",
+    "question": "How did the Peshwas transform Pune in the 18th century?",
+    "options": [
+      "Pune became the thriving political, administrative, and banking capital of the entire Maratha Empire, bustling with merchants, scholars, and diplomats",
+      "Pune was abandoned and turned into a forest",
+      "Pune was sold to the British in 1720",
+      "Pune became an ocean port"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "Under the Chitpavan Peshwas, Pune evolved from a small garrison town into the grand imperial seat of the Maratha confederacy."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Social Science",
+    "chapter": "Chapter 10: Eighteenth-Century Political Formations",
+    "question": "What were the 'Misls' in 18th-century Sikh history?",
+    "options": [
+      "Twelve autonomous sovereign military-administrative confederacies/clans (such as Sukerchakia, Ahluwalia, Bhangi) that collectively defended Punjab against foreign invasions",
+      "Religious books written in Persian",
+      "Special cavalry swords",
+      "Taxes on grain"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "The 12 Sikh Misls were egalitarian martial confederacies that carved up and governed Punjab after defeating Afghan incursions."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Social Science",
+    "chapter": "Chapter 10: Eighteenth-Century Political Formations",
+    "question": "What common administrative feature united the three successor states of Awadh, Bengal, and Hyderabad?",
+    "options": [
+      "All three states relied heavily on wealthy regional Moneylenders and Bankers (like Jagat Seths, Mahajans) for credit, loans, and revenue guarantees",
+      "All three states banned the use of money",
+      "All three states abolished armies",
+      "All three states converted to Buddhism"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "The financial alliance between regional statecraft and indigenous banking houses (Mahajans, Sahukars) was a defining hallmark of 18th-century polity."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Social Science",
+    "chapter": "Chapter 10: Eighteenth-Century Political Formations",
+    "question": "Who was the French-trained general who modernized Maharaja Ranjit Singh's Sikh army (Fauj-i-Khas) into the second-best military force in Asia after the British East India Company?",
+    "options": [
+      "General Jean-François Allard and General Ventura",
+      "General Dupleix",
+      "General Lally",
+      "General Bussy"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "Napoleonic veterans (Allard, Ventura, Court, Avitabile) drilled the Sikh Fauj-i-Khas in European infantry tactics, cavalry maneuvers, and heavy brass artillery."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Social Science",
+    "chapter": "Chapter 10: Eighteenth-Century Political Formations",
+    "question": "Read the statements:\nAssertion (A): The 18th century in Indian history was NOT a period of total 'Dark Age' anarchy, but a dynamic era of political decentralization and vibrant regional state-building.\nReason (R): Regional successor states (Awadh, Bengal, Hyderabad, Marathas, Sikhs, Jats) fostered vigorous local economies, patronized classical arts, built new urban administrative centers, and forged powerful alliances with commercial banking networks.\nChoose the correct option:",
+    "options": [
+      "Both (A) and (R) are true, and (R) is the correct explanation of (A).",
+      "Both (A) and (R) are true, but (R) is NOT the correct explanation of (A).",
+      "(A) is true, but (R) is false.",
+      "(A) is false, but (R) is true."
+    ],
+    "correctAnswer": 0,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "Modern historiography (Muzaffar Alam, C.A. Bayly) refutes colonial 'Dark Age' tropes, demonstrating 18th-century regional economic dynamism and state-formation."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Social Science",
+    "chapter": "Chapter 10: Eighteenth-Century Political Formations",
+    "question": "Spot the IMPOSTER in the following regional states of 18th-century India and their founding leaders:\nGroup:\n1. Awadh - Burhan-ul-Mulk Sa'adat Khan\n2. Bengal - Murshid Quli Khan\n3. Hyderabad - Nizam-ul-Mulk Asaf Jah\n4. Maratha Swarajya - Julius Caesar",
+    "options": [
+      "State 1",
+      "State 2",
+      "State 3",
+      "State 4 (The Maratha kingdom was founded by CHHATRAPATI SHIVAJI MAHARAJ, not ancient Roman general Julius Caesar)"
+    ],
+    "correctAnswer": 3,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "State 4 is an absurd historical impossibility; Chhatrapati Shivaji Maharaj founded Maratha Swarajya in the 17th century."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Social Science",
+    "chapter": "Chapter 10: Eighteenth-Century Political Formations",
+    "question": "Analyze the structural collapse of the Mughal 'Jagirdari Crisis' in the late 17th and early 18th centuries:\nWhat economic mechanism caused the breakdown of imperial control?",
+    "options": [
+      "The rapid influx of new nobles (Mansabdars) created an acute shortage of fertile crown land (Paibaqi) to assign as Jagirs; corrupt nobles extracted extortionate revenues from desperate peasants while maintaining inadequate military contingents",
+      "Mughal coins lost all value because gold was banned",
+      "All farmers refused to plant crops for 50 years",
+      "The Mughal emperor gave all lands to European traders"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "The Jagirdari crisis (Satish Chandra): shortage of Paibaqi land created fierce factional infighting among Mansabdars, collapsing agrarian revenue and military readiness."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Social Science",
+    "chapter": "Chapter 10: Eighteenth-Century Political Formations",
+    "question": "Match Column I (18th-Century Political Formations) with Column II (Defining Administrative & Geopolitical Features):\n(a) Awadh (Sa'adat Khan)       -> (i) Ijaradari revenue farming & synthesis of Awadhi court culture\n(b) Bengal (Murshid Quli Khan)  -> (ii) Strict revenue centralization & alliance with Jagat Seth banking house\n(c) Maratha Confederacy        -> (iii) Chauth and Sardeshmukhi levies & mobile cavalry warfare\n(d) Sikh Misls (Dal Khalsa)    -> (iv) Gurmata democratic consensus & Rakhi protection system",
+    "options": [
+      "a-(i), b-(ii), c-(iii), d-(iv)",
+      "a-(ii), b-(i), c-(iv), d-(iii)",
+      "a-(iv), b-(iii), c-(ii), d-(i)",
+      "a-(iii), b-(iv), c-(i), d-(ii)"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "Awadh = Ijaradari; Bengal = Jagat Seth alliance; Marathas = Chauth/Sardeshmukhi; Sikhs = Gurmata/Rakhi."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Social Science",
+    "chapter": "Chapter 10: Eighteenth-Century Political Formations",
+    "question": "Read the statements regarding the strategic defeat of the Marathas at the Third Battle of Panipat (1761):\nStatement 1: The Marathas failed to secure alliances with the Rajputs, Jats, and the Nawab of Awadh (who joined Abdali).\nStatement 2: Ahmad Shah Abdali deployed mobile swivel-guns mounted on camels (Zamburaks) that outmatched heavy Maratha artillery.\nStatement 3: The battle was fought inside the Taj Mahal.\nWhich statements are TRUE?",
+    "options": [
+      "Statements 1 and 2 only",
+      "Statements 2 and 3 only",
+      "Statements 1 and 3 only",
+      "All Statements 1, 2, and 3"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "Statement 3 is an absurd falsehood. Statements 1 and 2 highlight the political isolation and tactical vulnerabilities that caused the 1761 Panipat defeat."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Social Science",
+    "chapter": "Chapter 10: Eighteenth-Century Political Formations",
+    "question": "Why did the English East India Company manage to conquer the regional successor states of 18th-century India one by one?",
+    "options": [
+      "The regional states lacked pan-Indian political unity, fought ceaseless internecine wars among themselves, and could not match the Company's disciplined European-trained mercenary armies, modern naval power, and limitless credit from British bond markets",
+      "Because Indian states had no soldiers",
+      "Because all Indian kings surrendered voluntarily in 1700",
+      "Because the British possessed nuclear weapons in the 18th century"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "British colonial conquest exploited regional fragmentation, deploying modern fiscal-military statecraft, naval logistics, and divide-and-rule diplomacy."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Social Science",
+    "chapter": "Chapter 10: Eighteenth-Century Political Formations",
+    "question": "What was the administrative significance of the 'Ashtapradhan' council of eight ministers instituted by Chhatrapati Shivaji Maharaj?",
+    "options": [
+      "A centralized cabinet where each minister (Peshwa, Amatya, Senapati, Nyayadhish, etc.) headed a specific state department and received direct cash salaries from the treasury, eliminating feudal land grants",
+      "A group of foreign ambassadors",
+      "A committee of tax collectors only",
+      "Eight kings ruling together"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "Shivaji's Ashtapradhan was a proto-modern bureaucratic cabinet that institutionalized departmental administration paid in cash (Nagdi)."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Social Science",
+    "chapter": "Chapter 10: Eighteenth-Century Political Formations",
+    "question": "How did Sawai Raja Jai Singh's astronomical 'Jantar Mantars' contribute to 18th-century scientific observation in India?",
+    "options": [
+      "He constructed monumental masonry instruments (like the massive Samrat Yantra sundial) that measured celestial coordinates, solar time, planetary orbits, and eclipses with remarkable geometric precision",
+      "They were magical astrology temples only",
+      "They were built to store gunpowder",
+      "They were residential palaces for soldiers"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "Sawai Jai Singh's Jantar Mantars combined Ptolemaic, Islamic (Ulugh Beg), and European observational astronomy in monumental stone."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Social Science",
+    "chapter": "Chapter 10: Eighteenth-Century Political Formations",
+    "question": "Consider four regional military powers of 18th-century India:\n1. The Maratha Light Cavalry (Baji Rao I)\n2. The Sikh Misls (Dal Khalsa)\n3. The Jat Infantry at Bharatpur (Suraj Mal)\n4. The Mysore Rocket Artillery (Hyder Ali & Tipu Sultan)\nWhat military characteristic did they share against imperial and foreign invaders?",
+    "options": [
+      "Exceptional mobility, terrain mastery, resilient peasant-warrior mobilization, and rapid adoption of innovative ballistics and firearms",
+      "They all fought on foot without any weapons",
+      "They only defended mountain tops",
+      "They bought all their weapons from China"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "These regional martial powers revolutionized subcontinental warfare through mobile cavalry maneuvers, guerrilla ambushes, and advanced indigenous rocketry."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Social Science",
+    "chapter": "Chapter 10: Eighteenth-Century Political Formations",
+    "question": "Why was the Battle of Plassey (1757) and Battle of Buxar (1764) in Bengal a monumental turning point in modern Indian history?",
+    "options": [
+      "The defeat of Nawab Siraj-ud-Daulah and the grant of the Diwani (civil tax collection rights of Bengal, Bihar, and Odisha) to the British East India Company in 1765 laid the foundational territorial empire of British rule in India",
+      "They ended all wars in India forever",
+      "They resulted in the revival of the Mughal Empire",
+      "They created the Indian Republic in 1765"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "The 1765 Treaty of Allahabad grant of Diwani transformed a commercial trading company into the sovereign territorial master of India's richest province."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Social Science",
+    "chapter": "Chapter 10: Eighteenth-Century Political Formations",
+    "question": "What socio-economic legacy did 18th-century regional state formation leave for modern Indian federal geography?",
+    "options": [
+      "It demarcated the linguistic, cultural, and political contours of modern Indian states (Maharashtra, Punjab, Bengal, Rajasthan, Hyderabad/Telangana-Andhra, Awadh/UP)",
+      "It erased all cultural diversity in India",
+      "It made all Indians speak only Persian",
+      "It turned India into a desert"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "18th-century regional formations prefigured the linguistic and socio-cultural geography of modern federal India."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Social Science",
+    "chapter": "Chapter 10: Eighteenth-Century Political Formations",
+    "question": "What master historiographical perspective concludes Chapter 10 of NCERT Class 7 History?",
+    "options": [
+      "The eighteenth century was a profound transitional epoch—where the fragmentation of centralized Mughal imperial authority gave birth to vibrant regional kingdoms, setting the stage for the dramatic confrontation between indigenous Indian powers and rising British colonial imperialism",
+      "That the Mughal Empire continued unchanged until today",
+      "That India was completely peaceful with no political events",
+      "That regional kingdoms had no impact on Indian history"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "Chapter 10 encapsulates the political reorganization of 18th-century India: imperial devolution, regional flourishing, and the impending colonial encounter."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Hindi Grammar",
+    "chapter": "Chapter 10: क्रिया और काल",
+    "question": "जिस शब्द से किसी कार्य के करने या होने का बोध होता है, उसे व्याकरण में क्या कहते हैं?",
+    "options": [
+      "क्रिया (Verb)",
+      "संज्ञा",
+      "सर्वनाम",
+      "विशेषण"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "क्रिया: जिन शब्दों से किसी कार्य के करने या होने की सूचना मिलती है, उन्हें क्रिया कहते हैं (जैसे: पढ़ना, लिखना, खेलना)।"
+  },
+  {
+    "classLevel": 7,
+    "subject": "Hindi Grammar",
+    "chapter": "Chapter 10: क्रिया और काल",
+    "question": "क्रिया के मूल रूप को व्याकरण में क्या कहा जाता है?",
+    "options": [
+      "धातु (Root - जैसे: पढ़, लिख, खा, जा, हँस)",
+      "प्रत्यय",
+      "उपसर्ग",
+      "कारक"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "धातु: क्रिया के मूल रूप को धातु कहते हैं; इसमें 'ना' प्रत्यय जोड़ने से क्रिया का सामान्य रूप बनता है (पढ़ + ना = पढ़ना)।"
+  },
+  {
+    "classLevel": 7,
+    "subject": "Hindi Grammar",
+    "chapter": "Chapter 10: क्रिया और काल",
+    "question": "कर्म के आधार पर क्रिया के मुख्य रूप से कितने भेद होते हैं?",
+    "options": [
+      "दो भेद (1. अकर्मक क्रिया, 2. सकर्मक क्रिया)",
+      "तीन भेद",
+      "चार भेद",
+      "पाँच भेद"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "कर्म के आधार पर क्रिया के 2 भेद होते हैं: अकर्मक (Intransitive) और सकर्मक (Transitive)।"
+  },
+  {
+    "classLevel": 7,
+    "subject": "Hindi Grammar",
+    "chapter": "Chapter 10: क्रिया और काल",
+    "question": "जिस क्रिया में कर्म की आवश्यकता नहीं होती और क्रिया का फल सीधे कर्ता पर पड़ता है (जैसे: 'रोहन सोता है', 'पक्षी उड़ते हैं'), उसे क्या कहते हैं?",
+    "options": [
+      "अकर्मक क्रिया (Intransitive Verb)",
+      "सकर्मक क्रिया",
+      "प्रेरणार्थक क्रिया",
+      "द्विकर्मक क्रिया"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "अकर्मक क्रिया: जिस क्रिया के साथ कर्म नहीं होता (जैसे: रोना, सोना, हँसना, दौड़ना, उड़ना)।"
+  },
+  {
+    "classLevel": 7,
+    "subject": "Hindi Grammar",
+    "chapter": "Chapter 10: क्रिया और काल",
+    "question": "जिस क्रिया में कर्म उपस्थित होता है और क्रिया का फल कर्ता पर न पड़कर कर्म पर पड़ता है (जैसे: 'अमित पुस्तक पढ़ता है'), उसे क्या कहते हैं?",
+    "options": [
+      "सकर्मक क्रिया (Transitive Verb)",
+      "अकर्मक क्रिया",
+      "नामधातु क्रिया",
+      "पूर्वकालिक क्रिया"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "सकर्मक क्रिया: जिस क्रिया में कार्य का प्रभाव कर्म पर पड़ता है ('अमित पुस्तक पढ़ता है' में 'पुस्तक' कर्म है)।"
+  },
+  {
+    "classLevel": 7,
+    "subject": "Hindi Grammar",
+    "chapter": "Chapter 10: क्रिया और काल",
+    "question": "क्रिया के जिस रूप से कार्य के संपन्न होने के 'समय' (Time) का बोध होता है, उसे व्याकरण में क्या कहते हैं?",
+    "options": [
+      "काल (Tense)",
+      "कारक",
+      "वाच्य",
+      "पुरुष"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "काल: क्रिया के जिस रूप से उसके होने के समय का पता चले, उसे काल कहते हैं।"
+  },
+  {
+    "classLevel": 7,
+    "subject": "Hindi Grammar",
+    "chapter": "Chapter 10: क्रिया और काल",
+    "question": "हिंदी में काल के मुख्य रूप से कितने भेद होते हैं?",
+    "options": [
+      "तीन भेद (1. भूतकाल, 2. वर्तमान काल, 3. भविष्यत काल)",
+      "दो भेद",
+      "चार भेद",
+      "पाँच भेद"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "काल के 3 मुख्य भेद हैं: भूतकाल (Past), वर्तमान काल (Present), और भविष्यत काल (Future)।"
+  },
+  {
+    "classLevel": 7,
+    "subject": "Hindi Grammar",
+    "chapter": "Chapter 10: क्रिया और काल",
+    "question": "क्रिया के जिस रूप से बीते हुए समय में कार्य के संपन्न होने का बोध हो (जैसे: 'वह कल आया था'), उसे क्या कहते हैं?",
+    "options": [
+      "भूतकाल (Past Tense)",
+      "वर्तमान काल",
+      "भविष्यत काल",
+      "आसन्न काल"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "भूतकाल: बीते हुए समय में क्रिया के होने का बोध कराने वाला काल रूप।"
+  },
+  {
+    "classLevel": 7,
+    "subject": "Hindi Grammar",
+    "chapter": "Chapter 10: क्रिया और काल",
+    "question": "क्रिया के जिस रूप से चल रहे वर्तमान समय में कार्य के होने का बोध हो (जैसे: 'बच्चा खेल रहा है'), उसे क्या कहते हैं?",
+    "options": [
+      "वर्तमान काल (Present Tense)",
+      "भूतकाल",
+      "भविष्यत काल",
+      "हेतुहेतुमद्भूत"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "वर्तमान काल: वर्तमान समय में क्रिया के संपन्न होने की सूचना देता है।"
+  },
+  {
+    "classLevel": 7,
+    "subject": "Hindi Grammar",
+    "chapter": "Chapter 10: क्रिया और काल",
+    "question": "क्रिया के जिस रूप से आने वाले समय में कार्य के होने का बोध हो (जैसे: 'हम कल दिल्ली जाएँगे'), उसे क्या कहते हैं?",
+    "options": [
+      "भविष्यत काल (Future Tense)",
+      "वर्तमान काल",
+      "भूतकाल",
+      "अपूर्ण काल"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "भविष्यत काल: आने वाले समय में होने वाली क्रिया का बोध कराता है।"
+  },
+  {
+    "classLevel": 7,
+    "subject": "Hindi Grammar",
+    "chapter": "Chapter 10: क्रिया और काल",
+    "question": "'रोना, हँसना, सोना, दौड़ना, चलना' क्रियाएँ सामान्यतः किस भेद के अंतर्गत आती हैं?",
+    "options": [
+      "अकर्मक क्रिया (क्योंकि इनमें कोई बाह्य कर्म संभव नहीं होता)",
+      "सकर्मक क्रिया",
+      "द्विकर्मक क्रिया",
+      "प्रेरणार्थक क्रिया"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "रोना, हँसना, सोना, जागना, उछलना, तैरना स्वाभाविक शारीरिक अवस्थाएँ हैं जो नित्य अकर्मक होती हैं।"
+  },
+  {
+    "classLevel": 7,
+    "subject": "Hindi Grammar",
+    "chapter": "Chapter 10: क्रिया और काल",
+    "question": "'अध्यापक ने छात्रों को हिंदी पढ़ाई।' इस वाक्य में 'पढ़ाई' किस प्रकार की सकर्मक क्रिया है?",
+    "options": [
+      "द्विकर्मक क्रिया (इसमें दो कर्म हैं: 'छात्रों को' [गौण कर्म] और 'हिंदी' [मुख्य कर्म])",
+      "एककर्मक क्रिया",
+      "अकर्मक क्रिया",
+      "नामधातु क्रिया"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "द्विकर्मक क्रिया: जिस क्रिया में दो कर्म होते हैं (किसे = छात्रों को, क्या = हिंदी)।"
+  },
+  {
+    "classLevel": 7,
+    "subject": "Hindi Grammar",
+    "chapter": "Chapter 10: क्रिया और काल",
+    "question": "सकर्मक और अकर्मक क्रिया की पहचान करने के लिए क्रिया के साथ कौन-से प्रश्नवाचक शब्द लगाकर प्रश्न पूछा जाता है?",
+    "options": [
+      "'क्या', 'किसे' या 'किसको' लगाकर (यदि उत्तर मिल जाए तो सकर्मक, और यदि उत्तर न मिले तो अकर्मक)",
+      "'कब' और 'कहाँ' लगाकर",
+      "'क्यों' और 'कैसे' लगाकर",
+      "'कितना' लगाकर"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "पहचान नियम: क्रिया + 'क्या/किसे/किसको' = उत्तर मिले तो सकर्मक, न मिले तो अकर्मक।"
+  },
+  {
+    "classLevel": 7,
+    "subject": "Hindi Grammar",
+    "chapter": "Chapter 10: क्रिया और काल",
+    "question": "जब कर्ता स्वयं कार्य न करके किसी अन्य को कार्य करने के लिए प्रेरित करता है (जैसे: 'माँ नौकरानी से कपड़े धुलवाती है'), तो उस क्रिया को क्या कहते हैं?",
+    "options": [
+      "प्रेरणार्थक क्रिया (Causative Verb)",
+      "नामधातु क्रिया",
+      "पूर्वकालिक क्रिया",
+      "संयुक्त क्रिया"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "प्रेरणार्थक क्रिया: जहाँ कर्ता स्वयं कार्य न कर दूसरे को कार्य के लिए प्रेरित करे (लिखना → लिखाना / लिखवाना)।"
+  },
+  {
+    "classLevel": 7,
+    "subject": "Hindi Grammar",
+    "chapter": "Chapter 10: क्रिया और काल",
+    "question": "संज्ञा, सर्वनाम अथवा विशेषण शब्दों से बनने वाली क्रियाओं को क्या कहा जाता है (जैसे: हाथ → हथियाना, बात → बतियाना, शर्म → शर्माना, अपना → अपनाना)?",
+    "options": [
+      "नामधातु क्रिया",
+      "प्रेरणार्थक क्रिया",
+      "संयुक्त क्रिया",
+      "सहायक क्रिया"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "नामधातु क्रिया: संज्ञा, सर्वनाम और विशेषण शब्दों में प्रत्यय जोड़कर बनाई जाने वाली क्रियाएँ।"
+  },
+  {
+    "classLevel": 7,
+    "subject": "Hindi Grammar",
+    "chapter": "Chapter 10: क्रिया और काल",
+    "question": "जब मुख्य क्रिया से पहले कोई अन्य क्रिया संपन्न हो चुकी होती है और उसके अंत में 'कर' या 'के' जुड़ा होता है (जैसे: 'वह पढ़कर सो गया'), तो उस पहली क्रिया को क्या कहते हैं?",
+    "options": [
+      "पूर्वकालिक क्रिया (Absolutive / Preceding Verb)",
+      "सहायक क्रिया",
+      "नामधातु क्रिया",
+      "अकर्मक क्रिया"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "पूर्वकालिक क्रिया: मुख्य क्रिया से पूर्व समाप्त होने वाली क्रिया (जैसे: 'पढ़कर सो गया' में 'पढ़कर' पूर्वकालिक है)।"
+  },
+  {
+    "classLevel": 7,
+    "subject": "Hindi Grammar",
+    "chapter": "Chapter 10: क्रिया और काल",
+    "question": "जब दो या दो से अधिक क्रियाएँ मिलकर एक पूर्ण क्रिया का अर्थ प्रकट करती हैं (जैसे: 'वह खाना खा चुका', 'रेलगाड़ी चल पड़ी'), तो उसे क्या कहते हैं?",
+    "options": [
+      "संयुक्त क्रिया (Compound Verb)",
+      "मूल क्रिया",
+      "नामधातु क्रिया",
+      "प्रेरणार्थक क्रिया"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "संयुक्त क्रिया: दो या अधिक धातुओं के मेल से बनी क्रिया (जैसे: 'चल पड़ी', 'खा लिया')।"
+  },
+  {
+    "classLevel": 7,
+    "subject": "Hindi Grammar",
+    "chapter": "Chapter 10: क्रिया और काल",
+    "question": "क्रिया के जिस रूप से यह पता चले कि क्रिया अभी-अभी कुछ ही समय पहले समाप्त हुई है (जैसे: 'मैंने अभी चाय पी है', 'गाड़ी आई है'), उसे भूतकाल का कौन-सा भेद कहते हैं?",
+    "options": [
+      "आसन्न भूतकाल (Recent Past)",
+      "सामान्य भूतकाल",
+      "पूर्ण भूतकाल",
+      "संदिग्ध भूतकाल"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "आसन्न भूत: क्रिया का निकट अतीत (अभी-अभी) में संपन्न होना प्रकट करने वाला रूप।"
+  },
+  {
+    "classLevel": 7,
+    "subject": "Hindi Grammar",
+    "chapter": "Chapter 10: क्रिया और काल",
+    "question": "क्रिया के जिस रूप से यह ज्ञात हो कि कार्य भूतकाल में प्रारंभ हुआ था, परन्तु बोलते समय तक समाप्त नहीं हुआ था (जैसे: 'वर्षा हो रही थी', 'अमित पढ़ रहा था'), उसे क्या कहते हैं?",
+    "options": [
+      "अपूर्ण भूतकाल (Past Continuous)",
+      "पूर्ण भूतकाल",
+      "आसन्न भूतकाल",
+      "संदिग्ध भूतकाल"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "अपूर्ण भूतकाल: भूतकाल में क्रिया की निरंतरता (असमाप्ति) का बोध कराता है।"
+  },
+  {
+    "classLevel": 7,
+    "subject": "Hindi Grammar",
+    "chapter": "Chapter 10: क्रिया और काल",
+    "question": "क्रिया के जिस रूप से भूतकाल में कार्य के पूरा होने में संदेह प्रकट हो (जैसे: 'उसने पत्र पढ़ लिया होगा', 'गाड़ी छूट गई होगी'), उसे क्या कहते हैं?",
+    "options": [
+      "संदिग्ध भूतकाल",
+      "संभाव्य भविष्यत",
+      "अपूर्ण भूतकाल",
+      "सामान्य भूतकाल"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "संदिग्ध भूतकाल: भूतकालिक क्रिया के संपन्न होने में संदेह की स्थिति (होगा/होगी युक्त)।"
+  },
+  {
+    "classLevel": 7,
+    "subject": "Hindi Grammar",
+    "chapter": "Chapter 10: क्रिया और काल",
+    "question": "जहाँ भूतकाल की एक क्रिया का होना किसी दूसरी क्रिया पर निर्भर करता है (जैसे: 'यदि परिश्रम करते, तो अवश्य सफल होते'), उसे क्या कहते हैं?",
+    "options": [
+      "हेतुहेतुमद्भूत काल (Conditional Past)",
+      "संदिग्ध भूतकाल",
+      "सामान्य भूतकाल",
+      "पूर्ण भूतकाल"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "हेतुहेतुमद्भूत: जहाँ कारण-कार्य (शर्त) के कारण भूतकाल की क्रिया संपन्न न हो सकी हो।"
+  },
+  {
+    "classLevel": 7,
+    "subject": "Hindi Grammar",
+    "chapter": "Chapter 10: क्रिया और काल",
+    "question": "'सूर्य पूरब में उगता है।' वाक्य में 'उगता है' किस काल का उदाहरण है?",
+    "options": [
+      "सामान्य वर्तमान काल (Simple Present / Universal Truth)",
+      "अपूर्ण वर्तमान काल",
+      "संदिग्ध वर्तमान काल",
+      "सामान्य भविष्यत काल"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "सामान्य वर्तमान: क्रिया का वर्तमान में सामान्य स्वभाव या सार्वकालिक सत्य प्रकट करने वाला रूप।"
+  },
+  {
+    "classLevel": 7,
+    "subject": "Hindi Grammar",
+    "chapter": "Chapter 10: क्रिया और काल",
+    "question": "'शायद आज शाम को वर्षा होगी।' वाक्य में क्रिया किस काल की है?",
+    "options": [
+      "संभाव्य भविष्यत काल (Probable Future)",
+      "सामान्य भविष्यत काल",
+      "हेतुहेतुमद्भविष्यत काल",
+      "संदिग्ध वर्तमान काल"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "संभाव्य भविष्यत: भविष्य में कार्य के होने की संभावना या इच्छा प्रकट करने वाला रूप।"
+  },
+  {
+    "classLevel": 7,
+    "subject": "Hindi Grammar",
+    "chapter": "Chapter 10: क्रिया और काल",
+    "question": "'लिखना' क्रिया के प्रथम प्रेरणार्थक और द्वितीय प्रेरणार्थक रूप क्रमशः क्या होंगे?",
+    "options": [
+      "लिखाना (प्रथम) और लिखवाना (द्वितीय)",
+      "लिखना और लिखावट",
+      "लेखक और लेख",
+      "लिखवाना और लिखना"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "मूल = लिखना; प्रथम प्रेरणार्थक = लिखाना; द्वितीय प्रेरणार्थक = लिखवाना।"
+  },
+  {
+    "classLevel": 7,
+    "subject": "Hindi Grammar",
+    "chapter": "Chapter 10: क्रिया और काल",
+    "question": "'गरम' विशेषण शब्द से बनने वाली 'नामधातु क्रिया' क्या होगी?",
+    "options": [
+      "गरमाना (गरम + आना)",
+      "गरमी",
+      "गरमाहट",
+      "गरमपन"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "गरम (विशेषण) से 'गरमाना' नामधातु क्रिया बनती है ('ठंडा' से 'ठंडाना')।"
+  },
+  {
+    "classLevel": 7,
+    "subject": "Hindi Grammar",
+    "chapter": "Chapter 10: क्रिया और काल",
+    "question": "'बच्चा दूध पीकर स्कूल गया।' वाक्य में 'पीकर' क्या है?",
+    "options": [
+      "पूर्वकालिक क्रिया",
+      "मुख्य क्रिया",
+      "सहायक क्रिया",
+      "अकर्मक क्रिया"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "'पीकर' मुख्य क्रिया 'गया' से पूर्व संपन्न होने वाली पूर्वकालिक क्रिया है।"
+  },
+  {
+    "classLevel": 7,
+    "subject": "Hindi Grammar",
+    "chapter": "Chapter 10: क्रिया और काल",
+    "question": "'पिताजी अखबार पढ़ रहे हैं।' वाक्य में क्रिया का प्रकार और काल क्या है?",
+    "options": [
+      "सकर्मक क्रिया, अपूर्ण वर्तमान काल (Present Continuous)",
+      "अकर्मक क्रिया, सामान्य भूतकाल",
+      "सकर्मक क्रिया, पूर्ण भूतकाल",
+      "अकर्मक क्रिया, संभाव्य भविष्यत"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "कर्म = अखबार (सकर्मक); पढ़ रहे हैं = अपूर्ण/तात्कालिक वर्तमान काल।"
+  },
+  {
+    "classLevel": 7,
+    "subject": "Hindi Grammar",
+    "chapter": "Chapter 10: क्रिया और काल",
+    "question": "भूतकाल के कुल कितने उप-भेद (Sub-types) होते हैं?",
+    "options": [
+      "6 उप-भेद (सामान्य भूत, आसन्न भूत, पूर्ण भूत, अपूर्ण भूत, संदिग्ध भूत, हेतुहेतुमद्भूत)",
+      "3 उप-भेद",
+      "4 उप-भेद",
+      "5 उप-भेद"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "हिंदी व्याकरण में भूतकाल के 6 उपभेद होते हैं।"
+  },
+  {
+    "classLevel": 7,
+    "subject": "Hindi Grammar",
+    "chapter": "Chapter 10: क्रिया और काल",
+    "question": "कथन और कारण को ध्यानपूर्वक पढ़ें:\nकथन (A): 'पेड़ से पत्ता गिरा।' इस वाक्य में 'गिरा' अकर्मक क्रिया है, यद्यपि इसमें संज्ञाएँ उपस्थित हैं।\nकारण (R): 'पत्ता' यहाँ कर्म नहीं बल्कि 'कर्ता' है जो गिरने की क्रिया कर रहा है, तथा 'पेड़ से' अपादान कारक है ; 'गिरा' क्रिया का कोई बाह्य कर्म नहीं है।\nसही विकल्प चुनें:",
+    "options": [
+      "(A) और (R) दोनों सही हैं तथा (R), (A) की सही व्याख्या करता है।",
+      "(A) और (R) दोनों सही हैं, परन्तु (R), (A) की सही व्याख्या नहीं करता।",
+      "(A) सही है, परन्तु (R) गलत है।",
+      "(A) गलत है, परन्तु (R) सही है।"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "'पत्ता' कर्ता है और 'पेड़ से' अपादान कारक; क्या गिरा = पत्ता (कर्ता), अतः 'गिरा' अकर्मक क्रिया है।"
+  },
+  {
+    "classLevel": 7,
+    "subject": "Hindi Grammar",
+    "chapter": "Chapter 10: क्रिया और काल",
+    "question": "Spot the IMPOSTER in the following group of मूल धातु और उनसे बनी नामधातु क्रियाओं में:\nGroup:\n1. लाठी - लठियाना\n2. झूठ - झुठलाना\n3. अपना - अपनाना\n4. चलना - चलाना",
+    "options": [
+      "युग्म 1",
+      "युग्म 2",
+      "युग्म 3",
+      "युग्म 4 ('चलना' क्रिया है और 'चलाना' प्रेरणार्थक क्रिया है ; यह संज्ञा/सर्वनाम से बनी नामधातु क्रिया नहीं है)"
+    ],
+    "correctAnswer": 3,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "युग्म 4 में 'चलना' क्रिया धातु से प्रेरणार्थक 'चलाना' बना है, जबकि 1, 2, 3 में संज्ञा/सर्वनाम से नामधातु बनी है।"
+  },
+  {
+    "classLevel": 7,
+    "subject": "Hindi Grammar",
+    "chapter": "Chapter 10: क्रिया और काल",
+    "question": "सुमेलित कीजिए (वाक्य और उनके काल का सही भेद):\n(क) उसने खाना खाया था      -> (i) पूर्ण भूतकाल\n(ख) वह पत्र लिख रहा था      -> (ii) अपूर्ण भूतकाल\n(ग) वह घर पहुँच गया होगा    -> (iii) संदिग्ध भूतकाल\n(घ) यदि वर्षा होती तो फसल अच्छी होती -> (iv) हेतुहेतुमद्भूत काल",
+    "options": [
+      "क-(i), ख-(ii), ग-(iii), घ-(iv)",
+      "क-(ii), ख-(i), ग-(iv), घ-(iii)",
+      "क-(iv), ख-(iii), ग-(ii), घ-(i)",
+      "क-(iii), ख-(iv), ग-(i), घ-(ii)"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "खाया था = पूर्ण भूत; लिख रहा था = अपूर्ण भूत; गया होगा = संदिग्ध भूत; वर्षा होती तो = हेतुहेतुमद्भूत।"
+  },
+  {
+    "classLevel": 7,
+    "subject": "Hindi Grammar",
+    "chapter": "Chapter 10: क्रिया और काल",
+    "question": "सकर्मक क्रिया के दो भेद 'एककर्मक' और 'द्विकर्मक' में मुख्य कर्म और गौण कर्म की क्या विशेषता होती है?",
+    "options": [
+      "मुख्य कर्म प्रायः अप्राणिवाचक (निर्जीव) होता है और क्रिया के ठीक पहले आता है (बिना विभक्ति के) ; जबकि गौण कर्म प्राणिवाचक (सजीव) होता है और 'को' विभक्ति सहित आता है (जैसे: 'उसने मुझे [गौण] पुस्तक [मुख्य] दी')",
+      "दोनों कर्म हमेशा सजीव होते हैं",
+      "मुख्य कर्म हमेशा 'को' से युक्त होता है",
+      "द्विकर्मक क्रिया में केवल एक ही कर्म होता है"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "गौण कर्म = सजीव + 'को' (विभक्ति सहित); मुख्य कर्म = निर्जीव + क्रिया के सन्निकट (विभक्ति रहित)।"
+  },
+  {
+    "classLevel": 7,
+    "subject": "Hindi Grammar",
+    "chapter": "Chapter 10: क्रिया और काल",
+    "question": "'अकर्मक क्रिया' का जब 'सकर्मक' में रूपांतरण किया जाता है, तो कौन-सा युग्म शुद्ध है?",
+    "options": [
+      "गिरना (अकर्मक) -> गिराना (सकर्मक) ; कटना (अकर्मक) -> काटना (सकर्मक) ; मरना (अकर्मक) -> मारना (सकर्मक)",
+      "रोना -> हँसना",
+      "सोना -> जागना",
+      "उड़ना -> दौड़ना"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "अकर्मक से सकर्मक रूपांतरण: गिरना→गिराना, कटना→काटना, मरना→मारना, खुलना→खोलना।"
+  },
+  {
+    "classLevel": 7,
+    "subject": "Hindi Grammar",
+    "chapter": "Chapter 10: क्रिया और काल",
+    "question": "सहायक क्रिया (Auxiliary Verb) और रंजक क्रिया (Explicator) का मुख्य क्रिया के साथ क्या संबंध होता है?",
+    "options": [
+      "सहायक क्रिया काल और वाच्य का निर्धारण करती है (जैसे: 'है', 'था', 'होगा') ; जबकि रंजक क्रिया मुख्य क्रिया के अर्थ में विशिष्ट भाव, गतिशीलता या आकस्मिकता लाती है (जैसे: 'हँस पड़ा', 'रो बैठा')",
+      "सहायक क्रिया केवल स्त्रीलिंग होती है",
+      "रंजक क्रिया का कोई अर्थ नहीं होता",
+      "दोनों मिलकर क्रिया को अकर्मक बनाती हैं"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "सहायक क्रिया काल रूप बनाती है ('रहा है'); रंजक क्रिया संयुक्त क्रिया में अर्थगत छटा व तीव्रता जोड़ती है ('चल दिया', 'हँस पड़ा')।"
+  },
+  {
+    "classLevel": 7,
+    "subject": "Hindi Grammar",
+    "chapter": "Chapter 10: क्रिया और काल",
+    "question": "निम्नलिखित वाक्यों में से 'द्विकर्मक क्रिया' वाले वाक्य का चयन कीजिए:",
+    "options": [
+      "'माली ने पर्यटकों को सुंदर गुलाब दिखाए।' (गौण कर्म: पर्यटकों को, मुख्य कर्म: सुंदर गुलाब)",
+      "'माली पौधों में पानी दे रहा है।'",
+      "'पर्यटक बगीचे में घूम रहे हैं।'",
+      "'गुलाब बहुत सुंदर खिलते हैं।'"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "'किसे दिखाए' = पर्यटकों को (गौण कर्म); 'क्या दिखाए' = गुलाब (मुख्य कर्म) → द्विकर्मक क्रिया।"
+  },
+  {
+    "classLevel": 7,
+    "subject": "Hindi Grammar",
+    "chapter": "Chapter 10: क्रिया और काल",
+    "question": "'वह प्रतिदिन पाँच किलोमीटर दौड़ता है।' वाक्य में 'दौड़ता है' क्रिया किस भेद की है?",
+    "options": [
+      "अकर्मक क्रिया (क्योंकि 'पाँच किलोमीटर' यहाँ कर्म नहीं, बल्कि परिमाणवाचक क्रियाविशेषण है)",
+      "सकर्मक क्रिया",
+      "द्विकर्मक क्रिया",
+      "प्रेरणार्थक क्रिया"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "'पाँच किलोमीटर' दूरी/मात्रा बताने वाला क्रियाविशेषण है, कर्म नहीं; 'दौड़ना' नित्य अकर्मक क्रिया है।"
+  },
+  {
+    "classLevel": 7,
+    "subject": "Hindi Grammar",
+    "chapter": "Chapter 10: क्रिया और काल",
+    "question": "'अनुराग ने फल खाए।' इस भूतकालिक वाक्य में कर्ता के साथ 'ने' विभक्ति का प्रयोग क्यों हुआ?",
+    "options": [
+      "सकर्मक क्रिया के भूतकाल (सामान्य, आसन्न, पूर्ण, संदिग्ध) में कर्ता के साथ 'ने' परसर्ग (कारक चिह्न) का प्रयोग अनिवार्य होता है",
+      "क्योंकि अनुराग पुल्लिंग है",
+      "क्योंकि फल बहुत मीठे थे",
+      "अकर्मक क्रिया के कारण"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "हिंदी व्याकरण का स्वर्णिम नियम: भूतकाल में सकर्मक धातुओं के साथ कर्ता में 'ने' का प्रयोग अनिवार्य है (Ergative construction)।"
+  },
+  {
+    "classLevel": 7,
+    "subject": "Hindi Grammar",
+    "chapter": "Chapter 10: क्रिया और काल",
+    "question": "'रामू चाय बना रहा होगा।' इस वाक्य की क्रिया किस काल की है?",
+    "options": [
+      "संदिग्ध वर्तमान काल (वर्तमान में क्रिया के घटित होने में संदेह)",
+      "संदिग्ध भूतकाल",
+      "सामान्य भविष्यत काल",
+      "अपूर्ण भूतकाल"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "रहा होगा / ता होगा = संदिग्ध वर्तमान काल ('इस समय रामू चाय बना रहा होगा')।"
+  },
+  {
+    "classLevel": 7,
+    "subject": "Hindi Grammar",
+    "chapter": "Chapter 10: क्रिया और काल",
+    "question": "'यदि डॉक्टर समय पर आ जाते, तो रोगी की जान बच जाती।' यह वाक्य किस काल का प्रतिनिधित्व करता है?",
+    "options": [
+      "हेतुहेतुमद्भूत काल",
+      "संदिग्ध भूतकाल",
+      "आसन्न भूतकाल",
+      "हेतुहेतुमद्भविष्यत काल"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "हेतुहेतुमद्भूत: भूतकाल में कार्य-कारण शर्त पूरी न होने पर क्रिया संपन्न न होने का बोध।"
+  },
+  {
+    "classLevel": 7,
+    "subject": "Hindi Grammar",
+    "chapter": "Chapter 10: क्रिया और काल",
+    "question": "क्रिया और काल के गहन व्याकरणिक ज्ञान का भाषा में क्या सर्वोच्च महत्व है?",
+    "options": [
+      "क्रिया वाक्य का अनिवार्य केंद्रीय मेरुदंड (Spine) है जिसके बिना कोई वाक्य पूर्ण नहीं हो सकता ; काल क्रिया की समय-स्थिति और यथार्थता को सटीक संप्रेषित करता है",
+      "क्रिया केवल नाटकों में प्रयुक्त होती है",
+      "काल केवल ज्योतिष में प्रयुक्त होता है",
+      "इनके बिना भी वाक्य रचना शुद्ध रहती है"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "क्रिया वाक्य का अपरिहार्य संरचनात्मक नाभिक है; क्रिया और काल के शुद्ध अन्वय से ही भाषा में भाव, समय और सार्थकता की पूर्ण अभिव्यक्ति संभव है।"
+  }
+]

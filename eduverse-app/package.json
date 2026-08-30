@@ -10,6 +10,8 @@
     "start": "next start",
     "lint": "eslint",
     "seed:questions": "node scripts/seed-questions.js",
+    "seed:cross-subject": "node scripts/seed-cross-subject-pipeline.js",
+    "seed:cross-subject:dry": "node scripts/seed-cross-subject-pipeline.js --dry-run",
     "db:track": "node scripts/track.js"
   },
   "dependencies": {

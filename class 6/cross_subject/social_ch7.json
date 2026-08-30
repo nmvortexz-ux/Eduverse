@@ -1,0 +1,642 @@
+[
+  {
+    "classLevel": 6,
+    "subject": "Social Science",
+    "chapter": "Chapter 7: Our Country — India",
+    "question": "What is the total geographical area of India, making it the 7th largest country in the world?",
+    "options": [
+      "3.28 million square kilometres (32.8 lakh sq km)",
+      "5.50 million sq km",
+      "2.10 million sq km",
+      "4.80 million sq km"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "India spans 3.28 million km², accounting for ~2.4% of total world land area."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Social Science",
+    "chapter": "Chapter 7: Our Country — India",
+    "question": "What is the North-to-South longitudinal extent of India from Ladakh (Indira Col) to Kanyakumari?",
+    "options": [
+      "About 3,200 kilometres (3,214 km)",
+      "2,933 km",
+      "1,500 km",
+      "4,000 km"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "The mainland North-South distance spans approximately 3,200 km from northern Ladakh to Kanyakumari."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Social Science",
+    "chapter": "Chapter 7: Our Country — India",
+    "question": "What is the East-to-West latitudinal extent of India from Arunachal Pradesh to the Rann of Kachchh in Gujarat?",
+    "options": [
+      "About 2,900 kilometres (2,933 km)",
+      "3,214 km",
+      "2,100 km",
+      "3,800 km"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "From Kibithu in Arunachal Pradesh to Ghuar Mota in Gujarat, India's east-west width is ~2,933 km."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Social Science",
+    "chapter": "Chapter 7: Our Country — India",
+    "question": "Which important latitude circle passes almost halfway through the middle of India at 23°30' N?",
+    "options": [
+      "Tropic of Cancer (23°30' N)",
+      "Equator (0°)",
+      "Tropic of Capricorn (23°30' S)",
+      "Arctic Circle (66°30' N)"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "The Tropic of Cancer (23°30' N) bisects India through 8 states (Gujarat, Rajasthan, MP, Chhattisgarh, Jharkhand, West Bengal, Tripura, Mizoram)."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Social Science",
+    "chapter": "Chapter 7: Our Country — India",
+    "question": "What is a piece of land that is surrounded by water on THREE sides called?",
+    "options": [
+      "Peninsula (e.g., Peninsular India surrounded by Arabian Sea, Bay of Bengal, and Indian Ocean)",
+      "Island",
+      "Isthmus",
+      "Strait"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "A peninsula is a landmass bordered by sea on 3 sides; southern India is bounded by the Arabian Sea, Bay of Bengal, and Indian Ocean."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Social Science",
+    "chapter": "Chapter 7: Our Country — India",
+    "question": "Which high mountain range guards the northern boundary of India like a gigantic natural wall?",
+    "options": [
+      "The Himalayas ('Abode of Snow')",
+      "The Alps",
+      "The Andes",
+      "The Rockies"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "The Himalayas ('Him' + 'Alaya' = Abode of Snow) form the 2,400 km northern alpine frontier of India."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Social Science",
+    "chapter": "Chapter 7: Our Country — India",
+    "question": "What are the THREE parallel mountain ranges of the Himalayas from north to south?",
+    "options": [
+      "Great Himalayas (Himadri) -> Middle Himalayas (Himachal) -> Outer Himalayas (Shiwalik)",
+      "Shiwalik -> Himadri -> Himachal",
+      "Aravalli -> Vindhya -> Satpura",
+      "Western Ghats -> Eastern Ghats -> Nilgiris"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "From north to south: 1. Himadri (Great Himalayas), 2. Himachal (Lesser Himalayas), 3. Shiwalik (Outer Himalayas)."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Social Science",
+    "chapter": "Chapter 7: Our Country — India",
+    "question": "What is the vast, hot, dry, and sandy desert region located in northwestern India (Rajasthan) called?",
+    "options": [
+      "The Great Indian Desert (Thar Desert)",
+      "Sahara Desert",
+      "Gobi Desert",
+      "Kalahari Desert"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "The Thar Desert in northwestern India receives under 150 mm annual rainfall, characterized by sand dunes and xerophytic vegetation."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Social Science",
+    "chapter": "Chapter 7: Our Country — India",
+    "question": "Which two Indian island groups belong to the Republic of India?",
+    "options": [
+      "Lakshadweep Islands (in the Arabian Sea) and Andaman & Nicobar Islands (in the Bay of Bengal)",
+      "Maldives and Sri Lanka",
+      "Mauritius and Seychelles",
+      "Greenland and Madagascar"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "Lakshadweep (coral atolls in Arabian Sea) and Andaman & Nicobar (submerged volcanic peaks in Bay of Bengal) are Indian Union Territories."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Social Science",
+    "chapter": "Chapter 7: Our Country — India",
+    "question": "Which coral island group of India is located off the coast of Kerala in the Arabian Sea?",
+    "options": [
+      "Lakshadweep Islands",
+      "Andaman Islands",
+      "Nicobar Islands",
+      "Majuli Island"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "Lakshadweep consists of 36 coral atoll islands situated 200–440 km off the Malabar Coast of Kerala."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Social Science",
+    "chapter": "Chapter 7: Our Country — India",
+    "question": "Which narrow marine strait separates India from the island nation of Sri Lanka?",
+    "options": [
+      "Palk Strait (and Gulf of Mannar)",
+      "Bering Strait",
+      "Strait of Malacca",
+      "Strait of Gibraltar"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "The Palk Strait links the Bay of Bengal in the northeast with Palk Bay/Gulf of Mannar, separating Tamil Nadu from Sri Lanka."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Social Science",
+    "chapter": "Chapter 7: Our Country — India",
+    "question": "What is the capital city of India?",
+    "options": [
+      "New Delhi",
+      "Mumbai",
+      "Kolkata",
+      "Chennai"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "New Delhi serves as the national capital territory of the Republic of India."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Social Science",
+    "chapter": "Chapter 7: Our Country — India",
+    "question": "What is the Standard Meridian of India, chosen to determine the Indian Standard Time (IST)?",
+    "options": [
+      "82°30' E longitude (passing through Mirzapur / Prayagraj in Uttar Pradesh)",
+      "80°00' E",
+      "75°30' E",
+      "90°00' E"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "The 82°30' E meridian is the standard time meridian for India, exactly 5 hours and 30 minutes ahead of Greenwich Mean Time (UTC+05:30)."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Social Science",
+    "chapter": "Chapter 7: Our Country — India",
+    "question": "Why is there a time difference of nearly TWO HOURS in local sunrise time between Arunachal Pradesh in the east and Gujarat in the west?",
+    "options": [
+      "India spans a longitudinal width of nearly 30° (68°7' E to 97°25' E); since Earth rotates 1° of longitude in 4 minutes, 30° × 4 min = 120 minutes (2 hours)",
+      "Because clocks run faster in Gujarat",
+      "Because the Sun rises in the west in India",
+      "Because mountains block the Sun"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "Diurnal rotation: 360° in 24 hours = 1° in 4 minutes. A longitudinal span of ~29° equates to roughly 116 minutes (~2 hours) local solar lag."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Social Science",
+    "chapter": "Chapter 7: Our Country — India",
+    "question": "How many countries share land borders with India?",
+    "options": [
+      "7 countries (Pakistan, Afghanistan, China, Nepal, Bhutan, Bangladesh, and Myanmar)",
+      "5 countries",
+      "6 countries",
+      "8 countries"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "India shares 15,106 km of land borders with 7 neighboring nations: Bangladesh, China, Pakistan, Nepal, Myanmar, Bhutan, and Afghanistan."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Social Science",
+    "chapter": "Chapter 7: Our Country — India",
+    "question": "With which country does India share its LONGEST international land border (4,096.7 km)?",
+    "options": [
+      "Bangladesh",
+      "China",
+      "Pakistan",
+      "Nepal"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "India shares its longest land frontier with Bangladesh (4,096.7 km), encircling it from West Bengal, Assam, Meghalaya, Tripura, and Mizoram."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Social Science",
+    "chapter": "Chapter 7: Our Country — India",
+    "question": "What is the world's LARGEST river delta, formed by the confluence of the Ganga and Brahmaputra rivers emptying into the Bay of Bengal?",
+    "options": [
+      "Sundarbans Delta (Ganga-Brahmaputra Delta)",
+      "Nile Delta",
+      "Mississippi Delta",
+      "Amazon Delta"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "The triangular Sundarbans mangrove delta covers ~100,000 km², named after the abundant Sundari mangrove trees (Heritiera fomes)."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Social Science",
+    "chapter": "Chapter 7: Our Country — India",
+    "question": "Which triangular relief feature of India is an ancient elevated tableland composed of old crystalline, igneous, and metamorphic rocks?",
+    "options": [
+      "The Peninsular Plateau",
+      "The Northern Plains",
+      "The Coastal Plains",
+      "The Thar Desert"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "The Peninsular Plateau is the oldest and most stable geological landmass of India, forming part of ancient Gondwanaland."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Social Science",
+    "chapter": "Chapter 7: Our Country — India",
+    "question": "What are the continuous elevated mountain ranges bordering the western edge of the Deccan Plateau called?",
+    "options": [
+      "Western Ghats (or Sahyadris)",
+      "Eastern Ghats",
+      "Aravalli Range",
+      "Vindhya Range"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "The Western Ghats (Sahyadris) form an unbroken high escarpment along the western coast with passes like Thal, Bhor, and Pal Ghats."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Social Science",
+    "chapter": "Chapter 7: Our Country — India",
+    "question": "How do the Eastern Ghats differ from the Western Ghats?",
+    "options": [
+      "The Eastern Ghats are discontinuous, lower in height, and dissected by east-flowing rivers (Mahanadi, Godavari, Krishna, Kaveri), whereas the Western Ghats are continuous and higher",
+      "The Eastern Ghats have snow glaciers",
+      "The Eastern Ghats are in the Arabian Sea",
+      "There is no difference"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "East-flowing peninsular rivers cut wide valleys through the Eastern Ghats, making them discontinuous and lower in average altitude (600m vs 1200m)."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Social Science",
+    "chapter": "Chapter 7: Our Country — India",
+    "question": "Which are the only two major west-flowing peninsular rivers in India that drain into the Arabian Sea through rift valleys without forming deltas?",
+    "options": [
+      "Narmada and Tapi (Tapti)",
+      "Ganga and Yamuna",
+      "Godavari and Krishna",
+      "Mahanadi and Kaveri"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "Narmada and Tapi flow westward in structural fault rift valleys between the Vindhya and Satpura ranges, forming estuaries instead of deltas."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Social Science",
+    "chapter": "Chapter 7: Our Country — India",
+    "question": "Which major peninsular rivers flow eastward and drain into the Bay of Bengal, forming large fertile deltas at their mouths?",
+    "options": [
+      "Mahanadi, Godavari, Krishna, and Kaveri",
+      "Narmada and Tapi",
+      "Indus and Jhelum",
+      "Luni and Sabarmati"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "Godavari (Dakshin Ganga), Krishna, Kaveri, and Mahanadi flow down the eastward regional plateau gradient, depositing extensive deltas."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Social Science",
+    "chapter": "Chapter 7: Our Country — India",
+    "question": "How do the Western Coastal Plains compare with the Eastern Coastal Plains of India?",
+    "options": [
+      "Western Coastal Plains are very narrow between the Western Ghats and Arabian Sea, while Eastern Coastal Plains are much broader and wider along the Bay of Bengal",
+      "Western Coastal Plains are covered in snow",
+      "Eastern Coastal Plains have no rivers",
+      "Both are identical in width"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "Western coastal strip (Konkan, Malabar) is narrow (~50 km); Eastern coastal strip (Northern Circars, Coromandel) is wide (~100–120 km) with deltas."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Social Science",
+    "chapter": "Chapter 7: Our Country — India",
+    "question": "What are 'Corals' and how did coral islands like Lakshadweep form?",
+    "options": [
+      "Corals are tiny marine animals (Polyps); when polyps die, their hard calcium carbonate skeletons accumulate over millennia to form coral reefs and islands",
+      "They are volcanic stones thrown by volcanoes",
+      "They are plants that turn into wood",
+      "They are icebergs from the South Pole"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "Scleractinian anthozoan polyps secrete calcium carbonate exoskeletons; generational biogenic reef accumulation builds atolls."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Social Science",
+    "chapter": "Chapter 7: Our Country — India",
+    "question": "What is the southernmost point of the Indian Union territory (located in Great Nicobar), which was submerged during the devastating 2004 Indian Ocean tsunami?",
+    "options": [
+      "Indira Point (6°45' N latitude)",
+      "Kanyakumari",
+      "Dhanushkodi",
+      "Rameswaram"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "Indira Point on Great Nicobar island at 6°45' N is the southernmost geographic point of the sovereign Indian Republic."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Social Science",
+    "chapter": "Chapter 7: Our Country — India",
+    "question": "What is the southernmost tip of the MAINLAND of India located in Tamil Nadu where three water bodies (Arabian Sea, Bay of Bengal, Indian Ocean) meet?",
+    "options": [
+      "Kanyakumari (Cape Comorin at 8°4' N)",
+      "Indira Point",
+      "Tuticorin",
+      "Thiruvananthapuram"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "Cape Comorin (Kanyakumari) at 8°4' N is the southern apex of mainland peninsular India."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Social Science",
+    "chapter": "Chapter 7: Our Country — India",
+    "question": "Which mountain range is the oldest fold mountain system in India and among the oldest in the world, running from Gujarat to Delhi across Rajasthan?",
+    "options": [
+      "Aravalli Range",
+      "Himalayas",
+      "Vindhyas",
+      "Satpuras"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "The Aravalli Range is a Precambrian fold mountain system severely eroded into relict hills (highest peak Guru Shikhar at 1,722 m)."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Social Science",
+    "chapter": "Chapter 7: Our Country — India",
+    "question": "What are the states of India known as the 'Seven Sisters' of the North-Eastern region?",
+    "options": [
+      "Arunachal Pradesh, Assam, Meghalaya, Nagaland, Manipur, Mizoram, and Tripura",
+      "Sikkim, Bihar, Bengal, Odisha, Assam, Tripura, Mizoram",
+      "Punjab, Haryana, Rajasthan, Gujarat, UP, MP, Bihar",
+      "Kerala, Tamil Nadu, Karnataka, Andhra, Telangana, Goa, Maharashtra"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "The 7 contiguous North-Eastern states: Arunachal Pradesh, Assam, Meghalaya, Nagaland, Manipur, Mizoram, and Tripura."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Social Science",
+    "chapter": "Chapter 7: Our Country — India",
+    "question": "Read the statements:\nAssertion (A): Indian Standard Time (IST) is based on the longitude of 82°30' E, which is exactly 5 hours and 30 minutes ahead of Greenwich Mean Time (UTC+05:30).\nReason (R): 82°30' E passes approximately midway through the central longitudinal width of India, providing a uniform national civil time.\nChoose the correct option:",
+    "options": [
+      "Both (A) and (R) are true, and (R) is the correct explanation of (A).",
+      "Both (A) and (R) are true, but (R) is NOT the correct explanation of (A).",
+      "(A) is true, but (R) is false.",
+      "(A) is false, but (R) is true."
+    ],
+    "correctAnswer": 0,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "82.5° × 4 minutes = 330 minutes = +5h 30m ahead of Prime Meridian 0°, chosen as the central standard meridian."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Social Science",
+    "chapter": "Chapter 7: Our Country — India",
+    "question": "Spot the IMPOSTER in the following group of Indian Rivers classified by their Drainage Basin / Destination:\nGroup: [Mahanadi (Bay of Bengal), Godavari (Bay of Bengal), Krishna (Bay of Bengal), Narmada (Bay of Bengal)]",
+    "options": [
+      "Mahanadi (Bay of Bengal)",
+      "Godavari (Bay of Bengal)",
+      "Krishna (Bay of Bengal)",
+      "Narmada (Bay of Bengal)"
+    ],
+    "correctAnswer": 3,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "Narmada drains WESTWARD into the ARABIAN SEA via the Gulf of Khambhat, NOT into the Bay of Bengal."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Social Science",
+    "chapter": "Chapter 7: Our Country — India",
+    "question": "A geography student charts the latitudinal and longitudinal coordinates of the Indian mainland. What are the exact mathematical coordinates?",
+    "options": [
+      "Latitudes: 8°4' N to 37°6' N ; Longitudes: 68°7' E to 97°25' E",
+      "Latitudes: 6°45' S to 37°6' N ; Longitudes: 60°0' E to 90°0' E",
+      "Latitudes: 10°0' N to 40°0' N ; Longitudes: 70°0' E to 100°0' E",
+      "Latitudes: 0°0' N to 30°0' N ; Longitudes: 50°0' E to 80°0' E"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "Mainland limits: Latitudes 8°4' N (Kanyakumari) to 37°6' N (Indira Col); Longitudes 68°7' E (Gujarat) to 97°25' E (Arunachal)."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Social Science",
+    "chapter": "Chapter 7: Our Country — India",
+    "question": "Match Column I (Physical Divisions) with Column II (Dominant Characteristics):\n(a) Himadri           -> (i) Northernmost highest Himalayan crest with perennial snow\n(b) Northern Plains   -> (ii) Fertile alluvial basin formed by Indus, Ganga, Brahmaputra\n(c) Thar Desert       -> (iii) Arid sandy tract with shifting barchan dunes\n(d) Lakshadweep       -> (iv) Coral atoll island archipelago in the Arabian Sea",
+    "options": [
+      "a-(i), b-(ii), c-(iii), d-(iv)",
+      "a-(ii), b-(i), c-(iii), d-(iv)",
+      "a-(iv), b-(iii), c-(ii), d-(i)",
+      "a-(iii), b-(iv), c-(i), d-(ii)"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "Himadri = highest snow peaks; Northern Plains = alluvium; Thar = sandy dunes; Lakshadweep = coral atolls."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Social Science",
+    "chapter": "Chapter 7: Our Country — India",
+    "question": "Read the statements:\nStatement 1: The Western Ghats are an uninterrupted mountain wall that can be crossed only through specific mountain passes (ghats).\nStatement 2: The Godavari River is often referred to as 'Dakshin Ganga' due to its vast drainage basin and length in peninsular India.\nStatement 3: India lies entirely in the Southern Hemisphere.\nWhich statements are TRUE?",
+    "options": [
+      "Statements 1 and 2 only",
+      "Statements 2 and 3 only",
+      "Statements 1 and 3 only",
+      "All Statements 1, 2, and 3"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "Statement 3 is completely false because India lies entirely in the NORTHERN Hemisphere. Statements 1 and 2 are geographical facts."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Social Science",
+    "chapter": "Chapter 7: Our Country — India",
+    "question": "Which of the following coastal sub-regions are located along the WESTERN coast and EASTERN coast of India respectively?",
+    "options": [
+      "Western Coast: Konkan & Malabar Coast ; Eastern Coast: Northern Circars & Coromandel Coast",
+      "Western Coast: Coromandel ; Eastern Coast: Konkan",
+      "Western Coast: Northern Circars ; Eastern Coast: Malabar",
+      "Both are called Malabar"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "West coast: Konkan (north) and Malabar (south); East coast: Northern Circar (north) and Coromandel (south)."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Social Science",
+    "chapter": "Chapter 7: Our Country — India",
+    "question": "Why does the Sundarbans Delta feature extensive amphibious Mangrove forests adapted to coastal saline waters?",
+    "options": [
+      "Tidal sea surges mix with freshwater river floods; mangrove species (Sundari) develop specialized breathing roots (pneumatophores) and stilt roots to survive in anaerobic saline mudflats",
+      "Because mangroves only grow in snow",
+      "Because salt water kills all other trees except plastic trees",
+      "Because it never rains there"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "Halophytic adaptations: viviparous germination, salt-excreting glands, and negative geotropic pneumatophores flourish in intertidal muds."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Social Science",
+    "chapter": "Chapter 7: Our Country — India",
+    "question": "What is the highest mountain peak situated entirely within the undisputed sovereign territory of India?",
+    "options": [
+      "Kangchenjunga (8,586 meters, Sikkim)",
+      "Nanda Devi (7,816 m)",
+      "Kamet",
+      "Anamudi"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "Kangchenjunga (8,586 m) in Sikkim on the India-Nepal border is the highest peak in India (and 3rd highest in the world)."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Social Science",
+    "chapter": "Chapter 7: Our Country — India",
+    "question": "What is the highest peak in the Western Ghats and in the entire Peninsular South India (located in Kerala)?",
+    "options": [
+      "Anamudi (2,695 meters in Anaimalai Hills)",
+      "Doda Betta (2,637 m)",
+      "Mahendragiri",
+      "Kalsubai"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "Anamudi ('Elephant's Forehead') stands at 2,695 m in Eravikulam National Park, Kerala, the highest summit in South India."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Social Science",
+    "chapter": "Chapter 7: Our Country — India",
+    "question": "Which of the following Indian states do NOT share an international boundary with any foreign country and have no coastline (landlocked internal states)?",
+    "options": [
+      "Madhya Pradesh, Chhattisgarh, Jharkhand, Telangana, and Haryana",
+      "Gujarat, Rajasthan, Punjab",
+      "West Bengal, Assam, Bihar",
+      "Tamil Nadu, Kerala, Karnataka"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "MP, Chhattisgarh, Jharkhand, Telangana, and Haryana are entirely landlocked interior states with neither international frontiers nor coastlines."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Social Science",
+    "chapter": "Chapter 7: Our Country — India",
+    "question": "What is the physical geographic significance of the 'Ten Degree Channel' (10° N latitude)?",
+    "options": [
+      "It is a maritime channel in the Bay of Bengal that separates the Andaman Islands in the north from the Nicobar Islands in the south",
+      "It separates India from Sri Lanka",
+      "It separates Lakshadweep from Maldives",
+      "It separates Gujarat from Pakistan"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "The 10° Channel lies along the 10° N parallel, separating Little Andaman from Car Nicobar across a 150 km strait."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Social Science",
+    "chapter": "Chapter 7: Our Country — India",
+    "question": "Why is India described as a land of immense 'Unity in Diversity' in NCERT Social Science?",
+    "options": [
+      "Despite profound geographical, climatic, linguistic, religious, and cultural diversity, a deep underlying thread of common national civilization and constitutional brotherhood binds the people of India together as one nation",
+      "Because all Indians speak only one language",
+      "Because all regions look identical",
+      "Because everyone eats the exact same food"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "Coined by Jawaharlal Nehru, 'Unity in Diversity' celebrates India's pluralistic mosaic united by shared civilizational and constitutional ethos."
+  }
+]

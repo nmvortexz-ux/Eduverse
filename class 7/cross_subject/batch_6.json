@@ -1,0 +1,3842 @@
+[
+  {
+    "classLevel": 7,
+    "subject": "Science",
+    "chapter": "Chapter 6: Respiration in Organisms",
+    "question": "The biochemical process of breakdown of food (glucose) in the cells with the release of biological energy (ATP) is called:",
+    "options": [
+      "Cellular Respiration",
+      "Digestion",
+      "Photosynthesis",
+      "Transpiration"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "Cellular respiration is the biochemical catabolism of glucose inside cells to liberate metabolic energy in the form of ATP."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Science",
+    "chapter": "Chapter 6: Respiration in Organisms",
+    "question": "When the breakdown of glucose occurs in the PRESENCE of Oxygen gas, yielding carbon dioxide, water, and large energy, it is called:",
+    "options": [
+      "Aerobic Respiration",
+      "Anaerobic Respiration",
+      "Fermentation",
+      "Breathing"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "Aerobic respiration breaks down glucose completely in the presence of O₂: C₆H₁₂O₆ + 6O₂ → 6CO₂ + 6H₂O + Energy."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Science",
+    "chapter": "Chapter 6: Respiration in Organisms",
+    "question": "When the breakdown of glucose occurs in the ABSENCE of Oxygen (such as in single-celled Yeast), it is called:",
+    "options": [
+      "Anaerobic Respiration (Fermentation)",
+      "Aerobic Respiration",
+      "Combustion",
+      "Inhalation"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "Anaerobic respiration occurs without oxygen: Glucose → Alcohol (Ethanol) + Carbon dioxide + Energy."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Science",
+    "chapter": "Chapter 6: Respiration in Organisms",
+    "question": "What single-celled anaerobic fungus is widely used in breweries to make Wine and in bakeries to make fluffy Bread?",
+    "options": [
+      "Yeast (Saccharomyces cerevisiae)",
+      "Amoeba",
+      "Paramecium",
+      "Bread mold (Rhizopus)"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "Yeast respires anaerobically, producing ethanol (for alcoholic beverages) and CO₂ gas (which causes bread dough to rise)."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Science",
+    "chapter": "Chapter 6: Respiration in Organisms",
+    "question": "During heavy, rigorous exercise or fast running, the accumulation of which chemical substance in muscle cells causes painful MUSCLE CRAMPS?",
+    "options": [
+      "Lactic Acid",
+      "Hydrochloric Acid",
+      "Acetic Acid",
+      "Citric Acid"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "Under temporary oxygen deficit during strenuous exercise, muscle cells respire anaerobically, producing lactic acid: Glucose → Lactic acid + Energy."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Science",
+    "chapter": "Chapter 6: Respiration in Organisms",
+    "question": "How does taking a hot water bath or receiving a vigorous body massage provide immediate relief from muscle cramps?",
+    "options": [
+      "It improves blood circulation, increasing the oxygen supply to muscle cells which oxidizes accumulated lactic acid completely into CO₂ and water",
+      "It cools the skin",
+      "It removes water from muscles",
+      "It stops blood flow"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "Enhanced circulatory perfusion restores oxygen levels, metabolizing lactic acid into CO₂ and H₂O."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Science",
+    "chapter": "Chapter 6: Respiration in Organisms",
+    "question": "What is the normal resting Breathing Rate (breaths per minute) of an average adult human being at rest?",
+    "options": [
+      "15 to 18 breaths per minute",
+      "40 to 50 breaths per minute",
+      "5 to 8 breaths per minute",
+      "60 to 70 breaths per minute"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "A healthy resting human adult breathes approximately 15 to 18 times per minute."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Science",
+    "chapter": "Chapter 6: Respiration in Organisms",
+    "question": "What large, muscular dome-shaped sheet forms the floor of the human chest (thoracic) cavity and moves during breathing?",
+    "options": [
+      "The Diaphragm",
+      "The Trachea",
+      "The Bronchus",
+      "The Rib cage"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "The diaphragm is the primary muscular partition separating the thoracic cavity from the abdominal cavity."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Science",
+    "chapter": "Chapter 6: Respiration in Organisms",
+    "question": "Through which specialized respiratory organs do Fish breathe dissolved oxygen in water?",
+    "options": [
+      "Gills (vascularized filamentous branchiae)",
+      "Lungs",
+      "Skin only",
+      "Tracheae"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "Fish utilize richly vascularized gill filaments with thin membranes to extract dissolved oxygen from water."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Science",
+    "chapter": "Chapter 6: Respiration in Organisms",
+    "question": "Through which organ does an Earthworm exchange respiratory gases (O₂ and CO₂)?",
+    "options": [
+      "Its thin, moist, and slimy skin (Cutaneous respiration)",
+      "Lungs",
+      "Gills",
+      "Spiracles"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "Earthworms absorb oxygen and expel CO₂ directly by diffusion through their moist, mucus-coated skin."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Science",
+    "chapter": "Chapter 6: Respiration in Organisms",
+    "question": "Through which small lateral openings and network of air tubes do Cockroaches and insects breathe?",
+    "options": [
+      "Spiracles and Tracheal Tubes (Tracheae)",
+      "Gills",
+      "Lungs",
+      "Moist skin"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "Insects have lateral body pores called spiracles connecting to a branching network of air tubes (tracheae)."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Science",
+    "chapter": "Chapter 6: Respiration in Organisms",
+    "question": "What tiny microscopic pores on the surface of plant leaves facilitate the exchange of Oxygen and Carbon Dioxide during respiration and photosynthesis?",
+    "options": [
+      "Stomata (guarded by Guard Cells)",
+      "Xylem vessels",
+      "Phloem tubes",
+      "Root caps"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "Stomata surrounded by specialized guard cells regulate gaseous exchange and transpiration in plant leaves."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Science",
+    "chapter": "Chapter 6: Respiration in Organisms",
+    "question": "What mechanical movements occur in the rib cage and diaphragm during human INHALATION (breathing in)?",
+    "options": [
+      "The Ribs move UP and OUTWARDS, the Diaphragm contracts and moves DOWNWARDS, increasing the thoracic volume, lowering pressure, and drawing air in",
+      "The Ribs move down and in, and diaphragm moves up",
+      "The lungs stop moving",
+      "The stomach contracts only"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "Inhalation: external intercostal muscles elevate ribs (up/out), diaphragm flattens down, expanding lung volume and dropping intrapulmonary pressure."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Science",
+    "chapter": "Chapter 6: Respiration in Organisms",
+    "question": "What mechanical movements occur during human EXHALATION (breathing out)?",
+    "options": [
+      "The Ribs move DOWN and INWARDS, the Diaphragm relaxes and arches UPWARDS into its dome shape, reducing thoracic volume and expelling air",
+      "The Ribs move up and outwards",
+      "The Diaphragm moves down",
+      "The chest expands"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "Exhalation: intercostal muscles relax, ribs depress down/in, diaphragm arches up to resting dome position, compressing thoracic space."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Science",
+    "chapter": "Chapter 6: Respiration in Organisms",
+    "question": "How does the percentage composition of Inhaled Air compare with Exhaled Air in human beings?",
+    "options": [
+      "Inhaled Air: 21% O₂ and 0.04% CO₂ ; Exhaled Air: 16.4% O₂ and 4.4% CO₂",
+      "Inhaled Air: 100% O₂ ; Exhaled Air: 100% CO₂",
+      "Inhaled Air: 0% O₂ ; Exhaled Air: 21% CO₂",
+      "Inhaled Air and Exhaled Air are identical"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "Human respiration extracts ~4.6% oxygen from inhaled air and enriches exhaled air with ~4.4% CO₂ alongside saturated water vapor."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Science",
+    "chapter": "Chapter 6: Respiration in Organisms",
+    "question": "How do adult Frogs breathe in their dual (amphibious) habitats?",
+    "options": [
+      "On land they breathe through a pair of Lungs (pulmonary respiration) ; in water they breathe through their moist, slimy Skin (cutaneous respiration)",
+      "They only breathe through gills",
+      "They only breathe through lungs",
+      "They do not breathe in water"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "Amphibian respiration: terrestrial lung ventilation supplemented by aquatic cutaneous microvascular diffusion."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Science",
+    "chapter": "Chapter 6: Respiration in Organisms",
+    "question": "Why do plant roots die and rot if a potted plant is over-watered continuously for many days (waterlogging)?",
+    "options": [
+      "Water fills all the microscopic air spaces between soil particles, cutting off oxygen supply to root cells, preventing cellular respiration",
+      "Because roots drink too much water and explode",
+      "Because water turns into acid",
+      "Because sunlight cannot reach the leaves"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "Waterlogging creates soil anoxia; root cells cannot perform aerobic respiration to generate ATP for active mineral transport, causing asphyxiation."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Science",
+    "chapter": "Chapter 6: Respiration in Organisms",
+    "question": "Why does breathing become much faster and deeper during vigorous physical exercise (like running or swimming)?",
+    "options": [
+      "Working muscle cells demand more energy (ATP) rapidly, requiring increased Oxygen intake to accelerate aerobic respiration and quickly eliminate excess CO₂",
+      "Because the lungs shrink in cold air",
+      "Because the heart stops beating",
+      "To cool the shoes"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "Elevated metabolic rate increases oxygen consumption and arterial CO₂ tension (hypercapnia), triggering central chemoreceptors to elevate ventilation rate."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Science",
+    "chapter": "Chapter 6: Respiration in Organisms",
+    "question": "Why do we sneeze when we inhale foreign irritants (like dust particles, smoke, or pollen)?",
+    "options": [
+      "The irritants trigger sensory nerves in the nasal lining, initiating a powerful reflex violent expulsion of air to clear foreign contaminants from the nasal tract",
+      "To exercise chest muscles",
+      "To cool the brain",
+      "Because the stomach is full"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "The sternutatory (sneeze) reflex forcefully expels air (~150 km/h) to cleanse the upper respiratory epithelium of particulate irritants."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Science",
+    "chapter": "Chapter 6: Respiration in Organisms",
+    "question": "Why does a mirror fog up when you exhale your breath closely onto its clean glass surface?",
+    "options": [
+      "Warm exhaled breath is saturated with Water Vapor produced during cellular respiration, which immediately condenses into tiny liquid droplets on the cooler glass surface",
+      "Dust settles on the mirror",
+      "The mirror glass melts",
+      "The mirror absorbs carbon dioxide"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "Cellular respiration produces water vapor byproduct (C₆H₁₂O₆ + 6O₂ → 6CO₂ + 6H₂O); exhaled warm vapor condenses on cool glass."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Science",
+    "chapter": "Chapter 6: Respiration in Organisms",
+    "question": "How do Whale and Dolphin mammals breathe while swimming underwater in oceans?",
+    "options": [
+      "They do NOT have gills; they possess Lungs and must periodically surface to inhale fresh atmospheric air through a Blowhole located atop their heads",
+      "They breathe through gills like fish",
+      "They absorb oxygen through their fins",
+      "They do not breathe oxygen"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "Cetaceans are air-breathing mammals with lungs that surface to exchange tidal volume via dorsal blowholes."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Science",
+    "chapter": "Chapter 6: Respiration in Organisms",
+    "question": "In the human respiratory tract, what is the role of the fine Mucus and tiny Cilia lining the nasal passages?",
+    "options": [
+      "They trap dust, pollen, soot particles, and microbes from inhaled air, warming and humidifying the air before it reaches the delicate lungs",
+      "They cool the lungs to 0°C",
+      "They make speaking louder",
+      "They produce digestive enzymes"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "Mucociliary escalator: goblet cell mucus traps airborne particulates while ciliated epithelium propels debris pharyngeally."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Science",
+    "chapter": "Chapter 6: Respiration in Organisms",
+    "question": "What are 'Lenticels' in woody trees and stems?",
+    "options": [
+      "Small porous openings on the woody bark of old stems and roots that facilitate continuous respiratory gas exchange (O₂ and CO₂)",
+      "Flower buds",
+      "Roots that store sugar",
+      "Leaves that produce poison"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "Lenticels are specialized loosely-packed cork cell fissures in woody periderm enabling gas diffusion into internal parenchyma."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Science",
+    "chapter": "Chapter 6: Respiration in Organisms",
+    "question": "What happens in a bell-jar and Y-tube plastic bottle model when the rubber sheet tied at the bottom is PULLED DOWNWARDS?",
+    "options": [
+      "The volume inside the bottle increases, air pressure drops, and atmospheric air rushes in to INFLATE the two small balloons (simulating lungs)",
+      "The balloons deflate",
+      "The bottle cracks",
+      "Water fills the bottle"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "Simulating Boyle's Law: downward displacement of the rubber diaphragm expands internal volume, reducing chamber pressure and inflating lung balloons."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Science",
+    "chapter": "Chapter 6: Respiration in Organisms",
+    "question": "Why do mountaineers climbing Mount Everest carry portable Oxygen Cylinders with them?",
+    "options": [
+      "At high altitudes, the atmospheric pressure and amount of available oxygen in the thin air is drastically lower than at sea level",
+      "To make their backpacks heavier",
+      "To light campfires",
+      "Because mountains have no wind"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "High-altitude hypobaric hypoxia: barometric pressure drops with altitude, reducing alveolar oxygen partial pressure (pO₂)."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Science",
+    "chapter": "Chapter 6: Respiration in Organisms",
+    "question": "Why is yawning often triggered when we are sleepy, bored, or tired?",
+    "options": [
+      "When we are sleepy, our breathing rate slows down, causing oxygen levels in the blood to drop; a deep yawn takes in a large volume of oxygen to restore alertness",
+      "Because the jaw muscles are tired",
+      "To make ourselves fall asleep faster",
+      "Because of loud noises"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "Shallow hypoventilation during drowsiness triggers reflex deep inspiratory yawning to expand collapsed alveoli and oxygenate blood."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Science",
+    "chapter": "Chapter 6: Respiration in Organisms",
+    "question": "What is the respiratory pigment in human red blood cells (RBCs) that binds with Oxygen to form Oxyhemoglobin for transport to all body cells?",
+    "options": [
+      "Hemoglobin (iron-containing protein)",
+      "Chlorophyll",
+      "Melanin",
+      "Keratin"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "Hemoglobin (Hb) tetramer binds up to four O₂ molecules forming oxyhemoglobin (HbO₈) for systemic cellular delivery."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Science",
+    "chapter": "Chapter 6: Respiration in Organisms",
+    "question": "In what way is Breathing fundamentally different from Cellular Respiration?",
+    "options": [
+      "Breathing is a physical mechanical process of inhaling O₂ and exhaling CO₂ ; Cellular Respiration is a biochemical intracellular catabolic reaction that breaks down glucose to release energy",
+      "Breathing produces food and respiration destroys food",
+      "Breathing only happens in plants",
+      "Both are exactly the same thing"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "Breathing is organismal biophysical ventilation; cellular respiration is enzymatic intracellular mitochondrial ATP bioenergetics."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Science",
+    "chapter": "Chapter 6: Respiration in Organisms",
+    "question": "Read the statements:\nAssertion (A): Anaerobic respiration in human skeletal muscles during extreme sprinting yields significantly less energy per glucose molecule than aerobic respiration.\nReason (R): In anaerobic glycolysis, glucose is only partially broken down into Lactic Acid, releasing a meager 2 ATP molecules, whereas full aerobic oxidation into CO₂ and H₂O releases up to 36–38 ATP molecules.\nChoose the correct option:",
+    "options": [
+      "Both (A) and (R) are true, and (R) is the correct explanation of (A).",
+      "Both (A) and (R) are true, but (R) is NOT the correct explanation of (A).",
+      "(A) is true, but (R) is false.",
+      "(A) is false, but (R) is true."
+    ],
+    "correctAnswer": 0,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "Aerobic cellular respiration completes Krebs cycle and oxidative phosphorylation (~36 ATP), whereas anaerobic glycolysis yields net 2 ATP."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Science",
+    "chapter": "Chapter 6: Respiration in Organisms",
+    "question": "Spot the IMPOSTER in the following animal respiratory adaptations:\nGroup:\n1. Earthworm - Moist Cutaneous Respiration\n2. Cockroach - Tracheal tubes and Spiracles\n3. Fish - Vascularized Branchial Gills\n4. Tadpole of Frog - Fully developed functional lungs only",
+    "options": [
+      "Adaptation 1",
+      "Adaptation 2",
+      "Adaptation 3",
+      "Adaptation 4 (Frog tadpoles breathe through GILLS in aquatic larval stage ; lungs develop upon metamorphosis)"
+    ],
+    "correctAnswer": 3,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "Adaptation 4 is false: amphibian tadpoles respire via external and internal branchial gills; pulmonary lungs develop during metamorphic transition."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Science",
+    "chapter": "Chapter 6: Respiration in Organisms",
+    "question": "In the countercurrent exchange mechanism operating in Fish Gills:\nWhy is blood flow in gill lamellae oriented in the EXACT OPPOSITE direction to the flow of water across the gills?",
+    "options": [
+      "Countercurrent flow maintains a continuous, steep oxygen concentration gradient across the entire length of the capillary bed, extracting over 80% of dissolved oxygen from water",
+      "To prevent water from entering the stomach",
+      "To make the fish swim backwards",
+      "To warm up the ocean water"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "Countercurrent gill geometry maximizes diffusion gradient across the lamellar surface, reaching >80% O₂ extraction efficiency."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Science",
+    "chapter": "Chapter 6: Respiration in Organisms",
+    "question": "Match Column I (Organisms) with Column II (Primary Respiratory Mechanism / Pathway):\n(a) Yeast cells          -> (i) Anaerobic Fermentation yielding Ethanol + CO₂\n(b) Active human muscles -> (ii) Anaerobic Glycolysis yielding Lactic Acid\n(c) Cockroach            -> (iii) Network of Tracheal tubes carrying air directly to cells\n(d) Plant roots          -> (iv) Root hairs absorbing soil air from particle interstices",
+    "options": [
+      "a-(i), b-(ii), c-(iii), d-(iv)",
+      "a-(ii), b-(i), c-(iv), d-(iii)",
+      "a-(iv), b-(iii), c-(ii), d-(i)",
+      "a-(iii), b-(iv), c-(i), d-(ii)"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "Exact biological mapping: Yeast = ethanol fermentation; Muscle deficit = lactic acid; Insect = tracheae; Root = soil interstitial diffusion."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Science",
+    "chapter": "Chapter 6: Respiration in Organisms",
+    "question": "Read the statements regarding plant respiration:\nStatement 1: Plants respire continuously during day AND night, consuming oxygen and releasing carbon dioxide.\nStatement 2: During daylight hours, the rate of photosynthesis is much higher than respiration, resulting in net oxygen release.\nStatement 3: Plants do not respire at all because they have no lungs.\nWhich statements are TRUE?",
+    "options": [
+      "Statements 1 and 2 only",
+      "Statements 2 and 3 only",
+      "Statements 1 and 3 only",
+      "All Statements 1, 2, and 3"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "Statement 3 is false: plant cells respire 24/7 via mitochondria. During daytime, photosynthetic O₂ production exceeds respiratory O₂ consumption."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Science",
+    "chapter": "Chapter 6: Respiration in Organisms",
+    "question": "What is the structural and physiological significance of the microscopic 'Alveoli' (air sacs) in human lungs?",
+    "options": [
+      "Millions of thin-walled alveoli provide an immense total surface area (~80 m², size of a tennis court) densely wrapped in capillaries for rapid gas diffusion",
+      "They store food inside the lungs",
+      "They pump blood directly to the brain",
+      "They filter water out of blood"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "Human lungs contain ~300-500 million alveoli, creating an enormous ~80 m² microvascular surface area for Fickian gas diffusion."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Science",
+    "chapter": "Chapter 6: Respiration in Organisms",
+    "question": "Why do insect tracheal respiratory systems impose a strict physical upper limit on the maximum body size an insect can achieve?",
+    "options": [
+      "Tracheal gas transport relies primarily on passive gaseous diffusion through narrow tubes; over longer body distances (> a few centimeters), oxygen diffusion slows down drastically",
+      "Because insect legs cannot support weight",
+      "Because insects have no eyes",
+      "Because insects do not eat meat"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "Diffusion kinetics (scaling as distance squared) restrict effective tracheal oxygen delivery to small body lengths under modern 21% atmospheric O₂."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Science",
+    "chapter": "Chapter 6: Respiration in Organisms",
+    "question": "Consider four physiological states:\n1. Resting during deep sleep\n2. Brisk walking in a park\n3. Sprinting 100 metres at top speed\n4. Sitting in a classroom\nArrange these states in INCREASING order of Breathing Rate and Cellular Oxygen Demand:",
+    "options": [
+      "1 < 4 < 2 < 3",
+      "3 < 2 < 4 < 1",
+      "4 < 1 < 2 < 3",
+      "2 < 4 < 1 < 3"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "Deep sleep (lowest metabolic rate) < Sitting in class < Brisk walking < 100 m sprint (maximal metabolic rate and anaerobic oxygen debt)."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Science",
+    "chapter": "Chapter 6: Respiration in Organisms",
+    "question": "Why does Carbon Monoxide (CO) gas poisoning cause rapid asphyxiation and death even when ambient oxygen is present?",
+    "options": [
+      "Carbon monoxide has an affinity for Hemoglobin over 200 times higher than oxygen, forming stable Carboxyhemoglobin and completely blocking oxygen transport to tissues",
+      "CO freezes the lungs instantly",
+      "CO destroys all bones in the body",
+      "CO turns blood into water"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "CO binds competitively to heme iron with >200× affinity, stabilizing the R-state and preventing allosteric O₂ delivery to brain and heart."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Science",
+    "chapter": "Chapter 6: Respiration in Organisms",
+    "question": "What is 'Oxygen Debt' incurred during strenuous anaerobic exercise?",
+    "options": [
+      "The extra volume of oxygen required after exercise to oxidize accumulated lactic acid in the liver back into pyruvate/glucose and replenish ATP/phosphocreatine reserves",
+      "The amount of money paid for oxygen cylinders",
+      "The loss of breath during swimming",
+      "The oxygen stored in the stomach"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "Excess Post-exercise Oxygen Consumption (EPOC / oxygen debt) metabolizes lactic acid via the Cori cycle in hepatocytes and restabilizes homeostatic reserves."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Science",
+    "chapter": "Chapter 6: Respiration in Organisms",
+    "question": "How do mangrove plants (like Rhizophora) growing in oxygen-poor, saline waterlogged coastal marshes breathe?",
+    "options": [
+      "They produce specialized vertical aerial roots called 'Pneumatophores' (breathing roots) that grow upwards out of the water and mud with lenticels to intake air",
+      "They absorb oxygen through ocean fish",
+      "They do not require oxygen",
+      "They grow only under sand"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "Halophytic mangroves deploy negatively geotropic pneumatophores (respiratory knee-roots) equipped with lenticels and aerenchyma for subterranean aeration."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Science",
+    "chapter": "Chapter 6: Respiration in Organisms",
+    "question": "What overarching bioenergetic reality is established in Chapter 6 of NCERT Class 7 Science?",
+    "options": [
+      "Respiration is the universal cellular engine of all biological life, converting chemical potential energy stored in organic nutrients into kinetic metabolic ATP that powers growth, repair, movement, and physiological homeostasis across every living kingdom",
+      "That only animals need energy to survive",
+      "That respiration only occurs during running",
+      "That breathing and burning wood are identical processes"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "Chapter 6 illuminates the bioenergetic unity of life: metabolic breakdown of glucose to generate ATP through aerobic and anaerobic evolutionary pathways."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Mathematics",
+    "chapter": "Chapter 6: The Triangle and its Properties",
+    "question": "A line segment connecting a vertex of a triangle to the MIDPOINT of the opposite side is called a:",
+    "options": [
+      "Median",
+      "Altitude",
+      "Angle Bisector",
+      "Perpendicular Bisector"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "A median connects a triangle's vertex to the midpoint of the opposing side. Every triangle has 3 medians meeting at the centroid."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Mathematics",
+    "chapter": "Chapter 6: The Triangle and its Properties",
+    "question": "The perpendicular line segment drawn from a vertex of a triangle to the opposite side (or its extension) is called an:",
+    "options": [
+      "Altitude (or Height)",
+      "Median",
+      "Hypotenuse",
+      "Diagonal"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "An altitude is the perpendicular line dropped from a vertex to the opposite base line."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Mathematics",
+    "chapter": "Chapter 6: The Triangle and its Properties",
+    "question": "What is the sum of the measures of all three interior angles of ANY triangle on a flat plane (Angle Sum Property)?",
+    "options": [
+      "180° (Two Right Angles)",
+      "360°",
+      "90°",
+      "270°"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "Euclidean angle sum property: ∠A + ∠B + ∠C = 180° for all triangles."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Mathematics",
+    "chapter": "Chapter 6: The Triangle and its Properties",
+    "question": "According to the Exterior Angle Property of a triangle, an exterior angle is ALWAYS equal to:",
+    "options": [
+      "The sum of its two interior opposite angles",
+      "180° minus the adjacent angle only",
+      "90°",
+      "The sum of all three angles"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "Exterior Angle Property: ∠Ext = ∠Int_opp1 + ∠Int_opp2."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Mathematics",
+    "chapter": "Chapter 6: The Triangle and its Properties",
+    "question": "In an Equilateral Triangle, what is the measure of EACH of the three interior angles?",
+    "options": [
+      "60° (All three angles are strictly equal: 180° / 3 = 60°)",
+      "45°",
+      "90°",
+      "30°"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "All three sides and all three angles are equal in an equilateral triangle: 180° / 3 = 60°."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Mathematics",
+    "chapter": "Chapter 6: The Triangle and its Properties",
+    "question": "In an Isosceles Triangle, if two sides are equal in length, what is true about the angles OPPOSITE to those equal sides?",
+    "options": [
+      "The angles opposite to equal sides are ALWAYS equal in measure",
+      "They sum to 90°",
+      "They are unequal",
+      "One is always 90°"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "Base angles theorem: in an isosceles triangle, angles opposite to equal sides are congruent."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Mathematics",
+    "chapter": "Chapter 6: The Triangle and its Properties",
+    "question": "According to the Triangle Inequality Property, the sum of the lengths of any two sides of a triangle must ALWAYS be:",
+    "options": [
+      "Strictly GREATER than the length of the third side (a + b > c)",
+      "Equal to the third side",
+      "Less than the third side",
+      "Zero"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "Triangle inequality axiom: for any valid triangle with side lengths a, b, c: a + b > c, b + c > a, and c + a > b."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Mathematics",
+    "chapter": "Chapter 6: The Triangle and its Properties",
+    "question": "In a Right-Angled Triangle, the side opposite to the 90° right angle is the longest side, called the:",
+    "options": [
+      "Hypotenuse",
+      "Base",
+      "Altitude",
+      "Median"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "The hypotenuse is the side opposing the 90° right angle and is the longest side of a right-angled triangle."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Mathematics",
+    "chapter": "Chapter 6: The Triangle and its Properties",
+    "question": "What is the famous Pythagoras Theorem formula for a right-angled triangle with legs a, b and hypotenuse c?",
+    "options": [
+      "a² + b² = c² (Hypotenuse² = Base² + Perpendicular²)",
+      "a + b = c",
+      "a² - b² = c²",
+      "a × b = c²"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "Pythagorean Theorem: in any right-angled triangle, Hypotenuse² = Perpendicular² + Base² (c² = a² + b²)."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Mathematics",
+    "chapter": "Chapter 6: The Triangle and its Properties",
+    "question": "Two angles of a triangle are 50° and 70°. Find the measure of the third angle:",
+    "options": [
+      "60° (180° - (50° + 70°) = 180° - 120° = 60°)",
+      "50°",
+      "70°",
+      "80°"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "Third angle = 180° - (50° + 70°) = 180° - 120° = 60°."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Mathematics",
+    "chapter": "Chapter 6: The Triangle and its Properties",
+    "question": "An exterior angle of a triangle is 110°, and one of the interior opposite angles is 40°. Find the other interior opposite angle:",
+    "options": [
+      "70° (110° - 40° = 70°)",
+      "80°",
+      "60°",
+      "50°"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "Ext angle = Int1 + Int2 → 110° = 40° + x → x = 70°."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Mathematics",
+    "chapter": "Chapter 6: The Triangle and its Properties",
+    "question": "Can a triangle have two RIGHT angles (90° + 90°)?",
+    "options": [
+      "No, because two right angles sum to 180°, leaving 0° for the third angle, making a triangle impossible",
+      "Yes, in right isosceles triangles",
+      "Yes, in large triangles",
+      "Always yes"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "Two 90° angles sum to 180°, which violates the angle sum property since the third angle must be strictly positive."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Mathematics",
+    "chapter": "Chapter 6: The Triangle and its Properties",
+    "question": "The three interior angles of a triangle are in the ratio 1 : 2 : 3. Find the measure of each angle:",
+    "options": [
+      "30°, 60°, and 90° (x + 2x + 3x = 180° ⇒ 6x = 180° ⇒ x = 30° ⇒ 30°, 60°, 90°)",
+      "20°, 40°, 120°",
+      "45°, 45°, 90°",
+      "30°, 75°, 75°"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "6x = 180° → x = 30°. Angles are 1(30) = 30°, 2(30) = 60°, and 3(30) = 90°."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Mathematics",
+    "chapter": "Chapter 6: The Triangle and its Properties",
+    "question": "In an Isosceles Triangle, the vertex angle is 40°. What is the measure of each equal base angle?",
+    "options": [
+      "70° each ((180° - 40°) / 2 = 140° / 2 = 70°)",
+      "60° each",
+      "80° each",
+      "50° each"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "2x + 40° = 180° → 2x = 140° → x = 70°."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Mathematics",
+    "chapter": "Chapter 6: The Triangle and its Properties",
+    "question": "Which of the following sets of side lengths CAN form a valid triangle?",
+    "options": [
+      "6 cm, 8 cm, 10 cm (Since 6 + 8 > 10, 6 + 10 > 8, and 8 + 10 > 6)",
+      "2 cm, 3 cm, 6 cm (2 + 3 = 5 < 6, impossible)",
+      "3 cm, 4 cm, 7 cm (3 + 4 = 7, not strictly greater, impossible)",
+      "1 cm, 2 cm, 5 cm (1 + 2 = 3 < 5, impossible)"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "Only 6, 8, 10 satisfies the strict triangle inequality theorem (6 + 8 = 14 > 10)."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Mathematics",
+    "chapter": "Chapter 6: The Triangle and its Properties",
+    "question": "In a right-angled triangle, the lengths of the two legs are 3 cm and 4 cm. What is the length of the hypotenuse?",
+    "options": [
+      "5 cm (Hypotenuse = √(3² + 4²) = √(9 + 16) = √25 = 5 cm)",
+      "7 cm",
+      "6 cm",
+      "8 cm"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "c = √(3² + 4²) = √(9 + 16) = √25 = 5 cm (classic 3-4-5 Pythagorean triplet)."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Mathematics",
+    "chapter": "Chapter 6: The Triangle and its Properties",
+    "question": "A 15 m long ladder reaches a window 12 m high from the ground on placing it against a wall. Find the distance of the foot of the ladder from the wall:",
+    "options": [
+      "9 m (Distance = √(15² - 12²) = √(225 - 144) = √81 = 9 m)",
+      "6 m",
+      "8 m",
+      "10 m"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "Base = √(15² - 12²) = √(225 - 144) = √81 = 9 m."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Mathematics",
+    "chapter": "Chapter 6: The Triangle and its Properties",
+    "question": "The lengths of two sides of a triangle are 12 cm and 15 cm. Between what two whole numbers must the length of the third side lie?",
+    "options": [
+      "Between 3 cm and 27 cm (Difference: 15 - 12 = 3 cm < third side < Sum: 15 + 12 = 27 cm)",
+      "Between 12 cm and 15 cm",
+      "Between 0 cm and 12 cm",
+      "Between 5 cm and 30 cm"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "Third side range: (15 - 12) < side < (15 + 12) → 3 cm < x < 27 cm."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Mathematics",
+    "chapter": "Chapter 6: The Triangle and its Properties",
+    "question": "A tree broke at a height of 5 m from the ground and its top touched the ground at a distance of 12 m from the base of the tree. Find the ORIGINAL full height of the tree:",
+    "options": [
+      "18 m (Broken broken part = √(5² + 12²) = √(25 + 144) = √169 = 13 m ; Total height = 5 + 13 = 18 m)",
+      "17 m",
+      "13 m",
+      "20 m"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "Hypotenuse = √(5² + 12²) = 13 m. Total original tree height = standing trunk (5 m) + fallen crown (13 m) = 18 m."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Mathematics",
+    "chapter": "Chapter 6: The Triangle and its Properties",
+    "question": "In ΔABC, if ∠B = 35° and ∠C = 55°, which of the following is true?",
+    "options": [
+      "AB² + BC² = AC² is FALSE, but AB² + AC² = BC² is TRUE (Since ∠A = 180° - (35°+55°) = 90°, so BC is the hypotenuse: AB² + AC² = BC²)",
+      "AB² + BC² = AC²",
+      "BC² + AC² = AB²",
+      "AB + BC = AC"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "∠A = 180° - 90° = 90°. The right angle is at A, so opposite side BC is the hypotenuse: AB² + AC² = BC²."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Mathematics",
+    "chapter": "Chapter 6: The Triangle and its Properties",
+    "question": "Find the perimeter of the rectangle whose length is 40 cm and diagonal is 41 cm:",
+    "options": [
+      "98 cm (Breadth = √(41² - 40²) = √(1681 - 1600) = √81 = 9 cm ; Perimeter = 2(40 + 9) = 2(49) = 98 cm)",
+      "82 cm",
+      "100 cm",
+      "90 cm"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "Width = √(41² - 40²) = √81 = 9 cm. Perimeter = 2(l + w) = 2(40 + 9) = 98 cm."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Mathematics",
+    "chapter": "Chapter 6: The Triangle and its Properties",
+    "question": "The diagonals of a rhombus measure 16 cm and 12 cm. Find its perimeter:",
+    "options": [
+      "40 cm (Diagonals bisect at 90°: half-lengths are 8 cm and 6 cm ; Side = √(8² + 6²) = √(64 + 36) = √100 = 10 cm ; Perimeter = 4 × 10 = 40 cm)",
+      "28 cm",
+      "48 cm",
+      "56 cm"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "Rhombus side = √(8² + 6²) = 10 cm. Perimeter = 4 × 10 = 40 cm."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Mathematics",
+    "chapter": "Chapter 6: The Triangle and its Properties",
+    "question": "Can an OBTUSE-ANGLED triangle have an altitude that lies OUTSIDE the triangle?",
+    "options": [
+      "Yes, two of the altitudes in an obtuse-angled triangle fall outside the triangle onto the extended opposite sides",
+      "No, altitudes are always strictly inside",
+      "Only in right triangles",
+      "Never"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "In an obtuse triangle, altitudes drawn from acute vertices fall on extended bases outside the triangular boundary."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Mathematics",
+    "chapter": "Chapter 6: The Triangle and its Properties",
+    "question": "In ΔPQR, D is the midpoint of side QR. What is line segment PM (where PM ⊥ QR) and line segment PD?",
+    "options": [
+      "PM is an ALTITUDE ; PD is a MEDIAN",
+      "PM is a median ; PD is an altitude",
+      "Both are medians",
+      "Both are altitudes"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "PM is perpendicular (altitude); PD joins vertex P to midpoint D of base QR (median)."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Mathematics",
+    "chapter": "Chapter 6: The Triangle and its Properties",
+    "question": "An exterior angle of a triangle is 120°, and the two interior opposite angles are EQUAL to each other. Find the measure of each interior opposite angle:",
+    "options": [
+      "60° each (2x = 120° ⇒ x = 60°)",
+      "50° each",
+      "40° each",
+      "70° each"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "x + x = 120° → 2x = 120° → x = 60°."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Mathematics",
+    "chapter": "Chapter 6: The Triangle and its Properties",
+    "question": "One of the acute angles of a right-angled triangle is 35°. What is the measure of the other acute angle?",
+    "options": [
+      "55° (90° - 35° = 55°)",
+      "45°",
+      "65°",
+      "35°"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "The two acute angles in a right-angled triangle are complementary: 90° - 35° = 55°."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Mathematics",
+    "chapter": "Chapter 6: The Triangle and its Properties",
+    "question": "In an equilateral triangle ΔABC, an altitude AD is drawn from A to BC. What special property does AD have?",
+    "options": [
+      "In an equilateral triangle, Altitude AD is ALSO the Median (it bisects the opposite side BC) and also the Angle Bisector of ∠A",
+      "AD only measures 1 cm",
+      "AD is parallel to BC",
+      "AD lies outside the triangle"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "Symmetry of equilateral triangles: altitude, median, angle bisector, and perpendicular bisector coincide along the same axis."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Mathematics",
+    "chapter": "Chapter 6: The Triangle and its Properties",
+    "question": "Which of the following is a classic PYTHAGOREAN TRIPLET?",
+    "options": [
+      "(5, 12, 13) since 5² + 12² = 25 + 144 = 169 = 13²",
+      "(4, 5, 6)",
+      "(2, 3, 4)",
+      "(6, 7, 8)"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "5² + 12² = 25 + 144 = 169 = 13², confirming (5, 12, 13) is a primitive Pythagorean triplet."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Mathematics",
+    "chapter": "Chapter 6: The Triangle and its Properties",
+    "question": "Read the statements:\nAssertion (A): In any triangle ΔABC, the point of intersection of all three Medians (Centroid G) ALWAYS lies strictly INSIDE the interior of the triangle.\nReason (R): Each median connects a vertex to the interior midpoint of the opposite side, so their common concurrence centroid G is guaranteed by convexity to be inside the triangular perimeter.\nChoose the correct option:",
+    "options": [
+      "Both (A) and (R) are true, and (R) is the correct explanation of (A).",
+      "Both (A) and (R) are true, but (R) is NOT the correct explanation of (A).",
+      "(A) is true, but (R) is false.",
+      "(A) is false, but (R) is true."
+    ],
+    "correctAnswer": 0,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "The centroid is the center of gravity of the triangle and always lies strictly within the convex interior hull."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Mathematics",
+    "chapter": "Chapter 6: The Triangle and its Properties",
+    "question": "Spot the IMPOSTER in the following geometric triangle theorems:\nGroup:\n1. Angle sum of a triangle is always 180°.\n2. Exterior angle equals the sum of two interior opposite angles.\n3. The sum of any two side lengths is strictly greater than the third side.\n4. In any triangle, the longest side is opposite to the smallest angle.",
+    "options": [
+      "Theorem 1",
+      "Theorem 2",
+      "Theorem 3",
+      "Theorem 4 (In any triangle, the LONGEST side is opposite to the LARGEST angle, not the smallest)"
+    ],
+    "correctAnswer": 3,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "Theorem 4 is false: side-angle inequality dictates that the longest side lies opposite the largest angle."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Mathematics",
+    "chapter": "Chapter 6: The Triangle and its Properties",
+    "question": "In ΔABC, AM is a median on side BC. Prove that:\nAB + BC + CA > 2 AM\nWhy is this inequality strictly true?",
+    "options": [
+      "In ΔABM: AB + BM > AM ; In ΔACM: AC + MC > AM ; Adding both: AB + (BM + MC) + AC > 2AM ⇒ AB + BC + CA > 2AM",
+      "Because all sides of ΔABC are equal to AM",
+      "Because AM is perpendicular to BC",
+      "Because triangles have no perimeter"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "Applying triangle inequality to ΔABM and ΔACM: (AB + BM) + (AC + MC) > AM + AM → AB + BC + AC > 2AM."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Mathematics",
+    "chapter": "Chapter 6: The Triangle and its Properties",
+    "question": "Match Column I (Triangle Concurrence Centers) with Column II (Defining Line Intersections):\n(a) Centroid      -> (i) Concurrence point of all 3 Medians (divides each median in 2:1 ratio)\n(b) Orthocentre   -> (ii) Concurrence point of all 3 Altitudes\n(c) Incentre      -> (iii) Concurrence point of all 3 Internal Angle Bisectors\n(d) Circumcentre  -> (iv) Concurrence point of all 3 Perpendicular Bisectors of sides",
+    "options": [
+      "a-(i), b-(ii), c-(iii), d-(iv)",
+      "a-(ii), b-(i), c-(iv), d-(iii)",
+      "a-(iv), b-(iii), c-(ii), d-(i)",
+      "a-(iii), b-(iv), c-(i), d-(ii)"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "Centroid = medians; Orthocentre = altitudes; Incentre = angle bisectors; Circumcentre = perpendicular bisectors."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Mathematics",
+    "chapter": "Chapter 6: The Triangle and its Properties",
+    "question": "Read the statements regarding right triangles and Pythagoras property:\nStatement 1: For any positive integer m > 1, the triplet (2m, m² - 1, m² + 1) ALWAYS forms a Pythagorean triplet.\nStatement 2: If m = 4, the triplet generated is (8, 15, 17) where 8² + 15² = 64 + 225 = 289 = 17².\nStatement 3: In an obtuse-angled triangle, a² + b² = c² where c is the longest side.\nWhich statements are TRUE?",
+    "options": [
+      "Statements 1 and 2 only",
+      "Statements 2 and 3 only",
+      "Statements 1 and 3 only",
+      "All Statements 1, 2, and 3"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "Statement 3 is false (in obtuse triangles, a² + b² < c²). Statements 1 and 2 represent algebraic Pythagorean generator formulas."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Mathematics",
+    "chapter": "Chapter 6: The Triangle and its Properties",
+    "question": "In a quadrilateral ABCD, prove that:\nAB + BC + CD + DA > AC + BD\nWhat is the geometric justification?",
+    "options": [
+      "In ΔABC: AB + BC > AC ; In ΔADC: CD + DA > AC ; In ΔABD: AB + DA > BD ; In ΔBCD: BC + CD > BD ; Adding all four inequalities and dividing by 2 gives AB + BC + CD + DA > AC + BD",
+      "Because diagonals are always zero",
+      "Because all quadrilaterals are squares",
+      "Because perimeter equals area"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "Sum of 4 triangle inequalities: 2(AB + BC + CD + DA) > 2(AC + BD) → AB + BC + CD + DA > AC + BD."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Mathematics",
+    "chapter": "Chapter 6: The Triangle and its Properties",
+    "question": "Let O be any interior point in ΔABC. Which of the following inequalities is strictly true?",
+    "options": [
+      "OA + OB + OC > 1/2 (AB + BC + CA) (In ΔOAB: OA + OB > AB ; ΔOBC: OB + OC > BC ; ΔOCA: OC + OA > CA ; Adding gives 2(OA+OB+OC) > AB+BC+CA)",
+      "OA + OB + OC < 1/2 (AB + BC + CA)",
+      "OA + OB + OC = AB + BC + CA",
+      "OA = OB = OC = 0"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "Triangle inequality on the three sub-triangles meeting at O gives 2(OA + OB + OC) > AB + BC + CA → OA + OB + OC > ½(AB + BC + CA)."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Mathematics",
+    "chapter": "Chapter 6: The Triangle and its Properties",
+    "question": "In an isosceles right-angled triangle, if each of the two equal perpendicular legs is of length 'x', what is the length of the hypotenuse?",
+    "options": [
+      "x√2 (Hypotenuse = √(x² + x²) = √(2x²) = x√2)",
+      "2x",
+      "x / 2",
+      "x²"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "c = √(x² + x²) = √(2x²) = x√2 (the 45°-45°-90° special right triangle)."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Mathematics",
+    "chapter": "Chapter 6: The Triangle and its Properties",
+    "question": "Two poles of height 6 m and 11 m stand vertically on a plane ground. If the horizontal distance between their feet is 12 m, find the direct distance between their tops:",
+    "options": [
+      "13 m (Vertical difference = 11 - 6 = 5 m ; Top distance = √(5² + 12²) = √(25 + 144) = √169 = 13 m)",
+      "12 m",
+      "14 m",
+      "15 m"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "Right triangle formed with base 12 m and vertical height (11 - 6) = 5 m. Distance = √(5² + 12²) = 13 m."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Mathematics",
+    "chapter": "Chapter 6: The Triangle and its Properties",
+    "question": "In ΔPQR, the bisectors of interior ∠Q and interior ∠R meet at point O. What is the measure of ∠QOR in terms of ∠P?",
+    "options": [
+      "∠QOR = 90° + (1/2) ∠P",
+      "∠QOR = 90° - (1/2) ∠P",
+      "∠QOR = 180° - ∠P",
+      "∠QOR = 2 ∠P"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "In ΔQOR: ∠QOR = 180° - (∠Q/2 + ∠R/2) = 180° - ((180° - ∠P)/2) = 180° - 90° + ∠P/2 = 90° + ∠P/2."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Mathematics",
+    "chapter": "Chapter 6: The Triangle and its Properties",
+    "question": "If a line segment drawn from a vertex of a triangle is BOTH an altitude and a median to the opposite side, what type of triangle is it?",
+    "options": [
+      "It is at least an ISOSCELES TRIANGLE (and if true for all 3 vertices, an Equilateral Triangle)",
+      "It is a Scalene triangle only",
+      "It is a circle",
+      "It is an impossible line"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "By SAS congruence of the two divided sub-triangles (common altitude, equal divided base, 90° angle), the adjacent sides are equal, proving it is isosceles."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Mathematics",
+    "chapter": "Chapter 6: The Triangle and its Properties",
+    "question": "Why is the Triangle considered the most rigid and fundamental structural element in civil engineering, bridge truss design, and geodesic domes?",
+    "options": [
+      "A triangle is geometrically RIGID: once the three side lengths are fixed, its angles are locked and cannot deform without bending or breaking the sides (unlike quadrilaterals)",
+      "Because triangles are made of gold",
+      "Because triangles have zero weight",
+      "Because triangles eliminate gravity"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "Triangulation provides structural rigidity (SSS uniqueness theorem): pin-jointed triangular frames cannot flex under shear loads."
+  },
+  {
+    "classLevel": 7,
+    "subject": "English",
+    "chapter": "Chapter 6: Expert Detectives & Mystery of the Talking Fan",
+    "question": "In Sharada Dwivedi's story 'Expert Detectives' (from 'The Broken Flute'), what is the nickname and real age of the boy Nishad?",
+    "options": [
+      "Seven (a 7-year-old boy named because his name refers to the 7th musical note 'Ni')",
+      "Ten (a 10-year-old boy)",
+      "Five (a 5-year-old boy)",
+      "Miko"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "Nishad is a 7-year-old boy nicknamed 'Seven' because Nishad is the seventh musical note in the Indian classical octave (Sa-Re-Ga-Ma-Pa-Dha-Ni)."
+  },
+  {
+    "classLevel": 7,
+    "subject": "English",
+    "chapter": "Chapter 6: Expert Detectives & Mystery of the Talking Fan",
+    "question": "Who is Nishad's 10-year-old elder sister who acts as the self-appointed lead detective?",
+    "options": [
+      "Maya",
+      "Rani",
+      "Meena",
+      "Shreya"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "Maya is Nishad's 10-year-old sister who investigates their mysterious neighbor Mr. Nath."
+  },
+  {
+    "classLevel": 7,
+    "subject": "English",
+    "chapter": "Chapter 6: Expert Detectives & Mystery of the Talking Fan",
+    "question": "Who is the quiet, gaunt, scar-faced tenant in Room No. 10 at Shankar House whom Maya suspects of being a dangerous criminal?",
+    "options": [
+      "Mr. Nath",
+      "Mr. Sharma",
+      "Mr. Mehta",
+      "Ramesh"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "Mr. Nath is the recluse tenant living in Room 10 of Shankar House, treated by their mother at her clinic."
+  },
+  {
+    "classLevel": 7,
+    "subject": "English",
+    "chapter": "Chapter 6: Expert Detectives & Mystery of the Talking Fan",
+    "question": "What profession does Maya and Nishad's mother practice?",
+    "options": [
+      "A Doctor (practicing at her medical clinic)",
+      "A School Teacher",
+      "A Police Detective",
+      "A Lawyer"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "Their mother is a physician/doctor who knows Mr. Nath as a quiet, polite patient at her clinic."
+  },
+  {
+    "classLevel": 7,
+    "subject": "English",
+    "chapter": "Chapter 6: Expert Detectives & Mystery of the Talking Fan",
+    "question": "Who delivers two daily meals and two cups of tea to Mr. Nath's room from the restaurant downstairs?",
+    "options": [
+      "Ramesh",
+      "Suresh",
+      "Gopal",
+      "Mohan"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "Ramesh, a worker from the restaurant downstairs, delivers Mr. Nath's fixed meals (two chapatis, dal, and a vegetable) and tea."
+  },
+  {
+    "classLevel": 7,
+    "subject": "English",
+    "chapter": "Chapter 6: Expert Detectives & Mystery of the Talking Fan",
+    "question": "What unusual visitor comes to see Mr. Nath every SUNDAY afternoon at Shankar House?",
+    "options": [
+      "A tall, fair, stout man wearing spectacles who talks a great deal",
+      "A police inspector in uniform",
+      "A magician with a trunk",
+      "A young schoolboy"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "Ramesh informs Nishad that every Sunday, a tall, fair, stout, bespectacled visitor visits Mr. Nath and chats incessantly."
+  },
+  {
+    "classLevel": 7,
+    "subject": "English",
+    "chapter": "Chapter 6: Expert Detectives & Mystery of the Talking Fan",
+    "question": "What sweet treat did Nishad thrust into Mr. Nath's hand during his unexpected visit to Room 10?",
+    "options": [
+      "A bar of chocolate",
+      "An ice cream cone",
+      "A box of laddus",
+      "An apple"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "Moved by Mr. Nath's gaunt, starving appearance, Nishad generously thrust a bar of chocolate into his palm."
+  },
+  {
+    "classLevel": 7,
+    "subject": "English",
+    "chapter": "Chapter 6: Expert Detectives & Mystery of the Talking Fan",
+    "question": "What does Maya write at the top of her investigative fact sheet in large block letters?",
+    "options": [
+      "\"CATCHING A CROOK — Expert Detectives: Nishad and Maya Pandit (By Appointment to the Whole World)\"",
+      "\"HOW TO BECOME A POLICE OFFICER\"",
+      "\"RECIPE FOR CHOCOLATE CAKE\"",
+      "\"MY SCHOOL HOMEWORK\""
+    ],
+    "correctAnswer": 0,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "Maya wrote the dramatic heading: 'CATCHING A CROOK — Expert Detectives: Nishad and Maya Pandit (By Appointment to the Whole World)'."
+  },
+  {
+    "classLevel": 7,
+    "subject": "English",
+    "chapter": "Chapter 6: Expert Detectives & Mystery of the Talking Fan",
+    "question": "In Maude Rubin's poem 'Mystery of the Talking Fan', what was the 'talking' or 'chattering' sound made by the ceiling fan?",
+    "options": [
+      "An electrical squeak and mechanical whirring sound caused by lack of lubricating oil in its motor",
+      "Real human words spoken by a ghost",
+      "Music from a radio",
+      "The sound of wind blowing through an open window"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "The fan's 'talk' was the dry, un-oiled rhythmic mechanical squeak of its electric motor."
+  },
+  {
+    "classLevel": 7,
+    "subject": "English",
+    "chapter": "Chapter 6: Expert Detectives & Mystery of the Talking Fan",
+    "question": "How did the 'mystery' of the talking fan suddenly come to an end?",
+    "options": [
+      "Somebody oiled its little whirling electric motor, and thereafter it ran as still and smooth as water",
+      "The fan fell down from the ceiling",
+      "The electricity was cut off permanently",
+      "The fan was thrown into the river"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "The poem ends: 'He ran as still as water' once somebody oiled its whirling motor, solving the mystery."
+  },
+  {
+    "classLevel": 7,
+    "subject": "English",
+    "chapter": "Chapter 6: Expert Detectives & Mystery of the Talking Fan",
+    "question": "What prefix can be added to the word 'Patient' to mean 'Unable to wait calmly'?",
+    "options": [
+      "im- (Impatient)",
+      "un-",
+      "dis-",
+      "in-"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "The negative prefix 'im-' attaches to roots starting with labial consonants (m/p): im + patient = impatient."
+  },
+  {
+    "classLevel": 7,
+    "subject": "English",
+    "chapter": "Chapter 6: Expert Detectives & Mystery of the Talking Fan",
+    "question": "What does the idiom 'To keep an eye on' mean in detective contexts?",
+    "options": [
+      "To watch, monitor, or observe someone very carefully and vigilantly",
+      "To look at someone with one eye closed",
+      "To wear spectacles",
+      "To paint an eye"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "'To keep an eye on' means maintaining close surveillance or careful supervision over someone."
+  },
+  {
+    "classLevel": 7,
+    "subject": "English",
+    "chapter": "Chapter 6: Expert Detectives & Mystery of the Talking Fan",
+    "question": "Why do Maya and Nishad have opposing viewpoints about Mr. Nath?",
+    "options": [
+      "Maya believes Mr. Nath is a dangerous fugitive criminal hiding millions in stolen loot ; Nishad empathizes with him as a lonely, impoverished, sick man who needs a friend",
+      "Maya thinks he is a doctor and Nishad thinks he is a teacher",
+      "Both think he is a king",
+      "Neither cares about him"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "Maya views Mr. Nath through sensational detective melodrama; Nishad views him through compassionate human empathy."
+  },
+  {
+    "classLevel": 7,
+    "subject": "English",
+    "chapter": "Chapter 6: Expert Detectives & Mystery of the Talking Fan",
+    "question": "How does Maya explain the burn scars on Mr. Nath's face, and what does their mother say about them?",
+    "options": [
+      "Maya theorizes the police shot or burned him during a shootout ; Mama explains that they are severe burn scars from an accidental fire",
+      "Maya says he was born with them",
+      "Mama says he got them from an animal bite",
+      "Maya says he painted them"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "Maya melodramatically assumes police shootout wounds; their doctor mother confirms they are medical burn scars."
+  },
+  {
+    "classLevel": 7,
+    "subject": "English",
+    "chapter": "Chapter 6: Expert Detectives & Mystery of the Talking Fan",
+    "question": "What reason does Maya offer for why Mr. Nath has no friends and never talks to anyone at Shankar House?",
+    "options": [
+      "She claims he is terrified that someone might recognize him and inform the police about his criminal identity",
+      "Because he does not know any language",
+      "Because he is deaf",
+      "Because he owns the whole building"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "Maya rationalizes his reclusive isolation as a criminal strategy to evade identification."
+  },
+  {
+    "classLevel": 7,
+    "subject": "English",
+    "chapter": "Chapter 6: Expert Detectives & Mystery of the Talking Fan",
+    "question": "What conclusion does Nishad reach after visiting Mr. Nath, refusing to support Maya's criminal accusations?",
+    "options": [
+      "He declares: \"I like him, and I'm going to try and be his friend! How can a lonely, poor man be a bad crook?\"",
+      "He agrees to call the police immediately",
+      "He runs away from home",
+      "He decides to steal Mr. Nath's food"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "Nishad rebels against Maya's prejudice, asserting his determination to offer genuine friendship to the isolated man."
+  },
+  {
+    "classLevel": 7,
+    "subject": "English",
+    "chapter": "Chapter 6: Expert Detectives & Mystery of the Talking Fan",
+    "question": "What poetic device is prominent in the opening lines of 'Mystery of the Talking Fan':\n'Once there was a talking fan — / Electrical his chatter'?",
+    "options": [
+      "Personification (giving the mechanical ceiling fan the human ability to 'talk' and 'chatter')",
+      "Alliteration only",
+      "Hyperbole only",
+      "Oxymoron"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "Personification animates the mechanical appliance as a sentient creature vocalizing mysterious electrical complaints."
+  },
+  {
+    "classLevel": 7,
+    "subject": "English",
+    "chapter": "Chapter 6: Expert Detectives & Mystery of the Talking Fan",
+    "question": "Identify the figure of speech in: 'He ran as still as water.'",
+    "options": [
+      "Simile (comparing the quiet, smooth motion of the oiled fan to calm water using 'as')",
+      "Metaphor",
+      "Personification",
+      "Irony"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "'As still as water' is a classic simile comparing mechanical fluidity to undisturbed liquid."
+  },
+  {
+    "classLevel": 7,
+    "subject": "English",
+    "chapter": "Chapter 6: Expert Detectives & Mystery of the Talking Fan",
+    "question": "What is the meaning of the word 'Peculiar' in: 'Mr. Nath is a peculiar person'?",
+    "options": [
+      "Strange, unusual, odd, or unconventional",
+      "Extremely wealthy",
+      "Very loud and noisy",
+      "Handsome and young"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "'Peculiar' means strange, atypical, or distinctive from the ordinary."
+  },
+  {
+    "classLevel": 7,
+    "subject": "English",
+    "chapter": "Chapter 6: Expert Detectives & Mystery of the Talking Fan",
+    "question": "What is the meaning of the phrasal verb 'To tip off' in: 'Someone might tip off the police'?",
+    "options": [
+      "To give secret, confidential information or advance warning to authorities",
+      "To give a monetary coin to a waiter",
+      "To knock a cup over",
+      "To fall asleep"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "'To tip off' means providing confidential intelligence or advance alert."
+  },
+  {
+    "classLevel": 7,
+    "subject": "English",
+    "chapter": "Chapter 6: Expert Detectives & Mystery of the Talking Fan",
+    "question": "Choose the correct antonym of the underlined word:\n'Mr. Nath was a **solitary** man living in room ten.'",
+    "options": [
+      "Sociable / Gregarious / Accompanied",
+      "Lonely",
+      "Isolated",
+      "Reclusive"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "The antonym of 'solitary' (living alone) is 'sociable' or 'gregarious'."
+  },
+  {
+    "classLevel": 7,
+    "subject": "English",
+    "chapter": "Chapter 6: Expert Detectives & Mystery of the Talking Fan",
+    "question": "Fill in the blank with the appropriate Prefix to form the opposite:\n'Maya's wild theory about Mr. Nath seemed totally _______logical.'",
+    "options": [
+      "il- (Illogical)",
+      "un-",
+      "in-",
+      "dis-"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "The prefix 'il-' attaches to roots beginning with 'l': il + logical = illogical."
+  },
+  {
+    "classLevel": 7,
+    "subject": "English",
+    "chapter": "Chapter 6: Expert Detectives & Mystery of the Talking Fan",
+    "question": "Convert into INDIRECT SPEECH:\nNishad said, \"I want to find out why he is so thin.\"",
+    "options": [
+      "Nishad said that he wanted to find out why he was so thin.",
+      "Nishad said that he wants to find out why he is thin.",
+      "Nishad asked why is he so thin.",
+      "Nishad told that I wanted to find out."
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "Reported speech in past tense: present verbs ('want', 'is') backshift to past ('wanted', 'was')."
+  },
+  {
+    "classLevel": 7,
+    "subject": "English",
+    "chapter": "Chapter 6: Expert Detectives & Mystery of the Talking Fan",
+    "question": "Choose the correct spelling:",
+    "options": [
+      "Accomplice",
+      "Acomplice",
+      "Accomplise",
+      "Accomplese"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "Correct orthography: A-C-C-O-M-P-L-I-C-E (a partner in wrongdoing)."
+  },
+  {
+    "classLevel": 7,
+    "subject": "English",
+    "chapter": "Chapter 6: Expert Detectives & Mystery of the Talking Fan",
+    "question": "What is an 'Accomplice' as Maya uses the word regarding Mr. Nath's Sunday visitor?",
+    "options": [
+      "A partner or associate who helps a criminal commit or conceal a crime",
+      "A medical doctor",
+      "A close childhood brother",
+      "A postman"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "An accomplice is an associate who aids in the commission or concealment of unlawful acts."
+  },
+  {
+    "classLevel": 7,
+    "subject": "English",
+    "chapter": "Chapter 6: Expert Detectives & Mystery of the Talking Fan",
+    "question": "Identify the part of speech of the underlined word in: 'The fan turned **smoothly** after oiling.'",
+    "options": [
+      "Adverb of Manner",
+      "Adjective",
+      "Noun",
+      "Conjunction"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "'Smoothly' is an adverb of manner modifying the verb 'turned'."
+  },
+  {
+    "classLevel": 7,
+    "subject": "English",
+    "chapter": "Chapter 6: Expert Detectives & Mystery of the Talking Fan",
+    "question": "What gives Nishad the golden opportunity to enter Mr. Nath's room at Shankar House?",
+    "options": [
+      "His marble rolled into Mr. Nath's room during a game, so he went inside to retrieve it and met Mr. Nath face-to-face",
+      "He broke the window with a ball",
+      "Mama sent him with medicine",
+      "The police asked him to search the room"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "Nishad's stray marble rolled under Mr. Nath's door, granting him direct personal entry."
+  },
+  {
+    "classLevel": 7,
+    "subject": "English",
+    "chapter": "Chapter 6: Expert Detectives & Mystery of the Talking Fan",
+    "question": "Why did Ramesh describe Mr. Nath as a generous customer despite his simple meals?",
+    "options": [
+      "Mr. Nath paid cash promptly and always gave Ramesh a handsome, generous TIP every single time",
+      "Mr. Nath cooked food for Ramesh",
+      "Mr. Nath gave Ramesh golden coins",
+      "Mr. Nath bought the whole restaurant"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "Ramesh praised Mr. Nath's quiet nobility: 'He pays cash and tips well'."
+  },
+  {
+    "classLevel": 7,
+    "subject": "English",
+    "chapter": "Chapter 6: Expert Detectives & Mystery of the Talking Fan",
+    "question": "Read the statements:\nAssertion (A): Maya and Nishad represent the classic psychological contrast between 'Prejudice driven by imagination' and 'Innocent empathy driven by compassion'.\nReason (R): Maya filters every mundane fact about Mr. Nath through sensationalist crime fiction cliches to confirm her bias, whereas Nishad evaluates Mr. Nath through authentic human observation of suffering and loneliness.\nChoose the correct option:",
+    "options": [
+      "Both (A) and (R) are true, and (R) is the correct explanation of (A).",
+      "Both (A) and (R) are true, but (R) is NOT the correct explanation of (A).",
+      "(A) is true, but (R) is false.",
+      "(A) is false, but (R) is true."
+    ],
+    "correctAnswer": 0,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "The story explores the cognitive dichotomy between biased confirmation-seeking paranoia (Maya) and open empathetic inquiry (Nishad)."
+  },
+  {
+    "classLevel": 7,
+    "subject": "English",
+    "chapter": "Chapter 6: Expert Detectives & Mystery of the Talking Fan",
+    "question": "Spot the IMPOSTER among the following 'Facts' cataloged by Maya in her detective notebook:\nGroup:\n1. Fact 1: Mr. Nath's first name is not known to them, but other tenants call him mad and unfriendly.\n2. Fact 2: He does not talk to anyone and has no manners, though Mama says he is polite because he is a patient.\n3. Fact 3: He gets no letters, and has lived in Room 10 for more than a year.\n4. Fact 4: He was caught by Maya flying an attack helicopter over Delhi.",
+    "options": [
+      "Fact 1",
+      "Fact 2",
+      "Fact 3",
+      "Fact 4 (Fact 4 is an absurd impossibility ; Maya never saw any helicopter)"
+    ],
+    "correctAnswer": 3,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "Fact 4 is an absurd fabrication; Maya's list contained realistic domestic observations about meals, letters, and Sunday visitors."
+  },
+  {
+    "classLevel": 7,
+    "subject": "English",
+    "chapter": "Chapter 6: Expert Detectives & Mystery of the Talking Fan",
+    "question": "Analyze the profound narrative subtext in 'Expert Detectives':\nWhat does the story warn young readers about making hasty moral judgments about individuals who lead quiet, unconventional lives?",
+    "options": [
+      "Judging others based on physical scars, reclusive habits, or gossip without verified evidence leads to cruel prejudice, whereas genuine kindness and empathy uncover human truth",
+      "Children should always report their neighbors to the police",
+      "Detectives should never listen to doctors",
+      "People with scars are always dangerous"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "Dwivedi deconstructs stigmatization: physical disfigurement and social withdrawal should evoke compassionate understanding rather than suspicious vilification."
+  },
+  {
+    "classLevel": 7,
+    "subject": "English",
+    "chapter": "Chapter 6: Expert Detectives & Mystery of the Talking Fan",
+    "question": "Match Column I (Characters in Expert Detectives) with Column II (Dominant Behavioral Traits):\n(a) Maya       -> (i) Imaginative, assertive, obsessed with sensational detective tropes\n(b) Nishad     -> (ii) Intuitive, sensitive, compassionate, prioritizing human connection\n(c) Mr. Nath   -> (iii) Reclusive, convalescing patient bearing physical and emotional scars\n(d) Ramesh     -> (iv) Observant, pragmatic restaurant worker who values prompt payment and tips",
+    "options": [
+      "a-(i), b-(ii), c-(iii), d-(iv)",
+      "a-(ii), b-(i), c-(iv), d-(iii)",
+      "a-(iv), b-(iii), c-(ii), d-(i)",
+      "a-(iii), b-(iv), c-(i), d-(ii)"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "Accurate characterization: Maya (sensationalist); Nishad (empathetic); Mr. Nath (reclusive patient); Ramesh (pragmatic worker)."
+  },
+  {
+    "classLevel": 7,
+    "subject": "English",
+    "chapter": "Chapter 6: Expert Detectives & Mystery of the Talking Fan",
+    "question": "Read the statements regarding 'Mystery of the Talking Fan':\nStatement 1: The poet Maude Rubin uses playful anthropomorphism to transform a routine household nuisance into a whimsical mechanical mystery.\nStatement 2: The resolution of the poem reveals that the 'complaint' of the fan was simply dry friction solved by basic motor maintenance (oil).\nStatement 3: The fan transformed into an electric bird and flew out of the window.\nWhich statements are TRUE?",
+    "options": [
+      "Statements 1 and 2 only",
+      "Statements 2 and 3 only",
+      "Statements 1 and 3 only",
+      "All Statements 1, 2, and 3"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "Statement 3 is an absurd invention. Statements 1 and 2 accurately interpret Rubin's poetic themes."
+  },
+  {
+    "classLevel": 7,
+    "subject": "English",
+    "chapter": "Chapter 6: Expert Detectives & Mystery of the Talking Fan",
+    "question": "Change the voice of the sentence:\n'Maya drafted an elaborate list of facts to trap the mysterious tenant.'",
+    "options": [
+      "'An elaborate list of facts was drafted by Maya to trap the mysterious tenant.'",
+      "'The mysterious tenant drafted an elaborate list of facts by Maya.'",
+      "'An elaborate list had been drafting by Maya.'",
+      "'Facts were being drafted by the tenant.'"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "Passive voice: Object ('An elaborate list of facts') + was drafted + by agent ('by Maya') + infinitive phrase."
+  },
+  {
+    "classLevel": 7,
+    "subject": "English",
+    "chapter": "Chapter 6: Expert Detectives & Mystery of the Talking Fan",
+    "question": "Identify the grammatical role of the underlined dependent clause in:\n'Nishad wondered **why Mr. Nath lived such a solitary life**.'",
+    "options": [
+      "Noun Clause acting as the direct object of the transitive verb 'wondered'",
+      "Adverb Clause of Time",
+      "Relative Clause modifying Nishad",
+      "Conditional Clause"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "'Why Mr. Nath lived such a solitary life' functions as a nominal clause serving as the direct object of 'wondered'."
+  },
+  {
+    "classLevel": 7,
+    "subject": "English",
+    "chapter": "Chapter 6: Expert Detectives & Mystery of the Talking Fan",
+    "question": "Why does Nishad storm out of the room at the end of the chapter with his arms folded stubbornly?",
+    "options": [
+      "Because he refuses to participate in Maya's unkind, unverified witch-hunt against Mr. Nath and intends to follow his conscience to befriend him",
+      "Because he lost his chocolate bar",
+      "Because Maya tore his notebook",
+      "Because it started raining heavily"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "Nishad takes an ethical stand against Maya's groundless accusations, choosing personal integrity over sibling complicity."
+  },
+  {
+    "classLevel": 7,
+    "subject": "English",
+    "chapter": "Chapter 6: Expert Detectives & Mystery of the Talking Fan",
+    "question": "What is the metaphorical significance of the ceiling fan in Maude Rubin's poem?",
+    "options": [
+      "It represents how everyday mundane objects can spark childlike wonder and imagination, until simple scientific logic demystifies the phenomenon",
+      "It symbolizes a spaceship",
+      "It represents an evil monster",
+      "It shows that electricity is dangerous"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "Rubin illustrates the poetic transformation of mundane mechanical friction into an imaginative narrative, effortlessly resolved by rational care."
+  },
+  {
+    "classLevel": 7,
+    "subject": "English",
+    "chapter": "Chapter 6: Expert Detectives & Mystery of the Talking Fan",
+    "question": "What does the narrator mean by 'Electrical his chatter' in the poem?",
+    "options": [
+      "The noise of the fan was produced by electrical currents driving the friction in the unlubricated motor",
+      "The fan was connected to a telephone",
+      "The fan was speaking about batteries",
+      "The fan gave people electric shocks"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "'Electrical his chatter' poeticizes the humming acoustic vibration created by the alternating electric current in the dry motor."
+  },
+  {
+    "classLevel": 7,
+    "subject": "English",
+    "chapter": "Chapter 6: Expert Detectives & Mystery of the Talking Fan",
+    "question": "Which of the following lines from 'Mystery of the Talking Fan' contains an acoustic auditory image?",
+    "options": [
+      "\"Electrical his chatter / I couldn't quite hear what he said\"",
+      "\"He ran as still as water\"",
+      "\"Somebody oiled his little whirling motor\"",
+      "\"All the mystery was spoiled\""
+    ],
+    "correctAnswer": 0,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "'Electrical his chatter' and 'couldn't quite hear' appeal directly to auditory sensory imagery."
+  },
+  {
+    "classLevel": 7,
+    "subject": "English",
+    "chapter": "Chapter 6: Expert Detectives & Mystery of the Talking Fan",
+    "question": "What overarching moral theme unites Chapter 6 of NCERT Class 7 English?",
+    "options": [
+      "The necessity of looking beyond surface appearances—whether investigating human character with empathy and truth rather than sensational bias, or demystifying mechanical curiosities through rational understanding",
+      "That children should never play with marbles",
+      "That fans should be removed from houses",
+      "That doctors should never treat patients"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "Chapter 6 celebrates critical thinking, the rejection of hasty prejudice, and the supremacy of empathetic human understanding."
+  },
+  {
+    "classLevel": 7,
+    "subject": "GK",
+    "chapter": "Chapter 6: World Organizations, Treaties, Summits & Global Governance",
+    "question": "In which year was the United Nations (UN) founded to maintain international peace and security following the devastation of World War II?",
+    "options": [
+      "1945 (on 24 October 1945 in San Francisco / New York)",
+      "1919",
+      "1950",
+      "1939"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "The UN Charter was signed on 26 June 1945 and entered into force on 24 October 1945 (celebrated globally as United Nations Day)."
+  },
+  {
+    "classLevel": 7,
+    "subject": "GK",
+    "chapter": "Chapter 6: World Organizations, Treaties, Summits & Global Governance",
+    "question": "Where are the official Headquarters of the United Nations (UN) situated?",
+    "options": [
+      "New York City, USA",
+      "Geneva, Switzerland",
+      "London, UK",
+      "Paris, France"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "The UN Headquarters is located in international territory in Midtown Manhattan, New York City."
+  },
+  {
+    "classLevel": 7,
+    "subject": "GK",
+    "chapter": "Chapter 6: World Organizations, Treaties, Summits & Global Governance",
+    "question": "How many permanent members (P5) with VETO POWER are there in the United Nations Security Council (UNSC)?",
+    "options": [
+      "5 Permanent Members (United States, United Kingdom, France, Russia, and China)",
+      "10 Permanent Members",
+      "7 Permanent Members",
+      "3 Permanent Members"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "The UNSC has 5 permanent members (US, UK, France, Russia, China) with veto power, alongside 10 non-permanent members elected for 2-year terms."
+  },
+  {
+    "classLevel": 7,
+    "subject": "GK",
+    "chapter": "Chapter 6: World Organizations, Treaties, Summits & Global Governance",
+    "question": "Where is the International Court of Justice (ICJ) — the principal judicial organ of the UN — located?",
+    "options": [
+      "The Hague, Netherlands (Peace Palace)",
+      "Geneva, Switzerland",
+      "New York, USA",
+      "Vienna, Austria"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "The ICJ sits at the Peace Palace in The Hague, Netherlands; it is the only principal UN organ not located in New York."
+  },
+  {
+    "classLevel": 7,
+    "subject": "GK",
+    "chapter": "Chapter 6: World Organizations, Treaties, Summits & Global Governance",
+    "question": "Which specialized UN agency is responsible for international public health, disease eradication, and pandemic response, headquartered in Geneva?",
+    "options": [
+      "World Health Organization (WHO)",
+      "UNICEF",
+      "UNESCO",
+      "UNEP"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "The WHO (founded 7 April 1948, celebrated as World Health Day) directs global health guidelines and disease surveillance from Geneva."
+  },
+  {
+    "classLevel": 7,
+    "subject": "GK",
+    "chapter": "Chapter 6: World Organizations, Treaties, Summits & Global Governance",
+    "question": "Which UN agency is dedicated to protecting children's rights, healthcare, nutrition, and education worldwide, headquartered in New York?",
+    "options": [
+      "UNICEF (United Nations Children's Fund)",
+      "UNHCR",
+      "ILO",
+      "FAO"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "UNICEF provides humanitarian and developmental aid to children in over 190 countries and territories."
+  },
+  {
+    "classLevel": 7,
+    "subject": "GK",
+    "chapter": "Chapter 6: World Organizations, Treaties, Summits & Global Governance",
+    "question": "Which UN agency promotes international peace through education, the sciences, culture, and World Heritage Sites, headquartered in Paris, France?",
+    "options": [
+      "UNESCO",
+      "WHO",
+      "UNIDO",
+      "WIPO"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "UNESCO (United Nations Educational, Scientific and Cultural Organization) oversees cultural preservation, literacy, and World Heritage classifications."
+  },
+  {
+    "classLevel": 7,
+    "subject": "GK",
+    "chapter": "Chapter 6: World Organizations, Treaties, Summits & Global Governance",
+    "question": "Which global financial institutions (the Bretton Woods twins) provide loans and financial stability to member nations, headquartered in Washington, D.C.?",
+    "options": [
+      "The World Bank and the International Monetary Fund (IMF)",
+      "The Bank of England and Federal Reserve",
+      "The Asian Development Bank only",
+      "The European Central Bank"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "The World Bank (reconstruction & development) and IMF (monetary stability & balance of payments) were founded at Bretton Woods in 1944."
+  },
+  {
+    "classLevel": 7,
+    "subject": "GK",
+    "chapter": "Chapter 6: World Organizations, Treaties, Summits & Global Governance",
+    "question": "Which international organization regulates global international trade rules between nations, headquartered in Geneva, Switzerland?",
+    "options": [
+      "World Trade Organization (WTO)",
+      "World Bank",
+      "IMF",
+      "UNCTAD"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "The WTO (established 1 January 1995 succeeding GATT) establishes multilateral trade agreements and arbitrates trade disputes."
+  },
+  {
+    "classLevel": 7,
+    "subject": "GK",
+    "chapter": "Chapter 6: World Organizations, Treaties, Summits & Global Governance",
+    "question": "What was the theme of the historic G20 Summit hosted by India in New Delhi in September 2023 under its presidency?",
+    "options": [
+      "\"Vasudhaiva Kutumbakam\" — 'One Earth, One Family, One Future'",
+      "\"Peace through Strength\"",
+      "\"Trade without Borders\"",
+      "\"Digital Only World\""
+    ],
+    "correctAnswer": 0,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "India's G20 presidency theme was 'Vasudhaiva Kutumbakam' (One Earth · One Family · One Future), drawn from the ancient Maha Upanishad."
+  },
+  {
+    "classLevel": 7,
+    "subject": "GK",
+    "chapter": "Chapter 6: World Organizations, Treaties, Summits & Global Governance",
+    "question": "What does the geopolitical grouping acronym 'BRICS' stand for?",
+    "options": [
+      "Brazil, Russia, India, China, and South Africa",
+      "Britain, Russia, Italy, Canada, and Spain",
+      "Belgium, Romania, India, Chile, and Sweden",
+      "Brazil, Rwanda, Indonesia, China, and Sudan"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "BRICS brings together major emerging economies: Brazil, Russia, India, China, and South Africa (expanded with new member nations in 2024)."
+  },
+  {
+    "classLevel": 7,
+    "subject": "GK",
+    "chapter": "Chapter 6: World Organizations, Treaties, Summits & Global Governance",
+    "question": "What is the primary objective of the historic 2015 'Paris Climate Agreement' (COP21)?",
+    "options": [
+      "To limit global warming to well below 2°C (preferably to 1.5°C) above pre-industrial levels",
+      "To ban all cars worldwide",
+      "To build a wall around Antarctica",
+      "To stop using electricity"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "The legally binding Paris Agreement commits 196 parties to hold anthropogenic global temperature rise well below 2.0°C and strive for 1.5°C."
+  },
+  {
+    "classLevel": 7,
+    "subject": "GK",
+    "chapter": "Chapter 6: World Organizations, Treaties, Summits & Global Governance",
+    "question": "What is the 'General Assembly' (UNGA) of the United Nations often referred to in international relations?",
+    "options": [
+      "The 'Town Hall of the World' (where all 193 member states have equal representation and 1 vote each)",
+      "The World Court",
+      "The Military Command of Earth",
+      "The Global Police Station"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "The UNGA is the principal deliberative organ where all 193 sovereign member states participate on sovereign equality principles."
+  },
+  {
+    "classLevel": 7,
+    "subject": "GK",
+    "chapter": "Chapter 6: World Organizations, Treaties, Summits & Global Governance",
+    "question": "Which regional intergovernmental organization comprises 10 Southeast Asian nations (e.g. Indonesia, Singapore, Malaysia, Thailand, Vietnam)?",
+    "options": [
+      "ASEAN (Association of Southeast Asian Nations)",
+      "SAARC",
+      "SCO",
+      "OPEC"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "ASEAN (founded 1967 in Bangkok) fosters regional economic integration, security, and cultural collaboration across 10 Southeast Asian states."
+  },
+  {
+    "classLevel": 7,
+    "subject": "GK",
+    "chapter": "Chapter 6: World Organizations, Treaties, Summits & Global Governance",
+    "question": "What is the 'QUAD' (Quadrilateral Security Dialogue) diplomatic partnership between four major democratic nations in the Indo-Pacific?",
+    "options": [
+      "India, the United States, Japan, and Australia",
+      "India, China, Russia, and Brazil",
+      "US, UK, France, and Germany",
+      "Japan, South Korea, Taiwan, and Singapore"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "The QUAD comprises India, the US, Japan, and Australia, advancing a free, open, and resilient Indo-Pacific maritime order."
+  },
+  {
+    "classLevel": 7,
+    "subject": "GK",
+    "chapter": "Chapter 6: World Organizations, Treaties, Summits & Global Governance",
+    "question": "Which international organization of 12 petroleum-exporting nations coordinates petroleum policies to stabilize international oil markets, headquartered in Vienna?",
+    "options": [
+      "OPEC (Organization of the Petroleum Exporting Countries)",
+      "IEA",
+      "OECD",
+      "APEC"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "OPEC (headquartered in Vienna, Austria) coordinates crude oil production quotas among member states to regulate global petroleum pricing."
+  },
+  {
+    "classLevel": 7,
+    "subject": "GK",
+    "chapter": "Chapter 6: World Organizations, Treaties, Summits & Global Governance",
+    "question": "What are the 'Geneva Conventions' in international humanitarian law?",
+    "options": [
+      "Four landmark international treaties that establish the legal standards for humanitarian treatment of wounded soldiers, prisoners of war (POWs), and civilians during armed conflicts",
+      "A treaty regulating air travel tickets",
+      "An agreement on international banking passwords",
+      "A trade deal on Swiss chocolates"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "The 1949 Geneva Conventions codify the core tenets of international humanitarian law (jus in bello), protecting non-combatants and war victims."
+  },
+  {
+    "classLevel": 7,
+    "subject": "GK",
+    "chapter": "Chapter 6: World Organizations, Treaties, Summits & Global Governance",
+    "question": "What is the 'International Atomic Energy Agency' (IAEA), headquartered in Vienna, Austria?",
+    "options": [
+      "The 'Atoms for Peace' world organization that promotes peaceful uses of nuclear energy and conducts inspections to prevent nuclear weapon proliferation",
+      "A company that builds nuclear weapons",
+      "A committee that sells electricity",
+      "An agency that manufactures rocket fuel"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "The IAEA (established 1957) monitors nuclear safeguards, promotes civilian nuclear technology, and verifies non-proliferation treaties."
+  },
+  {
+    "classLevel": 7,
+    "subject": "GK",
+    "chapter": "Chapter 6: World Organizations, Treaties, Summits & Global Governance",
+    "question": "Where is the Secretariat of SAARC (South Asian Association for Regional Cooperation) located?",
+    "options": [
+      "Kathmandu, Nepal",
+      "New Delhi, India",
+      "Dhaka, Bangladesh",
+      "Colombo, Sri Lanka"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "The SAARC Secretariat was established in Kathmandu, Nepal in 1987 to facilitate regional dialogue across 8 South Asian member states."
+  },
+  {
+    "classLevel": 7,
+    "subject": "GK",
+    "chapter": "Chapter 6: World Organizations, Treaties, Summits & Global Governance",
+    "question": "What is the 'Universal Declaration of Human Rights' (UDHR) adopted by the UN General Assembly on 10 December 1948?",
+    "options": [
+      "A milestone milestone proclamation setting out 30 fundamental human rights to be universally protected for all human beings everywhere (celebrated as Human Rights Day)",
+      "A constitution for the United States",
+      "A trade agreement between 10 countries",
+      "A tax collection rule"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "Adopted under the leadership of Eleanor Roosevelt on 10 Dec 1948 in Paris, the UDHR articulates inalienable human dignities and fundamental liberties."
+  },
+  {
+    "classLevel": 7,
+    "subject": "GK",
+    "chapter": "Chapter 6: World Organizations, Treaties, Summits & Global Governance",
+    "question": "Which global environmental treaty signed in 1987 successfully phased out ozone-depleting substances (Chlorofluorocarbons / CFCs)?",
+    "options": [
+      "The Montreal Protocol",
+      "The Kyoto Protocol",
+      "The Paris Agreement",
+      "The Basel Convention"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "The 1987 Montreal Protocol is celebrated as the most universally ratified and successful multilateral environmental treaty, healing the stratospheric ozone layer."
+  },
+  {
+    "classLevel": 7,
+    "subject": "GK",
+    "chapter": "Chapter 6: World Organizations, Treaties, Summits & Global Governance",
+    "question": "What is 'INTERPOL' (International Criminal Police Organization), headquartered in Lyon, France?",
+    "options": [
+      "The world's largest international police organization that facilitates cross-border police cooperation and crime control across 196 member countries",
+      "A global court that sentences kings",
+      "A private security company",
+      "A border patrol between two countries"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "Interpol enables law enforcement agencies worldwide to share biometric databases, track transnational criminals, and issue Red Notices."
+  },
+  {
+    "classLevel": 7,
+    "subject": "GK",
+    "chapter": "Chapter 6: World Organizations, Treaties, Summits & Global Governance",
+    "question": "Which specialized UN agency leads international efforts to defeat hunger, improve agricultural nutrition, and food security, headquartered in Rome, Italy?",
+    "options": [
+      "Food and Agriculture Organization (FAO)",
+      "WFP",
+      "IFAD",
+      "UNEP"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "The FAO (founded 16 October 1945, World Food Day) coordinates global agrarian development and famine mitigation from Rome."
+  },
+  {
+    "classLevel": 7,
+    "subject": "GK",
+    "chapter": "Chapter 6: World Organizations, Treaties, Summits & Global Governance",
+    "question": "What is the 'European Union' (EU)?",
+    "options": [
+      "A supranational political and economic union of 27 European member states with a single market, common policies, and a shared currency (the Euro in the Eurozone)",
+      "A military alliance of 5 countries",
+      "A football league only",
+      "A bank in Switzerland"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "The EU represents a unique economic and political bloc established by the Maastricht Treaty (1993), governing a single market and freedom of movement."
+  },
+  {
+    "classLevel": 7,
+    "subject": "GK",
+    "chapter": "Chapter 6: World Organizations, Treaties, Summits & Global Governance",
+    "question": "What is 'NATO' (North Atlantic Treaty Organization)?",
+    "options": [
+      "A collective defense military alliance between 32 North American and European countries governed by Article 5 (an armed attack against one is an attack against all)",
+      "A global trade network for cars",
+      "An environmental tree-planting charity",
+      "A sports federation"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "NATO was established by the 1949 Washington Treaty, anchored on collective defense solidarity among transatlantic allies."
+  },
+  {
+    "classLevel": 7,
+    "subject": "GK",
+    "chapter": "Chapter 6: World Organizations, Treaties, Summits & Global Governance",
+    "question": "What are the 17 global goals adopted by all UN Member States in 2015 as a universal call to action to end poverty, protect the planet, and ensure peace by 2030 called?",
+    "options": [
+      "Sustainable Development Goals (SDGs / 2030 Agenda)",
+      "Millennium Goals only",
+      "Kyoto Targets",
+      "G20 Resolutions"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "The UN 2030 Agenda encompasses 17 Sustainable Development Goals (SDGs) tackling poverty, inequality, climate action, clean energy, and education."
+  },
+  {
+    "classLevel": 7,
+    "subject": "GK",
+    "chapter": "Chapter 6: World Organizations, Treaties, Summits & Global Governance",
+    "question": "Which Indian diplomat served as the FIRST woman President of the United Nations General Assembly in 1953?",
+    "options": [
+      "Vijaya Lakshmi Pandit",
+      "Sarojini Naidu",
+      "Indira Gandhi",
+      "Sucheta Kripalani"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "Vijaya Lakshmi Pandit was elected as the 8th President of the UN General Assembly in 1953, the first female diplomat to hold this supreme post."
+  },
+  {
+    "classLevel": 7,
+    "subject": "GK",
+    "chapter": "Chapter 6: World Organizations, Treaties, Summits & Global Governance",
+    "question": "What is the 'International Red Cross and Red Crescent Movement', awarded three Nobel Peace Prizes, dedicated to?",
+    "options": [
+      "Providing neutral, impartial humanitarian protection and medical assistance to victims of armed conflicts and natural disasters worldwide",
+      "Building commercial hospitals for profit",
+      "Supplying weapons to soldiers",
+      "Collecting taxes for governments"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "Founded by Henry Dunant in 1863, the ICRC delivers frontline medical relief under strict humanitarian neutrality."
+  },
+  {
+    "classLevel": 7,
+    "subject": "GK",
+    "chapter": "Chapter 6: World Organizations, Treaties, Summits & Global Governance",
+    "question": "Read the statements:\nAssertion (A): The permanent membership and Veto Power of the P5 in the UN Security Council is increasingly criticized as anachronistic in 21st-century global governance.\nReason (R): The P5 composition reflects the geopolitical balance of power at the conclusion of World War II in 1945, completely excluding major democratic emerging economies like India, Brazil, Germany, Japan (G4), and the entire African continent.\nChoose the correct option:",
+    "options": [
+      "Both (A) and (R) are true, and (R) is the correct explanation of (A).",
+      "Both (A) and (R) are true, but (R) is NOT the correct explanation of (A).",
+      "(A) is true, but (R) is false.",
+      "(A) is false, but (R) is true."
+    ],
+    "correctAnswer": 0,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "UNSC reform debates highlight structural representation deficits: G4 nations (India, Japan, Germany, Brazil) advocate equitable expansion reflecting contemporary realities."
+  },
+  {
+    "classLevel": 7,
+    "subject": "GK",
+    "chapter": "Chapter 6: World Organizations, Treaties, Summits & Global Governance",
+    "question": "Spot the IMPOSTER in the following international organizations and their respective headquarters:\nGroup:\n1. International Court of Justice (ICJ) - The Hague, Netherlands\n2. World Health Organization (WHO) - Geneva, Switzerland\n3. UNESCO - Paris, France\n4. International Monetary Fund (IMF) - Tokyo, Japan",
+    "options": [
+      "Organization 1",
+      "Organization 2",
+      "Organization 3",
+      "Organization 4 (The IMF is headquartered in WASHINGTON, D.C., USA, not Tokyo)"
+    ],
+    "correctAnswer": 3,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "The IMF and the World Bank are headquartered in Washington, D.C., USA, as stipulated by the 1944 Bretton Woods agreement."
+  },
+  {
+    "classLevel": 7,
+    "subject": "GK",
+    "chapter": "Chapter 6: World Organizations, Treaties, Summits & Global Governance",
+    "question": "What historic achievement was realized at the New Delhi G20 Summit in September 2023 under India's leadership regarding multilateral representation?",
+    "options": [
+      "The induction of the AFRICAN UNION (comprising 55 African nations) as a permanent full member of the G20, amplifying Global South representation",
+      "The dissolution of the United Nations",
+      "The creation of a single global currency",
+      "The banning of all sea trade"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "India championed the formal inclusion of the 55-nation African Union as a permanent member, transforming G20 into a truly representative global forum."
+  },
+  {
+    "classLevel": 7,
+    "subject": "GK",
+    "chapter": "Chapter 6: World Organizations, Treaties, Summits & Global Governance",
+    "question": "Match Column I (UN Specialized Organs / Agencies) with Column II (Mandates / Responsibilities):\n(a) UNHCR -> (i) Protection and humanitarian assistance for refugees and displaced persons\n(b) UNEP  -> (ii) Environmental agenda, climate governance, and biodiversity conservation\n(c) ILO   -> (iii) Setting international labor standards, worker rights, and social justice\n(d) WIPO  -> (iv) Protection and promotion of Intellectual Property (patents, copyrights)",
+    "options": [
+      "a-(i), b-(ii), c-(iii), d-(iv)",
+      "a-(ii), b-(i), c-(iv), d-(iii)",
+      "a-(iv), b-(iii), c-(ii), d-(i)",
+      "a-(iii), b-(iv), c-(i), d-(ii)"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "UNHCR = Refugees; UNEP = Environment; ILO = Labor standards; WIPO = Intellectual property rights."
+  },
+  {
+    "classLevel": 7,
+    "subject": "GK",
+    "chapter": "Chapter 6: World Organizations, Treaties, Summits & Global Governance",
+    "question": "Read the statements regarding the Non-Aligned Movement (NAM):\nStatement 1: NAM was founded during the Cold War in 1961 at Belgrade under the leadership of Jawaharlal Nehru (India), Josip Broz Tito (Yugoslavia), Gamal Abdel Nasser (Egypt), Kwame Nkrumah (Ghana), and Sukarno (Indonesia).\nStatement 2: NAM countries chose not to formally align with either the US Western Bloc or the Soviet Eastern Bloc.\nStatement 3: NAM was a military alliance that fought in World War I.\nWhich statements are TRUE?",
+    "options": [
+      "Statements 1 and 2 only",
+      "Statements 2 and 3 only",
+      "Statements 1 and 3 only",
+      "All Statements 1, 2, and 3"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "Statement 3 is false (NAM was an anti-imperialist diplomatic bloc founded in 1961, not a WWI military alliance). Statements 1 and 2 are true."
+  },
+  {
+    "classLevel": 7,
+    "subject": "GK",
+    "chapter": "Chapter 6: World Organizations, Treaties, Summits & Global Governance",
+    "question": "What is the 'International Criminal Court' (ICC) established by the 1998 Rome Statute?",
+    "options": [
+      "A permanent independent judicial institution that prosecutes individuals accused of the gravest international crimes: Genocide, Crimes Against Humanity, War Crimes, and the Crime of Aggression",
+      "A court for traffic violations between countries",
+      "A private arbitration firm for sports disputes",
+      "A tax collection agency in Europe"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "The ICC (based in The Hague) exercises jurisdiction over individuals for core atrocity crimes under the principle of complementarity."
+  },
+  {
+    "classLevel": 7,
+    "subject": "GK",
+    "chapter": "Chapter 6: World Organizations, Treaties, Summits & Global Governance",
+    "question": "What is the 'Global South' concept in contemporary international relations?",
+    "options": [
+      "A geopolitical and economic term referring broadly to developing, emerging, and low-income nations across Asia, Africa, and Latin America advocating for equitable global financial and climate justice",
+      "Nations located only in the southern hemisphere below the equator",
+      "A military alliance of 10 island nations",
+      "Countries that experience warm summers only"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "The Global South represents a political-economic coalition of developing nations seeking democratized global architecture and debt restructuring."
+  },
+  {
+    "classLevel": 7,
+    "subject": "GK",
+    "chapter": "Chapter 6: World Organizations, Treaties, Summits & Global Governance",
+    "question": "Consider four foundational international treaties:\n1. UN Charter (1945)\n2. Universal Declaration of Human Rights (1948)\n3. Nuclear Non-Proliferation Treaty / NPT (1968)\n4. Paris Climate Agreement (2015)\nWhat common global objective binds these historic pacts?",
+    "options": [
+      "Institutionalizing rule-based multilateral cooperation to safeguard collective security, human dignity, non-proliferation, and planetary ecological survival",
+      "Creating a single world government",
+      "Abolishing all national borders and languages",
+      "Standardizing currency across all continents"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "These treaties constitute the pillars of rules-based multilateralism, regulating sovereign state behavior for planetary security."
+  },
+  {
+    "classLevel": 7,
+    "subject": "GK",
+    "chapter": "Chapter 6: World Organizations, Treaties, Summits & Global Governance",
+    "question": "What is the 'Common But Differentiated Responsibilities' (CBDR) principle in international environmental treaties (UNFCCC)?",
+    "options": [
+      "All countries must address climate change, but developed nations that historically emitted the vast majority of greenhouse gases must take greater mitigation responsibility and provide climate finance to developing nations",
+      "All nations pay the exact same amount of money",
+      "Poor nations must stop all industries immediately",
+      "Only island nations must plant trees"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "CBDR recognizes historical emission asymmetries, establishing that developed economies must lead emissions reductions and fund adaptation in the developing world."
+  },
+  {
+    "classLevel": 7,
+    "subject": "GK",
+    "chapter": "Chapter 6: World Organizations, Treaties, Summits & Global Governance",
+    "question": "What is the 'Shanghai Cooperation Organisation' (SCO)?",
+    "options": [
+      "A major Eurasian political, economic, and defense organization comprising India, China, Russia, Pakistan, Iran, and Central Asian republics",
+      "A trade agreement between European cities",
+      "An African banking consortium",
+      "A naval fleet in the Atlantic"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "The SCO (founded 2001, headquartered in Beijing) coordinates Eurasian regional security (RATS), counter-terrorism, and trade integration."
+  },
+  {
+    "classLevel": 7,
+    "subject": "GK",
+    "chapter": "Chapter 6: World Organizations, Treaties, Summits & Global Governance",
+    "question": "What is 'UN Peacekeeping' and what iconic gear distinguishes UN peacekeeping troops worldwide?",
+    "options": [
+      "Multinational military and civilian personnel deployed by UNSC mandates to maintain peace and protect civilians in post-conflict zones, wearing distinctive BLUE HELMETS / Berets",
+      "Soldiers who wear yellow jackets and carry no communication devices",
+      "A private army hired by banks",
+      "Naval sailors who guard cruise ships"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "UN 'Blue Helmets' maintain ceasefire monitoring and civilian protection (with India historically being among the largest troop-contributing nations)."
+  },
+  {
+    "classLevel": 7,
+    "subject": "GK",
+    "chapter": "Chapter 6: World Organizations, Treaties, Summits & Global Governance",
+    "question": "What core vision for global humanity is embodied in Chapter 6 of General Knowledge?",
+    "options": [
+      "Multilateral diplomacy, international law, and global cooperation are essential instruments to resolve armed conflicts, eliminate poverty and disease, combat climate change, and build an inclusive, peaceful global community",
+      "That nations should isolate themselves completely from one another",
+      "That global problems solve themselves without international treaties",
+      "That international law applies only to small island states"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "Chapter 6 synthesizes global governance architecture, multilateral treaty frameworks, and the collective imperative for international cooperation."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Social Science",
+    "chapter": "Chapter 6: Towns, Traders and Craftspersons",
+    "question": "What historic capital city of the Cholas was a premier administrative center, temple town, and thriving hub of craftspersons on the Kaveri river delta?",
+    "options": [
+      "Thanjavur (Tanjore)",
+      "Hampi",
+      "Surat",
+      "Masulipatnam"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "Thanjavur was the majestic Chola capital, home to the Brihadisvara Temple, royal palaces, silk weavers, and bronze sculptors."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Social Science",
+    "chapter": "Chapter 6: Towns, Traders and Craftspersons",
+    "question": "What ancient sculptural casting technique was used by bronze sculptors (Sthapatis) of Thanjavur to create world-famous Chola bronze idols (like Nataraja)?",
+    "options": [
+      "Lost-Wax Technique (Cire Perdue)",
+      "Sand Casting only",
+      "Hammering method",
+      "Stone Carving"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "The Lost-Wax (Cire Perdue) technique used beeswax models coated with clay, melted out, and replaced by molten bronze to cast exquisite idols."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Social Science",
+    "chapter": "Chapter 6: Towns, Traders and Craftspersons",
+    "question": "What was a weekly market in medieval small towns where villagers brought their agricultural produce to sell and bought articles from traders called?",
+    "options": [
+      "Haat (or Hatta / Mandapika)",
+      "Zabt",
+      "Jagir",
+      "Suba"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "Medieval towns had a mandapika (mandi) for grain trade and a hatta (haat) lined with shops for weekly rural and urban commerce."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Social Science",
+    "chapter": "Chapter 6: Towns, Traders and Craftspersons",
+    "question": "What were powerful merchant associations/corporations formed by medieval Indian traders (like Manigramam and Nanadesi) to protect their trade interests called?",
+    "options": [
+      "Merchant Guilds",
+      "Trade Unions",
+      "Samantas",
+      "Panchayats"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "Merchant Guilds (like Manigramam and Nanadesi) organized caravans, negotiated trade privileges, and traded across South India and Southeast Asia."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Social Science",
+    "chapter": "Chapter 6: Towns, Traders and Craftspersons",
+    "question": "Which famous medieval nomadic trader-caravaneers transported massive quantities of grain, salt, and supplies across the country using bullock caravans (Tandas)?",
+    "options": [
+      "Banjaras",
+      "Chettiars",
+      "Bohras",
+      "Oswals"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "The Banjaras were specialized nomadic trader-transporters whose caravans (Tandas) moved food grains for armies and urban markets."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Social Science",
+    "chapter": "Chapter 6: Towns, Traders and Craftspersons",
+    "question": "What famous craft of inlaying fine Silver and Brass designs on Zinc and Copper metal objects originated in Karnataka?",
+    "options": [
+      "Bidri Craft (from Bidar)",
+      "Kalamkari",
+      "Zardozi",
+      "Chanderi"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "Bidriware, famed for its striking silver inlay on blackened zinc-copper alloy, was developed by artisans of Bidar."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Social Science",
+    "chapter": "Chapter 6: Towns, Traders and Craftspersons",
+    "question": "Which magnificent ruined medieval capital city, located on the banks of the Tungabhadra River in Karnataka, was the capital of the Vijayanagara Empire?",
+    "options": [
+      "Hampi (Vijayanagara)",
+      "Thanjavur",
+      "Surat",
+      "Golconda"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "Hampi was the fortified capital of the Vijayanagara Empire (founded 1336), celebrated for its grand architecture and vibrant bazaars."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Social Science",
+    "chapter": "Chapter 6: Towns, Traders and Craftspersons",
+    "question": "What major western port city in Gujarat was celebrated as the 'Gateway to the West' (and the embarkation port for Mecca pilgrims) during the Mughal period?",
+    "options": [
+      "Surat",
+      "Masulipatnam",
+      "Calicut",
+      "Cochin"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "Surat was the bustling emporium of western trade and the pilgrim port (Bab al-Makkah) for ships sailing to the Red Sea and Persian Gulf."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Social Science",
+    "chapter": "Chapter 6: Towns, Traders and Craftspersons",
+    "question": "What financial credit instrument (a medieval bill of exchange) issued by Surat merchant bankers was honored in distant international markets like Cairo, Basra, and Antwerp?",
+    "options": [
+      "Hundi",
+      "Zabt",
+      "Rupee",
+      "Jagir"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "A Hundi was a financial credit note recording a deposit that could be presented for payment at distant international trading banking houses."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Social Science",
+    "chapter": "Chapter 6: Towns, Traders and Craftspersons",
+    "question": "Which port city on the Andhra Coromandel coast was famous for its printed 'Kalamkari' textile trade and was fiercely contested by Golconda, the Dutch, and the English?",
+    "options": [
+      "Masulipatnam (Machilipatnam)",
+      "Surat",
+      "Hampi",
+      "Kanchipuram"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "Masulipatnam was the principal port of the Golconda kingdom, renowned for its distinctive pen-painted Kalamkari cottons."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Social Science",
+    "chapter": "Chapter 6: Towns, Traders and Craftspersons",
+    "question": "Which city in Rajasthan grew as a premier pilgrimage center around the Dargah of the revered 12th-century Sufi saint Khwaja Muinuddin Chishti and the sacred Pushkar lake?",
+    "options": [
+      "Ajmer",
+      "Jaipur",
+      "Jodhpur",
+      "Udaipur"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "Ajmer was a Chauhan capital and celebrated religious pilgrimage center housing the Chishti Dargah and ancient Pushkar lake."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Social Science",
+    "chapter": "Chapter 6: Towns, Traders and Craftspersons",
+    "question": "What prominent weaver communities of South India, such as the Saliyar and Kaikkolar, grew wealthy by donating large sums to monumental temple complexes?",
+    "options": [
+      "Saliyar and Kaikkolar Weavers",
+      "Banjaras",
+      "Lohar blacksmiths",
+      "Badhai carpenters"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "The Saliyar and Kaikkolar textile weavers accumulated substantial wealth supplying temple flags, festival cloth, and royal garments."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Social Science",
+    "chapter": "Chapter 6: Towns, Traders and Craftspersons",
+    "question": "Why was Thanjavur considered a classic multifunctional town in medieval South India?",
+    "options": [
+      "It simultaneously performed three vital urban roles: an Administrative capital with royal courts, a sacred Temple Town with bustling pilgrim festivals, and a commercial Craft Center for bronze casting and silk weaving",
+      "Because it had no temples",
+      "Because only farmers lived there",
+      "Because it was an underground town"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "Thanjavur exemplified urban multifunctionality: combining administrative governance, temple-centered urbanization, and vibrant craft guilds."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Social Science",
+    "chapter": "Chapter 6: Towns, Traders and Craftspersons",
+    "question": "How did Temple Towns (like Kanchipuram, Madurai, Tirupati, and Somnath) drive intense economic urbanization in medieval India?",
+    "options": [
+      "Temples were endowed with massive royal land grants and gold; temple authorities invested their wealth in banking and trade, attracting large populations of priests, artisans, dancers, merchants, and pilgrims to settle permanently",
+      "Temples forced all citizens to become soldiers",
+      "Temples banned all buying and selling",
+      "Temples were closed to the public"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "Temple urbanization: temple endowments generated agrarian surpluses, financed credit networks, and fostered dense markets around sacred precincts."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Social Science",
+    "chapter": "Chapter 6: Towns, Traders and Craftspersons",
+    "question": "How were the colossal stone fortifications of Hampi built without using any mortar or cementing material?",
+    "options": [
+      "The massive granite stone blocks were shaped with interlocking wedges and grooves, fitting tightly together like jigsaw puzzle pieces using pure dry masonry",
+      "They were glued with clay",
+      "They were melted together with fire",
+      "They were tied with ropes"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "Domingo Paes and archaeological records show Hampi's walls used precision interlocking dry-stone masonry without mortar."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Social Science",
+    "chapter": "Chapter 6: Towns, Traders and Craftspersons",
+    "question": "What magnificent multi-pillared musical pavilion and chariot shrine in Hampi is dedicated to Lord Vishnu?",
+    "options": [
+      "The Vittala Temple (with its famous Stone Chariot and musical pillars)",
+      "The Virupaksha Temple",
+      "The Lotus Mahal",
+      "The Queen's Bath"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "The Vittala temple in Hampi features the iconic monolithic Stone Chariot and pillared halls designed to resonate like musical instruments."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Social Science",
+    "chapter": "Chapter 6: Towns, Traders and Craftspersons",
+    "question": "What was the 'Mahanavami' festival celebrated with immense royal pomp and military reviews on the grand Mahanavami Dibba platform at Hampi?",
+    "options": [
+      "A 9-day grand festival (modern Navaratri / Durga Puja in the south) where the King received tribute from subordinate nayakas, inspected armies, and held wrestling and dance spectacles",
+      "A harvest festival for rice",
+      "A celebration for the new year only",
+      "A feast for foreign ambassadors only"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "The Vijayanagara kings used the Mahanavami platform to project imperial sovereignty, review armed contingents, and collect feudal tribute."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Social Science",
+    "chapter": "Chapter 6: Towns, Traders and Craftspersons",
+    "question": "In what decisive battle in 1565 CE was the Vijayanagara Empire defeated, leading to the sacking and ruin of the city of Hampi?",
+    "options": [
+      "The Battle of Talikota (Rakshasi-Tangadi), fought against the combined armies of the Deccan Sultanates (Bijapur, Golconda, Ahmadnagar, Bidar)",
+      "The Battle of Panipat",
+      "The Battle of Plassey",
+      "The Battle of Khanwa"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "In 1565 at Talikota, the unified confederacy of Deccan Sultanates crushed Rama Raya's army, pillaging Hampi."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Social Science",
+    "chapter": "Chapter 6: Towns, Traders and Craftspersons",
+    "question": "Why was Surat called a cosmopolitan city in the 17th century?",
+    "options": [
+      "People of all castes, creeds, and nationalities (Indians, Persians, Arabs, Portuguese, Dutch, English, and French) lived, traded, and established commercial factories there",
+      "Because everyone spoke only one language",
+      "Because it had only one shop",
+      "Because only kings were allowed to enter"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "Surat was a global cosmopolitan entrepôt hosting multi-ethnic merchant houses, textile markets, and European chartered company factories."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Social Science",
+    "chapter": "Chapter 6: Towns, Traders and Craftspersons",
+    "question": "What specialty luxury cotton textile produced in Surat was famous across Asian and European markets for its woven gold-thread borders (Zari)?",
+    "options": [
+      "Zari-bordered Cotton and Silk Textiles (Zardozi)",
+      "Kalamkari prints",
+      "Chintz prints",
+      "Muslin only"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "Surat's zari textiles (brocades with real gold and silver threads) were exported widely across West Asia, Africa, and Europe."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Social Science",
+    "chapter": "Chapter 6: Towns, Traders and Craftspersons",
+    "question": "What caused the commercial decline of Surat towards the late 17th and early 18th century?",
+    "options": [
+      "Loss of markets due to the decline of the Mughal Empire, control of sea trade routes by the Portuguese, and the rise of Bombay (Mumbai) as the English East India Company's headquarters in 1668",
+      "Surat was swallowed by an earthquake",
+      "All merchants stopped wearing clothes",
+      "The river dried up in one day"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "Surat's decline followed Mughal imperial decentralization, Maratha raids (1664/1670), and the shift of English headquarters to Bombay."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Social Science",
+    "chapter": "Chapter 6: Towns, Traders and Craftspersons",
+    "question": "Why did the Golconda rulers enforce a strict royal monopoly on the sale of textiles, spices, and diamonds in Masulipatnam?",
+    "options": [
+      "To prevent the trade from passing entirely into the hands of competing European East India companies (Dutch and English)",
+      "Because they wanted to stop all trade",
+      "Because they had no money to buy food",
+      "To destroy the city of Masulipatnam"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "The Qutb Shahi kings imposed state monopolies to prevent monopolistic takeover of maritime commerce by the Dutch and English companies."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Social Science",
+    "chapter": "Chapter 6: Towns, Traders and Craftspersons",
+    "question": "What is 'Kalamkari' textile art, which flourished in Masulipatnam and Kalahasti?",
+    "options": [
+      "The traditional craft of hand-painting or block-printing intricate floral and mythological motifs on cotton fabric using a natural bamboo reed pen ('Kalam') and vegetable dyes",
+      "Knitting wool with metal needles",
+      "Stitching shoes with leather",
+      "Painting on glass plates"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "Kalamkari (Kalam = pen, Kari = craftsmanship) employs natural mordants and vegetable dyes applied with bamboo pens on cotton cloth."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Social Science",
+    "chapter": "Chapter 6: Towns, Traders and Craftspersons",
+    "question": "What was the 'Panchalas' or 'Vishwakarma' community of craftspersons, comprising goldsmiths, bronzesmiths, blacksmiths, masons, and carpenters?",
+    "options": [
+      "Essential skilled builders and artisans who built monumental temples, royal palaces, massive tanks, and manufactured metal implements and idols",
+      "A group of wandering musicians only",
+      "Soldiers who guarded fort gates",
+      "Farmers who grew only wheat"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "The Vishwakarma (Panchala) collective united five master artisan castes essential to temple architecture, metallurgy, and royal infrastructure."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Social Science",
+    "chapter": "Chapter 6: Towns, Traders and Craftspersons",
+    "question": "What were the 'Black Towns' established by the British East India Company in newly rising port cities like Madras (Chennai), Bombay, and Calcutta?",
+    "options": [
+      "Segregated native quarters where Indian weavers, artisans, and merchant middlemen were forced to live and work, separate from the 'White' residential forts (Fort St. George / Fort William)",
+      "Towns where coal was mined",
+      "Towns painted with black paint",
+      "Towns with no street lamps"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "Colonial racial spatial segregation: European administrators occupied fortified 'White Towns', confining indigenous artisans to 'Black Towns'."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Social Science",
+    "chapter": "Chapter 6: Towns, Traders and Craftspersons",
+    "question": "Which Indian merchant banking family in Murshidabad (Bengal) became fabulously wealthy and wielded enormous political influence in 18th-century Bengal?",
+    "options": [
+      "The House of Jagat Seth",
+      "The Oswal Bankers",
+      "The Chettiar Trust",
+      "The Peshwas"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "The House of Jagat Seth ('Banker of the World') controlled Bengal's mint, revenue remittances, and treasury operations."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Social Science",
+    "chapter": "Chapter 6: Towns, Traders and Craftspersons",
+    "question": "What was the system of 'Advances' (Dadni system) introduced by European trading companies that stripped Indian weavers of their economic independence?",
+    "options": [
+      "Weavers took cash loans in advance from European agents and were legally locked into producing cloth exclusively for that company at low fixed prices, unable to sell in the open market",
+      "Weavers were given free houses",
+      "Weavers were trained to be ship captains",
+      "Weavers were paid double wages"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "The Dadni advance system bonded weavers to company procurement contracts, extinguishing their freedom to negotiate market prices."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Social Science",
+    "chapter": "Chapter 6: Towns, Traders and Craftspersons",
+    "question": "Why was bronze considered an ideal metal alloy for casting sacred temple idols in medieval India?",
+    "options": [
+      "Bronze is an alloy of Copper and Tin (Bell Metal contains greater tin), which does not rust, produces a melodious bell-like chime when struck, and allows intricate high-definition casting",
+      "Because bronze is soft like butter",
+      "Because bronze melts in cold water",
+      "Because bronze is made of pure wood"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "High-tin bell metal bronze provided superior fluidity for intricate cire-perdue molds, corrosion resistance, and sonorous resonance."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Social Science",
+    "chapter": "Chapter 6: Towns, Traders and Craftspersons",
+    "question": "Read the statements:\nAssertion (A): Medieval Indian trade networks were sustained by sophisticated indigenous credit mechanisms, specialized overland transporter communities, and transnational merchant guilds.\nReason (R): The Hundi credit instrument bypassed physical cash transit risks across continents, while Banjaras provided bulk logistical freight and guilds negotiated collective trade privileges.\nChoose the correct option:",
+    "options": [
+      "Both (A) and (R) are true, and (R) is the correct explanation of (A).",
+      "Both (A) and (R) are true, but (R) is NOT the correct explanation of (A).",
+      "(A) is true, but (R) is false.",
+      "(A) is false, but (R) is true."
+    ],
+    "correctAnswer": 0,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "Indian commercial capitalism combined sophisticated financial credit (Hundis), specialized transport logistics (Banjaras), and corporate merchant guilds."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Social Science",
+    "chapter": "Chapter 6: Towns, Traders and Craftspersons",
+    "question": "Spot the IMPOSTER in the following medieval Indian craft centers and their signature artisanal products:\nGroup:\n1. Bidar - Bidriware (Silver inlay on blackened zinc-copper alloy)\n2. Masulipatnam - Kalamkari hand-painted dyed cottons\n3. Surat - Zari-embroidered textiles and global Hundi banking\n4. Thanjavur - Industrial steam-powered railway engine manufacturing",
+    "options": [
+      "Center 1",
+      "Center 2",
+      "Center 3",
+      "Center 4 (Thanjavur was celebrated for CHOLA BRONZE IDOL CASTING and silk weaving, not 19th-century railway engines)"
+    ],
+    "correctAnswer": 3,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "Center 4 is an absurd anachronism: medieval Thanjavur was famed for cire-perdue bronze sculpture, temple silk, and veena instruments."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Social Science",
+    "chapter": "Chapter 6: Towns, Traders and Craftspersons",
+    "question": "Analyze the shifting spatial dynamics of urbanization in 17th–18th century India:\nHow did the rise of colonial port cities (Madras, Calcutta, Bombay) cause the decline of traditional emporia like Surat and Masulipatnam?",
+    "options": [
+      "European chartered companies secured naval hegemony, monopolized maritime shipping routes, redirected raw materials to their fortified presidency ports, and forced weavers into subordinated wage-labor networks",
+      "Because all artisans voluntarily left India",
+      "Because the Indian Ocean dried up",
+      "Because European ships were made of glass"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "Colonial mercantilism restructured Indian urban geography: armed naval dominance drained trade from indigenous emporia to fortified colonial presidency ports."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Social Science",
+    "chapter": "Chapter 6: Towns, Traders and Craftspersons",
+    "question": "Match Column I (Medieval Trade / Craft Centers) with Column II (Prominent Distinctive Characteristics):\n(a) Hampi        -> (i) Fortified capital with interlocking mortar-less granite masonry & lively bazaars\n(b) Surat        -> (ii) Emporium of Western trade, pilgrim port to Mecca, famous for Zari & Hundis\n(c) Masulipatnam -> (iii) Coromandel port city, center of Kalamkari cottons & Qutb Shahi monopolies\n(d) Murshidabad  -> (iv) Bengal silk capital on Bhagirathi river, home to the wealthy Jagat Seths",
+    "options": [
+      "a-(i), b-(ii), c-(iii), d-(iv)",
+      "a-(ii), b-(i), c-(iv), d-(iii)",
+      "a-(iv), b-(iii), c-(ii), d-(i)",
+      "a-(iii), b-(iv), c-(i), d-(ii)"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "Accurate historical profiling: Hampi (Vijayanagara); Surat (Mughal emporium); Masulipatnam (Coromandel port); Murshidabad (Bengal silk & banking)."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Social Science",
+    "chapter": "Chapter 6: Towns, Traders and Craftspersons",
+    "question": "Read the statements regarding the Lost-Wax (Cire Perdue) bronze casting technique:\nStatement 1: A beeswax image was first sculpted, coated with clay, and allowed to dry in the sun.\nStatement 2: The clay mold was heated to drain out molten wax through a tiny pinhole, and molten bronze was poured into the hollow cavity.\nStatement 3: Once cooled, the clay casing was carefully broken away to reveal a smooth, solid bronze statue that was then cleaned and polished.\nWhich statements are TRUE?",
+    "options": [
+      "All Statements 1, 2, and 3 are TRUE",
+      "Statements 1 and 2 only",
+      "Statements 2 and 3 only",
+      "Statements 1 and 3 only"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "All three statements accurately detail the sequential stages of the ancient Indian lost-wax (cire perdue) metallurgical process."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Social Science",
+    "chapter": "Chapter 6: Towns, Traders and Craftspersons",
+    "question": "What was the socio-economic role of 'Samantas' (feudal lords / chiefs) in the emergence of small medieval towns (Mandapikas and Hattas)?",
+    "options": [
+      "Samantas built fortified palaces near markets, levied commercial transit tolls on traders, and donated the right to collect market taxes to temples in exchange for religious legitimacy",
+      "Samantas lived as forest hermits",
+      "Samantas abolished all private trade",
+      "Samantas built ships to invade Europe"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "Feudal lords extracted tolls on commodities (sugar, butter, cloth, salt) and patronized temple endowments with inscribed taxation rights."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Social Science",
+    "chapter": "Chapter 6: Towns, Traders and Craftspersons",
+    "question": "Why did European travel chroniclers like Domingo Paes (Portuguese) and Duarte Barbosa express immense awe at the wealth of Hampi's bazaars?",
+    "options": [
+      "The markets were overflowing with ruby, diamond, and pearl jewelry sold openly on streets, alongside Persian war horses, fine textiles, and precious spices",
+      "Because Hampi had no people",
+      "Because everything was made of iron",
+      "Because all goods were imported from America"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "Paes and Barbosa documented open street diamond markets, global equine trade, and bustling multi-ethnic commerce in 16th-century Vijayanagara."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Social Science",
+    "chapter": "Chapter 6: Towns, Traders and Craftspersons",
+    "question": "How did the 'Kalamkari' textiles of Golconda and Coromandel conquer international trade networks in Southeast Asia and Europe?",
+    "options": [
+      "Their brilliant natural vegetable dyes were exceptionally color-fast (resisting fading upon washing), while their exotic hand-painted Chintz designs appealed to European nobility and Indonesian spice traders",
+      "Because they were made of plastic",
+      "Because they were given away for free",
+      "Because European factories could not make any cloth"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "Indian mordant-dyeing chemistry created vibrant, wash-fast calicos and chintzes, making Indian textiles the preeminent global trade currency."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Social Science",
+    "chapter": "Chapter 6: Towns, Traders and Craftspersons",
+    "question": "Consider four merchant trading communities of medieval India:\n1. Chettiars (Tamil Nadu)\n2. Marwari Oswals (Rajasthan & North India)\n3. Gujarati Baniyas and Muslim Bohras\n4. Banjaras (Nomadic caravan transporters)\nWhat structural role did they collectively perform in the national economy?",
+    "options": [
+      "They integrated diverse geographic regions into a unified trans-continental commercial and financial web, facilitating commodity exchange and capital flows",
+      "They only traded within their own single villages",
+      "They destroyed all money and used barter only",
+      "They served exclusively as palace cooks"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "These mercantile networks formed a Pan-Indian commercial infrastructure linking rural agrarian hinterlands with global oceanic trade."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Social Science",
+    "chapter": "Chapter 6: Towns, Traders and Craftspersons",
+    "question": "What does the English traveler Peter Mundy's 17th-century eyewitness account reveal about the logistical scale of a Banjara 'Tanda'?",
+    "options": [
+      "A single Tanda caravan comprised up to 14,000 to 20,000 bullocks laden with grain, moving with families, children, and livestock over hundreds of miles to feed cities and military camps",
+      "Banjaras traveled in flying carts",
+      "Banjaras carried goods on their heads only",
+      "A Tanda had only one donkey"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "Peter Mundy recorded giant Banjara tandas with over 14,000 oxen transporting grain, functioning as autonomous nomadic freight corporations."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Social Science",
+    "chapter": "Chapter 6: Towns, Traders and Craftspersons",
+    "question": "How did the invention and usage of the 'Hundi' demonstrate the sophisticated level of financial capitalism in medieval India?",
+    "options": [
+      "It proved the existence of an intricate inter-regional banking network based on trust, merchant creditworthiness, and standardized financial instruments operating across thousands of kilometers",
+      "It showed that paper did not exist",
+      "It proved that kings had no gold",
+      "It was used to buy ships from pirates"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "Hundis reflected mature indigenous mercantile capitalism, combining credit discounting, foreign exchange, and risk-hedged capital remittance."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Social Science",
+    "chapter": "Chapter 6: Towns, Traders and Craftspersons",
+    "question": "What master socio-economic narrative is highlighted in Chapter 6 of NCERT Class 7 History?",
+    "options": [
+      "The vibrancy of medieval Indian urban life, where specialized artisans, flourishing merchant guilds, dynamic pilgrimage temple towns, and world-class manufacturing ports formed a globally dominant trade ecosystem before colonial restructuring",
+      "A period of total poverty and complete trade collapse",
+      "An era without any towns or crafts",
+      "The destruction of all Indian textiles"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "Chapter 6 celebrates the economic sophistication, architectural vibrancy, artisanal mastery, and global trade preeminence of medieval India."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Hindi Grammar",
+    "chapter": "Chapter 6: संज्ञा और उसके भेद",
+    "question": "किसी व्यक्ति, वस्तु, स्थान, प्राणी या भाव के नाम का बोध कराने वाले सार्थक शब्दों को व्याकरण में क्या कहते हैं?",
+    "options": [
+      "संज्ञा (Noun)",
+      "सर्वनाम",
+      "विशेषण",
+      "क्रिया"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "संज्ञा: किसी व्यक्ति, वस्तु, स्थान, प्राणी या भाव के नाम को संज्ञा कहते हैं।"
+  },
+  {
+    "classLevel": 7,
+    "subject": "Hindi Grammar",
+    "chapter": "Chapter 6: संज्ञा और उसके भेद",
+    "question": "हिंदी व्याकरण में संज्ञा के मुख्य रूप से कितने भेद माने गए हैं?",
+    "options": [
+      "तीन मुख्य भेद (1. व्यक्तिवाचक संज्ञा, 2. जातिवाचक संज्ञा, 3. भाववाचक संज्ञा)",
+      "पाँच मुख्य भेद",
+      "दो मुख्य भेद",
+      "चार मुख्य भेद"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "संज्ञा के 3 मुख्य भेद हैं: व्यक्तिवाचक, जातिवाचक (जिसके अंतर्गत द्रव्यवाचक व समूहवाचक आते हैं), और भाववाचक।"
+  },
+  {
+    "classLevel": 7,
+    "subject": "Hindi Grammar",
+    "chapter": "Chapter 6: संज्ञा और उसके भेद",
+    "question": "जिन संज्ञा शब्दों से किसी एक 'विशेष' व्यक्ति, विशेष प्राणी, विशेष वस्तु या विशेष स्थान का बोध होता है, उन्हें क्या कहते हैं?",
+    "options": [
+      "व्यक्तिवाचक संज्ञा (Proper Noun - जैसे: भारत, गंगा, हिमालय, महात्मा गांधी, रामायण)",
+      "जातिवाचक संज्ञा",
+      "भाववाचक संज्ञा",
+      "द्रव्यवाचक संज्ञा"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "किसी विशिष्ट सत्ता, व्यक्ति या भौगोलिक नाम का बोध कराने वाले शब्द 'व्यक्तिवाचक संज्ञा' कहलाते हैं।"
+  },
+  {
+    "classLevel": 7,
+    "subject": "Hindi Grammar",
+    "chapter": "Chapter 6: संज्ञा और उसके भेद",
+    "question": "जिन संज्ञा शब्दों से किसी प्राणी, वस्तु या स्थान की 'संपूर्ण जाति या वर्ग' का बोध होता है, उन्हें क्या कहते हैं?",
+    "options": [
+      "जातिवाचक संज्ञा (Common Noun - जैसे: नदी, पर्वत, लड़का, देश, नगर, पुस्तक)",
+      "व्यक्तिवाचक संज्ञा",
+      "भाववाचक संज्ञा",
+      "सर्वनाम"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "संपूर्ण प्रजाति, वर्ग या श्रेणी का सामान्य बोध कराने वाले शब्द 'जातिवाचक संज्ञा' कहलाते हैं।"
+  },
+  {
+    "classLevel": 7,
+    "subject": "Hindi Grammar",
+    "chapter": "Chapter 6: संज्ञा और उसके भेद",
+    "question": "जिन शब्दों से किसी पदार्थ के गुण, दोष, दशा, अवस्था, स्वभाव या भाव का बोध होता है और जिन्हें केवल अनुभव किया जा सकता है, उन्हें क्या कहते हैं?",
+    "options": [
+      "भाववाचक संज्ञा (Abstract Noun - जैसे: मिठास, बचपन, सुंदरता, क्रोध, ईमानदारी, बुढ़ापा)",
+      "जातिवाचक संज्ञा",
+      "द्रव्यवाचक संज्ञा",
+      "व्यक्तिवाचक संज्ञा"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "अमूर्त गुण, भाव, दशा और अवस्था का बोध कराने वाले शब्द 'भाववाचक संज्ञा' कहलाते हैं।"
+  },
+  {
+    "classLevel": 7,
+    "subject": "Hindi Grammar",
+    "chapter": "Chapter 6: संज्ञा और उसके भेद",
+    "question": "जिन संज्ञा शब्दों से किसी धातु, द्रव्य, तरल या ठोस पदार्थ का बोध होता है जिन्हें नापा या तौला जा सकता है, उन्हें क्या कहते हैं?",
+    "options": [
+      "द्रव्यवाचक संज्ञा (Material Noun - जैसे: सोना, चाँदी, दूध, पानी, तेल, गेहूँ)",
+      "समूहवाचक संज्ञा",
+      "भाववाचक संज्ञा",
+      "व्यक्तिवाचक संज्ञा"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "माप-तोल योग्य धातुओं, खनिजों और द्रवों के नाम 'द्रव्यवाचक संज्ञा' (जातिवाचक का उप-भेद) कहलाते हैं।"
+  },
+  {
+    "classLevel": 7,
+    "subject": "Hindi Grammar",
+    "chapter": "Chapter 6: संज्ञा और उसके भेद",
+    "question": "जिन संज्ञा शब्दों से व्यक्तियों या वस्तुओं के 'समूह अथवा समुदाय' का बोध होता है, उन्हें क्या कहते हैं?",
+    "options": [
+      "समूहवाचक / समुदायवाचक संज्ञा (Collective Noun - जैसे: कक्षा, सेना, सभा, झुंड, भीड़, गुच्छा)",
+      "द्रव्यवाचक संज्ञा",
+      "व्यक्तिवाचक संज्ञा",
+      "भाववाचक संज्ञा"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "समूह या झुंड का एकवचन रूप में बोध कराने वाले शब्द 'समूहवाचक संज्ञा' कहलाते हैं।"
+  },
+  {
+    "classLevel": 7,
+    "subject": "Hindi Grammar",
+    "chapter": "Chapter 6: संज्ञा और उसके भेद",
+    "question": "'गंगा भारत की सबसे पवित्र नदी है।' वाक्य में 'गंगा' और 'नदी' क्रमशः कौन-सी संज्ञाएँ हैं?",
+    "options": [
+      "'गंगा' व्यक्तिवाचक संज्ञा है और 'नदी' जातिवाचक संज्ञा है",
+      "दोनों व्यक्तिवाचक हैं",
+      "दोनों जातिवाचक हैं",
+      "'गंगा' भाववाचक है और 'नदी' द्रव्यवाचक है"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "'गंगा' एक विशिष्ट नदी का नाम है (व्यक्तिवाचक); 'नदी' संपूर्ण जलधाराओं की जाति है (जातिवाचक)।"
+  },
+  {
+    "classLevel": 7,
+    "subject": "Hindi Grammar",
+    "chapter": "Chapter 6: संज्ञा और उसके भेद",
+    "question": "'बच्चा' जातिवाचक संज्ञा शब्द से बनने वाली सही भाववाचक संज्ञा क्या होगी?",
+    "options": [
+      "बचपन",
+      "बच्चे",
+      "बचपनापन",
+      "बालक"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "'बच्चा' में 'पन' प्रत्यय लगने से भाववाचक संज्ञा 'बचपन' बनती है।"
+  },
+  {
+    "classLevel": 7,
+    "subject": "Hindi Grammar",
+    "chapter": "Chapter 6: संज्ञा और उसके भेद",
+    "question": "'सुंदर' विशेषण शब्द से बनने वाली शुद्ध भाववाचक संज्ञा कौन-सी है?",
+    "options": [
+      "सुंदरता अथवा सौंदर्य",
+      "सुंदरी",
+      "सुंदरतम",
+      "सुंदरपना"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "सुंदर + ता = सुंदरता ; सुंदर + य = सौंदर्य (भाववाचक संज्ञाएँ)।"
+  },
+  {
+    "classLevel": 7,
+    "subject": "Hindi Grammar",
+    "chapter": "Chapter 6: संज्ञा और उसके भेद",
+    "question": "'हँसना' क्रिया शब्द से बनने वाली सही भाववाचक संज्ञा क्या है?",
+    "options": [
+      "हँसी",
+      "हँसोड़",
+      "हँसमुख",
+      "हँसनापन"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "'हँसना' क्रिया में 'ई' प्रत्यय जुड़ने से भाववाचक संज्ञा 'हँसी' बनती है।"
+  },
+  {
+    "classLevel": 7,
+    "subject": "Hindi Grammar",
+    "chapter": "Chapter 6: संज्ञा और उसके भेद",
+    "question": "निम्नलिखित में से 'समूहवाचक संज्ञा' का सही उदाहरण कौन-सा है?",
+    "options": [
+      "सेना, कक्षा, चाबियों का गुच्छा, भीड़",
+      "सोना, चाँदी",
+      "मिठास, खटास",
+      "राम, श्याम"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "सेना, कक्षा, गुच्छा, भीड़ - व्यक्तियों/वस्तुओं के समूह का बोध कराते हैं।"
+  },
+  {
+    "classLevel": 7,
+    "subject": "Hindi Grammar",
+    "chapter": "Chapter 6: संज्ञा और उसके भेद",
+    "question": "भाववाचक संज्ञाओं का निर्माण मुख्य रूप से कितने प्रकार के शब्दों से किया जाता है?",
+    "options": [
+      "पाँच प्रकार के शब्दों से (1. जातिवाचक संज्ञा से, 2. सर्वनाम से, 3. विशेषण से, 4. क्रिया से, 5. अव्यय से)",
+      "दो प्रकार के शब्दों से",
+      "आठ प्रकार के शब्दों से",
+      "केवल क्रियाओं से"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "भाववाचक संज्ञाएँ 5 स्रोतों से बनती हैं: जातिवाचक संज्ञा (मित्र→मित्रता), सर्वनाम (अपना→अपनत्व), विशेषण (मीठा→मिठास), क्रिया (लिखना→लिखाई), अव्यय (दूर→दूरी)।"
+  },
+  {
+    "classLevel": 7,
+    "subject": "Hindi Grammar",
+    "chapter": "Chapter 6: संज्ञा और उसके भेद",
+    "question": "सर्वनाम शब्दों से बनी भाववाचक संज्ञाओं का सही समूह कौन-सा है?",
+    "options": [
+      "अपना -> अपनत्व / अपनापन ; मम -> ममता / ममत्व ; निज -> निजत्व ; सर्व -> सर्वस्व",
+      "लड़का -> लड़कपन",
+      "सफेद -> सफेदी",
+      "पढ़ना -> पढ़ाई"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "सर्वनाम 'अपना, मम, निज, सर्व' से 'अपनत्व, ममता, निजत्व, सर्वस्व' बनते हैं।"
+  },
+  {
+    "classLevel": 7,
+    "subject": "Hindi Grammar",
+    "chapter": "Chapter 6: संज्ञा और उसके भेद",
+    "question": "विशेषण शब्दों से बनी भाववाचक संज्ञाओं का सही समूह कौन-सा है?",
+    "options": [
+      "मीठा -> मिठास ; चतुर -> चतुराई ; वीर -> वीरता ; आलसी -> आलस्य ; कठोर -> कठोरता",
+      "मनुष्य -> मनुष्यता",
+      "हँसना -> हँसी",
+      "अहम -> अहंकार"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "विशेषण 'मीठा, चतुर, वीर, आलसी, कठोर' से 'मिठास, चतुराई, वीरता, आलस्य, कठोरता' बनते हैं।"
+  },
+  {
+    "classLevel": 7,
+    "subject": "Hindi Grammar",
+    "chapter": "Chapter 6: संज्ञा और उसके भेद",
+    "question": "क्रिया शब्दों से बनी भाववाचक संज्ञाओं का सही समूह कौन-सा है?",
+    "options": [
+      "सजाना -> सजावट ; थकना -> थकावट / थकान ; चढ़ना -> चढ़ाई ; बहना -> बहाव ; दौड़ना -> दौड़",
+      "पशु -> पशुता",
+      "सुंदर -> सुंदरता",
+      "आप -> आपा"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "क्रिया 'सजाना, थकना, चढ़ना, बहना, दौड़ना' से 'सजावट, थकावट, चढ़ाई, बहाव, दौड़' बनते हैं।"
+  },
+  {
+    "classLevel": 7,
+    "subject": "Hindi Grammar",
+    "chapter": "Chapter 6: संज्ञा और उसके भेद",
+    "question": "अव्यय शब्दों से बनी भाववाचक संज्ञाओं का सही समूह कौन-सा है?",
+    "options": [
+      "निकट -> निकटता ; दूर -> दूरी ; मना -> मनाही ; शीघ्र -> शीघ्रता ; नीचे -> नीचाई",
+      "बालक -> बालपन",
+      "गर्म -> गर्मी",
+      "लिखना -> लेख"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "अव्यय 'निकट, दूर, मना, शीघ्र' से 'निकटता, दूरी, मनाही, शीघ्रता' भाववाचक संज्ञाएँ बनती हैं।"
+  },
+  {
+    "classLevel": 7,
+    "subject": "Hindi Grammar",
+    "chapter": "Chapter 6: संज्ञा और उसके भेद",
+    "question": "'आज के युग में भी हरिश्चंद्रों की कमी नहीं है।' वाक्य में रेखांकित शब्द 'हरिश्चंद्रों' किस संज्ञा के रूप में प्रयुक्त हुआ है?",
+    "options": [
+      "जातिवाचक संज्ञा के रूप में (क्योंकि यहाँ 'हरिश्चंद्र' किसी एक व्यक्ति का नाम न होकर 'सत्यवादी एवं निष्ठावान व्यक्तियों के संपूर्ण वर्ग' का बोध करा रहा है)",
+      "व्यक्तिवाचक संज्ञा के रूप में",
+      "भाववाचक संज्ञा के रूप में",
+      "द्रव्यवाचक संज्ञा के रूप में"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "जब कोई व्यक्तिवाचक नाम अपने विशिष्ट गुण के कारण पूरे वर्ग/जाति का प्रतीक बन जाए (और बहुवचन में प्रयुक्त हो), तो वह जातिवाचक संज्ञा बन जाता है।"
+  },
+  {
+    "classLevel": 7,
+    "subject": "Hindi Grammar",
+    "chapter": "Chapter 6: संज्ञा और उसके भेद",
+    "question": "'गांधीजी ने देश को सत्य और अहिंसा का पाठ पढ़ाया।' वाक्य में 'गांधीजी' किस संज्ञा के रूप में प्रयुक्त हुआ है?",
+    "options": [
+      "व्यक्तिवाचक संज्ञा के रूप में (यद्यपि 'गांधी' एक जाति/उपनाम है, परन्तु यहाँ यह केवल एक विशिष्ट व्यक्ति 'महात्मा मोहनदास करमचंद गांधी' के लिए रूढ़ हुआ है)",
+      "जातिवाचक संज्ञा के रूप में",
+      "भाववाचक संज्ञा के रूप में",
+      "समूहवाचक संज्ञा के रूप में"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "जब कोई जातिसूचक शब्द किसी एक ही विशिष्ट ऐतिहासिक महापुरुष के लिए रूढ़ हो जाता है (जैसे: गांधीजी, नेताजी, शास्त्रीजी), तो वह व्यक्तिवाचक संज्ञा बन जाता है।"
+  },
+  {
+    "classLevel": 7,
+    "subject": "Hindi Grammar",
+    "chapter": "Chapter 6: संज्ञा और उसके भेद",
+    "question": "'बुढ़ापा मनुष्य के जीवन का एक अभिशाप है।' वाक्य में 'बुढ़ापा' कौन-सी संज्ञा है?",
+    "options": [
+      "भाववाचक संज्ञा (अवस्था सूचक)",
+      "जातिवाचक संज्ञा",
+      "व्यक्तिवाचक संज्ञा",
+      "द्रव्यवाचक संज्ञा"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "'बुढ़ापा' 'बूढ़ा' विशेषण/जातिवाचक से बनी अवस्था-सूचक भाववाचक संज्ञा है।"
+  },
+  {
+    "classLevel": 7,
+    "subject": "Hindi Grammar",
+    "chapter": "Chapter 6: संज्ञा और उसके भेद",
+    "question": "'पंडित' जातिवाचक संज्ञा से बनने वाली शुद्ध भाववाचक संज्ञा क्या होगी?",
+    "options": [
+      "पांडित्य (अथवा पांडित्यभाव)",
+      "पंडिताई",
+      "पंडितजी",
+      "पंडिताइन"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "'पंडित' में 'य' प्रत्यय जुड़ने से आदि-स्वर वृद्धि होकर शुद्ध भाववाचक संज्ञा 'पांडित्य' बनती है।"
+  },
+  {
+    "classLevel": 7,
+    "subject": "Hindi Grammar",
+    "chapter": "Chapter 6: संज्ञा और उसके भेद",
+    "question": "निम्नलिखित में से कौन-सा शब्द 'भाववाचक संज्ञा' नहीं है?",
+    "options": [
+      "'मिठाई' (क्योंकि मिठाई एक खाद्य वस्तु है - जातिवाचक संज्ञा है ; इसकी भाववाचक संज्ञा 'मिठास' होती है)",
+      "'मिठास'",
+      "'सुंदरता'",
+      "'चतुराई'"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "'मिठाई' मूर्त खाद्य पदार्थ (जातिवाचक) है; अमूर्त स्वाद का भाव 'मिठास' (भाववाचक संज्ञा) है।"
+  },
+  {
+    "classLevel": 7,
+    "subject": "Hindi Grammar",
+    "chapter": "Chapter 6: संज्ञा और उसके भेद",
+    "question": "'सोना, चाँदी, ताँबा, पीतल, लोहा' किस संज्ञा वर्ग के अंतर्गत आते हैं?",
+    "options": [
+      "द्रव्यवाचक संज्ञा (Material Nouns)",
+      "समूहवाचक संज्ञा",
+      "भाववाचक संज्ञा",
+      "व्यक्तिवाचक संज्ञा"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "सभी धातुएँ और खनिज पदार्थ 'द्रव्यवाचक संज्ञा' के अंतर्गत आते हैं।"
+  },
+  {
+    "classLevel": 7,
+    "subject": "Hindi Grammar",
+    "chapter": "Chapter 6: संज्ञा और उसके भेद",
+    "question": "'सभा में सैकड़ों लोग उपस्थित थे।' वाक्य में 'सभा' शब्द कौन-सी संज्ञा है?",
+    "options": [
+      "समूहवाचक / समुदायवाचक संज्ञा",
+      "व्यक्तिवाचक संज्ञा",
+      "भाववाचक संज्ञा",
+      "द्रव्यवाचक संज्ञा"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "'सभा' जनसमूह का बोध कराती है, अतः यह समूहवाचक संज्ञा है।"
+  },
+  {
+    "classLevel": 7,
+    "subject": "Hindi Grammar",
+    "chapter": "Chapter 6: संज्ञा और उसके भेद",
+    "question": "'शत्रु' जातिवाचक संज्ञा से बनने वाली शुद्ध भाववाचक संज्ञा क्या होगी?",
+    "options": [
+      "शत्रुता (अथवा शत्रुत्व)",
+      "शत्रुगण",
+      "शत्रुदल",
+      "शत्रुपन"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "शत्रु + ता = शत्रुता (भाववाचक संज्ञा)।"
+  },
+  {
+    "classLevel": 7,
+    "subject": "Hindi Grammar",
+    "chapter": "Chapter 6: संज्ञा और उसके भेद",
+    "question": "'अमर' विशेषण से बनने वाली सही भाववाचक संज्ञा क्या होगी?",
+    "options": [
+      "अमरता अथवा अमरत्व",
+      "अमराई",
+      "अमरपद",
+      "अमरपन"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "अमर + ता = अमरता ; अमर + त्व = अमरत्व (भाववाचक संज्ञा)।"
+  },
+  {
+    "classLevel": 7,
+    "subject": "Hindi Grammar",
+    "chapter": "Chapter 6: संज्ञा और उसके भेद",
+    "question": "'सच्चा' विशेषण से बनने वाली शुद्ध भाववाचक संज्ञा क्या है?",
+    "options": [
+      "सच्चाई",
+      "सच्चापन",
+      "सच्चाता",
+      "सच्ची"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "सच्चा + आई = सच्चाई (भाववाचक संज्ञा)।"
+  },
+  {
+    "classLevel": 7,
+    "subject": "Hindi Grammar",
+    "chapter": "Chapter 6: संज्ञा और उसके भेद",
+    "question": "जब कोई भाववाचक संज्ञा शब्द 'बहुवचन' रूप में प्रयुक्त होता है (जैसे: बुराई -> बुराइयाँ, दूरी -> दूरियाँ, प्रार्थना -> प्रार्थनाएँ), तब वह किस संज्ञा में परिवर्तित हो जाता है?",
+    "options": [
+      "जातिवाचक संज्ञा में (क्योंकि भाववाचक संज्ञाएँ सदैव एकवचन में होती हैं ; बहुवचन बनते ही वे जातिवाचक बन जाती हैं)",
+      "व्यक्तिवाचक संज्ञा में",
+      "द्रव्यवाचक संज्ञा में",
+      "समूहवाचक संज्ञा में"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "महत्वपूर्ण व्याकरणिक नियम: भाववाचक संज्ञाएँ सदैव एकवचन होती हैं; बहुवचन रूप में वे जातिवाचक संज्ञा बन जाती हैं।"
+  },
+  {
+    "classLevel": 7,
+    "subject": "Hindi Grammar",
+    "chapter": "Chapter 6: संज्ञा और उसके भेद",
+    "question": "कथन और कारण को ध्यानपूर्वक पढ़ें:\nकथन (A): 'जयचंदों से देश को सदा हानि पहुँची है।' इस वाक्य में 'जयचंदों' शब्द व्यक्तिवाचक संज्ञा न होकर जातिवाचक संज्ञा है।\nकारण (R): जब किसी व्यक्तिवाचक नाम का प्रयोग उसके व्यक्तिगत रूप में न करके, उसके विशिष्ट दुर्गुण (विश्वासघात) के प्रतीक के रूप में संपूर्ण विश्वासघाती वर्ग के लिए बहुवचन में किया जाता है, तो वह जातिवाचक संज्ञा बन जाता है।\nसही विकल्प चुनें:",
+    "options": [
+      "(A) और (R) दोनों सही हैं तथा (R), (A) की सही व्याख्या करता है।",
+      "(A) और (R) दोनों सही हैं, परन्तु (R), (A) की सही व्याख्या नहीं करता।",
+      "(A) सही है, परन्तु (R) गलत है।",
+      "(A) गलत है, परन्तु (R) सही है।"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "रूढ़ गुण/अवगुण के बहुवचन सामान्यीकरण के कारण 'जयचंदों' जातिवाचक संज्ञा बन गया है।"
+  },
+  {
+    "classLevel": 7,
+    "subject": "Hindi Grammar",
+    "chapter": "Chapter 6: संज्ञा और उसके भेद",
+    "question": "Spot the IMPOSTER in the following group of मूल शब्द और उनसे निर्मित भाववाचक संज्ञाओं में:\nGroup:\n1. चोर -> चोरी (जातिवाचक संज्ञा से)\n2. निज -> निजत्व (सर्वनाम से)\n3. सरल -> सरलता (विशेषण से)\n4. पानी -> पनियाना (द्रव्यवाचक संज्ञा से भाववाचक संज्ञा)",
+    "options": [
+      "युग्म 1",
+      "युग्म 2",
+      "युग्म 3",
+      "युग्म 4 ('पनियाना' एक नामधातु क्रिया है, भाववाचक संज्ञा नहीं)"
+    ],
+    "correctAnswer": 3,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "युग्म 4 गलत है: 'पनियाना' नामधातु क्रिया (Verbal form) है, भाववाचक संज्ञा नहीं।"
+  },
+  {
+    "classLevel": 7,
+    "subject": "Hindi Grammar",
+    "chapter": "Chapter 6: संज्ञा और उसके भेद",
+    "question": "सुमेलित कीजिए (संज्ञा शब्द और उनके सही भेद):\n(क) रामायण     -> (i) व्यक्तिवाचक संज्ञा\n(ख) पर्वत      -> (ii) जातिवाचक संज्ञा\n(ग) ममता       -> (iii) भाववाचक संज्ञा\n(घ) तेल        -> (iv) द्रव्यवाचक संज्ञा",
+    "options": [
+      "क-(i), ख-(ii), ग-(iii), घ-(iv)",
+      "क-(ii), ख-(i), ग-(iv), घ-(iii)",
+      "क-(iv), ख-(iii), ग-(ii), घ-(i)",
+      "क-(iii), ख-(iv), ग-(i), घ-(ii)"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "रामायण = ग्रंथ का विशिष्ट नाम (व्यक्तिवाचक); पर्वत = जातिवाचक; ममता = भाववाचक; तेल = द्रव्यवाचक।"
+  },
+  {
+    "classLevel": 7,
+    "subject": "Hindi Grammar",
+    "chapter": "Chapter 6: संज्ञा और उसके भेद",
+    "question": "'नेताजी ने आजाद हिंद फौज का गठन किया था।' वाक्य में 'नेताजी' किस संज्ञा का उदाहरण है?",
+    "options": [
+      "व्यक्तिवाचक संज्ञा का (क्योंकि 'नेता' जातिवाचक संज्ञा होते हुए भी यहाँ केवल 'सुभाष चंद्र बोस' के लिए रूढ़ है)",
+      "जातिवाचक संज्ञा का",
+      "भाववाचक संज्ञा का",
+      "समूहवाचक संज्ञा का"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "जातिवाचक शब्द 'नेताजी' केवल नेताजी सुभाष चंद्र बोस के अर्थ में रूढ़ होने के कारण व्यक्तिवाचक संज्ञा है।"
+  },
+  {
+    "classLevel": 7,
+    "subject": "Hindi Grammar",
+    "chapter": "Chapter 6: संज्ञा और उसके भेद",
+    "question": "निम्नलिखित वाक्यों में से किस वाक्य में 'भाववाचक संज्ञा' का सही प्रयोग हुआ है?",
+    "options": [
+      "'उसकी वाणी में अपार मिठास और हृदय में दया है।' ('मिठास' और 'दया' भाववाचक संज्ञाएँ हैं)",
+      "'वह रोज चार मीठे सेब खाता है।'",
+      "'दुकानदार बहुत सारी मिठाइयाँ बेच रहा है।'",
+      "'मिठाई की दुकान खुली है।'"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "'मिठास' और 'दया' अमूर्त आंतरिक अनुभूतियाँ हैं, अतः वे शुद्ध भाववाचक संज्ञाएँ हैं।"
+  },
+  {
+    "classLevel": 7,
+    "subject": "Hindi Grammar",
+    "chapter": "Chapter 6: संज्ञा और उसके भेद",
+    "question": "'व्यक्तिवाचक संज्ञा' और 'जातिवाचक संज्ञा' में मूलभूत व्याकरणिक अंतर क्या है?",
+    "options": [
+      "व्यक्तिवाचक संज्ञा एकवचनीय, अद्वितीय और विशिष्ट सत्ता का नाम होती है ; जबकि जातिवाचक संज्ञा संपूर्ण समजातीय वर्ग/श्रेणी का सामान्य नाम होती है और इसका बहुवचन बनाया जा सकता है",
+      "व्यक्तिवाचक संज्ञा केवल जानवरों की होती है",
+      "जातिवाचक संज्ञा केवल मनुष्यों की होती है",
+      "दोनों में कोई अंतर नहीं होता"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "व्यक्तिवाचक संज्ञा अनन्य, अद्वितीय और विशिष्ट सत्ता की परिचायक है; जातिवाचक संज्ञा संपूर्ण समरूप वर्ग की सामान्य संज्ञा है।"
+  },
+  {
+    "classLevel": 7,
+    "subject": "Hindi Grammar",
+    "chapter": "Chapter 6: संज्ञा और उसके भेद",
+    "question": "'अहं' सर्वनाम से बनने वाली भाववाचक संज्ञा क्या होगी?",
+    "options": [
+      "अहंकार (अथवा अहंता)",
+      "अहंकारी",
+      "अहंवादी",
+      "अहंभावक"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "'अहं' संस्कृत सर्वनाम में 'कार' प्रत्यय जुड़ने से भाववाचक संज्ञा 'अहंकार' बनती है।"
+  },
+  {
+    "classLevel": 7,
+    "subject": "Hindi Grammar",
+    "chapter": "Chapter 6: संज्ञा और उसके भेद",
+    "question": "'पुरुष' जातिवाचक संज्ञा से बनने वाली शुद्ध भाववाचक संज्ञा क्या होगी?",
+    "options": [
+      "पौरुष (अथवा पुरुषत्व)",
+      "पुरुषार्थी",
+      "पुरुषोत्तम",
+      "महापुरुष"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "'पुरुष' में 'अण्/य' प्रत्यय से स्वर-वृद्धि होकर 'पौरुष' तथा 'त्व' प्रत्यय से 'पुरुषत्व' बनता है।"
+  },
+  {
+    "classLevel": 7,
+    "subject": "Hindi Grammar",
+    "chapter": "Chapter 6: संज्ञा और उसके भेद",
+    "question": "निम्नलिखित में से कौन-सा समूह केवल और केवल 'भाववाचक संज्ञाओं' का है?",
+    "options": [
+      "धैर्य, चतुराई, ईर्ष्या, सौंदर्य, वात्सल्य, करुणा",
+      "नदी, नगर, पर्वत, देश",
+      "सोना, घी, तेल, दूध",
+      "कक्षा, सेना, सभा, दल"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "धैर्य, चतुराई, ईर्ष्या, सौंदर्य, वात्सल्य, करुणा - सभी अमूर्त आंतरिक गुण/भाव हैं।"
+  },
+  {
+    "classLevel": 7,
+    "subject": "Hindi Grammar",
+    "chapter": "Chapter 6: संज्ञा और उसके भेद",
+    "question": "'शास्त्र' जातिवाचक संज्ञा से बनने वाली सही भाववाचक संज्ञा क्या होगी?",
+    "options": [
+      "शास्त्रीयता",
+      "शास्त्रज्ञ",
+      "शास्त्रार्थ",
+      "शास्त्रकार"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "शास्त्र + ईय = शास्त्रीय + ता = शास्त्रीयता (भाववाचक संज्ञा)।"
+  },
+  {
+    "classLevel": 7,
+    "subject": "Hindi Grammar",
+    "chapter": "Chapter 6: संज्ञा और उसके भेद",
+    "question": "'कुशल' विशेषण से बनने वाली शुद्ध भाववाचक संज्ञा क्या होगी?",
+    "options": [
+      "कौशल (अथवा कुशलता)",
+      "कुशलतापूर्वक",
+      "कुशलतापन",
+      "कुशली"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "कुशल + अण् = कौशल (आदि-स्वर वृद्धि उ→औ) अथवा कुशल + ता = कुशलता।"
+  },
+  {
+    "classLevel": 7,
+    "subject": "Hindi Grammar",
+    "chapter": "Chapter 6: संज्ञा और उसके भेद",
+    "question": "संज्ञा (Noun) के सम्यक ज्ञान का संपूर्ण हिंदी भाषा और व्याकरण में क्या मूलभूत केंद्रीय स्थान है?",
+    "options": [
+      "संज्ञा भाषा का मूलभूत नामकरण-आधार (Nominal Backbone) है, जिसके बिना संसार की किसी भी सत्ता का प्रत्यक्षीकरण, विचार-संप्रेषण, वाक्य-रचना और अन्य विकारी पदों (सर्वनाम, विशेषण, क्रिया, कारक) का निर्धारण असंभव है",
+      "संज्ञा केवल शब्दकोश का एक छोटा सा अंश है",
+      "संज्ञा का वाक्यों में कोई विशेष महत्व नहीं होता",
+      "संज्ञा केवल बच्चों के सीखने के लिए होती है"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "संज्ञा समूची भाषा का संज्ञानात्मक और व्यावहारिक मेरुदंड है, जो समस्त जगत की सत्ता को नाम और संप्रेषणीयता प्रदान करती है।"
+  }
+]

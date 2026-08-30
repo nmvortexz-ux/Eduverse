@@ -1,0 +1,545 @@
+import fs from 'fs';
+
+// -------------------------------------------------------------
+// SUBJECT 4: General Knowledge - Chapter 5: Space, Astronomy & Technology (40 Questions)
+// -------------------------------------------------------------
+const gkQuestions = [
+  // EASY (12)
+  {
+    classLevel: 7,
+    subject: "GK",
+    chapter: "Chapter 5: Science, Space Technology, Astronomy & The Universe",
+    question: "Which is the CLOSEST planet to the Sun in our solar system, completing one orbit in just 88 Earth days?",
+    options: ["Mercury", "Venus", "Mars", "Earth"],
+    correctAnswer: 0,
+    difficulty: "EASY",
+    damage: 150,
+    explanation: "Mercury orbits closest to the Sun at an average distance of ~57.9 million km."
+  },
+  {
+    classLevel: 7,
+    subject: "GK",
+    chapter: "Chapter 5: Science, Space Technology, Astronomy & The Universe",
+    question: "Which planet in our solar system is known as the 'Red Planet' due to abundant iron oxide (rust) on its surface?",
+    options: ["Mars", "Jupiter", "Saturn", "Mercury"],
+    correctAnswer: 0,
+    difficulty: "EASY",
+    damage: 150,
+    explanation: "Mars appears distinctly reddish due to pervasive ferric oxide dust covering its crust."
+  },
+  {
+    classLevel: 7,
+    subject: "GK",
+    chapter: "Chapter 5: Science, Space Technology, Astronomy & The Universe",
+    question: "Which is the LARGEST planet in our solar system, possessing a famous centuries-old anti-cyclonic storm called the 'Great Red Spot'?",
+    options: ["Jupiter", "Saturn", "Neptune", "Uranus"],
+    correctAnswer: 0,
+    difficulty: "EASY",
+    damage: 150,
+    explanation: "Jupiter is a gas giant with over 2.5 times the mass of all other solar planets combined."
+  },
+  {
+    classLevel: 7,
+    subject: "GK",
+    chapter: "Chapter 5: Science, Space Technology, Astronomy & The Universe",
+    question: "Which planet is famously adorned by a spectacular, complex ring system composed of billions of chunks of ice, rock, and dust?",
+    options: ["Saturn", "Jupiter", "Neptune", "Mars"],
+    correctAnswer: 0,
+    difficulty: "EASY",
+    damage: 150,
+    explanation: "Saturn possesses the most expansive and visually prominent planetary ring system in the solar system."
+  },
+  {
+    classLevel: 7,
+    subject: "GK",
+    chapter: "Chapter 5: Science, Space Technology, Astronomy & The Universe",
+    question: "Which planet is often called Earth's 'Twin Planet' and is the HOTTEST planet in the solar system due to a runaway greenhouse effect (465°C)?",
+    options: ["Venus", "Mercury", "Mars", "Jupiter"],
+    correctAnswer: 0,
+    difficulty: "EASY",
+    damage: 150,
+    explanation: "Venus has a dense 96% CO₂ atmosphere trapping extreme heat, making its surface hotter than Mercury."
+  },
+  {
+    classLevel: 7,
+    subject: "GK",
+    chapter: "Chapter 5: Science, Space Technology, Astronomy & The Universe",
+    question: "What is the name of the barred spiral galaxy in which our solar system and the Sun reside?",
+    options: ["The Milky Way Galaxy (Akash Ganga)", "Andromeda Galaxy", "Triangulum Galaxy", "Whirlpool Galaxy"],
+    correctAnswer: 0,
+    difficulty: "EASY",
+    damage: 150,
+    explanation: "The Milky Way (Akash Ganga) is a barred spiral galaxy containing 100–400 billion stars."
+  },
+  {
+    classLevel: 7,
+    subject: "GK",
+    chapter: "Chapter 5: Science, Space Technology, Astronomy & The Universe",
+    question: "What is the unit of astronomical distance defined as the distance that light travels through a vacuum in one Earth year (~9.46 trillion km)?",
+    options: ["Light Year (ly)", "Astronomical Unit (AU)", "Parsec", "Kilometre"],
+    correctAnswer: 0,
+    difficulty: "EASY",
+    damage: 150,
+    explanation: "1 Light Year = c × 1 year ≈ 9.46 × 10¹² km."
+  },
+  {
+    classLevel: 7,
+    subject: "GK",
+    chapter: "Chapter 5: Science, Space Technology, Astronomy & The Universe",
+    question: "Which is the national space agency of India, headquartered in Bengaluru, Karnataka?",
+    options: ["ISRO (Indian Space Research Organisation)", "NASA", "ESA", "Roscosmos"],
+    correctAnswer: 0,
+    difficulty: "EASY",
+    damage: 150,
+    explanation: "ISRO was established in 1969 by Dr. Vikram Sarabhai to harness space technology for national development."
+  },
+  {
+    classLevel: 7,
+    subject: "GK",
+    chapter: "Chapter 5: Science, Space Technology, Astronomy & The Universe",
+    question: "On 23 August 2023, India achieved a historic milestone by becoming the FIRST country in the world to softly land a spacecraft near the MOON'S SOUTH POLE under which mission?",
+    options: ["Chandrayaan-3 (Vikram lander and Pragyan rover)", "Chandrayaan-1", "Mangalyaan", "Aditya-L1"],
+    correctAnswer: 0,
+    difficulty: "EASY",
+    damage: 150,
+    explanation: "ISRO's Chandrayaan-3 successfully touched down at Shiv Shakti Point near the lunar south pole on 23 August 2023."
+  },
+  {
+    classLevel: 7,
+    subject: "GK",
+    chapter: "Chapter 5: Science, Space Technology, Astronomy & The Universe",
+    question: "What is the celestial object with gravitational pull so intense that nothing—not even light—can escape from beyond its event horizon?",
+    options: ["Black Hole", "Neutron Star", "Pulsar", "White Dwarf"],
+    correctAnswer: 0,
+    difficulty: "EASY",
+    damage: 150,
+    explanation: "A black hole is a region of spacetime where gravitational collapse produces escape velocity exceeding the speed of light."
+  },
+  {
+    classLevel: 7,
+    subject: "GK",
+    chapter: "Chapter 5: Science, Space Technology, Astronomy & The Universe",
+    question: "Which famous periodic comet visits the inner solar system and is visible from Earth with the naked eye once every 75–76 years (next expected in 2061)?",
+    options: ["Halley's Comet (1P/Halley)", "Hale-Bopp", "Encke", "Shoemaker-Levy 9"],
+    correctAnswer: 0,
+    difficulty: "EASY",
+    damage: 150,
+    explanation: "Halley's Comet is a short-period retrograde comet orbiting the Sun once every ~76 years."
+  },
+  {
+    classLevel: 7,
+    subject: "GK",
+    chapter: "Chapter 5: Science, Space Technology, Astronomy & The Universe",
+    question: "What is the closest major spiral galaxy to our own Milky Way Galaxy, located approximately 2.5 million light years away?",
+    options: ["Andromeda Galaxy (M31)", "Large Magellanic Cloud", "Sombrero Galaxy", "Pinwheel Galaxy"],
+    correctAnswer: 0,
+    difficulty: "EASY",
+    damage: 150,
+    explanation: "Andromeda (M31) is the nearest major spiral galaxy in the Local Group, containing ~1 trillion stars."
+  },
+
+  // MEDIUM (16)
+  {
+    classLevel: 7,
+    subject: "GK",
+    chapter: "Chapter 5: Science, Space Technology, Astronomy & The Universe",
+    question: "Where is the main Asteroid Belt in our solar system situated?",
+    options: [
+      "Between the orbits of MARS and JUPITER",
+      "Between Earth and Venus",
+      "Beyond Neptune only",
+      "Between Mercury and Sun"
+    ],
+    correctAnswer: 0,
+    difficulty: "MEDIUM",
+    damage: 250,
+    explanation: "The Asteroid Belt is a circumstellar disc located between the orbits of Mars and Jupiter containing Ceres, Vesta, Pallas, and Hygiea."
+  },
+  {
+    classLevel: 7,
+    subject: "GK",
+    chapter: "Chapter 5: Science, Space Technology, Astronomy & The Universe",
+    question: "Why was PLUTO reclassified from a full 'planet' to a 'dwarf planet' by the International Astronomical Union (IAU) in August 2006?",
+    options: [
+      "It failed to meet the third criterion: it has NOT 'cleared the neighborhood around its orbit' of other Kuiper Belt debris",
+      "Because Pluto melted completely",
+      "Because Pluto stopped orbiting the Sun",
+      "Because Pluto collided with Mars"
+    ],
+    correctAnswer: 0,
+    difficulty: "MEDIUM",
+    damage: 250,
+    explanation: "Pluto shares its orbital zone with numerous trans-Neptunian Kuiper belt objects, failing the dynamic orbit clearance criterion."
+  },
+  {
+    classLevel: 7,
+    subject: "GK",
+    chapter: "Chapter 5: Science, Space Technology, Astronomy & The Universe",
+    question: "What is an 'Astronomical Unit' (AU) commonly used in planetary astronomy?",
+    options: [
+      "The average mean distance from the center of the Earth to the center of the Sun (~149.6 million km)",
+      "The diameter of the Moon",
+      "The speed of a rocket",
+      "The mass of Jupiter"
+    ],
+    correctAnswer: 0,
+    difficulty: "MEDIUM",
+    damage: 250,
+    explanation: "1 AU = 149,597,870,700 metres (~150 million km), the baseline metric for interplanetary distances."
+  },
+  {
+    classLevel: 7,
+    subject: "GK",
+    chapter: "Chapter 5: Science, Space Technology, Astronomy & The Universe",
+    question: "What is India's dedicated solar observation space observatory launched by ISRO in September 2023, stationed at the Sun-Earth Lagrange Point 1 (L1)?",
+    options: ["Aditya-L1", "AstroSat", "XPoSat", "RISAT"],
+    correctAnswer: 0,
+    difficulty: "MEDIUM",
+    damage: 250,
+    explanation: "Aditya-L1 continuously monitors the solar photosphere, chromosphere, and corona from the halo orbit around Lagrange point L1 (1.5 million km)."
+  },
+  {
+    classLevel: 7,
+    subject: "GK",
+    chapter: "Chapter 5: Science, Space Technology, Astronomy & The Universe",
+    question: "What is the name of the colossal space telescope launched on Christmas Day 2021 by NASA, ESA, and CSA, using a 6.5-metre gold-coated beryllium primary mirror to observe the earliest stars?",
+    options: ["James Webb Space Telescope (JWST)", "Hubble Space Telescope", "Spitzer Space Telescope", "Kepler Space Telescope"],
+    correctAnswer: 0,
+    difficulty: "MEDIUM",
+    damage: 250,
+    explanation: "The JWST operates at Sun-Earth L2, capturing high-resolution deep-space infrared observations of the early universe."
+  },
+  {
+    classLevel: 7,
+    subject: "GK",
+    chapter: "Chapter 5: Science, Space Technology, Astronomy & The Universe",
+    question: "What is the boundary around a Black Hole beyond which nothing can escape the gravitational pull called?",
+    options: ["The Event Horizon", "The Singularity", "Accretion Disc", "Photon Sphere"],
+    correctAnswer: 0,
+    difficulty: "MEDIUM",
+    damage: 250,
+    explanation: "The Event Horizon is the theoretical boundary threshold where escape velocity equals the speed of light."
+  },
+  {
+    classLevel: 7,
+    subject: "GK",
+    chapter: "Chapter 5: Science, Space Technology, Astronomy & The Universe",
+    question: "What is a 'SUPERNOVA' in astronomy?",
+    options: [
+      "The colossal, luminous catastrophic explosion of a massive dying star at the end of its thermonuclear life cycle",
+      "The birth of a new baby planet",
+      "A collision between two moons",
+      "The cooling down of a comet"
+    ],
+    correctAnswer: 0,
+    difficulty: "MEDIUM",
+    damage: 250,
+    explanation: "A supernova is a stellar explosion triggering core collapse and synthesizing heavy elements (iron, gold, uranium) across space."
+  },
+  {
+    classLevel: 7,
+    subject: "GK",
+    chapter: "Chapter 5: Science, Space Technology, Astronomy & The Universe",
+    question: "Which is the LARGEST moon in the entire solar system (even larger in diameter than the planet Mercury), orbiting Jupiter?",
+    options: ["Ganymede", "Titan", "Callisto", "Io"],
+    correctAnswer: 0,
+    difficulty: "MEDIUM",
+    damage: 250,
+    explanation: "Ganymede (5,268 km diameter) is Jupiter's largest satellite and the only moon possessing an intrinsic magnetic field."
+  },
+  {
+    classLevel: 7,
+    subject: "GK",
+    chapter: "Chapter 5: Science, Space Technology, Astronomy & The Universe",
+    question: "Which moon of Saturn is unique in having a dense nitrogen atmosphere and lakes and rivers of liquid hydrocarbons (methane and ethane)?",
+    options: ["Titan", "Enceladus", "Europa", "Triton"],
+    correctAnswer: 0,
+    difficulty: "MEDIUM",
+    damage: 250,
+    explanation: "Titan is the only satellite with a substantial atmosphere (1.45 atm) and a hydrological cycle driven by liquid methane."
+  },
+  {
+    classLevel: 7,
+    subject: "GK",
+    chapter: "Chapter 5: Science, Space Technology, Astronomy & The Universe",
+    question: "What is the 'Kuiper Belt' in the outer solar system?",
+    options: [
+      "A vast ring of icy bodies, comets, and dwarf planets (including Pluto, Eris, Haumea, Makemake) extending beyond the orbit of Neptune",
+      "A belt of stars around the Sun",
+      "A metal ring around Jupiter",
+      "The orbit of Mars"
+    ],
+    correctAnswer: 0,
+    difficulty: "MEDIUM",
+    damage: 250,
+    explanation: "The Kuiper Belt extends from 30 to 50 AU, harboring primordial icy planetesimals and short-period comets."
+  },
+  {
+    classLevel: 7,
+    subject: "GK",
+    chapter: "Chapter 5: Science, Space Technology, Astronomy & The Universe",
+    question: "Which was India's historic maiden interplanetary mission to Mars launched in 2013, making ISRO the first space agency in the world to reach Martian orbit on its very FIRST attempt?",
+    options: ["Mangalyaan (Mars Orbiter Mission - MOM)", "Chandrayaan-1", "Gaganyaan", "Astrosat"],
+    correctAnswer: 0,
+    difficulty: "MEDIUM",
+    damage: 250,
+    explanation: "ISRO's MOM (Mangalyaan) entered Martian orbit on 24 September 2014 on its maiden attempt at record cost-efficiency."
+  },
+  {
+    classLevel: 7,
+    subject: "GK",
+    chapter: "Chapter 5: Science, Space Technology, Astronomy & The Universe",
+    question: "What is the nuclear reaction that powers our Sun and all main-sequence stars in the universe, releasing enormous light and heat?",
+    options: [
+      "Nuclear Fusion (Hydrogen nuclei fusing into Helium nuclei in the stellar core)",
+      "Nuclear Fission (splitting uranium)",
+      "Chemical combustion of coal",
+      "Electric sparks"
+    ],
+    correctAnswer: 0,
+    difficulty: "MEDIUM",
+    damage: 250,
+    explanation: "Proton-proton chain nuclear fusion converts 600 million tons of hydrogen into helium every second in the Sun's core."
+  },
+  {
+    classLevel: 7,
+    subject: "GK",
+    chapter: "Chapter 5: Science, Space Technology, Astronomy & The Universe",
+    question: "What is the 'International Space Station' (ISS)?",
+    options: [
+      "A continuously crewed habitable microgravity laboratory and spacecraft orbiting Earth at an altitude of ~400 km every 90 minutes",
+      "A telescope on the Moon",
+      "A rocket that travels to Mars every day",
+      "A satellite that watches weather only"
+    ],
+    correctAnswer: 0,
+    difficulty: "MEDIUM",
+    damage: 250,
+    explanation: "The ISS is a joint multinational orbital research outpost traveling at 27,600 km/h, orbiting Earth 16 times a day."
+  },
+  {
+    classLevel: 7,
+    subject: "GK",
+    chapter: "Chapter 5: Science, Space Technology, Astronomy & The Universe",
+    question: "What is an 'Exoplanet' in modern astronomy?",
+    options: [
+      "A planet that orbits a star OUTSIDE our own solar system",
+      "An exploded planet",
+      "A planet made of pure gold",
+      "A moon of Mars"
+    ],
+    correctAnswer: 0,
+    difficulty: "MEDIUM",
+    damage: 250,
+    explanation: "An extrasolar planet (exoplanet) is any planetary body orbiting a star outside our solar system (over 5,500 confirmed)."
+  },
+  {
+    classLevel: 7,
+    subject: "GK",
+    chapter: "Chapter 5: Science, Space Technology, Astronomy & The Universe",
+    question: "Which moon of Jupiter possesses a smooth icy crust covering a vast subterranean liquid saltwater ocean with more water than all Earth's oceans combined?",
+    options: ["Europa", "Io", "Phobos", "Deimos"],
+    correctAnswer: 0,
+    difficulty: "MEDIUM",
+    damage: 250,
+    explanation: "Europa harbors a global subsurface liquid water ocean beneath its 15–25 km ice shell, a prime candidate for extraterrestrial astrobiology."
+  },
+  {
+    classLevel: 7,
+    subject: "GK",
+    chapter: "Chapter 5: Science, Space Technology, Astronomy & The Universe",
+    question: "What are 'Pulsars' in astrophysics?",
+    options: [
+      "Rapidly rotating, highly magnetized super-dense Neutron Stars that emit periodic beams of electromagnetic radiation like cosmic lighthouses",
+      "Planets that pulse in size",
+      "Comets with two tails",
+      "Distant exploding moons"
+    ],
+    correctAnswer: 0,
+    difficulty: "MEDIUM",
+    damage: 250,
+    explanation: "Pulsars are remnant neutron star cores spinning up to hundreds of rotations per second, sweeping radio beams past Earth."
+  },
+
+  // HARD (12)
+  {
+    classLevel: 7,
+    subject: "GK",
+    chapter: "Chapter 5: Science, Space Technology, Astronomy & The Universe",
+    question: "Read the statements:\nAssertion (A): The cosmic microwave background radiation (CMBR) discovered by Penzias and Wilson in 1965 is considered the definitive empirical proof of the Big Bang.\nReason (R): CMBR is the remnant thermal whisper of the infant universe, cooled by cosmic expansion over 13.8 billion years to a faint uniform glow at 2.725 Kelvin.\nChoose the correct option:",
+    options: [
+      "Both (A) and (R) are true, and (R) is the correct explanation of (A).",
+      "Both (A) and (R) are true, but (R) is NOT the correct explanation of (A).",
+      "(A) is true, but (R) is false.",
+      "(A) is false, but (R) is true."
+    ],
+    correctAnswer: 0,
+    difficulty: "HARD",
+    damage: 350,
+    explanation: "CMBR is the relic thermal photon radiation from cosmological recombination ~380,000 years after the Big Bang."
+  },
+  {
+    classLevel: 7,
+    subject: "GK",
+    chapter: "Chapter 5: Science, Space Technology, Astronomy & The Universe",
+    question: "Spot the IMPOSTER in the following group of Space Missions and their destinations:\nGroup:\n1. Chandrayaan-3 - Lunar South Pole (Moon)\n2. Mangalyaan (MOM) - Mars\n3. Aditya-L1 - Sun-Earth Lagrange Point 1\n4. Voyager 1 - Surface of Mercury",
+    options: ["Mission 1", "Mission 2", "Mission 3", "Mission 4 (Voyager 1 is in INTERSTELLAR SPACE beyond Pluto ; MESSENGER/BepiColombo explore Mercury)"],
+    correctAnswer: 3,
+    difficulty: "HARD",
+    damage: 350,
+    explanation: "Mission 4 is an imposter: Voyager 1 traversed interstellar space beyond the heliopause, never landing on Mercury."
+  },
+  {
+    classLevel: 7,
+    subject: "GK",
+    chapter: "Chapter 5: Science, Space Technology, Astronomy & The Universe",
+    question: "What is the 'Chandrasekhar Limit' discovered by Indian-American Nobel Laureate Subrahmanyan Chandrasekhar?",
+    options: [
+      "The maximum stable theoretical mass (approx. 1.44 Solar Masses) of a White Dwarf star, beyond which electron degeneracy pressure fails and the star collapses into a Neutron Star or Black Hole",
+      "The maximum speed of a rocket",
+      "The minimum temperature of a comet",
+      "The distance between Earth and Moon"
+    ],
+    correctAnswer: 0,
+    difficulty: "HARD",
+    damage: 350,
+    explanation: "The Chandrasekhar limit (M ≈ 1.44 M_☉) dictates the relativistic quantum threshold separating white dwarf stability from supernova collapse."
+  },
+  {
+    classLevel: 7,
+    subject: "GK",
+    chapter: "Chapter 5: Science, Space Technology, Astronomy & The Universe",
+    question: "Match Column I (Cosmic Mysteries) with Column II (Astrophysical Explanations):\n(a) Dark Matter        -> (i) Invisible mass (~27% of universe) inferred via gravitational lensing\n(b) Dark Energy        -> (ii) Unknown force (~68% of universe) driving accelerated cosmic expansion\n(c) Cosmic Inflation   -> (iii) Exponential superluminal expansion of spacetime 10⁻³⁶ s after Big Bang\n(d) Gravitational Waves-> (iv) Ripples in spacetime fabric generated by colliding black holes (LIGO)",
+    options: [
+      "a-(i), b-(ii), c-(iii), d-(iv)",
+      "a-(ii), b-(i), c-(iv), d-(iii)",
+      "a-(iv), b-(iii), c-(ii), d-(i)",
+      "a-(iii), b-(iv), c-(i), d-(ii)"
+    ],
+    correctAnswer: 0,
+    difficulty: "HARD",
+    damage: 350,
+    explanation: "Dark Matter = gravitational scaffolding; Dark Energy = cosmic acceleration; Inflation = exponential early growth; Gravitational waves = spacetime ripples."
+  },
+  {
+    classLevel: 7,
+    subject: "GK",
+    chapter: "Chapter 5: Science, Space Technology, Astronomy & The Universe",
+    question: "Read the statements regarding planetary atmospheres:\nStatement 1: Titan is the only moon in our solar system with a substantial dense atmosphere and liquid methane hydrological cycle.\nStatement 2: Venus rotates in the opposite direction (Retrograde / clockwise) compared to most other planets.\nStatement 3: The Moon possesses a thick, breathable nitrogen-oxygen atmosphere.\nWhich statements are TRUE?",
+    options: ["Statements 1 and 2 only", "Statements 2 and 3 only", "Statements 1 and 3 only", "All Statements 1, 2, and 3"],
+    correctAnswer: 0,
+    difficulty: "HARD",
+    damage: 350,
+    explanation: "Statement 3 is false because the Moon is an airless vacuum exosphere without breathable atmosphere. Statements 1 and 2 are true."
+  },
+  {
+    classLevel: 7,
+    subject: "GK",
+    chapter: "Chapter 5: Science, Space Technology, Astronomy & The Universe",
+    question: "What is the 'Habitable Zone' (or Goldilocks Zone) around a host star in astrophysics?",
+    options: [
+      "The orbital sweet-spot distance from a star where surface temperatures permit LIQUID WATER to exist persistently on a rocky planet's surface",
+      "A region with pure gold soil",
+      "A region inside a black hole",
+      "The space inside the Sun's core"
+    ],
+    correctAnswer: 0,
+    difficulty: "HARD",
+    damage: 350,
+    explanation: "Circumstellar Habitable Zone: stellar radiative equilibrium permitting liquid water (0°C to 100°C) on rocky exoplanets."
+  },
+  {
+    classLevel: 7,
+    subject: "GK",
+    chapter: "Chapter 5: Science, Space Technology, Astronomy & The Universe",
+    question: "What was the landmark breakthrough achieved by the Event Horizon Telescope (EHT) collaboration in 2019?",
+    options: [
+      "Capturing the world's FIRST DIRECT SHADOW IMAGE of a Supermassive Black Hole (in galaxy M87)",
+      "Landing humans on Jupiter",
+      "Travelling faster than the speed of light",
+      "Finding alien cities on Mars"
+    ],
+    correctAnswer: 0,
+    difficulty: "HARD",
+    damage: 350,
+    explanation: "The EHT linked radio telescopes globally via VLBI, capturing the first direct shadow of the 6.5-billion-solar-mass black hole in M87*."
+  },
+  {
+    classLevel: 7,
+    subject: "GK",
+    chapter: "Chapter 5: Science, Space Technology, Astronomy & The Universe",
+    question: "Consider four space milestones achieved by India's ISRO:\n1. Launch of Aryabhata satellite (1975)\n2. Chandrayaan-1 discovering water molecules on the Moon (2008)\n3. Mars Orbiter Mission / Mangalyaan reaching Mars on first try (2014)\n4. Chandrayaan-3 soft landing at Lunar South Pole (2023)\nWhat overarching technological capability has ISRO demonstrated?",
+    options: [
+      "Indigenous, frugal engineering excellence and world-leading deep-space exploration capabilities at unparalleled cost-efficiency",
+      "Total reliance on foreign imported rockets",
+      "Focusing only on entertainment satellites",
+      "Building space colonies on Venus"
+    ],
+    correctAnswer: 0,
+    difficulty: "HARD",
+    damage: 350,
+    explanation: "ISRO has achieved global deep-space leadership through indigenous cryogenic propulsion, payload miniaturization, and frugal engineering."
+  },
+  {
+    classLevel: 7,
+    subject: "GK",
+    chapter: "Chapter 5: Science, Space Technology, Astronomy & The Universe",
+    question: "What is 'Gravitational Lensing' predicted by Albert Einstein's General Relativity?",
+    options: [
+      "Massive celestial objects (like galaxy clusters) warp the fabric of spacetime around them, bending the path of light from background objects like a giant cosmic lens",
+      "Looking at stars through a pair of reading glasses",
+      "Gravity making planets shine brighter",
+      "Stars turning into glass lenses"
+    ],
+    correctAnswer: 0,
+    difficulty: "HARD",
+    damage: 350,
+    explanation: "General Relativity: massive energy densities curve spacetime geodesics, bending and magnifying background electromagnetic photons."
+  },
+  {
+    classLevel: 7,
+    subject: "GK",
+    chapter: "Chapter 5: Science, Space Technology, Astronomy & The Universe",
+    question: "What is the theoretical maximum velocity limit for the propagation of any physical information, matter, or light across the universe?",
+    options: ["299,792,458 metres per second (approx. 300,000 km/s - The Speed of Light 'c')", "1,000 km/s", "100,000 km/s", "Infinite speed"],
+    correctAnswer: 0,
+    difficulty: "HARD",
+    damage: 350,
+    explanation: "Special Relativity: c = 299,792,458 m/s represents the universal invariant speed limit of causality."
+  },
+  {
+    classLevel: 7,
+    subject: "GK",
+    chapter: "Chapter 5: Science, Space Technology, Astronomy & The Universe",
+    question: "Why do astronauts experience weightlessness inside the International Space Station (ISS) in Low Earth Orbit?",
+    options: [
+      "The ISS and astronauts are in a continuous, perpetual state of FREE FALL around the Earth (falling forward at orbital speed equal to Earth's curvature)",
+      "Because there is zero gravity in orbit",
+      "Because the ISS has an anti-gravity engine",
+      "Because Earth's gravity stops at 100 km"
+    ],
+    correctAnswer: 0,
+    difficulty: "HARD",
+    damage: 350,
+    explanation: "Earth's gravity at 400 km is ~90% of sea level; apparent microgravity results from continuous orbital free-fall."
+  },
+  {
+    classLevel: 7,
+    subject: "GK",
+    chapter: "Chapter 5: Science, Space Technology, Astronomy & The Universe",
+    question: "What ultimate cosmic perspective is illuminated by modern Space Science, Astronomy, and the Universe?",
+    options: [
+      "Human beings are composed of 'stardust' (elements forged inside exploding ancient stars), inhabiting a fragile 'Pale Blue Dot' in a vast, majestic 13.8-billion-year-old cosmic web",
+      "Earth is the absolute geometric center of the universe",
+      "Space exploration has revealed all secrets of the universe",
+      "The universe will stop existing tomorrow"
+    ],
+    correctAnswer: 0,
+    difficulty: "HARD",
+    damage: 350,
+    explanation: "Astrophysics reveals our cosmological kinship: nucleosynthesis in dying stars created the biogenic elements (C, N, O, Fe) composing human life."
+  }
+];
+
+console.log('Generated Class 7 GK Ch5:', gkQuestions.length);
+fs.writeFileSync('C:/EduVerse/class 7/cross_subject/gk_ch5.json', JSON.stringify(gkQuestions, null, 2), 'utf8');

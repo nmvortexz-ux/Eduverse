@@ -1,0 +1,642 @@
+[
+  {
+    "classLevel": 7,
+    "subject": "English",
+    "chapter": "Chapter 10: The Story of Cricket",
+    "question": "Where and approximately how many centuries ago did the sport of CRICKET originate as a rural English bat-and-ball game?",
+    "options": [
+      "In England, over 500 years ago (16th century)",
+      "In Australia, 100 years ago",
+      "In India, during the Mughal era",
+      "In America, in 1850"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "Cricket grew out of traditional English bat-and-ball folk pastimes played over 500 years ago in rural southeastern England."
+  },
+  {
+    "classLevel": 7,
+    "subject": "English",
+    "chapter": "Chapter 10: The Story of Cricket",
+    "question": "What was the shape of early cricket bats before the 1760s?",
+    "options": [
+      "Curved at the bottom like modern Hockey Sticks (to hit the ball bowled underarm along the ground)",
+      "Flat and straight like modern cricket bats",
+      "Round like baseball bats",
+      "Square shaped like wooden boards"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "Early cricket was bowled underarm, so bats curved outwards at the base like hockey sticks to sweep the ball off the turf."
+  },
+  {
+    "classLevel": 7,
+    "subject": "English",
+    "chapter": "Chapter 10: The Story of Cricket",
+    "question": "What is the fixed, standardized length of a cricket PITCH according to the official Laws of Cricket?",
+    "options": [
+      "22 Yards (66 feet / 20.12 metres)",
+      "20 Yards",
+      "25 Yards",
+      "30 Yards"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "The Laws of Cricket specify pitch length precisely as 22 yards between the wickets, while ground boundary size remains variable."
+  },
+  {
+    "classLevel": 7,
+    "subject": "English",
+    "chapter": "Chapter 10: The Story of Cricket",
+    "question": "Which famous London cricket club founded in 1787 became the supreme guardian and custodian of the Laws of Cricket?",
+    "options": [
+      "The Marylebone Cricket Club (MCC at Lord's)",
+      "The Hambledon Club",
+      "The Melbourne Cricket Club",
+      "The Surrey Club"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "The MCC (Marylebone Cricket Club), founded in 1787, framed the official Laws of Cricket and remains their custodian."
+  },
+  {
+    "classLevel": 7,
+    "subject": "English",
+    "chapter": "Chapter 10: The Story of Cricket",
+    "question": "Which Indian community founded the FIRST Indian cricket club in Bombay (The Oriental Cricket Club) in 1848?",
+    "options": [
+      "The Parsi Community",
+      "The Gujarati Community",
+      "The Bengali Community",
+      "The Anglo-Indian Community"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "The Zoroastrian Parsi community of Bombay established the Oriental Cricket Club in 1848, pioneering Indian cricket."
+  },
+  {
+    "classLevel": 7,
+    "subject": "English",
+    "chapter": "Chapter 10: The Story of Cricket",
+    "question": "Who was India's first great Test match batsman and captain in 1932, after whom the premier domestic first-class trophy is named?",
+    "options": [
+      "C.K. Nayudu",
+      "Lala Amarnath",
+      "Sunil Gavaskar",
+      "Kapil Dev"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "C.K. Nayudu was India's first Test captain when India entered the international Test arena at Lord's in 1932."
+  },
+  {
+    "classLevel": 7,
+    "subject": "English",
+    "chapter": "Chapter 10: The Story of Cricket",
+    "question": "In what year did India play its first official Test match in England at Lord's?",
+    "options": [
+      "1932",
+      "1947",
+      "1950",
+      "1971"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "India played its inaugural Test match against England at Lord's in June 1932."
+  },
+  {
+    "classLevel": 7,
+    "subject": "English",
+    "chapter": "Chapter 10: The Story of Cricket",
+    "question": "What natural, pre-industrial materials are traditional cricket bat and ball made from even today?",
+    "options": [
+      "Bat from Willow wood, cane, and twine ; Ball from leather, cork, and twine",
+      "Plastic and aluminum",
+      "Steel and synthetic rubber",
+      "Glass and fiber"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "Unlike other modern games, cricket's bat and ball equipment remains hand-crafted from natural timber willow, cane, cork, and leather."
+  },
+  {
+    "classLevel": 7,
+    "subject": "English",
+    "chapter": "Chapter 10: The Story of Cricket",
+    "question": "Which Australian television tycoon revolutionized modern cricket in 1977 by launching 'World Series Cricket' with colored clothes, white balls, and day-night matches?",
+    "options": [
+      "Kerry Packer",
+      "Don Bradman",
+      "Rupert Murdoch",
+      "Richie Benaud"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "Kerry Packer signed the world's best cricketers in 1977, transforming cricket into a televised spectacle with floodlit day-night games and colorful uniforms."
+  },
+  {
+    "classLevel": 7,
+    "subject": "English",
+    "chapter": "Chapter 10: The Story of Cricket",
+    "question": "Which country won the historic 1983 Cricket World Cup by defeating the mighty West Indies at Lord's, transforming cricket into a national passion in India?",
+    "options": [
+      "India (captained by Kapil Dev)",
+      "England",
+      "Australia",
+      "Pakistan"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "Kapil Dev's 'Kapil's Devils' stunned the two-time champion West Indies at Lord's on 25 June 1983, igniting modern Indian cricket mania."
+  },
+  {
+    "classLevel": 7,
+    "subject": "English",
+    "chapter": "Chapter 10: The Story of Cricket",
+    "question": "What is unique about the DURATION of a Test match in cricket compared to all other modern team sports?",
+    "options": [
+      "A Test match can last for FIVE FULL DAYS and can still end in a DRAW without a winner",
+      "It lasts only for 90 minutes",
+      "It is played over one hour",
+      "It never ends"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "Cricket is unique among modern sports: Test matches span 5 days (up to 30 hours of play) and can legitimately conclude in a draw."
+  },
+  {
+    "classLevel": 7,
+    "subject": "English",
+    "chapter": "Chapter 10: The Story of Cricket",
+    "question": "What modern protective synthetic equipment was introduced to cricket only after the invention of vulcanized rubber in the 19th century?",
+    "options": [
+      "Pads (Leg-guards) and Batting Gloves",
+      "Wooden Wickets",
+      "Leather Ball",
+      "Willow Bat"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "Vulcanized rubber enabled the invention of padded batting gloves (1848) and protective leg-guard pads, followed by synthetic helmets."
+  },
+  {
+    "classLevel": 7,
+    "subject": "English",
+    "chapter": "Chapter 10: The Story of Cricket",
+    "question": "How did the introduction of pitching the ball through the air (instead of rolling it on the ground) in the 1760s transform cricket batting and bowling?",
+    "options": [
+      "Bowlers gained the ability to generate curved swing and spin in the air, forcing batsmen to replace curved hockey-style bats with straight, flat bats for timing and defense",
+      "Batsmen started using baseball bats",
+      "Bowlers were forced to throw the ball like a stone",
+      "The pitch was made round"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "Airborne bowling introduced swing, seam, and deception in flight, prompting the invention of straight willow bats for precise defensive strokeplay."
+  },
+  {
+    "classLevel": 7,
+    "subject": "English",
+    "chapter": "Chapter 10: The Story of Cricket",
+    "question": "What was the social distinction between 'GENTLEMEN' (Amateurs) and 'PLAYERS' (Professionals) in historic English cricket?",
+    "options": [
+      "Gentlemen were wealthy aristocratic aristocrats who played for leisure and honor without pay ; Players were working-class men paid wages to bowl and field",
+      "Gentlemen were bowlers and Players were umpires",
+      "Gentlemen played only in winter",
+      "There was no social distinction"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "Aristocratic class hierarchy: Gentlemen (unpaid amateur batsmen/captains) vs Players (hired working-class professional bowlers)."
+  },
+  {
+    "classLevel": 7,
+    "subject": "English",
+    "chapter": "Chapter 10: The Story of Cricket",
+    "question": "Why does the shape and boundary size of cricket grounds vary so widely across the world (e.g. oval Melbourne vs round Chepauk), unlike football pitches?",
+    "options": [
+      "Cricket originated as a pre-industrial village green game where matches were played on open village commons without artificial boundary fences",
+      "Because builders did not have tape measures",
+      "Because every country wanted a different shape",
+      "Because round stadiums are cheaper"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "Cricket's pastoral origins on unfenced village greens created flexible boundary geometry while preserving fixed 22-yard pitch distances."
+  },
+  {
+    "classLevel": 7,
+    "subject": "English",
+    "chapter": "Chapter 10: The Story of Cricket",
+    "question": "What was the famous 'Bombay Pentangular' tournament played in colonial India based on?",
+    "options": [
+      "Communal religious and ethnic teams: The Europeans, The Parsis, The Hindus, The Muslims, and The Rest",
+      "Five city corporations",
+      "Five universities",
+      "Five army divisions"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "The colonial Bombay tournament evolved from Triangular to Quadrangular to Pentangular, organized strictly along communal lines (opposed by Mahatma Gandhi)."
+  },
+  {
+    "classLevel": 7,
+    "subject": "English",
+    "chapter": "Chapter 10: The Story of Cricket",
+    "question": "How did the advent of Television and Satellite Broadcasting shift the global economic center of gravity of cricket from London to South Asia (India)?",
+    "options": [
+      "South Asia possessed the largest television viewing audience and consumer marketplace in the cricket-playing world, generating massive advertising revenues that enriched the BCCI",
+      "Because India invented satellites",
+      "Because cricket was banned in England",
+      "Because matches were played only in Delhi"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "Demographic and media revolution: South Asia's colossal broadcast viewership made the subcontinental market the dominant financial engine of world cricket."
+  },
+  {
+    "classLevel": 7,
+    "subject": "English",
+    "chapter": "Chapter 10: The Story of Cricket",
+    "question": "Why was Palwankar Baloo, a legendary slow left-arm spinner of the Bombay Hindus team in the 1900s, a milestone figure in Indian social history?",
+    "options": [
+      "He was from the oppressed Dalit (Untouchable) community who broke caste barriers through his supreme cricketing genius, becoming India's first great indigenous sporting hero",
+      "He was the first British governor",
+      "He invented cricket shoes",
+      "He was a royal prince"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "Baloo Palwankar challenged untouchability through athletic brilliance, acclaimed by Dr. B.R. Ambedkar as a pioneer of Dalit social elevation."
+  },
+  {
+    "classLevel": 7,
+    "subject": "English",
+    "chapter": "Chapter 10: The Story of Cricket",
+    "question": "What is the meaning of the English idiom 'It's not cricket' in conversational usage?",
+    "options": [
+      "It is unfair, dishonorable, or unsporting behavior",
+      "It is not a baseball match",
+      "The weather is rainy",
+      "The ball is lost"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "The Victorian idiom 'It's not cricket' signifies any conduct that violates the spirit of fair play, honor, and sportsmanship."
+  },
+  {
+    "classLevel": 7,
+    "subject": "English",
+    "chapter": "Chapter 10: The Story of Cricket",
+    "question": "What is the meaning of 'Decolonization' in the context of international cricket history?",
+    "options": [
+      "The decline of British imperial administrative dominance over the game and the rise of formerly colonized nations (India, Pakistan, West Indies, Sri Lanka) as sovereign global cricket superpowers",
+      "Banning wooden bats",
+      "Changing the rules every year",
+      "Playing matches without umpires"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "Decolonization transformed cricket from an instrument of imperial cultural hegemony into a vibrant arena of post-colonial national pride."
+  },
+  {
+    "classLevel": 7,
+    "subject": "English",
+    "chapter": "Chapter 10: The Story of Cricket",
+    "question": "What is the SYNONYM of 'Idiosyncrasy' as applied to cricket's unique rules?",
+    "options": [
+      "Quirk / Peculiarity / Unique characteristic",
+      "Commonplace",
+      "Boring rule",
+      "Mistake"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "'Idiosyncrasy' denotes an eccentric, highly distinctive individual peculiarity."
+  },
+  {
+    "classLevel": 7,
+    "subject": "English",
+    "chapter": "Chapter 10: The Story of Cricket",
+    "question": "What is the ANTONYM of 'Amateur' in sports terminology?",
+    "options": [
+      "Professional (paid athlete)",
+      "Novice",
+      "Spectator",
+      "Volunteer"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "The antonym of 'amateur' (playing unpaid for pleasure) is 'professional' (earning a livelihood from the sport)."
+  },
+  {
+    "classLevel": 7,
+    "subject": "English",
+    "chapter": "Chapter 10: The Story of Cricket",
+    "question": "Choose the correct spelling:",
+    "options": [
+      "Spectator",
+      "Spectater",
+      "Spektator",
+      "Specteter"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "Correct orthography: S-P-E-C-T-A-T-O-R."
+  },
+  {
+    "classLevel": 7,
+    "subject": "English",
+    "chapter": "Chapter 10: The Story of Cricket",
+    "question": "Fill in the blank with the correct preposition:\n'The laws of cricket were codified _______ the Marylebone Cricket Club in 1788.'",
+    "options": [
+      "by",
+      "with",
+      "through",
+      "from"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "Passive agentive construction requires the preposition 'by'."
+  },
+  {
+    "classLevel": 7,
+    "subject": "English",
+    "chapter": "Chapter 10: The Story of Cricket",
+    "question": "Identify the part of speech of the underlined word in: 'Cricket evolved **gradually** from rural pastimes.'",
+    "options": [
+      "Adverb of Manner",
+      "Adjective",
+      "Noun",
+      "Preposition"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "'Gradually' is an adverb of manner modifying the verb 'evolved'."
+  },
+  {
+    "classLevel": 7,
+    "subject": "English",
+    "chapter": "Chapter 10: The Story of Cricket",
+    "question": "Convert into PASSIVE VOICE:\n'The Parsis established the first Indian cricket club in Bombay.'",
+    "options": [
+      "'The first Indian cricket club was established in Bombay by the Parsis.'",
+      "'The first Indian cricket club established the Parsis in Bombay.'",
+      "'In Bombay had been established the first Indian cricket club.'",
+      "'The Parsis were established by the first cricket club.'"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "Passive voice: Object ('The first Indian cricket club') + was established + location + agent ('by the Parsis')."
+  },
+  {
+    "classLevel": 7,
+    "subject": "English",
+    "chapter": "Chapter 10: The Story of Cricket",
+    "question": "Why did English colonists believe that cricket was a civilizing sport for colonized peoples?",
+    "options": [
+      "They believed it instilled Victorian virtues of fair play, imperial discipline, obedience to codified rules, and emotional self-control",
+      "Because cricket was easy to learn in a day",
+      "Because they wanted to sell bats",
+      "Because cricket had no rules"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "British imperial ideology promoted cricket as a moralizing exercise in Victorian discipline, stoicism, and gentlemanly etiquette."
+  },
+  {
+    "classLevel": 7,
+    "subject": "English",
+    "chapter": "Chapter 10: The Story of Cricket",
+    "question": "What technological revolution allowed millions of fans across small Indian towns and villages to watch international cricket live simultaneously?",
+    "options": [
+      "Satellite Television Broadcasting (Doordarshan and private satellite channels)",
+      "Printed newspapers only",
+      "Radio commentary in Morse code",
+      "Postal letters"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "Satellite television telecasts democraticized cricket viewing across rural and urban India, creating a shared national collective ritual."
+  },
+  {
+    "classLevel": 7,
+    "subject": "English",
+    "chapter": "Chapter 10: The Story of Cricket",
+    "question": "Read the statements:\nAssertion (A): Cricket is a unique historical amalgam of pre-industrial rural folk traditions and modern industrial technology.\nReason (R): While cricket preserves pre-industrial handicraft equipment (wood willow bats, leather cork balls, unstandardized ground shapes), it simultaneously relies on modern synthetic protective gear (vulcanized rubber, carbon-fiber helmets) and cutting-edge global satellite television technologies.\nChoose the correct option:",
+    "options": [
+      "Both (A) and (R) are true, and (R) is the correct explanation of (A).",
+      "Both (A) and (R) are true, but (R) is NOT the correct explanation of (A).",
+      "(A) is true, but (R) is false.",
+      "(A) is false, but (R) is true."
+    ],
+    "correctAnswer": 0,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "Ramachandra Guha highlights cricket's fundamental dualism: pre-industrial pastoral naturalism fused with modern digital-industrial commercialism."
+  },
+  {
+    "classLevel": 7,
+    "subject": "English",
+    "chapter": "Chapter 10: The Story of Cricket",
+    "question": "Spot the IMPOSTER in the following historical timeline of cricket evolution:\nGroup:\n1. 1744 - First written Laws of Cricket codified\n2. 1787 - Foundation of the Marylebone Cricket Club (MCC)\n3. 1977 - Kerry Packer launches World Series Cricket\n4. 1500 - Invention of Hawk-Eye computer ball-tracking systems",
+    "options": [
+      "Event 1",
+      "Event 2",
+      "Event 3",
+      "Event 4 (Hawk-Eye digital ball-tracking computer systems were developed in the 21st CENTURY [circa 2001], not the year 1500)"
+    ],
+    "correctAnswer": 3,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "Event 4 is an absurd anachronism: computerized optical ball-tracking (Hawk-Eye) emerged in the early 2000s."
+  },
+  {
+    "classLevel": 7,
+    "subject": "English",
+    "chapter": "Chapter 10: The Story of Cricket",
+    "question": "Analyze the social sociology of early cricket in colonial India:\nWhy did the Parsis achieve early dominance in cricket before other Indian communities?",
+    "options": [
+      "The Parsis were a wealthy, westernized commercial merchant community in Bombay with close business ties to the British East India Company, embracing English sports and culture early",
+      "Because only Parsis were allowed to buy bats",
+      "Because cricket was invented in Persia",
+      "Because Parsis were professional athletes in Britain"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "Parsi mercantile prosperity, civic philanthropy, and cosmopolitan acculturation made them the pioneers of modern cricket in Bombay."
+  },
+  {
+    "classLevel": 7,
+    "subject": "English",
+    "chapter": "Chapter 10: The Story of Cricket",
+    "question": "Match Column I (Cricket Innovations / Historical Milestones) with Column II (Historical Causes & Consequences):\n(a) Airborne Bowling (1760s)    -> (i) Prompted the invention of straight, flat willow bats\n(b) Kerry Packer's WSC (1977)    -> (ii) Inaugurated colored clothing, white balls, and day-night telecasts\n(c) 1983 World Cup Victory       -> (iii) Catalyzed India's commercial cricket boom and mass fanaticism\n(d) Subcontinental TV Market     -> (iv) Shifted the global financial headquarters of cricket to South Asia",
+    "options": [
+      "a-(i), b-(ii), c-(iii), d-(iv)",
+      "a-(ii), b-(i), c-(iv), d-(iii)",
+      "a-(iv), b-(iii), c-(ii), d-(i)",
+      "a-(iii), b-(iv), c-(i), d-(ii)"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "Airborne bowling = straight bats; Packer = colored kits & night games; 1983 victory = mass mania; TV market = shift to South Asia."
+  },
+  {
+    "classLevel": 7,
+    "subject": "English",
+    "chapter": "Chapter 10: The Story of Cricket",
+    "question": "Read the statements regarding the transformation of cricket rules:\nStatement 1: The length of the pitch (22 yards) has remained unchanged since the first written Laws of Cricket in 1744.\nStatement 2: Protective helmets were widely adopted in international cricket during the late 1970s against lethal bouncers.\nStatement 3: Test matches were originally played with red plastic balls filled with water.\nWhich statements are TRUE?",
+    "options": [
+      "Statements 1 and 2 only",
+      "Statements 2 and 3 only",
+      "Statements 1 and 3 only",
+      "All Statements 1, 2, and 3"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "Statement 3 is an absurd falsehood (balls have always been made of leather, cork, and twine). Statements 1 and 2 are historical facts."
+  },
+  {
+    "classLevel": 7,
+    "subject": "English",
+    "chapter": "Chapter 10: The Story of Cricket",
+    "question": "Identify the grammatical role of the underlined clause in: '**Although cricket originated in England**, its contemporary economic empire is firmly headquartered in India.'",
+    "options": [
+      "Adverbial Clause of Concession / Contrast modifying the main clause",
+      "Noun Clause in apposition",
+      "Relative Clause of manner",
+      "Coordinate independent clause"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "'Although cricket originated in England' is a subordinate concessive adverbial clause introduced by 'Although'."
+  },
+  {
+    "classLevel": 7,
+    "subject": "English",
+    "chapter": "Chapter 10: The Story of Cricket",
+    "question": "Why did Mahatma Gandhi and nationalist leaders oppose communal cricket tournaments like the Bombay Pentangular?",
+    "options": [
+      "They believed that dividing sporting teams along sectarian religious lines (Hindus, Muslims, Parsis, Europeans) hardened communal divisions and undermined anti-colonial national unity",
+      "Because Gandhi disliked all sports",
+      "Because they wanted cricket to be played without rules",
+      "Because foreign teams were not invited"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "Gandhi denounced communal Pentangular cricket as a divisive imperial legacy, arguing sports should unify rather than fracture society."
+  },
+  {
+    "classLevel": 7,
+    "subject": "English",
+    "chapter": "Chapter 10: The Story of Cricket",
+    "question": "How did the invention of the 'Doosra' and 'Reverse Swing' by Pakistani fast bowlers (Sarfaraz Nawaz, Imran Khan, Wasim Akram) subvert traditional Anglo-Australian bowling orthodoxy?",
+    "options": [
+      "They mastered innovative aerodynamics using scuffed and polished ball surfaces to create deceptive late swing under hot subcontinental conditions, revolutionizing fast bowling worldwide",
+      "They made the ball heavier with lead",
+      "They changed the pitch dimensions",
+      "They used metal bats"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "Subcontinental bowling innovations (reverse swing, doosra) shattered Eurocentric bowling dogmas, enriching international bowling tactics."
+  },
+  {
+    "classLevel": 7,
+    "subject": "English",
+    "chapter": "Chapter 10: The Story of Cricket",
+    "question": "What literary device is employed in the phrase: 'Cricket's connection with a pre-industrial rural past is woven into the very fabric of its willow wood and leather ball.'?",
+    "options": [
+      "Metaphor and Synecdoche (using physical implements of the sport to symbolize its historical pastoral origins)",
+      "Hyperbole only",
+      "Simile",
+      "Irony only"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "The metaphor 'woven into the fabric' and synecdoche of willow/leather crystallize cricket's deep organic roots in pre-industrial craft culture."
+  },
+  {
+    "classLevel": 7,
+    "subject": "English",
+    "chapter": "Chapter 10: The Story of Cricket",
+    "question": "Which of the following sentences correctly utilizes the Subjunctive Mood in sporting commentary?",
+    "options": [
+      "\"The captain demanded that every fielder be alert on the boundary.\"",
+      "\"The captain demanded that every fielder is alert.\"",
+      "\"The captain was demanding for alert.\"",
+      "\"Fielders were alerting by the captain.\""
+    ],
+    "correctAnswer": 0,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "Mandative subjunctive after verbs of demand ('demanded that every fielder be alert' with bare infinitive 'be')."
+  },
+  {
+    "classLevel": 7,
+    "subject": "English",
+    "chapter": "Chapter 10: The Story of Cricket",
+    "question": "What socio-economic shift explains why contemporary Indian cricket stars come from small towns and rural hinterlands (like MS Dhoni from Ranchi) rather than big elite metropolitan cities?",
+    "options": [
+      "The spread of television, localized cricket academies, talent scouting, and lucrative franchise leagues (IPL) democratized access, merit, and financial rewards across all socio-economic strata",
+      "City players were legally banned from playing cricket",
+      "Small towns have larger stadiums",
+      "Matches are no longer played in big cities"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "Grassroots democratization: television inspiration and professional domestic contracts transformed cricket into a meritocratic vehicle for small-town talent."
+  },
+  {
+    "classLevel": 7,
+    "subject": "English",
+    "chapter": "Chapter 10: The Story of Cricket",
+    "question": "What master sociological insight is articulated in Chapter 10 of NCERT Class 7 English?",
+    "options": [
+      "Sports are not mere games; they are living mirrors of human history, reflecting the evolution of social class, colonial power dynamics, technological revolutions, media commercialism, and post-colonial national identity",
+      "That cricket is the only sport worth playing",
+      "That sports have no relation to history or society",
+      "That cricket will be forgotten in the future"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "Ramachandra Guha's essay uses cricket as a profound sociological lens to illuminate class, empire, race, technology, and cultural decolonization."
+  }
+]

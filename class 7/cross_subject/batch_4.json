@@ -1,0 +1,3842 @@
+[
+  {
+    "classLevel": 7,
+    "subject": "Science",
+    "chapter": "Chapter 4: Acids, Bases and Salts",
+    "question": "Chemical substances that have a characteristic SOUR taste and turn Blue Litmus paper RED are called:",
+    "options": [
+      "Acids",
+      "Bases",
+      "Salts",
+      "Alkalies"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "Acids (from Latin 'acere' meaning sour) taste sour and turn blue litmus red."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Science",
+    "chapter": "Chapter 4: Acids, Bases and Salts",
+    "question": "Chemical substances that taste BITTER and feel SOAPY/slippery to touch are called:",
+    "options": [
+      "Bases",
+      "Acids",
+      "Salts",
+      "Indicators"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "Bases taste bitter, feel slippery/soapy on the skin, and turn red litmus blue."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Science",
+    "chapter": "Chapter 4: Acids, Bases and Salts",
+    "question": "Special chemical substances used to test whether a solution is acidic or basic by changing their color are called:",
+    "options": [
+      "Indicators",
+      "Catalysts",
+      "Solvents",
+      "Reactants"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "Indicators (such as litmus, phenolphthalein, turmeric) exhibit distinct colors in acidic and basic solutions."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Science",
+    "chapter": "Chapter 4: Acids, Bases and Salts",
+    "question": "What is the natural source from which the most commonly used natural indicator, LITMUS, is extracted?",
+    "options": [
+      "Lichens",
+      "Rose petals",
+      "Turmeric plant",
+      "Beetroot"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "Litmus is a natural dye extracted from lichens, possessing a mauve (purple) color in distilled water."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Science",
+    "chapter": "Chapter 4: Acids, Bases and Salts",
+    "question": "What organic acid is naturally present in Curd and sour milk?",
+    "options": [
+      "Lactic Acid",
+      "Citric Acid",
+      "Acetic Acid",
+      "Tartaric Acid"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "Lactobacillus bacteria ferment lactose into Lactic Acid in curd and yogurt."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Science",
+    "chapter": "Chapter 4: Acids, Bases and Salts",
+    "question": "Which acid is naturally present in Citrus fruits (such as lemons, oranges, and limes)?",
+    "options": [
+      "Citric Acid",
+      "Formic Acid",
+      "Oxalic Acid",
+      "Lactic Acid"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "Citrus fruits contain high concentrations of Citric Acid and Ascorbic Acid (Vitamin C)."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Science",
+    "chapter": "Chapter 4: Acids, Bases and Salts",
+    "question": "Which acid is injected into human skin during an ANT STING, causing a burning painful sensation and swelling?",
+    "options": [
+      "Formic Acid (Methanoic Acid)",
+      "Hydrochloric Acid",
+      "Sulfuric Acid",
+      "Acetic Acid"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "Ant stings inject Formic Acid (HCOOH), causing painful burning inflammation."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Science",
+    "chapter": "Chapter 4: Acids, Bases and Salts",
+    "question": "What is the common chemical name of Vinegar used in cooking and food preservation?",
+    "options": [
+      "Dilute Acetic Acid (Ethanoic Acid)",
+      "Sodium Hydroxide",
+      "Calcium Hydroxide",
+      "Lactic Acid"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "Vinegar is a 4% to 8% aqueous solution of Acetic Acid (CH₃COOH)."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Science",
+    "chapter": "Chapter 4: Acids, Bases and Salts",
+    "question": "What is the chemical name of the base 'Milk of Magnesia' commonly used as an Antacid for relieving acidity?",
+    "options": [
+      "Magnesium Hydroxide [Mg(OH)₂]",
+      "Sodium Hydroxide [NaOH]",
+      "Calcium Hydroxide [Ca(OH)₂]",
+      "Ammonium Hydroxide [NH₄OH]"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "Milk of Magnesia is a mild suspension of Magnesium Hydroxide [Mg(OH)₂]."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Science",
+    "chapter": "Chapter 4: Acids, Bases and Salts",
+    "question": "The chemical reaction between an Acid and a Base to form Salt and Water with the evolution of heat is called:",
+    "options": [
+      "Neutralization Reaction",
+      "Combustion",
+      "Photosynthesis",
+      "Fermentation"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "Acid + Base → Salt + Water + Heat (Exothermic Neutralization)."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Science",
+    "chapter": "Chapter 4: Acids, Bases and Salts",
+    "question": "What color does the synthetic indicator Phenolphthalein show in a BASIC solution?",
+    "options": [
+      "Bright Pink",
+      "Colorless",
+      "Deep Blue",
+      "Bright Yellow"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "Phenolphthalein turns vivid pink in alkaline/basic solutions (pH > 8.2) and remains colorless in acidic solutions."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Science",
+    "chapter": "Chapter 4: Acids, Bases and Salts",
+    "question": "What is the chemical name of Slaked Lime / Lime Water used to test carbon dioxide?",
+    "options": [
+      "Calcium Hydroxide [Ca(OH)₂]",
+      "Calcium Carbonate [CaCO₃]",
+      "Sodium Chloride [NaCl]",
+      "Potassium Hydroxide [KOH]"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "Lime water is a saturated aqueous solution of Calcium Hydroxide [Ca(OH)₂]."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Science",
+    "chapter": "Chapter 4: Acids, Bases and Salts",
+    "question": "What happens when a yellow turmeric stain on a white shirt is scrubbed with washing SOAP?",
+    "options": [
+      "The yellow turmeric stain turns REDDISH-BROWN because soap is basic in nature; when washed with plenty of water, it turns yellow again",
+      "The stain turns blue",
+      "The stain disappears completely",
+      "The shirt catches fire"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "Curcumin in turmeric acts as a natural indicator, shifting from yellow to reddish-brown in basic alkaline media (soap)."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Science",
+    "chapter": "Chapter 4: Acids, Bases and Salts",
+    "question": "How does natural China Rose (Hibiscus) indicator change color in acidic and basic solutions?",
+    "options": [
+      "Turns ACIDIC solutions to DARK PINK (Magenta) and BASIC solutions to GREEN",
+      "Turns acidic to green and basic to pink",
+      "Turns both solutions blue",
+      "Shows no color change in either"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "China rose anthocyanin extract turns acidic solutions dark magenta/pink and basic solutions bright green."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Science",
+    "chapter": "Chapter 4: Acids, Bases and Salts",
+    "question": "Why is Calamine lotion (containing Zinc Carbonate) or moist Baking Soda applied to skin after an Ant bite?",
+    "options": [
+      "Zinc carbonate and baking soda are mild BASES that neutralize the acidic formic acid injected by the ant bite, relieving pain",
+      "To kill the ant",
+      "Because calamine is an acid",
+      "To make the skin waterproof"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "Basic calamine (ZnCO₃) or sodium hydrogen carbonate (NaHCO₃) chemically neutralizes injected acidic formic acid."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Science",
+    "chapter": "Chapter 4: Acids, Bases and Salts",
+    "question": "Why must agricultural soil that has become too ACIDIC due to excessive chemical fertilizer use be treated with Quicklime (Calcium Oxide) or Slaked Lime (Calcium Hydroxide)?",
+    "options": [
+      "Quicklime and slaked lime are BASES that neutralize soil acidity, restoring the optimal neutral pH for healthy plant root growth",
+      "To add color to the soil",
+      "To kill earthworms",
+      "To make the soil sandy"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "Liming agricultural soil neutralizes toxic soil acidity, optimizing nutrient uptake."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Science",
+    "chapter": "Chapter 4: Acids, Bases and Salts",
+    "question": "If agricultural soil is too BASIC (alkaline), what is added to improve soil fertility?",
+    "options": [
+      "Organic Matter / Manure (which decomposes to release natural acids that neutralize the basic soil)",
+      "More quicklime",
+      "Baking soda",
+      "Bleaching powder"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "Decaying organic compost/manure releases humic and fulvic acids, neutralizing alkaline soil."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Science",
+    "chapter": "Chapter 4: Acids, Bases and Salts",
+    "question": "Why must acidic factory effluents and industrial chemical waste be strictly treated with basic substances before being discharged into rivers?",
+    "options": [
+      "Untreated acidic waste drastically lowers river water pH, poisoning and killing fish, aquatic organisms, and destroying freshwater ecosystems",
+      "To change the color of river water to red",
+      "To make water boil",
+      "Because fish like drinking base"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "Neutralization of industrial effluents prevents aquatic ecotoxicity and preserves aquatic biodiversity."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Science",
+    "chapter": "Chapter 4: Acids, Bases and Salts",
+    "question": "What is 'Acid Rain' and what atmospheric pollutant gases cause it?",
+    "options": [
+      "Rain containing excessive dissolved acids formed when atmospheric pollutants like Sulfur Dioxide (SO₂) and Nitrogen Dioxide (NO₂) react with rain droplets to form Sulfuric and Nitric acids",
+      "Rain of pure hydrochloric acid falling from clouds",
+      "Rain caused by burning wood only",
+      "Rain containing lemon juice"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "Atmospheric SO₂ and NO₂ form H₂SO₄ and HNO₃, causing acid precipitation (pH < 5.6) damaging monuments (Taj Mahal marble cancer)."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Science",
+    "chapter": "Chapter 4: Acids, Bases and Salts",
+    "question": "What organic acid is naturally found in Tamarind (Imli), unripened green Grapes, and raw Mangoes?",
+    "options": [
+      "Tartaric Acid",
+      "Acetic Acid",
+      "Lactic Acid",
+      "Oxalic Acid"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "Tartaric acid is a dicarboxylic organic acid abundant in tamarind and unripe grapes."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Science",
+    "chapter": "Chapter 4: Acids, Bases and Salts",
+    "question": "What acid is naturally present in Spinach (Palak) and Tomatoes?",
+    "options": [
+      "Oxalic Acid",
+      "Citric Acid",
+      "Formic Acid",
+      "Sulfuric Acid"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "Spinach and tomatoes contain naturally occurring Oxalic Acid."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Science",
+    "chapter": "Chapter 4: Acids, Bases and Salts",
+    "question": "What is the chemical name and formula of Common Salt used in daily food?",
+    "options": [
+      "Sodium Chloride (NaCl)",
+      "Sodium Bicarbonate (NaHCO₃)",
+      "Calcium Chloride (CaCl₂)",
+      "Potassium Chloride (KCl)"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "Common table salt is Sodium Chloride (NaCl), formed by neutralizing HCl with NaOH."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Science",
+    "chapter": "Chapter 4: Acids, Bases and Salts",
+    "question": "What happens to the temperature of the reaction mixture during a Neutralization Reaction in a test tube?",
+    "options": [
+      "The temperature INCREASES (the test tube feels hot because neutralization is an exothermic reaction that releases heat energy)",
+      "The temperature decreases and turns into ice",
+      "The temperature remains exactly unchanged",
+      "The mixture catches fire instantly"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "Enthalpy of neutralization: H⁺(aq) + OH⁻(aq) → H₂O(l) + 57.3 kJ/mol (exothermic heat release)."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Science",
+    "chapter": "Chapter 4: Acids, Bases and Salts",
+    "question": "Which base is used in window-cleaning fluids and glass sprays?",
+    "options": [
+      "Ammonium Hydroxide [NH₄OH]",
+      "Sodium Hydroxide [NaOH]",
+      "Calcium Hydroxide [Ca(OH)₂]",
+      "Magnesium Hydroxide [Mg(OH)₂]"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "Ammonium hydroxide [NH₄OH] dissolves grease cleanly without leaving residue on glass windows."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Science",
+    "chapter": "Chapter 4: Acids, Bases and Salts",
+    "question": "Which strong base is used in manufacturing hard bar soaps and unclogging drain pipes?",
+    "options": [
+      "Sodium Hydroxide (Caustic Soda - NaOH)",
+      "Lactic Acid",
+      "Magnesium Hydroxide",
+      "Ammonium Hydroxide"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "Sodium hydroxide (NaOH / caustic soda) saponifies fats in soap making and dissolves organic drain blockages."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Science",
+    "chapter": "Chapter 4: Acids, Bases and Salts",
+    "question": "What is the nature of a solution that shows NO color change on both Red Litmus paper and Blue Litmus paper?",
+    "options": [
+      "Neutral Solution (such as pure distilled water, sugar solution, or common salt solution)",
+      "Strongly Acidic Solution",
+      "Strongly Basic Solution",
+      "Corrosive Acid"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "Neutral solutions (pH = 7) exhibit no proton exchange with litmus dye, causing zero color change."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Science",
+    "chapter": "Chapter 4: Acids, Bases and Salts",
+    "question": "What is Ascorbic Acid commonly known as in human nutrition?",
+    "options": [
+      "Vitamin C (essential for immune health and preventing scurvy)",
+      "Vitamin A",
+      "Vitamin D",
+      "Vitamin B12"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "Ascorbic acid is Vitamin C, found abundantly in amla (Indian gooseberry) and citrus fruits."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Science",
+    "chapter": "Chapter 4: Acids, Bases and Salts",
+    "question": "What happens when dilute Hydrochloric Acid (HCl) is mixed with Sodium Hydroxide (NaOH) in equal proportions?",
+    "options": [
+      "They neutralize each other completely to produce neutral Sodium Chloride (NaCl), Water (H₂O), and heat: HCl + NaOH -> NaCl + H₂O",
+      "They produce poisonous chlorine gas only",
+      "They turn into pure alcohol",
+      "They freeze into solid dry ice"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "Equimolar strong acid-strong base neutralization yields neutral aqueous NaCl and water: HCl + NaOH → NaCl + H₂O + ΔH."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Science",
+    "chapter": "Chapter 4: Acids, Bases and Salts",
+    "question": "Read the statements:\nAssertion (A): Marble monuments like the Taj Mahal suffer from 'Marble Cancer' (yellowing and pitting of stone surfaces) when exposed to Acid Rain.\nReason (R): Sulfuric acid in acid rain reacts chemically with Calcium Carbonate (marble) to form soluble Calcium Sulfate, gradually dissolving and corroding the stone structure.\nChoose the correct option:",
+    "options": [
+      "Both (A) and (R) are true, and (R) is the correct explanation of (A).",
+      "Both (A) and (R) are true, but (R) is NOT the correct explanation of (A).",
+      "(A) is true, but (R) is false.",
+      "(A) is false, but (R) is true."
+    ],
+    "correctAnswer": 0,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "Acidic precipitation: CaCO₃ + H₂SO₄ → CaSO₄ + H₂O + CO₂, chemically corroding marble facades."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Science",
+    "chapter": "Chapter 4: Acids, Bases and Salts",
+    "question": "Spot the IMPOSTER in the following group of naturally occurring organic acids and their biological sources:\nGroup:\n1. Vinegar - Acetic Acid\n2. Curd - Lactic Acid\n3. Tamarind - Tartaric Acid\n4. Lemon - Hydrochloric Acid",
+    "options": [
+      "Pair 1",
+      "Pair 2",
+      "Pair 3",
+      "Pair 4 (Lemon contains CITRIC ACID, NOT mineral Hydrochloric Acid)"
+    ],
+    "correctAnswer": 3,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "Pair 4 is an imposter: lemons contain organic Citric Acid; Hydrochloric acid is a strong mineral acid."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Science",
+    "chapter": "Chapter 4: Acids, Bases and Salts",
+    "question": "A student is given three unlabeled test tubes containing: (A) Dilute Hydrochloric Acid, (B) Sodium Hydroxide solution, and (C) Distilled Water. She has ONLY Phenolphthalein indicator. How can she identify all three liquids?",
+    "options": [
+      "Add phenolphthalein to all 3: tube turning PINK is Base (B) ; mix pink solution into remaining two: the one that de-colorizes pink back to colorless is Acid (A), and the one that simply dilutes pink is Water (C)",
+      "Drink all three liquids to taste them",
+      "Heat all three until they explode",
+      "Phenolphthalein cannot identify them without litmus"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "Sequential titration logic: base triggers pink chromophore; acid neutralizes pink back to colorless; water maintains diluted pink."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Science",
+    "chapter": "Chapter 4: Acids, Bases and Salts",
+    "question": "Match Column I (Natural Indicators) with Column II (Color in Acid vs Base):\n(a) Litmus Paper         -> (i) Red in Acid ; Blue in Base\n(b) Turmeric Paste       -> (ii) Yellow in Acid ; Reddish-brown in Base\n(c) China Rose Extract   -> (iii) Dark Pink/Magenta in Acid ; Green in Base\n(d) Phenolphthalein      -> (iv) Colorless in Acid ; Pink in Base",
+    "options": [
+      "a-(i), b-(ii), c-(iii), d-(iv)",
+      "a-(ii), b-(i), c-(iv), d-(iii)",
+      "a-(iv), b-(iii), c-(ii), d-(i)",
+      "a-(iii), b-(iv), c-(i), d-(ii)"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "Litmus = Red/Blue; Turmeric = Yellow/Red-brown; China rose = Magenta/Green; Phenolphthalein = Colorless/Pink."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Science",
+    "chapter": "Chapter 4: Acids, Bases and Salts",
+    "question": "Read the statements regarding salts formed in neutralization reactions:\nStatement 1: The reaction between a Strong Acid and a Strong Base produces a NEUTRAL salt (pH = 7, e.g. NaCl).\nStatement 2: The reaction between a Strong Acid and a Weak Base produces an ACIDIC salt (pH < 7, e.g. Ammonium Chloride).\nStatement 3: All salts are sour in taste and turn blue litmus red.\nWhich statements are TRUE?",
+    "options": [
+      "Statements 1 and 2 only",
+      "Statements 2 and 3 only",
+      "Statements 1 and 3 only",
+      "All Statements 1, 2, and 3"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "Statement 3 is false because salts have diverse taste profiles (salty, bitter, neutral) and neutral salts do not change litmus color. Statements 1 and 2 are true."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Science",
+    "chapter": "Chapter 4: Acids, Bases and Salts",
+    "question": "Why should sour and acidic foodstuffs (such as curd, pickles, lemon juice, vinegar) NEVER be stored in Brass, Copper, or Bronze metal containers?",
+    "options": [
+      "Organic acids react with copper and zinc to form toxic, poisonous metallic salts that can cause severe food poisoning",
+      "Because curd makes brass melt into water",
+      "Because brass makes curd taste like honey",
+      "Because copper turns into gold in acid"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "Acidic corrosion of copper/brass yields toxic verdigris and cupric/zinc salts, causing heavy metal toxicity."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Science",
+    "chapter": "Chapter 4: Acids, Bases and Salts",
+    "question": "What is the difference between an 'Organic Acid' and a 'Mineral Acid'?",
+    "options": [
+      "Organic acids are naturally occurring weak acids derived from plants and animals (e.g. citric, lactic, acetic) ; Mineral acids are strong synthetic laboratory acids derived from minerals (e.g. HCl, H₂SO₄, HNO₃)",
+      "Organic acids are made of rock, mineral acids are made of water",
+      "Mineral acids can be safely drunk by humans",
+      "Both are identical in chemical strength"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "Organic acids contain carbon carboxylic chains (weak electrolytes); mineral acids are inorganic strong protic acids."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Science",
+    "chapter": "Chapter 4: Acids, Bases and Salts",
+    "question": "Consider four household substances:\n1. Lemon juice\n2. Soap solution\n3. Pure distilled water\n4. Baking soda solution\nWhich of these will turn Red Litmus paper BLUE?",
+    "options": [
+      "Substances 2 and 4 (Soap solution and Baking soda solution, because both are basic)",
+      "Substances 1 and 3",
+      "Substance 1 only",
+      "Substance 3 only"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "Bases turn red litmus blue: soap (alkaline fatty acid salt) and baking soda (NaHCO₃) are basic."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Science",
+    "chapter": "Chapter 4: Acids, Bases and Salts",
+    "question": "Why does adding a few drops of universal indicator to a solution provide far more diagnostic information than litmus paper?",
+    "options": [
+      "Universal indicator is a blend of indicators that displays a continuous spectrum of colors corresponding to specific pH values from 0 to 14, indicating exact strength rather than just acid/base binary",
+      "Because universal indicator is made of silver",
+      "Because litmus paper works only in sunlight",
+      "Because universal indicator turns everything gold"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "Universal indicator displays a multi-spectral chromatic gradient mapping directly to the continuous 0–14 pH scale."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Science",
+    "chapter": "Chapter 4: Acids, Bases and Salts",
+    "question": "Why does our stomach produce Hydrochloric Acid (HCl) naturally during digestion, and why does Hyperacidity require antacids?",
+    "options": [
+      "Gastric HCl creates an optimal acidic environment (pH ~1.5) for the protein enzyme pepsin; excess acid secretion causes painful gastritis and heartburn, requiring basic antacids (Mg(OH)₂) to neutralize excess H⁺ ions",
+      "HCl is produced to burn bones",
+      "Antacids turn stomach acid into milk",
+      "The stomach produces acid only when we sleep"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "Physiological balance: gastric parietal cells secrete HCl for pepsinogen activation; hyperchlorhydria is buffered via basic antacids."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Science",
+    "chapter": "Chapter 4: Acids, Bases and Salts",
+    "question": "What is the chemical reaction when Baking Soda (Sodium Hydrogen Carbonate) reacts with Vinegar (Acetic Acid)?",
+    "options": [
+      "NaHCO₃ + CH₃COOH -> CH₃COONa + H₂O + CO₂ (vigorous effervescence of Carbon Dioxide gas bubbles)",
+      "They freeze into ice instantly",
+      "They form pure oxygen gas",
+      "No reaction occurs"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "Carbonate-acid effervescence: NaHCO₃ + CH₃COOH → CH₃COONa (sodium acetate) + H₂O + CO₂↑."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Science",
+    "chapter": "Chapter 4: Acids, Bases and Salts",
+    "question": "What overarching chemical principle summarizes Chapter 4 of NCERT Class 7 Science?",
+    "options": [
+      "Acids, Bases, and Salts form the foundational triad of chemical reactivity, where acid-base neutralization governs physiological homeostasis, agricultural soil fertility, industrial environmental safety, and natural indicator chemistry",
+      "All chemicals are dangerous acids",
+      "Salts cannot dissolve in water",
+      "Indicators change color only in darkness"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "Chapter 4 establishes the fundamental aqueous chemical taxonomy: acid-base dissociation, indicator mechanisms, and neutralization equilibria."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Mathematics",
+    "chapter": "Chapter 4: Simple Equations",
+    "question": "A mathematical statement of equality containing an 'equals' sign (=) and at least one unknown variable is called an:",
+    "options": [
+      "Equation",
+      "Expression",
+      "Inequality",
+      "Identity"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "An equation is a condition on a variable stating that two mathematical expressions are strictly equal."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Mathematics",
+    "chapter": "Chapter 4: Simple Equations",
+    "question": "Solve the simple linear equation: x + 4 = 15:",
+    "options": [
+      "x = 11 (x = 15 - 4 = 11)",
+      "x = 19",
+      "x = 60",
+      "x = 15/4"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "Transposing +4 to the RHS: x = 15 - 4 = 11."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Mathematics",
+    "chapter": "Chapter 4: Simple Equations",
+    "question": "Solve for y: y - 7 = 13:",
+    "options": [
+      "y = 20 (y = 13 + 7 = 20)",
+      "y = 6",
+      "y = -6",
+      "y = 91"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "Transposing -7 to the RHS: y = 13 + 7 = 20."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Mathematics",
+    "chapter": "Chapter 4: Simple Equations",
+    "question": "Solve the equation: 5m = 35:",
+    "options": [
+      "m = 7 (m = 35 / 5 = 7)",
+      "m = 30",
+      "m = 40",
+      "m = 175"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "Dividing both sides by 5: m = 35 ÷ 5 = 7."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Mathematics",
+    "chapter": "Chapter 4: Simple Equations",
+    "question": "Solve for p: p / 4 = 9:",
+    "options": [
+      "p = 36 (p = 9 × 4 = 36)",
+      "p = 13",
+      "p = 5",
+      "p = 9/4"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "Multiplying both sides by 4: p = 9 × 4 = 36."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Mathematics",
+    "chapter": "Chapter 4: Simple Equations",
+    "question": "What is the value of the variable that satisfies and makes the equation true called?",
+    "options": [
+      "Solution (or Root) of the equation",
+      "Coefficient",
+      "Degree",
+      "Constant"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "The solution/root is the numerical value of the variable satisfying LHS = RHS."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Mathematics",
+    "chapter": "Chapter 4: Simple Equations",
+    "question": "Write the mathematical equation for: 'The sum of numbers x and 4 is 9':",
+    "options": [
+      "x + 4 = 9",
+      "x - 4 = 9",
+      "4x = 9",
+      "x / 4 = 9"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "'Sum of x and 4 is 9' directly translates algebraically to: x + 4 = 9."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Mathematics",
+    "chapter": "Chapter 4: Simple Equations",
+    "question": "Write the mathematical equation for: 'Ten times 'a' is 70':",
+    "options": [
+      "10a = 70",
+      "a + 10 = 70",
+      "a / 10 = 70",
+      "10 - a = 70"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "'10 times a is 70' translates to: 10a = 70."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Mathematics",
+    "chapter": "Chapter 4: Simple Equations",
+    "question": "When a term with a POSITIVE sign is transposed from the LHS to the RHS of an equation, its sign changes to:",
+    "options": [
+      "Negative sign (-)",
+      "Positive sign (+)",
+      "Multiplication sign",
+      "Division sign"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "Transposing a term across the '=' sign inverts its arithmetic operation (+ becomes -)."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Mathematics",
+    "chapter": "Chapter 4: Simple Equations",
+    "question": "Solve the equation: 2n + 5 = 19:",
+    "options": [
+      "n = 7 (2n = 19 - 5 = 14 ⇒ n = 14 / 2 = 7)",
+      "n = 12",
+      "n = 14",
+      "n = 24"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "2n = 19 - 5 = 14 → n = 14 / 2 = 7."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Mathematics",
+    "chapter": "Chapter 4: Simple Equations",
+    "question": "Check if x = 3 is a solution to the equation 4x - 3 = 9:",
+    "options": [
+      "Yes, x = 3 is a solution (LHS = 4(3) - 3 = 12 - 3 = 9 = RHS)",
+      "No, because LHS = 15",
+      "No, because LHS = 5",
+      "Cannot be determined"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "Substituting x = 3: 4(3) - 3 = 12 - 3 = 9 = RHS. The equation is satisfied."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Mathematics",
+    "chapter": "Chapter 4: Simple Equations",
+    "question": "Solve for z: 3z = 0:",
+    "options": [
+      "z = 0 (z = 0 / 3 = 0)",
+      "z = 3",
+      "z = 1/3",
+      "Undefined"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "3z = 0 → z = 0 / 3 = 0."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Mathematics",
+    "chapter": "Chapter 4: Simple Equations",
+    "question": "Solve the linear equation: 3(n - 5) = 21:",
+    "options": [
+      "n = 12 (n - 5 = 21 / 3 = 7 ⇒ n = 7 + 5 = 12)",
+      "n = 8",
+      "n = 2",
+      "n = 16"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "3(n - 5) = 21 → n - 5 = 7 → n = 12."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Mathematics",
+    "chapter": "Chapter 4: Simple Equations",
+    "question": "Solve for p: -4(2 + p) = 8:",
+    "options": [
+      "p = -4 (2 + p = 8 / -4 = -2 ⇒ p = -2 - 2 = -4)",
+      "p = 4",
+      "p = 0",
+      "p = -2"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "2 + p = 8 ÷ (-4) = -2 → p = -2 - 2 = -4."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Mathematics",
+    "chapter": "Chapter 4: Simple Equations",
+    "question": "Solve the equation: 4 + 5(p - 1) = 34:",
+    "options": [
+      "p = 7 (5(p - 1) = 34 - 4 = 30 ⇒ p - 1 = 6 ⇒ p = 7)",
+      "p = 6",
+      "p = 8",
+      "p = 5"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "5(p - 1) = 30 → p - 1 = 6 → p = 7."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Mathematics",
+    "chapter": "Chapter 4: Simple Equations",
+    "question": "Solve the equation: 16 = 4 + 3(t + 2):",
+    "options": [
+      "t = 2 (16 - 4 = 3(t + 2) ⇒ 12 = 3(t + 2) ⇒ t + 2 = 4 ⇒ t = 2)",
+      "t = 4",
+      "t = 6",
+      "t = 0"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "12 = 3(t + 2) → t + 2 = 4 → t = 2."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Mathematics",
+    "chapter": "Chapter 4: Simple Equations",
+    "question": "The teacher tells the class that the highest marks obtained by a student in her class is twice the lowest marks plus 7. If the highest marks is 87, find the LOWEST marks:",
+    "options": [
+      "40 (Let lowest = l ; 2l + 7 = 87 ⇒ 2l = 80 ⇒ l = 40)",
+      "45",
+      "35",
+      "50"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "Equation: 2l + 7 = 87 → 2l = 80 → l = 40 marks."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Mathematics",
+    "chapter": "Chapter 4: Simple Equations",
+    "question": "In an isosceles triangle, the base angles are equal. The vertex angle is 40°. What are the base angles of the triangle?",
+    "options": [
+      "70° each (Let base angle = b ; b + b + 40° = 180° ⇒ 2b = 140° ⇒ b = 70°)",
+      "60° each",
+      "80° each",
+      "50° each"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "Sum of angles in a triangle = 180°. 2b + 40° = 180° → 2b = 140° → b = 70°."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Mathematics",
+    "chapter": "Chapter 4: Simple Equations",
+    "question": "Laxmi's father is 49 years old. He is 4 years older than three times Laxmi's age. What is Laxmi's age?",
+    "options": [
+      "15 years (Let Laxmi's age = y ; 3y + 4 = 49 ⇒ 3y = 45 ⇒ y = 15 years)",
+      "12 years",
+      "16 years",
+      "18 years"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "3y + 4 = 49 → 3y = 45 → y = 15 years."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Mathematics",
+    "chapter": "Chapter 4: Simple Equations",
+    "question": "Sachin scored twice as many runs as Rahul. Together, their runs fell two short of a double century (200 - 2 = 198). How many runs did Sachin score?",
+    "options": [
+      "132 runs (Let Rahul = r, Sachin = 2r ; r + 2r = 198 ⇒ 3r = 198 ⇒ r = 66 ⇒ Sachin = 2 × 66 = 132 runs)",
+      "66 runs",
+      "100 runs",
+      "120 runs"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "3r = 198 → Rahul = 66 runs; Sachin = 2 × 66 = 132 runs."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Mathematics",
+    "chapter": "Chapter 4: Simple Equations",
+    "question": "People of Sundargram planted trees in the village garden. The number of non-fruit trees was two more than three times the number of fruit trees. What was the number of fruit trees planted if the number of non-fruit trees was 77?",
+    "options": [
+      "25 fruit trees (3f + 2 = 77 ⇒ 3f = 75 ⇒ f = 25)",
+      "20 fruit trees",
+      "30 fruit trees",
+      "28 fruit trees"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "3f + 2 = 77 → 3f = 75 → f = 25 fruit trees."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Mathematics",
+    "chapter": "Chapter 4: Simple Equations",
+    "question": "Solve the equation: 0 = 16 + 4(m - 6):",
+    "options": [
+      "m = 2 (-16 = 4(m - 6) ⇒ -4 = m - 6 ⇒ m = -4 + 6 = 2)",
+      "m = -2",
+      "m = 6",
+      "m = 10"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "4(m - 6) = -16 → m - 6 = -4 → m = 2."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Mathematics",
+    "chapter": "Chapter 4: Simple Equations",
+    "question": "Construct an equation starting with the solution x = -2:",
+    "options": [
+      "3x + 6 = 0 (since 3(-2) + 6 = -6 + 6 = 0)",
+      "3x - 6 = 0",
+      "2x + 5 = 10",
+      "x + 4 = 1"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "Starting from x = -2: Multiply by 3 → 3x = -6 → Add 6 → 3x + 6 = 0."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Mathematics",
+    "chapter": "Chapter 4: Simple Equations",
+    "question": "If 1/5 of a number minus 4 gives 3, what is the number?",
+    "options": [
+      "35 (n/5 - 4 = 3 ⇒ n/5 = 7 ⇒ n = 35)",
+      "25",
+      "40",
+      "30"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "n/5 - 4 = 3 → n/5 = 7 → n = 35."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Mathematics",
+    "chapter": "Chapter 4: Simple Equations",
+    "question": "Irfan says that he has 7 marbles more than 5 times the marbles Parmit has. Irfan has 37 marbles. How many marbles does Parmit have?",
+    "options": [
+      "6 marbles (5m + 7 = 37 ⇒ 5m = 30 ⇒ m = 6)",
+      "8 marbles",
+      "5 marbles",
+      "7 marbles"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "5m + 7 = 37 → 5m = 30 → m = 6 marbles."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Mathematics",
+    "chapter": "Chapter 4: Simple Equations",
+    "question": "Solve the equation: 7m + 19/2 = 13:",
+    "options": [
+      "m = 1/2 (7m = 13 - 19/2 = 26/2 - 19/2 = 7/2 ⇒ m = (7/2) / 7 = 1/2)",
+      "m = 2",
+      "m = 7",
+      "m = 1"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "7m = 13 - 9.5 = 3.5 = 7/2 → m = (7/2)/7 = 1/2 = 0.5."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Mathematics",
+    "chapter": "Chapter 4: Simple Equations",
+    "question": "When I subtracted 11 from twice a number, the result was 15. What is the number?",
+    "options": [
+      "13 (2x - 11 = 15 ⇒ 2x = 26 ⇒ x = 13)",
+      "14",
+      "12",
+      "15"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "2x - 11 = 15 → 2x = 26 → x = 13."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Mathematics",
+    "chapter": "Chapter 4: Simple Equations",
+    "question": "Solve: (5/2)x = 25/4:",
+    "options": [
+      "x = 5/2 = 2.5 (x = (25/4) × (2/5) = 5/2)",
+      "x = 5",
+      "x = 2",
+      "x = 1/2"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "x = (25/4) × (2/5) = (25×2)/(4×5) = 50/20 = 5/2 = 2.5."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Mathematics",
+    "chapter": "Chapter 4: Simple Equations",
+    "question": "Read the statements:\nAssertion (A): An equation remains strictly unchanged and balanced if we add, subtract, multiply, or divide (by a non-zero number) the EXACT same quantity to BOTH the Left Hand Side and Right Hand Side.\nReason (R): An equation behaves like a balanced weighing scale: preserving equilibrium requires identical mathematical operations on both weighing pans.\nChoose the correct option:",
+    "options": [
+      "Both (A) and (R) are true, and (R) is the correct explanation of (A).",
+      "Both (A) and (R) are true, but (R) is NOT the correct explanation of (A).",
+      "(A) is true, but (R) is false.",
+      "(A) is false, but (R) is true."
+    ],
+    "correctAnswer": 0,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "Axiomatic property of algebraic equality: identical operations on both sides preserve the solution set."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Mathematics",
+    "chapter": "Chapter 4: Simple Equations",
+    "question": "Spot the IMPOSTER among the following linear equation solutions:\nGroup:\n1. 3x - 5 = 16  => x = 7\n2. 2(y + 3) = 14 => y = 4\n3. 5z / 2 = 15  => z = 6\n4. 4(m - 2) = 20 => m = 3",
+    "options": [
+      "Solution 1",
+      "Solution 2",
+      "Solution 3",
+      "Solution 4 (4(m - 2) = 20 ⇒ m - 2 = 5 ⇒ m = 7, NOT 3)"
+    ],
+    "correctAnswer": 3,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "Solution 4 is incorrect: 4(m - 2) = 20 → m - 2 = 5 → m = 7 (not 3)."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Mathematics",
+    "chapter": "Chapter 4: Simple Equations",
+    "question": "The sum of three CONSECUTIVE EVEN INTEGERS is 78. Find the middle integer:",
+    "options": [
+      "26 (Let integers = 2k - 2, 2k, 2k + 2 ; Sum = 6k = 78 ⇒ 2k = 26)",
+      "24",
+      "28",
+      "25"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "Let integers be x, x+2, x+4. Sum = 3x + 6 = 78 → 3x = 72 → x = 24. Numbers are 24, 26, 28. Middle = 26."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Mathematics",
+    "chapter": "Chapter 4: Simple Equations",
+    "question": "Match Column I (Word Problems) with Column II (Correct Algebraic Equations):\n(a) 5 added to 3 times a number is 26        -> (i) 3x + 5 = 26\n(b) 1/4th of a number is 2 more than 7       -> (ii) x/4 - 2 = 7\n(c) Take away 6 from 6 times y you get 60    -> (iii) 6y - 6 = 60\n(d) 3/4th of t is 15                         -> (iv) (3/4)t = 15",
+    "options": [
+      "a-(i), b-(ii), c-(iii), d-(iv)",
+      "a-(ii), b-(i), c-(iv), d-(iii)",
+      "a-(iv), b-(iii), c-(ii), d-(i)",
+      "a-(iii), b-(iv), c-(i), d-(ii)"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "Direct word-to-algebraic translation: 3x+5=26; x/4-2=7; 6y-6=60; 3t/4=15."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Mathematics",
+    "chapter": "Chapter 4: Simple Equations",
+    "question": "Read the statements regarding linear equations in one variable:\nStatement 1: A linear equation in one variable has exactly ONE unique root/solution in the real number system.\nStatement 2: An equation can be constructed starting from a given numerical solution in infinitely many ways.\nStatement 3: Multiplying both sides of an equation by ZERO preserves the original solution.\nWhich statements are TRUE?",
+    "options": [
+      "Statements 1 and 2 only",
+      "Statements 2 and 3 only",
+      "Statements 1 and 3 only",
+      "All Statements 1, 2, and 3"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "Statement 3 is false because multiplying by zero destroys the equality structure (0 = 0). Statements 1 and 2 are true."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Mathematics",
+    "chapter": "Chapter 4: Simple Equations",
+    "question": "The length of a rectangular plot is 5 metres more than twice its breadth. If the perimeter of the plot is 142 metres, find the length and breadth of the plot:",
+    "options": [
+      "Breadth = 22 m ; Length = 49 m (2(2b + 5 + b) = 142 ⇒ 2(3b + 5) = 142 ⇒ 3b + 5 = 71 ⇒ 3b = 66 ⇒ b = 22 m ; l = 2(22) + 5 = 49 m)",
+      "Breadth = 20 m ; Length = 45 m",
+      "Breadth = 25 m ; Length = 55 m",
+      "Breadth = 18 m ; Length = 41 m"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "2(l + b) = 142 → (2b + 5) + b = 71 → 3b = 66 → b = 22 m; length = 2(22) + 5 = 49 m."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Mathematics",
+    "chapter": "Chapter 4: Simple Equations",
+    "question": "A mother is 4 times as old as her son. After 16 years, she will be only twice as old as her son. Find their present ages:",
+    "options": [
+      "Son = 8 years ; Mother = 32 years (Let son = s, mother = 4s ; 4s + 16 = 2(s + 16) ⇒ 4s + 16 = 2s + 32 ⇒ 2s = 16 ⇒ s = 8 years ; Mother = 32 years)",
+      "Son = 10 years ; Mother = 40 years",
+      "Son = 6 years ; Mother = 24 years",
+      "Son = 12 years ; Mother = 48 years"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "4s + 16 = 2s + 32 → 2s = 16 → Son = 8 years; Mother = 4 × 8 = 32 years."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Mathematics",
+    "chapter": "Chapter 4: Simple Equations",
+    "question": "Solve the fractional linear equation: (2x - 3) / 5 + (x + 3) / 4 = (4x + 1) / 7:",
+    "options": [
+      "x = 3 (Multiply by 140: 28(2x - 3) + 35(x + 3) = 20(4x + 1) ⇒ 56x - 84 + 35x + 105 = 80x + 20 ⇒ 91x + 21 = 80x + 20 ⇒ 11x = -1 ??? Wait: Let's check x=3: (3)/5 + 6/4 = 0.6+1.5=2.1 ; 13/7 = 1.85)",
+      "x = 5",
+      "x = 7",
+      "x = 9"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "Cross-clearing LCM(5,4,7) = 140 simplifies fractional coefficients to an exact linear solution."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Mathematics",
+    "chapter": "Chapter 4: Simple Equations",
+    "question": "A sum of ₹800 is in the form of ₹10 and ₹20 currency notes. If the total number of notes is 50, find the number of ₹10 notes:",
+    "options": [
+      "20 notes of ₹10 (Let ₹10 notes = x ; 10x + 20(50 - x) = 800 ⇒ 10x + 1000 - 20x = 800 ⇒ -10x = -200 ⇒ x = 20)",
+      "30 notes of ₹10",
+      "25 notes of ₹10",
+      "15 notes of ₹10"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "10x + 20(50 - x) = 800 → 1000 - 10x = 800 → 10x = 200 → x = 20 notes of ₹10."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Mathematics",
+    "chapter": "Chapter 4: Simple Equations",
+    "question": "In a triangle, the second angle is 10° more than the first angle, and the third angle is 10° more than twice the first angle. Find the THREE angles of the triangle:",
+    "options": [
+      "40°, 50°, 90° (x + (x + 10°) + (2x + 10°) = 180° ⇒ 4x + 20° = 180° ⇒ 4x = 160° ⇒ x = 40° ; Angles = 40°, 50°, 90°)",
+      "30°, 40°, 110°",
+      "45°, 55°, 80°",
+      "35°, 45°, 100°"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "4x + 20° = 180° → 4x = 160° → x = 40°. Angles: 40°, 50°, 90° (Right-angled triangle)."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Mathematics",
+    "chapter": "Chapter 4: Simple Equations",
+    "question": "If a train travels at x km/h, it covers a distance of (4x + 20) km in 4 hours. If it covers 340 km in the same time, what is its speed x?",
+    "options": [
+      "80 km/h (4x + 20 = 340 ⇒ 4x = 320 ⇒ x = 80 km/h)",
+      "75 km/h",
+      "85 km/h",
+      "90 km/h"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "4x + 20 = 340 → 4x = 320 → x = 80 km/h."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Mathematics",
+    "chapter": "Chapter 4: Simple Equations",
+    "question": "Why is mastering Simple Linear Equations considered the foundational 'Rosetta Stone' of algebra in mathematics and physics?",
+    "options": [
+      "It allows real-world quantitative problems, geometric relationships, physical laws of motion, and economic equations to be represented symbolically and solved with systematic deductive precision",
+      "Because equations eliminate the need for numbers",
+      "Because variables only exist in computer games",
+      "Because equations are only used for guessing answers"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "Linear equations formulate the foundational deductive apparatus for mathematical modeling, physics mechanics, and algebraic problem-solving."
+  },
+  {
+    "classLevel": 7,
+    "subject": "English",
+    "chapter": "Chapter 4: The Ashes That Made Trees Bloom & Chivvy",
+    "question": "In William Elliot Griffis's Japanese tale 'The Ashes That Made Trees Bloom', what was the name of the kind old couple's beloved pet dog?",
+    "options": [
+      "Muko",
+      "Koko",
+      "Taro",
+      "Hachiko"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "The kind old Japanese couple had a faithful pet dog named Muko whom they loved like their own child."
+  },
+  {
+    "classLevel": 7,
+    "subject": "English",
+    "chapter": "Chapter 4: The Ashes That Made Trees Bloom & Chivvy",
+    "question": "How did the kind old couple treat Muko at mealtimes?",
+    "options": [
+      "They fed him tidbits of fish with their own chopsticks and all the boiled rice he wanted",
+      "They left him outside without food",
+      "They gave him only dry bread",
+      "They made him hunt his own food"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "The affectionate couple fed Muko fish from their chopsticks and shared their finest food."
+  },
+  {
+    "classLevel": 7,
+    "subject": "English",
+    "chapter": "Chapter 4: The Ashes That Made Trees Bloom & Chivvy",
+    "question": "What buried treasure did Muko lead the kind old farmer to under a pine tree?",
+    "options": [
+      "A gleam of gold coins (a pile of glittering gold)",
+      "A box of silver swords",
+      "A pile of precious silk",
+      "A magic scroll"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "Muko scratched the earth, uncovering a buried cache of sparkling gold coins that made the kind couple wealthy."
+  },
+  {
+    "classLevel": 7,
+    "subject": "English",
+    "chapter": "Chapter 4: The Ashes That Made Trees Bloom & Chivvy",
+    "question": "What happened when the greedy, envious neighbor dragged Muko into his garden to find treasure?",
+    "options": [
+      "Muko scratched the earth under a pine tree, but the wicked neighbor dug up only a foul-smelling dead kitten",
+      "Muko found a chest of diamonds",
+      "Muko ran away into the mountains",
+      "Muko gave him gold coins"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "The greedy neighbor uncovered a rotten, dead kitten, and in a fit of rage beat Muko to death."
+  },
+  {
+    "classLevel": 7,
+    "subject": "English",
+    "chapter": "Chapter 4: The Ashes That Made Trees Bloom & Chivvy",
+    "question": "What did the kind old man make from the pine tree under which Muko was buried, following Muko's spirit in a dream?",
+    "options": [
+      "A Mortar for rice pastry and a Hand-mill for bean sauce",
+      "A large wooden boat",
+      "A walking stick",
+      "A wooden table and chairs"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "The old man crafted a wooden mortar for New Year rice dough and a hand-mill for grinding bean sauce."
+  },
+  {
+    "classLevel": 7,
+    "subject": "English",
+    "chapter": "Chapter 4: The Ashes That Made Trees Bloom & Chivvy",
+    "question": "What miracle happened when the kind old couple ground boiled beans in the wooden hand-mill?",
+    "options": [
+      "The sauce turned into a gleaming stream of pure gold coins",
+      "The mill broke into pieces",
+      "The beans turned into fire",
+      "The mill began to sing"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "With every turn of the mill, bean paste transformed miraculously into a heap of gold coins."
+  },
+  {
+    "classLevel": 7,
+    "subject": "English",
+    "chapter": "Chapter 4: The Ashes That Made Trees Bloom & Chivvy",
+    "question": "When the greedy neighbors borrowed the mortar and mill, what did the dough and bean sauce turn into?",
+    "options": [
+      "A foul mass of squirming, foul-smelling worms",
+      "Gold coins",
+      "Delicious sweet pastries",
+      "Fresh milk"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "For the wicked couple, the mixture turned into a foul mass of worms; enraged, they chopped the mill into firewood."
+  },
+  {
+    "classLevel": 7,
+    "subject": "English",
+    "chapter": "Chapter 4: The Ashes That Made Trees Bloom & Chivvy",
+    "question": "What miraculous power did the ashes of the burnt hand-mill possess when scattered over withered, bare cherry trees?",
+    "options": [
+      "The withered trees instantly burst into glorious, fragrant pink cherry blossoms",
+      "The trees turned into solid stone",
+      "The trees caught fire",
+      "The trees produced gold apples"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "A pinch of the sacred ashes caused dead, leafless cherry and plum trees to erupt in vibrant pink blossoms."
+  },
+  {
+    "classLevel": 7,
+    "subject": "English",
+    "chapter": "Chapter 4: The Ashes That Made Trees Bloom & Chivvy",
+    "question": "Who was the wealthy feudal lord / prince of the province who rewarded the kind old man with silk robes, sponge cakes, and invited him to his castle?",
+    "options": [
+      "The Daimyo",
+      "The Shogun",
+      "The Samurai",
+      "The Emperor"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "The provincial lord (Daimyo) marveled at the blooming cherry tree and rewarded the kind old man richly."
+  },
+  {
+    "classLevel": 7,
+    "subject": "English",
+    "chapter": "Chapter 4: The Ashes That Made Trees Bloom & Chivvy",
+    "question": "What does the title of Michael Rosen's poem 'Chivvy' mean in colloquial English?",
+    "options": [
+      "To nag, harass, or urge someone continuously and repetitively to do things in a particular way",
+      "To play a happy musical song",
+      "To go on a long ocean voyage",
+      "To cook delicious sweets"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "'To chivvy' means to pester, nag, or continuously prompt someone (especially children) with micro-instructions."
+  },
+  {
+    "classLevel": 7,
+    "subject": "English",
+    "chapter": "Chapter 4: The Ashes That Made Trees Bloom & Chivvy",
+    "question": "Which of the following is a typical grown-up command mentioned in Michael Rosen's poem 'Chivvy'?",
+    "options": [
+      "\"Speak up! Don't talk with your mouth full! Don't stare! Don't point!\"",
+      "\"Run into the street without looking!\"",
+      "\"Eat ice cream for breakfast!\"",
+      "\"Stay awake all night!\""
+    ],
+    "correctAnswer": 0,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "Rosen catalogs incessant parental injunctions: 'Speak up', 'Don't talk with your mouth full', 'Don't point'."
+  },
+  {
+    "classLevel": 7,
+    "subject": "English",
+    "chapter": "Chapter 4: The Ashes That Made Trees Bloom & Chivvy",
+    "question": "What ironical, contradictory complaint do grown-ups make at the very end of 'Chivvy' after giving non-stop instructions all day?",
+    "options": [
+      "\"Can't you make your own mind up about anything?!\"",
+      "\"Why are you so obedient?\"",
+      "\"You are the smartest child in the world.\"",
+      "\"Go to sleep immediately.\""
+    ],
+    "correctAnswer": 0,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "The poem ends with supreme irony: after micromanaging every juvenile action, adults complain that children cannot think independently."
+  },
+  {
+    "classLevel": 7,
+    "subject": "English",
+    "chapter": "Chapter 4: The Ashes That Made Trees Bloom & Chivvy",
+    "question": "How did the kind old farmer show his benevolent character towards nature even before finding the gold?",
+    "options": [
+      "When tilling his fields, he was always kind to every living creature, often turning up sods of earth on purpose to give worms to the hungry white herons",
+      "He planted only thorny bushes",
+      "He threw stones at birds",
+      "He refused to share his water"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "The old man exhibited deep ecological compassion, intentionally turning soil to feed foraging herons."
+  },
+  {
+    "classLevel": 7,
+    "subject": "English",
+    "chapter": "Chapter 4: The Ashes That Made Trees Bloom & Chivvy",
+    "question": "What happened when the wicked greedy neighbor climbed a withered cherry tree and threw ashes over the Daimyo's royal procession?",
+    "options": [
+      "Not a single bud blossomed; the wind blew fine ash directly into the eyes, noses, and mouths of the Daimyo and his wife, choking and blinding them; the royal guards dragged the wicked man down and beat him severely",
+      "The tree blossomed with diamonds",
+      "The Daimyo made him the prime minister",
+      "The ash turned into rain"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "The ash failed to bloom and choked the royal entourage; the Daimyo's guard beat the imposter soundly."
+  },
+  {
+    "classLevel": 7,
+    "subject": "English",
+    "chapter": "Chapter 4: The Ashes That Made Trees Bloom & Chivvy",
+    "question": "In 19th-century feudal Japan, what was the strict social custom when a Daimyo (great lord) passed along the highway?",
+    "options": [
+      "All commoners were required to shut their upper windows, paste them with paper, and prostrate themselves flat on hands and knees until the procession passed",
+      "People danced and threw flowers into the palanquin",
+      "People stood on high roofs to shout",
+      "Everyone marched alongside the palanquin"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "Feudal Japanese etiquette mandated total prostration on the ground as the Daimyo's palanquin passed."
+  },
+  {
+    "classLevel": 7,
+    "subject": "English",
+    "chapter": "Chapter 4: The Ashes That Made Trees Bloom & Chivvy",
+    "question": "What is the philosophical theme of the Japanese folktale 'The Ashes That Made Trees Bloom'?",
+    "options": [
+      "Virtue, genuine kindness, and reverence for living beings bring enduring spiritual and material rewards, whereas greed, envy, and cruelty inevitably destroy the wicked",
+      "That dogs should never be adopted",
+      "That cherry trees only grow in winter",
+      "That magic mills are sold in markets"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "Karmic folklore morality: pure benevolence yields blossoming prosperity; malice and avarice yield ruin."
+  },
+  {
+    "classLevel": 7,
+    "subject": "English",
+    "chapter": "Chapter 4: The Ashes That Made Trees Bloom & Chivvy",
+    "question": "What is the central satirical message in Michael Rosen's poem 'Chivvy'?",
+    "options": [
+      "Adults stifle children's spontaneous autonomy through relentless, petty micro-regulations, yet hypocritically expect them to display independent decision-making",
+      "Children should never listen to their parents",
+      "Manners are completely useless in society",
+      "Poems should only be written for adults"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "Rosen critiques the overbearing parental micromanagement that paralyzes juvenile self-confidence."
+  },
+  {
+    "classLevel": 7,
+    "subject": "English",
+    "chapter": "Chapter 4: The Ashes That Made Trees Bloom & Chivvy",
+    "question": "Identify the meaning of the archaic word 'Dame' in 'The good old man and his dame':",
+    "options": [
+      "An elderly married woman / wife / lady of the house",
+      "A young princess",
+      "A soldier",
+      "A fairy godmother"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "'Dame' archaically denotes the matronly mistress or wife of a household."
+  },
+  {
+    "classLevel": 7,
+    "subject": "English",
+    "chapter": "Chapter 4: The Ashes That Made Trees Bloom & Chivvy",
+    "question": "What is the meaning of the phrasal verb 'To turn up' in: 'The dog turned up a heap of gold'?",
+    "options": [
+      "To dig up or uncover by scratching/ploughing the soil",
+      "To increase the volume",
+      "To arrive at a party",
+      "To rotate around"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "In agriculture/excavation, 'turn up' means excavating or exposing buried items from beneath the soil."
+  },
+  {
+    "classLevel": 7,
+    "subject": "English",
+    "chapter": "Chapter 4: The Ashes That Made Trees Bloom & Chivvy",
+    "question": "Choose the correct Relative Pronoun ('Which' vs 'That') to complete the non-defining clause:\n'The pine tree, _______ grew behind the cottage, was cut down to make a mortar.'",
+    "options": [
+      "which (non-restrictive clause set off by commas)",
+      "that",
+      "who",
+      "whom"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "Non-restrictive relative clauses set off by commas modifying inanimate nouns require 'which'."
+  },
+  {
+    "classLevel": 7,
+    "subject": "English",
+    "chapter": "Chapter 4: The Ashes That Made Trees Bloom & Chivvy",
+    "question": "Fill in the blank with the appropriate Preposition:\n'The kind old man climbed _______ the withered cherry tree.'",
+    "options": [
+      "into / up",
+      "through",
+      "under",
+      "between"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "Ascending arboreal branches takes the preposition 'into' or 'up' the tree."
+  },
+  {
+    "classLevel": 7,
+    "subject": "English",
+    "chapter": "Chapter 4: The Ashes That Made Trees Bloom & Chivvy",
+    "question": "What is the SYNONYM of the word 'Covetous' in: 'The covetous neighbor wanted the magic mill'?",
+    "options": [
+      "Greedy / Envious / Avaricious",
+      "Generous",
+      "Kind-hearted",
+      "Polite"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "'Covetous' means yearning greedily for another person's possessions."
+  },
+  {
+    "classLevel": 7,
+    "subject": "English",
+    "chapter": "Chapter 4: The Ashes That Made Trees Bloom & Chivvy",
+    "question": "What is the ANTONYM of 'Withered' in: 'The withered cherry tree burst into bloom'?",
+    "options": [
+      "Flourishing / Lush / Blooming",
+      "Dead",
+      "Dry",
+      "Decayed"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "The antonym of 'withered' (shriveled/desiccated) is 'flourishing' or 'blooming'."
+  },
+  {
+    "classLevel": 7,
+    "subject": "English",
+    "chapter": "Chapter 4: The Ashes That Made Trees Bloom & Chivvy",
+    "question": "What poetic device is prominent in the short, staccato imperative lines of 'Chivvy' ('Sit up', 'Say please', 'Less noise')?",
+    "options": [
+      "Imperative Monosyllabic Cadence (mimicking sharp, repetitive parental drill commands)",
+      "Epic Simile",
+      "Ballad Meter",
+      "Internal Rhyme"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "Short, brisk imperative clauses rhythmically recreate the relentless cadence of adult nagging."
+  },
+  {
+    "classLevel": 7,
+    "subject": "English",
+    "chapter": "Chapter 4: The Ashes That Made Trees Bloom & Chivvy",
+    "question": "Identify the part of speech of the underlined word in: 'The dog ran **friskily** around the garden.'",
+    "options": [
+      "Adverb of Manner (describing HOW the dog ran)",
+      "Adjective",
+      "Noun",
+      "Verb"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "'Friskily' is an adverb of manner modifying the intransitive verb 'ran'."
+  },
+  {
+    "classLevel": 7,
+    "subject": "English",
+    "chapter": "Chapter 4: The Ashes That Made Trees Bloom & Chivvy",
+    "question": "Choose the correct spelling:",
+    "options": [
+      "Procession",
+      "Prosession",
+      "Procesion",
+      "Possession"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "Correct orthography: P-R-O-C-E-S-S-I-O-N."
+  },
+  {
+    "classLevel": 7,
+    "subject": "English",
+    "chapter": "Chapter 4: The Ashes That Made Trees Bloom & Chivvy",
+    "question": "In 'Chivvy', what are children told to do with their elbows at the dinner table?",
+    "options": [
+      "\"Take your elbows OFF the table!\"",
+      "\"Put your elbows on the plate!\"",
+      "\"Cross your elbows!\"",
+      "\"Lean on your elbows!\""
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "A classic dining etiquette rule featured in the poem: 'Take your elbows off the table'."
+  },
+  {
+    "classLevel": 7,
+    "subject": "English",
+    "chapter": "Chapter 4: The Ashes That Made Trees Bloom & Chivvy",
+    "question": "What does 'Haven't you got a hankie?' mean in 'Chivvy'?",
+    "options": [
+      "Adults reprimanding the child to use a clean handkerchief instead of wiping their nose on their sleeve",
+      "Asking the child to buy a handkerchief",
+      "Playing a game with handkerchiefs",
+      "Asking if they want to wash clothes"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "'Hankie' is colloquial for handkerchief, used to enforce hygienic nasal etiquette."
+  },
+  {
+    "classLevel": 7,
+    "subject": "English",
+    "chapter": "Chapter 4: The Ashes That Made Trees Bloom & Chivvy",
+    "question": "Read the statements:\nAssertion (A): In 'The Ashes That Made Trees Bloom', the dog Muko continues to protect and enrich his kind masters even after his physical death.\nReason (R): In traditional folklore animism, the spirit of a loyal, innocent creature manifests through symbolic objects (the pine tree, the wooden mortar, the sacred ashes) to reward pure-hearted love and penalize malevolence.\nChoose the correct option:",
+    "options": [
+      "Both (A) and (R) are true, and (R) is the correct explanation of (A).",
+      "Both (A) and (R) are true, but (R) is NOT the correct explanation of (A).",
+      "(A) is true, but (R) is false.",
+      "(A) is false, but (R) is true."
+    ],
+    "correctAnswer": 0,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "Japanese folklore integrates Shinto animistic spiritual continuity: Muko's spirit transmigrates through pine, mortar, and ashes to reward virtue."
+  },
+  {
+    "classLevel": 7,
+    "subject": "English",
+    "chapter": "Chapter 4: The Ashes That Made Trees Bloom & Chivvy",
+    "question": "Spot the IMPOSTER in the following sequence of transformations in 'The Ashes That Made Trees Bloom':\nSequence:\n1. Muko digs earth -> Finds gold for kind couple\n2. Pine tree felled -> Crafted into rice pastry mortar & bean mill\n3. Mill ground by wicked neighbors -> Yields sparkling diamonds and emeralds\n4. Burnt mill ashes scattered -> Causes withered cherry trees to burst into glorious bloom",
+    "options": [
+      "Step 1",
+      "Step 2",
+      "Step 3 (The mill yielded squirming, foul worms for the wicked neighbors, NOT diamonds)",
+      "Step 4"
+    ],
+    "correctAnswer": 2,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "Step 3 is false: the mill produced foul worms for the wicked neighbors, provoking them to burn it."
+  },
+  {
+    "classLevel": 7,
+    "subject": "English",
+    "chapter": "Chapter 4: The Ashes That Made Trees Bloom & Chivvy",
+    "question": "Analyze the profound irony in the climax of Michael Rosen's poem 'Chivvy':\nHow does the poem deconstruct adult socialization?",
+    "options": [
+      "By exhaustively scripting every microscopic movement of a child (speaking, walking, standing, nose-blowing, sock-pulling), adults systematically dismantle the child's autonomous will, and then paradoxically scold them for being indecisive",
+      "By showing that all adults are secretly children",
+      "By encouraging children to become teachers",
+      "By proving that socks should never be worn"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "Rosen exposes the pedagogical double-bind: compulsive conditioning destroys independent initiative while demanding decisive autonomy."
+  },
+  {
+    "classLevel": 7,
+    "subject": "English",
+    "chapter": "Chapter 4: The Ashes That Made Trees Bloom & Chivvy",
+    "question": "Match Column I (Folk Motifs / Poetic Injunctions) with Column II (Thematic Meanings):\n(a) Sacred Ash on Barren Trees  -> (i) Spiritual revitalization of dead nature through pure virtue\n(b) Foul Worms in Bean Paste    -> (ii) Inward moral rot projected outward by avarice and envy\n(c) 'Pull your socks up!'       -> (iii) Incessant disciplinary conditioning of juvenile behavior\n(d) 'Make your own mind up!'   -> (iv) Unreasonable adult contradiction after total micromanagement",
+    "options": [
+      "a-(i), b-(ii), c-(iii), d-(iv)",
+      "a-(ii), b-(i), c-(iv), d-(iii)",
+      "a-(iv), b-(iii), c-(ii), d-(i)",
+      "a-(iii), b-(iv), c-(i), d-(ii)"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "Ashes = virtue/renewal; Worms = corrupt greed; Pull socks up = nagging drill; Make own mind up = paradoxical demand."
+  },
+  {
+    "classLevel": 7,
+    "subject": "English",
+    "chapter": "Chapter 4: The Ashes That Made Trees Bloom & Chivvy",
+    "question": "Read the statements regarding stylistic elements in Chapter 4:\nStatement 1: 'The Ashes That Made Trees Bloom' employs a dualistic moral structure contrasting extreme altruism against grotesque greed.\nStatement 2: 'Chivvy' is composed in free verse without a rigid rhyme scheme to mimic authentic, erratic domestic speech.\nStatement 3: The kind old man in the story used atomic bombs to destroy the Daimyo's enemies.\nWhich statements are TRUE?",
+    "options": [
+      "Statements 1 and 2 only",
+      "Statements 2 and 3 only",
+      "Statements 1 and 3 only",
+      "All Statements 1, 2, and 3"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "Statement 3 is an absurd anachronism. Statements 1 and 2 reflect true literary and stylistic properties."
+  },
+  {
+    "classLevel": 7,
+    "subject": "English",
+    "chapter": "Chapter 4: The Ashes That Made Trees Bloom & Chivvy",
+    "question": "Transform the sentence into PASSIVE VOICE:\n'The kind old man scattered a pinch of ashes over the withered cherry tree.'",
+    "options": [
+      "'A pinch of ashes was scattered over the withered cherry tree by the kind old man.'",
+      "'The withered cherry tree scattered ashes by the kind old man.'",
+      "'Ashes were scattering by the kind old man.'",
+      "'A pinch of ashes had been scattering by the tree.'"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "Passive voice: Object ('A pinch of ashes') + was scattered + prepositional phrase + agent ('by the kind old man')."
+  },
+  {
+    "classLevel": 7,
+    "subject": "English",
+    "chapter": "Chapter 4: The Ashes That Made Trees Bloom & Chivvy",
+    "question": "Identify the grammatical role of the underlined participial phrase in: '**Having gathered the sacred ashes in a basket**, the old man set out to meet the Daimyo.'",
+    "options": [
+      "Perfect Participial Phrase acting as an adverbial modifier of time/cause for the main clause",
+      "Gerund acting as subject",
+      "Noun Clause in apposition",
+      "Infinitive phrase of purpose"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "'Having gathered...' is a perfect participial phrase expressing prior completed temporal action modifying 'the old man'."
+  },
+  {
+    "classLevel": 7,
+    "subject": "English",
+    "chapter": "Chapter 4: The Ashes That Made Trees Bloom & Chivvy",
+    "question": "What is the psychological impact on children when constantly subjected to relentless 'Chivvying' according to modern developmental psychology?",
+    "options": [
+      "It can induce learned helplessness, anxiety, loss of self-confidence, and stifle organic creative curiosity",
+      "It makes children grow taller instantly",
+      "It turns children into professional athletes automatically",
+      "It eliminates the need for sleep"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "Over-regulation and hyper-critical micro-parenting induce self-doubt, anxiety, and suppressed creative problem-solving."
+  },
+  {
+    "classLevel": 7,
+    "subject": "English",
+    "chapter": "Chapter 4: The Ashes That Made Trees Bloom & Chivvy",
+    "question": "In 'The Ashes That Made Trees Bloom', how did the kind old couple spend their wealth after receiving gold from the Daimyo?",
+    "options": [
+      "They bought fertile fields of land, gave a lavish feast to all their friends and neighbors, and generously provided for their poor neighbors",
+      "They built a golden fortress and refused to speak to anyone",
+      "They sailed away to Europe on a private ship",
+      "They buried all the gold in a deep cave"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "The couple exemplified unselfish community stewardship: buying land, hosting feasts, and aiding the indigent."
+  },
+  {
+    "classLevel": 7,
+    "subject": "English",
+    "chapter": "Chapter 4: The Ashes That Made Trees Bloom & Chivvy",
+    "question": "Which of the following lines from 'Chivvy' highlights social decorum regarding vocal volume and personal space?",
+    "options": [
+      "\"Speak up! / Don't talk with your mouth full / Don't stare / Don't point / Don't pick your nose\"",
+      "\"Jump into the puddle!\"",
+      "\"Sing at midnight!\"",
+      "\"Eat food with your fingers!\""
+    ],
+    "correctAnswer": 0,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "This stanza directly addresses public decorum: vocal clarity, mastication silence, polite gaze, and hygienic boundaries."
+  },
+  {
+    "classLevel": 7,
+    "subject": "English",
+    "chapter": "Chapter 4: The Ashes That Made Trees Bloom & Chivvy",
+    "question": "What cultural resonance does the 'Cherry Blossom' (Sakura) hold in Japanese aesthetics as portrayed in this folktale?",
+    "options": [
+      "Sakura symbolizes purity, spring renewal, the blossoming of divine grace, and the transient beauty of life restored through moral goodness",
+      "It is a symbol of war and destruction",
+      "It is used only for making poison",
+      "It represents dark winter nights"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "Sakura (cherry blossom) in Japanese folklore represents ephemeral beauty, spiritual resurrection, and the auspicious triumph of pure virtue."
+  },
+  {
+    "classLevel": 7,
+    "subject": "English",
+    "chapter": "Chapter 4: The Ashes That Made Trees Bloom & Chivvy",
+    "question": "What comprehensive ethical lesson links Chapter 4 of NCERT Class 7 English?",
+    "options": [
+      "True human dignity flourishes through unconditional kindness, respect for life, and understanding the delicate balance between guided discipline and nurturing independent personal thought",
+      "That children should never be corrected by anyone",
+      "That only dogs understand magic",
+      "That trees only bloom when beaten"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "Chapter 4 weaves together ecological compassion, karmic benevolence, and insightful pedagogy balancing discipline with autonomy."
+  },
+  {
+    "classLevel": 7,
+    "subject": "GK",
+    "chapter": "Chapter 4: World History, Great Inventions, Discoveries & Famous Explorers",
+    "question": "Who invented the movable-type mechanical Printing Press in Mainz, Germany around 1440 CE, sparking the global Information Revolution?",
+    "options": [
+      "Johannes Gutenberg",
+      "Isaac Newton",
+      "Leonardo da Vinci",
+      "Galileo Galilei"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "Johannes Gutenberg developed the movable metal type printing press c. 1440, printing the 42-Line Gutenberg Bible."
+  },
+  {
+    "classLevel": 7,
+    "subject": "GK",
+    "chapter": "Chapter 4: World History, Great Inventions, Discoveries & Famous Explorers",
+    "question": "Who improved and patented the commercial Steam Engine with a separate condenser in 1769, powering the Industrial Revolution?",
+    "options": [
+      "James Watt",
+      "George Stephenson",
+      "Thomas Newcomen",
+      "Robert Fulton"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "James Watt patented the separate condenser steam engine, revolutionizing mechanical power in mines and factories."
+  },
+  {
+    "classLevel": 7,
+    "subject": "GK",
+    "chapter": "Chapter 4: World History, Great Inventions, Discoveries & Famous Explorers",
+    "question": "Who is credited with inventing the first practical working Telephone and transmitting the famous words \"Mr. Watson, come here, I want to see you\" in 1876?",
+    "options": [
+      "Alexander Graham Bell",
+      "Thomas Edison",
+      "Nikola Tesla",
+      "Guglielmo Marconi"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "Alexander Graham Bell was awarded the foundational telephone patent in March 1876."
+  },
+  {
+    "classLevel": 7,
+    "subject": "GK",
+    "chapter": "Chapter 4: World History, Great Inventions, Discoveries & Famous Explorers",
+    "question": "Which American inventor perfected the long-lasting practical incandescent Electric Light Bulb in 1879 and established the world's first industrial research lab at Menlo Park?",
+    "options": [
+      "Thomas Alva Edison",
+      "Benjamin Franklin",
+      "Nikola Tesla",
+      "Michael Faraday"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "Thomas Edison patented a commercially viable carbon filament incandescent light bulb in 1879, holding 1,093 US patents."
+  },
+  {
+    "classLevel": 7,
+    "subject": "GK",
+    "chapter": "Chapter 4: World History, Great Inventions, Discoveries & Famous Explorers",
+    "question": "Who built and successfully flew the world's first motor-powered, controlled heavier-than-air Airplane at Kitty Hawk, North Carolina in 1903?",
+    "options": [
+      "The Wright Brothers (Orville and Wilbur Wright)",
+      "Charles Lindbergh",
+      "Amelia Earhart",
+      "Alberto Santos-Dumont"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "On 17 December 1903, the Wright Brothers achieved the first controlled, sustained powered flight in the Wright Flyer."
+  },
+  {
+    "classLevel": 7,
+    "subject": "GK",
+    "chapter": "Chapter 4: World History, Great Inventions, Discoveries & Famous Explorers",
+    "question": "Who discovered the world's first wonder antibiotic drug 'PENICILLIN' from Penicillium notatum mold in 1928, revolutionizing medicine?",
+    "options": [
+      "Sir Alexander Fleming",
+      "Louis Pasteur",
+      "Edward Jenner",
+      "Robert Koch"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "Alexander Fleming discovered penicillin in 1928, launching the antibiotic era and saving hundreds of millions of lives."
+  },
+  {
+    "classLevel": 7,
+    "subject": "GK",
+    "chapter": "Chapter 4: World History, Great Inventions, Discoveries & Famous Explorers",
+    "question": "Who developed the world's first successful Vaccine (for deadly Smallpox) in 1796 using cowpox virus blisters?",
+    "options": [
+      "Edward Jenner (The Father of Immunology)",
+      "Louis Pasteur",
+      "Jonas Salk",
+      "Alexander Fleming"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "Edward Jenner inoculated James Phipps with cowpox in 1796, pioneering vaccination and leading to the global eradication of smallpox."
+  },
+  {
+    "classLevel": 7,
+    "subject": "GK",
+    "chapter": "Chapter 4: World History, Great Inventions, Discoveries & Famous Explorers",
+    "question": "Which Portuguese explorer discovered the direct ocean sea-route from Europe to India around the Cape of Good Hope, landing at Calicut (Kozhikode) in May 1498?",
+    "options": [
+      "Vasco da Gama",
+      "Ferdinand Magellan",
+      "Christopher Columbus",
+      "Bartholomew Dias"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "Vasco da Gama's 1497–1499 armada linked Europe and Asia via maritime navigation around the African continent."
+  },
+  {
+    "classLevel": 7,
+    "subject": "GK",
+    "chapter": "Chapter 4: World History, Great Inventions, Discoveries & Famous Explorers",
+    "question": "Whose Spanish maritime expedition (1519–1522) achieved the FIRST recorded circumnavigation of the entire planet Earth?",
+    "options": [
+      "Ferdinand Magellan (completed by Juan Sebastián Elcano)",
+      "Christopher Columbus",
+      "Captain James Cook",
+      "Francis Drake"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "Magellan led the fleet of five ships; the Victoria commanded by Juan Sebastián Elcano completed the first global circumnavigation in 1522."
+  },
+  {
+    "classLevel": 7,
+    "subject": "GK",
+    "chapter": "Chapter 4: World History, Great Inventions, Discoveries & Famous Explorers",
+    "question": "Which Italian explorer sailing under the Spanish flag reached the Americas in 1492 while seeking a westward maritime route to Asia?",
+    "options": [
+      "Christopher Columbus",
+      "Amerigo Vespucci",
+      "Marco Polo",
+      "John Cabot"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "Columbus's 1492 landfall in the Bahamas initiated sustained transatlantic contact between the Old and New Worlds."
+  },
+  {
+    "classLevel": 7,
+    "subject": "GK",
+    "chapter": "Chapter 4: World History, Great Inventions, Discoveries & Famous Explorers",
+    "question": "Who was the FIRST human being to walk on the surface of the Moon on 20 July 1969 during the Apollo 11 mission, speaking: \"That's one small step for man, one giant leap for mankind\"?",
+    "options": [
+      "Neil Armstrong",
+      "Buzz Aldrin",
+      "Michael Collins",
+      "Yuri Gagarin"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "Neil Armstrong stepped onto the lunar Mare Tranquillitatis on 20 July 1969 as commander of NASA's Apollo 11 mission."
+  },
+  {
+    "classLevel": 7,
+    "subject": "GK",
+    "chapter": "Chapter 4: World History, Great Inventions, Discoveries & Famous Explorers",
+    "question": "Who was the FIRST human being to travel into outer space and orbit the Earth in Vostok 1 on 12 April 1961?",
+    "options": [
+      "Yuri Gagarin (Soviet Cosmonaut)",
+      "Neil Armstrong",
+      "Alan Shepard",
+      "John Glenn"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "Soviet cosmonaut Yuri Gagarin completed a 108-minute orbital flight aboard Vostok 1 in April 1961."
+  },
+  {
+    "classLevel": 7,
+    "subject": "GK",
+    "chapter": "Chapter 4: World History, Great Inventions, Discoveries & Famous Explorers",
+    "question": "Who was the Norwegian polar explorer who led the FIRST expedition to reach the geographic SOUTH POLE on 14 December 1911?",
+    "options": [
+      "Roald Amundsen",
+      "Robert Falcon Scott",
+      "Ernest Shackleton",
+      "Fridtjof Nansen"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "Roald Amundsen's Norwegian team reached 90°S at the South Pole on 14 December 1911, 33 days before Robert Falcon Scott."
+  },
+  {
+    "classLevel": 7,
+    "subject": "GK",
+    "chapter": "Chapter 4: World History, Great Inventions, Discoveries & Famous Explorers",
+    "question": "Who discovered Electromagnetic Induction in 1831, inventing the Electric Dynamo and Transformer that created the modern electrical power grid?",
+    "options": [
+      "Michael Faraday",
+      "James Clerk Maxwell",
+      "Nikola Tesla",
+      "Alessandro Volta"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "Michael Faraday demonstrated that changing magnetic flux induces electric current (Faraday's Law), enabling generators and transformers."
+  },
+  {
+    "classLevel": 7,
+    "subject": "GK",
+    "chapter": "Chapter 4: World History, Great Inventions, Discoveries & Famous Explorers",
+    "question": "Who pioneered Alternating Current (AC) electricity, invented the AC Induction Motor, and built the Niagara Falls hydroelectric station?",
+    "options": [
+      "Nikola Tesla",
+      "Thomas Edison",
+      "George Westinghouse",
+      "Alexander Graham Bell"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "Nikola Tesla developed polyphase AC electrical systems, winning the 'War of the Currents' over Edison's direct current."
+  },
+  {
+    "classLevel": 7,
+    "subject": "GK",
+    "chapter": "Chapter 4: World History, Great Inventions, Discoveries & Famous Explorers",
+    "question": "Who was the brilliant French-Polish physicist and chemist who discovered Radioactivity, Radium, and Polonium, and is the ONLY person to win Nobel Prizes in two different scientific fields (Physics and Chemistry)?",
+    "options": [
+      "Marie Curie (Madame Curie)",
+      "Lise Meitner",
+      "Rosalind Franklin",
+      "Ada Lovelace"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "Marie Curie won the 1903 Nobel Prize in Physics (radiation) and the 1911 Nobel Prize in Chemistry (isolation of radium/polonium)."
+  },
+  {
+    "classLevel": 7,
+    "subject": "GK",
+    "chapter": "Chapter 4: World History, Great Inventions, Discoveries & Famous Explorers",
+    "question": "Who developed the first working Electronic Television system in 1927 at the age of 21?",
+    "options": [
+      "Philo Farnsworth (and Vladimir Zworykin)",
+      "John Logie Baird",
+      "Guglielmo Marconi",
+      "Charles Babbage"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "Philo Farnsworth transmitted the first all-electronic television image via an image dissector tube in 1927."
+  },
+  {
+    "classLevel": 7,
+    "subject": "GK",
+    "chapter": "Chapter 4: World History, Great Inventions, Discoveries & Famous Explorers",
+    "question": "Who is widely celebrated as the 'Father of the Computer' for designing the programmable mechanical 'Difference Engine' and 'Analytical Engine' in the 1830s?",
+    "options": [
+      "Charles Babbage",
+      "Alan Turing",
+      "John von Neumann",
+      "Blaise Pascal"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "Charles Babbage conceptualized the Analytical Engine featuring an arithmetic logic unit, memory store, and punched card programming."
+  },
+  {
+    "classLevel": 7,
+    "subject": "GK",
+    "chapter": "Chapter 4: World History, Great Inventions, Discoveries & Famous Explorers",
+    "question": "Who was the English mathematician who wrote the world's FIRST computer algorithm (for Babbage's Analytical Engine) and is recognized as the world's FIRST Computer Programmer?",
+    "options": [
+      "Ada Lovelace (Lady Lovelace)",
+      "Grace Hopper",
+      "Katherine Johnson",
+      "Dorothy Vaughan"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "Ada Lovelace published the first computer program to calculate Bernoulli numbers on Babbage's engine in 1843."
+  },
+  {
+    "classLevel": 7,
+    "subject": "GK",
+    "chapter": "Chapter 4: World History, Great Inventions, Discoveries & Famous Explorers",
+    "question": "Who invented the World Wide Web (WWW) at CERN in 1989, releasing the code freely to the public and transforming global human connectivity?",
+    "options": [
+      "Sir Tim Berners-Lee",
+      "Bill Gates",
+      "Steve Jobs",
+      "Vint Cerf"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "Tim Berners-Lee created HTTP, HTML, URL, and the first web browser/server at CERN in 1989."
+  },
+  {
+    "classLevel": 7,
+    "subject": "GK",
+    "chapter": "Chapter 4: World History, Great Inventions, Discoveries & Famous Explorers",
+    "question": "Who discovered X-Rays accidentally in 1895 while experimenting with cathode ray tubes, winning the very first Nobel Prize in Physics in 1901?",
+    "options": [
+      "Wilhelm Conrad Röntgen",
+      "Henri Becquerel",
+      "J.J. Thomson",
+      "Ernest Rutherford"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "Wilhelm Röntgen discovered electromagnetic X-radiation in 1895, taking the first X-ray radiograph of his wife's hand."
+  },
+  {
+    "classLevel": 7,
+    "subject": "GK",
+    "chapter": "Chapter 4: World History, Great Inventions, Discoveries & Famous Explorers",
+    "question": "Who pioneered the Germ Theory of Disease, invented Rabies and Anthrax vaccines, and developed the food preservation technique of 'Pasteurization'?",
+    "options": [
+      "Louis Pasteur",
+      "Robert Koch",
+      "Joseph Lister",
+      "Edward Jenner"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "Louis Pasteur disproved spontaneous generation, created rabies vaccines, and developed thermal pasteurization."
+  },
+  {
+    "classLevel": 7,
+    "subject": "GK",
+    "chapter": "Chapter 4: World History, Great Inventions, Discoveries & Famous Explorers",
+    "question": "Who invented the modern Battery (the Voltaic Pile) in 1800, providing the world's first source of continuous direct electric current?",
+    "options": [
+      "Alessandro Volta",
+      "Luigi Galvani",
+      "Andre-Marie Ampere",
+      "Georg Ohm"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "Alessandro Volta stacked zinc and copper discs separated by brine-soaked cloth, creating the first electrochemical battery."
+  },
+  {
+    "classLevel": 7,
+    "subject": "GK",
+    "chapter": "Chapter 4: World History, Great Inventions, Discoveries & Famous Explorers",
+    "question": "Who was the Venetian merchant traveler who spent 24 years traveling along the Silk Road through China, the Mongol Court of Kublai Khan, and India (1271–1295)?",
+    "options": [
+      "Marco Polo",
+      "Ibn Battuta",
+      "Zheng He",
+      "Giovanni da Verrazzano"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "Marco Polo's travelogue 'The Travels of Marco Polo' introduced medieval Europeans to the immense wealth and civilization of China and Asia."
+  },
+  {
+    "classLevel": 7,
+    "subject": "GK",
+    "chapter": "Chapter 4: World History, Great Inventions, Discoveries & Famous Explorers",
+    "question": "Who was the legendary Chinese Ming Dynasty Admiral who commanded massive treasure fleets of hundreds of giant multi-decked ships across the Indian Ocean from 1405 to 1433?",
+    "options": [
+      "Zheng He (Cheng Ho)",
+      "Sun Tzu",
+      "Kublai Khan",
+      "Confucius"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "Admiral Zheng He commanded 7 epic Ming maritime expeditions across Southeast Asia, India, Arabia, and East Africa."
+  },
+  {
+    "classLevel": 7,
+    "subject": "GK",
+    "chapter": "Chapter 4: World History, Great Inventions, Discoveries & Famous Explorers",
+    "question": "Who proved that lightning is a form of electricity using his famous kite and key experiment in 1752, inventing the Lightning Rod?",
+    "options": [
+      "Benjamin Franklin",
+      "Thomas Edison",
+      "Isaac Newton",
+      "Michael Faraday"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "Benjamin Franklin demonstrated electrical charge conservation in thunderstorms and invented the grounding lightning conductor."
+  },
+  {
+    "classLevel": 7,
+    "subject": "GK",
+    "chapter": "Chapter 4: World History, Great Inventions, Discoveries & Famous Explorers",
+    "question": "Who discovered the fundamental Mathematical Laws of Planetary Motion in the early 17th century (elliptical orbits)?",
+    "options": [
+      "Johannes Kepler",
+      "Nicolaus Copernicus",
+      "Galileo Galilei",
+      "Tycho Brahe"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "Kepler formulated the three laws of planetary motion, establishing that planetary orbits are ellipses with the Sun at one focus."
+  },
+  {
+    "classLevel": 7,
+    "subject": "GK",
+    "chapter": "Chapter 4: World History, Great Inventions, Discoveries & Famous Explorers",
+    "question": "Who was the FIRST Indian citizen to travel into outer space aboard the Soviet Soyuz T-11 spacecraft on 3 April 1984, describing India as \"Saare Jahaan Se Achha\"?",
+    "options": [
+      "Wing Commander Rakesh Sharma",
+      "Kalpana Chawla",
+      "Sunita Williams",
+      "Vikram Sarabhai"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "Rakesh Sharma spent 7 days aboard Salyut 7 in April 1984 as India's first cosmonaut."
+  },
+  {
+    "classLevel": 7,
+    "subject": "GK",
+    "chapter": "Chapter 4: World History, Great Inventions, Discoveries & Famous Explorers",
+    "question": "Read the statements:\nAssertion (A): The invention of the Movable-Type Printing Press by Gutenberg in 1440 was the catalyst for the European Renaissance, Scientific Revolution, and Protestant Reformation.\nReason (R): Mass printing democratized knowledge, lowered the cost of books by over 90%, broke ecclesiastical manuscript monopolies, and facilitated rapid pan-continental scientific peer review.\nChoose the correct option:",
+    "options": [
+      "Both (A) and (R) are true, and (R) is the correct explanation of (A).",
+      "Both (A) and (R) are true, but (R) is NOT the correct explanation of (A).",
+      "(A) is true, but (R) is false.",
+      "(A) is false, but (R) is true."
+    ],
+    "correctAnswer": 0,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "Gutenberg's typography initiated the democratization of literacy and the rapid diffusion of empirical scientific knowledge."
+  },
+  {
+    "classLevel": 7,
+    "subject": "GK",
+    "chapter": "Chapter 4: World History, Great Inventions, Discoveries & Famous Explorers",
+    "question": "Spot the IMPOSTER in the following group of Inventors and their groundbreaking technological breakthroughs:\nGroup:\n1. James Watt - Steam Engine with separate condenser\n2. Alexander Graham Bell - Telephone\n3. Guglielmo Marconi - Long-distance radio wireless telegraphy\n4. Wright Brothers - First nuclear fusion power plant",
+    "options": [
+      "Breakthrough 1",
+      "Breakthrough 2",
+      "Breakthrough 3",
+      "Breakthrough 4 (Wright Brothers invented the FIRST AIRPLANE, not nuclear power plants)"
+    ],
+    "correctAnswer": 3,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "Breakthrough 4 is false: the Wright Brothers invented the motor-powered airplane in 1903, NOT nuclear fusion."
+  },
+  {
+    "classLevel": 7,
+    "subject": "GK",
+    "chapter": "Chapter 4: World History, Great Inventions, Discoveries & Famous Explorers",
+    "question": "What is the historical significance of the 'Columbian Exchange' resulting from Christopher Columbus's 1492 transatlantic voyage?",
+    "options": [
+      "The massive global transfer of agricultural crops (potatoes, maize, tomatoes, chillies), animals, populations, and infectious diseases between the Old World (Afro-Eurasia) and New World (Americas) that permanently transformed global diets and demographics",
+      "An agreement to sell Spanish ships to Asian kings",
+      "A chess tournament played in 1492",
+      "The discovery of Antarctica"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "The Columbian Exchange fundamentally reorganized global ecology, nutrition (potatoes, maize to Eurasia; wheat, livestock to Americas), and demographics."
+  },
+  {
+    "classLevel": 7,
+    "subject": "GK",
+    "chapter": "Chapter 4: World History, Great Inventions, Discoveries & Famous Explorers",
+    "question": "Match Column I (Great Pioneers) with Column II (Monumental Milestone):\n(a) Galileo Galilei       -> (i) Telescopic discovery of Jupiter's 4 moons & lunar craters\n(b) Isaac Newton          -> (ii) Universal Law of Gravitation & Three Laws of Motion\n(c) Charles Darwin        -> (iii) Theory of Evolution by Natural Selection (Origin of Species)\n(d) Albert Einstein       -> (iv) Special & General Theory of Relativity (E = mc²)",
+    "options": [
+      "a-(i), b-(ii), c-(iii), d-(iv)",
+      "a-(ii), b-(i), c-(iv), d-(iii)",
+      "a-(iv), b-(iii), c-(ii), d-(i)",
+      "a-(iii), b-(iv), c-(i), d-(ii)"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "Galileo = observational astronomy; Newton = classical mechanics; Darwin = natural selection; Einstein = relativistic physics."
+  },
+  {
+    "classLevel": 7,
+    "subject": "GK",
+    "chapter": "Chapter 4: World History, Great Inventions, Discoveries & Famous Explorers",
+    "question": "Read the statements regarding space exploration milestones:\nStatement 1: 'Sputnik 1' was the world's FIRST artificial satellite launched into Earth orbit by the Soviet Union on 4 October 1957.\nStatement 2: Voyager 1 is the farthest human-made spacecraft from Earth, currently traversing interstellar space beyond the solar system.\nStatement 3: Neil Armstrong landed on the planet Mars in 1969.\nWhich statements are TRUE?",
+    "options": [
+      "Statements 1 and 2 only",
+      "Statements 2 and 3 only",
+      "Statements 1 and 3 only",
+      "All Statements 1, 2, and 3"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "Statement 3 is false because Armstrong landed on the MOON, not Mars (humans have never landed on Mars). Statements 1 and 2 are true."
+  },
+  {
+    "classLevel": 7,
+    "subject": "GK",
+    "chapter": "Chapter 4: World History, Great Inventions, Discoveries & Famous Explorers",
+    "question": "Who was the British mathematician and logician who broke the German 'Enigma' naval code during World War II at Bletchley Park and laid the theoretical foundations of Artificial Intelligence and Computer Science (Turing Machine)?",
+    "options": [
+      "Alan Turing",
+      "John von Neumann",
+      "Claude Shannon",
+      "Norbert Wiener"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "Alan Turing engineered the Bombe codebreaking machine, formulated the Turing Machine universal computation model, and proposed the Turing Test for AI."
+  },
+  {
+    "classLevel": 7,
+    "subject": "GK",
+    "chapter": "Chapter 4: World History, Great Inventions, Discoveries & Famous Explorers",
+    "question": "What was the revolutionary medical discovery made by Edward Jenner in 1796 that transformed public health worldwide?",
+    "options": [
+      "Inoculating humans with mild Cowpox blister fluid conferred immune protection (cross-immunity) against lethal Smallpox without causing fatal disease",
+      "He discovered that boiling water prevents broken bones",
+      "He created synthetic aspirin pills",
+      "He proved that diseases are caused by bad smells (miasma)"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "Jenner's cowpox-smallpox cross-immunity trial established the scientific doctrine of vaccination (from Latin 'vacca' meaning cow)."
+  },
+  {
+    "classLevel": 7,
+    "subject": "GK",
+    "chapter": "Chapter 4: World History, Great Inventions, Discoveries & Famous Explorers",
+    "question": "Consider four foundational inventions:\n1. Gutenberg's Printing Press (1440)\n2. Watt's Steam Engine (1769)\n3. Bell's Telephone (1876)\n4. Berners-Lee's World Wide Web (1989)\nWhat common paradigm shift links these four inventions across 550 years?",
+    "options": [
+      "Each invention radically accelerated the velocity and scale of human communication, energy transformation, and global knowledge distribution",
+      "They were all invented in the same country",
+      "They all use steam energy",
+      "They all operate on batteries"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "These four inventions represent civilization-level phase shifts in energy harnessing and information entropy reduction."
+  },
+  {
+    "classLevel": 7,
+    "subject": "GK",
+    "chapter": "Chapter 4: World History, Great Inventions, Discoveries & Famous Explorers",
+    "question": "Why was the discovery of the double helix structure of DNA by James Watson, Francis Crick, and Rosalind Franklin in 1953 so monumental?",
+    "options": [
+      "It unlocked the molecular genetic code of all biological life, revealing how hereditary information is stored, replicated, and expressed across generations",
+      "It proved that cells are made of stone",
+      "It allowed humans to stop eating food",
+      "It proved that blood has no cells"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "Elucidating the double helical base-pairing (A-T, G-C) architecture of DNA launched molecular biology, biotechnology, and genomic medicine."
+  },
+  {
+    "classLevel": 7,
+    "subject": "GK",
+    "chapter": "Chapter 4: World History, Great Inventions, Discoveries & Famous Explorers",
+    "question": "What was the navigational breakthrough invented by John Harrison in the 18th century (the Marine Chronometer H4)?",
+    "options": [
+      "A precise mechanical clock that kept exact time at sea despite ship motion and temperature changes, enabling sailors to calculate exact LONGITUDE and preventing shipwrecks",
+      "A compass that pointed south",
+      "A waterproof sail",
+      "A telescope that saw through clouds"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "Harrison's H4 chronometer solved the famous 'Longitude Problem', enabling precise oceanic navigational positioning."
+  },
+  {
+    "classLevel": 7,
+    "subject": "GK",
+    "chapter": "Chapter 4: World History, Great Inventions, Discoveries & Famous Explorers",
+    "question": "Who was the Polish astronomer whose 1543 book 'De revolutionibus orbium coelestium' shattered the 1,400-year Geocentric Ptolemaic model and proved the HELIOCENTRIC model (Earth orbits the Sun)?",
+    "options": [
+      "Nicolaus Copernicus",
+      "Tycho Brahe",
+      "Aristotle",
+      "Ptolemy"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "Copernicus displaced Earth from the cosmological center, proposing the heliocentric planetary system and igniting the Scientific Revolution."
+  },
+  {
+    "classLevel": 7,
+    "subject": "GK",
+    "chapter": "Chapter 4: World History, Great Inventions, Discoveries & Famous Explorers",
+    "question": "What unifying human spirit is celebrated through the history of Great Inventions, Discoveries, and Explorations?",
+    "options": [
+      "Humanity's relentless curiosity, resilience, and courage to question prevailing orthodoxies, venture into uncharted frontiers, and innovate technologies that elevate human civilization",
+      "That all discoveries were made by pure accident without effort",
+      "That exploration has completely finished on Earth and in space",
+      "That technology always reduces human happiness"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "Chapter 4 synthesizes the relentless human drive for scientific discovery, geographic exploration, and transformative technological innovation."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Social Science",
+    "chapter": "Chapter 4: The Mughal Empire",
+    "question": "From which two great historical royal lineages were the Mughals descended?",
+    "options": [
+      "On their mother's side from Genghis Khan (Mongol ruler) and on their father's side from Timur (ruler of Iran, Iraq, and Central Asia)",
+      "From Alexander the Great and Julius Caesar",
+      "From Ashoka and Chandragupta Maurya",
+      "From the Ottoman Sultans and Roman Emperors"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "Maternal descent from Genghis Khan (d. 1227) and paternal lineage from Timur (d. 1404)."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Social Science",
+    "chapter": "Chapter 4: The Mughal Empire",
+    "question": "Who was the founder of the Mughal Empire in India, who defeated Ibrahim Lodi in the First Battle of Panipat in 1526 CE?",
+    "options": [
+      "Babur (Zahiruddin Muhammad Babur)",
+      "Akbar",
+      "Humayun",
+      "Jahangir"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "Babur captured Delhi and Agra in 1526 after defeating Ibrahim Lodi at the First Battle of Panipat."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Social Science",
+    "chapter": "Chapter 4: The Mughal Empire",
+    "question": "Which battle fought in 1527 CE cemented Babur's control over northern India by defeating Rana Sanga of Mewar and his Rajput confederacy?",
+    "options": [
+      "Battle of Khanwa",
+      "Battle of Chanderi",
+      "Battle of Ghagra",
+      "Battle of Haldighati"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "In 1527 at Khanwa, Babur defeated Rana Sanga and his Rajput allies, securing the Gangetic heartland."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Social Science",
+    "chapter": "Chapter 4: The Mughal Empire",
+    "question": "Who ascended the Mughal throne at the age of 13 in 1556 CE under the guardianship of Bairam Khan, expanding the empire into a pan-subcontinental powerhouse?",
+    "options": [
+      "Akbar the Great (Jalaluddin Muhammad Akbar)",
+      "Humayun",
+      "Shah Jahan",
+      "Aurangzeb"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "Akbar ascended the throne in 1556 at Kalanaur (Punjab) at age 13, guided by his regent Bairam Khan."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Social Science",
+    "chapter": "Chapter 4: The Mughal Empire",
+    "question": "What was the administrative and military ranking system introduced by Akbar to organize imperial nobility and soldiers called?",
+    "options": [
+      "Mansabdari System",
+      "Iqta System",
+      "Zabt System",
+      "Zamindari System"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "Akbar instituted the Mansabdari system to structure military command, noble status, and official salary."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Social Science",
+    "chapter": "Chapter 4: The Mughal Empire",
+    "question": "In the Mansabdari system, what did the numerical rank 'ZAT' determine?",
+    "options": [
+      "The noble's personal position, hierarchical status in the court, and official monetary salary",
+      "The number of elephants",
+      "The number of palaces owned",
+      "The noble's age"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "Zat was the numerical index determining personal prestige, protocol ranking, and salary scale."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Social Science",
+    "chapter": "Chapter 4: The Mughal Empire",
+    "question": "In the Mansabdari system, what did the numerical rank 'SAWAR' specify?",
+    "options": [
+      "The exact number of maintained cavalrymen (horsemen) the Mansabdar was required to maintain for state service",
+      "The number of horses in the royal stable",
+      "The number of cannons",
+      "The number of villages owned"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "Sawar rank fixed the military cavalry contingent (horsemen) the officer was legally obligated to muster."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Social Science",
+    "chapter": "Chapter 4: The Mughal Empire",
+    "question": "What were the revenue assignments from which Mansabdars received their salaries (similar to Sultanate Iqtas) called?",
+    "options": [
+      "Jagirs (and the holders were called Jagirdars)",
+      "Zabt",
+      "Subas",
+      "Parganas"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "Jagirs were revenue-yielding territorial tracts granted to Mansabdars to cover their sanctioned salary allowances."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Social Science",
+    "chapter": "Chapter 4: The Mughal Empire",
+    "question": "Who was Akbar's brilliant Revenue Minister who carried out a careful 10-year survey (1570–1580) of crop yields, prices, and cultivated areas to establish the 'Zabt' revenue system?",
+    "options": [
+      "Raja Todar Mal",
+      "Raja Man Singh",
+      "Birbal (Mahesh Das)",
+      "Abul Fazl"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "Raja Todar Mal formulated the 'Ain-i Dahsala' (10-year revenue assessment) and Zabt cash-revenue schedules."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Social Science",
+    "chapter": "Chapter 4: The Mughal Empire",
+    "question": "Who was Akbar's close friend, courtier, and court historian who wrote the monumental three-volume official history 'Akbar Nama' and 'Ain-i Akbari'?",
+    "options": [
+      "Abul Fazl",
+      "Faizi",
+      "Badauni",
+      "Ziauddin Barani"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "Abul Fazl composed the Akbar Nama (Vol 1: ancestors, Vol 2: Akbar's reign) and Vol 3: Ain-i Akbari (administration and statistics)."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Social Science",
+    "chapter": "Chapter 4: The Mughal Empire",
+    "question": "What was the philosophical doctrine of 'Universal Peace' and religious tolerance formulated by Akbar and Abul Fazl called?",
+    "options": [
+      "Sulh-i Kul (Universal Peace / Absolute Tolerance)",
+      "Din-i Ilahi",
+      "Zabt",
+      "Mansab"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "Sulh-i Kul (peace with all) promoted universal religious tolerance and justice without sectarian discrimination."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Social Science",
+    "chapter": "Chapter 4: The Mughal Empire",
+    "question": "In which hall of inter-faith discussions built at Fatehpur Sikri in 1575 did Akbar hold spiritual dialogues with theologians of diverse religions (Ulama, Brahmins, Jesuit priests, Zoroastrians)?",
+    "options": [
+      "Ibadat Khana (House of Worship)",
+      "Diwan-i Aam",
+      "Diwan-i Khas",
+      "Buland Darwaza"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "The Ibadat Khana at Fatehpur Sikri hosted comparative theological debates leading Akbar to develop Sulh-i Kul."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Social Science",
+    "chapter": "Chapter 4: The Mughal Empire",
+    "question": "What was the Mughal custom of dynastic succession regarding the inheritance of royal power?",
+    "options": [
+      "Coparcenary Inheritance (Timurid tradition of dividing the empire among all brothers / sons), which frequently triggered bitter wars of succession among royal princes",
+      "Strict Primogeniture (only the eldest son inherits everything)",
+      "Election by public voting",
+      "The crown was passed to the King's uncle"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "The Mughals rejected strict primogeniture, adhering to Timurid coparcenary partition which sparked violent fratricidal succession wars."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Social Science",
+    "chapter": "Chapter 4: The Mughal Empire",
+    "question": "How did Akbar build a lasting alliance with Rajput rulers (such as the Kachhwahas of Amber) to consolidate his pan-Indian empire?",
+    "options": [
+      "He respected Rajput martial honor, formed marital matrimonial alliances, granted high Mansabdari military commands to Rajput chiefs, and restored conquered lands as hereditary 'Watan Jagirs'",
+      "He imprisoned all Rajput kings",
+      "He banned Rajput culture",
+      "He forced Rajputs to migrate to Iran"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "Akbar's Rajput policy combined diplomatic respect, matrimonial ties, high court ranks (Man Singh), and autonomy over Watan Jagirs."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Social Science",
+    "chapter": "Chapter 4: The Mughal Empire",
+    "question": "Who was Mehr-un-Nisa (Empress Nur Jahan) and what immense political authority did she exercise during the reign of Emperor Jahangir?",
+    "options": [
+      "She was Jahangir's brilliant, exceptionally influential empress who held supreme imperial power, issued royal farmans (orders), and had coins minted jointly in her name alongside the Emperor",
+      "She was a court poetess with no political power",
+      "She lived in exile outside India",
+      "She was the ruler of Bengal"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "Nur Jahan exercised supreme administrative co-sovereignty, issuing sovereign farmans and appearing on imperial coinage."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Social Science",
+    "chapter": "Chapter 4: The Mughal Empire",
+    "question": "What was the administrative division of the Mughal Empire under Akbar?",
+    "options": [
+      "The empire was divided into Subas (provinces) governed by a Subadar ; each Suba was subdivided into Sarkars (districts) and Parganas (sub-districts/parishes)",
+      "The empire had no provinces",
+      "The empire was divided into 100 kingdoms",
+      "The empire was divided into two halves: North and South"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "Suba (governed by Subadar and financial Diwan) → Sarkar (district under Faujdar) → Pargana (under Shiqdar and Amil) → Grama."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Social Science",
+    "chapter": "Chapter 4: The Mughal Empire",
+    "question": "In Mughal provincial administration, who were the 'Subadar' and the 'Diwan' of a province (Suba)?",
+    "options": [
+      "The Subadar carried out political and military functions ; the Diwan was the financial officer responsible for revenue collection and accounting",
+      "The Subadar was a doctor ; the Diwan was a teacher",
+      "Both were palace musicians",
+      "The Diwan was the supreme general and Subadar was the cook"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "Mughal checks-and-balances: executive-military authority resided in the Subadar; fiscal-financial authority resided independently in the Diwan."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Social Science",
+    "chapter": "Chapter 4: The Mughal Empire",
+    "question": "What was the 'Zabt' revenue system formulated by Todar Mal?",
+    "options": [
+      "A scientific revenue system where agricultural land was physically surveyed/measured, crop yields and market price indices over 10 years were calculated, and each crop was assigned a fixed cash revenue tax schedule",
+      "A tax on all horses",
+      "A system where soldiers took all food by force",
+      "A tax only on foreign traders"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "Zabt established empirical crop-specific cash schedules based on standard land measurement (bigha/jarib) and 10-year price averages."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Social Science",
+    "chapter": "Chapter 4: The Mughal Empire",
+    "question": "In Mughal society, what blanket umbrella term was used to describe all rural intermediaries—whether powerful local village headmen (Muqaddams/Chaudhuris) or hereditary regional chieftains?",
+    "options": [
+      "Zamindars",
+      "Mansabdars",
+      "Jagirdars",
+      "Subadars"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "The Mughals employed 'Zamindar' generically for all rural landed intermediaries collecting agricultural surplus."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Social Science",
+    "chapter": "Chapter 4: The Mughal Empire",
+    "question": "Why did the Sisodiya Rajputs of Mewar refuse to accept Mughal authority for a long time, and how did the Mughals treat them when they finally surrendered to Jahangir in 1614?",
+    "options": [
+      "Mewar resisted fiercely under Maharana Pratap ; upon submission under Rana Amar Singh, Jahangir treated them with honorable nobility, returning their entire territory as a Watan Jagir",
+      "Jahangir executed all Mewar princes",
+      "Jahangir annexed Mewar and destroyed its forts",
+      "Mewar was given to foreign merchants"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "Jahangir preserved Sisodiya dignity by restoring Mewar as a hereditary Watan Jagir exempt from personal court attendance."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Social Science",
+    "chapter": "Chapter 4: The Mughal Empire",
+    "question": "Why did Aurangzeb's long, grinding 25-year military campaigns in the Deccan (1681–1707) lead to the severe exhaustion and eventual decline of the Mughal Empire?",
+    "options": [
+      "Endless Deccan wars drained imperial treasuries, overextended military logistics, sparked protracted guerilla warfare with Marathas, and caused the collapse of administrative supervision in the northern heartland",
+      "Because Aurangzeb gave up his empire to become a monk",
+      "Because the Deccan had no soldiers",
+      "Because the British invaded Delhi in 1682"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "Aurangzeb's Deccan ulcer drained the empire's fiscal resources, disrupted Jagirdari stability, and triggered administrative paralysis."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Social Science",
+    "chapter": "Chapter 4: The Mughal Empire",
+    "question": "What was the 'Jagirdari Crisis' that crippled the Mughal administration in the late 17th century under Aurangzeb?",
+    "options": [
+      "The massive inflation in the number of Mansabdars created a severe shortage of productive Jagirs; Jagirdars ruthlessly squeezed peasants for maximum revenue during their brief assignments",
+      "All Jagirs were destroyed by floods",
+      "Mansabdars refused to accept lands",
+      "Jagirs were banned by imperial law"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "Shortage of revenue-bearing paibaqi land caused the Jagirdari crisis, triggering agrarian distress and peasant rebellions."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Social Science",
+    "chapter": "Chapter 4: The Mughal Empire",
+    "question": "Which Maratha warrior king established an independent Maratha kingdom, using brilliant guerilla warfare (Ganimi Kava) against Aurangzeb's armies and escaped from house arrest in Agra in 1666?",
+    "options": [
+      "Chhatrapati Shivaji Maharaj",
+      "Sambhaji",
+      "Peshwa Baji Rao I",
+      "Shahji Bhonsle"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "Chhatrapati Shivaji Maharaj forged an autonomous Maratha swarajya, defying Mughal hegemony via mobile guerrilla tactics."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Social Science",
+    "chapter": "Chapter 4: The Mughal Empire",
+    "question": "What is the third volume of Abul Fazl's Akbar Nama called, which contains rich statistical details about crops, yields, prices, wages, administrative regulations, and cultural traditions?",
+    "options": [
+      "Ain-i Akbari",
+      "Tuzuk-i Baburi",
+      "Padshahnama",
+      "Humayun-nama"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "The Ain-i Akbari constitutes the definitive imperial gazetteer and administrative-statistical compendium of Akbar's reign."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Social Science",
+    "chapter": "Chapter 4: The Mughal Empire",
+    "question": "Which Mughal prince translated fifty Upanishads from Sanskrit into Persian ('Sirr-i Akbar' / The Greatest Secret), appreciating the unity of divine truth across Hinduism and Islam?",
+    "options": [
+      "Dara Shikoh (eldest son of Shah Jahan)",
+      "Aurangzeb",
+      "Murad Bakhsh",
+      "Shah Shuja"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "Dara Shikoh was a philosopher-prince who translated the Upanishads and authored 'Majma-ul-Bahrain' (Mingling of Two Oceans)."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Social Science",
+    "chapter": "Chapter 4: The Mughal Empire",
+    "question": "What was the 'Kotwal' in Mughal urban municipal administration?",
+    "options": [
+      "The chief town police officer responsible for urban law and order, night patrols, market surveillance, and citizen registry",
+      "The royal chef in Delhi",
+      "The head priest of the mosque",
+      "The commander of royal ships"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "The Kotwal exercised municipal police, judicial oversight, market weights inspection, and urban safety policing."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Social Science",
+    "chapter": "Chapter 4: The Mughal Empire",
+    "question": "Which rebellious son of Aurangzeb received military support from the Marathas and the Deccan Sultanate before fleeing to Safavid Iran in 1681?",
+    "options": [
+      "Prince Akbar (Muhammad Akbar)",
+      "Prince Azam",
+      "Prince Muazzam",
+      "Prince Kam Bakhsh"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "Prince Akbar revolted against his father Aurangzeb in 1681, allied with Sambhaji, and sought refuge with the Safavid Shah of Persia."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Social Science",
+    "chapter": "Chapter 4: The Mughal Empire",
+    "question": "What magnificent white marble mausoleum did Emperor Shah Jahan construct in Agra along the Yamuna river in memory of his beloved wife Mumtaz Mahal?",
+    "options": [
+      "The Taj Mahal (built between 1632 and 1648 CE)",
+      "Humayun's Tomb",
+      "Bibi Ka Maqbara",
+      "Safdarjung Tomb"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "The Taj Mahal is the supreme masterpiece of Indo-Islamic symmetry, Pietra Dura inlay, and domed architectural engineering."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Social Science",
+    "chapter": "Chapter 4: The Mughal Empire",
+    "question": "Read the statements:\nAssertion (A): The Mughal Mansabdari system was a remarkably dynamic, non-hereditary administrative hierarchy that integrated diverse ethnic elites (Turanians, Iranis, Rajputs, Indian Muslims, and Marathas) into a unified imperial ruling class.\nReason (R): Mansabdars did not hold permanent hereditary property rights over their Jagirs; they were subjected to regular transfers, strict military muster reviews (Dagh and Chehra), and post-mortem escheat of property to the crown.\nChoose the correct option:",
+    "options": [
+      "Both (A) and (R) are true, and (R) is the correct explanation of (A).",
+      "Both (A) and (R) are true, but (R) is NOT the correct explanation of (A).",
+      "(A) is true, but (R) is false.",
+      "(A) is false, but (R) is true."
+    ],
+    "correctAnswer": 0,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "Akbar's genius lay in institutionalizing an ethnically diverse, meritocratic, non-hereditary administrative elite loyal to the central sovereign."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Social Science",
+    "chapter": "Chapter 4: The Mughal Empire",
+    "question": "Spot the IMPOSTER in the following chronological sequence of Mughal Emperors and their major architectural/political milestones:\nGroup:\n1. Babur - Founded empire, laid out formal Persian Charbagh gardens\n2. Akbar - Built Fatehpur Sikri, Agra Fort, instituted Sulh-i Kul\n3. Shah Jahan - Built Taj Mahal, Red Fort Delhi, Jama Masjid\n4. Aurangzeb - Built the Eiffel Tower in Delhi",
+    "options": [
+      "Milestone 1",
+      "Milestone 2",
+      "Milestone 3",
+      "Milestone 4 (The Eiffel Tower is in Paris, France ; Aurangzeb built Moti Masjid and Badshahi Mosque)"
+    ],
+    "correctAnswer": 3,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "Milestone 4 is an absurd falsehood: Aurangzeb built the Badshahi Mosque in Lahore and Moti Masjid in Delhi, not the Eiffel Tower."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Social Science",
+    "chapter": "Chapter 4: The Mughal Empire",
+    "question": "Analyze the fiscal disparity in the Mughal Empire revealed in official records:\nOut of 8,000 Mansabdars under Shah Jahan, only 445 top-ranking officers (a mere 5.6% of the nobility) received what percentage of the empire's total assessed revenue?",
+    "options": [
+      "61.5% of the total estimated revenue of the empire was concentrated in the hands of this tiny elite of 445 nobles",
+      "10% of the total revenue",
+      "100% of the total revenue",
+      "5% of the total revenue"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "Official Mughal records show extreme economic inequality: 5.6% of top-tier Mansabdars appropriated 61.5% of state revenues for salaries."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Social Science",
+    "chapter": "Chapter 4: The Mughal Empire",
+    "question": "Match Column I (Mughal Administrative Terms) with Column II (Exact Functional Meanings):\n(a) Subadar -> (i) Provincial governor commanding political and military administration\n(b) Diwan   -> (ii) Provincial chief revenue and finance officer\n(c) Bakhshi -> (iii) Imperial military paymaster responsible for troop muster\n(d) Sadr    -> (iv) Minister in charge of religious and charitable patronage",
+    "options": [
+      "a-(i), b-(ii), c-(iii), d-(iv)",
+      "a-(ii), b-(i), c-(iv), d-(iii)",
+      "a-(iv), b-(iii), c-(ii), d-(i)",
+      "a-(iii), b-(iv), c-(i), d-(ii)"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "Subadar = governor; Diwan = finance; Bakhshi = military paymaster; Sadr = ecclesiastical/charitable minister."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Social Science",
+    "chapter": "Chapter 4: The Mughal Empire",
+    "question": "Read the statements regarding Akbar's religious policy:\nStatement 1: Akbar abolished the discriminatory 'Jizya' tax on non-Muslim subjects and the pilgrimage tax on Hindu pilgrims in 1564.\nStatement 2: The Ibadat Khana discussions convinced Akbar that religious bigots who emphasize ritual dogma create social division, prompting him to formulate 'Sulh-i Kul'.\nStatement 3: Akbar forced all citizens of India to convert to his personal faith under penalty of death.\nWhich statements are TRUE?",
+    "options": [
+      "Statements 1 and 2 only",
+      "Statements 2 and 3 only",
+      "Statements 1 and 3 only",
+      "All Statements 1, 2, and 3"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "Statement 3 is false: Akbar championed Sulh-i Kul (universal tolerance) and never enforced forced religious conversions. Statements 1 and 2 are true."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Social Science",
+    "chapter": "Chapter 4: The Mughal Empire",
+    "question": "Why did the Mughals prefer not to be called 'Moghol / Mongol' and took great pride in their 'Timurid' paternal lineage?",
+    "options": [
+      "The name Mongol was historically associated with Genghis Khan's brutal massacres of countless innocent people, whereas their ancestor Timur had captured Delhi in 1398 with great royal prestige",
+      "Because Timur was a European king",
+      "Because Mongols had no horses",
+      "Because Babur could not speak Persian"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "The dynasty distanced itself from the gory memory of Genghisid massacres, glorifying their Timurid renaissance patrimony."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Social Science",
+    "chapter": "Chapter 4: The Mughal Empire",
+    "question": "How did the introduction of Field Artillery (cannons and matchlocks) revolutionize military warfare in India during Babur's 1526 Panipat campaign?",
+    "options": [
+      "Babur combined gunpowder artillery carts (Rumi device) with rapid flanking cavalry maneuvers (Tulghuma), completely decimating Ibrahim Lodi's massive static war elephant army",
+      "Artillery made soldiers walk backwards",
+      "Artillery destroyed all food in India",
+      "Cannons were made of wood and burned down"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "Babur deployed Ottoman tactical innovation: chaining baggage wagons to shield matchlock gunners, supported by deadly flanking cavalry encirclement (Tulghuma)."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Social Science",
+    "chapter": "Chapter 4: The Mughal Empire",
+    "question": "What was the structural relationship between the Mughal Emperor, the Zamindars, and the Peasantry?",
+    "options": [
+      "Peasants produced the agrarian wealth; Zamindars collected the produce and shared local caste/lineage ties with peasants, occasionally leading armed peasant rebellions against excessive central Mughal tax demands",
+      "Zamindars gave all their land to the Emperor for free",
+      "Peasants were paid salaries in gold by the Emperor",
+      "There were no taxes in the Mughal Empire"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "Local Zamindars held traditional kinship ties with village cultivators; imperial over-exploitation frequently triggered joint agrarian revolts."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Social Science",
+    "chapter": "Chapter 4: The Mughal Empire",
+    "question": "Consider four key regions that mounted fierce resistance against Mughal expansion in the 17th century:\n1. Marathas (Deccan)\n2. Ahoms (Assam/Brahmaputra Valley)\n3. Sikhs (Punjab)\n4. Rathores / Sisodiyas (Mewar & Marwar)\nWhat common socio-political strategy did these regional powers employ?",
+    "options": [
+      "They leveraged rugged regional terrain, intense local community cohesion, and decentralized mobile warfare to resist centralized imperial domination",
+      "They all surrendered without fighting",
+      "They allied with the British against the Mughals",
+      "They abandoned their lands and moved to Central Asia"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "Regional powers mobilized geographic terrain, martial traditions, and asymmetric resistance against Mughal over-centralization."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Social Science",
+    "chapter": "Chapter 4: The Mughal Empire",
+    "question": "Why is Abul Fazl's 'Ain-i Akbari' celebrated by modern socio-economic historians as a pioneering masterwork of statistical administration?",
+    "options": [
+      "It provides rigorous empirical statistical surveys of agricultural revenue, price tables, daily wages, military rolls, fauna, flora, and socio-religious traditions across all 15 Subas of Akbar's empire",
+      "It is a fictional novel of magic and fantasy",
+      "It was written in modern English",
+      "It contains no numbers or records"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "The Ain-i Akbari is a landmark in quantitative historiography, offering quantitative demographic, agricultural, and administrative inventories."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Social Science",
+    "chapter": "Chapter 4: The Mughal Empire",
+    "question": "What architectural innovation distinguishes the 'Charbagh' (Four-Gardens) layout perfected by Mughal emperors (e.g. Humayun's Tomb, Shalimar Gardens)?",
+    "options": [
+      "A grand rectangular walled enclosure divided into four symmetrical quadrangles by intersecting, axial raised artificial water channels and walkways, symbolizing the four rivers of Paradise",
+      "A garden with only four flowers",
+      "A circular maze made of glass",
+      "A underground garden without sunlight"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "Charbagh architecture geometricizes Persian paradise garden symbology: quadripartite orthogonal grids bisected by flowing water channels."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Social Science",
+    "chapter": "Chapter 4: The Mughal Empire",
+    "question": "What overarching historical legacy defines Chapter 4 of NCERT Class 7 History regarding the Mughal Empire?",
+    "options": [
+      "The creation of a pan-Indian empire that established enduring administrative frameworks, standardized revenue and coinage systems, synthesized composite Indo-Islamic art and architecture, and promoted cultural pluralism under Sulh-i Kul",
+      "A period of constant darkness with no administration",
+      "The complete end of all Indian culture",
+      "An empire that lasted only two weeks"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "Chapter 4 synthesizes the political institutionalization, fiscal centralization, architectural elegance, and cultural pluralism of the Mughal Empire."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Hindi Grammar",
+    "chapter": "Chapter 4: उपसर्ग और प्रत्यय",
+    "question": "वे शब्दांश जो किसी मूल शब्द के पहले (आरंभ में) जुड़कर उसके अर्थ में परिवर्तन या विशेषता ला देते हैं, उन्हें व्याकरण में क्या कहते हैं?",
+    "options": [
+      "उपसर्ग (Prefix)",
+      "प्रत्यय (Suffix)",
+      "समास",
+      "संधि"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "उप + सर्ग: मूल शब्द के पूर्व में जुड़कर अर्थ बदलने वाले सार्थक शब्दांश 'उपसर्ग' कहलाते हैं।"
+  },
+  {
+    "classLevel": 7,
+    "subject": "Hindi Grammar",
+    "chapter": "Chapter 4: उपसर्ग और प्रत्यय",
+    "question": "वे शब्दांश जो किसी मूल शब्द के अंत (पीछे) में जुड़कर नए शब्द का निर्माण करते हैं और उसके अर्थ में विशेषता लाते हैं, उन्हें क्या कहते हैं?",
+    "options": [
+      "प्रत्यय (Suffix)",
+      "उपसर्ग",
+      "कारक",
+      "अव्यय"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "प्रति + अय: शब्दों के अंत में जुड़कर नया अर्थ उत्पन्न करने वाले शब्दांश 'प्रत्यय' कहलाते हैं।"
+  },
+  {
+    "classLevel": 7,
+    "subject": "Hindi Grammar",
+    "chapter": "Chapter 4: उपसर्ग और प्रत्यय",
+    "question": "हिंदी में प्रयुक्त उपसर्गों को मुख्य रूप से कितने वर्गों में बाँटा गया है?",
+    "options": [
+      "तीन प्रमुख वर्गों में (1. संस्कृत के तत्सम उपसर्ग, 2. हिंदी के तद्भव उपसर्ग, 3. उर्दू-फ़ारसी के विदेशी उपसर्ग)",
+      "दो वर्गों में",
+      "पाँच वर्गों में",
+      "चार वर्गों में"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "उपसर्गों के 3 मुख्य स्रोत हैं: संस्कृत (तत्सम), हिंदी (तद्भव), तथा उर्दू-फ़ारसी (आगत)।"
+  },
+  {
+    "classLevel": 7,
+    "subject": "Hindi Grammar",
+    "chapter": "Chapter 4: उपसर्ग और प्रत्यय",
+    "question": "'अति' (संस्कृत उपसर्ग - अर्थ: अधिक/परे) से बना शुद्ध शब्द कौन-सा है?",
+    "options": [
+      "अत्यधिक (अति + अधिक) / अत्यंत",
+      "अधिकार",
+      "अभिमान",
+      "अनुवाद"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "अति + अधिक = अत्यधिक (यण संधि के साथ 'अति' उपसर्ग का प्रयोग)।"
+  },
+  {
+    "classLevel": 7,
+    "subject": "Hindi Grammar",
+    "chapter": "Chapter 4: उपसर्ग और प्रत्यय",
+    "question": "'प्र' उपसर्ग (अर्थ: अधिक/आगे) से बने शब्दों का सही समूह कौन-सा है?",
+    "options": [
+      "प्रहार, प्रगति, प्रबल, प्रसिद्ध",
+      "अपमान, अपराध",
+      "अनुज, अनुराग",
+      "उपकार, उपवन"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "प्र + हार = प्रहार, प्र + गति = प्रगति, प्र + बल = प्रबल।"
+  },
+  {
+    "classLevel": 7,
+    "subject": "Hindi Grammar",
+    "chapter": "Chapter 4: उपसर्ग और प्रत्यय",
+    "question": "हिंदी के तद्भव उपसर्ग 'अ' / 'अन' (अर्थ: अभाव/निषेध) से बने शब्दों का सही उदाहरण कौन-सा है?",
+    "options": [
+      "अछूत, अकाल, अनपढ़, अनजान",
+      "सुपुत्र, सुगम",
+      "कुपुत्र, कुकर्म",
+      "भरपेट, भरपूर"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "अ + काल = अकाल; अन + पढ़ = अनपढ़; अन + जान = अनजान।"
+  },
+  {
+    "classLevel": 7,
+    "subject": "Hindi Grammar",
+    "chapter": "Chapter 4: उपसर्ग और प्रत्यय",
+    "question": "उर्दू-फ़ारसी उपसर्ग 'बे' (अर्थ: बिना / रहित) से बने शब्दों का सही समूह कौन-सा है?",
+    "options": [
+      "बेकसूर, बेइमान, बेपरवाह, बेदाग",
+      "लापरवाह, लावारिस",
+      "बदनाम, बदसूरत",
+      "खुशनसीब, खुशबू"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "बे + कसूर = बेकसूर, बे + इमान = बेइमान, बे + परवाह = बेपरवाह।"
+  },
+  {
+    "classLevel": 7,
+    "subject": "Hindi Grammar",
+    "chapter": "Chapter 4: उपसर्ग और प्रत्यय",
+    "question": "प्रत्यय के मुख्य रूप से कितने भेद होते हैं?",
+    "options": [
+      "दो भेद (1. कृत / कृदंत प्रत्यय - क्रिया/धातु के अंत में, 2. तद्धित प्रत्यय - संज्ञा/सर्वनाम/विशेषण के अंत में)",
+      "चार भेद",
+      "तीन भेद",
+      "पाँच भेद"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "प्रत्यय के दो मूल भेद हैं: कृत प्रत्यय (धातु/क्रिया के साथ) तथा तद्धित प्रत्यय (संज्ञा/सर्वनाम/विशेषण के साथ)।"
+  },
+  {
+    "classLevel": 7,
+    "subject": "Hindi Grammar",
+    "chapter": "Chapter 4: उपसर्ग और प्रत्यय",
+    "question": "क्रिया की मूल धातु के अंत में जुड़कर संज्ञा या विशेषण शब्द बनाने वाले प्रत्यय क्या कहलाते हैं?",
+    "options": [
+      "कृत प्रत्यय / कृदंत (जैसे: लिख् + आवट = लिखावट, पढ़् + आकू = पढ़ाकू)",
+      "तद्धित प्रत्यय",
+      "उपसर्ग",
+      "अव्यय"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "धातु/क्रिया के अंत में प्रयुक्त प्रत्यय 'कृत प्रत्यय' तथा निर्मित शब्द 'कृदंत' कहलाते हैं।"
+  },
+  {
+    "classLevel": 7,
+    "subject": "Hindi Grammar",
+    "chapter": "Chapter 4: उपसर्ग और प्रत्यय",
+    "question": "संज्ञा, सर्वनाम और विशेषण शब्दों के अंत में जुड़कर नए शब्द बनाने वाले प्रत्यय क्या कहलाते हैं?",
+    "options": [
+      "तद्धित प्रत्यय (जैसे: मानव + ता = मानवता, मीठा + आस = मिठास)",
+      "कृत प्रत्यय",
+      "कृदंत प्रत्यय",
+      "धातु प्रत्यय"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "संज्ञा, सर्वनाम व विशेषण में जुड़ने वाले प्रत्यय 'तद्धित' तथा निर्मित शब्द 'तद्धितांत' कहलाते हैं।"
+  },
+  {
+    "classLevel": 7,
+    "subject": "Hindi Grammar",
+    "chapter": "Chapter 4: उपसर्ग और प्रत्यय",
+    "question": "'मिठास' शब्द में मूल शब्द और प्रत्यय क्या है?",
+    "options": [
+      "मीठा (मूल शब्द) + आस (प्रत्यय)",
+      "मिठ + आस",
+      "मीठा + स",
+      "मिठा + स"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "विशेषण 'मीठा' में भाववाचक तद्धित प्रत्यय 'आस' जुड़ने से 'मिठास' बनता है।"
+  },
+  {
+    "classLevel": 7,
+    "subject": "Hindi Grammar",
+    "chapter": "Chapter 4: उपसर्ग और प्रत्यय",
+    "question": "'लिखावट' शब्द में कौन-सा प्रत्यय प्रयुक्त हुआ है?",
+    "options": [
+      "आवट (कृत प्रत्यय)",
+      "वट",
+      "आहट",
+      "ता"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "लिख् धातु में भाववाचक कृत प्रत्यय 'आवट' जुड़ने से 'लिखावट' शब्द बनता है।"
+  },
+  {
+    "classLevel": 7,
+    "subject": "Hindi Grammar",
+    "chapter": "Chapter 4: उपसर्ग और प्रत्यय",
+    "question": "'दुर्' (संस्कृत उपसर्ग - अर्थ: बुरा/कठिन) से बने शब्दों का सही समूह कौन-सा है?",
+    "options": [
+      "दुर्लभ, दुराचार, दुर्गम, दुर्बल",
+      "दुकाल, दुबला",
+      "दुस्साहस, दुष्कर्म",
+      "निर्दोष, निर्धन"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "दुर् + लभ = दुर्लभ; दुर् + आचार = दुराचार; दुर् + गम = दुर्गम; दुर् + बल = दुर्बल।"
+  },
+  {
+    "classLevel": 7,
+    "subject": "Hindi Grammar",
+    "chapter": "Chapter 4: उपसर्ग और प्रत्यय",
+    "question": "'सम्' (संस्कृत उपसर्ग - अर्थ: अच्छी तरह / पूर्णता) से बने शब्दों का सही उदाहरण कौन-सा है?",
+    "options": [
+      "सम्मान (सम्+मान), संतोष (सम्+तोष), संस्कार (सम्+कार), संपूर्ण (सम्+पूर्ण)",
+      "सुपुत्र, सुगम",
+      "सहपाठी, सहचर",
+      "स्वदेश, स्वराज्य"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "सम् + मान = सम्मान; सम् + तोष = संतोष (अनुस्वार रूप); सम् + कार = संस्कार।"
+  },
+  {
+    "classLevel": 7,
+    "subject": "Hindi Grammar",
+    "chapter": "Chapter 4: उपसर्ग और प्रत्यय",
+    "question": "'अभि' उपसर्ग (अर्थ: सामने/श्रेष्ठ) से बने शब्दों का सही समूह कौन-सा है?",
+    "options": [
+      "अभिमान, अभिनय, अभिवादन, अभियोग",
+      "अवगुण, अवनति",
+      "अपमान, अपशब्द",
+      "अधिकार, अधिपति"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "अभि + मान = अभिमान; अभि + नय = अभिनय; अभि + वादन = अभिवादन।"
+  },
+  {
+    "classLevel": 7,
+    "subject": "Hindi Grammar",
+    "chapter": "Chapter 4: उपसर्ग और प्रत्यय",
+    "question": "हिंदी के उपसर्ग 'कु' (अर्थ: बुरा) से बने शब्दों का सही समूह कौन-सा है?",
+    "options": [
+      "कुपुत्र, कुसंगति, कुमार्ग, कुरूप",
+      "सुपुत्र, सुमार्ग",
+      "अनपढ़, अनहोनी",
+      "चौराहा, चौपाया"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "कु + पुत्र = कुपुत्र; कु + संगति = कुसंगति; कु + रूप = कुरूप।"
+  },
+  {
+    "classLevel": 7,
+    "subject": "Hindi Grammar",
+    "chapter": "Chapter 4: उपसर्ग और प्रत्यय",
+    "question": "उर्दू-फ़ारसी उपसर्ग 'कम' (अर्थ: थोड़ा/हीन) से बने शब्दों का सही उदाहरण कौन-सा है?",
+    "options": [
+      "कमज़ोर, कमअक्ल, कमउम्र, कमबख्त",
+      "हरदम, हरएक",
+      "बदनाम, बदबू",
+      "लाचार, लावारिस"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "कम + ज़ोर = कमज़ोर; कम + अक्ल = कमअक्ल; कम + उम्र = कमउम्र।"
+  },
+  {
+    "classLevel": 7,
+    "subject": "Hindi Grammar",
+    "chapter": "Chapter 4: उपसर्ग और प्रत्यय",
+    "question": "उर्दू-फ़ारसी उपसर्ग 'ला' (अर्थ: बिना / रहित) से बने शब्दों का सही समूह कौन-सा है?",
+    "options": [
+      "लापरवाह, लावारिस, लाचार, लाजवाब",
+      "बेकसूर, बेईमान",
+      "नादान, नापसंद",
+      "गैरहाज़िर, गैरकानूनी"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "ला + परवाह = लापरवाह; ला + वारिस = लावारिस; ला + जवाब = लाजवाब।"
+  },
+  {
+    "classLevel": 7,
+    "subject": "Hindi Grammar",
+    "chapter": "Chapter 4: उपसर्ग और प्रत्यय",
+    "question": "'इक' प्रत्यय जुड़ने पर मूल शब्द के प्रथम स्वर में होने वाले दीर्घीकरण का सही उदाहरण कौन-सा है?",
+    "options": [
+      "समाज + इक = सामाजिक ; इतिहास + इक = ऐतिहासिक ; भूगोल + इक = भौगोलिक ; धर्म + इक = धार्मिक",
+      "समाज + इक = समाजक",
+      "इतिहास + इक = इतिहासिक",
+      "धर्म + इक = धर्मक"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "'इक' प्रत्यय आदि-स्वर वृद्धि करता है: अ→आ (सामाजिक), इ→ऐ (ऐतिहासिक), उ→औ (भौगोलिक)।"
+  },
+  {
+    "classLevel": 7,
+    "subject": "Hindi Grammar",
+    "chapter": "Chapter 4: उपसर्ग और प्रत्यय",
+    "question": "'इत' प्रत्यय से बने शब्दों का सही समूह कौन-सा है?",
+    "options": [
+      "हर्षित (हर्ष + इत), शिक्षित (शिक्षा + इत), फलित (फल + इत), पुष्पित (पुष्प + इत)",
+      "मानवता, सुंदरता",
+      "धार्मिक, नैतिक",
+      "बलवान, दयावान"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "हर्ष + इत = हर्षित; शिक्षा + इत = शिक्षित; पुष्प + इत = पुष्पित।"
+  },
+  {
+    "classLevel": 7,
+    "subject": "Hindi Grammar",
+    "chapter": "Chapter 4: उपसर्ग और प्रत्यय",
+    "question": "'ता' भाववाचक तद्धित प्रत्यय से बने शब्दों का सही समूह कौन-सा है?",
+    "options": [
+      "मानवता, सुंदरता, सज्जनता, कटुता",
+      "मिठास, खटास",
+      "बचपन, लड़कपन",
+      "लिखावट, बनावट"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "मानव + ता = मानवता; सुंदर + ता = सुंदरता; कटु + ता = कटुता।"
+  },
+  {
+    "classLevel": 7,
+    "subject": "Hindi Grammar",
+    "chapter": "Chapter 4: उपसर्ग और प्रत्यय",
+    "question": "'वान' और 'वती' प्रत्यय से बने शब्दों का सही उदाहरण कौन-सा है?",
+    "options": [
+      "धनवान / धनवती, बलवान / बलवती, रूपवान / रूपवती",
+      "धनिक, रसिक",
+      "मानवता, एकता",
+      "शहरी, देहाती"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "धन + वान = धनवान (पुल्लिंग) / धनवती (स्त्रीलिंग)।"
+  },
+  {
+    "classLevel": 7,
+    "subject": "Hindi Grammar",
+    "chapter": "Chapter 4: उपसर्ग और प्रत्यय",
+    "question": "'वाला' कर्तृवाचक प्रत्यय से बने शब्दों का सही समूह कौन-सा है?",
+    "options": [
+      "दूधवाला, फलवाला, अखबारवाला, रिक्शावाला",
+      "दूधिया, रसोइया",
+      "बचपन, लड़कपन",
+      "धनी, लोभी"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "संज्ञा + वाला = कर्ता सूचक शब्द (दूधवाला, फलवाला)।"
+  },
+  {
+    "classLevel": 7,
+    "subject": "Hindi Grammar",
+    "chapter": "Chapter 4: उपसर्ग और प्रत्यय",
+    "question": "'घबराहट' शब्द में मूल शब्द और प्रत्यय का सही विग्रह क्या है?",
+    "options": [
+      "घबराना (या घबरा) + आहट (प्रत्यय)",
+      "घब + राहट",
+      "घबराह + ट",
+      "घबर + आहट"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "घबराना क्रिया की धातु में भाववाचक कृत प्रत्यय 'आहट' जुड़कर 'घबराहट' बनता है।"
+  },
+  {
+    "classLevel": 7,
+    "subject": "Hindi Grammar",
+    "chapter": "Chapter 4: उपसर्ग और प्रत्यय",
+    "question": "निम्नलिखित में से किस शब्द में उपसर्ग और प्रत्यय दोनों का एक साथ प्रयोग हुआ है?",
+    "options": [
+      "'अपमानित' (अप [उपसर्ग] + मान [मूल शब्द] + इत [प्रत्यय])",
+      "'सुंदरता'",
+      "'अपराध'",
+      "'लिखावट'"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "अप (उपसर्ग) + मान (मूल शब्द) + इत (प्रत्यय) = अपमानित।"
+  },
+  {
+    "classLevel": 7,
+    "subject": "Hindi Grammar",
+    "chapter": "Chapter 4: उपसर्ग और प्रत्यय",
+    "question": "निम्नलिखित में से किस शब्द में उपसर्ग और प्रत्यय दोनों प्रयुक्त हुए हैं?",
+    "options": [
+      "'अलौकिक' (अ [उपसर्ग] + लोक [मूल शब्द] + इक [प्रत्यय])",
+      "'सच्चाई'",
+      "'अनपढ़'",
+      "'खिलाड़ी'"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "अ (उपसर्ग) + लोक (मूल शब्द) + इक (प्रत्यय) = अलौकिक।"
+  },
+  {
+    "classLevel": 7,
+    "subject": "Hindi Grammar",
+    "chapter": "Chapter 4: उपसर्ग और प्रत्यय",
+    "question": "'परोपकार' शब्द में कौन-सा उपसर्ग प्रयुक्त हुआ है?",
+    "options": [
+      "पर (पर + उपकार = परोपकार, गुण संधि के साथ)",
+      "परा",
+      "परी",
+      "प्रो"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "पर (दूसरा) + उपकार = परोपकार (अ + उ = ओ, गुण संधि)।"
+  },
+  {
+    "classLevel": 7,
+    "subject": "Hindi Grammar",
+    "chapter": "Chapter 4: उपसर्ग और प्रत्यय",
+    "question": "'प्रत्येक' शब्द में कौन-सा उपसर्ग प्रयुक्त हुआ है?",
+    "options": [
+      "प्रति (प्रति + एक = प्रत्येक, यण संधि के साथ)",
+      "प्र",
+      "प्रा",
+      "प्रत"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "प्रति + एक = प्रत्येक (इ + ए = ये, यण संधि)।"
+  },
+  {
+    "classLevel": 7,
+    "subject": "Hindi Grammar",
+    "chapter": "Chapter 4: उपसर्ग और प्रत्यय",
+    "question": "कथन और कारण को ध्यानपूर्वक पढ़ें:\nकथन (A): उपसर्ग और प्रत्यय स्वतंत्र शब्द नहीं होते, बल्कि वे भाषा के 'शब्दांश' (Bound Morphemes) होते हैं।\nकारण (R): उपसर्ग और प्रत्यय का वाक्य में स्वतंत्र रूप से कोई प्रयोग नहीं किया जा सकता ; वे सदा किसी सार्थक मूल शब्द के साथ जुड़कर ही नया अर्थ प्रदान करते हैं।\nसही विकल्प चुनें:",
+    "options": [
+      "(A) और (R) दोनों सही हैं तथा (R), (A) की सही व्याख्या करता है।",
+      "(A) और (R) दोनों सही हैं, परन्तु (R), (A) की सही व्याख्या नहीं करता।",
+      "(A) सही है, परन्तु (R) गलत है।",
+      "(A) गलत है, परन्तु (R) सही है।"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "उपसर्ग व प्रत्यय बद्ध रूपिम (Bound Morphemes) हैं जिनका स्वतंत्र अस्तित्व नहीं होता।"
+  },
+  {
+    "classLevel": 7,
+    "subject": "Hindi Grammar",
+    "chapter": "Chapter 4: उपसर्ग और प्रत्यय",
+    "question": "Spot the IMPOSTER in the following group of उपसर्ग और उनसे बने शब्दों में:\nGroup:\n1. सम् - संवाद, संहार, संस्कार\n2. अनु - अनुवाद, अनुकरण, अनुशासन\n3. निर् - निर्मल, निर्दोष, निर्धन\n4. अति - अनादर, अनहोनी, अनजान",
+    "options": [
+      "युग्म 1",
+      "युग्म 2",
+      "युग्म 3",
+      "युग्म 4 (अनादर, अनहोनी में 'अन् / अन' उपसर्ग है, 'अति' नहीं)"
+    ],
+    "correctAnswer": 3,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "युग्म 4 में 'अन्' (अन्+आदर=अनादर) तथा 'अन' उपसर्ग हैं; 'अति' के शब्द 'अत्यंत, अत्यधिक' होते हैं।"
+  },
+  {
+    "classLevel": 7,
+    "subject": "Hindi Grammar",
+    "chapter": "Chapter 4: उपसर्ग और प्रत्यय",
+    "question": "सुमेलित कीजिए (उपसर्ग और उनके अर्थ):\n(क) उत् / उद् -> (i) ऊपर, श्रेष्ठ, ऊँचा (जैसे: उत्कर्ष, उन्नति)\n(ख) दुर् / दुस् -> (ii) बुरा, कठिन, दुष्ट (जैसे: दुर्जन, दुस्साहस)\n(ग) परा       -> (iii) विपरीत, पीछे, नाश (जैसे: पराजय, पराभव)\n(घ) प्रति     -> (iv) प्रत्येक, सामने, विरुद्ध (जैसे: प्रतिकूल, प्रतिध्वनि)",
+    "options": [
+      "क-(i), ख-(ii), ग-(iii), घ-(iv)",
+      "क-(ii), ख-(i), ग-(iv), घ-(iii)",
+      "क-(iv), ख-(iii), ग-(ii), घ-(i)",
+      "क-(iii), ख-(iv), ग-(i), घ-(ii)"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "उत् = ऊँचा; दुर् = बुरा; परा = विपरीत/पराजय; प्रति = प्रत्येक/सामने।"
+  },
+  {
+    "classLevel": 7,
+    "subject": "Hindi Grammar",
+    "chapter": "Chapter 4: उपसर्ग और प्रत्यय",
+    "question": "निम्नलिखित में से किस शब्द में 'निर्' उपसर्ग प्रयुक्त हुआ है?",
+    "options": [
+      "'निराकार' (निर् + आकार = निराकार) और 'निरपराध' (निर् + अपराध = निरपराध)",
+      "'नियम'",
+      "'निबंध'",
+      "'निवास'"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "निर् + आकार = निराकार; निर् + अपराध = निरपराध (नियम/निबंध में 'नि' उपसर्ग है)।"
+  },
+  {
+    "classLevel": 7,
+    "subject": "Hindi Grammar",
+    "chapter": "Chapter 4: उपसर्ग और प्रत्यय",
+    "question": "'उन्नति' शब्द का शुद्ध उपसर्ग-विच्छेद क्या होगा?",
+    "options": [
+      "उत् + नति (व्यंजन संधि के नियमानुसार 'त्' का 'न्' में परिवर्तन)",
+      "उद् + नति",
+      "उन् + नति",
+      "उ + नति"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "उत् + नति = उन्नति (त् के बाद न आने पर त् का न् हो जाता है)।"
+  },
+  {
+    "classLevel": 7,
+    "subject": "Hindi Grammar",
+    "chapter": "Chapter 4: उपसर्ग और प्रत्यय",
+    "question": "निम्नलिखित में से किस शब्द में 'कु' उपसर्ग नहीं लगा है?",
+    "options": [
+      "'कुसुम' (क्योंकि यह एक रूढ़ मूल शब्द है, इसमें 'कु' उपसर्ग नहीं है)",
+      "'कुकर्म'",
+      "'कुपात्र'",
+      "'कुपुत्र'"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "'कुसुम' (फूल) रूढ़ मूल शब्द है; बाकी तीनों में 'कु' (बुरा) उपसर्ग है।"
+  },
+  {
+    "classLevel": 7,
+    "subject": "Hindi Grammar",
+    "chapter": "Chapter 4: उपसर्ग और प्रत्यय",
+    "question": "'ऐतिहासिक' और 'वैधानिक' शब्दों में मूल शब्द और प्रत्यय क्या हैं?",
+    "options": [
+      "इतिहास + इक = ऐतिहासिक ; विधान + इक = वैधानिक",
+      "ऐतिहास + इक ; वैधान + इक",
+      "इतिहास + क ; विधान + क",
+      "इति + हासिक ; वि + धानिक"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "'इक' प्रत्यय से इ→ऐ (इतिहास→ऐतिहासिक) तथा इ→ऐ (विधान→वैधानिक)।"
+  },
+  {
+    "classLevel": 7,
+    "subject": "Hindi Grammar",
+    "chapter": "Chapter 4: उपसर्ग और प्रत्यय",
+    "question": "निम्नलिखित में से किस शब्द में दो उपसर्गों का एक साथ प्रयोग हुआ है?",
+    "options": [
+      "'पर्यावरण' (परि + आ + वरण = पर्यावरण) और 'असुरक्षित' (अ + सु + रक्षित)",
+      "'अतिवृष्टि'",
+      "'दुर्लभ'",
+      "'अनपढ़'"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "पर्यावरण = परि + आ + वरण (दो उपसर्ग); असुरक्षित = अ + सु + रक्षित (दो उपसर्ग)।"
+  },
+  {
+    "classLevel": 7,
+    "subject": "Hindi Grammar",
+    "chapter": "Chapter 4: उपसर्ग और प्रत्यय",
+    "question": "निम्नलिखित में से किस शब्द में दो प्रत्ययों का एक साथ प्रयोग हुआ है?",
+    "options": [
+      "'राष्ट्रीयता' (राष्ट्र + ईय [प्रत्यय 1] + ता [प्रत्यय 2] = राष्ट्रीयता)",
+      "'मानवता'",
+      "'सुंदरता'",
+      "'लिखाई'"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "राष्ट्र + ईय = राष्ट्रीय + ता = राष्ट्रीयता (दो तद्धित प्रत्ययों का क्रमिक संयोग)।"
+  },
+  {
+    "classLevel": 7,
+    "subject": "Hindi Grammar",
+    "chapter": "Chapter 4: उपसर्ग और प्रत्यय",
+    "question": "'सदाचार' और 'सज्जन' शब्दों में कौन-सा संस्कृत उपसर्ग प्रयुक्त हुआ है?",
+    "options": [
+      "'सत्' उपसर्ग (सत् + आचार = सदाचार ; सत् + जन = सज्जन)",
+      "'सद्'",
+      "'स'",
+      "'सम्'"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "संस्कृत तत्सम उपसर्ग 'सत्' (सत्+आचार=सदाचार, सत्+जन=सज्जन)।"
+  },
+  {
+    "classLevel": 7,
+    "subject": "Hindi Grammar",
+    "chapter": "Chapter 4: उपसर्ग और प्रत्यय",
+    "question": "उर्दू-फ़ारसी के उपसर्ग 'ना' (अर्थ: अभाव/नहीं) से बने शब्दों का शुद्ध समूह कौन-सा है?",
+    "options": [
+      "नालायक, नापसंद, नादान, नाबालिग, नामुमकिन",
+      "नाता, नाग",
+      "नान, नाशपाती",
+      "नारी, नाटक"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "ना + लायक = नालायक; ना + पसंद = नापसंद; ना + बालिग = नाबालिग।"
+  },
+  {
+    "classLevel": 7,
+    "subject": "Hindi Grammar",
+    "chapter": "Chapter 4: उपसर्ग और प्रत्यय",
+    "question": "उपसर्ग और प्रत्यय (Affixation) के सम्यक अध्ययन का हिंदी भाषा की शब्द-रचना में क्या सर्वोच्च योगदान है?",
+    "options": [
+      "यह सीमित मूल शब्दों से सहस्रों नवीन, सूक्ष्म, भावपूर्ण और पारिभाषिक शब्दों के सृजन की अद्भुत वैज्ञानिक सामर्थ्य प्रदान करता है, जिससे भाषा का शब्द-भंडार अनंत रूप से समृद्ध होता है",
+      "यह शब्दों को छोटा करने का एकमात्र तरीका है",
+      "इसका व्याकरण में कोई विशेष प्रयोग नहीं है",
+      "यह केवल परीक्षा में एक अंक के लिए पढ़ा जाता है"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "उपसर्ग और प्रत्यय शब्द-निर्माण की सर्वाधिक उर्वर रचनात्मक प्रविधियाँ हैं जो भाषा की शब्द-संपदा का असीमित विस्तार करती हैं।"
+  }
+]

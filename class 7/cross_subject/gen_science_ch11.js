@@ -1,0 +1,555 @@
+import fs from 'fs';
+
+// -------------------------------------------------------------
+// SUBJECT 1: Science - Chapter 11: Light (40 Questions)
+// -------------------------------------------------------------
+const scienceQuestions = [
+  // EASY (12)
+  {
+    classLevel: 7,
+    subject: "Science",
+    chapter: "Chapter 11: Light",
+    question: "Light travels along which geometric path through a uniform, transparent medium (Rectilinear Propagation of Light)?",
+    options: ["Straight Lines", "Curved circular lines", "Zig-zag paths", "Spiral waves only"],
+    correctAnswer: 0,
+    difficulty: "EASY",
+    damage: 150,
+    explanation: "Rectilinear propagation: light travels along straight lines, causing the formation of sharp shadows and pinhole camera images."
+  },
+  {
+    classLevel: 7,
+    subject: "Science",
+    chapter: "Chapter 11: Light",
+    question: "What is the phenomenon of bouncing back of light rays from a polished, shiny, or reflective surface called?",
+    options: ["Reflection of Light", "Refraction of Light", "Dispersion of Light", "Absorption"],
+    correctAnswer: 0,
+    difficulty: "EASY",
+    damage: 150,
+    explanation: "Reflection is the change in direction and bouncing back of a light wavefront at an interface between two different media."
+  },
+  {
+    classLevel: 7,
+    subject: "Science",
+    chapter: "Chapter 11: Light",
+    question: "What are the characteristics of an image formed by a flat PLANE MIRROR?",
+    options: [
+      "Erect (upright), Virtual (cannot be obtained on a screen), Same size as the object, and Laterally Inverted",
+      "Inverted, Real, and Magnified",
+      "Real, Diminished, and Upside-down",
+      "Virtual and ten times larger"
+    ],
+    correctAnswer: 0,
+    difficulty: "EASY",
+    damage: 150,
+    explanation: "A plane mirror forms an erect, virtual image of identical size, located at the same distance behind the mirror as the object in front."
+  },
+  {
+    classLevel: 7,
+    subject: "Science",
+    chapter: "Chapter 11: Light",
+    question: "What optical phenomenon causes your right hand to appear as the left hand and your left hand to appear as the right hand in a mirror image?",
+    options: ["Lateral Inversion", "Refraction", "Dispersion", "Total Internal Reflection"],
+    correctAnswer: 0,
+    difficulty: "EASY",
+    damage: 150,
+    explanation: "Lateral inversion is the apparent sideways reversal of left and right in a planar reflection."
+  },
+  {
+    classLevel: 7,
+    subject: "Science",
+    chapter: "Chapter 11: Light",
+    question: "Why is the word 'AMBULANCE' written in reverse laterally inverted script ('ECNALUBMA') on emergency medical vehicles?",
+    options: [
+      "So that drivers of vehicles ahead can read the word correctly as 'AMBULANCE' in their rear-view mirrors and immediately give way",
+      "It is a foreign language spelling",
+      "To confuse pedestrians on the road",
+      "It is an artistic design"
+    ],
+    correctAnswer: 0,
+    difficulty: "EASY",
+    damage: 150,
+    explanation: "Pre-inverting the lettering ensures that when viewed through a driver's rear-view mirror, lateral inversion renders 'AMBULANCE' right-side up."
+  },
+  {
+    classLevel: 7,
+    subject: "Science",
+    chapter: "Chapter 11: Light",
+    question: "A spherical mirror whose reflecting surface is curved INWARDS (like the inside surface of a shining spoon) is called a:",
+    options: ["Concave Mirror", "Convex Mirror", "Plane Mirror", "Cylindrical Mirror"],
+    correctAnswer: 0,
+    difficulty: "EASY",
+    damage: 150,
+    explanation: "A concave mirror has an inward-curving converging reflecting surface."
+  },
+  {
+    classLevel: 7,
+    subject: "Science",
+    chapter: "Chapter 11: Light",
+    question: "A spherical mirror whose reflecting surface is curved OUTWARDS (like the back outer surface of a shining spoon) is called a:",
+    options: ["Convex Mirror", "Concave Mirror", "Plane Mirror", "Parabolic Mirror"],
+    correctAnswer: 0,
+    difficulty: "EASY",
+    damage: 150,
+    explanation: "A convex mirror has an outward-bulging diverging reflecting surface."
+  },
+  {
+    classLevel: 7,
+    subject: "Science",
+    chapter: "Chapter 11: Light",
+    question: "An image that can be formed and projected onto a physical SCREEN is called a:",
+    options: ["Real Image", "Virtual Image", "Lateral Image", "Inverted Image only"],
+    correctAnswer: 0,
+    difficulty: "EASY",
+    damage: 150,
+    explanation: "A real image is formed by the actual physical intersection of reflected/refracted light rays and can be captured on a screen."
+  },
+  {
+    classLevel: 7,
+    subject: "Science",
+    chapter: "Chapter 11: Light",
+    question: "An image that CANNOT be obtained or projected on a screen is called a:",
+    options: ["Virtual Image", "Real Image", "Shadow", "Magnified Image"],
+    correctAnswer: 0,
+    difficulty: "EASY",
+    damage: 150,
+    explanation: "A virtual image occurs where light rays only appear to diverge from a point behind the mirror/lens and cannot be captured on a screen."
+  },
+  {
+    classLevel: 7,
+    subject: "Science",
+    chapter: "Chapter 11: Light",
+    question: "A transparent optical lens that is THICKER in the middle than at the edges, converging parallel light rays to a focus, is called a:",
+    options: ["Convex Lens (Converging Lens)", "Concave Lens", "Plane Lens", "Cylindrical Lens"],
+    correctAnswer: 0,
+    difficulty: "EASY",
+    damage: 150,
+    explanation: "A convex lens is thicker at its center and converges incident parallel light rays toward a real focal point."
+  },
+  {
+    classLevel: 7,
+    subject: "Science",
+    chapter: "Chapter 11: Light",
+    question: "A transparent optical lens that is THINNER in the middle than at the edges, diverging light rays outwards, is called a:",
+    options: ["Concave Lens (Diverging Lens)", "Convex Lens", "Biconvex Lens", "Magnifying Lens"],
+    correctAnswer: 0,
+    difficulty: "EASY",
+    damage: 150,
+    explanation: "A concave lens is thinner at the center than at the periphery, causing parallel light rays to diverge."
+  },
+  {
+    classLevel: 7,
+    subject: "Science",
+    chapter: "Chapter 11: Light",
+    question: "White sunlight consists of how many distinct spectral colors that can be split by a glass prism (VIBGYOR)?",
+    options: [
+      "Seven Colors (Violet, Indigo, Blue, Green, Yellow, Orange, Red)",
+      "Three Colors (Red, Blue, Green)",
+      "Five Colors",
+      "Only One Color"
+    ],
+    correctAnswer: 0,
+    difficulty: "EASY",
+    damage: 150,
+    explanation: "White light is a polychromatic mixture of seven constituent spectral wavelengths: Violet, Indigo, Blue, Green, Yellow, Orange, Red (VIBGYOR)."
+  },
+
+  // MEDIUM (16)
+  {
+    classLevel: 7,
+    subject: "Science",
+    chapter: "Chapter 11: Light",
+    question: "Which type of spherical mirror is used by Dentists to see an enlarged, magnified, and erect image of a patient's teeth?",
+    options: [
+      "Concave Mirror (held close to the teeth within its focal length)",
+      "Convex Mirror",
+      "Plane Mirror",
+      "Bifocal Mirror"
+    ],
+    correctAnswer: 0,
+    difficulty: "MEDIUM",
+    damage: 250,
+    explanation: "When an object is placed between the pole and principal focus of a concave mirror, it produces an erect, magnified, virtual image."
+  },
+  {
+    classLevel: 7,
+    subject: "Science",
+    chapter: "Chapter 11: Light",
+    question: "Why are CONVEX MIRRORS universally installed as side REAR-VIEW MIRRORS in cars, buses, and motorcycles?",
+    options: [
+      "They always form erect, diminished images and provide a vastly WIDER FIELD OF VIEW, allowing drivers to see large traffic behind them",
+      "They magnify objects to look ten times closer",
+      "They absorb heat from the road",
+      "They glow in the dark"
+    ],
+    correctAnswer: 0,
+    difficulty: "MEDIUM",
+    damage: 250,
+    explanation: "Convex mirrors curve outwards, producing upright, diminished virtual images that capture an expansive panoramic field of traffic."
+  },
+  {
+    classLevel: 7,
+    subject: "Science",
+    chapter: "Chapter 11: Light",
+    question: "What type of spherical mirror is used as reflectors in automobile Headlights, Searchlights, and Solar Furnaces to throw powerful parallel beams of light?",
+    options: ["Concave Mirrors (with the light bulb placed at its principal focus)", "Convex Mirrors", "Plane Mirrors", "Cylindrical Mirrors"],
+    correctAnswer: 0,
+    difficulty: "MEDIUM",
+    damage: 250,
+    explanation: "Placing a lamp bulb at the focal point of a concave mirror produces a powerful, non-diverging parallel beam of reflected light."
+  },
+  {
+    classLevel: 7,
+    subject: "Science",
+    chapter: "Chapter 11: Light",
+    question: "What type of lens is used as a simple Handheld MAGNIFYING GLASS to read fine print or examine small insect parts?",
+    options: ["A Convex Lens (held close to the object)", "A Concave Lens", "A Plane glass plate", "A Tinted sunglasses lens"],
+    correctAnswer: 0,
+    difficulty: "MEDIUM",
+    damage: 250,
+    explanation: "A convex lens produces a magnified, upright, virtual image when an object is held within its focal distance (acting as a simple microscope)."
+  },
+  {
+    classLevel: 7,
+    subject: "Science",
+    chapter: "Chapter 11: Light",
+    question: "What type of image is ALWAYS formed by a CONCAVE LENS, regardless of how far or close the object is placed?",
+    options: [
+      "Virtual, Erect (upright), and DIMINISHED (smaller in size than the object)",
+      "Real, Inverted, and Magnified",
+      "Real, Erect, and Same size",
+      "Virtual and Magnified"
+    ],
+    correctAnswer: 0,
+    difficulty: "MEDIUM",
+    damage: 250,
+    explanation: "A diverging concave lens always forms a virtual, erect, and diminished image located between the optical center and the principal focus."
+  },
+  {
+    classLevel: 7,
+    subject: "Science",
+    chapter: "Chapter 11: Light",
+    question: "What is the phenomenon of splitting white sunlight into its seven constituent spectral colors when passing through a triangular Glass Prism called?",
+    options: ["Dispersion of Light", "Reflection", "Scattering", "Diffraction"],
+    correctAnswer: 0,
+    difficulty: "MEDIUM",
+    damage: 250,
+    explanation: "Dispersion occurs because different wavelengths (colors) of light refract (bend) at slightly different angles when passing through glass."
+  },
+  {
+    classLevel: 7,
+    subject: "Science",
+    chapter: "Chapter 11: Light",
+    question: "How is a natural RAINBOW formed in the sky after rain showers?",
+    options: [
+      "Millions of tiny suspended airborne raindrops act like miniature optical prisms, refracting, dispersing, and internally reflecting sunlight into a spectrum",
+      "Clouds paint colors in the sky with water",
+      "Sunlight reflects off ocean waves into the sky",
+      "Lightning leaves behind colored dust"
+    ],
+    correctAnswer: 0,
+    difficulty: "MEDIUM",
+    damage: 250,
+    explanation: "Atmospheric raindrops act as spherical prisms: refracting light on entry, internally reflecting it, and dispersing it upon exit into an arc."
+  },
+  {
+    classLevel: 7,
+    subject: "Science",
+    chapter: "Chapter 11: Light",
+    question: "What happens when a circular circular disc painted with all seven rainbow color segments (Newton's Disc) is rotated RAPIDLY on its central axis?",
+    options: [
+      "The seven colors blend together due to the persistence of vision, and the disc appears completely WHITE (or pale grayish-white)",
+      "The disc turns solid black",
+      "The disc catches fire",
+      "The disc becomes transparent like glass"
+    ],
+    correctAnswer: 0,
+    difficulty: "MEDIUM",
+    damage: 250,
+    explanation: "Newton's disc demonstrates additive color synthesis: rapid retinal persistence of vision (~1/16 s) superimposes the 7 colors into white light."
+  },
+  {
+    classLevel: 7,
+    subject: "Science",
+    chapter: "Chapter 11: Light",
+    question: "If an object is placed at a distance of 0.5 m in front of a flat plane mirror, what is the total distance between the OBJECT and its IMAGE?",
+    options: ["1.0 m (0.5 m in front + 0.5 m behind = 1.0 m)", "0.5 m", "0.25 m", "2.0 m"],
+    correctAnswer: 0,
+    difficulty: "MEDIUM",
+    damage: 250,
+    explanation: "Image distance behind mirror equals object distance in front (d = 0.5 m). Total distance between object and image = 0.5 + 0.5 = 1.0 m."
+  },
+  {
+    classLevel: 7,
+    subject: "Science",
+    chapter: "Chapter 11: Light",
+    question: "David is observing his image in a plane mirror. The distance between the mirror and his image is 4 m. If he moves 1 m towards the mirror, what will be the new distance between David and his image?",
+    options: ["6 m (New object distance = 3 m ; New image distance = 3 m ; Total = 3 + 3 = 6 m)", "8 m", "4 m", "5 m"],
+    correctAnswer: 0,
+    difficulty: "MEDIUM",
+    damage: 250,
+    explanation: "When David moves 1 m closer, object distance = 4 - 1 = 3 m. Image distance = 3 m. Distance between David and his image = 3 + 3 = 6 m."
+  },
+  {
+    classLevel: 7,
+    subject: "Science",
+    chapter: "Chapter 11: Light",
+    question: "What happens when you focus direct bright sunlight onto a dry sheet of paper using a powerful CONVEX LENS for a couple of minutes?",
+    options: [
+      "The lens converges all solar rays to a single intense focal point; thermal concentration heats the paper until it scorches, smokes, and catches fire",
+      "The paper turns into ice",
+      "The paper turns into a mirror",
+      "The lens breaks into pieces"
+    ],
+    correctAnswer: 0,
+    difficulty: "MEDIUM",
+    damage: 250,
+    explanation: "A converging convex lens focuses incident solar irradiance into a tiny focal spot, concentrating thermal energy above the paper's kindling point."
+  },
+  {
+    classLevel: 7,
+    subject: "Science",
+    chapter: "Chapter 11: Light",
+    question: "Why does the rear-view mirror of a car carry the printed safety warning: 'OBJECTS IN MIRROR ARE CLOSER THAN THEY APPEAR'?",
+    options: [
+      "Because convex mirrors form diminished (smaller) images, which makes approaching vehicles appear further away than their actual physical distance",
+      "Because the mirror has a magnifier",
+      "Because the glass is curved inwards",
+      "Because the mirror works with radio waves"
+    ],
+    correctAnswer: 0,
+    difficulty: "MEDIUM",
+    damage: 250,
+    explanation: "Convex mirrors minify images to gain field-of-view; human visual perception equates smaller retinal size with greater distance."
+  },
+  {
+    classLevel: 7,
+    subject: "Science",
+    chapter: "Chapter 11: Light",
+    question: "Which color of light bends (refracts) the MOST and which color bends the LEAST when white light passes through a glass prism?",
+    options: [
+      "VIOLET bends the most (shortest wavelength), and RED bends the least (longest wavelength)",
+      "Red bends the most, and Violet bends the least",
+      "Green bends the most, and Yellow bends the least",
+      "All colors bend at the exact same angle"
+    ],
+    correctAnswer: 0,
+    difficulty: "MEDIUM",
+    damage: 250,
+    explanation: "Cauchy's dispersion formula: refractive index is inversely proportional to wavelength. High-frequency violet refracts most; low-frequency red refracts least."
+  },
+  {
+    classLevel: 7,
+    subject: "Science",
+    chapter: "Chapter 11: Light",
+    question: "What type of mirror is used in large Solar Cookers to concentrate solar energy onto cooking pots?",
+    options: ["Concave Mirror (Converging reflector)", "Convex Mirror", "Plane Mirror only", "Tinted dark glass"],
+    correctAnswer: 0,
+    difficulty: "MEDIUM",
+    damage: 250,
+    explanation: "Large parabolic concave mirrors concentrate solar irradiance onto the focal point where cooking utensils are placed."
+  },
+  {
+    classLevel: 7,
+    subject: "Science",
+    chapter: "Chapter 11: Light",
+    question: "Which of the following optical instruments uses combinations of CONVEX LENSES to magnify distant celestial objects like the Moon and planets?",
+    options: ["An Astronomical Telescope", "A Stethoscope", "A Periscope", "A Barometer"],
+    correctAnswer: 0,
+    difficulty: "MEDIUM",
+    damage: 250,
+    explanation: "Refracting astronomical telescopes combine an objective convex lens of long focal length with an ocular eyepiece convex lens to resolve distant stars."
+  },
+  {
+    classLevel: 7,
+    subject: "Science",
+    chapter: "Chapter 11: Light",
+    question: "What is the speed of light in vacuum (c)?",
+    options: ["Approximately 3 × 10⁸ m/s (300,000 km/s)", "3 × 10⁵ m/s", "3,000 m/s", "300 m/s"],
+    correctAnswer: 0,
+    difficulty: "MEDIUM",
+    damage: 250,
+    explanation: "The universal speed of light in vacuum is approximately 299,792,458 m/s (≈ 3 × 10⁸ m/s or 300,000 km/s)."
+  },
+
+  // HARD (12)
+  {
+    classLevel: 7,
+    subject: "Science",
+    chapter: "Chapter 11: Light",
+    question: "Read the statements:\nAssertion (A): A Concave Mirror can form both Real-Inverted images and Virtual-Erect images depending on object distance.\nReason (R): For all object positions beyond the Principal Focus (F), reflected rays converge to form a real inverted image; but when an object is placed between the Pole (P) and Focus (F), reflected rays diverge and appear to meet behind the mirror, forming an erect, magnified virtual image.\nChoose the correct option:",
+    options: [
+      "Both (A) and (R) are true, and (R) is the correct explanation of (A).",
+      "Both (A) and (R) are true, but (R) is NOT the correct explanation of (A).",
+      "(A) is true, but (R) is false.",
+      "(A) is false, but (R) is true."
+    ],
+    correctAnswer: 0,
+    difficulty: "HARD",
+    damage: 350,
+    explanation: "Concave mirror ray optics: when u > f, real inverted image is formed; when u < f, virtual erect magnified image is created behind mirror."
+  },
+  {
+    classLevel: 7,
+    subject: "Science",
+    chapter: "Chapter 11: Light",
+    question: "Spot the IMPOSTER in the following group of Optical Devices and their signature lens/mirror types:\nGroup:\n1. Vehicle Rear-view Mirror - Convex Mirror\n2. Dentist's Dental Examination Tool - Concave Mirror\n3. Handheld Reading Magnifying Glass - Convex Lens\n4. Astronomical Deep-Space Refractor - Flat bathroom window glass",
+    options: ["Device 1", "Device 2", "Device 3", "Device 4 (Astronomical refracting telescopes use precision high-purity CONVEX OPTICAL LENSES, not flat window glass)"],
+    correctAnswer: 3,
+    difficulty: "HARD",
+    damage: 350,
+    explanation: "Device 4 is an imposter: astronomical telescopes require curved achromatic convex objective lenses to focus light, not flat window glass."
+  },
+  {
+    classLevel: 7,
+    subject: "Science",
+    chapter: "Chapter 11: Light",
+    question: "Sir Isaac Newton proved in 1666 that white light is a combination of colors by using two identical glass prisms. How did he conduct this experiment?",
+    options: [
+      "He placed a second identical inverted glass prism in the path of the dispersed spectrum from the first prism, recombining all seven colors back into a single beam of WHITE LIGHT",
+      "He painted the second prism with oil",
+      "He melted the second prism into water",
+      "He burned the light beam with a match"
+    ],
+    correctAnswer: 0,
+    difficulty: "HARD",
+    damage: 350,
+    explanation: "Newton's classic recombination experiment: an inverted second prism cancels the angular dispersion of the first prism, synthesizing white light."
+  },
+  {
+    classLevel: 7,
+    subject: "Science",
+    chapter: "Chapter 11: Light",
+    question: "Match Column I (Optical Elements) with Column II (Image Characteristics & Applications):\n(a) Plane Mirror    -> (i) Virtual, erect, identical size, lateral inversion\n(b) Convex Mirror   -> (ii) Always virtual, erect, diminished with wide field of view\n(c) Concave Mirror  -> (iii) Shaving & dental mirror (magnified virtual image when close)\n(d) Concave Lens    -> (iv) Always virtual, erect, diminished; corrects myopia",
+    options: [
+      "a-(i), b-(ii), c-(iii), d-(iv)",
+      "a-(ii), b-(i), c-(iv), d-(iii)",
+      "a-(iv), b-(iii), c-(ii), d-(i)",
+      "a-(iii), b-(iv), c-(i), d-(ii)"
+    ],
+    correctAnswer: 0,
+    difficulty: "HARD",
+    damage: 350,
+    explanation: "Plane = identical size; Convex mirror = diminished wide field; Concave mirror = shaving/dental; Concave lens = diverging myopia correction."
+  },
+  {
+    classLevel: 7,
+    subject: "Science",
+    chapter: "Chapter 11: Light",
+    question: "Read the statements regarding optical reflection and refraction:\nStatement 1: The angle of incidence is ALWAYS strictly equal to the angle of reflection (∠i = ∠r) for all reflecting surfaces.\nStatement 2: Light slows down when entering an optically denser medium like glass or water from air.\nStatement 3: A convex mirror can form a real inverted image on a movie screen.\nWhich statements are TRUE?",
+    options: ["Statements 1 and 2 only", "Statements 2 and 3 only", "Statements 1 and 3 only", "All Statements 1, 2, and 3"],
+    correctAnswer: 0,
+    difficulty: "HARD",
+    damage: 350,
+    explanation: "Statement 3 is false (convex mirrors NEVER form real images). Statements 1 (Law of Reflection) and 2 (Refraction Snell's Law) are universal laws."
+  },
+  {
+    classLevel: 7,
+    subject: "Science",
+    chapter: "Chapter 11: Light",
+    question: "Why does a pencil partly immersed in a glass tumbler of water appear BENT or BROKEN at the water-air boundary?",
+    options: [
+      "Due to Refraction: light rays emerging from the underwater portion of the pencil bend away from the normal as they pass from denser water into rarer air",
+      "Because water dissolves the pencil",
+      "Because water acts as a mirror",
+      "Because the glass is curved"
+    ],
+    correctAnswer: 0,
+    difficulty: "HARD",
+    damage: 350,
+    explanation: "Refraction at the planar water-air boundary shifts the apparent position of the submerged pencil tip upwards, creating an apparent bend."
+  },
+  {
+    classLevel: 7,
+    subject: "Science",
+    chapter: "Chapter 11: Light",
+    question: "How does a Periscope (used in submarines and military trenches) enable an observer to see objects over walls or above the water surface?",
+    options: [
+      "It uses TWO parallel plane mirrors inclined at an angle of 45° to each other, successively reflecting light rays downwards through a tube",
+      "It uses an electric camera with a screen",
+      "It uses two magnifying lenses only",
+      "It works with sound waves"
+    ],
+    correctAnswer: 0,
+    difficulty: "HARD",
+    damage: 350,
+    explanation: "A periscope utilizes two plane mirrors set at 45° to provide twin successive 90° reflections, shifting the line of sight over obstacles."
+  },
+  {
+    classLevel: 7,
+    subject: "Science",
+    chapter: "Chapter 11: Light",
+    question: "Consider four optical scenarios:\n1. Looking at your face in a polished stainless steel spoon's inner bowl\n2. Looking at street traffic in a shop anti-theft mirror\n3. Using a magnifying glass on a printed map\n4. Watching a movie projected on a cinema screen\nWhich of these involves a REAL IMAGE captured or displayed physically?",
+    options: ["Scenario 4 only", "Scenarios 1 and 2 only", "Scenarios 2 and 3 only", "All 1, 2, 3, and 4"],
+    correctAnswer: 0,
+    difficulty: "HARD",
+    damage: 350,
+    explanation: "A cinema projector creates a real inverted image on a screen. Scenarios 1 (close), 2, and 3 produce virtual images."
+  },
+  {
+    classLevel: 7,
+    subject: "Science",
+    chapter: "Chapter 11: Light",
+    question: "Why does the primary rainbow always appear in the sky in the direction OPPOSITE to the position of the Sun (e.g. in the East in the late afternoon)?",
+    options: [
+      "Because sunlight must enter the raindrops from behind the observer and be internally reflected back towards the observer's eyes at an angle of ~42°",
+      "Because the Moon pulls the rainbow",
+      "Because clouds only exist in the east",
+      "Because wind blows the colors opposite to the sun"
+    ],
+    correctAnswer: 0,
+    difficulty: "HARD",
+    damage: 350,
+    explanation: "Rainbow geometry requires anti-solar alignment: the observer's back is to the sun so that internal reflection at ~40–42° enters the retina."
+  },
+  {
+    classLevel: 7,
+    subject: "Science",
+    chapter: "Chapter 11: Light",
+    question: "What is the optical mechanism of 'Persistence of Vision' in human eye biology that makes motion pictures and Newton's rotating color disc work?",
+    options: [
+      "The visual impression of an image on the human retina remains for approximately 1/16th of a second after the light stimulus disappears, allowing sequential frames to blend seamlessly into continuous motion or white light",
+      "The eye stores images in memory for one hour",
+      "The eye blinks every second",
+      "The cornea turns into a prism"
+    ],
+    correctAnswer: 0,
+    difficulty: "HARD",
+    damage: 350,
+    explanation: "Retinal photoreceptors retain photochemical activation for ~1/16 s (persistence of vision), enabling cinematic animation and color fusion."
+  },
+  {
+    classLevel: 7,
+    subject: "Science",
+    chapter: "Chapter 11: Light",
+    question: "Why are high-intensity parabolic Concave Mirrors used in solar thermal power plants (like Ivanpah or Bhadla Solar Park)?",
+    options: [
+      "Thousands of giant concave mirrors (heliostats) track the Sun and concentrate thousands of megawatts of thermal solar flux onto a central molten-salt receiver tower to generate superheated steam for turbines",
+      "To produce cold water for cities",
+      "To illuminate the night sky",
+      "To reflect light away from the Earth"
+    ],
+    correctAnswer: 0,
+    difficulty: "HARD",
+    damage: 350,
+    explanation: "Concentrated Solar Power (CSP) employs massive concave parabolic mirror fields to focus solar flux onto molten-salt heat exchangers."
+  },
+  {
+    classLevel: 7,
+    subject: "Science",
+    chapter: "Chapter 11: Light",
+    question: "What grand unifying optical principle is established in Chapter 11 of NCERT Class 7 Science?",
+    options: [
+      "Light—the primary medium of visual perception—governs rectilinear ray propagation, geometric reflection, refractive dispersion, and spherical image formation that underpins modern microscopy, vision correction, astronomical exploration, and solar energy technologies",
+      "That light has no physical laws",
+      "That colors exist only inside glass prisms",
+      "That mirrors can only be made of silver"
+    ],
+    correctAnswer: 0,
+    difficulty: "HARD",
+    damage: 350,
+    explanation: "Chapter 11 establishes foundational geometric optics: rectilinear ray propagation, planar and spherical reflection/refraction, and chromatic dispersion."
+  }
+];
+
+console.log('Generated Class 7 Science Ch11:', scienceQuestions.length);
+fs.writeFileSync('C:/EduVerse/class 7/cross_subject/science_ch11.json', JSON.stringify(scienceQuestions, null, 2), 'utf8');

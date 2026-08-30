@@ -1,0 +1,470 @@
+import fs from 'fs';
+
+// -------------------------------------------------------------
+// SUBJECT 4: General Knowledge - Chapter 3: Geography & Wonders of India (40 Questions)
+// -------------------------------------------------------------
+const gkQuestions = [
+  // EASY (12)
+  {
+    classLevel: 6,
+    subject: "GK",
+    chapter: "Chapter 3: Geography & Wonders of India",
+    question: "What is the highest mountain peak located entirely within the territory of India?",
+    options: ["Kangchenjunga (8,586 meters, Sikkim)", "Nanda Devi", "Kamet", "K2 (Mount Godwin-Austen)"],
+    correctAnswer: 0,
+    difficulty: "EASY",
+    damage: 150,
+    explanation: "Kangchenjunga on the Sikkim-Nepal border is the 3rd highest peak in the world (8,586 m) and India's highest."
+  },
+  {
+    classLevel: 6,
+    subject: "GK",
+    chapter: "Chapter 3: Geography & Wonders of India",
+    question: "Which state of India receives the highest annual rainfall in the world at Mawsynram and Cherrapunji?",
+    options: ["Meghalaya", "Assam", "Kerala", "Arunachal Pradesh"],
+    correctAnswer: 0,
+    difficulty: "EASY",
+    damage: 150,
+    explanation: "Mawsynram in the Khasi Hills of Meghalaya holds the world meteorological record for average annual rainfall (~11,872 mm)."
+  },
+  {
+    classLevel: 6,
+    subject: "GK",
+    chapter: "Chapter 3: Geography & Wonders of India",
+    question: "What is the largest cold desert located in northern India?",
+    options: ["Ladakh (Cold Desert)", "Thar Desert", "Spiti Valley", "Rann of Kutch"],
+    correctAnswer: 0,
+    difficulty: "EASY",
+    damage: 150,
+    explanation: "Ladakh is a high-altitude rain-shadow cold desert situated in the Trans-Himalayan plateau."
+  },
+  {
+    classLevel: 6,
+    subject: "GK",
+    chapter: "Chapter 3: Geography & Wonders of India",
+    question: "What is the largest hot desert located primarily in Rajasthan, India?",
+    options: ["Thar Desert (Great Indian Desert)", "Sahara Desert", "Gobi Desert", "Kalahari Desert"],
+    correctAnswer: 0,
+    difficulty: "EASY",
+    damage: 150,
+    explanation: "The Thar Desert covers over 200,000 km² across western Rajasthan, Gujarat, and parts of Pakistan."
+  },
+  {
+    classLevel: 6,
+    subject: "GK",
+    chapter: "Chapter 3: Geography & Wonders of India",
+    question: "What is the longest coastline-holding state in peninsular India?",
+    options: ["Gujarat (1,600 km)", "Andhra Pradesh", "Tamil Nadu", "Maharashtra"],
+    correctAnswer: 0,
+    difficulty: "EASY",
+    damage: 150,
+    explanation: "Gujarat boasts the longest coastline among all Indian states (~1,600 km) along the Arabian Sea."
+  },
+  {
+    classLevel: 6,
+    subject: "GK",
+    chapter: "Chapter 3: Geography & Wonders of India",
+    question: "Which river is celebrated as 'Dakshin Ganga' (Ganga of the South) as the longest peninsular river in India?",
+    options: ["Godavari (1,465 km)", "Krishna", "Cauvery", "Mahanadi"],
+    correctAnswer: 0,
+    difficulty: "EASY",
+    damage: 150,
+    explanation: "Originating at Trimbakeshwar in Maharashtra, the Godavari is India's second longest river after the Ganga."
+  },
+  {
+    classLevel: 6,
+    subject: "GK",
+    chapter: "Chapter 3: Geography & Wonders of India",
+    question: "What is the largest freshwater lake in India located in Jammu & Kashmir?",
+    options: ["Wular Lake", "Dal Lake", "Chilika Lake", "Sambhar Lake"],
+    correctAnswer: 0,
+    difficulty: "EASY",
+    damage: 150,
+    explanation: "Fed by the Jhelum River in Bandipora district, Wular Lake is the largest natural freshwater lake in India."
+  },
+  {
+    classLevel: 6,
+    subject: "GK",
+    chapter: "Chapter 3: Geography & Wonders of India",
+    question: "What is the largest brackish water coastal lagoon in India, located in Odisha?",
+    options: ["Chilika Lake", "Pulicat Lake", "Vembanad Lake", "Loktak Lake"],
+    correctAnswer: 0,
+    difficulty: "EASY",
+    damage: 150,
+    explanation: "Chilika Lake is Asia's largest brackish lagoon, designated India's first Ramsar wetland of international importance."
+  },
+  {
+    classLevel: 6,
+    subject: "GK",
+    chapter: "Chapter 3: Geography & Wonders of India",
+    question: "What is the only active volcano in South Asia and the Indian territory, located in the Andaman Sea?",
+    options: ["Barren Island Volcano", "Narcondam Island", "Deccan Traps", "Mount Harriet"],
+    correctAnswer: 0,
+    difficulty: "EASY",
+    damage: 150,
+    explanation: "Barren Island in the Andaman and Nicobar archipelago is the sole confirmed active volcano in South Asia."
+  },
+  {
+    classLevel: 6,
+    subject: "GK",
+    chapter: "Chapter 3: Geography & Wonders of India",
+    question: "What is the largest delta in the world, formed by the confluence of the Ganga and Brahmaputra rivers?",
+    options: ["Sundarbans Delta (Ganga-Brahmaputra Delta)", "Mahanadi Delta", "Godavari Delta", "Indus Delta"],
+    correctAnswer: 0,
+    difficulty: "EASY",
+    damage: 150,
+    explanation: "The Sundarbans delta is the world's largest mangrove forest delta, famous for Royal Bengal Tigers."
+  },
+  {
+    classLevel: 6,
+    subject: "GK",
+    chapter: "Chapter 3: Geography & Wonders of India",
+    question: "Which Indian state is known as the 'Land of Five Rivers'?",
+    options: ["Punjab (Jhelum, Chenab, Ravi, Beas, and Sutlej)", "Haryana", "Uttar Pradesh", "Himachal Pradesh"],
+    correctAnswer: 0,
+    difficulty: "EASY",
+    damage: 150,
+    explanation: "The Persian etymology 'Panj-ab' literally translates to 'five waters/rivers'."
+  },
+  {
+    classLevel: 6,
+    subject: "GK",
+    chapter: "Chapter 3: Geography & Wonders of India",
+    question: "What is the southern point of the Indian mainland (peninsular tip)?",
+    options: ["Kanyakumari (Cape Comorin, Tamil Nadu)", "Indira Point", "Rameshwaram", "Dhanushkodi"],
+    correctAnswer: 0,
+    difficulty: "EASY",
+    damage: 150,
+    explanation: "Kanyakumari at 8°4' N latitude marks the meeting point of the Arabian Sea, Indian Ocean, and Bay of Bengal on the mainland."
+  },
+
+  // MEDIUM (16)
+  {
+    classLevel: 6,
+    subject: "GK",
+    chapter: "Chapter 3: Geography & Wonders of India",
+    question: "Which plateau in central-southern India was formed by prehistoric basaltic volcanic lava eruptions?",
+    options: ["Deccan Plateau (Deccan Traps)", "Chota Nagpur Plateau", "Malwa Plateau", "Shillong Plateau"],
+    correctAnswer: 0,
+    difficulty: "MEDIUM",
+    damage: 250,
+    explanation: "The Deccan Traps constitute one of the largest flood basalt volcanic provinces on Earth, dating to 66 million years ago."
+  },
+  {
+    classLevel: 6,
+    subject: "GK",
+    chapter: "Chapter 3: Geography & Wonders of India",
+    question: "What is the oldest mountain range in India, having been worn down by millions of years of erosion?",
+    options: ["Aravalli Range (Rajasthan/Delhi)", "Himalayas", "Western Ghats", "Vindhya Range"],
+    correctAnswer: 0,
+    difficulty: "MEDIUM",
+    damage: 250,
+    explanation: "The Aravalli orogeny dates back to the Proterozoic eon (~1.8 billion years ago) as India's oldest fold mountain belt."
+  },
+  {
+    classLevel: 6,
+    subject: "GK",
+    chapter: "Chapter 3: Geography & Wonders of India",
+    question: "What is the highest mountain peak in South India / Western Ghats?",
+    options: ["Anamudi (2,695 meters, Kerala)", "Doddabetta (Nilgiris)", "Kalsubai", "Mullayanagiri"],
+    correctAnswer: 0,
+    difficulty: "MEDIUM",
+    damage: 250,
+    explanation: "Located in the Eravikulam National Park, Kerala, Anamudi ('Elephant's forehead') is the highest peak south of the Himalayas."
+  },
+  {
+    classLevel: 6,
+    subject: "GK",
+    chapter: "Chapter 3: Geography & Wonders of India",
+    question: "Which state in Northeast India is home to the world's only floating national park (Keibul Lamjao on Loktak Lake)?",
+    options: ["Manipur", "Mizoram", "Nagaland", "Tripura"],
+    correctAnswer: 0,
+    difficulty: "MEDIUM",
+    damage: 250,
+    explanation: "Loktak Lake in Manipur contains floating organic biomass mats called 'phumdis', sanctuary for the endangered Sangai brow-antlered deer."
+  },
+  {
+    classLevel: 6,
+    subject: "GK",
+    chapter: "Chapter 3: Geography & Wonders of India",
+    question: "What is the largest salt desert in the world, known as the 'White Desert' of India?",
+    options: ["Great Rann of Kutch (Gujarat)", "Thar Desert", "Sambhar Salt Lake", "Deccan Plains"],
+    correctAnswer: 0,
+    difficulty: "MEDIUM",
+    damage: 250,
+    explanation: "The Great Rann of Kutch is an expansive salt marsh that gleams brilliant white under moonlight after monsoon floodwaters evaporate."
+  },
+  {
+    classLevel: 6,
+    subject: "GK",
+    chapter: "Chapter 3: Geography & Wonders of India",
+    question: "Which island in the Brahmaputra River in Assam is celebrated as the world's largest inhabited riverine island?",
+    options: ["Majuli Island", "Umananda Island", "Divar Island", "Munroe Island"],
+    correctAnswer: 0,
+    difficulty: "MEDIUM",
+    damage: 250,
+    explanation: "Majuli on the Brahmaputra River spans over 350 km² and is India's first dedicated river island district."
+  },
+  {
+    classLevel: 6,
+    subject: "GK",
+    chapter: "Chapter 3: Geography & Wonders of India",
+    question: "What is the famous narrow strip of sea / strait separating India (Tamil Nadu) from Sri Lanka?",
+    options: ["Palk Strait (and Gulf of Mannar)", "Strait of Malacca", "Suez Canal", "Bering Strait"],
+    correctAnswer: 0,
+    difficulty: "MEDIUM",
+    damage: 250,
+    explanation: "The Palk Strait connects the Bay of Bengal with the Gulf of Mannar between Tamil Nadu and Jaffna, Sri Lanka."
+  },
+  {
+    classLevel: 6,
+    subject: "GK",
+    chapter: "Chapter 3: Geography & Wonders of India",
+    question: "Which two major peninsular Indian rivers flow WESTWARD into the Arabian Sea through rift valleys, instead of east into the Bay of Bengal?",
+    options: ["Narmada and Tapti (Tapi)", "Godavari and Krishna", "Ganga and Yamuna", "Mahanadi and Cauvery"],
+    correctAnswer: 0,
+    difficulty: "MEDIUM",
+    damage: 250,
+    explanation: "The Narmada and Tapti flow westwards through fault rift valleys between the Vindhya and Satpura ranges."
+  },
+  {
+    classLevel: 6,
+    subject: "GK",
+    chapter: "Chapter 3: Geography & Wonders of India",
+    question: "Which mountain pass connects Srinagar to Leh in Ladakh?",
+    options: ["Zoji La Pass", "Rohtang Pass", "Nathu La Pass", "Shipki La Pass"],
+    correctAnswer: 0,
+    difficulty: "MEDIUM",
+    damage: 250,
+    explanation: "Zoji La at 3,528 m elevation on National Highway 1 connects the Kashmir Valley to the high Ladakh plateau."
+  },
+  {
+    classLevel: 6,
+    subject: "GK",
+    chapter: "Chapter 3: Geography & Wonders of India",
+    question: "What is the world's highest saltwater lake (at 4,350 m elevation) that changes colors from blue to turquoise, located in Ladakh?",
+    options: ["Pangong Tso", "Tso Moriri", "Wular Lake", "Dal Lake"],
+    correctAnswer: 0,
+    difficulty: "MEDIUM",
+    damage: 250,
+    explanation: "Pangong Tso is an endorheic lake in the Himalayas spanning 134 km across Ladakh and Tibet."
+  },
+  {
+    classLevel: 6,
+    subject: "GK",
+    chapter: "Chapter 3: Geography & Wonders of India",
+    question: "Which national park in Assam is world-renowned for protecting over two-thirds of the planet's Great One-Horned Rhinoceroses?",
+    options: ["Kaziranga National Park", "Jim Corbett National Park", "Gir National Park", "Kanha National Park"],
+    correctAnswer: 0,
+    difficulty: "MEDIUM",
+    damage: 250,
+    explanation: "Kaziranga along the Brahmaputra floodplains hosts the largest global breeding population of Rhinoceros unicornis."
+  },
+  {
+    classLevel: 6,
+    subject: "GK",
+    chapter: "Chapter 3: Geography & Wonders of India",
+    question: "Which national park in Gujarat is the ONLY natural habitat in the world for the endangered Asiatic Lion (Panthera leo persica)?",
+    options: ["Gir National Park (Sasan Gir)", "Ranthambore National Park", "Sariska Tiger Reserve", "Bandhavgarh"],
+    correctAnswer: 0,
+    difficulty: "MEDIUM",
+    damage: 250,
+    explanation: "Gir Forest in Saurashtra, Gujarat is the sole surviving sanctuary of wild Asiatic lions on the planet."
+  },
+  {
+    classLevel: 6,
+    subject: "GK",
+    chapter: "Chapter 3: Geography & Wonders of India",
+    question: "What is the highest waterfall in India by sheer single-drop plunge, located in the Western Ghats of Karnataka on the Sharavathi River?",
+    options: ["Jog Falls (Gersoppa Falls)", "Dudhsagar Falls", "Kunchikal Falls", "Nohkalikai Falls"],
+    correctAnswer: 0,
+    difficulty: "MEDIUM",
+    damage: 250,
+    explanation: "Jog Falls plunges 253 meters in four distinct cascades named Raja, Roarer, Rocket, and Rani."
+  },
+  {
+    classLevel: 6,
+    subject: "GK",
+    chapter: "Chapter 3: Geography & Wonders of India",
+    question: "Which is the smallest state in India by total geographical land area?",
+    options: ["Goa (3,702 km²)", "Sikkim", "Tripura", "Mizoram"],
+    correctAnswer: 0,
+    difficulty: "MEDIUM",
+    damage: 250,
+    explanation: "Goa is India's smallest state by area (3,702 km²), followed by Sikkim (7,096 km²)."
+  },
+  {
+    classLevel: 6,
+    subject: "GK",
+    chapter: "Chapter 3: Geography & Wonders of India",
+    question: "Which is the largest state in India by geographical land area?",
+    options: ["Rajasthan (342,239 km²)", "Madhya Pradesh", "Maharashtra", "Uttar Pradesh"],
+    correctAnswer: 0,
+    difficulty: "MEDIUM",
+    damage: 250,
+    explanation: "Rajasthan constitutes 10.4% of India's total geographical expanse, ranking 1st in area."
+  },
+  {
+    classLevel: 6,
+    subject: "GK",
+    chapter: "Chapter 3: Geography & Wonders of India",
+    question: "What is the longest dam built across the Mahanadi River in Odisha, stretching over 25.8 km?",
+    options: ["Hirakud Dam", "Bhakra Nangal Dam", "Tehri Dam", "Sardar Sarovar Dam"],
+    correctAnswer: 0,
+    difficulty: "MEDIUM",
+    damage: 250,
+    explanation: "Commissioned in 1957 in Sambalpur, Odisha, Hirakud is one of the longest major composite earthen dams on Earth."
+  },
+
+  // HARD (12)
+  {
+    classLevel: 6,
+    subject: "GK",
+    chapter: "Chapter 3: Geography & Wonders of India",
+    question: "Read the statements:\nAssertion (A): The Western Ghats (Sahyadri) are recognized globally as one of the eight 'Hottest Biodiversity Hotspots' on Earth.\nReason (R): They harbor exceptional concentrations of endemic plant, amphibian, reptile, and mammal species found nowhere else in the world.\nChoose the correct option:",
+    options: [
+      "Both (A) and (R) are true, and (R) is the correct explanation of (A).",
+      "Both (A) and (R) are true, but (R) is NOT the correct explanation of (A).",
+      "(A) is true, but (R) is false.",
+      "(A) is false, but (R) is true."
+    ],
+    correctAnswer: 0,
+    difficulty: "HARD",
+    damage: 350,
+    explanation: "UNESCO designates the Western Ghats a mega-diversity biodiversity hotspot hosting endemic lion-tailed macaques, Nilgiri tahrs, and purple frogs."
+  },
+  {
+    classLevel: 6,
+    subject: "GK",
+    chapter: "Chapter 3: Geography & Wonders of India",
+    question: "Spot the IMPOSTER in the following group of Indian geographic rivers paired with their drainage ocean destination:\nGroup: [Ganga - Bay of Bengal, Brahmaputra - Bay of Bengal, Godavari - Bay of Bengal, Narmada - Bay of Bengal]",
+    options: ["Ganga - Bay of Bengal", "Brahmaputra - Bay of Bengal", "Godavari - Bay of Bengal", "Narmada - Bay of Bengal"],
+    correctAnswer: 3,
+    difficulty: "HARD",
+    damage: 350,
+    explanation: "Narmada drains WESTWARD into the Arabian Sea through the Gulf of Khambhat, NOT into the Bay of Bengal."
+  },
+  {
+    classLevel: 6,
+    subject: "GK",
+    chapter: "Chapter 3: Geography & Wonders of India",
+    question: "Which Indian glacier in the Karakoram Range (spanning 76 km) is the longest glacier in the non-polar world and the world's highest battlefield?",
+    options: ["Siachen Glacier (5,400+ m elevation)", "Gangotri Glacier", "Bara Shigri Glacier", "Pindari Glacier"],
+    correctAnswer: 0,
+    difficulty: "HARD",
+    damage: 350,
+    explanation: "Siachen in the eastern Karakoram is the world's highest operational militarized zone."
+  },
+  {
+    classLevel: 6,
+    subject: "GK",
+    chapter: "Chapter 3: Geography & Wonders of India",
+    question: "Match the iconic Indian geographical landmarks with their states:\n(a) Living Root Bridges   -> (i) Meghalaya (Ficus elastica roots)\n(b) Lonar Meteorite Lake  -> (ii) Maharashtra (Buldhana district)\n(c) Marble Rocks Gorge    -> (iii) Madhya Pradesh (Jabalpur, Narmada)\n(d) Dhanushkodi Ghost Town-> (iv) Tamil Nadu",
+    options: [
+      "a-(i), b-(ii), c-(iii), d-(iv)",
+      "a-(ii), b-(i), c-(iv), d-(iii)",
+      "a-(iv), b-(iii), c-(ii), d-(i)",
+      "a-(iii), b-(iv), c-(i), d-(ii)"
+    ],
+    correctAnswer: 0,
+    difficulty: "HARD",
+    damage: 350,
+    explanation: "Living Root Bridges = Meghalaya; Lonar Crater = Maharashtra; Bhedaghat Marble Rocks = MP; Dhanushkodi = TN."
+  },
+  {
+    classLevel: 6,
+    subject: "GK",
+    chapter: "Chapter 3: Geography & Wonders of India",
+    question: "Read the statements:\nStatement 1: The Tropic of Cancer (23½° N) passes through 8 Indian states (Gujarat, Rajasthan, MP, Chhattisgarh, Jharkhand, West Bengal, Tripura, Mizoram).\nStatement 2: The Indian Standard Meridian (82°30' E) passes through 5 states (UP, MP, Chhattisgarh, Odisha, Andhra Pradesh).\nStatement 3: India is the largest country in the world by land area.\nWhich statements are TRUE?",
+    options: ["Statements 1 and 2 only", "Statements 2 and 3 only", "Statements 1 and 3 only", "All Statements 1, 2, and 3"],
+    correctAnswer: 0,
+    difficulty: "HARD",
+    damage: 350,
+    explanation: "Statement 3 is false because India ranks 7th in geographical land area globally (Russia is 1st). Statements 1 and 2 are exact geographic facts."
+  },
+  {
+    classLevel: 6,
+    subject: "GK",
+    chapter: "Chapter 3: Geography & Wonders of India",
+    question: "Which high-altitude lake in Uttarakhand at 5,029 m elevation is famously known as the 'Mystery / Skeleton Lake' due to hundreds of ancient human skeletons found on its shores?",
+    options: ["Roopkund Lake", "Hemkund Lake", "Nainital Lake", "Bhimtal Lake"],
+    correctAnswer: 0,
+    difficulty: "HARD",
+    damage: 350,
+    explanation: "Genomic bio-archaeology confirmed the skeletons at Roopkund belong to 9th-century pilgrims caught in a catastrophic hailstorm."
+  },
+  {
+    classLevel: 6,
+    subject: "GK",
+    chapter: "Chapter 3: Geography & Wonders of India",
+    question: "What is the deepest port in India, located on the eastern coast in Andhra Pradesh, developed in a natural rock-protected dolphin's nose basin?",
+    options: ["Visakhapatnam Port", "Paradip Port", "Chennai Port", "Kolkata Port"],
+    correctAnswer: 0,
+    difficulty: "HARD",
+    damage: 350,
+    explanation: "Visakhapatnam (Vizag) Port is a landlocked, natural harbour protected by the 'Dolphin's Nose' promontory."
+  },
+  {
+    classLevel: 6,
+    subject: "GK",
+    chapter: "Chapter 3: Geography & Wonders of India",
+    question: "Which Indian Union Territory consists of an archipelago of 36 coral atolls and islands situated in the Arabian Sea?",
+    options: ["Lakshadweep Islands", "Andaman and Nicobar Islands", "Daman and Diu", "Puducherry"],
+    correctAnswer: 0,
+    difficulty: "HARD",
+    damage: 350,
+    explanation: "Lakshadweep consists of 36 low-lying biogenic coral atolls, reefs, and submerged sand banks in the Arabian Sea."
+  },
+  {
+    classLevel: 6,
+    subject: "GK",
+    chapter: "Chapter 3: Geography & Wonders of India",
+    question: "What unique hydrological phenomenon occurs at the 'Sangam' in Prayagraj (Allahabad)?",
+    options: [
+      "The holy confluence of the clear pale-green waters of Yamuna and the yellowish-muddy waters of Ganga (along with mythical Saraswati)",
+      "A subterranean volcanic hot water spring",
+      "A tidal wave that reverses river flow",
+      "A frozen ice dam"
+    ],
+    correctAnswer: 0,
+    difficulty: "HARD",
+    damage: 350,
+    explanation: "Triveni Sangam is celebrated for the stark optical visual boundary between the tranquil Yamuna and energetic Ganga."
+  },
+  {
+    classLevel: 6,
+    subject: "GK",
+    chapter: "Chapter 3: Geography & Wonders of India",
+    question: "Which geological formation in Maharashtra is a hypersaline and alkaline impact crater created by a hypervelocity meteorite impact during the Pleistocene Epoch?",
+    options: ["Lonar Crater Lake", "Wular Lake", "Chilika Lake", "Sambhar Lake"],
+    correctAnswer: 0,
+    difficulty: "HARD",
+    damage: 350,
+    explanation: "Lonar Lake is an extraterrestrial hypervelocity impact structure hosted entirely within Deccan flood basalt bedrock."
+  },
+  {
+    classLevel: 6,
+    subject: "GK",
+    chapter: "Chapter 3: Geography & Wonders of India",
+    question: "Which hill station in Tamil Nadu is famously crowned as the 'Queen of Hill Stations' in the Nilgiri Mountains?",
+    options: ["Udhagamandalam (Ooty)", "Kodaikanal", "Munnar", "Yercaud"],
+    correctAnswer: 0,
+    difficulty: "HARD",
+    damage: 350,
+    explanation: "Ooty (2,240 m) in the blue Nilgiri biosphere reserve is famed for tea estates, colonial architecture, and the Nilgiri Mountain Railway."
+  },
+  {
+    classLevel: 6,
+    subject: "GK",
+    chapter: "Chapter 3: Geography & Wonders of India",
+    question: "What is the Highest Dam in India, constructed as a multi-purpose rock and earth-fill embankment on the Bhagirathi River in Uttarakhand?",
+    options: ["Tehri Dam (260.5 meters high)", "Bhakra Dam", "Sardar Sarovar Dam", "Nagarjuna Sagar Dam"],
+    correctAnswer: 0,
+    difficulty: "HARD",
+    damage: 350,
+    explanation: "Tehri Dam stands at 260.5 m, ranking as the tallest dam in India and one of the highest embankment dams globally."
+  }
+];
+
+console.log('Generated GK Ch3:', gkQuestions.length);
+fs.writeFileSync('C:/EduVerse/class 6/cross_subject/gk_ch3.json', JSON.stringify(gkQuestions, null, 2), 'utf8');

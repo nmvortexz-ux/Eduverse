@@ -1,0 +1,3842 @@
+[
+  {
+    "classLevel": 6,
+    "subject": "Science",
+    "chapter": "Chapter 5: Body Movements",
+    "question": "The hard, internal bony framework that supports, gives shape, and protects the internal organs of the human body is called the:",
+    "options": [
+      "Skeleton (Human Skeletal System)",
+      "Muscular system",
+      "Digestive system",
+      "Circulatory system"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "The human skeleton consists of 206 bones in adults, providing mechanical structure, protection, and levers for movement."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Science",
+    "chapter": "Chapter 5: Body Movements",
+    "question": "The anatomical place or point where two or more bones meet and join together is called a:",
+    "options": [
+      "Joint (Articulation)",
+      "Muscle",
+      "Tendon",
+      "Cartilage"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "Joints are structural articulations between bones allowing varying degrees of flexibility and bodily movement."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Science",
+    "chapter": "Chapter 5: Body Movements",
+    "question": "Which type of movable joint allows complete rotational movement in ALL directions (360°), found at the shoulder and hip?",
+    "options": [
+      "Ball and Socket Joint",
+      "Hinge Joint",
+      "Pivot Joint",
+      "Fixed Joint"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "The spherical head of one bone fits into the cup-like cavity of another, enabling multi-axial 360° rotatory movement."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Science",
+    "chapter": "Chapter 5: Body Movements",
+    "question": "Which type of joint allows movement in only ONE single plane (back and forth like a door hinge), found at the elbow and knee?",
+    "options": [
+      "Hinge Joint",
+      "Ball and Socket Joint",
+      "Pivot Joint",
+      "Fixed Joint"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "Hinge joints permit angular flexion and extension along a single transverse axis, resembling a door hinge."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Science",
+    "chapter": "Chapter 5: Body Movements",
+    "question": "The joint where our neck joins the head, allowing us to bend our head forward/backward and turn it to the right/left, is a:",
+    "options": [
+      "Pivotal Joint (Pivot Joint)",
+      "Hinge Joint",
+      "Ball and Socket Joint",
+      "Fixed Joint"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "The atlanto-axial pivotal joint allows a cylindrical bone to rotate within a ring formed by bone and ligament."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Science",
+    "chapter": "Chapter 5: Body Movements",
+    "question": "The bones in our head (cranium/skull) that are fused together tightly and CANNOT move at all are examples of:",
+    "options": [
+      "Fixed Joints (Immovable Joints / Sutures)",
+      "Hinge Joints",
+      "Pivotal Joints",
+      "Gliding Joints"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "Cranial skull bones are united by fibrous immovable suture joints to shield the delicate brain from injury."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Science",
+    "chapter": "Chapter 5: Body Movements",
+    "question": "Which is the ONLY movable bone in the human skull, enabling us to chew food and speak?",
+    "options": [
+      "Lower Jaw bone (Mandible)",
+      "Upper Jaw bone (Maxilla)",
+      "Nasal bone",
+      "Forehead bone (Frontal)"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "The mandible articulates via the temporomandibular joint, making it the skull's only dynamic movable bone."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Science",
+    "chapter": "Chapter 5: Body Movements",
+    "question": "The curved bones that join the chest bone (sternum) and the backbone together to form a protective cage around the heart and lungs are called:",
+    "options": [
+      "Ribs (forming the Rib Cage)",
+      "Vertebrae",
+      "Pelvis",
+      "Clavicles"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "12 pairs of curved ribs form the thoracic cage, shielding the heart, lungs, and major blood vessels."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Science",
+    "chapter": "Chapter 5: Body Movements",
+    "question": "How many pairs of ribs are there in the normal human rib cage?",
+    "options": [
+      "12 pairs (24 ribs total)",
+      "10 pairs",
+      "14 pairs",
+      "7 pairs"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "There are 12 bilateral pairs of ribs: 7 true ribs, 3 false ribs, and 2 floating rib pairs."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Science",
+    "chapter": "Chapter 5: Body Movements",
+    "question": "The long, flexible column running along our back made up of 33 small individual bones (vertebrae) is the:",
+    "options": [
+      "Backbone (Spine / Vertebral Column)",
+      "Rib cage",
+      "Pelvic bone",
+      "Femur"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "The vertebral column consists of 33 stacked vertebrae that protect the spinal cord and allow torso bending."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Science",
+    "chapter": "Chapter 5: Body Movements",
+    "question": "The softer, flexible connective tissue that is not as hard as bone and can be bent, found in the upper ear lobe and tip of the nose, is:",
+    "options": [
+      "Cartilage",
+      "Ligament",
+      "Tendon",
+      "Muscle"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "Cartilage is an avascular, flexible cartilaginous matrix cushioning joints and structuring the external pinna."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Science",
+    "chapter": "Chapter 5: Body Movements",
+    "question": "What are the specialized contractile tissues that work in coordinated antagonistic pairs (contraction and relaxation) to pull bones and cause movement?",
+    "options": [
+      "Muscles (e.g., Biceps and Triceps)",
+      "Cartilage",
+      "Nerves",
+      "Blood vessels"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "Muscles can only pull (contract) and cannot push; hence they operate in antagonistic pairs to flex and extend limbs."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Science",
+    "chapter": "Chapter 5: Body Movements",
+    "question": "Why do muscles always operate in PAIRS to move a bone at a joint?",
+    "options": [
+      "A muscle can only pull (contract) and cannot push; when one contracts to pull a bone, the other relaxes, and vice versa to return it",
+      "Because one muscle is always sleeping",
+      "To make bones heavier",
+      "Because bones have two heads"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "Muscle fiber sliding-filament contraction exerts unidirectional tensile pulling force; returning the limb requires an antagonistic counter-pull."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Science",
+    "chapter": "Chapter 5: Body Movements",
+    "question": "How does an Earthworm crawl forward on the ground without having any internal bones?",
+    "options": [
+      "By alternate cycles of muscular contraction and expansion of body segments, aided by tiny hair-like bristles (setae) that grip the soil",
+      "By rolling like a ball",
+      "By using wings to glide",
+      "By jumping with legs"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "Peristaltic hydrostatic locomotion: circular and longitudinal muscle waves coordinate with anchoring chitinous setae."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Science",
+    "chapter": "Chapter 5: Body Movements",
+    "question": "What organ does a Snail use for locomotion, and what substance does it secrete to glide smoothly over sharp surfaces?",
+    "options": [
+      "A strong muscular foot, secreting a slimy layer of lubricating mucus",
+      "Jointed legs, secreting wax",
+      "Wings, secreting water",
+      "A bony tail, secreting oil"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "The ventral muscular foot produces retrograde pedal muscular waves over a protective friction-reducing mucus layer."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Science",
+    "chapter": "Chapter 5: Body Movements",
+    "question": "How many pairs of walking legs and how many pairs of wings does a Cockroach have attached to its thorax?",
+    "options": [
+      "3 pairs of legs (6 legs) and 2 pairs of wings (4 wings)",
+      "4 pairs of legs and 1 pair of wings",
+      "2 pairs of legs and 2 pairs of wings",
+      "5 pairs of legs and 0 wings"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "Cockroach hexapod anatomy: three thoracic segments bear three pairs of jointed ambulatory legs and two pairs of wings."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Science",
+    "chapter": "Chapter 5: Body Movements",
+    "question": "What anatomical adaptations enable Birds to fly efficiently in the air?",
+    "options": [
+      "Hollow and light pneumatic bones, forelimbs modified into wings with flight feathers, and powerful pectoral breast muscles attached to a deep breastbone",
+      "Heavy solid bones to resist wind",
+      "Lack of heart and lungs",
+      "A heavy tail made of steel"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "Avian flight requires pneumatic skeletal weight reduction, aerodynamic wing camber, and hypertrophied supracoracoideus/pectoralis flight muscles."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Science",
+    "chapter": "Chapter 5: Body Movements",
+    "question": "What is the characteristic 'streamlined' body shape of a Fish, and how does it assist aquatic swimming?",
+    "options": [
+      "The head and tail are narrower than the middle portion, minimizing fluid resistance and drag as it glides through water",
+      "A square flat shape that traps water",
+      "A circular spherical shape",
+      "A long straight line without curves"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "Fusiform hydrodynamic streamlining reduces laminar drag, skin friction, and wake vortices during underwater propulsion."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Science",
+    "chapter": "Chapter 5: Body Movements",
+    "question": "How does a Fish propel itself forward through water using its body and caudal (tail) fin?",
+    "options": [
+      "By curving its flexible body into alternating side-to-side loops (undulations), where the tail fin pushes water in the opposite direction creating forward thrust",
+      "By sucking in water through its nose",
+      "By walking on underwater sand",
+      "By floating motionless"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "Alternating lateral myotomal muscle contractions produce undulating waves along the spine, ending in a propulsive caudal thrust."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Science",
+    "chapter": "Chapter 5: Body Movements",
+    "question": "How does a Snake move rapidly across ground without having any limbs or legs?",
+    "options": [
+      "By slithering in S-shaped sinusoidal loops; each loop presses against the ground to push the snake forward",
+      "By rolling like a wheel",
+      "By jumping on its tail",
+      "By walking on tiny invisible legs"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "Serpentine lateral undulation: wave curves along hundreds of vertebrae and ribs exert posterior force against ground irregularities."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Science",
+    "chapter": "Chapter 5: Body Movements",
+    "question": "Why do snakes move in deep wave-like curves and NEVER in a perfectly straight line during rapid slithering?",
+    "options": [
+      "Each lateral loop of its long flexible body pushes against surface irregularities to generate forward momentum",
+      "Snakes have crooked eyes",
+      "Straight paths make snakes dizzy",
+      "Snakes cannot bend their bones"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "Lateral undulation requires curved contact zones where body angles transfer vector thrust against friction points."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Science",
+    "chapter": "Chapter 5: Body Movements",
+    "question": "What is an X-ray radiograph used for in medical diagnostic science?",
+    "options": [
+      "To capture photographic shadow images of dense bones and detect fractures, dislocations, or skeletal injuries",
+      "To check blood color",
+      "To count hairs on the head",
+      "To measure eye vision"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "High-density calcium in bones absorbs X-ray photons, casting sharp white silhouettes on radiographic film to reveal fractures."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Science",
+    "chapter": "Chapter 5: Body Movements",
+    "question": "Which anatomical joint in the human body is formed by the Pelvic bone joining the upper leg bone (Femur)?",
+    "options": [
+      "Hip Joint (Ball and Socket Joint)",
+      "Knee Joint (Hinge Joint)",
+      "Ankle Joint",
+      "Pivot Joint"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "The femoral head inserts into the pelvic acetabulum socket, forming a stable weight-bearing ball-and-socket joint."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Science",
+    "chapter": "Chapter 5: Body Movements",
+    "question": "What is the tough, fibrous connective tissue band that attaches a MUSCLE to a BONE called?",
+    "options": [
+      "Tendon",
+      "Ligament",
+      "Cartilage",
+      "Joint capsule"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "Tendons are collagenous bands transmitting contractile muscle forces to move skeletal bones."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Science",
+    "chapter": "Chapter 5: Body Movements",
+    "question": "What is the strong fibrous connective tissue band that connects a BONE to another BONE at a joint called?",
+    "options": [
+      "Ligament",
+      "Tendon",
+      "Cartilage",
+      "Myofibril"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "Ligaments are strong elastomeric bands bridging bone-to-bone junctions to stabilize joint capsules."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Science",
+    "chapter": "Chapter 5: Body Movements",
+    "question": "Why is the human backbone composed of 33 small vertebrae with intervertebral discs instead of one single, solid long bone?",
+    "options": [
+      "If it were a single continuous bone, we would never be able to bend forward, backward, or twist our torso sideways",
+      "To make the body heavier",
+      "Because one long bone would melt",
+      "To store food inside"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "Segmented multi-vertebral articulation provides multi-axis spinal flexibility, shock absorption, and bending."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Science",
+    "chapter": "Chapter 5: Body Movements",
+    "question": "Which of the following animals possesses a hard external skeleton (Exoskeleton) made of chitin that is periodically molted?",
+    "options": [
+      "Cockroach and Crab",
+      "Earthworm",
+      "Fish",
+      "Snake"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "Arthropods (insects, crustaceans) possess a rigid cuticular chitinous exoskeleton encasing soft internal organs."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Science",
+    "chapter": "Chapter 5: Body Movements",
+    "question": "What is the ancient philosophical Greek treatise 'Gait of Animals' (De Motu Animalium) that first analyzed the mechanics of animal locomotion authored by?",
+    "options": [
+      "Aristotle",
+      "Plato",
+      "Archimedes",
+      "Socrates"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "Aristotle authored 'Progression of Animals' and 'Movement of Animals', pioneering the comparative biomechanics of locomotion."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Science",
+    "chapter": "Chapter 5: Body Movements",
+    "question": "Read the statements:\nAssertion (A): Earthworms are exceptional natural fertilizers of agricultural soil.\nReason (R): As an earthworm moves, it consumes organic-rich soil, digests decomposing matter, and deposits nutrient-dense worm castings that aerate and enrich the soil.\nChoose the correct option:",
+    "options": [
+      "Both (A) and (R) are true, and (R) is the correct explanation of (A).",
+      "Both (A) and (R) are true, but (R) is NOT the correct explanation of (A).",
+      "(A) is true, but (R) is false.",
+      "(A) is false, but (R) is true."
+    ],
+    "correctAnswer": 0,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "Earthworms are ecosystem vermicomposters whose burrowing aerates soil and castings deliver bioavailable nitrogen and minerals."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Science",
+    "chapter": "Chapter 5: Body Movements",
+    "question": "Spot the IMPOSTER in the following group of anatomical joints paired with their locations in the human body:\nGroup: [Shoulder Joint - Ball and Socket, Elbow Joint - Hinge, Cranial Sutures - Fixed, Knee Joint - Pivot]",
+    "options": [
+      "Shoulder Joint - Ball and Socket",
+      "Elbow Joint - Hinge",
+      "Cranial Sutures - Fixed",
+      "Knee Joint - Pivot"
+    ],
+    "correctAnswer": 3,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "The Knee Joint is a modified HINGE JOINT (bicondylar hinge), NOT a pivot joint (the pivot joint is at the neck/atlas-axis)."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Science",
+    "chapter": "Chapter 5: Body Movements",
+    "question": "A biomechanist observes the flight mechanics of a pigeon. What anatomical structures execute the 'downstroke' and 'upstroke' of the wings during flight?",
+    "options": [
+      "The massive Pectoralis major breast muscle contracts for the powerful downstroke, while the Pectoralis minor (Supracoracoideus) pulls a tendon over a pulley to lift the wing in upstroke",
+      "The legs kick backwards",
+      "The neck turns left and right",
+      "Air is blown out from the tail"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "Avian triosseal canal pulley mechanism: Pectoralis major powers propulsive downstrokes, while supracoracoideus elevates wings for upstroke."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Science",
+    "chapter": "Chapter 5: Body Movements",
+    "question": "Match Column I (Organisms) with Column II (Locomotory Organs / Mechanics):\n(a) Earthworm -> (i) Muscular foot with mucus trail\n(b) Snail     -> (ii) Hydrostatic body segments with setae\n(c) Cockroach -> (iii) Streamlined body with myotomes and fins\n(d) Fish      -> (iv) Jointed thoracic legs and chitinous wings",
+    "options": [
+      "a-(ii), b-(i), c-(iv), d-(iii)",
+      "a-(i), b-(ii), c-(iii), d-(iv)",
+      "a-(iv), b-(iii), c-(ii), d-(i)",
+      "a-(iii), b-(iv), c-(i), d-(ii)"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "Earthworm = setae & segments; Snail = muscular foot; Cockroach = 6 legs & wings; Fish = streamlined myotome fins."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Science",
+    "chapter": "Chapter 5: Body Movements",
+    "question": "Read the statements regarding skeletal anatomy:\nStatement 1: The human skull protects the brain, while the rib cage protects heart and lungs.\nStatement 2: Cartilage is present between the vertebrae of the backbone to prevent friction and absorb mechanical shocks.\nStatement 3: Muscles can both push and pull a bone with equal force.\nWhich statements are TRUE?",
+    "options": [
+      "Statements 1 and 2 only",
+      "Statements 2 and 3 only",
+      "Statements 1 and 3 only",
+      "All Statements 1, 2, and 3"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "Statement 3 is false because muscle tissue can ONLY pull by contraction and cannot push. Statements 1 and 2 are biological facts."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Science",
+    "chapter": "Chapter 5: Body Movements",
+    "question": "Why do underwater divers wear long, flipper-shaped swim fins on their feet?",
+    "options": [
+      "To mimic the streamlined flat caudal fins of fish, maximizing water displacement thrust and swimming speed with minimal muscular effort",
+      "To keep their feet warm",
+      "To walk on the ocean floor like a crab",
+      "To float like a balloon"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "Flippers increase effective propulsive surface area, converting oscillating leg strokes into laminar hydrodynamic thrust."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Science",
+    "chapter": "Chapter 5: Body Movements",
+    "question": "What happens when a person flexes (bends) their arm at the elbow to touch their shoulder with their hand?",
+    "options": [
+      "The Biceps muscle on the front of the upper arm contracts (shortens and bulges), while the Triceps muscle on the back relaxes",
+      "The Triceps contracts and biceps relaxes",
+      "Both biceps and triceps contract simultaneously",
+      "Both muscles relax completely"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "Elbow flexion: agonist biceps brachii contracts concentrically while antagonist triceps brachii lengthens in eccentric relaxation."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Science",
+    "chapter": "Chapter 5: Body Movements",
+    "question": "Consider four joints in the human body:\n1. Shoulder Joint\n2. Cranial Skull Suture Joint\n3. Knee Joint\n4. Wrist Gliding Joint\nArrange these joints in DECREASING order of their angular range of motion (degrees of freedom):",
+    "options": [
+      "1 (Ball & Socket - 360°) -> 4 (Gliding) -> 3 (Hinge - 180°) -> 2 (Fixed - 0°)",
+      "2 -> 3 -> 4 -> 1",
+      "3 -> 1 -> 4 -> 2",
+      "1 -> 2 -> 3 -> 4"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "Multi-axial Ball-and-Socket allows 3 rotational degrees of freedom; Gliding allows multidirectional planes; Hinge allows 1 plane; Fixed allows 0°."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Science",
+    "chapter": "Chapter 5: Body Movements",
+    "question": "Why are the bones of the pelvic girdle much thicker, heavier, and more tightly fused than the bones of the shoulder pectoral girdle?",
+    "options": [
+      "The pelvic girdle bears the entire weight of the upper body during standing, walking, and running, and protects pelvic visceral organs",
+      "To store extra blood",
+      "Because legs are shorter than arms",
+      "To help digest food"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "The ilium, ischium, and pubis fuse into a heavy rigid osseous ring to transfer axial torso loads into lower limb femurs."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Science",
+    "chapter": "Chapter 5: Body Movements",
+    "question": "How does the swim bladder (air bladder) in bony fishes assist their buoyancy and vertical movement in water?",
+    "options": [
+      "By regulating the volume of gas inside the bladder, allowing the fish to maintain neutral buoyancy and hover at any water depth without sinking or floating",
+      "By heating the water around the fish",
+      "By digesting fish food",
+      "By glowing in the dark"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "Hydrostatic swim bladders adjust gas partial pressure via the rete mirabile to equalize whole-body density with surrounding water density."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Science",
+    "chapter": "Chapter 5: Body Movements",
+    "question": "Which of the following describes the functional anatomy of the human Wrist Joint (Carpal bones)?",
+    "options": [
+      "Gliding Joint (Plane Joint) where small carpal bones slide gently over one another, providing subtle multidirectional hand flexion",
+      "Ball and Socket Joint",
+      "Fixed Suture Joint",
+      "Pivotal Joint"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "Intercarpal articulations are planar arthrodial gliding joints allowing smooth translational sliding motions."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Science",
+    "chapter": "Chapter 5: Body Movements",
+    "question": "What physiological consequence occurs if articular cartilage at the ends of synovial joints wears away due to degenerative disease (osteoarthritis)?",
+    "options": [
+      "Exposed bare bones rub directly against each other, causing severe friction, excruciating pain, inflammation, and stiffness during movement",
+      "Bones turn into soft muscle",
+      "Joints become 10 times more flexible",
+      "Bones disappear completely"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "Loss of hyaline articular cartilage eliminates hydrodynamic lubrication, leading to painful eburnation and bone spurs."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Mathematics",
+    "chapter": "Chapter 5: Understanding Elementary Shapes",
+    "question": "An angle measuring exactly 90° (equal to one-fourth of a full revolution) is called a:",
+    "options": [
+      "Right Angle (90°)",
+      "Straight Angle",
+      "Acute Angle",
+      "Obtuse Angle"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "A right angle measures exactly 90° (¼ of a 360° full revolution)."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Mathematics",
+    "chapter": "Chapter 5: Understanding Elementary Shapes",
+    "question": "An angle measuring exactly 180° (equal to half of a full revolution, forming a straight line) is called a:",
+    "options": [
+      "Straight Angle (180°)",
+      "Right Angle",
+      "Complete Angle",
+      "Reflex Angle"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "A straight angle measures exactly 180° (½ of a 360° complete revolution)."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Mathematics",
+    "chapter": "Chapter 5: Understanding Elementary Shapes",
+    "question": "An angle whose measure is strictly LESS than 90° (between 0° and 90°) is called an:",
+    "options": [
+      "Acute Angle",
+      "Obtuse Angle",
+      "Right Angle",
+      "Reflex Angle"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "An acute angle lies in the open interval (0°, 90°)."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Mathematics",
+    "chapter": "Chapter 5: Understanding Elementary Shapes",
+    "question": "An angle whose measure is strictly GREATER than 90° but LESS than 180° is called an:",
+    "options": [
+      "Obtuse Angle",
+      "Acute Angle",
+      "Straight Angle",
+      "Reflex Angle"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "An obtuse angle lies strictly between 90° and 180°."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Mathematics",
+    "chapter": "Chapter 5: Understanding Elementary Shapes",
+    "question": "An angle whose measure is GREATER than 180° but LESS than 360° is called a:",
+    "options": [
+      "Reflex Angle",
+      "Obtuse Angle",
+      "Complete Angle",
+      "Straight Angle"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "A reflex angle measures between 180° and 360°."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Mathematics",
+    "chapter": "Chapter 5: Understanding Elementary Shapes",
+    "question": "An angle formed by one full complete 360° turn of a ray back to its initial starting line is a:",
+    "options": [
+      "Complete Angle (360°)",
+      "Straight Angle",
+      "Right Angle",
+      "Zero Angle"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "A complete revolution corresponds to an angular measure of 360°."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Mathematics",
+    "chapter": "Chapter 5: Understanding Elementary Shapes",
+    "question": "When two lines intersect such that the angle between them is exactly 90°, the lines are called:",
+    "options": [
+      "Perpendicular Lines (denoted as AB ⊥ CD)",
+      "Parallel Lines",
+      "Collinear Lines",
+      "Skew Lines"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "Lines meeting at orthogonal right angles (90°) are perpendicular."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Mathematics",
+    "chapter": "Chapter 5: Understanding Elementary Shapes",
+    "question": "A triangle in which ALL THREE sides have different (unequal) lengths is called a:",
+    "options": [
+      "Scalene Triangle",
+      "Isosceles Triangle",
+      "Equilateral Triangle",
+      "Right-angled Triangle"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "A scalene triangle has three mutually unequal side lengths and three unequal angles."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Mathematics",
+    "chapter": "Chapter 5: Understanding Elementary Shapes",
+    "question": "A triangle in which exactly TWO sides are equal in length is called an:",
+    "options": [
+      "Isosceles Triangle",
+      "Scalene Triangle",
+      "Equilateral Triangle",
+      "Obtuse Triangle"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "An isosceles triangle has two equal sides and equal base angles."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Mathematics",
+    "chapter": "Chapter 5: Understanding Elementary Shapes",
+    "question": "A triangle in which ALL THREE sides are equal in length (and each internal angle is 60°) is an:",
+    "options": [
+      "Equilateral Triangle",
+      "Isosceles Triangle",
+      "Scalene Triangle",
+      "Right Triangle"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "An equilateral (equiangular) triangle has 3 equal sides and 3 angles of 60° each."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Mathematics",
+    "chapter": "Chapter 5: Understanding Elementary Shapes",
+    "question": "A quadrilateral having all 4 sides equal and all 4 internal angles equal to 90° is a:",
+    "options": [
+      "Square",
+      "Rectangle",
+      "Rhombus",
+      "Trapezium"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "A square is a regular quadrilateral with 4 equal sides, 4 right angles, and perpendicular diagonals."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Mathematics",
+    "chapter": "Chapter 5: Understanding Elementary Shapes",
+    "question": "How many faces (flat surfaces) does a 3D solid Cube or Cuboid have?",
+    "options": [
+      "6 faces",
+      "8 faces",
+      "12 faces",
+      "4 faces"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "A standard hexahedral cube/cuboid has 6 quadrilateral faces, 12 straight edges, and 8 corner vertices."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Mathematics",
+    "chapter": "Chapter 5: Understanding Elementary Shapes",
+    "question": "What fraction of a clockwise revolution does the hour hand of a clock turn through when it goes from 3 to 9?",
+    "options": [
+      "1/2 revolution (180° / 2 right angles)",
+      "1/4 revolution",
+      "3/4 revolution",
+      "1 full revolution"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "From 3 to 9 is 6 hour divisions: 6/12 = 1/2 revolution = 180°."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Mathematics",
+    "chapter": "Chapter 5: Understanding Elementary Shapes",
+    "question": "What fraction of a clockwise revolution does the hour hand of a clock turn through when it goes from 12 to 3?",
+    "options": [
+      "1/4 revolution (90° / 1 right angle)",
+      "1/2 revolution",
+      "3/4 revolution",
+      "1/3 revolution"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "From 12 to 3 is 3 hour divisions: 3/12 = 1/4 revolution = 90°."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Mathematics",
+    "chapter": "Chapter 5: Understanding Elementary Shapes",
+    "question": "Where will the hand of a clock stop if it starts at 12 and makes 1/2 of a revolution clockwise?",
+    "options": [
+      "At 6",
+      "At 3",
+      "At 9",
+      "At 12"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "12 + (1/2 × 12) = 12 + 6 = 6 o'clock."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Mathematics",
+    "chapter": "Chapter 5: Understanding Elementary Shapes",
+    "question": "Where will the hand of a clock stop if it starts at 2 and makes 3/4 of a revolution clockwise?",
+    "options": [
+      "At 11",
+      "At 8",
+      "At 5",
+      "At 10"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "3/4 of 12 hours = 9 hours. 2 + 9 = 11 o'clock."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Mathematics",
+    "chapter": "Chapter 5: Understanding Elementary Shapes",
+    "question": "If you face North and turn clockwise to face East, what fraction of a revolution have you turned through?",
+    "options": [
+      "1/4 revolution (90° right angle)",
+      "1/2 revolution",
+      "3/4 revolution",
+      "1 revolution"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "From North (0°) clockwise to East (90°) is 90°/360° = 1/4 revolution."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Mathematics",
+    "chapter": "Chapter 5: Understanding Elementary Shapes",
+    "question": "If you face West and turn clockwise to face South, how many right angles have you turned through?",
+    "options": [
+      "3 right angles (270° / 3/4 revolution)",
+      "1 right angle",
+      "2 right angles",
+      "4 right angles"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "From West clockwise: West -> North (1) -> East (2) -> South (3) = 3 right angles (270°)."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Mathematics",
+    "chapter": "Chapter 5: Understanding Elementary Shapes",
+    "question": "What is a line called that is perpendicular to a given line segment and divides it into two exact equal halves?",
+    "options": [
+      "Perpendicular Bisector",
+      "Diagonal",
+      "Altitude",
+      "Tangent"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "A perpendicular bisector intersects a segment at its midpoint at a right angle (90°)."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Mathematics",
+    "chapter": "Chapter 5: Understanding Elementary Shapes",
+    "question": "A quadrilateral in which opposite sides are parallel and equal, but opposite angles are NOT necessarily 90°, is a:",
+    "options": [
+      "Parallelogram",
+      "Trapezium",
+      "Triangle",
+      "Kite"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "A parallelogram has opposite parallel congruent sides and bisecting diagonals."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Mathematics",
+    "chapter": "Chapter 5: Understanding Elementary Shapes",
+    "question": "A quadrilateral having all 4 sides equal, opposite sides parallel, but whose angles are not 90° is a:",
+    "options": [
+      "Rhombus",
+      "Rectangle",
+      "Trapezium",
+      "Square"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "A rhombus is an equilateral parallelogram whose diagonals bisect each other perpendicularly at 90°."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Mathematics",
+    "chapter": "Chapter 5: Understanding Elementary Shapes",
+    "question": "A quadrilateral with exactly ONE pair of parallel opposite sides is called a:",
+    "options": [
+      "Trapezium (or Trapezoid)",
+      "Parallelogram",
+      "Rhombus",
+      "Rectangle"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "A trapezium is a 4-sided polygon having strictly one pair of parallel opposing bases."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Mathematics",
+    "chapter": "Chapter 5: Understanding Elementary Shapes",
+    "question": "What is a 5-sided polygon and an 8-sided polygon called respectively in geometry?",
+    "options": [
+      "Pentagon (5 sides) and Octagon (8 sides)",
+      "Hexagon and Heptagon",
+      "Decagon and Nonagon",
+      "Triangle and Quadrilateral"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "5 sides = Pentagon; 6 sides = Hexagon; 7 sides = Heptagon; 8 sides = Octagon."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Mathematics",
+    "chapter": "Chapter 5: Understanding Elementary Shapes",
+    "question": "What are the numbers of Faces (F), Vertices (V), and Edges (E) in a triangular pyramid (Tetrahedron)?",
+    "options": [
+      "4 Faces, 4 Vertices, 6 Edges",
+      "5 Faces, 6 Vertices, 9 Edges",
+      "6 Faces, 8 Vertices, 12 Edges",
+      "4 Faces, 6 Vertices, 4 Edges"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "A tetrahedron has 4 triangular faces, 4 corner vertices, and 6 connecting edges (Euler's formula F+V-E = 4+4-6 = 2)."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Mathematics",
+    "chapter": "Chapter 5: Understanding Elementary Shapes",
+    "question": "What are the numbers of Faces, Vertices, and Edges in a Triangular Prism?",
+    "options": [
+      "5 Faces (2 triangular, 3 rectangular), 6 Vertices, 9 Edges",
+      "4 Faces, 4 Vertices, 6 Edges",
+      "6 Faces, 8 Vertices, 12 Edges",
+      "5 Faces, 5 Vertices, 8 Edges"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "A triangular prism has 5 faces (2 bases + 3 rectangular sides), 6 vertices, and 9 edges (5+6-9 = 2)."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Mathematics",
+    "chapter": "Chapter 5: Understanding Elementary Shapes",
+    "question": "What are the numbers of Faces, Vertices, and Edges in a Square Pyramid (like the Egyptian Pyramids)?",
+    "options": [
+      "5 Faces (1 square base, 4 triangular sides), 5 Vertices, 8 Edges",
+      "6 Faces, 8 Vertices, 12 Edges",
+      "4 Faces, 4 Vertices, 6 Edges",
+      "5 Faces, 6 Vertices, 9 Edges"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "A square pyramid has 5 faces, 5 vertices (1 apex + 4 base), and 8 edges (5+5-8 = 2)."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Mathematics",
+    "chapter": "Chapter 5: Understanding Elementary Shapes",
+    "question": "Which of the following 3D solid shapes has NO flat face, NO straight edge, and NO vertex?",
+    "options": [
+      "Sphere (e.g. a football)",
+      "Cylinder",
+      "Cone",
+      "Cube"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "A sphere is a perfectly smooth continuous curved surface with zero vertices, zero edges, and zero planar faces."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Mathematics",
+    "chapter": "Chapter 5: Understanding Elementary Shapes",
+    "question": "How many circular flat faces and curved surfaces does a solid Cylinder have?",
+    "options": [
+      "2 flat circular faces and 1 curved surface",
+      "1 flat face and 2 curved surfaces",
+      "3 flat faces",
+      "0 flat faces"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "A cylinder possesses two congruent circular planar end-bases connected by a single lateral curved surface."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Mathematics",
+    "chapter": "Chapter 5: Understanding Elementary Shapes",
+    "question": "Read the statements regarding Euler's Polyhedral Formula:\nAssertion (A): For every convex 3D polyhedron with F faces, V vertices, and E edges, the equation F + V - E = 2 always holds true.\nReason (R): In a cube, F = 6, V = 8, E = 12; hence 6 + 8 - 12 = 14 - 12 = 2.\nChoose the correct option:",
+    "options": [
+      "Both (A) and (R) are true, and (R) is the correct explanation of (A).",
+      "Both (A) and (R) are true, but (R) is NOT the correct explanation of (A).",
+      "(A) is true, but (R) is false.",
+      "(A) is false, but (R) is true."
+    ],
+    "correctAnswer": 0,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "Euler's characteristic χ = F + V - E = 2 is a fundamental topological invariant for all simply connected convex polyhedra."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Mathematics",
+    "chapter": "Chapter 5: Understanding Elementary Shapes",
+    "question": "Spot the IMPOSTER in the following group of triangles classified by their angles:\nGroup: [Acute-angled Triangle, Right-angled Triangle, Obtuse-angled Triangle, Equilateral Triangle]",
+    "options": [
+      "Acute-angled Triangle",
+      "Right-angled Triangle",
+      "Obtuse-angled Triangle",
+      "Equilateral Triangle"
+    ],
+    "correctAnswer": 3,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "'Equilateral Triangle' is classified based on SIDES (all 3 sides equal), whereas Acute, Right, and Obtuse are classified based on ANGLES."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Mathematics",
+    "chapter": "Chapter 5: Understanding Elementary Shapes",
+    "question": "What is the angle between the hands of a clock at 9:00 PM?",
+    "options": [
+      "90° (Right angle) or Reflex 270°",
+      "180°",
+      "120°",
+      "60°"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "Hour hand at 9, minute hand at 12: separation = 3 hour marks = 3 × 30° = 90°."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Mathematics",
+    "chapter": "Chapter 5: Understanding Elementary Shapes",
+    "question": "Match Column I (Quadrilaterals) with Column II (Properties of Diagonals):\n(a) Square        -> (i) Diagonals are equal and bisect each other perpendicularly at 90°\n(b) Rectangle     -> (ii) Diagonals are equal and bisect each other (not at 90°)\n(c) Rhombus       -> (iii) Diagonals are unequal and bisect each other perpendicularly at 90°\n(d) Parallelogram -> (iv) Diagonals bisect each other but are neither equal nor perpendicular",
+    "options": [
+      "a-(i), b-(ii), c-(iii), d-(iv)",
+      "a-(ii), b-(i), c-(iv), d-(iii)",
+      "a-(iv), b-(iii), c-(ii), d-(i)",
+      "a-(iii), b-(iv), c-(i), d-(ii)"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "Square = equal & perp; Rectangle = equal; Rhombus = unequal & perp; Parallelogram = bisect only."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Mathematics",
+    "chapter": "Chapter 5: Understanding Elementary Shapes",
+    "question": "Read the statements:\nStatement 1: A triangle can have two right angles.\nStatement 2: A triangle can have two obtuse angles.\nStatement 3: An obtuse-angled triangle must have two acute angles.\nWhich statements are TRUE?",
+    "options": [
+      "Statement 3 only",
+      "Statements 1 and 2 only",
+      "Statements 2 and 3 only",
+      "All Statements 1, 2, and 3"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "The angle sum of any triangle is strictly 180°. If one angle > 90°, the sum of the remaining two must be < 90° (both acute). Statements 1 and 2 are impossible."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Mathematics",
+    "chapter": "Chapter 5: Understanding Elementary Shapes",
+    "question": "What is the angle traced by the hour hand of a clock between 1:00 PM and 5:00 PM?",
+    "options": [
+      "120° (4 hours × 30°/hour = 4/12 × 360°)",
+      "90°",
+      "150°",
+      "180°"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "Each clock hour span = 360°/12 = 30°. Elapsed time = 4 hours -> 4 × 30° = 120° (Obtuse angle)."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Mathematics",
+    "chapter": "Chapter 5: Understanding Elementary Shapes",
+    "question": "A polygon is 'Regular' if it satisfies which two conditions simultaneously?",
+    "options": [
+      "It is Equilateral (all sides equal) AND Equiangular (all internal angles equal)",
+      "It has only 4 sides",
+      "It has curved sides",
+      "Its diagonals are parallel"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "A regular polygon (like an equilateral triangle or square) has equal edge lengths and congruent interior vertex angles."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Mathematics",
+    "chapter": "Chapter 5: Understanding Elementary Shapes",
+    "question": "How many total faces, edges, and vertices does an Octahedron (8-faced regular polyhedron formed by joining two square pyramids base-to-base) possess?",
+    "options": [
+      "8 Faces, 6 Vertices, 12 Edges",
+      "8 Faces, 8 Vertices, 16 Edges",
+      "6 Faces, 8 Vertices, 12 Edges",
+      "8 Faces, 12 Vertices, 6 Edges"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "An octahedron has 8 triangular faces, 6 vertices, and 12 edges (8 + 6 - 12 = 2)."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Mathematics",
+    "chapter": "Chapter 5: Understanding Elementary Shapes",
+    "question": "Which 3D solid shape is formed when a right-angled triangle is rotated 360° continuously about one of its perpendicular legs?",
+    "options": [
+      "Right Circular Cone",
+      "Cylinder",
+      "Sphere",
+      "Prism"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "Revolving a right triangle about an altitude leg sweeps out the circular base and conical apex of a cone."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Mathematics",
+    "chapter": "Chapter 5: Understanding Elementary Shapes",
+    "question": "Consider a clock at 6:30. What is the angle between the hour hand and the minute hand?",
+    "options": [
+      "15° (at 6:30, hour hand is halfway between 6 and 7: 30° / 2 = 15°)",
+      "0°",
+      "30°",
+      "45°"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "At 6:30, minute hand is at 6 (180°), and hour hand is at 6.5 (195°). Angle = 195° - 180° = 15°."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Mathematics",
+    "chapter": "Chapter 5: Understanding Elementary Shapes",
+    "question": "In which of the following quadrilaterals are the diagonals NOT necessarily equal in length?",
+    "options": [
+      "Rhombus and Parallelogram",
+      "Square",
+      "Rectangle",
+      "Isosceles Trapezium"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "In a rhombus and general parallelogram, one diagonal is longer (spanning obtuse angles) than the other."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Mathematics",
+    "chapter": "Chapter 5: Understanding Elementary Shapes",
+    "question": "What is the sum of all internal angles in a 6-sided Hexagon?",
+    "options": [
+      "720° ((n - 2) × 180° = (6 - 2) × 180° = 4 × 180°)",
+      "540°",
+      "360°",
+      "900°"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "Formula S = (n - 2) × 180°; for n = 6: S = 4 × 180° = 720°."
+  },
+  {
+    "classLevel": 6,
+    "subject": "English",
+    "chapter": "Chapter 5: A Different Kind of School",
+    "question": "Who was the headmistress and founder of the innovative school visited by the author E.V. Lucas?",
+    "options": [
+      "Miss Beam",
+      "Miss Sullivan",
+      "Miss Mary",
+      "Mrs. Smith"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "Miss Beam was a middle-aged, authoritative yet kind and understanding woman who ran the unique school."
+  },
+  {
+    "classLevel": 6,
+    "subject": "English",
+    "chapter": "Chapter 5: A Different Kind of School",
+    "question": "What was the real aim and core educational philosophy of Miss Beam's school?",
+    "options": [
+      "Not so much to teach thought, but thoughtfulness — kindness to others, empathy, and being responsible citizens",
+      "To produce top rankers in mathematics only",
+      "To train professional athletes",
+      "To teach only ancient languages"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "Miss Beam emphasized active empathy, compassion, and experiential understanding of others' misfortunes."
+  },
+  {
+    "classLevel": 6,
+    "subject": "English",
+    "chapter": "Chapter 5: A Different Kind of School",
+    "question": "What special experiential system was organized in Miss Beam's school to make children appreciate and understand misfortune?",
+    "options": [
+      "Every child had one blind day, one lame day, one deaf day, one injured day, and one dumb day during each term",
+      "Students had to do all cleaning work",
+      "Students were sent to live in a forest",
+      "Students were not allowed to eat food"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "Each child lived through simulated disabilities so they developed genuine compassion for the disabled."
+  },
+  {
+    "classLevel": 6,
+    "subject": "English",
+    "chapter": "Chapter 5: A Different Kind of School",
+    "question": "What happened on a student's 'Blind Day' at Miss Beam's school?",
+    "options": [
+      "Their eyes were bandaged absolutely, and they promised on honor not to peep; another child was assigned to guide them",
+      "They had to wear dark sunglasses",
+      "They stayed locked in a dark room",
+      "They were not allowed to walk"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "With bandaged eyes, the child experienced complete visual impairment, assisted by designated helpers."
+  },
+  {
+    "classLevel": 6,
+    "subject": "English",
+    "chapter": "Chapter 5: A Different Kind of School",
+    "question": "Which day did the little girl confess to the author was by far the MOST DIFFICULT and awful day?",
+    "options": [
+      "The Blind Day",
+      "The Lame Day",
+      "The Deaf Day",
+      "The Dumb Day"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "The Blind Day was the hardest because one feared bumping into things constantly and felt helpless in the dark."
+  },
+  {
+    "classLevel": 6,
+    "subject": "English",
+    "chapter": "Chapter 5: A Different Kind of School",
+    "question": "Why was the 'Dumb Day' also extremely challenging for young children?",
+    "options": [
+      "Because the mouth could not be bandaged, so the child had to rely entirely on pure willpower and self-control to remain silent",
+      "Because they had to write 100 pages",
+      "Because they were not allowed to drink water",
+      "Because other children made jokes"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "Without physical mouth bindings, maintaining total silence tested the child's internal discipline."
+  },
+  {
+    "classLevel": 6,
+    "subject": "English",
+    "chapter": "Chapter 5: A Different Kind of School",
+    "question": "In the supplementary story 'Tansen', who was Tansen?",
+    "options": [
+      "The greatest and most famous musical maestro of India, one of the Navaratnas in Emperor Akbar's court",
+      "A famous king of Gwalior",
+      "A royal commander of the army",
+      "A Persian painter"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "Tansen (originally Ramtanu Pandey) was India's supreme classical musician in Akbar's court."
+  },
+  {
+    "classLevel": 6,
+    "subject": "English",
+    "chapter": "Chapter 5: A Different Kind of School",
+    "question": "Where was Tansen born, as the only child of Mukandan Misra?",
+    "options": [
+      "Behat near Gwalior (Madhya Pradesh)",
+      "Agra",
+      "Varanasi",
+      "Delhi"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "Tansen was born in Behat near Gwalior and studied music under the great master Swami Haridas."
+  },
+  {
+    "classLevel": 6,
+    "subject": "English",
+    "chapter": "Chapter 5: A Different Kind of School",
+    "question": "What naughty animal trick did young Tansen play in the forest when he met Swami Haridas and his disciples?",
+    "options": [
+      "He hid behind a tree and roared like a fierce tiger, frightening the whole traveling party",
+      "He threw stones at them",
+      "He stole their musical instruments",
+      "He sang like a monkey"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "Young Tansen had mastered mimicking bird and beast sounds, flawlessly roaring like a tiger."
+  },
+  {
+    "classLevel": 6,
+    "subject": "English",
+    "chapter": "Chapter 5: A Different Kind of School",
+    "question": "For how many years did Tansen learn classical music under the tutelage of Swami Haridas?",
+    "options": [
+      "11 years",
+      "5 years",
+      "20 years",
+      "2 years"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "Tansen spent eleven intensive years residing with Swami Haridas, mastering Hindustani classical ragas."
+  },
+  {
+    "classLevel": 6,
+    "subject": "English",
+    "chapter": "Chapter 5: A Different Kind of School",
+    "question": "In which year did Tansen join the royal imperial court of Mughal Emperor Akbar?",
+    "options": [
+      "1556",
+      "1526",
+      "1600",
+      "1540"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "Tansen entered Akbar's court in 1556 and was elevated as one of the nine precious jewels (Navaratnas)."
+  },
+  {
+    "classLevel": 6,
+    "subject": "English",
+    "chapter": "Chapter 5: A Different Kind of School",
+    "question": "In the poem 'Where Do All the Teachers Go?' by Peter Dixon, what curious question does the child ponder?",
+    "options": [
+      "Where teachers go at 4 o'clock, whether they live in ordinary houses, wear pyjamas, wash socks, and watch TV like normal people",
+      "How teachers fly to space",
+      "Why teachers have no names",
+      "Where school books are printed"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "The child's innocent perspective wonders if authoritative teachers lead ordinary domestic lives at home."
+  },
+  {
+    "classLevel": 6,
+    "subject": "English",
+    "chapter": "Chapter 5: A Different Kind of School",
+    "question": "What transformation did the author E.V. Lucas feel inside himself when he walked around Miss Beam's school with the blindfolded girl?",
+    "options": [
+      "He realized he had become ten times more thoughtful, observant, and sensitive to others than he ever thought possible",
+      "He decided to become a headmaster",
+      "He felt bored and wanted to leave",
+      "He decided never to visit schools again"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "Guiding the visually impaired girl heightened the author's descriptive attentiveness and empathetic awareness."
+  },
+  {
+    "classLevel": 6,
+    "subject": "English",
+    "chapter": "Chapter 5: A Different Kind of School",
+    "question": "Who was 'Millie' whom the author and the blindfolded girl observed in the garden?",
+    "options": [
+      "The Head Girl of the school wearing a blue cotton skirt and pink blouse",
+      "A teacher",
+      "The gardener",
+      "Miss Beam's sister"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "The author described the tall girl walking in the garden, whom his companion identified as Millie, the Head Girl."
+  },
+  {
+    "classLevel": 6,
+    "subject": "English",
+    "chapter": "Chapter 5: A Different Kind of School",
+    "question": "Who was 'Peter' in Miss Beam's school garden?",
+    "options": [
+      "The elderly gardener who was hundreds of years old (according to the girl) tying up roses",
+      "A pupil",
+      "A cook",
+      "A driver"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "Peter was the aged, devoted gardener seen by the author tying up flowering rose stems."
+  },
+  {
+    "classLevel": 6,
+    "subject": "English",
+    "chapter": "Chapter 5: A Different Kind of School",
+    "question": "Why did jealous courtiers in Akbar's court (led by Shaukat Mian) conspire to demand that Tansen sing 'Raga Deepak'?",
+    "options": [
+      "If sung with absolute perfection, Raga Deepak creates such intense thermal heat that it lights lamps and burns the singer to ashes",
+      "Because they wanted to dance",
+      "Because Raga Deepak makes everyone fall asleep",
+      "Because the Emperor was deaf"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "The conspirators sought Tansen's destruction, knowing pure Raga Deepak's incandescent heat would incinerate the performer."
+  },
+  {
+    "classLevel": 6,
+    "subject": "English",
+    "chapter": "Chapter 5: A Different Kind of School",
+    "question": "How did Tansen brilliantly counter the lethal heat of Raga Deepak and save his life?",
+    "options": [
+      "He trained his daughter Saraswati and her friend Rupvati to sing 'Raga Megh' simultaneously, bringing torrents of cooling rain the moment the air grew hot and lamps lit up",
+      "He poured cold water over himself while singing",
+      "He refused to sing before Akbar",
+      "He fled to another country"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "Tansen coordinated Raga Megh (rain raga) to trigger atmospheric precipitation the moment Raga Deepak sparked flames."
+  },
+  {
+    "classLevel": 6,
+    "subject": "English",
+    "chapter": "Chapter 5: A Different Kind of School",
+    "question": "What happened when Tansen began singing Raga Deepak in Akbar's court on the appointed day?",
+    "options": [
+      "The air grew intensely warm, audience perspired, leaves dried up on trees, birds fell dead, river boiled, and unlit lamps suddenly burst into flame",
+      "Snow began falling in the hall",
+      "The Emperor fell unconscious",
+      "The palace collapsed"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "His acoustic harmonics manifested physical thermal phenomena, lighting the palace oil lamps."
+  },
+  {
+    "classLevel": 6,
+    "subject": "English",
+    "chapter": "Chapter 5: A Different Kind of School",
+    "question": "What did Emperor Akbar do when he discovered the malicious plot of the jealous courtiers against Tansen?",
+    "options": [
+      "He severely punished the wicked courtiers and rewarded Tansen with great honor and royal treasures",
+      "He banned music in India",
+      "He dismissed Tansen from court",
+      "He gave his crown to Tansen"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "Akbar rejoiced in Tansen's recovery from illness, severely penalizing the conspirators."
+  },
+  {
+    "classLevel": 6,
+    "subject": "English",
+    "chapter": "Chapter 5: A Different Kind of School",
+    "question": "Where is the historic tomb of Tansen situated, revered as a place of pilgrimage for musicians?",
+    "options": [
+      "Gwalior (Madhya Pradesh)",
+      "Agra",
+      "Fatehpur Sikri",
+      "Delhi"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "Tansen's tomb in Gwalior is a celebrated pilgrimage monument where an annual national music festival is hosted."
+  },
+  {
+    "classLevel": 6,
+    "subject": "English",
+    "chapter": "Chapter 5: A Different Kind of School",
+    "question": "What is the meaning of the word 'Thoughtfulness' as used by Miss Beam?",
+    "options": [
+      "Being considerate, empathetic, caring, and attentive to the needs and feelings of others",
+      "Thinking about examination marks",
+      "Sitting quietly in a room",
+      "Reading many books"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "Thoughtfulness transcends academic intellect to signify active empathy, social responsibility, and human kindness."
+  },
+  {
+    "classLevel": 6,
+    "subject": "English",
+    "chapter": "Chapter 5: A Different Kind of School",
+    "question": "What was the rule for the other children assigned as 'Helpers' to a blind child for the day?",
+    "options": [
+      "They had to guide them around everywhere and explain the world to them, learning as much about empathy as the blind child",
+      "They had to carry the blind child on their shoulders",
+      "They had to do all their homework",
+      "They had to give them money"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "Helpers developed acute observational and communication skills while experiencing the vital importance of assisting others."
+  },
+  {
+    "classLevel": 6,
+    "subject": "English",
+    "chapter": "Chapter 5: A Different Kind of School",
+    "question": "In the poem 'Where Do All the Teachers Go?', what childish misbehavior does the poet wonder if teachers also committed as kids?",
+    "options": [
+      "Losing their hymn books, picking their noses, spelling words wrong, making mistakes, and pinching chocolate flakes",
+      "Stealing cars",
+      "Flying kites on rooftops",
+      "Fighting in battles"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "The poem playfully deconstructs the infallibility of teachers by imagining them as mischievous children."
+  },
+  {
+    "classLevel": 6,
+    "subject": "English",
+    "chapter": "Chapter 5: A Different Kind of School",
+    "question": "What did the poet Peter Dixon plan to do one day to solve the mystery of teachers?",
+    "options": [
+      "Follow one teacher home all the way after school to see what they do, and write a poem about it for other children to read",
+      "Ask the police to investigate",
+      "Hide inside the teacher's car",
+      "Call the newspaper"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "The speaker schemes to follow a teacher home after school and compose a poem revealing their ordinary domestic life."
+  },
+  {
+    "classLevel": 6,
+    "subject": "English",
+    "chapter": "Chapter 5: A Different Kind of School",
+    "question": "What does the word 'Peep' mean in: 'They promise on their honour not to peep'?",
+    "options": [
+      "To look quickly or secretly through a small opening or under the bandage",
+      "To make a bird sound",
+      "To shout loudly",
+      "To run fast"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "'Peep' means to take a quick, illicit, surreptitious glance."
+  },
+  {
+    "classLevel": 6,
+    "subject": "English",
+    "chapter": "Chapter 5: A Different Kind of School",
+    "question": "Who was Mohammad Ghaus in Tansen's musical life?",
+    "options": [
+      "A holy Sufi saint of Gwalior with whom Tansen lived and received deep spiritual and musical blessings",
+      "A rival musician",
+      "The commander of Agra fort",
+      "A merchant"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "Mohammad Ghaus was a venerated Sufi mystic who fostered Tansen's early musical and spiritual genius in Gwalior."
+  },
+  {
+    "classLevel": 6,
+    "subject": "English",
+    "chapter": "Chapter 5: A Different Kind of School",
+    "question": "Whom did Tansen marry from the court of Rani Mrignayani of Gwalior?",
+    "options": [
+      "Hussaini",
+      "Saraswati",
+      "Rupvati",
+      "Razia"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "Tansen married Hussaini, a talented court singer from Rani Mrignayani's entourage."
+  },
+  {
+    "classLevel": 6,
+    "subject": "English",
+    "chapter": "Chapter 5: A Different Kind of School",
+    "question": "What is the overarching educational message of 'A Different Kind of School'?",
+    "options": [
+      "True education must cultivate emotional intelligence, empathetic social consciousness, and mutual care rather than mere mechanical rote learning",
+      "Children should never go to school",
+      "Disabled people do not need help",
+      "Schools should only teach games"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "The narrative emphasizes that moral character and active humanitarian empathy represent the highest aims of pedagogy."
+  },
+  {
+    "classLevel": 6,
+    "subject": "English",
+    "chapter": "Chapter 5: A Different Kind of School",
+    "question": "Read the statements:\nAssertion (A): Miss Beam's experiential disability curriculum instilled genuine humanitarian empathy in young children.\nReason (R): Experiencing the physical vulnerability of blindness and lameness firsthand taught children to appreciate their own blessings and voluntarily assist the disabled.\nChoose the correct option:",
+    "options": [
+      "Both (A) and (R) are true, and (R) is the correct explanation of (A).",
+      "Both (A) and (R) are true, but (R) is NOT the correct explanation of (A).",
+      "(A) is true, but (R) is false.",
+      "(A) is false, but (R) is true."
+    ],
+    "correctAnswer": 0,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "Firsthand immersion in disability dissolved apathy and cultivated organic empathetic solidarity."
+  },
+  {
+    "classLevel": 6,
+    "subject": "English",
+    "chapter": "Chapter 5: A Different Kind of School",
+    "question": "Spot the IMPOSTER in the following group of vocabulary words from Chapter 5 paired with their antonyms:\nGroup: [Kindness - Cruelty, Misfortune - Prosperity, Thoughtful - Inconsiderate, Ghastly - Extremely pleasant]",
+    "options": [
+      "Kindness - Cruelty",
+      "Misfortune - Prosperity",
+      "Thoughtful - Inconsiderate",
+      "Ghastly - Extremely pleasant"
+    ],
+    "correctAnswer": 3,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "'Ghastly' means causing great horror or terrible shock; its antonym is indeed pleasant/delightful, but in context 'Ghastly' means horrible/dreadful."
+  },
+  {
+    "classLevel": 6,
+    "subject": "English",
+    "chapter": "Chapter 5: A Different Kind of School",
+    "question": "In 'Tansen', how did the musical duel between Raga Deepak and Raga Megh symbolize the cosmic balance of classical Indian music?",
+    "options": [
+      "It demonstrated that acoustic vibrations correspond to fundamental cosmic forces (Fire/Agni and Water/Varuna) that must remain harmoniously balanced",
+      "It proved that singing was louder than drums",
+      "It showed that kings can control weather",
+      "It proved that courtiers were better singers"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "Classical Indian music theory holds that ragas evoke elemental resonances (Agni vs Varuna) in cosmic equilibrium."
+  },
+  {
+    "classLevel": 6,
+    "subject": "English",
+    "chapter": "Chapter 5: A Different Kind of School",
+    "question": "Match the following disabilities with the specific challenges described by the children in Miss Beam's school:\n(a) Blind Day   -> (i) Constant fear of being hit by unseen obstacles\n(b) Lame Day    -> (ii) Having one leg tied up and hopping on crutches (fun for some)\n(c) Injured Day -> (iii) Having an arm tied up so one cannot eat or dress alone\n(d) Dumb Day    -> (iv) Constant test of internal willpower to prevent speaking",
+    "options": [
+      "a-(i), b-(ii), c-(iii), d-(iv)",
+      "a-(ii), b-(i), c-(iv), d-(iii)",
+      "a-(iv), b-(iii), c-(ii), d-(i)",
+      "a-(iii), b-(iv), c-(i), d-(ii)"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "Blind = fear of collisions; Lame = crutch hopping; Injured = tied arm; Dumb = willpower silence."
+  },
+  {
+    "classLevel": 6,
+    "subject": "English",
+    "chapter": "Chapter 5: A Different Kind of School",
+    "question": "Read the statements:\nStatement 1: Miss Beam's system taught that being a helper on Blind Day was just as educational as being blindfolded.\nStatement 2: Tansen died immediately after singing Raga Deepak.\nStatement 3: Emperor Akbar would often walk unannounced to Tansen's house to listen to him practice music.\nWhich statements are TRUE?",
+    "options": [
+      "Statements 1 and 3 only",
+      "Statements 1 and 2 only",
+      "Statements 2 and 3 only",
+      "All Statements 1, 2, and 3"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "Statement 2 is false because Tansen was saved by Raga Megh and lived for many years until 1585. Statements 1 and 3 are historically and textually true."
+  },
+  {
+    "classLevel": 6,
+    "subject": "English",
+    "chapter": "Chapter 5: A Different Kind of School",
+    "question": "Identify the figure of speech used in the line: 'The leaves dried up and fell to the ground, the rivers boiled, and unlit lamps burst into flame.'",
+    "options": [
+      "Hyperbole (poetic deliberate exaggeration for dramatic acoustic impact)",
+      "Alliteration",
+      "Oxymoron",
+      "Metaphor"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "Hyperbolic legendary imagery depicts the supernatural intensity of Tansen's perfect raga."
+  },
+  {
+    "classLevel": 6,
+    "subject": "English",
+    "chapter": "Chapter 5: A Different Kind of School",
+    "question": "What does the word 'Mischief' or 'Mischievous' mean when describing young Tansen in the forest?",
+    "options": [
+      "Playfully troublesome, full of tricks, but without intending malicious harm",
+      "Evil and criminal",
+      "Violent and cruel",
+      "Lazy and sleepy"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "Mischief refers to playful, harmless pranks driven by childhood curiosity and high spirits."
+  },
+  {
+    "classLevel": 6,
+    "subject": "English",
+    "chapter": "Chapter 5: A Different Kind of School",
+    "question": "In 'Where Do All the Teachers Go?', what poetic perspective does Peter Dixon capture?",
+    "options": [
+      "The innocent childhood wonder that perceives adult authority figures as supernatural beings devoid of mundane domestic routines",
+      "An adult's complaint about school fees",
+      "A teacher's daily diary",
+      "A historical report on education"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "The poem explores the innocent cognitive duality where children view teachers as flawless, mythical entities."
+  },
+  {
+    "classLevel": 6,
+    "subject": "English",
+    "chapter": "Chapter 5: A Different Kind of School",
+    "question": "Why did the little blindfolded girl describe her guiding experience as 'making her realize so many things she never thought of before'?",
+    "options": [
+      "Because when one cannot see, other senses (hearing, spatial touch, imagination) sharpen intensely to perceive subtle realities",
+      "Because she was told to memorize a book",
+      "Because the author bought her ice cream",
+      "Because she wanted to win a prize"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "Sensory deprivation stimulates acute neuro-auditory perception and profound cognitive re-evaluation of the environment."
+  },
+  {
+    "classLevel": 6,
+    "subject": "English",
+    "chapter": "Chapter 5: A Different Kind of School",
+    "question": "Choose the grammatically correct transformation from Active to Passive Voice:\nActive: 'Miss Beam founded a different kind of school.'",
+    "options": [
+      "Passive: 'A different kind of school was founded by Miss Beam.'",
+      "Passive: 'A different kind of school is founded by Miss Beam.'",
+      "Passive: 'A school has been founded by Miss Beam.'",
+      "Passive: 'Miss Beam was founding a school.'"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "Simple past active 'founded' transforms into 'was founded by' in passive voice."
+  },
+  {
+    "classLevel": 6,
+    "subject": "English",
+    "chapter": "Chapter 5: A Different Kind of School",
+    "question": "What is the synonym of 'Wretched' as used when the girl describes how she felt about the plight of the disabled?",
+    "options": [
+      "Deeply distressed, miserable, or heartbroken with sympathy",
+      "Overjoyed and laughing",
+      "Extremely wealthy",
+      "Angry and violent"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "'Wretched' denotes a profound state of emotional sorrow, misery, or deep distress."
+  },
+  {
+    "classLevel": 6,
+    "subject": "English",
+    "chapter": "Chapter 5: A Different Kind of School",
+    "question": "What philosophical synthesis unites both stories in Chapter 5 ('A Different Kind of School' and 'Tansen')?",
+    "options": [
+      "Mastery of any human endeavor — whether humanitarian virtue or supreme musical art — requires rigorous discipline, deep empathy, and devotion to truth",
+      "Both stories prove that kings are always right",
+      "Both stories encourage students to stop going to school",
+      "Both stories show that silence is bad"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "Both classic texts elevate human excellence: ethical empathy in pedagogical training and transcendental devotion in classical art."
+  },
+  {
+    "classLevel": 6,
+    "subject": "GK",
+    "chapter": "Chapter 5: Science, Inventions & Space Exploration of India",
+    "question": "What is the premier national space agency of India responsible for space research and planetary exploration?",
+    "options": [
+      "ISRO (Indian Space Research Organisation)",
+      "NASA",
+      "DRDO",
+      "BARC"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "ISRO was founded on 15 August 1969 under the vision of Dr. Vikram Sarabhai, headquartered in Bengaluru."
+  },
+  {
+    "classLevel": 6,
+    "subject": "GK",
+    "chapter": "Chapter 5: Science, Inventions & Space Exploration of India",
+    "question": "Who is universally revered as the 'Father of the Indian Space Programme'?",
+    "options": [
+      "Dr. Vikram Sarabhai",
+      "Dr. Homi J. Bhabha",
+      "Dr. A.P.J. Abdul Kalam",
+      "Satish Dhawan"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "Dr. Vikram Sarabhai established the Physical Research Laboratory and INCOSPAR, pioneering India's space program."
+  },
+  {
+    "classLevel": 6,
+    "subject": "GK",
+    "chapter": "Chapter 5: Science, Inventions & Space Exploration of India",
+    "question": "Who was the FIRST Indian citizen to travel into outer space (in April 1984 aboard Soyuz T-11)?",
+    "options": [
+      "Wing Commander Rakesh Sharma",
+      "Kalpana Chawla",
+      "Sunita Williams",
+      "Ravish Malhotra"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "Rakesh Sharma spent 7 days aboard the Soviet Salyut 7 space station in 1984, famously declaring 'Saare Jahan Se Achha' when asked how India looked from space."
+  },
+  {
+    "classLevel": 6,
+    "subject": "GK",
+    "chapter": "Chapter 5: Science, Inventions & Space Exploration of India",
+    "question": "What was the name of India's FIRST satellite launched into space in 1975?",
+    "options": [
+      "Aryabhata (named after ancient astronomer Aryabhata)",
+      "Bhaskara-I",
+      "Rohini",
+      "INSAT-1A"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "India's pioneer satellite Aryabhata was launched on 19 April 1975 using a Soviet Kosmos-3M launch vehicle."
+  },
+  {
+    "classLevel": 6,
+    "subject": "GK",
+    "chapter": "Chapter 5: Science, Inventions & Space Exploration of India",
+    "question": "Who was the first Indian scientist to win the Nobel Prize in Physics (in 1930) for discovering the 'Raman Effect' of light scattering?",
+    "options": [
+      "Sir C.V. Raman (Chandrasekhara Venkata Raman)",
+      "Jagadish Chandra Bose",
+      "Homi Bhabha",
+      "Satyendra Nath Bose"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "Sir C.V. Raman discovered the Raman Effect (inelastic scattering of photons) on 28 February 1928, celebrated as National Science Day in India."
+  },
+  {
+    "classLevel": 6,
+    "subject": "GK",
+    "chapter": "Chapter 5: Science, Inventions & Space Exploration of India",
+    "question": "Why is 'National Science Day' celebrated every year in India on 28th February?",
+    "options": [
+      "To commemorate Sir C.V. Raman's historic discovery of the Raman Effect in 1928",
+      "To celebrate Dr. Kalam's birthday",
+      "To mark the launch of Aryabhata",
+      "To celebrate ISRO's founding"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "The Government of India designated 28 February as National Science Day in 1986 in honor of Raman's landmark discovery."
+  },
+  {
+    "classLevel": 6,
+    "subject": "GK",
+    "chapter": "Chapter 5: Science, Inventions & Space Exploration of India",
+    "question": "Who is affectionately remembered as the 'Missile Man of India' and served as the 11th President of India?",
+    "options": [
+      "Dr. A.P.J. Abdul Kalam (Avul Pakir Jainulabdeen Abdul Kalam)",
+      "Dr. Vikram Sarabhai",
+      "Dr. Homi Bhabha",
+      "Dr. K. Sivan"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "Dr. Kalam led India's Integrated Guided Missile Development Programme (IGMDP) producing Agni and Prithvi missiles."
+  },
+  {
+    "classLevel": 6,
+    "subject": "GK",
+    "chapter": "Chapter 5: Science, Inventions & Space Exploration of India",
+    "question": "Who is celebrated as the 'Father of the Indian Nuclear Programme'?",
+    "options": [
+      "Dr. Homi Jehangir Bhabha",
+      "Dr. Vikram Sarabhai",
+      "Sir C.V. Raman",
+      "Dr. Raja Ramanna"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "Dr. Homi Bhabha founded the Tata Institute of Fundamental Research (TIFR) and the Atomic Energy Commission of India."
+  },
+  {
+    "classLevel": 6,
+    "subject": "GK",
+    "chapter": "Chapter 5: Science, Inventions & Space Exploration of India",
+    "question": "Which Indian lunar mission in 2008 made the groundbreaking discovery of water molecules (H₂O/OH) on the Moon's surface?",
+    "options": [
+      "Chandrayaan-1",
+      "Chandrayaan-2",
+      "Chandrayaan-3",
+      "Mangalyaan"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "Chandrayaan-1's Moon Mineralogy Mapper (M3) detected hydroxyl and water molecule signatures across lunar polar regolith in 2009."
+  },
+  {
+    "classLevel": 6,
+    "subject": "GK",
+    "chapter": "Chapter 5: Science, Inventions & Space Exploration of India",
+    "question": "On which historic date did ISRO's Chandrayaan-3 land successfully on the South Pole of the Moon, making India the 1st nation to land near the lunar south pole?",
+    "options": [
+      "23rd August 2023 (celebrated as National Space Day)",
+      "15th August 2023",
+      "26th January 2023",
+      "2nd October 2023"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "Chandrayaan-3's Vikram lander touched down at Shiv Shakti Point on 23 August 2023, now celebrated as India's National Space Day."
+  },
+  {
+    "classLevel": 6,
+    "subject": "GK",
+    "chapter": "Chapter 5: Science, Inventions & Space Exploration of India",
+    "question": "What were the names of the Lander and Rover on India's Chandrayaan-3 mission?",
+    "options": [
+      "Lander: Vikram ; Rover: Pragyan",
+      "Lander: Pushpak ; Rover: Aryabhata",
+      "Lander: Kalam ; Rover: Sarabhai",
+      "Lander: Shakti ; Rover: Shanti"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "The lander was named Vikram (honoring Vikram Sarabhai) and the 6-wheeled robotic rover was named Pragyan ('Wisdom')."
+  },
+  {
+    "classLevel": 6,
+    "subject": "GK",
+    "chapter": "Chapter 5: Science, Inventions & Space Exploration of India",
+    "question": "What was India's historic maiden interplanetary mission to Mars, launched in November 2013, called?",
+    "options": [
+      "Mangalyaan (Mars Orbiter Mission - MOM)",
+      "Chandrayaan",
+      "Aditya-L1",
+      "Gaganyaan"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "Mangalyaan entered Mars orbit on 24 September 2014 on its maiden attempt, making India the first Asian nation to reach Mars."
+  },
+  {
+    "classLevel": 6,
+    "subject": "GK",
+    "chapter": "Chapter 5: Science, Inventions & Space Exploration of India",
+    "question": "Where is ISRO's primary rocket launching spaceport (Satish Dhawan Space Centre - SDSC) located?",
+    "options": [
+      "Sriharikota (Tirupati district, Andhra Pradesh)",
+      "Thiruvananthapuram, Kerala",
+      "Bengaluru, Karnataka",
+      "Chandipur, Odisha"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "Sriharikota's equatorial barrier island location on the Bay of Bengal provides optimal eastward rotational velocity for satellite launches."
+  },
+  {
+    "classLevel": 6,
+    "subject": "GK",
+    "chapter": "Chapter 5: Science, Inventions & Space Exploration of India",
+    "question": "Which Indian polymath and scientist invented the 'Crescograph' to measure plant growth and proved that plants respond to stimuli and music?",
+    "options": [
+      "Sir Jagadish Chandra Bose (J.C. Bose)",
+      "Satyendra Nath Bose",
+      "Prafulla Chandra Ray",
+      "Meghnad Saha"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "Sir J.C. Bose pioneered millimeter-wave microwave optics and bio-physics, inventing the crescograph to record plant cellular responses."
+  },
+  {
+    "classLevel": 6,
+    "subject": "GK",
+    "chapter": "Chapter 5: Science, Inventions & Space Exploration of India",
+    "question": "Which Indian mathematical genius independently discovered thousands of groundbreaking theorems in number theory and infinite series without formal modern training?",
+    "options": [
+      "Srinivasa Ramanujan (1887–1920)",
+      "Aryabhata",
+      "Bhaskara II",
+      "Prasanta Chandra Mahalanobis"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "Ramanujan's notebooks contributed fundamental breakthroughs in partition formulas, mock theta functions, and modular equations (celebrated on National Mathematics Day, 22 Dec)."
+  },
+  {
+    "classLevel": 6,
+    "subject": "GK",
+    "chapter": "Chapter 5: Science, Inventions & Space Exploration of India",
+    "question": "Which Indian theoretical physicist collaborated with Albert Einstein to formulate quantum statistics, giving his name to the subatomic particle 'Boson'?",
+    "options": [
+      "Satyendra Nath Bose (Bose-Einstein Statistics)",
+      "J.C. Bose",
+      "Homi Bhabha",
+      "C.V. Raman"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "S.N. Bose's 1924 derivation of Planck's law led to Bose-Einstein statistics and the Bose-Einstein condensate; integer-spin particles are called 'bosons'."
+  },
+  {
+    "classLevel": 6,
+    "subject": "GK",
+    "chapter": "Chapter 5: Science, Inventions & Space Exploration of India",
+    "question": "What is India's dedicated solar observatory spacecraft, launched in September 2023 to study the Sun from the Sun-Earth Lagrangian Point 1 (L1)?",
+    "options": [
+      "Aditya-L1",
+      "Surya-1",
+      "Helios-India",
+      "Bhaskara-Solar"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "Aditya-L1 was inserted into a halo orbit around Lagrange Point 1 (~1.5 million km from Earth) to observe the solar corona and solar flares continuously."
+  },
+  {
+    "classLevel": 6,
+    "subject": "GK",
+    "chapter": "Chapter 5: Science, Inventions & Space Exploration of India",
+    "question": "What is the name of India's ambitious upcoming Human Spaceflight Programme aiming to send Indian astronauts into Low Earth Orbit?",
+    "options": [
+      "Gaganyaan",
+      "Vimana-1",
+      "Antariksh-1",
+      "Bharat-Yaan"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "ISRO's Gaganyaan mission will deploy a 3-member crew into a 400 km low Earth orbit for 3 days and return them safely to Indian sea waters."
+  },
+  {
+    "classLevel": 6,
+    "subject": "GK",
+    "chapter": "Chapter 5: Science, Inventions & Space Exploration of India",
+    "question": "What is the heavy-lift workhorse launch vehicle of ISRO, nicknamed 'Bahubali' (or LVM3), that launched Chandrayaan-2, Chandrayaan-3, and OneWeb satellites?",
+    "options": [
+      "LVM3 (Launch Vehicle Mark-3 / GSLV Mk III)",
+      "PSLV",
+      "SSLV",
+      "SLV-3"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "LVM3 features twin S200 solid rocket boosters, an L110 core liquid stage, and a cryogenic CE-20 upper stage with 4-tonne GTO payload capacity."
+  },
+  {
+    "classLevel": 6,
+    "subject": "GK",
+    "chapter": "Chapter 5: Science, Inventions & Space Exploration of India",
+    "question": "Which Indian-American astrophysicist won the Nobel Prize in Physics in 1983 for determining the maximum mass limit of a stable white dwarf star (1.44 Solar Masses)?",
+    "options": [
+      "Subrahmanyan Chandrasekhar (Chandrasekhar Limit)",
+      "Har Gobind Khorana",
+      "Venkatraman Ramakrishnan",
+      "Amartya Sen"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "Dr. S. Chandrasekhar proved that electron degeneracy pressure cannot support a stellar remnant exceeding 1.44 M☉, beyond which it collapses into a neutron star or black hole."
+  },
+  {
+    "classLevel": 6,
+    "subject": "GK",
+    "chapter": "Chapter 5: Science, Inventions & Space Exploration of India",
+    "question": "Which Indian-origin biochemist won the Nobel Prize in Physiology or Medicine in 1968 for deciphering the genetic code and synthesizing the first artificial gene?",
+    "options": [
+      "Har Gobind Khorana",
+      "C.V. Raman",
+      "Venkatraman Ramakrishnan",
+      "Hargovind Singh"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "Dr. Har Gobind Khorana demonstrated how triplets of nucleotides in RNA control the synthesis of specific amino acids in proteins."
+  },
+  {
+    "classLevel": 6,
+    "subject": "GK",
+    "chapter": "Chapter 5: Science, Inventions & Space Exploration of India",
+    "question": "What ancient Indian mathematical and astronomical treatise authored in 499 CE introduced the concept of the place-value decimal system, trigonometry (sine tables), and spherical Earth rotation?",
+    "options": [
+      "Aryabhatiya (by Aryabhata)",
+      "Siddhanta Shiromani",
+      "Surya Siddhanta",
+      "Brahmasphutasiddhanta"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "Aryabhata's Aryabhatiya computed π ≈ 3.1416 and established that planetary bodies shine by reflected solar illumination."
+  },
+  {
+    "classLevel": 6,
+    "subject": "GK",
+    "chapter": "Chapter 5: Science, Inventions & Space Exploration of India",
+    "question": "Which ancient Indian physician is renowned as the 'Father of Surgery' for performing rhinoplasty (plastic surgery) and cataract operations in ancient Varanasi?",
+    "options": [
+      "Sushruta (author of Sushruta Samhita)",
+      "Charaka",
+      "Vagbhata",
+      "Dhanvantari"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "Sushruta described over 120 surgical instruments, 300 operative procedures, and pioneer skin-flap pedicle plastic reconstructions."
+  },
+  {
+    "classLevel": 6,
+    "subject": "GK",
+    "chapter": "Chapter 5: Science, Inventions & Space Exploration of India",
+    "question": "What is India's indigenous regional satellite navigation system (equivalent to American GPS) developed by ISRO called?",
+    "options": [
+      "NavIC (Navigation with Indian Constellation / IRNSS)",
+      "Glonass-India",
+      "Bhuvan",
+      "Gaganyaan-Nav"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "NavIC operates a constellation of geostationary and geosynchronous satellites providing high-accuracy positioning over India and 1,500 km around its borders."
+  },
+  {
+    "classLevel": 6,
+    "subject": "GK",
+    "chapter": "Chapter 5: Science, Inventions & Space Exploration of India",
+    "question": "What is the famous mathematical number 1729 known as in mathematics?",
+    "options": [
+      "The Hardy-Ramanujan Number (the smallest number expressible as the sum of two cubes in two different ways: 1³ + 12³ and 9³ + 10³)",
+      "The Golden Ratio",
+      "The largest prime number",
+      "The speed of light"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "When G.H. Hardy noted his taxi cab number 1729 seemed dull, Ramanujan instantly replied that it was the smallest integer equal to two distinct sums of cubes."
+  },
+  {
+    "classLevel": 6,
+    "subject": "GK",
+    "chapter": "Chapter 5: Science, Inventions & Space Exploration of India",
+    "question": "Which Indian structural biologist won the Nobel Prize in Chemistry in 2009 for mapping the 3D atomic structure and function of the Ribosome?",
+    "options": [
+      "Venkatraman Ramakrishnan",
+      "Subrahmanyan Chandrasekhar",
+      "Amartya Sen",
+      "Abhijit Banerjee"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "Dr. Venki Ramakrishnan used X-ray crystallography to determine the atomic mechanism of ribosomal translation of genetic information into proteins."
+  },
+  {
+    "classLevel": 6,
+    "subject": "GK",
+    "chapter": "Chapter 5: Science, Inventions & Space Exploration of India",
+    "question": "What is India's indigenous 3-stage nuclear power program fuel cycle designed to utilize India's vast domestic reserves of which element found in Kerala's monazite sands?",
+    "options": [
+      "Thorium (Thorium-based nuclear fuel cycle)",
+      "Uranium",
+      "Plutonium",
+      "Lithium"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "Dr. Homi Bhabha formulated the 3-stage program to utilize India's massive coastal placer deposits of Thorium-232."
+  },
+  {
+    "classLevel": 6,
+    "subject": "GK",
+    "chapter": "Chapter 5: Science, Inventions & Space Exploration of India",
+    "question": "Which Indian scientific research institute in Pune operates the 'Giant Metrewave Radio Telescope' (GMRT), one of the world's largest low-frequency radio telescope arrays?",
+    "options": [
+      "NCRA (National Centre for Radio Astrophysics / TIFR)",
+      "IUCAA",
+      "ISRO",
+      "DRDO"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "GMRT consists of 30 steerable parabolic radio dish antennas (each 45m diameter) across 25 km in Khodad near Pune, studying pulsars and early universe hydrogen."
+  },
+  {
+    "classLevel": 6,
+    "subject": "GK",
+    "chapter": "Chapter 5: Science, Inventions & Space Exploration of India",
+    "question": "Read the statements:\nAssertion (A): On 15 February 2017, ISRO's PSLV-C37 created a historic world record by launching 104 satellites into orbit simultaneously in a single mission.\nReason (R): PSLV (Polar Satellite Launch Vehicle) is celebrated globally for its supreme reliability, cost-efficiency, and multi-satellite dispenser technology.\nChoose the correct option:",
+    "options": [
+      "Both (A) and (R) are true, and (R) is the correct explanation of (A).",
+      "Both (A) and (R) are true, but (R) is NOT the correct explanation of (A).",
+      "(A) is true, but (R) is false.",
+      "(A) is false, but (R) is true."
+    ],
+    "correctAnswer": 0,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "PSLV-C37 deployed Cartosat-2D along with 103 co-passenger nanosatellites from six foreign nations into precise sun-synchronous orbits."
+  },
+  {
+    "classLevel": 6,
+    "subject": "GK",
+    "chapter": "Chapter 5: Science, Inventions & Space Exploration of India",
+    "question": "Spot the IMPOSTER in the following group of Indian scientists paired with their Nobel Prize disciplines:\nGroup: [C.V. Raman - Physics, Har Gobind Khorana - Medicine, S. Chandrasekhar - Physics, Jagadish Chandra Bose - Chemistry]",
+    "options": [
+      "C.V. Raman - Physics",
+      "Har Gobind Khorana - Medicine",
+      "S. Chandrasekhar - Physics",
+      "Jagadish Chandra Bose - Chemistry"
+    ],
+    "correctAnswer": 3,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "Sir J.C. Bose was a pioneering physicist and plant physiologist who was NEVER awarded a Nobel Prize (though he deserved one for radio microwave pioneer work)."
+  },
+  {
+    "classLevel": 6,
+    "subject": "GK",
+    "chapter": "Chapter 5: Science, Inventions & Space Exploration of India",
+    "question": "What is the name of the humanoid female robot developed by ISRO to fly aboard the uncrewed orbital test flight of the Gaganyaan mission?",
+    "options": [
+      "Vyommitra ('Friend in Space')",
+      "Manavika",
+      "Shakti",
+      "Pragati"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "Vyommitra is an AI-equipped half-humanoid designed to monitor life-support systems, perform switch operations, and simulate human crew parameters."
+  },
+  {
+    "classLevel": 6,
+    "subject": "GK",
+    "chapter": "Chapter 5: Science, Inventions & Space Exploration of India",
+    "question": "Match Column I (Indian Spacecraft & Projects) with Column II (Target Destinations / Payloads):\n(a) Chandrayaan-3 -> (i) Sun's Lagrange Point 1 (L1)\n(b) Aditya-L1      -> (ii) Lunar South Pole soft landing\n(c) Mangalyaan     -> (iii) Mars orbit insertion\n(d) Astrosat       -> (iv) Multi-wavelength space astronomical observatory",
+    "options": [
+      "a-(ii), b-(i), c-(iii), d-(iv)",
+      "a-(i), b-(ii), c-(iii), d-(iv)",
+      "a-(iv), b-(iii), c-(ii), d-(i)",
+      "a-(iii), b-(iv), c-(i), d-(ii)"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "Chandrayaan-3 = Lunar South Pole; Aditya-L1 = Sun L1; Mangalyaan = Mars; Astrosat = Multi-wavelength space telescope."
+  },
+  {
+    "classLevel": 6,
+    "subject": "GK",
+    "chapter": "Chapter 5: Science, Inventions & Space Exploration of India",
+    "question": "Read the statements regarding ancient Indian science:\nStatement 1: Brahmagupta (598–668 CE) in his Brahmasphutasiddhanta was the first mathematician to establish mathematical rules for computing with Zero (0) and negative numbers.\nStatement 2: Charaka Samhita is considered the foundational encyclopedic treatise of Ayurvedic internal medicine.\nStatement 3: Aryabhata claimed that the Earth was flat and immovable.\nWhich statements are TRUE?",
+    "options": [
+      "Statements 1 and 2 only",
+      "Statements 2 and 3 only",
+      "Statements 1 and 3 only",
+      "All Statements 1, 2, and 3"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "Statement 3 is completely false because Aryabhata explicitly stated that the Earth is spherical and rotates daily on its axis. Statements 1 and 2 are true."
+  },
+  {
+    "classLevel": 6,
+    "subject": "GK",
+    "chapter": "Chapter 5: Science, Inventions & Space Exploration of India",
+    "question": "What is the cryogenic upper stage engine developed indigenously by ISRO's Liquid Propulsion Systems Centre (LPSC) to power the LVM3 rocket?",
+    "options": [
+      "CE-20 Cryogenic Engine (Liquid Hydrogen & Liquid Oxygen)",
+      "Vikas Engine",
+      "Semi-Cryogenic SCE-200",
+      "S200 Solid Booster"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "The CE-20 is a gas-generator cycle cryogenic engine utilizing liquid oxygen (LOX) at -183°C and liquid hydrogen (LH2) at -253°C."
+  },
+  {
+    "classLevel": 6,
+    "subject": "GK",
+    "chapter": "Chapter 5: Science, Inventions & Space Exploration of India",
+    "question": "Which Indian scientific research station was established in Antarctica in 2012 as India's 3rd state-of-the-art permanent polar research base (alongside Maitri and historic Dakshin Gangotri)?",
+    "options": [
+      "Bharati",
+      "Himadri",
+      "Indira",
+      "Sagar Nidhi"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "Bharati is located in the Larsemann Hills, Antarctica, constructed with 134 prefabricated shipping containers for extreme polar climate research."
+  },
+  {
+    "classLevel": 6,
+    "subject": "GK",
+    "chapter": "Chapter 5: Science, Inventions & Space Exploration of India",
+    "question": "What is the name of India's Arctic research station established in 2008 at Ny-Ålesund in Svalbard, Norway?",
+    "options": [
+      "Himadri",
+      "Bharati",
+      "Maitri",
+      "Dakshin Gangotri"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "Himadri is India's dedicated Arctic research station located 1,200 km from the North Pole in Spitsbergen, Svalbard."
+  },
+  {
+    "classLevel": 6,
+    "subject": "GK",
+    "chapter": "Chapter 5: Science, Inventions & Space Exploration of India",
+    "question": "What was the landmark significance of India's 'Smiling Buddha' (Pokhran-I) test conducted on 18 May 1974 in Rajasthan?",
+    "options": [
+      "India's first successful underground nuclear detonation, demonstrating peaceful nuclear explosion (PNE) capability under Dr. Homi Sethna and Dr. Raja Ramanna",
+      "First launch of a satellite",
+      "First missile test in the ocean",
+      "First nuclear power plant commissioned"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "Pokhran-I was India's first nuclear device detonation, conducted underground in the Thar Desert with a yield of ~12 kilotons."
+  },
+  {
+    "classLevel": 6,
+    "subject": "GK",
+    "chapter": "Chapter 5: Science, Inventions & Space Exploration of India",
+    "question": "Which breakthrough algorithm developed by IIT Kanpur scientists (Manindra Agrawal, Neeraj Kayal, and Nitin Saxena in 2002) solved the centuries-old problem of deterministically testing whether any given integer is prime in polynomial time?",
+    "options": [
+      "AKS Primality Test",
+      "RSA Algorithm",
+      "Euclidean Algorithm",
+      "Shor's Algorithm"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "The AKS algorithm proved in 'PRIMES is in P' that primality testing is unconditionally and deterministically solvable in polynomial time."
+  },
+  {
+    "classLevel": 6,
+    "subject": "GK",
+    "chapter": "Chapter 5: Science, Inventions & Space Exploration of India",
+    "question": "What deep-sea crewed submersible vehicle is being developed by India under the 'Samudrayaan Mission' to explore ocean depths up to 6,000 meters?",
+    "options": [
+      "Matsya 6000",
+      "Varuna 6000",
+      "Jalayaan-1",
+      "Sagarika"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "Matsya 6000 is a deep-ocean human submersible developed by NIOT under the Deep Ocean Mission to extract polymetallic nodules."
+  },
+  {
+    "classLevel": 6,
+    "subject": "GK",
+    "chapter": "Chapter 5: Science, Inventions & Space Exploration of India",
+    "question": "Who was the brilliant mathematician and statistician who founded the Indian Statistical Institute (ISI) in Kolkata in 1931 and designed India's Second Five-Year Plan model?",
+    "options": [
+      "Prasanta Chandra Mahalanobis (P.C. Mahalanobis)",
+      "C.R. Rao",
+      "S.N. Bose",
+      "Homi Bhabha"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "P.C. Mahalanobis formulated the Mahalanobis distance metric in statistics and pioneered large-scale sample survey methodologies (National Statistics Day on 29 June)."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Social Science",
+    "chapter": "Chapter 5: Major Domains of the Earth",
+    "question": "The solid portion of the Earth consisting of rocks of the earth's crust and thin layers of soil that contain nutrient elements is the:",
+    "options": [
+      "Lithosphere",
+      "Hydrosphere",
+      "Atmosphere",
+      "Biosphere"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "The lithosphere (from Greek 'lithos' = stone) is the solid terrestrial outer shell comprising continents and ocean basins."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Social Science",
+    "chapter": "Chapter 5: Major Domains of the Earth",
+    "question": "The vast realm of water comprising oceans, seas, rivers, lakes, ice caps, glaciers, and water vapor covering over 71% of Earth is the:",
+    "options": [
+      "Hydrosphere",
+      "Lithosphere",
+      "Atmosphere",
+      "Stratosphere"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "The hydrosphere encompasses all liquid, solid, and gaseous forms of water on the planetary surface."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Social Science",
+    "chapter": "Chapter 5: Major Domains of the Earth",
+    "question": "The thin gaseous envelope of air that surrounds the Earth and protects us from the harmful ultraviolet radiation of the Sun is the:",
+    "options": [
+      "Atmosphere",
+      "Lithosphere",
+      "Hydrosphere",
+      "Biosphere"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "The atmosphere extends up to ~1,600 km above Earth, held in place by terrestrial gravity."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Social Science",
+    "chapter": "Chapter 5: Major Domains of the Earth",
+    "question": "The narrow zone of contact between land, water, and air where ALL forms of life exist and interact is called the:",
+    "options": [
+      "Biosphere",
+      "Lithosphere",
+      "Hydrosphere",
+      "Troposphere"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "The biosphere is the biological life-supporting intersection where lithosphere, hydrosphere, and atmosphere converge."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Social Science",
+    "chapter": "Chapter 5: Major Domains of the Earth",
+    "question": "How many major Continents are there on the Earth?",
+    "options": [
+      "7 Continents (Asia, Africa, North America, South America, Antarctica, Europe, Australia)",
+      "5 Continents",
+      "6 Continents",
+      "8 Continents"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "The 7 major continents separated by oceans are Asia, Africa, North America, South America, Antarctica, Europe, and Australia."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Social Science",
+    "chapter": "Chapter 5: Major Domains of the Earth",
+    "question": "Which is the LARGEST continent in the world by both land area (one-third of total land) and population?",
+    "options": [
+      "Asia",
+      "Africa",
+      "North America",
+      "Europe"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "Asia covers ~30% of total land area, situated predominantly in the Eastern and Northern Hemispheres."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Social Science",
+    "chapter": "Chapter 5: Major Domains of the Earth",
+    "question": "What is the highest mountain peak on Earth above sea level, located in the Himalayas in Nepal/Tibet?",
+    "options": [
+      "Mount Everest (8,848.86 meters)",
+      "K2",
+      "Kangchenjunga",
+      "Lhotse"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "Mount Everest in the Great Himalayas is Earth's highest topographic elevation above mean sea level."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Social Science",
+    "chapter": "Chapter 5: Major Domains of the Earth",
+    "question": "What is the deepest point in the world's oceans, located in the Mariana Trench in the Pacific Ocean?",
+    "options": [
+      "Mariana Trench (Challenger Deep, 11,022 meters deep)",
+      "Java Trench",
+      "Puerto Rico Trench",
+      "Sunda Trench"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "The Challenger Deep in the Mariana Trench plunges over 11,000 meters deep into the Pacific seabed."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Social Science",
+    "chapter": "Chapter 5: Major Domains of the Earth",
+    "question": "Which is the LARGEST and DEEPEST ocean in the world, covering one-third of the entire Earth's surface?",
+    "options": [
+      "Pacific Ocean",
+      "Atlantic Ocean",
+      "Indian Ocean",
+      "Arctic Ocean"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "The circular Pacific Ocean is larger than all the continents combined, holding the Mariana Trench."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Social Science",
+    "chapter": "Chapter 5: Major Domains of the Earth",
+    "question": "Which is the ONLY ocean in the world named after a specific country?",
+    "options": [
+      "Indian Ocean (named after India)",
+      "Pacific Ocean",
+      "Atlantic Ocean",
+      "Southern Ocean"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "The Indian Ocean is uniquely named after India due to India's prominent central maritime peninsula."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Social Science",
+    "chapter": "Chapter 5: Major Domains of the Earth",
+    "question": "Which continent is known as the 'Island Continent' because it is completely surrounded on all sides by oceans and seas?",
+    "options": [
+      "Australia",
+      "Antarctica",
+      "South America",
+      "Europe"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "Australia is the smallest continent, lying entirely in the Southern Hemisphere surrounded by the Pacific and Indian oceans."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Social Science",
+    "chapter": "Chapter 5: Major Domains of the Earth",
+    "question": "Which gas is the MOST ABUNDANT in the Earth's atmosphere, constituting about 78% of the total air volume?",
+    "options": [
+      "Nitrogen gas (N₂ - 78%)",
+      "Oxygen gas (21%)",
+      "Carbon dioxide (0.03%)",
+      "Argon (0.93%)"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "Dry atmospheric air is composed of 78% Nitrogen, 21% Oxygen, and ~1% other trace gases (Argon, CO₂, etc.)."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Social Science",
+    "chapter": "Chapter 5: Major Domains of the Earth",
+    "question": "Which mountain range separates the continents of Asia and Europe on the west?",
+    "options": [
+      "Ural Mountains",
+      "Alps",
+      "Himalayas",
+      "Rockies"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "The Ural Mountains and Ural River in Russia form the conventional geographic boundary dividing Europe from Asia (together termed 'Eurasia')."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Social Science",
+    "chapter": "Chapter 5: Major Domains of the Earth",
+    "question": "Which is the ONLY continent through which ALL THREE major latitude circles — the Tropic of Cancer, the Equator, and the Tropic of Capricorn — pass?",
+    "options": [
+      "Africa",
+      "Asia",
+      "South America",
+      "Australia"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "Africa's vast latitudinal expanse bisected by the Equator allows the Tropic of Cancer in the north and Tropic of Capricorn in the south to cross it."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Social Science",
+    "chapter": "Chapter 5: Major Domains of the Earth",
+    "question": "What is the world's LARGEST hot desert, located in northern Africa covering an area almost the size of the United States?",
+    "options": [
+      "Sahara Desert",
+      "Kalahari Desert",
+      "Gobi Desert",
+      "Atacama Desert"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "The Sahara Desert covers over 9.2 million km² across North Africa from the Atlantic Ocean to the Red Sea."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Social Science",
+    "chapter": "Chapter 5: Major Domains of the Earth",
+    "question": "What is the LONGEST river in the world, flowing northward through eastern Africa into the Mediterranean Sea?",
+    "options": [
+      "Nile River (6,650 km)",
+      "Amazon River",
+      "Yangtze River",
+      "Mississippi River"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "The Nile River drains through 11 African nations, recognized as the world's longest fluvial drainage channel."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Social Science",
+    "chapter": "Chapter 5: Major Domains of the Earth",
+    "question": "What is the LARGEST river in the world by water volume discharge, flowing through the tropical rainforests of South America?",
+    "options": [
+      "Amazon River",
+      "Nile River",
+      "Ganga",
+      "Congo River"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "The Amazon discharges ~209,000 m³/s of water into the Atlantic, carrying more water volume than the next seven largest rivers combined."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Social Science",
+    "chapter": "Chapter 5: Major Domains of the Earth",
+    "question": "What is the LONGEST mountain range in the world on land, stretching over 7,000 km from north to south along the western coast of South America?",
+    "options": [
+      "Andes Mountain Range",
+      "Rocky Mountains",
+      "Himalayas",
+      "Alps"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "The Andes constitute the world's longest continental mountain belt spanning seven South American countries."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Social Science",
+    "chapter": "Chapter 5: Major Domains of the Earth",
+    "question": "What is the narrow strip of land connecting North America and South America, and separating the Atlantic Ocean from the Pacific Ocean?",
+    "options": [
+      "Isthmus of Panama",
+      "Strait of Gibraltar",
+      "Palk Strait",
+      "Suez Canal"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "An Isthmus is a narrow strip of land joining two landmasses; the Isthmus of Panama bridges North and South America."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Social Science",
+    "chapter": "Chapter 5: Major Domains of the Earth",
+    "question": "What is a narrow passage of water connecting two large bodies of water (such as seas and oceans) called?",
+    "options": [
+      "A Strait (e.g. Palk Strait, Bering Strait)",
+      "An Isthmus",
+      "A Peninsula",
+      "An Island"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "A strait is a narrow navigable marine channel linking two larger oceans or seas."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Social Science",
+    "chapter": "Chapter 5: Major Domains of the Earth",
+    "question": "Which ocean is 'S-shaped' and is the BUSIEST ocean in the world from the point of view of international maritime trade?",
+    "options": [
+      "Atlantic Ocean",
+      "Pacific Ocean",
+      "Indian Ocean",
+      "Arctic Ocean"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "The Atlantic's highly indented coastline creates abundant natural harbors, making it the most heavily trafficked commercial sea route."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Social Science",
+    "chapter": "Chapter 5: Major Domains of the Earth",
+    "question": "Which continent is permanently covered with thick ice sheets, completely uninhabited by native human populations, and reserved exclusively for scientific research?",
+    "options": [
+      "Antarctica (the White Continent / South Pole)",
+      "Greenland",
+      "Australia",
+      "Europe"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "Antarctica is governed by the Antarctic Treaty of 1959 as a demilitarized scientific preserve hosting research stations."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Social Science",
+    "chapter": "Chapter 5: Major Domains of the Earth",
+    "question": "What are the names of the two Indian permanent research stations operating in Antarctica?",
+    "options": [
+      "Maitri and Bharati (along with historic Dakshin Gangotri)",
+      "Himadri and Indira",
+      "Sagar and Shakti",
+      "Kalam and Sarabhai"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "Maitri (established 1989) and Bharati (established 2012) are active Indian research facilities in Antarctica."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Social Science",
+    "chapter": "Chapter 5: Major Domains of the Earth",
+    "question": "What are the FIVE vertical layers of the Earth's atmosphere arranged starting from the Earth's surface upwards?",
+    "options": [
+      "Troposphere -> Stratosphere -> Mesosphere -> Thermosphere -> Exosphere",
+      "Stratosphere -> Troposphere -> Mesosphere -> Exosphere -> Thermosphere",
+      "Exosphere -> Thermosphere -> Mesosphere -> Stratosphere -> Troposphere",
+      "Troposphere -> Mesosphere -> Stratosphere -> Thermosphere -> Ionosphere"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "Thermal atmospheric stratification: Troposphere (0-12 km), Stratosphere (12-50 km), Mesosphere (50-80 km), Thermosphere (80-700 km), and Exosphere (>700 km)."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Social Science",
+    "chapter": "Chapter 5: Major Domains of the Earth",
+    "question": "Why is Earth uniquely called the 'Blue Planet' and the 'Water Planet'?",
+    "options": [
+      "More than 71% of Earth's surface is covered with water, giving it a brilliant azure-blue appearance from outer space",
+      "Because the sky reflects blue paint",
+      "Because mountains are blue",
+      "Because trees are blue in space"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "Rayleigh scattering of solar light across oceans covering 71% of Earth's surface yields our planetary blue hue."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Social Science",
+    "chapter": "Chapter 5: Major Domains of the Earth",
+    "question": "Despite Earth having 71% water, why do humans and land ecosystems face acute freshwater shortages?",
+    "options": [
+      "More than 97% of Earth's water is saline seawater in oceans, and of the remaining 3% freshwater, most is locked in polar ice sheets and glaciers",
+      "Because water evaporates into outer space",
+      "Because clouds take water away",
+      "Because rivers do not flow"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "Only ~0.3% of global water is accessible liquid freshwater in rivers, freshwater lakes, and shallow aquifers."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Social Science",
+    "chapter": "Chapter 5: Major Domains of the Earth",
+    "question": "What is the crucial biological role of Carbon Dioxide (CO₂) in the atmosphere, despite its small concentration (0.03%)?",
+    "options": [
+      "It absorbs infrared heat radiated by the Earth (Greenhouse effect) to keep the planet comfortably warm and livable, and plants use it for photosynthesis",
+      "It freezes the oceans",
+      "It produces rain directly",
+      "It makes rocks hard"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "Radiative greenhouse forcing by CO₂ maintains Earth's mean surface temperature at +15°C instead of a freezing -18°C."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Social Science",
+    "chapter": "Chapter 5: Major Domains of the Earth",
+    "question": "Why does atmospheric density and air pressure decrease rapidly with increasing altitude as mountaineers climb high Himalayan peaks?",
+    "options": [
+      "Earth's gravitational attraction compresses air molecules near sea level; at high altitudes, air molecules spread apart, causing lower oxygen pressure and breathing difficulty",
+      "Air is blown away by satellites",
+      "Sunlight destroys air at high altitude",
+      "Clouds push air down"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "Barometric hypsometric formula: atmospheric pressure drops exponentially with height, reducing the partial pressure of oxygen."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Social Science",
+    "chapter": "Chapter 5: Major Domains of the Earth",
+    "question": "Read the statements:\nAssertion (A): Global warming leads to the thermal expansion of seawater and catastrophic melting of polar ice caps.\nReason (R): Excessive emission of carbon dioxide (CO₂) from fossil fuel combustion traps surplus infrared thermal radiation in the troposphere.\nChoose the correct option:",
+    "options": [
+      "Both (A) and (R) are true, and (R) is the correct explanation of (A).",
+      "Both (A) and (R) are true, but (R) is NOT the correct explanation of (A).",
+      "(A) is true, but (R) is false.",
+      "(A) is false, but (R) is true."
+    ],
+    "correctAnswer": 0,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "Anthropogenic radiative greenhouse forcing amplifies global heat retention, melting cryospheric glaciers and raising sea levels."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Social Science",
+    "chapter": "Chapter 5: Major Domains of the Earth",
+    "question": "Spot the IMPOSTER in the following group of geographic features paired with their home Continents:\nGroup: [Nile River - Africa, Amazon River - South America, Mount Everest - Asia, Andes Mountain Range - North America]",
+    "options": [
+      "Nile River - Africa",
+      "Amazon River - South America",
+      "Mount Everest - Asia",
+      "Andes Mountain Range - North America"
+    ],
+    "correctAnswer": 3,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "The Andes Mountain Range is located in SOUTH AMERICA, NOT in North America (North America has the Rocky Mountains)."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Social Science",
+    "chapter": "Chapter 5: Major Domains of the Earth",
+    "question": "Who were the first mountaineers to conquer and step onto the highest summit of Mount Everest on 29th May 1953?",
+    "options": [
+      "Sir Edmund Hillary (New Zealand) and Tenzing Norgay Sherpa (India/Nepal)",
+      "George Mallory and Andrew Irvine",
+      "Bachendri Pal and Junko Tabei",
+      "Reinhold Messner and Peter Habeler"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "Edmund Hillary and Tenzing Norgay achieved the historic first confirmed ascent of Mount Everest in the 1953 British expedition."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Social Science",
+    "chapter": "Chapter 5: Major Domains of the Earth",
+    "question": "Match Column I (Earth Domains & Features) with Column II (Definitions & Examples):\n(a) Lithosphere -> (i) Gaseous envelope held by gravity\n(b) Hydrosphere -> (ii) Solid rock crust and continental landmasses\n(c) Atmosphere  -> (iii) 71% planetary ocean and surface water realm\n(d) Biosphere   -> (iv) Narrow zone of contact supporting all living organisms",
+    "options": [
+      "a-(ii), b-(iii), c-(i), d-(iv)",
+      "a-(i), b-(ii), c-(iii), d-(iv)",
+      "a-(iv), b-(iii), c-(ii), d-(i)",
+      "a-(iii), b-(iv), c-(i), d-(ii)"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "Lithosphere = rock crust; Hydrosphere = 71% water; Atmosphere = gas envelope; Biosphere = life zone."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Social Science",
+    "chapter": "Chapter 5: Major Domains of the Earth",
+    "question": "Read the statements regarding the continents:\nStatement 1: Europe is bounded by the Arctic Ocean on the north, Atlantic Ocean on the west, and Mediterranean Sea on the south.\nStatement 2: South America lies entirely in the Northern Hemisphere.\nStatement 3: Australia is the only continent that is also a single nation.\nWhich statements are TRUE?",
+    "options": [
+      "Statements 1 and 3 only",
+      "Statements 1 and 2 only",
+      "Statements 2 and 3 only",
+      "All Statements 1, 2, and 3"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "Statement 2 is false because most of South America lies in the SOUTHERN Hemisphere (bisected in the north by the Equator). Statements 1 and 3 are true."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Social Science",
+    "chapter": "Chapter 5: Major Domains of the Earth",
+    "question": "What is the oceanic body surrounding the continent of Antarctica, formed by the southward extension of the Pacific, Atlantic, and Indian Oceans?",
+    "options": [
+      "The Southern Ocean (or Antarctic Ocean, extending up to 60° S latitude)",
+      "Arctic Ocean",
+      "Indian Ocean",
+      "Mediterranean Sea"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "The Southern Ocean encompasses the circumpolar Antarctic waters south of 60° S, connected by the Antarctic Circumpolar Current."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Social Science",
+    "chapter": "Chapter 5: Major Domains of the Earth",
+    "question": "Which narrow strait connects the Arctic Ocean with the Pacific Ocean between Alaska (USA) and Siberia (Russia)?",
+    "options": [
+      "Bering Strait",
+      "Strait of Gibraltar",
+      "Palk Strait",
+      "Strait of Malacca"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "The Bering Strait connects the Arctic Chukchi Sea with the Pacific Bering Sea across an 82 km maritime passage."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Social Science",
+    "chapter": "Chapter 5: Major Domains of the Earth",
+    "question": "Why is the elevation of any land point on Earth always measured from Sea Level, and why is Sea Level taken as zero everywhere?",
+    "options": [
+      "All the interconnected oceans of the world maintain a uniform, continuous hydrostatic surface level at equilibrium (Mean Sea Level = 0 m)",
+      "Because oceans have no weight",
+      "Because sea water cannot be measured",
+      "Because land sinks every year"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "Hydrostatic communicability ensures the global marine surface conforms to an equipotential gravitational geoid serving as the datum (0 m elevation)."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Social Science",
+    "chapter": "Chapter 5: Major Domains of the Earth",
+    "question": "Consider four atmospheric gases:\n1. Nitrogen (78%)\n2. Oxygen (21%)\n3. Argon (0.93%)\n4. Carbon dioxide (0.03%)\nArrange these gases in DECREASING order of their volume percentage in clean dry air:",
+    "options": [
+      "1 -> 2 -> 3 -> 4",
+      "2 -> 1 -> 4 -> 3",
+      "1 -> 2 -> 4 -> 3",
+      "4 -> 3 -> 2 -> 1"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "N₂ (78.08%) > O₂ (20.95%) > Ar (0.93%) > CO₂ (0.04%)."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Social Science",
+    "chapter": "Chapter 5: Major Domains of the Earth",
+    "question": "What is the combined landmass consisting of Europe and Asia joined together without any oceanic separation called?",
+    "options": [
+      "Eurasia",
+      "Afro-Eurasia",
+      "Pangaea",
+      "Gondwanaland"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "Europe and Asia form a single contiguous tectonic landmass termed Eurasia, demarcated geographically by the Ural Mountains."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Social Science",
+    "chapter": "Chapter 5: Major Domains of the Earth",
+    "question": "Who was the FIRST Indian woman to climb the summit of Mount Everest on 23rd May 1984?",
+    "options": [
+      "Bachendri Pal",
+      "Santosh Yadav",
+      "Arunima Sinha",
+      "Premlata Agarwal"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "Bachendri Pal became the first Indian woman and fifth woman in the world to reach the peak of Mount Everest in 1984."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Social Science",
+    "chapter": "Chapter 5: Major Domains of the Earth",
+    "question": "Why is human disturbance in one domain of the Earth (e.g. cutting forests in the Lithosphere or emitting gases into Atmosphere) directly detrimental to all other domains?",
+    "options": [
+      "All four domains (Lithosphere, Hydrosphere, Atmosphere, Biosphere) are dynamically interconnected in continuous thermodynamic and biogeochemical nutrient cycles",
+      "Because Earth is made of glass",
+      "Because oceans will dry up in one second",
+      "Because gravity will stop working"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "Earth Systems Science shows complex feedback loops (carbon cycle, hydrologic cycle) link all spheres into a single interdependent ecosystem."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Hindi Grammar",
+    "chapter": "Chapter 5: लिंग",
+    "question": "संज्ञा शब्द के जिस रूप से उसके पुरुष जाति (नर) या स्त्री जाति (मादा) होने का बोध होता है, उसे व्याकरण में क्या कहते हैं?",
+    "options": [
+      "लिंग (Gender)",
+      "वचन",
+      "कारक",
+      "पुरुष"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "संज्ञा के जाति-निर्धारक रूप (पुरुष या स्त्री जाति के बोधक चिह्न) को 'लिंग' कहते हैं।"
+  },
+  {
+    "classLevel": 6,
+    "subject": "Hindi Grammar",
+    "chapter": "Chapter 5: लिंग",
+    "question": "हिंदी भाषा में मुख्य रूप से लिंग के कितने भेद (प्रकार) होते हैं?",
+    "options": [
+      "दो भेद (पुल्लिंग और स्त्रीलिंग)",
+      "तीन भेद",
+      "चार भेद",
+      "पाँच भेद"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "हिंदी में केवल दो लिंग होते हैं: 1. पुल्लिंग (Masculine) तथा 2. स्त्रीलिंग (Feminine)। (संस्कृत की तरह नपुंसक लिंग हिंदी में नहीं होता)।"
+  },
+  {
+    "classLevel": 6,
+    "subject": "Hindi Grammar",
+    "chapter": "Chapter 5: लिंग",
+    "question": "जिन संज्ञा शब्दों से पुरुष जाति (Male) का बोध होता है, उन्हें क्या कहते हैं?",
+    "options": [
+      "पुल्लिंग (जैसे: लड़का, शेर, पिता, राजा, पेड़, सूर्य)",
+      "स्त्रीलिंग",
+      "उभयलिंग",
+      "नपुंसकलिंग"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "पुरुषत्व का बोध कराने वाले संज्ञा शब्द पुल्लिंग कहलाते हैं।"
+  },
+  {
+    "classLevel": 6,
+    "subject": "Hindi Grammar",
+    "chapter": "Chapter 5: लिंग",
+    "question": "जिन संज्ञा शब्दों से स्त्री जाति (Female) का बोध होता है, उन्हें क्या कहते हैं?",
+    "options": [
+      "स्त्रीलिंग (जैसे: लड़की, शेरनी, माता, रानी, नदी, लता)",
+      "पुल्लिंग",
+      "नपुंसकलिंग",
+      "कारक"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "स्त्रीत्व का बोध कराने वाले संज्ञा शब्द स्त्रीलिंग कहलाते हैं।"
+  },
+  {
+    "classLevel": 6,
+    "subject": "Hindi Grammar",
+    "chapter": "Chapter 5: लिंग",
+    "question": "निम्नलिखित में से 'पुल्लिंग' शब्द का सही उदाहरण कौन-सा है?",
+    "options": [
+      "हिमालय, भारत, सोमवार, लोहा",
+      "गंगा, यमुना, रोटी, तितली",
+      "रात, शाम, सुबह, आँख",
+      "पुस्तक, माला, चिड़िया, लता"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "पर्वतों के नाम (हिमालय), देशों के नाम (भारत), दिनों के नाम (सोमवार), तथा धातुओं के नाम (लोहा) सदैव पुल्लिंग होते हैं।"
+  },
+  {
+    "classLevel": 6,
+    "subject": "Hindi Grammar",
+    "chapter": "Chapter 5: लिंग",
+    "question": "निम्नलिखित में से 'स्त्रीलिंग' शब्द का सही उदाहरण कौन-सा है?",
+    "options": [
+      "गंगा, हिंदी, देवनागरी, पूर्णिमा",
+      "समुद्र, प्रशांत, आम, सोना",
+      "पेड़, जंगल, शहर, गाँव",
+      "दूध, पानी, तेल, घी"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "नदियों के नाम (गंगा), भाषाओं के नाम (हिंदी), लिपियों के नाम (देवनागरी), तथा तिथियों के नाम स्त्रीलिंग होते हैं।"
+  },
+  {
+    "classLevel": 6,
+    "subject": "Hindi Grammar",
+    "chapter": "Chapter 5: लिंग",
+    "question": "पुल्लिंग शब्द 'कवि' का सही स्त्रीलिंग रूप क्या है?",
+    "options": [
+      "कवयित्री",
+      "कवियत्री",
+      "कविनी",
+      "कविता"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "'कवि' का मानक शुद्ध स्त्रीलिंग वर्तनी रूप 'कवयित्री' (क + व + यि + त्री) है।"
+  },
+  {
+    "classLevel": 6,
+    "subject": "Hindi Grammar",
+    "chapter": "Chapter 5: लिंग",
+    "question": "पुल्लिंग शब्द 'विद्वान' का सही स्त्रीलिंग रूप क्या है?",
+    "options": [
+      "विदुषी",
+      "विद्वानी",
+      "विदुष्या",
+      "ज्ञानी"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "'विद्वान' (ज्ञानवान पुरुष) का शुद्ध स्त्रीलिंग 'विदुषी' (ज्ञानवती स्त्री) होता है।"
+  },
+  {
+    "classLevel": 6,
+    "subject": "Hindi Grammar",
+    "chapter": "Chapter 5: लिंग",
+    "question": "पुल्लिंग शब्द 'सम्राट' का सही स्त्रीलिंग रूप क्या है?",
+    "options": [
+      "सम्राज्ञी",
+      "सम्राटिनी",
+      "सम्राटी",
+      "रानी"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "संस्कृत तत्सम नियम के अनुसार 'सम्राट' का स्त्रीलिंग 'सम्राज्ञी' होता है।"
+  },
+  {
+    "classLevel": 6,
+    "subject": "Hindi Grammar",
+    "chapter": "Chapter 5: लिंग",
+    "question": "पुल्लिंग शब्द 'नेता' और 'अभिनेता' के सही स्त्रीलिंग रूप क्रमशः क्या हैं?",
+    "options": [
+      "नेत्री और अभिनेत्री",
+      "नेतिन और अभिनेतिन",
+      "नेताइन और अभिनेत्र",
+      "नेती और अभिनेती"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "'ता' का 'त्री' में परिवर्तन: नेता -> नेत्री; अभिनेता -> अभिनेत्री; धाता -> धात्री।"
+  },
+  {
+    "classLevel": 6,
+    "subject": "Hindi Grammar",
+    "chapter": "Chapter 5: लिंग",
+    "question": "पुल्लिंग शब्द 'वर' और 'साधु' के सही स्त्रीलिंग रूप क्रमशः क्या हैं?",
+    "options": [
+      "वधू और साध्वी",
+      "वधु और साधुनी",
+      "पत्नी और सन्यासिनी",
+      "दुल्हन और औरत"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "वर का स्त्रीलिंग 'वधू' तथा साधु का स्त्रीलिंग 'साध्वी' होता है।"
+  },
+  {
+    "classLevel": 6,
+    "subject": "Hindi Grammar",
+    "chapter": "Chapter 5: लिंग",
+    "question": "पुल्लिंग शब्द 'बैल' और 'पुरुष' के सही स्त्रीलिंग रूप क्रमशः क्या हैं?",
+    "options": [
+      "गाय और स्त्री",
+      "भैंस और नारी",
+      "गौ और औरत",
+      "गाय और महिला"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "भिन्न रूप वाले स्वतंत्र युग्म: बैल -> गाय; पुरुष -> स्त्री; पिता -> माता; भाई -> बहन।"
+  },
+  {
+    "classLevel": 6,
+    "subject": "Hindi Grammar",
+    "chapter": "Chapter 5: लिंग",
+    "question": "वे शब्द जो पद, व्यवसाय या ओहदे के सूचक होते हैं और स्त्री व पुरुष दोनों के लिए समान रूप से प्रयुक्त होते हैं (जैसे: राष्ट्रपति, प्रधानमंत्री, डॉक्टर, इंजीनियर, जज), उन्हें क्या कहा जाता है?",
+    "options": [
+      "उभयलिंगी शब्द (Common Gender Words)",
+      "नपुंसक शब्द",
+      "सदा स्त्रीलिंग शब्द",
+      "अविकारी शब्द"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "संवैधानिक पद और व्यावसायिक उपाधियाँ (राष्ट्रपति, डॉक्टर, मंत्री) उभयलिंगी रूप में दोनों लिंगों के लिए समान रहती हैं।"
+  },
+  {
+    "classLevel": 6,
+    "subject": "Hindi Grammar",
+    "chapter": "Chapter 5: लिंग",
+    "question": "वे प्राणीवाचक शब्द जो सदा पुल्लिंग में ही प्रयुक्त होते हैं (जैसे: मच्छर, चीता, तोता, भेड़िया, खरगोश), उनका स्त्रीलिंग बनाने के लिए क्या किया जाता है?",
+    "options": [
+      "शब्द के आगे 'मादा' शब्द जोड़ दिया जाता है (जैसे: मादा मच्छर, मादा चीता, मादा तोता)",
+      "शब्द के अंत में 'नी' प्रत्यय लगाते हैं",
+      "शब्द को बहुवचन बना देते हैं",
+      "उनका कोई स्त्रीलिंग नहीं होता"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "नित्य पुल्लिंग शब्दों के स्त्रीलिंग रूप हेतु 'मादा' उपसर्ग जोड़ा जाता है (मादा भेड़िया, मादा चीता)।"
+  },
+  {
+    "classLevel": 6,
+    "subject": "Hindi Grammar",
+    "chapter": "Chapter 5: लिंग",
+    "question": "वे शब्द जो सदा स्त्रीलिंग में ही प्रयुक्त होते हैं (जैसे: तितली, मक्खी, कोयल, मछली, मैना, गिलहरी), उनका पुल्लिंग बनाने के लिए क्या किया जाता है?",
+    "options": [
+      "शब्द के आगे 'नर' शब्द जोड़ दिया जाता है (जैसे: नर तितली, नर मक्खी, नर कोयल, नर मछली)",
+      "शब्द के अंत में 'आ' जोड़ते हैं",
+      "शब्द को बदल देते हैं",
+      "कोई परिवर्तन नहीं होता"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "नित्य स्त्रीलिंग शब्दों के पुल्लिंग रूप हेतु 'नर' उपसर्ग जोड़ा जाता है (नर कोयल, नर मछली, नर गिलहरी)।"
+  },
+  {
+    "classLevel": 6,
+    "subject": "Hindi Grammar",
+    "chapter": "Chapter 5: लिंग",
+    "question": "निम्नलिखित में से 'सदा पुल्लिंग' रहने वाले संज्ञा शब्दों का सही समूह कौन-सा है?",
+    "options": [
+      "देशों के नाम (भारत, रूस), पर्वतों के नाम (हिमालय), सागरों के नाम (हिंद महासागर), दिनों और महीनों के नाम (सोमवार, चैत्र)",
+      "नदियों के नाम, भाषाओं के नाम",
+      "तिथियों के नाम, लिपियों के नाम",
+      "बोलियों और झीलों के नाम"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "भूगोलीय महाद्वीप, देश, पर्वत, सागर, वार और महीने सर्वमान्य रूप से नित्य पुल्लिंग वर्ग में आते हैं।"
+  },
+  {
+    "classLevel": 6,
+    "subject": "Hindi Grammar",
+    "chapter": "Chapter 5: लिंग",
+    "question": "निम्नलिखित में से 'सदा स्त्रीलिंग' रहने वाले संज्ञा शब्दों का सही समूह कौन-सा है?",
+    "options": [
+      "नदियों के नाम (गंगा, कावेरी), भाषाओं और बोलियों के नाम (हिंदी, ब्रज), लिपियों के नाम (देवनागरी), तिथियों के नाम (एकादशी)",
+      "पेड़ों के नाम, फलों के नाम",
+      "अनाजों के नाम, ग्रहों के नाम",
+      "धातुओं और रत्नों के नाम"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "नदियों, भाषाओं, लिपियों, बोलियों तथा पंचांग तिथियों के नाम हिंदी में अनिवार्यतः स्त्रीलिंग होते हैं।"
+  },
+  {
+    "classLevel": 6,
+    "subject": "Hindi Grammar",
+    "chapter": "Chapter 5: लिंग",
+    "question": "अधिकांश धातुएँ और रत्न पुल्लिंग होते हैं, परन्तु कौन-सी धातु और रत्न अपवाद स्वरूप 'स्त्रीलिंग' माने जाते हैं?",
+    "options": [
+      "धातु में 'चाँदी' तथा रत्न में 'मणि' (स्त्रीलिंग)",
+      "लोहा और सोना",
+      "ताँबा और पीतल",
+      "हीरा और पन्ना"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "सोना, लोहा, ताँबा पुल्लिंग हैं, किन्तु 'चाँदी' धातु स्त्रीलिंग है; इसी प्रकार अधिकांश रत्न पुल्लिंग हैं किन्तु 'मणि' स्त्रीलिंग है।"
+  },
+  {
+    "classLevel": 6,
+    "subject": "Hindi Grammar",
+    "chapter": "Chapter 5: लिंग",
+    "question": "अधिकांश अनाज पुल्लिंग होते हैं (गेहूँ, चावल, चना, बाजरा), परन्तु कौन-से अनाज अपवाद स्वरूप 'स्त्रीलिंग' होते हैं?",
+    "options": [
+      "मक्का, ज्वार, मूँग, अरहर (स्त्रीलिंग)",
+      "गेहूँ और धान",
+      "चना और मटर",
+      "जौ और बाजरा"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "मक्का, ज्वार, मूँग, और अरहर दालें स्त्रीलिंग प्रयोग में आती हैं।"
+  },
+  {
+    "classLevel": 6,
+    "subject": "Hindi Grammar",
+    "chapter": "Chapter 5: लिंग",
+    "question": "अधिकांश द्रव पदार्थ पुल्लिंग होते हैं (पानी, दूध, तेल, घी, शर्बत), परन्तु कौन-से द्रव अपवाद स्वरूप 'स्त्रीलिंग' होते हैं?",
+    "options": [
+      "चाय, कॉफ़ी, लस्सी, शराब, छाछ (स्त्रीलिंग)",
+      "दूध और दही",
+      "तेल और पेट्रोल",
+      "पानी और शरबत"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "चाय, कॉफ़ी, लस्सी, छाछ आदि पेय पदार्थ व्याकरण में स्त्रीलिंग माने जाते हैं।"
+  },
+  {
+    "classLevel": 6,
+    "subject": "Hindi Grammar",
+    "chapter": "Chapter 5: लिंग",
+    "question": "पुल्लिंग शब्द 'श्रीमान' और 'आयुष्मान' के सही स्त्रीलिंग रूप क्रमशः क्या हैं?",
+    "options": [
+      "श्रीमती और आयुष्मती",
+      "श्रीमान्य और आयुष्मान्",
+      "श्रीवती और आयुष्मंती",
+      "श्रीमतीजी और आयुष्मनी"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "मान् का मती तथा वान् का वती: श्रीमान -> श्रीमती; आयुष्मान -> आयुष्मती; गुणवान -> गुणवती; बलवान -> बलवती।"
+  },
+  {
+    "classLevel": 6,
+    "subject": "Hindi Grammar",
+    "chapter": "Chapter 5: लिंग",
+    "question": "पुल्लिंग शब्द 'दाता', 'विधाता' और 'रचयिता' के सही स्त्रीलिंग रूप क्रमशः क्या हैं?",
+    "options": [
+      "दात्री, विधात्री, रचयित्री",
+      "दातिन, विधातिन, रचयिताइन",
+      "दाती, विधाती, रचयिती",
+      "दानी, विधाता, रचनाकार"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "संस्कृत तत्सम शब्दों में अंतस्थ 'ता' स्त्रीलिंग में 'त्री' बन जाता है: दाता -> दात्री; विधाता -> विधात्री; रचयिता -> रचयित्री।"
+  },
+  {
+    "classLevel": 6,
+    "subject": "Hindi Grammar",
+    "chapter": "Chapter 5: लिंग",
+    "question": "पुल्लिंग शब्द 'धोबी', 'माली' और 'तेली' में 'इन' प्रत्यय लगाने पर सही स्त्रीलिंग रूप क्या बनेंगे?",
+    "options": [
+      "धोबिन, मालिन, तेलिन",
+      "धोबनी, मालनी, तेलनी",
+      "धोबन, मालिया, तेलाई",
+      "धोबीइन, मालीइन, तेलीइन"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "ई-कारान्त पुल्लिंग शब्दों में 'इन' प्रत्यय लगने पर ई ह्रस्व होकर 'इन्' बनता है: धोबी -> धोबिन; माली -> मालिन; तेली -> तेलिन।"
+  },
+  {
+    "classLevel": 6,
+    "subject": "Hindi Grammar",
+    "chapter": "Chapter 5: लिंग",
+    "question": "पुल्लिंग शब्द 'पंडित', 'चौधरी' और 'ठाकुर' में 'आइन' प्रत्यय लगाने पर सही स्त्रीलिंग रूप क्या बनेंगे?",
+    "options": [
+      "पंडिताइन, चौधराइन, ठकुराइन",
+      "पंडिती, चौधरीनी, ठाकुरनी",
+      "पंडितनी, चौधरायन, ठकुरायन",
+      "पंडितानी, चौधरानी, ठाकुरानी"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "आइन प्रत्यय से स्त्रीलिंग निर्माण: पंडित -> पंडिताइन; चौधरी -> चौधराइन; ठाकुर -> ठकुराइन; बाबू -> बबुआइन।"
+  },
+  {
+    "classLevel": 6,
+    "subject": "Hindi Grammar",
+    "chapter": "Chapter 5: लिंग",
+    "question": "पुल्लिंग शब्द 'सेठ', 'देवर' और 'इंद्र' में 'आनी' प्रत्यय लगाने पर सही स्त्रीलिंग रूप क्या बनेंगे?",
+    "options": [
+      "सेठानी, देवरानी, इंद्राणी",
+      "सेठी, देवरी, इंद्री",
+      "सेठिन, देवरिन, इंद्रिन",
+      "सेठाइन, देवरिया, इंद्रा"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "आनी प्रत्यय से स्त्रीलिंग: सेठ -> सेठानी; देवर -> देवरानी; नौकर -> नौकरानी; इंद्र -> इंद्राणी; रुद्र -> रुद्राणी।"
+  },
+  {
+    "classLevel": 6,
+    "subject": "Hindi Grammar",
+    "chapter": "Chapter 5: लिंग",
+    "question": "पुल्लिंग शब्द 'नायक', 'गायक' और 'लेखक' में 'इका' प्रत्यय लगाने पर सही स्त्रीलिंग रूप क्या बनेंगे?",
+    "options": [
+      "नायिका, गायिका, लेखिका",
+      "नायकी, गायकी, लेखकी",
+      "नायकिन, गायकिन, लेखकिन",
+      "नायका, गायका, लेखका"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "अक-अन्त पुल्लिंग शब्दों में 'इका' प्रत्यय: नायक -> नायिका; गायक -> गायिका; लेखक -> लेखिका; पाठक -> पाठिका।"
+  },
+  {
+    "classLevel": 6,
+    "subject": "Hindi Grammar",
+    "chapter": "Chapter 5: लिंग",
+    "question": "पुल्लिंग शब्द 'हाथी' का शुद्ध मानक स्त्रीलिंग रूप क्या होता है?",
+    "options": [
+      "हथिनी",
+      "हाथिन",
+      "हाथिनी",
+      "हथनी"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "'हाथी' का मानक शुद्ध व्याकरणिक स्त्रीलिंग रूप 'हथिनी' (ह + थि + नी) होता है।"
+  },
+  {
+    "classLevel": 6,
+    "subject": "Hindi Grammar",
+    "chapter": "Chapter 5: लिंग",
+    "question": "वाक्य में प्रयुक्त क्रिया से लिंग की पहचान कीजिए:\n'पेड़ से पत्ता गिरा।' तथा 'डाल से पत्ती गिरी।'\nइन दोनों वाक्यों में 'पत्ता' और 'पत्ती' क्रमशः कौन-से लिंग हैं?",
+    "options": [
+      "पत्ता = पुल्लिंग ; पत्ती = स्त्रीलिंग",
+      "पत्ता = स्त्रीलिंग ; पत्ती = पुल्लिंग",
+      "दोनों पुल्लिंग हैं",
+      "दोनों स्त्रीलिंग हैं"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "क्रिया 'गिरा' पुल्लिंग है अतः पत्ता पुल्लिंग है; क्रिया 'गिरी' स्त्रीलिंग है अतः पत्ती स्त्रीलिंग है।"
+  },
+  {
+    "classLevel": 6,
+    "subject": "Hindi Grammar",
+    "chapter": "Chapter 5: लिंग",
+    "question": "कथन और कारण को ध्यानपूर्वक पढ़ें:\nकथन (A): 'दही' शब्द हिंदी व्याकरण में पुल्लिंग है, स्त्रीलिंग नहीं।\nकारण (R): वाक्य प्रयोग में 'दही खट्टा है' (पुल्लिंग क्रिया/विशेषण) मानक माना जाता है, 'दही खट्टी है' अशुद्ध है।\nसही विकल्प चुनें:",
+    "options": [
+      "(A) और (R) दोनों सही हैं तथा (R), (A) की सही व्याख्या करता है।",
+      "(A) और (R) दोनों सही हैं, परन्तु (R), (A) की सही व्याख्या नहीं करता।",
+      "(A) सही है, परन्तु (R) गलत है।",
+      "(A) गलत है, परन्तु (R) सही है।"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "हिंदी मानक व्याकरण के अनुसार 'दही' ई-कारान्त होते हुए भी अपवाद स्वरूप पुल्लिंग शब्द है (दही जम गया, दही खट्टा है)।"
+  },
+  {
+    "classLevel": 6,
+    "subject": "Hindi Grammar",
+    "chapter": "Chapter 5: लिंग",
+    "question": "Spot the IMPOSTER in the following group of ई-कारान्त शब्दों के लिंग के आधार पर:\nGroup: [नदी, रोटी, टोपी, पानी]",
+    "options": [
+      "नदी",
+      "रोटी",
+      "टोपी",
+      "पानी"
+    ],
+    "correctAnswer": 3,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "'पानी' पुल्लिंग शब्द है (पानी बहता है, ठंडा पानी), जबकि नदी, रोटी और टोपी स्त्रीलिंग शब्द हैं।"
+  },
+  {
+    "classLevel": 6,
+    "subject": "Hindi Grammar",
+    "chapter": "Chapter 5: लिंग",
+    "question": "सुमेलित कीजिए (पुल्लिंग और स्त्रीलिंग के विशिष्ट तत्सम युग्म):\n(क) विद्वान  -> (i) तपस्विनी\n(ख) तपस्वी   -> (ii) विदुषी\n(ग) सम्राट    -> (iii) साध्वी\n(घ) साधु     -> (iv) सम्राज्ञी",
+    "options": [
+      "क-(ii), ख-(i), ग-(iv), घ-(iii)",
+      "क-(i), ख-(ii), ग-(iii), घ-(iv)",
+      "क-(iv), ख-(iii), ग-(ii), घ-(i)",
+      "क-(iii), ख-(iv), ग-(i), घ-(ii)"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "विद्वान = विदुषी; तपस्वी = तपस्विनी; सम्राट = सम्राज्ञी; साधु = साध्वी।"
+  },
+  {
+    "classLevel": 6,
+    "subject": "Hindi Grammar",
+    "chapter": "Chapter 5: लिंग",
+    "question": "निम्नलिखित प्रत्ययों वाले भाववाचक शब्दों के लिंग के संदर्भ में कौन-सा कथन सत्य है?",
+    "options": [
+      "जिन शब्दों के अंत में 'ता', 'आई', 'आवट', 'आहट', 'इमा' प्रत्यय आते हैं (जैसे: सुंदरता, भलाई, सजावट, घबराहट, लालिमा), वे प्रायः स्त्रीलिंग होते हैं",
+      "वे सदा पुल्लिंग होते हैं",
+      "वे उभयलिंगी होते हैं",
+      "वे अविकारी होते हैं"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "ता, आई, आवट, आहट, इमा, ई प्रत्ययान्त भाववाचक शब्द (मानवता, लिखाई, लिखावट, चिकनाहट, महिमा) अनिवार्यतः स्त्रीलिंग होते हैं।"
+  },
+  {
+    "classLevel": 6,
+    "subject": "Hindi Grammar",
+    "chapter": "Chapter 5: लिंग",
+    "question": "जिन भाववाचक शब्दों के अंत में 'त्व', 'पन', 'पा', 'आव', 'आस' आते हैं (जैसे: मनुष्यत्व, बचपन, बुढ़ापा, बहाव, निकास), वे प्रायः किस लिंग में होते हैं?",
+    "options": [
+      "पुल्लिंग (जैसे: देवत्व, अपनापन, मोटापा, फैलाव)",
+      "स्त्रीलिंग",
+      "नपुंसकलिंग",
+      "उभयलिंगी"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "त्व, पन, पा, आव प्रत्ययान्त भाववाचक संज्ञाएँ सदा पुल्लिंग होती हैं।"
+  },
+  {
+    "classLevel": 6,
+    "subject": "Hindi Grammar",
+    "chapter": "Chapter 5: लिंग",
+    "question": "निम्नलिखित वाक्यों पर विचार कीजिए:\nवाक्य 1: 'चील आकाश में उड़ रही है।' (यहाँ 'चील' नित्य स्त्रीलिंग है।)\nवाक्य 2: 'मच्छर काट रहा है।' (यहाँ 'मच्छर' नित्य पुल्लिंग है।)\nवाक्य 3: 'कोयल मधुर गाती है।' (यहाँ 'कोयल' नित्य स्त्रीलिंग है।)\nकौन-से वाक्य पूर्णतः सत्य हैं?",
+    "options": [
+      "सभी वाक्य 1, 2 और 3 सत्य हैं",
+      "वाक्य 1 और 2 केवल",
+      "वाक्य 2 and 3 केवल",
+      "वाक्य 1 और 3 केवल"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "चील व कोयल नित्य स्त्रीलिंग तथा मच्छर नित्य पुल्लिंग प्राणीवाचक संज्ञाओं के मानक प्रमाण हैं।"
+  },
+  {
+    "classLevel": 6,
+    "subject": "Hindi Grammar",
+    "chapter": "Chapter 5: लिंग",
+    "question": "पुल्लिंग शब्द 'महान' और 'युवा' के सही स्त्रीलिंग रूप क्रमशः क्या हैं?",
+    "options": [
+      "महती और युवती",
+      "महानता और युवती",
+      "महानि और युवतिन",
+      "महानी और युवानी"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "'महान' का तत्सम स्त्रीलिंग रूप 'महती' (जैसे महती कृपा) तथा 'युवा' का स्त्रीलिंग 'युवती' होता है।"
+  },
+  {
+    "classLevel": 6,
+    "subject": "Hindi Grammar",
+    "chapter": "Chapter 5: लिंग",
+    "question": "शरीर के अंगों के नाम में कौन-से अंग अपवाद स्वरूप 'स्त्रीलिंग' होते हैं?",
+    "options": [
+      "आँख, नाक, जीभ, ठोड़ी, उँगली, कमर (स्त्रीलिंग)",
+      "हाथ, पैर, सिर, कान, मुँह, पेट (पुल्लिंग)",
+      "हृदय, फेफड़ा, घुटना (पुल्लिंग)",
+      "दाँत, नाखून, बाल (पुल्लिंग)"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "हाथ, पैर, कान, सिर पुल्लिंग हैं, जबकि आँख, नाक, जीभ, ठोड़ी, उँगली, कलाई स्त्रीलिंग हैं।"
+  },
+  {
+    "classLevel": 6,
+    "subject": "Hindi Grammar",
+    "chapter": "Chapter 5: लिंग",
+    "question": "सौरमंडल के सभी ग्रहों के नाम पुल्लिंग होते हैं (सूर्य, चंद्र, मंगल, बुध, गुरु, शुक्र, शनि, राहु, केतु), परन्तु कौन-सा ग्रह अपवाद स्वरूप 'स्त्रीलिंग' है?",
+    "options": [
+      "पृथ्वी (Earth - स्त्रीलिंग)",
+      "मंगल",
+      "शुक्र",
+      "बृहस्पति"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "'पृथ्वी' हमारी धरती माता होने के कारण व्याकरण में एकमात्र स्त्रीलिंग ग्रह नाम है।"
+  },
+  {
+    "classLevel": 6,
+    "subject": "Hindi Grammar",
+    "chapter": "Chapter 5: लिंग",
+    "question": "पुल्लिंग शब्द 'बिलाव' (या बिलाव/बिलाड़) का सही स्त्रीलिंग रूप क्या है?",
+    "options": [
+      "बिल्ली",
+      "बिलाविन",
+      "बिलावी",
+      "बिलैया"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "नर मार्जार को 'बिलाव' तथा मादा मार्जार को 'बिल्ली' कहा जाता है।"
+  },
+  {
+    "classLevel": 6,
+    "subject": "Hindi Grammar",
+    "chapter": "Chapter 5: लिंग",
+    "question": "पुल्लिंग शब्द 'भेड़िया' का सही स्त्रीलिंग रूप क्या होगा?",
+    "options": [
+      "मादा भेड़िया",
+      "भेड़िन",
+      "भेड़ी",
+      "भेड़ियाइन"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "'भेड़िया' नित्य पुल्लिंग शब्द है, अतः इसका स्त्रीलिंग 'मादा भेड़िया' बनता है ('भेड़' अलग प्रजाति का जीव है)।"
+  },
+  {
+    "classLevel": 6,
+    "subject": "Hindi Grammar",
+    "chapter": "Chapter 5: लिंग",
+    "question": "वाक्य में रेखांकित पदों के लिंग का सही युग्म चुनिए:\n'**न्यायाधीश** ने मुजरिम को **सज़ा** सुनाई।'\nयहाँ 'न्यायाधीश' और 'सज़ा' क्रमशः कौन-से लिंग हैं?",
+    "options": [
+      "न्यायाधीश = उभयलिंगी (पुल्लिंग पद) ; सज़ा = स्त्रीलिंग",
+      "न्यायाधीश = स्त्रीलिंग ; सज़ा = पुल्लिंग",
+      "दोनों पुल्लिंग हैं",
+      "दोनों स्त्रीलिंग हैं"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "न्यायाधीश एक उभयलिंगी पद-नाम है, और 'सज़ा' (उर्दू आगत) एक स्त्रीलिंग संज्ञा है (सज़ा सुनाई गई)।"
+  }
+]

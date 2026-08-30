@@ -1,0 +1,642 @@
+[
+  {
+    "classLevel": 6,
+    "subject": "Social Science",
+    "chapter": "Chapter 6: Major Landforms of the Earth",
+    "question": "Any natural elevation of the Earth's surface considerably higher and steeper than the surrounding area, with a small summit and broad base, is a:",
+    "options": [
+      "Mountain",
+      "Plateau",
+      "Plain",
+      "Valley"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "A mountain is a steep natural topographic elevation rising significantly above the surrounding terrain."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Social Science",
+    "chapter": "Chapter 6: Major Landforms of the Earth",
+    "question": "A line or continuous arrangement of mountains stretching over hundreds of kilometers is called a:",
+    "options": [
+      "Mountain Range (e.g. Himalayas, Andes, Alps)",
+      "Plateau",
+      "Valley",
+      "Ridge"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "A mountain range is a linear succession of interconnected mountain ridges and summits."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Social Science",
+    "chapter": "Chapter 6: Major Landforms of the Earth",
+    "question": "Permanently frozen rivers of solid ice moving slowly down high mountain slopes are called:",
+    "options": [
+      "Glaciers (e.g. Gangotri, Siachen)",
+      "Waterfalls",
+      "Rivers",
+      "Avalanches"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "Glaciers are persistent masses of recrystallized ice flowing downhill under gravity in high alpine zones."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Social Science",
+    "chapter": "Chapter 6: Major Landforms of the Earth",
+    "question": "Mountains formed by the tectonic folding and buckling of crustal rock layers under intense compressive forces are called:",
+    "options": [
+      "Fold Mountains (e.g., Himalayas, Alps, Aravalli, Rockies)",
+      "Block Mountains",
+      "Volcanic Mountains",
+      "Residual Mountains"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "Fold mountains form at convergent plate boundaries where crustal sediments buckle into anticlines and synclines."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Social Science",
+    "chapter": "Chapter 6: Major Landforms of the Earth",
+    "question": "What are the two major youthful fold mountain systems in Asia and Europe characterized by rugged relief and high conical peaks?",
+    "options": [
+      "The Himalayas (Asia) and the Alps (Europe)",
+      "The Urals and Appalachians",
+      "The Vosges and Black Forest",
+      "Kilimanjaro and Fujiyama"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "The Himalayas and Alps are young Cenozoic fold mountain belts with sharp soaring peaks and deep gorges."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Social Science",
+    "chapter": "Chapter 6: Major Landforms of the Earth",
+    "question": "An elevated flat-topped tableland standing abruptly above the surrounding area with one or more steep sides is called a:",
+    "options": [
+      "Plateau (e.g., Deccan Plateau, Tibetan Plateau)",
+      "Plain",
+      "Mountain",
+      "Canyon"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "A plateau is a high-altitude, flat-topped geomorphic tableland bounded by steep escarpments."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Social Science",
+    "chapter": "Chapter 6: Major Landforms of the Earth",
+    "question": "What is the highest plateau in the world (often crowned the 'Roof of the World') with an elevation of 4,000 to 6,000 meters above sea level?",
+    "options": [
+      "Tibetan Plateau",
+      "Deccan Plateau",
+      "East African Plateau",
+      "Colorado Plateau"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "The Tibetan Plateau covers 2.5 million km² at an average altitude exceeding 4,500 m."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Social Science",
+    "chapter": "Chapter 6: Major Landforms of the Earth",
+    "question": "Vast, low-lying flat stretches of land generally not more than 200 meters above mean sea level are called:",
+    "options": [
+      "Plains (e.g., Indo-Gangetic Plain)",
+      "Plateaus",
+      "Mountains",
+      "Valleys"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "Plains are extensive level landscapes formed by fluvial alluvium deposition along river systems."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Social Science",
+    "chapter": "Chapter 6: Major Landforms of the Earth",
+    "question": "Why are river Plains the MOST DENSELY POPULATED regions in the world?",
+    "options": [
+      "Extremely fertile alluvial soil, abundance of fresh river water, level flat land easy for agriculture, transport networks, and building cities",
+      "Because plains have no trees",
+      "Because mountains are too hot",
+      "Because plains have no gravity"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "Deep alluvial topsoils, perennial irrigation, and flat topography support high-yield agriculture and urban transport infrastructure."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Social Science",
+    "chapter": "Chapter 6: Major Landforms of the Earth",
+    "question": "Mountains formed due to the accumulation and cooling of molten volcanic lava, ash, and pyroclastic ejecta around a volcanic vent are:",
+    "options": [
+      "Volcanic Mountains (e.g., Mount Kilimanjaro in Africa, Mount Fujiyama in Japan)",
+      "Fold Mountains",
+      "Block Mountains",
+      "Erosional Mountains"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "Volcanic stratocones (Kilimanjaro, Fuji, Vesuvius) are constructed from repeated cooled lava flows and tephra."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Social Science",
+    "chapter": "Chapter 6: Major Landforms of the Earth",
+    "question": "The process of the Earth's surface wearing away and being carried down by running water, wind, and glaciers is called:",
+    "options": [
+      "Erosion",
+      "Deposition",
+      "Volcanism",
+      "Faulting"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "Erosion is the exogenic geomorphic breakdown and transport of rock particles by mobile natural agents."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Social Science",
+    "chapter": "Chapter 6: Major Landforms of the Earth",
+    "question": "The process of dropping and laying down weathered rock sediments by water, wind, or ice to rebuild landforms is called:",
+    "options": [
+      "Deposition",
+      "Erosion",
+      "Subduction",
+      "Weathering"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "Deposition occurs when the kinetic transport energy of wind, rivers, or glaciers wanes, dropping alluvial silt."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Social Science",
+    "chapter": "Chapter 6: Major Landforms of the Earth",
+    "question": "How are 'Block Mountains' formed when large sections of the Earth's crust crack, fault, and displace vertically?",
+    "options": [
+      "The uplifted block between faults is called a 'Horst' (Block Mountain) and the sunken depressed valley between them is called a 'Graben' (Rift Valley)",
+      "Lava explodes into the sky",
+      "Rivers cut through soft clay",
+      "Glaciers melt into water"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "Tensional crustal faulting raises horst block massifs (e.g. Vosges, Black Forest) and drops graben rift valleys (Rhine Valley)."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Social Science",
+    "chapter": "Chapter 6: Major Landforms of the Earth",
+    "question": "Which of the following mountain ranges in Europe are classic examples of Block Mountains and an associated Rift Valley?",
+    "options": [
+      "The Rhine Valley and the Vosges / Black Forest mountains",
+      "The Alps and Himalayas",
+      "The Urals and Aravalli",
+      "The Andes and Rockies"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "The Rhine Graben rift valley is bounded on either side by the uplifted Vosges and Black Forest horst fault blocks."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Social Science",
+    "chapter": "Chapter 6: Major Landforms of the Earth",
+    "question": "Why is the ancient Aravalli Range in India low, rounded, and devoid of sharp conical peaks compared to the towering Himalayas?",
+    "options": [
+      "It is one of the oldest fold mountain systems in the world that has suffered millions of years of continuous weathering and erosion (Old Fold Mountains)",
+      "It was built by volcanic lava",
+      "It was built by human hands",
+      "It sank into the ocean"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "Proterozoic orogenies created the Aravallis, which over hundreds of millions of years eroded into relict peneplains."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Social Science",
+    "chapter": "Chapter 6: Major Landforms of the Earth",
+    "question": "Why are Plateaus world-renowned as the richest storehouses of valuable mineral deposits?",
+    "options": [
+      "Ancient volcanic and metamorphic activity concentrated rich ores (e.g. Iron, Coal, Manganese, Gold, Diamonds) in plateau rocks",
+      "Because rivers wash gold onto plateaus",
+      "Because plateaus are made of plastic",
+      "Because plants turn into diamonds on plateaus"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "Cratonic basalt and crystalline shields in plateaus host vast metallic ores (e.g. Chota Nagpur plateau iron/coal, African gold/diamonds)."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Social Science",
+    "chapter": "Chapter 6: Major Landforms of the Earth",
+    "question": "Which mineral-rich plateau in eastern India is famous as the 'Ruhr of India' for its massive reserves of iron ore, coal, bauxite, and manganese?",
+    "options": [
+      "Chota Nagpur Plateau (Jharkhand/Odisha/Chhattisgarh)",
+      "Malwa Plateau",
+      "Shillong Plateau",
+      "Ladakh Plateau"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "The Gondwana formations and Dharwar shield of the Chota Nagpur Plateau supply India's primary industrial heavy metals."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Social Science",
+    "chapter": "Chapter 6: Major Landforms of the Earth",
+    "question": "What is the famous scenic waterfall located on the Subarnarekha River in the Chota Nagpur Plateau of Jharkhand?",
+    "options": [
+      "Hundru Falls",
+      "Jog Falls",
+      "Dhuandhar Falls",
+      "Nohkalikai Falls"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "Hundru Falls plunges 98 meters over a steep escarpment of the Subarnarekha River near Ranchi."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Social Science",
+    "chapter": "Chapter 6: Major Landforms of the Earth",
+    "question": "What famous waterfall on the Sharavathi River in the Western Ghats plateau of Karnataka plunges 253 meters in four cascades?",
+    "options": [
+      "Jog Falls (Gersoppa Falls)",
+      "Hundru Falls",
+      "Shivanasamudra Falls",
+      "Dudhsagar Falls"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "Jog Falls cascades down the rugged western plateau escarpment in four torrents: Raja, Roarer, Rocket, and Rani."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Social Science",
+    "chapter": "Chapter 6: Major Landforms of the Earth",
+    "question": "Why are the volcanic Black Soil (Regur soil) areas of the Deccan Plateau highly prized for agriculture, especially for growing Cotton?",
+    "options": [
+      "Formed from weathered volcanic basalt lava, black soil is exceptionally rich in clay minerals, highly fertile, and retains moisture for long durations",
+      "Because black soil has no water",
+      "Because black soil turns white in winter",
+      "Because it contains natural dye"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "Montmorillonite-rich basaltic regur soils possess exceptional cation exchange capacity and hygroscopic moisture retention ideal for cotton."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Social Science",
+    "chapter": "Chapter 6: Major Landforms of the Earth",
+    "question": "How did the great Northern Plains of India (Indo-Gangetic-Brahmaputra Plains) form over geological epochs?",
+    "options": [
+      "Perennial Himalayan and peninsular rivers deposited millions of tonnes of fine silt, clay, and sand (Alluvium) in a vast subsiding foreland basin over millions of years",
+      "By volcanic lava filling the sea",
+      "By wind blowing sand from the Thar desert",
+      "By glaciers melting in one day"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "Continuous aggradation of fertile alluvium in the Himalayan foredeep depression by the Indus, Ganga, and Brahmaputra formed these vast plains."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Social Science",
+    "chapter": "Chapter 6: Major Landforms of the Earth",
+    "question": "Which vast plain in China is formed by the extensive alluvial silt deposition of the Yangtze and Yellow (Huang He) rivers?",
+    "options": [
+      "Yangtze / North China Plain",
+      "Siberian Plain",
+      "Manchurian Plain",
+      "Gobi Plain"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "The densely populated North China Plain was built by loess silt transport and flood deposits of the Huang He and Yangtze."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Social Science",
+    "chapter": "Chapter 6: Major Landforms of the Earth",
+    "question": "What are the two major continuous processes constantly shaping and modifying the Earth's surface landforms?",
+    "options": [
+      "Internal (Endogenic) processes causing crustal uplift/sinking AND External (Exogenic) processes of erosion and deposition",
+      "Solar eclipses and lunar tides",
+      "Ocean waves and lightning",
+      "Plant growth and animal walking"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "Internal tectonic forces (volcanism, orogeny) uplift relief, while external agents (water, wind, ice) erode and level the terrain."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Social Science",
+    "chapter": "Chapter 6: Major Landforms of the Earth",
+    "question": "Why do Mountain regions generally have very sparse human populations compared to Plains?",
+    "options": [
+      "Harsh freezing climate, steep rocky slopes unsuitable for farming, thin infertile soil, and extreme difficulty in building transport roads and railways",
+      "Because mountains have no water",
+      "Because mountains move every week",
+      "Because wild animals do not allow humans"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "Steep slope gradients, severe weather, mass-wasting hazards, and logistical construction barriers severely limit demographic carrying capacity."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Social Science",
+    "chapter": "Chapter 6: Major Landforms of the Earth",
+    "question": "What agricultural technique is practiced by farmers on steep mountain hillsides to carve out flat step-like fields and prevent soil erosion?",
+    "options": [
+      "Terrace Farming (Step Cultivation)",
+      "Strip Mining",
+      "Slash and Burn",
+      "Hydroponics"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "Contour bench terracing creates flat horizontal steps, slowing runoff velocity and conserving irrigation water on steep slopes."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Social Science",
+    "chapter": "Chapter 6: Major Landforms of the Earth",
+    "question": "Which of the following mountain sports and tourism activities are popular in high snow-covered mountains?",
+    "options": [
+      "Skiing, Paragliding, Mountaineering, and River Rafting",
+      "Deep sea diving",
+      "Desert dune bashing",
+      "Submarine racing"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "High alpine relief and snow-covered slopes provide ideal environments for winter sports, climbing expeditions, and adventure tourism."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Social Science",
+    "chapter": "Chapter 6: Major Landforms of the Earth",
+    "question": "Why are mountains rightly called 'Storehouses of Water' for continental river systems?",
+    "options": [
+      "Vast glaciers on high peaks store frozen freshwater that melts in summer, feeding perennial rivers that provide drinking and irrigation water to millions downstream",
+      "Mountains pump water from the center of Earth",
+      "Mountains make water from rocks",
+      "Mountains stop all clouds permanently"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "Glacial meltwaters and orographic rainfall in mountain catchments sustain perennial river systems (Ganga, Indus, Brahmaputra)."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Social Science",
+    "chapter": "Chapter 6: Major Landforms of the Earth",
+    "question": "What is the crucial difference between a Mountain and a Hill?",
+    "options": [
+      "A hill is a land surface with a rounded summit rising moderately above surrounding areas, whereas a steep hill with an elevation of more than 600 meters is classified as a Mountain",
+      "Hills are made of ice and mountains of rock",
+      "Hills only exist in oceans",
+      "There is no difference"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "Standard geographic conventions classify land elevations with steep slopes rising above 600 meters as mountains."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Social Science",
+    "chapter": "Chapter 6: Major Landforms of the Earth",
+    "question": "Read the statements:\nAssertion (A): The Indo-Gangetic plains are the most productive agricultural granary of India.\nReason (R): Perennial river channels replenish fresh, mineral-rich alluvium annually, accompanied by extensive canal irrigation networks and favorable flat topography.\nChoose the correct option:",
+    "options": [
+      "Both (A) and (R) are true, and (R) is the correct explanation of (A).",
+      "Both (A) and (R) are true, but (R) is NOT the correct explanation of (A).",
+      "(A) is true, but (R) is false.",
+      "(A) is false, but (R) is true."
+    ],
+    "correctAnswer": 0,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "Annual khadar alluvium deposition combined with groundwater aquifers makes the Indo-Gangetic basin one of Earth's most fertile agricultural zones."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Social Science",
+    "chapter": "Chapter 6: Major Landforms of the Earth",
+    "question": "Spot the IMPOSTER in the following group of mountains classified by their geological type:\nGroup: [Himalayas (Fold), Alps (Fold), Rockies (Fold), Mount Kilimanjaro (Fold)]",
+    "options": [
+      "Himalayas (Fold)",
+      "Alps (Fold)",
+      "Rockies (Fold)",
+      "Mount Kilimanjaro (Fold)"
+    ],
+    "correctAnswer": 3,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "Mount Kilimanjaro in Tanzania is a VOLCANIC MOUNTAIN (stratovolcano), NOT a Fold Mountain."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Social Science",
+    "chapter": "Chapter 6: Major Landforms of the Earth",
+    "question": "A tectonic geomorphologist analyzes the Rhine Valley in Germany and the Vosges Mountain in France. What structural landform pair is represented?",
+    "options": [
+      "Rhine Valley = Graben (Rift Valley) ; Vosges = Horst (Block Mountain)",
+      "Rhine Valley = Horst ; Vosges = Graben",
+      "Both are Fold Mountains",
+      "Both are Volcanic stratocones"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "Parallel extensional normal faulting dropped the central Rhine graben while leaving the adjacent Vosges and Black Forest horst blocks elevated."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Social Science",
+    "chapter": "Chapter 6: Major Landforms of the Earth",
+    "question": "Match Column I (Mountain Systems) with Column II (Geological Types & Continents):\n(a) Mount Fujiyama -> (i) Old Fold Mountain (India)\n(b) Himalayas       -> (ii) Volcanic Mountain (Japan)\n(c) Vosges          -> (iii) Young Fold Mountain (Asia)\n(d) Aravalli        -> (iv) Block Mountain (Europe)",
+    "options": [
+      "a-(ii), b-(iii), c-(iv), d-(i)",
+      "a-(i), b-(ii), c-(iii), d-(iv)",
+      "a-(iv), b-(iii), c-(ii), d-(i)",
+      "a-(iii), b-(iv), c-(i), d-(ii)"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "Fujiyama = Volcanic; Himalayas = Young Fold; Vosges = Block; Aravalli = Old Fold."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Social Science",
+    "chapter": "Chapter 6: Major Landforms of the Earth",
+    "question": "Read the statements:\nStatement 1: The Appalachian Mountains in North America and the Ural Mountains in Russia are Old Fold Mountains with rounded features and low elevation.\nStatement 2: The Deccan Plateau in India is one of the oldest volcanic basalt plateaus in the world.\nStatement 3: Plains are formed exclusively by glaciers and never by rivers.\nWhich statements are TRUE?",
+    "options": [
+      "Statements 1 and 2 only",
+      "Statements 2 and 3 only",
+      "Statements 1 and 3 only",
+      "All Statements 1, 2, and 3"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "Statement 3 is false because most of the world's great plains are formed by river alluvium deposition. Statements 1 and 2 are true."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Social Science",
+    "chapter": "Chapter 6: Major Landforms of the Earth",
+    "question": "Why is building linear transport infrastructure (like multi-lane highways and broad-gauge railways) exponentially more expensive and technically difficult in mountainous terrain than in flat plains?",
+    "options": [
+      "Rugged topography demands costly construction of deep tunnels, high viaduct bridges, slope stabilization against landslides, and steep gradient switchbacks",
+      "Because mountain stone cannot be cut",
+      "Because trains cannot run at high altitudes",
+      "Because concrete melts in cold air"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "Steep gradients, slope instability, and seismic hazards necessitate complex civil engineering (tunnels, viaducts, avalanche sheds)."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Social Science",
+    "chapter": "Chapter 6: Major Landforms of the Earth",
+    "question": "What is the primary ecological hazard caused by reckless deforestation, quarrying, and unplanned concrete construction on mountain slopes?",
+    "options": [
+      "Severe slope destabilization triggering catastrophic Landslides, flash floods, topsoil erosion, and loss of human settlements",
+      "The mountain turning into a volcano",
+      "The mountain flying into space",
+      "Rivers turning into ice permanently"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "Stripping stabilizing vegetative root matrices triggers mass-wasting debris flows, soil creep, and deadly landslides during monsoons."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Social Science",
+    "chapter": "Chapter 6: Major Landforms of the Earth",
+    "question": "Consider four major plateaus of the world:\n1. Tibetan Plateau (4,500m - 6,000m)\n2. Deccan Plateau (600m - 900m)\n3. East African Plateau (1,000m - 1,500m)\n4. Western Australian Plateau (300m - 600m)\nWhich plateau holds the title of the Highest Plateau on Earth?",
+    "options": [
+      "Plateau 1 (Tibetan Plateau)",
+      "Plateau 2",
+      "Plateau 3",
+      "Plateau 4"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "The Tibetan Plateau is the highest and largest plateau on Earth with an average elevation exceeding 4,500 meters."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Social Science",
+    "chapter": "Chapter 6: Major Landforms of the Earth",
+    "question": "How do volcanic ash soils on the slopes of volcanic mountains (such as around Mount Vesuvius or Mount Etna) benefit agriculture?",
+    "options": [
+      "Weathered tephra and volcanic ash are extraordinarily rich in bioavailable potassium, phosphorus, iron, and trace minerals, creating fertile soils for vineyards and orchards",
+      "Volcanic ash freezes the crops",
+      "Volcanic soil prevents weeds by burning them",
+      "Volcanic soil produces diamonds"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "Andisols formed from volcanic ejecta possess exceptional mineral nutrient fertility and water retention capacity."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Social Science",
+    "chapter": "Chapter 6: Major Landforms of the Earth",
+    "question": "What is the geographic name for a steep cliff or long rock wall marking the edge of a plateau or separating two relatively level areas of different elevations?",
+    "options": [
+      "Escarpment (or Scarp)",
+      "Pass",
+      "Delta",
+      "Gorge"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "An escarpment is a steep, precipitous cliff or slope resulting from faulting or erosion separating high plateau tablelands from lowlands."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Social Science",
+    "chapter": "Chapter 6: Major Landforms of the Earth",
+    "question": "Which of the following accurately contrasts the economic significance of Mountains versus Plateaus versus Plains?",
+    "options": [
+      "Mountains = Water storehouses, timber forests & tourism ; Plateaus = Rich mineral ore reserves & hydroelectric waterfalls ; Plains = Intensive agriculture & human settlements",
+      "Mountains = Only for farming ; Plateaus = No minerals ; Plains = High altitude sports",
+      "All three have identical economic roles",
+      "Plains have only mineral ores"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "Each geomorphic macro-domain provides distinct economic utility: mountains supply hydrologic heads/forests, plateaus yield mineral wealth, and plains provide arable farmland."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Social Science",
+    "chapter": "Chapter 6: Major Landforms of the Earth",
+    "question": "What international civic responsibility is emphasized in NCERT Social Science regarding the stewardship of land and water resources?",
+    "options": [
+      "Conserving land and water for future generations, avoiding wasteful pollution of fertile land with plastic/garbage, and living sustainably in harmony with nature",
+      "Covering all mountains with concrete",
+      "Draining all river water into the desert",
+      "Building factories inside all forests"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "Sustainable land management requires treating soil, mountains, and water as shared intergenerational ecological heritage."
+  }
+]

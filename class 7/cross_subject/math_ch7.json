@@ -1,0 +1,642 @@
+[
+  {
+    "classLevel": 7,
+    "subject": "Mathematics",
+    "chapter": "Chapter 7: Comparing Quantities",
+    "question": "Find the Ratio of 5 m to 10 km in its simplest form:",
+    "options": [
+      "1 : 2000 (10 km = 10,000 m ; 5 / 10,000 = 1 / 2000)",
+      "1 : 2",
+      "1 : 200",
+      "1 : 20"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "Units must match: 10 km = 10,000 m. Ratio = 5 m : 10,000 m = 1 : 2000."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Mathematics",
+    "chapter": "Chapter 7: Comparing Quantities",
+    "question": "Find the Ratio of 50 paise to Rs 5 in its simplest form:",
+    "options": [
+      "1 : 10 (Rs 5 = 500 paise ; 50 / 500 = 1 / 10)",
+      "1 : 100",
+      "1 : 5",
+      "10 : 1"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "Rs 5 = 500 paise. Ratio = 50 : 500 = 1 : 10."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Mathematics",
+    "chapter": "Chapter 7: Comparing Quantities",
+    "question": "Convert the fraction 3/4 into a Percentage:",
+    "options": [
+      "75% ((3 / 4) × 100% = 75%)",
+      "34%",
+      "60%",
+      "80%"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "Fraction to percentage: (3/4) × 100% = 75%."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Mathematics",
+    "chapter": "Chapter 7: Comparing Quantities",
+    "question": "Convert 65% into a Fraction in its simplest reduced form:",
+    "options": [
+      "13/20 (65 / 100 = 13 / 20)",
+      "13/25",
+      "65/10",
+      "3/5"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "65% = 65/100 = 13/20."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Mathematics",
+    "chapter": "Chapter 7: Comparing Quantities",
+    "question": "Find 15% of 250:",
+    "options": [
+      "37.5 ((15 / 100) × 250 = 37.5)",
+      "35",
+      "40",
+      "32.5"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "15% of 250 = 0.15 × 250 = 37.5."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Mathematics",
+    "chapter": "Chapter 7: Comparing Quantities",
+    "question": "Convert the decimal 0.65 into a Percentage:",
+    "options": [
+      "65% (0.65 × 100% = 65%)",
+      "6.5%",
+      "0.065%",
+      "650%"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "0.65 × 100% = 65%."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Mathematics",
+    "chapter": "Chapter 7: Comparing Quantities",
+    "question": "If Selling Price (SP) is GREATER than Cost Price (CP), the transaction results in a:",
+    "options": [
+      "Profit (Profit = SP - CP)",
+      "Loss (Loss = CP - SP)",
+      "No Profit No Loss",
+      "Discount"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "When SP > CP, there is a profit: Profit = SP - CP."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Mathematics",
+    "chapter": "Chapter 7: Comparing Quantities",
+    "question": "If Cost Price (CP) is GREATER than Selling Price (SP), the transaction results in a:",
+    "options": [
+      "Loss (Loss = CP - SP)",
+      "Profit",
+      "Interest",
+      "Amount"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "When CP > SP, the seller incurs a loss: Loss = CP - SP."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Mathematics",
+    "chapter": "Chapter 7: Comparing Quantities",
+    "question": "What is the standard formula for calculating SIMPLE INTEREST (SI)?",
+    "options": [
+      "SI = (P × R × T) / 100 (where P = Principal, R = Rate % per annum, T = Time in years)",
+      "SI = P + R + T",
+      "SI = (P × R) / T",
+      "SI = P × (1 + R/100)"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "Simple Interest formula: SI = (Principal × Rate × Time) / 100."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Mathematics",
+    "chapter": "Chapter 7: Comparing Quantities",
+    "question": "What is the total Amount (A) paid at the end of the loan tenure?",
+    "options": [
+      "Amount = Principal + Simple Interest (A = P + SI)",
+      "Amount = Principal - Simple Interest",
+      "Amount = Principal × Rate",
+      "Amount = SI / Time"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "Total Amount A = Principal + Simple Interest (A = P + SI)."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Mathematics",
+    "chapter": "Chapter 7: Comparing Quantities",
+    "question": "An item bought for Rs 200 is sold for Rs 250. Find the Profit Percentage:",
+    "options": [
+      "25% (Profit = 250 - 200 = Rs 50 ; Profit % = (50 / 200) × 100% = 25%)",
+      "20%",
+      "50%",
+      "30%"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "Profit = 250 - 200 = 50. Profit % = (50/200) × 100 = 25%."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Mathematics",
+    "chapter": "Chapter 7: Comparing Quantities",
+    "question": "Find the Simple Interest on Rs 1,000 for 2 years at 5% per annum:",
+    "options": [
+      "Rs 100 (SI = (1000 × 5 × 2) / 100 = Rs 100)",
+      "Rs 50",
+      "Rs 200",
+      "Rs 150"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "SI = (1000 × 5 × 2)/100 = Rs 100."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Mathematics",
+    "chapter": "Chapter 7: Comparing Quantities",
+    "question": "Out of 25 students in a class, 72% are good in mathematics. How many students are NOT good in mathematics?",
+    "options": [
+      "7 students (Not good % = 100% - 72% = 28% ; Number = (28 / 100) × 25 = 7 students)",
+      "18 students",
+      "5 students",
+      "8 students"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "28% of 25 = 0.28 × 25 = 7 students."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Mathematics",
+    "chapter": "Chapter 7: Comparing Quantities",
+    "question": "A football team won 10 matches out of the total number of matches they played. If their win percentage was 40%, how many total matches did they play in all?",
+    "options": [
+      "25 matches (40% of Total = 10 ⇒ (40/100) × x = 10 ⇒ x = 10 × (100/40) = 25 matches)",
+      "20 matches",
+      "30 matches",
+      "40 matches"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "0.40 × x = 10 → x = 10 / 0.40 = 25 matches."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Mathematics",
+    "chapter": "Chapter 7: Comparing Quantities",
+    "question": "If Chameli had Rs 600 left after spending 75% of her money, how much did she have in the beginning?",
+    "options": [
+      "Rs 2,400 (Remaining % = 100% - 75% = 25% ; 25% of Total = 600 ⇒ (1/4) × x = 600 ⇒ x = Rs 2,400)",
+      "Rs 1,800",
+      "Rs 3,000",
+      "Rs 2,000"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "25% of x = 600 → x = 600 × 4 = Rs 2,400."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Mathematics",
+    "chapter": "Chapter 7: Comparing Quantities",
+    "question": "The population of a city decreased from 25,000 to 24,500. Find the Percentage Decrease:",
+    "options": [
+      "2% (Decrease = 25,000 - 24,500 = 500 ; % Decrease = (500 / 25,000) × 100% = 2%)",
+      "5%",
+      "2.5%",
+      "4%"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "% Decrease = (500 / 25000) × 100 = 2%."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Mathematics",
+    "chapter": "Chapter 7: Comparing Quantities",
+    "question": "I bought a TV for Rs 10,000 and sold it at a Profit of 20%. How much money do I get for it (Selling Price)?",
+    "options": [
+      "Rs 12,000 (Profit = 20% of 10,000 = Rs 2,000 ; SP = 10,000 + 2,000 = Rs 12,000)",
+      "Rs 11,000",
+      "Rs 12,500",
+      "Rs 8,000"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "SP = CP × (1 + 20/100) = 10,000 × 1.20 = Rs 12,000."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Mathematics",
+    "chapter": "Chapter 7: Comparing Quantities",
+    "question": "Juhi sells a washing machine for Rs 13,500. She loses 20% in the bargain. What was the price at which she bought it (Cost Price)?",
+    "options": [
+      "Rs 16,875 (SP = CP × (1 - Loss%) ⇒ 13,500 = CP × 0.80 ⇒ CP = 13,500 / 0.80 = Rs 16,875)",
+      "Rs 16,200",
+      "Rs 15,000",
+      "Rs 17,500"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "CP = SP / (1 - 0.20) = 13,500 / 0.80 = Rs 16,875."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Mathematics",
+    "chapter": "Chapter 7: Comparing Quantities",
+    "question": "Find the Amount to be paid at the end of 3 years on Principal = Rs 1,200 at 12% per annum:",
+    "options": [
+      "Rs 1,632 (SI = (1200 × 12 × 3) / 100 = Rs 432 ; Amount = 1200 + 432 = Rs 1,632)",
+      "Rs 1,532",
+      "Rs 1,732",
+      "Rs 1,432"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "SI = (1200 × 12 × 3)/100 = 432. Amount = 1200 + 432 = Rs 1,632."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Mathematics",
+    "chapter": "Chapter 7: Comparing Quantities",
+    "question": "What Rate gives Rs 280 as interest on a sum of Rs 56,000 in 2 years?",
+    "options": [
+      "0.25% p.a. (R = (SI × 100) / (P × T) = (280 × 100) / (56,000 × 2) = 28,000 / 112,000 = 0.25% or 1/4%)",
+      "2.5%",
+      "0.5%",
+      "1%"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "R = (280 × 100) / (56000 × 2) = 28000 / 112000 = 0.25%."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Mathematics",
+    "chapter": "Chapter 7: Comparing Quantities",
+    "question": "If Meena gives an interest of Rs 45 for one year at 9% rate p.a., what is the sum (Principal) she has borrowed?",
+    "options": [
+      "Rs 500 (P = (SI × 100) / (R × T) = (45 × 100) / (9 × 1) = 4500 / 9 = Rs 500)",
+      "Rs 450",
+      "Rs 550",
+      "Rs 600"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "P = (45 × 100)/(9 × 1) = 4500 / 9 = Rs 500."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Mathematics",
+    "chapter": "Chapter 7: Comparing Quantities",
+    "question": "The angles of a triangle are in the ratio 2 : 3 : 4. Find the measure of each angle in degrees and in percentages of the total sum (180°):",
+    "options": [
+      "40° (22.2%), 60° (33.3%), and 80° (44.4%) (Sum of parts = 9 ; (2/9)×180 = 40°, (3/9)×180 = 60°, (4/9)×180 = 80°)",
+      "30°, 60°, 90°",
+      "20°, 40°, 120°",
+      "50°, 60°, 70°"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "Parts: 2+3+4=9. Angles: 2/9(180)=40°, 3/9(180)=60°, 4/9(180)=80°."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Mathematics",
+    "chapter": "Chapter 7: Comparing Quantities",
+    "question": "A skirt is bought for Rs 250 and sold for Rs 150. Find the Loss Percentage:",
+    "options": [
+      "40% (Loss = 250 - 150 = Rs 100 ; Loss % = (100 / 250) × 100% = 40%)",
+      "30%",
+      "25%",
+      "50%"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "Loss % = (100/250) × 100 = 40%."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Mathematics",
+    "chapter": "Chapter 7: Comparing Quantities",
+    "question": "An alloy contains 30% copper, 40% zinc, and the remaining is nickel. Find the percentage of nickel in the alloy:",
+    "options": [
+      "30% (Nickel % = 100% - (30% + 40%) = 100% - 70% = 30%)",
+      "20%",
+      "40%",
+      "25%"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "100% - (30% + 40%) = 30%."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Mathematics",
+    "chapter": "Chapter 7: Comparing Quantities",
+    "question": "A gardener bought a plant for Rs 120 and sold it for Rs 150. Find the profit percentage:",
+    "options": [
+      "25% (Profit = 150 - 120 = 30 ; Profit % = (30 / 120) × 100% = 25%)",
+      "20%",
+      "30%",
+      "15%"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "Profit % = (30/120) × 100 = 25%."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Mathematics",
+    "chapter": "Chapter 7: Comparing Quantities",
+    "question": "A shopkeeper sells 1 dozen eggs for Rs 48, making a profit of 20%. What was the cost price of 1 dozen eggs?",
+    "options": [
+      "Rs 40 (CP = SP / 1.20 = 48 / 1.20 = Rs 40)",
+      "Rs 38",
+      "Rs 42",
+      "Rs 36"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "CP = 48 / 1.20 = Rs 40."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Mathematics",
+    "chapter": "Chapter 7: Comparing Quantities",
+    "question": "In a city, 30% are females, 40% are males, and the remaining are children. What percentage are children?",
+    "options": [
+      "30% (Children % = 100% - (30% + 40%) = 30%)",
+      "20%",
+      "40%",
+      "35%"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "100% - 70% = 30%."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Mathematics",
+    "chapter": "Chapter 7: Comparing Quantities",
+    "question": "Find the ratio of the speed of a cycle (15 km/h) to the speed of a scooter (30 km/h):",
+    "options": [
+      "1 : 2 (15 / 30 = 1 / 2)",
+      "2 : 1",
+      "1 : 3",
+      "3 : 2"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "Ratio = 15 : 30 = 1 : 2."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Mathematics",
+    "chapter": "Chapter 7: Comparing Quantities",
+    "question": "Read the statements:\nAssertion (A): Profit percentage and Loss percentage are ALWAYS computed on the basis of COST PRICE (CP), never on Selling Price (SP).\nReason (R): Cost Price is the true initial investment capital incurred by the merchant; profit or loss measures the fractional financial return or deficit relative to this original cost base.\nChoose the correct option:",
+    "options": [
+      "Both (A) and (R) are true, and (R) is the correct explanation of (A).",
+      "Both (A) and (R) are true, but (R) is NOT the correct explanation of (A).",
+      "(A) is true, but (R) is false.",
+      "(A) is false, but (R) is true."
+    ],
+    "correctAnswer": 0,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "In commercial mathematics, baseline investment capital is Cost Price (CP), so % return = (Gain or Loss / CP) × 100."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Mathematics",
+    "chapter": "Chapter 7: Comparing Quantities",
+    "question": "Spot the IMPOSTER in the following commercial arithmetic equivalence relations:\nGroup:\n1. 1/4 = 25%\n2. 3/5 = 60%\n3. 1/8 = 12.5%\n4. 2/3 = 75%",
+    "options": [
+      "Equivalence 1",
+      "Equivalence 2",
+      "Equivalence 3",
+      "Equivalence 4 (2/3 is equal to 66.67% or 66 2/3%, NOT 75% ; 3/4 is 75%)"
+    ],
+    "correctAnswer": 3,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "2/3 × 100% = 66.67%, whereas 75% = 3/4."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Mathematics",
+    "chapter": "Chapter 7: Comparing Quantities",
+    "question": "A sum of money doubles itself in 8 years under Simple Interest. What is the annual Rate of Interest?",
+    "options": [
+      "12.5% p.a. (Let Principal = P ; Since money doubles, Amount = 2P, so SI = P ; SI = (P × R × 8)/100 ⇒ P = (P × R × 8)/100 ⇒ R = 100 / 8 = 12.5% p.a.)",
+      "10% p.a.",
+      "15% p.a.",
+      "8% p.a."
+    ],
+    "correctAnswer": 0,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "SI = P → P = (P × R × 8) / 100 → R = 100 / 8 = 12.5% per annum."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Mathematics",
+    "chapter": "Chapter 7: Comparing Quantities",
+    "question": "Match Column I (Commercial Math Problems) with Column II (Exact Solutions):\n(a) Convert 5/8 to Percentage               -> (i) 62.5%\n(b) Increase in price from Rs 20 to Rs 25    -> (ii) 25% Increase\n(c) Simple Interest on Rs 5000 @ 10% for 3 yr-> (iii) Rs 1,500\n(d) Loss % when CP = Rs 50 and SP = Rs 40    -> (iv) 20% Loss",
+    "options": [
+      "a-(i), b-(ii), c-(iii), d-(iv)",
+      "a-(ii), b-(i), c-(iv), d-(iii)",
+      "a-(iv), b-(iii), c-(ii), d-(i)",
+      "a-(iii), b-(iv), c-(i), d-(ii)"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "5/8 = 62.5%; (5/20)×100 = 25%; (5000×10×3)/100 = 1500; (10/50)×100 = 20%."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Mathematics",
+    "chapter": "Chapter 7: Comparing Quantities",
+    "question": "Read the statements regarding price variations:\nStatement 1: If a price is increased by 20% and then decreased by 20%, the net final price is 4% LESS than the original price.\nStatement 2: If the Cost Price of 10 articles equals the Selling Price of 8 articles, the merchant makes a 25% Profit.\nStatement 3: Simple Interest increases exponentially every year.\nWhich statements are TRUE?",
+    "options": [
+      "Statements 1 and 2 only",
+      "Statements 2 and 3 only",
+      "Statements 1 and 3 only",
+      "All Statements 1, 2, and 3"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "Statement 3 is false (Simple Interest increases linearly, not exponentially). Statement 1: 1.20 × 0.80 = 0.96 (4% decrease). Statement 2: (10-8)/8 × 100 = 25% profit."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Mathematics",
+    "chapter": "Chapter 7: Comparing Quantities",
+    "question": "If the Cost Price of 12 pens is equal to the Selling Price of 15 pens, find the Gain or Loss percentage:",
+    "options": [
+      "20% Loss (Let CP of 1 pen = Rs 1 ; CP of 15 pens = Rs 15 ; SP of 15 pens = CP of 12 pens = Rs 12 ; Loss = 15 - 12 = Rs 3 ; Loss % = (3 / 15) × 100% = 20%)",
+      "25% Profit",
+      "20% Profit",
+      "25% Loss"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "Loss % = (15 - 12) / 15 × 100 = (3/15) × 100 = 20% loss."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Mathematics",
+    "chapter": "Chapter 7: Comparing Quantities",
+    "question": "A sum of money invested at Simple Interest amounts to Rs 850 in 3 years and to Rs 925 in 4 years. Find the Principal sum and the annual Rate of Interest:",
+    "options": [
+      "Principal = Rs 625 ; Rate = 12% p.a. (SI for 1 year = 925 - 850 = Rs 75 ; SI for 3 years = 75 × 3 = Rs 225 ; Principal = 850 - 225 = Rs 625 ; Rate = (75 × 100) / (625 × 1) = 12% p.a.)",
+      "Principal = Rs 600 ; Rate = 10%",
+      "Principal = Rs 650 ; Rate = 14%",
+      "Principal = Rs 700 ; Rate = 8%"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "Annual SI = 925 - 850 = Rs 75. P = 850 - 3(75) = Rs 625. R = (75 × 100)/(625 × 1) = 12%."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Mathematics",
+    "chapter": "Chapter 7: Comparing Quantities",
+    "question": "In an election between two candidates, the winning candidate secured 58% of the total valid votes and won by a majority of 4,800 votes. Find the total number of valid votes polled:",
+    "options": [
+      "30,000 votes (Winner % = 58% ; Loser % = 42% ; Margin = 58% - 42% = 16% ; 16% of Total = 4,800 ⇒ Total = (4800 / 16) × 100 = 30,000 votes)",
+      "25,000 votes",
+      "35,000 votes",
+      "40,000 votes"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "Vote differential = 58% - 42% = 16%. Total votes = 4,800 / 0.16 = 30,000."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Mathematics",
+    "chapter": "Chapter 7: Comparing Quantities",
+    "question": "A man sold two fans for Rs 990 each. On one he gained 10% and on the other he lost 10%. Find his overall Gain or Loss percentage on the entire whole transaction:",
+    "options": [
+      "1% Loss (CP1 = 990 / 1.10 = Rs 900 ; CP2 = 990 / 0.90 = Rs 1100 ; Total CP = 2000 ; Total SP = 1980 ; Net Loss = Rs 20 ; Loss % = (20 / 2000) × 100% = 1%)",
+      "No profit no loss",
+      "1% Gain",
+      "2% Loss"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "When SP is identical with ±x% gain/loss, there is always a net loss of (x/10)²% = (10/10)²% = 1% loss."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Mathematics",
+    "chapter": "Chapter 7: Comparing Quantities",
+    "question": "The salary of an officer was increased by 20%. By what percentage must the new salary be reduced to bring it back to the original initial salary level?",
+    "options": [
+      "16 2/3% or 16.67% (Let original = 100 ⇒ New = 120 ; Reduction required = 20 ; % Reduction = (20 / 120) × 100% = 100 / 6 = 16.67%)",
+      "20%",
+      "25%",
+      "15%"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "% Reduction = (r / (100 + r)) × 100% = (20 / 120) × 100 = 16.67% (or 16 2/3%)."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Mathematics",
+    "chapter": "Chapter 7: Comparing Quantities",
+    "question": "At what rate percent per annum simple interest will a sum of money TRIPLE itself in 16 years?",
+    "options": [
+      "12.5% p.a. (Amount = 3P ⇒ SI = 2P ; 2P = (P × R × 16) / 100 ⇒ R = 200 / 16 = 12.5% p.a.)",
+      "10% p.a.",
+      "15% p.a.",
+      "16% p.a."
+    ],
+    "correctAnswer": 0,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "SI = 2P → 2P = (P × R × 16)/100 → R = 200 / 16 = 12.5% per annum."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Mathematics",
+    "chapter": "Chapter 7: Comparing Quantities",
+    "question": "Why is the mathematical mastery of Comparing Quantities (Ratios, Percentages, Profit-Loss, and Simple Interest) fundamental across economics, financial literacy, demographic statistics, and everyday commerce?",
+    "options": [
+      "It provides the universal quantitative language for normalizing scales, calculating financial returns on capital, evaluating economic growth rates, and making sound personal financial decisions",
+      "Because numbers are only used to count coins",
+      "Because percentage was invented to make math harder",
+      "Because interest is paid only in gold"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "Quantitative comparison frameworks underwrite modern financial literacy, economic metric normalization, accounting standards, and risk-adjusted capital pricing."
+  }
+]

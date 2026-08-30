@@ -1,0 +1,490 @@
+import fs from 'fs';
+
+// -------------------------------------------------------------
+// SUBJECT 4: General Knowledge - Chapter 1: Our India - Heritage, Symbols & Polity (40 Questions)
+// -------------------------------------------------------------
+const gkQuestions = [
+  // EASY (12)
+  {
+    classLevel: 7,
+    subject: "GK",
+    chapter: "Chapter 1: Our India - Heritage, Symbols, Polity & Geography",
+    question: "What is the National Emblem of the Republic of India adopted from on 26th January 1950?",
+    options: [
+      "The Lion Capital of Ashoka at Sarnath (featuring four Asiatic lions standing back to back)",
+      "The Pillar of Allahabad",
+      "The Sanchi Stupa Gateway",
+      "The Sun Temple Wheel at Konark"
+    ],
+    correctAnswer: 0,
+    difficulty: "EASY",
+    damage: 150,
+    explanation: "India's State Emblem is adapted from the Mauryan Lion Capital of Ashoka at Sarnath (250 BCE)."
+  },
+  {
+    classLevel: 7,
+    subject: "GK",
+    chapter: "Chapter 1: Our India - Heritage, Symbols, Polity & Geography",
+    question: "What is the National Motto of India inscribed in Devanagari script at the base of the National Emblem below the Abacus?",
+    options: ["'Satyameva Jayate' (Truth Alone Triumphs - from the Mundaka Upanishad)", "'Vande Mataram'", "'Jai Hind'", "'Jan Gan Man'"],
+    correctAnswer: 0,
+    difficulty: "EASY",
+    damage: 150,
+    explanation: "'Satyameva Jayate' is taken from the sacred Mundaka Upanishad, signifying that divine truth alone prevails."
+  },
+  {
+    classLevel: 7,
+    subject: "GK",
+    chapter: "Chapter 1: Our India - Heritage, Symbols, Polity & Geography",
+    question: "What is the official width-to-length ratio of the National Flag of India (Tiranga)?",
+    options: ["2 : 3 (Width to Length / Height to Length)", "1 : 2", "3 : 4", "2 : 5"],
+    correctAnswer: 0,
+    difficulty: "EASY",
+    damage: 150,
+    explanation: "The Flag Code of India stipulates the dimensional ratio of the National Flag as 2 : 3 (height : length)."
+  },
+  {
+    classLevel: 7,
+    subject: "GK",
+    chapter: "Chapter 1: Our India - Heritage, Symbols, Polity & Geography",
+    question: "How many spokes are there in the navy blue Ashoka Chakra located at the center of the white band of the Indian National Flag?",
+    options: ["24 Spokes (representing the 24 hours of righteousness and continuous progress)", "20 Spokes", "28 Spokes", "32 Spokes"],
+    correctAnswer: 0,
+    difficulty: "EASY",
+    damage: 150,
+    explanation: "The Ashoka Chakra has 24 spokes representing continuous dynamic moral progress and duty."
+  },
+  {
+    classLevel: 7,
+    subject: "GK",
+    chapter: "Chapter 1: Our India - Heritage, Symbols, Polity & Geography",
+    question: "Who composed India's National Anthem, 'Jana Gana Mana'?",
+    options: ["Gurudev Rabindranath Tagore", "Bankim Chandra Chattopadhyay", "Sarojini Naidu", "Swami Vivekananda"],
+    correctAnswer: 0,
+    difficulty: "EASY",
+    damage: 150,
+    explanation: "Rabindranath Tagore composed 'Jana Gana Mana' in 1911; its playing time is approximately 52 seconds."
+  },
+  {
+    classLevel: 7,
+    subject: "GK",
+    chapter: "Chapter 1: Our India - Heritage, Symbols, Polity & Geography",
+    question: "Who composed India's National Song, 'Vande Mataram' (originally in his novel 'Anandamath')?",
+    options: ["Bankim Chandra Chattopadhyay (Chatterjee)", "Rabindranath Tagore", "Sri Aurobindo", "Subhas Chandra Bose"],
+    correctAnswer: 0,
+    difficulty: "EASY",
+    damage: 150,
+    explanation: "Bankim Chandra Chattopadhyay wrote 'Vande Mataram' in Sanskritized Bengali, published in Anandamath (1882)."
+  },
+  {
+    classLevel: 7,
+    subject: "GK",
+    chapter: "Chapter 1: Our India - Heritage, Symbols, Polity & Geography",
+    question: "What is the National Aquatic Animal of India declared to protect endangered freshwater river biodiversity?",
+    options: ["Ganges River Dolphin (Platanista gangetica)", "Gharial", "Olive Ridley Sea Turtle", "Mahseer Fish"],
+    correctAnswer: 0,
+    difficulty: "EASY",
+    damage: 150,
+    explanation: "The blind Ganges River Dolphin was declared India's National Aquatic Animal in 2009 as an indicator of river health."
+  },
+  {
+    classLevel: 7,
+    subject: "GK",
+    chapter: "Chapter 1: Our India - Heritage, Symbols, Polity & Geography",
+    question: "What is the National Heritage Animal of India?",
+    options: ["The Indian Elephant (Elephas maximus indicus)", "Royal Bengal Tiger", "Asiatic Lion", "One-horned Rhinoceros"],
+    correctAnswer: 0,
+    difficulty: "EASY",
+    damage: 150,
+    explanation: "The Indian Elephant was declared National Heritage Animal in 2010 to promote elephant corridor conservation."
+  },
+  {
+    classLevel: 7,
+    subject: "GK",
+    chapter: "Chapter 1: Our India - Heritage, Symbols, Polity & Geography",
+    question: "How many States and Union Territories does the Republic of India currently comprise?",
+    options: ["28 States and 8 Union Territories", "29 States and 7 Union Territories", "28 States and 9 Union Territories", "30 States and 6 Union Territories"],
+    correctAnswer: 0,
+    difficulty: "EASY",
+    damage: 150,
+    explanation: "As of 2026, the federal political map of India consists of exactly 28 States and 8 Union Territories."
+  },
+  {
+    classLevel: 7,
+    subject: "GK",
+    chapter: "Chapter 1: Our India - Heritage, Symbols, Polity & Geography",
+    question: "What is the highest mountain peak situated entirely within the sovereign territory of India?",
+    options: ["Kangchenjunga (8,586 m in Sikkim)", "K2 (Mount Godwin-Austen)", "Nanda Devi", "Kamet"],
+    correctAnswer: 0,
+    difficulty: "EASY",
+    damage: 150,
+    explanation: "Kangchenjunga (8,586 m) in Sikkim is the 3rd highest peak in the world and highest in India."
+  },
+  {
+    classLevel: 7,
+    subject: "GK",
+    chapter: "Chapter 1: Our India - Heritage, Symbols, Polity & Geography",
+    question: "Which sacred river is the LONGEST river flowing entirely within India (2,525 km)?",
+    options: ["The Ganga", "The Godavari", "The Yamuna", "The Narmada"],
+    correctAnswer: 0,
+    difficulty: "EASY",
+    damage: 150,
+    explanation: "The Ganga originates at Gangotri glacier (Bhagirathi) and flows 2,525 km to the Bay of Bengal."
+  },
+  {
+    classLevel: 7,
+    subject: "GK",
+    chapter: "Chapter 1: Our India - Heritage, Symbols, Polity & Geography",
+    question: "What is the southernmost point of the Republic of India's territory, located in the Great Nicobar Island?",
+    options: ["Indira Point (6°45' N latitude)", "Kanyakumari (Cape Comorin)", "Dhanushkodi", "Port Blair"],
+    correctAnswer: 0,
+    difficulty: "EASY",
+    damage: 150,
+    explanation: "Indira Point on Great Nicobar is India's southernmost geographical point (Kanyakumari is southernmost on the mainland)."
+  },
+
+  // MEDIUM (16)
+  {
+    classLevel: 7,
+    subject: "GK",
+    chapter: "Chapter 1: Our India - Heritage, Symbols, Polity & Geography",
+    question: "What are the four animals carved on the circular Abacus beneath the four lions on the Sarnath Lion Capital of India's National Emblem?",
+    options: [
+      "An Elephant (East), a Galloping Horse (South), a Bull (West), and a Lion (North), separated by intervening Dharma Chakras",
+      "A Tiger, a Cow, a Deer, and a Peacock",
+      "A Rhino, a Camel, a Horse, and an Eagle",
+      "A Dog, a Cat, a Snake, and a Bear"
+    ],
+    correctAnswer: 0,
+    difficulty: "MEDIUM",
+    damage: 250,
+    explanation: "The abacus features 4 cardinal animals: Elephant (Buddha's conception), Horse (renunciation), Bull (zodiac), Lion (shakya clan)."
+  },
+  {
+    classLevel: 7,
+    subject: "GK",
+    chapter: "Chapter 1: Our India - Heritage, Symbols, Polity & Geography",
+    question: "Who was the chief architect and Chairman of the Drafting Committee of the Constitution of India, celebrated as the 'Father of the Indian Constitution'?",
+    options: ["Dr. B.R. Ambedkar (Bhimrao Ramji Ambedkar)", "Dr. Rajendra Prasad", "Jawaharlal Nehru", "Sardar Vallabhbhai Patel"],
+    correctAnswer: 0,
+    difficulty: "MEDIUM",
+    damage: 250,
+    explanation: "Dr. B.R. Ambedkar steered the Drafting Committee, embedding fundamental rights and social justice into the Constitution."
+  },
+  {
+    classLevel: 7,
+    subject: "GK",
+    chapter: "Chapter 1: Our India - Heritage, Symbols, Polity & Geography",
+    question: "On which historic date did the Constitution of India formally come into effect, celebrated annually as 'Republic Day'?",
+    options: ["26th January 1950", "15th August 1947", "26th November 1949", "2nd October 1950"],
+    correctAnswer: 0,
+    difficulty: "MEDIUM",
+    damage: 250,
+    explanation: "Adopted on 26 Nov 1949 (Constitution Day), the Constitution came into legal effect on 26 January 1950 (Republic Day)."
+  },
+  {
+    classLevel: 7,
+    subject: "GK",
+    chapter: "Chapter 1: Our India - Heritage, Symbols, Polity & Geography",
+    question: "What is the Standard Meridian of India from which Indian Standard Time (IST = UTC+5:30) is calculated?",
+    options: ["82°30' E Longitude (passing through Mirzapur / Prayagraj in Uttar Pradesh)", "80°00' E Longitude", "75°30' E Longitude", "90°00' E Longitude"],
+    correctAnswer: 0,
+    difficulty: "MEDIUM",
+    damage: 250,
+    explanation: "82°30' E meridian passes through Mirzapur (UP), determining India's uniform Standard Time (+5:30 ahead of GMT)."
+  },
+  {
+    classLevel: 7,
+    subject: "GK",
+    chapter: "Chapter 1: Our India - Heritage, Symbols, Polity & Geography",
+    question: "What is the longest river in Peninsular South India, often called the 'Dakshin Ganga' (Ganga of the South)?",
+    options: ["The Godavari (1,465 km originating at Trimbakeshwar, Maharashtra)", "The Krishna", "The Kaveri", "The Mahanadi"],
+    correctAnswer: 0,
+    difficulty: "MEDIUM",
+    damage: 250,
+    explanation: "The Godavari is the largest peninsular river basin in India, draining 10% of India's total land area."
+  },
+  {
+    classLevel: 7,
+    subject: "GK",
+    chapter: "Chapter 1: Our India - Heritage, Symbols, Polity & Geography",
+    question: "Which ancient mountain range in western India (running through Gujarat, Rajasthan, Haryana, and Delhi) is the OLDEST fold mountain range in India and the world?",
+    options: ["The Aravalli Range", "The Himalayas", "The Western Ghats (Sahyadri)", "The Vindhya Range"],
+    correctAnswer: 0,
+    difficulty: "MEDIUM",
+    damage: 250,
+    explanation: "The Aravalli Range is a Precambrian relict fold mountain belt dating back over 2 billion years."
+  },
+  {
+    classLevel: 7,
+    subject: "GK",
+    chapter: "Chapter 1: Our India - Heritage, Symbols, Polity & Geography",
+    question: "What is the world's LARGEST river island, formed by the mighty Brahmaputra river in Assam?",
+    options: ["Majuli Island", "Munroe Island", "Diu Island", "Havelock Island"],
+    correctAnswer: 0,
+    difficulty: "MEDIUM",
+    damage: 250,
+    explanation: "Majuli on the Brahmaputra is recognized by Guinness World Records as the planet's largest inhabited riverine island."
+  },
+  {
+    classLevel: 7,
+    subject: "GK",
+    chapter: "Chapter 1: Our India - Heritage, Symbols, Polity & Geography",
+    question: "What is the world's LARGEST mangrove delta forest, shared between India (West Bengal) and Bangladesh, famous as the home of the Royal Bengal Tiger?",
+    options: ["The Sundarbans Delta (Ganga-Brahmaputra-Meghna Delta)", "Pichavaram Mangroves", "Bhitarkanika Mangroves", "Muthupet Mangroves"],
+    correctAnswer: 0,
+    difficulty: "MEDIUM",
+    damage: 250,
+    explanation: "The Sundarbans is a UNESCO World Heritage mangrove biome dominated by tidal Sundari trees (Heritiera fomes)."
+  },
+  {
+    classLevel: 7,
+    subject: "GK",
+    chapter: "Chapter 1: Our India - Heritage, Symbols, Polity & Geography",
+    question: "What is the LARGEST state in India by geographical land area, and which is the SMALLEST state?",
+    options: ["Largest: Rajasthan (3,42,239 sq km) ; Smallest: Goa (3,702 sq km)", "Largest: Madhya Pradesh ; Smallest: Sikkim", "Largest: Maharashtra ; Smallest: Tripura", "Largest: Uttar Pradesh ; Smallest: Kerala"],
+    correctAnswer: 0,
+    difficulty: "MEDIUM",
+    damage: 250,
+    explanation: "Rajasthan is India's largest state by area (~10.4% of country); Goa is the smallest state."
+  },
+  {
+    classLevel: 7,
+    subject: "GK",
+    chapter: "Chapter 1: Our India - Heritage, Symbols, Polity & Geography",
+    question: "Which Indian state has the LARGEST human population in the country (over 240 million citizens)?",
+    options: ["Uttar Pradesh", "Maharashtra", "Bihar", "West Bengal"],
+    correctAnswer: 0,
+    difficulty: "MEDIUM",
+    damage: 250,
+    explanation: "Uttar Pradesh is the most populous administrative state in India (and the most populous country subdivision globally)."
+  },
+  {
+    classLevel: 7,
+    subject: "GK",
+    chapter: "Chapter 1: Our India - Heritage, Symbols, Polity & Geography",
+    question: "What is the tallest monolithic stone statue in the world, standing 182 metres (597 feet) high on the Narmada river in Gujarat, dedicated to Sardar Vallabhbhai Patel?",
+    options: ["The Statue of Unity", "Statue of Equality", "Statue of Peace", "Statue of Belief"],
+    correctAnswer: 0,
+    difficulty: "MEDIUM",
+    damage: 250,
+    explanation: "The Statue of Unity (182 m) near Kevadia commemorates Iron Man of India Sardar Patel who integrated 562 princely states."
+  },
+  {
+    classLevel: 7,
+    subject: "GK",
+    chapter: "Chapter 1: Our India - Heritage, Symbols, Polity & Geography",
+    question: "How many recognized Indian Classical Dance forms are officially acknowledged by the Sangeet Natak Akademi?",
+    options: [
+      "8 Classical Dances (Bharatanatyam, Kathak, Kathakali, Kuchipudi, Odissi, Manipuri, Mohiniyattam, and Sattriya)",
+      "4 Classical Dances",
+      "12 Classical Dances",
+      "6 Classical Dances"
+    ],
+    correctAnswer: 0,
+    difficulty: "MEDIUM",
+    damage: 250,
+    explanation: "The 8 classical dance traditions rooted in Natya Shastra are preserved by Sangeet Natak Akademi."
+  },
+  {
+    classLevel: 7,
+    subject: "GK",
+    chapter: "Chapter 1: Our India - Heritage, Symbols, Polity & Geography",
+    question: "What is the official National Tree of India, renowned for its massive canopy and aerial prop roots symbolizing eternal longevity?",
+    options: ["Indian Banyan Tree (Ficus benghalensis)", "Peepal Tree", "Neem Tree", "Mango Tree"],
+    correctAnswer: 0,
+    difficulty: "MEDIUM",
+    damage: 250,
+    explanation: "The Indian Banyan (Kalpavriksha) is India's National Tree, symbolizing immortality and infinite shelter."
+  },
+  {
+    classLevel: 7,
+    subject: "GK",
+    chapter: "Chapter 1: Our India - Heritage, Symbols, Polity & Geography",
+    question: "What is the official National Fruit of India?",
+    options: ["Mango (Mangifera indica - 'King of Fruits')", "Apple", "Banana", "Jackfruit"],
+    correctAnswer: 0,
+    difficulty: "MEDIUM",
+    damage: 250,
+    explanation: "Mango is India's National Fruit, cultivated in the subcontinent for over 4,000 years."
+  },
+  {
+    classLevel: 7,
+    subject: "GK",
+    chapter: "Chapter 1: Our India - Heritage, Symbols, Polity & Geography",
+    question: "Which mountain pass in Ladakh connects Leh to the Nubra Valley and is recognized among the highest motorable road passes in the world?",
+    options: ["Khardung La Pass (5,359 m)", "Rohtang Pass", "Nathu La Pass", "Zojila Pass"],
+    correctAnswer: 0,
+    difficulty: "MEDIUM",
+    damage: 250,
+    explanation: "Khardung La in the Ladakh Range is a strategic mountain pass gateway to Shyok and Nubra valleys."
+  },
+  {
+    classLevel: 7,
+    subject: "GK",
+    chapter: "Chapter 1: Our India - Heritage, Symbols, Polity & Geography",
+    question: "What is the largest brackish water coastal lagoon in India (and 2nd largest in the world), designated as India's first Ramsar Wetland site in Odisha?",
+    options: ["Chilika Lake", "Vembanad Lake", "Pulicat Lake", "Kolleru Lake"],
+    correctAnswer: 0,
+    difficulty: "MEDIUM",
+    damage: 250,
+    explanation: "Chilika Lake in Odisha spans over 1,100 sq km, hosting millions of migratory Siberian waterfowl and Irrawaddy dolphins."
+  },
+
+  // HARD (12)
+  {
+    classLevel: 7,
+    subject: "GK",
+    chapter: "Chapter 1: Our India - Heritage, Symbols, Polity & Geography",
+    question: "Read the statements regarding the Indian Constitution's Preamble:\nAssertion (A): The Preamble serves as the guiding soul and philosophical compass of the Constitution of India.\nReason (R): It solemnly declares India to be a 'Sovereign, Socialist, Secular, Democratic Republic' and secures to all its citizens Justice, Liberty, Equality, and Fraternity.\nChoose the correct option:",
+    options: [
+      "Both (A) and (R) are true, and (R) is the correct explanation of (A).",
+      "Both (A) and (R) are true, but (R) is NOT the correct explanation of (A).",
+      "(A) is true, but (R) is false.",
+      "(A) is false, but (R) is true."
+    ],
+    correctAnswer: 0,
+    difficulty: "HARD",
+    damage: 350,
+    explanation: "The Preamble embodies the fundamental constitutional philosophy, values, and democratic aspirations of the republic."
+  },
+  {
+    classLevel: 7,
+    subject: "GK",
+    chapter: "Chapter 1: Our India - Heritage, Symbols, Polity & Geography",
+    question: "Spot the IMPOSTER in the following list of Indian Classical Dances matched with their states of origin:\nGroup:\n1. Bharatanatyam - Tamil Nadu\n2. Kathakali - Kerala\n3. Sattriya - Assam\n4. Kuchipudi - Punjab",
+    options: ["Bharatanatyam - Tamil Nadu", "Kathakali - Kerala", "Sattriya - Assam", "Kuchipudi - Punjab"],
+    correctAnswer: 3,
+    difficulty: "HARD",
+    damage: 350,
+    explanation: "Kuchipudi originated in the Krishna district of ANDHRA PRADESH (village of Kuchelapuram), NOT Punjab (Punjab's folk dance is Bhangra/Giddha)."
+  },
+  {
+    classLevel: 7,
+    subject: "GK",
+    chapter: "Chapter 1: Our India - Heritage, Symbols, Polity & Geography",
+    question: "How many languages are officially recognized as 'Classical Languages of India' by the Government of India (with ancient antiquity, original literary tradition, and high cultural prestige)?",
+    options: [
+      "11 Classical Languages (Tamil, Sanskrit, Kannada, Telugu, Malayalam, Odia, Marathi, Pali, Prakrit, Assamese, and Bengali)",
+      "6 Classical Languages",
+      "4 Classical Languages",
+      "22 Classical Languages"
+    ],
+    correctAnswer: 0,
+    difficulty: "HARD",
+    damage: 350,
+    explanation: "The Government expanded the Classical Languages list in 2024 to include Marathi, Pali, Prakrit, Assamese, and Bengali alongside the foundational six."
+  },
+  {
+    classLevel: 7,
+    subject: "GK",
+    chapter: "Chapter 1: Our India - Heritage, Symbols, Polity & Geography",
+    question: "Match Column I (Geographical Features of India) with Column II (Exact Locations / Superlatives):\n(a) Wettest place on Earth (highest annual rainfall) -> (i) Mawsynram (Meghalaya)\n(b) Only active volcano in South Asia                 -> (ii) Barren Island (Andaman)\n(c) Largest freshwater lake in India                   -> (iii) Wular Lake (Jammu & Kashmir)\n(d) Cold Desert biosphere reserve                     -> (iv) Spiti / Ladakh",
+    options: [
+      "a-(i), b-(ii), c-(iii), d-(iv)",
+      "a-(ii), b-(i), c-(iv), d-(iii)",
+      "a-(iv), b-(iii), c-(ii), d-(i)",
+      "a-(iii), b-(iv), c-(i), d-(ii)"
+    ],
+    correctAnswer: 0,
+    difficulty: "HARD",
+    damage: 350,
+    explanation: "Mawsynram = wettest (11,872 mm); Barren Island = volcano; Wular = largest freshwater lake; Spiti/Ladakh = cold desert."
+  },
+  {
+    classLevel: 7,
+    subject: "GK",
+    chapter: "Chapter 1: Our India - Heritage, Symbols, Polity & Geography",
+    question: "Read the statements regarding India's heritage:\nStatement 1: The 'Statue of Unity' is twice the height of the Statue of Liberty in New York.\nStatement 2: The Western Ghats (Sahyadri) are one of the world's 8 'Hottest Biodiversity Hotspots' and older than the Himalayas.\nStatement 3: The Tropic of Cancer (23°30' N) passes through all 28 states of India.\nWhich statements are TRUE?",
+    options: ["Statements 1 and 2 only", "Statements 2 and 3 only", "Statements 1 and 3 only", "All Statements 1, 2, and 3"],
+    correctAnswer: 0,
+    difficulty: "HARD",
+    damage: 350,
+    explanation: "Statement 3 is false because the Tropic of Cancer passes through only 8 Indian states (Gujarat, Rajasthan, MP, Chhattisgarh, Jharkhand, WB, Tripura, Mizoram). Statements 1 and 2 are true."
+  },
+  {
+    classLevel: 7,
+    subject: "GK",
+    chapter: "Chapter 1: Our India - Heritage, Symbols, Polity & Geography",
+    question: "Which Indian national park in Assam is home to two-thirds of the world's remaining population of the endangered Great Indian One-horned Rhinoceros?",
+    options: ["Kaziranga National Park", "Manas National Park", "Jim Corbett National Park", "Gir National Park"],
+    correctAnswer: 0,
+    difficulty: "HARD",
+    damage: 350,
+    explanation: "Kaziranga hosts over 2,600 one-horned rhinos along with high tiger density in its Brahmaputra floodplains."
+  },
+  {
+    classLevel: 7,
+    subject: "GK",
+    chapter: "Chapter 1: Our India - Heritage, Symbols, Polity & Geography",
+    question: "What is the only natural habitat in the world where the majestic ASIATIC LION (Panthera leo persica) survives in the wild?",
+    options: ["Gir National Park and Wildlife Sanctuary (Kathiawar Peninsula, Gujarat)", "Ranthambore National Park", "Sundarbans", "Bandhavgarh National Park"],
+    correctAnswer: 0,
+    difficulty: "HARD",
+    damage: 350,
+    explanation: "Gir forest in Gujarat is the world's last refuge for wild Asiatic lions (~700 individuals)."
+  },
+  {
+    classLevel: 7,
+    subject: "GK",
+    chapter: "Chapter 1: Our India - Heritage, Symbols, Polity & Geography",
+    question: "Which unique festival celebrated at Haridwar, Prayagraj, Ujjain, and Nashik was inscribed on UNESCO's Intangible Cultural Heritage of Humanity list as the world's largest peaceful pilgrimage gathering?",
+    options: ["Kumbh Mela", "Durga Puja", "Pushkar Camel Fair", "Chhath Puja"],
+    correctAnswer: 0,
+    difficulty: "HARD",
+    damage: 350,
+    explanation: "Kumbh Mela rotates every 12 years across 4 river sacred sites, gathering tens of millions of pilgrims."
+  },
+  {
+    classLevel: 7,
+    subject: "GK",
+    chapter: "Chapter 1: Our India - Heritage, Symbols, Polity & Geography",
+    question: "What is the strategic maritime strait separating the southeastern tip of India (Tamil Nadu) from Sri Lanka?",
+    options: ["Palk Strait (and Gulf of Mannar / Ram Setu)", "Strait of Malacca", "Ten Degree Channel", "Duncan Passage"],
+    correctAnswer: 0,
+    difficulty: "HARD",
+    damage: 350,
+    explanation: "Palk Strait connects Palk Bay with the Bay of Bengal, separating peninsular India from Sri Lanka."
+  },
+  {
+    classLevel: 7,
+    subject: "GK",
+    chapter: "Chapter 1: Our India - Heritage, Symbols, Polity & Geography",
+    question: "What is the highest civilian award of the Republic of India, instituted on 2nd January 1954?",
+    options: ["Bharat Ratna", "Padma Vibhushan", "Param Vir Chakra", "Padma Bhushan"],
+    correctAnswer: 0,
+    difficulty: "HARD",
+    damage: 350,
+    explanation: "Bharat Ratna (peepal leaf shaped medallion in platinum) is India's highest civilian honor for exceptional service."
+  },
+  {
+    classLevel: 7,
+    subject: "GK",
+    chapter: "Chapter 1: Our India - Heritage, Symbols, Polity & Geography",
+    question: "What is India's highest military decoration awarded for highest degree of valor in the presence of the enemy in wartime?",
+    options: ["Param Vir Chakra (PVC)", "Maha Vir Chakra", "Ashoka Chakra", "Kirti Chakra"],
+    correctAnswer: 0,
+    difficulty: "HARD",
+    damage: 350,
+    explanation: "Param Vir Chakra is India's pre-eminent wartime military honor (first awarded to Major Somnath Sharma in 1947)."
+  },
+  {
+    classLevel: 7,
+    subject: "GK",
+    chapter: "Chapter 1: Our India - Heritage, Symbols, Polity & Geography",
+    question: "What profound civilizational reality makes India celebrated as the world's most vibrant 'Unity in Diversity'?",
+    options: [
+      "The harmonious synthesis of thousands of dialects, ancient classical traditions, multiple world religions, diverse biogeographical landscapes, and vibrant regional cultures unified under a secular democratic constitutional framework",
+      "A nation where everyone speaks only one language",
+      "A country without any regional states",
+      "An isolated land with no external history"
+    ],
+    correctAnswer: 0,
+    difficulty: "HARD",
+    damage: 350,
+    explanation: "India's civilizational ethos harmonizes multi-ethnic, multi-lingual, and multi-faith diversity into an indivisible constitutional republic."
+  }
+];
+
+console.log('Generated Class 7 GK Ch1:', gkQuestions.length);
+fs.writeFileSync('C:/EduVerse/class 7/cross_subject/gk_ch1.json', JSON.stringify(gkQuestions, null, 2), 'utf8');

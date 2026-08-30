@@ -1,0 +1,642 @@
+[
+  {
+    "classLevel": 7,
+    "subject": "Science",
+    "chapter": "Chapter 5: Physical and Chemical Changes",
+    "question": "A change in which a substance undergoes a change in its physical properties (shape, size, color, or state) WITHOUT the formation of any new chemical substance is called a:",
+    "options": [
+      "Physical Change",
+      "Chemical Change",
+      "Rusting",
+      "Neutralization"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "Physical changes alter physical dimensions or phase state without altering chemical composition or forming new molecular species."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Science",
+    "chapter": "Chapter 5: Physical and Chemical Changes",
+    "question": "A change in which one or more completely NEW substances with entirely different chemical properties are formed is called a:",
+    "options": [
+      "Chemical Change (Chemical Reaction)",
+      "Physical Change",
+      "Melting",
+      "Evaporation"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "A chemical change involves rearrangement of chemical bonds yielding distinct product substances."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Science",
+    "chapter": "Chapter 5: Physical and Chemical Changes",
+    "question": "Which of the following is an example of a REVERSIBLE PHYSICAL CHANGE?",
+    "options": [
+      "Melting of Ice into Water",
+      "Burning of paper into ash",
+      "Rusting of iron",
+      "Cooking of food"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "Melting of ice is a reversible physical phase transition (H₂O solid ⇌ H₂O liquid)."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Science",
+    "chapter": "Chapter 5: Physical and Chemical Changes",
+    "question": "What white powdery substance is formed when a Magnesium ribbon is burned in air with a dazzling white flame?",
+    "options": [
+      "Magnesium Oxide (MgO)",
+      "Magnesium Hydroxide",
+      "Magnesium Chloride",
+      "Magnesium Carbonate"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "Magnesium reacts vigorously with atmospheric oxygen to produce Magnesium Oxide powder: 2Mg + O₂ → 2MgO."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Science",
+    "chapter": "Chapter 5: Physical and Chemical Changes",
+    "question": "What new chemical substance is formed when Magnesium Oxide ash (MgO) is dissolved thoroughly in water?",
+    "options": [
+      "Magnesium Hydroxide [Mg(OH)₂] - which turns Red Litmus paper BLUE (Basic in nature)",
+      "Hydrochloric acid",
+      "Magnesium metal",
+      "Hydrogen gas"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "MgO + H₂O → Mg(OH)₂ (a basic metal hydroxide turning red litmus blue)."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Science",
+    "chapter": "Chapter 5: Physical and Chemical Changes",
+    "question": "What two essential conditions are mandatory for the RUSTING of Iron to occur?",
+    "options": [
+      "Both Oxygen (air) and Water (or moisture/water vapor)",
+      "Only dry oxygen",
+      "Only water without air",
+      "Only sunlight"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "Rusting of iron is an electrochemical corrosion process requiring simultaneous exposure to oxygen and moisture: 4Fe + 3O₂ + xH₂O → 2Fe₂O₃·xH₂O."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Science",
+    "chapter": "Chapter 5: Physical and Chemical Changes",
+    "question": "The industrial process of depositing a protective thin layer of metal ZINC on iron objects to prevent rusting is called:",
+    "options": [
+      "Galvanization",
+      "Crystallization",
+      "Neutralization",
+      "Vulcanization"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "Galvanization coats ferrous metals with sacrificial zinc to shield against moisture and oxygen."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Science",
+    "chapter": "Chapter 5: Physical and Chemical Changes",
+    "question": "What is Stainless Steel made of that gives it permanent resistance to rusting?",
+    "options": [
+      "Iron mixed/alloyed with Carbon and metals like Chromium, Nickel, and Manganese",
+      "Pure gold",
+      "Iron painted with white plastic",
+      "Pure aluminum"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "Stainless steel is a corrosion-resistant alloy of iron, carbon, chromium (≥10.5%), nickel, and manganese forming a self-healing passive oxide film."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Science",
+    "chapter": "Chapter 5: Physical and Chemical Changes",
+    "question": "The physical purification process of obtaining large, pure geometric crystals of a substance (such as Copper Sulphate) from its saturated hot solution is called:",
+    "options": [
+      "Crystallization",
+      "Evaporation",
+      "Sedimentation",
+      "Condensation"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "Crystallization is a physical separation and purification technique yielding highly ordered crystalline solids."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Science",
+    "chapter": "Chapter 5: Physical and Chemical Changes",
+    "question": "What gas turns clear Lime Water milky when passed through it?",
+    "options": [
+      "Carbon Dioxide (CO₂)",
+      "Oxygen (O₂)",
+      "Nitrogen (N₂)",
+      "Hydrogen (H₂)"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "CO₂ reacts with lime water [Ca(OH)₂] to precipitate insoluble white Calcium Carbonate (CaCO₃), turning the solution milky."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Science",
+    "chapter": "Chapter 5: Physical and Chemical Changes",
+    "question": "When an iron nail is dropped into a blue Copper Sulphate solution (CuSO₄), why does the solution color turn GREEN after an hour?",
+    "options": [
+      "Iron is more reactive than copper and displaces it, forming green Iron Sulphate (FeSO₄) solution",
+      "Because the nail absorbs all blue paint",
+      "Because algae grows inside the water",
+      "Because copper turns green"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "Single displacement reaction: Fe + CuSO₄ (blue) → FeSO₄ (green) + Cu (reddish-brown deposit on nail)."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Science",
+    "chapter": "Chapter 5: Physical and Chemical Changes",
+    "question": "What color is the thin metal coating deposited on the iron nail in the Copper Sulphate experiment?",
+    "options": [
+      "Brown / Reddish-brown (pure metallic Copper)",
+      "Silver",
+      "Yellow",
+      "Black"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "Elemental metallic copper (Cu) precipitates as a fine reddish-brown coating on the submerged iron nail."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Science",
+    "chapter": "Chapter 5: Physical and Chemical Changes",
+    "question": "Why is the BURNING of a candle considered BOTH a Physical Change and a Chemical Change simultaneously?",
+    "options": [
+      "Melting and solidification of wax is a Physical Change ; while burning of molten wax vapor in air to produce CO₂, water vapor, heat, and light is a Chemical Change",
+      "Because the thread grows longer",
+      "Because the glass melts",
+      "Because wax turns into water"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "Dual phenomenon: phase transition of solid wax to liquid wax is physical; exothermic hydrocarbon combustion is chemical."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Science",
+    "chapter": "Chapter 5: Physical and Chemical Changes",
+    "question": "Why do iron ships, bridges, and metal structures rust MUCH FASTER in coastal marine environments (near the sea) than in inland dry areas?",
+    "options": [
+      "Seawater contains high concentrations of dissolved mineral SALTS (NaCl) which act as an electrolyte, dramatically accelerating the electrochemical rate of rust formation",
+      "Because sea fish eat the iron",
+      "Because sea water is colder",
+      "Because ships move faster in oceans"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "Saline marine electrolyte solutions increase ionic conductivity, accelerating galvanic redox corrosion of iron."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Science",
+    "chapter": "Chapter 5: Physical and Chemical Changes",
+    "question": "What happens when Baking Soda (Sodium Hydrogen Carbonate) is mixed with Vinegar (Acetic Acid) in a test tube, and the resulting gas is bubbled into Lime Water?",
+    "options": [
+      "A vigorous hissing sound produces Carbon Dioxide (CO₂) gas ; when bubbled through lime water, it forms insoluble white Calcium Carbonate (CaCO₃), making it MILKY",
+      "The test tube turns into ice",
+      "Lime water turns bright yellow",
+      "No gas is produced"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "Effervescence of CO₂: NaHCO₃ + CH₃COOH → CH₃COONa + H₂O + CO₂↑. CO₂ + Ca(OH)₂ → CaCO₃↓ (milky) + H₂O."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Science",
+    "chapter": "Chapter 5: Physical and Chemical Changes",
+    "question": "Why is the Digestion of food inside our alimentary canal classified strictly as a Chemical Change?",
+    "options": [
+      "Digestive enzymes chemically hydrolyze complex starch, proteins, and fats into entirely new, simpler absorbable monomer molecules (glucose, amino acids) that cannot be reversed back into food",
+      "Because food just gets chewed smaller",
+      "Because water dissolves food physically",
+      "Because the stomach is a blender"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "Enzymatic hydrolysis breaks covalent macromolecular bonds, producing irreversible monomer biochemical entities."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Science",
+    "chapter": "Chapter 5: Physical and Chemical Changes",
+    "question": "Why does a freshly cut slice of an Apple or Brinjal (Eggplant) turn BROWN when left exposed to air for a few minutes?",
+    "options": [
+      "Polyphenol oxidase enzymes inside the apple react with atmospheric oxygen to form brown melanin pigments in an irreversible oxidation chemical reaction",
+      "Dust settles on the apple",
+      "The apple loses water and shrinks",
+      "The apple turns into wood"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "Enzymatic browning: polyphenol oxidases catalyze oxidation of phenolic compounds into quinones and melanin pigments."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Science",
+    "chapter": "Chapter 5: Physical and Chemical Changes",
+    "question": "What observable accompanying signs typically indicate that a Chemical Reaction has occurred?",
+    "options": [
+      "Evolution of gas, production of heat/light/sound, noticeable change in color, emission of a new smell, or formation of a precipitate",
+      "Only change in size",
+      "Only change in temperature without any new substance",
+      "The substance becomes invisible"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "Enthalpy changes, gas evolution, chromophoric shifts, odor generation, and precipitation characterize chemical changes."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Science",
+    "chapter": "Chapter 5: Physical and Chemical Changes",
+    "question": "Why is Photosynthesis in green plants classified as a Chemical Change?",
+    "options": [
+      "Carbon dioxide and water react in the presence of chlorophyll and sunlight to synthesize an entirely new chemical substance (Glucose) and release Oxygen gas",
+      "Because leaves stay green",
+      "Because sunlight warms the leaves physically",
+      "Because water evaporates from leaves"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "6CO₂ + 6H₂O + hν → C₆H₁₂O₆ + 6O₂ (anabolic synthesis of new carbohydrates)."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Science",
+    "chapter": "Chapter 5: Physical and Chemical Changes",
+    "question": "Why is cutting a log of wood into small pieces a PHYSICAL change, while burning that wood is a CHEMICAL change?",
+    "options": [
+      "Cutting alters only size/shape without making a new substance ; burning reacts with oxygen to form ash, smoke, CO₂, and heat, which cannot be reversed",
+      "Cutting makes new wood",
+      "Burning is reversible",
+      "Both are physical changes"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "Mechanical severance preserves cellulose chemistry (physical); pyrolytic combustion oxidizes organic polymers into CO₂ and minerals (chemical)."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Science",
+    "chapter": "Chapter 5: Physical and Chemical Changes",
+    "question": "What protective role does the Ozone Layer (O₃) in the stratosphere play by undergoing a continuous chemical change?",
+    "options": [
+      "It absorbs harmful high-energy Ultraviolet (UV) radiation from the Sun and breaks down into Oxygen (O₂); absorbing UV prevents skin cancer and cataracts",
+      "It makes the sky blue",
+      "It brings rain clouds",
+      "It keeps the Earth warm by burning"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "Photochemical Chapman cycle: O₃ + UV photon → O₂ + O· (absorbing lethal UV-B/UV-C radiation)."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Science",
+    "chapter": "Chapter 5: Physical and Chemical Changes",
+    "question": "Why is the explosion of a Firecracker considered a Chemical Change?",
+    "options": [
+      "Gunpowder and chemicals react rapidly with oxygen, producing heat, brilliant light, explosive sound, and unpleasant sulfur gases",
+      "Because firecrackers can be re-exploded",
+      "Because firecrackers change only shape",
+      "Because firecrackers turn into water"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "Exothermic deflagration of oxidizers (KNO₃) and fuels (S, C) produces light, shockwaves, and gaseous products."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Science",
+    "chapter": "Chapter 5: Physical and Chemical Changes",
+    "question": "How can Copper Sulphate crystals be prepared in the laboratory?",
+    "options": [
+      "Boil water, add dilute Sulfuric acid, slowly stir in Copper Sulphate powder until no more dissolves (saturated), filter while hot, and let it cool undisturbed to form blue crystals",
+      "Mix copper with cold tap water",
+      "Burn copper metal over a flame",
+      "Freeze copper in ice"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "Supersaturation crystallization: dissolving solute at elevated temperature and slow cooling precipitates pure CuSO₄·5H₂O crystals."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Science",
+    "chapter": "Chapter 5: Physical and Chemical Changes",
+    "question": "Why is tearing a piece of paper into 100 tiny pieces classified as a Physical Change?",
+    "options": [
+      "Each tiny scrap is still chemically made of the exact same Cellulose fibers; no new chemical substance is formed",
+      "Because the scraps can be glued back",
+      "Because the paper disappears",
+      "Because paper turns into plastic"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "Mechanical subdivision alters surface area and macroscopic geometry while molecular cellulose composition remains intact."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Science",
+    "chapter": "Chapter 5: Physical and Chemical Changes",
+    "question": "What is the chemical formula of Rust formed on iron?",
+    "options": [
+      "Hydrated Iron(III) Oxide [Fe₂O₃·xH₂O]",
+      "Iron Sulphide [FeS]",
+      "Iron Carbonate [FeCO₃]",
+      "Iron Hydroxide only [Fe(OH)₂]"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "Rust is porous, reddish-brown hydrated ferric oxide: Fe₂O₃·xH₂O."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Science",
+    "chapter": "Chapter 5: Physical and Chemical Changes",
+    "question": "Why are overhead water transmission pipes and iron railings in houses galvanized?",
+    "options": [
+      "The zinc coating prevents direct contact of iron with atmospheric oxygen and water, preventing rust corrosion",
+      "To make water flow faster",
+      "To make pipes look shiny",
+      "To heat the water"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "Galvanized zinc provides a physical barrier and sacrificial anodic protection against rusting."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Science",
+    "chapter": "Chapter 5: Physical and Chemical Changes",
+    "question": "Why does blowing breath through a straw into lime water turn it milky faster than letting it sit in open air?",
+    "options": [
+      "Exhaled human breath contains a much higher concentration of Carbon Dioxide (~4% CO₂) than ambient atmospheric air (~0.04% CO₂)",
+      "Exhaled breath contains water",
+      "Exhaled breath is hot",
+      "Exhaled breath contains oxygen"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "Exhaled metabolic CO₂ (~40,000 ppm) rapidly precipitates calcium carbonate in Ca(OH)₂ solution."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Science",
+    "chapter": "Chapter 5: Physical and Chemical Changes",
+    "question": "What happens when glowing red-hot charcoal reacts with air?",
+    "options": [
+      "Carbon in charcoal combusts with oxygen to produce Carbon Dioxide gas (CO₂), heat, and light: C + O₂ -> CO₂ (Chemical Change)",
+      "It turns into pure water",
+      "It becomes colder",
+      "It changes only into ice"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "C(s) + O₂(g) → CO₂(g) + ΔH (exothermic chemical combustion)."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Science",
+    "chapter": "Chapter 5: Physical and Chemical Changes",
+    "question": "Read the statements:\nAssertion (A): Setting of Milk into Curd is an irreversible Chemical Change.\nReason (R): Lactobacillus bacteria ferment milk lactose into lactic acid, denaturing casein proteins and creating an entirely new acidic substance with different taste and chemical properties that cannot be converted back into milk.\nChoose the correct option:",
+    "options": [
+      "Both (A) and (R) are true, and (R) is the correct explanation of (A).",
+      "Both (A) and (R) are true, but (R) is NOT the correct explanation of (A).",
+      "(A) is true, but (R) is false.",
+      "(A) is false, but (R) is true."
+    ],
+    "correctAnswer": 0,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "Lactic acid fermentation involves biochemical alteration of carbohydrates and irreversible protein curdling."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Science",
+    "chapter": "Chapter 5: Physical and Chemical Changes",
+    "question": "Spot the IMPOSTER in the following group of Changes and their scientific classifications:\nGroup:\n1. Dissolving common salt in water - Physical Change\n2. Boiling water to form steam - Physical Change\n3. Rusting of an iron gate - Chemical Change\n4. Photosynthesis in green plants - Physical Change",
+    "options": [
+      "Change 1",
+      "Change 2",
+      "Change 3",
+      "Change 4 (Photosynthesis is a profound CHEMICAL CHANGE, not a physical change)"
+    ],
+    "correctAnswer": 3,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "Photosynthesis synthesizes glucose and oxygen from CO₂ and H₂O, constituting an essential chemical reaction."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Science",
+    "chapter": "Chapter 5: Physical and Chemical Changes",
+    "question": "In the reaction between Copper Sulphate and Iron:\nFe(s) + CuSO₄(aq) [Blue] -> FeSO₄(aq) [Green] + Cu(s) [Brown deposit]\nWhat type of chemical reaction is this, and why does it happen?",
+    "options": [
+      "Single Displacement (Redox) Reaction: Iron is more electrochemically reactive than copper, so it loses electrons and displaces copper from its sulfate solution",
+      "Double Decomposition Reaction",
+      "Neutralization Reaction",
+      "Physical Phase Change"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "Standard reactivity series: Fe is oxidized to Fe²⁺ (E° = -0.44 V), displacing Cu²⁺ (E° = +0.34 V) to metallic Cu."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Science",
+    "chapter": "Chapter 5: Physical and Chemical Changes",
+    "question": "Match Column I (Chemical Processes) with Column II (Essential Chemical Equations):\n(a) Burning of Magnesium ribbon  -> (i) 2Mg + O₂ -> 2MgO\n(b) Making Milk of Magnesia      -> (ii) MgO + H₂O -> Mg(OH)₂\n(c) Lime water turning milky     -> (iii) CO₂ + Ca(OH)₂ -> CaCO₃ + H₂O\n(d) Iron rusting                 -> (iv) 4Fe + 3O₂ + 2xH₂O -> 2Fe₂O₃·xH₂O",
+    "options": [
+      "a-(i), b-(ii), c-(iii), d-(iv)",
+      "a-(ii), b-(i), c-(iv), d-(iii)",
+      "a-(iv), b-(iii), c-(ii), d-(i)",
+      "a-(iii), b-(iv), c-(i), d-(ii)"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "Exact stoichiometric equations for the four foundational chemical reactions studied in Class 7 Chapter 5."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Science",
+    "chapter": "Chapter 5: Physical and Chemical Changes",
+    "question": "Read the statements regarding physical and chemical changes:\nStatement 1: In any physical change, the total mass of the substance remains strictly conserved.\nStatement 2: In any chemical change, energy (heat/light) is either absorbed (endothermic) or released (exothermic).\nStatement 3: Rusting can occur in pure dry nitrogen gas in the complete absence of oxygen and water.\nWhich statements are TRUE?",
+    "options": [
+      "Statements 1 and 2 only",
+      "Statements 2 and 3 only",
+      "Statements 1 and 3 only",
+      "All Statements 1, 2, and 3"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "Statement 3 is false because rusting requires oxygen and moisture. Statements 1 and 2 are universal thermodynamic laws."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Science",
+    "chapter": "Chapter 5: Physical and Chemical Changes",
+    "question": "Why does applying a coat of paint or grease on an iron object prevent rusting only as long as the paint layer remains intact?",
+    "options": [
+      "Paint acts as a physical barrier preventing atmospheric oxygen and moisture from contacting iron atoms; any scratch exposes iron, initiating rapid localized galvanic rusting",
+      "Because paint kills bacteria",
+      "Because paint turns iron into plastic",
+      "Because grease makes iron colder"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "Barrier coatings prevent contact between iron and ambient moisture/O₂; breaches initiate localized crevice corrosion."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Science",
+    "chapter": "Chapter 5: Physical and Chemical Changes",
+    "question": "What is the crucial scientific difference between EVAPORATION (to dryness) and CRYSTALLIZATION when purifying dissolved solids?",
+    "options": [
+      "Evaporation to dryness can decompose heat-sensitive substances or leave soluble impurities mixed in ; Crystallization precipitates pure geometric crystals from cooled saturated solutions, leaving impurities in the mother liquor",
+      "Evaporation produces crystals and crystallization produces steam",
+      "Crystallization is a chemical change while evaporation is not",
+      "There is no difference"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "Crystallization purifies by lattice exclusion (impurities remain in mother liquor), preventing thermal decomposition."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Science",
+    "chapter": "Chapter 5: Physical and Chemical Changes",
+    "question": "Consider four events:\n1. Melting of candle wax\n2. Fermentation of grape juice into wine\n3. Dissolving sugar in hot tea\n4. Digestion of rice into glucose\nWhich of these are CHEMICAL CHANGES?",
+    "options": [
+      "Events 2 and 4 (Fermentation and Digestion)",
+      "Events 1 and 3",
+      "Events 1 and 2",
+      "Events 3 and 4"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "Fermentation (anaerobic ethanol production) and Digestion (enzymatic hydrolysis) create new molecular products (chemical changes)."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Science",
+    "chapter": "Chapter 5: Physical and Chemical Changes",
+    "question": "What happens when excess Carbon Dioxide gas is continuously bubbled into milky lime water for a prolonged duration?",
+    "options": [
+      "The milkiness DISAPPEARS and the solution becomes completely clear again because insoluble Calcium Carbonate converts into soluble Calcium Hydrogen Carbonate [Ca(HCO₃)₂]",
+      "The solution explodes",
+      "The milkiness turns black",
+      "The solution freezes solid"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "CaCO₃ + H₂O + excess CO₂ → Ca(HCO₃)₂ (soluble calcium bicarbonate), clearing the milkiness."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Science",
+    "chapter": "Chapter 5: Physical and Chemical Changes",
+    "question": "Why is the rusting of iron an electrochemical REDOX (Reduction-Oxidation) reaction?",
+    "options": [
+      "Iron atoms lose electrons (Oxidation: Fe -> Fe²⁺ + 2e⁻) and atmospheric Oxygen molecules gain electrons in the presence of water (Reduction), forming hydrated iron oxide",
+      "Iron gains protons from water",
+      "Oxygen turns into hydrogen",
+      "Iron melts into liquid"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "Corrosion kinetics: Anodic oxidation Fe → Fe²⁺ + 2e⁻ coupled to cathodic reduction O₂ + 4H⁺ + 4e⁻ → 2H₂O."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Science",
+    "chapter": "Chapter 5: Physical and Chemical Changes",
+    "question": "What happens during the Sublimation of Camphor or Ammonium Chloride when heated in a china dish covered with an inverted glass funnel?",
+    "options": [
+      "Solid camphor changes directly into gas vapors upon heating without passing through the liquid phase, condensing back to pure solid crystals on the cool funnel neck (Physical Change)",
+      "It burns into black ash permanently",
+      "It turns into liquid water",
+      "It reacts with glass to form acid"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "Sublimation is a physical phase transition: solid ⇌ vapor without passing through intermediate liquid state."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Science",
+    "chapter": "Chapter 5: Physical and Chemical Changes",
+    "question": "What comprehensive scientific principle summarizes Chapter 5 of NCERT Class 7 Science?",
+    "options": [
+      "Matter undergoes physical transformations altering state and shape without changing chemical identity, alongside profound chemical reactions that synthesize new substances, drive biological metabolism, power metallurgy, and govern natural biogeochemical cycles",
+      "All physical changes are chemical changes",
+      "Chemical reactions only happen in laboratories",
+      "Rusting can be prevented by heating iron to 1,000°C"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "Chapter 5 integrates the molecular taxonomy of matter: phase transitions, stoichiometry of chemical reactions, corrosion mechanisms, and purification metallurgy."
+  }
+]

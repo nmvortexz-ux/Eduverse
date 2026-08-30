@@ -1,0 +1,465 @@
+import fs from 'fs';
+
+// -------------------------------------------------------------
+// SUBJECT 4: General Knowledge - Chapter 2: Famous Personalities & Leaders of India (40 Questions)
+// -------------------------------------------------------------
+const gkQuestions = [
+  // EASY (12)
+  {
+    classLevel: 6,
+    subject: "GK",
+    chapter: "Chapter 2: Famous Personalities & Leaders of India",
+    question: "Who is universally revered as the 'Father of the Nation' in India?",
+    options: ["Mahatma Gandhi (Mohandas Karamchand Gandhi)", "Jawaharlal Nehru", "Subhas Chandra Bose", "Sardar Vallabhbhai Patel"],
+    correctAnswer: 0,
+    difficulty: "EASY",
+    damage: 150,
+    explanation: "Mahatma Gandhi led India's non-violent independence struggle through Satyagraha and Ahimsa."
+  },
+  {
+    classLevel: 6,
+    subject: "GK",
+    chapter: "Chapter 2: Famous Personalities & Leaders of India",
+    question: "Who was the first Prime Minister of independent India, lovingly called 'Chacha Nehru' by children?",
+    options: ["Pandit Jawaharlal Nehru", "Lal Bahadur Shastri", "Indira Gandhi", "Dr. Rajendra Prasad"],
+    correctAnswer: 0,
+    difficulty: "EASY",
+    damage: 150,
+    explanation: "Pandit Jawaharlal Nehru served as the first Prime Minister of independent India from 1947 to 1964."
+  },
+  {
+    classLevel: 6,
+    subject: "GK",
+    chapter: "Chapter 2: Famous Personalities & Leaders of India",
+    question: "Who was the first President of the Republic of India?",
+    options: ["Dr. Rajendra Prasad", "Dr. S. Radhakrishnan", "Dr. Zakir Husain", "V.V. Giri"],
+    correctAnswer: 0,
+    difficulty: "EASY",
+    damage: 150,
+    explanation: "Dr. Rajendra Prasad was elected the first President of India, serving from 1950 to 1962."
+  },
+  {
+    classLevel: 6,
+    subject: "GK",
+    chapter: "Chapter 2: Famous Personalities & Leaders of India",
+    question: "Who is known as the 'Architect / Father of the Indian Constitution'?",
+    options: ["Dr. Bhimrao Ramji Ambedkar", "Mahatma Gandhi", "Dr. B.N. Rau", "Sardar Patel"],
+    correctAnswer: 0,
+    difficulty: "EASY",
+    damage: 150,
+    explanation: "Dr. B.R. Ambedkar was the Chairman of the Drafting Committee of the Constituent Assembly."
+  },
+  {
+    classLevel: 6,
+    subject: "GK",
+    chapter: "Chapter 2: Famous Personalities & Leaders of India",
+    question: "Who is renowned as the 'Iron Man of India' (Lauh Purush) for integrating over 560 princely states into the Indian Union?",
+    options: ["Sardar Vallabhbhai Patel", "Bal Gangadhar Tilak", "Bhagat Singh", "Lala Lajpat Rai"],
+    correctAnswer: 0,
+    difficulty: "EASY",
+    damage: 150,
+    explanation: "Sardar Patel served as India's first Deputy Prime Minister and Home Minister, unifying the nation."
+  },
+  {
+    classLevel: 6,
+    subject: "GK",
+    chapter: "Chapter 2: Famous Personalities & Leaders of India",
+    question: "Who founded the Indian National Army (Azad Hind Fauj) and gave the famous rallying cry 'Jai Hind'?",
+    options: ["Netaji Subhas Chandra Bose", "Chandra Shekhar Azad", "Bhagat Singh", "Ashfaqulla Khan"],
+    correctAnswer: 0,
+    difficulty: "EASY",
+    damage: 150,
+    explanation: "Netaji Subhas Chandra Bose reorganized the INA to liberate India from British colonial rule."
+  },
+  {
+    classLevel: 6,
+    subject: "GK",
+    chapter: "Chapter 2: Famous Personalities & Leaders of India",
+    question: "Who is known as the 'Nightingale of India' (Bharat Kokila) for her exquisite lyrical poetry and patriotic leadership?",
+    options: ["Sarojini Naidu", "Lata Mangeshkar", "Kamala Nehru", "Kasturba Gandhi"],
+    correctAnswer: 0,
+    difficulty: "EASY",
+    damage: 150,
+    explanation: "Sarojini Naidu was a renowned poet and became the first woman Governor of an Indian state (Uttar Pradesh)."
+  },
+  {
+    classLevel: 6,
+    subject: "GK",
+    chapter: "Chapter 2: Famous Personalities & Leaders of India",
+    question: "Who was the first Indian to receive a Nobel Prize (Nobel Prize in Literature in 1913 for 'Gitanjali')?",
+    options: ["Rabindranath Tagore", "Sir C.V. Raman", "Mother Teresa", "Amartya Sen"],
+    correctAnswer: 0,
+    difficulty: "EASY",
+    damage: 150,
+    explanation: "Rabindranath Tagore received the 1913 Nobel Prize in Literature for his profound spiritual anthology 'Gitanjali'."
+  },
+  {
+    classLevel: 6,
+    subject: "GK",
+    chapter: "Chapter 2: Famous Personalities & Leaders of India",
+    question: "Who is celebrated as the 'Missile Man of India' and served as the 11th President of India?",
+    options: ["Dr. A.P.J. Abdul Kalam", "Dr. Homi J. Bhabha", "Dr. Vikram Sarabhai", "Dr. K. Sivan"],
+    correctAnswer: 0,
+    difficulty: "EASY",
+    damage: 150,
+    explanation: "Dr. Kalam spearheaded India's Integrated Guided Missile Development Program (Agni and Prithvi)."
+  },
+  {
+    classLevel: 6,
+    subject: "GK",
+    chapter: "Chapter 2: Famous Personalities & Leaders of India",
+    question: "Whose birthday on 5th September is celebrated across India as 'National Teachers' Day'?",
+    options: ["Dr. Sarvepalli Radhakrishnan", "Swami Vivekananda", "Ishwar Chandra Vidyasagar", "Savitribai Phule"],
+    correctAnswer: 0,
+    difficulty: "EASY",
+    damage: 150,
+    explanation: "Dr. S. Radhakrishnan was a philosopher, scholar, and the 2nd President of India."
+  },
+  {
+    classLevel: 6,
+    subject: "GK",
+    chapter: "Chapter 2: Famous Personalities & Leaders of India",
+    question: "Who gave the famous freedom slogan: 'Swaraj is my birthright and I shall have it!'?",
+    options: ["Bal Gangadhar Tilak", "Lala Lajpat Rai", "Bipin Chandra Pal", "Gopal Krishna Gokhale"],
+    correctAnswer: 0,
+    difficulty: "EASY",
+    damage: 150,
+    explanation: "Lokmanya Bal Gangadhar Tilak raised this electrifying proclamation during the nationalist Swadeshi movement."
+  },
+  {
+    classLevel: 6,
+    subject: "GK",
+    chapter: "Chapter 2: Famous Personalities & Leaders of India",
+    question: "Who was the first woman Prime Minister of the Republic of India?",
+    options: ["Indira Gandhi", "Pratibha Patil", "Sushma Swaraj", "Sarojini Naidu"],
+    correctAnswer: 0,
+    difficulty: "EASY",
+    damage: 150,
+    explanation: "Indira Gandhi served as Prime Minister from 1966 to 1977 and again from 1980 to 1984."
+  },
+
+  // MEDIUM (16)
+  {
+    classLevel: 6,
+    subject: "GK",
+    chapter: "Chapter 2: Famous Personalities & Leaders of India",
+    question: "Who is regarded as the 'Father of the Indian Space Program'?",
+    options: ["Dr. Vikram Sarabhai", "Dr. Homi Bhabha", "Dr. Satish Dhawan", "Dr. A.P.J. Abdul Kalam"],
+    correctAnswer: 0,
+    difficulty: "MEDIUM",
+    damage: 250,
+    explanation: "Dr. Vikram Sarabhai founded INCOSPAR (later ISRO) and established the Thumba Equatorial Rocket Launching Station."
+  },
+  {
+    classLevel: 6,
+    subject: "GK",
+    chapter: "Chapter 2: Famous Personalities & Leaders of India",
+    question: "Who was the legendary female ruler of Jhansi who fought valiantly against British forces in the Revolt of 1857?",
+    options: ["Rani Lakshmibai (Manikarnika)", "Begum Hazrat Mahal", "Rani Chennamma", "Rani Avantibai"],
+    correctAnswer: 0,
+    difficulty: "MEDIUM",
+    damage: 250,
+    explanation: "Rani Lakshmibai led the defense of Jhansi, martyred on the battlefield in Gwalior in June 1858."
+  },
+  {
+    classLevel: 6,
+    subject: "GK",
+    chapter: "Chapter 2: Famous Personalities & Leaders of India",
+    question: "Who gave the famous call 'Jai Jawan, Jai Kisan' during the 1965 war to inspire soldiers and agricultural farmers?",
+    options: ["Lal Bahadur Shastri", "Jawaharlal Nehru", "Morarji Desai", "Gulzarilal Nanda"],
+    correctAnswer: 0,
+    difficulty: "MEDIUM",
+    damage: 250,
+    explanation: "Prime Minister Lal Bahadur Shastri coined the historic slogan at the Ramlila Maidan in 1965."
+  },
+  {
+    classLevel: 6,
+    subject: "GK",
+    chapter: "Chapter 2: Famous Personalities & Leaders of India",
+    question: "Which Indian physicist won the Nobel Prize in Physics in 1930 for his groundbreaking discovery of the scattering of light?",
+    options: ["Sir C.V. Raman (Chandrasekhara Venkata Raman)", "Satyendra Nath Bose", "Meghnad Saha", "Jagadish Chandra Bose"],
+    correctAnswer: 0,
+    difficulty: "MEDIUM",
+    damage: 250,
+    explanation: "The 'Raman Effect' explains inelastic scattering of photons; 28 February is celebrated as National Science Day in his honor."
+  },
+  {
+    classLevel: 6,
+    subject: "GK",
+    chapter: "Chapter 2: Famous Personalities & Leaders of India",
+    question: "Who delivered the historic speech introducing Hinduism and universal tolerance at the Parliament of the World's Religions in Chicago in 1893?",
+    options: ["Swami Vivekananda (Narendranath Datta)", "Ramakrishna Paramahamsa", "Swami Dayananda Saraswati", "Sri Aurobindo"],
+    correctAnswer: 0,
+    difficulty: "MEDIUM",
+    damage: 250,
+    explanation: "Swami Vivekananda opened with 'Sisters and brothers of America', receiving a two-minute standing ovation."
+  },
+  {
+    classLevel: 6,
+    subject: "GK",
+    chapter: "Chapter 2: Famous Personalities & Leaders of India",
+    question: "Who is recognized as the pioneer of women's education in India and started the first school for girls in Pune in 1848?",
+    options: ["Savitribai Phule (along with Jyotirao Phule)", "Annie Besant", "Sarojini Naidu", "Pandita Ramabai"],
+    correctAnswer: 0,
+    difficulty: "MEDIUM",
+    damage: 250,
+    explanation: "Savitribai Phule was India's first modern female teacher and crusader against caste and gender oppression."
+  },
+  {
+    classLevel: 6,
+    subject: "GK",
+    chapter: "Chapter 2: Famous Personalities & Leaders of India",
+    question: "Which legendary freedom fighter was martyred at the age of 23 in Lahore Central Jail on 23 March 1931?",
+    options: ["Bhagat Singh (Shaheed Bhagat Singh)", "Chandra Shekhar Azad", "Ram Prasad Bismil", "Udham Singh"],
+    correctAnswer: 0,
+    difficulty: "MEDIUM",
+    damage: 250,
+    explanation: "Bhagat Singh, alongside Sukhdev and Rajguru, made the supreme sacrifice; 23 March is observed as Shaheed Diwas."
+  },
+  {
+    classLevel: 6,
+    subject: "GK",
+    chapter: "Chapter 2: Famous Personalities & Leaders of India",
+    question: "What is the world's tallest statue (182 meters) located near Kevadia, Gujarat dedicated to?",
+    options: ["Statue of Unity (dedicated to Sardar Vallabhbhai Patel)", "Statue of Equality", "Statue of Peace", "Statue of Liberty"],
+    correctAnswer: 0,
+    difficulty: "MEDIUM",
+    damage: 250,
+    explanation: "The 182-meter Statue of Unity on the Narmada River honors Sardar Patel's historic integration of India."
+  },
+  {
+    classLevel: 6,
+    subject: "GK",
+    chapter: "Chapter 2: Famous Personalities & Leaders of India",
+    question: "Who was the first Indian citizen to travel into outer space on board the Soviet Soyuz T-11 spacecraft on 3 April 1984?",
+    options: ["Wing Commander Rakesh Sharma", "Kalpana Chawla", "Sunita Williams", "Prashanth Nair"],
+    correctAnswer: 0,
+    difficulty: "MEDIUM",
+    damage: 250,
+    explanation: "When asked by PM Indira Gandhi how India looked from space, Rakesh Sharma replied: 'Saare Jahan Se Achha'."
+  },
+  {
+    classLevel: 6,
+    subject: "GK",
+    chapter: "Chapter 2: Famous Personalities & Leaders of India",
+    question: "Who was the first woman of Indian origin in space, who tragically perished aboard the Space Shuttle Columbia in 2003?",
+    options: ["Dr. Kalpana Chawla", "Sunita Williams", "Sirisha Bandla", "Bachendri Pal"],
+    correctAnswer: 0,
+    difficulty: "MEDIUM",
+    damage: 250,
+    explanation: "Aeronautical engineer Kalpana Chawla from Karnal, Haryana flew on STS-87 (1997) and STS-107 (2003)."
+  },
+  {
+    classLevel: 6,
+    subject: "GK",
+    chapter: "Chapter 2: Famous Personalities & Leaders of India",
+    question: "Who was the first Indian woman to climb the summit of Mount Everest in May 1984?",
+    options: ["Bachendri Pal", "Santosh Yadav", "Arunima Sinha", "Premlata Agarwal"],
+    correctAnswer: 0,
+    difficulty: "MEDIUM",
+    damage: 250,
+    explanation: "Bachendri Pal reached the 8,848 m summit of Everest as the first Indian woman mountaineer on 23 May 1984."
+  },
+  {
+    classLevel: 6,
+    subject: "GK",
+    chapter: "Chapter 2: Famous Personalities & Leaders of India",
+    question: "Who was the legendary field hockey wizard of India who won three consecutive Olympic gold medals (1928, 1932, 1936)?",
+    options: ["Major Dhyan Chand", "Balbir Singh Sr.", "K.D. Singh Babu", "Dhanraj Pillay"],
+    correctAnswer: 0,
+    difficulty: "MEDIUM",
+    damage: 250,
+    explanation: "Major Dhyan Chand's birthday on 29 August is celebrated annually as India's National Sports Day."
+  },
+  {
+    classLevel: 6,
+    subject: "GK",
+    chapter: "Chapter 2: Famous Personalities & Leaders of India",
+    question: "Who is universally celebrated as the 'Father of Indian Nuclear Program'?",
+    options: ["Dr. Homi Jehangir Bhabha", "Dr. Vikram Sarabhai", "Dr. Raja Ramanna", "Dr. A.P.J. Abdul Kalam"],
+    correctAnswer: 0,
+    difficulty: "MEDIUM",
+    damage: 250,
+    explanation: "Dr. Bhabha founded the Tata Institute of Fundamental Research (TIFR) and the Atomic Energy Establishment at Trombay (now BARC)."
+  },
+  {
+    classLevel: 6,
+    subject: "GK",
+    chapter: "Chapter 2: Famous Personalities & Leaders of India",
+    question: "Who was the first woman President of the Republic of India?",
+    options: ["Pratibha Devisingh Patil", "Droupadi Murmu", "Indira Gandhi", "Sarojini Naidu"],
+    correctAnswer: 0,
+    difficulty: "MEDIUM",
+    damage: 250,
+    explanation: "Pratibha Patil served as the 12th President of India from 2007 to 2012 as the first woman head of state."
+  },
+  {
+    classLevel: 6,
+    subject: "GK",
+    chapter: "Chapter 2: Famous Personalities & Leaders of India",
+    question: "Who is known as the 'Father of the Green Revolution in India' for introducing high-yielding semi-dwarf wheat varieties?",
+    options: ["Dr. M.S. Swaminathan", "Dr. Verghese Kurien", "Dr. Norman Borlaug", "Dr. Birbal Sahni"],
+    correctAnswer: 0,
+    difficulty: "MEDIUM",
+    damage: 250,
+    explanation: "Agronomist Dr. M.S. Swaminathan transformed Indian agriculture, averting widespread famine in the 1960s."
+  },
+  {
+    classLevel: 6,
+    subject: "GK",
+    chapter: "Chapter 2: Famous Personalities & Leaders of India",
+    question: "Who is known as the 'Father of the White Revolution / Milk Revolution (Operation Flood)' in India?",
+    options: ["Dr. Verghese Kurien", "Dr. M.S. Swaminathan", "Amul Kumar", "Tribhuvandas Patel"],
+    correctAnswer: 0,
+    difficulty: "MEDIUM",
+    damage: 250,
+    explanation: "Dr. Verghese Kurien engineered the cooperative dairy model (Amul), making India the world's largest milk producer."
+  },
+
+  // HARD (12)
+  {
+    classLevel: 6,
+    subject: "GK",
+    chapter: "Chapter 2: Famous Personalities & Leaders of India",
+    question: "Read the statements:\nAssertion (A): National Science Day is celebrated in India every year on 28th February.\nReason (R): On 28 February 1928, Sir C.V. Raman discovered the 'Raman Effect', for which he was awarded the Nobel Prize in Physics in 1930.\nChoose the correct option:",
+    "options": [
+      "Both (A) and (R) are true, and (R) is the correct explanation of (A).",
+      "Both (A) and (R) are true, but (R) is NOT the correct explanation of (A).",
+      "(A) is true, but (R) is false.",
+      "(A) is false, but (R) is true."
+    ],
+    correctAnswer: 0,
+    difficulty: "HARD",
+    damage: 350,
+    explanation: "National Science Day commemorates the discovery date (28 Feb 1928) of Raman inelastic light scattering."
+  },
+  {
+    classLevel: 6,
+    subject: "GK",
+    chapter: "Chapter 2: Famous Personalities & Leaders of India",
+    question: "Spot the IMPOSTER in the following list of iconic Indian leaders and their popular honorific titles:\nGroup: [Sardar Patel - Lauh Purush, Bal Gangadhar Tilak - Lokmanya, Lala Lajpat Rai - Punjab Kesari, Subhas Chandra Bose - Gurudev]",
+    "options": ["Sardar Patel - Lauh Purush", "Bal Gangadhar Tilak - Lokmanya", "Lala Lajpat Rai - Punjab Kesari", "Subhas Chandra Bose - Gurudev"],
+    correctAnswer: 3,
+    difficulty: "HARD",
+    damage: 350,
+    explanation: "'Gurudev' is the honorific bestowed upon Rabindranath Tagore; Subhas Chandra Bose was addressed as 'Netaji'."
+  },
+  {
+    classLevel: 6,
+    subject: "GK",
+    chapter: "Chapter 2: Famous Personalities & Leaders of India",
+    question: "Match the following historical figures with the organizations/institutions they founded:\n(a) Raja Ram Mohan Roy   -> (i) Ramakrishna Mission (1897)\n(b) Swami Vivekananda     -> (ii) Brahmo Samaj (1828)\n(c) Dayananda Saraswati   -> (iii) Banaras Hindu University (1916)\n(d) Madan Mohan Malaviya  -> (iv) Arya Samaj (1875)",
+    "options": [
+      "a-(ii), b-(i), c-(iv), d-(iii)",
+      "a-(i), b-(ii), c-(iii), d-(iv)",
+      "a-(iv), b-(iii), c-(ii), d-(i)",
+      "a-(iii), b-(iv), c-(i), d-(ii)"
+    ],
+    correctAnswer: 0,
+    difficulty: "HARD",
+    damage: 350,
+    explanation: "Ram Mohan Roy = Brahmo Samaj; Vivekananda = Ramakrishna Mission; Dayananda = Arya Samaj; Malaviya = BHU."
+  },
+  {
+    classLevel: 6,
+    subject: "GK",
+    chapter: "Chapter 2: Famous Personalities & Leaders of India",
+    question: "Who was the brilliant Indian self-taught mathematical genius whose birthday on 22 December is celebrated as 'National Mathematics Day'?",
+    "options": ["Srinivasa Ramanujan", "Aryabhata", "Brahmagupta", "Prasanta Chandra Mahalanobis"],
+    correctAnswer: 0,
+    difficulty: "HARD",
+    damage: 350,
+    explanation: "Srinivasa Ramanujan contributed profound theorems in infinite series, elliptic integrals, and partition theory (Hardy-Ramanujan 1729)."
+  },
+  {
+    classLevel: 6,
+    subject: "GK",
+    chapter: "Chapter 2: Famous Personalities & Leaders of India",
+    question: "Read the statements regarding India's first President and Prime Minister:\nStatement 1: Dr. Rajendra Prasad was the President of the Constituent Assembly before becoming President of India.\nStatement 2: Jawaharlal Nehru delivered the famous 'Tryst with Destiny' speech at the midnight of 14-15 August 1947.\nStatement 3: Dr. B.R. Ambedkar was the first Defence Minister of India.\nWhich statements are TRUE?",
+    "options": ["Statements 1 and 2 only", "Statements 2 and 3 only", "Statements 1 and 3 only", "All Statements 1, 2, and 3"],
+    correctAnswer: 0,
+    difficulty: "HARD",
+    damage: 350,
+    explanation: "Statement 3 is false because Dr. B.R. Ambedkar was India's first Law Minister; Baldev Singh was the first Defence Minister."
+  },
+  {
+    classLevel: 6,
+    subject: "GK",
+    chapter: "Chapter 2: Famous Personalities & Leaders of India",
+    question: "Who was the first Chief Election Commissioner of independent India who successfully supervised the first historic General Elections of 1951-52?",
+    "options": ["Sukumar Sen", "T.N. Seshan", "K.V.K. Sundaram", "S.P. Sen Verma"],
+    correctAnswer: 0,
+    difficulty: "HARD",
+    damage: 350,
+    explanation: "Civil servant Sukumar Sen orchestrated the massive logistical feat of India's first universal adult franchise elections."
+  },
+  {
+    classLevel: 6,
+    subject: "GK",
+    chapter: "Chapter 2: Famous Personalities & Leaders of India",
+    question: "Which Indian scientist proved that plants have life and sensitivity by inventing the Crescograph to measure microscopic plant growth?",
+    "options": ["Sir Jagadish Chandra Bose", "Birbal Sahni", "Prafulla Chandra Ray", "Salim Ali"],
+    correctAnswer: 0,
+    difficulty: "HARD",
+    damage: 350,
+    explanation: "Polymath J.C. Bose pioneered plant biophysics and millimeter microwave wireless signaling."
+  },
+  {
+    classLevel: 6,
+    subject: "GK",
+    chapter: "Chapter 2: Famous Personalities & Leaders of India",
+    question: "Who was the renowned ornithologist celebrated as the 'Birdman of India' for systematically cataloguing Indian avifauna?",
+    "options": ["Dr. Salim Ali", "Dr. M.S. Swaminathan", "Jim Corbett", "Sundarlal Bahuguna"],
+    correctAnswer: 0,
+    difficulty: "HARD",
+    damage: 350,
+    explanation: "Dr. Salim Ali conducted pioneering bird surveys across the subcontinent and wrote 'The Book of Indian Birds'."
+  },
+  {
+    classLevel: 6,
+    subject: "GK",
+    chapter: "Chapter 2: Famous Personalities & Leaders of India",
+    question: "Who led the famous non-violent Chipko Movement in the Garhwal Himalayas in the 1970s to protect forest trees from commercial felling?",
+    "options": ["Sundarlal Bahuguna and Chandi Prasad Bhatt", "Medha Patkar", "Baba Amte", "Anna Hazare"],
+    correctAnswer: 0,
+    difficulty: "HARD",
+    damage: 350,
+    explanation: "Environmentalist Sundarlal Bahuguna coined the Chipko slogan: 'Ecology is permanent economy'."
+  },
+  {
+    classLevel: 6,
+    subject: "GK",
+    chapter: "Chapter 2: Famous Personalities & Leaders of India",
+    question: "Consider four Bharat Ratna awardees:\n1. Dr. S. Radhakrishnan (1954)\n2. Sir C.V. Raman (1954)\n3. C. Rajagopalachari (1954)\n4. Sachin Tendulkar (2014)\nWho among these received the Bharat Ratna in its very inaugural year (1954)?",
+    "options": ["1, 2, and 3 only", "4 only", "1 and 2 only", "All 1, 2, 3, and 4"],
+    correctAnswer: 0,
+    difficulty: "HARD",
+    damage: 350,
+    explanation: "The first three recipients of Bharat Ratna in 1954 were Rajagopalachari, Radhakrishnan, and C.V. Raman."
+  },
+  {
+    classLevel: 6,
+    subject: "GK",
+    chapter: "Chapter 2: Famous Personalities & Leaders of India",
+    question: "Who was the first tribal woman and youngest person to be elected President of the Republic of India in 2022?",
+    "options": ["Droupadi Murmu", "Pratibha Patil", "Meira Kumar", "Najma Heptulla"],
+    correctAnswer: 0,
+    difficulty: "HARD",
+    damage: 350,
+    explanation: "Smt. Droupadi Murmu from Odisha became the 15th President of India and the first from a tribal community (Santhal)."
+  },
+  {
+    classLevel: 6,
+    subject: "GK",
+    chapter: "Chapter 2: Famous Personalities & Leaders of India",
+    question: "Which Indian social reformer and saint from Maharashtra established the Anandwan rehabilitation community for leprosy patients?",
+    "options": ["Baba Amte (Murlidhar Devidas Amte)", "Vinoba Bhave", "Sant Gadge Maharaj", "Acharya Tulsi"],
+    correctAnswer: 0,
+    difficulty: "HARD",
+    damage: 350,
+    explanation: "Magsaysay and Templeton laureate Baba Amte dedicated his life to the dignified care and empowerment of leprosy sufferers."
+  }
+];
+
+console.log('Generated GK Ch2:', gkQuestions.length);
+fs.writeFileSync('C:/EduVerse/class 6/cross_subject/gk_ch2.json', JSON.stringify(gkQuestions, null, 2), 'utf8');

@@ -1,0 +1,642 @@
+[
+  {
+    "classLevel": 6,
+    "subject": "Mathematics",
+    "chapter": "Chapter 4: Basic Geometrical Ideas",
+    "question": "A dimensionless location in space which has zero length, zero breadth, and zero thickness, denoted by a sharp dot, is a:",
+    "options": [
+      "Point",
+      "Line",
+      "Ray",
+      "Plane"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "A point is a fundamental geometric primitive indicating an exact position in space, represented by a single capital letter (e.g. Point A)."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Mathematics",
+    "chapter": "Chapter 4: Basic Geometrical Ideas",
+    "question": "A straight path connecting two fixed end points A and B, which has a definite measurable length, is called a:",
+    "options": [
+      "Line Segment (denoted as AB)",
+      "Line",
+      "Ray",
+      "Curve"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "A line segment AB is the shortest path bounded by two distinct end points A and B."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Mathematics",
+    "chapter": "Chapter 4: Basic Geometrical Ideas",
+    "question": "A straight path that extends infinitely without end in BOTH directions and has no fixed length is called a:",
+    "options": [
+      "Line (denoted as AB with double arrows)",
+      "Line Segment",
+      "Ray",
+      "Angle"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "A line extends boundlessly in both opposite directions and has zero end points."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Mathematics",
+    "chapter": "Chapter 4: Basic Geometrical Ideas",
+    "question": "A portion of a line that starts at one fixed starting point (initial point) and extends endlessly in one direction is called a:",
+    "options": [
+      "Ray (e.g. Sun ray, torch ray, denoted as AB)",
+      "Line Segment",
+      "Line",
+      "Chord"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "A ray has exactly one starting endpoint and extends infinitely in the designated direction."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Mathematics",
+    "chapter": "Chapter 4: Basic Geometrical Ideas",
+    "question": "Two straight lines that meet or cross each other at a single common point are called:",
+    "options": [
+      "Intersecting Lines",
+      "Parallel Lines",
+      "Perpendicular Lines",
+      "Collinear Lines"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "If two distinct coplanar lines share exactly one common intersection point, they are intersecting lines."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Mathematics",
+    "chapter": "Chapter 4: Basic Geometrical Ideas",
+    "question": "Lines on a flat plane that never intersect or meet each other, no matter how far they are extended (like railway tracks), are called:",
+    "options": [
+      "Parallel Lines",
+      "Intersecting Lines",
+      "Perpendicular Lines",
+      "Concurrent Lines"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "Parallel lines maintain an equidistant orthogonal separation and never meet across infinite spans."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Mathematics",
+    "chapter": "Chapter 4: Basic Geometrical Ideas",
+    "question": "A simple closed geometric figure made up entirely of straight line segments is called a:",
+    "options": [
+      "Polygon (e.g., Triangle, Quadrilateral)",
+      "Circle",
+      "Cone",
+      "Sphere"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "A polygon is a 2D closed rectilinear figure formed by three or more straight line segments."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Mathematics",
+    "chapter": "Chapter 4: Basic Geometrical Ideas",
+    "question": "What is the polygon with the least possible number of sides?",
+    "options": [
+      "Triangle (3 sides)",
+      "Quadrilateral (4 sides)",
+      "Pentagon (5 sides)",
+      "Hexagon (6 sides)"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "A minimum of 3 line segments is required to enclose a 2D planar space, forming a triangle."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Mathematics",
+    "chapter": "Chapter 4: Basic Geometrical Ideas",
+    "question": "The figure formed by two rays starting from a common initial point (vertex) is called an:",
+    "options": [
+      "Angle",
+      "Triangle",
+      "Line Segment",
+      "Sector"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "Two rays OA and OB sharing a common origin vertex O define the arms of an angle (∠AOB)."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Mathematics",
+    "chapter": "Chapter 4: Basic Geometrical Ideas",
+    "question": "A line segment connecting any two non-consecutive (opposite) vertices of a polygon is called a:",
+    "options": [
+      "Diagonal",
+      "Side",
+      "Altitude",
+      "Median"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "A diagonal joins two non-adjacent vertices across the interior/exterior of a polygon."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Mathematics",
+    "chapter": "Chapter 4: Basic Geometrical Ideas",
+    "question": "The distance around the boundary of a closed circular figure (the perimeter of a circle) is called its:",
+    "options": [
+      "Circumference",
+      "Diameter",
+      "Radius",
+      "Chord"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "Circumference C = 2πr is the total linear path length enclosing a circle."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Mathematics",
+    "chapter": "Chapter 4: Basic Geometrical Ideas",
+    "question": "A line segment joining the center of a circle to any point on its circular boundary is called the:",
+    "options": [
+      "Radius (r)",
+      "Diameter (d)",
+      "Chord",
+      "Arc"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "The radius is the constant distance from the central origin to any point on the circle."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Mathematics",
+    "chapter": "Chapter 4: Basic Geometrical Ideas",
+    "question": "What is the relationship between the Diameter (d) and the Radius (r) of the same circle?",
+    "options": [
+      "Diameter = 2 × Radius (d = 2r)",
+      "Diameter = Radius ÷ 2",
+      "Diameter = Radius + 2",
+      "Diameter = Radius²"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "A diameter passes through the center connecting two boundary points, equaling two radial lengths (2r)."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Mathematics",
+    "chapter": "Chapter 4: Basic Geometrical Ideas",
+    "question": "What is a line segment joining any two points on a circle called?",
+    "options": [
+      "A Chord (the longest chord passing through the center is the Diameter)",
+      "A Radius",
+      "A Secant",
+      "A Tangent"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "A chord connects two boundary points; when it traverses the center, it achieves maximum length as the diameter."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Mathematics",
+    "chapter": "Chapter 4: Basic Geometrical Ideas",
+    "question": "A continuous piece or portion of a circle's boundary is called an:",
+    "options": [
+      "Arc of a circle",
+      "Sector",
+      "Segment",
+      "Chord"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "An arc is any curved sub-segment along the circumference of a circle."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Mathematics",
+    "chapter": "Chapter 4: Basic Geometrical Ideas",
+    "question": "The region in the interior of a circle enclosed by an arc on one side and a pair of two radii on the other two sides (like a pizza slice) is called a:",
+    "options": [
+      "Sector of a circle",
+      "Segment",
+      "Semi-circle",
+      "Chord"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "A sector is bounded by two radii and the intercepted circular arc between them."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Mathematics",
+    "chapter": "Chapter 4: Basic Geometrical Ideas",
+    "question": "The region in the interior of a circle enclosed by a chord and an arc is called a:",
+    "options": [
+      "Segment of a circle",
+      "Sector",
+      "Radius",
+      "Diameter"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "A circular segment is the 2D planar region bounded between a chord and its subtended arc."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Mathematics",
+    "chapter": "Chapter 4: Basic Geometrical Ideas",
+    "question": "How many lines can pass through ONE given point in a plane?",
+    "options": [
+      "An infinite (countless) number of lines",
+      "Only 1 line",
+      "Only 2 lines",
+      "Exactly 4 lines"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "Through a single point, infinitely many lines can be drawn in all angular orientations."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Mathematics",
+    "chapter": "Chapter 4: Basic Geometrical Ideas",
+    "question": "How many unique straight lines can pass through TWO distinct given points A and B in a plane?",
+    "options": [
+      "Exactly ONE unique straight line",
+      "Two lines",
+      "Infinite lines",
+      "Zero lines"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "Euclid's First Postulate: Exactly one unique straight line passes through any two distinct points."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Mathematics",
+    "chapter": "Chapter 4: Basic Geometrical Ideas",
+    "question": "Three or more points that lie on the same straight line are called:",
+    "options": [
+      "Collinear Points",
+      "Concurrent Points",
+      "Coplanar Points",
+      "Non-collinear Points"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "Points sharing a common single line of support are defined as collinear."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Mathematics",
+    "chapter": "Chapter 4: Basic Geometrical Ideas",
+    "question": "Three or more lines in a plane that pass through the exact same single intersection point are called:",
+    "options": [
+      "Concurrent Lines",
+      "Parallel Lines",
+      "Collinear Lines",
+      "Skew Lines"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "Lines intersecting at a single common point of concurrency are termed concurrent lines."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Mathematics",
+    "chapter": "Chapter 4: Basic Geometrical Ideas",
+    "question": "What is a 'Simple Closed Curve'?",
+    "options": [
+      "A curve whose end points meet and which does NOT cross or intersect itself anywhere",
+      "A curve that crosses itself like a figure-8",
+      "A line that never ends",
+      "A straight ray"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "A Jordan curve is simple if it does not self-intersect and closed if its start and end coordinates coincide."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Mathematics",
+    "chapter": "Chapter 4: Basic Geometrical Ideas",
+    "question": "Into how many distinct regions does a simple closed curve divide the plane it lies on?",
+    "options": [
+      "Three regions: 1. Interior (inside), 2. Boundary (on the curve), 3. Exterior (outside)",
+      "Two regions",
+      "Four regions",
+      "One region"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "Jordan Curve Theorem: A simple closed planar curve partitions the plane into interior, boundary, and exterior."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Mathematics",
+    "chapter": "Chapter 4: Basic Geometrical Ideas",
+    "question": "What is a 4-sided polygon called in geometry?",
+    "options": [
+      "Quadrilateral (has 4 sides, 4 vertices, 4 angles, and 2 diagonals)",
+      "Triangle",
+      "Pentagon",
+      "Hexagon"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "A quadrilateral is a 4-gon consisting of 4 vertices, 4 edges, and 2 internal diagonals."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Mathematics",
+    "chapter": "Chapter 4: Basic Geometrical Ideas",
+    "question": "How many diagonals does a regular quadrilateral (4-sided polygon) possess?",
+    "options": [
+      "2 diagonals",
+      "4 diagonals",
+      "1 diagonal",
+      "3 diagonals"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "Formula d = n(n-3)/2; for n = 4: d = 4(4-3)/2 = 2 diagonals."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Mathematics",
+    "chapter": "Chapter 4: Basic Geometrical Ideas",
+    "question": "How many diagonals does a Triangle (3-sided polygon) have?",
+    "options": [
+      "0 (Zero diagonals)",
+      "1 diagonal",
+      "3 diagonals",
+      "2 diagonals"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "In a triangle, all vertices are adjacent to one another; d = 3(3-3)/2 = 0."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Mathematics",
+    "chapter": "Chapter 4: Basic Geometrical Ideas",
+    "question": "A diameter of a circle divides the entire circular region into two exact equal halves called:",
+    "options": [
+      "Semicircles",
+      "Sectors",
+      "Segments",
+      "Quadrants"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "A central diameter chord bisects the circle into two congruent semicircles."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Mathematics",
+    "chapter": "Chapter 4: Basic Geometrical Ideas",
+    "question": "Which of the following is an everyday physical model of a Line Segment?",
+    "options": [
+      "An edge of a rectangular postcard or ruler",
+      "A beam of light from a lighthouse",
+      "A flat surface of a calm lake",
+      "A dot on paper"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "The edge of a ruler has two distinct endpoints and a measurable length, modeling a line segment."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Mathematics",
+    "chapter": "Chapter 4: Basic Geometrical Ideas",
+    "question": "Read the statements:\nAssertion (A): Every diameter of a circle is a chord, but every chord of a circle is NOT a diameter.\nReason (R): A chord is any line segment connecting two points on the circle, but only those chords that pass through the center are diameters.\nChoose the correct option:",
+    "options": [
+      "Both (A) and (R) are true, and (R) is the correct explanation of (A).",
+      "Both (A) and (R) are true, but (R) is NOT the correct explanation of (A).",
+      "(A) is true, but (R) is false.",
+      "(A) is false, but (R) is true."
+    ],
+    "correctAnswer": 0,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "The set of diameters is a strict subset of chords consisting solely of those chords that traverse the central origin."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Mathematics",
+    "chapter": "Chapter 4: Basic Geometrical Ideas",
+    "question": "Spot the IMPOSTER in the following group of geometric figures that is NOT a Polygon:\nGroup: [Triangle, Quadrilateral, Pentagon, Circle]",
+    "options": [
+      "Triangle",
+      "Quadrilateral",
+      "Pentagon",
+      "Circle"
+    ],
+    "correctAnswer": 3,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "A circle is bounded by a continuously curving perimeter, NOT by straight line segments, so it is NOT a polygon."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Mathematics",
+    "chapter": "Chapter 4: Basic Geometrical Ideas",
+    "question": "How many total diagonals exist in a Pentagon (5-sided polygon)?",
+    "options": [
+      "5 diagonals",
+      "10 diagonals",
+      "4 diagonals",
+      "6 diagonals"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "Formula d = n(n-3)/2; for n = 5: d = 5(5-3)/2 = 5 × 2 / 2 = 5 diagonals (forming a star)."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Mathematics",
+    "chapter": "Chapter 4: Basic Geometrical Ideas",
+    "question": "How many total diagonals exist in a Hexagon (6-sided polygon)?",
+    "options": [
+      "9 diagonals",
+      "6 diagonals",
+      "12 diagonals",
+      "15 diagonals"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "Formula d = n(n-3)/2; for n = 6: d = 6(6-3)/2 = 6 × 3 / 2 = 9 diagonals."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Mathematics",
+    "chapter": "Chapter 4: Basic Geometrical Ideas",
+    "question": "Match Column I (Geometric Terms) with Column II (Definitions):\n(a) Ray       -> (i) Two endpoints with fixed length\n(b) Line      -> (ii) One endpoint, extending infinitely in one direction\n(c) Segment   -> (iii) Zero endpoints, extending infinitely both ways\n(d) Point     -> (iv) Position in space with zero dimensions",
+    "options": [
+      "a-(ii), b-(iii), c-(i), d-(iv)",
+      "a-(i), b-(ii), c-(iii), d-(iv)",
+      "a-(iv), b-(iii), c-(ii), d-(i)",
+      "a-(iii), b-(iv), c-(i), d-(ii)"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "Ray = 1 endpoint; Line = 0 endpoints (infinite both sides); Segment = 2 endpoints; Point = 0 dimensions."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Mathematics",
+    "chapter": "Chapter 4: Basic Geometrical Ideas",
+    "question": "Read the statements:\nStatement 1: The center of a circle always lies strictly in its interior.\nStatement 2: The sector of a circle is bounded by two radii and an arc.\nStatement 3: Two parallel lines intersect at a 90° angle.\nWhich statements are TRUE?",
+    "options": [
+      "Statements 1 and 2 only",
+      "Statements 2 and 3 only",
+      "Statements 1 and 3 only",
+      "All Statements 1, 2, and 3"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "Statement 3 is false because parallel lines never intersect. Statements 1 and 2 are exact geometric theorems."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Mathematics",
+    "chapter": "Chapter 4: Basic Geometrical Ideas",
+    "question": "In a quadrilateral ABCD, which of the following represents a pair of OPPOSITE sides and a pair of OPPOSITE angles?",
+    "options": [
+      "Opposite sides: (AB and CD) ; Opposite angles: (∠A and ∠C)",
+      "Opposite sides: (AB and BC)",
+      "Opposite angles: (∠A and ∠B)",
+      "Opposite sides: (BC and CD)"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "In polygon ABCD, vertices order A-B-C-D means AB is opposite CD, and ∠A is diagonally opposite ∠C."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Mathematics",
+    "chapter": "Chapter 4: Basic Geometrical Ideas",
+    "question": "How many lines can be drawn passing through any TWO points chosen out of FOUR collinear points?",
+    "options": [
+      "Only 1 line",
+      "4 lines",
+      "6 lines",
+      "Infinite lines"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "Since all 4 points lie on the exact same single straight line, every pair defines that same unique collinear line."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Mathematics",
+    "chapter": "Chapter 4: Basic Geometrical Ideas",
+    "question": "How many lines can be drawn passing through pairs of points chosen from FOUR points where NO THREE points are collinear?",
+    "options": [
+      "6 lines (4C2 = 4 × 3 / 2 = 6)",
+      "4 lines",
+      "8 lines",
+      "1 line"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "Combinatorial formula n(n-1)/2: with 4 non-collinear points, total unique lines = 4 × 3 / 2 = 6 lines."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Mathematics",
+    "chapter": "Chapter 4: Basic Geometrical Ideas",
+    "question": "What is the difference between an 'Open Curve' and a 'Closed Curve'?",
+    "options": [
+      "In an open curve, the two starting and ending points do not meet, whereas in a closed curve, the path begins and ends at the exact same point",
+      "An open curve is made of metal",
+      "A closed curve is always a straight line",
+      "There is no difference"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "Closed curves enclose a bounded interior domain because their endpoints join; open curves do not bound an interior."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Mathematics",
+    "chapter": "Chapter 4: Basic Geometrical Ideas",
+    "question": "Consider a point P situated inside a circle of radius 5 cm. If the distance from the center O to point P is d(O, P) = 3.5 cm, where does point P lie?",
+    "options": [
+      "In the Interior of the circle",
+      "On the boundary (circumference) of the circle",
+      "In the Exterior of the circle",
+      "At infinity"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "Since d(O, P) = 3.5 cm < r = 5 cm, point P lies strictly within the circle's interior."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Mathematics",
+    "chapter": "Chapter 4: Basic Geometrical Ideas",
+    "question": "If ray OA and ray OB point in EXACTLY opposite directions forming a straight line, what angle is formed at vertex O?",
+    "options": [
+      "A Straight Angle = 180° (Two right angles)",
+      "A Right Angle = 90°",
+      "An Acute Angle",
+      "A Complete Angle = 360°"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "Collinear opposite rays originating from vertex O define a straight angle measuring exactly 180°."
+  }
+]

@@ -1,0 +1,540 @@
+import fs from 'fs';
+
+// -------------------------------------------------------------
+// SUBJECT 2: Mathematics - Chapter 12: Symmetry & Visualising Solid Shapes (40 Questions)
+// -------------------------------------------------------------
+const mathQuestions = [
+  // EASY (12)
+  {
+    classLevel: 7,
+    subject: "Mathematics",
+    chapter: "Chapter 12: Symmetry & Visualising Solid Shapes",
+    question: "A geometric line that divides a plane figure into two identical, matching halves such that one half completely folds over and covers the other is called a:",
+    options: ["Line of Symmetry (Axis of Symmetry)", "Diagonal only", "Radius", "Perimeter line"],
+    correctAnswer: 0,
+    difficulty: "EASY",
+    damage: 150,
+    explanation: "A line of symmetry is an axis of reflection that bisects a figure into two congruent, mirror-image halves."
+  },
+  {
+    classLevel: 7,
+    subject: "Mathematics",
+    chapter: "Chapter 12: Symmetry & Visualising Solid Shapes",
+    question: "How many lines of symmetry does an EQUILATERAL TRIANGLE have?",
+    options: ["3 Lines of Symmetry", "1 Line", "2 Lines", "Infinite Lines"],
+    correctAnswer: 0,
+    difficulty: "EASY",
+    damage: 150,
+    explanation: "An equilateral triangle has 3 lines of symmetry passing through each vertex to the midpoint of the opposite side."
+  },
+  {
+    classLevel: 7,
+    subject: "Mathematics",
+    chapter: "Chapter 12: Symmetry & Visualising Solid Shapes",
+    question: "How many lines of symmetry does a regular SQUARE have?",
+    options: ["4 Lines of Symmetry (2 through midpoints of opposite sides, 2 along diagonals)", "2 Lines", "3 Lines", "8 Lines"],
+    correctAnswer: 0,
+    difficulty: "EASY",
+    damage: 150,
+    explanation: "A square has 4 lines of symmetry: 2 vertical/horizontal medians and 2 diagonal lines."
+  },
+  {
+    classLevel: 7,
+    subject: "Mathematics",
+    chapter: "Chapter 12: Symmetry & Visualising Solid Shapes",
+    question: "How many lines of symmetry does a CIRCLE have?",
+    options: ["Infinitely Many Lines (any diameter is a line of symmetry)", "4 Lines", "360 Lines", "100 Lines"],
+    correctAnswer: 0,
+    difficulty: "EASY",
+    damage: 150,
+    explanation: "A circle has an infinite number of lines of symmetry passing through its center along any diameter."
+  },
+  {
+    classLevel: 7,
+    subject: "Mathematics",
+    chapter: "Chapter 12: Symmetry & Visualising Solid Shapes",
+    question: "What is the smallest angle through which a figure is rotated around a central point to look EXACTLY THE SAME as its original position called?",
+    options: ["Angle of Rotation", "Order of Symmetry", "Reflective Angle", "Supplementary Angle"],
+    correctAnswer: 0,
+    difficulty: "EASY",
+    damage: 150,
+    explanation: "The angle of rotation is the minimum angle of turn around the center of rotation that maps the figure onto itself."
+  },
+  {
+    classLevel: 7,
+    subject: "Mathematics",
+    chapter: "Chapter 12: Symmetry & Visualising Solid Shapes",
+    question: "What is the ORDER OF ROTATIONAL SYMMETRY of a square in one complete 360° turn?",
+    options: ["Order 4 (at angles 90°, 180°, 270°, 360°)", "Order 2", "Order 1", "Order 8"],
+    correctAnswer: 0,
+    difficulty: "EASY",
+    damage: 150,
+    explanation: "A square maps onto itself 4 times during a 360° rotation (every 90°), hence its rotational symmetry order is 4."
+  },
+  {
+    classLevel: 7,
+    subject: "Mathematics",
+    chapter: "Chapter 12: Symmetry & Visualising Solid Shapes",
+    question: "What is the ORDER OF ROTATIONAL SYMMETRY and ANGLE OF ROTATION of a RECTANGLE (non-square)?",
+    options: ["Order = 2 and Angle of Rotation = 180°", "Order = 4 and Angle = 90°", "Order = 1 and Angle = 360°", "Order = 3 and Angle = 120°"],
+    correctAnswer: 0,
+    difficulty: "EASY",
+    damage: 150,
+    explanation: "A rectangle looks identical twice in a complete turn (at 180° and 360°), so order = 2 and angle of rotation = 180°."
+  },
+  {
+    classLevel: 7,
+    subject: "Mathematics",
+    chapter: "Chapter 12: Symmetry & Visualising Solid Shapes",
+    question: "How many FACES (F), VERTICES (V), and EDGES (E) does a standard 3D CUBE have?",
+    options: ["6 Faces, 8 Vertices, 12 Edges", "8 Faces, 6 Vertices, 12 Edges", "6 Faces, 12 Vertices, 8 Edges", "4 Faces, 4 Vertices, 6 Edges"],
+    correctAnswer: 0,
+    difficulty: "EASY",
+    damage: 150,
+    explanation: "A cube has 6 square faces, 8 corner vertices, and 12 straight edges."
+  },
+  {
+    classLevel: 7,
+    subject: "Mathematics",
+    chapter: "Chapter 12: Symmetry & Visualising Solid Shapes",
+    question: "What is EULER'S FORMULA relating Faces (F), Vertices (V), and Edges (E) for any convex polyhedron?",
+    options: ["F + V - E = 2 (or F + V = E + 2)", "F + E - V = 2", "F + V + E = 2", "F × V = E + 2"],
+    correctAnswer: 0,
+    difficulty: "EASY",
+    damage: 150,
+    explanation: "Euler's Polyhedral Formula: F + V - E = 2 holds universally for all simple convex polyhedra."
+  },
+  {
+    classLevel: 7,
+    subject: "Mathematics",
+    chapter: "Chapter 12: Symmetry & Visualising Solid Shapes",
+    question: "A flat 2D skeletal pattern or layout that can be folded along its edges to construct a 3D solid shape is called a:",
+    options: ["Net of the solid", "Cross-section", "Isometric sheet", "Oblique sketch"],
+    correctAnswer: 0,
+    difficulty: "EASY",
+    damage: 150,
+    explanation: "A net is a 2D planar unfolded diagram consisting of adjacent polygons that fold together to construct a 3D polyhedron."
+  },
+  {
+    classLevel: 7,
+    subject: "Mathematics",
+    chapter: "Chapter 12: Symmetry & Visualising Solid Shapes",
+    question: "What is the cross-section obtained when a vertical cut (slicing) is made through an apple or a circular cylinder?",
+    options: ["A Circle", "A Triangle", "A Square only", "A Hexagon"],
+    correctAnswer: 0,
+    difficulty: "EASY",
+    damage: 150,
+    explanation: "A horizontal cut through a cylinder gives a circle; cutting an apple transversely also yields a circular cross-section."
+  },
+  {
+    classLevel: 7,
+    subject: "Mathematics",
+    chapter: "Chapter 12: Symmetry & Visualising Solid Shapes",
+    question: "Which English capital letter has BOTH horizontal and vertical lines of symmetry as well as rotational symmetry of order 2?",
+    options: ["H (and O, X, I)", "A", "B", "C"],
+    correctAnswer: 0,
+    difficulty: "EASY",
+    damage: 150,
+    explanation: "Letter 'H' possesses 2 lines of symmetry (horizontal and vertical) and rotational symmetry of order 2 (180°)."
+  },
+
+  // MEDIUM (16)
+  {
+    classLevel: 7,
+    subject: "Mathematics",
+    chapter: "Chapter 12: Symmetry & Visualising Solid Shapes",
+    question: "How many lines of symmetry does a REGULAR HEXAGON have, and what is its order of rotational symmetry?",
+    options: [
+      "6 Lines of Symmetry and Order of Rotational Symmetry = 6 (Angle of rotation = 60°)",
+      "4 Lines and Order 4",
+      "3 Lines and Order 3",
+      "12 Lines and Order 12"
+    ],
+    correctAnswer: 0,
+    difficulty: "MEDIUM",
+    damage: 250,
+    explanation: "A regular n-gon has n lines of symmetry and rotational symmetry of order n; for a regular hexagon, n = 6 (angle = 360°/6 = 60°)."
+  },
+  {
+    classLevel: 7,
+    subject: "Mathematics",
+    chapter: "Chapter 12: Symmetry & Visualising Solid Shapes",
+    question: "Using Euler's Formula (F + V - E = 2), find the number of EDGES (E) of a polyhedron having 8 faces and 12 vertices:",
+    options: [
+      "18 Edges (F + V - E = 2 ⇒ 8 + 12 - E = 2 ⇒ 20 - E = 2 ⇒ E = 18)",
+      "16 Edges",
+      "20 Edges",
+      "14 Edges"
+    ],
+    correctAnswer: 0,
+    difficulty: "MEDIUM",
+    damage: 250,
+    explanation: "E = F + V - 2 = 8 + 12 - 2 = 18."
+  },
+  {
+    classLevel: 7,
+    subject: "Mathematics",
+    chapter: "Chapter 12: Symmetry & Visualising Solid Shapes",
+    question: "Using Euler's Formula, find the number of VERTICES (V) of a polyhedron with 20 faces and 30 edges (an Icosahedron):",
+    options: [
+      "12 Vertices (F + V - E = 2 ⇒ 20 + V - 30 = 2 ⇒ V - 10 = 2 ⇒ V = 12)",
+      "10 Vertices",
+      "14 Vertices",
+      "16 Vertices"
+    ],
+    correctAnswer: 0,
+    difficulty: "MEDIUM",
+    damage: 250,
+    explanation: "V = E + 2 - F = 30 + 2 - 20 = 12."
+  },
+  {
+    classLevel: 7,
+    subject: "Mathematics",
+    chapter: "Chapter 12: Symmetry & Visualising Solid Shapes",
+    question: "How many FACES, VERTICES, and EDGES does a TRIANGULAR PRISM have?",
+    options: [
+      "5 Faces (2 triangular bases + 3 rectangular side faces), 6 Vertices, 9 Edges (Check: 5 + 6 - 9 = 2)",
+      "6 Faces, 8 Vertices, 12 Edges",
+      "4 Faces, 4 Vertices, 6 Edges",
+      "5 Faces, 5 Vertices, 8 Edges"
+    ],
+    correctAnswer: 0,
+    difficulty: "MEDIUM",
+    damage: 250,
+    explanation: "A triangular prism has 5 faces, 6 vertices, and 9 edges, satisfying Euler's formula (5 + 6 - 9 = 2)."
+  },
+  {
+    classLevel: 7,
+    subject: "Mathematics",
+    chapter: "Chapter 12: Symmetry & Visualising Solid Shapes",
+    question: "How many FACES, VERTICES, and EDGES does a SQUARE PYRAMID have?",
+    options: [
+      "5 Faces (1 square base + 4 triangular faces), 5 Vertices, 8 Edges (Check: 5 + 5 - 8 = 2)",
+      "4 Faces, 4 Vertices, 6 Edges",
+      "6 Faces, 6 Vertices, 10 Edges",
+      "5 Faces, 6 Vertices, 9 Edges"
+    ],
+    correctAnswer: 0,
+    difficulty: "MEDIUM",
+    damage: 250,
+    explanation: "A square pyramid has 5 faces (1 base + 4 triangular sides), 5 vertices (4 base + 1 apex), and 8 edges."
+  },
+  {
+    classLevel: 7,
+    subject: "Mathematics",
+    chapter: "Chapter 12: Symmetry & Visualising Solid Shapes",
+    question: "What is the difference between an OBLIQUE SKETCH and an ISOMETRIC SKETCH of a 3D solid?",
+    options: [
+      "An oblique sketch does not preserve exact proportional dimensions of receding depths ; an isometric sketch is drawn on an isometric dot grid where exact scaled measurements are preserved",
+      "Oblique sketches are drawn with circles only",
+      "Isometric sketches are drawn without rulers",
+      "There is no mathematical difference"
+    ],
+    correctAnswer: 0,
+    difficulty: "MEDIUM",
+    damage: 250,
+    explanation: "Isometric projections use a 30° equilateral triangular dot grid preserving scale proportions along axes, unlike oblique pictorial sketches."
+  },
+  {
+    classLevel: 7,
+    subject: "Mathematics",
+    chapter: "Chapter 12: Symmetry & Visualising Solid Shapes",
+    question: "On a standard playing DIE (Dice), the sum of the numbers of dots on opposite faces is ALWAYS equal to:",
+    options: ["7 (1 opposite 6, 2 opposite 5, 3 opposite 4)", "6", "8", "10"],
+    correctAnswer: 0,
+    difficulty: "MEDIUM",
+    damage: 250,
+    explanation: "Standard dice convention: opposite faces always sum to 7 (1+6=7, 2+5=7, 3+4=7)."
+  },
+  {
+    classLevel: 7,
+    subject: "Mathematics",
+    chapter: "Chapter 12: Symmetry & Visualising Solid Shapes",
+    question: "What is the cross-section shape obtained when you make a VERTICAL SLICE through a solid Brick (Cuboid)?",
+    options: ["A Rectangle (or Square depending on cut)", "A Circle", "A Triangle", "A Pentagon"],
+    correctAnswer: 0,
+    difficulty: "MEDIUM",
+    damage: 250,
+    explanation: "A vertical or horizontal planar slice through a cuboid always yields a rectangular (or square) cross-section."
+  },
+  {
+    classLevel: 7,
+    subject: "Mathematics",
+    chapter: "Chapter 12: Symmetry & Visualising Solid Shapes",
+    question: "What is the cross-section obtained when you make a VERTICAL SLICE through the apex of a solid CONE?",
+    options: ["An Isosceles Triangle", "A Circle", "A Rectangle", "An Oval"],
+    correctAnswer: 0,
+    difficulty: "MEDIUM",
+    damage: 250,
+    explanation: "A vertical axial cross-section passing through the apex of a right circular cone produces an isosceles triangle."
+  },
+  {
+    classLevel: 7,
+    subject: "Mathematics",
+    chapter: "Chapter 12: Symmetry & Visualising Solid Shapes",
+    question: "Which of the following geometric figures has ONLY Rotational Symmetry of Order > 1 but NO Line of Symmetry?",
+    options: [
+      "A Parallelogram (Rotational symmetry of order 2, but 0 lines of symmetry)",
+      "A Square",
+      "An Equilateral Triangle",
+      "A Regular Pentagon"
+    ],
+    correctAnswer: 0,
+    difficulty: "MEDIUM",
+    damage: 250,
+    explanation: "A standard non-rhombic parallelogram has rotational symmetry of order 2 (180°), but zero reflectional lines of symmetry."
+  },
+  {
+    classLevel: 7,
+    subject: "Mathematics",
+    chapter: "Chapter 12: Symmetry & Visualising Solid Shapes",
+    question: "What is the order of rotational symmetry of a regular PENTAGON?",
+    options: ["Order = 5 and Angle of rotation = 72° (360° / 5 = 72°)", "Order = 5 and Angle = 60°", "Order = 10 and Angle = 36°", "Order = 3 and Angle = 120°"],
+    correctAnswer: 0,
+    difficulty: "MEDIUM",
+    damage: 250,
+    explanation: "A regular pentagon has order 5 and angle of rotation = 360°/5 = 72°."
+  },
+  {
+    classLevel: 7,
+    subject: "Mathematics",
+    chapter: "Chapter 12: Symmetry & Visualising Solid Shapes",
+    question: "Three cubes each of edge 2 cm are placed side-by-side to form a single CUBOID. What are the dimensions (length, breadth, height) of the resulting cuboid?",
+    options: [
+      "Length = 6 cm, Breadth = 2 cm, Height = 2 cm (Length = 2 + 2 + 2 = 6 cm)",
+      "Length = 2 cm, Breadth = 2 cm, Height = 2 cm",
+      "Length = 6 cm, Breadth = 6 cm, Height = 6 cm",
+      "Length = 8 cm, Breadth = 2 cm, Height = 2 cm"
+    ],
+    correctAnswer: 0,
+    difficulty: "MEDIUM",
+    damage: 250,
+    explanation: "Placing 3 identical cubes of side 2 cm linearly results in a cuboid of dimensions 6 cm × 2 cm × 2 cm."
+  },
+  {
+    classLevel: 7,
+    subject: "Mathematics",
+    chapter: "Chapter 12: Symmetry & Visualising Solid Shapes",
+    question: "Can a polyhedron have 10 faces, 20 edges, and 15 vertices?",
+    options: [
+      "YES, it satisfies Euler's formula: F + V - E = 10 + 15 - 20 = 25 - 20 = 5 ≠ 2 ... Wait! 10 + 15 - 20 = 5 ≠ 2 ; Therefore, NO, such a polyhedron CANNOT exist",
+      "NO, because F + V - E = 10 + 15 - 20 = 5 ≠ 2 (violating Euler's formula)",
+      "YES, it is a pyramid",
+      "YES, it is a prism"
+    ],
+    correctAnswer: 1,
+    difficulty: "MEDIUM",
+    damage: 250,
+    explanation: "By Euler's formula, F + V - E must equal 2. Here 10 + 15 - 20 = 5 ≠ 2, so no such polyhedron can exist."
+  },
+  {
+    classLevel: 7,
+    subject: "Mathematics",
+    chapter: "Chapter 12: Symmetry & Visualising Solid Shapes",
+    question: "What solid shape is generated when a right-angled triangular sheet is rotated rapidly around one of its perpendicular sides as the axis?",
+    options: ["A Right Circular Cone", "A Cylinder", "A Sphere", "A Prism"],
+    correctAnswer: 0,
+    difficulty: "MEDIUM",
+    damage: 250,
+    explanation: "Rotating a right-angled triangle around its altitude sweeps out a 3D right circular cone."
+  },
+  {
+    classLevel: 7,
+    subject: "Mathematics",
+    chapter: "Chapter 12: Symmetry & Visualising Solid Shapes",
+    question: "What solid shape is generated when a flat rectangular sheet is rotated rapidly around one of its sides?",
+    options: ["A Cylinder", "A Cone", "A Sphere", "A Pyramid"],
+    correctAnswer: 0,
+    difficulty: "MEDIUM",
+    damage: 250,
+    explanation: "Rotating a rectangle around one edge generates a 3D circular cylinder."
+  },
+  {
+    classLevel: 7,
+    subject: "Mathematics",
+    chapter: "Chapter 12: Symmetry & Visualising Solid Shapes",
+    question: "How many lines of symmetry does a RHOMBUS have?",
+    options: ["2 Lines of Symmetry (along its two diagonals)", "4 Lines", "1 Line", "0 Lines"],
+    correctAnswer: 0,
+    difficulty: "MEDIUM",
+    damage: 250,
+    explanation: "A non-square rhombus has exactly 2 lines of symmetry coinciding with its perpendicular diagonals."
+  },
+
+  // HARD (12)
+  {
+    classLevel: 7,
+    subject: "Mathematics",
+    chapter: "Chapter 12: Symmetry & Visualising Solid Shapes",
+    question: "Read the statements:\nAssertion (A): Every regular polygon of 'n' sides possesses both 'n' lines of reflectional symmetry and rotational symmetry of order 'n'.\nReason (R): Regular polygons have equal sides and equal interior angles, mapping onto themselves under reflections across vertex-bisectors/side-medians and rotations of (360°/n).\nChoose the correct option:",
+    options: [
+      "Both (A) and (R) are true, and (R) is the correct explanation of (A).",
+      "Both (A) and (R) are true, but (R) is NOT the correct explanation of (A).",
+      "(A) is true, but (R) is false.",
+      "(A) is false, but (R) is true."
+    ],
+    correctAnswer: 0,
+    difficulty: "HARD",
+    damage: 350,
+    explanation: "Fundamental theorem of polygonal symmetry: an n-sided regular polygon exhibits dihedral symmetry group D_n with n reflection axes and n-fold rotation."
+  },
+  {
+    classLevel: 7,
+    subject: "Mathematics",
+    chapter: "Chapter 12: Symmetry & Visualising Solid Shapes",
+    question: "Spot the IMPOSTER in the following polyhedra and their Euler characteristic components (F, V, E):\nGroup:\n1. Cube - F=6, V=8, E=12 (6 + 8 - 12 = 2)\n2. Triangular Prism - F=5, V=6, E=9 (5 + 6 - 9 = 2)\n3. Square Pyramid - F=5, V=5, E=8 (5 + 5 - 8 = 2)\n4. Magic Polyhedron - F=4, V=4, E=20 (4 + 4 - 20 = -12)",
+    options: ["Polyhedron 1", "Polyhedron 2", "Polyhedron 3", "Polyhedron 4 (Polyhedron 4 violates Euler's Theorem F + V - E = 2; a solid with 4 vertices and 4 faces is a Tetrahedron with E = 6, NOT E = 20)"],
+    correctAnswer: 3,
+    difficulty: "HARD",
+    damage: 350,
+    explanation: "Polyhedron 4 is mathematically impossible; a 4-faced polyhedron (tetrahedron) must have 4 vertices and 6 edges."
+  },
+  {
+    classLevel: 7,
+    subject: "Mathematics",
+    chapter: "Chapter 12: Symmetry & Visualising Solid Shapes",
+    question: "A net for a dice cube has numbers marked on its 6 square faces. If face 1 is opposite face 'x', face 2 is opposite face 'y', and face 3 is opposite face 'z' on a standard die, find the value of (x + y - z):",
+    options: [
+      "7 (Since opposite faces sum to 7: x = 7 - 1 = 6 ; y = 7 - 2 = 5 ; z = 7 - 3 = 4 ; Value = 6 + 5 - 4 = 11 - 4 = 7)",
+      "5",
+      "9",
+      "11"
+    ],
+    correctAnswer: 0,
+    difficulty: "HARD",
+    damage: 350,
+    explanation: "x = 6, y = 5, z = 4. Calculation: 6 + 5 - 4 = 7."
+  },
+  {
+    classLevel: 7,
+    subject: "Mathematics",
+    chapter: "Chapter 12: Symmetry & Visualising Solid Shapes",
+    question: "Match Column I (Geometric Figures) with Column II (Order of Rotational Symmetry & Line Symmetry):\n(a) Equilateral Triangle -> (i) 3 Lines of symmetry & Rotational Order 3 (120°)\n(b) Regular Hexagon      -> (ii) 6 Lines of symmetry & Rotational Order 6 (60°)\n(c) Parallelogram        -> (iii) 0 Lines of symmetry & Rotational Order 2 (180°)\n(d) Scalene Triangle     -> (iv) 0 Lines of symmetry & Rotational Order 1 (360° only)",
+    options: [
+      "a-(i), b-(ii), c-(iii), d-(iv)",
+      "a-(ii), b-(i), c-(iv), d-(iii)",
+      "a-(iv), b-(iii), c-(ii), d-(i)",
+      "a-(iii), b-(iv), c-(i), d-(ii)"
+    ],
+    correctAnswer: 0,
+    difficulty: "HARD",
+    damage: 350,
+    explanation: "Equilateral triangle = 3 & 3; Hexagon = 6 & 6; Parallelogram = 0 & 2; Scalene = 0 & 1."
+  },
+  {
+    classLevel: 7,
+    subject: "Mathematics",
+    chapter: "Chapter 12: Symmetry & Visualising Solid Shapes",
+    question: "Read the statements regarding 3D projections:\nStatement 1: In an Isometric drawing, all vertical lines remain vertical, and horizontal lines are drawn at 30° angles to the horizontal baseline.\nStatement 2: A shadow cast by a 3D cone under a flashlight directly overhead is a 2D Circle.\nStatement 3: A sphere can be folded from a flat 2D net made of 4 squares.\nWhich statements are TRUE?",
+    options: ["Statements 1 and 2 only", "Statements 2 and 3 only", "Statements 1 and 3 only", "All Statements 1, 2, and 3"],
+    correctAnswer: 0,
+    difficulty: "HARD",
+    damage: 350,
+    explanation: "Statement 3 is false (a sphere has Gaussian curvature and cannot be unfolded into a planar polygon net). Statements 1 and 2 are true."
+  },
+  {
+    classLevel: 7,
+    subject: "Mathematics",
+    chapter: "Chapter 12: Symmetry & Visualising Solid Shapes",
+    question: "A solid geometric shape has 1 curved face and 2 flat circular planar faces. What is the solid shape, and what is its horizontal cross-section?",
+    options: [
+      "A Cylinder ; its horizontal cross-section is a Circle",
+      "A Cone ; its cross-section is a square",
+      "A Sphere ; its cross-section is a triangle",
+      "A Prism ; its cross-section is a rectangle"
+    ],
+    correctAnswer: 0,
+    difficulty: "HARD",
+    damage: 350,
+    explanation: "A cylinder has 2 circular flat bases and 1 curved lateral surface; horizontal cuts parallel to bases yield circular cross-sections."
+  },
+  {
+    classLevel: 7,
+    subject: "Mathematics",
+    chapter: "Chapter 12: Symmetry & Visualising Solid Shapes",
+    question: "If a regular polygon has an angle of rotational symmetry equal to 45°, how many sides does the polygon have, and how many lines of symmetry does it possess?",
+    options: [
+      "8 sides (Octagon) and 8 lines of symmetry (Number of sides n = 360° / 45° = 8)",
+      "6 sides and 6 lines",
+      "10 sides and 10 lines",
+      "12 sides and 12 lines"
+    ],
+    correctAnswer: 0,
+    difficulty: "HARD",
+    damage: 350,
+    explanation: "n = 360° / 45° = 8 (regular octagon), which has 8 lines of symmetry."
+  },
+  {
+    classLevel: 7,
+    subject: "Mathematics",
+    chapter: "Chapter 12: Symmetry & Visualising Solid Shapes",
+    question: "Consider four geometric 3D shapes:\n1. A sphere sliced diagonally\n2. A cylinder cut horizontally\n3. A cone sliced horizontally parallel to its base\n4. A cube sliced vertically\nWhich of these cuts produce a CIRCULAR cross-section?",
+    options: ["Cuts 1, 2, and 3 only", "Cut 4 only", "Cuts 2 and 4 only", "All 1, 2, 3, and 4"],
+    correctAnswer: 0,
+    difficulty: "HARD",
+    damage: 350,
+    explanation: "Any planar slice through a sphere is a circle. Horizontal slices through a cylinder and cone yield circles. A cube cut gives polygons."
+  },
+  {
+    classLevel: 7,
+    subject: "Mathematics",
+    chapter: "Chapter 12: Symmetry & Visualising Solid Shapes",
+    question: "How many unit cubes (1 cm × 1 cm × 1 cm) are required to build a solid hollow cubical box of outer dimension 4 cm × 4 cm × 4 cm with walls 1 cm thick?",
+    options: [
+      "56 unit cubes (Total outer volume = 4³ = 64 cm³ ; Inner hollow volume = 2³ = 8 cm³ ; Required cubes = 64 - 8 = 56 cubes)",
+      "64 cubes",
+      "48 cubes",
+      "52 cubes"
+    ],
+    correctAnswer: 0,
+    difficulty: "HARD",
+    damage: 350,
+    explanation: "Outer volume = 4³ = 64. Inner void = (4-2)³ = 2³ = 8. Required unit cubes = 64 - 8 = 56."
+  },
+  {
+    classLevel: 7,
+    subject: "Mathematics",
+    chapter: "Chapter 12: Symmetry & Visualising Solid Shapes",
+    question: "What is the maximum number of acute angles a convex polyhedron's polygonal face can have in 3D Euclidean geometry?",
+    options: ["3 acute angles (in a triangle)", "4", "5", "Infinite"],
+    correctAnswer: 0,
+    difficulty: "HARD",
+    damage: 350,
+    explanation: "A polygon can have at most 3 acute interior angles regardless of the number of sides (as exterior angles would otherwise exceed 360°)."
+  },
+  {
+    classLevel: 7,
+    subject: "Mathematics",
+    chapter: "Chapter 12: Symmetry & Visualising Solid Shapes",
+    question: "Why can a solid polyhedron NEVER have only 7 edges?",
+    options: [
+      "By Euler's formula and face-edge degree bounds (2E ≥ 3F and 2E ≥ 3V), for E = 7, F + V = 9; combining bounds yields 3(F + V) = 27 ≤ 4E = 28, which admits no integer solution for planar polygonal faces",
+      "Because 7 is an odd number",
+      "Because polyhedra must have even number of faces only",
+      "Because edges must be multiples of 4"
+    ],
+    correctAnswer: 0,
+    difficulty: "HARD",
+    damage: 350,
+    explanation: "Every polyhedron face has ≥ 3 edges (2E ≥ 3F) and each vertex has degree ≥ 3 (2E ≥ 3V). No polyhedron can have E = 7."
+  },
+  {
+    classLevel: 7,
+    subject: "Mathematics",
+    chapter: "Chapter 12: Symmetry & Visualising Solid Shapes",
+    question: "What grand spatial and geometric unification concludes the NCERT Class 7 Mathematics curriculum in Chapter 12?",
+    options: [
+      "Geometric symmetry and spatial 3D visualization unite reflectional invariants, rotational group orders, topological polyhedral networks (Euler's formula), and 2D-to-3D projection mappings—forming the bedrock of modern architecture, computer graphics, CAD engineering, and crystallographic science",
+      "That geometry is only useful for drawing paper shapes",
+      "That 3D solids cannot be drawn on 2D paper",
+      "That symmetry exists only in circles"
+    ],
+    correctAnswer: 0,
+    difficulty: "HARD",
+    damage: 350,
+    explanation: "Chapter 12 establishes spatial reasoning: reflectional/rotational invariance, polyhedral topology (Euler's characteristic), and isometric projection."
+  }
+];
+
+console.log('Generated Class 7 Math Ch12:', mathQuestions.length);
+fs.writeFileSync('C:/EduVerse/class 7/cross_subject/math_ch12.json', JSON.stringify(mathQuestions, null, 2), 'utf8');

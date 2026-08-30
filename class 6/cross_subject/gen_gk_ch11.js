@@ -1,0 +1,490 @@
+import fs from 'fs';
+
+// -------------------------------------------------------------
+// SUBJECT 4: General Knowledge - Chapter 11: Science, Inventions & Space (40 Questions)
+// -------------------------------------------------------------
+const gkQuestions = [
+  // EASY (12)
+  {
+    classLevel: 6,
+    subject: "GK",
+    chapter: "Chapter 11: Great Inventions, Famous Scientists, Space Missions & Modern Technology",
+    question: "Who is celebrated as the 'Missile Man of India' and served as the 11th President of India (2002–2007)?",
+    options: ["Dr. A.P.J. Abdul Kalam (Avul Pakir Jainulabdeen Abdul Kalam)", "Dr. Homi J. Bhabha", "Dr. Vikram Sarabhai", "Dr. K. Sivan"],
+    correctAnswer: 0,
+    difficulty: "EASY",
+    damage: 150,
+    explanation: "Dr. A.P.J. Abdul Kalam led the development of India's indigenous missile systems (Agni, Prithvi) and SLV-3."
+  },
+  {
+    classLevel: 6,
+    subject: "GK",
+    chapter: "Chapter 11: Great Inventions, Famous Scientists, Space Missions & Modern Technology",
+    question: "Who was the FIRST Indian scientist to win the Nobel Prize in Physics in 1930 for discovering the scattering of light?",
+    options: ["Sir C.V. Raman (Chandrasekhara Venkata Raman)", "Jagadish Chandra Bose", "Satyendra Nath Bose", "Meghnad Saha"],
+    correctAnswer: 0,
+    difficulty: "EASY",
+    damage: 150,
+    explanation: "Sir C.V. Raman discovered the Raman Effect on 28 February 1928, celebrated annually as National Science Day in India."
+  },
+  {
+    classLevel: 6,
+    subject: "GK",
+    chapter: "Chapter 11: Great Inventions, Famous Scientists, Space Missions & Modern Technology",
+    question: "Why is 'National Science Day' celebrated across India every year on 28th February?",
+    options: [
+      "To commemorate Sir C.V. Raman's historic discovery of the 'Raman Effect' on 28th February 1928",
+      "To celebrate the launch of India's first satellite",
+      "To mark the founding of ISRO",
+      "To celebrate Dr. Kalam's birthday"
+    ],
+    correctAnswer: 0,
+    difficulty: "EASY",
+    damage: 150,
+    explanation: "The Government of India designated 28 February as National Science Day in 1986 to honor the Raman Effect discovery."
+  },
+  {
+    classLevel: 6,
+    subject: "GK",
+    chapter: "Chapter 11: Great Inventions, Famous Scientists, Space Missions & Modern Technology",
+    question: "Who is reverently regarded as the 'Father of the Indian Space Programme'?",
+    options: ["Dr. Vikram Sarabhai", "Dr. Homi Bhabha", "Dr. Satish Dhawan", "Dr. U.R. Rao"],
+    correctAnswer: 0,
+    difficulty: "EASY",
+    damage: 150,
+    explanation: "Dr. Vikram Sarabhai founded ISRO in 1969 and established the Thumba Equatorial Rocket Launching Station."
+  },
+  {
+    classLevel: 6,
+    subject: "GK",
+    chapter: "Chapter 11: Great Inventions, Famous Scientists, Space Missions & Modern Technology",
+    question: "What was India's FIRST indigenous artificial satellite, launched into space on 19th April 1975, named after?",
+    options: ["Aryabhata (named after ancient Indian astronomer-mathematician)", "Bhaskara I", "Rohini", "INSAT-1A"],
+    correctAnswer: 0,
+    difficulty: "EASY",
+    damage: 150,
+    explanation: "Aryabhata, built by ISRO and launched by a Soviet Kosmos-3M rocket in 1975, marked India's entry into the space age."
+  },
+  {
+    classLevel: 6,
+    subject: "GK",
+    chapter: "Chapter 11: Great Inventions, Famous Scientists, Space Missions & Modern Technology",
+    question: "On 23rd August 2023, India's Chandrayaan-3 mission made history by becoming the FIRST country in the world to successfully land a spacecraft near which region of the Moon?",
+    options: [
+      "Lunar South Pole (Shiv Shakti Point)",
+      "Lunar North Pole",
+      "Sea of Tranquility",
+      "Ocean of Storms"
+    ],
+    correctAnswer: 0,
+    difficulty: "EASY",
+    damage: 150,
+    explanation: "On 23 August 2023, Chandrayaan-3's Vikram lander touched down at 69.37°S near the lunar south pole (celebrated as National Space Day)."
+  },
+  {
+    classLevel: 6,
+    subject: "GK",
+    chapter: "Chapter 11: Great Inventions, Famous Scientists, Space Missions & Modern Technology",
+    question: "What was the name of the robotic lunar rover carried inside Chandrayaan-3's Vikram lander that rolled onto the moon's surface?",
+    options: ["Pragyan Rover ('Wisdom')", "Vikram", "Pushpak", "Gaganyaan"],
+    correctAnswer: 0,
+    difficulty: "EASY",
+    damage: 150,
+    explanation: "The 26 kg 6-wheeled Pragyan rover conducted in-situ elemental composition analysis of lunar regolith."
+  },
+  {
+    classLevel: 6,
+    subject: "GK",
+    chapter: "Chapter 11: Great Inventions, Famous Scientists, Space Missions & Modern Technology",
+    question: "What was India's historic maiden interplanetary mission to Mars, launched by ISRO in 2013 that entered Martian orbit on its FIRST attempt?",
+    options: ["Mangalyaan (Mars Orbiter Mission - MOM)", "Chandrayaan-1", "Aditya-L1", "Astrosat"],
+    correctAnswer: 0,
+    difficulty: "EASY",
+    damage: 150,
+    explanation: "ISRO's Mangalyaan made India the first Asian nation to reach Mars orbit and the first in the world to do so on maiden attempt."
+  },
+  {
+    classLevel: 6,
+    subject: "GK",
+    chapter: "Chapter 11: Great Inventions, Famous Scientists, Space Missions & Modern Technology",
+    question: "Who was the FIRST Indian citizen to travel into outer space (aboard Soviet Soyuz T-11 on 3rd April 1984)?",
+    options: ["Wing Commander Rakesh Sharma", "Kalpana Chawla", "Sunita Williams", "Raja Chari"],
+    correctAnswer: 0,
+    difficulty: "EASY",
+    damage: 150,
+    explanation: "Rakesh Sharma spent 7 days aboard Salyut 7 in 1984, famously describing India as 'Saare Jahan Se Achha' from space."
+  },
+  {
+    classLevel: 6,
+    subject: "GK",
+    chapter: "Chapter 11: Great Inventions, Famous Scientists, Space Missions & Modern Technology",
+    question: "Who is the prolific American inventor credited with inventing the practical Incandescent Electric Light Bulb, Phonograph, and Motion Picture Camera?",
+    options: ["Thomas Alva Edison", "Alexander Graham Bell", "Nikola Tesla", "Benjamin Franklin"],
+    correctAnswer: 0,
+    difficulty: "EASY",
+    damage: 150,
+    explanation: "Thomas Edison held 1,093 US patents, establishing the world's first industrial research lab in Menlo Park."
+  },
+  {
+    classLevel: 6,
+    subject: "GK",
+    chapter: "Chapter 11: Great Inventions, Famous Scientists, Space Missions & Modern Technology",
+    question: "Who invented the practical Telephone in 1876, revolutionizing global human voice communication?",
+    options: ["Alexander Graham Bell", "Guglielmo Marconi", "Samuel Morse", "Michael Faraday"],
+    correctAnswer: 0,
+    difficulty: "EASY",
+    damage: 150,
+    explanation: "Alexander Graham Bell was awarded the foundational patent for electrical speech transmission via telephone in 1876."
+  },
+  {
+    classLevel: 6,
+    subject: "GK",
+    chapter: "Chapter 11: Great Inventions, Famous Scientists, Space Missions & Modern Technology",
+    question: "Who discovered the Universal Law of Gravitation and the Three Fundamental Laws of Motion in 1687?",
+    options: ["Sir Isaac Newton", "Albert Einstein", "Galileo Galilei", "Johannes Kepler"],
+    correctAnswer: 0,
+    difficulty: "EASY",
+    damage: 150,
+    explanation: "Sir Isaac Newton published 'Philosophiae Naturalis Principia Mathematica', founding classical mechanics and gravitation."
+  },
+
+  // MEDIUM (16)
+  {
+    classLevel: 6,
+    subject: "GK",
+    chapter: "Chapter 11: Great Inventions, Famous Scientists, Space Missions & Modern Technology",
+    question: "What is India's dedicated maiden solar space observatory mission launched by ISRO in September 2023 to study the Sun from Lagrange Point 1 (L1)?",
+    options: ["Aditya-L1", "Helios-1", "Surya-1", "Solar Orbiter"],
+    correctAnswer: 0,
+    difficulty: "MEDIUM",
+    damage: 250,
+    explanation: "Aditya-L1 was inserted into a halo orbit around the Sun-Earth L1 Lagrangian point (1.5 million km from Earth) to observe the solar corona."
+  },
+  {
+    classLevel: 6,
+    subject: "GK",
+    chapter: "Chapter 11: Great Inventions, Famous Scientists, Space Missions & Modern Technology",
+    question: "Who was the pioneering Indian polymath and scientist who invented the 'Crescograph' to measure plant growth and proved that plants feel sensations and respond to stimuli?",
+    options: ["Sir Jagadish Chandra Bose (J.C. Bose)", "P.C. Ray", "C.V. Raman", "S. Ramanujan"],
+    correctAnswer: 0,
+    difficulty: "MEDIUM",
+    damage: 250,
+    explanation: "Sir J.C. Bose pioneered millimeter radio microwaves (wireless telegraphy) and demonstrated plant electro-physiology with the crescograph."
+  },
+  {
+    classLevel: 6,
+    subject: "GK",
+    chapter: "Chapter 11: Great Inventions, Famous Scientists, Space Missions & Modern Technology",
+    question: "Who was the brilliant Indian mathematical prodigy whose self-taught theorems in number theory, infinite series, and mock theta functions stunned Cambridge mathematicians like G.H. Hardy?",
+    options: ["Srinivasa Ramanujan (1887–1920)", "Aryabhata", "Brahmagupta", "Prasanta Chandra Mahalanobis"],
+    correctAnswer: 0,
+    difficulty: "MEDIUM",
+    damage: 250,
+    explanation: "Srinivasa Ramanujan compiled nearly 3,900 mathematical identities; his birthday on 22 December is National Mathematics Day in India."
+  },
+  {
+    classLevel: 6,
+    subject: "GK",
+    chapter: "Chapter 11: Great Inventions, Famous Scientists, Space Missions & Modern Technology",
+    question: "Who is celebrated as the 'Father of the Indian Nuclear Programme' who founded the Tata Institute of Fundamental Research (TIFR) and Bhabha Atomic Research Centre (BARC)?",
+    options: ["Dr. Homi Jehangir Bhabha", "Dr. Raja Ramanna", "Dr. Vikram Sarabhai", "Dr. Anil Kakodkar"],
+    correctAnswer: 0,
+    difficulty: "MEDIUM",
+    damage: 250,
+    explanation: "Dr. Homi Bhabha formulated India's three-stage nuclear power programme utilizing indigenous thorium reserves."
+  },
+  {
+    classLevel: 6,
+    subject: "GK",
+    chapter: "Chapter 11: Great Inventions, Famous Scientists, Space Missions & Modern Technology",
+    question: "Who formulated the revolutionary Theory of Special Relativity (E = mc²) and General Relativity, winning the 1921 Nobel Prize in Physics for explaining the Photoelectric Effect?",
+    options: ["Albert Einstein", "Niels Bohr", "Max Planck", "Werner Heisenberg"],
+    correctAnswer: 0,
+    difficulty: "MEDIUM",
+    damage: 250,
+    explanation: "Albert Einstein revolutionized 20th-century physics with mass-energy equivalence (E = mc²) and spacetime curvature."
+  },
+  {
+    classLevel: 6,
+    subject: "GK",
+    chapter: "Chapter 11: Great Inventions, Famous Scientists, Space Missions & Modern Technology",
+    question: "Who discovered the miracle antibiotic medicine 'Penicillin' in 1928 from the mold Penicillium notatum, saving hundreds of millions of lives from bacterial infections?",
+    options: ["Sir Alexander Fleming", "Louis Pasteur", "Edward Jenner", "Robert Koch"],
+    correctAnswer: 0,
+    difficulty: "MEDIUM",
+    damage: 250,
+    explanation: "Alexander Fleming's accidental discovery of penicillin at St Mary's Hospital ushered in the modern antibiotic era."
+  },
+  {
+    classLevel: 6,
+    subject: "GK",
+    chapter: "Chapter 11: Great Inventions, Famous Scientists, Space Missions & Modern Technology",
+    question: "Who developed the world's FIRST successful Vaccine (Smallpox Vaccine in 1796), founding the medical science of Immunology?",
+    options: ["Edward Jenner", "Louis Pasteur", "Jonas Salk", "Alexander Fleming"],
+    correctAnswer: 0,
+    difficulty: "MEDIUM",
+    damage: 250,
+    explanation: "Edward Jenner inoculated James Phipps with cowpox pustule matter in 1796, pioneering cross-immunity vaccination against deadly smallpox."
+  },
+  {
+    classLevel: 6,
+    subject: "GK",
+    chapter: "Chapter 11: Great Inventions, Famous Scientists, Space Missions & Modern Technology",
+    question: "Who invented the World Wide Web (WWW) in 1989 at CERN, Switzerland, giving it freely to humanity to launch the global internet age?",
+    options: ["Sir Tim Berners-Lee", "Bill Gates", "Steve Jobs", "Vint Cerf"],
+    correctAnswer: 0,
+    difficulty: "MEDIUM",
+    damage: 250,
+    explanation: "Tim Berners-Lee designed HTTP, HTML, and URL protocols at CERN in 1989, releasing WWW royalty-free in 1993."
+  },
+  {
+    classLevel: 6,
+    subject: "GK",
+    chapter: "Chapter 11: Great Inventions, Famous Scientists, Space Missions & Modern Technology",
+    question: "What is 'Artificial Intelligence' (AI) in computer science?",
+    options: [
+      "The simulation of human intelligence processes (learning, reasoning, problem solving, visual perception) by computer systems and algorithms",
+      "A robot made of plastic",
+      "A fast typewriter",
+      "A video game with lights"
+    ],
+    correctAnswer: 0,
+    difficulty: "MEDIUM",
+    damage: 250,
+    explanation: "AI encompasses machine learning, deep neural networks, and natural language models replicating cognitive faculties."
+  },
+  {
+    classLevel: 6,
+    subject: "GK",
+    chapter: "Chapter 11: Great Inventions, Famous Scientists, Space Missions & Modern Technology",
+    question: "Who was the pioneering female scientist who won TWO Nobel Prizes in two different scientific fields (Physics in 1903 and Chemistry in 1911) for her research on Radioactivity and discovery of Radium & Polonium?",
+    options: ["Marie Curie (Madame Curie)", "Rosalind Franklin", "Ada Lovelace", "Lise Meitner"],
+    correctAnswer: 0,
+    difficulty: "MEDIUM",
+    damage: 250,
+    explanation: "Marie Curie remains the only person to win Nobel Prizes in two distinct scientific disciplines (Physics & Chemistry)."
+  },
+  {
+    classLevel: 6,
+    subject: "GK",
+    chapter: "Chapter 11: Great Inventions, Famous Scientists, Space Missions & Modern Technology",
+    question: "Who is recognized as the world's FIRST Computer Programmer for writing an algorithm for Charles Babbage's mechanical Analytical Engine in the 1840s?",
+    options: ["Ada Lovelace (Augusta Ada King)", "Grace Hopper", "Alan Turing", "Katherine Johnson"],
+    correctAnswer: 0,
+    difficulty: "MEDIUM",
+    damage: 250,
+    explanation: "Ada Lovelace published the first machine algorithm for Bernoulli numbers, foreseeing general-purpose computing."
+  },
+  {
+    classLevel: 6,
+    subject: "GK",
+    chapter: "Chapter 11: Great Inventions, Famous Scientists, Space Missions & Modern Technology",
+    question: "Who is celebrated as the 'Father of Computers' for designing the mechanical Difference Engine and Analytical Engine in the 19th century?",
+    options: ["Charles Babbage", "Alan Turing", "John von Neumann", "Blaise Pascal"],
+    correctAnswer: 0,
+    difficulty: "MEDIUM",
+    damage: 250,
+    explanation: "Charles Babbage conceived the fundamental architectural concepts (CPU 'mill', memory 'store', punched card I/O) of modern computers."
+  },
+  {
+    classLevel: 6,
+    subject: "GK",
+    chapter: "Chapter 11: Great Inventions, Famous Scientists, Space Missions & Modern Technology",
+    question: "What is India's ambitious upcoming human spaceflight mission by ISRO that aims to send Indian astronauts ('Gaganyatris') into Low Earth Orbit aboard an indigenous orbital module?",
+    options: ["Gaganyaan Mission", "Chandrayaan", "Mangalyaan", "Shukrayaan"],
+    correctAnswer: 0,
+    difficulty: "MEDIUM",
+    damage: 250,
+    explanation: "ISRO's Gaganyaan programme will demonstrate crewed spaceflight capability, launching 3 astronauts to 400 km LEO for 3 days."
+  },
+  {
+    classLevel: 6,
+    subject: "GK",
+    chapter: "Chapter 11: Great Inventions, Famous Scientists, Space Missions & Modern Technology",
+    question: "What is the primary rocket launch center of ISRO located on the barrier island of Sriharikota in Andhra Pradesh called?",
+    options: ["Satish Dhawan Space Centre (SDSC SHAR)", "Vikram Sarabhai Space Centre", "Thumba Rocket Station", "UR Rao Satellite Centre"],
+    correctAnswer: 0,
+    difficulty: "MEDIUM",
+    damage: 250,
+    explanation: "SDSC SHAR in Sriharikota provides equatorial azimuth launchpads for PSLV, GSLV, and LVM3 heavy-lift rockets."
+  },
+  {
+    classLevel: 6,
+    subject: "GK",
+    chapter: "Chapter 11: Great Inventions, Famous Scientists, Space Missions & Modern Technology",
+    question: "Who discovered that the Earth and planets revolve around the Sun (Heliocentric Model of the Solar System) in 1543, overturning the ancient Geocentric theory?",
+    options: ["Nicolaus Copernicus", "Ptolemy", "Galileo Galilei", "Tycho Brahe"],
+    correctAnswer: 0,
+    difficulty: "MEDIUM",
+    damage: 250,
+    explanation: "Copernicus's 'De revolutionibus orbium coelestium' established the heliocentric astronomical paradigm."
+  },
+  {
+    classLevel: 6,
+    subject: "GK",
+    chapter: "Chapter 11: Great Inventions, Famous Scientists, Space Missions & Modern Technology",
+    question: "What revolutionary mobile technology communication standard rolled out in India in 2022 provides ultra-fast gigabit internet speeds and ultra-low latency for smart cities and IoT?",
+    options: ["5G (5th Generation Mobile Network)", "3G", "4G LTE", "2G"],
+    correctAnswer: 0,
+    difficulty: "MEDIUM",
+    damage: 250,
+    explanation: "5G mmWave and sub-6GHz networks enable multi-Gbps peak data speeds, massive machine-type communications, and edge computing."
+  },
+
+  // HARD (12)
+  {
+    classLevel: 6,
+    subject: "GK",
+    chapter: "Chapter 11: Great Inventions, Famous Scientists, Space Missions & Modern Technology",
+    question: "Read the statements:\nAssertion (A): On 23rd August 2023, the Government of India officially declared 23rd August as 'National Space Day'.\nReason (R): On this historic day, ISRO's Chandrayaan-3 successfully touched down on the unexplored South Pole region of the Moon, making India the 4th nation to achieve a soft lunar landing and the 1st at the lunar south pole.\nChoose the correct option:",
+    options: [
+      "Both (A) and (R) are true, and (R) is the correct explanation of (A).",
+      "Both (A) and (R) are true, but (R) is NOT the correct explanation of (A).",
+      "(A) is true, but (R) is false.",
+      "(A) is false, but (R) is true."
+    ],
+    correctAnswer: 0,
+    difficulty: "HARD",
+    damage: 350,
+    explanation: "Prime Minister Narendra Modi designated 23 August as National Space Day to celebrate Chandrayaan-3's historic lunar touchdown."
+  },
+  {
+    classLevel: 6,
+    subject: "GK",
+    chapter: "Chapter 11: Great Inventions, Famous Scientists, Space Missions & Modern Technology",
+    question: "Spot the IMPOSTER in the following group of Indian space missions matched with their primary celestial targets:\nGroup: [Chandrayaan-3 - Moon, Mangalyaan - Mars, Aditya-L1 - Sun, Astrosat - Jupiter surface rover]",
+    options: ["Chandrayaan-3 - Moon", "Mangalyaan - Mars", "Aditya-L1 - Sun", "Astrosat - Jupiter surface rover"],
+    correctAnswer: 3,
+    difficulty: "HARD",
+    damage: 350,
+    explanation: "Astrosat is India's dedicated multi-wavelength SPACE ASTRONOMY TELESCOPE in Earth orbit, NOT a Jupiter surface rover."
+  },
+  {
+    classLevel: 6,
+    subject: "GK",
+    chapter: "Chapter 11: Great Inventions, Famous Scientists, Space Missions & Modern Technology",
+    question: "Who was the eminent Indian theoretical physicist whose collaborative quantum statistical work with Albert Einstein in 1924 predicted a new fifth state of matter at near absolute zero temperatures called:",
+    options: [
+      "Satyendra Nath Bose (Bose-Einstein Condensate - BEC ; subatomic particles named 'Bosons' in his honour)",
+      "Meghnad Saha",
+      "Homi Bhabha",
+      "Vikram Sarabhai"
+    ],
+    correctAnswer: 0,
+    difficulty: "HARD",
+    damage: 350,
+    explanation: "Satyendra Nath Bose's quantum statistics foundation for integral-spin particles led to the naming of 'Bosons' and the Bose-Einstein Condensate."
+  },
+  {
+    classLevel: 6,
+    subject: "GK",
+    chapter: "Chapter 11: Great Inventions, Famous Scientists, Space Missions & Modern Technology",
+    question: "Match Column I (Great Inventions) with Column II (Inventors / Discoverers):\n(a) World Wide Web (WWW) -> (i) Edward Jenner (1796)\n(b) Smallpox Vaccine     -> (ii) Sir Tim Berners-Lee (1989)\n(c) Penicillin           -> (iii) Alexander Graham Bell (1876)\n(d) Telephone            -> (iv) Sir Alexander Fleming (1928)",
+    options: [
+      "a-(ii), b-(i), c-(iv), d-(iii)",
+      "a-(i), b-(ii), c-(iii), d-(iv)",
+      "a-(iv), b-(iii), c-(ii), d-(i)",
+      "a-(iii), b-(iv), c-(i), d-(ii)"
+    ],
+    correctAnswer: 0,
+    difficulty: "HARD",
+    damage: 350,
+    explanation: "WWW = Berners-Lee; Vaccine = Jenner; Penicillin = Fleming; Telephone = Bell."
+  },
+  {
+    classLevel: 6,
+    subject: "GK",
+    chapter: "Chapter 11: Great Inventions, Famous Scientists, Space Missions & Modern Technology",
+    question: "Read the statements regarding space science:\nStatement 1: The 'Hardy-Ramanujan Number' is 1729, the smallest number expressible as the sum of two positive cubes in two different ways (1³ + 12³ and 9³ + 10³).\nStatement 2: Chandrayaan-1 discovered widespread water molecules (H₂O/OH hydroxyl) on the Moon in 2008 using the Moon Mineralogy Mapper (M3).\nStatement 3: Sound waves travel faster in outer space vacuum than on Earth.\nWhich statements are TRUE?",
+    options: ["Statements 1 and 2 only", "Statements 2 and 3 only", "Statements 1 and 3 only", "All Statements 1, 2, and 3"],
+    correctAnswer: 0,
+    difficulty: "HARD",
+    damage: 350,
+    explanation: "Statement 3 is completely false because sound cannot propagate in vacuum at all. Statements 1 and 2 are mathematical and astronautical facts."
+  },
+  {
+    classLevel: 6,
+    subject: "GK",
+    chapter: "Chapter 11: Great Inventions, Famous Scientists, Space Missions & Modern Technology",
+    question: "What is the famous astrophysics limit discovered by Indian-American Nobel laureate Subrahmanyan Chandrasekhar governing the maximum stable mass of a White Dwarf star?",
+    options: ["Chandrasekhar Limit (~1.44 Solar Masses)", "Event Horizon Limit", "Hubble Constant", "Hawking Radiation Limit"],
+    correctAnswer: 0,
+    difficulty: "HARD",
+    damage: 350,
+    explanation: "The Chandrasekhar limit (~1.44 M☉) establishes the mass threshold beyond which electron degeneracy pressure collapses into neutron stars/black holes."
+  },
+  {
+    classLevel: 6,
+    subject: "GK",
+    chapter: "Chapter 11: Great Inventions, Famous Scientists, Space Missions & Modern Technology",
+    question: "What is the specialized Cryogenic Upper Stage engine developed indigenously by ISRO for launching heavy communication satellites via the LVM3 (GSLV Mk-III) rocket called?",
+    options: ["CE-20 Cryogenic Engine (burning Liquid Hydrogen at -253°C and Liquid Oxygen at -183°C)", "Vikas Engine", "Semi-Cryogenic SCE-200", "Kalam Engine"],
+    correctAnswer: 0,
+    difficulty: "HARD",
+    damage: 350,
+    explanation: "The CE-20 is an indigenous staged-combustion cryogenic rocket engine powering LVM3 upper stages with high specific impulse."
+  },
+  {
+    classLevel: 6,
+    subject: "GK",
+    chapter: "Chapter 11: Great Inventions, Famous Scientists, Space Missions & Modern Technology",
+    question: "What is India's indigenous satellite navigation constellation system developed by ISRO (equivalent to the US GPS system) officially named?",
+    options: ["NavIC (Navigation with Indian Constellation / IRNSS)", "GAGAN", "Bhuvan", "Bhartiya GPS"],
+    correctAnswer: 0,
+    difficulty: "HARD",
+    damage: 350,
+    explanation: "NavIC operates a constellation of geostationary and geosynchronous satellites providing real-time positioning across India and 1,500 km beyond."
+  },
+  {
+    classLevel: 6,
+    subject: "GK",
+    chapter: "Chapter 11: Great Inventions, Famous Scientists, Space Missions & Modern Technology",
+    question: "Who was the visionary British computer scientist who cracked the German Enigma code in World War II at Bletchley Park, conceptualized the 'Turing Machine', and is regarded as the Father of Theoretical Computer Science and AI?",
+    options: ["Alan Turing", "John von Neumann", "Claude Shannon", "Norbert Wiener"],
+    correctAnswer: 0,
+    difficulty: "HARD",
+    damage: 350,
+    explanation: "Alan Turing formulated universal computation theory, machine intelligence criteria (Turing Test), and cryptanalytic Bombe machines."
+  },
+  {
+    classLevel: 6,
+    subject: "GK",
+    chapter: "Chapter 11: Great Inventions, Famous Scientists, Space Missions & Modern Technology",
+    question: "What is the biological gene-editing molecular technology that acts as 'molecular scissors' allowing scientists to alter DNA sequences with pinpoint precision, awarded the 2020 Nobel Prize in Chemistry?",
+    options: ["CRISPR-Cas9 Gene Editing", "Polymerase Chain Reaction (PCR)", "Stem Cell Therapy", "Recombinant Cloning"],
+    correctAnswer: 0,
+    difficulty: "HARD",
+    damage: 350,
+    explanation: "CRISPR-Cas9 (developed by Emmanuelle Charpentier and Jennifer Doudna) enables targeted genomic DNA cleavage and sequence modification."
+  },
+  {
+    classLevel: 6,
+    subject: "GK",
+    chapter: "Chapter 11: Great Inventions, Famous Scientists, Space Missions & Modern Technology",
+    question: "What is the groundbreaking scientific project that captured the FIRST EVER direct image of a Supermassive Black Hole's event horizon (in galaxy M87) in 2019 using a global network of synchronized radio telescopes?",
+    options: ["Event Horizon Telescope (EHT)", "James Webb Space Telescope", "Hubble Space Telescope", "Square Kilometre Array"],
+    correctAnswer: 0,
+    difficulty: "HARD",
+    damage: 350,
+    explanation: "The global Event Horizon Telescope (EHT) array utilized very-long-baseline interferometry (VLBI) to resolve the shadow of M87*."
+  },
+  {
+    classLevel: 6,
+    subject: "GK",
+    chapter: "Chapter 11: Great Inventions, Famous Scientists, Space Missions & Modern Technology",
+    question: "What overarching national vision guided Dr. Vikram Sarabhai when he founded India's space programme in the 1960s?",
+    options: [
+      "Using cutting-edge advanced science and space technology directly to solve real socioeconomic problems of the nation (tele-education, weather forecasting, agriculture, disaster management)",
+      "Building weapons to conquer other planets",
+      "Competing in space tourism for billionaires",
+      "Stopping all other scientific research"
+    ],
+    correctAnswer: 0,
+    difficulty: "HARD",
+    damage: 350,
+    explanation: "Sarabhai's doctrine dedicated space technology directly to societal upliftment: farmer communication, monsoon meteorology, and remote education."
+  }
+];
+
+console.log('Generated GK Ch11:', gkQuestions.length);
+fs.writeFileSync('C:/EduVerse/class 6/cross_subject/gk_ch11.json', JSON.stringify(gkQuestions, null, 2), 'utf8');

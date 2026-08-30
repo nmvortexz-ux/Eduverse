@@ -1,0 +1,600 @@
+import fs from 'fs';
+
+// -------------------------------------------------------------
+// SUBJECT 3: English - Chapter 12: Grand Master Literature & Composition (40 Questions)
+// -------------------------------------------------------------
+const englishQuestions = [
+  // EASY (12)
+  {
+    classLevel: 6,
+    subject: "English",
+    chapter: "Chapter 12: Grand Master Literature & Composition Synthesis",
+    question: "What is the standard, polite salutation used at the beginning of a formal letter written to a School Principal or Municipal Commissioner?",
+    options: ["Respected Sir / Madam (or Dear Sir / Madam)", "Hey buddy!", "What's up Principal!", "Hi friend,"],
+    correctAnswer: 0,
+    difficulty: "EASY",
+    damage: 150,
+    explanation: "Formal correspondence requires dignified salutations: 'Respected Sir/Madam' or 'Dear Sir/Madam'."
+  },
+  {
+    classLevel: 6,
+    subject: "English",
+    chapter: "Chapter 12: Grand Master Literature & Composition Synthesis",
+    question: "What is the standard complimentary close used at the end of a formal application letter to a teacher or authority?",
+    options: ["Yours faithfully / Yours obediently / Yours sincerely", "Cheers,", "See ya later,", "Your best pal,"],
+    correctAnswer: 0,
+    difficulty: "EASY",
+    damage: 150,
+    explanation: "Standard formal sign-offs include 'Yours obediently' (to teachers) and 'Yours faithfully/sincerely' (official)."
+  },
+  {
+    classLevel: 6,
+    subject: "English",
+    chapter: "Chapter 12: Grand Master Literature & Composition Synthesis",
+    question: "In a formal school 'NOTICE', which crucial element is always written at the very top in BOLD CAPITAL letters enclosed in a box?",
+    options: [
+      "The Name of the School/Institution followed by the word 'NOTICE'",
+      "A personal story",
+      "A poem",
+      "The principal's home address"
+    ],
+    correctAnswer: 0,
+    difficulty: "EASY",
+    damage: 150,
+    explanation: "Notice format mandates: Institution Header, 'NOTICE' in caps, Date, Heading, Body (enclosed in a rectangular box)."
+  },
+  {
+    classLevel: 6,
+    subject: "English",
+    chapter: "Chapter 12: Grand Master Literature & Composition Synthesis",
+    question: "What is a 'Paragraph' in English composition?",
+    options: [
+      "A group of related sentences focused on developing a single central topic or idea",
+      "A list of random words",
+      "A collection of unrelated dictionary pages",
+      "A single long sentence without full stops"
+    ],
+    correctAnswer: 0,
+    difficulty: "EASY",
+    damage: 150,
+    explanation: "A paragraph is a coherent structural unit unified around a single topical theme."
+  },
+  {
+    classLevel: 6,
+    subject: "English",
+    chapter: "Chapter 12: Grand Master Literature & Composition Synthesis",
+    question: "Who was the little magical elf who helped Patrick with his homework in 'Who Did Patrick's Homework?'?",
+    options: [
+      "A tiny man of the smallest size (the elf) who knew nothing of human school subjects",
+      "Patrick's teacher in disguise",
+      "Patrick's cat",
+      "A robot"
+    ],
+    correctAnswer: 0,
+    difficulty: "EASY",
+    damage: 150,
+    explanation: "The tiny elf was rescued from the cat, cajoling Patrick into doing all his own research and homework."
+  },
+  {
+    classLevel: 6,
+    subject: "English",
+    chapter: "Chapter 12: Grand Master Literature & Composition Synthesis",
+    question: "In 'How the Dog Found Himself a New Master', whom did the dog choose as his ULTIMATE and eternal master on Earth?",
+    options: ["Man (Human)", "The Wolf", "The Bear", "The Lion"],
+    correctAnswer: 0,
+    difficulty: "EASY",
+    damage: 150,
+    explanation: "The dog realized that humans are the master of all creatures on Earth, entering loyal canine servitude."
+  },
+  {
+    classLevel: 6,
+    subject: "English",
+    chapter: "Chapter 12: Grand Master Literature & Composition Synthesis",
+    question: "What was the magical waterfall in the forest that gave delicious, warm Sake to the dutiful woodcutter Taro while giving cold water to others called?",
+    options: ["Taro's Waterfall", "The Silver Fountain", "The Magic Spring", "The Golden Well"],
+    correctAnswer: 0,
+    difficulty: "EASY",
+    damage: 150,
+    explanation: "The waterfall magically manifested warm sake exclusively for dutiful, filial Taro."
+  },
+  {
+    classLevel: 6,
+    subject: "English",
+    chapter: "Chapter 12: Grand Master Literature & Composition Synthesis",
+    question: "What was the name of the American Space Shuttle that tragic heroine Kalpana Chawla flew on her STS-107 mission in 2003?",
+    options: ["Columbia (Space Shuttle Columbia)", "Discovery", "Challenger", "Atlantis"],
+    correctAnswer: 0,
+    difficulty: "EASY",
+    damage: 150,
+    explanation: "Kalpana Chawla tragically perished with 6 crew members aboard Columbia during atmospheric re-entry on 1 Feb 2003."
+  },
+  {
+    classLevel: 6,
+    subject: "English",
+    chapter: "Chapter 12: Grand Master Literature & Composition Synthesis",
+    question: "Who became the wise Sarpanch of the village Panchayat in Munshi Premchand's 'Fair Play' and delivered justice without friendship bias?",
+    options: [
+      "Algu Chowdhry (in the aunt's case) and later Jumman Sheikh (in the bullock case)",
+      "Samjhu Sahu",
+      "The village priest",
+      "The British officer"
+    ],
+    correctAnswer: 0,
+    difficulty: "EASY",
+    damage: 150,
+    explanation: "Premchand portrays the sacred neutrality of the Panch seat: 'The voice of the Panch is the voice of God'."
+  },
+  {
+    classLevel: 6,
+    subject: "English",
+    chapter: "Chapter 12: Grand Master Literature & Composition Synthesis",
+    question: "What is the famous philosophical quote from 'Fair Play' that captures the sacred responsibility of a judge?",
+    options: [
+      "\"The voice of the Panch is the voice of God.\"",
+      "\"Might is right.\"",
+      "\"All is fair in love and war.\"",
+      "\"Money makes the world go round.\""
+    ],
+    correctAnswer: 0,
+    difficulty: "EASY",
+    damage: 150,
+    explanation: "Premchand's central aphorism emphasizes that justice transcends personal enmity or friendship."
+  },
+  {
+    classLevel: 6,
+    subject: "English",
+    chapter: "Chapter 12: Grand Master Literature & Composition Synthesis",
+    question: "What is the figure of speech in which two contradictory words are placed together (such as 'deafening silence', 'sweet sorrow') called?",
+    options: ["Oxymoron", "Simile", "Metaphor", "Alliteration"],
+    correctAnswer: 0,
+    difficulty: "EASY",
+    damage: 150,
+    explanation: "An Oxymoron juxtaposes seemingly contradictory semantic terms (e.g. bittersweet, open secret)."
+  },
+  {
+    classLevel: 6,
+    subject: "English",
+    chapter: "Chapter 12: Grand Master Literature & Composition Synthesis",
+    question: "What is the repetition of the same initial consonant sound in adjacent or closely connected words (such as 'Peter Piper picked a peck of pickled peppers') called?",
+    options: ["Alliteration", "Rhyme", "Metaphor", "Hyperbole"],
+    correctAnswer: 0,
+    difficulty: "EASY",
+    damage: 150,
+    explanation: "Alliteration is the poetic repetition of identical initial consonant phonemes in neighboring words."
+  },
+
+  // MEDIUM (16)
+  {
+    classLevel: 6,
+    subject: "English",
+    chapter: "Chapter 12: Grand Master Literature & Composition Synthesis",
+    question: "Read the excerpt from Eleanor Farjeon's poem 'The Quarrel':\n\"The afternoon turned black.\nThen suddenly my brother thumped me on the back,\nAnd said, 'Oh, come along! We can't go on all night —\nI was in the wrong.' So he was in the right.\"\nWhy was the brother 'in the right' by admitting he was in the wrong?",
+    options: [
+      "Because admitting one's fault with moral humility and taking the initiative to make peace requires true courage and nobility",
+      "Because the brother won the physical fight",
+      "Because he wanted to get dinner",
+      "Because he was afraid of the dark"
+    ],
+    correctAnswer: 0,
+    difficulty: "MEDIUM",
+    damage: 250,
+    explanation: "Farjeon highlights the emotional maturity of forgiveness: apologizing to reconcile is the truly righteous act."
+  },
+  {
+    classLevel: 6,
+    subject: "English",
+    chapter: "Chapter 12: Grand Master Literature & Composition Synthesis",
+    question: "What is the crucial moral distinction between 'A House' and 'A Home' in Lorraine M. Hailing's poem?",
+    options: [
+      "A House is merely a physical brick-and-stone building structure, whereas a Home is built of selfless love, family bonds, sharing, and caring for one another",
+      "A house has a garden while a home has none",
+      "A house is made of glass",
+      "There is no difference between them"
+    ],
+    correctAnswer: 0,
+    difficulty: "MEDIUM",
+    damage: 250,
+    explanation: "A house is physical architecture; a home is spiritual communion characterized by familial love and mutual sacrifice."
+  },
+  {
+    classLevel: 6,
+    subject: "English",
+    chapter: "Chapter 12: Grand Master Literature & Composition Synthesis",
+    question: "In 'A Tale of Two Birds', why did the two sibling birds behave so completely differently when travelers visited their trees?",
+    options: [
+      "One lived in a cave with robbers and repeated abusive language; the other lived near a rishi's ashram and welcomed guests with gentle polite words (Company shapes character)",
+      "Because one bird was born blind",
+      "Because one bird was a parrot and the other an eagle",
+      "Because one bird had no wings"
+    ],
+    correctAnswer: 0,
+    difficulty: "MEDIUM",
+    damage: 250,
+    explanation: "The story exemplifies the proverb: 'One is known by the company one keeps'."
+  },
+  {
+    classLevel: 6,
+    subject: "English",
+    chapter: "Chapter 12: Grand Master Literature & Composition Synthesis",
+    question: "In 'The Friendly Mongoose', what fatal mistake did the farmer's wife make when she saw blood on the mongoose's mouth and paws?",
+    options: [
+      "She acted in blind hasty rage without investigating, struck the faithful mongoose with a heavy water pot and killed it, only to discover inside that the mongoose had killed a poisonous snake to save her baby",
+      "She gave all her money to the mongoose",
+      "She ran away to another village",
+      "She put the mongoose in a cage"
+    ],
+    correctAnswer: 0,
+    difficulty: "MEDIUM",
+    damage: 250,
+    explanation: "The folktale warns against precipitous hasty wrath: 'Look before you leap; do not act in blind passion'."
+  },
+  {
+    classLevel: 6,
+    subject: "English",
+    chapter: "Chapter 12: Grand Master Literature & Composition Synthesis",
+    question: "In 'The Shepherd's Treasure', how was the poor, illiterate Iranian shepherd rewarded by the King for his extraordinary wisdom, humility, and honesty?",
+    options: [
+      "The King appointed him Governor of a province, and when jealous ministers accused him of stealing, his iron chest contained only an old woolen blanket—symbol of his eternal humility",
+      "The King gave him a golden palace and 1,000 horses",
+      "The King made him his royal cook",
+      "The King sent him to prison"
+    ],
+    correctAnswer: 0,
+    difficulty: "MEDIUM",
+    damage: 250,
+    explanation: "The shepherd's humble blanket symbolized uncorrupted virtue, winning the King's deepest esteem as Grand Governor."
+  },
+  {
+    classLevel: 6,
+    subject: "English",
+    chapter: "Chapter 12: Grand Master Literature & Composition Synthesis",
+    question: "In 'Tansen', how did the legendary court musician Tansen save his life when jealous courtiers plotted to kill him by making him sing the fire-igniting 'Raga Deepak'?",
+    options: [
+      "He taught his daughter Saraswati and her friend Rupvati to sing 'Raga Megh' simultaneously; when Deepak ignited fires and dried the air, Raga Megh brought torrential cooling rain",
+      "He ran away from Emperor Akbar's court",
+      "He refused to sing",
+      "He jumped into the river"
+    ],
+    correctAnswer: 0,
+    difficulty: "MEDIUM",
+    damage: 250,
+    explanation: "Tansen harmonized musical thermodynamics: Raga Megh's torrential monsoon counteracted Raga Deepak's thermal incandescence."
+  },
+  {
+    classLevel: 6,
+    subject: "English",
+    chapter: "Chapter 12: Grand Master Literature & Composition Synthesis",
+    question: "In 'The Monkey and the Crocodile', how did the clever monkey save his life when the foolish crocodile betrayed him in the middle of the river?",
+    options: [
+      "The monkey cleverly claimed that he had left his heart safely behind on the jamun tree; when the crocodile swam back to fetch it, the monkey leaped to safety on the branches",
+      "The monkey fought the crocodile in water",
+      "The monkey called a fish for help",
+      "The monkey swam across to the other bank"
+    ],
+    correctAnswer: 0,
+    difficulty: "MEDIUM",
+    damage: 250,
+    explanation: "Panchatantra wit: the monkey's quick presence of mind outsmarted the treacherous crocodile."
+  },
+  {
+    classLevel: 6,
+    subject: "English",
+    chapter: "Chapter 12: Grand Master Literature & Composition Synthesis",
+    question: "In 'The Wonder Called Sleep', what physiological and psychological restorative processes happen to our body during deep sleep?",
+    options: [
+      "Our muscles relax, body temperature and blood pressure lower, the overworked brain rests, and physical healing and memory consolidation occur",
+      "Our heart stops beating entirely",
+      "Our body grows wings",
+      "We lose all our memories"
+    ],
+    correctAnswer: 0,
+    difficulty: "MEDIUM",
+    damage: 250,
+    explanation: "Sleep is nature's supreme physiological healer: relaxing musculature and neuro-cognitively restoring bodily homeostatic equilibrium."
+  },
+  {
+    classLevel: 6,
+    subject: "English",
+    chapter: "Chapter 12: Grand Master Literature & Composition Synthesis",
+    question: "What is the theme of Harry Behn's poem 'Trees'?",
+    options: [
+      "Trees are the kindest, gentlest things upon Earth that do no harm, offer soothing shade to cows, shelter birds, hum evening lullabies, and give wood and fruit",
+      "Trees are dangerous in storms",
+      "Trees should be chopped down for paper",
+      "Trees make the forest too dark"
+    ],
+    correctAnswer: 0,
+    difficulty: "MEDIUM",
+    damage: 250,
+    explanation: "Behn celebrates trees as embodiments of selfless kindness, silent shelter, and ecological harmony."
+  },
+  {
+    classLevel: 6,
+    subject: "English",
+    chapter: "Chapter 12: Grand Master Literature & Composition Synthesis",
+    question: "What is the theme of E-Yeh-Shure's poem 'Beauty'?",
+    options: [
+      "Beauty is not merely external; it is seen in sunlight and trees, heard in wind and rain, and felt within good deeds, kind thoughts, and pure dreams",
+      "Beauty is only expensive clothes and jewelry",
+      "Beauty cannot be found in nature",
+      "Beauty is only in paintings"
+    ],
+    correctAnswer: 0,
+    difficulty: "MEDIUM",
+    damage: 250,
+    explanation: "Pueblo poet E-Yeh-Shure reveals beauty as universal sensory and ethical harmony residing in noble deeds and kind thoughts."
+  },
+  {
+    classLevel: 6,
+    subject: "English",
+    chapter: "Chapter 12: Grand Master Literature & Composition Synthesis",
+    question: "Identify the figure of speech in: 'The roaring thunderstorm was a furious monster tearing through the valley.'",
+    options: ["Metaphor (direct figurative equation of thunderstorm to a furious monster)", "Simile", "Alliteration", "Hyperbole"],
+    correctAnswer: 0,
+    difficulty: "MEDIUM",
+    damage: 250,
+    explanation: "Direct identification of the storm as a monster without comparative markers ('like' or 'as') is a Metaphor."
+  },
+  {
+    classLevel: 6,
+    subject: "English",
+    chapter: "Chapter 12: Grand Master Literature & Composition Synthesis",
+    question: "Choose the correct sentence that accurately demonstrates the difference between HOMOPHONES 'Principle' and 'Principal':",
+    options: [
+      "'Our school **Principal** is a man of high moral **principles**.'",
+      "'Our school Principle is a man of high Principal.'",
+      "'Both words mean the exact same thing.'",
+      "'Principle is a person, Principal is a rule.'"
+    ],
+    correctAnswer: 0,
+    difficulty: "MEDIUM",
+    damage: 250,
+    explanation: "Principal = head of a school; Principle = fundamental moral rule or truth."
+  },
+  {
+    classLevel: 6,
+    subject: "English",
+    chapter: "Chapter 12: Grand Master Literature & Composition Synthesis",
+    question: "Choose the correct spelling of the high-frequency vocabulary word meaning 'steady persistence and resilience in achieving a goal':",
+    options: ["Perseverance", "Perseverence", "Preservance", "Perserverance"],
+    correctAnswer: 0,
+    difficulty: "MEDIUM",
+    damage: 250,
+    explanation: "Correct orthography: P-E-R-S-E-V-E-R-A-N-C-E."
+  },
+  {
+    classLevel: 6,
+    subject: "English",
+    chapter: "Chapter 12: Grand Master Literature & Composition Synthesis",
+    question: "Choose the correct spelling of the adjective describing a child who is playfully annoying or causing harmless trouble:",
+    options: ["Mischievous", "Mischievious", "Mischevous", "Mischivous"],
+    correctAnswer: 0,
+    difficulty: "MEDIUM",
+    damage: 250,
+    explanation: "Correct orthography: M-I-S-C-H-I-E-V-O-U-S (pronounced mis-chuh-vuhs, 3 syllables)."
+  },
+  {
+    classLevel: 6,
+    subject: "English",
+    chapter: "Chapter 12: Grand Master Literature & Composition Synthesis",
+    question: "What is the purpose of writing a 'Diary Entry' in English creative writing?",
+    options: [
+      "To record personal, intimate reflections, feelings, and daily experiences in an informal, authentic first-person voice",
+      "To send an official complaint to the police",
+      "To advertise a new product in the market",
+      "To write an exam question paper"
+    ],
+    correctAnswer: 0,
+    difficulty: "MEDIUM",
+    damage: 250,
+    explanation: "Diary entries are personal introspective chronological records of emotions and experiences."
+  },
+  {
+    classLevel: 6,
+    subject: "English",
+    chapter: "Chapter 12: Grand Master Literature & Composition Synthesis",
+    question: "What is the primary role of a 'Topic Sentence' in a well-structured expository paragraph?",
+    options: [
+      "It states the main controlling idea of the paragraph clearly, which the following supporting sentences elaborate and explain",
+      "It provides the final goodbye to the reader",
+      "It lists dictionary definitions only",
+      "It is always a question without an answer"
+    ],
+    correctAnswer: 0,
+    difficulty: "MEDIUM",
+    damage: 250,
+    explanation: "The topic sentence anchors the paragraph, articulating the primary proposition developed by supporting evidence."
+  },
+
+  // HARD (12)
+  {
+    classLevel: 6,
+    subject: "English",
+    chapter: "Chapter 12: Grand Master Literature & Composition Synthesis",
+    question: "Read the statements:\nAssertion (A): Great literature across NCERT Class 6 (from Premchand's 'Fair Play' to Bond's 'The Banyan Tree' and Whitaker's 'What Happened to the Reptiles') cultivates empathetic moral reasoning.\nReason (R): Narrative storytelling allows young readers to step into diverse perspectives—human, avian, reptilian, and underprivileged—fostering universal empathy, justice, and ecological harmony.\nChoose the correct option:",
+    options: [
+      "Both (A) and (R) are true, and (R) is the correct explanation of (A).",
+      "Both (A) and (R) are true, but (R) is NOT the correct explanation of (A).",
+      "(A) is true, but (R) is false.",
+      "(A) is false, but (R) is true."
+    ],
+    correctAnswer: 0,
+    difficulty: "HARD",
+    damage: 350,
+    explanation: "Literature functions as an affective simulator, developing cognitive empathy and universal ethical sensitivity."
+  },
+  {
+    classLevel: 6,
+    subject: "English",
+    chapter: "Chapter 12: Grand Master Literature & Composition Synthesis",
+    question: "Spot the IMPOSTER in the following group of classic literary texts paired with their central moral messages:\nGroup: [Taro's Reward - Filial piety and devotion to parents, Fair Play - Sacred neutrality of justice, A Game of Chance - Caution against gullibility & con tricks, The Banyan Tree - The benefits of cutting old trees for roads]",
+    options: [
+      "Taro's Reward - Filial piety and devotion to parents",
+      "Fair Play - Sacred neutrality of justice",
+      "A Game of Chance - Caution against gullibility & con tricks",
+      "The Banyan Tree - The benefits of cutting old trees for roads"
+    ],
+    correctAnswer: 3,
+    difficulty: "HARD",
+    damage: 350,
+    explanation: "'The Banyan Tree' celebrates the MAJESTIC LIFE AND SANCTUARY of old trees and nature, NOT cutting them down."
+  },
+  {
+    classLevel: 6,
+    subject: "English",
+    chapter: "Chapter 12: Grand Master Literature & Composition Synthesis",
+    question: "Synthesize the core message of the poem 'Where Do All the Teachers Go?' by Peter Dixon:\nWhat deep psychological curiosity of a young child does the poem explore?",
+    options: [
+      "A young child's innocent inability to imagine that their omnipotent, perfect school teachers are ordinary human beings who wear pyjamas, wash socks, and live normal domestic lives",
+      "A child wondering if teachers live on Mars",
+      "A desire to become a teacher",
+      "A fear of homework"
+    ],
+    correctAnswer: 0,
+    difficulty: "HARD",
+    damage: 350,
+    explanation: "Dixon captures childhood epistemological dissonance: demystifying teacher authority into relatable shared humanity."
+  },
+  {
+    classLevel: 6,
+    subject: "English",
+    chapter: "Chapter 12: Grand Master Literature & Composition Synthesis",
+    question: "Match Column I (Literary Authors) with Column II (Masterpiece Works in Class 6):\n(a) Munshi Premchand -> (i) The Banyan Tree\n(b) Ruskin Bond       -> (ii) Fair Play\n(c) Zai Whitaker      -> (iii) A Pact with the Sun\n(d) Dr. Zakir Husain  -> (iv) What Happened to the Reptiles",
+    options: [
+      "a-(ii), b-(i), c-(iv), d-(iii)",
+      "a-(i), b-(ii), c-(iii), d-(iv)",
+      "a-(iv), b-(iii), c-(ii), d-(i)",
+      "a-(iii), b-(iv), c-(i), d-(ii)"
+    ],
+    correctAnswer: 0,
+    difficulty: "HARD",
+    damage: 350,
+    explanation: "Premchand = Fair Play; Bond = Banyan Tree; Whitaker = Reptiles; Zakir Husain = Pact with the Sun."
+  },
+  {
+    classLevel: 6,
+    subject: "English",
+    chapter: "Chapter 12: Grand Master Literature & Composition Synthesis",
+    question: "Read the statements regarding English stylistic devices:\nStatement 1: 'The kettle sang a cheerful tune on the stove' is an example of Personification.\nStatement 2: A formal letter must maintain a polite, objective, and precise register without informal slang.\nStatement 3: Passive voice should be used for all casual informal conversation.\nWhich statements are TRUE?",
+    options: ["Statements 1 and 2 only", "Statements 2 and 3 only", "Statements 1 and 3 only", "All Statements 1, 2, and 3"],
+    correctAnswer: 0,
+    difficulty: "HARD",
+    damage: 350,
+    explanation: "Statement 3 is false because informal speech relies predominantly on direct Active Voice. Statements 1 and 2 are true."
+  },
+  {
+    classLevel: 6,
+    subject: "English",
+    chapter: "Chapter 12: Grand Master Literature & Composition Synthesis",
+    question: "What is the grammatical classification of the underlined subordinate clause in: 'We cannot begin the meeting *until the Principal arrives*.'?",
+    options: [
+      "Adverb Clause of Time (modifying the main verb 'cannot begin')",
+      "Noun Clause",
+      "Adjective Clause",
+      "Relative Clause"
+    ],
+    correctAnswer: 0,
+    difficulty: "HARD",
+    damage: 350,
+    explanation: "'Until the Principal arrives' functions as an Adverbial Clause of Time answering 'when'."
+  },
+  {
+    classLevel: 6,
+    subject: "English",
+    chapter: "Chapter 12: Grand Master Literature & Composition Synthesis",
+    question: "Which of the following demonstrates the correct use of PUNCTUATION in a complex direct speech quotation?",
+    options: [
+      "\"If you work hard,\" said the wise teacher, \"you will achieve your greatest dreams.\"",
+      "\"If you work hard said the wise teacher you will achieve your greatest dreams.\"",
+      "If you work hard, said the wise teacher, \"you will achieve your greatest dreams.\"",
+      "\"If you work hard\" said the wise teacher \"you will achieve your greatest dreams\"."
+    ],
+    correctAnswer: 0,
+    difficulty: "HARD",
+    damage: 350,
+    explanation: "Interrupted direct quotation: comma inside first quotes, reporting attribution, comma, quotes around remainder."
+  },
+  {
+    classLevel: 6,
+    subject: "English",
+    chapter: "Chapter 12: Grand Master Literature & Composition Synthesis",
+    question: "What is the meaning of the idiomatic phrase 'To have your heart in your mouth' when Patrick opened his report card?",
+    options: [
+      "To feel overwhelming acute anxiety, fear, or suspense",
+      "To have a physical throat ache",
+      "To be extremely hungry",
+      "To sing loudly"
+    ],
+    correctAnswer: 0,
+    difficulty: "HARD",
+    damage: 350,
+    explanation: "'Heart in one's mouth' vividly expresses visceral somatic sensations of acute suspense or terror."
+  },
+  {
+    classLevel: 6,
+    subject: "English",
+    chapter: "Chapter 12: Grand Master Literature & Composition Synthesis",
+    question: "Identify the figure of speech in: 'The child was as brave as a young lion in the face of danger.'",
+    options: [
+      "Simile (explicit comparison using 'as... as' comparing the child's courage to a lion)",
+      "Metaphor",
+      "Irony",
+      "Alliteration"
+    ],
+    correctAnswer: 0,
+    difficulty: "HARD",
+    damage: 350,
+    explanation: "Explicit comparative syntax with 'as... as' constitutes a Simile."
+  },
+  {
+    classLevel: 6,
+    subject: "English",
+    chapter: "Chapter 12: Grand Master Literature & Composition Synthesis",
+    question: "Transform the sentence from Active Voice into PASSIVE VOICE:\n'The Emperor of Japan rewarded Taro with twenty pieces of gold.'",
+    options: [
+      "'Taro was rewarded with twenty pieces of gold by the Emperor of Japan.'",
+      "'Taro is rewarded by the Emperor.'",
+      "'The Emperor was rewarded by Taro.'",
+      "'Twenty pieces of gold rewarded the Emperor.'"
+    ],
+    correctAnswer: 0,
+    difficulty: "HARD",
+    damage: 350,
+    explanation: "Past passive: Subject (Taro) + was rewarded + adjuncts + by agent (Emperor of Japan)."
+  },
+  {
+    classLevel: 6,
+    subject: "English",
+    chapter: "Chapter 12: Grand Master Literature & Composition Synthesis",
+    question: "What is the structural role of 'Transitional Linking Words' (such as 'Furthermore', 'However', 'Consequently', 'In conclusion') in advanced essay composition?",
+    options: [
+      "They establish smooth logical coherence, signposting relationships between ideas and bridging sentences seamlessly",
+      "They are decorative filler words that make essays longer",
+      "They are only used in mathematics",
+      "They replace punctuation marks"
+    ],
+    correctAnswer: 0,
+    difficulty: "HARD",
+    damage: 350,
+    explanation: "Discourse connectives establish rhetorical cohesion, logical progression, and semantic clarity across paragraphs."
+  },
+  {
+    classLevel: 6,
+    subject: "English",
+    chapter: "Chapter 12: Grand Master Literature & Composition Synthesis",
+    question: "What grand humanistic vision unites the entire NCERT Class 6 English curriculum at its completion?",
+    options: [
+      "The empowerment of the young human mind through the mastery of language, critical inquiry, compassionate integrity, and lifelong love for reading and truth",
+      "The memorization of grammar rules without understanding",
+      "The rejection of all creative poetry",
+      "The belief that only science is important"
+    ],
+    correctAnswer: 0,
+    difficulty: "HARD",
+    damage: 350,
+    explanation: "The curriculum culminates in cognitive and linguistic empowerment: integrating linguistic mastery with ethical empathy and critical truth."
+  }
+];
+
+console.log('Generated English Ch12:', englishQuestions.length);
+fs.writeFileSync('C:/EduVerse/class 6/cross_subject/english_ch12.json', JSON.stringify(englishQuestions, null, 2), 'utf8');

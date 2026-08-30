@@ -1,0 +1,3842 @@
+[
+  {
+    "classLevel": 6,
+    "subject": "Science",
+    "chapter": "Chapter 10: Fun with Magnets",
+    "question": "What is a naturally occurring magnetic rock/mineral consisting of iron oxide (Fe₃O₄) that was discovered in ancient Greece?",
+    "options": [
+      "Magnetite (Lodestone)",
+      "Hematite",
+      "Bauxite",
+      "Pyrite"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "Magnetite is a natural permanent magnet discovered in Magnesia, ancient Greece, also called 'lodestone' ('leading stone')."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Science",
+    "chapter": "Chapter 10: Fun with Magnets",
+    "question": "Who was the ancient Greek shepherd who discovered natural magnetic rock when the iron tip of his walking stick and iron nails in his shoes got stuck to a black rock?",
+    "options": [
+      "Magnes",
+      "Archimedes",
+      "Aristotle",
+      "Socrates"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "Legend says the shepherd Magnes discovered magnetic ore on Mount Ida when his iron-tipped staff stuck to magnetite rocks."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Science",
+    "chapter": "Chapter 10: Fun with Magnets",
+    "question": "Materials that are attracted strongly towards a magnet (such as iron, nickel, cobalt, and steel) are called:",
+    "options": [
+      "Magnetic Materials",
+      "Non-magnetic Materials",
+      "Insulators",
+      "Plastic Materials"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "Ferromagnetic materials containing unpaired d-electrons (Fe, Ni, Co) are attracted to magnetic fields."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Science",
+    "chapter": "Chapter 10: Fun with Magnets",
+    "question": "Materials that are NOT attracted towards a magnet (such as wood, plastic, rubber, glass, paper, gold, aluminium) are called:",
+    "options": [
+      "Non-magnetic Materials",
+      "Magnetic Materials",
+      "Electromagnets",
+      "Lodestones"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "Non-magnetic materials lack permanent atomic magnetic dipoles and do not exhibit magnetic attraction."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Science",
+    "chapter": "Chapter 10: Fun with Magnets",
+    "question": "How many magnetic poles does EVERY magnet possess, regardless of its shape or size?",
+    "options": [
+      "Two poles (North Pole 'N' and South Pole 'S')",
+      "One single pole",
+      "Three poles",
+      "Four poles"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "Magnetic dipoles always exist in pairs: a North-seeking pole (N) and a South-seeking pole (S)."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Science",
+    "chapter": "Chapter 10: Fun with Magnets",
+    "question": "Where is the magnetic force (attraction power) of a bar magnet the STRONGEST?",
+    "options": [
+      "Near its two end Poles (North and South Poles)",
+      "Exactly at the center of the magnet",
+      "Uniform everywhere across its body",
+      "Only on its top surface"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "Magnetic field flux density converges at the two terminal poles, where iron filings cling in dense clusters."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Science",
+    "chapter": "Chapter 10: Fun with Magnets",
+    "question": "In which geographical direction does a freely suspended bar magnet ALWAYS come to rest?",
+    "options": [
+      "North-South direction (N-S)",
+      "East-West direction (E-W)",
+      "North-East direction",
+      "Any random direction"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "A freely pivoted magnet aligns with Earth's geomagnetic field lines along the geographic North-South meridian."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Science",
+    "chapter": "Chapter 10: Fun with Magnets",
+    "question": "What navigational instrument uses a magnetized needle freely pivoted inside a dial to find geographical directions?",
+    "options": [
+      "Magnetic Compass",
+      "Speedometer",
+      "Barometer",
+      "Thermometer"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "A magnetic compass features a pivoted magnetized needle whose painted North tip indicates geomagnetic north."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Science",
+    "chapter": "Chapter 10: Fun with Magnets",
+    "question": "What happens when two LIKE magnetic poles (North and North, or South and South) are brought close to each other?",
+    "options": [
+      "They REPEL (push away from) each other",
+      "They attract each other",
+      "They stick together tightly",
+      "They turn into copper"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "Fundamental magnetic law: Like poles repel (N-N or S-S); unlike poles attract (N-S)."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Science",
+    "chapter": "Chapter 10: Fun with Magnets",
+    "question": "What happens when two UNLIKE magnetic poles (North and South) are brought close to each other?",
+    "options": [
+      "They ATTRACT (pull towards) each other",
+      "They repel each other",
+      "They lose their magnetism immediately",
+      "They heat up and melt"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "Opposite magnetic polarities (N and S) experience mutual attractive Lorentz/dipolar forces."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Science",
+    "chapter": "Chapter 10: Fun with Magnets",
+    "question": "Which of the following is a classic artificial shape of manufactured permanent magnets?",
+    "options": [
+      "Bar magnet, Horse-shoe magnet, Cylindrical magnet, and Ball-ended magnet",
+      "Square paper magnet",
+      "Liquid water magnet",
+      "Cloth magnet"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "Artificial magnets are cast/sintered in bar, horseshoe, disc, cylindrical, and ring geometries."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Science",
+    "chapter": "Chapter 10: Fun with Magnets",
+    "question": "What is the surest and only foolproof test to confirm whether an unknown metal piece is an active magnet or merely a magnetic iron piece?",
+    "options": [
+      "REPULSION test (only another magnet will experience repulsion; an ordinary iron piece is attracted to both poles)",
+      "Attraction test",
+      "Weighing test",
+      "Color test"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "Unmagnetized ferromagnetic iron is attracted by both N and S poles; only a true magnet repels like poles."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Science",
+    "chapter": "Chapter 10: Fun with Magnets",
+    "question": "What happens when a bar magnet is cut or broken into TWO halves across its middle?",
+    "options": [
+      "Each broken piece becomes a complete, independent magnet with its own North and South Pole (Magnetic monopoles do NOT exist)",
+      "One piece becomes pure North pole and the other pure South pole",
+      "Both pieces lose all magnetism permanently",
+      "The magnet explodes"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "Atomic magnetic domains remain dipolar; cutting a magnet creates two smaller dipoles each with N and S poles."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Science",
+    "chapter": "Chapter 10: Fun with Magnets",
+    "question": "How can you magnetize an ordinary iron nail or sewing needle using the 'Single-Touch' method?",
+    "options": [
+      "Stroke the iron nail with one pole of a bar magnet repeatedly in ONE fixed direction along its length (30–40 times) without reversing direction",
+      "Rub the magnet back and forth randomly",
+      "Heat the nail in a fire with the magnet",
+      "Drop the nail in cold water"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "Unidirectional stroking aligns magnetic Weiss domains in the ferromagnetic nail along the stroke vector."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Science",
+    "chapter": "Chapter 10: Fun with Magnets",
+    "question": "Which of the following actions can cause a permanent magnet to LOSE its magnetism (Demagnetization)?",
+    "options": [
+      "Heating to high temperatures, hammering vigorously with a mallet, or dropping it repeatedly from a height onto hard floor",
+      "Washing it with clean water",
+      "Keeping it in a dark wooden box",
+      "Using it to pick up paper clips"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "Thermal energy (above Curie temperature) and mechanical impact randomize aligned magnetic domain orientations."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Science",
+    "chapter": "Chapter 10: Fun with Magnets",
+    "question": "How should Bar Magnets be safely stored in pairs to preserve their magnetic strength over years?",
+    "options": [
+      "Stored in pairs with UNLIKE poles opposite each other, separated by a wooden spacer in the middle and connected by soft iron pieces (Keepers) across their ends",
+      "Stored with like poles touching",
+      "Stored loose in an iron bucket",
+      "Stored submerged in salt water"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "Soft iron magnetic keepers close magnetic flux loops, preventing self-demagnetizing free pole dissipation."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Science",
+    "chapter": "Chapter 10: Fun with Magnets",
+    "question": "How should a Horseshoe Magnet be stored properly?",
+    "options": [
+      "By placing a single piece of soft iron (magnetic keeper) across its two open poles",
+      "By bending its arms together",
+      "By heating it before storing",
+      "By wrapping it in aluminium foil"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "A soft iron keeper across both adjacent poles of a horseshoe magnet bridges the gap, completing the magnetic circuit."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Science",
+    "chapter": "Chapter 10: Fun with Magnets",
+    "question": "Why does the Earth itself behave like a colossal gigantic magnet?",
+    "options": [
+      "Circulating molten iron-nickel liquid currents in Earth's outer core generate a geomagnetic field, with its magnetic south pole located near the geographic North Pole",
+      "Because Earth is made of giant plastic magnets",
+      "Because mountains are magnetic",
+      "Because satellites magnetize Earth"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "Geodynamo convection in the outer core generates Earth's geomagnetic field; geographic North hosts geomagnetic South polarity."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Science",
+    "chapter": "Chapter 10: Fun with Magnets",
+    "question": "What ancient Chinese legend describes an emperor's chariot equipped with a rotating wooden statue holding an outstretched arm that always pointed SOUTH?",
+    "options": [
+      "The South-Pointing Chariot of Emperor Huang Di",
+      "The Dragon Compass",
+      "The Great Wall Chariot",
+      "The Silk Navigator"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "Huang Di's legendary chariot utilized a lodestone/geared mechanism whose statue arm consistently pointed South."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Science",
+    "chapter": "Chapter 10: Fun with Magnets",
+    "question": "Why should permanent strong magnets be kept away from cassette tapes, credit cards, computer hard drives, and mobile phones?",
+    "options": [
+      "The strong magnetic field can alter or erase the magnetic data encoded on magnetic strips, chips, and micro-circuitry",
+      "Because magnets will catch fire near phones",
+      "Because phones will become too heavy",
+      "Because phone glass turns into mirror"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "External stray magnetic flux can corrupt magnetically stored binary bits and saturate Hall sensors in electronics."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Science",
+    "chapter": "Chapter 10: Fun with Magnets",
+    "question": "If an iron needle is magnetized by stroking with the North pole of a bar magnet starting from end A to end B, what magnetic pole is formed at end B?",
+    "options": [
+      "South Pole (opposite to the stroking pole)",
+      "North Pole",
+      "No pole is formed",
+      "End B becomes non-magnetic"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "The trailing end B of the stroke acquires opposite polarity (South pole) to the departing North pole."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Science",
+    "chapter": "Chapter 10: Fun with Magnets",
+    "question": "Can magnetic force act through non-magnetic barriers (like a sheet of paper, cardboard, or a plastic ruler)?",
+    "options": [
+      "Yes, magnetic field lines penetrate through non-magnetic materials like paper, glass, plastic, and water effortlessly",
+      "No, paper blocks all magnetic forces completely",
+      "Only if the paper is wet",
+      "Only in space"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "Magnetic flux permeates non-ferromagnetic dielectric media with magnetic permeability μ ≈ μ₀."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Science",
+    "chapter": "Chapter 10: Fun with Magnets",
+    "question": "A tailor dropped a box of sewing needles into a box of sawdust. What is the fastest and easiest way to separate all the steel needles without searching by hand?",
+    "options": [
+      "Pass a strong magnet through the sawdust; all steel needles will cling to the magnet instantly",
+      "Burn the sawdust",
+      "Dissolve in water",
+      "Use a microscope"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "Magnetic separation extracts ferromagnetic steel needles while leaving non-magnetic sawdust behind."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Science",
+    "chapter": "Chapter 10: Fun with Magnets",
+    "question": "Which of the following modern technological devices utilizes powerful magnets to operate?",
+    "options": [
+      "Electric motors, Dynamos, MRI medical scanners, Maglev trains, and Audio speakers",
+      "Wooden chairs",
+      "Cotton shirts",
+      "Glass bottles"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "Electromagnetic induction and magnetic levitation power electric motors, Maglev transit, MRI tomography, and acoustic transducers."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Science",
+    "chapter": "Chapter 10: Fun with Magnets",
+    "question": "How does a Maglev (Magnetic Levitation) high-speed bullet train run without touching the track rails?",
+    "options": [
+      "Superconducting electromagnets on the train and track repel each other with strong like magnetic poles, levitating the train in air and eliminating mechanical friction",
+      "It flies using jet wings",
+      "It rolls on millions of tiny ball bearings",
+      "It floats on a layer of hot steam"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "Electrodynamic/electromagnetic levitation utilizes magnetic repulsion to float carriages ~10–15 mm above guideways."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Science",
+    "chapter": "Chapter 10: Fun with Magnets",
+    "question": "What is an 'Electromagnet'?",
+    "options": [
+      "A temporary magnet formed by winding an insulated copper wire around a soft iron core and passing electric current through it",
+      "A rock found in the ocean",
+      "A permanent bar magnet that never loses magnetism",
+      "A magnet made of pure plastic"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "An electromagnet generates a controllable magnetic field via current flow through an insulated solenoid coil."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Science",
+    "chapter": "Chapter 10: Fun with Magnets",
+    "question": "Why do iron filings sprinkle on a sheet of paper over a bar magnet arrange themselves in distinct curved lines?",
+    "options": [
+      "Each tiny iron filing becomes a miniature induced magnet and aligns along the invisible curved Magnetic Field Lines running from North to South pole",
+      "Because the paper is curved",
+      "Because iron filings melt",
+      "Because of gravity pulling them sideways"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "Induced magnetic dipolar moments torque iron filings tangent to lines of magnetic flux density."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Science",
+    "chapter": "Chapter 10: Fun with Magnets",
+    "question": "What happens if a freely suspended bar magnet is brought near another strong magnet?",
+    "options": [
+      "The suspended magnet will rotate and re-align: its North pole will be attracted to the other's South pole and repelled by its North pole",
+      "It will stop moving forever",
+      "It will turn into copper",
+      "It will ignore the second magnet"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "Torque τ = m × B causes the pivoted dipole to rotate until its magnetic moment aligns with the external field."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Science",
+    "chapter": "Chapter 10: Fun with Magnets",
+    "question": "Read the statements:\nAssertion (A): It is physically impossible to isolate a single, independent magnetic monopole (pure North or pure South pole) in classical physics.\nReason (R): Magnetism originates from circulating microscopic atomic electron dipoles; breaking a magnet simply divides the dipoles, creating pairs of North and South poles in every fragment.\nChoose the correct option:",
+    "options": [
+      "Both (A) and (R) are true, and (R) is the correct explanation of (A).",
+      "Both (A) and (R) are true, but (R) is NOT the correct explanation of (A).",
+      "(A) is true, but (R) is false.",
+      "(A) is false, but (R) is true."
+    ],
+    "correctAnswer": 0,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "Gauss's Law for Magnetism (∇ · B = 0) establishes that magnetic field lines are continuous closed loops without monopole sources."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Science",
+    "chapter": "Chapter 10: Fun with Magnets",
+    "question": "Spot the IMPOSTER in the following group of materials categorized as Non-magnetic:\nGroup: [Pure Aluminium, Copper coin, Brass screw, Cobalt plate]",
+    "options": [
+      "Pure Aluminium",
+      "Copper coin",
+      "Brass screw",
+      "Cobalt plate"
+    ],
+    "correctAnswer": 3,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "Cobalt is a powerful FERROMAGNETIC material (like Iron and Nickel) that is strongly attracted to magnets."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Science",
+    "chapter": "Chapter 10: Fun with Magnets",
+    "question": "A student suspends an unmarked metallic bar X-Y freely. End X points towards geographic North. When the North pole of a known bar magnet is brought near end X, end X is strongly REPELLED. What can you conclude definitively about end X and end Y?",
+    "options": [
+      "The bar is a magnet; end X is a North Pole and end Y is a South Pole",
+      "The bar is ordinary non-magnetic aluminium",
+      "End X is a South Pole",
+      "The bar is unmagnetized soft iron"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "Repulsion definitively confirms that bar X-Y is a magnet and end X is a North pole."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Science",
+    "chapter": "Chapter 10: Fun with Magnets",
+    "question": "Match Column I (Magnetic Phenomena) with Column II (Scientific Principles):\n(a) Freely suspended magnet -> (i) Opposite poles experience mutual attraction\n(b) Like poles (N-N / S-S)     -> (ii) Like poles experience mutual repulsion\n(c) Unlike poles (N-S)       -> (iii) Aligns along Earth's geomagnetic N-S meridian\n(d) Soft iron keeper         -> (iv) Closes magnetic flux loop preventing demagnetization",
+    "options": [
+      "a-(iii), b-(ii), c-(i), d-(iv)",
+      "a-(i), b-(ii), c-(iii), d-(iv)",
+      "a-(iv), b-(iii), c-(ii), d-(i)",
+      "a-(ii), b-(iv), c-(i), d-(iii)"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "Suspended magnet = Earth N-S; Like poles = Repulsion; Unlike poles = Attraction; Keepers = Prevents demagnetization."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Science",
+    "chapter": "Chapter 10: Fun with Magnets",
+    "question": "Read the statements regarding magnetic properties:\nStatement 1: A magnet attracts an unmagnetized iron piece by first inducing temporary opposite magnetic polarity in the nearest part of the iron (Magnetic Induction).\nStatement 2: Heating a magnet above its Curie temperature permanently destroys its ferromagnetic domain alignment.\nStatement 3: Plastic can be magnetized using the single-touch stroking method.\nWhich statements are TRUE?",
+    "options": [
+      "Statements 1 and 2 only",
+      "Statements 2 and 3 only",
+      "Statements 1 and 3 only",
+      "All Statements 1, 2, and 3"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "Statement 3 is false because plastic has no ferromagnetic domains and cannot be magnetized. Statements 1 and 2 are true."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Science",
+    "chapter": "Chapter 10: Fun with Magnets",
+    "question": "Why does the geographic North Pole of Earth attract the NORTH-seeking pole of a compass needle?",
+    "options": [
+      "Because Earth's geomagnetic SOUTH magnetic pole is physically located near the geographic North Pole, exerting attractive force on the needle's North pole",
+      "Because like poles attract in space",
+      "Because geographic north has positive electricity",
+      "Because the compass is upside down"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "Earth's internal magnetic dipole is inverted relative to geography: the geomagnetic South pole resides near Arctic geographic North."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Science",
+    "chapter": "Chapter 10: Fun with Magnets",
+    "question": "A heavy-duty industrial magnetic crane in a junkyard lifts 5 tonnes of scrap iron cars and drops them precisely into a furnace. How does the crane operator release the scrap iron instantly?",
+    "options": [
+      "The crane uses a powerful Electromagnet; switching OFF the electric current stops the magnetic field instantly, releasing the scrap iron",
+      "By hitting the magnet with a hammer",
+      "By spraying cold water on the cars",
+      "By turning the crane upside down"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "Electromagnets provide instantaneous on/off control: cutting the solenoid circuit demagnetizes the soft iron core, dropping the load."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Science",
+    "chapter": "Chapter 10: Fun with Magnets",
+    "question": "Consider four rings placed over a vertical wooden pencil:\nRing 1: Magnet (N on top, S at bottom)\nRing 2: Magnet (S on top, N at bottom)\nRing 3: Magnet (N on top, S at bottom)\nRing 4: Soft Iron ring\nWhich pair of adjacent rings will LEVITATE (float) with a visible air gap between them?",
+    "options": [
+      "Between Ring 1 and Ring 2 (both facing surfaces have South Pole 'S-S', causing strong mutual repulsion and levitation)",
+      "Between Ring 2 and Ring 3",
+      "Between Ring 3 and Ring 4",
+      "All rings stick tightly without gaps"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "Bottom of Ring 1 (S) meets Top of Ring 2 (S): identical S-S poles repel, levitating Ring 1 above Ring 2."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Science",
+    "chapter": "Chapter 10: Fun with Magnets",
+    "question": "Why is Soft Iron preferred over Hard Steel for making magnetic keepers and cores of electromagnets?",
+    "options": [
+      "Soft iron has high magnetic permeability and low retentivity, magnetizing and demagnetizing instantly without retaining permanent residual magnetism",
+      "Because soft iron is cheaper than wood",
+      "Because soft iron is transparent",
+      "Because steel cannot be magnetized"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "Soft iron possesses low coercive force and narrow hysteresis loop, ideal for temporary magnetic coupling."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Science",
+    "chapter": "Chapter 10: Fun with Magnets",
+    "question": "What is an alloy made of Aluminium, Nickel, and Cobalt widely used to manufacture ultra-strong permanent industrial magnets called?",
+    "options": [
+      "Alnico (Al-Ni-Co)",
+      "Brass",
+      "Bronze",
+      "Solder"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "Alnico ferromagnetic alloys combine high coercivity and temperature stability for permanent magnets."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Science",
+    "chapter": "Chapter 10: Fun with Magnets",
+    "question": "A compass is placed near an unknown hidden box. The compass needle deflects wildly away when brought near one corner of the box and deflects in reverse at the other corner. What is inside the box?",
+    "options": [
+      "A permanent magnet (the deflection reversals reflect the presence of North and South dipolar poles)",
+      "A piece of gold jewelry",
+      "A bottle of pure water",
+      "An empty wooden block"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "Bipolar deflection matching inverse field directions proves an active magnetic dipole source inside the enclosure."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Science",
+    "chapter": "Chapter 10: Fun with Magnets",
+    "question": "What protective geomagnetic structure shields Earth's biosphere from deadly ionizing solar wind and cosmic radiation?",
+    "options": [
+      "Earth's Magnetosphere (Van Allen radiation belts)",
+      "The Ozone layer only",
+      "The Troposphere",
+      "Ocean tides"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "The geomagnetic magnetosphere deflects charged interplanetary solar wind plasma around Earth, shielding life."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Mathematics",
+    "chapter": "Chapter 10: Mensuration",
+    "question": "The total distance around the closed boundary of a 2-dimensional plane figure is called its:",
+    "options": [
+      "Perimeter",
+      "Area",
+      "Volume",
+      "Diagonal"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "Perimeter is the linear continuous boundary measure of a closed planar shape (sum of all outer sides)."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Mathematics",
+    "chapter": "Chapter 10: Mensuration",
+    "question": "What is the standard formula to calculate the Perimeter of a Rectangle with length 'l' and breadth 'b'?",
+    "options": [
+      "Perimeter = 2 × (length + breadth)",
+      "Perimeter = length × breadth",
+      "Perimeter = 4 × side",
+      "Perimeter = length + breadth"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "Perimeter of Rectangle = 2(l + b)."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Mathematics",
+    "chapter": "Chapter 10: Mensuration",
+    "question": "What is the standard formula to calculate the Perimeter of a Square of side length 's'?",
+    "options": [
+      "Perimeter = 4 × side (4s)",
+      "Perimeter = side × side (s²)",
+      "Perimeter = 2 × side",
+      "Perimeter = side / 4"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "A square has 4 congruent sides; Perimeter = 4 × s."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Mathematics",
+    "chapter": "Chapter 10: Mensuration",
+    "question": "What is the Perimeter of an Equilateral Triangle with side length 'a'?",
+    "options": [
+      "Perimeter = 3 × side (3a)",
+      "Perimeter = side × side",
+      "Perimeter = 2 × side",
+      "Perimeter = 4 × side"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "An equilateral triangle has 3 equal sides; Perimeter = 3 × side."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Mathematics",
+    "chapter": "Chapter 10: Mensuration",
+    "question": "Find the perimeter of a rectangle whose length is 15 cm and breadth is 10 cm:",
+    "options": [
+      "50 cm (2 × (15 + 10) = 2 × 25 = 50 cm)",
+      "150 cm",
+      "25 cm",
+      "100 cm"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "P = 2(l + b) = 2(15 + 10) = 2 × 25 = 50 cm."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Mathematics",
+    "chapter": "Chapter 10: Mensuration",
+    "question": "Find the perimeter of a square park whose side is 25 metres:",
+    "options": [
+      "100 metres (4 × 25 = 100 m)",
+      "625 metres",
+      "50 metres",
+      "125 metres"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "P = 4 × s = 4 × 25 = 100 m."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Mathematics",
+    "chapter": "Chapter 10: Mensuration",
+    "question": "The amount of 2-dimensional surface enclosed inside the boundary of a closed plane figure is called its:",
+    "options": [
+      "Area",
+      "Perimeter",
+      "Volume",
+      "Circumference"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "Area quantifies the 2D surface region enclosed within boundary limits, measured in square units (cm², m²)."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Mathematics",
+    "chapter": "Chapter 10: Mensuration",
+    "question": "What is the standard formula to calculate the Area of a Rectangle?",
+    "options": [
+      "Area = length × breadth (l × b)",
+      "Area = 2 × (length + breadth)",
+      "Area = side × side",
+      "Area = (length + breadth) / 2"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "Area of Rectangle = length × breadth."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Mathematics",
+    "chapter": "Chapter 10: Mensuration",
+    "question": "What is the standard formula to calculate the Area of a Square?",
+    "options": [
+      "Area = side × side (side²)",
+      "Area = 4 × side",
+      "Area = 2 × side",
+      "Area = side / 2"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "Area of Square = side × side = s²."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Mathematics",
+    "chapter": "Chapter 10: Mensuration",
+    "question": "Find the area of a rectangular carpet with length 8 m and breadth 5 m:",
+    "options": [
+      "40 sq m (8 × 5 = 40 m²)",
+      "26 sq m",
+      "13 sq m",
+      "80 sq m"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "Area = l × b = 8 m × 5 m = 40 m²."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Mathematics",
+    "chapter": "Chapter 10: Mensuration",
+    "question": "Find the area of a square tile with side 12 cm:",
+    "options": [
+      "144 sq cm (12 × 12 = 144 cm²)",
+      "48 sq cm",
+      "24 sq cm",
+      "96 sq cm"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "Area = side² = 12 × 12 = 144 cm²."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Mathematics",
+    "chapter": "Chapter 10: Mensuration",
+    "question": "What is the Perimeter of a Regular Pentagon (a 5-sided polygon with all equal sides) of side length 's'?",
+    "options": [
+      "Perimeter = 5 × side (5s)",
+      "Perimeter = 6 × side",
+      "Perimeter = 4 × side",
+      "Perimeter = side⁵"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "A regular pentagon has 5 congruent sides; Perimeter = 5 × s."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Mathematics",
+    "chapter": "Chapter 10: Mensuration",
+    "question": "A piece of wire of length 36 cm is bent to form a Square. What will be the length of each side of the square?",
+    "options": [
+      "9 cm (36 ÷ 4 = 9 cm)",
+      "6 cm",
+      "12 cm",
+      "18 cm"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "Perimeter = 4 × s = 36 cm ⇒ s = 36 / 4 = 9 cm."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Mathematics",
+    "chapter": "Chapter 10: Mensuration",
+    "question": "If the same 36 cm wire is bent to form an Equilateral Triangle, what will be the length of each side?",
+    "options": [
+      "12 cm (36 ÷ 3 = 12 cm)",
+      "9 cm",
+      "6 cm",
+      "18 cm"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "Perimeter = 3 × s = 36 cm ⇒ s = 36 / 3 = 12 cm."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Mathematics",
+    "chapter": "Chapter 10: Mensuration",
+    "question": "If the same 36 cm wire is bent to form a Regular Hexagon (6 equal sides), what will be the length of each side?",
+    "options": [
+      "6 cm (36 ÷ 6 = 6 cm)",
+      "4 cm",
+      "9 cm",
+      "8 cm"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "Perimeter = 6 × s = 36 cm ⇒ s = 36 / 6 = 6 cm."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Mathematics",
+    "chapter": "Chapter 10: Mensuration",
+    "question": "A farmer wants to fence his rectangular field of length 240 m and breadth 160 m with 4 rows of barbed wire. What is the total length of wire required?",
+    "options": [
+      "3,200 metres (Perimeter = 2 × (240 + 160) = 800 m ; Wire = 800 × 4 = 3,200 m)",
+      "800 metres",
+      "1,600 metres",
+      "2,400 metres"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "One round = 2(240 + 160) = 800 m. For 4 rounds = 800 × 4 = 3,200 m."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Mathematics",
+    "chapter": "Chapter 10: Mensuration",
+    "question": "Find the cost of fencing a square park of side 175 m at the rate of ₹20 per metre:",
+    "options": [
+      "₹14,000 (Perimeter = 4 × 175 = 700 m ; Cost = 700 × ₹20 = ₹14,000)",
+      "₹7,000",
+      "₹3,500",
+      "₹28,000"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "Perimeter = 4 × 175 = 700 m. Cost = 700 × ₹20 = ₹14,000."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Mathematics",
+    "chapter": "Chapter 10: Mensuration",
+    "question": "The area of a rectangular garden 50 m long is 300 sq m. Find the breadth of the garden:",
+    "options": [
+      "6 metres (Breadth = Area / Length = 300 / 50 = 6 m)",
+      "10 metres",
+      "15 metres",
+      "8 metres"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "Breadth = Area ÷ Length = 300 ÷ 50 = 6 m."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Mathematics",
+    "chapter": "Chapter 10: Mensuration",
+    "question": "A floor is 5 m long and 4 m wide. A square carpet of side 3 m is laid on the floor. Find the area of the floor that is NOT carpeted:",
+    "options": [
+      "11 sq m (Floor Area = 5 × 4 = 20 m² ; Carpet Area = 3 × 3 = 9 m² ; Uncarpeted = 20 - 9 = 11 m²)",
+      "9 sq m",
+      "20 sq m",
+      "15 sq m"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "Total floor = 20 m²; Carpeted = 9 m²; Uncarpeted = 20 - 9 = 11 m²."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Mathematics",
+    "chapter": "Chapter 10: Mensuration",
+    "question": "How many square tiles of side 10 cm will be needed to pave a rectangular bathroom floor of size 2 m by 1.5 m?",
+    "options": [
+      "300 tiles (Floor = 200 cm × 150 cm = 30,000 cm² ; Tile = 10 × 10 = 100 cm² ; Tiles = 30,000 / 100 = 300)",
+      "30 tiles",
+      "150 tiles",
+      "3,000 tiles"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "Floor = 200 × 150 = 30,000 cm². Tile = 100 cm². Number of tiles = 30,000 ÷ 100 = 300 tiles."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Mathematics",
+    "chapter": "Chapter 10: Mensuration",
+    "question": "Find the perimeter of a regular Octagon (8 equal sides) having side length 4.5 cm:",
+    "options": [
+      "36 cm (8 × 4.5 = 36 cm)",
+      "32 cm",
+      "40 cm",
+      "28 cm"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "Perimeter = 8 × 4.5 = 36 cm."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Mathematics",
+    "chapter": "Chapter 10: Mensuration",
+    "question": "Two sides of a triangle are 12 cm and 14 cm. The perimeter of the triangle is 36 cm. What is the length of the third side?",
+    "options": [
+      "10 cm (Third side = 36 - (12 + 14) = 36 - 26 = 10 cm)",
+      "12 cm",
+      "8 cm",
+      "11 cm"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "Side 3 = Perimeter - (Side 1 + Side 2) = 36 - 26 = 10 cm."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Mathematics",
+    "chapter": "Chapter 10: Mensuration",
+    "question": "Find the cost of leveling a rectangular playground of dimensions 70 m by 50 m at the rate of ₹5 per square metre:",
+    "options": [
+      "₹17,500 (Area = 70 × 50 = 3,500 m² ; Cost = 3,500 × 5 = ₹17,500)",
+      "₹12,000",
+      "₹35,000",
+      "₹15,000"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "Area = 70 × 50 = 3,500 m². Cost = 3,500 × 5 = ₹17,500."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Mathematics",
+    "chapter": "Chapter 10: Mensuration",
+    "question": "Sweety runs around a square park of side 75 m. Bulbul runs around a rectangular park of length 60 m and breadth 45 m. Who covers LESS distance and by how much?",
+    "options": [
+      "Bulbul covers less distance by 90 metres (Sweety = 4 × 75 = 300 m ; Bulbul = 2 × (60 + 45) = 210 m ; Difference = 300 - 210 = 90 m)",
+      "Sweety covers less distance by 90 m",
+      "Both cover exactly the same distance",
+      "Bulbul covers less distance by 50 m"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "Sweety perimeter = 300 m; Bulbul perimeter = 210 m. Bulbul covers 90 m less."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Mathematics",
+    "chapter": "Chapter 10: Mensuration",
+    "question": "How is the approximate area of an irregular closed shape estimated using standard 1 cm × 1 cm squared grid paper?",
+    "options": [
+      "Count 1 sq unit for fully covered squares + ignore squares less than half covered + count 1 sq unit for squares more than half covered + count ½ sq unit for exactly half covered squares",
+      "Only count full squares and throw away everything else",
+      "Multiply width by height directly",
+      "Weigh the paper on a balance"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "Standard grid approximation: full squares = 1, >half squares = 1, =half squares = 0.5, <half squares = 0."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Mathematics",
+    "chapter": "Chapter 10: Mensuration",
+    "question": "What happens to the AREA of a square if its side length is DOUBLED (multiplied by 2)?",
+    "options": [
+      "The area becomes 4 TIMES the original area ((2s)² = 4s²)",
+      "The area doubles (2 times)",
+      "The area triples (3 times)",
+      "The area remains unchanged"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "A_new = (2s)² = 4s² (area quadruples / 4 times)."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Mathematics",
+    "chapter": "Chapter 10: Mensuration",
+    "question": "What happens to the PERIMETER of a square if its side length is DOUBLED?",
+    "options": [
+      "The perimeter is DOUBLED (2 times: 4 × (2s) = 2 × (4s))",
+      "The perimeter becomes 4 times",
+      "The perimeter remains the same",
+      "The perimeter halves"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "P_new = 4(2s) = 2(4s) = 2 × P_old (doubles)."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Mathematics",
+    "chapter": "Chapter 10: Mensuration",
+    "question": "Five square flower beds each of side 1 m are dug on a piece of rectangular land 5 m long and 4 m wide. What is the remaining area of the land?",
+    "options": [
+      "15 sq m (Total Land = 5 × 4 = 20 m² ; Beds = 5 × (1 × 1) = 5 m² ; Remaining = 20 - 5 = 15 m²)",
+      "10 sq m",
+      "19 sq m",
+      "16 sq m"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "Total area = 20 m²; 5 beds = 5 m²; Remaining = 20 - 5 = 15 m²."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Mathematics",
+    "chapter": "Chapter 10: Mensuration",
+    "question": "Read the statements:\nAssertion (A): Among all rectangles having the same fixed perimeter (e.g. 40 cm), a SQUARE always encloses the MAXIMUM area.\nReason (R): For a constant sum of sides (l + b = constant), the product (l × b) reaches its absolute mathematical maximum when l = b (equilateral square condition).\nChoose the correct option:",
+    "options": [
+      "Both (A) and (R) are true, and (R) is the correct explanation of (A).",
+      "Both (A) and (R) are true, but (R) is NOT the correct explanation of (A).",
+      "(A) is true, but (R) is false.",
+      "(A) is false, but (R) is true."
+    ],
+    "correctAnswer": 0,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "Isoperimetric theorem for quadrilaterals: the square maximizes area for a fixed perimeter."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Mathematics",
+    "chapter": "Chapter 10: Mensuration",
+    "question": "Spot the IMPOSTER in the following polygon perimeters where each side length s = 6 cm:\nGroup: [Square (P = 24 cm), Equilateral Triangle (P = 18 cm), Regular Hexagon (P = 36 cm), Regular Pentagon (P = 35 cm)]",
+    "options": [
+      "Square (P = 24 cm)",
+      "Equilateral Triangle (P = 18 cm)",
+      "Regular Hexagon (P = 36 cm)",
+      "Regular Pentagon (P = 35 cm)"
+    ],
+    "correctAnswer": 3,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "Regular Pentagon has 5 sides: P = 5 × 6 = 30 cm, NOT 35 cm."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Mathematics",
+    "chapter": "Chapter 10: Mensuration",
+    "question": "A rectangular hall of length 30 m and breadth 20 m is surrounded on all outer sides by a 2.5 m wide verandah. What is the total AREA of the verandah path alone?",
+    "options": [
+      "275 sq m (Outer length = 35 m, Outer breadth = 25 m ; Outer Area = 35 × 25 = 875 m² ; Inner Area = 30 × 20 = 600 m² ; Path Area = 875 - 600 = 275 m²)",
+      "250 sq m",
+      "300 sq m",
+      "150 sq m"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "Outer dims = (30 + 5) × (20 + 5) = 35 × 25 = 875 m²; Inner = 600 m²; Path = 875 - 600 = 275 m²."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Mathematics",
+    "chapter": "Chapter 10: Mensuration",
+    "question": "Match Column I (Geometric Figures) with Column II (Perimeter / Area Formulas):\n(a) Square Area              -> (i) 2(l + b)\n(b) Rectangle Perimeter      -> (ii) s²\n(c) Equilateral Triangle P   -> (iii) l × b\n(d) Rectangle Area           -> (iv) 3s",
+    "options": [
+      "a-(ii), b-(i), c-(iv), d-(iii)",
+      "a-(i), b-(ii), c-(iii), d-(iv)",
+      "a-(iv), b-(iii), c-(ii), d-(i)",
+      "a-(iii), b-(iv), c-(i), d-(ii)"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "Square Area = s²; Rectangle P = 2(l+b); Triangle P = 3s; Rectangle Area = l×b."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Mathematics",
+    "chapter": "Chapter 10: Mensuration",
+    "question": "Read the statements regarding geometric measures:\nStatement 1: Two shapes can have the exact same perimeter but completely different areas.\nStatement 2: Two shapes can have the exact same area but completely different perimeters.\nStatement 3: Perimeter is always measured in square units (cm²).\nWhich statements are TRUE?",
+    "options": [
+      "Statements 1 and 2 only",
+      "Statements 2 and 3 only",
+      "Statements 1 and 3 only",
+      "All Statements 1, 2, and 3"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "Statement 3 is false because perimeter is a linear 1D length measured in linear units (cm, m), while area is measured in cm². Statements 1 and 2 are true."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Mathematics",
+    "chapter": "Chapter 10: Mensuration",
+    "question": "A wire in the shape of a Rectangle of dimensions 18 cm by 10 cm is cut, straightened, and rebent into a Square. What will be the area of this new Square?",
+    "options": [
+      "196 sq cm (Perimeter = 2(18 + 10) = 56 cm ; Square side = 56/4 = 14 cm ; Area = 14 × 14 = 196 cm²)",
+      "180 sq cm",
+      "144 sq cm",
+      "256 sq cm"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "Perimeter = 2(18 + 10) = 56 cm. Square side = 56/4 = 14 cm. Square area = 14² = 196 cm²."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Mathematics",
+    "chapter": "Chapter 10: Mensuration",
+    "question": "Find the total perimeter of an L-shaped polygon with side lengths: bottom = 10 cm, left vertical = 8 cm, top horizontal = 4 cm, inner vertical = 5 cm, inner horizontal = 6 cm, right vertical = 3 cm:",
+    "options": [
+      "36 cm (10 + 8 + 4 + 5 + 6 + 3 = 36 cm)",
+      "32 cm",
+      "40 cm",
+      "28 cm"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "Summing all 6 contiguous boundary edges: 10 + 8 + 4 + 5 + 6 + 3 = 36 cm."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Mathematics",
+    "chapter": "Chapter 10: Mensuration",
+    "question": "A rectangular lawn of length 60 m and breadth 40 m has two crossroads each 2 m wide running at right angles through its center parallel to its sides. What is the area of the crossroads?",
+    "options": [
+      "196 sq m (Road 1 = 60 × 2 = 120 m² ; Road 2 = 40 × 2 = 80 m² ; Center overlap = 2 × 2 = 4 m² ; Net Area = 120 + 80 - 4 = 196 m²)",
+      "200 sq m",
+      "192 sq m",
+      "204 sq m"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "Area of crossroads = (60 × 2) + (40 × 2) - (2 × 2) = 120 + 80 - 4 = 196 m²."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Mathematics",
+    "chapter": "Chapter 10: Mensuration",
+    "question": "If 1 hectare = 10,000 square metres, how many hectares is a rectangular agricultural farm of length 500 m and breadth 200 m?",
+    "options": [
+      "10 hectares (Area = 500 × 200 = 100,000 m² ; Hectares = 100,000 / 10,000 = 10)",
+      "5 hectares",
+      "20 hectares",
+      "100 hectares"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "Area = 500 × 200 = 100,000 m² ÷ 10,000 m²/ha = 10 hectares."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Mathematics",
+    "chapter": "Chapter 10: Mensuration",
+    "question": "A square park of side 60 m has a walking path of uniform width 3 m constructed INSIDE along its boundary. What is the area of this internal path?",
+    "options": [
+      "684 sq m (Outer Area = 60 × 60 = 3600 m² ; Inner side = 60 - 6 = 54 m ; Inner Area = 54 × 54 = 2916 m² ; Path = 3600 - 2916 = 684 m²)",
+      "720 sq m",
+      "600 sq m",
+      "648 sq m"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "Outer = 3600 m²; Inner = (60-6)² = 54² = 2916 m²; Path = 3600 - 2916 = 684 m²."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Mathematics",
+    "chapter": "Chapter 10: Mensuration",
+    "question": "If the length of a rectangle is increased by 50% and its breadth is decreased by 20%, what is the percentage change in its area?",
+    "options": [
+      "Increases by 20% (A_new = (1.5 l) × (0.8 b) = 1.20 (l × b) -> 20% increase)",
+      "Increases by 30%",
+      "Decreases by 10%",
+      "Remains unchanged"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "New Area = 1.50 × 0.80 = 1.20 × Original Area (+20% increase)."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Mathematics",
+    "chapter": "Chapter 10: Mensuration",
+    "question": "Why is the study of Mensuration (perimeter and area) essential in architectural engineering and real-world civil planning?",
+    "options": [
+      "It enables precise material quantification, budget estimation for construction, land cadastral mapping, and cost calculation for tiling, painting, and fencing",
+      "Because numbers make buildings stronger by magic",
+      "To prevent land from moving",
+      "Because rulers only measure area"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "Mensuration provides foundational geometric formulas for structural material estimation, cost budgeting, and land surveying."
+  },
+  {
+    "classLevel": 6,
+    "subject": "English",
+    "chapter": "Chapter 10: The Banyan Tree",
+    "question": "Who is the world-renowned Indian author who wrote the autobiographical nature story 'The Banyan Tree'?",
+    "options": [
+      "Ruskin Bond",
+      "R.K. Narayan",
+      "Mulk Raj Anand",
+      "Vikram Seth"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "Ruskin Bond penned 'The Banyan Tree', describing his childhood natural explorations in his grandfather's garden in Dehradun."
+  },
+  {
+    "classLevel": 6,
+    "subject": "English",
+    "chapter": "Chapter 10: The Banyan Tree",
+    "question": "Why did the young boy (narrator) claim that the magnificent old banyan tree belonged exclusively to HIM rather than his grandfather?",
+    "options": [
+      "Because his sixty-five-year-old grandfather was too old to climb trees anymore",
+      "Because the boy bought the tree with pocket money",
+      "Because the tree was planted by the boy",
+      "Because grandfather hated trees"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "Grandfather at sixty-five had lost the agility to climb, making the sprawling banyan the young boy's private leafy kingdom."
+  },
+  {
+    "classLevel": 6,
+    "subject": "English",
+    "chapter": "Chapter 10: The Banyan Tree",
+    "question": "Which small creature in the banyan tree became the narrator's first bold friend, even eating pieces of cake and biscuits out of his hand?",
+    "options": [
+      "A small grey Squirrel",
+      "A green parrot",
+      "A white rabbit",
+      "A chameleon"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "A young grey squirrel shed its initial fear when it found the boy carried no catapult, soon eating crumbs from his hand."
+  },
+  {
+    "classLevel": 6,
+    "subject": "English",
+    "chapter": "Chapter 10: The Banyan Tree",
+    "question": "What did the boy build halfway up the banyan tree so he could spend hot afternoons reading adventure books?",
+    "options": [
+      "A crude wooden platform with cushions",
+      "A stone castle",
+      "A glass house",
+      "An iron cage"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "The boy built a makeshift treehouse platform among the leafy branches, reading 'Treasure Island' and 'Robinson Crusoe'."
+  },
+  {
+    "classLevel": 6,
+    "subject": "English",
+    "chapter": "Chapter 10: The Banyan Tree",
+    "question": "What dramatic classic battle of nature did the boy witness from his banyan tree platform on a drowsy summer afternoon?",
+    "options": [
+      "A deadly fight between a huge black Cobra and a nimble grey Mongoose",
+      "A fight between a tiger and an elephant",
+      "A race between two horses",
+      "A battle between eagles"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "The boy witnessed the primordial duel between a 6-foot venomous black cobra and an agile 3-foot mongoose."
+  },
+  {
+    "classLevel": 6,
+    "subject": "English",
+    "chapter": "Chapter 10: The Banyan Tree",
+    "question": "What two bird spectators perched on a nearby cactus bush to watch the cobra-mongoose fight?",
+    "options": [
+      "A Crow and a Myna",
+      "An Eagle and a Hawk",
+      "A Parrot and a Pigeon",
+      "A Peacock and a Sparrow"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "A jungle crow and a myna sat on a prickly cactus bush, acting as eager onlookers and attempting to dive into the fight."
+  },
+  {
+    "classLevel": 6,
+    "subject": "English",
+    "chapter": "Chapter 10: The Banyan Tree",
+    "question": "What happened to the foolish Crow when it persistently dived at the cobra during the battle?",
+    "options": [
+      "The cobra whipped its head back with lightning speed and struck the crow with its snout, flinging it dead onto the garden path",
+      "The crow flew away with the cobra",
+      "The crow won the fight",
+      "The myna saved the crow"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "On its third reckless dive, the cobra countered with a lightning strike, fatally colliding with the crow."
+  },
+  {
+    "classLevel": 6,
+    "subject": "English",
+    "chapter": "Chapter 10: The Banyan Tree",
+    "question": "Who emerged VICTORIOUS in the epic duel beneath the banyan tree?",
+    "options": [
+      "The Mongoose (which dragged the defeated cobra into the bushes)",
+      "The Cobra",
+      "The Myna",
+      "The Crow"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "The mongoose exhausted the cobra with lightning feints, bit through its spine, and dragged its carcass into the bushes."
+  },
+  {
+    "classLevel": 6,
+    "subject": "English",
+    "chapter": "Chapter 10: The Banyan Tree",
+    "question": "In the supplementary story 'A Strange Wrestling Match', who was Vijay Singh?",
+    "options": [
+      "A famous, boastful wrestler who was unbeatable in the wrestling pit but had a fatal weakness for foolish bragging",
+      "A timid ghost in a well",
+      "A greedy shopkeeper",
+      "A learned school teacher"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "Vijay Singh was a hulking champion wrestler with massive muscles who foolishly boasted he wanted to wrestle a ghost."
+  },
+  {
+    "classLevel": 6,
+    "subject": "English",
+    "chapter": "Chapter 10: The Banyan Tree",
+    "question": "What was Vijay Singh's boastful claim that led him to travel to the Haunted Deserts?",
+    "options": [
+      "That he was not afraid of any ghost and wished to meet a real ghost to teach him a wrestling lesson",
+      "That he could lift a mountain",
+      "That he could run faster than a cheetah",
+      "That he could drink an entire river"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "In an unguarded moment of bravado, Vijay Singh declared his desire to meet and thrash a ghost in the Haunted Desert."
+  },
+  {
+    "classLevel": 6,
+    "subject": "English",
+    "chapter": "Chapter 10: The Banyan Tree",
+    "question": "What two seemingly bizarre gifts did the eccentric old woman in the village give Vijay Singh in a packet before his departure?",
+    "options": [
+      "A raw egg and a lump of sea salt",
+      "A gold coin and a sword",
+      "A torch and a blanket",
+      "A bottle of holy water and sweets"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "The old woman handed him a small bag containing an ordinary raw egg and a lump of rock salt."
+  },
+  {
+    "classLevel": 6,
+    "subject": "English",
+    "chapter": "Chapter 10: The Banyan Tree",
+    "question": "Who was Natwar in 'A Strange Wrestling Match'?",
+    "options": [
+      "The ghost who haunted the desert and tried to deceive and kill Vijay Singh",
+      "Vijay Singh's best friend",
+      "A camel driver",
+      "The king of the village"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "Natwar was the ghost of the Haunted Desert who lured travelers to their doom until he met Vijay Singh."
+  },
+  {
+    "classLevel": 6,
+    "subject": "English",
+    "chapter": "Chapter 10: The Banyan Tree",
+    "question": "How did Vijay Singh trick the ghost Natwar into believing that he possessed superhuman physical strength by squeezing a rock?",
+    "options": [
+      "Vijay Singh secretly slipped the raw egg into his palm alongside a rock, squeezed hard until yellow yolk oozed out, making the ghost think he crushed stone into liquid",
+      "He broke the rock with a hammer",
+      "He used magical spells",
+      "He threw the rock into the sky"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "Vijay Singh's sleight of hand substituted the egg; crushing it fooled the naive ghost into believing he squeezed liquid from rock."
+  },
+  {
+    "classLevel": 6,
+    "subject": "English",
+    "chapter": "Chapter 10: The Banyan Tree",
+    "question": "How did Vijay Singh trick the ghost a second time using the lump of salt?",
+    "options": [
+      "He handed the ghost another stone containing the salt lump, crushed the salt into fine powder in darkness, and made the ghost taste the salty stone dust",
+      "He threw salt into the ghost's eyes",
+      "He dissolved the ghost in salt water",
+      "He baked bread with salt"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "Vijay Singh pulverized the brittle rock salt lump in his grip, convincing the terrified ghost he had turned stone into salt powder."
+  },
+  {
+    "classLevel": 6,
+    "subject": "English",
+    "chapter": "Chapter 10: The Banyan Tree",
+    "question": "How did Vijay Singh outwit the ghost's nocturnal assassination attempt inside the ghost's cave?",
+    "options": [
+      "Vijay Singh slipped out of bed, placed a bolster/pillow under the blanket to resemble a sleeping body, and hid in the corner while the ghost struck the bed seven times with a stout club",
+      "He tied the ghost to a tree",
+      "He stayed awake with a sword",
+      "He set fire to the cave"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "Vijay Singh rolled a bolster under his blanket; the ghost battered the pillow with a club thinking he had killed the wrestler."
+  },
+  {
+    "classLevel": 6,
+    "subject": "English",
+    "chapter": "Chapter 10: The Banyan Tree",
+    "question": "What witty psychological remark did Vijay Singh make to the terrified ghost the next morning after the clubbing incident?",
+    "options": [
+      "He yawned casually and complained that some pesky insect had flapped its wings and tickled him during the night",
+      "He threatened to arrest the ghost",
+      "He asked for breakfast",
+      "He pretended to be dead"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "By dismissing seven crushing club blows as mere 'insect wing flaps', Vijay Singh utterly demoralized the terrified ghost."
+  },
+  {
+    "classLevel": 6,
+    "subject": "English",
+    "chapter": "Chapter 10: The Banyan Tree",
+    "question": "What was the final outcome of Vijay Singh's encounter with the ghost in the Haunted Desert?",
+    "options": [
+      "The terrified ghost fled the desert forever, leaving behind all his plundered wealth which Vijay Singh returned to the robbed villagers, and Vijay never boasted again",
+      "The ghost killed Vijay Singh",
+      "Vijay Singh became the new ghost",
+      "They became wrestling partners"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "The ghost abandoned the desert; Vijay Singh restored stolen treasures to rightful owners and renounced boastful pride."
+  },
+  {
+    "classLevel": 6,
+    "subject": "English",
+    "chapter": "Chapter 10: The Banyan Tree",
+    "question": "Why did the Myna fly away safely while the Crow died in 'The Banyan Tree'?",
+    "options": [
+      "The Myna learned from the crow's fatal mistake, wisely stayed perched on the cactus bush, and merely congratulated the victor with a shrill cry",
+      "Because the myna was faster than light",
+      "Because the cobra was afraid of mynas",
+      "Because the boy caught the myna"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "The myna exercised prudent caution, declining to intervene in a battle between lethal apex specialists."
+  },
+  {
+    "classLevel": 6,
+    "subject": "English",
+    "chapter": "Chapter 10: The Banyan Tree",
+    "question": "What special physiological defense does the Mongoose deploy during its combat with the cobra?",
+    "options": [
+      "Its thick bushy tail and bristled hair make it look twice as large and absorb grazing strikes, while its rapid footwork allows instant dodging",
+      "It shoots venom from its eyes",
+      "It burrows underground instantly",
+      "It plays dead"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "Bristling piloerection creates a defensive fur shield while maximizing optical intimidation."
+  },
+  {
+    "classLevel": 6,
+    "subject": "English",
+    "chapter": "Chapter 10: The Banyan Tree",
+    "question": "What does the word 'Catapult' (slingshot) refer to in Ruskin Bond's story?",
+    "options": [
+      "A Y-shaped wooden stick with rubber bands used by young boys to shoot stones at birds and small animals",
+      "A large ship",
+      "A fishing rod",
+      "A gardening shovel"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "A catapult is a handheld slingshot; the squirrel trusted the boy because he carried no hostile weapons."
+  },
+  {
+    "classLevel": 6,
+    "subject": "English",
+    "chapter": "Chapter 10: The Banyan Tree",
+    "question": "What white, miraculous creatures were discovered inside the nest in the banyan tree after the squirrel mated with a pet white rat?",
+    "options": [
+      "Three baby WHITE Squirrels (a rare biological marvel in grandfather's garden)",
+      "Three white bats",
+      "Three white snakes",
+      "Three white pigeons"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "In an astonishing cross-species hybrid episode, grandfather found three tiny albino white baby squirrels."
+  },
+  {
+    "classLevel": 6,
+    "subject": "English",
+    "chapter": "Chapter 10: The Banyan Tree",
+    "question": "What does the phrase 'to take the wind out of someone's sails' mean when Vijay Singh confronted the ghost?",
+    "options": [
+      "To suddenly destroy someone's confidence, pride, or advantage by doing or saying something unexpected",
+      "To stop a sailing ship",
+      "To blow a storm with one's breath",
+      "To run out of air"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "Vijay Singh's fearless assertiveness disarmed the ghost, deflating his supernatural intimidation."
+  },
+  {
+    "classLevel": 6,
+    "subject": "English",
+    "chapter": "Chapter 10: The Banyan Tree",
+    "question": "Why was the banyan tree described as 'older than the house, older than grandfather, as old as Dehra Dun itself'?",
+    "options": [
+      "To emphasize the immense majestic age, vast spreading root branches, and timeless ecological heritage of the tree",
+      "Because the tree was built of stone",
+      "Because grandfather built the tree",
+      "Because the city had only one tree"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "Bond captures the ancient, sprawling majesty of the giant Ficus benghalensis anchoring the valley's history."
+  },
+  {
+    "classLevel": 6,
+    "subject": "English",
+    "chapter": "Chapter 10: The Banyan Tree",
+    "question": "Who is the author of the entertaining folktale 'A Strange Wrestling Match'?",
+    "options": [
+      "Indira David (abridged Rajasthan folktale)",
+      "Ruskin Bond",
+      "Zai Whitaker",
+      "Premchand"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "Indira David adapted this humorous Rajasthani folktale celebrating wit over physical brawn."
+  },
+  {
+    "classLevel": 6,
+    "subject": "English",
+    "chapter": "Chapter 10: The Banyan Tree",
+    "question": "What classic folktale moral is demonstrated by Vijay Singh's victory over the supernatural ghost?",
+    "options": [
+      "Wit, presence of mind, and fearless intelligence can outmatch and conquer even terrifying, seemingly invincible opponents",
+      "Ghosts are very friendly",
+      "Wrestlers should never eat salt",
+      "Deserts are the best place to live"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "Sharp intellect, psychological fortitude, and quick wit triumph over brute force and supernatural fear."
+  },
+  {
+    "classLevel": 6,
+    "subject": "English",
+    "chapter": "Chapter 10: The Banyan Tree",
+    "question": "What does the word 'Grumble' mean when grandfather reacted to grandmother's remarks?",
+    "options": [
+      "To complain in a low, bad-tempered, muttering voice",
+      "To shout with joy",
+      "To sing a song",
+      "To laugh heartily"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "'To grumble' signifies expressing discontent through muttered, low-pitched complaints."
+  },
+  {
+    "classLevel": 6,
+    "subject": "English",
+    "chapter": "Chapter 10: The Banyan Tree",
+    "question": "Why did the cobra raise three of its six feet off the ground and spread its broad, spectacled hood?",
+    "options": [
+      "As an intimidating combat stance to hypnotize, terrify, and strike down the mongoose from an elevated angle",
+      "To look for food in the sky",
+      "To catch raindrops",
+      "To sleep"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "The elevated hood posture maximizes visual threat display and provides mechanical leverage for downward strikes."
+  },
+  {
+    "classLevel": 6,
+    "subject": "English",
+    "chapter": "Chapter 10: The Banyan Tree",
+    "question": "In 'The Banyan Tree', how did the boy feel while sitting quietly in the banyan tree during spring?",
+    "options": [
+      "He felt a profound, intimate kinship with nature, surrounded by chirping birds, buzzing bees, and red figs",
+      "He felt bored and lonely",
+      "He was terrified of falling",
+      "He wanted to chop down the tree"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "Bond captures the sublime romantic communion between a sensitive child observer and the vibrant natural world."
+  },
+  {
+    "classLevel": 6,
+    "subject": "English",
+    "chapter": "Chapter 10: The Banyan Tree",
+    "question": "Read the statements:\nAssertion (A): The duel between the cobra and the mongoose is characterized by Ruskin Bond as a high-stakes psychological and physical chess match of speed vs strike power.\nReason (R): The mongoose relies on relentless aerobic stamina, rapid feints, and dodging to exhaust the cobra's anaerobic glycogen reserves before delivering a lethal cervical strike.\nChoose the correct option:",
+    "options": [
+      "Both (A) and (R) are true, and (R) is the correct explanation of (A).",
+      "Both (A) and (R) are true, but (R) is NOT the correct explanation of (A).",
+      "(A) is true, but (R) is false.",
+      "(A) is false, but (R) is true."
+    ],
+    "correctAnswer": 0,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "Bond's narrative captures physiological reality: mammals utilize superior aerobic endurance against poikilothermic reptilian anaerobic strike bursts."
+  },
+  {
+    "classLevel": 6,
+    "subject": "English",
+    "chapter": "Chapter 10: The Banyan Tree",
+    "question": "Spot the IMPOSTER in the following group of characters/elements paired with their texts from Chapter 10:\nGroup: [Ruskin Bond - Narrator of Banyan Tree, Vijay Singh - Boastful wrestler, Natwar - Ghost of Haunted Desert, Makara - The Crocodile from Banyan Tree]",
+    "options": [
+      "Ruskin Bond - Narrator of Banyan Tree",
+      "Vijay Singh - Boastful wrestler",
+      "Natwar - Ghost of Haunted Desert",
+      "Makara - The Crocodile from Banyan Tree"
+    ],
+    "correctAnswer": 3,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "'Makara' is from CHAPTER 9 ('What Happened to the Reptiles'), NOT from Chapter 10 ('The Banyan Tree')."
+  },
+  {
+    "classLevel": 6,
+    "subject": "English",
+    "chapter": "Chapter 10: The Banyan Tree",
+    "question": "Analyze how Vijay Singh's boastfulness in the opening of the story represents a classic folkloric character arc:",
+    "options": [
+      "His hubristic flaw (vanity and bragging) leads him into mortal peril, which he survives through razor-sharp wit, emerging thoroughly humbled and wiser",
+      "He becomes a magical wizard",
+      "He loses his memory",
+      "He joins the ghosts in haunting deserts"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "The classic moral arc moves from hubristic vulnerability to intellectual realization and moral humility."
+  },
+  {
+    "classLevel": 6,
+    "subject": "English",
+    "chapter": "Chapter 10: The Banyan Tree",
+    "question": "Match Column I (Characters / Items) with Column II (Roles in Chapter 10):\n(a) Ruskin Bond    -> (i) Young boy observing nature from banyan tree platform\n(b) Grey Mongoose   -> (ii) Agile victor of the epic garden duel\n(c) Raw Egg & Salt  -> (iii) Improvised psychological props used to trick the ghost\n(d) Bolster / Pillow-> (iv) Decoy used under blanket to survive midnight clubbing",
+    "options": [
+      "a-(i), b-(ii), c-(iii), d-(iv)",
+      "a-(ii), b-(i), c-(iv), d-(iii)",
+      "a-(iv), b-(iii), c-(ii), d-(i)",
+      "a-(iii), b-(iv), c-(i), d-(ii)"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "Bond = narrator; Mongoose = victor; Egg/Salt = psychological props; Bolster = bed decoy."
+  },
+  {
+    "classLevel": 6,
+    "subject": "English",
+    "chapter": "Chapter 10: The Banyan Tree",
+    "question": "Read the statements:\nStatement 1: Ruskin Bond received the Sahitya Akademi Award in 1992 and the Padma Bhushan in 2014.\nStatement 2: The banyan tree has prop roots that grow downwards from branches into the soil, forming pillar-like secondary trunks.\nStatement 3: Vijay Singh was defeated in a wrestling ring by a ghost.\nWhich statements are TRUE?",
+    "options": [
+      "Statements 1 and 2 only",
+      "Statements 2 and 3 only",
+      "Statements 1 and 3 only",
+      "All Statements 1, 2, and 3"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "Statement 3 is false because Vijay Singh outwitted and routed the ghost completely. Statements 1 and 2 are true."
+  },
+  {
+    "classLevel": 6,
+    "subject": "English",
+    "chapter": "Chapter 10: The Banyan Tree",
+    "question": "Identify the figure of speech in Ruskin Bond's description:\n'The old banyan tree was a world in itself, teeming with life.'",
+    "options": [
+      "Metaphor (implicit comparison identifying the banyan tree directly as an entire self-contained universe/world)",
+      "Simile",
+      "Oxymoron",
+      "Alliteration"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "Direct figurative equation of the micro-ecosystem with a complete 'world' without 'like' or 'as' constitutes a Metaphor."
+  },
+  {
+    "classLevel": 6,
+    "subject": "English",
+    "chapter": "Chapter 10: The Banyan Tree",
+    "question": "What is the grammatical classification of the underlined participle in: 'The boy sat on the branch, *watching* the fierce duel.'?",
+    "options": [
+      "Present Participle functioning as a Participial Phrase modifying the subject 'The boy'",
+      "Gerund noun",
+      "Finite past verb",
+      "Preposition"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "'Watching' is a Present Participle forming an adverbial/adjectival participial phrase qualifying the subject."
+  },
+  {
+    "classLevel": 6,
+    "subject": "English",
+    "chapter": "Chapter 10: The Banyan Tree",
+    "question": "Why does Ruskin Bond describe the banyan tree as an 'unrivalled sanctuary' for bird and animal life in summer?",
+    "options": [
+      "Its massive dense canopy provided cool shade, abundant red fig fruits for birds (parrots, bulbuls, mynas), and sheltering hollows for squirrels and insects",
+      "Because humans were banned from entering",
+      "Because it had iron gates",
+      "Because it grew in a zoo"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "Keystone ecological status: Ficus benghalensis provides perennial shade, thermal microclimates, and massive fig fruit yields."
+  },
+  {
+    "classLevel": 6,
+    "subject": "English",
+    "chapter": "Chapter 10: The Banyan Tree",
+    "question": "What psychological technique did Vijay Singh employ when he told the ghost: 'You are no ghost, but an ordinary imposter!'?",
+    "options": [
+      "Reverse psychological intimidation to shatter the ghost's belief in its own terrifying supernatural supremacy",
+      "He wanted to become friends",
+      "He was reciting a poem",
+      "He forgot who he was talking to"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "Cognitive subversion: aggressively stripping the adversary of supernatural mystique destabilized the ghost's confidence."
+  },
+  {
+    "classLevel": 6,
+    "subject": "English",
+    "chapter": "Chapter 10: The Banyan Tree",
+    "question": "What is the meaning of the archaic/idiomatic term 'haunted' in folklore?",
+    "options": [
+      "A location persistently visited or inhabited by spectral ghosts, spirits, or lingering dread",
+      "A place with high trees",
+      "A dry water well",
+      "A noisy marketplace"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "'Haunted' denotes supernatural occupancy by phantoms and spectral disturbances."
+  },
+  {
+    "classLevel": 6,
+    "subject": "English",
+    "chapter": "Chapter 10: The Banyan Tree",
+    "question": "Why did the grandfather refuse to allow the narrator to kill or disturb the mongoose in the garden?",
+    "options": [
+      "Grandfather recognized that mongooses are natural, invaluable biological protectors that keep residential gardens free from lethal venomous snakes",
+      "Because the mongoose was made of gold",
+      "Because grandfather was afraid of the mongoose",
+      "Because the mongoose was a pet cat"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "Ecological balance: mongooses provide indispensable non-chemical apex protection against lethal viperids and elapids."
+  },
+  {
+    "classLevel": 6,
+    "subject": "English",
+    "chapter": "Chapter 10: The Banyan Tree",
+    "question": "What overarching humanist and ecological worldview defines the conclusion of the NCERT Class 6 English curriculum?",
+    "options": [
+      "A deep reverence for the delicate web of nature, the power of wit and empathy over brute violence, and harmonious coexistence with all living beings",
+      "The supremacy of technology over forests",
+      "The need to eliminate all wild animals",
+      "The belief that only city life is valuable"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "The curriculum culminates in ecological mindfulness, reverence for nature's biodiversity, and emotional maturity."
+  },
+  {
+    "classLevel": 6,
+    "subject": "GK",
+    "chapter": "Chapter 10: World Geography, Continents, Oceans & Global Wonders",
+    "question": "Which is the LARGEST continent in the world by both land area and human population?",
+    "options": [
+      "Asia (covers 30% of Earth's land area and ~60% of world population)",
+      "Africa",
+      "North America",
+      "Europe"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "Asia spans 44.58 million km² and hosts over 4.7 billion people, making it the largest continent on Earth."
+  },
+  {
+    "classLevel": 6,
+    "subject": "GK",
+    "chapter": "Chapter 10: World Geography, Continents, Oceans & Global Wonders",
+    "question": "Which is the SMALLEST continent in the world by land area, often called an 'Island Continent'?",
+    "options": [
+      "Australia (Oceania)",
+      "Europe",
+      "Antarctica",
+      "South America"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "Australia is the smallest continent, completely surrounded by the Indian and Pacific Oceans."
+  },
+  {
+    "classLevel": 6,
+    "subject": "GK",
+    "chapter": "Chapter 10: World Geography, Continents, Oceans & Global Wonders",
+    "question": "Which is the LARGEST and DEEPEST ocean on Earth, covering more than one-third of the globe?",
+    "options": [
+      "Pacific Ocean",
+      "Atlantic Ocean",
+      "Indian Ocean",
+      "Arctic Ocean"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "The Pacific Ocean covers 165.25 million km², larger than all Earth's landmasses combined."
+  },
+  {
+    "classLevel": 6,
+    "subject": "GK",
+    "chapter": "Chapter 10: World Geography, Continents, Oceans & Global Wonders",
+    "question": "What is the DEEPEST point on Earth, located in the western Pacific Ocean near Guam (reaching ~11,034 metres depth)?",
+    "options": [
+      "Mariana Trench (Challenger Deep)",
+      "Java Trench",
+      "Puerto Rico Trench",
+      "Sunda Trench"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "Challenger Deep in the Mariana Trench plunges nearly 11 km deep, where pressure exceeds 1,000 atmospheres."
+  },
+  {
+    "classLevel": 6,
+    "subject": "GK",
+    "chapter": "Chapter 10: World Geography, Continents, Oceans & Global Wonders",
+    "question": "What is the HIGHEST mountain peak in the world above sea level, located in the Himalayas on the border of Nepal and China (Tibet)?",
+    "options": [
+      "Mount Everest (Sagarmatha / Chomolungma - 8,848.86 metres)",
+      "K2 (Mount Godwin-Austen)",
+      "Kangchenjunga",
+      "Lhotse"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "Mount Everest reaches 8,848.86 m, first summitted by Edmund Hillary and Tenzing Norgay on 29 May 1953."
+  },
+  {
+    "classLevel": 6,
+    "subject": "GK",
+    "chapter": "Chapter 10: World Geography, Continents, Oceans & Global Wonders",
+    "question": "What is the LONGEST river in the world, flowing through northeastern Africa into the Mediterranean Sea?",
+    "options": [
+      "River Nile (~6,650 km)",
+      "Amazon River",
+      "Yangtze River",
+      "Mississippi River"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "The River Nile stretches 6,650 km across 11 African nations, historic cradle of ancient Egyptian civilization."
+  },
+  {
+    "classLevel": 6,
+    "subject": "GK",
+    "chapter": "Chapter 10: World Geography, Continents, Oceans & Global Wonders",
+    "question": "What is the LARGEST river in the world by water discharge volume and river basin area, flowing through South America?",
+    "options": [
+      "Amazon River",
+      "River Nile",
+      "Congo River",
+      "Ganges River"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "The Amazon discharges ~209,000 m³/s of freshwater into the Atlantic, draining the world's largest rainforest basin."
+  },
+  {
+    "classLevel": 6,
+    "subject": "GK",
+    "chapter": "Chapter 10: World Geography, Continents, Oceans & Global Wonders",
+    "question": "What is the LARGEST HOT DESERT in the world, covering over 9 million square kilometres across North Africa?",
+    "options": [
+      "Sahara Desert",
+      "Gobi Desert",
+      "Kalahari Desert",
+      "Thar Desert"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "The Sahara spans 9.2 million km² across 11 North African countries, roughly the size of the entire United States."
+  },
+  {
+    "classLevel": 6,
+    "subject": "GK",
+    "chapter": "Chapter 10: World Geography, Continents, Oceans & Global Wonders",
+    "question": "Which ice-covered continent surrounding the South Pole is the coldest, driest, and windiest continent on Earth (known as the 'White Continent')?",
+    "options": [
+      "Antarctica",
+      "Arctic",
+      "Greenland",
+      "Europe"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "Antarctica is a polar desert containing 90% of world ice and 70% of global freshwater reserves."
+  },
+  {
+    "classLevel": 6,
+    "subject": "GK",
+    "chapter": "Chapter 10: World Geography, Continents, Oceans & Global Wonders",
+    "question": "What is the only Ocean in the world named after a specific country?",
+    "options": [
+      "Indian Ocean (named after India / Bharat)",
+      "Pacific Ocean",
+      "Atlantic Ocean",
+      "Arctic Ocean"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "The Indian Ocean is the 3rd largest ocean, named after India's historic centrality along maritime spice routes."
+  },
+  {
+    "classLevel": 6,
+    "subject": "GK",
+    "chapter": "Chapter 10: World Geography, Continents, Oceans & Global Wonders",
+    "question": "What is the LONGEST continental mountain range in the world, running along the western coast of South America?",
+    "options": [
+      "The Andes Mountain Range (~7,000 km)",
+      "The Himalayas",
+      "The Rocky Mountains",
+      "The Alps"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "The Andes span ~7,000 km across 7 South American countries from Venezuela to Chile."
+  },
+  {
+    "classLevel": 6,
+    "subject": "GK",
+    "chapter": "Chapter 10: World Geography, Continents, Oceans & Global Wonders",
+    "question": "Which iconic white marble mausoleum built in Agra, India by Mughal Emperor Shah Jahan is recognized as one of the New 7 Wonders of the World?",
+    "options": [
+      "Taj Mahal",
+      "Qutub Minar",
+      "Red Fort",
+      "Hawa Mahal"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "Completed in 1648 on the Yamuna banks, the Taj Mahal is a UNESCO World Heritage site and New 7 Wonder of the World."
+  },
+  {
+    "classLevel": 6,
+    "subject": "GK",
+    "chapter": "Chapter 10: World Geography, Continents, Oceans & Global Wonders",
+    "question": "What is the world's HIGHEST uninterrupted waterfall, located in Canaima National Park, Venezuela (dropping 979 metres)?",
+    "options": [
+      "Angel Falls (Salto Ángel)",
+      "Niagara Falls",
+      "Victoria Falls",
+      "Iguazu Falls"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "Angel Falls plunges 979 m (807 m uninterrupted drop) from the Auyán-tepui plateau in Venezuela."
+  },
+  {
+    "classLevel": 6,
+    "subject": "GK",
+    "chapter": "Chapter 10: World Geography, Continents, Oceans & Global Wonders",
+    "question": "Which artificial sea-level waterway in Egypt connects the Mediterranean Sea directly with the Red Sea, enabling direct maritime navigation between Europe and Asia?",
+    "options": [
+      "Suez Canal (opened in 1869)",
+      "Panama Canal",
+      "Kiel Canal",
+      "Corinth Canal"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "Opened in 1869 across the Isthmus of Suez, the 193 km Suez Canal eliminates the 7,000 km voyage around Africa."
+  },
+  {
+    "classLevel": 6,
+    "subject": "GK",
+    "chapter": "Chapter 10: World Geography, Continents, Oceans & Global Wonders",
+    "question": "Which artificial lock-based canal in Central America cuts across the Isthmus of Panama to connect the Atlantic Ocean with the Pacific Ocean?",
+    "options": [
+      "Panama Canal (opened in 1914)",
+      "Suez Canal",
+      "Erie Canal",
+      "Grand Canal"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "Opened in 1914, the 82 km Panama Canal uses stepped water locks to lift ships across the continental divide."
+  },
+  {
+    "classLevel": 6,
+    "subject": "GK",
+    "chapter": "Chapter 10: World Geography, Continents, Oceans & Global Wonders",
+    "question": "What is the LARGEST freshwater lake in the world by surface area, located on the border of the USA and Canada?",
+    "options": [
+      "Lake Superior (82,100 sq km)",
+      "Lake Victoria",
+      "Lake Baikal",
+      "Lake Michigan"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "Lake Superior is the largest freshwater lake by surface area (82,103 km²) among the Laurentian Great Lakes."
+  },
+  {
+    "classLevel": 6,
+    "subject": "GK",
+    "chapter": "Chapter 10: World Geography, Continents, Oceans & Global Wonders",
+    "question": "What is the DEEPEST and OLDEST freshwater lake in the world, located in Siberia, Russia (holding 20% of world's unfrozen surface freshwater)?",
+    "options": [
+      "Lake Baikal (1,642 metres deep)",
+      "Lake Tanganyika",
+      "Caspian Sea",
+      "Lake Superior"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "Lake Baikal is a continental rift lake reaching 1,642 m depth and containing 23,615 km³ of freshwater."
+  },
+  {
+    "classLevel": 6,
+    "subject": "GK",
+    "chapter": "Chapter 10: World Geography, Continents, Oceans & Global Wonders",
+    "question": "What is the LARGEST inland body of water (enclosed saline lake) in the world, bounded by Russia, Kazakhstan, Turkmenistan, Iran, and Azerbaijan?",
+    "options": [
+      "Caspian Sea (371,000 sq km)",
+      "Black Sea",
+      "Aral Sea",
+      "Red Sea"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "The Caspian Sea is an endorheic inland basin spanning 371,000 km², classified as the world's largest lake."
+  },
+  {
+    "classLevel": 6,
+    "subject": "GK",
+    "chapter": "Chapter 10: World Geography, Continents, Oceans & Global Wonders",
+    "question": "What is the narrow oceanic strait that separates Asia (Russia) from North America (Alaska, USA)?",
+    "options": [
+      "Bering Strait",
+      "Strait of Gibraltar",
+      "Strait of Malacca",
+      "Palk Strait"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "The 82 km wide Bering Strait links the Chukchi Sea (Arctic) with the Bering Sea (Pacific), dividing Russia and Alaska."
+  },
+  {
+    "classLevel": 6,
+    "subject": "GK",
+    "chapter": "Chapter 10: World Geography, Continents, Oceans & Global Wonders",
+    "question": "What is the strategic strait that connects the Mediterranean Sea with the Atlantic Ocean, separating Europe (Spain) from Africa (Morocco)?",
+    "options": [
+      "Strait of Gibraltar",
+      "Bosphorus Strait",
+      "Strait of Hormuz",
+      "Bab-el-Mandeb"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "The 13 km Strait of Gibraltar provides the sole natural gateway between the Atlantic Ocean and the Mediterranean basin."
+  },
+  {
+    "classLevel": 6,
+    "subject": "GK",
+    "chapter": "Chapter 10: World Geography, Continents, Oceans & Global Wonders",
+    "question": "Which New 7 Wonder of the World is an ancient Incan citadel situated high in the Andes mountains of Peru at 2,430 metres altitude?",
+    "options": [
+      "Machu Picchu",
+      "Chichen Itza",
+      "Christ the Redeemer",
+      "Petra"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "Built in the 15th century by Inca Emperor Pachacuti, Machu Picchu is an architectural wonder of polished dry-stone walls."
+  },
+  {
+    "classLevel": 6,
+    "subject": "GK",
+    "chapter": "Chapter 10: World Geography, Continents, Oceans & Global Wonders",
+    "question": "Which New 7 Wonder of the World is an ancient city carved directly into vibrant red-rose sandstone cliffs in Jordan?",
+    "options": [
+      "Petra (The Rose City / Al-Khazneh Treasury)",
+      "Colosseum",
+      "Angkor Wat",
+      "Persepolis"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "Petra was the capital of the Nabataean kingdom, renowned for rock-cut facades and water conduit systems."
+  },
+  {
+    "classLevel": 6,
+    "subject": "GK",
+    "chapter": "Chapter 10: World Geography, Continents, Oceans & Global Wonders",
+    "question": "Which New 7 Wonder of the World is an ancient Mayan stepped pyramid complex located in the Yucatán Peninsula of Mexico?",
+    "options": [
+      "Chichén Itzá (El Castillo pyramid)",
+      "Machu Picchu",
+      "Teotihuacan",
+      "Tikal"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "El Castillo at Chichén Itzá aligns with solar equinoxes, casting snake-like shadows down its 365 steps."
+  },
+  {
+    "classLevel": 6,
+    "subject": "GK",
+    "chapter": "Chapter 10: World Geography, Continents, Oceans & Global Wonders",
+    "question": "What is the massive amphitheatre built in Rome, Italy in 80 CE for gladiatorial combats called?",
+    "options": [
+      "The Colosseum (Flavian Amphitheatre)",
+      "Pantheon",
+      "Parthenon",
+      "Hagia Sophia"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "Constructed under Emperors Vespasian and Titus, the Colosseum seated up to 65,000 spectators for civic spectacles."
+  },
+  {
+    "classLevel": 6,
+    "subject": "GK",
+    "chapter": "Chapter 10: World Geography, Continents, Oceans & Global Wonders",
+    "question": "What is the longest architectural defensive wall in the world, spanning over 21,000 km across northern China?",
+    "options": [
+      "The Great Wall of China",
+      "Hadrian's Wall",
+      "Berlin Wall",
+      "Western Wall"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "Built across centuries by Chinese dynasties (notably Qin Shi Huang and Ming), the Great Wall fortified northern frontiers."
+  },
+  {
+    "classLevel": 6,
+    "subject": "GK",
+    "chapter": "Chapter 10: World Geography, Continents, Oceans & Global Wonders",
+    "question": "Which continent is known as the 'Dark Continent' historically and is the ONLY continent through which the Equator, Tropic of Cancer, and Tropic of Capricorn ALL pass?",
+    "options": [
+      "Africa",
+      "Asia",
+      "South America",
+      "Australia"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "Africa is the only continent traversed by all three major latitude lines: Equator, Tropic of Cancer, and Tropic of Capricorn."
+  },
+  {
+    "classLevel": 6,
+    "subject": "GK",
+    "chapter": "Chapter 10: World Geography, Continents, Oceans & Global Wonders",
+    "question": "What is the world's LARGEST island that is not a continent, covered mostly by a vast ice sheet?",
+    "options": [
+      "Greenland (autonomous territory of Denmark)",
+      "Madagascar",
+      "New Guinea",
+      "Borneo"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "Greenland spans 2.16 million km², making it the largest non-continental island on the planet."
+  },
+  {
+    "classLevel": 6,
+    "subject": "GK",
+    "chapter": "Chapter 10: World Geography, Continents, Oceans & Global Wonders",
+    "question": "What are the Indian scientific research research stations established in Antarctica called?",
+    "options": [
+      "Dakshin Gangotri (1983), Maitri (1989), and Bharati (2012)",
+      "Vikram and Pragyan",
+      "Aryabhata and Rohini",
+      "Himalaya and Ganga"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "India operates permanent polar research bases in Antarctica: Maitri (Schirmacher Oasis) and Bharati (Larsemann Hills)."
+  },
+  {
+    "classLevel": 6,
+    "subject": "GK",
+    "chapter": "Chapter 10: World Geography, Continents, Oceans & Global Wonders",
+    "question": "Read the statements:\nAssertion (A): The 'Pacific Ring of Fire' is a horseshoe-shaped belt basin where over 75% of the world's active volcanoes and 90% of the world's earthquakes occur.\nReason (R): It is the tectonic boundary zone where multiple major oceanic lithospheric plates subduct beneath adjacent continental plates along deep oceanic trenches.\nChoose the correct option:",
+    "options": [
+      "Both (A) and (R) are true, and (R) is the correct explanation of (A).",
+      "Both (A) and (R) are true, but (R) is NOT the correct explanation of (A).",
+      "(A) is true, but (R) is false.",
+      "(A) is false, but (R) is true."
+    ],
+    "correctAnswer": 0,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "Subduction of the Pacific, Nazca, Cocos, and Philippine plates drives intense volcanism and seismic megathrusts."
+  },
+  {
+    "classLevel": 6,
+    "subject": "GK",
+    "chapter": "Chapter 10: World Geography, Continents, Oceans & Global Wonders",
+    "question": "Spot the IMPOSTER in the following group of World Wonders matched with their home countries:\nGroup: [Taj Mahal - India, Machu Picchu - Peru, Petra - Jordan, Colosseum - Greece]",
+    "options": [
+      "Taj Mahal - India",
+      "Machu Picchu - Peru",
+      "Petra - Jordan",
+      "Colosseum - Greece"
+    ],
+    "correctAnswer": 3,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "The Colosseum is in ROME, ITALY, NOT Greece (Greece is famous for the Parthenon in Athens)."
+  },
+  {
+    "classLevel": 6,
+    "subject": "GK",
+    "chapter": "Chapter 10: World Geography, Continents, Oceans & Global Wonders",
+    "question": "What is the highest NAVIGABLE lake in the world, situated in the Andes mountains on the border of Bolivia and Peru at 3,812 m altitude?",
+    "options": [
+      "Lake Titicaca",
+      "Lake Maracaibo",
+      "Lake Poopó",
+      "Lake Nicaragua"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "Lake Titicaca is the highest commercially navigable alpine body of water in the world."
+  },
+  {
+    "classLevel": 6,
+    "subject": "GK",
+    "chapter": "Chapter 10: World Geography, Continents, Oceans & Global Wonders",
+    "question": "Match Column I (Geographical Straits / Waterways) with Column II (Bodies of Water Connected):\n(a) Strait of Gibraltar -> (i) Red Sea with Mediterranean Sea\n(b) Suez Canal          -> (ii) Atlantic Ocean with Pacific Ocean (locks)\n(c) Panama Canal        -> (iii) Atlantic Ocean with Mediterranean Sea\n(d) Strait of Malacca   -> (iv) Indian Ocean with South China Sea (Pacific)",
+    "options": [
+      "a-(iii), b-(i), c-(ii), d-(iv)",
+      "a-(i), b-(ii), c-(iii), d-(iv)",
+      "a-(iv), b-(iii), c-(ii), d-(i)",
+      "a-(ii), b-(iv), c-(i), d-(iii)"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "Gibraltar = Atlantic/Med; Suez = Red/Med; Panama = Atlantic/Pacific; Malacca = Indian/Pacific."
+  },
+  {
+    "classLevel": 6,
+    "subject": "GK",
+    "chapter": "Chapter 10: World Geography, Continents, Oceans & Global Wonders",
+    "question": "Read the statements regarding world physical geography:\nStatement 1: The Ural Mountain range forms the traditional geographic dividing boundary between Europe and Asia.\nStatement 2: The Great Barrier Reef in Australia is the largest coral reef system on Earth, visible from space.\nStatement 3: Antarctica is the most densely populated continent in the world.\nWhich statements are TRUE?",
+    "options": [
+      "Statements 1 and 2 only",
+      "Statements 2 and 3 only",
+      "Statements 1 and 3 only",
+      "All Statements 1, 2, and 3"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "Statement 3 is completely false because Antarctica has zero permanent indigenous population (only seasonal scientists). Statements 1 and 2 are true."
+  },
+  {
+    "classLevel": 6,
+    "subject": "GK",
+    "chapter": "Chapter 10: World Geography, Continents, Oceans & Global Wonders",
+    "question": "What is the driest non-polar desert on Earth, located along the Pacific coast of northern Chile where some weather stations have recorded ZERO rain for decades?",
+    "options": [
+      "Atacama Desert",
+      "Patagonian Desert",
+      "Mojave Desert",
+      "Namib Desert"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "The Atacama hyper-arid desert lies in a double rain shadow between the Chilean Coast Range and Andes."
+  },
+  {
+    "classLevel": 6,
+    "subject": "GK",
+    "chapter": "Chapter 10: World Geography, Continents, Oceans & Global Wonders",
+    "question": "What is the colossal volcanic plateau in East Africa formed by tectonic divergence, stretching over 6,000 km from the Red Sea to Mozambique?",
+    "options": [
+      "The Great Rift Valley (East African Rift)",
+      "The Deccan Plateau",
+      "The Colorado Plateau",
+      "The Tibetan Plateau"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "The East African Rift is an active divergent tectonic boundary rifting the Nubian and Somalian plates."
+  },
+  {
+    "classLevel": 6,
+    "subject": "GK",
+    "chapter": "Chapter 10: World Geography, Continents, Oceans & Global Wonders",
+    "question": "Which high-altitude plateau in Central Asia is revered as the 'Roof of the World', averaging over 4,500 metres in elevation?",
+    "options": [
+      "Tibetan Plateau (and Pamir Knot)",
+      "Anatolian Plateau",
+      "Colorado Plateau",
+      "Ethiopian Highlands"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "The Tibetan Plateau spans 2.5 million km² at 4,500 m elevation, feeding 10 major Asian river systems."
+  },
+  {
+    "classLevel": 6,
+    "subject": "GK",
+    "chapter": "Chapter 10: World Geography, Continents, Oceans & Global Wonders",
+    "question": "What is the southernmost tip of the South American continent (notorious for perilous maritime storms between Atlantic and Pacific) called?",
+    "options": [
+      "Cape Horn (Cabo de Hornos)",
+      "Cape of Good Hope",
+      "Cape Comorin",
+      "Cape Canaveral"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "Cape Horn on Hornos Island marks the turbulent northern boundary of the Drake Passage."
+  },
+  {
+    "classLevel": 6,
+    "subject": "GK",
+    "chapter": "Chapter 10: World Geography, Continents, Oceans & Global Wonders",
+    "question": "Which is the ONLY country in the world that is also classified as a whole Continent?",
+    "options": [
+      "Australia (Commonwealth of Australia)",
+      "Russia",
+      "Canada",
+      "Brazil"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "Australia is uniquely a megadiverse nation-state occupying an entire sovereign continent."
+  },
+  {
+    "classLevel": 6,
+    "subject": "GK",
+    "chapter": "Chapter 10: World Geography, Continents, Oceans & Global Wonders",
+    "question": "What is the global imaginary line of latitude at 0° that divides the Earth into the Northern and Southern Hemispheres?",
+    "options": [
+      "The Equator (0° Latitude)",
+      "Prime Meridian (0° Longitude)",
+      "Tropic of Cancer (23.5° N)",
+      "Tropic of Capricorn (23.5° S)"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "The Equator is the 40,075 km planetary great circle equidistant from the North and South poles."
+  },
+  {
+    "classLevel": 6,
+    "subject": "GK",
+    "chapter": "Chapter 10: World Geography, Continents, Oceans & Global Wonders",
+    "question": "What international line passing through the Royal Observatory in Greenwich, London defines 0° Longitude and Greenwich Mean Time (GMT)?",
+    "options": [
+      "Prime Meridian",
+      "International Date Line (180°)",
+      "Equator",
+      "Arctic Circle"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "Established in 1884, the Greenwich Prime Meridian (0° longitude) serves as the reference datum for global time zones."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Social Science",
+    "chapter": "Chapter 10: Traders, Kings and Pilgrims",
+    "question": "What was the ancient network of overland and maritime trade routes connecting China, India, Central Asia, and the Roman Mediterranean empire called?",
+    "options": [
+      "The Silk Route (Silk Road)",
+      "The Spice Route",
+      "The Grand Trunk Road",
+      "The Royal Road"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "Named after Chinese silk, the Silk Route was a trans-Eurasian trade artery spanning over 6,400 km."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Social Science",
+    "chapter": "Chapter 10: Traders, Kings and Pilgrims",
+    "question": "Around how many years ago was the secret technique of making SILK first invented in China?",
+    "options": [
+      "About 7,000 years ago (c. 5000 BCE)",
+      "1,000 years ago",
+      "500 years ago",
+      "10,000 years ago"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "Sericulture and silk weaving were guarded as state secrets in China for thousands of years from ~5000 BCE."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Social Science",
+    "chapter": "Chapter 10: Traders, Kings and Pilgrims",
+    "question": "Which powerful rulers of Central Asian origin controlled the major branches of the Silk Route around 2,000 years ago and issued the earliest gold coins in India?",
+    "options": [
+      "The Kushanas (Kushans)",
+      "The Mauryas",
+      "The Guptas",
+      "The Cholas"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "The Kushanas controlled the Silk Route from Peshawar and Mathura, issuing abundant high-purity gold dinars."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Social Science",
+    "chapter": "Chapter 10: Traders, Kings and Pilgrims",
+    "question": "Who was the most famous Kushana ruler who organized the Fourth Buddhist Council in Kashmir and patronized the poet Ashvaghosha?",
+    "options": [
+      "Kanishka (c. 78 CE)",
+      "Kujula Kadphises",
+      "Ashoka",
+      "Chandragupta II"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "Emperor Kanishka convened the 4th Buddhist Council in Kashmir and initiated the Shaka calendar era (78 CE)."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Social Science",
+    "chapter": "Chapter 10: Traders, Kings and Pilgrims",
+    "question": "Who was the famous Buddhist scholar and poet in Kanishka's court who authored the 'Buddhacharita' (the epic biography of the Buddha in Sanskrit)?",
+    "options": [
+      "Ashvaghosha",
+      "Kalidasa",
+      "Banabhatta",
+      "Nagarjuna"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "Ashvaghosha wrote the 'Buddhacharita' and 'Saundarananda', pioneering classical Sanskrit kavya literature."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Social Science",
+    "chapter": "Chapter 10: Traders, Kings and Pilgrims",
+    "question": "What new form of Buddhism developed during Kanishka's reign, emphasizing statues of the Buddha and the worship of Bodhisattvas?",
+    "options": [
+      "Mahayana Buddhism ('The Greater Vehicle')",
+      "Theravada Buddhism",
+      "Hinayana Buddhism",
+      "Zen Buddhism"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "Mahayana introduced iconic anthropomorphic Buddha sculptures and compassionate Bodhisattva veneration."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Social Science",
+    "chapter": "Chapter 10: Traders, Kings and Pilgrims",
+    "question": "In Buddhist philosophy, who were 'Bodhisattvas'?",
+    "options": [
+      "Enlightened compassionate souls who postponed their own final Nirvana to remain in the world and help all living beings overcome suffering",
+      "Kings who conquered other lands",
+      "Merchants who sold gold",
+      "Pilgrims from Rome"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "Bodhisattvas delay personal nirvana out of universal compassion (karuna) to liberate all sentient beings."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Social Science",
+    "chapter": "Chapter 10: Traders, Kings and Pilgrims",
+    "question": "In which regions did older 'Theravada Buddhism' remain popular and dominant?",
+    "options": [
+      "Sri Lanka, Myanmar (Burma), Thailand, and other parts of Southeast Asia",
+      "China and Japan",
+      "Rome and Greece",
+      "Egypt and Persia"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "Theravada ('Way of the Elders') preserved early Pali monastic traditions across Sri Lanka and Southeast Asia."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Social Science",
+    "chapter": "Chapter 10: Traders, Kings and Pilgrims",
+    "question": "What are 'Pilgrims' in historical religious studies?",
+    "options": [
+      "Men and women who undertake long journeys to holy places to offer worship and study sacred texts",
+      "Traders who sell horses",
+      "Soldiers in royal armies",
+      "Tax collectors in villages"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "Pilgrims travel across continents on spiritual journeys to pay homage at sacred shrines and monasteries."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Social Science",
+    "chapter": "Chapter 10: Traders, Kings and Pilgrims",
+    "question": "Which famous Chinese Buddhist pilgrim visited India around 1600 years ago during the reign of Chandragupta II (Gupta Empire)?",
+    "options": [
+      "Fa Xian (Faxian)",
+      "Xuan Zang (Hiuen Tsang)",
+      "I-Qing (I-Tsing)",
+      "Marco Polo"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "Fa Xian traveled to India (399–414 CE) overland through Central Asia, collecting Sanskrit Buddhist Vinaya manuscripts."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Social Science",
+    "chapter": "Chapter 10: Traders, Kings and Pilgrims",
+    "question": "Which Chinese pilgrim visited India around 1400 years ago during the reign of King Harshavardhana and studied at Nalanda University?",
+    "options": [
+      "Xuan Zang (Hiuen Tsang)",
+      "Fa Xian",
+      "I-Qing",
+      "Megasthenes"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "Xuan Zang spent 16 years in India (629–645 CE), studying Yogachara philosophy under Shilabhadra at Nalanda."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Social Science",
+    "chapter": "Chapter 10: Traders, Kings and Pilgrims",
+    "question": "What was the most famous international center of Buddhist learning and monastery university in ancient Bihar where scholars from all over the world studied?",
+    "options": [
+      "Nalanda Mahavihara (Nalanda University)",
+      "Takshashila",
+      "Vikramashila",
+      "Valabhi"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "Founded in the 5th century CE by Kumargupta I, Nalanda hosted over 10,000 students and monks from across Asia."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Social Science",
+    "chapter": "Chapter 10: Traders, Kings and Pilgrims",
+    "question": "Why did ancient kings try hard to control the Silk Route?",
+    "options": [
+      "Because they could collect rich taxes, customs duties, and precious gifts from wealthy merchants traveling with valuable goods along the route",
+      "Because kings wanted to make silk shirts themselves",
+      "Because the route was made of gold",
+      "Because nobody else was allowed on the road"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "Controlling choke points allowed kingdoms to levy transit tolls, ensuring armed security in exchange for tariffs."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Social Science",
+    "chapter": "Chapter 10: Traders, Kings and Pilgrims",
+    "question": "What two major sculptural art schools produced exquisite Buddha statues under Mahayana Buddhism?",
+    "options": [
+      "Mathura Art School (indigenous red sandstone style) and Gandhara Art School (Greco-Buddhist style in Taxila/Peshawar)",
+      "Chola and Pallava style",
+      "Roman and Egyptian style",
+      "Mughal and Rajput style"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "Gandhara fused Hellenistic drapery with Buddhist themes, while Mathura evolved robust indigenous stone iconography."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Social Science",
+    "chapter": "Chapter 10: Traders, Kings and Pilgrims",
+    "question": "How did Xuan Zang transport hundreds of sacred Buddhist manuscripts and golden statues back from India to China in 645 CE?",
+    "options": [
+      "Loaded on the backs of 20 horses across the overland mountain passes of the Pamirs, Hindu Kush, and Taklamakan desert",
+      "On a modern cargo airplane",
+      "By sending a postal parcel",
+      "Through underwater tunnels"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "Xuan Zang transported 657 Sanskrit texts on pack horses, spending his remaining life in Chang'an translating them into Chinese."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Social Science",
+    "chapter": "Chapter 10: Traders, Kings and Pilgrims",
+    "question": "What religious path gained immense popularity in India during this period, emphasizing intense personal devotion and pure love for a chosen deity (Ishta-Deva) regardless of caste or gender?",
+    "options": [
+      "Bhakti Movement (Bhakti Marga)",
+      "Yajna ritualism",
+      "Vedic sacrifice",
+      "Tantric isolation"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "Bhakti (from Sanskrit 'bhaj' = to share/devote) emphasized egalitarian personal devotion to Shiva, Vishnu, or Durga."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Social Science",
+    "chapter": "Chapter 10: Traders, Kings and Pilgrims",
+    "question": "Which sacred Hindu scripture (a 700-verse section of the Mahabharata) contains the foundational doctrine of Bhakti taught by Lord Krishna to Arjuna?",
+    "options": [
+      "The Bhagavad Gita",
+      "The Ramayana",
+      "Rigveda",
+      "Manusmriti"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "In the Gita, Krishna reveals 'Bhakti Marga' (devotional self-surrender) as the supreme path to spiritual liberation."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Social Science",
+    "chapter": "Chapter 10: Traders, Kings and Pilgrims",
+    "question": "What does the Sanskrit root word 'Bhaj' in 'Bhakti' literally mean?",
+    "options": [
+      "To divide, share, participate in, or belong to (creating a reciprocal loving bond between the devotee and deity)",
+      "To fight in war",
+      "To fast without food",
+      "To speak Sanskrit"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "'Bhaj' means to share intimately, signifying a mutual emotional relationship between the bhakta and the Divine."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Social Science",
+    "chapter": "Chapter 10: Traders, Kings and Pilgrims",
+    "question": "Why was the Bhakti movement revolutionary in the socio-religious history of ancient India?",
+    "options": [
+      "It threw open spiritual salvation to everyone—rich or poor, high caste or low caste, men or women—without expensive priestly rituals or animal sacrifices",
+      "It banned all temples",
+      "It ordered everyone to become monks",
+      "It was only for kings"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "Bhakti dismantled caste-based religious exclusivism, making direct devotion universally accessible to all social strata."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Social Science",
+    "chapter": "Chapter 10: Traders, Kings and Pilgrims",
+    "question": "What is the famous depiction of Lord Vishnu as the 'Varaha' (Boar) avatar rescuing Mother Earth (Bhudevi) from the cosmic ocean carved in stone at:",
+    "options": [
+      "Eran (Madhya Pradesh) and Udayagiri caves",
+      "Sanchi",
+      "Ajanta",
+      "Ellora"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "Gupta-era colossal Varaha bas-reliefs at Udayagiri and Eran symbolize cosmic restoration and divine salvation."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Social Science",
+    "chapter": "Chapter 10: Traders, Kings and Pilgrims",
+    "question": "How did Buddhist monk pilgrim Fa Xian describe his perilous sea return journey from Tamralipti port (Bengal) to China via Sri Lanka and Java?",
+    "options": [
+      "His merchant ship encountered a catastrophic cyclone storm for 13 days, forcing merchants to throw all heavy trade cargo overboard to prevent the ship from sinking",
+      "He sailed smoothly without wind",
+      "He was captured by Roman soldiers",
+      "He walked across the ocean on foot"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "Fa Xian's travelogue chronicles the terror of monsoonal typhoons, clinging to his precious Buddhist manuscripts on board."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Social Science",
+    "chapter": "Chapter 10: Traders, Kings and Pilgrims",
+    "question": "What strict entrance examination did students have to pass to gain admission into Nalanda University, according to Xuan Zang?",
+    "options": [
+      "The Gatekeeper (Dvarapandita) posed deep philosophical questions at the main entrance gate; only 20% to 30% of applicants could answer and gain admission",
+      "They had to pay 100 gold coins",
+      "They had to run a 5-mile race",
+      "They had to belong to royal families"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "Xuan Zang noted that Nalanda maintained rigorous academic standards, screening applicants through oral philosophical disputation."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Social Science",
+    "chapter": "Chapter 10: Traders, Kings and Pilgrims",
+    "question": "Who was the South Indian Bhakti poet-saint Appar (a devotee of Lord Shiva) who composed soulful devotional poems in Tamil celebrating equality?",
+    "options": [
+      "A 7th-century Nayanar saint who was a Vellalar (farmer)",
+      "A Buddhist monk",
+      "A Greek trader",
+      "A Kushana king"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "Appar (Thirunavukkarasar), a peasant Vellalar, composed Tevaram hymns proclaiming that sincere devotion supersedes caste origins."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Social Science",
+    "chapter": "Chapter 10: Traders, Kings and Pilgrims",
+    "question": "What three ruling dynasties were known as the 'Muvendar' (Three Crowned Kings) who controlled the fertile Kaveri delta and southern coastal ports around 2,300 years ago?",
+    "options": [
+      "The Cholas, the Cheras, and the Pandyas",
+      "The Mauryas, Guptas, and Kushanas",
+      "The Pallavas, Chalukyas, and Rashtrakutas",
+      "The Mughals, Marathas, and Rajputs"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "Sangam literature celebrates the 'Muvendar': the Cholas (Uraiyur/Puhar), Cheras (Karur/Muziris), and Pandyas (Madurai/Korkai)."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Social Science",
+    "chapter": "Chapter 10: Traders, Kings and Pilgrims",
+    "question": "What was Puhar (also known as Kaveripattinam) in ancient South India?",
+    "options": [
+      "The premier coastal port city of the early Cholas on the Bay of Bengal, bustling with international sea trade",
+      "The capital of the Kushanas",
+      "A monastery in Kashmir",
+      "A desert oasis"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "Puhar was the bustling maritime port of the Cholas, vividly depicted in the Tamil epic 'Silappadikaram'."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Social Science",
+    "chapter": "Chapter 10: Traders, Kings and Pilgrims",
+    "question": "What Indian commodity was so prized in the ancient Roman Empire that it was popularly called 'Black Gold' (Yavanapriya)?",
+    "options": [
+      "Black Pepper (Kali Mirch)",
+      "Black tea",
+      "Coal",
+      "Black stone"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "Malabar black pepper was in such huge demand in Rome that it was traded for its weight in gold and termed 'Black Gold'."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Social Science",
+    "chapter": "Chapter 10: Traders, Kings and Pilgrims",
+    "question": "How did ancient sailors and merchant navigators cross the Arabian Sea to reach the western ports of India quickly?",
+    "options": [
+      "They took strategic advantage of the seasonal Southwest Monsoon winds to sail directly across the open ocean from the Gulf of Aden to the Malabar coast in summer",
+      "Using steam engine ships",
+      "By rowing continuously by hand without sails",
+      "By following stars in winter only"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "Hippalus and Greek sailors harnessed the predictable seasonal Southwest Monsoon winds to sail straight across the open Arabian Sea."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Social Science",
+    "chapter": "Chapter 10: Traders, Kings and Pilgrims",
+    "question": "What is the primary spiritual concept behind the construction of magnificent Hindu temple architecture that evolved from the Bhakti movement?",
+    "options": [
+      "Creating sacred physical abodes (Prasad/Garbhagriha) where the chosen deity resides to receive personal loving worship and darshan from devotees",
+      "Building fortresses for war",
+      "Storing grain for famine",
+      "Astronomical observatories only"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "Bhakti catalyzed temple architecture: housing the enshrined deity in the sanctum sanctorum (Garbhagriha) for direct darshan."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Social Science",
+    "chapter": "Chapter 10: Traders, Kings and Pilgrims",
+    "question": "Read the statements:\nAssertion (A): The expansion of the Silk Route was as much an intellectual and cultural highway as it was an international commercial highway.\nReason (R): Along with silk, glassware, and spices, the route carried Buddhist philosophy, monastic texts, art styles (Gandhara-Mathura), and religious pilgrims between India, Central Asia, and East Asia.\nChoose the correct option:",
+    "options": [
+      "Both (A) and (R) are true, and (R) is the correct explanation of (A).",
+      "Both (A) and (R) are true, but (R) is NOT the correct explanation of (A).",
+      "(A) is true, but (R) is false.",
+      "(A) is false, but (R) is true."
+    ],
+    "correctAnswer": 0,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "Trade routes operated as cultural transmission vectors, diffusing Buddhism, art, technology (paper/silk), and languages across Eurasia."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Social Science",
+    "chapter": "Chapter 10: Traders, Kings and Pilgrims",
+    "question": "Spot the IMPOSTER in the following group of ancient Chinese pilgrims who visited India to study Buddhist texts:\nGroup: [Fa Xian (Faxian), Xuan Zang (Hiuen Tsang), I-Qing (Yijing), Megasthenes]",
+    "options": [
+      "Fa Xian (Faxian)",
+      "Xuan Zang (Hiuen Tsang)",
+      "I-Qing (Yijing)",
+      "Megasthenes"
+    ],
+    "correctAnswer": 3,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "Megasthenes was a GREEK ambassador from Seleucus Nicator to Chandragupta Maurya (author of 'Indica'), NOT a Chinese Buddhist pilgrim."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Social Science",
+    "chapter": "Chapter 10: Traders, Kings and Pilgrims",
+    "question": "Consider the theological evolution between Early Buddhism (Theravada) and Later Buddhism (Mahayana):\nWhich of the following is a definitive characteristic of MAHAYANA Buddhism?",
+    "options": [
+      "Depicting Buddha in anthropomorphic human statue form and worshipping Bodhisattvas who postpone nirvana to save all sentient beings",
+      "Strictly representing Buddha through aniconic symbols (footprints, empty throne, wheel)",
+      "Banning all statues and rituals",
+      "Using only Pali language and rejecting Sanskrit"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "Mahayana transitioned from aniconism to iconographic idol worship, adopting Sanskrit and the Bodhisattva ideal."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Social Science",
+    "chapter": "Chapter 10: Traders, Kings and Pilgrims",
+    "question": "Match Column I (Ancient Personalities / Texts) with Column II (Historical Contributions):\n(a) Kanishka     -> (i) Author of Buddhacharita in Sanskrit\n(b) Ashvaghosha  -> (ii) Kushana Emperor who convened 4th Buddhist Council\n(c) Xuan Zang    -> (iii) Pilgrim who spent 16 years studying at Nalanda\n(d) Appar        -> (iv) Nayanar saint who composed Tamil devotional hymns",
+    "options": [
+      "a-(ii), b-(i), c-(iii), d-(iv)",
+      "a-(i), b-(ii), c-(iii), d-(iv)",
+      "a-(iv), b-(iii), c-(ii), d-(i)",
+      "a-(iii), b-(iv), c-(i), d-(ii)"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "Kanishka = 4th Council; Ashvaghosha = Buddhacharita; Xuan Zang = Nalanda scholar; Appar = Nayanar saint."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Social Science",
+    "chapter": "Chapter 10: Traders, Kings and Pilgrims",
+    "question": "Read the statements regarding ancient pilgrims:\nStatement 1: Xuan Zang lost 50 precious manuscripts in the Indus river when his boat capsized during his return journey.\nStatement 2: Nalanda University charged high tuition fees in gold from all students.\nStatement 3: Roman coins have been discovered in large hoards across South India.\nWhich statements are TRUE?",
+    "options": [
+      "Statements 1 and 3 only",
+      "Statements 1 and 2 only",
+      "Statements 2 and 3 only",
+      "All Statements 1, 2, and 3"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "Statement 2 is false because education, lodging, and food at Nalanda were completely free, funded by revenue from 100 endowed villages. Statements 1 and 3 are true."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Social Science",
+    "chapter": "Chapter 10: Traders, Kings and Pilgrims",
+    "question": "What was the administrative concept of 'Muvendar' mentioned in Sangam poems, where each of the three ruling chiefs had TWO centers of power?",
+    "options": [
+      "Each dynasty (Cholas, Cheras, Pandyas) maintained ONE inland capital city and ONE coastal seaport, totaling six major urban power hubs in South India",
+      "Each had two kings ruling at once",
+      "Each ruled over two separate islands",
+      "Each had two armies"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "Dual nodes of power: Cholas (Uraiyur inland + Puhar port), Pandyas (Madurai inland + Korkai port), Cheras (Karur inland + Muziris port)."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Social Science",
+    "chapter": "Chapter 10: Traders, Kings and Pilgrims",
+    "question": "Why did the Kushana rulers issue such high-denomination, pure GOLD coins around the 1st century CE?",
+    "options": [
+      "To facilitate large-scale international transactions on the Silk Route, fueled by massive inflows of Roman gold and overland transit profits",
+      "Because they had no copper or silver",
+      "To give as gifts to pilgrims",
+      "To melt and build gold palaces"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "Kushana gold dinars mirrored Roman imperial weight standards (8 grams), creating a convertible reserve currency along the Silk Road."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Social Science",
+    "chapter": "Chapter 10: Traders, Kings and Pilgrims",
+    "question": "Consider four events in the history of trade and pilgrimage:\n1. Invention of silk making in China (c. 5000 BCE)\n2. Reign of Kanishka and Mahayana Buddhism (c. 78 CE)\n3. Visit of Chinese pilgrim Fa Xian (c. 400 CE)\n4. Visit of Chinese pilgrim Xuan Zang (c. 630 CE)\nArrange them in chronological order from OLDEST to MOST RECENT:",
+    "options": [
+      "1 -> 2 -> 3 -> 4",
+      "2 -> 1 -> 3 -> 4",
+      "1 -> 3 -> 2 -> 4",
+      "4 -> 3 -> 2 -> 1"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "Silk invention (5000 BCE) > Kanishka (78 CE) > Fa Xian (400 CE) > Xuan Zang (630 CE)."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Social Science",
+    "chapter": "Chapter 10: Traders, Kings and Pilgrims",
+    "question": "What role did Buddhist monastic establishments along trade routes (such as Kanheri, Karle, and Ajanta rock-cut chaityas and viharas) play in ancient commerce?",
+    "options": [
+      "They served as secure rest stops, financial banking vaults, and provisioning stations for traveling merchant caravans passing through Western Ghat passes",
+      "They were military garrisons",
+      "They manufactured silk",
+      "They minted royal coins"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "Rock-cut viharas located along mountain passes (Bhor Ghat, Thal Ghat) offered safe lodging, credit, and water for merchant guilds."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Social Science",
+    "chapter": "Chapter 10: Traders, Kings and Pilgrims",
+    "question": "How did the Bhakti philosophy transform Indian art, poetry, and regional vernacular languages?",
+    "options": [
+      "It inspired an explosion of devotional poetry, music, and sculpture composed in popular regional spoken languages (Tamil, Kannada, Marathi, Hindi) rather than exclusive elite Sanskrit alone",
+      "It banned all vernacular poetry",
+      "It stopped people from painting",
+      "It mandated writing books only in Greek"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "Bhakti democratized culture, spawning vernacular literature (Tevaram, Divya Prabandham) and emotive temple sculpture."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Social Science",
+    "chapter": "Chapter 10: Traders, Kings and Pilgrims",
+    "question": "What is the profound philosophical meaning behind the Bhagavad Gita's teaching on 'Nishkama Karma' in the context of Bhakti?",
+    "options": [
+      "Performing one's righteous duty selflessly without selfish attachment to the fruits or rewards of action, dedicating all outcomes in love to the Divine",
+      "Renouncing all work and sitting idle",
+      "Fighting wars to acquire personal wealth",
+      "Doing good deeds only for praise"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "Nishkama Karma unites selfless duty with spiritual devotion, purifying human intent of egoistic desire."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Social Science",
+    "chapter": "Chapter 10: Traders, Kings and Pilgrims",
+    "question": "What grand historical synthesis does Chapter 10 of NCERT History reveal about the ancient world?",
+    "options": [
+      "A dynamic, interconnected world where trans-continental trade corridors, imperial patronage, philosophical reformations, and spiritual pilgrimages fostered deep cross-cultural synthesis across human civilization",
+      "A collection of completely isolated civilizations with zero contact",
+      "A world where only war existed without trade",
+      "A primitive society without roads or ideas"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "The chapter portrays an open, interconnected global ancient world enriched by trade, intellectual cross-pollination, and shared spiritual quest."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Hindi Grammar",
+    "chapter": "Chapter 10: क्रिया",
+    "question": "जिस शब्द से किसी कार्य के करने या होने का बोध होता है (जैसे: पढ़ना, लिखना, दौड़ना, खाना, सोना, होना), उसे व्याकरण में क्या कहते हैं?",
+    "options": [
+      "क्रिया (Verb)",
+      "संज्ञा",
+      "विशेषण",
+      "सर्वनाम"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "कार्य के निष्पादन या स्वतः होने का बोध कराने वाले विकारी शब्द 'क्रिया' कहलाते हैं।"
+  },
+  {
+    "classLevel": 6,
+    "subject": "Hindi Grammar",
+    "chapter": "Chapter 10: क्रिया",
+    "question": "क्रिया के मूल रूप (Basic root form) को क्या कहते हैं, जिससे विभिन्न क्रिया पद बनते हैं (जैसे: 'पढ़' से पढ़ना, पढ़ता, पढ़ेगा)?",
+    "options": [
+      "धातु (Root)",
+      "उपसर्ग",
+      "प्रत्यय",
+      "समास"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "क्रिया के मूल अविभाज्य रूप को 'धातु' कहते हैं (जैसे: लिख, खा, देख, गा, हँस)। धातु में 'ना' प्रत्यय जोड़कर सामान्य क्रिया बनती है।"
+  },
+  {
+    "classLevel": 6,
+    "subject": "Hindi Grammar",
+    "chapter": "Chapter 10: क्रिया",
+    "question": "कर्म के आधार पर क्रिया के मुख्य रूप से कितने भेद होते हैं?",
+    "options": [
+      "दो भेद (1. सकर्मक क्रिया, और 2. अकर्मक क्रिया)",
+      "तीन भेद",
+      "चार भेद",
+      "पाँच भेद"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "कर्म की अपेक्षा के आधार पर क्रिया के 2 प्रमुख भेद हैं: सकर्मक (कर्म सहित) और अकर्मक (कर्म रहित)।"
+  },
+  {
+    "classLevel": 6,
+    "subject": "Hindi Grammar",
+    "chapter": "Chapter 10: क्रिया",
+    "question": "जिस क्रिया के व्यापार (कार्य) का फल कर्ता पर न पड़कर 'कर्म' पर पड़ता है (अर्थात् जिसमें कर्म की आवश्यकता होती है), उसे क्या कहते हैं?",
+    "options": [
+      "सकर्मक क्रिया (Transitive Verb - जैसे: 'राम पुस्तक पढ़ता है')",
+      "अकर्मक क्रिया",
+      "प्रेरणार्थक क्रिया",
+      "सहायक क्रिया"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "जिस क्रिया का प्रभाव कर्म पर पड़े (क्या/किसे का उत्तर मिले), वह 'सकर्मक क्रिया' होती है।"
+  },
+  {
+    "classLevel": 6,
+    "subject": "Hindi Grammar",
+    "chapter": "Chapter 10: क्रिया",
+    "question": "जिस क्रिया के व्यापार का फल सीधे कर्ता पर ही पड़ता है और जिसमें कर्म नहीं होता (जैसे: 'बच्चा रोता है', 'पक्षी उड़ते हैं'), उसे क्या कहते हैं?",
+    "options": [
+      "अकर्मक क्रिया (Intransitive Verb)",
+      "सकर्मक क्रिया",
+      "द्विकर्मक क्रिया",
+      "संयुक्त क्रिया"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "जिसमें कर्म की अपेक्षा न हो और कार्य का प्रभाव कर्ता पर ही सीमित रहे, वह 'अकर्मक क्रिया' होती है।"
+  },
+  {
+    "classLevel": 6,
+    "subject": "Hindi Grammar",
+    "chapter": "Chapter 10: क्रिया",
+    "question": "वाक्य में क्रिया के साथ 'क्या' या 'किसे/किसको' लगाकर प्रश्न पूछने पर यदि कोई उत्तर मिलता है, तो वह क्रिया क्या कहलाती है?",
+    "options": [
+      "सकर्मक क्रिया (उत्तर मिलने वाला पद 'कर्म' होता है)",
+      "अकर्मक क्रिया",
+      "नामधातु क्रिया",
+      "अव्यय"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "'क्या/किसे' प्रश्न का सार्थक उत्तर मिलना सकर्मक क्रिया की सबसे सरल व प्रामाणिक पहचान है।"
+  },
+  {
+    "classLevel": 6,
+    "subject": "Hindi Grammar",
+    "chapter": "Chapter 10: क्रिया",
+    "question": "जिस सकर्मक क्रिया में दो कर्म होते हैं (जैसे: 'अध्यापक ने छात्रों को हिंदी पढ़ाई'), उसे क्या कहते हैं?",
+    "options": [
+      "द्विकर्मक क्रिया (छात्रों = गौण कर्म ; हिंदी = मुख्य कर्म)",
+      "एककर्मक क्रिया",
+      "अकर्मक क्रिया",
+      "सहायक क्रिया"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "दो कर्मों (मुख्य कर्म वस्तुवाचक + गौण कर्म प्राणीवाचक) से युक्त क्रिया 'द्विकर्मक क्रिया' कहलाती है।"
+  },
+  {
+    "classLevel": 6,
+    "subject": "Hindi Grammar",
+    "chapter": "Chapter 10: क्रिया",
+    "question": "जब कर्ता स्वयं कार्य न करके किसी अन्य को कार्य करने की प्रेरणा देता है या करवाता है (जैसे: 'माँ नौकरानी से कपड़े धुलवाती है'), तो उस क्रिया को क्या कहते हैं?",
+    "options": [
+      "प्रेरणार्थक क्रिया (Causative Verb)",
+      "अकर्मक क्रिया",
+      "नामधातु क्रिया",
+      "पूर्वकालिक क्रिया"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "कर्ता द्वारा किसी अन्य को कार्य में प्रवृत्त कराने वाली क्रिया 'प्रेरणार्थक क्रिया' कहलाती है।"
+  },
+  {
+    "classLevel": 6,
+    "subject": "Hindi Grammar",
+    "chapter": "Chapter 10: क्रिया",
+    "question": "संज्ञा, सर्वनाम या विशेषण शब्दों से बनने वाली क्रियाओं (जैसे: 'हाथ' से हथियाना, 'बात' से बतियाना, 'शर्म' से शर्माना, 'गर्म' से गरमाना) को क्या कहते हैं?",
+    "options": [
+      "नामधातु क्रिया (Nominal Verb)",
+      "प्रेरणार्थक क्रिया",
+      "संयुक्त क्रिया",
+      "पूर्वकालिक क्रिया"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "संज्ञा/सर्वनाम/विशेषण प्रातिपदिकों में प्रत्यय जोड़कर निर्मित क्रियाएँ 'नामधातु क्रिया' कहलाती हैं।"
+  },
+  {
+    "classLevel": 6,
+    "subject": "Hindi Grammar",
+    "chapter": "Chapter 10: क्रिया",
+    "question": "जब दो या दो से अधिक क्रियाएँ मिलकर एक पूर्ण क्रिया बनाती हैं (जैसे: 'वह खाना **खा चुका है**', 'मोहन **चला गया**'), तो उन्हें क्या कहते हैं?",
+    "options": [
+      "संयुक्त क्रिया (Compound Verb)",
+      "मूल क्रिया",
+      "नामधातु क्रिया",
+      "अकर्मक क्रिया"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "मुख्य क्रिया और रंजक क्रिया के संयोग से गठित क्रिया पद 'संयुक्त क्रिया' कहलाते हैं।"
+  },
+  {
+    "classLevel": 6,
+    "subject": "Hindi Grammar",
+    "chapter": "Chapter 10: क्रिया",
+    "question": "मुख्य क्रिया से पहले होने वाली क्रिया (जिसमें प्रायः 'कर' या 'करके' लगा होता है, जैसे: 'वह **नहाकर** विद्यालय गया') को क्या कहते हैं?",
+    "options": [
+      "पूर्वकालिक क्रिया (Absolutive / Preceding Verb)",
+      "सहायक क्रिया",
+      "नामधातु क्रिया",
+      "अकर्मक क्रिया"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "समापिका क्रिया से पूर्व निष्पादित क्रिया 'पूर्वकालिक क्रिया' कहलाती है (जैसे: पढ़कर, खेलकर, खाकर)।"
+  },
+  {
+    "classLevel": 6,
+    "subject": "Hindi Grammar",
+    "chapter": "Chapter 10: क्रिया",
+    "question": "मुख्य क्रिया के साथ जुड़कर काल और अर्थ को स्पष्ट करने वाली क्रिया (जैसे: 'है', 'था', 'रहा है', 'होगा') को क्या कहते हैं?",
+    "options": [
+      "सहायक क्रिया (Auxiliary Verb)",
+      "मूल धातु",
+      "कर्म",
+      "विशेष्य"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "काल और पक्ष की सिद्धि में मुख्य क्रिया की सहायता करने वाले पद 'सहायक क्रिया' कहलाते हैं।"
+  },
+  {
+    "classLevel": 6,
+    "subject": "Hindi Grammar",
+    "chapter": "Chapter 10: क्रिया",
+    "question": "वाक्य में प्रयुक्त क्रिया का सही भेद पहचानिए:\n'रोहन मैदान में पतंग **उड़ा रहा है**।'",
+    "options": [
+      "सकर्मक क्रिया (कर्म = 'पतंग')",
+      "अकर्मक क्रिया",
+      "प्रेरणार्थक क्रिया",
+      "नामधातु क्रिया"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "प्रश्न: 'क्या उड़ा रहा है?' -> उत्तर: 'पतंग' (कर्म उपस्थित है, अतः सकर्मक क्रिया है)।"
+  },
+  {
+    "classLevel": 6,
+    "subject": "Hindi Grammar",
+    "chapter": "Chapter 10: क्रिया",
+    "question": "वाक्य में प्रयुक्त क्रिया का सही भेद पहचानिए:\n'आकाश में पक्षी **उड़ रहे हैं**।'",
+    "options": [
+      "अकर्मक क्रिया (उड़ने का फल कर्ता 'पक्षी' पर है, कोई कर्म नहीं है)",
+      "सकर्मक क्रिया",
+      "द्विकर्मक क्रिया",
+      "प्रेरणार्थक क्रिया"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "यहाँ 'आकाश में' अधिकरण कारक (स्थान) है, कर्म नहीं; उड़ने का व्यापार कर्ता में घटित हो रहा है, अतः अकर्मक क्रिया है।"
+  },
+  {
+    "classLevel": 6,
+    "subject": "Hindi Grammar",
+    "chapter": "Chapter 10: क्रिया",
+    "question": "निम्नलिखित में से स्वाभाविक रूप से 'अकर्मक क्रियाओं' का सही समूह कौन-सा है?",
+    "options": [
+      "हँसना, रोना, सोना, जागना, उड़ना, तैरना, बैठना, चलना",
+      "पढ़ना, लिखना, खाना, पीना, देखना, बनाना",
+      "काटना, धोना, सिलना, बेचना",
+      "पकाना, सिखाना, दिलाना"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "शारीरिक स्थितियाँ एवं स्वाभाविक गतियाँ (हँसना, रोना, सोना, दौड़ना) स्वतः अकर्मक क्रियाएँ होती हैं।"
+  },
+  {
+    "classLevel": 6,
+    "subject": "Hindi Grammar",
+    "chapter": "Chapter 10: क्रिया",
+    "question": "प्रेरणार्थक क्रिया के दो रूप (प्रथम प्रेरणार्थक और द्वितीय प्रेरणार्थक) का सही उदाहरण कौन-सा है?",
+    "options": [
+      "मूल: पढ़ना -> प्रथम: पढ़ाना -> द्वितीय: पढ़वाना",
+      "मूल: खाना -> प्रथम: खाया -> द्वितीय: खाएगा",
+      "मूल: चलना -> प्रथम: चला -> द्वितीय: चल",
+      "मूल: लिखना -> प्रथम: लिखा -> द्वितीय: लेख"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "प्रथम प्रेरणार्थक में '-आना' (पढ़ाना) तथा द्वितीय प्रेरणार्थक में '-वाना' (पढ़वाना) प्रत्यय जुड़ता है।"
+  },
+  {
+    "classLevel": 6,
+    "subject": "Hindi Grammar",
+    "chapter": "Chapter 10: क्रिया",
+    "question": "वाक्य में प्रयुक्त दोनों कर्मों की सही पहचान कीजिए:\n'पिता जी ने **पुत्र को** **घड़ी** दी।'",
+    "options": [
+      "घड़ी = मुख्य कर्म (प्रत्यक्ष/निर्जीव) ; पुत्र = गौण कर्म (अप्रत्यक्ष/सजीव)",
+      "घड़ी = गौण कर्म ; पुत्र = मुख्य कर्म",
+      "दोनों मुख्य कर्म हैं",
+      "दोनों गौण कर्म हैं"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "'क्या दिया?' -> घड़ी (मुख्य कर्म); 'किसे दिया?' -> पुत्र को (गौण कर्म)।"
+  },
+  {
+    "classLevel": 6,
+    "subject": "Hindi Grammar",
+    "chapter": "Chapter 10: क्रिया",
+    "question": "संज्ञा शब्द 'लाठी' और 'फिल्म' से बनने वाली सही नामधातु क्रियाएँ क्रमशः क्या हैं?",
+    "options": [
+      "लठियाना और फिल्माना",
+      "लाठना और फिल्मना",
+      "लाठी चलाना और फिल्म देखना",
+      "लठैत और फिल्मी"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "लाठी -> लठियाना; फिल्म -> फिल्माना (नामधातु क्रियाएँ)।"
+  },
+  {
+    "classLevel": 6,
+    "subject": "Hindi Grammar",
+    "chapter": "Chapter 10: क्रिया",
+    "question": "विशेषण शब्द 'चिकना' और 'अपना' (सर्वनाम) से बनने वाली सही नामधातु क्रियाएँ क्या हैं?",
+    "options": [
+      "चिकनाना और अपनाना",
+      "चिकनाई और अपनापन",
+      "चिकना करना और अपना होना",
+      "चिकनी और अपनी"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "चिकना (विशेषण) -> चिकनाना; अपना (सर्वनाम) -> अपनाना।"
+  },
+  {
+    "classLevel": 6,
+    "subject": "Hindi Grammar",
+    "chapter": "Chapter 10: क्रिया",
+    "question": "वाक्य में प्रयुक्त रेखांकित पद का क्रिया भेद बताइए:\n'वह पत्र **लिखवाता है**।'",
+    "options": [
+      "प्रेरणार्थक क्रिया (कर्ता स्वयं न लिखकर किसी दूसरे से लिखवाता है)",
+      "अकर्मक क्रिया",
+      "नामधातु क्रिया",
+      "पूर्वकालिक क्रिया"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "'लिखवाना' द्वितीय प्रेरणार्थक क्रिया है, जिसमें कर्ता प्रेरक बनकर अन्य से कार्य संपन्न कराता है।"
+  },
+  {
+    "classLevel": 6,
+    "subject": "Hindi Grammar",
+    "chapter": "Chapter 10: क्रिया",
+    "question": "वाक्य में प्रयुक्त रेखांकित पद का क्रिया भेद बताइए:\n'छात्र पुस्तक **पढ़कर** सो गया।'",
+    "options": [
+      "पूर्वकालिक क्रिया ('पढ़कर' सोने की मुख्य क्रिया से पूर्व संपन्न हुई है)",
+      "नामधातु क्रिया",
+      "सहायक क्रिया",
+      "प्रेरणार्थक क्रिया"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "सोने से पूर्व 'पढ़ना' क्रिया पूर्ण हुई है, अतः 'पढ़कर' पूर्वकालिक क्रिया है।"
+  },
+  {
+    "classLevel": 6,
+    "subject": "Hindi Grammar",
+    "chapter": "Chapter 10: क्रिया",
+    "question": "संयुक्त क्रिया 'रोहन खेलने लगा' में मुख्य क्रिया और रंजक (सहायक) क्रिया कौन-सी है?",
+    "options": [
+      "'खेलने' = मुख्य क्रिया ; 'लगा' = रंजक/सहायक क्रिया",
+      "'लगा' = मुख्य क्रिया ; 'खेलने' = सहायक",
+      "दोनों मुख्य क्रियाएँ हैं",
+      "कोई क्रिया नहीं है"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "'खेलने' मुख्य अर्थ दे रहा है, और 'लगा' क्रिया के आरंभ होने का रंजक अर्थ जोड़ रहा है।"
+  },
+  {
+    "classLevel": 6,
+    "subject": "Hindi Grammar",
+    "chapter": "Chapter 10: क्रिया",
+    "question": "वाक्य में प्रयुक्त क्रिया का लिंग और वचन किसके अनुसार निर्धारित होता है?",
+    "options": [
+      "सामान्यतः कर्ता के लिंग-वचन के अनुसार ; किन्तु कर्मवाच्य में अथवा कर्ता के साथ 'ने' परसर्ग होने पर कर्म के लिंग-वचन के अनुसार",
+      "हमेशा केवल विशेषण के अनुसार",
+      "हमेशा केवल क्रियाविशेषण के अनुसार",
+      "क्रिया का कोई लिंग-वचन नहीं होता"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "कर्तृप्रयोग में क्रिया कर्ता के अनुसार और कर्मणिप्रयोग (जैसे 'राम ने रोटी खाई') में कर्म के अनुसार प्रयुक्त होती है।"
+  },
+  {
+    "classLevel": 6,
+    "subject": "Hindi Grammar",
+    "chapter": "Chapter 10: क्रिया",
+    "question": "वाक्य में क्रिया का सही प्रयोग पहचानिए:\n'सुधा ने एक मधुर गीत _______।'",
+    "options": [
+      "गाया (कर्म 'गीत' पुल्लिंग एकवचन है, अतः क्रिया 'गाया' होगी)",
+      "गाई",
+      "गाए",
+      "गायीं"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "'ने' परसर्ग होने पर भूतकाल में क्रिया कर्म ('गीत' - पुल्लिंग एकवचन) के अनुसार 'गाया' होगी।"
+  },
+  {
+    "classLevel": 6,
+    "subject": "Hindi Grammar",
+    "chapter": "Chapter 10: क्रिया",
+    "question": "अनुकरणात्मक धातुओं (ध्वनियों के अनुकरण से बनने वाली क्रियाएँ) का सही उदाहरण कौन-सा है?",
+    "options": [
+      "भिनभिनाना (मक्खी), खटखटाना (दरवाजा), हिनहिनाना (घोड़ा), टिमटिमाना (तारे), फड़फड़ाना (पंख)",
+      "पढ़ना और लिखना",
+      "जाना और आना",
+      "रोना और हँसना"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "ध्वनि के अनुकरण पर गढ़ी गई धातुएँ अनुकरणात्मक नामधातु क्रियाएँ कहलाती हैं (खटखट -> खटखटाना)।"
+  },
+  {
+    "classLevel": 6,
+    "subject": "Hindi Grammar",
+    "chapter": "Chapter 10: क्रिया",
+    "question": "वाक्य में प्रयुक्त रेखांकित पद का क्रिया भेद बताइए:\n'माली पौधों को पानी **दे रहा है**।'",
+    "options": [
+      "सकर्मक क्रिया (कर्म = 'पानी')",
+      "अकर्मक क्रिया",
+      "नामधातु क्रिया",
+      "प्रेरणार्थक क्रिया"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "'क्या दे रहा है?' -> पानी (कर्म उपस्थित है, अतः सकर्मक क्रिया है)।"
+  },
+  {
+    "classLevel": 6,
+    "subject": "Hindi Grammar",
+    "chapter": "Chapter 10: क्रिया",
+    "question": "मूल धातु 'हँसना' का प्रथम और द्वितीय प्रेरणार्थक रूप क्या होगा?",
+    "options": [
+      "हँसाना (प्रथम) और हँसवाना (द्वितीय)",
+      "हँसा और हँसाया",
+      "हँसी और हँसमुख",
+      "हँसता और हँसेगा"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "हँसना -> हँसाना -> हँसवाना।"
+  },
+  {
+    "classLevel": 6,
+    "subject": "Hindi Grammar",
+    "chapter": "Chapter 10: क्रिया",
+    "question": "वाक्य में प्रयुक्त रेखांकित पद का क्रिया भेद बताइए:\n'शाम होते ही सूरज **डूब गया**।'",
+    "options": [
+      "अकर्मक संयुक्त क्रिया (डूबना + जाना)",
+      "सकर्मक क्रिया",
+      "प्रेरणार्थक क्रिया",
+      "नामधातु क्रिया"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "डूबने का फल कर्ता 'सूरज' पर है और यह 'डूबना' + 'गया' दो धातुओं से मिलकर बनी अकर्मक संयुक्त क्रिया है।"
+  },
+  {
+    "classLevel": 6,
+    "subject": "Hindi Grammar",
+    "chapter": "Chapter 10: क्रिया",
+    "question": "कथन और कारण को ध्यानपूर्वक पढ़ें:\nकथन (A): 'बच्चा रात भर रोता रहा' वाक्य में 'रोता रहा' अकर्मक क्रिया है, भले ही वाक्य में 'रात भर' शब्द आया हो।\nकारण (R): 'रात भर' कालवाचक क्रियाविशेषण (समय का द्योतक) है, कर्म नहीं; रोने की क्रिया का फल केवल कर्ता (बच्चा) पर पड़ता है।\nसही विकल्प चुनें:",
+    "options": [
+      "(A) और (R) दोनों सही हैं तथा (R), (A) की सही व्याख्या करता है।",
+      "(A) और (R) दोनों सही हैं, परन्तु (R), (A) की सही व्याख्या नहीं करता।",
+      "(A) सही है, परन्तु (R) गलत है।",
+      "(A) गलत है, परन्तु (R) सही है।"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "काल/स्थान सूचक पद क्रियाविशेषण होते हैं, कर्म नहीं; अतः स्वाभाविक अकर्मक क्रिया अकर्मक ही रहती है।"
+  },
+  {
+    "classLevel": 6,
+    "subject": "Hindi Grammar",
+    "chapter": "Chapter 10: क्रिया",
+    "question": "Spot the IMPOSTER in the following group of क्रिया और उनके भेदों के युग्म में:\nGroup: [पढ़ना - सकर्मक, हँसना - अकर्मक, लिखना - सकर्मक, सोना - सकर्मक]",
+    "options": [
+      "पढ़ना - सकर्मक",
+      "हँसना - अकर्मक",
+      "लिखना - सकर्मक",
+      "सोना - सकर्मक"
+    ],
+    "correctAnswer": 3,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "'सोना - सकर्मक' अशुद्ध युग्म है; 'सोना' स्वाभाविक अकर्मक क्रिया (Intransitive Verb) है, सकर्मक नहीं।"
+  },
+  {
+    "classLevel": 6,
+    "subject": "Hindi Grammar",
+    "chapter": "Chapter 10: क्रिया",
+    "question": "सुमेलित कीजिए (क्रिया के रूप और उनके व्याकरणिक भेद):\n(क) हथियाना   -> (i) पूर्वकालिक क्रिया\n(ख) पिलवाना    -> (ii) नामधातु क्रिया\n(ग) खाकर      -> (iii) संयुक्त क्रिया\n(घ) चल पड़ा   -> (iv) द्वितीय प्रेरणार्थक क्रिया",
+    "options": [
+      "क-(ii), ख-(iv), ग-(i), घ-(iii)",
+      "क-(i), ख-(ii), ग-(iii), घ-(iv)",
+      "क-(iv), ख-(iii), ग-(ii), घ-(i)",
+      "क-(iii), ख-(iv), ग-(i), घ-(ii)"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "हथियाना = नामधातु; पिलवाना = द्वितीय प्रेरणार्थक; खाकर = पूर्वकालिक; चल पड़ा = संयुक्त क्रिया।"
+  },
+  {
+    "classLevel": 6,
+    "subject": "Hindi Grammar",
+    "chapter": "Chapter 10: क्रिया",
+    "question": "सजातीय क्रिया (Cognate Verb) का सही उदाहरण कौन-सा है?",
+    "options": [
+      "भारत ने पाकिस्तान के विरुद्ध **शानदार लड़ाई लड़ी**। (कर्म 'लड़ाई' और क्रिया 'लड़ी' एक ही 'लड़' धातु से बने हैं)",
+      "उसने पानी पिया।",
+      "वह घर गया।",
+      "बच्चा खेल रहा है।"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "जब कर्म और क्रिया दोनों एक ही मूल धातु से व्युत्पन्न हों (जैसे: लड़ाई लड़ी, चाल चली), तो उसे 'सजातीय क्रिया' कहते हैं।"
+  },
+  {
+    "classLevel": 6,
+    "subject": "Hindi Grammar",
+    "chapter": "Chapter 10: क्रिया",
+    "question": "कृदंत क्रिया (Participle Verb) और तद्धित में क्या अंतर है?",
+    "options": [
+      "धातुओं (क्रिया मूलों) में प्रत्यय जुड़ने से बनने वाले क्रिया रूप 'कृदंत' कहलाते हैं (जैसे: लिख + ता = लिखता) ; जबकि संज्ञा/सर्वनाम/विशेषण से बनने वाले रूप 'तद्धित' कहलाते हैं",
+      "कृदंत केवल अव्यय होते हैं",
+      "तद्धित में धातु होती है",
+      "दोनों में कोई अंतर नहीं है"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "धातु + प्रत्यय = कृदंत (लिखकर, पढ़ता, दौड़ा); संज्ञा/सर्वनाम + प्रत्यय = तद्धित/नामधातु।"
+  },
+  {
+    "classLevel": 6,
+    "subject": "Hindi Grammar",
+    "chapter": "Chapter 10: क्रिया",
+    "question": "निम्नलिखित वाक्यों में से किस वाक्य में 'अकर्मक क्रिया' प्रयुक्त हुई है?",
+    "options": [
+      "'मजदूर दिन भर से पसीना बहाकर **सो रहा है**।'",
+      "'मजदूर सड़क बना रहा है।'",
+      "'छात्र निबंध लिख रहा है।'",
+      "'रसोइया खाना पका रहा है।'"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "'सो रहा है' अकर्मक क्रिया है; शेष तीनों वाक्यों में कर्म (सड़क, निबंध, खाना) उपस्थित हैं।"
+  },
+  {
+    "classLevel": 6,
+    "subject": "Hindi Grammar",
+    "chapter": "Chapter 10: क्रिया",
+    "question": "तात्कालिक कृदंत क्रिया का सही उदाहरण कौन-सा है?",
+    "options": [
+      "'शेर को **देखते ही** शिकारी भाग गया।' ('देखते ही' एक क्रिया के तुरंत बाद दूसरी क्रिया का बोध कराती है)",
+      "'वह पढ़कर सोया।'",
+      "'वह गाना गाता है।'",
+      "'वह चला गया।'"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "धातु + 'ते ही' लगकर तत्क्षण दूसरी क्रिया का संपादन सूचित करने वाली क्रिया 'तात्कालिक कृदंत' कहलाती है।"
+  },
+  {
+    "classLevel": 6,
+    "subject": "Hindi Grammar",
+    "chapter": "Chapter 10: क्रिया",
+    "question": "वाक्य में प्रयुक्त रेखांकित पद का व्याकरणिक परिचय दीजिए:\n'राघव ने भिखारी को **भोजन कराया**।'",
+    "options": [
+      "प्रेरणार्थक सकर्मक क्रिया (कर्म = 'भोजन')",
+      "अकर्मक क्रिया",
+      "पूर्वकालिक क्रिया",
+      "नामधातु क्रिया"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "'कराया' प्रेरणार्थक क्रिया है और 'भोजन' कर्म है, अतः प्रेरणार्थक सकर्मक क्रिया है।"
+  },
+  {
+    "classLevel": 6,
+    "subject": "Hindi Grammar",
+    "chapter": "Chapter 10: क्रिया",
+    "question": "अकर्मक धातुओं को सकर्मक धातुओं में बदलने का सही नियम कौन-सा है?",
+    "options": [
+      "हँसना (अकर्मक) -> हँसाना (सकर्मक) ; गिरना (अकर्मक) -> गिराना (सकर्मक) ; कटना (अकर्मक) -> काटना (सकर्मक)",
+      "केवल 'ना' हटाकर",
+      "केवल विसर्ग लगाकर",
+      "अकर्मक को कभी सकर्मक नहीं बनाया जा सकता"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "अकर्मक धातुओं में आ/वा प्रत्यय जोड़कर या आदि स्वर दीर्घ करके सकर्मक क्रिया बनाई जाती है (कटना -> काटना, गिरना -> गिराना)।"
+  },
+  {
+    "classLevel": 6,
+    "subject": "Hindi Grammar",
+    "chapter": "Chapter 10: क्रिया",
+    "question": "संयुक्त क्रिया के मुख्य 11 अर्थगत भेदों में से 'आरंभबोधक' और 'समाप्तिबोधक' का सही युग्म कौन-सा है?",
+    "options": [
+      "'वह **गाने लगा**' (आरंभबोधक) और 'वह **खा चुका**' (समाप्तिबोधक)",
+      "'वह जा सकता है' और 'वह गया'",
+      "'वह खेला' और 'वह दौड़ा'",
+      "'पढ़ना' और 'लिखना'"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "'धातु + लगना' = आरंभबोधक (हँसने लगा); 'धातु + चुकना' = समाप्तिबोधक (पढ़ चुका)।"
+  },
+  {
+    "classLevel": 6,
+    "subject": "Hindi Grammar",
+    "chapter": "Chapter 10: क्रिया",
+    "question": "वाक्य को क्रिया की दृष्टि से मानक रूप में शुद्ध कीजिए:\n'मेरे चाचा जी आए हैं, वह कल जाएगा।'",
+    "options": [
+      "'मेरे चाचा जी आए हैं, वे कल जाएँगे।' (आदरार्थक बहुवचन कर्ता के साथ क्रिया बहुवचन 'जाएँगे' होगी)",
+      "मेरे चाचा जी आया है, वह जाएगा।",
+      "चाचा जी आया, जाएगा कल।",
+      "मेरे चाचा आए, वह कल जाते।"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "आदरणीय व्यक्ति के लिए सर्वनाम 'वे' तथा क्रिया बहुवचन 'जाएँगे' शुद्ध मानक व्याकरण है।"
+  },
+  {
+    "classLevel": 6,
+    "subject": "Hindi Grammar",
+    "chapter": "Chapter 10: क्रिया",
+    "question": "क्रिया का वाक्य में क्या सर्वोच्च महत्व होता है?",
+    "options": [
+      "क्रिया वाक्य का अनिवार्य केंद्र (हृदय) होती है; बिना क्रिया के कोई भी सार्थक वाक्य पूर्ण नहीं हो सकता",
+      "क्रिया केवल कविता में उपयोगी है",
+      "क्रिया के बिना भी वाक्य पूरे अर्थ दे सकते हैं",
+      "क्रिया केवल काल बताती है और कुछ नहीं"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "क्रिया वाक्य का अनिवार्य विधेय तत्व है, जिसके बिना वाक्य की विचार-अभिव्यक्ति असंभव है।"
+  }
+]

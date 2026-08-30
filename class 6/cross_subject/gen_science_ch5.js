@@ -1,0 +1,550 @@
+import fs from 'fs';
+
+// -------------------------------------------------------------
+// SUBJECT 1: Science - Chapter 5: Body Movements (40 Questions)
+// -------------------------------------------------------------
+const scienceQuestions = [
+  // EASY (12)
+  {
+    classLevel: 6,
+    subject: "Science",
+    chapter: "Chapter 5: Body Movements",
+    question: "The hard, internal bony framework that supports, gives shape, and protects the internal organs of the human body is called the:",
+    options: ["Skeleton (Human Skeletal System)", "Muscular system", "Digestive system", "Circulatory system"],
+    correctAnswer: 0,
+    difficulty: "EASY",
+    damage: 150,
+    explanation: "The human skeleton consists of 206 bones in adults, providing mechanical structure, protection, and levers for movement."
+  },
+  {
+    classLevel: 6,
+    subject: "Science",
+    chapter: "Chapter 5: Body Movements",
+    question: "The anatomical place or point where two or more bones meet and join together is called a:",
+    options: ["Joint (Articulation)", "Muscle", "Tendon", "Cartilage"],
+    correctAnswer: 0,
+    difficulty: "EASY",
+    damage: 150,
+    explanation: "Joints are structural articulations between bones allowing varying degrees of flexibility and bodily movement."
+  },
+  {
+    classLevel: 6,
+    subject: "Science",
+    chapter: "Chapter 5: Body Movements",
+    question: "Which type of movable joint allows complete rotational movement in ALL directions (360°), found at the shoulder and hip?",
+    options: ["Ball and Socket Joint", "Hinge Joint", "Pivot Joint", "Fixed Joint"],
+    correctAnswer: 0,
+    difficulty: "EASY",
+    damage: 150,
+    explanation: "The spherical head of one bone fits into the cup-like cavity of another, enabling multi-axial 360° rotatory movement."
+  },
+  {
+    classLevel: 6,
+    subject: "Science",
+    chapter: "Chapter 5: Body Movements",
+    question: "Which type of joint allows movement in only ONE single plane (back and forth like a door hinge), found at the elbow and knee?",
+    options: ["Hinge Joint", "Ball and Socket Joint", "Pivot Joint", "Fixed Joint"],
+    correctAnswer: 0,
+    difficulty: "EASY",
+    damage: 150,
+    explanation: "Hinge joints permit angular flexion and extension along a single transverse axis, resembling a door hinge."
+  },
+  {
+    classLevel: 6,
+    subject: "Science",
+    chapter: "Chapter 5: Body Movements",
+    question: "The joint where our neck joins the head, allowing us to bend our head forward/backward and turn it to the right/left, is a:",
+    options: ["Pivotal Joint (Pivot Joint)", "Hinge Joint", "Ball and Socket Joint", "Fixed Joint"],
+    correctAnswer: 0,
+    difficulty: "EASY",
+    damage: 150,
+    explanation: "The atlanto-axial pivotal joint allows a cylindrical bone to rotate within a ring formed by bone and ligament."
+  },
+  {
+    classLevel: 6,
+    subject: "Science",
+    chapter: "Chapter 5: Body Movements",
+    question: "The bones in our head (cranium/skull) that are fused together tightly and CANNOT move at all are examples of:",
+    options: ["Fixed Joints (Immovable Joints / Sutures)", "Hinge Joints", "Pivotal Joints", "Gliding Joints"],
+    correctAnswer: 0,
+    difficulty: "EASY",
+    damage: 150,
+    explanation: "Cranial skull bones are united by fibrous immovable suture joints to shield the delicate brain from injury."
+  },
+  {
+    classLevel: 6,
+    subject: "Science",
+    chapter: "Chapter 5: Body Movements",
+    question: "Which is the ONLY movable bone in the human skull, enabling us to chew food and speak?",
+    options: ["Lower Jaw bone (Mandible)", "Upper Jaw bone (Maxilla)", "Nasal bone", "Forehead bone (Frontal)"],
+    correctAnswer: 0,
+    difficulty: "EASY",
+    damage: 150,
+    explanation: "The mandible articulates via the temporomandibular joint, making it the skull's only dynamic movable bone."
+  },
+  {
+    classLevel: 6,
+    subject: "Science",
+    chapter: "Chapter 5: Body Movements",
+    question: "The curved bones that join the chest bone (sternum) and the backbone together to form a protective cage around the heart and lungs are called:",
+    options: ["Ribs (forming the Rib Cage)", "Vertebrae", "Pelvis", "Clavicles"],
+    correctAnswer: 0,
+    difficulty: "EASY",
+    damage: 150,
+    explanation: "12 pairs of curved ribs form the thoracic cage, shielding the heart, lungs, and major blood vessels."
+  },
+  {
+    classLevel: 6,
+    subject: "Science",
+    chapter: "Chapter 5: Body Movements",
+    question: "How many pairs of ribs are there in the normal human rib cage?",
+    options: ["12 pairs (24 ribs total)", "10 pairs", "14 pairs", "7 pairs"],
+    correctAnswer: 0,
+    difficulty: "EASY",
+    damage: 150,
+    explanation: "There are 12 bilateral pairs of ribs: 7 true ribs, 3 false ribs, and 2 floating rib pairs."
+  },
+  {
+    classLevel: 6,
+    subject: "Science",
+    chapter: "Chapter 5: Body Movements",
+    question: "The long, flexible column running along our back made up of 33 small individual bones (vertebrae) is the:",
+    options: ["Backbone (Spine / Vertebral Column)", "Rib cage", "Pelvic bone", "Femur"],
+    correctAnswer: 0,
+    difficulty: "EASY",
+    damage: 150,
+    explanation: "The vertebral column consists of 33 stacked vertebrae that protect the spinal cord and allow torso bending."
+  },
+  {
+    classLevel: 6,
+    subject: "Science",
+    chapter: "Chapter 5: Body Movements",
+    question: "The softer, flexible connective tissue that is not as hard as bone and can be bent, found in the upper ear lobe and tip of the nose, is:",
+    options: ["Cartilage", "Ligament", "Tendon", "Muscle"],
+    correctAnswer: 0,
+    difficulty: "EASY",
+    damage: 150,
+    explanation: "Cartilage is an avascular, flexible cartilaginous matrix cushioning joints and structuring the external pinna."
+  },
+  {
+    classLevel: 6,
+    subject: "Science",
+    chapter: "Chapter 5: Body Movements",
+    question: "What are the specialized contractile tissues that work in coordinated antagonistic pairs (contraction and relaxation) to pull bones and cause movement?",
+    options: ["Muscles (e.g., Biceps and Triceps)", "Cartilage", "Nerves", "Blood vessels"],
+    correctAnswer: 0,
+    difficulty: "EASY",
+    damage: 150,
+    explanation: "Muscles can only pull (contract) and cannot push; hence they operate in antagonistic pairs to flex and extend limbs."
+  },
+
+  // MEDIUM (16)
+  {
+    classLevel: 6,
+    subject: "Science",
+    chapter: "Chapter 5: Body Movements",
+    question: "Why do muscles always operate in PAIRS to move a bone at a joint?",
+    options: [
+      "A muscle can only pull (contract) and cannot push; when one contracts to pull a bone, the other relaxes, and vice versa to return it",
+      "Because one muscle is always sleeping",
+      "To make bones heavier",
+      "Because bones have two heads"
+    ],
+    correctAnswer: 0,
+    difficulty: "MEDIUM",
+    damage: 250,
+    explanation: "Muscle fiber sliding-filament contraction exerts unidirectional tensile pulling force; returning the limb requires an antagonistic counter-pull."
+  },
+  {
+    classLevel: 6,
+    subject: "Science",
+    chapter: "Chapter 5: Body Movements",
+    question: "How does an Earthworm crawl forward on the ground without having any internal bones?",
+    options: [
+      "By alternate cycles of muscular contraction and expansion of body segments, aided by tiny hair-like bristles (setae) that grip the soil",
+      "By rolling like a ball",
+      "By using wings to glide",
+      "By jumping with legs"
+    ],
+    correctAnswer: 0,
+    difficulty: "MEDIUM",
+    damage: 250,
+    explanation: "Peristaltic hydrostatic locomotion: circular and longitudinal muscle waves coordinate with anchoring chitinous setae."
+  },
+  {
+    classLevel: 6,
+    subject: "Science",
+    chapter: "Chapter 5: Body Movements",
+    question: "What organ does a Snail use for locomotion, and what substance does it secrete to glide smoothly over sharp surfaces?",
+    options: [
+      "A strong muscular foot, secreting a slimy layer of lubricating mucus",
+      "Jointed legs, secreting wax",
+      "Wings, secreting water",
+      "A bony tail, secreting oil"
+    ],
+    correctAnswer: 0,
+    difficulty: "MEDIUM",
+    damage: 250,
+    explanation: "The ventral muscular foot produces retrograde pedal muscular waves over a protective friction-reducing mucus layer."
+  },
+  {
+    classLevel: 6,
+    subject: "Science",
+    chapter: "Chapter 5: Body Movements",
+    question: "How many pairs of walking legs and how many pairs of wings does a Cockroach have attached to its thorax?",
+    options: ["3 pairs of legs (6 legs) and 2 pairs of wings (4 wings)", "4 pairs of legs and 1 pair of wings", "2 pairs of legs and 2 pairs of wings", "5 pairs of legs and 0 wings"],
+    correctAnswer: 0,
+    difficulty: "MEDIUM",
+    damage: 250,
+    explanation: "Cockroach hexapod anatomy: three thoracic segments bear three pairs of jointed ambulatory legs and two pairs of wings."
+  },
+  {
+    classLevel: 6,
+    subject: "Science",
+    chapter: "Chapter 5: Body Movements",
+    question: "What anatomical adaptations enable Birds to fly efficiently in the air?",
+    options: [
+      "Hollow and light pneumatic bones, forelimbs modified into wings with flight feathers, and powerful pectoral breast muscles attached to a deep breastbone",
+      "Heavy solid bones to resist wind",
+      "Lack of heart and lungs",
+      "A heavy tail made of steel"
+    ],
+    correctAnswer: 0,
+    difficulty: "MEDIUM",
+    damage: 250,
+    explanation: "Avian flight requires pneumatic skeletal weight reduction, aerodynamic wing camber, and hypertrophied supracoracoideus/pectoralis flight muscles."
+  },
+  {
+    classLevel: 6,
+    subject: "Science",
+    chapter: "Chapter 5: Body Movements",
+    question: "What is the characteristic 'streamlined' body shape of a Fish, and how does it assist aquatic swimming?",
+    options: [
+      "The head and tail are narrower than the middle portion, minimizing fluid resistance and drag as it glides through water",
+      "A square flat shape that traps water",
+      "A circular spherical shape",
+      "A long straight line without curves"
+    ],
+    correctAnswer: 0,
+    difficulty: "MEDIUM",
+    damage: 250,
+    explanation: "Fusiform hydrodynamic streamlining reduces laminar drag, skin friction, and wake vortices during underwater propulsion."
+  },
+  {
+    classLevel: 6,
+    subject: "Science",
+    chapter: "Chapter 5: Body Movements",
+    question: "How does a Fish propel itself forward through water using its body and caudal (tail) fin?",
+    options: [
+      "By curving its flexible body into alternating side-to-side loops (undulations), where the tail fin pushes water in the opposite direction creating forward thrust",
+      "By sucking in water through its nose",
+      "By walking on underwater sand",
+      "By floating motionless"
+    ],
+    correctAnswer: 0,
+    difficulty: "MEDIUM",
+    damage: 250,
+    explanation: "Alternating lateral myotomal muscle contractions produce undulating waves along the spine, ending in a propulsive caudal thrust."
+  },
+  {
+    classLevel: 6,
+    subject: "Science",
+    chapter: "Chapter 5: Body Movements",
+    question: "How does a Snake move rapidly across ground without having any limbs or legs?",
+    options: [
+      "By slithering in S-shaped sinusoidal loops; each loop presses against the ground to push the snake forward",
+      "By rolling like a wheel",
+      "By jumping on its tail",
+      "By walking on tiny invisible legs"
+    ],
+    correctAnswer: 0,
+    difficulty: "MEDIUM",
+    damage: 250,
+    explanation: "Serpentine lateral undulation: wave curves along hundreds of vertebrae and ribs exert posterior force against ground irregularities."
+  },
+  {
+    classLevel: 6,
+    subject: "Science",
+    chapter: "Chapter 5: Body Movements",
+    question: "Why do snakes move in deep wave-like curves and NEVER in a perfectly straight line during rapid slithering?",
+    options: [
+      "Each lateral loop of its long flexible body pushes against surface irregularities to generate forward momentum",
+      "Snakes have crooked eyes",
+      "Straight paths make snakes dizzy",
+      "Snakes cannot bend their bones"
+    ],
+    correctAnswer: 0,
+    difficulty: "MEDIUM",
+    damage: 250,
+    explanation: "Lateral undulation requires curved contact zones where body angles transfer vector thrust against friction points."
+  },
+  {
+    classLevel: 6,
+    subject: "Science",
+    chapter: "Chapter 5: Body Movements",
+    question: "What is an X-ray radiograph used for in medical diagnostic science?",
+    options: [
+      "To capture photographic shadow images of dense bones and detect fractures, dislocations, or skeletal injuries",
+      "To check blood color",
+      "To count hairs on the head",
+      "To measure eye vision"
+    ],
+    correctAnswer: 0,
+    difficulty: "MEDIUM",
+    damage: 250,
+    explanation: "High-density calcium in bones absorbs X-ray photons, casting sharp white silhouettes on radiographic film to reveal fractures."
+  },
+  {
+    classLevel: 6,
+    subject: "Science",
+    chapter: "Chapter 5: Body Movements",
+    question: "Which anatomical joint in the human body is formed by the Pelvic bone joining the upper leg bone (Femur)?",
+    options: ["Hip Joint (Ball and Socket Joint)", "Knee Joint (Hinge Joint)", "Ankle Joint", "Pivot Joint"],
+    correctAnswer: 0,
+    difficulty: "MEDIUM",
+    damage: 250,
+    explanation: "The femoral head inserts into the pelvic acetabulum socket, forming a stable weight-bearing ball-and-socket joint."
+  },
+  {
+    classLevel: 6,
+    subject: "Science",
+    chapter: "Chapter 5: Body Movements",
+    question: "What is the tough, fibrous connective tissue band that attaches a MUSCLE to a BONE called?",
+    options: ["Tendon", "Ligament", "Cartilage", "Joint capsule"],
+    correctAnswer: 0,
+    difficulty: "MEDIUM",
+    damage: 250,
+    explanation: "Tendons are collagenous bands transmitting contractile muscle forces to move skeletal bones."
+  },
+  {
+    classLevel: 6,
+    subject: "Science",
+    chapter: "Chapter 5: Body Movements",
+    question: "What is the strong fibrous connective tissue band that connects a BONE to another BONE at a joint called?",
+    options: ["Ligament", "Tendon", "Cartilage", "Myofibril"],
+    correctAnswer: 0,
+    difficulty: "MEDIUM",
+    damage: 250,
+    explanation: "Ligaments are strong elastomeric bands bridging bone-to-bone junctions to stabilize joint capsules."
+  },
+  {
+    classLevel: 6,
+    subject: "Science",
+    chapter: "Chapter 5: Body Movements",
+    question: "Why is the human backbone composed of 33 small vertebrae with intervertebral discs instead of one single, solid long bone?",
+    options: [
+      "If it were a single continuous bone, we would never be able to bend forward, backward, or twist our torso sideways",
+      "To make the body heavier",
+      "Because one long bone would melt",
+      "To store food inside"
+    ],
+    correctAnswer: 0,
+    difficulty: "MEDIUM",
+    damage: 250,
+    explanation: "Segmented multi-vertebral articulation provides multi-axis spinal flexibility, shock absorption, and bending."
+  },
+  {
+    classLevel: 6,
+    subject: "Science",
+    chapter: "Chapter 5: Body Movements",
+    question: "Which of the following animals possesses a hard external skeleton (Exoskeleton) made of chitin that is periodically molted?",
+    options: ["Cockroach and Crab", "Earthworm", "Fish", "Snake"],
+    correctAnswer: 0,
+    difficulty: "MEDIUM",
+    damage: 250,
+    explanation: "Arthropods (insects, crustaceans) possess a rigid cuticular chitinous exoskeleton encasing soft internal organs."
+  },
+  {
+    classLevel: 6,
+    subject: "Science",
+    chapter: "Chapter 5: Body Movements",
+    question: "What is the ancient philosophical Greek treatise 'Gait of Animals' (De Motu Animalium) that first analyzed the mechanics of animal locomotion authored by?",
+    options: ["Aristotle", "Plato", "Archimedes", "Socrates"],
+    correctAnswer: 0,
+    difficulty: "MEDIUM",
+    damage: 250,
+    explanation: "Aristotle authored 'Progression of Animals' and 'Movement of Animals', pioneering the comparative biomechanics of locomotion."
+  },
+
+  // HARD (12)
+  {
+    classLevel: 6,
+    subject: "Science",
+    chapter: "Chapter 5: Body Movements",
+    question: "Read the statements:\nAssertion (A): Earthworms are exceptional natural fertilizers of agricultural soil.\nReason (R): As an earthworm moves, it consumes organic-rich soil, digests decomposing matter, and deposits nutrient-dense worm castings that aerate and enrich the soil.\nChoose the correct option:",
+    options: [
+      "Both (A) and (R) are true, and (R) is the correct explanation of (A).",
+      "Both (A) and (R) are true, but (R) is NOT the correct explanation of (A).",
+      "(A) is true, but (R) is false.",
+      "(A) is false, but (R) is true."
+    ],
+    correctAnswer: 0,
+    difficulty: "HARD",
+    damage: 350,
+    explanation: "Earthworms are ecosystem vermicomposters whose burrowing aerates soil and castings deliver bioavailable nitrogen and minerals."
+  },
+  {
+    classLevel: 6,
+    subject: "Science",
+    chapter: "Chapter 5: Body Movements",
+    question: "Spot the IMPOSTER in the following group of anatomical joints paired with their locations in the human body:\nGroup: [Shoulder Joint - Ball and Socket, Elbow Joint - Hinge, Cranial Sutures - Fixed, Knee Joint - Pivot]",
+    options: ["Shoulder Joint - Ball and Socket", "Elbow Joint - Hinge", "Cranial Sutures - Fixed", "Knee Joint - Pivot"],
+    correctAnswer: 3,
+    difficulty: "HARD",
+    damage: 350,
+    explanation: "The Knee Joint is a modified HINGE JOINT (bicondylar hinge), NOT a pivot joint (the pivot joint is at the neck/atlas-axis)."
+  },
+  {
+    classLevel: 6,
+    subject: "Science",
+    chapter: "Chapter 5: Body Movements",
+    question: "A biomechanist observes the flight mechanics of a pigeon. What anatomical structures execute the 'downstroke' and 'upstroke' of the wings during flight?",
+    options: [
+      "The massive Pectoralis major breast muscle contracts for the powerful downstroke, while the Pectoralis minor (Supracoracoideus) pulls a tendon over a pulley to lift the wing in upstroke",
+      "The legs kick backwards",
+      "The neck turns left and right",
+      "Air is blown out from the tail"
+    ],
+    correctAnswer: 0,
+    difficulty: "HARD",
+    damage: 350,
+    explanation: "Avian triosseal canal pulley mechanism: Pectoralis major powers propulsive downstrokes, while supracoracoideus elevates wings for upstroke."
+  },
+  {
+    classLevel: 6,
+    subject: "Science",
+    chapter: "Chapter 5: Body Movements",
+    question: "Match Column I (Organisms) with Column II (Locomotory Organs / Mechanics):\n(a) Earthworm -> (i) Muscular foot with mucus trail\n(b) Snail     -> (ii) Hydrostatic body segments with setae\n(c) Cockroach -> (iii) Streamlined body with myotomes and fins\n(d) Fish      -> (iv) Jointed thoracic legs and chitinous wings",
+    options: [
+      "a-(ii), b-(i), c-(iv), d-(iii)",
+      "a-(i), b-(ii), c-(iii), d-(iv)",
+      "a-(iv), b-(iii), c-(ii), d-(i)",
+      "a-(iii), b-(iv), c-(i), d-(ii)"
+    ],
+    correctAnswer: 0,
+    difficulty: "HARD",
+    damage: 350,
+    explanation: "Earthworm = setae & segments; Snail = muscular foot; Cockroach = 6 legs & wings; Fish = streamlined myotome fins."
+  },
+  {
+    classLevel: 6,
+    subject: "Science",
+    chapter: "Chapter 5: Body Movements",
+    question: "Read the statements regarding skeletal anatomy:\nStatement 1: The human skull protects the brain, while the rib cage protects heart and lungs.\nStatement 2: Cartilage is present between the vertebrae of the backbone to prevent friction and absorb mechanical shocks.\nStatement 3: Muscles can both push and pull a bone with equal force.\nWhich statements are TRUE?",
+    options: ["Statements 1 and 2 only", "Statements 2 and 3 only", "Statements 1 and 3 only", "All Statements 1, 2, and 3"],
+    correctAnswer: 0,
+    difficulty: "HARD",
+    damage: 350,
+    explanation: "Statement 3 is false because muscle tissue can ONLY pull by contraction and cannot push. Statements 1 and 2 are biological facts."
+  },
+  {
+    classLevel: 6,
+    subject: "Science",
+    chapter: "Chapter 5: Body Movements",
+    question: "Why do underwater divers wear long, flipper-shaped swim fins on their feet?",
+    options: [
+      "To mimic the streamlined flat caudal fins of fish, maximizing water displacement thrust and swimming speed with minimal muscular effort",
+      "To keep their feet warm",
+      "To walk on the ocean floor like a crab",
+      "To float like a balloon"
+    ],
+    correctAnswer: 0,
+    difficulty: "HARD",
+    damage: 350,
+    explanation: "Flippers increase effective propulsive surface area, converting oscillating leg strokes into laminar hydrodynamic thrust."
+  },
+  {
+    classLevel: 6,
+    subject: "Science",
+    chapter: "Chapter 5: Body Movements",
+    question: "What happens when a person flexes (bends) their arm at the elbow to touch their shoulder with their hand?",
+    options: [
+      "The Biceps muscle on the front of the upper arm contracts (shortens and bulges), while the Triceps muscle on the back relaxes",
+      "The Triceps contracts and biceps relaxes",
+      "Both biceps and triceps contract simultaneously",
+      "Both muscles relax completely"
+    ],
+    correctAnswer: 0,
+    difficulty: "HARD",
+    damage: 350,
+    explanation: "Elbow flexion: agonist biceps brachii contracts concentrically while antagonist triceps brachii lengthens in eccentric relaxation."
+  },
+  {
+    classLevel: 6,
+    subject: "Science",
+    chapter: "Chapter 5: Body Movements",
+    question: "Consider four joints in the human body:\n1. Shoulder Joint\n2. Cranial Skull Suture Joint\n3. Knee Joint\n4. Wrist Gliding Joint\nArrange these joints in DECREASING order of their angular range of motion (degrees of freedom):",
+    options: ["1 (Ball & Socket - 360°) -> 4 (Gliding) -> 3 (Hinge - 180°) -> 2 (Fixed - 0°)", "2 -> 3 -> 4 -> 1", "3 -> 1 -> 4 -> 2", "1 -> 2 -> 3 -> 4"],
+    correctAnswer: 0,
+    difficulty: "HARD",
+    damage: 350,
+    explanation: "Multi-axial Ball-and-Socket allows 3 rotational degrees of freedom; Gliding allows multidirectional planes; Hinge allows 1 plane; Fixed allows 0°."
+  },
+  {
+    classLevel: 6,
+    subject: "Science",
+    chapter: "Chapter 5: Body Movements",
+    question: "Why are the bones of the pelvic girdle much thicker, heavier, and more tightly fused than the bones of the shoulder pectoral girdle?",
+    options: [
+      "The pelvic girdle bears the entire weight of the upper body during standing, walking, and running, and protects pelvic visceral organs",
+      "To store extra blood",
+      "Because legs are shorter than arms",
+      "To help digest food"
+    ],
+    correctAnswer: 0,
+    difficulty: "HARD",
+    damage: 350,
+    explanation: "The ilium, ischium, and pubis fuse into a heavy rigid osseous ring to transfer axial torso loads into lower limb femurs."
+  },
+  {
+    classLevel: 6,
+    subject: "Science",
+    chapter: "Chapter 5: Body Movements",
+    question: "How does the swim bladder (air bladder) in bony fishes assist their buoyancy and vertical movement in water?",
+    options: [
+      "By regulating the volume of gas inside the bladder, allowing the fish to maintain neutral buoyancy and hover at any water depth without sinking or floating",
+      "By heating the water around the fish",
+      "By digesting fish food",
+      "By glowing in the dark"
+    ],
+    correctAnswer: 0,
+    difficulty: "HARD",
+    damage: 350,
+    explanation: "Hydrostatic swim bladders adjust gas partial pressure via the rete mirabile to equalize whole-body density with surrounding water density."
+  },
+  {
+    classLevel: 6,
+    subject: "Science",
+    chapter: "Chapter 5: Body Movements",
+    question: "Which of the following describes the functional anatomy of the human Wrist Joint (Carpal bones)?",
+    options: [
+      "Gliding Joint (Plane Joint) where small carpal bones slide gently over one another, providing subtle multidirectional hand flexion",
+      "Ball and Socket Joint",
+      "Fixed Suture Joint",
+      "Pivotal Joint"
+    ],
+    correctAnswer: 0,
+    difficulty: "HARD",
+    damage: 350,
+    explanation: "Intercarpal articulations are planar arthrodial gliding joints allowing smooth translational sliding motions."
+  },
+  {
+    classLevel: 6,
+    subject: "Science",
+    chapter: "Chapter 5: Body Movements",
+    question: "What physiological consequence occurs if articular cartilage at the ends of synovial joints wears away due to degenerative disease (osteoarthritis)?",
+    options: [
+      "Exposed bare bones rub directly against each other, causing severe friction, excruciating pain, inflammation, and stiffness during movement",
+      "Bones turn into soft muscle",
+      "Joints become 10 times more flexible",
+      "Bones disappear completely"
+    ],
+    correctAnswer: 0,
+    difficulty: "HARD",
+    damage: 350,
+    explanation: "Loss of hyaline articular cartilage eliminates hydrodynamic lubrication, leading to painful eburnation and bone spurs."
+  }
+];
+
+console.log('Generated Science Ch5:', scienceQuestions.length);
+fs.writeFileSync('C:/EduVerse/class 6/cross_subject/science_ch5.json', JSON.stringify(scienceQuestions, null, 2), 'utf8');

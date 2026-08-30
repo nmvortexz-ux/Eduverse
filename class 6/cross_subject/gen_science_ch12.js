@@ -1,0 +1,580 @@
+import fs from 'fs';
+
+// -------------------------------------------------------------
+// SUBJECT 1: Science - Chapter 12: Garbage In, Garbage Out (40 Questions)
+// -------------------------------------------------------------
+const scienceQuestions = [
+  // EASY (12)
+  {
+    classLevel: 6,
+    subject: "Science",
+    chapter: "Chapter 12: Garbage In, Garbage Out",
+    question: "A low-lying open area of land where garbage collected from a city is dumped, spread out, and covered with a layer of soil is called a:",
+    options: ["Landfill", "Compost pit", "Incinerator", "Water treatment plant"],
+    correctAnswer: 0,
+    difficulty: "EASY",
+    damage: 150,
+    explanation: "A landfill is an engineered low-lying site where municipal solid waste is compacted and capped with earth."
+  },
+  {
+    classLevel: 6,
+    subject: "Science",
+    chapter: "Chapter 12: Garbage In, Garbage Out",
+    question: "Waste materials that can be broken down naturally and decomposed by microorganisms into harmless natural substances (such as vegetable peels, leftover food, dry leaves) are called:",
+    options: ["Biodegradable Waste", "Non-biodegradable Waste", "Plastic Waste", "Toxic Waste"],
+    correctAnswer: 0,
+    difficulty: "EASY",
+    damage: 150,
+    explanation: "Biodegradable organic waste undergoes natural biological decomposition by bacteria and fungi into humus."
+  },
+  {
+    classLevel: 6,
+    subject: "Science",
+    chapter: "Chapter 12: Garbage In, Garbage Out",
+    question: "Waste materials that CANNOT be decomposed naturally by biological organisms and persist in the environment for centuries (such as plastic bags, glass, aluminium cans) are called:",
+    options: ["Non-biodegradable Waste", "Biodegradable Waste", "Organic Waste", "Compost"],
+    correctAnswer: 0,
+    difficulty: "EASY",
+    damage: 150,
+    explanation: "Non-biodegradable synthetic polymers and metals resist microbial enzymatic degradation, accumulating as persistent pollution."
+  },
+  {
+    classLevel: 6,
+    subject: "Science",
+    chapter: "Chapter 12: Garbage In, Garbage Out",
+    question: "The natural biological process of converting biodegradable kitchen and plant waste into nutrient-rich organic manure is called:",
+    options: ["Composting", "Landfilling", "Recycling", "Incineration"],
+    correctAnswer: 0,
+    difficulty: "EASY",
+    damage: 150,
+    explanation: "Composting aerobic/anaerobic decomposition converts discarded organic matter into nutrient-rich soil humus."
+  },
+  {
+    classLevel: 6,
+    subject: "Science",
+    chapter: "Chapter 12: Garbage In, Garbage Out",
+    question: "The method of preparing rich compost from organic waste using specialized 'Redworms' (Eisenia fetida) is called:",
+    options: ["Vermicomposting", "Chemical fertilizing", "Incineration", "Sedimentation"],
+    correctAnswer: 0,
+    difficulty: "EASY",
+    damage: 150,
+    explanation: "Vermicomposting uses epigeic redworms (Eisenia fetida) to bio-convert organic waste into vermicast fertilizer."
+  },
+  {
+    classLevel: 6,
+    subject: "Science",
+    chapter: "Chapter 12: Garbage In, Garbage Out",
+    question: "What color dustbin is designated by municipalities for collecting BIODEGRADABLE wet kitchen waste, fruit peels, and animal waste?",
+    options: ["Green Dustbin", "Blue Dustbin", "Red Dustbin", "Black Dustbin"],
+    correctAnswer: 0,
+    difficulty: "EASY",
+    damage: 150,
+    explanation: "Green bins collect biodegradable organic kitchen wet waste destined for community composting."
+  },
+  {
+    classLevel: 6,
+    subject: "Science",
+    chapter: "Chapter 12: Garbage In, Garbage Out",
+    question: "What color dustbin is designated by municipalities for collecting RECYCLABLE dry waste (plastics, metals, glass, paper)?",
+    options: ["Blue Dustbin", "Green Dustbin", "Yellow Dustbin", "Brown Dustbin"],
+    correctAnswer: 0,
+    difficulty: "EASY",
+    damage: 150,
+    explanation: "Blue bins collect non-biodegradable dry recyclable items like plastic bottles, glass, and metals."
+  },
+  {
+    classLevel: 6,
+    subject: "Science",
+    chapter: "Chapter 12: Garbage In, Garbage Out",
+    question: "What specialized internal muscular organ do Redworms possess to grind their food in the absence of true teeth?",
+    options: ["Gizzard (which uses swallowed sand/grit particles to grind food)", "Stomach", "Beak", "Tongue"],
+    correctAnswer: 0,
+    difficulty: "EASY",
+    damage: 150,
+    explanation: "Redworms lack teeth; food is ground in a muscular gizzard aided by ingested mineral grit particles."
+  },
+  {
+    classLevel: 6,
+    subject: "Science",
+    chapter: "Chapter 12: Garbage In, Garbage Out",
+    question: "What are the famous '3 Rs' of modern solid waste management and environmental conservation?",
+    options: ["Reduce, Reuse, Recycle", "Read, Record, Remember", "Run, Rest, Repeat", "Remove, Repair, Replace"],
+    correctAnswer: 0,
+    difficulty: "EASY",
+    damage: 150,
+    explanation: "The 3Rs hierarchy prioritizes: 1. Reduce consumption, 2. Reuse items, and 3. Recycle discarded materials."
+  },
+  {
+    classLevel: 6,
+    subject: "Science",
+    chapter: "Chapter 12: Garbage In, Garbage Out",
+    question: "Which of the following household waste items CAN be easily recycled into fresh new paper in a classroom?",
+    options: ["Old newspapers, magazines, and used notebook paper", "Plastic carry bags", "Glass bottles", "Broken ceramic cups"],
+    correctAnswer: 0,
+    difficulty: "EASY",
+    damage: 150,
+    explanation: "Waste cellulose paper pulp can be soaked, meshed, strained on wire frames, and dried into recycled paper."
+  },
+  {
+    classLevel: 6,
+    subject: "Science",
+    chapter: "Chapter 12: Garbage In, Garbage Out",
+    question: "Why should we NEVER burn dry fallen leaves, plastic waste, or synthetic garbage in open streets?",
+    options: [
+      "Open burning releases highly toxic smoke, cancer-causing dioxins, and particulate matter that cause severe respiratory illnesses and air pollution",
+      "Because ash turns into gold",
+      "Because fire makes the ground too cold",
+      "Because fire destroys the sun"
+    ],
+    correctAnswer: 0,
+    difficulty: "EASY",
+    damage: 150,
+    explanation: "Incomplete combustion of plastics and biomass releases toxic dioxins, furans, PM2.5, and carbon monoxide."
+  },
+  {
+    classLevel: 6,
+    subject: "Science",
+    chapter: "Chapter 12: Garbage In, Garbage Out",
+    question: "What eco-friendly shopping bag should we use instead of single-use polythene plastic bags?",
+    options: ["Bags made of Cloth, Jute, or recycled Paper", "Thicker plastic bags", "Aluminium foil bags", "Thermocol boxes"],
+    correctAnswer: 0,
+    difficulty: "EASY",
+    damage: 150,
+    explanation: "Jute and woven cotton bags are reusable, durable, renewable, and 100% biodegradable."
+  },
+
+  // MEDIUM (16)
+  {
+    classLevel: 6,
+    subject: "Science",
+    chapter: "Chapter 12: Garbage In, Garbage Out",
+    question: "Why is putting cooked food with salt, oil, vinegar, or meat/dairy products into a Vermicomposting pit strictly avoided?",
+    options: [
+      "Oils, spices, and animal meats attract harmful disease-causing bacteria, foul smell, and pests (rats, ants) that can kill the redworms",
+      "Because worms become too fat",
+      "Because salt makes compost too sweet",
+      "Because redworms only eat ice"
+    ],
+    correctAnswer: 0,
+    difficulty: "MEDIUM",
+    damage: 250,
+    explanation: "Saline, acidic, and fatty animal wastes rot pathogenically and destroy the neutral pH micro-habitat of redworms."
+  },
+  {
+    classLevel: 6,
+    subject: "Science",
+    chapter: "Chapter 12: Garbage In, Garbage Out",
+    question: "What ideal physical environmental conditions are required inside a vermicompost pit for redworms to thrive?",
+    options: [
+      "Moist, shaded, and well-aerated bedding (loose soil, wire mesh/sand base) with moderate temperature (neither too hot nor freezing cold)",
+      "Direct scorching sunlight with boiling water",
+      "Bone-dry gravel in total darkness",
+      "Submerged in deep standing water"
+    ],
+    correctAnswer: 0,
+    difficulty: "MEDIUM",
+    damage: 250,
+    explanation: "Redworms require 60–80% moisture, loose organic bedding, and 15–25°C ambient temperature for optimal digestion."
+  },
+  {
+    classLevel: 6,
+    subject: "Science",
+    chapter: "Chapter 12: Garbage In, Garbage Out",
+    question: "Why do stray cows and street animals often choke and die after scavenging from open garbage dumps?",
+    options: [
+      "They swallow discarded polythene plastic bags filled with leftover food; the indigestible plastic accumulates in their rumen stomach, blocking digestion lethally",
+      "Because garbage is too heavy",
+      "Because they drink rain water",
+      "Because cows cannot chew food"
+    ],
+    correctAnswer: 0,
+    difficulty: "MEDIUM",
+    damage: 250,
+    explanation: "Plastic bags containing food scraps are swallowed whole by ruminants, causing fatal gastrointestinal impaction."
+  },
+  {
+    classLevel: 6,
+    subject: "Science",
+    chapter: "Chapter 12: Garbage In, Garbage Out",
+    question: "How does a city municipal corporation transform an old, completely filled landfill site after 20 years?",
+    options: [
+      "It is sealed with thick clay capping and topsoil and converted into a green public recreational park or playground (no heavy buildings are built for decades)",
+      "It is turned into a deep lake",
+      "High-rise glass skyscrapers are built immediately",
+      "It is dug up and thrown into the sea"
+    ],
+    correctAnswer: 0,
+    difficulty: "MEDIUM",
+    damage: 250,
+    explanation: "Decommissioned landfills (e.g. Indraprastha Millennium Park in Delhi) are converted into parks due to soil settlement and methane venting."
+  },
+  {
+    classLevel: 6,
+    subject: "Science",
+    chapter: "Chapter 12: Garbage In, Garbage Out",
+    question: "Why are single-use plastic bags and thermocol disposable cups a major cause of urban flash floods during monsoons?",
+    options: [
+      "Carelessly discarded plastic litter is washed into roadside drains and sewage pipes, clogging municipal drainage and causing dirty water overflow",
+      "Because plastic produces rain clouds",
+      "Because plastic absorbs all water",
+      "Because plastic makes drains too clean"
+    ],
+    correctAnswer: 0,
+    difficulty: "MEDIUM",
+    damage: 250,
+    explanation: "Non-biodegradable plastic debris physically chokes stormwater culverts and sewer conduits, triggering severe street waterlogging."
+  },
+  {
+    classLevel: 6,
+    subject: "Science",
+    chapter: "Chapter 12: Garbage In, Garbage Out",
+    question: "What is the primary ecological benefit of practicing 'Waste Segregation at Source' (in every household)?",
+    options: [
+      "It prevents recyclable dry materials from getting contaminated by rotting wet waste, maximizing recycling efficiency and enabling clean composting",
+      "It makes garbage look beautiful",
+      "It reduces the weight of food",
+      "It stops garbage from producing heat"
+    ],
+    correctAnswer: 0,
+    difficulty: "MEDIUM",
+    damage: 250,
+    explanation: "Source separation segregates organic feedstock for bioconversion while keeping recyclables uncontaminated."
+  },
+  {
+    classLevel: 6,
+    subject: "Science",
+    chapter: "Chapter 12: Garbage In, Garbage Out",
+    question: "Why is Vermicompost (vermicast) considered superior to synthetic chemical fertilizers for agricultural soil?",
+    options: [
+      "It enhances soil microbial biodiversity, improves water retention, enriches soil structure naturally without chemical leaching or soil toxicity",
+      "It kills all earthworms in the farm",
+      "It makes soil completely dry",
+      "It changes plant color to purple"
+    ],
+    correctAnswer: 0,
+    difficulty: "MEDIUM",
+    damage: 250,
+    explanation: "Vermicompost provides bioavailable N-P-K, humic acids, and beneficial soil mycorrhizae without chemical soil salinization."
+  },
+  {
+    classLevel: 6,
+    subject: "Science",
+    chapter: "Chapter 12: Garbage In, Garbage Out",
+    question: "How can students easily make recycled decorative paper sheets at home or school?",
+    options: [
+      "Tear waste paper into shreds, soak in water to make thick pulp, spread evenly over a wire mesh frame, press out excess water, decorate with dried flower petals, and sun dry",
+      "Melt plastic bottles in an oven",
+      "Burn paper and mix ash with water",
+      "Paint old wood with oil"
+    ],
+    correctAnswer: 0,
+    difficulty: "MEDIUM",
+    damage: 250,
+    explanation: "Handmade papermaking meshes soaked recycled cellulose pulp onto deckle frames, creating textured artisan sheets."
+  },
+  {
+    classLevel: 6,
+    subject: "Science",
+    chapter: "Chapter 12: Garbage In, Garbage Out",
+    question: "Why should we avoid packing warm, edible cooked food items in recycled colored polythene plastic bags?",
+    options: [
+      "Recycled plastics contain toxic heavy metal dyes and chemical plasticizers that leach into hot food, causing toxic food poisoning",
+      "Because recycled bags smell like strawberries",
+      "Because colored bags keep food too hot",
+      "Because food turns into plastic"
+    ],
+    correctAnswer: 0,
+    difficulty: "MEDIUM",
+    damage: 250,
+    explanation: "Non-food-grade recycled plastic carries phthalates, lead, and cadmium residues that migrate into fatty, warm foodstuffs."
+  },
+  {
+    classLevel: 6,
+    subject: "Science",
+    chapter: "Chapter 12: Garbage In, Garbage Out",
+    question: "What is 'Kabaadiwala' (Scrap Dealer / Informal Recycler) in the Indian municipal waste ecosystem?",
+    options: [
+      "Crucial grassroots recycling entrepreneurs who purchase discarded paper, cardboard, scrap metal, glass, and plastics to supply to industrial recycling factories",
+      "People who burn garbage in forests",
+      "Drivers of city buses",
+      "Street food sellers"
+    ],
+    correctAnswer: 0,
+    difficulty: "MEDIUM",
+    damage: 250,
+    explanation: "Informal kabadiwalas recover millions of tons of dry recyclables, achieving high diversion rates from landfills."
+  },
+  {
+    classLevel: 6,
+    subject: "Science",
+    chapter: "Chapter 12: Garbage In, Garbage Out",
+    question: "How does nature naturally recycle dead plant and animal remains in a pristine forest?",
+    options: [
+      "Decomposers (bacteria, fungi, earthworms, beetles) break down fallen leaves and carcasses into nutrient-rich humus soil, which feeds new growing trees (Zero Waste in Nature)",
+      "Forests have trash trucks",
+      "Rivers wash everything into outer space",
+      "Sunlight burns all leaves instantly"
+    ],
+    correctAnswer: 0,
+    difficulty: "MEDIUM",
+    damage: 250,
+    explanation: "Natural biogeochemical nutrient cycles operate in closed loops where biotic detritus becomes nutrient feedstock for autotrophs."
+  },
+  {
+    classLevel: 6,
+    subject: "Science",
+    chapter: "Chapter 12: Garbage In, Garbage Out",
+    question: "What happens when non-biodegradable plastics are dumped in soil?",
+    options: [
+      "They form an impermeable underground barrier that blocks rainwater percolation into deep aquifers, degrading soil health and vegetation growth",
+      "They dissolve into fertilizer within 2 days",
+      "They turn into groundwater",
+      "They make soil softer"
+    ],
+    correctAnswer: 0,
+    difficulty: "MEDIUM",
+    damage: 250,
+    explanation: "Buried plastic membranes impede groundwater recharge, soil aeration, and root penetration."
+  },
+  {
+    classLevel: 6,
+    subject: "Science",
+    chapter: "Chapter 12: Garbage In, Garbage Out",
+    question: "What is a major advantage of using traditional Clay Cups ('Kulhads') and Dried Leaf Plates ('Pattals') during public festivals?",
+    options: [
+      "They are 100% natural and biodegradable; when discarded, they dissolve back harmlessly into fertile soil without toxic plastic pollution",
+      "They can be used for 50 years",
+      "They are made of metal",
+      "They never break"
+    ],
+    correctAnswer: 0,
+    difficulty: "MEDIUM",
+    damage: 250,
+    explanation: "Terracotta kulhads and Sal leaf pattals provide compostable, sustainable indigenous alternatives to single-use plastics."
+  },
+  {
+    classLevel: 6,
+    subject: "Science",
+    chapter: "Chapter 12: Garbage In, Garbage Out",
+    question: "Which of the following is a direct, responsible action an individual student can take to 'REDUCE' waste generation?",
+    options: [
+      "Using a durable refillable steel water bottle and reusable lunchbox instead of single-use plastic bottles and plastic foil wraps",
+      "Throwing away half-eaten food in the street",
+      "Using 10 new plastic bags every day",
+      "Buying disposable pens and throwing them away after one use"
+    ],
+    correctAnswer: 0,
+    difficulty: "MEDIUM",
+    damage: 250,
+    explanation: "Source reduction eliminates disposable waste generation at the consumer level."
+  },
+  {
+    classLevel: 6,
+    subject: "Science",
+    chapter: "Chapter 12: Garbage In, Garbage Out",
+    question: "What is 'Leachate' generated in unscientific open garbage landfills?",
+    options: [
+      "A highly toxic, black liquid formed when rainwater percolates through rotting waste, which can seep underground and poison drinking groundwater wells",
+      "Clean drinking water",
+      "Mineral spring water",
+      "Compost powder"
+    ],
+    correctAnswer: 0,
+    difficulty: "MEDIUM",
+    damage: 250,
+    explanation: "Landfill leachate is a hazardous liquid contaminated with dissolved heavy metals, ammonia, and organic toxins."
+  },
+  {
+    classLevel: 6,
+    subject: "Science",
+    chapter: "Chapter 12: Garbage In, Garbage Out",
+    question: "What civic national mission was launched on 2nd October 2014 across India to eliminate open defecation, promote scientific solid waste management, and create cleaner cities?",
+    options: ["Swachh Bharat Abhiyan (Clean India Mission)", "Digital India", "Make in India", "Smart Cities Mission"],
+    correctAnswer: 0,
+    difficulty: "MEDIUM",
+    damage: 250,
+    explanation: "Swachh Bharat Abhiyan transformed national sanitation, municipal waste processing, and behavioral cleanliness across India."
+  },
+
+  // HARD (12)
+  {
+    classLevel: 6,
+    subject: "Science",
+    chapter: "Chapter 12: Garbage In, Garbage Out",
+    question: "Read the statements:\nAssertion (A): Plastics are a miraculous modern synthetic material, yet unmanaged single-use plastics constitute one of the gravest environmental threats to the global biosphere.\nReason (R): The exceptionally strong synthetic carbon-carbon polymer bonds in plastics make them practically impervious to natural microbial enzymatic digestion, persisting for over 500 years while releasing microplastics and endocrine disruptors.\nChoose the correct option:",
+    options: [
+      "Both (A) and (R) are true, and (R) is the correct explanation of (A).",
+      "Both (A) and (R) are true, but (R) is NOT the correct explanation of (A).",
+      "(A) is true, but (R) is false.",
+      "(A) is false, but (R) is true."
+    ],
+    correctAnswer: 0,
+    difficulty: "HARD",
+    damage: 350,
+    explanation: "High molecular weight synthetic polymers resist microbial hydrolytic enzymes, fragmenting into persistent microplastic pollutants."
+  },
+  {
+    classLevel: 6,
+    subject: "Science",
+    chapter: "Chapter 12: Garbage In, Garbage Out",
+    question: "Spot the IMPOSTER in the following group of waste items categorized as 100% Biodegradable:\nGroup: [Banana peel, Cotton cloth scrap, Dried fallen leaves, Thermocol cup]",
+    options: ["Banana peel", "Cotton cloth scrap", "Dried fallen leaves", "Thermocol cup"],
+    correctAnswer: 3,
+    difficulty: "HARD",
+    damage: 350,
+    explanation: "Thermocol (expanded polystyrene) is a synthetic NON-BIODEGRADABLE polymer that persists indefinitely."
+  },
+  {
+    classLevel: 6,
+    subject: "Science",
+    chapter: "Chapter 12: Garbage In, Garbage Out",
+    question: "A student sets up two test pits in the garden:\nPit A: Fruit peels, vegetable scraps, tea leaves, shredded paper.\nPit B: Polythene bags, broken glass pieces, aluminium foil wrappers, plastic toys.\nBoth are covered with soil and observed after 4 weeks. What will be the scientific observation?",
+    options: [
+      "Contents of Pit A have rotted completely into dark, rich, earthy smelling compost humus; contents of Pit B remain completely unchanged without any decomposition",
+      "Contents of Pit B disappeared while Pit A turned into glass",
+      "Both pits turned into plastic",
+      "Neither pit showed any change"
+    ],
+    correctAnswer: 0,
+    difficulty: "HARD",
+    damage: 350,
+    explanation: "Pit A biodegradable organic matter undergoes microbial bio-oxidation into humus; Pit B non-biodegradables remain physically inert."
+  },
+  {
+    classLevel: 6,
+    subject: "Science",
+    chapter: "Chapter 12: Garbage In, Garbage Out",
+    question: "Match Column I (Waste Materials) with Column II (Appropriate Management Disposal Method):\n(a) Vegetable peels & leaves -> (i) Vermicomposting / Compost pit\n(b) Scrap aluminium & glass  -> (ii) Blue bin for industrial recycling\n(c) Used plastic bottle      -> (iii) Reuse as a flower pot / stationery holder\n(d) Solid hospital syringes  -> (iv) High-temperature biomedical incineration",
+    options: [
+      "a-(i), b-(ii), c-(iii), d-(iv)",
+      "a-(ii), b-(i), c-(iv), d-(iii)",
+      "a-(iv), b-(iii), c-(ii), d-(i)",
+      "a-(iii), b-(iv), c-(i), d-(ii)"
+    ],
+    correctAnswer: 0,
+    difficulty: "HARD",
+    damage: 350,
+    explanation: "Organic peels = composting; Scrap metals = recycling; Bottles = reuse; Biomedical waste = incineration."
+  },
+  {
+    classLevel: 6,
+    subject: "Science",
+    chapter: "Chapter 12: Garbage In, Garbage Out",
+    question: "Read the statements regarding Vermicomposting:\nStatement 1: Redworms can consume organic waste equal to their own body weight every single day.\nStatement 2: Adding powdered eggshells or sea shells to the vermicompost pit helps redworms grind their food inside their gizzards.\nStatement 3: Redworms survive best in boiling hot water.\nWhich statements are TRUE?",
+    options: ["Statements 1 and 2 only", "Statements 2 and 3 only", "Statements 1 and 3 only", "All Statements 1, 2, and 3"],
+    correctAnswer: 0,
+    difficulty: "HARD",
+    damage: 350,
+    explanation: "Statement 3 is false because high temperatures kill redworms instantly (they require 15–25°C). Statements 1 and 2 are biological facts."
+  },
+  {
+    classLevel: 6,
+    subject: "Science",
+    chapter: "Chapter 12: Garbage In, Garbage Out",
+    question: "Why is the concept of 'Circular Economy' (Cradle to Cradle) considered the ultimate sustainable solution to global garbage crisis?",
+    options: [
+      "It designs products so that all materials are endlessly reused, repaired, refurbished, and recycled in closed loops, eliminating the concept of 'waste' entirely",
+      "It dumps all waste into the deep ocean",
+      "It burns all garbage in giant rocket engines",
+      "It forces people to stop eating food"
+    ],
+    correctAnswer: 0,
+    difficulty: "HARD",
+    damage: 350,
+    explanation: "Circular economy replaces linear take-make-dispose models with regenerative closed loops maximizing resource utility."
+  },
+  {
+    classLevel: 6,
+    subject: "Science",
+    chapter: "Chapter 12: Garbage In, Garbage Out",
+    question: "What is 'Bioremediation' in modern environmental biotechnology?",
+    options: [
+      "Using living microorganisms (engineered bacteria, fungi) and plants to detoxify, break down, and clean up polluted soils, oil spills, and heavy metal contaminants",
+      "Covering garbage with plastic sheets",
+      "Spraying perfume over landfill sites",
+      "Burning garbage with nuclear lasers"
+    ],
+    correctAnswer: 0,
+    difficulty: "HARD",
+    damage: 350,
+    explanation: "Bioremediation utilizes microbial metabolic pathways to degrade hazardous xenobiotics into non-toxic end products."
+  },
+  {
+    classLevel: 6,
+    subject: "Science",
+    chapter: "Chapter 12: Garbage In, Garbage Out",
+    question: "What is the phenomenon of 'Microplastics' in global marine ecosystems?",
+    options: [
+      "Microscopic plastic particles (<5 mm) formed by the weathering breakdown of discarded plastic litter, which are ingested by plankton and fish, entering the human food chain",
+      "Tiny plastic toys for dolls",
+      "Microscopes made of plastic",
+      "Plastics that dissolve in 1 second"
+    ],
+    correctAnswer: 0,
+    difficulty: "HARD",
+    damage: 350,
+    explanation: "UV photo-oxidation and mechanical abrasion fragment macro-plastics into persistent trophic microplastics (<5 mm)."
+  },
+  {
+    classLevel: 6,
+    subject: "Science",
+    chapter: "Chapter 12: Garbage In, Garbage Out",
+    question: "Why is 'Anaerobic Digestion' of segregated organic waste in biogas plants doubly beneficial for rural and urban sustainability?",
+    options: [
+      "It produces clean renewable Methane Biogas for cooking and electricity while generating high-potency organic bio-slurry fertilizer",
+      "It produces gold and silver",
+      "It makes synthetic plastics",
+      "It turns water into oil"
+    ],
+    correctAnswer: 0,
+    difficulty: "HARD",
+    damage: 350,
+    explanation: "Methanogenic anaerobic digestion yields carbon-neutral biomethane fuel (CH₄) alongside nutrient-rich organic digestate."
+  },
+  {
+    classLevel: 6,
+    subject: "Science",
+    chapter: "Chapter 12: Garbage In, Garbage Out",
+    question: "Consider four categories of household waste generated during a birthday party:\n1. Banana and orange peels\n2. Paper gift wrap sheets\n3. Plastic balloon ribbons and thermocol cups\n4. Leftover bread crusts\nWhich items should be placed strictly in the GREEN COMPOST BIN?",
+    options: ["Items 1 and 4 only (Peels and Bread crusts)", "Items 2 and 3 only", "Items 1, 2, and 3", "All 4 items"],
+    correctAnswer: 0,
+    difficulty: "HARD",
+    damage: 350,
+    explanation: "Wet biodegradable food wastes (peels and bread) belong in the green compost bin; paper goes to dry recyclables; thermocol is non-biodegradable."
+  },
+  {
+    classLevel: 6,
+    subject: "Science",
+    chapter: "Chapter 12: Garbage In, Garbage Out",
+    question: "What is 'E-Waste' (Electronic Waste) and why does it require specialized certified recycling rather than normal municipal dumping?",
+    options: [
+      "Discarded computers, smartphones, and circuit boards that contain toxic heavy metals (lead, mercury, cadmium) that can leach into soil and water if dumped casually",
+      "Old paper electricity bills",
+      "Electric wires made of pure cotton",
+      "Lightning in the sky"
+    ],
+    correctAnswer: 0,
+    difficulty: "HARD",
+    damage: 350,
+    explanation: "E-waste contains hazardous heavy metals and persistent flame retardants requiring specialized dismantling and pyrometallurgical recovery."
+  },
+  {
+    classLevel: 6,
+    subject: "Science",
+    chapter: "Chapter 12: Garbage In, Garbage Out",
+    question: "What fundamental environmental philosophy concludes the NCERT Class 6 Science curriculum in Chapter 12?",
+    options: [
+      "Every human action produces ecological consequences; sustainable living requires individual responsibility to minimize waste, segregate at source, and harmonize human lifestyle with nature's circular ecology",
+      "Throwing garbage in rivers is good for fish",
+      "Only governments are responsible for cleanliness",
+      "Using disposable plastics is the only way to live"
+    ],
+    correctAnswer: 0,
+    difficulty: "HARD",
+    damage: 350,
+    explanation: "The curriculum culminates in proactive ecological citizenship, waste minimization, and harmonious circular resource stewardship."
+  }
+];
+
+console.log('Generated Science Ch12:', scienceQuestions.length);
+fs.writeFileSync('C:/EduVerse/class 6/cross_subject/science_ch12.json', JSON.stringify(scienceQuestions, null, 2), 'utf8');

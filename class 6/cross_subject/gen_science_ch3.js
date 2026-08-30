@@ -1,0 +1,565 @@
+import fs from 'fs';
+
+// -------------------------------------------------------------
+// SUBJECT 1: Science - Chapter 3: Separation of Substances (40 Questions)
+// -------------------------------------------------------------
+const scienceQuestions = [
+  // EASY (12)
+  {
+    classLevel: 6,
+    subject: "Science",
+    chapter: "Chapter 3: Separation of Substances",
+    question: "The method of separating slightly larger sized impurities like pieces of dirt, stones, and husk from wheat, rice, or pulses using hands is called:",
+    options: ["Handpicking", "Threshing", "Winnowing", "Sieving"],
+    correctAnswer: 0,
+    difficulty: "EASY",
+    damage: 150,
+    explanation: "Handpicking is used when impurities differ in size, color, or shape and are present in small quantities."
+  },
+  {
+    classLevel: 6,
+    subject: "Science",
+    chapter: "Chapter 3: Separation of Substances",
+    question: "The process of beating harvested stalks on a hard stone surface to free the edible grains is called:",
+    options: ["Threshing", "Winnowing", "Sieving", "Filtration"],
+    correctAnswer: 0,
+    difficulty: "EASY",
+    damage: 150,
+    explanation: "Threshing separates grain seeds from the dry stalks using mechanical beating, bullocks, or motorized threshers."
+  },
+  {
+    classLevel: 6,
+    subject: "Science",
+    chapter: "Chapter 3: Separation of Substances",
+    question: "The method of separating heavier grain seeds from lighter husk particles using blowing wind or air currents is called:",
+    options: ["Winnowing", "Threshing", "Sieving", "Sedimentation"],
+    correctAnswer: 0,
+    difficulty: "EASY",
+    damage: 150,
+    explanation: "Winnowing relies on the density difference where wind blows away lighter husk while heavier grains fall vertically."
+  },
+  {
+    classLevel: 6,
+    subject: "Science",
+    chapter: "Chapter 3: Separation of Substances",
+    question: "The method used to separate components of a mixture that have different particle sizes using a mesh or perforated screen is:",
+    options: ["Sieving", "Handpicking", "Evaporation", "Decantation"],
+    correctAnswer: 0,
+    difficulty: "EASY",
+    damage: 150,
+    explanation: "Sieving allows fine flour particles to pass through wire mesh while retaining larger bran impurities."
+  },
+  {
+    classLevel: 6,
+    subject: "Science",
+    chapter: "Chapter 3: Separation of Substances",
+    question: "When the heavier insoluble component in a liquid mixture settles to the bottom of the container after standing undisturbed, the process is called:",
+    options: ["Sedimentation", "Decantation", "Filtration", "Evaporation"],
+    correctAnswer: 0,
+    difficulty: "EASY",
+    damage: 150,
+    explanation: "Gravitational settling of denser suspended particles (like sand in water) at the bottom is sedimentation."
+  },
+  {
+    classLevel: 6,
+    subject: "Science",
+    chapter: "Chapter 3: Separation of Substances",
+    question: "The process of gently pouring out the clear top liquid without disturbing the settled sediment at the bottom is called:",
+    options: ["Decantation", "Sedimentation", "Filtration", "Condensation"],
+    correctAnswer: 0,
+    difficulty: "EASY",
+    damage: 150,
+    explanation: "Decantation transfers the supernatant liquid layer into another vessel leaving the settled sediment behind."
+  },
+  {
+    classLevel: 6,
+    subject: "Science",
+    chapter: "Chapter 3: Separation of Substances",
+    question: "The method of separating fine insoluble solid particles from a liquid using a porous medium like filter paper is called:",
+    options: ["Filtration", "Decantation", "Threshing", "Sieving"],
+    correctAnswer: 0,
+    difficulty: "EASY",
+    damage: 150,
+    explanation: "Filtration traps suspended solids (residue) on the porous membrane while clear liquid (filtrate) passes through."
+  },
+  {
+    classLevel: 6,
+    subject: "Science",
+    chapter: "Chapter 3: Separation of Substances",
+    question: "The process of converting a liquid into its gaseous vapor state upon heating is called:",
+    options: ["Evaporation", "Condensation", "Sedimentation", "Sublimation"],
+    correctAnswer: 0,
+    difficulty: "EASY",
+    damage: 150,
+    explanation: "Evaporation occurs when liquid molecules gain thermal kinetic energy to escape as vapor below boiling point."
+  },
+  {
+    classLevel: 6,
+    subject: "Science",
+    chapter: "Chapter 3: Separation of Substances",
+    question: "How is common edible table salt (NaCl) commercially obtained on a large scale from seawater?",
+    options: [
+      "By allowing seawater to evaporate in shallow pits under solar sunlight and wind",
+      "By filtering seawater with cloth",
+      "By freezing seawater into ice",
+      "By sieving seawater"
+    ],
+    correctAnswer: 0,
+    difficulty: "EASY",
+    damage: 150,
+    explanation: "Solar evaporation in shallow coastal salt pans vaporizes water, leaving behind crude solid sodium chloride crystals."
+  },
+  {
+    classLevel: 6,
+    subject: "Science",
+    chapter: "Chapter 3: Separation of Substances",
+    question: "The process of conversion of water vapor back into its liquid water form upon cooling is called:",
+    options: ["Condensation", "Evaporation", "Decantation", "Threshing"],
+    correctAnswer: 0,
+    difficulty: "EASY",
+    damage: 150,
+    explanation: "When water vapor contacts a chilled surface, it loses latent heat and condenses into liquid droplets."
+  },
+  {
+    classLevel: 6,
+    subject: "Science",
+    chapter: "Chapter 3: Separation of Substances",
+    question: "A solution in which no more quantity of a given solute can be dissolved at that specific temperature is called a:",
+    options: ["Saturated Solution", "Unsaturated Solution", "Supercooled Solution", "Dilute Solution"],
+    correctAnswer: 0,
+    difficulty: "EASY",
+    damage: 150,
+    explanation: "A saturated solution has reached thermodynamic chemical equilibrium between dissolved and undissolved solute."
+  },
+  {
+    classLevel: 6,
+    subject: "Science",
+    chapter: "Chapter 3: Separation of Substances",
+    question: "Which of the following implements is used in kitchens to separate used tea leaves from brewed liquid tea?",
+    options: ["A fine wire strainer (Filter)", "A winnowing basket", "A wooden thresher", "A stone mill"],
+    correctAnswer: 0,
+    difficulty: "EASY",
+    damage: 150,
+    explanation: "A tea strainer acts as a sieve/filter, retaining insoluble boiled tea leaves while letting the aromatic beverage flow."
+  },
+
+  // MEDIUM (16)
+  {
+    classLevel: 6,
+    subject: "Science",
+    chapter: "Chapter 3: Separation of Substances",
+    question: "What happens to the solubility of solid sugar or salt in water when the temperature of the water is increased by heating?",
+    options: [
+      "Its solubility increases, allowing more solid to dissolve",
+      "Its solubility decreases",
+      "The dissolved sugar turns into gas",
+      "The solubility remains unchanged"
+    ],
+    correctAnswer: 0,
+    difficulty: "MEDIUM",
+    damage: 250,
+    explanation: "Thermal energy expands intermolecular spaces between water molecules and supplies endothermic dissolution energy."
+  },
+  {
+    classLevel: 6,
+    subject: "Science",
+    chapter: "Chapter 3: Separation of Substances",
+    question: "Why can a mixture of wheat flour and iron fillings be easily separated using a magnet?",
+    options: [
+      "Iron is a magnetic material attracted by magnets, whereas wheat flour is non-magnetic",
+      "Iron melts near magnets",
+      "Wheat flour is poisonous to magnets",
+      "Magnets blow air like wind"
+    ],
+    correctAnswer: 0,
+    difficulty: "MEDIUM",
+    damage: 250,
+    explanation: "Magnetic separation exploits the ferromagnetic property of iron to selectively extract filings without touching the flour."
+  },
+  {
+    classLevel: 6,
+    subject: "Science",
+    chapter: "Chapter 3: Separation of Substances",
+    question: "Why is water commonly referred to as a 'Universal Solvent' in chemistry?",
+    options: [
+      "Because its polar molecular structure can dissolve a wider variety of solutes than any other known liquid",
+      "Because it exists in all galaxies",
+      "Because it has zero boiling point",
+      "Because it never turns into ice"
+    ],
+    correctAnswer: 0,
+    difficulty: "MEDIUM",
+    damage: 250,
+    explanation: "Water's high dielectric constant and polar dipole moments readily hydrate and break ionic lattices."
+  },
+  {
+    classLevel: 6,
+    subject: "Science",
+    chapter: "Chapter 3: Separation of Substances",
+    question: "Which combined sequence of separation techniques is used to separate a mixture of Sand and Salt completely?",
+    options: [
+      "Dissolution in water -> Sedimentation & Filtration (separates sand) -> Evaporation / Condensation (recovers salt & water)",
+      "Threshing followed by Winnowing",
+      "Handpicking followed by Sieving",
+      "Direct Sieving through cloth"
+    ],
+    correctAnswer: 0,
+    difficulty: "MEDIUM",
+    damage: 250,
+    explanation: "Salt dissolves in water while sand remains insoluble; filtering removes sand residue, and evaporating the filtrate yields dry salt."
+  },
+  {
+    classLevel: 6,
+    subject: "Science",
+    chapter: "Chapter 3: Separation of Substances",
+    question: "Why is churning (centrifugation) of whole milk or curd practiced in Indian households?",
+    options: [
+      "To separate less dense butter (fats) which float to the top from denser liquid buttermilk",
+      "To change the color of milk to red",
+      "To evaporate all liquid",
+      "To dissolve sugar"
+    ],
+    correctAnswer: 0,
+    difficulty: "MEDIUM",
+    damage: 250,
+    explanation: "Mechanical churning agitates emulsified fat globules, causing them to coalesce and float as lighter butter."
+  },
+  {
+    classLevel: 6,
+    subject: "Science",
+    chapter: "Chapter 3: Separation of Substances",
+    question: "What is the solid material retained on the filter paper after filtration called?",
+    options: ["Residue", "Filtrate", "Solvent", "Sediment"],
+    correctAnswer: 0,
+    difficulty: "MEDIUM",
+    damage: 250,
+    explanation: "The trapped insoluble solid retained on the filter is the Residue, while the clear collected liquid is the Filtrate."
+  },
+  {
+    classLevel: 6,
+    subject: "Science",
+    chapter: "Chapter 3: Separation of Substances",
+    question: "What is the clear liquid that passes through the filter paper and collects in the beaker called?",
+    options: ["Filtrate", "Residue", "Solute", "Precipitate"],
+    correctAnswer: 0,
+    difficulty: "MEDIUM",
+    damage: 250,
+    explanation: "The liquid that successfully passes through the microscopic pores of the filtration filter is called the Filtrate."
+  },
+  {
+    classLevel: 6,
+    subject: "Science",
+    chapter: "Chapter 3: Separation of Substances",
+    question: "How can muddy river water be rapidly cleared of fine suspended colloidal clay particles in village households?",
+    options: [
+      "By swirling a piece of Alum (Phitkari) in the water to cause coagulation (Loading)",
+      "By adding salt",
+      "By blowing air",
+      "By freezing into ice"
+    ],
+    correctAnswer: 0,
+    difficulty: "MEDIUM",
+    damage: 250,
+    explanation: "Alum releases trivalent Al³⁺ ions that neutralize negative surface charges on colloidal clay, causing rapid flocculation (loading)."
+  },
+  {
+    classLevel: 6,
+    subject: "Science",
+    chapter: "Chapter 3: Separation of Substances",
+    question: "Why can't a mixture of sugar dissolved in water be separated by using filter paper?",
+    options: [
+      "Sugar dissolves into individual molecules/ions that are much smaller than the microscopic pores of the filter paper",
+      "Sugar tears the filter paper",
+      "Sugar turns into water vapor",
+      "Filter paper dissolves sugar"
+    ],
+    correctAnswer: 0,
+    difficulty: "MEDIUM",
+    damage: 250,
+    explanation: "Dissolved solute particles in a true solution have molecular dimensions (< 1 nm) and pass through filter pores unimpeded."
+  },
+  {
+    classLevel: 6,
+    subject: "Science",
+    chapter: "Chapter 3: Separation of Substances",
+    question: "Which of the following mixtures CANNOT be separated by winnowing?",
+    options: ["Iron pins mixed with sand", "Wheat grains mixed with dry husk", "Paddy grains mixed with dry chaff", "Groundnut seeds mixed with dry leaves"],
+    correctAnswer: 0,
+    difficulty: "MEDIUM",
+    damage: 250,
+    explanation: "Both iron pins and sand grains are dense solids that fall straight down; winnowing requires a light, wind-blowable fraction."
+  },
+  {
+    classLevel: 6,
+    subject: "Science",
+    chapter: "Chapter 3: Separation of Substances",
+    question: "What is the primary scientific reason for separating substances from a mixture?",
+    options: [
+      "To remove harmful or undesirable impurities and to recover valuable pure components for use",
+      "To make food taste bitter",
+      "To destroy the chemical elements",
+      "To increase the weight of the mixture"
+    ],
+    correctAnswer: 0,
+    difficulty: "MEDIUM",
+    damage: 250,
+    explanation: "Separation isolates useful components (e.g. butter from milk) and purges harmful or unwanted contaminants (e.g. stones from grains)."
+  },
+  {
+    classLevel: 6,
+    subject: "Science",
+    chapter: "Chapter 3: Separation of Substances",
+    question: "In construction sites, why do builders pass sand through large inclined wire mesh sieves?",
+    options: [
+      "To separate coarse gravel and pebbles from fine sand needed for masonry mortar",
+      "To dry the sand",
+      "To change the color of sand",
+      "To cool the sand"
+    ],
+    correctAnswer: 0,
+    difficulty: "MEDIUM",
+    damage: 250,
+    explanation: "Sieving isolates particle sizes, filtering out oversized aggregate stones to ensure smooth plastering cement."
+  },
+  {
+    classLevel: 6,
+    subject: "Science",
+    chapter: "Chapter 3: Separation of Substances",
+    question: "How can one prepare a saturated solution of salt in a glass of water at room temperature?",
+    options: [
+      "Keep adding salt spoon by spoon with continuous stirring until no more salt dissolves and excess crystals settle at the bottom",
+      "Add 1 gram of salt and boil for 2 hours",
+      "Add ice to water",
+      "Keep the water in the dark"
+    ],
+    correctAnswer: 0,
+    difficulty: "MEDIUM",
+    damage: 250,
+    explanation: "Dynamic saturation is reached when the dissolution rate equals crystallization rate, leaving visible solid solute."
+  },
+  {
+    classLevel: 6,
+    subject: "Science",
+    chapter: "Chapter 3: Separation of Substances",
+    question: "What is the role of the condensation process in the water cycle of nature?",
+    options: [
+      "It converts rising atmospheric water vapor into liquid water droplets, forming clouds and bringing rain",
+      "It absorbs sunlight",
+      "It turns rain into dry air",
+      "It creates ocean salt"
+    ],
+    correctAnswer: 0,
+    difficulty: "MEDIUM",
+    damage: 250,
+    explanation: "Adiabatic cooling of rising warm moist air condenses vapor onto cloud condensation nuclei, generating precipitation."
+  },
+  {
+    classLevel: 6,
+    subject: "Science",
+    chapter: "Chapter 3: Separation of Substances",
+    question: "If a saturated solution of salt is cooled down from 60°C to 10°C, what observation will be made?",
+    options: [
+      "Excess dissolved salt will precipitate out and crystallize at the bottom of the beaker",
+      "The water will turn into gas",
+      "The salt will disappear permanently",
+      "The solution will become unsaturated"
+    ],
+    correctAnswer: 0,
+    difficulty: "MEDIUM",
+    damage: 250,
+    explanation: "Lowering temperature reduces solute saturation capacity, forcing excess solute out of solution as recrystallized solids."
+  },
+  {
+    classLevel: 6,
+    subject: "Science",
+    chapter: "Chapter 3: Separation of Substances",
+    question: "Which of the following processes involves BOTH evaporation and condensation working consecutively?",
+    options: ["Distillation (producing pure distilled water)", "Handpicking", "Sieving", "Threshing"],
+    correctAnswer: 0,
+    difficulty: "MEDIUM",
+    damage: 250,
+    explanation: "Distillation vaporizes the volatile solvent (evaporation) and then cools the pure vapor through a condenser (condensation)."
+  },
+
+  // HARD (12)
+  {
+    classLevel: 6,
+    subject: "Science",
+    chapter: "Chapter 3: Separation of Substances",
+    question: "Read the statements:\nAssertion (A): Winnowing cannot be used to separate a dry mixture of powdered chalk and wheat flour.\nReason (R): Winnowing requires a significant difference in weight / density between the two components so that wind can blow the lighter one away.\nChoose the correct option:",
+    options: [
+      "Both (A) and (R) are true, and (R) is the correct explanation of (A).",
+      "Both (A) and (R) are true, but (R) is NOT the correct explanation of (A).",
+      "(A) is true, but (R) is false.",
+      "(A) is false, but (R) is true."
+    ],
+    correctAnswer: 0,
+    difficulty: "HARD",
+    damage: 350,
+    explanation: "Both chalk powder and flour are light fine powders of comparable aerodynamic drag; wind would blow both away indiscriminately."
+  },
+  {
+    classLevel: 6,
+    subject: "Science",
+    chapter: "Chapter 3: Separation of Substances",
+    question: "Spot the IMPOSTER in the following group of separation techniques based on the physical state of the mixtures they separate:\nGroup: [Handpicking, Threshing, Winnowing, Decantation]",
+    options: ["Handpicking", "Threshing", "Winnowing", "Decantation"],
+    correctAnswer: 3,
+    difficulty: "HARD",
+    damage: 350,
+    explanation: "Decantation separates Solid-Liquid or Liquid-Liquid mixtures, whereas Handpicking, Threshing, and Winnowing separate Solid-Solid mixtures."
+  },
+  {
+    classLevel: 6,
+    subject: "Science",
+    chapter: "Chapter 3: Separation of Substances",
+    question: "A student accidentally mixes Sand, Salt, and Iron filings in a beaker. What is the scientifically correct step-by-step procedure to recover all three components pure and dry?",
+    options: [
+      "1. Use a Magnet to extract iron filings -> 2. Add water to dissolve salt -> 3. Filter to separate sand residue -> 4. Evaporate filtrate to recover dry salt crystals",
+      "1. Evaporate first -> 2. Filter -> 3. Handpick",
+      "1. Winnow the mixture -> 2. Sieve through wire mesh",
+      "1. Thresh the beaker -> 2. Add acid"
+    ],
+    correctAnswer: 0,
+    difficulty: "HARD",
+    damage: 350,
+    explanation: "Magnetic extraction isolates iron; aqueous dissolution exploits differential solubility; filtration isolates sand; evaporation yields salt."
+  },
+  {
+    classLevel: 6,
+    subject: "Science",
+    chapter: "Chapter 3: Separation of Substances",
+    question: "In an experiment, water containing steam is held beneath a cold metal plate holding ice cubes. Drops of liquid water form and drip into a beaker. What two physical processes are operating?",
+    options: [
+      "Evaporation (from the hot liquid) and Condensation (on the cold metal plate)",
+      "Sedimentation and Decantation",
+      "Sieving and Threshing",
+      "Sublimation and Freezing"
+    ],
+    correctAnswer: 0,
+    difficulty: "HARD",
+    damage: 350,
+    explanation: "Thermal vaporization generates steam (evaporation), which gives up its latent heat of condensation upon contact with the chilled ice plate."
+  },
+  {
+    classLevel: 6,
+    subject: "Science",
+    chapter: "Chapter 3: Separation of Substances",
+    question: "Match the following mixtures with their optimal method of separation:\n(a) Grain seeds from stalks       -> (i) Filtration\n(b) Husk from grain seeds        -> (ii) Threshing\n(c) Fine clay from muddy water   -> (iii) Evaporation\n(d) Salt from sea water          -> (iv) Winnowing",
+    options: [
+      "a-(ii), b-(iv), c-(i), d-(iii)",
+      "a-(i), b-(ii), c-(iii), d-(iv)",
+      "a-(iv), b-(iii), c-(ii), d-(i)",
+      "a-(iii), b-(iv), c-(i), d-(ii)"
+    ],
+    correctAnswer: 0,
+    difficulty: "HARD",
+    damage: 350,
+    explanation: "Grain from stalks = Threshing; Husk from grain = Winnowing; Fine clay = Filtration; Salt from seawater = Evaporation."
+  },
+  {
+    classLevel: 6,
+    subject: "Science",
+    chapter: "Chapter 3: Separation of Substances",
+    question: "Read the statements:\nAssertion (A): A sieve with 2 mm holes cannot separate a mixture of sugar and salt crystals.\nReason (R): Both sugar and salt crystal grains have comparable particle sizes that easily pass through 2 mm holes together.\nChoose the correct option:",
+    "options": [
+      "Both (A) and (R) are true, and (R) is the correct explanation of (A).",
+      "Both (A) and (R) are true, but (R) is NOT the correct explanation of (A).",
+      "(A) is true, but (R) is false.",
+      "(A) is false, but (R) is true."
+    ],
+    correctAnswer: 0,
+    difficulty: "HARD",
+    damage: 350,
+    explanation: "Sieving requires a marked difference in geometric particle size; fine sugar and table salt granules fall through together."
+  },
+  {
+    classLevel: 6,
+    subject: "Science",
+    chapter: "Chapter 3: Separation of Substances",
+    question: "Why does the rate of evaporation of water increase significantly on a hot, windy, and dry sunny afternoon?",
+    options: [
+      "Higher temperature increases thermal kinetic energy, wind swiftly removes saturated vapor boundary layers, and low humidity enhances vapor gradient",
+      "Wind blows the water molecules into outer space",
+      "Sunlight freezes water molecules",
+      "Atmospheric air turns into pure salt"
+    ],
+    correctAnswer: 0,
+    difficulty: "HARD",
+    damage: 350,
+    explanation: "Evaporation rate is directly proportional to temperature, surface area, and wind speed, and inversely proportional to relative humidity."
+  },
+  {
+    classLevel: 6,
+    subject: "Science",
+    chapter: "Chapter 3: Separation of Substances",
+    question: "Consider four mixtures:\n1. Mustard oil and Water\n2. Kerosene and Water\n3. Alcohol and Water\n4. Petrol and Water\nWhich mixture CANNOT be separated using a separating funnel / decantation?",
+    options: ["Mixture 3 (Alcohol and Water)", "Mixture 1", "Mixture 2", "Mixture 4"],
+    correctAnswer: 0,
+    difficulty: "HARD",
+    damage: 350,
+    explanation: "Alcohol and water form a completely miscible homogenous solution via hydrogen bonding and cannot be phase-separated by gravity decantation."
+  },
+  {
+    classLevel: 6,
+    subject: "Science",
+    chapter: "Chapter 3: Separation of Substances",
+    question: "Read the statements:\nStatement 1: Different substances dissolve to different extents in the same volume of water at the same temperature.\nStatement 2: A saturated solution of salt can dissolve more salt if it is heated.\nStatement 3: Saturated solutions can dissolve infinite solute without temperature change.\nWhich statements are TRUE?",
+    options: ["Statements 1 and 2 only", "Statements 2 and 3 only", "Statements 1 and 3 only", "All Statements 1, 2, and 3"],
+    correctAnswer: 0,
+    difficulty: "HARD",
+    damage: 350,
+    explanation: "Statement 3 is false because saturation defines a strict thermodynamic limit at constant temperature. Statements 1 and 2 are true."
+  },
+  {
+    classLevel: 6,
+    subject: "Science",
+    chapter: "Chapter 3: Separation of Substances",
+    question: "Why is folded cone-shaped filter paper moistened with a few drops of water before placing it in the glass funnel?",
+    options: [
+      "To ensure the filter paper adheres tightly to the glass funnel walls without air pockets, preventing unfiltered liquid from bypassing the filter",
+      "To make the paper change color",
+      "To burn impurities",
+      "To block water from passing"
+    ],
+    correctAnswer: 0,
+    difficulty: "HARD",
+    damage: 350,
+    explanation: "Capillary wetting seals the paper against the glass conical wall, creating continuous hydrostatic suction and preventing bypass channels."
+  },
+  {
+    classLevel: 6,
+    subject: "Science",
+    chapter: "Chapter 3: Separation of Substances",
+    question: "A beaker contains 100 mL of water saturated with salt at 25°C (containing 36 g salt). What happens if another 10 g of salt is stirred in at 25°C?",
+    options: [
+      "The extra 10 g of salt will remain completely undissolved at the bottom of the beaker",
+      "The water will freeze instantly",
+      "The extra salt will dissolve and make the solution cold",
+      "The solution will evaporate completely"
+    ],
+    correctAnswer: 0,
+    difficulty: "HARD",
+    damage: 350,
+    explanation: "At 25°C, water's solubility limit for NaCl is ~36 g/100 mL; any additional solute remains in dynamic equilibrium as undissolved precipitate."
+  },
+  {
+    classLevel: 6,
+    subject: "Science",
+    chapter: "Chapter 3: Separation of Substances",
+    question: "Which of the following describes the physicochemical principle underlying 'Loading' using Alum in water treatment?",
+    options: [
+      "Alum hydrolyzes to provide multivalent positive aluminium ions that neutralize negative zeta potentials on suspended clay particles, causing rapid aggregation and precipitation",
+      "Alum boils the water",
+      "Alum turns dirt into oxygen gas",
+      "Alum magnifies light rays"
+    ],
+    correctAnswer: 0,
+    difficulty: "HARD",
+    damage: 350,
+    explanation: "Coagulation/loading collapses the electrical double layer of colloidal clay particulates, enabling rapid gravity sedimentation."
+  }
+];
+
+console.log('Generated Science Ch3:', scienceQuestions.length);
+fs.writeFileSync('C:/EduVerse/class 6/cross_subject/science_ch3.json', JSON.stringify(scienceQuestions, null, 2), 'utf8');

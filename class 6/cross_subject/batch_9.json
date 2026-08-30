@@ -1,0 +1,3842 @@
+[
+  {
+    "classLevel": 6,
+    "subject": "Science",
+    "chapter": "Chapter 9: Electricity and Circuits",
+    "question": "What is a portable source of electricity that produces electric current from chemicals stored inside it?",
+    "options": [
+      "Electric Cell (Dry Cell / Battery)",
+      "Electric Switch",
+      "Electric Bulb",
+      "Conductor"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "An electric cell converts internal chemical energy into electrical energy through electrochemical reactions."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Science",
+    "chapter": "Chapter 9: Electricity and Circuits",
+    "question": "How many terminals does an electric cell have?",
+    "options": [
+      "Two terminals (a Positive terminal marked '+' and a Negative terminal marked '-')",
+      "One terminal",
+      "Three terminals",
+      "Four terminals"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "The metal cap on top is the Positive (+) terminal, while the flat metal disc at the base is the Negative (-) terminal."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Science",
+    "chapter": "Chapter 9: Electricity and Circuits",
+    "question": "What is the tiny, thin coiled metallic wire inside an incandescent bulb that glows white-hot and emits light when electricity passes through it?",
+    "options": [
+      "Filament (made of Tungsten)",
+      "Terminal",
+      "Switch",
+      "Insulator"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "The high-resistance tungsten filament heats up due to Joule heating, glowing incandescently to emit visible light."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Science",
+    "chapter": "Chapter 9: Electricity and Circuits",
+    "question": "A simple electrical device used to either break (open) an electric circuit or complete (close) it is called a:",
+    "options": [
+      "Switch",
+      "Filament",
+      "Cell",
+      "Fuse"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "An electrical switch acts as a mechanical gate opening or closing the conductive loop."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Science",
+    "chapter": "Chapter 9: Electricity and Circuits",
+    "question": "Materials that allow electric current to pass through them easily (such as copper wire, aluminium, iron, silver) are called:",
+    "options": [
+      "Conductors of Electricity",
+      "Insulators",
+      "Semiconductors",
+      "Dielectrics"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "Conductors possess abundant free delocalized valence electrons that facilitate electric charge flow."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Science",
+    "chapter": "Chapter 9: Electricity and Circuits",
+    "question": "Materials that do NOT allow electric current to pass through them (such as rubber, plastic, dry wood, glass) are called:",
+    "options": [
+      "Insulators of Electricity",
+      "Conductors",
+      "Metals",
+      "Electrolytes"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "Insulators have tightly bound localized valence electrons with high dielectric resistivity, blocking electrical conduction."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Science",
+    "chapter": "Chapter 9: Electricity and Circuits",
+    "question": "What is the conventional direction of electric current flow in an electric circuit?",
+    "options": [
+      "From the Positive (+) terminal to the Negative (-) terminal of the electric cell",
+      "From the Negative (-) terminal to the Positive (+) terminal",
+      "From both terminals at the same time",
+      "Current does not have any direction"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "By historical convention, current is defined as positive charge flow moving from the positive (+) to negative (-) terminal."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Science",
+    "chapter": "Chapter 9: Electricity and Circuits",
+    "question": "Why does an electric bulb NOT glow when its internal filament is broken (fused bulb)?",
+    "options": [
+      "Because a broken filament creates a gap in the path, resulting in an Incomplete (Open) Circuit through which current cannot flow",
+      "Because the glass melts",
+      "Because the cell explodes",
+      "Because light leaks out of the hole"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "A severed filament breaks electrical continuity, preventing loop closure and extinguishing electron drift."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Science",
+    "chapter": "Chapter 9: Electricity and Circuits",
+    "question": "Why are electrical wires and screwdriver handles coated with Rubber or Plastic?",
+    "options": [
+      "Rubber and plastic are electrical Insulators that protect electricians and users from dangerous electric shocks",
+      "To make wires look colorful and shiny",
+      "To make wires heavier",
+      "Because metals melt in air"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "Insulating polymer sleeves shield against direct galvanic human contact with live energized conductors."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Science",
+    "chapter": "Chapter 9: Electricity and Circuits",
+    "question": "Is the human body a Conductor or an Insulator of electricity?",
+    "options": [
+      "A Conductor of electricity (since our body fluid contains dissolved mineral salts and water)",
+      "An Insulator",
+      "Neither",
+      "Only our hair conducts electricity"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "Saline electrolytes in blood and tissues render the human body conductive, which is why electric shocks occur."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Science",
+    "chapter": "Chapter 9: Electricity and Circuits",
+    "question": "What happens if the two terminals of an electric cell are connected directly with a wire WITHOUT connecting a bulb or switch?",
+    "options": [
+      "The chemicals in the cell get exhausted very rapidly, generating dangerous heat that can damage the cell (Short Circuit)",
+      "The wire turns into gold",
+      "The cell charges to 1000 volts",
+      "Nothing happens"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "A direct zero-resistance short-circuit produces high discharge current, rapidly draining chemical potential and overheating the cell."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Science",
+    "chapter": "Chapter 9: Electricity and Circuits",
+    "question": "Which metal is the MOST COMMONLY used for making domestic electrical connecting wires due to its high conductivity and affordability?",
+    "options": [
+      "Copper (and Aluminium)",
+      "Iron",
+      "Lead",
+      "Mercury"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "Copper has exceptionally low electrical resistivity, high ductility, and corrosion resistance, making it the industry standard."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Science",
+    "chapter": "Chapter 9: Electricity and Circuits",
+    "question": "What is an 'Electric Circuit' in physics?",
+    "options": [
+      "A complete, unbroken closed conducting loop through which electric current can flow continuously from one terminal of the source to the other",
+      "A machine that makes electricity from coal",
+      "A broken wire hanging in air",
+      "A battery inside a toy"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "An electric circuit provides a closed continuous conducting path for circulating electric charges."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Science",
+    "chapter": "Chapter 9: Electricity and Circuits",
+    "question": "What is the difference between a 'Closed Circuit' and an 'Open Circuit'?",
+    "options": [
+      "In a Closed Circuit, the conducting path is completely unbroken and current flows to glow the bulb; in an Open Circuit, there is a break or open switch, stopping current flow",
+      "In a Closed Circuit, the switch is OFF",
+      "In an Open Circuit, electricity flows faster",
+      "There is no difference"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "Closed = complete conducting loop (current flows); Open = disconnected path (infinite resistance, zero current)."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Science",
+    "chapter": "Chapter 9: Electricity and Circuits",
+    "question": "How can a student build a simple DIY electric switch using common household items?",
+    "options": [
+      "Using two metal drawing pins pushed into a wooden board, connected by a movable metal safety pin that bridges the gap when rotated",
+      "Using a piece of plastic thread",
+      "Using a rubber eraser",
+      "Using a dry stick"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "The metal safety pin rotates into contact with the second brass drawing pin, completing or opening the conductive circuit."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Science",
+    "chapter": "Chapter 9: Electricity and Circuits",
+    "question": "What happens when you insert an iron key versus a rubber eraser into the gap of a conduction tester circuit?",
+    "options": [
+      "With the iron key (conductor), the bulb glows brightly; with the rubber eraser (insulator), the bulb does NOT glow",
+      "Both make the bulb glow",
+      "Neither makes the bulb glow",
+      "The rubber eraser makes the bulb explode"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "Iron conducts electrons, completing the circuit; rubber blocks electron flow, leaving the circuit open."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Science",
+    "chapter": "Chapter 9: Electricity and Circuits",
+    "question": "Why is pure Distilled Water an insulator, whereas ordinary Tap Water / Salty Water is a conductor of electricity?",
+    "options": [
+      "Distilled water has no free ions; tap water and saline water contain dissolved mineral salts and electrolytes that dissociate into free charge carriers",
+      "Because tap water is colder",
+      "Because distilled water is made of oil",
+      "Because salt destroys electricity"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "Dissociated cations (Na⁺, Ca²⁺) and anions (Cl⁻, SO₄²⁻) in tap water provide electrolytic charge transport."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Science",
+    "chapter": "Chapter 9: Electricity and Circuits",
+    "question": "Why is graphite (the lead inside a pencil) an exception among non-metals in terms of electrical conductivity?",
+    "options": [
+      "Graphite is a good conductor of electricity because its layered hexagonal carbon lattice has delocalized pi electrons that move freely",
+      "Because pencil lead is made of iron",
+      "Because it is painted black",
+      "Pencils do not conduct electricity"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "Sp² hybridized carbon sheets in graphite possess free pi electrons, making pencil lead electrically conductive."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Science",
+    "chapter": "Chapter 9: Electricity and Circuits",
+    "question": "What are the two thick supporting wires inside an electric bulb attached to?",
+    "options": [
+      "One thick wire is attached to the metal tip at the base, and the other is attached to the metal casing around the base (the two terminals of the bulb)",
+      "Both are connected to the glass shell",
+      "Both are connected to the ceiling",
+      "They are not connected to anything"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "The two lead-in support wires connect the filament ends to two isolated terminal contacts at the bulb base."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Science",
+    "chapter": "Chapter 9: Electricity and Circuits",
+    "question": "Why should you NEVER touch an electric wall socket or an operating electrical appliance with WET hands?",
+    "options": [
+      "Water drastically reduces the electrical resistance of human skin, facilitating massive electric shock that can be fatal",
+      "Because water makes the socket dirty",
+      "Because the appliance will switch off",
+      "Because water turns into ice"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "Wet skin impedance drops from 100,000 Ω to <1,000 Ω, allowing dangerous milliamps of 230V current to pass through the body."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Science",
+    "chapter": "Chapter 9: Electricity and Circuits",
+    "question": "Why do electricians wear thick Rubber Gloves and rubber-soled shoes while repairing electrical installations?",
+    "options": [
+      "Rubber is an electrical insulator that breaks any potential ground path for electric current through their body to the earth",
+      "To keep their hands warm in winter",
+      "To improve their grip on tools",
+      "To follow fashion rules"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "Dielectric rubber PPE isolates the worker from electrical grounding, preventing electrocution."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Science",
+    "chapter": "Chapter 9: Electricity and Circuits",
+    "question": "What is an 'Electric Torch' and how does it function when switched ON?",
+    "options": [
+      "The slide switch pushes a metal contact strip against the bulb base, completing the closed circuit between cells, reflector, and bulb",
+      "It uses burning oil",
+      "It catches sunlight in a glass",
+      "It generates electricity from air"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "Sliding the switch closes the internal spring-contact circuit, illuminating the bulb backed by a parabolic reflector."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Science",
+    "chapter": "Chapter 9: Electricity and Circuits",
+    "question": "Why is Tungsten metal specifically chosen to make the filament of an electric incandescent bulb?",
+    "options": [
+      "It has an exceptionally high melting point (~3422°C) and high electrical resistance, glowing white-hot without melting",
+      "Because it is very cheap",
+      "Because it is a liquid at room temperature",
+      "Because it is transparent"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "Tungsten sustains operating temperatures over 2,500°C due to its record metallic melting point of 3,422°C."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Science",
+    "chapter": "Chapter 9: Electricity and Circuits",
+    "question": "Why should we NEVER use the electric current from domestic 230V AC mains wall sockets for classroom experiments?",
+    "options": [
+      "230V AC mains current carries lethal power that can cause fatal electric shocks and fires; school experiments must strictly use small 1.5V DC electric cells",
+      "Because the school bill will be too high",
+      "Because wall sockets do not work during the day",
+      "Because mains electricity has no voltage"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "Domestic 230V mains is lethal; educational circuits must strictly use low-voltage 1.5V DC dry cells for complete safety."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Science",
+    "chapter": "Chapter 9: Electricity and Circuits",
+    "question": "Which of the following common household objects is an electrical CONDUCTOR?",
+    "options": [
+      "Brass key and aluminium foil",
+      "Plastic ruler and wooden pencil body",
+      "Glass bangle and rubber band",
+      "Cotton cloth and paper sheet"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "Brass (copper-zinc alloy) and aluminium foil are metallic conductors."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Science",
+    "chapter": "Chapter 9: Electricity and Circuits",
+    "question": "Which of the following common household objects is an electrical INSULATOR?",
+    "options": [
+      "Plastic pen body, glass marble, dry rubber eraser, wooden stick",
+      "Iron nail and steel spoon",
+      "Copper wire and gold ring",
+      "Aluminium key"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "Polymers, ceramics, elastomers, and celluloid wood are non-conductive electrical insulators."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Science",
+    "chapter": "Chapter 9: Electricity and Circuits",
+    "question": "Why is air generally classified as a non-conductor (insulator) of electricity?",
+    "options": [
+      "Dry atmospheric air consists of neutral gas molecules without free charge carriers, preventing electric current from jumping across open gaps under normal voltages",
+      "Because air is too light",
+      "Because air has no oxygen",
+      "Because air only conducts heat"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "Air has a high dielectric breakdown threshold (~3 kV/mm); neutral N₂ and O₂ molecules block low-voltage conduction."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Science",
+    "chapter": "Chapter 9: Electricity and Circuits",
+    "question": "What warning sign featuring a skull and crossed bones is prominently displayed on electrical substations and transformers?",
+    "options": [
+      "DANGER - High Voltage Electric Shock Hazard",
+      "Hospital zone",
+      "No parking",
+      "Speed breaker ahead"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "The skull and crossbones caution sign warns of lethal high-voltage electrocution hazards."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Science",
+    "chapter": "Chapter 9: Electricity and Circuits",
+    "question": "Read the statements:\nAssertion (A): Both conductors and insulators are equally indispensable in electrical wiring and domestic power systems.\nReason (R): Conductors (like copper wires) carry electric current to operate appliances, while insulators (like PVC sleeves and Bakelite switches) prevent current leakage and protect users from lethal shocks.\nChoose the correct option:",
+    "options": [
+      "Both (A) and (R) are true, and (R) is the correct explanation of (A).",
+      "Both (A) and (R) are true, but (R) is NOT the correct explanation of (A).",
+      "(A) is true, but (R) is false.",
+      "(A) is false, but (R) is true."
+    ],
+    "correctAnswer": 0,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "Electrical engineering requires a dual design: low-impedance pathways (conductors) enclosed by high-dielectric boundaries (insulators)."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Science",
+    "chapter": "Chapter 9: Electricity and Circuits",
+    "question": "Spot the IMPOSTER in the following group of materials classified by their electrical conductivity:\nGroup: [Silver (Conductor), Copper (Conductor), Graphite (Conductor), Pure Rubber (Conductor)]",
+    "options": [
+      "Silver (Conductor)",
+      "Copper (Conductor)",
+      "Graphite (Conductor)",
+      "Pure Rubber (Conductor)"
+    ],
+    "correctAnswer": 3,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "'Pure Rubber' is a powerful electrical INSULATOR, NOT a conductor."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Science",
+    "chapter": "Chapter 9: Electricity and Circuits",
+    "question": "A student connects two electric cells in series to power a bulb. Which terminal connection configuration is CORRECT to light up the bulb?",
+    "options": [
+      "The Positive (+) terminal of the first cell is connected to the Negative (-) terminal of the second cell in series",
+      "Positive connected to Positive",
+      "Negative connected to Negative",
+      "Connecting only one cell and leaving the other disconnected"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "Series battery connection requires connecting opposite polarity terminals (+ to -) to add cell voltages (1.5V + 1.5V = 3.0V)."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Science",
+    "chapter": "Chapter 9: Electricity and Circuits",
+    "question": "Match Column I (Electrical Components) with Column II (Functions):\n(a) Electric Cell -> (i) Produces electricity from chemical energy\n(b) Switch        -> (ii) Breaks or completes an electric circuit\n(c) Filament      -> (iii) Glows incandescently to emit light\n(d) Rubber sleeve -> (iv) Insulates and prevents electric shock",
+    "options": [
+      "a-(i), b-(ii), c-(iii), d-(iv)",
+      "a-(ii), b-(i), c-(iv), d-(iii)",
+      "a-(iv), b-(iii), c-(ii), d-(i)",
+      "a-(iii), b-(iv), c-(i), d-(ii)"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "Cell = chemical energy; Switch = circuit breaker; Filament = light emission; Rubber = insulation."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Science",
+    "chapter": "Chapter 9: Electricity and Circuits",
+    "question": "Read the statements regarding electric circuits:\nStatement 1: A bulb glows only when electric current flows through its closed complete circuit.\nStatement 2: In an electric cell, current stops flowing when all stored chemical energy is fully consumed.\nStatement 3: Plastic is used to make the core conducting wires inside power cables.\nWhich statements are TRUE?",
+    "options": [
+      "Statements 1 and 2 only",
+      "Statements 2 and 3 only",
+      "Statements 1 and 3 only",
+      "All Statements 1, 2, and 3"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "Statement 3 is false because copper/aluminium metals form core conducting wires, while plastic is used solely as an outer insulation jacket. Statements 1 and 2 are true."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Science",
+    "chapter": "Chapter 9: Electricity and Circuits",
+    "question": "Why is an incandescent bulb filled with an inert gas like Argon or Nitrogen rather than ordinary air?",
+    "options": [
+      "Atmospheric oxygen in air would instantly burn and oxidize the white-hot tungsten filament into vapor within seconds; inert gas prevents oxidation",
+      "To make the bulb lighter so it can float",
+      "Because argon makes the bulb green",
+      "To cool the glass completely"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "Inert argon/nitrogen eliminates oxidative combustion of the tungsten filament while suppressing filament thermal evaporation."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Science",
+    "chapter": "Chapter 9: Electricity and Circuits",
+    "question": "Consider four test materials placed in the gap of a conduction tester circuit:\n1. A steel safety pin\n2. A wooden matchstick\n3. An aluminium foil strip\n4. A glass slide\nWhich combination of materials will allow the test bulb to GLOW?",
+    "options": [
+      "Materials 1 and 3 only (Steel and Aluminium)",
+      "Materials 2 and 4 only",
+      "Materials 1, 2, and 3",
+      "All 4 materials"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "Steel and aluminium are metallic conductors that complete the circuit loop; wood and glass are insulators."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Science",
+    "chapter": "Chapter 9: Electricity and Circuits",
+    "question": "What is the physical reason why a bird perching with BOTH feet on a single bare 11,000V live high-tension electrical wire does NOT get electrocuted?",
+    "options": [
+      "Both feet are on the same conductor wire at the exact same electrical potential (voltage), so there is zero potential difference (ΔV = 0) and no current flows through the bird's body",
+      "Because birds have rubber feet",
+      "Because high voltage cannot hurt animals",
+      "Because birds fly faster than current"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "Current requires a potential difference (I = ΔV/R); being at equipotential with no ground circuit prevents current flow through the bird."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Science",
+    "chapter": "Chapter 9: Electricity and Circuits",
+    "question": "What is a 'Light Emitting Diode' (LED) and why is it rapidly replacing traditional tungsten incandescent bulbs in modern lighting?",
+    "options": [
+      "A semiconductor diode that converts electrical energy directly into light with minimal heat generation, consuming up to 85% less electricity and lasting 25 times longer",
+      "A bulb that works on kerosene",
+      "A chemical candle in a tube",
+      "A battery that shines on its own"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "Solid-state electroluminescence in LEDs achieves high luminous efficacy (>100 lm/W) without incandescent thermal waste."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Science",
+    "chapter": "Chapter 9: Electricity and Circuits",
+    "question": "Why must the metal terminals of an electric cell and connecting wires be scraped clean with sandpaper before making circuit connections?",
+    "options": [
+      "To remove non-conductive oxide layers, dirt, or lacquer coatings on the metal surface that create high contact resistance and block electric flow",
+      "To make the wire shiny",
+      "To change the wire's color",
+      "To make the wire thinner"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "Abrasive cleaning strips insulating metal oxide tarnish films, establishing pristine low-impedance galvanic contact."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Science",
+    "chapter": "Chapter 9: Electricity and Circuits",
+    "question": "What is the primary function of a safety 'Electric Fuse' in household circuits?",
+    "options": [
+      "A sacrificial safety wire with a low melting point that melts and breaks the circuit automatically if excessive dangerously high current flows",
+      "To store extra electricity for night",
+      "To make the current flow faster",
+      "To turn off the water pump"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "A fuse provides over-current protection: excessive fault current melts the fusible alloy link, interrupting the circuit before wires overheat."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Science",
+    "chapter": "Chapter 9: Electricity and Circuits",
+    "question": "What is the foundational law of electricity established in physics regarding the conservation of electric charge in any closed circuit?",
+    "options": [
+      "Electric charge is neither created nor destroyed in a circuit; the total rate of charge entering any point must exactly equal the rate of charge leaving it",
+      "Electricity disappears into thin air",
+      "Batteries create new electrons from nothing",
+      "Charges turn into gravity"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "Kirchhoff's Current Law reflects fundamental charge conservation: net nodal divergence of continuous current is zero."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Mathematics",
+    "chapter": "Chapter 9: Data Handling",
+    "question": "A collection of numbers or facts gathered together to give meaningful information is called:",
+    "options": [
+      "Data",
+      "Fraction",
+      "Integer",
+      "Equation"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "Data is a systematic collection of numerical facts, observations, and measurements gathered for analysis."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Mathematics",
+    "chapter": "Chapter 9: Data Handling",
+    "question": "In data handling, vertical and diagonal strokes used to count and group data items in bunches of FIVE (5) are called:",
+    "options": [
+      "Tally Marks (卌 = 5)",
+      "Roman Numerals",
+      "Fractions",
+      "Decimals"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "Tally marks group counts into bundles of 5 (four vertical lines crossed diagonally by a fifth) for rapid counting."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Mathematics",
+    "chapter": "Chapter 9: Data Handling",
+    "question": "What number is represented by the standard tally marks: 卌 卌 ||| ?",
+    "options": [
+      "13 (5 + 5 + 3 = 13)",
+      "15",
+      "10",
+      "12"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "Two full 5-bundles (5 + 5 = 10) plus 3 individual strokes equals 13."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Mathematics",
+    "chapter": "Chapter 9: Data Handling",
+    "question": "The representation of statistical data through PICTURES or symbols of objects is called a:",
+    "options": [
+      "Pictograph",
+      "Bar Graph",
+      "Pie Chart",
+      "Histogram"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "A pictograph represents data counts using icons or pictorial symbols with an assigned scaling key."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Mathematics",
+    "chapter": "Chapter 9: Data Handling",
+    "question": "In a pictograph, if one symbol 🚗 represents 10 cars, how many cars are represented by 4 complete car symbols: 🚗🚗🚗🚗 ?",
+    "options": [
+      "40 cars (4 × 10 = 40)",
+      "4 cars",
+      "10 cars",
+      "14 cars"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "4 symbols × 10 cars per symbol = 40 cars."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Mathematics",
+    "chapter": "Chapter 9: Data Handling",
+    "question": "In a pictograph, if one symbol 📖 represents 50 books, how many book symbols are needed to represent 250 books in a school library?",
+    "options": [
+      "5 symbols (250 ÷ 50 = 5)",
+      "10 symbols",
+      "25 symbols",
+      "4 symbols"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "250 books ÷ 50 books/symbol = 5 symbols."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Mathematics",
+    "chapter": "Chapter 9: Data Handling",
+    "question": "A visual representation of data using rectangular bars of UNIFORM WIDTH with equal spacing between them is called a:",
+    "options": [
+      "Bar Graph (or Bar Diagram)",
+      "Pictograph",
+      "Line Graph",
+      "Venn Diagram"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "A bar graph uses uniform rectangular bars whose lengths/heights are proportional to the values they represent."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Mathematics",
+    "chapter": "Chapter 9: Data Handling",
+    "question": "In a standard bar graph, what does the HEIGHT (or length) of each rectangular bar represent?",
+    "options": [
+      "The numerical value or frequency of that category",
+      "The color of the category",
+      "The width of the page",
+      "The time of day"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "The height/length of a bar is directly proportional to the magnitude/frequency of the data it represents."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Mathematics",
+    "chapter": "Chapter 9: Data Handling",
+    "question": "The number of times a particular observation or data item occurs in a given dataset is called its:",
+    "options": [
+      "Frequency",
+      "Class",
+      "Range",
+      "Scale"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "Frequency measures the repetition count of a specific data value in a dataset."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Mathematics",
+    "chapter": "Chapter 9: Data Handling",
+    "question": "How is the number 18 represented using standard Tally Marks?",
+    "options": [
+      "卌 卌 卌 ||| (5 + 5 + 5 + 3 = 18)",
+      "卌 卌 ||||",
+      "卌 卌 卌 卌",
+      "||||||||||||||||||"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "18 = 3 groups of 5 plus 3 individual strokes = 卌 卌 卌 |||."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Mathematics",
+    "chapter": "Chapter 9: Data Handling",
+    "question": "If a bar graph uses a scale of '1 unit length = 5 students', what is the number of students represented by a bar of height 6 units?",
+    "options": [
+      "30 students (6 × 5 = 30)",
+      "11 students",
+      "25 students",
+      "35 students"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "6 units × 5 students/unit = 30 students."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Mathematics",
+    "chapter": "Chapter 9: Data Handling",
+    "question": "What is data collected originally by an investigator firsthand for a specific purpose called?",
+    "options": [
+      "Primary Data (Raw Data)",
+      "Secondary Data",
+      "Pictograph",
+      "Bar Graph"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "Primary raw data is collected firsthand directly from original sources by the investigator."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Mathematics",
+    "chapter": "Chapter 9: Data Handling",
+    "question": "The following are marks scored by 20 students out of 10 in a class test: 5, 8, 4, 7, 5, 8, 6, 7, 5, 9, 8, 5, 6, 4, 7, 5, 6, 8, 9, 5. What is the frequency of mark 5?",
+    "options": [
+      "6 times (Mark 5 appears 6 times)",
+      "5 times",
+      "4 times",
+      "7 times"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "Counting instances of mark 5 in the list: 5, 5, 5, 5, 5, 5 -> exactly 6 times."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Mathematics",
+    "chapter": "Chapter 9: Data Handling",
+    "question": "In a school library survey, the number of books read across subjects is: English: 40, Maths: 60, Science: 80, Social Science: 50. If 1 book icon represents 10 books in a pictograph, how many icons represent Science and Social Science respectively?",
+    "options": [
+      "Science: 8 icons ; Social Science: 5 icons",
+      "Science: 6 icons ; Social: 4 icons",
+      "Science: 80 icons ; Social: 50 icons",
+      "Science: 4 icons ; Social: 5 icons"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "Science = 80/10 = 8 icons; Social Science = 50/10 = 5 icons."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Mathematics",
+    "chapter": "Chapter 9: Data Handling",
+    "question": "A bar graph shows the number of bicycles manufactured by a factory from Monday to Friday: Mon: 300, Tue: 250, Wed: 400, Thu: 350, Fri: 500. On which day was the MAXIMUM number of bicycles manufactured, and on which day was the MINIMUM?",
+    "options": [
+      "Maximum: Friday (500) ; Minimum: Tuesday (250)",
+      "Maximum: Wednesday ; Minimum: Monday",
+      "Maximum: Friday ; Minimum: Monday",
+      "Maximum: Thursday ; Minimum: Tuesday"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "Highest bar = Friday (500 bicycles); Shortest bar = Tuesday (250 bicycles)."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Mathematics",
+    "chapter": "Chapter 9: Data Handling",
+    "question": "What is the total number of bicycles manufactured from Monday to Friday in the above factory?",
+    "options": [
+      "1,800 bicycles (300 + 250 + 400 + 350 + 500 = 1,800)",
+      "1,700 bicycles",
+      "2,000 bicycles",
+      "1,650 bicycles"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "300 + 250 + 400 + 350 + 500 = 1,800 bicycles."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Mathematics",
+    "chapter": "Chapter 9: Data Handling",
+    "question": "In a bar graph showing the favorite fruits of students: Mango: 45, Apple: 30, Banana: 25, Orange: 20. How many MORE students prefer Mango than Orange?",
+    "options": [
+      "25 students (45 - 20 = 25)",
+      "15 students",
+      "20 students",
+      "35 students"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "Difference = 45 - 20 = 25 students."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Mathematics",
+    "chapter": "Chapter 9: Data Handling",
+    "question": "If a bar graph is drawn with a vertical scale of '1 cm = 20 vehicles', what will be the height of the bar representing 140 vehicles?",
+    "options": [
+      "7 cm (140 ÷ 20 = 7 cm)",
+      "6 cm",
+      "8 cm",
+      "14 cm"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "140 vehicles ÷ 20 vehicles/cm = 7 cm."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Mathematics",
+    "chapter": "Chapter 9: Data Handling",
+    "question": "A die was thrown 25 times and the following outcomes were recorded: 1, 2, 5, 4, 3, 6, 1, 3, 2, 5, 6, 4, 5, 2, 1, 3, 6, 5, 4, 2, 5, 3, 1, 5, 6. Which outcome appeared the MAXIMUM number of times?",
+    "options": [
+      "Number 5 (frequency = 6 times)",
+      "Number 6 (frequency = 4 times)",
+      "Number 1 (frequency = 4 times)",
+      "Number 2 (frequency = 4 times)"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "Counting frequencies: 1:4, 2:4, 3:4, 4:3, 5:6, 6:4. Number 5 has the highest frequency (6)."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Mathematics",
+    "chapter": "Chapter 9: Data Handling",
+    "question": "What is the primary advantage of a Bar Graph over a raw list of data numbers?",
+    "options": [
+      "It allows instant visual comparison of different categories at a single glance without tedious manual counting",
+      "It makes the page look colorful",
+      "It reduces the actual numbers",
+      "It changes mathematics into art"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "Bar graphs provide immediate visual comparison of magnitudes across categorical variables."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Mathematics",
+    "chapter": "Chapter 9: Data Handling",
+    "question": "In a pictograph where 1 🌲 represents 100 trees, Village A has 6 🌲, Village B has 4 🌲, and Village C has 7 🌲. What is the total tree count in all three villages together?",
+    "options": [
+      "1,700 trees ((6 + 4 + 7) × 100 = 17 × 100 = 1,700)",
+      "1,500 trees",
+      "1,800 trees",
+      "1,600 trees"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "(6 + 4 + 7) = 17 symbols × 100 trees/symbol = 1,700 trees."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Mathematics",
+    "chapter": "Chapter 9: Data Handling",
+    "question": "Why must all rectangular bars in a bar graph be of EQUAL WIDTH?",
+    "options": [
+      "Because the width does not represent any data value; keeping widths uniform prevents visual distortion and misleading impressions",
+      "Because paper only has one width",
+      "Because rulers cannot draw different widths",
+      "It is not necessary, widths can be random"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "Bar width is non-data carrying; uniform width ensures that visual area remains strictly proportional to bar height."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Mathematics",
+    "chapter": "Chapter 9: Data Handling",
+    "question": "In a class of 30 students, blood groups were recorded as: A: 8, B: 12, O: 7, AB: 3. What fraction of the total class has blood group B?",
+    "options": [
+      "2/5 (12/30 = 2/5)",
+      "1/3",
+      "1/4",
+      "3/10"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "12 / 30 = 2/5."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Mathematics",
+    "chapter": "Chapter 9: Data Handling",
+    "question": "What is the first step in constructing a frequency distribution table from disorganized raw data?",
+    "options": [
+      "Identify the distinct categories, count occurrences systematically using tally marks, and total the frequencies",
+      "Draw bars immediately without counting",
+      "Color the page with pencils",
+      "Guess the highest number"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "Systematic tally grouping transforms raw unstructured data into an organized frequency distribution."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Mathematics",
+    "chapter": "Chapter 9: Data Handling",
+    "question": "If 1 symbol 👶 represents 20 babies born in a hospital, how many symbols represent 70 babies (including a partial symbol)?",
+    "options": [
+      "3 ½ symbols (3 complete symbols = 60 + half symbol = 10)",
+      "4 symbols",
+      "3 symbols",
+      "7 symbols"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "70 ÷ 20 = 3.5 symbols (3 full icons + 1 half icon)."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Mathematics",
+    "chapter": "Chapter 9: Data Handling",
+    "question": "In a bar graph showing weekly rainfall: Mon: 2 cm, Tue: 5 cm, Wed: 0 cm, Thu: 3 cm, Fri: 6 cm, Sat: 4 cm, Sun: 1 cm. What is the difference in rainfall between the wettest and driest days?",
+    "options": [
+      "6 cm (Wettest = Fri: 6 cm ; Driest = Wed: 0 cm ; Difference = 6 - 0 = 6 cm)",
+      "5 cm",
+      "4 cm",
+      "7 cm"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "Maximum (6 cm) - Minimum (0 cm) = 6 cm."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Mathematics",
+    "chapter": "Chapter 9: Data Handling",
+    "question": "How can a bar graph be drawn horizontally instead of vertically?",
+    "options": [
+      "By placing categories on the vertical Y-axis and numerical values/scale on the horizontal X-axis (Horizontal Bar Graph)",
+      "By turning the paper upside down",
+      "By drawing curved lines",
+      "Bar graphs cannot be drawn horizontally"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "Horizontal bar graphs plot categories along the ordinate (Y) and lengths along the abscissa (X)."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Mathematics",
+    "chapter": "Chapter 9: Data Handling",
+    "question": "What is the total sum of frequencies in a complete frequency table equal to?",
+    "options": [
+      "The total number of observations in the original dataset",
+      "Zero",
+      "Always 100",
+      "The highest mark"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "The sum of all category frequencies (Σf) must exactly equal total sample size N."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Mathematics",
+    "chapter": "Chapter 9: Data Handling",
+    "question": "Read the statements:\nAssertion (A): Choosing an appropriate scale (e.g. 1 unit = 100 units or 1 unit = 500 units) is the most critical decision when constructing a bar graph.\nReason (R): If the scale is too small, the bars will not fit on the paper; if the scale is too large, the bars become too tiny and differences between categories become indistinguishable.\nChoose the correct option:",
+    "options": [
+      "Both (A) and (R) are true, and (R) is the correct explanation of (A).",
+      "Both (A) and (R) are true, but (R) is NOT the correct explanation of (A).",
+      "(A) is true, but (R) is false.",
+      "(A) is false, but (R) is true."
+    ],
+    "correctAnswer": 0,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "Optimal scaling maps data range to physical page dimensions while maximizing visual resolution."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Mathematics",
+    "chapter": "Chapter 9: Data Handling",
+    "question": "Spot the IMPOSTER in the following tally representations of numbers:\nGroup: [8 = 卌 |||, 10 = 卌 卌, 14 = 卌 卌 ||||, 16 = 卌 卌 卌 ||]",
+    "options": [
+      "8 = 卌 |||",
+      "10 = 卌 卌",
+      "14 = 卌 卌 ||||",
+      "16 = 卌 卌 卌 ||"
+    ],
+    "correctAnswer": 3,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "'16 = 卌 卌 卌 ||' is FALSE; 5 + 5 + 5 + 2 = 17 (NOT 16). 16 is 卌 卌 卌 |."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Mathematics",
+    "chapter": "Chapter 9: Data Handling",
+    "question": "A bar graph shows the population of a town over four decades:\n1990: 20,000 ; 2000: 35,000 ; 2010: 55,000 ; 2020: 80,000.\nIn which decade was the ABSOLUTE INCREASE in population the greatest?",
+    "options": [
+      "2010 to 2020 (Increase = 80,000 - 55,000 = 25,000)",
+      "1990 to 2000 (15,000)",
+      "2000 to 2010 (20,000)",
+      "All decades had equal increase"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "1990-2000: +15k; 2000-2010: +20k; 2010-2020: +25k. Greatest absolute increase was in 2010–2020."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Mathematics",
+    "chapter": "Chapter 9: Data Handling",
+    "question": "Match Column I (Data Concepts) with Column II (Definitions / Symbols):\n(a) Tally Mark bundle 卌 -> (i) Proportional rectangular visual display\n(b) Pictograph          -> (ii) Groups 5 counts together\n(c) Frequency            -> (iii) Uses pictures with scaling keys\n(d) Bar Graph            -> (iv) Number of occurrences of a data item",
+    "options": [
+      "a-(ii), b-(iii), c-(iv), d-(i)",
+      "a-(i), b-(ii), c-(iii), d-(iv)",
+      "a-(iv), b-(iii), c-(ii), d-(i)",
+      "a-(iii), b-(iv), c-(i), d-(ii)"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "卌 = 5 bundle; Pictograph = picture icons; Frequency = count; Bar graph = proportional bars."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Mathematics",
+    "chapter": "Chapter 9: Data Handling",
+    "question": "Read the statements regarding graphs:\nStatement 1: In a pictograph, representing very large numbers (like 1,387) precisely is difficult because drawing fractional symbols is imprecise.\nStatement 2: In a bar graph, spacing between any two consecutive bars must be equal and uniform.\nStatement 3: Bar graphs can only represent whole numbers and never fractions.\nWhich statements are TRUE?",
+    "options": [
+      "Statements 1 and 2 only",
+      "Statements 2 and 3 only",
+      "Statements 1 and 3 only",
+      "All Statements 1, 2, and 3"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "Statement 3 is false because bar heights can represent continuous rational values and decimals. Statements 1 and 2 are true."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Mathematics",
+    "chapter": "Chapter 9: Data Handling",
+    "question": "A factory produces 4 types of vehicles in a month: Cars: 120, Vans: 60, Trucks: 40, Motorcycles: 180. If drawn on a bar graph with scale 1 cm = 20 vehicles, what will be the combined total height of all 4 bars?",
+    "options": [
+      "20 cm ((120 + 60 + 40 + 180)/20 = 400/20 = 20 cm)",
+      "18 cm",
+      "25 cm",
+      "40 cm"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "Heights: Cars=6 cm, Vans=3 cm, Trucks=2 cm, Bikes=9 cm. Total = 6+3+2+9 = 20 cm."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Mathematics",
+    "chapter": "Chapter 9: Data Handling",
+    "question": "Consider a dataset of 50 student test scores ranging from minimum score 12 to maximum score 98. What is the most appropriate scale for the vertical axis of a bar graph on standard graph paper (height ~20 cm)?",
+    "options": [
+      "1 unit length = 10 marks (so 100 marks fits comfortably in 10 cm)",
+      "1 unit length = 1 mark (needs 100 cm paper)",
+      "1 unit length = 50 marks",
+      "1 unit length = 100 marks"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "1 unit = 10 marks maps the 0–100 range across a 10 cm vertical span."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Mathematics",
+    "chapter": "Chapter 9: Data Handling",
+    "question": "In a pictograph where 1 🌸 represents 50 flowers, a florist sells 225 roses and 175 lilies. How many total flower symbols (including fractions) represent roses and lilies together?",
+    "options": [
+      "8 symbols (225/50 = 4.5 symbols ; 175/50 = 3.5 symbols ; Total = 4.5 + 3.5 = 8 symbols)",
+      "7 symbols",
+      "9 symbols",
+      "10 symbols"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "Total flowers = 225 + 175 = 400 flowers ÷ 50 flowers/symbol = 8 symbols."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Mathematics",
+    "chapter": "Chapter 9: Data Handling",
+    "question": "A survey asked 120 people their favorite mode of transport: Bus: 48, Train: 36, Car: 24, Bicycle: 12. What percentage of total people prefer Bus?",
+    "options": [
+      "40% ((48/120) × 100% = 40%)",
+      "48%",
+      "30%",
+      "36%"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "(48 ÷ 120) × 100% = 0.40 × 100% = 40%."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Mathematics",
+    "chapter": "Chapter 9: Data Handling",
+    "question": "What is a 'Double Bar Graph' used for in advanced data handling?",
+    "options": [
+      "To display two sets of data simultaneously side by side for direct comparison between two groups or two time periods",
+      "To draw bars twice as wide",
+      "To color bars with two paints",
+      "To erase mistakes"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "Double bar graphs pair bivariate data series side by side across common categories."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Mathematics",
+    "chapter": "Chapter 9: Data Handling",
+    "question": "If the mean (average) score of 5 matches played by a batsman is 42 runs, what is the total number of runs scored by him in all 5 matches?",
+    "options": [
+      "210 runs (Total = Mean × Number of matches = 42 × 5 = 210)",
+      "200 runs",
+      "225 runs",
+      "180 runs"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "Sum = Mean × N = 42 × 5 = 210 runs."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Mathematics",
+    "chapter": "Chapter 9: Data Handling",
+    "question": "Why is statistical data collection and visual representation critical in modern scientific and government decision making?",
+    "options": [
+      "It transforms vast, complex numerical data into clear, objective visual trends, enabling evidence-based policy, planning, and scientific forecasting",
+      "Because computers cannot read numbers without graphs",
+      "To make government books heavier",
+      "Because graphs eliminate the need for mathematics"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "Visual analytics reveal underlying trends, outliers, and distributions to guide evidence-based policy formulation."
+  },
+  {
+    "classLevel": 6,
+    "subject": "English",
+    "chapter": "Chapter 9: Desert Animals",
+    "question": "What are Deserts defined as in 'Desert Animals'?",
+    "options": [
+      "The driest places on Earth that sometimes go for months or even years without any rainfall",
+      "Areas covered with snow",
+      "Places full of rivers",
+      "Dense tropical forests"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "Deserts are hyper-arid biomes enduring prolonged droughts, yet harboring uniquely adapted wildlife."
+  },
+  {
+    "classLevel": 6,
+    "subject": "English",
+    "chapter": "Chapter 9: Desert Animals",
+    "question": "How do tiny desert rodents called 'Gerbils' spend the hottest scorching hours of the desert day?",
+    "options": [
+      "In cool, deep underground burrows",
+      "Swimming in desert lakes",
+      "Climbing cactus trees",
+      "Sleeping in clouds"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "Gerbils avoid lethal surface heat by retreating into cool subterranean burrows."
+  },
+  {
+    "classLevel": 6,
+    "subject": "English",
+    "chapter": "Chapter 9: Desert Animals",
+    "question": "How do strange desert insects called 'Darkling Beetles' harvest drinking water in the arid desert?",
+    "options": [
+      "They catch morning fog droplets on their legs and tilt their bodies upward so the water drops trickle down directly into their mouths",
+      "They dig 50-foot wells",
+      "They drink water from cactus roots",
+      "They don't need water at all"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "Stenocara beetles employ fog-basking: condensing coastal fog on hydrophilic shell bumps and tilting to drink."
+  },
+  {
+    "classLevel": 6,
+    "subject": "English",
+    "chapter": "Chapter 9: Desert Animals",
+    "question": "Why do Rattlesnakes vibrate their dry rattle tails when threatened by an intruder?",
+    "options": [
+      "To produce a loud rattling warning sound that can be heard up to 30 metres away, warning the intruder to back off",
+      "To attract prey animals",
+      "To keep their tail warm",
+      "To make music in the desert"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "Interlocking keratinous rattle segments buzz audibly at 30 meters as an aposematic defensive warning."
+  },
+  {
+    "classLevel": 6,
+    "subject": "English",
+    "chapter": "Chapter 9: Desert Animals",
+    "question": "How do snakes 'hear' approaching footsteps despite being completely deaf to airborne sounds?",
+    "options": [
+      "They feel ground vibrations directly through their sensitive belly scales and lower jawbones",
+      "Through big hidden ears",
+      "Through their long tongues",
+      "Through their eyes"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "Lacking tympanic ears, snakes detect substrate acoustic seismic vibrations through somatic mechanoreceptors."
+  },
+  {
+    "classLevel": 6,
+    "subject": "English",
+    "chapter": "Chapter 9: Desert Animals",
+    "question": "What animal is famous for its astonishing speed and lightning-fast reflexes that enable it to kill deadly venomous snakes without getting bitten?",
+    "options": [
+      "Mongoose",
+      "Desert Rat",
+      "Camel",
+      "Gerbil"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "Mongooses combine agile predatory reflexes with specialized neurotoxin resistance to conquer venomous snakes."
+  },
+  {
+    "classLevel": 6,
+    "subject": "English",
+    "chapter": "Chapter 9: Desert Animals",
+    "question": "What are the two distinct types of Camels found in the world?",
+    "options": [
+      "Dromedary Camel (with ONE hump) and Bactrian Camel (with TWO humps)",
+      "African Camel and Arctic Camel",
+      "Water Camel and Land Camel",
+      "Mountain Camel and Forest Camel"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "Camelus dromedarius has a single hump, while Central Asian Camelus bactrianus possesses two humps."
+  },
+  {
+    "classLevel": 6,
+    "subject": "English",
+    "chapter": "Chapter 9: Desert Animals",
+    "question": "What is stored inside a Camel's hump?",
+    "options": [
+      "Fat (which acts as a nourishment reserve and metabolic food supply)",
+      "Drinking water",
+      "Air",
+      "Bones"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "A camel's hump stores adipose fat tissue, metabolizing into metabolic water and nourishment during famine."
+  },
+  {
+    "classLevel": 6,
+    "subject": "English",
+    "chapter": "Chapter 9: Desert Animals",
+    "question": "In the supplementary story 'What Happened to the Reptiles', what was the peaceful forest village called?",
+    "options": [
+      "Pambupatti (a village where people of all communities lived in peace)",
+      "Rampur",
+      "Shampur",
+      "Sitapur"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "Pambupatti was an idyllic peaceful village where Prem took shelter after escaping communal violence in his hometown."
+  },
+  {
+    "classLevel": 6,
+    "subject": "English",
+    "chapter": "Chapter 9: Desert Animals",
+    "question": "Who was Makara in the ancient fable of Pambupatti?",
+    "options": [
+      "The biggest, strongest, and most arrogant crocodile who was the president of the reptile council",
+      "A wise old tortoise",
+      "A poisonous snake",
+      "A harmless lizard"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "Makara was a domineering tyrant crocodile who bullied other reptiles into unquestioning subservience."
+  },
+  {
+    "classLevel": 6,
+    "subject": "English",
+    "chapter": "Chapter 9: Desert Animals",
+    "question": "Which gentle, slow-moving creature was the FIRST to be expelled from the forest by Makara's tyrannical decree?",
+    "options": [
+      "The Tortoises (led by wise old Prem)",
+      "The Snakes",
+      "The Lizards",
+      "The Frogs"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "Makara expelled peaceful tortoises first, arrogantly mocking their slow pace and protective shells."
+  },
+  {
+    "classLevel": 6,
+    "subject": "English",
+    "chapter": "Chapter 9: Desert Animals",
+    "question": "What happened to the forest ecosystem of Pambupatti after Makara drove out tortoises, snakes, and lizards?",
+    "options": [
+      "A disastrous ecological crisis occurred: rats multiplied out of control eating eggs, rotting smell filled the air, and millions of insects infested the forest",
+      "The forest became a paradise",
+      "Crocodiles became twice as large",
+      "All rivers turned into gold"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "Expelling natural predator and scavenger reptiles triggered an explosive plague of rats and insect pests."
+  },
+  {
+    "classLevel": 6,
+    "subject": "English",
+    "chapter": "Chapter 9: Desert Animals",
+    "question": "How does a Mongoose successfully defeat a venomous cobra in combat?",
+    "options": [
+      "By constantly dodging, darting, and exhausting the snake through repeated evasive maneuvers until the tired snake strikes slowly, then biting its neck",
+      "By using poison gas",
+      "By hypnotizing the snake with music",
+      "By hiding in trees"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "Tactical agility: the mongoose dances out of strike range, exhausting the serpent's energy reserves before delivering a lethal cervical bite."
+  },
+  {
+    "classLevel": 6,
+    "subject": "English",
+    "chapter": "Chapter 9: Desert Animals",
+    "question": "Why do Mongooses hunt in friendly groups and constantly stay in touch using twittering and whistling sounds?",
+    "options": [
+      "To keep track of each other while hunting in dense brush and alert the whole clan immediately if a predator (like a hawk or eagle) appears",
+      "Because they like to sing songs",
+      "To scare away all insects",
+      "To practice speaking human words"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "Cooperative social foraging: contact calls coordinate foraging while sentinel alarm chirps warn of aerial raptors."
+  },
+  {
+    "classLevel": 6,
+    "subject": "English",
+    "chapter": "Chapter 9: Desert Animals",
+    "question": "How much water can a thirsty camel drink in a single 10-minute session?",
+    "options": [
+      "As much as 30 gallons (about 500 glasses of water / ~115 to 135 litres)",
+      "Only 1 glass",
+      "5 litres",
+      "500 gallons"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "Rehydrating camels can drink over 100 litres of water in 10 minutes without osmotic hemolysis."
+  },
+  {
+    "classLevel": 6,
+    "subject": "English",
+    "chapter": "Chapter 9: Desert Animals",
+    "question": "How does a Camel's mouth adapt to eating thorny desert cactus plants without getting hurt?",
+    "options": [
+      "Its mouth is lined with tough, thick leathery mucous membranes that sharp thorns cannot pierce",
+      "It melts thorns with boiling saliva",
+      "It has steel teeth",
+      "It only eats powdered cactus"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "Dense, heavily keratinized conical oral papillae protect the camel's palate and gums against sharp desert thorns."
+  },
+  {
+    "classLevel": 6,
+    "subject": "English",
+    "chapter": "Chapter 9: Desert Animals",
+    "question": "Why was Makara forced to send urgent letters recalling all the expelled snakes, tortoises, and lizards back to Pambupatti?",
+    "options": [
+      "Because millions of bold rats were chewing baby crocodile tails, frogs were invading every pool, and the forest had become unlivable without ecological balance",
+      "Because Makara wanted to have a dance party",
+      "Because the crocodiles felt lonely",
+      "Because the government ordered them"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "Ecological pestilence humbled Makara's tyranny, forcing him to restore the reptile community."
+  },
+  {
+    "classLevel": 6,
+    "subject": "English",
+    "chapter": "Chapter 9: Desert Animals",
+    "question": "What profound moral and environmental lesson does Zai Whitaker's story 'What Happened to the Reptiles' teach?",
+    "options": [
+      "Every single creature in an ecosystem has an indispensable role; no species or human community is superior, and harmony requires celebrating diversity and mutual coexistence",
+      "Crocodiles are the wisest animals",
+      "Villages should have no reptiles",
+      "Rats make the best pets"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "An ecological and socio-political allegory demonstrating that biodiversity and human pluralism are essential for survival."
+  },
+  {
+    "classLevel": 6,
+    "subject": "English",
+    "chapter": "Chapter 9: Desert Animals",
+    "question": "Why did the old man in Pambupatti tell the story to Prem, who had fled from communal riots in his distant city?",
+    "options": [
+      "To make Prem realize that hatred, exclusion, and intolerance destroy society, and that he must return home to spread the message of peaceful communal coexistence",
+      "To scare Prem with crocodile tales",
+      "To teach him how to hunt snakes",
+      "To pass time before dinner"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "The elder uses the ecological parable to heal Prem's trauma and inspire him as an ambassador of communal harmony."
+  },
+  {
+    "classLevel": 6,
+    "subject": "English",
+    "chapter": "Chapter 9: Desert Animals",
+    "question": "What does the word 'Predator' mean in biological ecology?",
+    "options": [
+      "An animal that hunts, kills, and feeds on other animals (prey)",
+      "An animal that only eats grass",
+      "An animal that lives underwater",
+      "A pet animal"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "A predator is a carnivorous organism that preys upon other organisms for metabolic sustenance."
+  },
+  {
+    "classLevel": 6,
+    "subject": "English",
+    "chapter": "Chapter 9: Desert Animals",
+    "question": "How do Rattle snakes perceive warm-blooded prey in total darkness?",
+    "options": [
+      "Through thermal heat-sensing pit organs located between their eyes and nostrils that detect infrared thermal radiation",
+      "Using night-vision glasses",
+      "Through loud shouts",
+      "By smelling with their ears"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "Pit vipers possess infrared pit organs mapping thermal infrared signatures of endothermic rodent prey."
+  },
+  {
+    "classLevel": 6,
+    "subject": "English",
+    "chapter": "Chapter 9: Desert Animals",
+    "question": "What is 'Communal Harmony' as reflected in the village of Pambupatti?",
+    "options": [
+      "People belonging to different religions, backgrounds, and communities living together in mutual peace, respect, equality, and brotherhood",
+      "People fighting over property",
+      "Only one group ruling everyone else",
+      "Living without any laws"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "Communal harmony embodies interfaith tolerance, pluralistic fraternity, and peaceful social cohesion."
+  },
+  {
+    "classLevel": 6,
+    "subject": "English",
+    "chapter": "Chapter 9: Desert Animals",
+    "question": "Why does a camel sweat so little compared to humans?",
+    "options": [
+      "Camels can withstand body temperature fluctuations up to 42°C without sweating, conserving vital body water in desert heat",
+      "Camels have no sweat glands",
+      "Camels are made of stone",
+      "Camels only sweat in winter"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "Adaptive heterothermy: camels tolerate diurnal body temperatures from 34°C to 41°C, minimizing evaporative sweat loss."
+  },
+  {
+    "classLevel": 6,
+    "subject": "English",
+    "chapter": "Chapter 9: Desert Animals",
+    "question": "What role do lizards and chameleons play in maintaining the forest ecology of Pambupatti?",
+    "options": [
+      "They consume millions of insects and pests daily, preventing insect swarms from destroying plants and trees",
+      "They build wooden bridges",
+      "They dig deep rivers",
+      "They hunt crocodiles"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "Insectivorous lizards provide critical top-down biological pest control in forest biomes."
+  },
+  {
+    "classLevel": 6,
+    "subject": "English",
+    "chapter": "Chapter 9: Desert Animals",
+    "question": "What does the phrase 'to turn a deaf ear' mean when Makara ignored the pleas of smaller animals?",
+    "options": [
+      "To deliberately refuse to listen or pay attention to someone",
+      "To become physically deaf from loud noise",
+      "To clean one's ear",
+      "To whisper a secret"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "'To turn a deaf ear' is an idiom meaning to deliberately disregard advice or compassionate appeals."
+  },
+  {
+    "classLevel": 6,
+    "subject": "English",
+    "chapter": "Chapter 9: Desert Animals",
+    "question": "Why do female mongooses in a clan give birth to litters at the same time in communal dens?",
+    "options": [
+      "So that nursing mothers can share parental duties and adult group members take turns babysitting while others forage for food",
+      "Because they have no houses",
+      "To fight other animals",
+      "By pure accidental coincidence"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "Synchronous breeding enables communal alloparental care, elevating pup survival against predators."
+  },
+  {
+    "classLevel": 6,
+    "subject": "English",
+    "chapter": "Chapter 9: Desert Animals",
+    "question": "In 'What Happened to the Reptiles', what happened to the forest's atmosphere after the expelled animals returned?",
+    "options": [
+      "The rats were eaten, insects were controlled, rotting foul smell vanished, and the pristine green forest returned to healthy peace and normal balance",
+      "The forest caught fire",
+      "The animals fought a war",
+      "The river dried up"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "Trophic balance was immediately restored as returning predators and scavengers re-established ecological equilibrium."
+  },
+  {
+    "classLevel": 6,
+    "subject": "English",
+    "chapter": "Chapter 9: Desert Animals",
+    "question": "Who is the prominent naturalist and wildlife author who wrote 'What Happened to the Reptiles'?",
+    "options": [
+      "Zai Whitaker",
+      "Ruskin Bond",
+      "Jim Corbett",
+      "Salim Ali"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "Zai Whitaker, co-founder of the Madras Crocodile Bank Trust, authored this environmental allegory."
+  },
+  {
+    "classLevel": 6,
+    "subject": "English",
+    "chapter": "Chapter 9: Desert Animals",
+    "question": "Read the statements:\nAssertion (A): The socio-ecological collapse of Pambupatti occurred because Makara disrupted the fundamental trophic web of the forest.\nReason (R): Removing snakes caused a hyper-exponential population explosion of egg-eating rodents, while expelling tortoises allowed rotting algae and carcasses to foul the river water.\nChoose the correct option:",
+    "options": [
+      "Both (A) and (R) are true, and (R) is the correct explanation of (A).",
+      "Both (A) and (R) are true, but (R) is NOT the correct explanation of (A).",
+      "(A) is true, but (R) is false.",
+      "(A) is false, but (R) is true."
+    ],
+    "correctAnswer": 0,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "The story models trophic cascade: removing keystone predators and detritivores induces severe ecological collapse."
+  },
+  {
+    "classLevel": 6,
+    "subject": "English",
+    "chapter": "Chapter 9: Desert Animals",
+    "question": "Spot the IMPOSTER in the following group of desert animal adaptations from Chapter 9:\nGroup: [Darkling Beetle (Fog harvesting), Gerbil (Cool underground burrows), Camel (Fat-filled hump), Mongoose (Swimming underwater with gills)]",
+    "options": [
+      "Darkling Beetle (Fog harvesting)",
+      "Gerbil (Cool underground burrows)",
+      "Camel (Fat-filled hump)",
+      "Mongoose (Swimming underwater with gills)"
+    ],
+    "correctAnswer": 3,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "Mongooses are terrestrial desert/grassland mammals with fur that breathe air through lungs, NOT with gills."
+  },
+  {
+    "classLevel": 6,
+    "subject": "English",
+    "chapter": "Chapter 9: Desert Animals",
+    "question": "Analyze the deeper political symbolism in Makara's rhetoric when he banished the lizards because 'they change color and cannot be trusted':",
+    "options": [
+      "It represents fascist and majoritarian prejudice that invents irrational, fabricated excuses to demonize and purge minority communities from society",
+      "It shows that lizards are bad painters",
+      "It proves that reptiles don't like green color",
+      "It is a guide on how to catch lizards"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "Makara's irrational scapegoating mirrors authoritarian propaganda used to persecute pluralistic minorities."
+  },
+  {
+    "classLevel": 6,
+    "subject": "English",
+    "chapter": "Chapter 9: Desert Animals",
+    "question": "Match Column I (Desert Creatures) with Column II (Physiological & Behavioral Adaptations):\n(a) Darkling Beetle -> (i) Fast reflex dodges exhausting cobras\n(b) Dromedary Camel -> (ii) Condenses coastal fog droplets on body\n(c) Mongoose        -> (iii) Single dorsal fat hump for famine metabolism\n(d) Rattlesnake     -> (iv) Warning tail buzz & infrared heat pit organs",
+    "options": [
+      "a-(ii), b-(iii), c-(i), d-(iv)",
+      "a-(i), b-(ii), c-(iii), d-(iv)",
+      "a-(iv), b-(iii), c-(ii), d-(i)",
+      "a-(iii), b-(iv), c-(i), d-(ii)"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "Beetle = fog condensation; Camel = fat hump; Mongoose = agility/dodges; Rattlesnake = rattle buzz/pits."
+  },
+  {
+    "classLevel": 6,
+    "subject": "English",
+    "chapter": "Chapter 9: Desert Animals",
+    "question": "Read the statements:\nStatement 1: Camels can survive in freezing cold winter deserts as well as scorching hot sandy deserts.\nStatement 2: A rattlesnake strikes only when it feels cornered, threatened, or stepped upon.\nStatement 3: Mongooses eat only sweet fruits and never meat.\nWhich statements are TRUE?",
+    "options": [
+      "Statements 1 and 2 only",
+      "Statements 2 and 3 only",
+      "Statements 1 and 3 only",
+      "All Statements 1, 2, and 3"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "Statement 3 is false because mongooses are voracious carnivores eating snakes, rodents, and insects. Statements 1 and 2 are true."
+  },
+  {
+    "classLevel": 6,
+    "subject": "English",
+    "chapter": "Chapter 9: Desert Animals",
+    "question": "What is the grammatical function of the underlined relative clause in: 'Prem met an old man *who told him the story of Pambupatti*.'?",
+    "options": [
+      "Adjective Clause (modifying the antecedent noun 'old man')",
+      "Noun Clause",
+      "Adverb Clause of Reason",
+      "Prepositional Phrase"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "The relative clause 'who told him...' acts as an Adjective Clause characterizing the noun 'old man'."
+  },
+  {
+    "classLevel": 6,
+    "subject": "English",
+    "chapter": "Chapter 9: Desert Animals",
+    "question": "What biochemical mechanism protects the mongoose when it receives a minor bite from a venomous snake?",
+    "options": [
+      "Mutated nicotinic acetylcholine receptors in mongoose muscle cells prevent snake alpha-neurotoxins from binding, conferring intrinsic venom resistance",
+      "Mongooses have cold blood that freezes venom",
+      "Mongooses drink special snake antidotes from rivers",
+      "Their fur has iron shields"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "Glycosylation on the alpha-subunit of muscle nAChRs physically blocks snake neurotoxin binding in mongooses."
+  },
+  {
+    "classLevel": 6,
+    "subject": "English",
+    "chapter": "Chapter 9: Desert Animals",
+    "question": "What is the meaning of the adjective 'Unanimous' when Makara declared his orders without voting?",
+    "options": [
+      "Held in complete total agreement by everyone (though in Makara's case, enforced through sheer terror and intimidation)",
+      "Divided equally into two parts",
+      "Completely secret",
+      "Written in pencil"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "'Unanimous' denotes complete collective consensus without dissent."
+  },
+  {
+    "classLevel": 6,
+    "subject": "English",
+    "chapter": "Chapter 9: Desert Animals",
+    "question": "How does the structure of camel red blood cells (erythrocytes) differ from that of humans to support extreme dehydration and rehydration?",
+    "options": [
+      "Camels have oval-shaped (elliptical) erythrocytes that can expand up to 240% of their volume during rapid rehydration without bursting, and flow smoothly even in thick viscous dehydrated blood",
+      "Camels have square blood cells",
+      "Camels have no red blood cells",
+      "Camel blood is made of pure water"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "Elliptical erythrocytes resist osmotic lysis and navigate hyper-viscous microcirculation during severe dehydration."
+  },
+  {
+    "classLevel": 6,
+    "subject": "English",
+    "chapter": "Chapter 9: Desert Animals",
+    "question": "Why did Prem initially refuse to return to his village, stating: 'I never want to go back there'?",
+    "options": [
+      "He was deeply traumatized by sectarian communal violence where neighbors burned houses and attacked each other in religious madness",
+      "He had lost his school bag",
+      "He wanted to become a fisherman",
+      "He was afraid of rain"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "Socio-political violence had shattered Prem's faith in human decency until Pambupatti restored his hope."
+  },
+  {
+    "classLevel": 6,
+    "subject": "English",
+    "chapter": "Chapter 9: Desert Animals",
+    "question": "What literary device is utilized in 'What Happened to the Reptiles' to address human social conflicts through animal characters?",
+    "options": [
+      "Allegory / Fable (using animal personification to deliver deep moral, social, and political truths)",
+      "Satirical farce",
+      "Science fiction",
+      "Sonnet"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "An Allegory uses a narrative surface level (reptiles in a forest) to symbolize deeper political realities (communal tolerance)."
+  },
+  {
+    "classLevel": 6,
+    "subject": "English",
+    "chapter": "Chapter 9: Desert Animals",
+    "question": "What ultimate philosophical conviction inspires Prem to return to his wounded city at the conclusion of the story?",
+    "options": [
+      "That even if cynical people laugh or resist at first, repeating the story of Pambupatti will eventually open human minds to the sacred truth of mutual harmony and interdependence",
+      "To become the mayor of the city",
+      "To build a wall around his house",
+      "To buy expensive camels"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "Prem embraces the duty of storytelling to heal fractured societies through the gospel of pluralistic harmony."
+  },
+  {
+    "classLevel": 6,
+    "subject": "GK",
+    "chapter": "Chapter 9: Sports, Famous Champions & Traditional Games of India",
+    "question": "Who is celebrated as the 'Wizard of Hockey' (Hockey Wizard) in India, who led the Indian hockey team to Olympic gold medals in 1928, 1932, and 1936?",
+    "options": [
+      "Major Dhyan Chand",
+      "Balbir Singh Sr.",
+      "Dhanraj Pillay",
+      "Manpreet Singh"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "Major Dhyan Chand scored over 400 international goals; his birthday on 29th August is celebrated as India's National Sports Day."
+  },
+  {
+    "classLevel": 6,
+    "subject": "GK",
+    "chapter": "Chapter 9: Sports, Famous Champions & Traditional Games of India",
+    "question": "Why is 'National Sports Day' celebrated across India every year on 29th August?",
+    "options": [
+      "To commemorate the birth anniversary of hockey legend Major Dhyan Chand",
+      "To celebrate India's first cricket World Cup victory",
+      "To mark the founding of the Olympic Association",
+      "To honor Sachin Tendulkar's birthday"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "The Government of India designated 29 August as National Sports Day in honor of Major Dhyan Chand."
+  },
+  {
+    "classLevel": 6,
+    "subject": "GK",
+    "chapter": "Chapter 9: Sports, Famous Champions & Traditional Games of India",
+    "question": "Who is the legendary Indian cricketer revered as the 'Master Blaster' and 'God of Cricket', who scored 100 international centuries across Test and ODI cricket?",
+    "options": [
+      "Sachin Tendulkar",
+      "Sunil Gavaskar",
+      "Kapil Dev",
+      "Virat Kohli"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "Sachin Tendulkar holds the world record for 100 international centuries and 34,357 international runs, awarded the Bharat Ratna in 2014."
+  },
+  {
+    "classLevel": 6,
+    "subject": "GK",
+    "chapter": "Chapter 9: Sports, Famous Champions & Traditional Games of India",
+    "question": "Who won India's FIRST EVER Olympic Gold Medal in Track and Field (Athletics) in Men's Javelin Throw at the Tokyo 2020 Olympics?",
+    "options": [
+      "Neeraj Chopra (87.58 metres throw)",
+      "Milkha Singh",
+      "Abhinav Bindra",
+      "Sushil Kumar"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "Neeraj Chopra created history on 7 August 2021 by winning independent India's maiden track and field Olympic gold medal (celebrated as National Javelin Day)."
+  },
+  {
+    "classLevel": 6,
+    "subject": "GK",
+    "chapter": "Chapter 9: Sports, Famous Champions & Traditional Games of India",
+    "question": "Who was the FIRST Indian to win an INDIVIDUAL Olympic Gold Medal (in Men's 10m Air Rifle Shooting at the 2008 Beijing Olympics)?",
+    "options": [
+      "Abhinav Bindra",
+      "Rajyavardhan Singh Rathore",
+      "Gagan Narang",
+      "Jitu Rai"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "Abhinav Bindra clinched India's first individual Olympic gold in Beijing 2008 in the 10m Air Rifle event."
+  },
+  {
+    "classLevel": 6,
+    "subject": "GK",
+    "chapter": "Chapter 9: Sports, Famous Champions & Traditional Games of India",
+    "question": "Who became India's FIRST Chess Grandmaster in 1988 and went on to win the World Chess Championship five times?",
+    "options": [
+      "Viswanathan Anand ('Vishy')",
+      "D. Gukesh",
+      "R. Praggnanandhaa",
+      "Pentala Harikrishna"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "Viswanathan Anand became India's first Grandmaster in 1988, 5-time World Champion, and inaugural recipient of the Khel Ratna Award."
+  },
+  {
+    "classLevel": 6,
+    "subject": "GK",
+    "chapter": "Chapter 9: Sports, Famous Champions & Traditional Games of India",
+    "question": "Under whose captaincy did the Indian Cricket Team win its FIRST EVER ICC Cricket World Cup in 1983 at Lord's, London?",
+    "options": [
+      "Kapil Dev",
+      "Sunil Gavaskar",
+      "Mohinder Amarnath",
+      "Dilip Vengsarkar"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "Kapil Dev led underdog India to an iconic 1983 World Cup final victory over the two-time champion West Indies at Lord's."
+  },
+  {
+    "classLevel": 6,
+    "subject": "GK",
+    "chapter": "Chapter 9: Sports, Famous Champions & Traditional Games of India",
+    "question": "Who is the world-renowned Indian boxer from Manipur who won SIX World Amateur Boxing Championship gold medals and an Olympic bronze medal (known as 'Magnificent Mary')?",
+    "options": [
+      "M.C. Mary Kom (Chungneijang Mary Kom Hmangte)",
+      "Lovlina Borgohain",
+      "Nikhat Zareen",
+      "Sarita Devi"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "Mary Kom is the only female boxer to become World Champion six times and win eight World Championship medals."
+  },
+  {
+    "classLevel": 6,
+    "subject": "GK",
+    "chapter": "Chapter 9: Sports, Famous Champions & Traditional Games of India",
+    "question": "Who is the legendary Indian track and field sprinter reverently known as the 'Flying Sikh'?",
+    "options": [
+      "Milkha Singh",
+      "PT Usha",
+      "Gurbachan Singh Randhawa",
+      "Manpreet Singh"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "Milkha Singh won 4 Asian Games gold medals and finished a legendary 4th in the 400m final at the 1960 Rome Olympics."
+  },
+  {
+    "classLevel": 6,
+    "subject": "GK",
+    "chapter": "Chapter 9: Sports, Famous Champions & Traditional Games of India",
+    "question": "Who is celebrated as the 'Payyoli Express' and currently serves as the President of the Indian Olympic Association (IOA)?",
+    "options": [
+      "P.T. Usha (Pilavullakandi Thekkeparambil Usha)",
+      "Anju Bobby George",
+      "Hima Das",
+      "Dutee Chand"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "P.T. Usha dominated Asian track events, winning 4 gold medals at the 1986 Seoul Asian Games and missing 1984 Los Angeles 400m hurdles bronze by 1/100th of a second."
+  },
+  {
+    "classLevel": 6,
+    "subject": "GK",
+    "chapter": "Chapter 9: Sports, Famous Champions & Traditional Games of India",
+    "question": "Which traditional Indian contact sport originated in ancient Tamil Nadu and Punjab, featuring raiders chanting 'Kabaddi-Kabaddi' in a single breath?",
+    "options": [
+      "Kabaddi",
+      "Kho-Kho",
+      "Gilli-Danda",
+      "Mallakhamb"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "Kabaddi is an ancient indigenous sport where raiders tag defenders under cantus breath control."
+  },
+  {
+    "classLevel": 6,
+    "subject": "GK",
+    "chapter": "Chapter 9: Sports, Famous Champions & Traditional Games of India",
+    "question": "What is the highest sporting honour and award given annually by the Government of India for outstanding sports performance (formerly Rajiv Gandhi Khel Ratna)?",
+    "options": [
+      "Major Dhyan Chand Khel Ratna Award",
+      "Arjuna Award",
+      "Dronacharya Award",
+      "Padma Shri"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "Renamed in 2021, the Major Dhyan Chand Khel Ratna Award is India's supreme apex sporting honor."
+  },
+  {
+    "classLevel": 6,
+    "subject": "GK",
+    "chapter": "Chapter 9: Sports, Famous Champions & Traditional Games of India",
+    "question": "Who is the FIRST Indian woman to win TWO consecutive Olympic Medals in individual events (Silver at Rio 2016 and Bronze at Tokyo 2020 in Badminton)?",
+    "options": [
+      "P.V. Sindhu (Pusarla Venkata Sindhu)",
+      "Saina Nehwal",
+      "Jwala Gutta",
+      "Ashwini Ponnappa"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "P.V. Sindhu became the first Indian woman to claim multiple individual Olympic medals and World Badminton Championship gold (2019)."
+  },
+  {
+    "classLevel": 6,
+    "subject": "GK",
+    "chapter": "Chapter 9: Sports, Famous Champions & Traditional Games of India",
+    "question": "Who was the FIRST Indian woman athlete to win an Olympic Medal (Bronze medal in Weightlifting at the Sydney 2000 Olympics)?",
+    "options": [
+      "Karnam Malleswari",
+      "Mirabai Chanu",
+      "Mary Kom",
+      "Saina Nehwal"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "Karnam Malleswari lifted 240 kg in the 69 kg weightlifting category in Sydney 2000, becoming India's first female Olympic medalist."
+  },
+  {
+    "classLevel": 6,
+    "subject": "GK",
+    "chapter": "Chapter 9: Sports, Famous Champions & Traditional Games of India",
+    "question": "Which ancient martial art form originating in Kerala in the 3rd century BCE is recognized as the OLDEST surviving martial art in the world?",
+    "options": [
+      "Kalaripayattu",
+      "Silambam",
+      "Thang-Ta",
+      "Gatka"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "Kalaripayattu integrates strikes, weaponry (Urumi flexible sword), grappling, and Marma point vital-strike healing."
+  },
+  {
+    "classLevel": 6,
+    "subject": "GK",
+    "chapter": "Chapter 9: Sports, Famous Champions & Traditional Games of India",
+    "question": "Which traditional indigenous sport of Maharashtra and Madhya Pradesh involves gymnasts performing aerial acrobatics and yogic postures on a vertical wooden pole or rope?",
+    "options": [
+      "Mallakhamb",
+      "Kalaripayattu",
+      "Kho-Kho",
+      "Yogasana"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "Mallakhamb ('Malla' = wrestler, 'Khamb' = pole) uses a polished teak or sheesham vertical pole for acrobatic feats."
+  },
+  {
+    "classLevel": 6,
+    "subject": "GK",
+    "chapter": "Chapter 9: Sports, Famous Champions & Traditional Games of India",
+    "question": "What prestigious national sports award is conferred upon eminent sports COACHES and trainers in India for producing international medalists?",
+    "options": [
+      "Dronacharya Award (instituted in 1985)",
+      "Arjuna Award",
+      "Khel Ratna Award",
+      "Rashtriya Khel Protsahan Puraskar"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "Named after Guru Dronacharya of the Mahabharata, this award honors outstanding coaching mentors."
+  },
+  {
+    "classLevel": 6,
+    "subject": "GK",
+    "chapter": "Chapter 9: Sports, Famous Champions & Traditional Games of India",
+    "question": "Who is the legendary Indian cricket captain who won ALL THREE major ICC white-ball trophies: T20 World Cup (2007), ODI World Cup (2011), and Champions Trophy (2013)?",
+    "options": [
+      "M.S. Dhoni (Mahendra Singh Dhoni)",
+      "Sourav Ganguly",
+      "Virat Kohli",
+      "Rohit Sharma"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "M.S. Dhoni is the only captain in cricket history to capture the ICC T20 World Cup, ICC ODI World Cup, and ICC Champions Trophy."
+  },
+  {
+    "classLevel": 6,
+    "subject": "GK",
+    "chapter": "Chapter 9: Sports, Famous Champions & Traditional Games of India",
+    "question": "Which Indian badminton star became the FIRST Indian shuttler to attain the World No. 1 ranking in Women's Singles (2015) and won Olympic Bronze at London 2012?",
+    "options": [
+      "Saina Nehwal",
+      "P.V. Sindhu",
+      "Aparna Popat",
+      "Ashwini Ponnappa"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "Saina Nehwal pioneered modern Indian badminton with 24 BWF titles, 2012 Olympic bronze, and world rank #1."
+  },
+  {
+    "classLevel": 6,
+    "subject": "GK",
+    "chapter": "Chapter 9: Sports, Famous Champions & Traditional Games of India",
+    "question": "Who is the Indian cue sports maestro who has won a world-record 27 World Championship titles across both Billiards and Snooker?",
+    "options": [
+      "Pankaj Advani",
+      "Geet Sethi",
+      "Michael Ferreira",
+      "Yasin Merchant"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "Pankaj Advani is the only cueist in the world to win world titles in both long and short formats of snooker and billiards."
+  },
+  {
+    "classLevel": 6,
+    "subject": "GK",
+    "chapter": "Chapter 9: Sports, Famous Champions & Traditional Games of India",
+    "question": "Who was the FIRST Indian woman to win a medal in Track and Field at the World Athletics Championships (Bronze in Long Jump at Paris in 2003)?",
+    "options": [
+      "Anju Bobby George (6.70m leap)",
+      "P.T. Usha",
+      "Kamaljeet Sandhu",
+      "Hima Das"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "Anju Bobby George made history in 2003 Paris with a 6.70m long jump, winning India's first ever World Athletics Championship medal."
+  },
+  {
+    "classLevel": 6,
+    "subject": "GK",
+    "chapter": "Chapter 9: Sports, Famous Champions & Traditional Games of India",
+    "question": "Which Indian tennis duo, nicknamed the 'Indian Express', won three Grand Slam Men's Doubles titles and became World No. 1 in 1999?",
+    "options": [
+      "Leander Paes and Mahesh Bhupathi",
+      "Rohan Bopanna and Sania Mirza",
+      "Vijay Amritraj and Anand Amritraj",
+      "Somdev Devvarman and Yuki Bhambri"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "Paes and Bhupathi dominated late 1990s doubles, reaching all four Grand Slam finals in 1999."
+  },
+  {
+    "classLevel": 6,
+    "subject": "GK",
+    "chapter": "Chapter 9: Sports, Famous Champions & Traditional Games of India",
+    "question": "Who is the trailblazing Indian tennis champion who won 6 Grand Slam titles (3 Women's Doubles + 3 Mixed Doubles) and held the World No. 1 doubles ranking for 91 weeks?",
+    "options": [
+      "Sania Mirza",
+      "Ankita Raina",
+      "Nirupama Sanjeev",
+      "Rutuja Bhosale"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "Sania Mirza is India's most successful female tennis player, winning 43 WTA titles and 6 Grand Slams."
+  },
+  {
+    "classLevel": 6,
+    "subject": "GK",
+    "chapter": "Chapter 9: Sports, Famous Champions & Traditional Games of India",
+    "question": "What is the ancient weapon-based martial art form of Tamil Nadu that uses long bamboo staffs and sticks for defense?",
+    "options": [
+      "Silambam",
+      "Kalaripayattu",
+      "Thang-Ta",
+      "Gatka"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "Silambam originated in the Sangam era in Tamil Nadu, emphasizing rapid bamboo staff footwork."
+  },
+  {
+    "classLevel": 6,
+    "subject": "GK",
+    "chapter": "Chapter 9: Sports, Famous Champions & Traditional Games of India",
+    "question": "Who is the legendary Indian javelin thrower Paralympian who won TWO Paralympic Gold Medals (Athens 2004 and Rio 2016) and a Silver in Tokyo 2020?",
+    "options": [
+      "Devendra Jhajharia",
+      "Sumit Antil",
+      "Mariyappan Thangavelu",
+      "Pramod Bhagat"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "Devendra Jhajharia is India's most decorated individual Paralympian, breaking world records in F46 Javelin."
+  },
+  {
+    "classLevel": 6,
+    "subject": "GK",
+    "chapter": "Chapter 9: Sports, Famous Champions & Traditional Games of India",
+    "question": "Which Indian woman shooter created history at the Paris 2024 Olympics by winning TWO bronze medals in a single edition of the Olympic Games (Women's 10m Air Pistol & Mixed Team)?",
+    "options": [
+      "Manu Bhaker",
+      "Avani Lekhara",
+      "Apurvi Chandela",
+      "Heena Sidhu"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "Manu Bhaker became the first independent Indian athlete to win two medals at the same Olympic Games."
+  },
+  {
+    "classLevel": 6,
+    "subject": "GK",
+    "chapter": "Chapter 9: Sports, Famous Champions & Traditional Games of India",
+    "question": "What traditional martial art of Punjab, practiced extensively by the Sikh community during religious processions (Nagar Kirtan) and Hola Mohalla, features wooden sticks and kirpans?",
+    "options": [
+      "Gatka",
+      "Thang-Ta",
+      "Kalaripayattu",
+      "Silambam"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "Gatka is a traditional Sikh stick-fighting martial art developed in the 16th–17th centuries for combat defense."
+  },
+  {
+    "classLevel": 6,
+    "subject": "GK",
+    "chapter": "Chapter 9: Sports, Famous Champions & Traditional Games of India",
+    "question": "In which year did the Indian National Field Hockey team win its record EIGHTH Olympic Gold Medal at the Moscow Olympics?",
+    "options": [
+      "1980 (Moscow Olympics)",
+      "1972",
+      "1964",
+      "1988"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "India captured its 8th Olympic hockey gold in Moscow 1980, defeating Spain 4–3 in the final under V. Baskaran."
+  },
+  {
+    "classLevel": 6,
+    "subject": "GK",
+    "chapter": "Chapter 9: Sports, Famous Champions & Traditional Games of India",
+    "question": "Read the statements:\nAssertion (A): At the 44th Chess Olympiad (2022) held in Chennai, India, and subsequently in 2024, Indian teenage prodigies (like D. Gukesh and R. Praggnanandhaa) achieved historic global chess milestones.\nReason (R): In April 2024, 17-year-old Dommaraju Gukesh became the youngest challenger in world chess history to win the FIDE Candidates Tournament.\nChoose the correct option:",
+    "options": [
+      "Both (A) and (R) are true, and (R) is the correct explanation of (A).",
+      "Both (A) and (R) are true, but (R) is NOT the correct explanation of (A).",
+      "(A) is true, but (R) is false.",
+      "(A) is false, but (R) is true."
+    ],
+    "correctAnswer": 0,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "At 17, D. Gukesh broke Garry Kasparov's 40-year record to become the youngest World Championship challenger in chess history."
+  },
+  {
+    "classLevel": 6,
+    "subject": "GK",
+    "chapter": "Chapter 9: Sports, Famous Champions & Traditional Games of India",
+    "question": "Spot the IMPOSTER in the following group of Indian sports legends paired with their athletic disciplines:\nGroup: [Neeraj Chopra - Javelin Throw, Pankaj Advani - Billiards & Snooker, Mirabai Chanu - Weightlifting, Sunil Chhetri - Badminton]",
+    "options": [
+      "Neeraj Chopra - Javelin Throw",
+      "Pankaj Advani - Billiards & Snooker",
+      "Mirabai Chanu - Weightlifting",
+      "Sunil Chhetri - Badminton"
+    ],
+    "correctAnswer": 3,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "Sunil Chhetri is the legendary captain of the Indian National FOOTBALL Team (one of the highest international goal-scorers in history), NOT badminton."
+  },
+  {
+    "classLevel": 6,
+    "subject": "GK",
+    "chapter": "Chapter 9: Sports, Famous Champions & Traditional Games of India",
+    "question": "Who was the first Indian wrestler to win two consecutive individual Olympic medals (Bronze at Beijing 2008 and Silver at London 2012 in 66kg Freestyle)?",
+    "options": [
+      "Sushil Kumar",
+      "K.D. Jadhav",
+      "Yogeshwar Dutt",
+      "Bajrang Punia"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "Sushil Kumar won back-to-back freestyle wrestling medals in Beijing 2008 and London 2012."
+  },
+  {
+    "classLevel": 6,
+    "subject": "GK",
+    "chapter": "Chapter 9: Sports, Famous Champions & Traditional Games of India",
+    "question": "Match Column I (Traditional Indian Martial Arts) with Column II (Originating States):\n(a) Kalaripayattu -> (i) Manipur (Sword & Spear art)\n(b) Silambam      -> (ii) Kerala (Oldest martial art)\n(c) Thang-Ta      -> (iii) Punjab (Sikh martial tradition)\n(d) Gatka         -> (iv) Tamil Nadu (Bamboo staff martial art)",
+    "options": [
+      "a-(ii), b-(iv), c-(i), d-(iii)",
+      "a-(i), b-(ii), c-(iii), d-(iv)",
+      "a-(iv), b-(iii), c-(ii), d-(i)",
+      "a-(iii), b-(iv), c-(i), d-(ii)"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "Kalaripayattu = Kerala; Silambam = Tamil Nadu; Thang-Ta = Manipur; Gatka = Punjab."
+  },
+  {
+    "classLevel": 6,
+    "subject": "GK",
+    "chapter": "Chapter 9: Sports, Famous Champions & Traditional Games of India",
+    "question": "Read the statements regarding Olympic history:\nStatement 1: Khashaba Dadasaheb Jadhav (K.D. Jadhav) won independent India's FIRST individual Olympic medal (Bronze in Freestyle Wrestling at Helsinki 1952).\nStatement 2: The Indian Men's Hockey team won a historic Olympic Bronze medal at Tokyo 2020 after a 41-year medal drought.\nStatement 3: India has never participated in the Paralympic Games.\nWhich statements are TRUE?",
+    "options": [
+      "Statements 1 and 2 only",
+      "Statements 2 and 3 only",
+      "Statements 1 and 3 only",
+      "All Statements 1, 2, and 3"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "Statement 3 is completely false because India has won multiple gold medals in Paralympics (e.g. 29 medals in Paris 2024). Statements 1 and 2 are true."
+  },
+  {
+    "classLevel": 6,
+    "subject": "GK",
+    "chapter": "Chapter 9: Sports, Famous Champions & Traditional Games of India",
+    "question": "Who was the FIRST Indian woman to win a GOLD Medal at the Paralympic Games (in Women's 10m Air Rifle Standing SH1 at Tokyo 2020 and repeated in Paris 2024)?",
+    "options": [
+      "Avani Lekhara",
+      "Deepa Malik",
+      "Bhavina Patel",
+      "Ekta Bhyan"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "Avani Lekhara became the first Indian woman to win back-to-back Paralympic shooting gold medals."
+  },
+  {
+    "classLevel": 6,
+    "subject": "GK",
+    "chapter": "Chapter 9: Sports, Famous Champions & Traditional Games of India",
+    "question": "Which Indian woman cricketer holds the world record as the HIGHEST run-scorer in Women's International Cricket (over 10,000 runs) and captained India in two World Cup finals?",
+    "options": [
+      "Mithali Raj",
+      "Harmanpreet Kaur",
+      "Smriti Mandhana",
+      "Jhulan Goswami"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "Mithali Raj played across 23 years, amassing 7,805 ODI runs and 10,868 international runs across formats."
+  },
+  {
+    "classLevel": 6,
+    "subject": "GK",
+    "chapter": "Chapter 9: Sports, Famous Champions & Traditional Games of India",
+    "question": "Who is the legendary fast bowler known as the 'Chakdaha Express', who is the highest wicket-taker in Women's One Day International cricket history (255 wickets)?",
+    "options": [
+      "Jhulan Goswami",
+      "Shikha Pandey",
+      "Pooja Vastrakar",
+      "Renuka Singh"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "Jhulan Goswami from Bengal took 355 international wickets, recognized as the premier fast bowler in women's cricket."
+  },
+  {
+    "classLevel": 6,
+    "subject": "GK",
+    "chapter": "Chapter 9: Sports, Famous Champions & Traditional Games of India",
+    "question": "What is the ancient Sanskrit name of the traditional game of 'Chess', invented in India during the Gupta Empire in the 6th century CE?",
+    "options": [
+      "Chaturanga (representing four military divisions: infantry, cavalry, elephants, and chariots)",
+      "Pachisi",
+      "Moksha Patam",
+      "Chaupar"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "Chaturanga featured four divisions (Padati, Ashwa, Gaja, Ratha) radiating around the Raja, evolving through Persia (Shatranj) into modern Chess."
+  },
+  {
+    "classLevel": 6,
+    "subject": "GK",
+    "chapter": "Chapter 9: Sports, Famous Champions & Traditional Games of India",
+    "question": "Which Indian doubles badminton pair achieved the historic World No. 1 ranking and won the Asian Games Gold (2023) and Thomas Cup title (2022)?",
+    "options": [
+      "Satwiksairaj Rankireddy and Chirag Shetty ('Sat-Chi')",
+      "Lakshya Sen and Kidambi Srikanth",
+      "Prannoy H.S. and Sai Praneeth",
+      "Manu Attri and B. Sumeeth Reddy"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "Satwik and Chirag won India's maiden Asian Games badminton gold, Badminton Asia Championship, and the 2022 Thomas Cup."
+  },
+  {
+    "classLevel": 6,
+    "subject": "GK",
+    "chapter": "Chapter 9: Sports, Famous Champions & Traditional Games of India",
+    "question": "What is the iconic ancient board game originating in ancient India as 'Moksha Patam' (created by Saint Gyandev) to teach moral philosophy, known globally today as:",
+    "options": [
+      "Snakes and Ladders",
+      "Ludo",
+      "Monopoly",
+      "Carrom"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "Moksha Patam depicted ladders as virtues (humility, faith) leading to salvation, and snakes as vices (anger, greed) dragging the soul down."
+  },
+  {
+    "classLevel": 6,
+    "subject": "GK",
+    "chapter": "Chapter 9: Sports, Famous Champions & Traditional Games of India",
+    "question": "Who was the legendary athlete who won the Olympic Silver medal in Men's 200m and 200m Hurdles at the Paris 1900 Olympics, representing British India as India's first ever Olympic medalist?",
+    "options": [
+      "Norman Pritchard",
+      "K.D. Jadhav",
+      "Milkha Singh",
+      "Dhyan Chand"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "Calcutta-born Norman Pritchard won two silver medals in athletics in Paris 1900, recognized by the IOC as India's first Olympic participant."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Social Science",
+    "chapter": "Chapter 9: Vital Villages, Thriving Towns",
+    "question": "Around how many years ago did the use of IRON tools and weapons begin on a large scale in the Indian subcontinent?",
+    "options": [
+      "About 3,000 years ago (around 1000 BCE)",
+      "10,000 years ago",
+      "500 years ago",
+      "1,000 years ago"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "Iron technology emerged around 3,000 years ago, expanding around 2,500 years ago with iron axes and ploughshares."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Social Science",
+    "chapter": "Chapter 9: Vital Villages, Thriving Towns",
+    "question": "Which iron agricultural tool revolutionized farming around 2,500 years ago by enabling farmers to dig deep into heavy clay soils, greatly increasing grain production?",
+    "options": [
+      "Iron Ploughshare",
+      "Iron sickle",
+      "Iron spear",
+      "Iron hammer"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "The iron ploughshare allowed deep inversion of fertile alluvial soils, drastically raising crop yields."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Social Science",
+    "chapter": "Chapter 9: Vital Villages, Thriving Towns",
+    "question": "What artificial systems were constructed by kings to supply water to agricultural fields to boost crop yields?",
+    "options": [
+      "Irrigation Systems (Canals, Wells, Tanks, and Artificial Lakes)",
+      "Road networks",
+      "Stone walls",
+      "Granaries"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "Irrigation works (canals, tanks, wells, reservoirs) transformed rainfed fields into double-cropped farmland."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Social Science",
+    "chapter": "Chapter 9: Vital Villages, Thriving Towns",
+    "question": "In the ancient Tamil region (South India), what were large, wealthy landowners called?",
+    "options": [
+      "Vellalar",
+      "Uzhavar",
+      "Kadaisiyar",
+      "Adimai"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "Sangam texts identify large aristocratic landholders as 'Vellalar'."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Social Science",
+    "chapter": "Chapter 9: Vital Villages, Thriving Towns",
+    "question": "In the ancient Tamil region, what were ordinary ploughmen/farmers called?",
+    "options": [
+      "Uzhavar",
+      "Vellalar",
+      "Kadaisiyar",
+      "Gramabhojaka"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "Ordinary small-scale tenant ploughmen were termed 'Uzhavar'."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Social Science",
+    "chapter": "Chapter 9: Vital Villages, Thriving Towns",
+    "question": "In the ancient Tamil region, what were landless agricultural labourers and slaves called?",
+    "options": [
+      "Kadaisiyar and Adimai",
+      "Vellalar",
+      "Uzhavar",
+      "Grihapati"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "Landless daily laborers were 'Kadaisiyar' and bonded slaves were 'Adimai'."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Social Science",
+    "chapter": "Chapter 9: Vital Villages, Thriving Towns",
+    "question": "In northern Indian villages, who was the influential Village Headman who owned the largest land and collected taxes for the king?",
+    "options": [
+      "Gramabhojaka",
+      "Grihapati",
+      "Karmakara",
+      "Dasa"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "The hereditary 'Gramabhojaka' was the largest landlord, tax collector, judge, and police authority in northern villages."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Social Science",
+    "chapter": "Chapter 9: Vital Villages, Thriving Towns",
+    "question": "In northern Indian villages, what were independent small landowners called?",
+    "options": [
+      "Grihapatis",
+      "Gramabhojaka",
+      "Karmakaras",
+      "Samantas"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "'Grihapatis' were independent small-scale peasant farmers working their own family land."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Social Science",
+    "chapter": "Chapter 9: Vital Villages, Thriving Towns",
+    "question": "What were landless men and women who earned a living by working on other people's fields called in northern India?",
+    "options": [
+      "Dasas and Karmakaras",
+      "Gramabhojaka",
+      "Grihapatis",
+      "Vellalar"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "'Dasa-Karmakaras' were landless laborers compelled to work on wealthy farms for subsistence wages."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Social Science",
+    "chapter": "Chapter 9: Vital Villages, Thriving Towns",
+    "question": "What is the earliest body of Tamil literature composed around 2,300 years ago in assemblies of poets held in the city of Madurai called?",
+    "options": [
+      "Sangam Literature",
+      "Vedic Literature",
+      "Upanishads",
+      "Puranas"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "'Sangam' literature refers to ancient Tamil poetry anthologies compiled in assemblies (sangams) of bards under Pandyan patronage."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Social Science",
+    "chapter": "Chapter 9: Vital Villages, Thriving Towns",
+    "question": "What are the earliest coins used in India for about 500 years (from c. 600 BCE), made of silver or copper punched with distinct symbols called?",
+    "options": [
+      "Punch-Marked Coins (Aahat Mudra)",
+      "Gold Dinars",
+      "Rupees",
+      "Cowrie shells"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "Punch-marked coins were stamped with metallurgical dies featuring symbols (hills, trees, animals) on silver and copper flans."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Social Science",
+    "chapter": "Chapter 9: Vital Villages, Thriving Towns",
+    "question": "Which ancient coastal port settlement in Puducherry (excavated by Sir Mortimer Wheeler) was a thriving international trade hub with the Roman Empire between 2200 and 1900 years ago?",
+    "options": [
+      "Arikamedu (Podouke of the Periplus)",
+      "Kaveripattinam",
+      "Lothal",
+      "Surat"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "Arikamedu excavations yielded Roman amphorae wine jars, Arretine red-glazed pottery, and Roman gold coins."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Social Science",
+    "chapter": "Chapter 9: Vital Villages, Thriving Towns",
+    "question": "What were 'Shrenis' in ancient Indian urban centers?",
+    "options": [
+      "Associations and guilds formed by craftspersons and merchants to procure raw materials, train artisans, distribute goods, and function as banks",
+      "Royal palaces of kings",
+      "Military battalions",
+      "Taxes paid by farmers"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "Shrenis operated as merchant/artisan guilds, providing credit finance, technical quality control, and banking services."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Social Science",
+    "chapter": "Chapter 9: Vital Villages, Thriving Towns",
+    "question": "Why was Mathura a major, thriving multi-functional urban city for over 2,500 years?",
+    "options": [
+      "It was located at the vital crossroads of two major ancient trade routes (North-west to East, and North to South), a center of fine sculpture, and a religious hub for Krishna worship, Buddhism, and Jainism",
+      "Because it had gold mines",
+      "Because it was on the sea coast",
+      "Because it had no agriculture"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "Mathura's strategic commercial crossroads location and vibrant religious syncretism made it the second capital of the Kushanas."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Social Science",
+    "chapter": "Chapter 9: Vital Villages, Thriving Towns",
+    "question": "What was 'Northern Black Polished Ware' (NBPW) produced in ancient urban centers of the Gangetic valley?",
+    "options": [
+      "A very fine, ultra-smooth, glossy black earthenware pottery with a mirror-like metallic shine used as luxury tableware",
+      "A heavy iron shield",
+      "A type of black stone",
+      "A wooden plate"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "NBPW was premium deluxe tableware fired at high kilns, producing an iridescent black gloss."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Social Science",
+    "chapter": "Chapter 9: Vital Villages, Thriving Towns",
+    "question": "What were 'Ring Wells' discovered in archaeological excavations of ancient cities like Delhi and Hastinapur used for?",
+    "options": [
+      "As domestic toilets, drain pipes, or garbage waste pits by stacking terracotta rings vertically in the ground",
+      "As gold treasure vaults",
+      "As musical instruments",
+      "As animal traps"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "Stacked ceramic terracotta ring wells served as soakage pits, sullage drains, and latrines in dense urban quarters."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Social Science",
+    "chapter": "Chapter 9: Vital Villages, Thriving Towns",
+    "question": "What ancient Greco-Roman travel guidebook written by an anonymous Greek sailor in the 1st century CE describes Indian coastal ports and maritime trade items?",
+    "options": [
+      "The Periplus of the Erythraean Sea ('Periplus of the Red/Arabian Sea')",
+      "Indica by Megasthenes",
+      "Geographia by Ptolemy",
+      "Naturalis Historia"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "The 'Periplus of the Erythraean Sea' details trade goods traded at Bharuch (Barygaza), Muziris, and Arikamedu."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Social Science",
+    "chapter": "Chapter 9: Vital Villages, Thriving Towns",
+    "question": "What goods were EXPORTED from Indian ports like Barygaza (Bharuch in Gujarat) to the Roman Empire?",
+    "options": [
+      "Fine cotton textiles, silk, black pepper and spices, ivory, agate, jasper, and medicinal herbs",
+      "Wine and Italian pottery",
+      "Roman gold and silver coins",
+      "Tin, lead, and glass"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "Indian exports comprised fine muslins, black pepper ('black gold'), ivory, precious gemstones, and aromatics."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Social Science",
+    "chapter": "Chapter 9: Vital Villages, Thriving Towns",
+    "question": "What goods were IMPORTED into India from the Mediterranean Roman world?",
+    "options": [
+      "Italian wine in amphorae jars, Roman gold and silver coins, copper, tin, lead, coral, and topaz",
+      "Black pepper and cardamoms",
+      "Fine cotton cloth",
+      "Ivory and peacocks"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "Rome exported wine, metals (tin/lead), coral, and huge hoards of imperial gold/silver denarii to balance trade."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Social Science",
+    "chapter": "Chapter 9: Vital Villages, Thriving Towns",
+    "question": "What were 'Arretine Ware' vessels discovered at Arikamedu?",
+    "options": [
+      "Fine red-glazed Roman pottery named after the Italian city of Arezzo, stamped with decorative designs using wet clay molds",
+      "Chinese porcelain vases",
+      "Ancient bronze statues",
+      "Iron cooking pots"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "Arretine ware was Italian fine slip-coated red terra sigillata exported across Mediterranean maritime trade networks."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Social Science",
+    "chapter": "Chapter 9: Vital Villages, Thriving Towns",
+    "question": "Why did Pliny the Elder, a Roman historian, lament that 'not a year passes without India taking fifty million sesterces of Roman gold'?",
+    "options": [
+      "Because Roman wealth was draining into India to purchase Indian luxury spices (black pepper), silk, and gemstones",
+      "Because India was buying all Roman wheat",
+      "Because Roman armies lost wars to India",
+      "Because Roman emperors gave gifts to India"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "Pliny's 'Naturalis Historia' lamented the massive trade deficit and gold drain caused by aristocratic Roman addiction to Indian luxury spices."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Social Science",
+    "chapter": "Chapter 9: Vital Villages, Thriving Towns",
+    "question": "What were the famous ancient centers of cotton textile weaving in northern and southern India mentioned in Kautilya's Arthashastra?",
+    "options": [
+      "Varanasi (in the north) and Madurai (in the south)",
+      "Delhi and Mumbai",
+      "Taxila and Ujjain",
+      "Patliputra and Kanchi"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "Arthashastra identifies Varanasi and Madurai as renowned manufacturing guild centers of fine cotton textiles."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Social Science",
+    "chapter": "Chapter 9: Vital Villages, Thriving Towns",
+    "question": "Why was the post of 'Gramabhojaka' hereditary in northern villages?",
+    "options": [
+      "The position passed from father to son across generations within the village's wealthiest landowning family",
+      "Because kings held elections every year",
+      "Because villagers voted with stones",
+      "Because only priests could hold the post"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "Hereditary succession maintained aristocratic lineage control over village revenues and rural administration."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Social Science",
+    "chapter": "Chapter 9: Vital Villages, Thriving Towns",
+    "question": "What are 'Jatakas' in ancient Indian literature?",
+    "options": [
+      "Popular folk stories depicting previous lives of the Buddha, composed by ordinary people and written down by Buddhist monks",
+      "Royal inscriptions carved on rocks",
+      "Mathematical textbooks",
+      "Military strategies of kings"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "Jatakas are moral Buddhist folk narratives (e.g. story of the clever poor young man) preserved in Pali canon."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Social Science",
+    "chapter": "Chapter 9: Vital Villages, Thriving Towns",
+    "question": "What crucial archaeological evidence proves the existence of flourishing international trade at ancient port sites?",
+    "options": [
+      "Foreign coins, imported amphorae wine jars, foreign stamped pottery, and specialized port warehouse brick structures",
+      "Modern asphalt roads",
+      "Plastic toys",
+      "Steel cargo ships"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "Numismatic hoards, imported pottery (terra sigillata), and wharves confirm historical maritime trade connectivity."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Social Science",
+    "chapter": "Chapter 9: Vital Villages, Thriving Towns",
+    "question": "How did the invention and expansion of Iron tools transform civilization between 1000 BCE and 500 BCE?",
+    "options": [
+      "Heavy iron axes cleared dense subtropical Gangetic monsoon forests for settled farming, and iron ploughs dramatically increased food surpluses, sustaining urbanization",
+      "It destroyed all cities",
+      "It stopped all agriculture",
+      "It made people leave India"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "Iron metallurgy enabled forest clearance and agricultural surplus in the Gangetic basin, catalyzing the Second Urbanization."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Social Science",
+    "chapter": "Chapter 9: Vital Villages, Thriving Towns",
+    "question": "What religious donations were inscribed on stone pillars and railings of Buddhist stupas (such as Sanchi and Mathura)?",
+    "options": [
+      "Votive Inscriptions recording gifts given by kings, queens, guild merchants, weavers, goldsmiths, and monks/nuns",
+      "Tax receipts from farmers",
+      "Cooking recipes",
+      "War declarations"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "Votive epigraphs record pious donations by diverse socio-economic strata (guilds, artisans, lay devotees) to monastic orders."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Social Science",
+    "chapter": "Chapter 9: Vital Villages, Thriving Towns",
+    "question": "Why was the ancient port of Barygaza (modern Bharuch) in the Gulf of Khambhat difficult for foreign ships to navigate?",
+    "options": [
+      "The gulf was narrow, shallow, and plagued by fierce tidal bore currents, requiring skillful local fishermen employed by the king to steer ships into port",
+      "Because of icebergs",
+      "Because of pirates with cannons",
+      "Because there was no water"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "The 'Periplus' records that violent tidal bores in the narrow Gulf of Khambhat required specialized pilots."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Social Science",
+    "chapter": "Chapter 9: Vital Villages, Thriving Towns",
+    "question": "Read the statements:\nAssertion (A): The 'Second Urbanization' of India (c. 6th century BCE to 3rd century CE) in the Gangetic valley and Peninsular India was deeply rooted in rural agricultural prosperity.\nReason (R): Iron technology, advanced canal/tank irrigation, and paddy transplantation created substantial food surpluses that could support non-agricultural urban craftspersons, merchants, and administrative elites.\nChoose the correct option:",
+    "options": [
+      "Both (A) and (R) are true, and (R) is the correct explanation of (A).",
+      "Both (A) and (R) are true, but (R) is NOT the correct explanation of (A).",
+      "(A) is true, but (R) is false.",
+      "(A) is false, but (R) is true."
+    ],
+    "correctAnswer": 0,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "Urban craft guilds, trade networks, and civic administration relied fundamentally on agrarian food surpluses enabled by iron tools."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Social Science",
+    "chapter": "Chapter 9: Vital Villages, Thriving Towns",
+    "question": "Spot the IMPOSTER in the following group of ancient Tamil agrarian categories from Sangam texts:\nGroup: [Vellalar (Large Landowner), Uzhavar (Ploughman), Kadaisiyar (Landless Labourer), Gramabhojaka (Slaves in Tamil Nadu)]",
+    "options": [
+      "Vellalar (Large Landowner)",
+      "Uzhavar (Ploughman)",
+      "Kadaisiyar (Landless Labourer)",
+      "Gramabhojaka (Slaves in Tamil Nadu)"
+    ],
+    "correctAnswer": 3,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "'Gramabhojaka' was the village headman in NORTHERN India, NOT a slave in Tamil Nadu (slaves in Tamil were 'Adimai')."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Social Science",
+    "chapter": "Chapter 9: Vital Villages, Thriving Towns",
+    "question": "An archaeologist excavates an ancient trade site and discovers: (1) Amphorae containing dried wine residue, (2) Red-glazed stamped pottery, (3) Roman gold coins of Emperor Augustus. What historical site is represented?",
+    "options": [
+      "Arikamedu (near Puducherry on the southeastern Coromandel coast)",
+      "Harappa",
+      "Taxila",
+      "Mohenjo-daro"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "Mortimer Wheeler's excavations at Arikamedu proved it was an Indo-Roman maritime emporium."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Social Science",
+    "chapter": "Chapter 9: Vital Villages, Thriving Towns",
+    "question": "Match Column I (Ancient Terms) with Column II (Definitions & Roles):\n(a) Shrenis        -> (i) Earliest stamped silver/copper coins\n(b) Gramabhojaka   -> (ii) Guilds of craftspersons & merchants\n(c) Punch-marked   -> (iii) Hereditary village headman & tax collector (North)\n(d) Sangam         -> (iv) Assemblies of ancient Tamil poets in Madurai",
+    "options": [
+      "a-(ii), b-(iii), c-(i), d-(iv)",
+      "a-(i), b-(ii), c-(iii), d-(iv)",
+      "a-(iv), b-(iii), c-(ii), d-(i)",
+      "a-(iii), b-(iv), c-(i), d-(ii)"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "Shrenis = guilds; Gramabhojaka = northern village headman; Punch-marked = coins; Sangam = poet assemblies."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Social Science",
+    "chapter": "Chapter 9: Vital Villages, Thriving Towns",
+    "question": "Read the statements regarding ancient craft and trade:\nStatement 1: Shrenis provided vocational apprenticeship training to artisans, procured raw materials, and distributed finished products.\nStatement 2: Shrenis served as banks where wealthy men and women deposited money, earning interest support for monasteries.\nStatement 3: Punch-marked coins had detailed inscriptions of kings' names written in English.\nWhich statements are TRUE?",
+    "options": [
+      "Statements 1 and 2 only",
+      "Statements 2 and 3 only",
+      "Statements 1 and 3 only",
+      "All Statements 1, 2, and 3"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "Statement 3 is false because punch-marked coins had punched symbols (trees, hills, bulls) without alphabetic inscriptions. Statements 1 and 2 are true."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Social Science",
+    "chapter": "Chapter 9: Vital Villages, Thriving Towns",
+    "question": "What was the significance of Mathura becoming the second capital of the Kushana Empire (under Emperor Kanishka)?",
+    "options": [
+      "It became a premier center of red sandstone sculpture (producing magnificent Buddha images) and a crossroads linking Gandhara with Gangetic trade",
+      "It was made of ice",
+      "It was abandoned forever",
+      "It was only used as a prison"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "Mathura flourished as the southern capital of the Kushanas, creating the Mathura school of art in mottled red Sikri sandstone."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Social Science",
+    "chapter": "Chapter 9: Vital Villages, Thriving Towns",
+    "question": "Why was the process of 'Paddy (Rice) Transplantation' around 2,500 years ago a major technological turning point in Gangetic agriculture?",
+    "options": [
+      "Instead of scattering dry seeds on soil where many died, saplings were grown in nurseries and transplanted into water-logged flooded fields, ensuring far higher plant survival and bumper yields",
+      "Because it stopped weeds by burning",
+      "Because rice could grow without water",
+      "Because animals did all the work"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "Transplantation minimized seedling mortality, drastically raising grain productivity per hectare."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Social Science",
+    "chapter": "Chapter 9: Vital Villages, Thriving Towns",
+    "question": "Consider four occupational groups in an ancient village:\n1. Gramabhojaka\n2. Grihapati\n3. Dasa-Karmakara\n4. Blacksmith (Lohar)\nArrange them in order from the LARGEST landholding power to ZERO land ownership:",
+    "options": [
+      "1 -> 2 -> 4 -> 3",
+      "3 -> 4 -> 2 -> 1",
+      "2 -> 1 -> 3 -> 4",
+      "4 -> 3 -> 2 -> 1"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "Gramabhojaka (vast estate) > Grihapati (small peasant plot) > Artisan (craft holding) > Dasa-Karmakara (landless daily laborer)."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Social Science",
+    "chapter": "Chapter 9: Vital Villages, Thriving Towns",
+    "question": "What archaeological feature distinguishes Northern Black Polished Ware (NBPW) from earlier Painted Grey Ware (PGW)?",
+    "options": [
+      "NBPW is characterized by its lustrous, mirror-like jet-black surface sheen achieved by two-stage reducing atmosphere kiln firing and organic slip application",
+      "NBPW is made of metal",
+      "NBPW has red flowers painted on it",
+      "NBPW is unbaked mud"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "NBPW's distinctive black mirror gloss derived from iron-rich ferruginous slips subjected to reduction firing in sealed kilns."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Social Science",
+    "chapter": "Chapter 9: Vital Villages, Thriving Towns",
+    "question": "What do the numerous Megalithic burial stone circles in South India (dating from c. 1000 BCE) contain inside them that proves early iron metallurgy?",
+    "options": [
+      "Large assortments of iron weapons, iron hoes, sickles, horse equipment, and black-and-red pottery buried alongside human skeletons",
+      "Paper books and modern pens",
+      "Steam engines",
+      "Plastic utensils"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "Megalithic cists and urns contain funerary grave goods: iron swords, daggers, agricultural sickles, and horse bits."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Social Science",
+    "chapter": "Chapter 9: Vital Villages, Thriving Towns",
+    "question": "How did ancient kings in India ensure the loyalty of the Gramabhojaka in administering rural territories?",
+    "options": [
+      "By recognizing his hereditary local land power and delegating official state functions (tax collection, judicial dispute settlement, and local policing) to him",
+      "By imprisoning his family",
+      "By destroying his crops",
+      "By replacing him every month"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "Monarchs co-opted dominant local landed elites, delegating fiscal and judicial power in exchange for tax remittance."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Social Science",
+    "chapter": "Chapter 9: Vital Villages, Thriving Towns",
+    "question": "What holistic picture of ancient society emerges from reading NCERT Class 6 History on villages and towns?",
+    "options": [
+      "An interdependent socio-economic web where thriving agricultural villages, specialized urban craft guilds, and global maritime ports sustained flourishing civilization through trade and cultural exchange",
+      "A society where towns had no connection to villages",
+      "A civilization that had no tools or trade",
+      "A world without any laws or coins"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "History portrays an integrated ecosystem connecting agrarian villages, craft guilds, and international maritime trade emporia."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Hindi Grammar",
+    "chapter": "Chapter 9: विशेषण",
+    "question": "संज्ञा अथवा सर्वनाम शब्दों की विशेषता (गुण, दोष, रूप, रंग, आकार, संख्या, परिमाण) बताने वाले शब्दों को क्या कहते हैं?",
+    "options": [
+      "विशेषण (Adjective)",
+      "क्रिया",
+      "अव्यय",
+      "कारक"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "संज्ञा या सर्वनाम की विशेषता प्रकट करने वाले विकारी शब्द 'विशेषण' कहलाते हैं (जैसे: 'सुंदर', 'लाल', 'पाँच', 'मीठा')।"
+  },
+  {
+    "classLevel": 6,
+    "subject": "Hindi Grammar",
+    "chapter": "Chapter 9: विशेषण",
+    "question": "विशेषण शब्द जिस संज्ञा या सर्वनाम शब्द की विशेषता बताता है, उसे व्याकरण में क्या कहते हैं?",
+    "options": [
+      "विशेष्य (जैसे: 'काली गाय' में 'गाय' विशेष्य है)",
+      "प्रविशेषण",
+      "क्रिया",
+      "कर्म"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "जिसकी विशेषता बताई जाए वह 'विशेष्य' कहलाता है (जैसे: 'मीठा सेब' में 'मीठा' = विशेषण, 'सेब' = विशेष्य)।"
+  },
+  {
+    "classLevel": 6,
+    "subject": "Hindi Grammar",
+    "chapter": "Chapter 9: विशेषण",
+    "question": "हिंदी भाषा में विशेषण के मुख्य रूप से कितने भेद (प्रकार) होते हैं?",
+    "options": [
+      "चार भेद (गुणवाचक, संख्यावाचक, परिमाणवाचक, और सार्वनामिक विशेषण)",
+      "तीन भेद",
+      "पाँच भेद",
+      "छह भेद"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "विशेषण के 4 मुख्य भेद हैं: 1. गुणवाचक, 2. संख्यावाचक, 3. परिमाणवाचक, तथा 4. सार्वनामिक विशेषण।"
+  },
+  {
+    "classLevel": 6,
+    "subject": "Hindi Grammar",
+    "chapter": "Chapter 9: विशेषण",
+    "question": "जो विशेषण शब्द संज्ञा या सर्वनाम के गुण, दोष, रंग, रूप, आकार, दशा, स्वाद या स्पर्श का बोध कराते हैं, उन्हें क्या कहते हैं?",
+    "options": [
+      "गुणवाचक विशेषण (जैसे: 'ईमानदार लड़का', 'काला घोड़ा', 'गोल मेज', 'मीठा आम')",
+      "संख्यावाचक विशेषण",
+      "परिमाणवाचक विशेषण",
+      "सार्वनामिक विशेषण"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "गुण, दोष, रंग, आकार, अवस्था का बोध कराने वाले शब्द 'गुणवाचक विशेषण' कहलाते हैं।"
+  },
+  {
+    "classLevel": 6,
+    "subject": "Hindi Grammar",
+    "chapter": "Chapter 9: विशेषण",
+    "question": "जो विशेषण शब्द संज्ञा या सर्वनाम की संख्या (गिनती) का बोध कराते हैं, उन्हें क्या कहते हैं?",
+    "options": [
+      "संख्यावाचक विशेषण (जैसे: 'चार पुस्तकें', 'कुछ बच्चे', 'पहला स्थान')",
+      "गुणवाचक विशेषण",
+      "परिमाणवाचक विशेषण",
+      "सार्वनामिक विशेषण"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "गणनीय वस्तुओं की संख्या दर्शाने वाले शब्द 'संख्यावाचक विशेषण' कहलाते हैं।"
+  },
+  {
+    "classLevel": 6,
+    "subject": "Hindi Grammar",
+    "chapter": "Chapter 9: विशेषण",
+    "question": "संख्यावाचक विशेषण के कितने उपभेद होते हैं?",
+    "options": [
+      "दो उपभेद (1. निश्चित संख्यावाचक जैसे 'दस छात्र', और 2. अनिश्चित संख्यावाचक जैसे 'कुछ लोग')",
+      "तीन उपभेद",
+      "चार उपभेद",
+      "पाँच उपभेद"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "निश्चित संख्या (पाँच, दस, पहला) तथा अनिश्चित संख्या (कुछ, कई, अनेक, सब) इसके दो उपभेद हैं।"
+  },
+  {
+    "classLevel": 6,
+    "subject": "Hindi Grammar",
+    "chapter": "Chapter 9: विशेषण",
+    "question": "जो विशेषण शब्द किसी वस्तु की नाप, तौल या माप (मात्रा) का बोध कराते हैं (जिन्हें गिना नहीं जा सकता, केवल नापा/तौला जाता है), उन्हें क्या कहते हैं?",
+    "options": [
+      "परिमाणवाचक विशेषण (जैसे: 'दो लीटर दूध', 'पाँच किलो आटा', 'थोड़ा पानी')",
+      "संख्यावाचक विशेषण",
+      "गुणवाचक विशेषण",
+      "सार्वनामिक विशेषण"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "द्रव्य या अगणनीय वस्तुओं की माप-तौल बताने वाले शब्द 'परिमाणवाचक विशेषण' कहलाते हैं।"
+  },
+  {
+    "classLevel": 6,
+    "subject": "Hindi Grammar",
+    "chapter": "Chapter 9: विशेषण",
+    "question": "परिमाणवाचक विशेषण के दो उपभेद कौन-से हैं?",
+    "options": [
+      "निश्चित परिमाणवाचक (जैसे: '3 मीटर कपड़ा', '2 किलो चीनी') और अनिश्चित परिमाणवाचक (जैसे: 'थोड़ा दूध', 'ज्यादा पानी')",
+      "उत्तम और मध्यम",
+      "सकर्मक और अकर्मक",
+      "प्रत्यय और उपसर्ग"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "निश्चित माप-तौल = निश्चित परिमाणवाचक; अनुमानित अनिर्दिष्ट माप = अनिश्चित परिमाणवाचक।"
+  },
+  {
+    "classLevel": 6,
+    "subject": "Hindi Grammar",
+    "chapter": "Chapter 9: विशेषण",
+    "question": "जो सर्वनाम शब्द संज्ञा से ठीक पहले आकर उसकी ओर संकेत करते हैं और विशेषण का कार्य करते हैं, उन्हें क्या कहते हैं?",
+    "options": [
+      "सार्वनामिक विशेषण या संकेतवाचक विशेषण (जैसे: 'यह घर मेरा है', 'वह पुस्तक अच्छी है')",
+      "निजवाचक सर्वनाम",
+      "गुणवाचक विशेषण",
+      "प्रविशेषण"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "संज्ञा से पूर्व प्रयुक्त होकर निर्देश करने वाले सर्वनाम पद 'सार्वनामिक विशेषण' कहलाते हैं।"
+  },
+  {
+    "classLevel": 6,
+    "subject": "Hindi Grammar",
+    "chapter": "Chapter 9: विशेषण",
+    "question": "जो शब्द विशेषण की भी विशेषता बताते हैं (जैसे: 'रोहन **बहुत** चतुर लड़का है', 'सेब **अत्यंत** मीठा है'), उन्हें व्याकरण में क्या कहते हैं?",
+    "options": [
+      "प्रविशेषण (जैसे: बहुत, अत्यंत, अत्यधिक, बड़ा, थोड़ा)",
+      "विशेष्य",
+      "सर्वनाम",
+      "क्रियाविशेषण"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "विशेषण शब्दों की तीव्रता या न्यूनता बताने वाले पद 'प्रविशेषण' कहलाते हैं (जैसे: 'बहुत' सुंदर)।"
+  },
+  {
+    "classLevel": 6,
+    "subject": "Hindi Grammar",
+    "chapter": "Chapter 9: विशेषण",
+    "question": "वाक्य में प्रयुक्त रेखांकित पद का विशेषण भेद पहचानिए:\n'मुझे **दो किलो** चीनी चाहिए।'",
+    "options": [
+      "निश्चित परिमाणवाचक विशेषण (तौल की निश्चित मात्रा 'दो किलो')",
+      "अनिश्चित परिमाणवाचक",
+      "निश्चित संख्यावाचक",
+      "गुणवाचक विशेषण"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "चीनी तौली जाती है और 'दो किलो' निश्चित तौल है, अतः निश्चित परिमाणवाचक विशेषण है।"
+  },
+  {
+    "classLevel": 6,
+    "subject": "Hindi Grammar",
+    "chapter": "Chapter 9: विशेषण",
+    "question": "वाक्य में प्रयुक्त रेखांकित पद का विशेषण भेद पहचानिए:\n'कक्षा में **बीस** छात्र उपस्थित हैं।'",
+    "options": [
+      "निश्चित संख्यावाचक विशेषण (छात्रों की निश्चित संख्या 'बीस')",
+      "अनिश्चित संख्यावाचक",
+      "परिमाणवाचक विशेषण",
+      "गुणवाचक विशेषण"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "छात्रों को गिना जा सकता है और 'बीस' निश्चित संख्या है, अतः निश्चित संख्यावाचक विशेषण है।"
+  },
+  {
+    "classLevel": 6,
+    "subject": "Hindi Grammar",
+    "chapter": "Chapter 9: विशेषण",
+    "question": "संख्यावाचक विशेषण और परिमाणवाचक विशेषण में क्या मुख्य अंतर होता है?",
+    "options": [
+      "संख्यावाचक विशेषण उन वस्तुओं के लिए आता है जिन्हें गिना जा सकता है (Countable - जैसे: 'चार केले', 'दस पुस्तकें') ; परिमाणवाचक विशेषण उन वस्तुओं के लिए आता है जिन्हें गिना नहीं जा सकता, केवल नापा/तौला जाता है (Uncountable - जैसे: 'चार लीटर दूध', 'दस किलो गेहूँ')",
+      "संख्यावाचक केवल जानवरों के लिए आता है",
+      "परिमाणवाचक में संख्या नहीं होती",
+      "दोनों में कोई अंतर नहीं है"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "गणनीय संज्ञा = संख्यावाचक विशेषण; माप-तौल योग्य अगणनीय द्रव्य = परिमाणवाचक विशेषण।"
+  },
+  {
+    "classLevel": 6,
+    "subject": "Hindi Grammar",
+    "chapter": "Chapter 9: विशेषण",
+    "question": "वाक्य में प्रयुक्त दोनों 'कुछ' का सही विशेषण क्रम बताइए:\n'टोकरी में **कुछ फल** रखे हैं और जग में **कुछ दूध** बचा है।'",
+    "options": [
+      "कुछ फल = अनिश्चित संख्यावाचक ; कुछ दूध = अनिश्चित परिमाणवाचक",
+      "कुछ फल = परिमाणवाचक ; कुछ दूध = संख्यावाचक",
+      "दोनों संख्यावाचक हैं",
+      "दोनों परिमाणवाचक हैं"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "फल गिने जा सकते हैं (अनिश्चित संख्यावाचक); दूध तौला/नापा जाता है (अनिश्चित परिमाणवाचक)।"
+  },
+  {
+    "classLevel": 6,
+    "subject": "Hindi Grammar",
+    "chapter": "Chapter 9: विशेषण",
+    "question": "संज्ञा शब्द 'भारत' और 'इतिहास' से बनने वाले सही विशेषण शब्द क्रमशः क्या हैं?",
+    "options": [
+      "भारतीय और ऐतिहासिक",
+      "भारतवासी और इतिहासी",
+      "भारती और इतिहासवान",
+      "भारतीकरण और इतिहासिक"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "भारत + ईय = भारतीय; इतिहास + इक = ऐतिहासिक।"
+  },
+  {
+    "classLevel": 6,
+    "subject": "Hindi Grammar",
+    "chapter": "Chapter 9: विशेषण",
+    "question": "संज्ञा शब्द 'दया', 'धर्म' और 'नगर' से 'इक' या 'लु' प्रत्यय जोड़कर बनने वाले विशेषण शब्द क्या हैं?",
+    "options": [
+      "दयालु, धार्मिक, नागरिक",
+      "दयी, धर्मात्मा, नगरी",
+      "दयावान, धर्महीन, नगरिया",
+      "दयानंद, धर्मिक, नगरवासी"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "दया + आलु = दयालु; धर्म + इक = धार्मिक; नगर + इक = नागरिक।"
+  },
+  {
+    "classLevel": 6,
+    "subject": "Hindi Grammar",
+    "chapter": "Chapter 9: विशेषण",
+    "question": "संज्ञा शब्द 'जंग' और 'विष' से 'ईला' प्रत्यय लगाकर बनने वाले सही विशेषण रूप क्या हैं?",
+    "options": [
+      "जंगली और विषैला (या जहरीला)",
+      "जंगला और विषैली",
+      "जंगलू और विषवान",
+      "जंगलमय और विषयुक्त"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "जंगल + ई = जंगली; विष + ऐला = विषैला।"
+  },
+  {
+    "classLevel": 6,
+    "subject": "Hindi Grammar",
+    "chapter": "Chapter 9: विशेषण",
+    "question": "वाक्य में प्रयुक्त रेखांकित पद का विशेषण भेद बताइए:\n'**वह लड़का** दौड़ प्रतियोगिता में प्रथम आया।'",
+    "options": [
+      "सार्वनामिक विशेषण (संज्ञा 'लड़का' के आगे आकर संकेत करने वाला पद)",
+      "निश्चयवाचक सर्वनाम",
+      "गुणवाचक विशेषण",
+      "प्रविशेषण"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "'वह' संज्ञा पद 'लड़का' के तुरंत पूर्व प्रयुक्त होकर सार्वनामिक विशेषण का कार्य कर रहा है।"
+  },
+  {
+    "classLevel": 6,
+    "subject": "Hindi Grammar",
+    "chapter": "Chapter 9: विशेषण",
+    "question": "विशेषण की तुलना की दृष्टि से कितनी अवस्थाएँ (Degrees of Comparison) होती हैं?",
+    "options": [
+      "तीन अवस्थाएँ (1. मूलावस्था - जैसे 'सुंदर', 2. उत्तरावस्था - जैसे 'सुंदरतर / अधिक सुंदर', 3. उत्तमावस्था - जैसे 'सुंदरतम / सबसे सुंदर')",
+      "दो अवस्थाएँ",
+      "चार अवस्थाएँ",
+      "पाँच अवस्थाएँ"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "तुलनात्मक 3 अवस्थाएँ: मूलावस्था (Positive), उत्तरावस्था (Comparative: -तर), उत्तमावस्था (Superlative: -तम)।"
+  },
+  {
+    "classLevel": 6,
+    "subject": "Hindi Grammar",
+    "chapter": "Chapter 9: विशेषण",
+    "question": "शब्द 'उच्च' की उत्तरावस्था और उत्तमावस्था के सही रूप क्रमशः क्या हैं?",
+    "options": [
+      "उच्चतर और उच्चतम",
+      "अधिक उच्च और सबसे उच्च",
+      "उच्ची और सर्वोच्च",
+      "उच्चतम और उच्चतर"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "उच्च (मूलावस्था) -> उच्चतर (उत्तरावस्था) -> उच्चतम (उत्तमावस्था)।"
+  },
+  {
+    "classLevel": 6,
+    "subject": "Hindi Grammar",
+    "chapter": "Chapter 9: विशेषण",
+    "question": "वाक्य में प्रयुक्त रेखांकित पद का व्याकरणिक परिचय दीजिए:\n'कश्मीर में **बहुत गहरा** लाल सेब मिलता है।'",
+    "options": [
+      "बहुत = प्रविशेषण ; गहरा लाल = गुणवाचक विशेषण ; सेब = विशेष्य",
+      "बहुत = क्रियाविशेषण ; सेब = कारक",
+      "बहुत = सर्वनाम ; लाल = संज्ञा",
+      "तीनों संज्ञा पद हैं"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "'लाल' विशेषण है, 'गहरा' व 'बहुत' विशेषण की विशेषता बताने वाले प्रविशेषण हैं, और 'सेब' विशेष्य है।"
+  },
+  {
+    "classLevel": 6,
+    "subject": "Hindi Grammar",
+    "chapter": "Chapter 9: विशेषण",
+    "question": "वाक्य में प्रयुक्त रेखांकित पद का विशेषण भेद बताइए:\n'पिता जी बाज़ार से **चार मीटर** कपड़ा लाए।'",
+    "options": [
+      "निश्चित परिमाणवाचक विशेषण (नाप की निश्चित इकाई 'चार मीटर')",
+      "निश्चित संख्यावाचक",
+      "अनिश्चित परिमाणवाचक",
+      "गुणवाचक विशेषण"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "कपड़े की लंबाई नापी जाती है (माप की निश्चित इकाई = निश्चित परिमाणवाचक)।"
+  },
+  {
+    "classLevel": 6,
+    "subject": "Hindi Grammar",
+    "chapter": "Chapter 9: विशेषण",
+    "question": "वाक्य में प्रयुक्त रेखांकित पद का विशेषण भेद बताइए:\n'सभा में **हज़ारों** लोग उपस्थित थे।'",
+    "options": [
+      "अनिश्चित संख्यावाचक विशेषण ('हज़ारों' अनिश्चित बड़ी संख्या का द्योतक है)",
+      "निश्चित संख्यावाचक",
+      "परिमाणवाचक विशेषण",
+      "सार्वनामिक विशेषण"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "'हज़ारों', 'सैकड़ों', 'लाखों' गणना योग्य होते हुए भी अनिर्दिष्ट अनुमानित संख्या दर्शाने के कारण अनिश्चित संख्यावाचक हैं।"
+  },
+  {
+    "classLevel": 6,
+    "subject": "Hindi Grammar",
+    "chapter": "Chapter 9: विशेषण",
+    "question": "क्रिया पद 'हँसना' और 'पढ़ना' से बनने वाले सही विशेषण शब्द क्रमशः क्या हैं?",
+    "options": [
+      "हँसोड़ (या हँसमुख) और पढ़ाकू",
+      "हँसी और पढ़ाई",
+      "हँसा और पढ़ा",
+      "हँसानेवाला और पढ़ानेवाला"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "हँसना -> हँसमुख/हँसोड़; पढ़ना -> पढ़ाकू (कृदंत विशेषण)।"
+  },
+  {
+    "classLevel": 6,
+    "subject": "Hindi Grammar",
+    "chapter": "Chapter 9: विशेषण",
+    "question": "अव्यय पद 'बाहर' और 'आगे' से बनने वाले विशेषण शब्द क्रमशः क्या हैं?",
+    "options": [
+      "बाहरी और अगला",
+      "बाहरवाला और आगेवाला",
+      "बाह्य और अग्रिम",
+      "बहार और आगा"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "बाहर + ई = बाहरी; आगे + ला = अगला; पीछे + ला = पिछला।"
+  },
+  {
+    "classLevel": 6,
+    "subject": "Hindi Grammar",
+    "chapter": "Chapter 9: विशेषण",
+    "question": "स्थानवाचक गुणवाचक विशेषण का सही समूह कौन-सा है?",
+    "options": [
+      "भारतीय, जापानी, बनारसी, ग्रामीण, शहरी, पहाड़ी",
+      "लाल, पीला, नीला, हरा",
+      "गोल, चौकोर, नुकीला",
+      "मीठा, खट्टा, कड़वा"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "स्थान, भूभाग या क्षेत्र से संबद्ध विशेषता बताने वाले शब्द स्थानवाचक गुणवाचक विशेषण हैं (बनारसी साड़ी, जोधपुरी पगड़ी)।"
+  },
+  {
+    "classLevel": 6,
+    "subject": "Hindi Grammar",
+    "chapter": "Chapter 9: विशेषण",
+    "question": "स्पर्शवाचक गुणवाचक विशेषण का सही उदाहरण कौन-सा है?",
+    "options": [
+      "कोमल, कठोर, खुरदुरा, मुलायम, चिकना, ठंडा",
+      "सुगंधित और दुर्गंधयुक्त",
+      "लंबा और चौड़ा",
+      "स्वस्थ और रोगी"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "त्वचा द्वारा अनुभव किए जाने वाले गुण (कोमल, कठोर, खुरदुरा) स्पर्शवाचक विशेषण हैं।"
+  },
+  {
+    "classLevel": 6,
+    "subject": "Hindi Grammar",
+    "chapter": "Chapter 9: विशेषण",
+    "question": "कालवाचक गुणवाचक विशेषण का सही उदाहरण कौन-सा है?",
+    "options": [
+      "नया, पुराना, प्राचीन, दैनिक, वार्षिक, मौसमी, आधुनिक",
+      "सुंदर और कुरूप",
+      "कायर और वीर",
+      "लाल और पीला"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "समय या काल की विशेषता दर्शाने वाले पद (प्राचीन, नवीन, दैनिक, मौसमी) कालवाचक विशेषण हैं।"
+  },
+  {
+    "classLevel": 6,
+    "subject": "Hindi Grammar",
+    "chapter": "Chapter 9: विशेषण",
+    "question": "कथन और कारण को ध्यानपूर्वक पढ़ें:\nकथन (A): 'यह गाय दस लीटर दूध देती है' वाक्य में 'यह' सार्वनामिक विशेषण है तथा 'दस लीटर' निश्चित परिमाणवाचक विशेषण है।\nकारण (R): 'यह' संज्ञा 'गाय' से पूर्व आकर उसकी ओर संकेत करता है, और 'दस लीटर' अगणनीय द्रव्य 'दूध' की निश्चित मापी गई मात्रा प्रकट करता है।\nसही विकल्प चुनें:",
+    "options": [
+      "(A) और (R) दोनों सही हैं तथा (R), (A) की सही व्याख्या करता है।",
+      "(A) और (R) दोनों सही हैं, परन्तु (R), (A) की सही व्याख्या नहीं करता।",
+      "(A) सही है, परन्तु (R) गलत है।",
+      "(A) गलत है, परन्तु (R) सही है।"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "सार्वनामिक विशेषण संज्ञा से पूर्व संकेत करता है, और परिमाणवाचक तरल द्रव्य की मात्रा निर्दिष्ट करता है।"
+  },
+  {
+    "classLevel": 6,
+    "subject": "Hindi Grammar",
+    "chapter": "Chapter 9: विशेषण",
+    "question": "Spot the IMPOSTER in the following group of विशेषण और उनके भेदों के युग्म में:\nGroup: [चार पुस्तकें - निश्चित संख्यावाचक, थोड़ा पानी - अनिश्चित परिमाणवाचक, यह बालक - सार्वनामिक विशेषण, ईमानदार लड़का - अनिश्चित संख्यावाचक]",
+    "options": [
+      "चार पुस्तकें - निश्चित संख्यावाचक",
+      "थोड़ा पानी - अनिश्चित परिमाणवाचक",
+      "यह बालक - सार्वनामिक विशेषण",
+      "ईमानदार लड़का - अनिश्चित संख्यावाचक"
+    ],
+    "correctAnswer": 3,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "'ईमानदार लड़का - अनिश्चित संख्यावाचक' अशुद्ध युग्म है; 'ईमानदार' गुणवाचक विशेषण (Qualitative Adjective) है, संख्यावाचक नहीं।"
+  },
+  {
+    "classLevel": 6,
+    "subject": "Hindi Grammar",
+    "chapter": "Chapter 9: विशेषण",
+    "question": "सुमेलित कीजिए (संज्ञा शब्द और उनसे बने शुद्ध विशेषण):\n(क) भूगोल  -> (i) वार्षिक\n(ख) वर्ष    -> (ii) भौगोलिक\n(ग) चमक    -> (iii) विषैला\n(घ) विष     -> (iv) चमकीला",
+    "options": [
+      "क-(ii), ख-(i), ग-(iv), घ-(iii)",
+      "क-(i), ख-(ii), ग-(iii), घ-(iv)",
+      "क-(iv), ख-(iii), ग-(ii), घ-(i)",
+      "क-(iii), ख-(iv), ग-(i), घ-(ii)"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "भूगोल = भौगोलिक; वर्ष = वार्षिक; चमक = चमकीला; विष = विषैला।"
+  },
+  {
+    "classLevel": 6,
+    "subject": "Hindi Grammar",
+    "chapter": "Chapter 9: विशेषण",
+    "question": "निश्चित संख्यावाचक विशेषण के पाँच प्रमुख उप-प्रकारों (गणनावाचक, क्रमवाचक, आवृत्तिवाचक, समुदायवाचक, प्रत्येकबोधक) का सही सुमेल कौन-सा है?",
+    "options": [
+      "एक, दो (गणनावाचक) ; पहला, दूसरा (क्रमवाचक) ; दुगुना, तिगुना (आवृत्तिवाचक) ; दोनों, चारों (समुदायवाचक) ; प्रत्येक, हर एक (प्रत्येकबोधक)",
+      "सभी केवल गणनावाचक हैं",
+      "पहला दूसरा समुदायवाचक है",
+      "दुगुना तिगुना क्रमवाचक है"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "निश्चित संख्या के 5 प्रकार: गणना (1, 2), क्रम (पहला, दूसरा), आवृत्ति (दुगुना, चौगुना), समुदाय (दोनों, तीनों), प्रत्येकबोधक (हर एक, प्रति)।"
+  },
+  {
+    "classLevel": 6,
+    "subject": "Hindi Grammar",
+    "chapter": "Chapter 9: विशेषण",
+    "question": "वाक्य में प्रयुक्त रेखांकित पद का सही व्याकरणिक भेद बताइए:\n'माउंट एवरेस्ट विश्व की **उच्चतम** चोटी है।'",
+    "options": [
+      "गुणवाचक विशेषण (उत्तमावस्था - Superlative Degree)",
+      "उत्तरावस्था",
+      "मूलावस्था",
+      "प्रविशेषण"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "'उच्चतम' विशेषण की उत्तमावस्था (Superlative Degree) है, जो सभी में सर्वश्रेष्ठ/सर्वोच्च गुण प्रकट करती है।"
+  },
+  {
+    "classLevel": 6,
+    "subject": "Hindi Grammar",
+    "chapter": "Chapter 9: विशेषण",
+    "question": "उद्देश्य विशेषण (Attributive) और विधेय विशेषण (Predicative) में क्या अंतर होता है?",
+    "options": [
+      "जब विशेषण शब्द विशेष्य (संज्ञा) से पहले आता है तो वह 'उद्देश्य विशेषण' कहलाता है (जैसे: 'यह मीठा सेब है') ; और जब विशेषण विशेष्य के बाद तथा क्रिया से पहले आता है तो वह 'विधेय विशेषण' कहलाता है (जैसे: 'यह सेब मीठा है')",
+      "उद्देश्य विशेषण में विशेष्य नहीं होता",
+      "विधेय विशेषण केवल भूतकाल में आता है",
+      "दोनों में कोई अंतर नहीं है"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "विशेष्य से पूर्व स्थिति = उद्देश्य विशेषण (लाल गुलाब); विशेष्य के उपरांत स्थिति = विधेय विशेषण (गुलाब लाल है)।"
+  },
+  {
+    "classLevel": 6,
+    "subject": "Hindi Grammar",
+    "chapter": "Chapter 9: विशेषण",
+    "question": "संज्ञा शब्द 'शरीर', 'बुद्धि' और 'ज्ञान' से 'इक' या 'वान' प्रत्यय लगाने पर सही विशेषण रूप क्या बनेंगे?",
+    "options": [
+      "शारीरिक, बौद्धिक, ज्ञानवान",
+      "शरीरी, बुद्धिमान, ज्ञानी",
+      "शारीरिक, बुद्धिक, ज्ञानमय",
+      "शरीरवान, बुद्धिहीन, ज्ञानिक"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "शरीर + इक = शारीरिक (आदि स्वर वृद्धि); बुद्धि + इक = बौद्धिक (उ का औ); ज्ञान + वान = ज्ञानवान।"
+  },
+  {
+    "classLevel": 6,
+    "subject": "Hindi Grammar",
+    "chapter": "Chapter 9: विशेषण",
+    "question": "सर्वनाम पद 'यह' और 'वह' से निर्मित विशेषण शब्द क्रमशः क्या हैं?",
+    "options": [
+      "ऐसा (या इतना) और वैसा (या उतना)",
+      "यहवाला और वहवाला",
+      "यहाँ और वहाँ",
+      "इसका और उसका"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "सर्वनामों से रूपांतरित यौगिक विशेषण: 'यह' -> ऐसा/इतना; 'वह' -> वैसा/उतना; 'कौन' -> कैसा/कितना; 'जो' -> जैसा/जितना।"
+  },
+  {
+    "classLevel": 6,
+    "subject": "Hindi Grammar",
+    "chapter": "Chapter 9: विशेषण",
+    "question": "व्यक्तिवाचक विशेषण (Proper Adjective) का सही उदाहरण कौन-सा है?",
+    "options": [
+      "जयपुरी रज़ाई, बनारसी साड़ी, लखनवी चिकन, कश्मीरी सेब, बीकानेरी भुजिया",
+      "अच्छा लड़का और सुंदर लड़की",
+      "दो किलो आम",
+      "पहला और दूसरा"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "व्यक्तिवाचक संज्ञाओं से निर्मित विशेषण 'व्यक्तिवाचक विशेषण' कहलाते हैं (जयपुर -> जयपुरी; बनारस -> बनारसी; कश्मीर -> कश्मीरी)।"
+  },
+  {
+    "classLevel": 6,
+    "subject": "Hindi Grammar",
+    "chapter": "Chapter 9: विशेषण",
+    "question": "वाक्य में प्रयुक्त रेखांकित पद का सही विशेषण भेद बताइए:\n'हमारे देश का **प्रत्येक** नागरिक कानून का सम्मान करता है।'",
+    "options": [
+      "प्रत्येकबोधक निश्चित संख्यावाचक विशेषण",
+      "अनिश्चित परिमाणवाचक",
+      "गुणवाचक",
+      "सार्वनामिक विशेषण"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "'प्रत्येक', 'हर एक', 'सवा-सवा' हर व्यक्ति को पृथक रूप से बोध कराने वाले प्रत्येकबोधक निश्चित संख्यावाचक विशेषण हैं।"
+  },
+  {
+    "classLevel": 6,
+    "subject": "Hindi Grammar",
+    "chapter": "Chapter 9: विशेषण",
+    "question": "वाक्य को विशेषण की दृष्टि से शुद्ध कीजिए:\n'यह सबसे सुंदरतम फूल है।'",
+    "options": [
+      "'यह सबसे सुंदर फूल है।' (या 'यह सुंदरतम फूल है।' - 'सबसे' और '-तम' दोनों का एक साथ प्रयोग पुनरुक्ति दोष है)",
+      "यह सुंदर फूल है सबसे।",
+      "यह सुंदरतम सबसे फूल है।",
+      "यह बहुत सुंदरतम है।"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "'सुंदरतम' में उत्तमावस्था का भाव पहले से विद्यमान है; इसके साथ 'सबसे' लगाना अनुचित अतिशयोक्ति पुनरुक्ति दोष है।"
+  },
+  {
+    "classLevel": 6,
+    "subject": "Hindi Grammar",
+    "chapter": "Chapter 9: विशेषण",
+    "question": "विशेषण पदों की पद-व्याख्या (पद-परिचय) करते समय किन-किन व्याकरणिक तत्वों का उल्लेख करना अनिवार्य होता है?",
+    "options": [
+      "विशेषण का भेद, उसकी अवस्था (मूलावस्था/उत्तरावस्था/उत्तमावस्था), उसका लिंग, वचन, तथा उसका संबंधित विशेष्य पद",
+      "केवल उसका अर्थ",
+      "केवल कारक चिह्न",
+      "केवल काल"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "विशेषण के पद-परिचय में 5 तत्व शामिल होते हैं: भेद, अवस्था, लिंग, वचन और विशेष्य।"
+  }
+]

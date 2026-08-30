@@ -1,0 +1,570 @@
+import fs from 'fs';
+
+// -------------------------------------------------------------
+// SUBJECT 5: Social Science - Chapter 10: Eighteenth-Century Political Formations (40 Questions)
+// -------------------------------------------------------------
+const socialQuestions = [
+  // EASY (12)
+  {
+    classLevel: 7,
+    subject: "Social Science",
+    chapter: "Chapter 10: Eighteenth-Century Political Formations",
+    question: "Which Mughal Emperor's long, exhausting 25-year military campaigns in the Deccan (1679–1707) severely depleted the financial and military resources of the Mughal Empire?",
+    options: ["Emperor Aurangzeb", "Emperor Akbar", "Emperor Shah Jahan", "Emperor Jahangir"],
+    correctAnswer: 0,
+    difficulty: "EASY",
+    damage: 150,
+    explanation: "Aurangzeb's protracted Deccan wars exhausted the imperial treasury, ruined Mughal armies, and left northern administration vulnerable to collapse."
+  },
+  {
+    classLevel: 7,
+    subject: "Social Science",
+    chapter: "Chapter 10: Eighteenth-Century Political Formations",
+    question: "Which ruler of Iran invaded and plundered the Mughal capital of Delhi in 1739, carrying away the legendary Peacock Throne (Takht-i-Taus) and the Koh-i-Noor Diamond?",
+    options: ["Nadir Shah", "Ahmad Shah Abdali", "Genghis Khan", "Timur"],
+    correctAnswer: 0,
+    difficulty: "EASY",
+    damage: 150,
+    explanation: "Nadir Shah of Persia sacked Delhi in 1739, looting an estimated 70 crore rupees in bullion, jewels, the Koh-i-Noor, and Shah Jahan's Peacock Throne."
+  },
+  {
+    classLevel: 7,
+    subject: "Social Science",
+    chapter: "Chapter 10: Eighteenth-Century Political Formations",
+    question: "Which Afghan ruler invaded northern India FIVE TIMES between 1748 and 1761, culminating in the 3rd Battle of Panipat?",
+    options: ["Ahmad Shah Abdali (Durrani)", "Nadir Shah", "Babur", "Sher Shah Suri"],
+    correctAnswer: 0,
+    difficulty: "EASY",
+    damage: 150,
+    explanation: "Ahmad Shah Abdali of Afghanistan invaded Punjab and Delhi repeatedly between 1748 and 1761, shattering Mughal authority."
+  },
+  {
+    classLevel: 7,
+    subject: "Social Science",
+    chapter: "Chapter 10: Eighteenth-Century Political Formations",
+    question: "Who was appointed Subadar of Awadh in 1722 and founded the powerful autonomous state of AWADH?",
+    options: ["Burhan-ul-Mulk Sa'adat Khan", "Safdar Jung", "Shuja-ud-Daula", "Asaf Jah"],
+    correctAnswer: 0,
+    difficulty: "EASY",
+    damage: 150,
+    explanation: "Burhan-ul-Mulk Sa'adat Khan established Awadh's autonomy in 1722, uniting the offices of Subadari, Diwani, and Faujdari in his person."
+  },
+  {
+    classLevel: 7,
+    subject: "Social Science",
+    chapter: "Chapter 10: Eighteenth-Century Political Formations",
+    question: "Who was appointed Naib Subadar (and later Subadar) of Bengal, transferring the provincial capital from Dacca to MURSHIDABAD?",
+    options: ["Murshid Quli Khan", "Alivardi Khan", "Siraj-ud-Daulah", "Mir Jafar"],
+    correctAnswer: 0,
+    difficulty: "EASY",
+    damage: 150,
+    explanation: "Murshid Quli Khan consolidated Bengal as a virtually independent state, establishing Murshidabad as its administrative capital."
+  },
+  {
+    classLevel: 7,
+    subject: "Social Science",
+    chapter: "Chapter 10: Eighteenth-Century Political Formations",
+    question: "Who founded the autonomous state of HYDERABAD in the Deccan in 1724 after escaping the faction-ridden Mughal court at Delhi?",
+    options: ["Nizam-ul-Mulk Asaf Jah (Chin Qilich Khan)", "Sa'adat Khan", "Hyder Ali", "Tipu Sultan"],
+    correctAnswer: 0,
+    difficulty: "EASY",
+    damage: 150,
+    explanation: "Nizam-ul-Mulk Asaf Jah consolidated the six Deccan subas into the independent Nizamate of Hyderabad in 1724."
+  },
+  {
+    classLevel: 7,
+    subject: "Social Science",
+    chapter: "Chapter 10: Eighteenth-Century Political Formations",
+    question: "Which Rajput ruler of Amber (Jaipur) was a brilliant astronomer and statesman who founded the planned pink city of JAIPUR and built five astronomical observatories (Jantar Mantars)?",
+    options: ["Sawai Raja Jai Singh (Jai Singh II)", "Raja Ajit Singh of Jodhpur", "Rana Pratap", "Raja Man Singh"],
+    correctAnswer: 0,
+    difficulty: "EASY",
+    damage: 150,
+    explanation: "Sawai Raja Jai Singh II built Jaipur (1727) and five masonry observatories (Jantar Mantar) in Delhi, Jaipur, Ujjain, Mathura, and Varanasi."
+  },
+  {
+    classLevel: 7,
+    subject: "Social Science",
+    chapter: "Chapter 10: Eighteenth-Century Political Formations",
+    question: "Who was the great Maratha warrior-king who carved out a stable independent kingdom in Maharashtra using guerrilla warfare against Mughal forces?",
+    options: ["Chhatrapati Shivaji Maharaj (1627–1680)", "Sambhaji", "Baji Rao I", "Balaji Vishwanath"],
+    correctAnswer: 0,
+    difficulty: "EASY",
+    damage: 150,
+    explanation: "Chhatrapati Shivaji Maharaj established the sovereign Maratha Swarajya with support from powerful Deshmukh peasant-warrior Marathas."
+  },
+  {
+    classLevel: 7,
+    subject: "Social Science",
+    chapter: "Chapter 10: Eighteenth-Century Political Formations",
+    question: "In the Maratha revenue administration, what was 'CHAUTH'?",
+    options: [
+      "A tax of 25% (one-fourth) of the land revenue collected by Marathas from non-Maratha neighboring territories in exchange for protection from plundering",
+      "A tax on salt",
+      "A tax on horses",
+      "A gift given to the Mughal emperor"
+    ],
+    correctAnswer: 0,
+    difficulty: "EASY",
+    damage: 150,
+    explanation: "Chauth was a 25% (1/4th) protection levy claimed by Maratha rulers from territories outside the Swarajya core."
+  },
+  {
+    classLevel: 7,
+    subject: "Social Science",
+    chapter: "Chapter 10: Eighteenth-Century Political Formations",
+    question: "What was 'SARDESHMUKHI' collected by the Marathas in addition to Chauth?",
+    options: [
+      "An additional 9 to 10 per cent tax claimed by the Maratha King as the hereditary Chief Headman (Sardeshmukh) of the Deccan",
+      "A tax on ships",
+      "A tax on temples",
+      "A tax on diamond mines"
+    ],
+    correctAnswer: 0,
+    difficulty: "EASY",
+    damage: 150,
+    explanation: "Sardeshmukhi was a 9–10% surcharge levied on the entire revenue by Shivaji in his capacity as the hereditary Sardeshmukh (head of Deshmukhs)."
+  },
+  {
+    classLevel: 7,
+    subject: "Social Science",
+    chapter: "Chapter 10: Eighteenth-Century Political Formations",
+    question: "Who was the legendary Sikh general who led a fierce armed rebellion against Mughal authority in Punjab after Guru Gobind Singh's passing, minting coins in the names of Guru Nanak and Guru Gobind Singh?",
+    options: ["Banda Singh Bahadur (Banda Bairagi)", "Maharaja Ranjit Singh", "Charat Singh", "Jassa Singh Ahluwalia"],
+    correctAnswer: 0,
+    difficulty: "EASY",
+    damage: 150,
+    explanation: "Banda Singh Bahadur captured Sirhind in 1710, abolished the Zamindari system, and established Sikh sovereign rule before his capture in 1715."
+  },
+  {
+    classLevel: 7,
+    subject: "Social Science",
+    chapter: "Chapter 10: Eighteenth-Century Political Formations",
+    question: "Which powerful Jat king led the kingdom of BHARATPUR to its political and military zenith, building the impregnable Lohagarh Fort?",
+    options: ["Suraj Mal (Maharaja Suraj Mal)", "Churaman", "Badan Singh", "Gokula"],
+    correctAnswer: 0,
+    difficulty: "EASY",
+    damage: 150,
+    explanation: "Maharaja Suraj Mal (the 'Plato of the Jat tribe') consolidated Bharatpur into a formidable power, defending Lohagarh fort against all invaders."
+  },
+
+  // MEDIUM (16)
+  {
+    classLevel: 7,
+    subject: "Social Science",
+    chapter: "Chapter 10: Eighteenth-Century Political Formations",
+    question: "What were the two major competing noble factions in the later Mughal court whose bitter rivalry paralyzed central imperial administration?",
+    options: [
+      "The IRANIS (nobles of Persian origin) and the TURANIS (nobles of Central Asian Turkish origin)",
+      "The Afghans and Rajputs only",
+      "The English and French factions",
+      "The Bengalis and Marathas"
+    ],
+    correctAnswer: 0,
+    difficulty: "MEDIUM",
+    damage: 250,
+    explanation: "Imperial factionalism between Irani and Turani grandees reduced later Mughal emperors (Farrukhsiyar, Muhammad Shah) to helpless puppets."
+  },
+  {
+    classLevel: 7,
+    subject: "Social Science",
+    chapter: "Chapter 10: Eighteenth-Century Political Formations",
+    question: "What was the 'Ijaradari System' (revenue farming) introduced in 18th-century Awadh and Bengal?",
+    options: [
+      "The right to collect land revenue was auctioned to the highest bidding revenue contractors (Ijaradars) in return for a fixed sum of money guaranteed to the state",
+      "Farmers paid no tax",
+      "Land was divided equally among all villagers",
+      "Revenue was collected only in gold coins"
+    ],
+    correctAnswer: 0,
+    difficulty: "MEDIUM",
+    damage: 250,
+    explanation: "Under Ijaradari, the provincial governors auctioned revenue rights to bankers and contractors, centralizing cash flow while pressuring cultivators."
+  },
+  {
+    classLevel: 7,
+    subject: "Social Science",
+    chapter: "Chapter 10: Eighteenth-Century Political Formations",
+    question: "Which immensely wealthy banking house in Bengal wielded enormous financial and political influence under Murshid Quli Khan, Alivardi Khan, and the British East India Company?",
+    options: ["The Banking House of JAGAT SETH (Fateh Chand)", "The House of Rothschild", "The Surat Hundi Syndicate", "The Chettiar Guild"],
+    correctAnswer: 0,
+    difficulty: "MEDIUM",
+    damage: 250,
+    explanation: "The Jagat Seths ('Bankers of the World') managed Bengal's imperial mint, state revenues, and hundi credit networks with colossal financial power."
+  },
+  {
+    classLevel: 7,
+    subject: "Social Science",
+    chapter: "Chapter 10: Eighteenth-Century Political Formations",
+    question: "What were the 'Watan Jagirs' enjoyed by Rajput rulers under Mughal paramountcy?",
+    options: [
+      "Hereditary homeland territories (Watans) in Rajasthan that Rajput princes were allowed to rule autonomously without imperial interference, in return for military service",
+      "Lands in Bengal given to Rajputs",
+      "Tax-free temple lands",
+      "Forts built in Delhi"
+    ],
+    correctAnswer: 0,
+    difficulty: "MEDIUM",
+    damage: 250,
+    explanation: "Watan Jagirs recognized Rajput princes' inalienable hereditary ancestral domains, preserving regional Rajput autonomy under imperial suzerainty."
+  },
+  {
+    classLevel: 7,
+    subject: "Social Science",
+    chapter: "Chapter 10: Eighteenth-Century Political Formations",
+    question: "Who was the dynamic Peshwa (reigned 1720–1740) who championed northern Maratha expansion, preaching 'Strike at the trunk of the withering Mughal tree and the branches will fall of themselves'?",
+    options: ["Peshwa Baji Rao I", "Balaji Vishwanath", "Balaji Baji Rao (Nana Saheb)", "Madhav Rao I"],
+    correctAnswer: 0,
+    difficulty: "MEDIUM",
+    damage: 250,
+    explanation: "Baji Rao I was a military genius who expanded the Maratha confederacy across Malwa, Gujarat, and Bundelkhand, threatening Delhi itself."
+  },
+  {
+    classLevel: 7,
+    subject: "Social Science",
+    chapter: "Chapter 10: Eighteenth-Century Political Formations",
+    question: "Which four great Maratha military dynasties (Chiefs / Sardar houses) dominated regional territories within the decentralized Maratha Confederacy?",
+    options: [
+      "1. Gaekwads (Baroda) ; 2. Bhonsles (Nagpur) ; 3. Holkars (Indore) ; 4. Sindhias (Gwalior)",
+      "Nawabs, Nizams, Sultans, and Rajas",
+      "Peshwas, Mughals, Rajputs, and Sikhs",
+      "Cholas, Cheras, Pandyas, and Pallavas"
+    ],
+    correctAnswer: 0,
+    difficulty: "MEDIUM",
+    damage: 250,
+    explanation: "The Maratha confederacy was led by four powerful martial houses: Sindhia (Gwalior), Holkar (Indore), Gaekwad (Baroda), and Bhonsle (Nagpur)."
+  },
+  {
+    classLevel: 7,
+    subject: "Social Science",
+    chapter: "Chapter 10: Eighteenth-Century Political Formations",
+    question: "What catastrophic event on January 14, 1761, halted the Marathas' ambition to rule all of India from Delhi?",
+    options: [
+      "The THIRD BATTLE OF PANIPAT (where Ahmad Shah Abdali routed the Maratha army under Sadashivrao Bhau)",
+      "The Battle of Plassey",
+      "The Battle of Buxar",
+      "The Battle of Haldighati"
+    ],
+    correctAnswer: 0,
+    difficulty: "MEDIUM",
+    damage: 250,
+    explanation: "The Third Battle of Panipat (1761) inflicted catastrophic casualties on the Maratha leadership, creating a political vacuum exploited by the British."
+  },
+  {
+    classLevel: 7,
+    subject: "Social Science",
+    chapter: "Chapter 10: Eighteenth-Century Political Formations",
+    question: "What was the 'Dal Khalsa' and the 'Rakhi' system organized by Sikh bands in 18th-century Punjab?",
+    options: [
+      "Dal Khalsa was the grand unified army of Sikh Misls meeting at Amritsar on Baisakhi/Diwali ; Rakhi was a security system offering protection to cultivators against external raids for a 20% revenue payment",
+      "A trading guild for selling wheat",
+      "A royal palace guard in Lahore",
+      "A religious pilgrimage to the Himalayas"
+    ],
+    correctAnswer: 0,
+    difficulty: "MEDIUM",
+    damage: 250,
+    explanation: "Dal Khalsa unified Sikh military misls under collective 'Gurmata' consensus; the Rakhi system secured peasant agriculture against Afghan marauders."
+  },
+  {
+    classLevel: 7,
+    subject: "Social Science",
+    chapter: "Chapter 10: Eighteenth-Century Political Formations",
+    question: "Who united all the independent Sikh Misls and established a powerful sovereign Sikh kingdom with its capital at LAHORE in 1799?",
+    options: ["Maharaja Ranjit Singh ('Lion of Punjab')", "Banda Singh Bahadur", "Charat Singh Sukerchakia", "Hari Singh Nalwa"],
+    correctAnswer: 0,
+    difficulty: "MEDIUM",
+    damage: 250,
+    explanation: "Maharaja Ranjit Singh captured Lahore in 1799, creating a formidable secular empire spanning Punjab, Kashmir, and Peshawar with modern Fauj-i-Khas artillery."
+  },
+  {
+    classLevel: 7,
+    subject: "Social Science",
+    chapter: "Chapter 10: Eighteenth-Century Political Formations",
+    question: "Why did the states of Awadh, Bengal, and Hyderabad—despite their de facto independence—continue to formally acknowledge the Mughal Emperor in Delhi?",
+    options: [
+      "The Mughal Emperor remained the supreme source of political legitimacy and symbolic prestige; regional rulers minted coins in the Emperor's name and sought imperial titles (Farman) to legitimize their rule",
+      "Because the Emperor had a massive army in Delhi",
+      "Because the Emperor paid their salaries",
+      "Because they wanted to conquer Europe"
+    ],
+    correctAnswer: 0,
+    difficulty: "MEDIUM",
+    damage: 250,
+    explanation: "Mughal symbolic paramountcy persisted: regional Nawabs and Nizams derived legal legitimacy from nominal imperial investiture."
+  },
+  {
+    classLevel: 7,
+    subject: "Social Science",
+    chapter: "Chapter 10: Eighteenth-Century Political Formations",
+    question: "What distinct architectural style is represented in the magnificent palaces and garden pavilions of Deeg near Bharatpur built by Jat rulers?",
+    options: [
+      "A graceful fusion of Mughal architectural forms (Shahjahani jharokhas, bangla eaves) with traditional Rajput palatial motifs and water fountains",
+      "Pure Gothic European style",
+      "Ancient Greek column style",
+      "Chinese pagoda style"
+    ],
+    correctAnswer: 0,
+    difficulty: "MEDIUM",
+    damage: 250,
+    explanation: "The Deeg water palaces synthesized Shahjahani aesthetic elegance with Rajasthani courtyards and hydraulic fountain technology."
+  },
+  {
+    classLevel: 7,
+    subject: "Social Science",
+    chapter: "Chapter 10: Eighteenth-Century Political Formations",
+    question: "Which pastoral-peasant community formed the backbone of the formidable Maratha armies under Shivaji and the Peshwas?",
+    options: ["The Kunbi Peasants (Kunbi Marathas)", "The Gujjars", "The Jats", "The Ahirs"],
+    correctAnswer: 0,
+    difficulty: "MEDIUM",
+    damage: 250,
+    explanation: "Hardy Kunbi peasant-warriors provided the mobile light cavalry that executed Shivaji's devastating Ganimi Kava (guerrilla) maneuvers."
+  },
+  {
+    classLevel: 7,
+    subject: "Social Science",
+    chapter: "Chapter 10: Eighteenth-Century Political Formations",
+    question: "How did the Peshwas transform Pune in the 18th century?",
+    options: [
+      "Pune became the thriving political, administrative, and banking capital of the entire Maratha Empire, bustling with merchants, scholars, and diplomats",
+      "Pune was abandoned and turned into a forest",
+      "Pune was sold to the British in 1720",
+      "Pune became an ocean port"
+    ],
+    correctAnswer: 0,
+    difficulty: "MEDIUM",
+    damage: 250,
+    explanation: "Under the Chitpavan Peshwas, Pune evolved from a small garrison town into the grand imperial seat of the Maratha confederacy."
+  },
+  {
+    classLevel: 7,
+    subject: "Social Science",
+    chapter: "Chapter 10: Eighteenth-Century Political Formations",
+    question: "What were the 'Misls' in 18th-century Sikh history?",
+    options: [
+      "Twelve autonomous sovereign military-administrative confederacies/clans (such as Sukerchakia, Ahluwalia, Bhangi) that collectively defended Punjab against foreign invasions",
+      "Religious books written in Persian",
+      "Special cavalry swords",
+      "Taxes on grain"
+    ],
+    correctAnswer: 0,
+    difficulty: "MEDIUM",
+    damage: 250,
+    explanation: "The 12 Sikh Misls were egalitarian martial confederacies that carved up and governed Punjab after defeating Afghan incursions."
+  },
+  {
+    classLevel: 7,
+    subject: "Social Science",
+    chapter: "Chapter 10: Eighteenth-Century Political Formations",
+    question: "What common administrative feature united the three successor states of Awadh, Bengal, and Hyderabad?",
+    options: [
+      "All three states relied heavily on wealthy regional Moneylenders and Bankers (like Jagat Seths, Mahajans) for credit, loans, and revenue guarantees",
+      "All three states banned the use of money",
+      "All three states abolished armies",
+      "All three states converted to Buddhism"
+    ],
+    correctAnswer: 0,
+    difficulty: "MEDIUM",
+    damage: 250,
+    explanation: "The financial alliance between regional statecraft and indigenous banking houses (Mahajans, Sahukars) was a defining hallmark of 18th-century polity."
+  },
+  {
+    classLevel: 7,
+    subject: "Social Science",
+    chapter: "Chapter 10: Eighteenth-Century Political Formations",
+    question: "Who was the French-trained general who modernized Maharaja Ranjit Singh's Sikh army (Fauj-i-Khas) into the second-best military force in Asia after the British East India Company?",
+    options: ["General Jean-François Allard and General Ventura", "General Dupleix", "General Lally", "General Bussy"],
+    correctAnswer: 0,
+    difficulty: "MEDIUM",
+    damage: 250,
+    explanation: "Napoleonic veterans (Allard, Ventura, Court, Avitabile) drilled the Sikh Fauj-i-Khas in European infantry tactics, cavalry maneuvers, and heavy brass artillery."
+  },
+
+  // HARD (12)
+  {
+    classLevel: 7,
+    subject: "Social Science",
+    chapter: "Chapter 10: Eighteenth-Century Political Formations",
+    question: "Read the statements:\nAssertion (A): The 18th century in Indian history was NOT a period of total 'Dark Age' anarchy, but a dynamic era of political decentralization and vibrant regional state-building.\nReason (R): Regional successor states (Awadh, Bengal, Hyderabad, Marathas, Sikhs, Jats) fostered vigorous local economies, patronized classical arts, built new urban administrative centers, and forged powerful alliances with commercial banking networks.\nChoose the correct option:",
+    options: [
+      "Both (A) and (R) are true, and (R) is the correct explanation of (A).",
+      "Both (A) and (R) are true, but (R) is NOT the correct explanation of (A).",
+      "(A) is true, but (R) is false.",
+      "(A) is false, but (R) is true."
+    ],
+    correctAnswer: 0,
+    difficulty: "HARD",
+    damage: 350,
+    explanation: "Modern historiography (Muzaffar Alam, C.A. Bayly) refutes colonial 'Dark Age' tropes, demonstrating 18th-century regional economic dynamism and state-formation."
+  },
+  {
+    classLevel: 7,
+    subject: "Social Science",
+    chapter: "Chapter 10: Eighteenth-Century Political Formations",
+    question: "Spot the IMPOSTER in the following regional states of 18th-century India and their founding leaders:\nGroup:\n1. Awadh - Burhan-ul-Mulk Sa'adat Khan\n2. Bengal - Murshid Quli Khan\n3. Hyderabad - Nizam-ul-Mulk Asaf Jah\n4. Maratha Swarajya - Julius Caesar",
+    options: ["State 1", "State 2", "State 3", "State 4 (The Maratha kingdom was founded by CHHATRAPATI SHIVAJI MAHARAJ, not ancient Roman general Julius Caesar)"],
+    correctAnswer: 3,
+    difficulty: "HARD",
+    damage: 350,
+    explanation: "State 4 is an absurd historical impossibility; Chhatrapati Shivaji Maharaj founded Maratha Swarajya in the 17th century."
+  },
+  {
+    classLevel: 7,
+    subject: "Social Science",
+    chapter: "Chapter 10: Eighteenth-Century Political Formations",
+    question: "Analyze the structural collapse of the Mughal 'Jagirdari Crisis' in the late 17th and early 18th centuries:\nWhat economic mechanism caused the breakdown of imperial control?",
+    options: [
+      "The rapid influx of new nobles (Mansabdars) created an acute shortage of fertile crown land (Paibaqi) to assign as Jagirs; corrupt nobles extracted extortionate revenues from desperate peasants while maintaining inadequate military contingents",
+      "Mughal coins lost all value because gold was banned",
+      "All farmers refused to plant crops for 50 years",
+      "The Mughal emperor gave all lands to European traders"
+    ],
+    correctAnswer: 0,
+    difficulty: "HARD",
+    damage: 350,
+    explanation: "The Jagirdari crisis (Satish Chandra): shortage of Paibaqi land created fierce factional infighting among Mansabdars, collapsing agrarian revenue and military readiness."
+  },
+  {
+    classLevel: 7,
+    subject: "Social Science",
+    chapter: "Chapter 10: Eighteenth-Century Political Formations",
+    question: "Match Column I (18th-Century Political Formations) with Column II (Defining Administrative & Geopolitical Features):\n(a) Awadh (Sa'adat Khan)       -> (i) Ijaradari revenue farming & synthesis of Awadhi court culture\n(b) Bengal (Murshid Quli Khan)  -> (ii) Strict revenue centralization & alliance with Jagat Seth banking house\n(c) Maratha Confederacy        -> (iii) Chauth and Sardeshmukhi levies & mobile cavalry warfare\n(d) Sikh Misls (Dal Khalsa)    -> (iv) Gurmata democratic consensus & Rakhi protection system",
+    options: [
+      "a-(i), b-(ii), c-(iii), d-(iv)",
+      "a-(ii), b-(i), c-(iv), d-(iii)",
+      "a-(iv), b-(iii), c-(ii), d-(i)",
+      "a-(iii), b-(iv), c-(i), d-(ii)"
+    ],
+    correctAnswer: 0,
+    difficulty: "HARD",
+    damage: 350,
+    explanation: "Awadh = Ijaradari; Bengal = Jagat Seth alliance; Marathas = Chauth/Sardeshmukhi; Sikhs = Gurmata/Rakhi."
+  },
+  {
+    classLevel: 7,
+    subject: "Social Science",
+    chapter: "Chapter 10: Eighteenth-Century Political Formations",
+    question: "Read the statements regarding the strategic defeat of the Marathas at the Third Battle of Panipat (1761):\nStatement 1: The Marathas failed to secure alliances with the Rajputs, Jats, and the Nawab of Awadh (who joined Abdali).\nStatement 2: Ahmad Shah Abdali deployed mobile swivel-guns mounted on camels (Zamburaks) that outmatched heavy Maratha artillery.\nStatement 3: The battle was fought inside the Taj Mahal.\nWhich statements are TRUE?",
+    options: ["Statements 1 and 2 only", "Statements 2 and 3 only", "Statements 1 and 3 only", "All Statements 1, 2, and 3"],
+    correctAnswer: 0,
+    difficulty: "HARD",
+    damage: 350,
+    explanation: "Statement 3 is an absurd falsehood. Statements 1 and 2 highlight the political isolation and tactical vulnerabilities that caused the 1761 Panipat defeat."
+  },
+  {
+    classLevel: 7,
+    subject: "Social Science",
+    chapter: "Chapter 10: Eighteenth-Century Political Formations",
+    question: "Why did the English East India Company manage to conquer the regional successor states of 18th-century India one by one?",
+    options: [
+      "The regional states lacked pan-Indian political unity, fought ceaseless internecine wars among themselves, and could not match the Company's disciplined European-trained mercenary armies, modern naval power, and limitless credit from British bond markets",
+      "Because Indian states had no soldiers",
+      "Because all Indian kings surrendered voluntarily in 1700",
+      "Because the British possessed nuclear weapons in the 18th century"
+    ],
+    correctAnswer: 0,
+    difficulty: "HARD",
+    damage: 350,
+    explanation: "British colonial conquest exploited regional fragmentation, deploying modern fiscal-military statecraft, naval logistics, and divide-and-rule diplomacy."
+  },
+  {
+    classLevel: 7,
+    subject: "Social Science",
+    chapter: "Chapter 10: Eighteenth-Century Political Formations",
+    question: "What was the administrative significance of the 'Ashtapradhan' council of eight ministers instituted by Chhatrapati Shivaji Maharaj?",
+    options: [
+      "A centralized cabinet where each minister (Peshwa, Amatya, Senapati, Nyayadhish, etc.) headed a specific state department and received direct cash salaries from the treasury, eliminating feudal land grants",
+      "A group of foreign ambassadors",
+      "A committee of tax collectors only",
+      "Eight kings ruling together"
+    ],
+    correctAnswer: 0,
+    difficulty: "HARD",
+    damage: 350,
+    explanation: "Shivaji's Ashtapradhan was a proto-modern bureaucratic cabinet that institutionalized departmental administration paid in cash (Nagdi)."
+  },
+  {
+    classLevel: 7,
+    subject: "Social Science",
+    chapter: "Chapter 10: Eighteenth-Century Political Formations",
+    question: "How did Sawai Raja Jai Singh's astronomical 'Jantar Mantars' contribute to 18th-century scientific observation in India?",
+    options: [
+      "He constructed monumental masonry instruments (like the massive Samrat Yantra sundial) that measured celestial coordinates, solar time, planetary orbits, and eclipses with remarkable geometric precision",
+      "They were magical astrology temples only",
+      "They were built to store gunpowder",
+      "They were residential palaces for soldiers"
+    ],
+    correctAnswer: 0,
+    difficulty: "HARD",
+    damage: 350,
+    explanation: "Sawai Jai Singh's Jantar Mantars combined Ptolemaic, Islamic (Ulugh Beg), and European observational astronomy in monumental stone."
+  },
+  {
+    classLevel: 7,
+    subject: "Social Science",
+    chapter: "Chapter 10: Eighteenth-Century Political Formations",
+    question: "Consider four regional military powers of 18th-century India:\n1. The Maratha Light Cavalry (Baji Rao I)\n2. The Sikh Misls (Dal Khalsa)\n3. The Jat Infantry at Bharatpur (Suraj Mal)\n4. The Mysore Rocket Artillery (Hyder Ali & Tipu Sultan)\nWhat military characteristic did they share against imperial and foreign invaders?",
+    options: [
+      "Exceptional mobility, terrain mastery, resilient peasant-warrior mobilization, and rapid adoption of innovative ballistics and firearms",
+      "They all fought on foot without any weapons",
+      "They only defended mountain tops",
+      "They bought all their weapons from China"
+    ],
+    correctAnswer: 0,
+    difficulty: "HARD",
+    damage: 350,
+    explanation: "These regional martial powers revolutionized subcontinental warfare through mobile cavalry maneuvers, guerrilla ambushes, and advanced indigenous rocketry."
+  },
+  {
+    classLevel: 7,
+    subject: "Social Science",
+    chapter: "Chapter 10: Eighteenth-Century Political Formations",
+    question: "Why was the Battle of Plassey (1757) and Battle of Buxar (1764) in Bengal a monumental turning point in modern Indian history?",
+    options: [
+      "The defeat of Nawab Siraj-ud-Daulah and the grant of the Diwani (civil tax collection rights of Bengal, Bihar, and Odisha) to the British East India Company in 1765 laid the foundational territorial empire of British rule in India",
+      "They ended all wars in India forever",
+      "They resulted in the revival of the Mughal Empire",
+      "They created the Indian Republic in 1765"
+    ],
+    correctAnswer: 0,
+    difficulty: "HARD",
+    damage: 350,
+    explanation: "The 1765 Treaty of Allahabad grant of Diwani transformed a commercial trading company into the sovereign territorial master of India's richest province."
+  },
+  {
+    classLevel: 7,
+    subject: "Social Science",
+    chapter: "Chapter 10: Eighteenth-Century Political Formations",
+    question: "What socio-economic legacy did 18th-century regional state formation leave for modern Indian federal geography?",
+    options: [
+      "It demarcated the linguistic, cultural, and political contours of modern Indian states (Maharashtra, Punjab, Bengal, Rajasthan, Hyderabad/Telangana-Andhra, Awadh/UP)",
+      "It erased all cultural diversity in India",
+      "It made all Indians speak only Persian",
+      "It turned India into a desert"
+    ],
+    correctAnswer: 0,
+    difficulty: "HARD",
+    damage: 350,
+    explanation: "18th-century regional formations prefigured the linguistic and socio-cultural geography of modern federal India."
+  },
+  {
+    classLevel: 7,
+    subject: "Social Science",
+    chapter: "Chapter 10: Eighteenth-Century Political Formations",
+    question: "What master historiographical perspective concludes Chapter 10 of NCERT Class 7 History?",
+    options: [
+      "The eighteenth century was a profound transitional epoch—where the fragmentation of centralized Mughal imperial authority gave birth to vibrant regional kingdoms, setting the stage for the dramatic confrontation between indigenous Indian powers and rising British colonial imperialism",
+      "That the Mughal Empire continued unchanged until today",
+      "That India was completely peaceful with no political events",
+      "That regional kingdoms had no impact on Indian history"
+    ],
+    correctAnswer: 0,
+    difficulty: "HARD",
+    damage: 350,
+    explanation: "Chapter 10 encapsulates the political reorganization of 18th-century India: imperial devolution, regional flourishing, and the impending colonial encounter."
+  }
+];
+
+console.log('Generated Class 7 Social Science Ch10:', socialQuestions.length);
+fs.writeFileSync('C:/EduVerse/class 7/cross_subject/social_ch10.json', JSON.stringify(socialQuestions, null, 2), 'utf8');

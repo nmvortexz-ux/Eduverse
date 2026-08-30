@@ -1,0 +1,3842 @@
+[
+  {
+    "classLevel": 7,
+    "subject": "Science",
+    "chapter": "Chapter 12: Forests: Our Lifeline & Wastewater Story",
+    "question": "What is the continuous roof-like overhead layer formed by the leafy branches and foliage of tall trees in a dense forest called?",
+    "options": [
+      "The Canopy",
+      "The Crown",
+      "The Understorey",
+      "The Forest Floor"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "The canopy is the uppermost continuous ceiling formed by the interlocking leafy crowns of mature tall trees in a forest."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Science",
+    "chapter": "Chapter 12: Forests: Our Lifeline & Wastewater Story",
+    "question": "What is the branchy upper part of an individual tree above the stem or trunk called?",
+    "options": [
+      "The Crown of the tree",
+      "The Canopy",
+      "The Understorey",
+      "The Root system"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "The crown is the top portion of a tree comprising branches, twigs, and foliage radiating outward above the trunk."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Science",
+    "chapter": "Chapter 12: Forests: Our Lifeline & Wastewater Story",
+    "question": "What are the horizontal vegetation layers of smaller trees, shrubs, tall herbs, and grasses growing beneath the high canopy called?",
+    "options": [
+      "The Understorey",
+      "The Canopy",
+      "The Crown",
+      "The Soil layer"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "The understorey consists of intermediate vegetation strata (small trees, shrubs, bushes, herbs) thriving in the shade below the canopy."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Science",
+    "chapter": "Chapter 12: Forests: Our Lifeline & Wastewater Story",
+    "question": "Why are forests celebrated and referred to as the 'GREEN LUNGS' of our planet?",
+    "options": [
+      "Through photosynthesis, forest trees release vast amounts of OXYGEN into the atmosphere and absorb CARBON DIOXIDE, maintaining atmospheric gas balance",
+      "Because trees are green in color",
+      "Because leaves look like human lungs",
+      "Because animals sleep in forests"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "Forests regulate planetary gas exchange: green plants fix carbon dioxide and release life-sustaining oxygen during photosynthesis."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Science",
+    "chapter": "Chapter 12: Forests: Our Lifeline & Wastewater Story",
+    "question": "What are the specialized micro-organisms (bacteria and fungi) that break down dead plant and animal matter into dark, nutrient-rich HUMUS called?",
+    "options": [
+      "Decomposers (Saprophytes)",
+      "Producers",
+      "Herbivores",
+      "Carnivores"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "Decomposers recycle organic biomass by converting decaying detritus into dark fertile humus that replenishes soil nutrients."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Science",
+    "chapter": "Chapter 12: Forests: Our Lifeline & Wastewater Story",
+    "question": "How do forest tree root systems and the forest floor prevent destructive FLASH FLOODS and SOIL EROSION?",
+    "options": [
+      "The thick forest floor and root networks act as a giant natural sponge, slowing down rainwater runoff, allowing water to seep into the ground to recharge groundwater",
+      "Trees block rain from falling from clouds",
+      "Trees push water into the ocean directly",
+      "Trees turn rainwater into solid ice"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "Forest leaf litter and dense root networks decelerate raindrops, arrest surface runoff, facilitate groundwater percolation, and bind topsoil."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Science",
+    "chapter": "Chapter 12: Forests: Our Lifeline & Wastewater Story",
+    "question": "What is 'SEWAGE' in environmental science?",
+    "options": [
+      "Liquid wastewater produced by households, industries, hospitals, and commercial establishments carrying dissolved and suspended contaminants",
+      "Clean drinking water from mountain streams",
+      "Rainwater stored in reservoirs",
+      "Solid garbage collected in trucks"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "Sewage is municipal liquid waste carrying fecal matter, detergents, pathogens, organic refuse, and hazardous chemical contaminants."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Science",
+    "chapter": "Chapter 12: Forests: Our Lifeline & Wastewater Story",
+    "question": "What does the technological abbreviation 'WWTP' stand for in municipal water management?",
+    "options": [
+      "Wastewater Treatment Plant",
+      "Water Wind Turbine Project",
+      "Waste Weather Temperature Program",
+      "Worldwide Tanker Petroleum"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "A Wastewater Treatment Plant (WWTP) is a facility that removes physical, biological, and chemical pollutants from sewage water."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Science",
+    "chapter": "Chapter 12: Forests: Our Lifeline & Wastewater Story",
+    "question": "In the first primary stage of a WWTP, what mechanical filters are used to screen out large physical debris such as rags, plastic bottles, sticks, and cans?",
+    "options": [
+      "Bar Screens",
+      "Sand filters",
+      "Aeration tanks",
+      "Chlorine chambers"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "Bar screens are vertical metal grids that intercept and remove coarse floating solids (plastics, rags, wood) from raw sewage."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Science",
+    "chapter": "Chapter 12: Forests: Our Lifeline & Wastewater Story",
+    "question": "What is the semi-solid organic matter that settles at the bottom of the large central sedimentation tank (clarifier) in a WWTP called?",
+    "options": [
+      "Sludge (Primary / Activated Sludge)",
+      "Grit",
+      "Scum",
+      "Foam"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "Sludge is the settled organic particulate matter scraped from clarifier bottoms, subsequently digested in anaerobic bio-reactors."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Science",
+    "chapter": "Chapter 12: Forests: Our Lifeline & Wastewater Story",
+    "question": "What common disinfectant chemical (or gas) is added to treated wastewater before releasing it into rivers to kill harmful disease-causing microbes?",
+    "options": [
+      "Chlorine (or Ozone / Ultraviolet Light)",
+      "Salt",
+      "Sugar",
+      "Sulfuric acid"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "Chlorination (or UV irradiation/ozonation) oxidizes and eradicates pathogenic bacteria, viruses, and parasites before environmental discharge."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Science",
+    "chapter": "Chapter 12: Forests: Our Lifeline & Wastewater Story",
+    "question": "Which fast-growing tree species is recommended to be planted alongside wastewater sewage ponds because it absorbs surplus wastewater rapidly and releases pure water vapor into the air?",
+    "options": [
+      "Eucalyptus Trees",
+      "Cactus",
+      "Banyan Tree",
+      "Pine Tree"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "Eucalyptus trees have high transpiration rates, absorbing large volumes of wastewater and purifying groundwater bio-ecologically."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Science",
+    "chapter": "Chapter 12: Forests: Our Lifeline & Wastewater Story",
+    "question": "Why is a forest referred to as a 'DYNAMIC LIVING ENTITY — FULL OF LIFE AND VITALITY'?",
+    "options": [
+      "It sustains an interconnected web of diverse flora, fauna, insects, and decomposers where nutrients are endlessly recycled, energy flows continuously, and life regenerates autonomously",
+      "Because trees walk around at night",
+      "Because it is powered by electric generators",
+      "Because humans plant every tree every year"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "Forest ecosystems exhibit complex trophic self-regulation: producers, consumers, and decomposers recycle matter in an enduring dynamic equilibrium."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Science",
+    "chapter": "Chapter 12: Forests: Our Lifeline & Wastewater Story",
+    "question": "What occurs during the 'AERATION' stage in a modern Wastewater Treatment Plant?",
+    "options": [
+      "Compressed air is vigorously pumped into clarified wastewater to stimulate the rapid growth of AEROBIC BACTERIA that consume human waste, food residue, and soaps",
+      "Water is frozen into solid ice blocks",
+      "Water is boiled in giant furnaces",
+      "Chemicals are added to dye the water blue"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "Aeration tanks supply dissolved oxygen to heterotrophic aerobic microorganisms, accelerating the biological decomposition of organic pollutants."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Science",
+    "chapter": "Chapter 12: Forests: Our Lifeline & Wastewater Story",
+    "question": "How is the organic 'Sludge' collected from clarifier tanks beneficially utilized in sustainable waste management?",
+    "options": [
+      "It is transferred to closed digester tanks where ANAEROBIC BACTERIA decompose it, producing BIOGAS (used as fuel/electricity) and nutrient-rich manure for farming",
+      "It is thrown into the ocean",
+      "It is turned into plastic toys",
+      "It is burned as coal in train engines"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "Anaerobic sludge digestion yields methane-rich biogas for renewable energy and sterile bio-solids for agricultural soil fertilization."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Science",
+    "chapter": "Chapter 12: Forests: Our Lifeline & Wastewater Story",
+    "question": "Why should used cooking oils and animal fats NEVER be poured down domestic kitchen sink drains?",
+    "options": [
+      "Fats harden and solidify inside drain pipes, clogging plumbing, and in open drains they block soil pores, impairing natural water filtration",
+      "Fats attract fish into the pipes",
+      "Fats make water smell like roses",
+      "Fats dissolve metal pipes instantly"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "Cooking fats congeal into stubborn 'fatbergs', obstructing sewer lines and coating soil particles, which impedes wastewater filtration."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Science",
+    "chapter": "Chapter 12: Forests: Our Lifeline & Wastewater Story",
+    "question": "Why should discarded chemical paints, solvents, motor oil, and expired medicines not be thrown into toilets or drains?",
+    "options": [
+      "These toxic chemicals kill the beneficial microbes in wastewater treatment plants that naturally break down sewage waste",
+      "They cause water to turn into solid rock",
+      "They make water too clear to see",
+      "They freeze the sewer pipes"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "Toxic chemicals and pharmaceuticals poison the beneficial biocatalytic bacterial populations essential for biological sewage purification."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Science",
+    "chapter": "Chapter 12: Forests: Our Lifeline & Wastewater Story",
+    "question": "What is a 'Septic Tank' on-site sewage disposal system?",
+    "options": [
+      "A watertight underground settling chamber where sewage decomposes anaerobically; suitable for isolated homes, rural hospitals, or clusters of houses without municipal sewer networks",
+      "A large tank that stores clean rainwater",
+      "A truck that transports bottled water",
+      "A chemical factory making fertilizers"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "Septic tanks provide decentralized on-site anaerobic sewage digestion and effluent soil absorption for unsewered locations."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Science",
+    "chapter": "Chapter 12: Forests: Our Lifeline & Wastewater Story",
+    "question": "What is the 'Vermi-Processing Toilet' developed and tested successfully in India?",
+    "options": [
+      "A low-cost, hygienic, water-saving toilet system where earthworms (like red worms) completely process human excreta into high-nutrient vermicompost cakes",
+      "A toilet with electric heaters",
+      "A toilet connected to car engines",
+      "A toilet that uses chemical gases"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "Vermi-toilets utilize earthworms to bioconvert human fecal sludge into odorless, pathogen-free, high-grade organic vermicompost."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Science",
+    "chapter": "Chapter 12: Forests: Our Lifeline & Wastewater Story",
+    "question": "How do forests influence the local atmospheric CLIMATE and the WATER CYCLE?",
+    "options": [
+      "Forests transpire enormous volumes of water vapor into the air through their leaves, cooling the ambient climate, increasing atmospheric humidity, and inducing rainfall",
+      "Forests heat the air like stoves",
+      "Forests absorb all clouds",
+      "Forests stop winds from blowing"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "Evapotranspiration from forest canopies generates regional atmospheric moisture flux, lowering surface temperatures and promoting convective precipitation."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Science",
+    "chapter": "Chapter 12: Forests: Our Lifeline & Wastewater Story",
+    "question": "Consider a typical forest food chain: Grass → Insects → Frog → Snake → Eagle. What happens if all the FROGS are removed from this ecosystem?",
+    "options": [
+      "The population of insects will explode and damage vegetation, while snakes will face food scarcity and starve, destabilizing the food web",
+      "Eagles will start eating grass",
+      "Nothing will change in the forest",
+      "Grass will stop growing"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "Trophic cascade: removing intermediate secondary consumers (frogs) triggers pest outbreaks at lower levels and predator starvation at higher levels."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Science",
+    "chapter": "Chapter 12: Forests: Our Lifeline & Wastewater Story",
+    "question": "What is 'Scum' in a WWTP sedimentation clarifier tank?",
+    "options": [
+      "Light, floatable impurities such as oils, grease, and fats that float on the water surface and are removed by a specialized mechanical skimmer",
+      "Heavy rocks at the bottom",
+      "Air bubbles in the pipes",
+      "Clean water flowing out"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "Low-density floatable contaminants (fats, oils, grease) float to the surface as scum and are skimmed off mechanically."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Science",
+    "chapter": "Chapter 12: Forests: Our Lifeline & Wastewater Story",
+    "question": "What is 'Grit and Sand Removal' in a WWTP?",
+    "options": [
+      "Wastewater passes through a tank at a reduced velocity so that heavy coarse sand, grit, and small pebbles settle down by gravity",
+      "Water is filtered through silk cloth",
+      "Water is spun in a centrifuge",
+      "Sand is added to make water cleaner"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "Velocity retardation in grit chambers causes dense mineral particles (sand, gravel) to precipitate out without settling organic matter."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Science",
+    "chapter": "Chapter 12: Forests: Our Lifeline & Wastewater Story",
+    "question": "Why does deforestation lead to severe SOIL EROSION and LAND DEGRADATION?",
+    "options": [
+      "Tree roots physically bind the soil together; in the absence of trees, heavy rain and wind wash away the fertile topsoil, turning fertile land into barren desert (desertification)",
+      "Because trees eat the soil",
+      "Because dead roots turn into water",
+      "Because wind cannot blow in forests"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "Arbor root networks anchor soil horizons; deforested slopes suffer catastrophic topsoil sheet wash, rill erosion, and desertification."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Science",
+    "chapter": "Chapter 12: Forests: Our Lifeline & Wastewater Story",
+    "question": "What deadly water-borne diseases are transmitted by untreated municipal sewage contaminating drinking water sources?",
+    "options": [
+      "Cholera, Typhoid, Dysentery, Hepatitis, and Polio",
+      "Malaria and Dengue only",
+      "Asthma and Bronchitis",
+      "Diabetes and Hypertension"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "Untreated fecal wastewater contains microbial pathogens (Vibrio cholerae, Salmonella typhi, Entamoeba) that cause lethal diarrheal epidemics."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Science",
+    "chapter": "Chapter 12: Forests: Our Lifeline & Wastewater Story",
+    "question": "What is 'Activated Sludge' produced in the aeration tank of a WWTP?",
+    "options": [
+      "A concentrated biological mass consisting of millions of active aerobic bacteria, protozoa, and suspended organic matter (~97% water)",
+      "A radioactive sludge",
+      "Sludge mixed with gasoline",
+      "Solid plastic powder"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "Activated sludge is a living microbial floc of active aerobic decomposers that digest organic pollutants in aeration basins."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Science",
+    "chapter": "Chapter 12: Forests: Our Lifeline & Wastewater Story",
+    "question": "What is the primary role of forest tree canopy in regulating the impact of HEAVY MONSOON RAINS on soil?",
+    "options": [
+      "The multi-tiered canopy intercept the falling raindrops, breaking their kinetic velocity so that water drips gently down branches and trunks, preventing soil compaction",
+      "It completely evaporates all rain before it reaches the ground",
+      "It turns rain into hail",
+      "It reflects rain back into clouds"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "Canopy interception dissipates the destructive kinetic energy of torrential rain, converting erosive downpours into gentle stemflow and leaf drip."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Science",
+    "chapter": "Chapter 12: Forests: Our Lifeline & Wastewater Story",
+    "question": "What is a 'Manhole' in urban municipal sewerage systems?",
+    "options": [
+      "An access opening located every 50 to 60 metres along sewer lines, at junctions and bends, allowing sanitary workers to inspect, clean, and unblock underground pipes",
+      "A place to store drinking water",
+      "A doorway into a subway train",
+      "A trash bin on the street"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "Manholes provide vital physical maintenance entry points along subterranean sewer networks at standardized intervals and directional junctions."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Science",
+    "chapter": "Chapter 12: Forests: Our Lifeline & Wastewater Story",
+    "question": "Read the statements:\nAssertion (A): Forests act as natural self-sustaining water purification and flood control systems.\nReason (R): The dense root systems bind soil particles, while the porous organic humus on the forest floor facilitates deep vertical rainwater infiltration, preventing runoff surges and continuously recharging subterranean aquifers.\nChoose the correct option:",
+    "options": [
+      "Both (A) and (R) are true, and (R) is the correct explanation of (A).",
+      "Both (A) and (R) are true, but (R) is NOT the correct explanation of (A).",
+      "(A) is true, but (R) is false.",
+      "(A) is false, but (R) is true."
+    ],
+    "correctAnswer": 0,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "Forest hydrology: the spongy leaf litter and root bio-matrix maximize infiltration capacity, preventing surface floods and sustaining baseflows."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Science",
+    "chapter": "Chapter 12: Forests: Our Lifeline & Wastewater Story",
+    "question": "Spot the IMPOSTER in the following sequence of Wastewater Treatment Plant (WWTP) unit operations:\nGroup:\n1. Bar Screening - Intercepts large floating rags and plastic items\n2. Grit Chamber - Settles coarse mineral sand and pebbles by gravity\n3. Aeration Basin - Aerobic bacteria digest soluble organic wastes\n4. Sugar Crystallizer - Adds chocolate syrup to sweeten drinking water",
+    "options": [
+      "Unit 1",
+      "Unit 2",
+      "Unit 3",
+      "Unit 4 (WWTP processes involve physical clarification, biological digestion, and chemical disinfection; they NEVER add confectionery sugars or chocolate syrup)"
+    ],
+    "correctAnswer": 3,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "Unit 4 is an absurd distortion: municipal wastewater engineering uses disinfection (chlorine/UV/ozone), not confectionery sweeteners."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Science",
+    "chapter": "Chapter 12: Forests: Our Lifeline & Wastewater Story",
+    "question": "Analyze the biological mechanism of 'Biochemical Oxygen Demand' (BOD) in wastewater analysis:\nWhy is a high BOD in sewage effluent dangerous for aquatic life?",
+    "options": [
+      "High BOD indicates a massive load of organic pollutants; as aerobic bacteria consume dissolved oxygen to decompose this waste, oxygen levels in the river plummet to near zero, causing catastrophic fish suffocations",
+      "High BOD turns water into acid that melts fish scales",
+      "High BOD freezes the river solid",
+      "High BOD increases river water salinity to ocean levels"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "BOD quantifies the oxygen consumed by microbes decomposing organic waste. High BOD causes severe aquatic anoxia, killing fish and invertebrates."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Science",
+    "chapter": "Chapter 12: Forests: Our Lifeline & Wastewater Story",
+    "question": "Match Column I (WWTP Treatment Stages) with Column II (Primary Environmental Functions):\n(a) Bar Screens         -> (i) Mechanical removal of coarse solid plastic/rag debris\n(b) Aeration Basin      -> (ii) Aerobic microbiological oxidation of dissolved organic wastes\n(c) Anaerobic Digester  -> (iii) Methanogenic fermentation of sludge producing combustible biogas\n(d) UV / Chlorination   -> (iv) Pathogen disinfection and destruction of waterborne bacteria",
+    "options": [
+      "a-(i), b-(ii), c-(iii), d-(iv)",
+      "a-(ii), b-(i), c-(iv), d-(iii)",
+      "a-(iv), b-(iii), c-(ii), d-(i)",
+      "a-(iii), b-(iv), c-(i), d-(ii)"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "Bar screens = coarse screening; Aeration = aerobic oxidation; Digester = biogas generation; Chlorination = pathogen disinfection."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Science",
+    "chapter": "Chapter 12: Forests: Our Lifeline & Wastewater Story",
+    "question": "Read the statements regarding forest ecology:\nStatement 1: In a climax virgin forest, no waste is generated because every decaying organic matter is decomposed and recycled into nutrients.\nStatement 2: Diverse canopy strata provide distinct ecological niches, supporting high biodiversity of birds, mammals, and insects.\nStatement 3: Forests produce toxic carbon monoxide that destroys the ozone layer.\nWhich statements are TRUE?",
+    "options": [
+      "Statements 1 and 2 only",
+      "Statements 2 and 3 only",
+      "Statements 1 and 3 only",
+      "All Statements 1, 2, and 3"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "Statement 3 is an absurd falsehood (forests produce oxygen). Statements 1 (zero-waste biogeochemical cycling) and 2 (canopy microhabitats) are true."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Science",
+    "chapter": "Chapter 12: Forests: Our Lifeline & Wastewater Story",
+    "question": "What is the biological role of 'Fungi and Micro-arthropods' in the humification process on the forest floor?",
+    "options": [
+      "They secrete extracellular enzymes that digest recalcitrant plant polymers (lignin, cellulose), transforming leaf litter into stable, dark, mineral-rich colloidal humus",
+      "They eat living tree trunks and kill the forest",
+      "They convert soil into solid glass",
+      "They absorb all sunlight on the ground"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "Saprophytic fungi (white-rot, brown-rot) and soil micro-arthropods enzymatically cleave complex lignin/cellulose polymers into nutrient-rich humus."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Science",
+    "chapter": "Chapter 12: Forests: Our Lifeline & Wastewater Story",
+    "question": "How do constructed wetland bio-filtration systems (like Phytoremediation reed beds) purify sewage water without electricity?",
+    "options": [
+      "Aquatic plants (like reeds and cattails) absorb heavy metals and excess nitrogen/phosphorus, while microbial biofilms around their root zones biologically degrade organic pollutants",
+      "By boiling water using solar mirrors",
+      "By adding chemical dyes that hide dirt",
+      "By freezing sewage into ice bricks"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "Phytoremediation leverages rhizosphere microbiology and macrophyte bio-accumulation to remediate wastewater naturally and passively."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Science",
+    "chapter": "Chapter 12: Forests: Our Lifeline & Wastewater Story",
+    "question": "Consider four environmental management practices:\n1. Reclaiming methane biogas from anaerobic sewage digesters for clean electricity\n2. Planting multi-species agroforestry green belts around industrial zones\n3. Discharging untreated raw factory effluents into freshwater rivers\n4. Using vermicompost from human waste toilets as organic soil conditioner\nWhich of these practices represent SUSTAINABLE CIRCULAR BIO-ECONOMY?",
+    "options": [
+      "Practices 1, 2, and 4 only",
+      "Practice 3 only",
+      "Practices 1 and 3 only",
+      "All 1, 2, 3, and 4"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "Practice 3 is environmentally destructive pollution. Practices 1, 2, and 4 embody closed-loop circular resource recovery."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Science",
+    "chapter": "Chapter 12: Forests: Our Lifeline & Wastewater Story",
+    "question": "Why does the presence of high levels of Coliform Bacteria (such as E. coli) in a river or well indicate severe water pollution?",
+    "options": [
+      "Coliform bacteria are natural inhabitants of the human and warm-blooded animal intestinal tract; their presence proves direct contamination by raw sewage and high risk of lethal enteric pathogens",
+      "Because coliform bacteria eat fish",
+      "Because they produce poisonous radioactive gases",
+      "Because they make water turn red"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "Coliforms serve as universal microbiological fecal indicator organisms, demonstrating sewage contamination and the presence of enteric waterborne pathogens."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Science",
+    "chapter": "Chapter 12: Forests: Our Lifeline & Wastewater Story",
+    "question": "What is the physical cause of 'Eutrophication' in freshwater lakes receiving untreated domestic sewage and detergent runoff?",
+    "options": [
+      "Excessive nitrogen and phosphate nutrients trigger explosive algal blooms; when the algae die, decomposing bacteria consume all dissolved oxygen, suffocating aquatic animals",
+      "The lake gets too cold to support fish",
+      "Detergents turn water into solid jelly",
+      "Algae turn into large carnivorous plants"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "Nutrient hyper-enrichment (phosphates/nitrates) drives algal blooms whose subsequent decomposition induces severe lake hypolimnetic anoxia."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Science",
+    "chapter": "Chapter 12: Forests: Our Lifeline & Wastewater Story",
+    "question": "How do deep-rooted forest trees prevent Hillside LANDSLIDES during torrential cloudbursts?",
+    "options": [
+      "The extensive taproot and lateral root networks act as bio-mechanical anchors, interlocking soil strata and bedrock, while continuous transpiration drains excess soil pore-water pressure",
+      "Trees build stone walls with their branches",
+      "Trees absorb earthquakes",
+      "Trees freeze the mud"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "Arbor roots provide tensile soil reinforcement, increasing mechanical shear strength and relieving pore-water pressure that triggers slope failure."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Science",
+    "chapter": "Chapter 12: Forests: Our Lifeline & Wastewater Story",
+    "question": "What supreme ecological synthesis concludes the NCERT Class 7 Science curriculum in Chapter 12?",
+    "options": [
+      "Human health, ecological balance, clean water, and planetary survival depend inextricably on conserving living forest biomes as our vital life-support systems and adopting responsible, closed-loop circular sanitation to keep our water bodies pure and vibrant",
+      "That nature can be destroyed without consequences",
+      "That wastewater treatment is unnecessary",
+      "That technology will replace all natural forests"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "Chapter 12 synthesizes forest conservation, hydrological cycles, ecological stewardship, and circular environmental engineering."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Mathematics",
+    "chapter": "Chapter 12: Symmetry & Visualising Solid Shapes",
+    "question": "A geometric line that divides a plane figure into two identical, matching halves such that one half completely folds over and covers the other is called a:",
+    "options": [
+      "Line of Symmetry (Axis of Symmetry)",
+      "Diagonal only",
+      "Radius",
+      "Perimeter line"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "A line of symmetry is an axis of reflection that bisects a figure into two congruent, mirror-image halves."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Mathematics",
+    "chapter": "Chapter 12: Symmetry & Visualising Solid Shapes",
+    "question": "How many lines of symmetry does an EQUILATERAL TRIANGLE have?",
+    "options": [
+      "3 Lines of Symmetry",
+      "1 Line",
+      "2 Lines",
+      "Infinite Lines"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "An equilateral triangle has 3 lines of symmetry passing through each vertex to the midpoint of the opposite side."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Mathematics",
+    "chapter": "Chapter 12: Symmetry & Visualising Solid Shapes",
+    "question": "How many lines of symmetry does a regular SQUARE have?",
+    "options": [
+      "4 Lines of Symmetry (2 through midpoints of opposite sides, 2 along diagonals)",
+      "2 Lines",
+      "3 Lines",
+      "8 Lines"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "A square has 4 lines of symmetry: 2 vertical/horizontal medians and 2 diagonal lines."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Mathematics",
+    "chapter": "Chapter 12: Symmetry & Visualising Solid Shapes",
+    "question": "How many lines of symmetry does a CIRCLE have?",
+    "options": [
+      "Infinitely Many Lines (any diameter is a line of symmetry)",
+      "4 Lines",
+      "360 Lines",
+      "100 Lines"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "A circle has an infinite number of lines of symmetry passing through its center along any diameter."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Mathematics",
+    "chapter": "Chapter 12: Symmetry & Visualising Solid Shapes",
+    "question": "What is the smallest angle through which a figure is rotated around a central point to look EXACTLY THE SAME as its original position called?",
+    "options": [
+      "Angle of Rotation",
+      "Order of Symmetry",
+      "Reflective Angle",
+      "Supplementary Angle"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "The angle of rotation is the minimum angle of turn around the center of rotation that maps the figure onto itself."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Mathematics",
+    "chapter": "Chapter 12: Symmetry & Visualising Solid Shapes",
+    "question": "What is the ORDER OF ROTATIONAL SYMMETRY of a square in one complete 360° turn?",
+    "options": [
+      "Order 4 (at angles 90°, 180°, 270°, 360°)",
+      "Order 2",
+      "Order 1",
+      "Order 8"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "A square maps onto itself 4 times during a 360° rotation (every 90°), hence its rotational symmetry order is 4."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Mathematics",
+    "chapter": "Chapter 12: Symmetry & Visualising Solid Shapes",
+    "question": "What is the ORDER OF ROTATIONAL SYMMETRY and ANGLE OF ROTATION of a RECTANGLE (non-square)?",
+    "options": [
+      "Order = 2 and Angle of Rotation = 180°",
+      "Order = 4 and Angle = 90°",
+      "Order = 1 and Angle = 360°",
+      "Order = 3 and Angle = 120°"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "A rectangle looks identical twice in a complete turn (at 180° and 360°), so order = 2 and angle of rotation = 180°."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Mathematics",
+    "chapter": "Chapter 12: Symmetry & Visualising Solid Shapes",
+    "question": "How many FACES (F), VERTICES (V), and EDGES (E) does a standard 3D CUBE have?",
+    "options": [
+      "6 Faces, 8 Vertices, 12 Edges",
+      "8 Faces, 6 Vertices, 12 Edges",
+      "6 Faces, 12 Vertices, 8 Edges",
+      "4 Faces, 4 Vertices, 6 Edges"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "A cube has 6 square faces, 8 corner vertices, and 12 straight edges."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Mathematics",
+    "chapter": "Chapter 12: Symmetry & Visualising Solid Shapes",
+    "question": "What is EULER'S FORMULA relating Faces (F), Vertices (V), and Edges (E) for any convex polyhedron?",
+    "options": [
+      "F + V - E = 2 (or F + V = E + 2)",
+      "F + E - V = 2",
+      "F + V + E = 2",
+      "F × V = E + 2"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "Euler's Polyhedral Formula: F + V - E = 2 holds universally for all simple convex polyhedra."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Mathematics",
+    "chapter": "Chapter 12: Symmetry & Visualising Solid Shapes",
+    "question": "A flat 2D skeletal pattern or layout that can be folded along its edges to construct a 3D solid shape is called a:",
+    "options": [
+      "Net of the solid",
+      "Cross-section",
+      "Isometric sheet",
+      "Oblique sketch"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "A net is a 2D planar unfolded diagram consisting of adjacent polygons that fold together to construct a 3D polyhedron."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Mathematics",
+    "chapter": "Chapter 12: Symmetry & Visualising Solid Shapes",
+    "question": "What is the cross-section obtained when a vertical cut (slicing) is made through an apple or a circular cylinder?",
+    "options": [
+      "A Circle",
+      "A Triangle",
+      "A Square only",
+      "A Hexagon"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "A horizontal cut through a cylinder gives a circle; cutting an apple transversely also yields a circular cross-section."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Mathematics",
+    "chapter": "Chapter 12: Symmetry & Visualising Solid Shapes",
+    "question": "Which English capital letter has BOTH horizontal and vertical lines of symmetry as well as rotational symmetry of order 2?",
+    "options": [
+      "H (and O, X, I)",
+      "A",
+      "B",
+      "C"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "Letter 'H' possesses 2 lines of symmetry (horizontal and vertical) and rotational symmetry of order 2 (180°)."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Mathematics",
+    "chapter": "Chapter 12: Symmetry & Visualising Solid Shapes",
+    "question": "How many lines of symmetry does a REGULAR HEXAGON have, and what is its order of rotational symmetry?",
+    "options": [
+      "6 Lines of Symmetry and Order of Rotational Symmetry = 6 (Angle of rotation = 60°)",
+      "4 Lines and Order 4",
+      "3 Lines and Order 3",
+      "12 Lines and Order 12"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "A regular n-gon has n lines of symmetry and rotational symmetry of order n; for a regular hexagon, n = 6 (angle = 360°/6 = 60°)."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Mathematics",
+    "chapter": "Chapter 12: Symmetry & Visualising Solid Shapes",
+    "question": "Using Euler's Formula (F + V - E = 2), find the number of EDGES (E) of a polyhedron having 8 faces and 12 vertices:",
+    "options": [
+      "18 Edges (F + V - E = 2 ⇒ 8 + 12 - E = 2 ⇒ 20 - E = 2 ⇒ E = 18)",
+      "16 Edges",
+      "20 Edges",
+      "14 Edges"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "E = F + V - 2 = 8 + 12 - 2 = 18."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Mathematics",
+    "chapter": "Chapter 12: Symmetry & Visualising Solid Shapes",
+    "question": "Using Euler's Formula, find the number of VERTICES (V) of a polyhedron with 20 faces and 30 edges (an Icosahedron):",
+    "options": [
+      "12 Vertices (F + V - E = 2 ⇒ 20 + V - 30 = 2 ⇒ V - 10 = 2 ⇒ V = 12)",
+      "10 Vertices",
+      "14 Vertices",
+      "16 Vertices"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "V = E + 2 - F = 30 + 2 - 20 = 12."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Mathematics",
+    "chapter": "Chapter 12: Symmetry & Visualising Solid Shapes",
+    "question": "How many FACES, VERTICES, and EDGES does a TRIANGULAR PRISM have?",
+    "options": [
+      "5 Faces (2 triangular bases + 3 rectangular side faces), 6 Vertices, 9 Edges (Check: 5 + 6 - 9 = 2)",
+      "6 Faces, 8 Vertices, 12 Edges",
+      "4 Faces, 4 Vertices, 6 Edges",
+      "5 Faces, 5 Vertices, 8 Edges"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "A triangular prism has 5 faces, 6 vertices, and 9 edges, satisfying Euler's formula (5 + 6 - 9 = 2)."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Mathematics",
+    "chapter": "Chapter 12: Symmetry & Visualising Solid Shapes",
+    "question": "How many FACES, VERTICES, and EDGES does a SQUARE PYRAMID have?",
+    "options": [
+      "5 Faces (1 square base + 4 triangular faces), 5 Vertices, 8 Edges (Check: 5 + 5 - 8 = 2)",
+      "4 Faces, 4 Vertices, 6 Edges",
+      "6 Faces, 6 Vertices, 10 Edges",
+      "5 Faces, 6 Vertices, 9 Edges"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "A square pyramid has 5 faces (1 base + 4 triangular sides), 5 vertices (4 base + 1 apex), and 8 edges."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Mathematics",
+    "chapter": "Chapter 12: Symmetry & Visualising Solid Shapes",
+    "question": "What is the difference between an OBLIQUE SKETCH and an ISOMETRIC SKETCH of a 3D solid?",
+    "options": [
+      "An oblique sketch does not preserve exact proportional dimensions of receding depths ; an isometric sketch is drawn on an isometric dot grid where exact scaled measurements are preserved",
+      "Oblique sketches are drawn with circles only",
+      "Isometric sketches are drawn without rulers",
+      "There is no mathematical difference"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "Isometric projections use a 30° equilateral triangular dot grid preserving scale proportions along axes, unlike oblique pictorial sketches."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Mathematics",
+    "chapter": "Chapter 12: Symmetry & Visualising Solid Shapes",
+    "question": "On a standard playing DIE (Dice), the sum of the numbers of dots on opposite faces is ALWAYS equal to:",
+    "options": [
+      "7 (1 opposite 6, 2 opposite 5, 3 opposite 4)",
+      "6",
+      "8",
+      "10"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "Standard dice convention: opposite faces always sum to 7 (1+6=7, 2+5=7, 3+4=7)."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Mathematics",
+    "chapter": "Chapter 12: Symmetry & Visualising Solid Shapes",
+    "question": "What is the cross-section shape obtained when you make a VERTICAL SLICE through a solid Brick (Cuboid)?",
+    "options": [
+      "A Rectangle (or Square depending on cut)",
+      "A Circle",
+      "A Triangle",
+      "A Pentagon"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "A vertical or horizontal planar slice through a cuboid always yields a rectangular (or square) cross-section."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Mathematics",
+    "chapter": "Chapter 12: Symmetry & Visualising Solid Shapes",
+    "question": "What is the cross-section obtained when you make a VERTICAL SLICE through the apex of a solid CONE?",
+    "options": [
+      "An Isosceles Triangle",
+      "A Circle",
+      "A Rectangle",
+      "An Oval"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "A vertical axial cross-section passing through the apex of a right circular cone produces an isosceles triangle."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Mathematics",
+    "chapter": "Chapter 12: Symmetry & Visualising Solid Shapes",
+    "question": "Which of the following geometric figures has ONLY Rotational Symmetry of Order > 1 but NO Line of Symmetry?",
+    "options": [
+      "A Parallelogram (Rotational symmetry of order 2, but 0 lines of symmetry)",
+      "A Square",
+      "An Equilateral Triangle",
+      "A Regular Pentagon"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "A standard non-rhombic parallelogram has rotational symmetry of order 2 (180°), but zero reflectional lines of symmetry."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Mathematics",
+    "chapter": "Chapter 12: Symmetry & Visualising Solid Shapes",
+    "question": "What is the order of rotational symmetry of a regular PENTAGON?",
+    "options": [
+      "Order = 5 and Angle of rotation = 72° (360° / 5 = 72°)",
+      "Order = 5 and Angle = 60°",
+      "Order = 10 and Angle = 36°",
+      "Order = 3 and Angle = 120°"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "A regular pentagon has order 5 and angle of rotation = 360°/5 = 72°."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Mathematics",
+    "chapter": "Chapter 12: Symmetry & Visualising Solid Shapes",
+    "question": "Three cubes each of edge 2 cm are placed side-by-side to form a single CUBOID. What are the dimensions (length, breadth, height) of the resulting cuboid?",
+    "options": [
+      "Length = 6 cm, Breadth = 2 cm, Height = 2 cm (Length = 2 + 2 + 2 = 6 cm)",
+      "Length = 2 cm, Breadth = 2 cm, Height = 2 cm",
+      "Length = 6 cm, Breadth = 6 cm, Height = 6 cm",
+      "Length = 8 cm, Breadth = 2 cm, Height = 2 cm"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "Placing 3 identical cubes of side 2 cm linearly results in a cuboid of dimensions 6 cm × 2 cm × 2 cm."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Mathematics",
+    "chapter": "Chapter 12: Symmetry & Visualising Solid Shapes",
+    "question": "Can a polyhedron have 10 faces, 20 edges, and 15 vertices?",
+    "options": [
+      "YES, it satisfies Euler's formula: F + V - E = 10 + 15 - 20 = 25 - 20 = 5 ≠ 2 ... Wait! 10 + 15 - 20 = 5 ≠ 2 ; Therefore, NO, such a polyhedron CANNOT exist",
+      "NO, because F + V - E = 10 + 15 - 20 = 5 ≠ 2 (violating Euler's formula)",
+      "YES, it is a pyramid",
+      "YES, it is a prism"
+    ],
+    "correctAnswer": 1,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "By Euler's formula, F + V - E must equal 2. Here 10 + 15 - 20 = 5 ≠ 2, so no such polyhedron can exist."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Mathematics",
+    "chapter": "Chapter 12: Symmetry & Visualising Solid Shapes",
+    "question": "What solid shape is generated when a right-angled triangular sheet is rotated rapidly around one of its perpendicular sides as the axis?",
+    "options": [
+      "A Right Circular Cone",
+      "A Cylinder",
+      "A Sphere",
+      "A Prism"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "Rotating a right-angled triangle around its altitude sweeps out a 3D right circular cone."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Mathematics",
+    "chapter": "Chapter 12: Symmetry & Visualising Solid Shapes",
+    "question": "What solid shape is generated when a flat rectangular sheet is rotated rapidly around one of its sides?",
+    "options": [
+      "A Cylinder",
+      "A Cone",
+      "A Sphere",
+      "A Pyramid"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "Rotating a rectangle around one edge generates a 3D circular cylinder."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Mathematics",
+    "chapter": "Chapter 12: Symmetry & Visualising Solid Shapes",
+    "question": "How many lines of symmetry does a RHOMBUS have?",
+    "options": [
+      "2 Lines of Symmetry (along its two diagonals)",
+      "4 Lines",
+      "1 Line",
+      "0 Lines"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "A non-square rhombus has exactly 2 lines of symmetry coinciding with its perpendicular diagonals."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Mathematics",
+    "chapter": "Chapter 12: Symmetry & Visualising Solid Shapes",
+    "question": "Read the statements:\nAssertion (A): Every regular polygon of 'n' sides possesses both 'n' lines of reflectional symmetry and rotational symmetry of order 'n'.\nReason (R): Regular polygons have equal sides and equal interior angles, mapping onto themselves under reflections across vertex-bisectors/side-medians and rotations of (360°/n).\nChoose the correct option:",
+    "options": [
+      "Both (A) and (R) are true, and (R) is the correct explanation of (A).",
+      "Both (A) and (R) are true, but (R) is NOT the correct explanation of (A).",
+      "(A) is true, but (R) is false.",
+      "(A) is false, but (R) is true."
+    ],
+    "correctAnswer": 0,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "Fundamental theorem of polygonal symmetry: an n-sided regular polygon exhibits dihedral symmetry group D_n with n reflection axes and n-fold rotation."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Mathematics",
+    "chapter": "Chapter 12: Symmetry & Visualising Solid Shapes",
+    "question": "Spot the IMPOSTER in the following polyhedra and their Euler characteristic components (F, V, E):\nGroup:\n1. Cube - F=6, V=8, E=12 (6 + 8 - 12 = 2)\n2. Triangular Prism - F=5, V=6, E=9 (5 + 6 - 9 = 2)\n3. Square Pyramid - F=5, V=5, E=8 (5 + 5 - 8 = 2)\n4. Magic Polyhedron - F=4, V=4, E=20 (4 + 4 - 20 = -12)",
+    "options": [
+      "Polyhedron 1",
+      "Polyhedron 2",
+      "Polyhedron 3",
+      "Polyhedron 4 (Polyhedron 4 violates Euler's Theorem F + V - E = 2; a solid with 4 vertices and 4 faces is a Tetrahedron with E = 6, NOT E = 20)"
+    ],
+    "correctAnswer": 3,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "Polyhedron 4 is mathematically impossible; a 4-faced polyhedron (tetrahedron) must have 4 vertices and 6 edges."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Mathematics",
+    "chapter": "Chapter 12: Symmetry & Visualising Solid Shapes",
+    "question": "A net for a dice cube has numbers marked on its 6 square faces. If face 1 is opposite face 'x', face 2 is opposite face 'y', and face 3 is opposite face 'z' on a standard die, find the value of (x + y - z):",
+    "options": [
+      "7 (Since opposite faces sum to 7: x = 7 - 1 = 6 ; y = 7 - 2 = 5 ; z = 7 - 3 = 4 ; Value = 6 + 5 - 4 = 11 - 4 = 7)",
+      "5",
+      "9",
+      "11"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "x = 6, y = 5, z = 4. Calculation: 6 + 5 - 4 = 7."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Mathematics",
+    "chapter": "Chapter 12: Symmetry & Visualising Solid Shapes",
+    "question": "Match Column I (Geometric Figures) with Column II (Order of Rotational Symmetry & Line Symmetry):\n(a) Equilateral Triangle -> (i) 3 Lines of symmetry & Rotational Order 3 (120°)\n(b) Regular Hexagon      -> (ii) 6 Lines of symmetry & Rotational Order 6 (60°)\n(c) Parallelogram        -> (iii) 0 Lines of symmetry & Rotational Order 2 (180°)\n(d) Scalene Triangle     -> (iv) 0 Lines of symmetry & Rotational Order 1 (360° only)",
+    "options": [
+      "a-(i), b-(ii), c-(iii), d-(iv)",
+      "a-(ii), b-(i), c-(iv), d-(iii)",
+      "a-(iv), b-(iii), c-(ii), d-(i)",
+      "a-(iii), b-(iv), c-(i), d-(ii)"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "Equilateral triangle = 3 & 3; Hexagon = 6 & 6; Parallelogram = 0 & 2; Scalene = 0 & 1."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Mathematics",
+    "chapter": "Chapter 12: Symmetry & Visualising Solid Shapes",
+    "question": "Read the statements regarding 3D projections:\nStatement 1: In an Isometric drawing, all vertical lines remain vertical, and horizontal lines are drawn at 30° angles to the horizontal baseline.\nStatement 2: A shadow cast by a 3D cone under a flashlight directly overhead is a 2D Circle.\nStatement 3: A sphere can be folded from a flat 2D net made of 4 squares.\nWhich statements are TRUE?",
+    "options": [
+      "Statements 1 and 2 only",
+      "Statements 2 and 3 only",
+      "Statements 1 and 3 only",
+      "All Statements 1, 2, and 3"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "Statement 3 is false (a sphere has Gaussian curvature and cannot be unfolded into a planar polygon net). Statements 1 and 2 are true."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Mathematics",
+    "chapter": "Chapter 12: Symmetry & Visualising Solid Shapes",
+    "question": "A solid geometric shape has 1 curved face and 2 flat circular planar faces. What is the solid shape, and what is its horizontal cross-section?",
+    "options": [
+      "A Cylinder ; its horizontal cross-section is a Circle",
+      "A Cone ; its cross-section is a square",
+      "A Sphere ; its cross-section is a triangle",
+      "A Prism ; its cross-section is a rectangle"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "A cylinder has 2 circular flat bases and 1 curved lateral surface; horizontal cuts parallel to bases yield circular cross-sections."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Mathematics",
+    "chapter": "Chapter 12: Symmetry & Visualising Solid Shapes",
+    "question": "If a regular polygon has an angle of rotational symmetry equal to 45°, how many sides does the polygon have, and how many lines of symmetry does it possess?",
+    "options": [
+      "8 sides (Octagon) and 8 lines of symmetry (Number of sides n = 360° / 45° = 8)",
+      "6 sides and 6 lines",
+      "10 sides and 10 lines",
+      "12 sides and 12 lines"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "n = 360° / 45° = 8 (regular octagon), which has 8 lines of symmetry."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Mathematics",
+    "chapter": "Chapter 12: Symmetry & Visualising Solid Shapes",
+    "question": "Consider four geometric 3D shapes:\n1. A sphere sliced diagonally\n2. A cylinder cut horizontally\n3. A cone sliced horizontally parallel to its base\n4. A cube sliced vertically\nWhich of these cuts produce a CIRCULAR cross-section?",
+    "options": [
+      "Cuts 1, 2, and 3 only",
+      "Cut 4 only",
+      "Cuts 2 and 4 only",
+      "All 1, 2, 3, and 4"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "Any planar slice through a sphere is a circle. Horizontal slices through a cylinder and cone yield circles. A cube cut gives polygons."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Mathematics",
+    "chapter": "Chapter 12: Symmetry & Visualising Solid Shapes",
+    "question": "How many unit cubes (1 cm × 1 cm × 1 cm) are required to build a solid hollow cubical box of outer dimension 4 cm × 4 cm × 4 cm with walls 1 cm thick?",
+    "options": [
+      "56 unit cubes (Total outer volume = 4³ = 64 cm³ ; Inner hollow volume = 2³ = 8 cm³ ; Required cubes = 64 - 8 = 56 cubes)",
+      "64 cubes",
+      "48 cubes",
+      "52 cubes"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "Outer volume = 4³ = 64. Inner void = (4-2)³ = 2³ = 8. Required unit cubes = 64 - 8 = 56."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Mathematics",
+    "chapter": "Chapter 12: Symmetry & Visualising Solid Shapes",
+    "question": "What is the maximum number of acute angles a convex polyhedron's polygonal face can have in 3D Euclidean geometry?",
+    "options": [
+      "3 acute angles (in a triangle)",
+      "4",
+      "5",
+      "Infinite"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "A polygon can have at most 3 acute interior angles regardless of the number of sides (as exterior angles would otherwise exceed 360°)."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Mathematics",
+    "chapter": "Chapter 12: Symmetry & Visualising Solid Shapes",
+    "question": "Why can a solid polyhedron NEVER have only 7 edges?",
+    "options": [
+      "By Euler's formula and face-edge degree bounds (2E ≥ 3F and 2E ≥ 3V), for E = 7, F + V = 9; combining bounds yields 3(F + V) = 27 ≤ 4E = 28, which admits no integer solution for planar polygonal faces",
+      "Because 7 is an odd number",
+      "Because polyhedra must have even number of faces only",
+      "Because edges must be multiples of 4"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "Every polyhedron face has ≥ 3 edges (2E ≥ 3F) and each vertex has degree ≥ 3 (2E ≥ 3V). No polyhedron can have E = 7."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Mathematics",
+    "chapter": "Chapter 12: Symmetry & Visualising Solid Shapes",
+    "question": "What grand spatial and geometric unification concludes the NCERT Class 7 Mathematics curriculum in Chapter 12?",
+    "options": [
+      "Geometric symmetry and spatial 3D visualization unite reflectional invariants, rotational group orders, topological polyhedral networks (Euler's formula), and 2D-to-3D projection mappings—forming the bedrock of modern architecture, computer graphics, CAD engineering, and crystallographic science",
+      "That geometry is only useful for drawing paper shapes",
+      "That 3D solids cannot be drawn on 2D paper",
+      "That symmetry exists only in circles"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "Chapter 12 establishes spatial reasoning: reflectional/rotational invariance, polyhedral topology (Euler's characteristic), and isometric projection."
+  },
+  {
+    "classLevel": 7,
+    "subject": "English",
+    "chapter": "Chapter 12: Master Literature Themes & Applied Grammar Review",
+    "question": "In Leo Tolstoy's opening parable 'Three Questions' in Honeycomb, what three essential questions did the King seek answers to?",
+    "options": [
+      "1. What was the right time to begin everything? 2. Which people should he listen to? 3. What was the most important thing for him to do?",
+      "How to win wars, where to find gold, and how to live forever",
+      "When to eat, where to sleep, and who to appoint as minister",
+      "How to build castles, buy horses, and rule kingdoms"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "The King sought wisdom on the right time to act, the most important people to trust, and the supreme duty to perform."
+  },
+  {
+    "classLevel": 7,
+    "subject": "English",
+    "chapter": "Chapter 12: Master Literature Themes & Applied Grammar Review",
+    "question": "In 'The Gift of Chappals', what selfless act of kindness do the children (Ravi, Meena, and Mridu) perform for the blistered beggar?",
+    "options": [
+      "They give him the music-master's comfortable old leather chappals (slippers) because the beggar's bare feet were scorched and blistered by the burning road",
+      "They give him gold coins",
+      "They buy him a new car",
+      "They invite him to live in their palace"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "Moved by compassion for the beggar's blistered bare feet, the children spontaneously gift him the music teacher's chappals."
+  },
+  {
+    "classLevel": 7,
+    "subject": "English",
+    "chapter": "Chapter 12: Master Literature Themes & Applied Grammar Review",
+    "question": "In John Galsworthy's moving short story 'Quality', what craft did the noble German bootmaker Mr. Gessler dedicate his entire life to?",
+    "options": [
+      "Handmade bespoke leather boots of supreme craftsmanship and extraordinary durability",
+      "Tailoring royal woolen coats",
+      "Making wooden furniture",
+      "Painting oil portraits"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "Mr. Gessler was a master craftsman who chose slow, artisanal perfection in bootmaking over cheap mass-produced commercialism."
+  },
+  {
+    "classLevel": 7,
+    "subject": "English",
+    "chapter": "Chapter 12: Master Literature Themes & Applied Grammar Review",
+    "question": "What is the supreme moral conclusion delivered by the wise Hermit in 'Three Questions'?",
+    "options": [
+      "The most important time is NOW (the present); the most important person is the one you are with; and the most important business is to DO GOOD to that person",
+      "Wealth is the only goal in life",
+      "Past actions determine everything",
+      "Kings should never help strangers"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "The Hermit teaches: the only important time is 'Now' (the present moment), our companions are our immediate priority, and doing good is our supreme purpose."
+  },
+  {
+    "classLevel": 7,
+    "subject": "English",
+    "chapter": "Chapter 12: Master Literature Themes & Applied Grammar Review",
+    "question": "Identify the part of speech of the underlined word in: 'She sang **sweetly** during the concert.'",
+    "options": [
+      "Adverb of Manner",
+      "Adjective",
+      "Noun",
+      "Preposition"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "'Sweetly' is an adverb of manner modifying the verb 'sang'."
+  },
+  {
+    "classLevel": 7,
+    "subject": "English",
+    "chapter": "Chapter 12: Master Literature Themes & Applied Grammar Review",
+    "question": "Fill in the blank with the correct modal auxiliary verb expressing strong obligation:\n'Citizens _______ respect the laws of the country.'",
+    "options": [
+      "must",
+      "might",
+      "could",
+      "may"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "'Must' conveys categorical moral, legal, or logical necessity and obligation."
+  },
+  {
+    "classLevel": 7,
+    "subject": "English",
+    "chapter": "Chapter 12: Master Literature Themes & Applied Grammar Review",
+    "question": "Choose the correct antonym of the word 'Ancient':",
+    "options": [
+      "Modern",
+      "Antique",
+      "Historic",
+      "Aged"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "The antonym of 'ancient' (belonging to the distant past) is 'modern'."
+  },
+  {
+    "classLevel": 7,
+    "subject": "English",
+    "chapter": "Chapter 12: Master Literature Themes & Applied Grammar Review",
+    "question": "Choose the correct synonym of 'Compassion':",
+    "options": [
+      "Empathy / Kindness / Sympathy",
+      "Cruelty",
+      "Jealousy",
+      "Arrogance"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "'Compassion' signifies deep sympathetic pity and concern for the sufferings of others."
+  },
+  {
+    "classLevel": 7,
+    "subject": "English",
+    "chapter": "Chapter 12: Master Literature Themes & Applied Grammar Review",
+    "question": "Convert into PASSIVE VOICE:\n'The master craftsman made these durable leather boots.'",
+    "options": [
+      "'These durable leather boots were made by the master craftsman.'",
+      "'These durable leather boots made the master craftsman.'",
+      "'The boots was made by master craftsman.'",
+      "'By the boots were made the craftsman.'"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "Passive voice: Plural object ('These durable leather boots') + were made + agent ('by the master craftsman')."
+  },
+  {
+    "classLevel": 7,
+    "subject": "English",
+    "chapter": "Chapter 12: Master Literature Themes & Applied Grammar Review",
+    "question": "What is a 'Gerund' in English grammar?",
+    "options": [
+      "A verb form ending in '-ing' that functions as a NOUN in a sentence (e.g. 'Swimming is healthy')",
+      "A verb in past tense",
+      "An adjective that describes colors",
+      "A conjunction connecting two sentences"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "A gerund is a non-finite verbal noun formed by adding '-ing' to the base verb (e.g. 'Reading enriches the mind')."
+  },
+  {
+    "classLevel": 7,
+    "subject": "English",
+    "chapter": "Chapter 12: Master Literature Themes & Applied Grammar Review",
+    "question": "Which punctuation mark is used to enclose direct spoken dialogue in English narrative writing?",
+    "options": [
+      "Quotation Marks / Inverted Commas (\" \")",
+      "Semicolon (;)",
+      "Hyphen (-)",
+      "Slash (/)"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "Direct speech in dialogue is framed within quotation marks / inverted commas (\" \")."
+  },
+  {
+    "classLevel": 7,
+    "subject": "English",
+    "chapter": "Chapter 12: Master Literature Themes & Applied Grammar Review",
+    "question": "In the poem 'The Rebel' by D.J. Enright, what does the rebel always do?",
+    "options": [
+      "He does the exact opposite of what everybody else is doing to assert his individuality",
+      "He follows all rules strictly",
+      "He sleeps all day",
+      "He never speaks"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "D.J. Enright's poem humorously portrays the rebel as someone who habitually contradicts social conventions to be uniquely different."
+  },
+  {
+    "classLevel": 7,
+    "subject": "English",
+    "chapter": "Chapter 12: Master Literature Themes & Applied Grammar Review",
+    "question": "In 'The Cop and the Anthem' by O. Henry, why does Soapy desperately try to get arrested by a police officer?",
+    "options": [
+      "He wants to spend the three harsh winter months in the warmth and comfort of Blackwell's Island prison with guaranteed food and shelter",
+      "He wants to become a police officer",
+      "He wants to steal a diamond necklace",
+      "He wants to leave New York by train"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "Soapy, a homeless man in New York, deliberately seeks arrest to secure free shelter and meals in the island prison for the winter."
+  },
+  {
+    "classLevel": 7,
+    "subject": "English",
+    "chapter": "Chapter 12: Master Literature Themes & Applied Grammar Review",
+    "question": "What is the poignant situational irony at the end of O. Henry's 'The Cop and the Anthem'?",
+    "options": [
+      "Just when an organ anthem at a church inspires Soapy to reform his life and find honest work, a policeman arrests him for loitering, and the judge sentences him to three months in prison",
+      "Soapy finds a million dollars on the street",
+      "The church burns down",
+      "Soapy becomes mayor of the city"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "Classic O. Henry twist: Soapy fails when trying to get arrested, but gets arrested the exact moment he resolves to reform his life."
+  },
+  {
+    "classLevel": 7,
+    "subject": "English",
+    "chapter": "Chapter 12: Master Literature Themes & Applied Grammar Review",
+    "question": "In Ruskin Bond's charming story 'A Tiger in the House', how did grandfather discover the tiger cub Timothy?",
+    "options": [
+      "During a hunting expedition in the Terai jungle near Dehra, grandfather found the tiny eighteen-inch cub hiding among the roots of a banyan tree",
+      "He bought it from a pet shop",
+      "The cub walked into their kitchen",
+      "He found it at the zoo"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "Grandfather discovered the abandoned eighteen-inch tiger cub in the Terai jungles and brought him home, naming him Timothy."
+  },
+  {
+    "classLevel": 7,
+    "subject": "English",
+    "chapter": "Chapter 12: Master Literature Themes & Applied Grammar Review",
+    "question": "Why did Grandfather decide to transfer Timothy the tiger to the Lucknow zoo when Timothy turned six months old?",
+    "options": [
+      "Timothy grew steadily less friendly, stalked the family cat with sinister intent, and began eyeing the cook Mahmoud hungrily",
+      "Timothy stopped eating meat",
+      "Grandfather moved to London",
+      "The house was sold"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "As Timothy matured into an apex carnivore, his predatory instincts emerged, making it unsafe to keep him in a domestic household."
+  },
+  {
+    "classLevel": 7,
+    "subject": "English",
+    "chapter": "Chapter 12: Master Literature Themes & Applied Grammar Review",
+    "question": "In 'I Want Something in a Cage' by L.E. Morgan, what does the mysterious stranger do with the two white doves he buys from Mr. Purcell's pet shop?",
+    "options": [
+      "He immediately takes them outside the shop and releases them into the open sky to fly free",
+      "He cooks them for dinner",
+      "He puts them in a gold cage",
+      "He sells them to another shop"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "Having spent ten agonizing years in prison, the stranger understands the supreme value of liberty, spending his hard-earned money to liberate caged doves."
+  },
+  {
+    "classLevel": 7,
+    "subject": "English",
+    "chapter": "Chapter 12: Master Literature Themes & Applied Grammar Review",
+    "question": "In 'Chandni' by Zakir Husain, why does the courageous goat Chandni choose to fight the wolf on the mountain rather than return to the safety of Abbu Khan's hut?",
+    "options": [
+      "She values freedom and self-respect above a long life of captivity in a closed hut: 'Death in an open field is better than life in a small hut'",
+      "She believes she is stronger than the wolf",
+      "She hates Abbu Khan",
+      "She wants to rule the mountain"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "Chandni embodies the heroic spirit of freedom, choosing mortal combat for liberty over comfortable domestic confinement."
+  },
+  {
+    "classLevel": 7,
+    "subject": "English",
+    "chapter": "Chapter 12: Master Literature Themes & Applied Grammar Review",
+    "question": "Identify the SUBJECT and PREDICATE in the sentence:\n'The ancient banyan tree in the village provided shade to weary travelers.'",
+    "options": [
+      "Subject: 'The ancient banyan tree in the village' ; Predicate: 'provided shade to weary travelers'",
+      "Subject: 'The ancient' ; Predicate: 'banyan tree'",
+      "Subject: 'weary travelers' ; Predicate: 'provided shade'",
+      "Subject: 'in the village' ; Predicate: 'tree provided'"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "Complete Subject = 'The ancient banyan tree in the village'; Complete Predicate = 'provided shade to weary travelers'."
+  },
+  {
+    "classLevel": 7,
+    "subject": "English",
+    "chapter": "Chapter 12: Master Literature Themes & Applied Grammar Review",
+    "question": "Choose the correct Subject-Verb Agreement:\n'Neither the teacher nor the students _______ present at the seminar yesterday.'",
+    "options": [
+      "were",
+      "was",
+      "is",
+      "are"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "In 'Neither...nor' constructions, the verb agrees with the closer subject ('students' is plural, hence past plural 'were')."
+  },
+  {
+    "classLevel": 7,
+    "subject": "English",
+    "chapter": "Chapter 12: Master Literature Themes & Applied Grammar Review",
+    "question": "Choose the correct Subject-Verb Agreement:\n'Each of the participants _______ awarded a certificate of merit.'",
+    "options": [
+      "was",
+      "were",
+      "are",
+      "have been"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "'Each of...' takes a singular verb (singular subject 'Each' takes singular past verb 'was')."
+  },
+  {
+    "classLevel": 7,
+    "subject": "English",
+    "chapter": "Chapter 12: Master Literature Themes & Applied Grammar Review",
+    "question": "Convert to INDIRECT SPEECH:\nThe hermit said to the king, \"You have already been answered.\"",
+    "options": [
+      "The hermit told the king that he had already been answered.",
+      "The hermit said the king that you have been answered.",
+      "The hermit asked the king if he was answered.",
+      "The hermit told the king you had already been answered."
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "Indirect transformation: said to → told + pronoun 'you' to 'he' + present perfect 'have been' to past perfect 'had been'."
+  },
+  {
+    "classLevel": 7,
+    "subject": "English",
+    "chapter": "Chapter 12: Master Literature Themes & Applied Grammar Review",
+    "question": "What is the meaning of the phrasal verb 'To give up'?",
+    "options": [
+      "To abandon / To cease doing something / To surrender",
+      "To hand over a gift",
+      "To climb upwards",
+      "To look for something"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "'Give up' is an idiomatic phrasal verb meaning to quit, abandon an effort, or surrender."
+  },
+  {
+    "classLevel": 7,
+    "subject": "English",
+    "chapter": "Chapter 12: Master Literature Themes & Applied Grammar Review",
+    "question": "Identify the figure of speech in: 'The wind whispered through the dark pine trees.'",
+    "options": [
+      "Personification (attributing the human action of 'whispering' to non-human wind)",
+      "Simile",
+      "Metaphor only",
+      "Hyperbole"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "Personification endows natural elements (wind) with human behavioral traits (whispering)."
+  },
+  {
+    "classLevel": 7,
+    "subject": "English",
+    "chapter": "Chapter 12: Master Literature Themes & Applied Grammar Review",
+    "question": "What type of conditional clause is: 'If it rains tomorrow, we will cancel the outdoor picnic.'?",
+    "options": [
+      "First Conditional (Real / Probable future condition: If + Present Simple, will + base verb)",
+      "Zero Conditional",
+      "Second Conditional",
+      "Third Conditional"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "First Conditional structures express realistic future possibilities using 'If + Present Simple, will + Infinitive'."
+  },
+  {
+    "classLevel": 7,
+    "subject": "English",
+    "chapter": "Chapter 12: Master Literature Themes & Applied Grammar Review",
+    "question": "Choose the correct spelling:",
+    "options": [
+      "Perseverance",
+      "Perseverence",
+      "Perceverance",
+      "Persevarance"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "Correct orthography: P-E-R-S-E-V-E-R-A-N-C-E."
+  },
+  {
+    "classLevel": 7,
+    "subject": "English",
+    "chapter": "Chapter 12: Master Literature Themes & Applied Grammar Review",
+    "question": "What is the meaning of the idiom 'To burn the candle at both ends'?",
+    "options": [
+      "To work excessively hard from early morning until late at night without adequate rest",
+      "To waste money on candles",
+      "To set a house on fire",
+      "To make candles in a factory"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "Idiom meaning: exhausting one's physical energy through relentless overwork and late-night toil."
+  },
+  {
+    "classLevel": 7,
+    "subject": "English",
+    "chapter": "Chapter 12: Master Literature Themes & Applied Grammar Review",
+    "question": "Identify the type of non-finite verb in the underlined phrase: '**Walking briskly**, she reached the station on time.'",
+    "options": [
+      "Present Participle (functioning as a participial modifier)",
+      "Gerund",
+      "Infinitive",
+      "Finite verb"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "'Walking briskly' is a Present Participial Phrase modifying the subject pronoun 'she'."
+  },
+  {
+    "classLevel": 7,
+    "subject": "English",
+    "chapter": "Chapter 12: Master Literature Themes & Applied Grammar Review",
+    "question": "Read the statements:\nAssertion (A): Great literature across the NCERT Class 7 curriculum cultivates ethical sensibility, emotional empathy, and critical moral judgment.\nReason (R): Stories like 'The Gift of Chappals', 'Quality', 'The Cop and the Anthem', and 'Chandni' compel readers to examine systemic inequality, the dignity of labor, the supreme price of liberty, and the transformative power of spontaneous compassion.\nChoose the correct option:",
+    "options": [
+      "Both (A) and (R) are true, and (R) is the correct explanation of (A).",
+      "Both (A) and (R) are true, but (R) is NOT the correct explanation of (A).",
+      "(A) is true, but (R) is false.",
+      "(A) is false, but (R) is true."
+    ],
+    "correctAnswer": 0,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "The Class 7 English curriculum serves as a humanist pedagogical foundation: fostering ethical discernment and literary aesthetic appreciation."
+  },
+  {
+    "classLevel": 7,
+    "subject": "English",
+    "chapter": "Chapter 12: Master Literature Themes & Applied Grammar Review",
+    "question": "Spot the IMPOSTER in the following matching of NCERT Class 7 English classic stories and their overarching thematic motifs:\nGroup:\n1. 'Three Questions' (Leo Tolstoy) - Mindfulness of the present moment & selfless service\n2. 'Quality' (John Galsworthy) - Artisanal integrity vs soulless commercial mass-production\n3. 'Chandni' (Zakir Husain) - The heroic struggle for freedom over comfortable servitude\n4. 'The Story of Cricket' - A magical fairy tale about dragons playing chess",
+    "options": [
+      "Story 1",
+      "Story 2",
+      "Story 3",
+      "Story 4 ('The Story of Cricket' by Ramachandra Guha is a historical-sociological essay on sports, empire, and media, NOT a fairy tale about dragons)"
+    ],
+    "correctAnswer": 3,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "Story 4 is an imposter: Guha's work is rigorous cultural historiography, not a fantasy fable."
+  },
+  {
+    "classLevel": 7,
+    "subject": "English",
+    "chapter": "Chapter 12: Master Literature Themes & Applied Grammar Review",
+    "question": "Analyze the syntactic grammar of the complex sentence:\n'Although Mr. Gessler suffered immense financial loss because large commercial firms dominated the boot market, he refused to compromise on the flawless quality of his craftsmanship.'\nWhat is the PRINCIPAL (Main) CLAUSE of this sentence?",
+    "options": [
+      "'he refused to compromise on the flawless quality of his craftsmanship'",
+      "'Although Mr. Gessler suffered immense financial loss'",
+      "'because large commercial firms dominated the boot market'",
+      "'of his craftsmanship'"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "The independent principal clause expressing the complete central thought is 'he refused to compromise on the flawless quality of his craftsmanship'."
+  },
+  {
+    "classLevel": 7,
+    "subject": "English",
+    "chapter": "Chapter 12: Master Literature Themes & Applied Grammar Review",
+    "question": "Match Column I (Grammatical Structures) with Column II (Illustrative Sentence Examples):\n(a) Subjunctive Mood       -> (i) The committee recommended that he **be** appointed immediately.\n(b) Third Conditional      -> (ii) If he **had practiced**, he **would have won** the debate.\n(c) Gerund Phrase          -> (iii) **Reading classical literature** broadens human empathy.\n(d) Passive Transformation  -> (iv) The sacred manuscripts **were preserved** by the monks.",
+    "options": [
+      "a-(i), b-(ii), c-(iii), d-(iv)",
+      "a-(ii), b-(i), c-(iv), d-(iii)",
+      "a-(iv), b-(iii), c-(ii), d-(i)",
+      "a-(iii), b-(iv), c-(i), d-(ii)"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "Subjunctive = bare 'be'; 3rd conditional = had practiced/would have won; Gerund = Reading literature; Passive = were preserved."
+  },
+  {
+    "classLevel": 7,
+    "subject": "English",
+    "chapter": "Chapter 12: Master Literature Themes & Applied Grammar Review",
+    "question": "Read the statements regarding grammatical rules:\nStatement 1: 'Bread and butter is my favorite breakfast' takes a singular verb because 'bread and butter' represents a unified single idea/dish.\nStatement 2: Collective nouns (like 'jury', 'committee') take a singular verb when operating as a single unified unit.\nStatement 3: Prepositions can only be placed at the very beginning of a sentence.\nWhich statements are TRUE?",
+    "options": [
+      "Statements 1 and 2 only",
+      "Statements 2 and 3 only",
+      "Statements 1 and 3 only",
+      "All Statements 1, 2, and 3"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "Statement 3 is an absurd falsehood. Statements 1 (compound singular entity) and 2 (collective noun concord) are foundational grammatical rules."
+  },
+  {
+    "classLevel": 7,
+    "subject": "English",
+    "chapter": "Chapter 12: Master Literature Themes & Applied Grammar Review",
+    "question": "In John Galsworthy's 'Quality', what tragic fate befalls master craftsman Mr. Gessler at the climax of the story?",
+    "options": [
+      "He dies of slow starvation ('starvation of character') because he invested all his earnings into rent and the finest leathers, starving himself to finish customer orders",
+      "He becomes a wealthy factory owner",
+      "He moves to America to build rockets",
+      "He is elected mayor of London"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "Mr. Gessler's tragic demise: dying of chronic malnutrition ('slow starvation') while stubbornly upholding uncompromising artisanal perfection."
+  },
+  {
+    "classLevel": 7,
+    "subject": "English",
+    "chapter": "Chapter 12: Master Literature Themes & Applied Grammar Review",
+    "question": "Which of the following sentences exhibits FLAWLESS punctuation, capitalization, and syntax?",
+    "options": [
+      "\"If you have compassion for all living beings,\" remarked the philosopher, \"you will find true inner peace.\"",
+      "\"If you have compassion for all living beings\" remarked the philosopher, \"You will find true inner peace.\"",
+      "If you have compassion for all living beings, remarked the philosopher \"you will find true inner peace.\"",
+      "\"If you have compassion for all living beings\", remarked the philosopher; \"you will find true inner peace.\""
+    ],
+    "correctAnswer": 0,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "Option 1 follows standard dialogue punctuation: comma inside quotes, lower-case attribution tag, followed by lowercase continuation quote."
+  },
+  {
+    "classLevel": 7,
+    "subject": "English",
+    "chapter": "Chapter 12: Master Literature Themes & Applied Grammar Review",
+    "question": "What is the psychological significance of the bear in 'The Bear Story' by Axel Munthe?",
+    "options": [
+      "The tame, vegetarian bear is so gentle and disciplined that when the lady mistakenly scolds and beats a wild bear in the forest thinking it was her pet, the real pet bear looks bewildered at her anger at home",
+      "The bear was a robot",
+      "The bear ate everyone in the village",
+      "The bear was invisible"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "Axel Munthe's comedy of errors: mistaken identity between a gentle domesticated pet bear and a bewildered wild forest bear."
+  },
+  {
+    "classLevel": 7,
+    "subject": "English",
+    "chapter": "Chapter 12: Master Literature Themes & Applied Grammar Review",
+    "question": "Identify the grammatical error in the sentence:\n*'Neither the captain nor the sailors was able to navigate the ship during the hurricane.'*",
+    "options": [
+      "Error in verb: 'was' should be replaced by 'were' (because the plural subject 'sailors' is closer to the verb)",
+      "Error in 'neither...nor'",
+      "Error in 'during the hurricane'",
+      "There is no error in the sentence"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "Proximity rule in correlative conjunctions: the plural noun 'sailors' requires the plural auxiliary 'were'."
+  },
+  {
+    "classLevel": 7,
+    "subject": "English",
+    "chapter": "Chapter 12: Master Literature Themes & Applied Grammar Review",
+    "question": "What is the rhetorical effect of 'Anaphora' in poetic verse?",
+    "options": [
+      "The deliberate repetition of a word or phrase at the beginning of successive sentences or verse lines to create rhythm, emotional intensity, and thematic emphasis",
+      "Using rhymes at the end of lines only",
+      "Writing without any verbs",
+      "Translating poems into Latin"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "Anaphora (e.g. in 'Trees' or 'Meadow Surprises') builds cumulative emotional resonance through rhythmic initial phrase repetition."
+  },
+  {
+    "classLevel": 7,
+    "subject": "English",
+    "chapter": "Chapter 12: Master Literature Themes & Applied Grammar Review",
+    "question": "In 'Golu Grows a Nose' by Rudyard Kipling, how did the inquisitive young elephant Golu obtain his long trunk?",
+    "options": [
+      "The Crocodile in the Limpopo River seized Golu by his small bulgy nose and pulled; during the intense tug-of-war, Golu's nose stretched out into a five-foot-long versatile trunk",
+      "He was born with it",
+      "A doctor gave him a magic potion",
+      "A tree branch fell on his face"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "Kipling's 'Just So' fable: Golu's nose stretches during a tug-of-war with a crocodile on the banks of the great grey-green Limpopo River."
+  },
+  {
+    "classLevel": 7,
+    "subject": "English",
+    "chapter": "Chapter 12: Master Literature Themes & Applied Grammar Review",
+    "question": "What grand linguistic and humanistic mastery concludes Chapter 12 of NCERT Class 7 English?",
+    "options": [
+      "Mastery of the English language integrates grammatical precision, sophisticated rhetorical eloquence, and deep literary contemplation—empowering learners to articulate ideas persuasively, understand human nature, and cultivate lifelong intellectual empathy",
+      "That grammar rules should be memorized without understanding",
+      "That literature has no connection to real life",
+      "That writing is only for passing school exams"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "Chapter 12 synthesizes syntactic mastery, applied rhetoric, ethical contemplation, and nuanced literary appreciation."
+  },
+  {
+    "classLevel": 7,
+    "subject": "GK",
+    "chapter": "Chapter 12: Environmental Conservation, Climate Change, Renewable Energy & Sustainable Development",
+    "question": "When is 'WORLD ENVIRONMENT DAY' celebrated globally every year under the United Nations Environment Programme (UNEP)?",
+    "options": [
+      "June 5",
+      "April 22",
+      "March 21",
+      "September 16"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "World Environment Day is observed on June 5 annually since 1973 to drive global awareness and action for environmental protection."
+  },
+  {
+    "classLevel": 7,
+    "subject": "GK",
+    "chapter": "Chapter 12: Environmental Conservation, Climate Change, Renewable Energy & Sustainable Development",
+    "question": "When is 'EARTH DAY' celebrated internationally each year to demonstrate support for environmental protection?",
+    "options": [
+      "April 22",
+      "June 5",
+      "May 1",
+      "March 3"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "Earth Day (first celebrated on 22 April 1970) mobilizes over a billion people in 190+ countries for environmental conservation."
+  },
+  {
+    "classLevel": 7,
+    "subject": "GK",
+    "chapter": "Chapter 12: Environmental Conservation, Climate Change, Renewable Energy & Sustainable Development",
+    "question": "What is the primary human-generated GREENHOUSE GAS responsible for the majority of global warming and climate change?",
+    "options": [
+      "Carbon Dioxide (CO₂)",
+      "Oxygen (O₂)",
+      "Nitrogen (N₂)",
+      "Argon"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "Carbon dioxide (emitted primarily by burning fossil fuels like coal, oil, and gas) is the predominant driver of anthropogenic global warming."
+  },
+  {
+    "classLevel": 7,
+    "subject": "GK",
+    "chapter": "Chapter 12: Environmental Conservation, Climate Change, Renewable Energy & Sustainable Development",
+    "question": "Which landmark international climate treaty was adopted by 196 nations at COP21 in 2015 to limit global warming to well below 2°C (preferably 1.5°C) above pre-industrial levels?",
+    "options": [
+      "The Paris Agreement",
+      "The Kyoto Protocol",
+      "The Montreal Protocol",
+      "The Geneva Convention"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "The Paris Climate Agreement (2015) commits world nations to legally binding national climate action plans (NDCs) to limit warming to 1.5°C."
+  },
+  {
+    "classLevel": 7,
+    "subject": "GK",
+    "chapter": "Chapter 12: Environmental Conservation, Climate Change, Renewable Energy & Sustainable Development",
+    "question": "Which successful 1987 international treaty mandated the global phase-out of Chlorofluorocarbons (CFCs) to protect the Earth's OZONE LAYER?",
+    "options": [
+      "The Montreal Protocol",
+      "The Paris Agreement",
+      "The Ramsar Convention",
+      "The Basel Convention"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "The Montreal Protocol (1987) successfully phased out 99% of ozone-depleting substances, enabling the Antarctic ozone layer to heal."
+  },
+  {
+    "classLevel": 7,
+    "subject": "GK",
+    "chapter": "Chapter 12: Environmental Conservation, Climate Change, Renewable Energy & Sustainable Development",
+    "question": "Which international treaty signed in Iran in 1971 is dedicated to the conservation and sustainable use of WETLANDS of international importance?",
+    "options": [
+      "The Ramsar Convention",
+      "The Kyoto Protocol",
+      "The Rio Summit",
+      "CITES"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "The Ramsar Convention (1971) safeguards ecologically crucial wetlands (Ramsar Sites) worldwide."
+  },
+  {
+    "classLevel": 7,
+    "subject": "GK",
+    "chapter": "Chapter 12: Environmental Conservation, Climate Change, Renewable Energy & Sustainable Development",
+    "question": "Which species of big cat was reintroduced to India in Kuno National Park (Madhya Pradesh) in September 2022 after being declared extinct in India in 1952?",
+    "options": [
+      "Cheetah (from Namibia and South Africa)",
+      "Snow Leopard",
+      "Jaguar",
+      "Cougar"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "Project Cheetah brought African cheetahs to Kuno National Park in 2022 to re-establish the extinct feline apex predator in Indian grasslands."
+  },
+  {
+    "classLevel": 7,
+    "subject": "GK",
+    "chapter": "Chapter 12: Environmental Conservation, Climate Change, Renewable Energy & Sustainable Development",
+    "question": "What is the name of the flagship wildlife conservation initiative launched by the Government of India in 1973 to protect the Royal Bengal Tiger?",
+    "options": [
+      "Project Tiger (1973)",
+      "Project Elephant",
+      "Project Lion",
+      "Project Rhino"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "Project Tiger, launched in 1973 at Corbett National Park, revived India's tiger population to over 3,600+ tigers (75% of global wild tigers)."
+  },
+  {
+    "classLevel": 7,
+    "subject": "GK",
+    "chapter": "Chapter 12: Environmental Conservation, Climate Change, Renewable Energy & Sustainable Development",
+    "question": "Where is the global headquarters of the INTERNATIONAL SOLAR ALLIANCE (ISA), co-founded by India and France in 2015, located?",
+    "options": [
+      "Gurugram (Haryana, India)",
+      "Paris (France)",
+      "Geneva (Switzerland)",
+      "New York (USA)"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "The International Solar Alliance (ISA) is the first treaty-based intergovernmental organization headquartered in India (Gurugram, Haryana)."
+  },
+  {
+    "classLevel": 7,
+    "subject": "GK",
+    "chapter": "Chapter 12: Environmental Conservation, Climate Change, Renewable Energy & Sustainable Development",
+    "question": "How many SUSTAINABLE DEVELOPMENT GOALS (SDGs) were established by the United Nations General Assembly in 2015 to be achieved by the year 2030?",
+    "options": [
+      "17 Goals (with 169 targets)",
+      "10 Goals",
+      "20 Goals",
+      "8 Goals"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "The UN 2030 Agenda consists of 17 Sustainable Development Goals (SDGs) spanning poverty eradication, clean water, climate action, and peace."
+  },
+  {
+    "classLevel": 7,
+    "subject": "GK",
+    "chapter": "Chapter 12: Environmental Conservation, Climate Change, Renewable Energy & Sustainable Development",
+    "question": "Which National Park in Assam is world-famous as the supreme sanctuary for the endangered GREAT ONE-HORNED RHINOCEROS?",
+    "options": [
+      "Kaziranga National Park",
+      "Jim Corbett National Park",
+      "Sundarbans National Park",
+      "Gir National Park"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "Kaziranga National Park in Assam hosts two-thirds of the world's great one-horned rhinoceros population and is a UNESCO World Heritage site."
+  },
+  {
+    "classLevel": 7,
+    "subject": "GK",
+    "chapter": "Chapter 12: Environmental Conservation, Climate Change, Renewable Energy & Sustainable Development",
+    "question": "Which National Park in Gujarat is the SOLE remaining natural wild habitat in the world for the magnificent ASIATIC LION (Panthera leo persica)?",
+    "options": [
+      "Gir National Park",
+      "Ranthambore National Park",
+      "Kanha National Park",
+      "Bandhavgarh National Park"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "Gir Forest National Park and Wildlife Sanctuary in Gujarat is the exclusive global refuge of wild Asiatic lions."
+  },
+  {
+    "classLevel": 7,
+    "subject": "GK",
+    "chapter": "Chapter 12: Environmental Conservation, Climate Change, Renewable Energy & Sustainable Development",
+    "question": "What is 'Net-Zero Emissions' (Carbon Neutrality)?",
+    "options": [
+      "Achieving an overall balance where any human-caused greenhouse gas emissions released into the atmosphere are completely balanced and neutralized by equivalent carbon removal (via forests, carbon capture, ocean sinks)",
+      "Banning all factories and electricity",
+      "Stopping all human transportation",
+      "Planting only one tree per person"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "Net-Zero means emissions are slashed to near-zero, with any residual unavoidable emissions absorbed by natural carbon sinks or DAC technologies."
+  },
+  {
+    "classLevel": 7,
+    "subject": "GK",
+    "chapter": "Chapter 12: Environmental Conservation, Climate Change, Renewable Energy & Sustainable Development",
+    "question": "By which target year has India committed at COP26 to achieve NET-ZERO CARBON EMISSIONS (Panchamrit goals)?",
+    "options": [
+      "2070",
+      "2050",
+      "2030",
+      "2040"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "Prime Minister Narendra Modi announced at COP26 Glasgow that India will reach Net-Zero carbon emissions by 2070 while installing 500 GW non-fossil energy by 2030."
+  },
+  {
+    "classLevel": 7,
+    "subject": "GK",
+    "chapter": "Chapter 12: Environmental Conservation, Climate Change, Renewable Energy & Sustainable Development",
+    "question": "What is 'GREEN HYDROGEN' in clean energy transition?",
+    "options": [
+      "Hydrogen gas produced by splitting water (H₂O) into hydrogen and oxygen through electrolysis powered exclusively by RENEWABLE ENERGY (solar/wind), producing zero carbon emissions",
+      "Hydrogen painted with green dye",
+      "Hydrogen made from coal burning",
+      "Gas obtained from burning trees"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "Green Hydrogen is the holy grail of zero-emission fuel, decarbonizing heavy industries (steel, cement, fertilizers, shipping) using renewable electrolysis."
+  },
+  {
+    "classLevel": 7,
+    "subject": "GK",
+    "chapter": "Chapter 12: Environmental Conservation, Climate Change, Renewable Energy & Sustainable Development",
+    "question": "What is the 'Intergovernmental Panel on Climate Change' (IPCC)?",
+    "options": [
+      "The United Nations scientific body that assesses and synthesizes comprehensive peer-reviewed scientific research on climate change, its risks, and mitigation options",
+      "A military police force that arrests polluters",
+      "A company that sells solar panels",
+      "A weather forecasting app"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "The IPCC (Nobel Peace Prize 2007) produces definitive Assessment Reports (like AR6) guiding global climate policy and treaty negotiations."
+  },
+  {
+    "classLevel": 7,
+    "subject": "GK",
+    "chapter": "Chapter 12: Environmental Conservation, Climate Change, Renewable Energy & Sustainable Development",
+    "question": "What is 'Carbon Footprint'?",
+    "options": [
+      "The total amount of greenhouse gases (including carbon dioxide and methane) generated directly and indirectly by our individual, organizational, or product actions",
+      "The footprint left by coal miners in dirt",
+      "The size of a shoe made from recycled rubber",
+      "The distance a car travels on a liter of fuel"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "A carbon footprint quantifies individual, corporate, or national greenhouse gas emissions expressed in equivalent metric tonnes of CO₂ (tCO₂e)."
+  },
+  {
+    "classLevel": 7,
+    "subject": "GK",
+    "chapter": "Chapter 12: Environmental Conservation, Climate Change, Renewable Energy & Sustainable Development",
+    "question": "Where is BHADLA SOLAR PARK, one of the world's largest operational single-location photovoltaic solar power plants (~2,245 MW), located?",
+    "options": [
+      "Phalodi district, Rajasthan (Thar Desert, India)",
+      "Gujarat",
+      "Tamil Nadu",
+      "Madhya Pradesh"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "Bhadla Solar Park in Rajasthan spans over 14,000 acres in the high-solar-irradiance Thar desert, generating clean power for millions."
+  },
+  {
+    "classLevel": 7,
+    "subject": "GK",
+    "chapter": "Chapter 12: Environmental Conservation, Climate Change, Renewable Energy & Sustainable Development",
+    "question": "What is 'Ocean Acidification' caused by rising atmospheric carbon dioxide levels?",
+    "options": [
+      "The oceans absorb ~30% of atmospheric CO₂, forming carbonic acid, which lowers seawater pH and dissolves calcium carbonate shells/skeletons of corals, mollusks, and plankton",
+      "Oceans turning into vinegar",
+      "Salt disappearing from seawater",
+      "Ocean water turning into fresh drinking water"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "CO₂ + H₂O → H₂CO₃; seawater acidification depletes carbonate ions, imperiling coral reefs (Great Barrier Reef) and marine food webs."
+  },
+  {
+    "classLevel": 7,
+    "subject": "GK",
+    "chapter": "Chapter 12: Environmental Conservation, Climate Change, Renewable Energy & Sustainable Development",
+    "question": "Which global conservation organization publishes the authoritative 'IUCN RED LIST' of threatened biological species?",
+    "options": [
+      "International Union for Conservation of Nature (IUCN)",
+      "World Wildlife Fund (WWF)",
+      "Greenpeace",
+      "United Nations Development Programme"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "The IUCN Red List of Threatened Species is the world's most comprehensive inventory of the global conservation status of biological species."
+  },
+  {
+    "classLevel": 7,
+    "subject": "GK",
+    "chapter": "Chapter 12: Environmental Conservation, Climate Change, Renewable Energy & Sustainable Development",
+    "question": "What is the 'Great Green Wall' initiative in Africa?",
+    "options": [
+      "An ambitious 8,000-km ecological restoration project planting a continuous belt of trees across the entire width of the Sahel to halt the southward expansion of the Sahara Desert",
+      "A giant concrete wall built along borders",
+      "A green glass greenhouse",
+      "A highway through the rainforest"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "The Great Green Wall combats desertification across 11 Sahelian nations by restoring 100 million hectares of degraded land by 2030."
+  },
+  {
+    "classLevel": 7,
+    "subject": "GK",
+    "chapter": "Chapter 12: Environmental Conservation, Climate Change, Renewable Energy & Sustainable Development",
+    "question": "What is 'Mission LiFE' (Lifestyle for Environment) launched by India at the 2021 Glasgow Climate Summit?",
+    "options": [
+      "A global mass movement encouraging individuals and communities to adopt sustainable, mindful, environmentally conscious everyday consumption choices instead of mindless consumerism",
+      "A medical insurance plan for doctors",
+      "A space satellite mission to study life on Mars",
+      "A free food distribution program"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "Mission LiFE mobilizes citizens worldwide as 'Pro-Planet People' (P3) to reduce waste, save water, conserve energy, and practice circular lifestyles."
+  },
+  {
+    "classLevel": 7,
+    "subject": "GK",
+    "chapter": "Chapter 12: Environmental Conservation, Climate Change, Renewable Energy & Sustainable Development",
+    "question": "Which is the OLDEST National Park in India, established in 1936 in Uttarakhand (originally named Hailey National Park)?",
+    "options": [
+      "Jim Corbett National Park",
+      "Kanha National Park",
+      "Sundarbans National Park",
+      "Bandipur National Park"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "Jim Corbett National Park (established in 1936 as Hailey National Park) is India's first and oldest national park."
+  },
+  {
+    "classLevel": 7,
+    "subject": "GK",
+    "chapter": "Chapter 12: Environmental Conservation, Climate Change, Renewable Energy & Sustainable Development",
+    "question": "What is 'E-Waste' (Electronic Waste) and why is its recycling critical?",
+    "options": [
+      "Discarded electronic devices (smartphones, computers, batteries) containing hazardous heavy metals (lead, mercury, cadmium) as well as recoverable precious metals (gold, copper, lithium)",
+      "Old paper books thrown into garbage",
+      "Plastic shopping bags",
+      "Food waste from restaurants"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "E-waste recycling prevents neurotoxic heavy metals from leaching into groundwater while recovering critical rare earth elements and lithium."
+  },
+  {
+    "classLevel": 7,
+    "subject": "GK",
+    "chapter": "Chapter 12: Environmental Conservation, Climate Change, Renewable Energy & Sustainable Development",
+    "question": "What is 'Microplastics' pollution?",
+    "options": [
+      "Tiny microscopic plastic fragments (less than 5 mm in size) resulting from the degradation of plastic waste, synthetic textiles, and cosmetics that contaminate oceans, marine food chains, and human bloodstream",
+      "Plastic toys for dolls",
+      "Small plastic coins used in board games",
+      "Plastic buttons on shirts"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "Microplastics (<5mm) ubiquitously pollute marine biospheres, bio-accumulating up trophic levels into fish, table salt, and human tissues."
+  },
+  {
+    "classLevel": 7,
+    "subject": "GK",
+    "chapter": "Chapter 12: Environmental Conservation, Climate Change, Renewable Energy & Sustainable Development",
+    "question": "What are 'Biodiversity Hotspots'?",
+    "options": [
+      "Biogeographic regions that possess exceptionally high concentrations of endemic biological species (found nowhere else on Earth) and are undergoing severe habitat loss (e.g. Western Ghats and Eastern Himalayas)",
+      "Volcanoes with lava",
+      "Desert areas with high temperature",
+      "Zoos with many animals"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "Norman Myers defined 36 global Biodiversity Hotspots: regions with ≥1,500 endemic vascular plant species having lost ≥70% primary habitat."
+  },
+  {
+    "classLevel": 7,
+    "subject": "GK",
+    "chapter": "Chapter 12: Environmental Conservation, Climate Change, Renewable Energy & Sustainable Development",
+    "question": "What is the 'Albedo Effect' in polar climate science?",
+    "options": [
+      "The fraction of solar radiation reflected by a surface: white polar ice has high albedo (reflects ~80% sunlight), but melting ice exposes dark ocean water which absorbs heat, accelerating global warming in a feedback loop",
+      "The color of polar bears' fur",
+      "The sound made by glaciers breaking",
+      "The depth of polar ice sheets"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "The ice-albedo feedback is a critical climate tipping element: loss of reflective sea ice increases oceanic heat absorption."
+  },
+  {
+    "classLevel": 7,
+    "subject": "GK",
+    "chapter": "Chapter 12: Environmental Conservation, Climate Change, Renewable Energy & Sustainable Development",
+    "question": "What is 'Circular Economy'?",
+    "options": [
+      "An economic model aimed at eliminating waste through continuous cycles of designing for durability, reuse, repairing, refurbishing, and recycling materials indefinitely",
+      "An economy that prints round coins only",
+      "Trading goods only in circular markets",
+      "An economy where prices go in circles"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "The circular economy replaces the linear 'take-make-dispose' paradigm with closed-loop regenerative resource cycles."
+  },
+  {
+    "classLevel": 7,
+    "subject": "GK",
+    "chapter": "Chapter 12: Environmental Conservation, Climate Change, Renewable Energy & Sustainable Development",
+    "question": "Read the statements:\nAssertion (A): Climate change is a planetary crisis that requires unprecedented multilateral geopolitical collaboration and immediate decarbonization of energy systems.\nReason (R): Exceeding the 1.5°C threshold triggers catastrophic nonlinear 'Climate Tipping Points'—including the irreversible collapse of the Greenland and West Antarctic ice sheets, Amazon rainforest dieback, and thawing of Siberian permafrost releasing massive methane bursts.\nChoose the correct option:",
+    "options": [
+      "Both (A) and (R) are true, and (R) is the correct explanation of (A).",
+      "Both (A) and (R) are true, but (R) is NOT the correct explanation of (A).",
+      "(A) is true, but (R) is false.",
+      "(A) is false, but (R) is true."
+    ],
+    "correctAnswer": 0,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "IPCC science demonstrates that exceeding 1.5°C warming risks triggering self-amplifying planetary tipping elements with irreversible biosphere impacts."
+  },
+  {
+    "classLevel": 7,
+    "subject": "GK",
+    "chapter": "Chapter 12: Environmental Conservation, Climate Change, Renewable Energy & Sustainable Development",
+    "question": "Spot the IMPOSTER in the following major Global Environmental Treaties and their conservation mandates:\nGroup:\n1. Montreal Protocol (1987) - Protection of the Stratospheric Ozone Layer\n2. Ramsar Convention (1971) - Conservation of Ecological Wetland Sites\n3. Paris Agreement (2015) - Mitigation of Global Greenhouse Warming\n4. Treaty of Versailles (1919) - Planting pine trees on Mars",
+    "options": [
+      "Treaty 1",
+      "Treaty 2",
+      "Treaty 3",
+      "Treaty 4 (The Treaty of Versailles was a 1919 post-WWI peace treaty among European nations, NOT an environmental pact to plant trees on Mars)"
+    ],
+    "correctAnswer": 3,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "Treaty 4 is an absurd distortion: Versailles settled WWI territorial borders, with zero connection to space botany."
+  },
+  {
+    "classLevel": 7,
+    "subject": "GK",
+    "chapter": "Chapter 12: Environmental Conservation, Climate Change, Renewable Energy & Sustainable Development",
+    "question": "Analyze the ecological concept of 'Carrying Capacity' of an ecosystem:\nWhat happens when a population exceeds the carrying capacity of its environment?",
+    "options": [
+      "Resource depletion (food, water, territory) occurs, leading to environmental degradation, reproductive decline, disease outbreaks, and a sharp population crash (overshoot and collapse)",
+      "The ecosystem instantly doubles in size",
+      "Animals evolve into different species within a day",
+      "Nothing happens because nature has infinite resources"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "Carrying capacity (K) defines maximum sustainable population; ecological overshoot leads to resource depletion and demographic collapse."
+  },
+  {
+    "classLevel": 7,
+    "subject": "GK",
+    "chapter": "Chapter 12: Environmental Conservation, Climate Change, Renewable Energy & Sustainable Development",
+    "question": "Match Column I (UN Sustainable Development Goals - SDGs) with Column II (Target Agendas):\n(a) SDG 4  -> (i) Quality Education for all\n(b) SDG 6  -> (ii) Clean Water and Sanitation\n(c) SDG 7  -> (iii) Affordable and Clean Energy\n(d) SDG 13 -> (iv) Climate Action",
+    "options": [
+      "a-(i), b-(ii), c-(iii), d-(iv)",
+      "a-(ii), b-(i), c-(iv), d-(iii)",
+      "a-(iv), b-(iii), c-(ii), d-(i)",
+      "a-(iii), b-(iv), c-(i), d-(ii)"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "SDG 4 = Quality Education; SDG 6 = Clean Water; SDG 7 = Clean Energy; SDG 13 = Climate Action."
+  },
+  {
+    "classLevel": 7,
+    "subject": "GK",
+    "chapter": "Chapter 12: Environmental Conservation, Climate Change, Renewable Energy & Sustainable Development",
+    "question": "Read the statements regarding renewable energy transition in India:\nStatement 1: India achieved its target of 40% installed electric capacity from non-fossil fuels nine years ahead of the 2030 schedule in 2021.\nStatement 2: India's National Green Hydrogen Mission aims to establish India as a global manufacturing and export hub for green hydrogen.\nStatement 3: Solar panels work only in underwater caves.\nWhich statements are TRUE?",
+    "options": [
+      "Statements 1 and 2 only",
+      "Statements 2 and 3 only",
+      "Statements 1 and 3 only",
+      "All Statements 1, 2, and 3"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "Statement 3 is an absurd impossibility. Statements 1 and 2 reflect India's recognized leadership in renewable power expansion."
+  },
+  {
+    "classLevel": 7,
+    "subject": "GK",
+    "chapter": "Chapter 12: Environmental Conservation, Climate Change, Renewable Energy & Sustainable Development",
+    "question": "What is the biogeochemical danger of 'Permafrost Thawing' in the Arctic tundra regions?",
+    "options": [
+      "Thawing permafrost awakens ancient microbes that decompose trapped organic matter, releasing hundreds of billions of tons of potent METHANE (CH₄) and CO₂ into the atmosphere, triggering runaway warming",
+      "It causes all rivers to turn into saltwater",
+      "It stops the Earth's magnetic field",
+      "It turns rocks into gold"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "Permafrost holds ~1,500 gigatons of frozen carbon—twice the carbon currently in the atmosphere; thawing creates a catastrophic carbon-feedback loop."
+  },
+  {
+    "classLevel": 7,
+    "subject": "GK",
+    "chapter": "Chapter 12: Environmental Conservation, Climate Change, Renewable Energy & Sustainable Development",
+    "question": "What is 'Payment for Ecosystem Services' (PES) in environmental economics?",
+    "options": [
+      "Incentives and financial compensations paid to local farmers, forest dwellers, and landowners who manage their land sustainably to provide vital ecological services (clean water filtration, carbon sequestration, flood prevention)",
+      "Taxes paid to enter city parks",
+      "Salaries paid to zoo guards",
+      "Prices charged for buying bottled water"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "PES programs (e.g. Costa Rica's PSA) internalize ecological externalities by rewarding indigenous and rural communities for preserving living ecosystems."
+  },
+  {
+    "classLevel": 7,
+    "subject": "GK",
+    "chapter": "Chapter 12: Environmental Conservation, Climate Change, Renewable Energy & Sustainable Development",
+    "question": "Consider four environmental conservation initiatives in India:\n1. The Chipko Movement (1973 - Hugging trees led by Sunderlal Bahuguna & Gaura Devi)\n2. The Appiko Movement (Karnataka - Forest protection)\n3. Silent Valley Movement (Kerala - Protecting tropical evergreen rainforest from hydroelectric dam)\n4. Narmada Bachao Andolan (Medha Patkar - River conservation & displaced tribal rights)\nWhat defining ethos do these movements share?",
+    "options": [
+      "Grassroots non-violent Gandhian eco-activism led by indigenous communities and women fighting to safeguard forest ecosystems and ecological livelihoods",
+      "They were corporate advertising campaigns for wood companies",
+      "They were government projects to cut down forests",
+      "They were sports clubs"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "These landmark environmental movements mobilized grassroots subaltern agency, establishing community-led ecological stewardship in India."
+  },
+  {
+    "classLevel": 7,
+    "subject": "GK",
+    "chapter": "Chapter 12: Environmental Conservation, Climate Change, Renewable Energy & Sustainable Development",
+    "question": "What is the 'Loss and Damage Fund' established at COP27 (Sharm el-Sheikh) and operationalized at COP28 (Dubai)?",
+    "options": [
+      "A dedicated international climate finance facility where historical polluting developed nations provide financial assistance to vulnerable developing countries suffering irreversible climate disasters (floods, droughts, sea-level rise)",
+      "A fund to pay insurance for broken cars",
+      "A tax on tourist travel",
+      "A bank loan for oil companies"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "The Loss and Damage Fund operationalizes climate justice: compensating climate-vulnerable global South nations for irreversible climate shocks."
+  },
+  {
+    "classLevel": 7,
+    "subject": "GK",
+    "chapter": "Chapter 12: Environmental Conservation, Climate Change, Renewable Energy & Sustainable Development",
+    "question": "Why are 'Mangrove Ecosystems' (like the Sundarbans) hailed as super-heroes of coastal climate resilience?",
+    "options": [
+      "They store up to 5 times more carbon per hectare than tropical rainforests (Blue Carbon), buffer coastal communities against ferocious cyclone surges and tsunamis, and serve as vital nursery grounds for marine biodiversity",
+      "Because they produce pure gold crystals in their roots",
+      "Because they can walk across oceans",
+      "Because they prevent rain from falling"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "Mangroves are premier Blue Carbon sinks and bio-shields against coastal erosion, storm surges, and tsunami devastation."
+  },
+  {
+    "classLevel": 7,
+    "subject": "GK",
+    "chapter": "Chapter 12: Environmental Conservation, Climate Change, Renewable Energy & Sustainable Development",
+    "question": "What is 'Ecological Footprint' articulated by Mathis Wackernagel and William Rees?",
+    "options": [
+      "A metric that compares human consumption of natural resources against the Earth's biocapacity to regenerate those resources and absorb our waste; currently, humanity consumes resources at the rate of 1.7 Earths",
+      "The weight of human feet on soil",
+      "The number of trees planted in a garden",
+      "The distance animals travel every year"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "Ecological footprint measures human demand on natural capital versus planetary biocapacity (calculated annually on Earth Overshoot Day)."
+  },
+  {
+    "classLevel": 7,
+    "subject": "GK",
+    "chapter": "Chapter 12: Environmental Conservation, Climate Change, Renewable Energy & Sustainable Development",
+    "question": "What supreme planetary ethical manifesto concludes the General Knowledge curriculum in Chapter 12?",
+    "options": [
+      "We do not inherit the Earth from our ancestors; we borrow it from our children. Sustainable development demands that human economic ambition harmonize with the finite ecological boundaries of our living planet, fostering intergenerational justice and reverence for all life",
+      "That human beings should exploit every natural resource until nothing is left",
+      "That technology eliminates the need for nature",
+      "That environmental problems will solve themselves automatically"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "Chapter 12 culminates in the universal ethic of ecological stewardship: harmonizing human civilization with planetary boundaries for intergenerational sustainability."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Social Science",
+    "chapter": "Chapter 12: Human Environment, Settlements, Transport, Communication & Life in Deserts",
+    "question": "What is the seasonal migration of pastoral nomadic people with their livestock between highland summer pastures and lowland winter valleys called?",
+    "options": [
+      "Transhumance (e.g. Gujjars and Bakarwals)",
+      "Urbanization",
+      "Immigration",
+      "Deforestation"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "Transhumance is the seasonal movement of pastoralists with their herds in response to seasonal changes in mountain pastures and weather."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Social Science",
+    "chapter": "Chapter 12: Human Environment, Settlements, Transport, Communication & Life in Deserts",
+    "question": "Which highway project in India connects the four major metropolitan mega-cities—Delhi, Mumbai, Chennai, and Kolkata—with 4/6-lane expressways?",
+    "options": [
+      "The Golden Quadrilateral Super Highway",
+      "The Grand Trunk Road",
+      "The National Highway 44",
+      "The Border Roads Project"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "The Golden Quadrilateral (5,846 km) connects Delhi, Mumbai, Chennai, and Kolkata, forming the backbone of India's arterial expressway network."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Social Science",
+    "chapter": "Chapter 12: Human Environment, Settlements, Transport, Communication & Life in Deserts",
+    "question": "What is the LONGEST railway line in the world, running 9,289 km from St. Petersburg in western Russia to Vladivostok on the Pacific Coast?",
+    "options": [
+      "The Trans-Siberian Railway",
+      "The Orient Express",
+      "The Trans-Australian Railway",
+      "The Canadian Pacific Railway"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "The Trans-Siberian Railway spans across two continents and 8 time zones, connecting European Russia with the Pacific Ocean."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Social Science",
+    "chapter": "Chapter 12: Human Environment, Settlements, Transport, Communication & Life in Deserts",
+    "question": "Which is the FASTEST, most modern, but most expensive means of transport developed in the early 20th century?",
+    "options": [
+      "Airways (Air transport)",
+      "Railways",
+      "Waterways",
+      "Roadways"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "Airways provide the fastest means of long-distance transport, especially critical for reaching remote and inaccessible disaster zones."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Social Science",
+    "chapter": "Chapter 12: Human Environment, Settlements, Transport, Communication & Life in Deserts",
+    "question": "What is the world's LARGEST HOT DESERT, covering an immense area of 8.54 million square kilometres across 11 countries in North Africa?",
+    "options": [
+      "The Sahara Desert",
+      "The Thar Desert",
+      "The Gobi Desert",
+      "The Kalahari Desert"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "The Sahara Desert in North Africa is the largest tropical hot desert in the world, larger in area than the entire nation of Australia."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Social Science",
+    "chapter": "Chapter 12: Human Environment, Settlements, Transport, Communication & Life in Deserts",
+    "question": "Which two famous nomadic pastoral tribes inhabit the Sahara Desert, rearing camels, goats, sheep, and horses for milk, hides, and hair?",
+    "options": [
+      "The Bedouins and the Tuaregs",
+      "The San and Bushmen",
+      "The Inuits and Eskimos",
+      "The Maoris and Aborigines"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "The Bedouins and Tuaregs are traditional nomadic pastoralists of the Sahara, wearing heavy robes to protect against sandstorms and blazing heat."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Social Science",
+    "chapter": "Chapter 12: Human Environment, Settlements, Transport, Communication & Life in Deserts",
+    "question": "What valuable mineral resource discovered in Algeria, Libya, and Egypt has dramatically transformed the economy and urban landscape of the Sahara?",
+    "options": [
+      "Petroleum (Mineral Oil and Natural Gas)",
+      "Gold and Diamond only",
+      "Coal only",
+      "Uranium only"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "The discovery of massive petroleum reserves in Algeria, Libya, and Egypt transformed traditional desert nomadism into modern industrial urbanism."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Social Science",
+    "chapter": "Chapter 12: Human Environment, Settlements, Transport, Communication & Life in Deserts",
+    "question": "What is the famous COLD DESERT lying in the Great Himalayas on the eastern side of Jammu and Kashmir / Ladakh in northern India?",
+    "options": [
+      "Ladakh (also known as 'Khapa-chan' or Snow Land)",
+      "The Thar Desert",
+      "The Spiti Valley only",
+      "The Rann of Kutch"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "Ladakh is a high-altitude cold desert enclosed by the Karakoram Range in the north and the Zanskar Mountains in the south."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Social Science",
+    "chapter": "Chapter 12: Human Environment, Settlements, Transport, Communication & Life in Deserts",
+    "question": "Which major river and its tributaries flow through the rugged mountain landscape of Ladakh?",
+    "options": [
+      "The Indus River (Sindhu)",
+      "The Ganga",
+      "The Brahmaputra",
+      "The Yamuna"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "The Indus River and its glacial tributaries carve deep valleys and gorges across the Ladakh plateau."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Social Science",
+    "chapter": "Chapter 12: Human Environment, Settlements, Transport, Communication & Life in Deserts",
+    "question": "Which endangered animal found in Ladakh, the 'Chiru' (Tibetan Antelope), is hunted for its fine, light, and exceptionally warm wool called:",
+    "options": [
+      "Shahtoosh Wool",
+      "Pashmina Wool",
+      "Mohair",
+      "Angora"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "The Chiru or Tibetan antelope yields 'Shahtoosh'—the world's finest, lightest, and warmest wool, now strictly protected by wildlife laws."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Social Science",
+    "chapter": "Chapter 12: Human Environment, Settlements, Transport, Communication & Life in Deserts",
+    "question": "Which domestic animal of Ladakh provides rich milk for making local butter and cheese ('Chhurpi'), meat, and thick hair for weaving tents and boots?",
+    "options": [
+      "The Yak (and Dzo)",
+      "The Camel",
+      "The Elephant",
+      "The Horse"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "The shaggy-haired Yak is the indispensable beast of burden in high-altitude Ladakh, supplying milk for butter/cheese, wool, and draught power."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Social Science",
+    "chapter": "Chapter 12: Human Environment, Settlements, Transport, Communication & Life in Deserts",
+    "question": "What are the traditional Buddhist monasteries with their unique prayer halls and colorful stupas found across Ladakh called?",
+    "options": [
+      "Gompas (e.g. Hemis, Thiksey, Shey, Lamayuru)",
+      "Viharas only",
+      "Gurudwaras",
+      "Mosques"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "Gompas (like Hemis, Thiksey, Shey, and Lamayuru) are iconic fortified Buddhist monasteries that form the spiritual and cultural heart of Ladakh."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Social Science",
+    "chapter": "Chapter 12: Human Environment, Settlements, Transport, Communication & Life in Deserts",
+    "question": "Why does Ladakh experience such EXTREME ARIDITY (Dryness) and receive as little as 10 cm of rainfall annually?",
+    "options": [
+      "Ladakh lies in the 'RAIN-SHADOW' of the towering Great Himalayas, which block the moisture-laden southwest monsoon winds from entering the region",
+      "Because clouds are too heavy to fly over mountains",
+      "Because there is no sun in Ladakh",
+      "Because winds blow backwards"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "The colossal Himalayan barrier intercepts monsoon clouds, casting the trans-Himalayan Ladakh plateau into an arid rain-shadow zone."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Social Science",
+    "chapter": "Chapter 12: Human Environment, Settlements, Transport, Communication & Life in Deserts",
+    "question": "What is an 'OASIS' in the desert landscape, such as the famous Tafilalet Oasis in Morocco?",
+    "options": [
+      "A fertile, lush depression in a desert where underground aquifer water reaches the surface, supporting date palms, crops, and human settlements",
+      "A mirage that disappears when approached",
+      "A mountain of gold in the sand",
+      "A dry salt flat with no water"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "Deflation hollows reaching groundwater create oases: lush green centers of date-palm agriculture and trading caravan towns."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Social Science",
+    "chapter": "Chapter 12: Human Environment, Settlements, Transport, Communication & Life in Deserts",
+    "question": "What is the difference between a 'COMPACT SETTLEMENT' and a 'SCATTERED SETTLEMENT'?",
+    "options": [
+      "A compact settlement consists of closely built dwellings on flat fertile plains ; a scattered settlement has houses spaced far apart over vast hilly, forested, or desert tracts",
+      "Compact settlements have no roads",
+      "Scattered settlements are built on boats",
+      "There is no difference"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "Compact settlements thrive in nucleated agricultural plains, whereas scattered homesteads characterize rugged mountain and desert terrains."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Social Science",
+    "chapter": "Chapter 12: Human Environment, Settlements, Transport, Communication & Life in Deserts",
+    "question": "Why are WATERWAYS the cheapest and most energy-efficient mode of transport for carrying heavy and bulky goods across long distances?",
+    "options": [
+      "Water provides immense natural buoyancy with minimal surface friction, requiring significantly less fuel energy per ton-kilometer than road or air transport",
+      "Because ships do not require any fuel",
+      "Because water flows in all directions automatically",
+      "Because water transport is faster than airplanes"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "Hydrodynamic buoyancy and low fluid friction make maritime and inland freight shipping the most cost-effective bulk transport mode."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Social Science",
+    "chapter": "Chapter 12: Human Environment, Settlements, Transport, Communication & Life in Deserts",
+    "question": "Which artificial waterway opened in 1869 in Egypt, connecting the Mediterranean Sea to the Red Sea, revolutionizing international maritime shipping between Europe and Asia?",
+    "options": [
+      "The Suez Canal",
+      "The Panama Canal",
+      "The Kiel Canal",
+      "The Erie Canal"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "The Suez Canal slashed maritime transit distance between Europe and India/Asia by over 7,000 km, bypassing the Cape of Good Hope."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Social Science",
+    "chapter": "Chapter 12: Human Environment, Settlements, Transport, Communication & Life in Deserts",
+    "question": "Which engineering marvel canal opened in 1914, cutting across the Isthmus of Panama to connect the Atlantic Ocean directly to the Pacific Ocean?",
+    "options": [
+      "The Panama Canal",
+      "The Suez Canal",
+      "The Corinth Canal",
+      "The Grand Canal"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "The Panama Canal with its lock system eliminated the hazardous 15,000 km voyage around South America's Cape Horn."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Social Science",
+    "chapter": "Chapter 12: Human Environment, Settlements, Transport, Communication & Life in Deserts",
+    "question": "What is National Waterway 1 (NW-1) in India?",
+    "options": [
+      "The Ganga-Bhagirathi-Hooghly river system stretching 1,620 km from Prayagraj (Allahabad) to Haldia",
+      "The Brahmaputra river from Sadiya to Dhubri",
+      "The Godavari river canal",
+      "The Kerala backwaters"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "NW-1 is India's premier inland waterway along the Ganga, connecting Prayagraj, Varanasi, Patna, and Haldia port."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Social Science",
+    "chapter": "Chapter 12: Human Environment, Settlements, Transport, Communication & Life in Deserts",
+    "question": "What agricultural crops are cultivated during the brief, pleasant summer season in the irrigated oasis valleys of Ladakh?",
+    "options": [
+      "Barley, Peas, Wheat, Potatoes, Turnips, Apricots, and Walnuts",
+      "Rice, Sugarcane, and Jute",
+      "Tea, Coffee, and Rubber",
+      "Cotton and Tobacco"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "During the sunny summer, glacial meltwater channels irrigate terraced fields for barley, peas, potatoes, apricots, and walnuts."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Social Science",
+    "chapter": "Chapter 12: Human Environment, Settlements, Transport, Communication & Life in Deserts",
+    "question": "What is 'Pashmina Wool' for which Ladakh and Kashmir are world-renowned?",
+    "options": [
+      "An exceptionally fine, soft, and warm undercoat wool combed from mountain goats (Capra hircus) raised at altitudes above 4,000 metres",
+      "Wool obtained from camels",
+      "Synthetic nylon fiber",
+      "Wool sheared from desert sheep"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "High-altitude Changthangi mountain goats grow an ultra-fine underfleece to endure -40°C winters, spun into exquisite Pashmina shawls."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Social Science",
+    "chapter": "Chapter 12: Human Environment, Settlements, Transport, Communication & Life in Deserts",
+    "question": "How has the development of the MANALI-LEH HIGHWAY transformed accessibility to Ladakh?",
+    "options": [
+      "It crosses four high mountain passes (Rohtang La, Baralacha La, Lungalacha La, Tanglang La) at elevations above 4,000 metres, opening Ladakh to trade, military logistics, and global tourism during summer",
+      "It is an underground metro railway tunnel",
+      "It is a canal for large ships",
+      "It is a road built on ice that melts in winter"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "The Manali-Leh strategic highway traverses four formidable Himalayan passes, linking the Kullu valley directly to Leh."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Social Science",
+    "chapter": "Chapter 12: Human Environment, Settlements, Transport, Communication & Life in Deserts",
+    "question": "What is the capital and largest administrative and commercial town of the Union Territory of Ladakh?",
+    "options": [
+      "Leh (connected by road and Kushok Bakula Rimpochee Airport)",
+      "Kargil",
+      "Diskit",
+      "Padum"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "Leh is the historic capital of Ladakh, situated at 3,500 m altitude, featuring the 17th-century nine-storey Leh Palace."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Social Science",
+    "chapter": "Chapter 12: Human Environment, Settlements, Transport, Communication & Life in Deserts",
+    "question": "Why do the people of the Sahara Desert wear loose, flowing, heavy robes and head coverings?",
+    "options": [
+      "To protect their skin and eyes from fierce scorching desert heat, drying ultraviolet sun rays, and blinding dust/sand storms",
+      "Because they do not have modern clothes",
+      "Because the government ordered them to wear robes",
+      "To look taller on camels"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "Loose, layered woolen and cotton robes create an insulative microclimate, shielding desert dwellers from extreme thermal radiation and sandstorms."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Social Science",
+    "chapter": "Chapter 12: Human Environment, Settlements, Transport, Communication & Life in Deserts",
+    "question": "What remarkable adaptation of human ecology is practiced by the people of Ladakh in managing their scarce resources?",
+    "options": [
+      "Extreme reverence for nature and meticulous conservation: not a single drop of water or scrap of fuel/wood is wasted, recycling all organic matter in harmony with the fragile environment",
+      "Cutting down all trees for firewood",
+      "Diverting rivers into other countries",
+      "Living without any shelter in winter"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "Ladakhi ecological culture is a global paradigm of sustainable frugality: zero-waste recycling and sacred stewardship of scarce water and biomass."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Social Science",
+    "chapter": "Chapter 12: Human Environment, Settlements, Transport, Communication & Life in Deserts",
+    "question": "What role do modern communication SATELLITES play in human connectivity and resource management?",
+    "options": [
+      "They enable instant global cellular telecommunications, internet routing, television broadcasting, weather forecasting, disaster warnings, and mineral/groundwater mapping",
+      "They take tourists to outer space for holidays",
+      "They shine bright lights to replace street lamps",
+      "They make rain fall on deserts"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "Geostationary and low-Earth orbit satellites power global ICT connectivity, remote sensing earth observation, and real-time meteorology."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Social Science",
+    "chapter": "Chapter 12: Human Environment, Settlements, Transport, Communication & Life in Deserts",
+    "question": "What is 'Mass Media' in modern human society?",
+    "options": [
+      "Means of communication that reach millions of people simultaneously across the nation and globe, such as Newspapers, Radio, Television, and the Internet",
+      "Private phone calls between two friends",
+      "Personal handwritten diaries",
+      "Whispering in a classroom"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "Mass media encompasses print and digital broadcast communications transmitting news, culture, and democratic discourse to millions."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Social Science",
+    "chapter": "Chapter 12: Human Environment, Settlements, Transport, Communication & Life in Deserts",
+    "question": "Why do houses in heavy-rainfall regions (like Assam) have STEEPLY SLOPING ROOFS and are built on raised STILTS (Piles)?",
+    "options": [
+      "Steep roofs allow torrential rainwater to drain off rapidly, and raised wooden/bamboo stilts protect the living rooms from seasonal floodwaters and wild animals",
+      "To make houses look taller than trees",
+      "Because flat roofs are illegal in Assam",
+      "To catch more wind during storms"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "Vernacular stilt architecture (Chang Ghar) prevents flood inundation, while sloping thatch/tin roofs facilitate rapid storm drainage."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Social Science",
+    "chapter": "Chapter 12: Human Environment, Settlements, Transport, Communication & Life in Deserts",
+    "question": "Read the statements:\nAssertion (A): Human settlements, transport infrastructures, and cultural adaptations represent an intricate, dynamic dialogue between physical geography and human technological ingenuity.\nReason (R): Whether in the scorching sands of the Sahara, the freezing altitudes of Ladakh, or the dense riverine deltas of Bengal, human societies innovate unique architectural forms, transport networks, and ecological practices tailored to environmental opportunities and constraints.\nChoose the correct option:",
+    "options": [
+      "Both (A) and (R) are true, and (R) is the correct explanation of (A).",
+      "Both (A) and (R) are true, but (R) is NOT the correct explanation of (A).",
+      "(A) is true, but (R) is false.",
+      "(A) is false, but (R) is true."
+    ],
+    "correctAnswer": 0,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "Human geography demonstrates cultural possibilism: humanity's adaptive technological resilience in transforming challenging environmental topographies."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Social Science",
+    "chapter": "Chapter 12: Human Environment, Settlements, Transport, Communication & Life in Deserts",
+    "question": "Spot the IMPOSTER in the following comparative geographical features of the SAHARA (Hot Desert) vs LADAKH (Cold Desert):\nGroup:\n1. Sahara - Hot tropical climate, date palms, camels, Bedouins/Tuaregs\n2. Ladakh - Cold high-altitude climate, barley/apricots, yaks/pashmina goats, Gompas\n3. Sahara - Major petroleum deposits discovered in Algeria/Libya\n4. Ladakh - Tropical evergreen rainforest with wild chimpanzees and gorillas",
+    "options": [
+      "Feature 1",
+      "Feature 2",
+      "Feature 3",
+      "Feature 4 (Ladakh is a high-altitude Himalayan COLD ARID DESERT with stunted alpine scrub, NOT a tropical rainforest with chimpanzees)"
+    ],
+    "correctAnswer": 3,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "Feature 4 is an absurd biome impossibility: Ladakh's extreme rain-shadow cold desert ecology supports alpine willow/poplar groves, not equatorial primates."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Social Science",
+    "chapter": "Chapter 12: Human Environment, Settlements, Transport, Communication & Life in Deserts",
+    "question": "Analyze the environmental impact of modern mass tourism on the fragile ecology of Ladakh:\nWhat ecological dilemma is emerging in Leh and surrounding valleys?",
+    "options": [
+      "Massive tourist influx causes severe groundwater depletion for luxury hotels, diesel vehicular pollution, plastic waste accumulation, and strains the traditional subsistence agriculture of Ladakhi villages",
+      "Tourism has turned Ladakh into a hot tropical swamp",
+      "Tourism has completely stopped all cultural festivals",
+      "Tourists have removed all the Himalayan mountains"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "Overtourism threatens Ladakh's hyper-fragile desert ecosystem through aquifer over-extraction, solid waste crises, and cultural commodification."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Social Science",
+    "chapter": "Chapter 12: Human Environment, Settlements, Transport, Communication & Life in Deserts",
+    "question": "Match Column I (Major Global Transport Routes / Channels) with Column II (Geographic Connections & Strategic Significance):\n(a) Trans-Siberian Railway -> (i) St. Petersburg (Baltic) to Vladivostok (Pacific) across 9,289 km\n(b) Suez Canal              -> (ii) Mediterranean Sea to Red Sea, slashing Euro-Asian maritime route\n(c) Panama Canal            -> (iii) Atlantic Ocean to Pacific Ocean across the Central American Isthmus\n(d) Golden Quadrilateral    -> (iv) 5,846 km expressway connecting Delhi, Mumbai, Chennai, Kolkata",
+    "options": [
+      "a-(i), b-(ii), c-(iii), d-(iv)",
+      "a-(ii), b-(i), c-(iv), d-(iii)",
+      "a-(iv), b-(iii), c-(ii), d-(i)",
+      "a-(iii), b-(iv), c-(i), d-(ii)"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "Trans-Siberian = Russia rail; Suez = Med-Red sea; Panama = Atlantic-Pacific; Golden Quad = India mega-corridor."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Social Science",
+    "chapter": "Chapter 12: Human Environment, Settlements, Transport, Communication & Life in Deserts",
+    "question": "Read the statements regarding extreme desert adaptations:\nStatement 1: The camel in the Sahara stores fat in its hump and can survive for days without drinking water, while its wide padded feet walk easily on soft sand.\nStatement 2: High-altitude Changpa nomads in Ladakh live in large conical yak-wool tents called 'Rebo'.\nStatement 3: Deserts receive over 500 cm of rainfall every month.\nWhich statements are TRUE?",
+    "options": [
+      "Statements 1 and 2 only",
+      "Statements 2 and 3 only",
+      "Statements 1 and 3 only",
+      "All Statements 1, 2, and 3"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "Statement 3 is an absurd falsehood (deserts receive <25 cm rainfall annually). Statements 1 (camel xerophytic adaptations) and 2 (Changpa Rebo tents) are true."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Social Science",
+    "chapter": "Chapter 12: Human Environment, Settlements, Transport, Communication & Life in Deserts",
+    "question": "How did the invention of Containerization (standardized steel Intermodal Shipping Containers) revolutionize 20th-century global trade?",
+    "options": [
+      "Standardized 20-foot and 40-foot containers allow seamless mechanized transfer of freight between cargo ships, trains, and trucks without manual re-handling, slashing global freight shipping costs by over 90%",
+      "Containers made ships float in the air",
+      "Containers eliminated the need for ports",
+      "Containers are used only for transporting gold"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "Malcom McLean's containerization innovation enabled frictionless intermodal logistics, driving post-war economic globalization."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Social Science",
+    "chapter": "Chapter 12: Human Environment, Settlements, Transport, Communication & Life in Deserts",
+    "question": "What is the cultural and religious significance of the annual 'Hemis Festival' in Ladakh?",
+    "options": [
+      "A vibrant Buddhist festival celebrated at Hemis Gompa commemorating the birth anniversary of Guru Padmasambhava with sacred masked 'Chham' dances and traditional music",
+      "A boat race festival on the Indus river",
+      "A harvest festival celebrating mangoes",
+      "A horse race across the Himalayas"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "The Hemis Tsechu festival honors Guru Padmasambhava with mystical tantric masked cham dances depicting the triumph of dharma over demonic forces."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Social Science",
+    "chapter": "Chapter 12: Human Environment, Settlements, Transport, Communication & Life in Deserts",
+    "question": "Consider four types of human settlements:\n1. Nucleated village in the fertile Ganga Plain\n2. Linear settlement along a river bank or National Highway\n3. Isolated stilt homestead in the Sundarbans mangrove swamp\n4. High-altitude pastoral camp of Changpa nomads on Changthang plateau\nWhat common geographic factor dictates their settlement morphology?",
+    "options": [
+      "Topography, water availability, agricultural land fertility, and climate constraints dictating spatial human organization",
+      "Government orders telling people where to sleep",
+      "The color of local soil only",
+      "Random chance with no geographic logic"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "Settlement patterns are structured by physical geography: water access, agrarian carrying capacity, defensive topography, and transport arteries."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Social Science",
+    "chapter": "Chapter 12: Human Environment, Settlements, Transport, Communication & Life in Deserts",
+    "question": "How did the ancient 'Silk Route' passing through the high Karakoram passes of Ladakh historically connect India with Central Asia, Tibet, and China?",
+    "options": [
+      "Leh served as a bustling entrepôt caravan trade hub where Indian merchants traded spices, cotton, and dyes for Central Asian silk, raw wool, charas, and turquoise stones",
+      "Trade was carried out using submarine boats",
+      "It was a modern railway line built 2,000 years ago",
+      "It was an air route for flying carpets"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "Leh was a pivotal crossroad on the trans-Himalayan Silk Road network, linking Kashmir and Punjab to Yarkand, Kashgar, and Lhasa."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Social Science",
+    "chapter": "Chapter 12: Human Environment, Settlements, Transport, Communication & Life in Deserts",
+    "question": "Why is 'Information Highway' (High-Speed Fiber-Optic Broadband & 5G Satellite Internet) considered the modern equivalent of 19th-century railway networks?",
+    "options": [
+      "Just as railways revolutionized the physical transport of freight and labor during the Industrial Revolution, high-speed digital networks transport massive data, finance, commerce, and knowledge instantly across the globe",
+      "Because fiber-optic cables are made of iron rails",
+      "Because internet cables carry physical train cars",
+      "Because internet was invented in the 19th century"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "Broadband data infrastructure is the 21st-century neural network of global capitalism, accelerating frictionless virtual commerce, research, and communication."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Social Science",
+    "chapter": "Chapter 12: Human Environment, Settlements, Transport, Communication & Life in Deserts",
+    "question": "What is the engineering challenge and significance of the 'Atal Tunnel' (Rohtang) and upcoming 'Zojila Tunnel' in the Himalayan transport network?",
+    "options": [
+      "They provide all-weather, year-round strategic military and civilian road connectivity beneath avalanche-prone high passes, ending months of winter isolation for Ladakh and Lahaul-Spiti",
+      "They are built to store water",
+      "They are giant shopping malls inside mountains",
+      "They were constructed for tourist trains to Europe"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "Atal Tunnel (9.02 km) and Zojila Tunnel (14.2 km) conquer extreme mountain geography, ensuring year-round strategic and socioeconomic connectivity."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Social Science",
+    "chapter": "Chapter 12: Human Environment, Settlements, Transport, Communication & Life in Deserts",
+    "question": "What grand humanistic and geographic perspective concludes the NCERT Class 7 Social Science curriculum in Chapter 12?",
+    "options": [
+      "Humanity is an integral part of the living Earth—our settlements, global transport networks, and communication technologies reflect our creative adaptability, demanding that we live in harmonious balance with natural ecosystems, respecting cultural diversity and conserving planetary resources for future generations",
+      "That human beings should conquer and destroy all natural environments",
+      "That deserts are useless wastelands that have no culture or life",
+      "That all humans should live in identical cities"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "Chapter 12 concludes the Class 7 Social Science curriculum by synthesizing human ecological adaptability, technological connectivity, and sustainable biocultural conservation."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Hindi Grammar",
+    "chapter": "Chapter 12: वाक्य विचार, विराम चिह्न एवं मुहावरे-लोकोक्तियाँ",
+    "question": "सार्थक शब्दों का वह व्यवस्थित एवं क्रमबद्ध समूह जो किसी विचार या भाव को पूर्ण रूप से स्पष्ट करता है, क्या कहलाता है?",
+    "options": [
+      "वाक्य (Sentence)",
+      "वर्णमाला",
+      "शब्दकोश",
+      "पदबंध मात्र"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "वाक्य: सार्थक शब्दों का व्यवस्थित एवं व्याकरण सम्मत समूह जिससे वक्ता का पूर्ण अभिप्राय स्पष्ट हो।"
+  },
+  {
+    "classLevel": 7,
+    "subject": "Hindi Grammar",
+    "chapter": "Chapter 12: वाक्य विचार, विराम चिह्न एवं मुहावरे-लोकोक्तियाँ",
+    "question": "व्याकरण की दृष्टि से वाक्य के मुख्य रूप से दो अनिवार्य अंग कौन-से होते हैं?",
+    "options": [
+      "1. उद्देश्य (Subject) और 2. विधेय (Predicate)",
+      "1. संज्ञा और 2. सर्वनाम",
+      "1. स्वर और 2. व्यंजन",
+      "1. तत्सम और 2. तद्भव"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "वाक्य के दो अनिवार्य घटक (अंग) होते हैं: उद्देश्य (जिसके बारे में बात हो) और विधेय (उद्देश्य के बारे में जो कहा जाए)।"
+  },
+  {
+    "classLevel": 7,
+    "subject": "Hindi Grammar",
+    "chapter": "Chapter 12: वाक्य विचार, विराम चिह्न एवं मुहावरे-लोकोक्तियाँ",
+    "question": "वाक्य में जिसके विषय में कुछ कहा जाता है, उसे व्याकरण में क्या कहते हैं?",
+    "options": [
+      "उद्देश्य (जैसे: 'रोहन पुस्तक पढ़ता है' में 'रोहन')",
+      "विधेय",
+      "क्रिया",
+      "कर्म"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "उद्देश्य: वाक्य में जिसके विषय में कोई विधान या बात की जाए, वह उद्देश्य (Subject) कहलाता है।"
+  },
+  {
+    "classLevel": 7,
+    "subject": "Hindi Grammar",
+    "chapter": "Chapter 12: वाक्य विचार, विराम चिह्न एवं मुहावरे-लोकोक्तियाँ",
+    "question": "वाक्य में उद्देश्य (कर्ता) के विषय में जो कुछ कहा जाता है, उसे क्या कहते हैं?",
+    "options": [
+      "विधेय (Predicate - जैसे: 'पुस्तक पढ़ता है')",
+      "उद्देश्य",
+      "निपात",
+      "उपसर्ग"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "विधेय: उद्देश्य के बारे में कही गई समस्त बात/क्रिया विधेय कहलाती है।"
+  },
+  {
+    "classLevel": 7,
+    "subject": "Hindi Grammar",
+    "chapter": "Chapter 12: वाक्य विचार, विराम चिह्न एवं मुहावरे-लोकोक्तियाँ",
+    "question": "रचना की दृष्टि से वाक्य के मुख्य रूप से कितने भेद होते हैं?",
+    "options": [
+      "3 भेद (1. सरल वाक्य, 2. संयुक्त वाक्य, 3. मिश्र वाक्य)",
+      "2 भेद",
+      "8 भेद",
+      "4 भेद"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "रचना के आधार पर वाक्य के 3 भेद हैं: सरल वाक्य, संयुक्त वाक्य, तथा मिश्र वाक्य।"
+  },
+  {
+    "classLevel": 7,
+    "subject": "Hindi Grammar",
+    "chapter": "Chapter 12: वाक्य विचार, विराम चिह्न एवं मुहावरे-लोकोक्तियाँ",
+    "question": "अर्थ की दृष्टि से हिंदी में वाक्य के कुल कितने भेद होते हैं?",
+    "options": [
+      "8 भेद (विधानवाचक, निषेधवाचक, आज्ञावाचक, प्रश्नवाचक, विस्मयादिवाचक, इच्छावाचक, संदेहवाचक, संकेतवाचक)",
+      "3 भेद",
+      "5 भेद",
+      "6 भेद"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "अर्थ के आधार पर वाक्य के 8 भेद होते हैं।"
+  },
+  {
+    "classLevel": 7,
+    "subject": "Hindi Grammar",
+    "chapter": "Chapter 12: वाक्य विचार, विराम चिह्न एवं मुहावरे-लोकोक्तियाँ",
+    "question": "वाक्य के पूर्ण होने पर अंत में प्रयुक्त होने वाले विराम चिह्न (।) को क्या कहते हैं?",
+    "options": [
+      "पूर्णविराम (Full Stop)",
+      "अल्पविराम",
+      "अर्धविराम",
+      "उपविराम"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "पूर्णविराम (।): साधारण वाक्य की समाप्ति पर लगने वाला विराम चिह्न।"
+  },
+  {
+    "classLevel": 7,
+    "subject": "Hindi Grammar",
+    "chapter": "Chapter 12: वाक्य विचार, विराम चिह्न एवं मुहावरे-लोकोक्तियाँ",
+    "question": "पढ़ते या बोलते समय बहुत थोड़े समय के लिए रुकने हेतु प्रयुक्त होने वाले चिह्न (,) को क्या कहते हैं?",
+    "options": [
+      "अल्पविराम (Comma)",
+      "पूर्णविराम",
+      "योजक चिह्न",
+      "लाघव चिह्न"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "अल्पविराम (,): वाक्य में न्यूनतम ठहराव दर्शाने के लिए प्रयुक्त चिह्न।"
+  },
+  {
+    "classLevel": 7,
+    "subject": "Hindi Grammar",
+    "chapter": "Chapter 12: वाक्य विचार, विराम चिह्न एवं मुहावरे-लोकोक्तियाँ",
+    "question": "किसी के कहे गए कथन को ज्यों-का-त्यों उद्धृत करने के लिए किस चिह्न (\" \") का प्रयोग किया जाता है?",
+    "options": [
+      "उद्धरण चिह्न या अवतरण चिह्न (Quotation Marks)",
+      "कोष्ठक",
+      "निर्देशक चिह्न",
+      "हंसपद"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "उद्धरण चिह्न (\" \"): प्रत्यक्ष कथन को मूल रूप में व्यक्त करने हेतु प्रयुक्त।"
+  },
+  {
+    "classLevel": 7,
+    "subject": "Hindi Grammar",
+    "chapter": "Chapter 12: वाक्य विचार, विराम चिह्न एवं मुहावरे-लोकोक्तियाँ",
+    "question": "'ईद का चाँद होना' मुहावरे का सही अर्थ क्या है?",
+    "options": [
+      "बहुत दिनों बाद दिखाई देना",
+      "चाँद की पूजा करना",
+      "ईद मनाना",
+      "रात में जागना"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "'ईद का चाँद होना': दुर्लभ होना या अत्यधिक लंबे अंतराल के बाद दिखाई देना।"
+  },
+  {
+    "classLevel": 7,
+    "subject": "Hindi Grammar",
+    "chapter": "Chapter 12: वाक्य विचार, विराम चिह्न एवं मुहावरे-लोकोक्तियाँ",
+    "question": "'नौ दो ग्यारह होना' मुहावरे का सही अर्थ क्या है?",
+    "options": [
+      "भाग जाना / रफूचक्कर होना",
+      "गिनती सीखना",
+      "जोड़ करना",
+      "चोरी करना"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "'नौ दो ग्यारह होना' का अर्थ है तुरंत भाग जाना।"
+  },
+  {
+    "classLevel": 7,
+    "subject": "Hindi Grammar",
+    "chapter": "Chapter 12: वाक्य विचार, विराम चिह्न एवं मुहावरे-लोकोक्तियाँ",
+    "question": "'अधजल गगरी छलकत जाए' लोकोक्ति का सही अर्थ क्या है?",
+    "options": [
+      "कम ज्ञान या योग्यता वाला व्यक्ति बहुत अधिक दिखावा और डींगें हाँकता है",
+      "गगरी से पानी गिरना",
+      "आधा मटका पानी भरना",
+      "पानी भरकर चलना"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "'अधजल गगरी छलकत जाए': ओछा या अल्पज्ञ व्यक्ति अपनी योग्यता का अत्यधिक आडंबर करता है।"
+  },
+  {
+    "classLevel": 7,
+    "subject": "Hindi Grammar",
+    "chapter": "Chapter 12: वाक्य विचार, विराम चिह्न एवं मुहावरे-लोकोक्तियाँ",
+    "question": "जिस वाक्य में केवल एक ही उद्देश्य (कर्ता) और एक ही समापिका क्रिया (विधेय) होती है (जैसे: 'सूर्य पूर्व में उदय होता है'), उसे क्या कहते हैं?",
+    "options": [
+      "सरल वाक्य (साधारण वाक्य)",
+      "संयुक्त वाक्य",
+      "मिश्र वाक्य",
+      "प्रश्नवाचक वाक्य"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "सरल वाक्य: जिसमें एक ही मुख्य उद्देश्य और एक ही विधेय समापिका क्रिया होती है।"
+  },
+  {
+    "classLevel": 7,
+    "subject": "Hindi Grammar",
+    "chapter": "Chapter 12: वाक्य विचार, विराम चिह्न एवं मुहावरे-लोकोक्तियाँ",
+    "question": "जब दो या दो से अधिक स्वतंत्र सरल उपवाक्य समानाधिकरण योजकों (और, तथा, एवं, या, किन्तु, परन्तु, इसलिए) से जुड़े होते हैं (जैसे: 'रात हुई और तारे निकल आए'), तो उसे क्या कहते हैं?",
+    "options": [
+      "संयुक्त वाक्य (Compound Sentence)",
+      "सरल वाक्य",
+      "मिश्र वाक्य",
+      "आज्ञावाचक वाक्य"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "संयुक्त वाक्य: जहाँ स्वतंत्र सरल वाक्य समानाधिकरण समुच्चयबोधकों द्वारा जुड़े होते हैं।"
+  },
+  {
+    "classLevel": 7,
+    "subject": "Hindi Grammar",
+    "chapter": "Chapter 12: वाक्य विचार, विराम चिह्न एवं मुहावरे-लोकोक्तियाँ",
+    "question": "जिस वाक्य में एक मुख्य (प्रधान) उपवाक्य होता है और एक या अधिक आश्रित (गौण) उपवाक्य व्यधिकरण योजकों (कि, जो, क्योंकि, यदि-तो, जब-तब, जैसा-वैसा) से जुड़े होते हैं, उसे क्या कहते हैं?",
+    "options": [
+      "मिश्र वाक्य (Complex Sentence)",
+      "सरल वाक्य",
+      "संयुक्त वाक्य",
+      "निषेधवाचक वाक्य"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "मिश्र वाक्य: जिसमें एक प्रधान उपवाक्य पर एक या अधिक आश्रित उपवाक्य निर्भर होते हैं।"
+  },
+  {
+    "classLevel": 7,
+    "subject": "Hindi Grammar",
+    "chapter": "Chapter 12: वाक्य विचार, विराम चिह्न एवं मुहावरे-लोकोक्तियाँ",
+    "question": "'यदि तुम कठिन परिश्रम करोगे, तो अवश्य सफल होगे।' अर्थ की दृष्टि से यह किस प्रकार का वाक्य है?",
+    "options": [
+      "संकेतवाचक वाक्य (Conditional Sentence - एक कार्य का होना दूसरे पर निर्भर)",
+      "संदेहवाचक वाक्य",
+      "इच्छावाचक वाक्य",
+      "विधानवाचक वाक्य"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "संकेतवाचक वाक्य: जहाँ एक क्रिया का होना दूसरी क्रिया पर शर्त या संकेत के रूप में निर्भर करता है।"
+  },
+  {
+    "classLevel": 7,
+    "subject": "Hindi Grammar",
+    "chapter": "Chapter 12: वाक्य विचार, विराम चिह्न एवं मुहावरे-लोकोक्तियाँ",
+    "question": "'भगवान करे, तुम्हारी यात्रा मंगलमय हो।' अर्थ की दृष्टि से यह किस प्रकार का वाक्य है?",
+    "options": [
+      "इच्छावाचक वाक्य (शुभकामना / इच्छा प्रकट करने वाला)",
+      "आज्ञावाचक वाक्य",
+      "विधानवाचक वाक्य",
+      "विस्मयादिवाचक वाक्य"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "इच्छावाचक वाक्य: जिससे वक्ता की इच्छा, आशीर्वाद या शुभकामना का बोध हो।"
+  },
+  {
+    "classLevel": 7,
+    "subject": "Hindi Grammar",
+    "chapter": "Chapter 12: वाक्य विचार, विराम चिह्न एवं मुहावरे-लोकोक्तियाँ",
+    "question": "'शायद आज शाम को वर्षा होगी।' अर्थ की दृष्टि से यह किस प्रकार का वाक्य है?",
+    "options": [
+      "संदेहवाचक वाक्य (संभावना / संदेह प्रकट करने वाला)",
+      "विधानवाचक वाक्य",
+      "निषेधवाचक वाक्य",
+      "संकेतवाचक वाक्य"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "संदेहवाचक वाक्य: जिसमें कार्य के होने में संदेह या संभावना का भाव हो।"
+  },
+  {
+    "classLevel": 7,
+    "subject": "Hindi Grammar",
+    "chapter": "Chapter 12: वाक्य विचार, विराम चिह्न एवं मुहावरे-लोकोक्तियाँ",
+    "question": "लिखते समय जब कोई शब्द या अंश छूट जाता है, तो उसे पंक्ति के ऊपर लिखकर किस त्रुटिपूरक चिह्न का प्रयोग किया जाता है?",
+    "options": [
+      "हंसपद या त्रुटिपूरक चिह्न (^)",
+      "लाघव चिह्न (०)",
+      "योजक चिह्न (-)",
+      "निर्देशक चिह्न (—)"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "हंसपद / काकपद (^): लिखते समय छूटे हुए शब्द को पंक्ति के ऊपर दर्शाने हेतु प्रयुक्त चिह्न।"
+  },
+  {
+    "classLevel": 7,
+    "subject": "Hindi Grammar",
+    "chapter": "Chapter 12: वाक्य विचार, विराम चिह्न एवं मुहावरे-लोकोक्तियाँ",
+    "question": "शब्दों को संक्षिप्त रूप में लिखने के लिए किस चिह्न (जैसे: पं०, डाॅ०, कृ०पृ०उ०) का प्रयोग किया जाता है?",
+    "options": [
+      "लाघव चिह्न (०)",
+      "पूर्णविराम",
+      "अल्पविराम",
+      "उपविराम"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "लाघव चिह्न (०): बड़े शब्दों के संक्षिप्त रूप (Abbreviation) को प्रदर्शित करने के लिए प्रयुक्त होता है।"
+  },
+  {
+    "classLevel": 7,
+    "subject": "Hindi Grammar",
+    "chapter": "Chapter 12: वाक्य विचार, विराम चिह्न एवं मुहावरे-लोकोक्तियाँ",
+    "question": "'अंगूठा दिखाना' मुहावरे का सही अर्थ क्या है?",
+    "options": [
+      "ऐन वक्त पर साफ़ इनकार कर देना / मना कर देना",
+      "अंगूठे की मालिश करना",
+      "सहमति देना",
+      "हाथ मिलाना"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "'अंगूठा दिखाना': आवश्यकता के समय सहायता करने से स्पष्ट मना कर देना।"
+  },
+  {
+    "classLevel": 7,
+    "subject": "Hindi Grammar",
+    "chapter": "Chapter 12: वाक्य विचार, विराम चिह्न एवं मुहावरे-लोकोक्तियाँ",
+    "question": "'दाँत खट्टे करना' मुहावरे का सही अर्थ क्या है?",
+    "options": [
+      "शत्रु को बुरी तरह पराजित करना / हरा देना",
+      "नींबू खाना",
+      "दाँतों में दर्द होना",
+      "गुस्सा करना"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "'दाँत खट्टे करना': युद्ध या मुकाबले में विरोधी को परास्त कर देना।"
+  },
+  {
+    "classLevel": 7,
+    "subject": "Hindi Grammar",
+    "chapter": "Chapter 12: वाक्य विचार, विराम चिह्न एवं मुहावरे-लोकोक्तियाँ",
+    "question": "'नाच न जाने आँगन टेढ़ा' लोकोक्ति का सही अर्थ क्या है?",
+    "options": [
+      "अपनी अयोग्यता या कमी को छिपाने के लिए साधनों या दूसरों में दोष निकालना",
+      "टेढ़े आँगन में नाचना",
+      "नृत्य कला सीखना",
+      "घर का आँगन सुंदर बनाना"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "'नाच न जाने आँगन टेढ़ा': स्वयं काम न आने पर परिस्थिति या उपकरण में दोष मढ़ना।"
+  },
+  {
+    "classLevel": 7,
+    "subject": "Hindi Grammar",
+    "chapter": "Chapter 12: वाक्य विचार, विराम चिह्न एवं मुहावरे-लोकोक्तियाँ",
+    "question": "'ऊँट के मुँह में जीरा' लोकोक्ति का सही अर्थ क्या है?",
+    "options": [
+      "बहुत बड़ी आवश्यकता के लिए अत्यंत कम या अपर्याप्त मात्रा में वस्तु मिलना",
+      "ऊँट को मसाले खिलाना",
+      "जीरा की खेती करना",
+      "ऊँट की सवारी करना"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "'ऊँट के मुँह में जीरा': अत्यधिक खुराक या आवश्यकता की तुलना में बहुत नगण्य वस्तु मिलना।"
+  },
+  {
+    "classLevel": 7,
+    "subject": "Hindi Grammar",
+    "chapter": "Chapter 12: वाक्य विचार, विराम चिह्न एवं मुहावरे-लोकोक्तियाँ",
+    "question": "'दूर के ढोल सुहावने होना' लोकोक्ति का सही अर्थ क्या है?",
+    "options": [
+      "दूर से चीजें अच्छी और आकर्षक लगती हैं, परन्तु पास जाने पर वास्तविकता कुछ और होती है",
+      "ढोल की आवाज बहुत मीठी होना",
+      "दूर खड़े होकर गाना सुनना",
+      "उत्सव मनाना"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "'दूर के ढोल सुहावने': दूर से वस्तुएँ मनोहर प्रतीत होती हैं किंतु यथार्थ में कठिनाइयाँ छिपी होती हैं।"
+  },
+  {
+    "classLevel": 7,
+    "subject": "Hindi Grammar",
+    "chapter": "Chapter 12: वाक्य विचार, विराम चिह्न एवं मुहावरे-लोकोक्तियाँ",
+    "question": "'मुहावरे' (Idiom) और 'लोकोक्ति' (Proverb) में क्या मूलभूत व्याकरणिक अंतर होता है?",
+    "options": [
+      "मुहावरा एक 'वाक्यांश' (Phrase) होता है जो वाक्य में मिलकर प्रयुक्त होता है और जिसका लिंग-वचन के अनुसार रूपांतरण होता है ; जबकि लोकोक्ति एक 'पूर्ण स्वतंत्र वाक्य' (Full sentence) होती है जिसका रूप अपरिवर्तित रहता है",
+      "मुहावरा केवल संस्कृत में होता है",
+      "लोकोक्ति केवल एक शब्द की होती है",
+      "दोनों में कोई अंतर नहीं होता"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "मुहावरा वाक्यांश (अपूर्ण वाक्य) है जो वाक्य का अंग बनता है; लोकोक्ति पूर्ण स्वतंत्र अनुभव-सिद्ध वाक्य होती है।"
+  },
+  {
+    "classLevel": 7,
+    "subject": "Hindi Grammar",
+    "chapter": "Chapter 12: वाक्य विचार, विराम चिह्न एवं मुहावरे-लोकोक्तियाँ",
+    "question": "निम्नलिखित में से 'शुद्ध वर्तनी' वाला शब्द कौन-सा है?",
+    "options": [
+      "उज्ज्वल (उ + ज् + ज् + व + ल)",
+      "उज्वल",
+      "उज्जवल",
+      "ऊज्जवल"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "उत् + ज्वल = उज्ज्वल (दोनों 'ज' अर्ध/आधे होते हैं)।"
+  },
+  {
+    "classLevel": 7,
+    "subject": "Hindi Grammar",
+    "chapter": "Chapter 12: वाक्य विचार, विराम चिह्न एवं मुहावरे-लोकोक्तियाँ",
+    "question": "निम्नलिखित में से 'व्याकरणिक दृष्टि से शुद्ध वाक्य' का चयन कीजिए:",
+    "options": [
+      "'यहाँ शुद्ध गाय का दूध मिलता है।' -> अशुद्ध ; 'यहाँ गाय का शुद्ध दूध मिलता है।' -> शुद्ध",
+      "'मेरे को घर जाना है।'",
+      "'अनेकों लोग आए थे।'",
+      "'वह बहुत सबसे चतुर है।'"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "दूध शुद्ध होता है, गाय नहीं; अतः पदक्रम की दृष्टि से 'यहाँ गाय का शुद्ध दूध मिलता है' शुद्ध है।"
+  },
+  {
+    "classLevel": 7,
+    "subject": "Hindi Grammar",
+    "chapter": "Chapter 12: वाक्य विचार, विराम चिह्न एवं मुहावरे-लोकोक्तियाँ",
+    "question": "कथन और कारण को ध्यानपूर्वक पढ़ें:\nकथन (A): 'जब विपत्ति आती है, तब कोई साथ नहीं देता।' यह एक मिश्र वाक्य है।\nकारण (R): इसमें 'तब कोई साथ नहीं देता' प्रधान उपवाक्य है तथा 'जब विपत्ति आती है' कालवाचक क्रियाविशेषण आश्रित उपवाक्य है, जो 'जब-तब' योजक से जुड़े हैं।\nसही विकल्प चुनें:",
+    "options": [
+      "(A) और (R) दोनों सही हैं तथा (R), (A) की सही व्याख्या करता है।",
+      "(A) और (R) दोनों सही हैं, परन्तु (R), (A) की सही व्याख्या नहीं करता।",
+      "(A) सही है, परन्तु (R) गलत है।",
+      "(A) गलत है, परन्तु (R) सही है।"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "मिश्र वाक्य संरचना: प्रधान उपवाक्य के साथ जब-तब से जुड़ा कालवाचक क्रियाविशेषण आश्रित उपवाक्य।"
+  },
+  {
+    "classLevel": 7,
+    "subject": "Hindi Grammar",
+    "chapter": "Chapter 12: वाक्य विचार, विराम चिह्न एवं मुहावरे-लोकोक्तियाँ",
+    "question": "Spot the IMPOSTER in the following classification of मुहावरे और उनके लाक्षणिक अर्थों में:\nGroup:\n1. आँखें खुलना - वास्तविकता का ज्ञान होना / होश में आना\n2. कान भरना - चुगली करना / भड़काना\n3. फूले न समाना - अत्यधिक प्रसन्न होना\n4. हाथ-पैर मारना - तैराकी प्रतियोगिता में पहला स्थान प्राप्त करना",
+    "options": [
+      "युग्म 1",
+      "युग्म 2",
+      "युग्म 3",
+      "युग्म 4 ('हाथ-पैर मारना' का लाक्षणिक अर्थ 'कठिन प्रयास / प्रयत्न करना' होता है, केवल तैराकी पदक जीतना नहीं)"
+    ],
+    "correctAnswer": 3,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "युग्म 4 में 'हाथ-पैर मारना' का व्यापक मुहावरेदार अर्थ 'हर संभव प्रयास/उपाय करना' है।"
+  },
+  {
+    "classLevel": 7,
+    "subject": "Hindi Grammar",
+    "chapter": "Chapter 12: वाक्य विचार, विराम चिह्न एवं मुहावरे-लोकोक्तियाँ",
+    "question": "सुमेलित कीजिए (विराम चिह्न और उनके मानक नाम):\n(क) ;  -> (i) अर्धविराम (Semicolon)\n(ख) :  -> (ii) उपविराम / अपूर्णविराम (Colon)\n(ग) -  -> (iii) योजक चिह्न (Hyphen)\n(घ) —  -> (iv) निर्देशक चिह्न (Dash)",
+    "options": [
+      "क-(i), ख-(ii), ग-(iii), घ-(iv)",
+      "क-(ii), ख-(i), ग-(iv), घ-(iii)",
+      "क-(iv), ख-(iii), ग-(ii), घ-(i)",
+      "क-(iii), ख-(iv), ग-(i), घ-(ii)"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "; = अर्धविराम; : = उपविराम; - = योजक; — = निर्देशक।"
+  },
+  {
+    "classLevel": 7,
+    "subject": "Hindi Grammar",
+    "chapter": "Chapter 12: वाक्य विचार, विराम चिह्न एवं मुहावरे-लोकोक्तियाँ",
+    "question": "मिश्र वाक्य में 'आश्रित उपवाक्य' (Subordinate Clauses) के तीन मुख्य प्रकार कौन-से होते हैं?",
+    "options": [
+      "1. संज्ञा आश्रित उपवाक्य (प्रायः 'कि' से जुड़े) ; 2. विशेषण आश्रित उपवाक्य (जो, जिसे, जिसका से जुड़े) ; 3. क्रियाविशेषण आश्रित उपवाक्य (जब-तब, जहाँ-तहाँ, जैसे-वैसे, क्योंकि, यद्यपि-तथापि से जुड़े)",
+      "सकर्मक, अकर्मक और द्विकर्मक उपवाक्य",
+      "विधानवाचक, निषेधवाचक और आज्ञावाचक उपवाक्य",
+      "सरल, संयुक्त और मिश्र उपवाक्य"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "आश्रित उपवाक्य के 3 भेद: संज्ञा उपवाक्य ('कि'), विशेषण उपवाक्य ('जो/जिसने'), क्रियाविशेषण उपवाक्य ('जब/जहाँ/जैसे/क्योंकि')।"
+  },
+  {
+    "classLevel": 7,
+    "subject": "Hindi Grammar",
+    "chapter": "Chapter 12: वाक्य विचार, विराम चिह्न एवं मुहावरे-लोकोक्तियाँ",
+    "question": "'उसने कहा कि मैं निर्दोष हूँ।' इस वाक्य में रेखांकित उपवाक्य 'कि मैं निर्दोष हूँ' किस प्रकार का आश्रित उपवाक्य है?",
+    "options": [
+      "संज्ञा आश्रित उपवाक्य (क्रिया 'कहा' के कर्म के रूप में प्रयुक्त)",
+      "विशेषण आश्रित उपवाक्य",
+      "क्रियाविशेषण आश्रित उपवाक्य",
+      "प्रधान उपवाक्य"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "'कि' से प्रारंभ होकर मुख्य क्रिया के कर्म के रूप में आने वाला उपवाक्य संज्ञा आश्रित उपवाक्य कहलाता है।"
+  },
+  {
+    "classLevel": 7,
+    "subject": "Hindi Grammar",
+    "chapter": "Chapter 12: वाक्य विचार, विराम चिह्न एवं मुहावरे-लोकोक्तियाँ",
+    "question": "'जो लड़का कल आया था, वह मेरा मित्र है।' वाक्य में 'जो लड़का कल आया था' किस प्रकार का आश्रित उपवाक्य है?",
+    "options": [
+      "विशेषण आश्रित उपवाक्य (संज्ञा 'लड़का' की विशेषता बता रहा है)",
+      "संज्ञा आश्रित उपवाक्य",
+      "क्रियाविशेषण उपवाक्य",
+      "विधेय"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "'जो/जिसने' से प्रारंभ होकर प्रधान उपवाक्य की संज्ञा की विशेषता बताने वाला उपवाक्य विशेषण आश्रित उपवाक्य होता है।"
+  },
+  {
+    "classLevel": 7,
+    "subject": "Hindi Grammar",
+    "chapter": "Chapter 12: वाक्य विचार, विराम चिह्न एवं मुहावरे-लोकोक्तियाँ",
+    "question": "निम्नलिखित में से 'वाक्य रूपांतरण' (सरल से संयुक्त) का शुद्ध उदाहरण कौन-सा है?",
+    "options": [
+      "सरल वाक्य: 'सूर्योदय होने पर कुहासा छँट गया।' -> संयुक्त वाक्य: 'सूर्योदय हुआ और कुहासा छँट गया।'",
+      "सरल वाक्य: 'सूर्योदय हुआ क्योंकि कुहासा छँट गया।'",
+      "सरल वाक्य: 'जब सूर्योदय हुआ तब कुहासा छँट गया।'",
+      "सरल वाक्य: 'सूर्योदय होते ही कुहासा छँटा।'"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "समानाधिकरण योजक 'और' जोड़कर दो स्वतंत्र उपवाक्यों में रूपांतरित करना शुद्ध संयुक्त वाक्य रचना है।"
+  },
+  {
+    "classLevel": 7,
+    "subject": "Hindi Grammar",
+    "chapter": "Chapter 12: वाक्य विचार, विराम चिह्न एवं मुहावरे-लोकोक्तियाँ",
+    "question": "निम्नलिखित वाक्यों में से 'अशुद्ध वाक्य' को पहचानिए:",
+    "options": [
+      "'कृपया करके मेरी बात सुनिए।' (अशुद्ध: 'कृपया' और 'करके' दोनों का एक साथ प्रयोग पुनरुक्ति दोष है ; शुद्ध: 'कृपया मेरी बात सुनिए' या 'कृपा करके मेरी बात सुनिए')",
+      "'साहित्य और समाज का घनिष्ठ संबंध है।'",
+      "'वहाँ भारी भीड़ जमा थी।'",
+      "'प्रत्येक बच्चे को दो-दो संतरे दिए गए।'"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "'कृपया' और 'करके' का साथ प्रयोग वर्जित पुनरुक्ति दोष है; शुद्ध रूप: 'कृपया मेरी बात सुनिए'।"
+  },
+  {
+    "classLevel": 7,
+    "subject": "Hindi Grammar",
+    "chapter": "Chapter 12: वाक्य विचार, विराम चिह्न एवं मुहावरे-लोकोक्तियाँ",
+    "question": "'कवयित्री' और 'आशीर्वाद' शब्दों की शुद्ध वर्तनी वाला युग्म कौन-सा है?",
+    "options": [
+      "कवयित्री और आशीर्वाद (क + व + यि + त्री ; आ + शी + र्वा + द)",
+      "कवयित्री और आशीवार्द",
+      "कविइत्री और आशीर्वाद",
+      "कवयत्री और आशिर्वाद"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "शुद्ध वर्तनी: 'कवयित्री' (क-व-यि-त्री) तथा 'आशीर्वाद' ('व' के ऊपर रेफ 'र्')।"
+  },
+  {
+    "classLevel": 7,
+    "subject": "Hindi Grammar",
+    "chapter": "Chapter 12: वाक्य विचार, विराम चिह्न एवं मुहावरे-लोकोक्तियाँ",
+    "question": "'गागर में सागर भरना' मुहावरे का सही और सटीक साहित्यिक अर्थ क्या है?",
+    "options": [
+      "थोड़े से शब्दों में बहुत गंभीर, गूढ़ और विस्तृत अर्थ व्यक्त करना (जैसे बिहारी के दोहे)",
+      "मटके में समुद्र का पानी भरना",
+      "बड़ा तालाब बनाना",
+      "कविताएँ लिखना"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "'गागर में सागर भरना': अत्यंत संक्षिप्त एवं सारगर्भित पदावली में गहन अर्थ का निरूपण करना।"
+  },
+  {
+    "classLevel": 7,
+    "subject": "Hindi Grammar",
+    "chapter": "Chapter 12: वाक्य विचार, विराम चिह्न एवं मुहावरे-लोकोक्तियाँ",
+    "question": "विराम चिह्नों के गलत प्रयोग से वाक्य का अर्थ किस प्रकार अनर्थ में बदल सकता है, इसका सटीक उदाहरण कौन-सा है?",
+    "options": [
+      "'रोको, मत जाने दो।' (रुकने का आदेश) बनाम 'रोको मत, जाने दो।' (जाने की अनुमति) — अल्पविराम का स्थान बदलने से अर्थ पूर्णतः विपरीत हो जाता है",
+      "विराम चिह्नों से अर्थ पर कोई प्रभाव नहीं पड़ता",
+      "वाक्य केवल लंबा हो जाता है",
+      "विराम चिह्न केवल मुद्रण का सजावटी साधन हैं"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "अल्पविराम की स्थिति बदलने से वाक्य का अर्थ 180° उलट जाता है ('रोको, मत जाने दो' vs 'रोको मत, जाने दो')।"
+  },
+  {
+    "classLevel": 7,
+    "subject": "Hindi Grammar",
+    "chapter": "Chapter 12: वाक्य विचार, विराम चिह्न एवं मुहावरे-लोकोक्तियाँ",
+    "question": "कक्षा 7 हिंदी व्याकरण के संपूर्ण पाठ्यक्रम का सर्वोच्च भाषाई प्रयोजन क्या है?",
+    "options": [
+      "वर्ण, शब्द, संज्ञा, सर्वनाम, विशेषण, क्रिया, काल, अव्यय, संधि-समास, वाक्य-संरचना और मुहावरे-लोकोक्तियों के सम्यक ज्ञान द्वारा भाषा को व्याकरण सम्मत, प्रवाहमयी, त्रुटिहीन, प्रभावी तथा अभिव्यक्ति की दृष्टि से समृद्ध एवं सामर्थ्यवान बनाना",
+      "केवल परीक्षाओं में अंक प्राप्त करना",
+      "कठिन शब्दों को याद करके भूल जाना",
+      "प्राचीन नियमों को बिना समझे रटना"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "कक्षा 7 व्याकरण का समग्र उद्देश्य: विद्यार्थियों में शुद्ध वर्तनी, सुगठित वाक्य-विन्यास, अर्थगत स्पष्टता और समृद्ध अभिव्यक्ति-कौशल का पूर्ण विकास।"
+  }
+]

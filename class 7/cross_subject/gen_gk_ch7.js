@@ -1,0 +1,575 @@
+import fs from 'fs';
+
+// -------------------------------------------------------------
+// SUBJECT 4: General Knowledge - Chapter 7: Indian Polity, Constitution & Governance (40 Questions)
+// -------------------------------------------------------------
+const gkQuestions = [
+  // EASY (12)
+  {
+    classLevel: 7,
+    subject: "GK",
+    chapter: "Chapter 7: Indian Polity, Constitution, Fundamental Rights & Governance",
+    question: "Who is celebrated as the 'Father of the Indian Constitution' and was the Chairman of the Drafting Committee of the Constituent Assembly?",
+    options: ["Dr. B.R. Ambedkar", "Dr. Rajendra Prasad", "Jawaharlal Nehru", "Sardar Vallabhbhai Patel"],
+    correctAnswer: 0,
+    difficulty: "EASY",
+    damage: 150,
+    explanation: "Dr. Bhimrao Ramji Ambedkar chaired the Drafting Committee, shaping the foundational democratic architecture of the Indian Republic."
+  },
+  {
+    classLevel: 7,
+    subject: "GK",
+    chapter: "Chapter 7: Indian Polity, Constitution, Fundamental Rights & Governance",
+    question: "On which historic date did the Constitution of India come into full legal effect, celebrated annually as REPUBLIC DAY?",
+    options: ["26 January 1950", "15 August 1947", "26 November 1949", "2 October 1950"],
+    correctAnswer: 0,
+    difficulty: "EASY",
+    damage: 150,
+    explanation: "The Constitution came into force on 26 January 1950, commemorating the 1930 Purna Swaraj declaration."
+  },
+  {
+    classLevel: 7,
+    subject: "GK",
+    chapter: "Chapter 7: Indian Polity, Constitution, Fundamental Rights & Governance",
+    question: "On which date is 'Constitution Day' (Samvidhan Divas) celebrated in India to commemorate the formal adoption of the Constitution by the Constituent Assembly in 1949?",
+    options: ["26 November", "26 January", "15 August", "30 January"],
+    correctAnswer: 0,
+    difficulty: "EASY",
+    damage: 150,
+    explanation: "The Constituent Assembly adopted the Constitution on 26 November 1949, observed nationally as Samvidhan Divas."
+  },
+  {
+    classLevel: 7,
+    subject: "GK",
+    chapter: "Chapter 7: Indian Polity, Constitution, Fundamental Rights & Governance",
+    question: "Who was the elected permanent President of the Constituent Assembly of India and the First President of independent India?",
+    options: ["Dr. Rajendra Prasad", "Dr. B.R. Ambedkar", "Dr. S. Radhakrishnan", "C. Rajagopalachari"],
+    correctAnswer: 0,
+    difficulty: "EASY",
+    damage: 150,
+    explanation: "Dr. Rajendra Prasad presided over the Constituent Assembly from Dec 1946 until its conclusion and served as India's first President."
+  },
+  {
+    classLevel: 7,
+    subject: "GK",
+    chapter: "Chapter 7: Indian Polity, Constitution, Fundamental Rights & Governance",
+    question: "What is the introductory opening statement of the Constitution that outlines the core philosophy, values, and objectives of the Indian Republic called?",
+    options: ["The Preamble", "The Index", "The Schedule", "The Directive Principles"],
+    correctAnswer: 0,
+    difficulty: "EASY",
+    damage: 150,
+    explanation: "The Preamble proclaims India as a 'Sovereign Socialist Secular Democratic Republic' securing Justice, Liberty, Equality, and Fraternity."
+  },
+  {
+    classLevel: 7,
+    subject: "GK",
+    chapter: "Chapter 7: Indian Polity, Constitution, Fundamental Rights & Governance",
+    question: "How many broad categories of Fundamental Rights are guaranteed to all Indian citizens under Part III of the Constitution (Articles 12–35)?",
+    options: [
+      "6 Fundamental Rights (Right to Equality, Freedom, Against Exploitation, Freedom of Religion, Cultural/Educational, and Constitutional Remedies)",
+      "7 Fundamental Rights (Right to Property was deleted)",
+      "10 Fundamental Rights",
+      "4 Fundamental Rights"
+    ],
+    correctAnswer: 0,
+    difficulty: "EASY",
+    damage: 150,
+    explanation: "The Constitution guarantees 6 Fundamental Rights (the 44th Amendment in 1978 removed the Right to Property as a fundamental right)."
+  },
+  {
+    classLevel: 7,
+    subject: "GK",
+    chapter: "Chapter 7: Indian Polity, Constitution, Fundamental Rights & Governance",
+    question: "Which Fundamental Right under Article 32 was described by Dr. B.R. Ambedkar as the \"Heart and Soul of the Constitution\"?",
+    options: [
+      "Right to Constitutional Remedies (the right to petition the Supreme Court directly via writs)",
+      "Right to Equality",
+      "Right to Freedom",
+      "Right to Education"
+    ],
+    correctAnswer: 0,
+    difficulty: "EASY",
+    damage: 150,
+    explanation: "Article 32 empowers the Supreme Court to issue writs (Habeas Corpus, Mandamus, etc.) to enforce fundamental rights."
+  },
+  {
+    classLevel: 7,
+    subject: "GK",
+    chapter: "Chapter 7: Indian Polity, Constitution, Fundamental Rights & Governance",
+    question: "Who is the Constitutional Head of State of the Republic of India and the Supreme Commander of the Indian Armed Forces?",
+    options: ["The President of India", "The Prime Minister", "The Chief Justice of India", "The Defence Minister"],
+    correctAnswer: 0,
+    difficulty: "EASY",
+    damage: 150,
+    explanation: "The President is the executive Head of State and supreme commander of the army, navy, and air force under Article 53."
+  },
+  {
+    classLevel: 7,
+    subject: "GK",
+    chapter: "Chapter 7: Indian Polity, Constitution, Fundamental Rights & Governance",
+    question: "What are the two houses of the bicameral Parliament of India (Sansad)?",
+    options: [
+      "The Lok Sabha (House of the People) and the Rajya Sabha (Council of States)",
+      "The Senate and House of Representatives",
+      "The Vidhan Sabha and Vidhan Parishad",
+      "The Supreme Court and High Court"
+    ],
+    correctAnswer: 0,
+    difficulty: "EASY",
+    damage: 150,
+    explanation: "The Union Parliament comprises the President, Lok Sabha (directly elected lower house), and Rajya Sabha (states' council upper house)."
+  },
+  {
+    classLevel: 7,
+    subject: "GK",
+    chapter: "Chapter 7: Indian Polity, Constitution, Fundamental Rights & Governance",
+    question: "What is the highest judicial court of appeal and custodian of the Constitution in India, headquartered on Tilak Marg in New Delhi?",
+    options: ["The Supreme Court of India", "The High Court of Delhi", "The National Green Tribunal", "The Parliament"],
+    correctAnswer: 0,
+    difficulty: "EASY",
+    damage: 150,
+    explanation: "The Supreme Court of India (inaugurated 28 January 1950) is the apex judicial forum and constitutional interpreter."
+  },
+  {
+    classLevel: 7,
+    subject: "GK",
+    chapter: "Chapter 7: Indian Polity, Constitution, Fundamental Rights & Governance",
+    question: "What is the minimum voting age for Indian citizens in general elections under the Universal Adult Suffrage principle (lowered from 21 by 61st Amendment)?",
+    options: ["18 years", "21 years", "25 years", "16 years"],
+    correctAnswer: 0,
+    difficulty: "EASY",
+    damage: 150,
+    explanation: "The 61st Constitutional Amendment Act (1988) amended Article 326 to lower the voting age from 21 to 18 years."
+  },
+  {
+    classLevel: 7,
+    subject: "GK",
+    chapter: "Chapter 7: Indian Polity, Constitution, Fundamental Rights & Governance",
+    question: "Which independent constitutional body conducts free and fair elections to the Lok Sabha, Rajya Sabha, State Legislatures, and the offices of President and Vice President of India?",
+    options: ["Election Commission of India (ECI - Article 324)", "UPSC", "NITI Aayog", "Law Commission"],
+    correctAnswer: 0,
+    difficulty: "EASY",
+    damage: 150,
+    explanation: "The Election Commission of India (established 25 Jan 1950, National Voters' Day) oversees federal and state electoral processes."
+  },
+
+  // MEDIUM (16)
+  {
+    classLevel: 7,
+    subject: "GK",
+    chapter: "Chapter 7: Indian Polity, Constitution, Fundamental Rights & Governance",
+    question: "What are the 'Directive Principles of State Policy' (DPSP) contained in Part IV (Articles 36–51) of the Indian Constitution, borrowed from the Irish Constitution?",
+    options: [
+      "Non-justiciable constitutional guidelines and moral directives for the government to establish a Welfare State and achieve social-economic democracy",
+      "Rules for arresting criminals",
+      "Laws on international trade",
+      "Military commands"
+    ],
+    correctAnswer: 0,
+    difficulty: "MEDIUM",
+    damage: 250,
+    explanation: "DPSPs are socio-economic governance charters guiding state legislation towards establishing an equitable welfare society."
+  },
+  {
+    classLevel: 7,
+    subject: "GK",
+    chapter: "Chapter 7: Indian Polity, Constitution, Fundamental Rights & Governance",
+    question: "Which constitutional amendment in 1976 (known as the 'Mini-Constitution') added the words 'SOCIALIST', 'SECULAR', and 'INTEGRITY' to the Preamble, and inserted Fundamental Duties (Article 51A)?",
+    options: ["The 42nd Constitutional Amendment Act, 1976", "The 44th Amendment", "The 86th Amendment", "The 73rd Amendment"],
+    correctAnswer: 0,
+    difficulty: "MEDIUM",
+    damage: 250,
+    explanation: "The 42nd Amendment Act (1976) introduced secular-socialist preambular values and Part IV-A (Fundamental Duties) upon Swaran Singh Committee advice."
+  },
+  {
+    classLevel: 7,
+    subject: "GK",
+    chapter: "Chapter 7: Indian Polity, Constitution, Fundamental Rights & Governance",
+    question: "Which Fundamental Right was inserted under Article 21A by the 86th Constitutional Amendment Act in 2002, making free and compulsory education for all children aged 6 to 14 years a fundamental right?",
+    options: ["Right to Education (RTE)", "Right to Health", "Right to Work", "Right to Clean Air"],
+    correctAnswer: 0,
+    difficulty: "MEDIUM",
+    damage: 250,
+    explanation: "Article 21A guarantees free, compulsory elementary education for children aged 6–14 as an enforceable fundamental right."
+  },
+  {
+    classLevel: 7,
+    subject: "GK",
+    chapter: "Chapter 7: Indian Polity, Constitution, Fundamental Rights & Governance",
+    question: "Who is the ex-officio Chairman of the Rajya Sabha (Upper House of Parliament)?",
+    options: ["The Vice President of India", "The Prime Minister", "The Chief Justice of India", "The Lok Sabha Speaker"],
+    correctAnswer: 0,
+    difficulty: "MEDIUM",
+    damage: 250,
+    explanation: "Under Article 64, the Vice President of India is the ex-officio Chairman of the Rajya Sabha."
+  },
+  {
+    classLevel: 7,
+    subject: "GK",
+    chapter: "Chapter 7: Indian Polity, Constitution, Fundamental Rights & Governance",
+    question: "What are the three lists of legislative subjects in the Seventh Schedule dividing powers between the Central Union and State Governments?",
+    options: [
+      "1. Union List (Defence, Foreign Affairs, Railways) ; 2. State List (Police, Agriculture, Health) ; 3. Concurrent List (Education, Forests, Marriage)",
+      "Civil List, Military List, Tax List",
+      "Northern List, Southern List, Eastern List",
+      "Urban List, Rural List, Forest List"
+    ],
+    correctAnswer: 0,
+    difficulty: "MEDIUM",
+    damage: 250,
+    explanation: "The Seventh Schedule demarcates legislative competence: Union List (exclusive Centre), State List (exclusive States), Concurrent List (shared jurisdiction)."
+  },
+  {
+    classLevel: 7,
+    subject: "GK",
+    chapter: "Chapter 7: Indian Polity, Constitution, Fundamental Rights & Governance",
+    question: "What historic constitutional amendments (73rd and 74th Amendments in 1992) institutionalized the third tier of local self-government in India?",
+    options: [
+      "Panchayati Raj Institutions (Rural local governance) and Urban Municipalities / Municipal Corporations",
+      "Creation of new High Courts",
+      "GST Council formation",
+      "Abolition of Privy Purses"
+    ],
+    correctAnswer: 0,
+    difficulty: "MEDIUM",
+    damage: 250,
+    explanation: "The 73rd and 74th Amendments established three-tier Panchayati Raj (Gram, Block, Zilla) and Urban Local Bodies with mandatory reservations for women."
+  },
+  {
+    classLevel: 7,
+    subject: "GK",
+    chapter: "Chapter 7: Indian Polity, Constitution, Fundamental Rights & Governance",
+    question: "What is the 'Comptroller and Auditor General of India' (CAG - Article 148), often described as the 'Guardian of the Public Purse'?",
+    options: [
+      "An independent constitutional authority that audits all receipts and expenditure of the Government of India and State Governments to ensure financial accountability",
+      "The minister who collects income tax",
+      "The head of commercial banks",
+      "The manager of the stock exchange"
+    ],
+    correctAnswer: 0,
+    difficulty: "MEDIUM",
+    damage: 250,
+    explanation: "The CAG performs independent audit surveillance over the Consolidated Funds of Union and States, reporting to Parliament via PAC."
+  },
+  {
+    classLevel: 7,
+    subject: "GK",
+    chapter: "Chapter 7: Indian Polity, Constitution, Fundamental Rights & Governance",
+    question: "What is the landmark 'Basic Structure Doctrine' formulated by the Supreme Court of India in the famous 1973 Kesavananda Bharati case?",
+    options: [
+      "Parliament has the power to amend the Constitution under Article 368, but CANNOT alter, destroy, or abrogate the 'Basic Structure' (Democracy, Secularism, Judicial Review, Rule of Law)",
+      "All laws must be written in Sanskrit",
+      "The Prime Minister cannot travel abroad",
+      "Parliament cannot pass any budget"
+    ],
+    correctAnswer: 0,
+    difficulty: "MEDIUM",
+    damage: 250,
+    explanation: "The 13-judge Kesavananda Bharati bench established that constitutional amendment powers cannot dismantle the foundational basic structure."
+  },
+  {
+    classLevel: 7,
+    subject: "GK",
+    chapter: "Chapter 7: Indian Polity, Constitution, Fundamental Rights & Governance",
+    question: "What does 'Sovereign' mean in the Preamble of the Indian Constitution?",
+    options: [
+      "India is completely independent, supreme, and free from any foreign control or external dictation in making internal and external decisions",
+      "India is ruled by a king",
+      "India has no borders",
+      "India is an island"
+    ],
+    correctAnswer: 0,
+    difficulty: "MEDIUM",
+    damage: 250,
+    explanation: "'Sovereign' signifies absolute national independence and supreme jurisdictional authority free from external hegemony."
+  },
+  {
+    classLevel: 7,
+    subject: "GK",
+    chapter: "Chapter 7: Indian Polity, Constitution, Fundamental Rights & Governance",
+    question: "What does 'Secular' mean in the context of the Indian democratic model (Sarva Dharma Sambhava)?",
+    options: [
+      "The State has no official state religion and accords equal respect, protection, and freedom to all religions without discriminating against any citizen",
+      "The State bans all religions",
+      "Only one religion is allowed in schools",
+      "Citizens are not allowed to pray"
+    ],
+    correctAnswer: 0,
+    difficulty: "MEDIUM",
+    damage: 250,
+    explanation: "Indian secularism maintains principled distance and equal patronage towards all faiths, protecting religious freedoms under Articles 25–28."
+  },
+  {
+    classLevel: 7,
+    subject: "GK",
+    chapter: "Chapter 7: Indian Polity, Constitution, Fundamental Rights & Governance",
+    question: "How is the President of India elected?",
+    options: [
+      "Indirectly by an Electoral College consisting of elected members of both Houses of Parliament (Lok Sabha & Rajya Sabha) and elected MLAs of all State Legislative Assemblies",
+      "Direct voting by all citizens",
+      "Nominated by the Supreme Court",
+      "Selected by previous President"
+    ],
+    correctAnswer: 0,
+    difficulty: "MEDIUM",
+    damage: 250,
+    explanation: "Article 54: The President is elected through proportional representation with single transferable vote by elected MPs and MLAs."
+  },
+  {
+    classLevel: 7,
+    subject: "GK",
+    chapter: "Chapter 7: Indian Polity, Constitution, Fundamental Rights & Governance",
+    question: "What is the maximum strength of members in the Lok Sabha permitted by the Constitution?",
+    options: ["550 members (representing States and Union Territories)", "250 members", "100 members", "700 members"],
+    correctAnswer: 0,
+    difficulty: "MEDIUM",
+    damage: 250,
+    explanation: "Article 81: Lok Sabha maximum ceiling is 550 (up to 530 from States, up to 20 from UTs; Anglo-Indian nomination was discontinued by 104th Amendment)."
+  },
+  {
+    classLevel: 7,
+    subject: "GK",
+    chapter: "Chapter 7: Indian Polity, Constitution, Fundamental Rights & Governance",
+    question: "What is the maximum strength of members in the Rajya Sabha?",
+    options: ["250 members (238 elected from States/UTs + 12 nominated by the President for literature, science, art, and social service)", "550 members", "300 members", "150 members"],
+    correctAnswer: 0,
+    difficulty: "MEDIUM",
+    damage: 250,
+    explanation: "Article 80: Rajya Sabha has up to 250 members: 238 state/UT representatives and 12 presidential nominees with specialized eminence."
+  },
+  {
+    classLevel: 7,
+    subject: "GK",
+    chapter: "Chapter 7: Indian Polity, Constitution, Fundamental Rights & Governance",
+    question: "What is a 'Money Bill' in the Indian Parliament, and which House has exclusive, overriding authority over it?",
+    options: [
+      "A Bill dealing with taxation and government expenditure (Article 110) ; it can ONLY be introduced in the LOK SABHA with the prior recommendation of the President",
+      "A bill that can only be introduced in Rajya Sabha",
+      "A bill passed by the Supreme Court",
+      "A bill passed by municipal ward councils"
+    ],
+    correctAnswer: 0,
+    difficulty: "MEDIUM",
+    damage: 250,
+    explanation: "Money bills originate exclusively in the Lok Sabha; the Rajya Sabha has only 14 days to suggest non-binding recommendations."
+  },
+  {
+    classLevel: 7,
+    subject: "GK",
+    chapter: "Chapter 7: Indian Polity, Constitution, Fundamental Rights & Governance",
+    question: "What is 'Judicial Review' exercised by the Supreme Court and High Courts of India?",
+    options: [
+      "The constitutional power to examine the constitutional validity of legislative enactments and executive orders, and declare them NULL and VOID if they violate Fundamental Rights",
+      "The power of judges to change their salaries",
+      "The right of the police to make laws",
+      "The review of school exam papers"
+    ],
+    correctAnswer: 0,
+    difficulty: "MEDIUM",
+    damage: 250,
+    explanation: "Articles 13, 32, and 226 empower the higher judiciary to invalidate ultra vires statutes violating constitutional mandates."
+  },
+  {
+    classLevel: 7,
+    subject: "GK",
+    chapter: "Chapter 7: Indian Polity, Constitution, Fundamental Rights & Governance",
+    question: "What is the 'Right to Information' (RTI) Act passed by the Indian Parliament in 2005?",
+    options: [
+      "A landmark transparency law empowering citizens to request and receive certified information from public authorities, curbing corruption and promoting accountability",
+      "A law that bans newspapers",
+      "A secret government code",
+      "A rule on television commercials"
+    ],
+    correctAnswer: 0,
+    difficulty: "MEDIUM",
+    damage: 250,
+    explanation: "The RTI Act (2005) enforces participatory transparency, enabling citizens to inspect government files and demand institutional accountability."
+  },
+
+  // HARD (12)
+  {
+    classLevel: 7,
+    subject: "GK",
+    chapter: "Chapter 7: Indian Polity, Constitution, Fundamental Rights & Governance",
+    question: "Read the statements:\nAssertion (A): The Indian Constitution is characterized as 'Quasi-Federal' (Federal in structure, but Unitary in spirit).\nReason (R): It establishes a dual polity of Union and States with division of powers, yet grants superior emergency powers (Articles 352, 356), single citizenship, an integrated judiciary, and an all-powerful Governor to the Central Union.\nChoose the correct option:",
+    options: [
+      "Both (A) and (R) are true, and (R) is the correct explanation of (A).",
+      "Both (A) and (R) are true, but (R) is NOT the correct explanation of (A).",
+      "(A) is true, but (R) is false.",
+      "(A) is false, but (R) is true."
+    ],
+    correctAnswer: 0,
+    difficulty: "HARD",
+    damage: 350,
+    explanation: "Prof. K.C. Wheare termed the Indian constitution 'quasi-federal' due to strong centralizing provisions preserving subcontinental unity."
+  },
+  {
+    classLevel: 7,
+    subject: "GK",
+    chapter: "Chapter 7: Indian Polity, Constitution, Fundamental Rights & Governance",
+    question: "Spot the IMPOSTER in the following constitutional bodies and their corresponding Articles in the Indian Constitution:\nGroup:\n1. Election Commission of India - Article 324\n2. Union Public Service Commission (UPSC) - Article 315\n3. Comptroller and Auditor General of India (CAG) - Article 148\n4. Finance Commission - Article 500",
+    options: ["Body 1", "Body 2", "Body 3", "Body 4 (The Finance Commission is constituted under ARTICLE 280, not Article 500 ; the Constitution has only 395 original articles)"],
+    correctAnswer: 3,
+    difficulty: "HARD",
+    damage: 350,
+    explanation: "The Finance Commission is established under Article 280 (Article 500 does not exist in the Indian Constitution)."
+  },
+  {
+    classLevel: 7,
+    subject: "GK",
+    chapter: "Chapter 7: Indian Polity, Constitution, Fundamental Rights & Governance",
+    question: "Match Column I (Constitutional Writs under Articles 32 and 226) with Column II (Latin Meanings and Applications):\n(a) Habeas Corpus -> (i) 'To have the body' (releases a person unlawfully detained by state/police)\n(b) Mandamus      -> (ii) 'We Command' (orders a public official to perform their mandatory statutory duty)\n(c) Prohibition   -> (iii) Orders a lower court/tribunal to cease proceedings exceeding its jurisdiction\n(d) Quo-Warranto  -> (iv) 'By what warrant' (inquires into the legality of a person holding a public office)",
+    options: [
+      "a-(i), b-(ii), c-(iii), d-(iv)",
+      "a-(ii), b-(i), c-(iv), d-(iii)",
+      "a-(iv), b-(iii), c-(ii), d-(i)",
+      "a-(iii), b-(iv), c-(i), d-(ii)"
+    ],
+    correctAnswer: 0,
+    difficulty: "HARD",
+    damage: 350,
+    explanation: "Habeas Corpus = personal liberty; Mandamus = public duty command; Prohibition = jurisdiction restraint; Quo-Warranto = title to public office."
+  },
+  {
+    classLevel: 7,
+    subject: "GK",
+    chapter: "Chapter 7: Indian Polity, Constitution, Fundamental Rights & Governance",
+    question: "Read the statements regarding the Emergency Provisions in the Indian Constitution (Part XVIII):\nStatement 1: National Emergency (Article 352) can be proclaimed on grounds of War, External Aggression, or Armed Rebellion.\nStatement 2: President's Rule (State Emergency - Article 356) can be imposed when constitutional machinery fails in a State.\nStatement 3: Financial Emergency (Article 360) has been imposed in India fifteen times since 1950.\nWhich statements are TRUE?",
+    options: ["Statements 1 and 2 only", "Statements 2 and 3 only", "Statements 1 and 3 only", "All Statements 1, 2, and 3"],
+    correctAnswer: 0,
+    difficulty: "HARD",
+    damage: 350,
+    explanation: "Statement 3 is false because Financial Emergency (Article 360) has NEVER been declared in India's history. Statements 1 and 2 are true."
+  },
+  {
+    classLevel: 7,
+    subject: "GK",
+    chapter: "Chapter 7: Indian Polity, Constitution, Fundamental Rights & Governance",
+    question: "What constitutes the 'Doctrine of Separation of Powers' embedded with 'Checks and Balances' in Indian parliamentary democracy?",
+    options: [
+      "The Legislature makes laws, the Executive implements laws, and the Judiciary interprets laws and invalidates unconstitutional actions, ensuring no branch exercises absolute tyranny",
+      "The army controls all political leaders",
+      "The President writes all court judgments",
+      "Ministers serve as judges in court"
+    ],
+    correctAnswer: 0,
+    difficulty: "HARD",
+    damage: 350,
+    explanation: "Indian tripartite governance balances functional separation with mutual accountability (judicial review of laws, legislative oversight of ministers)."
+  },
+  {
+    classLevel: 7,
+    subject: "GK",
+    chapter: "Chapter 7: Indian Polity, Constitution, Fundamental Rights & Governance",
+    question: "What is the procedure for the IMPEACHMENT of the President of India under Article 61 of the Constitution?",
+    options: [
+      "A quasi-judicial resolution passed by a special majority of NOT LESS THAN TWO-THIRDS of the total membership of both Houses of Parliament on grounds of 'Violation of the Constitution'",
+      "A simple majority vote in Lok Sabha only",
+      "An order passed by the Chief Justice of India",
+      "A public referendum"
+    ],
+    correctAnswer: 0,
+    difficulty: "HARD",
+    damage: 350,
+    explanation: "Article 61 prescribes stringent two-thirds total membership super-majority in both Houses for presidential impeachment on constitutional violations."
+  },
+  {
+    classLevel: 7,
+    subject: "GK",
+    chapter: "Chapter 7: Indian Polity, Constitution, Fundamental Rights & Governance",
+    question: "Consider four features of the Indian Constitution:\n1. Parliamentary System of Government (from UK)\n2. Fundamental Rights and Judicial Review (from USA)\n3. Directive Principles of State Policy (from Ireland)\n4. Constitutional Amendment Procedure (from South Africa)\nWhat does this eclectic synthesis demonstrate?",
+    options: [
+      "A masterful comparative constitutional achievement that adapted the world's finest democratic practices to India's unique civilizational pluralism",
+      "A careless copy of other countries' rules",
+      "An accidental document created in a few days",
+      "A document that applies only to cities"
+    ],
+    correctAnswer: 0,
+    difficulty: "HARD",
+    damage: 350,
+    explanation: "The Constituent Assembly synthesized global constitutional best-practices, adapting them to the pluralistic ethos of independent India."
+  },
+  {
+    classLevel: 7,
+    subject: "GK",
+    chapter: "Chapter 7: Indian Polity, Constitution, Fundamental Rights & Governance",
+    question: "What is the significance of the 101st Constitutional Amendment Act (2016) in Indian cooperative fiscal federalism?",
+    options: [
+      "The introduction of the unified Goods and Services Tax (GST) and the constitutional establishment of the joint Centre-State GST Council (Article 279A)",
+      "The nationalization of private banks",
+      "The abolition of states",
+      "The introduction of a new national anthem"
+    ],
+    correctAnswer: 0,
+    difficulty: "HARD",
+    damage: 350,
+    explanation: "The 101st Amendment revolutionized indirect taxation via 'One Nation, One Tax', creating the federal consensus GST Council."
+  },
+  {
+    classLevel: 7,
+    subject: "GK",
+    chapter: "Chapter 7: Indian Polity, Constitution, Fundamental Rights & Governance",
+    question: "What is the constitutional role of the 'Attorney General for India' (Article 76)?",
+    options: [
+      "The highest law officer of the Government of India, appointed by the President, who gives legal counsel to the Union government and has the right of audience in all courts in India",
+      "The chief of police",
+      "The commander of the navy",
+      "The governor of the Reserve Bank"
+    ],
+    correctAnswer: 0,
+    difficulty: "HARD",
+    damage: 350,
+    explanation: "The Attorney General is the principal legal advisor to the Union and represents the Union Government in supreme appellate litigation."
+  },
+  {
+    classLevel: 7,
+    subject: "GK",
+    chapter: "Chapter 7: Indian Polity, Constitution, Fundamental Rights & Governance",
+    question: "Why is Article 21 (Protection of Life and Personal Liberty) regarded as the expansive cornerstone of human rights jurisprudence in India?",
+    options: [
+      "Through progressive judicial interpretations (Maneka Gandhi, Puttaswamy cases), it now encompasses the Right to Privacy, Right to Clean Environment, Right to Livelihood, and Right to Dignity",
+      "It allows citizens to break traffic laws",
+      "It guarantees free movie tickets",
+      "It applies only to foreign ambassadors"
+    ],
+    correctAnswer: 0,
+    difficulty: "HARD",
+    damage: 350,
+    explanation: "The Supreme Court expanded Article 21 to enshrine substantive due process, privacy, environmental rights, and human dignity."
+  },
+  {
+    classLevel: 7,
+    subject: "GK",
+    chapter: "Chapter 7: Indian Polity, Constitution, Fundamental Rights & Governance",
+    question: "What was the landmark 106th Constitutional Amendment Act (Nari Shakti Vandan Adhiniyam) passed by Parliament in 2023?",
+    options: [
+      "Reserving 33% (one-third) of seats for WOMEN in the Lok Sabha, State Legislative Assemblies, and the Delhi Legislative Assembly",
+      "Making women eligible for driving licenses",
+      "Abolishing all taxes for women",
+      "Granting free electricity to women"
+    ],
+    correctAnswer: 0,
+    difficulty: "HARD",
+    damage: 350,
+    explanation: "The 106th Amendment mandates 33% constitutional reservation for women in legislative bodies to enhance democratic gender parity."
+  },
+  {
+    classLevel: 7,
+    subject: "GK",
+    chapter: "Chapter 7: Indian Polity, Constitution, Fundamental Rights & Governance",
+    question: "What core vision of constitutional patriotism and civic responsibility is established in Chapter 7 of General Knowledge?",
+    options: [
+      "The Constitution is a living, sacred covenant of sovereign democratic self-governance, requiring vigilant citizens who cherish liberty, protect equality, defend institutional integrity, and fulfill their fundamental duties",
+      "That the Constitution is an unchangeable ancient stone that citizens should ignore",
+      "That democracy works without citizens taking part in elections",
+      "That laws apply only to the poor"
+    ],
+    correctAnswer: 0,
+    difficulty: "HARD",
+    damage: 350,
+    explanation: "Chapter 7 synthesizes constitutional democracy, rule of law, institutional checks and balances, and civic empowerment in the Republic of India."
+  }
+];
+
+console.log('Generated Class 7 GK Ch7:', gkQuestions.length);
+fs.writeFileSync('C:/EduVerse/class 7/cross_subject/gk_ch7.json', JSON.stringify(gkQuestions, null, 2), 'utf8');

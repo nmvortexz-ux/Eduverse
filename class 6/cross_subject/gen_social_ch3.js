@@ -1,0 +1,560 @@
+import fs from 'fs';
+
+// -------------------------------------------------------------
+// SUBJECT 5: Social Science - Chapter 3: Motions of the Earth (40 Questions)
+// -------------------------------------------------------------
+const socialQuestions = [
+  // EASY (12)
+  {
+    classLevel: 6,
+    subject: "Social Science",
+    chapter: "Chapter 3: Motions of the Earth",
+    question: "The movement of the Earth on its own rotational axis from West to East is called:",
+    options: ["Rotation", "Revolution", "Precession", "Gravitation"],
+    correctAnswer: 0,
+    difficulty: "EASY",
+    damage: 150,
+    explanation: "Rotation is the continuous spinning motion of the Earth on its imaginary polar axis once every 24 hours."
+  },
+  {
+    classLevel: 6,
+    subject: "Social Science",
+    chapter: "Chapter 3: Motions of the Earth",
+    question: "The movement of the Earth around the Sun in a fixed elliptical orbit is called:",
+    options: ["Revolution", "Rotation", "Oscillation", "Emanation"],
+    correctAnswer: 0,
+    difficulty: "EASY",
+    damage: 150,
+    explanation: "Revolution is the orbital motion of Earth around the Sun, taking 365¼ days."
+  },
+  {
+    classLevel: 6,
+    subject: "Social Science",
+    chapter: "Chapter 3: Motions of the Earth",
+    question: "What is the primary natural phenomenon caused directly by the Earth's daily ROTATION on its axis?",
+    options: ["The cycle of Day and Night", "The cycle of Seasons", "The tides in oceans", "Earthquakes"],
+    correctAnswer: 0,
+    difficulty: "EASY",
+    damage: 150,
+    explanation: "As Earth spins, the hemisphere facing the Sun experiences daylight while the opposite shadowed hemisphere experiences night."
+  },
+  {
+    classLevel: 6,
+    subject: "Social Science",
+    chapter: "Chapter 3: Motions of the Earth",
+    question: "What causes the cycle of changing SEASONS (Summer, Winter, Spring, Autumn) on Earth?",
+    options: [
+      "The Revolution of the Earth around the Sun combined with the fixed inclination of Earth's axis (23½° tilt)",
+      "The change in distance of the Moon",
+      "The speed of rotation of the Sun",
+      "Ocean waves"
+    ],
+    correctAnswer: 0,
+    difficulty: "EASY",
+    damage: 150,
+    explanation: "Seasonal changes result from cyclical variations in solar insolation caused by Earth's orbital revolution and persistent 23.5° axial tilt."
+  },
+  {
+    classLevel: 6,
+    subject: "Social Science",
+    chapter: "Chapter 3: Motions of the Earth",
+    question: "The imaginary circle that divides the day from night on the globe is called the:",
+    options: ["Circle of Illumination", "Equator", "Prime Meridian", "Tropic of Cancer"],
+    correctAnswer: 0,
+    difficulty: "EASY",
+    damage: 150,
+    explanation: "The Circle of Illumination is the great circle boundary dividing the sunlit day hemisphere from the darkened night hemisphere."
+  },
+  {
+    classLevel: 6,
+    subject: "Social Science",
+    chapter: "Chapter 3: Motions of the Earth",
+    question: "How much time does the Earth take to complete one full rotation on its axis (known as an 'Earthday')?",
+    options: ["24 hours (1 solar day)", "365 days", "12 hours", "48 hours"],
+    correctAnswer: 0,
+    difficulty: "EASY",
+    damage: 150,
+    explanation: "Earth rotates 360° relative to the Sun in precisely 24 hours, defining our standard daily civil time."
+  },
+  {
+    classLevel: 6,
+    subject: "Social Science",
+    chapter: "Chapter 3: Motions of the Earth",
+    question: "How long does the Earth take to complete one full orbital revolution around the Sun?",
+    options: ["365 days and 6 hours (365¼ days)", "365 days exactly", "360 days", "366 days every year"],
+    correctAnswer: 0,
+    difficulty: "EASY",
+    damage: 150,
+    explanation: "One sidereal/tropical orbital revolution takes ~365.242 days (365 days and ~6 hours)."
+  },
+  {
+    classLevel: 6,
+    subject: "Social Science",
+    chapter: "Chapter 3: Motions of the Earth",
+    question: "How many days are there in a 'Leap Year', and which month has 29 days instead of 28?",
+    options: ["366 days, with February having 29 days", "365 days, with February having 29 days", "364 days", "368 days"],
+    correctAnswer: 0,
+    difficulty: "EASY",
+    damage: 150,
+    explanation: "The surplus 6 hours (¼ day) accumulated over 4 consecutive years equals 24 hours (1 full day), added to February every leap year."
+  },
+  {
+    classLevel: 6,
+    subject: "Social Science",
+    chapter: "Chapter 3: Motions of the Earth",
+    question: "On which date does the Northern Hemisphere experience the 'Summer Solstice' with the longest day and shortest night?",
+    options: ["21st June", "22nd December", "21st March", "23rd September"],
+    correctAnswer: 0,
+    difficulty: "EASY",
+    damage: 150,
+    explanation: "On 21 June, the Tropic of Cancer receives direct perpendicular solar rays; the North Pole tilts towards the Sun."
+  },
+  {
+    classLevel: 6,
+    subject: "Social Science",
+    chapter: "Chapter 3: Motions of the Earth",
+    question: "On which date does the Southern Hemisphere experience the 'Summer Solstice' (longest day in Southern Hemisphere / Winter Solstice in Northern Hemisphere)?",
+    options: ["22nd December", "21st June", "23rd September", "21st March"],
+    correctAnswer: 0,
+    difficulty: "EASY",
+    damage: 150,
+    explanation: "On 22 December, the Sun shines directly over the Tropic of Capricorn (23½° S), bringing midsummer to the Southern Hemisphere."
+  },
+  {
+    classLevel: 6,
+    subject: "Social Science",
+    chapter: "Chapter 3: Motions of the Earth",
+    question: "On which two dates does the Earth experience an 'Equinox' when direct rays of the Sun fall on the Equator and day and night are of equal duration all over the world?",
+    options: [
+      "21st March and 23rd September",
+      "21st June and 22nd December",
+      "1st January and 1st July",
+      "15th August and 26th January"
+    ],
+    correctAnswer: 0,
+    difficulty: "EASY",
+    damage: 150,
+    explanation: "During Equinoxes (21 March Vernal & 23 September Autumnal), neither pole tilts toward the Sun, resulting in equal 12-hour day and night."
+  },
+  {
+    classLevel: 6,
+    subject: "Social Science",
+    chapter: "Chapter 3: Motions of the Earth",
+    question: "In which country is Christmas famously celebrated in the middle of summer?",
+    options: ["Australia (Southern Hemisphere)", "United Kingdom", "Canada", "Norway"],
+    correctAnswer: 0,
+    difficulty: "EASY",
+    damage: 150,
+    explanation: "Christmas falls on 25 December during peak summer in the Southern Hemisphere (Australia, New Zealand, South Africa)."
+  },
+
+  // MEDIUM (16)
+  {
+    classLevel: 6,
+    subject: "Social Science",
+    chapter: "Chapter 3: Motions of the Earth",
+    question: "What would happen if the Earth stopped rotating on its axis entirely?",
+    options: [
+      "The hemisphere facing the Sun would be in permanent scorching daylight and extreme heat, while the other hemisphere would remain in perpetual freezing darkness, making life impossible",
+      "All humans would fly into space",
+      "The Sun would turn into ice",
+      "Seasons would change every 2 hours"
+    ],
+    correctAnswer: 0,
+    difficulty: "MEDIUM",
+    damage: 250,
+    explanation: "Cessation of spin would create a tidally locked thermal catastrophe: an unlivable subsolar oven on one side and an absolute cryogenic desert on the other."
+  },
+  {
+    classLevel: 6,
+    subject: "Social Science",
+    chapter: "Chapter 3: Motions of the Earth",
+    question: "Does the Circle of Illumination coincide with the Earth's rotational axis?",
+    options: [
+      "No, because the Earth's rotational axis is tilted at an angle of 23½° from the perpendicular (66½° with the orbital plane)",
+      "Yes, they are the exact same line",
+      "Yes, only on Mondays",
+      "Only during midnight"
+    ],
+    correctAnswer: 0,
+    difficulty: "MEDIUM",
+    damage: 250,
+    explanation: "The Circle of Illumination is perpendicular to solar rays, while Earth's tilted axis maintains a fixed 66.5° angle to the orbital plane."
+  },
+  {
+    classLevel: 6,
+    subject: "Social Science",
+    chapter: "Chapter 3: Motions of the Earth",
+    question: "Why do places beyond the Arctic Circle (66½° N) experience continuous daylight (the 'Midnight Sun') for about 6 months around June?",
+    options: [
+      "The North Pole remains tilted towards the Sun continuously as Earth rotates, so the Arctic region stays inside the Circle of Illumination for 24 hours a day",
+      "The Moon turns into a small sun",
+      "Snow reflects light like a mirror",
+      "The Sun stops setting in all galaxies"
+    ],
+    correctAnswer: 0,
+    difficulty: "MEDIUM",
+    damage: 250,
+    explanation: "Axial tilt positions the circumpolar region entirely within the sunlit hemisphere throughout the daily 360° spin."
+  },
+  {
+    classLevel: 6,
+    subject: "Social Science",
+    chapter: "Chapter 3: Motions of the Earth",
+    question: "Why do areas around the Poles receive minimum heat even during long daylight hours in summer?",
+    options: [
+      "The sun's rays strike the polar surface at an extremely acute, slanting angle, spreading the heat energy over a very large area",
+      "Poles have no air",
+      "The Sun is millions of miles farther from the poles",
+      "Ice pushes the Sun away"
+    ],
+    correctAnswer: 0,
+    difficulty: "MEDIUM",
+    damage: 250,
+    explanation: "Low solar elevation angle reduces radiant flux per unit surface area according to Lambert's cosine law."
+  },
+  {
+    classLevel: 6,
+    subject: "Social Science",
+    chapter: "Chapter 3: Motions of the Earth",
+    question: "What is the shape of the Earth's orbit around the Sun?",
+    options: ["An Elliptical orbit (an elongated, oval circle)", "A perfect circle", "A straight line", "A square path"],
+    correctAnswer: 0,
+    difficulty: "MEDIUM",
+    damage: 250,
+    explanation: "Kepler's First Law: All planets orbit the Sun in an elliptical path with the Sun situated at one of the two focal points."
+  },
+  {
+    classLevel: 6,
+    subject: "Social Science",
+    chapter: "Chapter 3: Motions of the Earth",
+    question: "On 23rd September, what season is experienced in the Northern Hemisphere and Southern Hemisphere respectively?",
+    options: [
+      "Northern Hemisphere: Autumn (Fall); Southern Hemisphere: Spring",
+      "Northern Hemisphere: Spring; Southern Hemisphere: Autumn",
+      "Northern Hemisphere: Summer; Southern Hemisphere: Winter",
+      "Both experience Winter"
+    ],
+    correctAnswer: 0,
+    difficulty: "MEDIUM",
+    damage: 250,
+    explanation: "The 23 September Equinox brings Autumn to the Northern Hemisphere and Spring to the Southern Hemisphere."
+  },
+  {
+    classLevel: 6,
+    subject: "Social Science",
+    chapter: "Chapter 3: Motions of the Earth",
+    question: "On 21st March, what season is experienced in the Northern Hemisphere and Southern Hemisphere respectively?",
+    options: [
+      "Northern Hemisphere: Spring (Vernal); Southern Hemisphere: Autumn",
+      "Northern Hemisphere: Autumn; Southern Hemisphere: Spring",
+      "Northern Hemisphere: Winter; Southern Hemisphere: Summer",
+      "Both experience Summer"
+    ],
+    correctAnswer: 0,
+    difficulty: "MEDIUM",
+    damage: 250,
+    explanation: "The 21 March Equinox marks the beginning of Spring (Vernal Equinox) in the north and Autumn in the south."
+  },
+  {
+    classLevel: 6,
+    subject: "Social Science",
+    chapter: "Chapter 3: Motions of the Earth",
+    question: "What is the orbital plane of the Earth?",
+    options: [
+      "The plane formed by the Earth's orbit around the Sun",
+      "The plane passing through the equator",
+      "The plane passing through the prime meridian",
+      "The surface of the ocean"
+    ],
+    correctAnswer: 0,
+    difficulty: "MEDIUM",
+    damage: 250,
+    explanation: "The orbital plane (ecliptic plane) is the geometric plane containing the Earth's revolution path around the Sun."
+  },
+  {
+    classLevel: 6,
+    subject: "Social Science",
+    chapter: "Chapter 3: Motions of the Earth",
+    question: "What angle does the Earth's axis make with its orbital plane?",
+    options: ["66½°", "23½°", "90°", "45°"],
+    correctAnswer: 0,
+    difficulty: "MEDIUM",
+    damage: 250,
+    explanation: "Earth's rotational axis tilts 23½° from the perpendicular, making an angle of 90° - 23½° = 66½° with its orbital plane."
+  },
+  {
+    classLevel: 6,
+    subject: "Social Science",
+    chapter: "Chapter 3: Motions of the Earth",
+    question: "Why do days become longer in summer and nights become shorter in winter in the Northern Hemisphere?",
+    options: [
+      "The Northern Hemisphere is tilted towards the Sun in summer, so a larger portion of the northern latitude circles lies within the sunlit day hemisphere",
+      "The Earth rotates slower in summer and faster in winter",
+      "The Sun grows bigger in summer",
+      "Clouds hide the night in summer"
+    ],
+    correctAnswer: 0,
+    difficulty: "MEDIUM",
+    damage: 250,
+    explanation: "The northern tilt causes northern latitude parallels to spend more than 50% of their diurnal rotational arc inside the Circle of Illumination."
+  },
+  {
+    classLevel: 6,
+    subject: "Social Science",
+    chapter: "Chapter 3: Motions of the Earth",
+    question: "Which term describes the point in the Earth's elliptical orbit when it is CLOSEST to the Sun (about 147 million km around 3 January)?",
+    options: ["Perihelion", "Aphelion", "Solstice", "Equinox"],
+    correctAnswer: 0,
+    difficulty: "MEDIUM",
+    damage: 250,
+    explanation: "Perihelion (from Greek peri = near, helios = sun) is the orbital periapsis where Earth is closest to the Sun."
+  },
+  {
+    classLevel: 6,
+    subject: "Social Science",
+    chapter: "Chapter 3: Motions of the Earth",
+    question: "Which term describes the point in the Earth's orbit when it is FARTHEST from the Sun (about 152 million km around 4 July)?",
+    options: ["Aphelion", "Perihelion", "Equinox", "Zenith"],
+    correctAnswer: 0,
+    difficulty: "MEDIUM",
+    damage: 250,
+    explanation: "Aphelion (apo = away, helios = sun) is the orbital apoapsis where Earth reaches maximum solar distance."
+  },
+  {
+    classLevel: 6,
+    subject: "Social Science",
+    chapter: "Chapter 3: Motions of the Earth",
+    question: "What is the phenomenon called when the Sun is visible at local midnight during summer months in northern Norway, Sweden, and Finland?",
+    options: ["The Midnight Sun", "Solar Eclipse", "Aurora Borealis", "Polar Vortex"],
+    correctAnswer: 0,
+    difficulty: "MEDIUM",
+    damage: 250,
+    explanation: "At latitudes north of the Arctic Circle, the Sun remains above the horizon 24 hours a day during summer solstice."
+  },
+  {
+    classLevel: 6,
+    subject: "Social Science",
+    chapter: "Chapter 3: Motions of the Earth",
+    question: "Why is an extra day added to the calendar every fourth year in February?",
+    options: [
+      "To synchronize the civil calendar year (365 days) with the astronomical solar year (365.25 days) and prevent calendar seasonal drift",
+      "Because February was feeling too short",
+      "To celebrate the King's birthday",
+      "Because Earth takes a vacation every 4 years"
+    ],
+    correctAnswer: 0,
+    difficulty: "MEDIUM",
+    damage: 250,
+    explanation: "Without leap days, the 0.242-day annual discrepancy would cause calendar seasons to drift by ~24 days every century."
+  },
+  {
+    classLevel: 6,
+    subject: "Social Science",
+    chapter: "Chapter 3: Motions of the Earth",
+    question: "What is the daily rotation of the Earth around its axis also termed in geography?",
+    options: ["Diurnal Motion", "Annual Motion", "Secular Motion", "Orbital Motion"],
+    correctAnswer: 0,
+    difficulty: "MEDIUM",
+    damage: 250,
+    explanation: "Diurnal motion refers to the daily 24-hour apparent rotation of celestial objects caused by Earth's axial rotation."
+  },
+  {
+    classLevel: 6,
+    subject: "Social Science",
+    chapter: "Chapter 3: Motions of the Earth",
+    question: "Why does the Equator experience virtually equal 12-hour days and 12-hour nights throughout the entire year?",
+    options: [
+      "Because the Circle of Illumination always bisects the Equator into two exact equal halves in all orbital positions",
+      "Because the Sun never moves away from the Equator",
+      "Because Earth does not rotate at the Equator",
+      "Because the Equator is flat"
+    ],
+    correctAnswer: 0,
+    difficulty: "MEDIUM",
+    damage: 250,
+    explanation: "The Equator is a Great Circle, and any plane passing through the Earth's center (like the Circle of Illumination) bisects all Great Circles equally."
+  },
+
+  // HARD (12)
+  {
+    classLevel: 6,
+    subject: "Social Science",
+    chapter: "Chapter 3: Motions of the Earth",
+    question: "Read the statements:\nAssertion (A): On 21st June, the rays of the Sun fall directly on the Tropic of Cancer (23½° N).\nReason (R): The Northern Hemisphere is tilted towards the Sun during this period of Earth's revolution, resulting in the Summer Solstice.\nChoose the correct option:",
+    options: [
+      "Both (A) and (R) are true, and (R) is the correct explanation of (A).",
+      "Both (A) and (R) are true, but (R) is NOT the correct explanation of (A).",
+      "(A) is true, but (R) is false.",
+      "(A) is false, but (R) is true."
+    ],
+    correctAnswer: 0,
+    difficulty: "HARD",
+    damage: 350,
+    explanation: "The 23.5° northward axial tilt directs the subsolar zenith directly over the Tropic of Cancer on 21 June."
+  },
+  {
+    classLevel: 6,
+    subject: "Social Science",
+    chapter: "Chapter 3: Motions of the Earth",
+    question: "Spot the IMPOSTER in the following list of astronomical dates and their northern seasonal designations:\nGroup: [21 June - Summer Solstice, 22 December - Winter Solstice, 21 March - Vernal Equinox, 23 September - Winter Solstice]",
+    options: ["21 June - Summer Solstice", "22 December - Winter Solstice", "21 March - Vernal Equinox", "23 September - Winter Solstice"],
+    correctAnswer: 3,
+    difficulty: "HARD",
+    damage: 350,
+    explanation: "'23 September - Winter Solstice' is FALSE; 23 September is the AUTUMNAL EQUINOX (equal day and night), not a solstice."
+  },
+  {
+    classLevel: 6,
+    subject: "Social Science",
+    chapter: "Chapter 3: Motions of the Earth",
+    question: "Consider a person standing at the South Pole on 21st June. What will they experience for the entire 24-hour period?",
+    options: [
+      "Continuous, complete 24-hour darkness (Polar Night), with the Sun never rising above the horizon",
+      "Continuous 24-hour bright daylight",
+      "Equal 12-hour day and 12-hour night",
+      "A solar eclipse every 2 hours"
+    ],
+    correctAnswer: 0,
+    difficulty: "HARD",
+    damage: 350,
+    explanation: "On 21 June, the South Pole tilts away from the Sun, remaining fully submerged in the dark night hemisphere."
+  },
+  {
+    classLevel: 6,
+    subject: "Social Science",
+    chapter: "Chapter 3: Motions of the Earth",
+    question: "Match Column I (Dates) with Column II (Solar Positions & Events):\n(a) 21st June       -> (i) Direct rays on Tropic of Capricorn\n(b) 22nd December   -> (ii) Direct rays on Tropic of Cancer\n(c) 21st March      -> (iii) Direct rays on Equator (Spring Equinox in North)\n(d) 23rd September  -> (iv) Direct rays on Equator (Autumn Equinox in North)",
+    options: [
+      "a-(ii), b-(i), c-(iii), d-(iv)",
+      "a-(i), b-(ii), c-(iii), d-(iv)",
+      "a-(iv), b-(iii), c-(ii), d-(i)",
+      "a-(iii), b-(iv), c-(i), d-(ii)"
+    ],
+    correctAnswer: 0,
+    difficulty: "HARD",
+    damage: 350,
+    explanation: "21 June = Sun on Cancer; 22 Dec = Sun on Capricorn; 21 March = Spring Equinox; 23 Sept = Autumn Equinox."
+  },
+  {
+    classLevel: 6,
+    subject: "Social Science",
+    chapter: "Chapter 3: Motions of the Earth",
+    question: "Read the statements:\nStatement 1: If the Earth's axis had zero tilt (perpendicular to orbital plane), there would be NO change of seasons on Earth.\nStatement 2: In a leap year, the year 2024 had 366 days.\nStatement 3: The Earth travels faster in its orbit when it is closest to the Sun (Perihelion).\nWhich statements are TRUE?",
+    options: ["All Statements 1, 2, and 3", "Statements 1 and 2 only", "Statements 2 and 3 only", "Statements 1 and 3 only"],
+    correctAnswer: 0,
+    difficulty: "HARD",
+    damage: 350,
+    explanation: "Without axial tilt, seasonal variations disappear; 2024 is a leap year; and Kepler's 2nd Law states orbital velocity peaks at perihelion."
+  },
+  {
+    classLevel: 6,
+    subject: "Social Science",
+    chapter: "Chapter 3: Motions of the Earth",
+    question: "Why are solar days slightly longer than sidereal days (the true rotation period relative to distant stars being 23h 56m 4s)?",
+    options: [
+      "Because while rotating, Earth also moves forward in its orbit around the Sun, requiring an extra ~4 minutes of rotation to align with the Sun again",
+      "Because stars move backwards",
+      "Because the Sun rotates in the opposite direction",
+      "Because gravity slows down at night"
+    ],
+    correctAnswer: 0,
+    difficulty: "HARD",
+    damage: 350,
+    explanation: "Orbital progression (~1° per day) requires Earth to spin an extra ~1° (360°/365 ≈ 4 minutes) for the Sun to return to the meridian."
+  },
+  {
+    classLevel: 6,
+    subject: "Social Science",
+    chapter: "Chapter 3: Motions of the Earth",
+    question: "What is the mathematical condition for a century year (like 1900, 2000, 2100) to be designated a Leap Year in the Gregorian calendar?",
+    options: [
+      "It must be divisible by 400 (e.g. 2000 was a leap year, but 1900 and 2100 are NOT leap years)",
+      "It must be divisible by 4 only",
+      "It must be divisible by 100 only",
+      "All century years are leap years"
+    ],
+    correctAnswer: 0,
+    difficulty: "HARD",
+    damage: 350,
+    explanation: "Century years must be multiples of 400 to account for the precise fractional solar year (365.2422 days)."
+  },
+  {
+    classLevel: 6,
+    subject: "Social Science",
+    chapter: "Chapter 3: Motions of the Earth",
+    question: "Why do direct solar rays at noon produce significantly more heating than slanting rays in the early morning and late evening?",
+    options: [
+      "Direct vertical rays travel through a thinner slice of the atmosphere and concentrate high radiant energy on a small surface patch",
+      "The Sun is hotter at noon",
+      "Air disappears at noon",
+      "Clouds only exist in the morning"
+    ],
+    correctAnswer: 0,
+    difficulty: "HARD",
+    damage: 350,
+    explanation: "Vertical rays minimize atmospheric optical path attenuation (air mass = 1) and maximize insolation flux per square meter."
+  },
+  {
+    classLevel: 6,
+    subject: "Social Science",
+    chapter: "Chapter 3: Motions of the Earth",
+    question: "Why does the Southern Hemisphere experience peak winter when the Northern Hemisphere is experiencing peak summer?",
+    options: [
+      "Due to Earth's fixed axial tilt, when the Northern Hemisphere points towards the Sun, the Southern Hemisphere is tilted away from the Sun",
+      "Because the Southern Hemisphere is made of water",
+      "Because the Sun only shines on the north",
+      "Because Antarctica is too high"
+    ],
+    correctAnswer: 0,
+    difficulty: "HARD",
+    damage: 350,
+    explanation: "Axial orientation creates inverse subsolar exposure between opposite hemispheres during Earth's orbital journey."
+  },
+  {
+    classLevel: 6,
+    subject: "Social Science",
+    chapter: "Chapter 3: Motions of the Earth",
+    question: "Consider four points on Earth on 21st June:\n1. North Pole (90° N)\n2. Equator (0°)\n3. Tropic of Capricorn (23½° S)\n4. South Pole (90° S)\nArrange these points in DECREASING order of daylight duration on this day:",
+    options: ["1 -> 2 -> 3 -> 4 (North Pole: 24h -> Equator: 12h -> Tropic of Capricorn: ~10.5h -> South Pole: 0h)", "4 -> 3 -> 2 -> 1", "2 -> 1 -> 3 -> 4", "1 -> 3 -> 2 -> 4"],
+    correctAnswer: 0,
+    difficulty: "HARD",
+    damage: 350,
+    explanation: "On 21 June, photoperiod decreases strictly from 24 hours continuous at 90°N to 12 hours at Equator down to 0 hours at 90°S."
+  },
+  {
+    classLevel: 6,
+    subject: "Social Science",
+    chapter: "Chapter 3: Motions of the Earth",
+    question: "What is the velocity of Earth's rotational spin at the Equator compared to that at the Poles?",
+    options: [
+      "Maximum at the Equator (~1,670 km/h) and zero at the Poles",
+      "Zero at the Equator and maximum at the Poles",
+      "Equal at all latitudes",
+      "100 km/h everywhere"
+    ],
+    correctAnswer: 0,
+    difficulty: "HARD",
+    damage: 350,
+    explanation: "Linear velocity v = ω·R·cos(θ); at θ = 0° (Equator), v ≈ 40,075 km / 24 h ≈ 1,670 km/h; at θ = 90° (Poles), v = 0."
+  },
+  {
+    classLevel: 6,
+    subject: "Social Science",
+    chapter: "Chapter 3: Motions of the Earth",
+    question: "Which of the following would be an immediate consequence if the Earth revolved around the Sun at TWICE its current orbital speed while maintaining its current rotation rate?",
+    options: [
+      "A year would last only ~182.5 days (seasons would change twice as fast), but each day would still last 24 hours",
+      "A day would become 12 hours",
+      "Gravity would double",
+      "The Moon would crash into Earth"
+    ],
+    correctAnswer: 0,
+    difficulty: "HARD",
+    damage: 350,
+    explanation: "Doubling orbital velocity halves the annual revolution period (365/2 ≈ 182.5 days), while diurnal spin remains unchanged at 24 hours."
+  }
+];
+
+console.log('Generated Social Science Ch3:', socialQuestions.length);
+fs.writeFileSync('C:/EduVerse/class 6/cross_subject/social_ch3.json', JSON.stringify(socialQuestions, null, 2), 'utf8');

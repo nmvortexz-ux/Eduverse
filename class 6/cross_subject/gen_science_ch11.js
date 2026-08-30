@@ -1,0 +1,590 @@
+import fs from 'fs';
+
+// -------------------------------------------------------------
+// SUBJECT 1: Science - Chapter 11: Air Around Us (40 Questions)
+// -------------------------------------------------------------
+const scienceQuestions = [
+  // EASY (12)
+  {
+    classLevel: 6,
+    subject: "Science",
+    chapter: "Chapter 11: Air Around Us",
+    question: "What is the thick protective blanket/envelope of air surrounding the entire Earth called?",
+    options: ["Atmosphere", "Hydrosphere", "Lithosphere", "Biosphere"],
+    correctAnswer: 0,
+    difficulty: "EASY",
+    damage: 150,
+    explanation: "The atmosphere is the multi-layered gaseous envelope retained by Earth's gravity extending hundreds of kilometres."
+  },
+  {
+    classLevel: 6,
+    subject: "Science",
+    chapter: "Chapter 11: Air Around Us",
+    question: "Air in motion (moving air) is commonly called:",
+    options: ["Wind", "Storm", "Cyclone", "Vacuum"],
+    correctAnswer: 0,
+    difficulty: "EASY",
+    damage: 150,
+    explanation: "Moving air created by atmospheric pressure gradients is termed wind (or breeze)."
+  },
+  {
+    classLevel: 6,
+    subject: "Science",
+    chapter: "Chapter 11: Air Around Us",
+    question: "Which gas is the MOST ABUNDANT in atmospheric air, making up approximately 78% (nearly 4/5ths) of air volume?",
+    options: ["Nitrogen (N₂)", "Oxygen (O₂)", "Carbon dioxide (CO₂)", "Argon"],
+    correctAnswer: 0,
+    difficulty: "EASY",
+    damage: 150,
+    explanation: "Nitrogen comprises ~78% of the dry atmosphere, acting as an unreactive diluent that tempers rapid combustion."
+  },
+  {
+    classLevel: 6,
+    subject: "Science",
+    chapter: "Chapter 11: Air Around Us",
+    question: "Which essential gas constitutes approximately 21% (nearly 1/5th) of air volume and supports animal respiration and fire combustion?",
+    options: ["Oxygen (O₂)", "Nitrogen", "Carbon dioxide", "Hydrogen"],
+    correctAnswer: 0,
+    difficulty: "EASY",
+    damage: 150,
+    explanation: "Oxygen makes up ~21% of clean air, essential for cellular aerobic respiration and chemical combustion."
+  },
+  {
+    classLevel: 6,
+    subject: "Science",
+    chapter: "Chapter 11: Air Around Us",
+    question: "What happens when a burning candle is covered with an inverted glass tumbler?",
+    options: [
+      "The candle flickers and goes out after a few moments because the limited oxygen inside the glass gets consumed completely",
+      "The candle burns twice as brightly",
+      "The glass tumbler melts instantly",
+      "The candle turns into ice"
+    ],
+    correctAnswer: 0,
+    difficulty: "EASY",
+    damage: 150,
+    explanation: "Combustion requires continuous oxygen; once the enclosed oxygen is depleted, the flame extinguishes."
+  },
+  {
+    classLevel: 6,
+    subject: "Science",
+    chapter: "Chapter 11: Air Around Us",
+    question: "Which component of air is responsible for the formation of clouds, mist, dew, and rain in nature?",
+    options: ["Water Vapour (Moisture)", "Nitrogen", "Smoke", "Dust particles"],
+    correctAnswer: 0,
+    difficulty: "EASY",
+    damage: 150,
+    explanation: "Atmospheric water vapour evaporates from oceans/rivers and condenses at high altitudes to form cloud droplets and rain."
+  },
+  {
+    classLevel: 6,
+    subject: "Science",
+    chapter: "Chapter 11: Air Around Us",
+    question: "What gas is produced during burning of fuels and animal respiration, and used by green plants for photosynthesis?",
+    options: ["Carbon Dioxide (CO₂)", "Oxygen", "Nitrogen", "Ozone"],
+    correctAnswer: 0,
+    difficulty: "EASY",
+    damage: 150,
+    explanation: "Carbon dioxide (~0.04% of air) is released by respiration/combustion and absorbed by plants during photosynthesis."
+  },
+  {
+    classLevel: 6,
+    subject: "Science",
+    chapter: "Chapter 11: Air Around Us",
+    question: "Why do mountaineers climbing very high Himalayan peaks carry heavy Oxygen Cylinders on their backs?",
+    options: [
+      "Because atmospheric air becomes progressively thinner and the density/availability of oxygen drops drastically at high altitudes",
+      "To protect from bears",
+      "To cook food on snow",
+      "To make the backpack heavier for balance"
+    ],
+    correctAnswer: 0,
+    difficulty: "EASY",
+    damage: 150,
+    explanation: "Atmospheric pressure and oxygen partial pressure decline with altitude, causing hypoxia without supplementary O₂."
+  },
+  {
+    classLevel: 6,
+    subject: "Science",
+    chapter: "Chapter 11: Air Around Us",
+    question: "How do fish and other aquatic animals breathe underwater?",
+    options: [
+      "They absorb Dissolved Oxygen from water through their specialized feather-like Gills",
+      "They hold their breath forever",
+      "They breathe water vapour from clouds",
+      "They eat oxygen rocks"
+    ],
+    correctAnswer: 0,
+    difficulty: "EASY",
+    damage: 150,
+    explanation: "Fish pass oxygenated water over vascularized gill filaments, extracting dissolved O₂ via counter-current exchange."
+  },
+  {
+    classLevel: 6,
+    subject: "Science",
+    chapter: "Chapter 11: Air Around Us",
+    question: "Why do Earthworms and burrowing soil animals come out of their underground burrows to the surface only during HEAVY RAINFALL?",
+    options: [
+      "Heavy rainwater fills up all air spaces and pores in the soil, forcing earthworms to the surface to breathe oxygen",
+      "Because they like to swim in puddles",
+      "To wash their bodies",
+      "Because soil becomes too hot"
+    ],
+    correctAnswer: 0,
+    difficulty: "EASY",
+    damage: 150,
+    explanation: "Waterlogged soils displace pore air; earthworms must surface to respire cutaneously across moist skin."
+  },
+  {
+    classLevel: 6,
+    subject: "Science",
+    chapter: "Chapter 11: Air Around Us",
+    question: "What is a simple rotating paper toy on a stick that spins furiously when you run with it or blow on it?",
+    options: ["Firki (Pinwheel)", "Kite", "Compass", "Sundial"],
+    correctAnswer: 0,
+    difficulty: "EASY",
+    damage: 150,
+    explanation: "A firki rotates due to kinetic wind pressure against its angled vanes, demonstrating that air exerts mechanical force."
+  },
+  {
+    classLevel: 6,
+    subject: "Science",
+    chapter: "Chapter 11: Air Around Us",
+    question: "What large mechanical structure with rotating blades harnesses wind energy to pump water, grind grain, or generate clean electricity?",
+    options: ["Windmill (Wind Turbine)", "Waterwheel", "Steam Engine", "Solar Panel"],
+    correctAnswer: 0,
+    difficulty: "EASY",
+    damage: 150,
+    explanation: "Windmills convert atmospheric wind kinetic energy into rotational mechanical and electrical power."
+  },
+
+  // MEDIUM (16)
+  {
+    classLevel: 6,
+    subject: "Science",
+    chapter: "Chapter 11: Air Around Us",
+    question: "How can you prove experimentally that an apparently 'empty' open glass bottle is actually FULL of air?",
+    options: [
+      "Invert the bottle vertically into a bucket of water; water cannot enter until you tilt the bottle slightly, allowing air bubbles to escape with a gurgling sound",
+      "By looking through the glass with sunglasses",
+      "By smelling the bottle",
+      "By dropping the bottle on the floor"
+    ],
+    correctAnswer: 0,
+    difficulty: "MEDIUM",
+    damage: 250,
+    explanation: "Trapped air exerts internal pressure blocking water entry until tilting lets air bubble out, proving air occupies volume."
+  },
+  {
+    classLevel: 6,
+    subject: "Science",
+    chapter: "Chapter 11: Air Around Us",
+    question: "Why does a lump of dry soil produce fizzing bubbles when dropped into a glass beaker of water?",
+    options: [
+      "Water enters the microscopic pores of the dry soil, displacing the air trapped inside soil particles which escapes upward as visible bubbles",
+      "Because soil is boiling hot",
+      "Because soil reacts with water chemically to make poison",
+      "Because soil has soap in it"
+    ],
+    correctAnswer: 0,
+    difficulty: "MEDIUM",
+    damage: 250,
+    explanation: "Capillary suction of water displaces interstitial soil air, generating effervescent bubbles."
+  },
+  {
+    classLevel: 6,
+    subject: "Science",
+    chapter: "Chapter 11: Air Around Us",
+    question: "Why do tiny water droplets appear on the outer glass surface of a tumbler containing ice-cold water?",
+    options: [
+      "Water vapour present in the surrounding air comes in contact with the cold glass surface and CONDENSES into liquid water droplets",
+      "Water leaks through the solid glass wall",
+      "Ice melts through the top",
+      "The glass tumbler sweats like skin"
+    ],
+    correctAnswer: 0,
+    difficulty: "MEDIUM",
+    damage: 250,
+    explanation: "Ambient water vapour cools below its dew point against cold glass, condensing into liquid droplets."
+  },
+  {
+    classLevel: 6,
+    subject: "Science",
+    chapter: "Chapter 11: Air Around Us",
+    question: "How is the delicate balance of Oxygen and Carbon Dioxide maintained in Earth's atmosphere?",
+    options: [
+      "Plants produce excess Oxygen during daytime Photosynthesis and consume Carbon Dioxide, while animals and humans inhale Oxygen and exhale Carbon Dioxide (Oxygen-Carbon Dioxide Cycle)",
+      "Volcanoes pump oxygen into the sky",
+      "Windmills manufacture oxygen",
+      "Oxygen comes from the moon"
+    ],
+    correctAnswer: 0,
+    difficulty: "MEDIUM",
+    damage: 250,
+    explanation: "Photosynthetic O₂ release by plants balances respiration and combustion CO₂ emissions across the biosphere."
+  },
+  {
+    classLevel: 6,
+    subject: "Science",
+    chapter: "Chapter 11: Air Around Us",
+    question: "Why are tall chimneys installed in factories and industrial plants?",
+    options: [
+      "To release harmful smoke, dust, and toxic fumes high up into the upper atmosphere, away from ground-level human habitats",
+      "To catch birds",
+      "To make rain fall faster",
+      "To make the factory look taller"
+    ],
+    correctAnswer: 0,
+    difficulty: "MEDIUM",
+    damage: 250,
+    explanation: "High stack chimneys disperse industrial effluents into higher atmospheric winds, reducing ground-level pollution."
+  },
+  {
+    classLevel: 6,
+    subject: "Science",
+    chapter: "Chapter 11: Air Around Us",
+    question: "Why do we see tiny dancing, glittering dust particles in a dark room when a narrow beam of sunlight enters through a small slit?",
+    options: [
+      "The sunbeam illuminates microscopic solid Dust particles suspended in air, which scatter light (Tyndall Effect / Brownian motion)",
+      "They are tiny flying insects",
+      "The sun rays are breaking into pieces",
+      "They are magic sparks"
+    ],
+    correctAnswer: 0,
+    difficulty: "MEDIUM",
+    damage: 250,
+    explanation: "Tyndall scattering by aerosolized particulate matter illuminates suspended dust in colloidal air."
+  },
+  {
+    classLevel: 6,
+    subject: "Science",
+    chapter: "Chapter 11: Air Around Us",
+    question: "Why is it strictly recommended to breathe through the NOSE rather than through the MOUTH?",
+    options: [
+      "Fine hairs (cilia) and sticky mucus lining inside nasal passages filter out dust particles, pollen, and microbes, preventing them from entering the lungs",
+      "Because mouth breathing makes you thirsty",
+      "Because mouth has no teeth for air",
+      "Because nose makes air colder"
+    ],
+    correctAnswer: 0,
+    difficulty: "MEDIUM",
+    damage: 250,
+    explanation: "Nasal turbinates and mucociliary clearance humidify, warm, and filter airborne aerosols before reaching alveolar lungs."
+  },
+  {
+    classLevel: 6,
+    subject: "Science",
+    chapter: "Chapter 11: Air Around Us",
+    question: "What instrument is installed on top of tall buildings to indicate the DIRECTION from which the wind is blowing?",
+    options: ["Wind Vane (Weather Vane)", "Anemometer", "Barometer", "Hygrometer"],
+    correctAnswer: 0,
+    difficulty: "MEDIUM",
+    damage: 250,
+    explanation: "A wind vane rotates freely on a vertical axis; its tail fin orients the pointer into the wind source direction."
+  },
+  {
+    classLevel: 6,
+    subject: "Science",
+    chapter: "Chapter 11: Air Around Us",
+    question: "How do plant seeds (like Dandelion, Maple, and Drumstick) disperse across vast distances?",
+    options: [
+      "They possess feather-like tufts, parachutes, or wings that catch atmospheric wind currents and float across kilometres",
+      "They swim across oceans",
+      "They walk on tiny roots",
+      "They explode like fireworks"
+    ],
+    correctAnswer: 0,
+    difficulty: "MEDIUM",
+    damage: 250,
+    explanation: "Anemochory: aerodynamic samaras and pappus hairs utilize wind drift for long-distance seed dispersal."
+  },
+  {
+    classLevel: 6,
+    subject: "Science",
+    chapter: "Chapter 11: Air Around Us",
+    question: "What role does air play in the transmission of SOUND from one place to another?",
+    options: [
+      "Air provides the physical material medium through which sound pressure waves propagate; sound cannot travel through a vacuum",
+      "Air blocks all sounds",
+      "Air creates sound out of light",
+      "Sound only travels through metal wires"
+    ],
+    correctAnswer: 0,
+    difficulty: "MEDIUM",
+    damage: 250,
+    explanation: "Mechanical sound waves require molecular compression and rarefaction across an elastic fluid medium like air."
+  },
+  {
+    classLevel: 6,
+    subject: "Science",
+    chapter: "Chapter 11: Air Around Us",
+    question: "Why does air bubble out when water is boiled in a glass pan long before it reaches 100°C?",
+    options: [
+      "Dissolved air in the water expands due to heating and escapes as tiny air bubbles from the pan floor",
+      "Because glass creates bubbles",
+      "Because water turns into ice",
+      "Because heat destroys water molecules instantly"
+    ],
+    correctAnswer: 0,
+    difficulty: "MEDIUM",
+    damage: 250,
+    explanation: "Gas solubility in liquids decreases with rising temperature, driving dissolved air out of solution as bubbles."
+  },
+  {
+    classLevel: 6,
+    subject: "Science",
+    chapter: "Chapter 11: Air Around Us",
+    question: "Why can sailing yachts and gliders navigate across water and skies without engines?",
+    options: [
+      "They harness the aerodynamic thrust and lift generated by moving air (wind) pushing against canvas sails and aerofoil wings",
+      "They are pulled by magnetic rocks",
+      "They slide on cloud ice",
+      "They float on solar rays"
+    ],
+    correctAnswer: 0,
+    difficulty: "MEDIUM",
+    damage: 250,
+    explanation: "Aerodynamic lift and drag forces produced by wind airflow propel yachts and gliders."
+  },
+  {
+    classLevel: 6,
+    subject: "Science",
+    chapter: "Chapter 11: Air Around Us",
+    question: "What are the three essential components that must be present together for Combustion (burning) to occur?",
+    options: ["Fuel (combustible substance), Oxygen (supporter of combustion), and Ignition Temperature (heat)", "Water, Wood, and Plastic", "Nitrogen, Carbon, and Ash", "Glass, Iron, and Air"],
+    correctAnswer: 0,
+    difficulty: "MEDIUM",
+    damage: 250,
+    explanation: "The classical Fire Triangle requires three elements: Combustible Fuel, Oxidizer (O₂), and Heat (ignition threshold)."
+  },
+  {
+    classLevel: 6,
+    subject: "Science",
+    chapter: "Chapter 11: Air Around Us",
+    question: "Why does a traffic police officer standing at a busy intersection often wear a protective face mask?",
+    options: [
+      "To protect lungs from inhaling vehicular exhaust containing unburnt carbon soot, toxic carbon monoxide, and lead particulates",
+      "To hide identity",
+      "To keep face warm in summer",
+      "To amplify voice"
+    ],
+    correctAnswer: 0,
+    difficulty: "MEDIUM",
+    damage: 250,
+    explanation: "Particulate masks filter toxic combustion emissions (PM2.5, NOₓ, CO) at congested traffic junctions."
+  },
+  {
+    classLevel: 6,
+    subject: "Science",
+    chapter: "Chapter 11: Air Around Us",
+    question: "Why is Nitrogen gas in air essential for plant life even though plants cannot absorb it directly through leaves?",
+    options: [
+      "Soil bacteria (like Rhizobium) fix atmospheric nitrogen into soluble nitrates that plant roots absorb to synthesize essential proteins",
+      "Nitrogen gives green color to leaves",
+      "Nitrogen makes fruits sweet",
+      "Nitrogen turns into water inside roots"
+    ],
+    correctAnswer: 0,
+    difficulty: "MEDIUM",
+    damage: 250,
+    explanation: "Biological nitrogen fixation converts inert atmospheric N₂ into bioavailable ammonium and nitrate for plant amino acids."
+  },
+  {
+    classLevel: 6,
+    subject: "Science",
+    chapter: "Chapter 11: Air Around Us",
+    question: "Why does an inflated balloon burst when left in hot scorching sunlight for a long time?",
+    options: [
+      "Heat energy causes the air molecules trapped inside the balloon to expand and exert higher internal pressure against the rubber until it bursts",
+      "The rubber melts from sun rays",
+      "Sunlight sucks the air out",
+      "The balloon turns into glass"
+    ],
+    correctAnswer: 0,
+    difficulty: "MEDIUM",
+    damage: 250,
+    explanation: "Charles's Law: thermal kinetic energy increases gas volume and internal pressure (P ∝ T), rupturing the elastic membrane."
+  },
+
+  // HARD (12)
+  {
+    classLevel: 6,
+    subject: "Science",
+    chapter: "Chapter 11: Air Around Us",
+    question: "Read the statements:\nAssertion (A): Plants cannot survive without animals, and animals cannot survive without plants in the biosphere.\nReason (R): Plants require CO₂ exhaled by animals for photosynthesis, while animals depend entirely on O₂ released by plants during photosynthesis and the organic biomass plants produce.\nChoose the correct option:",
+    options: [
+      "Both (A) and (R) are true, and (R) is the correct explanation of (A).",
+      "Both (A) and (R) are true, but (R) is NOT the correct explanation of (A).",
+      "(A) is true, but (R) is false.",
+      "(A) is false, but (R) is true."
+    ],
+    correctAnswer: 0,
+    difficulty: "HARD",
+    damage: 350,
+    explanation: "The biogeochemical oxygen-carbon cycle couples autotrophs and heterotrophs in reciprocal energetic interdependence."
+  },
+  {
+    classLevel: 6,
+    subject: "Science",
+    chapter: "Chapter 11: Air Around Us",
+    question: "Spot the IMPOSTER in the following group of atmospheric air properties:\nGroup: [Air occupies space, Air has mass/weight, Air is a pure single element, Air exerts atmospheric pressure in all directions]",
+    options: ["Air occupies space", "Air has mass/weight", "Air is a pure single element", "Air exerts atmospheric pressure in all directions"],
+    correctAnswer: 2,
+    difficulty: "HARD",
+    damage: 350,
+    explanation: "Air is NOT a pure single element; it is a homogeneous PHYSICAL MIXTURE of multiple gases (N₂, O₂, CO₂, Ar, H₂O vapor)."
+  },
+  {
+    classLevel: 6,
+    subject: "Science",
+    chapter: "Chapter 11: Air Around Us",
+    question: "A scientist collects 100 litres of clean, dry atmospheric air at sea level. What is the approximate volume of NITROGEN and OXYGEN present in the sample?",
+    options: [
+      "Nitrogen: ~78 litres ; Oxygen: ~21 litres",
+      "Nitrogen: 50 litres ; Oxygen: 50 litres",
+      "Nitrogen: 21 litres ; Oxygen: 78 litres",
+      "Nitrogen: 90 litres ; Oxygen: 10 litres"
+    ],
+    correctAnswer: 0,
+    difficulty: "HARD",
+    damage: 350,
+    explanation: "Volumetric composition of dry atmospheric air: 78.08% N₂, 20.95% O₂, 0.93% Ar, 0.04% CO₂."
+  },
+  {
+    classLevel: 6,
+    subject: "Science",
+    chapter: "Chapter 11: Air Around Us",
+    question: "Match Column I (Atmospheric Constituents) with Column II (Biological & Environmental Roles):\n(a) Oxygen (21%)        -> (i) Respiration & supporter of combustion\n(b) Carbon Dioxide (0.04%)-> (ii) Raw material for plant photosynthesis\n(c) Nitrogen (78%)      -> (iii) Dilutes oxygen & provides protein building blocks via fixation\n(d) Water Vapour        -> (iv) Drives hydrological cycle, clouds & precipitation",
+    options: [
+      "a-(i), b-(ii), c-(iii), d-(iv)",
+      "a-(ii), b-(i), c-(iv), d-(iii)",
+      "a-(iv), b-(iii), c-(ii), d-(i)",
+      "a-(iii), b-(iv), c-(i), d-(ii)"
+    ],
+    correctAnswer: 0,
+    difficulty: "HARD",
+    damage: 350,
+    explanation: "Oxygen = respiration; CO₂ = photosynthesis; Nitrogen = protein fixation; Water vapour = precipitation."
+  },
+  {
+    classLevel: 6,
+    subject: "Science",
+    chapter: "Chapter 11: Air Around Us",
+    question: "Read the statements regarding respiration:\nStatement 1: Respiration in plants occurs day and night continuously, consuming oxygen and releasing carbon dioxide.\nStatement 2: Photosynthesis occurs only during daytime in sunlight, releasing far more oxygen than plants consume during respiration.\nStatement 3: Aquatic plants and animals breathe using dissolved nitrogen in water.\nWhich statements are TRUE?",
+    options: ["Statements 1 and 2 only", "Statements 2 and 3 only", "Statements 1 and 3 only", "All Statements 1, 2, and 3"],
+    correctAnswer: 0,
+    difficulty: "HARD",
+    damage: 350,
+    explanation: "Statement 3 is false because aquatic life breathes dissolved OXYGEN, not nitrogen. Statements 1 and 2 are true."
+  },
+  {
+    classLevel: 6,
+    subject: "Science",
+    chapter: "Chapter 11: Air Around Us",
+    question: "Why does a suction rubber sucker stick firmly to a smooth glass or tiled wall when pressed hard?",
+    options: [
+      "Pressing the sucker pushes out most of the air between the cup and surface; external atmospheric air pressure presses down hard on the outside, holding it tightly",
+      "Because rubber has chemical glue",
+      "Because the glass melts onto rubber",
+      "Because of magnetic attraction"
+    ],
+    correctAnswer: 0,
+    difficulty: "HARD",
+    damage: 350,
+    explanation: "Evacuating internal air creates a partial vacuum (P_inside < P_atm); external atmospheric pressure (101.3 kPa) pins the sucker."
+  },
+  {
+    classLevel: 6,
+    subject: "Science",
+    chapter: "Chapter 11: Air Around Us",
+    question: "How do mangroves and marsh plants growing in waterlogged saline mud adapt to breathe in oxygen-deficient soils?",
+    options: [
+      "They produce specialized vertical aerial roots called Pneumatophores (Breathing Roots) that grow upward out of the mud to absorb air directly from the atmosphere",
+      "They absorb air through flowers",
+      "They stop breathing completely",
+      "They store oxygen in seeds"
+    ],
+    correctAnswer: 0,
+    difficulty: "HARD",
+    damage: 350,
+    explanation: "Negatively geotropic pneumatophores with lenticels project above tidal water, ventilating root aerenchyma tissue."
+  },
+  {
+    classLevel: 6,
+    subject: "Science",
+    chapter: "Chapter 11: Air Around Us",
+    question: "Why does atmospheric pressure decrease progressively as you climb higher up a mountain?",
+    options: [
+      "Because the total vertical column and density of air molecules lying above decreases, exerting less downward gravitational weight per unit area",
+      "Because gravity turns off in mountains",
+      "Because cold air has no weight",
+      "Because clouds absorb air pressure"
+    ],
+    correctAnswer: 0,
+    difficulty: "HARD",
+    damage: 350,
+    explanation: "Barometric equation: hydrostatic pressure equals the integrated mass of the overlying air column, decaying exponentially with altitude."
+  },
+  {
+    classLevel: 6,
+    subject: "Science",
+    chapter: "Chapter 11: Air Around Us",
+    question: "What would happen to all life on Earth if the Atmosphere were completely absent?",
+    options: [
+      "All living organisms would die instantly from asphyxiation, daytime surface temperatures would soar to +120°C and plunge to -180°C at night, and lethal cosmic rays would bombard the surface",
+      "Plants would grow twice as fast",
+      "Oceans would freeze into pure gold",
+      "Earth would become lighter and float away"
+    ],
+    correctAnswer: 0,
+    difficulty: "HARD",
+    damage: 350,
+    explanation: "The atmosphere provides respiration gases, radiative greenhouse buffering, meteor friction shield, and UV absorption."
+  },
+  {
+    classLevel: 6,
+    subject: "Science",
+    chapter: "Chapter 11: Air Around Us",
+    question: "Why does a glass tumbler filled completely with water, covered with a flat cardboard card, and inverted upside down NOT spill water?",
+    options: [
+      "The upward atmospheric pressure exerted by outside air against the underside of the cardboard card is greater than the downward hydrostatic pressure of water",
+      "Because the card glues to water",
+      "Because water freezes instantly",
+      "Because gravity stops working upside down"
+    ],
+    correctAnswer: 0,
+    difficulty: "HARD",
+    damage: 350,
+    explanation: "Atmospheric pressure (~101,300 Pa) dwarfs the ~1,000 Pa downward hydrostatic column of water, holding the card in equilibrium."
+  },
+  {
+    classLevel: 6,
+    subject: "Science",
+    chapter: "Chapter 11: Air Around Us",
+    question: "What is 'Smog' and why is it a dangerous environmental hazard in cities during winter?",
+    options: [
+      "A toxic colloidal mixture of Smoke and Fog containing particulate soot and sulfur oxides that causes acute bronchitis, asthma, and severe visibility reduction",
+      "A cloud made of pure steam",
+      "A harmless morning mist",
+      "Dust from the moon"
+    ],
+    correctAnswer: 0,
+    difficulty: "HARD",
+    damage: 350,
+    explanation: "Thermal inversion traps particulates and photochemical/sulfurous emissions in winter fog, forming hazardous smog."
+  },
+  {
+    classLevel: 6,
+    subject: "Science",
+    chapter: "Chapter 11: Air Around Us",
+    question: "What crucial layer in the upper stratosphere shields life on Earth from harmful solar Ultraviolet (UV) radiation?",
+    options: ["The Ozone Layer (O₃)", "The Ionosphere", "The Troposphere", "The Exosphere"],
+    correctAnswer: 0,
+    difficulty: "HARD",
+    damage: 350,
+    explanation: "Stratospheric ozone photolytically absorbs high-energy UV-B radiation (280–315 nm), preventing cellular DNA mutagenesis."
+  }
+];
+
+console.log('Generated Science Ch11:', scienceQuestions.length);
+fs.writeFileSync('C:/EduVerse/class 6/cross_subject/science_ch11.json', JSON.stringify(scienceQuestions, null, 2), 'utf8');

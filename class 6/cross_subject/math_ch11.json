@@ -1,0 +1,642 @@
+[
+  {
+    "classLevel": 6,
+    "subject": "Mathematics",
+    "chapter": "Chapter 11: Algebra",
+    "question": "A symbol or letter (such as x, y, z, m, n, a, b) that does NOT have a fixed value and can take different numerical values is called a:",
+    "options": [
+      "Variable",
+      "Constant",
+      "Fraction",
+      "Integer"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "A variable represents an unknown quantity whose value varies, denoted by English alphabetic letters."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Mathematics",
+    "chapter": "Chapter 11: Algebra",
+    "question": "A quantity that has a fixed numerical value (such as 5, -8, 12, 100) that never changes is called a:",
+    "options": [
+      "Constant",
+      "Variable",
+      "Equation",
+      "Expression"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "A constant possesses a fixed, definite mathematical magnitude."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Mathematics",
+    "chapter": "Chapter 11: Algebra",
+    "question": "To form the letter 'L' using matchsticks, 2 matchsticks are required for 1 'L'. What is the algebraic rule for the number of matchsticks required to make 'n' number of 'L's?",
+    "options": [
+      "2n (2 × n)",
+      "n + 2",
+      "2 + n",
+      "n / 2"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "1 'L' = 2 matchsticks; n 'L's = 2 × n = 2n matchsticks."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Mathematics",
+    "chapter": "Chapter 11: Algebra",
+    "question": "To form the letter 'C' using matchsticks, 3 matchsticks are required for each 'C'. How many matchsticks are needed to form 8 'C's?",
+    "options": [
+      "24 matchsticks (Rule: 3n = 3 × 8 = 24)",
+      "16 matchsticks",
+      "11 matchsticks",
+      "32 matchsticks"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "Rule is 3n. For n = 8, matchsticks = 3 × 8 = 24."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Mathematics",
+    "chapter": "Chapter 11: Algebra",
+    "question": "How is the statement '7 added to x' written as an algebraic expression?",
+    "options": [
+      "x + 7 (or 7 + x)",
+      "7x",
+      "x - 7",
+      "x / 7"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "'7 added to x' maps directly to addition: x + 7."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Mathematics",
+    "chapter": "Chapter 11: Algebra",
+    "question": "How is the statement 'y multiplied by 5 and then 3 subtracted from the result' written algebraically?",
+    "options": [
+      "5y - 3",
+      "5y + 3",
+      "3 - 5y",
+      "y/5 - 3"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "(y × 5) - 3 = 5y - 3."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Mathematics",
+    "chapter": "Chapter 11: Algebra",
+    "question": "A mathematical statement with an EQUALITY sign '=' between two expressions (such as 2x + 5 = 15) is called an:",
+    "options": [
+      "Equation",
+      "Expression",
+      "Inequality",
+      "Polynomial"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "An algebraic equation establishes that two mathematical expressions have identical value using the equality symbol '='."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Mathematics",
+    "chapter": "Chapter 11: Algebra",
+    "question": "The value of a variable that satisfies an equation (makes LHS = RHS) is called the:",
+    "options": [
+      "Solution (or Root) of the equation",
+      "Constant",
+      "Coefficient",
+      "Term"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "A solution is a specific numerical value of the variable for which the Left Hand Side equals the Right Hand Side."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Mathematics",
+    "chapter": "Chapter 11: Algebra",
+    "question": "Solve the simple linear equation: x + 6 = 15. What is the value of x?",
+    "options": [
+      "x = 9 (15 - 6 = 9)",
+      "x = 21",
+      "x = 90",
+      "x = 6"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "x = 15 - 6 = 9."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Mathematics",
+    "chapter": "Chapter 11: Algebra",
+    "question": "Solve the linear equation: 4y = 28. What is the value of y?",
+    "options": [
+      "y = 7 (28 ÷ 4 = 7)",
+      "y = 32",
+      "y = 24",
+      "y = 112"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "y = 28 ÷ 4 = 7."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Mathematics",
+    "chapter": "Chapter 11: Algebra",
+    "question": "If side length of an equilateral triangle is denoted by 'l', what is its perimeter written algebraically?",
+    "options": [
+      "3l (l + l + l = 3l)",
+      "l³",
+      "3 + l",
+      "l/3"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "Perimeter = 3 × side = 3l."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Mathematics",
+    "chapter": "Chapter 11: Algebra",
+    "question": "What is the numerical coefficient of the variable in the algebraic term '-7x'?",
+    "options": [
+      "-7",
+      "7",
+      "x",
+      "-x"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "The numerical multiplying factor attached to the variable x is -7."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Mathematics",
+    "chapter": "Chapter 11: Algebra",
+    "question": "Raju is 5 years younger than his brother Ravi. If Ravi's present age is 'x' years, what is Raju's age in terms of x?",
+    "options": [
+      "(x - 5) years",
+      "(x + 5) years",
+      "5x years",
+      "x/5 years"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "Younger by 5 years means subtracting 5 from Ravi's age: x - 5."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Mathematics",
+    "chapter": "Chapter 11: Algebra",
+    "question": "Sarita has 'm' marbles. Ameena has 10 more than twice the number of marbles Sarita has. How many marbles does Ameena have?",
+    "options": [
+      "2m + 10",
+      "2(m + 10)",
+      "10m + 2",
+      "m/2 + 10"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "Twice Sarita's marbles = 2m; 10 more than twice = 2m + 10."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Mathematics",
+    "chapter": "Chapter 11: Algebra",
+    "question": "Solve the linear equation: 3n + 7 = 25. What is the value of n?",
+    "options": [
+      "n = 6 (3n = 25 - 7 = 18 ⇒ n = 18/3 = 6)",
+      "n = 8",
+      "n = 5",
+      "n = 7"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "3n = 25 - 7 = 18 ⇒ n = 18 ÷ 3 = 6."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Mathematics",
+    "chapter": "Chapter 11: Algebra",
+    "question": "Solve the equation: p/3 - 4 = 2. What is the value of p?",
+    "options": [
+      "p = 18 (p/3 = 2 + 4 = 6 ⇒ p = 6 × 3 = 18)",
+      "p = 6",
+      "p = 12",
+      "p = 24"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "p/3 = 2 + 4 = 6 ⇒ p = 6 × 3 = 18."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Mathematics",
+    "chapter": "Chapter 11: Algebra",
+    "question": "A bus travels at a uniform speed of 'v' km per hour. It goes from Daspur to Beespur. After the bus has travelled for 5 hours, Beespur is still 20 km away. What is the total distance between Daspur and Beespur in terms of v?",
+    "options": [
+      "(5v + 20) km",
+      "(5v - 20) km",
+      "20v + 5 km",
+      "5(v + 20) km"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "Distance travelled in 5 hours = Speed × Time = 5v km. Total distance = 5v + 20 km."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Mathematics",
+    "chapter": "Chapter 11: Algebra",
+    "question": "If a box contains 50 mangoes, how will you write the total number of mangoes in 'b' boxes?",
+    "options": [
+      "50b (50 × b)",
+      "50 + b",
+      "b / 50",
+      "50 - b"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "Number of mangoes per box × number of boxes = 50 × b = 50b."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Mathematics",
+    "chapter": "Chapter 11: Algebra",
+    "question": "Cadets are marching in a parade in a Republic Day parade. There are 5 cadets in a row. What is the algebraic rule which gives the total number of cadets for 'r' rows?",
+    "options": [
+      "5r",
+      "r + 5",
+      "r / 5",
+      "5 + r"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "Cadets per row × rows = 5 × r = 5r."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Mathematics",
+    "chapter": "Chapter 11: Algebra",
+    "question": "Leela is Radha's younger sister. Leela is 4 years younger than Radha. Can you write Leela's age in terms of Radha's age? (Take Radha's age as 'x' years):",
+    "options": [
+      "(x - 4) years",
+      "(x + 4) years",
+      "4x years",
+      "x/4 years"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "Leela's age = Radha's age - 4 = x - 4."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Mathematics",
+    "chapter": "Chapter 11: Algebra",
+    "question": "Mother has made laddoos. She gives some laddoos to guests and family members; still 5 laddoos remain. If the number of laddoos mother gave away is 'l', how many laddoos did she make in total?",
+    "options": [
+      "l + 5",
+      "l - 5",
+      "5l",
+      "l / 5"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "Total made = Laddoos given away + remaining laddoos = l + 5."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Mathematics",
+    "chapter": "Chapter 11: Algebra",
+    "question": "Which of the following mathematical expressions is a valid ALGEBRAIC EQUATION containing a variable?",
+    "options": [
+      "2x + 7 = 19 (contains variable x and '=' sign)",
+      "2x + 7 > 19",
+      "5 × 3 + 2 = 17 (arithmetic equality without variable)",
+      "3x - 5"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "An algebraic equation must have both a variable and an equality sign (=)."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Mathematics",
+    "chapter": "Chapter 11: Algebra",
+    "question": "Find the value of the algebraic expression 3x² - 4x + 5 when x = 3:",
+    "options": [
+      "20 (3(3)² - 4(3) + 5 = 3(9) - 12 + 5 = 27 - 12 + 5 = 20)",
+      "18",
+      "24",
+      "15"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "3(3²) - 4(3) + 5 = 3(9) - 12 + 5 = 27 - 12 + 5 = 20."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Mathematics",
+    "chapter": "Chapter 11: Algebra",
+    "question": "Change the algebraic statement into ordinary everyday English: 'A notebook costs ₹p. A book costs ₹3p.'",
+    "options": [
+      "A book costs three times as much as a notebook",
+      "A notebook costs three times as much as a book",
+      "A book costs ₹3 more than a notebook",
+      "A book costs ₹3 less than a notebook"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "3p indicates multiplication by 3, meaning the book costs 3 times the notebook's price."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Mathematics",
+    "chapter": "Chapter 11: Algebra",
+    "question": "Solve the equation using the Trial and Error method: 5x = 35. For what value of x is the equation satisfied?",
+    "options": [
+      "x = 7 (5 × 7 = 35)",
+      "x = 5",
+      "x = 6",
+      "x = 8"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "Testing values: 5(5)=25, 5(6)=30, 5(7)=35 (Satisfied!)."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Mathematics",
+    "chapter": "Chapter 11: Algebra",
+    "question": "How is the Commutative Property of Addition of two whole numbers 'a' and 'b' written in general algebraic notation?",
+    "options": [
+      "a + b = b + a",
+      "a × b = b × a",
+      "a - b = b - a",
+      "a + (b + c) = (a + b) + c"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "Commutative law of addition states that order of terms does not alter the sum: a + b = b + a."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Mathematics",
+    "chapter": "Chapter 11: Algebra",
+    "question": "How is the Distributive Property of Multiplication over Addition written algebraically for three numbers a, b, and c?",
+    "options": [
+      "a × (b + c) = (a × b) + (a × c)",
+      "a + (b × c) = (a + b) × c",
+      "a × b × c = a + b + c",
+      "a / (b + c) = a/b + a/c"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "Distributive property: a(b + c) = ab + ac."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Mathematics",
+    "chapter": "Chapter 11: Algebra",
+    "question": "If the diameter of a circle is 'd' and its radius is 'r', what is the algebraic relation between diameter and radius?",
+    "options": [
+      "d = 2r (or r = d/2)",
+      "d = r + 2",
+      "d = r²",
+      "d = r/2"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "Diameter is twice the radius: d = 2r."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Mathematics",
+    "chapter": "Chapter 11: Algebra",
+    "question": "Read the statements:\nAssertion (A): An algebraic equation is fundamentally like a balanced weighing scale with equal weights on both Left and Right pans.\nReason (R): If you add, subtract, multiply, or divide the exact same non-zero number to BOTH sides (LHS and RHS), the equality remains strictly true and balanced.\nChoose the correct option:",
+    "options": [
+      "Both (A) and (R) are true, and (R) is the correct explanation of (A).",
+      "Both (A) and (R) are true, but (R) is NOT the correct explanation of (A).",
+      "(A) is true, but (R) is false.",
+      "(A) is false, but (R) is true."
+    ],
+    "correctAnswer": 0,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "The balance analogy illustrates algebraic invariance: equal symmetric operations preserve identity."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Mathematics",
+    "chapter": "Chapter 11: Algebra",
+    "question": "Spot the IMPOSTER in the following algebraic expressions where x = 4:\nGroup: [2x + 3 = 11, 5x - 8 = 12, x² + 1 = 17, 3x - 5 = 8]",
+    "options": [
+      "2x + 3 = 11",
+      "5x - 8 = 12",
+      "x² + 1 = 17",
+      "3x - 5 = 8"
+    ],
+    "correctAnswer": 3,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "For x = 4: 3(4) - 5 = 12 - 5 = 7 (NOT 8). The other three evaluate to 11, 12, and 17."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Mathematics",
+    "chapter": "Chapter 11: Algebra",
+    "question": "To form a pattern of 'n' connected squares using matchsticks in a row where the first square uses 4 sticks and each adjoining square shares 1 common vertical side, what is the exact algebraic rule for total matchsticks?",
+    "options": [
+      "3n + 1 (For 1 square = 4 sticks ; For 2 squares = 7 sticks ; For 3 = 10 sticks)",
+      "4n",
+      "4n - 1",
+      "2n + 2"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "First square uses 4; every additional square adds 3 sticks: 4 + 3(n - 1) = 4 + 3n - 3 = 3n + 1."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Mathematics",
+    "chapter": "Chapter 11: Algebra",
+    "question": "Match Column I (Word Statements) with Column II (Algebraic Expressions):\n(a) 5 subtracted from -m      -> (i) 2y + 11\n(b) 11 added to twice of y    -> (ii) -m - 5\n(c) y multiplied by -8        -> (iii) y/5 + 3\n(d) 3 added to one-fifth of y -> (iv) -8y",
+    "options": [
+      "a-(ii), b-(i), c-(iv), d-(iii)",
+      "a-(i), b-(ii), c-(iii), d-(iv)",
+      "a-(iv), b-(iii), c-(ii), d-(i)",
+      "a-(iii), b-(iv), c-(i), d-(ii)"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "-m - 5; 2y + 11; -8y; y/5 + 3."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Mathematics",
+    "chapter": "Chapter 11: Algebra",
+    "question": "Read the statements regarding algebraic equations:\nStatement 1: The equation 2x + 1 = 7 has only ONE unique solution in the system of real numbers (x = 3).\nStatement 2: In the expression 5n + 3, the variable 'n' can take any numerical value (1, 2, 3, 4, ...).\nStatement 3: 7x - 4 > 10 is an algebraic equation.\nWhich statements are TRUE?",
+    "options": [
+      "Statements 1 and 2 only",
+      "Statements 2 and 3 only",
+      "Statements 1 and 3 only",
+      "All Statements 1, 2, and 3"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "Statement 3 is false because 7x - 4 > 10 contains an inequality symbol (>), making it an Inequality rather than an Equation. Statements 1 and 2 are true."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Mathematics",
+    "chapter": "Chapter 11: Algebra",
+    "question": "Solve the linear equation: (2x - 3) / 5 = 3. What is the value of x?",
+    "options": [
+      "x = 9 (2x - 3 = 15 ⇒ 2x = 18 ⇒ x = 9)",
+      "x = 6",
+      "x = 12",
+      "x = 15"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "2x - 3 = 3 × 5 = 15 ⇒ 2x = 15 + 3 = 18 ⇒ x = 9."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Mathematics",
+    "chapter": "Chapter 11: Algebra",
+    "question": "The length of a rectangular hall is 4 metres less than 3 times the breadth of the hall. If the breadth is 'b' metres, what is the length in terms of b?",
+    "options": [
+      "(3b - 4) metres",
+      "(3b + 4) metres",
+      "(4b - 3) metres",
+      "3(b - 4) metres"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "3 times breadth = 3b. 4 metres less than 3b = 3b - 4."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Mathematics",
+    "chapter": "Chapter 11: Algebra",
+    "question": "A rectangular box has height 'h' cm. Its length is 5 times the height and breadth is 10 cm less than the length. Express the length and breadth in terms of the height h:",
+    "options": [
+      "Length = 5h cm ; Breadth = (5h - 10) cm",
+      "Length = h + 5 cm ; Breadth = h - 10 cm",
+      "Length = 5h cm ; Breadth = 5h + 10 cm",
+      "Length = h/5 cm ; Breadth = 5h - 10 cm"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "Length = 5 × h = 5h cm; Breadth = Length - 10 = (5h - 10) cm."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Mathematics",
+    "chapter": "Chapter 11: Algebra",
+    "question": "The sum of three consecutive integers is 51. If the smallest integer is denoted by 'x', what is the algebraic equation and the value of x?",
+    "options": [
+      "Equation: x + (x + 1) + (x + 2) = 51 ⇒ 3x + 3 = 51 ⇒ x = 16 (Integers are 16, 17, 18)",
+      "Equation: 3x = 51 ⇒ x = 17",
+      "Equation: x + x + x = 51 ⇒ x = 15",
+      "Equation: 3x - 3 = 51 ⇒ x = 18"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "3x + 3 = 51 ⇒ 3x = 48 ⇒ x = 16. Integers are 16, 17, 18 (16+17+18 = 51)."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Mathematics",
+    "chapter": "Chapter 11: Algebra",
+    "question": "A father is 35 years older than his son. After 5 years, the father will be twice as old as his son. If the son's present age is 's', which equation correctly models this situation?",
+    "options": [
+      "(s + 35) + 5 = 2(s + 5) ⇒ s + 40 = 2s + 10 ⇒ s = 30",
+      "s + 35 = 2s",
+      "s + 5 = 2(s + 35)",
+      "35s = 2(s + 5)"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "Father's age in 5 yrs = (s + 35) + 5 = s + 40. Son's age in 5 yrs = s + 5. Equation: s + 40 = 2(s + 5)."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Mathematics",
+    "chapter": "Chapter 11: Algebra",
+    "question": "If 3x + 2y = 24 and x = 4, find the value of y:",
+    "options": [
+      "y = 6 (3(4) + 2y = 24 ⇒ 12 + 2y = 24 ⇒ 2y = 12 ⇒ y = 6)",
+      "y = 4",
+      "y = 8",
+      "y = 12"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "12 + 2y = 24 ⇒ 2y = 12 ⇒ y = 6."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Mathematics",
+    "chapter": "Chapter 11: Algebra",
+    "question": "Why is Algebra considered the foundational universal language of higher mathematics, physics, and computer programming?",
+    "options": [
+      "It allows generalized patterns, physical laws, and complex relationships to be stated succinctly using variables rather than specific arithmetic numbers alone",
+      "Because letters are easier to draw than numbers",
+      "Because algebra eliminates the need for thinking",
+      "Because it only works for matchsticks"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "Algebra provides abstract symbolic modeling to formulate general rules, invariant laws, and computational algorithms."
+  }
+]

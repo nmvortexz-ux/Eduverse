@@ -1,0 +1,642 @@
+[
+  {
+    "classLevel": 7,
+    "subject": "GK",
+    "chapter": "Chapter 3: World Geography, Continents, Oceans & Famous Global Landmarks",
+    "question": "Which is the LARGEST continent on Earth by both total land surface area and human population?",
+    "options": [
+      "Asia",
+      "Africa",
+      "North America",
+      "Europe"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "Asia covers ~30% of Earth's land area and contains nearly 60% of the world human population."
+  },
+  {
+    "classLevel": 7,
+    "subject": "GK",
+    "chapter": "Chapter 3: World Geography, Continents, Oceans & Famous Global Landmarks",
+    "question": "Which is the SMALLEST continent on Earth by geographical land area (often called the 'Island Continent')?",
+    "options": [
+      "Australia (Oceania)",
+      "Europe",
+      "Antarctica",
+      "South America"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "Australia is the smallest continent, completely surrounded by the Indian and Pacific Oceans."
+  },
+  {
+    "classLevel": 7,
+    "subject": "GK",
+    "chapter": "Chapter 3: World Geography, Continents, Oceans & Famous Global Landmarks",
+    "question": "Which is the LARGEST and DEEPEST ocean on planet Earth, covering over 30% of the globe's surface?",
+    "options": [
+      "Pacific Ocean",
+      "Atlantic Ocean",
+      "Indian Ocean",
+      "Arctic Ocean"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "The Pacific Ocean is the largest biophysical ocean, containing the deepest oceanic trench (Mariana Trench)."
+  },
+  {
+    "classLevel": 7,
+    "subject": "GK",
+    "chapter": "Chapter 3: World Geography, Continents, Oceans & Famous Global Landmarks",
+    "question": "What is the DEEPEST point on Earth, reaching a depth of approximately 11,034 metres in the western Pacific Ocean?",
+    "options": [
+      "Challenger Deep (in the Mariana Trench)",
+      "Java Trench",
+      "Puerto Rico Trench",
+      "Sunda Trench"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "Challenger Deep in the Mariana Trench reaches ~11,034 m (~36,200 feet) below sea level."
+  },
+  {
+    "classLevel": 7,
+    "subject": "GK",
+    "chapter": "Chapter 3: World Geography, Continents, Oceans & Famous Global Landmarks",
+    "question": "Which is the LONGEST river in the world, flowing over 6,650 km northward through northeastern Africa into the Mediterranean Sea?",
+    "options": [
+      "Nile River",
+      "Amazon River",
+      "Yangtze River",
+      "Mississippi River"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "The Nile River in Africa is traditionally recognized as the world's longest river (~6,650 km)."
+  },
+  {
+    "classLevel": 7,
+    "subject": "GK",
+    "chapter": "Chapter 3: World Geography, Continents, Oceans & Famous Global Landmarks",
+    "question": "Which river carries the LARGEST volume of water (highest discharge) in the world, discharging 20% of global river flow into the Atlantic?",
+    "options": [
+      "Amazon River",
+      "Nile River",
+      "Congo River",
+      "Ganga River"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "The Amazon River in South America discharges ~209,000 m³/s, making it by far the largest river by water volume."
+  },
+  {
+    "classLevel": 7,
+    "subject": "GK",
+    "chapter": "Chapter 3: World Geography, Continents, Oceans & Famous Global Landmarks",
+    "question": "Which is the HIGHEST mountain peak in the world, standing at 8,848.86 metres on the border of Nepal and China in the Himalayas?",
+    "options": [
+      "Mount Everest (Sagarmatha / Qomolangma)",
+      "K2",
+      "Kangchenjunga",
+      "Lhotse"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "Mount Everest (8,848.86 m) in the Mahalangur Himal sub-range is the highest peak above sea level on Earth."
+  },
+  {
+    "classLevel": 7,
+    "subject": "GK",
+    "chapter": "Chapter 3: World Geography, Continents, Oceans & Famous Global Landmarks",
+    "question": "Which is the LARGEST hot desert in the world, spanning over 9 million square kilometers across North Africa?",
+    "options": [
+      "Sahara Desert",
+      "Gobi Desert",
+      "Kalahari Desert",
+      "Thar Desert"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "The Sahara Desert is the largest non-polar subtropical hot desert on Earth, covering 11 African nations."
+  },
+  {
+    "classLevel": 7,
+    "subject": "GK",
+    "chapter": "Chapter 3: World Geography, Continents, Oceans & Famous Global Landmarks",
+    "question": "Which is the LARGEST freshwater lake in the world by surface area, located between Canada and the United States?",
+    "options": [
+      "Lake Superior",
+      "Lake Victoria",
+      "Lake Baikal",
+      "Lake Michigan"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "Lake Superior (82,100 km²) is the world's largest freshwater lake by surface area."
+  },
+  {
+    "classLevel": 7,
+    "subject": "GK",
+    "chapter": "Chapter 3: World Geography, Continents, Oceans & Famous Global Landmarks",
+    "question": "Which is the DEEPEST and OLDEST freshwater lake in the world, located in Siberia, Russia (holding 20% of global unfrozen surface freshwater)?",
+    "options": [
+      "Lake Baikal (1,642 metres deep)",
+      "Caspian Sea",
+      "Lake Tanganyika",
+      "Lake Huron"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "Lake Baikal in Siberia is the world's deepest (1,642 m) and most voluminous freshwater rift lake."
+  },
+  {
+    "classLevel": 7,
+    "subject": "GK",
+    "chapter": "Chapter 3: World Geography, Continents, Oceans & Famous Global Landmarks",
+    "question": "In which European country is the famous leaning bell tower 'Leaning Tower of Pisa' located?",
+    "options": [
+      "Italy",
+      "France",
+      "Spain",
+      "Germany"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "The freestanding bell tower of Pisa Cathedral is located in the Piazza dei Miracoli in Pisa, Italy."
+  },
+  {
+    "classLevel": 7,
+    "subject": "GK",
+    "chapter": "Chapter 3: World Geography, Continents, Oceans & Famous Global Landmarks",
+    "question": "In which South American country is the ancient 15th-century Inca citadel of 'Machu Picchu' located high in the Andes mountains?",
+    "options": [
+      "Peru",
+      "Brazil",
+      "Chile",
+      "Argentina"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "Machu Picchu is a 15th-century Inca royal estate located in the Cusco Region of Peru."
+  },
+  {
+    "classLevel": 7,
+    "subject": "GK",
+    "chapter": "Chapter 3: World Geography, Continents, Oceans & Famous Global Landmarks",
+    "question": "Which is the HIGHEST uninterrupted waterfall in the world, dropping 979 metres from Auyán-tepui mountain in Venezuela?",
+    "options": [
+      "Angel Falls (Salto Ángel)",
+      "Niagara Falls",
+      "Victoria Falls",
+      "Iguazu Falls"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "Angel Falls in Canaima National Park, Venezuela, has an uninterrupted drop of 807 m and total height of 979 m."
+  },
+  {
+    "classLevel": 7,
+    "subject": "GK",
+    "chapter": "Chapter 3: World Geography, Continents, Oceans & Famous Global Landmarks",
+    "question": "What is the imaginary line of latitude at 0° that divides the Earth into the Northern and Southern Hemispheres?",
+    "options": [
+      "The Equator",
+      "Tropic of Cancer",
+      "Tropic of Capricorn",
+      "Prime Meridian"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "The Equator is the 0° latitude parallel equidistant from the geographic North and South Poles."
+  },
+  {
+    "classLevel": 7,
+    "subject": "GK",
+    "chapter": "Chapter 3: World Geography, Continents, Oceans & Famous Global Landmarks",
+    "question": "Through which famous Royal Observatory in London, England does the 0° longitude 'Prime Meridian' pass?",
+    "options": [
+      "Greenwich Observatory (Greenwich Mean Time - GMT)",
+      "Kew Observatory",
+      "Paris Observatory",
+      "Oxford Observatory"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "The Greenwich Prime Meridian (0° longitude) was established at the Royal Observatory Greenwich in 1884."
+  },
+  {
+    "classLevel": 7,
+    "subject": "GK",
+    "chapter": "Chapter 3: World Geography, Continents, Oceans & Famous Global Landmarks",
+    "question": "Which narrow artificial maritime waterway in Egypt connects the Mediterranean Sea to the Red Sea, enabling direct shipping between Europe and Asia without navigating around Africa?",
+    "options": [
+      "Suez Canal (opened in 1869)",
+      "Panama Canal",
+      "Kiel Canal",
+      "Corinth Canal"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "The 193 km Suez Canal cuts through the Isthmus of Suez, drastically shortening European-Asian shipping routes."
+  },
+  {
+    "classLevel": 7,
+    "subject": "GK",
+    "chapter": "Chapter 3: World Geography, Continents, Oceans & Famous Global Landmarks",
+    "question": "Which artificial waterway cuts across the Isthmus of Panama to connect the Atlantic Ocean with the Pacific Ocean?",
+    "options": [
+      "Panama Canal (opened in 1914)",
+      "Suez Canal",
+      "Erie Canal",
+      "Grand Canal"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "The Panama Canal uses a system of stepped water locks to lift ships across the continental divide between oceans."
+  },
+  {
+    "classLevel": 7,
+    "subject": "GK",
+    "chapter": "Chapter 3: World Geography, Continents, Oceans & Famous Global Landmarks",
+    "question": "Which is the LONGEST continental mountain range in the world, stretching over 7,000 km along the entire western coast of South America?",
+    "options": [
+      "The Andes Mountains",
+      "The Rocky Mountains",
+      "The Himalayas",
+      "The Alps"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "The Andes span 7,000 km across 7 South American countries: Venezuela, Colombia, Ecuador, Peru, Bolivia, Chile, Argentina."
+  },
+  {
+    "classLevel": 7,
+    "subject": "GK",
+    "chapter": "Chapter 3: World Geography, Continents, Oceans & Famous Global Landmarks",
+    "question": "What is the high-altitude plateau in Central Asia often called the 'Roof of the World' because of its immense elevation (average >4,500 m)?",
+    "options": [
+      "Tibetan Plateau (and Pamir Knot)",
+      "Deccan Plateau",
+      "Colorado Plateau",
+      "Anatolian Plateau"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "The Tibetan Plateau covers 2.5 million km² at an average altitude exceeding 4,500 metres."
+  },
+  {
+    "classLevel": 7,
+    "subject": "GK",
+    "chapter": "Chapter 3: World Geography, Continents, Oceans & Famous Global Landmarks",
+    "question": "Which is the ONLY continent through which all three major latitude lines—the Equator, the Tropic of Cancer, and the Tropic of Capricorn—pass?",
+    "options": [
+      "Africa",
+      "Asia",
+      "South America",
+      "Australia"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "Africa is the sole continent bisected by the Equator, Tropic of Cancer (23.5°N), and Tropic of Capricorn (23.5°S)."
+  },
+  {
+    "classLevel": 7,
+    "subject": "GK",
+    "chapter": "Chapter 3: World Geography, Continents, Oceans & Famous Global Landmarks",
+    "question": "Which is the world's LARGEST island (that is not classified as a continent), covered largely by a massive ice sheet?",
+    "options": [
+      "Greenland (Kalaallit Nunaat - part of Denmark)",
+      "New Guinea",
+      "Borneo",
+      "Madagascar"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "Greenland covers 2,166,086 km², making it the largest non-continental island on Earth."
+  },
+  {
+    "classLevel": 7,
+    "subject": "GK",
+    "chapter": "Chapter 3: World Geography, Continents, Oceans & Famous Global Landmarks",
+    "question": "What is the famous horseshoe-shaped basin in the Pacific Ocean basin characterized by 75% of the world's active volcanoes and 90% of global earthquakes called?",
+    "options": [
+      "The Pacific Ring of Fire",
+      "Mid-Atlantic Ridge",
+      "Bermuda Triangle",
+      "Great Rift Valley"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "The Pacific Ring of Fire is a 40,000 km subduction zone hosting ~452 active and dormant volcanoes."
+  },
+  {
+    "classLevel": 7,
+    "subject": "GK",
+    "chapter": "Chapter 3: World Geography, Continents, Oceans & Famous Global Landmarks",
+    "question": "Which is the SMALLEST sovereign independent country in the world by both area (0.49 sq km) and population, located within the city of Rome, Italy?",
+    "options": [
+      "Vatican City (Holy See)",
+      "Monaco",
+      "Nauru",
+      "San Marino"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "Vatican City is a walled sovereign enclave of 49 hectares entirely surrounded by Rome, Italy."
+  },
+  {
+    "classLevel": 7,
+    "subject": "GK",
+    "chapter": "Chapter 3: World Geography, Continents, Oceans & Famous Global Landmarks",
+    "question": "Which is the LARGEST country in the world by geographical land area, spanning 11 time zones across Europe and Asia?",
+    "options": [
+      "Russia (17.1 million sq km)",
+      "Canada",
+      "China",
+      "United States"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "The Russian Federation covers 17,098,246 km², spanning across Eastern Europe and Northern Asia."
+  },
+  {
+    "classLevel": 7,
+    "subject": "GK",
+    "chapter": "Chapter 3: World Geography, Continents, Oceans & Famous Global Landmarks",
+    "question": "In which country is the iconic ancient rock-cut archaeological city of 'Petra' (carved into vibrant pink sandstone cliffs) located?",
+    "options": [
+      "Jordan",
+      "Egypt",
+      "Iran",
+      "Saudi Arabia"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "Petra (the Rose City) was the Nabataean capital established in southwestern Jordan in the 4th century BCE."
+  },
+  {
+    "classLevel": 7,
+    "subject": "GK",
+    "chapter": "Chapter 3: World Geography, Continents, Oceans & Famous Global Landmarks",
+    "question": "What is the famous strait of water separating the continent of Europe (Spain) from the continent of Africa (Morocco)?",
+    "options": [
+      "Strait of Gibraltar",
+      "Strait of Malacca",
+      "Bering Strait",
+      "Strait of Hormuz"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "The Strait of Gibraltar (13 km wide) links the Atlantic Ocean to the Mediterranean Sea between Spain and Morocco."
+  },
+  {
+    "classLevel": 7,
+    "subject": "GK",
+    "chapter": "Chapter 3: World Geography, Continents, Oceans & Famous Global Landmarks",
+    "question": "Which body of water is known as the 'Dead Sea', situated between Jordan and Israel?",
+    "options": [
+      "A hypersaline endorheic lake (~34% salinity) where people float effortlessly and no fish or aquatic plants can survive",
+      "A freshwater pond with giant sharks",
+      "An ocean without any water",
+      "A boiling hot geyser"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "The Dead Sea (430 m below sea level) has 34.2% salinity, increasing fluid density so humans float buoyantly."
+  },
+  {
+    "classLevel": 7,
+    "subject": "GK",
+    "chapter": "Chapter 3: World Geography, Continents, Oceans & Famous Global Landmarks",
+    "question": "Which country in the world has the LARGEST number of natural lakes (over 60% of all the world's lakes combined)?",
+    "options": [
+      "Canada",
+      "Russia",
+      "Finland",
+      "Sweden"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "Canada contains approximately 879,000 lakes formed by extensive Pleistocene glacial scouring."
+  },
+  {
+    "classLevel": 7,
+    "subject": "GK",
+    "chapter": "Chapter 3: World Geography, Continents, Oceans & Famous Global Landmarks",
+    "question": "Read the statements:\nAssertion (A): The International Date Line (IDL) at approximately 180° longitude does not follow a perfectly straight geometric line but zigzags across the Pacific Ocean.\nReason (R): It deviates to avoid dividing sovereign island nations (such as Kiribati, Fiji, and Aleutian Islands) into two different calendar days simultaneously.\nChoose the correct option:",
+    "options": [
+      "Both (A) and (R) are true, and (R) is the correct explanation of (A).",
+      "Both (A) and (R) are true, but (R) is NOT the correct explanation of (A).",
+      "(A) is true, but (R) is false.",
+      "(A) is false, but (R) is true."
+    ],
+    "correctAnswer": 0,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "The IDL is politically curved around national maritime boundaries to maintain uniform calendar dates within island archipelago jurisdictions."
+  },
+  {
+    "classLevel": 7,
+    "subject": "GK",
+    "chapter": "Chapter 3: World Geography, Continents, Oceans & Famous Global Landmarks",
+    "question": "Spot the IMPOSTER in the following group of World Landforms matched with their Continents:\nGroup:\n1. Mount Kilimanjaro (5,895 m) - Africa (Tanzania)\n2. Mount Aconcagua (6,961 m) - South America (Argentina)\n3. Mount Denali / McKinley (6,190 m) - North America (Alaska)\n4. Mount Elbrus (5,642 m) - Australia",
+    "options": [
+      "Match 1",
+      "Match 2",
+      "Match 3",
+      "Match 4 (Mount Elbrus is in the Caucasus Mountains of EUROPE/Russia ; Mount Kosciuszko is in Australia)"
+    ],
+    "correctAnswer": 3,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "Mount Elbrus (5,642 m) is the highest peak in Europe (Russia); Australia's highest mainland peak is Mount Kosciuszko (2,228 m)."
+  },
+  {
+    "classLevel": 7,
+    "subject": "GK",
+    "chapter": "Chapter 3: World Geography, Continents, Oceans & Famous Global Landmarks",
+    "question": "What is an 'Isthmus' versus a 'Strait' in physical geography?",
+    "options": [
+      "An Isthmus is a narrow strip of LAND connecting two larger landmasses (e.g. Isthmus of Panama) ; a Strait is a narrow body of WATER connecting two larger water bodies (e.g. Strait of Gibraltar)",
+      "An isthmus is made of ice, a strait is made of rock",
+      "A strait is a river in a desert",
+      "Both are identical terms for mountains"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "Isthmus = terrestrial bridge between landmasses; Strait = navigable nautical channel between waterbodies."
+  },
+  {
+    "classLevel": 7,
+    "subject": "GK",
+    "chapter": "Chapter 3: World Geography, Continents, Oceans & Famous Global Landmarks",
+    "question": "Match Column I (Famous Global Landmarks) with Column II (Country / Architectural Feature):\n(a) Taj Mahal         -> (i) White marble mausoleum in Agra, India (Mughal architecture)\n(b) Colosseum         -> (ii) Flavian amphitheatre in Rome, Italy (Roman architecture)\n(c) Chichen Itza      -> (iii) El Castillo step pyramid in Yucatan, Mexico (Maya civilization)\n(d) Christ the Redeemer-> (iv) Art Deco statue atop Corcovado mountain in Rio de Janeiro, Brazil",
+    "options": [
+      "a-(i), b-(ii), c-(iii), d-(iv)",
+      "a-(ii), b-(i), c-(iv), d-(iii)",
+      "a-(iv), b-(iii), c-(ii), d-(i)",
+      "a-(iii), b-(iv), c-(i), d-(ii)"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "Taj Mahal = Mughal marble; Colosseum = Roman arena; Chichen Itza = Maya pyramid; Christ the Redeemer = Rio Art Deco."
+  },
+  {
+    "classLevel": 7,
+    "subject": "GK",
+    "chapter": "Chapter 3: World Geography, Continents, Oceans & Famous Global Landmarks",
+    "question": "Read the statements regarding extreme global geography:\nStatement 1: The Atacama Desert in Chile is the DRIEST non-polar desert in the world, with some weather stations recording zero rainfall for decades.\nStatement 2: The continent of Antarctica contains approximately 70% of the world's freshwater locked in its ice sheet.\nStatement 3: Greenland is a sovereign member of the United Nations independent of Denmark.\nWhich statements are TRUE?",
+    "options": [
+      "Statements 1 and 2 only",
+      "Statements 2 and 3 only",
+      "Statements 1 and 3 only",
+      "All Statements 1, 2, and 3"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "Statement 3 is false because Greenland is an autonomous territory within the Kingdom of Denmark, not a separate UN member state. Statements 1 and 2 are true."
+  },
+  {
+    "classLevel": 7,
+    "subject": "GK",
+    "chapter": "Chapter 3: World Geography, Continents, Oceans & Famous Global Landmarks",
+    "question": "Why is the Mariana Trench so deep, and what geological process formed it?",
+    "options": [
+      "Subduction: the older, denser Pacific tectonic plate is being forced beneath the smaller Mariana plate into the Earth's mantle",
+      "Two continents collided to form a mountain",
+      "A giant meteor impacted the Pacific Ocean",
+      "An underground nuclear explosion"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "Convergent tectonic plate subduction forces heavy oceanic crust into the upper asthenosphere, carving deep bathymetric trenches."
+  },
+  {
+    "classLevel": 7,
+    "subject": "GK",
+    "chapter": "Chapter 3: World Geography, Continents, Oceans & Famous Global Landmarks",
+    "question": "What is the 'Great Rift Valley' of East Africa stretching over 6,000 km from the Red Sea to Mozambique?",
+    "options": [
+      "A divergent geological rift system where the African tectonic plate is actively splitting into two new tectonic plates (Somali and Nubian plates)",
+      "A human-made canal for shipping",
+      "A dried-up ancient riverbed",
+      "A crater formed by a volcanic explosion"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "The East African Rift is an active intra-continental divergent plate boundary driving continental breakup."
+  },
+  {
+    "classLevel": 7,
+    "subject": "GK",
+    "chapter": "Chapter 3: World Geography, Continents, Oceans & Famous Global Landmarks",
+    "question": "Consider four capital cities located along famous global rivers:\n1. London (River Thames)\n2. Paris (River Seine)\n3. Cairo (River Nile)\n4. Baghdad (River Tigris)\nWhat common historical geographical principle explains why all four great capitals were founded along riverbanks?",
+    "options": [
+      "Rivers provided perennial freshwater, fertile alluvial soil, critical inland navigation, and vital trade connectivity for ancient urban civilizations",
+      "Because kings liked swimming competitions",
+      "Because bridges could only be built in cities",
+      "Because stone was only found underwater"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "Riparian urban geography: fluvial corridors provided hydrological security, agrarian surplus, and commercial arterial logistics."
+  },
+  {
+    "classLevel": 7,
+    "subject": "GK",
+    "chapter": "Chapter 3: World Geography, Continents, Oceans & Famous Global Landmarks",
+    "question": "What is the scientific term for an archipelago of coral islands enclosing a central shallow seawater lagoon?",
+    "options": [
+      "Atoll (e.g. Lakshadweep and Maldives)",
+      "Peninsula",
+      "Fjord",
+      "Delta"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "An atoll is a ring-shaped coral reef rim surrounding a lagoon, formed over subsiding volcanic islands (Darwin's theory)."
+  },
+  {
+    "classLevel": 7,
+    "subject": "GK",
+    "chapter": "Chapter 3: World Geography, Continents, Oceans & Famous Global Landmarks",
+    "question": "What is the unique geographical status of the city of ISTANBUL in Turkey?",
+    "options": [
+      "It is the ONLY transcontinental metropolis in the world located simultaneously on TWO continents (Europe and Asia), separated by the Bosphorus Strait",
+      "It is located under the ocean",
+      "It has no land roads",
+      "It is governed by the United Nations directly"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "Istanbul spans the Bosphorus Strait, straddling European Thrace and Asian Anatolia."
+  },
+  {
+    "classLevel": 7,
+    "subject": "GK",
+    "chapter": "Chapter 3: World Geography, Continents, Oceans & Famous Global Landmarks",
+    "question": "What is the 'Sargasso Sea' in the North Atlantic Ocean?",
+    "options": [
+      "The ONLY sea in the world that has NO land boundaries/shores, bounded entirely by four ocean currents forming the North Atlantic Gyre",
+      "A sea of fresh milk",
+      "An underground sea inside a cavern",
+      "A frozen sea in the Sahara Desert"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "The Sargasso Sea is defined exclusively by ocean current gyres (Gulf Stream, North Atlantic Current, Canary Current, North Equatorial Current)."
+  },
+  {
+    "classLevel": 7,
+    "subject": "GK",
+    "chapter": "Chapter 3: World Geography, Continents, Oceans & Famous Global Landmarks",
+    "question": "What profound planetary perspective is revealed through the comprehensive study of World Geography and Landmarks?",
+    "options": [
+      "Earth is a dynamic, interconnected planetary biosphere where physical plate tectonics, atmospheric currents, oceanic gyres, and cultural human civilizations form an interdependent global tapestry",
+      "Continents are fixed and never change over billions of years",
+      "All countries have identical climates and landforms",
+      "Human civilization developed independently of geographic rivers and resources"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "World Geography unifies geomorphic planetary dynamics with anthropogenic cultural adaptations across diverse biomes."
+  }
+]
