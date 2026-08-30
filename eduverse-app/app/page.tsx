@@ -171,42 +171,46 @@ export default function HomePage() {
 
         {/* ── Class Selection & Subject Cards Grid ── */}
         <section className="space-y-6">
-          <div className="flex flex-col sm:flex-row items-center justify-between gap-4">
-            <div>
-              <div className="flex items-center gap-3">
-                <h2 className="text-xl font-bold text-white tracking-tight">Select Your Subject</h2>
-                {isCommerceClass && (
-                  <span className="text-[10px] font-semibold px-3 py-1 rounded-full bg-blue-500/10 text-blue-400 border border-blue-500/20 uppercase tracking-wider">
-                    Commerce Stream
-                  </span>
-                )}
+          <div className="flex flex-col gap-4">
+            <div className="flex flex-col sm:flex-row sm:items-center justify-between gap-3">
+              <div>
+                <div className="flex items-center gap-3">
+                  <h2 className="text-xl font-bold text-white tracking-tight">Select Your Subject</h2>
+                  {isCommerceClass && (
+                    <span className="text-[10px] font-semibold px-3 py-1 rounded-full bg-blue-500/10 text-blue-400 border border-blue-500/20 uppercase tracking-wider">
+                      Commerce Stream
+                    </span>
+                  )}
+                </div>
+                <p className="text-xs font-medium text-slate-500 mt-1">
+                  Click any subject card to configure &amp; start your quiz immediately.
+                </p>
               </div>
-              <p className="text-xs font-medium text-slate-500 mt-1">
-                Click any subject card to configure &amp; start your quiz immediately.
-              </p>
             </div>
 
-            {/* Class Toggle Pills */}
-            <div className="flex items-center gap-1.5 flex-wrap bg-slate-900/80 p-1 rounded-xl border border-slate-800/50">
-              {classes.map((cls) => {
-                const isSelected = selectedClass === cls;
-                return (
-                  <button
-                    key={cls}
-                    id={`class-toggle-${cls.replace(' ', '-').toLowerCase()}`}
-                    onClick={() => setSelectedClass(cls)}
-                    className={`text-xs font-semibold py-2 px-4 rounded-lg transition-all duration-200 cursor-pointer ${
-                      isSelected
-                        ? 'bg-[#00df9a]/10 text-[#00df9a] border border-[#00df9a]/30'
-                        : 'bg-transparent text-slate-400 border border-transparent hover:bg-slate-800 hover:text-slate-200'
-                    }`}
-                    aria-pressed={isSelected}
-                    aria-label={`Filter by ${cls}`}
-                  >
-                    {cls}
-                  </button>
-                );
-              })}
+            {/* Class Toggle Pills — Full-width scrollable row for Class 6–12 */}
+            <div className="w-full overflow-x-auto pb-1">
+              <div className="flex items-center gap-1.5 bg-slate-900/80 p-1 rounded-xl border border-slate-800/50 w-max">
+                {classes.map((cls) => {
+                  const isSelected = selectedClass === cls;
+                  return (
+                    <button
+                      key={cls}
+                      id={`class-toggle-${cls.replace(' ', '-').toLowerCase()}`}
+                      onClick={() => setSelectedClass(cls)}
+                      className={`text-xs font-semibold py-2 px-4 rounded-lg transition-all duration-200 cursor-pointer whitespace-nowrap ${
+                        isSelected
+                          ? 'bg-[#00df9a]/10 text-[#00df9a] border border-[#00df9a]/30'
+                          : 'bg-transparent text-slate-400 border border-transparent hover:bg-slate-800 hover:text-slate-200'
+                      }`}
+                      aria-pressed={isSelected}
+                      aria-label={`Filter by ${cls}`}
+                    >
+                      {cls}
+                    </button>
+                  );
+                })}
+              </div>
             </div>
           </div>
 
