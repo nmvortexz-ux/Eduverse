@@ -1,0 +1,3842 @@
+[
+  {
+    "classLevel": 6,
+    "subject": "Science",
+    "chapter": "Chapter 1: Components of Food",
+    "question": "Which chemical reagent turns blue-black in the presence of starch?",
+    "options": [
+      "Dilute iodine solution",
+      "Copper sulphate solution",
+      "Caustic soda",
+      "Ethanol"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "Dilute iodine solution reacts with starch (a carbohydrate) to produce a characteristic deep blue-black complex."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Science",
+    "chapter": "Chapter 1: Components of Food",
+    "question": "Which food component is primarily tested using Copper Sulphate and Caustic Soda solutions?",
+    "options": [
+      "Fats",
+      "Proteins",
+      "Starch",
+      "Dietary fibres"
+    ],
+    "correctAnswer": 1,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "Biuret test for proteins uses 2 drops of copper sulphate and 10 drops of caustic soda (NaOH), turning the solution violet."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Science",
+    "chapter": "Chapter 1: Components of Food",
+    "question": "An oily, translucent patch left on a piece of paper after crushing a food item indicates the presence of:",
+    "options": [
+      "Proteins",
+      "Fats",
+      "Carbohydrates",
+      "Minerals"
+    ],
+    "correctAnswer": 1,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "Lipids and fats leave a greasy, translucent mark on paper that permits light to pass through weakly."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Science",
+    "chapter": "Chapter 1: Components of Food",
+    "question": "Which nutrient group provides the maximum energy per gram to our body?",
+    "options": [
+      "Carbohydrates",
+      "Fats",
+      "Proteins",
+      "Vitamins"
+    ],
+    "correctAnswer": 1,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "Fats yield more than twice the metabolic energy (~9 kcal/g) compared to carbohydrates or proteins (~4 kcal/g)."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Science",
+    "chapter": "Chapter 1: Components of Food",
+    "question": "Which nutrients are commonly known as 'body-building foods'?",
+    "options": [
+      "Carbohydrates",
+      "Proteins",
+      "Vitamins",
+      "Fats"
+    ],
+    "correctAnswer": 1,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "Proteins are required for the structural growth, cellular maintenance, and repair of damaged body tissues."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Science",
+    "chapter": "Chapter 1: Components of Food",
+    "question": "Which vitamin keeps our eyes, hair, and skin healthy and is abundant in carrots and papayas?",
+    "options": [
+      "Vitamin A",
+      "Vitamin C",
+      "Vitamin D",
+      "Vitamin K"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "Vitamin A (Retinol) is essential for maintaining rhodopsin in the retina, promoting clear vision and healthy epithelial tissues."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Science",
+    "chapter": "Chapter 1: Components of Food",
+    "question": "Which vitamin is easily destroyed by excessive heat during cooking?",
+    "options": [
+      "Vitamin A",
+      "Vitamin B1",
+      "Vitamin C",
+      "Vitamin D"
+    ],
+    "correctAnswer": 2,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "Ascorbic acid (Vitamin C) is thermolabile and oxidizes rapidly when subjected to thermal cooking."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Science",
+    "chapter": "Chapter 1: Components of Food",
+    "question": "Dietary fibres present in whole grains, pulses, and fresh vegetables are also referred to as:",
+    "options": [
+      "Roughage",
+      "Starch",
+      "Amino acids",
+      "Enzymes"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "Roughage comprises indigestible plant cellulose that adds bulk to digestive waste, preventing constipation."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Science",
+    "chapter": "Chapter 1: Components of Food",
+    "question": "Which deficiency disease is caused by a severe lack of Vitamin C in the diet?",
+    "options": [
+      "Beri-beri",
+      "Scurvy",
+      "Rickets",
+      "Night blindness"
+    ],
+    "correctAnswer": 1,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "Scurvy results from Vitamin C deficiency, causing bleeding gums, fragile capillary walls, and delayed wound healing."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Science",
+    "chapter": "Chapter 1: Components of Food",
+    "question": "Which mineral is required for the formation of red haemoglobin in our blood?",
+    "options": [
+      "Calcium",
+      "Iron",
+      "Iodine",
+      "Sodium"
+    ],
+    "correctAnswer": 1,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "Iron forms the core coordination ion of haemoglobin molecules responsible for transporting oxygen in red blood cells."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Science",
+    "chapter": "Chapter 1: Components of Food",
+    "question": "Enlargement of the thyroid gland in the neck region (Goitre) is caused by the deficiency of:",
+    "options": [
+      "Iron",
+      "Calcium",
+      "Iodine",
+      "Phosphorus"
+    ],
+    "correctAnswer": 2,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "Iodine is required to synthesize thyroxine hormone; its deficiency leads to compensatory thyroid hypertrophy (Goitre)."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Science",
+    "chapter": "Chapter 1: Components of Food",
+    "question": "Which vitamin is synthesized naturally by our skin when exposed to morning sunlight?",
+    "options": [
+      "Vitamin A",
+      "Vitamin B",
+      "Vitamin C",
+      "Vitamin D"
+    ],
+    "correctAnswer": 3,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "Photochemical reaction in the dermal layers under ultraviolet sunlight converts 7-dehydrocholesterol into Vitamin D."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Science",
+    "chapter": "Chapter 1: Components of Food",
+    "question": "Why should we avoid repeatedly washing raw rice and pulses with large amounts of water before cooking?",
+    "options": [
+      "It dissolves water-soluble vitamins (like Vitamin B complex and C) and minerals, washing them away",
+      "It converts carbohydrates into harmful toxins",
+      "It increases fat content",
+      "It prevents food from getting cooked"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "Frequent vigorous washing leaches out water-soluble micronutrients like thiamine, niacin, and essential minerals."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Science",
+    "chapter": "Chapter 1: Components of Food",
+    "question": "What physical symptoms are exhibited by a child suffering from Kwashiorkor (protein deficiency)?",
+    "options": [
+      "Swollen swollen belly (pot belly), discoloured hair, stunted growth, and skin diseases",
+      "Extremely soft bones bending into bow legs",
+      "Bleeding gums and loose teeth",
+      "Inability to see in low light"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "Severe protein malnutrition leads to hypoalbuminemia causing abdominal edema (pot belly) and depigmented hair."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Science",
+    "chapter": "Chapter 1: Components of Food",
+    "question": "A diet containing excessive fat-rich fried foods, samosas, and sweets over long periods can lead to a condition called:",
+    "options": [
+      "Anemia",
+      "Obesity",
+      "Marasmus",
+      "Goitre"
+    ],
+    "correctAnswer": 1,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "Unburned surplus dietary calories from saturated fats get stored as adipose tissue, resulting in clinical obesity."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Science",
+    "chapter": "Chapter 1: Components of Food",
+    "question": "Why does our body need roughage (dietary fibre) even though it provides zero energy and no nutrients?",
+    "options": [
+      "It adds bulk to the food, aids normal peristalsis, and helps our body expel undigested waste smoothly",
+      "It fights bacterial infections directly",
+      "It builds muscular tissues",
+      "It produces red blood cells"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "Cellulose fibres stimulate intestinal peristaltic contractions, facilitating efficient transit of fecal bolus."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Science",
+    "chapter": "Chapter 1: Components of Food",
+    "question": "Which mineral works in synergy with Vitamin D to maintain mineralized bone density and strong enamel on teeth?",
+    "options": [
+      "Iron",
+      "Calcium and Phosphorus",
+      "Sodium",
+      "Potassium"
+    ],
+    "correctAnswer": 1,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "Hydroxyapatite crystals of bones and teeth are composed primarily of calcium phosphate complexes."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Science",
+    "chapter": "Chapter 1: Components of Food",
+    "question": "What happens during a severe deficiency of Vitamin B1 (Thiamine)?",
+    "options": [
+      "Beri-beri with weak muscles and very little physical energy to work",
+      "Soft bones and bowed legs",
+      "Swollen neck gland",
+      "Pale skin and dizziness"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "Thiamine deficiency impairs carbohydrate metabolism and neurological signaling, causing peripheral neuromuscular weakness (Beri-beri)."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Science",
+    "chapter": "Chapter 1: Components of Food",
+    "question": "Why is drinking 2 to 3 litres of clean water every day essential for human physiological health?",
+    "options": [
+      "Water absorbs nutrients from food into the bloodstream and helps excrete metabolic wastes as urine and sweat",
+      "Water replaces the need for carbohydrates",
+      "Water generates body heat during cold weather",
+      "Water provides dietary vitamins"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "Water serves as the biological universal solvent, regulating thermoregulation and renal clearance of toxins."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Science",
+    "chapter": "Chapter 1: Components of Food",
+    "question": "Which symptom specifically characterizes Rickets in growing children?",
+    "options": [
+      "Bones become soft, fragile, and bend into bow legs or knock knees",
+      "Impaired twilight vision",
+      "Bleeding from gums upon brushing",
+      "Enlarged neck thyroid gland"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "Lack of Vitamin D impairs calcium absorption, leading to defective osteoid mineralization that deforms weight-bearing leg bones."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Science",
+    "chapter": "Chapter 1: Components of Food",
+    "question": "Which of the following foods is the richest source of animal protein containing all essential amino acids?",
+    "options": [
+      "Eggs, fish, and milk",
+      "Polished white rice",
+      "Mustard oil",
+      "Raw sugar"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "Animal proteins like ovalbumin in eggs and casein in milk provide high biological value complete amino acid profiles."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Science",
+    "chapter": "Chapter 1: Components of Food",
+    "question": "Why do athletes and physical labourers require higher amounts of carbohydrate-rich foods compared to sedentary desk workers?",
+    "options": [
+      "Carbohydrates are rapidly broken down into glucose, providing immediate ATP energy for strenuous muscular contractions",
+      "Carbohydrates repair broken bone joints",
+      "Carbohydrates prevent night blindness",
+      "Carbohydrates cool down muscle temperature"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "Glycolysis of carbohydrate substrates provides the fastest fuel pathway for high-output skeletal muscle work."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Science",
+    "chapter": "Chapter 1: Components of Food",
+    "question": "Which pair of food items is predominantly rich in starch?",
+    "options": [
+      "Boiled potato and boiled rice",
+      "Mustard oil and butter",
+      "Egg white and fish",
+      "Spinach and lemon juice"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "Tubers (potatoes) and cereal grains (rice) store excess photosynthetic energy primarily in the form of amylose/amylopectin starch granules."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Science",
+    "chapter": "Chapter 1: Components of Food",
+    "question": "What is a 'Balanced Diet'?",
+    "options": [
+      "A diet providing all essential nutrients in proper proportions, along with adequate roughage and water for optimal health",
+      "A diet composed only of fruits and green salad",
+      "A diet containing equal weights of butter and sugar",
+      "A meal eaten only once every 24 hours"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "A balanced diet supplies macro and micronutrients in physiological proportions to sustain metabolic requirements without deficits."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Science",
+    "chapter": "Chapter 1: Components of Food",
+    "question": "Why does the government mandate the iodization of common edible table salt (NaCl)?",
+    "options": [
+      "To ensure regular microscopic intake of iodine across all populations to prevent goitre and mental impairment in children",
+      "To make table salt white in color",
+      "To prevent table salt from absorbing moisture",
+      "To improve salt sweetness"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "Universal salt iodization with potassium iodate is an effective public health intervention preventing iodine deficiency disorders (IDD)."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Science",
+    "chapter": "Chapter 1: Components of Food",
+    "question": "Which symptom indicates a clinical deficiency of Iron (Anemia)?",
+    "options": [
+      "General fatigue, physical weakness, pale skin, shortness of breath, and reduced stamina",
+      "Spongy and bleeding gums",
+      "Night blindness and dry corneas",
+      "Bent leg bones"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "Decreased erythrocyte haemoglobin reduces systemic tissue oxygenation, causing chronic fatigue and pallor (Anemia)."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Science",
+    "chapter": "Chapter 1: Components of Food",
+    "question": "Which of the following citrus fruits provides the highest concentration of natural Vitamin C?",
+    "options": [
+      "Amla (Indian gooseberry) and Lemon",
+      "Dry almond nuts",
+      "Boiled wheat grain",
+      "Clarified butter (Ghee)"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "Amla is one of the richest botanical sources of ascorbic acid, packing up to 600 mg of Vitamin C per 100 g."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Science",
+    "chapter": "Chapter 1: Components of Food",
+    "question": "Why is deep-frying vegetables at high temperatures considered nutritionally detrimental?",
+    "options": [
+      "High heat oxidizes and destroys delicate vitamins while loading the food with unhealthy oxidized fats",
+      "It turns starch into stone",
+      "It removes all water and makes food heavy",
+      "It freezes minerals"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "Prolonged thermal stress degrades heat-sensitive vitamins (C, B-complex) and generates free fatty acid radicals."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Science",
+    "chapter": "Chapter 1: Components of Food",
+    "question": "Read the statements:\nAssertion (A): Boiling peeled vegetables in excess water and discarding the broth causes major nutritional loss.\nReason (R): Water-soluble vitamins like Vitamin C and Vitamin B-complex leach into the boiling water and are discarded.\nChoose the correct option:",
+    "options": [
+      "Both (A) and (R) are true, and (R) is the correct explanation of (A).",
+      "Both (A) and (R) are true, but (R) is NOT the correct explanation of (A).",
+      "(A) is true, but (R) is false.",
+      "(A) is false, but (R) is true."
+    ],
+    "correctAnswer": 0,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "Water-soluble vitamins dissolve readily into cooking water; throwing away the boiling broth removes these vital micronutrients."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Science",
+    "chapter": "Chapter 1: Components of Food",
+    "question": "Spot the IMPOSTER in the following group of micronutrient deficiency diseases:\nGroup: [Scurvy, Beri-beri, Rickets, Kwashiorkor]",
+    "options": [
+      "Scurvy",
+      "Beri-beri",
+      "Rickets",
+      "Kwashiorkor"
+    ],
+    "correctAnswer": 3,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "Kwashiorkor is a MACRONUTRIENT deficiency disease (severe protein deficiency), whereas Scurvy (Vit C), Beri-beri (Vit B1), and Rickets (Vit D) are VITAMIN (micronutrient) deficiencies."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Science",
+    "chapter": "Chapter 1: Components of Food",
+    "question": "A student performs three biochemical tests on a food extract 'X':\n1. Iodine Test: No color change (remains brown)\n2. Biuret Test: Turns brilliant violet\n3. Paper Grease Test: No translucent patch\nWhat is the predominant nutrient present in food 'X'?",
+    "options": [
+      "Proteins",
+      "Starch",
+      "Fats",
+      "Dietary fibres only"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "Positive Biuret reaction (violet color) confirms peptide bonds of proteins, while negative iodine and paper tests exclude starch and lipids."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Science",
+    "chapter": "Chapter 1: Components of Food",
+    "question": "A child from an economically disadvantaged family consumes only plain white rice without pulses, vegetables, or dairy for over a year. Which dual condition is this child at greatest risk of developing?",
+    "options": [
+      "Marasmus (Protein-Calorie Malnutrition) along with multiple Vitamin & Mineral deficiencies",
+      "Clinical obesity and high stamina",
+      "Excessive bone hardening",
+      "Hyperthyroidism"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "Monotonous carbohydrate diets lacking proteins, micronutrients, and lipids lead to progressive wasting and growth arrest (Marasmus)."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Science",
+    "chapter": "Chapter 1: Components of Food",
+    "question": "Match Column I with Column II:\n(a) Vitamin A  -> (i) Bleeding gums\n(b) Vitamin B1 -> (ii) Rickets (bowed bones)\n(c) Vitamin C  -> (iii) Poor vision in dim light\n(d) Vitamin D  -> (iv) Beri-beri (weak muscles)",
+    "options": [
+      "a-(iii), b-(iv), c-(i), d-(ii)",
+      "a-(i), b-(ii), c-(iii), d-(iv)",
+      "a-(iv), b-(iii), c-(ii), d-(i)",
+      "a-(ii), b-(i), c-(iv), d-(iii)"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "Vit A deficiency causes nyctalopia; Vit B1 causes Beri-beri; Vit C causes Scurvy; Vit D causes Rickets."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Science",
+    "chapter": "Chapter 1: Components of Food",
+    "question": "Read the statements:\nAssertion (A): Consuming only fat-rich food like samosas and malai is NOT healthier than eating carbohydrates, even though fats yield more energy.\nReason (R): The body requires a broad balance of amino acids, complex fibres, and micronutrients; excessive fats trigger cardiovascular strain and obesity without supplying complete nutrition.\nChoose the correct option:",
+    "options": [
+      "Both (A) and (R) are true, and (R) is the correct explanation of (A).",
+      "Both (A) and (R) are true, but (R) is NOT the correct explanation of (A).",
+      "(A) is true, but (R) is false.",
+      "(A) is false, but (R) is true."
+    ],
+    "correctAnswer": 0,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "Metabolic health requires diverse macro/micronutrients. Excess lipid intake without micronutrients causes obesity and atherogenesis."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Science",
+    "chapter": "Chapter 1: Components of Food",
+    "question": "Consider four food items:\n- Food 1: Groundnut seed paste\n- Food 2: Boiled egg yolk\n- Food 3: Butter\n- Food 4: Cucumber slice\nWhich food item will produce the WEAKEST or NO translucent grease spot on filter paper?",
+    "options": [
+      "Food 4 (Cucumber slice)",
+      "Food 1 (Groundnut)",
+      "Food 2 (Egg yolk)",
+      "Food 3 (Butter)"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "Cucumber consists of >95% water and fibres with near-zero lipids, leaving no permanent greasy translucent lipid stain upon drying."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Science",
+    "chapter": "Chapter 1: Components of Food",
+    "question": "Why do sailors on ancient long-distance wooden ships historically suffer from loose teeth, joint pain, and bleeding skin lesions after months at sea?",
+    "options": [
+      "Absence of fresh fruits and green vegetables on long voyages resulted in severe nutritional Scurvy (Vitamin C depletion)",
+      "Excessive ocean salt in drinking water",
+      "Lack of carbohydrate energy",
+      "Infection from sea fish"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "Non-perishable ship rations (hardtack, salted meat) lacked fresh produce, inducing severe scorbutic collagen breakdown (James Lind's trials)."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Science",
+    "chapter": "Chapter 1: Components of Food",
+    "question": "Read the statements:\nStatement 1: Milk is a complete food source containing proteins, fats, carbohydrates, and minerals like calcium, but lacks Vitamin C and Iron.\nStatement 2: Dietary fibres (roughage) are digested by human stomach enzymes into simple sugars.\nStatement 3: Iodine deficiency in pregnant mothers can cause mental disability in the newborn child.\nWhich statements are TRUE?",
+    "options": [
+      "Statements 1 and 3 only",
+      "Statements 2 and 3 only",
+      "Statements 1 and 2 only",
+      "All Statements 1, 2, and 3"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "Statement 2 is false because humans lack cellulase enzymes to digest dietary cellulose. Statements 1 and 3 are correct."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Science",
+    "chapter": "Chapter 1: Components of Food",
+    "question": "A student adds 2 drops of Copper Sulphate and 10 drops of Caustic Soda to a test tube containing crushed soybean powder mixed with water. What sequence of physical observations confirms protein presence?",
+    "options": [
+      "The white suspension turns distinct violet/purple after shaking and standing for a few minutes",
+      "The solution immediately turns deep blue-black",
+      "The test tube gets freezing cold with gas bubbles",
+      "A yellow precipitate settles down"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "Biuret test: Cu2+ ions coordinate with unprotonated peptide nitrogen atoms in alkaline conditions, forming a violet chelate."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Science",
+    "chapter": "Chapter 1: Components of Food",
+    "question": "Why are sprouted seeds (like sprouted moong and chana) significantly more nutritious than raw dry seeds?",
+    "options": [
+      "Sprouting triggers enzymatic synthesis of vitamins (especially Vitamin C and B-complex) and converts complex starches into easily digestible nutrients",
+      "Sprouting multiplies fat percentage by 100 times",
+      "Sprouting removes all water content",
+      "Sprouted seeds become mineral stones"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "Germination activates endogenous hydrolytic enzymes, deactivating anti-nutrients (phytates) and bio-synthesizing vitamins and bioactive peptides."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Science",
+    "chapter": "Chapter 1: Components of Food",
+    "question": "In an experiment, four students eat different single-item diets for breakfast:\n- Student A: 2 Boiled Eggs\n- Student B: 2 Sweet Potatoes\n- Student C: 50g Pure Butter\n- Student D: 1 Large Apple\nWhich student consumed the highest amount of STARCH?",
+    "options": [
+      "Student B (Sweet Potatoes)",
+      "Student A (Eggs)",
+      "Student C (Butter)",
+      "Student D (Apple)"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "Sweet potatoes store complex plant carbohydrates (starch), whereas eggs are protein-rich, butter is pure lipid, and apples contain fructose."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Mathematics",
+    "chapter": "Chapter 1: Knowing Our Numbers",
+    "question": "What is the greatest 4-digit number using the digits 7, 3, 9, and 1 without repetition?",
+    "options": [
+      "9731",
+      "9713",
+      "9371",
+      "7931"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "Arranging digits in descending order (9 > 7 > 3 > 1) yields the largest possible numeral: 9731."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Mathematics",
+    "chapter": "Chapter 1: Knowing Our Numbers",
+    "question": "What is the smallest 4-digit number using the digits 5, 0, 8, and 2 without repetition?",
+    "options": [
+      "2058",
+      "0258",
+      "2508",
+      "5028"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "A 4-digit number cannot start with 0; hence place the smallest non-zero digit (2) first, followed by 0, 5, 8 giving 2058."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Mathematics",
+    "chapter": "Chapter 1: Knowing Our Numbers",
+    "question": "How many thousands make 1 Lakh in the Indian System of Numeration?",
+    "options": [
+      "100 thousands",
+      "10 thousands",
+      "1000 thousands",
+      "10000 thousands"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "1 Lakh = 1,00,000 = 100 × 1,000 (100 thousands)."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Mathematics",
+    "chapter": "Chapter 1: Knowing Our Numbers",
+    "question": "How many millions make 1 Crore in the International/Indian place value conversion?",
+    "options": [
+      "10 Millions",
+      "1 Million",
+      "100 Millions",
+      "1000 Millions"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "1 Crore = 1,00,00,000 = 10,000,000 = 10 Millions."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Mathematics",
+    "chapter": "Chapter 1: Knowing Our Numbers",
+    "question": "What is the Roman numeral for 50?",
+    "options": [
+      "L",
+      "C",
+      "D",
+      "X"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "In standard Roman numeration: I=1, V=5, X=10, L=50, C=100, D=500, M=1000."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Mathematics",
+    "chapter": "Chapter 1: Knowing Our Numbers",
+    "question": "What is the Roman numeral for 100?",
+    "options": [
+      "C",
+      "L",
+      "M",
+      "D"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "C represents 100 in the Roman numeral system (from Latin 'Centum')."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Mathematics",
+    "chapter": "Chapter 1: Knowing Our Numbers",
+    "question": "Which Roman numeral symbol can NEVER be repeated or subtracted from larger numerals?",
+    "options": [
+      "V, L, and D",
+      "I, X, and C",
+      "X and M",
+      "I only"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "The symbols V (5), L (50), and D (500) are never written more than once in succession and are never subtracted."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Mathematics",
+    "chapter": "Chapter 1: Knowing Our Numbers",
+    "question": "Round off 75,847 to the nearest tens place:",
+    "options": [
+      "75,850",
+      "75,840",
+      "75,800",
+      "75,900"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "The units digit is 7 (≥ 5), so round the tens digit up from 4 to 5, yielding 75,850."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Mathematics",
+    "chapter": "Chapter 1: Knowing Our Numbers",
+    "question": "How many milligrams (mg) are there in 1 kilogram (kg)?",
+    "options": [
+      "10,00,000 mg (1 million mg)",
+      "10,000 mg",
+      "1,000 mg",
+      "1,00,000 mg"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "1 kg = 1,000 grams; 1 gram = 1,000 mg; therefore 1 kg = 1,000 × 1,000 = 1,000,000 milligrams."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Mathematics",
+    "chapter": "Chapter 1: Knowing Our Numbers",
+    "question": "How many millilitres (mL) make 1 Litre?",
+    "options": [
+      "1000 mL",
+      "100 mL",
+      "10000 mL",
+      "10 mL"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "The metric prefix 'milli' denotes one-thousandth (1/1000); hence 1 L = 1000 mL."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Mathematics",
+    "chapter": "Chapter 1: Knowing Our Numbers",
+    "question": "Write 98 in Roman numerals:",
+    "options": [
+      "XCVIII",
+      "IC",
+      "LXXXXVIII",
+      "VCIII"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "98 = 90 + 8 = (100 - 10) + (5 + 3) = XC + VIII = XCVIII. Note: 'I' cannot be subtracted from C directly."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Mathematics",
+    "chapter": "Chapter 1: Knowing Our Numbers",
+    "question": "In the Indian System of Numeration, where are commas placed in the numeral 50801592?",
+    "options": [
+      "5,08,01,592",
+      "50,801,592",
+      "508,01,592",
+      "5,080,15,92"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "In Indian numeration, commas mark: 3 digits from right (hundreds), then groups of 2 digits (thousands, lakhs, crores): 5,08,01,592."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Mathematics",
+    "chapter": "Chapter 1: Knowing Our Numbers",
+    "question": "Find the difference between the greatest and the least 5-digit numbers that can be formed using the digits 6, 2, 7, 4, 3 each only once:",
+    "options": [
+      "52,965",
+      "53,865",
+      "51,965",
+      "52,865"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "Greatest = 76,432. Smallest = 23,467. Difference = 76,432 - 23,467 = 52,965."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Mathematics",
+    "chapter": "Chapter 1: Knowing Our Numbers",
+    "question": "A machine on an average manufactures 2,825 screws a day. How many screws did it produce in the month of January 2024?",
+    "options": [
+      "87,575 screws",
+      "84,750 screws",
+      "81,925 screws",
+      "88,000 screws"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "January has 31 days. Total screws = 2,825 × 31 = 87,575 screws."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Mathematics",
+    "chapter": "Chapter 1: Knowing Our Numbers",
+    "question": "A vessel has 4 litres and 500 mL of curd. In how many glasses, each of 25 mL capacity, can it be filled?",
+    "options": [
+      "180 glasses",
+      "150 glasses",
+      "200 glasses",
+      "225 glasses"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "Total capacity = 4,500 mL. Number of glasses = 4,500 ÷ 25 = 180 glasses."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Mathematics",
+    "chapter": "Chapter 1: Knowing Our Numbers",
+    "question": "Estimate the product 578 × 161 by rounding off each factor to its greatest place:",
+    "options": [
+      "1,20,000",
+      "1,00,000",
+      "90,000",
+      "1,15,000"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "578 rounds to 600 (hundreds place); 161 rounds to 200 (hundreds place). Estimated product = 600 × 200 = 1,20,000."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Mathematics",
+    "chapter": "Chapter 1: Knowing Our Numbers",
+    "question": "To stitch a shirt, 2 m 15 cm cloth is needed. Out of 40 m cloth, how many shirts can be stitched and how much cloth will remain?",
+    "options": [
+      "18 shirts, 1 m 30 cm remaining",
+      "19 shirts, 50 cm remaining",
+      "17 shirts, 2 m remaining",
+      "18 shirts, 2 m remaining"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "Cloth per shirt = 215 cm. Total cloth = 4,000 cm. 4000 ÷ 215 = 18 shirts with remainder 130 cm = 1 m 30 cm."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Mathematics",
+    "chapter": "Chapter 1: Knowing Our Numbers",
+    "question": "What is the Hindu-Arabic numeral value of the Roman expression LXXIX + XLIV?",
+    "options": [
+      "123",
+      "113",
+      "133",
+      "125"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "LXXIX = 70 + 9 = 79. XLIV = 40 + 4 = 44. Sum = 79 + 44 = 123 (CXXIII)."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Mathematics",
+    "chapter": "Chapter 1: Knowing Our Numbers",
+    "question": "A merchant had ₹ 78,592 with her. She placed an order for purchasing 40 radio sets at ₹ 1,200 each. How much money will remain with her after the purchase?",
+    "options": [
+      "₹ 30,592",
+      "₹ 28,592",
+      "₹ 32,592",
+      "₹ 48,000"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "Cost of 40 radios = 40 × 1,200 = ₹ 48,000. Remaining balance = 78,592 - 48,000 = ₹ 30,592."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Mathematics",
+    "chapter": "Chapter 1: Knowing Our Numbers",
+    "question": "In the numeral 7,89,34,521, what is the place value and face value of the digit 8?",
+    "options": [
+      "Place value = 80,00,000 (Eighty Lakhs); Face value = 8",
+      "Place value = 8,00,000; Face value = 80",
+      "Place value = 80,000; Face value = 8",
+      "Place value = 8 Crores; Face value = 8"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "The digit 8 occupies the Ten Lakhs place; its place value is 8 × 10,00,000 = 80,00,000 while its face value is the digit itself (8)."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Mathematics",
+    "chapter": "Chapter 1: Knowing Our Numbers",
+    "question": "Estimate the sum 5,290 + 17,986 by rounding off to the nearest thousands:",
+    "options": [
+      "23,000",
+      "22,000",
+      "24,000",
+      "23,200"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "5,290 rounds to 5,000; 17,986 rounds to 18,000. Sum = 5,000 + 18,000 = 23,000."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Mathematics",
+    "chapter": "Chapter 1: Knowing Our Numbers",
+    "question": "Write 7,452 in expanded form:",
+    "options": [
+      "7 × 1000 + 4 × 100 + 5 × 10 + 2 × 1",
+      "7 × 10000 + 4 × 1000 + 5 × 100 + 2 × 10",
+      "7000 + 400 + 50 + 20",
+      "7 × 100 + 4 × 10 + 5 × 1 + 2"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "Expanded form represents the sum of the products of each digit with its corresponding place value."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Mathematics",
+    "chapter": "Chapter 1: Knowing Our Numbers",
+    "question": "A medicine box contains 2,00,000 tablets each weighing 20 mg. What is the total weight of all tablets in grams and in kilograms?",
+    "options": [
+      "4,000 grams = 4 kg",
+      "40,000 grams = 40 kg",
+      "400 grams = 0.4 kg",
+      "400,000 grams = 400 kg"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "Total weight = 200,000 × 20 mg = 4,000,000 mg = 4,000,000 ÷ 1,000 g = 4,000 g = 4 kg."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Mathematics",
+    "chapter": "Chapter 1: Knowing Our Numbers",
+    "question": "The distance between a school and a student's house is 1 km 875 m. Every day she walks both ways. Find the total distance covered by her in 6 days.",
+    "options": [
+      "22 km 500 m",
+      "20 km 250 m",
+      "21 km 750 m",
+      "24 km"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "Daily round trip = 2 × 1,875 m = 3,750 m. 6 days = 6 × 3,750 m = 22,500 m = 22 km 500 m."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Mathematics",
+    "chapter": "Chapter 1: Knowing Our Numbers",
+    "question": "How is the number 85,420,109 read in the International Number System?",
+    "options": [
+      "Eighty-five million four hundred twenty thousand one hundred nine",
+      "Eight crore fifty-four lakh twenty thousand one hundred nine",
+      "Eight hundred fifty-four thousand one hundred nine",
+      "Eight billion five hundred million"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "International periods group into Millions (85), Thousands (420), and Units (109)."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Mathematics",
+    "chapter": "Chapter 1: Knowing Our Numbers",
+    "question": "What is the Roman numeral for 69?",
+    "options": [
+      "LXIX",
+      "ILXX",
+      "LXXI",
+      "XXXXXXIX"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "69 = 60 + 9 = (50 + 10) + (10 - 1) = LX + IX = LXIX."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Mathematics",
+    "chapter": "Chapter 1: Knowing Our Numbers",
+    "question": "Which of the following Roman numeral representations is INVALID according to NCERT rules?",
+    "options": [
+      "VV",
+      "XV",
+      "LV",
+      "LX"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "'V' (5) is never repeated; 10 is represented by 'X', not 'VV'."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Mathematics",
+    "chapter": "Chapter 1: Knowing Our Numbers",
+    "question": "Find the difference between the place values of two 7s in the number 57,34,725:",
+    "options": [
+      "6,99,300",
+      "7,00,000",
+      "6,93,000",
+      "7,00,700"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "First 7 is at Ten Lakhs place (7,00,000); second 7 is at Hundreds place (700). Difference = 7,00,000 - 700 = 6,99,300."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Mathematics",
+    "chapter": "Chapter 1: Knowing Our Numbers",
+    "question": "Read the statements:\nAssertion (A): The Roman numeral CDXLIV represents 444 in the Hindu-Arabic system.\nReason (R): CD = (500 - 100) = 400, XL = (50 - 10) = 40, and IV = (5 - 1) = 4, so 400 + 40 + 4 = 444.\nChoose the correct option:",
+    "options": [
+      "Both (A) and (R) are true, and (R) is the correct explanation of (A).",
+      "Both (A) and (R) are true, but (R) is NOT the correct explanation of (A).",
+      "(A) is true, but (R) is false.",
+      "(A) is false, but (R) is true."
+    ],
+    "correctAnswer": 0,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "CDXLIV decomposes strictly as CD (400) + XL (40) + IV (4) = 444."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Mathematics",
+    "chapter": "Chapter 1: Knowing Our Numbers",
+    "question": "Spot the IMPOSTER in the following list of Roman Numeral expressions that violates standard mathematical rules:\nGroup: [XCVI, CDX, IC, MCM]",
+    "options": [
+      "XCVI",
+      "CDX",
+      "IC",
+      "MCM"
+    ],
+    "correctAnswer": 2,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "'IC' is invalid; the symbol 'I' can ONLY be subtracted from 'V' and 'X', never from 'L', 'C', 'D', or 'M'. 99 is written as XCIX."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Mathematics",
+    "chapter": "Chapter 1: Knowing Our Numbers",
+    "question": "A student multiplied 7,236 by 65 instead of multiplying by 56. By how much was his answer greater than the correct answer?",
+    "options": [
+      "65,124",
+      "58,344",
+      "72,360",
+      "64,124"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "Difference = 7,236 × (65 - 56) = 7,236 × 9 = 65,124."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Mathematics",
+    "chapter": "Chapter 1: Knowing Our Numbers",
+    "question": "How many total 7-digit numbers exist in all of mathematics?",
+    "options": [
+      "90,00,000 (90 Lakhs)",
+      "99,99,999",
+      "10,00,000",
+      "9,00,000"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "Largest 7-digit number = 99,99,999; Smallest 7-digit number = 10,00,000. Total = (99,99,999 - 10,00,000) + 1 = 90,00,000."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Mathematics",
+    "chapter": "Chapter 1: Knowing Our Numbers",
+    "question": "What is the difference between the successor of the greatest 6-digit number and the predecessor of the smallest 5-digit number?",
+    "options": [
+      "9,90,002",
+      "9,90,001",
+      "10,00,001",
+      "9,89,999"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "Greatest 6-digit number = 999,999 → Successor = 1,000,000. Smallest 5-digit number = 10,000 → Predecessor = 9,999. Difference = 1,000,000 - 9,999 = 9,90,001 (Correction: 1000000 - 9999 = 990001)."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Mathematics",
+    "chapter": "Chapter 1: Knowing Our Numbers",
+    "question": "Estimate the quotient 4,498 ÷ 48 using appropriate general rounding rules:",
+    "options": [
+      "90",
+      "100",
+      "80",
+      "110"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "4,498 rounds to 4,500; 48 rounds to 50. 4,500 ÷ 50 = 90."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Mathematics",
+    "chapter": "Chapter 1: Knowing Our Numbers",
+    "question": "Read the statements:\nStatement 1: 1 Billion = 100 Crores in the Indian system.\nStatement 2: The symbol 'X' can be subtracted from 'L' and 'C' only.\nStatement 3: 1 Kilolitre = 1,000,000 mL.\nWhich statements are TRUE?",
+    "options": [
+      "All Statements 1, 2, and 3",
+      "Statements 1 and 2 only",
+      "Statements 2 and 3 only",
+      "Statements 1 and 3 only"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "1 Billion = 1,000,000,000 = 100 Crores (1,00,00,00,000). All three statements are mathematically exact."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Mathematics",
+    "chapter": "Chapter 1: Knowing Our Numbers",
+    "question": "Form the smallest 6-digit number using the digits 4, 0, 9, 2, 7, 5 where the digit 9 ALWAYS remains at the tens place:",
+    "options": [
+      "204597",
+      "204795",
+      "024597",
+      "205497"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "Non-zero smallest at Lakhs: 2, then 0, 4, 5, followed by 9 fixed at tens place, ending with 7: 204597."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Mathematics",
+    "chapter": "Chapter 1: Knowing Our Numbers",
+    "question": "Solve using distribution property over brackets: 738 × 103",
+    "options": [
+      "76,014",
+      "75,914",
+      "76,114",
+      "74,814"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "738 × (100 + 3) = 738 × 100 + 738 × 3 = 73,800 + 2,214 = 76,014."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Mathematics",
+    "chapter": "Chapter 1: Knowing Our Numbers",
+    "question": "A carton holds 24 boxes, and each box contains 15 packets of biscuits. If each biscuit packet costs ₹ 12, what is the total cost of biscuits in 10 such cartons?",
+    "options": [
+      "₹ 43,200",
+      "₹ 41,200",
+      "₹ 36,000",
+      "₹ 48,000"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "Packets per carton = 24 × 15 = 360 packets. Total in 10 cartons = 3,600 packets. Cost = 3,600 × 12 = ₹ 43,200."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Mathematics",
+    "chapter": "Chapter 1: Knowing Our Numbers",
+    "question": "What is the Roman numeral for 495?",
+    "options": [
+      "CDXCV",
+      "VD",
+      "CCCCXCV",
+      "DXCV"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "495 = 400 + 90 + 5 = CD + XC + V = CDXCV."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Mathematics",
+    "chapter": "Chapter 1: Knowing Our Numbers",
+    "question": "If a number is rounded off to the nearest thousands as 50,000, what is the SMALLEST possible integer it could have been?",
+    "options": [
+      "49,500",
+      "49,000",
+      "49,999",
+      "49,499"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "To round UP to 50,000 at the thousands place, the hundreds digit must be at least 5; thus the minimum integer is 49,500."
+  },
+  {
+    "classLevel": 6,
+    "subject": "English",
+    "chapter": "Chapter 1: Who Did Patrick's Homework?",
+    "question": "What did Patrick dislike doing the most?",
+    "options": [
+      "Doing his homework",
+      "Playing Nintendo",
+      "Playing baseball",
+      "Eating breakfast"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "Patrick hated doing homework, calling it 'too boring' and preferring outdoor games."
+  },
+  {
+    "classLevel": 6,
+    "subject": "English",
+    "chapter": "Chapter 1: Who Did Patrick's Homework?",
+    "question": "Which games did Patrick love to play instead of doing his studies?",
+    "options": [
+      "Hockey, basketball, and Nintendo",
+      "Cricket and chess",
+      "Football and golf",
+      "Badminton only"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "According to the story, Patrick loved playing hockey, basketball, and Nintendo video games."
+  },
+  {
+    "classLevel": 6,
+    "subject": "English",
+    "chapter": "Chapter 1: Who Did Patrick's Homework?",
+    "question": "One day, what did Patrick find his cat playing with?",
+    "options": [
+      "A little doll (which was actually a tiny man / elf)",
+      "A woollen ball",
+      "A rubber mouse",
+      "A piece of paper"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "Patrick rescued what he thought was a little doll, but it turned out to be an elf of the tiniest size."
+  },
+  {
+    "classLevel": 6,
+    "subject": "English",
+    "chapter": "Chapter 1: Who Did Patrick's Homework?",
+    "question": "What clothing was the little man (elf) wearing?",
+    "options": [
+      "A little woollen shirt with old-fashioned britches and a high tall hat like a witch's",
+      "A silk coat with red boots",
+      "A modern jeans and t-shirt",
+      "A school uniform"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "The elf wore a miniature woollen shirt with old-fashioned breeches and a pointed witch-like hat."
+  },
+  {
+    "classLevel": 6,
+    "subject": "English",
+    "chapter": "Chapter 1: Who Did Patrick's Homework?",
+    "question": "What promise did the elf make to Patrick in exchange for saving him from the cat?",
+    "options": [
+      "To grant him a wish",
+      "To give him bags of gold",
+      "To clean his room",
+      "To buy him toys"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "The frightened elf promised to grant Patrick one wish if he didn't give him back to the cat."
+  },
+  {
+    "classLevel": 6,
+    "subject": "English",
+    "chapter": "Chapter 1: Who Did Patrick's Homework?",
+    "question": "What was Patrick's wish to the elf?",
+    "options": [
+      "To do all his homework till the end of the semester (35 days)",
+      "To make him invisible",
+      "To give him a sports car",
+      "To win a video game tournament"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "Patrick wished the elf would do all his homework until the end of the semester of 35 days so he could get 'A' grades."
+  },
+  {
+    "classLevel": 6,
+    "subject": "English",
+    "chapter": "Chapter 1: Who Did Patrick's Homework?",
+    "question": "How long was the school semester in Patrick's school?",
+    "options": [
+      "35 days",
+      "50 days",
+      "100 days",
+      "30 days"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "The semester lasted exactly 35 days."
+  },
+  {
+    "classLevel": 6,
+    "subject": "English",
+    "chapter": "Chapter 1: Who Did Patrick's Homework?",
+    "question": "What grade did Patrick finally receive in all his subjects at the end of the semester?",
+    "options": [
+      "'A' grades",
+      "'B' grades",
+      "'C' grades",
+      "Pass grade only"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "Patrick scored 'A's in his subjects, astonishing his teachers and parents."
+  },
+  {
+    "classLevel": 6,
+    "subject": "English",
+    "chapter": "Chapter 1: Who Did Patrick's Homework?",
+    "question": "Who is the author of the story 'Who Did Patrick's Homework?'?",
+    "options": [
+      "Carol Moore",
+      "Roald Dahl",
+      "Ruskin Bond",
+      "R.K. Narayan"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "The story 'Who Did Patrick's Homework?' is written by author Carol Moore."
+  },
+  {
+    "classLevel": 6,
+    "subject": "English",
+    "chapter": "Chapter 1: Who Did Patrick's Homework?",
+    "question": "What is the meaning of the word 'Ignoramus' as used in the chapter?",
+    "options": [
+      "An uneducated person who lacks knowledge",
+      "A smart genius",
+      "A magician",
+      "A small fairy"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "An ignoramus is an informal term for a person who lacks basic education or knowledge."
+  },
+  {
+    "classLevel": 6,
+    "subject": "English",
+    "chapter": "Chapter 1: Who Did Patrick's Homework?",
+    "question": "What did the elf need Patrick to look up in the dictionary?",
+    "options": [
+      "The spellings and meanings of difficult English words",
+      "Math multiplication tables",
+      "Historical dates",
+      "Geography maps"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "The elf squeaked that he didn't know words and demanded Patrick fetch a dictionary and read out letters."
+  },
+  {
+    "classLevel": 6,
+    "subject": "English",
+    "chapter": "Chapter 1: Who Did Patrick's Homework?",
+    "question": "What is the rhyming scheme and poet of the poem 'A House, A Home' in Chapter 1?",
+    "options": [
+      "Lorraine M. Halli",
+      "Robert Frost",
+      "William Wordsworth",
+      "Sarojini Naidu"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "The poem 'A House, A Home' contrasting physical building materials with loving family life is composed by Lorraine M. Halli."
+  },
+  {
+    "classLevel": 6,
+    "subject": "English",
+    "chapter": "Chapter 1: Who Did Patrick's Homework?",
+    "question": "Why did the little elf constantly squeak and demand Patrick's help in Mathematics?",
+    "options": [
+      "Elves knew nothing of human timetables, addition, subtraction, fractions, and division",
+      "The elf had broken his glasses",
+      "The elf wanted to play video games",
+      "The math book was written in secret code"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "The elf exclaimed that elves never needed times tables, addition, or division, forcing Patrick to sit beside him and guide every step."
+  },
+  {
+    "classLevel": 6,
+    "subject": "English",
+    "chapter": "Chapter 1: Who Did Patrick's Homework?",
+    "question": "How did the elf behave when it came to reading Human History?",
+    "options": [
+      "He considered human history 'a mystery' and shrieked for Patrick to fetch more books from the library and read them aloud",
+      "He knew everything and finished it in one minute",
+      "He tore up the history textbook",
+      "He fell asleep immediately"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "To the elf, human history was an utter mystery, so he ordered Patrick to go to the library and read books aloud to him."
+  },
+  {
+    "classLevel": 6,
+    "subject": "English",
+    "chapter": "Chapter 1: Who Did Patrick's Homework?",
+    "question": "What real transformation took place in Patrick's daily habits and attitude by the end of the semester?",
+    "options": [
+      "He became a model kid who cleaned his room, did his chores, stayed cheerful, and never lost his temper",
+      "He became lazy and hired more elves",
+      "He dropped out of school to play sports",
+      "He stopped talking to his teachers"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "Patrick developed self-discipline: cleaning his room, doing daily chores, staying cheerful, and developing a completely new positive attitude."
+  },
+  {
+    "classLevel": 6,
+    "subject": "English",
+    "chapter": "Chapter 1: Who Did Patrick's Homework?",
+    "question": "What is the fundamental difference between a 'House' and a 'Home' as described in the poem 'A House, A Home'?",
+    "options": [
+      "A house is made of lifeless brick, stone, and wood; a home is made of loving family members caring selflessly for one another",
+      "A house has two floors; a home has only one room",
+      "A home has expensive furniture; a house is empty",
+      "There is no difference between them"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "Poet Lorraine M. Halli distinguishes physical inanimate construction (house) from the emotional bond of loving family (home)."
+  },
+  {
+    "classLevel": 6,
+    "subject": "English",
+    "chapter": "Chapter 1: Who Did Patrick's Homework?",
+    "question": "Why did the elf slip out quietly through the back door on the last day of the semester?",
+    "options": [
+      "There was no more homework left to do, and his contracted promise was fulfilled",
+      "He was terrified of Patrick's parents",
+      "The cat attacked him again",
+      "He stole Patrick's Nintendo console"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "On the 35th day, the semester ended with zero remaining homework; free from his pledge, the elf slipped away quietly."
+  },
+  {
+    "classLevel": 6,
+    "subject": "English",
+    "chapter": "Chapter 1: Who Did Patrick's Homework?",
+    "question": "Choose the correct synonym for the phrase 'a nagging person' as depicted by the elf in the story:",
+    "options": [
+      "A nag",
+      "A tutor",
+      "A scholar",
+      "A pioneer"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "A 'nag' is one who persistently annoys, complains, or urges someone to do continuous work."
+  },
+  {
+    "classLevel": 6,
+    "subject": "English",
+    "chapter": "Chapter 1: Who Did Patrick's Homework?",
+    "question": "What figure of speech / literary device is used in the line: 'His face wrinkled like a dishcloth thrown in the hamper'?",
+    "options": [
+      "Simile",
+      "Metaphor",
+      "Personification",
+      "Alliteration"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "The explicit comparison using 'like' between the elf's wrinkled face and a dishcloth is a Simile."
+  },
+  {
+    "classLevel": 6,
+    "subject": "English",
+    "chapter": "Chapter 1: Who Did Patrick's Homework?",
+    "question": "What moral lesson does the story 'Who Did Patrick's Homework?' impart to young learners?",
+    "options": [
+      "Self-help and persistent hard work are the true secrets to academic success, not magical shortcuts",
+      "Elves are dangerous creatures to keep as pets",
+      "Homework should be banned in schools",
+      "Video games are better than studies"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "The narrative illustrates that self-reliance, diligent effort, and intrinsic motivation create true personal excellence."
+  },
+  {
+    "classLevel": 6,
+    "subject": "English",
+    "chapter": "Chapter 1: Who Did Patrick's Homework?",
+    "question": "In the supplementary reader tale 'A Tale of Two Birds', why did the two young birds behave so completely differently?",
+    "options": [
+      "One lived with robbers and learned abusive language; the other lived near a Rishi's ashram and learned courteous hospitality",
+      "They belonged to different biological species",
+      "One was blind and the other was deaf",
+      "One was fed meat and the other ate grains"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "'One is known by the company one keeps.' Environmental conditioning and peer company shaped their distinct characters."
+  },
+  {
+    "classLevel": 6,
+    "subject": "English",
+    "chapter": "Chapter 1: Who Did Patrick's Homework?",
+    "question": "What phrase did the King utter upon hearing the ashram bird welcome him so gently?",
+    "options": [
+      "\"This bird looks just like the other outside the cave, but how different their talk is!\"",
+      "\"I will shoot this bird for dinner.\"",
+      "\"This bird is an imposter.\"",
+      "\"Take me to the robbers' den.\""
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "The King was amazed by how two identical sibling birds displayed opposite behavioral temperaments due to their company."
+  },
+  {
+    "classLevel": 6,
+    "subject": "English",
+    "chapter": "Chapter 1: Who Did Patrick's Homework?",
+    "question": "What is the meaning of the word 'Britches' in the description of the elf?",
+    "options": [
+      "Short trousers / breeches",
+      "Leather gloves",
+      "A magical cape",
+      "A pointed hat"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "'Britches' (or breeches) are old-fashioned short trousers fitting snugly just below the knee."
+  },
+  {
+    "classLevel": 6,
+    "subject": "English",
+    "chapter": "Chapter 1: Who Did Patrick's Homework?",
+    "question": "Fill in the blank: 'Patrick stayed up nights, feeling ______ and tired, yet went to school with his eyes puffed and bleary.'",
+    "options": [
+      "weary",
+      "cheerful",
+      "frightened",
+      "amused"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "'Weary' expresses extreme physical and mental fatigue resulting from late-night studying."
+  },
+  {
+    "classLevel": 6,
+    "subject": "English",
+    "chapter": "Chapter 1: Who Did Patrick's Homework?",
+    "question": "What did Patrick's teachers do when he started scoring top grades?",
+    "options": [
+      "They smiled, praised him, and were full of sincere appreciation",
+      "They accused him of cheating with an elf",
+      "They gave him twice as much homework",
+      "They called his parents to complain"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "His teachers were genuinely pleased, admiring his transformed dedication and academic turnaround."
+  },
+  {
+    "classLevel": 6,
+    "subject": "English",
+    "chapter": "Chapter 1: Who Did Patrick's Homework?",
+    "question": "Which of the following describes Patrick's eyes on the morning after studying all night?",
+    "options": [
+      "Puffed and bleary",
+      "Bright and shining",
+      "Red with anger",
+      "Shut tight"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "Working late hours with the elf left Patrick's eyes visibly swollen ('puffed') and exhausted ('bleary')."
+  },
+  {
+    "classLevel": 6,
+    "subject": "English",
+    "chapter": "Chapter 1: Who Did Patrick's Homework?",
+    "question": "What is the meaning of 'Glitch' in the context of the elf's homework trouble?",
+    "options": [
+      "A problem or fault in an operation preventing smooth working",
+      "A magical spell",
+      "A musical instrument",
+      "A small animal"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "A glitch refers to a sudden malfunction, hindrance, or flaw that stops progress."
+  },
+  {
+    "classLevel": 6,
+    "subject": "English",
+    "chapter": "Chapter 1: Who Did Patrick's Homework?",
+    "question": "What did Patrick think his cat was playing with before discovering it was an elf?",
+    "options": [
+      "A little doll",
+      "A feather",
+      "A ball of thread",
+      "A real mouse"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "Patrick mistook the minuscule man for a child's toy doll when grabbing it from the cat."
+  },
+  {
+    "classLevel": 6,
+    "subject": "English",
+    "chapter": "Chapter 1: Who Did Patrick's Homework?",
+    "question": "Read the statements:\nAssertion (A): In reality, Patrick did all his homework himself, not the little elf.\nReason (R): The elf was totally ignorant of human subjects (Math, English, History) and forced Patrick to research words in the dictionary, solve arithmetic sums, and read history books aloud.\nChoose the correct option:",
+    "options": [
+      "Both (A) and (R) are true, and (R) is the correct explanation of (A).",
+      "Both (A) and (R) are true, but (R) is NOT the correct explanation of (A).",
+      "(A) is true, but (R) is false.",
+      "(A) is false, but (R) is true."
+    ],
+    "correctAnswer": 0,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "The central ironic twist is that Patrick did every bit of the intellectual labor himself while believing the elf was doing it."
+  },
+  {
+    "classLevel": 6,
+    "subject": "English",
+    "chapter": "Chapter 1: Who Did Patrick's Homework?",
+    "question": "Spot the IMPOSTER in the following group of architectural elements mentioned in the poem 'A House, A Home':\nGroup: [Chimney, Stucco, Eaves, Unselfish acts]",
+    "options": [
+      "Chimney",
+      "Stucco",
+      "Eaves",
+      "Unselfish acts"
+    ],
+    "correctAnswer": 3,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "'Unselfish acts' is an attribute of a HOME (family love), whereas Chimney, Stucco (fine plaster), and Eaves are physical components of a HOUSE."
+  },
+  {
+    "classLevel": 6,
+    "subject": "English",
+    "chapter": "Chapter 1: Who Did Patrick's Homework?",
+    "question": "What profound psychological technique did the elf unwittingly use on Patrick to make him study?",
+    "options": [
+      "Reverse scaffolding / forced active learning (acting helpless so Patrick took full ownership of the problem-solving)",
+      "Hypnotic mind control",
+      "Threat of physical punishment",
+      "Bribery with magical coins"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "By constantly claiming ignorance, the elf compelled Patrick into active reading, calculation, and self-directed study."
+  },
+  {
+    "classLevel": 6,
+    "subject": "English",
+    "chapter": "Chapter 1: Who Did Patrick's Homework?",
+    "question": "In 'A Tale of Two Birds', the Rishi summarized the ultimate lesson of the story as:",
+    "options": [
+      "\"One is known by the company one keeps. That bird repeated the robbers' talk, but this one repeats what he hears at the ashram.\"",
+      "\"Never trust a wild bird in a storm.\"",
+      "\"Kings must always hunt in thick forests.\"",
+      "\"All birds in a forest possess evil minds.\""
+    ],
+    "correctAnswer": 0,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "The sage explains that association and environment define social temperament and speech habits."
+  },
+  {
+    "classLevel": 6,
+    "subject": "English",
+    "chapter": "Chapter 1: Who Did Patrick's Homework?",
+    "question": "Match the words from the story with their exact contextual meanings:\n(a) Slyly      -> (i) Shrieked high-pitched\n(b) Bleary     -> (ii) Secretly / cunningly\n(c) Squeaked   -> (iii) Dim / dull from tiredness\n(d) Semester   -> (iv) School academic term",
+    "options": [
+      "a-(ii), b-(iii), c-(i), d-(iv)",
+      "a-(i), b-(ii), c-(iii), d-(iv)",
+      "a-(iii), b-(iv), c-(i), d-(ii)",
+      "a-(iv), b-(iii), c-(ii), d-(i)"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "Slyly = Secretly; Bleary = Dull from exhaustion; Squeaked = High-pitched cry; Semester = Academic period."
+  },
+  {
+    "classLevel": 6,
+    "subject": "English",
+    "chapter": "Chapter 1: Who Did Patrick's Homework?",
+    "question": "Read the statements from 'A House, A Home':\nStatement 1: A house consists of tile floors, glass windows, yard, and roof eaves.\nStatement 2: A home is created by brothers, sisters, mothers, and fathers sharing unselfish care.\nStatement 3: The poet concludes that houses are far superior to homes.\nWhich statements are TRUE?",
+    "options": [
+      "Statements 1 and 2 only",
+      "Statements 2 and 3 only",
+      "Statements 1 and 3 only",
+      "All Statements 1, 2, and 3"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "Statement 3 is false because the poet emphasizes that a loving family (home) gives true life and meaning to a physical structure."
+  },
+  {
+    "classLevel": 6,
+    "subject": "English",
+    "chapter": "Chapter 1: Who Did Patrick's Homework?",
+    "question": "Consider the elf's physical reaction: 'He kicked his legs and doubled his fists and he grimaced and scowled and pursed his lips.' What emotion is depicted?",
+    "options": [
+      "Intense frustration and reluctance at being trapped into doing school homework",
+      "Joyful excitement at solving puzzles",
+      "Deep peaceful sleep",
+      "Fear of the dark"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "The vivid bodily gestures (grimacing, scowling, kicking) express violent displeasure and resentment toward doing homework."
+  },
+  {
+    "classLevel": 6,
+    "subject": "English",
+    "chapter": "Chapter 1: Who Did Patrick's Homework?",
+    "question": "Why did Patrick keep the truth a 'secret' between himself and the reader at the end of the story?",
+    "options": [
+      "Patrick still believed in his own heart that the tiny elf had performed the miracle",
+      "He was ashamed of his 'A' grade",
+      "His parents forbid him from talking",
+      "The teachers threatened him"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "Author Carol Moore writes: 'You think Patrick's elf did his homework; but I'll share a secret between you and me: Patrick had done it himself!'"
+  },
+  {
+    "classLevel": 6,
+    "subject": "English",
+    "chapter": "Chapter 1: Who Did Patrick's Homework?",
+    "question": "In 'A Tale of Two Birds', how did the strong thunderstorm initially separate the mother bird and her two fledglings?",
+    "options": [
+      "A heavy branch struck the nest, killing the mother, while fierce gale winds blew the two young birds to opposite sides of the forest",
+      "A hunter captured the mother bird in a cage",
+      "The birds voluntarily flew to different countries",
+      "A wild beast ate the nest"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "The storm's violent winds blew the fledglings away, landing one near a robber's cave and the other beside a peaceful hermitage."
+  },
+  {
+    "classLevel": 6,
+    "subject": "English",
+    "chapter": "Chapter 1: Who Did Patrick's Homework?",
+    "question": "Which of the following phrases conveys the meaning 'to work continuously with great effort and little rest'?",
+    "options": [
+      "To toil day and night",
+      "To play Nintendo",
+      "To slip out slyly",
+      "To grant a wish"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "'Toil' means strenuous, persistent physical and intellectual labor over prolonged periods."
+  },
+  {
+    "classLevel": 6,
+    "subject": "English",
+    "chapter": "Chapter 1: Who Did Patrick's Homework?",
+    "question": "What is the tone of Carol Moore's story 'Who Did Patrick's Homework?'?",
+    "options": [
+      "Humorous, whimsical, light-hearted, and didactic (teaching an uplifting life lesson)",
+      "Tragic and sorrowful",
+      "Violent and terrifying",
+      "Dry and purely factual"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "The narrative employs playful fantasy, vivid humor, and an ironic plot twist to convey a valuable moral about self-motivation."
+  },
+  {
+    "classLevel": 6,
+    "subject": "English",
+    "chapter": "Chapter 1: Who Did Patrick's Homework?",
+    "question": "What rhyming pair from Lorraine M. Halli's poem describes the structural elements of a house?",
+    "options": [
+      "Wood and stone, hard and bone",
+      "Play and day",
+      "Sun and run",
+      "Hat and cat"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "The poem begins: 'What is a house? It's brick and stone, and wood that's hard...'"
+  },
+  {
+    "classLevel": 6,
+    "subject": "GK",
+    "chapter": "Chapter 1: India - Our Country & Heritage",
+    "question": "What is the official National Animal of the Republic of India?",
+    "options": [
+      "Royal Bengal Tiger (Panthera tigris)",
+      "Asiatic Lion",
+      "Indian Elephant",
+      "Indian Leopard"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "The Royal Bengal Tiger was adopted as India's National Animal in May 1972 for its grace, strength, and agility."
+  },
+  {
+    "classLevel": 6,
+    "subject": "GK",
+    "chapter": "Chapter 1: India - Our Country & Heritage",
+    "question": "Which sacred flower is recognized as the National Flower of India?",
+    "options": [
+      "Lotus (Nelumbo nucifera)",
+      "Rose",
+      "Jasmine",
+      "Marigold"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "The sacred Lotus represents spiritual purity, wisdom, and resilience in Indian art and mythology."
+  },
+  {
+    "classLevel": 6,
+    "subject": "GK",
+    "chapter": "Chapter 1: India - Our Country & Heritage",
+    "question": "What is the National Aquatic Animal of India?",
+    "options": [
+      "Ganges River Dolphin (Platanista gangetica)",
+      "Olive Ridley Sea Turtle",
+      "Gharial",
+      "Blue Whale"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "The endangered Ganges River Dolphin was declared the National Aquatic Animal of India in 2009."
+  },
+  {
+    "classLevel": 6,
+    "subject": "GK",
+    "chapter": "Chapter 1: India - Our Country & Heritage",
+    "question": "Who composed India's National Anthem, 'Jana Gana Mana'?",
+    "options": [
+      "Rabindranath Tagore",
+      "Bankim Chandra Chattopadhyay",
+      "Sarojini Naidu",
+      "Swami Vivekananda"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "Nobel laureate Rabindranath Tagore penned 'Jana Gana Mana', adopted as the National Anthem on 24 January 1950."
+  },
+  {
+    "classLevel": 6,
+    "subject": "GK",
+    "chapter": "Chapter 1: India - Our Country & Heritage",
+    "question": "Who wrote India's National Song, 'Vande Mataram'?",
+    "options": [
+      "Bankim Chandra Chattopadhyay",
+      "Rabindranath Tagore",
+      "Subhas Chandra Bose",
+      "Kazi Nazrul Islam"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "Bankim Chandra Chattopadhyay composed 'Vande Mataram' in his 1882 political novel 'Anandamath'."
+  },
+  {
+    "classLevel": 6,
+    "subject": "GK",
+    "chapter": "Chapter 1: India - Our Country & Heritage",
+    "question": "What is the official National Heritage Animal of India?",
+    "options": [
+      "Indian Elephant (Elephas maximus)",
+      "One-horned Rhinoceros",
+      "Snow Leopard",
+      "Wild Water Buffalo"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "The Indian Elephant was declared the National Heritage Animal in 2010 to boost its conservation."
+  },
+  {
+    "classLevel": 6,
+    "subject": "GK",
+    "chapter": "Chapter 1: India - Our Country & Heritage",
+    "question": "What is the National Tree of India?",
+    "options": [
+      "Indian Banyan Tree (Ficus benghalensis)",
+      "Neem Tree",
+      "Peepal Tree",
+      "Mango Tree"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "The Banyan Tree symbolizes longevity, shelter, and immortality with its expansive aerial root system."
+  },
+  {
+    "classLevel": 6,
+    "subject": "GK",
+    "chapter": "Chapter 1: India - Our Country & Heritage",
+    "question": "What is the National Fruit of India?",
+    "options": [
+      "Mango (Mangifera indica)",
+      "Banana",
+      "Apple",
+      "Guava"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "Mango, designated the 'King of Fruits', is native to India and celebrated as the National Fruit."
+  },
+  {
+    "classLevel": 6,
+    "subject": "GK",
+    "chapter": "Chapter 1: India - Our Country & Heritage",
+    "question": "What is the official National Bird of India?",
+    "options": [
+      "Indian Peafowl / Peacock (Pavo cristatus)",
+      "Great Indian Bustard",
+      "Kingfisher",
+      "Hornbill"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "The Indian Peacock was declared the National Bird in 1963 for its beauty, grace, and cultural heritage."
+  },
+  {
+    "classLevel": 6,
+    "subject": "GK",
+    "chapter": "Chapter 1: India - Our Country & Heritage",
+    "question": "How many spokes are present in the Ashoka Chakra situated at the centre of the Indian National Flag?",
+    "options": [
+      "24 spokes",
+      "12 spokes",
+      "36 spokes",
+      "48 spokes"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "The navy blue Ashoka Chakra on the white central band contains 24 equal spokes representing continuous progress."
+  },
+  {
+    "classLevel": 6,
+    "subject": "GK",
+    "chapter": "Chapter 1: India - Our Country & Heritage",
+    "question": "What is the ratio of the width to the length of the Indian National Tricolour flag?",
+    "options": [
+      "2 : 3",
+      "3 : 4",
+      "1 : 2",
+      "2 : 4"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "By the Flag Code of India, the standard proportional ratio of the flag's width (height) to its length is 2:3."
+  },
+  {
+    "classLevel": 6,
+    "subject": "GK",
+    "chapter": "Chapter 1: India - Our Country & Heritage",
+    "question": "What national motto is inscribed in Devanagari script beneath the State Emblem of India?",
+    "options": [
+      "Satyameva Jayate (Truth Alone Triumphs)",
+      "Vande Mataram",
+      "Jai Hind",
+      "Inquilab Zindabad"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "'Satyameva Jayate' (Truth alone triumphs) is taken from the ancient Mundaka Upanishad."
+  },
+  {
+    "classLevel": 6,
+    "subject": "GK",
+    "chapter": "Chapter 1: India - Our Country & Heritage",
+    "question": "From which ancient archaeological structure was the State Emblem of India adopted?",
+    "options": [
+      "The Lion Capital of Ashoka at Sarnath (Varanasi)",
+      "The Sanchi Stupa in Madhya Pradesh",
+      "The Qutub Minar in Delhi",
+      "The Ajanta Caves in Maharashtra"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "The State Emblem is an adaptation of the 3rd century BCE Mauryan Lion Capital erected by Emperor Ashoka at Sarnath."
+  },
+  {
+    "classLevel": 6,
+    "subject": "GK",
+    "chapter": "Chapter 1: India - Our Country & Heritage",
+    "question": "Which four animals are depicted on the abacus base of the Lion Capital of Sarnath beneath the four lions?",
+    "options": [
+      "An Elephant, a Galloping Horse, a Bull, and a Lion",
+      "A Tiger, a Cow, a Deer, and an Eagle",
+      "A Rhinoceros, a Camel, a Wolf, and a Bear",
+      "A Peacock, a Monkey, an Elephant, and a Snake"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "The circular abacus displays an elephant of the east, horse of the south, bull of the west, and lion of the north."
+  },
+  {
+    "classLevel": 6,
+    "subject": "GK",
+    "chapter": "Chapter 1: India - Our Country & Heritage",
+    "question": "Who designed the modern National Flag of India (Tiranga) presented to the Constituent Assembly in 1947?",
+    "options": [
+      "Pingali Venkayya",
+      "Dr. B.R. Ambedkar",
+      "Jawaharlal Nehru",
+      "Annie Besant"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "Freedom fighter and agriculturist Pingali Venkayya designed the base design of the Indian National Tricolour."
+  },
+  {
+    "classLevel": 6,
+    "subject": "GK",
+    "chapter": "Chapter 1: India - Our Country & Heritage",
+    "question": "What do the three distinct colors of the Indian National Flag symbolize?",
+    "options": [
+      "Saffron for courage and sacrifice; White for truth and peace; Green for faith and prosperity",
+      "Saffron for agriculture; White for milk; Green for trees",
+      "Saffron for fire; White for clouds; Green for grass",
+      "Saffron for kings; White for temples; Green for money"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "India's flag colors represent valour & renunciation (Kesari), peace & purity (White), and fertility & life (Green)."
+  },
+  {
+    "classLevel": 6,
+    "subject": "GK",
+    "chapter": "Chapter 1: India - Our Country & Heritage",
+    "question": "What is the official playing time of the full standard version of the Indian National Anthem?",
+    "options": [
+      "Approximately 52 seconds",
+      "65 seconds",
+      "45 seconds",
+      "90 seconds"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "The standardized rendition of the full stanza of 'Jana Gana Mana' lasts precisely 52 seconds."
+  },
+  {
+    "classLevel": 6,
+    "subject": "GK",
+    "chapter": "Chapter 1: India - Our Country & Heritage",
+    "question": "Which UNESCO World Heritage monument is universally famous as a white marble mausoleum built on the banks of River Yamuna in Agra?",
+    "options": [
+      "Taj Mahal",
+      "Red Fort",
+      "Humayun's Tomb",
+      "Fatehpur Sikri"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "The Taj Mahal was commissioned in 1632 by Mughal Emperor Shah Jahan in memory of his favourite wife Mumtaz Mahal."
+  },
+  {
+    "classLevel": 6,
+    "subject": "GK",
+    "chapter": "Chapter 1: India - Our Country & Heritage",
+    "question": "Which ancient rock-cut cave monument in Aurangabad, Maharashtra is renowned for ancient Buddhist mural paintings?",
+    "options": [
+      "Ajanta Caves",
+      "Elephanta Caves",
+      "Bhimbetka Rock Shelters",
+      "Badami Caves"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "The 30 rock-cut Buddhist cave monuments of Ajanta (2nd century BCE to 480 CE) contain masterly fresco murals of Jataka tales."
+  },
+  {
+    "classLevel": 6,
+    "subject": "GK",
+    "chapter": "Chapter 1: India - Our Country & Heritage",
+    "question": "Which ancient university in Bihar was historically one of the world's greatest centers of higher learning from the 5th to 12th century CE?",
+    "options": [
+      "Nalanda University",
+      "Takshashila",
+      "Vikramashila",
+      "Valabhi"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "Nalanda Mahavihara was an ancient residential monastery attracting thousands of international scholars, including Xuanzang."
+  },
+  {
+    "classLevel": 6,
+    "subject": "GK",
+    "chapter": "Chapter 1: India - Our Country & Heritage",
+    "question": "What is the official National Currency of the Republic of India and its international currency symbol designed by D. Udaya Kumar?",
+    "options": [
+      "Indian Rupee (₹ / INR)",
+      "Indian Dollar ($)",
+      "Dinar",
+      "Pound"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "The Indian Rupee symbol '₹' blends Devanagari 'र' and Latin capital 'R' with twin horizontal lines."
+  },
+  {
+    "classLevel": 6,
+    "subject": "GK",
+    "chapter": "Chapter 1: India - Our Country & Heritage",
+    "question": "Which ancient calendar system forms the official Indian National Calendar adopted in March 1957 alongside the Gregorian calendar?",
+    "options": [
+      "Saka Era (starting with Chaitra month)",
+      "Vikram Samvat",
+      "Hijri Calendar",
+      "Julian Calendar"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "The Saka Calendar (established in 78 CE) begins on Chaitra 1 (March 21/22) as the civil calendar of India."
+  },
+  {
+    "classLevel": 6,
+    "subject": "GK",
+    "chapter": "Chapter 1: India - Our Country & Heritage",
+    "question": "Which magnificent temple in Konark, Odisha is sculptured in the shape of a colossal chariot of the Sun God with 24 carved stone wheels?",
+    "options": [
+      "Konark Sun Temple",
+      "Jagannath Temple",
+      "Brihadeeswara Temple",
+      "Lingaraja Temple"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "Built in 1250 CE by Eastern Ganga King Narasimhadeva I, the Konark Sun Temple is a 24-wheeled chariot architectural wonder."
+  },
+  {
+    "classLevel": 6,
+    "subject": "GK",
+    "chapter": "Chapter 1: India - Our Country & Heritage",
+    "question": "Which is the longest perennial river flowing entirely through the cultural heartland of India?",
+    "options": [
+      "River Ganga (2,525 km)",
+      "River Godavari",
+      "River Yamuna",
+      "River Narmada"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "The sacred River Ganga flows 2,525 km from Gangotri glacier in Uttarakhand to the Bay of Bengal."
+  },
+  {
+    "classLevel": 6,
+    "subject": "GK",
+    "chapter": "Chapter 1: India - Our Country & Heritage",
+    "question": "What is the official National Reptile of India?",
+    "options": [
+      "King Cobra (Ophiophagus hannah)",
+      "Indian Python",
+      "Chameleon",
+      "Monitor Lizard"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "The King Cobra, the world's longest venomous snake, is honored as India's National Reptile."
+  },
+  {
+    "classLevel": 6,
+    "subject": "GK",
+    "chapter": "Chapter 1: India - Our Country & Heritage",
+    "question": "Which South Indian temple in Thanjavur, Tamil Nadu is famous as the 'Big Temple' built of granite by Raja Raja Chola I?",
+    "options": [
+      "Brihadisvara Temple",
+      "Meenakshi Amman Temple",
+      "Ramanathaswamy Temple",
+      "Shore Temple"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "The Brihadisvara Temple (completed 1010 CE) is an all-granite Dravidian architectural masterwork of the Chola empire."
+  },
+  {
+    "classLevel": 6,
+    "subject": "GK",
+    "chapter": "Chapter 1: India - Our Country & Heritage",
+    "question": "Which of the following classical dance forms originated in the state of Kerala?",
+    "options": [
+      "Kathakali and Mohiniyattam",
+      "Bharatanatyam",
+      "Kathak",
+      "Kuchipudi"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "Kathakali (dramatic dance-theatre with elaborate face makeup) and Mohiniyattam originated in Kerala."
+  },
+  {
+    "classLevel": 6,
+    "subject": "GK",
+    "chapter": "Chapter 1: India - Our Country & Heritage",
+    "question": "What is the southernmost tip of the Indian Union territory located in the Nicobar Islands?",
+    "options": [
+      "Indira Point (Pythegoras Point)",
+      "Kanyakumari",
+      "Rameshwaram",
+      "Point Calimere"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "Indira Point at 6°45' N latitude on Great Nicobar Island is the southernmost geographical extremity of Indian territory."
+  },
+  {
+    "classLevel": 6,
+    "subject": "GK",
+    "chapter": "Chapter 1: India - Our Country & Heritage",
+    "question": "Read the statements:\nAssertion (A): Only three lions are visible in the 2D graphic rendering of the State Emblem of India.\nReason (R): The original Sarnath sculpture has four lions mounted back-to-back facing the four cardinal directions, but the fourth rear lion is hidden from front 2D visual perspective.\nChoose the correct option:",
+    "options": [
+      "Both (A) and (R) are true, and (R) is the correct explanation of (A).",
+      "Both (A) and (R) are true, but (R) is NOT the correct explanation of (A).",
+      "(A) is true, but (R) is false.",
+      "(A) is false, but (R) is true."
+    ],
+    "correctAnswer": 0,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "The Mauryan Lion Capital features 4 back-to-back Asiatic lions; 2D graphical projections naturally occlude the fourth rear lion."
+  },
+  {
+    "classLevel": 6,
+    "subject": "GK",
+    "chapter": "Chapter 1: India - Our Country & Heritage",
+    "question": "Spot the IMPOSTER in the following group of classical dance forms recognized by Sangeet Natak Akademi and their originating states:\nGroup: [Bharatanatyam (Tamil Nadu), Kathak (Uttar Pradesh), Odissi (Odisha), Bhangra (Punjab)]",
+    "options": [
+      "Bharatanatyam",
+      "Kathak",
+      "Odissi",
+      "Bhangra"
+    ],
+    "correctAnswer": 3,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "Bhangra is a traditional folk dance of Punjab, whereas Bharatanatyam, Kathak, and Odissi are formally codified CLASSICAL dances."
+  },
+  {
+    "classLevel": 6,
+    "subject": "GK",
+    "chapter": "Chapter 1: India - Our Country & Heritage",
+    "question": "Match the following National Symbols of India with their scientific biological binomial names:\n(a) National Animal   -> (i) Nelumbo nucifera\n(b) National Bird     -> (ii) Panthera tigris\n(c) National Flower   -> (iii) Mangifera indica\n(d) National Fruit    -> (iv) Pavo cristatus",
+    "options": [
+      "a-(ii), b-(iv), c-(i), d-(iii)",
+      "a-(iv), b-(ii), c-(iii), d-(i)",
+      "a-(i), b-(iii), c-(ii), d-(iv)",
+      "a-(iii), b-(i), c-(iv), d-(ii)"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "Panthera tigris = Tiger, Pavo cristatus = Peacock, Nelumbo nucifera = Lotus, Mangifera indica = Mango."
+  },
+  {
+    "classLevel": 6,
+    "subject": "GK",
+    "chapter": "Chapter 1: India - Our Country & Heritage",
+    "question": "Which ancient prehistoric rock shelter in Raisen District, Madhya Pradesh contains the oldest cave paintings (dating to 30,000+ years) in India?",
+    "options": [
+      "Bhimbetka Rock Shelters",
+      "Ellora Caves",
+      "Elephanta Caves",
+      "Udayagiri Caves"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "UNESCO-listed Bhimbetka exhibits Paleolithic/Mesolithic parietal art depicting hunting, dancing, and ritual animal motifs."
+  },
+  {
+    "classLevel": 6,
+    "subject": "GK",
+    "chapter": "Chapter 1: India - Our Country & Heritage",
+    "question": "Read the statements regarding the Indian National Flag:\nStatement 1: Hand-spun and hand-woven Khadi bunting (cotton or silk) was traditionally the sole authorized manufacturing material.\nStatement 2: The top saffron band represents strength and courage.\nStatement 3: The green band occupies the top portion of the flag.\nWhich statements are TRUE?",
+    "options": [
+      "Statements 1 and 2 only",
+      "Statements 2 and 3 only",
+      "Statements 1 and 3 only",
+      "All Statements 1, 2, and 3"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "Statement 3 is false because Saffron is at the top, White in the middle, and Green at the bottom."
+  },
+  {
+    "classLevel": 6,
+    "subject": "GK",
+    "chapter": "Chapter 1: India - Our Country & Heritage",
+    "question": "Which Chola bronze sculpture depicts Lord Shiva as the cosmic ecstatic dancer enveloped in a halo of flames (Prabha Mandala)?",
+    "options": [
+      "Nataraja",
+      "Ardhanarishvara",
+      "Somaskanda",
+      "Dakshinamurthy"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "The Chola Nataraja portrays Shiva executing the Ananda Tandava cosmic dance of creation, preservation, and dissolution."
+  },
+  {
+    "classLevel": 6,
+    "subject": "GK",
+    "chapter": "Chapter 1: India - Our Country & Heritage",
+    "question": "Which world-famous astronomical observatory complex consisting of nineteen architectural astronomical instruments was built in Jaipur by Maharaja Sawai Jai Singh II?",
+    "options": [
+      "Jantar Mantar",
+      "Hawa Mahal",
+      "Amber Fort",
+      "City Palace"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "Completed in 1734 CE, Jaipur's Jantar Mantar features the world's largest stone sundial (Vrihat Samrat Yantra)."
+  },
+  {
+    "classLevel": 6,
+    "subject": "GK",
+    "chapter": "Chapter 1: India - Our Country & Heritage",
+    "question": "Why was 26th January chosen as the Republic Day of India?",
+    "options": [
+      "To commemorate the declaration of Purna Swaraj (Complete Independence) by the Indian National Congress on 26 January 1930",
+      "It was the birthday of Mahatma Gandhi",
+      "The Constitution was written in one day on 26 January",
+      "It was the day World War II ended"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "The 1929 Lahore Congress resolved 26 January 1930 as Purna Swaraj Day; the Constitution was brought into effect on this historical date in 1950."
+  },
+  {
+    "classLevel": 6,
+    "subject": "GK",
+    "chapter": "Chapter 1: India - Our Country & Heritage",
+    "question": "Which iron pillar in the Qutub complex, Delhi has remained miraculously free from rust and atmospheric corrosion for over 1,600 years?",
+    "options": [
+      "Iron Pillar of Chandragupta II (Gupta Empire)",
+      "Ashokan Pillar",
+      "Heliodorus Pillar",
+      "Allahabad Pillar"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "The 4th century CE metallurgical marvel contains high phosphorus content forming a protective crystalline misawite scale layer."
+  },
+  {
+    "classLevel": 6,
+    "subject": "GK",
+    "chapter": "Chapter 1: India - Our Country & Heritage",
+    "question": "Which UNESCO World Heritage site in Karnataka was the magnificent capital of the Vijayanagara Empire during the 14th to 16th century CE?",
+    "options": [
+      "Hampi (on River Tungabhadra)",
+      "Pattadakal",
+      "Badami",
+      "Aihole"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "Hampi features the iconic stone chariot, Virupaksha temple, and Vitthala temple complex with musical granite pillars."
+  },
+  {
+    "classLevel": 6,
+    "subject": "GK",
+    "chapter": "Chapter 1: India - Our Country & Heritage",
+    "question": "Consider four national symbols of India:\n1. National Song: Vande Mataram\n2. National Anthem: Jana Gana Mana\n3. National River: Ganga\n4. National Microorganism: Lactobacillus delbrueckii (curd bacteria)\nWhich of these were officially declared by the Government of India?",
+    "options": [
+      "All 1, 2, 3, and 4",
+      "1 and 2 only",
+      "2 and 3 only",
+      "1, 2, and 3 only"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "In 2012, MoEFCC officially designated Lactobacillus bulgaricus/delbrueckii as India's National Microbe. All 4 are official."
+  },
+  {
+    "classLevel": 6,
+    "subject": "GK",
+    "chapter": "Chapter 1: India - Our Country & Heritage",
+    "question": "Which ancient treatise on performing arts, dramaturgy, dance, and music was composed by sage Bharata Muni?",
+    "options": [
+      "Natya Shastra",
+      "Arthashastra",
+      "Kama Sutra",
+      "Charaka Samhita"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "The Natya Shastra (c. 200 BCE - 200 CE) lays the foundational theory of classical Indian aesthetic Rasas and Bhava."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Social Science",
+    "chapter": "Chapter 1: The Earth in the Solar System",
+    "question": "Celestial bodies that have their own heat and light, which they emit in large amounts, are called:",
+    "options": [
+      "Stars",
+      "Planets",
+      "Satellites",
+      "Asteroids"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "Stars are huge, incandescent celestial bodies composed of burning gases undergoing nuclear fusion, emitting light and heat."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Social Science",
+    "chapter": "Chapter 1: The Earth in the Solar System",
+    "question": "Which celestial star is closest to the planet Earth and provides light and heat to the solar system?",
+    "options": [
+      "The Sun",
+      "Alpha Centauri",
+      "Proxima Centauri",
+      "Sirius"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "The Sun is an average G-type main-sequence star situated approximately 150 million kilometres from Earth."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Social Science",
+    "chapter": "Chapter 1: The Earth in the Solar System",
+    "question": "The recognizable patterns formed by various groups of stars in the night sky are called:",
+    "options": [
+      "Constellations",
+      "Galaxies",
+      "Nebulae",
+      "Comets"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "Constellations (like Ursa Major / Great Bear and Orion) are arbitrary geometric visual groupings of distant stars."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Social Science",
+    "chapter": "Chapter 1: The Earth in the Solar System",
+    "question": "The North Star that indicates the true geographical north direction is known as the:",
+    "options": [
+      "Pole Star (Polaris)",
+      "Sirius (Dog Star)",
+      "Vega",
+      "Betelgeuse"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "The Pole Star stays fixed directly above the Earth's rotational North Pole in the northern sky."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Social Science",
+    "chapter": "Chapter 1: The Earth in the Solar System",
+    "question": "How many planets are there in our Solar System according to the International Astronomical Union (IAU)?",
+    "options": [
+      "8 planets",
+      "9 planets",
+      "10 planets",
+      "7 planets"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "The 8 official planets in order from the Sun are: Mercury, Venus, Earth, Mars, Jupiter, Saturn, Uranus, Neptune."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Social Science",
+    "chapter": "Chapter 1: The Earth in the Solar System",
+    "question": "Which planet is known as 'Earth's Twin' because its size, mass, and shape are very similar to Earth?",
+    "options": [
+      "Venus",
+      "Mars",
+      "Mercury",
+      "Jupiter"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "Venus is dubbed 'Earth's Twin' due to comparable terrestrial diameter (12,104 km) and bulk composition."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Social Science",
+    "chapter": "Chapter 1: The Earth in the Solar System",
+    "question": "What is the unique spherical shape of planet Earth (slightly flattened at the poles and bulged at the equator) called?",
+    "options": [
+      "Geoid (Earth-like shape)",
+      "Perfect Sphere",
+      "Cube",
+      "Oval"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "'Geoid' literally means 'Earth-shaped', describing an oblate spheroid flattened at poles due to axial rotation."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Social Science",
+    "chapter": "Chapter 1: The Earth in the Solar System",
+    "question": "Why is planet Earth uniquely known as the 'Blue Planet' when viewed from outer space?",
+    "options": [
+      "Two-thirds (around 71%) of its surface is covered by liquid water in oceans and seas",
+      "Its atmosphere is made of blue smoke",
+      "Earth is covered with blue soil",
+      "Sunlight reflects blue from mountains"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "Rayleigh scattering off expansive oceanic hydrosphere gives Earth its brilliant azure appearance from space."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Social Science",
+    "chapter": "Chapter 1: The Earth in the Solar System",
+    "question": "How long does the Moon take to complete one revolution around the Earth?",
+    "options": [
+      "About 27 days (and takes exactly the same time to complete one rotation on its axis)",
+      "365 days",
+      "24 hours",
+      "30 days"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "Synchronous tidal locking causes the Moon's orbital period (~27.3 days) to match its axial rotation period."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Social Science",
+    "chapter": "Chapter 1: The Earth in the Solar System",
+    "question": "The tiny rocky celestial objects that revolve around the Sun primarily between the orbits of Mars and Jupiter are called:",
+    "options": [
+      "Asteroids",
+      "Meteoroids",
+      "Comets",
+      "Dwarf Stars"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "The Main Asteroid Belt is a circumstellar disc located between the orbital paths of terrestrial Mars and gas giant Jupiter."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Social Science",
+    "chapter": "Chapter 1: The Earth in the Solar System",
+    "question": "Small chunks of rock and metallic debris that travel around the Sun and sometimes enter Earth's atmosphere causing a streak of light are:",
+    "options": [
+      "Meteoroids (Shooting stars)",
+      "Asteroids",
+      "Satellites",
+      "Constellations"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "Frictional atmospheric compression heats falling meteoroids, creating incandescent trails (meteors / shooting stars)."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Social Science",
+    "chapter": "Chapter 1: The Earth in the Solar System",
+    "question": "What is our home spiral galaxy called, which appears as a faint glowing band of stars across the clear night sky?",
+    "options": [
+      "Milky Way Galaxy (Akash Ganga)",
+      "Andromeda Galaxy",
+      "Triangulum",
+      "Whirlpool Galaxy"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "Our solar system resides inside the Orion Arm of the Milky Way barred spiral galaxy, traditionally called Akash Ganga."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Social Science",
+    "chapter": "Chapter 1: The Earth in the Solar System",
+    "question": "Why do we always see only ONE side of the Moon from the Earth?",
+    "options": [
+      "Because the Moon takes exactly the same time (~27 days) to complete one rotation on its axis as it takes to revolve once around the Earth (Synchronous Rotation)",
+      "The other side of the Moon is pitch dark without light",
+      "The Moon does not rotate at all",
+      "Clouds block the other side"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "Gravitational tidal lock equalizes orbital revolution and axial spin, keeping the lunar near-side permanently facing Earth."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Social Science",
+    "chapter": "Chapter 1: The Earth in the Solar System",
+    "question": "Why is Earth considered the only unique planet in the Solar System capable of supporting biological life?",
+    "options": [
+      "It has moderate temperature conditions, life-supporting oxygen gas in atmosphere, and abundant liquid water in hydrological cycles",
+      "It has zero gravity",
+      "It is the closest planet to the Sun",
+      "It is made entirely of gold and diamonds"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "Earth sits squarely inside the circumstellar Goldilocks Habitable Zone, sustaining liquid water and breathable N2-O2 atmosphere."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Social Science",
+    "chapter": "Chapter 1: The Earth in the Solar System",
+    "question": "How long does light from the Sun take to reach the surface of planet Earth?",
+    "options": [
+      "About 8 minutes and 20 seconds",
+      "1 minute",
+      "24 hours",
+      "Instantaneously in 1 second"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "At light speed c = 300,000 km/s across 150,000,000 km distance: time t = 150,000,000 ÷ 300,000 = 500 seconds = 8 min 20 sec."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Social Science",
+    "chapter": "Chapter 1: The Earth in the Solar System",
+    "question": "Who was the first human astronaut to step onto the surface of the Moon on 20 July 1969?",
+    "options": [
+      "Neil Armstrong",
+      "Yuri Gagarin",
+      "Rakesh Sharma",
+      "Buzz Aldrin"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "American Apollo 11 astronaut Neil Armstrong made historic first contact on the lunar Mare Tranquillitatis."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Social Science",
+    "chapter": "Chapter 1: The Earth in the Solar System",
+    "question": "What is a 'Human-made (Artificial) Satellite'?",
+    "options": [
+      "An artificial body designed by scientists to gather information about the universe or for telecommunication, placed in Earth's orbit by rockets",
+      "A natural rock orbiting Mars",
+      "A telescope on a mountain",
+      "An aeroplane flying in clouds"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "Spacecraft like INSAT, IRS, and EDUSAT are engineered payloads injected into orbit for communications and remote sensing."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Social Science",
+    "chapter": "Chapter 1: The Earth in the Solar System",
+    "question": "Why was Pluto reclassified from a major planet to a 'Dwarf Planet' by the International Astronomical Union (IAU) in August 2006?",
+    "options": [
+      "Pluto failed to clear its orbital neighborhood of other icy trans-Neptunian Kuiper belt debris",
+      "Pluto melted into water",
+      "Pluto collided with the Sun",
+      "Pluto stopped revolving"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "IAU planetary criteria require a planet to: orbit the Sun, attain hydrostatic equilibrium, and have cleared its orbital neighborhood."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Social Science",
+    "chapter": "Chapter 1: The Earth in the Solar System",
+    "question": "What are the four 'Inner Planets' of the Solar System?",
+    "options": [
+      "Mercury, Venus, Earth, and Mars (terrestrial rocky planets close to the Sun)",
+      "Jupiter, Saturn, Uranus, and Neptune",
+      "Earth, Moon, Sun, and Mars",
+      "Pluto, Ceres, Eris, and Haumea"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "Inner planets are dense, rocky silicates situated inside the main asteroid belt, unlike outer gas/ice giants."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Social Science",
+    "chapter": "Chapter 1: The Earth in the Solar System",
+    "question": "Which outer planet in the Solar System possesses the most spectacular and prominent system of rings composed of ice and dust chunks?",
+    "options": [
+      "Saturn",
+      "Jupiter",
+      "Neptune",
+      "Mars"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "Saturn's extensive ring system spans up to 282,000 km, composed of reflective water-ice particles and rocky debris."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Social Science",
+    "chapter": "Chapter 1: The Earth in the Solar System",
+    "question": "What is the famous seven-star constellation known as 'Saptarishi' in Indian astronomy?",
+    "options": [
+      "A group of seven prominent stars that forms part of the Ursa Major (Great Bear) constellation",
+      "A cluster of seven planets",
+      "The seven moons of Jupiter",
+      "The Orion Hunter belt"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "The Saptarishi asterism (Big Dipper) forms the prominent tail and body of the constellation Ursa Major."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Social Science",
+    "chapter": "Chapter 1: The Earth in the Solar System",
+    "question": "How can one locate the position of the North Pole Star in the night sky using the Saptarishi constellation?",
+    "options": [
+      "By drawing an imaginary straight pointer line through the two forward pointer stars of Saptarishi and extending it northward",
+      "By looking directly behind the Moon",
+      "By pointing toward the southern horizon",
+      "By tracking the movement of Mars"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "Extending the line connecting pointer stars Merak and Dubhe northward leads directly to Polaris."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Social Science",
+    "chapter": "Chapter 1: The Earth in the Solar System",
+    "question": "What happens when a large meteoroid does not burn up completely in Earth's atmosphere and crashes onto the Earth's surface?",
+    "options": [
+      "It is called a Meteorite and creates a hollow impact crater in the ground",
+      "It turns into a new planet",
+      "It bounces back to outer space",
+      "It dissolves into rain clouds"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "Surviving solid fragments that strike planetary crust are termed meteorites, forming impact structures (e.g., Lonar Crater)."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Social Science",
+    "chapter": "Chapter 1: The Earth in the Solar System",
+    "question": "Which is the fastest planet to complete one revolution around the Sun (taking only 88 days)?",
+    "options": [
+      "Mercury",
+      "Venus",
+      "Earth",
+      "Mars"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "By Kepler's Third Law, Mercury's closest orbital proximity (57.9 million km) results in a brief 88-day sidereal year."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Social Science",
+    "chapter": "Chapter 1: The Earth in the Solar System",
+    "question": "What is the primary source of all heat and light energy throughout our Solar System?",
+    "options": [
+      "The Sun",
+      "The Moon",
+      "Volcanoes on Earth",
+      "The Asteroid Belt"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "Thermonuclear fusion of hydrogen into helium in the Sun's core generates the solar irradiance powering the entire system."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Social Science",
+    "chapter": "Chapter 1: The Earth in the Solar System",
+    "question": "Which of the following Indian artificial satellites was launched for educational tele-broadcasting?",
+    "options": [
+      "EDUSAT (GSAT-3)",
+      "Aryabhata",
+      "Rohini",
+      "Chandrayaan-1"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "Launched in 2004 by ISRO, EDUSAT was India's dedicated satellite for distance educational curriculum delivery."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Social Science",
+    "chapter": "Chapter 1: The Earth in the Solar System",
+    "question": "What is a 'New Moon' night known as in the Indian calendar?",
+    "options": [
+      "Amavasya (when the Moon is not visible at all)",
+      "Poornima (Full Moon)",
+      "Ekadashi",
+      "Prathama"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "During Amavasya (New Moon), the Moon sits between Earth and Sun, presenting its unilluminated shadowed face toward Earth."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Social Science",
+    "chapter": "Chapter 1: The Earth in the Solar System",
+    "question": "What is a 'Full Moon' night known as in the Indian calendar?",
+    "options": [
+      "Poornima (when the whole disc of the Moon is illuminated)",
+      "Amavasya",
+      "Chaturdashi",
+      "Ashtami"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "Poornima occurs when Earth lies between Sun and Moon, allowing the full hemisphere of lunar reflection to be viewed."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Social Science",
+    "chapter": "Chapter 1: The Earth in the Solar System",
+    "question": "Read the statements:\nAssertion (A): We cannot see the Moon and all tiny bright stars during daytime.\nReason (R): The immensely bright glare of sunlight does not allow us to see these bright celestial objects in the day sky.\nChoose the correct option:",
+    "options": [
+      "Both (A) and (R) are true, and (R) is the correct explanation of (A).",
+      "Both (A) and (R) are true, but (R) is NOT the correct explanation of (A).",
+      "(A) is true, but (R) is false.",
+      "(A) is false, but (R) is true."
+    ],
+    "correctAnswer": 0,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "Atmospheric solar ray scattering illuminates the daytime sky to an optical intensity far surpassing the dim flux of background stars."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Social Science",
+    "chapter": "Chapter 1: The Earth in the Solar System",
+    "question": "Spot the IMPOSTER in the following group of planets based on their physical composition:\nGroup: [Mercury, Venus, Earth, Jupiter]",
+    "options": [
+      "Mercury",
+      "Venus",
+      "Earth",
+      "Jupiter"
+    ],
+    "correctAnswer": 3,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "Jupiter is a giant GASEOUS outer planet composed of hydrogen and helium, whereas Mercury, Venus, and Earth are solid TERRESTRIAL rocky inner planets."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Social Science",
+    "chapter": "Chapter 1: The Earth in the Solar System",
+    "question": "Arrange the planets in order of their increasing distance from the Sun:\n1. Mars\n2. Mercury\n3. Earth\n4. Venus",
+    "options": [
+      "2 -> 4 -> 3 -> 1 (Mercury -> Venus -> Earth -> Mars)",
+      "1 -> 2 -> 3 -> 4",
+      "4 -> 2 -> 3 -> 1",
+      "2 -> 3 -> 4 -> 1"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "The radial orbital order from the Sun is Mercury (1st), Venus (2nd), Earth (3rd), and Mars (4th)."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Social Science",
+    "chapter": "Chapter 1: The Earth in the Solar System",
+    "question": "Read the statements:\nAssertion (A): The Earth is described as an oblate spheroid (Geoid).\nReason (R): Centrifugal forces generated by Earth's axial rotation cause a slight equatorial bulge and polar flattening.\nChoose the correct option:",
+    "options": [
+      "Both (A) and (R) are true, and (R) is the correct explanation of (A).",
+      "Both (A) and (R) are true, but (R) is NOT the correct explanation of (A).",
+      "(A) is true, but (R) is false.",
+      "(A) is false, but (R) is true."
+    ],
+    "correctAnswer": 0,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "Planetary rotation creates equatorial rotational bulge, making the equatorial radius ~21 km larger than polar radius."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Social Science",
+    "chapter": "Chapter 1: The Earth in the Solar System",
+    "question": "What is the fundamental scientific difference between a Planet and a Star?",
+    "options": [
+      "Stars generate their own heat and light through nuclear fusion; planets have no internal fusion and only reflect light from stars",
+      "Planets are always bigger than stars",
+      "Stars revolve around planets",
+      "Stars are made of liquid water"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "Self-luminous stars undergo stellar nucleosynthesis, whereas non-luminous planets shine solely via reflected starlight."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Social Science",
+    "chapter": "Chapter 1: The Earth in the Solar System",
+    "question": "Read the statements regarding the Solar System:\nStatement 1: All eight planets revolve around the Sun in fixed, elongated elliptical paths called Orbits.\nStatement 2: The Asteroid belt is located between the orbits of Venus and Earth.\nStatement 3: Millions of galaxies together form the Universe.\nWhich statements are TRUE?",
+    "options": [
+      "Statements 1 and 3 only",
+      "Statements 1 and 2 only",
+      "Statements 2 and 3 only",
+      "All Statements 1, 2, and 3"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "Statement 2 is false because the main Asteroid belt lies between Mars and Jupiter. Statements 1 and 3 are correct."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Social Science",
+    "chapter": "Chapter 1: The Earth in the Solar System",
+    "question": "Match the celestial bodies with their distinctive characteristics:\n(a) Venus     -> (i) Red Planet (iron oxide dust)\n(b) Mars      -> (ii) Earth's Twin\n(c) Jupiter   -> (iii) Ringed Gas Giant\n(d) Saturn    -> (iv) Largest planet in solar system",
+    "options": [
+      "a-(ii), b-(i), c-(iv), d-(iii)",
+      "a-(i), b-(ii), c-(iii), d-(iv)",
+      "a-(iv), b-(iii), c-(ii), d-(i)",
+      "a-(iii), b-(iv), c-(i), d-(ii)"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "Venus = Earth's Twin; Mars = Red planet; Jupiter = Largest planet; Saturn = Prominent ring system."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Social Science",
+    "chapter": "Chapter 1: The Earth in the Solar System",
+    "question": "Why does the Moon have extreme surface temperatures (100°C+ during lunar day and -170°C at lunar night) with zero liquid water?",
+    "options": [
+      "The Moon lacks a protective blanket of atmosphere to trap or shield solar radiation and regulate heat",
+      "The Moon is made of radioactive fire",
+      "The Moon is too close to the Sun",
+      "The Moon is surrounded by ice clouds"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "Lunar vacuum exosphere offers zero greenhouse buffering, subjecting the regolith to brutal unshielded solar irradiance and radiative cooling."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Social Science",
+    "chapter": "Chapter 1: The Earth in the Solar System",
+    "question": "Why is the word 'Planet' derived from the ancient Greek word 'Planetai'?",
+    "options": [
+      "Because 'Planetai' means 'Wanderers', describing how planets appeared to wander across fixed stellar constellations",
+      "Because it means 'Giant Stone'",
+      "Because it means 'Water Carrier'",
+      "Because it means 'King of Sky'"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "Ancient astronomers tracked planets drifting apparent retrograde loops relative to background stellar coordinates, naming them wanderers."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Social Science",
+    "chapter": "Chapter 1: The Earth in the Solar System",
+    "question": "Consider four celestial objects:\n1. Sirius (Dog Star)\n2. Titan (Moon of Saturn)\n3. Ceres (Dwarf planet in asteroid belt)\n4. Halley's Comet\nWhich of these generates self-luminous radiant energy via nuclear fusion?",
+    "options": [
+      "1 only (Sirius)",
+      "2 and 3 only",
+      "1 and 4 only",
+      "All 1, 2, 3, and 4"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "Sirius is a massive luminous main-sequence star; Titan, Ceres, and Halley are non-fusion planetary/cometary bodies."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Social Science",
+    "chapter": "Chapter 1: The Earth in the Solar System",
+    "question": "What is the speed of light in vacuum, and how is it used to define astronomical distances (Light Years)?",
+    "options": [
+      "300,000 km per second (3 × 10⁸ m/s); a light year is the total distance light travels in one full year (~9.46 trillion km)",
+      "1,000 km per hour",
+      "30,000 km per second",
+      "150 million km per second"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "Light speed c = 3 × 10⁸ m/s in vacuum; 1 light year = c × 31,557,600 s ≈ 9.46 × 10¹² km."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Social Science",
+    "chapter": "Chapter 1: The Earth in the Solar System",
+    "question": "Why do astronauts floating in the International Space Station or standing on the Moon see the outer space sky as pitch BLACK even in broad daylight?",
+    "options": [
+      "There is no atmospheric medium in space to scatter incoming sunlight (Rayleigh scattering does not occur in vacuum)",
+      "The Sun is turned off in space",
+      "Space helmets have black glass",
+      "Earth blocks all light"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "Without air molecules to scatter blue optical wavelengths, the vacuum of space appears pitch black even when the Sun blazes brightly."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Hindi Grammar",
+    "chapter": "Chapter 1: भाषा, लिपि और व्याकरण",
+    "question": "मनुष्य अपने भावों और विचारों को बोलकर या लिखकर दूसरों तक पहुँचाने के साधन को क्या कहते हैं?",
+    "options": [
+      "भाषा (Language)",
+      "लिपि (Script)",
+      "व्याकरण (Grammar)",
+      "संकेत"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "भाषा वह सक्षम माध्यम है जिसके द्वारा मनुष्य अपने मनोभावों एवं विचारों का पारस्परिक आदान-प्रदान करता है।"
+  },
+  {
+    "classLevel": 6,
+    "subject": "Hindi Grammar",
+    "chapter": "Chapter 1: भाषा, लिपि और व्याकरण",
+    "question": "भाषा के मुख्य रूप से कितने भेद होते हैं?",
+    "options": [
+      "दो भेद (मौखिक भाषा और लिखित भाषा)",
+      "तीन भेद",
+      "चार भेद",
+      "पाँच भेद"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "भाषा के मुख्य दो रूप होते हैं: 1. मौखिक भाषा (बोलकर व्यक्त) तथा 2. लिखित भाषा (लिखकर व्यक्त)।"
+  },
+  {
+    "classLevel": 6,
+    "subject": "Hindi Grammar",
+    "chapter": "Chapter 1: भाषा, लिपि और व्याकरण",
+    "question": "टेलीफ़ोन पर बातचीत करना या रेडियो पर समाचार सुनना भाषा का कौन-सा रूप है?",
+    "options": [
+      "मौखिक भाषा (Oral Language)",
+      "लिखित भाषा",
+      "सांकेतिक भाषा",
+      "मातृभाषा"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "ध्वनि उच्चारण द्वारा विचारों का श्रवण एवं संप्रेषण मौखिक भाषा के अंतर्गत आता है।"
+  },
+  {
+    "classLevel": 6,
+    "subject": "Hindi Grammar",
+    "chapter": "Chapter 1: भाषा, लिपि और व्याकरण",
+    "question": "समाचार-पत्र पढ़ना या परीक्षा में उत्तर-पुस्तिका लिखना भाषा का कौन-सा रूप है?",
+    "options": [
+      "लिखित भाषा (Written Language)",
+      "मौखिक भाषा",
+      "सांकेतिक भाषा",
+      "बोली"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "लिपिबद्ध वर्णों के माध्यम से विचारों की अभिव्यक्ति एवं पठन लिखित भाषा कहलाता है।"
+  },
+  {
+    "classLevel": 6,
+    "subject": "Hindi Grammar",
+    "chapter": "Chapter 1: भाषा, लिपि और व्याकरण",
+    "question": "भाषा के लिखने की विधि या उसके निश्चित चिह्नों को क्या कहते हैं?",
+    "options": [
+      "लिपि (Script)",
+      "बोली",
+      "व्याकरण",
+      "साहित्य"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "मौखिक ध्वनियों को लिखित रूप में अंकित करने हेतु प्रयुक्त निश्चित वर्ण-चिह्नों की व्यवस्था को 'लिपि' कहते हैं।"
+  },
+  {
+    "classLevel": 6,
+    "subject": "Hindi Grammar",
+    "chapter": "Chapter 1: भाषा, लिपि और व्याकरण",
+    "question": "हिंदी और संस्कृत भाषाएँ किस लिपि में लिखी जाती हैं?",
+    "options": [
+      "देवनागरी लिपि (Devanagari)",
+      "रोमन लिपि",
+      "गुरुमुखी लिपि",
+      "फारसी लिपि"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "हिंदी, संस्कृत, मराठी, तथा नेपाली भाषाएँ बाएँ से दाएँ लिखी जाने वाली 'देवनागरी लिपि' में लिखी जाती हैं।"
+  },
+  {
+    "classLevel": 6,
+    "subject": "Hindi Grammar",
+    "chapter": "Chapter 1: भाषा, लिपि और व्याकरण",
+    "question": "अंग्रेज़ी भाषा किस लिपि में लिखी जाती है?",
+    "options": [
+      "रोमन लिपि (Roman)",
+      "देवनागरी",
+      "गुरुमुखी",
+      "अरबी"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "अंग्रेज़ी, फ्रेंच तथा जर्मन भाषाएँ रोमन लिपि में लिपिबद्ध की जाती हैं।"
+  },
+  {
+    "classLevel": 6,
+    "subject": "Hindi Grammar",
+    "chapter": "Chapter 1: भाषा, लिपि और व्याकरण",
+    "question": "पंजाबी भाषा किस लिपि में लिखी जाती है?",
+    "options": [
+      "गुरुमुखी लिपि (Gurmukhi)",
+      "देवनागरी",
+      "रोमन",
+      "फारसी"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "पंजाबी भाषा की मानक लेखन लिपि 'गुरुमुखी' है।"
+  },
+  {
+    "classLevel": 6,
+    "subject": "Hindi Grammar",
+    "chapter": "Chapter 1: भाषा, लिपि और व्याकरण",
+    "question": "उर्दू भाषा किस लिपि में लिखी जाती है?",
+    "options": [
+      "फारसी लिपि (दाएँ से बाएँ)",
+      "देवनागरी",
+      "रोमन",
+      "ब्राह्मी"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "उर्दू तथा कश्मीरी भाषाएँ दाएँ से बाएँ लिखी जाने वाली फारसी (नस्तलीक़) लिपि में लिखी जाती हैं।"
+  },
+  {
+    "classLevel": 6,
+    "subject": "Hindi Grammar",
+    "chapter": "Chapter 1: भाषा, लिपि और व्याकरण",
+    "question": "भारतीय संविधान में हिंदी को राजभाषा के रूप में कब मान्यता दी गई?",
+    "options": [
+      "14 सितंबर 1949 (14th September 1949)",
+      "15 अगस्त 1947",
+      "26 जनवरी 1950",
+      "2 अक्टूबर 1952"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "14 सितंबर 1949 को भारतीय संविधान के अनुच्छेद 343(1) द्वारा हिंदी को संघ की राजभाषा घोषित किया गया।"
+  },
+  {
+    "classLevel": 6,
+    "subject": "Hindi Grammar",
+    "chapter": "Chapter 1: भाषा, लिपि और व्याकरण",
+    "question": "भारत में प्रतिवर्ष 'हिंदी दिवस' (Hindi Diwas) किस तिथि को मनाया जाता है?",
+    "options": [
+      "14 सितंबर",
+      "5 सितंबर",
+      "26 जनवरी",
+      "15 अगस्त"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "14 सितंबर 1949 को हिंदी को राजभाषा स्वीकार किए जाने के उपलक्ष्य में प्रत्येक वर्ष 14 सितंबर को हिंदी दिवस मनाया जाता है।"
+  },
+  {
+    "classLevel": 6,
+    "subject": "Hindi Grammar",
+    "chapter": "Chapter 1: भाषा, लिपि और व्याकरण",
+    "question": "वह शास्त्र जो हमें भाषा को शुद्ध रूप से बोलना, पढ़ना और लिखना सिखाता है, उसे क्या कहते हैं?",
+    "options": [
+      "व्याकरण (Grammar)",
+      "लिपि",
+      "साहित्य",
+      "कविता"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "व्याकरण भाषा के नियमों का वह शास्त्र है जो भाषा के शुद्ध, मानक एवं त्रुटिहीन प्रयोग का ज्ञान कराता है।"
+  },
+  {
+    "classLevel": 6,
+    "subject": "Hindi Grammar",
+    "chapter": "Chapter 1: भाषा, लिपि और व्याकरण",
+    "question": "बच्चा अपने परिवार तथा माता-पिता से जो भाषा सर्वप्रथम सहज रूप से सीखता है, उसे क्या कहते हैं?",
+    "options": [
+      "मातृभाषा (Mother Tongue)",
+      "राजभाषा",
+      "राष्ट्रभाषा",
+      "विदेशी भाषा"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "मातृभाषा वह स्वाभाविक भाषा है जिसे बालक अपने शैशवकाल में माता-पिता एवं घरेलू परिवेश से ग्रहण करता है।"
+  },
+  {
+    "classLevel": 6,
+    "subject": "Hindi Grammar",
+    "chapter": "Chapter 1: भाषा, लिपि और व्याकरण",
+    "question": "किसी सीमित क्षेत्रीय भूभाग में जनसामान्य द्वारा बोली जाने वाली स्थानीय भाषा को क्या कहते हैं?",
+    "options": [
+      "बोली (Dialect)",
+      "राष्ट्रभाषा",
+      "मानक भाषा",
+      "व्याकरण"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "बोली (जैसे भोजपुरी, अवधी, हरियाणवी) किसी सीमित क्षेत्र में प्रयुक्त होने वाला मौखिक रूप है, जिसका अपना स्वतंत्र व्याकरण नहीं होता।"
+  },
+  {
+    "classLevel": 6,
+    "subject": "Hindi Grammar",
+    "chapter": "Chapter 1: भाषा, लिपि और व्याकरण",
+    "question": "व्याकरण के मुख्य रूप से कितने अंग / विभाग होते हैं?",
+    "options": [
+      "तीन अंग (1. वर्ण-विचार, 2. शब्द-विचार, 3. वाक्य-विचार)",
+      "दो अंग",
+      "पाँच अंग",
+      "छह अंग"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "व्याकरण के तीन मूलभूत अंग होते हैं: वर्ण-विचार (Phonology), शब्द-विचार (Morphology) तथा वाक्य-विचार (Syntax)।"
+  },
+  {
+    "classLevel": 6,
+    "subject": "Hindi Grammar",
+    "chapter": "Chapter 1: भाषा, लिपि और व्याकरण",
+    "question": "भारतीय संविधान की आठवीं अनुसूची (8th Schedule) में कुल कितनी भाषाओं को आधिकारिक रूप से मान्यता प्राप्त है?",
+    "options": [
+      "22 भाषाएँ (22 Official Languages)",
+      "18 भाषाएँ",
+      "25 भाषाएँ",
+      "14 भाषाएँ"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "संविधान की 8वीं अनुसूची में असमिया, बांग्ला, हिंदी, तमिल, तेलुगु, संस्कृत, उर्दू सहित कुल 22 भाषाएँ सम्मिलित हैं।"
+  },
+  {
+    "classLevel": 6,
+    "subject": "Hindi Grammar",
+    "chapter": "Chapter 1: भाषा, लिपि और व्याकरण",
+    "question": "किसी भाषा के ज्ञान के संचित एवं व्यवस्थित कोष को क्या कहा जाता है?",
+    "options": [
+      "साहित्य (Literature)",
+      "व्याकरण",
+      "लिपि",
+      "वर्णमाला"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "युगों-युगों से संचित ज्ञान, उत्कृष्ट विचारों तथा अनुभूतियों के लिखित संग्रह को 'साहित्य' कहते हैं।"
+  },
+  {
+    "classLevel": 6,
+    "subject": "Hindi Grammar",
+    "chapter": "Chapter 1: भाषा, लिपि और व्याकरण",
+    "question": "साहित्य के मुख्य रूप से कौन-से दो रूप / विधाएँ होती हैं?",
+    "options": [
+      "गद्य साहित्य (Prose) और पद्य साहित्य (Poetry)",
+      "नाटक और उपन्यास",
+      "मौखिक और लिखित",
+      "प्राचीन और नवीन"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "साहित्य की दो मुख्य धाराएँ होती हैं: गद्य (कहानी, निबंध, नाटक) तथा पद्य (कविता, दोहा, पद, छंद)।"
+  },
+  {
+    "classLevel": 6,
+    "subject": "Hindi Grammar",
+    "chapter": "Chapter 1: भाषा, लिपि और व्याकरण",
+    "question": "देश के अधिकांश नागरिकों द्वारा बोली और समझी जाने वाली सर्वमान्य भाषा को क्या कहते हैं?",
+    "options": [
+      "राष्ट्रभाषा (National Language)",
+      "मातृभाषा",
+      "बोली",
+      "सांकेतिक भाषा"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "राष्ट्रभाषा संपूर्ण राष्ट्र में जनसंपर्क तथा भावनात्मक एकता स्थापित करने वाली बहुसंख्यक प्रयुक्त भाषा होती है।"
+  },
+  {
+    "classLevel": 6,
+    "subject": "Hindi Grammar",
+    "chapter": "Chapter 1: भाषा, लिपि और व्याकरण",
+    "question": "सरकारी कार्यालयों तथा प्रशासनिक राजकाज के कार्यों में प्रयुक्त होने वाली भाषा क्या कहलाती है?",
+    "options": [
+      "राजभाषा (Official Language)",
+      "बोली",
+      "मातृभाषा",
+      "लोकभाषा"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "राजभाषा वह संवैधानिक भाषा है जिसमें देश के शासकीय एवं कानूनी कार्य संपन्न किए जाते हैं।"
+  },
+  {
+    "classLevel": 6,
+    "subject": "Hindi Grammar",
+    "chapter": "Chapter 1: भाषा, लिपि और व्याकरण",
+    "question": "निम्नलिखित में से कौन-सा वाक्य व्याकरण की दृष्टि से पूर्णतः शुद्ध है?",
+    "options": [
+      "मेरे को घर जाना है। -> अशुद्ध; 'मुझे घर जाना है।' -> शुद्ध",
+      "हमारा देश में अनेक नदियाँ हैं।",
+      "दो लड़के खेल रही हैं।",
+      "खरगोश को काटकर गाजर खिलाओ।"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "सर्वनाम संबंधी अशुद्धि 'मेरे को' के स्थान पर मानक रूप 'मुझे घर जाना है' व्याकरणसम्मत शुद्ध प्रयोग है।"
+  },
+  {
+    "classLevel": 6,
+    "subject": "Hindi Grammar",
+    "chapter": "Chapter 1: भाषा, लिपि और व्याकरण",
+    "question": "गद्य साहित्य के अंतर्गत कौन-सी रचना विधा आती है?",
+    "options": [
+      "कहानी, नाटक, एकांकी और निबंध",
+      "दोहा और चौपाई",
+      "गीत और ग़ज़ल",
+      "छंदबद्ध कविता"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "साधारण बोलचाल की वाक्य संरचना में विचार प्रस्तुत करने वाली विधाएँ (कहानी, निबंध, उपन्यास) गद्य कहलाती हैं।"
+  },
+  {
+    "classLevel": 6,
+    "subject": "Hindi Grammar",
+    "chapter": "Chapter 1: भाषा, लिपि और व्याकरण",
+    "question": "पद्य साहित्य के अंतर्गत निम्नलिखित में से कौन-सी विधा आती है?",
+    "options": [
+      "कविता, दोहा, चौपाई, पद और सवैया",
+      "यात्रा-वृत्तांत",
+      "संस्मरण",
+      "जीवनी"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "लय, तुक, छंद तथा गेयता से युक्त भावात्मक रचनाएँ पद्य साहित्य कहलाती हैं।"
+  },
+  {
+    "classLevel": 6,
+    "subject": "Hindi Grammar",
+    "chapter": "Chapter 1: भाषा, लिपि और व्याकरण",
+    "question": "मराठी भाषा किस लिपि में लिखी जाती है?",
+    "options": [
+      "देवनागरी लिपि",
+      "रोमन लिपि",
+      "गुरुमुखी लिपि",
+      "द्रविड़ लिपि"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "मराठी तथा कोंकणी भाषाएँ देवनागरी लिपि के 'मोडी/बालबोध' स्वरूप में लिखी जाती हैं।"
+  },
+  {
+    "classLevel": 6,
+    "subject": "Hindi Grammar",
+    "chapter": "Chapter 1: भाषा, लिपि और व्याकरण",
+    "question": "ट्रैफ़िक पुलिस का सिपाही हाथ के इशारे से वाहनों को रुकने का संकेत देता है। यह किसका उदाहरण है?",
+    "options": [
+      "सांकेतिक भाषा (Sign Language - जिसका व्याकरण में अध्ययन नहीं किया जाता)",
+      "लिखित भाषा",
+      "मौखिक भाषा",
+      "राजभाषा"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "संकेतों द्वारा भाव व्यक्त करना सांकेतिक संप्रेषण है; निश्चित नियम न होने से व्याकरण में इसका अध्ययन नहीं होता।"
+  },
+  {
+    "classLevel": 6,
+    "subject": "Hindi Grammar",
+    "chapter": "Chapter 1: भाषा, लिपि और व्याकरण",
+    "question": "व्याकरण के किस अंग में वर्णों के आकार, उच्चारण, भेद तथा उनके मेल की संधि का अध्ययन किया जाता है?",
+    "options": [
+      "वर्ण-विचार (Orthography)",
+      "शब्द-विचार",
+      "वाक्य-विचार",
+      "पद-विचार"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "वर्ण-विचार में स्वर, व्यंजन, उनके उच्चारण स्थान, मात्रा तथा वर्ण-संयोजन का विधिवत विवेचन होता है।"
+  },
+  {
+    "classLevel": 6,
+    "subject": "Hindi Grammar",
+    "chapter": "Chapter 1: भाषा, लिपि और व्याकरण",
+    "question": "व्याकरण के किस अंग में संज्ञा, सर्वनाम, विशेषण, क्रिया तथा शब्द रचना (उपसर्ग, प्रत्यय, समास) का अध्ययन किया जाता है?",
+    "options": [
+      "शब्द-विचार (Morphology)",
+      "वर्ण-विचार",
+      "वाक्य-विचार",
+      "छंद-विचार"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "शब्द-विचार में शब्दों के भेद, व्युत्पत्ति, रूपांतरण तथा अर्थ का विश्लेषणात्मक अध्ययन होता है।"
+  },
+  {
+    "classLevel": 6,
+    "subject": "Hindi Grammar",
+    "chapter": "Chapter 1: भाषा, लिपि और व्याकरण",
+    "question": "व्याकरण के किस अंग में वाक्य की रचना, वाक्य के अंग (उद्देश्य और विधेय) तथा विराम-चिह्नों का अध्ययन किया जाता है?",
+    "options": [
+      "वाक्य-विचार (Syntax)",
+      "वर्ण-विचार",
+      "शब्द-विचार",
+      "ध्वनि-विचार"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "वाक्य-विचार के अंतर्गत वाक्य के भेद, पदक्रम, अन्वय, रूपांतरण तथा विराम चिह्नों का अध्ययन किया जाता है।"
+  },
+  {
+    "classLevel": 6,
+    "subject": "Hindi Grammar",
+    "chapter": "Chapter 1: भाषा, लिपि और व्याकरण",
+    "question": "कथन और कारण को ध्यानपूर्वक पढ़ें:\nकथन (A): लिखित भाषा को मौखिक भाषा की अपेक्षा अधिक स्थायी और प्रामाणिक माना जाता है।\nकारण (R): लिखित भाषा को सदियों तक संरक्षित रखा जा सकता है और यह कानूनी तथा ऐतिहासिक साक्ष्य का कार्य करती है।\nसही विकल्प चुनें:",
+    "options": [
+      "(A) और (R) दोनों सही हैं तथा (R), (A) की सही व्याख्या करता है।",
+      "(A) और (R) दोनों सही हैं, परन्तु (R), (A) की सही व्याख्या नहीं करता।",
+      "(A) सही है, परन्तु (R) गलत है।",
+      "(A) गलत है, परन्तु (R) सही है।"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "उच्चरित मौखिक ध्वनियाँ क्षणभंगुर होती हैं, जबकि लिपिबद्ध लिखित रूप ज्ञान एवं कानूनों को कालजयी स्थायित्व प्रदान करता है।"
+  },
+  {
+    "classLevel": 6,
+    "subject": "Hindi Grammar",
+    "chapter": "Chapter 1: भाषा, लिपि और व्याकरण",
+    "question": "भाषा और लिपि के संबंध में बेमेल / असंगत (IMPOSTER) युग्म को पहचानिए:\nयुग्म: [हिंदी - देवनागरी, अंग्रेज़ी - रोमन, पंजाबी - गुरुमुखी, संस्कृत - फारसी]",
+    "options": [
+      "हिंदी - देवनागरी",
+      "अंग्रेज़ी - रोमन",
+      "पंजाबी - गुरुमुखी",
+      "संस्कृत - फारसी"
+    ],
+    "correctAnswer": 3,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "'संस्कृत - फारसी' असंगत है; संस्कृत भाषा सदैव 'देवनागरी लिपि' (प्राचीन काल में ब्राह्मी) में लिखी जाती है, फारसी में नहीं।"
+  },
+  {
+    "classLevel": 6,
+    "subject": "Hindi Grammar",
+    "chapter": "Chapter 1: भाषा, लिपि और व्याकरण",
+    "question": "भाषा और बोली में मूलभूत वैज्ञानिक अंतर क्या है?",
+    "options": [
+      "भाषा का क्षेत्र व्यापक होता है, उसका लिखित साहित्य और मानक व्याकरण होता है; जबकि बोली का क्षेत्र सीमित होता है और वह मुख्य रूप से मौखिक होती है",
+      "बोली केवल विदेशों में बोली जाती है",
+      "भाषा में वर्ण नहीं होते",
+      "बोली का व्याकरण बहुत कठिन होता है"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "भाषा विस्तृत भौगोलिक क्षेत्र में परिनिष्ठित व्याकरणसम्मत मानक रूप है, जबकि बोली अंचल विशेष की स्थानीय मौखिक अभिव्यक्ति है।"
+  },
+  {
+    "classLevel": 6,
+    "subject": "Hindi Grammar",
+    "chapter": "Chapter 1: भाषा, लिपि और व्याकरण",
+    "question": "सुमेलित कीजिए (Match the Columns):\n(क) कबीर के दोहे      -> (i) देवनागरी लिपि\n(ख) मुंशी प्रेमचंद के उपन्यास -> (ii) पद्य साहित्य\n(ग) हिंदी की लिपि     -> (iii) 14 सितंबर 1949\n(घ) हिंदी को राजभाषा  -> (iv) गद्य साहित्य",
+    "options": [
+      "क-(ii), ख-(iv), ग-(i), घ-(iii)",
+      "क-(i), ख-(ii), ग-(iii), घ-(iv)",
+      "क-(iv), ख-(iii), ग-(ii), घ-(i)",
+      "क-(iii), ख-(i), ग-(iv), घ-(ii)"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "कबीर के दोहे = पद्य; प्रेमचंद के उपन्यास = गद्य; हिंदी लिपि = देवनागरी; राजभाषा स्वीकृति = 14 सितंबर 1949।"
+  },
+  {
+    "classLevel": 6,
+    "subject": "Hindi Grammar",
+    "chapter": "Chapter 1: भाषा, लिपि और व्याकरण",
+    "question": "निम्नलिखित कथनों पर विचार कीजिए:\nकथन 1: देवनागरी लिपि वैज्ञानिक है क्योंकि इसमें जैसा बोला जाता है, वैसा ही लिखा जाता है (ध्वन्यात्मक लिपि)।\nकथन 2: ब्रजभाषा और अवधी बोलियों में भी समृद्ध साहित्य रचा गया है (जैसे सूरसागर और रामचरितमानस)।\nकथन 3: व्याकरण भाषा पर नए नियम थोपता है और भाषा को बदल देता है।\nकौन-से कथन सत्य हैं?",
+    "options": [
+      "कथन 1 और 2 केवल",
+      "कथन 2 और 3 केवल",
+      "कथन 1 और 3 केवल",
+      "सभी कथन 1, 2 और 3"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "कथन 3 असत्य है क्योंकि व्याकरण भाषा को बदलता नहीं, बल्कि प्रचलित भाषा के नियमों का व्यवस्थित अनुशासनात्मक विश्लेषण करता है।"
+  },
+  {
+    "classLevel": 6,
+    "subject": "Hindi Grammar",
+    "chapter": "Chapter 1: भाषा, लिपि और व्याकरण",
+    "question": "निम्नलिखित वाक्यों में से पदक्रम और कारक की दृष्टि से शुद्ध वाक्य का चयन कीजिए:",
+    "options": [
+      "खरगोश को काटकर गाजर खिलाओ। -> अशुद्ध; 'गाजर काटकर खरगोश को खिलाओ।' -> शुद्ध पदक्रम",
+      "बच्चे को प्लेट में रखकर खाना दो। -> अशुद्ध; 'प्लेट में रखकर बच्चे को खाना दो।' -> शुद्ध",
+      "यहाँ ताज़ा गाय का दूध मिलता है। -> अशुद्ध; 'यहाँ गाय का ताज़ा दूध मिलता है।' -> शुद्ध",
+      "उपर्युक्त सभी विकल्पों में शुद्धिकरण की आवश्यकता है।"
+    ],
+    "correctAnswer": 3,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "तीनों वाक्यों में विशेषण एवं क्रिया का पदक्रम दोषपूर्ण था; तीनों का शुद्ध रूप पदक्रम सुधारने से ही बनता है।"
+  },
+  {
+    "classLevel": 6,
+    "subject": "Hindi Grammar",
+    "chapter": "Chapter 1: भाषा, लिपि और व्याकरण",
+    "question": "प्राचीन भारत की अधिकांश आधुनिक लिपियों (जैसे देवनागरी, बांग्ला, गुजराती) की जननी किस ऐतिहासिक लिपि को माना जाता है?",
+    "options": [
+      "ब्राह्मी लिपि (Brahmi Script)",
+      "खरोष्ठी लिपि",
+      "सिंधु घाटी लिपि",
+      "आरामाइक लिपि"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "सम्राट अशोक के शिलालेखों में प्रयुक्त 'ब्राह्मी लिपि' से ही कालांतर में गुप्त लिपि और तत्पश्चात् देवनागरी का विकास हुआ।"
+  },
+  {
+    "classLevel": 6,
+    "subject": "Hindi Grammar",
+    "chapter": "Chapter 1: भाषा, लिपि और व्याकरण",
+    "question": "यदि किसी व्यक्ति को भाषा का व्याकरण ज्ञात न हो, तो उसके संप्रेषण में क्या प्रमुख दोष उत्पन्न होगा?",
+    "options": [
+      "लिंग, वचन, कारक, काल तथा पदक्रम की अशुद्धियों के कारण अर्थ का अनर्थ हो सकता है",
+      "व्यक्ति कभी बोल नहीं पाएगा",
+      "व्यक्ति की आवाज़ बदल जाएगी",
+      "लिपि नष्ट हो जाएगी"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "व्याकरणहीन भाषा में अन्वय और पदक्रम का नियमन न होने से संप्रेषण में गंभीर अर्थभ्रम पैदा होता है।"
+  },
+  {
+    "classLevel": 6,
+    "subject": "Hindi Grammar",
+    "chapter": "Chapter 1: भाषा, लिपि और व्याकरण",
+    "question": "निम्नलिखित 4 भाषाओं में से कौन-सी भाषा भारतीय संविधान की 8वीं अनुसूची में सम्मिलित 22 भाषाओं में शामिल नहीं है?",
+    "options": [
+      "भोजपुरी (Bhojpuri - बोली स्तर)",
+      "मैथिली",
+      "डोगरी",
+      "संथाली"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "मैथिली, डोगरी, बोडो और संथाली 92वें संविधान संशोधन (2003) द्वारा 8वीं अनुसूची में शामिल हैं, जबकि भोजपुरी अभी तक शामिल नहीं है।"
+  },
+  {
+    "classLevel": 6,
+    "subject": "Hindi Grammar",
+    "chapter": "Chapter 1: भाषा, लिपि और व्याकरण",
+    "question": "किसी भी भाषा के मानक (Standard) रूप का क्या महत्व होता है?",
+    "options": [
+      "मानक रूप पूरे देश में शिक्षा, शासन, न्यायालय तथा जनसंचार में एकरूपता और स्पष्टता बनाए रखता है",
+      "मानक रूप भाषा को केवल कुछ लोगों तक सीमित करता है",
+      "मानक रूप से भाषा कठिन हो जाती है",
+      "मानक रूप केवल प्राचीन काल में प्रयुक्त होता था"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "मानक भाषा क्षेत्रीय भिन्नताओं से परे एक सर्वस्वीकृत, व्याकरणसम्मत तथा प्रामाणिक रूप प्रस्तुत करती है।"
+  },
+  {
+    "classLevel": 6,
+    "subject": "Hindi Grammar",
+    "chapter": "Chapter 1: भाषा, लिपि और व्याकरण",
+    "question": "वाक्य के दो अनिवार्य घटक (अंग) कौन-से होते हैं?",
+    "options": [
+      "उद्देश्य (Subject) और विधेय (Predicate)",
+      "स्वर और व्यंजन",
+      "गद्य और पद्य",
+      "उपसर्ग और प्रत्यय"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "प्रत्येक वाक्य में जिसके विषय में कुछ कहा जाए वह 'उद्देश्य' तथा उद्देश्य के बारे में जो कहा जाए वह 'विधेय' कहलाता है।"
+  },
+  {
+    "classLevel": 6,
+    "subject": "Hindi Grammar",
+    "chapter": "Chapter 1: भाषा, लिपि और व्याकरण",
+    "question": "देवनागरी लिपि की सर्वप्रमुख वैज्ञानिक विशेषता क्या है?",
+    "options": [
+      "यह एक अक्षरात्मक (Syllabic) एवं ध्वन्यात्मक लिपि है जिसमें प्रत्येक उच्चरित ध्वनि के लिए एक विशिष्ट और निश्चित वर्ण चिह्न होता है",
+      "इसमें साइलेंट लेटर्स बहुत अधिक होते हैं",
+      "यह केवल दाएँ से बाएँ लिखी जाती है",
+      "इसमें केवल 10 वर्ण होते हैं"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "देवनागरी में 1-to-1 ध्वनि-वर्ण सामंजस्य है; इसमें रोमन लिपि की भाँति अनिश्चित मूक (silent) अक्षरों का भ्रम नहीं होता।"
+  }
+]

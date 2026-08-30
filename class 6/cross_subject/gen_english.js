@@ -1,0 +1,550 @@
+import fs from 'fs';
+
+// -------------------------------------------------------------
+// SUBJECT 3: English - Chapter 1: Who Did Patrick's Homework? (40 Questions)
+// -------------------------------------------------------------
+const englishQuestions = [
+  // EASY (12)
+  {
+    classLevel: 6,
+    subject: "English",
+    chapter: "Chapter 1: Who Did Patrick's Homework?",
+    question: "What did Patrick dislike doing the most?",
+    options: ["Doing his homework", "Playing Nintendo", "Playing baseball", "Eating breakfast"],
+    correctAnswer: 0,
+    difficulty: "EASY",
+    damage: 150,
+    explanation: "Patrick hated doing homework, calling it 'too boring' and preferring outdoor games."
+  },
+  {
+    classLevel: 6,
+    subject: "English",
+    chapter: "Chapter 1: Who Did Patrick's Homework?",
+    question: "Which games did Patrick love to play instead of doing his studies?",
+    options: ["Hockey, basketball, and Nintendo", "Cricket and chess", "Football and golf", "Badminton only"],
+    correctAnswer: 0,
+    difficulty: "EASY",
+    damage: 150,
+    explanation: "According to the story, Patrick loved playing hockey, basketball, and Nintendo video games."
+  },
+  {
+    classLevel: 6,
+    subject: "English",
+    chapter: "Chapter 1: Who Did Patrick's Homework?",
+    question: "One day, what did Patrick find his cat playing with?",
+    options: ["A little doll (which was actually a tiny man / elf)", "A woollen ball", "A rubber mouse", "A piece of paper"],
+    correctAnswer: 0,
+    difficulty: "EASY",
+    damage: 150,
+    explanation: "Patrick rescued what he thought was a little doll, but it turned out to be an elf of the tiniest size."
+  },
+  {
+    classLevel: 6,
+    subject: "English",
+    chapter: "Chapter 1: Who Did Patrick's Homework?",
+    question: "What clothing was the little man (elf) wearing?",
+    options: [
+      "A little woollen shirt with old-fashioned britches and a high tall hat like a witch's",
+      "A silk coat with red boots",
+      "A modern jeans and t-shirt",
+      "A school uniform"
+    ],
+    correctAnswer: 0,
+    difficulty: "EASY",
+    damage: 150,
+    explanation: "The elf wore a miniature woollen shirt with old-fashioned breeches and a pointed witch-like hat."
+  },
+  {
+    classLevel: 6,
+    subject: "English",
+    chapter: "Chapter 1: Who Did Patrick's Homework?",
+    question: "What promise did the elf make to Patrick in exchange for saving him from the cat?",
+    options: ["To grant him a wish", "To give him bags of gold", "To clean his room", "To buy him toys"],
+    correctAnswer: 0,
+    difficulty: "EASY",
+    damage: 150,
+    explanation: "The frightened elf promised to grant Patrick one wish if he didn't give him back to the cat."
+  },
+  {
+    classLevel: 6,
+    subject: "English",
+    chapter: "Chapter 1: Who Did Patrick's Homework?",
+    question: "What was Patrick's wish to the elf?",
+    options: [
+      "To do all his homework till the end of the semester (35 days)",
+      "To make him invisible",
+      "To give him a sports car",
+      "To win a video game tournament"
+    ],
+    correctAnswer: 0,
+    difficulty: "EASY",
+    damage: 150,
+    explanation: "Patrick wished the elf would do all his homework until the end of the semester of 35 days so he could get 'A' grades."
+  },
+  {
+    classLevel: 6,
+    subject: "English",
+    chapter: "Chapter 1: Who Did Patrick's Homework?",
+    question: "How long was the school semester in Patrick's school?",
+    options: ["35 days", "50 days", "100 days", "30 days"],
+    correctAnswer: 0,
+    difficulty: "EASY",
+    damage: 150,
+    explanation: "The semester lasted exactly 35 days."
+  },
+  {
+    classLevel: 6,
+    subject: "English",
+    chapter: "Chapter 1: Who Did Patrick's Homework?",
+    question: "What grade did Patrick finally receive in all his subjects at the end of the semester?",
+    options: ["'A' grades", "'B' grades", "'C' grades", "Pass grade only"],
+    correctAnswer: 0,
+    difficulty: "EASY",
+    damage: 150,
+    explanation: "Patrick scored 'A's in his subjects, astonishing his teachers and parents."
+  },
+  {
+    classLevel: 6,
+    subject: "English",
+    chapter: "Chapter 1: Who Did Patrick's Homework?",
+    question: "Who is the author of the story 'Who Did Patrick's Homework?'?",
+    options: ["Carol Moore", "Roald Dahl", "Ruskin Bond", "R.K. Narayan"],
+    correctAnswer: 0,
+    difficulty: "EASY",
+    damage: 150,
+    explanation: "The story 'Who Did Patrick's Homework?' is written by author Carol Moore."
+  },
+  {
+    classLevel: 6,
+    subject: "English",
+    chapter: "Chapter 1: Who Did Patrick's Homework?",
+    question: "What is the meaning of the word 'Ignoramus' as used in the chapter?",
+    options: ["An uneducated person who lacks knowledge", "A smart genius", "A magician", "A small fairy"],
+    correctAnswer: 0,
+    difficulty: "EASY",
+    damage: 150,
+    explanation: "An ignoramus is an informal term for a person who lacks basic education or knowledge."
+  },
+  {
+    classLevel: 6,
+    subject: "English",
+    chapter: "Chapter 1: Who Did Patrick's Homework?",
+    question: "What did the elf need Patrick to look up in the dictionary?",
+    options: ["The spellings and meanings of difficult English words", "Math multiplication tables", "Historical dates", "Geography maps"],
+    correctAnswer: 0,
+    difficulty: "EASY",
+    damage: 150,
+    explanation: "The elf squeaked that he didn't know words and demanded Patrick fetch a dictionary and read out letters."
+  },
+  {
+    classLevel: 6,
+    subject: "English",
+    chapter: "Chapter 1: Who Did Patrick's Homework?",
+    question: "What is the rhyming scheme and poet of the poem 'A House, A Home' in Chapter 1?",
+    options: ["Lorraine M. Halli", "Robert Frost", "William Wordsworth", "Sarojini Naidu"],
+    correctAnswer: 0,
+    difficulty: "EASY",
+    damage: 150,
+    explanation: "The poem 'A House, A Home' contrasting physical building materials with loving family life is composed by Lorraine M. Halli."
+  },
+
+  // MEDIUM (16)
+  {
+    classLevel: 6,
+    subject: "English",
+    chapter: "Chapter 1: Who Did Patrick's Homework?",
+    question: "Why did the little elf constantly squeak and demand Patrick's help in Mathematics?",
+    options: [
+      "Elves knew nothing of human timetables, addition, subtraction, fractions, and division",
+      "The elf had broken his glasses",
+      "The elf wanted to play video games",
+      "The math book was written in secret code"
+    ],
+    correctAnswer: 0,
+    difficulty: "MEDIUM",
+    damage: 250,
+    explanation: "The elf exclaimed that elves never needed times tables, addition, or division, forcing Patrick to sit beside him and guide every step."
+  },
+  {
+    classLevel: 6,
+    subject: "English",
+    chapter: "Chapter 1: Who Did Patrick's Homework?",
+    question: "How did the elf behave when it came to reading Human History?",
+    options: [
+      "He considered human history 'a mystery' and shrieked for Patrick to fetch more books from the library and read them aloud",
+      "He knew everything and finished it in one minute",
+      "He tore up the history textbook",
+      "He fell asleep immediately"
+    ],
+    correctAnswer: 0,
+    difficulty: "MEDIUM",
+    damage: 250,
+    explanation: "To the elf, human history was an utter mystery, so he ordered Patrick to go to the library and read books aloud to him."
+  },
+  {
+    classLevel: 6,
+    subject: "English",
+    chapter: "Chapter 1: Who Did Patrick's Homework?",
+    question: "What real transformation took place in Patrick's daily habits and attitude by the end of the semester?",
+    options: [
+      "He became a model kid who cleaned his room, did his chores, stayed cheerful, and never lost his temper",
+      "He became lazy and hired more elves",
+      "He dropped out of school to play sports",
+      "He stopped talking to his teachers"
+    ],
+    correctAnswer: 0,
+    difficulty: "MEDIUM",
+    damage: 250,
+    explanation: "Patrick developed self-discipline: cleaning his room, doing daily chores, staying cheerful, and developing a completely new positive attitude."
+  },
+  {
+    classLevel: 6,
+    subject: "English",
+    chapter: "Chapter 1: Who Did Patrick's Homework?",
+    question: "What is the fundamental difference between a 'House' and a 'Home' as described in the poem 'A House, A Home'?",
+    options: [
+      "A house is made of lifeless brick, stone, and wood; a home is made of loving family members caring selflessly for one another",
+      "A house has two floors; a home has only one room",
+      "A home has expensive furniture; a house is empty",
+      "There is no difference between them"
+    ],
+    correctAnswer: 0,
+    difficulty: "MEDIUM",
+    damage: 250,
+    explanation: "Poet Lorraine M. Halli distinguishes physical inanimate construction (house) from the emotional bond of loving family (home)."
+  },
+  {
+    classLevel: 6,
+    subject: "English",
+    chapter: "Chapter 1: Who Did Patrick's Homework?",
+    question: "Why did the elf slip out quietly through the back door on the last day of the semester?",
+    options: [
+      "There was no more homework left to do, and his contracted promise was fulfilled",
+      "He was terrified of Patrick's parents",
+      "The cat attacked him again",
+      "He stole Patrick's Nintendo console"
+    ],
+    correctAnswer: 0,
+    difficulty: "MEDIUM",
+    damage: 250,
+    explanation: "On the 35th day, the semester ended with zero remaining homework; free from his pledge, the elf slipped away quietly."
+  },
+  {
+    classLevel: 6,
+    subject: "English",
+    chapter: "Chapter 1: Who Did Patrick's Homework?",
+    question: "Choose the correct synonym for the phrase 'a nagging person' as depicted by the elf in the story:",
+    options: ["A nag", "A tutor", "A scholar", "A pioneer"],
+    correctAnswer: 0,
+    difficulty: "MEDIUM",
+    damage: 250,
+    explanation: "A 'nag' is one who persistently annoys, complains, or urges someone to do continuous work."
+  },
+  {
+    classLevel: 6,
+    subject: "English",
+    chapter: "Chapter 1: Who Did Patrick's Homework?",
+    question: "What figure of speech / literary device is used in the line: 'His face wrinkled like a dishcloth thrown in the hamper'?",
+    options: ["Simile", "Metaphor", "Personification", "Alliteration"],
+    correctAnswer: 0,
+    difficulty: "MEDIUM",
+    damage: 250,
+    explanation: "The explicit comparison using 'like' between the elf's wrinkled face and a dishcloth is a Simile."
+  },
+  {
+    classLevel: 6,
+    subject: "English",
+    chapter: "Chapter 1: Who Did Patrick's Homework?",
+    question: "What moral lesson does the story 'Who Did Patrick's Homework?' impart to young learners?",
+    options: [
+      "Self-help and persistent hard work are the true secrets to academic success, not magical shortcuts",
+      "Elves are dangerous creatures to keep as pets",
+      "Homework should be banned in schools",
+      "Video games are better than studies"
+    ],
+    correctAnswer: 0,
+    difficulty: "MEDIUM",
+    damage: 250,
+    explanation: "The narrative illustrates that self-reliance, diligent effort, and intrinsic motivation create true personal excellence."
+  },
+  {
+    classLevel: 6,
+    subject: "English",
+    chapter: "Chapter 1: Who Did Patrick's Homework?",
+    question: "In the supplementary reader tale 'A Tale of Two Birds', why did the two young birds behave so completely differently?",
+    options: [
+      "One lived with robbers and learned abusive language; the other lived near a Rishi's ashram and learned courteous hospitality",
+      "They belonged to different biological species",
+      "One was blind and the other was deaf",
+      "One was fed meat and the other ate grains"
+    ],
+    correctAnswer: 0,
+    difficulty: "MEDIUM",
+    damage: 250,
+    explanation: "'One is known by the company one keeps.' Environmental conditioning and peer company shaped their distinct characters."
+  },
+  {
+    classLevel: 6,
+    subject: "English",
+    chapter: "Chapter 1: Who Did Patrick's Homework?",
+    question: "What phrase did the King utter upon hearing the ashram bird welcome him so gently?",
+    options: [
+      "\"This bird looks just like the other outside the cave, but how different their talk is!\"",
+      "\"I will shoot this bird for dinner.\"",
+      "\"This bird is an imposter.\"",
+      "\"Take me to the robbers' den.\""
+    ],
+    correctAnswer: 0,
+    difficulty: "MEDIUM",
+    damage: 250,
+    explanation: "The King was amazed by how two identical sibling birds displayed opposite behavioral temperaments due to their company."
+  },
+  {
+    classLevel: 6,
+    subject: "English",
+    chapter: "Chapter 1: Who Did Patrick's Homework?",
+    question: "What is the meaning of the word 'Britches' in the description of the elf?",
+    options: ["Short trousers / breeches", "Leather gloves", "A magical cape", "A pointed hat"],
+    correctAnswer: 0,
+    difficulty: "MEDIUM",
+    damage: 250,
+    explanation: "'Britches' (or breeches) are old-fashioned short trousers fitting snugly just below the knee."
+  },
+  {
+    classLevel: 6,
+    subject: "English",
+    chapter: "Chapter 1: Who Did Patrick's Homework?",
+    question: "Fill in the blank: 'Patrick stayed up nights, feeling ______ and tired, yet went to school with his eyes puffed and bleary.'",
+    options: ["weary", "cheerful", "frightened", "amused"],
+    correctAnswer: 0,
+    difficulty: "MEDIUM",
+    damage: 250,
+    explanation: "'Weary' expresses extreme physical and mental fatigue resulting from late-night studying."
+  },
+  {
+    classLevel: 6,
+    subject: "English",
+    chapter: "Chapter 1: Who Did Patrick's Homework?",
+    question: "What did Patrick's teachers do when he started scoring top grades?",
+    options: [
+      "They smiled, praised him, and were full of sincere appreciation",
+      "They accused him of cheating with an elf",
+      "They gave him twice as much homework",
+      "They called his parents to complain"
+    ],
+    correctAnswer: 0,
+    difficulty: "MEDIUM",
+    damage: 250,
+    explanation: "His teachers were genuinely pleased, admiring his transformed dedication and academic turnaround."
+  },
+  {
+    classLevel: 6,
+    subject: "English",
+    chapter: "Chapter 1: Who Did Patrick's Homework?",
+    question: "Which of the following describes Patrick's eyes on the morning after studying all night?",
+    options: ["Puffed and bleary", "Bright and shining", "Red with anger", "Shut tight"],
+    correctAnswer: 0,
+    difficulty: "MEDIUM",
+    damage: 250,
+    explanation: "Working late hours with the elf left Patrick's eyes visibly swollen ('puffed') and exhausted ('bleary')."
+  },
+  {
+    classLevel: 6,
+    subject: "English",
+    chapter: "Chapter 1: Who Did Patrick's Homework?",
+    question: "What is the meaning of 'Glitch' in the context of the elf's homework trouble?",
+    options: ["A problem or fault in an operation preventing smooth working", "A magical spell", "A musical instrument", "A small animal"],
+    correctAnswer: 0,
+    difficulty: "MEDIUM",
+    damage: 250,
+    explanation: "A glitch refers to a sudden malfunction, hindrance, or flaw that stops progress."
+  },
+  {
+    classLevel: 6,
+    subject: "English",
+    chapter: "Chapter 1: Who Did Patrick's Homework?",
+    question: "What did Patrick think his cat was playing with before discovering it was an elf?",
+    options: ["A little doll", "A feather", "A ball of thread", "A real mouse"],
+    correctAnswer: 0,
+    difficulty: "MEDIUM",
+    damage: 250,
+    explanation: "Patrick mistook the minuscule man for a child's toy doll when grabbing it from the cat."
+  },
+
+  // HARD (12)
+  {
+    classLevel: 6,
+    subject: "English",
+    chapter: "Chapter 1: Who Did Patrick's Homework?",
+    question: "Read the statements:\nAssertion (A): In reality, Patrick did all his homework himself, not the little elf.\nReason (R): The elf was totally ignorant of human subjects (Math, English, History) and forced Patrick to research words in the dictionary, solve arithmetic sums, and read history books aloud.\nChoose the correct option:",
+    "options": [
+      "Both (A) and (R) are true, and (R) is the correct explanation of (A).",
+      "Both (A) and (R) are true, but (R) is NOT the correct explanation of (A).",
+      "(A) is true, but (R) is false.",
+      "(A) is false, but (R) is true."
+    ],
+    correctAnswer: 0,
+    difficulty: "HARD",
+    damage: 350,
+    explanation: "The central ironic twist is that Patrick did every bit of the intellectual labor himself while believing the elf was doing it."
+  },
+  {
+    classLevel: 6,
+    subject: "English",
+    chapter: "Chapter 1: Who Did Patrick's Homework?",
+    question: "Spot the IMPOSTER in the following group of architectural elements mentioned in the poem 'A House, A Home':\nGroup: [Chimney, Stucco, Eaves, Unselfish acts]",
+    "options": ["Chimney", "Stucco", "Eaves", "Unselfish acts"],
+    correctAnswer: 3,
+    difficulty: "HARD",
+    damage: 350,
+    explanation: "'Unselfish acts' is an attribute of a HOME (family love), whereas Chimney, Stucco (fine plaster), and Eaves are physical components of a HOUSE."
+  },
+  {
+    classLevel: 6,
+    subject: "English",
+    chapter: "Chapter 1: Who Did Patrick's Homework?",
+    question: "What profound psychological technique did the elf unwittingly use on Patrick to make him study?",
+    options: [
+      "Reverse scaffolding / forced active learning (acting helpless so Patrick took full ownership of the problem-solving)",
+      "Hypnotic mind control",
+      "Threat of physical punishment",
+      "Bribery with magical coins"
+    ],
+    correctAnswer: 0,
+    difficulty: "HARD",
+    damage: 350,
+    explanation: "By constantly claiming ignorance, the elf compelled Patrick into active reading, calculation, and self-directed study."
+  },
+  {
+    classLevel: 6,
+    subject: "English",
+    chapter: "Chapter 1: Who Did Patrick's Homework?",
+    question: "In 'A Tale of Two Birds', the Rishi summarized the ultimate lesson of the story as:",
+    options: [
+      "\"One is known by the company one keeps. That bird repeated the robbers' talk, but this one repeats what he hears at the ashram.\"",
+      "\"Never trust a wild bird in a storm.\"",
+      "\"Kings must always hunt in thick forests.\"",
+      "\"All birds in a forest possess evil minds.\""
+    ],
+    correctAnswer: 0,
+    difficulty: "HARD",
+    damage: 350,
+    explanation: "The sage explains that association and environment define social temperament and speech habits."
+  },
+  {
+    classLevel: 6,
+    subject: "English",
+    chapter: "Chapter 1: Who Did Patrick's Homework?",
+    question: "Match the words from the story with their exact contextual meanings:\n(a) Slyly      -> (i) Shrieked high-pitched\n(b) Bleary     -> (ii) Secretly / cunningly\n(c) Squeaked   -> (iii) Dim / dull from tiredness\n(d) Semester   -> (iv) School academic term",
+    "options": [
+      "a-(ii), b-(iii), c-(i), d-(iv)",
+      "a-(i), b-(ii), c-(iii), d-(iv)",
+      "a-(iii), b-(iv), c-(i), d-(ii)",
+      "a-(iv), b-(iii), c-(ii), d-(i)"
+    ],
+    correctAnswer: 0,
+    difficulty: "HARD",
+    damage: 350,
+    explanation: "Slyly = Secretly; Bleary = Dull from exhaustion; Squeaked = High-pitched cry; Semester = Academic period."
+  },
+  {
+    classLevel: 6,
+    subject: "English",
+    chapter: "Chapter 1: Who Did Patrick's Homework?",
+    question: "Read the statements from 'A House, A Home':\nStatement 1: A house consists of tile floors, glass windows, yard, and roof eaves.\nStatement 2: A home is created by brothers, sisters, mothers, and fathers sharing unselfish care.\nStatement 3: The poet concludes that houses are far superior to homes.\nWhich statements are TRUE?",
+    "options": ["Statements 1 and 2 only", "Statements 2 and 3 only", "Statements 1 and 3 only", "All Statements 1, 2, and 3"],
+    correctAnswer: 0,
+    difficulty: "HARD",
+    damage: 350,
+    explanation: "Statement 3 is false because the poet emphasizes that a loving family (home) gives true life and meaning to a physical structure."
+  },
+  {
+    classLevel: 6,
+    subject: "English",
+    chapter: "Chapter 1: Who Did Patrick's Homework?",
+    question: "Consider the elf's physical reaction: 'He kicked his legs and doubled his fists and he grimaced and scowled and pursed his lips.' What emotion is depicted?",
+    "options": [
+      "Intense frustration and reluctance at being trapped into doing school homework",
+      "Joyful excitement at solving puzzles",
+      "Deep peaceful sleep",
+      "Fear of the dark"
+    ],
+    correctAnswer: 0,
+    difficulty: "HARD",
+    damage: 350,
+    explanation: "The vivid bodily gestures (grimacing, scowling, kicking) express violent displeasure and resentment toward doing homework."
+  },
+  {
+    classLevel: 6,
+    subject: "English",
+    chapter: "Chapter 1: Who Did Patrick's Homework?",
+    question: "Why did Patrick keep the truth a 'secret' between himself and the reader at the end of the story?",
+    options: [
+      "Patrick still believed in his own heart that the tiny elf had performed the miracle",
+      "He was ashamed of his 'A' grade",
+      "His parents forbid him from talking",
+      "The teachers threatened him"
+    ],
+    correctAnswer: 0,
+    difficulty: "HARD",
+    damage: 350,
+    explanation: "Author Carol Moore writes: 'You think Patrick's elf did his homework; but I'll share a secret between you and me: Patrick had done it himself!'"
+  },
+  {
+    classLevel: 6,
+    subject: "English",
+    chapter: "Chapter 1: Who Did Patrick's Homework?",
+    question: "In 'A Tale of Two Birds', how did the strong thunderstorm initially separate the mother bird and her two fledglings?",
+    "options": [
+      "A heavy branch struck the nest, killing the mother, while fierce gale winds blew the two young birds to opposite sides of the forest",
+      "A hunter captured the mother bird in a cage",
+      "The birds voluntarily flew to different countries",
+      "A wild beast ate the nest"
+    ],
+    correctAnswer: 0,
+    difficulty: "HARD",
+    damage: 350,
+    explanation: "The storm's violent winds blew the fledglings away, landing one near a robber's cave and the other beside a peaceful hermitage."
+  },
+  {
+    classLevel: 6,
+    subject: "English",
+    chapter: "Chapter 1: Who Did Patrick's Homework?",
+    question: "Which of the following phrases conveys the meaning 'to work continuously with great effort and little rest'?",
+    "options": ["To toil day and night", "To play Nintendo", "To slip out slyly", "To grant a wish"],
+    correctAnswer: 0,
+    difficulty: "HARD",
+    damage: 350,
+    explanation: "'Toil' means strenuous, persistent physical and intellectual labor over prolonged periods."
+  },
+  {
+    classLevel: 6,
+    subject: "English",
+    chapter: "Chapter 1: Who Did Patrick's Homework?",
+    question: "What is the tone of Carol Moore's story 'Who Did Patrick's Homework?'?",
+    options: [
+      "Humorous, whimsical, light-hearted, and didactic (teaching an uplifting life lesson)",
+      "Tragic and sorrowful",
+      "Violent and terrifying",
+      "Dry and purely factual"
+    ],
+    correctAnswer: 0,
+    difficulty: "HARD",
+    damage: 350,
+    explanation: "The narrative employs playful fantasy, vivid humor, and an ironic plot twist to convey a valuable moral about self-motivation."
+  },
+  {
+    classLevel: 6,
+    subject: "English",
+    chapter: "Chapter 1: Who Did Patrick's Homework?",
+    question: "What rhyming pair from Lorraine M. Halli's poem describes the structural elements of a house?",
+    "options": ["Wood and stone, hard and bone", "Play and day", "Sun and run", "Hat and cat"],
+    correctAnswer: 0,
+    difficulty: "HARD",
+    damage: 350,
+    explanation: "The poem begins: 'What is a house? It's brick and stone, and wood that's hard...'"
+  }
+];
+
+console.log('Generated English:', englishQuestions.length);
+fs.writeFileSync('C:/EduVerse/class 6/cross_subject/english_ch1.json', JSON.stringify(englishQuestions, null, 2), 'utf8');
