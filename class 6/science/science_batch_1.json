@@ -1,0 +1,802 @@
+[
+  {
+    "classLevel": 6,
+    "subject": "Science",
+    "chapter": "Components of Food",
+    "question": "Which of the following nutrients is primarily known as the body-building food?",
+    "options": [
+      "Carbohydrates",
+      "Proteins",
+      "Fats",
+      "Vitamins"
+    ],
+    "correctAnswer": 1,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "Proteins are called body-building foods because they are essential for the growth and repair of body tissues."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Science",
+    "chapter": "Components of Food",
+    "question": "Which chemical reagent is used to test the presence of starch in a given food sample?",
+    "options": [
+      "Copper sulphate solution",
+      "Caustic soda solution",
+      "Dilute iodine solution",
+      "Hydrochloric acid"
+    ],
+    "correctAnswer": 2,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "A dilute iodine solution turns blue-black in the presence of starch."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Science",
+    "chapter": "Components of Food",
+    "question": "Deficiency of Vitamin C in our diet causes which of the following diseases?",
+    "options": [
+      "Beriberi",
+      "Scurvy",
+      "Rickets",
+      "Goitre"
+    ],
+    "correctAnswer": 1,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "Deficiency of Vitamin C leads to Scurvy, characterized by bleeding gums and delayed wound healing."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Science",
+    "chapter": "Components of Food",
+    "question": "Which nutrient provides more than double the energy compared to the same amount of carbohydrates?",
+    "options": [
+      "Fats",
+      "Proteins",
+      "Vitamins",
+      "Dietary fibres"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "Fats provide significantly more energy per gram compared to carbohydrates."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Science",
+    "chapter": "Components of Food",
+    "question": "Which disease is caused by the deficiency of Vitamin D in children?",
+    "options": [
+      "Night blindness",
+      "Rickets",
+      "Anaemia",
+      "Beriberi"
+    ],
+    "correctAnswer": 1,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "Rickets causes the bones of growing children to become soft and bent due to Vitamin D and calcium deficiency."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Science",
+    "chapter": "Components of Food",
+    "question": "Which of the following is another name for dietary fibres present in our food?",
+    "options": [
+      "Starch",
+      "Roughage",
+      "Minerals",
+      "Proteins"
+    ],
+    "correctAnswer": 1,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "Dietary fibres are commonly known as roughage, mainly provided by plant products in our foods."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Science",
+    "chapter": "Components of Food",
+    "question": "Night blindness is caused due to the deficiency of which vitamin?",
+    "options": [
+      "Vitamin A",
+      "Vitamin B1",
+      "Vitamin C",
+      "Vitamin K"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "Vitamin A deficiency leads to poor vision and loss of vision in darkness (night blindness)."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Science",
+    "chapter": "Components of Food",
+    "question": "Which mineral is essential for the formation of strong bones and teeth?",
+    "options": [
+      "Iron",
+      "Iodine",
+      "Calcium",
+      "Sodium"
+    ],
+    "correctAnswer": 2,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "Calcium is the primary structural mineral required for strong bones and tooth enamel."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Science",
+    "chapter": "Components of Food",
+    "question": "Anaemia is caused by the deficiency of which essential mineral in the body?",
+    "options": [
+      "Calcium",
+      "Iodine",
+      "Iron",
+      "Phosphorus"
+    ],
+    "correctAnswer": 2,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "Iron is required to produce haemoglobin; its deficiency leads to anaemia and general weakness."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Science",
+    "chapter": "Components of Food",
+    "question": "Swelling in the neck region (enlarged thyroid gland) is a symptom of which deficiency disease?",
+    "options": [
+      "Scurvy",
+      "Rickets",
+      "Goitre",
+      "Marasmus"
+    ],
+    "correctAnswer": 2,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "Goitre is caused by a deficiency of Iodine in the diet, resulting in swollen neck glands."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Science",
+    "chapter": "Components of Food",
+    "question": "Which of the following food items is the richest source of Vitamin C?",
+    "options": [
+      "Milk",
+      "Amla (Indian Gooseberry)",
+      "Butter",
+      "Wheat"
+    ],
+    "correctAnswer": 1,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "Amla and citrus fruits (lemon, orange) are extraordinarily rich in Vitamin C."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Science",
+    "chapter": "Components of Food",
+    "question": "Which of the following is NOT an energy-giving nutrient?",
+    "options": [
+      "Carbohydrate",
+      "Fat",
+      "Dietary Fibre",
+      "Glucose"
+    ],
+    "correctAnswer": 2,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "Dietary fibre (roughage) adds bulk to undigested food but does not provide energy or nutrients to the body."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Science",
+    "chapter": "Components of Food",
+    "question": "Beriberi is caused due to the deficiency of which vitamin?",
+    "options": [
+      "Vitamin B1",
+      "Vitamin A",
+      "Vitamin C",
+      "Vitamin D"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "Deficiency of Vitamin B1 leads to Beriberi, resulting in weak muscles and very little energy to work."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Science",
+    "chapter": "Components of Food",
+    "question": "What happens when food containing fat is rubbed onto a piece of plain paper?",
+    "options": [
+      "Paper turns blue-black",
+      "Paper becomes brittle",
+      "An oily, translucent patch appears",
+      "Paper dissolves immediately"
+    ],
+    "correctAnswer": 2,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "Fats leave an oily, translucent patch on paper that allows light to pass through faintly."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Science",
+    "chapter": "Components of Food",
+    "question": "Which component of food helps our body absorb nutrients and removes waste as urine and sweat?",
+    "options": [
+      "Minerals",
+      "Water",
+      "Roughage",
+      "Fats"
+    ],
+    "correctAnswer": 1,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "Water helps the body absorb nutrients from food and expels wastes as sweat and urine."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Science",
+    "chapter": "Components of Food",
+    "question": "Which two chemical solutions are required together to test the presence of proteins in a food item?",
+    "options": [
+      "Iodine solution and Alcohol",
+      "Copper sulphate and Caustic soda",
+      "Hydrochloric acid and Iodine",
+      "Sodium chloride and Litmus"
+    ],
+    "correctAnswer": 1,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "Testing for proteins requires 2 drops of Copper Sulphate solution and 10 drops of Caustic Soda (NaOH) solution, which turns violet if protein is present."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Science",
+    "chapter": "Components of Food",
+    "question": "Why does repeated washing of rice and pulses before cooking reduce their nutritional value?",
+    "options": [
+      "It adds excess moisture",
+      "It washes away water-soluble vitamins and minerals",
+      "It removes proteins and fats",
+      "It turns starch into toxic acids"
+    ],
+    "correctAnswer": 1,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "Repeated washing removes water-soluble B-complex vitamins and essential minerals present in the outer layer of grains."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Science",
+    "chapter": "Components of Food",
+    "question": "Which vitamin gets easily destroyed by heat during high-temperature cooking?",
+    "options": [
+      "Vitamin A",
+      "Vitamin B12",
+      "Vitamin C",
+      "Vitamin D"
+    ],
+    "correctAnswer": 2,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "Vitamin C (Ascorbic acid) is heat-sensitive and easily destroyed by cooking heat."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Science",
+    "chapter": "Components of Food",
+    "question": "Eating too many fat-rich foods over a long period can lead to which health condition?",
+    "options": [
+      "Anaemia",
+      "Obesity",
+      "Goitre",
+      "Scurvy"
+    ],
+    "correctAnswer": 1,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "Excess fat intake leads to adipose tissue accumulation, causing obesity and related cardiovascular risks."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Science",
+    "chapter": "Components of Food",
+    "question": "What is the primary biological role of roughage in the human digestive system?",
+    "options": [
+      "Releases quick glucose for energy",
+      "Builds strong muscle fibers",
+      "Adds bulk and aids in the expulsion of undigested waste",
+      "Fights viral infections in the stomach"
+    ],
+    "correctAnswer": 2,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "Roughage adds bulk to food and aids peristalsis, preventing constipation and ensuring smooth bowel movements."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Science",
+    "chapter": "Components of Food",
+    "question": "Our body can prepare which of the following vitamins naturally in the presence of sunlight?",
+    "options": [
+      "Vitamin A",
+      "Vitamin B1",
+      "Vitamin C",
+      "Vitamin D"
+    ],
+    "correctAnswer": 3,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "Sunlight triggers the synthesis of Vitamin D in human skin cells."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Science",
+    "chapter": "Components of Food",
+    "question": "A balanced diet must contain:",
+    "options": [
+      "Only protein and carbohydrate foods",
+      "All essential nutrients in proper proportions along with roughage and water",
+      "Equal quantities of all food items",
+      "Only vitamins and mineral supplements"
+    ],
+    "correctAnswer": 1,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "A balanced diet provides all essential nutrients in adequate quantities, alongside sufficient roughage and water."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Science",
+    "chapter": "Components of Food",
+    "question": "Which of the following pairs contains only plant sources of proteins?",
+    "options": [
+      "Soyabean and Gram (Gram pulses)",
+      "Egg and Paneer",
+      "Milk and Fish",
+      "Meat and Butter"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "Soyabean and gram pulses are rich plant-based sources of proteins."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Science",
+    "chapter": "Components of Food",
+    "question": "Which mineral is necessary for synthesis of thyroid hormone in the human body?",
+    "options": [
+      "Iron",
+      "Iodine",
+      "Calcium",
+      "Magnesium"
+    ],
+    "correctAnswer": 1,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "The thyroid gland requires iodine to produce thyroxine hormone; its absence causes goitre."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Science",
+    "chapter": "Components of Food",
+    "question": "Which of the following symptoms is directly associated with severe protein deficiency in young children?",
+    "options": [
+      "Bleeding gums and loose teeth",
+      "Stunted growth, swelling of face, and skin diseases",
+      "Bowed legs and pigeon chest",
+      "Loss of night vision"
+    ],
+    "correctAnswer": 1,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "Severe protein deficiency causes stunted growth, facial oedema (swelling), hair discolouration, and skin rashes (Kwashiorkor)."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Science",
+    "chapter": "Components of Food",
+    "question": "Which test confirms that a food item contains sugar or simple carbohydrates?",
+    "options": [
+      "Paper translucency test",
+      "Benedict's solution test turning brick-red",
+      "Biuret test turning violet",
+      "Starch iodine test turning blue-black"
+    ],
+    "correctAnswer": 1,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "Benedict's solution turns from blue to green/yellow/brick-red in the presence of reducing sugars."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Science",
+    "chapter": "Components of Food",
+    "question": "Which of the following is a symptom of Iron deficiency?",
+    "options": [
+      "Swollen neck gland",
+      "Fatigue and general weakness",
+      "Soft bones",
+      "Inability to see in low light"
+    ],
+    "correctAnswer": 1,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "Iron deficiency leads to anaemia, which causes low oxygen delivery in blood and leads to extreme tiredness."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Science",
+    "chapter": "Components of Food",
+    "question": "Which of the following groups of foods are categorized as protective foods?",
+    "options": [
+      "Cereals and Sugars",
+      "Butter and Ghee",
+      "Vitamins and Minerals",
+      "Meat and Fish"
+    ],
+    "correctAnswer": 2,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "Vitamins and minerals protect our body from diseases and maintain healthy eyes, teeth, bones, and gums."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Science",
+    "chapter": "Components of Food",
+    "question": "Why is whole fruit considered healthier than strained fruit juice with added sugar?",
+    "options": [
+      "Fruit juice contains no vitamins",
+      "Whole fruit provides natural dietary fibre (roughage) along with vitamins",
+      "Strained juice has higher protein content",
+      "Fruit juice cannot be digested by humans"
+    ],
+    "correctAnswer": 1,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "Whole fruit preserves pulp and dietary fibre, which helps regulate sugar absorption and supports digestion."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Science",
+    "chapter": "Components of Food",
+    "question": "If a sample of boiled potato turns blue-black when iodine is added, it confirms the presence of:",
+    "options": [
+      "Fat",
+      "Starch",
+      "Protein",
+      "Mineral salts"
+    ],
+    "correctAnswer": 1,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "The formation of a blue-black complex with dilute iodine specifically indicates the presence of starch."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Science",
+    "chapter": "Components of Food",
+    "question": "Which of the following minerals works alongside Calcium to build and maintain bone density?",
+    "options": [
+      "Phosphorus",
+      "Iron",
+      "Iodine",
+      "Sodium"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "Calcium and phosphorus together form the calcium phosphate mineral matrix that gives bones rigidity."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Science",
+    "chapter": "Components of Food",
+    "question": "Which of the following foods contains both proteins and fats in significant quantities?",
+    "options": [
+      "White Rice",
+      "Egg and Groundnut",
+      "Cucumber",
+      "Sugar cane"
+    ],
+    "correctAnswer": 1,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "Eggs (especially yolk + white) and groundnuts provide rich amounts of both proteins and lipids."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Science",
+    "chapter": "Components of Food",
+    "question": "A person whose diet is completely deficient in both proteins and carbohydrates over a long period is likely to develop:",
+    "options": [
+      "Extreme emaciation and complete weakness (Marasmus)",
+      "Obesity and diabetes",
+      "Scurvy and tooth decay",
+      "Goitre and high blood pressure"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "Combined deficiency of proteins and total calories (carbs/fats) results in severe wasting and emaciation."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Science",
+    "chapter": "Components of Food",
+    "question": "Which of the following cooking habits preserves the maximum nutritional content of vegetables?",
+    "options": [
+      "Boiling in excess water and discarding the stock",
+      "Steaming or cooking covered in minimal water",
+      "Deep frying until dark brown",
+      "Peeling thick layers and washing repeatedly after cutting"
+    ],
+    "correctAnswer": 1,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "Steaming and cooking in minimal water prevents the leaching and thermal breakdown of heat-labile vitamins."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Science",
+    "chapter": "Components of Food",
+    "question": "Sprouted seeds of moong and chana are highly nutritious because sprouting significantly increases their content of:",
+    "options": [
+      "Fats and Cholesterol",
+      "Vitamins (especially Vitamin C and B-complex)",
+      "Synthetic preservatives",
+      "Insoluble wax"
+    ],
+    "correctAnswer": 1,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "Germination activates enzymes and boosts synthesis of vitamins, particularly Vitamin C and bioavailable minerals."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Science",
+    "chapter": "Components of Food",
+    "question": "Read the following statements:\nAssertion (A): Cooking at very high temperatures destroys Vitamin C.\nReason (R): Vitamin C is an organic acid that is sensitive to heat and oxidation.\nChoose the correct option:",
+    "options": [
+      "Both (A) and (R) are true, and (R) is the correct explanation of (A).",
+      "Both (A) and (R) are true, but (R) is NOT the correct explanation of (A).",
+      "(A) is true, but (R) is false.",
+      "(A) is false, but (R) is true."
+    ],
+    "correctAnswer": 0,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "Vitamin C (ascorbic acid) is water-soluble and heat-labile, undergoing thermal degradation during high-heat cooking."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Science",
+    "chapter": "Components of Food",
+    "question": "A student added 2 drops of Copper Sulphate solution and 10 drops of Caustic Soda solution to an unknown food slurry 'X'. The mixture turned violet. Then she rubbed a dry portion of 'X' on filter paper and saw no translucent mark. What is food 'X' primarily rich in?",
+    "options": [
+      "Fats only",
+      "Proteins, but devoid of significant fats",
+      "Starch only",
+      "Dietary fibre and water"
+    ],
+    "correctAnswer": 1,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "A violet Biuret reaction confirms proteins. The absence of an oily translucent patch indicates that lipids/fats are absent."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Science",
+    "chapter": "Components of Food",
+    "question": "Spot the IMPOSTER (Incorrect match between vitamin/mineral and deficiency disease):",
+    "options": [
+      "Vitamin A — Loss of vision (Night blindness)",
+      "Vitamin B1 — Beriberi",
+      "Vitamin D — Scurvy",
+      "Iodine — Goitre"
+    ],
+    "correctAnswer": 2,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "Vitamin D deficiency causes Rickets (soft bones), while Scurvy is caused by Vitamin C deficiency."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Science",
+    "chapter": "Components of Food",
+    "question": "Read the following statements:\nAssertion (A): Roughage does not yield any calories or nutrients, yet it is an essential part of a healthy diet.\nReason (R): Roughage retains water, adds bulk to stools, and ensures smooth transit through the alimentary canal.\nChoose the correct option:",
+    "options": [
+      "Both (A) and (R) are true, and (R) is the correct explanation of (A).",
+      "Both (A) and (R) are true, but (R) is NOT the correct explanation of (A).",
+      "(A) is true, but (R) is false.",
+      "(A) is false, but (R) is true."
+    ],
+    "correctAnswer": 0,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "Even though human enzymes cannot digest cellulose (roughage), its bulk-forming and water-retention capacity are vital for intestinal motility."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Science",
+    "chapter": "Components of Food",
+    "question": "An Antarctic researcher noticed bleeding gums, loosened teeth, and slow-healing skin cuts after months of eating only dried meats and biscuits. Which of the following supplies should be immediately administered?",
+    "options": [
+      "Cod liver oil capsules (Vitamin D & A)",
+      "Citrus fruit extracts or fresh amla juice (Vitamin C)",
+      "Iron and Calcium tablets",
+      "Pure glucose solution"
+    ],
+    "correctAnswer": 1,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "The symptoms depict classic Scurvy caused by lack of Vitamin C, which is rapidly reversed by consuming citrus fruits or amla."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Science",
+    "chapter": "Components of Food",
+    "question": "Consider three test tubes:\nTube P: Boiled egg white + Biuret reagents\nTube Q: Crushed boiled potato + Iodine solution\nTube R: Cooking oil rubbed on filter paper\nWhich observation is completely correct?",
+    "options": [
+      "Tube P turns violet; Tube Q turns blue-black; Tube R leaves a permanent translucent patch.",
+      "Tube P turns blue-black; Tube Q turns violet; Tube R dissolves paper.",
+      "Tube P turns orange; Tube Q turns red; Tube R leaves no patch.",
+      "Tube P remains colorless; Tube Q turns green; Tube R turns blue-black."
+    ],
+    "correctAnswer": 0,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "Egg white (protein) turns violet in Biuret test; potato (starch) turns blue-black with iodine; oil (fat) produces a translucent grease spot."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Science",
+    "chapter": "Components of Food",
+    "question": "Read the following statements:\nStatement 1: Fats yield more energy than carbohydrates gram-for-gram.\nStatement 2: Excess carbohydrate consumption is stored as fat in adipose tissue.\nStatement 3: Vitamins are needed in massive kilogram quantities daily.\nWhich statements are TRUE?",
+    "options": [
+      "Statements 1 and 2 only",
+      "Statements 2 and 3 only",
+      "Statements 1 and 3 only",
+      "All Statements 1, 2, and 3"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "Vitamins are micronutrients needed in minute (milligram or microgram) quantities, making Statement 3 false."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Science",
+    "chapter": "Components of Food",
+    "question": "A student conducted an experiment to test for fats in a food sample. She rubbed the sample on paper and observed a wet patch. However, after letting the paper dry in the air for 10 minutes, the patch disappeared completely. What does this indicate?",
+    "options": [
+      "The sample contained high fat that evaporated quickly.",
+      "The sample contained only water/moisture, not fat.",
+      "The paper was resistant to lipids.",
+      "The sample was pure protein."
+    ],
+    "correctAnswer": 1,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "A water patch evaporates and leaves no trace, whereas true fats/oils leave a permanent translucent grease mark that does not dry up."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Science",
+    "chapter": "Components of Food",
+    "question": "A child in a remote region exhibits soft, deformed leg bones (bowlegs) and a protruding pigeon chest despite receiving sufficient calories. What is the fundamental biochemical cause?",
+    "options": [
+      "Lack of Vitamin D or Calcium hindering mineralisation of bone matrix.",
+      "Lack of Vitamin B1 causing nerve deterioration.",
+      "Overconsumption of dietary fibres.",
+      "Excess Iron leading to toxicity."
+    ],
+    "correctAnswer": 0,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "Vitamin D is essential for calcium absorption from the intestine. Its absence leads to unmineralized, pliable bones (Rickets)."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Science",
+    "chapter": "Components of Food",
+    "question": "Which of the following dietary combinations provides a complete, balanced profile of all 5 major nutrient groups plus dietary fibre and water?",
+    "options": [
+      "Butter toast, white sugar, and black coffee",
+      "Chapati (whole wheat), Dal (pulses), Green spinach sabzi, Curd, and Fresh salad",
+      "Fried potato chips, chocolate cake, and carbonated cola",
+      "Boiled white rice with pure ghee only"
+    ],
+    "correctAnswer": 1,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "Whole wheat (carbs/fibre), dal (protein), spinach (iron/vitamins), curd (calcium/protein/fats), and salad (roughage/water) constitute a balanced Indian meal."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Science",
+    "chapter": "Components of Food",
+    "question": "Read the following statements:\nAssertion (A): Deep-peeling fruits and vegetables before boiling results in significant nutrient depletion.\nReason (R): Many essential vitamins and minerals are located in or directly beneath the skin of fruits and vegetables.\nChoose the correct option:",
+    "options": [
+      "Both (A) and (R) are true, and (R) is the correct explanation of (A).",
+      "Both (A) and (R) are true, but (R) is NOT the correct explanation of (A).",
+      "(A) is true, but (R) is false.",
+      "(A) is false, but (R) is true."
+    ],
+    "correctAnswer": 0,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "The sub-epidermal layers of fruits and vegetables are dense in micronutrients and dietary fibre, which are lost upon thick peeling."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Science",
+    "chapter": "Components of Food",
+    "question": "Two food items X and Y were tested:\n- Item X: Gives violet color with Copper Sulphate + Caustic Soda; Iodine test remains yellow-brown.\n- Item Y: Gives blue-black color with Iodine; Biuret test remains blue.\nIdentify X and Y:",
+    "options": [
+      "X = Boiled Rice, Y = Boiled Egg White",
+      "X = Boiled Egg White, Y = Boiled Rice",
+      "X = Butter, Y = Spinach",
+      "X = Glucose, Y = Mustard Oil"
+    ],
+    "correctAnswer": 1,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "Item X is rich in protein (egg white gives positive Biuret) and lacks starch. Item Y is rich in starch (rice gives positive Iodine) and lacks protein."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Science",
+    "chapter": "Components of Food",
+    "question": "Which of the following is an IMPOSTER among symptoms of severe iron-deficiency anaemia?",
+    "options": [
+      "Pale skin and pale inner eyelids",
+      "Shortness of breath and rapid fatigue",
+      "Brittle nails and general weakness",
+      "Enlarged thyroid gland forming a prominent neck lump"
+    ],
+    "correctAnswer": 3,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "An enlarged thyroid gland (goitre) is caused by Iodine deficiency, not Iron deficiency."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Science",
+    "chapter": "Components of Food",
+    "question": "Why is a diet consisting solely of polished white rice and refined sugar dangerous for growing children?",
+    "options": [
+      "It provides abundant energy but lacks proteins, essential vitamins, and minerals, leading to multiple deficiency disorders.",
+      "It produces toxic enzymes in the human liver.",
+      "It completely halts breathing immediately.",
+      "It converts into plastic inside the stomach."
+    ],
+    "correctAnswer": 0,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "Polished rice and refined sugar provide 'empty calories' (simple carbs) but lack proteins, iron, calcium, roughage, and B-vitamins necessary for physical and cognitive development."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Science",
+    "chapter": "Components of Food",
+    "question": "A patient with bleeding gums and slow-healing wounds was mistakenly advised to consume only milk and boiled eggs. Why will this advice fail to cure his condition?",
+    "options": [
+      "Milk and eggs are rich in proteins and calcium but completely lack Vitamin C.",
+      "Milk and eggs destroy the human immune system.",
+      "Eggs neutralize stomach acids.",
+      "Milk prevents iron absorption completely."
+    ],
+    "correctAnswer": 0,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "Milk, eggs, and animal meats are virtually devoid of Vitamin C. Scurvy can only be cured by supplying Vitamin C sources such as citrus fruits, amla, tomatoes, and fresh vegetables."
+  }
+]

@@ -1,0 +1,1537 @@
+[
+  {
+    "classLevel": 6,
+    "subject": "Science",
+    "chapter": "Light, Shadows and Reflections",
+    "question": "Objects that emit light of their own, like the Sun, stars, and an electric torch, are called:",
+    "options": ["Luminous objects", "Non-luminous objects", "Opaque objects", "Translucent objects"],
+    "correctAnswer": 0,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "Luminous objects generate and emit their own light energy, unlike non-luminous objects that only reflect light falling on them."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Science",
+    "chapter": "Light, Shadows and Reflections",
+    "question": "Which of the following is a natural luminous source of light during daytime?",
+    "options": ["The Moon", "The Sun", "A polished mirror", "A shiny metal plate"],
+    "correctAnswer": 1,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "The Sun is Earth's primary natural luminous celestial body producing its own light through nuclear fusion."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Science",
+    "chapter": "Light, Shadows and Reflections",
+    "question": "What is formed when an opaque object blocks the path of light?",
+    "options": ["A rainbow", "A shadow", "A mirror image", "A magnifying lens"],
+    "correctAnswer": 1,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "Because light travels in straight lines and cannot bend around opaque obstacles, a dark silhouette called a shadow is cast behind the object."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Science",
+    "chapter": "Light, Shadows and Reflections",
+    "question": "To observe a shadow, which three essential components are always required?",
+    "options": ["A light source, an opaque object, and a screen", "A transparent glass, a lens, and water", "A mirror, paper, and darkness", "Only a light bulb"],
+    "correctAnswer": 0,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "A shadow cannot be seen without (1) a source of light, (2) an opaque object to block the light, and (3) a surface/screen where the shadow forms."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Science",
+    "chapter": "Light, Shadows and Reflections",
+    "question": "Light always travels in a:",
+    "options": ["Zigzag path", "Curved circular path", "Straight line", "Spiral path"],
+    "correctAnswer": 2,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "The rectilinear propagation of light states that light travels strictly in straight lines through a uniform medium."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Science",
+    "chapter": "Light, Shadows and Reflections",
+    "question": "The image formed by a simple pinhole camera is always:",
+    "options": ["Erect and magnified", "Upside down (inverted)", "Same color as a shadow", "Circular regardless of object"],
+    "correctAnswer": 1,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "Because light rays from the top and bottom of an object cross each other through the tiny pinhole in straight lines, the image is inverted."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Science",
+    "chapter": "Light, Shadows and Reflections",
+    "question": "The bouncing back of light rays from the shiny polished surface of a plane mirror is called:",
+    "options": ["Refraction", "Reflection", "Dispersion", "Absorption"],
+    "correctAnswer": 1,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "Reflection is the phenomenon where incident light rays bounce off a smooth, shiny interface back into the medium."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Science",
+    "chapter": "Light, Shadows and Reflections",
+    "question": "Which of the following objects is NON-LUMINOUS even though it appears bright in the night sky?",
+    "options": ["The Moon", "A burning candle", "A glowing firefly (Jugnu)", "A lighted bulb"],
+    "correctAnswer": 0,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "The Moon does not produce light; it appears bright only because its surface reflects sunlight falling on it."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Science",
+    "chapter": "Light, Shadows and Reflections",
+    "question": "What is the color of a shadow cast by a red ball versus a blue ball under identical sunlight?",
+    "options": ["Red ball casts red shadow, blue ball casts blue shadow", "Both cast dark (blackish-grey) shadows", "Both cast white shadows", "No shadow is formed by colored balls"],
+    "correctAnswer": 1,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "A shadow is merely an absence of light, so it is always dark/black regardless of the surface color of the opaque object."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Science",
+    "chapter": "Light, Shadows and Reflections",
+    "question": "Circular patches of sunlight observed on the ground under a tree with dense leaves are natural pinhole images of the:",
+    "options": ["Tree branches", "Leaves", "Sun", "Clouds"],
+    "correctAnswer": 2,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "Gaps between overlapping leaves act as tiny natural pinholes, projecting circular pinhole images of the Sun onto the ground!"
+  },
+  {
+    "classLevel": 6,
+    "subject": "Science",
+    "chapter": "Light, Shadows and Reflections",
+    "question": "Can a completely transparent clean sheet of glass cast a dark, distinct shadow in sunlight?",
+    "options": ["Yes, always", "No, because light passes right through it without being blocked", "Only at midnight", "Yes, if it is cold"],
+    "correctAnswer": 1,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "Transparent materials allow light to pass through completely, creating virtually no obstruction to cast a dark shadow."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Science",
+    "chapter": "Light, Shadows and Reflections",
+    "question": "Which of the following surfaces produces the clearest and sharpest mirror reflection?",
+    "options": ["A rough wooden plank", "A smooth plane glass mirror coated with silver", "A piece of grey cardboard", "A crumpled newspaper"],
+    "correctAnswer": 1,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "A smooth silvered plane mirror reflects light rays uniformly in a regular manner, forming a crisp virtual image."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Science",
+    "chapter": "Light, Shadows and Reflections",
+    "question": "When you look at a lit candle through a straight plastic pipe, the flame is visible. When you bend the pipe, the flame disappears. What does this demonstrate?",
+    "options": ["Light is absorbed by bent plastic", "Light travels strictly in straight lines and cannot curve around bends", "The candle extinguished automatically", "Plastic becomes opaque when bent"],
+    "correctAnswer": 1,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "This classic textbook experiment proves the rectilinear (straight-line) propagation of light."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Science",
+    "chapter": "Light, Shadows and Reflections",
+    "question": "What is the key difference between a Shadow and a Mirror Image?",
+    "options": [
+      "A shadow shows color and details while an image is black",
+      "A shadow gives only the black outline shape without details, whereas a mirror image shows full color, details, and features",
+      "Images only form in the dark",
+      "Shadows require electricity"
+    ],
+    "correctAnswer": 1,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "A shadow is an absence of light showing only outline contours. An image is formed by reflected light showing true color and detail."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Science",
+    "chapter": "Light, Shadows and Reflections",
+    "question": "In a pinhole camera, if the distance between the pinhole and the translucent tracing paper screen is increased, the image size will:",
+    "options": ["Decrease", "Increase (become larger)", "Remain unchanged", "Disappear completely"],
+    "correctAnswer": 1,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "As the screen moves farther from the pinhole aperture, the straight diverging light rays spread wider, projecting a larger image."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Science",
+    "chapter": "Light, Shadows and Reflections",
+    "question": "When you raise your RIGHT hand in front of a plane mirror, which hand appears raised in the mirror image?",
+    "options": ["Right hand", "Left hand (Lateral inversion)", "Both hands", "Neither hand"],
+    "correctAnswer": 1,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "Plane mirrors exhibit lateral inversion where the left side of the object appears as the right side of the image and vice versa."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Science",
+    "chapter": "Light, Shadows and Reflections",
+    "question": "Why can we NOT see our reflection clearly in a rough wall or wooden board even though light bounces off them?",
+    "options": ["Walls do not bounce light", "Rough surfaces scatter light in all irregular directions (diffuse reflection), preventing a coherent image", "Walls absorb 100% light", "Wood is a luminous source"],
+    "correctAnswer": 1,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "Microscopic irregularities on rough surfaces cause diffuse scattering, so reflected rays do not form an organized image."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Science",
+    "chapter": "Light, Shadows and Reflections",
+    "question": "At noon when the Sun is directly overhead, the length of the shadow cast by a vertical pole is:",
+    "options": ["The longest of the day", "The shortest of the day", "Equal to midnight", "Infinite"],
+    "correctAnswer": 1,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "When the Sun is at its highest altitude (zenith), vertical light rays strike downward, creating the shortest ground shadow."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Science",
+    "chapter": "Light, Shadows and Reflections",
+    "question": "How can hand shadows on a wall be manipulated to create illusions of birds, animals, and flying creatures?",
+    "options": ["By painting hands black", "By changing the shape and orientation of hands positioned between the light source and screen", "By using magic lasers", "By cooling the wall"],
+    "correctAnswer": 1,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "Shadow puppetry exploits the fact that changing the hand's silhouette orientation alters the projected 2D outline."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Science",
+    "chapter": "Light, Shadows and Reflections",
+    "question": "Why does a high-flying aeroplane flying thousands of feet in the sky cast NO visible shadow on the ground?",
+    "options": [
+      "Aeroplanes are transparent",
+      "The aeroplane is so far from the ground screen that its umbra shadow tapers and fades into ambient sunlight before reaching earth",
+      "Sunlight bends completely around aeroplanes",
+      "Engines blow the shadow away"
+    ],
+    "correctAnswer": 1,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "At high altitudes, the dark central shadow cone (umbra) ends in mid-air and surrounding ambient sunlight washes out any faint penumbra."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Science",
+    "chapter": "Light, Shadows and Reflections",
+    "question": "A periscope is an optical instrument used in submarines to see objects above water. It works on the principle of:",
+    "options": ["Multiple reflections using two plane mirrors set at 45 degrees", "Pinhole inversion", "Translucency", "Magnetic deflection"],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "A periscope uses two plane mirrors angled at 45° to reflect light rays twice, enabling viewing around obstacles."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Science",
+    "chapter": "Light, Shadows and Reflections",
+    "question": "Which of the following living organisms is a biological LUMINOUS source?",
+    "options": ["Earthworm", "Glow-worm / Firefly (Jugnu)", "Grasshopper", "Housefly"],
+    "correctAnswer": 1,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "Fireflies exhibit bioluminescence, emitting a cold natural light produced by chemical reactions inside their abdomen."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Science",
+    "chapter": "Light, Shadows and Reflections",
+    "question": "What happens to the shadow of a cardboard square if you move the cardboard closer to the light source (torch)?",
+    "options": ["The shadow becomes smaller", "The shadow becomes larger on the wall screen", "The shadow turns transparent", "The shadow turns red"],
+    "correctAnswer": 1,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "Moving the object closer to the source intercepts a wider cone of light rays, casting a larger shadow on the distant screen."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Science",
+    "chapter": "Light, Shadows and Reflections",
+    "question": "If you stand inside a pitch-dark room holding a plane mirror in front of you, can you see your reflection in the mirror?",
+    "options": [
+      "Yes, because mirrors make their own light",
+      "No, because reflection requires light from an external source to fall on your face and bounce into the mirror",
+      "Yes, but only in black and white",
+      "Yes, after 10 minutes"
+    ],
+    "correctAnswer": 1,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "Mirrors are non-luminous; without an ambient light source to illuminate your face, no light rays reach the mirror to reflect."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Science",
+    "chapter": "Light, Shadows and Reflections",
+    "question": "Why is the word 'AMBULANCE' written in reverse lettering (lateral inversion) on the front of hospital vehicles?",
+    "options": ["For artistic decoration", "So drivers in front can read it correctly in their rear-view mirrors", "Because of government printing error", "To reflect sunlight away"],
+    "correctAnswer": 1,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "Rear-view plane/convex mirrors laterally invert the lettering back to normal, allowing drivers ahead to read 'AMBULANCE' instantly."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Science",
+    "chapter": "Light, Shadows and Reflections",
+    "question": "Which of the following will cast a circular shadow on the ground when held in one orientation and a thin rectangular shadow in another?",
+    "options": ["A solid sphere ball", "A cylindrical tin can or coin", "A cubic block", "A triangular prism"],
+    "correctAnswer": 1,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "A cylindrical can held with its circular base facing light casts a circle, but turned sideways it casts a rectangle."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Science",
+    "chapter": "Light, Shadows and Reflections",
+    "question": "What is the nature of the image formed in a plane mirror?",
+    "options": ["Inverted and real", "Erect (upright), same size as object, and laterally inverted", "Magnified and black", "Diminished and upside down"],
+    "correctAnswer": 1,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "A plane mirror forms an erect virtual image of identical size and distance as the object, exhibiting lateral inversion."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Science",
+    "chapter": "Light, Shadows and Reflections",
+    "question": "During a solar eclipse, circular pinhole patches under a tree show crescent-shaped light patterns because:",
+    "options": [
+      "Leaves turn into crescents",
+      "Pinhole gaps project actual real-time images of the partially eclipsed crescent Sun",
+      "Moonlight replaces sunlight",
+      "Shadows curve in winter"
+    ],
+    "correctAnswer": 1,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "The natural pinhole cameras between leaves project the true geometric shape of the solar disc, revealing the crescent eclipse phase!"
+  },
+  {
+    "classLevel": 6,
+    "subject": "Science",
+    "chapter": "Light, Shadows and Reflections",
+    "question": "Read the following statements:\nAssertion (A): Shadows are always black or dark grey regardless of the colour of the illuminated object.\nReason (R): A shadow is an area where light from the source has been blocked and cannot reach the screen.\nChoose the correct option:",
+    "options": [
+      "Both (A) and (R) are true, and (R) is the correct explanation of (A).",
+      "Both (A) and (R) are true, but (R) is NOT the correct explanation of (A).",
+      "(A) is true, but (R) is false.",
+      "(A) is false, but (R) is true."
+    ],
+    "correctAnswer": 0,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "Because a shadow represents the absence of light photons reaching the screen, color information is nonexistent in the blocked zone."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Science",
+    "chapter": "Light, Shadows and Reflections",
+    "question": "Spot the IMPOSTER in the following group of luminous objects:\nGroup: [Sun, Lit matchstick, Electric glowing bulb, Full Moon]",
+    "options": ["Sun", "Lit matchstick", "Electric glowing bulb", "Full Moon"],
+    "correctAnswer": 3,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "The Moon is a non-luminous reflector of solar light, whereas the other three produce their own luminous energy."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Science",
+    "chapter": "Light, Shadows and Reflections",
+    "question": "A student constructs a pinhole camera. What will happen to the image on the screen if the single pinhole is widened into a large 2 cm hole?",
+    "options": [
+      "The image becomes ten times sharper",
+      "Multiple overlapping blurred images form, resulting in a bright patch of light with no clear outline",
+      "The image turns upside down twice",
+      "The screen catches fire"
+    ],
+    "correctAnswer": 1,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "A large opening acts as countless adjacent pinholes whose overlapping inverted images blur into an indistinct bright patch."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Science",
+    "chapter": "Light, Shadows and Reflections",
+    "question": "Consider three objects in a dark room:\n- Object X (Red apple illuminated by white torch)\n- Object Y (Clear transparent glass sheet)\n- Object Z (Mirror reflecting torch light)\nWhich statement is completely ACCURATE?",
+    "options": [
+      "Object X casts a dark shadow; Object Y casts almost no shadow; Object Z redirects light to form a bright patch on the opposite wall",
+      "Object X casts a red shadow; Object Y reflects a clear image; Object Z is transparent",
+      "All three cast identical square shadows",
+      "None of them interact with light"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "Opaque apple casts a shadow, transparent glass lets light through, and the plane mirror reflects the beam directionally."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Science",
+    "chapter": "Light, Shadows and Reflections",
+    "question": "Read the following statements:\nAssertion (A): We cannot see our reflection in a clean pool of water when the water surface is disturbed by heavy ripples.\nReason (R): Wavy water surfaces cause irregular diffuse reflection that scatters light rays in multiple directions.\nChoose the correct option:",
+    "options": [
+      "Both (A) and (R) are true, and (R) is the correct explanation of (A).",
+      "Both (A) and (R) are true, but (R) is NOT the correct explanation of (A).",
+      "(A) is true, but (R) is false.",
+      "(A) is false, but (R) is true."
+    ],
+    "correctAnswer": 0,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "Calm still water acts as a smooth plane specular reflector. Surface ripples distort reflection angles, breaking image coherence."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Science",
+    "chapter": "Light, Shadows and Reflections",
+    "question": "A student observes a stationary tree using a pinhole camera. If the student walks closer to the tree, what happens to the pinhole image?",
+    "options": [
+      "The inverted image becomes larger and brighter on the translucent screen",
+      "The image becomes upright (erect)",
+      "The image disappears completely",
+      "The image turns black and white"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "Decreasing object distance increases the visual angle subtended at the pinhole, projecting a larger inverted image."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Science",
+    "chapter": "Light, Shadows and Reflections",
+    "question": "Read the following statements:\nStatement 1: A shadow provides information only about the 2D outline shape of an object, which can sometimes be misleading.\nStatement 2: Light travels at an enormous speed in straight lines in vacuum and air.\nStatement 3: A pinhole camera requires a glass lens to invert light rays.\nWhich statements are TRUE?",
+    "options": ["Statements 1 and 2 only", "Statements 2 and 3 only", "Statements 1 and 3 only", "All Statements 1, 2, and 3"],
+    "correctAnswer": 0,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "Statement 3 is false because a pinhole camera uses simple rectilinear ray crossing through a physical aperture without any glass lens."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Science",
+    "chapter": "Light, Shadows and Reflections",
+    "question": "Why can an eclipse (solar or lunar) be explained using the simple concepts of light and shadow?",
+    "options": [
+      "Celestial bodies are opaque and cast shadows across space when sunlight is blocked along straight lines",
+      "Planets turn on electric lights",
+      "Space is a giant mirror",
+      "Eclipses are chemical reactions in clouds"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "Eclipses are macroscopic shadow events: Solar eclipse is Moon casting a shadow on Earth; Lunar eclipse is Earth casting a shadow on Moon."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Science",
+    "chapter": "Light, Shadows and Reflections",
+    "question": "A person stands 3 metres in front of a vertical plane mirror. What is the distance between the person and their mirror image?",
+    "options": ["3 metres", "6 metres", "1.5 metres", "0 metres"],
+    "correctAnswer": 1,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "The image is formed 3 m behind the mirror plane. Total distance from person to image = 3 m + 3 m = 6 metres."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Science",
+    "chapter": "Light, Shadows and Reflections",
+    "question": "Two friends stand in an open football field at night. Friend A holds a powerful torch pointing directly at Friend B. Why does Friend B cast NO shadow on the ground behind him?",
+    "options": [
+      "Friend B is transparent",
+      "There is no screen (wall or ground behind B) within range of the beam to capture the shadow",
+      "Night air dissolves shadows",
+      "Torch light cannot make shadows"
+    ],
+    "correctAnswer": 1,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "A shadow requires a physical surface/screen to be observed. In an open night field with horizontal light, the shadow passes into open air."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Science",
+    "chapter": "Light, Shadows and Reflections",
+    "question": "Which of the following optical setups will successfully redirect a light beam around a 90-degree corner?",
+    "options": [
+      "A single plane mirror placed at a 45-degree angle to the incident beam",
+      "A piece of black cardboard",
+      "A frosted glass sheet",
+      "A straight steel pipe"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "A plane mirror tilted at 45° reflects light rays by 90° (angle of incidence = 45°, angle of reflection = 45°), turning the corner."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Science",
+    "chapter": "Light, Shadows and Reflections",
+    "question": "Why is it dangerous to look directly at the Sun or a solar eclipse with naked eyes or through a pinhole camera without certified solar filters?",
+    "options": [
+      "Sunlight turns into electricity",
+      "Intense solar infrared and ultraviolet rays focus on the retina, causing permanent thermal burn and blindness",
+      "The Sun disappears",
+      "Pinhole cameras explode"
+    ],
+    "correctAnswer": 1,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "Concentrated solar irradiance damages photoreceptor cells in the retina (solar retinopathy), which can result in irreversible vision loss."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Science",
+    "chapter": "Electricity and Circuits",
+    "question": "A device that produces electricity from chemical reactions stored inside it is called an:",
+    "options": ["Electric bulb", "Electric cell (battery)", "Electric switch", "Insulator"],
+    "correctAnswer": 1,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "An electric cell converts stored chemical energy into electrical energy when connected in a closed circuit."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Science",
+    "chapter": "Electricity and Circuits",
+    "question": "How many terminals does a standard electric cell have?",
+    "options": ["One terminal", "Two terminals (Positive and Negative)", "Three terminals", "Four terminals"],
+    "correctAnswer": 1,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "Every electric cell has two terminals: a positive (+) metal cap terminal and a negative (-) flat metal disc terminal."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Science",
+    "chapter": "Electricity and Circuits",
+    "question": "The thin coiled metal wire inside an electric bulb that glows to produce light is called the:",
+    "options": ["Filament", "Terminal", "Switch", "Fuse"],
+    "correctAnswer": 0,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "The filament (made of high-melting-point tungsten) heats up white-hot when current passes through it, giving off light."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Science",
+    "chapter": "Electricity and Circuits",
+    "question": "A complete, unbroken closed loop that allows electric current to flow through all components is called a/an:",
+    "options": ["Open circuit", "Closed electric circuit", "Short circuit", "Insulated loop"],
+    "correctAnswer": 1,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "In a closed electric circuit, there is an uninterrupted conductive path from the positive terminal of the cell to the negative terminal."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Science",
+    "chapter": "Electricity and Circuits",
+    "question": "In an electric circuit, the conventional direction of current flow is considered to be:",
+    "options": [
+      "From negative (-) to positive (+) terminal",
+      "From positive (+) to negative (-) terminal of the cell",
+      "Random in all directions",
+      "Only inside the switch"
+    ],
+    "correctAnswer": 1,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "By international scientific convention, electric current flows out from the positive (+) terminal through the circuit into the negative (-) terminal."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Science",
+    "chapter": "Electricity and Circuits",
+    "question": "A simple device used to either break (open) or complete (close) an electric circuit is called a:",
+    "options": ["Bulb", "Switch", "Cell", "Resistor"],
+    "correctAnswer": 1,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "A switch is a control element that bridges or separates conductive contact points to turn appliances ON or OFF."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Science",
+    "chapter": "Electricity and Circuits",
+    "question": "Materials that allow electric current to pass through them easily are known as:",
+    "options": ["Insulators", "Conductors", "Semiconductors", "Plastics"],
+    "correctAnswer": 1,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "Conductors (like copper, aluminium, and iron) offer very low resistance to the flow of electric charges."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Science",
+    "chapter": "Electricity and Circuits",
+    "question": "Materials that do NOT allow electric current to pass through them are called:",
+    "options": ["Conductors", "Insulators", "Electrolytes", "Metals"],
+    "correctAnswer": 1,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "Insulators (like rubber, dry wood, and plastic) block the flow of electric current, providing safety against shocks."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Science",
+    "chapter": "Electricity and Circuits",
+    "question": "Which of the following materials is an excellent electrical conductor?",
+    "options": ["Rubber eraser", "Copper wire", "Plastic scale", "Dry cotton thread"],
+    "correctAnswer": 1,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "Copper is a metal with free electrons, making it one of the best conductors used in home wiring."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Science",
+    "chapter": "Electricity and Circuits",
+    "question": "Why are electrical wires and screwdriver handles coated with plastic or rubber?",
+    "options": ["To make them heavy", "Because rubber and plastic are insulators that protect users from dangerous electric shocks", "To make wires magnetic", "To make electricity flow faster"],
+    "correctAnswer": 1,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "Insulating sleeves on cables and tool grips prevent direct skin contact with live electrical currents."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Science",
+    "chapter": "Electricity and Circuits",
+    "question": "What happens when the filament inside an electric bulb is broken (fused bulb)?",
+    "options": ["The bulb glows twice as bright", "The circuit is broken and the bulb will not glow", "The cell charges up", "The wires turn green"],
+    "correctAnswer": 1,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "A broken filament creates a physical gap in the circuit path, stopping current from completing the loop."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Science",
+    "chapter": "Electricity and Circuits",
+    "question": "Is the human body an electrical conductor or an insulator?",
+    "options": ["A good conductor of electricity", "A perfect insulator", "A non-conductive plastic", "Magnetic material"],
+    "correctAnswer": 0,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "Because our body fluids are rich in electrolytes and ions, the human body is a conductor, which is why electrical shocks occur."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Science",
+    "chapter": "Electricity and Circuits",
+    "question": "Why will an electric bulb NOT glow if both of its connecting wires are attached to the SAME positive terminal of a cell?",
+    "options": ["Bulb needs hot temperature", "Current requires a closed loop spanning between both opposite (+ and -) terminals to create a potential difference", "Positive terminals have no electricity", "Wire melts instantly"],
+    "correctAnswer": 1,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "Electrical current flows only when there is a closed path across both positive and negative terminals of the power source."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Science",
+    "chapter": "Electricity and Circuits",
+    "question": "An electrician wears rubber gloves while repairing an electric switchboard because:",
+    "options": ["Rubber makes hands soft", "Rubber is an insulator that prevents current from passing through his body to ground", "Rubber generates electricity", "To protect the switchboard from scratches"],
+    "correctAnswer": 1,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "Rubber gloves insulate the technician's hands, interrupting potential shock circuits to ground."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Science",
+    "chapter": "Electricity and Circuits",
+    "question": "Which of the following everyday objects can be used in place of a switch to complete a circuit in an experiment?",
+    "options": ["A metal safety pin", "A wooden matchstick", "A plastic ruler", "A rubber band"],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "A metallic steel safety pin conducts electricity, closing the circuit gap when touching both brass drawing pins."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Science",
+    "chapter": "Electricity and Circuits",
+    "question": "Why should you NEVER connect the positive and negative terminals of an electric cell directly with a single wire without a bulb or resistor?",
+    "options": [
+      "The wire turns into ice",
+      "Chemicals in the cell deplete extremely rapidly, overheating the wire and damaging the cell (short circuit)",
+      "The cell charges to 10,000 volts",
+      "It creates rain"
+    ],
+    "correctAnswer": 1,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "A direct terminal short circuit draws maximum unrestricted current, rapidly draining chemical reserves and causing thermal danger."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Science",
+    "chapter": "Electricity and Circuits",
+    "question": "A student builds a simple conduction tester with a cell, wires, and a small bulb. When she touches the two open wire ends to an iron nail, the bulb glows. What does this indicate?",
+    "options": ["Iron nail is an insulator", "Iron nail is a conductor of electricity", "The cell is empty", "The bulb is fused"],
+    "correctAnswer": 1,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "Since the bulb lights up, electric current flows through the iron nail, confirming that iron is a conductive metal."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Science",
+    "chapter": "Electricity and Circuits",
+    "question": "Which of the following non-metals is an exceptional conductor of electricity commonly found inside pencils?",
+    "options": ["Sulphur", "Graphite (pencil lead)", "Diamond", "Wood"],
+    "correctAnswer": 1,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "Graphite is a crystalline allotrope of carbon with delocalized electrons that conduct electricity efficiently."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Science",
+    "chapter": "Electricity and Circuits",
+    "question": "Why does a torch bulb stop glowing after several months of regular use even if the bulb filament is completely intact?",
+    "options": [
+      "The glass turned opaque",
+      "The chemicals inside the electric cell have been exhausted and can no longer generate electrical energy",
+      "The torch body became insulated",
+      "Air leaked into the battery"
+    ],
+    "correctAnswer": 1,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "Primary dry cells deplete their internal chemical reactants over time until electromotive potential drops to zero."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Science",
+    "chapter": "Electricity and Circuits",
+    "question": "How are the terminals of an electric bulb internally arranged?",
+    "options": [
+      "Both terminals are attached to the glass top",
+      "One terminal is at the metallic base tip and the other is at the metal casing, separated by an insulator",
+      "Bulbs have only one terminal",
+      "Terminals touch each other inside"
+    ],
+    "correctAnswer": 1,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "Two thick support wires lead from the filament: one connects to the outer metal screw casing, the other to the bottom solder tip."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Science",
+    "chapter": "Electricity and Circuits",
+    "question": "A student sets up four testers with different items inserted in the circuit gap:\nTester 1: Wooden toothpick\nTester 2: Steel paper clip\nTester 3: Glass bead\nTester 4: Aluminium foil strip\nIn which testers will the bulb GLOW?",
+    "options": ["Testers 1 and 3", "Testers 2 and 4", "Testers 1 and 4", "Testers 2 and 3"],
+    "correctAnswer": 1,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "Steel paper clip and aluminium foil are metals (conductors), so only Testers 2 and 4 will complete the circuit."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Science",
+    "chapter": "Electricity and Circuits",
+    "question": "What is the primary danger of handling household electrical appliances with wet hands?",
+    "options": [
+      "Water makes appliances rust instantly",
+      "Tap water contains dissolved salts making it a conductor; wet skin dramatically lowers electrical resistance, causing severe shock",
+      "Water evaporates with a loud noise",
+      "Appliances turn off permanently"
+    ],
+    "correctAnswer": 1,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "Moisture and dissolved minerals on skin provide an easy conductive pathway for lethal household 220V currents."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Science",
+    "chapter": "Electricity and Circuits",
+    "question": "In a household torch, how are the two cylindrical cells placed in series inside the tube?",
+    "options": [
+      "Positive (+) of first cell touches Positive (+) of second cell",
+      "Positive (+) cap of one cell touches Negative (-) flat base of the next cell",
+      "Both cells are wrapped in paper",
+      "Negative (-) touches Negative (-)"
+    ],
+    "correctAnswer": 1,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "In series battery connections, positive terminal must connect to negative terminal (+ to -) to combine voltages."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Science",
+    "chapter": "Electricity and Circuits",
+    "question": "Which component in an electric circuit provides the electrical energy to make charges flow?",
+    "options": ["The connecting copper wire", "The electric cell / battery", "The plastic switch", "The glass bulb envelope"],
+    "correctAnswer": 1,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "The electric cell serves as the chemical energy source creating electrical pressure (voltage) across the circuit."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Science",
+    "chapter": "Electricity and Circuits",
+    "question": "If you replace the metal wires in a simple circuit with dry nylon threads, will the bulb glow?",
+    "options": ["Yes, nylon conducts electricity", "No, nylon is an insulator and will not allow electric current to pass", "Yes, but with blue light", "Nylon produces its own current"],
+    "correctAnswer": 1,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "Synthetic polymers like nylon lack mobile charge carriers (insulators), blocking electrical transmission."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Science",
+    "chapter": "Electricity and Circuits",
+    "question": "What is the function of the inert gas (or vacuum) sealed inside an electric bulb?",
+    "options": ["To produce red light", "To prevent the hot tungsten filament from burning and oxidizing in air", "To make the bulb lighter", "To cool the socket"],
+    "correctAnswer": 1,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "If atmospheric oxygen touched the white-hot filament, it would instantly combust; argon/nitrogen or vacuum prevents oxidation."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Science",
+    "chapter": "Electricity and Circuits",
+    "question": "Why is pure distilled water a poor conductor of electricity, while tap water conducts electricity easily?",
+    "options": [
+      "Distilled water is too cold",
+      "Tap water contains dissolved mineral salts and ions that conduct electrical charge, whereas distilled water lacks free ions",
+      "Distilled water is made of plastic",
+      "Tap water contains copper wires"
+    ],
+    "correctAnswer": 1,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "Conduction in liquids requires mobile dissolved ions; deionized distilled water has negligible ionic conductivity."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Science",
+    "chapter": "Electricity and Circuits",
+    "question": "When an electric switch is turned to the 'OFF' position, what happens physically inside the switch?",
+    "options": ["The wires catch fire", "An air gap is created, breaking the electrical contact and halting current flow", "Current changes direction", "The battery starts recharging"],
+    "correctAnswer": 1,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "Turning the switch OFF physically separates the conductive metal contacts, creating an open circuit through non-conductive air."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Science",
+    "chapter": "Electricity and Circuits",
+    "question": "Read the following statements:\nAssertion (A): Electric current flows only through a closed circuit.\nReason (R): An electric circuit provides a complete, continuous loop for charges to travel from the positive terminal to the negative terminal.\nChoose the correct option:",
+    "options": [
+      "Both (A) and (R) are true, and (R) is the correct explanation of (A).",
+      "Both (A) and (R) are true, but (R) is NOT the correct explanation of (A).",
+      "(A) is true, but (R) is false.",
+      "(A) is false, but (R) is true."
+    ],
+    "correctAnswer": 0,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "Current requires an unbroken conductive pathway with zero open gaps between opposite electric potential poles."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Science",
+    "chapter": "Electricity and Circuits",
+    "question": "Spot the IMPOSTER in the following group of electrical conductors:\nGroup: [Copper wire, Silver spoon, Aluminium foil, Dry wooden scale]",
+    "options": ["Copper wire", "Silver spoon", "Aluminium foil", "Dry wooden scale"],
+    "correctAnswer": 3,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "Dry wood is an INSULATOR, whereas copper, silver, and aluminium are excellent metallic electrical conductors."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Science",
+    "chapter": "Electricity and Circuits",
+    "question": "A student builds a test circuit with 1 fresh cell, 1 bulb, and connecting wires. The bulb fails to glow. She verifies:\n- The cell is full of charge.\n- Wires are tightly connected.\nWhat is the MOST LIKELY fault in the circuit?",
+    "options": [
+      "The bulb filament is broken (fused)",
+      "The wire is too long by 1 cm",
+      "The room lights are turned on",
+      "The table is made of wood"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "A fractured filament creates an invisible internal open-circuit break inside the sealed glass bulb."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Science",
+    "chapter": "Electricity and Circuits",
+    "question": "Consider four circuit diagrams tested by a student:\nCircuit 1: Wire from (+) terminal to bulb tip; another wire from bulb base to (-) terminal.\nCircuit 2: Both wires from bulb connected only to (+) terminal of cell.\nCircuit 3: Both wires from bulb connected only to (-) terminal of cell.\nCircuit 4: Single wire from (+) to (-) terminal with bulb disconnected.\nIn which circuit will the bulb glow brightly?",
+    "options": ["Circuit 1 only", "Circuit 2 only", "Circuits 1 and 4", "Circuits 2 and 3"],
+    "correctAnswer": 0,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "Only Circuit 1 creates a valid closed loop bridging both opposite electrical terminals through the bulb."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Science",
+    "chapter": "Electricity and Circuits",
+    "question": "Read the following statements:\nAssertion (A): Birds sitting on a single high-voltage power line do not get electrocuted.\nReason (R): Both feet of the bird are on the same wire at the same electrical potential, so no closed circuit through ground is formed.\nChoose the correct option:",
+    "options": [
+      "Both (A) and (R) are true, and (R) is the correct explanation of (A).",
+      "Both (A) and (R) are true, but (R) is NOT the correct explanation of (A).",
+      "(A) is true, but (R) is false.",
+      "(A) is false, but (R) is true."
+    ],
+    "correctAnswer": 0,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "Without a potential difference (voltage drop) or path to ground across the bird's body, no electric current flows through it."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Science",
+    "chapter": "Electricity and Circuits",
+    "question": "A conduction tester's terminals are dipped into four liquid samples:\nSample A: Lemon juice\nSample B: Vinegar\nSample C: Tap water\nSample D: Pure vegetable oil\nIn which sample will the tester bulb FAIL to glow?",
+    "options": ["Sample A", "Sample B", "Sample C", "Sample D"],
+    "correctAnswer": 3,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "Vegetable oil is a non-polar organic liquid with zero free ions (insulator), while lemon juice, vinegar, and tap water contain conductive ions."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Science",
+    "chapter": "Electricity and Circuits",
+    "question": "Read the following statements:\nStatement 1: Conductors and insulators are equally important in electrical engineering.\nStatement 2: Switches, plugs, and sockets are made of insulators, while their internal contacts are made of conductors.\nStatement 3: An electric cell produces electricity as long as the chemicals inside it are active.\nWhich statements are TRUE?",
+    "options": ["Statements 1 and 2 only", "Statements 2 and 3 only", "Statements 1 and 3 only", "All Statements 1, 2, and 3"],
+    "correctAnswer": 3,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "All three statements are fundamental principles of electrical circuitry and appliance safety design."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Science",
+    "chapter": "Electricity and Circuits",
+    "question": "A student rubs a plastic scale against dry hair and brings it near a small disconnected 1.5 V torch bulb. Will the bulb glow?",
+    "options": [
+      "Yes, static electricity will power the bulb for hours",
+      "No, static charge has high voltage but negligible continuous current to heat a filament white-hot",
+      "The bulb explodes",
+      "The scale turns into a cell"
+    ],
+    "correctAnswer": 1,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "Static electricity is a stationary surface charge imbalance that lacks the steady closed-circuit amperage required to incandesce a bulb filament."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Science",
+    "chapter": "Electricity and Circuits",
+    "question": "Why is it strictly forbidden to experiment with household 220V electric sockets or power generators using school test circuits?",
+    "options": [
+      "Mains electricity runs at 220–240 V high power, which can cause fatal electrocution, severe burns, and electrical fires",
+      "Home electricity is too cold",
+      "Wires dissolve in school air",
+      "Sockets only work on Sundays"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "Household AC mains deliver deadly high voltage; student experiments must exclusively use safe, low-voltage 1.5 V dry cells."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Science",
+    "chapter": "Electricity and Circuits",
+    "question": "A circuit contains a cell, a switch, and two bulbs connected one after the other in a single loop (Series). If one bulb fuses, what happens to the second bulb?",
+    "options": [
+      "It continues glowing with double brightness",
+      "It turns off immediately because the fused bulb breaks the entire single circuit loop",
+      "It changes color to green",
+      "It starts flashing"
+    ],
+    "correctAnswer": 1,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "In a series circuit, there is only one pathway. A break in any single component opens the entire loop, stopping current everywhere."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Science",
+    "chapter": "Electricity and Circuits",
+    "question": "How does graphite conduct electricity even though it is classified as a non-metal (carbon)?",
+    "options": [
+      "It contains water inside",
+      "Its layered hexagonal carbon lattice has free delocalized electrons that move between planes under electrical voltage",
+      "It is painted with copper",
+      "It absorbs electricity from air"
+    ],
+    "correctAnswer": 1,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "Each carbon atom in graphite bonds to three others, leaving one valence electron free per atom to conduct electric charge."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Science",
+    "chapter": "Electricity and Circuits",
+    "question": "Why does an electric cell stop delivering current after a certain period of continuous use?",
+    "options": [
+      "The cell gets full of electricity",
+      "Chemical reactants inside the cell reach equilibrium and can no longer generate potential difference",
+      "The metal cap turns into glass",
+      "Air blocks the negative terminal"
+    ],
+    "correctAnswer": 1,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "Electrochemical reactions consume active electrolyte chemicals; once depleted, no further charge separation occurs."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Science",
+    "chapter": "Fun with Magnets",
+    "question": "Naturally occurring magnetic rock discovered by ancient shepherds is called:",
+    "options": ["Hematite", "Magnetite (Lodestone)", "Bauxite", "Granite"],
+    "correctAnswer": 1,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "Magnetite (natural iron oxide Fe3O4), historically known as lodestone ('leading stone'), was the first natural magnet discovered."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Science",
+    "chapter": "Fun with Magnets",
+    "question": "Materials that are strongly attracted by a magnet are called:",
+    "options": ["Non-magnetic materials", "Magnetic materials", "Insulators", "Luminous materials"],
+    "correctAnswer": 1,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "Materials like iron, nickel, and cobalt that experience strong attractive magnetic forces are called magnetic materials."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Science",
+    "chapter": "Fun with Magnets",
+    "question": "Which of the following is a non-magnetic material?",
+    "options": ["Iron nail", "Cobalt plate", "Nickel coin", "Wooden scale"],
+    "correctAnswer": 3,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "Wood is a non-magnetic organic substance that experiences zero attraction towards a magnet."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Science",
+    "chapter": "Fun with Magnets",
+    "question": "Every magnet, regardless of its shape, has how many magnetic poles?",
+    "options": ["One pole", "Two poles (North and South)", "Three poles", "Four poles"],
+    "correctAnswer": 1,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "All magnets always exist as dipoles possessing exactly two poles: a North pole (N) and a South pole (S)."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Science",
+    "chapter": "Fun with Magnets",
+    "question": "Where is the magnetic attractive force of a bar magnet strongest?",
+    "options": ["At the exact centre of the magnet", "At the two end poles", "On top of the magnet only", "Equally distributed everywhere"],
+    "correctAnswer": 1,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "Magnetic field lines concentrate heavily at the two opposite poles near the ends, creating maximum attractive strength."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Science",
+    "chapter": "Fun with Magnets",
+    "question": "A freely suspended bar magnet always aligns itself in which geographical direction when it comes to rest?",
+    "options": ["East-West direction", "North-South direction", "North-East direction", "South-West direction"],
+    "correctAnswer": 1,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "Because Earth behaves as a giant magnet, a freely suspended magnet's north-seeking pole points toward Earth's geographical North."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Science",
+    "chapter": "Fun with Magnets",
+    "question": "What happens when two LIKE poles (e.g., North and North, or South and South) of two magnets are brought close?",
+    "options": ["They attract each other", "They repel (push away) each other", "They stick permanently", "They turn into water"],
+    "correctAnswer": 1,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "Fundamental law of magnetism: Like poles repel each other, while unlike poles attract each other."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Science",
+    "chapter": "Fun with Magnets",
+    "question": "What happens when two UNLIKE poles (North and South) of two magnets are brought close?",
+    "options": ["They repel each other", "They attract each other", "Nothing happens", "They explode"],
+    "correctAnswer": 1,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "Opposite (unlike) magnetic poles exert a strong mutual attractive force on each other."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Science",
+    "chapter": "Fun with Magnets",
+    "question": "Which navigational instrument uses a magnetized needle pivoting freely over a dial to find directions?",
+    "options": ["Thermometer", "Magnetic Compass", "Barometer", "Speedometer"],
+    "correctAnswer": 1,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "A magnetic compass features a balanced magnetic needle that aligns with the North-South axis, guiding sailors and travelers."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Science",
+    "chapter": "Fun with Magnets",
+    "question": "Which of the following is a commonly manufactured artificial shape of a magnet?",
+    "options": ["Bar magnet", "Horse-shoe magnet", "Cylindrical / Disc magnet", "All of these"],
+    "correctAnswer": 3,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "Artificial permanent magnets are industrially cast in bar, horse-shoe, ring, disc, and cylindrical geometries."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Science",
+    "chapter": "Fun with Magnets",
+    "question": "If you break a bar magnet into two halves across the middle, each broken piece will:",
+    "options": ["Have only one isolated pole", "Become a complete magnet with its own North and South poles", "Lose all magnetism completely", "Turn into copper"],
+    "correctAnswer": 1,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "Magnetic monopoles do not exist in nature. Breaking a magnet creates two smaller complete dipole magnets, each with N and S poles."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Science",
+    "chapter": "Fun with Magnets",
+    "question": "Which of the following actions can cause a permanent magnet to lose its magnetic properties (demagnetisation)?",
+    "options": ["Heating it strongly, hammering it, or dropping it from height", "Washing it in cold water", "Wrapping it in clean paper", "Keeping it in sunlight"],
+    "correctAnswer": 0,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "Severe thermal agitation (heating), mechanical shock (hammering), or drops randomize internal magnetic domains, demagnetizing it."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Science",
+    "chapter": "Fun with Magnets",
+    "question": "When a magnet is rolled in a heap of iron filings and lifted, most of the filings cling to the:",
+    "options": ["Exact middle centre of the magnet", "Two ends (poles) of the magnet", "Only one side", "Filings do not stick at all"],
+    "correctAnswer": 1,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "Iron filings cluster densely at the two pole regions where the magnetic flux lines exit and enter with maximum intensity."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Science",
+    "chapter": "Fun with Magnets",
+    "question": "Which test is considered the ONLY sure and definitive test for magnetism in an unknown metal bar?",
+    "options": ["Attraction", "Repulsion", "Heating", "Dipping in water"],
+    "correctAnswer": 1,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "A magnet attracts both opposite magnetic poles and unmagnetized iron pieces. However, REPULSION occurs strictly between two like magnetic poles!"
+  },
+  {
+    "classLevel": 6,
+    "subject": "Science",
+    "chapter": "Fun with Magnets",
+    "question": "How can an ordinary iron nail be magnetized using a permanent bar magnet at home?",
+    "options": [
+      "By dipping the nail in salt water",
+      "By stroking the nail with one pole of a bar magnet repeatedly in the same direction from one end to the other (single-touch method)",
+      "By heating the nail on a gas stove",
+      "By keeping the nail in the dark"
+    ],
+    "correctAnswer": 1,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "Stroking in one consistent direction aligns the microscopic magnetic domains within the iron nail, turning it into an induced magnet."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Science",
+    "chapter": "Fun with Magnets",
+    "question": "Why should bar magnets be stored in pairs with opposite poles alongside each other separated by a piece of wood, with soft iron keepers across their ends?",
+    "options": ["To prevent them from getting rusty", "To prevent self-demagnetisation over time by maintaining a closed magnetic circuit", "To make them heavier", "To change their color"],
+    "correctAnswer": 1,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "Soft iron keepers channel the magnetic flux into a closed loop, shielding the magnets from ambient domain demagnetization."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Science",
+    "chapter": "Fun with Magnets",
+    "question": "Why does a magnetic compass needle align itself along the Earth's geographic North-South direction?",
+    "options": [
+      "The compass needle hates East and West",
+      "The Earth itself behaves as a giant magnet with its magnetic south pole situated near geographic North",
+      "Sunlight pulls the needle",
+      "Air currents push the needle"
+    ],
+    "correctAnswer": 1,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "Earth's molten iron core creates a geomagnetic field. The North-seeking pole of a compass is attracted toward Earth's magnetic South pole (near geographic North)."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Science",
+    "chapter": "Fun with Magnets",
+    "question": "A tailor accidentally dropped his sewing needle into a box of sawdust. How can he retrieve the needle within two seconds?",
+    "options": ["By burning the sawdust", "By sweeping a magnet over the sawdust", "By winnowing the box", "By pouring water"],
+    "correctAnswer": 1,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "The steel needle is magnetic and jumps to cling to the magnet, leaving non-magnetic sawdust behind."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Science",
+    "chapter": "Fun with Magnets",
+    "question": "Which of the following devices should NOT be kept close to strong magnets to prevent data erasure or damage?",
+    "options": ["Credit cards with magnetic strips, cassette tapes, CRT displays, and computer hard drives", "Wooden tables", "Plastic bottles", "Glass tumblers"],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "Strong external magnetic fields can scramble or erase data stored on magnetic strips, tapes, and sensitive electronic memory circuits."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Science",
+    "chapter": "Fun with Magnets",
+    "question": "A toy car has a bar magnet fixed on its roof with the North pole facing front. When another magnet with its North pole facing the car's front is brought near, the car will:",
+    "options": ["Move towards the magnet", "Move backward (repelled away)", "Turn upside down", "Start flying"],
+    "correctAnswer": 1,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "Facing North-to-North causes magnetic repulsion, driving the toy car backward."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Science",
+    "chapter": "Fun with Magnets",
+    "question": "How can you identify which pole of an unlabelled bar magnet is the North pole?",
+    "options": [
+      "By smelling the magnet",
+      "By suspending it freely with a silk thread; the end pointing towards Earth's geographic North is the North pole",
+      "By placing it in boiling water",
+      "By measuring its weight"
+    ],
+    "correctAnswer": 1,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "A freely suspended magnet always comes to rest in the geomagnetic meridian; the end facing geographic north is its North pole."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Science",
+    "chapter": "Fun with Magnets",
+    "question": "Which metal is strongly attracted by a magnet among the following choices?",
+    "options": ["Aluminium", "Pure Gold", "Cobalt", "Copper"],
+    "correctAnswer": 2,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "Cobalt, iron, and nickel are ferromagnetic elements strongly attracted by magnetic fields. (Copper, gold, and aluminium are non-magnetic)."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Science",
+    "chapter": "Fun with Magnets",
+    "question": "What happens to the magnetic field strength of a horse-shoe magnet compared to a straight bar magnet of equal mass?",
+    "options": [
+      "Horse-shoe magnet brings both opposite poles close together, concentrating a powerful magnetic field across the narrow gap",
+      "Horse-shoe shape destroys magnetism",
+      "Bar magnet has no poles",
+      "Both have zero force"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "The U-shape brings North and South poles adjacent, concentrating magnetic lines of force in the gap for maximum lifting power."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Science",
+    "chapter": "Fun with Magnets",
+    "question": "Can a magnet attract an iron paper clip through a sheet of paper or a thin plastic lid?",
+    "options": [
+      "Yes, magnetic field lines pass through non-magnetic materials like paper, plastic, and glass",
+      "No, paper blocks all magnetic forces completely",
+      "Only if the paper is wet",
+      "Only in vacuum"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "Magnetic fields permeate through non-magnetic barriers like paper, cardboard, and glass without attenuation."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Science",
+    "chapter": "Fun with Magnets",
+    "question": "Ancient legend states that the shepherd Magnes discovered the first magnet when:",
+    "options": [
+      "His clothes caught fire on a hill",
+      "The iron tip of his wooden staff and nails in his sandals got stuck to a black rock on Mount Ida",
+      "He found gold coins under a tree",
+      "He saw a glowing river"
+    ],
+    "correctAnswer": 1,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "According to Greek legend, Magnes discovered natural magnetite when the iron ferrule of his stick stuck to a magnetic lode rock."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Science",
+    "chapter": "Fun with Magnets",
+    "question": "Why is the needle of a compass painted with red or marked with an arrow at one end?",
+    "options": ["To look attractive", "To distinguish the North-seeking pole from the South pole easily", "To make it heavier", "To prevent rust"],
+    "correctAnswer": 1,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "Color-coding or arrow markings allow navigators to identify the North pole instantly without confusion."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Science",
+    "chapter": "Fun with Magnets",
+    "question": "Which of the following household items does NOT use a magnet inside it?",
+    "options": ["Refrigerator door seal gasket", "Audio speaker / headphones", "Standard wooden pencil", "Electric door bell"],
+    "correctAnswer": 2,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "Pencils are made of non-magnetic wood and graphite. Fridge seals, speakers, and doorbells all utilize permanent or electromagnets."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Science",
+    "chapter": "Fun with Magnets",
+    "question": "A student floats a cork with a magnetized needle inserted horizontally through it in a bowl of water. In which direction will the needle come to rest?",
+    "options": ["East-West", "North-South", "It will spin forever", "It will sink to bottom"],
+    "correctAnswer": 1,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "This acts as a floating liquid compass: water provides frictionless rotation, allowing the magnetized needle to align along the North-South axis."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Science",
+    "chapter": "Fun with Magnets",
+    "question": "Read the following statements:\nAssertion (A): Repulsion is the only sure test to confirm if a metal bar is a magnet.\nReason (R): A magnet attracts both opposite magnetic poles as well as unmagnetized magnetic materials (like iron), but repels only another like pole.\nChoose the correct option:",
+    "options": [
+      "Both (A) and (R) are true, and (R) is the correct explanation of (A).",
+      "Both (A) and (R) are true, but (R) is NOT the correct explanation of (A).",
+      "(A) is true, but (R) is false.",
+      "(A) is false, but (R) is true."
+    ],
+    "correctAnswer": 0,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "An iron bar is attracted to both N and S poles of a magnet. Only a real magnet will exhibit repulsion when like poles face each other."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Science",
+    "chapter": "Fun with Magnets",
+    "question": "Spot the IMPOSTER in the following group of materials categorized by magnetic properties:\nGroup: [Nickel, Iron, Cobalt, Copper]",
+    "options": ["Nickel", "Iron", "Cobalt", "Copper"],
+    "correctAnswer": 3,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "Nickel, iron, and cobalt are ferromagnetic materials. Copper is a non-magnetic metal that is not attracted by magnets."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Science",
+    "chapter": "Fun with Magnets",
+    "question": "A bar magnet is cut into three equal pieces perpendicular to its length. How many total magnetic poles are there now across all three pieces?",
+    "options": ["2 poles", "3 poles", "6 poles (3 North and 3 South poles)", "Zero poles"],
+    "correctAnswer": 2,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "Cutting a magnet creates three independent dipole magnets. Each piece has 2 poles (1 N and 1 S), yielding 3 × 2 = 6 poles in total."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Science",
+    "chapter": "Fun with Magnets",
+    "question": "Two identical-looking shiny metal bars (Bar 1 and Bar 2) are on a table. One is a magnet and one is plain soft iron. Without using any other object, how can you identify which is the magnet?",
+    "options": [
+      "Touch the end of Bar 1 to the exact MIDDLE of Bar 2; if it attracts strongly, Bar 1 is the magnet",
+      "Weigh both bars on a scale",
+      "Dip both in water",
+      "Look at their color in sunlight"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "A magnet's poles are at its ends, while its middle has virtually zero attraction. The pole of a magnet will attract the middle of an iron bar, but an iron bar's pole cannot attract the neutral middle of a magnet."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Science",
+    "chapter": "Fun with Magnets",
+    "question": "Read the following statements:\nAssertion (A): An isolated single magnetic pole (magnetic monopole) has never been found in nature.\nReason (R): Magnetic poles always exist in inseparable conjugate North-South pairs.\nChoose the correct option:",
+    "options": [
+      "Both (A) and (R) are true, and (R) is the correct explanation of (A).",
+      "Both (A) and (R) are true, but (R) is NOT the correct explanation of (A).",
+      "(A) is true, but (R) is false.",
+      "(A) is false, but (R) is true."
+    ],
+    "correctAnswer": 0,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "Every microscopic magnetic domain originates from orbiting and spinning electrons forming closed dipole loops."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Science",
+    "chapter": "Fun with Magnets",
+    "question": "A magician performs a trick: A paper butterfly with an iron clip attached to it levitates in mid-air below a table without any visible string touching it. What is the scientific secret?",
+    "options": [
+      "Static electricity in the air",
+      "A strong magnet hidden under the table attracts the iron clip upwards, balancing gravity",
+      "Hot air blowing upward",
+      "The butterfly is filled with helium"
+    ],
+    "correctAnswer": 1,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "A strong magnet's field acts across the air gap, exerting non-contact upward magnetic tension on the iron clip against gravity."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Science",
+    "chapter": "Fun with Magnets",
+    "question": "Read the following statements:\nStatement 1: A compass can be used to find directions at any point on Earth except near magnetic poles.\nStatement 2: Heating a magnet to red-hot temperature destroys its magnetism permanently.\nStatement 3: Plastic and wood are transparent to magnetic field lines.\nWhich statements are TRUE?",
+    "options": ["Statements 1 and 2 only", "Statements 2 and 3 only", "Statements 1 and 3 only", "All Statements 1, 2, and 3"],
+    "correctAnswer": 3,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "All three statements accurately summarize core empirical properties of magnetic behavior and thermal domain disruption."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Science",
+    "chapter": "Fun with Magnets",
+    "question": "Why does a steel sewing needle retain induced magnetism much longer than an iron nail after being stroked with a bar magnet?",
+    "options": [
+      "Steel is made of cobalt only",
+      "Steel is a magnetically hard material with high retentivity, whereas soft iron loses induced magnetism easily",
+      "Iron nails are hollow",
+      "Needles are thinner"
+    ],
+    "correctAnswer": 1,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "Carbon-steel alloys have high magnetic retentivity (coercivity), holding domain orientation to form semi-permanent magnets."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Science",
+    "chapter": "Fun with Magnets",
+    "question": "A student places four ring magnets over a vertical smooth wooden pencil. Magnet 1, 2, and 3 float in mid-air above each other with gaps, while Magnet 4 sticks firmly to Magnet 3. Why are there gaps between 1, 2, and 3?",
+    "options": [
+      "Gravity is turned off",
+      "Magnets 1, 2, and 3 have their LIKE poles facing each other, causing magnetic repulsion to lift them against gravity",
+      "Pencil generates upward air jets",
+      "Magnets are hollow"
+    ],
+    "correctAnswer": 1,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "Arranging ring magnets with like poles facing (N-N or S-S) generates magnetic levitation where repulsive force balances weight."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Science",
+    "chapter": "Fun with Magnets",
+    "question": "Which of the following methods will successfully DEMAGNETIZE an unwanted magnetic screwdriver?",
+    "options": [
+      "Heating the tip red-hot over a flame and striking it with a hammer",
+      "Placing it in the freezer",
+      "Washing it with soapy water",
+      "Wrapping it in aluminium foil"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "Thermal energy above the Curie point plus physical impacts randomize aligned atomic magnetic dipoles."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Science",
+    "chapter": "Fun with Magnets",
+    "question": "When a bar magnet is placed under a white cardboard sheet and fine iron filings are sprinkled on top with gentle tapping, the filings arrange themselves in curved lines. What do these lines represent?",
+    "options": [
+      "Electrostatic spark lines",
+      "Magnetic field lines mapping the direction and intensity of magnetic flux from North to South pole",
+      "Sound vibration waves",
+      "Heat radiation contours"
+    ],
+    "correctAnswer": 1,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "Iron filing fragments act as tiny miniature compass needles, aligning along continuous magnetic lines of force."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Science",
+    "chapter": "Fun with Magnets",
+    "question": "Why does a magnetic compass give inaccurate, spinning readings inside an iron-hulled warship or near large electrical transformers?",
+    "options": [
+      "The compass needle melts",
+      "Surrounding ferromagnetic iron structures and heavy electric currents create local stray magnetic fields that deflect the needle from geomagnetic North",
+      "The ship is moving too fast",
+      "Sea air neutralizes compasses"
+    ],
+    "correctAnswer": 1,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "Local magnetic anomalies from ferromagnetic bulkheads and electromagnetic currents distort ambient geomagnetic vectors."
+  }
+]

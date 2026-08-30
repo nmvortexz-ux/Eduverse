@@ -1,0 +1,1462 @@
+[
+  {
+    "classLevel": 6,
+    "subject": "Science",
+    "chapter": "Sorting Materials into Groups",
+    "question": "Which of the following objects possesses a natural metallic shine (lustre)?",
+    "options": ["A freshly cut copper wire", "A piece of chalk", "A wooden log", "A cardboard box"],
+    "correctAnswer": 0,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "Metals like copper, aluminium, and gold have a characteristic metallic shine called lustre, especially when freshly cut!"
+  },
+  {
+    "classLevel": 6,
+    "subject": "Science",
+    "chapter": "Sorting Materials into Groups",
+    "question": "Objects through which we can see clearly are classified as:",
+    "options": ["Opaque", "Transparent", "Translucent", "Lustrous"],
+    "correctAnswer": 1,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "Transparent materials like clear glass and clean water allow light to pass through them completely, so you can see through them clearly."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Science",
+    "chapter": "Sorting Materials into Groups",
+    "question": "Which of the following materials is completely soluble in water at room temperature?",
+    "options": ["Sand", "Common salt", "Sawdust", "Chalk powder"],
+    "correctAnswer": 1,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "Common salt (sodium chloride) dissolves completely in water, disappearing to form a uniform clear solution."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Science",
+    "chapter": "Sorting Materials into Groups",
+    "question": "Materials that cannot be easily compressed or scratched are known as:",
+    "options": ["Soft materials", "Hard materials", "Soluble materials", "Translucent materials"],
+    "correctAnswer": 1,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "Materials that are difficult to compress, cut, or scratch—like iron, stone, and diamond—are classified as hard materials."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Science",
+    "chapter": "Sorting Materials into Groups",
+    "question": "Which of the following objects will float on the surface of water?",
+    "options": ["An iron nail", "A dry leaf", "A glass marble", "A steel spoon"],
+    "correctAnswer": 1,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "A dry leaf has a lower density than water, which allows it to float easily on the surface."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Science",
+    "chapter": "Sorting Materials into Groups",
+    "question": "An object through which light passes only partially, making things look hazy, is called:",
+    "options": ["Transparent", "Opaque", "Translucent", "Magnetic"],
+    "correctAnswer": 2,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "Translucent materials (like frosted glass or butter paper) allow only some light to pass through, creating a blurred view."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Science",
+    "chapter": "Sorting Materials into Groups",
+    "question": "Which of the following is an example of an opaque object?",
+    "options": ["Clear air", "Clean water", "Wooden door", "Thin cellophane sheet"],
+    "correctAnswer": 2,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "A wooden door blocks light completely, meaning you cannot see anything on the other side."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Science",
+    "chapter": "Sorting Materials into Groups",
+    "question": "Which gas dissolved in water is vital for the survival of aquatic animals and plants?",
+    "options": ["Nitrogen", "Carbon monoxide", "Oxygen", "Helium"],
+    "correctAnswer": 2,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "Dissolved oxygen gas in water allows fish and other aquatic organisms to breathe using their gills."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Science",
+    "chapter": "Sorting Materials into Groups",
+    "question": "Which of the following materials is soft and can be easily compressed with our fingers?",
+    "options": ["Iron rod", "Sponge", "Stone pebble", "Glass tumbler"],
+    "correctAnswer": 1,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "A sponge has numerous air pockets and elastic structure, allowing it to be compressed effortlessly."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Science",
+    "chapter": "Sorting Materials into Groups",
+    "question": "Why do shopkeepers prefer keeping sweets and biscuits in transparent glass or plastic jars?",
+    "options": ["To protect them from air only", "So that buyers can easily see them without opening the jars", "To make them look heavy", "Because transparent jars are always cheaper"],
+    "correctAnswer": 1,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "Transparent containers allow customers and shopkeepers to spot the items immediately without opening lids!"
+  },
+  {
+    "classLevel": 6,
+    "subject": "Science",
+    "chapter": "Sorting Materials into Groups",
+    "question": "Which of the following liquids is completely miscible (mixes completely) with water?",
+    "options": ["Mustard oil", "Kerosene", "Vinegar", "Coconut oil"],
+    "correctAnswer": 2,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "Vinegar mixes uniformly with water in all proportions, forming a single liquid layer."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Science",
+    "chapter": "Sorting Materials into Groups",
+    "question": "Why is grouping materials into categories helpful in our daily life?",
+    "options": ["It makes materials heavier", "It helps in convenient storage and systematic study of their properties", "It changes their chemical nature", "It makes all materials transparent"],
+    "correctAnswer": 1,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "Grouping (sorting) items based on similarities and differences makes finding them convenient and helps us understand their patterns!"
+  },
+  {
+    "classLevel": 6,
+    "subject": "Science",
+    "chapter": "Sorting Materials into Groups",
+    "question": "Why are cooking utensils made of metals like aluminium and copper, but their handles are made of wood or plastic?",
+    "options": ["Metals are poor conductors, while wood conducts heat fast", "Metals conduct heat to cook food quickly, while wood/plastic handles insulate your hands from burns", "Wood is heavier than aluminium", "Plastic adds pleasant flavour to cooking"],
+    "correctAnswer": 1,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "Utensil bases need to be good thermal conductors (metals), while handles must be poor conductors (insulators like wood/Bakelite) for safety."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Science",
+    "chapter": "Sorting Materials into Groups",
+    "question": "When a drop of mustard oil is stirred into a glass of water and left undisturbed for 10 minutes, what happens?",
+    "options": ["It forms a clear homogenous solution", "It turns the water blue", "It separates and forms a distinct floating layer on top of water", "It settles at the bottom as a solid paste"],
+    "correctAnswer": 2,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "Oil is immiscible with water and less dense, so it floats to form a separate top layer."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Science",
+    "chapter": "Sorting Materials into Groups",
+    "question": "A piece of freshly rubbed sandpaper on an old tarnished iron rod restores its shiny appearance. What does this demonstrate?",
+    "options": ["Iron creates light on friction", "Metals lose their shine due to air and moisture, but the underlying metal is naturally lustrous", "Sandpaper paints the metal silver", "Iron is a translucent material"],
+    "correctAnswer": 1,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "Metals react with atmospheric oxygen and moisture over time losing surface lustre, which reappears when scratched or polished."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Science",
+    "chapter": "Sorting Materials into Groups",
+    "question": "Which of the following pairs represents one soluble and one insoluble substance in water respectively?",
+    "options": ["Sugar and Salt", "Chalk powder and Sand", "Glucose and Wood shavings", "Kerosene and Mustard oil"],
+    "correctAnswer": 2,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "Glucose dissolves completely in water (soluble), whereas wood shavings do not dissolve at all (insoluble)."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Science",
+    "chapter": "Sorting Materials into Groups",
+    "question": "A sheet of white writing paper becomes translucent when you:",
+    "options": ["Dip it in cold water and let it dry", "Rub a tiny drop of cooking oil or butter onto it", "Scratch it with a pencil", "Keep it in the dark for an hour"],
+    "correctAnswer": 1,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "Oil fills the microscopic air pockets between paper fibres, allowing light to pass through partially and making it translucent."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Science",
+    "chapter": "Sorting Materials into Groups",
+    "question": "Which of the following groups contains ONLY materials that sink in water?",
+    "options": ["Iron nail, stone pebble, copper coin", "Dry leaf, cork, plastic ball", "Wooden stick, thermocol piece, oil drop", "Feather, dry twig, paper boat"],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "Iron, stone, and copper all have higher densities than water, causing them to sink straight to the bottom."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Science",
+    "chapter": "Sorting Materials into Groups",
+    "question": "Why can a single object be made from multiple materials?",
+    "options": ["Because nature forces every object to have three materials", "Different parts serve different functional needs like durability, insulation, and appearance", "To make the object very heavy", "Because pure materials do not exist"],
+    "correctAnswer": 1,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "Consider a pencil: it uses wood for body grip, graphite for writing, rubber for erasing, and metal for the collar band!"
+  },
+  {
+    "classLevel": 6,
+    "subject": "Science",
+    "chapter": "Sorting Materials into Groups",
+    "question": "Which of the following properties is common to both gold and aluminium?",
+    "options": ["Both are soft liquids at room temperature", "Both are lustrous and good conductors of heat", "Both dissolve completely in water", "Both are translucent materials"],
+    "correctAnswer": 1,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "Gold and aluminium are both metals, sharing metallic properties such as lustre and thermal conductivity."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Science",
+    "chapter": "Sorting Materials into Groups",
+    "question": "If you are playing hide-and-seek, which of the following is the WORST place to hide behind if you do not want to be seen?",
+    "options": ["A thick brick wall", "A closed wooden wardrobe", "A clear glass window", "A thick cardboard screen"],
+    "correctAnswer": 2,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "Clear glass is transparent, allowing anyone to see straight through it and spot you instantly!"
+  },
+  {
+    "classLevel": 6,
+    "subject": "Science",
+    "chapter": "Sorting Materials into Groups",
+    "question": "Which of the following gases does NOT dissolve appreciably in water under normal conditions?",
+    "options": ["Carbon dioxide", "Oxygen", "Methane", "Hydrogen chloride"],
+    "correctAnswer": 2,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "Oxygen and carbon dioxide dissolve in water to sustain aquatic life, whereas non-polar gases like methane are virtually insoluble."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Science",
+    "chapter": "Sorting Materials into Groups",
+    "question": "How can you differentiate between a piece of chalk and a candle using the hardness test?",
+    "options": ["Chalk can easily be scratched and powdered with fingernails, whereas iron nail cannot scratch it", "Both candle wax and chalk are softer than steel, but wax melts with body warmth and can be pressed easily", "Chalk is a transparent liquid", "Candle is soluble in water while chalk is not"],
+    "correctAnswer": 1,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "Candle wax is a soft organic solid easily molded by slight pressure, whereas chalk is brittle and leaves powder."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Science",
+    "chapter": "Sorting Materials into Groups",
+    "question": "Which of the following items is made from the SAME basic material as a drinking tumbler made of glass?",
+    "options": ["Spectacle lenses", "Leather belt", "Cotton shirt", "Rubber eraser"],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "High-clarity optical glass or clear optical polymers are used for spectacle lenses just like glassware."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Science",
+    "chapter": "Sorting Materials into Groups",
+    "question": "What will happen if we try to make a bucket out of woven cotton cloth for holding water?",
+    "options": ["It will hold hot water better than cold water", "The water will seep through the pores and leak out immediately", "It will dissolve the cotton completely", "Cloth becomes magnetic in water"],
+    "correctAnswer": 1,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "Cloth is porous and permeable; we choose materials for objects based on their properties (impermeability is needed for buckets)."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Science",
+    "chapter": "Sorting Materials into Groups",
+    "question": "Which property helps us classify lemon juice, vinegar, and honey under the category of liquids that dissolve in water?",
+    "options": ["Opaqueness", "Miscibility with water", "Hardness", "Magnetic attraction"],
+    "correctAnswer": 1,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "Miscibility is the property of liquids to mix evenly with another liquid (like water) without forming separate layers."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Science",
+    "chapter": "Sorting Materials into Groups",
+    "question": "A student drops four items into a tub of water: (i) an empty plastic bottle with cap on, (ii) a glass marble, (iii) an iron key, and (iv) a dry wooden block. How many items will FLOAT?",
+    "options": ["1", "2", "3", "4"],
+    "correctAnswer": 1,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "Two items will float: the air-filled closed plastic bottle and the dry wooden block. The marble and iron key will sink."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Science",
+    "chapter": "Sorting Materials into Groups",
+    "question": "Which of the following is an example of an object that can be made from more than five different materials?",
+    "options": ["A chair (wood, plastic, iron, aluminium, bamboo, glass)", "Pure water", "Oxygen gas", "Natural sunlight"],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "A chair can be made from a wide variety of materials including timber, polymers, steel, rattan cane, and cast metals."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Science",
+    "chapter": "Sorting Materials into Groups",
+    "question": "Read the following statements:\nAssertion (A): We cannot make a cooking pot out of paper or cloth.\nReason (R): The choice of a material to make an object depends on its properties and the purpose for which the object is to be used.\nChoose the correct option:",
+    "options": [
+      "Both (A) and (R) are true, and (R) is the correct explanation of (A).",
+      "Both (A) and (R) are true, but (R) is NOT the correct explanation of (A).",
+      "(A) is true, but (R) is false.",
+      "(A) is false, but (R) is true."
+    ],
+    "correctAnswer": 0,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "Cooking pots need thermal resistance, heat conduction, and structural rigidity. Paper and cloth catch fire and leak, proving Reason explains Assertion."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Science",
+    "chapter": "Sorting Materials into Groups",
+    "question": "Spot the IMPOSTER in the following group of materials categorized by transparency:\nGroup: [Frosted bathroom window glass, Butter paper, Clear transparent glass sheet, Oiled tracing paper]",
+    "options": [
+      "Frosted bathroom window glass",
+      "Butter paper",
+      "Clear transparent glass sheet",
+      "Oiled tracing paper"
+    ],
+    "correctAnswer": 2,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "Clear transparent glass is TRANSPARENT, whereas all three other items in the group are TRANSLUCENT."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Science",
+    "chapter": "Sorting Materials into Groups",
+    "question": "Four test tubes contain equal volumes of water. One spatula of the following substances is added to each:\nTube A: Chalk powder\nTube B: Copper sulphate crystals\nTube C: Sawdust\nTube D: Sand\nIn which tube will a clear blue homogenous solution form?",
+    "options": ["Tube A", "Tube B", "Tube C", "Tube D"],
+    "correctAnswer": 1,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "Copper sulphate is completely soluble in water, dissolving into individual ions to yield a transparent blue solution."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Science",
+    "chapter": "Sorting Materials into Groups",
+    "question": "Read the following statements:\nAssertion (A): Freshly cut surfaces of aluminium and copper show metallic lustre, but old cooking vessels look dull.\nReason (R): Metals react with atmospheric oxygen and moisture over time to form a dull oxide layer on their surface.\nChoose the correct option:",
+    "options": [
+      "Both (A) and (R) are true, and (R) is the correct explanation of (A).",
+      "Both (A) and (R) are true, but (R) is NOT the correct explanation of (A).",
+      "(A) is true, but (R) is false.",
+      "(A) is false, but (R) is true."
+    ],
+    "correctAnswer": 0,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "Atmospheric corrosion forms a microscopic oxide/carbonate film that scatters light, dulling the metal until it is cut or polished."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Science",
+    "chapter": "Sorting Materials into Groups",
+    "question": "An unlabelled solid cylinder floats with half its body above water. When placed in cooking oil, it sinks straight to the bottom. What can you deduce about its density?",
+    "options": [
+      "Density of cylinder < Density of Oil < Density of Water",
+      "Density of Oil < Density of cylinder < Density of Water",
+      "Density of Water < Density of cylinder < Density of Oil",
+      "Density of cylinder > Density of Water > Density of Oil"
+    ],
+    "correctAnswer": 1,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "Since it floats on water, its density is less than water. Since it sinks in oil, its density is greater than oil. (Density of Oil < Object < Water)."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Science",
+    "chapter": "Sorting Materials into Groups",
+    "question": "Spot the INCORRECT statement regarding solubility of gases in water:",
+    "options": [
+      "Oxygen gas dissolves in water and supports respiration of fish.",
+      "Carbon dioxide dissolves in water and is used by aquatic plants for photosynthesis.",
+      "All gases are completely soluble in water in equal amounts under all conditions.",
+      "Boiling water drives out dissolved gases from it."
+    ],
+    "correctAnswer": 2,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "Gases have widely different solubilities; some dissolve well (CO2, O2) while others like nitrogen or methane are poorly soluble."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Science",
+    "chapter": "Sorting Materials into Groups",
+    "question": "A flashlight is turned on in a dark room. You place different sheets in front of the beam:\nSheet X: Light passes completely, clear spot on opposite wall.\nSheet Y: Light passes dimly, no sharp circle on wall.\nSheet Z: No light passes at all, cast a dark shadow.\nIdentify X, Y, and Z:",
+    "options": [
+      "X = Cardboard, Y = Clear Glass, Z = Butter paper",
+      "X = Clear Acrylic Sheet, Y = Oiled Paper, Z = Wooden Plank",
+      "X = Frosted Glass, Y = Clear Glass, Z = Water",
+      "X = Steel Plate, Y = Tracing Paper, Z = Air"
+    ],
+    "correctAnswer": 1,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "Sheet X is Transparent (Acrylic), Sheet Y is Translucent (Oiled paper), and Sheet Z is Opaque (Wooden plank)."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Science",
+    "chapter": "Sorting Materials into Groups",
+    "question": "Which of the following sets of properties correctly describes the material 'Kerosene oil'?",
+    "options": [
+      "Solid, opaque, soluble in water, sinks in water",
+      "Liquid, translucent/transparent, immiscible with water, floats on water",
+      "Gas, lustrous, soluble in water, hard",
+      "Liquid, opaque, soluble in water, magnetic"
+    ],
+    "correctAnswer": 1,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "Kerosene is a transparent/translucent liquid, immiscible with water, and has lower density than water so it floats."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Science",
+    "chapter": "Sorting Materials into Groups",
+    "question": "A puzzle box contains four items: [A copper key, A dry sponge, A glass marble, A candle]. Which two items will sink in water and cannot be compressed easily by hand?",
+    "options": [
+      "Dry sponge and Candle",
+      "Copper key and Glass marble",
+      "Candle and Copper key",
+      "Glass marble and Dry sponge"
+    ],
+    "correctAnswer": 1,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "Both the copper key and glass marble are hard (non-compressible by fingers) and have density greater than water (they sink)."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Science",
+    "chapter": "Sorting Materials into Groups",
+    "question": "Read the following statements:\nStatement 1: Diamond is the hardest naturally occurring substance known.\nStatement 2: Diamond is lustrous and transparent to light.\nStatement 3: Diamond dissolves completely in cold water.\nWhich of the statements are TRUE?",
+    "options": ["Statements 1 and 2 only", "Statements 2 and 3 only", "Statements 1 and 3 only", "All Statements 1, 2, and 3"],
+    "correctAnswer": 0,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "Diamond is extremely hard, transparent, and exhibits brilliant lustre, but it is completely insoluble in water."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Science",
+    "chapter": "Sorting Materials into Groups",
+    "question": "An experimenter tests four unknown liquids (P, Q, R, S) with water:\n- Liquid P forms two layers (floats on top).\n- Liquid Q mixes seamlessly with no boundary.\n- Liquid R forms two layers (settles at the bottom).\n- Liquid S dissolves completely.\nWhich pair represents IMMISCIBLE liquids with water?",
+    "options": ["P and Q", "Q and S", "P and R", "R and S"],
+    "correctAnswer": 2,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "Liquids P and R form separate layers (boundaries) with water, proving they are immiscible."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Science",
+    "chapter": "Sorting Materials into Groups",
+    "question": "Why is pure air considered transparent while dense fog is considered translucent?",
+    "options": [
+      "Air contains solid iron particles while fog is pure gas",
+      "Air allows light to travel straight through without scattering, while water droplets in fog scatter light partially",
+      "Air is heavier than fog",
+      "Fog is completely opaque like a brick wall"
+    ],
+    "correctAnswer": 1,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "Suspended microscopic water droplets in fog scatter light in all directions, making visibility hazy and translucent."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Science",
+    "chapter": "Separation of Substances",
+    "question": "Which method is commonly used to separate stones and husk from pulses and wheat grains before cooking?",
+    "options": ["Handpicking", "Evaporation", "Filtration", "Condensation"],
+    "correctAnswer": 0,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "Handpicking is used when impurities differ in color, shape, or size and are present in small quantities."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Science",
+    "chapter": "Separation of Substances",
+    "question": "The process of separating grain seeds from their dried stalks by beating is known as:",
+    "options": ["Winnowing", "Threshing", "Sieving", "Decantation"],
+    "correctAnswer": 1,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "Threshing involves beating stalks against a hard surface or using machines to free the edible grains."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Science",
+    "chapter": "Separation of Substances",
+    "question": "Which method utilizes wind or blowing air to separate heavier grain seeds from lighter husk particles?",
+    "options": ["Sedimentation", "Winnowing", "Filtration", "Churning"],
+    "correctAnswer": 1,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "In winnowing, wind blows away the lighter husk while heavier grains fall vertically downwards."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Science",
+    "chapter": "Separation of Substances",
+    "question": "What is the process of converting liquid water into its vapour state called?",
+    "options": ["Condensation", "Evaporation", "Decantation", "Sedimentation"],
+    "correctAnswer": 1,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "Evaporation is the continuous conversion of a liquid into vapour at any temperature below its boiling point."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Science",
+    "chapter": "Separation of Substances",
+    "question": "The process of converting water vapour back into liquid water upon cooling is called:",
+    "options": ["Evaporation", "Condensation", "Threshing", "Sieving"],
+    "correctAnswer": 1,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "Condensation is the phase change where hot water vapour touches a cold surface and turns back into liquid droplets."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Science",
+    "chapter": "Separation of Substances",
+    "question": "When heavier solid particles in a mixture settle down at the bottom of water, the process is called:",
+    "options": ["Decantation", "Sedimentation", "Filtration", "Winnowing"],
+    "correctAnswer": 1,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "Sedimentation is the settling down of heavier insoluble solid particles at the bottom of a liquid."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Science",
+    "chapter": "Separation of Substances",
+    "question": "Pouring out the top clear water without disturbing the sediment at the bottom is known as:",
+    "options": ["Threshing", "Decantation", "Sieving", "Evaporation"],
+    "correctAnswer": 1,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "Decantation is the careful pouring off of the upper clear liquid layer after sedimentation has occurred."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Science",
+    "chapter": "Separation of Substances",
+    "question": "Which method is best suited to separate tea leaves from brewed tea?",
+    "options": ["Threshing", "Filtration using a strainer", "Winnowing", "Handpicking"],
+    "correctAnswer": 1,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "Filtration using a wire mesh strainer traps the solid insoluble tea leaves while letting the liquid tea flow through."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Science",
+    "chapter": "Separation of Substances",
+    "question": "Which separation technique is used at construction sites to separate pebbles and stones from fine sand?",
+    "options": ["Evaporation", "Sieving", "Condensation", "Threshing"],
+    "correctAnswer": 1,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "A large tilted sieve allows fine sand particles to pass through while blocking bigger pebbles and stones."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Science",
+    "chapter": "Separation of Substances",
+    "question": "Common salt is commercially obtained from sea water primarily through the process of:",
+    "options": ["Filtration", "Sedimentation", "Evaporation under sunlight", "Threshing"],
+    "correctAnswer": 2,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "Sea water trapped in shallow lagoons evaporates under the sun's heat, leaving behind solid raw salt crystals."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Science",
+    "chapter": "Separation of Substances",
+    "question": "A solution in which no more solute can be dissolved at a given temperature is called a:",
+    "options": ["Dilute solution", "Unsaturated solution", "Saturated solution", "Suspension"],
+    "correctAnswer": 2,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "A saturated solution has reached its maximum capacity to hold dissolved solute at that specific temperature."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Science",
+    "chapter": "Separation of Substances",
+    "question": "Butter is separated from milk or curd by which mechanical process?",
+    "options": ["Winnowing", "Churning", "Sieving", "Threshing"],
+    "correctAnswer": 1,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "Churning curd/cream aggregates the lighter fat globules into butter, separating it from the watery buttermilk."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Science",
+    "chapter": "Separation of Substances",
+    "question": "Why is sieving of wheat flour with a fine mesh NOT recommended by nutritionists before making rotis?",
+    "options": ["It adds too much moisture", "It removes the coarse wheat bran rich in essential dietary fibre", "It turns flour into poison", "It increases baking time"],
+    "correctAnswer": 1,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "Sieving removes wheat bran (choker), which contains the highest concentration of dietary roughage and micronutrients."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Science",
+    "chapter": "Separation of Substances",
+    "question": "How can you dissolve more salt in a water solution that has already become saturated at room temperature?",
+    "options": ["By cooling it in a refrigerator", "By heating the solution", "By shaking it without temperature change", "By adding more solid salt crystals"],
+    "correctAnswer": 1,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "Heating increases the kinetic energy of water molecules, expanding the solvent gaps and increasing salt solubility."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Science",
+    "chapter": "Separation of Substances",
+    "question": "Which of the following mixtures can be effectively separated using a filter paper in a laboratory funnel?",
+    "options": ["Salt dissolved in water", "Sugar dissolved in milk", "Chalk powder suspended in water", "Alcohol mixed with water"],
+    "correctAnswer": 2,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "Chalk particles are insoluble and larger than the pores of filter paper, so they stay behind as residue while clear water filters out."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Science",
+    "chapter": "Separation of Substances",
+    "question": "A mixture contains iron filings and sand. What is the fastest and cleanest method to separate them?",
+    "options": ["Winnowing", "Magnetic separation using a magnet", "Handpicking", "Sedimentation in water"],
+    "correctAnswer": 1,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "Iron is a magnetic material; running a magnet through the mixture attracts all iron filings, leaving sand behind."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Science",
+    "chapter": "Separation of Substances",
+    "question": "When muddy water is filtered through a filter paper cone, what are the clean water and mud on the paper called?",
+    "options": ["Filtrate and Residue respectively", "Residue and Filtrate respectively", "Solute and Solvent respectively", "Sediment and Decant respectively"],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "The clear liquid that passes through is the 'Filtrate', while the trapped solid on the filter paper is the 'Residue'."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Science",
+    "chapter": "Separation of Substances",
+    "question": "To recover BOTH salt and water from a salt-water solution, which combination of processes must be used?",
+    "options": ["Sieving followed by Threshing", "Evaporation followed by Condensation (Distillation)", "Handpicking followed by Decantation", "Winnowing followed by Sedimentation"],
+    "correctAnswer": 1,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "Evaporation turns water to steam leaving salt behind, and cooling the steam through condensation collects pure liquid water!"
+  },
+  {
+    "classLevel": 6,
+    "subject": "Science",
+    "chapter": "Separation of Substances",
+    "question": "Why can winnowing NOT be used to separate a mixture of wheat grains and small stone pebbles?",
+    "options": ["Both wheat grains and stones are too heavy to be blown away by wind", "Stones are soluble in wind", "Wheat grains are lighter than air", "Both wheat and stones will turn into gas"],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "Winnowing requires a significant difference in weight between light husk and heavy grain; wheat and pebbles are both dense."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Science",
+    "chapter": "Separation of Substances",
+    "question": "A mixture of oil and water is allowed to stand in a separating funnel. Which layer drains out first?",
+    "options": ["Oil layer from the top", "Water layer from the bottom", "Both drain simultaneously as milk", "Neither can drain"],
+    "correctAnswer": 1,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "Water is denser than oil and settles at the bottom, so opening the bottom stopcock releases pure water first."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Science",
+    "chapter": "Separation of Substances",
+    "question": "Why does a piece of alum (phitkari) help in purifying turbid muddy river water quickly?",
+    "options": ["It kills all aquatic plants", "It coagulates fine suspended clay particles, making them heavier so they settle fast (loading)", "It converts mud into gas", "It turns water into ice"],
+    "correctAnswer": 1,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "Alum causes 'loading', binding microscopic suspended mud particles into heavier clumps that settle rapidly."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Science",
+    "chapter": "Separation of Substances",
+    "question": "If you stir 10 spoons of sugar in a cup of iced cold water versus a cup of hot tea, in which cup will sugar dissolve faster and more?",
+    "options": ["Iced cold water", "Hot tea", "Equal in both", "Sugar will not dissolve in hot tea"],
+    "correctAnswer": 1,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "Higher temperatures increase the rate of dissolution as well as the maximum solubility limit of sugar in water."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Science",
+    "chapter": "Separation of Substances",
+    "question": "Which of the following methods is based on difference in particle SIZES of mixture components?",
+    "options": ["Sieving", "Magnetic separation", "Evaporation", "Winnowing"],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "Sieving separates particles because smaller particles pass through sieve apertures while larger ones are retained."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Science",
+    "chapter": "Separation of Substances",
+    "question": "What happens when a warm kettle filled with boiling water has a metal plate holding ice cubes placed directly above its spout?",
+    "options": ["The plate catches fire", "Water vapour condenses on the cold bottom of the plate and drips as liquid droplets", "The plate dissolves", "The ice turns into steam directly"],
+    "correctAnswer": 1,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "Hot steam loses heat upon contacting the ice-chilled plate, condensing instantly back into pure liquid water droplets."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Science",
+    "chapter": "Separation of Substances",
+    "question": "Which of the following statements about solubility is TRUE?",
+    "options": ["Water dissolves equal amounts of different soluble substances at the same temperature", "Water dissolves different amounts of different soluble substances at the same temperature", "Solubility of solids always decreases on heating", "Gases never dissolve in water"],
+    "correctAnswer": 1,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "At 25°C, 100 mL of water can dissolve much more sugar (~200g) than salt (~36g), proving solubility is substance-specific."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Science",
+    "chapter": "Separation of Substances",
+    "question": "A farmer wants to separate dried coriander seeds from tiny gravel stones of the exact same size. Which method should he use?",
+    "options": ["Sieving with coarse mesh", "Winnowing (since coriander is lightweight while gravel is heavy)", "Evaporation", "Threshing"],
+    "correctAnswer": 1,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "Since particle sizes are identical, sieving fails. But because coriander seeds are lightweight and gravel is heavy, wind easily separates them."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Science",
+    "chapter": "Separation of Substances",
+    "question": "What is the primary difference between filtration and decantation?",
+    "options": ["Decantation removes 100% fine particles, filtration cannot", "Filtration uses a porous filter medium to catch even fine suspended particles that decantation cannot separate", "Decantation requires boiling", "Filtration only works on gases"],
+    "correctAnswer": 1,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "Decantation leaves fine suspended particles in the liquid, whereas filter paper pores trap even microscopic solid residues."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Science",
+    "chapter": "Separation of Substances",
+    "question": "In which of the following scenarios is handpicking NOT practical?",
+    "options": ["Separating green chillies from a bowl of poha", "Separating black stones from 1 kg of rice", "Separating sand grains from 100 kg of wheat flour", "Picking rotten apples from a basket"],
+    "correctAnswer": 2,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "Handpicking fails when particle sizes are tiny, colors blend, or the quantity of mixture is massive."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Science",
+    "chapter": "Separation of Substances",
+    "question": "Read the following statements:\nAssertion (A): A mixture of sand and salt can be separated using water, filtration, and evaporation in sequential order.\nReason (R): Salt dissolves in water while sand remains insoluble, allowing filtration of sand followed by evaporation of water.\nChoose the correct option:",
+    "options": [
+      "Both (A) and (R) are true, and (R) is the correct explanation of (A).",
+      "Both (A) and (R) are true, but (R) is NOT the correct explanation of (A).",
+      "(A) is true, but (R) is false.",
+      "(A) is false, but (R) is true."
+    ],
+    "correctAnswer": 0,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "Water dissolves only salt. Filtering yields sand on paper and saltwater filtrate; evaporating the filtrate recovers pure dry salt!"
+  },
+  {
+    "classLevel": 6,
+    "subject": "Science",
+    "chapter": "Separation of Substances",
+    "question": "Spot the IMPOSTER in the following list of separation processes that rely on heating or cooling:\nGroup: [Evaporation, Condensation, Distillation, Handpicking]",
+    "options": ["Evaporation", "Condensation", "Distillation", "Handpicking"],
+    "correctAnswer": 3,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "Handpicking is a manual physical sorting technique that does not involve thermal phase changes like evaporation/condensation."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Science",
+    "chapter": "Separation of Substances",
+    "question": "A saturated solution of sugar was prepared at 60°C. When this hot solution was allowed to cool down undisturbed to 20°C, what was observed?",
+    "options": [
+      "The solution became completely transparent and boiling",
+      "Solid sugar crystals precipitated and settled at the bottom",
+      "The volume of liquid doubled",
+      "The sugar turned into gas"
+    ],
+    "correctAnswer": 1,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "Water holds less dissolved solute at lower temperatures, so excess sugar recrystallizes and precipitates upon cooling."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Science",
+    "chapter": "Separation of Substances",
+    "question": "A beaker contains a complex mixture of sand, salt, and iron pins in water. What is the correct sequence of steps to separate each component individually?",
+    "options": [
+      "Evaporation → Filtration → Magnetic separation",
+      "Magnetic separation (pins) → Filtration (sand) → Evaporation (salt)",
+      "Sieving → Winnowing → Condensation",
+      "Handpicking → Decantation → Threshing"
+    ],
+    "correctAnswer": 1,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "First, pull out iron pins with a magnet. Next, filter the mixture to catch insoluble sand. Finally, evaporate water to obtain salt!"
+  },
+  {
+    "classLevel": 6,
+    "subject": "Science",
+    "chapter": "Separation of Substances",
+    "question": "Read the following statements:\nAssertion (A): Swirling a piece of alum in turbid pond water makes it clear in a few minutes.\nReason (R): Alum dissolves and makes the fine clay particles heavier, causing them to settle rapidly by sedimentation.\nChoose the correct option:",
+    "options": [
+      "Both (A) and (R) are true, and (R) is the correct explanation of (A).",
+      "Both (A) and (R) are true, but (R) is NOT the correct explanation of (A).",
+      "(A) is true, but (R) is false.",
+      "(A) is false, but (R) is true."
+    ],
+    "correctAnswer": 0,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "This process is known as 'loading'. Alum ions neutralize electrostatic charges on colloidal clay, enabling them to coagulate and sink."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Science",
+    "chapter": "Separation of Substances",
+    "question": "Why does condensation appear on the outer surface of a glass containing ice-cold water on a humid summer day?",
+    "options": [
+      "Water seeps through the glass pores",
+      "Water vapour present in surrounding air cools down on touching the cold glass wall and condenses into droplets",
+      "The glass melts from inside",
+      "Hydrogen and oxygen react on the glass surface"
+    ],
+    "correctAnswer": 1,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "Atmospheric moisture comes into contact with the cold surface below its dew point, undergoing condensation to form droplets."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Science",
+    "chapter": "Separation of Substances",
+    "question": "A student added 50 g of salt to 100 mL of water and stirred. 14 g of salt remained settled at the bottom. What can you conclude about the solubility limit of salt in 100 mL water at that temperature?",
+    "options": [
+      "Solubility is 50 g per 100 mL",
+      "Solubility is 36 g per 100 mL",
+      "Solubility is 14 g per 100 mL",
+      "Solubility is 64 g per 100 mL"
+    ],
+    "correctAnswer": 1,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "Total added (50g) minus undissolved residue (14g) = 36g dissolved. Thus, the saturation solubility limit is exactly 36g/100mL."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Science",
+    "chapter": "Separation of Substances",
+    "question": "Which of the following mixtures CANNOT be separated using decantation after sedimentation?",
+    "options": [
+      "Sand and water",
+      "Oil and water",
+      "Sugar completely dissolved in water",
+      "Soil and water"
+    ],
+    "correctAnswer": 2,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "Sugar dissolves completely to form a true homogenous solution; it never sediments at the bottom, so decantation is useless."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Science",
+    "chapter": "Separation of Substances",
+    "question": "How is paneer (cottage cheese) separated from liquid whey during preparation at home?",
+    "options": [
+      "By adding lemon juice to boiling milk to curdle it, followed by filtration through a clean muslin cloth",
+      "By winnowing boiled milk",
+      "By magnetic separation",
+      "By evaporation until dry powder forms"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "Acid curdles milk proteins into solid clumps, which are then separated from liquid whey by filtration through fine muslin cloth."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Science",
+    "chapter": "Separation of Substances",
+    "question": "Read the following statements:\nStatement 1: Winnowing is effective only when there is wind or moving air.\nStatement 2: Threshing is used to separate seeds from their stalks.\nStatement 3: Salt can be separated from sea water by filtration using filter paper.\nWhich of the statements are TRUE?",
+    "options": ["Statements 1 and 2 only", "Statements 2 and 3 only", "Statements 1 and 3 only", "All Statements 1, 2, and 3"],
+    "correctAnswer": 0,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "Statement 3 is false because dissolved salt passes right through filter paper pores; it requires evaporation."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Science",
+    "chapter": "Separation of Substances",
+    "question": "A sample of sea water in a flask was heated. The steam was directed through a glass tube chilled with running cold water into a receiver beaker. What will be collected in the receiver beaker?",
+    "options": ["Concentrated brine solution", "Pure distilled liquid water with zero salt", "Solid dry salt cakes", "Liquid chlorine"],
+    "correctAnswer": 1,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "This apparatus performs distillation: water evaporates and condenses as 100% pure distilled water in the receiver."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Science",
+    "chapter": "Separation of Substances",
+    "question": "Why is sieving unsuitable for separating a mixture of chalk powder and wheat flour?",
+    "options": [
+      "Both chalk powder and wheat flour have nearly identical fine particle sizes and both pass through the sieve",
+      "Chalk is magnetic",
+      "Flour dissolves in the sieve",
+      "Chalk evaporates immediately"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "Sieving requires distinct particle size differences; chalk powder and wheat flour are both powdery and pass through together."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Science",
+    "chapter": "Getting to Know Plants",
+    "question": "Plants with green, tender, and soft stems of short height are called:",
+    "options": ["Herbs", "Shrubs", "Trees", "Climbers"],
+    "correctAnswer": 0,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "Herbs are small plants with soft, green, non-woody stems, such as tomato, mint, and coriander."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Science",
+    "chapter": "Getting to Know Plants",
+    "question": "Medium-sized plants with hard woody stems branching out close to the base of the ground are classified as:",
+    "options": ["Trees", "Shrubs", "Creepers", "Herbs"],
+    "correctAnswer": 1,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "Shrubs (like rose, lemon, and hibiscus) have hard woody stems branching near the base without a distinct single trunk."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Science",
+    "chapter": "Getting to Know Plants",
+    "question": "Plants with weak stems that cannot stand upright and spread across the ground are called:",
+    "options": ["Creepers", "Climbers", "Trees", "Shrubs"],
+    "correctAnswer": 0,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "Creepers (like watermelon and pumpkin) have weak flexible stems that trail along the ground."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Science",
+    "chapter": "Getting to Know Plants",
+    "question": "Plants with weak stems that take the support of neighbouring structures to climb upwards are called:",
+    "options": ["Creepers", "Climbers", "Herbs", "Shrubs"],
+    "correctAnswer": 1,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "Climbers (like money plant and grapevine) use tendrils or twining stems to climb on supports."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Science",
+    "chapter": "Getting to Know Plants",
+    "question": "The broad green flat part of a leaf is called the:",
+    "options": ["Petiole", "Lamina (leaf blade)", "Midrib", "Vein"],
+    "correctAnswer": 1,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "The expanded green flat surface of the leaf where photosynthesis occurs is called the lamina."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Science",
+    "chapter": "Getting to Know Plants",
+    "question": "The stalk by which a leaf is attached to the stem is known as the:",
+    "options": ["Petiole", "Lamina", "Root hair", "Sepal"],
+    "correctAnswer": 0,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "The petiole is the cylindrical stalk connecting the leaf blade (lamina) to the node on the stem."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Science",
+    "chapter": "Getting to Know Plants",
+    "question": "The process by which leaves release excess water in the form of vapour into the air is called:",
+    "options": ["Photosynthesis", "Transpiration", "Respiration", "Germination"],
+    "correctAnswer": 1,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "Transpiration is the loss of water vapour through microscopic stomata on the leaf surface."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Science",
+    "chapter": "Getting to Know Plants",
+    "question": "Leaves prepare food for the plant through which biological process?",
+    "options": ["Transpiration", "Photosynthesis", "Translocation", "Absorption"],
+    "correctAnswer": 1,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "In photosynthesis, leaves synthesize glucose using sunlight, chlorophyll, carbon dioxide, and water."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Science",
+    "chapter": "Getting to Know Plants",
+    "question": "Which of the following is the main prominent vein running down the centre of a leaf?",
+    "options": ["Lateral vein", "Midrib", "Petiole", "Stipule"],
+    "correctAnswer": 1,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "The thick central structural vein dividing the leaf lamina into two halves is called the midrib."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Science",
+    "chapter": "Getting to Know Plants",
+    "question": "Which part of the flower consists of the colorful, fragrant parts that attract pollinating insects?",
+    "options": ["Sepals", "Petals", "Pistil", "Roots"],
+    "correctAnswer": 1,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "Petals are brightly colored and scented to attract bees, butterflies, and other pollinators."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Science",
+    "chapter": "Getting to Know Plants",
+    "question": "The outermost green leaf-like protective whorl of a flower bud is called:",
+    "options": ["Petals", "Sepals", "Stamen", "Ovary"],
+    "correctAnswer": 1,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "Sepals enclose and protect the delicate inner floral organs during the bud stage."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Science",
+    "chapter": "Getting to Know Plants",
+    "question": "Which of the following is the innermost female reproductive part of a flower?",
+    "options": ["Stamen", "Pistil (Carpel)", "Sepal", "Petal"],
+    "correctAnswer": 1,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "The pistil is the central female organ of a flower, consisting of stigma, style, and ovary."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Science",
+    "chapter": "Getting to Know Plants",
+    "question": "What type of venation is seen when veins form a net-like design on both sides of the midrib?",
+    "options": ["Parallel venation", "Reticulate venation", "Concentric venation", "Radial venation"],
+    "correctAnswer": 1,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "Reticulate venation features an interconnected mesh of veins, typical of dicot leaves like peepal, mango, and mustard."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Science",
+    "chapter": "Getting to Know Plants",
+    "question": "What type of venation is found in the leaves of grass, wheat, and maize?",
+    "options": ["Reticulate venation", "Parallel venation", "Spiral venation", "Ring venation"],
+    "correctAnswer": 1,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "In monocots like grass and maize, the veins run straight and parallel to each other from base to tip."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Science",
+    "chapter": "Getting to Know Plants",
+    "question": "Plants with RETICULATE venation in their leaves generally possess which type of root system?",
+    "options": ["Fibrous roots", "Taproot system", "Aerial roots", "No roots"],
+    "correctAnswer": 1,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "There is a direct correlation: Reticulate leaf venation corresponds to a Taproot system (e.g., mustard, gram, carrot)."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Science",
+    "chapter": "Getting to Know Plants",
+    "question": "Plants with PARALLEL venation in their leaves generally possess which type of root system?",
+    "options": ["Taproot system", "Fibrous root system", "Single deep root", "Tuberous taproot"],
+    "correctAnswer": 1,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "Parallel leaf venation corresponds to a cluster of similar-sized Fibrous roots (e.g., grass, wheat, rice)."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Science",
+    "chapter": "Getting to Know Plants",
+    "question": "What are the two main parts that make up a male reproductive organ (Stamen) of a flower?",
+    "options": ["Stigma and Style", "Anther and Filament", "Ovary and Ovule", "Sepal and Petal"],
+    "correctAnswer": 1,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "A stamen consists of a slender stalk called the 'filament' and a pollen-producing head called the 'anther'."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Science",
+    "chapter": "Getting to Know Plants",
+    "question": "What are the three components of the female reproductive organ (Pistil) from top to bottom?",
+    "options": ["Anther → Filament → Stamen", "Stigma → Style → Ovary", "Sepal → Petal → Ovule", "Root → Stem → Leaf"],
+    "correctAnswer": 1,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "The pistil comprises the receptive 'stigma' at the top, the long 'style' tube in the middle, and the swollen 'ovary' at the base."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Science",
+    "chapter": "Getting to Know Plants",
+    "question": "When a swollen flower ovary is carefully sliced open, what tiny bead-like structures are found inside?",
+    "options": ["Pollen grains", "Ovules", "Stomata", "Chloroplasts"],
+    "correctAnswer": 1,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "Ovules are tiny bead-like structures inside the ovary that develop into seeds after fertilization."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Science",
+    "chapter": "Getting to Know Plants",
+    "question": "What primary function does the stem perform in a plant?",
+    "options": ["Only anchors the plant in soil", "Acts as a two-way street conducting water/minerals upwards and food downwards", "Absorbs sunlight directly from soil", "Produces pollen grains"],
+    "correctAnswer": 1,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "The stem has narrow conduction tubes (xylem & phloem) that transport water upwards to leaves and prepared food throughout the plant."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Science",
+    "chapter": "Getting to Know Plants",
+    "question": "To demonstrate that leaves produce starch during photosynthesis, why is the leaf first boiled in alcohol?",
+    "options": ["To make it sweet", "To remove the green pigment (chlorophyll) so the iodine color change is clearly visible", "To dissolve the leaf veins", "To kill insect pests"],
+    "correctAnswer": 1,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "Boiling in spirit/alcohol bleaches out green chlorophyll, allowing the blue-black iodine color change to be seen distinctly."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Science",
+    "chapter": "Getting to Know Plants",
+    "question": "If you enclose a leafy branch of a potted plant in a transparent polythene bag and place it in the sun, droplets appear inside. This proves:",
+    "options": ["Photosynthesis produces water", "Leaves lose water vapour through transpiration", "The stem is leaking sap", "Polythene makes water"],
+    "correctAnswer": 1,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "Water transpired by stomata gets trapped inside the impermeable polythene bag and condenses into visible droplets."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Science",
+    "chapter": "Getting to Know Plants",
+    "question": "A plant stem kept in water coloured with red ink turns red in its veins and leaves after a few hours. This confirms:",
+    "options": ["Leaves produce red dye", "Water moves upwards through tubes inside the stem", "Stems absorb soil particles", "Ink causes transpiration"],
+    "correctAnswer": 1,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "The red ink travels with water up through the stem's conduction tubes into the leaf veins, proving upward transport."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Science",
+    "chapter": "Getting to Know Plants",
+    "question": "Which of the following is an example of a Taproot system with reticulate venation?",
+    "options": ["Mustard and Pea plants", "Wheat and Paddy", "Maize and Grass", "Barley and Bamboo"],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "Mustard and pea are dicots with a primary main taproot and net-like reticulate leaf venation."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Science",
+    "chapter": "Getting to Know Plants",
+    "question": "Roots perform two crucial functions for the plant. What are they?",
+    "options": ["Produce flowers and conduct photosynthesis", "Anchor the plant firmly in the soil and absorb water/minerals", "Release oxygen and attract pollinators", "Store carbon dioxide from air"],
+    "correctAnswer": 1,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "Roots anchor the plant securely against wind and draw water and dissolved minerals from the soil."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Science",
+    "chapter": "Getting to Know Plants",
+    "question": "Which of the following pairs of edible plant parts are modified ROOTS that store food?",
+    "options": ["Potato and Ginger", "Carrot and Radish", "Onion and Garlic", "Tomato and Brinjal"],
+    "correctAnswer": 1,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "Carrot, radish, beet, and turnip are swollen taproots that store food underground (potato & ginger are modified stems!)."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Science",
+    "chapter": "Getting to Know Plants",
+    "question": "Why do some flowers have dull, small petals without scent or nectar (like grass flowers)?",
+    "options": ["They are diseased", "They are pollinated by wind, so they do not need to attract insects", "They do not have reproductive organs", "They only open at midnight"],
+    "correctAnswer": 1,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "Wind-pollinated flowers rely on air currents rather than insects, so colorful petals and sweet nectar are unnecessary."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Science",
+    "chapter": "Getting to Know Plants",
+    "question": "What does a mature fertilized ovary of a flower eventually develop into?",
+    "options": ["A new leaf", "A Fruit", "A Root hair", "A Petiole"],
+    "correctAnswer": 1,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "Following fertilization, the ovary wall swells and ripens into a fruit, while the ovules inside turn into seeds."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Science",
+    "chapter": "Getting to Know Plants",
+    "question": "Read the following statements:\nAssertion (A): We can identify the type of root system of a plant without pulling it out of the soil.\nReason (R): Plants with reticulate leaf venation have taproots, while those with parallel venation have fibrous roots.\nChoose the correct option:",
+    "options": [
+      "Both (A) and (R) are true, and (R) is the correct explanation of (A).",
+      "Both (A) and (R) are true, but (R) is NOT the correct explanation of (A).",
+      "(A) is true, but (R) is false.",
+      "(A) is false, but (R) is true."
+    ],
+    "correctAnswer": 0,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "Leaf venation correlates directly with root morphology in angiosperms (monocots vs dicots), enabling non-destructive identification!"
+  },
+  {
+    "classLevel": 6,
+    "subject": "Science",
+    "chapter": "Getting to Know Plants",
+    "question": "Spot the IMPOSTER in the following group of plant structures based on reproductive function:\nGroup: [Anther, Filament, Ovary, Petiole]",
+    "options": ["Anther", "Filament", "Ovary", "Petiole"],
+    "correctAnswer": 3,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "Anther, filament, and ovary are floral reproductive organs, whereas the petiole is a vegetative leaf stalk."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Science",
+    "chapter": "Getting to Know Plants",
+    "question": "A potted green plant was kept in a dark room for 72 hours. When one of its leaves was tested with iodine solution, no blue-black color appeared. What does this experiment prove?",
+    "options": [
+      "The plant died instantly in the dark",
+      "Sunlight is essential for leaves to produce starch via photosynthesis",
+      "Iodine only works in sunlight",
+      "Leaves absorb starch from the room air"
+    ],
+    "correctAnswer": 1,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "Without sunlight, photosynthesis halts and stored starch is consumed, proving light is mandatory for starch synthesis."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Science",
+    "chapter": "Getting to Know Plants",
+    "question": "Two healthy potted plants (A and B) are set up:\n- Plant A has all its leaves intact and wrapped in polythene.\n- Plant B has all its leaves removed and wrapped in polythene.\nBoth are kept in the sun for 2 hours. What will be observed?",
+    "options": [
+      "Plentiful water droplets in Plant A's bag, negligible in Plant B's bag",
+      "Equal water droplets in both bags",
+      "Plentiful water droplets in Plant B's bag only",
+      "Both plants burst inside the bags"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "Transpiration occurs primarily through leaf stomata. Plant A transpires heavily while defoliated Plant B cannot."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Science",
+    "chapter": "Getting to Know Plants",
+    "question": "Read the following statements:\nAssertion (A): Potato is considered a modified stem and not a root.\nReason (R): Potato tubers possess nodes, internodes, and 'eyes' (buds) that produce leafy shoots.\nChoose the correct option:",
+    "options": [
+      "Both (A) and (R) are true, and (R) is the correct explanation of (A).",
+      "Both (A) and (R) are true, but (R) is NOT the correct explanation of (A).",
+      "(A) is true, but (R) is false.",
+      "(A) is false, but (R) is true."
+    ],
+    "correctAnswer": 0,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "Roots never possess nodes, internodes, or scale buds. The presence of 'eyes' proves that potato is a swollen underground stem."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Science",
+    "chapter": "Getting to Know Plants",
+    "question": "A student finds an unknown weed with long slender ribbon-like leaves having parallel veins. Which of the following predictions about this plant is guaranteed to be correct?",
+    "options": [
+      "It has a thick central taproot going deep into soil",
+      "It has a fibrous root system and is a monocot",
+      "Its flowers always have 5 colorful sepals",
+      "It cannot perform photosynthesis"
+    ],
+    "correctAnswer": 1,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "Parallel leaf venation is a hallmark of monocotyledonous plants, which strictly develop fibrous root systems."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Science",
+    "chapter": "Getting to Know Plants",
+    "question": "Consider a flower specimen with 5 petals, 5 stamens, and 1 central pistil:\nIf all 5 stamens are carefully excised (removed) before pollen matures, which of the following is still possible for this flower?",
+    "options": [
+      "It can produce pollen grains on its own",
+      "It can receive pollen from another flower on its stigma and develop fruit/seeds",
+      "It will wither in 10 seconds",
+      "Its ovary will turn into a leaf"
+    ],
+    "correctAnswer": 1,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "Since the female pistil (stigma, style, ovary) is intact, cross-pollination by insects from another flower can fertilize its ovules."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Science",
+    "chapter": "Getting to Know Plants",
+    "question": "Read the following statements:\nStatement 1: Stomata on leaf surfaces regulate both gas exchange and transpiration.\nStatement 2: Roots absorb water from soil through root hairs by osmosis.\nStatement 3: Transpiration creates a suction pull that lifts water to tall tree tops.\nWhich statements are TRUE?",
+    "options": ["Statements 1 and 2 only", "Statements 2 and 3 only", "Statements 1 and 3 only", "All Statements 1, 2, and 3"],
+    "correctAnswer": 3,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "All three statements accurately describe the integrated physiological transport and transpiration mechanisms in plants."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Science",
+    "chapter": "Getting to Know Plants",
+    "question": "Why are leaves called the 'food factories' or 'kitchens' of the plant rather than the roots or flowers?",
+    "options": [
+      "Leaves contain chlorophyll and capture light energy to synthesize glucose from CO2 and water",
+      "Leaves absorb solid food directly from rainwater",
+      "Leaves store maximum cooking oil",
+      "Roots cannot touch water"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "Chlorophyll in leaf chloroplasts traps photon energy for photosynthesis, making the leaf the primary site of organic food production."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Science",
+    "chapter": "Getting to Know Plants",
+    "question": "A botanical garden displays four plant specimens:\nPlant P: Money plant climbing a moss stick.\nPlant Q: Pumpkin spreading wide on the ground.\nPlant R: Rose bush with hard woody branches near the soil.\nPlant S: Neem tree with a thick tall brown trunk.\nWhich pair correctly classifies P and Q?",
+    "options": [
+      "P is a Shrub; Q is a Tree",
+      "P is a Climber; Q is a Creeper",
+      "P is a Herb; Q is a Climber",
+      "P is a Creeper; Q is a Shrub"
+    ],
+    "correctAnswer": 1,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "Money plant takes support to climb up (Climber), while pumpkin spreads along the ground due to heavy fruit and weak stem (Creeper)."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Science",
+    "chapter": "Getting to Know Plants",
+    "question": "When an iodine test is conducted on a green variegated leaf (like Croton or Coleus) exposed to sunlight, only the green patches turn blue-black, while the white/yellow patches turn brown. What does this confirm?",
+    "options": [
+      "Only yellow areas produce starch",
+      "Chlorophyll is strictly necessary for photosynthesis and starch production",
+      "White patches absorb more carbon dioxide",
+      "Iodine bleaches green color"
+    ],
+    "correctAnswer": 1,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "Non-green patches lack chlorophyll and cannot perform photosynthesis, proving chlorophyll is indispensable for starch synthesis."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Science",
+    "chapter": "Getting to Know Plants",
+    "question": "Why do desert plants like Cactus (Opuntia) have green fleshy stems and leaves reduced to sharp spines?",
+    "options": [
+      "To produce sweet fruits faster",
+      "Spines minimize water loss via transpiration, while the green fleshy stem performs photosynthesis and stores water",
+      "To absorb sand grains for energy",
+      "To prevent birds from sitting on the plant"
+    ],
+    "correctAnswer": 1,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "Leaf spines prevent water loss in arid climates, and the succulent green stem takes over the job of photosynthesis and water storage."
+  }
+]

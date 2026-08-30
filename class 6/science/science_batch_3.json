@@ -1,0 +1,1432 @@
+[
+  {
+    "classLevel": 6,
+    "subject": "Science",
+    "chapter": "Body Movements",
+    "question": "Which type of joint allows movement in all directions, such as where the shoulder meets the upper arm?",
+    "options": ["Hinge joint", "Ball and socket joint", "Pivotal joint", "Fixed joint"],
+    "correctAnswer": 1,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "A ball and socket joint features the rounded end of one bone fitting into the cavity of another, enabling 360-degree rotational movement."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Science",
+    "chapter": "Body Movements",
+    "question": "The joint connecting our neck to our head which allows us to bend forward, backward, and turn left or right is a:",
+    "options": ["Pivotal joint", "Hinge joint", "Fixed joint", "Gliding joint"],
+    "correctAnswer": 0,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "In a pivotal joint, a cylindrical bone rotates within a ring, allowing our neck to turn our head sideways and tilt up and down."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Science",
+    "chapter": "Body Movements",
+    "question": "Which type of joint is present in our elbows and knees that permits movement in only one plane (back and forth)?",
+    "options": ["Ball and socket joint", "Fixed joint", "Hinge joint", "Pivotal joint"],
+    "correctAnswer": 2,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "Like the hinge of a door, a hinge joint allows back-and-forth movement restricted to a single plane."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Science",
+    "chapter": "Body Movements",
+    "question": "The joints between the bones of our skull (cranium) that do not allow any movement at all are called:",
+    "options": ["Pivotal joints", "Fixed joints", "Ball and socket joints", "Hinge joints"],
+    "correctAnswer": 1,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "Fixed joints fuse bones tightly together without permitting movement, protecting delicate organs like the brain."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Science",
+    "chapter": "Body Movements",
+    "question": "The framework of bones that gives shape, support, and protection to our body is called the:",
+    "options": ["Muscular system", "Skeleton", "Nervous system", "Digestive system"],
+    "correctAnswer": 1,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "The human skeleton provides an internal structural framework, anchors muscles for locomotion, and guards vital organs."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Science",
+    "chapter": "Body Movements",
+    "question": "The chest bone (sternum) and 12 pairs of curved ribs join together to form the protective:",
+    "options": ["Backbone", "Rib cage", "Pelvic girdle", "Skull"],
+    "correctAnswer": 1,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "The rib cage encases and shields our heart and lungs from external shocks and mechanical injury."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Science",
+    "chapter": "Body Movements",
+    "question": "Our backbone (vertebral column) is made up of how many small individual ring-like bones called vertebrae?",
+    "options": ["12", "24", "33", "50"],
+    "correctAnswer": 2,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "The human backbone consists of 33 vertebrae stacked on top of one another, which allows our spine to bend and twist."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Science",
+    "chapter": "Body Movements",
+    "question": "Which soft, flexible skeletal structure is present in our earlobe and the tip of our nose?",
+    "options": ["Hard bone", "Cartilage", "Muscle tendon", "Ligament"],
+    "correctAnswer": 1,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "Cartilage is firmer than muscle but softer than bone, allowing flexible structural shape without brittleness."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Science",
+    "chapter": "Body Movements",
+    "question": "An earthworm moves forward across the ground by the rhythmic contraction and relaxation of its:",
+    "options": ["Legs and claws", "Body muscles and tiny bristles (setae)", "Wings", "Jointed outer shell"],
+    "correctAnswer": 1,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "Earthworms use circular and longitudinal muscles along with microscopic hair-like bristles (setae) to grip the soil and crawl."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Science",
+    "chapter": "Body Movements",
+    "question": "The rounded shell carried on the back of a snail is an example of an:",
+    "options": ["Endoskeleton made of bone", "Exoskeleton (outer shell) made of non-cellular material", "Internal cartilage", "Elastic tendon"],
+    "correctAnswer": 1,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "The snail's shell is an exoskeleton that protects its soft visceral body, though it does not contain bones or joints."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Science",
+    "chapter": "Body Movements",
+    "question": "How many pairs of jointed legs does a cockroach have to walk on surfaces?",
+    "options": ["Two pairs (4 legs)", "Three pairs (6 legs)", "Four pairs (8 legs)", "Five pairs (10 legs)"],
+    "correctAnswer": 1,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "Cockroaches possess three pairs of jointed thoracic legs that allow rapid crawling, along with two pairs of wings."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Science",
+    "chapter": "Body Movements",
+    "question": "The streamlined body shape of a fish is specifically designed to:",
+    "options": ["Make it look colorful", "Reduce water resistance and enable smooth swimming", "Store extra food", "Absorb sunlight"],
+    "correctAnswer": 1,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "A streamlined body (tapering at both ends like a boat) allows water to flow easily around the fish, minimizing drag."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Science",
+    "chapter": "Body Movements",
+    "question": "How do muscles work in pairs to move a bone at a joint?",
+    "options": ["Both muscles push the bone simultaneously", "Muscles can only pull; when one contracts, the other relaxes", "Muscles can only push and never contract", "One muscle turns into bone while moving"],
+    "correctAnswer": 1,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "Muscles can only contract (pull), not push. To bend and straighten an arm, biceps contract while triceps relax, and vice versa!"
+  },
+  {
+    "classLevel": 6,
+    "subject": "Science",
+    "chapter": "Body Movements",
+    "question": "Why are birds able to fly effortlessly in the air?",
+    "options": ["They have heavy solid bones", "Their bones are hollow and pneumatic (lightweight) and their breast muscles are strong", "They do not have a backbone", "Their feathers generate electricity"],
+    "correctAnswer": 1,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "Hollow air-filled bones reduce overall body mass, while enlarged pectoral breastbone muscles flap modified forelimb wings."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Science",
+    "chapter": "Body Movements",
+    "question": "How does a snake move forward across the ground despite having no legs?",
+    "options": ["It walks on its ribs", "It curves its long body into many loops that press against the ground to push it forward", "It rolls like a cylinder", "It jumps using tail muscles"],
+    "correctAnswer": 1,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "A snake forms wave-like side loops; each lateral loop pushes sideways against surface irregularities to drive the body forward fast."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Science",
+    "chapter": "Body Movements",
+    "question": "Which of the following bones encloses and protects the delicate spinal cord?",
+    "options": ["Rib cage", "Vertebral column (Backbone)", "Pelvic bone", "Collar bone"],
+    "correctAnswer": 1,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "The vertebral column forms a hollow protective neural canal running down the back through which the spinal cord passes."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Science",
+    "chapter": "Body Movements",
+    "question": "Why can we NOT bend our elbows backward beyond a straight line?",
+    "options": ["The muscle is too soft", "The hinge joint in the elbow permits movement in only one direction", "The elbow has a fixed joint", "The nerves block rotation"],
+    "correctAnswer": 1,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "The elbow is a hinge joint with a bony stop (olecranon process) that restricts rotation strictly to a single 180-degree plane."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Science",
+    "chapter": "Body Movements",
+    "question": "Which bone is the ONLY movable bone in the entire human skull?",
+    "options": ["Upper jaw bone (Maxilla)", "Lower jaw bone (Mandible)", "Forehead bone (Frontal)", "Nose bone (Nasal)"],
+    "correctAnswer": 1,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "The lower jaw (mandible) is hinged to the skull base, enabling us to chew food, talk, and open our mouth."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Science",
+    "chapter": "Body Movements",
+    "question": "The bones that enclose the portion of your body below the stomach and support sitting are the:",
+    "options": ["Shoulder bones", "Pelvic bones", "Rib bones", "Cranial bones"],
+    "correctAnswer": 1,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "The pelvic girdle (hip bones) encloses pelvic organs and provides a solid base that bears body weight when sitting."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Science",
+    "chapter": "Body Movements",
+    "question": "What is the muscular foot used for in a garden snail?",
+    "options": ["Tasting food", "Producing slimy mucus to crawl smoothly with wave-like contractions", "Breathing air", "Flying short distances"],
+    "correctAnswer": 1,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "The snail's thick muscular foot secretes a lubricating slime layer and produces undulating waves to glide over rough surfaces."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Science",
+    "chapter": "Body Movements",
+    "question": "How do the caudal (tail) and pectoral fins help a fish during underwater locomotion?",
+    "options": ["They produce oxygen bubbles", "Tail fin provides forward thrust and changes direction, while pectoral fins maintain balance", "They digest water weed", "They make the fish sink"],
+    "correctAnswer": 1,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "Side fins maintain hydrodynamic equilibrium, while side-to-side sweeping of the caudal tail fin propels the fish and steers direction."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Science",
+    "chapter": "Body Movements",
+    "question": "Which of the following parts of the human skeletal system contains cartilage rather than hard bone?",
+    "options": ["Femur (thigh bone)", "Upper part of the outer ear (pinna)", "Teeth", "Shin bone (tibia)"],
+    "correctAnswer": 1,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "The external ear pinna is composed of elastic cartilage that can be bent without fracturing."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Science",
+    "chapter": "Body Movements",
+    "question": "When you clench your fist and bend your arm at the elbow, a bulge appears on your upper arm. What is this bulge?",
+    "options": ["An enlarged bone", "Contracted bicep muscle that has become shorter, thicker, and harder", "Swollen blood vein", "Accumulated cartilage"],
+    "correctAnswer": 1,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "When the biceps muscle contracts to pull the forearm up, its muscle fibres shorten and swell into a firm, visible bulge."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Science",
+    "chapter": "Body Movements",
+    "question": "Why is an X-ray photograph useful when a doctor suspects a bone fracture?",
+    "options": ["It shows soft skin details", "X-rays pass through soft tissues but are stopped by dense bones, revealing exact fracture lines", "It measures body temperature", "It glues broken bones together"],
+    "correctAnswer": 1,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "High-density calcium in bones attenuates X-ray beams, producing high-contrast white silhouettes where cracks and breaks stand out."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Science",
+    "chapter": "Body Movements",
+    "question": "Which of the following animals has an outer skeleton (exoskeleton) made of distinct jointed plates?",
+    "options": ["Earthworm", "Cockroach", "Fish", "Snake"],
+    "correctAnswer": 1,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "Insects like cockroaches have a tough chitinous exoskeleton segmented into articulating plates for flexible movement."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Science",
+    "chapter": "Body Movements",
+    "question": "Why can an earthworm NOT crawl easily on a completely smooth, polished glass sheet?",
+    "options": ["Glass poisons the earthworm", "Its microscopic setae (bristles) cannot find grip or friction on the slick surface", "Earthworms only move in soil under rain", "Glass absorbs earthworm slime"],
+    "correctAnswer": 1,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "Earthworm locomotion requires tactile surface friction so its tiny setae can anchor segment by segment."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Science",
+    "chapter": "Body Movements",
+    "question": "What enables a bird's forelimbs to function as powerful flying wings?",
+    "options": ["Bones are replaced with rubber", "Bones of the forelimbs are modified as wings covered with aerodynamic flight feathers", "Wings have separate hearts", "Forelimbs are completely absent in birds"],
+    "correctAnswer": 1,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "Avian forelimbs are evolutionarily adapted into aerofoil wings supported by modified radius, ulna, and fused hand bones."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Science",
+    "chapter": "Body Movements",
+    "question": "Which of the following joints is found between our shoulder blade and the upper arm bone (humerus)?",
+    "options": ["Hinge joint", "Ball and socket joint", "Fixed joint", "Pivotal joint"],
+    "correctAnswer": 1,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "The head of the humerus fits inside the glenoid cavity of the scapula forming a ball and socket joint."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Science",
+    "chapter": "Body Movements",
+    "question": "Read the following statements:\nAssertion (A): We cannot rotate our elbow in all directions like our shoulder.\nReason (R): The elbow has a hinge joint that permits movement in only one plane, whereas the shoulder has a ball and socket joint.\nChoose the correct option:",
+    "options": [
+      "Both (A) and (R) are true, and (R) is the correct explanation of (A).",
+      "Both (A) and (R) are true, but (R) is NOT the correct explanation of (A).",
+      "(A) is true, but (R) is false.",
+      "(A) is false, but (R) is true."
+    ],
+    "correctAnswer": 0,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "Joint morphology dictates degree of freedom: hinge joints allow 1D movement, while ball and socket joints allow multi-axis rotation."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Science",
+    "chapter": "Body Movements",
+    "question": "Spot the IMPOSTER among the following animals based on whether they possess an ENDOSKELETON of bones:\nGroup: [Fish, Pigeon, Human, Earthworm]",
+    "options": ["Fish", "Pigeon", "Human", "Earthworm"],
+    "correctAnswer": 3,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "Fish, birds, and humans are vertebrates with internal bony skeletons. Earthworms are invertebrates with a hydrostatic, boneless body."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Science",
+    "chapter": "Body Movements",
+    "question": "Read the following statements:\nAssertion (A): When a muscle contracts, it pulls the bone, but it cannot push the bone back to its original position.\nReason (R): Muscles can only exert tension through contraction (shortening); extending a bone back requires an opposing antagonist muscle.\nChoose the correct option:",
+    "options": [
+      "Both (A) and (R) are true, and (R) is the correct explanation of (A).",
+      "Both (A) and (R) are true, but (R) is NOT the correct explanation of (A).",
+      "(A) is true, but (R) is false.",
+      "(A) is false, but (R) is true."
+    ],
+    "correctAnswer": 0,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "Muscles work in antagonistic pairs (like biceps and triceps) because muscle cells can actively generate force only in contraction."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Science",
+    "chapter": "Body Movements",
+    "question": "A student examines a model of the human skeleton. She counts the pairs of ribs:\n- 10 pairs are attached directly or indirectly to the sternum.\n- 2 pairs at the bottom are NOT attached to the front chest bone at all.\nWhat are these last 2 pairs called?",
+    "options": ["True ribs", "Floating ribs", "False cartilage", "Fixed vertebrae"],
+    "correctAnswer": 1,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "The 11th and 12th rib pairs are attached only to the thoracic spine at the back and remain free in front, termed 'floating ribs'."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Science",
+    "chapter": "Body Movements",
+    "question": "Consider the following table matching animals with their primary locomotory mechanism:\n1. Earthworm — Alternate contraction of circular and longitudinal muscles\n2. Snail — Muscular foot producing undulating waves\n3. Fish — Lateral side-to-side sweeping of body loops and fins\n4. Snake — Straight-line sliding without bending\nWhich match is INCORRECT (Imposter)?",
+    "options": ["Match 1", "Match 2", "Match 3", "Match 4"],
+    "correctAnswer": 3,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "Snakes do NOT slide in a straight line; they curve their bodies into side-to-side loops that push against ground irregularities."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Science",
+    "chapter": "Body Movements",
+    "question": "Why would the human body be unable to bend forward or twist if the backbone were made of a single continuous solid bone rod?",
+    "options": [
+      "Solid bone is too heavy to move",
+      "Flexibility requires multiple articulating vertebrae separated by cartilage discs that allow slight angular movement between each unit",
+      "Muscles cannot touch solid bones",
+      "Blood flow would completely stop"
+    ],
+    "correctAnswer": 1,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "The summation of small articular movements across 33 individual vertebrae gives the spine its bending and twisting range."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Science",
+    "chapter": "Body Movements",
+    "question": "Read the following statements:\nStatement 1: Cartilage is present in joint articulations to reduce bone-on-bone friction.\nStatement 2: The upper jaw is connected to the rest of the cranium by fixed joints.\nStatement 3: Cockroaches have three pairs of legs attached to the abdomen.\nWhich statements are TRUE?",
+    "options": ["Statements 1 and 2 only", "Statements 2 and 3 only", "Statements 1 and 3 only", "All Statements 1, 2, and 3"],
+    "correctAnswer": 0,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "Statement 3 is false because insect legs are attached to the THORAX (chest), not the abdomen."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Science",
+    "chapter": "Body Movements",
+    "question": "An athlete sprains an ankle during running. The doctor explains that a tough fibrous band connecting two bones together at the joint has been overstretched. What is this tissue?",
+    "options": ["Tendon (connects muscle to bone)", "Ligament (connects bone to bone)", "Cartilage", "Bone marrow"],
+    "correctAnswer": 1,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "Ligaments are tough elastic cords that connect bone to bone at synovial joints, stabilizing them against dislocation."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Science",
+    "chapter": "Body Movements",
+    "question": "Which of the following adaptations allows birds to walk upright on tree perches when they are not flying?",
+    "options": [
+      "Wings become legs on ground",
+      "Hindlimbs (legs) are modified for walking, perching, and grasping branches with clawed digits",
+      "They balance only on their tail feathers",
+      "They have suction pads on their chest"
+    ],
+    "correctAnswer": 1,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "Avian hindlimbs feature strong clawed toes and tendons designed for bipedal perching, wading, and hopping."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Science",
+    "chapter": "Body Movements",
+    "question": "What is the primary role of the slimy fluid (mucus) secreted by a crawling earthworm?",
+    "options": [
+      "It helps lubricate body movement through rough soil and moistens skin for cutaneous respiration",
+      "It dissolves solid stone rocks",
+      "It attracts predators",
+      "It glues the earthworm permanently to trees"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "Mucus reduces soil friction during peristaltic burrowing and keeps the cuticle moist for oxygen diffusion."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Science",
+    "chapter": "Body Movements",
+    "question": "Two students make statements about human joints:\nStudent A: 'The skull has only fixed joints and zero movement everywhere.'\nStudent B: 'The lower jaw forms a movable joint with the temporal bone of the skull.'\nWho is correct?",
+    "options": ["Only Student A is correct", "Only Student B is correct", "Both are partially correct, but Student B provides the accurate anatomical exception", "Both are completely incorrect"],
+    "correctAnswer": 2,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "While cranial sutures are fixed joints, the temporomandibular joint of the lower jaw is movable, making Student B's point accurate."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Science",
+    "chapter": "Body Movements",
+    "question": "How do the body curves of a swimming fish coordinate with its fins during rapid locomotion?",
+    "options": [
+      "Body and tail form curves on opposite sides alternately, pushing water backward and creating forward motion",
+      "Fish remains completely rigid like a stick and moves by mouth air jets",
+      "Fins spin like helicopter propellers",
+      "Fish sinks to bottom and walks on sand"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "Muscles flex the body into alternating S-curves; when the head curves right, the tail curves left, creating reactive forward thrust."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Science",
+    "chapter": "The Living Organisms — Characteristics and Habitats",
+    "question": "The natural surroundings or environment where a plant or animal lives and thrives is called its:",
+    "options": ["Habit", "Habitat", "Climate", "Ecosystem"],
+    "correctAnswer": 0,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "A habitat is the natural dwelling place of an organism that provides it with food, water, air, shelter, and breeding conditions."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Science",
+    "chapter": "The Living Organisms — Characteristics and Habitats",
+    "question": "Plants and animals that live on land are said to live in which type of habitat?",
+    "options": ["Aquatic habitat", "Terrestrial habitat", "Aerial habitat", "Marine habitat"],
+    "correctAnswer": 1,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "Land-based habitats like forests, grasslands, deserts, and mountains are called terrestrial habitats."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Science",
+    "chapter": "The Living Organisms — Characteristics and Habitats",
+    "question": "Habitats in water bodies like ponds, lakes, rivers, and oceans are known as:",
+    "options": ["Terrestrial habitats", "Aquatic habitats", "Subterranean habitats", "Desert habitats"],
+    "correctAnswer": 1,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "Aquatic habitats encompass freshwater bodies (rivers, lakes, ponds) and saltwater oceans."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Science",
+    "chapter": "The Living Organisms — Characteristics and Habitats",
+    "question": "The living components of a habitat (plants, animals, and microorganisms) are called:",
+    "options": ["Abiotic components", "Biotic components", "Inorganic factors", "Non-living components"],
+    "correctAnswer": 1,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "All living organisms inhabiting an environment are referred to as biotic components."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Science",
+    "chapter": "The Living Organisms — Characteristics and Habitats",
+    "question": "Non-living factors such as rocks, soil, air, water, sunlight, and temperature are called:",
+    "options": ["Biotic components", "Abiotic components", "Living factors", "Biological components"],
+    "correctAnswer": 1,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "Physical, non-living chemical and environmental factors in a habitat constitute abiotic components."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Science",
+    "chapter": "The Living Organisms — Characteristics and Habitats",
+    "question": "The presence of specific features or habits that enable a plant or animal to live in its surroundings is called:",
+    "options": ["Hibernation", "Adaptation", "Acclimatisation", "Mutation"],
+    "correctAnswer": 1,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "Adaptation is the evolutionary development of morphological and physiological traits that suit an organism to its habitat."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Science",
+    "chapter": "The Living Organisms — Characteristics and Habitats",
+    "question": "Which animal is popularly known as the 'Ship of the Desert' due to its remarkable adaptations?",
+    "options": ["Yak", "Camel", "Snow leopard", "Kangaroo"],
+    "correctAnswer": 1,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "Camels are adapted to desert conditions with wide padded feet, hump for fat storage, and long water retention capacity."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Science",
+    "chapter": "The Living Organisms — Characteristics and Habitats",
+    "question": "Which organ do fish use to absorb dissolved oxygen from water for respiration?",
+    "options": ["Lungs", "Gills", "Skin", "Fins"],
+    "correctAnswer": 1,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "Gills are specialized vascularised aquatic respiratory organs that extract dissolved oxygen from water."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Science",
+    "chapter": "The Living Organisms — Characteristics and Habitats",
+    "question": "The process of getting rid of waste products produced inside the body of living organisms is called:",
+    "options": ["Respiration", "Excretion", "Digestion", "Reproduction"],
+    "correctAnswer": 1,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "Excretion is the biological elimination of metabolic wastes like carbon dioxide, urine, and sweat from living bodies."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Science",
+    "chapter": "The Living Organisms — Characteristics and Habitats",
+    "question": "Changes in our surroundings that make us respond or react to them are known as:",
+    "options": ["Stimuli", "Adaptations", "Reflexes", "Excretions"],
+    "correctAnswer": 0,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "A stimulus (plural: stimuli) is an environmental cue (like a sudden bright light or hot touch) that triggers a response."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Science",
+    "chapter": "The Living Organisms — Characteristics and Habitats",
+    "question": "Which of the following plants closes its leaves when touched (showing response to stimuli)?",
+    "options": ["Rose", "Touch-me-not (Mimosa pudica)", "Neem", "Mango"],
+    "correctAnswer": 1,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "Mimosa pudica (Touch-me-not/Chhui-mui) rapidly folds its leaflets in response to mechanical touch stimuli."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Science",
+    "chapter": "The Living Organisms — Characteristics and Habitats",
+    "question": "Which of the following is a characteristic feature common to ALL living organisms?",
+    "options": ["Need for food, respiration, growth, and reproduction", "Ability to fly in the air", "Having green leaves", "Living only inside water"],
+    "correctAnswer": 0,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "All living things require nutrition, carry out cellular respiration, grow, respond to stimuli, excrete, and reproduce."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Science",
+    "chapter": "The Living Organisms — Characteristics and Habitats",
+    "question": "How are desert rats and snakes adapted to survive the scorching daytime heat without drinking much water?",
+    "options": ["They fly to cold mountains daily", "They stay deep inside cool underground burrows during the day and come out only at night", "They drink seawater", "They stop breathing during the day"],
+    "correctAnswer": 1,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "Desert animals are nocturnal burrowers; subterranean burrows are significantly cooler and conserve body moisture."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Science",
+    "chapter": "The Living Organisms — Characteristics and Habitats",
+    "question": "Why do desert plants like Cactus have leaves modified into spines and very deep roots?",
+    "options": ["To catch insects", "Spines reduce water loss by transpiration while deep roots search for groundwater", "To look attractive to herbivores", "To store extra soil"],
+    "correctAnswer": 1,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "Spines drastically lower surface area for transpiration, and deep root networks reach subterranean water tables."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Science",
+    "chapter": "The Living Organisms — Characteristics and Habitats",
+    "question": "How are trees in mountain habitats adapted to withstand heavy snowfall and strong winds?",
+    "options": ["They have broad flat leaves and no branches", "They are cone-shaped with sloping branches and needle-like leaves", "They are underground creepers", "They shed all their wood in winter"],
+    "correctAnswer": 1,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "Conical shape and downward-sloping branches allow snow and rainwater to slide off smoothly without breaking limbs."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Science",
+    "chapter": "The Living Organisms — Characteristics and Habitats",
+    "question": "Which of the following adaptations helps a snow leopard survive the freezing mountain cold?",
+    "options": ["Thick fur covering its entire body including feet and toes", "Gills on its neck", "Long beak", "Thin featherless skin"],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "Dense fur insulates the body from frost, and fur-padded paws protect toes from freezing when walking on snow."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Science",
+    "chapter": "The Living Organisms — Characteristics and Habitats",
+    "question": "A lion is a predator in grassland habitats. Which adaptation helps it stalk prey successfully?",
+    "options": ["Bright red fur to scare prey", "Light brown camouflage coat and eyes placed in front of its head for accurate depth perception", "Large heavy horns", "Webbed feet"],
+    "correctAnswer": 1,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "Light brown color blends with dry grass, and forward-facing eyes enable accurate distance estimation when hunting."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Science",
+    "chapter": "The Living Organisms — Characteristics and Habitats",
+    "question": "A deer is a prey animal in grasslands. Which adaptation helps it detect predators from all directions?",
+    "options": ["Eyes located on the sides of its head giving a wide field of view and long ears to hear faint sounds", "Eyes located only on its feet", "Short heavy legs", "Thick blubber layer"],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "Lateral eye placement gives nearly 360-degree panoramic vision, and large directional ears detect approaching carnivores."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Science",
+    "chapter": "The Living Organisms — Characteristics and Habitats",
+    "question": "Why do aquatic plants (like lotus and water lily) have thin, flexible stems with large air spaces?",
+    "options": ["To make them heavy so they sink", "Hollow, light stems allow them to float upright near the water surface where leaves get sunlight", "To absorb mud", "To store ice"],
+    "correctAnswer": 1,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "Spongy aerenchyma tissues with air cavities provide buoyancy, keeping leaves and flowers floating on the water surface."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Science",
+    "chapter": "The Living Organisms — Characteristics and Habitats",
+    "question": "Why do submerged aquatic plants (like Hydrilla and Tape grass) have narrow, ribbon-like leaves?",
+    "options": ["To collect sand", "They can bend with flowing water currents without getting torn or detached", "They do not perform photosynthesis", "To attract fishes for food"],
+    "correctAnswer": 1,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "Slender, ribbon-like leaves offer minimal hydrodynamic resistance to swift underwater currents, preventing tears."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Science",
+    "chapter": "The Living Organisms — Characteristics and Habitats",
+    "question": "Dolphins and whales live in water, but they do NOT have gills. How do they breathe oxygen?",
+    "options": ["They absorb water through their tails", "They breathe atmospheric air through blowholes (nostrils) located on top of their heads using lungs", "They never breathe throughout their life", "They absorb oxygen through their fins"],
+    "correctAnswer": 1,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "Whales and dolphins are mammals with lungs; they surface periodically to inhale air through cranial blowholes."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Science",
+    "chapter": "The Living Organisms — Characteristics and Habitats",
+    "question": "How are frogs uniquely adapted to live BOTH in pond water and on land?",
+    "options": ["They have wings and gills", "Webbed feet for swimming in water, strong hindlegs for leaping on land, and respiration through lungs & moist skin", "They turn into fish in water", "They only eat mud"],
+    "correctAnswer": 1,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "Amphibian adaptations include webbed swimming toes, strong jumping legs, and dual respiration (cutaneous & pulmonary)."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Science",
+    "chapter": "The Living Organisms — Characteristics and Habitats",
+    "question": "What is the difference between Adaptation and Acclimatisation?",
+    "options": ["They are the exact same thing", "Adaptation occurs over thousands of years genetically, while acclimatisation is short-term adjustments to overcome local changes", "Acclimatisation occurs only in dead organisms", "Adaptation happens in 2 minutes"],
+    "correctAnswer": 1,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "Adaptations are evolutionary changes over millennia. Acclimatisation is temporary physiological tuning (e.g., breathing faster at high altitude)."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Science",
+    "chapter": "The Living Organisms — Characteristics and Habitats",
+    "question": "Why do floating leaves of aquatic plants have a waxy coating on their upper surface?",
+    "options": ["To make them tasty for ducks", "To prevent water from clogging the stomatal pores on the surface", "To reflect all sunlight away", "To make them dissolve in water"],
+    "correctAnswer": 1,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "The waxy cuticle repels water droplets, keeping stomata open for atmospheric gas exchange and preventing rotting."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Science",
+    "chapter": "The Living Organisms — Characteristics and Habitats",
+    "question": "Why is excretion necessary for all living organisms?",
+    "options": ["To make space for new food", "Metabolic reactions produce toxic chemical waste that harms the body if accumulated", "To reduce body weight", "To absorb sunlight"],
+    "correctAnswer": 1,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "Cellular respiration and digestion produce nitrogenous wastes and toxins that must be continuously expelled for survival."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Science",
+    "chapter": "The Living Organisms — Characteristics and Habitats",
+    "question": "Which of the following organisms reproduces by laying eggs rather than giving birth to young ones directly?",
+    "options": ["Dog", "Cow", "Sparrow (Bird)", "Human"],
+    "correctAnswer": 2,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "Birds (like sparrows) are oviparous organisms that lay eggs from which young chicks hatch."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Science",
+    "chapter": "The Living Organisms — Characteristics and Habitats",
+    "question": "A germinating seed in moist soil sprouts into a seedling. This biological event represents:",
+    "options": ["Only excretion", "Growth and development into a new living individual", "Non-living crystallization", "Decomposition"],
+    "correctAnswer": 1,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "Germination involves metabolic activation, cell division, and growth of the embryo into an independent plant."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Science",
+    "chapter": "The Living Organisms — Characteristics and Habitats",
+    "question": "Why do plants grow towards sunlight when placed near an open window inside a room?",
+    "options": ["They are pulled by gravity", "They exhibit phototropism, responding to the stimulus of unidirectional light", "They are trying to escape the room", "Wind pulls the stem"],
+    "correctAnswer": 1,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "Shoots exhibit positive phototropism, bending toward light to maximize photon absorption for photosynthesis."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Science",
+    "chapter": "The Living Organisms — Characteristics and Habitats",
+    "question": "Read the following statements:\nAssertion (A): Camels excrete very small amounts of concentrated urine and their dung is completely dry.\nReason (R): Camels must conserve every drop of water in the arid desert habitat where water is scarce.\nChoose the correct option:",
+    "options": [
+      "Both (A) and (R) are true, and (R) is the correct explanation of (A).",
+      "Both (A) and (R) are true, but (R) is NOT the correct explanation of (A).",
+      "(A) is true, but (R) is false.",
+      "(A) is false, but (R) is true."
+    ],
+    "correctAnswer": 0,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "Hyper-concentrated urine, dry feces, and lack of sweat glands are physiological adaptations to minimize water loss."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Science",
+    "chapter": "The Living Organisms — Characteristics and Habitats",
+    "question": "Spot the IMPOSTER in the following group of aquatic animals based on respiratory organs:\nGroup: [Rohu Fish, Prawn, Octopus, Blue Whale]",
+    "options": ["Rohu Fish", "Prawn", "Octopus", "Blue Whale"],
+    "correctAnswer": 3,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "Rohu, prawn, and octopus breathe using gills, whereas Blue Whale is a mammal that breathes atmospheric air using lungs."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Science",
+    "chapter": "The Living Organisms — Characteristics and Habitats",
+    "question": "Read the following statements:\nAssertion (A): In a desert cactus, the stem is covered with a thick waxy layer and carries out photosynthesis.\nReason (R): Reduced spine-like leaves minimize transpiration, while the waxy green stem retains water and captures sunlight.\nChoose the correct option:",
+    "options": [
+      "Both (A) and (R) are true, and (R) is the correct explanation of (A).",
+      "Both (A) and (R) are true, but (R) is NOT the correct explanation of (A).",
+      "(A) is true, but (R) is false.",
+      "(A) is false, but (R) is true."
+    ],
+    "correctAnswer": 0,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "Cactus stems take over the photosynthetic role of leaves, and the thick waxy cuticle prevents moisture evaporation."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Science",
+    "chapter": "The Living Organisms — Characteristics and Habitats",
+    "question": "A scientist studies three organisms in different habitats:\n- Organism X has eyes on the sides of its head, large ears, and runs at 70 km/h.\n- Organism Y has streamlined body, gills, and swim bladder.\n- Organism Z has subcutaneous blubber, white fur, and padded feet.\nIdentify their respective habitats:",
+    "options": [
+      "X = Grassland prey, Y = Aquatic, Z = Polar/Snow mountain",
+      "X = Desert, Y = Mountain, Z = Grassland",
+      "X = Polar, Y = Desert, Z = Aquatic",
+      "X = Forest tree, Y = Desert burrow, Z = River"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "X matches grassland prey (deer), Y matches aquatic fish, and Z matches polar carnivores (polar bear)."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Science",
+    "chapter": "The Living Organisms — Characteristics and Habitats",
+    "question": "Read the following statements:\nStatement 1: Respiration takes place continuously day and night in all living organisms.\nStatement 2: Photosynthesis in plants occurs only in the presence of sunlight.\nStatement 3: Plants release much more oxygen during daytime photosynthesis than they consume in respiration.\nWhich statements are TRUE?",
+    "options": ["Statements 1 and 2 only", "Statements 2 and 3 only", "Statements 1 and 3 only", "All Statements 1, 2, and 3"],
+    "correctAnswer": 3,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "All three statements are scientifically correct regarding plant gas exchange balances between daytime and nighttime."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Science",
+    "chapter": "The Living Organisms — Characteristics and Habitats",
+    "question": "Why is a car or a bus NOT considered a living organism even though it moves, consumes fuel, and exhausts smoke?",
+    "options": [
+      "It does not grow, reproduce, respire at a cellular level, or respond autonomously to stimuli",
+      "It is painted with synthetic paint",
+      "It travels only on roads",
+      "It does not drink water"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "Living organisms must exhibit biological life processes: cellular organization, autonomic growth, reproduction, and irritability."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Science",
+    "chapter": "The Living Organisms — Characteristics and Habitats",
+    "question": "An expedition team climbs from sea level to 4,500 metres altitude in Ladakh. On Day 1, they experience breathlessness and fatigue. By Day 5, their breathing stabilizes and they feel normal. This physiological change is:",
+    "options": [
+      "Permanent genetic adaptation",
+      "Short-term acclimatisation to low oxygen levels",
+      "Evolution into a new species",
+      "Mutation caused by ultraviolet rays"
+    ],
+    "correctAnswer": 1,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "Acclimatisation comprises temporary physiological adjustments (such as increased red blood cell production) to ambient hypoxia."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Science",
+    "chapter": "The Living Organisms — Characteristics and Habitats",
+    "question": "A submerged freshwater weed is transferred to an open glass jar filled with concentrated salt (marine) water. What will happen to its cells?",
+    "options": [
+      "It will grow twice as fast",
+      "Its cells will lose water rapidly by osmosis and the plant will shrivel and die",
+      "It will produce flowers in 5 minutes",
+      "It will turn into coral reef"
+    ],
+    "correctAnswer": 1,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "Freshwater organisms lack osmotic adaptations for hypertonic saline environments; water leaves cells, causing plasmolysis."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Science",
+    "chapter": "The Living Organisms — Characteristics and Habitats",
+    "question": "Why do animals living in mountain habitats (like Yaks and Mountain Goats) have strong hooves and thick coats?",
+    "options": [
+      "Thick hair provides insulation against snowstorms, while strong hooves give grip on steep rocky slopes",
+      "Hooves are used to dig underground tunnels",
+      "Coats absorb soil minerals directly",
+      "To scare predators with loud sound"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "Thermal fur insulation and agile, sharp hooves provide critical footing on jagged alpine topography."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Science",
+    "chapter": "The Living Organisms — Characteristics and Habitats",
+    "question": "Consider the biotic and abiotic elements in a pond ecosystem:\n[Water, Sunlight, Lotus plant, Fish, Dissolved Oxygen, Frog, Sand]\nHow many of these are ABIOTIC components?",
+    "options": ["2", "3", "4", "5"],
+    "correctAnswer": 2,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "Four items are abiotic (non-living): Water, Sunlight, Dissolved Oxygen, and Sand. (Lotus, Fish, and Frog are biotic)."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Science",
+    "chapter": "The Living Organisms — Characteristics and Habitats",
+    "question": "Why do deep-sea squid and octopuses lack a streamlined body shape normally, yet manage to move extremely fast when swimming?",
+    "options": [
+      "They transform their body into a streamlined torpedo shape when swimming and expel high-pressure water jets",
+      "They ride on sharks",
+      "They walk on the seabed with wheels",
+      "They turn into gas bubbles"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "Cephalopods pull their tentacles together into a streamlined contour and propel themselves rapidly using hydraulic jet propulsion."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Science",
+    "chapter": "The Living Organisms — Characteristics and Habitats",
+    "question": "Read the following statements:\nAssertion (A): Roots of aquatic floating plants like Pistia are greatly reduced in size.\nReason (R): The main function of roots in floating plants is not water absorption, but merely holding the plant in place balanced in water.\nChoose the correct option:",
+    "options": [
+      "Both (A) and (R) are true, and (R) is the correct explanation of (A).",
+      "Both (A) and (R) are true, but (R) is NOT the correct explanation of (A).",
+      "(A) is true, but (R) is false.",
+      "(A) is false, but (R) is true."
+    ],
+    "correctAnswer": 0,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "Because water and minerals surround the entire plant body, floating hydrophytes have vestigial roots primarily functioning as ballast."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Science",
+    "chapter": "Motion and Measurement of Distances",
+    "question": "The invention of which simple mechanism revolutionised land transport in ancient human history?",
+    "options": ["The Steam engine", "The Wheel", "The Aeroplane", "The Computer"],
+    "correctAnswer": 1,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "The invention of the wheel transformed ancient transport, enabling carts and carriages to carry heavy loads effortlessly."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Science",
+    "chapter": "Motion and Measurement of Distances",
+    "question": "What is the standard SI unit of length accepted internationally?",
+    "options": ["Centimetre", "Metre", "Kilometre", "Foot"],
+    "correctAnswer": 1,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "In the International System of Units (SI Units), the standard unit for measuring length is the Metre (m)."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Science",
+    "chapter": "Motion and Measurement of Distances",
+    "question": "How many centimetres are there in 1 metre?",
+    "options": ["10 cm", "100 cm", "1000 cm", "10000 cm"],
+    "correctAnswer": 1,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "1 metre is divided into 100 equal divisions called centimetres (1 m = 100 cm)."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Science",
+    "chapter": "Motion and Measurement of Distances",
+    "question": "How many metres make up 1 kilometre?",
+    "options": ["100 m", "500 m", "1000 m", "10000 m"],
+    "correctAnswer": 2,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "1 kilometre is equal to 1,000 metres (1 km = 1000 m)."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Science",
+    "chapter": "Motion and Measurement of Distances",
+    "question": "Motion of an object along a straight path is called:",
+    "options": ["Circular motion", "Rectilinear motion", "Periodic motion", "Rotational motion"],
+    "correctAnswer": 1,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "When an object moves along a straight line (like a train on a straight track or an apple falling), it is in rectilinear motion."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Science",
+    "chapter": "Motion and Measurement of Distances",
+    "question": "Motion of an object moving along a circular path at a constant distance from a centre point is called:",
+    "options": ["Rectilinear motion", "Circular motion", "Periodic motion", "Random motion"],
+    "correctAnswer": 1,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "Circular motion occurs when an object traces a circle, such as the tip of a clock's second hand or blades of a rotating fan."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Science",
+    "chapter": "Motion and Measurement of Distances",
+    "question": "Motion that repeats itself at regular intervals of time is called:",
+    "options": ["Periodic motion", "Rectilinear motion", "Irregular motion", "Linear motion"],
+    "correctAnswer": 0,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "Periodic motion repeats in equal time cycles, such as a swinging pendulum, a child on a swing, or the beating of a drum surface."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Science",
+    "chapter": "Motion and Measurement of Distances",
+    "question": "Which of the following is an example of periodic motion?",
+    "options": ["A car moving on a straight road", "The motion of a simple pendulum", "A stone dropped from a tower", "A bullet fired from a gun"],
+    "correctAnswer": 1,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "A simple pendulum oscillates back and forth rhythmically at fixed intervals, making it periodic motion."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Science",
+    "chapter": "Motion and Measurement of Distances",
+    "question": "Which ancient body measurement was defined as the length from the elbow to the tip of the middle finger?",
+    "options": ["Pace", "Cubit", "Foot", "Handspan"],
+    "correctAnswer": 1,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "A 'cubit' was the ancient Egyptian length measurement from the elbow joint to the fingertip."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Science",
+    "chapter": "Motion and Measurement of Distances",
+    "question": "Which of the following units is used to measure very large distances, such as between Delhi and Mumbai?",
+    "options": ["Millimetre", "Centimetre", "Kilometre", "Metre"],
+    "correctAnswer": 2,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "Large geographical distances between cities are measured in kilometres (km)."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Science",
+    "chapter": "Motion and Measurement of Distances",
+    "question": "How many millimetres are there in 1 centimetre?",
+    "options": ["5 mm", "10 mm", "100 mm", "1000 mm"],
+    "correctAnswer": 1,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "1 centimetre is divided into 10 smaller equal units called millimetres (1 cm = 10 mm)."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Science",
+    "chapter": "Motion and Measurement of Distances",
+    "question": "Which measuring tool should a tailor use to measure the chest circumference of a person?",
+    "options": ["A rigid wooden meter scale", "A flexible measuring tape", "A steel ruler", "A beam balance"],
+    "correctAnswer": 1,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "A flexible measuring tape bends around curved surfaces like the human chest, whereas rigid rulers cannot."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Science",
+    "chapter": "Motion and Measurement of Distances",
+    "question": "Why are body parts like handspan, foot length, and cubit NOT used as standard units of measurement?",
+    "options": ["They are too expensive", "Body dimensions vary from person to person, causing inaccurate and inconsistent measurements", "Rulers are lighter", "Body parts cannot be measured"],
+    "correctAnswer": 1,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "Because body proportions differ across individuals, standard uniform units (SI units) were introduced worldwide."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Science",
+    "chapter": "Motion and Measurement of Distances",
+    "question": "How should our eye be positioned while taking a reading on a metric ruler to avoid parallax error?",
+    "options": ["Look from the left side at an angle", "Position the eye vertically and directly in front of the reading point", "Look from the right side", "Look from any angle as reading never changes"],
+    "correctAnswer": 1,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "Looking at an angle causes parallax error. The eye must be vertically aligned directly above the mark for exact precision."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Science",
+    "chapter": "Motion and Measurement of Distances",
+    "question": "While measuring a knitting needle with a broken ruler, the zero mark is damaged. A student aligns one end at 2.0 cm and reads the other end at 16.5 cm. What is the true length of the needle?",
+    "options": ["16.5 cm", "18.5 cm", "14.5 cm", "12.5 cm"],
+    "correctAnswer": 2,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "Actual length = Final reading (16.5 cm) - Initial reading (2.0 cm) = 14.5 cm."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Science",
+    "chapter": "Motion and Measurement of Distances",
+    "question": "How can the length of a curved line drawn on paper be accurately measured?",
+    "options": ["Using a rigid iron scale directly", "By placing a piece of thread along the curve and then measuring the straightened thread on a meter scale", "Using a thermometer", "By guessing"],
+    "correctAnswer": 1,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "A flexible thread conforms to the contours of the curve; straightening it against a ruler gives the precise linear length."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Science",
+    "chapter": "Motion and Measurement of Distances",
+    "question": "A rolling football moving on the ground exhibits which combinations of motion?",
+    "options": ["Periodic and Vibratory motion", "Rotational motion (spinning) and Rectilinear motion (forward linear displacement)", "Circular and Stationary motion", "Oscillatory and Fixed motion"],
+    "correctAnswer": 1,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "A rolling ball spins around its own central axis (rotational) while translating forward along the turf (rectilinear)."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Science",
+    "chapter": "Motion and Measurement of Distances",
+    "question": "The motion of the needle of a sewing machine when running at constant speed is an example of:",
+    "options": ["Rectilinear motion only", "Periodic up-and-down motion", "Circular motion", "Random motion"],
+    "correctAnswer": 1,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "The needle oscillates up and down through the fabric at fixed rhythmic intervals, executing periodic motion."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Science",
+    "chapter": "Motion and Measurement of Distances",
+    "question": "The motion of the wheel of a sewing machine while being turned is:",
+    "options": ["Periodic motion", "Rotational/Circular motion", "Rectilinear motion", "Irregular motion"],
+    "correctAnswer": 1,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "The wheel spins around a fixed axle, exhibiting rotational motion."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Science",
+    "chapter": "Motion and Measurement of Distances",
+    "question": "Which of the following is in motion with respect to an observer standing by the roadside?",
+    "options": ["A tree planted on the sidewalk", "A passenger sitting inside a moving bus", "An electric lamp post", "A building"],
+    "correctAnswer": 1,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "Motion is relative: as the bus travels, the passenger's position changes relative to the stationary roadside observer."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Science",
+    "chapter": "Motion and Measurement of Distances",
+    "question": "What is the distance between Priya's home and her school if the odometer of her bicycle records 3,250 metres?",
+    "options": ["32.5 km", "3.25 km", "0.325 km", "325 km"],
+    "correctAnswer": 1,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "To convert metres to kilometres, divide by 1,000: 3,250 m ÷ 1,000 = 3.25 km."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Science",
+    "chapter": "Motion and Measurement of Distances",
+    "question": "A giant Ferris wheel at an amusement park rotates smoothly. The motion of a seat on the rim is:",
+    "options": ["Rectilinear motion", "Circular motion", "Vibratory motion", "Random motion"],
+    "correctAnswer": 1,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "Each seat maintains a constant distance from the central hub, tracing a circular path in circular motion."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Science",
+    "chapter": "Motion and Measurement of Distances",
+    "question": "The height of a student is 1.65 metres. What is his height in centimetres (cm) and millimetres (mm)?",
+    "options": ["16.5 cm and 165 mm", "165 cm and 1650 mm", "1650 cm and 165 mm", "1.65 cm and 16.5 mm"],
+    "correctAnswer": 1,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "Height in cm = 1.65 × 100 = 165 cm. Height in mm = 165 × 10 = 1,650 mm."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Science",
+    "chapter": "Motion and Measurement of Distances",
+    "question": "Which of the following objects displays ROTATIONAL motion without changing its geographical place?",
+    "options": ["A flying bird", "A ceiling fan spinning on its ceiling hook", "A car driving on a highway", "A marching soldier"],
+    "correctAnswer": 1,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "The ceiling fan rotates about its fixed pivot mount without undergoing translational displacement."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Science",
+    "chapter": "Motion and Measurement of Distances",
+    "question": "Why must a measuring ruler be placed strictly parallel and touching the edge of the object being measured?",
+    "options": ["To prevent ruler from breaking", "Placing the ruler at an angle creates a hypotenuse path that reads falsely larger than the true length", "Rulers only work when warm", "To avoid reflections"],
+    "correctAnswer": 1,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "An inclined ruler measures a longer slanted path rather than the true perpendicular distance."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Science",
+    "chapter": "Motion and Measurement of Distances",
+    "question": "When a plucked guitar string vibrates to produce music, the motion of the string is:",
+    "options": ["Rectilinear motion", "Periodic / Vibratory motion", "Circular motion", "Linear translation"],
+    "correctAnswer": 1,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "The plucked string oscillates rapidly back and forth across its resting position at fixed acoustic frequencies (periodic)."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Science",
+    "chapter": "Motion and Measurement of Distances",
+    "question": "Which of the following modes of transport was introduced FIRST historically?",
+    "options": ["Electric bullet train", "Bullock cart with wooden wheels", "Supersonic aircraft", "Steam engine locomotive"],
+    "correctAnswer": 1,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "Animal-drawn wheeled carts were invented millennia before 18th-century steam engines and 20th-century aviation."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Science",
+    "chapter": "Motion and Measurement of Distances",
+    "question": "A snail crawls 15 millimetres in 1 minute. How many centimetres did it travel in that minute?",
+    "options": ["150 cm", "1.5 cm", "0.15 cm", "15 cm"],
+    "correctAnswer": 1,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "Since 10 mm = 1 cm, 15 mm ÷ 10 = 1.5 cm."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Science",
+    "chapter": "Motion and Measurement of Distances",
+    "question": "Read the following statements:\nAssertion (A): SI units are used by scientists and engineers all across the globe.\nReason (R): Standard units eliminate confusion and measurement discrepancies caused by varying personal body dimensions.\nChoose the correct option:",
+    "options": [
+      "Both (A) and (R) are true, and (R) is the correct explanation of (A).",
+      "Both (A) and (R) are true, but (R) is NOT the correct explanation of (A).",
+      "(A) is true, but (R) is false.",
+      "(A) is false, but (R) is true."
+    ],
+    "correctAnswer": 0,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "The International System of Units (SI) was adopted to establish universally consistent, reproducible standards."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Science",
+    "chapter": "Motion and Measurement of Distances",
+    "question": "Spot the IMPOSTER in the following group of motions:\nGroup: [Motion of a swinging pendulum, Plucked violin string, Hands of a clock, A stone dropped vertically from a roof]",
+    "options": [
+      "Motion of a swinging pendulum",
+      "Plucked violin string",
+      "Hands of a clock",
+      "A stone dropped vertically from a roof"
+    ],
+    "correctAnswer": 3,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "The dropped stone is in non-repeating RECTILINEAR motion, whereas all other three exhibit PERIODIC cyclic motion."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Science",
+    "chapter": "Motion and Measurement of Distances",
+    "question": "A student measures the length of a desk with four different units:\n- Unit 1: Millimetres (mm)\n- Unit 2: Centimetres (cm)\n- Unit 3: Metres (m)\n- Unit 4: Kilometres (km)\nWhich unit will yield the SMALLEST numerical count for the desk's length?",
+    "options": ["Millimetres", "Centimetres", "Metres", "Kilometres"],
+    "correctAnswer": 3,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "Larger measurement units yield smaller numerical values (e.g., 2000 mm = 200 cm = 2 m = 0.002 km)."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Science",
+    "chapter": "Motion and Measurement of Distances",
+    "question": "A toy train runs on a closed circular track. An observer on a platform notices two things:\n1. The train's engine is in circular motion around the central track pole.\n2. The wheels of the train are spinning on their axles.\nWhich statement correctly classifies these motions?",
+    "options": [
+      "Engine exhibits circular motion; wheels exhibit rotational and circular motion simultaneously",
+      "Engine is stationary",
+      "Wheels are in rectilinear motion only",
+      "Both are in periodic pendulum motion"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "The train translates along a circular orbit while its wheels spin continuously on their axles."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Science",
+    "chapter": "Motion and Measurement of Distances",
+    "question": "Read the following statements:\nStatement 1: Motion is defined as a change in the position of an object over time with respect to a reference point.\nStatement 2: An object can be at rest relative to one observer while in motion relative to another observer simultaneously.\nStatement 3: 1 metre is equal to exactly 1,000 millimetres.\nWhich statements are TRUE?",
+    "options": ["Statements 1 and 2 only", "Statements 2 and 3 only", "Statements 1 and 3 only", "All Statements 1, 2, and 3"],
+    "correctAnswer": 3,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "All three statements are fundamental scientific truths regarding the relativity of motion and metric unit conversions."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Science",
+    "chapter": "Motion and Measurement of Distances",
+    "question": "A wooden scale has its zero mark broken off. A student starts measuring a wooden block from mark 4.7 cm. The other end aligns with mark 28.3 cm. What is the exact length of the wooden block?",
+    "options": ["28.3 cm", "33.0 cm", "23.6 cm", "24.6 cm"],
+    "correctAnswer": 2,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "Correct Length = Final reading (28.3 cm) - Initial offset (4.7 cm) = 23.6 cm."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Science",
+    "chapter": "Motion and Measurement of Distances",
+    "question": "Two cars A and B travel side-by-side on a straight 4-lane highway at the exact same speed of 60 km/h in the same direction. How does the passenger in car A perceive car B?",
+    "options": [
+      "Car B appears to be moving backward at 120 km/h",
+      "Car B appears to be completely at rest (stationary) relative to passenger in Car A",
+      "Car B appears to move in a circle",
+      "Car B appears to fly"
+    ],
+    "correctAnswer": 1,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "Relative speed = 60 km/h - 60 km/h = 0. Because there is no change in relative position over time, Car B appears stationary."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Science",
+    "chapter": "Motion and Measurement of Distances",
+    "question": "Why is an elastic rubber measuring tape UNACCEPTABLE for surveying land boundaries?",
+    "options": [
+      "It dissolves in sunlight",
+      "It stretches under tension, giving inconsistent and falsely variable distance readings depending on how hard it is pulled",
+      "It is too colorful",
+      "It conducts electricity"
+    ],
+    "correctAnswer": 1,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "Elastic materials stretch unpredictably under tension, violating the principle of constant, invariant standard units."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Science",
+    "chapter": "Motion and Measurement of Distances",
+    "question": "Consider the movement of the earth:\n- Motion X: Earth spinning once on its own axis every 24 hours.\n- Motion Y: Earth revolving around the sun once every 365.25 days.\nHow are Motion X and Motion Y classified?",
+    "options": [
+      "Motion X is Rotational & Periodic; Motion Y is Circular/Elliptical & Periodic",
+      "Motion X is Rectilinear; Motion Y is Random",
+      "Motion X is Non-periodic; Motion Y is Rectilinear",
+      "Both are pure linear motions"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "Axial spin is rotational & periodic (causing day/night). Orbital revolution is periodic around the solar barycentre (causing years)."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Science",
+    "chapter": "Motion and Measurement of Distances",
+    "question": "A thread wrapped tightly around the cylindrical trunk of a tree exactly 10 times measures 3.5 metres on a metric scale. What is the perimeter (girth) of the tree trunk?",
+    "options": ["35 cm", "3.5 cm", "350 cm", "0.35 cm"],
+    "correctAnswer": 0,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "Total length = 3.5 m = 350 cm. For 10 turns, 1 turn circumference = 350 cm ÷ 10 = 35 cm."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Science",
+    "chapter": "Motion and Measurement of Distances",
+    "question": "Read the following statements:\nAssertion (A): A March-past of soldiers on a straight parade ground is rectilinear motion.\nReason (R): All soldiers march simultaneously in straight parallel tracks maintaining constant forward direction.\nChoose the correct option:",
+    "options": [
+      "Both (A) and (R) are true, and (R) is the correct explanation of (A).",
+      "Both (A) and (R) are true, but (R) is NOT the correct explanation of (A).",
+      "(A) is true, but (R) is false.",
+      "(A) is false, but (R) is true."
+    ],
+    "correctAnswer": 0,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "Soldiers moving straight forward along a linear trajectory without deviation execute rectilinear translation."
+  },
+  {
+    "classLevel": 6,
+    "subject": "Science",
+    "chapter": "Motion and Measurement of Distances",
+    "question": "A student measures the distance between two pins using a 30 cm ruler. The ruler reading at Pin 1 is 1.4 cm and at Pin 2 is 24.8 cm. Express this distance in SI units (metres):",
+    "options": ["23.4 m", "2.34 m", "0.234 m", "0.0234 m"],
+    "correctAnswer": 2,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "Length in cm = 24.8 - 1.4 = 23.4 cm. Converting cm to SI units (metres): 23.4 ÷ 100 = 0.234 m."
+  }
+]
