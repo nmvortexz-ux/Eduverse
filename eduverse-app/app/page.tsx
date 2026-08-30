@@ -101,7 +101,7 @@ const defaultSubjects = [
   { id: 'english',  label: 'English',       accent: '#F59E0B', icon: <IconBookOpen /> },
   { id: 'hindi',    label: 'Hindi Grammar', accent: '#A855F7', icon: <IconLanguages /> },
   { id: 'gk',       label: 'GK',            accent: '#3B82F6', icon: <IconGlobe /> },
-  { id: 'social',   label: 'Social Studies',accent: '#14B8A6', icon: <IconLandmark /> },
+  { id: 'social',   label: 'Social Science',accent: '#14B8A6', icon: <IconLandmark /> },
 ];
 
 const commerceSubjects = [

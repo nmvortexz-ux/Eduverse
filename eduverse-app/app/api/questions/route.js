@@ -3,8 +3,8 @@ import { prisma } from '../../../lib/prisma';
 
 function sortChaptersSequential(chapters) {
   return chapters.sort((a, b) => {
-    const numA = parseInt(a.match(/Ch\s*(\d+)/i)?.[1] || '999', 10);
-    const numB = parseInt(b.match(/Ch\s*(\d+)/i)?.[1] || '999', 10);
+    const numA = parseInt(a.match(/(?:Chapter|Ch\.?)\s*(\d+)/i)?.[1] || '999', 10);
+    const numB = parseInt(b.match(/(?:Chapter|Ch\.?)\s*(\d+)/i)?.[1] || '999', 10);
     if (numA !== numB) return numA - numB;
     return a.localeCompare(b, undefined, { numeric: true, sensitivity: 'base' });
   });
