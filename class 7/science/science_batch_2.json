@@ -1,0 +1,1922 @@
+[
+  {
+    "classLevel": 7,
+    "subject": "Science",
+    "chapter": "Acids, Bases and Salts",
+    "question": "Substances that taste sour and turn blue litmus paper red are classified as:",
+    "options": [
+      "Acids",
+      "Bases",
+      "Salts",
+      "Alkalies"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "Acids (from the Latin 'acere' meaning sour) have a characteristic sour taste and turn blue litmus red."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Science",
+    "chapter": "Acids, Bases and Salts",
+    "question": "Substances that taste bitter, feel soapy or slippery to the touch, and turn red litmus blue are:",
+    "options": [
+      "Acids",
+      "Bases",
+      "Neutral salts",
+      "Organic indicators"
+    ],
+    "correctAnswer": 1,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "Bases are bitter to taste, soapy to touch, and turn red litmus blue (e.g., sodium hydroxide, baking soda)."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Science",
+    "chapter": "Acids, Bases and Salts",
+    "question": "Which natural indicator is extracted from lichens and is widely used in chemistry labs?",
+    "options": [
+      "Turmeric",
+      "Litmus",
+      "China rose",
+      "Phenolphthalein"
+    ],
+    "correctAnswer": 1,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "Litmus is a natural dye extracted from lichens; it has a mauve (purple) color in neutral distilled water."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Science",
+    "chapter": "Acids, Bases and Salts",
+    "question": "Which organic acid is naturally present in lemon and orange citrus juices?",
+    "options": [
+      "Acetic acid",
+      "Citric acid",
+      "Lactic acid",
+      "Tartaric acid"
+    ],
+    "correctAnswer": 1,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "Citrus fruits like lemons, oranges, and limes are rich in citric acid (and ascorbic acid/Vitamin C)."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Science",
+    "chapter": "Acids, Bases and Salts",
+    "question": "Which acid is found naturally in curd and sour milk?",
+    "options": [
+      "Citric acid",
+      "Lactic acid",
+      "Formic acid",
+      "Oxalic acid"
+    ],
+    "correctAnswer": 1,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "Lactobacillus bacteria ferment lactose sugar in milk into lactic acid, giving curd its sour taste."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Science",
+    "chapter": "Acids, Bases and Salts",
+    "question": "The sharp stinging burning sensation caused by an ant sting is due to the injection of:",
+    "options": [
+      "Formic acid (Methanoic acid)",
+      "Hydrochloric acid",
+      "Acetic acid",
+      "Tartaric acid"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "Ants inject formic acid into the skin when biting, causing painful localized irritation and swelling."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Science",
+    "chapter": "Acids, Bases and Salts",
+    "question": "What happens when yellow turmeric paper is exposed to a basic soap solution?",
+    "options": [
+      "It turns bright blue",
+      "It turns reddish-brown",
+      "It turns green",
+      "It becomes colorless"
+    ],
+    "correctAnswer": 1,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "Curcumin in turmeric acts as a natural pH indicator that turns reddish-brown in basic alkaline solutions like soap."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Science",
+    "chapter": "Acids, Bases and Salts",
+    "question": "The chemical reaction between an acid and a base to form salt and water with the evolution of heat is called:",
+    "options": [
+      "Crystallisation",
+      "Neutralisation",
+      "Combustion",
+      "Fermentation"
+    ],
+    "correctAnswer": 1,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "Neutralisation is the reaction where H+ ions from acid combine with OH- ions from base: Acid + Base → Salt + Water + Heat."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Science",
+    "chapter": "Acids, Bases and Salts",
+    "question": "What is the common chemical name of baking soda used in cooking?",
+    "options": [
+      "Sodium hydroxide",
+      "Sodium hydrogen carbonate (Sodium bicarbonate)",
+      "Calcium hydroxide",
+      "Magnesium hydroxide"
+    ],
+    "correctAnswer": 1,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "Baking soda is chemically sodium hydrogen carbonate (NaHCO3), a mild basic salt."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Science",
+    "chapter": "Acids, Bases and Salts",
+    "question": "Which mild base commonly called 'Milk of Magnesia' is taken as an antacid to relieve stomach acidity?",
+    "options": [
+      "Calcium carbonate",
+      "Magnesium hydroxide",
+      "Potassium hydroxide",
+      "Sodium chloride"
+    ],
+    "correctAnswer": 1,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "Milk of Magnesia is a suspension of magnesium hydroxide, Mg(OH)2, which safely neutralizes excess gastric HCl."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Science",
+    "chapter": "Acids, Bases and Salts",
+    "question": "Which synthetic chemical indicator turns pink in a basic solution and remains colorless in an acidic solution?",
+    "options": [
+      "Litmus",
+      "Phenolphthalein",
+      "Methyl orange",
+      "China rose"
+    ],
+    "correctAnswer": 1,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "Phenolphthalein is an acid-base indicator that is colorless in neutral/acidic media and turns magenta-pink in bases."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Science",
+    "chapter": "Acids, Bases and Salts",
+    "question": "Which acid is naturally present in unripe mangoes, tamarind (imli), and grapes?",
+    "options": [
+      "Lactic acid",
+      "Tartaric acid",
+      "Oxalic acid",
+      "Formic acid"
+    ],
+    "correctAnswer": 1,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "Tartaric acid provides the characteristic strong sourness in tamarind, raw mangoes, and grapes."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Science",
+    "chapter": "Acids, Bases and Salts",
+    "question": "Why does a yellow curry stain on a white shirt turn reddish-brown when washed with laundry soap, and yellow again after rinsing with lots of water?",
+    "options": [
+      "Soap is acidic, water is basic",
+      "Soap is basic which turns turmeric reddish-brown; washing away the alkaline soap with neutral water restores the yellow indicator color",
+      "Curry contains copper",
+      "Soap burns the cloth"
+    ],
+    "correctAnswer": 1,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "Turmeric is a natural indicator: yellow in acidic/neutral media and reddish-brown in basic solutions (soap)."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Science",
+    "chapter": "Acids, Bases and Salts",
+    "question": "What color changes does China rose (Gudh-hal) petal indicator produce in acidic and basic solutions respectively?",
+    "options": [
+      "Dark pink (magenta) in acids and Green in bases",
+      "Green in acids and Magenta in bases",
+      "Yellow in acids and Blue in bases",
+      "Colorless in both"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "China rose warm water extract turns dark pink (magenta) with acids and emerald green with bases."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Science",
+    "chapter": "Acids, Bases and Salts",
+    "question": "How is the painful swelling of an ant bite treated immediately at home?",
+    "options": [
+      "By applying lemon juice",
+      "By rubbing moist baking soda paste or calamine lotion (containing zinc carbonate) to neutralize formic acid",
+      "By applying vinegar",
+      "By rubbing salt crystals"
+    ],
+    "correctAnswer": 1,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "Calamine lotion (zinc carbonate) and baking soda are mild bases that chemically neutralize acidic formic venom."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Science",
+    "chapter": "Acids, Bases and Salts",
+    "question": "Why do farmers treat excessively acidic agricultural soil with quicklime (calcium oxide) or slaked lime (calcium hydroxide)?",
+    "options": [
+      "To kill earthworms",
+      "Quicklime and slaked lime are bases that neutralize excessive soil acidity, restoring optimal pH for crop roots",
+      "To paint the soil white",
+      "To add moisture"
+    ],
+    "correctAnswer": 1,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "Chemical fertilizers often acidify soil; adding agricultural lime (CaO / Ca(OH)2) neutralizes soil pH."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Science",
+    "chapter": "Acids, Bases and Salts",
+    "question": "If agricultural soil becomes too BASIC (alkaline), how is it treated by farmers?",
+    "options": [
+      "By adding slaked lime",
+      "By adding organic matter (compost/manure) which releases organic acids that neutralize alkaline bases",
+      "By adding baking soda",
+      "By adding soap powder"
+    ],
+    "correctAnswer": 1,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "Decomposing compost releases humic and fulvic organic acids that neutralize alkaline minerals in over-basic soils."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Science",
+    "chapter": "Acids, Bases and Salts",
+    "question": "Why is industrial factory waste strictly treated with basic chemicals before being discharged into rivers?",
+    "options": [
+      "To make river water sweet",
+      "Untreated industrial effluents contain strong acids that can kill fish and destroy aquatic ecosystems",
+      "To change the color of river water",
+      "To generate electricity in rivers"
+    ],
+    "correctAnswer": 1,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "Effluent neutralization prevents acidic runoff from plummeting river water pH, preserving aquatic biodiversity."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Science",
+    "chapter": "Acids, Bases and Salts",
+    "question": "What is Acid Rain, and what pollutants in the atmosphere cause it?",
+    "options": [
+      "Rain containing lemon juice",
+      "Rain that contains high levels of acids formed when sulfur dioxide, nitrogen dioxide, and CO2 pollutant gases dissolve in rain droplets",
+      "Rain during winter",
+      "Rain that has no water"
+    ],
+    "correctAnswer": 1,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "Gaseous SO2 and NO2 emissions react with atmospheric moisture to form sulfuric and nitric acids, falling as acid precipitation."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Science",
+    "chapter": "Acids, Bases and Salts",
+    "question": "Why is the historical white marble monument Taj Mahal turning yellowish and corroding over time (Marble Cancer)?",
+    "options": [
+      "Sunlight is bleaching it",
+      "Acid rain containing sulfuric acid reacts chemically with calcium carbonate marble, corroding and pitting the stone",
+      "Dust paints the marble yellow",
+      "River water splashes on the dome"
+    ],
+    "correctAnswer": 1,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "Sulfuric acid in acid rain reacts with CaCO3 marble to form soluble calcium sulfate: CaCO3 + H2SO4 → CaSO4 + H2O + CO2."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Science",
+    "chapter": "Acids, Bases and Salts",
+    "question": "When equal volumes of dilute hydrochloric acid and sodium hydroxide solution are mixed in a test tube, the test tube feels warm. Why?",
+    "options": [
+      "The test tube absorbs room heat",
+      "Neutralisation is an exothermic chemical reaction that releases heat energy into the surroundings",
+      "Hydrochloric acid boils instantly",
+      "Glass generates friction"
+    ],
+    "correctAnswer": 1,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "Neutralisation (H+ + OH- → H2O) is exothermic (enthalpy of neutralisation ~ -57.1 kJ/mol), raising the solution temperature."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Science",
+    "chapter": "Acids, Bases and Salts",
+    "question": "Which of the following substances will produce NO color change on both red and blue litmus papers?",
+    "options": [
+      "Dilute vinegar",
+      "Sodium hydroxide solution",
+      "Distilled water / Sodium chloride solution",
+      "Lemon juice"
+    ],
+    "correctAnswer": 2,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "Neutral substances (pure water, common salt solution, sugar syrup) are neither acidic nor basic and do not change litmus paper color."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Science",
+    "chapter": "Acids, Bases and Salts",
+    "question": "Which base is present in window cleaners that gives them a characteristic odor and removes grease?",
+    "options": [
+      "Ammonium hydroxide",
+      "Sodium chloride",
+      "Acetic acid",
+      "Calcium sulfate"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "Ammonium hydroxide (NH4OH) is a volatile mild alkaline cleaner effective at dissolving grease and glass grime."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Science",
+    "chapter": "Acids, Bases and Salts",
+    "question": "Which base is used in manufacturing white whitewash (lime water) for walls?",
+    "options": [
+      "Sodium hydroxide",
+      "Calcium hydroxide (Slaked lime)",
+      "Magnesium hydroxide",
+      "Potassium hydroxide"
+    ],
+    "correctAnswer": 1,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "Calcium hydroxide [Ca(OH)2], prepared by slaking quicklime with water, is the traditional chemical used in wall whitewashing."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Science",
+    "chapter": "Acids, Bases and Salts",
+    "question": "What is the chemical name and formula of common table salt formed by neutralizing hydrochloric acid with sodium hydroxide?",
+    "options": [
+      "Sodium chloride (NaCl)",
+      "Sodium carbonate (Na2CO3)",
+      "Potassium chloride (KCl)",
+      "Calcium chloride (CaCl2)"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "Reaction: HCl + NaOH → NaCl (Sodium chloride) + H2O."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Science",
+    "chapter": "Acids, Bases and Salts",
+    "question": "Why are pickles and acidic chutneys NEVER stored in metal containers like copper, brass, or aluminium?",
+    "options": [
+      "Metals absorb the liquid",
+      "Organic acids in food react with container metals to form toxic chemical salts and corrode the vessel",
+      "Pickles turn into ice",
+      "Metal makes pickles sweet"
+    ],
+    "correctAnswer": 1,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "Food acids corrode metals to yield potentially toxic heavy metal salts, which is why glass/ceramic jars are used."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Science",
+    "chapter": "Acids, Bases and Salts",
+    "question": "Which organic acid is present in spinach (palak) and tomatoes?",
+    "options": [
+      "Oxalic acid",
+      "Formic acid",
+      "Hydrochloric acid",
+      "Sulphuric acid"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "Spinach, tomatoes, and beets contain naturally occurring oxalic acid (dicarboxylic acid)."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Science",
+    "chapter": "Acids, Bases and Salts",
+    "question": "Which strong base is commonly known as 'Caustic Soda' and used in soap manufacturing?",
+    "options": [
+      "Sodium hydroxide (NaOH)",
+      "Calcium hydroxide",
+      "Magnesium hydroxide",
+      "Ammonium chloride"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "Sodium hydroxide (NaOH) is an alkali known industrially as caustic soda, used in saponification of fats."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Science",
+    "chapter": "Acids, Bases and Salts",
+    "question": "Read the following statements:\nAssertion (A): Distilled water does not change the color of red or blue litmus paper.\nReason (R): Distilled water is neutral with a pH of 7, containing equal concentrations of H+ and OH- ions.\nChoose the correct option:",
+    "options": [
+      "Both (A) and (R) are true, and (R) is the correct explanation of (A).",
+      "Both (A) and (R) are true, but (R) is NOT the correct explanation of (A).",
+      "(A) is true, but (R) is false.",
+      "(A) is false, but (R) is true."
+    ],
+    "correctAnswer": 0,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "Pure neutral water has autoionization balance [H+] = [OH-] = 10^-7 M, exerting zero color shift on litmus."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Science",
+    "chapter": "Acids, Bases and Salts",
+    "question": "Spot the IMPOSTER in the following group of acids based on whether they are ORGANIC (naturally occurring in plants/animals) or MINERAL acids:\nGroup: [Citric acid, Acetic acid, Tartaric acid, Hydrochloric acid]",
+    "options": [
+      "Citric acid",
+      "Acetic acid",
+      "Tartaric acid",
+      "Hydrochloric acid"
+    ],
+    "correctAnswer": 3,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "Hydrochloric acid is a strong MINERAL (inorganic) acid, whereas Citric, Acetic, and Tartaric acids are natural organic acids."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Science",
+    "chapter": "Acids, Bases and Salts",
+    "question": "A student is given three unlabelled test tubes containing: (1) Hydrochloric acid, (2) Sodium hydroxide, and (3) Sugar solution.\nShe has ONLY TURMERIC indicator paper. How can she uniquely identify all three solutions?",
+    "options": [
+      "Turmeric turns red ONLY in NaOH (base). The red paper then turns yellow again when mixed with HCl (acid), and shows no change in neutral sugar solution",
+      "Turmeric turns blue in acid",
+      "Turmeric turns green in all three",
+      "It is impossible with turmeric"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "Turmeric detects the base first (turns red). Adding the acid to the red paper neutralizes it back to yellow, while sugar causes no color change."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Science",
+    "chapter": "Acids, Bases and Salts",
+    "question": "Read the following statements:\nAssertion (A): Calamine lotion is applied to the skin during a wasp sting to get relief.\nReason (R): A wasp sting is basic/alkaline in nature, so applying acidic vinegar or lemon juice gives relief, whereas calamine is used for acidic ant stings.\nChoose the correct option:",
+    "options": [
+      "Both (A) and (R) are true, and (R) is the correct explanation of (A).",
+      "(A) is false, but (R) is true.",
+      "(A) is true, but (R) is false.",
+      "Both (A) and (R) are false."
+    ],
+    "correctAnswer": 1,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "Wasp venom is alkaline (treated with mild acid like vinegar). Bee and ant stings are acidic (treated with basic calamine/baking soda)."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Science",
+    "chapter": "Acids, Bases and Salts",
+    "question": "A drop of phenolphthalein indicator is added to 10 mL of NaOH in a flask (turns bright pink). Dilute HCl is added drop by drop with swirling until the pink color just disappears. What happens if ONE more drop of NaOH is added?",
+    "options": [
+      "The solution remains colorless forever",
+      "The pink color reappears immediately as the solution becomes slightly basic again",
+      "The flask explodes",
+      "The solution turns green"
+    ],
+    "correctAnswer": 1,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "Phenolphthalein is reversible: adding excess base raises pH above 8.2, transitioning the indicator back to its pink quinoid form."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Science",
+    "chapter": "Acids, Bases and Salts",
+    "question": "Read the following statements:\nStatement 1: All bases that are completely soluble in water are called alkalies.\nStatement 2: All alkalies are bases, but all bases are not alkalies.\nStatement 3: Pure solid dry baking soda powder turns dry blue litmus paper red immediately.\nWhich statements are TRUE?",
+    "options": [
+      "Statements 1 and 2 only",
+      "Statements 2 and 3 only",
+      "Statements 1 and 3 only",
+      "All Statements 1, 2, and 3"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "Statement 3 is false because dry indicators require aqueous moisture to ionize H+ or OH- ions for color transitions."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Science",
+    "chapter": "Acids, Bases and Salts",
+    "question": "Why is tooth enamel (composed of calcium hydroxyapatite) corroded when mouth pH falls below 5.5?",
+    "options": [
+      "Saliva turns into mercury",
+      "Calcium phosphate enamel reacts with bacterial metabolic acids to form soluble calcium salts, causing demineralization",
+      "Acids freeze the enamel",
+      "Teeth dissolve in water"
+    ],
+    "correctAnswer": 1,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "Enamel dissolves under acidic conditions (pH < 5.5) as basic phosphate ions protonate and leach out of the mineral matrix."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Science",
+    "chapter": "Acids, Bases and Salts",
+    "question": "Consider four solutions tested with indicators:\n- Solution P turns Blue litmus Red\n- Solution Q turns Red litmus Blue\n- Solution R gives Magenta with China rose\n- Solution S turns Turmeric reddish-brown\nWhich two solutions are ACIDS?",
+    "options": [
+      "P and Q",
+      "Q and S",
+      "P and R",
+      "R and S"
+    ],
+    "correctAnswer": 2,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "P turns blue litmus red (Acid). R turns China rose magenta (Acid). Q and S are Bases."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Science",
+    "chapter": "Acids, Bases and Salts",
+    "question": "Why is concentrated sulfuric acid NEVER diluted by pouring water directly into the acid?",
+    "options": [
+      "Water dissolves the glass beaker",
+      "The hydration reaction is intensely exothermic; pouring water onto concentrated acid causes localized steam explosions that splash corrosive acid outward",
+      "Water destroys the acid completely",
+      "Acid turns into ice"
+    ],
+    "correctAnswer": 1,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "Rule: Always add ACID to WATER slowly with stirring, allowing the large water heat capacity to absorb hydration enthalpy safely."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Science",
+    "chapter": "Acids, Bases and Salts",
+    "question": "What is the chemical composition of 'Lime water' used in school chemistry experiments?",
+    "options": [
+      "Lemon juice mixed with tap water",
+      "Clear aqueous supernatant solution of Calcium hydroxide [Ca(OH)2] in water",
+      "Sodium carbonate in water",
+      "Pure distilled water"
+    ],
+    "correctAnswer": 1,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "Lime water is the common chemical term for a saturated dilute aqueous solution of slaked lime, Ca(OH)2."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Science",
+    "chapter": "Acids, Bases and Salts",
+    "question": "Why does bubbling carbon dioxide gas through clear lime water turn it milky white?",
+    "options": [
+      "Carbon dioxide bleaches the water",
+      "CO2 reacts with Ca(OH)2 to precipitate insoluble fine white particles of Calcium Carbonate (CaCO3)",
+      "Lime water boils and makes steam",
+      "White foam of nitrogen forms"
+    ],
+    "correctAnswer": 1,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "Reaction: Ca(OH)2 + CO2 → CaCO3 (insoluble white precipitate) + H2O. This is the standard diagnostic test for CO2 gas."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Science",
+    "chapter": "Acids, Bases and Salts",
+    "question": "An unknown white powder X is tested:\n- It dissolves in water to form a bitter, slippery solution.\n- It turns red litmus paper blue.\n- When reacted with hydrochloric acid, it fizzes vigorously releasing a gas that turns lime water milky.\nIdentify powder X:",
+    "options": [
+      "Sodium hydroxide",
+      "Baking soda (Sodium hydrogen carbonate)",
+      "Common salt (NaCl)",
+      "Glucose powder"
+    ],
+    "correctAnswer": 1,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "Baking soda (NaHCO3) is basic (turns red litmus blue) and fizzes with HCl to release carbon dioxide gas: NaHCO3 + HCl → NaCl + H2O + CO2."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Science",
+    "chapter": "Physical and Chemical Changes",
+    "question": "A change in which only the physical properties (shape, size, state, color) of a substance change without forming any new substance is a:",
+    "options": [
+      "Chemical change",
+      "Physical change",
+      "Nuclear change",
+      "Biological mutation"
+    ],
+    "correctAnswer": 1,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "In a physical change, molecular composition remains identical; only state or morphology changes (e.g., melting of ice)."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Science",
+    "chapter": "Physical and Chemical Changes",
+    "question": "A change in which one or more completely NEW substances with different chemical properties are formed is called a:",
+    "options": [
+      "Physical change",
+      "Chemical change (Chemical reaction)",
+      "Reversible change",
+      "State transition"
+    ],
+    "correctAnswer": 1,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "Chemical changes involve breaking and reforming atomic bonds to create new chemical substances (e.g., rusting of iron, burning of wood)."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Science",
+    "chapter": "Physical and Chemical Changes",
+    "question": "Which of the following is a classic example of a CHEMICAL change?",
+    "options": [
+      "Melting of wax",
+      "Rusting of an iron nail",
+      "Tearing a sheet of paper",
+      "Boiling water into steam"
+    ],
+    "correctAnswer": 1,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "Rusting of iron forms hydrated iron(III) oxide (Fe2O3·xH2O), a totally new chemical substance that cannot be undone."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Science",
+    "chapter": "Physical and Chemical Changes",
+    "question": "When a magnesium ribbon is burned in air, it burns with a dazzling white flame to form a white powdery ash called:",
+    "options": [
+      "Magnesium chloride",
+      "Magnesium oxide (MgO)",
+      "Magnesium sulphate",
+      "Magnesium carbonate"
+    ],
+    "correctAnswer": 1,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "Combustion of magnesium: 2Mg + O2 → 2MgO (Magnesium oxide white ash)."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Science",
+    "chapter": "Physical and Chemical Changes",
+    "question": "When magnesium oxide ash is dissolved in water, it forms a new basic substance that turns red litmus blue called:",
+    "options": [
+      "Magnesium chloride",
+      "Magnesium hydroxide [Mg(OH)2]",
+      "Magnesium nitrate",
+      "Magnesium sulphate"
+    ],
+    "correctAnswer": 1,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "Reaction: MgO + H2O → Mg(OH)2 (Magnesium hydroxide), a metallic basic oxide in water."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Science",
+    "chapter": "Physical and Chemical Changes",
+    "question": "The process of depositing a thin protective layer of zinc metal on iron to prevent rusting is called:",
+    "options": [
+      "Crystallisation",
+      "Galvanisation",
+      "Neutralisation",
+      "Vulcanisation"
+    ],
+    "correctAnswer": 1,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "Galvanisation coats steel/iron with zinc, which oxidizes sacrificially to prevent moisture and oxygen from reaching the underlying iron."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Science",
+    "chapter": "Physical and Chemical Changes",
+    "question": "The process of obtaining large, pure geometric crystals of a substance from its saturated solution is called:",
+    "options": [
+      "Evaporation",
+      "Crystallisation",
+      "Sedimentation",
+      "Galvanisation"
+    ],
+    "correctAnswer": 1,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "Crystallisation is a physical purification technique where solute molecules precipitate into ordered crystal lattices."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Science",
+    "chapter": "Physical and Chemical Changes",
+    "question": "What two environmental factors are BOTH strictly necessary for the rusting of iron to occur?",
+    "options": [
+      "Oxygen and Moisture (Water)",
+      "Nitrogen and Sunlight",
+      "Carbon dioxide and Heat",
+      "Dry air and Oil"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "Rusting requires both oxygen (O2) and water/water vapour (H2O): 4Fe + 3O2 + 2xH2O → 2Fe2O3·xH2O."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Science",
+    "chapter": "Physical and Chemical Changes",
+    "question": "Stainless steel is made by mixing molten iron with carbon and which corrosion-resistant metals?",
+    "options": [
+      "Chromium, Nickel, and Manganese",
+      "Copper, Gold, and Silver",
+      "Lead and Tin",
+      "Zinc and Aluminium"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "Stainless steel is an alloy of iron with carbon, chromium (~18%), and nickel (~8%), forming a self-healing passive oxide film."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Science",
+    "chapter": "Physical and Chemical Changes",
+    "question": "Which of the following is a PHYSICAL change?",
+    "options": [
+      "Digestion of food",
+      "Stretching a rubber band",
+      "Burning of LPG cylinder gas",
+      "Curdling of milk"
+    ],
+    "correctAnswer": 1,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "Stretching a rubber band changes only its physical dimensions reversibly without altering its chemical molecular structure."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Science",
+    "chapter": "Physical and Chemical Changes",
+    "question": "When baking soda (sodium hydrogen carbonate) is mixed with vinegar (acetic acid), a brisk effervescence releases bubbles of:",
+    "options": [
+      "Oxygen gas",
+      "Carbon dioxide gas",
+      "Hydrogen gas",
+      "Nitrogen gas"
+    ],
+    "correctAnswer": 1,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "Acid-carbonate reaction releases carbon dioxide: CH3COOH + NaHCO3 → CH3COONa + H2O + CO2↑."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Science",
+    "chapter": "Physical and Chemical Changes",
+    "question": "Why does an iron gate painted with oil paint NOT rust easily in the rainy season?",
+    "options": [
+      "Paint makes the iron heavy",
+      "The paint coat forms a physical barrier preventing atmospheric oxygen and moisture from touching the iron surface",
+      "Paint absorbs all water",
+      "Paint turns iron into plastic"
+    ],
+    "correctAnswer": 1,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "Paint forms an impermeable hydrophobic seal that isolates iron from ambient moisture and atmospheric oxygen."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Science",
+    "chapter": "Physical and Chemical Changes",
+    "question": "When an iron nail is dipped into a blue copper sulphate solution, the solution turns light green and a brown coating deposits on the nail. Why?",
+    "options": [
+      "Iron nail dissolves into blue ink",
+      "Iron displaces copper from copper sulphate to form green Iron(II) sulphate (FeSO4) and deposits reddish-brown copper metal on the nail",
+      "Copper sulphate catches fire",
+      "The nail turns into gold"
+    ],
+    "correctAnswer": 1,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "Displacement reaction: Fe + CuSO4 (blue) → FeSO4 (green) + Cu (brown deposit)."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Science",
+    "chapter": "Physical and Chemical Changes",
+    "question": "Why does a freshly cut apple or brinjal turn brown when left exposed to air for 10 minutes?",
+    "options": [
+      "Dust settles on the surface",
+      "Polyphenol oxidase enzymes in fruit cells react with atmospheric oxygen to form brown melanin pigments (Chemical change)",
+      "The apple freezes",
+      "Sugar crystallizes into wood"
+    ],
+    "correctAnswer": 1,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "Enzymatic browning occurs when cellular polyphenol oxidase oxidizes phenolic compounds into dark pigments."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Science",
+    "chapter": "Physical and Chemical Changes",
+    "question": "Consider the burning of a wax candle:\nEvent 1: Melting of solid wax to liquid wax.\nEvent 2: Burning of wax vapour in the wick flame to form CO2 and water vapour.\nHow are Event 1 and Event 2 classified?",
+    "options": [
+      "Event 1 is Physical change; Event 2 is Chemical change",
+      "Event 1 is Chemical change; Event 2 is Physical change",
+      "Both are pure Physical changes",
+      "Both are pure Chemical changes"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "Phase change (melting) is a reversible physical change; combustion of hydrocarbons into CO2 and H2O is an irreversible chemical change."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Science",
+    "chapter": "Physical and Chemical Changes",
+    "question": "Why does rusting of iron ships and anchors happen significantly FASTER in seawater than in freshwater rivers?",
+    "options": [
+      "Seawater is colder",
+      "Seawater contains high concentrations of dissolved mineral salts (NaCl) which increase electrical conductivity and accelerate electrochemical corrosion",
+      "Fish eat iron",
+      "Seawater has zero oxygen"
+    ],
+    "correctAnswer": 1,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "Dissolved ionic electrolytes increase the conductivity of water, speeding up electrochemical oxidation of iron."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Science",
+    "chapter": "Physical and Chemical Changes",
+    "question": "Which of the following signs or observations indicates that a CHEMICAL CHANGE has taken place?",
+    "options": [
+      "Evolution of gas (bubbles / effervescence)",
+      "Production or absorption of heat and light",
+      "Permanent change in color or smell / Formation of a precipitate",
+      "All of these"
+    ],
+    "correctAnswer": 3,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "Chemical reactions are typically accompanied by enthalpy shifts, gas evolution, color changes, and precipitate formation."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Science",
+    "chapter": "Physical and Chemical Changes",
+    "question": "Why is the cutting of a wooden log into small pieces a physical change, but burning the wood a chemical change?",
+    "options": [
+      "Cutting changes only piece size (wood remains wood); burning converts cellulose into smoke, ash, and CO2 with new chemical identities",
+      "Cutting uses an iron axe",
+      "Burning wood is reversible",
+      "Cutting requires electricity"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "Subdivision leaves molecular structure unchanged (physical), whereas combustion rearranges carbon bonds into new gaseous products."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Science",
+    "chapter": "Physical and Chemical Changes",
+    "question": "How are pure blue copper sulphate crystals prepared by crystallization in a laboratory?",
+    "options": [
+      "By freezing copper water",
+      "By adding copper sulphate powder to boiling dilute sulfuric acid until saturation, filtering hot, and cooling undisturbed",
+      "By burning copper wire",
+      "By magnetic separation"
+    ],
+    "correctAnswer": 1,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "Slow cooling of a supersaturated solution allows pure solute molecules to crystallize into geometric rhombic crystals."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Science",
+    "chapter": "Physical and Chemical Changes",
+    "question": "Why does boiling water in a kettle produce steam, which condenses back to water on a cold lid, classified as a PHYSICAL change?",
+    "options": [
+      "No new substance is formed; steam and water are both chemically identical H2O molecules in different physical states",
+      "Steam has a new smell",
+      "Water changes into hydrogen gas",
+      "Boiling kills all molecules"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "Phase transitions (liquid ↔ gas ↔ solid) involve intermolecular spacing changes without altering covalent bond chemistry."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Science",
+    "chapter": "Physical and Chemical Changes",
+    "question": "What happens when quicklime (calcium oxide, CaO) is added to water in a container?",
+    "options": [
+      "The container freezes",
+      "It reacts vigorously with a hissing sound, releasing immense heat to form slaked lime [Ca(OH)2] (Exothermic chemical change)",
+      "It turns into liquid mercury",
+      "It forms carbon gas"
+    ],
+    "correctAnswer": 1,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "Slaking of lime: CaO + H2O → Ca(OH)2 + Heat. This is a vigorous, irreversible exothermic chemical synthesis."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Science",
+    "chapter": "Physical and Chemical Changes",
+    "question": "Why is the rusting of an iron object considered a slow chemical change?",
+    "options": [
+      "Iron reacts slowly over weeks with atmospheric oxygen and water to synthesize a new compound, hydrated iron oxide",
+      "Rusting happens only in winter",
+      "Iron stays unchanged under rust",
+      "Rust can be converted back to iron with soap"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "Slow surface redox oxidation progressively consumes elemental Fe into brittle crumbly rust (Fe2O3·xH2O)."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Science",
+    "chapter": "Physical and Chemical Changes",
+    "question": "Which of the following is an example of an IRREVERSIBLE physical change?",
+    "options": [
+      "Melting of butter",
+      "Breaking a glass tumbler",
+      "Freezing water to ice",
+      "Stretching a spring"
+    ],
+    "correctAnswer": 1,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "Shards of broken glass cannot be mechanically rejoined, but the material is chemically identical (irreversible physical change)."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Science",
+    "chapter": "Physical and Chemical Changes",
+    "question": "When a shiny metal spatula is held over a candle flame, black soot deposits on it. What is this soot?",
+    "options": [
+      "Burned metal",
+      "Unburnt elemental carbon particles produced by incomplete combustion of candle hydrocarbons (Chemical change)",
+      "Melted glass",
+      "Solid oxygen"
+    ],
+    "correctAnswer": 1,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "Incomplete combustion inside the candle flame zones deposits finely divided unoxidized amorphous carbon (soot)."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Science",
+    "chapter": "Physical and Chemical Changes",
+    "question": "Why is the curdling of milk into curd classified as a chemical change?",
+    "options": [
+      "Milk changes color to green",
+      "Lactobacillus bacteria alter the chemical structure of milk proteins and lactose into lactic acid, creating a new substance that cannot be converted back",
+      "Curd has zero mass",
+      "Curd can be turned back to milk by heating"
+    ],
+    "correctAnswer": 1,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "Lactic acid coagulation permanently alters casein protein matrices, making curdling irreversible and chemically distinct."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Science",
+    "chapter": "Physical and Chemical Changes",
+    "question": "Why is galvanised iron piping used extensively in underground water supply lines?",
+    "options": [
+      "Zinc makes water sweet",
+      "Zinc metal prevents iron pipes from coming in contact with moist underground soil and prevents rusting for decades",
+      "Zinc is transparent",
+      "Zinc generates hot water"
+    ],
+    "correctAnswer": 1,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "Zinc coating forms an impervious barrier and offers cathodic protection against subterranean corrosive water."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Science",
+    "chapter": "Physical and Chemical Changes",
+    "question": "Read the following statements:\nAssertion (A): Photosynthesis is a chemical change, while tearing paper is a physical change.\nReason (R): Photosynthesis synthesizes new glucose and oxygen molecules from CO2 and water, whereas tearing paper changes only dimensions without creating new substances.\nChoose the correct option:",
+    "options": [
+      "Both (A) and (R) are true, and (R) is the correct explanation of (A).",
+      "Both (A) and (R) are true, but (R) is NOT the correct explanation of (A).",
+      "(A) is true, but (R) is false.",
+      "(A) is false, but (R) is true."
+    ],
+    "correctAnswer": 0,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "The creation of distinct chemical compounds defines a chemical change; unchanged chemical composition defines a physical change."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Science",
+    "chapter": "Physical and Chemical Changes",
+    "question": "Spot the IMPOSTER in the following group of changes based on whether they are CHEMICAL or PHYSICAL:\nGroup: [Burning of LPG gas, Digestion of chapatis, Dissolution of sugar in water, Ripening of a green banana]",
+    "options": [
+      "Burning of LPG gas",
+      "Digestion of chapatis",
+      "Dissolution of sugar in water",
+      "Ripening of a green banana"
+    ],
+    "correctAnswer": 2,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "Dissolution of sugar in water is a reversible PHYSICAL change (sugar can be recovered by evaporating water). The other three are irreversible CHEMICAL changes."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Science",
+    "chapter": "Physical and Chemical Changes",
+    "question": "Three identical iron nails are placed in three sealed test tubes for one week:\n- Tube 1: Nail in dry air with anhydrous calcium chloride (drying agent).\n- Tube 2: Nail in boiled distilled water covered with a layer of oil (no air).\n- Tube 3: Nail half submerged in normal tap water exposed to air.\nIn which tube will the nail RUST?",
+    "options": [
+      "Tube 1 only",
+      "Tube 2 only",
+      "Tube 3 only",
+      "All three tubes"
+    ],
+    "correctAnswer": 2,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "Tube 1 lacks moisture; Tube 2 lacks oxygen. Only Tube 3 provides both simultaneous essentials (moisture + air) required for rusting."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Science",
+    "chapter": "Physical and Chemical Changes",
+    "question": "Read the following statements:\nAssertion (A): Rust and elemental iron are not the same chemical substance.\nReason (R): Rust is chemically hydrated iron(III) oxide (Fe2O3·xH2O) formed by the oxidation of iron in the presence of water and oxygen.\nChoose the correct option:",
+    "options": [
+      "Both (A) and (R) are true, and (R) is the correct explanation of (A).",
+      "Both (A) and (R) are true, but (R) is NOT the correct explanation of (A).",
+      "(A) is true, but (R) is false.",
+      "(A) is false, but (R) is true."
+    ],
+    "correctAnswer": 0,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "Elemental iron (Fe) undergoes valence oxidation from metallic 0 to Fe3+ forming iron oxide rust."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Science",
+    "chapter": "Physical and Chemical Changes",
+    "question": "When carbon dioxide gas is passed through clear lime water, it turns milky white due to precipitate P. When excess CO2 is continuously bubbled through the milky solution for 5 more minutes, the solution turns clear and transparent again due to compound Q. Identify P and Q:",
+    "options": [
+      "P = Calcium Carbonate (CaCO3); Q = Soluble Calcium Hydrogen Carbonate [Ca(HCO3)2]",
+      "P = Calcium Oxide; Q = Calcium Chloride",
+      "P = Calcium Sulfate; Q = Quicklime",
+      "P = Sodium Carbonate; Q = Salt"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "Initial reaction forms insoluble CaCO3 (milky). Excess CO2 converts it into soluble calcium bicarbonate Ca(HCO3)2 (clear solution)."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Science",
+    "chapter": "Physical and Chemical Changes",
+    "question": "Read the following statements:\nStatement 1: Explosion of a firework is a chemical change producing heat, light, sound, and gases.\nStatement 2: Crystallisation is a method used to obtain pure substances from impure solutions without chemical alteration.\nStatement 3: When ozone absorbs harmful ultraviolet rays, it breaks down into oxygen, which is a chemical change.\nWhich statements are TRUE?",
+    "options": [
+      "Statements 1 and 2 only",
+      "Statements 2 and 3 only",
+      "Statements 1 and 3 only",
+      "All Statements 1, 2, and 3"
+    ],
+    "correctAnswer": 3,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "All three statements accurately summarize classical physical and chemical reaction phenomena."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Science",
+    "chapter": "Physical and Chemical Changes",
+    "question": "Why does a piece of glowing charcoal continue to burn quietly without a tall yellow flame, while a candle burns with a bright yellow luminous flame?",
+    "options": [
+      "Charcoal has no carbon",
+      "A flame is produced ONLY when gaseous substances vaporize during burning; candle wax vaporizes readily to form a flame, whereas charcoal does not vaporize and glows",
+      "Candle wax contains water",
+      "Charcoal absorbs air"
+    ],
+    "correctAnswer": 1,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "Flame formation requires vaporized gas combustion. Non-volatile solids undergo surface incandescent glow without flames."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Science",
+    "chapter": "Physical and Chemical Changes",
+    "question": "An experimenter tests four chemical scenarios:\n1. Vinegar + Baking soda → Evolution of gas that extinguishes a lighted match\n2. Copper sulphate + Iron nail → Color change from blue to green\n3. Magnesium ribbon burned in oxygen → Dazzling white flame and ash\n4. Heating ice in a beaker → Liquid water at 0°C\nWhich scenario is the ONLY physical change?",
+    "options": [
+      "Scenario 1",
+      "Scenario 2",
+      "Scenario 3",
+      "Scenario 4"
+    ],
+    "correctAnswer": 3,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "Scenario 4 is melting of ice (state phase change with zero chemical restructuring), while 1, 2, and 3 are chemical reactions."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Science",
+    "chapter": "Physical and Chemical Changes",
+    "question": "Why does galvanized zinc protect iron even after the zinc coating gets scratched or chipped away exposing bare iron?",
+    "options": [
+      "Zinc acts as a magnet",
+      "Zinc is electrochemically more reactive than iron, so zinc oxidizes sacrificially first, preventing the exposed iron from rusting (Cathodic protection)",
+      "Iron becomes non-metallic",
+      "Scratches seal with air"
+    ],
+    "correctAnswer": 1,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "Due to higher standard oxidation potential, zinc corrodes preferentially (sacrificial anode) to protect exposed steel."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Science",
+    "chapter": "Physical and Chemical Changes",
+    "question": "When dilute hydrochloric acid is poured on zinc granules in a flask, bubbles of gas evolve with a pop sound when tested with a burning match. What chemical equation represents this change?",
+    "options": [
+      "Zn + 2HCl → ZnCl2 + H2↑",
+      "Zn + HCl → ZnH + Cl2",
+      "Zn + O2 → ZnO",
+      "Zn + H2O → Zn(OH)2"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "Single displacement of hydrogen by zinc produces zinc chloride and inflammable hydrogen gas (pop sound)."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Science",
+    "chapter": "Physical and Chemical Changes",
+    "question": "Why is the preservation of sliced fruits by dipping in dilute ascorbic acid (Vitamin C) or lemon juice effective at preventing browning?",
+    "options": [
+      "Ascorbic acid freezes fruit cells",
+      "Vitamin C is an antioxidant that consumes oxygen before polyphenol oxidase enzymes can oxidize the fruit tannins",
+      "Lemon juice paints fruit yellow",
+      "Sugar dissolves the peel"
+    ],
+    "correctAnswer": 1,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "Antioxidant ascorbic acid reduces intermediate quinones back to diphenols, arresting oxidative enzymatic browning."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Science",
+    "chapter": "Physical and Chemical Changes",
+    "question": "How can you chemically prove that the gas released during fermentation of sugar by yeast is Carbon Dioxide?",
+    "options": [
+      "By smelling it",
+      "By bubbling the gas through freshly prepared clear lime water; it turns milky white due to insoluble calcium carbonate",
+      "By weighing it on a scale",
+      "By freezing it"
+    ],
+    "correctAnswer": 1,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "Reaction of CO2 with Ca(OH)2 to precipitate white CaCO3 is the definitive chemical confirmation for carbon dioxide."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Science",
+    "chapter": "Physical and Chemical Changes",
+    "question": "Why does an inflated rubber balloon shrink in size when placed inside a cold refrigerator for an hour?",
+    "options": [
+      "Air inside escapes through microscopic holes permanently",
+      "Cooling causes the gas molecules inside to lose kinetic energy and contract in volume (Reversible physical change)",
+      "Rubber dissolves in the cold",
+      "Air turns into ice crystals"
+    ],
+    "correctAnswer": 1,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "Thermal contraction of trapped gas molecules decreases internal volume without altering chemical composition (physical change)."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Science",
+    "chapter": "Physical and Chemical Changes",
+    "question": "What is the chemical name and color of the coating formed on silver ornaments when they tarnish over time in polluted air?",
+    "options": [
+      "Black Silver Sulphide (Ag2S)",
+      "Green Copper Carbonate",
+      "Reddish Iron Oxide",
+      "White Silver Chloride"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "Silver reacts slowly with trace hydrogen sulphide (H2S) in air to form a black surface tarnish of silver sulphide (Ag2S)."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Science",
+    "chapter": "Respiration in Organisms",
+    "question": "The biological process of breakdown of food (glucose) in cellular organelles with the release of energy is called:",
+    "options": [
+      "Digestion",
+      "Cellular Respiration",
+      "Circulation",
+      "Transpiration"
+    ],
+    "correctAnswer": 1,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "Cellular respiration is the biochemical oxidation of glucose inside mitochondria to synthesize adenosine triphosphate (ATP) energy."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Science",
+    "chapter": "Respiration in Organisms",
+    "question": "Respiration that takes place in the presence of oxygen is known as:",
+    "options": [
+      "Anaerobic respiration",
+      "Aerobic respiration",
+      "Fermentation",
+      "Cutaneous respiration"
+    ],
+    "correctAnswer": 1,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "Aerobic respiration oxidizes glucose completely into CO2, H2O, and 36–38 ATP in the presence of molecular oxygen."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Science",
+    "chapter": "Respiration in Organisms",
+    "question": "Respiration that takes place in the absence of oxygen is known as:",
+    "options": [
+      "Aerobic respiration",
+      "Anaerobic respiration",
+      "Inhalation",
+      "Exhalation"
+    ],
+    "correctAnswer": 1,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "Anaerobic respiration breaks down glucose incompletely without oxygen, yielding alcohol or lactic acid and less energy."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Science",
+    "chapter": "Respiration in Organisms",
+    "question": "Single-celled yeast organisms respire anaerobically to produce carbon dioxide and which commercial product used in brewing?",
+    "options": [
+      "Lactic acid",
+      "Alcohol (Ethanol)",
+      "Hydrochloric acid",
+      "Acetic acid"
+    ],
+    "correctAnswer": 1,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "Yeast fermentation: Glucose —(in absence of O2)→ Alcohol (Ethanol) + Carbon dioxide + Energy."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Science",
+    "chapter": "Respiration in Organisms",
+    "question": "The large muscular sheet that forms the floor of the chest cavity and assists in breathing is the:",
+    "options": [
+      "Trachea",
+      "Diaphragm",
+      "Bronchus",
+      "Pharynx"
+    ],
+    "correctAnswer": 1,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "The dome-shaped muscular diaphragm moves down during inhalation and curves up during exhalation to alter chest cavity volume."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Science",
+    "chapter": "Respiration in Organisms",
+    "question": "The normal average breathing rate of an adult human at complete rest is:",
+    "options": [
+      "5–8 times per minute",
+      "15–18 times per minute",
+      "40–50 times per minute",
+      "72–80 times per minute"
+    ],
+    "correctAnswer": 1,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "A healthy adult at rest breathes in and out approximately 15 to 18 times per minute (respiratory rate)."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Science",
+    "chapter": "Respiration in Organisms",
+    "question": "How do insects like cockroaches breathe atmospheric air?",
+    "options": [
+      "Through gills",
+      "Through small lateral openings called spiracles and a network of air tubes called tracheae",
+      "Through their mouth",
+      "Through their eyes"
+    ],
+    "correctAnswer": 1,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "Insects possess lateral valve-like spiracles that lead into branching tracheal tubes delivering oxygen directly to tissues."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Science",
+    "chapter": "Respiration in Organisms",
+    "question": "Earthworms absorb oxygen and breathe through their:",
+    "options": [
+      "Lungs",
+      "Moist and slimy skin (Cutaneous respiration)",
+      "Nostrils",
+      "Spiracles"
+    ],
+    "correctAnswer": 1,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "Gases diffuse directly through the earthworm's moist, vascularised skin into its circulatory capillaries."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Science",
+    "chapter": "Respiration in Organisms",
+    "question": "Frogs have a dual breathing mechanism: on land they breathe with lungs, while in water they breathe through their:",
+    "options": [
+      "Gills",
+      "Moist, vascular skin",
+      "Mouth tongue",
+      "Ears"
+    ],
+    "correctAnswer": 1,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "Frogs utilize pulmonary alveolar lungs on land and cutaneous gas diffusion across their thin, mucous skin underwater."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Science",
+    "chapter": "Respiration in Organisms",
+    "question": "Fish take in water through the mouth and force it past specialized vascular respiratory organs called:",
+    "options": [
+      "Spiracles",
+      "Gills",
+      "Lungs",
+      "Tracheae"
+    ],
+    "correctAnswer": 1,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "Feathery gill lamellae maximize surface contact with water currents to extract dissolved oxygen."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Science",
+    "chapter": "Respiration in Organisms",
+    "question": "Leaves of plants exchange respiratory oxygen and carbon dioxide through tiny surface pores called:",
+    "options": [
+      "Stomata",
+      "Villi",
+      "Lenticels",
+      "Root hairs"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "Microscopic stomatal apertures regulate gas diffusion for both cellular respiration and photosynthesis."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Science",
+    "chapter": "Respiration in Organisms",
+    "question": "What happens during Inhalation (breathing in) in humans?",
+    "options": [
+      "Ribs move down and inward, diaphragm moves up",
+      "Ribs move up and outward, diaphragm moves down (flattens), expanding chest cavity volume",
+      "Lungs shrink",
+      "Air is forced out"
+    ],
+    "correctAnswer": 1,
+    "difficulty": "EASY",
+    "damage": 150,
+    "explanation": "Diaphragm descent and intercostal muscle contraction expand thoracic volume, lowering intrapulmonary pressure to draw air inward."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Science",
+    "chapter": "Respiration in Organisms",
+    "question": "Why do athletes experience painful muscle cramps after intense heavy sprinting?",
+    "options": [
+      "Bones fracture due to speed",
+      "Inadequate oxygen supply forces muscle cells to respire anaerobically, causing accumulation of lactic acid",
+      "Muscles run out of blood",
+      "Body temperature drops to zero"
+    ],
+    "correctAnswer": 1,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "Anaerobic glycolysis converts glucose into lactic acid under oxygen debt: Glucose → Lactic acid + Energy."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Science",
+    "chapter": "Respiration in Organisms",
+    "question": "How does taking a hot water bath or a vigorous massage provide fast relief from muscle cramps?",
+    "options": [
+      "It numbs the skin",
+      "It improves blood circulation, increasing oxygen delivery to muscle cells to break down accumulated lactic acid into CO2 and water",
+      "It freezes lactic acid",
+      "It removes muscles from bones"
+    ],
+    "correctAnswer": 1,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "Vasodilation boosts microvascular perfusion, supplying oxygen to metabolize and clear accumulated lactic acid."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Science",
+    "chapter": "Respiration in Organisms",
+    "question": "What are the chemical end-products of AEROBIC respiration in human cells?",
+    "options": [
+      "Carbon dioxide, Water, and large energy (ATP)",
+      "Alcohol and carbon dioxide",
+      "Lactic acid and oxygen",
+      "Glucose and nitrogen"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "C6H12O6 + 6O2 → 6CO2 + 6H2O + Energy (ATP)."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Science",
+    "chapter": "Respiration in Organisms",
+    "question": "Why does our breathing rate increase dramatically from 15 to 25+ breaths per minute during brisk running or cycling?",
+    "options": [
+      "To cool our clothes",
+      "Working muscles consume immense energy, requiring extra oxygen to break down glucose rapidly and expel excess CO2",
+      "To produce sound",
+      "Because lungs shrink in size"
+    ],
+    "correctAnswer": 1,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "Hyperventilation satisfies heightened metabolic oxygen demands while clearing excess respiratory carbon dioxide."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Science",
+    "chapter": "Respiration in Organisms",
+    "question": "When you exhale air from your lungs through a straw into a test tube containing clear lime water, the lime water turns milky. This proves that:",
+    "options": [
+      "Exhaled air contains pure nitrogen",
+      "Exhaled air contains a significant amount of Carbon Dioxide gas produced during respiration",
+      "Saliva turns lime water white",
+      "Lungs produce chalk"
+    ],
+    "correctAnswer": 1,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "Exhaled air contains ~4.4% CO2, which reacts with Ca(OH)2 in lime water to precipitate white calcium carbonate."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Science",
+    "chapter": "Respiration in Organisms",
+    "question": "What is the primary difference between Breathing (Ventilation) and Cellular Respiration?",
+    "options": [
+      "Breathing is a physical mechanical process of gas exchange, whereas cellular respiration is a biochemical intracellular breakdown of food releasing energy",
+      "Breathing happens only in plants",
+      "Respiration is only done by fish",
+      "Both are identical terms"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "Breathing is macro-level physical gas transport; respiration is enzymatic catabolism within cellular mitochondria."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Science",
+    "chapter": "Respiration in Organisms",
+    "question": "Why does a potted plant die if its soil is continuously waterlogged and flooded with standing water for weeks?",
+    "options": [
+      "Water is toxic to roots",
+      "Flooding displaces air from soil pores, depriving root cells of the oxygen needed for cellular respiration",
+      "Roots turn into fish",
+      "Leaves absorb too much nitrogen"
+    ],
+    "correctAnswer": 1,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "Plant roots require aerated soil; continuous waterlogging induces root anoxia, tissue necrosis, and plant death."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Science",
+    "chapter": "Respiration in Organisms",
+    "question": "Why does exhaling on a glass mirror on a chilly winter morning make the glass misty and moist?",
+    "options": [
+      "Mirror melts slightly",
+      "Exhaled air is rich in warm water vapour that condenses into microscopic liquid droplets on the cold mirror surface",
+      "Lungs produce oil",
+      "Glass attracts carbon gas"
+    ],
+    "correctAnswer": 1,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "Warm, humid exhaled alveolar air cools below its dew point against cold glass, condensing into fine moisture fog."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Science",
+    "chapter": "Respiration in Organisms",
+    "question": "How do tree bark and woody stems carry out respiratory gas exchange without green leaves?",
+    "options": [
+      "Through lenticels (small specialized porous breathing openings in the bark)",
+      "Through fruit seeds",
+      "Through thorns",
+      "Woody stems do not respire"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "Lenticels are raised, porous cork tissue fissures in woody periderm that permit gas diffusion to living internal cambium."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Science",
+    "chapter": "Respiration in Organisms",
+    "question": "Why do whales and dolphins come to the surface of the ocean at regular intervals?",
+    "options": [
+      "To sunbathe",
+      "They are mammals with lungs (not gills) and must breathe atmospheric air through blowholes on top of their heads",
+      "To lay eggs on shore",
+      "To drink freshwater"
+    ],
+    "correctAnswer": 1,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "Cetaceans possess mammalian lungs and must surface periodically to exhaust spent air and inhale fresh oxygen."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Science",
+    "chapter": "Respiration in Organisms",
+    "question": "In a bell-jar model of human lungs, what anatomical structures are represented by: (i) The Y-shaped glass tube, (ii) The two attached rubber balloons, and (iii) The rubber sheet at the bottom?",
+    "options": [
+      "(i) Trachea and Bronchi, (ii) Lungs, (iii) Diaphragm",
+      "(i) Ribs, (ii) Heart, (iii) Stomach",
+      "(i) Esophagus, (ii) Kidneys, (iii) Liver",
+      "(i) Blood vessels, (ii) Brain, (iii) Spine"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "Y-tube = trachea & primary bronchi; internal balloons = elastic lungs; flexible rubber base = muscular diaphragm."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Science",
+    "chapter": "Respiration in Organisms",
+    "question": "Why do we yawn when we are drowsy, sleepy, or bored?",
+    "options": [
+      "To show anger",
+      "Our breathing rate slows down, causing oxygen levels to drop; yawning takes a deep intake of air to restore oxygen supply to the brain",
+      "To stretch jaw bones",
+      "To expel all saliva"
+    ],
+    "correctAnswer": 1,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "Shallow respiration during drowsiness increases blood pCO2, triggering a reflex deep yawn to boost cerebral oxygenation."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Science",
+    "chapter": "Respiration in Organisms",
+    "question": "Which respiratory pigment present inside human red blood cells binds reversibly with oxygen to transport it throughout the body?",
+    "options": [
+      "Chlorophyll",
+      "Hemoglobin",
+      "Myoglobin",
+      "Bilirubin"
+    ],
+    "correctAnswer": 1,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "Iron-containing hemoglobin tetramers bind four O2 molecules to form oxyhemoglobin, transporting oxygen from alveoli to somatic tissues."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Science",
+    "chapter": "Respiration in Organisms",
+    "question": "What is the percentage composition of oxygen and carbon dioxide in Inhaled Air versus Exhaled Air in humans?",
+    "options": [
+      "Inhaled: 21% O2, 0.04% CO2; Exhaled: 16.4% O2, 4.4% CO2",
+      "Inhaled: 100% O2, 0% CO2; Exhaled: 0% O2, 100% CO2",
+      "Inhaled: 50% O2, 50% CO2; Exhaled: 10% O2, 90% CO2",
+      "Inhaled: 0.04% O2, 21% CO2; Exhaled: 4.4% O2, 16.4% CO2"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "Ambient air (~21% O2, 0.04% CO2) exchanges gases across alveoli, resulting in expired air (~16.4% O2, 4.4% CO2)."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Science",
+    "chapter": "Respiration in Organisms",
+    "question": "Read the following statements:\nAssertion (A): Fermentation by yeast in bread dough causes the bread to rise and become spongy and porous.\nReason (R): Anaerobic respiration of yeast produces carbon dioxide gas bubbles that expand in the dough during baking.\nChoose the correct option:",
+    "options": [
+      "Both (A) and (R) are true, and (R) is the correct explanation of (A).",
+      "Both (A) and (R) are true, but (R) is NOT the correct explanation of (A).",
+      "(A) is true, but (R) is false.",
+      "(A) is false, but (R) is true."
+    ],
+    "correctAnswer": 0,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "CO2 gas pockets produced by anaerobic fermentative glycolysis get trapped in the gluten matrix, creating the porous airy loaf texture."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Science",
+    "chapter": "Respiration in Organisms",
+    "question": "Spot the IMPOSTER in the following group of animals based on their organ of respiration:\nGroup: [Cockroach, Grasshopper, Housefly, Earthworm]",
+    "options": [
+      "Cockroach",
+      "Grasshopper",
+      "Housefly",
+      "Earthworm"
+    ],
+    "correctAnswer": 3,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "Cockroach, grasshopper, and housefly breathe via TRACHEAL tubes and spiracles, whereas Earthworm breathes across MOIST SKIN (cutaneous)."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Science",
+    "chapter": "Respiration in Organisms",
+    "question": "Consider the following three chemical pathways of glucose breakdown:\nPathway 1: Glucose —(in presence of O2)→ Carbon dioxide + Water + Energy\nPathway 2: Glucose —(in yeast, absence of O2)→ Ethanol + Carbon dioxide + Energy\nPathway 3: Glucose —(in muscle cells, lack of O2)→ Lactic acid + Energy\nWhich pathway yields the MAXIMUM amount of energy per glucose molecule?",
+    "options": [
+      "Pathway 1 (Aerobic respiration)",
+      "Pathway 2",
+      "Pathway 3",
+      "All 3 yield identical energy"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "Aerobic respiration yields ~36–38 ATP per glucose molecule via complete oxidation, compared to only 2 ATP in anaerobic pathways."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Science",
+    "chapter": "Respiration in Organisms",
+    "question": "Read the following statements:\nAssertion (A): Underwater divers cannot breathe directly in sea water without an oxygen tank even though water has oxygen.\nReason (R): Human lungs are anatomical adaptations designed strictly to extract gaseous oxygen from air and cannot absorb dissolved oxygen from liquid water like gills.\nChoose the correct option:",
+    "options": [
+      "Both (A) and (R) are true, and (R) is the correct explanation of (A).",
+      "Both (A) and (R) are true, but (R) is NOT the correct explanation of (A).",
+      "(A) is true, but (R) is false.",
+      "(A) is false, but (R) is true."
+    ],
+    "correctAnswer": 0,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "Human pulmonary alveoli require a gaseous interface to maintain surfactant stability; flooding with water halts alveolar gas diffusion."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Science",
+    "chapter": "Respiration in Organisms",
+    "question": "A student sets up three test tubes with water and a pH indicator (neutral): \n- Tube A: Contains only a freshwater snail\n- Tube B: Contains only a water weed (Hydrilla)\n- Tube C: Contains BOTH a snail and a water weed\nAll are kept under bright sunlight for 2 hours. In which test tube will the concentration of Carbon Dioxide be HIGHEST?",
+    "options": [
+      "Tube A (Snail respires continuously, releasing CO2 without any plant to absorb it)",
+      "Tube B",
+      "Tube C",
+      "Equal in all three"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "The snail in Tube A continuously produces respiratory CO2. In B and C, photosynthesizing Hydrilla consumes CO2 rapidly in sunlight."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Science",
+    "chapter": "Respiration in Organisms",
+    "question": "Read the following statements:\nStatement 1: Cellular respiration occurs in every single living cell of all plants and animals.\nStatement 2: Inhalation is an active process caused by diaphragm contraction, while quiet exhalation is primarily passive relaxation.\nStatement 3: Plants perform respiration only at night when there is no sunlight.\nWhich statements are TRUE?",
+    "options": [
+      "Statements 1 and 2 only",
+      "Statements 2 and 3 only",
+      "Statements 1 and 3 only",
+      "All Statements 1, 2, and 3"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "Statement 3 is false because plants respire continuously 24/7 day and night to maintain baseline cellular metabolic life."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Science",
+    "chapter": "Respiration in Organisms",
+    "question": "Why does a person trapped in a sealed airtight elevator room eventually feel suffocated?",
+    "options": [
+      "Gravity stops",
+      "Continuous human respiration depletes available oxygen while concentrations of toxic carbon dioxide rise steadily",
+      "Air turns into water",
+      "The walls absorb oxygen"
+    ],
+    "correctAnswer": 1,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "Metabolic gas consumption in a closed air volume steadily lowers ambient pO2 and drives pCO2 past hypercapnic toxic limits."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Science",
+    "chapter": "Respiration in Organisms",
+    "question": "How does counter-current flow of water and blood across fish gill lamellae maximize oxygen uptake?",
+    "options": [
+      "Water and blood flow in the SAME direction",
+      "Water and blood flow in OPPOSITE directions, maintaining a favorable oxygen concentration gradient along the entire lamellar length",
+      "Blood stays stationary",
+      "Water turns into gas inside gills"
+    ],
+    "correctAnswer": 1,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "Countercurrent exchange ensures blood of increasing oxygen saturation encounters water of even higher oxygen partial pressure, achieving up to 85% oxygen extraction."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Science",
+    "chapter": "Respiration in Organisms",
+    "question": "A person breathing at high altitude (4,000 m) has their blood tested. Over 2 weeks, their Red Blood Cell (RBC) count and hemoglobin concentration increase significantly. Why?",
+    "options": [
+      "RBCs multiply to make blood heavier",
+      "The body acclimatizes to low atmospheric oxygen pressure by producing extra erythropoietin to synthesize more hemoglobin carriers",
+      "Cold air turns into blood",
+      "UV radiation creates RBCs"
+    ],
+    "correctAnswer": 1,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "Hypoxia stimulates renal erythropoietin secretion, inducing compensatory polycythemia to enhance arterial oxygen-carrying capacity."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Science",
+    "chapter": "Respiration in Organisms",
+    "question": "During rigorous exercise, what happens to the internal diameter of the bronchioles inside our lungs?",
+    "options": [
+      "They constrict tightly to block air",
+      "Sympathetic stimulation causes bronchodilation (widening of air tubes) to decrease airflow resistance and maximize ventilation",
+      "They fill with water",
+      "They disappear"
+    ],
+    "correctAnswer": 1,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "Sympathetic beta-2 adrenergic stimulation relaxes bronchial smooth muscle, dilating airways to handle high minute ventilation."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Science",
+    "chapter": "Respiration in Organisms",
+    "question": "Why is cigarette smoking strictly hazardous to the human respiratory system?",
+    "options": [
+      "Smoke paralyzes and destroys protective respiratory cilia, deposits carcinogenic tar in alveoli, and causes chronic emphysema and cancer",
+      "Smoke makes teeth too white",
+      "Smoke cools the lungs down to freezing",
+      "Smoke turns blood into water"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "Toxic combustion compounds cause ciliastasis, alveolar septal wall breakdown (emphysema), and mutagenic cellular transformation."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Science",
+    "chapter": "Respiration in Organisms",
+    "question": "Consider three animals and their gas exchange adaptations:\n- Animal X: Tracheal network with spiracles\n- Animal Y: Cutaneous moisture diffusion\n- Animal Z: Counter-current vascular lamellae\nIdentify X, Y, and Z:",
+    "options": [
+      "X = Cockroach, Y = Earthworm, Z = Rohu Fish",
+      "X = Fish, Y = Cockroach, Z = Frog",
+      "X = Earthworm, Y = Fish, Z = Cockroach",
+      "X = Bird, Y = Snake, Z = Whale"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "HARD",
+    "damage": 350,
+    "explanation": "Cockroach (insect tracheae), Earthworm (cutaneous epidermis), and Fish (branchial counter-current gill lamellae)."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Science",
+    "chapter": "Respiration in Organisms",
+    "question": "Why do we sneeze violently when irritating foreign dust particles enter our nasal cavity?",
+    "options": [
+      "To cool the nostrils",
+      "Sneezing is a defensive reflex that expels foreign dust and irritants from the nasal passage with high-speed air flow",
+      "To make lungs smaller",
+      "To stop breathing"
+    ],
+    "correctAnswer": 1,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "Irritation of sensory nasal mucosa triggers a rapid involuntary convulsive expulsion of air to clear the airway."
+  },
+  {
+    "classLevel": 7,
+    "subject": "Science",
+    "chapter": "Respiration in Organisms",
+    "question": "What happens to the movement of the rib cage during vigorous exhalation (breathing out)?",
+    "options": [
+      "Ribs move down and inward while the diaphragm arches upward to decrease thoracic volume",
+      "Ribs move upward and expand outward",
+      "Ribs freeze permanently",
+      "Diaphragm flattens completely"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "MEDIUM",
+    "damage": 250,
+    "explanation": "Internal intercostal muscles pull the rib cage down and inward, compressing the lungs to expel air."
+  }
+]
