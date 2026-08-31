@@ -3,6 +3,7 @@ import SubjectSelectionClient, { ClassData, SubjectInfo, ChapterInfo } from './S
 
 // Force dynamic rendering so latest seeded questions and chapters always appear immediately
 export const dynamic = 'force-dynamic';
+export const revalidate = 0;
 
 function sortChaptersSequential(chapters: ChapterInfo[]): ChapterInfo[] {
   return [...chapters].sort((a, b) => {
@@ -16,29 +17,14 @@ function sortChaptersSequential(chapters: ChapterInfo[]): ChapterInfo[] {
 // Canonical grade tier ordering
 const ALL_GRADES = ['Class 6', 'Class 7', 'Class 8', 'Class 9', 'Class 10', 'Class 11', 'Class 12'];
 
-// Default subjects for secondary vs senior secondary
-const DEFAULT_SECONDARY_SUBJECTS = ['Science', 'Mathematics', 'English', 'Hindi Grammar', 'GK', 'Social Studies'];
-const DEFAULT_COMMERCE_SUBJECTS = ['Accountancy', 'Business Studies', 'Economics', 'English', 'GK'];
-
 export default async function SubjectSelectionPage() {
-  // 1. Fetch distinct classes and subjects with live question counts via prisma.question.groupBy
-  const classSubjectGroups = await prisma.question.groupBy({
-    by: ['class', 'subject'],
-    _count: { id: true },
-    orderBy: [{ class: 'asc' }, { subject: 'asc' }],
+  // Query the database directly as requested, getting all class/subject/chapter/difficulty groupings
+  const rawCurriculum = await prisma.question.groupBy({
+    by: ['class', 'subject', 'chapter', 'difficulty'],
+    _count: { _all: true },
   });
 
-  // 2. Fetch chapter counts grouped by class, subject, and chapter
-  const chapterGroups = await prisma.question.groupBy({
-    by: ['class', 'subject', 'chapter'],
-    where: {
-      chapter: { not: null },
-    },
-    _count: { id: true },
-    orderBy: { chapter: 'asc' },
-  });
-
-  // 3. Organize into a structured nested map
+  // Organize into a structured nested map without relying on any static mock lists
   const gradeMap: Record<
     string,
     {
@@ -47,7 +33,7 @@ export default async function SubjectSelectionPage() {
         string,
         {
           count: number;
-          chapters: ChapterInfo[];
+          chapters: Record<string, ChapterInfo>;
         }
       >;
     }
@@ -61,8 +47,8 @@ export default async function SubjectSelectionPage() {
     };
   });
 
-  // Populate actual question counts from classSubjectGroups
-  classSubjectGroups.forEach((group) => {
+  // Populate data straight from the raw query
+  rawCurriculum.forEach((group) => {
     const rawClass = group.class || '';
     const numMatch = rawClass.match(/\d+/);
     const canonicalGrade = numMatch ? `Class ${numMatch[0]}` : rawClass;
@@ -71,50 +57,55 @@ export default async function SubjectSelectionPage() {
       gradeMap[canonicalGrade] = { totalQuestions: 0, subjectMap: {} };
     }
 
-    const count = group._count.id;
+    const count = group._count._all;
     gradeMap[canonicalGrade].totalQuestions += count;
 
     if (!gradeMap[canonicalGrade].subjectMap[group.subject]) {
       gradeMap[canonicalGrade].subjectMap[group.subject] = {
-        count,
-        chapters: [],
+        count: 0,
+        chapters: {},
       };
-    } else {
-      gradeMap[canonicalGrade].subjectMap[group.subject].count += count;
+    }
+    
+    // Add to subject total count
+    gradeMap[canonicalGrade].subjectMap[group.subject].count += count;
+
+    // Handle chapter breakdown if present
+    if (group.chapter) {
+      const chaptersMap = gradeMap[canonicalGrade].subjectMap[group.subject].chapters;
+      if (!chaptersMap[group.chapter]) {
+        chaptersMap[group.chapter] = {
+          name: group.chapter,
+          count: 0,
+          easy: 0,
+          medium: 0,
+          hard: 0,
+        };
+      }
+      
+      chaptersMap[group.chapter].count += count;
+      
+      // Map difficulty
+      const diff = group.difficulty?.toLowerCase();
+      if (diff === 'easy') chaptersMap[group.chapter].easy += count;
+      else if (diff === 'medium') chaptersMap[group.chapter].medium += count;
+      else if (diff === 'hard') chaptersMap[group.chapter].hard += count;
     }
   });
 
-  // Populate chapter breakdowns from chapterGroups
-  chapterGroups.forEach((chGroup) => {
-    if (!chGroup.chapter) return;
-    const rawClass = chGroup.class || '';
-    const numMatch = rawClass.match(/\d+/);
-    const canonicalGrade = numMatch ? `Class ${numMatch[0]}` : rawClass;
-
-    if (gradeMap[canonicalGrade]?.subjectMap[chGroup.subject]) {
-      gradeMap[canonicalGrade].subjectMap[chGroup.subject].chapters.push({
-        name: chGroup.chapter,
-        count: chGroup._count.id,
-      });
-    }
-  });
-
-  // 4. Build final serialized ClassData array
+  // Build final serialized ClassData array
   const classesData: ClassData[] = ALL_GRADES.map((grade) => {
     const entry = gradeMap[grade];
-    const isCommerce = grade === 'Class 11' || grade === 'Class 12';
-    const fallbackSubjects = isCommerce ? DEFAULT_COMMERCE_SUBJECTS : DEFAULT_SECONDARY_SUBJECTS;
 
-    // Merge DB subjects with fallback list
-    const presentSubjectNames = Object.keys(entry.subjectMap);
-    const allSubjectNames = Array.from(new Set([...presentSubjectNames, ...fallbackSubjects]));
+    // Read subjects directly from the database map - NO static fallback mock lists
+    const dbSubjects = Object.keys(entry.subjectMap);
 
-    const subjects: SubjectInfo[] = allSubjectNames.map((subjName) => {
+    const subjects: SubjectInfo[] = dbSubjects.map((subjName) => {
       const dbSubj = entry.subjectMap[subjName];
-      const chapters = dbSubj ? sortChaptersSequential(dbSubj.chapters) : [];
+      const chapters = dbSubj ? sortChaptersSequential(Object.values(dbSubj.chapters)) : [];
       return {
         name: subjName,
-        count: dbSubj?.count || 0,
+        count: dbSubj.count,
         chapters,
       };
     });

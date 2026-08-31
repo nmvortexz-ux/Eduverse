@@ -91,30 +91,7 @@ function IconArrowRight({ className = 'w-4 h-4' }: { className?: string }) {
   );
 }
 
-// ─── Class Toggle Options ──────────────────────────────────────────────────────
-const classes = ['Class 6', 'Class 7', 'Class 8', 'Class 9', 'Class 10', 'Class 11', 'Class 12'];
-
-// ─── Subject card data with accent colors and icon components ─────────────────
-const defaultSubjects = [
-  { id: 'science',  label: 'Science',       accent: '#10B981', icon: <IconFlask /> },
-  { id: 'math',     label: 'Mathematics',   accent: '#F43F5E', icon: <IconCalculator /> },
-  { id: 'english',  label: 'English',       accent: '#F59E0B', icon: <IconBookOpen /> },
-  { id: 'hindi',    label: 'Hindi Grammar', accent: '#A855F7', icon: <IconLanguages /> },
-  { id: 'gk',       label: 'GK',            accent: '#3B82F6', icon: <IconGlobe /> },
-  { id: 'social',   label: 'Social Science',accent: '#14B8A6', icon: <IconLandmark /> },
-];
-
-const commerceSubjects = [
-  { id: 'accountancy', label: 'Accountancy',      accent: '#3B82F6', icon: <IconLedger /> },
-  { id: 'business',    label: 'Business Studies',  accent: '#F97316', icon: <IconBriefcase /> },
-  { id: 'economics',   label: 'Economics',         accent: '#10B981', icon: <IconTrendingUp /> },
-  { id: 'english',     label: 'English',           accent: '#F59E0B', icon: <IconBookOpen /> },
-  { id: 'gk',          label: 'GK',                accent: '#A855F7', icon: <IconGlobe /> },
-];
-
 export default function HomePage() {
-  const [selectedClass, setSelectedClass] = useState('Class 7');
-
   // Live stats from DB
   const [platformStats, setPlatformStats] = useState<{
     totalClasses: number;
@@ -130,9 +107,6 @@ export default function HomePage() {
       })
       .catch(() => {});
   }, []);
-
-  const isCommerceClass = selectedClass === 'Class 11' || selectedClass === 'Class 12';
-  const activeSubjects = isCommerceClass ? commerceSubjects : defaultSubjects;
 
   return (
     <div className="min-h-screen text-slate-100 bg-[#0b1329]">
@@ -169,92 +143,35 @@ export default function HomePage() {
           </div>
         </section>
 
-        {/* ── Class Selection & Subject Cards Grid ── */}
-        <section className="space-y-6">
-          <div className="flex flex-col gap-4">
-            <div className="flex flex-col sm:flex-row sm:items-center justify-between gap-3">
+        {/* ── Go To Dynamic Curriculum Arena ── */}
+        <section className="py-8">
+          <div className="bg-gradient-to-br from-slate-900 via-[#0b1329] to-slate-900 border border-slate-800 rounded-3xl p-8 sm:p-12 text-center shadow-2xl relative overflow-hidden">
+            {/* Background Glows */}
+            <div className="absolute -top-24 -right-24 w-64 h-64 bg-emerald-500/10 blur-[100px] rounded-full pointer-events-none" />
+            <div className="absolute -bottom-24 -left-24 w-64 h-64 bg-purple-500/10 blur-[100px] rounded-full pointer-events-none" />
+            
+            <div className="relative z-10 flex flex-col items-center gap-6">
+              <div className="w-16 h-16 rounded-2xl bg-slate-800/80 border border-slate-700 flex items-center justify-center text-[#00df9a] shadow-inner mb-2">
+                <IconBarChart className="w-8 h-8" />
+              </div>
+              
               <div>
-                <div className="flex items-center gap-3">
-                  <h2 className="text-xl font-bold text-white tracking-tight">Select Your Subject</h2>
-                  {isCommerceClass && (
-                    <span className="text-[10px] font-semibold px-3 py-1 rounded-full bg-blue-500/10 text-blue-400 border border-blue-500/20 uppercase tracking-wider">
-                      Commerce Stream
-                    </span>
-                  )}
-                </div>
-                <p className="text-xs font-medium text-slate-500 mt-1">
-                  Click any subject card to configure &amp; start your quiz immediately.
+                <h2 className="text-2xl sm:text-3xl font-extrabold text-white tracking-tight mb-2">
+                  Ready to start practicing?
+                </h2>
+                <p className="text-sm sm:text-base text-slate-400 max-w-xl mx-auto">
+                  Access the fully dynamic Curriculum Arena for Class 6 to 12. Complete with subject filtering, chapter selection, difficulty breakdowns, and high-stakes Boss Fights.
                 </p>
               </div>
-            </div>
 
-            {/* Class Toggle Pills — Full-width scrollable row for Class 6–12 */}
-            <div className="w-full overflow-x-auto pb-1">
-              <div className="flex items-center gap-1.5 bg-slate-900/80 p-1 rounded-xl border border-slate-800/50 w-max">
-                {classes.map((cls) => {
-                  const isSelected = selectedClass === cls;
-                  return (
-                    <button
-                      key={cls}
-                      id={`class-toggle-${cls.replace(' ', '-').toLowerCase()}`}
-                      onClick={() => setSelectedClass(cls)}
-                      className={`text-xs font-semibold py-2 px-4 rounded-lg transition-all duration-200 cursor-pointer whitespace-nowrap ${
-                        isSelected
-                          ? 'bg-[#00df9a]/10 text-[#00df9a] border border-[#00df9a]/30'
-                          : 'bg-transparent text-slate-400 border border-transparent hover:bg-slate-800 hover:text-slate-200'
-                      }`}
-                      aria-pressed={isSelected}
-                      aria-label={`Filter by ${cls}`}
-                    >
-                      {cls}
-                    </button>
-                  );
-                })}
-              </div>
-            </div>
-          </div>
-
-          {/* Subject Cards Grid */}
-          <div className="grid grid-cols-2 sm:grid-cols-3 gap-4">
-            {activeSubjects.map((s) => (
               <Link
-                key={s.id}
-                href={`/configure?class=${encodeURIComponent(selectedClass)}&subject=${encodeURIComponent(s.label)}`}
-                id={`subject-card-${s.id}`}
-                className="rounded-2xl p-6 flex flex-col items-center text-center gap-4 transition-all duration-300 hover:-translate-y-1 hover:shadow-2xl hover:border-slate-600 bg-slate-900/60 backdrop-blur-sm border border-slate-800 group relative overflow-hidden"
-                aria-label={`Practice ${s.label} for ${selectedClass}`}
+                href="/select"
+                className="mt-4 bg-[#00df9a] hover:bg-emerald-400 text-[#0b1329] text-base font-black py-4 px-10 rounded-2xl transition-all hover:scale-105 active:scale-95 shadow-[0_0_40px_-10px_rgba(0,223,154,0.5)] flex items-center gap-3"
               >
-                {/* Accent top border */}
-                <div className="absolute top-0 left-0 right-0 h-[2px]" style={{ background: s.accent }} />
-                
-                {/* Subtle radial glow on hover */}
-                <div
-                  className="absolute top-0 left-1/2 -translate-x-1/2 w-32 h-32 rounded-full blur-3xl pointer-events-none opacity-0 group-hover:opacity-20 transition-opacity duration-500"
-                  style={{ background: s.accent }}
-                />
-
-                <div
-                  className="w-14 h-14 rounded-xl flex items-center justify-center group-hover:scale-105 transition-transform duration-300 relative z-10"
-                  style={{ background: `${s.accent}10`, color: s.accent, border: `1px solid ${s.accent}25` }}
-                >
-                  {s.icon}
-                </div>
-                <div className="relative z-10">
-                  <h3 className="text-base font-bold text-slate-100 leading-tight tracking-tight">
-                    {s.label}
-                  </h3>
-                  <p className="text-[10px] font-medium text-slate-500 mt-1 uppercase tracking-widest">
-                    {selectedClass}
-                  </p>
-                </div>
-                <span
-                  className="relative z-10 text-xs font-semibold py-2 px-5 rounded-lg border border-slate-700 text-slate-400 transition-all duration-300 group-hover:text-white group-hover:border-slate-500 group-hover:bg-white/5 inline-flex items-center gap-1.5"
-                >
-                  Start Quiz
-                  <IconArrowRight className="w-3.5 h-3.5 group-hover:translate-x-0.5 transition-transform duration-300" />
-                </span>
+                Enter Curriculum Arena
+                <IconArrowRight className="w-5 h-5" />
               </Link>
-            ))}
+            </div>
           </div>
         </section>
 
