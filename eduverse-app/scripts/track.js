@@ -1,7 +1,7 @@
 import fs from 'fs';
 import path from 'path';
+import { neon } from '@neondatabase/serverless';
 
-// Load .env manually FIRST
 try {
   const envPath = path.resolve(process.cwd(), '.env');
   if (fs.existsSync(envPath)) {
@@ -24,17 +24,23 @@ try {
   console.warn('Warning loading .env file:', e);
 }
 
-import { PrismaClient } from '@prisma/client';
-const prisma = new PrismaClient();
-
 async function checkCount() {
   try {
-    const count = await prisma.question.count();
-    console.log(`\n📊 Live Database Count: ${count} Questions\n`);
+    const sql = neon(process.env.DATABASE_URL);
+    const totalResult = await sql`SELECT COUNT(*) as total FROM "Question";`;
+    const breakdown = await sql`
+      SELECT "class", "subject", COUNT(*) as count 
+      FROM "Question" 
+      GROUP BY "class", "subject" 
+      ORDER BY "class", "subject";
+    `;
+
+    console.log('\n═══════════════════════════════════════════════════════════════');
+    console.log(`📊 Total Database Count: ${totalResult[0].total} Questions`);
+    console.log('═══════════════════════════════════════════════════════════════\n');
+    console.table(breakdown);
   } catch (error) {
     console.error("Error fetching count:", error);
-  } finally {
-    await prisma.$disconnect();
   }
 }
 
