@@ -542,27 +542,6 @@ export default function SubjectSelectionClient({
           })}
         </motion.div>
 
-        {/* Admin Ingestion Portal Callout */}
-        <div className="rounded-3xl bg-gradient-to-r from-slate-900 via-purple-950/30 to-slate-900 border border-purple-900/40 p-6 sm:p-8 flex flex-col md:flex-row items-center justify-between gap-6 backdrop-blur-xl">
-          <div className="flex items-center gap-4">
-            <div className="w-12 h-12 rounded-2xl bg-purple-500/20 border border-purple-500/40 flex items-center justify-center text-purple-300 shrink-0">
-              <Sparkles className="w-6 h-6 animate-pulse" />
-            </div>
-            <div>
-              <h3 className="text-lg font-bold text-white">Need to ingest more NCERT batches?</h3>
-              <p className="text-xs text-slate-400 mt-1 max-w-xl">
-                Use the high-speed Admin Ingestion Portal with real-time Prisma batch transactions to seed JSON question files in seconds.
-              </p>
-            </div>
-          </div>
-          <Link
-            href="/admin"
-            className="px-6 py-3 rounded-xl text-xs font-extrabold uppercase tracking-wider text-white bg-purple-600 hover:bg-purple-500 shadow-lg shadow-purple-900/30 transition-all shrink-0 flex items-center gap-2"
-          >
-            Launch Ingestion Portal
-            <ChevronRight className="w-4 h-4" />
-          </Link>
-        </div>
       </main>
     </div>
   );
