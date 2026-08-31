@@ -10,6 +10,17 @@ function sortChaptersSequential(chapters) {
   });
 }
 
+function normalizeSubjectFilter(subject) {
+  if (!subject) return undefined;
+  if (/social/i.test(subject)) {
+    return { in: ['Social Science', 'Social Studies'] };
+  }
+  if (/math/i.test(subject)) {
+    return { in: ['Mathematics', 'Math'] };
+  }
+  return subject;
+}
+
 export async function GET(request) {
   try {
     const url = request.url ? new URL(request.url) : null;
@@ -36,7 +47,7 @@ export async function GET(request) {
     // Fetch distinct chapters filtered strictly by class AND subject
     const where = { chapter: { not: null } };
     if (className) where.class = className;
-    if (subject) where.subject = subject;
+    if (subject) where.subject = normalizeSubjectFilter(subject);
 
     const chapterGroups = await prisma.question.groupBy({
       by: ['chapter'],

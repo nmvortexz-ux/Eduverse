@@ -10,6 +10,17 @@ function sortChaptersSequential(chapters) {
   });
 }
 
+function normalizeSubjectFilter(subject) {
+  if (!subject) return undefined;
+  if (/social/i.test(subject)) {
+    return { in: ['Social Science', 'Social Studies'] };
+  }
+  if (/math/i.test(subject)) {
+    return { in: ['Mathematics', 'Math'] };
+  }
+  return subject;
+}
+
 export async function GET(request) {
   try {
     const { searchParams } = new URL(request.url);
@@ -20,7 +31,7 @@ export async function GET(request) {
 
     const where = {};
     if (className) where.class = className;
-    if (subject) where.subject = subject;
+    if (subject) where.subject = normalizeSubjectFilter(subject);
     if (chapter) where.chapter = chapter;
 
     const queryOptions = {
@@ -51,7 +62,7 @@ export async function GET(request) {
       by: ['chapter'],
       where: {
         class: className || undefined,
-        subject: subject || undefined,
+        subject: normalizeSubjectFilter(subject),
         chapter: { not: null }
       }
     });
