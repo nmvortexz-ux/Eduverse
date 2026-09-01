@@ -11,6 +11,9 @@ export default function Navbar() {
   const { user, isSignedIn } = useUser();
   const [mobileMenuOpen, setMobileMenuOpen] = useState(false);
 
+  const IconMenu = ({ className }: { className?: string }) => <svg className={className} xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round"><line x1="4" x2="20" y1="12" y2="12"/><line x1="4" x2="20" y1="6" y2="6"/><line x1="4" x2="20" y1="18" y2="18"/></svg>;
+  const IconX = ({ className }: { className?: string }) => <svg className={className} xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round"><path d="M18 6 6 18"/><path d="m6 6 12 12"/></svg>;
+
   const navItems = [
     { label: 'Home', href: '/' },
     { label: 'Dashboard', href: '/dashboard' },
@@ -76,10 +79,10 @@ export default function Navbar() {
           {/* Mobile Hamburger Button */}
           <button
             onClick={() => setMobileMenuOpen(!mobileMenuOpen)}
-            className="md:hidden p-2 rounded-md text-slate-400 hover:text-white transition-colors cursor-pointer"
+            className="md:hidden p-2 min-h-[44px] min-w-[44px] flex items-center justify-center rounded-md text-slate-400 hover:text-white transition-colors cursor-pointer"
             aria-label="Toggle navigation menu"
           >
-            <span className="text-base">{mobileMenuOpen ? '✕' : '☰'}</span>
+            {mobileMenuOpen ? <IconX className="w-6 h-6" /> : <IconMenu className="w-6 h-6" />}
           </button>
         </div>
       </div>
@@ -95,7 +98,7 @@ export default function Navbar() {
                   key={item.href}
                   href={item.href}
                   onClick={() => setMobileMenuOpen(false)}
-                  className={`flex items-center justify-center p-3 rounded-lg text-sm font-semibold transition-colors ${
+                  className={`flex items-center justify-center min-h-[44px] p-3 rounded-lg text-sm font-semibold transition-colors ${
                     isActive
                       ? 'bg-slate-800/80 text-[#00df9a]'
                       : 'text-slate-400 hover:bg-slate-800/50 hover:text-white'

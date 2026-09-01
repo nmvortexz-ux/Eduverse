@@ -44,6 +44,13 @@ function getJsonFiles(dirPath) {
   return results;
 }
 
+function normalizeDifficulty(diff) {
+  const str = String(diff || '').trim().toUpperCase();
+  if (str.includes('EASY')) return 'Easy';
+  if (str.includes('HARD') || str.includes('HIGH')) return 'Hard';
+  return 'Medium';
+}
+
 async function seedFile(filePath) {
   console.log(`\n📂 Reading file: ${path.relative(process.cwd(), filePath)}`);
 
@@ -69,18 +76,34 @@ async function seedFile(filePath) {
 
   for (let i = 0; i < questionsArray.length; i++) {
     const q = questionsArray[i];
-    const cleanText = (q.text || '').trim();
+    const cleanText = (q.text || q.question || '').trim();
 
     if (!cleanText) {
       skippedCount++;
       continue;
     }
 
+    const classLevel = q.classLevel
+      ? `Class ${q.classLevel}`
+      : q.class
+      ? String(q.class).startsWith('Class')
+        ? q.class
+        : `Class ${q.class}`
+      : 'Class 7';
+
+    const subject = (q.subject || 'Science').trim();
+    const chapter = q.chapter ? String(q.chapter).trim() : null;
+    const difficulty = normalizeDifficulty(q.difficulty);
+    const explanation = (q.explanation || 'Refer to official NCERT textbook.').trim();
+
     try {
       // Check duplicate
       const existing = await prisma.question.findFirst({
-        where: { text: cleanText },
-        select: { id: true }
+        where: {
+          text: cleanText,
+          class: classLevel,
+        },
+        select: { id: true },
       });
 
       if (existing) {
@@ -92,10 +115,22 @@ async function seedFile(filePath) {
       let formattedOptions = [];
       if (Array.isArray(q.options)) {
         if (typeof q.options[0] === 'string') {
-          const correctVal = (q.correctAnswer || '').trim();
-          formattedOptions = q.options.map((optStr) => ({
-            text: optStr.trim(),
-            isCorrect: optStr.trim() === correctVal,
+          const optStrings = q.options.map((o) => String(o).trim());
+          let correctIdx = -1;
+
+          if (typeof q.correctAnswer === 'number' && q.correctAnswer >= 0 && q.correctAnswer < optStrings.length) {
+            correctIdx = q.correctAnswer;
+          } else if (typeof q.correctAnswer === 'string') {
+            const trimmedAns = q.correctAnswer.trim();
+            correctIdx = optStrings.findIndex((o) => o === trimmedAns);
+            if (correctIdx === -1 && /^[0-3]$/.test(trimmedAns)) {
+              correctIdx = parseInt(trimmedAns, 10);
+            }
+          }
+
+          formattedOptions = optStrings.map((text, idx) => ({
+            text,
+            isCorrect: idx === correctIdx,
           }));
         } else if (typeof q.options[0] === 'object') {
           formattedOptions = q.options.map((optObj) => ({
@@ -108,11 +143,11 @@ async function seedFile(filePath) {
       await prisma.question.create({
         data: {
           text: cleanText,
-          class: q.class || 'Class 11',
-          subject: q.subject || 'Accountancy',
-          chapter: q.chapter || null,
-          difficulty: q.difficulty || 'Medium',
-          explanation: q.explanation || 'According to the official NCERT textbook.',
+          class: classLevel,
+          subject,
+          chapter,
+          difficulty,
+          explanation,
           options: {
             create: formattedOptions,
           },
@@ -149,18 +184,23 @@ async function main() {
       process.exit(1);
     }
   } else {
-    const dataCommerceDir = path.resolve(process.cwd(), 'data/commerce');
-    const dataDir = path.resolve(process.cwd(), 'data');
+    // Default search paths
+    const pathsToSearch = [
+      path.resolve(process.cwd(), '../class 6'),
+      path.resolve(process.cwd(), '../class 7'),
+      path.resolve(process.cwd(), 'data/commerce'),
+      path.resolve(process.cwd(), 'data'),
+    ];
 
-    if (fs.existsSync(dataCommerceDir)) {
-      targetFiles = targetFiles.concat(getJsonFiles(dataCommerceDir));
-    } else if (fs.existsSync(dataDir)) {
-      targetFiles = targetFiles.concat(getJsonFiles(dataDir));
+    for (const p of pathsToSearch) {
+      if (fs.existsSync(p)) {
+        targetFiles = targetFiles.concat(getJsonFiles(p));
+      }
     }
   }
 
   if (targetFiles.length === 0) {
-    console.log('⚠️ No JSON question files found in data/ or data/commerce/.');
+    console.log('⚠️ No JSON question files found.');
     return;
   }
 

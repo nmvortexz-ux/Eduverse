@@ -558,24 +558,24 @@ function QuizContent() {
           <button
             onClick={goPrev}
             disabled={currentIndex === 0}
-            className="px-4 py-2 rounded-lg text-sm font-semibold flex items-center gap-2 transition-colors text-slate-300 bg-slate-800 hover:bg-slate-700 disabled:opacity-30 disabled:hover:bg-slate-800"
+            className="px-4 py-3 min-h-[44px] rounded-lg text-sm font-semibold flex items-center gap-2 transition-colors text-slate-300 bg-slate-800 hover:bg-slate-700 disabled:opacity-30 disabled:hover:bg-slate-800"
           >
             <IconArrowLeft className="w-4 h-4" />
-            Previous
+            <span className="hidden sm:inline">Previous</span>
           </button>
 
           <button
             onClick={() => setShowPaletteDrawer(!showPaletteDrawer)}
-            className="px-4 py-2 rounded-lg text-sm font-semibold hidden sm:flex items-center gap-2 transition-colors text-slate-300 bg-slate-900 border border-slate-700 hover:bg-slate-800"
+            className="px-4 py-3 min-h-[44px] rounded-lg text-sm font-semibold flex items-center gap-2 transition-colors text-slate-300 bg-slate-900 border border-slate-700 hover:bg-slate-800"
           >
             <IconGrid className="w-4 h-4" />
-            Palette ({answeredCount}/{totalQuestions})
+            <span className="hidden sm:inline">Palette ({answeredCount}/{totalQuestions})</span>
           </button>
 
           {currentIndex === totalQuestions - 1 ? (
             <button
               onClick={() => setShowSubmitModal(true)}
-              className="px-6 py-2 rounded-lg text-sm font-semibold flex items-center gap-2 transition-colors bg-emerald-600 text-white hover:bg-emerald-500"
+              className="px-6 py-3 min-h-[44px] rounded-lg text-sm font-semibold flex items-center gap-2 transition-colors bg-emerald-600 text-white hover:bg-emerald-500"
             >
               Submit
               <IconCheck className="w-4 h-4" />
@@ -583,7 +583,7 @@ function QuizContent() {
           ) : (
             <button
               onClick={goNext}
-              className="px-6 py-2 rounded-lg text-sm font-semibold flex items-center gap-2 transition-colors bg-emerald-600 text-white hover:bg-emerald-500"
+              className="px-6 py-3 min-h-[44px] rounded-lg text-sm font-semibold flex items-center gap-2 transition-colors bg-emerald-600 text-white hover:bg-emerald-500"
             >
               Next
               <IconArrowRight className="w-4 h-4" />
@@ -616,13 +616,13 @@ function QuizContent() {
               <div className="flex flex-col sm:flex-row items-center gap-3 pt-2">
                 <button
                   onClick={handleStartFresh}
-                  className="w-full px-4 py-2.5 rounded-lg text-sm font-semibold bg-slate-800 text-slate-300 hover:bg-slate-700 hover:text-white transition-colors"
+                  className="w-full px-4 py-3 min-h-[44px] rounded-lg text-sm font-semibold bg-slate-800 text-slate-300 hover:bg-slate-700 hover:text-white transition-colors"
                 >
                   Start Fresh
                 </button>
                 <button
                   onClick={handleResumeSession}
-                  className="w-full px-4 py-2.5 rounded-lg text-sm font-semibold bg-emerald-600 text-white hover:bg-emerald-500 transition-colors"
+                  className="w-full px-4 py-3 min-h-[44px] rounded-lg text-sm font-semibold bg-emerald-600 text-white hover:bg-emerald-500 transition-colors"
                 >
                   Resume Attempt
                 </button>
@@ -671,13 +671,13 @@ function QuizContent() {
               <div className="flex flex-col sm:flex-row items-center gap-3 pt-2">
                 <button
                   onClick={() => setShowSubmitModal(false)}
-                  className="w-full px-4 py-2.5 rounded-lg text-sm font-semibold bg-slate-800 text-slate-300 hover:bg-slate-700 transition-colors"
+                  className="w-full px-4 py-3 min-h-[44px] rounded-lg text-sm font-semibold bg-slate-800 text-slate-300 hover:bg-slate-700 transition-colors"
                 >
                   Go Back
                 </button>
                 <button
                   onClick={() => handleSubmit()}
-                  className="w-full px-4 py-2.5 rounded-lg text-sm font-semibold bg-emerald-600 text-white hover:bg-emerald-500 transition-colors"
+                  className="w-full px-4 py-3 min-h-[44px] rounded-lg text-sm font-semibold bg-emerald-600 text-white hover:bg-emerald-500 transition-colors"
                 >
                   Confirm Submit
                 </button>
@@ -718,7 +718,7 @@ function ErrorScreen({ message, onBack }: { message: string; onBack: () => void 
       </p>
       <button 
         onClick={onBack} 
-        className="px-6 py-2.5 rounded-lg text-sm font-semibold bg-slate-800 text-slate-300 hover:bg-slate-700 transition-colors flex items-center gap-2"
+        className="px-6 py-3 min-h-[44px] rounded-lg text-sm font-semibold bg-slate-800 text-slate-300 hover:bg-slate-700 transition-colors flex items-center gap-2"
       >
         <IconArrowLeft className="w-4 h-4" />
         Go Back

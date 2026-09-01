@@ -182,7 +182,7 @@ function ConfigureContent() {
               <span className="flex items-center justify-center w-6 h-6 rounded-full bg-slate-800 text-xs text-slate-300">1</span>
               Select Difficulty
             </h2>
-            <div className="grid grid-cols-2 sm:grid-cols-3 gap-3">
+            <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-3">
               {difficulties.map((d) => {
                 const isSelected = difficulty === d.key;
                 return (
@@ -344,7 +344,7 @@ function ConfigureContent() {
 
             <button
               onClick={() => router.back()}
-              className="text-sm font-medium text-slate-400 hover:text-slate-200 transition-colors flex items-center gap-1.5"
+              className="text-sm font-medium text-slate-400 hover:text-slate-200 transition-colors flex items-center justify-center gap-1.5 min-h-[44px] py-3 px-4"
             >
               &larr; Back to Subject Selection
             </button>

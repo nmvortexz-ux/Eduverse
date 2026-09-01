@@ -39,6 +39,28 @@ async function checkCount() {
     console.log(`📊 Total Database Count: ${totalResult[0].total} Questions`);
     console.log('═══════════════════════════════════════════════════════════════\n');
     console.table(breakdown);
+
+    console.log('\n═══════════════════════════════════════════════════════════════');
+    console.log('🔍 Class 6 & 7 Social Science Chapter Breakdown');
+    console.log('═══════════════════════════════════════════════════════════════\n');
+    const sstBreakdown = await sql`
+      SELECT "class", "subject", "chapter", COUNT(*) as count 
+      FROM "Question" 
+      WHERE "class" IN ('Class 6', 'Class 7') AND "subject" ILIKE '%social%'
+      GROUP BY "class", "subject", "chapter" 
+      ORDER BY "class", "chapter";
+    `;
+    console.table(sstBreakdown);
+
+    console.log('\n📝 Sample Questions from Class 6 & 7 Social Science:');
+    const samples = await sql`
+      SELECT "class", "subject", "chapter", "text" 
+      FROM "Question" 
+      WHERE "class" IN ('Class 6', 'Class 7') AND "subject" ILIKE '%social%'
+      LIMIT 3;
+    `;
+    console.log(samples);
+
   } catch (error) {
     console.error("Error fetching count:", error);
   }

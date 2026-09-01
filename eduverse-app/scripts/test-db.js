@@ -56,7 +56,8 @@ async function seed() {
 
   const targetRoots = [
     { classLevel: 6, dir: path.resolve(__dirname, '../../class 6/cross_subject') },
-    { classLevel: 7, dir: path.resolve(__dirname, '../../class 7/cross_subject') }
+    { classLevel: 7, dir: path.resolve(__dirname, '../../class 7/cross_subject') },
+    { classLevel: 11, dir: path.resolve(__dirname, '../../class 11/cross_subject') }
   ];
 
   let totalInserted = 0;

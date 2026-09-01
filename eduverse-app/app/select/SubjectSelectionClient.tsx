@@ -382,7 +382,7 @@ export default function SubjectSelectionClient({
                         <select
                           value={selectedChapter}
                           onChange={(e) => handleSelectChapter(subject.name, e.target.value)}
-                          className="w-full appearance-none bg-slate-900/80 border border-slate-800 hover:border-slate-700 rounded-lg px-3 py-2.5 text-xs text-slate-300 font-medium focus:ring-1 focus:ring-slate-600 focus:border-slate-600 focus:outline-none pr-8 cursor-pointer truncate transition-colors"
+                          className="w-full appearance-none bg-slate-900/80 border border-slate-800 hover:border-slate-700 rounded-lg px-3 py-3 text-xs text-slate-300 font-medium focus:ring-1 focus:ring-slate-600 focus:border-slate-600 focus:outline-none pr-8 cursor-pointer truncate transition-colors min-h-[44px]"
                         >
                           <option value="All Chapters">
                             All Chapters ({subject.count} Questions)
@@ -403,7 +403,7 @@ export default function SubjectSelectionClient({
                 <div className="pt-6 mt-4 border-t border-slate-800/80 flex items-center">
                   <button
                     onClick={() => handleStartQuiz(subject.name)}
-                    className="w-full py-2.5 px-4 rounded-xl font-semibold text-sm text-slate-900 bg-slate-100 hover:bg-white transition-colors flex items-center justify-center gap-2 cursor-pointer"
+                    className="w-full py-3 min-h-[44px] px-4 rounded-xl font-semibold text-sm text-slate-900 bg-slate-100 hover:bg-white transition-colors flex items-center justify-center gap-2 cursor-pointer"
                   >
                     <span>Start Practice</span>
                     <ChevronRight className="w-4 h-4" />
