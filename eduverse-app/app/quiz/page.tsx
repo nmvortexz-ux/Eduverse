@@ -66,11 +66,12 @@ function QuizContent() {
 
   const cls        = searchParams.get('class')      ?? 'Class 9';
   const subject    = searchParams.get('subject')    ?? 'Science';
+  const chapter    = searchParams.get('chapter');
   const difficulty = searchParams.get('difficulty') ?? 'Mixed';
   const mode       = searchParams.get('mode')       ?? 'practice';
   const isExam     = mode === 'exam';
 
-  const storageKey = `eduverse_quiz_${cls}_${subject}_${mode}`;
+  const storageKey = `eduverse_quiz_${cls}_${subject}_${chapter || 'all'}_${mode}`;
 
   // Data
   const [questions,     setQuestions]     = useState<Question[]>([]);
@@ -108,7 +109,11 @@ function QuizContent() {
   useEffect(() => {
     const fetchQuestions = async () => {
       try {
-        const url = `/api/questions?class=${encodeURIComponent(cls)}&subject=${encodeURIComponent(subject)}&limit=200`;
+        let url = `/api/questions?class=${encodeURIComponent(cls)}&subject=${encodeURIComponent(subject)}&limit=200`;
+        if (chapter && chapter !== 'All Chapters') {
+          url += `&chapter=${encodeURIComponent(chapter)}`;
+        }
+        
         const res  = await fetch(url);
         const data = await res.json();
         if (!data.success) throw new Error('API error');
@@ -145,7 +150,7 @@ function QuizContent() {
       }
     };
     fetchQuestions();
-  }, [cls, subject, difficulty, mode, storageKey]);
+  }, [cls, subject, chapter, difficulty, mode, storageKey]);
 
   // Resume saved session
   const handleResumeSession = () => {

@@ -32,7 +32,11 @@ export async function GET(request) {
     const where = {};
     if (className) where.class = className;
     if (subject) where.subject = normalizeSubjectFilter(subject);
-    if (chapter) where.chapter = chapter;
+    
+    // Conditionally add the chapter filter if it's not 'all' or 'all-chapters'
+    if (chapter && chapter.toLowerCase() !== 'all' && chapter.toLowerCase() !== 'all chapters' && chapter.toLowerCase() !== 'all-chapters') {
+      where.chapter = chapter;
+    }
 
     const queryOptions = {
       where,
