@@ -6,7 +6,7 @@ import { motion, AnimatePresence } from 'framer-motion';
 import Navbar from '@/components/Navbar';
 import MathText from '@/components/MathText';
 import { soundManager } from '@/lib/sound';
-import { Clock, ArrowLeft, ArrowRight, LayoutGrid, Check, X, Flag, Volume2, VolumeX, LogOut } from 'lucide-react';
+
 
 // ─── Types ────────────────────────────────────────────────────────────────────
 interface Option {
@@ -30,9 +30,21 @@ interface SavedQuizState {
   currentIndex: number;
   selected: SelectedAnswers;
   bookmarked: string[];
-  remaining: number;
-  elapsed: number;
+  remaining?: number;
+  elapsed?: number;
 }
+
+// ─── Inline Icons ─────────────────────────────────────────────────────────────
+const IconClock = ({ className }: { className?: string }) => <svg className={className} xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round"><circle cx="12" cy="12" r="10"/><polyline points="12 6 12 12 16 14"/></svg>;
+const IconArrowLeft = ({ className }: { className?: string }) => <svg className={className} xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round"><path d="m12 19-7-7 7-7"/><path d="M19 12H5"/></svg>;
+const IconArrowRight = ({ className }: { className?: string }) => <svg className={className} xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round"><path d="M5 12h14"/><path d="m12 5 7 7-7 7"/></svg>;
+const IconGrid = ({ className }: { className?: string }) => <svg className={className} xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round"><rect width="7" height="7" x="3" y="3" rx="1"/><rect width="7" height="7" x="14" y="3" rx="1"/><rect width="7" height="7" x="14" y="14" rx="1"/><rect width="7" height="7" x="3" y="14" rx="1"/></svg>;
+const IconCheck = ({ className }: { className?: string }) => <svg className={className} xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round"><polyline points="20 6 9 17 4 12"/></svg>;
+const IconX = ({ className }: { className?: string }) => <svg className={className} xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round"><path d="M18 6 6 18"/><path d="m6 6 12 12"/></svg>;
+const IconFlag = ({ className }: { className?: string }) => <svg className={className} xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round"><path d="M4 15s1-1 4-1 5 2 8 2 4-1 4-1V3s-1 1-4 1-5-2-8-2-4 1-4 1z"/><line x1="4" x2="4" y1="22" y2="15"/></svg>;
+const IconVolume2 = ({ className }: { className?: string }) => <svg className={className} xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round"><polygon points="11 5 6 9 2 9 2 15 6 15 11 19 11 5"/><path d="M15.54 8.46a5 5 0 0 1 0 7.07"/><path d="M19.07 4.93a10 10 0 0 1 0 14.14"/></svg>;
+const IconVolumeX = ({ className }: { className?: string }) => <svg className={className} xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round"><polygon points="11 5 6 9 2 9 2 15 6 15 11 19 11 5"/><line x1="23" x2="17" y1="9" y2="15"/><line x1="17" x2="23" y1="9" y2="15"/></svg>;
+const IconLogOut = ({ className }: { className?: string }) => <svg className={className} xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round"><path d="M9 21H5a2 2 0 0 1-2-2V5a2 2 0 0 1 2-2h4"/><polyline points="16 17 21 12 16 7"/><line x1="21" x2="9" y1="12" y2="12"/></svg>;
 
 // ─── Helpers ──────────────────────────────────────────────────────────────────
 function formatTime(seconds: number) {
@@ -315,7 +327,7 @@ function QuizContent() {
               className="p-2 text-slate-400 hover:text-slate-200 hover:bg-slate-800 rounded-lg transition-colors flex items-center gap-1.5 font-medium text-sm"
               title="Exit Quiz"
             >
-              <LogOut className="w-4 h-4" />
+              <IconLogOut className="w-4 h-4" />
               <span className="hidden sm:inline">Exit</span>
             </button>
             
@@ -340,11 +352,11 @@ function QuizContent() {
               className="p-2 text-slate-400 hover:text-slate-200 hover:bg-slate-800 rounded-lg transition-colors"
               title={isMuted ? 'Unmute audio' : 'Mute audio'}
             >
-              {isMuted ? <VolumeX className="w-4 h-4" /> : <Volume2 className="w-4 h-4" />}
+              {isMuted ? <IconVolumeX className="w-4 h-4" /> : <IconVolume2 className="w-4 h-4" />}
             </button>
 
             <div className="px-3 py-1.5 rounded-md text-sm font-mono font-medium flex items-center gap-2 bg-slate-800 border border-slate-700 text-slate-300">
-              <Clock className="w-4 h-4 text-slate-400" />
+              <IconClock className="w-4 h-4 text-slate-400" />
               {isExam ? formatTime(remaining) : formatTime(elapsed)}
             </div>
 
@@ -423,7 +435,7 @@ function QuizContent() {
                     >
                       {i + 1}
                       {isBk && (
-                        <Flag className="absolute top-1 right-1 w-2.5 h-2.5 text-amber-400" />
+                        <IconFlag className="absolute top-1 right-1 w-2.5 h-2.5 text-amber-400" />
                       )}
                     </button>
                   );
@@ -458,7 +470,7 @@ function QuizContent() {
                       : 'bg-slate-800 text-slate-400 border-transparent hover:text-slate-200 hover:bg-slate-700'
                   }`}
                 >
-                  <Flag className={`w-3.5 h-3.5 ${isBookmarked ? 'fill-amber-500' : ''}`} />
+                  <IconFlag className={`w-3.5 h-3.5 ${isBookmarked ? 'fill-amber-500' : ''}`} />
                   {isBookmarked ? 'Flagged' : 'Flag for Review'}
                 </button>
               </div>
@@ -486,11 +498,11 @@ function QuizContent() {
                 } else if (showResult && isCorrect) {
                   cardClass = 'bg-emerald-900/20 border-emerald-500/50 text-emerald-100 ring-1 ring-emerald-500/50';
                   avatarClass = 'bg-emerald-600 border-emerald-500 text-white';
-                  resultIcon = <Check className="w-5 h-5 text-emerald-500 shrink-0" />;
+                  resultIcon = <IconCheck className="w-5 h-5 text-emerald-500 shrink-0" />;
                 } else if (showResult && isSelected && !isCorrect) {
                   cardClass = 'bg-rose-900/20 border-rose-500/50 text-rose-100 ring-1 ring-rose-500/50';
                   avatarClass = 'bg-rose-600 border-rose-500 text-white';
-                  resultIcon = <X className="w-5 h-5 text-rose-500 shrink-0" />;
+                  resultIcon = <IconX className="w-5 h-5 text-rose-500 shrink-0" />;
                 } else if (!isExam && isSelected) {
                   cardClass = 'bg-emerald-500/5 border-emerald-500 ring-1 ring-emerald-500 text-emerald-50';
                   avatarClass = 'bg-emerald-600 border-emerald-500 text-white';
@@ -525,7 +537,7 @@ function QuizContent() {
               >
                 <div className="flex items-center gap-2 mb-3">
                   <span className="text-emerald-500">
-                    <Check className="w-4 h-4" />
+                    <IconCheck className="w-4 h-4" />
                   </span>
                   <h4 className="text-xs font-semibold uppercase tracking-wider text-slate-300">
                     Explanation
@@ -548,7 +560,7 @@ function QuizContent() {
             disabled={currentIndex === 0}
             className="px-4 py-2 rounded-lg text-sm font-semibold flex items-center gap-2 transition-colors text-slate-300 bg-slate-800 hover:bg-slate-700 disabled:opacity-30 disabled:hover:bg-slate-800"
           >
-            <ArrowLeft className="w-4 h-4" />
+            <IconArrowLeft className="w-4 h-4" />
             Previous
           </button>
 
@@ -556,7 +568,7 @@ function QuizContent() {
             onClick={() => setShowPaletteDrawer(!showPaletteDrawer)}
             className="px-4 py-2 rounded-lg text-sm font-semibold hidden sm:flex items-center gap-2 transition-colors text-slate-300 bg-slate-900 border border-slate-700 hover:bg-slate-800"
           >
-            <LayoutGrid className="w-4 h-4" />
+            <IconGrid className="w-4 h-4" />
             Palette ({answeredCount}/{totalQuestions})
           </button>
 
@@ -566,7 +578,7 @@ function QuizContent() {
               className="px-6 py-2 rounded-lg text-sm font-semibold flex items-center gap-2 transition-colors bg-emerald-600 text-white hover:bg-emerald-500"
             >
               Submit
-              <Check className="w-4 h-4" />
+              <IconCheck className="w-4 h-4" />
             </button>
           ) : (
             <button
@@ -574,7 +586,7 @@ function QuizContent() {
               className="px-6 py-2 rounded-lg text-sm font-semibold flex items-center gap-2 transition-colors bg-emerald-600 text-white hover:bg-emerald-500"
             >
               Next
-              <ArrowRight className="w-4 h-4" />
+              <IconArrowRight className="w-4 h-4" />
             </button>
           )}
         </div>
@@ -591,7 +603,7 @@ function QuizContent() {
               className="rounded-2xl p-6 sm:p-8 max-w-md w-full space-y-6 text-center bg-slate-900 border border-slate-800 shadow-2xl"
             >
               <div className="w-12 h-12 rounded-xl mx-auto flex items-center justify-center bg-slate-800 border border-slate-700 text-slate-300">
-                <Clock className="w-6 h-6" />
+                <IconClock className="w-6 h-6" />
               </div>
               <div className="space-y-2">
                 <h3 className="text-xl font-semibold text-slate-100">
@@ -630,7 +642,7 @@ function QuizContent() {
               className="rounded-2xl p-6 sm:p-8 max-w-md w-full space-y-6 text-center bg-slate-900 border border-slate-800 shadow-2xl"
             >
               <div className="w-12 h-12 rounded-xl mx-auto flex items-center justify-center bg-emerald-900/30 border border-emerald-500/30 text-emerald-500">
-                <Check className="w-6 h-6" />
+                <IconCheck className="w-6 h-6" />
               </div>
               <div className="space-y-2">
                 <h3 className="text-xl font-semibold text-slate-100">
@@ -685,7 +697,7 @@ function LoadingScreen() {
     <div className="min-h-screen flex flex-col items-center justify-center gap-6 bg-[#0B0F19]">
       <div className="relative flex items-center justify-center w-16 h-16">
         <div className="absolute inset-0 rounded-full border-t-2 border-emerald-500 animate-spin"></div>
-        <Clock className="w-6 h-6 text-emerald-500" />
+        <IconClock className="w-6 h-6 text-emerald-500" />
       </div>
       <p className="text-sm font-semibold text-slate-400 tracking-wide uppercase">
         Loading Questions...
@@ -699,7 +711,7 @@ function ErrorScreen({ message, onBack }: { message: string; onBack: () => void 
   return (
     <div className="min-h-screen flex flex-col items-center justify-center gap-6 p-4 text-center bg-[#0B0F19]">
       <div className="w-16 h-16 rounded-2xl flex items-center justify-center bg-rose-900/20 border border-rose-500/20 text-rose-500">
-        <X className="w-8 h-8" />
+        <IconX className="w-8 h-8" />
       </div>
       <p className="text-base font-medium text-rose-400 max-w-sm">
         {message}
@@ -708,7 +720,7 @@ function ErrorScreen({ message, onBack }: { message: string; onBack: () => void 
         onClick={onBack} 
         className="px-6 py-2.5 rounded-lg text-sm font-semibold bg-slate-800 text-slate-300 hover:bg-slate-700 transition-colors flex items-center gap-2"
       >
-        <ArrowLeft className="w-4 h-4" />
+        <IconArrowLeft className="w-4 h-4" />
         Go Back
       </button>
     </div>
