@@ -6,6 +6,7 @@ import { motion, AnimatePresence } from 'framer-motion';
 import Navbar from '@/components/Navbar';
 import MathText from '@/components/MathText';
 import { soundManager } from '@/lib/sound';
+import { Clock, ArrowLeft, ArrowRight, LayoutGrid, Check, X, Flag, Volume2, VolumeX, LogOut } from 'lucide-react';
 
 // ─── Types ────────────────────────────────────────────────────────────────────
 interface Option {
@@ -51,12 +52,12 @@ function shuffleOptions(options: Option[]): Option[] {
 
 const EXAM_MINUTES = 30;
 
-// ─── Difficulty badge styles (Dark Retro) ─────────────────────────────────────
-const difficultyStyle: Record<string, { color: string; bg: string; border: string }> = {
-  Easy:       { color: '#6EE7B7', bg: '#064E3B', border: '#10B981' },
-  Medium:     { color: '#FDE68A', bg: '#78350F', border: '#F59E0B' },
-  Hard:       { color: '#FDA4AF', bg: '#881337', border: '#F43F5E' },
-  'Very Hard':{ color: '#D8B4FE', bg: '#581C87', border: '#A855F7' },
+// ─── Difficulty badge styles ──────────────────────────────────────────
+const difficultyStyle: Record<string, string> = {
+  Easy:       'bg-emerald-500/10 text-emerald-500 border-emerald-500/20',
+  Medium:     'bg-yellow-500/10 text-yellow-500 border-yellow-500/20',
+  Hard:       'bg-orange-500/10 text-orange-500 border-orange-500/20',
+  'Very Hard':'bg-rose-500/10 text-rose-500 border-rose-500/20',
 };
 
 // ─── Quiz Content ─────────────────────────────────────────────────────────────
@@ -298,138 +299,116 @@ function QuizContent() {
   const chosenId     = selected[q.id];
   const isAnswered   = !!chosenId;
   const isBookmarked = bookmarked.has(q.id);
-  const diffStyle    = difficultyStyle[q.difficulty] ?? { color: '#6EE7B7', bg: '#064E3B', border: '#10B981' };
+  const diffStyle    = difficultyStyle[q.difficulty] ?? 'bg-emerald-900/40 text-emerald-400 border-emerald-800';
 
   return (
-    <div className="min-h-screen flex flex-col text-slate-100" style={{ background: '#0B0F19', fontFamily: "'Nunito', sans-serif" }}>
+    <div className="min-h-screen flex flex-col text-slate-100 bg-[#0B0F19] font-sans">
       <Navbar />
 
-      {/* ── Retro Dark Top Control Strip ── */}
-      <div
-        className="sticky top-0 z-20 border-b-2 border-slate-700/80 px-4 py-3"
-        style={{ background: '#0F172A', boxShadow: '0 4px 0px 0px rgba(0,0,0,0.5)' }}
-      >
-        <div className="max-w-4xl mx-auto flex items-center justify-between gap-3">
-          {/* Left: Back & Subject Badge */}
-          <div className="flex items-center gap-2">
+      {/* Top Header */}
+      <header className="sticky top-0 z-20 bg-slate-900/90 backdrop-blur-md border-b border-slate-800 px-4 py-3 shadow-sm">
+        <div className="max-w-5xl mx-auto flex items-center justify-between gap-3">
+          {/* Left: Exit & Badge */}
+          <div className="flex items-center gap-3">
             <button
               onClick={() => router.back()}
-              className="btn-pill btn-white text-xs py-1.5 px-3 flex items-center gap-1 font-black"
-              style={{ boxShadow: '2px 2px 0 #FFFFFF' }}
+              className="p-2 text-slate-400 hover:text-slate-200 hover:bg-slate-800 rounded-lg transition-colors flex items-center gap-1.5 font-medium text-sm"
+              title="Exit Quiz"
             >
-              ← Exit
+              <LogOut className="w-4 h-4" />
+              <span className="hidden sm:inline">Exit</span>
             </button>
-            <span
-              className="px-3 py-1 rounded-full text-xs font-black hidden sm:inline-flex"
-              style={{ background: '#134E4A', color: '#5EEAD4', border: '1.5px solid #2DD4BF' }}
-            >
-              {subject} · {cls}
+            
+            <div className="h-4 w-px bg-slate-700 hidden sm:block" />
+            
+            <span className="px-3 py-1 rounded-md text-xs font-semibold bg-slate-800 text-slate-300 hidden sm:inline-flex items-center gap-1.5">
+              {subject} <span className="text-slate-500">•</span> {cls}
             </span>
           </div>
 
-          {/* Center: Question Counter & Quick Palette Toggle */}
-          <button
-            onClick={() => setShowPaletteDrawer(!showPaletteDrawer)}
-            className="flex items-center gap-2 px-3 py-1 rounded-full text-xs font-black transition-all hover:scale-105"
-            style={{ background: '#78350F', color: '#FDE68A', border: '1.5px solid #F59E0B', boxShadow: '2px 2px 0 #FFFFFF' }}
-          >
-            <span>Q {currentIndex + 1} / {totalQuestions}</span>
-            <span className="text-white">🧭 Palette</span>
-          </button>
-
-          {/* Right: Sound Toggle, Timer, & Submit Button */}
+          {/* Center: Question Counter */}
           <div className="flex items-center gap-2">
+            <span className="text-sm font-semibold text-slate-300 bg-slate-800/50 px-3 py-1 rounded-md">
+              Question {currentIndex + 1} of {totalQuestions}
+            </span>
+          </div>
+
+          {/* Right: Sound, Timer & Submit */}
+          <div className="flex items-center gap-2 sm:gap-3">
             <button
               onClick={handleToggleMute}
-              className="w-8 h-8 rounded-full flex items-center justify-center border-2 border-white transition-transform hover:scale-105"
-              style={{ background: isMuted ? '#881337' : '#064E3B', boxShadow: '2px 2px 0 #FFFFFF' }}
+              className="p-2 text-slate-400 hover:text-slate-200 hover:bg-slate-800 rounded-lg transition-colors"
               title={isMuted ? 'Unmute audio' : 'Mute audio'}
             >
-              <span className="text-xs">{isMuted ? '🔇' : '🔊'}</span>
+              {isMuted ? <VolumeX className="w-4 h-4" /> : <Volume2 className="w-4 h-4" />}
             </button>
 
-            <div
-              className="px-3 py-1 rounded-full text-xs font-black flex items-center gap-1 font-mono"
-              style={{
-                background: isExam ? '#881337' : '#581C87',
-                color: isExam ? '#FDA4AF' : '#E9D5FF',
-                border: '1.5px solid #FFFFFF'
-              }}
-            >
-              ⏱ {isExam ? formatTime(remaining) : formatTime(elapsed)}
+            <div className="px-3 py-1.5 rounded-md text-sm font-mono font-medium flex items-center gap-2 bg-slate-800 border border-slate-700 text-slate-300">
+              <Clock className="w-4 h-4 text-slate-400" />
+              {isExam ? formatTime(remaining) : formatTime(elapsed)}
             </div>
 
             <button
               onClick={() => setShowSubmitModal(true)}
-              className="btn-pill btn-teal text-xs py-1.5 px-4 font-black hidden sm:inline-flex"
-              style={{ boxShadow: '2px 2px 0 #FFFFFF', borderColor: '#FFFFFF' }}
+              className="hidden sm:inline-flex px-4 py-1.5 bg-emerald-600 hover:bg-emerald-500 text-white text-sm font-semibold rounded-lg transition-colors"
             >
-              Submit Quiz 🚀
+              Submit Quiz
             </button>
           </div>
         </div>
 
-        {/* Dynamic Progress Bar */}
-        <div className="max-w-4xl mx-auto mt-2.5 flex items-center gap-2">
-          <div className="flex-1 h-2.5 rounded-full overflow-hidden" style={{ background: '#1E293B', border: '1.5px solid #FFFFFF' }}>
-            <div
-              className="h-full rounded-full transition-all duration-300"
-              style={{ width: `${progress}%`, background: '#14B8A6' }}
-            />
-          </div>
-          <span className="text-xs font-black text-slate-300 w-10 text-right">
-            {Math.round(progress)}%
-          </span>
+        {/* Minimal Progress Bar */}
+        <div className="max-w-5xl mx-auto mt-3 h-1 bg-slate-800 rounded-full overflow-hidden">
+          <div
+            className="h-full bg-emerald-500 transition-all duration-300 ease-out"
+            style={{ width: `${progress}%` }}
+          />
         </div>
-      </div>
+      </header>
 
-      {/* ── Question Palette Drawer ── */}
-      <AnimatePresence>
-        {showPaletteDrawer && (
-          <motion.div
-            initial={{ height: 0, opacity: 0 }}
-            animate={{ height: 'auto', opacity: 1 }}
-            exit={{ height: 0, opacity: 0 }}
-            className="border-b-4 border-slate-700 overflow-hidden"
-            style={{ background: '#0F172A' }}
-          >
-            <div className="max-w-4xl mx-auto p-4 space-y-3">
-              <div className="flex items-center justify-between">
-                <span className="text-xs font-black uppercase tracking-wider text-white">
+      {/* Main Layout */}
+      <main className="max-w-3xl w-full mx-auto px-4 py-8 flex-1 flex flex-col">
+        {/* Palette Drawer */}
+        <AnimatePresence>
+          {showPaletteDrawer && (
+            <motion.div
+              initial={{ height: 0, opacity: 0 }}
+              animate={{ height: 'auto', opacity: 1 }}
+              exit={{ height: 0, opacity: 0 }}
+              className="mb-6 rounded-xl bg-slate-900 border border-slate-800 p-4 shadow-lg overflow-hidden"
+            >
+              <div className="flex items-center justify-between mb-4">
+                <span className="text-xs font-semibold uppercase tracking-wider text-slate-400">
                   Question Palette ({answeredCount}/{totalQuestions} Answered)
                 </span>
-                <div className="flex items-center gap-3 text-xs font-bold">
-                  <span className="flex items-center gap-1 text-emerald-400">
-                    <span className="w-3 h-3 rounded-full bg-emerald-500 border border-white"></span> Answered
+                <div className="flex items-center gap-3 text-xs font-medium">
+                  <span className="flex items-center gap-1.5 text-slate-300">
+                    <span className="w-2.5 h-2.5 rounded-full bg-emerald-600"></span> Answered
                   </span>
-                  <span className="flex items-center gap-1 text-amber-300">
-                    <span className="w-3 h-3 rounded-full bg-amber-500 border border-white"></span> Flagged
+                  <span className="flex items-center gap-1.5 text-slate-300">
+                    <span className="w-2.5 h-2.5 rounded-full bg-amber-500"></span> Flagged
                   </span>
-                  <span className="flex items-center gap-1 text-slate-400">
-                    <span className="w-3 h-3 rounded-full bg-slate-800 border border-white"></span> Unanswered
+                  <span className="flex items-center gap-1.5 text-slate-300">
+                    <span className="w-2.5 h-2.5 rounded-full bg-slate-700"></span> Unanswered
                   </span>
                 </div>
               </div>
 
-              {/* Grid palette buttons */}
-              <div className="grid grid-cols-10 sm:grid-cols-15 md:grid-cols-20 gap-1.5">
+              <div className="grid grid-cols-5 sm:grid-cols-10 gap-2">
                 {questions.map((qq, i) => {
                   const ans    = selected[qq.id];
                   const isCurr = i === currentIndex;
                   const isBk   = bookmarked.has(qq.id);
 
-                  let bg = '#1E293B';
-                  let textColor = '#F8FAFC';
-                  let borderCol = '#475569';
+                  let bgClass = 'bg-slate-800 text-slate-400 hover:bg-slate-700';
+                  let ringClass = isCurr ? 'ring-2 ring-slate-400 ring-offset-2 ring-offset-slate-900' : '';
 
                   if (ans) {
-                    bg = '#064E3B';
-                    textColor = '#6EE7B7';
-                    borderCol = '#10B981';
+                    bgClass = 'bg-emerald-900/40 text-emerald-400 border border-emerald-800';
+                    if (isCurr) ringClass = 'ring-2 ring-emerald-500 ring-offset-2 ring-offset-slate-900';
                   } else if (isBk) {
-                    bg = '#78350F';
-                    textColor = '#FDE68A';
-                    borderCol = '#F59E0B';
+                    bgClass = 'bg-amber-900/40 text-amber-400 border border-amber-800';
+                    if (isCurr) ringClass = 'ring-2 ring-amber-500 ring-offset-2 ring-offset-slate-900';
                   }
 
                   return (
@@ -439,31 +418,21 @@ function QuizContent() {
                         goTo(i);
                         setShowPaletteDrawer(false);
                       }}
-                      className="h-8 rounded-lg text-xs font-black transition-all flex items-center justify-center relative"
-                      style={{
-                        background: bg,
-                        color: textColor,
-                        border: isCurr ? '2px solid #FFFFFF' : `1.5px solid ${borderCol}`,
-                        boxShadow: isCurr ? '2px 2px 0 #14B8A6' : 'none',
-                        transform: isCurr ? 'scale(1.1)' : 'scale(1)',
-                      }}
+                      className={`h-10 rounded-lg text-sm font-semibold transition-all relative flex items-center justify-center ${bgClass} ${ringClass}`}
                       title={`Q${i + 1}: ${ans ? 'Answered' : isBk ? 'Flagged' : 'Unanswered'}`}
                     >
                       {i + 1}
                       {isBk && (
-                        <span className="absolute -top-1 -right-1 text-[9px]">🚩</span>
+                        <Flag className="absolute top-1 right-1 w-2.5 h-2.5 text-amber-400" />
                       )}
                     </button>
                   );
                 })}
               </div>
-            </div>
-          </motion.div>
-        )}
-      </AnimatePresence>
+            </motion.div>
+          )}
+        </AnimatePresence>
 
-      {/* ── Main Single Question Card with KaTeX Math ── */}
-      <main className="max-w-3xl w-full mx-auto px-4 py-8 flex-1 flex flex-col justify-center">
         <AnimatePresence mode="wait" custom={direction}>
           <motion.div
             key={q.id}
@@ -472,149 +441,97 @@ function QuizContent() {
             initial="enter"
             animate="center"
             exit="exit"
-            className="space-y-6"
+            className="space-y-6 flex-1 flex flex-col"
           >
-            {/* Question Text Box */}
-            <div
-              className="rounded-3xl p-6 sm:p-8"
-              style={{
-                background: '#1E293B',
-                border: '3px solid #FFFFFF',
-                boxShadow: '6px 6px 0px 0px #FFFFFF',
-              }}
-            >
-              {/* Header Badges */}
-              <div className="flex items-center justify-between gap-3 mb-4">
-                <span
-                  className="px-3 py-1 rounded-full text-xs font-black border"
-                  style={{ background: diffStyle.bg, color: diffStyle.color, borderColor: diffStyle.border }}
-                >
+            {/* Question Card */}
+            <div className="rounded-2xl p-6 md:p-8 bg-slate-900 border border-slate-800 shadow-lg">
+              <div className="flex items-center justify-between gap-3 mb-6">
+                <span className={`px-2.5 py-1 rounded-md text-xs uppercase tracking-wide font-semibold border ${diffStyle}`}>
                   {q.difficulty}
                 </span>
 
                 <button
                   onClick={() => toggleBookmark(q.id)}
-                  className="btn-pill text-xs py-1 px-3 font-black flex items-center gap-1.5 transition-transform hover:scale-105"
-                  style={{
-                    background: isBookmarked ? '#78350F' : '#0F172A',
-                    color: isBookmarked ? '#FDE68A' : '#FFFFFF',
-                    border: '2px solid #FFFFFF',
-                    boxShadow: '2px 2px 0 #FFFFFF',
-                  }}
+                  className={`flex items-center gap-1.5 px-3 py-1.5 rounded-md text-xs font-semibold transition-colors border ${
+                    isBookmarked 
+                      ? 'bg-amber-500/10 text-amber-500 border-amber-500/20' 
+                      : 'bg-slate-800 text-slate-400 border-transparent hover:text-slate-200 hover:bg-slate-700'
+                  }`}
                 >
-                  {isBookmarked ? '🚩 Flagged' : '🏳️ Flag for Review'}
+                  <Flag className={`w-3.5 h-3.5 ${isBookmarked ? 'fill-amber-500' : ''}`} />
+                  {isBookmarked ? 'Flagged' : 'Flag for Review'}
                 </button>
               </div>
 
-              {/* Question Text with KaTeX Support */}
-              <div
-                className="text-lg sm:text-xl font-bold leading-relaxed text-white"
-                style={{ fontFamily: "'Space Grotesk', sans-serif" }}
-              >
+              <div className="text-lg md:text-xl font-medium text-slate-100 leading-relaxed">
                 <MathText text={q.text} />
               </div>
             </div>
 
-            {/* 4 Large Clean Option Buttons with KaTeX Support */}
-            <div className="space-y-3.5">
+            {/* Options List */}
+            <div className="space-y-3">
               {q.options.map((opt, oi) => {
                 const isSelected = chosenId === opt.id;
                 const showResult = !isExam && isAnswered;
                 const isCorrect  = opt.isCorrect;
+                const label      = String.fromCharCode(65 + oi);
 
-                let cardBg     = '#1E293B';
-                let borderColor = '#475569';
-                let textColor   = '#F8FAFC';
-                let badgeBg     = '#0F172A';
-                let badgeText   = '#FFFFFF';
+                let cardClass = 'bg-slate-900 border-slate-800 text-slate-300 hover:border-slate-600 hover:bg-slate-800';
+                let avatarClass = 'bg-slate-800 border-slate-700 text-slate-400';
+                let resultIcon = null;
 
                 if (isExam && isSelected) {
-                  cardBg     = '#134E4A';
-                  borderColor = '#2DD4BF';
-                  textColor   = '#5EEAD4';
-                  badgeBg     = '#0D9488';
-                  badgeText   = '#FFFFFF';
+                  cardClass = 'bg-emerald-500/5 border-emerald-500 ring-1 ring-emerald-500 text-emerald-50';
+                  avatarClass = 'bg-emerald-600 border-emerald-500 text-white';
                 } else if (showResult && isCorrect) {
-                  cardBg     = '#064E3B';
-                  borderColor = '#34D399';
-                  textColor   = '#6EE7B7';
-                  badgeBg     = '#10B981';
-                  badgeText   = '#FFFFFF';
+                  cardClass = 'bg-emerald-900/20 border-emerald-500/50 text-emerald-100 ring-1 ring-emerald-500/50';
+                  avatarClass = 'bg-emerald-600 border-emerald-500 text-white';
+                  resultIcon = <Check className="w-5 h-5 text-emerald-500 shrink-0" />;
                 } else if (showResult && isSelected && !isCorrect) {
-                  cardBg     = '#881337';
-                  borderColor = '#FB7185';
-                  textColor   = '#FDA4AF';
-                  badgeBg     = '#F43F5E';
-                  badgeText   = '#FFFFFF';
+                  cardClass = 'bg-rose-900/20 border-rose-500/50 text-rose-100 ring-1 ring-rose-500/50';
+                  avatarClass = 'bg-rose-600 border-rose-500 text-white';
+                  resultIcon = <X className="w-5 h-5 text-rose-500 shrink-0" />;
                 } else if (!isExam && isSelected) {
-                  cardBg     = '#134E4A';
+                  cardClass = 'bg-emerald-500/5 border-emerald-500 ring-1 ring-emerald-500 text-emerald-50';
+                  avatarClass = 'bg-emerald-600 border-emerald-500 text-white';
                 }
-
-                const label = String.fromCharCode(65 + oi);
 
                 return (
                   <button
                     key={opt.id}
-                    id={`option-${label.toLowerCase()}`}
                     onClick={() => handleSelect(q.id, opt.id)}
                     disabled={isExam && !!chosenId}
-                    className="w-full text-left rounded-2xl p-4 flex items-center gap-4 transition-all duration-150 hover:-translate-y-0.5 active:translate-x-0.5 active:translate-y-0.5 group"
-                    style={{
-                      background: cardBg,
-                      border: `2.5px solid ${borderColor}`,
-                      boxShadow: isSelected ? '4px 4px 0px 0px #FFFFFF' : '3px 3px 0px 0px rgba(255,255,255,0.7)',
-                      transform: isSelected ? 'translateY(-2px)' : 'none',
-                    }}
+                    className={`w-full text-left rounded-xl p-4 flex items-center gap-4 transition-all duration-200 border cursor-pointer disabled:cursor-default ${cardClass}`}
                     aria-label={`Option ${label}`}
                   >
-                    {/* Letter Badge */}
-                    <span
-                      className="w-9 h-9 rounded-xl flex items-center justify-center text-sm font-black flex-shrink-0 transition-all"
-                      style={{
-                        background: badgeBg,
-                        color: badgeText,
-                        border: '2px solid #FFFFFF',
-                      }}
-                    >
+                    <span className={`w-8 h-8 rounded-md flex items-center justify-center text-sm font-semibold flex-shrink-0 transition-colors border ${avatarClass}`}>
                       {label}
                     </span>
-
-                    {/* Option Text with KaTeX */}
-                    <span className="text-base font-bold flex-1 leading-snug" style={{ color: textColor }}>
+                    <span className="text-base font-medium flex-1 leading-snug">
                       <MathText text={opt.text} />
                     </span>
-
-                    {/* Result Icon */}
-                    {showResult && isCorrect && (
-                      <span className="text-xl font-black text-emerald-400">✓</span>
-                    )}
-                    {showResult && isSelected && !isCorrect && (
-                      <span className="text-xl font-black text-rose-400">✗</span>
-                    )}
+                    {resultIcon}
                   </button>
                 );
               })}
             </div>
 
-            {/* Practice Explanation Toggle Card with KaTeX */}
+            {/* Explanation Toggle */}
             {!isExam && revealed.has(q.id) && (
               <motion.div
                 initial={{ opacity: 0, y: 10 }}
                 animate={{ opacity: 1, y: 0 }}
-                className="rounded-2xl p-5"
-                style={{
-                  background: '#1E293B',
-                  border: '2.5px solid #F59E0B',
-                  boxShadow: '4px 4px 0px 0px #F59E0B',
-                }}
+                className="rounded-xl p-5 bg-slate-900 border border-slate-800 shadow-sm mt-4"
               >
-                <div className="flex items-center gap-2 mb-2">
-                  <span className="text-base">💡</span>
-                  <h4 className="text-xs font-black uppercase tracking-wider text-amber-300">
-                    NCERT Answer Explanation
+                <div className="flex items-center gap-2 mb-3">
+                  <span className="text-emerald-500">
+                    <Check className="w-4 h-4" />
+                  </span>
+                  <h4 className="text-xs font-semibold uppercase tracking-wider text-slate-300">
+                    Explanation
                   </h4>
                 </div>
-                <div className="text-sm font-bold text-slate-200 leading-relaxed">
+                <div className="text-sm text-slate-400 leading-relaxed">
                   <MathText text={q.explanation} />
                 </div>
               </motion.div>
@@ -623,101 +540,79 @@ function QuizContent() {
         </AnimatePresence>
       </main>
 
-      {/* ── Fixed Bottom Navigation Bar ── */}
-      <footer
-        className="sticky bottom-0 z-20 border-t-2 border-slate-700/80 px-4 py-4"
-        style={{ background: '#0F172A' }}
-      >
+      {/* Bottom Navigation */}
+      <footer className="sticky bottom-0 z-20 bg-[#0B0F19]/90 backdrop-blur-md border-t border-slate-800 px-4 py-4">
         <div className="max-w-3xl mx-auto flex items-center justify-between gap-3">
-          {/* Previous Button */}
           <button
-            id="quiz-prev-btn"
             onClick={goPrev}
             disabled={currentIndex === 0}
-            className="btn-pill btn-white text-sm py-2 px-5 font-black flex items-center gap-2 transition-all hover:-translate-y-0.5 active:translate-x-0.5 active:translate-y-0.5 disabled:opacity-40 disabled:hover:translate-y-0"
-            style={{ boxShadow: '3px 3px 0 #FFFFFF' }}
-            aria-label="Previous question"
+            className="px-4 py-2 rounded-lg text-sm font-semibold flex items-center gap-2 transition-colors text-slate-300 bg-slate-800 hover:bg-slate-700 disabled:opacity-30 disabled:hover:bg-slate-800"
           >
-            ← Previous
+            <ArrowLeft className="w-4 h-4" />
+            Previous
           </button>
 
-          {/* Quick Palette Button */}
           <button
             onClick={() => setShowPaletteDrawer(!showPaletteDrawer)}
-            className="btn-pill text-xs py-2 px-4 font-black hidden sm:inline-flex items-center gap-1.5"
-            style={{ background: '#78350F', color: '#FDE68A', border: '2px solid #FFFFFF', boxShadow: '2px 2px 0 #FFFFFF' }}
+            className="px-4 py-2 rounded-lg text-sm font-semibold hidden sm:flex items-center gap-2 transition-colors text-slate-300 bg-slate-900 border border-slate-700 hover:bg-slate-800"
           >
-            🧭 Palette ({answeredCount}/{totalQuestions})
+            <LayoutGrid className="w-4 h-4" />
+            Palette ({answeredCount}/{totalQuestions})
           </button>
 
-          {/* Next or Submit Button */}
           {currentIndex === totalQuestions - 1 ? (
             <button
-              id="quiz-submit-btn"
               onClick={() => setShowSubmitModal(true)}
-              className="btn-pill btn-teal text-sm py-2 px-6 font-black flex items-center gap-2 transition-all hover:-translate-y-0.5 active:translate-x-0.5 active:translate-y-0.5"
-              style={{ boxShadow: '3px 3px 0 #FFFFFF', borderColor: '#FFFFFF' }}
-              aria-label="Submit quiz"
+              className="px-6 py-2 rounded-lg text-sm font-semibold flex items-center gap-2 transition-colors bg-emerald-600 text-white hover:bg-emerald-500"
             >
-              Submit Quiz 🚀
+              Submit
+              <Check className="w-4 h-4" />
             </button>
           ) : (
             <button
-              id="quiz-next-btn"
               onClick={goNext}
-              className="btn-pill btn-teal text-sm py-2 px-6 font-black flex items-center gap-2 transition-all hover:-translate-y-0.5 active:translate-x-0.5 active:translate-y-0.5"
-              style={{ boxShadow: '3px 3px 0 #FFFFFF', borderColor: '#FFFFFF' }}
-              aria-label="Next question"
+              className="px-6 py-2 rounded-lg text-sm font-semibold flex items-center gap-2 transition-colors bg-emerald-600 text-white hover:bg-emerald-500"
             >
-              Next →
+              Next
+              <ArrowRight className="w-4 h-4" />
             </button>
           )}
         </div>
       </footer>
 
-      {/* ── Resume Saved Session Toast/Modal ── */}
+      {/* Modals */}
       <AnimatePresence>
         {showResumeModal && (
-          <div className="fixed inset-0 z-50 flex items-center justify-center p-4 bg-black/75 backdrop-blur-xs">
+          <div className="fixed inset-0 z-50 flex items-center justify-center p-4 bg-black/60 backdrop-blur-sm">
             <motion.div
-              initial={{ scale: 0.9, opacity: 0 }}
+              initial={{ scale: 0.95, opacity: 0 }}
               animate={{ scale: 1, opacity: 1 }}
-              exit={{ scale: 0.9, opacity: 0 }}
-              className="rounded-3xl p-6 sm:p-8 max-w-md w-full space-y-6 text-center"
-              style={{
-                background: '#1E293B',
-                border: '3px solid #FFFFFF',
-                boxShadow: '8px 8px 0px 0px #FFFFFF',
-              }}
+              exit={{ scale: 0.95, opacity: 0 }}
+              className="rounded-2xl p-6 sm:p-8 max-w-md w-full space-y-6 text-center bg-slate-900 border border-slate-800 shadow-2xl"
             >
-              <div className="w-16 h-16 rounded-2xl mx-auto flex items-center justify-center text-3xl bg-amber-950 border-2 border-white">
-                💾
+              <div className="w-12 h-12 rounded-xl mx-auto flex items-center justify-center bg-slate-800 border border-slate-700 text-slate-300">
+                <Clock className="w-6 h-6" />
               </div>
-
               <div className="space-y-2">
-                <h3 className="text-2xl font-black text-white" style={{ fontFamily: "'Space Grotesk', sans-serif" }}>
-                  Resume Saved Quiz Session?
+                <h3 className="text-xl font-semibold text-slate-100">
+                  Resume Session?
                 </h3>
-                <p className="text-sm font-semibold text-slate-300">
-                  We found an unfinished quiz attempt for <span className="font-black text-teal-400">{subject} ({cls})</span>. Would you like to resume your progress?
+                <p className="text-sm text-slate-400 leading-relaxed">
+                  We found an unfinished quiz attempt for <span className="font-semibold text-emerald-400">{subject}</span>. Would you like to resume your progress?
                 </p>
               </div>
-
-              <div className="flex items-center gap-3 pt-2">
+              <div className="flex flex-col sm:flex-row items-center gap-3 pt-2">
                 <button
                   onClick={handleStartFresh}
-                  className="btn-pill btn-white text-sm py-2.5 flex-1 font-black"
-                  style={{ boxShadow: '3px 3px 0 #FFFFFF' }}
+                  className="w-full px-4 py-2.5 rounded-lg text-sm font-semibold bg-slate-800 text-slate-300 hover:bg-slate-700 hover:text-white transition-colors"
                 >
-                  Start Fresh 🔄
+                  Start Fresh
                 </button>
-
                 <button
                   onClick={handleResumeSession}
-                  className="btn-pill btn-teal text-sm py-2.5 flex-1 font-black"
-                  style={{ boxShadow: '3px 3px 0 #FFFFFF', borderColor: '#FFFFFF' }}
+                  className="w-full px-4 py-2.5 rounded-lg text-sm font-semibold bg-emerald-600 text-white hover:bg-emerald-500 transition-colors"
                 >
-                  Resume 🚀
+                  Resume Attempt
                 </button>
               </div>
             </motion.div>
@@ -725,66 +620,54 @@ function QuizContent() {
         )}
       </AnimatePresence>
 
-      {/* ── Quick Submit Confirmation Modal ── */}
       <AnimatePresence>
         {showSubmitModal && (
-          <div className="fixed inset-0 z-50 flex items-center justify-center p-4 bg-black/75 backdrop-blur-xs">
+          <div className="fixed inset-0 z-50 flex items-center justify-center p-4 bg-black/60 backdrop-blur-sm">
             <motion.div
-              initial={{ scale: 0.9, opacity: 0 }}
+              initial={{ scale: 0.95, opacity: 0 }}
               animate={{ scale: 1, opacity: 1 }}
-              exit={{ scale: 0.9, opacity: 0 }}
-              className="rounded-3xl p-6 sm:p-8 max-w-md w-full space-y-6 text-center"
-              style={{
-                background: '#1E293B',
-                border: '3px solid #FFFFFF',
-                boxShadow: '8px 8px 0px 0px #FFFFFF',
-              }}
+              exit={{ scale: 0.95, opacity: 0 }}
+              className="rounded-2xl p-6 sm:p-8 max-w-md w-full space-y-6 text-center bg-slate-900 border border-slate-800 shadow-2xl"
             >
-              <div className="w-16 h-16 rounded-2xl mx-auto flex items-center justify-center text-3xl bg-teal-950 border-2 border-white">
-                🚀
+              <div className="w-12 h-12 rounded-xl mx-auto flex items-center justify-center bg-emerald-900/30 border border-emerald-500/30 text-emerald-500">
+                <Check className="w-6 h-6" />
               </div>
-
               <div className="space-y-2">
-                <h3 className="text-2xl font-black text-white" style={{ fontFamily: "'Space Grotesk', sans-serif" }}>
-                  Ready to Submit Quiz?
+                <h3 className="text-xl font-semibold text-slate-100">
+                  Submit Assessment?
                 </h3>
-                <p className="text-sm font-semibold text-slate-300">
-                  Review your answers breakdown before confirming submission:
+                <p className="text-sm text-slate-400">
+                  Review your answers breakdown before confirming:
                 </p>
               </div>
 
-              {/* Status summary pill grid */}
-              <div className="grid grid-cols-3 gap-3 p-4 rounded-2xl bg-slate-900 border-2 border-slate-700">
-                <div className="text-center">
-                  <p className="text-xl font-black text-emerald-400">{answeredCount}</p>
-                  <p className="text-xs font-bold text-slate-400">Answered</p>
+              <div className="grid grid-cols-3 gap-3 p-4 rounded-xl bg-slate-950 border border-slate-800">
+                <div className="text-center space-y-1">
+                  <p className="text-xl font-semibold text-emerald-400">{answeredCount}</p>
+                  <p className="text-xs font-medium text-slate-500 uppercase tracking-wider">Answered</p>
                 </div>
-                <div className="text-center">
-                  <p className="text-xl font-black text-amber-400">{flaggedCount}</p>
-                  <p className="text-xs font-bold text-slate-400">Flagged</p>
+                <div className="text-center space-y-1">
+                  <p className="text-xl font-semibold text-amber-400">{flaggedCount}</p>
+                  <p className="text-xs font-medium text-slate-500 uppercase tracking-wider">Flagged</p>
                 </div>
-                <div className="text-center">
-                  <p className="text-xl font-black text-rose-400">{unansweredCount}</p>
-                  <p className="text-xs font-bold text-slate-400">Unanswered</p>
+                <div className="text-center space-y-1">
+                  <p className="text-xl font-semibold text-rose-400">{unansweredCount}</p>
+                  <p className="text-xs font-medium text-slate-500 uppercase tracking-wider">Empty</p>
                 </div>
               </div>
 
-              {/* Modal Action Buttons */}
-              <div className="flex items-center gap-3 pt-2">
+              <div className="flex flex-col sm:flex-row items-center gap-3 pt-2">
                 <button
                   onClick={() => setShowSubmitModal(false)}
-                  className="btn-pill btn-white text-sm py-2.5 flex-1 font-black"
-                  style={{ boxShadow: '3px 3px 0 #FFFFFF' }}
+                  className="w-full px-4 py-2.5 rounded-lg text-sm font-semibold bg-slate-800 text-slate-300 hover:bg-slate-700 transition-colors"
                 >
-                  Continue
+                  Go Back
                 </button>
-
                 <button
                   onClick={() => handleSubmit()}
-                  className="btn-pill btn-teal text-sm py-2.5 flex-1 font-black"
-                  style={{ boxShadow: '3px 3px 0 #FFFFFF', borderColor: '#FFFFFF' }}
+                  className="w-full px-4 py-2.5 rounded-lg text-sm font-semibold bg-emerald-600 text-white hover:bg-emerald-500 transition-colors"
                 >
-                  Confirm Submit 🚀
+                  Confirm Submit
                 </button>
               </div>
             </motion.div>
@@ -799,12 +682,13 @@ function QuizContent() {
 // ─── Loading Screen ───────────────────────────────────────────────────────────
 function LoadingScreen() {
   return (
-    <div className="min-h-screen flex flex-col items-center justify-center gap-4" style={{ background: '#0B0F19' }}>
-      <div className="w-14 h-14 rounded-2xl flex items-center justify-center text-3xl bg-teal-950 border-3 border-white shadow-[4px_4px_0_#FFFFFF] animate-bounce">
-        📖
+    <div className="min-h-screen flex flex-col items-center justify-center gap-6 bg-[#0B0F19]">
+      <div className="relative flex items-center justify-center w-16 h-16">
+        <div className="absolute inset-0 rounded-full border-t-2 border-emerald-500 animate-spin"></div>
+        <Clock className="w-6 h-6 text-emerald-500" />
       </div>
-      <p className="text-base font-black text-white" style={{ fontFamily: "'Space Grotesk', sans-serif" }}>
-        Loading NCERT Questions…
+      <p className="text-sm font-semibold text-slate-400 tracking-wide uppercase">
+        Loading Questions...
       </p>
     </div>
   );
@@ -813,15 +697,19 @@ function LoadingScreen() {
 // ─── Error Screen ────────────────────────────────────────────────────────────
 function ErrorScreen({ message, onBack }: { message: string; onBack: () => void }) {
   return (
-    <div className="min-h-screen flex flex-col items-center justify-center gap-4 p-4 text-center" style={{ background: '#0B0F19' }}>
-      <div className="w-14 h-14 rounded-2xl flex items-center justify-center text-3xl bg-rose-950 border-3 border-white shadow-[4px_4px_0_#FFFFFF]">
-        ⚠️
+    <div className="min-h-screen flex flex-col items-center justify-center gap-6 p-4 text-center bg-[#0B0F19]">
+      <div className="w-16 h-16 rounded-2xl flex items-center justify-center bg-rose-900/20 border border-rose-500/20 text-rose-500">
+        <X className="w-8 h-8" />
       </div>
-      <p className="text-base font-black text-rose-300 max-w-sm" style={{ fontFamily: "'Space Grotesk', sans-serif" }}>
+      <p className="text-base font-medium text-rose-400 max-w-sm">
         {message}
       </p>
-      <button onClick={onBack} className="btn-pill btn-teal text-sm py-2 px-6 font-black" style={{ boxShadow: '3px 3px 0 #FFFFFF', borderColor: '#FFFFFF' }}>
-        ← Go Back
+      <button 
+        onClick={onBack} 
+        className="px-6 py-2.5 rounded-lg text-sm font-semibold bg-slate-800 text-slate-300 hover:bg-slate-700 transition-colors flex items-center gap-2"
+      >
+        <ArrowLeft className="w-4 h-4" />
+        Go Back
       </button>
     </div>
   );
