@@ -129,12 +129,12 @@ export default function HomePage() {
           </h1>
 
           <p className="text-sm sm:text-base font-medium text-slate-400 max-w-3xl mx-auto leading-relaxed">
-            EduVerse goes beyond standard quizzes. Master your NCERT syllabus through AI-powered doubt solving, gamified chapter boss fights, and real-time performance analytics designed to make learning highly effective and engaging.
+            EduVerse goes beyond standard quizzes. Master your NCERT syllabus through structured assessments, chapter-wise practice modules, and real-time performance analytics designed to make learning highly effective.
           </p>
 
           {/* Quick Info Badges */}
           <div className="flex flex-wrap items-center justify-center gap-3 sm:gap-6 pt-4">
-            {['NCERT Aligned', 'AI-Powered Solutions', 'Interactive Boss Fights', 'Detailed Analytics'].map((feature, i) => (
+            {['NCERT Aligned', 'AI-Powered Solutions', 'Adaptive Difficulty', 'Detailed Analytics'].map((feature, i) => (
               <div key={i} className="flex items-center gap-3 sm:gap-6">
                 <span className="text-[11px] sm:text-xs font-semibold text-slate-300 tracking-wider uppercase">{feature}</span>
                 {i !== 3 && <span className="text-slate-700 font-bold">&middot;</span>}
@@ -143,34 +143,58 @@ export default function HomePage() {
           </div>
         </section>
 
-        {/* ── Go To Dynamic Curriculum Arena ── */}
-        <section className="py-8">
-          <div className="bg-gradient-to-br from-slate-900 via-[#0b1329] to-slate-900 border border-slate-800 rounded-3xl p-8 sm:p-12 text-center shadow-2xl relative overflow-hidden">
-            {/* Background Glows */}
-            <div className="absolute -top-24 -right-24 w-64 h-64 bg-emerald-500/10 blur-[100px] rounded-full pointer-events-none" />
-            <div className="absolute -bottom-24 -left-24 w-64 h-64 bg-purple-500/10 blur-[100px] rounded-full pointer-events-none" />
+        {/* ── Main Assessment CTA Banner ── */}
+        <section className="py-6 sm:py-8">
+          <div className="bg-gradient-to-b from-slate-900/90 to-slate-950/80 border border-slate-800 rounded-3xl p-8 sm:p-12 text-center shadow-2xl relative overflow-hidden">
+            {/* Subtle emerald top glow */}
+            <div className="absolute top-0 left-1/2 -translate-x-1/2 -translate-y-1/2 w-96 sm:w-[540px] h-48 bg-emerald-500/15 blur-[100px] rounded-full pointer-events-none" />
             
             <div className="relative z-10 flex flex-col items-center gap-6">
-              <div className="w-16 h-16 rounded-2xl bg-slate-800/80 border border-slate-700 flex items-center justify-center text-[#00df9a] shadow-inner mb-2">
-                <IconBarChart className="w-8 h-8" />
+              {/* Header Icon Badge */}
+              <div className="w-14 h-14 rounded-2xl bg-slate-800/80 border border-slate-700/80 flex items-center justify-center text-emerald-400 shadow-inner">
+                <IconBarChart className="w-7 h-7" />
               </div>
               
-              <div>
-                <h2 className="text-2xl sm:text-3xl font-extrabold text-white tracking-tight mb-2">
+              <div className="space-y-2">
+                <h2 className="text-2xl sm:text-3xl font-extrabold text-white tracking-tight">
                   Ready to start practicing?
                 </h2>
-                <p className="text-sm sm:text-base text-slate-400 max-w-xl mx-auto">
-                  Access the fully dynamic Curriculum Arena for Class 6 to 12. Complete with subject filtering, chapter selection, difficulty breakdowns, and high-stakes Boss Fights.
+                <p className="text-sm sm:text-base text-slate-400 max-w-xl mx-auto leading-relaxed">
+                  Access structured curriculum assessments for Classes 6 to 12. Complete with subject filtering, chapter selection, difficulty breakdowns, and instant explanations.
                 </p>
               </div>
 
+              {/* Primary Action Button */}
               <Link
                 href="/select"
-                className="mt-4 bg-[#00df9a] hover:bg-emerald-400 text-[#0b1329] text-base font-black py-4 px-10 rounded-2xl transition-all hover:scale-105 active:scale-95 shadow-[0_0_40px_-10px_rgba(0,223,154,0.5)] flex items-center gap-3"
+                className="group mt-2 bg-emerald-500 hover:bg-emerald-400 text-slate-950 font-semibold px-8 py-3.5 rounded-xl transition-all shadow-md hover:shadow-emerald-500/20 active:scale-95 inline-flex items-center gap-2.5 text-base cursor-pointer"
               >
-                Enter Curriculum Arena
-                <IconArrowRight className="w-5 h-5" />
+                <span>Start Assessment</span>
+                <IconArrowRight className="w-4 h-4 transition-transform duration-200 group-hover:translate-x-1" />
               </Link>
+
+              {/* Quick Jump Fast-Track Links */}
+              <div className="pt-2 flex flex-col sm:flex-row items-center justify-center gap-2.5">
+                <span className="text-xs font-semibold text-slate-500 uppercase tracking-wider">
+                  Quick Jump:
+                </span>
+                <div className="flex flex-wrap items-center justify-center gap-2">
+                  {[
+                    { label: 'Class 9', query: 'Class 9' },
+                    { label: 'Class 10', query: 'Class 10' },
+                    { label: 'Class 11', query: 'Class 11' },
+                    { label: 'Class 12', query: 'Class 12' },
+                  ].map((item) => (
+                    <Link
+                      key={item.label}
+                      href={`/select?class=${encodeURIComponent(item.query)}`}
+                      className="text-xs font-medium px-3.5 py-1.5 rounded-lg bg-slate-800/80 hover:bg-slate-800 text-slate-300 hover:text-white border border-slate-700/60 hover:border-slate-600 transition-all cursor-pointer shadow-xs"
+                    >
+                      {item.label}
+                    </Link>
+                  ))}
+                </div>
+              </div>
             </div>
           </div>
         </section>

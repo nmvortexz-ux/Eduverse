@@ -17,7 +17,14 @@ function sortChaptersSequential(chapters: ChapterInfo[]): ChapterInfo[] {
 // Canonical grade tier ordering
 const ALL_GRADES = ['Class 6', 'Class 7', 'Class 8', 'Class 9', 'Class 10', 'Class 11', 'Class 12'];
 
-export default async function SubjectSelectionPage() {
+export default async function SubjectSelectionPage({
+  searchParams,
+}: {
+  searchParams?: Promise<{ class?: string }>;
+}) {
+  const resolvedParams = searchParams ? await searchParams : undefined;
+  const initialClass = resolvedParams?.class || 'Class 7';
+
   // Query the database directly as requested, getting all class/subject/chapter/difficulty groupings
   const rawCurriculum = await prisma.question.groupBy({
     by: ['class', 'subject', 'chapter', 'difficulty'],
@@ -123,7 +130,7 @@ export default async function SubjectSelectionPage() {
   return (
     <SubjectSelectionClient
       classesData={classesData}
-      defaultSelectedClass="Class 7"
+      defaultSelectedClass={initialClass}
     />
   );
 }

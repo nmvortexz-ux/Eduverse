@@ -1,6 +1,6 @@
 'use client';
 
-import React, { useState, useMemo } from 'react';
+import React, { useState, useMemo, useEffect } from 'react';
 import { useRouter } from 'next/navigation';
 import { motion } from 'framer-motion';
 import Navbar from '@/components/Navbar';
@@ -153,6 +153,12 @@ export default function SubjectSelectionClient({
   const [selectedClass, setSelectedClass] = useState(initialClass);
   const [selectedChapters, setSelectedChapters] = useState<Record<string, string>>({});
   const [streamFilter, setStreamFilter] = useState<StreamFilter>('All');
+
+  useEffect(() => {
+    if (defaultSelectedClass && classesData.some((c) => c.name === defaultSelectedClass)) {
+      setSelectedClass(defaultSelectedClass);
+    }
+  }, [defaultSelectedClass, classesData]);
 
   const currentClassData = useMemo(
     () =>
