@@ -2,6 +2,7 @@
 
 import { prisma } from '@/lib/prisma';
 import { revalidatePath } from 'next/cache';
+import { isAdmin } from '@/lib/authz';
 
 export interface IngestionStats {
   totalReceived: number;
@@ -56,6 +57,10 @@ function normalizeDifficulty(rawDiff: any): string {
  * Server action to fetch current question database overview
  */
 export async function getAdminDbStats(): Promise<AdminDbStats> {
+  if (!(await isAdmin())) {
+    // Not authorized — return an empty overview without leaking any data.
+    return { totalQuestions: 0, totalAttempts: 0, classBreakdown: [], subjectBreakdown: [] };
+  }
   try {
     const totalQuestions = await prisma.question.count();
     const totalAttempts = await prisma.quizAttempt.count().catch(() => 0);
@@ -107,6 +112,18 @@ export async function batchInsertQuestions(
     durationMs: 0,
   };
 
+  // Authorization: this action mutates (and, with allowOverwrite, DELETES) the
+  // question bank, so it must be gated independently. The /admin layout guards the
+  // UI, but Server Actions are dispatched by action id and are reachable directly.
+  if (!(await isAdmin())) {
+    stats.durationMs = Date.now() - startTime;
+    return {
+      success: false,
+      message: 'Forbidden: admin access required.',
+      stats,
+    };
+  }
+
   if (!rawJsonString || typeof rawJsonString !== 'string' || !rawJsonString.trim()) {
     stats.durationMs = Date.now() - startTime;
     return {
@@ -141,6 +158,16 @@ export async function batchInsertQuestions(
     return {
       success: false,
       message: 'No question objects found in the provided JSON array.',
+      stats,
+    };
+  }
+
+  const MAX_BATCH = 2000;
+  if (stats.totalReceived > MAX_BATCH) {
+    stats.durationMs = Date.now() - startTime;
+    return {
+      success: false,
+      message: `Batch too large: ${stats.totalReceived} questions received, limit is ${MAX_BATCH} per request.`,
       stats,
     };
   }
@@ -268,11 +295,12 @@ export async function batchInsertQuestions(
 
       stats.inserted++;
     } catch (insertErr: any) {
+      console.error(`Ingestion insert failed at index ${index}:`, insertErr);
       stats.failed++;
       stats.errors.push({
         index,
         questionSnippet: snippet,
-        reason: insertErr.message || 'Database error occurred during insertion',
+        reason: 'Database error occurred during insertion.',
       });
     }
   }

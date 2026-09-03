@@ -59,7 +59,29 @@ function ResultsContent() {
   const [loadingQuestions, setLoadingQuestions] = useState(true);
 
   useEffect(() => {
-    fetch(`/api/questions?class=${encodeURIComponent(cls)}&subject=${encodeURIComponent(subject)}&limit=${total}`)
+    // Check if breakdown was returned from server upon submission
+    try {
+      const stored = sessionStorage.getItem('eduverse_quiz_breakdown');
+      if (stored) {
+        const parsed = JSON.parse(stored);
+        if (Array.isArray(parsed) && parsed.length > 0) {
+          setQuestions(
+            parsed.map((item) => ({
+              id: item.questionId,
+              text: item.questionText,
+              explanation: item.explanation,
+              difficulty: item.difficulty || 'Medium',
+              options: item.options || [],
+            }))
+          );
+          setLoadingQuestions(false);
+          return;
+        }
+      }
+    } catch {}
+
+    // Fallback: fetch with mode=practice to retrieve answer keys for review
+    fetch(`/api/questions?class=${encodeURIComponent(cls)}&subject=${encodeURIComponent(subject)}&mode=practice&limit=${total}`)
       .then((r) => r.json())
       .then((json) => {
         if (json.success && json.data) {

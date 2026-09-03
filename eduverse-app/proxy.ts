@@ -1,7 +1,15 @@
 import { clerkMiddleware, createRouteMatcher } from "@clerk/nextjs/server";
 import { NextResponse, type NextRequest } from "next/server";
 
-// Define public routes explicitly to allow frictionless access for students
+/**
+ * EduVerse Deny-By-Default Edge Security Gateway
+ *
+ * Exposes ONLY explicitly allowlisted read-only public pages & non-sensitive endpoints.
+ * All state-mutating API routes (/api/quiz/submit, /api/admin/*) and private routes
+ * are strictly protected and require valid Clerk authentication.
+ */
+
+// Allowlist ONLY public navigation pages & non-sensitive read APIs
 const isPublicRoute = createRouteMatcher([
   "/",
   "/select(.*)",
@@ -15,7 +23,11 @@ const isPublicRoute = createRouteMatcher([
   "/privacy(.*)",
   "/sign-in(.*)",
   "/sign-up(.*)",
-  "/api/(.*)",
+  // Strictly allowlisted non-sensitive read-only APIs
+  "/api/questions(.*)",
+  "/api/meta(.*)",
+  "/api/leaderboard(.*)",
+  "/api/stats(.*)",
 ]);
 
 const publishableKey =
@@ -24,6 +36,7 @@ const publishableKey =
 
 const clerkHandler = clerkMiddleware(
   async (auth, req) => {
+    // Deny-by-default: Protect all routes not explicitly in the public allowlist
     if (!isPublicRoute(req)) {
       await auth.protect();
     }
@@ -38,15 +51,22 @@ export default async function middleware(req: NextRequest, evt: any) {
   try {
     return await clerkHandler(req, evt);
   } catch (error) {
-    // Security: Fail-OPEN only for explicitly public routes.
-    // Private routes fail-CLOSED with redirect to sign-in.
-    console.error("Clerk Edge Middleware Handled Exception:", error);
+    console.error("Clerk Edge Middleware Access Intercepted:", error);
 
+    // Fail-open ONLY for explicitly allowlisted public routes
     if (isPublicRoute(req)) {
       return NextResponse.next();
     }
 
-    // Private route: redirect to sign-in
+    // For protected API endpoints, return JSON 401 instead of HTML redirect
+    if (req.nextUrl.pathname.startsWith('/api/')) {
+      return NextResponse.json(
+        { success: false, error: 'Unauthorized: Authentication required to perform this action.' },
+        { status: 401 }
+      );
+    }
+
+    // For private pages, redirect to sign-in with return URL
     const signInUrl = new URL('/sign-in', req.url);
     signInUrl.searchParams.set('redirect_url', req.url);
     return NextResponse.redirect(signInUrl);

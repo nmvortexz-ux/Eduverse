@@ -1,6 +1,6 @@
 import { NextResponse } from 'next/server';
 import { auth } from '@clerk/nextjs/server';
-import { prisma } from '../../../lib/prisma';
+import { prisma } from '@/lib/prisma';
 import { QuizAttempt, User } from '@prisma/client';
 
 function assignBadges(rank: number, totalQuizzes: number, avgAccuracy: number) {
@@ -22,8 +22,58 @@ function assignBadges(rank: number, totalQuizzes: number, avgAccuracy: number) {
   return badges;
 }
 
-interface UserWithAttempts extends User {
-  quizAttempts: QuizAttempt[];
+function getDeterministicScholarNumber(str: string): number {
+  let hash = 0;
+  for (let i = 0; i < str.length; i++) {
+    hash = ((hash << 5) - hash) + str.charCodeAt(i);
+    hash |= 0;
+  }
+  return Math.abs(hash % 900) + 100; // e.g. 429
+}
+
+function getAnonymizedId(userId: string): string {
+  let hash = 0;
+  for (let i = 0; i < userId.length; i++) {
+    hash = ((hash << 5) - hash) + userId.charCodeAt(i);
+    hash |= 0;
+  }
+  return `std_${Math.abs(hash).toString(16)}`;
+}
+
+function anonymizeDisplayName(
+  rawName: string | null | undefined,
+  userId: string,
+  classNum: number
+): { displayName: string; initial: string } {
+  const trimmed = rawName?.trim();
+  if (trimmed && trimmed.length > 0) {
+    // Retain only first name for minor student privacy (DPDP / COPPA compliance)
+    const firstName = trimmed.split(/\s+/)[0];
+    const sanitized = firstName.charAt(0).toUpperCase() + firstName.slice(1).toLowerCase();
+    return {
+      displayName: `${sanitized} (Class ${classNum})`,
+      initial: sanitized.charAt(0).toUpperCase(),
+    };
+  }
+
+  // Deterministic fallback pseudonym if name is absent or omitted
+  const scholarNum = getDeterministicScholarNumber(userId);
+  return {
+    displayName: `Scholar #${scholarNum} (Class ${classNum})`,
+    initial: 'S',
+  };
+}
+
+interface UserWithAttempts {
+  id: string;
+  name: string | null;
+  quizAttempts: {
+    correctAnswers: number;
+    totalQuestions: number;
+    score: number;
+    class: number;
+    completedAt: Date;
+  }[];
 }
 
 export async function GET(request: Request) {
@@ -32,14 +82,19 @@ export async function GET(request: Request) {
     const classFilter = searchParams.get('class');
     const timeframeFilter = searchParams.get('timeframe') || searchParams.get('period');
 
-    // 1. Parse class filter integer
+    // 1. Pagination parameters (bounded to prevent memory exhaustion)
+    const page = Math.max(1, parseInt(searchParams.get('page') || '1', 10));
+    const pageSize = Math.min(50, Math.max(10, parseInt(searchParams.get('limit') || '50', 10)));
+    const skip = (page - 1) * pageSize;
+
+    // 2. Parse class filter integer
     let parsedClass: number | null = null;
     if (classFilter && classFilter !== 'All' && classFilter !== 'All Classes') {
       const match = classFilter.match(/\d+/);
       if (match) parsedClass = parseInt(match[0], 10);
     }
 
-    // 2. Parse timeframe filter
+    // 3. Parse timeframe filter
     let timeframeDate: Date | null = null;
     if (timeframeFilter) {
       const tf = timeframeFilter.toLowerCase();
@@ -53,8 +108,8 @@ export async function GET(request: Request) {
       }
     }
 
-    // 3. Build Prisma where clause for QuizAttempt
-    const whereAttempt: Record<string, any> = {};
+    // 4. Build attempt criteria
+    const whereAttempt: Record<string, unknown> = {};
     if (parsedClass !== null) {
       whereAttempt.class = parsedClass;
     }
@@ -62,16 +117,22 @@ export async function GET(request: Request) {
       whereAttempt.completedAt = { gte: timeframeDate };
     }
 
-    // 4. Fetch users with their filtered quiz attempts from database
-    // Security: select only required fields, email is deliberately excluded
+    // 5. Query active users with a bounded dataset (take: 100) to prevent unbounded memory usage
+    // Strictly omit email, clerkId, and external social imageUrl
     const users = (await prisma.user.findMany({
+      where: {
+        quizAttempts: {
+          some: whereAttempt,
+        },
+      },
+      take: 100,
       select: {
         id: true,
         name: true,
-        imageUrl: true,
         quizAttempts: {
           where: whereAttempt,
           orderBy: { completedAt: 'desc' },
+          take: 50,
           select: {
             correctAnswers: true,
             totalQuestions: true,
@@ -83,24 +144,26 @@ export async function GET(request: Request) {
       },
     })) as UserWithAttempts[];
 
-    // 5. Aggregate user performance strictly from real database attempts
+    // 6. Aggregate user performance strictly from real database attempts
     const userStats = users
-      .filter((u: UserWithAttempts) => u.quizAttempts && u.quizAttempts.length > 0)
-      .map((u: UserWithAttempts) => {
+      .filter((u) => u.quizAttempts && u.quizAttempts.length > 0)
+      .map((u) => {
         const totalQuizzes = u.quizAttempts.length;
-        const totalCorrect = u.quizAttempts.reduce((acc: number, curr: QuizAttempt) => acc + curr.correctAnswers, 0);
-        const totalAttempted = u.quizAttempts.reduce((acc: number, curr: QuizAttempt) => acc + curr.totalQuestions, 0);
+        const totalCorrect = u.quizAttempts.reduce((acc, curr) => acc + curr.correctAnswers, 0);
+        const totalAttempted = u.quizAttempts.reduce((acc, curr) => acc + curr.totalQuestions, 0);
         const avgAccuracy = totalAttempted > 0 ? Math.round((totalCorrect / totalAttempted) * 100) : 0;
-        const totalScore = u.quizAttempts.reduce((acc: number, curr: QuizAttempt) => acc + curr.score, 0);
+        const totalScore = u.quizAttempts.reduce((acc, curr) => acc + curr.score, 0);
         const lastClass = u.quizAttempts[0]?.class || 9;
 
-        const displayName = u.name || (u.email ? u.email.split('@')[0] : 'Learner');
+        const { displayName, initial } = anonymizeDisplayName(u.name, u.id, lastClass);
+        const anonymizedId = getAnonymizedId(u.id);
 
         return {
-          id: u.id,
+          rawUserId: u.id, // For currentUserRank matching only, stripped before sending
+          id: anonymizedId,
           name: displayName,
-          avatar: u.imageUrl || null,
-          initial: displayName.charAt(0).toUpperCase(),
+          avatar: null, // DPDP/COPPA: zero leakage of external social/Google avatars
+          initial,
           classNum: lastClass,
           className: `Class ${lastClass}`,
           totalQuizzes,
@@ -110,45 +173,63 @@ export async function GET(request: Request) {
         };
       });
 
-    // 6. Sort users by avgAccuracy descending, then totalQuizzes descending
+    // 7. Sort users by avgAccuracy descending, then totalQuizzes descending
     userStats.sort((a, b) => {
       if (b.avgAccuracy !== a.avgAccuracy) return b.avgAccuracy - a.avgAccuracy;
       return b.totalQuizzes - a.totalQuizzes;
     });
 
-    // 7. Assign ranks and dynamic badges
+    // 8. Identify current logged-in user rank before stripping raw IDs
+    let currentAuthUserId: string | null = null;
+    try {
+      const { userId } = await auth();
+      currentAuthUserId = userId;
+    } catch {
+      // Unauthenticated fallback
+    }
+
+    let currentUserRank = null;
+
+    // 9. Assign ranks and dynamic badges
     const rankedList = userStats.map((item, index: number) => {
       const rank = index + 1;
       const badges = assignBadges(rank, item.totalQuizzes, item.avgAccuracy);
-      return {
-        ...item,
+      
+      const isCurrentUser = Boolean(currentAuthUserId && item.rawUserId === currentAuthUserId);
+      const publicItem = {
+        id: item.id,
         rank,
+        name: item.name,
+        avatar: item.avatar,
+        initial: item.initial,
+        classNum: item.classNum,
+        className: item.className,
+        totalQuizzes: item.totalQuizzes,
+        totalScore: item.totalScore,
+        avgAccuracy: item.avgAccuracy,
         badges,
+        isRealUser: true,
       };
+
+      if (isCurrentUser) {
+        currentUserRank = publicItem;
+      }
+
+      return publicItem;
     });
 
+    // 10. Split into podium top 3 and paginated rankings list
     const topThree = rankedList.slice(0, 3);
-    const rankings = rankedList.slice(3);
-
-    // 8. Identify current logged-in user rank
-    let currentUserRank = null;
-    try {
-      const { userId } = await auth();
-      if (userId) {
-        const userRankItem = rankedList.find((u) => u.id === userId);
-        if (userRankItem) {
-          currentUserRank = userRankItem;
-        }
-      }
-    } catch {
-      // auth failure fallback
-    }
+    const remainingList = rankedList.slice(3);
+    const rankings = remainingList.slice(skip, skip + pageSize);
 
     return NextResponse.json({
       success: true,
+      page,
+      pageSize,
+      totalStudents: rankedList.length,
       topThree,
       rankings,
-      totalStudents: rankedList.length,
       currentUserRank,
     });
   } catch (error) {

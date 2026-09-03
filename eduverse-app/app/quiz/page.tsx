@@ -122,7 +122,7 @@ function QuizContent() {
   useEffect(() => {
     const fetchQuestions = async () => {
       try {
-        let url = `/api/questions?class=${encodeURIComponent(cls)}&subject=${encodeURIComponent(subject)}&limit=200`;
+        let url = `/api/questions?class=${encodeURIComponent(cls)}&subject=${encodeURIComponent(subject)}&mode=${encodeURIComponent(mode)}&limit=200`;
         if (chapter && chapter !== 'All Chapters') {
           url += `&chapter=${encodeURIComponent(chapter)}`;
         }
@@ -232,20 +232,29 @@ function QuizContent() {
       if (opt?.isCorrect) correct++; else wrong++;
     });
     const score = correct * 5 - wrong * 1;
-    const scorePct = questions.length > 0 ? Math.round((correct / questions.length) * 100) : 0;
     const classNum = parseInt(cls.replace(/\D/g, '')) || 9;
 
+    // Send raw answers; server grades them against the DB answer key and
+    // computes the authoritative score & detailed post-submission breakdown.
     fetch('/api/quiz/submit', {
       method: 'POST',
       headers: { 'Content-Type': 'application/json' },
       body: JSON.stringify({
         subject: subject || 'General',
         class: classNum,
-        score: scorePct,
-        totalQuestions: questions.length,
-        correctAnswers: correct,
+        questionIds: questions.map((q) => q.id),
+        answers: selected,
       }),
-    }).catch((err) => console.error('Failed to save attempt to DB:', err));
+    })
+      .then((res) => res.json())
+      .then((data) => {
+        if (data.success && data.breakdown) {
+          try {
+            sessionStorage.setItem('eduverse_quiz_breakdown', JSON.stringify(data.breakdown));
+          } catch {}
+        }
+      })
+      .catch((err) => console.error('Failed to save attempt to DB:', err));
 
     const params = new URLSearchParams({
       class:      cls,
