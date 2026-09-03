@@ -146,12 +146,12 @@ export default function HomePage() {
         {/* ── Main Assessment CTA Banner ── */}
         <section className="py-6 sm:py-8">
           <div className="bg-gradient-to-b from-slate-900/90 to-slate-950/80 border border-slate-800 rounded-3xl p-8 sm:p-12 text-center shadow-2xl relative overflow-hidden">
-            {/* Subtle emerald top glow */}
-            <div className="absolute top-0 left-1/2 -translate-x-1/2 -translate-y-1/2 w-96 sm:w-[540px] h-48 bg-emerald-500/15 blur-[100px] rounded-full pointer-events-none" />
+            {/* Subtle top ambient glow */}
+            <div className="absolute top-0 left-1/2 -translate-x-1/2 -translate-y-1/2 w-96 sm:w-[540px] h-48 bg-indigo-500/20 blur-[100px] rounded-full pointer-events-none" />
             
             <div className="relative z-10 flex flex-col items-center gap-6">
               {/* Header Icon Badge */}
-              <div className="w-14 h-14 rounded-2xl bg-slate-800/80 border border-slate-700/80 flex items-center justify-center text-emerald-400 shadow-inner">
+              <div className="w-14 h-14 rounded-2xl bg-slate-800/80 border border-slate-700/80 flex items-center justify-center text-indigo-400 shadow-inner">
                 <IconBarChart className="w-7 h-7" />
               </div>
               
@@ -164,13 +164,15 @@ export default function HomePage() {
                 </p>
               </div>
 
-              {/* Primary Action Button */}
+              {/* Primary Action Button - Highly visible, vibrant & attractive */}
               <Link
                 href="/select"
-                className="group mt-2 bg-white hover:bg-slate-100 text-slate-950 font-bold px-8 py-3.5 rounded-xl transition-all shadow-md hover:shadow-lg active:scale-95 inline-flex items-center gap-2.5 text-base cursor-pointer"
+                className="group mt-2 bg-gradient-to-r from-blue-600 via-indigo-600 to-violet-600 hover:from-blue-500 hover:via-indigo-500 hover:to-violet-500 text-white font-bold px-8 py-3.5 rounded-xl transition-all shadow-lg shadow-indigo-600/30 hover:shadow-indigo-600/50 hover:scale-[1.02] active:scale-95 inline-flex items-center gap-2.5 text-base cursor-pointer border border-indigo-400/30"
               >
-                <span>Start Assessment</span>
-                <IconArrowRight className="w-4 h-4 transition-transform duration-200 group-hover:translate-x-1" />
+                <span className="text-white font-bold tracking-wide drop-shadow-xs" style={{ color: '#ffffff' }}>
+                  Start Assessment
+                </span>
+                <IconArrowRight className="w-4 h-4 text-white transition-transform duration-200 group-hover:translate-x-1" />
               </Link>
 
               {/* Quick Jump Fast-Track Links */}
