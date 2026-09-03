@@ -167,19 +167,22 @@ export default function HomePage() {
               {/* Primary Action Button */}
               <Link
                 href="/select"
-                className="group mt-2 bg-emerald-500 hover:bg-emerald-400 text-slate-950 font-semibold px-8 py-3.5 rounded-xl transition-all shadow-md hover:shadow-emerald-500/20 active:scale-95 inline-flex items-center gap-2.5 text-base cursor-pointer"
+                className="group mt-2 bg-white hover:bg-slate-100 text-slate-950 font-bold px-8 py-3.5 rounded-xl transition-all shadow-md hover:shadow-lg active:scale-95 inline-flex items-center gap-2.5 text-base cursor-pointer"
               >
                 <span>Start Assessment</span>
                 <IconArrowRight className="w-4 h-4 transition-transform duration-200 group-hover:translate-x-1" />
               </Link>
 
               {/* Quick Jump Fast-Track Links */}
-              <div className="pt-2 flex flex-col sm:flex-row items-center justify-center gap-2.5">
-                <span className="text-xs font-semibold text-slate-500 uppercase tracking-wider">
+              <div className="pt-2 flex flex-col sm:flex-row items-center justify-center gap-2.5 max-w-2xl mx-auto">
+                <span className="text-xs font-semibold text-slate-500 uppercase tracking-wider shrink-0">
                   Quick Jump:
                 </span>
                 <div className="flex flex-wrap items-center justify-center gap-2">
                   {[
+                    { label: 'Class 6', query: 'Class 6' },
+                    { label: 'Class 7', query: 'Class 7' },
+                    { label: 'Class 8', query: 'Class 8' },
                     { label: 'Class 9', query: 'Class 9' },
                     { label: 'Class 10', query: 'Class 10' },
                     { label: 'Class 11', query: 'Class 11' },
@@ -188,7 +191,7 @@ export default function HomePage() {
                     <Link
                       key={item.label}
                       href={`/select?class=${encodeURIComponent(item.query)}`}
-                      className="text-xs font-medium px-3.5 py-1.5 rounded-lg bg-slate-800/80 hover:bg-slate-800 text-slate-300 hover:text-white border border-slate-700/60 hover:border-slate-600 transition-all cursor-pointer shadow-xs"
+                      className="text-xs font-medium px-3.5 py-1.5 rounded-lg bg-slate-800/80 hover:bg-slate-700 text-slate-300 hover:text-white border border-slate-700/60 hover:border-slate-500 transition-all cursor-pointer shadow-xs"
                     >
                       {item.label}
                     </Link>
