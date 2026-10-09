@@ -3,10 +3,6 @@ import { auth } from '@clerk/nextjs/server';
 
 export const runtime = 'nodejs';
 
-const ai = new GoogleGenAI({
-  apiKey: process.env.GEMINI_API_KEY,
-});
-
 const SYSTEM_INSTRUCTION = `
 You are the EduVerse Academic Companion — a sweet, warm, patient, and friendly mentor for school students (Classes 6 to 12).
 
@@ -26,10 +22,40 @@ Supported routes:
 - Home: /
 `;
 
+// Priority cascade: ultra-fast, low-latency, resilient models
+const CANDIDATE_MODELS = [
+  'gemini-3.5-flash-lite',
+  'gemini-3.5-flash',
+  'gemini-flash-lite-latest',
+  'gemini-3.6-flash',
+  'gemini-3.8-flash',
+];
+
 export async function POST(req: Request) {
   try {
-    const { userId } = await auth();
-    if (!userId) {
+    const apiKey = process.env.GEMINI_API_KEY;
+    if (!apiKey) {
+      console.error('GEMINI_API_KEY is not defined in environment variables.');
+      return new Response(JSON.stringify({ error: 'AI service is temporarily misconfigured.' }), {
+        status: 500,
+        headers: { 'Content-Type': 'application/json' },
+      });
+    }
+
+    // Clerk authentication check
+    let userId: string | null = null;
+    try {
+      const session = await auth();
+      userId = session.userId;
+    } catch (authErr) {
+      // Auth context not available or origin mismatch
+      console.warn('Auth check skipped or failed:', authErr);
+    }
+
+    // In development mode, allow guest access for seamless local testing
+    // In production, require authentication
+    const isDev = process.env.NODE_ENV === 'development';
+    if (!userId && !isDev) {
       return new Response(JSON.stringify({ error: 'Please sign in to chat.' }), {
         status: 401,
         headers: { 'Content-Type': 'application/json' },
@@ -44,7 +70,7 @@ export async function POST(req: Request) {
       });
     }
 
-    // Format chat history into Gemini contents format (supports both {role, content} and {sender, text})
+    // Format chat history into Gemini contents format
     const contents = messages
       .slice(-10)
       .map((m: any) => ({
@@ -60,40 +86,53 @@ export async function POST(req: Request) {
       });
     }
 
-    // Stream response with resilient primary & fallback flash model
-    let responseStream;
-    try {
-      responseStream = await ai.models.generateContentStream({
-        model: 'gemini-3.8-flash',
-        contents,
-        config: {
-          systemInstruction: SYSTEM_INSTRUCTION,
-          temperature: 0.7,
-        },
-      });
-    } catch (primaryErr: any) {
-      console.warn('Primary model busy, switching to fallback:', primaryErr?.message || primaryErr);
-      responseStream = await ai.models.generateContentStream({
-        model: 'gemini-3.5-flash-lite',
-        contents,
-        config: {
-          systemInstruction: SYSTEM_INSTRUCTION,
-          temperature: 0.7,
-        },
-      });
+    const ai = new GoogleGenAI({ apiKey });
+
+    // Multi-tier model fallback for maximum resilience & lowest latency
+    let responseStream = null;
+    let lastError: any = null;
+
+    for (const model of CANDIDATE_MODELS) {
+      try {
+        responseStream = await ai.models.generateContentStream({
+          model,
+          contents,
+          config: {
+            systemInstruction: SYSTEM_INSTRUCTION,
+            temperature: 0.7,
+          },
+        });
+        if (responseStream) break;
+      } catch (err: any) {
+        console.warn(`Model ${model} unavailable (${err?.status || err?.code || 'error'}), attempting fallback...`);
+        lastError = err;
+      }
+    }
+
+    if (!responseStream) {
+      throw lastError || new Error('All AI models are currently busy. Please try again shortly.');
     }
 
     const encoder = new TextEncoder();
     const readable = new ReadableStream({
       async start(controller) {
+        let chunkCount = 0;
         try {
           for await (const chunk of responseStream) {
             if (chunk.text) {
               controller.enqueue(encoder.encode(chunk.text));
+              chunkCount++;
             }
           }
         } catch (streamErr) {
           console.error('Stream iteration error:', streamErr);
+          if (chunkCount === 0) {
+            controller.enqueue(
+              encoder.encode(
+                "I'm so sorry, I had a brief hiccup connecting! Please ask me again, and I'll be glad to help. 😊"
+              )
+            );
+          }
         } finally {
           controller.close();
         }
@@ -107,9 +146,9 @@ export async function POST(req: Request) {
       },
     });
   } catch (error: any) {
-    console.error('Chat error:', error);
+    console.error('Chat API error:', error);
     return new Response(
-      JSON.stringify({ error: 'Something went wrong. Please try again in a moment.' }),
+      JSON.stringify({ error: error?.message || 'Something went wrong. Please try again in a moment.' }),
       { status: 500, headers: { 'Content-Type': 'application/json' } }
     );
   }

@@ -273,8 +273,42 @@ export default function EduVerseChatbox() {
         return;
       }
 
+      if (response.status === 429) {
+        setMessages((prev) =>
+          prev.map((msg) =>
+            msg.id === assistantMessageId
+              ? {
+                  ...msg,
+                  text: "The study room is a bit crowded right now! 🏃💨 Please give it a few seconds and send your message again.",
+                  isStreaming: false,
+                }
+              : msg
+          )
+        );
+        setIsTyping(false);
+        return;
+      }
+
       if (!response.ok || !response.body) {
-        throw new Error(`HTTP ${response.status}`);
+        let errorDetails = '';
+        try {
+          const data = await response.json();
+          if (data?.error) errorDetails = data.error;
+        } catch {}
+
+        setMessages((prev) =>
+          prev.map((msg) =>
+            msg.id === assistantMessageId
+              ? {
+                  ...msg,
+                  text: errorDetails || "I'm having a little trouble connecting right now. Please check your connection and try again in a moment! 😊",
+                  isStreaming: false,
+                }
+              : msg
+          )
+        );
+        setIsTyping(false);
+        return;
       }
 
       const reader = response.body.getReader();
