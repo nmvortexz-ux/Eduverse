@@ -3,6 +3,7 @@ import { dark } from "@clerk/themes";
 import type { Metadata } from "next";
 import { Plus_Jakarta_Sans } from "next/font/google";
 import SmoothScrolling from "@/components/SmoothScrolling";
+import EduVerseChatbox from "@/components/EduVerseChatbox";
 import "katex/dist/katex.min.css";
 import "./globals.css";
 
@@ -101,6 +102,7 @@ export default function RootLayout({
           <SmoothScrolling>
             {children}
           </SmoothScrolling>
+          <EduVerseChatbox />
         </body>
       </html>
     </ClerkProvider>
