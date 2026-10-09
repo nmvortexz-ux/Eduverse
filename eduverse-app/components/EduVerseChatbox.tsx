@@ -4,6 +4,147 @@ import React, { useState, useEffect, useRef } from 'react';
 import Link from 'next/link';
 import { useRouter } from 'next/navigation';
 import { motion, AnimatePresence } from 'framer-motion';
+import { useUser } from '@clerk/nextjs';
+import MathText from '@/components/MathText';
+// ─── Client-Side Fallback Intent Engine ──────────────────────────────────────
+function handleLocalAssistantResponse(rawInput: string): {
+  text: string;
+  actions?: ChatAction[];
+  quickReplies?: string[];
+} {
+  const query = rawInput.trim().toLowerCase();
+
+  let detectedClass: string | null = null;
+  const classMatch = query.match(/(?:class|grade|standard|std)\s*(\d{1,2})|(\d{1,2})(?:th|st|nd|rd)?\s*(?:class|grade)/i);
+  if (classMatch) {
+    const num = parseInt(classMatch[1] || classMatch[2], 10);
+    if (num >= 6 && num <= 12) detectedClass = `Class ${num}`;
+  } else {
+    const directDigit = query.match(/\b(6|7|8|9|10|11|12)\b/);
+    if (directDigit && (query.includes('mcq') || query.includes('quiz') || query.includes('test') || query.includes('chapter'))) {
+      detectedClass = `Class ${directDigit[1]}`;
+    }
+  }
+
+  let detectedSubject: string | null = null;
+  if (/science|physics|chemistry|biology/.test(query)) detectedSubject = 'Science';
+  else if (/math|mathematics|algebra|geometry|calculus/.test(query)) detectedSubject = 'Mathematics';
+  else if (/social|history|geography|civics|sst|polity/.test(query)) detectedSubject = 'Social Studies';
+  else if (/english|literature|prose|poetry/.test(query)) detectedSubject = 'English';
+  else if (/hindi|vyakaran|grammar/.test(query)) detectedSubject = 'Hindi Grammar';
+  else if (/account|accounts|accountancy|balance\s*sheet/.test(query)) detectedSubject = 'Accountancy';
+  else if (/economics|eco|macro|micro|gdp/.test(query)) detectedSubject = 'Economics';
+  else if (/commerce|business|bst/.test(query)) detectedSubject = 'Commerce';
+  else if (/gk|general\s*knowledge|current\s*affairs/.test(query)) detectedSubject = 'GK';
+
+  if (/boss|fight|arena|invigilator|sharma\s*ji|rival/.test(query)) {
+    return {
+      text: "Step into the EduVerse Boss Fight Arena! Challenge curriculum bosses like 'The Strict Invigilator' and 'Sharma Ji Ka Beta' in high-stakes conceptual battles.",
+      actions: [{ label: '⚔️ Enter Boss Fight Arena', href: '/boss-fight', variant: 'accent' }],
+      quickReplies: ['Take Class 10 Science Quiz', 'Show Leaderboard'],
+    };
+  }
+
+  if (/leaderboard|rank|ranks|scoring|top\s*student|standing/.test(query)) {
+    return {
+      text: "Here is the EduVerse Live Leaderboard. You can view top performers, grade-level ranks, and scholar badges with minor privacy protections.",
+      actions: [
+        { label: '🏆 View Leaderboard', href: '/leaderboard', variant: 'primary' },
+        { label: '📊 View My Dashboard Stats', href: '/dashboard', variant: 'secondary' },
+      ],
+      quickReplies: ['View Student Dashboard', 'Take Class 10 Science Quiz'],
+    };
+  }
+
+  if (/dashboard|progress|profile|xp|stats|accuracy|my\s*score/.test(query)) {
+    return {
+      text: "Navigating to your Student Dashboard. Review your XP points, accuracy rate, subject mastery progress, and recent quiz attempts.",
+      actions: [{ label: '📈 Open Student Dashboard', href: '/dashboard', variant: 'primary' }],
+      quickReplies: ['Show Leaderboard', 'Open Class 7th MCQs'],
+    };
+  }
+
+  if (detectedClass && detectedSubject) {
+    const encodedClass = encodeURIComponent(detectedClass);
+    const encodedSubject = encodeURIComponent(detectedSubject);
+    return {
+      text: `Great choice! Here are direct shortcuts for ${detectedClass} ${detectedSubject}:`,
+      actions: [
+        {
+          label: `⚡ Configure ${detectedClass} ${detectedSubject} Quiz`,
+          href: `/configure?class=${encodedClass}&subject=${encodedSubject}`,
+          variant: 'primary',
+        },
+        {
+          label: `📚 Browse ${detectedClass} Chapters`,
+          href: `/select?class=${encodedClass}`,
+          variant: 'secondary',
+        },
+      ],
+      quickReplies: [`Take ${detectedClass} ${detectedSubject} Quiz`, 'Show Leaderboard'],
+    };
+  }
+
+  if (detectedClass) {
+    const encodedClass = encodeURIComponent(detectedClass);
+    return {
+      text: `Alright! I found all available chapter tests and subjects for ${detectedClass}:`,
+      actions: [
+        {
+          label: `📂 Open ${detectedClass} Curriculum Hub`,
+          href: `/select?class=${encodedClass}`,
+          variant: 'primary',
+        },
+        {
+          label: `🎯 Setup Custom ${detectedClass} Assessment`,
+          href: `/configure?class=${encodedClass}`,
+          variant: 'secondary',
+        },
+      ],
+      quickReplies: ['Class 10 Science', 'Class 7 Math', 'Show Leaderboard'],
+    };
+  }
+
+  if (detectedSubject) {
+    return {
+      text: `Looking for ${detectedSubject}? Select your grade tier or explore all chapters below:`,
+      actions: [{ label: `🔍 Browse ${detectedSubject} by Grade`, href: `/select`, variant: 'primary' }],
+      quickReplies: [`Class 10 ${detectedSubject}`, `Class 9 ${detectedSubject}`],
+    };
+  }
+
+  if (/quiz|test|exam|practice|assessment|configure|mcq/.test(query)) {
+    return {
+      text: "You can customize any assessment by difficulty (Easy, Medium, Hard, Very Hard) and mode (Practice vs. Exam with timer).",
+      actions: [
+        { label: '⚙️ Open Assessment Wizard', href: '/configure', variant: 'primary' },
+        { label: '📖 Browse Curriculum', href: '/select', variant: 'secondary' },
+      ],
+      quickReplies: ['Take Class 10 Science Quiz', 'Open Class 7th MCQs'],
+    };
+  }
+
+  if (/^(hi|hello|hey|greetings|hola|sup|help|start)\b/i.test(query)) {
+    return {
+      text: "Hi there! I'm your EduVerse Navigation Copilot. Ask me to launch any grade or subject quiz (e.g., 'class 10 science' or 'open class 7th mcq'), or check your leaderboard rankings.",
+      actions: [
+        { label: '📚 Browse All Classes (6–12)', href: '/select', variant: 'primary' },
+        { label: '🏆 View Leaderboard', href: '/leaderboard', variant: 'secondary' },
+      ],
+      quickReplies: ['Take Class 10 Science Quiz', 'Open Class 7th MCQs', 'Show Leaderboard'],
+    };
+  }
+
+  return {
+    text: `I'm ready to help you navigate EduVerse. You can ask for any class (6–12), specific subjects (Science, Math, Social Studies, Commerce, etc.), or platform features:`,
+    actions: [
+      { label: '📚 Open Curriculum Catalog', href: '/select', variant: 'primary' },
+      { label: '🏆 Check Leaderboard', href: '/leaderboard', variant: 'secondary' },
+      { label: '⚔️ Try Boss Fight Arena', href: '/boss-fight', variant: 'accent' },
+    ],
+    quickReplies: ['Take Class 10 Science Quiz', 'Open Class 7th MCQs', 'Show Leaderboard'],
+  };
+}
 
 // ─── Interfaces ──────────────────────────────────────────────────────────────
 export interface ChatAction {
@@ -20,6 +161,7 @@ export interface ChatMessage {
   timestamp: string;
   actions?: ChatAction[];
   quickReplies?: string[];
+  isStreaming?: boolean;
 }
 
 // ─── Inline Clean SVGs ───────────────────────────────────────────────────────
@@ -106,17 +248,12 @@ function IconTrophy({ className = 'w-4 h-4' }: { className?: string }) {
   );
 }
 
-function IconSwords({ className = 'w-4 h-4' }: { className?: string }) {
+function IconKey({ className = 'w-4 h-4' }: { className?: string }) {
   return (
     <svg className={className} viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round">
-      <polyline points="14.5 17.5 3 6 3 3 6 3 17.5 14.5" />
-      <line x1="13" x2="19" y1="19" y2="13" />
-      <line x1="16" x2="20" y1="16" y2="20" />
-      <line x1="19" x2="21" y1="21" y2="19" />
-      <polyline points="14.5 6.5 18 3 21 3 21 6 17.5 9.5" />
-      <line x1="5" x2="9" y1="14" y2="18" />
-      <line x1="7" x2="4" y1="17" y2="20" />
-      <line x1="3" x2="5" y1="19" y2="21" />
+      <circle cx="7.5" cy="15.5" r="5.5" />
+      <path d="m21 2-9.6 9.6" />
+      <path d="m15.5 7.5 3 3L22 7l-3-3" />
     </svg>
   );
 }
@@ -126,7 +263,7 @@ const INITIAL_MESSAGES: ChatMessage[] = [
   {
     id: 'welcome-1',
     sender: 'assistant',
-    text: "Hello! I'm your EduVerse AI Assistant. I can help you find NCERT questions, launch chapter quizzes, inspect leaderboards, or take on boss challenges.",
+    text: "Hello! I'm your EduVerse AI Assistant powered by Google Gemini. Ask me any NCERT academic question with LaTeX formulas, or tell me where you'd like to practice!",
     timestamp: 'Just now',
     actions: [
       { label: 'Explore Class 10 Science', href: '/configure?class=Class%2010&subject=Science', icon: 'book' },
@@ -134,218 +271,49 @@ const INITIAL_MESSAGES: ChatMessage[] = [
     ],
     quickReplies: [
       'Take Class 10 Science Quiz',
+      'Explain Photosynthesis Formula',
       'Open Class 7th MCQs',
       'Show Leaderboard',
-      'Enter Boss Fight Arena',
     ],
   },
 ];
 
 const DEFAULT_SUGGESTION_CHIPS = [
   'Take Class 10 Science Quiz',
+  'Explain Newton\'s Second Law',
   'Open Class 7th MCQs',
   'Show Leaderboard',
-  'View Student Dashboard',
   'Enter Boss Fight Arena',
 ];
 
-// ─── Client-Side Mock Intent Engine ──────────────────────────────────────────
-export function handleLocalAssistantResponse(rawInput: string): {
-  text: string;
-  actions?: ChatAction[];
-  quickReplies?: string[];
-} {
-  const query = rawInput.trim().toLowerCase();
+// ─── Action Link Parser ──────────────────────────────────────────────────────
+function parseActionLink(rawText: string): { cleanText: string; action?: ChatAction } {
+  // If still streaming incomplete ACTION_LINK token, conceal the trailing marker
+  const strippedPending = rawText.replace(/ACTION_LINK:?\{?[^}\n]*$/s, '').trimEnd();
 
-  // 1. Detect Class / Grade Number (6 through 12)
-  let detectedClass: string | null = null;
-  const classMatch = query.match(/(?:class|grade|standard|std)\s*(\d{1,2})|(\d{1,2})(?:th|st|nd|rd)?\s*(?:class|grade)/i);
-  if (classMatch) {
-    const num = parseInt(classMatch[1] || classMatch[2], 10);
-    if (num >= 6 && num <= 12) {
-      detectedClass = `Class ${num}`;
+  const match = rawText.match(/ACTION_LINK:\s*(\{.*?\})/);
+  if (!match) {
+    return { cleanText: strippedPending };
+  }
+
+  try {
+    const parsed = JSON.parse(match[1]);
+    if (parsed && typeof parsed.href === 'string' && typeof parsed.label === 'string') {
+      const clean = rawText.replace(/ACTION_LINK:\s*\{.*?\}/g, '').trim();
+      return {
+        cleanText: clean,
+        action: {
+          label: parsed.label,
+          href: parsed.href,
+          variant: 'primary',
+        },
+      };
     }
-  } else {
-    // Check raw digit tokens if accompanied by curriculum words
-    const directDigit = query.match(/\b(6|7|8|9|10|11|12)\b/);
-    if (directDigit && (query.includes('mcq') || query.includes('quiz') || query.includes('test') || query.includes('chapter'))) {
-      detectedClass = `Class ${directDigit[1]}`;
-    }
+  } catch {
+    // Malformed JSON fallback
   }
 
-  // 2. Detect Subject
-  let detectedSubject: string | null = null;
-  if (/science|physics|chemistry|biology/.test(query)) {
-    detectedSubject = 'Science';
-  } else if (/math|mathematics|algebra|geometry|calculus/.test(query)) {
-    detectedSubject = 'Mathematics';
-  } else if (/social|history|geography|civics|sst|polity/.test(query)) {
-    detectedSubject = 'Social Studies';
-  } else if (/english|literature|prose|poetry/.test(query)) {
-    detectedSubject = 'English';
-  } else if (/hindi|vyakaran|grammar/.test(query)) {
-    detectedSubject = 'Hindi Grammar';
-  } else if (/account|accounts|accountancy|balance\s*sheet/.test(query)) {
-    detectedSubject = 'Accountancy';
-  } else if (/economics|eco|macro|micro|gdp/.test(query)) {
-    detectedSubject = 'Economics';
-  } else if (/commerce|business|bst/.test(query)) {
-    detectedSubject = 'Commerce';
-  } else if (/gk|general\s*knowledge|current\s*affairs/.test(query)) {
-    detectedSubject = 'GK';
-  }
-
-  // ── Specific Scenario Routing ──
-
-  // A. Boss Fight / Arena
-  if (/boss|fight|arena|invigilator|sharma\s*ji|rival/.test(query)) {
-    return {
-      text: "Step into the EduVerse Boss Fight Arena! Challenge curriculum bosses like 'The Strict Invigilator' and 'Sharma Ji Ka Beta' in high-stakes conceptual battles.",
-      actions: [
-        { label: '⚔️ Enter Boss Fight Arena', href: '/boss-fight', variant: 'accent' },
-      ],
-      quickReplies: ['Take Class 10 Science Quiz', 'Show Leaderboard'],
-    };
-  }
-
-  // B. Leaderboard / Rankings
-  if (/leaderboard|rank|ranks|scoring|top\s*student|standing/.test(query)) {
-    return {
-      text: "Here is the EduVerse Live Leaderboard. You can view top performers, grade-level ranks, and scholar badges with minor privacy protections.",
-      actions: [
-        { label: '🏆 View Leaderboard', href: '/leaderboard', variant: 'primary' },
-        { label: '📊 View My Dashboard Stats', href: '/dashboard', variant: 'secondary' },
-      ],
-      quickReplies: ['View Student Dashboard', 'Take Class 10 Science Quiz'],
-    };
-  }
-
-  // C. Student Dashboard / Profile / Progress
-  if (/dashboard|progress|profile|xp|stats|accuracy|my\s*score/.test(query)) {
-    return {
-      text: "Navigating to your Student Dashboard. Review your XP points, accuracy rate, subject mastery progress, and recent quiz attempts.",
-      actions: [
-        { label: '📈 Open Student Dashboard', href: '/dashboard', variant: 'primary' },
-      ],
-      quickReplies: ['Show Leaderboard', 'Open Class 7th MCQs'],
-    };
-  }
-
-  // D. Both Class AND Subject Detected (e.g. "class 10 science", "class 7 math mcq")
-  if (detectedClass && detectedSubject) {
-    const encodedClass = encodeURIComponent(detectedClass);
-    const encodedSubject = encodeURIComponent(detectedSubject);
-
-    return {
-      text: `Great choice! Here are direct shortcuts for ${detectedClass} ${detectedSubject}:`,
-      actions: [
-        {
-          label: `⚡ Configure ${detectedClass} ${detectedSubject} Quiz`,
-          href: `/configure?class=${encodedClass}&subject=${encodedSubject}`,
-          variant: 'primary',
-        },
-        {
-          label: `📚 Browse ${detectedClass} Chapters`,
-          href: `/select?class=${encodedClass}`,
-          variant: 'secondary',
-        },
-      ],
-      quickReplies: [
-        `Take ${detectedClass} ${detectedSubject} Quiz`,
-        'Show Leaderboard',
-        'Enter Boss Fight Arena',
-      ],
-    };
-  }
-
-  // E. Only Class Detected (e.g., "open class 7th mcq", "class 9", "class 11")
-  if (detectedClass) {
-    const encodedClass = encodeURIComponent(detectedClass);
-    return {
-      text: `Alright! I found all available chapter tests and subjects for ${detectedClass}:`,
-      actions: [
-        {
-          label: `📂 Open ${detectedClass} Curriculum Hub`,
-          href: `/select?class=${encodedClass}`,
-          variant: 'primary',
-        },
-        {
-          label: `🎯 Setup Custom ${detectedClass} Assessment`,
-          href: `/configure?class=${encodedClass}`,
-          variant: 'secondary',
-        },
-      ],
-      quickReplies: [
-        `Class 10 Science`,
-        `Class 7 Math`,
-        'Show Leaderboard',
-      ],
-    };
-  }
-
-  // F. Only Subject Detected (e.g., "maths quiz", "science mcqs")
-  if (detectedSubject) {
-    return {
-      text: `Looking for ${detectedSubject}? Select your grade tier or explore all chapters below:`,
-      actions: [
-        {
-          label: `🔍 Browse ${detectedSubject} by Grade`,
-          href: `/select`,
-          variant: 'primary',
-        },
-      ],
-      quickReplies: [
-        `Class 10 ${detectedSubject}`,
-        `Class 9 ${detectedSubject}`,
-        `Class 7 ${detectedSubject}`,
-      ],
-    };
-  }
-
-  // G. General Assessment / Mode / Practice / Exam
-  if (/quiz|test|exam|practice|assessment|configure|mcq/.test(query)) {
-    return {
-      text: "You can customize any assessment by difficulty (Easy, Medium, Hard, Very Hard) and mode (Practice vs. Exam with timer).",
-      actions: [
-        { label: '⚙️ Open Assessment Wizard', href: '/configure', variant: 'primary' },
-        { label: '📖 Browse Curriculum', href: '/select', variant: 'secondary' },
-      ],
-      quickReplies: ['Take Class 10 Science Quiz', 'Open Class 7th MCQs'],
-    };
-  }
-
-  // H. Greetings & Help
-  if (/^(hi|hello|hey|greetings|hola|sup|help|start)\b/i.test(query)) {
-    return {
-      text: "Hi there! I'm your EduVerse Navigation Copilot. Ask me to launch any grade or subject quiz (e.g., 'class 10 science' or 'open class 7th mcq'), or check your leaderboard rankings.",
-      actions: [
-        { label: '📚 Browse All Classes (6–12)', href: '/select', variant: 'primary' },
-        { label: '🏆 View Leaderboard', href: '/leaderboard', variant: 'secondary' },
-      ],
-      quickReplies: [
-        'Take Class 10 Science Quiz',
-        'Open Class 7th MCQs',
-        'Show Leaderboard',
-        'Enter Boss Fight Arena',
-      ],
-    };
-  }
-
-  // I. Default / Fallback Response
-  return {
-    text: `I'm ready to help you navigate EduVerse. You can ask for any class (6–12), specific subjects (Science, Math, Social Studies, Commerce, etc.), or platform features:`,
-    actions: [
-      { label: '📚 Open Curriculum Catalog', href: '/select', variant: 'primary' },
-      { label: '🏆 Check Leaderboard', href: '/leaderboard', variant: 'secondary' },
-      { label: '⚔️ Try Boss Fight Arena', href: '/boss-fight', variant: 'accent' },
-    ],
-    quickReplies: [
-      'Take Class 10 Science Quiz',
-      'Open Class 7th MCQs',
-      'Show Leaderboard',
-      'View Student Dashboard',
-    ],
-  };
+  return { cleanText: rawText.replace(/ACTION_LINK:.*$/gm, '').trim() };
 }
 
 // ─── Main Component ──────────────────────────────────────────────────────────
@@ -356,11 +324,12 @@ export default function EduVerseChatbox() {
   const [isTyping, setIsTyping] = useState(false);
   const [hasUnread, setHasUnread] = useState(true);
 
+  const { isSignedIn } = useUser();
   const messagesEndRef = useRef<HTMLDivElement>(null);
   const inputRef = useRef<HTMLInputElement>(null);
-  const router = useRouter();
+  const abortControllerRef = useRef<AbortController | null>(null);
 
-  // Scroll to bottom on new messages
+  // Auto-scroll on new messages or during streaming
   const scrollToBottom = () => {
     messagesEndRef.current?.scrollIntoView({ behavior: 'smooth' });
   };
@@ -369,19 +338,20 @@ export default function EduVerseChatbox() {
     if (isOpen) {
       scrollToBottom();
       setHasUnread(false);
-      // Focus input when opened
       const timer = setTimeout(() => inputRef.current?.focus(), 150);
       return () => clearTimeout(timer);
     }
   }, [isOpen, messages]);
 
-  // Handle clearing history
   const handleClearChat = () => {
+    if (abortControllerRef.current) {
+      abortControllerRef.current.abort();
+    }
     setMessages(INITIAL_MESSAGES);
   };
 
-  // Dispatch a message (from user typing or clicking suggestion chip)
-  const handleSendMessage = (textToSend?: string) => {
+  // ── Dispatch Message via Gemini Streaming Route ──
+  const handleSendMessage = async (textToSend?: string) => {
     const text = (textToSend || inputValue).trim();
     if (!text || isTyping) return;
 
@@ -392,25 +362,146 @@ export default function EduVerseChatbox() {
       timestamp: new Date().toLocaleTimeString([], { hour: '2-digit', minute: '2-digit' }),
     };
 
-    setMessages((prev) => [...prev, userMessage]);
+    const nextMessages = [...messages, userMessage];
+    setMessages(nextMessages);
     setInputValue('');
     setIsTyping(true);
 
-    // Simulate thinking delay (realistic 450ms client-side transition)
-    setTimeout(() => {
-      const response = handleLocalAssistantResponse(text);
-      const assistantMessage: ChatMessage = {
-        id: `assistant-${Date.now()}`,
-        sender: 'assistant',
-        text: response.text,
-        timestamp: new Date().toLocaleTimeString([], { hour: '2-digit', minute: '2-digit' }),
-        actions: response.actions,
-        quickReplies: response.quickReplies,
-      };
+    // Placeholder assistant message for live streaming
+    const assistantMessageId = `assistant-${Date.now()}`;
+    const assistantPlaceholder: ChatMessage = {
+      id: assistantMessageId,
+      sender: 'assistant',
+      text: '',
+      timestamp: new Date().toLocaleTimeString([], { hour: '2-digit', minute: '2-digit' }),
+      isStreaming: true,
+    };
 
-      setMessages((prev) => [...prev, assistantMessage]);
+    setMessages((prev) => [...prev, assistantPlaceholder]);
+
+    try {
+      abortControllerRef.current = new AbortController();
+
+      const response = await fetch('/api/chat', {
+        method: 'POST',
+        headers: { 'Content-Type': 'application/json' },
+        body: JSON.stringify({
+          messages: nextMessages.map((m) => ({
+            sender: m.sender,
+            text: m.text,
+          })),
+        }),
+        signal: abortControllerRef.current.signal,
+      });
+
+      // ── Handle Specific Error Codes ──
+      if (response.status === 401) {
+        setMessages((prev) =>
+          prev.map((msg) =>
+            msg.id === assistantMessageId
+              ? {
+                  ...msg,
+                  text: 'Please sign in to chat with the EduVerse AI Assistant and access interactive study features.',
+                  isStreaming: false,
+                  actions: [
+                    { label: '🔑 Sign In to EduVerse', href: '/sign-in', variant: 'primary' },
+                    { label: '✨ Create an Account', href: '/sign-up', variant: 'secondary' },
+                  ],
+                }
+              : msg
+          )
+        );
+        setIsTyping(false);
+        return;
+      }
+
+      if (response.status === 429) {
+        setMessages((prev) =>
+          prev.map((msg) =>
+            msg.id === assistantMessageId
+              ? {
+                  ...msg,
+                  text: 'The AI Assistant is currently experiencing high traffic. Please wait a few seconds before sending another message.',
+                  isStreaming: false,
+                }
+              : msg
+          )
+        );
+        setIsTyping(false);
+        return;
+      }
+
+      if (!response.ok || !response.body) {
+        throw new Error(`HTTP ${response.status}`);
+      }
+
+      // ── Stream Incoming Chunks into Message Bubble ──
+      const reader = response.body.getReader();
+      const decoder = new TextDecoder();
+      let accumulatedText = '';
+
+      while (true) {
+        const { value, done } = await reader.read();
+        if (done) break;
+
+        const chunk = decoder.decode(value, { stream: true });
+        accumulatedText += chunk;
+
+        // Parse any live action link tokens
+        const { cleanText, action } = parseActionLink(accumulatedText);
+
+        setMessages((prev) =>
+          prev.map((msg) =>
+            msg.id === assistantMessageId
+              ? {
+                  ...msg,
+                  text: cleanText,
+                  actions: action ? [action] : undefined,
+                  isStreaming: true,
+                }
+              : msg
+          )
+        );
+      }
+
+      // Final pass after stream closes
+      const finalParsed = parseActionLink(accumulatedText);
+      setMessages((prev) =>
+        prev.map((msg) =>
+          msg.id === assistantMessageId
+            ? {
+                ...msg,
+                text: finalParsed.cleanText,
+                actions: finalParsed.action ? [finalParsed.action] : undefined,
+                isStreaming: false,
+              }
+            : msg
+        )
+      );
+    } catch (err: any) {
+      if (err.name === 'AbortError') return;
+
+      console.warn('Gemini chat streaming fallback triggered:', err);
+
+      // Intelligent Client-Side Fallback via Local Intent Engine
+      const fallback = handleLocalAssistantResponse(text);
+      setMessages((prev) =>
+        prev.map((msg) =>
+          msg.id === assistantMessageId
+            ? {
+                ...msg,
+                text: fallback.text,
+                actions: fallback.actions,
+                quickReplies: fallback.quickReplies,
+                isStreaming: false,
+              }
+            : msg
+        )
+      );
+    } finally {
       setIsTyping(false);
-    }, 450);
+      abortControllerRef.current = null;
+    }
   };
 
   const handleKeyDown = (e: React.KeyboardEvent<HTMLInputElement>) => {
@@ -472,7 +563,7 @@ export default function EduVerseChatbox() {
             animate={{ opacity: 1, y: 0, scale: 1 }}
             exit={{ opacity: 0, y: 16, scale: 0.94 }}
             transition={{ duration: 0.22, ease: [0.16, 1, 0.3, 1] }}
-            className="fixed bottom-24 right-4 sm:right-6 z-50 w-[calc(100vw-2rem)] sm:w-[410px] h-[580px] max-h-[82vh] bg-slate-900/95 border border-slate-800 rounded-2xl shadow-2xl backdrop-blur-xl flex flex-col overflow-hidden text-slate-100 ring-1 ring-white/10"
+            className="fixed bottom-24 right-4 sm:right-6 z-50 w-[calc(100vw-2rem)] sm:w-[420px] h-[600px] max-h-[82vh] bg-slate-900/95 border border-slate-800 rounded-2xl shadow-2xl backdrop-blur-xl flex flex-col overflow-hidden text-slate-100 ring-1 ring-white/10"
           >
             {/* Header */}
             <div className="flex items-center justify-between px-4 py-3.5 border-b border-slate-800/80 bg-slate-950/60 backdrop-blur-md select-none">
@@ -487,8 +578,11 @@ export default function EduVerseChatbox() {
                       <span className="animate-ping absolute inline-flex h-full w-full rounded-full bg-emerald-400 opacity-75" />
                       <span className="relative inline-flex rounded-full h-2 w-2 bg-emerald-400" />
                     </span>
+                    <span className="text-[10px] font-mono px-1.5 py-0.5 rounded bg-emerald-500/10 text-emerald-400 border border-emerald-500/20">
+                      Gemini
+                    </span>
                   </div>
-                  <p className="text-[11px] text-slate-400">Navigation & Practice Assistant</p>
+                  <p className="text-[11px] text-slate-400">NCERT Academic & Navigation Assistant</p>
                 </div>
               </div>
 
@@ -541,7 +635,17 @@ export default function EduVerseChatbox() {
                           : 'bg-slate-800/90 text-slate-200 border border-slate-700/60 rounded-tl-xs'
                       }`}
                     >
-                      <p>{msg.text}</p>
+                      {/* Math & Text Rendering */}
+                      {isUser ? (
+                        <p>{msg.text}</p>
+                      ) : (
+                        <div className="space-y-1.5 whitespace-pre-wrap leading-relaxed">
+                          <MathText text={msg.text} />
+                          {msg.isStreaming && (
+                            <span className="inline-block w-1.5 h-3.5 ml-1 bg-emerald-400 animate-pulse align-middle" />
+                          )}
+                        </div>
+                      )}
 
                       {/* Interactive Action Cards */}
                       {msg.actions && msg.actions.length > 0 && (
@@ -564,6 +668,8 @@ export default function EduVerseChatbox() {
                                   <IconTrophy className="w-3.5 h-3.5 text-amber-400 flex-shrink-0" />
                                 ) : action.icon === 'book' ? (
                                   <IconBookOpen className="w-3.5 h-3.5 text-emerald-400 flex-shrink-0" />
+                                ) : action.href.startsWith('/sign') ? (
+                                  <IconKey className="w-3.5 h-3.5 text-emerald-400 flex-shrink-0" />
                                 ) : (
                                   <IconSparkles className="w-3.5 h-3.5 text-emerald-400 flex-shrink-0" />
                                 )}
@@ -583,8 +689,8 @@ export default function EduVerseChatbox() {
                 );
               })}
 
-              {/* Typing / Thinking Indicator */}
-              {isTyping && (
+              {/* Typing / Stream Initializing Indicator */}
+              {isTyping && messages[messages.length - 1]?.text === '' && (
                 <div className="flex items-center gap-2 text-slate-400 text-xs py-1">
                   <div className="w-6 h-6 rounded-full bg-slate-800 border border-slate-700 flex items-center justify-center text-emerald-400">
                     <IconBot className="w-3.5 h-3.5" />
@@ -609,7 +715,11 @@ export default function EduVerseChatbox() {
                   value={inputValue}
                   onChange={(e) => setInputValue(e.target.value)}
                   onKeyDown={handleKeyDown}
-                  placeholder="Type a command (e.g. 'open class 7th mcq')..."
+                  placeholder={
+                    isSignedIn
+                      ? "Ask an academic question or type 'open class 7th mcq'..."
+                      : "Type a command or ask a question..."
+                  }
                   className="flex-1 bg-transparent text-xs sm:text-sm text-white placeholder-slate-400 focus:outline-none"
                 />
                 <button

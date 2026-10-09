@@ -28,6 +28,7 @@ const isPublicRoute = createRouteMatcher([
   "/api/meta(.*)",
   "/api/leaderboard(.*)",
   "/api/stats(.*)",
+  "/api/chat(.*)",
 ]);
 
 const publishableKey =
@@ -43,7 +44,6 @@ const clerkHandler = clerkMiddleware(
   },
   {
     publishableKey,
-    ...(process.env.CLERK_SECRET_KEY ? { secretKey: process.env.CLERK_SECRET_KEY } : {}),
   }
 );
 
