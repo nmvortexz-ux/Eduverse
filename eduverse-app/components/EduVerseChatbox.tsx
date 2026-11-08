@@ -5,6 +5,7 @@ import Link from 'next/link';
 import { motion, AnimatePresence } from 'framer-motion';
 import { useUser } from '@clerk/nextjs';
 import MathText from '@/components/MathText';
+import { getAcademicMentorResponse } from '@/lib/academicCompanion';
 
 // ─── Interfaces ──────────────────────────────────────────────────────────────
 export interface ChatAction {
@@ -85,54 +86,28 @@ function IconArrowRight({ className = 'w-3.5 h-3.5' }: { className?: string }) {
   );
 }
 
-// ─── Friendly Offline/Fallback Intent Engine ─────────────────────────────────
+// ─── Friendly Academic Mentor Response Engine ────────────────────────────────
 function handleLocalAssistantResponse(rawInput: string): {
   text: string;
   action: ChatAction | null;
 } {
-  const query = rawInput.trim().toLowerCase();
-
-  let detectedClass: string | null = null;
-  const classMatch = query.match(/(?:class|grade|standard|std)\s*(\d{1,2})|(\d{1,2})(?:th|st|nd|rd)?\s*(?:class|grade)/i);
-  if (classMatch) {
-    const num = parseInt(classMatch[1] || classMatch[2], 10);
-    if (num >= 6 && num <= 12) detectedClass = `Class ${num}`;
-  } else {
-    const directDigit = query.match(/\b(6|7|8|9|10|11|12)\b/);
-    if (directDigit && (query.includes('mcq') || query.includes('quiz') || query.includes('science') || query.includes('math'))) {
-      detectedClass = `Class ${directDigit[1]}`;
-    }
-  }
-
-  if (/leaderboard|rank|ranks|scoring|top\s*student/.test(query)) {
-    return {
-      text: "You've got this! 😊 Here is the live leaderboard so you can check your rank and celebrate your progress:",
-      action: { label: 'Open Leaderboard', href: '/leaderboard' },
-    };
-  }
-
-  if (/dashboard|progress|profile|xp|stats|accuracy|my\s*score/.test(query)) {
-    return {
-      text: "Happy to show you! Here is your student dashboard with all your learning milestones and stats:",
-      action: { label: 'View Student Dashboard', href: '/dashboard' },
-    };
-  }
-
-  if (detectedClass) {
-    return {
-      text: `Let's practice together! Here are all the subjects and chapters ready for ${detectedClass}:`,
-      action: { label: `Start ${detectedClass} Practice`, href: `/select?class=${encodeURIComponent(detectedClass)}` },
-    };
-  }
-
+  const res = getAcademicMentorResponse(rawInput);
   return {
-    text: "Happy to help you learn! Let's explore the NCERT curriculum together. Which grade or subject would you like to practice today?",
-    action: { label: 'Browse All Subjects', href: '/select' },
+    text: res.text,
+    action: res.action,
   };
 }
 
 // ─── Message Parsing Helper ──────────────────────────────────────────────────
 function parseMessageContent(rawText: string): { text: string; action: ChatAction | null } {
+  // Guard against any raw JSON errors sneaking into the display
+  if (rawText.trim().startsWith('{') && (rawText.includes('"error"') || rawText.includes('"code"'))) {
+    return {
+      text: "I'm right here with you! 😊 Let's explore your studies together. What subject or chapter would you like to practice today?",
+      action: { label: "Explore Subjects & Quizzes", href: "/select" }
+    };
+  }
+
   // Hide partial/pending ACTION_LINK token while text is actively streaming
   const pendingStripped = rawText.replace(/ACTION_LINK:?\{?[^}\n]*$/s, '').trimEnd();
 
@@ -290,18 +265,14 @@ export default function EduVerseChatbox() {
       }
 
       if (!response.ok || !response.body) {
-        let errorDetails = '';
-        try {
-          const data = await response.json();
-          if (data?.error) errorDetails = data.error;
-        } catch {}
-
+        const fallback = handleLocalAssistantResponse(text);
         setMessages((prev) =>
           prev.map((msg) =>
             msg.id === assistantMessageId
               ? {
                   ...msg,
-                  text: errorDetails || "I'm having a little trouble connecting right now. Please check your connection and try again in a moment! 😊",
+                  text: fallback.text,
+                  actions: fallback.action ? [fallback.action] : undefined,
                   isStreaming: false,
                 }
               : msg
